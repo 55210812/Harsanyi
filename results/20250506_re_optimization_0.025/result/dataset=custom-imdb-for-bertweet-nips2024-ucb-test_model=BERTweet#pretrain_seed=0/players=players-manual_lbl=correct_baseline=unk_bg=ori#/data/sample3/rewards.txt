@@ -1,0 +1,23 @@
+---------- Players ----------
+Player A: good
+Player B: film.
+Player C: very
+Player D: funny.
+Player E: Yet
+Player F: after
+Player G: film
+Player H: no
+Player I: good
+Player J: Ernest
+Player K: films!
+---------- Rewards ----------
+v(): -4.780889511108398	 ([])
+v(GI): 2.157789945602417	 ([film][good])
+v(ABCDEFHJK): 4.677947044372559	 ([good][film.][very][funny.][Yet][after][no][Ernest][films!])
+v(ABCDEFGHIJK): 4.257153034210205	 ([good][film.][very][funny.][Yet][after][film][no][good][Ernest][films!])
+---------- Rewards-v() ----------
+v(ABCDEFHJK): 9.458836555480957	 ([good][film.][very][funny.][Yet][after][no][Ernest][films!])
+v(ABCDEFGHIJK): 9.038042068481445	 ([good][film.][very][funny.][Yet][after][film][no][good][Ernest][films!])
+v(GI): 6.9386796951293945	 ([film][good])
+v(): 0.0	 ([])
+==================================================

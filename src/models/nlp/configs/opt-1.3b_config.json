@@ -1,0 +1,6 @@
+{
+    "model_name":"facebook/opt-1.3b",
+    "model_path":"../../huggingface/hub/models--facebook--opt-1.3b/snapshots/8c7b10754972749675d22364c25c428b29face51",
+    "tokenizer_path":"../../huggingface/hub/models--facebook--opt-1.3b/snapshots/8c7b10754972749675d22364c25c428b29face51",
+    "word_embed":"model/decoder/embed_tokens"
+}

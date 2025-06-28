@@ -1,0 +1,32 @@
+---------- Players ----------
+Player A: don't
+Player B: know
+Player C: why
+Player D: like
+Player E: movie
+Player F: well,
+Player G: never
+Player H: get
+Player I: tired
+Player J: of
+Player K: watching
+Player L: it.
+---------- Rewards ----------
+v(): -4.508148670196533	 ([])
+v(ABCD): -5.1836700439453125	 ([don't][know][why][like])
+v(EI): -5.351031303405762	 ([movie][tired])
+v(FGHJKL): -4.004056453704834	 ([well,][never][get][of][watching][it.])
+v(ABCDEI): -5.688716888427734	 ([don't][know][why][like][movie][tired])
+v(ABCDFGHJKL): -5.193232536315918	 ([don't][know][why][like][well,][never][get][of][watching][it.])
+v(EFGHIJKL): 4.674544334411621	 ([movie][well,][never][get][tired][of][watching][it.])
+v(ABCDEFGHIJKL): 4.504663944244385	 ([don't][know][why][like][movie][well,][never][get][tired][of][watching][it.])
+---------- Rewards-v() ----------
+v(EFGHIJKL): 9.182693481445312, EP: 1.0188487768173218	 ([movie][well,][never][get][tired][of][watching][it.])
+v(ABCDEFGHIJKL): 9.012812614440918, EP: 1.0	 ([don't][know][why][like][movie][well,][never][get][tired][of][watching][it.])
+v(ABCDEI): -1.1805682182312012, EP: -0.1309877634048462	 ([don't][know][why][like][movie][tired])
+v(EI): -0.8428826332092285, EP: -0.09352048486471176	 ([movie][tired])
+v(ABCDFGHJKL): -0.6850838661193848, EP: -0.07601221650838852	 ([don't][know][why][like][well,][never][get][of][watching][it.])
+v(ABCD): -0.6755213737487793, EP: -0.07495123147964478	 ([don't][know][why][like])
+v(FGHJKL): 0.5040922164916992, EP: 0.055930621922016144	 ([well,][never][get][of][watching][it.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

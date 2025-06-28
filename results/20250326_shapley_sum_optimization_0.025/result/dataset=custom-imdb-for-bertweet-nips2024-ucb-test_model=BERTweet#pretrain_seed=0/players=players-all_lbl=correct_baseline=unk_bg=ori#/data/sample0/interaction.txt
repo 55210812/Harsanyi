@@ -1,0 +1,19 @@
+---------- Players ----------
+Player A: Her
+Player B: acting
+Player C: never
+Player D: fails
+Player E: to
+Player F: impress
+---------- AND Interactions (Pairwise Only) ----------
+I(CF): -5.441343784332275	 ([never][impress])
+I(DF): -4.803301811218262	 ([fails][impress])
+I(AF): 1.9384756088256836	 ([Her][impress])
+I(CD): 1.376218318939209	 ([never][fails])
+I(EF): -1.2368252277374268	 ([to][impress])
+I(BF): 0.6193423271179199	 ([acting][impress])
+I(AC): 0.5039381980895996	 ([Her][never])
+I(BC): 0.4610567092895508	 ([acting][never])
+I(AB): 0.3871030807495117	 ([Her][acting])
+Sum: 8.553445816040039
+==================================================

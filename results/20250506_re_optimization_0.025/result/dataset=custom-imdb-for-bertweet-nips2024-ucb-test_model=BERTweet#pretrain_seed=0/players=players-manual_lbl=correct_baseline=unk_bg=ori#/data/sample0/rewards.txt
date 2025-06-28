@@ -1,0 +1,17 @@
+---------- Players ----------
+Player A: Her
+Player B: acting
+Player C: never
+Player D: fails
+Player E: impress
+---------- Rewards ----------
+v(): -4.422109127044678	 ([])
+v(CD): -0.017751187086105347	 ([never][fails])
+v(ABE): 1.154526948928833	 ([Her][acting][impress])
+v(ABCDE): 4.157092571258545	 ([Her][acting][never][fails][impress])
+---------- Rewards-v() ----------
+v(ABCDE): 8.579201698303223	 ([Her][acting][never][fails][impress])
+v(ABE): 5.57663631439209	 ([Her][acting][impress])
+v(CD): 4.40435791015625	 ([never][fails])
+v(): 0.0	 ([])
+==================================================

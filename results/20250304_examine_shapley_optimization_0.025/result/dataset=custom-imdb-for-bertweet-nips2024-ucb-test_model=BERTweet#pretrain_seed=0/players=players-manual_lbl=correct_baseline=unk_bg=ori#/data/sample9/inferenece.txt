@@ -1,0 +1,30 @@
+Execution time: 2025-03-07 12:16:07
+prompt: <s> Add this little gem to your list of holiday regulars. It is sweet, funny, and endearing </s>
+---------- tokenizer ----------
+idx:0 input_id:0 decoded_text: <s>
+idx:1 input_id:5248 decoded_text: Add
+idx:2 input_id:33 decoded_text: this
+idx:3 input_id:263 decoded_text: little
+idx:4 input_id:13449 decoded_text: gem
+idx:5 input_id:9 decoded_text: to
+idx:6 input_id:44 decoded_text: your
+idx:7 input_id:900 decoded_text: list
+idx:8 input_id:15 decoded_text: of
+idx:9 input_id:2114 decoded_text: holiday
+idx:10 input_id:40870 decoded_text: regular@@
+idx:11 input_id:32188 decoded_text: s.
+idx:12 input_id:76 decoded_text: It
+idx:13 input_id:17 decoded_text: is
+idx:14 input_id:26927 decoded_text: sweet@@
+idx:15 input_id:7 decoded_text: ,
+idx:16 input_id:55784 decoded_text: funny@@
+idx:17 input_id:7 decoded_text: ,
+idx:18 input_id:13 decoded_text: and
+idx:19 input_id:2684 decoded_text: end@@
+idx:20 input_id:17199 decoded_text: earing
+idx:21 input_id:2 decoded_text: </s>
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.603651762008667, -0.9893273115158081, 3.9484477043151855]]
+decoded_pred_text (only for generation task): </s>
+==================================================

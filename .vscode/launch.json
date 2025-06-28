@@ -1,0 +1,20 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python 调试程序: 当前文件",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "--file_path","/mnt/data/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250410_harsanyi_all_optimization_0.025/result/dataset=custom-imdb-for-bertweet-nips2024-ucb-test_model=BERTweet#pretrain_seed=0/players=players-all_lbl=correct_baseline=unk_bg=ori#/data/sample10/interaction.txt" ,
+                "--output","and_interactions_s10.png",
+                "--function","louvain" 
+            ]
+        }
+    ]
+}

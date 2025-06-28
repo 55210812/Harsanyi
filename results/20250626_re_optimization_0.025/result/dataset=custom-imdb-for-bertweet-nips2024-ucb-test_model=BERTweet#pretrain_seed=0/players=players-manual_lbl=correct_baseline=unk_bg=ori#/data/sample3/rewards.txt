@@ -1,0 +1,47 @@
+---------- Players ----------
+Player A: good
+Player B: film.
+Player C: very
+Player D: funny.
+Player E: Yet
+Player F: after
+Player G: film
+Player H: no
+Player I: good
+Player J: Ernest
+Player K: films!
+---------- Rewards ----------
+v(): -4.780888080596924	 ([])
+v(ABDEG): 4.234912872314453	 ([good][film.][funny.][Yet][film])
+v(CFHI): -6.045529365539551	 ([very][after][no][good])
+v(K): -4.299639701843262	 ([films!])
+v(J): -4.6292619705200195	 ([Ernest])
+v(ABCDEFGHI): 3.7604551315307617	 ([good][film.][very][funny.][Yet][after][film][no][good])
+v(ABDEGK): 4.404112339019775	 ([good][film.][funny.][Yet][film][films!])
+v(ABDEGJ): 4.494175910949707	 ([good][film.][funny.][Yet][film][Ernest])
+v(CFHIK): -5.969003677368164	 ([very][after][no][good][films!])
+v(CFHIJ): -6.075484275817871	 ([very][after][no][good][Ernest])
+v(JK): -3.7606587409973145	 ([Ernest][films!])
+v(ABCDEFGHIK): 3.619760036468506	 ([good][film.][very][funny.][Yet][after][film][no][good][films!])
+v(ABCDEFGHIJ): 4.296681880950928	 ([good][film.][very][funny.][Yet][after][film][no][good][Ernest])
+v(ABDEGJK): 4.587637901306152	 ([good][film.][funny.][Yet][film][Ernest][films!])
+v(CFHIJK): -5.916982650756836	 ([very][after][no][good][Ernest][films!])
+v(ABCDEFGHIJK): 4.257152557373047	 ([good][film.][very][funny.][Yet][after][film][no][good][Ernest][films!])
+---------- Rewards-v() ----------
+v(ABDEGJK): 9.368526458740234, EP: 1.036566138267517	 ([good][film.][funny.][Yet][film][Ernest][films!])
+v(ABDEGJ): 9.275064468383789, EP: 1.026225209236145	 ([good][film.][funny.][Yet][film][Ernest])
+v(ABDEGK): 9.1850004196167, EP: 1.0162601470947266	 ([good][film.][funny.][Yet][film][films!])
+v(ABCDEFGHIJ): 9.077569961547852, EP: 1.0043736696243286	 ([good][film.][very][funny.][Yet][after][film][no][good][Ernest])
+v(ABCDEFGHIJK): 9.038040161132812, EP: 1.0	 ([good][film.][very][funny.][Yet][after][film][no][good][Ernest][films!])
+v(ABDEG): 9.015800476074219, EP: 0.9975393414497375	 ([good][film.][funny.][Yet][film])
+v(ABCDEFGHI): 8.541343688964844, EP: 0.9450438022613525	 ([good][film.][very][funny.][Yet][after][film][no][good])
+v(ABCDEFGHIK): 8.40064811706543, EP: 0.9294767379760742	 ([good][film.][very][funny.][Yet][after][film][no][good][films!])
+v(CFHIJ): -1.2945961952209473, EP: -0.1432386040687561	 ([very][after][no][good][Ernest])
+v(CFHI): -1.264641284942627, EP: -0.1399242877960205	 ([very][after][no][good])
+v(CFHIK): -1.1881155967712402, EP: -0.13145720958709717	 ([very][after][no][good][films!])
+v(CFHIJK): -1.136094570159912, EP: -0.1257014274597168	 ([very][after][no][good][Ernest][films!])
+v(JK): 1.0202293395996094, EP: 0.11288169771432877	 ([Ernest][films!])
+v(K): 0.4812483787536621, EP: 0.053246982395648956	 ([films!])
+v(J): 0.1516261100769043, EP: 0.01677643693983555	 ([Ernest])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,33 @@
+Execution time: 2025-06-04 19:31:30
+prompt: <s> This is a good film. This is very funny. Yet after this film there were no good Ernest films! </s>
+---------- tokenizer ----------
+idx:0 input_id:0 decoded_text: <s>
+idx:1 input_id:126 decoded_text: This
+idx:2 input_id:17 decoded_text: is
+idx:3 input_id:11 decoded_text: a
+idx:4 input_id:94 decoded_text: good
+idx:5 input_id:38436 decoded_text: film@@
+idx:6 input_id:4 decoded_text: .
+idx:7 input_id:126 decoded_text: This
+idx:8 input_id:17 decoded_text: is
+idx:9 input_id:249 decoded_text: very
+idx:10 input_id:55784 decoded_text: funny@@
+idx:11 input_id:4 decoded_text: .
+idx:12 input_id:4758 decoded_text: Yet
+idx:13 input_id:177 decoded_text: after
+idx:14 input_id:33 decoded_text: this
+idx:15 input_id:1099 decoded_text: film
+idx:16 input_id:99 decoded_text: there
+idx:17 input_id:147 decoded_text: were
+idx:18 input_id:80 decoded_text: no
+idx:19 input_id:94 decoded_text: good
+idx:20 input_id:31622 decoded_text: Ernest
+idx:21 input_id:9123 decoded_text: fil@@
+idx:22 input_id:11116 decoded_text: ms@@
+idx:23 input_id:12 decoded_text: !
+idx:24 input_id:2 decoded_text: </s>
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.16317081451416, -1.142714262008667, 3.4222397804260254]]
+decoded_pred_text (only for generation task): </s>
+==================================================

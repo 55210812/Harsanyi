@@ -1,0 +1,19 @@
+---------- Players ----------
+Player A: don't
+Player B: know
+Player C: why
+Player D: like
+Player E: movie
+Player F: well,
+Player G: never
+Player H: get
+Player I: tired
+Player J: of
+Player K: watching
+Player L: it.
+---------- Rewards ----------
+v(): -4.508149147033691	 ([])
+v(GI): -2.242119312286377	 ([never][tired])
+v(ABCDEFHJKL): -1.6556843519210815	 ([don't][know][why][like][movie][well,][get][of][watching][it.])
+v(ABCDEFGHIJKL): 4.504664421081543	 ([don't][know][why][like][movie][well,][never][get][tired][of][watching][it.])
+==================================================

@@ -1,0 +1,23 @@
+---------- Players ----------
+Player A: Hated
+Player B: being.
+Player C: Worst
+Player D: movie
+Player E: ever.
+Player F: Mentally-
+Player G: scarred.
+Player H: Help
+Player I: bad.
+Player J: TRUST
+Player K: ME!!!
+---------- Rewards ----------
+v(): -2.9479503631591797	 ([])
+v(ACHIJ): 3.8694519996643066	 ([Hated][Worst][Help][bad.][TRUST])
+v(BDEFGK): -0.6607451438903809	 ([being.][movie][ever.][Mentally-][scarred.][ME!!!])
+v(ABCDEFGHIJK): 4.080577373504639	 ([Hated][being.][Worst][movie][ever.][Mentally-][scarred.][Help][bad.][TRUST][ME!!!])
+---------- Rewards-v() ----------
+v(ABCDEFGHIJK): 7.028527736663818	 ([Hated][being.][Worst][movie][ever.][Mentally-][scarred.][Help][bad.][TRUST][ME!!!])
+v(ACHIJ): 6.817402362823486	 ([Hated][Worst][Help][bad.][TRUST])
+v(BDEFGK): 2.287205219268799	 ([being.][movie][ever.][Mentally-][scarred.][ME!!!])
+v(): 0.0	 ([])
+==================================================

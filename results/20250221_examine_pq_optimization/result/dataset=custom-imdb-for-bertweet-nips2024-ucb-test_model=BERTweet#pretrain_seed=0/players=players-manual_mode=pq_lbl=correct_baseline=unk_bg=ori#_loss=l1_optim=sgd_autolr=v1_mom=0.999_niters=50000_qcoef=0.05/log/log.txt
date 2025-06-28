@@ -1,0 +1,108 @@
+Execution time: 2025-02-21 16:44:53
+--------------- args ---------------
+save_root : results/20250221_examine_pq_optimization
+gpu_id : 0
+seed : 0
+data_type_name : auto
+model : BERTweet#pretrain
+dataset : custom-imdb-for-bertweet-nips2024-ucb
+data_path : datasets/custom-imdb-for-bertweet-nips2024-ucb
+batch_size : 1
+data_split : test
+selected_dim : gt-log-odds
+gt_type : correct
+player_path : players/custom-imdb-for-bertweet-nips2024-ucb/players-manual
+baseline_type : unk
+baseline_path : 
+background_type : ori
+sort_type : order
+cal_batch_size : 10240
+verbose : 1
+sparse_mode : pq
+loss : l1
+delta : 1.0
+optimizer : sgd
+lr : 1e-07
+auto_lr : v1
+momentum : 0.999
+niters : 50000
+qcoef : 0.05
+qstd : vN-v0
+qscale : uniform
+qtricks : 0
+piecewise : 0
+init_pq_path : 
+device : cuda:0
+dataset_model : dataset=custom-imdb-for-bertweet-nips2024-ucb-test_model=BERTweet#pretrain_seed=0
+save_path : results/20250221_examine_pq_optimization/result/dataset=custom-imdb-for-bertweet-nips2024-ucb-test_model=BERTweet#pretrain_seed=0/players=players-manual_mode=pq_lbl=correct_baseline=unk_bg=ori#_loss=l1_optim=sgd_autolr=v1_mom=0.999_niters=50000_qcoef=0.05
+save_path_result : results/20250221_examine_pq_optimization/result/dataset=custom-imdb-for-bertweet-nips2024-ucb-test_model=BERTweet#pretrain_seed=0/players=players-manual_mode=pq_lbl=correct_baseline=unk_bg=ori#_loss=l1_optim=sgd_autolr=v1_mom=0.999_niters=50000_qcoef=0.05/data
+save_path_log : results/20250221_examine_pq_optimization/result/dataset=custom-imdb-for-bertweet-nips2024-ucb-test_model=BERTweet#pretrain_seed=0/players=players-manual_mode=pq_lbl=correct_baseline=unk_bg=ori#_loss=l1_optim=sgd_autolr=v1_mom=0.999_niters=50000_qcoef=0.05/log
+arch : BERTweet
+model_kwargs : {}
+tokenizer_kwargs : {}
+ModelClass : <class 'transformers.models.auto.modeling_auto.AutoModelForSequenceClassification'>
+TokenizerClass : <class 'transformers.models.auto.tokenization_auto.AutoTokenizer'>
+config_path : src/models/nlp/configs/bertweet_config.json
+task : nlp-seq-cls
+data_type_actual : torch.float32
+------------------------------
+Numpy: 1.24.1
+Pytorch: 2.4.0+cu124
+torchvision: 0.19.0+cu124
+Cuda: 12.4
+hostname: neobay-10048
+==================================================
+Execution time: 2025-02-21 17:21:38
+--------------- args ---------------
+save_root : results/20250221_examine_pq_optimization
+gpu_id : 0
+seed : 0
+data_type_name : auto
+model : BERTweet#pretrain
+dataset : custom-imdb-for-bertweet-nips2024-ucb
+data_path : datasets/custom-imdb-for-bertweet-nips2024-ucb
+batch_size : 1
+data_split : test
+selected_dim : gt-log-odds
+gt_type : correct
+player_path : players/custom-imdb-for-bertweet-nips2024-ucb/players-manual
+baseline_type : unk
+baseline_path : 
+background_type : ori
+sort_type : order
+cal_batch_size : 10240
+verbose : 1
+sparse_mode : pq
+loss : l1
+delta : 1.0
+optimizer : sgd
+lr : 1e-07
+auto_lr : v1
+momentum : 0.999
+niters : 50000
+qcoef : 0.05
+qstd : vN-v0
+qscale : uniform
+qtricks : 0
+piecewise : 0
+init_pq_path : 
+device : cuda:0
+dataset_model : dataset=custom-imdb-for-bertweet-nips2024-ucb-test_model=BERTweet#pretrain_seed=0
+save_path : results/20250221_examine_pq_optimization/result/dataset=custom-imdb-for-bertweet-nips2024-ucb-test_model=BERTweet#pretrain_seed=0/players=players-manual_mode=pq_lbl=correct_baseline=unk_bg=ori#_loss=l1_optim=sgd_autolr=v1_mom=0.999_niters=50000_qcoef=0.05
+save_path_result : results/20250221_examine_pq_optimization/result/dataset=custom-imdb-for-bertweet-nips2024-ucb-test_model=BERTweet#pretrain_seed=0/players=players-manual_mode=pq_lbl=correct_baseline=unk_bg=ori#_loss=l1_optim=sgd_autolr=v1_mom=0.999_niters=50000_qcoef=0.05/data
+save_path_log : results/20250221_examine_pq_optimization/result/dataset=custom-imdb-for-bertweet-nips2024-ucb-test_model=BERTweet#pretrain_seed=0/players=players-manual_mode=pq_lbl=correct_baseline=unk_bg=ori#_loss=l1_optim=sgd_autolr=v1_mom=0.999_niters=50000_qcoef=0.05/log
+arch : BERTweet
+model_kwargs : {}
+tokenizer_kwargs : {}
+ModelClass : <class 'transformers.models.auto.modeling_auto.AutoModelForSequenceClassification'>
+TokenizerClass : <class 'transformers.models.auto.tokenization_auto.AutoTokenizer'>
+config_path : src/models/nlp/configs/bertweet_config.json
+task : nlp-seq-cls
+data_type_actual : torch.float32
+------------------------------
+Numpy: 1.24.1
+Pytorch: 2.4.0+cu124
+torchvision: 0.19.0+cu124
+Cuda: 12.4
+hostname: neobay-10048
+==================================================

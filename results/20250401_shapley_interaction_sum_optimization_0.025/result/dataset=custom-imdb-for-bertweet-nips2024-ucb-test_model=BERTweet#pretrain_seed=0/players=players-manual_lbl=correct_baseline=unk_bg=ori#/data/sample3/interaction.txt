@@ -1,0 +1,45 @@
+---------- Players ----------
+Player A: good
+Player B: film.
+Player C: very
+Player D: funny.
+Player E: Yet
+Player F: after
+Player G: film
+Player H: no
+Player I: good
+Player J: Ernest
+Player K: films!
+---------- AND Interactions (Pairwise Only) ----------
+I(AD): -6.450910568237305	 ([good][funny.])
+I(HI): -2.341154098510742	 ([no][good])
+I(GI): 1.0401525497436523	 ([film][good])
+I(AC): -1.0140807628631592	 ([good][very])
+I(AH): 0.9492002129554749	 ([good][no])
+I(DH): 0.7685254812240601	 ([funny.][no])
+I(CD): 0.6930865049362183	 ([very][funny.])
+I(AB): -0.5019105672836304	 ([good][film.])
+I(AG): -0.45153123140335083	 ([good][film])
+I(DI): -0.44592368602752686	 ([funny.][good])
+I(EF): 0.4150821268558502	 ([Yet][after])
+I(AI): -0.3763907551765442	 ([good][good])
+I(DE): -0.36223846673965454	 ([funny.][Yet])
+I(AK): -0.32940220832824707	 ([good][films!])
+I(EH): -0.3292614221572876	 ([Yet][no])
+I(CI): 0.3056721091270447	 ([very][good])
+I(AE): 0.29037582874298096	 ([good][Yet])
+I(HJ): 0.28048765659332275	 ([no][Ernest])
+I(FK): -0.26744431257247925	 ([after][films!])
+I(AJ): -0.2447425127029419	 ([good][Ernest])
+I(DK): -0.23227626085281372	 ([funny.][films!])
+I(DF): 0.22416096925735474	 ([funny.][after])
+I(FG): -0.21718323230743408	 ([after][film])
+I(EG): -0.21078699827194214	 ([Yet][film])
+I(HK): -0.20922648906707764	 ([no][films!])
+I(EJ): 0.19472631812095642	 ([Yet][Ernest])
+I(BK): 0.19462525844573975	 ([film.][films!])
+I(BI): 0.19407284259796143	 ([film.][good])
+I(EI): -0.18578383326530457	 ([Yet][good])
+I(FI): 0.18459224700927734	 ([after][good])
+Sum: 257.14886474609375
+==================================================

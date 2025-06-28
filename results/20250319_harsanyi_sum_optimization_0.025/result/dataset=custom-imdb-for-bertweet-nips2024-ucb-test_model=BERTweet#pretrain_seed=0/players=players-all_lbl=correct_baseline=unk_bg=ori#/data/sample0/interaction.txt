@@ -1,0 +1,36 @@
+---------- Players ----------
+Player A: Her
+Player B: acting
+Player C: never
+Player D: fails
+Player E: to
+Player F: impress
+---------- AND Interactions (Pairwise Only) ----------
+I(CF): -5.44133996963501	 ([never][impress])
+I(DF): -4.803297519683838	 ([fails][impress])
+I(AF): 1.9384803771972656	 ([Her][impress])
+I(CD): 1.3762164115905762	 ([never][fails])
+I(EF): -1.2368180751800537	 ([to][impress])
+I(BF): 0.6193442344665527	 ([acting][impress])
+I(AC): 0.5039401054382324	 ([Her][never])
+I(BC): 0.46105527877807617	 ([acting][never])
+I(AB): 0.3871035575866699	 ([Her][acting])
+I(AE): 0.24442529678344727	 ([Her][to])
+I(BE): 0.19609594345092773	 ([acting][to])
+---------- OR Interactions (Pairwise Only) ----------
+I(CD): -15.860065460205078	 ([never][fails])
+I(EF): 4.094465732574463	 ([to][impress])
+I(AE): 2.7074570655822754	 ([Her][to])
+I(AF): 2.07650089263916	 ([Her][impress])
+I(BF): 1.1271677017211914	 ([acting][impress])
+I(DF): -0.611729621887207	 ([fails][impress])
+I(BC): 0.3663949966430664	 ([acting][never])
+I(BD): 0.3550891876220703	 ([acting][fails])
+I(AB): -0.17016029357910156	 ([Her][acting])
+I(CF): -0.14649677276611328	 ([never][impress])
+I(BE): 0.11336898803710938	 ([acting][to])
+I(DE): -0.11127662658691406	 ([fails][to])
+I(CE): -0.06436538696289062	 ([never][to])
+I(AD): -0.047292232513427734	 ([Her][fails])
+I(AC): -0.042144775390625	 ([Her][never])
+==================================================

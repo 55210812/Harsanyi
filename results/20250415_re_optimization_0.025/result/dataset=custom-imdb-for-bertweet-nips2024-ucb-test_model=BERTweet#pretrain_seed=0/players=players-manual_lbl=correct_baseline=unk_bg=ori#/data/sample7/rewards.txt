@@ -1,0 +1,23 @@
+---------- Players ----------
+Player A: definitive
+Player B: movie
+Player C: version
+Player D: Hamlet.
+Player E: Branagh
+Player F: cuts
+Player G: nothing,
+Player H: but
+Player I: no
+Player J: wasted
+Player K: moments.
+---------- Rewards ----------
+v(): -4.645305633544922	 ([])
+v(GIJK): 0.935840368270874	 ([nothing,][no][wasted][moments.])
+v(ABCDEFH): -3.5205094814300537	 ([definitive][movie][version][Hamlet.][Branagh][cuts][but])
+v(ABCDEFGHIJK): 3.274399518966675	 ([definitive][movie][version][Hamlet.][Branagh][cuts][nothing,][but][no][wasted][moments.])
+---------- Rewards-v() ----------
+v(ABCDEFGHIJK): 7.919705390930176	 ([definitive][movie][version][Hamlet.][Branagh][cuts][nothing,][but][no][wasted][moments.])
+v(GIJK): 5.581146240234375	 ([nothing,][no][wasted][moments.])
+v(ABCDEFH): 1.1247961521148682	 ([definitive][movie][version][Hamlet.][Branagh][cuts][but])
+v(): 0.0	 ([])
+==================================================

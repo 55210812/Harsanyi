@@ -1,0 +1,34 @@
+Execution time: 2025-03-18 18:03:33
+prompt: <s> no comment - stupid movie, acting average or worse... screenplay - no sense at all... SKIP IT! </s>
+---------- tokenizer ----------
+idx:0 input_id:0 decoded_text: <s>
+idx:1 input_id:80 decoded_text: no
+idx:2 input_id:2248 decoded_text: comment
+idx:3 input_id:34 decoded_text: -
+idx:4 input_id:728 decoded_text: stupid
+idx:5 input_id:20827 decoded_text: movi@@
+idx:6 input_id:515 decoded_text: e@@
+idx:7 input_id:7 decoded_text: ,
+idx:8 input_id:1926 decoded_text: acting
+idx:9 input_id:2416 decoded_text: average
+idx:10 input_id:72 decoded_text: or
+idx:11 input_id:6030 decoded_text: wor@@
+idx:12 input_id:1169 decoded_text: se@@
+idx:13 input_id:28 decoded_text: ...
+idx:14 input_id:41774 decoded_text: screenplay
+idx:15 input_id:34 decoded_text: -
+idx:16 input_id:80 decoded_text: no
+idx:17 input_id:1062 decoded_text: sense
+idx:18 input_id:35 decoded_text: at
+idx:19 input_id:3735 decoded_text: all@@
+idx:20 input_id:28 decoded_text: ...
+idx:21 input_id:4662 decoded_text: SK@@
+idx:22 input_id:6741 decoded_text: IP
+idx:23 input_id:2781 decoded_text: IT@@
+idx:24 input_id:12 decoded_text: !
+idx:25 input_id:2 decoded_text: </s>
+---------- predict ----------
+pred_label:0
+pred_scores:[[3.2265028953552246, -1.1141343116760254, -2.359250068664551]]
+decoded_pred_text (only for generation task): <s>
+==================================================

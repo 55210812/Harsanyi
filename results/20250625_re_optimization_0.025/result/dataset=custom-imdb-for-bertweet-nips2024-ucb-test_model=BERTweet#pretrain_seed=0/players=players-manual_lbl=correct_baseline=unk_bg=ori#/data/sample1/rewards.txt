@@ -1,0 +1,22 @@
+---------- Players ----------
+Player A: rating
+Player B: 1
+Player C: not
+Player D: begin
+Player E: express
+Player F: dull,
+Player G: depressing
+Player H: relentlessly
+Player I: bad
+Player J: movie
+---------- Rewards ----------
+v(): -3.3131842613220215	 ([])
+v(CEFGI): 3.918797016143799	 ([not][express][dull,][depressing][bad])
+v(ABDHJ): -0.8835956454277039	 ([rating][1][begin][relentlessly][movie])
+v(ABCDEFGHIJ): 4.038733959197998	 ([rating][1][not][begin][express][dull,][depressing][relentlessly][bad][movie])
+---------- Rewards-v() ----------
+v(ABCDEFGHIJ): 7.3519182205200195, EP: 1.0	 ([rating][1][not][begin][express][dull,][depressing][relentlessly][bad][movie])
+v(CEFGI): 7.23198127746582, EP: 0.9836863279342651	 ([not][express][dull,][depressing][bad])
+v(ABDHJ): 2.429588556289673, EP: 0.3304700255393982	 ([rating][1][begin][relentlessly][movie])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,37 @@
+---------- Players ----------
+Player A: don't
+Player B: know
+Player C: why
+Player D: like
+Player E: movie
+Player F: well,
+Player G: never
+Player H: get
+Player I: tired
+Player J: of
+Player K: watching
+Player L: it.
+---------- AND Interactions (Pairwise Only) ----------
+I(GI): 9.47292423248291	 ([never][tired])
+I(AD): -1.4777089357376099	 ([don't][like])
+I(HI): 0.8264257311820984	 ([get][tired])
+I(FI): -0.6260738968849182	 ([well,][tired])
+I(EI): -0.6061059236526489	 ([movie][tired])
+I(AC): 0.5947237610816956	 ([don't][why])
+I(GJ): 0.581131100654602	 ([never][of])
+I(EF): 0.5343491435050964	 ([movie][well,])
+I(BD): -0.5292564630508423	 ([know][like])
+I(AB): 0.5272994041442871	 ([don't][know])
+I(EK): -0.44444847106933594	 ([movie][watching])
+I(FG): -0.40330272912979126	 ([well,][never])
+I(AG): 0.38950198888778687	 ([don't][never])
+I(AI): 0.3883814513683319	 ([don't][tired])
+I(DF): 0.3863450288772583	 ([like][well,])
+I(DE): 0.3419376015663147	 ([like][movie])
+I(HK): 0.313528835773468	 ([get][watching])
+I(EG): -0.31137120723724365	 ([movie][never])
+I(DG): -0.2917659878730774	 ([like][never])
+I(JL): -0.25062495470046997	 ([of][it.])
+I(AL): 0.24623680114746094	 ([don't][it.])
+Sum: 149.73492431640625
+==================================================

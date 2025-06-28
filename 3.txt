@@ -1,0 +1,328 @@
+from typing import Callable, Union, List, Dict
+import torch
+import numpy as np
+import os
+import os.path as osp
+from models.nlp import Calculator
+from .and_or_harsanyi import AndOrHarsanyi, AndOrHarsanyiSparsifier
+from .set_utils import flatten
+from ..player import get_player_words_from_ids
+from .mask_utils import get_mask_input_function_nlp
+from .baseline_value import get_baseline_id_nlp
+from utils.global_const import *
+from utils import LogWriter
+import time
+
+
+def get_forward_function_nlp(calculator: Calculator,
+                             baseline_value_embeds: torch.Tensor,
+                             attention_mask: torch.LongTensor = None,
+                             ) -> Callable:
+    """
+    Get the forward function for the model
+    :param model: the Calculator wrapper of the model
+    :param baseline_value_embeds: the embedding vector of the baseline value for the model
+        [Important note] Different from other models (image, tabular, etc.), in the mask_input_function,
+            we first indicate the tokens to be masked with a baseline_flag (an int) for an NLP model.
+        Then in this forward function, we replace the embeddings of these flagged tokens with the
+            baseline value embedding. The baseline value embeddings can either be learned embeddings or simply
+            the embedding of a specific baseline token (e.g., the <unk> or <pad> token)
+    :param attention_mask: the attention mask for the input_ids
+    :return: the forward function
+    """
+    def forward_function(input_ids):
+        with torch.no_grad():
+            mask = (input_ids == BASELINE_FLAG_NLP)  # we use a baseline flag (set to a specific int) to identify the masked positions
+            input_ids[mask] = 0  # temporarily set the baseline flags (which is not a valid input id) to 0, in order to run the get_embeds function
+            inputs_embeds = calculator.get_embeds(input_ids) # shape (batch_size, seq_len, embed_dim)
+            inputs_embeds[mask] = baseline_value_embeds # broadcast the baseline value (embed_dim,) -> (batch_size, seq_len, embed_dim)
+            attention_mask_expand = attention_mask.expand_as(input_ids).clone() # [Important] expand the attention mask to the same shape as input_ids (batch_size, seq_len)
+            scores = calculator(inputs_embeds=inputs_embeds,
+                                attention_mask=attention_mask_expand)
+        return scores
+
+    return forward_function
+
+
+def get_pred_label_nlp(calculator: Calculator,
+                       input_ids: torch.LongTensor,
+                       attention_mask: torch.LongTensor = None):
+    with torch.no_grad():
+        scores = calculator(input_ids=input_ids,
+                            attention_mask=attention_mask)
+    label = torch.argmax(scores, dim=-1).squeeze().item()
+    return label
+
+
+def get_softmax_sample_dims_nlp(calculator: Calculator,
+                                input_ids: torch.LongTensor,
+                                attention_mask: torch.LongTensor = None,
+                                dimension_num: int = 1000):
+    """
+    Sample a number of dimensions in the logits
+    """
+    with torch.no_grad():
+        scores = calculator(input_ids=input_ids,
+                            attention_mask=attention_mask)
+        scores_ = scores.squeeze().clone()
+        order = torch.argsort(-scores_)
+        sample_intervals = np.round(np.linspace(0, scores_.shape[0] - 1, dimension_num))
+        softmax_sample_dims = order[sample_intervals]
+    return softmax_sample_dims
+
+
+def log_interaction(save_path, player_ids, player_masks, I_and, I_or, player_descriptions=None):
+    if isinstance(I_and, torch.Tensor):
+        I_and = I_and.cpu().numpy()
+    if isinstance(I_or, torch.Tensor):
+        I_or = I_or.cpu().numpy()
+    if isinstance(player_masks, torch.Tensor):
+        player_masks = player_masks.cpu().numpy()
+
+    log_interaction = LogWriter(osp.join(save_path, "interaction.txt"), verbose=False, write_mode='w')
+    log_nums = 200  # number of interactions to log todo: 这个之后改一下，可以作为参数传进来，或者更灵活一些
+
+    if player_descriptions is not None:
+        if isinstance(player_descriptions, List):
+            player_descriptions = np.array(player_descriptions)
+
+        log_interaction.cprint("-"*10 + " Players " + "-"*10)
+        for i, d in enumerate(player_descriptions):
+            log_interaction.cprint(f"Player {chr(i + ord('A'))}: {d}")
+
+    player_names = np.array([chr(i + ord('A')) for i in range(len(player_ids))])
+
+    log_interaction.cprint("-"*10 + " AND Interactions (Pairwise Only) " + "-"*10)
+    and_order = np.argsort(-np.abs(I_and))[:log_nums]
+    for i in and_order:
+        coalition = player_names[player_masks[i]].tolist()
+        if len(coalition) == 2:  # Only show pairwise interactions
+            interaction = I_and[i]
+            if player_descriptions is None:
+                log_str = f'I({"".join(coalition)}): {interaction}'
+            else:
+                coalition_descriptions = player_descriptions[player_masks[i]].tolist()
+                log_str = f'I({"".join(coalition)}): {interaction}\t ([{"][".join(coalition_descriptions)}])'
+            log_interaction.cprint(log_str)
+
+    log_interaction.cprint("-"*10 + " OR Interactions (Pairwise Only) " + "-"*10)
+    or_order = np.argsort(-np.abs(I_or))[:log_nums]
+    for i in or_order:
+        coalition = player_names[player_masks[i]].tolist()
+        if len(coalition) == 2:  # Only show pairwise interactions
+            interaction = I_or[i]
+            if player_descriptions is None:
+                log_str = f'I({"".join(coalition)}): {interaction}'
+            else:
+                coalition_descriptions = player_descriptions[player_masks[i]].tolist()
+                log_str = f'I({"".join(coalition)}): {interaction}\t ([{"][".join(coalition_descriptions)}])'
+            log_interaction.cprint(log_str)
+    log_interaction.cprint("="*50) # separator
+    log_interaction.close()
+
+
+def log_inference(tokenizer, save_path, input_ids, pred_label):
+    log_inference = LogWriter(os.path.join(save_path, "inferenece.txt"), verbose=True, write_mode='w')
+    log_inference.cprint("Execution time: {}".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
+    log_inference.cprint(f"prompt: {tokenizer.decode(input_ids.squeeze())}")
+
+    log_inference.cprint("-"*10 + " tokenizer " + "-"*10)
+    for idx, input_id in enumerate(input_ids.squeeze()):
+        log_inference.cprint(f"idx:{idx} input_id:{input_id} decoded_text: {tokenizer.decode([input_id])}")
+
+    log_inference.cprint("-"*10 + " predict " + "-"*10)
+    log_inference.cprint(f"pred_label:{pred_label}")
+    log_inference.cprint(f"decoded_pred_text (only for generation task): {tokenizer.decode([pred_label])}")
+    log_inference.cprint("="*50) # separator
+    log_inference.close()
+
+
+def log_generation(model, tokenizer, save_path, input_ids, attention_mask):
+    log_inference = LogWriter(os.path.join(save_path, "generation.txt"), verbose=False, write_mode='w')
+    log_inference.cprint("Execution time: {}".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
+    log_inference.cprint(f"prompt: {tokenizer.decode(input_ids.squeeze())}")
+
+    log_inference.cprint("-"*10 + " generation " + "-"*10)
+    generated_ids = model.generate(input_ids=input_ids,
+                                   attention_mask=attention_mask,
+                                   max_new_tokens=50,
+                                   use_cache=False)  # shape (batch_size=1, seq_len)
+    generated_text = tokenizer.batch_decode(generated_ids, clean_up_tokenization_spaces=False)[0]
+    generated_text_by_tokens = tokenizer.batch_decode(generated_ids[0], clean_up_tokenization_spaces=False)
+    log_inference.cprint(f"generated_text: {generated_text}\n")
+    log_inference.cprint("generated_text_by_tokens:")
+    for token_text in generated_text_by_tokens:
+        log_inference.cprint(f"{token_text}")
+    log_inference.cprint("="*50) # separator
+    log_inference.close()
+
+
+class InteractionNLP:
+    """
+    Wrapper class to calculate the interaction
+    """
+    def __init__(self, calculator: Calculator, config: Dict):
+        """
+        config include the following keys (refer to run_interaction_nlp.py)
+        - task: str, e.g., "nlp-seq-cls", "nlp-generation", "nlp-nli"
+        - data_type: str, "float" or "double"
+        - selected_dim: str, the dimension to calculate reward score
+        - baseline_type: str, "learned", "unk", "pad", etc.
+        - gt_type: str, "correct" or "predict"
+        - background_type: str, "mask" or "ori"
+        - sort_type: str, "order" or "binary"
+        - cal_batch_size: int, the batch size for calculating the reward
+        - verbose: bool/int, whether to print verbose information
+
+        - sparse_mode: str, "pq", "p", "q", "none"
+        - loss: str, "l1", "huber"
+        - delta: float, the delta for huber loss
+        - optimizer: str, "sgd", "adam"
+        - lr: float, the learning rate
+        - auto_lr: str, whether to use automatic learning rate
+        - momentum: float, the momentum for optimizer (not used for adam)
+        - niters: int, the number of iterations for optimization
+        - qcoef: float, the coefficient for q bound
+        - qstd: float, the standard for q bound
+        - qscale: float, the scaling factor for q bound of different orders
+        - qtricks: bool, whether to use q tricks (minus the mean of all q's at the end of each iteration)
+        - piecewise: bool, not implemented
+        - init_pq_path: str, the path to the initial p and q values for sparsification (optional)
+        - mean_of_vN_v0: float, the mean of |vN - v0| (optional)
+
+        """
+        self.calculator = calculator
+        self.config = config
+
+
+    def __call__(self,
+                 data_tuple: Dict,
+                 player_ids: List[List],
+                 save_path: str,
+                 baseline_value: Union[torch.Tensor, None] = None) -> None:
+        """
+        :param data_tuple: Dict, keys include:
+            - "input_ids": torch.LongTensor, shape (batch_size=1, seq_len)
+            - "attention_mask": torch.LongTensor, shape (batch_size=1, seq_len)
+            - "label": [optional] int, the label (not necessary if gt_type is "predict", and not necessarily the ground-truth label)
+            - "sentence" or "text": str, the original input sentence
+        :param player_ids: List[List], list of the player ids of the input sentence
+            Example: [[0], [2, 3], [5], [7, 8, 9]]
+        :param save_path: str, the path to save the results
+        :param baseline_value: torch.Tensor (float/double) or None
+            If not None, it is the vector of the (learned) baseline value embedding
+            If it is None, it means the baseline value is specified by config["baseline_type"]:
+                a certain token, e.g., <pad> or <unk>
+        """
+        os.makedirs(save_path, exist_ok=True)
+        device = self.calculator.model.device
+
+        input_ids = data_tuple["input_ids"].to(device) # shape (batch_size=1, seq_len)
+        attention_mask = data_tuple["attention_mask"].to(device) # shape (batch_size=1, seq_len)
+
+        # Get baseline value id / embeds
+        if baseline_value is None:
+            baseline_value = get_baseline_id_nlp(self.config["baseline_type"], self.calculator.tokenizer)
+            assert isinstance(baseline_value, int), f"baseline_value should be an int, but got {type(baseline_value)}."
+            baseline_value_embeds = self.calculator.get_embeds(torch.tensor(baseline_value, dtype=torch.long).to(device))
+            # shape (embed_dim,)
+        else: # when baseline value is a learned embedding vector
+            baseline_value_embeds = baseline_value.to(device)
+
+        # Get the ground-truth or prediction label
+        pred_label = get_pred_label_nlp(calculator=self.calculator,
+                                        input_ids=input_ids,
+                                        attention_mask=attention_mask)  # an int
+        if self.config["gt_type"] == "correct":
+            assert "label" in data_tuple, ("If gt_type is 'correct', the data_tuple should contain "
+                                           "the target/correct/ground-truth label.")
+            label = data_tuple["label"].squeeze().item()  # the label should be converted to an int
+        elif self.config["gt_type"] == "predict":
+            label = pred_label
+        else:
+            raise NotImplementedError(f"gt_type {self.config['gt_type']} not recognized.")
+
+        # log inference results
+        log_inference(self.calculator.tokenizer, save_path, input_ids, pred_label)
+
+        # If it is a generation task, we let the model to generate the whole sentence, and then log it
+        if self.config["task"] == "nlp-generation":
+            log_generation(self.calculator.model, self.calculator.tokenizer, save_path, input_ids, attention_mask)
+
+        # get the mask_input_function and forward_function for computing interactions
+        mask_input_function = get_mask_input_function_nlp()
+        forward_function = get_forward_function_nlp(calculator=self.calculator,
+                                                    baseline_value_embeds=baseline_value_embeds,
+                                                    attention_mask=attention_mask)
+
+        background = [i for i in range(input_ids.shape[-1]) if i not in set(flatten(player_ids))]
+        # serve as background variables, either staying masked or unmasked at all time
+
+        if self.config["selected_dim"].startswith("gt-log-odds-sample="):
+            num_sample_dims = int(self.config["selected_dim"].split("=")[-1])
+            softmax_sample_dims = get_softmax_sample_dims_nlp(self.calculator,
+                                                              input_ids,
+                                                              attention_mask,
+                                                              dimension_num=num_sample_dims).tolist()
+        else:
+            softmax_sample_dims = None
+
+        and_or_interaction_runner = AndOrHarsanyi(
+            forward_function=forward_function,
+            selected_dim=self.config["selected_dim"],
+            x=input_ids,
+            baseline=BASELINE_FLAG_NLP,  # BASELINE_FLAG_NLP = -42
+            y=label,
+            all_players_subset=player_ids,
+            background=background,
+            background_type=self.config["background_type"],
+            mask_input_function=mask_input_function,
+            cal_batch_size=self.config["cal_batch_size"],
+            softmax_sample_dims=softmax_sample_dims,
+            sort_type=self.config["sort_type"],
+            verbose=self.config["verbose"],
+        )
+
+        and_or_interaction_runner.compute_interactions()
+        and_or_interaction_runner.save(save_path)
+
+        # Load potential initial values for p and q
+        # p_init = None
+        # q_init = None
+        # if self.config["init_pq_path"] is not None:
+        #     p_init_file = osp.join(self.config["init_pq_path"], "p.npy")
+        #     q_init_file = osp.join(self.config["init_pq_path"], "q.npy")
+        #     if osp.exists(p_init_file):
+        #         p_init = torch.from_numpy(np.load(p_init_file)).to(device)
+        #     if osp.exists(q_init_file):
+        #         q_init = torch.from_numpy(np.load(q_init_file)).to(device)
+        
+        #
+        # and_or_sparsifier = AndOrHarsanyiSparsifier(
+        #     and_or_interaction_runner=and_or_interaction_runner,
+        #     sparse_mode=self.config["sparse_mode"],
+        #     loss=self.config["loss"],
+        #     delta=self.config["delta"],
+        #     optimizer=self.config["optimizer"],
+        #     lr=self.config["lr"],
+        #     momentum=self.config["momentum"],
+        #     niters=self.config["niters"],
+        #     auto_lr=self.config["auto_lr"],
+        #     qcoef=self.config["qcoef"],
+        #     qstd=self.config["qstd"],
+        #     qscale=self.config["qscale"],
+        #     qtricks=self.config["qtricks"],
+        #     piecewise=self.config["piecewise"],
+        #     p_init=p_init,
+        #     q_init=q_init,
+        #     verbose=self.config["verbose"],
+        #     mean_of_vN_v0=self.config["mean_of_vN_v0"]
+        # )
+        # and_or_sparsifier.sparsify(verbose_folder=osp.join(save_path, "sparsify_verbose")) # modify self.I_and, self.I_or
+        I_and = and_or_interaction_runner.get_and_interaction()
+        I_or = and_or_interaction_runner.get_or_interaction()
+        player_masks = and_or_interaction_runner.get_player_masks()
+        # and_or_sparsifier.save(save_folder=osp.join(save_path, "after_sparsify"))
+
+        player_descriptions = get_player_words_from_ids(self.calculator.tokenizer, input_ids.squeeze(), player_ids)
+        log_interaction(save_path, player_ids, player_masks, I_and, I_or, player_descriptions)

@@ -1,0 +1,13 @@
+mode: pq | loss: huber | optimizer: sgd | lr: 1e-07 | auto_lr: v1 | momentum: 0.999 | niters: 50000
+for [q] -- threshold: 0.05 | standard: vN-v0 | scale type: uniform
+	[q] bound: 0.4519021213054657
+	v(N): 4.2571539878845215
+	v(empty): -4.780887603759766
+	Sum of I^and and I^or: 9.286338806152344
+	Sum of I^and: 5.085790634155273
+	Sum of I^or: 4.20054817199707
+	|I^and|+|I^or|: 107.09342956542969
+	During optimization,
+		loss: 1155.5311279296875 -> 95.267578125
+		q_norm_L1: 0.012685303576290607 -> 473.4053649902344
+		q_mean: 0.0 -> -0.023681841790676117

@@ -1,0 +1,34 @@
+---------- Players ----------
+Player A: rating
+Player B: 1
+Player C: not
+Player D: begin
+Player E: express
+Player F: dull,
+Player G: depressing
+Player H: relentlessly
+Player I: bad
+Player J: movie
+---------- AND Interactions (Pairwise Only) ----------
+I(GI): -5.697980880737305	 ([depressing][bad])
+I(FG): -5.236958026885986	 ([dull,][depressing])
+I(FI): -4.810687065124512	 ([dull,][bad])
+I(CI): -1.801724910736084	 ([not][bad])
+I(CJ): 1.5587096214294434	 ([not][movie])
+I(CD): 1.558027744293213	 ([not][begin])
+I(CF): -1.3487257957458496	 ([not][dull,])
+I(CG): -1.3329768180847168	 ([not][depressing])
+I(DJ): 1.2207274436950684	 ([begin][movie])
+I(EJ): 1.1607599258422852	 ([express][movie])
+I(CE): 1.1543035507202148	 ([not][express])
+I(DE): 1.1200141906738281	 ([begin][express])
+---------- OR Interactions (Pairwise Only) ----------
+I(GI): 0.07774972915649414	 ([depressing][bad])
+I(FI): 0.04568004608154297	 ([dull,][bad])
+I(EH): 0.0408015251159668	 ([express][relentlessly])
+I(HI): -0.03996896743774414	 ([relentlessly][bad])
+I(FH): 0.03948402404785156	 ([dull,][relentlessly])
+I(EI): 0.03682136535644531	 ([express][bad])
+I(DE): 0.03220319747924805	 ([begin][express])
+I(DH): 0.02888345718383789	 ([begin][relentlessly])
+==================================================

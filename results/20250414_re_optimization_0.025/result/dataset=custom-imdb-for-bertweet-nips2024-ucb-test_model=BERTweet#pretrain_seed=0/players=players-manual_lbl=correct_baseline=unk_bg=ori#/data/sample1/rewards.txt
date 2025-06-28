@@ -1,0 +1,17 @@
+---------- Players ----------
+Player A: rating
+Player B: 1
+Player C: not
+Player D: begin
+Player E: express
+Player F: dull,
+Player G: depressing
+Player H: relentlessly
+Player I: bad
+Player J: movie
+---------- Rewards ----------
+v(): -3.3131842613220215	 ([])
+v(CDFGI): 3.8784279823303223	 ([not][begin][dull,][depressing][bad])
+v(ABEHJ): -2.570375680923462	 ([rating][1][express][relentlessly][movie])
+v(ABCDEFGHIJ): 4.038733959197998	 ([rating][1][not][begin][express][dull,][depressing][relentlessly][bad][movie])
+==================================================

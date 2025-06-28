@@ -1,0 +1,50 @@
+# python src/demo/run_interaction_nlp.py --save_root="results/20250302_examine_pq_optimization" \
+#   --gpu_id=0 \
+#   --model="BERTweet#pretrain" \
+#   --dataset="custom-imdb-for-bertweet-nips2024-ucb" \
+#   --data_path="datasets/custom-imdb-for-bertweet-nips2024-ucb" \
+#   --selected_dim="gt-log-odds" \
+#   --gt_type="correct" \
+#   --player_path="players/custom-imdb-for-bertweet-nips2024-ucb/players-manual" \
+#   --baseline_type="unk" \
+#   --background_type="ori" \
+#   --cal_batch_size=10240 \
+#  --interaction_type="harsanyi" \
+#   --verbose=1 &
+  #--loss="l1" \
+  # --sparse_mode="pq" \
+  # --optimizer="sgd" \
+  # --lr=1e-7 \
+  # --auto_lr="v1" \
+  # --momentum=0.999 \
+  # --niters=50000 \
+  # --qcoef=0.05 &
+
+# mom=0.999, niters=50000, optimizer=sgd, lr=1e-6. mom=0.9收敛太慢了
+# baseline_type=unk or pad 都可以试一下
+# selected_dim=gt or gt-log-odds 都可以试一下 —— 其实做下来差别不大（至少对于sentiment analysis这种输出类别少的任务而言）
+# background_type=ori 比较合适，选mask这个句子会不太完整, 而且会把第一个[cls] token也mask掉
+
+python src/demo/run_interaction_nlp.py --save_root="results/20250625_re_optimization_0.025" \
+  --gpu_id=1 \
+  --model="BERTweet#pretrain" \
+  --dataset="custom-imdb-for-bertweet-nips2024-ucb" \
+  --data_path="datasets/custom-imdb-for-bertweet-nips2024-ucb" \
+  --selected_dim="gt-log-odds" \
+  --gt_type="correct" \
+  --player_path="players/custom-imdb-for-bertweet-nips2024-ucb/players-manual" \
+  --baseline_type="unk" \
+  --background_type="ori" \
+  --cal_batch_size=40960 \
+  --interaction_type="re" \
+  --verbose=1 &  
+  #--loss="huber" \
+  #--delta=1e-2 \
+  # --sparse_mode="pq" \
+  # --optimizer="sgd" \
+  # --lr=1e-7 \
+  # --auto_lr="v1" \
+  # --momentum=0.999 \
+  # --niters=50000 \
+  # --qcoef=0.05 &
+

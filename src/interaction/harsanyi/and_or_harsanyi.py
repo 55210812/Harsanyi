@@ -1,0 +1,861 @@
+import os
+import os.path as osp
+import numpy as np
+import pandas as pd
+import torch
+import torch.nn as nn
+
+from typing import Union, Iterable, List, Tuple, Callable, Type, Dict
+
+from .and_or_harsanyi_utils import (get_reward2Iand_mat, get_reward2Ior_mat, get_reward2Ishapley_mat, 
+                                   get_reward2Ishapley_interaction_mat)
+from .reward_function import get_reward
+from .plot import plot_simple_line_chart, plot_interaction_progress,plot_multi_line_chart
+from .set_utils import flatten, generate_all_masks, generate_all_masks_re, generate_all_communities
+from tqdm import tqdm
+import torch.optim as optim
+from utils import huber
+from math import comb
+
+def l1_on_given_dim(vector: torch.Tensor, indices: List) -> torch.Tensor:
+    assert len(vector.shape) == 1
+    strength = torch.abs(vector)
+    return torch.sum(strength[indices])
+
+def torch_comb_safe(n: torch.Tensor, k: int) -> torch.Tensor:
+    # 计算 log(C(n, k)) = log(n!) - log(k!) - log((n-k)!))
+    log_n = torch.lgamma(n.float() + 1)  # log(n!)
+    log_k = torch.lgamma(torch.tensor(k + 1.0))  # log(k!)
+    log_nk = torch.lgamma(n.float() - k + 1)  # log((n-k)!)
+    log_comb = log_n - log_k - log_nk
+    return torch.exp(log_comb).to(n.dtype)
+
+def generate_ckpt_id_list(niters: int, nckpt: int) -> List:
+    ckpt_id_list = list(range(niters))[::max(1, niters // nckpt)]
+    # force the last iteration to be a checkpoint
+    if niters - 1 not in ckpt_id_list:
+        ckpt_id_list.append(niters - 1)
+    return ckpt_id_list
+
+
+class AndOrHarsanyi(object):
+    def __init__(
+        self,
+        forward_function: Union[Type[nn.Module], Callable],
+        selected_dim: Union[None, str],
+        x: torch.Tensor,
+        baseline: Union[torch.Tensor, int], # for nlp, this baseline can be an integer baseline flag
+        y: int,
+        sample_id: int,
+        all_players_subset: Union[None, tuple, list] = None,
+            # sometimes we just choose a subset of input variables as the set of all players N.
+            # i.e., we have customized players
+            # Example: for NLP, we can choose a subset of words (may contain several tokens) as the set of all players N
+            # such as all_players_subset = [[0], [2, 3], [5], [7, 8, 9]]
+        background: Union[None, tuple, list] = None,
+        background_type: str = "ori",
+        mask_input_function: Callable = None,
+        cal_batch_size: int = None,   # batch size for computing forward passes on masked input samples
+        softmax_sample_dims = None,
+        sort_type: str = "order",
+        verbose: int = 1,
+    ):
+        assert x.shape[0] == 1, "Only support batch size 1"
+        assert sort_type in ["order", "binary"]
+        assert background_type in ["ori", "mask"]
+
+        if isinstance(baseline, torch.Tensor):
+            assert baseline.shape[0] == 1
+        self.forward_function = forward_function
+        self.selected_dim = selected_dim
+        self.input = x
+        self.target = y
+        self.baseline = baseline
+        self.sort_type = sort_type
+        self.softmax_sample_dims = softmax_sample_dims
+        self.verbose = verbose
+        self.sample_id = sample_id
+        self.device = x.device
+
+        if background is None:
+            background = []
+        self.background = background  # players that always exists / absent (default: emptyset []), depending on background_type
+        self.background_type = background_type
+
+        self.mask_input_function = mask_input_function  # for different data type (image, text, etc.), the mask_input_function can be different
+        self.cal_batch_size = cal_batch_size
+
+        self.n_input_variables = self.input.shape[1]
+        self.all_players_subset = all_players_subset  # customized players
+        if all_players_subset is not None:
+            self.n_players = len(all_players_subset)
+        else:
+            self.n_players = self.n_input_variables
+
+        print("Generating player masks...")
+        self.player_masks = torch.BoolTensor(generate_all_masks(length=self.n_players,
+                                                                sort_type=self.sort_type,
+                                                                #k=2
+                                                                )).to(self.device)
+        # self.player_masks shape: (2 ** n_players, n_players)
+        print("done")
+
+        self.reward2Iand = get_reward2Iand_mat(n_dim=self.n_players, sort_type=self.sort_type).to(self.device)
+        #self.reward2Ior = get_reward2Ior_mat(n_dim=self.n_players, sort_type=self.sort_type).to(self.device)
+
+
+    def calculate_all_subset_rewards(self): # modify self.player_masks, self.sample_masks, self.S_list, self.rewards
+        # ======================================================
+        # First, generate the masks across all input variables
+        # ======================================================
+        """
+        Difference between player_mask and sample_mask:
+        - player_masks: each mask is of length (n_players,), the mask does not includes any background variables
+            One player can correspond to several tokens in NLP tasks
+        - sample_masks: each mask is of length (n_input_variables,), the mask includes both players and background variables
+        Example:
+            input_ids = [[1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010]]
+            all_players_subset = [[0], [2, 3], [7, 8, 9]] -> [0,2,3,7,8,9]
+            And assume background_type = "ori"
+
+          Then we have: n_input_variables = 10, n_players = 3
+            player_masks = [[False, False, False],
+                            [ True, False, False],
+                            [False,  True, False],
+                            [False, False,  True],
+                            [ True,  True, False],
+                            [ True, False,  True],
+                            [False,  True,  True],
+                            [ True,  True,  True]]
+            sample_masks = [[False,  True, False, False,  True,  True,  True, False, False, False],
+                            [ True,  True, False, False,  True,  True,  True, False, False, False],
+                            [False,  True,  True,  True,  True,  True,  True, False, False, False],
+                            [False,  True, False, False,  True,  True,  True,  True,  True,  True],
+                            [ True,  True,  True,  True,  True,  True,  True, False, False, False],
+                            [ True,  True, False, False,  True,  True,  True,  True,  True,  True],
+                            [False,  True,  True,  True,  True,  True,  True,  True,  True,  True],
+                            [ True,  True,  True,  True,  True,  True,  True,  True,  True,  True]]
+        """
+        if self.all_players_subset is None: # it means all input variables are considered as players, and there are no background variables
+            assert len(self.background) == 0 and self.mask_input_function is None
+            self.sample_masks = self.player_masks  # bool tensor
+
+        else: # only a subset of input variables are considered as players, and the other variables are considered as background variables
+            assert self.background is not None and self.mask_input_function is not None
+            all_players_subset_arr = np.array(self.all_players_subset, dtype=object)
+            self.sample_masks = []
+            for i in tqdm(range(self.player_masks.shape[0]), ncols=100, desc="Generating sample masks"):
+            # for i in range(self.player_masks.shape[0]):
+                player_mask = self.player_masks[i].clone().cpu().numpy() # bool tensor -> bool array
+                print(f"\nplayer_mask: {player_mask}")
+                sample_mask = np.zeros(self.n_input_variables, dtype=bool)
+
+                if self.background_type == "ori":
+                    sample_mask[flatten([self.background, all_players_subset_arr[player_mask]])] = True
+                elif self.background_type == "mask":
+                    sample_mask[flatten([all_players_subset_arr[player_mask]])] = True
+                else:
+                    raise NotImplementedError(f"Invalid background type: {self.background_type}")
+                self.sample_masks.append(sample_mask)
+                #print(f"sample_mask: {sample_mask}")
+            self.sample_masks = np.stack(self.sample_masks, axis=0)
+            self.sample_masks = torch.BoolTensor(self.sample_masks).to(self.device)
+
+        # self.S_list = [np.arange(self.n_input_variables)[mask].tolist() for mask in self.sample_masks.cpu().numpy()]
+        # S_list: list of lists, each element is a list that contains players indices in S (i.e., players that are not masked) on the corresponding masked sample x_S
+
+        # todo: 这是干什么的？
+        # useful_loc = np.sort(np.array(flatten([background, [player[0] for player in all_players]])))
+
+        # ======================================================
+        # Second, calculate the rewards of these inputs
+        # ======================================================
+        if self.cal_batch_size is None:
+            self.cal_batch_size = self.player_masks.shape[0]
+
+        rewards = []
+        if self.verbose:
+            pbar = tqdm(range(int(np.ceil(self.player_masks.shape[0] / self.cal_batch_size))), ncols=100, desc="Calc model outputs")
+        else:
+            pbar = range(int(np.ceil(self.player_masks.shape[0] / self.cal_batch_size)))
+
+        for batch_idx in pbar:
+            sample_mask_batch = self.sample_masks[batch_idx * self.cal_batch_size: (batch_idx + 1) * self.cal_batch_size]
+            print(f"\nsample_mask_batch:{sample_mask_batch}\n")
+            masked_inputs_batch = self.mask_input_function(self.input, self.baseline, sample_mask_batch)
+            print(f"masked_inputs_batch:{masked_inputs_batch}")
+            # masked_inputs_batch = masked_inputs_batch[:, useful_loc] # todo: 这是干什么的？
+            output_batch = self.forward_function(masked_inputs_batch)
+
+            # todo: 20250118 改成了每个Batch都计算reward，这样可以减小显存占用？ —— 可以
+            reward_batch = get_reward(output_batch,
+                                      selected_dim=self.selected_dim,
+                                      gt=self.target,
+                                      sample=self.softmax_sample_dims)
+            rewards.append(reward_batch)
+        rewards = torch.cat(rewards, dim=0)
+        #print(rewards)
+
+        self.rewards = rewards
+
+
+    def compute_interactions(self):
+        with torch.no_grad():
+            self.calculate_all_subset_rewards()
+
+        # self.rewards = get_reward(self.outputs,
+        #                           selected_dim=self.selected_dim,
+        #                           gt=self.target,
+        #                           sample=self.softmax_sample_dims)
+        self.rewards_minus_v0 = self.rewards - self.rewards[0]
+        if self.verbose:
+            print(f"rewards shape: {self.rewards.shape}")
+
+        # we use v(S)-v(empty) to calculate the interactions, it will make I(empty)=0, but other interactions remains the same
+        self.I_and = torch.matmul(self.reward2Iand, self.rewards_minus_v0)
+        #self.I_or = torch.matmul(self.reward2Ior, self.rewards_minus_v0)
+
+
+    def compute_interactions_from_rewards_and_masks(self, rewards):  # 这个函数一般用不到
+        self.rewards = rewards
+        self.rewards_minus_v0 = self.rewards - self.rewards[0]
+        self.I_and = torch.matmul(self.reward2Iand, self.rewards_minus_v0)
+        #self.I_or = torch.matmul(self.reward2Ior, self.rewards_minus_v0)
+
+
+    def save(self, save_folder):
+        os.makedirs(save_folder, exist_ok=True)
+        np.save(osp.join(save_folder, "rewards.npy"), self.rewards.cpu().numpy())
+        np.save(osp.join(save_folder, "rewards_minus_v0.npy"), self.rewards_minus_v0.cpu().numpy())
+        np.save(osp.join(save_folder, "player_masks.npy"), self.player_masks.cpu().numpy())
+        np.save(osp.join(save_folder, "sample_masks.npy"), self.sample_masks.cpu().numpy())
+        np.save(osp.join(save_folder, "I_and.npy"), self.I_and.cpu().numpy())
+        #np.save(osp.join(save_folder, "I_or.npy"), self.I_or.cpu().numpy())
+
+    def get_player_masks(self):
+        return self.player_masks
+
+    def get_sample_masks(self):
+        return self.sample_masks
+
+    def get_and_interaction(self) -> torch.Tensor:
+        return self.I_and
+
+    # def get_or_interaction(self) -> torch.Tensor:
+    #     return self.I_or
+
+    def get_rewards(self) -> torch.Tensor:
+        return self.rewards
+
+
+
+
+class ShapleyTaylor(AndOrHarsanyi):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        #self.reward2Ishapley = get_reward2Ishapley_mat(n_dim=self.n_players, sort_type=self.sort_type).to(self.device)
+        #self.reward2Iand = get_reward2Iand_mat(n_dim=self.n_players, sort_type=self.sort_type).to(self.device)
+    def compute_interactions(self):
+        with torch.no_grad():
+            self.calculate_all_subset_rewards()
+
+        self.rewards_minus_v0 = self.rewards - self.rewards[0]
+        if self.verbose:
+            print(f"rewards shape: {self.rewards.shape}")
+
+        # Calculate Shapley Taylor interactions
+        k = 2  # Taylor expansion order
+        print("rewards_minus_v0 shape:", self.rewards_minus_v0.shape) 
+        I_and = torch.matmul(self.reward2Iand, self.rewards_minus_v0)
+        #I_and = torch.load()
+        # Calculate subset sizes |S|
+        subset_sizes = self.player_masks.sum(dim=1)  # [2^n_players]
+
+        # 初始化 I_shapley 为 I_and，然后将 |S| > k 的子集值置零
+        self.I_shapley = I_and.clone()
+        self.I_shapley[subset_sizes > k] = 0.0  # 新增逻辑：|S| > k 时设为 0
+
+        # 仅处理 |S| = k 的子集
+        eq_k_mask = subset_sizes == k
+        eq_k_indices = torch.where(eq_k_mask)[0]
+
+        for s_idx in eq_k_indices:
+            s_mask = self.player_masks[s_idx]
+            # 寻找包含 S 的超集 T
+            supersets = (self.player_masks & s_mask).sum(dim=1) == s_mask.sum()
+            t_indices = torch.where(supersets)[0]
+            print(t_indices)
+            # 计算权重: 1/C(|T|,k)
+            t_sizes = subset_sizes[t_indices]
+            #print(t_sizes)
+            weights = 1.0 / torch_comb_safe(t_sizes, k)
+            #print(weights)
+            # 加权求和并更新 I_shapley
+            weighted_sum = (I_and[t_indices] * weights).sum()
+            self.I_shapley[s_idx] = weighted_sum
+
+    def get_shapley_interaction(self) -> torch.Tensor:
+        return self.I_shapley
+    
+    def save(self, save_folder):
+        os.makedirs(save_folder, exist_ok=True)
+        np.save(osp.join(save_folder, "rewards.npy"), self.rewards.cpu().numpy())
+        np.save(osp.join(save_folder, "rewards_minus_v0.npy"), self.rewards_minus_v0.cpu().numpy())
+        #np.save(osp.join(save_folder, "player_masks.npy"), self.player_masks.cpu().numpy())
+        #np.save(osp.join(save_folder, "sample_masks.npy"), self.sample_masks.cpu().numpy())
+        #np.save(osp.join(save_folder, "I_shapley.npy"), self.I_shapley.cpu().numpy())
+
+
+class ShapleyInteractionIndex(AndOrHarsanyi):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.reward2Ishapley_interaction = get_reward2Ishapley_interaction_mat(n_dim=self.n_players, sort_type=self.sort_type).to(self.device)
+
+    def compute_interactions(self):
+        with torch.no_grad():
+            self.calculate_all_subset_rewards()
+
+        self.rewards_minus_v0 = self.rewards - self.rewards[0]
+        if self.verbose:
+            print(f"rewards shape: {self.rewards.shape}")
+
+        # Calculate Shapley Interaction Index
+        self.I_shapley_interaction = torch.matmul(self.reward2Ishapley_interaction, self.rewards_minus_v0)
+
+    def get_shapley_interaction_index(self) -> torch.Tensor:
+        return self.I_shapley_interaction
+    
+    def save(self, save_folder):
+        os.makedirs(save_folder, exist_ok=True)
+        np.save(osp.join(save_folder, "rewards.npy"), self.rewards.cpu().numpy())
+        np.save(osp.join(save_folder, "rewards_minus_v0.npy"), self.rewards_minus_v0.cpu().numpy())
+
+class Shapley(AndOrHarsanyi):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.I_shapleyv = None  # 存储Shapley值
+
+    def compute_interactions(self):
+        with torch.no_grad():
+            self.calculate_all_subset_rewards()
+
+        self.rewards_minus_v0 = self.rewards - self.rewards[0]
+        if self.verbose:
+            print(f"rewards shape: {self.rewards.shape}")
+
+        # 计算AND交互值
+        self.I_and = torch.matmul(self.reward2Iand, self.rewards_minus_v0)
+
+        # 计算Shapley值
+        n_players = self.n_players
+        self.I_shapleyv = torch.zeros(n_players, device=self.device)
+
+        # 遍历所有玩家
+        for i in range(n_players):
+            # 找出所有包含玩家i的子集
+            contains_i = self.player_masks[:, i]
+            subset_indices = torch.where(contains_i)[0]
+            
+            # 计算每个子集的权重和贡献
+            for s_idx in subset_indices:
+                s_mask = self.player_masks[s_idx]
+                s_size = s_mask.sum().item()
+                weight = 1.0 / s_size
+                self.I_shapleyv[i] += weight * self.I_and[s_idx]
+
+    def get_shapley_value(self) -> torch.Tensor:
+        return self.I_shapleyv
+        
+    def save(self, save_folder):
+        os.makedirs(save_folder, exist_ok=True)
+        np.save(osp.join(save_folder, "I_shapleyv.npy"), self.I_shapleyv.cpu().numpy())
+        super().save(save_folder)
+
+class CalculateReward(AndOrHarsanyi):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.communities = generate_all_communities(self.sample_id)
+        self.player_masks = torch.BoolTensor(generate_all_masks_re(self.n_players, self.sort_type, self.communities)).to(self.device)
+        print(self.player_masks)
+    def compute_interactions(self):
+        with torch.no_grad():
+            self.calculate_all_subset_rewards()
+
+        self.rewards_minus_v0 = self.rewards - self.rewards[0]
+        if self.verbose:
+            print(f"rewards shape: {self.rewards.shape}")
+    
+    def save(self, save_folder):
+        os.makedirs(save_folder, exist_ok=True)
+        np.save(osp.join(save_folder, "rewards.npy"), self.rewards.cpu().numpy())
+        np.save(osp.join(save_folder, "rewards_minus_v0.npy"), self.rewards_minus_v0.cpu().numpy())
+        # Calculate Shapley Interaction Index
+        #self.I_shapley_interaction = torch.matmul(self.play_mask, self.rewards_minus_v0)
+
+    
+# class AndOrHarsanyiSparsifier(object):
+#     def __init__(
+#         self,
+#         and_or_interaction_runner: AndOrHarsanyi,
+#         sparse_mode: str,
+#         loss: str,
+#         optimizer: str,
+#         lr: float,
+#         momentum: float,
+#         niters: int,
+#         delta: float = 1.0,
+#         auto_lr: str = None,
+#         qcoef: float = None,
+#         qstd: str = None,
+#         qscale: str = None,
+#         qtricks: bool = False,
+#         piecewise: bool = False,
+#         p_init = None,
+#         q_init = None,
+#         pq_probe_nums: int = 20,
+#         mean_of_vN_v0 = None,
+#         verbose: int = 1
+#     ):
+#         self.and_or_interaction_runner = and_or_interaction_runner
+#         self.sparse_mode = sparse_mode
+#         self.loss = loss
+#         self.delta = delta # for huber loss
+#         self.optimizer = optimizer
+#         self.lr = lr
+#         self.auto_lr = auto_lr
+#         self.momentum = momentum
+#         self.niters = niters
+#         self.qcoef = qcoef
+#         self.qstd = qstd
+#         self.qscale = qscale
+#         self.qtricks = qtricks
+#         self.piecewise = piecewise
+#         self.mean_of_vN_v0 = mean_of_vN_v0
+#         self.p_init = p_init
+#         self.q_init = q_init
+#         self.pq_probe_nums = pq_probe_nums
+#         self.verbose = verbose
+
+#         self.device = self.and_or_interaction_runner.device
+
+#         self.p = None
+#         self.q = None
+#         self.q_bound = None
+
+
+#     def _init_q_bound(self): # set self.q_bound
+#         self.standard = None
+#         if self.qstd == "none":
+#             self.q_bound = self.qcoef
+#             return
+
+#         # note that v(\emptyset)=rewards[0], v(N)=rewards[-1]
+#         if self.qstd == "vS":
+#             standard = self.and_or_interaction_runner.rewards.clone()
+#         elif self.qstd == "vS-v0":
+#             standard = self.and_or_interaction_runner.rewards - self.and_or_interaction_runner.rewards[0]
+#         elif self.qstd == "vN":
+#             standard = self.and_or_interaction_runner.rewards[-1].clone()
+#         elif self.qstd == "vN-v0":
+#             standard = self.and_or_interaction_runner.rewards[-1] - self.and_or_interaction_runner.rewards[0]
+#         elif self.qstd == "maxvS":
+#             standard = torch.max(torch.abs(self.and_or_interaction_runner.rewards), dim=0)[0] # todo: 这个dim=0对吗
+#         elif self.qstd == "maxvS-v0":
+#             standard = (torch.max(torch.abs(self.and_or_interaction_runner.rewards), dim=0)[0]
+#                         - self.and_or_interaction_runner.rewards[0])
+#         elif self.qstd == "mean-vN-v0":
+#             print("***** Using mean of vN-v0 as the standard *****")
+#             assert self.mean_of_vN_v0 is not None, "mean_of_vN_v0 should not be None!"
+#             standard = self.mean_of_vN_v0
+#         else:
+#             raise NotImplementedError(f"Invalid standard value of `q`: {self.qstd}")
+
+#         self.standard = torch.abs(standard)
+#         self.q_bound = self.qcoef * self.standard
+
+#         # todo: 实现一下不同的qscale，可能会在不同阶的q前面乘不同的scale系数
+
+
+#     def _train_p(self): # modify self.p: torch.Tensor, self.losses: Dict, self.progresses: Dict
+#         if self.p_init is None:
+#             p = torch.zeros_like(self.and_or_interaction_runner.rewards_minus_v0).requires_grad_(True)
+#         else:
+#             p = self.p_init.detach().clone().to(self.device).requires_grad_(True)
+
+#         if self.auto_lr == "v1":
+#             lr = (self.and_or_interaction_runner.rewards_minus_v0.abs().mean() /
+#                   (self.niters * (2 ** self.and_or_interaction_runner.n_players)) * 5)  # 暂时先定下来这个系数
+#             print(f"auto lr: {lr}")
+#         else:
+#             lr = self.lr
+
+#         if self.optimizer == "sgd":
+#             optimizer = optim.SGD([p], lr=lr, momentum=self.momentum)
+#         elif self.optimizer == "adam":
+#             optimizer = optim.Adam([p], lr=lr)
+#         else:
+#             raise NotImplementedError(f"Optimizer {self.optimizer} unrecognized.")
+
+#         if self.loss in ["l1", "huber"]:
+#             losses = {"loss": []}
+#         else:
+#             raise NotImplementedError(f"Loss type {self.loss} unrecognized.")
+
+#         progresses = {"I_and": [], "I_or": []}
+#         ckpt_id_list = generate_ckpt_id_list(niters=self.niters, nckpt=20)
+
+#         pbar = tqdm(range(self.niters), desc="Optimizing p", ncols=100)
+#         for it in pbar:
+#             I_and_p = torch.matmul(self.and_or_interaction_runner.reward2Iand,
+#                                   0.5 * self.and_or_interaction_runner.rewards_minus_v0 + p)
+#             I_or_p = torch.matmul(self.and_or_interaction_runner.reward2Ior,
+#                                  0.5 * self.and_or_interaction_runner.rewards_minus_v0 - p)
+
+#             if self.loss == "l1":
+#                 loss = torch.sum(torch.abs(I_and_p)) + torch.sum(torch.abs(I_or_p))  # 02-27: L1 penalty.
+#                 losses["loss"].append(loss.item())
+#             elif self.loss == "huber":
+#                 loss = torch.sum(huber(I_and_p, delta=self.delta)) + torch.sum(huber(I_or_p, delta=self.delta))
+#                 losses["loss"].append(loss.item())
+#             else:
+#                 raise NotImplementedError(f"Loss type {self.loss} unrecognized.")
+
+#             optimizer.zero_grad()
+#             loss.backward()
+#             optimizer.step()
+
+#             if it in ckpt_id_list:
+#                 progresses["I_and"].append(I_and_p.detach().cpu().numpy())
+#                 progresses["I_or"].append(I_or_p.detach().cpu().numpy())
+#                 pbar.set_postfix_str(f"loss={loss.item():.4f}")
+
+#         self.p = p.detach().clone()
+#         self.losses = losses
+#         self.progresses = progresses
+
+
+#     def _train_p_q(self): # modify self.p, self.q, self.losses, self.progresses, self.p_probes, self.q_probes
+
+#         if self.p_init is None:
+#             p = torch.zeros_like(self.and_or_interaction_runner.rewards_minus_v0).requires_grad_(True)
+#         else:
+#             p = self.p_init.detach().clone().to(self.device).requires_grad_(True)
+
+#         if self.q_init is None:
+#             q = torch.zeros_like(self.and_or_interaction_runner.rewards_minus_v0).requires_grad_(True)
+#         else:
+#             q = self.q_init.detach().clone().to(self.device).requires_grad_(True)
+
+#         # Randomly sample a set of p and q values for probing and debuggin the sparsifying process
+#         q_probes = None
+#         p_probes = None
+#         probe_indices = torch.randperm(q.shape[0])
+
+#         if self.auto_lr == "v1":
+#             lr = (self.and_or_interaction_runner.rewards_minus_v0.abs().mean() /
+#                   (self.niters * (2 ** self.and_or_interaction_runner.n_players)) * 5)  # 暂时先定下来这个系数
+#             print(f"auto lr: {lr}")
+#         else:
+#             lr = self.lr
+
+#         if self.optimizer == "sgd":
+#             optimizer = optim.SGD([p, q], lr=lr, momentum=self.momentum)
+#         elif self.optimizer == "adam":
+#             optimizer = optim.Adam([p, q], lr=lr)
+#         else:
+#             raise NotImplementedError(f"Optimizer {self.optimizer} unrecognized.")
+
+#         if self.loss in ["l1", "huber"]:
+#             losses = {"loss": [], "q_norm_L1": [], "q_mean": []}
+#         else:
+#             raise NotImplementedError(f"Loss type {self.loss} unrecognized.")
+
+#         progresses = {"I_and": [], "I_or": []}
+#         ckpt_id_list = generate_ckpt_id_list(niters=self.niters, nckpt=20)
+
+#         pbar = tqdm(range(self.niters), desc="Optimizing pq", ncols=100)
+#         for it in pbar:
+#             # # The case when min/max are tensors: not supported until torch 1.9.1
+#             # todo: 除了这种直接clamp q的做法，还有没有更好的做法？
+#             q.data = torch.max(torch.min(q.data, self.q_bound), -self.q_bound)
+
+#             I_and_pq = torch.matmul(self.and_or_interaction_runner.reward2Iand,
+#                                    0.5 * (self.and_or_interaction_runner.rewards_minus_v0 + q) + p)
+#             I_or_pq = torch.matmul(self.and_or_interaction_runner.reward2Ior,
+#                                   0.5 * (self.and_or_interaction_runner.rewards_minus_v0 + q) - p)
+
+#             if self.loss == "l1":
+#                 loss = torch.sum(torch.abs(I_and_pq)) + torch.sum(torch.abs(I_or_pq))  # 02-27:     .
+#                 losses["loss"].append(loss.item())
+#             elif self.loss == "huber":
+#                 loss = torch.sum(huber(I_and_pq, delta=self.delta)) + torch.sum(huber(I_or_pq, delta=self.delta))
+#                 losses["loss"].append(loss.item())
+#             else:
+#                 raise NotImplementedError(f"Loss type {self.loss} unrecognized.")
+
+#             optimizer.zero_grad()
+#             loss.backward()
+#             optimizer.step()
+
+#             if it in ckpt_id_list:
+#                 progresses["I_and"].append(I_and_pq.detach().cpu().numpy())
+#                 progresses["I_or"].append(I_or_pq.detach().cpu().numpy())
+#                 pbar.set_postfix_str(f"loss={loss.item():.4f}")
+
+#             losses["q_norm_L1"].append(torch.norm(q.data, p=1).item())
+#             losses["q_mean"].append(torch.mean(q.data).item())
+
+#             # update probe values at each iteration
+#             if q_probes is not None:
+#                 q_probes = torch.cat((q_probes, q.detach().clone()[probe_indices[:self.pq_probe_nums]].reshape(-1, 1)), dim=1)
+#             else:
+#                 q_probes = q.detach().clone()[probe_indices[:self.pq_probe_nums]].reshape(-1, 1)
+
+#             if p_probes is not None:
+#                 p_probes = torch.cat((p_probes, p.detach().clone()[probe_indices[:self.pq_probe_nums]].reshape(-1, 1)), dim=1)
+#             else:
+#                 p_probes = p.detach().clone()[probe_indices[:self.pq_probe_nums]].reshape(-1, 1)
+
+#             if self.qtricks:  # todo: not sure what effect this trick has
+#                 q.data = q.data - torch.mean(q.data)
+
+#         self.p = p.detach().clone()
+#         self.q = q.detach().clone()
+#         self.losses = losses
+#         self.progresses = progresses
+#         self.p_probes = p_probes
+#         self.q_probes = q_probes
+
+
+#     def _train_q(self): # modify self.q, self.losses, self.progresses, self.q_probes
+
+#         if self.q_init is None:
+#             q = torch.zeros_like(self.and_or_interaction_runner.rewards_minus_v0).requires_grad_(True)
+#         else:
+#             q = self.q_init.detach().clone().to(self.device).requires_grad_(True)
+
+#         # Randomly sample a set of p and q values for probing and debuggin the sparsifying process
+#         q_probes = None
+#         probe_indices = torch.randperm(q.shape[0])
+
+#         if self.auto_lr == "v1":
+#             lr = (self.and_or_interaction_runner.rewards_minus_v0.abs().mean() /
+#                   (self.niters * (2 ** self.and_or_interaction_runner.n_players)) * 5)  # 暂时先定下来这个系数
+#             print(f"auto lr: {lr}")
+#         else:
+#             lr = self.lr
+
+#         if self.optimizer == "sgd":
+#             optimizer = optim.SGD([q], lr=lr, momentum=self.momentum)
+#         elif self.optimizer == "adam":
+#             optimizer = optim.Adam([q], lr=lr)
+#         else:
+#             raise NotImplementedError(f"Optimizer {self.optimizer} unrecognized.")
+
+#         if self.loss in ["l1", "huber"]:
+#             losses = {"loss": [], "q_norm_L1": [], "q_mean": []}
+#         else:
+#             raise NotImplementedError(f"Loss type {self.loss} unrecognized.")
+
+#         progresses = {"I_and": []}
+#         ckpt_id_list = generate_ckpt_id_list(niters=self.niters, nckpt=20)
+
+#         pbar = tqdm(range(self.niters), desc="Optimizing q", ncols=100)
+#         for it in pbar:
+#             # # The case when min/max are tensors: not supported until torch 1.9.1
+#             q.data = torch.max(torch.min(q.data, self.q_bound), -self.q_bound)
+
+#             I_and_q = torch.matmul(self.and_or_interaction_runner.reward2Iand,
+#                                     0.5 * (self.and_or_interaction_runner.rewards_minus_v0 + q))
+
+#             if self.loss == "l1":
+#                 loss = torch.sum(torch.abs(I_and_q))
+#                 losses["loss"].append(loss.item())
+#             elif self.loss == "huber":
+#                 loss = torch.sum(huber(I_and_q, delta=self.delta))
+#                 losses["loss"].append(loss.item())
+#             else:
+#                 raise NotImplementedError(f"Loss type {self.loss} unrecognized.")
+
+#             optimizer.zero_grad()
+#             loss.backward()
+#             optimizer.step()
+
+#             if it in ckpt_id_list:
+#                 progresses["I_and"].append(I_and_q.detach().cpu().numpy())
+#                 pbar.set_postfix_str(f"loss={loss.item():.4f}")
+
+#             losses["q_norm_L1"].append(torch.norm(q.data, p=1).item())
+#             losses["q_mean"].append(torch.mean(q.data).item())
+
+#             # update probe values at each iteration
+#             if q_probes is not None:
+#                 q_probes = torch.cat((q_probes, q.detach().clone()[probe_indices[:self.pq_probe_nums]].reshape(-1, 1)), dim=1)
+#             else:
+#                 q_probes = q.detach().clone()[probe_indices[:self.pq_probe_nums]].reshape(-1, 1)
+
+#             if self.qtricks:
+#                 q.data = q.data - torch.mean(q.data)
+
+#         self.q = q.detach().clone()
+#         self.losses = losses
+#         self.progresses = progresses
+#         self.q_probes = q_probes
+
+
+#     def _calculate_interaction(self):
+#         rewards_minus_v0 = self.and_or_interaction_runner.rewards_minus_v0
+#         with torch.no_grad():
+#             if self.sparse_mode == "p":
+#                 self.I_and = torch.matmul(self.and_or_interaction_runner.reward2Iand, 0.5 * rewards_minus_v0 + self.p).detach()
+#                 self.I_or = torch.matmul(self.and_or_interaction_runner.reward2Ior, 0.5 * rewards_minus_v0 - self.p).detach()
+#             elif self.sparse_mode == "pq":
+#                 self.I_and = torch.matmul(self.and_or_interaction_runner.reward2Iand, 0.5 * (rewards_minus_v0 + self.q) + self.p).detach()
+#                 self.I_or = torch.matmul(self.and_or_interaction_runner.reward2Ior, 0.5 * (rewards_minus_v0 + self.q) - self.p).detach()
+#             elif self.sparse_mode == "q":
+#                 self.I_and = torch.matmul(self.and_or_interaction_runner.reward2Iand, rewards_minus_v0 + self.q).detach()
+#                 self.I_or = torch.zeros_like(rewards_minus_v0)
+#             else:
+#                 raise NotImplementedError(f"Invalid sparse mode: {self.sparse_mode}")
+
+
+#     def _reorganize_and_or_interactions(self):
+#         """
+#         To combine the single-order, zero-order components in and-or interactions together
+#         """
+#         with torch.no_grad():
+#             I_and_ = self.I_and.detach().clone()
+#             I_or_ = self.I_or.detach().clone()
+
+#             # todo: 20250131 这个reorganize可能是有问题的，因为1阶与交互和1阶或交互表示的含义不一样。v(empty)可以合并，但1阶的不应该合并
+#             # comb_indices = torch.sum(self.and_or_interaction_runner.player_masks, dim=1) <= 1
+#             comb_indices = torch.sum(self.and_or_interaction_runner.player_masks, dim=1) == 0
+
+#             I_and_[comb_indices] = I_and_[comb_indices] + I_or_[comb_indices]
+#             I_or_[comb_indices] = 0
+
+#             self.I_and = I_and_
+#             self.I_or = I_or_
+
+
+#     def _plot_probe_curve(self, probes: torch.Tensor, save_folder):
+#         probes_np = probes.cpu().detach().numpy()
+#         probes_dic = {f"dim{idx}": q for idx, q in enumerate(probes_np)}
+#         if self.piecewise:
+#             raise NotImplementedError("Piecewise optimization is not implemented yet.")
+#         else:
+#             probes_dic['iteration'] = np.array(range(self.niters))
+
+#         df = pd.DataFrame(probes_dic)
+
+#         plot_multi_line_chart(
+#             data=df, xlabel="iteration", ylabel=[f"dim{idx}" for idx, _ in enumerate(probes_np)], title="",
+#             save_folder=save_folder, save_name=f"q_probes_curve_optimize_{self.sparse_mode}"
+#         )
+
+
+#     def sparsify(self, verbose_folder=None):
+#         self.p_probes = None
+#         self.q_probes = None
+
+#         if self.sparse_mode == "p":
+#             self._train_p()
+#         elif self.sparse_mode == "pq":
+#             self._init_q_bound()
+#             if self.piecewise:
+#                 raise NotImplementedError("Piecewise optimization is not implemented yet.")
+#             else:
+#                 self._train_p_q()
+#         elif self.sparse_mode == "q":
+#             self._init_q_bound()
+#             self._train_q()
+#         else:
+#             raise NotImplementedError(f"Invalid sparse mode: {self.sparse_mode}")
+
+#         # with torch.no_grad():
+#         self._calculate_interaction()
+
+#         # reorganize the I_and and I_or to combine the single-order, zero-order components together
+#         # todo: 20250131 这个reorganize可能是有问题的，因为1阶与交互和1阶或交互表示的含义不一样。v(empty)可以合并，但1阶的不应该合并
+#         self._reorganize_and_or_interactions()
+
+#         if self.verbose:
+#             assert verbose_folder is not None
+
+#             # plot how p probes and q probes evolve during optimization
+#             if self.p_probes is not None:
+#                 self._plot_probe_curve(self.p_probes, verbose_folder)
+#             if self.q_probes is not None:
+#                 self._plot_probe_curve(self.q_probes, verbose_folder)
+
+#             # plot loss curve
+#             for k in self.losses.keys():
+#                 plot_simple_line_chart(
+#                     data=self.losses[k], xlabel="iteration", ylabel=f"{k}", title="",
+#                     save_folder=verbose_folder, save_name=f"{k}_curve_optimize_{self.sparse_mode}"
+#                 )
+
+#             # plot I_and, I_or during the optimization proegress
+#             for k in self.progresses.keys():
+#                 plot_interaction_progress(
+#                     interaction=self.progresses[k], save_path=osp.join(verbose_folder, f"{k}_progress_optimize_{self.sparse_mode}.png"),
+#                     order_cfg="descending", title=f"{k} progress during optimization"
+#                 )
+
+#             # plot the comparison of I_and and I_or before and after optimization
+#             plot_interaction_progress(
+#                 interaction=[0.5 * self.and_or_interaction_runner.I_and.detach().cpu().numpy(),
+#                              self.I_and.detach().cpu().numpy()], # todo: 检查一下这里对不对
+#                 save_path=osp.join(verbose_folder, f"I_and_compare.png"),
+#                 order_cfg="descending", title=f"compare I_and before and after optimization",
+#                 cmap_name="bwr", hline_color="black"
+#             )
+
+#             plot_interaction_progress(
+#                 interaction=[0.5 * self.and_or_interaction_runner.I_or.detach().cpu().numpy(),
+#                              self.I_or.detach().cpu().numpy()],
+#                 save_path=osp.join(verbose_folder, f"I_or_compare.png"),
+#                 order_cfg="descending", title=f"compare I_or before and after optimization",
+#                 cmap_name="bwr", hline_color="black"
+#             )
+
+
+#             with open(osp.join(verbose_folder, "sparsify_log.txt"), "w") as f:
+#                 f.write(f"mode: {self.sparse_mode} | loss: {self.loss} | optimizer: {self.optimizer} | lr: {self.lr} "
+#                         f"| auto_lr: {self.auto_lr} | momentum: {self.momentum} | niters: {self.niters}\n")
+#                 f.write(f"for [q] -- threshold: {self.qcoef} | standard: {self.qstd} | scale type: {self.qscale}\n")
+#                 if self.q_bound is not None and self.q_bound.numel() < 20:
+#                     f.write(f"\t[q] bound: {self.q_bound}\n")
+#                 f.write(f"\tv(N): {self.and_or_interaction_runner.rewards[-1]}\n")
+#                 f.write(f"\tv(empty): {self.and_or_interaction_runner.rewards[0]}\n")
+#                 f.write(f"\tSum of I^and and I^or: {torch.sum(self.I_and) + torch.sum(self.I_or)}\n")
+#                 f.write(f"\tSum of I^and: {torch.sum(self.I_and)}\n")
+#                 f.write(f"\tSum of I^or: {torch.sum(self.I_or)}\n")
+#                 f.write(f"\t|I^and|+|I^or|: {torch.sum(torch.abs(self.I_and)) + torch.sum(torch.abs(self.I_or)).item()}\n")
+#                 f.write("\tDuring optimization,\n")
+#                 for k, v in self.losses.items():
+#                     f.write(f"\t\t{k}: {v[0]} -> {v[-1]}\n")
+
+
+#     def save(self, save_folder):
+#         os.makedirs(save_folder, exist_ok=True)
+#         np.save(osp.join(save_folder, "I_and.npy"), self.I_and.cpu().numpy())
+#         #np.save(osp.join(save_folder, "I_or.npy"), self.I_or.cpu().numpy())
+#         np.save(osp.join(save_folder, "q_bound.npy"), self.q_bound.cpu().numpy())
+#         if self.p is not None:
+#             np.save(osp.join(save_folder, "p.npy"), self.p.cpu().numpy())
+#         if self.q is not None:
+#             np.save(osp.join(save_folder, "q.npy"), self.q.cpu().numpy())
+
+#     def get_interaction(self):
+#         # return self.I_and, self.I_or
+#         # 返回self.I_and和self.I_and的和
+#         return self.I_and,torch.sum(self.I_and)
+
+#     def get_player_masks(self):
+#         return self.and_or_interaction_runner.player_masks
+
+#     def get_sample_masks(self):
+#         return self.and_or_interaction_runner.sample_masks
+
+

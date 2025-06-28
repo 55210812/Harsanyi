@@ -1,0 +1,33 @@
+---------- Players ----------
+Player A: like
+Player B: Pauly
+Player C: Shore,
+Player D: love
+Player E: Son
+Player F: Law.
+Player G: hate
+Player H: Pauly
+Player I: Shore,
+Player J: then,
+Player K: well...
+Player L: liked
+Player M: it!
+---------- Rewards ----------
+v(): -4.404064655303955	 ([])
+v(ABEFL): -2.0689964294433594	 ([like][Pauly][Son][Law.][liked])
+v(CDGM): 0.8451720476150513	 ([Shore,][love][hate][it!])
+v(HIJK): -4.290380477905273	 ([Pauly][Shore,][then,][well...])
+v(ABCDEFGLM): 2.4250845909118652	 ([like][Pauly][Shore,][love][Son][Law.][hate][liked][it!])
+v(ABEFHIJKL): 0.06848907470703125	 ([like][Pauly][Son][Law.][Pauly][Shore,][then,][well...][liked])
+v(CDGHIJKM): -0.8384838104248047	 ([Shore,][love][hate][Pauly][Shore,][then,][well...][it!])
+v(ABCDEFGHIJKLM): 2.276808738708496	 ([like][Pauly][Shore,][love][Son][Law.][hate][Pauly][Shore,][then,][well...][liked][it!])
+---------- Rewards-v() ----------
+v(ABCDEFGLM): 6.82914924621582, EP: 1.0221940279006958	 ([like][Pauly][Shore,][love][Son][Law.][hate][liked][it!])
+v(ABCDEFGHIJKLM): 6.680873394012451, EP: 1.0	 ([like][Pauly][Shore,][love][Son][Law.][hate][Pauly][Shore,][then,][well...][liked][it!])
+v(CDGM): 5.249236583709717, EP: 0.7857111096382141	 ([Shore,][love][hate][it!])
+v(ABEFHIJKL): 4.472553730010986, EP: 0.669456422328949	 ([like][Pauly][Son][Law.][Pauly][Shore,][then,][well...][liked])
+v(CDGHIJKM): 3.5655808448791504, EP: 0.5336998105049133	 ([Shore,][love][hate][Pauly][Shore,][then,][well...][it!])
+v(ABEFL): 2.3350682258605957, EP: 0.3495154082775116	 ([like][Pauly][Son][Law.][liked])
+v(HIJK): 0.11368417739868164, EP: 0.017016364261507988	 ([Pauly][Shore,][then,][well...])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

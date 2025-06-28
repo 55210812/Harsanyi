@@ -1,0 +1,41 @@
+Execution time: 2025-05-10 10:07:26
+prompt: <s> Hated it with all my being. Worst movie ever. Mentally- scarred. Help me. It was that bad. TRUST ME!!! </s>
+---------- tokenizer ----------
+idx:0 input_id:0 decoded_text: <s>
+idx:1 input_id:50031 decoded_text: Hated
+idx:2 input_id:18 decoded_text: it
+idx:3 input_id:30 decoded_text: with
+idx:4 input_id:48 decoded_text: all
+idx:5 input_id:23 decoded_text: my
+idx:6 input_id:30939 decoded_text: being@@
+idx:7 input_id:4 decoded_text: .
+idx:8 input_id:7154 decoded_text: Worst
+idx:9 input_id:566 decoded_text: movie
+idx:10 input_id:5986 decoded_text: ever@@
+idx:11 input_id:4 decoded_text: .
+idx:12 input_id:455 decoded_text: M@@
+idx:13 input_id:25202 decoded_text: ental@@
+idx:14 input_id:1747 decoded_text: ly@@
+idx:15 input_id:34 decoded_text: -
+idx:16 input_id:9675 decoded_text: scar@@
+idx:17 input_id:3507 decoded_text: red@@
+idx:18 input_id:4 decoded_text: .
+idx:19 input_id:2047 decoded_text: Help
+idx:20 input_id:1677 decoded_text: me@@
+idx:21 input_id:4 decoded_text: .
+idx:22 input_id:76 decoded_text: It
+idx:23 input_id:38 decoded_text: was
+idx:24 input_id:25 decoded_text: that
+idx:25 input_id:6803 decoded_text: bad@@
+idx:26 input_id:4 decoded_text: .
+idx:27 input_id:22767 decoded_text: TRUST
+idx:28 input_id:4793 decoded_text: ME@@
+idx:29 input_id:41407 decoded_text: !@@
+idx:30 input_id:41407 decoded_text: !@@
+idx:31 input_id:12 decoded_text: !
+idx:32 input_id:2 decoded_text: </s>
+---------- predict ----------
+pred_label:0
+pred_scores:[[3.1671440601348877, -1.268024206161499, -2.122297763824463]]
+decoded_pred_text (only for generation task): <s>
+==================================================

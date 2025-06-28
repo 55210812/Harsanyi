@@ -1,0 +1,35 @@
+---------- Players ----------
+Player A: Without
+Player B: doubt,
+Player C: one
+Player D: Tobe
+Player E: Hoppor's
+Player F: best!
+Player G: Epic
+Player H: storytellng,
+Player I: great
+Player J: special
+Player K: effects,
+Player L: Spacegirl
+Player M: (vamp
+Player N: baby!).
+---------- AND Interactions (Pairwise Only) ----------
+I(AF): -5.734326362609863	 ([Without][best!])
+I(BC): -5.118958950042725	 ([doubt,][one])
+I(IK): -4.928152084350586	 ([great][effects,])
+I(BG): -4.880064487457275	 ([doubt,][Epic])
+I(BD): -4.854576587677002	 ([doubt,][Tobe])
+I(BL): -4.798892498016357	 ([doubt,][Spacegirl])
+I(BE): -4.789763927459717	 ([doubt,][Hoppor's])
+I(CG): -4.531376838684082	 ([one][Epic])
+I(CD): -4.491359233856201	 ([one][Tobe])
+I(CL): -4.4249587059021	 ([one][Spacegirl])
+I(DG): -4.357563018798828	 ([Tobe][Epic])
+I(DL): -4.322418212890625	 ([Tobe][Spacegirl])
+I(CE): -4.3134589195251465	 ([one][Hoppor's])
+I(GL): -4.287210464477539	 ([Epic][Spacegirl])
+I(DE): -4.15791654586792	 ([Tobe][Hoppor's])
+I(EL): -4.050812244415283	 ([Hoppor's][Spacegirl])
+I(EG): -4.002622604370117	 ([Hoppor's][Epic])
+Sum: -105.48208808898926
+==================================================

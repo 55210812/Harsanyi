@@ -1,0 +1,43 @@
+---------- Players ----------
+Player A: Add
+Player B: little
+Player C: gem
+Player D: list
+Player E: holiday
+Player F: regulars.
+Player G: It
+Player H: is
+Player I: sweet,
+Player J: funny,
+Player K: endearing
+---------- AND Interactions (Pairwise Only) ----------
+I(HI): 5.941420555114746	 ([is][sweet,])
+I(JK): -4.2037458419799805	 ([funny,][endearing])
+I(HJ): 2.6453351974487305	 ([is][funny,])
+I(GJ): 1.8096656799316406	 ([It][funny,])
+I(GI): 1.6847450733184814	 ([It][sweet,])
+I(CK): -1.3464336395263672	 ([gem][endearing])
+I(CE): 1.206899642944336	 ([gem][holiday])
+I(EJ): 1.154700756072998	 ([holiday][funny,])
+I(CF): -1.0948736667633057	 ([gem][regulars.])
+I(AC): 1.0373053550720215	 ([Add][gem])
+I(EI): 1.027576208114624	 ([holiday][sweet,])
+I(HK): 0.945436954498291	 ([is][endearing])
+I(AE): 0.7252020835876465	 ([Add][holiday])
+I(IK): -0.6573257446289062	 ([sweet,][endearing])
+I(GK): 0.6510114669799805	 ([It][endearing])
+I(DJ): 0.6445412635803223	 ([list][funny,])
+I(DE): 0.6111781597137451	 ([list][holiday])
+I(CD): 0.6091592311859131	 ([gem][list])
+I(EK): 0.5953025817871094	 ([holiday][endearing])
+I(IJ): 0.5728883743286133	 ([sweet,][funny,])
+I(BJ): 0.489652156829834	 ([little][funny,])
+I(CG): -0.46550726890563965	 ([gem][It])
+I(CH): -0.4325442314147949	 ([gem][is])
+I(FJ): 0.40892553329467773	 ([regulars.][funny,])
+I(DI): 0.39881229400634766	 ([list][sweet,])
+I(BC): 0.32921886444091797	 ([little][gem])
+I(AK): -0.1950664520263672	 ([Add][endearing])
+I(DK): -0.18596792221069336	 ([list][endearing])
+Sum: 30.663368463516235
+==================================================

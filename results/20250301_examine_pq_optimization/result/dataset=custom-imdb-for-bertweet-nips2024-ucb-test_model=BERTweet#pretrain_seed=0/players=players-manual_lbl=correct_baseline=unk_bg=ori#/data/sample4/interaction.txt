@@ -1,0 +1,37 @@
+---------- Players ----------
+Player A: characters
+Player B: unlikeable
+Player C: script
+Player D: awful.
+Player E: waste
+Player F: of
+Player G: talents
+Player H: Deneuve
+Player I: and
+Player J: Auteuil.
+---------- AND Interactions (Pairwise Only) ----------
+I(BD): -6.616186618804932	 ([unlikeable][awful.])
+I(BE): -6.475675582885742	 ([unlikeable][waste])
+I(DE): -6.133253574371338	 ([awful.][waste])
+I(EG): 1.2021808624267578	 ([waste][talents])
+I(DG): -1.1044282913208008	 ([awful.][talents])
+I(BJ): 0.7075247764587402	 ([unlikeable][Auteuil.])
+I(EJ): 0.6616091728210449	 ([waste][Auteuil.])
+I(BH): 0.6265325546264648	 ([unlikeable][Deneuve])
+I(AD): 0.5798459053039551	 ([characters][awful.])
+I(EH): 0.5715479850769043	 ([waste][Deneuve])
+I(HJ): 0.4297785758972168	 ([Deneuve][Auteuil.])
+I(AB): 0.4263777732849121	 ([characters][unlikeable])
+I(DJ): 0.41503000259399414	 ([awful.][Auteuil.])
+I(DF): -0.3519740104675293	 ([awful.][of])
+I(AE): 0.3105597496032715	 ([characters][waste])
+I(CD): 0.29572129249572754	 ([script][awful.])
+I(BG): 0.2670736312866211	 ([unlikeable][talents])
+I(AC): 0.20462417602539062	 ([characters][script])
+---------- OR Interactions (Pairwise Only) ----------
+I(BE): 1.404200553894043	 ([unlikeable][waste])
+I(BD): 0.3105435371398926	 ([unlikeable][awful.])
+I(DE): 0.24361658096313477	 ([awful.][waste])
+I(AE): 0.19623279571533203	 ([characters][waste])
+I(EG): -0.15906047821044922	 ([waste][talents])
+==================================================

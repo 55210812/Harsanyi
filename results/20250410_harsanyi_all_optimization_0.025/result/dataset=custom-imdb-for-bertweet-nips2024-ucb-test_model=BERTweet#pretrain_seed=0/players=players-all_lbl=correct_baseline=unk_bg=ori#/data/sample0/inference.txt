@@ -1,0 +1,16 @@
+Execution time: 2025-04-11 00:59:45
+prompt: <s> Her acting never fails to impress </s>
+---------- tokenizer ----------
+idx:0 input_id:0 decoded_text: <s>
+idx:1 input_id:1177 decoded_text: Her
+idx:2 input_id:1926 decoded_text: acting
+idx:3 input_id:143 decoded_text: never
+idx:4 input_id:6620 decoded_text: fails
+idx:5 input_id:9 decoded_text: to
+idx:6 input_id:10973 decoded_text: impress
+idx:7 input_id:2 decoded_text: </s>
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.3770132064819336, -0.7938148975372314, 3.5500216484069824]]
+decoded_pred_text (only for generation task): </s>
+==================================================

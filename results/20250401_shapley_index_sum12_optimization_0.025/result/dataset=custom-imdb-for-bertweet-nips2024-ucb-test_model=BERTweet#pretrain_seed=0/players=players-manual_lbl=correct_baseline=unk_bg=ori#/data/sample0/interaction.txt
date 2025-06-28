@@ -1,0 +1,14 @@
+---------- Players ----------
+Player A: Her
+Player B: acting
+Player C: never
+Player D: fails
+Player E: impress
+---------- AND Interactions (Pairwise Only) ----------
+I(CD): 11.302120208740234	 ([never][fails])
+I(CE): -1.48846435546875	 ([never][impress])
+I(DE): -0.7279694080352783	 ([fails][impress])
+I(BE): -0.5295870304107666	 ([acting][impress])
+I(AE): -0.3656802177429199	 ([Her][impress])
+Sum: 16.643783897161484
+==================================================

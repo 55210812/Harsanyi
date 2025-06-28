@@ -1,0 +1,26 @@
+---------- Players ----------
+Player A: Without
+Player B: doubt,
+Player C: one
+Player D: Tobe
+Player E: Hoppor's
+Player F: best!
+Player G: Epic
+Player H: storytellng,
+Player I: great
+Player J: special
+Player K: effects,
+Player L: Spacegirl
+Player M: (vamp
+Player N: baby!).
+---------- Rewards ----------
+v(): -4.60464334487915	 ([])
+v(CDEFGHIJKLMN): 4.89296817779541	 ([one][Tobe][Hoppor's][best!][Epic][storytellng,][great][special][effects,][Spacegirl][(vamp][baby!).])
+v(AB): -3.0230977535247803	 ([Without][doubt,])
+v(ABCDEFGHIJKLMN): 4.914392471313477	 ([Without][doubt,][one][Tobe][Hoppor's][best!][Epic][storytellng,][great][special][effects,][Spacegirl][(vamp][baby!).])
+---------- Rewards-v() ----------
+v(ABCDEFGHIJKLMN): 9.519035339355469	 ([Without][doubt,][one][Tobe][Hoppor's][best!][Epic][storytellng,][great][special][effects,][Spacegirl][(vamp][baby!).])
+v(CDEFGHIJKLMN): 9.497611999511719	 ([one][Tobe][Hoppor's][best!][Epic][storytellng,][great][special][effects,][Spacegirl][(vamp][baby!).])
+v(AB): 1.5815455913543701	 ([Without][doubt,])
+v(): 0.0	 ([])
+==================================================

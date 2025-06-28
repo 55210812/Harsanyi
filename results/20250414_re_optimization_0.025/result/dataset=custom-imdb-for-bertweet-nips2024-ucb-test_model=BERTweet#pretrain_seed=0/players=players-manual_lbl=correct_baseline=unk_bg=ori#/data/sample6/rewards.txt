@@ -1,0 +1,20 @@
+---------- Players ----------
+Player A: like
+Player B: Pauly
+Player C: Shore,
+Player D: love
+Player E: Son
+Player F: Law.
+Player G: hate
+Player H: Pauly
+Player I: Shore,
+Player J: then,
+Player K: well...
+Player L: liked
+Player M: it!
+---------- Rewards ----------
+v(): -4.404064655303955	 ([])
+v(ADEFLM): 4.065596580505371	 ([like][love][Son][Law.][liked][it!])
+v(BCGHIJK): -4.818281173706055	 ([Pauly][Shore,][hate][Pauly][Shore,][then,][well...])
+v(ABCDEFGHIJKLM): 2.2768077850341797	 ([like][Pauly][Shore,][love][Son][Law.][hate][Pauly][Shore,][then,][well...][liked][it!])
+==================================================

@@ -1,0 +1,37 @@
+---------- Players ----------
+Player A: like
+Player B: Pauly
+Player C: Shore,
+Player D: love
+Player E: Son
+Player F: Law.
+Player G: hate
+Player H: Pauly
+Player I: Shore,
+Player J: then,
+Player K: well...
+Player L: liked
+Player M: it!
+---------- AND Interactions (Pairwise Only) ----------
+I(LM): 4.9659528732299805	 ([liked][it!])
+I(DG): -3.3315868377685547	 ([love][hate])
+I(KL): 2.8827080726623535	 ([well...][liked])
+I(KM): 2.163564920425415	 ([well...][it!])
+I(DL): -2.1099534034729004	 ([love][liked])
+I(AL): -1.9491512775421143	 ([like][liked])
+I(CD): 1.741490364074707	 ([Shore,][love])
+I(AD): -1.5490832328796387	 ([like][love])
+I(IL): 1.432584524154663	 ([Shore,][liked])
+I(EL): 1.0458579063415527	 ([Son][liked])
+I(DF): 1.0171008110046387	 ([love][Law.])
+I(AB): -0.9961051940917969	 ([like][Pauly])
+I(AF): -0.8644938468933105	 ([like][Law.])
+I(AG): -0.8554425239562988	 ([like][hate])
+---------- OR Interactions (Pairwise Only) ----------
+I(DL): 1.552762508392334	 ([love][liked])
+I(GL): -1.253889560699463	 ([hate][liked])
+I(DM): 0.8401687145233154	 ([love][it!])
+I(DK): 0.7972712516784668	 ([love][well...])
+I(AL): 0.771883487701416	 ([like][liked])
+I(AG): -0.5427160263061523	 ([like][hate])
+==================================================

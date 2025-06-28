@@ -1,0 +1,8 @@
+{
+    "model":"bert-large-cased",
+    "tag":"bert-large-cased",
+    "model_path":"/data/zhangjp/save/bert_weight/models--bert-large-cased/snapshots/0879dca57dc16fa0f759392a4dde1250698570aa",
+    "tokenizer_path":"/data/zhangjp/save/bert_weight/models--bert-large-cased/snapshots/0879dca57dc16fa0f759392a4dde1250698570aa",
+    "word_embed":"bert/embeddings/word_embeddings",
+    "mid_layer":"model/layers/15/post_attention_layernorm"
+}

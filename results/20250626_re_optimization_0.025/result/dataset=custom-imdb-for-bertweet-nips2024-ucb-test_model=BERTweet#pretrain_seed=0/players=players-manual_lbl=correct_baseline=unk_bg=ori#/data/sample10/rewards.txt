@@ -1,0 +1,24 @@
+---------- Players ----------
+Player A: comment
+Player B: stupid
+Player C: movie,
+Player D: acting
+Player E: average
+Player F: worse...
+Player G: screenplay
+Player H: no
+Player I: sense
+Player J: at
+Player K: all...
+Player L: SKIP
+---------- Rewards ----------
+v(): 0.9634710550308228	 ([])
+v(BFHIKL): 4.040493011474609	 ([stupid][worse...][no][sense][all...][SKIP])
+v(ACDEGJ): -0.12652647495269775	 ([comment][movie,][acting][average][screenplay][at])
+v(ABCDEFGHIJKL): 4.087618350982666	 ([comment][stupid][movie,][acting][average][worse...][screenplay][no][sense][at][all...][SKIP])
+---------- Rewards-v() ----------
+v(ABCDEFGHIJKL): 3.124147415161133, EP: 1.0	 ([comment][stupid][movie,][acting][average][worse...][screenplay][no][sense][at][all...][SKIP])
+v(BFHIKL): 3.077022075653076, EP: 0.9849157929420471	 ([stupid][worse...][no][sense][all...][SKIP])
+v(ACDEGJ): -1.0899975299835205, EP: -0.3488943874835968	 ([comment][movie,][acting][average][screenplay][at])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

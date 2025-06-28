@@ -1,0 +1,25 @@
+---------- Players ----------
+Player A: Her
+Player B: acting
+Player C: never
+Player D: fails
+Player E: impress
+---------- Rewards ----------
+v(): -4.422109603881836	 ([])
+v(CDE): 4.136402606964111	 ([never][fails][impress])
+v(B): -4.192593574523926	 ([acting])
+v(A): -4.278564453125	 ([Her])
+v(BCDE): 3.863588809967041	 ([acting][never][fails][impress])
+v(ACDE): 4.259744167327881	 ([Her][never][fails][impress])
+v(AB): -4.215487480163574	 ([Her][acting])
+v(ABCDE): 4.157092094421387	 ([Her][acting][never][fails][impress])
+---------- Rewards-v() ----------
+v(ACDE): 8.681854248046875, EP: 1.011965274810791	 ([Her][never][fails][impress])
+v(ABCDE): 8.579201698303223, EP: 1.0	 ([Her][acting][never][fails][impress])
+v(CDE): 8.558511734008789, EP: 0.9975883364677429	 ([never][fails][impress])
+v(BCDE): 8.285697937011719, EP: 0.9657889008522034	 ([acting][never][fails][impress])
+v(B): 0.22951602935791016, EP: 0.026752609759569168	 ([acting])
+v(AB): 0.20662212371826172, EP: 0.024084072560071945	 ([Her][acting])
+v(A): 0.14354515075683594, EP: 0.016731761395931244	 ([Her])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,78 @@
+---------- Players ----------
+Player A: rating
+Player B: 1
+Player C: not
+Player D: begin
+Player E: express
+Player F: dull,
+Player G: depressing
+Player H: relentlessly
+Player I: bad
+Player J: movie
+---------- Rewards ----------
+v(): -3.3131847381591797	 ([])
+v(FGI): 3.7809395790100098	 ([dull,][depressing][bad])
+v(J): -3.31387996673584	 ([movie])
+v(D): -2.7551496028900146	 ([begin])
+v(ABEH): -0.5580485463142395	 ([rating][1][express][relentlessly])
+v(C): -2.1131861209869385	 ([not])
+v(FGIJ): 3.8782176971435547	 ([dull,][depressing][bad][movie])
+v(DFGI): 3.8537871837615967	 ([begin][dull,][depressing][bad])
+v(ABEFGHI): 4.0074028968811035	 ([rating][1][express][dull,][depressing][relentlessly][bad])
+v(CFGI): 3.5904998779296875	 ([not][dull,][depressing][bad])
+v(DJ): -1.5351202487945557	 ([begin][movie])
+v(ABEHJ): -2.570378303527832	 ([rating][1][express][relentlessly][movie])
+v(CJ): -0.5551708936691284	 ([not][movie])
+v(ABDEH): 0.6618996858596802	 ([rating][1][begin][express][relentlessly])
+v(CD): 0.0028759241104125977	 ([not][begin])
+v(ABCEH): 1.4761419296264648	 ([rating][1][not][express][relentlessly])
+v(DFGIJ): 3.9284424781799316	 ([begin][dull,][depressing][bad][movie])
+v(ABEFGHIJ): 4.021902084350586	 ([rating][1][express][dull,][depressing][relentlessly][bad][movie])
+v(CFGIJ): 3.818162202835083	 ([not][dull,][depressing][bad][movie])
+v(ABDEFGHI): 4.03568172454834	 ([rating][1][begin][express][dull,][depressing][relentlessly][bad])
+v(CDFGI): 3.8784267902374268	 ([not][begin][dull,][depressing][bad])
+v(ABCEFGHI): 3.986527681350708	 ([rating][1][not][express][dull,][depressing][relentlessly][bad])
+v(ABDEHJ): -1.9725217819213867	 ([rating][1][begin][express][relentlessly][movie])
+v(CDJ): 0.7228579521179199	 ([not][begin][movie])
+v(ABCEHJ): 0.6900925636291504	 ([rating][1][not][express][relentlessly][movie])
+v(ABCDEH): 1.9391098022460938	 ([rating][1][not][begin][express][relentlessly])
+v(ABDEFGHIJ): 4.04646110534668	 ([rating][1][begin][express][dull,][depressing][relentlessly][bad][movie])
+v(CDFGIJ): 3.921217918395996	 ([not][begin][dull,][depressing][bad][movie])
+v(ABCEFGHIJ): 4.005006790161133	 ([rating][1][not][express][dull,][depressing][relentlessly][bad][movie])
+v(ABCDEFGHI): 4.031452178955078	 ([rating][1][not][begin][express][dull,][depressing][relentlessly][bad])
+v(ABCDEHJ): 0.49329236149787903	 ([rating][1][not][begin][express][relentlessly][movie])
+v(ABCDEFGHIJ): 4.038734436035156	 ([rating][1][not][begin][express][dull,][depressing][relentlessly][bad][movie])
+---------- Rewards-v() ----------
+v(ABDEFGHIJ): 7.359645843505859, EP: 1.0010509490966797	 ([rating][1][begin][express][dull,][depressing][relentlessly][bad][movie])
+v(ABCDEFGHIJ): 7.351919174194336, EP: 1.0	 ([rating][1][not][begin][express][dull,][depressing][relentlessly][bad][movie])
+v(ABDEFGHI): 7.3488664627075195, EP: 0.9995847940444946	 ([rating][1][begin][express][dull,][depressing][relentlessly][bad])
+v(ABCDEFGHI): 7.344636917114258, EP: 0.9990094900131226	 ([rating][1][not][begin][express][dull,][depressing][relentlessly][bad])
+v(ABEFGHIJ): 7.335086822509766, EP: 0.9977104663848877	 ([rating][1][express][dull,][depressing][relentlessly][bad][movie])
+v(ABEFGHI): 7.320587635040283, EP: 0.9957383275032043	 ([rating][1][express][dull,][depressing][relentlessly][bad])
+v(ABCEFGHIJ): 7.3181915283203125, EP: 0.9954124093055725	 ([rating][1][not][express][dull,][depressing][relentlessly][bad][movie])
+v(ABCEFGHI): 7.299712181091309, EP: 0.9928988814353943	 ([rating][1][not][express][dull,][depressing][relentlessly][bad])
+v(DFGIJ): 7.241627216339111, EP: 0.9849982261657715	 ([begin][dull,][depressing][bad][movie])
+v(CDFGIJ): 7.234402656555176, EP: 0.9840155243873596	 ([not][begin][dull,][depressing][bad][movie])
+v(CDFGI): 7.191611289978027, EP: 0.978195071220398	 ([not][begin][dull,][depressing][bad])
+v(FGIJ): 7.191402435302734, EP: 0.9781666994094849	 ([dull,][depressing][bad][movie])
+v(DFGI): 7.1669721603393555, EP: 0.9748436808586121	 ([begin][dull,][depressing][bad])
+v(CFGIJ): 7.131346702575684, EP: 0.9699980020523071	 ([not][dull,][depressing][bad][movie])
+v(FGI): 7.0941243171691895, EP: 0.9649350047111511	 ([dull,][depressing][bad])
+v(CFGI): 6.903684616088867, EP: 0.9390316009521484	 ([not][dull,][depressing][bad])
+v(ABCDEH): 5.252294540405273, EP: 0.7144113779067993	 ([rating][1][not][begin][express][relentlessly])
+v(ABCEH): 4.7893266677856445, EP: 0.6514389514923096	 ([rating][1][not][express][relentlessly])
+v(CDJ): 4.0360426902771, EP: 0.5489780902862549	 ([not][begin][movie])
+v(ABCEHJ): 4.00327730178833, EP: 0.5445213913917542	 ([rating][1][not][express][relentlessly][movie])
+v(ABDEH): 3.9750843048095703, EP: 0.5406866073608398	 ([rating][1][begin][express][relentlessly])
+v(ABCDEHJ): 3.8064770698547363, EP: 0.5177528262138367	 ([rating][1][not][begin][express][relentlessly][movie])
+v(CD): 3.3160605430603027, EP: 0.4510469138622284	 ([not][begin])
+v(CJ): 2.7580137252807617, EP: 0.37514200806617737	 ([not][movie])
+v(ABEH): 2.755136251449585, EP: 0.37475061416625977	 ([rating][1][express][relentlessly])
+v(DJ): 1.778064489364624, EP: 0.24185039103031158	 ([begin][movie])
+v(ABDEHJ): 1.340662956237793, EP: 0.18235550820827484	 ([rating][1][begin][express][relentlessly][movie])
+v(C): 1.1999986171722412, EP: 0.16322249174118042	 ([not])
+v(ABEHJ): 0.7428064346313477, EP: 0.1010357216000557	 ([rating][1][express][relentlessly][movie])
+v(D): 0.558035135269165, EP: 0.07590332627296448	 ([begin])
+v(J): -0.0006952285766601562, EP: -9.456423140363768e-05	 ([movie])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

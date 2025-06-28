@@ -1,0 +1,28 @@
+{
+    "cifar10-noise0.01": {
+        "vgg11": "../checkpoints/dataset=cifar10-noise0.01_model=vgg11_epoch=300_bs=128_lr=0.01_seed=0",
+        "vgg16": "../checkpoints/dataset=cifar10-noise0.01_model=vgg16_epoch=300_bs=128_lr=0.01_seed=0"
+    },
+    "mnist-noise0.01": {
+        "vgg11": "../checkpoints/dataset=mnist-noise0.01_model=vgg11_epoch=300_bs=128_lr=0.01_seed=0"
+    },
+    "cub2011-noise0.05": {
+        "alexnet": "../checkpoints/dataset=cub2011-noise0.05_model=alexnet_epoch=300_bs=128_lr=0.01_seed=0",
+        "vgg16": "../checkpoints/dataset=cub2011-noise0.05_model=vgg16_epoch=300_bs=128_lr=0.01_seed=0"
+    },
+    "tiny_imagenet50": {
+        "vgg16": "../checkpoints/dataset=tiny_imagenet50_model=vgg16_epoch=300_bs=128_lr=0.01_seed=0"
+    },
+    "SST-2": {
+        "bert-medium": "../checkpoints/dataset=SST-2_model=bert-medium_epoch=300_bs=128_lr=0.01_seed=0",
+        "bert-tiny": "../checkpoints/dataset=SST-2_model=bert-tiny_epoch=300_bs=128_lr=0.01_seed=0"
+    },
+    "AGNews": {
+        "bert-medium": "../checkpoints/dataset=AGNews_model=bert-medium_epoch=300_bs=128_lr=0.01_seed=0",
+        "bert-tiny": "../checkpoints/dataset=AGNews_model=bert-tiny_epoch=300_bs=128_lr=0.01_seed=0"
+    },
+    "MNLI-0.1": {
+        "bert-medium": "../checkpoints/dataset=MNLI-0.1_model=bert-medium_epoch=300_bs=128_lr=0.01_seed=0",
+        "bert-tiny": "../checkpoints/dataset=MNLI-0.1_model=bert-tiny_epoch=300_bs=128_lr=0.01_seed=0"
+    }
+}

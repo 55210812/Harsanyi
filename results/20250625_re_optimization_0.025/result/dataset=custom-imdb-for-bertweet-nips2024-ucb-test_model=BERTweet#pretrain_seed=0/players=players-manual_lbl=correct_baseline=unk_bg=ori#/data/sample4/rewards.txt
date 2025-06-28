@@ -1,0 +1,22 @@
+---------- Players ----------
+Player A: characters
+Player B: unlikeable
+Player C: script
+Player D: awful.
+Player E: waste
+Player F: of
+Player G: talents
+Player H: Deneuve
+Player I: and
+Player J: Auteuil.
+---------- Rewards ----------
+v(): -3.871222972869873	 ([])
+v(BCDEG): 3.9619429111480713	 ([unlikeable][script][awful.][waste][talents])
+v(AFHIJ): -5.138248443603516	 ([characters][of][Deneuve][and][Auteuil.])
+v(ABCDEFGHIJ): 3.935492992401123	 ([characters][unlikeable][script][awful.][waste][of][talents][Deneuve][and][Auteuil.])
+---------- Rewards-v() ----------
+v(BCDEG): 7.833166122436523, EP: 1.0033881664276123	 ([unlikeable][script][awful.][waste][talents])
+v(ABCDEFGHIJ): 7.806715965270996, EP: 1.0	 ([characters][unlikeable][script][awful.][waste][of][talents][Deneuve][and][Auteuil.])
+v(AFHIJ): -1.2670254707336426, EP: -0.16229942440986633	 ([characters][of][Deneuve][and][Auteuil.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

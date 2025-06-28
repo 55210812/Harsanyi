@@ -1,0 +1,30 @@
+Execution time: 2025-03-07 01:05:11
+prompt: <s> I don't know why I like this movie so well, but I never get tired of watching it. </s>
+---------- tokenizer ----------
+idx:0 input_id:0 decoded_text: <s>
+idx:1 input_id:8 decoded_text: I
+idx:2 input_id:19933 decoded_text: don't
+idx:3 input_id:68 decoded_text: know
+idx:4 input_id:146 decoded_text: why
+idx:5 input_id:8 decoded_text: I
+idx:6 input_id:43 decoded_text: like
+idx:7 input_id:33 decoded_text: this
+idx:8 input_id:566 decoded_text: movie
+idx:9 input_id:39 decoded_text: so
+idx:10 input_id:15969 decoded_text: well@@
+idx:11 input_id:7 decoded_text: ,
+idx:12 input_id:42 decoded_text: but
+idx:13 input_id:8 decoded_text: I
+idx:14 input_id:143 decoded_text: never
+idx:15 input_id:51 decoded_text: get
+idx:16 input_id:757 decoded_text: tired
+idx:17 input_id:15 decoded_text: of
+idx:18 input_id:406 decoded_text: watching
+idx:19 input_id:987 decoded_text: it@@
+idx:20 input_id:4 decoded_text: .
+idx:21 input_id:2 decoded_text: </s>
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.603986978530884, -0.904316782951355, 3.768183708190918]]
+decoded_pred_text (only for generation task): </s>
+==================================================

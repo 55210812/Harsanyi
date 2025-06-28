@@ -1,0 +1,32 @@
+---------- Players ----------
+Player A: definitive
+Player B: movie
+Player C: version
+Player D: Hamlet.
+Player E: Branagh
+Player F: cuts
+Player G: nothing,
+Player H: but
+Player I: no
+Player J: wasted
+Player K: moments.
+---------- AND Interactions (Pairwise Only) ----------
+I(IJ): 6.372658729553223	 ([no][wasted])
+I(AB): 3.087057590484619	 ([definitive][movie])
+I(GJ): 1.3280377388000488	 ([nothing,][wasted])
+I(IK): 0.7875158786773682	 ([no][moments.])
+I(GI): -0.7868247032165527	 ([nothing,][no])
+---------- OR Interactions (Pairwise Only) ----------
+I(IJ): -5.7755842208862305	 ([no][wasted])
+I(HI): -1.71787691116333	 ([but][no])
+I(GH): -1.6761054992675781	 ([nothing,][but])
+I(AJ): 1.1343116760253906	 ([definitive][wasted])
+I(DJ): 1.0355253219604492	 ([Hamlet.][wasted])
+I(HJ): -0.9509124755859375	 ([but][wasted])
+I(CI): -0.9301848411560059	 ([version][no])
+I(FG): -0.8260507583618164	 ([cuts][nothing,])
+I(AK): 0.8235149383544922	 ([definitive][moments.])
+I(AH): 0.796992301940918	 ([definitive][but])
+I(FJ): 0.7718048095703125	 ([cuts][wasted])
+I(BC): 0.7089738845825195	 ([movie][version])
+==================================================

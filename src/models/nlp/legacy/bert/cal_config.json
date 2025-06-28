@@ -1,0 +1,8 @@
+{
+    "model":"bert_for_seq_generation_L-24_bbc_encoder",
+    "tag":"bert",
+    "model_path":"google/bert_for_seq_generation_L-24_bbc_encoder",
+    "tokenizer_path":"google/bert_for_seq_generation_L-24_bbc_encoder",
+    "word_embedding_layer_name":"bert/embeddings/word_embeddings",
+    "mid_layer_layer_name":"bert/encoder/layer/12/output/dropout"
+}

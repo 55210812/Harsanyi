@@ -1,0 +1,24 @@
+---------- Players ----------
+Player A: good
+Player B: film.
+Player C: very
+Player D: funny.
+Player E: Yet
+Player F: after
+Player G: film
+Player H: no
+Player I: good
+Player J: Ernest
+Player K: films!
+---------- AND Interactions (Pairwise Only) ----------
+I(AD): -7.161632537841797	 ([good][funny.])
+I(GI): 5.896574020385742	 ([film][good])
+I(DE): -3.420689105987549	 ([funny.][Yet])
+I(HI): -2.3377809524536133	 ([no][good])
+---------- OR Interactions (Pairwise Only) ----------
+I(AD): 7.19963264465332	 ([good][funny.])
+I(AC): 1.7193965911865234	 ([good][very])
+I(DH): -1.239394187927246	 ([funny.][no])
+I(DI): -1.0358543395996094	 ([funny.][good])
+I(DE): -0.9360036849975586	 ([funny.][Yet])
+==================================================

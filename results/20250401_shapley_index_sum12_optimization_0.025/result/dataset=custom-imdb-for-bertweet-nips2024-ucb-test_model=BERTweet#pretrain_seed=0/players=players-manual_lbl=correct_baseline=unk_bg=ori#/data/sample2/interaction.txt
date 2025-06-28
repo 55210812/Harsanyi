@@ -1,0 +1,40 @@
+---------- Players ----------
+Player A: Hated
+Player B: being.
+Player C: Worst
+Player D: movie
+Player E: ever.
+Player F: Mentally-
+Player G: scarred.
+Player H: Help
+Player I: bad.
+Player J: TRUST
+Player K: ME!!!
+---------- AND Interactions (Pairwise Only) ----------
+I(AC): -3.329275608062744	 ([Hated][Worst])
+I(AI): -2.884699821472168	 ([Hated][bad.])
+I(CI): -2.3608620166778564	 ([Worst][bad.])
+I(AG): -1.4116113185882568	 ([Hated][scarred.])
+I(GI): -1.37190580368042	 ([scarred.][bad.])
+I(CG): -1.2487330436706543	 ([Worst][scarred.])
+I(CD): 0.6808692812919617	 ([Worst][movie])
+I(AJ): 0.6230021119117737	 ([Hated][TRUST])
+I(BC): 0.5517387986183167	 ([being.][Worst])
+I(CE): 0.5475826859474182	 ([Worst][ever.])
+I(DJ): 0.3731900751590729	 ([movie][TRUST])
+I(AH): 0.3580254912376404	 ([Hated][Help])
+I(GH): 0.25558769702911377	 ([scarred.][Help])
+I(DH): 0.2450379729270935	 ([movie][Help])
+I(DE): -0.22701022028923035	 ([movie][ever.])
+I(BD): -0.22129976749420166	 ([being.][movie])
+I(AE): -0.20314598083496094	 ([Hated][ever.])
+I(IJ): 0.199021577835083	 ([bad.][TRUST])
+I(CH): -0.18563812971115112	 ([Worst][Help])
+I(EI): -0.17941772937774658	 ([ever.][bad.])
+I(IK): 0.17852675914764404	 ([bad.][ME!!!])
+I(HK): 0.17123794555664062	 ([Help][ME!!!])
+I(GK): -0.16429221630096436	 ([scarred.][ME!!!])
+I(AK): 0.15886163711547852	 ([Hated][ME!!!])
+I(BE): -0.14567214250564575	 ([being.][ever.])
+Sum: -2.544382870197296
+==================================================

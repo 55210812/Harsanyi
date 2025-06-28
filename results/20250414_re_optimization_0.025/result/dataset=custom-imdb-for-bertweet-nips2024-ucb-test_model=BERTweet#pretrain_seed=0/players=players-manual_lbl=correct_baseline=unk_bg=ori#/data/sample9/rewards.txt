@@ -1,0 +1,22 @@
+---------- Players ----------
+Player A: Add
+Player B: little
+Player C: gem
+Player D: list
+Player E: holiday
+Player F: regulars.
+Player G: It
+Player H: is
+Player I: sweet,
+Player J: funny,
+Player K: endearing
+---------- Rewards ----------
+v(): -4.447729110717773	 ([])
+v(JK): 3.781723737716675	 ([funny,][endearing])
+v(GHI): 1.8315162658691406	 ([It][is][sweet,])
+v(ABCDEF): 1.5960341691970825	 ([Add][little][gem][list][holiday][regulars.])
+v(GHIJK): 4.054003715515137	 ([It][is][sweet,][funny,][endearing])
+v(ABCDEFJK): 4.629293441772461	 ([Add][little][gem][list][holiday][regulars.][funny,][endearing])
+v(ABCDEFGHI): 3.9470326900482178	 ([Add][little][gem][list][holiday][regulars.][It][is][sweet,])
+v(ABCDEFGHIJK): 4.756265640258789	 ([Add][little][gem][list][holiday][regulars.][It][is][sweet,][funny,][endearing])
+==================================================

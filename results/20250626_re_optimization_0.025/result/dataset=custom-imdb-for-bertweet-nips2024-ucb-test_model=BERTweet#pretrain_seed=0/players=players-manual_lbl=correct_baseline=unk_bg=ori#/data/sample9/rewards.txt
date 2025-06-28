@@ -1,0 +1,47 @@
+---------- Players ----------
+Player A: Add
+Player B: little
+Player C: gem
+Player D: list
+Player E: holiday
+Player F: regulars.
+Player G: It
+Player H: is
+Player I: sweet,
+Player J: funny,
+Player K: endearing
+---------- Rewards ----------
+v(): -4.44773006439209	 ([])
+v(ADIJK): 4.022353649139404	 ([Add][list][sweet,][funny,][endearing])
+v(E): -4.294938564300537	 ([holiday])
+v(CFGH): -3.7367208003997803	 ([gem][regulars.][It][is])
+v(B): -4.237013339996338	 ([little])
+v(ADEIJK): 4.4561262130737305	 ([Add][list][holiday][sweet,][funny,][endearing])
+v(ACDFGHIJK): 4.4932990074157715	 ([Add][gem][list][regulars.][It][is][sweet,][funny,][endearing])
+v(ABDIJK): 4.1006760597229	 ([Add][little][list][sweet,][funny,][endearing])
+v(CEFGH): -2.96636700630188	 ([gem][holiday][regulars.][It][is])
+v(BE): -4.041212558746338	 ([little][holiday])
+v(BCFGH): -2.6849141120910645	 ([little][gem][regulars.][It][is])
+v(ACDEFGHIJK): 4.680158615112305	 ([Add][gem][list][holiday][regulars.][It][is][sweet,][funny,][endearing])
+v(ABDEIJK): 4.441544055938721	 ([Add][little][list][holiday][sweet,][funny,][endearing])
+v(ABCDFGHIJK): 4.646878719329834	 ([Add][little][gem][list][regulars.][It][is][sweet,][funny,][endearing])
+v(BCEFGH): -1.7020885944366455	 ([little][gem][holiday][regulars.][It][is])
+v(ABCDEFGHIJK): 4.756265640258789	 ([Add][little][gem][list][holiday][regulars.][It][is][sweet,][funny,][endearing])
+---------- Rewards-v() ----------
+v(ABCDEFGHIJK): 9.203995704650879, EP: 1.0	 ([Add][little][gem][list][holiday][regulars.][It][is][sweet,][funny,][endearing])
+v(ACDEFGHIJK): 9.127888679504395, EP: 0.9917311072349548	 ([Add][gem][list][holiday][regulars.][It][is][sweet,][funny,][endearing])
+v(ABCDFGHIJK): 9.094608306884766, EP: 0.9881152510643005	 ([Add][little][gem][list][regulars.][It][is][sweet,][funny,][endearing])
+v(ACDFGHIJK): 8.941028594970703, EP: 0.9714290499687195	 ([Add][gem][list][regulars.][It][is][sweet,][funny,][endearing])
+v(ADEIJK): 8.90385627746582, EP: 0.9673902988433838	 ([Add][list][holiday][sweet,][funny,][endearing])
+v(ABDEIJK): 8.889274597167969, EP: 0.9658060073852539	 ([Add][little][list][holiday][sweet,][funny,][endearing])
+v(ABDIJK): 8.548406600952148, EP: 0.9287712574005127	 ([Add][little][list][sweet,][funny,][endearing])
+v(ADIJK): 8.470083236694336, EP: 0.920261561870575	 ([Add][list][sweet,][funny,][endearing])
+v(BCEFGH): 2.7456414699554443, EP: 0.2983097434043884	 ([little][gem][holiday][regulars.][It][is])
+v(BCFGH): 1.7628159523010254, EP: 0.19152724742889404	 ([little][gem][regulars.][It][is])
+v(CEFGH): 1.48136305809021, EP: 0.16094781458377838	 ([gem][holiday][regulars.][It][is])
+v(CFGH): 0.7110092639923096, EP: 0.07725006341934204	 ([gem][regulars.][It][is])
+v(BE): 0.40651750564575195, EP: 0.04416750371456146	 ([little][holiday])
+v(B): 0.21071672439575195, EP: 0.02289404906332493	 ([little])
+v(E): 0.15279150009155273, EP: 0.016600562259554863	 ([holiday])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,269 @@
+import argparse
+import networkx as nx
+import re
+import matplotlib.pyplot as plt
+from networkx.algorithms.community import louvain_communities, greedy_modularity_communities
+from girvan_newman import girvan_newman
+
+def main():
+    # 设置命令行参数
+    parser = argparse.ArgumentParser(description='Community detection from interaction data')
+    parser.add_argument('--file_path', required=True, help='Path to interaction.txt file')
+    parser.add_argument('--output', help='Output PNG file name')
+    parser.add_argument('--function', default="louvain", choices=["louvain", "gw"], 
+                       help='Community detection function (default: louvain)')
+    
+    args = parser.parse_args()
+
+    # 读取文件
+    with open(args.file_path, 'r') as f:
+        data = f.read()
+
+    # 解析玩家信息
+    players = {}
+    player_section = re.search(r'---------- Players ----------(.*?)---------- AND Interactions \(Pairwise Only\)', data, re.DOTALL)
+    if player_section:
+        for line in player_section.group(1).strip().split('\n'):
+            match = re.match(r'Player (\w+): (.*)', line)
+            if match:
+                players[match.group(1)] = match.group(2)
+
+    # 解析AND Interactions
+    G = nx.Graph()
+    interaction_section = re.search(r'---------- AND Interactions \(Pairwise Only\) ----------(.*?)(?:Sum: |\Z)', data, re.DOTALL)
+    if interaction_section:
+        seen_edges = set()
+        for line in interaction_section.group(1).strip().split('\n'):
+            match = re.match(r'I\((\w+)\): ([+-]?\d*\.\d+)', line)
+            if match:
+                edge = match.group(1)
+                if edge not in seen_edges:  # Skip duplicates
+                    seen_edges.add(edge)
+                    nodes = list(edge)
+                    weight = float(match.group(2))
+                    abs_weight = abs(weight)
+                    G.add_edge(nodes[0], nodes[1], weight=weight, abs_weight=abs_weight)
+
+    # 选择社区检测算法
+    if args.function == "louvain":
+        if len(G.edges()) == 0:
+            print("Warning: Graph has no edges, returning empty communities")
+            communities = []
+        else:
+            # Check if all abs_weights are zero
+            all_zero = all(data['abs_weight'] == 0 for _, _, data in G.edges(data=True))
+            if all_zero:
+                print("Warning: All edge weights are zero, returning empty communities")
+                communities = []
+            else:
+                communities = list(louvain_communities(G, weight='abs_weight'))
+    elif args.function == "gw":
+        communities = list(girvan_newman(G))
+
+    # 转换社区为可哈希类型
+    communities = [frozenset(community) for community in communities]
+    
+    # 打印社区结果
+    print(f"{args.function}社区检测结果:")
+    for i, community in enumerate(communities):
+       print(f"社区 {i+1}: {[players[n] for n in community]}")
+
+    # 可视化
+    weights = [abs(G[u][v]['weight'])*2 for u,v in G.edges()]
+    edge_colors = ['red' if G[u][v]['weight'] < 0 else 'green' for u, v in G.edges()]
+    pos = nx.spring_layout(G, k=2.0, iterations=100)
+    colors = ['r', 'g', 'b', 'y', 'c', 'm']
+
+    # 绘制节点和社区
+    for i, community in enumerate(communities):
+        nx.draw_networkx_nodes(G, pos, nodelist=list(community),
+                             node_color=colors[i],
+                             node_size=500,
+                             alpha=0.8)
+
+    # 绘制边和权重标签
+    edges = nx.draw_networkx_edges(G, pos, width=weights, alpha=0.5, edge_color=edge_colors)
+
+    # 添加边权重标签
+    edge_labels = {(u, v): f"{d['weight']:.2f}" for u, v, d in G.edges(data=True)}
+    nx.draw_networkx_edge_labels(
+        G, pos,
+        edge_labels=edge_labels,
+        font_color='black',
+        font_size=8,
+        label_pos=0.5
+    )
+
+    # 绘制节点标签
+    nx.draw_networkx_labels(G, pos, {n:players[n] for n in G.nodes()}, font_size=10)
+
+    plt.title(args.function)
+    plt.axis('off')
+    
+    if args.output:
+        output_path = f"/mnt/data/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/group/all-louvain-0.000001/{args.output}"
+        plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    plt.show()
+
+if __name__ == "__main__":
+    main()
+
+
+
+
+
+
+
+
+
+
+
+
+
+import argparse
+import networkx as nx
+import re
+import matplotlib.pyplot as plt
+import math
+from networkx.algorithms.community import louvain_communities, greedy_modularity_communities
+from girvan_newman import girvan_newman
+
+
+def main():
+    # 设置命令行参数
+    parser = argparse.ArgumentParser(description='Community detection from interaction data')
+    parser.add_argument('--file_path', required=True, help='Path to interaction.txt file')
+    parser.add_argument('--output', help='Output PNG file name')
+    parser.add_argument('--function', default="louvain", choices=["louvain", "gw"], 
+                       help='Community detection function (default: louvain)')
+    
+    args = parser.parse_args()
+
+    # 读取文件
+    with open(args.file_path, 'r') as f:
+        data = f.read()
+
+    # 解析玩家信息
+    players = {}
+    player_section = re.search(r'---------- Players ----------(.*?)---------- AND Interactions \(Pairwise Only\)', data, re.DOTALL)
+    if player_section:
+        for line in player_section.group(1).strip().split('\n'):
+            match = re.match(r'Player (\w+): (.*)', line)
+            if match:
+                players[match.group(1)] = match.group(2)
+
+    # 解析AND Interactions
+    G = nx.Graph()
+    # interaction_section = re.search(r'---------- AND Interactions.*?---------- OR Interactions', data, re.DOTALL)
+    # if interaction_section:
+    #     for line in interaction_section.group(0).split('\n'):
+    #         match = re.match(r'I\((\w+)\): ([+-]?\d*\.\d+)', line)
+    #         if match:
+    #             nodes = list(match.group(1))
+    #             weight = float(match.group(2))
+    #             abs_weight = abs(weight)
+    #             G.add_edge(nodes[0], nodes[1], weight=weight, abs_weight=abs_weight)
+    interaction_section = re.search(r'---------- AND Interactions \(Pairwise Only\) ----------(.*?)(?:Sum: |\Z)', data, re.DOTALL)
+    if interaction_section:
+        seen_edges = set()
+        for line in interaction_section.group(1).strip().split('\n'):
+            match = re.match(r'I\((\w+)\): ([+-]?\d*\.\d+)', line)
+            if match:
+                edge = match.group(1)
+                if edge not in seen_edges:  # Skip duplicates
+                    seen_edges.add(edge)
+                    nodes = list(edge)
+                    weight = float(match.group(2))
+                    abs_weight = abs(weight)
+                    G.add_edge(nodes[0], nodes[1], weight=weight, abs_weight=abs_weight)
+
+    # 选择社区检测算法
+    if args.function == "louvain":
+        if len(G.edges()) == 0:
+            print("Warning: Graph has no edges, returning empty communities")
+            communities = []
+        else:
+            # Check if all abs_weights are zero
+            all_zero = all(data['abs_weight'] == 0 for _, _, data in G.edges(data=True))
+            if all_zero:
+                print("Warning: All edge weights are zero, returning empty communities")
+                communities = []
+            else:
+                communities = list(louvain_communities(G, weight='abs_weight'))
+    elif args.function == "gw":
+        communities = list(girvan_newman(G))
+
+    # 转换社区为可哈希类型
+    communities = [frozenset(community) for community in communities]
+    
+    # 打印社区结果
+    print(f"{args.function}社区检测结果:")
+    for i, community in enumerate(communities):
+       print(f"社区 {i+1}: {[players[n] for n in community]}")
+
+    # 可视化
+    weights = [abs(G[u][v]['weight'])*2 for u,v in G.edges()]
+    edge_colors = ['red' if G[u][v]['weight'] < 0 else 'green' for u, v in G.edges()]
+    colors = ['r', 'g', 'b', 'y', 'c', 'm']
+
+    # 为每个社区创建初始位置
+    pos = {}
+    community_centers = {}
+    angle_step = 2 * 3.14159 / len(communities)
+    radius = 2.0  # 增加半径以扩大社区间距
+    
+    for i, community in enumerate(communities):
+        # 计算社区中心点
+        center_x = radius * math.cos(i * angle_step)
+        center_y = radius * math.sin(i * angle_step)
+        community_centers[i] = (center_x, center_y)
+        
+        # 为社区内节点分配初始位置
+        member_angle_step = 2 * 3.14159 / len(community)
+        member_radius = 0.2  # 减小社区内节点半径
+        for j, node in enumerate(community):
+            pos[node] = (
+                center_x + member_radius * math.cos(j * member_angle_step),
+                center_y + member_radius * math.sin(j * member_angle_step)
+            )
+
+    # 使用初始位置进行力导向布局
+    pos = nx.spring_layout(G, pos=pos, k=0.8, iterations=300, seed=42)  # 减小k值减少节点间排斥力 todo: 可以尝试一下统一community中减少k，不同的community增加k
+
+    # 两阶段绘制图形
+    # 1. 先绘制整个图的浅色背景
+    nx.draw(G, pos, with_labels=False, node_size=1, width=0.1, alpha=0.2)
+    
+    # 2. 绘制社区和标签
+    for i, community in enumerate(communities):
+        nx.draw_networkx_nodes(G, pos, nodelist=list(community),
+                             node_color=colors[i % len(colors)],
+                             node_size=500,
+                             alpha=0.8)
+    
+    # 绘制边和权重标签
+    edges = nx.draw_networkx_edges(G, pos, width=weights, alpha=0.5, edge_color=edge_colors)
+    
+    # 添加边权重标签
+    edge_labels = {(u, v): f"{d['weight']:.2f}" for u, v, d in G.edges(data=True)}
+    nx.draw_networkx_edge_labels(
+        G, pos,
+        edge_labels=edge_labels,
+        font_color='black',
+        font_size=8,
+        label_pos=0.5
+    )
+    
+    # 绘制节点标签
+    nx.draw_networkx_labels(G, pos, {n:players[n] for n in G.nodes()}, font_size=10)
+
+    plt.title(args.function)
+    plt.axis('off')
+    
+    if args.output:
+        output_path = f"/mnt/data/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/group/louvain_gai/{args.output}"
+        plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    plt.show()
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,27 @@
+---------- Players ----------
+Player A: Hated
+Player B: being.
+Player C: Worst
+Player D: movie
+Player E: ever.
+Player F: Mentally-
+Player G: scarred.
+Player H: Help
+Player I: bad.
+Player J: TRUST
+Player K: ME!!!
+---------- AND Interactions (Pairwise Only) ----------
+I(AI): -6.1995015144348145	 ([Hated][bad.])
+I(AC): -5.237194061279297	 ([Hated][Worst])
+I(CI): -5.0293169021606445	 ([Worst][bad.])
+I(GI): -4.427340984344482	 ([scarred.][bad.])
+I(AG): -4.247303485870361	 ([Hated][scarred.])
+I(CG): -4.159299850463867	 ([Worst][scarred.])
+I(CD): 2.1031951904296875	 ([Worst][movie])
+I(CJ): -1.5104172229766846	 ([Worst][TRUST])
+I(CH): -1.4560329914093018	 ([Worst][Help])
+I(CE): 1.401982307434082	 ([Worst][ever.])
+I(BC): 1.3733797073364258	 ([being.][Worst])
+---------- OR Interactions (Pairwise Only) ----------
+I(AC): 1.9962010383605957	 ([Hated][Worst])
+==================================================

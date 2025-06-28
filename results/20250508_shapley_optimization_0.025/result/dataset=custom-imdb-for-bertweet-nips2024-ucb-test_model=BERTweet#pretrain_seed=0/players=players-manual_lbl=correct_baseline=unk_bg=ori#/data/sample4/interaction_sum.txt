@@ -1,0 +1,22 @@
+---------- AND Interactions ----------
+I(B): 7.496352195739746	 ([unlikeable])
+I(D): 7.175198554992676	 ([awful.])
+I(E): 6.947589874267578	 ([waste])
+I(BE): -5.154796600341797	 ([unlikeable][waste])
+I(BD): -4.6912431716918945	 ([unlikeable][awful.])
+I(DE): -4.347725868225098	 ([awful.][waste])
+I(EG): 0.9229856133460999	 ([waste][talents])
+I(G): -0.8261322975158691	 ([talents])
+I(H): -0.5507659912109375	 ([Deneuve])
+I(J): -0.5281119346618652	 ([Auteuil.])
+I(DG): -0.4488295316696167	 ([awful.][talents])
+I(BG): 0.3211454749107361	 ([unlikeable][talents])
+I(AD): 0.3123939633369446	 ([characters][awful.])
+I(C): 0.30869197845458984	 ([script])
+I(BJ): 0.30751025676727295	 ([unlikeable][Auteuil.])
+I(BH): 0.2949815094470978	 ([unlikeable][Deneuve])
+I(EJ): 0.2938854396343231	 ([waste][Auteuil.])
+I(EH): 0.28048092126846313	 ([waste][Deneuve])
+I(BC): -0.18881094455718994	 ([unlikeable][script])
+Sum: 7.92479944229126
+==================================================

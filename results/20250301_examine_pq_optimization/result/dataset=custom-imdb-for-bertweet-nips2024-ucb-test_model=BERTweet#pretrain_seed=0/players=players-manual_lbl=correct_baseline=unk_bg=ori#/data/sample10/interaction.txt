@@ -1,0 +1,38 @@
+---------- Players ----------
+Player A: comment
+Player B: stupid
+Player C: movie,
+Player D: acting
+Player E: average
+Player F: worse...
+Player G: screenplay
+Player H: no
+Player I: sense
+Player J: at
+Player K: all...
+Player L: SKIP
+---------- AND Interactions (Pairwise Only) ----------
+I(JK): 2.345670461654663	 ([at][all...])
+I(BF): -2.2793586254119873	 ([stupid][worse...])
+I(FI): -1.9165549278259277	 ([worse...][sense])
+I(BI): -1.8230922222137451	 ([stupid][sense])
+I(AC): -1.5503690242767334	 ([comment][movie,])
+I(AI): -1.3788840770721436	 ([comment][sense])
+I(BH): -1.3636553287506104	 ([stupid][no])
+I(AE): 1.3548405170440674	 ([comment][average])
+I(AB): 1.2942183017730713	 ([comment][stupid])
+I(AL): 1.2409849166870117	 ([comment][SKIP])
+I(DE): 1.2092957496643066	 ([acting][average])
+I(GL): 1.166804313659668	 ([screenplay][SKIP])
+I(EG): 1.1191208362579346	 ([average][screenplay])
+I(FH): -1.0568039417266846	 ([worse...][no])
+I(BE): 1.054856777191162	 ([stupid][average])
+I(EL): 1.040903091430664	 ([average][SKIP])
+I(BG): 0.9885027408599854	 ([stupid][screenplay])
+I(AH): 0.9040088653564453	 ([comment][no])
+I(DL): 0.8076401352882385	 ([acting][SKIP])
+I(HL): -0.7549510598182678	 ([no][SKIP])
+I(EF): 0.7441608905792236	 ([average][worse...])
+I(BL): -0.7309117913246155	 ([stupid][SKIP])
+---------- OR Interactions (Pairwise Only) ----------
+==================================================

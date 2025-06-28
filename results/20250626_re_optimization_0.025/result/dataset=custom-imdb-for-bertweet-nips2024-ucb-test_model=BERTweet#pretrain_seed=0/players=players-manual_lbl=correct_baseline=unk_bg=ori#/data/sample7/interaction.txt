@@ -1,0 +1,19 @@
+---------- Players ----------
+Player A: definitive
+Player B: movie
+Player C: version
+Player D: Hamlet.
+Player E: Branagh
+Player F: cuts
+Player G: nothing,
+Player H: but
+Player I: no
+Player J: wasted
+Player K: moments.
+---------- AND Interactions (Pairwise Only) ----------
+I(DJ): -5.638092994689941	 ([Hamlet.][wasted])
+I(EJ): -5.288946151733398	 ([Branagh][wasted])
+I(DE): -4.672242641448975	 ([Hamlet.][Branagh])
+I(GI): -4.5426740646362305	 ([nothing,][no])
+Sum: -35.00938844680786
+==================================================

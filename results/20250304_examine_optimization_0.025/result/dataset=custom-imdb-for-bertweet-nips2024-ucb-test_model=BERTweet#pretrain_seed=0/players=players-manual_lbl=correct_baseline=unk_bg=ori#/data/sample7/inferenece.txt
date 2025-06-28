@@ -1,0 +1,32 @@
+Execution time: 2025-03-07 11:30:29
+prompt: <s> This is the definitive movie version of Hamlet. Branagh cuts nothing, but there are no wasted moments. </s>
+---------- tokenizer ----------
+idx:0 input_id:0 decoded_text: <s>
+idx:1 input_id:126 decoded_text: This
+idx:2 input_id:17 decoded_text: is
+idx:3 input_id:6 decoded_text: the
+idx:4 input_id:39349 decoded_text: definitive
+idx:5 input_id:566 decoded_text: movie
+idx:6 input_id:1491 decoded_text: version
+idx:7 input_id:15 decoded_text: of
+idx:8 input_id:6393 decoded_text: Ham@@
+idx:9 input_id:16829 decoded_text: let@@
+idx:10 input_id:4 decoded_text: .
+idx:11 input_id:27873 decoded_text: Bran@@
+idx:12 input_id:24416 decoded_text: agh
+idx:13 input_id:4791 decoded_text: cuts
+idx:14 input_id:40159 decoded_text: nothing@@
+idx:15 input_id:7 decoded_text: ,
+idx:16 input_id:42 decoded_text: but
+idx:17 input_id:99 decoded_text: there
+idx:18 input_id:41 decoded_text: are
+idx:19 input_id:80 decoded_text: no
+idx:20 input_id:5590 decoded_text: wasted
+idx:21 input_id:28513 decoded_text: moment@@
+idx:22 input_id:32188 decoded_text: s.
+idx:23 input_id:2 decoded_text: </s>
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.1502902507781982, 0.031100761145353317, 3.346186876296997]]
+decoded_pred_text (only for generation task): </s>
+==================================================

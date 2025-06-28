@@ -1,0 +1,1 @@
+custom-squad-v1有问题，predicted word前面一个单词有可能包含了标点，写代码的时候漏了检查这个位置的单词，而是从predicted word前面的第2个单词开始检查的

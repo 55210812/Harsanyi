@@ -1,0 +1,43 @@
+Store player_words and player_ids as json files.
+Use the sample index in the dataset as key for player_words.json and player_ids.json.
+
+Example for player_words.json:
+```
+{
+    "0": [
+        "player1",
+        "player2",
+        "player3"
+    ],
+    "1": [
+        "player4",
+        "player5",
+        "player6"
+    ],
+    "2": [
+        "player7",
+        "player8",
+        "player9"
+    ]
+}
+```
+
+Example for player_ids.json:
+```
+{
+    "0": [
+        [1,2],
+        [3,4,5],
+        [8,9]
+    ],
+    "1": [
+        [1],
+        [3],
+        [7,8]
+    ],
+    "2": [
+        [2],
+        [3,4],
+        [6]
+    ]
+}
