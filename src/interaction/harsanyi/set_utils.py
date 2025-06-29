@@ -18,27 +18,21 @@ def generate_all_masks(length: int, sort_type: str, k: int = None) -> list:
     :param k: int, optional, maximum order to generate (None means all orders)
     :return masks: list of bools, the list of all possible masks
     """
-    max_order = length if k is None else min(k, length)
+    #k = length
+    k = 2
     masks = []
     if sort_type == "order":
-        #all_S = []    
-        for j in range(1,max_order+1):
-            for subset in combinations(range(length),j):
+        for k in range(k + 1):
+            for subset in combinations(range(length), k): # 生成长度为 length 的索引范围中，大小为 k 的所有可能组合
                 mask = [False] * length
                 for i in subset:
                     mask[i] = True
                 masks.append(mask)
-        # for order in range(max_order+1): # 0 to max_order
-        #     all_S_of_order = list(combinations(np.arange(length), order))
-        #     all_S.extend(all_S_of_order)
-        # masks = np.zeros((2**length, length))
-        # for i, S in enumerate(all_S):
-        #     masks[i, S] = 1
-        # masks = [[bool(int(item)) for item in mask] for mask in masks] # list of bools
     elif sort_type == "binary":
-        masks = list(range(2**length))
-        masks = [np.binary_repr(mask, width=length) for mask in masks]
-        masks = [[bool(int(item)) for item in mask] for mask in masks]
+        for mask_int in range(1, 2 ** length):
+            if bin(mask_int).count('1') > k:
+                continue  # 跳过过大的子集
+            masks.append([bool(int(bit)) for bit in f"{mask_int:0{length}b}"]) #遍历该字符串中的每个字符 bit，将其转换为布尔值（'1' 对应 True，'0' 对应 False）
     else:
         raise NotImplementedError(f"sort_type [{sort_type}] is not implemented.")
     return masks

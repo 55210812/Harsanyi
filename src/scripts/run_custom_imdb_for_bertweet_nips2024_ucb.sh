@@ -25,7 +25,7 @@
 # selected_dim=gt or gt-log-odds 都可以试一下 —— 其实做下来差别不大（至少对于sentiment analysis这种输出类别少的任务而言）
 # background_type=ori 比较合适，选mask这个句子会不太完整, 而且会把第一个[cls] token也mask掉
 
-python src/demo/run_interaction_nlp.py --save_root="results/20250625_re_optimization_0.025" \
+python src/demo/run_interaction_nlp.py --save_root="results/20250625_harsanyi_optimization_0.025" \
   --gpu_id=1 \
   --model="BERTweet#pretrain" \
   --dataset="custom-imdb-for-bertweet-nips2024-ucb" \
@@ -36,7 +36,7 @@ python src/demo/run_interaction_nlp.py --save_root="results/20250625_re_optimiza
   --baseline_type="unk" \
   --background_type="ori" \
   --cal_batch_size=40960 \
-  --interaction_type="re" \
+  --interaction_type="harsanyi" \
   --verbose=1 &  
   #--loss="huber" \
   #--delta=1e-2 \
