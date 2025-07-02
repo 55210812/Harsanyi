@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: ross,
+Player 1: first
+Player 2: season
+Player 3: west
+Player 4: point,
+Player 5: stated
+Player 6: matter - of - factly
+Player 7: navy
+Player 8: surpassed
+Player 9: army
+Player 10: football
+Player 11: field
+Player 12: program
+Player 13: lot
+Player 14: catching
+Player 15: do.
+---------- Rewards ----------
+v(): -3.735776901245117	 ([])
+v(7 8 9 10 11 13 14 15): -6.182112216949463	 ([navy][surpassed][army][football][field][lot][catching][do.])
+v(1 2 3 4 12): -3.0831785202026367	 ([first][season][west][point,][program])
+v(0 5 6): 1.1984007358551025	 ([ross,][stated][matter - of - factly])
+v(1 2 3 4 7 8 9 10 11 12 13 14 15): 9.256221771240234	 ([first][season][west][point,][navy][surpassed][army][football][field][program][lot][catching][do.])
+v(0 5 6 7 8 9 10 11 13 14 15): 3.838346481323242	 ([ross,][stated][matter - of - factly][navy][surpassed][army][football][field][lot][catching][do.])
+v(0 1 2 3 4 5 6 12): 7.686305999755859	 ([ross,][first][season][west][point,][stated][matter - of - factly][program])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 8.175785064697266	 ([ross,][first][season][west][point,][stated][matter - of - factly][navy][surpassed][army][football][field][program][lot][catching][do.])
+---------- Rewards-v() ----------
+v(1 2 3 4 7 8 9 10 11 12 13 14 15): 12.991998672485352, EP: 1.0907049179077148	 ([first][season][west][point,][navy][surpassed][army][football][field][program][lot][catching][do.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 11.911561965942383, EP: 1.0	 ([ross,][first][season][west][point,][stated][matter - of - factly][navy][surpassed][army][football][field][program][lot][catching][do.])
+v(0 1 2 3 4 5 6 12): 11.422082901000977, EP: 0.9589072465896606	 ([ross,][first][season][west][point,][stated][matter - of - factly][program])
+v(0 5 6 7 8 9 10 11 13 14 15): 7.574123382568359, EP: 0.635863184928894	 ([ross,][stated][matter - of - factly][navy][surpassed][army][football][field][lot][catching][do.])
+v(0 5 6): 4.934177398681641, EP: 0.4142342805862427	 ([ross,][stated][matter - of - factly])
+v(7 8 9 10 11 13 14 15): -2.4463353157043457, EP: -0.2053748518228531	 ([navy][surpassed][army][football][field][lot][catching][do.])
+v(1 2 3 4 12): 0.6525983810424805, EP: 0.05478696897625923	 ([first][season][west][point,][program])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

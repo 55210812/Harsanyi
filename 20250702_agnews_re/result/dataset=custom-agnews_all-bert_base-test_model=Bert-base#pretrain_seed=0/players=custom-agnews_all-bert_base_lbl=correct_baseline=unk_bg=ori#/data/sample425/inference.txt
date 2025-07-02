@@ -1,0 +1,49 @@
+Execution time: 2025-07-02 19:27:45
+prompt: [CLS] stocks rose as an \ $ 11 billion offer by kmart for sears, roebuck lifted retailers and better - than - expected earnings from hewlett - packard ignited a rally in technology shares. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:15768 decoded_text: stocks
+idx:2 input_id:3123 decoded_text: rose
+idx:3 input_id:2004 decoded_text: as
+idx:4 input_id:2019 decoded_text: an
+idx:5 input_id:1032 decoded_text: \
+idx:6 input_id:1002 decoded_text: $
+idx:7 input_id:2340 decoded_text: 11
+idx:8 input_id:4551 decoded_text: billion
+idx:9 input_id:3749 decoded_text: offer
+idx:10 input_id:2011 decoded_text: by
+idx:11 input_id:2463 decoded_text: km
+idx:12 input_id:8445 decoded_text: ##art
+idx:13 input_id:2005 decoded_text: for
+idx:14 input_id:18493 decoded_text: sears
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:20944 decoded_text: roe
+idx:17 input_id:24204 decoded_text: ##buck
+idx:18 input_id:4196 decoded_text: lifted
+idx:19 input_id:16629 decoded_text: retailers
+idx:20 input_id:1998 decoded_text: and
+idx:21 input_id:2488 decoded_text: better
+idx:22 input_id:1011 decoded_text: -
+idx:23 input_id:2084 decoded_text: than
+idx:24 input_id:1011 decoded_text: -
+idx:25 input_id:3517 decoded_text: expected
+idx:26 input_id:16565 decoded_text: earnings
+idx:27 input_id:2013 decoded_text: from
+idx:28 input_id:2002 decoded_text: he
+idx:29 input_id:13668 decoded_text: ##wl
+idx:30 input_id:6582 decoded_text: ##ett
+idx:31 input_id:1011 decoded_text: -
+idx:32 input_id:24100 decoded_text: packard
+idx:33 input_id:22395 decoded_text: ignited
+idx:34 input_id:1037 decoded_text: a
+idx:35 input_id:8320 decoded_text: rally
+idx:36 input_id:1999 decoded_text: in
+idx:37 input_id:2974 decoded_text: technology
+idx:38 input_id:6661 decoded_text: shares
+idx:39 input_id:1012 decoded_text: .
+idx:40 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.9103578329086304, -3.341731309890747, 5.687469005584717, -2.4672598838806152]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: ichiro
+Player 1: suzuki
+Player 2: fast
+Player 3: might
+Player 4: wonder
+Player 5: # 39 ; t
+Player 6: bunt
+Player 7: often.
+Player 8: handful
+Player 9: 250 - plus
+Player 10: hits
+Player 11: bunts
+Player 12: manager
+Player 13: bob
+Player 14: melvin
+Player 15: explained
+Player 16: opposing
+---------- Rewards ----------
+v(): -0.7326861619949341	 ([])
+v(3 8 9 11 12 16): 7.604568958282471	 ([might][handful][250 - plus][bunts][manager][opposing])
+v(0 1 10 13 14 15): 6.017855644226074	 ([ichiro][suzuki][hits][bob][melvin][explained])
+v(2 4 5 6 7): 2.8270599842071533	 ([fast][wonder][# 39 ; t][bunt][often.])
+v(0 1 3 8 9 10 11 12 13 14 15 16): 9.572187423706055	 ([ichiro][suzuki][might][handful][250 - plus][hits][bunts][manager][bob][melvin][explained][opposing])
+v(2 3 4 5 6 7 8 9 11 12 16): 8.953402519226074	 ([fast][might][wonder][# 39 ; t][bunt][often.][handful][250 - plus][bunts][manager][opposing])
+v(0 1 2 4 5 6 7 10 13 14 15): 9.192344665527344	 ([ichiro][suzuki][fast][wonder][# 39 ; t][bunt][often.][hits][bob][melvin][explained])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.756333351135254	 ([ichiro][suzuki][fast][might][wonder][# 39 ; t][bunt][often.][handful][250 - plus][hits][bunts][manager][bob][melvin][explained][opposing])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 10.489019393920898, EP: 1.0	 ([ichiro][suzuki][fast][might][wonder][# 39 ; t][bunt][often.][handful][250 - plus][hits][bunts][manager][bob][melvin][explained][opposing])
+v(0 1 3 8 9 10 11 12 13 14 15 16): 10.3048734664917, EP: 0.9824439287185669	 ([ichiro][suzuki][might][handful][250 - plus][hits][bunts][manager][bob][melvin][explained][opposing])
+v(0 1 2 4 5 6 7 10 13 14 15): 9.925030708312988, EP: 0.9462305903434753	 ([ichiro][suzuki][fast][wonder][# 39 ; t][bunt][often.][hits][bob][melvin][explained])
+v(2 3 4 5 6 7 8 9 11 12 16): 9.686088562011719, EP: 0.9234503507614136	 ([fast][might][wonder][# 39 ; t][bunt][often.][handful][250 - plus][bunts][manager][opposing])
+v(3 8 9 11 12 16): 8.337255477905273, EP: 0.7948555946350098	 ([might][handful][250 - plus][bunts][manager][opposing])
+v(0 1 10 13 14 15): 6.750541687011719, EP: 0.643581748008728	 ([ichiro][suzuki][hits][bob][melvin][explained])
+v(2 4 5 6 7): 3.559746265411377, EP: 0.33937835693359375	 ([fast][wonder][# 39 ; t][bunt][often.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

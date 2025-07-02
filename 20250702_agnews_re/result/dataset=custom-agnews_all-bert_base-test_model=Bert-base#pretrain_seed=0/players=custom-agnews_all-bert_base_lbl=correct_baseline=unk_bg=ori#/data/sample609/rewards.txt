@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: gathered
+Player 1: pink
+Player 2: walls
+Player 3: royal
+Player 4: oak
+Player 5: inn,
+Player 6: marched
+Player 7: gentle
+Player 8: vale
+Player 9: claim
+Player 10: slice
+Player 11: new
+Player 12: freedom.
+---------- Rewards ----------
+v(): -4.457797050476074	 ([])
+v(0 2 6 10 11 12): 6.824224472045898	 ([gathered][walls][marched][slice][new][freedom.])
+v(3 4): -6.461464881896973	 ([royal][oak])
+v(1 5 7 8 9): -0.14519917964935303	 ([pink][inn,][gentle][vale][claim])
+v(0 2 3 4 6 10 11 12): 6.874968528747559	 ([gathered][walls][royal][oak][marched][slice][new][freedom.])
+v(0 1 2 5 6 7 8 9 10 11 12): 7.137946128845215	 ([gathered][pink][walls][inn,][marched][gentle][vale][claim][slice][new][freedom.])
+v(1 3 4 5 7 8 9): -0.01069486141204834	 ([pink][royal][oak][inn,][gentle][vale][claim])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 6.485839366912842	 ([gathered][pink][walls][royal][oak][inn,][marched][gentle][vale][claim][slice][new][freedom.])
+---------- Rewards-v() ----------
+v(0 1 2 5 6 7 8 9 10 11 12): 11.595743179321289, EP: 1.059587836265564	 ([gathered][pink][walls][inn,][marched][gentle][vale][claim][slice][new][freedom.])
+v(0 2 3 4 6 10 11 12): 11.332765579223633, EP: 1.0355576276779175	 ([gathered][walls][royal][oak][marched][slice][new][freedom.])
+v(0 2 6 10 11 12): 11.282021522521973, EP: 1.0309207439422607	 ([gathered][walls][marched][slice][new][freedom.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 10.943635940551758, EP: 1.0	 ([gathered][pink][walls][royal][oak][inn,][marched][gentle][vale][claim][slice][new][freedom.])
+v(1 3 4 5 7 8 9): 4.447102069854736, EP: 0.40636423230171204	 ([pink][royal][oak][inn,][gentle][vale][claim])
+v(1 5 7 8 9): 4.312597751617432, EP: 0.39407357573509216	 ([pink][inn,][gentle][vale][claim])
+v(3 4): -2.0036678314208984, EP: -0.18308977782726288	 ([royal][oak])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

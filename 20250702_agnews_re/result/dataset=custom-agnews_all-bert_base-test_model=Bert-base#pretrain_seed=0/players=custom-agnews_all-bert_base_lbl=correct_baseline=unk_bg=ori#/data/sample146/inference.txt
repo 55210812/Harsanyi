@@ -1,0 +1,54 @@
+Execution time: 2025-07-02 19:21:01
+prompt: [CLS] a group of suspected militants armed with m - 16 assault rifles attacked an army unit protecting buddhist monks at a temple in thailand # 39 ; s southernmost province of narathiwat early friday, killing one soldier, police said. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:2177 decoded_text: group
+idx:3 input_id:1997 decoded_text: of
+idx:4 input_id:6878 decoded_text: suspected
+idx:5 input_id:17671 decoded_text: militants
+idx:6 input_id:4273 decoded_text: armed
+idx:7 input_id:2007 decoded_text: with
+idx:8 input_id:1049 decoded_text: m
+idx:9 input_id:1011 decoded_text: -
+idx:10 input_id:2385 decoded_text: 16
+idx:11 input_id:6101 decoded_text: assault
+idx:12 input_id:9494 decoded_text: rifles
+idx:13 input_id:4457 decoded_text: attacked
+idx:14 input_id:2019 decoded_text: an
+idx:15 input_id:2390 decoded_text: army
+idx:16 input_id:3131 decoded_text: unit
+idx:17 input_id:8650 decoded_text: protecting
+idx:18 input_id:7992 decoded_text: buddhist
+idx:19 input_id:9978 decoded_text: monks
+idx:20 input_id:2012 decoded_text: at
+idx:21 input_id:1037 decoded_text: a
+idx:22 input_id:3379 decoded_text: temple
+idx:23 input_id:1999 decoded_text: in
+idx:24 input_id:6504 decoded_text: thailand
+idx:25 input_id:1001 decoded_text: #
+idx:26 input_id:4464 decoded_text: 39
+idx:27 input_id:1025 decoded_text: ;
+idx:28 input_id:1055 decoded_text: s
+idx:29 input_id:21787 decoded_text: southernmost
+idx:30 input_id:2874 decoded_text: province
+idx:31 input_id:1997 decoded_text: of
+idx:32 input_id:27544 decoded_text: nara
+idx:33 input_id:15222 decoded_text: ##thi
+idx:34 input_id:24281 decoded_text: ##wat
+idx:35 input_id:2220 decoded_text: early
+idx:36 input_id:5958 decoded_text: friday
+idx:37 input_id:1010 decoded_text: ,
+idx:38 input_id:4288 decoded_text: killing
+idx:39 input_id:2028 decoded_text: one
+idx:40 input_id:5268 decoded_text: soldier
+idx:41 input_id:1010 decoded_text: ,
+idx:42 input_id:2610 decoded_text: police
+idx:43 input_id:2056 decoded_text: said
+idx:44 input_id:1012 decoded_text: .
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.700050354003906, -1.497084379196167, -3.1227753162384033, -1.7973343133926392]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

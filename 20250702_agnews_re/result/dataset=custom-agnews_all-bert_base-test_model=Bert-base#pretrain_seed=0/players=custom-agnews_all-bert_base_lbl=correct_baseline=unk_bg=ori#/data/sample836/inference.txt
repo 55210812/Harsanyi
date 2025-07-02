@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 19:38:02
+prompt: [CLS] the european commission approved a joint venture that would group two hollywood movie studios with a video - on - demand company to compete with rupert murdoch's bskyb company. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2647 decoded_text: european
+idx:3 input_id:3222 decoded_text: commission
+idx:4 input_id:4844 decoded_text: approved
+idx:5 input_id:1037 decoded_text: a
+idx:6 input_id:4101 decoded_text: joint
+idx:7 input_id:6957 decoded_text: venture
+idx:8 input_id:2008 decoded_text: that
+idx:9 input_id:2052 decoded_text: would
+idx:10 input_id:2177 decoded_text: group
+idx:11 input_id:2048 decoded_text: two
+idx:12 input_id:5365 decoded_text: hollywood
+idx:13 input_id:3185 decoded_text: movie
+idx:14 input_id:4835 decoded_text: studios
+idx:15 input_id:2007 decoded_text: with
+idx:16 input_id:1037 decoded_text: a
+idx:17 input_id:2678 decoded_text: video
+idx:18 input_id:1011 decoded_text: -
+idx:19 input_id:2006 decoded_text: on
+idx:20 input_id:1011 decoded_text: -
+idx:21 input_id:5157 decoded_text: demand
+idx:22 input_id:2194 decoded_text: company
+idx:23 input_id:2000 decoded_text: to
+idx:24 input_id:5566 decoded_text: compete
+idx:25 input_id:2007 decoded_text: with
+idx:26 input_id:14641 decoded_text: rupert
+idx:27 input_id:19954 decoded_text: murdoch
+idx:28 input_id:1005 decoded_text: '
+idx:29 input_id:1055 decoded_text: s
+idx:30 input_id:18667 decoded_text: bs
+idx:31 input_id:4801 decoded_text: ##ky
+idx:32 input_id:2497 decoded_text: ##b
+idx:33 input_id:2194 decoded_text: company
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[0.5396310687065125, -4.775746822357178, 2.7074453830718994, 0.31241703033447266]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: ( sports
+Player 1: network )
+Player 2: -
+Player 3: ryan
+Player 4: drese
+Player 5: attempts
+Player 6: win
+Player 7: no.
+Player 8: 15
+Player 9: afternoon
+Player 10: texas
+Player 11: rangers
+Player 12: conclude
+Player 13: three - game
+Player 14: set
+Player 15: seattle
+Player 16: mariners
+Player 17: ameriquest
+Player 18: field.
+---------- Rewards ----------
+v(): -4.43845796585083	 ([])
+v(0 10 11 12 13 15 18): 9.613038063049316	 ([( sports][texas][rangers][conclude][three - game][seattle][field.])
+v(1 2 3 6 8 9 14 17): -6.094873905181885	 ([network )][-][ryan][win][15][afternoon][set][ameriquest])
+v(4 5 7 16): 0.21120238304138184	 ([drese][attempts][no.][mariners])
+v(0 1 2 3 6 8 9 10 11 12 13 14 15 17 18): 9.644514083862305	 ([( sports][network )][-][ryan][win][15][afternoon][texas][rangers][conclude][three - game][set][seattle][ameriquest][field.])
+v(0 4 5 7 10 11 12 13 15 16 18): 9.702872276306152	 ([( sports][drese][attempts][no.][texas][rangers][conclude][three - game][seattle][mariners][field.])
+v(1 2 3 4 5 6 7 8 9 14 16 17): 9.293522834777832	 ([network )][-][ryan][drese][attempts][win][no.][15][afternoon][set][mariners][ameriquest])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.66867446899414	 ([( sports][network )][-][ryan][drese][attempts][win][no.][15][afternoon][texas][rangers][conclude][three - game][set][seattle][mariners][ameriquest][field.])
+---------- Rewards-v() ----------
+v(0 4 5 7 10 11 12 13 15 16 18): 14.14133071899414, EP: 1.0024242401123047	 ([( sports][drese][attempts][no.][texas][rangers][conclude][three - game][seattle][mariners][field.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.107131958007812, EP: 1.0	 ([( sports][network )][-][ryan][drese][attempts][win][no.][15][afternoon][texas][rangers][conclude][three - game][set][seattle][mariners][ameriquest][field.])
+v(0 1 2 3 6 8 9 10 11 12 13 14 15 17 18): 14.082971572875977, EP: 0.9982873797416687	 ([( sports][network )][-][ryan][win][15][afternoon][texas][rangers][conclude][three - game][set][seattle][ameriquest][field.])
+v(0 10 11 12 13 15 18): 14.051496505737305, EP: 0.9960561990737915	 ([( sports][texas][rangers][conclude][three - game][seattle][field.])
+v(1 2 3 4 5 6 7 8 9 14 16 17): 13.73198127746582, EP: 0.9734070301055908	 ([network )][-][ryan][drese][attempts][win][no.][15][afternoon][set][mariners][ameriquest])
+v(4 5 7 16): 4.649660110473633, EP: 0.3295964002609253	 ([drese][attempts][no.][mariners])
+v(1 2 3 6 8 9 14 17): -1.6564159393310547, EP: -0.11741691827774048	 ([network )][-][ryan][win][15][afternoon][set][ameriquest])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

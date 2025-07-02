@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: milan
+Player 1: ( reuters )
+Player 2: -
+Player 3: citigroup
+Player 4: launched
+Player 5: legal
+Player 6: challenge
+Player 7: parmalat's
+Player 8: restructuring
+Player 9: plan
+Player 10: friday,
+Player 11: hitting
+Player 12: back
+Player 13: insolvent
+Player 14: food
+Player 15: group
+Player 16: rejected
+Player 17: claims
+Player 18: credit
+Player 19: repayment
+Player 20: sued
+Player 21: bank
+Player 22: damages.
+---------- Rewards ----------
+v(): -2.7355709075927734	 ([])
+v(0 4 5 6 9 10 11 12 13 14 15 16 17 20 22): 5.019211769104004	 ([milan][launched][legal][challenge][plan][friday,][hitting][back][insolvent][food][group][rejected][claims][sued][damages.])
+v(1 2 3 7 8 18 19 21): 8.515131950378418	 ([( reuters )][-][citigroup][parmalat's][restructuring][credit][repayment][bank])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.415218353271484	 ([milan][( reuters )][-][citigroup][launched][legal][challenge][parmalat's][restructuring][plan][friday,][hitting][back][insolvent][food][group][rejected][claims][credit][repayment][sued][bank][damages.])
+---------- Rewards-v() ----------
+v(1 2 3 7 8 18 19 21): 11.250702857971191, EP: 1.008960247039795	 ([( reuters )][-][citigroup][parmalat's][restructuring][credit][repayment][bank])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 11.150789260864258, EP: 1.0	 ([milan][( reuters )][-][citigroup][launched][legal][challenge][parmalat's][restructuring][plan][friday,][hitting][back][insolvent][food][group][rejected][claims][credit][repayment][sued][bank][damages.])
+v(0 4 5 6 9 10 11 12 13 14 15 16 17 20 22): 7.754782676696777, EP: 0.6954469680786133	 ([milan][launched][legal][challenge][plan][friday,][hitting][back][insolvent][food][group][rejected][claims][sued][damages.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

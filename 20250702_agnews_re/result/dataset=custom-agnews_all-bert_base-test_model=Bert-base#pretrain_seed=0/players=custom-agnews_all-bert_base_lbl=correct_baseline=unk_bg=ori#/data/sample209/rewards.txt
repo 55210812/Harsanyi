@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: boston
+Player 1: ( cbs. mw )
+Player 2: - -
+Player 3: threat
+Player 4: generic
+Player 5: competition
+Player 6: looming
+Player 7: pharmaceutical
+Player 8: industry,
+Player 9: pfizer
+Player 10: inc.
+Player 11: declared
+Player 12: tuesday
+Player 13: strength
+Player 14: breadth
+Player 15: drugs
+Player 16: development
+Player 17: give
+Player 18: company
+Player 19: edge
+Player 20: rivals.
+---------- Rewards ----------
+v(): -4.091711044311523	 ([])
+v(1 7 8 15 16 18 19): 8.04681396484375	 ([( cbs. mw )][pharmaceutical][industry,][drugs][development][company][edge])
+v(0 2 4 5 6 12 14 20): -0.5389904975891113	 ([boston][- -][generic][competition][looming][tuesday][breadth][rivals.])
+v(3 9 10 11 13 17): 5.543210506439209	 ([threat][pfizer][inc.][declared][strength][give])
+v(0 1 2 4 5 6 7 8 12 14 15 16 18 19 20): 8.349058151245117	 ([boston][( cbs. mw )][- -][generic][competition][looming][pharmaceutical][industry,][tuesday][breadth][drugs][development][company][edge][rivals.])
+v(1 3 7 8 9 10 11 13 15 16 17 18 19): 7.81517219543457	 ([( cbs. mw )][threat][pharmaceutical][industry,][pfizer][inc.][declared][strength][drugs][development][give][company][edge])
+v(0 2 3 4 5 6 9 10 11 12 13 14 17 20): 7.428112983703613	 ([boston][- -][threat][generic][competition][looming][pfizer][inc.][declared][tuesday][strength][breadth][give][rivals.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.974920272827148	 ([boston][( cbs. mw )][- -][threat][generic][competition][looming][pharmaceutical][industry,][pfizer][inc.][declared][tuesday][strength][breadth][drugs][development][give][company][edge][rivals.])
+---------- Rewards-v() ----------
+v(0 1 2 4 5 6 7 8 12 14 15 16 18 19 20): 12.44076919555664, EP: 1.0310059785842896	 ([boston][( cbs. mw )][- -][generic][competition][looming][pharmaceutical][industry,][tuesday][breadth][drugs][development][company][edge][rivals.])
+v(1 7 8 15 16 18 19): 12.138525009155273, EP: 1.005958080291748	 ([( cbs. mw )][pharmaceutical][industry,][drugs][development][company][edge])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 12.066631317138672, EP: 1.0	 ([boston][( cbs. mw )][- -][threat][generic][competition][looming][pharmaceutical][industry,][pfizer][inc.][declared][tuesday][strength][breadth][drugs][development][give][company][edge][rivals.])
+v(1 3 7 8 9 10 11 13 15 16 17 18 19): 11.906883239746094, EP: 0.9867611527442932	 ([( cbs. mw )][threat][pharmaceutical][industry,][pfizer][inc.][declared][strength][drugs][development][give][company][edge])
+v(0 2 3 4 5 6 9 10 11 12 13 14 17 20): 11.519824028015137, EP: 0.954684317111969	 ([boston][- -][threat][generic][competition][looming][pfizer][inc.][declared][tuesday][strength][breadth][give][rivals.])
+v(3 9 10 11 13 17): 9.63492202758789, EP: 0.79847651720047	 ([threat][pfizer][inc.][declared][strength][give])
+v(0 2 4 5 6 12 14 20): 3.552720546722412, EP: 0.29442521929740906	 ([boston][- -][generic][competition][looming][tuesday][breadth][rivals.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

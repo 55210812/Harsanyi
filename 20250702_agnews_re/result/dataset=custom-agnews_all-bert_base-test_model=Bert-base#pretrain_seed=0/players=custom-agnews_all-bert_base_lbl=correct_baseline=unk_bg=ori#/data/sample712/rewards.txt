@@ -1,0 +1,28 @@
+---------- Players ----------
+Player 0: hyatt
+Player 1: corp.
+Player 2: agreed
+Player 3: buy
+Player 4: amerisuites
+Player 5: hotel
+Player 6: chain
+Player 7: affiliates
+Player 8: private
+Player 9: equity
+Player 10: firm
+Player 11: blackstone
+Player 12: group,
+Player 13: hyatt
+Player 14: said
+Player 15: thursday.
+---------- Rewards ----------
+v(): -4.8857316970825195	 ([])
+v(0 2 3 5 9 13): 7.574645519256592	 ([hyatt][agreed][buy][hotel][equity][hyatt])
+v(1 4 6 7 8 10 11 12 14 15): 7.548499584197998	 ([corp.][amerisuites][chain][affiliates][private][firm][blackstone][group,][said][thursday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 8.130287170410156	 ([hyatt][corp.][agreed][buy][amerisuites][hotel][chain][affiliates][private][equity][firm][blackstone][group,][hyatt][said][thursday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 13.016018867492676, EP: 1.0	 ([hyatt][corp.][agreed][buy][amerisuites][hotel][chain][affiliates][private][equity][firm][blackstone][group,][hyatt][said][thursday.])
+v(0 2 3 5 9 13): 12.460376739501953, EP: 0.9573109149932861	 ([hyatt][agreed][buy][hotel][equity][hyatt])
+v(1 4 6 7 8 10 11 12 14 15): 12.43423080444336, EP: 0.9553021788597107	 ([corp.][amerisuites][chain][affiliates][private][firm][blackstone][group,][said][thursday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

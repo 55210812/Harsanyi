@@ -1,0 +1,60 @@
+---------- Players ----------
+Player 0: world
+Player 1: number
+Player 2: one
+Player 3: roger
+Player 4: federer
+Player 5: struggled
+Player 6: unexpectedly
+Player 7: tough
+Player 8: opening
+Player 9: win
+Player 10: tuesday
+Player 11: night
+Player 12: outsider
+Player 13: nicolas
+Player 14: thomann,
+Player 15: finally
+Player 16: grabbing
+Player 17: 6 - 4,
+Player 18: 7 - 6
+Player 19: ( 7 - 4 )
+Player 20: victory
+Player 21: \ $ 550, 000
+Player 22: thailand
+Player 23: open.
+---------- Rewards ----------
+v(): -4.1693196296691895	 ([])
+v(0 7 9 10 11 16 20): 0.33322882652282715	 ([world][tough][win][tuesday][night][grabbing][victory])
+v(1 2 3 4 5): 8.803047180175781	 ([number][one][roger][federer][struggled])
+v(8 12 13 14 17 18 19): 0.8287920355796814	 ([opening][outsider][nicolas][thomann,][6 - 4,][7 - 6][( 7 - 4 )])
+v(6 15 21 22 23): 6.994124889373779	 ([unexpectedly][finally][\ $ 550, 000][thailand][open.])
+v(0 1 2 3 4 5 7 9 10 11 16 20): 8.507704734802246	 ([world][number][one][roger][federer][struggled][tough][win][tuesday][night][grabbing][victory])
+v(0 7 8 9 10 11 12 13 14 16 17 18 19 20): 7.07609224319458	 ([world][tough][opening][win][tuesday][night][outsider][nicolas][thomann,][grabbing][6 - 4,][7 - 6][( 7 - 4 )][victory])
+v(0 6 7 9 10 11 15 16 20 21 22 23): 9.299710273742676	 ([world][unexpectedly][tough][win][tuesday][night][finally][grabbing][victory][\ $ 550, 000][thailand][open.])
+v(1 2 3 4 5 8 12 13 14 17 18 19): 7.30059289932251	 ([number][one][roger][federer][struggled][opening][outsider][nicolas][thomann,][6 - 4,][7 - 6][( 7 - 4 )])
+v(1 2 3 4 5 6 15 21 22 23): 9.496525764465332	 ([number][one][roger][federer][struggled][unexpectedly][finally][\ $ 550, 000][thailand][open.])
+v(6 8 12 13 14 15 17 18 19 21 22 23): 9.265278816223145	 ([unexpectedly][opening][outsider][nicolas][thomann,][finally][6 - 4,][7 - 6][( 7 - 4 )][\ $ 550, 000][thailand][open.])
+v(0 1 2 3 4 5 7 8 9 10 11 12 13 14 16 17 18 19 20): 8.892887115478516	 ([world][number][one][roger][federer][struggled][tough][opening][win][tuesday][night][outsider][nicolas][thomann,][grabbing][6 - 4,][7 - 6][( 7 - 4 )][victory])
+v(0 1 2 3 4 5 6 7 9 10 11 15 16 20 21 22 23): 9.542487144470215	 ([world][number][one][roger][federer][struggled][unexpectedly][tough][win][tuesday][night][finally][grabbing][victory][\ $ 550, 000][thailand][open.])
+v(0 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 9.63364028930664	 ([world][unexpectedly][tough][opening][win][tuesday][night][outsider][nicolas][thomann,][finally][grabbing][6 - 4,][7 - 6][( 7 - 4 )][victory][\ $ 550, 000][thailand][open.])
+v(1 2 3 4 5 6 8 12 13 14 15 17 18 19 21 22 23): 9.485225677490234	 ([number][one][roger][federer][struggled][unexpectedly][opening][outsider][nicolas][thomann,][finally][6 - 4,][7 - 6][( 7 - 4 )][\ $ 550, 000][thailand][open.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 9.239714622497559	 ([world][number][one][roger][federer][struggled][unexpectedly][tough][opening][win][tuesday][night][outsider][nicolas][thomann,][finally][grabbing][6 - 4,][7 - 6][( 7 - 4 )][victory][\ $ 550, 000][thailand][open.])
+---------- Rewards-v() ----------
+v(0 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 13.802959442138672, EP: 1.0293775796890259	 ([world][unexpectedly][tough][opening][win][tuesday][night][outsider][nicolas][thomann,][finally][grabbing][6 - 4,][7 - 6][( 7 - 4 )][victory][\ $ 550, 000][thailand][open.])
+v(0 1 2 3 4 5 6 7 9 10 11 15 16 20 21 22 23): 13.711807250976562, EP: 1.0225797891616821	 ([world][number][one][roger][federer][struggled][unexpectedly][tough][win][tuesday][night][finally][grabbing][victory][\ $ 550, 000][thailand][open.])
+v(1 2 3 4 5 6 15 21 22 23): 13.66584587097168, EP: 1.019152045249939	 ([number][one][roger][federer][struggled][unexpectedly][finally][\ $ 550, 000][thailand][open.])
+v(1 2 3 4 5 6 8 12 13 14 15 17 18 19 21 22 23): 13.654544830322266, EP: 1.0183093547821045	 ([number][one][roger][federer][struggled][unexpectedly][opening][outsider][nicolas][thomann,][finally][6 - 4,][7 - 6][( 7 - 4 )][\ $ 550, 000][thailand][open.])
+v(0 6 7 9 10 11 15 16 20 21 22 23): 13.469030380249023, EP: 1.0044742822647095	 ([world][unexpectedly][tough][win][tuesday][night][finally][grabbing][victory][\ $ 550, 000][thailand][open.])
+v(6 8 12 13 14 15 17 18 19 21 22 23): 13.434598922729492, EP: 1.0019065141677856	 ([unexpectedly][opening][outsider][nicolas][thomann,][finally][6 - 4,][7 - 6][( 7 - 4 )][\ $ 550, 000][thailand][open.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 13.409034729003906, EP: 1.0	 ([world][number][one][roger][federer][struggled][unexpectedly][tough][opening][win][tuesday][night][outsider][nicolas][thomann,][finally][grabbing][6 - 4,][7 - 6][( 7 - 4 )][victory][\ $ 550, 000][thailand][open.])
+v(0 1 2 3 4 5 7 8 9 10 11 12 13 14 16 17 18 19 20): 13.062206268310547, EP: 0.9741347432136536	 ([world][number][one][roger][federer][struggled][tough][opening][win][tuesday][night][outsider][nicolas][thomann,][grabbing][6 - 4,][7 - 6][( 7 - 4 )][victory])
+v(1 2 3 4 5): 12.972366333007812, EP: 0.9674347639083862	 ([number][one][roger][federer][struggled])
+v(0 1 2 3 4 5 7 9 10 11 16 20): 12.677024841308594, EP: 0.9454091787338257	 ([world][number][one][roger][federer][struggled][tough][win][tuesday][night][grabbing][victory])
+v(1 2 3 4 5 8 12 13 14 17 18 19): 11.4699125289917, EP: 0.8553869128227234	 ([number][one][roger][federer][struggled][opening][outsider][nicolas][thomann,][6 - 4,][7 - 6][( 7 - 4 )])
+v(0 7 8 9 10 11 12 13 14 16 17 18 19 20): 11.24541187286377, EP: 0.8386443853378296	 ([world][tough][opening][win][tuesday][night][outsider][nicolas][thomann,][grabbing][6 - 4,][7 - 6][( 7 - 4 )][victory])
+v(6 15 21 22 23): 11.163444519042969, EP: 0.8325315713882446	 ([unexpectedly][finally][\ $ 550, 000][thailand][open.])
+v(8 12 13 14 17 18 19): 4.998111724853516, EP: 0.37274208664894104	 ([opening][outsider][nicolas][thomann,][6 - 4,][7 - 6][( 7 - 4 )])
+v(0 7 9 10 11 16 20): 4.5025482177734375, EP: 0.3357846736907959	 ([world][tough][win][tuesday][night][grabbing][victory])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

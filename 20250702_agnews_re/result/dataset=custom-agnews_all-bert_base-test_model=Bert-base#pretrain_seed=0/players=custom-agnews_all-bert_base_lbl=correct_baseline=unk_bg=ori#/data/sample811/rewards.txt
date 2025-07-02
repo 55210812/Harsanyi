@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: :
+Player 1: sudanese
+Player 2: authorities
+Player 3: accused
+Player 4: opposition
+Player 5: party
+Player 6: saturday
+Player 7: plotting
+Player 8: abduct
+Player 9: kill
+Player 10: three
+Player 11: dozen
+Player 12: senior
+Player 13: government
+Player 14: officials
+Player 15: blow
+Player 16: key
+Player 17: sites
+Player 18: capital,
+Player 19: army
+Player 20: force.
+---------- Rewards ----------
+v(): -2.803659677505493	 ([])
+v(0 1 2 3 9): 7.3567352294921875	 ([:][sudanese][authorities][accused][kill])
+v(8 10 15 16 17 19): 6.671788215637207	 ([abduct][three][blow][key][sites][army])
+v(11 12 13 14 20): 6.7445549964904785	 ([dozen][senior][government][officials][force.])
+v(4 5 6 7 18): 7.404851913452148	 ([opposition][party][saturday][plotting][capital,])
+v(0 1 2 3 8 9 10 15 16 17 19): 7.815528392791748	 ([:][sudanese][authorities][accused][abduct][kill][three][blow][key][sites][army])
+v(0 1 2 3 9 11 12 13 14 20): 7.857757568359375	 ([:][sudanese][authorities][accused][kill][dozen][senior][government][officials][force.])
+v(0 1 2 3 4 5 6 7 9 18): 8.06103801727295	 ([:][sudanese][authorities][accused][opposition][party][saturday][plotting][kill][capital,])
+v(8 10 11 12 13 14 15 16 17 19 20): 7.5516180992126465	 ([abduct][three][dozen][senior][government][officials][blow][key][sites][army][force.])
+v(4 5 6 7 8 10 15 16 17 18 19): 7.7046332359313965	 ([opposition][party][saturday][plotting][abduct][three][blow][key][sites][capital,][army])
+v(4 5 6 7 11 12 13 14 18 20): 7.336117744445801	 ([opposition][party][saturday][plotting][dozen][senior][government][officials][capital,][force.])
+v(0 1 2 3 8 9 10 11 12 13 14 15 16 17 19 20): 7.980476379394531	 ([:][sudanese][authorities][accused][abduct][kill][three][dozen][senior][government][officials][blow][key][sites][army][force.])
+v(0 1 2 3 4 5 6 7 8 9 10 15 16 17 18 19): 8.014408111572266	 ([:][sudanese][authorities][accused][opposition][party][saturday][plotting][abduct][kill][three][blow][key][sites][capital,][army])
+v(0 1 2 3 4 5 6 7 9 11 12 13 14 18 20): 8.111921310424805	 ([:][sudanese][authorities][accused][opposition][party][saturday][plotting][kill][dozen][senior][government][officials][capital,][force.])
+v(4 5 6 7 8 10 11 12 13 14 15 16 17 18 19 20): 7.835455417633057	 ([opposition][party][saturday][plotting][abduct][three][dozen][senior][government][officials][blow][key][sites][capital,][army][force.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.123016357421875	 ([:][sudanese][authorities][accused][opposition][party][saturday][plotting][abduct][kill][three][dozen][senior][government][officials][blow][key][sites][capital,][army][force.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 10.926675796508789, EP: 1.0	 ([:][sudanese][authorities][accused][opposition][party][saturday][plotting][abduct][kill][three][dozen][senior][government][officials][blow][key][sites][capital,][army][force.])
+v(0 1 2 3 4 5 6 7 9 11 12 13 14 18 20): 10.915580749511719, EP: 0.9989845752716064	 ([:][sudanese][authorities][accused][opposition][party][saturday][plotting][kill][dozen][senior][government][officials][capital,][force.])
+v(0 1 2 3 4 5 6 7 9 18): 10.864697456359863, EP: 0.9943277835845947	 ([:][sudanese][authorities][accused][opposition][party][saturday][plotting][kill][capital,])
+v(0 1 2 3 4 5 6 7 8 9 10 15 16 17 18 19): 10.81806755065918, EP: 0.9900602698326111	 ([:][sudanese][authorities][accused][opposition][party][saturday][plotting][abduct][kill][three][blow][key][sites][capital,][army])
+v(0 1 2 3 8 9 10 11 12 13 14 15 16 17 19 20): 10.784135818481445, EP: 0.9869548678398132	 ([:][sudanese][authorities][accused][abduct][kill][three][dozen][senior][government][officials][blow][key][sites][army][force.])
+v(0 1 2 3 9 11 12 13 14 20): 10.661417007446289, EP: 0.9757237434387207	 ([:][sudanese][authorities][accused][kill][dozen][senior][government][officials][force.])
+v(4 5 6 7 8 10 11 12 13 14 15 16 17 18 19 20): 10.639115333557129, EP: 0.973682701587677	 ([opposition][party][saturday][plotting][abduct][three][dozen][senior][government][officials][blow][key][sites][capital,][army][force.])
+v(0 1 2 3 8 9 10 15 16 17 19): 10.61918830871582, EP: 0.9718590378761292	 ([:][sudanese][authorities][accused][abduct][kill][three][blow][key][sites][army])
+v(4 5 6 7 8 10 15 16 17 18 19): 10.508293151855469, EP: 0.9617099761962891	 ([opposition][party][saturday][plotting][abduct][three][blow][key][sites][capital,][army])
+v(8 10 11 12 13 14 15 16 17 19 20): 10.355278015136719, EP: 0.9477061629295349	 ([abduct][three][dozen][senior][government][officials][blow][key][sites][army][force.])
+v(4 5 6 7 18): 10.208511352539062, EP: 0.9342741966247559	 ([opposition][party][saturday][plotting][capital,])
+v(0 1 2 3 9): 10.160394668579102, EP: 0.92987060546875	 ([:][sudanese][authorities][accused][kill])
+v(4 5 6 7 11 12 13 14 18 20): 10.139777183532715, EP: 0.9279837012290955	 ([opposition][party][saturday][plotting][dozen][senior][government][officials][capital,][force.])
+v(11 12 13 14 20): 9.54821491241455, EP: 0.8738444447517395	 ([dozen][senior][government][officials][force.])
+v(8 10 15 16 17 19): 9.475447654724121, EP: 0.8671848177909851	 ([abduct][three][blow][key][sites][army])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: pathmark
+Player 1: stores,
+Player 2: owns
+Player 3: 142
+Player 4: supermarkets
+Player 5: city
+Player 6: throughout
+Player 7: northeast,
+Player 8: hired
+Player 9: dresdner
+Player 10: kleinwort
+Player 11: wasserstein
+Player 12: advise
+Player 13: options,
+Player 14: including
+Player 15: possible
+Player 16: sale
+Player 17: company.
+---------- Rewards ----------
+v(): -3.0277910232543945	 ([])
+v(4 5 6 7 14 15 16 17): 8.213252067565918	 ([supermarkets][city][throughout][northeast,][including][possible][sale][company.])
+v(0 1 2 3 9 10 11 12): 7.431513786315918	 ([pathmark][stores,][owns][142][dresdner][kleinwort][wasserstein][advise])
+v(8 13): -1.0167572498321533	 ([hired][options,])
+v(0 1 2 3 4 5 6 7 9 10 11 12 14 15 16 17): 8.54456901550293	 ([pathmark][stores,][owns][142][supermarkets][city][throughout][northeast,][dresdner][kleinwort][wasserstein][advise][including][possible][sale][company.])
+v(4 5 6 7 8 13 14 15 16 17): 8.454482078552246	 ([supermarkets][city][throughout][northeast,][hired][options,][including][possible][sale][company.])
+v(0 1 2 3 8 9 10 11 12 13): 8.32814884185791	 ([pathmark][stores,][owns][142][hired][dresdner][kleinwort][wasserstein][advise][options,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.46114444732666	 ([pathmark][stores,][owns][142][supermarkets][city][throughout][northeast,][hired][dresdner][kleinwort][wasserstein][advise][options,][including][possible][sale][company.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 9 10 11 12 14 15 16 17): 11.572360038757324, EP: 1.0072612762451172	 ([pathmark][stores,][owns][142][supermarkets][city][throughout][northeast,][dresdner][kleinwort][wasserstein][advise][including][possible][sale][company.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 11.488935470581055, EP: 1.0	 ([pathmark][stores,][owns][142][supermarkets][city][throughout][northeast,][hired][dresdner][kleinwort][wasserstein][advise][options,][including][possible][sale][company.])
+v(4 5 6 7 8 13 14 15 16 17): 11.48227310180664, EP: 0.9994201064109802	 ([supermarkets][city][throughout][northeast,][hired][options,][including][possible][sale][company.])
+v(0 1 2 3 8 9 10 11 12 13): 11.355939865112305, EP: 0.9884240031242371	 ([pathmark][stores,][owns][142][hired][dresdner][kleinwort][wasserstein][advise][options,])
+v(4 5 6 7 14 15 16 17): 11.241043090820312, EP: 0.9784233570098877	 ([supermarkets][city][throughout][northeast,][including][possible][sale][company.])
+v(0 1 2 3 9 10 11 12): 10.459304809570312, EP: 0.9103806614875793	 ([pathmark][stores,][owns][142][dresdner][kleinwort][wasserstein][advise])
+v(8 13): 2.011033773422241, EP: 0.17504091560840607	 ([hired][options,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

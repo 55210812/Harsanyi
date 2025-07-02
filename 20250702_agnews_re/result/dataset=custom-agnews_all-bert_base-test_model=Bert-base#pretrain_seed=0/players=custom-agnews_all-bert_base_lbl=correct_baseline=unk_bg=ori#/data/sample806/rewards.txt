@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: new
+Player 1: batch
+Player 2: phone
+Player 3: numbers
+Player 4: assigned
+Player 5: britain
+Player 6: accommodate
+Player 7: emerging
+Player 8: market
+Player 9: cheap
+Player 10: phone
+Player 11: calls
+Player 12: internet,
+Player 13: uk
+Player 14: # 39 ; s
+Player 15: media
+Player 16: telecoms
+Player 17: regulator
+Player 18: said
+Player 19: monday.
+---------- Rewards ----------
+v(): 3.7442715167999268	 ([])
+v(2 3 8 9 10 11 12 16 17 18): 3.051661491394043	 ([phone][numbers][market][cheap][phone][calls][internet,][telecoms][regulator][said])
+v(0 1 4 5 6 7 13 14 15 19): 6.49531364440918	 ([new][batch][assigned][britain][accommodate][emerging][uk][# 39 ; s][media][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 6.8394622802734375	 ([new][batch][phone][numbers][assigned][britain][accommodate][emerging][market][cheap][phone][calls][internet,][uk][# 39 ; s][media][telecoms][regulator][said][monday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 3.0951907634735107, EP: 1.0	 ([new][batch][phone][numbers][assigned][britain][accommodate][emerging][market][cheap][phone][calls][internet,][uk][# 39 ; s][media][telecoms][regulator][said][monday.])
+v(0 1 4 5 6 7 13 14 15 19): 2.751042127609253, EP: 0.8888118267059326	 ([new][batch][assigned][britain][accommodate][emerging][uk][# 39 ; s][media][monday.])
+v(2 3 8 9 10 11 12 16 17 18): -0.6926100254058838, EP: -0.22376973927021027	 ([phone][numbers][market][cheap][phone][calls][internet,][telecoms][regulator][said])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

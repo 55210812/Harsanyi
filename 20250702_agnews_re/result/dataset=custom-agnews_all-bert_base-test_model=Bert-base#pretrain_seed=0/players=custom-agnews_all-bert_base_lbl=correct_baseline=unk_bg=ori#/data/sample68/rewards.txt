@@ -1,0 +1,28 @@
+---------- Players ----------
+Player 0: two
+Player 1: days
+Player 2: ago,
+Player 3: would
+Player 4: add
+Player 5: another
+Player 6: chapter
+Player 7: legendary
+Player 8: tale,
+Player 9: hicham
+Player 10: el
+Player 11: guerrouj
+Player 12: received
+Player 13: message
+Player 14: friend
+Player 15: france.
+---------- Rewards ----------
+v(): -4.998356819152832	 ([])
+v(1 3 8 9 10 11 15): -7.060565948486328	 ([days][would][tale,][hicham][el][guerrouj][france.])
+v(0 2 4 5 6 7 12 13 14): -3.9847068786621094	 ([two][ago,][add][another][chapter][legendary][received][message][friend])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): -3.5595836639404297	 ([two][days][ago,][would][add][another][chapter][legendary][tale,][hicham][el][guerrouj][received][message][friend][france.])
+---------- Rewards-v() ----------
+v(1 3 8 9 10 11 15): -2.062209129333496, EP: -1.433310866355896	 ([days][would][tale,][hicham][el][guerrouj][france.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 1.4387731552124023, EP: 1.0	 ([two][days][ago,][would][add][another][chapter][legendary][tale,][hicham][el][guerrouj][received][message][friend][france.])
+v(0 2 4 5 6 7 12 13 14): 1.0136499404907227, EP: 0.7045238018035889	 ([two][ago,][add][another][chapter][legendary][received][message][friend])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

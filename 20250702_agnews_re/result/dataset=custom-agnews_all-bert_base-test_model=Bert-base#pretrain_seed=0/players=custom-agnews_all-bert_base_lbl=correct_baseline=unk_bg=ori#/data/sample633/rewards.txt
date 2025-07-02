@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: week
+Player 1: releasing
+Player 2: windows
+Player 3: xp
+Player 4: service
+Player 5: pack
+Player 6: 2
+Player 7: enterprises,
+Player 8: microsoft
+Player 9: trying
+Player 10: quell
+Player 11: confusion
+Player 12: apparent
+Player 13: security
+Player 14: flaw
+Player 15: applications
+Player 16: # 39 ; t
+Player 17: work
+Player 18: without
+Player 19: adjustments.
+---------- Rewards ----------
+v(): 1.192563772201538	 ([])
+v(0 12 13 14 15): 6.524145603179932	 ([week][apparent][security][flaw][applications])
+v(9 10 17 18 19): 2.8363804817199707	 ([trying][quell][work][without][adjustments.])
+v(2 3 4 5 6 11): 6.968998432159424	 ([windows][xp][service][pack][2][confusion])
+v(1 7 8 16): 2.0124669075012207	 ([releasing][enterprises,][microsoft][# 39 ; t])
+v(0 9 10 12 13 14 15 17 18 19): 7.623963356018066	 ([week][trying][quell][apparent][security][flaw][applications][work][without][adjustments.])
+v(0 2 3 4 5 6 11 12 13 14 15): 7.090638637542725	 ([week][windows][xp][service][pack][2][confusion][apparent][security][flaw][applications])
+v(0 1 7 8 12 13 14 15 16): 4.839206695556641	 ([week][releasing][enterprises,][microsoft][apparent][security][flaw][applications][# 39 ; t])
+v(2 3 4 5 6 9 10 11 17 18 19): 7.102311134338379	 ([windows][xp][service][pack][2][trying][quell][confusion][work][without][adjustments.])
+v(1 7 8 9 10 16 17 18 19): 2.823193311691284	 ([releasing][enterprises,][microsoft][trying][quell][# 39 ; t][work][without][adjustments.])
+v(1 2 3 4 5 6 7 8 11 16): 6.895561218261719	 ([releasing][windows][xp][service][pack][2][enterprises,][microsoft][confusion][# 39 ; t])
+v(0 2 3 4 5 6 9 10 11 12 13 14 15 17 18 19): 7.879017353057861	 ([week][windows][xp][service][pack][2][trying][quell][confusion][apparent][security][flaw][applications][work][without][adjustments.])
+v(0 1 7 8 9 10 12 13 14 15 16 17 18 19): 6.103384971618652	 ([week][releasing][enterprises,][microsoft][trying][quell][apparent][security][flaw][applications][# 39 ; t][work][without][adjustments.])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14 15 16): 7.090662002563477	 ([week][releasing][windows][xp][service][pack][2][enterprises,][microsoft][confusion][apparent][security][flaw][applications][# 39 ; t])
+v(1 2 3 4 5 6 7 8 9 10 11 16 17 18 19): 7.330861568450928	 ([releasing][windows][xp][service][pack][2][enterprises,][microsoft][trying][quell][confusion][# 39 ; t][work][without][adjustments.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.297213077545166	 ([week][releasing][windows][xp][service][pack][2][enterprises,][microsoft][trying][quell][confusion][apparent][security][flaw][applications][# 39 ; t][work][without][adjustments.])
+---------- Rewards-v() ----------
+v(0 2 3 4 5 6 9 10 11 12 13 14 15 17 18 19): 6.686453819274902, EP: 1.09530508518219	 ([week][windows][xp][service][pack][2][trying][quell][confusion][apparent][security][flaw][applications][work][without][adjustments.])
+v(0 9 10 12 13 14 15 17 18 19): 6.431399345397949, EP: 1.0535247325897217	 ([week][trying][quell][apparent][security][flaw][applications][work][without][adjustments.])
+v(1 2 3 4 5 6 7 8 9 10 11 16 17 18 19): 6.138298034667969, EP: 1.005511999130249	 ([releasing][windows][xp][service][pack][2][enterprises,][microsoft][trying][quell][confusion][# 39 ; t][work][without][adjustments.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 6.104649543762207, EP: 1.0	 ([week][releasing][windows][xp][service][pack][2][enterprises,][microsoft][trying][quell][confusion][apparent][security][flaw][applications][# 39 ; t][work][without][adjustments.])
+v(2 3 4 5 6 9 10 11 17 18 19): 5.909747123718262, EP: 0.9680731296539307	 ([windows][xp][service][pack][2][trying][quell][confusion][work][without][adjustments.])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14 15 16): 5.898097991943359, EP: 0.9661648869514465	 ([week][releasing][windows][xp][service][pack][2][enterprises,][microsoft][confusion][apparent][security][flaw][applications][# 39 ; t])
+v(0 2 3 4 5 6 11 12 13 14 15): 5.898075103759766, EP: 0.9661611318588257	 ([week][windows][xp][service][pack][2][confusion][apparent][security][flaw][applications])
+v(2 3 4 5 6 11): 5.776434898376465, EP: 0.9462352991104126	 ([windows][xp][service][pack][2][confusion])
+v(1 2 3 4 5 6 7 8 11 16): 5.702997207641602, EP: 0.9342055320739746	 ([releasing][windows][xp][service][pack][2][enterprises,][microsoft][confusion][# 39 ; t])
+v(0 12 13 14 15): 5.331582069396973, EP: 0.8733641505241394	 ([week][apparent][security][flaw][applications])
+v(0 1 7 8 9 10 12 13 14 15 16 17 18 19): 4.910820960998535, EP: 0.8044394850730896	 ([week][releasing][enterprises,][microsoft][trying][quell][apparent][security][flaw][applications][# 39 ; t][work][without][adjustments.])
+v(0 1 7 8 12 13 14 15 16): 3.6466429233551025, EP: 0.5973550081253052	 ([week][releasing][enterprises,][microsoft][apparent][security][flaw][applications][# 39 ; t])
+v(9 10 17 18 19): 1.6438167095184326, EP: 0.26927289366722107	 ([trying][quell][work][without][adjustments.])
+v(1 7 8 9 10 16 17 18 19): 1.630629539489746, EP: 0.26711273193359375	 ([releasing][enterprises,][microsoft][trying][quell][# 39 ; t][work][without][adjustments.])
+v(1 7 8 16): 0.8199031352996826, EP: 0.13430798053741455	 ([releasing][enterprises,][microsoft][# 39 ; t])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

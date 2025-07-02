@@ -1,0 +1,66 @@
+---------- Players ----------
+Player 0: johannesburg
+Player 1: ( afp )
+Player 2: -
+Player 3: south
+Player 4: african
+Player 5: mining
+Player 6: group
+Player 7: harmony
+Player 8: lost
+Player 9: latest
+Player 10: round
+Player 11: hostile
+Player 12: takeover
+Player 13: rival
+Player 14: gold
+Player 15: fields
+Player 16: court
+Player 17: rejected
+Player 18: urgent
+Player 19: attempt
+Player 20: appeal
+Player 21: ruling
+Player 22: frustrating
+Player 23: bid
+Player 24: create
+Player 25: world
+Player 26: # 39 ; s
+Player 27: largest
+Player 28: gold
+Player 29: producer
+---------- Rewards ----------
+v(): -4.339703559875488	 ([])
+v(26 27 28 29): 7.334399223327637	 ([# 39 ; s][largest][gold][producer])
+v(4 5 6 7 9 12): 6.850132942199707	 ([african][mining][group][harmony][latest][takeover])
+v(0 1 2 3 11 13 14 15 16 18 21 22 23): 5.361429691314697	 ([johannesburg][( afp )][-][south][hostile][rival][gold][fields][court][urgent][ruling][frustrating][bid])
+v(8 10 17 19 20 24 25): -4.051505088806152	 ([lost][round][rejected][attempt][appeal][create][world])
+v(4 5 6 7 9 12 26 27 28 29): 7.408296585083008	 ([african][mining][group][harmony][latest][takeover][# 39 ; s][largest][gold][producer])
+v(0 1 2 3 11 13 14 15 16 18 21 22 23 26 27 28 29): 6.4189605712890625	 ([johannesburg][( afp )][-][south][hostile][rival][gold][fields][court][urgent][ruling][frustrating][bid][# 39 ; s][largest][gold][producer])
+v(8 10 17 19 20 24 25 26 27 28 29): 7.358460903167725	 ([lost][round][rejected][attempt][appeal][create][world][# 39 ; s][largest][gold][producer])
+v(0 1 2 3 4 5 6 7 9 11 12 13 14 15 16 18 21 22 23): 7.463956832885742	 ([johannesburg][( afp )][-][south][african][mining][group][harmony][latest][hostile][takeover][rival][gold][fields][court][urgent][ruling][frustrating][bid])
+v(4 5 6 7 8 9 10 12 17 19 20 24 25): 6.87862491607666	 ([african][mining][group][harmony][lost][latest][round][takeover][rejected][attempt][appeal][create][world])
+v(0 1 2 3 8 10 11 13 14 15 16 17 18 19 20 21 22 23 24 25): 5.774043083190918	 ([johannesburg][( afp )][-][south][lost][round][hostile][rival][gold][fields][court][rejected][urgent][attempt][appeal][ruling][frustrating][bid][create][world])
+v(0 1 2 3 4 5 6 7 9 11 12 13 14 15 16 18 21 22 23 26 27 28 29): 7.667725563049316	 ([johannesburg][( afp )][-][south][african][mining][group][harmony][latest][hostile][takeover][rival][gold][fields][court][urgent][ruling][frustrating][bid][# 39 ; s][largest][gold][producer])
+v(4 5 6 7 8 9 10 12 17 19 20 24 25 26 27 28 29): 7.457145690917969	 ([african][mining][group][harmony][lost][latest][round][takeover][rejected][attempt][appeal][create][world][# 39 ; s][largest][gold][producer])
+v(0 1 2 3 8 10 11 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29): 7.042313575744629	 ([johannesburg][( afp )][-][south][lost][round][hostile][rival][gold][fields][court][rejected][urgent][attempt][appeal][ruling][frustrating][bid][create][world][# 39 ; s][largest][gold][producer])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 7.640980243682861	 ([johannesburg][( afp )][-][south][african][mining][group][harmony][lost][latest][round][hostile][takeover][rival][gold][fields][court][rejected][urgent][attempt][appeal][ruling][frustrating][bid][create][world])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29): 7.824766159057617	 ([johannesburg][( afp )][-][south][african][mining][group][harmony][lost][latest][round][hostile][takeover][rival][gold][fields][court][rejected][urgent][attempt][appeal][ruling][frustrating][bid][create][world][# 39 ; s][largest][gold][producer])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29): 12.164469718933105, EP: 1.0	 ([johannesburg][( afp )][-][south][african][mining][group][harmony][lost][latest][round][hostile][takeover][rival][gold][fields][court][rejected][urgent][attempt][appeal][ruling][frustrating][bid][create][world][# 39 ; s][largest][gold][producer])
+v(0 1 2 3 4 5 6 7 9 11 12 13 14 15 16 18 21 22 23 26 27 28 29): 12.007429122924805, EP: 0.9870902299880981	 ([johannesburg][( afp )][-][south][african][mining][group][harmony][latest][hostile][takeover][rival][gold][fields][court][urgent][ruling][frustrating][bid][# 39 ; s][largest][gold][producer])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 11.980684280395508, EP: 0.9848915934562683	 ([johannesburg][( afp )][-][south][african][mining][group][harmony][lost][latest][round][hostile][takeover][rival][gold][fields][court][rejected][urgent][attempt][appeal][ruling][frustrating][bid][create][world])
+v(0 1 2 3 4 5 6 7 9 11 12 13 14 15 16 18 21 22 23): 11.80366039276123, EP: 0.9703390598297119	 ([johannesburg][( afp )][-][south][african][mining][group][harmony][latest][hostile][takeover][rival][gold][fields][court][urgent][ruling][frustrating][bid])
+v(4 5 6 7 8 9 10 12 17 19 20 24 25 26 27 28 29): 11.796849250793457, EP: 0.9697791337966919	 ([african][mining][group][harmony][lost][latest][round][takeover][rejected][attempt][appeal][create][world][# 39 ; s][largest][gold][producer])
+v(4 5 6 7 9 12 26 27 28 29): 11.748000144958496, EP: 0.9657634496688843	 ([african][mining][group][harmony][latest][takeover][# 39 ; s][largest][gold][producer])
+v(8 10 17 19 20 24 25 26 27 28 29): 11.698163986206055, EP: 0.9616665840148926	 ([lost][round][rejected][attempt][appeal][create][world][# 39 ; s][largest][gold][producer])
+v(26 27 28 29): 11.674102783203125, EP: 0.9596886038780212	 ([# 39 ; s][largest][gold][producer])
+v(0 1 2 3 8 10 11 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29): 11.382017135620117, EP: 0.9356772303581238	 ([johannesburg][( afp )][-][south][lost][round][hostile][rival][gold][fields][court][rejected][urgent][attempt][appeal][ruling][frustrating][bid][create][world][# 39 ; s][largest][gold][producer])
+v(4 5 6 7 8 9 10 12 17 19 20 24 25): 11.218328475952148, EP: 0.9222209453582764	 ([african][mining][group][harmony][lost][latest][round][takeover][rejected][attempt][appeal][create][world])
+v(4 5 6 7 9 12): 11.189836502075195, EP: 0.9198787212371826	 ([african][mining][group][harmony][latest][takeover])
+v(0 1 2 3 11 13 14 15 16 18 21 22 23 26 27 28 29): 10.75866413116455, EP: 0.8844334483146667	 ([johannesburg][( afp )][-][south][hostile][rival][gold][fields][court][urgent][ruling][frustrating][bid][# 39 ; s][largest][gold][producer])
+v(0 1 2 3 8 10 11 13 14 15 16 17 18 19 20 21 22 23 24 25): 10.113746643066406, EP: 0.8314169645309448	 ([johannesburg][( afp )][-][south][lost][round][hostile][rival][gold][fields][court][rejected][urgent][attempt][appeal][ruling][frustrating][bid][create][world])
+v(0 1 2 3 11 13 14 15 16 18 21 22 23): 9.701133728027344, EP: 0.7974974513053894	 ([johannesburg][( afp )][-][south][hostile][rival][gold][fields][court][urgent][ruling][frustrating][bid])
+v(8 10 17 19 20 24 25): 0.28819847106933594, EP: 0.023691823706030846	 ([lost][round][rejected][attempt][appeal][create][world])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: saying
+Player 1: thing
+Player 2: time
+Player 3: last
+Player 4: year,
+Player 5: pitcher
+Player 6: known
+Player 7: quot ; the
+Player 8: rocket
+Player 9: quot ;
+Player 10: acknowledges
+Player 11: one - tenth
+Player 12: keeps
+Player 13: door
+Player 14: open
+Player 15: possible
+Player 16: return.
+---------- Rewards ----------
+v(): -5.175579071044922	 ([])
+v(0 1 2 4 5 12): 2.4782495498657227	 ([saying][thing][time][year,][pitcher][keeps])
+v(3 6 7 8 9): -4.472198486328125	 ([last][known][quot ; the][rocket][quot ;])
+v(10 11 13 14 15 16): -2.5444931983947754	 ([acknowledges][one - tenth][door][open][possible][return.])
+v(0 1 2 3 4 5 6 7 8 9 12): 9.197319984436035	 ([saying][thing][time][last][year,][pitcher][known][quot ; the][rocket][quot ;][keeps])
+v(0 1 2 4 5 10 11 12 13 14 15 16): 4.862068176269531	 ([saying][thing][time][year,][pitcher][acknowledges][one - tenth][keeps][door][open][possible][return.])
+v(3 6 7 8 9 10 11 13 14 15 16): -6.523824691772461	 ([last][known][quot ; the][rocket][quot ;][acknowledges][one - tenth][door][open][possible][return.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.34709644317627	 ([saying][thing][time][last][year,][pitcher][known][quot ; the][rocket][quot ;][acknowledges][one - tenth][keeps][door][open][possible][return.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 14.522675514221191, EP: 1.0	 ([saying][thing][time][last][year,][pitcher][known][quot ; the][rocket][quot ;][acknowledges][one - tenth][keeps][door][open][possible][return.])
+v(0 1 2 3 4 5 6 7 8 9 12): 14.372899055480957, EP: 0.9896867275238037	 ([saying][thing][time][last][year,][pitcher][known][quot ; the][rocket][quot ;][keeps])
+v(0 1 2 4 5 10 11 12 13 14 15 16): 10.037647247314453, EP: 0.6911706328392029	 ([saying][thing][time][year,][pitcher][acknowledges][one - tenth][keeps][door][open][possible][return.])
+v(0 1 2 4 5 12): 7.6538286209106445, EP: 0.5270260572433472	 ([saying][thing][time][year,][pitcher][keeps])
+v(10 11 13 14 15 16): 2.6310858726501465, EP: 0.18117088079452515	 ([acknowledges][one - tenth][door][open][possible][return.])
+v(3 6 7 8 9 10 11 13 14 15 16): -1.348245620727539, EP: -0.09283727407455444	 ([last][known][quot ; the][rocket][quot ;][acknowledges][one - tenth][door][open][possible][return.])
+v(3 6 7 8 9): 0.7033805847167969, EP: 0.04843326285481453	 ([last][known][quot ; the][rocket][quot ;])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

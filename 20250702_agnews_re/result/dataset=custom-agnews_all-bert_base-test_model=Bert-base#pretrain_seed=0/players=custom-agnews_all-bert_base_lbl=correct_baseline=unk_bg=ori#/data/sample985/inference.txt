@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 19:41:57
+prompt: [CLS] microsoft corp. said it is cutting a net total of 49 jobs from its windows server division as part of a shift to more automated software testing and changes in the way it produces technical documents. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:7513 decoded_text: microsoft
+idx:2 input_id:13058 decoded_text: corp
+idx:3 input_id:1012 decoded_text: .
+idx:4 input_id:2056 decoded_text: said
+idx:5 input_id:2009 decoded_text: it
+idx:6 input_id:2003 decoded_text: is
+idx:7 input_id:6276 decoded_text: cutting
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:5658 decoded_text: net
+idx:10 input_id:2561 decoded_text: total
+idx:11 input_id:1997 decoded_text: of
+idx:12 input_id:4749 decoded_text: 49
+idx:13 input_id:5841 decoded_text: jobs
+idx:14 input_id:2013 decoded_text: from
+idx:15 input_id:2049 decoded_text: its
+idx:16 input_id:3645 decoded_text: windows
+idx:17 input_id:8241 decoded_text: server
+idx:18 input_id:2407 decoded_text: division
+idx:19 input_id:2004 decoded_text: as
+idx:20 input_id:2112 decoded_text: part
+idx:21 input_id:1997 decoded_text: of
+idx:22 input_id:1037 decoded_text: a
+idx:23 input_id:5670 decoded_text: shift
+idx:24 input_id:2000 decoded_text: to
+idx:25 input_id:2062 decoded_text: more
+idx:26 input_id:12978 decoded_text: automated
+idx:27 input_id:4007 decoded_text: software
+idx:28 input_id:5604 decoded_text: testing
+idx:29 input_id:1998 decoded_text: and
+idx:30 input_id:3431 decoded_text: changes
+idx:31 input_id:1999 decoded_text: in
+idx:32 input_id:1996 decoded_text: the
+idx:33 input_id:2126 decoded_text: way
+idx:34 input_id:2009 decoded_text: it
+idx:35 input_id:7137 decoded_text: produces
+idx:36 input_id:4087 decoded_text: technical
+idx:37 input_id:5491 decoded_text: documents
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-2.887416124343872, -3.5621447563171387, -0.3701462745666504, 6.360416889190674]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

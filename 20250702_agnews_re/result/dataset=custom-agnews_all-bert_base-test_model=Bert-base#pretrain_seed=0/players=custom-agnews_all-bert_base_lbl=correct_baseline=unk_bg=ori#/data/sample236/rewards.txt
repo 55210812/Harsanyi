@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: 23 - year - old
+Player 1: australian
+Player 2: continued
+Player 3: solid
+Player 4: play
+Player 5: yesterday,
+Player 6: extending
+Player 7: winning
+Player 8: streak
+Player 9: 11
+Player 10: matches.
+Player 11: quot ; i
+Player 12: able
+Player 13: put
+Player 14: together
+Player 15: day
+Player 16: day
+Player 17: last
+Player 18: weeks,
+Player 19: quot ;
+Player 20: hewitt
+Player 21: said.
+---------- Rewards ----------
+v(): -1.542452096939087	 ([])
+v(3 4 5 15 16): 6.64549446105957	 ([solid][play][yesterday,][day][day])
+v(1 2 6 8 9 10 11 14): 9.119406700134277	 ([australian][continued][extending][streak][11][matches.][quot ; i][together])
+v(0 7 12 13 17 18 19 20 21): 9.22531509399414	 ([23 - year - old][winning][able][put][last][weeks,][quot ;][hewitt][said.])
+v(1 2 3 4 5 6 8 9 10 11 14 15 16): 9.14956283569336	 ([australian][continued][solid][play][yesterday,][extending][streak][11][matches.][quot ; i][together][day][day])
+v(0 3 4 5 7 12 13 15 16 17 18 19 20 21): 9.707080841064453	 ([23 - year - old][solid][play][yesterday,][winning][able][put][day][day][last][weeks,][quot ;][hewitt][said.])
+v(0 1 2 6 7 8 9 10 11 12 13 14 17 18 19 20 21): 9.652698516845703	 ([23 - year - old][australian][continued][extending][winning][streak][11][matches.][quot ; i][able][put][together][last][weeks,][quot ;][hewitt][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.602996826171875	 ([23 - year - old][australian][continued][solid][play][yesterday,][extending][winning][streak][11][matches.][quot ; i][able][put][together][day][day][last][weeks,][quot ;][hewitt][said.])
+---------- Rewards-v() ----------
+v(0 3 4 5 7 12 13 15 16 17 18 19 20 21): 11.249532699584961, EP: 1.0093387365341187	 ([23 - year - old][solid][play][yesterday,][winning][able][put][day][day][last][weeks,][quot ;][hewitt][said.])
+v(0 1 2 6 7 8 9 10 11 12 13 14 17 18 19 20 21): 11.195150375366211, EP: 1.0044593811035156	 ([23 - year - old][australian][continued][extending][winning][streak][11][matches.][quot ; i][able][put][together][last][weeks,][quot ;][hewitt][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 11.145448684692383, EP: 1.0	 ([23 - year - old][australian][continued][solid][play][yesterday,][extending][winning][streak][11][matches.][quot ; i][able][put][together][day][day][last][weeks,][quot ;][hewitt][said.])
+v(0 7 12 13 17 18 19 20 21): 10.767766952514648, EP: 0.9661133885383606	 ([23 - year - old][winning][able][put][last][weeks,][quot ;][hewitt][said.])
+v(1 2 3 4 5 6 8 9 10 11 14 15 16): 10.692014694213867, EP: 0.9593166708946228	 ([australian][continued][solid][play][yesterday,][extending][streak][11][matches.][quot ; i][together][day][day])
+v(1 2 6 8 9 10 11 14): 10.661858558654785, EP: 0.9566109776496887	 ([australian][continued][extending][streak][11][matches.][quot ; i][together])
+v(3 4 5 15 16): 8.187946319580078, EP: 0.7346448302268982	 ([solid][play][yesterday,][day][day])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

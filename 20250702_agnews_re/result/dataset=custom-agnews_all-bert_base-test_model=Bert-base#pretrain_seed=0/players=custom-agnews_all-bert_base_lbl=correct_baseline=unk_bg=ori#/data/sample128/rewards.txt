@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: walt
+Player 1: disney
+Player 2: co.
+Player 3: chief
+Player 4: executive
+Player 5: michael
+Player 6: eisner
+Player 7: acknowledged
+Player 8: monday
+Player 9: former
+Player 10: company
+Player 11: president
+Player 12: michael
+Player 13: ovitz
+Player 14: good
+Player 15: friends.
+---------- Rewards ----------
+v(): -5.552237510681152	 ([])
+v(0 2 6 8 9 11 13): 8.25604248046875	 ([walt][co.][eisner][monday][former][president][ovitz])
+v(3 4): -6.956271648406982	 ([chief][executive])
+v(1 5 7 10 12 14 15): 3.8843421936035156	 ([disney][michael][acknowledged][company][michael][good][friends.])
+v(0 2 3 4 6 8 9 11 13): 8.385575294494629	 ([walt][co.][chief][executive][eisner][monday][former][president][ovitz])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15): 7.7043657302856445	 ([walt][disney][co.][michael][eisner][acknowledged][monday][former][company][president][michael][ovitz][good][friends.])
+v(1 3 4 5 7 10 12 14 15): 5.68439245223999	 ([disney][chief][executive][michael][acknowledged][company][michael][good][friends.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.553661346435547	 ([walt][disney][co.][chief][executive][michael][eisner][acknowledged][monday][former][company][president][michael][ovitz][good][friends.])
+---------- Rewards-v() ----------
+v(0 2 3 4 6 8 9 11 13): 13.937812805175781, EP: 1.063476324081421	 ([walt][co.][chief][executive][eisner][monday][former][president][ovitz])
+v(0 2 6 8 9 11 13): 13.808279991149902, EP: 1.0535928010940552	 ([walt][co.][eisner][monday][former][president][ovitz])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15): 13.256603240966797, EP: 1.0114989280700684	 ([walt][disney][co.][michael][eisner][acknowledged][monday][former][company][president][michael][ovitz][good][friends.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 13.1058988571167, EP: 1.0	 ([walt][disney][co.][chief][executive][michael][eisner][acknowledged][monday][former][company][president][michael][ovitz][good][friends.])
+v(1 3 4 5 7 10 12 14 15): 11.236629486083984, EP: 0.8573719263076782	 ([disney][chief][executive][michael][acknowledged][company][michael][good][friends.])
+v(1 5 7 10 12 14 15): 9.436579704284668, EP: 0.720025360584259	 ([disney][michael][acknowledged][company][michael][good][friends.])
+v(3 4): -1.40403413772583, EP: -0.10712993890047073	 ([chief][executive])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: delta
+Player 1: air
+Player 2: lines
+Player 3: pilots
+Player 4: agreed
+Player 5: slash
+Player 6: salaries
+Player 7: nearly
+Player 8: third
+Player 9: forgo
+Player 10: pay
+Player 11: raises
+Player 12: five
+Player 13: years
+Player 14: help
+Player 15: struggling
+Player 16: airline
+Player 17: avoid
+Player 18: bankruptcy,
+Player 19: union
+Player 20: announced
+Player 21: thursday.
+---------- Rewards ----------
+v(): -5.7095136642456055	 ([])
+v(4 5 6 9 10 11 12 13 14 16 17 18): 4.650363445281982	 ([agreed][slash][salaries][forgo][pay][raises][five][years][help][airline][avoid][bankruptcy,])
+v(0 1 2 3 20): 8.142278671264648	 ([delta][air][lines][pilots][announced])
+v(7 8 15 19 21): -0.37013983726501465	 ([nearly][third][struggling][union][thursday.])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 16 17 18 20): 7.855879783630371	 ([delta][air][lines][pilots][agreed][slash][salaries][forgo][pay][raises][five][years][help][airline][avoid][bankruptcy,][announced])
+v(4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21): 6.955005645751953	 ([agreed][slash][salaries][nearly][third][forgo][pay][raises][five][years][help][struggling][airline][avoid][bankruptcy,][union][thursday.])
+v(0 1 2 3 7 8 15 19 20 21): 8.159615516662598	 ([delta][air][lines][pilots][nearly][third][struggling][union][announced][thursday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 6.354963302612305	 ([delta][air][lines][pilots][agreed][slash][salaries][nearly][third][forgo][pay][raises][five][years][help][struggling][airline][avoid][bankruptcy,][union][announced][thursday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 7 8 15 19 20 21): 13.869129180908203, EP: 1.1495839357376099	 ([delta][air][lines][pilots][nearly][third][struggling][union][announced][thursday.])
+v(0 1 2 3 20): 13.851792335510254, EP: 1.1481469869613647	 ([delta][air][lines][pilots][announced])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 16 17 18 20): 13.565393447875977, EP: 1.1244078874588013	 ([delta][air][lines][pilots][agreed][slash][salaries][forgo][pay][raises][five][years][help][airline][avoid][bankruptcy,][announced])
+v(4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21): 12.664519309997559, EP: 1.0497362613677979	 ([agreed][slash][salaries][nearly][third][forgo][pay][raises][five][years][help][struggling][airline][avoid][bankruptcy,][union][thursday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 12.06447696685791, EP: 1.0	 ([delta][air][lines][pilots][agreed][slash][salaries][nearly][third][forgo][pay][raises][five][years][help][struggling][airline][avoid][bankruptcy,][union][announced][thursday.])
+v(4 5 6 9 10 11 12 13 14 16 17 18): 10.35987663269043, EP: 0.8587091565132141	 ([agreed][slash][salaries][forgo][pay][raises][five][years][help][airline][avoid][bankruptcy,])
+v(7 8 15 19 21): 5.339373588562012, EP: 0.4425698220729828	 ([nearly][third][struggling][union][thursday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

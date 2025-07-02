@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: us
+Player 1: jobless
+Player 2: rate
+Player 3: dropped
+Player 4: november,
+Player 5: analysts
+Player 6: surprise
+Player 7: disappointed
+Player 8: weak
+Player 9: job
+Player 10: creation
+Player 11: numbers
+Player 12: reported
+Player 13: us
+Player 14: labour
+Player 15: department.
+---------- Rewards ----------
+v(): -6.827385425567627	 ([])
+v(0 2 3 4 6 10 13): 7.479472637176514	 ([us][rate][dropped][november,][surprise][creation][us])
+v(7 8 9 11 14 15): 4.633542060852051	 ([disappointed][weak][job][numbers][labour][department.])
+v(1 5 12): 3.0638387203216553	 ([jobless][analysts][reported])
+v(0 2 3 4 6 7 8 9 10 11 13 14 15): 8.003561019897461	 ([us][rate][dropped][november,][surprise][disappointed][weak][job][creation][numbers][us][labour][department.])
+v(0 1 2 3 4 5 6 10 12 13): 8.404755592346191	 ([us][jobless][rate][dropped][november,][analysts][surprise][creation][reported][us])
+v(1 5 7 8 9 11 12 14 15): 7.185163497924805	 ([jobless][analysts][disappointed][weak][job][numbers][reported][labour][department.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 8.32859992980957	 ([us][jobless][rate][dropped][november,][analysts][surprise][disappointed][weak][job][creation][numbers][reported][us][labour][department.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 10 12 13): 15.232141494750977, EP: 1.0050249099731445	 ([us][jobless][rate][dropped][november,][analysts][surprise][creation][reported][us])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 15.155984878540039, EP: 1.0	 ([us][jobless][rate][dropped][november,][analysts][surprise][disappointed][weak][job][creation][numbers][reported][us][labour][department.])
+v(0 2 3 4 6 7 8 9 10 11 13 14 15): 14.83094596862793, EP: 0.9785537719726562	 ([us][rate][dropped][november,][surprise][disappointed][weak][job][creation][numbers][us][labour][department.])
+v(0 2 3 4 6 10 13): 14.30685806274414, EP: 0.9439741373062134	 ([us][rate][dropped][november,][surprise][creation][us])
+v(1 5 7 8 9 11 12 14 15): 14.012548446655273, EP: 0.9245554804801941	 ([jobless][analysts][disappointed][weak][job][numbers][reported][labour][department.])
+v(7 8 9 11 14 15): 11.460927963256836, EP: 0.7561981678009033	 ([disappointed][weak][job][numbers][labour][department.])
+v(1 5 12): 9.891223907470703, EP: 0.6526282429695129	 ([jobless][analysts][reported])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

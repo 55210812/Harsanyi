@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: microsoft
+Player 1: intel
+Player 2: joining
+Player 3: forces
+Player 4: conquer
+Player 5: living
+Player 6: rooms
+Player 7: usa
+Player 8: make
+Player 9: inroads
+Player 10: coveted
+Player 11: consumer
+Player 12: electronics
+Player 13: space.
+---------- Rewards ----------
+v(): 5.70835018157959	 ([])
+v(0 1 8 9 10 11 12 13): 5.64045524597168	 ([microsoft][intel][make][inroads][coveted][consumer][electronics][space.])
+v(2 3 4 5 6 7): 6.960615158081055	 ([joining][forces][conquer][living][rooms][usa])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 3.14772367477417	 ([microsoft][intel][joining][forces][conquer][living][rooms][usa][make][inroads][coveted][consumer][electronics][space.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): -2.56062650680542, EP: 1.0	 ([microsoft][intel][joining][forces][conquer][living][rooms][usa][make][inroads][coveted][consumer][electronics][space.])
+v(2 3 4 5 6 7): 1.2522649765014648, EP: -0.4890463352203369	 ([joining][forces][conquer][living][rooms][usa])
+v(0 1 8 9 10 11 12 13): -0.06789493560791016, EP: 0.026514969766139984	 ([microsoft][intel][make][inroads][coveted][consumer][electronics][space.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 19:34:02
+prompt: [CLS] ap - taiwanese lawmakers on monday overwhelmingly agreed to slash in half the 225 - seat legislature and revamp the election system # 151 ; sweeping historic changes designed to tackle corruption and weed out misbehaving legislators. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:16539 decoded_text: taiwanese
+idx:4 input_id:2375 decoded_text: law
+idx:5 input_id:12088 decoded_text: ##makers
+idx:6 input_id:2006 decoded_text: on
+idx:7 input_id:6928 decoded_text: monday
+idx:8 input_id:24783 decoded_text: overwhelmingly
+idx:9 input_id:3530 decoded_text: agreed
+idx:10 input_id:2000 decoded_text: to
+idx:11 input_id:18296 decoded_text: slash
+idx:12 input_id:1999 decoded_text: in
+idx:13 input_id:2431 decoded_text: half
+idx:14 input_id:1996 decoded_text: the
+idx:15 input_id:14993 decoded_text: 225
+idx:16 input_id:1011 decoded_text: -
+idx:17 input_id:2835 decoded_text: seat
+idx:18 input_id:6372 decoded_text: legislature
+idx:19 input_id:1998 decoded_text: and
+idx:20 input_id:7065 decoded_text: rev
+idx:21 input_id:16613 decoded_text: ##amp
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:2602 decoded_text: election
+idx:24 input_id:2291 decoded_text: system
+idx:25 input_id:1001 decoded_text: #
+idx:26 input_id:16528 decoded_text: 151
+idx:27 input_id:1025 decoded_text: ;
+idx:28 input_id:12720 decoded_text: sweeping
+idx:29 input_id:3181 decoded_text: historic
+idx:30 input_id:3431 decoded_text: changes
+idx:31 input_id:2881 decoded_text: designed
+idx:32 input_id:2000 decoded_text: to
+idx:33 input_id:11147 decoded_text: tackle
+idx:34 input_id:7897 decoded_text: corruption
+idx:35 input_id:1998 decoded_text: and
+idx:36 input_id:17901 decoded_text: weed
+idx:37 input_id:2041 decoded_text: out
+idx:38 input_id:28616 decoded_text: mis
+idx:39 input_id:4783 decoded_text: ##be
+idx:40 input_id:3270 decoded_text: ##ha
+idx:41 input_id:6455 decoded_text: ##ving
+idx:42 input_id:22680 decoded_text: legislators
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.128232955932617, -1.8948564529418945, -2.9129207134246826, -2.0101864337921143]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

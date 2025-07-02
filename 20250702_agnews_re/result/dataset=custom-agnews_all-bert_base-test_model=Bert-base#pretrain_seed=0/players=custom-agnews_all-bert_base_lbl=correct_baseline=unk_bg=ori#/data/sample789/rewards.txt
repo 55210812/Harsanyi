@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: even
+Player 1: indicted
+Player 2: balco
+Player 3: chief
+Player 4: victor
+Player 5: conte
+Player 6: doping
+Player 7: goods
+Player 8: sprinter
+Player 9: marion
+Player 10: jones,
+Player 11: # 39 ; s
+Player 12: unclear
+Player 13: whether
+Player 14: international
+Player 15: olympic
+Player 16: committee
+Player 17: revoke
+Player 18: five
+Player 19: medals
+Player 20: sydney
+Player 21: 2000.
+---------- Rewards ----------
+v(): -2.306462049484253	 ([])
+v(0 12 13 17 21): -2.6288528442382812	 ([even][unclear][whether][revoke][2000.])
+v(6 7 8 11 15 19): 8.343061447143555	 ([doping][goods][sprinter][# 39 ; s][olympic][medals])
+v(1 2 3 9 10 14 16 18 20): 5.070454120635986	 ([indicted][balco][chief][marion][jones,][international][committee][five][sydney])
+v(4 5): 0.39846324920654297	 ([victor][conte])
+v(0 6 7 8 11 12 13 15 17 19 21): 8.408082962036133	 ([even][doping][goods][sprinter][# 39 ; s][unclear][whether][olympic][revoke][medals][2000.])
+v(0 1 2 3 9 10 12 13 14 16 17 18 20 21): 6.27136754989624	 ([even][indicted][balco][chief][marion][jones,][unclear][whether][international][committee][revoke][five][sydney][2000.])
+v(0 4 5 12 13 17 21): -0.9342523217201233	 ([even][victor][conte][unclear][whether][revoke][2000.])
+v(1 2 3 6 7 8 9 10 11 14 15 16 18 19 20): 9.084531784057617	 ([indicted][balco][chief][doping][goods][sprinter][marion][jones,][# 39 ; s][international][olympic][committee][five][medals][sydney])
+v(4 5 6 7 8 11 15 19): 8.359314918518066	 ([victor][conte][doping][goods][sprinter][# 39 ; s][olympic][medals])
+v(1 2 3 4 5 9 10 14 16 18 20): 5.822722911834717	 ([indicted][balco][chief][victor][conte][marion][jones,][international][committee][five][sydney])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.103654861450195	 ([even][indicted][balco][chief][doping][goods][sprinter][marion][jones,][# 39 ; s][unclear][whether][international][olympic][committee][revoke][five][medals][sydney][2000.])
+v(0 4 5 6 7 8 11 12 13 15 17 19 21): 8.376779556274414	 ([even][victor][conte][doping][goods][sprinter][# 39 ; s][unclear][whether][olympic][revoke][medals][2000.])
+v(0 1 2 3 4 5 9 10 12 13 14 16 17 18 20 21): 6.737237453460693	 ([even][indicted][balco][chief][victor][conte][marion][jones,][unclear][whether][international][committee][revoke][five][sydney][2000.])
+v(1 2 3 4 5 6 7 8 9 10 11 14 15 16 18 19 20): 9.037714004516602	 ([indicted][balco][chief][victor][conte][doping][goods][sprinter][marion][jones,][# 39 ; s][international][olympic][committee][five][medals][sydney])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.0477294921875	 ([even][indicted][balco][chief][victor][conte][doping][goods][sprinter][marion][jones,][# 39 ; s][unclear][whether][international][olympic][committee][revoke][five][medals][sydney][2000.])
+---------- Rewards-v() ----------
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 11.410117149353027, EP: 1.0049254894256592	 ([even][indicted][balco][chief][doping][goods][sprinter][marion][jones,][# 39 ; s][unclear][whether][international][olympic][committee][revoke][five][medals][sydney][2000.])
+v(1 2 3 6 7 8 9 10 11 14 15 16 18 19 20): 11.39099407196045, EP: 1.0032413005828857	 ([indicted][balco][chief][doping][goods][sprinter][marion][jones,][# 39 ; s][international][olympic][committee][five][medals][sydney])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 11.354191780090332, EP: 1.0	 ([even][indicted][balco][chief][victor][conte][doping][goods][sprinter][marion][jones,][# 39 ; s][unclear][whether][international][olympic][committee][revoke][five][medals][sydney][2000.])
+v(1 2 3 4 5 6 7 8 9 10 11 14 15 16 18 19 20): 11.344176292419434, EP: 0.999117910861969	 ([indicted][balco][chief][victor][conte][doping][goods][sprinter][marion][jones,][# 39 ; s][international][olympic][committee][five][medals][sydney])
+v(0 6 7 8 11 12 13 15 17 19 21): 10.714545249938965, EP: 0.9436643123626709	 ([even][doping][goods][sprinter][# 39 ; s][unclear][whether][olympic][revoke][medals][2000.])
+v(0 4 5 6 7 8 11 12 13 15 17 19 21): 10.683241844177246, EP: 0.9409072995185852	 ([even][victor][conte][doping][goods][sprinter][# 39 ; s][unclear][whether][olympic][revoke][medals][2000.])
+v(4 5 6 7 8 11 15 19): 10.665777206420898, EP: 0.9393691420555115	 ([victor][conte][doping][goods][sprinter][# 39 ; s][olympic][medals])
+v(6 7 8 11 15 19): 10.649523735046387, EP: 0.9379376173019409	 ([doping][goods][sprinter][# 39 ; s][olympic][medals])
+v(0 1 2 3 4 5 9 10 12 13 14 16 17 18 20 21): 9.043699264526367, EP: 0.7965075373649597	 ([even][indicted][balco][chief][victor][conte][marion][jones,][unclear][whether][international][committee][revoke][five][sydney][2000.])
+v(0 1 2 3 9 10 12 13 14 16 17 18 20 21): 8.577829360961914, EP: 0.7554768919944763	 ([even][indicted][balco][chief][marion][jones,][unclear][whether][international][committee][revoke][five][sydney][2000.])
+v(1 2 3 4 5 9 10 14 16 18 20): 8.12918472290039, EP: 0.7159633040428162	 ([indicted][balco][chief][victor][conte][marion][jones,][international][committee][five][sydney])
+v(1 2 3 9 10 14 16 18 20): 7.37691593170166, EP: 0.6497085690498352	 ([indicted][balco][chief][marion][jones,][international][committee][five][sydney])
+v(4 5): 2.704925298690796, EP: 0.23823142051696777	 ([victor][conte])
+v(0 4 5 12 13 17 21): 1.3722097873687744, EP: 0.12085490673780441	 ([even][victor][conte][unclear][whether][revoke][2000.])
+v(0 12 13 17 21): -0.3223907947540283, EP: -0.02839398942887783	 ([even][unclear][whether][revoke][2000.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

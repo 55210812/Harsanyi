@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: updated :
+Player 1: sprint
+Player 2: ( quote,
+Player 3: chart )
+Player 4: nextel
+Player 5: ( quote,
+Player 6: chart )
+Player 7: agreed
+Player 8: merge,
+Player 9: better
+Player 10: compete
+Player 11: cinglar
+Player 12: verizon
+Player 13: wireless
+Player 14: voice
+Player 15: data
+Player 16: customers.
+---------- Rewards ----------
+v(): -3.1315462589263916	 ([])
+v(8 11 12 13): 3.706439971923828	 ([merge,][cinglar][verizon][wireless])
+v(0 1 2 3 4 5 6 7): -5.948141098022461	 ([updated :][sprint][( quote,][chart )][nextel][( quote,][chart )][agreed])
+v(9 10 14 15 16): -5.766134262084961	 ([better][compete][voice][data][customers.])
+v(0 1 2 3 4 5 6 7 8 11 12 13): 8.308552742004395	 ([updated :][sprint][( quote,][chart )][nextel][( quote,][chart )][agreed][merge,][cinglar][verizon][wireless])
+v(8 9 10 11 12 13 14 15 16): 0.7182357311248779	 ([merge,][better][compete][cinglar][verizon][wireless][voice][data][customers.])
+v(0 1 2 3 4 5 6 7 9 10 14 15 16): 5.6598615646362305	 ([updated :][sprint][( quote,][chart )][nextel][( quote,][chart )][agreed][better][compete][voice][data][customers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 3.4300363063812256	 ([updated :][sprint][( quote,][chart )][nextel][( quote,][chart )][agreed][merge,][better][compete][cinglar][verizon][wireless][voice][data][customers.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 11 12 13): 11.440098762512207, EP: 1.7434968948364258	 ([updated :][sprint][( quote,][chart )][nextel][( quote,][chart )][agreed][merge,][cinglar][verizon][wireless])
+v(0 1 2 3 4 5 6 7 9 10 14 15 16): 8.791407585144043, EP: 1.3398303985595703	 ([updated :][sprint][( quote,][chart )][nextel][( quote,][chart )][agreed][better][compete][voice][data][customers.])
+v(8 11 12 13): 6.837985992431641, EP: 1.0421245098114014	 ([merge,][cinglar][verizon][wireless])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 6.561582565307617, EP: 1.0	 ([updated :][sprint][( quote,][chart )][nextel][( quote,][chart )][agreed][merge,][better][compete][cinglar][verizon][wireless][voice][data][customers.])
+v(8 9 10 11 12 13 14 15 16): 3.8497819900512695, EP: 0.5867154598236084	 ([merge,][better][compete][cinglar][verizon][wireless][voice][data][customers.])
+v(0 1 2 3 4 5 6 7): -2.8165948390960693, EP: -0.4292554259300232	 ([updated :][sprint][( quote,][chart )][nextel][( quote,][chart )][agreed])
+v(9 10 14 15 16): -2.6345880031585693, EP: -0.4015171527862549	 ([better][compete][voice][data][customers.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

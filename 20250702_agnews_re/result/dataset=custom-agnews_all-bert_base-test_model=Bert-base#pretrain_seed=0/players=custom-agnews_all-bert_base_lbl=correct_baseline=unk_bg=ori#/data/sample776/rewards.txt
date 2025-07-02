@@ -1,0 +1,28 @@
+---------- Players ----------
+Player 0: japanese
+Player 1: economy
+Player 2: close
+Player 3: stagnation,
+Player 4: according
+Player 5: revisions
+Player 6: official
+Player 7: figures
+Player 8: yesterday
+Player 9: cut
+Player 10: estimate
+Player 11: gdp
+Player 12: growth
+Player 13: 0. 1
+Player 14: per
+Player 15: cent.
+---------- Rewards ----------
+v(): -5.706206798553467	 ([])
+v(0 1 10 11 13 14 15): 3.200317621231079	 ([japanese][economy][estimate][gdp][0. 1][per][cent.])
+v(2 3 4 5 6 7 8 9 12): 6.490183353424072	 ([close][stagnation,][according][revisions][official][figures][yesterday][cut][growth])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 2.1881864070892334	 ([japanese][economy][close][stagnation,][according][revisions][official][figures][yesterday][cut][estimate][gdp][growth][0. 1][per][cent.])
+---------- Rewards-v() ----------
+v(2 3 4 5 6 7 8 9 12): 12.196390151977539, EP: 1.5449433326721191	 ([close][stagnation,][according][revisions][official][figures][yesterday][cut][growth])
+v(0 1 10 11 13 14 15): 8.906524658203125, EP: 1.128208875656128	 ([japanese][economy][estimate][gdp][0. 1][per][cent.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.894392967224121, EP: 1.0	 ([japanese][economy][close][stagnation,][according][revisions][official][figures][yesterday][cut][estimate][gdp][growth][0. 1][per][cent.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

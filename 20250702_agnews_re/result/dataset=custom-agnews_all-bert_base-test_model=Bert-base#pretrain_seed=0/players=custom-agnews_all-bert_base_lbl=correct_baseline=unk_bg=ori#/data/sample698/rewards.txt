@@ -1,0 +1,46 @@
+---------- Players ----------
+Player 0: rome
+Player 1: -
+Player 2: roma
+Player 3: hired
+Player 4: luigi
+Player 5: del
+Player 6: neri
+Player 7: coach
+Player 8: wednesday
+Player 9: replace
+Player 10: rudi
+Player 11: voeller,
+Player 12: resigned
+Player 13: last
+Player 14: sunday.
+Player 15: 54 - year - old
+Player 16: italian
+Player 17: coach
+Player 18: roma
+Player 19: officials
+Player 20: agreed
+Player 21: two - year
+Player 22: contract,
+Player 23: terms
+Player 24: immediately
+Player 25: disclosed.
+---------- Rewards ----------
+v(): -2.9994421005249023	 ([])
+v(1 2 4 7 17 18 20 23 24 25): 9.268255233764648	 ([-][roma][luigi][coach][coach][roma][agreed][terms][immediately][disclosed.])
+v(0 5 6 8 10 12 13 14 19 21): -7.956173419952393	 ([rome][del][neri][wednesday][rudi][resigned][last][sunday.][officials][two - year])
+v(3 9 11 15 16 22): -3.033081531524658	 ([hired][replace][voeller,][54 - year - old][italian][contract,])
+v(0 1 2 4 5 6 7 8 10 12 13 14 17 18 19 20 21 23 24 25): 9.725239753723145	 ([rome][-][roma][luigi][del][neri][coach][wednesday][rudi][resigned][last][sunday.][coach][roma][officials][agreed][two - year][terms][immediately][disclosed.])
+v(1 2 3 4 7 9 11 15 16 17 18 20 22 23 24 25): 9.734777450561523	 ([-][roma][hired][luigi][coach][replace][voeller,][54 - year - old][italian][coach][roma][agreed][contract,][terms][immediately][disclosed.])
+v(0 3 5 6 8 9 10 11 12 13 14 15 16 19 21 22): 4.783999919891357	 ([rome][hired][del][neri][wednesday][replace][rudi][voeller,][resigned][last][sunday.][54 - year - old][italian][officials][two - year][contract,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 9.269925117492676	 ([rome][-][roma][hired][luigi][del][neri][coach][wednesday][replace][rudi][voeller,][resigned][last][sunday.][54 - year - old][italian][coach][roma][officials][agreed][two - year][contract,][terms][immediately][disclosed.])
+---------- Rewards-v() ----------
+v(1 2 3 4 7 9 11 15 16 17 18 20 22 23 24 25): 12.734219551086426, EP: 1.0378872156143188	 ([-][roma][hired][luigi][coach][replace][voeller,][54 - year - old][italian][coach][roma][agreed][contract,][terms][immediately][disclosed.])
+v(0 1 2 4 5 6 7 8 10 12 13 14 17 18 19 20 21 23 24 25): 12.724681854248047, EP: 1.0371098518371582	 ([rome][-][roma][luigi][del][neri][coach][wednesday][rudi][resigned][last][sunday.][coach][roma][officials][agreed][two - year][terms][immediately][disclosed.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 12.269367218017578, EP: 1.0	 ([rome][-][roma][hired][luigi][del][neri][coach][wednesday][replace][rudi][voeller,][resigned][last][sunday.][54 - year - old][italian][coach][roma][officials][agreed][two - year][contract,][terms][immediately][disclosed.])
+v(1 2 4 7 17 18 20 23 24 25): 12.26769733428955, EP: 0.9998639225959778	 ([-][roma][luigi][coach][coach][roma][agreed][terms][immediately][disclosed.])
+v(0 3 5 6 8 9 10 11 12 13 14 15 16 19 21 22): 7.78344202041626, EP: 0.634380042552948	 ([rome][hired][del][neri][wednesday][replace][rudi][voeller,][resigned][last][sunday.][54 - year - old][italian][officials][two - year][contract,])
+v(0 5 6 8 10 12 13 14 19 21): -4.95673131942749, EP: -0.4039924144744873	 ([rome][del][neri][wednesday][rudi][resigned][last][sunday.][officials][two - year])
+v(3 9 11 15 16 22): -0.03363943099975586, EP: -0.0027417412493377924	 ([hired][replace][voeller,][54 - year - old][italian][contract,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

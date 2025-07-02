@@ -1,0 +1,46 @@
+Execution time: 2025-07-02 19:41:30
+prompt: [CLS] japans dominant wireless operator, ntt docomo inc., has reached a basic agreement to offer its popular i - mode mobile internet technology to britains mmo2 plc. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2900 decoded_text: japan
+idx:2 input_id:2015 decoded_text: ##s
+idx:3 input_id:7444 decoded_text: dominant
+idx:4 input_id:9949 decoded_text: wireless
+idx:5 input_id:6872 decoded_text: operator
+idx:6 input_id:1010 decoded_text: ,
+idx:7 input_id:23961 decoded_text: nt
+idx:8 input_id:2102 decoded_text: ##t
+idx:9 input_id:9986 decoded_text: doc
+idx:10 input_id:19506 decoded_text: ##omo
+idx:11 input_id:4297 decoded_text: inc
+idx:12 input_id:1012 decoded_text: .
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:2038 decoded_text: has
+idx:15 input_id:2584 decoded_text: reached
+idx:16 input_id:1037 decoded_text: a
+idx:17 input_id:3937 decoded_text: basic
+idx:18 input_id:3820 decoded_text: agreement
+idx:19 input_id:2000 decoded_text: to
+idx:20 input_id:3749 decoded_text: offer
+idx:21 input_id:2049 decoded_text: its
+idx:22 input_id:2759 decoded_text: popular
+idx:23 input_id:1045 decoded_text: i
+idx:24 input_id:1011 decoded_text: -
+idx:25 input_id:5549 decoded_text: mode
+idx:26 input_id:4684 decoded_text: mobile
+idx:27 input_id:4274 decoded_text: internet
+idx:28 input_id:2974 decoded_text: technology
+idx:29 input_id:2000 decoded_text: to
+idx:30 input_id:3725 decoded_text: britain
+idx:31 input_id:2015 decoded_text: ##s
+idx:32 input_id:3461 decoded_text: mm
+idx:33 input_id:2080 decoded_text: ##o
+idx:34 input_id:2475 decoded_text: ##2
+idx:35 input_id:15492 decoded_text: plc
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.730940341949463, -3.7006514072418213, 2.2191195487976074, 5.34528923034668]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

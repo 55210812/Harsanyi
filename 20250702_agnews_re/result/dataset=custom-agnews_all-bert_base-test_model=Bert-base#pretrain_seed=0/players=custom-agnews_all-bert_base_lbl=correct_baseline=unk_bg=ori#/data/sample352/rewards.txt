@@ -1,0 +1,52 @@
+---------- Players ----------
+Player 0: black
+Player 1: caps
+Player 2: coach
+Player 3: john
+Player 4: bracewell
+Player 5: forced
+Player 6: make
+Player 7: tough
+Player 8: decisions
+Player 9: naming
+Player 10: side
+Player 11: first
+Player 12: test
+Player 13: australia
+Player 14: brisbane
+Player 15: thursday.
+---------- Rewards ----------
+v(): -3.1007003784179688	 ([])
+v(0 5 6 9 10): 2.9258382320404053	 ([black][forced][make][naming][side])
+v(1 2 3 7 8 15): 8.189728736877441	 ([caps][coach][john][tough][decisions][thursday.])
+v(4 13 14): 9.333861351013184	 ([bracewell][australia][brisbane])
+v(11 12): -1.3423120975494385	 ([first][test])
+v(0 1 2 3 5 6 7 8 9 10 15): 9.53899097442627	 ([black][caps][coach][john][forced][make][tough][decisions][naming][side][thursday.])
+v(0 4 5 6 9 10 13 14): 9.428935050964355	 ([black][bracewell][forced][make][naming][side][australia][brisbane])
+v(0 5 6 9 10 11 12): 7.739479064941406	 ([black][forced][make][naming][side][first][test])
+v(1 2 3 4 7 8 13 14 15): 9.456308364868164	 ([caps][coach][john][bracewell][tough][decisions][australia][brisbane][thursday.])
+v(1 2 3 7 8 11 12 15): 8.898682594299316	 ([caps][coach][john][tough][decisions][first][test][thursday.])
+v(4 11 12 13 14): 9.320754051208496	 ([bracewell][first][test][australia][brisbane])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 15): 9.690530776977539	 ([black][caps][coach][john][bracewell][forced][make][tough][decisions][naming][side][australia][brisbane][thursday.])
+v(0 1 2 3 5 6 7 8 9 10 11 12 15): 9.619026184082031	 ([black][caps][coach][john][forced][make][tough][decisions][naming][side][first][test][thursday.])
+v(0 4 5 6 9 10 11 12 13 14): 9.504157066345215	 ([black][bracewell][forced][make][naming][side][first][test][australia][brisbane])
+v(1 2 3 4 7 8 11 12 13 14 15): 9.594037055969238	 ([caps][coach][john][bracewell][tough][decisions][first][test][australia][brisbane][thursday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.489551544189453	 ([black][caps][coach][john][bracewell][forced][make][tough][decisions][naming][side][first][test][australia][brisbane][thursday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 15): 12.791231155395508, EP: 1.015963077545166	 ([black][caps][coach][john][bracewell][forced][make][tough][decisions][naming][side][australia][brisbane][thursday.])
+v(0 1 2 3 5 6 7 8 9 10 11 12 15): 12.7197265625, EP: 1.0102837085723877	 ([black][caps][coach][john][forced][make][tough][decisions][naming][side][first][test][thursday.])
+v(1 2 3 4 7 8 11 12 13 14 15): 12.694737434387207, EP: 1.0082988739013672	 ([caps][coach][john][bracewell][tough][decisions][first][test][australia][brisbane][thursday.])
+v(0 1 2 3 5 6 7 8 9 10 15): 12.639691352844238, EP: 1.0039267539978027	 ([black][caps][coach][john][forced][make][tough][decisions][naming][side][thursday.])
+v(0 4 5 6 9 10 11 12 13 14): 12.604857444763184, EP: 1.0011600255966187	 ([black][bracewell][forced][make][naming][side][first][test][australia][brisbane])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 12.590251922607422, EP: 1.0	 ([black][caps][coach][john][bracewell][forced][make][tough][decisions][naming][side][first][test][australia][brisbane][thursday.])
+v(1 2 3 4 7 8 13 14 15): 12.557008743286133, EP: 0.9973596334457397	 ([caps][coach][john][bracewell][tough][decisions][australia][brisbane][thursday.])
+v(0 4 5 6 9 10 13 14): 12.529635429382324, EP: 0.9951854348182678	 ([black][bracewell][forced][make][naming][side][australia][brisbane])
+v(4 13 14): 12.434561729431152, EP: 0.9876340627670288	 ([bracewell][australia][brisbane])
+v(4 11 12 13 14): 12.421454429626465, EP: 0.9865930080413818	 ([bracewell][first][test][australia][brisbane])
+v(1 2 3 7 8 11 12 15): 11.999382972717285, EP: 0.9530693292617798	 ([caps][coach][john][tough][decisions][first][test][thursday.])
+v(1 2 3 7 8 15): 11.29042911529541, EP: 0.896759569644928	 ([caps][coach][john][tough][decisions][thursday.])
+v(0 5 6 9 10 11 12): 10.840179443359375, EP: 0.8609977960586548	 ([black][forced][make][naming][side][first][test])
+v(0 5 6 9 10): 6.026538848876953, EP: 0.4786670506000519	 ([black][forced][make][naming][side])
+v(11 12): 1.7583882808685303, EP: 0.13966268301010132	 ([first][test])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

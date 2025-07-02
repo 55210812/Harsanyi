@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: frankfurt / tokyo
+Player 1: ( reuters )
+Player 2: -
+Player 3: german
+Player 4: compact
+Player 5: disc
+Player 6: dvd
+Player 7: equipment
+Player 8: company
+Player 9: singulus
+Player 10: japan's
+Player 11: sony
+Player 12: teamed
+Player 13: develop
+Player 14: new
+Player 15: technology
+Player 16: music
+Player 17: video
+Player 18: discs,
+Player 19: singulus
+Player 20: said
+Player 21: tuesday.
+---------- Rewards ----------
+v(): 3.6018896102905273	 ([])
+v(0 1 5 6 8 16 17 18 21): 0.10367655754089355	 ([frankfurt / tokyo][( reuters )][disc][dvd][company][music][video][discs,][tuesday.])
+v(2 3 4 7 9 10 11 15 19 20): 5.793294429779053	 ([-][german][compact][equipment][singulus][japan's][sony][technology][singulus][said])
+v(12 13 14): 5.655380725860596	 ([teamed][develop][new])
+v(0 1 2 3 4 5 6 7 8 9 10 11 15 16 17 18 19 20 21): 4.3543500900268555	 ([frankfurt / tokyo][( reuters )][-][german][compact][disc][dvd][equipment][company][singulus][japan's][sony][technology][music][video][discs,][singulus][said][tuesday.])
+v(0 1 5 6 8 12 13 14 16 17 18 21): 1.2119522094726562	 ([frankfurt / tokyo][( reuters )][disc][dvd][company][teamed][develop][new][music][video][discs,][tuesday.])
+v(2 3 4 7 9 10 11 12 13 14 15 19 20): 6.46858024597168	 ([-][german][compact][equipment][singulus][japan's][sony][teamed][develop][new][technology][singulus][said])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 4.884369373321533	 ([frankfurt / tokyo][( reuters )][-][german][compact][disc][dvd][equipment][company][singulus][japan's][sony][teamed][develop][new][technology][music][video][discs,][singulus][said][tuesday.])
+---------- Rewards-v() ----------
+v(0 1 5 6 8 16 17 18 21): -3.498213052749634, EP: -2.727694511413574	 ([frankfurt / tokyo][( reuters )][disc][dvd][company][music][video][discs,][tuesday.])
+v(2 3 4 7 9 10 11 12 13 14 15 19 20): 2.8666906356811523, EP: 2.235271692276001	 ([-][german][compact][equipment][singulus][japan's][sony][teamed][develop][new][technology][singulus][said])
+v(0 1 5 6 8 12 13 14 16 17 18 21): -2.389937400817871, EP: -1.8635283708572388	 ([frankfurt / tokyo][( reuters )][disc][dvd][company][teamed][develop][new][music][video][discs,][tuesday.])
+v(2 3 4 7 9 10 11 15 19 20): 2.1914048194885254, EP: 1.7087246179580688	 ([-][german][compact][equipment][singulus][japan's][sony][technology][singulus][said])
+v(12 13 14): 2.0534911155700684, EP: 1.6011879444122314	 ([teamed][develop][new])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 1.2824797630310059, EP: 1.0	 ([frankfurt / tokyo][( reuters )][-][german][compact][disc][dvd][equipment][company][singulus][japan's][sony][teamed][develop][new][technology][music][video][discs,][singulus][said][tuesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 15 16 17 18 19 20 21): 0.7524604797363281, EP: 0.5867230892181396	 ([frankfurt / tokyo][( reuters )][-][german][compact][disc][dvd][equipment][company][singulus][japan's][sony][technology][music][video][discs,][singulus][said][tuesday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

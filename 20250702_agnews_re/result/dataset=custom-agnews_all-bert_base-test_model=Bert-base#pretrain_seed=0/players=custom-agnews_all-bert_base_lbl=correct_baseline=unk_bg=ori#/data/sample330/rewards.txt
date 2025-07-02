@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: red
+Player 1: sox,
+Player 2: team
+Player 3: perfected
+Player 4: heartbreak,
+Player 5: silenced
+Player 6: cardinals,
+Player 7: 3 - 0,
+Player 8: game
+Player 9: 4
+Player 10: win
+Player 11: first
+Player 12: world
+Player 13: series
+Player 14: since
+Player 15: 1918.
+---------- Rewards ----------
+v(): -6.082761764526367	 ([])
+v(4 6 8 10): -9.96953296661377	 ([heartbreak,][cardinals,][game][win])
+v(2 3 5 7 11 12 13): -6.674128532409668	 ([team][perfected][silenced][3 - 0,][first][world][series])
+v(0 1 9 14 15): -9.44205093383789	 ([red][sox,][4][since][1918.])
+v(2 3 4 5 6 7 8 10 11 12 13): -7.686183452606201	 ([team][perfected][heartbreak,][silenced][cardinals,][3 - 0,][game][win][first][world][series])
+v(0 1 4 6 8 9 10 14 15): -9.7677640914917	 ([red][sox,][heartbreak,][cardinals,][game][4][win][since][1918.])
+v(0 1 2 3 5 7 9 11 12 13 14 15): -5.773330211639404	 ([red][sox,][team][perfected][silenced][3 - 0,][4][first][world][series][since][1918.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 1.7139050960540771	 ([red][sox,][team][perfected][heartbreak,][silenced][cardinals,][3 - 0,][game][4][win][first][world][series][since][1918.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.796667098999023, EP: 1.0	 ([red][sox,][team][perfected][heartbreak,][silenced][cardinals,][3 - 0,][game][4][win][first][world][series][since][1918.])
+v(4 6 8 10): -3.8867712020874023, EP: -0.4985170066356659	 ([heartbreak,][cardinals,][game][win])
+v(0 1 4 6 8 9 10 14 15): -3.685002326965332, EP: -0.47263815999031067	 ([red][sox,][heartbreak,][cardinals,][game][4][win][since][1918.])
+v(0 1 9 14 15): -3.3592891693115234, EP: -0.4308622181415558	 ([red][sox,][4][since][1918.])
+v(2 3 4 5 6 7 8 10 11 12 13): -1.603421688079834, EP: -0.20565475523471832	 ([team][perfected][heartbreak,][silenced][cardinals,][3 - 0,][game][win][first][world][series])
+v(2 3 5 7 11 12 13): -0.5913667678833008, EP: -0.07584866136312485	 ([team][perfected][silenced][3 - 0,][first][world][series])
+v(0 1 2 3 5 7 9 11 12 13 14 15): 0.3094315528869629, EP: 0.03968767076730728	 ([red][sox,][team][perfected][silenced][3 - 0,][4][first][world][series][since][1918.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

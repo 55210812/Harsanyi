@@ -1,0 +1,47 @@
+---------- Players ----------
+Player 0: senior
+Player 1: chinese
+Player 2: official
+Player 3: tells
+Player 4: bbc
+Player 5: country's
+Player 6: environmental
+Player 7: problems
+Player 8: reached
+Player 9: crisis
+Player 10: levels.
+---------- Rewards ----------
+v(): -6.941921234130859	 ([])
+v(2 3 4 6): -4.334901332855225	 ([official][tells][bbc][environmental])
+v(9 10): -5.909107208251953	 ([crisis][levels.])
+v(0 1): 5.178656578063965	 ([senior][chinese])
+v(5 7 8): 0.4793257713317871	 ([country's][problems][reached])
+v(2 3 4 6 9 10): -3.2917861938476562	 ([official][tells][bbc][environmental][crisis][levels.])
+v(0 1 2 3 4 6): -2.1905860900878906	 ([senior][chinese][official][tells][bbc][environmental])
+v(2 3 4 5 6 7 8): -0.15153193473815918	 ([official][tells][bbc][country's][environmental][problems][reached])
+v(0 1 9 10): -1.9103621244430542	 ([senior][chinese][crisis][levels.])
+v(5 7 8 9 10): 2.5272510051727295	 ([country's][problems][reached][crisis][levels.])
+v(0 1 5 7 8): 2.5276684761047363	 ([senior][chinese][country's][problems][reached])
+v(0 1 2 3 4 6 9 10): -2.3147149085998535	 ([senior][chinese][official][tells][bbc][environmental][crisis][levels.])
+v(2 3 4 5 6 7 8 9 10): -1.6446375846862793	 ([official][tells][bbc][country's][environmental][problems][reached][crisis][levels.])
+v(0 1 2 3 4 5 6 7 8): 0.2626614570617676	 ([senior][chinese][official][tells][bbc][country's][environmental][problems][reached])
+v(0 1 5 7 8 9 10): 3.9727542400360107	 ([senior][chinese][country's][problems][reached][crisis][levels.])
+v(0 1 2 3 4 5 6 7 8 9 10): -0.38488268852233887	 ([senior][chinese][official][tells][bbc][country's][environmental][problems][reached][crisis][levels.])
+---------- Rewards-v() ----------
+v(0 1): 12.120577812194824, EP: 1.8484835624694824	 ([senior][chinese])
+v(0 1 5 7 8 9 10): 10.91467571258545, EP: 1.6645740270614624	 ([senior][chinese][country's][problems][reached][crisis][levels.])
+v(0 1 5 7 8): 9.469589233398438, EP: 1.4441869258880615	 ([senior][chinese][country's][problems][reached])
+v(5 7 8 9 10): 9.469172477722168, EP: 1.444123387336731	 ([country's][problems][reached][crisis][levels.])
+v(5 7 8): 7.4212470054626465, EP: 1.1317986249923706	 ([country's][problems][reached])
+v(0 1 2 3 4 5 6 7 8): 7.204582691192627, EP: 1.0987555980682373	 ([senior][chinese][official][tells][bbc][country's][environmental][problems][reached])
+v(2 3 4 5 6 7 8): 6.790389060974121, EP: 1.0355877876281738	 ([official][tells][bbc][country's][environmental][problems][reached])
+v(0 1 2 3 4 5 6 7 8 9 10): 6.557038307189941, EP: 1.0	 ([senior][chinese][official][tells][bbc][country's][environmental][problems][reached][crisis][levels.])
+v(2 3 4 5 6 7 8 9 10): 5.29728364944458, EP: 0.8078774809837341	 ([official][tells][bbc][country's][environmental][problems][reached][crisis][levels.])
+v(0 1 9 10): 5.031558990478516, EP: 0.7673524022102356	 ([senior][chinese][crisis][levels.])
+v(0 1 2 3 4 6): 4.751335144042969, EP: 0.7246160507202148	 ([senior][chinese][official][tells][bbc][environmental])
+v(0 1 2 3 4 6 9 10): 4.627206325531006, EP: 0.7056854367256165	 ([senior][chinese][official][tells][bbc][environmental][crisis][levels.])
+v(2 3 4 6 9 10): 3.650135040283203, EP: 0.5566743612289429	 ([official][tells][bbc][environmental][crisis][levels.])
+v(2 3 4 6): 2.6070199012756348, EP: 0.39759108424186707	 ([official][tells][bbc][environmental])
+v(9 10): 1.0328140258789062, EP: 0.15751227736473083	 ([crisis][levels.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

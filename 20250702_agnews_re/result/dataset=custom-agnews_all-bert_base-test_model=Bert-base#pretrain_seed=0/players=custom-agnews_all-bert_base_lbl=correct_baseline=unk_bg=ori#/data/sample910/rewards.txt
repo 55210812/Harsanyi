@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: end
+Player 1: century
+Player 2: one
+Player 3: 10
+Player 4: species
+Player 5: birds
+Player 6: world
+Player 7: extinct
+Player 8: 15
+Player 9: per
+Player 10: cent
+Player 11: brink
+Player 12: extinction
+Player 13: according
+Player 14: one
+Player 15: largest
+Player 16: studies
+Player 17: avian
+Player 18: biodiversity.
+---------- Rewards ----------
+v(): 5.318972110748291	 ([])
+v(4 5 7 8 9 10 12 14 15 16 17): 7.790853500366211	 ([species][birds][extinct][15][per][cent][extinction][one][largest][studies][avian])
+v(0 1 2 3 6 11 13 18): 4.576554298400879	 ([end][century][one][10][world][brink][according][biodiversity.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 4.374228477478027	 ([end][century][one][10][species][birds][world][extinct][15][per][cent][brink][extinction][according][one][largest][studies][avian][biodiversity.])
+---------- Rewards-v() ----------
+v(4 5 7 8 9 10 12 14 15 16 17): 2.47188138961792, EP: -2.616457223892212	 ([species][birds][extinct][15][per][cent][extinction][one][largest][studies][avian])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): -0.9447436332702637, EP: 1.0	 ([end][century][one][10][species][birds][world][extinct][15][per][cent][brink][extinction][according][one][largest][studies][avian][biodiversity.])
+v(0 1 2 3 6 11 13 18): -0.7424178123474121, EP: 0.7858405113220215	 ([end][century][one][10][world][brink][according][biodiversity.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

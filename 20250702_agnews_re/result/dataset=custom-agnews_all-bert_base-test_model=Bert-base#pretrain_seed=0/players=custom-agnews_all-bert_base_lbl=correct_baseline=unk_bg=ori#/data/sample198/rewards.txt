@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: singapore
+Player 1: ( reuters )
+Player 2: -
+Player 3: oil
+Player 4: prices
+Player 5: rallied
+Player 6: monday,
+Player 7: clawing
+Player 8: back
+Player 9: toward
+Player 10: \ $ 50
+Player 11: barrel
+Player 12: heightened
+Player 13: concerns
+Player 14: low
+Player 15: supplies
+Player 16: winter
+Player 17: heating
+Player 18: fuels.
+---------- Rewards ----------
+v(): -3.22800612449646	 ([])
+v(3 4 10 11 13 16 17 18): 7.843418598175049	 ([oil][prices][\ $ 50][barrel][concerns][winter][heating][fuels.])
+v(0 1 2 5 6 7 8 9 12 14 15): 1.6905105113983154	 ([singapore][( reuters )][-][rallied][monday,][clawing][back][toward][heightened][low][supplies])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.035109519958496	 ([singapore][( reuters )][-][oil][prices][rallied][monday,][clawing][back][toward][\ $ 50][barrel][heightened][concerns][low][supplies][winter][heating][fuels.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 11.263115882873535, EP: 1.0	 ([singapore][( reuters )][-][oil][prices][rallied][monday,][clawing][back][toward][\ $ 50][barrel][heightened][concerns][low][supplies][winter][heating][fuels.])
+v(3 4 10 11 13 16 17 18): 11.07142448425293, EP: 0.9829806089401245	 ([oil][prices][\ $ 50][barrel][concerns][winter][heating][fuels.])
+v(0 1 2 5 6 7 8 9 12 14 15): 4.918516635894775, EP: 0.43669235706329346	 ([singapore][( reuters )][-][rallied][monday,][clawing][back][toward][heightened][low][supplies])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

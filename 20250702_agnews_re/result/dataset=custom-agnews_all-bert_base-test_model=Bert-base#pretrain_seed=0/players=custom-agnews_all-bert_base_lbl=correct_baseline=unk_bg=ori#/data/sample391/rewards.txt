@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: next
+Player 1: century
+Player 2: definitely
+Player 3: birds
+Player 4: changing
+Player 5: world
+Player 6: takes
+Player 7: toll
+Player 8: many
+Player 9: species.
+Player 10: 2100,
+Player 11: 10
+Player 12: percent
+Player 13: bird
+Player 14: species
+Player 15: probably
+Player 16: extinct,
+Player 17: killed
+Player 18: habitat
+Player 19: loss,
+Player 20: hunting
+---------- Rewards ----------
+v(): 3.4273228645324707	 ([])
+v(1 4 5 9 13 14 15 16 18): 7.733976364135742	 ([century][changing][world][species.][bird][species][probably][extinct,][habitat])
+v(6 7 8 10 19): 5.555618762969971	 ([takes][toll][many][2100,][loss,])
+v(0 2 3 11 12 17 20): 5.7122955322265625	 ([next][definitely][birds][10][percent][killed][hunting])
+v(1 4 5 6 7 8 9 10 13 14 15 16 18 19): 8.147566795349121	 ([century][changing][world][takes][toll][many][species.][2100,][bird][species][probably][extinct,][habitat][loss,])
+v(0 1 2 3 4 5 9 11 12 13 14 15 16 17 18 20): 7.652528285980225	 ([next][century][definitely][birds][changing][world][species.][10][percent][bird][species][probably][extinct,][killed][habitat][hunting])
+v(0 2 3 6 7 8 10 11 12 17 19 20): 6.201298236846924	 ([next][definitely][birds][takes][toll][many][2100,][10][percent][killed][loss,][hunting])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.713749408721924	 ([next][century][definitely][birds][changing][world][takes][toll][many][species.][2100,][10][percent][bird][species][probably][extinct,][killed][habitat][loss,][hunting])
+---------- Rewards-v() ----------
+v(1 4 5 6 7 8 9 10 13 14 15 16 18 19): 4.72024393081665, EP: 1.1012072563171387	 ([century][changing][world][takes][toll][many][species.][2100,][bird][species][probably][extinct,][habitat][loss,])
+v(1 4 5 9 13 14 15 16 18): 4.3066534996032715, EP: 1.0047187805175781	 ([century][changing][world][species.][bird][species][probably][extinct,][habitat])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 4.286426544189453, EP: 1.0	 ([next][century][definitely][birds][changing][world][takes][toll][many][species.][2100,][10][percent][bird][species][probably][extinct,][killed][habitat][loss,][hunting])
+v(0 1 2 3 4 5 9 11 12 13 14 15 16 17 18 20): 4.225205421447754, EP: 0.9857174158096313	 ([next][century][definitely][birds][changing][world][species.][10][percent][bird][species][probably][extinct,][killed][habitat][hunting])
+v(0 2 3 6 7 8 10 11 12 17 19 20): 2.773975372314453, EP: 0.647153377532959	 ([next][definitely][birds][takes][toll][many][2100,][10][percent][killed][loss,][hunting])
+v(0 2 3 11 12 17 20): 2.284972667694092, EP: 0.5330716967582703	 ([next][definitely][birds][10][percent][killed][hunting])
+v(6 7 8 10 19): 2.1282958984375, EP: 0.49651986360549927	 ([takes][toll][many][2100,][loss,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

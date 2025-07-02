@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: interstate
+Player 1: bakeries
+Player 2: corp.,
+Player 3: parent
+Player 4: company
+Player 5: wonder
+Player 6: bread
+Player 7: plant
+Player 8: downtown
+Player 9: columbus,
+Player 10: wednesday
+Player 11: filed
+Player 12: chapter
+Player 13: 11
+Player 14: bankruptcy
+Player 15: protection.
+---------- Rewards ----------
+v(): -4.472701549530029	 ([])
+v(1 2 4 6 14): 6.164308547973633	 ([bakeries][corp.,][company][bread][bankruptcy])
+v(3 7 8 9 11 13 15): 7.112948894500732	 ([parent][plant][downtown][columbus,][filed][11][protection.])
+v(0 5 10 12): 3.65673828125	 ([interstate][wonder][wednesday][chapter])
+v(1 2 3 4 6 7 8 9 11 13 14 15): 8.187234878540039	 ([bakeries][corp.,][parent][company][bread][plant][downtown][columbus,][filed][11][bankruptcy][protection.])
+v(0 1 2 4 5 6 10 12 14): 8.415515899658203	 ([interstate][bakeries][corp.,][company][wonder][bread][wednesday][chapter][bankruptcy])
+v(0 3 5 7 8 9 10 11 12 13 15): 7.07889986038208	 ([interstate][parent][wonder][plant][downtown][columbus,][wednesday][filed][chapter][11][protection.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 8.520551681518555	 ([interstate][bakeries][corp.,][parent][company][wonder][bread][plant][downtown][columbus,][wednesday][filed][chapter][11][bankruptcy][protection.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 12.993253707885742, EP: 1.0	 ([interstate][bakeries][corp.,][parent][company][wonder][bread][plant][downtown][columbus,][wednesday][filed][chapter][11][bankruptcy][protection.])
+v(0 1 2 4 5 6 10 12 14): 12.88821792602539, EP: 0.9919161200523376	 ([interstate][bakeries][corp.,][company][wonder][bread][wednesday][chapter][bankruptcy])
+v(1 2 3 4 6 7 8 9 11 13 14 15): 12.659936904907227, EP: 0.974346935749054	 ([bakeries][corp.,][parent][company][bread][plant][downtown][columbus,][filed][11][bankruptcy][protection.])
+v(3 7 8 9 11 13 15): 11.585650444030762, EP: 0.89166659116745	 ([parent][plant][downtown][columbus,][filed][11][protection.])
+v(0 3 5 7 8 9 10 11 12 13 15): 11.55160140991211, EP: 0.8890460729598999	 ([interstate][parent][wonder][plant][downtown][columbus,][wednesday][filed][chapter][11][protection.])
+v(1 2 4 6 14): 10.63701057434082, EP: 0.8186564445495605	 ([bakeries][corp.,][company][bread][bankruptcy])
+v(0 5 10 12): 8.129440307617188, EP: 0.6256662607192993	 ([interstate][wonder][wednesday][chapter])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

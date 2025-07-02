@@ -1,0 +1,47 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: new
+Player 3: england
+Player 4: patriots
+Player 5: stopped
+Player 6: late
+Player 7: seattle
+Player 8: comeback
+Player 9: beat
+Player 10: seahawks
+Player 11: 30 - 20
+Player 12: sunday,
+Player 13: running
+Player 14: streak
+Player 15: 20
+Player 16: wins,
+Player 17: including
+Player 18: playoffs.
+Player 19: also
+Player 20: tied
+Player 21: league
+Player 22: record
+Player 23: 17th
+Player 24: consecutive
+Player 25: regular - season
+Player 26: victory.
+---------- Rewards ----------
+v(): -3.0934906005859375	 ([])
+v(0 2 10 16 18 21 25 26): 9.397706985473633	 ([ap][new][seahawks][wins,][playoffs.][league][regular - season][victory.])
+v(5 6 8 9 13 14 15 17 19 22 23 24): 0.09142374992370605	 ([stopped][late][comeback][beat][running][streak][20][including][also][record][17th][consecutive])
+v(1 3 4 7 11 12 20): 9.501909255981445	 ([-][england][patriots][seattle][30 - 20][sunday,][tied])
+v(0 2 5 6 8 9 10 13 14 15 16 17 18 19 21 22 23 24 25 26): 9.625650405883789	 ([ap][new][stopped][late][comeback][beat][seahawks][running][streak][20][wins,][including][playoffs.][also][league][record][17th][consecutive][regular - season][victory.])
+v(0 1 2 3 4 7 10 11 12 16 18 20 21 25 26): 9.314713478088379	 ([ap][-][new][england][patriots][seattle][seahawks][30 - 20][sunday,][wins,][playoffs.][tied][league][regular - season][victory.])
+v(1 3 4 5 6 7 8 9 11 12 13 14 15 17 19 20 22 23 24): 9.661661148071289	 ([-][england][patriots][stopped][late][seattle][comeback][beat][30 - 20][sunday,][running][streak][20][including][also][tied][record][17th][consecutive])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 9.51623249053955	 ([ap][-][new][england][patriots][stopped][late][seattle][comeback][beat][seahawks][30 - 20][sunday,][running][streak][20][wins,][including][playoffs.][also][tied][league][record][17th][consecutive][regular - season][victory.])
+---------- Rewards-v() ----------
+v(1 3 4 5 6 7 8 9 11 12 13 14 15 17 19 20 22 23 24): 12.755151748657227, EP: 1.0115330219268799	 ([-][england][patriots][stopped][late][seattle][comeback][beat][30 - 20][sunday,][running][streak][20][including][also][tied][record][17th][consecutive])
+v(0 2 5 6 8 9 10 13 14 15 16 17 18 19 21 22 23 24 25 26): 12.719141006469727, EP: 1.0086772441864014	 ([ap][new][stopped][late][comeback][beat][seahawks][running][streak][20][wins,][including][playoffs.][also][league][record][17th][consecutive][regular - season][victory.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 12.609723091125488, EP: 1.0	 ([ap][-][new][england][patriots][stopped][late][seattle][comeback][beat][seahawks][30 - 20][sunday,][running][streak][20][wins,][including][playoffs.][also][tied][league][record][17th][consecutive][regular - season][victory.])
+v(1 3 4 7 11 12 20): 12.595399856567383, EP: 0.9988641142845154	 ([-][england][patriots][seattle][30 - 20][sunday,][tied])
+v(0 2 10 16 18 21 25 26): 12.49119758605957, EP: 0.9906004667282104	 ([ap][new][seahawks][wins,][playoffs.][league][regular - season][victory.])
+v(0 1 2 3 4 7 10 11 12 16 18 20 21 25 26): 12.408204078674316, EP: 0.9840187430381775	 ([ap][-][new][england][patriots][seattle][seahawks][30 - 20][sunday,][wins,][playoffs.][tied][league][regular - season][victory.])
+v(5 6 8 9 13 14 15 17 19 22 23 24): 3.1849143505096436, EP: 0.25257608294487	 ([stopped][late][comeback][beat][running][streak][20][including][also][record][17th][consecutive])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

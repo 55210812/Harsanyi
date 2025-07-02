@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: hicham
+Player 1: el
+Player 2: guerrouj
+Player 3: shocks
+Player 4: world
+Player 5: record
+Player 6: holder
+Player 7: kenenisa
+Player 8: bekele
+Player 9: win
+Player 10: 5, 000m.
+---------- Rewards ----------
+v(): -6.082444190979004	 ([])
+v(0 1 2 9): -0.010566234588623047	 ([hicham][el][guerrouj][win])
+v(6 7 8): 1.9860198497772217	 ([holder][kenenisa][bekele])
+v(3 4 5 10): 4.364718437194824	 ([shocks][world][record][5, 000m.])
+v(0 1 2 6 7 8 9): -0.9006357192993164	 ([hicham][el][guerrouj][holder][kenenisa][bekele][win])
+v(0 1 2 3 4 5 9 10): 6.361547946929932	 ([hicham][el][guerrouj][shocks][world][record][win][5, 000m.])
+v(3 4 5 6 7 8 10): 5.131136894226074	 ([shocks][world][record][holder][kenenisa][bekele][5, 000m.])
+v(0 1 2 3 4 5 6 7 8 9 10): 6.099878787994385	 ([hicham][el][guerrouj][shocks][world][record][holder][kenenisa][bekele][win][5, 000m.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 9 10): 12.443992614746094, EP: 1.0214793682098389	 ([hicham][el][guerrouj][shocks][world][record][win][5, 000m.])
+v(0 1 2 3 4 5 6 7 8 9 10): 12.182323455810547, EP: 1.0	 ([hicham][el][guerrouj][shocks][world][record][holder][kenenisa][bekele][win][5, 000m.])
+v(3 4 5 6 7 8 10): 11.213581085205078, EP: 0.9204796552658081	 ([shocks][world][record][holder][kenenisa][bekele][5, 000m.])
+v(3 4 5 10): 10.447162628173828, EP: 0.857567310333252	 ([shocks][world][record][5, 000m.])
+v(6 7 8): 8.068464279174805, EP: 0.6623091697692871	 ([holder][kenenisa][bekele])
+v(0 1 2 9): 6.071877956390381, EP: 0.49841707944869995	 ([hicham][el][guerrouj][win])
+v(0 1 2 6 7 8 9): 5.1818084716796875, EP: 0.4253546893596649	 ([hicham][el][guerrouj][holder][kenenisa][bekele][win])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

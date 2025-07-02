@@ -1,0 +1,65 @@
+---------- Players ----------
+Player 0: lagos,
+Player 1: 11
+Player 2: oct
+Player 3: 2004
+Player 4: ( irin )
+Player 5: -
+Player 6: several
+Player 7: nigeria
+Player 8: # 39 ; s
+Player 9: biggest
+Player 10: cities
+Player 11: paralysed
+Player 12: monday
+Player 13: labour
+Player 14: unions
+Player 15: began
+Player 16: four - day
+Player 17: general
+Player 18: strike
+Player 19: protest
+Player 20: latest
+Player 21: fuel
+Player 22: price
+Player 23: increases
+Player 24: president
+Player 25: olusegun
+Player 26: obasanjos
+Player 27: deregulation
+Player 28: programme.
+---------- Rewards ----------
+v(): -5.789090156555176	 ([])
+v(14 15 16 17 18 19 25 26 28): 7.3828582763671875	 ([unions][began][four - day][general][strike][protest][olusegun][obasanjos][programme.])
+v(1 2 4 5 6 7 8 10 13 27): 5.019920349121094	 ([11][oct][( irin )][-][several][nigeria][# 39 ; s][cities][labour][deregulation])
+v(9 12 21 22 24): -3.9551191329956055	 ([biggest][monday][fuel][price][president])
+v(0 3 11 20 23): -2.025402307510376	 ([lagos,][2004][paralysed][latest][increases])
+v(1 2 4 5 6 7 8 10 13 14 15 16 17 18 19 25 26 27 28): 8.241771697998047	 ([11][oct][( irin )][-][several][nigeria][# 39 ; s][cities][labour][unions][began][four - day][general][strike][protest][olusegun][obasanjos][deregulation][programme.])
+v(9 12 14 15 16 17 18 19 21 22 24 25 26 28): 6.00009822845459	 ([biggest][monday][unions][began][four - day][general][strike][protest][fuel][price][president][olusegun][obasanjos][programme.])
+v(0 3 11 14 15 16 17 18 19 20 23 25 26 28): 5.850343704223633	 ([lagos,][2004][paralysed][unions][began][four - day][general][strike][protest][latest][increases][olusegun][obasanjos][programme.])
+v(1 2 4 5 6 7 8 9 10 12 13 21 22 24 27): 7.861365795135498	 ([11][oct][( irin )][-][several][nigeria][# 39 ; s][biggest][cities][monday][labour][fuel][price][president][deregulation])
+v(0 1 2 3 4 5 6 7 8 10 11 13 20 23 27): 6.531266689300537	 ([lagos,][11][oct][2004][( irin )][-][several][nigeria][# 39 ; s][cities][paralysed][labour][latest][increases][deregulation])
+v(0 3 9 11 12 20 21 22 23 24): 0.0041120052337646484	 ([lagos,][2004][biggest][paralysed][monday][latest][fuel][price][increases][president])
+v(1 2 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 21 22 24 25 26 27 28): 8.056962966918945	 ([11][oct][( irin )][-][several][nigeria][# 39 ; s][biggest][cities][monday][labour][unions][began][four - day][general][strike][protest][fuel][price][president][olusegun][obasanjos][deregulation][programme.])
+v(0 1 2 3 4 5 6 7 8 10 11 13 14 15 16 17 18 19 20 23 25 26 27 28): 7.970905303955078	 ([lagos,][11][oct][2004][( irin )][-][several][nigeria][# 39 ; s][cities][paralysed][labour][unions][began][four - day][general][strike][protest][latest][increases][olusegun][obasanjos][deregulation][programme.])
+v(0 3 9 11 12 14 15 16 17 18 19 20 21 22 23 24 25 26 28): 6.2285919189453125	 ([lagos,][2004][biggest][paralysed][monday][unions][began][four - day][general][strike][protest][latest][fuel][price][increases][president][olusegun][obasanjos][programme.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 20 21 22 23 24 27): 8.154346466064453	 ([lagos,][11][oct][2004][( irin )][-][several][nigeria][# 39 ; s][biggest][cities][paralysed][monday][labour][latest][fuel][price][increases][president][deregulation])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 8.339069366455078	 ([lagos,][11][oct][2004][( irin )][-][several][nigeria][# 39 ; s][biggest][cities][paralysed][monday][labour][unions][began][four - day][general][strike][protest][latest][fuel][price][increases][president][olusegun][obasanjos][deregulation][programme.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 14.128159523010254, EP: 1.0	 ([lagos,][11][oct][2004][( irin )][-][several][nigeria][# 39 ; s][biggest][cities][paralysed][monday][labour][unions][began][four - day][general][strike][protest][latest][fuel][price][increases][president][olusegun][obasanjos][deregulation][programme.])
+v(1 2 4 5 6 7 8 10 13 14 15 16 17 18 19 25 26 27 28): 14.030861854553223, EP: 0.9931132197380066	 ([11][oct][( irin )][-][several][nigeria][# 39 ; s][cities][labour][unions][began][four - day][general][strike][protest][olusegun][obasanjos][deregulation][programme.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 20 21 22 23 24 27): 13.943436622619629, EP: 0.9869251847267151	 ([lagos,][11][oct][2004][( irin )][-][several][nigeria][# 39 ; s][biggest][cities][paralysed][monday][labour][latest][fuel][price][increases][president][deregulation])
+v(1 2 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 21 22 24 25 26 27 28): 13.846053123474121, EP: 0.9800323247909546	 ([11][oct][( irin )][-][several][nigeria][# 39 ; s][biggest][cities][monday][labour][unions][began][four - day][general][strike][protest][fuel][price][president][olusegun][obasanjos][deregulation][programme.])
+v(0 1 2 3 4 5 6 7 8 10 11 13 14 15 16 17 18 19 20 23 25 26 27 28): 13.759995460510254, EP: 0.9739410877227783	 ([lagos,][11][oct][2004][( irin )][-][several][nigeria][# 39 ; s][cities][paralysed][labour][unions][began][four - day][general][strike][protest][latest][increases][olusegun][obasanjos][deregulation][programme.])
+v(1 2 4 5 6 7 8 9 10 12 13 21 22 24 27): 13.650455474853516, EP: 0.9661878347396851	 ([11][oct][( irin )][-][several][nigeria][# 39 ; s][biggest][cities][monday][labour][fuel][price][president][deregulation])
+v(14 15 16 17 18 19 25 26 28): 13.171948432922363, EP: 0.9323188066482544	 ([unions][began][four - day][general][strike][protest][olusegun][obasanjos][programme.])
+v(0 1 2 3 4 5 6 7 8 10 11 13 20 23 27): 12.320356369018555, EP: 0.8720425367355347	 ([lagos,][11][oct][2004][( irin )][-][several][nigeria][# 39 ; s][cities][paralysed][labour][latest][increases][deregulation])
+v(0 3 9 11 12 14 15 16 17 18 19 20 21 22 23 24 25 26 28): 12.017682075500488, EP: 0.8506190776824951	 ([lagos,][2004][biggest][paralysed][monday][unions][began][four - day][general][strike][protest][latest][fuel][price][increases][president][olusegun][obasanjos][programme.])
+v(9 12 14 15 16 17 18 19 21 22 24 25 26 28): 11.789188385009766, EP: 0.834446132183075	 ([biggest][monday][unions][began][four - day][general][strike][protest][fuel][price][president][olusegun][obasanjos][programme.])
+v(0 3 11 14 15 16 17 18 19 20 23 25 26 28): 11.639433860778809, EP: 0.8238464593887329	 ([lagos,][2004][paralysed][unions][began][four - day][general][strike][protest][latest][increases][olusegun][obasanjos][programme.])
+v(1 2 4 5 6 7 8 10 13 27): 10.80901050567627, EP: 0.765068531036377	 ([11][oct][( irin )][-][several][nigeria][# 39 ; s][cities][labour][deregulation])
+v(0 3 9 11 12 20 21 22 23 24): 5.7932024002075195, EP: 0.4100464880466461	 ([lagos,][2004][biggest][paralysed][monday][latest][fuel][price][increases][president])
+v(0 3 11 20 23): 3.7636878490448, EP: 0.2663961946964264	 ([lagos,][2004][paralysed][latest][increases])
+v(9 12 21 22 24): 1.8339710235595703, EP: 0.12980961799621582	 ([biggest][monday][fuel][price][president])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

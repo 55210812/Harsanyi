@@ -1,0 +1,27 @@
+---------- Players ----------
+Player 0: upstart
+Player 1: miner
+Player 2: huge
+Player 3: round
+Player 4: part
+Player 5: hostile
+Player 6: takeover
+Player 7: bid
+Player 8: gold
+Player 9: fields.
+Player 10: # 39 ; s
+Player 11: money
+Player 12: bank
+Player 13: yet,
+Player 14: though.
+---------- Rewards ----------
+v(): 0.1014242172241211	 ([])
+v(0 6 7 8 11 12): 5.279781818389893	 ([upstart][takeover][bid][gold][money][bank])
+v(1 2 3 4 5 9 10 13 14): 3.668851137161255	 ([miner][huge][round][part][hostile][fields.][# 39 ; s][yet,][though.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 7.184795379638672	 ([upstart][miner][huge][round][part][hostile][takeover][bid][gold][fields.][# 39 ; s][money][bank][yet,][though.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 7.083371162414551, EP: 1.0	 ([upstart][miner][huge][round][part][hostile][takeover][bid][gold][fields.][# 39 ; s][money][bank][yet,][though.])
+v(0 6 7 8 11 12): 5.1783576011657715, EP: 0.7310583591461182	 ([upstart][takeover][bid][gold][money][bank])
+v(1 2 3 4 5 9 10 13 14): 3.567426919937134, EP: 0.5036340355873108	 ([miner][huge][round][part][hostile][fields.][# 39 ; s][yet,][though.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

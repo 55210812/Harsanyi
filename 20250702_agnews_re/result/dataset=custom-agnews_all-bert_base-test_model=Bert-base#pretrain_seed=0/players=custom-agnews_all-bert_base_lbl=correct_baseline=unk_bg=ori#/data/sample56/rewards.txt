@@ -1,0 +1,47 @@
+---------- Players ----------
+Player 0: tokyo
+Player 1: ( reuters )
+Player 2: -
+Player 3: panasonic
+Player 4: brand
+Player 5: products
+Player 6: maker
+Player 7: matsushita
+Player 8: electric
+Player 9: industrial
+Player 10: unveiled
+Player 11: five
+Player 12: new
+Player 13: dvd
+Player 14: recorders
+Player 15: wednesday
+Player 16: said
+Player 17: aiming
+Player 18: boost
+Player 19: share
+Player 20: domestic
+Player 21: market
+Player 22: 40
+Player 23: percent
+Player 24: around
+Player 25: 35
+Player 26: percent.
+---------- Rewards ----------
+v(): 0.9091246128082275	 ([])
+v(3 4 8 14 15 19 20 22 23 24 25 26): 3.583622455596924	 ([panasonic][brand][electric][recorders][wednesday][share][domestic][40][percent][around][35][percent.])
+v(5 6 7 13 18): -4.701269149780273	 ([products][maker][matsushita][dvd][boost])
+v(0 1 2 9 10 11 12 16 17 21): 0.49316835403442383	 ([tokyo][( reuters )][-][industrial][unveiled][five][new][said][aiming][market])
+v(3 4 5 6 7 8 13 14 15 18 19 20 22 23 24 25 26): 5.058936595916748	 ([panasonic][brand][products][maker][matsushita][electric][dvd][recorders][wednesday][boost][share][domestic][40][percent][around][35][percent.])
+v(0 1 2 3 4 8 9 10 11 12 14 15 16 17 19 20 21 22 23 24 25 26): 6.225638389587402	 ([tokyo][( reuters )][-][panasonic][brand][electric][industrial][unveiled][five][new][recorders][wednesday][said][aiming][share][domestic][market][40][percent][around][35][percent.])
+v(0 1 2 5 6 7 9 10 11 12 13 16 17 18 21): 3.370521068572998	 ([tokyo][( reuters )][-][products][maker][matsushita][industrial][unveiled][five][new][dvd][said][aiming][boost][market])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 5.945473670959473	 ([tokyo][( reuters )][-][panasonic][brand][products][maker][matsushita][electric][industrial][unveiled][five][new][dvd][recorders][wednesday][said][aiming][boost][share][domestic][market][40][percent][around][35][percent.])
+---------- Rewards-v() ----------
+v(5 6 7 13 18): -5.610393524169922, EP: -1.1139801740646362	 ([products][maker][matsushita][dvd][boost])
+v(0 1 2 3 4 8 9 10 11 12 14 15 16 17 19 20 21 22 23 24 25 26): 5.316514015197754, EP: 1.0556285381317139	 ([tokyo][( reuters )][-][panasonic][brand][electric][industrial][unveiled][five][new][recorders][wednesday][said][aiming][share][domestic][market][40][percent][around][35][percent.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 5.036349296569824, EP: 1.0	 ([tokyo][( reuters )][-][panasonic][brand][products][maker][matsushita][electric][industrial][unveiled][five][new][dvd][recorders][wednesday][said][aiming][boost][share][domestic][market][40][percent][around][35][percent.])
+v(3 4 5 6 7 8 13 14 15 18 19 20 22 23 24 25 26): 4.149811744689941, EP: 0.8239721655845642	 ([panasonic][brand][products][maker][matsushita][electric][dvd][recorders][wednesday][boost][share][domestic][40][percent][around][35][percent.])
+v(3 4 8 14 15 19 20 22 23 24 25 26): 2.6744978427886963, EP: 0.5310389995574951	 ([panasonic][brand][electric][recorders][wednesday][share][domestic][40][percent][around][35][percent.])
+v(0 1 2 5 6 7 9 10 11 12 13 16 17 18 21): 2.4613964557647705, EP: 0.48872631788253784	 ([tokyo][( reuters )][-][products][maker][matsushita][industrial][unveiled][five][new][dvd][said][aiming][boost][market])
+v(0 1 2 9 10 11 12 16 17 21): -0.4159562587738037, EP: -0.08259082585573196	 ([tokyo][( reuters )][-][industrial][unveiled][five][new][said][aiming][market])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,22 @@
+---------- Players ----------
+Player 0: guy
+Player 1: melamed
+Player 2: admits
+Player 3: first
+Player 4: came
+Player 5: boston
+Player 6: college,
+Player 7: get
+Player 8: fidgety
+Player 9: class.
+---------- Rewards ----------
+v(): -0.7072882652282715	 ([])
+v(5 6): 9.281824111938477	 ([boston][college,])
+v(0 1 2 3 4 7 8 9): 1.282901644706726	 ([guy][melamed][admits][first][came][get][fidgety][class.])
+v(0 1 2 3 4 5 6 7 8 9): 6.370312213897705	 ([guy][melamed][admits][first][came][boston][college,][get][fidgety][class.])
+---------- Rewards-v() ----------
+v(5 6): 9.989112854003906, EP: 1.411370038986206	 ([boston][college,])
+v(0 1 2 3 4 5 6 7 8 9): 7.077600479125977, EP: 1.0	 ([guy][melamed][admits][first][came][boston][college,][get][fidgety][class.])
+v(0 1 2 3 4 7 8 9): 1.9901899099349976, EP: 0.28119558095932007	 ([guy][melamed][admits][first][came][get][fidgety][class.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

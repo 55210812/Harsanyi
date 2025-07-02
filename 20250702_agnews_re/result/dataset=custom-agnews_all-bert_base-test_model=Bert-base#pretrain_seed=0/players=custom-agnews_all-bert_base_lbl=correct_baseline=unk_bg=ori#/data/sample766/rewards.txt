@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: rangers
+Player 1: signed
+Player 2: sandy
+Player 3: alomar
+Player 4: one - year
+Player 5: contract.
+Player 6: ap
+Player 7: reports
+Player 8: team
+Player 9: envisions
+Player 10: alomar
+Player 11: backing
+Player 12: rod
+Player 13: barajas
+Player 14: season,
+Player 15: meaning
+Player 16: gerald
+Player 17: laird
+Player 18: begin
+Player 19: year
+Player 20: minors.
+---------- Rewards ----------
+v(): -4.592977523803711	 ([])
+v(0 3 9 10 11 13 16 17): 6.634013652801514	 ([rangers][alomar][envisions][alomar][backing][barajas][gerald][laird])
+v(1 2 5 6 7 15 19): -1.768362283706665	 ([signed][sandy][contract.][ap][reports][meaning][year])
+v(4 8 12 14 18 20): 9.468568801879883	 ([one - year][team][rod][season,][begin][minors.])
+v(0 1 2 3 5 6 7 9 10 11 13 15 16 17 19): 9.466255187988281	 ([rangers][signed][sandy][alomar][contract.][ap][reports][envisions][alomar][backing][barajas][meaning][gerald][laird][year])
+v(0 3 4 8 9 10 11 12 13 14 16 17 18 20): 9.730619430541992	 ([rangers][alomar][one - year][team][envisions][alomar][backing][rod][barajas][season,][gerald][laird][begin][minors.])
+v(1 2 4 5 6 7 8 12 14 15 18 19 20): 9.744024276733398	 ([signed][sandy][one - year][contract.][ap][reports][team][rod][season,][meaning][begin][year][minors.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.487744331359863	 ([rangers][signed][sandy][alomar][one - year][contract.][ap][reports][team][envisions][alomar][backing][rod][barajas][season,][meaning][gerald][laird][begin][year][minors.])
+---------- Rewards-v() ----------
+v(1 2 4 5 6 7 8 12 14 15 18 19 20): 14.33700180053711, EP: 1.0182007551193237	 ([signed][sandy][one - year][contract.][ap][reports][team][rod][season,][meaning][begin][year][minors.])
+v(0 3 4 8 9 10 11 12 13 14 16 17 18 20): 14.323596954345703, EP: 1.0172487497329712	 ([rangers][alomar][one - year][team][envisions][alomar][backing][rod][barajas][season,][gerald][laird][begin][minors.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 14.080721855163574, EP: 1.0	 ([rangers][signed][sandy][alomar][one - year][contract.][ap][reports][team][envisions][alomar][backing][rod][barajas][season,][meaning][gerald][laird][begin][year][minors.])
+v(4 8 12 14 18 20): 14.061546325683594, EP: 0.9986381530761719	 ([one - year][team][rod][season,][begin][minors.])
+v(0 1 2 3 5 6 7 9 10 11 13 15 16 17 19): 14.059232711791992, EP: 0.9984738826751709	 ([rangers][signed][sandy][alomar][contract.][ap][reports][envisions][alomar][backing][barajas][meaning][gerald][laird][year])
+v(0 3 9 10 11 13 16 17): 11.226991653442383, EP: 0.7973306775093079	 ([rangers][alomar][envisions][alomar][backing][barajas][gerald][laird])
+v(1 2 5 6 7 15 19): 2.824615240097046, EP: 0.20060159265995026	 ([signed][sandy][contract.][ap][reports][meaning][year])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

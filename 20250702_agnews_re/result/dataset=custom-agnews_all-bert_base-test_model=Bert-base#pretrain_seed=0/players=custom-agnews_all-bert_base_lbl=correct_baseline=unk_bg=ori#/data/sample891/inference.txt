@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 19:39:38
+prompt: [CLS] the last probable common ancestor to humans and great apes had a body like an ape, fingers like a chimp and the upright posture of humans, according to researchers who unearthed a fossil of the animal in spain. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2197 decoded_text: last
+idx:3 input_id:15596 decoded_text: probable
+idx:4 input_id:2691 decoded_text: common
+idx:5 input_id:13032 decoded_text: ancestor
+idx:6 input_id:2000 decoded_text: to
+idx:7 input_id:4286 decoded_text: humans
+idx:8 input_id:1998 decoded_text: and
+idx:9 input_id:2307 decoded_text: great
+idx:10 input_id:27754 decoded_text: apes
+idx:11 input_id:2018 decoded_text: had
+idx:12 input_id:1037 decoded_text: a
+idx:13 input_id:2303 decoded_text: body
+idx:14 input_id:2066 decoded_text: like
+idx:15 input_id:2019 decoded_text: an
+idx:16 input_id:23957 decoded_text: ape
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:3093 decoded_text: fingers
+idx:19 input_id:2066 decoded_text: like
+idx:20 input_id:1037 decoded_text: a
+idx:21 input_id:9610 decoded_text: chi
+idx:22 input_id:8737 decoded_text: ##mp
+idx:23 input_id:1998 decoded_text: and
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:10051 decoded_text: upright
+idx:26 input_id:16819 decoded_text: posture
+idx:27 input_id:1997 decoded_text: of
+idx:28 input_id:4286 decoded_text: humans
+idx:29 input_id:1010 decoded_text: ,
+idx:30 input_id:2429 decoded_text: according
+idx:31 input_id:2000 decoded_text: to
+idx:32 input_id:6950 decoded_text: researchers
+idx:33 input_id:2040 decoded_text: who
+idx:34 input_id:27422 decoded_text: unearthed
+idx:35 input_id:1037 decoded_text: a
+idx:36 input_id:10725 decoded_text: fossil
+idx:37 input_id:1997 decoded_text: of
+idx:38 input_id:1996 decoded_text: the
+idx:39 input_id:4111 decoded_text: animal
+idx:40 input_id:1999 decoded_text: in
+idx:41 input_id:3577 decoded_text: spain
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-1.5540446043014526, -2.1299617290496826, -3.0252466201782227, 6.863275051116943]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

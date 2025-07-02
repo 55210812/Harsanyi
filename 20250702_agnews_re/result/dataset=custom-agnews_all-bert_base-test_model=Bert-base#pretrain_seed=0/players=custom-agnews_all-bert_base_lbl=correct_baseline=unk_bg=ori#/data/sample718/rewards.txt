@@ -1,0 +1,24 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: sandrine
+Player 3: testud
+Player 4: france
+Player 5: pulled
+Player 6: u. s.
+Player 7: open
+Player 8: sunday
+Player 9: injured
+Player 10: right
+Player 11: foot.
+---------- Rewards ----------
+v(): -7.907077789306641	 ([])
+v(0 3 4 5 7 8 9 10): 3.5760889053344727	 ([ap][testud][france][pulled][open][sunday][injured][right])
+v(1 2 6 11): -8.732597351074219	 ([-][sandrine][u. s.][foot.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 9.671880722045898	 ([ap][-][sandrine][testud][france][pulled][u. s.][open][sunday][injured][right][foot.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11): 17.57895851135254, EP: 1.0	 ([ap][-][sandrine][testud][france][pulled][u. s.][open][sunday][injured][right][foot.])
+v(0 3 4 5 7 8 9 10): 11.483166694641113, EP: 0.6532336473464966	 ([ap][testud][france][pulled][open][sunday][injured][right])
+v(1 2 6 11): -0.8255195617675781, EP: -0.04696066305041313	 ([-][sandrine][u. s.][foot.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

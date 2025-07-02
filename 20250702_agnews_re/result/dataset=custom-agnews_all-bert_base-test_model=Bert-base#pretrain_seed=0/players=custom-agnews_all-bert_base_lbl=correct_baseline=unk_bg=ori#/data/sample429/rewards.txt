@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: fastest - swivelling
+Player 1: space
+Player 2: science
+Player 3: observatory
+Player 4: rocketed
+Player 5: orbit
+Player 6: yesterday
+Player 7: scan
+Player 8: universe
+Player 9: violent
+Player 10: celestial
+Player 11: explosions,
+Player 12: astronomers
+Player 13: believe
+Player 14: represent
+Player 15: birth
+Player 16: screams
+Player 17: black
+Player 18: holes.
+---------- Rewards ----------
+v(): 3.190812349319458	 ([])
+v(0 1 2 3 4 6 8 10 12): 8.10250186920166	 ([fastest - swivelling][space][science][observatory][rocketed][yesterday][universe][celestial][astronomers])
+v(5 7 9 11 13 14 15 16): 7.298251628875732	 ([orbit][scan][violent][explosions,][believe][represent][birth][screams])
+v(17 18): 8.168514251708984	 ([black][holes.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.626640319824219	 ([fastest - swivelling][space][science][observatory][rocketed][orbit][yesterday][scan][universe][violent][celestial][explosions,][astronomers][believe][represent][birth][screams])
+v(0 1 2 3 4 6 8 10 12 17 18): 8.260599136352539	 ([fastest - swivelling][space][science][observatory][rocketed][yesterday][universe][celestial][astronomers][black][holes.])
+v(5 7 9 11 13 14 15 16 17 18): 7.8444037437438965	 ([orbit][scan][violent][explosions,][believe][represent][birth][screams][black][holes.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.490514278411865	 ([fastest - swivelling][space][science][observatory][rocketed][orbit][yesterday][scan][universe][violent][celestial][explosions,][astronomers][believe][represent][birth][screams][black][holes.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 6 8 10 12 17 18): 5.06978702545166, EP: 1.1791020631790161	 ([fastest - swivelling][space][science][observatory][rocketed][yesterday][universe][celestial][astronomers][black][holes.])
+v(17 18): 4.9777021408081055, EP: 1.1576855182647705	 ([black][holes.])
+v(0 1 2 3 4 6 8 10 12): 4.911689758300781, EP: 1.142332673072815	 ([fastest - swivelling][space][science][observatory][rocketed][yesterday][universe][celestial][astronomers])
+v(5 7 9 11 13 14 15 16 17 18): 4.653591156005859, EP: 1.0823055505752563	 ([orbit][scan][violent][explosions,][believe][represent][birth][screams][black][holes.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 4.43582820892334, EP: 1.031659483909607	 ([fastest - swivelling][space][science][observatory][rocketed][orbit][yesterday][scan][universe][violent][celestial][explosions,][astronomers][believe][represent][birth][screams])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 4.299701690673828, EP: 1.0	 ([fastest - swivelling][space][science][observatory][rocketed][orbit][yesterday][scan][universe][violent][celestial][explosions,][astronomers][believe][represent][birth][screams][black][holes.])
+v(5 7 9 11 13 14 15 16): 4.107439041137695, EP: 0.9552846550941467	 ([orbit][scan][violent][explosions,][believe][represent][birth][screams])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

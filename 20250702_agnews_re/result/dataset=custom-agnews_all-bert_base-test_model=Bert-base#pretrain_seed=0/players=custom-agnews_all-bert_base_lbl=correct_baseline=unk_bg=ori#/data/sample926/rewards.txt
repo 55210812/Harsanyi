@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: enough
+Player 1: off - field
+Player 2: distractions
+Player 3: -
+Player 4: rickys
+Player 5: \ $ 8. 6
+Player 6: million
+Player 7: iou
+Player 8: storm
+Player 9: named
+Player 10: jeanne
+Player 11: - his
+Player 12: weeks
+Player 13: game
+Player 14: pittsburgh,
+Player 15: whenever
+Player 16: kicks
+Player 17: off,
+Player 18: welcome
+Player 19: distraction
+Player 20: winless
+Player 21: dolphins.
+---------- Rewards ----------
+v(): -4.375518798828125	 ([])
+v(1 8 9 14 15): 9.362003326416016	 ([off - field][storm][named][pittsburgh,][whenever])
+v(3 4 5 6 12 16 17 20 21): 6.560216903686523	 ([-][rickys][\ $ 8. 6][million][weeks][kicks][off,][winless][dolphins.])
+v(0 2 7 10 11 13 18 19): 2.5865678787231445	 ([enough][distractions][iou][jeanne][- his][game][welcome][distraction])
+v(1 3 4 5 6 8 9 12 14 15 16 17 20 21): 9.546455383300781	 ([off - field][-][rickys][\ $ 8. 6][million][storm][named][weeks][pittsburgh,][whenever][kicks][off,][winless][dolphins.])
+v(0 1 2 7 8 9 10 11 13 14 15 18 19): 9.547212600708008	 ([enough][off - field][distractions][iou][storm][named][jeanne][- his][game][pittsburgh,][whenever][welcome][distraction])
+v(0 2 3 4 5 6 7 10 11 12 13 16 17 18 19 20 21): 9.565423965454102	 ([enough][distractions][-][rickys][\ $ 8. 6][million][iou][jeanne][- his][weeks][game][kicks][off,][welcome][distraction][winless][dolphins.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.609697341918945	 ([enough][off - field][distractions][-][rickys][\ $ 8. 6][million][iou][storm][named][jeanne][- his][weeks][game][pittsburgh,][whenever][kicks][off,][welcome][distraction][winless][dolphins.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 13.98521614074707, EP: 1.0	 ([enough][off - field][distractions][-][rickys][\ $ 8. 6][million][iou][storm][named][jeanne][- his][weeks][game][pittsburgh,][whenever][kicks][off,][welcome][distraction][winless][dolphins.])
+v(0 2 3 4 5 6 7 10 11 12 13 16 17 18 19 20 21): 13.940942764282227, EP: 0.9968342781066895	 ([enough][distractions][-][rickys][\ $ 8. 6][million][iou][jeanne][- his][weeks][game][kicks][off,][welcome][distraction][winless][dolphins.])
+v(0 1 2 7 8 9 10 11 13 14 15 18 19): 13.922731399536133, EP: 0.9955320954322815	 ([enough][off - field][distractions][iou][storm][named][jeanne][- his][game][pittsburgh,][whenever][welcome][distraction])
+v(1 3 4 5 6 8 9 12 14 15 16 17 20 21): 13.921974182128906, EP: 0.9954779148101807	 ([off - field][-][rickys][\ $ 8. 6][million][storm][named][weeks][pittsburgh,][whenever][kicks][off,][winless][dolphins.])
+v(1 8 9 14 15): 13.73752212524414, EP: 0.9822888970375061	 ([off - field][storm][named][pittsburgh,][whenever])
+v(3 4 5 6 12 16 17 20 21): 10.935735702514648, EP: 0.7819496989250183	 ([-][rickys][\ $ 8. 6][million][weeks][kicks][off,][winless][dolphins.])
+v(0 2 7 10 11 13 18 19): 6.9620866775512695, EP: 0.49781760573387146	 ([enough][distractions][iou][jeanne][- his][game][welcome][distraction])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

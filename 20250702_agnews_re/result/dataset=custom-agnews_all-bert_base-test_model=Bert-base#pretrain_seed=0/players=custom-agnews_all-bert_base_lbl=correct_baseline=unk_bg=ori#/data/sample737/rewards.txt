@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: washington
+Player 1: -
+Player 2: united
+Player 3: states
+Player 4: enough
+Player 5: troops
+Player 6: iraq
+Player 7: ousting
+Player 8: saddam
+Player 9: hussein
+Player 10: " paid
+Player 11: big
+Player 12: price "
+Player 13: it,
+Player 14: says
+Player 15: former
+Player 16: head
+Player 17: u. s.
+Player 18: occupation
+Player 19: there...
+---------- Rewards ----------
+v(): -7.744938850402832	 ([])
+v(15 17 18): 4.372483253479004	 ([former][u. s.][occupation])
+v(7 8 9 16): 7.5112810134887695	 ([ousting][saddam][hussein][head])
+v(0 2 3 4 5 6 13): 8.148126602172852	 ([washington][united][states][enough][troops][iraq][it,])
+v(1 10 11 12 14 19): 1.8070778846740723	 ([-][" paid][big][price "][says][there...])
+v(7 8 9 15 16 17 18): 7.765458583831787	 ([ousting][saddam][hussein][former][head][u. s.][occupation])
+v(0 2 3 4 5 6 13 15 17 18): 8.158077239990234	 ([washington][united][states][enough][troops][iraq][it,][former][u. s.][occupation])
+v(1 10 11 12 14 15 17 18 19): 7.643691062927246	 ([-][" paid][big][price "][says][former][u. s.][occupation][there...])
+v(0 2 3 4 5 6 7 8 9 13 16): 8.392427444458008	 ([washington][united][states][enough][troops][iraq][ousting][saddam][hussein][it,][head])
+v(1 7 8 9 10 11 12 14 16 19): 8.260965347290039	 ([-][ousting][saddam][hussein][" paid][big][price "][says][head][there...])
+v(0 1 2 3 4 5 6 10 11 12 13 14 19): 8.533323287963867	 ([washington][-][united][states][enough][troops][iraq][" paid][big][price "][it,][says][there...])
+v(0 2 3 4 5 6 7 8 9 13 15 16 17 18): 8.342704772949219	 ([washington][united][states][enough][troops][iraq][ousting][saddam][hussein][it,][former][head][u. s.][occupation])
+v(1 7 8 9 10 11 12 14 15 16 17 18 19): 8.290828704833984	 ([-][ousting][saddam][hussein][" paid][big][price "][says][former][head][u. s.][occupation][there...])
+v(0 1 2 3 4 5 6 10 11 12 13 14 15 17 18 19): 8.503920555114746	 ([washington][-][united][states][enough][troops][iraq][" paid][big][price "][it,][says][former][u. s.][occupation][there...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 16 19): 8.48481559753418	 ([washington][-][united][states][enough][troops][iraq][ousting][saddam][hussein][" paid][big][price "][it,][says][head][there...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.441629409790039	 ([washington][-][united][states][enough][troops][iraq][ousting][saddam][hussein][" paid][big][price "][it,][says][former][head][u. s.][occupation][there...])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 10 11 12 13 14 19): 16.278263092041016, EP: 1.0056648254394531	 ([washington][-][united][states][enough][troops][iraq][" paid][big][price "][it,][says][there...])
+v(0 1 2 3 4 5 6 10 11 12 13 14 15 17 18 19): 16.248859405517578, EP: 1.0038483142852783	 ([washington][-][united][states][enough][troops][iraq][" paid][big][price "][it,][says][former][u. s.][occupation][there...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 16 19): 16.229755401611328, EP: 1.002668023109436	 ([washington][-][united][states][enough][troops][iraq][ousting][saddam][hussein][" paid][big][price "][it,][says][head][there...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 16.186569213867188, EP: 1.0	 ([washington][-][united][states][enough][troops][iraq][ousting][saddam][hussein][" paid][big][price "][it,][says][former][head][u. s.][occupation][there...])
+v(0 2 3 4 5 6 7 8 9 13 16): 16.137367248535156, EP: 0.9969603419303894	 ([washington][united][states][enough][troops][iraq][ousting][saddam][hussein][it,][head])
+v(0 2 3 4 5 6 7 8 9 13 15 16 17 18): 16.087642669677734, EP: 0.9938883781433105	 ([washington][united][states][enough][troops][iraq][ousting][saddam][hussein][it,][former][head][u. s.][occupation])
+v(1 7 8 9 10 11 12 14 15 16 17 18 19): 16.0357666015625, EP: 0.9906834959983826	 ([-][ousting][saddam][hussein][" paid][big][price "][says][former][head][u. s.][occupation][there...])
+v(1 7 8 9 10 11 12 14 16 19): 16.005905151367188, EP: 0.9888386726379395	 ([-][ousting][saddam][hussein][" paid][big][price "][says][head][there...])
+v(0 2 3 4 5 6 13 15 17 18): 15.903016090393066, EP: 0.9824821949005127	 ([washington][united][states][enough][troops][iraq][it,][former][u. s.][occupation])
+v(0 2 3 4 5 6 13): 15.893065452575684, EP: 0.9818674325942993	 ([washington][united][states][enough][troops][iraq][it,])
+v(7 8 9 15 16 17 18): 15.510396957397461, EP: 0.9582263231277466	 ([ousting][saddam][hussein][former][head][u. s.][occupation])
+v(1 10 11 12 14 15 17 18 19): 15.388629913330078, EP: 0.9507036209106445	 ([-][" paid][big][price "][says][former][u. s.][occupation][there...])
+v(7 8 9 16): 15.256219863891602, EP: 0.9425233602523804	 ([ousting][saddam][hussein][head])
+v(15 17 18): 12.117422103881836, EP: 0.7486096620559692	 ([former][u. s.][occupation])
+v(1 10 11 12 14 19): 9.552017211914062, EP: 0.5901199579238892	 ([-][" paid][big][price "][says][there...])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

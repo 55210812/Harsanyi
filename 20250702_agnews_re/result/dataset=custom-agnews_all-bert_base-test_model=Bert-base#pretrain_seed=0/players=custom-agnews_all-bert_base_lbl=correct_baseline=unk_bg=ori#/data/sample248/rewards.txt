@@ -1,0 +1,29 @@
+---------- Players ----------
+Player 0: yeah,
+Player 1: yeah....
+Player 2: # 39 ; s
+Player 3: almost
+Player 4: decade
+Player 5: since
+Player 6: art
+Player 7: modell
+Player 8: sold
+Player 9: soul
+Player 10: moved
+Player 11: cleveland
+Player 12: # 39 ; s
+Player 13: beloved
+Player 14: ( original )
+Player 15: browns
+Player 16: baltimore.
+---------- Rewards ----------
+v(): -3.2401018142700195	 ([])
+v(1 2 6 7 9 12 13 16): 0.9326804876327515	 ([yeah....][# 39 ; s][art][modell][soul][# 39 ; s][beloved][baltimore.])
+v(0 3 4 5 8 10 11 14 15): 9.31411361694336	 ([yeah,][almost][decade][since][sold][moved][cleveland][( original )][browns])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.671003341674805	 ([yeah,][yeah....][# 39 ; s][almost][decade][since][art][modell][sold][soul][moved][cleveland][# 39 ; s][beloved][( original )][browns][baltimore.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 12.911105155944824, EP: 1.0	 ([yeah,][yeah....][# 39 ; s][almost][decade][since][art][modell][sold][soul][moved][cleveland][# 39 ; s][beloved][( original )][browns][baltimore.])
+v(0 3 4 5 8 10 11 14 15): 12.554215431213379, EP: 0.9723579287528992	 ([yeah,][almost][decade][since][sold][moved][cleveland][( original )][browns])
+v(1 2 6 7 9 12 13 16): 4.1727824211120605, EP: 0.3231932818889618	 ([yeah....][# 39 ; s][art][modell][soul][# 39 ; s][beloved][baltimore.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

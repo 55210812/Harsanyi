@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: us
+Player 1: consumer
+Player 2: sentiment
+Player 3: rose
+Player 4: early
+Player 5: december,
+Player 6: according
+Player 7: survey
+Player 8: released
+Player 9: friday,
+Player 10: consumers
+Player 11: reacted
+Player 12: positively
+Player 13: lower
+Player 14: prices
+Player 15: gas
+Player 16: pump.
+---------- Rewards ----------
+v(): -2.6233439445495605	 ([])
+v(2 3 4 6 7): 6.788142204284668	 ([sentiment][rose][early][according][survey])
+v(8 10 11 12 14): 6.550517559051514	 ([released][consumers][reacted][positively][prices])
+v(0 1 5 9 13 15 16): 7.622368335723877	 ([us][consumer][december,][friday,][lower][gas][pump.])
+v(2 3 4 6 7 8 10 11 12 14): 7.611345291137695	 ([sentiment][rose][early][according][survey][released][consumers][reacted][positively][prices])
+v(0 1 2 3 4 5 6 7 9 13 15 16): 7.941762924194336	 ([us][consumer][sentiment][rose][early][december,][according][survey][friday,][lower][gas][pump.])
+v(0 1 5 8 9 10 11 12 13 14 15 16): 7.5123443603515625	 ([us][consumer][december,][released][friday,][consumers][reacted][positively][lower][prices][gas][pump.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.920498847961426	 ([us][consumer][sentiment][rose][early][december,][according][survey][released][friday,][consumers][reacted][positively][lower][prices][gas][pump.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 9 13 15 16): 10.565107345581055, EP: 1.0020167827606201	 ([us][consumer][sentiment][rose][early][december,][according][survey][friday,][lower][gas][pump.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 10.543842315673828, EP: 1.0	 ([us][consumer][sentiment][rose][early][december,][according][survey][released][friday,][consumers][reacted][positively][lower][prices][gas][pump.])
+v(0 1 5 9 13 15 16): 10.245712280273438, EP: 0.9717247486114502	 ([us][consumer][december,][friday,][lower][gas][pump.])
+v(2 3 4 6 7 8 10 11 12 14): 10.234689712524414, EP: 0.9706793427467346	 ([sentiment][rose][early][according][survey][released][consumers][reacted][positively][prices])
+v(0 1 5 8 9 10 11 12 13 14 15 16): 10.135688781738281, EP: 0.9612898826599121	 ([us][consumer][december,][released][friday,][consumers][reacted][positively][lower][prices][gas][pump.])
+v(2 3 4 6 7): 9.41148567199707, EP: 0.8926049470901489	 ([sentiment][rose][early][according][survey])
+v(8 10 11 12 14): 9.173861503601074, EP: 0.8700681328773499	 ([released][consumers][reacted][positively][prices])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

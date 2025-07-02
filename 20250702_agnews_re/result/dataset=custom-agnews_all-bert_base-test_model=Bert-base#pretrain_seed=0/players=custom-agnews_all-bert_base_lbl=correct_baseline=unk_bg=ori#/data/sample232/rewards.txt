@@ -1,0 +1,59 @@
+---------- Players ----------
+Player 0: athens
+Player 1: -
+Player 2: us
+Player 3: sprinter
+Player 4: torri
+Player 5: edwards
+Player 6: knocked
+Player 7: olym -
+Player 8: pics
+Player 9: good
+Player 10: yesterday
+Player 11: arbitration
+Player 12: panel
+Player 13: upheld
+Player 14: two - year
+Player 15: drug
+Player 16: suspension,
+Player 17: rejecting
+Player 18: arguments
+Player 19: took
+Player 20: banned
+Player 21: stimulants
+Player 22: accident.
+---------- Rewards ----------
+v(): -0.9399850964546204	 ([])
+v(0 1 3 5 8 16 21): 8.448663711547852	 ([athens][-][sprinter][edwards][pics][suspension,][stimulants])
+v(4 6 13 14 19 20 22): -2.8920111656188965	 ([torri][knocked][upheld][two - year][took][banned][accident.])
+v(9 17 18): -2.1916511058807373	 ([good][rejecting][arguments])
+v(2 7 10 11 12 15): -5.57097864151001	 ([us][olym -][yesterday][arbitration][panel][drug])
+v(0 1 3 4 5 6 8 13 14 16 19 20 21 22): 8.407547950744629	 ([athens][-][sprinter][torri][edwards][knocked][pics][upheld][two - year][suspension,][took][banned][stimulants][accident.])
+v(0 1 3 5 8 9 16 17 18 21): 8.334178924560547	 ([athens][-][sprinter][edwards][pics][good][suspension,][rejecting][arguments][stimulants])
+v(0 1 2 3 5 7 8 10 11 12 15 16 21): 9.143030166625977	 ([athens][-][us][sprinter][edwards][olym -][pics][yesterday][arbitration][panel][drug][suspension,][stimulants])
+v(4 6 9 13 14 17 18 19 20 22): -2.0632710456848145	 ([torri][knocked][good][upheld][two - year][rejecting][arguments][took][banned][accident.])
+v(2 4 6 7 10 11 12 13 14 15 19 20 22): 3.708256959915161	 ([us][torri][knocked][olym -][yesterday][arbitration][panel][upheld][two - year][drug][took][banned][accident.])
+v(2 7 9 10 11 12 15 17 18): -5.606387615203857	 ([us][olym -][good][yesterday][arbitration][panel][drug][rejecting][arguments])
+v(0 1 3 4 5 6 8 9 13 14 16 17 18 19 20 21 22): 8.23651123046875	 ([athens][-][sprinter][torri][edwards][knocked][pics][good][upheld][two - year][suspension,][rejecting][arguments][took][banned][stimulants][accident.])
+v(0 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 19 20 21 22): 9.178762435913086	 ([athens][-][us][sprinter][torri][edwards][knocked][olym -][pics][yesterday][arbitration][panel][upheld][two - year][drug][suspension,][took][banned][stimulants][accident.])
+v(0 1 2 3 5 7 8 9 10 11 12 15 16 17 18 21): 9.165914535522461	 ([athens][-][us][sprinter][edwards][olym -][pics][good][yesterday][arbitration][panel][drug][suspension,][rejecting][arguments][stimulants])
+v(2 4 6 7 9 10 11 12 13 14 15 17 18 19 20 22): 4.368612766265869	 ([us][torri][knocked][olym -][good][yesterday][arbitration][panel][upheld][two - year][drug][rejecting][arguments][took][banned][accident.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 9.147719383239746	 ([athens][-][us][sprinter][torri][edwards][knocked][olym -][pics][good][yesterday][arbitration][panel][upheld][two - year][drug][suspension,][rejecting][arguments][took][banned][stimulants][accident.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 19 20 21 22): 10.11874771118164, EP: 1.0030772686004639	 ([athens][-][us][sprinter][torri][edwards][knocked][olym -][pics][yesterday][arbitration][panel][upheld][two - year][drug][suspension,][took][banned][stimulants][accident.])
+v(0 1 2 3 5 7 8 9 10 11 12 15 16 17 18 21): 10.105899810791016, EP: 1.0018036365509033	 ([athens][-][us][sprinter][edwards][olym -][pics][good][yesterday][arbitration][panel][drug][suspension,][rejecting][arguments][stimulants])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 10.0877046585083, EP: 1.0	 ([athens][-][us][sprinter][torri][edwards][knocked][olym -][pics][good][yesterday][arbitration][panel][upheld][two - year][drug][suspension,][rejecting][arguments][took][banned][stimulants][accident.])
+v(0 1 2 3 5 7 8 10 11 12 15 16 21): 10.083015441894531, EP: 0.9995351433753967	 ([athens][-][us][sprinter][edwards][olym -][pics][yesterday][arbitration][panel][drug][suspension,][stimulants])
+v(0 1 3 5 8 16 21): 9.388648986816406, EP: 0.9307022094726562	 ([athens][-][sprinter][edwards][pics][suspension,][stimulants])
+v(0 1 3 4 5 6 8 13 14 16 19 20 21 22): 9.347533226013184, EP: 0.9266263842582703	 ([athens][-][sprinter][torri][edwards][knocked][pics][upheld][two - year][suspension,][took][banned][stimulants][accident.])
+v(0 1 3 5 8 9 16 17 18 21): 9.274164199829102, EP: 0.9193532466888428	 ([athens][-][sprinter][edwards][pics][good][suspension,][rejecting][arguments][stimulants])
+v(0 1 3 4 5 6 8 9 13 14 16 17 18 19 20 21 22): 9.176496505737305, EP: 0.909671425819397	 ([athens][-][sprinter][torri][edwards][knocked][pics][good][upheld][two - year][suspension,][rejecting][arguments][took][banned][stimulants][accident.])
+v(2 4 6 7 9 10 11 12 13 14 15 17 18 19 20 22): 5.308598041534424, EP: 0.5262444019317627	 ([us][torri][knocked][olym -][good][yesterday][arbitration][panel][upheld][two - year][drug][rejecting][arguments][took][banned][accident.])
+v(2 7 9 10 11 12 15 17 18): -4.666402339935303, EP: -0.46258315443992615	 ([us][olym -][good][yesterday][arbitration][panel][drug][rejecting][arguments])
+v(2 4 6 7 10 11 12 13 14 15 19 20 22): 4.648241996765137, EP: 0.460782915353775	 ([us][torri][knocked][olym -][yesterday][arbitration][panel][upheld][two - year][drug][took][banned][accident.])
+v(2 7 10 11 12 15): -4.630993366241455, EP: -0.4590730667114258	 ([us][olym -][yesterday][arbitration][panel][drug])
+v(4 6 13 14 19 20 22): -1.952026128768921, EP: -0.19350548088550568	 ([torri][knocked][upheld][two - year][took][banned][accident.])
+v(9 17 18): -1.2516660690307617, EP: -0.12407837808132172	 ([good][rejecting][arguments])
+v(4 6 9 13 14 17 18 19 20 22): -1.1232860088348389, EP: -0.11135198920965195	 ([torri][knocked][good][upheld][two - year][rejecting][arguments][took][banned][accident.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

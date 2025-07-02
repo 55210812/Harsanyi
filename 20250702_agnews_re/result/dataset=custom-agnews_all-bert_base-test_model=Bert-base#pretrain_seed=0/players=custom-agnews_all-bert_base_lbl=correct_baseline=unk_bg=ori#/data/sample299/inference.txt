@@ -1,0 +1,38 @@
+Execution time: 2025-07-02 19:24:32
+prompt: [CLS] new delhi - fourteen people have been killed in kashmir in an increase of violence since a visit by the indian prime minister in mid - november. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2047 decoded_text: new
+idx:2 input_id:6768 decoded_text: delhi
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:7426 decoded_text: fourteen
+idx:5 input_id:2111 decoded_text: people
+idx:6 input_id:2031 decoded_text: have
+idx:7 input_id:2042 decoded_text: been
+idx:8 input_id:2730 decoded_text: killed
+idx:9 input_id:1999 decoded_text: in
+idx:10 input_id:13329 decoded_text: kashmir
+idx:11 input_id:1999 decoded_text: in
+idx:12 input_id:2019 decoded_text: an
+idx:13 input_id:3623 decoded_text: increase
+idx:14 input_id:1997 decoded_text: of
+idx:15 input_id:4808 decoded_text: violence
+idx:16 input_id:2144 decoded_text: since
+idx:17 input_id:1037 decoded_text: a
+idx:18 input_id:3942 decoded_text: visit
+idx:19 input_id:2011 decoded_text: by
+idx:20 input_id:1996 decoded_text: the
+idx:21 input_id:2796 decoded_text: indian
+idx:22 input_id:3539 decoded_text: prime
+idx:23 input_id:2704 decoded_text: minister
+idx:24 input_id:1999 decoded_text: in
+idx:25 input_id:3054 decoded_text: mid
+idx:26 input_id:1011 decoded_text: -
+idx:27 input_id:2281 decoded_text: november
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.048824787139893, -1.6708316802978516, -2.8549516201019287, -2.1041817665100098]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

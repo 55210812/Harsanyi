@@ -1,0 +1,63 @@
+Execution time: 2025-07-02 19:29:59
+prompt: [CLS] australia # 39 ; s michelle ellis is three strokes off the pace after the first round of the lpga event in portland, oregon. ellis fired a 4 - under - par 68 to be two shots behind outright leader, american brandi jackson on 6 - under. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2660 decoded_text: australia
+idx:2 input_id:1001 decoded_text: #
+idx:3 input_id:4464 decoded_text: 39
+idx:4 input_id:1025 decoded_text: ;
+idx:5 input_id:1055 decoded_text: s
+idx:6 input_id:9393 decoded_text: michelle
+idx:7 input_id:8547 decoded_text: ellis
+idx:8 input_id:2003 decoded_text: is
+idx:9 input_id:2093 decoded_text: three
+idx:10 input_id:13692 decoded_text: strokes
+idx:11 input_id:2125 decoded_text: off
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:6393 decoded_text: pace
+idx:14 input_id:2044 decoded_text: after
+idx:15 input_id:1996 decoded_text: the
+idx:16 input_id:2034 decoded_text: first
+idx:17 input_id:2461 decoded_text: round
+idx:18 input_id:1997 decoded_text: of
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:6948 decoded_text: lp
+idx:21 input_id:3654 decoded_text: ##ga
+idx:22 input_id:2724 decoded_text: event
+idx:23 input_id:1999 decoded_text: in
+idx:24 input_id:6734 decoded_text: portland
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:5392 decoded_text: oregon
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:8547 decoded_text: ellis
+idx:29 input_id:5045 decoded_text: fired
+idx:30 input_id:1037 decoded_text: a
+idx:31 input_id:1018 decoded_text: 4
+idx:32 input_id:1011 decoded_text: -
+idx:33 input_id:2104 decoded_text: under
+idx:34 input_id:1011 decoded_text: -
+idx:35 input_id:11968 decoded_text: par
+idx:36 input_id:6273 decoded_text: 68
+idx:37 input_id:2000 decoded_text: to
+idx:38 input_id:2022 decoded_text: be
+idx:39 input_id:2048 decoded_text: two
+idx:40 input_id:7171 decoded_text: shots
+idx:41 input_id:2369 decoded_text: behind
+idx:42 input_id:13848 decoded_text: outright
+idx:43 input_id:3003 decoded_text: leader
+idx:44 input_id:1010 decoded_text: ,
+idx:45 input_id:2137 decoded_text: american
+idx:46 input_id:4435 decoded_text: brand
+idx:47 input_id:2072 decoded_text: ##i
+idx:48 input_id:4027 decoded_text: jackson
+idx:49 input_id:2006 decoded_text: on
+idx:50 input_id:1020 decoded_text: 6
+idx:51 input_id:1011 decoded_text: -
+idx:52 input_id:2104 decoded_text: under
+idx:53 input_id:1012 decoded_text: .
+idx:54 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.678696393966675, 8.349907875061035, -2.2062408924102783, -2.247668743133545]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

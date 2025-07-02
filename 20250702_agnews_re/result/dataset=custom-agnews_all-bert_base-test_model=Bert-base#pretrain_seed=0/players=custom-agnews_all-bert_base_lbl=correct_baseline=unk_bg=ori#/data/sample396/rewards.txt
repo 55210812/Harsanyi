@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: might
+Player 1: taken
+Player 2: 63
+Player 3: years,
+Player 4: bill
+Player 5: parcells
+Player 6: seems
+Player 7: found
+Player 8: happy
+Player 9: medium
+Player 10: emotions
+Player 11: coaching
+Player 12: dallas
+Player 13: cowboys.
+---------- Rewards ----------
+v(): -7.439088821411133	 ([])
+v(0 1 2 3 4 5 9 11): 9.667970657348633	 ([might][taken][63][years,][bill][parcells][medium][coaching])
+v(6 7 8 10 12 13): 6.812326908111572	 ([seems][found][happy][emotions][dallas][cowboys.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 7.178666114807129	 ([might][taken][63][years,][bill][parcells][seems][found][happy][medium][emotions][coaching][dallas][cowboys.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 9 11): 17.107059478759766, EP: 1.1702932119369507	 ([might][taken][63][years,][bill][parcells][medium][coaching])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 14.617754936218262, EP: 1.0	 ([might][taken][63][years,][bill][parcells][seems][found][happy][medium][emotions][coaching][dallas][cowboys.])
+v(6 7 8 10 12 13): 14.251415252685547, EP: 0.974938690662384	 ([seems][found][happy][emotions][dallas][cowboys.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

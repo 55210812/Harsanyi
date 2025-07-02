@@ -1,0 +1,23 @@
+---------- Players ----------
+Player 0: pakistan
+Player 1: take
+Player 2: slim
+Player 3: lead
+Player 4: sri
+Player 5: lanka
+Player 6: end
+Player 7: day
+Player 8: two
+Player 9: first
+Player 10: test.
+---------- Rewards ----------
+v(): -4.0676069259643555	 ([])
+v(0 3 4 5): -6.939333915710449	 ([pakistan][lead][sri][lanka])
+v(1 2 6 7 8 9 10): 1.9345285892486572	 ([take][slim][end][day][two][first][test.])
+v(0 1 2 3 4 5 6 7 8 9 10): 6.790703773498535	 ([pakistan][take][slim][lead][sri][lanka][end][day][two][first][test.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10): 10.85831069946289, EP: 1.0	 ([pakistan][take][slim][lead][sri][lanka][end][day][two][first][test.])
+v(1 2 6 7 8 9 10): 6.002135276794434, EP: 0.5527687668800354	 ([take][slim][end][day][two][first][test.])
+v(0 3 4 5): -2.8717269897460938, EP: -0.26447272300720215	 ([pakistan][lead][sri][lanka])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

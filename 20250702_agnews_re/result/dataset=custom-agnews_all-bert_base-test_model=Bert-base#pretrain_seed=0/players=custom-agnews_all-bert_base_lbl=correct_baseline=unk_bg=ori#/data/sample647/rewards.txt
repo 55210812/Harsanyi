@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: ( cbs / ap )
+Player 1: sophisticated
+Player 2: israeli
+Player 3: spy
+Player 4: satellite
+Player 5: plummeted
+Player 6: mediterranean
+Player 7: sea
+Player 8: shortly
+Player 9: launch,
+Player 10: dealing
+Player 11: blow
+Player 12: israeli
+Player 13: efforts
+Player 14: keep
+Player 15: eye
+Player 16: iran
+Player 17: # 39 ; s
+Player 18: alleged
+Player 19: nuclear
+Player 20: weapons
+Player 21: program.
+---------- Rewards ----------
+v(): -6.56204891204834	 ([])
+v(6 7 10 12 16 17): 5.8396100997924805	 ([mediterranean][sea][dealing][israeli][iran][# 39 ; s])
+v(2 3 4 5 8): 1.404999017715454	 ([israeli][spy][satellite][plummeted][shortly])
+v(18 19 20): 1.9507761001586914	 ([alleged][nuclear][weapons])
+v(0 1 9 11 13 14 15 21): -5.852973937988281	 ([( cbs / ap )][sophisticated][launch,][blow][efforts][keep][eye][program.])
+v(2 3 4 5 6 7 8 10 12 16 17): 5.281149864196777	 ([israeli][spy][satellite][plummeted][mediterranean][sea][shortly][dealing][israeli][iran][# 39 ; s])
+v(6 7 10 12 16 17 18 19 20): 7.08699893951416	 ([mediterranean][sea][dealing][israeli][iran][# 39 ; s][alleged][nuclear][weapons])
+v(0 1 6 7 9 10 11 12 13 14 15 16 17 21): 6.555404186248779	 ([( cbs / ap )][sophisticated][mediterranean][sea][launch,][dealing][blow][israeli][efforts][keep][eye][iran][# 39 ; s][program.])
+v(2 3 4 5 8 18 19 20): 4.367526531219482	 ([israeli][spy][satellite][plummeted][shortly][alleged][nuclear][weapons])
+v(0 1 2 3 4 5 8 9 11 13 14 15 21): 0.25547027587890625	 ([( cbs / ap )][sophisticated][israeli][spy][satellite][plummeted][shortly][launch,][blow][efforts][keep][eye][program.])
+v(0 1 9 11 13 14 15 18 19 20 21): 2.790430784225464	 ([( cbs / ap )][sophisticated][launch,][blow][efforts][keep][eye][alleged][nuclear][weapons][program.])
+v(2 3 4 5 6 7 8 10 12 16 17 18 19 20): 6.703804969787598	 ([israeli][spy][satellite][plummeted][mediterranean][sea][shortly][dealing][israeli][iran][# 39 ; s][alleged][nuclear][weapons])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 21): 5.497372627258301	 ([( cbs / ap )][sophisticated][israeli][spy][satellite][plummeted][mediterranean][sea][shortly][launch,][dealing][blow][israeli][efforts][keep][eye][iran][# 39 ; s][program.])
+v(0 1 6 7 9 10 11 12 13 14 15 16 17 18 19 20 21): 7.197622299194336	 ([( cbs / ap )][sophisticated][mediterranean][sea][launch,][dealing][blow][israeli][efforts][keep][eye][iran][# 39 ; s][alleged][nuclear][weapons][program.])
+v(0 1 2 3 4 5 8 9 11 13 14 15 18 19 20 21): 3.748903274536133	 ([( cbs / ap )][sophisticated][israeli][spy][satellite][plummeted][shortly][launch,][blow][efforts][keep][eye][alleged][nuclear][weapons][program.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 6.502532005310059	 ([( cbs / ap )][sophisticated][israeli][spy][satellite][plummeted][mediterranean][sea][shortly][launch,][dealing][blow][israeli][efforts][keep][eye][iran][# 39 ; s][alleged][nuclear][weapons][program.])
+---------- Rewards-v() ----------
+v(0 1 6 7 9 10 11 12 13 14 15 16 17 18 19 20 21): 13.759671211242676, EP: 1.0532041788101196	 ([( cbs / ap )][sophisticated][mediterranean][sea][launch,][dealing][blow][israeli][efforts][keep][eye][iran][# 39 ; s][alleged][nuclear][weapons][program.])
+v(6 7 10 12 16 17 18 19 20): 13.6490478515625, EP: 1.0447367429733276	 ([mediterranean][sea][dealing][israeli][iran][# 39 ; s][alleged][nuclear][weapons])
+v(2 3 4 5 6 7 8 10 12 16 17 18 19 20): 13.265853881835938, EP: 1.0154060125350952	 ([israeli][spy][satellite][plummeted][mediterranean][sea][shortly][dealing][israeli][iran][# 39 ; s][alleged][nuclear][weapons])
+v(0 1 6 7 9 10 11 12 13 14 15 16 17 21): 13.117452621459961, EP: 1.00404691696167	 ([( cbs / ap )][sophisticated][mediterranean][sea][launch,][dealing][blow][israeli][efforts][keep][eye][iran][# 39 ; s][program.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 13.064580917358398, EP: 1.0	 ([( cbs / ap )][sophisticated][israeli][spy][satellite][plummeted][mediterranean][sea][shortly][launch,][dealing][blow][israeli][efforts][keep][eye][iran][# 39 ; s][alleged][nuclear][weapons][program.])
+v(6 7 10 12 16 17): 12.40165901184082, EP: 0.9492580890655518	 ([mediterranean][sea][dealing][israeli][iran][# 39 ; s])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 21): 12.05942153930664, EP: 0.923062264919281	 ([( cbs / ap )][sophisticated][israeli][spy][satellite][plummeted][mediterranean][sea][shortly][launch,][dealing][blow][israeli][efforts][keep][eye][iran][# 39 ; s][program.])
+v(2 3 4 5 6 7 8 10 12 16 17): 11.843198776245117, EP: 0.9065119624137878	 ([israeli][spy][satellite][plummeted][mediterranean][sea][shortly][dealing][israeli][iran][# 39 ; s])
+v(2 3 4 5 8 18 19 20): 10.929574966430664, EP: 0.8365805745124817	 ([israeli][spy][satellite][plummeted][shortly][alleged][nuclear][weapons])
+v(0 1 2 3 4 5 8 9 11 13 14 15 18 19 20 21): 10.310952186584473, EP: 0.7892294526100159	 ([( cbs / ap )][sophisticated][israeli][spy][satellite][plummeted][shortly][launch,][blow][efforts][keep][eye][alleged][nuclear][weapons][program.])
+v(0 1 9 11 13 14 15 18 19 20 21): 9.352479934692383, EP: 0.7158653140068054	 ([( cbs / ap )][sophisticated][launch,][blow][efforts][keep][eye][alleged][nuclear][weapons][program.])
+v(18 19 20): 8.512825012207031, EP: 0.6515957117080688	 ([alleged][nuclear][weapons])
+v(2 3 4 5 8): 7.967047691345215, EP: 0.6098203659057617	 ([israeli][spy][satellite][plummeted][shortly])
+v(0 1 2 3 4 5 8 9 11 13 14 15 21): 6.817519187927246, EP: 0.5218322277069092	 ([( cbs / ap )][sophisticated][israeli][spy][satellite][plummeted][shortly][launch,][blow][efforts][keep][eye][program.])
+v(0 1 9 11 13 14 15 21): 0.7090749740600586, EP: 0.054274603724479675	 ([( cbs / ap )][sophisticated][launch,][blow][efforts][keep][eye][program.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

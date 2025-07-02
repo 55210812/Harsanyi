@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: first
+Player 1: nine
+Player 2: holes
+Player 3: merrill
+Player 4: lynch
+Player 5: skins
+Player 6: game
+Player 7: decided,
+Player 8: well,
+Player 9: almost
+Player 10: nothing
+Player 11: saturday.
+Player 12: day
+Player 13: saw
+Player 14: fewest
+Player 15: skins
+Player 16: 22 - year
+Player 17: history
+Player 18: event
+---------- Rewards ----------
+v(): -1.586012363433838	 ([])
+v(2 5 6 11 14 15): -0.2098102569580078	 ([holes][skins][game][saturday.][fewest][skins])
+v(0 3 4 7 8 12 17): -9.146601676940918	 ([first][merrill][lynch][decided,][well,][day][history])
+v(1 9 10 13 16 18): -1.7691718339920044	 ([nine][almost][nothing][saw][22 - year][event])
+v(0 2 3 4 5 6 7 8 11 12 14 15 17): 7.227133750915527	 ([first][holes][merrill][lynch][skins][game][decided,][well,][saturday.][day][fewest][skins][history])
+v(1 2 5 6 9 10 11 13 14 15 16 18): 9.575752258300781	 ([nine][holes][skins][game][almost][nothing][saturday.][saw][fewest][skins][22 - year][event])
+v(0 1 3 4 7 8 9 10 12 13 16 17 18): -8.789237976074219	 ([first][nine][merrill][lynch][decided,][well,][almost][nothing][day][saw][22 - year][history][event])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.972718238830566	 ([first][nine][holes][merrill][lynch][skins][game][decided,][well,][almost][nothing][saturday.][day][saw][fewest][skins][22 - year][history][event])
+---------- Rewards-v() ----------
+v(1 2 5 6 9 10 11 13 14 15 16 18): 11.161764144897461, EP: 1.057112216949463	 ([nine][holes][skins][game][almost][nothing][saturday.][saw][fewest][skins][22 - year][event])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 10.558731079101562, EP: 1.0	 ([first][nine][holes][merrill][lynch][skins][game][decided,][well,][almost][nothing][saturday.][day][saw][fewest][skins][22 - year][history][event])
+v(0 2 3 4 5 6 7 8 11 12 14 15 17): 8.813146591186523, EP: 0.834678590297699	 ([first][holes][merrill][lynch][skins][game][decided,][well,][saturday.][day][fewest][skins][history])
+v(0 3 4 7 8 12 17): -7.56058931350708, EP: -0.716050922870636	 ([first][merrill][lynch][decided,][well,][day][history])
+v(0 1 3 4 7 8 9 10 12 13 16 17 18): -7.203225612640381, EP: -0.6822056174278259	 ([first][nine][merrill][lynch][decided,][well,][almost][nothing][day][saw][22 - year][history][event])
+v(2 5 6 11 14 15): 1.37620210647583, EP: 0.13033783435821533	 ([holes][skins][game][saturday.][fewest][skins])
+v(1 9 10 13 16 18): -0.1831594705581665, EP: -0.017346730455756187	 ([nine][almost][nothing][saw][22 - year][event])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

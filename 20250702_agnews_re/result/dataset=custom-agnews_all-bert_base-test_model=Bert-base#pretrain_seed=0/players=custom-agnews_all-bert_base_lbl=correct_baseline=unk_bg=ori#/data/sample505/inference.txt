@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 19:29:45
+prompt: [CLS] sky team, one of the worlds three airline alliances, announced that continental airlines, klm royal dutch airlines and northwest airlines officially joined the alliance at its governing board in new york, monday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3712 decoded_text: sky
+idx:2 input_id:2136 decoded_text: team
+idx:3 input_id:1010 decoded_text: ,
+idx:4 input_id:2028 decoded_text: one
+idx:5 input_id:1997 decoded_text: of
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:8484 decoded_text: worlds
+idx:8 input_id:2093 decoded_text: three
+idx:9 input_id:8582 decoded_text: airline
+idx:10 input_id:21277 decoded_text: alliances
+idx:11 input_id:1010 decoded_text: ,
+idx:12 input_id:2623 decoded_text: announced
+idx:13 input_id:2008 decoded_text: that
+idx:14 input_id:6803 decoded_text: continental
+idx:15 input_id:7608 decoded_text: airlines
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:1047 decoded_text: k
+idx:18 input_id:13728 decoded_text: ##lm
+idx:19 input_id:2548 decoded_text: royal
+idx:20 input_id:3803 decoded_text: dutch
+idx:21 input_id:7608 decoded_text: airlines
+idx:22 input_id:1998 decoded_text: and
+idx:23 input_id:4514 decoded_text: northwest
+idx:24 input_id:7608 decoded_text: airlines
+idx:25 input_id:3985 decoded_text: officially
+idx:26 input_id:2587 decoded_text: joined
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:4707 decoded_text: alliance
+idx:29 input_id:2012 decoded_text: at
+idx:30 input_id:2049 decoded_text: its
+idx:31 input_id:8677 decoded_text: governing
+idx:32 input_id:2604 decoded_text: board
+idx:33 input_id:1999 decoded_text: in
+idx:34 input_id:2047 decoded_text: new
+idx:35 input_id:2259 decoded_text: york
+idx:36 input_id:1010 decoded_text: ,
+idx:37 input_id:6928 decoded_text: monday
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.7440693378448486, -2.956073045730591, 6.563248634338379, -2.7374820709228516]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

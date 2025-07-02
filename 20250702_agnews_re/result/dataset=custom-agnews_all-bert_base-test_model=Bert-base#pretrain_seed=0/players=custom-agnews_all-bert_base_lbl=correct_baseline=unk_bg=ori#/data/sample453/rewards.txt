@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: indianapolis
+Player 1: - -
+Player 2: talk
+Player 3: leading
+Player 4: week
+Player 5: # 39 ; s
+Player 6: matchup
+Player 7: indianapolis
+Player 8: colts
+Player 9: green
+Player 10: bay
+Player 11: packers
+Player 12: focused
+Player 13: quarterbacks
+Player 14: shootout
+Player 15: two
+Player 16: would
+Player 17: have.
+---------- Rewards ----------
+v(): -4.160159111022949	 ([])
+v(0 7 13 14): 9.610962867736816	 ([indianapolis][indianapolis][quarterbacks][shootout])
+v(9 10 11 12): 9.691229820251465	 ([green][bay][packers][focused])
+v(1 2 3 4 5 6 8 15 16 17): 9.471796035766602	 ([- -][talk][leading][week][# 39 ; s][matchup][colts][two][would][have.])
+v(0 7 9 10 11 12 13 14): 9.603475570678711	 ([indianapolis][indianapolis][green][bay][packers][focused][quarterbacks][shootout])
+v(0 1 2 3 4 5 6 7 8 13 14 15 16 17): 9.5301513671875	 ([indianapolis][- -][talk][leading][week][# 39 ; s][matchup][indianapolis][colts][quarterbacks][shootout][two][would][have.])
+v(1 2 3 4 5 6 8 9 10 11 12 15 16 17): 9.54161262512207	 ([- -][talk][leading][week][# 39 ; s][matchup][colts][green][bay][packers][focused][two][would][have.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.47386360168457	 ([indianapolis][- -][talk][leading][week][# 39 ; s][matchup][indianapolis][colts][green][bay][packers][focused][quarterbacks][shootout][two][would][have.])
+---------- Rewards-v() ----------
+v(9 10 11 12): 13.851388931274414, EP: 1.015942931175232	 ([green][bay][packers][focused])
+v(0 7 13 14): 13.771121978759766, EP: 1.010055661201477	 ([indianapolis][indianapolis][quarterbacks][shootout])
+v(0 7 9 10 11 12 13 14): 13.76363468170166, EP: 1.0095064640045166	 ([indianapolis][indianapolis][green][bay][packers][focused][quarterbacks][shootout])
+v(1 2 3 4 5 6 8 9 10 11 12 15 16 17): 13.70177173614502, EP: 1.0049691200256348	 ([- -][talk][leading][week][# 39 ; s][matchup][colts][green][bay][packers][focused][two][would][have.])
+v(0 1 2 3 4 5 6 7 8 13 14 15 16 17): 13.69031047821045, EP: 1.0041284561157227	 ([indianapolis][- -][talk][leading][week][# 39 ; s][matchup][indianapolis][colts][quarterbacks][shootout][two][would][have.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 13.63402271270752, EP: 1.0	 ([indianapolis][- -][talk][leading][week][# 39 ; s][matchup][indianapolis][colts][green][bay][packers][focused][quarterbacks][shootout][two][would][have.])
+v(1 2 3 4 5 6 8 15 16 17): 13.63195514678955, EP: 0.9998483657836914	 ([- -][talk][leading][week][# 39 ; s][matchup][colts][two][would][have.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

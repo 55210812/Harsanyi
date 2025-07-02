@@ -1,0 +1,63 @@
+Execution time: 2025-07-02 19:30:28
+prompt: [CLS] reuters - rwanda can and will strike rwandan \ rebels in congo if little continues to be done to disarm them, \ but kigali is not spoiling for a fight, president paul kagame \ said on saturday after meeting his congolese counterpart. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26665 decoded_text: reuters
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:17591 decoded_text: rwanda
+idx:4 input_id:2064 decoded_text: can
+idx:5 input_id:1998 decoded_text: and
+idx:6 input_id:2097 decoded_text: will
+idx:7 input_id:4894 decoded_text: strike
+idx:8 input_id:17591 decoded_text: rwanda
+idx:9 input_id:2078 decoded_text: ##n
+idx:10 input_id:1032 decoded_text: \
+idx:11 input_id:8431 decoded_text: rebels
+idx:12 input_id:1999 decoded_text: in
+idx:13 input_id:9030 decoded_text: congo
+idx:14 input_id:2065 decoded_text: if
+idx:15 input_id:2210 decoded_text: little
+idx:16 input_id:4247 decoded_text: continues
+idx:17 input_id:2000 decoded_text: to
+idx:18 input_id:2022 decoded_text: be
+idx:19 input_id:2589 decoded_text: done
+idx:20 input_id:2000 decoded_text: to
+idx:21 input_id:4487 decoded_text: di
+idx:22 input_id:10286 decoded_text: ##sar
+idx:23 input_id:2213 decoded_text: ##m
+idx:24 input_id:2068 decoded_text: them
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:1032 decoded_text: \
+idx:27 input_id:2021 decoded_text: but
+idx:28 input_id:11382 decoded_text: ki
+idx:29 input_id:9692 decoded_text: ##gal
+idx:30 input_id:2072 decoded_text: ##i
+idx:31 input_id:2003 decoded_text: is
+idx:32 input_id:2025 decoded_text: not
+idx:33 input_id:27594 decoded_text: spoil
+idx:34 input_id:2075 decoded_text: ##ing
+idx:35 input_id:2005 decoded_text: for
+idx:36 input_id:1037 decoded_text: a
+idx:37 input_id:2954 decoded_text: fight
+idx:38 input_id:1010 decoded_text: ,
+idx:39 input_id:2343 decoded_text: president
+idx:40 input_id:2703 decoded_text: paul
+idx:41 input_id:10556 decoded_text: ka
+idx:42 input_id:16650 decoded_text: ##game
+idx:43 input_id:1032 decoded_text: \
+idx:44 input_id:2056 decoded_text: said
+idx:45 input_id:2006 decoded_text: on
+idx:46 input_id:5095 decoded_text: saturday
+idx:47 input_id:2044 decoded_text: after
+idx:48 input_id:3116 decoded_text: meeting
+idx:49 input_id:2010 decoded_text: his
+idx:50 input_id:9030 decoded_text: congo
+idx:51 input_id:24527 decoded_text: ##lese
+idx:52 input_id:13637 decoded_text: counterpart
+idx:53 input_id:1012 decoded_text: .
+idx:54 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.386972427368164, -2.234127998352051, -2.4299888610839844, -2.369014024734497]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

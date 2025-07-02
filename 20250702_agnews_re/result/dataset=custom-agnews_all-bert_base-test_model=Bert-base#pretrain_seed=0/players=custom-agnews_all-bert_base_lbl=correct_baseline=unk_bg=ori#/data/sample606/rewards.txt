@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: washington
+Player 1: ( reuters )
+Player 2: -
+Player 3: top
+Player 4: democratic
+Player 5: senator
+Player 6: wednesday
+Player 7: said
+Player 8: lawmakers
+Player 9: concerned
+Player 10: slide
+Player 11: value
+Player 12: dollar
+Player 13: urged
+Player 14: bush
+Player 15: administration
+Player 16: step
+Player 17: pressure
+Player 18: china
+Player 19: move
+Player 20: flexible
+Player 21: exchange
+Player 22: rate.
+---------- Rewards ----------
+v(): -3.649803876876831	 ([])
+v(1 2 4 5 14 15 18): -9.32878303527832	 ([( reuters )][-][democratic][senator][bush][administration][china])
+v(3 16 17 19 20 21 22): 7.060823917388916	 ([top][step][pressure][move][flexible][exchange][rate.])
+v(0 6 7 8 9 10 11 12 13): 7.5073137283325195	 ([washington][wednesday][said][lawmakers][concerned][slide][value][dollar][urged])
+v(1 2 3 4 5 14 15 16 17 18 19 20 21 22): -1.8617970943450928	 ([( reuters )][-][top][democratic][senator][bush][administration][step][pressure][china][move][flexible][exchange][rate.])
+v(0 1 2 4 5 6 7 8 9 10 11 12 13 14 15 18): 7.365302085876465	 ([washington][( reuters )][-][democratic][senator][wednesday][said][lawmakers][concerned][slide][value][dollar][urged][bush][administration][china])
+v(0 3 6 7 8 9 10 11 12 13 16 17 19 20 21 22): 7.859657287597656	 ([washington][top][wednesday][said][lawmakers][concerned][slide][value][dollar][urged][step][pressure][move][flexible][exchange][rate.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.830842971801758	 ([washington][( reuters )][-][top][democratic][senator][wednesday][said][lawmakers][concerned][slide][value][dollar][urged][bush][administration][step][pressure][china][move][flexible][exchange][rate.])
+---------- Rewards-v() ----------
+v(0 3 6 7 8 9 10 11 12 13 16 17 19 20 21 22): 11.509461402893066, EP: 1.0025098323822021	 ([washington][top][wednesday][said][lawmakers][concerned][slide][value][dollar][urged][step][pressure][move][flexible][exchange][rate.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 11.480647087097168, EP: 1.0	 ([washington][( reuters )][-][top][democratic][senator][wednesday][said][lawmakers][concerned][slide][value][dollar][urged][bush][administration][step][pressure][china][move][flexible][exchange][rate.])
+v(0 6 7 8 9 10 11 12 13): 11.15711784362793, EP: 0.9718195796012878	 ([washington][wednesday][said][lawmakers][concerned][slide][value][dollar][urged])
+v(0 1 2 4 5 6 7 8 9 10 11 12 13 14 15 18): 11.015106201171875, EP: 0.9594499468803406	 ([washington][( reuters )][-][democratic][senator][wednesday][said][lawmakers][concerned][slide][value][dollar][urged][bush][administration][china])
+v(3 16 17 19 20 21 22): 10.710627555847168, EP: 0.9329289197921753	 ([top][step][pressure][move][flexible][exchange][rate.])
+v(1 2 4 5 14 15 18): -5.67897891998291, EP: -0.49465668201446533	 ([( reuters )][-][democratic][senator][bush][administration][china])
+v(1 2 3 4 5 14 15 16 17 18 19 20 21 22): 1.7880067825317383, EP: 0.15574094653129578	 ([( reuters )][-][top][democratic][senator][bush][administration][step][pressure][china][move][flexible][exchange][rate.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,62 @@
+Execution time: 2025-07-02 19:24:16
+prompt: [CLS] ap - the federal communications commission gave its approval tuesday to cingular wireless llc's # 36 ; 41 billion acquisition of at amp ; t wireless services inc., completing the federal regulatory blessing necessary for creation of the country's largest cellphone company. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:1996 decoded_text: the
+idx:4 input_id:2976 decoded_text: federal
+idx:5 input_id:4806 decoded_text: communications
+idx:6 input_id:3222 decoded_text: commission
+idx:7 input_id:2435 decoded_text: gave
+idx:8 input_id:2049 decoded_text: its
+idx:9 input_id:6226 decoded_text: approval
+idx:10 input_id:9857 decoded_text: tuesday
+idx:11 input_id:2000 decoded_text: to
+idx:12 input_id:25022 decoded_text: ci
+idx:13 input_id:3070 decoded_text: ##ng
+idx:14 input_id:7934 decoded_text: ##ular
+idx:15 input_id:9949 decoded_text: wireless
+idx:16 input_id:11775 decoded_text: llc
+idx:17 input_id:1005 decoded_text: '
+idx:18 input_id:1055 decoded_text: s
+idx:19 input_id:1001 decoded_text: #
+idx:20 input_id:4029 decoded_text: 36
+idx:21 input_id:1025 decoded_text: ;
+idx:22 input_id:4601 decoded_text: 41
+idx:23 input_id:4551 decoded_text: billion
+idx:24 input_id:7654 decoded_text: acquisition
+idx:25 input_id:1997 decoded_text: of
+idx:26 input_id:2012 decoded_text: at
+idx:27 input_id:23713 decoded_text: amp
+idx:28 input_id:1025 decoded_text: ;
+idx:29 input_id:1056 decoded_text: t
+idx:30 input_id:9949 decoded_text: wireless
+idx:31 input_id:2578 decoded_text: services
+idx:32 input_id:4297 decoded_text: inc
+idx:33 input_id:1012 decoded_text: .
+idx:34 input_id:1010 decoded_text: ,
+idx:35 input_id:7678 decoded_text: completing
+idx:36 input_id:1996 decoded_text: the
+idx:37 input_id:2976 decoded_text: federal
+idx:38 input_id:10738 decoded_text: regulatory
+idx:39 input_id:13301 decoded_text: blessing
+idx:40 input_id:4072 decoded_text: necessary
+idx:41 input_id:2005 decoded_text: for
+idx:42 input_id:4325 decoded_text: creation
+idx:43 input_id:1997 decoded_text: of
+idx:44 input_id:1996 decoded_text: the
+idx:45 input_id:2406 decoded_text: country
+idx:46 input_id:1005 decoded_text: '
+idx:47 input_id:1055 decoded_text: s
+idx:48 input_id:2922 decoded_text: largest
+idx:49 input_id:3526 decoded_text: cell
+idx:50 input_id:9864 decoded_text: ##phone
+idx:51 input_id:2194 decoded_text: company
+idx:52 input_id:1012 decoded_text: .
+idx:53 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.3729543685913086, -4.078396320343018, 1.0833536386489868, 5.447244167327881]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

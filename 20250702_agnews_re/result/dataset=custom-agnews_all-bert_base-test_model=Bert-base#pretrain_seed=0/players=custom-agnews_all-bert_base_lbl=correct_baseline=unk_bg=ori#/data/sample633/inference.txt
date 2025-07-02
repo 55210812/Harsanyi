@@ -1,0 +1,46 @@
+Execution time: 2025-07-02 19:32:47
+prompt: [CLS] a week after releasing windows xp service pack 2 to enterprises, microsoft is trying to quell confusion over an apparent security flaw and applications that won # 39 ; t work without adjustments. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:2733 decoded_text: week
+idx:3 input_id:2044 decoded_text: after
+idx:4 input_id:8287 decoded_text: releasing
+idx:5 input_id:3645 decoded_text: windows
+idx:6 input_id:26726 decoded_text: xp
+idx:7 input_id:2326 decoded_text: service
+idx:8 input_id:5308 decoded_text: pack
+idx:9 input_id:1016 decoded_text: 2
+idx:10 input_id:2000 decoded_text: to
+idx:11 input_id:9926 decoded_text: enterprises
+idx:12 input_id:1010 decoded_text: ,
+idx:13 input_id:7513 decoded_text: microsoft
+idx:14 input_id:2003 decoded_text: is
+idx:15 input_id:2667 decoded_text: trying
+idx:16 input_id:2000 decoded_text: to
+idx:17 input_id:10861 decoded_text: que
+idx:18 input_id:3363 decoded_text: ##ll
+idx:19 input_id:6724 decoded_text: confusion
+idx:20 input_id:2058 decoded_text: over
+idx:21 input_id:2019 decoded_text: an
+idx:22 input_id:6835 decoded_text: apparent
+idx:23 input_id:3036 decoded_text: security
+idx:24 input_id:28450 decoded_text: flaw
+idx:25 input_id:1998 decoded_text: and
+idx:26 input_id:5097 decoded_text: applications
+idx:27 input_id:2008 decoded_text: that
+idx:28 input_id:2180 decoded_text: won
+idx:29 input_id:1001 decoded_text: #
+idx:30 input_id:4464 decoded_text: 39
+idx:31 input_id:1025 decoded_text: ;
+idx:32 input_id:1056 decoded_text: t
+idx:33 input_id:2147 decoded_text: work
+idx:34 input_id:2302 decoded_text: without
+idx:35 input_id:24081 decoded_text: adjustments
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.9238440990448, -2.9130430221557617, -0.3822498321533203, 7.0180277824401855]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

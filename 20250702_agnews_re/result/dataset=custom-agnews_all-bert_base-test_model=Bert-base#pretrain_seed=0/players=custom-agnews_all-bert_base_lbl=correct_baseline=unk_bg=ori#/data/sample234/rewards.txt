@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: us
+Player 1: space
+Player 2: agency
+Player 3: given
+Player 4: green
+Player 5: light
+Player 6: resumption
+Player 7: space
+Player 8: shuttle
+Player 9: flights
+Player 10: may
+Player 11: 2005,
+Player 12: two
+Player 13: years
+Player 14: seven
+Player 15: astronauts
+Player 16: died
+Player 17: mid - air
+Player 18: disintegration
+Player 19: space
+Player 20: shuttle
+Player 21: columbia.
+---------- Rewards ----------
+v(): 2.460211753845215	 ([])
+v(0 1 2 7 14 15 19 21): 8.306896209716797	 ([us][space][agency][space][seven][astronauts][space][columbia.])
+v(3 8 9 10 11 13 16 17 18 20): 8.175008773803711	 ([given][shuttle][flights][may][2005,][years][died][mid - air][disintegration][shuttle])
+v(4 5 6 12): 4.5369768142700195	 ([green][light][resumption][two])
+v(0 1 2 3 7 8 9 10 11 13 14 15 16 17 18 19 20 21): 7.963970184326172	 ([us][space][agency][given][space][shuttle][flights][may][2005,][years][seven][astronauts][died][mid - air][disintegration][space][shuttle][columbia.])
+v(0 1 2 4 5 6 7 12 14 15 19 21): 8.364971160888672	 ([us][space][agency][green][light][resumption][space][two][seven][astronauts][space][columbia.])
+v(3 4 5 6 8 9 10 11 12 13 16 17 18 20): 8.259281158447266	 ([given][green][light][resumption][shuttle][flights][may][2005,][two][years][died][mid - air][disintegration][shuttle])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 7.655117988586426	 ([us][space][agency][given][green][light][resumption][space][shuttle][flights][may][2005,][two][years][seven][astronauts][died][mid - air][disintegration][space][shuttle][columbia.])
+---------- Rewards-v() ----------
+v(0 1 2 4 5 6 7 12 14 15 19 21): 5.904759407043457, EP: 1.1366441249847412	 ([us][space][agency][green][light][resumption][space][two][seven][astronauts][space][columbia.])
+v(0 1 2 7 14 15 19 21): 5.846684455871582, EP: 1.125464916229248	 ([us][space][agency][space][seven][astronauts][space][columbia.])
+v(3 4 5 6 8 9 10 11 12 13 16 17 18 20): 5.799069404602051, EP: 1.1162991523742676	 ([given][green][light][resumption][shuttle][flights][may][2005,][two][years][died][mid - air][disintegration][shuttle])
+v(3 8 9 10 11 13 16 17 18 20): 5.714797019958496, EP: 1.1000770330429077	 ([given][shuttle][flights][may][2005,][years][died][mid - air][disintegration][shuttle])
+v(0 1 2 3 7 8 9 10 11 13 14 15 16 17 18 19 20 21): 5.503758430480957, EP: 1.0594528913497925	 ([us][space][agency][given][space][shuttle][flights][may][2005,][years][seven][astronauts][died][mid - air][disintegration][space][shuttle][columbia.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 5.194906234741211, EP: 1.0	 ([us][space][agency][given][green][light][resumption][space][shuttle][flights][may][2005,][two][years][seven][astronauts][died][mid - air][disintegration][space][shuttle][columbia.])
+v(4 5 6 12): 2.0767650604248047, EP: 0.39976948499679565	 ([green][light][resumption][two])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

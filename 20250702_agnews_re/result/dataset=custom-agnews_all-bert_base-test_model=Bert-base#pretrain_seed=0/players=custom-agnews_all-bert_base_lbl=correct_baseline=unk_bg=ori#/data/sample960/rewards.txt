@@ -1,0 +1,61 @@
+---------- Players ----------
+Player 0: day
+Player 1: release
+Player 2: last
+Player 3: week,
+Player 4: mozilla
+Player 5: foundation
+Player 6: # 39 ; s
+Player 7: firefox
+Player 8: 1. 0
+Player 9: already
+Player 10: garnered
+Player 11: 3
+Player 12: web - browser
+Player 13: market.
+Player 14: bad
+Player 15: new
+Player 16: product
+Player 17: competing
+Player 18: directly
+Player 19: microsoft
+Player 20: # 39 ; s
+Player 21: widely
+Player 22: entrenched
+Player 23: internet
+Player 24: explorer.
+---------- Rewards ----------
+v(): 1.1092857122421265	 ([])
+v(4 7 10 12 18 19 23 24): 8.279420852661133	 ([mozilla][firefox][garnered][web - browser][directly][microsoft][internet][explorer.])
+v(1 5 6 8 13): 3.110487461090088	 ([release][foundation][# 39 ; s][1. 0][market.])
+v(9 14 15 16 17 20): 1.9441149234771729	 ([already][bad][new][product][competing][# 39 ; s])
+v(0 2 3 11 21 22): 4.585947513580322	 ([day][last][week,][3][widely][entrenched])
+v(1 4 5 6 7 8 10 12 13 18 19 23 24): 8.37240982055664	 ([release][mozilla][foundation][# 39 ; s][firefox][1. 0][garnered][web - browser][market.][directly][microsoft][internet][explorer.])
+v(4 7 9 10 12 14 15 16 17 18 19 20 23 24): 8.350890159606934	 ([mozilla][firefox][already][garnered][web - browser][bad][new][product][competing][directly][microsoft][# 39 ; s][internet][explorer.])
+v(0 2 3 4 7 10 11 12 18 19 21 22 23 24): 8.306873321533203	 ([day][last][week,][mozilla][firefox][garnered][3][web - browser][directly][microsoft][widely][entrenched][internet][explorer.])
+v(1 5 6 8 9 13 14 15 16 17 20): 3.4128217697143555	 ([release][foundation][# 39 ; s][1. 0][already][market.][bad][new][product][competing][# 39 ; s])
+v(0 1 2 3 5 6 8 11 13 21 22): 4.058053493499756	 ([day][release][last][week,][foundation][# 39 ; s][1. 0][3][market.][widely][entrenched])
+v(0 2 3 9 11 14 15 16 17 20 21 22): 3.140956401824951	 ([day][last][week,][already][3][bad][new][product][competing][# 39 ; s][widely][entrenched])
+v(1 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 23 24): 8.423255920410156	 ([release][mozilla][foundation][# 39 ; s][firefox][1. 0][already][garnered][web - browser][market.][bad][new][product][competing][directly][microsoft][# 39 ; s][internet][explorer.])
+v(0 1 2 3 4 5 6 7 8 10 11 12 13 18 19 21 22 23 24): 8.391901969909668	 ([day][release][last][week,][mozilla][foundation][# 39 ; s][firefox][1. 0][garnered][3][web - browser][market.][directly][microsoft][widely][entrenched][internet][explorer.])
+v(0 2 3 4 7 9 10 11 12 14 15 16 17 18 19 20 21 22 23 24): 8.49000072479248	 ([day][last][week,][mozilla][firefox][already][garnered][3][web - browser][bad][new][product][competing][directly][microsoft][# 39 ; s][widely][entrenched][internet][explorer.])
+v(0 1 2 3 5 6 8 9 11 13 14 15 16 17 20 21 22): 3.895277976989746	 ([day][release][last][week,][foundation][# 39 ; s][1. 0][already][3][market.][bad][new][product][competing][# 39 ; s][widely][entrenched])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 8.503154754638672	 ([day][release][last][week,][mozilla][foundation][# 39 ; s][firefox][1. 0][already][garnered][3][web - browser][market.][bad][new][product][competing][directly][microsoft][# 39 ; s][widely][entrenched][internet][explorer.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 7.393868923187256, EP: 1.0	 ([day][release][last][week,][mozilla][foundation][# 39 ; s][firefox][1. 0][already][garnered][3][web - browser][market.][bad][new][product][competing][directly][microsoft][# 39 ; s][widely][entrenched][internet][explorer.])
+v(0 2 3 4 7 9 10 11 12 14 15 16 17 18 19 20 21 22 23 24): 7.3807148933410645, EP: 0.9982209801673889	 ([day][last][week,][mozilla][firefox][already][garnered][3][web - browser][bad][new][product][competing][directly][microsoft][# 39 ; s][widely][entrenched][internet][explorer.])
+v(1 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 23 24): 7.31397008895874, EP: 0.9891939163208008	 ([release][mozilla][foundation][# 39 ; s][firefox][1. 0][already][garnered][web - browser][market.][bad][new][product][competing][directly][microsoft][# 39 ; s][internet][explorer.])
+v(0 1 2 3 4 5 6 7 8 10 11 12 13 18 19 21 22 23 24): 7.282616138458252, EP: 0.9849533438682556	 ([day][release][last][week,][mozilla][foundation][# 39 ; s][firefox][1. 0][garnered][3][web - browser][market.][directly][microsoft][widely][entrenched][internet][explorer.])
+v(1 4 5 6 7 8 10 12 13 18 19 23 24): 7.263123989105225, EP: 0.9823170900344849	 ([release][mozilla][foundation][# 39 ; s][firefox][1. 0][garnered][web - browser][market.][directly][microsoft][internet][explorer.])
+v(4 7 9 10 12 14 15 16 17 18 19 20 23 24): 7.241604328155518, EP: 0.9794066548347473	 ([mozilla][firefox][already][garnered][web - browser][bad][new][product][competing][directly][microsoft][# 39 ; s][internet][explorer.])
+v(0 2 3 4 7 10 11 12 18 19 21 22 23 24): 7.197587490081787, EP: 0.9734534621238708	 ([day][last][week,][mozilla][firefox][garnered][3][web - browser][directly][microsoft][widely][entrenched][internet][explorer.])
+v(4 7 10 12 18 19 23 24): 7.170135021209717, EP: 0.969740629196167	 ([mozilla][firefox][garnered][web - browser][directly][microsoft][internet][explorer.])
+v(0 2 3 11 21 22): 3.4766616821289062, EP: 0.4702087342739105	 ([day][last][week,][3][widely][entrenched])
+v(0 1 2 3 5 6 8 11 13 21 22): 2.94876766204834, EP: 0.39881253242492676	 ([day][release][last][week,][foundation][# 39 ; s][1. 0][3][market.][widely][entrenched])
+v(0 1 2 3 5 6 8 9 11 13 14 15 16 17 20 21 22): 2.78599214553833, EP: 0.376797616481781	 ([day][release][last][week,][foundation][# 39 ; s][1. 0][already][3][market.][bad][new][product][competing][# 39 ; s][widely][entrenched])
+v(1 5 6 8 9 13 14 15 16 17 20): 2.3035359382629395, EP: 0.31154677271842957	 ([release][foundation][# 39 ; s][1. 0][already][market.][bad][new][product][competing][# 39 ; s])
+v(0 2 3 9 11 14 15 16 17 20 21 22): 2.031670570373535, EP: 0.27477774024009705	 ([day][last][week,][already][3][bad][new][product][competing][# 39 ; s][widely][entrenched])
+v(1 5 6 8 13): 2.001201629638672, EP: 0.27065688371658325	 ([release][foundation][# 39 ; s][1. 0][market.])
+v(9 14 15 16 17 20): 0.8348292112350464, EP: 0.11290830373764038	 ([already][bad][new][product][competing][# 39 ; s])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

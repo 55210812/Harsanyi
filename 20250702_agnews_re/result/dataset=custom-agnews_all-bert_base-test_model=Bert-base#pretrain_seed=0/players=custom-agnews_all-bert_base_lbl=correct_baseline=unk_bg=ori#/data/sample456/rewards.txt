@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: bayern
+Player 1: munich
+Player 2: manager
+Player 3: felix
+Player 4: magath
+Player 5: admits
+Player 6: unconcerned
+Player 7: side
+Player 8: face
+Player 9: last
+Player 10: sixteen
+Player 11: champions
+Player 12: league,
+Player 13: claiming
+Player 14: 18 - time
+Player 15: german
+Player 16: champions
+Player 17: capable
+Player 18: beating
+Player 19: anyone.
+---------- Rewards ----------
+v(): -1.7640939950942993	 ([])
+v(6 18 19): 1.2359057664871216	 ([unconcerned][beating][anyone.])
+v(1 2 4 8 13 15 17): 5.636991024017334	 ([munich][manager][magath][face][claiming][german][capable])
+v(0 3 5 7 9 10 11 12 14 16): 9.701496124267578	 ([bayern][felix][admits][side][last][sixteen][champions][league,][18 - time][champions])
+v(1 2 4 6 8 13 15 17 18 19): 6.3376359939575195	 ([munich][manager][magath][unconcerned][face][claiming][german][capable][beating][anyone.])
+v(0 3 5 6 7 9 10 11 12 14 16 18 19): 9.718866348266602	 ([bayern][felix][admits][unconcerned][side][last][sixteen][champions][league,][18 - time][champions][beating][anyone.])
+v(0 1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17): 9.493836402893066	 ([bayern][munich][manager][felix][magath][admits][side][face][last][sixteen][champions][league,][claiming][18 - time][german][champions][capable])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.949080467224121	 ([bayern][munich][manager][felix][magath][admits][unconcerned][side][face][last][sixteen][champions][league,][claiming][18 - time][german][champions][capable][beating][anyone.])
+---------- Rewards-v() ----------
+v(0 3 5 6 7 9 10 11 12 14 16 18 19): 11.48296070098877, EP: 1.0718541145324707	 ([bayern][felix][admits][unconcerned][side][last][sixteen][champions][league,][18 - time][champions][beating][anyone.])
+v(0 3 5 7 9 10 11 12 14 16): 11.465590476989746, EP: 1.0702327489852905	 ([bayern][felix][admits][side][last][sixteen][champions][league,][18 - time][champions])
+v(0 1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17): 11.257930755615234, EP: 1.050849199295044	 ([bayern][munich][manager][felix][magath][admits][side][face][last][sixteen][champions][league,][claiming][18 - time][german][champions][capable])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 10.713174819946289, EP: 1.0	 ([bayern][munich][manager][felix][magath][admits][unconcerned][side][face][last][sixteen][champions][league,][claiming][18 - time][german][champions][capable][beating][anyone.])
+v(1 2 4 6 8 13 15 17 18 19): 8.101730346679688, EP: 0.7562398910522461	 ([munich][manager][magath][unconcerned][face][claiming][german][capable][beating][anyone.])
+v(1 2 4 8 13 15 17): 7.401084899902344, EP: 0.6908395290374756	 ([munich][manager][magath][face][claiming][german][capable])
+v(6 18 19): 2.999999761581421, EP: 0.2800289988517761	 ([unconcerned][beating][anyone.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

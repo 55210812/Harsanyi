@@ -1,0 +1,64 @@
+Execution time: 2025-07-02 19:21:56
+prompt: [CLS] federation rules that judges # 39 ; mistake cost s. korea # 39 ; s yang a victory, but hamm gets to keep medal. athens, greece - paul hamm was erroneously awarded the gold medal in the men # 39 ; s all - around wednesday night because [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4657 decoded_text: federation
+idx:2 input_id:3513 decoded_text: rules
+idx:3 input_id:2008 decoded_text: that
+idx:4 input_id:6794 decoded_text: judges
+idx:5 input_id:1001 decoded_text: #
+idx:6 input_id:4464 decoded_text: 39
+idx:7 input_id:1025 decoded_text: ;
+idx:8 input_id:6707 decoded_text: mistake
+idx:9 input_id:3465 decoded_text: cost
+idx:10 input_id:1055 decoded_text: s
+idx:11 input_id:1012 decoded_text: .
+idx:12 input_id:4420 decoded_text: korea
+idx:13 input_id:1001 decoded_text: #
+idx:14 input_id:4464 decoded_text: 39
+idx:15 input_id:1025 decoded_text: ;
+idx:16 input_id:1055 decoded_text: s
+idx:17 input_id:8675 decoded_text: yang
+idx:18 input_id:1037 decoded_text: a
+idx:19 input_id:3377 decoded_text: victory
+idx:20 input_id:1010 decoded_text: ,
+idx:21 input_id:2021 decoded_text: but
+idx:22 input_id:10654 decoded_text: ham
+idx:23 input_id:2213 decoded_text: ##m
+idx:24 input_id:4152 decoded_text: gets
+idx:25 input_id:2000 decoded_text: to
+idx:26 input_id:2562 decoded_text: keep
+idx:27 input_id:3101 decoded_text: medal
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:7571 decoded_text: athens
+idx:30 input_id:1010 decoded_text: ,
+idx:31 input_id:5483 decoded_text: greece
+idx:32 input_id:1011 decoded_text: -
+idx:33 input_id:2703 decoded_text: paul
+idx:34 input_id:10654 decoded_text: ham
+idx:35 input_id:2213 decoded_text: ##m
+idx:36 input_id:2001 decoded_text: was
+idx:37 input_id:29411 decoded_text: erroneously
+idx:38 input_id:3018 decoded_text: awarded
+idx:39 input_id:1996 decoded_text: the
+idx:40 input_id:2751 decoded_text: gold
+idx:41 input_id:3101 decoded_text: medal
+idx:42 input_id:1999 decoded_text: in
+idx:43 input_id:1996 decoded_text: the
+idx:44 input_id:2273 decoded_text: men
+idx:45 input_id:1001 decoded_text: #
+idx:46 input_id:4464 decoded_text: 39
+idx:47 input_id:1025 decoded_text: ;
+idx:48 input_id:1055 decoded_text: s
+idx:49 input_id:2035 decoded_text: all
+idx:50 input_id:1011 decoded_text: -
+idx:51 input_id:2105 decoded_text: around
+idx:52 input_id:9317 decoded_text: wednesday
+idx:53 input_id:2305 decoded_text: night
+idx:54 input_id:2138 decoded_text: because
+idx:55 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.7076706886291504, 8.19052791595459, -2.276262044906616, -2.897035598754883]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

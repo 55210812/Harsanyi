@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: sacramento
+Player 1: kings
+Player 2: guard
+Player 3: bobby
+Player 4: jackson,
+Player 5: right,
+Player 6: tries
+Player 7: shoot
+Player 8: outstretched
+Player 9: arm
+Player 10: houston
+Player 11: rockets
+Player 12: center
+Player 13: yao
+Player 14: ming,
+Player 15: china,
+Player 16: left,
+Player 17: fourth
+Player 18: quarter
+Player 19: sacramento,
+Player 20: calif.
+---------- Rewards ----------
+v(): -2.0706048011779785	 ([])
+v(0 10 11 19): 8.553715705871582	 ([sacramento][houston][rockets][sacramento,])
+v(8 9 12 13 16): -1.5949338674545288	 ([outstretched][arm][center][yao][left,])
+v(2 3 4): 3.3323421478271484	 ([guard][bobby][jackson,])
+v(1 5 6 7 14 15 17 18 20): -3.7109227180480957	 ([kings][right,][tries][shoot][ming,][china,][fourth][quarter][calif.])
+v(0 8 9 10 11 12 13 16 19): 8.977458000183105	 ([sacramento][outstretched][arm][houston][rockets][center][yao][left,][sacramento,])
+v(0 2 3 4 10 11 19): 8.874226570129395	 ([sacramento][guard][bobby][jackson,][houston][rockets][sacramento,])
+v(0 1 5 6 7 10 11 14 15 17 18 19 20): 8.828190803527832	 ([sacramento][kings][right,][tries][shoot][houston][rockets][ming,][china,][fourth][quarter][sacramento,][calif.])
+v(2 3 4 8 9 12 13 16): 8.488974571228027	 ([guard][bobby][jackson,][outstretched][arm][center][yao][left,])
+v(1 5 6 7 8 9 12 13 14 15 16 17 18 20): 4.930200576782227	 ([kings][right,][tries][shoot][outstretched][arm][center][yao][ming,][china,][left,][fourth][quarter][calif.])
+v(1 2 3 4 5 6 7 14 15 17 18 20): 9.03575611114502	 ([kings][guard][bobby][jackson,][right,][tries][shoot][ming,][china,][fourth][quarter][calif.])
+v(0 2 3 4 8 9 10 11 12 13 16 19): 9.130739212036133	 ([sacramento][guard][bobby][jackson,][outstretched][arm][houston][rockets][center][yao][left,][sacramento,])
+v(0 1 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.14267635345459	 ([sacramento][kings][right,][tries][shoot][outstretched][arm][houston][rockets][center][yao][ming,][china,][left,][fourth][quarter][sacramento,][calif.])
+v(0 1 2 3 4 5 6 7 10 11 14 15 17 18 19 20): 9.31808090209961	 ([sacramento][kings][guard][bobby][jackson,][right,][tries][shoot][houston][rockets][ming,][china,][fourth][quarter][sacramento,][calif.])
+v(1 2 3 4 5 6 7 8 9 12 13 14 15 16 17 18 20): 9.631488800048828	 ([kings][guard][bobby][jackson,][right,][tries][shoot][outstretched][arm][center][yao][ming,][china,][left,][fourth][quarter][calif.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.379586219787598	 ([sacramento][kings][guard][bobby][jackson,][right,][tries][shoot][outstretched][arm][houston][rockets][center][yao][ming,][china,][left,][fourth][quarter][sacramento,][calif.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 6 7 8 9 12 13 14 15 16 17 18 20): 11.702093124389648, EP: 1.021999716758728	 ([kings][guard][bobby][jackson,][right,][tries][shoot][outstretched][arm][center][yao][ming,][china,][left,][fourth][quarter][calif.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 11.450191497802734, EP: 1.0	 ([sacramento][kings][guard][bobby][jackson,][right,][tries][shoot][outstretched][arm][houston][rockets][center][yao][ming,][china,][left,][fourth][quarter][sacramento,][calif.])
+v(0 1 2 3 4 5 6 7 10 11 14 15 17 18 19 20): 11.38868522644043, EP: 0.994628369808197	 ([sacramento][kings][guard][bobby][jackson,][right,][tries][shoot][houston][rockets][ming,][china,][fourth][quarter][sacramento,][calif.])
+v(0 1 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 11.213281631469727, EP: 0.9793094992637634	 ([sacramento][kings][right,][tries][shoot][outstretched][arm][houston][rockets][center][yao][ming,][china,][left,][fourth][quarter][sacramento,][calif.])
+v(0 2 3 4 8 9 10 11 12 13 16 19): 11.201343536376953, EP: 0.9782668948173523	 ([sacramento][guard][bobby][jackson,][outstretched][arm][houston][rockets][center][yao][left,][sacramento,])
+v(1 2 3 4 5 6 7 14 15 17 18 20): 11.106361389160156, EP: 0.9699716567993164	 ([kings][guard][bobby][jackson,][right,][tries][shoot][ming,][china,][fourth][quarter][calif.])
+v(0 8 9 10 11 12 13 16 19): 11.048063278198242, EP: 0.9648802280426025	 ([sacramento][outstretched][arm][houston][rockets][center][yao][left,][sacramento,])
+v(0 2 3 4 10 11 19): 10.944831848144531, EP: 0.9558645486831665	 ([sacramento][guard][bobby][jackson,][houston][rockets][sacramento,])
+v(0 1 5 6 7 10 11 14 15 17 18 19 20): 10.898796081542969, EP: 0.9518439769744873	 ([sacramento][kings][right,][tries][shoot][houston][rockets][ming,][china,][fourth][quarter][sacramento,][calif.])
+v(0 10 11 19): 10.624320983886719, EP: 0.9278727769851685	 ([sacramento][houston][rockets][sacramento,])
+v(2 3 4 8 9 12 13 16): 10.559579849243164, EP: 0.9222186207771301	 ([guard][bobby][jackson,][outstretched][arm][center][yao][left,])
+v(1 5 6 7 8 9 12 13 14 15 16 17 18 20): 7.000805377960205, EP: 0.611413836479187	 ([kings][right,][tries][shoot][outstretched][arm][center][yao][ming,][china,][left,][fourth][quarter][calif.])
+v(2 3 4): 5.402946949005127, EP: 0.4718652069568634	 ([guard][bobby][jackson,])
+v(1 5 6 7 14 15 17 18 20): -1.6403179168701172, EP: -0.14325681328773499	 ([kings][right,][tries][shoot][ming,][china,][fourth][quarter][calif.])
+v(8 9 12 13 16): 0.4756709337234497, EP: 0.041542619466781616	 ([outstretched][arm][center][yao][left,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

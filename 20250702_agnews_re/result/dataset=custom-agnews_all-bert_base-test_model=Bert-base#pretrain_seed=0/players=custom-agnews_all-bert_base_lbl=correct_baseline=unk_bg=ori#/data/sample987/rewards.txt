@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: oil
+Player 1: producing
+Player 2: opec
+Player 3: cartel
+Player 4: monday
+Player 5: began
+Player 6: reducing
+Player 7: oil
+Player 8: output
+Player 9: maintain
+Player 10: prices
+Player 11: around
+Player 12: current
+Player 13: levels,
+Player 14: wall
+Player 15: street
+Player 16: journal
+Player 17: reported.
+---------- Rewards ----------
+v(): -2.4014503955841064	 ([])
+v(0 1 3 4 5 7 8 10): 6.759660243988037	 ([oil][producing][cartel][monday][began][oil][output][prices])
+v(2 14 15 16): 4.217864036560059	 ([opec][wall][street][journal])
+v(6 9 11 12 13 17): -0.9808664321899414	 ([reducing][maintain][around][current][levels,][reported.])
+v(0 1 2 3 4 5 7 8 10 14 15 16): 2.7787787914276123	 ([oil][producing][opec][cartel][monday][began][oil][output][prices][wall][street][journal])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 17): 4.336274147033691	 ([oil][producing][cartel][monday][began][reducing][oil][output][maintain][prices][around][current][levels,][reported.])
+v(2 6 9 11 12 13 14 15 16 17): 3.211442470550537	 ([opec][reducing][maintain][around][current][levels,][wall][street][journal][reported.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 1.7249963283538818	 ([oil][producing][opec][cartel][monday][began][reducing][oil][output][maintain][prices][around][current][levels,][wall][street][journal][reported.])
+---------- Rewards-v() ----------
+v(0 1 3 4 5 7 8 10): 9.161110877990723, EP: 2.2200968265533447	 ([oil][producing][cartel][monday][began][oil][output][prices])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 17): 6.737724304199219, EP: 1.6328150033950806	 ([oil][producing][cartel][monday][began][reducing][oil][output][maintain][prices][around][current][levels,][reported.])
+v(2 14 15 16): 6.619314193725586, EP: 1.6041196584701538	 ([opec][wall][street][journal])
+v(2 6 9 11 12 13 14 15 16 17): 5.612893104553223, EP: 1.3602242469787598	 ([opec][reducing][maintain][around][current][levels,][wall][street][journal][reported.])
+v(0 1 2 3 4 5 7 8 10 14 15 16): 5.180229187011719, EP: 1.2553728818893433	 ([oil][producing][opec][cartel][monday][began][oil][output][prices][wall][street][journal])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 4.126446723937988, EP: 1.0	 ([oil][producing][opec][cartel][monday][began][reducing][oil][output][maintain][prices][around][current][levels,][wall][street][journal][reported.])
+v(6 9 11 12 13 17): 1.420583963394165, EP: 0.3442632555961609	 ([reducing][maintain][around][current][levels,][reported.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

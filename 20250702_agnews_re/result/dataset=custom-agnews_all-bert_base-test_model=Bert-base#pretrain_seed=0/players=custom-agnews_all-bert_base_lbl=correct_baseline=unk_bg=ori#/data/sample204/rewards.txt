@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: firefox
+Player 1: second
+Player 2: choice
+Player 3: web
+Player 4: browser.
+Player 5: opera
+Player 6: comes
+Player 7: first.
+Player 8: doubts
+Player 9: that.
+Player 10: firefox
+Player 11: pretty
+Player 12: decent
+Player 13: browser.
+---------- Rewards ----------
+v(): 0.7454516887664795	 ([])
+v(0 1 3 4 10 13): 7.882942199707031	 ([firefox][second][web][browser.][firefox][browser.])
+v(2 5 6 7 8 9 11 12): 4.318500518798828	 ([choice][opera][comes][first.][doubts][that.][pretty][decent])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 7.775786399841309	 ([firefox][second][choice][web][browser.][opera][comes][first.][doubts][that.][firefox][pretty][decent][browser.])
+---------- Rewards-v() ----------
+v(0 1 3 4 10 13): 7.137490272521973, EP: 1.0152418613433838	 ([firefox][second][web][browser.][firefox][browser.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 7.03033447265625, EP: 1.0	 ([firefox][second][choice][web][browser.][opera][comes][first.][doubts][that.][firefox][pretty][decent][browser.])
+v(2 5 6 7 8 9 11 12): 3.5730488300323486, EP: 0.5082331299781799	 ([choice][opera][comes][first.][doubts][that.][pretty][decent])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

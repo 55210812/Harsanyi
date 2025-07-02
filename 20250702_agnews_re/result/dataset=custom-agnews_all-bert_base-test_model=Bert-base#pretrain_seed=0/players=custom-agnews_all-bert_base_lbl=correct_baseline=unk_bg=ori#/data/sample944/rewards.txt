@@ -1,0 +1,25 @@
+---------- Players ----------
+Player 0: television
+Player 1: networks
+Player 2: racing
+Player 3: develop
+Player 4: eye - catching
+Player 5: score
+Player 6: boxes.
+Player 7: fox,
+Player 8: example,
+Player 9: fire
+Player 10: coming
+Player 11: baseball
+Player 12: scores.
+---------- Rewards ----------
+v(): 6.993691444396973	 ([])
+v(0 1 2 4 10 11): 1.374572515487671	 ([television][networks][racing][eye - catching][coming][baseball])
+v(3 5 6 7 8 9 12): 3.8895747661590576	 ([develop][score][boxes.][fox,][example,][fire][scores.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 3.1887497901916504	 ([television][networks][racing][develop][eye - catching][score][boxes.][fox,][example,][fire][coming][baseball][scores.])
+---------- Rewards-v() ----------
+v(0 1 2 4 10 11): -5.619118690490723, EP: 1.476794958114624	 ([television][networks][racing][eye - catching][coming][baseball])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): -3.8049416542053223, EP: 1.0	 ([television][networks][racing][develop][eye - catching][score][boxes.][fox,][example,][fire][coming][baseball][scores.])
+v(3 5 6 7 8 9 12): -3.104116678237915, EP: 0.8158118724822998	 ([develop][score][boxes.][fox,][example,][fire][scores.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

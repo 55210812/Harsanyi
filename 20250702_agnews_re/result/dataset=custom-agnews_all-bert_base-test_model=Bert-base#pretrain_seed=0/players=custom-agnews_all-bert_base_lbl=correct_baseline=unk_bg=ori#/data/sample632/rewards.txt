@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: oil
+Player 1: prices
+Player 2: fell
+Player 3: \ $ 50
+Player 4: wednesday
+Player 5: fresh
+Player 6: rise
+Player 7: us
+Player 8: crude
+Player 9: oil
+Player 10: inventories
+Player 11: outweighed
+Player 12: impact
+Player 13: president
+Player 14: bush
+Player 15: # 39 ; s
+Player 16: victory
+Player 17: us
+Player 18: election.
+---------- Rewards ----------
+v(): -6.197876930236816	 ([])
+v(0 1 7 8 9 12 17): 7.305787563323975	 ([oil][prices][us][crude][oil][impact][us])
+v(2 3 4 5 6 10 11): 6.282835960388184	 ([fell][\ $ 50][wednesday][fresh][rise][inventories][outweighed])
+v(13 14 15 16 18): -7.103456974029541	 ([president][bush][# 39 ; s][victory][election.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 17): 5.638742446899414	 ([oil][prices][fell][\ $ 50][wednesday][fresh][rise][us][crude][oil][inventories][outweighed][impact][us])
+v(0 1 7 8 9 12 13 14 15 16 17 18): 6.993442058563232	 ([oil][prices][us][crude][oil][impact][president][bush][# 39 ; s][victory][us][election.])
+v(2 3 4 5 6 10 11 13 14 15 16 18): 6.613593101501465	 ([fell][\ $ 50][wednesday][fresh][rise][inventories][outweighed][president][bush][# 39 ; s][victory][election.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 6.736756801605225	 ([oil][prices][fell][\ $ 50][wednesday][fresh][rise][us][crude][oil][inventories][outweighed][impact][president][bush][# 39 ; s][victory][us][election.])
+---------- Rewards-v() ----------
+v(0 1 7 8 9 12 17): 13.503664016723633, EP: 1.0439927577972412	 ([oil][prices][us][crude][oil][impact][us])
+v(0 1 7 8 9 12 13 14 15 16 17 18): 13.19131851196289, EP: 1.0198447704315186	 ([oil][prices][us][crude][oil][impact][president][bush][# 39 ; s][victory][us][election.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 12.934633255004883, EP: 1.0	 ([oil][prices][fell][\ $ 50][wednesday][fresh][rise][us][crude][oil][inventories][outweighed][impact][president][bush][# 39 ; s][victory][us][election.])
+v(2 3 4 5 6 10 11 13 14 15 16 18): 12.811470031738281, EP: 0.9904780387878418	 ([fell][\ $ 50][wednesday][fresh][rise][inventories][outweighed][president][bush][# 39 ; s][victory][election.])
+v(2 3 4 5 6 10 11): 12.480712890625, EP: 0.9649065732955933	 ([fell][\ $ 50][wednesday][fresh][rise][inventories][outweighed])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 17): 11.83661937713623, EP: 0.9151105284690857	 ([oil][prices][fell][\ $ 50][wednesday][fresh][rise][us][crude][oil][inventories][outweighed][impact][us])
+v(13 14 15 16 18): -0.9055800437927246, EP: -0.07001204043626785	 ([president][bush][# 39 ; s][victory][election.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

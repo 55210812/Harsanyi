@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 19:19:52
+prompt: [CLS] reuters - israel lodged a protest with the \ united nations over the latest katyusha rocket fire into the \ jewish state from southern lebanon and vowed tuesday that it \ would not let such attacks pass without a response. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26665 decoded_text: reuters
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:3956 decoded_text: israel
+idx:4 input_id:20451 decoded_text: lodged
+idx:5 input_id:1037 decoded_text: a
+idx:6 input_id:6186 decoded_text: protest
+idx:7 input_id:2007 decoded_text: with
+idx:8 input_id:1996 decoded_text: the
+idx:9 input_id:1032 decoded_text: \
+idx:10 input_id:2142 decoded_text: united
+idx:11 input_id:3741 decoded_text: nations
+idx:12 input_id:2058 decoded_text: over
+idx:13 input_id:1996 decoded_text: the
+idx:14 input_id:6745 decoded_text: latest
+idx:15 input_id:17870 decoded_text: katy
+idx:16 input_id:20668 decoded_text: ##ush
+idx:17 input_id:2050 decoded_text: ##a
+idx:18 input_id:7596 decoded_text: rocket
+idx:19 input_id:2543 decoded_text: fire
+idx:20 input_id:2046 decoded_text: into
+idx:21 input_id:1996 decoded_text: the
+idx:22 input_id:1032 decoded_text: \
+idx:23 input_id:3644 decoded_text: jewish
+idx:24 input_id:2110 decoded_text: state
+idx:25 input_id:2013 decoded_text: from
+idx:26 input_id:2670 decoded_text: southern
+idx:27 input_id:8341 decoded_text: lebanon
+idx:28 input_id:1998 decoded_text: and
+idx:29 input_id:18152 decoded_text: vowed
+idx:30 input_id:9857 decoded_text: tuesday
+idx:31 input_id:2008 decoded_text: that
+idx:32 input_id:2009 decoded_text: it
+idx:33 input_id:1032 decoded_text: \
+idx:34 input_id:2052 decoded_text: would
+idx:35 input_id:2025 decoded_text: not
+idx:36 input_id:2292 decoded_text: let
+idx:37 input_id:2107 decoded_text: such
+idx:38 input_id:4491 decoded_text: attacks
+idx:39 input_id:3413 decoded_text: pass
+idx:40 input_id:2302 decoded_text: without
+idx:41 input_id:1037 decoded_text: a
+idx:42 input_id:3433 decoded_text: response
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.013197422027588, -2.028310537338257, -2.9131476879119873, -1.7326909303665161]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

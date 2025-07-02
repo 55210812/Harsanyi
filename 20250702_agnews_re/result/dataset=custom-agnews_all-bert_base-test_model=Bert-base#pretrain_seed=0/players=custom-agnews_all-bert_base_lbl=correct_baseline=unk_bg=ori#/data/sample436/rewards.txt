@@ -1,0 +1,49 @@
+---------- Players ----------
+Player 0: vijay
+Player 1: singh
+Player 2: fiji
+Player 3: hits
+Player 4: tee
+Player 5: seventh
+Player 6: hole
+Player 7: first - round
+Player 8: play
+Player 9: tour
+Player 10: championship
+Player 11: thursday
+Player 12: atlanta.
+---------- Rewards ----------
+v(): -6.270258903503418	 ([])
+v(7 8): 0.14006364345550537	 ([first - round][play])
+v(1 2 4 11): -2.230464458465576	 ([singh][fiji][tee][thursday])
+v(6 9 10 12): 8.117395401000977	 ([hole][tour][championship][atlanta.])
+v(0 3 5): -7.667998790740967	 ([vijay][hits][seventh])
+v(1 2 4 7 8 11): 8.682232856750488	 ([singh][fiji][tee][first - round][play][thursday])
+v(6 7 8 9 10 12): 8.622234344482422	 ([hole][first - round][play][tour][championship][atlanta.])
+v(0 3 5 7 8): 1.1333414316177368	 ([vijay][hits][seventh][first - round][play])
+v(1 2 4 6 9 10 11 12): 9.08723258972168	 ([singh][fiji][tee][hole][tour][championship][thursday][atlanta.])
+v(0 1 2 3 4 5 11): 2.2685208320617676	 ([vijay][singh][fiji][hits][tee][seventh][thursday])
+v(0 3 5 6 9 10 12): 7.448275089263916	 ([vijay][hits][seventh][hole][tour][championship][atlanta.])
+v(1 2 4 6 7 8 9 10 11 12): 9.23089599609375	 ([singh][fiji][tee][hole][first - round][play][tour][championship][thursday][atlanta.])
+v(0 1 2 3 4 5 7 8 11): 8.536474227905273	 ([vijay][singh][fiji][hits][tee][seventh][first - round][play][thursday])
+v(0 3 5 6 7 8 9 10 12): 7.259200096130371	 ([vijay][hits][seventh][hole][first - round][play][tour][championship][atlanta.])
+v(0 1 2 3 4 5 6 9 10 11 12): 9.003911972045898	 ([vijay][singh][fiji][hits][tee][seventh][hole][tour][championship][thursday][atlanta.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 9.430137634277344	 ([vijay][singh][fiji][hits][tee][seventh][hole][first - round][play][tour][championship][thursday][atlanta.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 15.700396537780762, EP: 1.0	 ([vijay][singh][fiji][hits][tee][seventh][hole][first - round][play][tour][championship][thursday][atlanta.])
+v(1 2 4 6 7 8 9 10 11 12): 15.501154899597168, EP: 0.9873097538948059	 ([singh][fiji][tee][hole][first - round][play][tour][championship][thursday][atlanta.])
+v(1 2 4 6 9 10 11 12): 15.357491493225098, EP: 0.978159487247467	 ([singh][fiji][tee][hole][tour][championship][thursday][atlanta.])
+v(0 1 2 3 4 5 6 9 10 11 12): 15.274170875549316, EP: 0.9728525280952454	 ([vijay][singh][fiji][hits][tee][seventh][hole][tour][championship][thursday][atlanta.])
+v(1 2 4 7 8 11): 14.952491760253906, EP: 0.9523639678955078	 ([singh][fiji][tee][first - round][play][thursday])
+v(6 7 8 9 10 12): 14.89249324798584, EP: 0.9485424757003784	 ([hole][first - round][play][tour][championship][atlanta.])
+v(0 1 2 3 4 5 7 8 11): 14.806733131408691, EP: 0.9430801868438721	 ([vijay][singh][fiji][hits][tee][seventh][first - round][play][thursday])
+v(6 9 10 12): 14.387654304504395, EP: 0.9163879752159119	 ([hole][tour][championship][atlanta.])
+v(0 3 5 6 9 10 12): 13.718534469604492, EP: 0.8737699389457703	 ([vijay][hits][seventh][hole][tour][championship][atlanta.])
+v(0 3 5 6 7 8 9 10 12): 13.529458999633789, EP: 0.861727237701416	 ([vijay][hits][seventh][hole][first - round][play][tour][championship][atlanta.])
+v(0 1 2 3 4 5 11): 8.538780212402344, EP: 0.5438576340675354	 ([vijay][singh][fiji][hits][tee][seventh][thursday])
+v(0 3 5 7 8): 7.403600215911865, EP: 0.4715549945831299	 ([vijay][hits][seventh][first - round][play])
+v(7 8): 6.410322666168213, EP: 0.4082905054092407	 ([first - round][play])
+v(1 2 4 11): 4.039794445037842, EP: 0.25730523467063904	 ([singh][fiji][tee][thursday])
+v(0 3 5): -1.3977398872375488, EP: -0.08902577310800552	 ([vijay][hits][seventh])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: hewlett - packard
+Player 1: developed
+Player 2: software
+Player 3: program
+Player 4: could
+Player 5: slow
+Player 6: spread
+Player 7: computer
+Player 8: viruses
+Player 9: worms
+Player 10: acting
+Player 11: quot ; throttle
+Player 12: quot ;
+Player 13: unauthroized
+Player 14: network
+Player 15: activity.
+---------- Rewards ----------
+v(): 4.344979286193848	 ([])
+v(5 6 8 13 15): 5.779611587524414	 ([slow][spread][viruses][unauthroized][activity.])
+v(1 2 3 4 7 9 14): 7.830809593200684	 ([developed][software][program][could][computer][worms][network])
+v(0 10 11 12): 4.700022220611572	 ([hewlett - packard][acting][quot ; throttle][quot ;])
+v(1 2 3 4 5 6 7 8 9 13 14 15): 7.1439666748046875	 ([developed][software][program][could][slow][spread][computer][viruses][worms][unauthroized][network][activity.])
+v(0 5 6 8 10 11 12 13 15): 7.328340530395508	 ([hewlett - packard][slow][spread][viruses][acting][quot ; throttle][quot ;][unauthroized][activity.])
+v(0 1 2 3 4 7 9 10 11 12 14): 8.059630393981934	 ([hewlett - packard][developed][software][program][could][computer][worms][acting][quot ; throttle][quot ;][network])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 4.986804962158203	 ([hewlett - packard][developed][software][program][could][slow][spread][computer][viruses][worms][acting][quot ; throttle][quot ;][unauthroized][network][activity.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 7 9 10 11 12 14): 3.714651107788086, EP: 5.787632465362549	 ([hewlett - packard][developed][software][program][could][computer][worms][acting][quot ; throttle][quot ;][network])
+v(1 2 3 4 7 9 14): 3.485830307006836, EP: 5.431117057800293	 ([developed][software][program][could][computer][worms][network])
+v(0 5 6 8 10 11 12 13 15): 2.98336124420166, EP: 4.648242473602295	 ([hewlett - packard][slow][spread][viruses][acting][quot ; throttle][quot ;][unauthroized][activity.])
+v(1 2 3 4 5 6 7 8 9 13 14 15): 2.79898738861084, EP: 4.360977649688721	 ([developed][software][program][could][slow][spread][computer][viruses][worms][unauthroized][network][activity.])
+v(5 6 8 13 15): 1.4346323013305664, EP: 2.235236644744873	 ([slow][spread][viruses][unauthroized][activity.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 0.6418256759643555, EP: 1.0	 ([hewlett - packard][developed][software][program][could][slow][spread][computer][viruses][worms][acting][quot ; throttle][quot ;][unauthroized][network][activity.])
+v(0 10 11 12): 0.3550429344177246, EP: 0.5531765818595886	 ([hewlett - packard][acting][quot ; throttle][quot ;])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

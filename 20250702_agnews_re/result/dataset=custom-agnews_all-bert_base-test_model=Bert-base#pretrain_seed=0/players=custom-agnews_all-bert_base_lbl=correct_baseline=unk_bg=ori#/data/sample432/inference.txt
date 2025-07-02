@@ -1,0 +1,42 @@
+Execution time: 2025-07-02 19:27:58
+prompt: [CLS] italian consumer prices rose the most in two months in august as record crude oil prices lifted transportation costs, data from italy # 39 ; s 13 biggest cities showed. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3059 decoded_text: italian
+idx:2 input_id:7325 decoded_text: consumer
+idx:3 input_id:7597 decoded_text: prices
+idx:4 input_id:3123 decoded_text: rose
+idx:5 input_id:1996 decoded_text: the
+idx:6 input_id:2087 decoded_text: most
+idx:7 input_id:1999 decoded_text: in
+idx:8 input_id:2048 decoded_text: two
+idx:9 input_id:2706 decoded_text: months
+idx:10 input_id:1999 decoded_text: in
+idx:11 input_id:2257 decoded_text: august
+idx:12 input_id:2004 decoded_text: as
+idx:13 input_id:2501 decoded_text: record
+idx:14 input_id:13587 decoded_text: crude
+idx:15 input_id:3514 decoded_text: oil
+idx:16 input_id:7597 decoded_text: prices
+idx:17 input_id:4196 decoded_text: lifted
+idx:18 input_id:5193 decoded_text: transportation
+idx:19 input_id:5366 decoded_text: costs
+idx:20 input_id:1010 decoded_text: ,
+idx:21 input_id:2951 decoded_text: data
+idx:22 input_id:2013 decoded_text: from
+idx:23 input_id:3304 decoded_text: italy
+idx:24 input_id:1001 decoded_text: #
+idx:25 input_id:4464 decoded_text: 39
+idx:26 input_id:1025 decoded_text: ;
+idx:27 input_id:1055 decoded_text: s
+idx:28 input_id:2410 decoded_text: 13
+idx:29 input_id:5221 decoded_text: biggest
+idx:30 input_id:3655 decoded_text: cities
+idx:31 input_id:3662 decoded_text: showed
+idx:32 input_id:1012 decoded_text: .
+idx:33 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[0.6636562943458557, -4.176724910736084, 5.320993423461914, -3.3847365379333496]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

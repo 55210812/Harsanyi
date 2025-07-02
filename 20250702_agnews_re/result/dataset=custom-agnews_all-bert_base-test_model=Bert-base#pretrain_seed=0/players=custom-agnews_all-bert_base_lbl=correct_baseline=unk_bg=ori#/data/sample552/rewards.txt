@@ -1,0 +1,47 @@
+---------- Players ----------
+Player 0: eyes
+Player 1: delaware
+Player 2: chancery
+Player 3: court
+Player 4: judge
+Player 5: oracle
+Player 6: # 39 ; s
+Player 7: lawsuit
+Player 8: peoplesoft
+Player 9: closed
+Player 10: friday.
+Player 11: two - weeks
+Player 12: # 39 ;
+Player 13: worth
+Player 14: testimony
+Player 15: centered
+Player 16: oracle
+Player 17: # 39 ; s
+Player 18: request
+Player 19: peoplesoft
+Player 20: ( quote,
+Player 21: chart )
+Player 22: remove
+Player 23: customer
+Player 24: assurance
+Player 25: program
+Player 26: ( cap ).
+---------- Rewards ----------
+v(): -3.8705649375915527	 ([])
+v(1 2 4 8 12 19 23 25): 2.603919506072998	 ([delaware][chancery][judge][peoplesoft][# 39 ;][peoplesoft][customer][program])
+v(0 3 7 11 13 14 18 20 24 26): 2.7780797481536865	 ([eyes][court][lawsuit][two - weeks][worth][testimony][request][( quote,][assurance][( cap ).])
+v(5 6 9 10 15 16 17 21 22): -1.1977977752685547	 ([oracle][# 39 ; s][closed][friday.][centered][oracle][# 39 ; s][chart )][remove])
+v(0 1 2 3 4 7 8 11 12 13 14 18 19 20 23 24 25 26): 4.293508052825928	 ([eyes][delaware][chancery][court][judge][lawsuit][peoplesoft][two - weeks][# 39 ;][worth][testimony][request][peoplesoft][( quote,][customer][assurance][program][( cap ).])
+v(1 2 4 5 6 8 9 10 12 15 16 17 19 21 22 23 25): 2.630403518676758	 ([delaware][chancery][judge][oracle][# 39 ; s][peoplesoft][closed][friday.][# 39 ;][centered][oracle][# 39 ; s][peoplesoft][chart )][remove][customer][program])
+v(0 3 5 6 7 9 10 11 13 14 15 16 17 18 20 21 22 24 26): 4.260964393615723	 ([eyes][court][oracle][# 39 ; s][lawsuit][closed][friday.][two - weeks][worth][testimony][centered][oracle][# 39 ; s][request][( quote,][chart )][remove][assurance][( cap ).])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 5.757712364196777	 ([eyes][delaware][chancery][court][judge][oracle][# 39 ; s][lawsuit][peoplesoft][closed][friday.][two - weeks][# 39 ;][worth][testimony][centered][oracle][# 39 ; s][request][peoplesoft][( quote,][chart )][remove][customer][assurance][program][( cap ).])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 9.628276824951172, EP: 1.0	 ([eyes][delaware][chancery][court][judge][oracle][# 39 ; s][lawsuit][peoplesoft][closed][friday.][two - weeks][# 39 ;][worth][testimony][centered][oracle][# 39 ; s][request][peoplesoft][( quote,][chart )][remove][customer][assurance][program][( cap ).])
+v(0 1 2 3 4 7 8 11 12 13 14 18 19 20 23 24 25 26): 8.16407299041748, EP: 0.847926676273346	 ([eyes][delaware][chancery][court][judge][lawsuit][peoplesoft][two - weeks][# 39 ;][worth][testimony][request][peoplesoft][( quote,][customer][assurance][program][( cap ).])
+v(0 3 5 6 7 9 10 11 13 14 15 16 17 18 20 21 22 24 26): 8.131528854370117, EP: 0.8445466160774231	 ([eyes][court][oracle][# 39 ; s][lawsuit][closed][friday.][two - weeks][worth][testimony][centered][oracle][# 39 ; s][request][( quote,][chart )][remove][assurance][( cap ).])
+v(0 3 7 11 13 14 18 20 24 26): 6.64864444732666, EP: 0.6905331611633301	 ([eyes][court][lawsuit][two - weeks][worth][testimony][request][( quote,][assurance][( cap ).])
+v(1 2 4 5 6 8 9 10 12 15 16 17 19 21 22 23 25): 6.5009684562683105, EP: 0.6751953959465027	 ([delaware][chancery][judge][oracle][# 39 ; s][peoplesoft][closed][friday.][# 39 ;][centered][oracle][# 39 ; s][peoplesoft][chart )][remove][customer][program])
+v(1 2 4 8 12 19 23 25): 6.474484443664551, EP: 0.672444760799408	 ([delaware][chancery][judge][peoplesoft][# 39 ;][peoplesoft][customer][program])
+v(5 6 9 10 15 16 17 21 22): 2.672767162322998, EP: 0.277595579624176	 ([oracle][# 39 ; s][closed][friday.][centered][oracle][# 39 ; s][chart )][remove])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

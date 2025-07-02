@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 19:41:15
+prompt: [CLS] ricky ponting has said he would be disappointed if senior west indies players, including batsman brian lara, did not join the team # 39 ; s one - day series tour [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:11184 decoded_text: ricky
+idx:2 input_id:21179 decoded_text: pont
+idx:3 input_id:2075 decoded_text: ##ing
+idx:4 input_id:2038 decoded_text: has
+idx:5 input_id:2056 decoded_text: said
+idx:6 input_id:2002 decoded_text: he
+idx:7 input_id:2052 decoded_text: would
+idx:8 input_id:2022 decoded_text: be
+idx:9 input_id:9364 decoded_text: disappointed
+idx:10 input_id:2065 decoded_text: if
+idx:11 input_id:3026 decoded_text: senior
+idx:12 input_id:2225 decoded_text: west
+idx:13 input_id:9429 decoded_text: indies
+idx:14 input_id:2867 decoded_text: players
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:2164 decoded_text: including
+idx:17 input_id:13953 decoded_text: batsman
+idx:18 input_id:4422 decoded_text: brian
+idx:19 input_id:13679 decoded_text: lara
+idx:20 input_id:1010 decoded_text: ,
+idx:21 input_id:2106 decoded_text: did
+idx:22 input_id:2025 decoded_text: not
+idx:23 input_id:3693 decoded_text: join
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:2136 decoded_text: team
+idx:26 input_id:1001 decoded_text: #
+idx:27 input_id:4464 decoded_text: 39
+idx:28 input_id:1025 decoded_text: ;
+idx:29 input_id:1055 decoded_text: s
+idx:30 input_id:2028 decoded_text: one
+idx:31 input_id:1011 decoded_text: -
+idx:32 input_id:2154 decoded_text: day
+idx:33 input_id:2186 decoded_text: series
+idx:34 input_id:2778 decoded_text: tour
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-3.0024659633636475, 8.235706329345703, -2.213930368423462, -1.8948557376861572]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: japan
+Player 3: put
+Player 4: hold
+Player 5: long - awaited
+Player 6: announcement
+Player 7: princess
+Player 8: sayako
+Player 9: would
+Player 10: become
+Player 11: last
+Player 12: emperor's
+Player 13: children
+Player 14: marry
+Player 15: oldest
+Player 16: royal,
+Player 17: princess
+Player 18: kikuko,
+Player 19: died
+Player 20: age
+Player 21: 92.
+---------- Rewards ----------
+v(): -7.200478553771973	 ([])
+v(4 5 6 7 8 9 11 13 14 21): 7.971600532531738	 ([hold][long - awaited][announcement][princess][sayako][would][last][children][marry][92.])
+v(0 1 2 3 10 12 16 18): 7.648247241973877	 ([afp][-][japan][put][become][emperor's][royal,][kikuko,])
+v(15 17 19 20): 2.31601619720459	 ([oldest][princess][died][age])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 16 18 21): 8.428116798400879	 ([afp][-][japan][put][hold][long - awaited][announcement][princess][sayako][would][become][last][emperor's][children][marry][royal,][kikuko,][92.])
+v(4 5 6 7 8 9 11 13 14 15 17 19 20 21): 7.731690406799316	 ([hold][long - awaited][announcement][princess][sayako][would][last][children][marry][oldest][princess][died][age][92.])
+v(0 1 2 3 10 12 15 16 17 18 19 20): 8.311873435974121	 ([afp][-][japan][put][become][emperor's][oldest][royal,][princess][kikuko,][died][age])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.269769668579102	 ([afp][-][japan][put][hold][long - awaited][announcement][princess][sayako][would][become][last][emperor's][children][marry][oldest][royal,][princess][kikuko,][died][age][92.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 16 18 21): 15.628595352172852, EP: 1.0102355480194092	 ([afp][-][japan][put][hold][long - awaited][announcement][princess][sayako][would][become][last][emperor's][children][marry][royal,][kikuko,][92.])
+v(0 1 2 3 10 12 15 16 17 18 19 20): 15.512351989746094, EP: 1.0027215480804443	 ([afp][-][japan][put][become][emperor's][oldest][royal,][princess][kikuko,][died][age])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 15.470248222351074, EP: 1.0	 ([afp][-][japan][put][hold][long - awaited][announcement][princess][sayako][would][become][last][emperor's][children][marry][oldest][royal,][princess][kikuko,][died][age][92.])
+v(4 5 6 7 8 9 11 13 14 21): 15.172079086303711, EP: 0.9807263016700745	 ([hold][long - awaited][announcement][princess][sayako][would][last][children][marry][92.])
+v(4 5 6 7 8 9 11 13 14 15 17 19 20 21): 14.932168960571289, EP: 0.9652184247970581	 ([hold][long - awaited][announcement][princess][sayako][would][last][children][marry][oldest][princess][died][age][92.])
+v(0 1 2 3 10 12 16 18): 14.848726272583008, EP: 0.9598246812820435	 ([afp][-][japan][put][become][emperor's][royal,][kikuko,])
+v(15 17 19 20): 9.516494750976562, EP: 0.6151481866836548	 ([oldest][princess][died][age])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

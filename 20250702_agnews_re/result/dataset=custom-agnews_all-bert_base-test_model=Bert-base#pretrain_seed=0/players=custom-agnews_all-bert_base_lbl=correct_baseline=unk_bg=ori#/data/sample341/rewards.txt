@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: hollywood
+Player 1: actor
+Player 2: johnny
+Player 3: depp
+Player 4: insists
+Player 5: never
+Player 6: called
+Player 7: america
+Player 8: " dumb "
+Player 9: going
+Player 10: war
+Player 11: iraq.
+---------- Rewards ----------
+v(): -5.917367935180664	 ([])
+v(2 3 9): 3.217358350753784	 ([johnny][depp][going])
+v(0 1 7 8 10 11): 5.950454235076904	 ([hollywood][actor][america][" dumb "][war][iraq.])
+v(4 5 6): -3.3931260108947754	 ([insists][never][called])
+v(0 1 2 3 7 8 9 10 11): 7.147207736968994	 ([hollywood][actor][johnny][depp][america][" dumb "][going][war][iraq.])
+v(2 3 4 5 6 9): 4.54071569442749	 ([johnny][depp][insists][never][called][going])
+v(0 1 4 5 6 7 8 10 11): 6.86643648147583	 ([hollywood][actor][insists][never][called][america][" dumb "][war][iraq.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 7.779940605163574	 ([hollywood][actor][johnny][depp][insists][never][called][america][" dumb "][going][war][iraq.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11): 13.697308540344238, EP: 1.0	 ([hollywood][actor][johnny][depp][insists][never][called][america][" dumb "][going][war][iraq.])
+v(0 1 2 3 7 8 9 10 11): 13.0645751953125, EP: 0.9538059830665588	 ([hollywood][actor][johnny][depp][america][" dumb "][going][war][iraq.])
+v(0 1 4 5 6 7 8 10 11): 12.783803939819336, EP: 0.9333077073097229	 ([hollywood][actor][insists][never][called][america][" dumb "][war][iraq.])
+v(0 1 7 8 10 11): 11.867822647094727, EP: 0.866434633731842	 ([hollywood][actor][america][" dumb "][war][iraq.])
+v(2 3 4 5 6 9): 10.458084106445312, EP: 0.7635138034820557	 ([johnny][depp][insists][never][called][going])
+v(2 3 9): 9.134726524353027, EP: 0.6668993830680847	 ([johnny][depp][going])
+v(4 5 6): 2.5242419242858887, EP: 0.1842874437570572	 ([insists][never][called])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

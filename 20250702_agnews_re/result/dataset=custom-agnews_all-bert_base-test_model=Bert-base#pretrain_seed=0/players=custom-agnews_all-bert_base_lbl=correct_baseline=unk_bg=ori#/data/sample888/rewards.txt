@@ -1,0 +1,27 @@
+---------- Players ----------
+Player 0: three - team
+Player 1: trade
+Player 2: would
+Player 3: send
+Player 4: # 39 ; backs
+Player 5: # 39 ;
+Player 6: ace
+Player 7: left - hander
+Player 8: new
+Player 9: york
+Player 10: yankees
+Player 11: close
+Player 12: completion,
+Player 13: pending
+Player 14: physicals.
+---------- Rewards ----------
+v(): -3.3210935592651367	 ([])
+v(0 1 2 3 6 8 9 10): 9.686549186706543	 ([three - team][trade][would][send][ace][new][york][yankees])
+v(4 5 7 11 12 13 14): 5.463405132293701	 ([# 39 ; backs][# 39 ;][left - hander][close][completion,][pending][physicals.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 9.704208374023438	 ([three - team][trade][would][send][# 39 ; backs][# 39 ;][ace][left - hander][new][york][yankees][close][completion,][pending][physicals.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 13.025301933288574, EP: 1.0	 ([three - team][trade][would][send][# 39 ; backs][# 39 ;][ace][left - hander][new][york][yankees][close][completion,][pending][physicals.])
+v(0 1 2 3 6 8 9 10): 13.00764274597168, EP: 0.998644232749939	 ([three - team][trade][would][send][ace][new][york][yankees])
+v(4 5 7 11 12 13 14): 8.78449821472168, EP: 0.674418032169342	 ([# 39 ; backs][# 39 ;][left - hander][close][completion,][pending][physicals.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

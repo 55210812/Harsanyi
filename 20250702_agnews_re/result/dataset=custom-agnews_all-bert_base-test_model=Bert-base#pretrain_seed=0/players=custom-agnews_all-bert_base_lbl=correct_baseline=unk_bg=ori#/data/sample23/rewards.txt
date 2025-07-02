@@ -1,0 +1,80 @@
+---------- Players ----------
+Player 0: london
+Player 1: -
+Player 2: johnny
+Player 3: depp
+Player 4: reckons
+Player 5: great
+Player 6: movie
+Player 7: pinup
+Player 8: -
+Player 9: " weird
+Player 10: job. "
+Player 11: arriving
+Player 12: premiere
+Player 13: latest
+Player 14: movie,
+Player 15: " finding
+Player 16: neverland, "
+Player 17: london's
+Player 18: leicester
+Player 19: square,
+Player 20: depp
+Player 21: played
+Player 22: movie
+Player 23: star
+Player 24: image
+Player 25: fans
+Player 26: lining
+Player 27: red
+Player 28: carpet
+Player 29: screamed
+Player 30: name.
+Player 31: " i
+Player 32: say
+Player 33: heart
+Player 34: throb, "
+Player 35: said,
+Player 36: wife,
+Player 37: french
+Player 38: singer
+Player 39: actress
+Player 40: vanessa
+Player 41: paradis,
+Player 42: looked
+Player 43: on...
+---------- Rewards ----------
+v(): -5.875487327575684	 ([])
+v(0 4 5 8 16 17 18 19 25 37 42 43): 4.018449783325195	 ([london][reckons][great][-][neverland, "][london's][leicester][square,][fans][french][looked][on...])
+v(7 9 10 11 15 26 27 28 30 31): -9.031315803527832	 ([pinup][" weird][job. "][arriving][" finding][lining][red][carpet][name.][" i])
+v(1 2 3 20 33 36 38 39 40 41): -1.5417109727859497	 ([-][johnny][depp][depp][heart][wife,][singer][actress][vanessa][paradis,])
+v(6 12 13 14 21 22 23 24 29 32 34 35): -0.9935799241065979	 ([movie][premiere][latest][movie,][played][movie][star][image][screamed][say][throb, "][said,])
+v(0 4 5 7 8 9 10 11 15 16 17 18 19 25 26 27 28 30 31 37 42 43): 1.9877575635910034	 ([london][reckons][great][pinup][-][" weird][job. "][arriving][" finding][neverland, "][london's][leicester][square,][fans][lining][red][carpet][name.][" i][french][looked][on...])
+v(0 1 2 3 4 5 8 16 17 18 19 20 25 33 36 37 38 39 40 41 42 43): 8.440441131591797	 ([london][-][johnny][depp][reckons][great][-][neverland, "][london's][leicester][square,][depp][fans][heart][wife,][french][singer][actress][vanessa][paradis,][looked][on...])
+v(0 4 5 6 8 12 13 14 16 17 18 19 21 22 23 24 25 29 32 34 35 37 42 43): 6.408304214477539	 ([london][reckons][great][movie][-][premiere][latest][movie,][neverland, "][london's][leicester][square,][played][movie][star][image][fans][screamed][say][throb, "][said,][french][looked][on...])
+v(1 2 3 7 9 10 11 15 20 26 27 28 30 31 33 36 38 39 40 41): -3.8764538764953613	 ([-][johnny][depp][pinup][" weird][job. "][arriving][" finding][depp][lining][red][carpet][name.][" i][heart][wife,][singer][actress][vanessa][paradis,])
+v(6 7 9 10 11 12 13 14 15 21 22 23 24 26 27 28 29 30 31 32 34 35): -7.240960121154785	 ([movie][pinup][" weird][job. "][arriving][premiere][latest][movie,][" finding][played][movie][star][image][lining][red][carpet][screamed][name.][" i][say][throb, "][said,])
+v(1 2 3 6 12 13 14 20 21 22 23 24 29 32 33 34 35 36 38 39 40 41): 3.5835344791412354	 ([-][johnny][depp][movie][premiere][latest][movie,][depp][played][movie][star][image][screamed][say][heart][throb, "][said,][wife,][singer][actress][vanessa][paradis,])
+v(0 1 2 3 4 5 7 8 9 10 11 15 16 17 18 19 20 25 26 27 28 30 31 33 36 37 38 39 40 41 42 43): 8.419832229614258	 ([london][-][johnny][depp][reckons][great][pinup][-][" weird][job. "][arriving][" finding][neverland, "][london's][leicester][square,][depp][fans][lining][red][carpet][name.][" i][heart][wife,][french][singer][actress][vanessa][paradis,][looked][on...])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 22 23 24 25 26 27 28 29 30 31 32 34 35 37 42 43): 5.490090847015381	 ([london][reckons][great][movie][pinup][-][" weird][job. "][arriving][premiere][latest][movie,][" finding][neverland, "][london's][leicester][square,][played][movie][star][image][fans][lining][red][carpet][screamed][name.][" i][say][throb, "][said,][french][looked][on...])
+v(0 1 2 3 4 5 6 8 12 13 14 16 17 18 19 20 21 22 23 24 25 29 32 33 34 35 36 37 38 39 40 41 42 43): 8.451751708984375	 ([london][-][johnny][depp][reckons][great][movie][-][premiere][latest][movie,][neverland, "][london's][leicester][square,][depp][played][movie][star][image][fans][screamed][say][heart][throb, "][said,][wife,][french][singer][actress][vanessa][paradis,][looked][on...])
+v(1 2 3 6 7 9 10 11 12 13 14 15 20 21 22 23 24 26 27 28 29 30 31 32 33 34 35 36 38 39 40 41): -0.18900489807128906	 ([-][johnny][depp][movie][pinup][" weird][job. "][arriving][premiere][latest][movie,][" finding][depp][played][movie][star][image][lining][red][carpet][screamed][name.][" i][say][heart][throb, "][said,][wife,][singer][actress][vanessa][paradis,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43): 8.451837539672852	 ([london][-][johnny][depp][reckons][great][movie][pinup][-][" weird][job. "][arriving][premiere][latest][movie,][" finding][neverland, "][london's][leicester][square,][depp][played][movie][star][image][fans][lining][red][carpet][screamed][name.][" i][say][heart][throb, "][said,][wife,][french][singer][actress][vanessa][paradis,][looked][on...])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43): 14.327324867248535, EP: 1.0	 ([london][-][johnny][depp][reckons][great][movie][pinup][-][" weird][job. "][arriving][premiere][latest][movie,][" finding][neverland, "][london's][leicester][square,][depp][played][movie][star][image][fans][lining][red][carpet][screamed][name.][" i][say][heart][throb, "][said,][wife,][french][singer][actress][vanessa][paradis,][looked][on...])
+v(0 1 2 3 4 5 6 8 12 13 14 16 17 18 19 20 21 22 23 24 25 29 32 33 34 35 36 37 38 39 40 41 42 43): 14.327239036560059, EP: 0.9999939799308777	 ([london][-][johnny][depp][reckons][great][movie][-][premiere][latest][movie,][neverland, "][london's][leicester][square,][depp][played][movie][star][image][fans][screamed][say][heart][throb, "][said,][wife,][french][singer][actress][vanessa][paradis,][looked][on...])
+v(0 1 2 3 4 5 8 16 17 18 19 20 25 33 36 37 38 39 40 41 42 43): 14.31592845916748, EP: 0.9992045760154724	 ([london][-][johnny][depp][reckons][great][-][neverland, "][london's][leicester][square,][depp][fans][heart][wife,][french][singer][actress][vanessa][paradis,][looked][on...])
+v(0 1 2 3 4 5 7 8 9 10 11 15 16 17 18 19 20 25 26 27 28 30 31 33 36 37 38 39 40 41 42 43): 14.295319557189941, EP: 0.9977661371231079	 ([london][-][johnny][depp][reckons][great][pinup][-][" weird][job. "][arriving][" finding][neverland, "][london's][leicester][square,][depp][fans][lining][red][carpet][name.][" i][heart][wife,][french][singer][actress][vanessa][paradis,][looked][on...])
+v(0 4 5 6 8 12 13 14 16 17 18 19 21 22 23 24 25 29 32 34 35 37 42 43): 12.283791542053223, EP: 0.8573681116104126	 ([london][reckons][great][movie][-][premiere][latest][movie,][neverland, "][london's][leicester][square,][played][movie][star][image][fans][screamed][say][throb, "][said,][french][looked][on...])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 22 23 24 25 26 27 28 29 30 31 32 34 35 37 42 43): 11.365577697753906, EP: 0.7932798266410828	 ([london][reckons][great][movie][pinup][-][" weird][job. "][arriving][premiere][latest][movie,][" finding][neverland, "][london's][leicester][square,][played][movie][star][image][fans][lining][red][carpet][screamed][name.][" i][say][throb, "][said,][french][looked][on...])
+v(0 4 5 8 16 17 18 19 25 37 42 43): 9.893937110900879, EP: 0.6905641555786133	 ([london][reckons][great][-][neverland, "][london's][leicester][square,][fans][french][looked][on...])
+v(1 2 3 6 12 13 14 20 21 22 23 24 29 32 33 34 35 36 38 39 40 41): 9.45902156829834, EP: 0.660208523273468	 ([-][johnny][depp][movie][premiere][latest][movie,][depp][played][movie][star][image][screamed][say][heart][throb, "][said,][wife,][singer][actress][vanessa][paradis,])
+v(0 4 5 7 8 9 10 11 15 16 17 18 19 25 26 27 28 30 31 37 42 43): 7.863245010375977, EP: 0.5488285422325134	 ([london][reckons][great][pinup][-][" weird][job. "][arriving][" finding][neverland, "][london's][leicester][square,][fans][lining][red][carpet][name.][" i][french][looked][on...])
+v(1 2 3 6 7 9 10 11 12 13 14 15 20 21 22 23 24 26 27 28 29 30 31 32 33 34 35 36 38 39 40 41): 5.6864824295043945, EP: 0.39689770340919495	 ([-][johnny][depp][movie][pinup][" weird][job. "][arriving][premiere][latest][movie,][" finding][depp][played][movie][star][image][lining][red][carpet][screamed][name.][" i][say][heart][throb, "][said,][wife,][singer][actress][vanessa][paradis,])
+v(6 12 13 14 21 22 23 24 29 32 34 35): 4.8819074630737305, EP: 0.34074103832244873	 ([movie][premiere][latest][movie,][played][movie][star][image][screamed][say][throb, "][said,])
+v(1 2 3 20 33 36 38 39 40 41): 4.333776473999023, EP: 0.30248329043388367	 ([-][johnny][depp][depp][heart][wife,][singer][actress][vanessa][paradis,])
+v(7 9 10 11 15 26 27 28 30 31): -3.1558284759521484, EP: -0.2202664166688919	 ([pinup][" weird][job. "][arriving][" finding][lining][red][carpet][name.][" i])
+v(1 2 3 7 9 10 11 15 20 26 27 28 30 31 33 36 38 39 40 41): 1.9990334510803223, EP: 0.13952593505382538	 ([-][johnny][depp][pinup][" weird][job. "][arriving][" finding][depp][lining][red][carpet][name.][" i][heart][wife,][singer][actress][vanessa][paradis,])
+v(6 7 9 10 11 12 13 14 15 21 22 23 24 26 27 28 29 30 31 32 34 35): -1.3654727935791016, EP: -0.09530549496412277	 ([movie][pinup][" weird][job. "][arriving][premiere][latest][movie,][" finding][played][movie][star][image][lining][red][carpet][screamed][name.][" i][say][throb, "][said,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

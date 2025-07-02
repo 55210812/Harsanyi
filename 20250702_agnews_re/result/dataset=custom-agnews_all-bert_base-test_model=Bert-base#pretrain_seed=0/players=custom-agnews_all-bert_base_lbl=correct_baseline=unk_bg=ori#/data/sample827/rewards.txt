@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: chicago
+Player 1: board
+Player 2: options
+Player 3: exchange
+Player 4: said
+Player 5: tuesday
+Player 6: directors
+Player 7: approved
+Player 8: steps
+Player 9: reduce
+Player 10: financial
+Player 11: ties
+Player 12: two
+Player 13: exchanges
+Player 14: town.
+---------- Rewards ----------
+v(): -5.23805046081543	 ([])
+v(0 8 9): 5.573660850524902	 ([chicago][steps][reduce])
+v(1 2 3 4 6 7): 7.557587623596191	 ([board][options][exchange][said][directors][approved])
+v(5 10 11 12 13 14): 7.044389724731445	 ([tuesday][financial][ties][two][exchanges][town.])
+v(0 1 2 3 4 6 7 8 9): 8.413995742797852	 ([chicago][board][options][exchange][said][directors][approved][steps][reduce])
+v(0 5 8 9 10 11 12 13 14): 8.369964599609375	 ([chicago][tuesday][steps][reduce][financial][ties][two][exchanges][town.])
+v(1 2 3 4 5 6 7 10 11 12 13 14): 8.350629806518555	 ([board][options][exchange][said][tuesday][directors][approved][financial][ties][two][exchanges][town.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 8.46238899230957	 ([chicago][board][options][exchange][said][tuesday][directors][approved][steps][reduce][financial][ties][two][exchanges][town.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 13.700439453125, EP: 1.0	 ([chicago][board][options][exchange][said][tuesday][directors][approved][steps][reduce][financial][ties][two][exchanges][town.])
+v(0 1 2 3 4 6 7 8 9): 13.652046203613281, EP: 0.9964677691459656	 ([chicago][board][options][exchange][said][directors][approved][steps][reduce])
+v(0 5 8 9 10 11 12 13 14): 13.608015060424805, EP: 0.9932538866996765	 ([chicago][tuesday][steps][reduce][financial][ties][two][exchanges][town.])
+v(1 2 3 4 5 6 7 10 11 12 13 14): 13.588680267333984, EP: 0.9918426275253296	 ([board][options][exchange][said][tuesday][directors][approved][financial][ties][two][exchanges][town.])
+v(1 2 3 4 6 7): 12.795638084411621, EP: 0.9339582324028015	 ([board][options][exchange][said][directors][approved])
+v(5 10 11 12 13 14): 12.282440185546875, EP: 0.896499752998352	 ([tuesday][financial][ties][two][exchanges][town.])
+v(0 8 9): 10.811711311340332, EP: 0.7891507148742676	 ([chicago][steps][reduce])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

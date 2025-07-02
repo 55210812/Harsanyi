@@ -1,0 +1,65 @@
+---------- Players ----------
+Player 0: paris
+Player 1: :
+Player 2: iraq
+Player 3: # 39 ; s
+Player 4: elections
+Player 5: go
+Player 6: ahead
+Player 7: scheduled
+Player 8: january
+Player 9: even
+Player 10: iraqis
+Player 11: unable
+Player 12: vote
+Player 13: due
+Player 14: security
+Player 15: situation
+Player 16: country,
+Player 17: interim
+Player 18: prime
+Player 19: minister
+Player 20: iyad
+Player 21: allawi
+Player 22: said
+Player 23: interview
+Player 24: published
+Player 25: several
+Player 26: western
+Player 27: daily
+Player 28: newspapers.
+---------- Rewards ----------
+v(): -9.08211898803711	 ([])
+v(17 18 19 20): 6.582577705383301	 ([interim][prime][minister][iyad])
+v(0 1 2 3 4 10 23): 7.918200969696045	 ([paris][:][iraq][# 39 ; s][elections][iraqis][interview])
+v(11 12 13 25 28): -3.0998709201812744	 ([unable][vote][due][several][newspapers.])
+v(5 6 7 8 9 14 15 16 21 22 24 26 27): 5.782132625579834	 ([go][ahead][scheduled][january][even][security][situation][country,][allawi][said][published][western][daily])
+v(0 1 2 3 4 10 17 18 19 20 23): 8.279914855957031	 ([paris][:][iraq][# 39 ; s][elections][iraqis][interim][prime][minister][iyad][interview])
+v(11 12 13 17 18 19 20 25 28): 7.396966457366943	 ([unable][vote][due][interim][prime][minister][iyad][several][newspapers.])
+v(5 6 7 8 9 14 15 16 17 18 19 20 21 22 24 26 27): 8.203315734863281	 ([go][ahead][scheduled][january][even][security][situation][country,][interim][prime][minister][iyad][allawi][said][published][western][daily])
+v(0 1 2 3 4 10 11 12 13 23 25 28): 8.227812767028809	 ([paris][:][iraq][# 39 ; s][elections][iraqis][unable][vote][due][interview][several][newspapers.])
+v(0 1 2 3 4 5 6 7 8 9 10 14 15 16 21 22 23 24 26 27): 8.368789672851562	 ([paris][:][iraq][# 39 ; s][elections][go][ahead][scheduled][january][even][iraqis][security][situation][country,][allawi][said][interview][published][western][daily])
+v(5 6 7 8 9 11 12 13 14 15 16 21 22 24 25 26 27 28): 7.345096588134766	 ([go][ahead][scheduled][january][even][unable][vote][due][security][situation][country,][allawi][said][published][several][western][daily][newspapers.])
+v(0 1 2 3 4 10 11 12 13 17 18 19 20 23 25 28): 8.40617847442627	 ([paris][:][iraq][# 39 ; s][elections][iraqis][unable][vote][due][interim][prime][minister][iyad][interview][several][newspapers.])
+v(0 1 2 3 4 5 6 7 8 9 10 14 15 16 17 18 19 20 21 22 23 24 26 27): 8.37788200378418	 ([paris][:][iraq][# 39 ; s][elections][go][ahead][scheduled][january][even][iraqis][security][situation][country,][interim][prime][minister][iyad][allawi][said][interview][published][western][daily])
+v(5 6 7 8 9 11 12 13 14 15 16 17 18 19 20 21 22 24 25 26 27 28): 8.428068161010742	 ([go][ahead][scheduled][january][even][unable][vote][due][security][situation][country,][interim][prime][minister][iyad][allawi][said][published][several][western][daily][newspapers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 21 22 23 24 25 26 27 28): 8.401613235473633	 ([paris][:][iraq][# 39 ; s][elections][go][ahead][scheduled][january][even][iraqis][unable][vote][due][security][situation][country,][allawi][said][interview][published][several][western][daily][newspapers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 8.444089889526367	 ([paris][:][iraq][# 39 ; s][elections][go][ahead][scheduled][january][even][iraqis][unable][vote][due][security][situation][country,][interim][prime][minister][iyad][allawi][said][interview][published][several][western][daily][newspapers.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 17.526208877563477, EP: 1.0	 ([paris][:][iraq][# 39 ; s][elections][go][ahead][scheduled][january][even][iraqis][unable][vote][due][security][situation][country,][interim][prime][minister][iyad][allawi][said][interview][published][several][western][daily][newspapers.])
+v(5 6 7 8 9 11 12 13 14 15 16 17 18 19 20 21 22 24 25 26 27 28): 17.51018714904785, EP: 0.9990858435630798	 ([go][ahead][scheduled][january][even][unable][vote][due][security][situation][country,][interim][prime][minister][iyad][allawi][said][published][several][western][daily][newspapers.])
+v(0 1 2 3 4 10 11 12 13 17 18 19 20 23 25 28): 17.488296508789062, EP: 0.9978368282318115	 ([paris][:][iraq][# 39 ; s][elections][iraqis][unable][vote][due][interim][prime][minister][iyad][interview][several][newspapers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 21 22 23 24 25 26 27 28): 17.483732223510742, EP: 0.9975764155387878	 ([paris][:][iraq][# 39 ; s][elections][go][ahead][scheduled][january][even][iraqis][unable][vote][due][security][situation][country,][allawi][said][interview][published][several][western][daily][newspapers.])
+v(0 1 2 3 4 5 6 7 8 9 10 14 15 16 17 18 19 20 21 22 23 24 26 27): 17.46000099182129, EP: 0.9962223768234253	 ([paris][:][iraq][# 39 ; s][elections][go][ahead][scheduled][january][even][iraqis][security][situation][country,][interim][prime][minister][iyad][allawi][said][interview][published][western][daily])
+v(0 1 2 3 4 5 6 7 8 9 10 14 15 16 21 22 23 24 26 27): 17.450908660888672, EP: 0.9957035779953003	 ([paris][:][iraq][# 39 ; s][elections][go][ahead][scheduled][january][even][iraqis][security][situation][country,][allawi][said][interview][published][western][daily])
+v(0 1 2 3 4 10 17 18 19 20 23): 17.36203384399414, EP: 0.9906325936317444	 ([paris][:][iraq][# 39 ; s][elections][iraqis][interim][prime][minister][iyad][interview])
+v(0 1 2 3 4 10 11 12 13 23 25 28): 17.309932708740234, EP: 0.9876598715782166	 ([paris][:][iraq][# 39 ; s][elections][iraqis][unable][vote][due][interview][several][newspapers.])
+v(5 6 7 8 9 14 15 16 17 18 19 20 21 22 24 26 27): 17.28543472290039, EP: 0.9862620234489441	 ([go][ahead][scheduled][january][even][security][situation][country,][interim][prime][minister][iyad][allawi][said][published][western][daily])
+v(0 1 2 3 4 10 23): 17.000320434570312, EP: 0.9699941873550415	 ([paris][:][iraq][# 39 ; s][elections][iraqis][interview])
+v(11 12 13 17 18 19 20 25 28): 16.47908592224121, EP: 0.9402538537979126	 ([unable][vote][due][interim][prime][minister][iyad][several][newspapers.])
+v(5 6 7 8 9 11 12 13 14 15 16 21 22 24 25 26 27 28): 16.427215576171875, EP: 0.9372943043708801	 ([go][ahead][scheduled][january][even][unable][vote][due][security][situation][country,][allawi][said][published][several][western][daily][newspapers.])
+v(17 18 19 20): 15.66469669342041, EP: 0.8937869668006897	 ([interim][prime][minister][iyad])
+v(5 6 7 8 9 14 15 16 21 22 24 26 27): 14.864252090454102, EP: 0.8481156826019287	 ([go][ahead][scheduled][january][even][security][situation][country,][allawi][said][published][western][daily])
+v(11 12 13 25 28): 5.982248306274414, EP: 0.3413315713405609	 ([unable][vote][due][several][newspapers.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

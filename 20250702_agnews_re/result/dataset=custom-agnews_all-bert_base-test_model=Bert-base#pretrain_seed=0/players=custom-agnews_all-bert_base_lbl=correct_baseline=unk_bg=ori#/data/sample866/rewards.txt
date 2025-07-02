@@ -1,0 +1,47 @@
+---------- Players ----------
+Player 0: washington
+Player 1: - -
+Player 2: president
+Player 3: bush
+Player 4: joined
+Player 5: interim
+Player 6: president
+Player 7: iraq
+Player 8: yesterday
+Player 9: insisting
+Player 10: iraqi
+Player 11: elections
+Player 12: held
+Player 13: jan.
+Player 14: 30,
+Player 15: saying
+Player 16: keeping
+Player 17: election
+Player 18: schedule
+Player 19: deter
+Player 20: insurgents
+Player 21: quicken
+Player 22: pace
+Player 23: toward
+Player 24: peace
+Player 25: democracy
+Player 26: iraq.
+---------- Rewards ----------
+v(): -6.375913619995117	 ([])
+v(1 7 10 11 17 20 25): 8.290743827819824	 ([- -][iraq][iraqi][elections][election][insurgents][democracy])
+v(0 2 3 4 5 6 8 18 21): -1.3165228366851807	 ([washington][president][bush][joined][interim][president][yesterday][schedule][quicken])
+v(9 12 13 14 15 16 19 22 23 24 26): 7.811761856079102	 ([insisting][held][jan.][30,][saying][keeping][deter][pace][toward][peace][iraq.])
+v(0 1 2 3 4 5 6 7 8 10 11 17 18 20 21 25): 8.508170127868652	 ([washington][- -][president][bush][joined][interim][president][iraq][yesterday][iraqi][elections][election][schedule][insurgents][quicken][democracy])
+v(1 7 9 10 11 12 13 14 15 16 17 19 20 22 23 24 25 26): 8.504899978637695	 ([- -][iraq][insisting][iraqi][elections][held][jan.][30,][saying][keeping][election][deter][insurgents][pace][toward][peace][democracy][iraq.])
+v(0 2 3 4 5 6 8 9 12 13 14 15 16 18 19 21 22 23 24 26): 5.939887523651123	 ([washington][president][bush][joined][interim][president][yesterday][insisting][held][jan.][30,][saying][keeping][schedule][deter][quicken][pace][toward][peace][iraq.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 8.558526992797852	 ([washington][- -][president][bush][joined][interim][president][iraq][yesterday][insisting][iraqi][elections][held][jan.][30,][saying][keeping][election][schedule][deter][insurgents][quicken][pace][toward][peace][democracy][iraq.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 14.934440612792969, EP: 1.0	 ([washington][- -][president][bush][joined][interim][president][iraq][yesterday][insisting][iraqi][elections][held][jan.][30,][saying][keeping][election][schedule][deter][insurgents][quicken][pace][toward][peace][democracy][iraq.])
+v(0 1 2 3 4 5 6 7 8 10 11 17 18 20 21 25): 14.88408374786377, EP: 0.9966281652450562	 ([washington][- -][president][bush][joined][interim][president][iraq][yesterday][iraqi][elections][election][schedule][insurgents][quicken][democracy])
+v(1 7 9 10 11 12 13 14 15 16 17 19 20 22 23 24 25 26): 14.880813598632812, EP: 0.9964091777801514	 ([- -][iraq][insisting][iraqi][elections][held][jan.][30,][saying][keeping][election][deter][insurgents][pace][toward][peace][democracy][iraq.])
+v(1 7 10 11 17 20 25): 14.666657447814941, EP: 0.9820694327354431	 ([- -][iraq][iraqi][elections][election][insurgents][democracy])
+v(9 12 13 14 15 16 19 22 23 24 26): 14.187675476074219, EP: 0.9499971270561218	 ([insisting][held][jan.][30,][saying][keeping][deter][pace][toward][peace][iraq.])
+v(0 2 3 4 5 6 8 9 12 13 14 15 16 18 19 21 22 23 24 26): 12.315801620483398, EP: 0.8246577382087708	 ([washington][president][bush][joined][interim][president][yesterday][insisting][held][jan.][30,][saying][keeping][schedule][deter][quicken][pace][toward][peace][iraq.])
+v(0 2 3 4 5 6 8 18 21): 5.059391021728516, EP: 0.3387733995914459	 ([washington][president][bush][joined][interim][president][yesterday][schedule][quicken])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

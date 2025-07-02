@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: alitalia,
+Player 1: italian
+Player 2: government - run
+Player 3: airline,
+Player 4: plans
+Player 5: lay
+Player 6: 5, 000
+Player 7: 21, 000
+Player 8: employees
+Player 9: move
+Player 10: avoid
+Player 11: filing
+Player 12: bankruptcy
+Player 13: protection.
+---------- Rewards ----------
+v(): -1.9817029237747192	 ([])
+v(0 3 8): 8.282523155212402	 ([alitalia,][airline,][employees])
+v(9 10 12 13): 3.0087101459503174	 ([move][avoid][bankruptcy][protection.])
+v(1 2 4 5 6 7 11): -3.1222290992736816	 ([italian][government - run][plans][lay][5, 000][21, 000][filing])
+v(0 3 8 9 10 12 13): 8.151765823364258	 ([alitalia,][airline,][employees][move][avoid][bankruptcy][protection.])
+v(0 1 2 3 4 5 6 7 8 11): 6.768395900726318	 ([alitalia,][italian][government - run][airline,][plans][lay][5, 000][21, 000][employees][filing])
+v(1 2 4 5 6 7 9 10 11 12 13): -3.997995376586914	 ([italian][government - run][plans][lay][5, 000][21, 000][move][avoid][filing][bankruptcy][protection.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 5.98261022567749	 ([alitalia,][italian][government - run][airline,][plans][lay][5, 000][21, 000][employees][move][avoid][filing][bankruptcy][protection.])
+---------- Rewards-v() ----------
+v(0 3 8): 10.264225959777832, EP: 1.2887773513793945	 ([alitalia,][airline,][employees])
+v(0 3 8 9 10 12 13): 10.133468627929688, EP: 1.2723593711853027	 ([alitalia,][airline,][employees][move][avoid][bankruptcy][protection.])
+v(0 1 2 3 4 5 6 7 8 11): 8.750099182128906, EP: 1.0986634492874146	 ([alitalia,][italian][government - run][airline,][plans][lay][5, 000][21, 000][employees][filing])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 7.96431303024292, EP: 1.0	 ([alitalia,][italian][government - run][airline,][plans][lay][5, 000][21, 000][employees][move][avoid][filing][bankruptcy][protection.])
+v(9 10 12 13): 4.990413188934326, EP: 0.6265968084335327	 ([move][avoid][bankruptcy][protection.])
+v(1 2 4 5 6 7 9 10 11 12 13): -2.0162925720214844, EP: -0.2531659007072449	 ([italian][government - run][plans][lay][5, 000][21, 000][move][avoid][filing][bankruptcy][protection.])
+v(1 2 4 5 6 7 11): -1.1405261754989624, EP: -0.14320458471775055	 ([italian][government - run][plans][lay][5, 000][21, 000][filing])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

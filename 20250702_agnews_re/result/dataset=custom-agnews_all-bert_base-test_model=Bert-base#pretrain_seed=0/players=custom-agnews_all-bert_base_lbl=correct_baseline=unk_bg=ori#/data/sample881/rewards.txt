@@ -1,0 +1,64 @@
+---------- Players ----------
+Player 0: baghdad,
+Player 1: iraq
+Player 2: -
+Player 3: iraq's
+Player 4: national
+Player 5: conference
+Player 6: refused
+Player 7: wednesday
+Player 8: send
+Player 9: second
+Player 10: delegation
+Player 11: holy
+Player 12: city
+Player 13: najaf
+Player 14: negotiate
+Player 15: end
+Player 16: fighting
+Player 17: u. s.
+Player 18: troops
+Player 19: loyalists
+Player 20: radical
+Player 21: cleric
+Player 22: muqtada
+Player 23: al - sadr,
+Player 24: day
+Player 25: rebuffed
+Player 26: demand
+Player 27: meeting...
+---------- Rewards ----------
+v(): -5.007840156555176	 ([])
+v(0 1 3 13 22 23): 5.812314510345459	 ([baghdad,][iraq][iraq's][najaf][muqtada][al - sadr,])
+v(2 5 9 10 11 12 24 25): 4.124660491943359	 ([-][conference][second][delegation][holy][city][day][rebuffed])
+v(7 17 18 26 27): 0.16129755973815918	 ([wednesday][u. s.][troops][demand][meeting...])
+v(4 6 8 14 15 16 19 20 21): 7.287517070770264	 ([national][refused][send][negotiate][end][fighting][loyalists][radical][cleric])
+v(0 1 2 3 5 9 10 11 12 13 22 23 24 25): 7.4506025314331055	 ([baghdad,][iraq][-][iraq's][conference][second][delegation][holy][city][najaf][muqtada][al - sadr,][day][rebuffed])
+v(0 1 3 7 13 17 18 22 23 26 27): 7.290220737457275	 ([baghdad,][iraq][iraq's][wednesday][najaf][u. s.][troops][muqtada][al - sadr,][demand][meeting...])
+v(0 1 3 4 6 8 13 14 15 16 19 20 21 22 23): 8.416704177856445	 ([baghdad,][iraq][iraq's][national][refused][send][najaf][negotiate][end][fighting][loyalists][radical][cleric][muqtada][al - sadr,])
+v(2 5 7 9 10 11 12 17 18 24 25 26 27): 6.089351177215576	 ([-][conference][wednesday][second][delegation][holy][city][u. s.][troops][day][rebuffed][demand][meeting...])
+v(2 4 5 6 8 9 10 11 12 14 15 16 19 20 21 24 25): 8.044349670410156	 ([-][national][conference][refused][send][second][delegation][holy][city][negotiate][end][fighting][loyalists][radical][cleric][day][rebuffed])
+v(4 6 7 8 14 15 16 17 18 19 20 21 26 27): 7.8753509521484375	 ([national][refused][wednesday][send][negotiate][end][fighting][u. s.][troops][loyalists][radical][cleric][demand][meeting...])
+v(0 1 2 3 5 7 9 10 11 12 13 17 18 22 23 24 25 26 27): 7.930573463439941	 ([baghdad,][iraq][-][iraq's][conference][wednesday][second][delegation][holy][city][najaf][u. s.][troops][muqtada][al - sadr,][day][rebuffed][demand][meeting...])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 25): 8.405467987060547	 ([baghdad,][iraq][-][iraq's][national][conference][refused][send][second][delegation][holy][city][najaf][negotiate][end][fighting][loyalists][radical][cleric][muqtada][al - sadr,][day][rebuffed])
+v(0 1 3 4 6 7 8 13 14 15 16 17 18 19 20 21 22 23 26 27): 8.274100303649902	 ([baghdad,][iraq][iraq's][national][refused][wednesday][send][najaf][negotiate][end][fighting][u. s.][troops][loyalists][radical][cleric][muqtada][al - sadr,][demand][meeting...])
+v(2 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 24 25 26 27): 8.29611873626709	 ([-][national][conference][refused][wednesday][send][second][delegation][holy][city][negotiate][end][fighting][u. s.][troops][loyalists][radical][cleric][day][rebuffed][demand][meeting...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 8.364065170288086	 ([baghdad,][iraq][-][iraq's][national][conference][refused][wednesday][send][second][delegation][holy][city][najaf][negotiate][end][fighting][u. s.][troops][loyalists][radical][cleric][muqtada][al - sadr,][day][rebuffed][demand][meeting...])
+---------- Rewards-v() ----------
+v(0 1 3 4 6 8 13 14 15 16 19 20 21 22 23): 13.424544334411621, EP: 1.003936529159546	 ([baghdad,][iraq][iraq's][national][refused][send][najaf][negotiate][end][fighting][loyalists][radical][cleric][muqtada][al - sadr,])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 25): 13.413308143615723, EP: 1.0030962228775024	 ([baghdad,][iraq][-][iraq's][national][conference][refused][send][second][delegation][holy][city][najaf][negotiate][end][fighting][loyalists][radical][cleric][muqtada][al - sadr,][day][rebuffed])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 13.371905326843262, EP: 1.0	 ([baghdad,][iraq][-][iraq's][national][conference][refused][wednesday][send][second][delegation][holy][city][najaf][negotiate][end][fighting][u. s.][troops][loyalists][radical][cleric][muqtada][al - sadr,][day][rebuffed][demand][meeting...])
+v(2 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 24 25 26 27): 13.303958892822266, EP: 0.994918704032898	 ([-][national][conference][refused][wednesday][send][second][delegation][holy][city][negotiate][end][fighting][u. s.][troops][loyalists][radical][cleric][day][rebuffed][demand][meeting...])
+v(0 1 3 4 6 7 8 13 14 15 16 17 18 19 20 21 22 23 26 27): 13.281940460205078, EP: 0.9932721257209778	 ([baghdad,][iraq][iraq's][national][refused][wednesday][send][najaf][negotiate][end][fighting][u. s.][troops][loyalists][radical][cleric][muqtada][al - sadr,][demand][meeting...])
+v(2 4 5 6 8 9 10 11 12 14 15 16 19 20 21 24 25): 13.052189826965332, EP: 0.9760904908180237	 ([-][national][conference][refused][send][second][delegation][holy][city][negotiate][end][fighting][loyalists][radical][cleric][day][rebuffed])
+v(0 1 2 3 5 7 9 10 11 12 13 17 18 22 23 24 25 26 27): 12.938413619995117, EP: 0.9675819277763367	 ([baghdad,][iraq][-][iraq's][conference][wednesday][second][delegation][holy][city][najaf][u. s.][troops][muqtada][al - sadr,][day][rebuffed][demand][meeting...])
+v(4 6 7 8 14 15 16 17 18 19 20 21 26 27): 12.883191108703613, EP: 0.963452160358429	 ([national][refused][wednesday][send][negotiate][end][fighting][u. s.][troops][loyalists][radical][cleric][demand][meeting...])
+v(0 1 2 3 5 9 10 11 12 13 22 23 24 25): 12.458442687988281, EP: 0.9316879510879517	 ([baghdad,][iraq][-][iraq's][conference][second][delegation][holy][city][najaf][muqtada][al - sadr,][day][rebuffed])
+v(0 1 3 7 13 17 18 22 23 26 27): 12.29806137084961, EP: 0.9196940064430237	 ([baghdad,][iraq][iraq's][wednesday][najaf][u. s.][troops][muqtada][al - sadr,][demand][meeting...])
+v(4 6 8 14 15 16 19 20 21): 12.295356750488281, EP: 0.9194917678833008	 ([national][refused][send][negotiate][end][fighting][loyalists][radical][cleric])
+v(2 5 7 9 10 11 12 17 18 24 25 26 27): 11.097190856933594, EP: 0.8298885226249695	 ([-][conference][wednesday][second][delegation][holy][city][u. s.][troops][day][rebuffed][demand][meeting...])
+v(0 1 3 13 22 23): 10.820154190063477, EP: 0.8091707229614258	 ([baghdad,][iraq][iraq's][najaf][muqtada][al - sadr,])
+v(2 5 9 10 11 12 24 25): 9.132500648498535, EP: 0.6829618215560913	 ([-][conference][second][delegation][holy][city][day][rebuffed])
+v(7 17 18 26 27): 5.169137954711914, EP: 0.38656705617904663	 ([wednesday][u. s.][troops][demand][meeting...])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

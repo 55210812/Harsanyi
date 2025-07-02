@@ -1,0 +1,30 @@
+---------- Players ----------
+Player 0: havana
+Player 1: ( reuters )
+Player 2: -
+Player 3: cuba
+Player 4: said
+Player 5: monday
+Player 6: ending
+Player 7: circulation
+Player 8: u. s.
+Player 9: dollar
+Player 10: territory
+Player 11: nov.
+Player 12: 8
+Player 13: response
+Player 14: tightened
+Player 15: u. s.
+Player 16: economic
+Player 17: sanctions.
+---------- Rewards ----------
+v(): -5.399935245513916	 ([])
+v(0 1 2 5 6 7 11 14 16): -8.639516830444336	 ([havana][( reuters )][-][monday][ending][circulation][nov.][tightened][economic])
+v(3 4 8 9 10 12 13 15 17): 2.8957886695861816	 ([cuba][said][u. s.][dollar][territory][8][response][u. s.][sanctions.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 3.9254913330078125	 ([havana][( reuters )][-][cuba][said][monday][ending][circulation][u. s.][dollar][territory][nov.][8][response][tightened][u. s.][economic][sanctions.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.32542610168457, EP: 1.0	 ([havana][( reuters )][-][cuba][said][monday][ending][circulation][u. s.][dollar][territory][nov.][8][response][tightened][u. s.][economic][sanctions.])
+v(3 4 8 9 10 12 13 15 17): 8.295723915100098, EP: 0.8895812034606934	 ([cuba][said][u. s.][dollar][territory][8][response][u. s.][sanctions.])
+v(0 1 2 5 6 7 11 14 16): -3.23958158493042, EP: -0.34739235043525696	 ([havana][( reuters )][-][monday][ending][circulation][nov.][tightened][economic])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

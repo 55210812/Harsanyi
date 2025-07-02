@@ -1,0 +1,53 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: nortel
+Player 3: networks
+Player 4: corp.
+Player 5: ( nt. to )
+Player 6: delivered \ long - awaited
+Player 7: preliminary
+Player 8: results
+Player 9: first
+Player 10: half
+Player 11: 2004
+Player 12: on \ thursday
+Player 13: showed
+Player 14: estimated
+Player 15: first
+Player 16: second
+Player 17: quarter \ earnings
+Player 18: nil
+Player 19: 1
+Player 20: cent
+Player 21: per
+Player 22: share,
+Player 23: north
+Player 24: america's \ biggest
+Player 25: telecom
+Player 26: equipment
+Player 27: supplier
+Player 28: said
+Player 29: would
+Player 30: cut
+Player 31: about \ 3, 500
+Player 32: jobs.
+---------- Rewards ----------
+v(): -2.4512386322021484	 ([])
+v(0 1 2 4 12 17 18 19 20 21 22 23 24 25 27 30): 4.110795497894287	 ([reuters][-][nortel][corp.][on \ thursday][quarter \ earnings][nil][1][cent][per][share,][north][america's \ biggest][telecom][supplier][cut])
+v(5 6 14 15 16 26 31 32): 7.630183219909668	 ([( nt. to )][delivered \ long - awaited][estimated][first][second][equipment][about \ 3, 500][jobs.])
+v(3 7 8 9 10 11 13 28 29): -3.8206186294555664	 ([networks][preliminary][results][first][half][2004][showed][said][would])
+v(0 1 2 4 5 6 12 14 15 16 17 18 19 20 21 22 23 24 25 26 27 30 31 32): 5.435145378112793	 ([reuters][-][nortel][corp.][( nt. to )][delivered \ long - awaited][on \ thursday][estimated][first][second][quarter \ earnings][nil][1][cent][per][share,][north][america's \ biggest][telecom][equipment][supplier][cut][about \ 3, 500][jobs.])
+v(0 1 2 3 4 7 8 9 10 11 12 13 17 18 19 20 21 22 23 24 25 27 28 29 30): 0.42788171768188477	 ([reuters][-][nortel][networks][corp.][preliminary][results][first][half][2004][on \ thursday][showed][quarter \ earnings][nil][1][cent][per][share,][north][america's \ biggest][telecom][supplier][said][would][cut])
+v(3 5 6 7 8 9 10 11 13 14 15 16 26 28 29 31 32): 6.090791702270508	 ([networks][( nt. to )][delivered \ long - awaited][preliminary][results][first][half][2004][showed][estimated][first][second][equipment][said][would][about \ 3, 500][jobs.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32): 3.235182285308838	 ([reuters][-][nortel][networks][corp.][( nt. to )][delivered \ long - awaited][preliminary][results][first][half][2004][on \ thursday][showed][estimated][first][second][quarter \ earnings][nil][1][cent][per][share,][north][america's \ biggest][telecom][equipment][supplier][said][would][cut][about \ 3, 500][jobs.])
+---------- Rewards-v() ----------
+v(5 6 14 15 16 26 31 32): 10.081421852111816, EP: 1.772894024848938	 ([( nt. to )][delivered \ long - awaited][estimated][first][second][equipment][about \ 3, 500][jobs.])
+v(3 5 6 7 8 9 10 11 13 14 15 16 26 28 29 31 32): 8.542030334472656, EP: 1.5021804571151733	 ([networks][( nt. to )][delivered \ long - awaited][preliminary][results][first][half][2004][showed][estimated][first][second][equipment][said][would][about \ 3, 500][jobs.])
+v(0 1 2 4 5 6 12 14 15 16 17 18 19 20 21 22 23 24 25 26 27 30 31 32): 7.886384010314941, EP: 1.3868801593780518	 ([reuters][-][nortel][corp.][( nt. to )][delivered \ long - awaited][on \ thursday][estimated][first][second][quarter \ earnings][nil][1][cent][per][share,][north][america's \ biggest][telecom][equipment][supplier][cut][about \ 3, 500][jobs.])
+v(0 1 2 4 12 17 18 19 20 21 22 23 24 25 27 30): 6.5620341300964355, EP: 1.153983235359192	 ([reuters][-][nortel][corp.][on \ thursday][quarter \ earnings][nil][1][cent][per][share,][north][america's \ biggest][telecom][supplier][cut])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32): 5.686420917510986, EP: 1.0	 ([reuters][-][nortel][networks][corp.][( nt. to )][delivered \ long - awaited][preliminary][results][first][half][2004][on \ thursday][showed][estimated][first][second][quarter \ earnings][nil][1][cent][per][share,][north][america's \ biggest][telecom][equipment][supplier][said][would][cut][about \ 3, 500][jobs.])
+v(0 1 2 3 4 7 8 9 10 11 12 13 17 18 19 20 21 22 23 24 25 27 28 29 30): 2.879120349884033, EP: 0.5063150525093079	 ([reuters][-][nortel][networks][corp.][preliminary][results][first][half][2004][on \ thursday][showed][quarter \ earnings][nil][1][cent][per][share,][north][america's \ biggest][telecom][supplier][said][would][cut])
+v(3 7 8 9 10 11 13 28 29): -1.369379997253418, EP: -0.24081580340862274	 ([networks][preliminary][results][first][half][2004][showed][said][would])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

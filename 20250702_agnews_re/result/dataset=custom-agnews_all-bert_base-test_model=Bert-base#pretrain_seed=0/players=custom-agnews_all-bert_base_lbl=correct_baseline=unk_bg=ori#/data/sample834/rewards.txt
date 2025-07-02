@@ -1,0 +1,30 @@
+---------- Players ----------
+Player 0: sony
+Player 1: going
+Player 2: head - to - head
+Player 3: nintendo
+Player 4: battle
+Player 5: handheld
+Player 6: games
+Player 7: console
+Player 8: market.
+Player 9: company
+Player 10: price
+Player 11: long - awaited
+Player 12: playstation
+Player 13: portable
+Player 14: ( psp )
+Player 15: 100
+Player 16: launch
+Player 17: japan,
+---------- Rewards ----------
+v(): 3.882063865661621	 ([])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13): 3.4446206092834473	 ([sony][going][nintendo][battle][handheld][games][console][market.][company][price][long - awaited][playstation][portable])
+v(2 14 15 16 17): 4.317193031311035	 ([head - to - head][( psp )][100][launch][japan,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 3.059573173522949	 ([sony][going][head - to - head][nintendo][battle][handheld][games][console][market.][company][price][long - awaited][playstation][portable][( psp )][100][launch][japan,])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): -0.8224906921386719, EP: 1.0	 ([sony][going][head - to - head][nintendo][battle][handheld][games][console][market.][company][price][long - awaited][playstation][portable][( psp )][100][launch][japan,])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13): -0.43744325637817383, EP: 0.5318519473075867	 ([sony][going][nintendo][battle][handheld][games][console][market.][company][price][long - awaited][playstation][portable])
+v(2 14 15 16 17): 0.43512916564941406, EP: -0.5290384292602539	 ([head - to - head][( psp )][100][launch][japan,])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

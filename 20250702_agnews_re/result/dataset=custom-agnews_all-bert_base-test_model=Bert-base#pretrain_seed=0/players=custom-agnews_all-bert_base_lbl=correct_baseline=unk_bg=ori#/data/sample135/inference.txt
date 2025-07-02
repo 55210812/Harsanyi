@@ -1,0 +1,51 @@
+Execution time: 2025-07-02 19:20:48
+prompt: [CLS] if the southern california coast is favored with clear skies and low turbulence on november 15, it could be a really big day for aviation history and for iisc / iit distinguished alumni dr ajay kumar. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2065 decoded_text: if
+idx:2 input_id:1996 decoded_text: the
+idx:3 input_id:2670 decoded_text: southern
+idx:4 input_id:2662 decoded_text: california
+idx:5 input_id:3023 decoded_text: coast
+idx:6 input_id:2003 decoded_text: is
+idx:7 input_id:12287 decoded_text: favored
+idx:8 input_id:2007 decoded_text: with
+idx:9 input_id:3154 decoded_text: clear
+idx:10 input_id:15717 decoded_text: skies
+idx:11 input_id:1998 decoded_text: and
+idx:12 input_id:2659 decoded_text: low
+idx:13 input_id:29083 decoded_text: turbulence
+idx:14 input_id:2006 decoded_text: on
+idx:15 input_id:2281 decoded_text: november
+idx:16 input_id:2321 decoded_text: 15
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:2009 decoded_text: it
+idx:19 input_id:2071 decoded_text: could
+idx:20 input_id:2022 decoded_text: be
+idx:21 input_id:1037 decoded_text: a
+idx:22 input_id:2428 decoded_text: really
+idx:23 input_id:2502 decoded_text: big
+idx:24 input_id:2154 decoded_text: day
+idx:25 input_id:2005 decoded_text: for
+idx:26 input_id:5734 decoded_text: aviation
+idx:27 input_id:2381 decoded_text: history
+idx:28 input_id:1998 decoded_text: and
+idx:29 input_id:2005 decoded_text: for
+idx:30 input_id:2462 decoded_text: ii
+idx:31 input_id:11020 decoded_text: ##sc
+idx:32 input_id:1013 decoded_text: /
+idx:33 input_id:2462 decoded_text: ii
+idx:34 input_id:2102 decoded_text: ##t
+idx:35 input_id:5182 decoded_text: distinguished
+idx:36 input_id:9441 decoded_text: alumni
+idx:37 input_id:2852 decoded_text: dr
+idx:38 input_id:19128 decoded_text: aj
+idx:39 input_id:4710 decoded_text: ##ay
+idx:40 input_id:9600 decoded_text: kumar
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.349329948425293, -0.9286451935768127, -0.6902927756309509, 6.025700569152832]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

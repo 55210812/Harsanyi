@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: louisville,
+Player 1: ky.,
+Player 2: ( sports
+Player 3: network )
+Player 4: -
+Player 5: larry
+Player 6: o'bannon
+Player 7: netted
+Player 8: 25
+Player 9: points
+Player 10: lead
+Player 11: no.
+Player 12: 13
+Player 13: louisville
+Player 14: north
+Player 15: carolina
+Player 16: t,
+Player 17: 85 - 51,
+Player 18: freedom
+Player 19: hall.
+---------- Rewards ----------
+v(): -3.346534252166748	 ([])
+v(2 3 6 15 16): 8.614083290100098	 ([( sports][network )][o'bannon][carolina][t,])
+v(0 7 9 12 13 18 19): -3.4179763793945312	 ([louisville,][netted][points][13][louisville][freedom][hall.])
+v(1 4 5 8 10 11 14 17): 0.6746939420700073	 ([ky.,][-][larry][25][lead][no.][north][85 - 51,])
+v(0 2 3 6 7 9 12 13 15 16 18 19): 9.543919563293457	 ([louisville,][( sports][network )][o'bannon][netted][points][13][louisville][carolina][t,][freedom][hall.])
+v(1 2 3 4 5 6 8 10 11 14 15 16 17): 9.659584999084473	 ([ky.,][( sports][network )][-][larry][o'bannon][25][lead][no.][north][carolina][t,][85 - 51,])
+v(0 1 4 5 7 8 9 10 11 12 13 14 17 18 19): 9.680771827697754	 ([louisville,][ky.,][-][larry][netted][25][points][lead][no.][13][louisville][north][85 - 51,][freedom][hall.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.647441864013672	 ([louisville,][ky.,][( sports][network )][-][larry][o'bannon][netted][25][points][lead][no.][13][louisville][north][carolina][t,][85 - 51,][freedom][hall.])
+---------- Rewards-v() ----------
+v(0 1 4 5 7 8 9 10 11 12 13 14 17 18 19): 13.027305603027344, EP: 1.0025649070739746	 ([louisville,][ky.,][-][larry][netted][25][points][lead][no.][13][louisville][north][85 - 51,][freedom][hall.])
+v(1 2 3 4 5 6 8 10 11 14 15 16 17): 13.006118774414062, EP: 1.0009344816207886	 ([ky.,][( sports][network )][-][larry][o'bannon][25][lead][no.][north][carolina][t,][85 - 51,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 12.993976593017578, EP: 1.0	 ([louisville,][ky.,][( sports][network )][-][larry][o'bannon][netted][25][points][lead][no.][13][louisville][north][carolina][t,][85 - 51,][freedom][hall.])
+v(0 2 3 6 7 9 12 13 15 16 18 19): 12.890453338623047, EP: 0.9920330047607422	 ([louisville,][( sports][network )][o'bannon][netted][points][13][louisville][carolina][t,][freedom][hall.])
+v(2 3 6 15 16): 11.960617065429688, EP: 0.9204739332199097	 ([( sports][network )][o'bannon][carolina][t,])
+v(1 4 5 8 10 11 14 17): 4.021228313446045, EP: 0.30946865677833557	 ([ky.,][-][larry][25][lead][no.][north][85 - 51,])
+v(0 7 9 12 13 18 19): -0.0714421272277832, EP: -0.005498095881193876	 ([louisville,][netted][points][13][louisville][freedom][hall.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

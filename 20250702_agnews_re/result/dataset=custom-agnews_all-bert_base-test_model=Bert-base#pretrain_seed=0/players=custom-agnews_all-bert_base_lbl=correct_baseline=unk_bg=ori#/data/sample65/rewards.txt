@@ -1,0 +1,60 @@
+---------- Players ----------
+Player 0: berkeley,
+Player 1: u.
+Player 2: minn.
+Player 3: students
+Player 4: get
+Player 5: download
+Player 6: discounts ;
+Player 7: aim
+Player 8: provide
+Player 9: legal
+Player 10: music
+Player 11: alternatives.
+Player 12: new
+Player 13: york
+Player 14: ( cnn / money )
+Player 15: -
+Player 16: added
+Player 17: bonus
+Player 18: returning
+Player 19: campus
+Player 20: fall,
+Player 21: 80, 000
+Player 22: college
+Player 23: students
+---------- Rewards ----------
+v(): -2.9137542247772217	 ([])
+v(0 5 8 16 17 18): -7.826622486114502	 ([berkeley,][download][provide][added][bonus][returning])
+v(3 4 6 10 20): -3.334583044052124	 ([students][get][discounts ;][music][fall,])
+v(7 9 14 15 19 21 22 23): 6.386567115783691	 ([aim][legal][( cnn / money )][-][campus][80, 000][college][students])
+v(1 2 11 12 13): 0.7166534662246704	 ([u.][minn.][alternatives.][new][york])
+v(0 3 4 5 6 8 10 16 17 18 20): -5.260867595672607	 ([berkeley,][students][get][download][discounts ;][provide][music][added][bonus][returning][fall,])
+v(0 5 7 8 9 14 15 16 17 18 19 21 22 23): 5.1795430183410645	 ([berkeley,][download][aim][provide][legal][( cnn / money )][-][added][bonus][returning][campus][80, 000][college][students])
+v(0 1 2 5 8 11 12 13 16 17 18): -8.291889190673828	 ([berkeley,][u.][minn.][download][provide][alternatives.][new][york][added][bonus][returning])
+v(3 4 6 7 9 10 14 15 19 20 21 22 23): 2.5692408084869385	 ([students][get][discounts ;][aim][legal][music][( cnn / money )][-][campus][fall,][80, 000][college][students])
+v(1 2 3 4 6 10 11 12 13 20): 0.7537568807601929	 ([u.][minn.][students][get][discounts ;][music][alternatives.][new][york][fall,])
+v(1 2 7 9 11 12 13 14 15 19 21 22 23): 7.974600315093994	 ([u.][minn.][aim][legal][alternatives.][new][york][( cnn / money )][-][campus][80, 000][college][students])
+v(0 3 4 5 6 7 8 9 10 14 15 16 17 18 19 20 21 22 23): -0.25505518913269043	 ([berkeley,][students][get][download][discounts ;][aim][provide][legal][music][( cnn / money )][-][added][bonus][returning][campus][fall,][80, 000][college][students])
+v(0 1 2 3 4 5 6 8 10 11 12 13 16 17 18 20): -5.250301361083984	 ([berkeley,][u.][minn.][students][get][download][discounts ;][provide][music][alternatives.][new][york][added][bonus][returning][fall,])
+v(0 1 2 5 7 8 9 11 12 13 14 15 16 17 18 19 21 22 23): 5.590523719787598	 ([berkeley,][u.][minn.][download][aim][provide][legal][alternatives.][new][york][( cnn / money )][-][added][bonus][returning][campus][80, 000][college][students])
+v(1 2 3 4 6 7 9 10 11 12 13 14 15 19 20 21 22 23): 6.668354034423828	 ([u.][minn.][students][get][discounts ;][aim][legal][music][alternatives.][new][york][( cnn / money )][-][campus][fall,][80, 000][college][students])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 4.994550704956055	 ([berkeley,][u.][minn.][students][get][download][discounts ;][aim][provide][legal][music][alternatives.][new][york][( cnn / money )][-][added][bonus][returning][campus][fall,][80, 000][college][students])
+---------- Rewards-v() ----------
+v(1 2 7 9 11 12 13 14 15 19 21 22 23): 10.888354301452637, EP: 1.376825213432312	 ([u.][minn.][aim][legal][alternatives.][new][york][( cnn / money )][-][campus][80, 000][college][students])
+v(1 2 3 4 6 7 9 10 11 12 13 14 15 19 20 21 22 23): 9.582108497619629, EP: 1.21165132522583	 ([u.][minn.][students][get][discounts ;][aim][legal][music][alternatives.][new][york][( cnn / money )][-][campus][fall,][80, 000][college][students])
+v(7 9 14 15 19 21 22 23): 9.300321578979492, EP: 1.176019549369812	 ([aim][legal][( cnn / money )][-][campus][80, 000][college][students])
+v(0 1 2 5 7 8 9 11 12 13 14 15 16 17 18 19 21 22 23): 8.504278182983398, EP: 1.0753604173660278	 ([berkeley,][u.][minn.][download][aim][provide][legal][alternatives.][new][york][( cnn / money )][-][added][bonus][returning][campus][80, 000][college][students])
+v(0 5 7 8 9 14 15 16 17 18 19 21 22 23): 8.093297004699707, EP: 1.0233920812606812	 ([berkeley,][download][aim][provide][legal][( cnn / money )][-][added][bonus][returning][campus][80, 000][college][students])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 7.9083051681518555, EP: 1.0	 ([berkeley,][u.][minn.][students][get][download][discounts ;][aim][provide][legal][music][alternatives.][new][york][( cnn / money )][-][added][bonus][returning][campus][fall,][80, 000][college][students])
+v(3 4 6 7 9 10 14 15 19 20 21 22 23): 5.48299503326416, EP: 0.6933211088180542	 ([students][get][discounts ;][aim][legal][music][( cnn / money )][-][campus][fall,][80, 000][college][students])
+v(0 1 2 5 8 11 12 13 16 17 18): -5.378134727478027, EP: -0.6800615787506104	 ([berkeley,][u.][minn.][download][provide][alternatives.][new][york][added][bonus][returning])
+v(0 5 8 16 17 18): -4.912868499755859, EP: -0.6212289929389954	 ([berkeley,][download][provide][added][bonus][returning])
+v(1 2 3 4 6 10 11 12 13 20): 3.667510986328125, EP: 0.4637543559074402	 ([u.][minn.][students][get][discounts ;][music][alternatives.][new][york][fall,])
+v(1 2 11 12 13): 3.6304078102111816, EP: 0.45906269550323486	 ([u.][minn.][alternatives.][new][york])
+v(0 3 4 5 6 7 8 9 10 14 15 16 17 18 19 20 21 22 23): 2.6586990356445312, EP: 0.33619076013565063	 ([berkeley,][students][get][download][discounts ;][aim][provide][legal][music][( cnn / money )][-][added][bonus][returning][campus][fall,][80, 000][college][students])
+v(0 3 4 5 6 8 10 16 17 18 20): -2.3471133708953857, EP: -0.2967909574508667	 ([berkeley,][students][get][download][discounts ;][provide][music][added][bonus][returning][fall,])
+v(0 1 2 3 4 5 6 8 10 11 12 13 16 17 18 20): -2.3365471363067627, EP: -0.29545485973358154	 ([berkeley,][u.][minn.][students][get][download][discounts ;][provide][music][alternatives.][new][york][added][bonus][returning][fall,])
+v(3 4 6 10 20): -0.42082881927490234, EP: -0.05321352928876877	 ([students][get][discounts ;][music][fall,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

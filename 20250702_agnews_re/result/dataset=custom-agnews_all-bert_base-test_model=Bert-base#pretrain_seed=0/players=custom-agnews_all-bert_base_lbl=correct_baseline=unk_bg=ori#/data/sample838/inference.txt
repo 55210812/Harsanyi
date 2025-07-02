@@ -1,0 +1,34 @@
+Execution time: 2025-07-02 19:38:02
+prompt: [CLS] tokyo stocks edged lower monday morning because of concerns about rising oil prices. the us dollar was down against the japanese yen. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:5522 decoded_text: tokyo
+idx:2 input_id:15768 decoded_text: stocks
+idx:3 input_id:13011 decoded_text: edged
+idx:4 input_id:2896 decoded_text: lower
+idx:5 input_id:6928 decoded_text: monday
+idx:6 input_id:2851 decoded_text: morning
+idx:7 input_id:2138 decoded_text: because
+idx:8 input_id:1997 decoded_text: of
+idx:9 input_id:5936 decoded_text: concerns
+idx:10 input_id:2055 decoded_text: about
+idx:11 input_id:4803 decoded_text: rising
+idx:12 input_id:3514 decoded_text: oil
+idx:13 input_id:7597 decoded_text: prices
+idx:14 input_id:1012 decoded_text: .
+idx:15 input_id:1996 decoded_text: the
+idx:16 input_id:2149 decoded_text: us
+idx:17 input_id:7922 decoded_text: dollar
+idx:18 input_id:2001 decoded_text: was
+idx:19 input_id:2091 decoded_text: down
+idx:20 input_id:2114 decoded_text: against
+idx:21 input_id:1996 decoded_text: the
+idx:22 input_id:2887 decoded_text: japanese
+idx:23 input_id:18371 decoded_text: yen
+idx:24 input_id:1012 decoded_text: .
+idx:25 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-0.6174919009208679, -3.3251776695251465, 5.462525367736816, -3.287379264831543]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

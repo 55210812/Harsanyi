@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: reports
+Player 1: british
+Player 2: grand
+Player 3: prix
+Player 4: dumped
+Player 5: next
+Player 6: year
+Player 7: # 39 ; s
+Player 8: formula
+Player 9: 1
+Player 10: world
+Player 11: championship
+Player 12: little
+Player 13: premature,
+Player 14: although
+Player 15: # 39 ; s
+Player 16: say
+Player 17: # 39 ; t
+Player 18: happen.
+---------- Rewards ----------
+v(): -5.153042316436768	 ([])
+v(1 2 4 5 6 13 14 18): -2.6023175716400146	 ([british][grand][dumped][next][year][premature,][although][happen.])
+v(7 11 15 16 17): 7.263038635253906	 ([# 39 ; s][championship][# 39 ; s][say][# 39 ; t])
+v(0 3 8 9 10 12): 7.667370319366455	 ([reports][prix][formula][1][world][little])
+v(1 2 4 5 6 7 11 13 14 15 16 17 18): 9.300307273864746	 ([british][grand][dumped][next][year][# 39 ; s][championship][premature,][although][# 39 ; s][say][# 39 ; t][happen.])
+v(0 1 2 3 4 5 6 8 9 10 12 13 14 18): 8.691454887390137	 ([reports][british][grand][prix][dumped][next][year][formula][1][world][little][premature,][although][happen.])
+v(0 3 7 8 9 10 11 12 15 16 17): 9.497506141662598	 ([reports][prix][# 39 ; s][formula][1][world][championship][little][# 39 ; s][say][# 39 ; t])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.550806999206543	 ([reports][british][grand][prix][dumped][next][year][# 39 ; s][formula][1][world][championship][little][premature,][although][# 39 ; s][say][# 39 ; t][happen.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.703849792480469, EP: 1.0	 ([reports][british][grand][prix][dumped][next][year][# 39 ; s][formula][1][world][championship][little][premature,][although][# 39 ; s][say][# 39 ; t][happen.])
+v(0 3 7 8 9 10 11 12 15 16 17): 14.650548934936523, EP: 0.9963750243186951	 ([reports][prix][# 39 ; s][formula][1][world][championship][little][# 39 ; s][say][# 39 ; t])
+v(1 2 4 5 6 7 11 13 14 15 16 17 18): 14.453350067138672, EP: 0.9829636812210083	 ([british][grand][dumped][next][year][# 39 ; s][championship][premature,][although][# 39 ; s][say][# 39 ; t][happen.])
+v(0 1 2 3 4 5 6 8 9 10 12 13 14 18): 13.844497680664062, EP: 0.9415559768676758	 ([reports][british][grand][prix][dumped][next][year][formula][1][world][little][premature,][although][happen.])
+v(0 3 8 9 10 12): 12.820412635803223, EP: 0.8719085454940796	 ([reports][prix][formula][1][world][little])
+v(7 11 15 16 17): 12.416080474853516, EP: 0.8444101810455322	 ([# 39 ; s][championship][# 39 ; s][say][# 39 ; t])
+v(1 2 4 5 6 13 14 18): 2.550724744796753, EP: 0.17347325384616852	 ([british][grand][dumped][next][year][premature,][although][happen.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

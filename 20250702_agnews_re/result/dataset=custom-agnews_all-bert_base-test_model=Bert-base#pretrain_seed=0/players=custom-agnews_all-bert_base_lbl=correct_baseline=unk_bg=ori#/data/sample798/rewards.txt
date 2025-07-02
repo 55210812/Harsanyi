@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: nonpartisan
+Player 1: national
+Player 2: group
+Player 3: trying
+Player 4: get
+Player 5: record
+Player 6: number
+Player 7: voters
+Player 8: polls
+Player 9: year.
+Player 10: mark
+Player 11: zaloudek.
+Player 12: scientists
+Player 13: unlocking
+Player 14: mysteries
+Player 15: universe
+Player 16: planetary
+Player 17: exploration
+Player 18: forges
+Player 19: ahead
+Player 20: several
+Player 21: fronts.
+---------- Rewards ----------
+v(): 5.846224308013916	 ([])
+v(0 1 5): 0.3981750011444092	 ([nonpartisan][national][record])
+v(2 6 7 8 9 17 18 19): 1.1596229076385498	 ([group][number][voters][polls][year.][exploration][forges][ahead])
+v(3 4 10 11 12 13 14 15 16 20 21): 8.289966583251953	 ([trying][get][mark][zaloudek.][scientists][unlocking][mysteries][universe][planetary][several][fronts.])
+v(0 1 2 5 6 7 8 9 17 18 19): -1.4401650428771973	 ([nonpartisan][national][group][record][number][voters][polls][year.][exploration][forges][ahead])
+v(0 1 3 4 5 10 11 12 13 14 15 16 20 21): 8.421236038208008	 ([nonpartisan][national][trying][get][record][mark][zaloudek.][scientists][unlocking][mysteries][universe][planetary][several][fronts.])
+v(2 3 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 6.194797992706299	 ([group][trying][get][number][voters][polls][year.][mark][zaloudek.][scientists][unlocking][mysteries][universe][planetary][exploration][forges][ahead][several][fronts.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 4.156805515289307	 ([nonpartisan][national][group][trying][get][record][number][voters][polls][year.][mark][zaloudek.][scientists][unlocking][mysteries][universe][planetary][exploration][forges][ahead][several][fronts.])
+---------- Rewards-v() ----------
+v(0 1 2 5 6 7 8 9 17 18 19): -7.286389350891113, EP: 4.3129563331604	 ([nonpartisan][national][group][record][number][voters][polls][year.][exploration][forges][ahead])
+v(0 1 5): -5.448049545288086, EP: 3.224807024002075	 ([nonpartisan][national][record])
+v(2 6 7 8 9 17 18 19): -4.686601638793945, EP: 2.7740910053253174	 ([group][number][voters][polls][year.][exploration][forges][ahead])
+v(0 1 3 4 5 10 11 12 13 14 15 16 20 21): 2.575011730194092, EP: -1.5241997241973877	 ([nonpartisan][national][trying][get][record][mark][zaloudek.][scientists][unlocking][mysteries][universe][planetary][several][fronts.])
+v(3 4 10 11 12 13 14 15 16 20 21): 2.443742275238037, EP: -1.4464987516403198	 ([trying][get][mark][zaloudek.][scientists][unlocking][mysteries][universe][planetary][several][fronts.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): -1.6894187927246094, EP: 1.0	 ([nonpartisan][national][group][trying][get][record][number][voters][polls][year.][mark][zaloudek.][scientists][unlocking][mysteries][universe][planetary][exploration][forges][ahead][several][fronts.])
+v(2 3 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 0.3485736846923828, EP: -0.20632757246494293	 ([group][trying][get][number][voters][polls][year.][mark][zaloudek.][scientists][unlocking][mysteries][universe][planetary][exploration][forges][ahead][several][fronts.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

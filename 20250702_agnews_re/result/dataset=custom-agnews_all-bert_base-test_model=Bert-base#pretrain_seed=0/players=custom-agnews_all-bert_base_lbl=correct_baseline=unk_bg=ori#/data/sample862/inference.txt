@@ -1,0 +1,39 @@
+Execution time: 2025-07-02 19:38:51
+prompt: [CLS] motorola said tuesday that it will acquire meshnetworks, a developer of 802. 11 mesh networks designed to cover areas as large as entire cities. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:29583 decoded_text: motorola
+idx:2 input_id:2056 decoded_text: said
+idx:3 input_id:9857 decoded_text: tuesday
+idx:4 input_id:2008 decoded_text: that
+idx:5 input_id:2009 decoded_text: it
+idx:6 input_id:2097 decoded_text: will
+idx:7 input_id:9878 decoded_text: acquire
+idx:8 input_id:20437 decoded_text: mesh
+idx:9 input_id:7159 decoded_text: ##net
+idx:10 input_id:9316 decoded_text: ##works
+idx:11 input_id:1010 decoded_text: ,
+idx:12 input_id:1037 decoded_text: a
+idx:13 input_id:9722 decoded_text: developer
+idx:14 input_id:1997 decoded_text: of
+idx:15 input_id:23908 decoded_text: 802
+idx:16 input_id:1012 decoded_text: .
+idx:17 input_id:2340 decoded_text: 11
+idx:18 input_id:20437 decoded_text: mesh
+idx:19 input_id:6125 decoded_text: networks
+idx:20 input_id:2881 decoded_text: designed
+idx:21 input_id:2000 decoded_text: to
+idx:22 input_id:3104 decoded_text: cover
+idx:23 input_id:2752 decoded_text: areas
+idx:24 input_id:2004 decoded_text: as
+idx:25 input_id:2312 decoded_text: large
+idx:26 input_id:2004 decoded_text: as
+idx:27 input_id:2972 decoded_text: entire
+idx:28 input_id:3655 decoded_text: cities
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.963920831680298, -4.521135330200195, 4.705924987792969, 1.9465320110321045]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

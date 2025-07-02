@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: parliamentary
+Player 1: inquiry
+Player 2: allegations
+Player 3: newly - muscled
+Player 4: tenanted
+Player 5: pub
+Player 6: companies
+Player 7: giving
+Player 8: raw
+Player 9: deal
+Player 10: pub
+Player 11: tenants
+Player 12: certainly
+Player 13: put
+Player 14: pubcos
+Player 15: trying
+Player 16: become
+Player 17: ever - bigger
+Player 18: influential.
+---------- Rewards ----------
+v(): -6.367979049682617	 ([])
+v(4 5): 5.972568511962891	 ([tenanted][pub])
+v(3 6 11 12 17 18): 7.393387317657471	 ([newly - muscled][companies][tenants][certainly][ever - bigger][influential.])
+v(2 16): -5.515877723693848	 ([allegations][become])
+v(0 1 7 8 9 10 13 14 15): -0.9778618812561035	 ([parliamentary][inquiry][giving][raw][deal][pub][put][pubcos][trying])
+v(3 4 5 6 11 12 17 18): 8.175878524780273	 ([newly - muscled][tenanted][pub][companies][tenants][certainly][ever - bigger][influential.])
+v(2 4 5 16): 5.4648919105529785	 ([allegations][tenanted][pub][become])
+v(0 1 4 5 7 8 9 10 13 14 15): 1.0612766742706299	 ([parliamentary][inquiry][tenanted][pub][giving][raw][deal][pub][put][pubcos][trying])
+v(2 3 6 11 12 16 17 18): 7.512940883636475	 ([allegations][newly - muscled][companies][tenants][certainly][become][ever - bigger][influential.])
+v(0 1 3 6 7 8 9 10 11 12 13 14 15 17 18): 7.553677558898926	 ([parliamentary][inquiry][newly - muscled][companies][giving][raw][deal][pub][tenants][certainly][put][pubcos][trying][ever - bigger][influential.])
+v(0 1 2 7 8 9 10 13 14 15 16): 0.6654021739959717	 ([parliamentary][inquiry][allegations][giving][raw][deal][pub][put][pubcos][trying][become])
+v(2 3 4 5 6 11 12 16 17 18): 7.8761186599731445	 ([allegations][newly - muscled][tenanted][pub][companies][tenants][certainly][become][ever - bigger][influential.])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18): 7.507036209106445	 ([parliamentary][inquiry][newly - muscled][tenanted][pub][companies][giving][raw][deal][pub][tenants][certainly][put][pubcos][trying][ever - bigger][influential.])
+v(0 1 2 4 5 7 8 9 10 13 14 15 16): 1.4682705402374268	 ([parliamentary][inquiry][allegations][tenanted][pub][giving][raw][deal][pub][put][pubcos][trying][become])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.8559889793396	 ([parliamentary][inquiry][allegations][newly - muscled][companies][giving][raw][deal][pub][tenants][certainly][put][pubcos][trying][become][ever - bigger][influential.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.639583110809326	 ([parliamentary][inquiry][allegations][newly - muscled][tenanted][pub][companies][giving][raw][deal][pub][tenants][certainly][put][pubcos][trying][become][ever - bigger][influential.])
+---------- Rewards-v() ----------
+v(3 4 5 6 11 12 17 18): 14.54385757446289, EP: 1.0382860898971558	 ([newly - muscled][tenanted][pub][companies][tenants][certainly][ever - bigger][influential.])
+v(2 3 4 5 6 11 12 16 17 18): 14.244097709655762, EP: 1.0168862342834473	 ([allegations][newly - muscled][tenanted][pub][companies][tenants][certainly][become][ever - bigger][influential.])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.223968505859375, EP: 1.0154491662979126	 ([parliamentary][inquiry][allegations][newly - muscled][companies][giving][raw][deal][pub][tenants][certainly][put][pubcos][trying][become][ever - bigger][influential.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.007562637329102, EP: 1.0	 ([parliamentary][inquiry][allegations][newly - muscled][tenanted][pub][companies][giving][raw][deal][pub][tenants][certainly][put][pubcos][trying][become][ever - bigger][influential.])
+v(0 1 3 6 7 8 9 10 11 12 13 14 15 17 18): 13.921656608581543, EP: 0.9938671588897705	 ([parliamentary][inquiry][newly - muscled][companies][giving][raw][deal][pub][tenants][certainly][put][pubcos][trying][ever - bigger][influential.])
+v(2 3 6 11 12 16 17 18): 13.88092041015625, EP: 0.9909589886665344	 ([allegations][newly - muscled][companies][tenants][certainly][become][ever - bigger][influential.])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18): 13.875015258789062, EP: 0.9905374646186829	 ([parliamentary][inquiry][newly - muscled][tenanted][pub][companies][giving][raw][deal][pub][tenants][certainly][put][pubcos][trying][ever - bigger][influential.])
+v(3 6 11 12 17 18): 13.76136589050293, EP: 0.9824240207672119	 ([newly - muscled][companies][tenants][certainly][ever - bigger][influential.])
+v(4 5): 12.340547561645508, EP: 0.8809917569160461	 ([tenanted][pub])
+v(2 4 5 16): 11.832870483398438, EP: 0.8447487354278564	 ([allegations][tenanted][pub][become])
+v(0 1 2 4 5 7 8 9 10 13 14 15 16): 7.836249351501465, EP: 0.5594298839569092	 ([parliamentary][inquiry][allegations][tenanted][pub][giving][raw][deal][pub][put][pubcos][trying][become])
+v(0 1 4 5 7 8 9 10 13 14 15): 7.429255485534668, EP: 0.5303745865821838	 ([parliamentary][inquiry][tenanted][pub][giving][raw][deal][pub][put][pubcos][trying])
+v(0 1 2 7 8 9 10 13 14 15 16): 7.033381462097168, EP: 0.5021131634712219	 ([parliamentary][inquiry][allegations][giving][raw][deal][pub][put][pubcos][trying][become])
+v(0 1 7 8 9 10 13 14 15): 5.390117168426514, EP: 0.3848004937171936	 ([parliamentary][inquiry][giving][raw][deal][pub][put][pubcos][trying])
+v(2 16): 0.8521013259887695, EP: 0.060831520706415176	 ([allegations][become])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

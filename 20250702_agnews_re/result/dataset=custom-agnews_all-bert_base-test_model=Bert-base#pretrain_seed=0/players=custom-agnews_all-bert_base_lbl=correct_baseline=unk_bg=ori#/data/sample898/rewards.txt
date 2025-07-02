@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: disgruntled
+Player 1: receiver,
+Player 2: turns
+Player 3: 42
+Player 4: today,
+Player 5: expects
+Player 6: dealt
+Player 7: oct.
+Player 8: 19
+Player 9: trade
+Player 10: deadline.
+Player 11: gregg
+Player 12: bell
+Player 13: - -
+Player 14: bee
+Player 15: staff
+Player 16: writer.
+---------- Rewards ----------
+v(): -6.765217304229736	 ([])
+v(0 6 7 8 9 10 11 16): 3.794558048248291	 ([disgruntled][dealt][oct.][19][trade][deadline.][gregg][writer.])
+v(1 3 4 5 12 13): -6.000472545623779	 ([receiver,][42][today,][expects][bell][- -])
+v(2 14 15): -5.179887294769287	 ([turns][bee][staff])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 16): 9.675273895263672	 ([disgruntled][receiver,][42][today,][expects][dealt][oct.][19][trade][deadline.][gregg][bell][- -][writer.])
+v(0 2 6 7 8 9 10 11 14 15 16): 7.450944900512695	 ([disgruntled][turns][dealt][oct.][19][trade][deadline.][gregg][bee][staff][writer.])
+v(1 2 3 4 5 12 13 14 15): -3.459439754486084	 ([receiver,][turns][42][today,][expects][bell][- -][bee][staff])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.66103744506836	 ([disgruntled][receiver,][turns][42][today,][expects][dealt][oct.][19][trade][deadline.][gregg][bell][- -][bee][staff][writer.])
+---------- Rewards-v() ----------
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 16): 16.44049072265625, EP: 1.0008666515350342	 ([disgruntled][receiver,][42][today,][expects][dealt][oct.][19][trade][deadline.][gregg][bell][- -][writer.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 16.426254272460938, EP: 1.0	 ([disgruntled][receiver,][turns][42][today,][expects][dealt][oct.][19][trade][deadline.][gregg][bell][- -][bee][staff][writer.])
+v(0 2 6 7 8 9 10 11 14 15 16): 14.216161727905273, EP: 0.8654536604881287	 ([disgruntled][turns][dealt][oct.][19][trade][deadline.][gregg][bee][staff][writer.])
+v(0 6 7 8 9 10 11 16): 10.559775352478027, EP: 0.6428595781326294	 ([disgruntled][dealt][oct.][19][trade][deadline.][gregg][writer.])
+v(1 2 3 4 5 12 13 14 15): 3.3057775497436523, EP: 0.2012496292591095	 ([receiver,][turns][42][today,][expects][bell][- -][bee][staff])
+v(2 14 15): 1.5853300094604492, EP: 0.09651196002960205	 ([turns][bee][staff])
+v(1 3 4 5 12 13): 0.764744758605957, EP: 0.046556249260902405	 ([receiver,][42][today,][expects][bell][- -])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

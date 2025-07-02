@@ -1,0 +1,29 @@
+---------- Players ----------
+Player 0: crude
+Player 1: oil
+Player 2: futures
+Player 3: traded
+Player 4: \ $ 42
+Player 5: barrel
+Player 6: wednesday
+Player 7: colder
+Player 8: weather
+Player 9: descended
+Player 10: northeastern
+Player 11: united
+Player 12: states,
+Player 13: heavy
+Player 14: consumer
+Player 15: heating
+Player 16: oil.
+---------- Rewards ----------
+v(): -2.1547720432281494	 ([])
+v(1 4 5 15 16): 5.78457498550415	 ([oil][\ $ 42][barrel][heating][oil.])
+v(0 2 3 6 7 8 9 10 11 12 13 14): 8.245997428894043	 ([crude][futures][traded][wednesday][colder][weather][descended][northeastern][united][states,][heavy][consumer])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 6.935655117034912	 ([crude][oil][futures][traded][\ $ 42][barrel][wednesday][colder][weather][descended][northeastern][united][states,][heavy][consumer][heating][oil.])
+---------- Rewards-v() ----------
+v(0 2 3 6 7 8 9 10 11 12 13 14): 10.400769233703613, EP: 1.1441452503204346	 ([crude][futures][traded][wednesday][colder][weather][descended][northeastern][united][states,][heavy][consumer])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.09042739868164, EP: 1.0	 ([crude][oil][futures][traded][\ $ 42][barrel][wednesday][colder][weather][descended][northeastern][united][states,][heavy][consumer][heating][oil.])
+v(1 4 5 15 16): 7.939347267150879, EP: 0.8733744621276855	 ([oil][\ $ 42][barrel][heating][oil.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,23 @@
+---------- Players ----------
+Player 0: trawl
+Player 1: sweaty
+Player 2: illegal \ wildlife
+Player 3: market
+Player 4: asia
+Player 5: shop
+Player 6: rare
+Player 7: animals
+Player 8: and \ exotic
+Player 9: plants
+Player 10: internet?
+---------- Rewards ----------
+v(): 6.266425609588623	 ([])
+v(0 1 2 4 8 10): 7.038060665130615	 ([trawl][sweaty][illegal \ wildlife][asia][and \ exotic][internet?])
+v(3 5 6 7 9): 6.670647621154785	 ([market][shop][rare][animals][plants])
+v(0 1 2 3 4 5 6 7 8 9 10): 4.981060028076172	 ([trawl][sweaty][illegal \ wildlife][market][asia][shop][rare][animals][and \ exotic][plants][internet?])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10): -1.2853655815124512, EP: 1.0	 ([trawl][sweaty][illegal \ wildlife][market][asia][shop][rare][animals][and \ exotic][plants][internet?])
+v(0 1 2 4 8 10): 0.7716350555419922, EP: -0.6003234386444092	 ([trawl][sweaty][illegal \ wildlife][asia][and \ exotic][internet?])
+v(3 5 6 7 9): 0.4042220115661621, EP: -0.314480185508728	 ([market][shop][rare][animals][plants])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

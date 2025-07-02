@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: cingular
+Player 1: wireless
+Player 2: llc,
+Player 3: joint
+Player 4: venture
+Player 5: sbc
+Player 6: communications
+Player 7: inc.
+Player 8: bellsouth
+Player 9: corp.,
+Player 10: reached
+Player 11: agreement
+Player 12: us
+Player 13: department
+Player 14: justice
+Player 15: allow
+Player 16: companys
+Player 17: proposed
+Player 18: acquisition
+Player 19: amp ; t
+Player 20: wireless
+Player 21: proceed
+Player 22: schedule.
+---------- Rewards ----------
+v(): -4.594144344329834	 ([])
+v(0 3 4 7 9 17 19 21): 5.667830467224121	 ([cingular][joint][venture][inc.][corp.,][proposed][amp ; t][proceed])
+v(10 11 15 18): -5.148755073547363	 ([reached][agreement][allow][acquisition])
+v(1 2 5 6 8 12 13 14 16 20 22): 3.344313144683838	 ([wireless][llc,][sbc][communications][bellsouth][us][department][justice][companys][wireless][schedule.])
+v(0 3 4 7 9 10 11 15 17 18 19 21): 6.063117027282715	 ([cingular][joint][venture][inc.][corp.,][reached][agreement][allow][proposed][acquisition][amp ; t][proceed])
+v(0 1 2 3 4 5 6 7 8 9 12 13 14 16 17 19 20 21 22): 3.4984147548675537	 ([cingular][wireless][llc,][joint][venture][sbc][communications][inc.][bellsouth][corp.,][us][department][justice][companys][proposed][amp ; t][wireless][proceed][schedule.])
+v(1 2 5 6 8 10 11 12 13 14 15 16 18 20 22): 3.1384401321411133	 ([wireless][llc,][sbc][communications][bellsouth][reached][agreement][us][department][justice][allow][companys][acquisition][wireless][schedule.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 2.954573631286621	 ([cingular][wireless][llc,][joint][venture][sbc][communications][inc.][bellsouth][corp.,][reached][agreement][us][department][justice][allow][companys][proposed][acquisition][amp ; t][wireless][proceed][schedule.])
+---------- Rewards-v() ----------
+v(0 3 4 7 9 10 11 15 17 18 19 21): 10.65726089477539, EP: 1.4117975234985352	 ([cingular][joint][venture][inc.][corp.,][reached][agreement][allow][proposed][acquisition][amp ; t][proceed])
+v(0 3 4 7 9 17 19 21): 10.261974334716797, EP: 1.3594326972961426	 ([cingular][joint][venture][inc.][corp.,][proposed][amp ; t][proceed])
+v(0 1 2 3 4 5 6 7 8 9 12 13 14 16 17 19 20 21 22): 8.092558860778809, EP: 1.0720441341400146	 ([cingular][wireless][llc,][joint][venture][sbc][communications][inc.][bellsouth][corp.,][us][department][justice][companys][proposed][amp ; t][wireless][proceed][schedule.])
+v(1 2 5 6 8 12 13 14 16 20 22): 7.938457489013672, EP: 1.051629900932312	 ([wireless][llc,][sbc][communications][bellsouth][us][department][justice][companys][wireless][schedule.])
+v(1 2 5 6 8 10 11 12 13 14 15 16 18 20 22): 7.732584476470947, EP: 1.0243573188781738	 ([wireless][llc,][sbc][communications][bellsouth][reached][agreement][us][department][justice][allow][companys][acquisition][wireless][schedule.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.548717975616455, EP: 1.0	 ([cingular][wireless][llc,][joint][venture][sbc][communications][inc.][bellsouth][corp.,][reached][agreement][us][department][justice][allow][companys][proposed][acquisition][amp ; t][wireless][proceed][schedule.])
+v(10 11 15 18): -0.5546107292175293, EP: -0.07347085326910019	 ([reached][agreement][allow][acquisition])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

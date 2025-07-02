@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 19:38:37
+prompt: [CLS] there # 39 ; s a reason that smiling salvation army bell - ringer looks a little stiff this christmas season, and it # 39 ; s not the cold weather. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2045 decoded_text: there
+idx:2 input_id:1001 decoded_text: #
+idx:3 input_id:4464 decoded_text: 39
+idx:4 input_id:1025 decoded_text: ;
+idx:5 input_id:1055 decoded_text: s
+idx:6 input_id:1037 decoded_text: a
+idx:7 input_id:3114 decoded_text: reason
+idx:8 input_id:2008 decoded_text: that
+idx:9 input_id:5629 decoded_text: smiling
+idx:10 input_id:12611 decoded_text: salvation
+idx:11 input_id:2390 decoded_text: army
+idx:12 input_id:4330 decoded_text: bell
+idx:13 input_id:1011 decoded_text: -
+idx:14 input_id:3614 decoded_text: ring
+idx:15 input_id:2121 decoded_text: ##er
+idx:16 input_id:3504 decoded_text: looks
+idx:17 input_id:1037 decoded_text: a
+idx:18 input_id:2210 decoded_text: little
+idx:19 input_id:10551 decoded_text: stiff
+idx:20 input_id:2023 decoded_text: this
+idx:21 input_id:4234 decoded_text: christmas
+idx:22 input_id:2161 decoded_text: season
+idx:23 input_id:1010 decoded_text: ,
+idx:24 input_id:1998 decoded_text: and
+idx:25 input_id:2009 decoded_text: it
+idx:26 input_id:1001 decoded_text: #
+idx:27 input_id:4464 decoded_text: 39
+idx:28 input_id:1025 decoded_text: ;
+idx:29 input_id:1055 decoded_text: s
+idx:30 input_id:2025 decoded_text: not
+idx:31 input_id:1996 decoded_text: the
+idx:32 input_id:3147 decoded_text: cold
+idx:33 input_id:4633 decoded_text: weather
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.059227705001831, -3.4308199882507324, 6.74730920791626, -2.2328884601593018]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: two
+Player 1: spain
+Player 2: # 39 ; s
+Player 3: wanted
+Player 4: alleged
+Player 5: terrorists
+Player 6: least
+Player 7: 16
+Player 8: suspected
+Player 9: members
+Player 10: armed
+Player 11: basque
+Player 12: separatist
+Player 13: group
+Player 14: eta
+Player 15: captured
+Player 16: sunday
+Player 17: vast
+Player 18: french - spanish
+Player 19: police
+Player 20: operation,
+Player 21: authorities
+Player 22: said.
+---------- Rewards ----------
+v(): -6.267074108123779	 ([])
+v(5 10 11 12 16 18): 6.455195426940918	 ([terrorists][armed][basque][separatist][sunday][french - spanish])
+v(1 4 6 7 8 9 14 17 19 20 21 22): 4.966622352600098	 ([spain][alleged][least][16][suspected][members][eta][vast][police][operation,][authorities][said.])
+v(0 2 3 13 15): -0.4836432933807373	 ([two][# 39 ; s][wanted][group][captured])
+v(1 4 5 6 7 8 9 10 11 12 14 16 17 18 19 20 21 22): 6.828529357910156	 ([spain][alleged][terrorists][least][16][suspected][members][armed][basque][separatist][eta][sunday][vast][french - spanish][police][operation,][authorities][said.])
+v(0 2 3 5 10 11 12 13 15 16 18): 5.991144180297852	 ([two][# 39 ; s][wanted][terrorists][armed][basque][separatist][group][captured][sunday][french - spanish])
+v(0 1 2 3 4 6 7 8 9 13 14 15 17 19 20 21 22): 5.015248775482178	 ([two][spain][# 39 ; s][wanted][alleged][least][16][suspected][members][group][eta][captured][vast][police][operation,][authorities][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 6.191441059112549	 ([two][spain][# 39 ; s][wanted][alleged][terrorists][least][16][suspected][members][armed][basque][separatist][group][eta][captured][sunday][vast][french - spanish][police][operation,][authorities][said.])
+---------- Rewards-v() ----------
+v(1 4 5 6 7 8 9 10 11 12 14 16 17 18 19 20 21 22): 13.095603942871094, EP: 1.05113685131073	 ([spain][alleged][terrorists][least][16][suspected][members][armed][basque][separatist][eta][sunday][vast][french - spanish][police][operation,][authorities][said.])
+v(5 10 11 12 16 18): 12.722269058227539, EP: 1.0211706161499023	 ([terrorists][armed][basque][separatist][sunday][french - spanish])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 12.458515167236328, EP: 1.0	 ([two][spain][# 39 ; s][wanted][alleged][terrorists][least][16][suspected][members][armed][basque][separatist][group][eta][captured][sunday][vast][french - spanish][police][operation,][authorities][said.])
+v(0 2 3 5 10 11 12 13 15 16 18): 12.258218765258789, EP: 0.9839229583740234	 ([two][# 39 ; s][wanted][terrorists][armed][basque][separatist][group][captured][sunday][french - spanish])
+v(0 1 2 3 4 6 7 8 9 13 14 15 17 19 20 21 22): 11.282322883605957, EP: 0.9055913090705872	 ([two][spain][# 39 ; s][wanted][alleged][least][16][suspected][members][group][eta][captured][vast][police][operation,][authorities][said.])
+v(1 4 6 7 8 9 14 17 19 20 21 22): 11.233695983886719, EP: 0.9016882181167603	 ([spain][alleged][least][16][suspected][members][eta][vast][police][operation,][authorities][said.])
+v(0 2 3 13 15): 5.783431053161621, EP: 0.46421512961387634	 ([two][# 39 ; s][wanted][group][captured])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

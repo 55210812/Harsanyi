@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: liverpool
+Player 1: denied
+Player 2: reports
+Player 3: yesterday
+Player 4: would
+Player 5: consider
+Player 6: sharing
+Player 7: new
+Player 8: stadium
+Player 9: rivals
+Player 10: everton.
+Player 11: reported
+Player 12: two
+Player 13: clubs
+Player 14: would
+Player 15: meet
+Player 16: government
+Player 17: officials
+Player 18: discuss
+Player 19: controversial
+Player 20: subject
+Player 21: sharing
+Player 22: ground.
+---------- Rewards ----------
+v(): -4.924383163452148	 ([])
+v(0 4 5 8 10 11 18 20): 9.243139266967773	 ([liverpool][would][consider][stadium][everton.][reported][discuss][subject])
+v(12 13 14 15): 5.391441822052002	 ([two][clubs][would][meet])
+v(1 2 3 6 7 9 16 17 19 21 22): -5.140913009643555	 ([denied][reports][yesterday][sharing][new][rivals][government][officials][controversial][sharing][ground.])
+v(0 4 5 8 10 11 12 13 14 15 18 20): 9.465978622436523	 ([liverpool][would][consider][stadium][everton.][reported][two][clubs][would][meet][discuss][subject])
+v(0 1 2 3 4 5 6 7 8 9 10 11 16 17 18 19 20 21 22): 9.524303436279297	 ([liverpool][denied][reports][yesterday][would][consider][sharing][new][stadium][rivals][everton.][reported][government][officials][discuss][controversial][subject][sharing][ground.])
+v(1 2 3 6 7 9 12 13 14 15 16 17 19 21 22): 8.15031909942627	 ([denied][reports][yesterday][sharing][new][rivals][two][clubs][would][meet][government][officials][controversial][sharing][ground.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 9.656700134277344	 ([liverpool][denied][reports][yesterday][would][consider][sharing][new][stadium][rivals][everton.][reported][two][clubs][would][meet][government][officials][discuss][controversial][subject][sharing][ground.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.581083297729492, EP: 1.0	 ([liverpool][denied][reports][yesterday][would][consider][sharing][new][stadium][rivals][everton.][reported][two][clubs][would][meet][government][officials][discuss][controversial][subject][sharing][ground.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 16 17 18 19 20 21 22): 14.448686599731445, EP: 0.9909199476242065	 ([liverpool][denied][reports][yesterday][would][consider][sharing][new][stadium][rivals][everton.][reported][government][officials][discuss][controversial][subject][sharing][ground.])
+v(0 4 5 8 10 11 12 13 14 15 18 20): 14.390361785888672, EP: 0.9869199395179749	 ([liverpool][would][consider][stadium][everton.][reported][two][clubs][would][meet][discuss][subject])
+v(0 4 5 8 10 11 18 20): 14.167522430419922, EP: 0.9716371893882751	 ([liverpool][would][consider][stadium][everton.][reported][discuss][subject])
+v(1 2 3 6 7 9 12 13 14 15 16 17 19 21 22): 13.074702262878418, EP: 0.8966893553733826	 ([denied][reports][yesterday][sharing][new][rivals][two][clubs][would][meet][government][officials][controversial][sharing][ground.])
+v(12 13 14 15): 10.315824508666992, EP: 0.7074799537658691	 ([two][clubs][would][meet])
+v(1 2 3 6 7 9 16 17 19 21 22): -0.21652984619140625, EP: -0.014850052073597908	 ([denied][reports][yesterday][sharing][new][rivals][government][officials][controversial][sharing][ground.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: deal
+Player 1: ess
+Player 2: technology
+Player 3: add
+Player 4: support
+Player 5: ahead's
+Player 6: variant
+Player 7: mpeg - 4
+Player 8: video
+Player 9: format
+Player 10: dvd
+Player 11: players.
+---------- Rewards ----------
+v(): 3.7495150566101074	 ([])
+v(8 10 11): 7.175187587738037	 ([video][dvd][players.])
+v(0 3 4): 6.281702518463135	 ([deal][add][support])
+v(1 2 5 6 7 9): 5.741145133972168	 ([ess][technology][ahead's][variant][mpeg - 4][format])
+v(0 3 4 8 10 11): 7.348104476928711	 ([deal][add][support][video][dvd][players.])
+v(1 2 5 6 7 8 9 10 11): 5.874979019165039	 ([ess][technology][ahead's][variant][mpeg - 4][video][format][dvd][players.])
+v(0 1 2 3 4 5 6 7 9): 6.2975921630859375	 ([deal][ess][technology][add][support][ahead's][variant][mpeg - 4][format])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 5.130170822143555	 ([deal][ess][technology][add][support][ahead's][variant][mpeg - 4][video][format][dvd][players.])
+---------- Rewards-v() ----------
+v(0 3 4 8 10 11): 3.5985894203186035, EP: 2.6064348220825195	 ([deal][add][support][video][dvd][players.])
+v(8 10 11): 3.4256725311279297, EP: 2.4811923503875732	 ([video][dvd][players.])
+v(0 1 2 3 4 5 6 7 9): 2.54807710647583, EP: 1.8455556631088257	 ([deal][ess][technology][add][support][ahead's][variant][mpeg - 4][format])
+v(0 3 4): 2.5321874618530273, EP: 1.8340469598770142	 ([deal][add][support])
+v(1 2 5 6 7 8 9 10 11): 2.1254639625549316, EP: 1.5394597053527832	 ([ess][technology][ahead's][variant][mpeg - 4][video][format][dvd][players.])
+v(1 2 5 6 7 9): 1.9916300773620605, EP: 1.4425246715545654	 ([ess][technology][ahead's][variant][mpeg - 4][format])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 1.3806557655334473, EP: 1.0	 ([deal][ess][technology][add][support][ahead's][variant][mpeg - 4][video][format][dvd][players.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

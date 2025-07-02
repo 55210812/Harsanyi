@@ -1,0 +1,27 @@
+---------- Players ----------
+Player 0: tape
+Player 1: storage
+Player 2: vendor
+Player 3: quantum
+Player 4: corp.
+Player 5: week
+Player 6: announced
+Player 7: buying
+Player 8: certance
+Player 9: llc,
+Player 10: maker
+Player 11: competing
+Player 12: tape
+Player 13: drive
+Player 14: technology.
+---------- Rewards ----------
+v(): 2.538379430770874	 ([])
+v(2 4 7 9 11): -5.5363383293151855	 ([vendor][corp.][buying][llc,][competing])
+v(0 1 3 5 6 8 10 12 13 14): 6.924925804138184	 ([tape][storage][quantum][week][announced][certance][maker][tape][drive][technology.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 5.81881856918335	 ([tape][storage][vendor][quantum][corp.][week][announced][buying][certance][llc,][maker][competing][tape][drive][technology.])
+---------- Rewards-v() ----------
+v(2 4 7 9 11): -8.07471752166748, EP: -2.461474657058716	 ([vendor][corp.][buying][llc,][competing])
+v(0 1 3 5 6 8 10 12 13 14): 4.3865461349487305, EP: 1.337182641029358	 ([tape][storage][quantum][week][announced][certance][maker][tape][drive][technology.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 3.2804391384124756, EP: 1.0	 ([tape][storage][vendor][quantum][corp.][week][announced][buying][certance][llc,][maker][competing][tape][drive][technology.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: pakistan
+Player 1: conducted
+Player 2: another
+Player 3: test
+Player 4: nuclear - capable,
+Player 5: surface - to - surface
+Player 6: ballistic
+Player 7: missile
+Player 8: wednesday
+Player 9: part
+Player 10: efforts
+Player 11: boost
+Player 12: defenses,
+Player 13: official
+Player 14: statement
+Player 15: said.
+---------- Rewards ----------
+v(): -5.803144931793213	 ([])
+v(0 1 4 5 6 7 11 15): 7.838929176330566	 ([pakistan][conducted][nuclear - capable,][surface - to - surface][ballistic][missile][boost][said.])
+v(2 3 8 9 10 14): -4.342203617095947	 ([another][test][wednesday][part][efforts][statement])
+v(12 13): -6.446153163909912	 ([defenses,][official])
+v(0 1 2 3 4 5 6 7 8 9 10 11 14 15): 8.005925178527832	 ([pakistan][conducted][another][test][nuclear - capable,][surface - to - surface][ballistic][missile][wednesday][part][efforts][boost][statement][said.])
+v(0 1 4 5 6 7 11 12 13 15): 7.874978542327881	 ([pakistan][conducted][nuclear - capable,][surface - to - surface][ballistic][missile][boost][defenses,][official][said.])
+v(2 3 8 9 10 12 13 14): -1.5803077220916748	 ([another][test][wednesday][part][efforts][defenses,][official][statement])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.999090194702148	 ([pakistan][conducted][another][test][nuclear - capable,][surface - to - surface][ballistic][missile][wednesday][part][efforts][boost][defenses,][official][statement][said.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 14 15): 13.809070587158203, EP: 1.0004953145980835	 ([pakistan][conducted][another][test][nuclear - capable,][surface - to - surface][ballistic][missile][wednesday][part][efforts][boost][statement][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 13.802234649658203, EP: 1.0	 ([pakistan][conducted][another][test][nuclear - capable,][surface - to - surface][ballistic][missile][wednesday][part][efforts][boost][defenses,][official][statement][said.])
+v(0 1 4 5 6 7 11 12 13 15): 13.678123474121094, EP: 0.9910078644752502	 ([pakistan][conducted][nuclear - capable,][surface - to - surface][ballistic][missile][boost][defenses,][official][said.])
+v(0 1 4 5 6 7 11 15): 13.642074584960938, EP: 0.9883960485458374	 ([pakistan][conducted][nuclear - capable,][surface - to - surface][ballistic][missile][boost][said.])
+v(2 3 8 9 10 12 13 14): 4.222837448120117, EP: 0.30595317482948303	 ([another][test][wednesday][part][efforts][defenses,][official][statement])
+v(2 3 8 9 10 14): 1.4609413146972656, EP: 0.10584817081689835	 ([another][test][wednesday][part][efforts][statement])
+v(12 13): -0.6430082321166992, EP: -0.0465872548520565	 ([defenses,][official])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: strong
+Player 1: aftershocks
+Player 2: still
+Player 3: shaking
+Player 4: northern
+Player 5: japan
+Player 6: country
+Player 7: # 39 ; s
+Player 8: deadliest
+Player 9: earthquake
+Player 10: nine
+Player 11: years
+Player 12: killed
+Player 13: least
+Player 14: 24
+Player 15: people.
+---------- Rewards ----------
+v(): -5.394687652587891	 ([])
+v(5 10 12 15): 6.674778461456299	 ([japan][nine][killed][people.])
+v(0 1 4 6 7 8 11): -4.090609550476074	 ([strong][aftershocks][northern][country][# 39 ; s][deadliest][years])
+v(2 3 9 13 14): -3.6680049896240234	 ([still][shaking][earthquake][least][24])
+v(0 1 4 5 6 7 8 10 11 12 15): 3.9895684719085693	 ([strong][aftershocks][northern][japan][country][# 39 ; s][deadliest][nine][years][killed][people.])
+v(2 3 5 9 10 12 13 14 15): 6.811153411865234	 ([still][shaking][japan][earthquake][nine][killed][least][24][people.])
+v(0 1 2 3 4 6 7 8 9 11 13 14): 3.954336643218994	 ([strong][aftershocks][still][shaking][northern][country][# 39 ; s][deadliest][earthquake][years][least][24])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 6.061676979064941	 ([strong][aftershocks][still][shaking][northern][japan][country][# 39 ; s][deadliest][earthquake][nine][years][killed][least][24][people.])
+---------- Rewards-v() ----------
+v(2 3 5 9 10 12 13 14 15): 12.205841064453125, EP: 1.065420150756836	 ([still][shaking][japan][earthquake][nine][killed][least][24][people.])
+v(5 10 12 15): 12.069465637207031, EP: 1.053516149520874	 ([japan][nine][killed][people.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 11.456364631652832, EP: 1.0	 ([strong][aftershocks][still][shaking][northern][japan][country][# 39 ; s][deadliest][earthquake][nine][years][killed][least][24][people.])
+v(0 1 4 5 6 7 8 10 11 12 15): 9.384256362915039, EP: 0.8191303610801697	 ([strong][aftershocks][northern][japan][country][# 39 ; s][deadliest][nine][years][killed][people.])
+v(0 1 2 3 4 6 7 8 9 11 13 14): 9.349023818969727, EP: 0.8160549998283386	 ([strong][aftershocks][still][shaking][northern][country][# 39 ; s][deadliest][earthquake][years][least][24])
+v(2 3 9 13 14): 1.7266826629638672, EP: 0.15071819722652435	 ([still][shaking][earthquake][least][24])
+v(0 1 4 6 7 8 11): 1.3040781021118164, EP: 0.11383000761270523	 ([strong][aftershocks][northern][country][# 39 ; s][deadliest][years])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

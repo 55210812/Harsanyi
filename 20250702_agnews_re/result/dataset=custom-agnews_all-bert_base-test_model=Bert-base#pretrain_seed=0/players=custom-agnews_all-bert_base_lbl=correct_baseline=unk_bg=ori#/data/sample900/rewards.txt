@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: government
+Player 1: agency
+Player 2: owns
+Player 3: world
+Player 4: trade
+Player 5: center
+Player 6: site
+Player 7: joined
+Player 8: us \ $ 7
+Player 9: billion
+Player 10: ( s \ $ 11. 9
+Player 11: billion )
+Player 12: suit
+Player 13: saudi
+Player 14: arabia
+Player 15: al - qaeda
+Player 16: sept
+Player 17: 11
+Player 18: terrorist
+Player 19: attacks.
+---------- Rewards ----------
+v(): -6.251551628112793	 ([])
+v(0 1 2 4 5 9): -5.242681980133057	 ([government][agency][owns][trade][center][billion])
+v(8 15 18): 5.017974853515625	 ([us \ $ 7][al - qaeda][terrorist])
+v(6 7 12 13 14 19): 6.6654372215271	 ([site][joined][suit][saudi][arabia][attacks.])
+v(3 10 11 16 17): -1.6777257919311523	 ([world][( s \ $ 11. 9][billion )][sept][11])
+v(0 1 2 4 5 8 9 15 18): 5.898237705230713	 ([government][agency][owns][trade][center][us \ $ 7][billion][al - qaeda][terrorist])
+v(0 1 2 4 5 6 7 9 12 13 14 19): 5.1999993324279785	 ([government][agency][owns][trade][center][site][joined][billion][suit][saudi][arabia][attacks.])
+v(0 1 2 3 4 5 9 10 11 16 17): -1.856335163116455	 ([government][agency][owns][world][trade][center][billion][( s \ $ 11. 9][billion )][sept][11])
+v(6 7 8 12 13 14 15 18 19): 6.72794246673584	 ([site][joined][us \ $ 7][suit][saudi][arabia][al - qaeda][terrorist][attacks.])
+v(3 8 10 11 15 16 17 18): 2.4905333518981934	 ([world][us \ $ 7][( s \ $ 11. 9][billion )][al - qaeda][sept][11][terrorist])
+v(3 6 7 10 11 12 13 14 16 17 19): 6.359956741333008	 ([world][site][joined][( s \ $ 11. 9][billion )][suit][saudi][arabia][sept][11][attacks.])
+v(0 1 2 4 5 6 7 8 9 12 13 14 15 18 19): 6.835439205169678	 ([government][agency][owns][trade][center][site][joined][us \ $ 7][billion][suit][saudi][arabia][al - qaeda][terrorist][attacks.])
+v(0 1 2 3 4 5 8 9 10 11 15 16 17 18): 3.6661462783813477	 ([government][agency][owns][world][trade][center][us \ $ 7][billion][( s \ $ 11. 9][billion )][al - qaeda][sept][11][terrorist])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 14 16 17 19): 4.466027736663818	 ([government][agency][owns][world][trade][center][site][joined][billion][( s \ $ 11. 9][billion )][suit][saudi][arabia][sept][11][attacks.])
+v(3 6 7 8 10 11 12 13 14 15 16 17 18 19): 6.180350303649902	 ([world][site][joined][us \ $ 7][( s \ $ 11. 9][billion )][suit][saudi][arabia][al - qaeda][sept][11][terrorist][attacks.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.220767021179199	 ([government][agency][owns][world][trade][center][site][joined][us \ $ 7][billion][( s \ $ 11. 9][billion )][suit][saudi][arabia][al - qaeda][sept][11][terrorist][attacks.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.472318649291992, EP: 1.0	 ([government][agency][owns][world][trade][center][site][joined][us \ $ 7][billion][( s \ $ 11. 9][billion )][suit][saudi][arabia][al - qaeda][sept][11][terrorist][attacks.])
+v(0 1 2 4 5 6 7 8 9 12 13 14 15 18 19): 13.086990356445312, EP: 0.9713985323905945	 ([government][agency][owns][trade][center][site][joined][us \ $ 7][billion][suit][saudi][arabia][al - qaeda][terrorist][attacks.])
+v(6 7 8 12 13 14 15 18 19): 12.979494094848633, EP: 0.963419497013092	 ([site][joined][us \ $ 7][suit][saudi][arabia][al - qaeda][terrorist][attacks.])
+v(6 7 12 13 14 19): 12.916988372802734, EP: 0.9587799310684204	 ([site][joined][suit][saudi][arabia][attacks.])
+v(3 6 7 10 11 12 13 14 16 17 19): 12.6115083694458, EP: 0.9361052513122559	 ([world][site][joined][( s \ $ 11. 9][billion )][suit][saudi][arabia][sept][11][attacks.])
+v(3 6 7 8 10 11 12 13 14 15 16 17 18 19): 12.431901931762695, EP: 0.9227737188339233	 ([world][site][joined][us \ $ 7][( s \ $ 11. 9][billion )][suit][saudi][arabia][al - qaeda][sept][11][terrorist][attacks.])
+v(0 1 2 4 5 8 9 15 18): 12.149789810180664, EP: 0.9018335938453674	 ([government][agency][owns][trade][center][us \ $ 7][billion][al - qaeda][terrorist])
+v(0 1 2 4 5 6 7 9 12 13 14 19): 11.45155143737793, EP: 0.8500059843063354	 ([government][agency][owns][trade][center][site][joined][billion][suit][saudi][arabia][attacks.])
+v(8 15 18): 11.269526481628418, EP: 0.8364949226379395	 ([us \ $ 7][al - qaeda][terrorist])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 14 16 17 19): 10.717578887939453, EP: 0.7955259084701538	 ([government][agency][owns][world][trade][center][site][joined][billion][( s \ $ 11. 9][billion )][suit][saudi][arabia][sept][11][attacks.])
+v(0 1 2 3 4 5 8 9 10 11 15 16 17 18): 9.91769790649414, EP: 0.7361537218093872	 ([government][agency][owns][world][trade][center][us \ $ 7][billion][( s \ $ 11. 9][billion )][al - qaeda][sept][11][terrorist])
+v(3 8 10 11 15 16 17 18): 8.742084503173828, EP: 0.648892343044281	 ([world][us \ $ 7][( s \ $ 11. 9][billion )][al - qaeda][sept][11][terrorist])
+v(3 10 11 16 17): 4.573825836181641, EP: 0.33949804306030273	 ([world][( s \ $ 11. 9][billion )][sept][11])
+v(0 1 2 3 4 5 9 10 11 16 17): 4.395216464996338, EP: 0.32624053955078125	 ([government][agency][owns][world][trade][center][billion][( s \ $ 11. 9][billion )][sept][11])
+v(0 1 2 4 5 9): 1.0088696479797363, EP: 0.07488463073968887	 ([government][agency][owns][trade][center][billion])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

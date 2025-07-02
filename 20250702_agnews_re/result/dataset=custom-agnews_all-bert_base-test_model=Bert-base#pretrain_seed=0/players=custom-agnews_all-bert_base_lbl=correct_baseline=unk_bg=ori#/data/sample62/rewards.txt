@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: although
+Player 1: sprint - nextel
+Player 2: combination
+Player 3: characterized
+Player 4: \ $ 36
+Player 5: billion
+Player 6: merger
+Player 7: equals,
+Player 8: published
+Player 9: reports
+Player 10: describe
+Player 11: emerging
+Player 12: transaction
+Player 13: purchase
+Player 14: sprint.
+---------- Rewards ----------
+v(): -6.417480945587158	 ([])
+v(0 1 2 6 10): 2.507012367248535	 ([although][sprint - nextel][combination][merger][describe])
+v(3 11 12 13): 7.338325500488281	 ([characterized][emerging][transaction][purchase])
+v(4 5 7 8 9 14): 4.21053409576416	 ([\ $ 36][billion][equals,][published][reports][sprint.])
+v(0 1 2 3 6 10 11 12 13): 8.223105430603027	 ([although][sprint - nextel][combination][characterized][merger][describe][emerging][transaction][purchase])
+v(0 1 2 4 5 6 7 8 9 10 14): 6.592870235443115	 ([although][sprint - nextel][combination][\ $ 36][billion][merger][equals,][published][reports][describe][sprint.])
+v(3 4 5 7 8 9 11 12 13 14): 7.334982872009277	 ([characterized][\ $ 36][billion][equals,][published][reports][emerging][transaction][purchase][sprint.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 4.275776386260986	 ([although][sprint - nextel][combination][characterized][\ $ 36][billion][merger][equals,][published][reports][describe][emerging][transaction][purchase][sprint.])
+---------- Rewards-v() ----------
+v(0 1 2 3 6 10 11 12 13): 14.640586853027344, EP: 1.369141936302185	 ([although][sprint - nextel][combination][characterized][merger][describe][emerging][transaction][purchase])
+v(3 11 12 13): 13.755805969238281, EP: 1.2863999605178833	 ([characterized][emerging][transaction][purchase])
+v(3 4 5 7 8 9 11 12 13 14): 13.752464294433594, EP: 1.2860875129699707	 ([characterized][\ $ 36][billion][equals,][published][reports][emerging][transaction][purchase][sprint.])
+v(0 1 2 4 5 6 7 8 9 10 14): 13.010351181030273, EP: 1.2166873216629028	 ([although][sprint - nextel][combination][\ $ 36][billion][merger][equals,][published][reports][describe][sprint.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 10.693257331848145, EP: 1.0	 ([although][sprint - nextel][combination][characterized][\ $ 36][billion][merger][equals,][published][reports][describe][emerging][transaction][purchase][sprint.])
+v(4 5 7 8 9 14): 10.628015518188477, EP: 0.9938988089561462	 ([\ $ 36][billion][equals,][published][reports][sprint.])
+v(0 1 2 6 10): 8.924493789672852, EP: 0.8345907330513	 ([although][sprint - nextel][combination][merger][describe])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 19:34:19
+prompt: [CLS] in my slightly tilted world, soup is one of the greatest culinary creations of all time. i would have to put it right up there with the peanut butter - and - jelly sandwich and meatballs and spaghetti. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1999 decoded_text: in
+idx:2 input_id:2026 decoded_text: my
+idx:3 input_id:3621 decoded_text: slightly
+idx:4 input_id:9939 decoded_text: tilted
+idx:5 input_id:2088 decoded_text: world
+idx:6 input_id:1010 decoded_text: ,
+idx:7 input_id:11350 decoded_text: soup
+idx:8 input_id:2003 decoded_text: is
+idx:9 input_id:2028 decoded_text: one
+idx:10 input_id:1997 decoded_text: of
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:4602 decoded_text: greatest
+idx:13 input_id:20560 decoded_text: culinary
+idx:14 input_id:20677 decoded_text: creations
+idx:15 input_id:1997 decoded_text: of
+idx:16 input_id:2035 decoded_text: all
+idx:17 input_id:2051 decoded_text: time
+idx:18 input_id:1012 decoded_text: .
+idx:19 input_id:1045 decoded_text: i
+idx:20 input_id:2052 decoded_text: would
+idx:21 input_id:2031 decoded_text: have
+idx:22 input_id:2000 decoded_text: to
+idx:23 input_id:2404 decoded_text: put
+idx:24 input_id:2009 decoded_text: it
+idx:25 input_id:2157 decoded_text: right
+idx:26 input_id:2039 decoded_text: up
+idx:27 input_id:2045 decoded_text: there
+idx:28 input_id:2007 decoded_text: with
+idx:29 input_id:1996 decoded_text: the
+idx:30 input_id:21443 decoded_text: peanut
+idx:31 input_id:12136 decoded_text: butter
+idx:32 input_id:1011 decoded_text: -
+idx:33 input_id:1998 decoded_text: and
+idx:34 input_id:1011 decoded_text: -
+idx:35 input_id:20919 decoded_text: jelly
+idx:36 input_id:11642 decoded_text: sandwich
+idx:37 input_id:1998 decoded_text: and
+idx:38 input_id:6240 decoded_text: meat
+idx:39 input_id:18510 decoded_text: ##balls
+idx:40 input_id:1998 decoded_text: and
+idx:41 input_id:26666 decoded_text: spaghetti
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-2.203145742416382, -1.3020318746566772, 1.4399317502975464, 1.6862287521362305]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

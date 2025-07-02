@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: last
+Player 1: probable
+Player 2: common
+Player 3: ancestor
+Player 4: humans
+Player 5: great
+Player 6: apes
+Player 7: body
+Player 8: like
+Player 9: ape,
+Player 10: fingers
+Player 11: like
+Player 12: chimp
+Player 13: upright
+Player 14: posture
+Player 15: humans,
+Player 16: according
+Player 17: researchers
+Player 18: unearthed
+Player 19: fossil
+Player 20: animal
+Player 21: spain.
+---------- Rewards ----------
+v(): 2.394658088684082	 ([])
+v(3 4 6 7 9 15 17 18 19 20): 7.765997886657715	 ([ancestor][humans][apes][body][ape,][humans,][researchers][unearthed][fossil][animal])
+v(1 2 8 11 14 16): 6.228340148925781	 ([probable][common][like][like][posture][according])
+v(0 5 10 12 13 21): 4.768369674682617	 ([last][great][fingers][chimp][upright][spain.])
+v(1 2 3 4 6 7 8 9 11 14 15 16 17 18 19 20): 8.003622055053711	 ([probable][common][ancestor][humans][apes][body][like][ape,][like][posture][humans,][according][researchers][unearthed][fossil][animal])
+v(0 3 4 5 6 7 9 10 12 13 15 17 18 19 20 21): 7.915775299072266	 ([last][ancestor][humans][great][apes][body][ape,][fingers][chimp][upright][humans,][researchers][unearthed][fossil][animal][spain.])
+v(0 1 2 5 8 10 11 12 13 14 16 21): 6.163100242614746	 ([last][probable][common][great][like][fingers][like][chimp][upright][posture][according][spain.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 7.834077835083008	 ([last][probable][common][ancestor][humans][great][apes][body][like][ape,][fingers][like][chimp][upright][posture][humans,][according][researchers][unearthed][fossil][animal][spain.])
+---------- Rewards-v() ----------
+v(1 2 3 4 6 7 8 9 11 14 15 16 17 18 19 20): 5.608963966369629, EP: 1.0311695337295532	 ([probable][common][ancestor][humans][apes][body][like][ape,][like][posture][humans,][according][researchers][unearthed][fossil][animal])
+v(0 3 4 5 6 7 9 10 12 13 15 17 18 19 20 21): 5.521117210388184, EP: 1.0150195360183716	 ([last][ancestor][humans][great][apes][body][ape,][fingers][chimp][upright][humans,][researchers][unearthed][fossil][animal][spain.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 5.439419746398926, EP: 1.0	 ([last][probable][common][ancestor][humans][great][apes][body][like][ape,][fingers][like][chimp][upright][posture][humans,][according][researchers][unearthed][fossil][animal][spain.])
+v(3 4 6 7 9 15 17 18 19 20): 5.371339797973633, EP: 0.9874839782714844	 ([ancestor][humans][apes][body][ape,][humans,][researchers][unearthed][fossil][animal])
+v(1 2 8 11 14 16): 3.833682060241699, EP: 0.7047961354255676	 ([probable][common][like][like][posture][according])
+v(0 1 2 5 8 10 11 12 13 14 16 21): 3.768442153930664, EP: 0.6928022503852844	 ([last][probable][common][great][like][fingers][like][chimp][upright][posture][according][spain.])
+v(0 5 10 12 13 21): 2.373711585998535, EP: 0.43639057874679565	 ([last][great][fingers][chimp][upright][spain.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

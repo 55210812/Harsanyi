@@ -1,0 +1,54 @@
+---------- Players ----------
+Player 0: ipass
+Player 1: wireless - broadband
+Player 2: users
+Player 3: able
+Player 4: make
+Player 5: internet
+Player 6: connections
+Player 7: fly,
+Player 8: thanks
+Player 9: new
+Player 10: agreement
+Player 11: ipass
+Player 12: boeing
+Player 13: # 39 ; s
+Player 14: connexion
+Player 15: in - flight
+Player 16: internet
+Player 17: service.
+---------- Rewards ----------
+v(): 4.675541877746582	 ([])
+v(1 2 5 12 16): 6.9503560066223145	 ([wireless - broadband][users][internet][boeing][internet])
+v(0 3 11): 5.3699774742126465	 ([ipass][able][ipass])
+v(7 13 14 15 17): 0.5395798683166504	 ([fly,][# 39 ; s][connexion][in - flight][service.])
+v(4 6 8 9 10): 5.817409038543701	 ([make][connections][thanks][new][agreement])
+v(0 1 2 3 5 11 12 16): 7.975930690765381	 ([ipass][wireless - broadband][users][able][internet][ipass][boeing][internet])
+v(1 2 5 7 12 13 14 15 16 17): 5.085692882537842	 ([wireless - broadband][users][internet][fly,][boeing][# 39 ; s][connexion][in - flight][internet][service.])
+v(1 2 4 5 6 8 9 10 12 16): 6.543820858001709	 ([wireless - broadband][users][make][internet][connections][thanks][new][agreement][boeing][internet])
+v(0 3 7 11 13 14 15 17): 5.116446018218994	 ([ipass][able][fly,][ipass][# 39 ; s][connexion][in - flight][service.])
+v(0 3 4 6 8 9 10 11): 6.411002159118652	 ([ipass][able][make][connections][thanks][new][agreement][ipass])
+v(4 6 7 8 9 10 13 14 15 17): 2.285029172897339	 ([make][connections][fly,][thanks][new][agreement][# 39 ; s][connexion][in - flight][service.])
+v(0 1 2 3 5 7 11 12 13 14 15 16 17): 6.7637810707092285	 ([ipass][wireless - broadband][users][able][internet][fly,][ipass][boeing][# 39 ; s][connexion][in - flight][internet][service.])
+v(0 1 2 3 4 5 6 8 9 10 11 12 16): 7.502347946166992	 ([ipass][wireless - broadband][users][able][make][internet][connections][thanks][new][agreement][ipass][boeing][internet])
+v(1 2 4 5 6 7 8 9 10 12 13 14 15 16 17): 5.6903462409973145	 ([wireless - broadband][users][make][internet][connections][fly,][thanks][new][agreement][boeing][# 39 ; s][connexion][in - flight][internet][service.])
+v(0 3 4 6 7 8 9 10 11 13 14 15 17): 6.4285502433776855	 ([ipass][able][make][connections][fly,][thanks][new][agreement][ipass][# 39 ; s][connexion][in - flight][service.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 6.818297386169434	 ([ipass][wireless - broadband][users][able][make][internet][connections][fly,][thanks][new][agreement][ipass][boeing][# 39 ; s][connexion][in - flight][internet][service.])
+---------- Rewards-v() ----------
+v(7 13 14 15 17): -4.135962009429932, EP: -1.9302071332931519	 ([fly,][# 39 ; s][connexion][in - flight][service.])
+v(0 1 2 3 5 11 12 16): 3.300388813018799, EP: 1.5402544736862183	 ([ipass][wireless - broadband][users][able][internet][ipass][boeing][internet])
+v(0 1 2 3 4 5 6 8 9 10 11 12 16): 2.82680606842041, EP: 1.3192387819290161	 ([ipass][wireless - broadband][users][able][make][internet][connections][thanks][new][agreement][ipass][boeing][internet])
+v(4 6 7 8 9 10 13 14 15 17): -2.390512704849243, EP: -1.1156255006790161	 ([make][connections][fly,][thanks][new][agreement][# 39 ; s][connexion][in - flight][service.])
+v(1 2 5 12 16): 2.2748141288757324, EP: 1.0616302490234375	 ([wireless - broadband][users][internet][boeing][internet])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 2.1427555084228516, EP: 1.0	 ([ipass][wireless - broadband][users][able][make][internet][connections][fly,][thanks][new][agreement][ipass][boeing][# 39 ; s][connexion][in - flight][internet][service.])
+v(0 1 2 3 5 7 11 12 13 14 15 16 17): 2.0882391929626465, EP: 0.9745578169822693	 ([ipass][wireless - broadband][users][able][internet][fly,][ipass][boeing][# 39 ; s][connexion][in - flight][internet][service.])
+v(1 2 4 5 6 8 9 10 12 16): 1.868278980255127, EP: 0.8719048500061035	 ([wireless - broadband][users][make][internet][connections][thanks][new][agreement][boeing][internet])
+v(0 3 4 6 7 8 9 10 11 13 14 15 17): 1.7530083656311035, EP: 0.818109393119812	 ([ipass][able][make][connections][fly,][thanks][new][agreement][ipass][# 39 ; s][connexion][in - flight][service.])
+v(0 3 4 6 8 9 10 11): 1.7354602813720703, EP: 0.8099198937416077	 ([ipass][able][make][connections][thanks][new][agreement][ipass])
+v(4 6 8 9 10): 1.1418671607971191, EP: 0.5328966379165649	 ([make][connections][thanks][new][agreement])
+v(1 2 4 5 6 7 8 9 10 12 13 14 15 16 17): 1.0148043632507324, EP: 0.47359782457351685	 ([wireless - broadband][users][make][internet][connections][fly,][thanks][new][agreement][boeing][# 39 ; s][connexion][in - flight][internet][service.])
+v(0 3 11): 0.6944355964660645, EP: 0.3240853250026703	 ([ipass][able][ipass])
+v(0 3 7 11 13 14 15 17): 0.4409041404724121, EP: 0.2057650238275528	 ([ipass][able][fly,][ipass][# 39 ; s][connexion][in - flight][service.])
+v(1 2 5 7 12 13 14 15 16 17): 0.41015100479125977, EP: 0.19141288101673126	 ([wireless - broadband][users][internet][fly,][boeing][# 39 ; s][connexion][in - flight][internet][service.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

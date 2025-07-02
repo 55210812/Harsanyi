@@ -1,0 +1,28 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: boston
+Player 3: celtics
+Player 4: star
+Player 5: paul
+Player 6: pierce
+Player 7: fined
+Player 8: 15, 000
+Player 9: dollars
+Player 10: spitting
+Player 11: national
+Player 12: basketball
+Player 13: association
+Player 14: pre - season
+Player 15: game.
+---------- Rewards ----------
+v(): -1.648874044418335	 ([])
+v(0 1 2 3 4 11 12 13): 9.489171981811523	 ([afp][-][boston][celtics][star][national][basketball][association])
+v(5 6 7 8 9 10 14 15): 8.09134578704834	 ([paul][pierce][fined][15, 000][dollars][spitting][pre - season][game.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.588094711303711	 ([afp][-][boston][celtics][star][paul][pierce][fined][15, 000][dollars][spitting][national][basketball][association][pre - season][game.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 11.236968994140625, EP: 1.0	 ([afp][-][boston][celtics][star][paul][pierce][fined][15, 000][dollars][spitting][national][basketball][association][pre - season][game.])
+v(0 1 2 3 4 11 12 13): 11.138046264648438, EP: 0.9911966919898987	 ([afp][-][boston][celtics][star][national][basketball][association])
+v(5 6 7 8 9 10 14 15): 9.740220069885254, EP: 0.866801381111145	 ([paul][pierce][fined][15, 000][dollars][spitting][pre - season][game.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

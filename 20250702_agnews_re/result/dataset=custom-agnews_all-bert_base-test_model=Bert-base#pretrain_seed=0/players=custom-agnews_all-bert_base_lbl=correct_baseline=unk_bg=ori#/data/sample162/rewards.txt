@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: praising
+Player 1: turkey
+Player 2: # 39 ; s
+Player 3: quot ; stunning
+Player 4: quot ;
+Player 5: economic
+Player 6: performance
+Player 7: last
+Player 8: three
+Player 9: years,
+Player 10: oecd
+Player 11: also
+Player 12: outlined
+Player 13: major
+Player 14: problems
+Player 15: country
+Player 16: needs
+Player 17: address.
+---------- Rewards ----------
+v(): -3.5940916538238525	 ([])
+v(0 5 10 15 17): 4.035573482513428	 ([praising][economic][oecd][country][address.])
+v(1 2 3 4 11 12 13 14 16): -6.7004594802856445	 ([turkey][# 39 ; s][quot ; stunning][quot ;][also][outlined][major][problems][needs])
+v(6 7 8 9): -1.103497862815857	 ([performance][last][three][years,])
+v(0 1 2 3 4 5 10 11 12 13 14 15 16 17): 5.263801097869873	 ([praising][turkey][# 39 ; s][quot ; stunning][quot ;][economic][oecd][also][outlined][major][problems][country][needs][address.])
+v(0 5 6 7 8 9 10 15 17): 4.9468841552734375	 ([praising][economic][performance][last][three][years,][oecd][country][address.])
+v(1 2 3 4 6 7 8 9 11 12 13 14 16): -4.6363677978515625	 ([turkey][# 39 ; s][quot ; stunning][quot ;][performance][last][three][years,][also][outlined][major][problems][needs])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 5.564035415649414	 ([praising][turkey][# 39 ; s][quot ; stunning][quot ;][economic][performance][last][three][years,][oecd][also][outlined][major][problems][country][needs][address.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.158126831054688, EP: 1.0	 ([praising][turkey][# 39 ; s][quot ; stunning][quot ;][economic][performance][last][three][years,][oecd][also][outlined][major][problems][country][needs][address.])
+v(0 1 2 3 4 5 10 11 12 13 14 15 16 17): 8.857892990112305, EP: 0.9672166705131531	 ([praising][turkey][# 39 ; s][quot ; stunning][quot ;][economic][oecd][also][outlined][major][problems][country][needs][address.])
+v(0 5 6 7 8 9 10 15 17): 8.540975570678711, EP: 0.9326116442680359	 ([praising][economic][performance][last][three][years,][oecd][country][address.])
+v(0 5 10 15 17): 7.629665374755859, EP: 0.8331032395362854	 ([praising][economic][oecd][country][address.])
+v(1 2 3 4 11 12 13 14 16): -3.106367826461792, EP: -0.3391924798488617	 ([turkey][# 39 ; s][quot ; stunning][quot ;][also][outlined][major][problems][needs])
+v(6 7 8 9): 2.490593910217285, EP: 0.2719545066356659	 ([performance][last][three][years,])
+v(1 2 3 4 6 7 8 9 11 12 13 14 16): -1.04227614402771, EP: -0.11380887776613235	 ([turkey][# 39 ; s][quot ; stunning][quot ;][performance][last][three][years,][also][outlined][major][problems][needs])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

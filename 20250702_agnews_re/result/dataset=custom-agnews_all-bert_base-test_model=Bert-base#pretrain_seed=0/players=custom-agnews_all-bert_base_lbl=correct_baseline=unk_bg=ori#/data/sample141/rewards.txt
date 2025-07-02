@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: microsoft
+Player 1: chief
+Player 2: executive
+Player 3: officer
+Player 4: steve
+Player 5: ballmer
+Player 6: addressed
+Player 7: gathering
+Player 8: software
+Player 9: industry
+Player 10: leaders
+Player 11: wednesday,
+Player 12: touting
+Player 13: company
+Player 14: # 39 ; s
+Player 15: vision
+Player 16: bright
+Player 17: future
+---------- Rewards ----------
+v(): 3.76792049407959	 ([])
+v(1 6 7): -2.8577823638916016	 ([chief][addressed][gathering])
+v(0 2 3 5 8 9 10 11): 3.366548538208008	 ([microsoft][executive][officer][ballmer][software][industry][leaders][wednesday,])
+v(4 12 13 14 15 16 17): -3.3903675079345703	 ([steve][touting][company][# 39 ; s][vision][bright][future])
+v(0 1 2 3 5 6 7 8 9 10 11): 3.400513172149658	 ([microsoft][chief][executive][officer][ballmer][addressed][gathering][software][industry][leaders][wednesday,])
+v(1 4 6 7 12 13 14 15 16 17): -0.2895827293395996	 ([chief][steve][addressed][gathering][touting][company][# 39 ; s][vision][bright][future])
+v(0 2 3 4 5 8 9 10 11 12 13 14 15 16 17): 0.0822591781616211	 ([microsoft][executive][officer][steve][ballmer][software][industry][leaders][wednesday,][touting][company][# 39 ; s][vision][bright][future])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 1.0520331859588623	 ([microsoft][chief][executive][officer][steve][ballmer][addressed][gathering][software][industry][leaders][wednesday,][touting][company][# 39 ; s][vision][bright][future])
+---------- Rewards-v() ----------
+v(4 12 13 14 15 16 17): -7.15828800201416, EP: 2.635708808898926	 ([steve][touting][company][# 39 ; s][vision][bright][future])
+v(1 6 7): -6.625702857971191, EP: 2.4396088123321533	 ([chief][addressed][gathering])
+v(1 4 6 7 12 13 14 15 16 17): -4.0575032234191895, EP: 1.493988037109375	 ([chief][steve][addressed][gathering][touting][company][# 39 ; s][vision][bright][future])
+v(0 2 3 4 5 8 9 10 11 12 13 14 15 16 17): -3.6856613159179688, EP: 1.357074499130249	 ([microsoft][executive][officer][steve][ballmer][software][industry][leaders][wednesday,][touting][company][# 39 ; s][vision][bright][future])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): -2.7158873081207275, EP: 1.0	 ([microsoft][chief][executive][officer][steve][ballmer][addressed][gathering][software][industry][leaders][wednesday,][touting][company][# 39 ; s][vision][bright][future])
+v(0 2 3 5 8 9 10 11): -0.40137195587158203, EP: 0.1477866768836975	 ([microsoft][executive][officer][ballmer][software][industry][leaders][wednesday,])
+v(0 1 2 3 5 6 7 8 9 10 11): -0.36740732192993164, EP: 0.1352807730436325	 ([microsoft][chief][executive][officer][ballmer][addressed][gathering][software][industry][leaders][wednesday,])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

@@ -1,0 +1,59 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: israel
+Player 3: lodged
+Player 4: protest
+Player 5: the \ united
+Player 6: nations
+Player 7: latest
+Player 8: katyusha
+Player 9: rocket
+Player 10: fire
+Player 11: the \ jewish
+Player 12: state
+Player 13: southern
+Player 14: lebanon
+Player 15: vowed
+Player 16: tuesday
+Player 17: it \ would
+Player 18: let
+Player 19: attacks
+Player 20: pass
+Player 21: without
+Player 22: response.
+---------- Rewards ----------
+v(): -7.59837532043457	 ([])
+v(5 6 21): 4.60771369934082	 ([the \ united][nations][without])
+v(1 2 8 11 12 16 18): 8.048590660095215	 ([-][israel][katyusha][the \ jewish][state][tuesday][let])
+v(0 4 9 10): 3.636935234069824	 ([reuters][protest][rocket][fire])
+v(3 7 13 14 15 17 19 20 22): 3.0120325088500977	 ([lodged][latest][southern][lebanon][vowed][it \ would][attacks][pass][response.])
+v(1 2 5 6 8 11 12 16 18 21): 7.542562484741211	 ([-][israel][the \ united][nations][katyusha][the \ jewish][state][tuesday][let][without])
+v(0 4 5 6 9 10 21): 5.926731109619141	 ([reuters][protest][the \ united][nations][rocket][fire][without])
+v(3 5 6 7 13 14 15 17 19 20 21 22): 4.374980449676514	 ([lodged][the \ united][nations][latest][southern][lebanon][vowed][it \ would][attacks][pass][without][response.])
+v(0 1 2 4 8 9 10 11 12 16 18): 8.103630065917969	 ([reuters][-][israel][protest][katyusha][rocket][fire][the \ jewish][state][tuesday][let])
+v(1 2 3 7 8 11 12 13 14 15 16 17 18 19 20 22): 7.953819751739502	 ([-][israel][lodged][latest][katyusha][the \ jewish][state][southern][lebanon][vowed][tuesday][it \ would][let][attacks][pass][response.])
+v(0 3 4 7 9 10 13 14 15 17 19 20 22): 6.6548333168029785	 ([reuters][lodged][protest][latest][rocket][fire][southern][lebanon][vowed][it \ would][attacks][pass][response.])
+v(0 1 2 4 5 6 8 9 10 11 12 16 18 21): 8.03067684173584	 ([reuters][-][israel][protest][the \ united][nations][katyusha][rocket][fire][the \ jewish][state][tuesday][let][without])
+v(1 2 3 5 6 7 8 11 12 13 14 15 16 17 18 19 20 21 22): 7.854073524475098	 ([-][israel][lodged][the \ united][nations][latest][katyusha][the \ jewish][state][southern][lebanon][vowed][tuesday][it \ would][let][attacks][pass][without][response.])
+v(0 3 4 5 6 7 9 10 13 14 15 17 19 20 21 22): 6.74070405960083	 ([reuters][lodged][protest][the \ united][nations][latest][rocket][fire][southern][lebanon][vowed][it \ would][attacks][pass][without][response.])
+v(0 1 2 3 4 7 8 9 10 11 12 13 14 15 16 17 18 19 20 22): 7.941127777099609	 ([reuters][-][israel][lodged][protest][latest][katyusha][rocket][fire][the \ jewish][state][southern][lebanon][vowed][tuesday][it \ would][let][attacks][pass][response.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.027458190917969	 ([reuters][-][israel][lodged][protest][the \ united][nations][latest][katyusha][rocket][fire][the \ jewish][state][southern][lebanon][vowed][tuesday][it \ would][let][attacks][pass][without][response.])
+---------- Rewards-v() ----------
+v(0 1 2 4 8 9 10 11 12 16 18): 15.702005386352539, EP: 1.0048747062683105	 ([reuters][-][israel][protest][katyusha][rocket][fire][the \ jewish][state][tuesday][let])
+v(1 2 8 11 12 16 18): 15.646965980529785, EP: 1.0013524293899536	 ([-][israel][katyusha][the \ jewish][state][tuesday][let])
+v(0 1 2 4 5 6 8 9 10 11 12 16 18 21): 15.62905216217041, EP: 1.0002059936523438	 ([reuters][-][israel][protest][the \ united][nations][katyusha][rocket][fire][the \ jewish][state][tuesday][let][without])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 15.625833511352539, EP: 1.0	 ([reuters][-][israel][lodged][protest][the \ united][nations][latest][katyusha][rocket][fire][the \ jewish][state][southern][lebanon][vowed][tuesday][it \ would][let][attacks][pass][without][response.])
+v(1 2 3 7 8 11 12 13 14 15 16 17 18 19 20 22): 15.552194595336914, EP: 0.9952873587608337	 ([-][israel][lodged][latest][katyusha][the \ jewish][state][southern][lebanon][vowed][tuesday][it \ would][let][attacks][pass][response.])
+v(0 1 2 3 4 7 8 9 10 11 12 13 14 15 16 17 18 19 20 22): 15.53950309753418, EP: 0.9944751262664795	 ([reuters][-][israel][lodged][protest][latest][katyusha][rocket][fire][the \ jewish][state][southern][lebanon][vowed][tuesday][it \ would][let][attacks][pass][response.])
+v(1 2 3 5 6 7 8 11 12 13 14 15 16 17 18 19 20 21 22): 15.452448844909668, EP: 0.9889039993286133	 ([-][israel][lodged][the \ united][nations][latest][katyusha][the \ jewish][state][southern][lebanon][vowed][tuesday][it \ would][let][attacks][pass][without][response.])
+v(1 2 5 6 8 11 12 16 18 21): 15.140937805175781, EP: 0.9689683318138123	 ([-][israel][the \ united][nations][katyusha][the \ jewish][state][tuesday][let][without])
+v(0 3 4 5 6 7 9 10 13 14 15 17 19 20 21 22): 14.339078903198242, EP: 0.9176520705223083	 ([reuters][lodged][protest][the \ united][nations][latest][rocket][fire][southern][lebanon][vowed][it \ would][attacks][pass][without][response.])
+v(0 3 4 7 9 10 13 14 15 17 19 20 22): 14.25320816040039, EP: 0.9121566414833069	 ([reuters][lodged][protest][latest][rocket][fire][southern][lebanon][vowed][it \ would][attacks][pass][response.])
+v(0 4 5 6 9 10 21): 13.525106430053711, EP: 0.8655606508255005	 ([reuters][protest][the \ united][nations][rocket][fire][without])
+v(5 6 21): 12.20608901977539, EP: 0.7811480164527893	 ([the \ united][nations][without])
+v(3 5 6 7 13 14 15 17 19 20 21 22): 11.973356246948242, EP: 0.7662539482116699	 ([lodged][the \ united][nations][latest][southern][lebanon][vowed][it \ would][attacks][pass][without][response.])
+v(0 4 9 10): 11.235310554504395, EP: 0.7190214991569519	 ([reuters][protest][rocket][fire])
+v(3 7 13 14 15 17 19 20 22): 10.610407829284668, EP: 0.6790298819541931	 ([lodged][latest][southern][lebanon][vowed][it \ would][attacks][pass][response.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

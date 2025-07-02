@@ -1,0 +1,34 @@
+Execution time: 2025-07-02 19:18:23
+prompt: [CLS] guy melamed admits that when he first came to boston college, he'd get fidgety during class. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3124 decoded_text: guy
+idx:2 input_id:11463 decoded_text: mel
+idx:3 input_id:14074 decoded_text: ##ame
+idx:4 input_id:2094 decoded_text: ##d
+idx:5 input_id:14456 decoded_text: admits
+idx:6 input_id:2008 decoded_text: that
+idx:7 input_id:2043 decoded_text: when
+idx:8 input_id:2002 decoded_text: he
+idx:9 input_id:2034 decoded_text: first
+idx:10 input_id:2234 decoded_text: came
+idx:11 input_id:2000 decoded_text: to
+idx:12 input_id:3731 decoded_text: boston
+idx:13 input_id:2267 decoded_text: college
+idx:14 input_id:1010 decoded_text: ,
+idx:15 input_id:2002 decoded_text: he
+idx:16 input_id:1005 decoded_text: '
+idx:17 input_id:1040 decoded_text: d
+idx:18 input_id:2131 decoded_text: get
+idx:19 input_id:10882 decoded_text: fi
+idx:20 input_id:24291 decoded_text: ##dget
+idx:21 input_id:2100 decoded_text: ##y
+idx:22 input_id:2076 decoded_text: during
+idx:23 input_id:2465 decoded_text: class
+idx:24 input_id:1012 decoded_text: .
+idx:25 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[0.15378262102603912, 6.630029678344727, -2.4306397438049316, -3.1618945598602295]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

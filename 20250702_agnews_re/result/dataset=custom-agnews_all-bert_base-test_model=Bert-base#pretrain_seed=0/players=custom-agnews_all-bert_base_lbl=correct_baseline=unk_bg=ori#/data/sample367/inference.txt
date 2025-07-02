@@ -1,0 +1,37 @@
+Execution time: 2025-07-02 19:26:19
+prompt: [CLS] the federal communications commission issued a notice of a \ $ 550, 000 fine against because of an incident during the super bowl halftime show. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2976 decoded_text: federal
+idx:3 input_id:4806 decoded_text: communications
+idx:4 input_id:3222 decoded_text: commission
+idx:5 input_id:3843 decoded_text: issued
+idx:6 input_id:1037 decoded_text: a
+idx:7 input_id:5060 decoded_text: notice
+idx:8 input_id:1997 decoded_text: of
+idx:9 input_id:1037 decoded_text: a
+idx:10 input_id:1032 decoded_text: \
+idx:11 input_id:1002 decoded_text: $
+idx:12 input_id:13274 decoded_text: 550
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:2199 decoded_text: 000
+idx:15 input_id:2986 decoded_text: fine
+idx:16 input_id:2114 decoded_text: against
+idx:17 input_id:2138 decoded_text: because
+idx:18 input_id:1997 decoded_text: of
+idx:19 input_id:2019 decoded_text: an
+idx:20 input_id:5043 decoded_text: incident
+idx:21 input_id:2076 decoded_text: during
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:3565 decoded_text: super
+idx:24 input_id:4605 decoded_text: bowl
+idx:25 input_id:22589 decoded_text: halftime
+idx:26 input_id:2265 decoded_text: show
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.028651714324951, -0.7358406186103821, 2.2600722312927246, -0.1073688417673111]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

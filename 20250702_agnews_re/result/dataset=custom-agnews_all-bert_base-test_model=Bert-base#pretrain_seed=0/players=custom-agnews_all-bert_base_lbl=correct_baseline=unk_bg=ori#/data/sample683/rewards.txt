@@ -1,0 +1,72 @@
+---------- Players ----------
+Player 0: usatoday. com
+Player 1: -
+Player 2: ibm
+Player 3: rest
+Player 4: tech
+Player 5: industry
+Player 6: might
+Player 7: better
+Player 8: year
+Player 9: onlookers
+Player 10: expected.
+Player 11: ibm's
+Player 12: third - quarter
+Player 13: earnings
+Player 14: rose
+Player 15: 15
+Player 16: year
+Player 17: earlier,
+Player 18: # 36 ; 1. 17
+Player 19: share,
+Player 20: excluding
+Player 21: one - time
+Player 22: # 36 ; 320
+Player 23: million
+Player 24: charge
+Player 25: settle
+Player 26: lawsuit
+Player 27: pension
+Player 28: plan.
+Player 29: beat
+Player 30: analysts '
+Player 31: average
+Player 32: estimate
+Player 33: 3
+Player 34: cents
+Player 35: share.
+---------- Rewards ----------
+v(): 4.769244194030762	 ([])
+v(2 3 4 5 9 10 11 12 13 27 29 31 34): -0.8294980525970459	 ([ibm][rest][tech][industry][onlookers][expected.][ibm's][third - quarter][earnings][pension][beat][average][cents])
+v(0 1 14 18 19 20 21 28 32 35): -2.6059346199035645	 ([usatoday. com][-][rose][# 36 ; 1. 17][share,][excluding][one - time][plan.][estimate][share.])
+v(22 23 24 25 30): -4.918676376342773	 ([# 36 ; 320][million][charge][settle][analysts '])
+v(6 7 8 15 16 17 26 33): -4.821621894836426	 ([might][better][year][15][year][earlier,][lawsuit][3])
+v(0 1 2 3 4 5 9 10 11 12 13 14 18 19 20 21 27 28 29 31 32 34 35): 3.0407750606536865	 ([usatoday. com][-][ibm][rest][tech][industry][onlookers][expected.][ibm's][third - quarter][earnings][rose][# 36 ; 1. 17][share,][excluding][one - time][pension][plan.][beat][average][estimate][cents][share.])
+v(2 3 4 5 9 10 11 12 13 22 23 24 25 27 29 30 31 34): -0.44141459465026855	 ([ibm][rest][tech][industry][onlookers][expected.][ibm's][third - quarter][earnings][# 36 ; 320][million][charge][settle][pension][beat][analysts '][average][cents])
+v(2 3 4 5 6 7 8 9 10 11 12 13 15 16 17 26 27 29 31 33 34): -1.922417402267456	 ([ibm][rest][tech][industry][might][better][year][onlookers][expected.][ibm's][third - quarter][earnings][15][year][earlier,][lawsuit][pension][beat][average][3][cents])
+v(0 1 14 18 19 20 21 22 23 24 25 28 30 32 35): -3.3871097564697266	 ([usatoday. com][-][rose][# 36 ; 1. 17][share,][excluding][one - time][# 36 ; 320][million][charge][settle][plan.][analysts '][estimate][share.])
+v(0 1 6 7 8 14 15 16 17 18 19 20 21 26 28 32 33 35): -3.975221633911133	 ([usatoday. com][-][might][better][year][rose][15][year][earlier,][# 36 ; 1. 17][share,][excluding][one - time][lawsuit][plan.][estimate][3][share.])
+v(6 7 8 15 16 17 22 23 24 25 26 30 33): -7.59391975402832	 ([might][better][year][15][year][earlier,][# 36 ; 320][million][charge][settle][lawsuit][analysts '][3])
+v(0 1 2 3 4 5 9 10 11 12 13 14 18 19 20 21 22 23 24 25 27 28 29 30 31 32 34 35): 3.9274463653564453	 ([usatoday. com][-][ibm][rest][tech][industry][onlookers][expected.][ibm's][third - quarter][earnings][rose][# 36 ; 1. 17][share,][excluding][one - time][# 36 ; 320][million][charge][settle][pension][plan.][beat][analysts '][average][estimate][cents][share.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 26 27 28 29 31 32 33 34 35): 4.978116035461426	 ([usatoday. com][-][ibm][rest][tech][industry][might][better][year][onlookers][expected.][ibm's][third - quarter][earnings][rose][15][year][earlier,][# 36 ; 1. 17][share,][excluding][one - time][lawsuit][pension][plan.][beat][average][estimate][3][cents][share.])
+v(2 3 4 5 6 7 8 9 10 11 12 13 15 16 17 22 23 24 25 26 27 29 30 31 33 34): -1.46976637840271	 ([ibm][rest][tech][industry][might][better][year][onlookers][expected.][ibm's][third - quarter][earnings][15][year][earlier,][# 36 ; 320][million][charge][settle][lawsuit][pension][beat][analysts '][average][3][cents])
+v(0 1 6 7 8 14 15 16 17 18 19 20 21 22 23 24 25 26 28 30 32 33 35): -3.6798667907714844	 ([usatoday. com][-][might][better][year][rose][15][year][earlier,][# 36 ; 1. 17][share,][excluding][one - time][# 36 ; 320][million][charge][settle][lawsuit][plan.][analysts '][estimate][3][share.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35): 4.621745586395264	 ([usatoday. com][-][ibm][rest][tech][industry][might][better][year][onlookers][expected.][ibm's][third - quarter][earnings][rose][15][year][earlier,][# 36 ; 1. 17][share,][excluding][one - time][# 36 ; 320][million][charge][settle][lawsuit][pension][plan.][beat][analysts '][average][estimate][3][cents][share.])
+---------- Rewards-v() ----------
+v(6 7 8 15 16 17 22 23 24 25 26 30 33): -12.363163948059082, EP: 83.81885528564453	 ([might][better][year][15][year][earlier,][# 36 ; 320][million][charge][settle][lawsuit][analysts '][3])
+v(22 23 24 25 30): -9.687920570373535, EP: 65.68143463134766	 ([# 36 ; 320][million][charge][settle][analysts '])
+v(6 7 8 15 16 17 26 33): -9.590866088867188, EP: 65.0234375	 ([might][better][year][15][year][earlier,][lawsuit][3])
+v(0 1 6 7 8 14 15 16 17 18 19 20 21 26 28 32 33 35): -8.744465827941895, EP: 59.285072326660156	 ([usatoday. com][-][might][better][year][rose][15][year][earlier,][# 36 ; 1. 17][share,][excluding][one - time][lawsuit][plan.][estimate][3][share.])
+v(0 1 6 7 8 14 15 16 17 18 19 20 21 22 23 24 25 26 28 30 32 33 35): -8.449110984802246, EP: 57.282649993896484	 ([usatoday. com][-][might][better][year][rose][15][year][earlier,][# 36 ; 1. 17][share,][excluding][one - time][# 36 ; 320][million][charge][settle][lawsuit][plan.][analysts '][estimate][3][share.])
+v(0 1 14 18 19 20 21 22 23 24 25 28 30 32 35): -8.156353950500488, EP: 55.29783630371094	 ([usatoday. com][-][rose][# 36 ; 1. 17][share,][excluding][one - time][# 36 ; 320][million][charge][settle][plan.][analysts '][estimate][share.])
+v(0 1 14 18 19 20 21 28 32 35): -7.375178813934326, EP: 50.001686096191406	 ([usatoday. com][-][rose][# 36 ; 1. 17][share,][excluding][one - time][plan.][estimate][share.])
+v(2 3 4 5 6 7 8 9 10 11 12 13 15 16 17 26 27 29 31 33 34): -6.691661834716797, EP: 45.36762619018555	 ([ibm][rest][tech][industry][might][better][year][onlookers][expected.][ibm's][third - quarter][earnings][15][year][earlier,][lawsuit][pension][beat][average][3][cents])
+v(2 3 4 5 6 7 8 9 10 11 12 13 15 16 17 22 23 24 25 26 27 29 30 31 33 34): -6.239010810852051, EP: 42.29877853393555	 ([ibm][rest][tech][industry][might][better][year][onlookers][expected.][ibm's][third - quarter][earnings][15][year][earlier,][# 36 ; 320][million][charge][settle][lawsuit][pension][beat][analysts '][average][3][cents])
+v(2 3 4 5 9 10 11 12 13 27 29 31 34): -5.598742485046387, EP: 37.95793533325195	 ([ibm][rest][tech][industry][onlookers][expected.][ibm's][third - quarter][earnings][pension][beat][average][cents])
+v(2 3 4 5 9 10 11 12 13 22 23 24 25 27 29 30 31 34): -5.210659027099609, EP: 35.32683563232422	 ([ibm][rest][tech][industry][onlookers][expected.][ibm's][third - quarter][earnings][# 36 ; 320][million][charge][settle][pension][beat][analysts '][average][cents])
+v(0 1 2 3 4 5 9 10 11 12 13 14 18 19 20 21 27 28 29 31 32 34 35): -1.7284691333770752, EP: 11.718544960021973	 ([usatoday. com][-][ibm][rest][tech][industry][onlookers][expected.][ibm's][third - quarter][earnings][rose][# 36 ; 1. 17][share,][excluding][one - time][pension][plan.][beat][average][estimate][cents][share.])
+v(0 1 2 3 4 5 9 10 11 12 13 14 18 19 20 21 22 23 24 25 27 28 29 30 31 32 34 35): -0.8417978286743164, EP: 5.707157611846924	 ([usatoday. com][-][ibm][rest][tech][industry][onlookers][expected.][ibm's][third - quarter][earnings][rose][# 36 ; 1. 17][share,][excluding][one - time][# 36 ; 320][million][charge][settle][pension][plan.][beat][analysts '][average][estimate][cents][share.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 26 27 28 29 31 32 33 34 35): 0.20887184143066406, EP: -1.4160937070846558	 ([usatoday. com][-][ibm][rest][tech][industry][might][better][year][onlookers][expected.][ibm's][third - quarter][earnings][rose][15][year][earlier,][# 36 ; 1. 17][share,][excluding][one - time][lawsuit][pension][plan.][beat][average][estimate][3][cents][share.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35): -0.14749860763549805, EP: 1.0	 ([usatoday. com][-][ibm][rest][tech][industry][might][better][year][onlookers][expected.][ibm's][third - quarter][earnings][rose][15][year][earlier,][# 36 ; 1. 17][share,][excluding][one - time][# 36 ; 320][million][charge][settle][lawsuit][pension][plan.][beat][analysts '][average][estimate][3][cents][share.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: ( reuters )
+Player 3: -
+Player 4: oil
+Player 5: prices
+Player 6: slid
+Player 7: 3
+Player 8: percent
+Player 9: monday
+Player 10: expectations
+Player 11: mild
+Player 12: u. s.
+Player 13: weather
+Player 14: start
+Player 15: new
+Player 16: year
+Player 17: limit
+Player 18: heating
+Player 19: oil
+Player 20: demand.
+---------- Rewards ----------
+v(): -4.413224697113037	 ([])
+v(4 14 16 17 18 19): 2.2522802352905273	 ([oil][start][year][limit][heating][oil])
+v(0 1 5 7 8 9 10 12 15): 6.581550121307373	 ([new][york][prices][3][percent][monday][expectations][u. s.][new])
+v(2 3 6 11 13 20): 6.717856407165527	 ([( reuters )][-][slid][mild][weather][demand.])
+v(0 1 4 5 7 8 9 10 12 14 15 16 17 18 19): 8.202359199523926	 ([new][york][oil][prices][3][percent][monday][expectations][u. s.][start][new][year][limit][heating][oil])
+v(2 3 4 6 11 13 14 16 17 18 19 20): 8.21331787109375	 ([( reuters )][-][oil][slid][mild][weather][start][year][limit][heating][oil][demand.])
+v(0 1 2 3 5 6 7 8 9 10 11 12 13 15 20): 7.967221736907959	 ([new][york][( reuters )][-][prices][slid][3][percent][monday][expectations][mild][u. s.][weather][new][demand.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.412975311279297	 ([new][york][( reuters )][-][oil][prices][slid][3][percent][monday][expectations][mild][u. s.][weather][start][new][year][limit][heating][oil][demand.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 12.826200485229492, EP: 1.0	 ([new][york][( reuters )][-][oil][prices][slid][3][percent][monday][expectations][mild][u. s.][weather][start][new][year][limit][heating][oil][demand.])
+v(2 3 4 6 11 13 14 16 17 18 19 20): 12.626543045043945, EP: 0.984433650970459	 ([( reuters )][-][oil][slid][mild][weather][start][year][limit][heating][oil][demand.])
+v(0 1 4 5 7 8 9 10 12 14 15 16 17 18 19): 12.615583419799805, EP: 0.983579158782959	 ([new][york][oil][prices][3][percent][monday][expectations][u. s.][start][new][year][limit][heating][oil])
+v(0 1 2 3 5 6 7 8 9 10 11 12 13 15 20): 12.380446434020996, EP: 0.9652466177940369	 ([new][york][( reuters )][-][prices][slid][3][percent][monday][expectations][mild][u. s.][weather][new][demand.])
+v(2 3 6 11 13 20): 11.131080627441406, EP: 0.8678392767906189	 ([( reuters )][-][slid][mild][weather][demand.])
+v(0 1 5 7 8 9 10 12 15): 10.99477481842041, EP: 0.8572121262550354	 ([new][york][prices][3][percent][monday][expectations][u. s.][new])
+v(4 14 16 17 18 19): 6.6655049324035645, EP: 0.5196788311004639	 ([oil][start][year][limit][heating][oil])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

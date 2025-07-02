@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: san
+Player 1: francisco,
+Player 2: ca
+Player 3: ( sports
+Player 4: network )
+Player 5: -
+Player 6: olympic
+Player 7: track
+Player 8: field
+Player 9: star
+Player 10: marion
+Player 11: jones
+Player 12: filed
+Player 13: defamation
+Player 14: lawsuit
+Player 15: balco
+Player 16: chief
+Player 17: victor
+Player 18: conte
+Player 19: wednesday.
+---------- Rewards ----------
+v(): -3.7955000400543213	 ([])
+v(3 6 8 10 11 15 16 19): 8.161111831665039	 ([( sports][olympic][field][marion][jones][balco][chief][wednesday.])
+v(4 7 9 12 13 14 17 18): -4.271952152252197	 ([network )][track][star][filed][defamation][lawsuit][victor][conte])
+v(0 1 2 5): -7.887050628662109	 ([san][francisco,][ca][-])
+v(3 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.539266586303711	 ([( sports][network )][olympic][track][field][star][marion][jones][filed][defamation][lawsuit][balco][chief][victor][conte][wednesday.])
+v(0 1 2 3 5 6 8 10 11 15 16 19): 9.300076484680176	 ([san][francisco,][ca][( sports][-][olympic][field][marion][jones][balco][chief][wednesday.])
+v(0 1 2 4 5 7 9 12 13 14 17 18): -7.303582191467285	 ([san][francisco,][ca][network )][-][track][star][filed][defamation][lawsuit][victor][conte])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.757081985473633	 ([san][francisco,][ca][( sports][network )][-][olympic][track][field][star][marion][jones][filed][defamation][lawsuit][balco][chief][victor][conte][wednesday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.552581787109375, EP: 1.0	 ([san][francisco,][ca][( sports][network )][-][olympic][track][field][star][marion][jones][filed][defamation][lawsuit][balco][chief][victor][conte][wednesday.])
+v(0 1 2 3 5 6 8 10 11 15 16 19): 13.095576286315918, EP: 0.9662790894508362	 ([san][francisco,][ca][( sports][-][olympic][field][marion][jones][balco][chief][wednesday.])
+v(3 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 12.334766387939453, EP: 0.9101414680480957	 ([( sports][network )][olympic][track][field][star][marion][jones][filed][defamation][lawsuit][balco][chief][victor][conte][wednesday.])
+v(3 6 8 10 11 15 16 19): 11.956611633300781, EP: 0.8822386860847473	 ([( sports][olympic][field][marion][jones][balco][chief][wednesday.])
+v(0 1 2 5): -4.091550827026367, EP: -0.3019019365310669	 ([san][francisco,][ca][-])
+v(0 1 2 4 5 7 9 12 13 14 17 18): -3.508082151412964, EP: -0.25884974002838135	 ([san][francisco,][ca][network )][-][track][star][filed][defamation][lawsuit][victor][conte])
+v(4 7 9 12 13 14 17 18): -0.476452112197876, EP: -0.03515581786632538	 ([network )][track][star][filed][defamation][lawsuit][victor][conte])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

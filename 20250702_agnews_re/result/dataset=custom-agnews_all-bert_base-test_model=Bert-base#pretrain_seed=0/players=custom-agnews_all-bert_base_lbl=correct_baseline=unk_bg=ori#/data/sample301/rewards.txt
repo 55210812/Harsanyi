@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: use
+Player 1: robots
+Player 2: around
+Player 3: home
+Player 4: mow
+Player 5: lawns,
+Player 6: vacuum
+Player 7: floors,
+Player 8: pull
+Player 9: guard
+Player 10: duty
+Player 11: perform
+Player 12: chores
+Player 13: set
+Player 14: surge
+Player 15: sevenfold
+Player 16: 2007,
+Player 17: says
+Player 18: new
+Player 19: u. n.
+Player 20: survey,
+Player 21: credits
+Player 22: dropping
+Player 23: prices
+Player 24: robot
+Player 25: boom.
+---------- Rewards ----------
+v(): 4.985467910766602	 ([])
+v(1 2 3 5 19 22 23 24 25): 2.5526649951934814	 ([robots][around][home][lawns,][u. n.][dropping][prices][robot][boom.])
+v(0 4 6 7 8 9 10 11 12 13 14 15 16 17 18 20 21): 1.3049430847167969	 ([use][mow][vacuum][floors,][pull][guard][duty][perform][chores][set][surge][sevenfold][2007,][says][new][survey,][credits])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 1.2390942573547363	 ([use][robots][around][home][mow][lawns,][vacuum][floors,][pull][guard][duty][perform][chores][set][surge][sevenfold][2007,][says][new][u. n.][survey,][credits][dropping][prices][robot][boom.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): -3.7463736534118652, EP: 1.0	 ([use][robots][around][home][mow][lawns,][vacuum][floors,][pull][guard][duty][perform][chores][set][surge][sevenfold][2007,][says][new][u. n.][survey,][credits][dropping][prices][robot][boom.])
+v(0 4 6 7 8 9 10 11 12 13 14 15 16 17 18 20 21): -3.6805248260498047, EP: 0.9824233055114746	 ([use][mow][vacuum][floors,][pull][guard][duty][perform][chores][set][surge][sevenfold][2007,][says][new][survey,][credits])
+v(1 2 3 5 19 22 23 24 25): -2.43280291557312, EP: 0.6493753790855408	 ([robots][around][home][lawns,][u. n.][dropping][prices][robot][boom.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

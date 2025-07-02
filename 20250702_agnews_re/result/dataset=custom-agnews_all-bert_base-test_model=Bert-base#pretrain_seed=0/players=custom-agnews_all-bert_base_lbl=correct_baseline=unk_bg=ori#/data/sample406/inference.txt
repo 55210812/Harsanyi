@@ -1,0 +1,46 @@
+Execution time: 2025-07-02 19:27:17
+prompt: [CLS] columbia native and former astronaut charles bolden is on the short list to replace sean okeefe, who resigned monday after three tumultuous years running the nations space program. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3996 decoded_text: columbia
+idx:2 input_id:3128 decoded_text: native
+idx:3 input_id:1998 decoded_text: and
+idx:4 input_id:2280 decoded_text: former
+idx:5 input_id:19748 decoded_text: astronaut
+idx:6 input_id:2798 decoded_text: charles
+idx:7 input_id:7782 decoded_text: bold
+idx:8 input_id:2368 decoded_text: ##en
+idx:9 input_id:2003 decoded_text: is
+idx:10 input_id:2006 decoded_text: on
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:2460 decoded_text: short
+idx:13 input_id:2862 decoded_text: list
+idx:14 input_id:2000 decoded_text: to
+idx:15 input_id:5672 decoded_text: replace
+idx:16 input_id:5977 decoded_text: sean
+idx:17 input_id:7929 decoded_text: ok
+idx:18 input_id:4402 decoded_text: ##ee
+idx:19 input_id:7959 decoded_text: ##fe
+idx:20 input_id:1010 decoded_text: ,
+idx:21 input_id:2040 decoded_text: who
+idx:22 input_id:5295 decoded_text: resigned
+idx:23 input_id:6928 decoded_text: monday
+idx:24 input_id:2044 decoded_text: after
+idx:25 input_id:2093 decoded_text: three
+idx:26 input_id:10722 decoded_text: tu
+idx:27 input_id:12274 decoded_text: ##mu
+idx:28 input_id:7096 decoded_text: ##lt
+idx:29 input_id:8918 decoded_text: ##uous
+idx:30 input_id:2086 decoded_text: years
+idx:31 input_id:2770 decoded_text: running
+idx:32 input_id:1996 decoded_text: the
+idx:33 input_id:3741 decoded_text: nations
+idx:34 input_id:2686 decoded_text: space
+idx:35 input_id:2565 decoded_text: program
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-0.4559822678565979, -2.2223949432373047, -3.705765962600708, 6.526881217956543]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

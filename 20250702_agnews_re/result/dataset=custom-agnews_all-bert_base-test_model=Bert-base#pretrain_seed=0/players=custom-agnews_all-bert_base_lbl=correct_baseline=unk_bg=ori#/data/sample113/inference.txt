@@ -1,0 +1,39 @@
+Execution time: 2025-07-02 19:20:19
+prompt: [CLS] the fcc has ruled against state regulation of voice - over - ip phone services, saying that disparate state regulations would slow their rollout. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:14420 decoded_text: fcc
+idx:3 input_id:2038 decoded_text: has
+idx:4 input_id:5451 decoded_text: ruled
+idx:5 input_id:2114 decoded_text: against
+idx:6 input_id:2110 decoded_text: state
+idx:7 input_id:7816 decoded_text: regulation
+idx:8 input_id:1997 decoded_text: of
+idx:9 input_id:2376 decoded_text: voice
+idx:10 input_id:1011 decoded_text: -
+idx:11 input_id:2058 decoded_text: over
+idx:12 input_id:1011 decoded_text: -
+idx:13 input_id:12997 decoded_text: ip
+idx:14 input_id:3042 decoded_text: phone
+idx:15 input_id:2578 decoded_text: services
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:3038 decoded_text: saying
+idx:18 input_id:2008 decoded_text: that
+idx:19 input_id:4487 decoded_text: di
+idx:20 input_id:27694 decoded_text: ##spar
+idx:21 input_id:3686 decoded_text: ##ate
+idx:22 input_id:2110 decoded_text: state
+idx:23 input_id:7040 decoded_text: regulations
+idx:24 input_id:2052 decoded_text: would
+idx:25 input_id:4030 decoded_text: slow
+idx:26 input_id:2037 decoded_text: their
+idx:27 input_id:4897 decoded_text: roll
+idx:28 input_id:5833 decoded_text: ##out
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.6908605098724365, -4.30517053604126, 3.831618547439575, 2.705874443054199]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

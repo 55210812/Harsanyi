@@ -1,0 +1,41 @@
+Execution time: 2025-07-02 19:32:34
+prompt: [CLS] for jeffrey j. steiner, chairman and chief executive of fairchild corp., nearly \ $ 2. 5 million in salary last year was just the beginning. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2005 decoded_text: for
+idx:2 input_id:10799 decoded_text: jeffrey
+idx:3 input_id:1046 decoded_text: j
+idx:4 input_id:1012 decoded_text: .
+idx:5 input_id:21264 decoded_text: steiner
+idx:6 input_id:1010 decoded_text: ,
+idx:7 input_id:3472 decoded_text: chairman
+idx:8 input_id:1998 decoded_text: and
+idx:9 input_id:2708 decoded_text: chief
+idx:10 input_id:3237 decoded_text: executive
+idx:11 input_id:1997 decoded_text: of
+idx:12 input_id:24258 decoded_text: fairchild
+idx:13 input_id:13058 decoded_text: corp
+idx:14 input_id:1012 decoded_text: .
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:3053 decoded_text: nearly
+idx:17 input_id:1032 decoded_text: \
+idx:18 input_id:1002 decoded_text: $
+idx:19 input_id:1016 decoded_text: 2
+idx:20 input_id:1012 decoded_text: .
+idx:21 input_id:1019 decoded_text: 5
+idx:22 input_id:2454 decoded_text: million
+idx:23 input_id:1999 decoded_text: in
+idx:24 input_id:10300 decoded_text: salary
+idx:25 input_id:2197 decoded_text: last
+idx:26 input_id:2095 decoded_text: year
+idx:27 input_id:2001 decoded_text: was
+idx:28 input_id:2074 decoded_text: just
+idx:29 input_id:1996 decoded_text: the
+idx:30 input_id:2927 decoded_text: beginning
+idx:31 input_id:1012 decoded_text: .
+idx:32 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.3566431999206543, -4.012199878692627, 4.175497531890869, 0.5888104438781738]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

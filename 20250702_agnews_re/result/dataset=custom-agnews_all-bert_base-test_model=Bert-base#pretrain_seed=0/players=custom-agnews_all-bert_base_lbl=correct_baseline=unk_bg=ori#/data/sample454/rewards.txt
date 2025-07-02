@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: attorneys
+Player 1: us
+Player 2: airways
+Player 3: hope
+Player 4: convince
+Player 5: bankruptcy
+Player 6: court
+Player 7: judge
+Player 8: alexandria
+Player 9: today
+Player 10: without
+Player 11: substantial
+Player 12: pay
+Player 13: cuts,
+Player 14: airline
+Player 15: go
+Player 16: business.
+---------- Rewards ----------
+v(): -6.596301555633545	 ([])
+v(0 5 10 12 14 16): 5.940895080566406	 ([attorneys][bankruptcy][without][pay][airline][business.])
+v(1 2): 3.1313884258270264	 ([us][airways])
+v(3 4 6 7 8 9 11 13 15): 6.710389137268066	 ([hope][convince][court][judge][alexandria][today][substantial][cuts,][go])
+v(0 1 2 5 10 12 14 16): 7.151107311248779	 ([attorneys][us][airways][bankruptcy][without][pay][airline][business.])
+v(0 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 8.083871841430664	 ([attorneys][hope][convince][bankruptcy][court][judge][alexandria][today][without][substantial][pay][cuts,][airline][go][business.])
+v(1 2 3 4 6 7 8 9 11 13 15): 7.933918476104736	 ([us][airways][hope][convince][court][judge][alexandria][today][substantial][cuts,][go])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 8.318279266357422	 ([attorneys][us][airways][hope][convince][bankruptcy][court][judge][alexandria][today][without][substantial][pay][cuts,][airline][go][business.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 14.914581298828125, EP: 1.0	 ([attorneys][us][airways][hope][convince][bankruptcy][court][judge][alexandria][today][without][substantial][pay][cuts,][airline][go][business.])
+v(0 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 14.680173873901367, EP: 0.9842833280563354	 ([attorneys][hope][convince][bankruptcy][court][judge][alexandria][today][without][substantial][pay][cuts,][airline][go][business.])
+v(1 2 3 4 6 7 8 9 11 13 15): 14.530220031738281, EP: 0.9742291569709778	 ([us][airways][hope][convince][court][judge][alexandria][today][substantial][cuts,][go])
+v(0 1 2 5 10 12 14 16): 13.747408866882324, EP: 0.921742856502533	 ([attorneys][us][airways][bankruptcy][without][pay][airline][business.])
+v(3 4 6 7 8 9 11 13 15): 13.306690216064453, EP: 0.8921933770179749	 ([hope][convince][court][judge][alexandria][today][substantial][cuts,][go])
+v(0 5 10 12 14 16): 12.53719711303711, EP: 0.8406000137329102	 ([attorneys][bankruptcy][without][pay][airline][business.])
+v(1 2): 9.727689743041992, EP: 0.6522268056869507	 ([us][airways])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

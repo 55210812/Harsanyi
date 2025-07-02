@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: company
+Player 1: produces
+Player 2: retrospect
+Player 3: software,
+Player 4: also
+Player 5: included
+Player 6: maxtor
+Player 7: # 39 ; s
+Player 8: one
+Player 9: touch
+Player 10: external
+Player 11: back
+Player 12: disc,
+Player 13: vital
+Player 14: hold
+Player 15: small
+Player 16: medium - sized
+Player 17: enterprise
+Player 18: market.
+---------- Rewards ----------
+v(): 3.0454769134521484	 ([])
+v(0 4 11 15 18): -0.7982645034790039	 ([company][also][back][small][market.])
+v(1 7 14 17): -6.683542728424072	 ([produces][# 39 ; s][hold][enterprise])
+v(2 3 5 6 12 13 16): 7.748725891113281	 ([retrospect][software,][included][maxtor][disc,][vital][medium - sized])
+v(8 9 10): 6.37082052230835	 ([one][touch][external])
+v(0 1 4 7 11 14 15 17 18): -5.880393028259277	 ([company][produces][also][# 39 ; s][back][hold][small][enterprise][market.])
+v(0 2 3 4 5 6 11 12 13 15 16 18): 8.013188362121582	 ([company][retrospect][software,][also][included][maxtor][back][disc,][vital][small][medium - sized][market.])
+v(0 4 8 9 10 11 15 18): 2.5976474285125732	 ([company][also][one][touch][external][back][small][market.])
+v(1 2 3 5 6 7 12 13 14 16 17): 7.216366767883301	 ([produces][retrospect][software,][included][maxtor][# 39 ; s][disc,][vital][hold][medium - sized][enterprise])
+v(1 7 8 9 10 14 17): 1.6953561305999756	 ([produces][# 39 ; s][one][touch][external][hold][enterprise])
+v(2 3 5 6 8 9 10 12 13 16): 7.911773204803467	 ([retrospect][software,][included][maxtor][one][touch][external][disc,][vital][medium - sized])
+v(0 1 2 3 4 5 6 7 11 12 13 14 15 16 17 18): 7.735802173614502	 ([company][produces][retrospect][software,][also][included][maxtor][# 39 ; s][back][disc,][vital][hold][small][medium - sized][enterprise][market.])
+v(0 1 4 7 8 9 10 11 14 15 17 18): -1.6809232234954834	 ([company][produces][also][# 39 ; s][one][touch][external][back][hold][small][enterprise][market.])
+v(0 2 3 4 5 6 8 9 10 11 12 13 15 16 18): 8.09941577911377	 ([company][retrospect][software,][also][included][maxtor][one][touch][external][back][disc,][vital][small][medium - sized][market.])
+v(1 2 3 5 6 7 8 9 10 12 13 14 16 17): 7.371508598327637	 ([produces][retrospect][software,][included][maxtor][# 39 ; s][one][touch][external][disc,][vital][hold][medium - sized][enterprise])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.7998881340026855	 ([company][produces][retrospect][software,][also][included][maxtor][# 39 ; s][one][touch][external][back][disc,][vital][hold][small][medium - sized][enterprise][market.])
+---------- Rewards-v() ----------
+v(1 7 14 17): -9.729019165039062, EP: -2.046314239501953	 ([produces][# 39 ; s][hold][enterprise])
+v(0 1 4 7 11 14 15 17 18): -8.925869941711426, EP: -1.8773870468139648	 ([company][produces][also][# 39 ; s][back][hold][small][enterprise][market.])
+v(0 2 3 4 5 6 8 9 10 11 12 13 15 16 18): 5.053938865661621, EP: 1.062999963760376	 ([company][retrospect][software,][also][included][maxtor][one][touch][external][back][disc,][vital][small][medium - sized][market.])
+v(0 2 3 4 5 6 11 12 13 15 16 18): 4.967711448669434, EP: 1.0448637008666992	 ([company][retrospect][software,][also][included][maxtor][back][disc,][vital][small][medium - sized][market.])
+v(2 3 5 6 8 9 10 12 13 16): 4.866296291351318, EP: 1.0235328674316406	 ([retrospect][software,][included][maxtor][one][touch][external][disc,][vital][medium - sized])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 4.754411220550537, EP: 1.0	 ([company][produces][retrospect][software,][also][included][maxtor][# 39 ; s][one][touch][external][back][disc,][vital][hold][small][medium - sized][enterprise][market.])
+v(0 1 4 7 8 9 10 11 14 15 17 18): -4.726400375366211, EP: -0.9941084384918213	 ([company][produces][also][# 39 ; s][one][touch][external][back][hold][small][enterprise][market.])
+v(2 3 5 6 12 13 16): 4.703248977661133, EP: 0.989238977432251	 ([retrospect][software,][included][maxtor][disc,][vital][medium - sized])
+v(0 1 2 3 4 5 6 7 11 12 13 14 15 16 17 18): 4.6903252601623535, EP: 0.9865207076072693	 ([company][produces][retrospect][software,][also][included][maxtor][# 39 ; s][back][disc,][vital][hold][small][medium - sized][enterprise][market.])
+v(1 2 3 5 6 7 8 9 10 12 13 14 16 17): 4.326031684875488, EP: 0.9098985195159912	 ([produces][retrospect][software,][included][maxtor][# 39 ; s][one][touch][external][disc,][vital][hold][medium - sized][enterprise])
+v(1 2 3 5 6 7 12 13 14 16 17): 4.170889854431152, EP: 0.8772673606872559	 ([produces][retrospect][software,][included][maxtor][# 39 ; s][disc,][vital][hold][medium - sized][enterprise])
+v(0 4 11 15 18): -3.8437414169311523, EP: -0.8084579110145569	 ([company][also][back][small][market.])
+v(8 9 10): 3.325343608856201, EP: 0.6994227766990662	 ([one][touch][external])
+v(1 7 8 9 10 14 17): -1.3501207828521729, EP: -0.28397223353385925	 ([produces][# 39 ; s][one][touch][external][hold][enterprise])
+v(0 4 8 9 10 11 15 18): -0.4478294849395752, EP: -0.09419241547584534	 ([company][also][one][touch][external][back][small][market.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

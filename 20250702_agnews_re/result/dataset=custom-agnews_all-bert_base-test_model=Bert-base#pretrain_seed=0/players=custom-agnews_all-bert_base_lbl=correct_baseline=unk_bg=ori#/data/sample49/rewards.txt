@@ -1,0 +1,54 @@
+---------- Players ----------
+Player 0: following
+Player 1: list
+Player 2: companies
+Player 3: whose
+Player 4: shares
+Player 5: may
+Player 6: make
+Player 7: gains
+Player 8: losses
+Player 9: canadian
+Player 10: market.
+Player 11: preview
+Player 12: includes
+Player 13: news
+Player 14: broke
+Player 15: markets
+Player 16: closed
+Player 17: tuesday.
+---------- Rewards ----------
+v(): -6.860245704650879	 ([])
+v(3 4 5 6): 5.456653594970703	 ([whose][shares][may][make])
+v(8 9): -0.4007176160812378	 ([losses][canadian])
+v(2 10 13 14 15): 3.9996960163116455	 ([companies][market.][news][broke][markets])
+v(0 1 7 11 12 16 17): 1.6031895875930786	 ([following][list][gains][preview][includes][closed][tuesday.])
+v(3 4 5 6 8 9): 6.371615886688232	 ([whose][shares][may][make][losses][canadian])
+v(2 3 4 5 6 10 13 14 15): 5.2486467361450195	 ([companies][whose][shares][may][make][market.][news][broke][markets])
+v(0 1 3 4 5 6 7 11 12 16 17): 5.538145065307617	 ([following][list][whose][shares][may][make][gains][preview][includes][closed][tuesday.])
+v(2 8 9 10 13 14 15): 8.019668579101562	 ([companies][losses][canadian][market.][news][broke][markets])
+v(0 1 7 8 9 11 12 16 17): 4.910386562347412	 ([following][list][gains][losses][canadian][preview][includes][closed][tuesday.])
+v(0 1 2 7 10 11 12 13 14 15 16 17): 4.9721503257751465	 ([following][list][companies][gains][market.][preview][includes][news][broke][markets][closed][tuesday.])
+v(2 3 4 5 6 8 9 10 13 14 15): 7.929022789001465	 ([companies][whose][shares][may][make][losses][canadian][market.][news][broke][markets])
+v(0 1 3 4 5 6 7 8 9 11 12 16 17): 5.976399898529053	 ([following][list][whose][shares][may][make][gains][losses][canadian][preview][includes][closed][tuesday.])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17): 3.9385783672332764	 ([following][list][companies][whose][shares][may][make][gains][market.][preview][includes][news][broke][markets][closed][tuesday.])
+v(0 1 2 7 8 9 10 11 12 13 14 15 16 17): 7.329955101013184	 ([following][list][companies][gains][losses][canadian][market.][preview][includes][news][broke][markets][closed][tuesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 5.870627403259277	 ([following][list][companies][whose][shares][may][make][gains][losses][canadian][market.][preview][includes][news][broke][markets][closed][tuesday.])
+---------- Rewards-v() ----------
+v(2 8 9 10 13 14 15): 14.879914283752441, EP: 1.168805480003357	 ([companies][losses][canadian][market.][news][broke][markets])
+v(2 3 4 5 6 8 9 10 13 14 15): 14.789268493652344, EP: 1.1616853475570679	 ([companies][whose][shares][may][make][losses][canadian][market.][news][broke][markets])
+v(0 1 2 7 8 9 10 11 12 13 14 15 16 17): 14.190200805664062, EP: 1.1146290302276611	 ([following][list][companies][gains][losses][canadian][market.][preview][includes][news][broke][markets][closed][tuesday.])
+v(3 4 5 6 8 9): 13.231861114501953, EP: 1.0393521785736084	 ([whose][shares][may][make][losses][canadian])
+v(0 1 3 4 5 6 7 8 9 11 12 16 17): 12.836645126342773, EP: 1.0083082914352417	 ([following][list][whose][shares][may][make][gains][losses][canadian][preview][includes][closed][tuesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 12.730873107910156, EP: 1.0	 ([following][list][companies][whose][shares][may][make][gains][losses][canadian][market.][preview][includes][news][broke][markets][closed][tuesday.])
+v(0 1 3 4 5 6 7 11 12 16 17): 12.398390769958496, EP: 0.9738837480545044	 ([following][list][whose][shares][may][make][gains][preview][includes][closed][tuesday.])
+v(3 4 5 6): 12.316899299621582, EP: 0.9674826860427856	 ([whose][shares][may][make])
+v(2 3 4 5 6 10 13 14 15): 12.108892440795898, EP: 0.9511439204216003	 ([companies][whose][shares][may][make][market.][news][broke][markets])
+v(0 1 2 7 10 11 12 13 14 15 16 17): 11.832395553588867, EP: 0.9294252991676331	 ([following][list][companies][gains][market.][preview][includes][news][broke][markets][closed][tuesday.])
+v(0 1 7 8 9 11 12 16 17): 11.770631790161133, EP: 0.9245737791061401	 ([following][list][gains][losses][canadian][preview][includes][closed][tuesday.])
+v(2 10 13 14 15): 10.859941482543945, EP: 0.8530398011207581	 ([companies][market.][news][broke][markets])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17): 10.798824310302734, EP: 0.8482391238212585	 ([following][list][companies][whose][shares][may][make][gains][market.][preview][includes][news][broke][markets][closed][tuesday.])
+v(0 1 7 11 12 16 17): 8.463435173034668, EP: 0.6647961139678955	 ([following][list][gains][preview][includes][closed][tuesday.])
+v(8 9): 6.459527969360352, EP: 0.5073907971382141	 ([losses][canadian])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

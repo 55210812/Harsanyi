@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: ricky
+Player 1: ponting
+Player 2: said
+Player 3: would
+Player 4: disappointed
+Player 5: senior
+Player 6: west
+Player 7: indies
+Player 8: players,
+Player 9: including
+Player 10: batsman
+Player 11: brian
+Player 12: lara,
+Player 13: join
+Player 14: team
+Player 15: # 39 ; s
+Player 16: one - day
+Player 17: series
+Player 18: tour
+---------- Rewards ----------
+v(): -3.9693353176116943	 ([])
+v(0 8 10 14 18): 9.423924446105957	 ([ricky][players,][batsman][team][tour])
+v(1 2 4 5 6 13 17): -5.7286505699157715	 ([ponting][said][disappointed][senior][west][join][series])
+v(7 11 12): 7.421267986297607	 ([indies][brian][lara,])
+v(3 9 15 16): -3.4477577209472656	 ([would][including][# 39 ; s][one - day])
+v(0 1 2 4 5 6 8 10 13 14 17 18): 9.614629745483398	 ([ricky][ponting][said][disappointed][senior][west][players,][batsman][join][team][series][tour])
+v(0 7 8 10 11 12 14 18): 9.602113723754883	 ([ricky][indies][players,][batsman][brian][lara,][team][tour])
+v(0 3 8 9 10 14 15 16 18): 9.310534477233887	 ([ricky][would][players,][including][batsman][team][# 39 ; s][one - day][tour])
+v(1 2 4 5 6 7 11 12 13 17): 9.604660034179688	 ([ponting][said][disappointed][senior][west][indies][brian][lara,][join][series])
+v(1 2 3 4 5 6 9 13 15 16 17): 0.18974721431732178	 ([ponting][said][would][disappointed][senior][west][including][join][# 39 ; s][one - day][series])
+v(3 7 9 11 12 15 16): 8.79293441772461	 ([would][indies][including][brian][lara,][# 39 ; s][one - day])
+v(0 1 2 4 5 6 7 8 10 11 12 13 14 17 18): 9.657382011413574	 ([ricky][ponting][said][disappointed][senior][west][indies][players,][batsman][brian][lara,][join][team][series][tour])
+v(0 1 2 3 4 5 6 8 9 10 13 14 15 16 17 18): 9.241400718688965	 ([ricky][ponting][said][would][disappointed][senior][west][players,][including][batsman][join][team][# 39 ; s][one - day][series][tour])
+v(0 3 7 8 9 10 11 12 14 15 16 18): 9.517964363098145	 ([ricky][would][indies][players,][including][batsman][brian][lara,][team][# 39 ; s][one - day][tour])
+v(1 2 3 4 5 6 7 9 11 12 13 15 16 17): 9.462733268737793	 ([ponting][said][would][disappointed][senior][west][indies][including][brian][lara,][join][# 39 ; s][one - day][series])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.409232139587402	 ([ricky][ponting][said][would][disappointed][senior][west][indies][players,][including][batsman][brian][lara,][join][team][# 39 ; s][one - day][series][tour])
+---------- Rewards-v() ----------
+v(0 1 2 4 5 6 7 8 10 11 12 13 14 17 18): 13.626717567443848, EP: 1.0185483694076538	 ([ricky][ponting][said][disappointed][senior][west][indies][players,][batsman][brian][lara,][join][team][series][tour])
+v(0 1 2 4 5 6 8 10 13 14 17 18): 13.583965301513672, EP: 1.015352725982666	 ([ricky][ponting][said][disappointed][senior][west][players,][batsman][join][team][series][tour])
+v(1 2 4 5 6 7 11 12 13 17): 13.573995590209961, EP: 1.014607548713684	 ([ponting][said][disappointed][senior][west][indies][brian][lara,][join][series])
+v(0 7 8 10 11 12 14 18): 13.571449279785156, EP: 1.0144171714782715	 ([ricky][indies][players,][batsman][brian][lara,][team][tour])
+v(0 3 7 8 9 10 11 12 14 15 16 18): 13.487299919128418, EP: 1.0081273317337036	 ([ricky][would][indies][players,][including][batsman][brian][lara,][team][# 39 ; s][one - day][tour])
+v(1 2 3 4 5 6 7 9 11 12 13 15 16 17): 13.432068824768066, EP: 1.0039989948272705	 ([ponting][said][would][disappointed][senior][west][indies][including][brian][lara,][join][# 39 ; s][one - day][series])
+v(0 8 10 14 18): 13.39326000213623, EP: 1.0010981559753418	 ([ricky][players,][batsman][team][tour])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 13.378567695617676, EP: 1.0	 ([ricky][ponting][said][would][disappointed][senior][west][indies][players,][including][batsman][brian][lara,][join][team][# 39 ; s][one - day][series][tour])
+v(0 3 8 9 10 14 15 16 18): 13.27987003326416, EP: 0.9926227331161499	 ([ricky][would][players,][including][batsman][team][# 39 ; s][one - day][tour])
+v(0 1 2 3 4 5 6 8 9 10 13 14 15 16 17 18): 13.210736274719238, EP: 0.9874551892280579	 ([ricky][ponting][said][would][disappointed][senior][west][players,][including][batsman][join][team][# 39 ; s][one - day][series][tour])
+v(3 7 9 11 12 15 16): 12.762269973754883, EP: 0.9539339542388916	 ([would][indies][including][brian][lara,][# 39 ; s][one - day])
+v(7 11 12): 11.390603065490723, EP: 0.8514067530632019	 ([indies][brian][lara,])
+v(1 2 3 4 5 6 9 13 15 16 17): 4.159082412719727, EP: 0.3108765184879303	 ([ponting][said][would][disappointed][senior][west][including][join][# 39 ; s][one - day][series])
+v(1 2 4 5 6 13 17): -1.7593152523040771, EP: -0.13150250911712646	 ([ponting][said][disappointed][senior][west][join][series])
+v(3 9 15 16): 0.5215775966644287, EP: 0.03898605704307556	 ([would][including][# 39 ; s][one - day])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

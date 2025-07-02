@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: australia
+Player 1: # 39 ; s
+Player 2: cricketers
+Player 3: closed
+Player 4: first
+Player 5: test
+Player 6: series
+Player 7: triumph
+Player 8: india
+Player 9: 35
+Player 10: years
+Player 11: reducing
+Player 12: home
+Player 13: side
+Player 14: 84 - 5
+Player 15: tea
+Player 16: fourth
+Player 17: day
+Player 18: third
+Player 19: test
+Player 20: nagpur.
+---------- Rewards ----------
+v(): -3.371558904647827	 ([])
+v(11 12 13): 6.944848537445068	 ([reducing][home][side])
+v(4 5 6): 6.812719821929932	 ([first][test][series])
+v(1 18 19): 3.867140293121338	 ([# 39 ; s][third][test])
+v(0 2 3 7 8 9 10 14 15 16 17 20): 9.364381790161133	 ([australia][cricketers][closed][triumph][india][35][years][84 - 5][tea][fourth][day][nagpur.])
+v(4 5 6 11 12 13): 8.33883285522461	 ([first][test][series][reducing][home][side])
+v(1 11 12 13 18 19): 9.390661239624023	 ([# 39 ; s][reducing][home][side][third][test])
+v(0 2 3 7 8 9 10 11 12 13 14 15 16 17 20): 9.489995002746582	 ([australia][cricketers][closed][triumph][india][35][years][reducing][home][side][84 - 5][tea][fourth][day][nagpur.])
+v(1 4 5 6 18 19): 7.506831169128418	 ([# 39 ; s][first][test][series][third][test])
+v(0 2 3 4 5 6 7 8 9 10 14 15 16 17 20): 9.553958892822266	 ([australia][cricketers][closed][first][test][series][triumph][india][35][years][84 - 5][tea][fourth][day][nagpur.])
+v(0 1 2 3 7 8 9 10 14 15 16 17 18 19 20): 9.444229125976562	 ([australia][# 39 ; s][cricketers][closed][triumph][india][35][years][84 - 5][tea][fourth][day][third][test][nagpur.])
+v(1 4 5 6 11 12 13 18 19): 9.498696327209473	 ([# 39 ; s][first][test][series][reducing][home][side][third][test])
+v(0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 20): 9.581968307495117	 ([australia][cricketers][closed][first][test][series][triumph][india][35][years][reducing][home][side][84 - 5][tea][fourth][day][nagpur.])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.552886009216309	 ([australia][# 39 ; s][cricketers][closed][triumph][india][35][years][reducing][home][side][84 - 5][tea][fourth][day][third][test][nagpur.])
+v(0 1 2 3 4 5 6 7 8 9 10 14 15 16 17 18 19 20): 9.530488967895508	 ([australia][# 39 ; s][cricketers][closed][first][test][series][triumph][india][35][years][84 - 5][tea][fourth][day][third][test][nagpur.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.584192276000977	 ([australia][# 39 ; s][cricketers][closed][first][test][series][triumph][india][35][years][reducing][home][side][84 - 5][tea][fourth][day][third][test][nagpur.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 12.955751419067383, EP: 1.0	 ([australia][# 39 ; s][cricketers][closed][first][test][series][triumph][india][35][years][reducing][home][side][84 - 5][tea][fourth][day][third][test][nagpur.])
+v(0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 20): 12.953527450561523, EP: 0.9998283386230469	 ([australia][cricketers][closed][first][test][series][triumph][india][35][years][reducing][home][side][84 - 5][tea][fourth][day][nagpur.])
+v(0 2 3 4 5 6 7 8 9 10 14 15 16 17 20): 12.925518035888672, EP: 0.9976664185523987	 ([australia][cricketers][closed][first][test][series][triumph][india][35][years][84 - 5][tea][fourth][day][nagpur.])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 12.924445152282715, EP: 0.9975836277008057	 ([australia][# 39 ; s][cricketers][closed][triumph][india][35][years][reducing][home][side][84 - 5][tea][fourth][day][third][test][nagpur.])
+v(0 1 2 3 4 5 6 7 8 9 10 14 15 16 17 18 19 20): 12.902048110961914, EP: 0.9958548545837402	 ([australia][# 39 ; s][cricketers][closed][first][test][series][triumph][india][35][years][84 - 5][tea][fourth][day][third][test][nagpur.])
+v(1 4 5 6 11 12 13 18 19): 12.870255470275879, EP: 0.9934009313583374	 ([# 39 ; s][first][test][series][reducing][home][side][third][test])
+v(0 2 3 7 8 9 10 11 12 13 14 15 16 17 20): 12.861554145812988, EP: 0.9927293062210083	 ([australia][cricketers][closed][triumph][india][35][years][reducing][home][side][84 - 5][tea][fourth][day][nagpur.])
+v(0 1 2 3 7 8 9 10 14 15 16 17 18 19 20): 12.815788269042969, EP: 0.9891968369483948	 ([australia][# 39 ; s][cricketers][closed][triumph][india][35][years][84 - 5][tea][fourth][day][third][test][nagpur.])
+v(1 11 12 13 18 19): 12.76222038269043, EP: 0.9850621819496155	 ([# 39 ; s][reducing][home][side][third][test])
+v(0 2 3 7 8 9 10 14 15 16 17 20): 12.735940933227539, EP: 0.9830337762832642	 ([australia][cricketers][closed][triumph][india][35][years][84 - 5][tea][fourth][day][nagpur.])
+v(4 5 6 11 12 13): 11.710391998291016, EP: 0.9038759469985962	 ([first][test][series][reducing][home][side])
+v(1 4 5 6 18 19): 10.878390312194824, EP: 0.8396572470664978	 ([# 39 ; s][first][test][series][third][test])
+v(11 12 13): 10.316407203674316, EP: 0.7962800860404968	 ([reducing][home][side])
+v(4 5 6): 10.18427848815918, EP: 0.7860816717147827	 ([first][test][series])
+v(1 18 19): 7.238698959350586, EP: 0.5587247610092163	 ([# 39 ; s][third][test])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

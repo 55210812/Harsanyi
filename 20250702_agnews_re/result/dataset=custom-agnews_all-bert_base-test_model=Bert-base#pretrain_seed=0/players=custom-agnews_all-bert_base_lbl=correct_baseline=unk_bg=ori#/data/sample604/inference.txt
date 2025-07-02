@@ -1,0 +1,60 @@
+Execution time: 2025-07-02 19:32:07
+prompt: [CLS] the red sox yesterday received preliminary approval from the boston landmarks commission to expand fenway park's capacity by 10 percent, presenting the club's most specific designs yet on how it would add about 1, 000 seats as well as extra standing room. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2417 decoded_text: red
+idx:3 input_id:9175 decoded_text: sox
+idx:4 input_id:7483 decoded_text: yesterday
+idx:5 input_id:2363 decoded_text: received
+idx:6 input_id:8824 decoded_text: preliminary
+idx:7 input_id:6226 decoded_text: approval
+idx:8 input_id:2013 decoded_text: from
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:3731 decoded_text: boston
+idx:11 input_id:16209 decoded_text: landmarks
+idx:12 input_id:3222 decoded_text: commission
+idx:13 input_id:2000 decoded_text: to
+idx:14 input_id:7818 decoded_text: expand
+idx:15 input_id:21713 decoded_text: fen
+idx:16 input_id:4576 decoded_text: ##way
+idx:17 input_id:2380 decoded_text: park
+idx:18 input_id:1005 decoded_text: '
+idx:19 input_id:1055 decoded_text: s
+idx:20 input_id:3977 decoded_text: capacity
+idx:21 input_id:2011 decoded_text: by
+idx:22 input_id:2184 decoded_text: 10
+idx:23 input_id:3867 decoded_text: percent
+idx:24 input_id:1010 decoded_text: ,
+idx:25 input_id:10886 decoded_text: presenting
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:2252 decoded_text: club
+idx:28 input_id:1005 decoded_text: '
+idx:29 input_id:1055 decoded_text: s
+idx:30 input_id:2087 decoded_text: most
+idx:31 input_id:3563 decoded_text: specific
+idx:32 input_id:5617 decoded_text: designs
+idx:33 input_id:2664 decoded_text: yet
+idx:34 input_id:2006 decoded_text: on
+idx:35 input_id:2129 decoded_text: how
+idx:36 input_id:2009 decoded_text: it
+idx:37 input_id:2052 decoded_text: would
+idx:38 input_id:5587 decoded_text: add
+idx:39 input_id:2055 decoded_text: about
+idx:40 input_id:1015 decoded_text: 1
+idx:41 input_id:1010 decoded_text: ,
+idx:42 input_id:2199 decoded_text: 000
+idx:43 input_id:4272 decoded_text: seats
+idx:44 input_id:2004 decoded_text: as
+idx:45 input_id:2092 decoded_text: well
+idx:46 input_id:2004 decoded_text: as
+idx:47 input_id:4469 decoded_text: extra
+idx:48 input_id:3061 decoded_text: standing
+idx:49 input_id:2282 decoded_text: room
+idx:50 input_id:1012 decoded_text: .
+idx:51 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.6661098003387451, -2.0494351387023926, 5.6168742179870605, -3.5759053230285645]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

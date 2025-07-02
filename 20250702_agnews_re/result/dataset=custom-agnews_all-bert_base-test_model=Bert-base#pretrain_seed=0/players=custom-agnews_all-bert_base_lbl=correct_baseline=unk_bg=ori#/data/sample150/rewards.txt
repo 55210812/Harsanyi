@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: sunnyvale,
+Player 1: calif.
+Player 2: -
+Player 3: following
+Player 4: recent
+Player 5: industry
+Player 6: trend,
+Player 7: internet
+Player 8: giant
+Player 9: yahoo
+Player 10: inc.
+Player 11: adding
+Player 12: new
+Player 13: search
+Player 14: engine
+Player 15: tools
+Player 16: enable
+Player 17: users
+Player 18: create
+Player 19: personal
+Player 20: folders
+Player 21: share
+Player 22: favorite
+Player 23: links
+Player 24: others.
+---------- Rewards ----------
+v(): -4.13912296295166	 ([])
+v(0 1 5 6 7 8 10 15 17 20): -1.3056435585021973	 ([sunnyvale,][calif.][industry][trend,][internet][giant][inc.][tools][users][folders])
+v(2 3 4 9 11 12 13 14 16 18 19 21 22 23 24): -8.34626293182373	 ([-][following][recent][yahoo][adding][new][search][engine][enable][create][personal][share][favorite][links][others.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): -1.8887784481048584	 ([sunnyvale,][calif.][-][following][recent][industry][trend,][internet][giant][yahoo][inc.][adding][new][search][engine][tools][enable][users][create][personal][folders][share][favorite][links][others.])
+---------- Rewards-v() ----------
+v(2 3 4 9 11 12 13 14 16 18 19 21 22 23 24): -4.20713996887207, EP: -1.8695536851882935	 ([-][following][recent][yahoo][adding][new][search][engine][enable][create][personal][share][favorite][links][others.])
+v(0 1 5 6 7 8 10 15 17 20): 2.833479404449463, EP: 1.2591314315795898	 ([sunnyvale,][calif.][industry][trend,][internet][giant][inc.][tools][users][folders])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 2.2503445148468018, EP: 1.0	 ([sunnyvale,][calif.][-][following][recent][industry][trend,][internet][giant][yahoo][inc.][adding][new][search][engine][tools][enable][users][create][personal][folders][share][favorite][links][others.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

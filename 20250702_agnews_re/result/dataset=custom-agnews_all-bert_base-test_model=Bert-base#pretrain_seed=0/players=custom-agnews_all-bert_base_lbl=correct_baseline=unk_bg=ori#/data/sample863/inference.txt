@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 19:38:51
+prompt: [CLS] airbus sas, the world # 39 ; s largest maker of airplanes, said it received firm orders from china eastern airlines and air china, two of the country # 39 ; s main carriers, to buy 26 planes. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:20901 decoded_text: airbus
+idx:2 input_id:21871 decoded_text: sas
+idx:3 input_id:1010 decoded_text: ,
+idx:4 input_id:1996 decoded_text: the
+idx:5 input_id:2088 decoded_text: world
+idx:6 input_id:1001 decoded_text: #
+idx:7 input_id:4464 decoded_text: 39
+idx:8 input_id:1025 decoded_text: ;
+idx:9 input_id:1055 decoded_text: s
+idx:10 input_id:2922 decoded_text: largest
+idx:11 input_id:9338 decoded_text: maker
+idx:12 input_id:1997 decoded_text: of
+idx:13 input_id:24042 decoded_text: airplanes
+idx:14 input_id:1010 decoded_text: ,
+idx:15 input_id:2056 decoded_text: said
+idx:16 input_id:2009 decoded_text: it
+idx:17 input_id:2363 decoded_text: received
+idx:18 input_id:3813 decoded_text: firm
+idx:19 input_id:4449 decoded_text: orders
+idx:20 input_id:2013 decoded_text: from
+idx:21 input_id:2859 decoded_text: china
+idx:22 input_id:2789 decoded_text: eastern
+idx:23 input_id:7608 decoded_text: airlines
+idx:24 input_id:1998 decoded_text: and
+idx:25 input_id:2250 decoded_text: air
+idx:26 input_id:2859 decoded_text: china
+idx:27 input_id:1010 decoded_text: ,
+idx:28 input_id:2048 decoded_text: two
+idx:29 input_id:1997 decoded_text: of
+idx:30 input_id:1996 decoded_text: the
+idx:31 input_id:2406 decoded_text: country
+idx:32 input_id:1001 decoded_text: #
+idx:33 input_id:4464 decoded_text: 39
+idx:34 input_id:1025 decoded_text: ;
+idx:35 input_id:1055 decoded_text: s
+idx:36 input_id:2364 decoded_text: main
+idx:37 input_id:11363 decoded_text: carriers
+idx:38 input_id:1010 decoded_text: ,
+idx:39 input_id:2000 decoded_text: to
+idx:40 input_id:4965 decoded_text: buy
+idx:41 input_id:2656 decoded_text: 26
+idx:42 input_id:9738 decoded_text: planes
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.2603257894515991, -4.283735752105713, 6.202574729919434, -2.41774845123291]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

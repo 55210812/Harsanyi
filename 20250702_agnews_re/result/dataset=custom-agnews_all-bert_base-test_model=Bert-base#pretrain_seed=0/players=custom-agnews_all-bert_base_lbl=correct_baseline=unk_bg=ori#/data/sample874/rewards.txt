@@ -1,0 +1,47 @@
+---------- Players ----------
+Player 0: baghdad,
+Player 1: iraq
+Player 2: -
+Player 3: suicide
+Player 4: attacker
+Player 5: detonated
+Player 6: car
+Player 7: bomb
+Player 8: police
+Player 9: baghdad
+Player 10: bridge,
+Player 11: u. s.
+Player 12: troops
+Player 13: foiled
+Player 14: second
+Player 15: suicide
+Player 16: vehicle
+Player 17: bombing
+Player 18: attacks
+Player 19: friday
+Player 20: killed
+Player 21: least
+Player 22: five
+Player 23: people
+Player 24: wounding
+Player 25: least
+Player 26: 21...
+---------- Rewards ----------
+v(): -4.757730484008789	 ([])
+v(0 1 2 3 4 5 9 11 15 20): 7.351068496704102	 ([baghdad,][iraq][-][suicide][attacker][detonated][baghdad][u. s.][suicide][killed])
+v(8 21 25 26): -3.2852675914764404	 ([police][least][least][21...])
+v(6 7 10 12 13 14 16 17 18 19 22 23 24): 6.716977596282959	 ([car][bomb][bridge,][troops][foiled][second][vehicle][bombing][attacks][friday][five][people][wounding])
+v(0 1 2 3 4 5 8 9 11 15 20 21 25 26): 8.366898536682129	 ([baghdad,][iraq][-][suicide][attacker][detonated][police][baghdad][u. s.][suicide][killed][least][least][21...])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 14 15 16 17 18 19 20 22 23 24): 7.631482124328613	 ([baghdad,][iraq][-][suicide][attacker][detonated][car][bomb][baghdad][bridge,][u. s.][troops][foiled][second][suicide][vehicle][bombing][attacks][friday][killed][five][people][wounding])
+v(6 7 8 10 12 13 14 16 17 18 19 21 22 23 24 25 26): 7.207752227783203	 ([car][bomb][police][bridge,][troops][foiled][second][vehicle][bombing][attacks][friday][least][five][people][wounding][least][21...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 8.40666675567627	 ([baghdad,][iraq][-][suicide][attacker][detonated][car][bomb][police][baghdad][bridge,][u. s.][troops][foiled][second][suicide][vehicle][bombing][attacks][friday][killed][least][five][people][wounding][least][21...])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 13.164397239685059, EP: 1.0	 ([baghdad,][iraq][-][suicide][attacker][detonated][car][bomb][police][baghdad][bridge,][u. s.][troops][foiled][second][suicide][vehicle][bombing][attacks][friday][killed][least][five][people][wounding][least][21...])
+v(0 1 2 3 4 5 8 9 11 15 20 21 25 26): 13.124629020690918, EP: 0.9969791173934937	 ([baghdad,][iraq][-][suicide][attacker][detonated][police][baghdad][u. s.][suicide][killed][least][least][21...])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 14 15 16 17 18 19 20 22 23 24): 12.389212608337402, EP: 0.9411150813102722	 ([baghdad,][iraq][-][suicide][attacker][detonated][car][bomb][baghdad][bridge,][u. s.][troops][foiled][second][suicide][vehicle][bombing][attacks][friday][killed][five][people][wounding])
+v(0 1 2 3 4 5 9 11 15 20): 12.10879898071289, EP: 0.9198141694068909	 ([baghdad,][iraq][-][suicide][attacker][detonated][baghdad][u. s.][suicide][killed])
+v(6 7 8 10 12 13 14 16 17 18 19 21 22 23 24 25 26): 11.965482711791992, EP: 0.9089275002479553	 ([car][bomb][police][bridge,][troops][foiled][second][vehicle][bombing][attacks][friday][least][five][people][wounding][least][21...])
+v(6 7 10 12 13 14 16 17 18 19 22 23 24): 11.474708557128906, EP: 0.8716471195220947	 ([car][bomb][bridge,][troops][foiled][second][vehicle][bombing][attacks][friday][five][people][wounding])
+v(8 21 25 26): 1.4724628925323486, EP: 0.11185190081596375	 ([police][least][least][21...])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

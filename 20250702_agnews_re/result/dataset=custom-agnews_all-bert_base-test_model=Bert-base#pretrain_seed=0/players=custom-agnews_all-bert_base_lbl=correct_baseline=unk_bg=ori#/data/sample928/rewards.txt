@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: wildlife
+Player 1: conservationists
+Player 2: expected
+Player 3: push
+Player 4: new
+Player 5: trade
+Player 6: restrictions
+Player 7: protect
+Player 8: fast - disappearing
+Player 9: animals
+Player 10: plants,
+Player 11: lobbyists
+Player 12: try
+Player 13: free
+Player 14: commerce
+Player 15: species
+Player 16: international
+Player 17: talks
+Player 18: starting
+Player 19: yesterday
+Player 20: bangkok.
+---------- Rewards ----------
+v(): -5.967038631439209	 ([])
+v(2 4 5 6 7 9 11): -2.6733133792877197	 ([expected][new][trade][restrictions][protect][animals][lobbyists])
+v(16 17 18 19 20): 4.535032749176025	 ([international][talks][starting][yesterday][bangkok.])
+v(0 1 3 8 10 12 13 14 15): -8.454346656799316	 ([wildlife][conservationists][push][fast - disappearing][plants,][try][free][commerce][species])
+v(2 4 5 6 7 9 11 16 17 18 19 20): 2.336928367614746	 ([expected][new][trade][restrictions][protect][animals][lobbyists][international][talks][starting][yesterday][bangkok.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): -6.350128650665283	 ([wildlife][conservationists][expected][push][new][trade][restrictions][protect][fast - disappearing][animals][plants,][lobbyists][try][free][commerce][species])
+v(0 1 3 8 10 12 13 14 15 16 17 18 19 20): -2.803209066390991	 ([wildlife][conservationists][push][fast - disappearing][plants,][try][free][commerce][species][international][talks][starting][yesterday][bangkok.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 3.8660826683044434	 ([wildlife][conservationists][expected][push][new][trade][restrictions][protect][fast - disappearing][animals][plants,][lobbyists][try][free][commerce][species][international][talks][starting][yesterday][bangkok.])
+---------- Rewards-v() ----------
+v(16 17 18 19 20): 10.502071380615234, EP: 1.0680302381515503	 ([international][talks][starting][yesterday][bangkok.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.833121299743652, EP: 1.0	 ([wildlife][conservationists][expected][push][new][trade][restrictions][protect][fast - disappearing][animals][plants,][lobbyists][try][free][commerce][species][international][talks][starting][yesterday][bangkok.])
+v(2 4 5 6 7 9 11 16 17 18 19 20): 8.303966522216797, EP: 0.8444893956184387	 ([expected][new][trade][restrictions][protect][animals][lobbyists][international][talks][starting][yesterday][bangkok.])
+v(2 4 5 6 7 9 11): 3.2937252521514893, EP: 0.3349623382091522	 ([expected][new][trade][restrictions][protect][animals][lobbyists])
+v(0 1 3 8 10 12 13 14 15 16 17 18 19 20): 3.1638295650482178, EP: 0.32175230979919434	 ([wildlife][conservationists][push][fast - disappearing][plants,][try][free][commerce][species][international][talks][starting][yesterday][bangkok.])
+v(0 1 3 8 10 12 13 14 15): -2.4873080253601074, EP: -0.25295203924179077	 ([wildlife][conservationists][push][fast - disappearing][plants,][try][free][commerce][species])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): -0.3830900192260742, EP: -0.03895914554595947	 ([wildlife][conservationists][expected][push][new][trade][restrictions][protect][fast - disappearing][animals][plants,][lobbyists][try][free][commerce][species])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

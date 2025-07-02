@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: new
+Player 1: delhi :
+Player 2: foreign
+Player 3: ministers
+Player 4: india
+Player 5: pakistan
+Player 6: concluded
+Player 7: talks
+Player 8: monday,
+Player 9: declaring
+Player 10: south
+Player 11: asian
+Player 12: rivals
+Player 13: made
+Player 14: significant
+Player 15: progress
+Player 16: improving
+Player 17: relations,
+Player 18: despite
+Player 19: inability
+Player 20: agree
+Player 21: future
+Player 22: divided
+Player 23: kashmir.
+---------- Rewards ----------
+v(): -5.996857166290283	 ([])
+v(0 2 3 6 7 9 11 12 13 14 17 18 19 20): 5.999368190765381	 ([new][foreign][ministers][concluded][talks][declaring][asian][rivals][made][significant][relations,][despite][inability][agree])
+v(1 4 5 8 10 15 16 21 22 23): 8.372594833374023	 ([delhi :][india][pakistan][monday,][south][progress][improving][future][divided][kashmir.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.151644706726074	 ([new][delhi :][foreign][ministers][india][pakistan][concluded][talks][monday,][declaring][south][asian][rivals][made][significant][progress][improving][relations,][despite][inability][agree][future][divided][kashmir.])
+---------- Rewards-v() ----------
+v(1 4 5 8 10 15 16 21 22 23): 14.369451522827148, EP: 1.0156164169311523	 ([delhi :][india][pakistan][monday,][south][progress][improving][future][divided][kashmir.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 14.148502349853516, EP: 1.0	 ([new][delhi :][foreign][ministers][india][pakistan][concluded][talks][monday,][declaring][south][asian][rivals][made][significant][progress][improving][relations,][despite][inability][agree][future][divided][kashmir.])
+v(0 2 3 6 7 9 11 12 13 14 17 18 19 20): 11.996225357055664, EP: 0.8478795289993286	 ([new][foreign][ministers][concluded][talks][declaring][asian][rivals][made][significant][relations,][despite][inability][agree])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

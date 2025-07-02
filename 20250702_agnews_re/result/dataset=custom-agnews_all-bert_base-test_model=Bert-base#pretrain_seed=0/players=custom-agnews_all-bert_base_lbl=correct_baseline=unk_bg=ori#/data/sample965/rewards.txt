@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: japans
+Player 1: dominant
+Player 2: wireless
+Player 3: operator,
+Player 4: ntt
+Player 5: docomo
+Player 6: inc.,
+Player 7: reached
+Player 8: basic
+Player 9: agreement
+Player 10: offer
+Player 11: popular
+Player 12: i - mode
+Player 13: mobile
+Player 14: internet
+Player 15: technology
+Player 16: britains
+Player 17: mmo2
+Player 18: plc.
+---------- Rewards ----------
+v(): 2.645467519760132	 ([])
+v(3 4 10 11 13 15 16 17): 6.796063423156738	 ([operator,][ntt][offer][popular][mobile][technology][britains][mmo2])
+v(0 1 2 5 6 7 8 9 12 14 18): 0.8199625015258789	 ([japans][dominant][wireless][docomo][inc.,][reached][basic][agreement][i - mode][internet][plc.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 3.1225297451019287	 ([japans][dominant][wireless][operator,][ntt][docomo][inc.,][reached][basic][agreement][offer][popular][i - mode][mobile][internet][technology][britains][mmo2][plc.])
+---------- Rewards-v() ----------
+v(3 4 10 11 13 15 16 17): 4.150595664978027, EP: 8.700323104858398	 ([operator,][ntt][offer][popular][mobile][technology][britains][mmo2])
+v(0 1 2 5 6 7 8 9 12 14 18): -1.825505018234253, EP: -3.8265552520751953	 ([japans][dominant][wireless][docomo][inc.,][reached][basic][agreement][i - mode][internet][plc.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 0.4770622253417969, EP: 1.0	 ([japans][dominant][wireless][operator,][ntt][docomo][inc.,][reached][basic][agreement][offer][popular][i - mode][mobile][internet][technology][britains][mmo2][plc.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,40 @@
+Execution time: 2025-07-02 19:24:02
+prompt: [CLS] ap - philadelphia defensive end jerome mcdougle missed practice friday because of an irregular heartbeat and was doubtful for the eagles'game this weekend against cleveland. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:4407 decoded_text: philadelphia
+idx:4 input_id:5600 decoded_text: defensive
+idx:5 input_id:2203 decoded_text: end
+idx:6 input_id:11120 decoded_text: jerome
+idx:7 input_id:11338 decoded_text: mc
+idx:8 input_id:26797 decoded_text: ##dou
+idx:9 input_id:9354 decoded_text: ##gle
+idx:10 input_id:4771 decoded_text: missed
+idx:11 input_id:3218 decoded_text: practice
+idx:12 input_id:5958 decoded_text: friday
+idx:13 input_id:2138 decoded_text: because
+idx:14 input_id:1997 decoded_text: of
+idx:15 input_id:2019 decoded_text: an
+idx:16 input_id:12052 decoded_text: irregular
+idx:17 input_id:12251 decoded_text: heartbeat
+idx:18 input_id:1998 decoded_text: and
+idx:19 input_id:2001 decoded_text: was
+idx:20 input_id:21888 decoded_text: doubtful
+idx:21 input_id:2005 decoded_text: for
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:8125 decoded_text: eagles
+idx:24 input_id:1005 decoded_text: '
+idx:25 input_id:2208 decoded_text: game
+idx:26 input_id:2023 decoded_text: this
+idx:27 input_id:5353 decoded_text: weekend
+idx:28 input_id:2114 decoded_text: against
+idx:29 input_id:6044 decoded_text: cleveland
+idx:30 input_id:1012 decoded_text: .
+idx:31 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.209522008895874, 8.487066268920898, -2.833268642425537, -1.9269894361495972]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

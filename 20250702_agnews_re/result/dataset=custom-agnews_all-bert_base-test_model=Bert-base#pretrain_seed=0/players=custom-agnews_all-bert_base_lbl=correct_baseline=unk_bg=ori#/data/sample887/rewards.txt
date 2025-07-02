@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: india
+Player 1: news :
+Player 2: srinagar,
+Player 3: oct
+Player 4: 9
+Player 5: :
+Player 6: four
+Player 7: indian
+Player 8: soldiers
+Player 9: civilian
+Player 10: killed
+Player 11: suicide
+Player 12: bomber
+Player 13: rammed
+Player 14: car
+Player 15: packed
+Player 16: explosives
+Player 17: army
+Player 18: convoy
+Player 19: jammu
+Player 20: kashmir
+Player 21: saturday.
+---------- Rewards ----------
+v(): -7.4369049072265625	 ([])
+v(0 2 3 4 6 7 8 9 19): 7.801098823547363	 ([india][srinagar,][oct][9][four][indian][soldiers][civilian][jammu])
+v(1 5 10 11 12 13 14 15 16 17 18 20 21): 7.360323905944824	 ([news :][:][killed][suicide][bomber][rammed][car][packed][explosives][army][convoy][kashmir][saturday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 7.904113292694092	 ([india][news :][srinagar,][oct][9][:][four][indian][soldiers][civilian][killed][suicide][bomber][rammed][car][packed][explosives][army][convoy][jammu][kashmir][saturday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 15.341018676757812, EP: 1.0	 ([india][news :][srinagar,][oct][9][:][four][indian][soldiers][civilian][killed][suicide][bomber][rammed][car][packed][explosives][army][convoy][jammu][kashmir][saturday.])
+v(0 2 3 4 6 7 8 9 19): 15.238003730773926, EP: 0.9932850003242493	 ([india][srinagar,][oct][9][four][indian][soldiers][civilian][jammu])
+v(1 5 10 11 12 13 14 15 16 17 18 20 21): 14.797228813171387, EP: 0.9645532369613647	 ([news :][:][killed][suicide][bomber][rammed][car][packed][explosives][army][convoy][kashmir][saturday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

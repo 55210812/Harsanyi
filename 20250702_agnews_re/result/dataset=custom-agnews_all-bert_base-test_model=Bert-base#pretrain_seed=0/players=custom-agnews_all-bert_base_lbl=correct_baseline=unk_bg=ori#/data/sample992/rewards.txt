@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: new
+Player 3: orleans
+Player 4: saints \ monday
+Player 5: acquired
+Player 6: cornerback
+Player 7: mike
+Player 8: mckenzie
+Player 9: future \ conditional
+Player 10: draft
+Player 11: choice
+Player 12: green
+Player 13: bay.
+Player 14: exchange,
+Player 15: the \ packers
+Player 16: received
+Player 17: second - round
+Player 18: pick
+Player 19: 2005
+Player 20: quarterback \ j. t.
+Player 21: o'sullivan.
+---------- Rewards ----------
+v(): -4.3392839431762695	 ([])
+v(1 5 6 7 11): 9.329829216003418	 ([-][acquired][cornerback][mike][choice])
+v(0 2 3 8 9 18 20 21): 9.530529975891113	 ([reuters][new][orleans][mckenzie][future \ conditional][pick][quarterback \ j. t.][o'sullivan.])
+v(4 10 13 14 17): -2.825937271118164	 ([saints \ monday][draft][bay.][exchange,][second - round])
+v(12 15 16 19): 8.642094612121582	 ([green][the \ packers][received][2005])
+v(0 1 2 3 5 6 7 8 9 11 18 20 21): 9.685998916625977	 ([reuters][-][new][orleans][acquired][cornerback][mike][mckenzie][future \ conditional][choice][pick][quarterback \ j. t.][o'sullivan.])
+v(1 4 5 6 7 10 11 13 14 17): 9.647804260253906	 ([-][saints \ monday][acquired][cornerback][mike][draft][choice][bay.][exchange,][second - round])
+v(1 5 6 7 11 12 15 16 19): 9.639670372009277	 ([-][acquired][cornerback][mike][choice][green][the \ packers][received][2005])
+v(0 2 3 4 8 9 10 13 14 17 18 20 21): 9.493915557861328	 ([reuters][new][orleans][saints \ monday][mckenzie][future \ conditional][draft][bay.][exchange,][second - round][pick][quarterback \ j. t.][o'sullivan.])
+v(0 2 3 8 9 12 15 16 18 19 20 21): 9.671537399291992	 ([reuters][new][orleans][mckenzie][future \ conditional][green][the \ packers][received][pick][2005][quarterback \ j. t.][o'sullivan.])
+v(4 10 12 13 14 15 16 17 19): 9.566725730895996	 ([saints \ monday][draft][green][bay.][exchange,][the \ packers][received][second - round][2005])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 14 17 18 20 21): 9.45494270324707	 ([reuters][-][new][orleans][saints \ monday][acquired][cornerback][mike][mckenzie][future \ conditional][draft][choice][bay.][exchange,][second - round][pick][quarterback \ j. t.][o'sullivan.])
+v(0 1 2 3 5 6 7 8 9 11 12 15 16 18 19 20 21): 9.599485397338867	 ([reuters][-][new][orleans][acquired][cornerback][mike][mckenzie][future \ conditional][choice][green][the \ packers][received][pick][2005][quarterback \ j. t.][o'sullivan.])
+v(1 4 5 6 7 10 11 12 13 14 15 16 17 19): 9.52285385131836	 ([-][saints \ monday][acquired][cornerback][mike][draft][choice][green][bay.][exchange,][the \ packers][received][second - round][2005])
+v(0 2 3 4 8 9 10 12 13 14 15 16 17 18 19 20 21): 9.480046272277832	 ([reuters][new][orleans][saints \ monday][mckenzie][future \ conditional][draft][green][bay.][exchange,][the \ packers][received][second - round][pick][2005][quarterback \ j. t.][o'sullivan.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.398795127868652	 ([reuters][-][new][orleans][saints \ monday][acquired][cornerback][mike][mckenzie][future \ conditional][draft][choice][green][bay.][exchange,][the \ packers][received][second - round][pick][2005][quarterback \ j. t.][o'sullivan.])
+---------- Rewards-v() ----------
+v(0 1 2 3 5 6 7 8 9 11 18 20 21): 14.025282859802246, EP: 1.020905613899231	 ([reuters][-][new][orleans][acquired][cornerback][mike][mckenzie][future \ conditional][choice][pick][quarterback \ j. t.][o'sullivan.])
+v(0 2 3 8 9 12 15 16 18 19 20 21): 14.010821342468262, EP: 1.0198529958724976	 ([reuters][new][orleans][mckenzie][future \ conditional][green][the \ packers][received][pick][2005][quarterback \ j. t.][o'sullivan.])
+v(1 4 5 6 7 10 11 13 14 17): 13.987088203430176, EP: 1.0181254148483276	 ([-][saints \ monday][acquired][cornerback][mike][draft][choice][bay.][exchange,][second - round])
+v(1 5 6 7 11 12 15 16 19): 13.978954315185547, EP: 1.0175334215164185	 ([-][acquired][cornerback][mike][choice][green][the \ packers][received][2005])
+v(0 1 2 3 5 6 7 8 9 11 12 15 16 18 19 20 21): 13.938769340515137, EP: 1.0146082639694214	 ([reuters][-][new][orleans][acquired][cornerback][mike][mckenzie][future \ conditional][choice][green][the \ packers][received][pick][2005][quarterback \ j. t.][o'sullivan.])
+v(4 10 12 13 14 15 16 17 19): 13.906009674072266, EP: 1.012223720550537	 ([saints \ monday][draft][green][bay.][exchange,][the \ packers][received][second - round][2005])
+v(0 2 3 8 9 18 20 21): 13.869813919067383, EP: 1.0095890760421753	 ([reuters][new][orleans][mckenzie][future \ conditional][pick][quarterback \ j. t.][o'sullivan.])
+v(1 4 5 6 7 10 11 12 13 14 15 16 17 19): 13.862137794494629, EP: 1.0090302228927612	 ([-][saints \ monday][acquired][cornerback][mike][draft][choice][green][bay.][exchange,][the \ packers][received][second - round][2005])
+v(0 2 3 4 8 9 10 13 14 17 18 20 21): 13.833199501037598, EP: 1.006923794746399	 ([reuters][new][orleans][saints \ monday][mckenzie][future \ conditional][draft][bay.][exchange,][second - round][pick][quarterback \ j. t.][o'sullivan.])
+v(0 2 3 4 8 9 10 12 13 14 15 16 17 18 19 20 21): 13.819330215454102, EP: 1.005914330482483	 ([reuters][new][orleans][saints \ monday][mckenzie][future \ conditional][draft][green][bay.][exchange,][the \ packers][received][second - round][pick][2005][quarterback \ j. t.][o'sullivan.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 14 17 18 20 21): 13.79422664642334, EP: 1.004086971282959	 ([reuters][-][new][orleans][saints \ monday][acquired][cornerback][mike][mckenzie][future \ conditional][draft][choice][bay.][exchange,][second - round][pick][quarterback \ j. t.][o'sullivan.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 13.738079071044922, EP: 1.0	 ([reuters][-][new][orleans][saints \ monday][acquired][cornerback][mike][mckenzie][future \ conditional][draft][choice][green][bay.][exchange,][the \ packers][received][second - round][pick][2005][quarterback \ j. t.][o'sullivan.])
+v(1 5 6 7 11): 13.669113159179688, EP: 0.9949799180030823	 ([-][acquired][cornerback][mike][choice])
+v(12 15 16 19): 12.981378555297852, EP: 0.9449194669723511	 ([green][the \ packers][received][2005])
+v(4 10 13 14 17): 1.5133466720581055, EP: 0.1101570799946785	 ([saints \ monday][draft][bay.][exchange,][second - round])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: postponement
+Player 1: two
+Player 2: games
+Player 3: combined
+Player 4: several
+Player 5: enigmatic
+Player 6: performances
+Player 7: rumored
+Player 8: contenders
+Player 9: served
+Player 10: muddle
+Player 11: conference
+Player 12: usa
+Player 13: title
+Player 14: picture
+Player 15: heading
+Player 16: week
+Player 17: 4.
+Player 18: fortunately,
+---------- Rewards ----------
+v(): -4.057854652404785	 ([])
+v(1 2 8 9): 5.671451091766357	 ([two][games][contenders][served])
+v(3 4 7 12 13 16): -3.189763307571411	 ([combined][several][rumored][usa][title][week])
+v(0 5 6 10 11 14 15 17 18): -3.1678473949432373	 ([postponement][enigmatic][performances][muddle][conference][picture][heading][4.][fortunately,])
+v(1 2 3 4 7 8 9 12 13 16): 7.855920791625977	 ([two][games][combined][several][rumored][contenders][served][usa][title][week])
+v(0 1 2 5 6 8 9 10 11 14 15 17 18): 8.755714416503906	 ([postponement][two][games][enigmatic][performances][contenders][served][muddle][conference][picture][heading][4.][fortunately,])
+v(0 3 4 5 6 7 10 11 12 13 14 15 16 17 18): 8.97165298461914	 ([postponement][combined][several][enigmatic][performances][rumored][muddle][conference][usa][title][picture][heading][week][4.][fortunately,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.247065544128418	 ([postponement][two][games][combined][several][enigmatic][performances][rumored][contenders][served][muddle][conference][usa][title][picture][heading][week][4.][fortunately,])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 13.304920196533203, EP: 1.0	 ([postponement][two][games][combined][several][enigmatic][performances][rumored][contenders][served][muddle][conference][usa][title][picture][heading][week][4.][fortunately,])
+v(0 3 4 5 6 7 10 11 12 13 14 15 16 17 18): 13.029507637023926, EP: 0.9792999625205994	 ([postponement][combined][several][enigmatic][performances][rumored][muddle][conference][usa][title][picture][heading][week][4.][fortunately,])
+v(0 1 2 5 6 8 9 10 11 14 15 17 18): 12.813569068908691, EP: 0.9630699753761292	 ([postponement][two][games][enigmatic][performances][contenders][served][muddle][conference][picture][heading][4.][fortunately,])
+v(1 2 3 4 7 8 9 12 13 16): 11.913775444030762, EP: 0.8954413533210754	 ([two][games][combined][several][rumored][contenders][served][usa][title][week])
+v(1 2 8 9): 9.729305267333984, EP: 0.7312561869621277	 ([two][games][contenders][served])
+v(0 5 6 10 11 14 15 17 18): 0.8900072574615479, EP: 0.0668930932879448	 ([postponement][enigmatic][performances][muddle][conference][picture][heading][4.][fortunately,])
+v(3 4 7 12 13 16): 0.868091344833374, EP: 0.06524588912725449	 ([combined][several][rumored][usa][title][week])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,64 @@
+---------- Players ----------
+Player 0: frankfurt,
+Player 1: germany - -
+Player 2: tough
+Player 3: economic
+Player 4: times
+Player 5: germany
+Player 6: made
+Player 7: linux
+Player 8: open
+Player 9: source
+Player 10: software
+Player 11: products
+Player 12: appear
+Player 13: tantalizing
+Player 14: local
+Player 15: businesses.
+Player 16: yet
+Player 17: many
+Player 18: remain
+Player 19: hesitant
+Player 20: dump
+Player 21: microsoft
+Player 22: corp.
+Player 23: software
+Player 24: completely,
+Player 25: reasons
+Player 26: performs
+Player 27: relatively
+Player 28: well,
+Player 29: nearly
+Player 30: everyone
+Player 31: corporate
+Player 32: germany
+Player 33: uses
+Player 34: it.
+Player 35: general
+Player 36: impression
+Player 37: speakers
+Player 38: delivering
+Player 39: presentations
+Player 40: tuesday
+Player 41: linuxworld
+Player 42: conference
+Player 43: frankfurt.
+---------- Rewards ----------
+v(): 3.8291175365448	 ([])
+v(1 2 3 5 6 7 10 21 23 24 31 32 33 34 36 40 41): 7.132485389709473	 ([germany - -][tough][economic][germany][made][linux][software][microsoft][software][completely,][corporate][germany][uses][it.][impression][tuesday][linuxworld])
+v(4 8 9 11 12 13 14 15 16 17 18 19 20 22 25): 6.90701961517334	 ([times][open][source][products][appear][tantalizing][local][businesses.][yet][many][remain][hesitant][dump][corp.][reasons])
+v(0 26 27 28 29 30 35 37 38 39 42 43): 5.005241394042969	 ([frankfurt,][performs][relatively][well,][nearly][everyone][general][speakers][delivering][presentations][conference][frankfurt.])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 31 32 33 34 36 40 41): 8.445110321044922	 ([germany - -][tough][economic][times][germany][made][linux][open][source][software][products][appear][tantalizing][local][businesses.][yet][many][remain][hesitant][dump][microsoft][corp.][software][completely,][reasons][corporate][germany][uses][it.][impression][tuesday][linuxworld])
+v(0 1 2 3 5 6 7 10 21 23 24 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43): 6.379419803619385	 ([frankfurt,][germany - -][tough][economic][germany][made][linux][software][microsoft][software][completely,][performs][relatively][well,][nearly][everyone][corporate][germany][uses][it.][general][impression][speakers][delivering][presentations][tuesday][linuxworld][conference][frankfurt.])
+v(0 4 8 9 11 12 13 14 15 16 17 18 19 20 22 25 26 27 28 29 30 35 37 38 39 42 43): 6.88618803024292	 ([frankfurt,][times][open][source][products][appear][tantalizing][local][businesses.][yet][many][remain][hesitant][dump][corp.][reasons][performs][relatively][well,][nearly][everyone][general][speakers][delivering][presentations][conference][frankfurt.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43): 7.436213493347168	 ([frankfurt,][germany - -][tough][economic][times][germany][made][linux][open][source][software][products][appear][tantalizing][local][businesses.][yet][many][remain][hesitant][dump][microsoft][corp.][software][completely,][reasons][performs][relatively][well,][nearly][everyone][corporate][germany][uses][it.][general][impression][speakers][delivering][presentations][tuesday][linuxworld][conference][frankfurt.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 31 32 33 34 36 40 41): 4.615992546081543, EP: 1.2796977758407593	 ([germany - -][tough][economic][times][germany][made][linux][open][source][software][products][appear][tantalizing][local][businesses.][yet][many][remain][hesitant][dump][microsoft][corp.][software][completely,][reasons][corporate][germany][uses][it.][impression][tuesday][linuxworld])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43): 3.607095956802368, EP: 1.0	 ([frankfurt,][germany - -][tough][economic][times][germany][made][linux][open][source][software][products][appear][tantalizing][local][businesses.][yet][many][remain][hesitant][dump][microsoft][corp.][software][completely,][reasons][performs][relatively][well,][nearly][everyone][corporate][germany][uses][it.][general][impression][speakers][delivering][presentations][tuesday][linuxworld][conference][frankfurt.])
+v(1 2 3 5 6 7 10 21 23 24 31 32 33 34 36 40 41): 3.303367853164673, EP: 0.9157970547676086	 ([germany - -][tough][economic][germany][made][linux][software][microsoft][software][completely,][corporate][germany][uses][it.][impression][tuesday][linuxworld])
+v(4 8 9 11 12 13 14 15 16 17 18 19 20 22 25): 3.07790207862854, EP: 0.853290855884552	 ([times][open][source][products][appear][tantalizing][local][businesses.][yet][many][remain][hesitant][dump][corp.][reasons])
+v(0 4 8 9 11 12 13 14 15 16 17 18 19 20 22 25 26 27 28 29 30 35 37 38 39 42 43): 3.05707049369812, EP: 0.8475157022476196	 ([frankfurt,][times][open][source][products][appear][tantalizing][local][businesses.][yet][many][remain][hesitant][dump][corp.][reasons][performs][relatively][well,][nearly][everyone][general][speakers][delivering][presentations][conference][frankfurt.])
+v(0 1 2 3 5 6 7 10 21 23 24 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43): 2.550302267074585, EP: 0.7070236802101135	 ([frankfurt,][germany - -][tough][economic][germany][made][linux][software][microsoft][software][completely,][performs][relatively][well,][nearly][everyone][corporate][germany][uses][it.][general][impression][speakers][delivering][presentations][tuesday][linuxworld][conference][frankfurt.])
+v(0 26 27 28 29 30 35 37 38 39 42 43): 1.176123857498169, EP: 0.32605838775634766	 ([frankfurt,][performs][relatively][well,][nearly][everyone][general][speakers][delivering][presentations][conference][frankfurt.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: dan
+Player 1: marino,
+Player 2: one - time
+Player 3: recordsetting
+Player 4: quarterback
+Player 5: miami
+Player 6: dolphins
+Player 7: analyst
+Player 8: cbs
+Player 9: sports,
+Player 10: tried
+Player 11: interview
+Player 12: earlier
+Player 13: season
+Player 14: get
+Player 15: colts
+Player 16: quarterback
+Player 17: peyton
+Player 18: manning
+---------- Rewards ----------
+v(): -5.532835006713867	 ([])
+v(4 9 16): 8.814065933227539	 ([quarterback][sports,][quarterback])
+v(0 1 5 6 7 8 14 15): 9.609383583068848	 ([dan][marino,][miami][dolphins][analyst][cbs][get][colts])
+v(17 18): 9.074387550354004	 ([peyton][manning])
+v(2 3 10 11 12 13): -3.529446601867676	 ([one - time][recordsetting][tried][interview][earlier][season])
+v(0 1 4 5 6 7 8 9 14 15 16): 9.746047973632812	 ([dan][marino,][quarterback][miami][dolphins][analyst][cbs][sports,][get][colts][quarterback])
+v(4 9 16 17 18): 9.646627426147461	 ([quarterback][sports,][quarterback][peyton][manning])
+v(2 3 4 9 10 11 12 13 16): 9.702665328979492	 ([one - time][recordsetting][quarterback][sports,][tried][interview][earlier][season][quarterback])
+v(0 1 5 6 7 8 14 15 17 18): 9.745078086853027	 ([dan][marino,][miami][dolphins][analyst][cbs][get][colts][peyton][manning])
+v(0 1 2 3 5 6 7 8 10 11 12 13 14 15): 9.75356388092041	 ([dan][marino,][one - time][recordsetting][miami][dolphins][analyst][cbs][tried][interview][earlier][season][get][colts])
+v(2 3 10 11 12 13 17 18): 9.727882385253906	 ([one - time][recordsetting][tried][interview][earlier][season][peyton][manning])
+v(0 1 4 5 6 7 8 9 14 15 16 17 18): 9.776616096496582	 ([dan][marino,][quarterback][miami][dolphins][analyst][cbs][sports,][get][colts][quarterback][peyton][manning])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.71170425415039	 ([dan][marino,][one - time][recordsetting][quarterback][miami][dolphins][analyst][cbs][sports,][tried][interview][earlier][season][get][colts][quarterback])
+v(2 3 4 9 10 11 12 13 16 17 18): 9.771184921264648	 ([one - time][recordsetting][quarterback][sports,][tried][interview][earlier][season][quarterback][peyton][manning])
+v(0 1 2 3 5 6 7 8 10 11 12 13 14 15 17 18): 9.766057014465332	 ([dan][marino,][one - time][recordsetting][miami][dolphins][analyst][cbs][tried][interview][earlier][season][get][colts][peyton][manning])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.663941383361816	 ([dan][marino,][one - time][recordsetting][quarterback][miami][dolphins][analyst][cbs][sports,][tried][interview][earlier][season][get][colts][quarterback][peyton][manning])
+---------- Rewards-v() ----------
+v(0 1 4 5 6 7 8 9 14 15 16 17 18): 15.30945110321045, EP: 1.0074143409729004	 ([dan][marino,][quarterback][miami][dolphins][analyst][cbs][sports,][get][colts][quarterback][peyton][manning])
+v(2 3 4 9 10 11 12 13 16 17 18): 15.304019927978516, EP: 1.0070569515228271	 ([one - time][recordsetting][quarterback][sports,][tried][interview][earlier][season][quarterback][peyton][manning])
+v(0 1 2 3 5 6 7 8 10 11 12 13 14 15 17 18): 15.2988920211792, EP: 1.0067195892333984	 ([dan][marino,][one - time][recordsetting][miami][dolphins][analyst][cbs][tried][interview][earlier][season][get][colts][peyton][manning])
+v(0 1 2 3 5 6 7 8 10 11 12 13 14 15): 15.286398887634277, EP: 1.0058975219726562	 ([dan][marino,][one - time][recordsetting][miami][dolphins][analyst][cbs][tried][interview][earlier][season][get][colts])
+v(0 1 4 5 6 7 8 9 14 15 16): 15.27888298034668, EP: 1.00540292263031	 ([dan][marino,][quarterback][miami][dolphins][analyst][cbs][sports,][get][colts][quarterback])
+v(0 1 5 6 7 8 14 15 17 18): 15.277913093566895, EP: 1.0053390264511108	 ([dan][marino,][miami][dolphins][analyst][cbs][get][colts][peyton][manning])
+v(2 3 10 11 12 13 17 18): 15.260717391967773, EP: 1.0042074918746948	 ([one - time][recordsetting][tried][interview][earlier][season][peyton][manning])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 15.244539260864258, EP: 1.0031429529190063	 ([dan][marino,][one - time][recordsetting][quarterback][miami][dolphins][analyst][cbs][sports,][tried][interview][earlier][season][get][colts][quarterback])
+v(2 3 4 9 10 11 12 13 16): 15.23550033569336, EP: 1.0025482177734375	 ([one - time][recordsetting][quarterback][sports,][tried][interview][earlier][season][quarterback])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 15.196776390075684, EP: 1.0	 ([dan][marino,][one - time][recordsetting][quarterback][miami][dolphins][analyst][cbs][sports,][tried][interview][earlier][season][get][colts][quarterback][peyton][manning])
+v(4 9 16 17 18): 15.179462432861328, EP: 0.9988606572151184	 ([quarterback][sports,][quarterback][peyton][manning])
+v(0 1 5 6 7 8 14 15): 15.142218589782715, EP: 0.9964098930358887	 ([dan][marino,][miami][dolphins][analyst][cbs][get][colts])
+v(17 18): 14.607222557067871, EP: 0.9612053632736206	 ([peyton][manning])
+v(4 9 16): 14.346900939941406, EP: 0.9440752863883972	 ([quarterback][sports,][quarterback])
+v(2 3 10 11 12 13): 2.0033884048461914, EP: 0.13182982802391052	 ([one - time][recordsetting][tried][interview][earlier][season])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

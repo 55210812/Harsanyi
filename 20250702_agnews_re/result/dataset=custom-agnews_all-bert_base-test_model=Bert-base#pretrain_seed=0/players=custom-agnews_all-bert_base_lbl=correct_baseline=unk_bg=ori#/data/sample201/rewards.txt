@@ -1,0 +1,25 @@
+---------- Players ----------
+Player 0: net's
+Player 1: lonelier
+Player 2: place
+Player 3: users
+Player 4: paypal
+Player 5: msn
+Player 6: instant
+Player 7: messenger.
+Player 8: blame
+Player 9: software
+Player 10: glitch
+Player 11: suspected
+Player 12: virus.
+---------- Rewards ----------
+v(): 2.1822128295898438	 ([])
+v(0 1 2 7 8 10 11 12): 7.932032585144043	 ([net's][lonelier][place][messenger.][blame][glitch][suspected][virus.])
+v(3 4 5 6 9): 5.407379150390625	 ([users][paypal][msn][instant][software])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 7.543264389038086	 ([net's][lonelier][place][users][paypal][msn][instant][messenger.][blame][software][glitch][suspected][virus.])
+---------- Rewards-v() ----------
+v(0 1 2 7 8 10 11 12): 5.749819755554199, EP: 1.0725171566009521	 ([net's][lonelier][place][messenger.][blame][glitch][suspected][virus.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 5.361051559448242, EP: 1.0	 ([net's][lonelier][place][users][paypal][msn][instant][messenger.][blame][software][glitch][suspected][virus.])
+v(3 4 5 6 9): 3.2251663208007812, EP: 0.6015921235084534	 ([users][paypal][msn][instant][software])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,41 @@
+Execution time: 2025-07-02 19:34:04
+prompt: [CLS] the european commission has opened a probe into microsoft # 39 ; s and time warner # 39 ; s plans to buy anti - piracy software manufacturer contentguard. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2647 decoded_text: european
+idx:3 input_id:3222 decoded_text: commission
+idx:4 input_id:2038 decoded_text: has
+idx:5 input_id:2441 decoded_text: opened
+idx:6 input_id:1037 decoded_text: a
+idx:7 input_id:15113 decoded_text: probe
+idx:8 input_id:2046 decoded_text: into
+idx:9 input_id:7513 decoded_text: microsoft
+idx:10 input_id:1001 decoded_text: #
+idx:11 input_id:4464 decoded_text: 39
+idx:12 input_id:1025 decoded_text: ;
+idx:13 input_id:1055 decoded_text: s
+idx:14 input_id:1998 decoded_text: and
+idx:15 input_id:2051 decoded_text: time
+idx:16 input_id:6654 decoded_text: warner
+idx:17 input_id:1001 decoded_text: #
+idx:18 input_id:4464 decoded_text: 39
+idx:19 input_id:1025 decoded_text: ;
+idx:20 input_id:1055 decoded_text: s
+idx:21 input_id:3488 decoded_text: plans
+idx:22 input_id:2000 decoded_text: to
+idx:23 input_id:4965 decoded_text: buy
+idx:24 input_id:3424 decoded_text: anti
+idx:25 input_id:1011 decoded_text: -
+idx:26 input_id:24386 decoded_text: piracy
+idx:27 input_id:4007 decoded_text: software
+idx:28 input_id:7751 decoded_text: manufacturer
+idx:29 input_id:4180 decoded_text: content
+idx:30 input_id:18405 decoded_text: ##guard
+idx:31 input_id:1012 decoded_text: .
+idx:32 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.402341604232788, -4.372899055480957, 5.926191806793213, -0.042825113981962204]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

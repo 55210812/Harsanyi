@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 19:26:04
+prompt: [CLS] microsoft chief bill gates has topped the list of business magazine forbes # 39 ; 400 richest americans list for the ninth consecutive year, while india - born amar gopal bose is ranked 278. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:7513 decoded_text: microsoft
+idx:2 input_id:2708 decoded_text: chief
+idx:3 input_id:3021 decoded_text: bill
+idx:4 input_id:6733 decoded_text: gates
+idx:5 input_id:2038 decoded_text: has
+idx:6 input_id:9370 decoded_text: topped
+idx:7 input_id:1996 decoded_text: the
+idx:8 input_id:2862 decoded_text: list
+idx:9 input_id:1997 decoded_text: of
+idx:10 input_id:2449 decoded_text: business
+idx:11 input_id:2932 decoded_text: magazine
+idx:12 input_id:10822 decoded_text: forbes
+idx:13 input_id:1001 decoded_text: #
+idx:14 input_id:4464 decoded_text: 39
+idx:15 input_id:1025 decoded_text: ;
+idx:16 input_id:4278 decoded_text: 400
+idx:17 input_id:18429 decoded_text: richest
+idx:18 input_id:4841 decoded_text: americans
+idx:19 input_id:2862 decoded_text: list
+idx:20 input_id:2005 decoded_text: for
+idx:21 input_id:1996 decoded_text: the
+idx:22 input_id:6619 decoded_text: ninth
+idx:23 input_id:5486 decoded_text: consecutive
+idx:24 input_id:2095 decoded_text: year
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:2096 decoded_text: while
+idx:27 input_id:2634 decoded_text: india
+idx:28 input_id:1011 decoded_text: -
+idx:29 input_id:2141 decoded_text: born
+idx:30 input_id:23204 decoded_text: amar
+idx:31 input_id:2175 decoded_text: go
+idx:32 input_id:12952 decoded_text: ##pal
+idx:33 input_id:21299 decoded_text: bose
+idx:34 input_id:2003 decoded_text: is
+idx:35 input_id:4396 decoded_text: ranked
+idx:36 input_id:24709 decoded_text: 278
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.818176031112671, -5.134387493133545, 4.606205940246582, 1.207459807395935]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

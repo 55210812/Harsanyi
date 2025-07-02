@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: intel
+Player 3: corp.
+Player 4: unveiled
+Player 5: update
+Player 6: wireless
+Player 7: networking
+Player 8: technology
+Player 9: thursday,
+Player 10: adding
+Player 11: simpler
+Player 12: software,
+Player 13: improved
+Player 14: security
+Player 15: support
+Player 16: robust,
+Player 17: less
+Player 18: interference - prone
+Player 19: radio
+Player 20: standard.
+---------- Rewards ----------
+v(): 0.04764139652252197	 ([])
+v(1 13 14 15 17): 1.0408706665039062	 ([-][improved][security][support][less])
+v(9 10): -1.4996105432510376	 ([thursday,][adding])
+v(4 5 6 7 8 12 18): 5.976715087890625	 ([unveiled][update][wireless][networking][technology][software,][interference - prone])
+v(0 2 3 11 16 19 20): 7.582744121551514	 ([ap][intel][corp.][simpler][robust,][radio][standard.])
+v(1 9 10 13 14 15 17): 0.9608290195465088	 ([-][thursday,][adding][improved][security][support][less])
+v(1 4 5 6 7 8 12 13 14 15 17 18): 6.921694755554199	 ([-][unveiled][update][wireless][networking][technology][software,][improved][security][support][less][interference - prone])
+v(0 1 2 3 11 13 14 15 16 17 19 20): 8.109560012817383	 ([ap][-][intel][corp.][simpler][improved][security][support][robust,][less][radio][standard.])
+v(4 5 6 7 8 9 10 12 18): 5.886543273925781	 ([unveiled][update][wireless][networking][technology][thursday,][adding][software,][interference - prone])
+v(0 2 3 9 10 11 16 19 20): 7.391934871673584	 ([ap][intel][corp.][thursday,][adding][simpler][robust,][radio][standard.])
+v(0 2 3 4 5 6 7 8 11 12 16 18 19 20): 8.047884941101074	 ([ap][intel][corp.][unveiled][update][wireless][networking][technology][simpler][software,][robust,][interference - prone][radio][standard.])
+v(1 4 5 6 7 8 9 10 12 13 14 15 17 18): 6.887624740600586	 ([-][unveiled][update][wireless][networking][technology][thursday,][adding][software,][improved][security][support][less][interference - prone])
+v(0 1 2 3 9 10 11 13 14 15 16 17 19 20): 7.870090961456299	 ([ap][-][intel][corp.][thursday,][adding][simpler][improved][security][support][robust,][less][radio][standard.])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14 15 16 17 18 19 20): 8.399648666381836	 ([ap][-][intel][corp.][unveiled][update][wireless][networking][technology][simpler][software,][improved][security][support][robust,][less][interference - prone][radio][standard.])
+v(0 2 3 4 5 6 7 8 9 10 11 12 16 18 19 20): 7.902096271514893	 ([ap][intel][corp.][unveiled][update][wireless][networking][technology][thursday,][adding][simpler][software,][robust,][interference - prone][radio][standard.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.272915840148926	 ([ap][-][intel][corp.][unveiled][update][wireless][networking][technology][thursday,][adding][simpler][software,][improved][security][support][robust,][less][interference - prone][radio][standard.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 11 12 13 14 15 16 17 18 19 20): 8.352006912231445, EP: 1.015407681465149	 ([ap][-][intel][corp.][unveiled][update][wireless][networking][technology][simpler][software,][improved][security][support][robust,][less][interference - prone][radio][standard.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.225274085998535, EP: 1.0	 ([ap][-][intel][corp.][unveiled][update][wireless][networking][technology][thursday,][adding][simpler][software,][improved][security][support][robust,][less][interference - prone][radio][standard.])
+v(0 1 2 3 11 13 14 15 16 17 19 20): 8.061918258666992, EP: 0.9801397919654846	 ([ap][-][intel][corp.][simpler][improved][security][support][robust,][less][radio][standard.])
+v(0 2 3 4 5 6 7 8 11 12 16 18 19 20): 8.000243186950684, EP: 0.9726415276527405	 ([ap][intel][corp.][unveiled][update][wireless][networking][technology][simpler][software,][robust,][interference - prone][radio][standard.])
+v(0 2 3 4 5 6 7 8 9 10 11 12 16 18 19 20): 7.85445499420166, EP: 0.9549171328544617	 ([ap][intel][corp.][unveiled][update][wireless][networking][technology][thursday,][adding][simpler][software,][robust,][interference - prone][radio][standard.])
+v(0 1 2 3 9 10 11 13 14 15 16 17 19 20): 7.822449684143066, EP: 0.9510260224342346	 ([ap][-][intel][corp.][thursday,][adding][simpler][improved][security][support][robust,][less][radio][standard.])
+v(0 2 3 11 16 19 20): 7.535102844238281, EP: 0.9160913825035095	 ([ap][intel][corp.][simpler][robust,][radio][standard.])
+v(0 2 3 9 10 11 16 19 20): 7.344293594360352, EP: 0.8928934931755066	 ([ap][intel][corp.][thursday,][adding][simpler][robust,][radio][standard.])
+v(1 4 5 6 7 8 12 13 14 15 17 18): 6.874053478240967, EP: 0.835723340511322	 ([-][unveiled][update][wireless][networking][technology][software,][improved][security][support][less][interference - prone])
+v(1 4 5 6 7 8 9 10 12 13 14 15 17 18): 6.8399834632873535, EP: 0.8315812349319458	 ([-][unveiled][update][wireless][networking][technology][thursday,][adding][software,][improved][security][support][less][interference - prone])
+v(4 5 6 7 8 12 18): 5.929073810577393, EP: 0.7208360433578491	 ([unveiled][update][wireless][networking][technology][software,][interference - prone])
+v(4 5 6 7 8 9 10 12 18): 5.838901996612549, EP: 0.7098732590675354	 ([unveiled][update][wireless][networking][technology][thursday,][adding][software,][interference - prone])
+v(9 10): -1.5472519397735596, EP: -0.18810947239398956	 ([thursday,][adding])
+v(1 13 14 15 17): 0.9932292699813843, EP: 0.12075333297252655	 ([-][improved][security][support][less])
+v(1 9 10 13 14 15 17): 0.9131876230239868, EP: 0.11102215200662613	 ([-][thursday,][adding][improved][security][support][less])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

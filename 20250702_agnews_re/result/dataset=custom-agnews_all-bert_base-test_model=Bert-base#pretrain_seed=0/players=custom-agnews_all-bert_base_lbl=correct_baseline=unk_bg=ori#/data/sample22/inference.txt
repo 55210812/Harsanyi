@@ -1,0 +1,39 @@
+Execution time: 2025-07-02 19:18:09
+prompt: [CLS] as many as 12 palestinians died in four separate incidents on saturday in gaza, another day of escalating violence between israeli forces and palestinian militants. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2004 decoded_text: as
+idx:2 input_id:2116 decoded_text: many
+idx:3 input_id:2004 decoded_text: as
+idx:4 input_id:2260 decoded_text: 12
+idx:5 input_id:21524 decoded_text: palestinians
+idx:6 input_id:2351 decoded_text: died
+idx:7 input_id:1999 decoded_text: in
+idx:8 input_id:2176 decoded_text: four
+idx:9 input_id:3584 decoded_text: separate
+idx:10 input_id:10444 decoded_text: incidents
+idx:11 input_id:2006 decoded_text: on
+idx:12 input_id:5095 decoded_text: saturday
+idx:13 input_id:1999 decoded_text: in
+idx:14 input_id:14474 decoded_text: gaza
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:2178 decoded_text: another
+idx:17 input_id:2154 decoded_text: day
+idx:18 input_id:1997 decoded_text: of
+idx:19 input_id:9686 decoded_text: es
+idx:20 input_id:25015 decoded_text: ##cala
+idx:21 input_id:3436 decoded_text: ##ting
+idx:22 input_id:4808 decoded_text: violence
+idx:23 input_id:2090 decoded_text: between
+idx:24 input_id:5611 decoded_text: israeli
+idx:25 input_id:2749 decoded_text: forces
+idx:26 input_id:1998 decoded_text: and
+idx:27 input_id:9302 decoded_text: palestinian
+idx:28 input_id:17671 decoded_text: militants
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.771912097930908, -1.3635342121124268, -3.110208034515381, -1.885884165763855]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: pacers
+Player 1: forward
+Player 2: jonathan
+Player 3: bender
+Player 4: expected
+Player 5: six
+Player 6: weeks
+Player 7: injured
+Player 8: left
+Player 9: knee.
+Player 10: knee
+Player 11: troubled
+Player 12: bender
+Player 13: entire
+Player 14: career.
+---------- Rewards ----------
+v(): -4.161207675933838	 ([])
+v(0 1 2 4 8): 9.616852760314941	 ([pacers][forward][jonathan][expected][left])
+v(3 5 6 7): -5.207447052001953	 ([bender][six][weeks][injured])
+v(9 10 11 12 13 14): 5.075785160064697	 ([knee.][knee][troubled][bender][entire][career.])
+v(0 1 2 3 4 5 6 7 8): 9.782571792602539	 ([pacers][forward][jonathan][bender][expected][six][weeks][injured][left])
+v(0 1 2 4 8 9 10 11 12 13 14): 9.773571968078613	 ([pacers][forward][jonathan][expected][left][knee.][knee][troubled][bender][entire][career.])
+v(3 5 6 7 9 10 11 12 13 14): 6.834909915924072	 ([bender][six][weeks][injured][knee.][knee][troubled][bender][entire][career.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 9.18783187866211	 ([pacers][forward][jonathan][bender][expected][six][weeks][injured][left][knee.][knee][troubled][bender][entire][career.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8): 13.943778991699219, EP: 1.0445530414581299	 ([pacers][forward][jonathan][bender][expected][six][weeks][injured][left])
+v(0 1 2 4 8 9 10 11 12 13 14): 13.93478012084961, EP: 1.0438789129257202	 ([pacers][forward][jonathan][expected][left][knee.][knee][troubled][bender][entire][career.])
+v(0 1 2 4 8): 13.778060913085938, EP: 1.0321388244628906	 ([pacers][forward][jonathan][expected][left])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 13.349039077758789, EP: 1.0	 ([pacers][forward][jonathan][bender][expected][six][weeks][injured][left][knee.][knee][troubled][bender][entire][career.])
+v(3 5 6 7 9 10 11 12 13 14): 10.99611759185791, EP: 0.8237385153770447	 ([bender][six][weeks][injured][knee.][knee][troubled][bender][entire][career.])
+v(9 10 11 12 13 14): 9.236992835998535, EP: 0.6919593811035156	 ([knee.][knee][troubled][bender][entire][career.])
+v(3 5 6 7): -1.0462393760681152, EP: -0.07837563008069992	 ([bender][six][weeks][injured])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

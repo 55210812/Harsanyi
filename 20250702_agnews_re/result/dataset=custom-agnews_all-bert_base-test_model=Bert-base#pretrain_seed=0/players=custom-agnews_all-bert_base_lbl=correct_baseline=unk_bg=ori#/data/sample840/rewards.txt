@@ -1,0 +1,59 @@
+---------- Players ----------
+Player 0: ford
+Player 1: motor
+Player 2: co.
+Player 3: posted
+Player 4: fourth
+Player 5: consecutive
+Player 6: month
+Player 7: weaker
+Player 8: u. s.
+Player 9: sales
+Player 10: 7
+Player 11: percent
+Player 12: drop
+Player 13: september
+Player 14: results
+Player 15: friday,
+Player 16: automaker
+Player 17: doubled
+Player 18: incentives
+Player 19: models
+Player 20: kick - start
+Player 21: sales
+Player 22: month.
+---------- Rewards ----------
+v(): -5.193660736083984	 ([])
+v(1 2 14 15 19 22): 6.346059799194336	 ([motor][co.][results][friday,][models][month.])
+v(7 8 9 20 21): 6.148519515991211	 ([weaker][u. s.][sales][kick - start][sales])
+v(0 3 4 5 6 16 17 18): 8.270291328430176	 ([ford][posted][fourth][consecutive][month][automaker][doubled][incentives])
+v(10 11 12 13): 2.707247734069824	 ([7][percent][drop][september])
+v(1 2 7 8 9 14 15 19 20 21 22): 8.082876205444336	 ([motor][co.][weaker][u. s.][sales][results][friday,][models][kick - start][sales][month.])
+v(0 1 2 3 4 5 6 14 15 16 17 18 19 22): 7.681923866271973	 ([ford][motor][co.][posted][fourth][consecutive][month][results][friday,][automaker][doubled][incentives][models][month.])
+v(1 2 10 11 12 13 14 15 19 22): 7.449071884155273	 ([motor][co.][7][percent][drop][september][results][friday,][models][month.])
+v(0 3 4 5 6 7 8 9 16 17 18 20 21): 8.197254180908203	 ([ford][posted][fourth][consecutive][month][weaker][u. s.][sales][automaker][doubled][incentives][kick - start][sales])
+v(7 8 9 10 11 12 13 20 21): 7.255927085876465	 ([weaker][u. s.][sales][7][percent][drop][september][kick - start][sales])
+v(0 3 4 5 6 10 11 12 13 16 17 18): 8.274115562438965	 ([ford][posted][fourth][consecutive][month][7][percent][drop][september][automaker][doubled][incentives])
+v(0 1 2 3 4 5 6 7 8 9 14 15 16 17 18 19 20 21 22): 7.576462745666504	 ([ford][motor][co.][posted][fourth][consecutive][month][weaker][u. s.][sales][results][friday,][automaker][doubled][incentives][models][kick - start][sales][month.])
+v(1 2 7 8 9 10 11 12 13 14 15 19 20 21 22): 8.251978874206543	 ([motor][co.][weaker][u. s.][sales][7][percent][drop][september][results][friday,][models][kick - start][sales][month.])
+v(0 1 2 3 4 5 6 10 11 12 13 14 15 16 17 18 19 22): 7.875211715698242	 ([ford][motor][co.][posted][fourth][consecutive][month][7][percent][drop][september][results][friday,][automaker][doubled][incentives][models][month.])
+v(0 3 4 5 6 7 8 9 10 11 12 13 16 17 18 20 21): 8.276363372802734	 ([ford][posted][fourth][consecutive][month][weaker][u. s.][sales][7][percent][drop][september][automaker][doubled][incentives][kick - start][sales])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.244490623474121	 ([ford][motor][co.][posted][fourth][consecutive][month][weaker][u. s.][sales][7][percent][drop][september][results][friday,][automaker][doubled][incentives][models][kick - start][sales][month.])
+---------- Rewards-v() ----------
+v(0 3 4 5 6 7 8 9 10 11 12 13 16 17 18 20 21): 13.470024108886719, EP: 1.0829602479934692	 ([ford][posted][fourth][consecutive][month][weaker][u. s.][sales][7][percent][drop][september][automaker][doubled][incentives][kick - start][sales])
+v(0 3 4 5 6 10 11 12 13 16 17 18): 13.46777629852295, EP: 1.0827795267105103	 ([ford][posted][fourth][consecutive][month][7][percent][drop][september][automaker][doubled][incentives])
+v(0 3 4 5 6 16 17 18): 13.46395206451416, EP: 1.0824720859527588	 ([ford][posted][fourth][consecutive][month][automaker][doubled][incentives])
+v(1 2 7 8 9 10 11 12 13 14 15 19 20 21 22): 13.445639610290527, EP: 1.0809998512268066	 ([motor][co.][weaker][u. s.][sales][7][percent][drop][september][results][friday,][models][kick - start][sales][month.])
+v(0 3 4 5 6 7 8 9 16 17 18 20 21): 13.390914916992188, EP: 1.0766000747680664	 ([ford][posted][fourth][consecutive][month][weaker][u. s.][sales][automaker][doubled][incentives][kick - start][sales])
+v(1 2 7 8 9 14 15 19 20 21 22): 13.27653694152832, EP: 1.0674043893814087	 ([motor][co.][weaker][u. s.][sales][results][friday,][models][kick - start][sales][month.])
+v(0 1 2 3 4 5 6 10 11 12 13 14 15 16 17 18 19 22): 13.068872451782227, EP: 1.050708532333374	 ([ford][motor][co.][posted][fourth][consecutive][month][7][percent][drop][september][results][friday,][automaker][doubled][incentives][models][month.])
+v(0 1 2 3 4 5 6 14 15 16 17 18 19 22): 12.875584602355957, EP: 1.0351686477661133	 ([ford][motor][co.][posted][fourth][consecutive][month][results][friday,][automaker][doubled][incentives][models][month.])
+v(0 1 2 3 4 5 6 7 8 9 14 15 16 17 18 19 20 21 22): 12.770123481750488, EP: 1.026689887046814	 ([ford][motor][co.][posted][fourth][consecutive][month][weaker][u. s.][sales][results][friday,][automaker][doubled][incentives][models][kick - start][sales][month.])
+v(1 2 10 11 12 13 14 15 19 22): 12.642732620239258, EP: 1.016447901725769	 ([motor][co.][7][percent][drop][september][results][friday,][models][month.])
+v(7 8 9 10 11 12 13 20 21): 12.44958782196045, EP: 1.0009194612503052	 ([weaker][u. s.][sales][7][percent][drop][september][kick - start][sales])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 12.438151359558105, EP: 1.0	 ([ford][motor][co.][posted][fourth][consecutive][month][weaker][u. s.][sales][7][percent][drop][september][results][friday,][automaker][doubled][incentives][models][kick - start][sales][month.])
+v(1 2 14 15 19 22): 11.53972053527832, EP: 0.9277681112289429	 ([motor][co.][results][friday,][models][month.])
+v(7 8 9 20 21): 11.342180252075195, EP: 0.9118863344192505	 ([weaker][u. s.][sales][kick - start][sales])
+v(10 11 12 13): 7.900908470153809, EP: 0.6352156400680542	 ([7][percent][drop][september])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

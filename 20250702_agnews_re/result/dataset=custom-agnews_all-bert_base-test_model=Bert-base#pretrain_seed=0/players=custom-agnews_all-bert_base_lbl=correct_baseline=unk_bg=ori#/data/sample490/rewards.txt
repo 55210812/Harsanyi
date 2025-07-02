@@ -1,0 +1,53 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: new
+Player 3: england
+Player 4: patriots
+Player 5: signed
+Player 6: first - round
+Player 7: draft
+Player 8: pick
+Player 9: benjamin
+Player 10: watson
+Player 11: monday,
+Player 12: ending
+Player 13: tight
+Player 14: end's
+Player 15: lengthy
+Player 16: holdout.
+---------- Rewards ----------
+v(): -5.1944732666015625	 ([])
+v(7 8): 7.912400722503662	 ([draft][pick])
+v(13 14): 3.6241133213043213	 ([tight][end's])
+v(1 3 4 6 9 11 16): 9.430482864379883	 ([-][england][patriots][first - round][benjamin][monday,][holdout.])
+v(0 2 5 10 12 15): -6.546230792999268	 ([ap][new][signed][watson][ending][lengthy])
+v(7 8 13 14): 9.393757820129395	 ([draft][pick][tight][end's])
+v(1 3 4 6 7 8 9 11 16): 9.549752235412598	 ([-][england][patriots][first - round][draft][pick][benjamin][monday,][holdout.])
+v(0 2 5 7 8 10 12 15): 9.624991416931152	 ([ap][new][signed][draft][pick][watson][ending][lengthy])
+v(1 3 4 6 9 11 13 14 16): 9.722153663635254	 ([-][england][patriots][first - round][benjamin][monday,][tight][end's][holdout.])
+v(0 2 5 10 12 13 14 15): 4.559214115142822	 ([ap][new][signed][watson][ending][tight][end's][lengthy])
+v(0 1 2 3 4 5 6 9 10 11 12 15 16): 9.667869567871094	 ([ap][-][new][england][patriots][signed][first - round][benjamin][watson][monday,][ending][lengthy][holdout.])
+v(1 3 4 6 7 8 9 11 13 14 16): 9.600995063781738	 ([-][england][patriots][first - round][draft][pick][benjamin][monday,][tight][end's][holdout.])
+v(0 2 5 7 8 10 12 13 14 15): 9.50168514251709	 ([ap][new][signed][draft][pick][watson][ending][tight][end's][lengthy])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 15 16): 9.628351211547852	 ([ap][-][new][england][patriots][signed][first - round][draft][pick][benjamin][watson][monday,][ending][lengthy][holdout.])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 15 16): 9.661685943603516	 ([ap][-][new][england][patriots][signed][first - round][benjamin][watson][monday,][ending][tight][end's][lengthy][holdout.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.589397430419922	 ([ap][-][new][england][patriots][signed][first - round][draft][pick][benjamin][watson][monday,][ending][tight][end's][lengthy][holdout.])
+---------- Rewards-v() ----------
+v(1 3 4 6 9 11 13 14 16): 14.916626930236816, EP: 1.0089797973632812	 ([-][england][patriots][first - round][benjamin][monday,][tight][end's][holdout.])
+v(0 1 2 3 4 5 6 9 10 11 12 15 16): 14.862342834472656, EP: 1.005307912826538	 ([ap][-][new][england][patriots][signed][first - round][benjamin][watson][monday,][ending][lengthy][holdout.])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 15 16): 14.856159210205078, EP: 1.004889726638794	 ([ap][-][new][england][patriots][signed][first - round][benjamin][watson][monday,][ending][tight][end's][lengthy][holdout.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 15 16): 14.822824478149414, EP: 1.002634882926941	 ([ap][-][new][england][patriots][signed][first - round][draft][pick][benjamin][watson][monday,][ending][lengthy][holdout.])
+v(0 2 5 7 8 10 12 15): 14.819464683532715, EP: 1.0024076700210571	 ([ap][new][signed][draft][pick][watson][ending][lengthy])
+v(1 3 4 6 7 8 9 11 13 14 16): 14.7954683303833, EP: 1.0007845163345337	 ([-][england][patriots][first - round][draft][pick][benjamin][monday,][tight][end's][holdout.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 14.783870697021484, EP: 1.0	 ([ap][-][new][england][patriots][signed][first - round][draft][pick][benjamin][watson][monday,][ending][tight][end's][lengthy][holdout.])
+v(1 3 4 6 7 8 9 11 16): 14.74422550201416, EP: 0.9973183274269104	 ([-][england][patriots][first - round][draft][pick][benjamin][monday,][holdout.])
+v(0 2 5 7 8 10 12 13 14 15): 14.696158409118652, EP: 0.9940670132637024	 ([ap][new][signed][draft][pick][watson][ending][tight][end's][lengthy])
+v(1 3 4 6 9 11 16): 14.624956130981445, EP: 0.9892508387565613	 ([-][england][patriots][first - round][benjamin][monday,][holdout.])
+v(7 8 13 14): 14.588231086730957, EP: 0.9867666959762573	 ([draft][pick][tight][end's])
+v(7 8): 13.106874465942383, EP: 0.8865658044815063	 ([draft][pick])
+v(0 2 5 10 12 13 14 15): 9.753686904907227, EP: 0.6597518920898438	 ([ap][new][signed][watson][ending][tight][end's][lengthy])
+v(13 14): 8.818586349487305, EP: 0.5965005159378052	 ([tight][end's])
+v(0 2 5 10 12 15): -1.351757526397705, EP: -0.09143461287021637	 ([ap][new][signed][watson][ending][lengthy])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

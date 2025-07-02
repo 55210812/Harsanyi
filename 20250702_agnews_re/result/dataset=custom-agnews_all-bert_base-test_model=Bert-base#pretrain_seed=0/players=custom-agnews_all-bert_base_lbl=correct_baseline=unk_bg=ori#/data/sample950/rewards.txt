@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: radical
+Player 1: muslim
+Player 2: cleric
+Player 3: abu
+Player 4: hamza
+Player 5: set
+Player 6: charged
+Player 7: terrorism
+Player 8: act,
+Player 9: legal
+Player 10: sources
+Player 11: said.
+Player 12: hamza
+Player 13: facing
+Player 14: separate
+Player 15: extradition
+Player 16: proceedings
+Player 17: us,
+Player 18: officials
+Player 19: accused
+Player 20: playing
+---------- Rewards ----------
+v(): -7.265893936157227	 ([])
+v(1 2 4 6 7 8 12 15 20): 7.78647518157959	 ([muslim][cleric][hamza][charged][terrorism][act,][hamza][extradition][playing])
+v(0 3 5 9 10 11 13 14 16 17 18 19): 4.444955348968506	 ([radical][abu][set][legal][sources][said.][facing][separate][proceedings][us,][officials][accused])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.237256050109863	 ([radical][muslim][cleric][abu][hamza][set][charged][terrorism][act,][legal][sources][said.][hamza][facing][separate][extradition][proceedings][us,][officials][accused][playing])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 15.50314998626709, EP: 1.0	 ([radical][muslim][cleric][abu][hamza][set][charged][terrorism][act,][legal][sources][said.][hamza][facing][separate][extradition][proceedings][us,][officials][accused][playing])
+v(1 2 4 6 7 8 12 15 20): 15.052369117736816, EP: 0.9709232449531555	 ([muslim][cleric][hamza][charged][terrorism][act,][hamza][extradition][playing])
+v(0 3 5 9 10 11 13 14 16 17 18 19): 11.71084976196289, EP: 0.755385160446167	 ([radical][abu][set][legal][sources][said.][facing][separate][proceedings][us,][officials][accused])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

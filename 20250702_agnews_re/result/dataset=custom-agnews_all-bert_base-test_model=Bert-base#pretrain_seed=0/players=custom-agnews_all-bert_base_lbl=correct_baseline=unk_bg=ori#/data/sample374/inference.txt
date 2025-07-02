@@ -1,0 +1,35 @@
+Execution time: 2025-07-02 19:26:33
+prompt: [CLS] cuban authorities have erected a huge poster across from the us interests section in havana that depicts us soldiers abusing prisoners in iraq. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9642 decoded_text: cuban
+idx:2 input_id:4614 decoded_text: authorities
+idx:3 input_id:2031 decoded_text: have
+idx:4 input_id:7019 decoded_text: erected
+idx:5 input_id:1037 decoded_text: a
+idx:6 input_id:4121 decoded_text: huge
+idx:7 input_id:13082 decoded_text: poster
+idx:8 input_id:2408 decoded_text: across
+idx:9 input_id:2013 decoded_text: from
+idx:10 input_id:1996 decoded_text: the
+idx:11 input_id:2149 decoded_text: us
+idx:12 input_id:5426 decoded_text: interests
+idx:13 input_id:2930 decoded_text: section
+idx:14 input_id:1999 decoded_text: in
+idx:15 input_id:15278 decoded_text: havana
+idx:16 input_id:2008 decoded_text: that
+idx:17 input_id:11230 decoded_text: depicts
+idx:18 input_id:2149 decoded_text: us
+idx:19 input_id:3548 decoded_text: soldiers
+idx:20 input_id:8273 decoded_text: abu
+idx:21 input_id:7741 decoded_text: ##sing
+idx:22 input_id:5895 decoded_text: prisoners
+idx:23 input_id:1999 decoded_text: in
+idx:24 input_id:5712 decoded_text: iraq
+idx:25 input_id:1012 decoded_text: .
+idx:26 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.723837852478027, -2.05490779876709, -3.2598986625671387, -1.0999059677124023]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

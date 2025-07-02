@@ -1,0 +1,61 @@
+---------- Players ----------
+Player 0: amsterdam / london
+Player 1: ( reuters )
+Player 2: -
+Player 3: intel
+Player 4: nokia
+Player 5: jointly
+Player 6: develop
+Player 7: smart
+Player 8: phones
+Player 9: run
+Player 10: symbian
+Player 11: operating
+Player 12: system,
+Player 13: two
+Player 14: tech
+Player 15: giants
+Player 16: said
+Player 17: tuesday,
+Player 18: unveiling
+Player 19: first
+Player 20: major
+Player 21: cooperative
+Player 22: effort
+Player 23: cell
+Player 24: phones.
+---------- Rewards ----------
+v(): 2.292154312133789	 ([])
+v(4 5 10 12 18 19 21): 5.878048896789551	 ([nokia][jointly][symbian][system,][unveiling][first][cooperative])
+v(6 7 9 14 16 20 22): 4.973702430725098	 ([develop][smart][run][tech][said][major][effort])
+v(0 1 8 11 13 15 17 23 24): 6.383050441741943	 ([amsterdam / london][( reuters )][phones][operating][two][giants][tuesday,][cell][phones.])
+v(2 3): -1.9938504695892334	 ([-][intel])
+v(4 5 6 7 9 10 12 14 16 18 19 20 21 22): 5.870367527008057	 ([nokia][jointly][develop][smart][run][symbian][system,][tech][said][unveiling][first][major][cooperative][effort])
+v(0 1 4 5 8 10 11 12 13 15 17 18 19 21 23 24): 6.9835004806518555	 ([amsterdam / london][( reuters )][nokia][jointly][phones][symbian][operating][system,][two][giants][tuesday,][unveiling][first][cooperative][cell][phones.])
+v(2 3 4 5 10 12 18 19 21): 4.778155326843262	 ([-][intel][nokia][jointly][symbian][system,][unveiling][first][cooperative])
+v(0 1 6 7 8 9 11 13 14 15 16 17 20 22 23 24): 5.76772928237915	 ([amsterdam / london][( reuters )][develop][smart][phones][run][operating][two][tech][giants][said][tuesday,][major][effort][cell][phones.])
+v(2 3 6 7 9 14 16 20 22): 0.1404132843017578	 ([-][intel][develop][smart][run][tech][said][major][effort])
+v(0 1 2 3 8 11 13 15 17 23 24): 3.554952621459961	 ([amsterdam / london][( reuters )][-][intel][phones][operating][two][giants][tuesday,][cell][phones.])
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 5.490765571594238	 ([amsterdam / london][( reuters )][nokia][jointly][develop][smart][phones][run][symbian][operating][system,][two][tech][giants][said][tuesday,][unveiling][first][major][cooperative][effort][cell][phones.])
+v(2 3 4 5 6 7 9 10 12 14 16 18 19 20 21 22): 5.100078582763672	 ([-][intel][nokia][jointly][develop][smart][run][symbian][system,][tech][said][unveiling][first][major][cooperative][effort])
+v(0 1 2 3 4 5 8 10 11 12 13 15 17 18 19 21 23 24): 5.727181434631348	 ([amsterdam / london][( reuters )][-][intel][nokia][jointly][phones][symbian][operating][system,][two][giants][tuesday,][unveiling][first][cooperative][cell][phones.])
+v(0 1 2 3 6 7 8 9 11 13 14 15 16 17 20 22 23 24): 3.4179458618164062	 ([amsterdam / london][( reuters )][-][intel][develop][smart][phones][run][operating][two][tech][giants][said][tuesday,][major][effort][cell][phones.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 4.558502674102783	 ([amsterdam / london][( reuters )][-][intel][nokia][jointly][develop][smart][phones][run][symbian][operating][system,][two][tech][giants][said][tuesday,][unveiling][first][major][cooperative][effort][cell][phones.])
+---------- Rewards-v() ----------
+v(0 1 4 5 8 10 11 12 13 15 17 18 19 21 23 24): 4.691346168518066, EP: 2.070002317428589	 ([amsterdam / london][( reuters )][nokia][jointly][phones][symbian][operating][system,][two][giants][tuesday,][unveiling][first][cooperative][cell][phones.])
+v(2 3): -4.286005020141602, EP: -1.8911501169204712	 ([-][intel])
+v(0 1 8 11 13 15 17 23 24): 4.090896129608154, EP: 1.805060625076294	 ([amsterdam / london][( reuters )][phones][operating][two][giants][tuesday,][cell][phones.])
+v(4 5 10 12 18 19 21): 3.5858945846557617, EP: 1.582234501838684	 ([nokia][jointly][symbian][system,][unveiling][first][cooperative])
+v(4 5 6 7 9 10 12 14 16 18 19 20 21 22): 3.5782132148742676, EP: 1.5788451433181763	 ([nokia][jointly][develop][smart][run][symbian][system,][tech][said][unveiling][first][major][cooperative][effort])
+v(0 1 6 7 8 9 11 13 14 15 16 17 20 22 23 24): 3.4755749702453613, EP: 1.5335572957992554	 ([amsterdam / london][( reuters )][develop][smart][phones][run][operating][two][tech][giants][said][tuesday,][major][effort][cell][phones.])
+v(0 1 2 3 4 5 8 10 11 12 13 15 17 18 19 21 23 24): 3.4350271224975586, EP: 1.5156660079956055	 ([amsterdam / london][( reuters )][-][intel][nokia][jointly][phones][symbian][operating][system,][two][giants][tuesday,][unveiling][first][cooperative][cell][phones.])
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 3.198611259460449, EP: 1.4113502502441406	 ([amsterdam / london][( reuters )][nokia][jointly][develop][smart][phones][run][symbian][operating][system,][two][tech][giants][said][tuesday,][unveiling][first][major][cooperative][effort][cell][phones.])
+v(2 3 4 5 6 7 9 10 12 14 16 18 19 20 21 22): 2.807924270629883, EP: 1.2389640808105469	 ([-][intel][nokia][jointly][develop][smart][run][symbian][system,][tech][said][unveiling][first][major][cooperative][effort])
+v(6 7 9 14 16 20 22): 2.6815481185913086, EP: 1.1832021474838257	 ([develop][smart][run][tech][said][major][effort])
+v(2 3 4 5 10 12 18 19 21): 2.4860010147094727, EP: 1.0969191789627075	 ([-][intel][nokia][jointly][symbian][system,][unveiling][first][cooperative])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 2.266348361968994, EP: 1.0	 ([amsterdam / london][( reuters )][-][intel][nokia][jointly][develop][smart][phones][run][symbian][operating][system,][two][tech][giants][said][tuesday,][unveiling][first][major][cooperative][effort][cell][phones.])
+v(2 3 6 7 9 14 16 20 22): -2.1517410278320312, EP: -0.9494308233261108	 ([-][intel][develop][smart][run][tech][said][major][effort])
+v(0 1 2 3 8 11 13 15 17 23 24): 1.2627983093261719, EP: 0.5571951270103455	 ([amsterdam / london][( reuters )][-][intel][phones][operating][two][giants][tuesday,][cell][phones.])
+v(0 1 2 3 6 7 8 9 11 13 14 15 16 17 20 22 23 24): 1.1257915496826172, EP: 0.49674248695373535	 ([amsterdam / london][( reuters )][-][intel][develop][smart][phones][run][operating][two][tech][giants][said][tuesday,][major][effort][cell][phones.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

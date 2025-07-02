@@ -1,0 +1,68 @@
+---------- Players ----------
+Player 0: e. j.
+Player 1: mundell,
+Player 2: healthday
+Player 3: reporter
+Player 4: drugs
+Player 5: market
+Player 6: offer
+Player 7: arthritis
+Player 8: relief,
+Player 9: experts
+Player 10: say
+Player 11: healthdaynews
+Player 12: - -
+Player 13: day
+Player 14: one
+Player 15: largest
+Player 16: drug
+Player 17: recalls
+Player 18: history,
+Player 19: america's
+Player 20: 2
+Player 21: million
+Player 22: vioxx
+Player 23: users
+Player 24: left
+Player 25: wondering
+Player 26: what's
+Player 27: next
+Player 28: terms
+Player 29: relieving
+Player 30: arthritis
+Player 31: pain...
+---------- Rewards ----------
+v(): 6.177581787109375	 ([])
+v(3 4 14 16 29 31): 7.600339412689209	 ([reporter][drugs][one][drug][relieving][pain...])
+v(1 7 10 11 18 30): -3.668980360031128	 ([mundell,][arthritis][say][healthdaynews][history,][arthritis])
+v(17 19 23 26 27 28): 6.178170204162598	 ([recalls][america's][users][what's][next][terms])
+v(0 2 5 6 8 9 12 13 15 20 21 22 24 25): -4.309650421142578	 ([e. j.][healthday][market][offer][relief,][experts][- -][day][largest][2][million][vioxx][left][wondering])
+v(1 3 4 7 10 11 14 16 18 29 30 31): 7.002487659454346	 ([mundell,][reporter][drugs][arthritis][say][healthdaynews][one][drug][history,][relieving][arthritis][pain...])
+v(3 4 14 16 17 19 23 26 27 28 29 31): 7.351696014404297	 ([reporter][drugs][one][drug][recalls][america's][users][what's][next][terms][relieving][pain...])
+v(0 2 3 4 5 6 8 9 12 13 14 15 16 20 21 22 24 25 29 31): 7.680588722229004	 ([e. j.][healthday][reporter][drugs][market][offer][relief,][experts][- -][day][one][largest][drug][2][million][vioxx][left][wondering][relieving][pain...])
+v(1 7 10 11 17 18 19 23 26 27 28 30): 1.589843511581421	 ([mundell,][arthritis][say][healthdaynews][recalls][history,][america's][users][what's][next][terms][arthritis])
+v(0 1 2 5 6 7 8 9 10 11 12 13 15 18 20 21 22 24 25 30): -6.824525833129883	 ([e. j.][mundell,][healthday][market][offer][arthritis][relief,][experts][say][healthdaynews][- -][day][largest][history,][2][million][vioxx][left][wondering][arthritis])
+v(0 2 5 6 8 9 12 13 15 17 19 20 21 22 23 24 25 26 27 28): -0.45570874214172363	 ([e. j.][healthday][market][offer][relief,][experts][- -][day][largest][recalls][america's][2][million][vioxx][users][left][wondering][what's][next][terms])
+v(1 3 4 7 10 11 14 16 17 18 19 23 26 27 28 29 30 31): 7.023193359375	 ([mundell,][reporter][drugs][arthritis][say][healthdaynews][one][drug][recalls][history,][america's][users][what's][next][terms][relieving][arthritis][pain...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 20 21 22 24 25 29 30 31): 7.352980613708496	 ([e. j.][mundell,][healthday][reporter][drugs][market][offer][arthritis][relief,][experts][say][healthdaynews][- -][day][one][largest][drug][history,][2][million][vioxx][left][wondering][relieving][arthritis][pain...])
+v(0 2 3 4 5 6 8 9 12 13 14 15 16 17 19 20 21 22 23 24 25 26 27 28 29 31): 7.510781764984131	 ([e. j.][healthday][reporter][drugs][market][offer][relief,][experts][- -][day][one][largest][drug][recalls][america's][2][million][vioxx][users][left][wondering][what's][next][terms][relieving][pain...])
+v(0 1 2 5 6 7 8 9 10 11 12 13 15 17 18 19 20 21 22 23 24 25 26 27 28 30): -3.2339768409729004	 ([e. j.][mundell,][healthday][market][offer][arthritis][relief,][experts][say][healthdaynews][- -][day][largest][recalls][history,][america's][2][million][vioxx][users][left][wondering][what's][next][terms][arthritis])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31): 7.703044891357422	 ([e. j.][mundell,][healthday][reporter][drugs][market][offer][arthritis][relief,][experts][say][healthdaynews][- -][day][one][largest][drug][recalls][history,][america's][2][million][vioxx][users][left][wondering][what's][next][terms][relieving][arthritis][pain...])
+---------- Rewards-v() ----------
+v(0 1 2 5 6 7 8 9 10 11 12 13 15 18 20 21 22 24 25 30): -13.002107620239258, EP: -8.523384094238281	 ([e. j.][mundell,][healthday][market][offer][arthritis][relief,][experts][say][healthdaynews][- -][day][largest][history,][2][million][vioxx][left][wondering][arthritis])
+v(0 2 5 6 8 9 12 13 15 20 21 22 24 25): -10.487232208251953, EP: -6.874785900115967	 ([e. j.][healthday][market][offer][relief,][experts][- -][day][largest][2][million][vioxx][left][wondering])
+v(1 7 10 11 18 30): -9.846562385559082, EP: -6.4548020362854	 ([mundell,][arthritis][say][healthdaynews][history,][arthritis])
+v(0 1 2 5 6 7 8 9 10 11 12 13 15 17 18 19 20 21 22 23 24 25 26 27 28 30): -9.411558151245117, EP: -6.169640064239502	 ([e. j.][mundell,][healthday][market][offer][arthritis][relief,][experts][say][healthdaynews][- -][day][largest][recalls][history,][america's][2][million][vioxx][users][left][wondering][what's][next][terms][arthritis])
+v(0 2 5 6 8 9 12 13 15 17 19 20 21 22 23 24 25 26 27 28): -6.6332902908325195, EP: -4.3483781814575195	 ([e. j.][healthday][market][offer][relief,][experts][- -][day][largest][recalls][america's][2][million][vioxx][users][left][wondering][what's][next][terms])
+v(1 7 10 11 17 18 19 23 26 27 28 30): -4.587738037109375, EP: -3.007439613342285	 ([mundell,][arthritis][say][healthdaynews][recalls][history,][america's][users][what's][next][terms][arthritis])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31): 1.5254631042480469, EP: 1.0	 ([e. j.][mundell,][healthday][reporter][drugs][market][offer][arthritis][relief,][experts][say][healthdaynews][- -][day][one][largest][drug][recalls][history,][america's][2][million][vioxx][users][left][wondering][what's][next][terms][relieving][arthritis][pain...])
+v(0 2 3 4 5 6 8 9 12 13 14 15 16 20 21 22 24 25 29 31): 1.503006935119629, EP: 0.9852791428565979	 ([e. j.][healthday][reporter][drugs][market][offer][relief,][experts][- -][day][one][largest][drug][2][million][vioxx][left][wondering][relieving][pain...])
+v(3 4 14 16 29 31): 1.422757625579834, EP: 0.9326726198196411	 ([reporter][drugs][one][drug][relieving][pain...])
+v(0 2 3 4 5 6 8 9 12 13 14 15 16 17 19 20 21 22 23 24 25 26 27 28 29 31): 1.3331999778747559, EP: 0.8739640712738037	 ([e. j.][healthday][reporter][drugs][market][offer][relief,][experts][- -][day][one][largest][drug][recalls][america's][2][million][vioxx][users][left][wondering][what's][next][terms][relieving][pain...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 20 21 22 24 25 29 30 31): 1.175398826599121, EP: 0.7705193161964417	 ([e. j.][mundell,][healthday][reporter][drugs][market][offer][arthritis][relief,][experts][say][healthdaynews][- -][day][one][largest][drug][history,][2][million][vioxx][left][wondering][relieving][arthritis][pain...])
+v(3 4 14 16 17 19 23 26 27 28 29 31): 1.1741142272949219, EP: 0.7696772217750549	 ([reporter][drugs][one][drug][recalls][america's][users][what's][next][terms][relieving][pain...])
+v(1 3 4 7 10 11 14 16 17 18 19 23 26 27 28 29 30 31): 0.845611572265625, EP: 0.5543310642242432	 ([mundell,][reporter][drugs][arthritis][say][healthdaynews][one][drug][recalls][history,][america's][users][what's][next][terms][relieving][arthritis][pain...])
+v(1 3 4 7 10 11 14 16 18 29 30 31): 0.8249058723449707, EP: 0.5407576560974121	 ([mundell,][reporter][drugs][arthritis][say][healthdaynews][one][drug][history,][relieving][arthritis][pain...])
+v(17 19 23 26 27 28): 0.0005884170532226562, EP: 0.0003857301198877394	 ([recalls][america's][users][what's][next][terms])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

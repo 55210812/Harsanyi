@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: liverpool,
+Player 1: england
+Player 2: ( sports
+Player 3: network )
+Player 4: -
+Player 5: former
+Player 6: english
+Player 7: international
+Player 8: liverpool
+Player 9: great
+Player 10: emlyn
+Player 11: hughes
+Player 12: passed
+Player 13: away
+Player 14: tuesday
+Player 15: brain
+Player 16: tumor.
+---------- Rewards ----------
+v(): -4.004205226898193	 ([])
+v(1 2 3): 8.78862190246582	 ([england][( sports][network )])
+v(0 4 5 6 7 13): 7.8203558921813965	 ([liverpool,][-][former][english][international][away])
+v(8 9 10 11 12 14 15 16): 9.15446662902832	 ([liverpool][great][emlyn][hughes][passed][tuesday][brain][tumor.])
+v(0 1 2 3 4 5 6 7 13): 9.291122436523438	 ([liverpool,][england][( sports][network )][-][former][english][international][away])
+v(1 2 3 8 9 10 11 12 14 15 16): 9.50233268737793	 ([england][( sports][network )][liverpool][great][emlyn][hughes][passed][tuesday][brain][tumor.])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.401885032653809	 ([liverpool,][-][former][english][international][liverpool][great][emlyn][hughes][passed][away][tuesday][brain][tumor.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.292243003845215	 ([liverpool,][england][( sports][network )][-][former][english][international][liverpool][great][emlyn][hughes][passed][away][tuesday][brain][tumor.])
+---------- Rewards-v() ----------
+v(1 2 3 8 9 10 11 12 14 15 16): 13.506538391113281, EP: 1.0158004760742188	 ([england][( sports][network )][liverpool][great][emlyn][hughes][passed][tuesday][brain][tumor.])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16): 13.406089782714844, EP: 1.0082459449768066	 ([liverpool,][-][former][english][international][liverpool][great][emlyn][hughes][passed][away][tuesday][brain][tumor.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 13.29644775390625, EP: 1.0	 ([liverpool,][england][( sports][network )][-][former][english][international][liverpool][great][emlyn][hughes][passed][away][tuesday][brain][tumor.])
+v(0 1 2 3 4 5 6 7 13): 13.295328140258789, EP: 0.9999157786369324	 ([liverpool,][england][( sports][network )][-][former][english][international][away])
+v(8 9 10 11 12 14 15 16): 13.158672332763672, EP: 0.9896381497383118	 ([liverpool][great][emlyn][hughes][passed][tuesday][brain][tumor.])
+v(1 2 3): 12.792827606201172, EP: 0.962123692035675	 ([england][( sports][network )])
+v(0 4 5 6 7 13): 11.82456111907959, EP: 0.8893022537231445	 ([liverpool,][-][former][english][international][away])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

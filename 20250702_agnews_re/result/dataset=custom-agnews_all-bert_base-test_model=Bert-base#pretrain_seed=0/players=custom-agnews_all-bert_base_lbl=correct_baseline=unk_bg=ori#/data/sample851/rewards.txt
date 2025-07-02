@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: european
+Player 3: union
+Player 4: braced
+Player 5: knife - edge
+Player 6: vote
+Player 7: decide
+Player 8: fate
+Player 9: new
+Player 10: executive
+Player 11: arm
+Player 12: incoming
+Player 13: eu
+Player 14: chief
+Player 15: jose
+Player 16: manuel
+Player 17: barroso
+Player 18: hardening
+Player 19: stance
+Player 20: rebel
+Player 21: legislators.
+---------- Rewards ----------
+v(): -4.221146583557129	 ([])
+v(0 1 2 4 5 17): 8.193443298339844	 ([afp][-][european][braced][knife - edge][barroso])
+v(9 10 11 18 19 20 21): 8.240423202514648	 ([new][executive][arm][hardening][stance][rebel][legislators.])
+v(3 6 12 13 14): 2.0464420318603516	 ([union][vote][incoming][eu][chief])
+v(7 8 15 16): 0.4587169885635376	 ([decide][fate][jose][manuel])
+v(0 1 2 4 5 9 10 11 17 18 19 20 21): 8.516332626342773	 ([afp][-][european][braced][knife - edge][new][executive][arm][barroso][hardening][stance][rebel][legislators.])
+v(0 1 2 3 4 5 6 12 13 14 17): 8.450779914855957	 ([afp][-][european][union][braced][knife - edge][vote][incoming][eu][chief][barroso])
+v(0 1 2 4 5 7 8 15 16 17): 8.550203323364258	 ([afp][-][european][braced][knife - edge][decide][fate][jose][manuel][barroso])
+v(3 6 9 10 11 12 13 14 18 19 20 21): 7.476170539855957	 ([union][vote][new][executive][arm][incoming][eu][chief][hardening][stance][rebel][legislators.])
+v(7 8 9 10 11 15 16 18 19 20 21): 8.409008026123047	 ([decide][fate][new][executive][arm][jose][manuel][hardening][stance][rebel][legislators.])
+v(3 6 7 8 12 13 14 15 16): 3.1310813426971436	 ([union][vote][decide][fate][incoming][eu][chief][jose][manuel])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 17 18 19 20 21): 8.57835578918457	 ([afp][-][european][union][braced][knife - edge][vote][new][executive][arm][incoming][eu][chief][barroso][hardening][stance][rebel][legislators.])
+v(0 1 2 4 5 7 8 9 10 11 15 16 17 18 19 20 21): 8.596981048583984	 ([afp][-][european][braced][knife - edge][decide][fate][new][executive][arm][jose][manuel][barroso][hardening][stance][rebel][legislators.])
+v(0 1 2 3 4 5 6 7 8 12 13 14 15 16 17): 8.565210342407227	 ([afp][-][european][union][braced][knife - edge][vote][decide][fate][incoming][eu][chief][jose][manuel][barroso])
+v(3 6 7 8 9 10 11 12 13 14 15 16 18 19 20 21): 7.736932754516602	 ([union][vote][decide][fate][new][executive][arm][incoming][eu][chief][jose][manuel][hardening][stance][rebel][legislators.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.590982437133789	 ([afp][-][european][union][braced][knife - edge][vote][decide][fate][new][executive][arm][incoming][eu][chief][jose][manuel][barroso][hardening][stance][rebel][legislators.])
+---------- Rewards-v() ----------
+v(0 1 2 4 5 7 8 9 10 11 15 16 17 18 19 20 21): 12.818127632141113, EP: 1.0004682540893555	 ([afp][-][european][braced][knife - edge][decide][fate][new][executive][arm][jose][manuel][barroso][hardening][stance][rebel][legislators.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 12.812129020690918, EP: 1.0	 ([afp][-][european][union][braced][knife - edge][vote][decide][fate][new][executive][arm][incoming][eu][chief][jose][manuel][barroso][hardening][stance][rebel][legislators.])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 17 18 19 20 21): 12.7995023727417, EP: 0.9990144968032837	 ([afp][-][european][union][braced][knife - edge][vote][new][executive][arm][incoming][eu][chief][barroso][hardening][stance][rebel][legislators.])
+v(0 1 2 3 4 5 6 7 8 12 13 14 15 16 17): 12.786356925964355, EP: 0.9979884624481201	 ([afp][-][european][union][braced][knife - edge][vote][decide][fate][incoming][eu][chief][jose][manuel][barroso])
+v(0 1 2 4 5 7 8 15 16 17): 12.771349906921387, EP: 0.9968171715736389	 ([afp][-][european][braced][knife - edge][decide][fate][jose][manuel][barroso])
+v(0 1 2 4 5 9 10 11 17 18 19 20 21): 12.737479209899902, EP: 0.994173526763916	 ([afp][-][european][braced][knife - edge][new][executive][arm][barroso][hardening][stance][rebel][legislators.])
+v(0 1 2 3 4 5 6 12 13 14 17): 12.671926498413086, EP: 0.9890570640563965	 ([afp][-][european][union][braced][knife - edge][vote][incoming][eu][chief][barroso])
+v(7 8 9 10 11 15 16 18 19 20 21): 12.630154609680176, EP: 0.9857966899871826	 ([decide][fate][new][executive][arm][jose][manuel][hardening][stance][rebel][legislators.])
+v(9 10 11 18 19 20 21): 12.461569786071777, EP: 0.9726384878158569	 ([new][executive][arm][hardening][stance][rebel][legislators.])
+v(0 1 2 4 5 17): 12.414589881896973, EP: 0.9689716696739197	 ([afp][-][european][braced][knife - edge][barroso])
+v(3 6 7 8 9 10 11 12 13 14 15 16 18 19 20 21): 11.95807933807373, EP: 0.9333405494689941	 ([union][vote][decide][fate][new][executive][arm][incoming][eu][chief][jose][manuel][hardening][stance][rebel][legislators.])
+v(3 6 9 10 11 12 13 14 18 19 20 21): 11.697317123413086, EP: 0.9129877686500549	 ([union][vote][new][executive][arm][incoming][eu][chief][hardening][stance][rebel][legislators.])
+v(3 6 7 8 12 13 14 15 16): 7.352228164672852, EP: 0.573849081993103	 ([union][vote][decide][fate][incoming][eu][chief][jose][manuel])
+v(3 6 12 13 14): 6.2675886154174805, EP: 0.48919180035591125	 ([union][vote][incoming][eu][chief])
+v(7 8 15 16): 4.679863452911377, EP: 0.36526820063591003	 ([decide][fate][jose][manuel])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

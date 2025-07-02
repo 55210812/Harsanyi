@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: world
+Player 1: # 39 ; s
+Player 2: longest
+Player 3: continually
+Player 4: running
+Player 5: experiment
+Player 6: revealed
+Player 7: traces
+Player 8: plutonium
+Player 9: british
+Player 10: soil
+Player 11: nuclear
+Player 12: tests
+Player 13: nevada
+Player 14: desert
+Player 15: 50
+Player 16: years
+Player 17: ago,
+Player 18: scientists
+Player 19: said
+Player 20: monday.
+---------- Rewards ----------
+v(): 4.484786033630371	 ([])
+v(0 7 13 19): 6.816522598266602	 ([world][traces][nevada][said])
+v(12 14 15 16): 4.756204128265381	 ([tests][desert][50][years])
+v(5 6 8 9 10 17): 1.4783653020858765	 ([experiment][revealed][plutonium][british][soil][ago,])
+v(1 2 3 4 11 18 20): 7.941229343414307	 ([# 39 ; s][longest][continually][running][nuclear][scientists][monday.])
+v(0 7 12 13 14 15 16 19): 7.555556297302246	 ([world][traces][tests][nevada][desert][50][years][said])
+v(0 5 6 7 8 9 10 13 17 19): 2.3171334266662598	 ([world][experiment][revealed][traces][plutonium][british][soil][nevada][ago,][said])
+v(0 1 2 3 4 7 11 13 18 19 20): 8.227396011352539	 ([world][# 39 ; s][longest][continually][running][traces][nuclear][nevada][scientists][said][monday.])
+v(5 6 8 9 10 12 14 15 16 17): 2.0058836936950684	 ([experiment][revealed][plutonium][british][soil][tests][desert][50][years][ago,])
+v(1 2 3 4 11 12 14 15 16 18 20): 7.731598854064941	 ([# 39 ; s][longest][continually][running][nuclear][tests][desert][50][years][scientists][monday.])
+v(1 2 3 4 5 6 8 9 10 11 17 18 20): 1.8708741664886475	 ([# 39 ; s][longest][continually][running][experiment][revealed][plutonium][british][soil][nuclear][ago,][scientists][monday.])
+v(0 5 6 7 8 9 10 12 13 14 15 16 17 19): 3.4190762042999268	 ([world][experiment][revealed][traces][plutonium][british][soil][tests][nevada][desert][50][years][ago,][said])
+v(0 1 2 3 4 7 11 12 13 14 15 16 18 19 20): 8.321895599365234	 ([world][# 39 ; s][longest][continually][running][traces][nuclear][tests][nevada][desert][50][years][scientists][said][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 17 18 19 20): 3.8816425800323486	 ([world][# 39 ; s][longest][continually][running][experiment][revealed][traces][plutonium][british][soil][nuclear][nevada][ago,][scientists][said][monday.])
+v(1 2 3 4 5 6 8 9 10 11 12 14 15 16 17 18 20): 1.3512122631072998	 ([# 39 ; s][longest][continually][running][experiment][revealed][plutonium][british][soil][nuclear][tests][desert][50][years][ago,][scientists][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 5.504070281982422	 ([world][# 39 ; s][longest][continually][running][experiment][revealed][traces][plutonium][british][soil][nuclear][tests][nevada][desert][50][years][ago,][scientists][said][monday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 7 11 12 13 14 15 16 18 19 20): 3.8371095657348633, EP: 3.7645137310028076	 ([world][# 39 ; s][longest][continually][running][traces][nuclear][tests][nevada][desert][50][years][scientists][said][monday.])
+v(0 1 2 3 4 7 11 13 18 19 20): 3.742609977722168, EP: 3.671802043914795	 ([world][# 39 ; s][longest][continually][running][traces][nuclear][nevada][scientists][said][monday.])
+v(1 2 3 4 11 18 20): 3.4564433097839355, EP: 3.391049385070801	 ([# 39 ; s][longest][continually][running][nuclear][scientists][monday.])
+v(1 2 3 4 11 12 14 15 16 18 20): 3.2468128204345703, EP: 3.18538498878479	 ([# 39 ; s][longest][continually][running][nuclear][tests][desert][50][years][scientists][monday.])
+v(1 2 3 4 5 6 8 9 10 11 12 14 15 16 17 18 20): -3.1335737705230713, EP: -3.0742883682250977	 ([# 39 ; s][longest][continually][running][experiment][revealed][plutonium][british][soil][nuclear][tests][desert][50][years][ago,][scientists][monday.])
+v(0 7 12 13 14 15 16 19): 3.070770263671875, EP: 3.0126731395721436	 ([world][traces][tests][nevada][desert][50][years][said])
+v(5 6 8 9 10 17): -3.006420612335205, EP: -2.949540853500366	 ([experiment][revealed][plutonium][british][soil][ago,])
+v(1 2 3 4 5 6 8 9 10 11 17 18 20): -2.6139118671417236, EP: -2.564458131790161	 ([# 39 ; s][longest][continually][running][experiment][revealed][plutonium][british][soil][nuclear][ago,][scientists][monday.])
+v(5 6 8 9 10 12 14 15 16 17): -2.4789023399353027, EP: -2.4320030212402344	 ([experiment][revealed][plutonium][british][soil][tests][desert][50][years][ago,])
+v(0 7 13 19): 2.3317365646362305, EP: 2.28762149810791	 ([world][traces][nevada][said])
+v(0 5 6 7 8 9 10 13 17 19): -2.1676526069641113, EP: -2.1266419887542725	 ([world][experiment][revealed][traces][plutonium][british][soil][nevada][ago,][said])
+v(0 5 6 7 8 9 10 12 13 14 15 16 17 19): -1.0657098293304443, EP: -1.0455472469329834	 ([world][experiment][revealed][traces][plutonium][british][soil][tests][nevada][desert][50][years][ago,][said])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 1.0192842483520508, EP: 1.0	 ([world][# 39 ; s][longest][continually][running][experiment][revealed][traces][plutonium][british][soil][nuclear][tests][nevada][desert][50][years][ago,][scientists][said][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 17 18 19 20): -0.6031434535980225, EP: -0.5917323231697083	 ([world][# 39 ; s][longest][continually][running][experiment][revealed][traces][plutonium][british][soil][nuclear][nevada][ago,][scientists][said][monday.])
+v(12 14 15 16): 0.27141809463500977, EP: 0.2662830352783203	 ([tests][desert][50][years])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

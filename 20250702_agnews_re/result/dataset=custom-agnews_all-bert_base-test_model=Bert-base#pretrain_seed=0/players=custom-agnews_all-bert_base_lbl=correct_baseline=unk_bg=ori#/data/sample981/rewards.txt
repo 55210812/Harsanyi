@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: baltimore
+Player 1: ravens
+Player 2: # 39 ; t
+Player 3: soon
+Player 4: forget
+Player 5: hit
+Player 6: pittsburgh
+Player 7: linebacker
+Player 8: joey
+Player 9: porter
+Player 10: leveled
+Player 11: injured
+Player 12: tight
+Player 13: end
+Player 14: todd
+Player 15: heap
+Player 16: second
+Player 17: quarter
+Player 18: yesterday
+Player 19: # 39 ; s
+Player 20: 30 - 13
+Player 21: rout
+Player 22: steelers.
+---------- Rewards ----------
+v(): -0.4784672260284424	 ([])
+v(0 1 9 21): 9.577071189880371	 ([baltimore][ravens][porter][rout])
+v(2 7 10 14 19 22): 9.63926887512207	 ([# 39 ; t][linebacker][leveled][todd][# 39 ; s][steelers.])
+v(3 4 5 6 8 11 12 13 15 16 17 18 20): 8.89828872680664	 ([soon][forget][hit][pittsburgh][joey][injured][tight][end][heap][second][quarter][yesterday][30 - 13])
+v(0 1 2 7 9 10 14 19 21 22): 9.682100296020508	 ([baltimore][ravens][# 39 ; t][linebacker][porter][leveled][todd][# 39 ; s][rout][steelers.])
+v(0 1 3 4 5 6 8 9 11 12 13 15 16 17 18 20 21): 9.555736541748047	 ([baltimore][ravens][soon][forget][hit][pittsburgh][joey][porter][injured][tight][end][heap][second][quarter][yesterday][30 - 13][rout])
+v(2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 19 20 22): 9.726420402526855	 ([# 39 ; t][soon][forget][hit][pittsburgh][linebacker][joey][leveled][injured][tight][end][todd][heap][second][quarter][yesterday][# 39 ; s][30 - 13][steelers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 9.603291511535645	 ([baltimore][ravens][# 39 ; t][soon][forget][hit][pittsburgh][linebacker][joey][porter][leveled][injured][tight][end][todd][heap][second][quarter][yesterday][# 39 ; s][30 - 13][rout][steelers.])
+---------- Rewards-v() ----------
+v(2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 19 20 22): 10.204887390136719, EP: 1.0122129917144775	 ([# 39 ; t][soon][forget][hit][pittsburgh][linebacker][joey][leveled][injured][tight][end][todd][heap][second][quarter][yesterday][# 39 ; s][30 - 13][steelers.])
+v(0 1 2 7 9 10 14 19 21 22): 10.160567283630371, EP: 1.0078169107437134	 ([baltimore][ravens][# 39 ; t][linebacker][porter][leveled][todd][# 39 ; s][rout][steelers.])
+v(2 7 10 14 19 22): 10.117735862731934, EP: 1.0035685300827026	 ([# 39 ; t][linebacker][leveled][todd][# 39 ; s][steelers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 10.081758499145508, EP: 1.0	 ([baltimore][ravens][# 39 ; t][soon][forget][hit][pittsburgh][linebacker][joey][porter][leveled][injured][tight][end][todd][heap][second][quarter][yesterday][# 39 ; s][30 - 13][rout][steelers.])
+v(0 1 9 21): 10.055538177490234, EP: 0.9973992109298706	 ([baltimore][ravens][porter][rout])
+v(0 1 3 4 5 6 8 9 11 12 13 15 16 17 18 20 21): 10.03420352935791, EP: 0.9952830672264099	 ([baltimore][ravens][soon][forget][hit][pittsburgh][joey][porter][injured][tight][end][heap][second][quarter][yesterday][30 - 13][rout])
+v(3 4 5 6 8 11 12 13 15 16 17 18 20): 9.376755714416504, EP: 0.9300714731216431	 ([soon][forget][hit][pittsburgh][joey][injured][tight][end][heap][second][quarter][yesterday][30 - 13])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

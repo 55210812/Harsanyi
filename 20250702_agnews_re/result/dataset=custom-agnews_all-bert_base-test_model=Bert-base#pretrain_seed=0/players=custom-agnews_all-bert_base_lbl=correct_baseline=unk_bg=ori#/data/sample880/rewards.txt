@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: vodafone
+Player 1: become
+Player 2: first
+Player 3: uk
+Player 4: mobile
+Player 5: phone
+Player 6: operator
+Player 7: offer
+Player 8: research
+Player 9: motion
+Player 10: # 39 ; s
+Player 11: latest
+Player 12: mobile
+Player 13: device,
+Player 14: blackberry
+Player 15: 7100.
+---------- Rewards ----------
+v(): 4.716750144958496	 ([])
+v(4 5 6 8 10 11 12): 5.126049995422363	 ([mobile][phone][operator][research][# 39 ; s][latest][mobile])
+v(2 3 7 15): 5.6178789138793945	 ([first][uk][offer][7100.])
+v(0 1 9 13 14): -2.6778087615966797	 ([vodafone][become][motion][device,][blackberry])
+v(2 3 4 5 6 7 8 10 11 12 15): 7.937878131866455	 ([first][uk][mobile][phone][operator][offer][research][# 39 ; s][latest][mobile][7100.])
+v(0 1 4 5 6 8 9 10 11 12 13 14): -0.7778582572937012	 ([vodafone][become][mobile][phone][operator][research][motion][# 39 ; s][latest][mobile][device,][blackberry])
+v(0 1 2 3 7 9 13 14 15): 4.5663557052612305	 ([vodafone][become][first][uk][offer][motion][device,][blackberry][7100.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 4.287574768066406	 ([vodafone][become][first][uk][mobile][phone][operator][offer][research][motion][# 39 ; s][latest][mobile][device,][blackberry][7100.])
+---------- Rewards-v() ----------
+v(0 1 9 13 14): -7.394558906555176, EP: 17.229690551757812	 ([vodafone][become][motion][device,][blackberry])
+v(0 1 4 5 6 8 9 10 11 12 13 14): -5.494608402252197, EP: 12.802711486816406	 ([vodafone][become][mobile][phone][operator][research][motion][# 39 ; s][latest][mobile][device,][blackberry])
+v(2 3 4 5 6 7 8 10 11 12 15): 3.221127986907959, EP: -7.5053887367248535	 ([first][uk][mobile][phone][operator][offer][research][# 39 ; s][latest][mobile][7100.])
+v(2 3 7 15): 0.9011287689208984, EP: -2.099674940109253	 ([first][uk][offer][7100.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): -0.42917537689208984, EP: 1.0	 ([vodafone][become][first][uk][mobile][phone][operator][offer][research][motion][# 39 ; s][latest][mobile][device,][blackberry][7100.])
+v(4 5 6 8 10 11 12): 0.4092998504638672, EP: -0.9536890387535095	 ([mobile][phone][operator][research][# 39 ; s][latest][mobile])
+v(0 1 2 3 7 9 13 14 15): -0.15039443969726562, EP: 0.3504265248775482	 ([vodafone][become][first][uk][offer][motion][device,][blackberry][7100.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

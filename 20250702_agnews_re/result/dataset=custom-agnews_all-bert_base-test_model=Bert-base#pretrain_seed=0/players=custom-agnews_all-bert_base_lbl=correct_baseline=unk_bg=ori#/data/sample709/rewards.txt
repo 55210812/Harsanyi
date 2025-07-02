@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: semiconductor
+Player 3: giant
+Player 4: intel
+Player 5: corp.
+Player 6: dramatically
+Player 7: raised
+Player 8: range
+Player 9: fourth - quarter
+Player 10: sales
+Player 11: forecast
+Player 12: thursday
+Player 13: benefited
+Player 14: strong
+Player 15: holiday
+Player 16: demand
+Player 17: microprocessors,
+Player 18: brains
+Player 19: personal
+Player 20: computers.
+---------- Rewards ----------
+v(): 4.023308753967285	 ([])
+v(4 5 11 13 15 17 18): 0.7596125602722168	 ([intel][corp.][forecast][benefited][holiday][microprocessors,][brains])
+v(3 7 8 9 12 19 20): 2.390103340148926	 ([giant][raised][range][fourth - quarter][thursday][personal][computers.])
+v(0 1 2 6 10 14 16): -2.8300211429595947	 ([ap][-][semiconductor][dramatically][sales][strong][demand])
+v(3 4 5 7 8 9 11 12 13 15 17 18 19 20): -2.170926094055176	 ([giant][intel][corp.][raised][range][fourth - quarter][forecast][thursday][benefited][holiday][microprocessors,][brains][personal][computers.])
+v(0 1 2 4 5 6 10 11 13 14 15 16 17 18): -0.5069587230682373	 ([ap][-][semiconductor][intel][corp.][dramatically][sales][forecast][benefited][strong][holiday][demand][microprocessors,][brains])
+v(0 1 2 3 6 7 8 9 10 12 14 16 19 20): -3.8090503215789795	 ([ap][-][semiconductor][giant][dramatically][raised][range][fourth - quarter][sales][thursday][strong][demand][personal][computers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): -3.087148666381836	 ([ap][-][semiconductor][giant][intel][corp.][dramatically][raised][range][fourth - quarter][sales][forecast][thursday][benefited][strong][holiday][demand][microprocessors,][brains][personal][computers.])
+---------- Rewards-v() ----------
+v(0 1 2 3 6 7 8 9 10 12 14 16 19 20): -7.832359313964844, EP: 1.1015267372131348	 ([ap][-][semiconductor][giant][dramatically][raised][range][fourth - quarter][sales][thursday][strong][demand][personal][computers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): -7.110457420349121, EP: 1.0	 ([ap][-][semiconductor][giant][intel][corp.][dramatically][raised][range][fourth - quarter][sales][forecast][thursday][benefited][strong][holiday][demand][microprocessors,][brains][personal][computers.])
+v(0 1 2 6 10 14 16): -6.853329658508301, EP: 0.9638381004333496	 ([ap][-][semiconductor][dramatically][sales][strong][demand])
+v(3 4 5 7 8 9 11 12 13 15 17 18 19 20): -6.194234848022461, EP: 0.8711443543434143	 ([giant][intel][corp.][raised][range][fourth - quarter][forecast][thursday][benefited][holiday][microprocessors,][brains][personal][computers.])
+v(0 1 2 4 5 6 10 11 13 14 15 16 17 18): -4.530267715454102, EP: 0.6371274590492249	 ([ap][-][semiconductor][intel][corp.][dramatically][sales][forecast][benefited][strong][holiday][demand][microprocessors,][brains])
+v(4 5 11 13 15 17 18): -3.2636961936950684, EP: 0.45899948477745056	 ([intel][corp.][forecast][benefited][holiday][microprocessors,][brains])
+v(3 7 8 9 12 19 20): -1.6332054138183594, EP: 0.22969062626361847	 ([giant][raised][range][fourth - quarter][thursday][personal][computers.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

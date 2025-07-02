@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: geneva
+Player 1: -
+Player 2: people
+Player 3: consuming
+Player 4: planet
+Player 5: # 39 ; s
+Player 6: resources
+Player 7: rate
+Player 8: outstrips
+Player 9: capacity
+Player 10: support
+Player 11: life,
+Player 12: global
+Player 13: conservation
+Player 14: group
+Player 15: said
+Player 16: thursday.
+---------- Rewards ----------
+v(): 5.0643744468688965	 ([])
+v(0 1 2 3 4 8 13 16): 8.103981971740723	 ([geneva][-][people][consuming][planet][outstrips][conservation][thursday.])
+v(5 6 7 9 15): -3.974330425262451	 ([# 39 ; s][resources][rate][capacity][said])
+v(10 11 12 14): -1.1860766410827637	 ([support][life,][global][group])
+v(0 1 2 3 4 5 6 7 8 9 13 15 16): 7.65786075592041	 ([geneva][-][people][consuming][planet][# 39 ; s][resources][rate][outstrips][capacity][conservation][said][thursday.])
+v(0 1 2 3 4 8 10 11 12 13 14 16): 6.183042049407959	 ([geneva][-][people][consuming][planet][outstrips][support][life,][global][conservation][group][thursday.])
+v(5 6 7 9 10 11 12 14 15): 1.6071653366088867	 ([# 39 ; s][resources][rate][capacity][support][life,][global][group][said])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 4.9343414306640625	 ([geneva][-][people][consuming][planet][# 39 ; s][resources][rate][outstrips][capacity][support][life,][global][conservation][group][said][thursday.])
+---------- Rewards-v() ----------
+v(5 6 7 9 15): -9.038704872131348, EP: 69.51084899902344	 ([# 39 ; s][resources][rate][capacity][said])
+v(10 11 12 14): -6.25045108795166, EP: 48.06818389892578	 ([support][life,][global][group])
+v(5 6 7 9 10 11 12 14 15): -3.4572091102600098, EP: 26.5871639251709	 ([# 39 ; s][resources][rate][capacity][support][life,][global][group][said])
+v(0 1 2 3 4 8 13 16): 3.039607524871826, EP: -23.375659942626953	 ([geneva][-][people][consuming][planet][outstrips][conservation][thursday.])
+v(0 1 2 3 4 5 6 7 8 9 13 15 16): 2.5934863090515137, EP: -19.9448299407959	 ([geneva][-][people][consuming][planet][# 39 ; s][resources][rate][outstrips][capacity][conservation][said][thursday.])
+v(0 1 2 3 4 8 10 11 12 13 14 16): 1.1186676025390625, EP: -8.602950096130371	 ([geneva][-][people][consuming][planet][outstrips][support][life,][global][conservation][group][thursday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): -0.13003301620483398, EP: 1.0	 ([geneva][-][people][consuming][planet][# 39 ; s][resources][rate][outstrips][capacity][support][life,][global][conservation][group][said][thursday.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

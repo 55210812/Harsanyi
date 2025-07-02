@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: berlin
+Player 1: -
+Player 2: united
+Player 3: states
+Player 4: ( us )
+Player 5: treasury
+Player 6: secretary
+Player 7: john
+Player 8: snow
+Player 9: flown
+Player 10: berlin
+Player 11: weekend
+Player 12: budget
+Player 13: flight
+Player 14: -
+Player 15: pledged
+Player 16: cut
+Player 17: us
+Player 18: deficit
+Player 19: half.
+---------- Rewards ----------
+v(): -6.322934627532959	 ([])
+v(9 13 14 15): -2.002643346786499	 ([flown][flight][-][pledged])
+v(5 6 10 11 12): 0.4698359966278076	 ([treasury][secretary][berlin][weekend][budget])
+v(7 8 16 18 19): 7.275983810424805	 ([john][snow][cut][deficit][half.])
+v(0 1 2 3 4 17): -6.522054672241211	 ([berlin][-][united][states][( us )][us])
+v(5 6 9 10 11 12 13 14 15): 3.2178831100463867	 ([treasury][secretary][flown][berlin][weekend][budget][flight][-][pledged])
+v(7 8 9 13 14 15 16 18 19): 6.230284214019775	 ([john][snow][flown][flight][-][pledged][cut][deficit][half.])
+v(0 1 2 3 4 9 13 14 15 17): -5.986696243286133	 ([berlin][-][united][states][( us )][flown][flight][-][pledged][us])
+v(5 6 7 8 10 11 12 16 18 19): 4.981776714324951	 ([treasury][secretary][john][snow][berlin][weekend][budget][cut][deficit][half.])
+v(0 1 2 3 4 5 6 10 11 12 17): 3.9868695735931396	 ([berlin][-][united][states][( us )][treasury][secretary][berlin][weekend][budget][us])
+v(0 1 2 3 4 7 8 16 17 18 19): 3.4506325721740723	 ([berlin][-][united][states][( us )][john][snow][cut][us][deficit][half.])
+v(5 6 7 8 9 10 11 12 13 14 15 16 18 19): 6.831394672393799	 ([treasury][secretary][john][snow][flown][berlin][weekend][budget][flight][-][pledged][cut][deficit][half.])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 15 17): 4.859355449676514	 ([berlin][-][united][states][( us )][treasury][secretary][flown][berlin][weekend][budget][flight][-][pledged][us])
+v(0 1 2 3 4 7 8 9 13 14 15 16 17 18 19): 1.983443260192871	 ([berlin][-][united][states][( us )][john][snow][flown][flight][-][pledged][cut][us][deficit][half.])
+v(0 1 2 3 4 5 6 7 8 10 11 12 16 17 18 19): 6.025277614593506	 ([berlin][-][united][states][( us )][treasury][secretary][john][snow][berlin][weekend][budget][cut][us][deficit][half.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 5.24668550491333	 ([berlin][-][united][states][( us )][treasury][secretary][john][snow][flown][berlin][weekend][budget][flight][-][pledged][cut][us][deficit][half.])
+---------- Rewards-v() ----------
+v(7 8 16 18 19): 13.598918914794922, EP: 1.1753989458084106	 ([john][snow][cut][deficit][half.])
+v(5 6 7 8 9 10 11 12 13 14 15 16 18 19): 13.154329299926758, EP: 1.1369715929031372	 ([treasury][secretary][john][snow][flown][berlin][weekend][budget][flight][-][pledged][cut][deficit][half.])
+v(7 8 9 13 14 15 16 18 19): 12.553218841552734, EP: 1.0850156545639038	 ([john][snow][flown][flight][-][pledged][cut][deficit][half.])
+v(0 1 2 3 4 5 6 7 8 10 11 12 16 17 18 19): 12.348212242126465, EP: 1.0672962665557861	 ([berlin][-][united][states][( us )][treasury][secretary][john][snow][berlin][weekend][budget][cut][us][deficit][half.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 11.569620132446289, EP: 1.0	 ([berlin][-][united][states][( us )][treasury][secretary][john][snow][flown][berlin][weekend][budget][flight][-][pledged][cut][us][deficit][half.])
+v(5 6 7 8 10 11 12 16 18 19): 11.30471134185791, EP: 0.977103054523468	 ([treasury][secretary][john][snow][berlin][weekend][budget][cut][deficit][half.])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 15 17): 11.182290077209473, EP: 0.9665217995643616	 ([berlin][-][united][states][( us )][treasury][secretary][flown][berlin][weekend][budget][flight][-][pledged][us])
+v(0 1 2 3 4 5 6 10 11 12 17): 10.30980396270752, EP: 0.8911100029945374	 ([berlin][-][united][states][( us )][treasury][secretary][berlin][weekend][budget][us])
+v(0 1 2 3 4 7 8 16 17 18 19): 9.773567199707031, EP: 0.844761312007904	 ([berlin][-][united][states][( us )][john][snow][cut][us][deficit][half.])
+v(5 6 9 10 11 12 13 14 15): 9.540817260742188, EP: 0.8246439695358276	 ([treasury][secretary][flown][berlin][weekend][budget][flight][-][pledged])
+v(0 1 2 3 4 7 8 9 13 14 15 16 17 18 19): 8.306377410888672, EP: 0.7179473042488098	 ([berlin][-][united][states][( us )][john][snow][flown][flight][-][pledged][cut][us][deficit][half.])
+v(5 6 10 11 12): 6.7927703857421875, EP: 0.587121307849884	 ([treasury][secretary][berlin][weekend][budget])
+v(9 13 14 15): 4.320291519165039, EP: 0.3734169006347656	 ([flown][flight][-][pledged])
+v(0 1 2 3 4 9 13 14 15 17): 0.33623838424682617, EP: 0.02906217984855175	 ([berlin][-][united][states][( us )][flown][flight][-][pledged][us])
+v(0 1 2 3 4 17): -0.19912004470825195, EP: -0.017210595309734344	 ([berlin][-][united][states][( us )][us])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

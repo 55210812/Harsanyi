@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: sudan's
+Player 3: pro - government
+Player 4: janjaweed
+Player 5: militia
+Player 6: killed
+Player 7: 16
+Player 8: people
+Player 9: western
+Player 10: village
+Player 11: troubled
+Player 12: darfur
+Player 13: region,
+Player 14: spokesman
+Player 15: rebel
+Player 16: sudan
+Player 17: liberation
+Player 18: movement
+Player 19: told
+Player 20: afp
+Player 21: telephone.
+---------- Rewards ----------
+v(): -6.335746765136719	 ([])
+v(0 1 2 3 4 10 12 16 20): 8.446499824523926	 ([afp][-][sudan's][pro - government][janjaweed][village][darfur][sudan][afp])
+v(5 6 7 8 9 11 13 14 15 17 18 19 21): 7.415660381317139	 ([militia][killed][16][people][western][troubled][region,][spokesman][rebel][liberation][movement][told][telephone.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 7.925414562225342	 ([afp][-][sudan's][pro - government][janjaweed][militia][killed][16][people][western][village][troubled][darfur][region,][spokesman][rebel][sudan][liberation][movement][told][afp][telephone.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 10 12 16 20): 14.782246589660645, EP: 1.0365387201309204	 ([afp][-][sudan's][pro - government][janjaweed][village][darfur][sudan][afp])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 14.261161804199219, EP: 1.0	 ([afp][-][sudan's][pro - government][janjaweed][militia][killed][16][people][western][village][troubled][darfur][region,][spokesman][rebel][sudan][liberation][movement][told][afp][telephone.])
+v(5 6 7 8 9 11 13 14 15 17 18 19 21): 13.751407623291016, EP: 0.9642557501792908	 ([militia][killed][16][people][western][troubled][region,][spokesman][rebel][liberation][movement][told][telephone.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

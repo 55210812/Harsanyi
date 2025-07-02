@@ -1,0 +1,62 @@
+---------- Players ----------
+Player 0: johannesburg,
+Player 1: 15
+Player 2: september
+Player 3: 2004
+Player 4: -
+Player 5: microsoft
+Player 6: suffered
+Player 7: well - publicised
+Player 8: losses
+Player 9: novell
+Player 10: suse
+Player 11: linux
+Player 12: norwegian
+Player 13: city
+Player 14: bergen
+Player 15: local
+Player 16: governments
+Player 17: dotted
+Player 18: across
+Player 19: globe,
+Player 20: novell
+Player 21: staffers
+Player 22: hope
+Player 23: start
+Player 24: sales
+Player 25: momentum
+---------- Rewards ----------
+v(): 3.8857431411743164	 ([])
+v(4 5 9 14 20 24 25): 2.598054885864258	 ([-][microsoft][novell][bergen][novell][sales][momentum])
+v(0 11 15 16 17 18 21 22 23): 7.856164455413818	 ([johannesburg,][linux][local][governments][dotted][across][staffers][hope][start])
+v(1 2 7 8 10 12 19): 2.747701644897461	 ([15][september][well - publicised][losses][suse][norwegian][globe,])
+v(3 6 13): 0.6727877855300903	 ([2004][suffered][city])
+v(0 4 5 9 11 14 15 16 17 18 20 21 22 23 24 25): 6.616588115692139	 ([johannesburg,][-][microsoft][novell][linux][bergen][local][governments][dotted][across][novell][staffers][hope][start][sales][momentum])
+v(1 2 4 5 7 8 9 10 12 14 19 20 24 25): 2.39389967918396	 ([15][september][-][microsoft][well - publicised][losses][novell][suse][norwegian][bergen][globe,][novell][sales][momentum])
+v(3 4 5 6 9 13 14 20 24 25): 3.0094523429870605	 ([2004][-][microsoft][suffered][novell][city][bergen][novell][sales][momentum])
+v(0 1 2 7 8 10 11 12 15 16 17 18 19 21 22 23): 8.230095863342285	 ([johannesburg,][15][september][well - publicised][losses][suse][linux][norwegian][local][governments][dotted][across][globe,][staffers][hope][start])
+v(0 3 6 11 13 15 16 17 18 21 22 23): 7.7164106369018555	 ([johannesburg,][2004][suffered][linux][city][local][governments][dotted][across][staffers][hope][start])
+v(1 2 3 6 7 8 10 12 13 19): 1.790982961654663	 ([15][september][2004][suffered][well - publicised][losses][suse][norwegian][city][globe,])
+v(0 1 2 4 5 7 8 9 10 11 12 14 15 16 17 18 19 20 21 22 23 24 25): 7.42045783996582	 ([johannesburg,][15][september][-][microsoft][well - publicised][losses][novell][suse][linux][norwegian][bergen][local][governments][dotted][across][globe,][novell][staffers][hope][start][sales][momentum])
+v(0 3 4 5 6 9 11 13 14 15 16 17 18 20 21 22 23 24 25): 6.888720512390137	 ([johannesburg,][2004][-][microsoft][suffered][novell][linux][city][bergen][local][governments][dotted][across][novell][staffers][hope][start][sales][momentum])
+v(1 2 3 4 5 6 7 8 9 10 12 13 14 19 20 24 25): 4.403017997741699	 ([15][september][2004][-][microsoft][suffered][well - publicised][losses][novell][suse][norwegian][city][bergen][globe,][novell][sales][momentum])
+v(0 1 2 3 6 7 8 10 11 12 13 15 16 17 18 19 21 22 23): 8.313709259033203	 ([johannesburg,][15][september][2004][suffered][well - publicised][losses][suse][linux][norwegian][city][local][governments][dotted][across][globe,][staffers][hope][start])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 7.423817157745361	 ([johannesburg,][15][september][2004][-][microsoft][suffered][well - publicised][losses][novell][suse][linux][norwegian][city][bergen][local][governments][dotted][across][globe,][novell][staffers][hope][start][sales][momentum])
+---------- Rewards-v() ----------
+v(0 1 2 3 6 7 8 10 11 12 13 15 16 17 18 19 21 22 23): 4.427966117858887, EP: 1.2515188455581665	 ([johannesburg,][15][september][2004][suffered][well - publicised][losses][suse][linux][norwegian][city][local][governments][dotted][across][globe,][staffers][hope][start])
+v(0 1 2 7 8 10 11 12 15 16 17 18 19 21 22 23): 4.344352722167969, EP: 1.2278863191604614	 ([johannesburg,][15][september][well - publicised][losses][suse][linux][norwegian][local][governments][dotted][across][globe,][staffers][hope][start])
+v(0 11 15 16 17 18 21 22 23): 3.970421314239502, EP: 1.122198462486267	 ([johannesburg,][linux][local][governments][dotted][across][staffers][hope][start])
+v(0 3 6 11 13 15 16 17 18 21 22 23): 3.830667495727539, EP: 1.0826984643936157	 ([johannesburg,][2004][suffered][linux][city][local][governments][dotted][across][staffers][hope][start])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 3.538074016571045, EP: 1.0	 ([johannesburg,][15][september][2004][-][microsoft][suffered][well - publicised][losses][novell][suse][linux][norwegian][city][bergen][local][governments][dotted][across][globe,][novell][staffers][hope][start][sales][momentum])
+v(0 1 2 4 5 7 8 9 10 11 12 14 15 16 17 18 19 20 21 22 23 24 25): 3.534714698791504, EP: 0.999050498008728	 ([johannesburg,][15][september][-][microsoft][well - publicised][losses][novell][suse][linux][norwegian][bergen][local][governments][dotted][across][globe,][novell][staffers][hope][start][sales][momentum])
+v(3 6 13): -3.2129554748535156, EP: -0.9081085920333862	 ([2004][suffered][city])
+v(0 3 4 5 6 9 11 13 14 15 16 17 18 20 21 22 23 24 25): 3.0029773712158203, EP: 0.8487604856491089	 ([johannesburg,][2004][-][microsoft][suffered][novell][linux][city][bergen][local][governments][dotted][across][novell][staffers][hope][start][sales][momentum])
+v(0 4 5 9 11 14 15 16 17 18 20 21 22 23 24 25): 2.7308449745178223, EP: 0.7718450427055359	 ([johannesburg,][-][microsoft][novell][linux][bergen][local][governments][dotted][across][novell][staffers][hope][start][sales][momentum])
+v(1 2 3 6 7 8 10 12 13 19): -2.0947601795196533, EP: -0.5920622944831848	 ([15][september][2004][suffered][well - publicised][losses][suse][norwegian][city][globe,])
+v(1 2 4 5 7 8 9 10 12 14 19 20 24 25): -1.4918434619903564, EP: -0.4216541051864624	 ([15][september][-][microsoft][well - publicised][losses][novell][suse][norwegian][bergen][globe,][novell][sales][momentum])
+v(4 5 9 14 20 24 25): -1.2876882553100586, EP: -0.36395174264907837	 ([-][microsoft][novell][bergen][novell][sales][momentum])
+v(1 2 7 8 10 12 19): -1.1380414962768555, EP: -0.32165566086769104	 ([15][september][well - publicised][losses][suse][norwegian][globe,])
+v(3 4 5 6 9 13 14 20 24 25): -0.8762907981872559, EP: -0.24767452478408813	 ([2004][-][microsoft][suffered][novell][city][bergen][novell][sales][momentum])
+v(1 2 3 4 5 6 7 8 9 10 12 13 14 19 20 24 25): 0.5172748565673828, EP: 0.14620238542556763	 ([15][september][2004][-][microsoft][suffered][well - publicised][losses][novell][suse][norwegian][city][bergen][globe,][novell][sales][momentum])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

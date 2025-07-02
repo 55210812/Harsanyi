@@ -1,0 +1,23 @@
+---------- Players ----------
+Player 0: wireless
+Player 1: carrier
+Player 2: teams
+Player 3: earthcam
+Player 4: stream
+Player 5: video
+Player 6: personal
+Player 7: public
+Player 8: webcams
+Player 9: camera
+Player 10: phones.
+---------- Rewards ----------
+v(): 3.80753493309021	 ([])
+v(0 1 2 4 9 10): 6.061100959777832	 ([wireless][carrier][teams][stream][camera][phones.])
+v(3 5 6 7 8): 7.852530479431152	 ([earthcam][video][personal][public][webcams])
+v(0 1 2 3 4 5 6 7 8 9 10): 6.701415538787842	 ([wireless][carrier][teams][earthcam][stream][video][personal][public][webcams][camera][phones.])
+---------- Rewards-v() ----------
+v(3 5 6 7 8): 4.044995307922363, EP: 1.397775411605835	 ([earthcam][video][personal][public][webcams])
+v(0 1 2 3 4 5 6 7 8 9 10): 2.893880605697632, EP: 1.0	 ([wireless][carrier][teams][earthcam][stream][video][personal][public][webcams][camera][phones.])
+v(0 1 2 4 9 10): 2.253566026687622, EP: 0.7787349820137024	 ([wireless][carrier][teams][stream][camera][phones.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

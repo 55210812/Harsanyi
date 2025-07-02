@@ -1,0 +1,60 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: pakistan
+Player 3: president
+Player 4: pervez
+Player 5: musharraf
+Player 6: said
+Player 7: interview
+Player 8: published
+Player 9: might
+Player 10: renege
+Player 11: pledge
+Player 12: step
+Player 13: military
+Player 14: chief
+Player 15: quot ; the
+Player 16: vast
+Player 17: majority
+Player 18: quot ;
+Player 19: pakistani
+Player 20: people
+Player 21: quot ; want
+Player 22: uniform.
+Player 23: quot ;
+---------- Rewards ----------
+v(): -5.098236083984375	 ([])
+v(0 1 2 5 16 19): 8.429194450378418	 ([afp][-][pakistan][musharraf][vast][pakistani])
+v(3 4 7 8 15): 7.328438758850098	 ([president][pervez][interview][published][quot ; the])
+v(6 13 22 23): 4.062302112579346	 ([said][military][uniform.][quot ;])
+v(9 10 11 12 14 17 18 20 21): 4.830436706542969	 ([might][renege][pledge][step][chief][majority][quot ;][people][quot ; want])
+v(0 1 2 3 4 5 7 8 15 16 19): 8.462657928466797	 ([afp][-][pakistan][president][pervez][musharraf][interview][published][quot ; the][vast][pakistani])
+v(0 1 2 5 6 13 16 19 22 23): 8.384228706359863	 ([afp][-][pakistan][musharraf][said][military][vast][pakistani][uniform.][quot ;])
+v(0 1 2 5 9 10 11 12 14 16 17 18 19 20 21): 8.518695831298828	 ([afp][-][pakistan][musharraf][might][renege][pledge][step][chief][vast][majority][quot ;][pakistani][people][quot ; want])
+v(3 4 6 7 8 13 15 22 23): 8.265321731567383	 ([president][pervez][said][interview][published][military][quot ; the][uniform.][quot ;])
+v(3 4 7 8 9 10 11 12 14 15 17 18 20 21): 8.446090698242188	 ([president][pervez][interview][published][might][renege][pledge][step][chief][quot ; the][majority][quot ;][people][quot ; want])
+v(6 9 10 11 12 13 14 17 18 20 21 22 23): 7.423275947570801	 ([said][might][renege][pledge][step][military][chief][majority][quot ;][people][quot ; want][uniform.][quot ;])
+v(0 1 2 3 4 5 6 7 8 13 15 16 19 22 23): 8.326312065124512	 ([afp][-][pakistan][president][pervez][musharraf][said][interview][published][military][quot ; the][vast][pakistani][uniform.][quot ;])
+v(0 1 2 3 4 5 7 8 9 10 11 12 14 15 16 17 18 19 20 21): 8.529574394226074	 ([afp][-][pakistan][president][pervez][musharraf][interview][published][might][renege][pledge][step][chief][quot ; the][vast][majority][quot ;][pakistani][people][quot ; want])
+v(0 1 2 5 6 9 10 11 12 13 14 16 17 18 19 20 21 22 23): 8.4510498046875	 ([afp][-][pakistan][musharraf][said][might][renege][pledge][step][military][chief][vast][majority][quot ;][pakistani][people][quot ; want][uniform.][quot ;])
+v(3 4 6 7 8 9 10 11 12 13 14 15 17 18 20 21 22 23): 8.39627456665039	 ([president][pervez][said][interview][published][might][renege][pledge][step][military][chief][quot ; the][majority][quot ;][people][quot ; want][uniform.][quot ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.377317428588867	 ([afp][-][pakistan][president][pervez][musharraf][said][interview][published][might][renege][pledge][step][military][chief][quot ; the][vast][majority][quot ;][pakistani][people][quot ; want][uniform.][quot ;])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 7 8 9 10 11 12 14 15 16 17 18 19 20 21): 13.62781047821045, EP: 1.0112987756729126	 ([afp][-][pakistan][president][pervez][musharraf][interview][published][might][renege][pledge][step][chief][quot ; the][vast][majority][quot ;][pakistani][people][quot ; want])
+v(0 1 2 5 9 10 11 12 14 16 17 18 19 20 21): 13.616931915283203, EP: 1.0104914903640747	 ([afp][-][pakistan][musharraf][might][renege][pledge][step][chief][vast][majority][quot ;][pakistani][people][quot ; want])
+v(0 1 2 3 4 5 7 8 15 16 19): 13.560894012451172, EP: 1.0063329935073853	 ([afp][-][pakistan][president][pervez][musharraf][interview][published][quot ; the][vast][pakistani])
+v(0 1 2 5 6 9 10 11 12 13 14 16 17 18 19 20 21 22 23): 13.549285888671875, EP: 1.0054715871810913	 ([afp][-][pakistan][musharraf][said][might][renege][pledge][step][military][chief][vast][majority][quot ;][pakistani][people][quot ; want][uniform.][quot ;])
+v(3 4 7 8 9 10 11 12 14 15 17 18 20 21): 13.544326782226562, EP: 1.005103588104248	 ([president][pervez][interview][published][might][renege][pledge][step][chief][quot ; the][majority][quot ;][people][quot ; want])
+v(0 1 2 5 16 19): 13.527430534362793, EP: 1.003849744796753	 ([afp][-][pakistan][musharraf][vast][pakistani])
+v(3 4 6 7 8 9 10 11 12 13 14 15 17 18 20 21 22 23): 13.494510650634766, EP: 1.0014067888259888	 ([president][pervez][said][interview][published][might][renege][pledge][step][military][chief][quot ; the][majority][quot ;][people][quot ; want][uniform.][quot ;])
+v(0 1 2 5 6 13 16 19 22 23): 13.482464790344238, EP: 1.0005128383636475	 ([afp][-][pakistan][musharraf][said][military][vast][pakistani][uniform.][quot ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 13.475553512573242, EP: 1.0	 ([afp][-][pakistan][president][pervez][musharraf][said][interview][published][might][renege][pledge][step][military][chief][quot ; the][vast][majority][quot ;][pakistani][people][quot ; want][uniform.][quot ;])
+v(0 1 2 3 4 5 6 7 8 13 15 16 19 22 23): 13.424548149108887, EP: 0.9962149858474731	 ([afp][-][pakistan][president][pervez][musharraf][said][interview][published][military][quot ; the][vast][pakistani][uniform.][quot ;])
+v(3 4 6 7 8 13 15 22 23): 13.363557815551758, EP: 0.9916889667510986	 ([president][pervez][said][interview][published][military][quot ; the][uniform.][quot ;])
+v(6 9 10 11 12 13 14 17 18 20 21 22 23): 12.521512031555176, EP: 0.9292020797729492	 ([said][might][renege][pledge][step][military][chief][majority][quot ;][people][quot ; want][uniform.][quot ;])
+v(3 4 7 8 15): 12.426674842834473, EP: 0.9221643209457397	 ([president][pervez][interview][published][quot ; the])
+v(9 10 11 12 14 17 18 20 21): 9.928672790527344, EP: 0.7367914915084839	 ([might][renege][pledge][step][chief][majority][quot ;][people][quot ; want])
+v(6 13 22 23): 9.160537719726562, EP: 0.6797893643379211	 ([said][military][uniform.][quot ;])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

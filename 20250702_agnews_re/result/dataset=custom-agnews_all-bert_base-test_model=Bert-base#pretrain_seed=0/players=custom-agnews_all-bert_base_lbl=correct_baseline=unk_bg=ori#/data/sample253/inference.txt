@@ -1,0 +1,45 @@
+Execution time: 2025-07-02 19:23:34
+prompt: [CLS] dan marino, one - time recordsetting quarterback for the miami dolphins but now an analyst for cbs sports, tried in an interview earlier this season to get colts quarterback peyton manning [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4907 decoded_text: dan
+idx:2 input_id:17185 decoded_text: marino
+idx:3 input_id:1010 decoded_text: ,
+idx:4 input_id:2028 decoded_text: one
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:2051 decoded_text: time
+idx:7 input_id:2636 decoded_text: records
+idx:8 input_id:18319 decoded_text: ##etti
+idx:9 input_id:3070 decoded_text: ##ng
+idx:10 input_id:9074 decoded_text: quarterback
+idx:11 input_id:2005 decoded_text: for
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:5631 decoded_text: miami
+idx:14 input_id:13600 decoded_text: dolphins
+idx:15 input_id:2021 decoded_text: but
+idx:16 input_id:2085 decoded_text: now
+idx:17 input_id:2019 decoded_text: an
+idx:18 input_id:12941 decoded_text: analyst
+idx:19 input_id:2005 decoded_text: for
+idx:20 input_id:6568 decoded_text: cbs
+idx:21 input_id:2998 decoded_text: sports
+idx:22 input_id:1010 decoded_text: ,
+idx:23 input_id:2699 decoded_text: tried
+idx:24 input_id:1999 decoded_text: in
+idx:25 input_id:2019 decoded_text: an
+idx:26 input_id:4357 decoded_text: interview
+idx:27 input_id:3041 decoded_text: earlier
+idx:28 input_id:2023 decoded_text: this
+idx:29 input_id:2161 decoded_text: season
+idx:30 input_id:2000 decoded_text: to
+idx:31 input_id:2131 decoded_text: get
+idx:32 input_id:14390 decoded_text: colts
+idx:33 input_id:9074 decoded_text: quarterback
+idx:34 input_id:17931 decoded_text: peyton
+idx:35 input_id:11956 decoded_text: manning
+idx:36 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.6444385051727295, 8.561933517456055, -2.8184704780578613, -2.5334413051605225]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

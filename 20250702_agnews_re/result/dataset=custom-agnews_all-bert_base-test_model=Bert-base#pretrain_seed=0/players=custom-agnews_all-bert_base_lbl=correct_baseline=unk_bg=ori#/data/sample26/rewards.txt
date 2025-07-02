@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: washingtonpost. com
+Player 1: -
+Player 2: fourth
+Player 3: amendment
+Player 4: u. s.
+Player 5: constitution
+Player 6: prohibits
+Player 7: government
+Player 8: conducting
+Player 9: " unreasonable
+Player 10: searches "
+Player 11: " persons,
+Player 12: houses,
+Player 13: papers,
+Player 14: effects "
+Player 15: without
+Player 16: warrant.
+Player 17: first
+Player 18: amendment,
+Player 19: course,
+Player 20: protects
+Player 21: right
+Player 22: free
+Player 23: speech.
+---------- Rewards ----------
+v(): 2.67236065864563	 ([])
+v(2 3 4 5 6 17 18 20): 0.10386300086975098	 ([fourth][amendment][u. s.][constitution][prohibits][first][amendment,][protects])
+v(1 7 8 9 11 12 13 14 15 16): 1.367849588394165	 ([-][government][conducting][" unreasonable][" persons,][houses,][papers,][effects "][without][warrant.])
+v(0 10 19 21 22 23): 7.535357475280762	 ([washingtonpost. com][searches "][course,][right][free][speech.])
+v(1 2 3 4 5 6 7 8 9 11 12 13 14 15 16 17 18 20): 6.556339740753174	 ([-][fourth][amendment][u. s.][constitution][prohibits][government][conducting][" unreasonable][" persons,][houses,][papers,][effects "][without][warrant.][first][amendment,][protects])
+v(0 2 3 4 5 6 10 17 18 19 20 21 22 23): 7.9325666427612305	 ([washingtonpost. com][fourth][amendment][u. s.][constitution][prohibits][searches "][first][amendment,][course,][protects][right][free][speech.])
+v(0 1 7 8 9 10 11 12 13 14 15 16 19 21 22 23): 7.761163711547852	 ([washingtonpost. com][-][government][conducting][" unreasonable][searches "][" persons,][houses,][papers,][effects "][without][warrant.][course,][right][free][speech.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 7.207438945770264	 ([washingtonpost. com][-][fourth][amendment][u. s.][constitution][prohibits][government][conducting][" unreasonable][searches "][" persons,][houses,][papers,][effects "][without][warrant.][first][amendment,][course,][protects][right][free][speech.])
+---------- Rewards-v() ----------
+v(0 2 3 4 5 6 10 17 18 19 20 21 22 23): 5.26020622253418, EP: 1.1598931550979614	 ([washingtonpost. com][fourth][amendment][u. s.][constitution][prohibits][searches "][first][amendment,][course,][protects][right][free][speech.])
+v(0 1 7 8 9 10 11 12 13 14 15 16 19 21 22 23): 5.088803291320801, EP: 1.1220983266830444	 ([washingtonpost. com][-][government][conducting][" unreasonable][searches "][" persons,][houses,][papers,][effects "][without][warrant.][course,][right][free][speech.])
+v(0 10 19 21 22 23): 4.862997055053711, EP: 1.0723072290420532	 ([washingtonpost. com][searches "][course,][right][free][speech.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 4.535078048706055, EP: 1.0	 ([washingtonpost. com][-][fourth][amendment][u. s.][constitution][prohibits][government][conducting][" unreasonable][searches "][" persons,][houses,][papers,][effects "][without][warrant.][first][amendment,][course,][protects][right][free][speech.])
+v(1 2 3 4 5 6 7 8 9 11 12 13 14 15 16 17 18 20): 3.883979082107544, EP: 0.8564304709434509	 ([-][fourth][amendment][u. s.][constitution][prohibits][government][conducting][" unreasonable][" persons,][houses,][papers,][effects "][without][warrant.][first][amendment,][protects])
+v(2 3 4 5 6 17 18 20): -2.568497657775879, EP: -0.5663623809814453	 ([fourth][amendment][u. s.][constitution][prohibits][first][amendment,][protects])
+v(1 7 8 9 11 12 13 14 15 16): -1.3045110702514648, EP: -0.28764909505844116	 ([-][government][conducting][" unreasonable][" persons,][houses,][papers,][effects "][without][warrant.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

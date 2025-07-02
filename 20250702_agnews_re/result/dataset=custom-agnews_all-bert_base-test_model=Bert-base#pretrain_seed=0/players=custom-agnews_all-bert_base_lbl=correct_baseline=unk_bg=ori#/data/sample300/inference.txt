@@ -1,0 +1,40 @@
+Execution time: 2025-07-02 19:24:45
+prompt: [CLS] peugeot boss corrado provera expects marcus gronholm to bounce back today after wet weather saw him slip off the pace in the wales rally gb. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26385 decoded_text: peugeot
+idx:2 input_id:5795 decoded_text: boss
+idx:3 input_id:2522 decoded_text: co
+idx:4 input_id:27933 decoded_text: ##rrado
+idx:5 input_id:6011 decoded_text: prove
+idx:6 input_id:2527 decoded_text: ##ra
+idx:7 input_id:24273 decoded_text: expects
+idx:8 input_id:6647 decoded_text: marcus
+idx:9 input_id:24665 decoded_text: gr
+idx:10 input_id:2239 decoded_text: ##on
+idx:11 input_id:18884 decoded_text: ##holm
+idx:12 input_id:2000 decoded_text: to
+idx:13 input_id:17523 decoded_text: bounce
+idx:14 input_id:2067 decoded_text: back
+idx:15 input_id:2651 decoded_text: today
+idx:16 input_id:2044 decoded_text: after
+idx:17 input_id:4954 decoded_text: wet
+idx:18 input_id:4633 decoded_text: weather
+idx:19 input_id:2387 decoded_text: saw
+idx:20 input_id:2032 decoded_text: him
+idx:21 input_id:7540 decoded_text: slip
+idx:22 input_id:2125 decoded_text: off
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:6393 decoded_text: pace
+idx:25 input_id:1999 decoded_text: in
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:3575 decoded_text: wales
+idx:28 input_id:8320 decoded_text: rally
+idx:29 input_id:16351 decoded_text: gb
+idx:30 input_id:1012 decoded_text: .
+idx:31 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.0797187089920044, 7.666111469268799, -2.9659042358398438, -2.249053478240967]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

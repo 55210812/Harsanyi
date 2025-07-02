@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: eslie
+Player 1: moonves,
+Player 2: co - president
+Player 3: viacom,
+Player 4: yesterday
+Player 5: realigned
+Player 6: management
+Player 7: company
+Player 8: # 39 ; s
+Player 9: cbs
+Player 10: entertainment
+Player 11: division
+Player 12: paramount
+Player 13: television
+Player 14: production
+Player 15: studio,
+Player 16: promising
+Player 17: smoother
+Player 18: greater
+Player 19: interaction
+Player 20: two.
+---------- Rewards ----------
+v(): -4.500956058502197	 ([])
+v(2 3 6 7 12 13 14 15 16 20): 5.630771160125732	 ([co - president][viacom,][management][company][paramount][television][production][studio,][promising][two.])
+v(8 9 10 11): 7.066796779632568	 ([# 39 ; s][cbs][entertainment][division])
+v(0 1): -0.20323467254638672	 ([eslie][moonves,])
+v(4 5 17 18 19): -6.017425537109375	 ([yesterday][realigned][smoother][greater][interaction])
+v(2 3 6 7 8 9 10 11 12 13 14 15 16 20): 8.290238380432129	 ([co - president][viacom,][management][company][# 39 ; s][cbs][entertainment][division][paramount][television][production][studio,][promising][two.])
+v(0 1 2 3 6 7 12 13 14 15 16 20): 6.897457599639893	 ([eslie][moonves,][co - president][viacom,][management][company][paramount][television][production][studio,][promising][two.])
+v(2 3 4 5 6 7 12 13 14 15 16 17 18 19 20): 6.700817584991455	 ([co - president][viacom,][yesterday][realigned][management][company][paramount][television][production][studio,][promising][smoother][greater][interaction][two.])
+v(0 1 8 9 10 11): 7.610928535461426	 ([eslie][moonves,][# 39 ; s][cbs][entertainment][division])
+v(4 5 8 9 10 11 17 18 19): 6.933970928192139	 ([yesterday][realigned][# 39 ; s][cbs][entertainment][division][smoother][greater][interaction])
+v(0 1 4 5 17 18 19): -2.4612300395965576	 ([eslie][moonves,][yesterday][realigned][smoother][greater][interaction])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 20): 8.408039093017578	 ([eslie][moonves,][co - president][viacom,][management][company][# 39 ; s][cbs][entertainment][division][paramount][television][production][studio,][promising][two.])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.066039085388184	 ([co - president][viacom,][yesterday][realigned][management][company][# 39 ; s][cbs][entertainment][division][paramount][television][production][studio,][promising][smoother][greater][interaction][two.])
+v(0 1 2 3 4 5 6 7 12 13 14 15 16 17 18 19 20): 7.388193607330322	 ([eslie][moonves,][co - president][viacom,][yesterday][realigned][management][company][paramount][television][production][studio,][promising][smoother][greater][interaction][two.])
+v(0 1 4 5 8 9 10 11 17 18 19): 7.175830841064453	 ([eslie][moonves,][yesterday][realigned][# 39 ; s][cbs][entertainment][division][smoother][greater][interaction])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.200210571289062	 ([eslie][moonves,][co - president][viacom,][yesterday][realigned][management][company][# 39 ; s][cbs][entertainment][division][paramount][television][production][studio,][promising][smoother][greater][interaction][two.])
+---------- Rewards-v() ----------
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 20): 12.908994674682617, EP: 1.0163629055023193	 ([eslie][moonves,][co - president][viacom,][management][company][# 39 ; s][cbs][entertainment][division][paramount][television][production][studio,][promising][two.])
+v(2 3 6 7 8 9 10 11 12 13 14 15 16 20): 12.791194915771484, EP: 1.0070881843566895	 ([co - president][viacom,][management][company][# 39 ; s][cbs][entertainment][division][paramount][television][production][studio,][promising][two.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 12.701166152954102, EP: 1.0	 ([eslie][moonves,][co - president][viacom,][yesterday][realigned][management][company][# 39 ; s][cbs][entertainment][division][paramount][television][production][studio,][promising][smoother][greater][interaction][two.])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 12.566995620727539, EP: 0.9894363880157471	 ([co - president][viacom,][yesterday][realigned][management][company][# 39 ; s][cbs][entertainment][division][paramount][television][production][studio,][promising][smoother][greater][interaction][two.])
+v(0 1 8 9 10 11): 12.111885070800781, EP: 0.9536041617393494	 ([eslie][moonves,][# 39 ; s][cbs][entertainment][division])
+v(0 1 2 3 4 5 6 7 12 13 14 15 16 17 18 19 20): 11.88914966583252, EP: 0.9360675811767578	 ([eslie][moonves,][co - president][viacom,][yesterday][realigned][management][company][paramount][television][production][studio,][promising][smoother][greater][interaction][two.])
+v(0 1 4 5 8 9 10 11 17 18 19): 11.676786422729492, EP: 0.9193475842475891	 ([eslie][moonves,][yesterday][realigned][# 39 ; s][cbs][entertainment][division][smoother][greater][interaction])
+v(8 9 10 11): 11.567752838134766, EP: 0.9107630252838135	 ([# 39 ; s][cbs][entertainment][division])
+v(4 5 8 9 10 11 17 18 19): 11.434926986694336, EP: 0.9003052711486816	 ([yesterday][realigned][# 39 ; s][cbs][entertainment][division][smoother][greater][interaction])
+v(0 1 2 3 6 7 12 13 14 15 16 20): 11.39841365814209, EP: 0.8974304795265198	 ([eslie][moonves,][co - president][viacom,][management][company][paramount][television][production][studio,][promising][two.])
+v(2 3 4 5 6 7 12 13 14 15 16 17 18 19 20): 11.201773643493652, EP: 0.8819484114646912	 ([co - president][viacom,][yesterday][realigned][management][company][paramount][television][production][studio,][promising][smoother][greater][interaction][two.])
+v(2 3 6 7 12 13 14 15 16 20): 10.13172721862793, EP: 0.7977005243301392	 ([co - president][viacom,][management][company][paramount][television][production][studio,][promising][two.])
+v(0 1): 4.2977213859558105, EP: 0.33837220072746277	 ([eslie][moonves,])
+v(0 1 4 5 17 18 19): 2.0397260189056396, EP: 0.16059359908103943	 ([eslie][moonves,][yesterday][realigned][smoother][greater][interaction])
+v(4 5 17 18 19): -1.5164694786071777, EP: -0.11939608305692673	 ([yesterday][realigned][smoother][greater][interaction])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

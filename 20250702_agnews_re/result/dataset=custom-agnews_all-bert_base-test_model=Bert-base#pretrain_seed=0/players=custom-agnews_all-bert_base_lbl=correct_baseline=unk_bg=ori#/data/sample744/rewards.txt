@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: least
+Player 1: innocent
+Player 2: spared
+Player 3: possible
+Player 4: humiliation.
+Player 5: even
+Player 6: though
+Player 7: britain
+Player 8: lost
+Player 9: austria
+Player 10: 3 - 2
+Player 11: last
+Player 12: weekend
+Player 13: remain
+Player 14: second
+Player 15: division
+Player 16: davis
+Player 17: cup,
+Player 18: jeremy
+Player 19: bates
+---------- Rewards ----------
+v(): -4.163380146026611	 ([])
+v(0 1 2 3 4 11 12 13 18 19): 6.956907749176025	 ([least][innocent][spared][possible][humiliation.][last][weekend][remain][jeremy][bates])
+v(5 6 14 15 16 17): 9.487444877624512	 ([even][though][second][division][davis][cup,])
+v(7 8 9 10): 5.9750776290893555	 ([britain][lost][austria][3 - 2])
+v(0 1 2 3 4 5 6 11 12 13 14 15 16 17 18 19): 9.708033561706543	 ([least][innocent][spared][possible][humiliation.][even][though][last][weekend][remain][second][division][davis][cup,][jeremy][bates])
+v(0 1 2 3 4 7 8 9 10 11 12 13 18 19): 9.423019409179688	 ([least][innocent][spared][possible][humiliation.][britain][lost][austria][3 - 2][last][weekend][remain][jeremy][bates])
+v(5 6 7 8 9 10 14 15 16 17): 9.440199851989746	 ([even][though][britain][lost][austria][3 - 2][second][division][davis][cup,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.662694931030273	 ([least][innocent][spared][possible][humiliation.][even][though][britain][lost][austria][3 - 2][last][weekend][remain][second][division][davis][cup,][jeremy][bates])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 11 12 13 14 15 16 17 18 19): 13.871414184570312, EP: 1.0032793283462524	 ([least][innocent][spared][possible][humiliation.][even][though][last][weekend][remain][second][division][davis][cup,][jeremy][bates])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.826074600219727, EP: 1.0	 ([least][innocent][spared][possible][humiliation.][even][though][britain][lost][austria][3 - 2][last][weekend][remain][second][division][davis][cup,][jeremy][bates])
+v(5 6 14 15 16 17): 13.650825500488281, EP: 0.9873247146606445	 ([even][though][second][division][davis][cup,])
+v(5 6 7 8 9 10 14 15 16 17): 13.603580474853516, EP: 0.9839076399803162	 ([even][though][britain][lost][austria][3 - 2][second][division][davis][cup,])
+v(0 1 2 3 4 7 8 9 10 11 12 13 18 19): 13.58639907836914, EP: 0.982664942741394	 ([least][innocent][spared][possible][humiliation.][britain][lost][austria][3 - 2][last][weekend][remain][jeremy][bates])
+v(0 1 2 3 4 11 12 13 18 19): 11.120287895202637, EP: 0.8042982816696167	 ([least][innocent][spared][possible][humiliation.][last][weekend][remain][jeremy][bates])
+v(7 8 9 10): 10.138458251953125, EP: 0.7332853674888611	 ([britain][lost][austria][3 - 2])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

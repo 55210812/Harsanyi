@@ -1,0 +1,29 @@
+---------- Players ----------
+Player 0: stocks
+Player 1: rose
+Player 2: \ $ 11
+Player 3: billion
+Player 4: offer
+Player 5: kmart
+Player 6: sears,
+Player 7: roebuck
+Player 8: lifted
+Player 9: retailers
+Player 10: better - than - expected
+Player 11: earnings
+Player 12: hewlett - packard
+Player 13: ignited
+Player 14: rally
+Player 15: technology
+Player 16: shares.
+---------- Rewards ----------
+v(): -4.744607925415039	 ([])
+v(0 3 5 6 9 11 16): 8.247015953063965	 ([stocks][billion][kmart][sears,][retailers][earnings][shares.])
+v(1 2 4 7 8 10 12 13 14 15): 1.6529476642608643	 ([rose][\ $ 11][offer][roebuck][lifted][better - than - expected][hewlett - packard][ignited][rally][technology])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.003417015075684	 ([stocks][rose][\ $ 11][billion][offer][kmart][sears,][roebuck][lifted][retailers][better - than - expected][earnings][hewlett - packard][ignited][rally][technology][shares.])
+---------- Rewards-v() ----------
+v(0 3 5 6 9 11 16): 12.991623878479004, EP: 1.105855941772461	 ([stocks][billion][kmart][sears,][retailers][earnings][shares.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 11.748024940490723, EP: 1.0	 ([stocks][rose][\ $ 11][billion][offer][kmart][sears,][roebuck][lifted][retailers][better - than - expected][earnings][hewlett - packard][ignited][rally][technology][shares.])
+v(1 2 4 7 8 10 12 13 14 15): 6.397555351257324, EP: 0.5445643067359924	 ([rose][\ $ 11][offer][roebuck][lifted][better - than - expected][hewlett - packard][ignited][rally][technology])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

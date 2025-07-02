@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: australia
+Player 1: batsman
+Player 2: darren
+Player 3: lehmann
+Player 4: sustained
+Player 5: hamstring
+Player 6: tear
+Player 7: first
+Player 8: day
+Player 9: third
+Player 10: test
+Player 11: india
+Player 12: tuesday
+Player 13: could
+Player 14: sideline
+Player 15: rest
+Player 16: match.
+---------- Rewards ----------
+v(): -1.0062613487243652	 ([])
+v(0 2 9 10 13 14): 9.260205268859863	 ([australia][darren][third][test][could][sideline])
+v(1 4 5 6 11 16): 8.891650199890137	 ([batsman][sustained][hamstring][tear][india][match.])
+v(3 7 8 12 15): -1.7195374965667725	 ([lehmann][first][day][tuesday][rest])
+v(0 1 2 4 5 6 9 10 11 13 14 16): 9.442194938659668	 ([australia][batsman][darren][sustained][hamstring][tear][third][test][india][could][sideline][match.])
+v(0 2 3 7 8 9 10 12 13 14 15): 9.517743110656738	 ([australia][darren][lehmann][first][day][third][test][tuesday][could][sideline][rest])
+v(1 3 4 5 6 7 8 11 12 15 16): 9.185884475708008	 ([batsman][lehmann][sustained][hamstring][tear][first][day][india][tuesday][rest][match.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.378653526306152	 ([australia][batsman][darren][lehmann][sustained][hamstring][tear][first][day][third][test][india][tuesday][could][sideline][rest][match.])
+---------- Rewards-v() ----------
+v(0 2 3 7 8 9 10 12 13 14 15): 10.524003982543945, EP: 1.0133934020996094	 ([australia][darren][lehmann][first][day][third][test][tuesday][could][sideline][rest])
+v(0 1 2 4 5 6 9 10 11 13 14 16): 10.448455810546875, EP: 1.006118655204773	 ([australia][batsman][darren][sustained][hamstring][tear][third][test][india][could][sideline][match.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 10.38491439819336, EP: 1.0	 ([australia][batsman][darren][lehmann][sustained][hamstring][tear][first][day][third][test][india][tuesday][could][sideline][rest][match.])
+v(0 2 9 10 13 14): 10.26646614074707, EP: 0.9885941743850708	 ([australia][darren][third][test][could][sideline])
+v(1 3 4 5 6 7 8 11 12 15 16): 10.192146301269531, EP: 0.9814376831054688	 ([batsman][lehmann][sustained][hamstring][tear][first][day][india][tuesday][rest][match.])
+v(1 4 5 6 11 16): 9.897911071777344, EP: 0.9531047344207764	 ([batsman][sustained][hamstring][tear][india][match.])
+v(3 7 8 12 15): -0.7132761478424072, EP: -0.06868387013673782	 ([lehmann][first][day][tuesday][rest])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

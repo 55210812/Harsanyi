@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: might
+Player 1: shaken
+Player 2: betting
+Player 3: market
+Player 4: new
+Player 5: zealand
+Player 6: finally
+Player 7: got
+Player 8: something
+Player 9: tour
+Player 10: australia.
+Player 11: destroyed
+Player 12: aussie
+Player 13: test
+Player 14: matches,
+Player 15: first
+Player 16: one - day
+Player 17: match
+Player 18: three
+Player 19: match
+Player 20: series.
+---------- Rewards ----------
+v(): 3.053072452545166	 ([])
+v(2 3 14 16 17 19): 7.158725738525391	 ([betting][market][matches,][one - day][match][match])
+v(5 9 10 13): 9.529467582702637	 ([zealand][tour][australia.][test])
+v(0 1 4 6 7 8 11 12 15 18 20): 7.917224407196045	 ([might][shaken][new][finally][got][something][destroyed][aussie][first][three][series.])
+v(2 3 5 9 10 13 14 16 17 19): 9.347984313964844	 ([betting][market][zealand][tour][australia.][test][matches,][one - day][match][match])
+v(0 1 2 3 4 6 7 8 11 12 14 15 16 17 18 19 20): 9.352724075317383	 ([might][shaken][betting][market][new][finally][got][something][destroyed][aussie][matches,][first][one - day][match][three][match][series.])
+v(0 1 4 5 6 7 8 9 10 11 12 13 15 18 20): 9.591168403625488	 ([might][shaken][new][zealand][finally][got][something][tour][australia.][destroyed][aussie][test][first][three][series.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.50713062286377	 ([might][shaken][betting][market][new][zealand][finally][got][something][tour][australia.][destroyed][aussie][test][matches,][first][one - day][match][three][match][series.])
+---------- Rewards-v() ----------
+v(0 1 4 5 6 7 8 9 10 11 12 13 15 18 20): 6.538095951080322, EP: 1.0130208730697632	 ([might][shaken][new][zealand][finally][got][something][tour][australia.][destroyed][aussie][test][first][three][series.])
+v(5 9 10 13): 6.476395130157471, EP: 1.0034608840942383	 ([zealand][tour][australia.][test])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 6.4540581703186035, EP: 1.0	 ([might][shaken][betting][market][new][zealand][finally][got][something][tour][australia.][destroyed][aussie][test][matches,][first][one - day][match][three][match][series.])
+v(0 1 2 3 4 6 7 8 11 12 14 15 16 17 18 19 20): 6.299651622772217, EP: 0.976076066493988	 ([might][shaken][betting][market][new][finally][got][something][destroyed][aussie][matches,][first][one - day][match][three][match][series.])
+v(2 3 5 9 10 13 14 16 17 19): 6.294911861419678, EP: 0.9753416776657104	 ([betting][market][zealand][tour][australia.][test][matches,][one - day][match][match])
+v(0 1 4 6 7 8 11 12 15 18 20): 4.864151954650879, EP: 0.753657877445221	 ([might][shaken][new][finally][got][something][destroyed][aussie][first][three][series.])
+v(2 3 14 16 17 19): 4.105653285980225, EP: 0.6361351609230042	 ([betting][market][matches,][one - day][match][match])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: like
+Player 1: elegant
+Player 2: strike
+Player 3: wales
+Player 4: saturday
+Player 5: -
+Player 6: tempestuous
+Player 7: streak
+Player 8: running
+Player 9: hot
+Player 10: head
+Player 11: his.
+Player 12: streak
+Player 13: recklessness
+Player 14: -
+Player 15: -
+Player 16: landed
+Player 17: trouble.
+---------- Rewards ----------
+v(): -3.258700370788574	 ([])
+v(1 2 3 5 6 11): 7.6254167556762695	 ([elegant][strike][wales][-][tempestuous][his.])
+v(0 4 7 8 9 12 13 15): 2.119359016418457	 ([like][saturday][streak][running][hot][streak][recklessness][-])
+v(10 14 16 17): -1.48209547996521	 ([head][-][landed][trouble.])
+v(0 1 2 3 4 5 6 7 8 9 11 12 13 15): 9.396058082580566	 ([like][elegant][strike][wales][saturday][-][tempestuous][streak][running][hot][his.][streak][recklessness][-])
+v(1 2 3 5 6 10 11 14 16 17): 8.495131492614746	 ([elegant][strike][wales][-][tempestuous][head][his.][-][landed][trouble.])
+v(0 4 7 8 9 10 12 13 14 15 16 17): 3.2554781436920166	 ([like][saturday][streak][running][hot][head][streak][recklessness][-][-][landed][trouble.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.396749496459961	 ([like][elegant][strike][wales][saturday][-][tempestuous][streak][running][hot][head][his.][streak][recklessness][-][-][landed][trouble.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 12.655449867248535, EP: 1.0	 ([like][elegant][strike][wales][saturday][-][tempestuous][streak][running][hot][head][his.][streak][recklessness][-][-][landed][trouble.])
+v(0 1 2 3 4 5 6 7 8 9 11 12 13 15): 12.65475845336914, EP: 0.999945342540741	 ([like][elegant][strike][wales][saturday][-][tempestuous][streak][running][hot][his.][streak][recklessness][-])
+v(1 2 3 5 6 10 11 14 16 17): 11.75383186340332, EP: 0.9287565350532532	 ([elegant][strike][wales][-][tempestuous][head][his.][-][landed][trouble.])
+v(1 2 3 5 6 11): 10.884117126464844, EP: 0.8600339889526367	 ([elegant][strike][wales][-][tempestuous][his.])
+v(0 4 7 8 9 10 12 13 14 15 16 17): 6.514178276062012, EP: 0.514733076095581	 ([like][saturday][streak][running][hot][head][streak][recklessness][-][-][landed][trouble.])
+v(0 4 7 8 9 12 13 15): 5.378059387207031, EP: 0.4249599575996399	 ([like][saturday][streak][running][hot][streak][recklessness][-])
+v(10 14 16 17): 1.7766048908233643, EP: 0.1403825879096985	 ([head][-][landed][trouble.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

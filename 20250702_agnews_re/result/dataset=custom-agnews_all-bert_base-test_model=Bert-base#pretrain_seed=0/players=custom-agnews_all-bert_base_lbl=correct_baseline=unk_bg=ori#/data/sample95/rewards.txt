@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: desktop
+Player 1: 9
+Player 2: includes
+Player 3: novell
+Player 4: # 39 ; s
+Player 5: edition
+Player 6: openoffice. org
+Player 7: office
+Player 8: productivity
+Player 9: suite,
+Player 10: mozilla
+Player 11: firefox
+Player 12: web
+Player 13: browser,
+Player 14: evolution
+Player 15: software
+Player 16: collaborating
+Player 17: windows,
+Player 18: zenworks
+Player 19: linux
+Player 20: management.
+---------- Rewards ----------
+v(): 3.7459564208984375	 ([])
+v(1 4 8 17 18): -8.243999481201172	 ([9][# 39 ; s][productivity][windows,][zenworks])
+v(0 2 3 5 6 7 9 10 11 12 13 14 15 16 19 20): 7.672698497772217	 ([desktop][includes][novell][edition][openoffice. org][office][suite,][mozilla][firefox][web][browser,][evolution][software][collaborating][linux][management.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 5.507619857788086	 ([desktop][9][includes][novell][# 39 ; s][edition][openoffice. org][office][productivity][suite,][mozilla][firefox][web][browser,][evolution][software][collaborating][windows,][zenworks][linux][management.])
+---------- Rewards-v() ----------
+v(1 4 8 17 18): -11.98995590209961, EP: -6.806042194366455	 ([9][# 39 ; s][productivity][windows,][zenworks])
+v(0 2 3 5 6 7 9 10 11 12 13 14 15 16 19 20): 3.9267420768737793, EP: 2.228996753692627	 ([desktop][includes][novell][edition][openoffice. org][office][suite,][mozilla][firefox][web][browser,][evolution][software][collaborating][linux][management.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 1.7616634368896484, EP: 1.0	 ([desktop][9][includes][novell][# 39 ; s][edition][openoffice. org][office][productivity][suite,][mozilla][firefox][web][browser,][evolution][software][collaborating][windows,][zenworks][linux][management.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

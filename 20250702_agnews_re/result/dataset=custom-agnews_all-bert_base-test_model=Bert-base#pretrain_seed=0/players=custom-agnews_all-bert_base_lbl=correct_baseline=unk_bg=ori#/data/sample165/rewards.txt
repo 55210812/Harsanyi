@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: according
+Player 1: microsoft
+Player 2: site,
+Player 3: vulnerabilty
+Player 4: wordpad
+Player 5: allows
+Player 6: attacker
+Player 7: take
+Player 8: complete
+Player 9: control
+Player 10: affected
+Player 11: system.
+---------- Rewards ----------
+v(): 2.631531238555908	 ([])
+v(10 11): 2.2217628955841064	 ([affected][system.])
+v(1 2 4 5): 5.9951171875	 ([microsoft][site,][wordpad][allows])
+v(0 3 6 7 8 9): 4.81206750869751	 ([according][vulnerabilty][attacker][take][complete][control])
+v(1 2 4 5 10 11): 6.6953325271606445	 ([microsoft][site,][wordpad][allows][affected][system.])
+v(0 3 6 7 8 9 10 11): 7.370399475097656	 ([according][vulnerabilty][attacker][take][complete][control][affected][system.])
+v(0 1 2 3 4 5 6 7 8 9): 8.108451843261719	 ([according][microsoft][site,][vulnerabilty][wordpad][allows][attacker][take][complete][control])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 7.275781631469727	 ([according][microsoft][site,][vulnerabilty][wordpad][allows][attacker][take][complete][control][affected][system.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9): 5.4769206047058105, EP: 1.179290533065796	 ([according][microsoft][site,][vulnerabilty][wordpad][allows][attacker][take][complete][control])
+v(0 3 6 7 8 9 10 11): 4.738868236541748, EP: 1.0203731060028076	 ([according][vulnerabilty][attacker][take][complete][control][affected][system.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 4.644250392913818, EP: 1.0	 ([according][microsoft][site,][vulnerabilty][wordpad][allows][attacker][take][complete][control][affected][system.])
+v(1 2 4 5 10 11): 4.063801288604736, EP: 0.8750177025794983	 ([microsoft][site,][wordpad][allows][affected][system.])
+v(1 2 4 5): 3.363585948944092, EP: 0.7242473363876343	 ([microsoft][site,][wordpad][allows])
+v(0 3 6 7 8 9): 2.1805362701416016, EP: 0.46951305866241455	 ([according][vulnerabilty][attacker][take][complete][control])
+v(10 11): -0.40976834297180176, EP: -0.08823131769895554	 ([affected][system.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

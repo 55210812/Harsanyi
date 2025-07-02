@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: p2pnet. net
+Player 1: news
+Player 2: -
+Player 3: sir
+Player 4: tim
+Player 5: berners - lee,
+Player 6: man
+Player 7: invented
+Player 8: world
+Player 9: wide
+Player 10: web,
+Player 11: going
+Player 12: home
+Player 13: england
+Player 14: # 39 ; s
+Player 15: appointed
+Player 16: professor
+Player 17: southampton
+Player 18: university.
+---------- Rewards ----------
+v(): 2.988098382949829	 ([])
+v(0 3 4 5 7 10 13 17 18): 8.05731201171875	 ([p2pnet. net][sir][tim][berners - lee,][invented][web,][england][southampton][university.])
+v(1 2 6 8 9 11 12 14 15 16): -3.834439277648926	 ([news][-][man][world][wide][going][home][# 39 ; s][appointed][professor])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.06196117401123	 ([p2pnet. net][news][-][sir][tim][berners - lee,][man][invented][world][wide][web,][going][home][england][# 39 ; s][appointed][professor][southampton][university.])
+---------- Rewards-v() ----------
+v(1 2 6 8 9 11 12 14 15 16): -6.822537422180176, EP: -1.3446435928344727	 ([news][-][man][world][wide][going][home][# 39 ; s][appointed][professor])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 5.0738630294799805, EP: 1.0	 ([p2pnet. net][news][-][sir][tim][berners - lee,][man][invented][world][wide][web,][going][home][england][# 39 ; s][appointed][professor][southampton][university.])
+v(0 3 4 5 7 10 13 17 18): 5.0692138671875, EP: 0.9990836977958679	 ([p2pnet. net][sir][tim][berners - lee,][invented][web,][england][southampton][university.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

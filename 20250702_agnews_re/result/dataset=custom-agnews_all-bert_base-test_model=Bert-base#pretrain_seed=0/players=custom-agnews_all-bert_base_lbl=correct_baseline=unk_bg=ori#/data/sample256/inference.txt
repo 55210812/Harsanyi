@@ -1,0 +1,39 @@
+Execution time: 2025-07-02 19:23:34
+prompt: [CLS] israeli troops have entered the rafah refugee camp in southern gaza in a new incursion to locate palestinian weapons smuggling tunnels, the army says. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:5611 decoded_text: israeli
+idx:2 input_id:3629 decoded_text: troops
+idx:3 input_id:2031 decoded_text: have
+idx:4 input_id:3133 decoded_text: entered
+idx:5 input_id:1996 decoded_text: the
+idx:6 input_id:7148 decoded_text: raf
+idx:7 input_id:4430 decoded_text: ##ah
+idx:8 input_id:13141 decoded_text: refugee
+idx:9 input_id:3409 decoded_text: camp
+idx:10 input_id:1999 decoded_text: in
+idx:11 input_id:2670 decoded_text: southern
+idx:12 input_id:14474 decoded_text: gaza
+idx:13 input_id:1999 decoded_text: in
+idx:14 input_id:1037 decoded_text: a
+idx:15 input_id:2047 decoded_text: new
+idx:16 input_id:4297 decoded_text: inc
+idx:17 input_id:9236 decoded_text: ##urs
+idx:18 input_id:3258 decoded_text: ##ion
+idx:19 input_id:2000 decoded_text: to
+idx:20 input_id:12453 decoded_text: locate
+idx:21 input_id:9302 decoded_text: palestinian
+idx:22 input_id:4255 decoded_text: weapons
+idx:23 input_id:19535 decoded_text: smuggling
+idx:24 input_id:10633 decoded_text: tunnels
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:2390 decoded_text: army
+idx:28 input_id:2758 decoded_text: says
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.9851975440979, -1.7239075899124146, -2.8540196418762207, -2.039285898208618]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

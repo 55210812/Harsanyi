@@ -1,0 +1,34 @@
+Execution time: 2025-07-02 19:26:46
+prompt: [CLS] a strong earthquake with a preliminary magnitude of 6. 8 shook northern japan on saturday, rocking buildings hundreds of miles away. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:2844 decoded_text: strong
+idx:3 input_id:8372 decoded_text: earthquake
+idx:4 input_id:2007 decoded_text: with
+idx:5 input_id:1037 decoded_text: a
+idx:6 input_id:8824 decoded_text: preliminary
+idx:7 input_id:10194 decoded_text: magnitude
+idx:8 input_id:1997 decoded_text: of
+idx:9 input_id:1020 decoded_text: 6
+idx:10 input_id:1012 decoded_text: .
+idx:11 input_id:1022 decoded_text: 8
+idx:12 input_id:3184 decoded_text: shook
+idx:13 input_id:2642 decoded_text: northern
+idx:14 input_id:2900 decoded_text: japan
+idx:15 input_id:2006 decoded_text: on
+idx:16 input_id:5095 decoded_text: saturday
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:14934 decoded_text: rocking
+idx:19 input_id:3121 decoded_text: buildings
+idx:20 input_id:5606 decoded_text: hundreds
+idx:21 input_id:1997 decoded_text: of
+idx:22 input_id:2661 decoded_text: miles
+idx:23 input_id:2185 decoded_text: away
+idx:24 input_id:1012 decoded_text: .
+idx:25 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.891440391540527, -1.7566335201263428, -2.4169769287109375, -2.51896333694458]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

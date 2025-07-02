@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: com
+Player 1: november
+Player 2: 17,
+Player 3: 2004,
+Player 4: 5 : 02
+Player 5: pm
+Player 6: pt.
+Player 7: priority
+Player 8: retains
+Player 9: ranking
+Player 10: number
+Player 11: five
+Player 12: companies
+Player 13: deploy
+Player 14: web
+Player 15: services
+Player 16: share
+Player 17: business
+Player 18: logic,
+Player 19: data
+Player 20: processes
+Player 21: clients.
+---------- Rewards ----------
+v(): 2.1033782958984375	 ([])
+v(12 13 15 16 17): -0.32252001762390137	 ([companies][deploy][services][share][business])
+v(3 4 9 10 11 14 18): 7.494248390197754	 ([2004,][5 : 02][ranking][number][five][web][logic,])
+v(0 1 2 6): 3.9896724224090576	 ([com][november][17,][pt.])
+v(5 7 8 19 20 21): 4.449749946594238	 ([pm][priority][retains][data][processes][clients.])
+v(3 4 9 10 11 12 13 14 15 16 17 18): 3.6006388664245605	 ([2004,][5 : 02][ranking][number][five][companies][deploy][web][services][share][business][logic,])
+v(0 1 2 6 12 13 15 16 17): -0.011109113693237305	 ([com][november][17,][pt.][companies][deploy][services][share][business])
+v(5 7 8 12 13 15 16 17 19 20 21): 2.2542316913604736	 ([pm][priority][retains][companies][deploy][services][share][business][data][processes][clients.])
+v(0 1 2 3 4 6 9 10 11 14 18): 7.756398677825928	 ([com][november][17,][2004,][5 : 02][pt.][ranking][number][five][web][logic,])
+v(3 4 5 7 8 9 10 11 14 18 19 20 21): 7.6301350593566895	 ([2004,][5 : 02][pm][priority][retains][ranking][number][five][web][logic,][data][processes][clients.])
+v(0 1 2 5 6 7 8 19 20 21): 4.786416053771973	 ([com][november][17,][pm][pt.][priority][retains][data][processes][clients.])
+v(0 1 2 3 4 6 9 10 11 12 13 14 15 16 17 18): 4.52564001083374	 ([com][november][17,][2004,][5 : 02][pt.][ranking][number][five][companies][deploy][web][services][share][business][logic,])
+v(3 4 5 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 4.569050312042236	 ([2004,][5 : 02][pm][priority][retains][ranking][number][five][companies][deploy][web][services][share][business][logic,][data][processes][clients.])
+v(0 1 2 5 6 7 8 12 13 15 16 17 19 20 21): 3.2453975677490234	 ([com][november][17,][pm][pt.][priority][retains][companies][deploy][services][share][business][data][processes][clients.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 14 18 19 20 21): 7.158566474914551	 ([com][november][17,][2004,][5 : 02][pm][pt.][priority][retains][ranking][number][five][web][logic,][data][processes][clients.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 4.821107864379883	 ([com][november][17,][2004,][5 : 02][pm][pt.][priority][retains][ranking][number][five][companies][deploy][web][services][share][business][logic,][data][processes][clients.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 6 9 10 11 14 18): 5.65302038192749, EP: 2.080052614212036	 ([com][november][17,][2004,][5 : 02][pt.][ranking][number][five][web][logic,])
+v(3 4 5 7 8 9 10 11 14 18 19 20 21): 5.526756763458252, EP: 2.0335934162139893	 ([2004,][5 : 02][pm][priority][retains][ranking][number][five][web][logic,][data][processes][clients.])
+v(3 4 9 10 11 14 18): 5.390870094299316, EP: 1.983593225479126	 ([2004,][5 : 02][ranking][number][five][web][logic,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 14 18 19 20 21): 5.055188179016113, EP: 1.8600777387619019	 ([com][november][17,][2004,][5 : 02][pm][pt.][priority][retains][ranking][number][five][web][logic,][data][processes][clients.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 2.7177295684814453, EP: 1.0	 ([com][november][17,][2004,][5 : 02][pm][pt.][priority][retains][ranking][number][five][companies][deploy][web][services][share][business][logic,][data][processes][clients.])
+v(0 1 2 5 6 7 8 19 20 21): 2.683037757873535, EP: 0.9872350096702576	 ([com][november][17,][pm][pt.][priority][retains][data][processes][clients.])
+v(3 4 5 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 2.465672016143799, EP: 0.9072543382644653	 ([2004,][5 : 02][pm][priority][retains][ranking][number][five][companies][deploy][web][services][share][business][logic,][data][processes][clients.])
+v(12 13 15 16 17): -2.425898313522339, EP: -0.8926194906234741	 ([companies][deploy][services][share][business])
+v(0 1 2 3 4 6 9 10 11 12 13 14 15 16 17 18): 2.4222617149353027, EP: 0.8912813663482666	 ([com][november][17,][2004,][5 : 02][pt.][ranking][number][five][companies][deploy][web][services][share][business][logic,])
+v(5 7 8 19 20 21): 2.346371650695801, EP: 0.8633573055267334	 ([pm][priority][retains][data][processes][clients.])
+v(0 1 2 6 12 13 15 16 17): -2.114487409591675, EP: -0.778034508228302	 ([com][november][17,][pt.][companies][deploy][services][share][business])
+v(0 1 2 6): 1.8862941265106201, EP: 0.6940698623657227	 ([com][november][17,][pt.])
+v(3 4 9 10 11 12 13 14 15 16 17 18): 1.497260570526123, EP: 0.5509232878684998	 ([2004,][5 : 02][ranking][number][five][companies][deploy][web][services][share][business][logic,])
+v(0 1 2 5 6 7 8 12 13 15 16 17 19 20 21): 1.142019271850586, EP: 0.4202107787132263	 ([com][november][17,][pm][pt.][priority][retains][companies][deploy][services][share][business][data][processes][clients.])
+v(5 7 8 12 13 15 16 17 19 20 21): 0.15085339546203613, EP: 0.05550713837146759	 ([pm][priority][retains][companies][deploy][services][share][business][data][processes][clients.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

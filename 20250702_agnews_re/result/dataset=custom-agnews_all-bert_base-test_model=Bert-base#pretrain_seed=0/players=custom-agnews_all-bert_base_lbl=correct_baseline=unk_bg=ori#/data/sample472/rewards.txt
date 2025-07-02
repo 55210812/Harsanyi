@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: joel
+Player 1: statham
+Player 2: passed
+Player 3: 333
+Player 4: yards
+Player 5: saturday
+Player 6: maryland
+Player 7: posted
+Player 8: 20 - 17
+Player 9: upset
+Player 10: no.
+Player 11: 5
+Player 12: florida
+Player 13: state
+Player 14: - -
+Player 15: first
+Player 16: victory
+Player 17: seminoles.
+---------- Rewards ----------
+v(): -2.5098049640655518	 ([])
+v(0 1 3 4 5 6 17): 8.41569709777832	 ([joel][statham][333][yards][saturday][maryland][seminoles.])
+v(7 12 13): -1.6915817260742188	 ([posted][florida][state])
+v(2 8 9 10 11 14 15 16): 4.168989181518555	 ([passed][20 - 17][upset][no.][5][- -][first][victory])
+v(0 1 3 4 5 6 7 12 13 17): 8.506689071655273	 ([joel][statham][333][yards][saturday][maryland][posted][florida][state][seminoles.])
+v(0 1 2 3 4 5 6 8 9 10 11 14 15 16 17): 8.674970626831055	 ([joel][statham][passed][333][yards][saturday][maryland][20 - 17][upset][no.][5][- -][first][victory][seminoles.])
+v(2 7 8 9 10 11 12 13 14 15 16): 8.573410034179688	 ([passed][posted][20 - 17][upset][no.][5][florida][state][- -][first][victory])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 7.964301109313965	 ([joel][statham][passed][333][yards][saturday][maryland][posted][20 - 17][upset][no.][5][florida][state][- -][first][victory][seminoles.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 8 9 10 11 14 15 16 17): 11.184775352478027, EP: 1.067850112915039	 ([joel][statham][passed][333][yards][saturday][maryland][20 - 17][upset][no.][5][- -][first][victory][seminoles.])
+v(2 7 8 9 10 11 12 13 14 15 16): 11.08321475982666, EP: 1.058153748512268	 ([passed][posted][20 - 17][upset][no.][5][florida][state][- -][first][victory])
+v(0 1 3 4 5 6 7 12 13 17): 11.016493797302246, EP: 1.0517836809158325	 ([joel][statham][333][yards][saturday][maryland][posted][florida][state][seminoles.])
+v(0 1 3 4 5 6 17): 10.925501823425293, EP: 1.0430964231491089	 ([joel][statham][333][yards][saturday][maryland][seminoles.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 10.474105834960938, EP: 1.0	 ([joel][statham][passed][333][yards][saturday][maryland][posted][20 - 17][upset][no.][5][florida][state][- -][first][victory][seminoles.])
+v(2 8 9 10 11 14 15 16): 6.678793907165527, EP: 0.6376481056213379	 ([passed][20 - 17][upset][no.][5][- -][first][victory])
+v(7 12 13): 0.818223237991333, EP: 0.07811867445707321	 ([posted][florida][state])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,71 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: ( reuters )
+Player 3: -
+Player 4: seldom
+Player 5: used
+Player 6: auction
+Player 7: system
+Player 8: web
+Player 9: search
+Player 10: giant
+Player 11: google
+Player 12: inc.
+Player 13: & lt ; a
+Player 14: href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o
+Player 15: target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;
+Player 16: used
+Player 17: initial
+Player 18: public
+Player 19: offering
+Player 20: expected
+Player 21: change
+Player 22: way
+Player 23: wall
+Player 24: street
+Player 25: business,
+Player 26: almost
+Player 27: three
+Player 28: months
+Player 29: later,
+Player 30: yet
+Player 31: another
+Player 32: deal
+Player 33: like
+Player 34: it.
+---------- Rewards ----------
+v(): -7.456880569458008	 ([])
+v(10 14 15): 8.530829429626465	 ([giant][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;])
+v(2 3 5 8 9 13 16 17 18 19 20 21 25 30): 1.1237273216247559	 ([( reuters )][-][used][web][search][& lt ; a][used][initial][public][offering][expected][change][business,][yet])
+v(1 4 6 7 11 12 22 24): -1.399242877960205	 ([york][seldom][auction][system][google][inc.][way][street])
+v(0 23 26 27 28 29 31 32 33 34): -7.610258102416992	 ([new][wall][almost][three][months][later,][another][deal][like][it.])
+v(2 3 5 8 9 10 13 14 15 16 17 18 19 20 21 25 30): 8.543006896972656	 ([( reuters )][-][used][web][search][giant][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;][used][initial][public][offering][expected][change][business,][yet])
+v(1 4 6 7 10 11 12 14 15 22 24): 8.560641288757324	 ([york][seldom][auction][system][giant][google][inc.][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;][way][street])
+v(0 10 14 15 23 26 27 28 29 31 32 33 34): 8.525094985961914	 ([new][giant][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;][wall][almost][three][months][later,][another][deal][like][it.])
+v(1 2 3 4 5 6 7 8 9 11 12 13 16 17 18 19 20 21 22 24 25 30): -0.21890044212341309	 ([york][( reuters )][-][seldom][used][auction][system][web][search][google][inc.][& lt ; a][used][initial][public][offering][expected][change][way][street][business,][yet])
+v(0 2 3 5 8 9 13 16 17 18 19 20 21 23 25 26 27 28 29 30 31 32 33 34): -1.1871747970581055	 ([new][( reuters )][-][used][web][search][& lt ; a][used][initial][public][offering][expected][change][wall][business,][almost][three][months][later,][yet][another][deal][like][it.])
+v(0 1 4 6 7 11 12 22 23 24 26 27 28 29 31 32 33 34): 0.49689817428588867	 ([new][york][seldom][auction][system][google][inc.][way][wall][street][almost][three][months][later,][another][deal][like][it.])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 24 25 30): 8.550363540649414	 ([york][( reuters )][-][seldom][used][auction][system][web][search][giant][google][inc.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;][used][initial][public][offering][expected][change][way][street][business,][yet])
+v(0 2 3 5 8 9 10 13 14 15 16 17 18 19 20 21 23 25 26 27 28 29 30 31 32 33 34): 8.521004676818848	 ([new][( reuters )][-][used][web][search][giant][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;][used][initial][public][offering][expected][change][wall][business,][almost][three][months][later,][yet][another][deal][like][it.])
+v(0 1 4 6 7 10 11 12 14 15 22 23 24 26 27 28 29 31 32 33 34): 8.570322036743164	 ([new][york][seldom][auction][system][giant][google][inc.][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;][way][wall][street][almost][three][months][later,][another][deal][like][it.])
+v(0 1 2 3 4 5 6 7 8 9 11 12 13 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34): 0.6671793460845947	 ([new][york][( reuters )][-][seldom][used][auction][system][web][search][google][inc.][& lt ; a][used][initial][public][offering][expected][change][way][wall][street][business,][almost][three][months][later,][yet][another][deal][like][it.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34): 8.552178382873535	 ([new][york][( reuters )][-][seldom][used][auction][system][web][search][giant][google][inc.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;][used][initial][public][offering][expected][change][way][wall][street][business,][almost][three][months][later,][yet][another][deal][like][it.])
+---------- Rewards-v() ----------
+v(0 1 4 6 7 10 11 12 14 15 22 23 24 26 27 28 29 31 32 33 34): 16.027202606201172, EP: 1.0011333227157593	 ([new][york][seldom][auction][system][giant][google][inc.][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;][way][wall][street][almost][three][months][later,][another][deal][like][it.])
+v(1 4 6 7 10 11 12 14 15 22 24): 16.017520904541016, EP: 1.0005284547805786	 ([york][seldom][auction][system][giant][google][inc.][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;][way][street])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34): 16.00905990600586, EP: 1.0	 ([new][york][( reuters )][-][seldom][used][auction][system][web][search][giant][google][inc.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;][used][initial][public][offering][expected][change][way][wall][street][business,][almost][three][months][later,][yet][another][deal][like][it.])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 24 25 30): 16.007244110107422, EP: 0.9998865723609924	 ([york][( reuters )][-][seldom][used][auction][system][web][search][giant][google][inc.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;][used][initial][public][offering][expected][change][way][street][business,][yet])
+v(2 3 5 8 9 10 13 14 15 16 17 18 19 20 21 25 30): 15.999887466430664, EP: 0.9994270205497742	 ([( reuters )][-][used][web][search][giant][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;][used][initial][public][offering][expected][change][business,][yet])
+v(10 14 15): 15.987709999084473, EP: 0.9986664056777954	 ([giant][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;])
+v(0 10 14 15 23 26 27 28 29 31 32 33 34): 15.981975555419922, EP: 0.9983081817626953	 ([new][giant][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;][wall][almost][three][months][later,][another][deal][like][it.])
+v(0 2 3 5 8 9 10 13 14 15 16 17 18 19 20 21 23 25 26 27 28 29 30 31 32 33 34): 15.977885246276855, EP: 0.9980526566505432	 ([new][( reuters )][-][used][web][search][giant][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;][used][initial][public][offering][expected][change][wall][business,][almost][three][months][later,][yet][another][deal][like][it.])
+v(2 3 5 8 9 13 16 17 18 19 20 21 25 30): 8.580608367919922, EP: 0.5359845161437988	 ([( reuters )][-][used][web][search][& lt ; a][used][initial][public][offering][expected][change][business,][yet])
+v(0 1 2 3 4 5 6 7 8 9 11 12 13 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34): 8.124059677124023, EP: 0.5074663758277893	 ([new][york][( reuters )][-][seldom][used][auction][system][web][search][google][inc.][& lt ; a][used][initial][public][offering][expected][change][way][wall][street][business,][almost][three][months][later,][yet][another][deal][like][it.])
+v(0 1 4 6 7 11 12 22 23 24 26 27 28 29 31 32 33 34): 7.9537787437438965, EP: 0.4968298375606537	 ([new][york][seldom][auction][system][google][inc.][way][wall][street][almost][three][months][later,][another][deal][like][it.])
+v(1 2 3 4 5 6 7 8 9 11 12 13 16 17 18 19 20 21 22 24 25 30): 7.237979888916016, EP: 0.4521177411079407	 ([york][( reuters )][-][seldom][used][auction][system][web][search][google][inc.][& lt ; a][used][initial][public][offering][expected][change][way][street][business,][yet])
+v(0 2 3 5 8 9 13 16 17 18 19 20 21 23 25 26 27 28 29 30 31 32 33 34): 6.269705772399902, EP: 0.39163485169410706	 ([new][( reuters )][-][used][web][search][& lt ; a][used][initial][public][offering][expected][change][wall][business,][almost][three][months][later,][yet][another][deal][like][it.])
+v(1 4 6 7 11 12 22 24): 6.057637691497803, EP: 0.37838810682296753	 ([york][seldom][auction][system][google][inc.][way][street])
+v(0 23 26 27 28 29 31 32 33 34): -0.15337753295898438, EP: -0.009580670855939388	 ([new][wall][almost][three][months][later,][another][deal][like][it.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

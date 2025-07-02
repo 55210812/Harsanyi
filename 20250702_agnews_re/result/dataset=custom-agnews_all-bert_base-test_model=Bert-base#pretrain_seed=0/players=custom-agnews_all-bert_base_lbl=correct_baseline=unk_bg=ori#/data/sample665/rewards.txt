@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: london,
+Player 1: england
+Player 2: - -
+Player 3: us - led
+Player 4: coalition
+Player 5: must
+Player 6: speed
+Player 7: quot ; exit
+Player 8: strategy
+Player 9: quot ;
+Player 10: iraq
+Player 11: accelerating
+Player 12: training
+Player 13: local
+Player 14: security
+Player 15: forces,
+Player 16: pakistani
+Player 17: president
+Player 18: pervez
+Player 19: musharraf
+Player 20: said.
+---------- Rewards ----------
+v(): -5.181554317474365	 ([])
+v(0 1 10 11 12 13 14 15 16 19): 7.679455280303955	 ([london,][england][iraq][accelerating][training][local][security][forces,][pakistani][musharraf])
+v(7 8): -7.6126017570495605	 ([quot ; exit][strategy])
+v(2 3 4 5 6 9 17 18 20): 8.154046058654785	 ([- -][us - led][coalition][must][speed][quot ;][president][pervez][said.])
+v(0 1 7 8 10 11 12 13 14 15 16 19): 7.966912746429443	 ([london,][england][quot ; exit][strategy][iraq][accelerating][training][local][security][forces,][pakistani][musharraf])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 15 16 17 18 19 20): 8.162919998168945	 ([london,][england][- -][us - led][coalition][must][speed][quot ;][iraq][accelerating][training][local][security][forces,][pakistani][president][pervez][musharraf][said.])
+v(2 3 4 5 6 7 8 9 17 18 20): 8.158763885498047	 ([- -][us - led][coalition][must][speed][quot ; exit][strategy][quot ;][president][pervez][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.135421752929688	 ([london,][england][- -][us - led][coalition][must][speed][quot ; exit][strategy][quot ;][iraq][accelerating][training][local][security][forces,][pakistani][president][pervez][musharraf][said.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 15 16 17 18 19 20): 13.344474792480469, EP: 1.0020649433135986	 ([london,][england][- -][us - led][coalition][must][speed][quot ;][iraq][accelerating][training][local][security][forces,][pakistani][president][pervez][musharraf][said.])
+v(2 3 4 5 6 7 8 9 17 18 20): 13.34031867980957, EP: 1.0017528533935547	 ([- -][us - led][coalition][must][speed][quot ; exit][strategy][quot ;][president][pervez][said.])
+v(2 3 4 5 6 9 17 18 20): 13.335599899291992, EP: 1.0013984441757202	 ([- -][us - led][coalition][must][speed][quot ;][president][pervez][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.316976547241211, EP: 1.0	 ([london,][england][- -][us - led][coalition][must][speed][quot ; exit][strategy][quot ;][iraq][accelerating][training][local][security][forces,][pakistani][president][pervez][musharraf][said.])
+v(0 1 7 8 10 11 12 13 14 15 16 19): 13.148467063903809, EP: 0.9873462915420532	 ([london,][england][quot ; exit][strategy][iraq][accelerating][training][local][security][forces,][pakistani][musharraf])
+v(0 1 10 11 12 13 14 15 16 19): 12.86100959777832, EP: 0.9657604694366455	 ([london,][england][iraq][accelerating][training][local][security][forces,][pakistani][musharraf])
+v(7 8): -2.4310474395751953, EP: -0.1825525015592575	 ([quot ; exit][strategy])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

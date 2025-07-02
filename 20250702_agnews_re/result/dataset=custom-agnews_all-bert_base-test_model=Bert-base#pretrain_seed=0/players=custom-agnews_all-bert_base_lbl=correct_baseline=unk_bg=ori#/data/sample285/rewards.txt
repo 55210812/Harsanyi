@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: brawl
+Player 1: erupted
+Player 2: fans
+Player 3: texas
+Player 4: rangers
+Player 5: players
+Player 6: game
+Player 7: monday,
+Player 8: september
+Player 9: 13
+Player 10: oakland
+Player 11: athletics
+Player 12: coliseum,
+Player 13: resulted
+Player 14: rangers
+Player 15: rookie
+Player 16: pitcher
+Player 17: frank
+Player 18: francisco
+Player 19: arrested
+Player 20: charged
+Player 21: aggravated
+Player 22: battery
+Player 23: heaving
+---------- Rewards ----------
+v(): -2.4149653911590576	 ([])
+v(0 2 3 4 10 11 12 15): 9.675288200378418	 ([brawl][fans][texas][rangers][oakland][athletics][coliseum,][rookie])
+v(13 14 16 17 18): 9.55310344696045	 ([resulted][rangers][pitcher][frank][francisco])
+v(1 5 6 7 8 9 19 20 21 22 23): 9.115283012390137	 ([erupted][players][game][monday,][september][13][arrested][charged][aggravated][battery][heaving])
+v(0 2 3 4 10 11 12 13 14 15 16 17 18): 9.333294868469238	 ([brawl][fans][texas][rangers][oakland][athletics][coliseum,][resulted][rangers][rookie][pitcher][frank][francisco])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 15 19 20 21 22 23): 9.776658058166504	 ([brawl][erupted][fans][texas][rangers][players][game][monday,][september][13][oakland][athletics][coliseum,][rookie][arrested][charged][aggravated][battery][heaving])
+v(1 5 6 7 8 9 13 14 16 17 18 19 20 21 22 23): 9.751608848571777	 ([erupted][players][game][monday,][september][13][resulted][rangers][pitcher][frank][francisco][arrested][charged][aggravated][battery][heaving])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 9.446734428405762	 ([brawl][erupted][fans][texas][rangers][players][game][monday,][september][13][oakland][athletics][coliseum,][resulted][rangers][rookie][pitcher][frank][francisco][arrested][charged][aggravated][battery][heaving])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 15 19 20 21 22 23): 12.19162368774414, EP: 1.0278141498565674	 ([brawl][erupted][fans][texas][rangers][players][game][monday,][september][13][oakland][athletics][coliseum,][rookie][arrested][charged][aggravated][battery][heaving])
+v(1 5 6 7 8 9 13 14 16 17 18 19 20 21 22 23): 12.166574478149414, EP: 1.0257024765014648	 ([erupted][players][game][monday,][september][13][resulted][rangers][pitcher][frank][francisco][arrested][charged][aggravated][battery][heaving])
+v(0 2 3 4 10 11 12 15): 12.090253829956055, EP: 1.0192681550979614	 ([brawl][fans][texas][rangers][oakland][athletics][coliseum,][rookie])
+v(13 14 16 17 18): 11.968069076538086, EP: 1.008967399597168	 ([resulted][rangers][pitcher][frank][francisco])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 11.861700057983398, EP: 1.0	 ([brawl][erupted][fans][texas][rangers][players][game][monday,][september][13][oakland][athletics][coliseum,][resulted][rangers][rookie][pitcher][frank][francisco][arrested][charged][aggravated][battery][heaving])
+v(0 2 3 4 10 11 12 13 14 15 16 17 18): 11.748260498046875, EP: 0.9904364943504333	 ([brawl][fans][texas][rangers][oakland][athletics][coliseum,][resulted][rangers][rookie][pitcher][frank][francisco])
+v(1 5 6 7 8 9 19 20 21 22 23): 11.530248641967773, EP: 0.9720569849014282	 ([erupted][players][game][monday,][september][13][arrested][charged][aggravated][battery][heaving])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

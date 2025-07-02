@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: future
+Player 1: alitalia
+Player 2: stake
+Player 3: italian
+Player 4: flagship
+Player 5: carrier
+Player 6: meets
+Player 7: unions
+Player 8: monday
+Player 9: reveal
+Player 10: number
+Player 11: planned
+Player 12: job
+Player 13: cuts
+Player 14: part
+Player 15: restructuring
+Player 16: plan
+Player 17: aimed
+Player 18: averting
+Player 19: collapse.
+---------- Rewards ----------
+v(): -5.9008965492248535	 ([])
+v(5 7 10 11 12): 2.892451524734497	 ([carrier][unions][number][planned][job])
+v(0 1 3 4 8 14): 6.857501029968262	 ([future][alitalia][italian][flagship][monday][part])
+v(2 6 9 19): -6.529579162597656	 ([stake][meets][reveal][collapse.])
+v(13 15 16 17 18): 2.1836915016174316	 ([cuts][restructuring][plan][aimed][averting])
+v(0 1 3 4 5 7 8 10 11 12 14): 7.055601596832275	 ([future][alitalia][italian][flagship][carrier][unions][monday][number][planned][job][part])
+v(2 5 6 7 9 10 11 12 19): 6.316458225250244	 ([stake][carrier][meets][unions][reveal][number][planned][job][collapse.])
+v(5 7 10 11 12 13 15 16 17 18): 6.373677730560303	 ([carrier][unions][number][planned][job][cuts][restructuring][plan][aimed][averting])
+v(0 1 2 3 4 6 8 9 14 19): 7.032687187194824	 ([future][alitalia][stake][italian][flagship][meets][monday][reveal][part][collapse.])
+v(0 1 3 4 8 13 14 15 16 17 18): 6.40784215927124	 ([future][alitalia][italian][flagship][monday][cuts][part][restructuring][plan][aimed][averting])
+v(2 6 9 13 15 16 17 18 19): 2.7300496101379395	 ([stake][meets][reveal][cuts][restructuring][plan][aimed][averting][collapse.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14 19): 7.492677688598633	 ([future][alitalia][stake][italian][flagship][carrier][meets][unions][monday][reveal][number][planned][job][part][collapse.])
+v(0 1 3 4 5 7 8 10 11 12 13 14 15 16 17 18): 5.854215621948242	 ([future][alitalia][italian][flagship][carrier][unions][monday][number][planned][job][cuts][part][restructuring][plan][aimed][averting])
+v(2 5 6 7 9 10 11 12 13 15 16 17 18 19): 6.314485549926758	 ([stake][carrier][meets][unions][reveal][number][planned][job][cuts][restructuring][plan][aimed][averting][collapse.])
+v(0 1 2 3 4 6 8 9 13 14 15 16 17 18 19): 6.75187873840332	 ([future][alitalia][stake][italian][flagship][meets][monday][reveal][cuts][part][restructuring][plan][aimed][averting][collapse.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 6.783421516418457	 ([future][alitalia][stake][italian][flagship][carrier][meets][unions][monday][reveal][number][planned][job][cuts][part][restructuring][plan][aimed][averting][collapse.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14 19): 13.393573760986328, EP: 1.0559159517288208	 ([future][alitalia][stake][italian][flagship][carrier][meets][unions][monday][reveal][number][planned][job][part][collapse.])
+v(0 1 3 4 5 7 8 10 11 12 14): 12.956498146057129, EP: 1.0214579105377197	 ([future][alitalia][italian][flagship][carrier][unions][monday][number][planned][job][part])
+v(0 1 2 3 4 6 8 9 14 19): 12.933584213256836, EP: 1.0196515321731567	 ([future][alitalia][stake][italian][flagship][meets][monday][reveal][part][collapse.])
+v(0 1 3 4 8 14): 12.758398056030273, EP: 1.0058403015136719	 ([future][alitalia][italian][flagship][monday][part])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 12.684318542480469, EP: 1.0	 ([future][alitalia][stake][italian][flagship][carrier][meets][unions][monday][reveal][number][planned][job][cuts][part][restructuring][plan][aimed][averting][collapse.])
+v(0 1 2 3 4 6 8 9 13 14 15 16 17 18 19): 12.652774810791016, EP: 0.9975131750106812	 ([future][alitalia][stake][italian][flagship][meets][monday][reveal][cuts][part][restructuring][plan][aimed][averting][collapse.])
+v(0 1 3 4 8 13 14 15 16 17 18): 12.308738708496094, EP: 0.9703902006149292	 ([future][alitalia][italian][flagship][monday][cuts][part][restructuring][plan][aimed][averting])
+v(5 7 10 11 12 13 15 16 17 18): 12.274574279785156, EP: 0.9676967859268188	 ([carrier][unions][number][planned][job][cuts][restructuring][plan][aimed][averting])
+v(2 5 6 7 9 10 11 12 19): 12.217354774475098, EP: 0.963185727596283	 ([stake][carrier][meets][unions][reveal][number][planned][job][collapse.])
+v(2 5 6 7 9 10 11 12 13 15 16 17 18 19): 12.215381622314453, EP: 0.9630301594734192	 ([stake][carrier][meets][unions][reveal][number][planned][job][cuts][restructuring][plan][aimed][averting][collapse.])
+v(0 1 3 4 5 7 8 10 11 12 13 14 15 16 17 18): 11.755111694335938, EP: 0.9267436265945435	 ([future][alitalia][italian][flagship][carrier][unions][monday][number][planned][job][cuts][part][restructuring][plan][aimed][averting])
+v(5 7 10 11 12): 8.79334831237793, EP: 0.6932456493377686	 ([carrier][unions][number][planned][job])
+v(2 6 9 13 15 16 17 18 19): 8.630946159362793, EP: 0.680442214012146	 ([stake][meets][reveal][cuts][restructuring][plan][aimed][averting][collapse.])
+v(13 15 16 17 18): 8.084588050842285, EP: 0.6373687386512756	 ([cuts][restructuring][plan][aimed][averting])
+v(2 6 9 19): -0.6286826133728027, EP: -0.04956376552581787	 ([stake][meets][reveal][collapse.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

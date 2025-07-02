@@ -1,0 +1,45 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: president
+Player 3: bush,
+Player 4: holds \ a
+Player 5: sizable
+Player 6: lead
+Player 7: polls,
+Player 8: still
+Player 9: appears
+Player 10: vulnerable
+Player 11: to \ democrat
+Player 12: john
+Player 13: kerry
+Player 14: among
+Player 15: independent
+Player 16: voters
+Player 17: whose
+Player 18: shifting \ loyalties
+Player 19: could
+Player 20: determine
+Player 21: winner
+Player 22: november
+Player 23: election, \ pollsters
+Player 24: say.
+---------- Rewards ----------
+v(): -6.995758056640625	 ([])
+v(7 11 12 13 14 15 17): 8.411377906799316	 ([polls,][to \ democrat][john][kerry][among][independent][whose])
+v(0 1 2 16 18 21 22 23): 5.142130374908447	 ([reuters][-][president][voters][shifting \ loyalties][winner][november][election, \ pollsters])
+v(3 4 5 6 8 9 10 19 20 24): -6.555438995361328	 ([bush,][holds \ a][sizable][lead][still][appears][vulnerable][could][determine][say.])
+v(0 1 2 7 11 12 13 14 15 16 17 18 21 22 23): 7.159161567687988	 ([reuters][-][president][polls,][to \ democrat][john][kerry][among][independent][voters][whose][shifting \ loyalties][winner][november][election, \ pollsters])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 17 19 20 24): 7.855645179748535	 ([bush,][holds \ a][sizable][lead][polls,][still][appears][vulnerable][to \ democrat][john][kerry][among][independent][whose][could][determine][say.])
+v(0 1 2 3 4 5 6 8 9 10 16 18 19 20 21 22 23 24): 1.0449674129486084	 ([reuters][-][president][bush,][holds \ a][sizable][lead][still][appears][vulnerable][voters][shifting \ loyalties][could][determine][winner][november][election, \ pollsters][say.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 5.3658905029296875	 ([reuters][-][president][bush,][holds \ a][sizable][lead][polls,][still][appears][vulnerable][to \ democrat][john][kerry][among][independent][voters][whose][shifting \ loyalties][could][determine][winner][november][election, \ pollsters][say.])
+---------- Rewards-v() ----------
+v(7 11 12 13 14 15 17): 15.407135963439941, EP: 1.2463657855987549	 ([polls,][to \ democrat][john][kerry][among][independent][whose])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 17 19 20 24): 14.85140323638916, EP: 1.2014095783233643	 ([bush,][holds \ a][sizable][lead][polls,][still][appears][vulnerable][to \ democrat][john][kerry][among][independent][whose][could][determine][say.])
+v(0 1 2 7 11 12 13 14 15 16 17 18 21 22 23): 14.154919624328613, EP: 1.1450673341751099	 ([reuters][-][president][polls,][to \ democrat][john][kerry][among][independent][voters][whose][shifting \ loyalties][winner][november][election, \ pollsters])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 12.361648559570312, EP: 1.0	 ([reuters][-][president][bush,][holds \ a][sizable][lead][polls,][still][appears][vulnerable][to \ democrat][john][kerry][among][independent][voters][whose][shifting \ loyalties][could][determine][winner][november][election, \ pollsters][say.])
+v(0 1 2 16 18 21 22 23): 12.137887954711914, EP: 0.9818987846374512	 ([reuters][-][president][voters][shifting \ loyalties][winner][november][election, \ pollsters])
+v(0 1 2 3 4 5 6 8 9 10 16 18 19 20 21 22 23 24): 8.040725708007812, EP: 0.6504573822021484	 ([reuters][-][president][bush,][holds \ a][sizable][lead][still][appears][vulnerable][voters][shifting \ loyalties][could][determine][winner][november][election, \ pollsters][say.])
+v(3 4 5 6 8 9 10 19 20 24): 0.4403190612792969, EP: 0.035619769245386124	 ([bush,][holds \ a][sizable][lead][still][appears][vulnerable][could][determine][say.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,35 @@
+Execution time: 2025-07-02 19:35:22
+prompt: [CLS] consumer confidence increased slightly across the region going into the christmas shopping season, although it remains below its levels of a year before. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:7325 decoded_text: consumer
+idx:2 input_id:7023 decoded_text: confidence
+idx:3 input_id:3445 decoded_text: increased
+idx:4 input_id:3621 decoded_text: slightly
+idx:5 input_id:2408 decoded_text: across
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:2555 decoded_text: region
+idx:8 input_id:2183 decoded_text: going
+idx:9 input_id:2046 decoded_text: into
+idx:10 input_id:1996 decoded_text: the
+idx:11 input_id:4234 decoded_text: christmas
+idx:12 input_id:6023 decoded_text: shopping
+idx:13 input_id:2161 decoded_text: season
+idx:14 input_id:1010 decoded_text: ,
+idx:15 input_id:2348 decoded_text: although
+idx:16 input_id:2009 decoded_text: it
+idx:17 input_id:3464 decoded_text: remains
+idx:18 input_id:2917 decoded_text: below
+idx:19 input_id:2049 decoded_text: its
+idx:20 input_id:3798 decoded_text: levels
+idx:21 input_id:1997 decoded_text: of
+idx:22 input_id:1037 decoded_text: a
+idx:23 input_id:2095 decoded_text: year
+idx:24 input_id:2077 decoded_text: before
+idx:25 input_id:1012 decoded_text: .
+idx:26 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.0030338764190674, -3.9834187030792236, 6.496082782745361, -2.6807825565338135]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

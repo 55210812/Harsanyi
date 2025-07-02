@@ -1,0 +1,27 @@
+---------- Players ----------
+Player 0: football,
+Player 1: life,
+Player 2: past
+Player 3: always
+Player 4: much
+Player 5: rosy
+Player 6: present.
+Player 7: eleven
+Player 8: years
+Player 9: ago,
+Player 10: germany
+Player 11: beat
+Player 12: brazil
+Player 13: 2 - 1
+Player 14: cologne.
+---------- Rewards ----------
+v(): -7.056352615356445	 ([])
+v(0 6 8 9 13): 6.576823711395264	 ([football,][present.][years][ago,][2 - 1])
+v(1 2 3 4 5 7 10 11 12 14): 0.3447880744934082	 ([life,][past][always][much][rosy][eleven][germany][beat][brazil][cologne.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 6.314758777618408	 ([football,][life,][past][always][much][rosy][present.][eleven][years][ago,][germany][beat][brazil][2 - 1][cologne.])
+---------- Rewards-v() ----------
+v(0 6 8 9 13): 13.633176803588867, EP: 1.019599437713623	 ([football,][present.][years][ago,][2 - 1])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 13.371110916137695, EP: 1.0	 ([football,][life,][past][always][much][rosy][present.][eleven][years][ago,][germany][beat][brazil][2 - 1][cologne.])
+v(1 2 3 4 5 7 10 11 12 14): 7.4011406898498535, EP: 0.5535172820091248	 ([life,][past][always][much][rosy][eleven][germany][beat][brazil][cologne.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: seoul
+Player 1: ( reuters )
+Player 2: -
+Player 3: huge
+Player 4: blast
+Player 5: three
+Player 6: days
+Player 7: ago
+Player 8: north
+Player 9: korea
+Player 10: unlikely
+Player 11: nuclear
+Player 12: weapons
+Player 13: test,
+Player 14: south
+Player 15: korea's
+Player 16: unification
+Player 17: minister
+Player 18: said
+Player 19: sunday.
+---------- Rewards ----------
+v(): -4.306848526000977	 ([])
+v(11 12 14 15 16): 7.608401298522949	 ([nuclear][weapons][south][korea's][unification])
+v(0 13 17 18 19): 7.326712608337402	 ([seoul][test,][minister][said][sunday.])
+v(1 2 3 4 5 6 7 8 9 10): 7.178318500518799	 ([( reuters )][-][huge][blast][three][days][ago][north][korea][unlikely])
+v(0 11 12 13 14 15 16 17 18 19): 8.12411117553711	 ([seoul][nuclear][weapons][test,][south][korea's][unification][minister][said][sunday.])
+v(1 2 3 4 5 6 7 8 9 10 11 12 14 15 16): 7.600419998168945	 ([( reuters )][-][huge][blast][three][days][ago][north][korea][unlikely][nuclear][weapons][south][korea's][unification])
+v(0 1 2 3 4 5 6 7 8 9 10 13 17 18 19): 7.662651062011719	 ([seoul][( reuters )][-][huge][blast][three][days][ago][north][korea][unlikely][test,][minister][said][sunday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.815680027008057	 ([seoul][( reuters )][-][huge][blast][three][days][ago][north][korea][unlikely][nuclear][weapons][test,][south][korea's][unification][minister][said][sunday.])
+---------- Rewards-v() ----------
+v(0 11 12 13 14 15 16 17 18 19): 12.430959701538086, EP: 1.0254428386688232	 ([seoul][nuclear][weapons][test,][south][korea's][unification][minister][said][sunday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 12.122528076171875, EP: 1.0	 ([seoul][( reuters )][-][huge][blast][three][days][ago][north][korea][unlikely][nuclear][weapons][test,][south][korea's][unification][minister][said][sunday.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 17 18 19): 11.969499588012695, EP: 0.9873765110969543	 ([seoul][( reuters )][-][huge][blast][three][days][ago][north][korea][unlikely][test,][minister][said][sunday.])
+v(11 12 14 15 16): 11.915249824523926, EP: 0.982901394367218	 ([nuclear][weapons][south][korea's][unification])
+v(1 2 3 4 5 6 7 8 9 10 11 12 14 15 16): 11.907268524169922, EP: 0.982243001461029	 ([( reuters )][-][huge][blast][three][days][ago][north][korea][unlikely][nuclear][weapons][south][korea's][unification])
+v(0 13 17 18 19): 11.633561134338379, EP: 0.9596645832061768	 ([seoul][test,][minister][said][sunday.])
+v(1 2 3 4 5 6 7 8 9 10): 11.485166549682617, EP: 0.9474233984947205	 ([( reuters )][-][huge][blast][three][days][ago][north][korea][unlikely])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

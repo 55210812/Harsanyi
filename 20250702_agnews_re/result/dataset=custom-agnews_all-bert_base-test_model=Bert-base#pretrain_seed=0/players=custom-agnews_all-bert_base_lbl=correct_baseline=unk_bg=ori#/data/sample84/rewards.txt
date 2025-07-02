@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: space. com
+Player 1: -
+Player 2: resignation
+Player 3: monday
+Player 4: nasa
+Player 5: administrator
+Player 6: sean
+Player 7: \ o'keefe
+Player 8: comes
+Player 9: time
+Player 10: agency
+Player 11: budgetary
+Player 12: window
+Player 13: opportunity
+Player 14: \ flex
+Player 15: space
+Player 16: exploration
+Player 17: muscle,
+Player 18: must
+Player 19: still
+Player 20: deal
+Player 21: agenda
+Player 22: thorny
+Player 23: \ issues.
+---------- Rewards ----------
+v(): 2.4502499103546143	 ([])
+v(0 3 4 6 10 11 14 15 16 17 18 19): 8.47856616973877	 ([space. com][monday][nasa][sean][agency][budgetary][\ flex][space][exploration][muscle,][must][still])
+v(7 8 20 21 22 23): 0.4090759754180908	 ([\ o'keefe][comes][deal][agenda][thorny][\ issues.])
+v(1 2 5 9 12 13): -2.4210102558135986	 ([-][resignation][administrator][time][window][opportunity])
+v(0 3 4 6 7 8 10 11 14 15 16 17 18 19 20 21 22 23): 8.369555473327637	 ([space. com][monday][nasa][sean][\ o'keefe][comes][agency][budgetary][\ flex][space][exploration][muscle,][must][still][deal][agenda][thorny][\ issues.])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 15 16 17 18 19): 8.021771430969238	 ([space. com][-][resignation][monday][nasa][administrator][sean][time][agency][budgetary][window][opportunity][\ flex][space][exploration][muscle,][must][still])
+v(1 2 5 7 8 9 12 13 20 21 22 23): 2.5142946243286133	 ([-][resignation][administrator][\ o'keefe][comes][time][window][opportunity][deal][agenda][thorny][\ issues.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.03300666809082	 ([space. com][-][resignation][monday][nasa][administrator][sean][\ o'keefe][comes][time][agency][budgetary][window][opportunity][\ flex][space][exploration][muscle,][must][still][deal][agenda][thorny][\ issues.])
+---------- Rewards-v() ----------
+v(0 3 4 6 10 11 14 15 16 17 18 19): 6.028316497802734, EP: 1.0798099040985107	 ([space. com][monday][nasa][sean][agency][budgetary][\ flex][space][exploration][muscle,][must][still])
+v(0 3 4 6 7 8 10 11 14 15 16 17 18 19 20 21 22 23): 5.919305801391602, EP: 1.0602836608886719	 ([space. com][monday][nasa][sean][\ o'keefe][comes][agency][budgetary][\ flex][space][exploration][muscle,][must][still][deal][agenda][thorny][\ issues.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 5.582756996154785, EP: 1.0	 ([space. com][-][resignation][monday][nasa][administrator][sean][\ o'keefe][comes][time][agency][budgetary][window][opportunity][\ flex][space][exploration][muscle,][must][still][deal][agenda][thorny][\ issues.])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 15 16 17 18 19): 5.571521759033203, EP: 0.9979875087738037	 ([space. com][-][resignation][monday][nasa][administrator][sean][time][agency][budgetary][window][opportunity][\ flex][space][exploration][muscle,][must][still])
+v(1 2 5 9 12 13): -4.871260166168213, EP: -0.8725546002388	 ([-][resignation][administrator][time][window][opportunity])
+v(7 8 20 21 22 23): -2.0411739349365234, EP: -0.3656211197376251	 ([\ o'keefe][comes][deal][agenda][thorny][\ issues.])
+v(1 2 5 7 8 9 12 13 20 21 22 23): 0.06404471397399902, EP: 0.011471879668533802	 ([-][resignation][administrator][\ o'keefe][comes][time][window][opportunity][deal][agenda][thorny][\ issues.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: world's
+Player 1: largest
+Player 2: automaker
+Player 3: lowered
+Player 4: annual
+Player 5: earnings
+Player 6: forecast
+Player 7: thursday,
+Player 8: hours
+Player 9: announcing
+Player 10: plans
+Player 11: cut
+Player 12: 20
+Player 13: percent
+Player 14: european
+Player 15: workforce
+Player 16: end
+Player 17: 2006
+Player 18: hopes
+Player 19: saving
+Player 20: \ $ 600
+Player 21: million
+Player 22: year.
+---------- Rewards ----------
+v(): -3.1227433681488037	 ([])
+v(0 1 2 3 8 9 10 11 12 13 16 17): 5.194798469543457	 ([world's][largest][automaker][lowered][hours][announcing][plans][cut][20][percent][end][2006])
+v(4 5 6 7 14 15 18 19 20 21 22): 2.720097541809082	 ([annual][earnings][forecast][thursday,][european][workforce][hopes][saving][\ $ 600][million][year.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 2.481679916381836	 ([world's][largest][automaker][lowered][annual][earnings][forecast][thursday,][hours][announcing][plans][cut][20][percent][european][workforce][end][2006][hopes][saving][\ $ 600][million][year.])
+---------- Rewards-v() ----------
+v(0 1 2 3 8 9 10 11 12 13 16 17): 8.31754207611084, EP: 1.4841030836105347	 ([world's][largest][automaker][lowered][hours][announcing][plans][cut][20][percent][end][2006])
+v(4 5 6 7 14 15 18 19 20 21 22): 5.842841148376465, EP: 1.0425410270690918	 ([annual][earnings][forecast][thursday,][european][workforce][hopes][saving][\ $ 600][million][year.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 5.604423522949219, EP: 1.0	 ([world's][largest][automaker][lowered][annual][earnings][forecast][thursday,][hours][announcing][plans][cut][20][percent][european][workforce][end][2006][hopes][saving][\ $ 600][million][year.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

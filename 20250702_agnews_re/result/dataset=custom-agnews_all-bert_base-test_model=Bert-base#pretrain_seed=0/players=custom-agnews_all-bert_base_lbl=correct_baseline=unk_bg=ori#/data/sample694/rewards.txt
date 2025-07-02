@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: least
+Player 1: 22
+Player 2: officers
+Player 3: killed
+Player 4: attacks
+Player 5: police
+Player 6: targets
+Player 7: western
+Player 8: iraqi
+Player 9: province
+Player 10: al - anbar.
+---------- Rewards ----------
+v(): -6.951113700866699	 ([])
+v(4 6 7 9 10): 7.017059803009033	 ([attacks][targets][western][province][al - anbar.])
+v(2 3 5 8): 7.143528938293457	 ([officers][killed][police][iraqi])
+v(0 1): -7.272486686706543	 ([least][22])
+v(2 3 4 5 6 7 8 9 10): 7.268858909606934	 ([officers][killed][attacks][police][targets][western][iraqi][province][al - anbar.])
+v(0 1 4 6 7 9 10): 7.2130351066589355	 ([least][22][attacks][targets][western][province][al - anbar.])
+v(0 1 2 3 5 8): 7.402438163757324	 ([least][22][officers][killed][police][iraqi])
+v(0 1 2 3 4 5 6 7 8 9 10): 7.554269313812256	 ([least][22][officers][killed][attacks][police][targets][western][iraqi][province][al - anbar.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10): 14.505382537841797, EP: 1.0	 ([least][22][officers][killed][attacks][police][targets][western][iraqi][province][al - anbar.])
+v(0 1 2 3 5 8): 14.353551864624023, EP: 0.9895328283309937	 ([least][22][officers][killed][police][iraqi])
+v(2 3 4 5 6 7 8 9 10): 14.219972610473633, EP: 0.980323851108551	 ([officers][killed][attacks][police][targets][western][iraqi][province][al - anbar.])
+v(0 1 4 6 7 9 10): 14.164148330688477, EP: 0.9764753580093384	 ([least][22][attacks][targets][western][province][al - anbar.])
+v(2 3 5 8): 14.094642639160156, EP: 0.9716836214065552	 ([officers][killed][police][iraqi])
+v(4 6 7 9 10): 13.96817398071289, EP: 0.9629648923873901	 ([attacks][targets][western][province][al - anbar.])
+v(0 1): -0.32137298583984375, EP: -0.022155430167913437	 ([least][22])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

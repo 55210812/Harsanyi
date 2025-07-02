@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: st
+Player 1: john
+Player 2: # 39 ; s,
+Player 3: antigua
+Player 4: ( cmc )
+Player 5: -
+Player 6: west
+Player 7: indies
+Player 8: suffered
+Player 9: another
+Player 10: injury
+Player 11: setback
+Player 12: ahead
+Player 13: icc
+Player 14: champions
+Player 15: trophy,
+Player 16: starting
+Player 17: britain
+Player 18: next
+Player 19: week.
+---------- Rewards ----------
+v(): -4.722596168518066	 ([])
+v(2 7 9 10 13): 9.387476921081543	 ([# 39 ; s,][indies][another][injury][icc])
+v(0 3 6 8 14 15 19): 4.693512439727783	 ([st][antigua][west][suffered][champions][trophy,][week.])
+v(1 4 5 16 17 18): -5.394042015075684	 ([john][( cmc )][-][starting][britain][next])
+v(11 12): -6.986142635345459	 ([setback][ahead])
+v(0 2 3 6 7 8 9 10 13 14 15 19): 9.395383834838867	 ([st][# 39 ; s,][antigua][west][indies][suffered][another][injury][icc][champions][trophy,][week.])
+v(1 2 4 5 7 9 10 13 16 17 18): 9.317397117614746	 ([john][# 39 ; s,][( cmc )][-][indies][another][injury][icc][starting][britain][next])
+v(2 7 9 10 11 12 13): 9.408605575561523	 ([# 39 ; s,][indies][another][injury][setback][ahead][icc])
+v(0 1 3 4 5 6 8 14 15 16 17 18 19): 9.407354354858398	 ([st][john][antigua][( cmc )][-][west][suffered][champions][trophy,][starting][britain][next][week.])
+v(0 3 6 8 11 12 14 15 19): 6.021955966949463	 ([st][antigua][west][suffered][setback][ahead][champions][trophy,][week.])
+v(1 4 5 11 12 16 17 18): -2.069183826446533	 ([john][( cmc )][-][setback][ahead][starting][britain][next])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 15 16 17 18 19): 9.216602325439453	 ([st][john][# 39 ; s,][antigua][( cmc )][-][west][indies][suffered][another][injury][icc][champions][trophy,][starting][britain][next][week.])
+v(0 2 3 6 7 8 9 10 11 12 13 14 15 19): 9.449234962463379	 ([st][# 39 ; s,][antigua][west][indies][suffered][another][injury][setback][ahead][icc][champions][trophy,][week.])
+v(1 2 4 5 7 9 10 11 12 13 16 17 18): 9.358642578125	 ([john][# 39 ; s,][( cmc )][-][indies][another][injury][setback][ahead][icc][starting][britain][next])
+v(0 1 3 4 5 6 8 11 12 14 15 16 17 18 19): 9.408167839050293	 ([st][john][antigua][( cmc )][-][west][suffered][setback][ahead][champions][trophy,][starting][britain][next][week.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.310657501220703	 ([st][john][# 39 ; s,][antigua][( cmc )][-][west][indies][suffered][another][injury][setback][ahead][icc][champions][trophy,][starting][britain][next][week.])
+---------- Rewards-v() ----------
+v(0 2 3 6 7 8 9 10 11 12 13 14 15 19): 14.171831130981445, EP: 1.009874939918518	 ([st][# 39 ; s,][antigua][west][indies][suffered][another][injury][setback][ahead][icc][champions][trophy,][week.])
+v(2 7 9 10 11 12 13): 14.13120174407959, EP: 1.0069797039031982	 ([# 39 ; s,][indies][another][injury][setback][ahead][icc])
+v(0 1 3 4 5 6 8 11 12 14 15 16 17 18 19): 14.13076400756836, EP: 1.006948471069336	 ([st][john][antigua][( cmc )][-][west][suffered][setback][ahead][champions][trophy,][starting][britain][next][week.])
+v(0 1 3 4 5 6 8 14 15 16 17 18 19): 14.129950523376465, EP: 1.0068905353546143	 ([st][john][antigua][( cmc )][-][west][suffered][champions][trophy,][starting][britain][next][week.])
+v(0 2 3 6 7 8 9 10 13 14 15 19): 14.117980003356934, EP: 1.0060375928878784	 ([st][# 39 ; s,][antigua][west][indies][suffered][another][injury][icc][champions][trophy,][week.])
+v(2 7 9 10 13): 14.11007308959961, EP: 1.0054740905761719	 ([# 39 ; s,][indies][another][injury][icc])
+v(1 2 4 5 7 9 10 11 12 13 16 17 18): 14.081238746643066, EP: 1.0034193992614746	 ([john][# 39 ; s,][( cmc )][-][indies][another][injury][setback][ahead][icc][starting][britain][next])
+v(1 2 4 5 7 9 10 13 16 17 18): 14.039993286132812, EP: 1.0004802942276	 ([john][# 39 ; s,][( cmc )][-][indies][another][injury][icc][starting][britain][next])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 14.03325366973877, EP: 1.0	 ([st][john][# 39 ; s,][antigua][( cmc )][-][west][indies][suffered][another][injury][setback][ahead][icc][champions][trophy,][starting][britain][next][week.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 15 16 17 18 19): 13.93919849395752, EP: 0.9932976961135864	 ([st][john][# 39 ; s,][antigua][( cmc )][-][west][indies][suffered][another][injury][icc][champions][trophy,][starting][britain][next][week.])
+v(0 3 6 8 11 12 14 15 19): 10.744552612304688, EP: 0.7656494379043579	 ([st][antigua][west][suffered][setback][ahead][champions][trophy,][week.])
+v(0 3 6 8 14 15 19): 9.416109085083008, EP: 0.6709854602813721	 ([st][antigua][west][suffered][champions][trophy,][week.])
+v(1 4 5 11 12 16 17 18): 2.653412342071533, EP: 0.1890803426504135	 ([john][( cmc )][-][setback][ahead][starting][britain][next])
+v(11 12): -2.2635464668273926, EP: -0.16129876673221588	 ([setback][ahead])
+v(1 4 5 16 17 18): -0.6714458465576172, EP: -0.04784676805138588	 ([john][( cmc )][-][starting][britain][next])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

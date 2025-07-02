@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: shares
+Player 3: comcast
+Player 4: corp.
+Player 5: rose \ 2
+Player 6: percent
+Player 7: bell
+Player 8: wednesday
+Player 9: largest
+Player 10: u. s. \ cable
+Player 11: operator
+Player 12: posted
+Player 13: quarterly
+Player 14: profit
+Player 15: wall
+Player 16: street \ estimates
+Player 17: reported
+Player 18: better - than - expected
+Player 19: gains
+Player 20: high - speed \ internet
+Player 21: customers.
+---------- Rewards ----------
+v(): -5.809386730194092	 ([])
+v(0 3 5 6 7 13 14 15 16 20): 3.851483106613159	 ([reuters][comcast][rose \ 2][percent][bell][quarterly][profit][wall][street \ estimates][high - speed \ internet])
+v(8 11 12): -4.71771240234375	 ([wednesday][operator][posted])
+v(1 2 4 9 10 17 18 19 21): 2.7596659660339355	 ([-][shares][corp.][largest][u. s. \ cable][reported][better - than - expected][gains][customers.])
+v(0 3 5 6 7 8 11 12 13 14 15 16 20): 3.986706256866455	 ([reuters][comcast][rose \ 2][percent][bell][wednesday][operator][posted][quarterly][profit][wall][street \ estimates][high - speed \ internet])
+v(0 1 2 3 4 5 6 7 9 10 13 14 15 16 17 18 19 20 21): -0.4491894245147705	 ([reuters][-][shares][comcast][corp.][rose \ 2][percent][bell][largest][u. s. \ cable][quarterly][profit][wall][street \ estimates][reported][better - than - expected][gains][high - speed \ internet][customers.])
+v(1 2 4 8 9 10 11 12 17 18 19 21): 2.3046116828918457	 ([-][shares][corp.][wednesday][largest][u. s. \ cable][operator][posted][reported][better - than - expected][gains][customers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): -0.09186315536499023	 ([reuters][-][shares][comcast][corp.][rose \ 2][percent][bell][wednesday][largest][u. s. \ cable][operator][posted][quarterly][profit][wall][street \ estimates][reported][better - than - expected][gains][high - speed \ internet][customers.])
+---------- Rewards-v() ----------
+v(0 3 5 6 7 8 11 12 13 14 15 16 20): 9.796092987060547, EP: 1.7133454084396362	 ([reuters][comcast][rose \ 2][percent][bell][wednesday][operator][posted][quarterly][profit][wall][street \ estimates][high - speed \ internet])
+v(0 3 5 6 7 13 14 15 16 20): 9.660869598388672, EP: 1.6896947622299194	 ([reuters][comcast][rose \ 2][percent][bell][quarterly][profit][wall][street \ estimates][high - speed \ internet])
+v(1 2 4 9 10 17 18 19 21): 8.569052696228027, EP: 1.498734951019287	 ([-][shares][corp.][largest][u. s. \ cable][reported][better - than - expected][gains][customers.])
+v(1 2 4 8 9 10 11 12 17 18 19 21): 8.113998413085938, EP: 1.4191455841064453	 ([-][shares][corp.][wednesday][largest][u. s. \ cable][operator][posted][reported][better - than - expected][gains][customers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 5.717523574829102, EP: 1.0	 ([reuters][-][shares][comcast][corp.][rose \ 2][percent][bell][wednesday][largest][u. s. \ cable][operator][posted][quarterly][profit][wall][street \ estimates][reported][better - than - expected][gains][high - speed \ internet][customers.])
+v(0 1 2 3 4 5 6 7 9 10 13 14 15 16 17 18 19 20 21): 5.360197067260742, EP: 0.9375032782554626	 ([reuters][-][shares][comcast][corp.][rose \ 2][percent][bell][largest][u. s. \ cable][quarterly][profit][wall][street \ estimates][reported][better - than - expected][gains][high - speed \ internet][customers.])
+v(8 11 12): 1.0916743278503418, EP: 0.19093482196331024	 ([wednesday][operator][posted])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

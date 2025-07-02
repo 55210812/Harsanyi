@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: frustrated
+Player 1: domestic
+Player 2: market
+Player 3: offers
+Player 4: little
+Player 5: chance
+Player 6: grow,
+Player 7: many
+Player 8: canadian
+Player 9: bank
+Player 10: ventured
+Player 11: south
+Player 12: us
+Player 13: market
+Player 14: hunt
+Player 15: prize
+Player 16: asset
+Player 17: vault
+Player 18: big
+Player 19: time.
+---------- Rewards ----------
+v(): -5.1930036544799805	 ([])
+v(4 5 9 14 16 17): 3.0241034030914307	 ([little][chance][bank][hunt][asset][vault])
+v(7 8 11 12 13 15): -3.2736306190490723	 ([many][canadian][south][us][market][prize])
+v(0 1 2 3 6 10 18 19): 5.691005229949951	 ([frustrated][domestic][market][offers][grow,][ventured][big][time.])
+v(4 5 7 8 9 11 12 13 14 15 16 17): 1.3139673471450806	 ([little][chance][many][canadian][bank][south][us][market][hunt][prize][asset][vault])
+v(0 1 2 3 4 5 6 9 10 14 16 17 18 19): 6.935171604156494	 ([frustrated][domestic][market][offers][little][chance][grow,][bank][ventured][hunt][asset][vault][big][time.])
+v(0 1 2 3 6 7 8 10 11 12 13 15 18 19): 3.166390895843506	 ([frustrated][domestic][market][offers][grow,][many][canadian][ventured][south][us][market][prize][big][time.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.202966690063477	 ([frustrated][domestic][market][offers][little][chance][grow,][many][canadian][bank][ventured][south][us][market][hunt][prize][asset][vault][big][time.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.395970344543457, EP: 1.0	 ([frustrated][domestic][market][offers][little][chance][grow,][many][canadian][bank][ventured][south][us][market][hunt][prize][asset][vault][big][time.])
+v(0 1 2 3 4 5 6 9 10 14 16 17 18 19): 12.128175735473633, EP: 0.9053599834442139	 ([frustrated][domestic][market][offers][little][chance][grow,][bank][ventured][hunt][asset][vault][big][time.])
+v(0 1 2 3 6 10 18 19): 10.884008407592773, EP: 0.8124837875366211	 ([frustrated][domestic][market][offers][grow,][ventured][big][time.])
+v(0 1 2 3 6 7 8 10 11 12 13 15 18 19): 8.359394073486328, EP: 0.6240230202674866	 ([frustrated][domestic][market][offers][grow,][many][canadian][ventured][south][us][market][prize][big][time.])
+v(4 5 9 14 16 17): 8.217106819152832, EP: 0.6134014129638672	 ([little][chance][bank][hunt][asset][vault])
+v(4 5 7 8 9 11 12 13 14 15 16 17): 6.5069708824157715, EP: 0.48574090003967285	 ([little][chance][many][canadian][bank][south][us][market][hunt][prize][asset][vault])
+v(7 8 11 12 13 15): 1.9193730354309082, EP: 0.14327988028526306	 ([many][canadian][south][us][market][prize])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

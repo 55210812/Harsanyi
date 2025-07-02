@@ -1,0 +1,88 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: -
+Player 3: delta
+Player 4: air
+Player 5: lines
+Player 6: inc.
+Player 7: # 39 ; s
+Player 8: bonds
+Player 9: rose
+Player 10: sharply
+Player 11: thursday
+Player 12: trading,
+Player 13: day
+Player 14: offered
+Player 15: exchange
+Player 16: bonds
+Player 17: attempt
+Player 18: stave
+Player 19: bankruptcy.
+---------- Rewards ----------
+v(): -5.303212642669678	 ([])
+v(8 9 11): 6.058489799499512	 ([bonds][rose][thursday])
+v(7 14 15 16): 2.8871326446533203	 ([# 39 ; s][offered][exchange][bonds])
+v(3 4 5): 8.08660888671875	 ([delta][air][lines])
+v(0 1 2 6 17 18): 5.226018905639648	 ([new][york][-][inc.][attempt][stave])
+v(10 12 13 19): 7.685670852661133	 ([sharply][trading,][day][bankruptcy.])
+v(7 8 9 11 14 15 16): 4.7009148597717285	 ([# 39 ; s][bonds][rose][thursday][offered][exchange][bonds])
+v(3 4 5 8 9 11): 8.352651596069336	 ([delta][air][lines][bonds][rose][thursday])
+v(0 1 2 6 8 9 11 17 18): 7.419369697570801	 ([new][york][-][inc.][bonds][rose][thursday][attempt][stave])
+v(8 9 10 11 12 13 19): 7.938067436218262	 ([bonds][rose][sharply][thursday][trading,][day][bankruptcy.])
+v(3 4 5 7 14 15 16): 8.027795791625977	 ([delta][air][lines][# 39 ; s][offered][exchange][bonds])
+v(0 1 2 6 7 14 15 16 17 18): 1.2667441368103027	 ([new][york][-][inc.][# 39 ; s][offered][exchange][bonds][attempt][stave])
+v(7 10 12 13 14 15 16 19): 7.930663108825684	 ([# 39 ; s][sharply][trading,][day][offered][exchange][bonds][bankruptcy.])
+v(0 1 2 3 4 5 6 17 18): 8.318114280700684	 ([new][york][-][delta][air][lines][inc.][attempt][stave])
+v(3 4 5 10 12 13 19): 8.13768196105957	 ([delta][air][lines][sharply][trading,][day][bankruptcy.])
+v(0 1 2 6 10 12 13 17 18 19): 8.41880989074707	 ([new][york][-][inc.][sharply][trading,][day][attempt][stave][bankruptcy.])
+v(3 4 5 7 8 9 11 14 15 16): 7.9030232429504395	 ([delta][air][lines][# 39 ; s][bonds][rose][thursday][offered][exchange][bonds])
+v(0 1 2 6 7 8 9 11 14 15 16 17 18): 5.443465232849121	 ([new][york][-][inc.][# 39 ; s][bonds][rose][thursday][offered][exchange][bonds][attempt][stave])
+v(7 8 9 10 11 12 13 14 15 16 19): 8.095186233520508	 ([# 39 ; s][bonds][rose][sharply][thursday][trading,][day][offered][exchange][bonds][bankruptcy.])
+v(0 1 2 3 4 5 6 8 9 11 17 18): 8.127909660339355	 ([new][york][-][delta][air][lines][inc.][bonds][rose][thursday][attempt][stave])
+v(3 4 5 8 9 10 11 12 13 19): 8.279915809631348	 ([delta][air][lines][bonds][rose][sharply][thursday][trading,][day][bankruptcy.])
+v(0 1 2 6 8 9 10 11 12 13 17 18 19): 8.295326232910156	 ([new][york][-][inc.][bonds][rose][sharply][thursday][trading,][day][attempt][stave][bankruptcy.])
+v(0 1 2 3 4 5 6 7 14 15 16 17 18): 7.9113287925720215	 ([new][york][-][delta][air][lines][inc.][# 39 ; s][offered][exchange][bonds][attempt][stave])
+v(3 4 5 7 10 12 13 14 15 16 19): 8.311973571777344	 ([delta][air][lines][# 39 ; s][sharply][trading,][day][offered][exchange][bonds][bankruptcy.])
+v(0 1 2 6 7 10 12 13 14 15 16 17 18 19): 8.509651184082031	 ([new][york][-][inc.][# 39 ; s][sharply][trading,][day][offered][exchange][bonds][attempt][stave][bankruptcy.])
+v(0 1 2 3 4 5 6 10 12 13 17 18 19): 8.301298141479492	 ([new][york][-][delta][air][lines][inc.][sharply][trading,][day][attempt][stave][bankruptcy.])
+v(0 1 2 3 4 5 6 7 8 9 11 14 15 16 17 18): 7.9459004402160645	 ([new][york][-][delta][air][lines][inc.][# 39 ; s][bonds][rose][thursday][offered][exchange][bonds][attempt][stave])
+v(3 4 5 7 8 9 10 11 12 13 14 15 16 19): 8.3710355758667	 ([delta][air][lines][# 39 ; s][bonds][rose][sharply][thursday][trading,][day][offered][exchange][bonds][bankruptcy.])
+v(0 1 2 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.319602012634277	 ([new][york][-][inc.][# 39 ; s][bonds][rose][sharply][thursday][trading,][day][offered][exchange][bonds][attempt][stave][bankruptcy.])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 17 18 19): 8.180139541625977	 ([new][york][-][delta][air][lines][inc.][bonds][rose][sharply][thursday][trading,][day][attempt][stave][bankruptcy.])
+v(0 1 2 3 4 5 6 7 10 12 13 14 15 16 17 18 19): 8.32474422454834	 ([new][york][-][delta][air][lines][inc.][# 39 ; s][sharply][trading,][day][offered][exchange][bonds][attempt][stave][bankruptcy.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.350339889526367	 ([new][york][-][delta][air][lines][inc.][# 39 ; s][bonds][rose][sharply][thursday][trading,][day][offered][exchange][bonds][attempt][stave][bankruptcy.])
+---------- Rewards-v() ----------
+v(0 1 2 6 7 10 12 13 14 15 16 17 18 19): 13.812864303588867, EP: 1.011668086051941	 ([new][york][-][inc.][# 39 ; s][sharply][trading,][day][offered][exchange][bonds][attempt][stave][bankruptcy.])
+v(0 1 2 6 10 12 13 17 18 19): 13.722023010253906, EP: 1.0050147771835327	 ([new][york][-][inc.][sharply][trading,][day][attempt][stave][bankruptcy.])
+v(3 4 5 7 8 9 10 11 12 13 14 15 16 19): 13.674247741699219, EP: 1.0015157461166382	 ([delta][air][lines][# 39 ; s][bonds][rose][sharply][thursday][trading,][day][offered][exchange][bonds][bankruptcy.])
+v(3 4 5 8 9 11): 13.655864715576172, EP: 1.000169277191162	 ([delta][air][lines][bonds][rose][thursday])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.653553009033203, EP: 1.0	 ([new][york][-][delta][air][lines][inc.][# 39 ; s][bonds][rose][sharply][thursday][trading,][day][offered][exchange][bonds][attempt][stave][bankruptcy.])
+v(0 1 2 3 4 5 6 7 10 12 13 14 15 16 17 18 19): 13.62795639038086, EP: 0.9981252551078796	 ([new][york][-][delta][air][lines][inc.][# 39 ; s][sharply][trading,][day][offered][exchange][bonds][attempt][stave][bankruptcy.])
+v(0 1 2 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.622814178466797, EP: 0.9977486729621887	 ([new][york][-][inc.][# 39 ; s][bonds][rose][sharply][thursday][trading,][day][offered][exchange][bonds][attempt][stave][bankruptcy.])
+v(0 1 2 3 4 5 6 17 18): 13.621326446533203, EP: 0.9976397156715393	 ([new][york][-][delta][air][lines][inc.][attempt][stave])
+v(3 4 5 7 10 12 13 14 15 16 19): 13.61518669128418, EP: 0.997189998626709	 ([delta][air][lines][# 39 ; s][sharply][trading,][day][offered][exchange][bonds][bankruptcy.])
+v(0 1 2 3 4 5 6 10 12 13 17 18 19): 13.604511260986328, EP: 0.9964081048965454	 ([new][york][-][delta][air][lines][inc.][sharply][trading,][day][attempt][stave][bankruptcy.])
+v(0 1 2 6 8 9 10 11 12 13 17 18 19): 13.598539352416992, EP: 0.9959707260131836	 ([new][york][-][inc.][bonds][rose][sharply][thursday][trading,][day][attempt][stave][bankruptcy.])
+v(3 4 5 8 9 10 11 12 13 19): 13.583127975463867, EP: 0.994841992855072	 ([delta][air][lines][bonds][rose][sharply][thursday][trading,][day][bankruptcy.])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 17 18 19): 13.483352661132812, EP: 0.9875343441963196	 ([new][york][-][delta][air][lines][inc.][bonds][rose][sharply][thursday][trading,][day][attempt][stave][bankruptcy.])
+v(3 4 5 10 12 13 19): 13.440895080566406, EP: 0.9844247102737427	 ([delta][air][lines][sharply][trading,][day][bankruptcy.])
+v(0 1 2 3 4 5 6 8 9 11 17 18): 13.431121826171875, EP: 0.983708918094635	 ([new][york][-][delta][air][lines][inc.][bonds][rose][thursday][attempt][stave])
+v(7 8 9 10 11 12 13 14 15 16 19): 13.398399353027344, EP: 0.9813122749328613	 ([# 39 ; s][bonds][rose][sharply][thursday][trading,][day][offered][exchange][bonds][bankruptcy.])
+v(3 4 5): 13.389822006225586, EP: 0.9806841015815735	 ([delta][air][lines])
+v(3 4 5 7 14 15 16): 13.331008911132812, EP: 0.9763765335083008	 ([delta][air][lines][# 39 ; s][offered][exchange][bonds])
+v(0 1 2 3 4 5 6 7 8 9 11 14 15 16 17 18): 13.249113082885742, EP: 0.9703783988952637	 ([new][york][-][delta][air][lines][inc.][# 39 ; s][bonds][rose][thursday][offered][exchange][bonds][attempt][stave])
+v(8 9 10 11 12 13 19): 13.241279602050781, EP: 0.9698047041893005	 ([bonds][rose][sharply][thursday][trading,][day][bankruptcy.])
+v(7 10 12 13 14 15 16 19): 13.233875274658203, EP: 0.9692623615264893	 ([# 39 ; s][sharply][trading,][day][offered][exchange][bonds][bankruptcy.])
+v(0 1 2 3 4 5 6 7 14 15 16 17 18): 13.2145414352417, EP: 0.9678463339805603	 ([new][york][-][delta][air][lines][inc.][# 39 ; s][offered][exchange][bonds][attempt][stave])
+v(3 4 5 7 8 9 11 14 15 16): 13.206235885620117, EP: 0.9672380685806274	 ([delta][air][lines][# 39 ; s][bonds][rose][thursday][offered][exchange][bonds])
+v(10 12 13 19): 12.988883972167969, EP: 0.9513189792633057	 ([sharply][trading,][day][bankruptcy.])
+v(0 1 2 6 8 9 11 17 18): 12.72258186340332, EP: 0.9318147301673889	 ([new][york][-][inc.][bonds][rose][thursday][attempt][stave])
+v(8 9 11): 11.361701965332031, EP: 0.8321425318717957	 ([bonds][rose][thursday])
+v(0 1 2 6 7 8 9 11 14 15 16 17 18): 10.74667739868164, EP: 0.7870975136756897	 ([new][york][-][inc.][# 39 ; s][bonds][rose][thursday][offered][exchange][bonds][attempt][stave])
+v(0 1 2 6 17 18): 10.529232025146484, EP: 0.7711715698242188	 ([new][york][-][inc.][attempt][stave])
+v(7 8 9 11 14 15 16): 10.004127502441406, EP: 0.7327123880386353	 ([# 39 ; s][bonds][rose][thursday][offered][exchange][bonds])
+v(7 14 15 16): 8.190345764160156, EP: 0.5998691916465759	 ([# 39 ; s][offered][exchange][bonds])
+v(0 1 2 6 7 14 15 16 17 18): 6.5699567794799805, EP: 0.4811902642250061	 ([new][york][-][inc.][# 39 ; s][offered][exchange][bonds][attempt][stave])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: losses
+Player 1: jobs
+Player 2: matter
+Player 3: great
+Player 4: concern
+Player 5: involved
+Player 6: coventry
+Player 7: itself.
+Player 8: jaguar
+Player 9: # 39 ; s
+Player 10: restructure
+Player 11: plan
+Player 12: future
+Player 13: least
+Player 14: retains
+Player 15: jobs
+Player 16: city
+Player 17: spiritual
+Player 18: headquarters
+Player 19: browns
+Player 20: lane.
+---------- Rewards ----------
+v(): -6.795721054077148	 ([])
+v(1 2 3 4 5 8): 4.590511322021484	 ([jobs][matter][great][concern][involved][jaguar])
+v(0 10 12 14): 3.011716604232788	 ([losses][restructure][future][retains])
+v(11 15 16 17 18 19 20): 7.172029972076416	 ([plan][jobs][city][spiritual][headquarters][browns][lane.])
+v(6 7 9 13): -6.584480285644531	 ([coventry][itself.][# 39 ; s][least])
+v(0 1 2 3 4 5 8 10 12 14): 7.362133502960205	 ([losses][jobs][matter][great][concern][involved][jaguar][restructure][future][retains])
+v(1 2 3 4 5 8 11 15 16 17 18 19 20): 8.329239845275879	 ([jobs][matter][great][concern][involved][jaguar][plan][jobs][city][spiritual][headquarters][browns][lane.])
+v(1 2 3 4 5 6 7 8 9 13): 3.6134798526763916	 ([jobs][matter][great][concern][involved][coventry][itself.][jaguar][# 39 ; s][least])
+v(0 10 11 12 14 15 16 17 18 19 20): 7.132080078125	 ([losses][restructure][plan][future][retains][jobs][city][spiritual][headquarters][browns][lane.])
+v(0 6 7 9 10 12 13 14): 1.7288694381713867	 ([losses][coventry][itself.][# 39 ; s][restructure][future][least][retains])
+v(6 7 9 11 13 15 16 17 18 19 20): 6.5920891761779785	 ([coventry][itself.][# 39 ; s][plan][least][jobs][city][spiritual][headquarters][browns][lane.])
+v(0 1 2 3 4 5 8 10 11 12 14 15 16 17 18 19 20): 8.171504974365234	 ([losses][jobs][matter][great][concern][involved][jaguar][restructure][plan][future][retains][jobs][city][spiritual][headquarters][browns][lane.])
+v(0 1 2 3 4 5 6 7 8 9 10 12 13 14): 6.952702522277832	 ([losses][jobs][matter][great][concern][involved][coventry][itself.][jaguar][# 39 ; s][restructure][future][least][retains])
+v(1 2 3 4 5 6 7 8 9 11 13 15 16 17 18 19 20): 7.747424125671387	 ([jobs][matter][great][concern][involved][coventry][itself.][jaguar][# 39 ; s][plan][least][jobs][city][spiritual][headquarters][browns][lane.])
+v(0 6 7 9 10 11 12 13 14 15 16 17 18 19 20): 7.4069366455078125	 ([losses][coventry][itself.][# 39 ; s][restructure][plan][future][least][retains][jobs][city][spiritual][headquarters][browns][lane.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.968086242675781	 ([losses][jobs][matter][great][concern][involved][coventry][itself.][jaguar][# 39 ; s][restructure][plan][future][least][retains][jobs][city][spiritual][headquarters][browns][lane.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 8 11 15 16 17 18 19 20): 15.124960899353027, EP: 1.024462103843689	 ([jobs][matter][great][concern][involved][jaguar][plan][jobs][city][spiritual][headquarters][browns][lane.])
+v(0 1 2 3 4 5 8 10 11 12 14 15 16 17 18 19 20): 14.967226028442383, EP: 1.0137782096862793	 ([losses][jobs][matter][great][concern][involved][jaguar][restructure][plan][future][retains][jobs][city][spiritual][headquarters][browns][lane.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 14.76380729675293, EP: 1.0	 ([losses][jobs][matter][great][concern][involved][coventry][itself.][jaguar][# 39 ; s][restructure][plan][future][least][retains][jobs][city][spiritual][headquarters][browns][lane.])
+v(1 2 3 4 5 6 7 8 9 11 13 15 16 17 18 19 20): 14.543145179748535, EP: 0.9850538372993469	 ([jobs][matter][great][concern][involved][coventry][itself.][jaguar][# 39 ; s][plan][least][jobs][city][spiritual][headquarters][browns][lane.])
+v(0 6 7 9 10 11 12 13 14 15 16 17 18 19 20): 14.202657699584961, EP: 0.961991548538208	 ([losses][coventry][itself.][# 39 ; s][restructure][plan][future][least][retains][jobs][city][spiritual][headquarters][browns][lane.])
+v(0 1 2 3 4 5 8 10 12 14): 14.157854080200195, EP: 0.9589568376541138	 ([losses][jobs][matter][great][concern][involved][jaguar][restructure][future][retains])
+v(11 15 16 17 18 19 20): 13.967750549316406, EP: 0.9460805058479309	 ([plan][jobs][city][spiritual][headquarters][browns][lane.])
+v(0 10 11 12 14 15 16 17 18 19 20): 13.927801132202148, EP: 0.9433746337890625	 ([losses][restructure][plan][future][retains][jobs][city][spiritual][headquarters][browns][lane.])
+v(0 1 2 3 4 5 6 7 8 9 10 12 13 14): 13.74842357635498, EP: 0.9312248229980469	 ([losses][jobs][matter][great][concern][involved][coventry][itself.][jaguar][# 39 ; s][restructure][future][least][retains])
+v(6 7 9 11 13 15 16 17 18 19 20): 13.387809753417969, EP: 0.9067992568016052	 ([coventry][itself.][# 39 ; s][plan][least][jobs][city][spiritual][headquarters][browns][lane.])
+v(1 2 3 4 5 8): 11.386232376098633, EP: 0.7712260484695435	 ([jobs][matter][great][concern][involved][jaguar])
+v(1 2 3 4 5 6 7 8 9 13): 10.409200668334961, EP: 0.7050485610961914	 ([jobs][matter][great][concern][involved][coventry][itself.][jaguar][# 39 ; s][least])
+v(0 10 12 14): 9.807437896728516, EP: 0.6642892360687256	 ([losses][restructure][future][retains])
+v(0 6 7 9 10 12 13 14): 8.524590492248535, EP: 0.5773978233337402	 ([losses][coventry][itself.][# 39 ; s][restructure][future][least][retains])
+v(6 7 9 13): 0.2112407684326172, EP: 0.014308014884591103	 ([coventry][itself.][# 39 ; s][least])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

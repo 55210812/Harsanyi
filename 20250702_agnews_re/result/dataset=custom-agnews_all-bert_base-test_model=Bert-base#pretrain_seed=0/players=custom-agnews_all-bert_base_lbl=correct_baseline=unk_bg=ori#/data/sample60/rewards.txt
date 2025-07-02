@@ -1,0 +1,50 @@
+---------- Players ----------
+Player 0: europe
+Player 1: united
+Player 2: states
+Player 3: could
+Player 4: headed
+Player 5: trans - atlantic
+Player 6: trade
+Player 7: war
+Player 8: issue
+Player 9: government
+Player 10: aid
+Player 11: airbus
+Player 12: boeing
+Player 13: co.
+---------- Rewards ----------
+v(): -1.3343942165374756	 ([])
+v(3 6 8 11 12): 7.700160980224609	 ([could][trade][issue][airbus][boeing])
+v(4 9): -0.5573809146881104	 ([headed][government])
+v(5 7 13): -1.141727089881897	 ([trans - atlantic][war][co.])
+v(0 1 2 10): 5.0404372215271	 ([europe][united][states][aid])
+v(3 4 6 8 9 11 12): 7.588024616241455	 ([could][headed][trade][issue][government][airbus][boeing])
+v(3 5 6 7 8 11 12 13): 7.803797245025635	 ([could][trans - atlantic][trade][war][issue][airbus][boeing][co.])
+v(0 1 2 3 6 8 10 11 12): 7.235766410827637	 ([europe][united][states][could][trade][issue][aid][airbus][boeing])
+v(4 5 7 9 13): 0.7400686740875244	 ([headed][trans - atlantic][war][government][co.])
+v(0 1 2 4 9 10): 3.0633187294006348	 ([europe][united][states][headed][government][aid])
+v(0 1 2 5 7 10 13): 4.1403679847717285	 ([europe][united][states][trans - atlantic][war][aid][co.])
+v(3 4 5 6 7 8 9 11 12 13): 7.828083038330078	 ([could][headed][trans - atlantic][trade][war][issue][government][airbus][boeing][co.])
+v(0 1 2 3 4 6 8 9 10 11 12): 7.107529640197754	 ([europe][united][states][could][headed][trade][issue][government][aid][airbus][boeing])
+v(0 1 2 3 5 6 7 8 10 11 12 13): 5.25756311416626	 ([europe][united][states][could][trans - atlantic][trade][war][issue][aid][airbus][boeing][co.])
+v(0 1 2 4 5 7 9 10 13): 2.3834633827209473	 ([europe][united][states][headed][trans - atlantic][war][government][aid][co.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 3.315760612487793	 ([europe][united][states][could][headed][trans - atlantic][trade][war][issue][government][aid][airbus][boeing][co.])
+---------- Rewards-v() ----------
+v(3 4 5 6 7 8 9 11 12 13): 9.162477493286133, EP: 1.9703595638275146	 ([could][headed][trans - atlantic][trade][war][issue][government][airbus][boeing][co.])
+v(3 5 6 7 8 11 12 13): 9.138191223144531, EP: 1.9651368856430054	 ([could][trans - atlantic][trade][war][issue][airbus][boeing][co.])
+v(3 6 8 11 12): 9.034555435180664, EP: 1.9428503513336182	 ([could][trade][issue][airbus][boeing])
+v(3 4 6 8 9 11 12): 8.922418594360352, EP: 1.9187357425689697	 ([could][headed][trade][issue][government][airbus][boeing])
+v(0 1 2 3 6 8 10 11 12): 8.570160865783691, EP: 1.8429838418960571	 ([europe][united][states][could][trade][issue][aid][airbus][boeing])
+v(0 1 2 3 4 6 8 9 10 11 12): 8.441924095153809, EP: 1.8154070377349854	 ([europe][united][states][could][headed][trade][issue][government][aid][airbus][boeing])
+v(0 1 2 3 5 6 7 8 10 11 12 13): 6.591957092285156, EP: 1.417577862739563	 ([europe][united][states][could][trans - atlantic][trade][war][issue][aid][airbus][boeing][co.])
+v(0 1 2 10): 6.374831199645996, EP: 1.3708857297897339	 ([europe][united][states][aid])
+v(0 1 2 5 7 10 13): 5.474761962890625, EP: 1.1773289442062378	 ([europe][united][states][trans - atlantic][war][aid][co.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 4.650155067443848, EP: 1.0	 ([europe][united][states][could][headed][trans - atlantic][trade][war][issue][government][aid][airbus][boeing][co.])
+v(0 1 2 4 9 10): 4.397712707519531, EP: 0.9457131028175354	 ([europe][united][states][headed][government][aid])
+v(0 1 2 4 5 7 9 10 13): 3.717857599258423, EP: 0.7995126247406006	 ([europe][united][states][headed][trans - atlantic][war][government][aid][co.])
+v(4 5 7 9 13): 2.074462890625, EP: 0.4461061656475067	 ([headed][trans - atlantic][war][government][co.])
+v(4 9): 0.7770133018493652, EP: 0.16709406673908234	 ([headed][government])
+v(5 7 13): 0.1926671266555786, EP: 0.04143241047859192	 ([trans - atlantic][war][co.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

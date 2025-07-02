@@ -1,0 +1,61 @@
+---------- Players ----------
+Player 0: girafa. com,
+Player 1: develops
+Player 2: providers
+Player 3: data
+Player 4: visualization
+Player 5: solutions
+Player 6: services,
+Player 7: announced
+Player 8: yesterday
+Player 9: compuserve,
+Player 10: netscape,
+Player 11: aim
+Player 12: icq
+Player 13: -
+Player 14: properties
+Player 15: america
+Player 16: online
+Player 17: ( aol )
+Player 18: -
+Player 19: signed
+Player 20: agreement
+Player 21: girafa
+Player 22: use
+Player 23: thumbnail
+Player 24: ...
+---------- Rewards ----------
+v(): 4.115103721618652	 ([])
+v(18 24): -3.92708158493042	 ([-][...])
+v(0 4 6 8 9 10 11 12 14 15 16 22 23): 8.274393081665039	 ([girafa. com,][visualization][services,][yesterday][compuserve,][netscape,][aim][icq][properties][america][online][use][thumbnail])
+v(13 19 20 21): -4.735204696655273	 ([-][signed][agreement][girafa])
+v(1 2 3 5 7 17): -0.43371129035949707	 ([develops][providers][data][solutions][announced][( aol )])
+v(0 4 6 8 9 10 11 12 14 15 16 18 22 23 24): 8.44362735748291	 ([girafa. com,][visualization][services,][yesterday][compuserve,][netscape,][aim][icq][properties][america][online][-][use][thumbnail][...])
+v(13 18 19 20 21 24): -5.774117469787598	 ([-][-][signed][agreement][girafa][...])
+v(1 2 3 5 7 17 18 24): 2.218829870223999	 ([develops][providers][data][solutions][announced][( aol )][-][...])
+v(0 4 6 8 9 10 11 12 13 14 15 16 19 20 21 22 23): 8.155701637268066	 ([girafa. com,][visualization][services,][yesterday][compuserve,][netscape,][aim][icq][-][properties][america][online][signed][agreement][girafa][use][thumbnail])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 22 23): 8.413732528686523	 ([girafa. com,][develops][providers][data][visualization][solutions][services,][announced][yesterday][compuserve,][netscape,][aim][icq][properties][america][online][( aol )][use][thumbnail])
+v(1 2 3 5 7 13 17 19 20 21): -0.2760617733001709	 ([develops][providers][data][solutions][announced][-][( aol )][signed][agreement][girafa])
+v(0 4 6 8 9 10 11 12 13 14 15 16 18 19 20 21 22 23 24): 8.384592056274414	 ([girafa. com,][visualization][services,][yesterday][compuserve,][netscape,][aim][icq][-][properties][america][online][-][signed][agreement][girafa][use][thumbnail][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 22 23 24): 7.982450485229492	 ([girafa. com,][develops][providers][data][visualization][solutions][services,][announced][yesterday][compuserve,][netscape,][aim][icq][properties][america][online][( aol )][-][use][thumbnail][...])
+v(1 2 3 5 7 13 17 18 19 20 21 24): -0.2449359893798828	 ([develops][providers][data][solutions][announced][-][( aol )][-][signed][agreement][girafa][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 19 20 21 22 23): 8.305224418640137	 ([girafa. com,][develops][providers][data][visualization][solutions][services,][announced][yesterday][compuserve,][netscape,][aim][icq][-][properties][america][online][( aol )][signed][agreement][girafa][use][thumbnail])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 7.715500831604004	 ([girafa. com,][develops][providers][data][visualization][solutions][services,][announced][yesterday][compuserve,][netscape,][aim][icq][-][properties][america][online][( aol )][-][signed][agreement][girafa][use][thumbnail][...])
+---------- Rewards-v() ----------
+v(13 18 19 20 21 24): -9.88922119140625, EP: -2.7467029094696045	 ([-][-][signed][agreement][girafa][...])
+v(13 19 20 21): -8.850308418273926, EP: -2.4581477642059326	 ([-][signed][agreement][girafa])
+v(18 24): -8.042184829711914, EP: -2.233693838119507	 ([-][...])
+v(1 2 3 5 7 17): -4.54881477355957, EP: -1.2634203433990479	 ([develops][providers][data][solutions][announced][( aol )])
+v(1 2 3 5 7 13 17 19 20 21): -4.391165733337402, EP: -1.21963369846344	 ([develops][providers][data][solutions][announced][-][( aol )][signed][agreement][girafa])
+v(1 2 3 5 7 13 17 18 19 20 21 24): -4.360039710998535, EP: -1.2109885215759277	 ([develops][providers][data][solutions][announced][-][( aol )][-][signed][agreement][girafa][...])
+v(0 4 6 8 9 10 11 12 14 15 16 18 22 23 24): 4.328523635864258, EP: 1.2022351026535034	 ([girafa. com,][visualization][services,][yesterday][compuserve,][netscape,][aim][icq][properties][america][online][-][use][thumbnail][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 22 23): 4.298628807067871, EP: 1.1939318180084229	 ([girafa. com,][develops][providers][data][visualization][solutions][services,][announced][yesterday][compuserve,][netscape,][aim][icq][properties][america][online][( aol )][use][thumbnail])
+v(0 4 6 8 9 10 11 12 13 14 15 16 18 19 20 21 22 23 24): 4.269488334655762, EP: 1.185838222503662	 ([girafa. com,][visualization][services,][yesterday][compuserve,][netscape,][aim][icq][-][properties][america][online][-][signed][agreement][girafa][use][thumbnail][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 19 20 21 22 23): 4.190120697021484, EP: 1.1637940406799316	 ([girafa. com,][develops][providers][data][visualization][solutions][services,][announced][yesterday][compuserve,][netscape,][aim][icq][-][properties][america][online][( aol )][signed][agreement][girafa][use][thumbnail])
+v(0 4 6 8 9 10 11 12 14 15 16 22 23): 4.159289360046387, EP: 1.1552307605743408	 ([girafa. com,][visualization][services,][yesterday][compuserve,][netscape,][aim][icq][properties][america][online][use][thumbnail])
+v(0 4 6 8 9 10 11 12 13 14 15 16 19 20 21 22 23): 4.040597915649414, EP: 1.1222645044326782	 ([girafa. com,][visualization][services,][yesterday][compuserve,][netscape,][aim][icq][-][properties][america][online][signed][agreement][girafa][use][thumbnail])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 22 23 24): 3.86734676361084, EP: 1.0741444826126099	 ([girafa. com,][develops][providers][data][visualization][solutions][services,][announced][yesterday][compuserve,][netscape,][aim][icq][properties][america][online][( aol )][-][use][thumbnail][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 3.6003971099853516, EP: 1.0	 ([girafa. com,][develops][providers][data][visualization][solutions][services,][announced][yesterday][compuserve,][netscape,][aim][icq][-][properties][america][online][( aol )][-][signed][agreement][girafa][use][thumbnail][...])
+v(1 2 3 5 7 17 18 24): -1.8962738513946533, EP: -0.5266846418380737	 ([develops][providers][data][solutions][announced][( aol )][-][...])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: arrived
+Player 1: 6. 15
+Player 2: am,
+Player 3: friday
+Player 4: alderson
+Player 5: federal
+Player 6: prison
+Player 7: camp,
+Player 8: according
+Player 9: announcement
+Player 10: us
+Player 11: bureau
+Player 12: prisons.
+Player 13: put
+Player 14: news
+Player 15: first,
+Player 16: marthatalks.
+---------- Rewards ----------
+v(): -0.8656285405158997	 ([])
+v(0 1 2 5 6 7): -6.899205684661865	 ([arrived][6. 15][am,][federal][prison][camp,])
+v(3 4 13 14 15 16): 6.047690391540527	 ([friday][alderson][put][news][first,][marthatalks.])
+v(8 9 10 11 12): -5.071950435638428	 ([according][announcement][us][bureau][prisons.])
+v(0 1 2 3 4 5 6 7 13 14 15 16): 6.620920181274414	 ([arrived][6. 15][am,][friday][alderson][federal][prison][camp,][put][news][first,][marthatalks.])
+v(0 1 2 5 6 7 8 9 10 11 12): -2.887706756591797	 ([arrived][6. 15][am,][federal][prison][camp,][according][announcement][us][bureau][prisons.])
+v(3 4 8 9 10 11 12 13 14 15 16): 4.235750675201416	 ([friday][alderson][according][announcement][us][bureau][prisons.][put][news][first,][marthatalks.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 4.437561511993408	 ([arrived][6. 15][am,][friday][alderson][federal][prison][camp,][according][announcement][us][bureau][prisons.][put][news][first,][marthatalks.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 13 14 15 16): 7.486548900604248, EP: 1.4117066860198975	 ([arrived][6. 15][am,][friday][alderson][federal][prison][camp,][put][news][first,][marthatalks.])
+v(3 4 13 14 15 16): 6.913319110870361, EP: 1.3036150932312012	 ([friday][alderson][put][news][first,][marthatalks.])
+v(0 1 2 5 6 7): -6.033576965332031, EP: -1.1377259492874146	 ([arrived][6. 15][am,][federal][prison][camp,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 5.303190231323242, EP: 1.0	 ([arrived][6. 15][am,][friday][alderson][federal][prison][camp,][according][announcement][us][bureau][prisons.][put][news][first,][marthatalks.])
+v(3 4 8 9 10 11 12 13 14 15 16): 5.10137939453125, EP: 0.9619454145431519	 ([friday][alderson][according][announcement][us][bureau][prisons.][put][news][first,][marthatalks.])
+v(8 9 10 11 12): -4.206321716308594, EP: -0.7931681871414185	 ([according][announcement][us][bureau][prisons.])
+v(0 1 2 5 6 7 8 9 10 11 12): -2.022078275680542, EP: -0.38129469752311707	 ([arrived][6. 15][am,][federal][prison][camp,][according][announcement][us][bureau][prisons.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

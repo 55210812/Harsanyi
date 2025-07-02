@@ -1,0 +1,42 @@
+Execution time: 2025-07-02 19:40:59
+prompt: [CLS] chelsea newton scored 16 points to lead no. 17 rutgers to a 77 - 53 victory over oregon state in the second round of the paradise jam tournament on friday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9295 decoded_text: chelsea
+idx:2 input_id:8446 decoded_text: newton
+idx:3 input_id:3195 decoded_text: scored
+idx:4 input_id:2385 decoded_text: 16
+idx:5 input_id:2685 decoded_text: points
+idx:6 input_id:2000 decoded_text: to
+idx:7 input_id:2599 decoded_text: lead
+idx:8 input_id:2053 decoded_text: no
+idx:9 input_id:1012 decoded_text: .
+idx:10 input_id:2459 decoded_text: 17
+idx:11 input_id:18607 decoded_text: rutgers
+idx:12 input_id:2000 decoded_text: to
+idx:13 input_id:1037 decoded_text: a
+idx:14 input_id:6255 decoded_text: 77
+idx:15 input_id:1011 decoded_text: -
+idx:16 input_id:5187 decoded_text: 53
+idx:17 input_id:3377 decoded_text: victory
+idx:18 input_id:2058 decoded_text: over
+idx:19 input_id:5392 decoded_text: oregon
+idx:20 input_id:2110 decoded_text: state
+idx:21 input_id:1999 decoded_text: in
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:2117 decoded_text: second
+idx:24 input_id:2461 decoded_text: round
+idx:25 input_id:1997 decoded_text: of
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:9097 decoded_text: paradise
+idx:28 input_id:9389 decoded_text: jam
+idx:29 input_id:2977 decoded_text: tournament
+idx:30 input_id:2006 decoded_text: on
+idx:31 input_id:5958 decoded_text: friday
+idx:32 input_id:1012 decoded_text: .
+idx:33 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.9827358722686768, 8.546354293823242, -2.8468213081359863, -2.158237934112549]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

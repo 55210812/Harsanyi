@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: toronto
+Player 1: - -
+Player 2: sears
+Player 3: canada
+Player 4: inc.
+Player 5: dismissed
+Player 6: mark
+Player 7: cohen
+Player 8: chair
+Player 9: chief
+Player 10: executive,
+Player 11: citing
+Player 12: quot ; strategic
+Player 13: differences
+Player 14: quot ;
+Player 15: board
+Player 16: directors.
+---------- Rewards ----------
+v(): -5.206385612487793	 ([])
+v(0 1 4 5 8 9 10): 8.186829566955566	 ([toronto][- -][inc.][dismissed][chair][chief][executive,])
+v(11 12 15 16): 6.909689903259277	 ([citing][quot ; strategic][board][directors.])
+v(2 3 6 7 13 14): 5.630512714385986	 ([sears][canada][mark][cohen][differences][quot ;])
+v(0 1 4 5 8 9 10 11 12 15 16): 8.383102416992188	 ([toronto][- -][inc.][dismissed][chair][chief][executive,][citing][quot ; strategic][board][directors.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14): 8.402913093566895	 ([toronto][- -][sears][canada][inc.][dismissed][mark][cohen][chair][chief][executive,][differences][quot ;])
+v(2 3 6 7 11 12 13 14 15 16): 8.487787246704102	 ([sears][canada][mark][cohen][citing][quot ; strategic][differences][quot ;][board][directors.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 8.397470474243164	 ([toronto][- -][sears][canada][inc.][dismissed][mark][cohen][chair][chief][executive,][citing][quot ; strategic][differences][quot ;][board][directors.])
+---------- Rewards-v() ----------
+v(2 3 6 7 11 12 13 14 15 16): 13.694172859191895, EP: 1.006639003753662	 ([sears][canada][mark][cohen][citing][quot ; strategic][differences][quot ;][board][directors.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14): 13.609298706054688, EP: 1.0004000663757324	 ([toronto][- -][sears][canada][inc.][dismissed][mark][cohen][chair][chief][executive,][differences][quot ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 13.603856086730957, EP: 1.0	 ([toronto][- -][sears][canada][inc.][dismissed][mark][cohen][chair][chief][executive,][citing][quot ; strategic][differences][quot ;][board][directors.])
+v(0 1 4 5 8 9 10 11 12 15 16): 13.58948802947998, EP: 0.9989438056945801	 ([toronto][- -][inc.][dismissed][chair][chief][executive,][citing][quot ; strategic][board][directors.])
+v(0 1 4 5 8 9 10): 13.39321517944336, EP: 0.9845160841941833	 ([toronto][- -][inc.][dismissed][chair][chief][executive,])
+v(11 12 15 16): 12.11607551574707, EP: 0.8906353712081909	 ([citing][quot ; strategic][board][directors.])
+v(2 3 6 7 13 14): 10.836898803710938, EP: 0.7966049313545227	 ([sears][canada][mark][cohen][differences][quot ;])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,32 @@
+Execution time: 2025-07-02 19:36:58
+prompt: [CLS] ap - democratic vice presidential nominee john edwards said sunday a kerry - edwards administration would show no mercy to terrorists. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:3537 decoded_text: democratic
+idx:4 input_id:3580 decoded_text: vice
+idx:5 input_id:4883 decoded_text: presidential
+idx:6 input_id:9773 decoded_text: nominee
+idx:7 input_id:2198 decoded_text: john
+idx:8 input_id:7380 decoded_text: edwards
+idx:9 input_id:2056 decoded_text: said
+idx:10 input_id:4465 decoded_text: sunday
+idx:11 input_id:1037 decoded_text: a
+idx:12 input_id:11260 decoded_text: kerry
+idx:13 input_id:1011 decoded_text: -
+idx:14 input_id:7380 decoded_text: edwards
+idx:15 input_id:3447 decoded_text: administration
+idx:16 input_id:2052 decoded_text: would
+idx:17 input_id:2265 decoded_text: show
+idx:18 input_id:2053 decoded_text: no
+idx:19 input_id:8673 decoded_text: mercy
+idx:20 input_id:2000 decoded_text: to
+idx:21 input_id:15554 decoded_text: terrorists
+idx:22 input_id:1012 decoded_text: .
+idx:23 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.9894819259643555, -1.4545377492904663, -2.200172185897827, -2.940577745437622]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

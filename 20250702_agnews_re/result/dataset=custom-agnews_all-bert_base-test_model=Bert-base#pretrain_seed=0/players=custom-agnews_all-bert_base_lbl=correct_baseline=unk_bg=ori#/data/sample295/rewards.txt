@@ -1,0 +1,52 @@
+---------- Players ----------
+Player 0: hitachi
+Player 1: data
+Player 2: systems
+Player 3: tuesday
+Player 4: launched
+Player 5: new
+Player 6: high - end
+Player 7: storage
+Player 8: hardware
+Player 9: device
+Player 10: whose
+Player 11: motto
+Player 12: could
+Player 13: essentially
+Player 14: quot ; everyone
+Player 15: pool.
+---------- Rewards ----------
+v(): 3.592719078063965	 ([])
+v(8 11): 5.657216548919678	 ([hardware][motto])
+v(1 3 15): -0.32213616371154785	 ([data][tuesday][pool.])
+v(0 4 5 10 12 13): 6.7506937980651855	 ([hitachi][launched][new][whose][could][essentially])
+v(2 6 7 9 14): 5.783239841461182	 ([systems][high - end][storage][device][quot ; everyone])
+v(1 3 8 11 15): 2.93519926071167	 ([data][tuesday][hardware][motto][pool.])
+v(0 4 5 8 10 11 12 13): 7.735434055328369	 ([hitachi][launched][new][hardware][whose][motto][could][essentially])
+v(2 6 7 8 9 11 14): 6.5267791748046875	 ([systems][high - end][storage][hardware][device][motto][quot ; everyone])
+v(0 1 3 4 5 10 12 13 15): 3.4990406036376953	 ([hitachi][data][tuesday][launched][new][whose][could][essentially][pool.])
+v(1 2 3 6 7 9 14 15): 7.398736000061035	 ([data][systems][tuesday][high - end][storage][device][quot ; everyone][pool.])
+v(0 2 4 5 6 7 9 10 12 13 14): 6.295826435089111	 ([hitachi][systems][launched][new][high - end][storage][device][whose][could][essentially][quot ; everyone])
+v(0 1 3 4 5 8 10 11 12 13 15): 6.741908073425293	 ([hitachi][data][tuesday][launched][new][hardware][whose][motto][could][essentially][pool.])
+v(1 2 3 6 7 8 9 11 14 15): 7.326535224914551	 ([data][systems][tuesday][high - end][storage][hardware][device][motto][quot ; everyone][pool.])
+v(0 2 4 5 6 7 8 9 10 11 12 13 14): 6.932681560516357	 ([hitachi][systems][launched][new][high - end][storage][hardware][device][whose][motto][could][essentially][quot ; everyone])
+v(0 1 2 3 4 5 6 7 9 10 12 13 14 15): 6.409413814544678	 ([hitachi][data][systems][tuesday][launched][new][high - end][storage][device][whose][could][essentially][quot ; everyone][pool.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 5.818964004516602	 ([hitachi][data][systems][tuesday][launched][new][high - end][storage][hardware][device][whose][motto][could][essentially][quot ; everyone][pool.])
+---------- Rewards-v() ----------
+v(0 4 5 8 10 11 12 13): 4.142714977264404, EP: 1.8608531951904297	 ([hitachi][launched][new][hardware][whose][motto][could][essentially])
+v(1 3 15): -3.9148552417755127, EP: -1.758501648902893	 ([data][tuesday][pool.])
+v(1 2 3 6 7 9 14 15): 3.8060169219970703, EP: 1.7096128463745117	 ([data][systems][tuesday][high - end][storage][device][quot ; everyone][pool.])
+v(1 2 3 6 7 8 9 11 14 15): 3.733816146850586, EP: 1.6771812438964844	 ([data][systems][tuesday][high - end][storage][hardware][device][motto][quot ; everyone][pool.])
+v(0 2 4 5 6 7 8 9 10 11 12 13 14): 3.3399624824523926, EP: 1.5002672672271729	 ([hitachi][systems][launched][new][high - end][storage][hardware][device][whose][motto][could][essentially][quot ; everyone])
+v(0 4 5 10 12 13): 3.1579747200012207, EP: 1.4185208082199097	 ([hitachi][launched][new][whose][could][essentially])
+v(0 1 3 4 5 8 10 11 12 13 15): 3.149188995361328, EP: 1.414574384689331	 ([hitachi][data][tuesday][launched][new][hardware][whose][motto][could][essentially][pool.])
+v(2 6 7 8 9 11 14): 2.9340600967407227, EP: 1.3179413080215454	 ([systems][high - end][storage][hardware][device][motto][quot ; everyone])
+v(0 1 2 3 4 5 6 7 9 10 12 13 14 15): 2.816694736480713, EP: 1.2652223110198975	 ([hitachi][data][systems][tuesday][launched][new][high - end][storage][device][whose][could][essentially][quot ; everyone][pool.])
+v(0 2 4 5 6 7 9 10 12 13 14): 2.7031073570251465, EP: 1.2142003774642944	 ([hitachi][systems][launched][new][high - end][storage][device][whose][could][essentially][quot ; everyone])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 2.2262449264526367, EP: 1.0	 ([hitachi][data][systems][tuesday][launched][new][high - end][storage][hardware][device][whose][motto][could][essentially][quot ; everyone][pool.])
+v(2 6 7 9 14): 2.190520763397217, EP: 0.9839531779289246	 ([systems][high - end][storage][device][quot ; everyone])
+v(8 11): 2.064497470855713, EP: 0.9273451566696167	 ([hardware][motto])
+v(1 3 8 11 15): -0.6575198173522949, EP: -0.29534927010536194	 ([data][tuesday][hardware][motto][pool.])
+v(0 1 3 4 5 10 12 13 15): -0.09367847442626953, EP: -0.0420791395008564	 ([hitachi][data][tuesday][launched][new][whose][could][essentially][pool.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

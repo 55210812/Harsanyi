@@ -1,0 +1,59 @@
+---------- Players ----------
+Player 0: senior
+Player 1: us
+Player 2: federal
+Player 3: reserve
+Player 4: official
+Player 5: said
+Player 6: thursday
+Player 7: recent
+Player 8: spike
+Player 9: oil
+Player 10: prices
+Player 11: would
+Player 12: almost
+Player 13: certainly
+Player 14: impact
+Player 15: us
+Player 16: economy,
+Player 17: although
+Player 18: may
+Player 19: significant
+Player 20: shocks
+Player 21: 1970s
+Player 22: 1980s.
+---------- Rewards ----------
+v(): -5.887418746948242	 ([])
+v(4 6 9 10 11 16): 7.58555269241333	 ([official][thursday][oil][prices][would][economy,])
+v(0 1 2 3 5 8): 7.82838249206543	 ([senior][us][federal][reserve][said][spike])
+v(7 12 13 14 15 17 18 21 22): 0.3092419505119324	 ([recent][almost][certainly][impact][us][although][may][1970s][1980s.])
+v(19 20): -0.7003092765808105	 ([significant][shocks])
+v(0 1 2 3 4 5 6 8 9 10 11 16): 7.8931403160095215	 ([senior][us][federal][reserve][official][said][thursday][spike][oil][prices][would][economy,])
+v(4 6 7 9 10 11 12 13 14 15 16 17 18 21 22): 8.096651077270508	 ([official][thursday][recent][oil][prices][would][almost][certainly][impact][us][economy,][although][may][1970s][1980s.])
+v(4 6 9 10 11 16 19 20): 7.521443843841553	 ([official][thursday][oil][prices][would][economy,][significant][shocks])
+v(0 1 2 3 5 7 8 12 13 14 15 17 18 21 22): 7.543612480163574	 ([senior][us][federal][reserve][said][recent][spike][almost][certainly][impact][us][although][may][1970s][1980s.])
+v(0 1 2 3 5 8 19 20): 7.796757698059082	 ([senior][us][federal][reserve][said][spike][significant][shocks])
+v(7 12 13 14 15 17 18 19 20 21 22): 3.8398375511169434	 ([recent][almost][certainly][impact][us][although][may][significant][shocks][1970s][1980s.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 21 22): 7.916166305541992	 ([senior][us][federal][reserve][official][said][thursday][recent][spike][oil][prices][would][almost][certainly][impact][us][economy,][although][may][1970s][1980s.])
+v(0 1 2 3 4 5 6 8 9 10 11 16 19 20): 7.866762161254883	 ([senior][us][federal][reserve][official][said][thursday][spike][oil][prices][would][economy,][significant][shocks])
+v(4 6 7 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.127283096313477	 ([official][thursday][recent][oil][prices][would][almost][certainly][impact][us][economy,][although][may][significant][shocks][1970s][1980s.])
+v(0 1 2 3 5 7 8 12 13 14 15 17 18 19 20 21 22): 7.6087870597839355	 ([senior][us][federal][reserve][said][recent][spike][almost][certainly][impact][us][although][may][significant][shocks][1970s][1980s.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.7493791580200195	 ([senior][us][federal][reserve][official][said][thursday][recent][spike][oil][prices][would][almost][certainly][impact][us][economy,][although][may][significant][shocks][1970s][1980s.])
+---------- Rewards-v() ----------
+v(4 6 7 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.014701843261719, EP: 1.027712106704712	 ([official][thursday][recent][oil][prices][would][almost][certainly][impact][us][economy,][although][may][significant][shocks][1970s][1980s.])
+v(4 6 7 9 10 11 12 13 14 15 16 17 18 21 22): 13.98406982421875, EP: 1.0254658460617065	 ([official][thursday][recent][oil][prices][would][almost][certainly][impact][us][economy,][although][may][1970s][1980s.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 21 22): 13.803585052490234, EP: 1.012230634689331	 ([senior][us][federal][reserve][official][said][thursday][recent][spike][oil][prices][would][almost][certainly][impact][us][economy,][although][may][1970s][1980s.])
+v(0 1 2 3 4 5 6 8 9 10 11 16): 13.780559539794922, EP: 1.0105421543121338	 ([senior][us][federal][reserve][official][said][thursday][spike][oil][prices][would][economy,])
+v(0 1 2 3 4 5 6 8 9 10 11 16 19 20): 13.754180908203125, EP: 1.0086078643798828	 ([senior][us][federal][reserve][official][said][thursday][spike][oil][prices][would][economy,][significant][shocks])
+v(0 1 2 3 5 8): 13.715801239013672, EP: 1.0057934522628784	 ([senior][us][federal][reserve][said][spike])
+v(0 1 2 3 5 8 19 20): 13.684176445007324, EP: 1.0034743547439575	 ([senior][us][federal][reserve][said][spike][significant][shocks])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 13.636797904968262, EP: 1.0	 ([senior][us][federal][reserve][official][said][thursday][recent][spike][oil][prices][would][almost][certainly][impact][us][economy,][although][may][significant][shocks][1970s][1980s.])
+v(0 1 2 3 5 7 8 12 13 14 15 17 18 19 20 21 22): 13.496206283569336, EP: 0.9896903038024902	 ([senior][us][federal][reserve][said][recent][spike][almost][certainly][impact][us][although][may][significant][shocks][1970s][1980s.])
+v(4 6 9 10 11 16): 13.472970962524414, EP: 0.9879863858222961	 ([official][thursday][oil][prices][would][economy,])
+v(0 1 2 3 5 7 8 12 13 14 15 17 18 21 22): 13.431031227111816, EP: 0.9849109053611755	 ([senior][us][federal][reserve][said][recent][spike][almost][certainly][impact][us][although][may][1970s][1980s.])
+v(4 6 9 10 11 16 19 20): 13.408863067626953, EP: 0.9832853078842163	 ([official][thursday][oil][prices][would][economy,][significant][shocks])
+v(7 12 13 14 15 17 18 19 20 21 22): 9.727256774902344, EP: 0.7133094668388367	 ([recent][almost][certainly][impact][us][although][may][significant][shocks][1970s][1980s.])
+v(7 12 13 14 15 17 18 21 22): 6.19666051864624, EP: 0.45440730452537537	 ([recent][almost][certainly][impact][us][although][may][1970s][1980s.])
+v(19 20): 5.187109470367432, EP: 0.3803759217262268	 ([significant][shocks])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: us
+Player 1: army
+Player 2: laying
+Player 3: groundwork
+Player 4: let
+Player 5: halliburton
+Player 6: co.
+Player 7: keep
+Player 8: several
+Player 9: billion
+Player 10: dollars
+Player 11: paid
+Player 12: work
+Player 13: iraq
+Player 14: pentagon
+Player 15: auditors
+Player 16: say
+Player 17: questionable
+Player 18: unsupported
+Player 19: proper
+Player 20: documentation
+---------- Rewards ----------
+v(): -5.6491546630859375	 ([])
+v(0 1 10 11 13 15 20): 2.0118844509124756	 ([us][army][dollars][paid][iraq][auditors][documentation])
+v(2 3 4 5 6 7): 7.573436737060547	 ([laying][groundwork][let][halliburton][co.][keep])
+v(8 9 12 14 16 17 18 19): -5.701931953430176	 ([several][billion][work][pentagon][say][questionable][unsupported][proper])
+v(0 1 2 3 4 5 6 7 10 11 13 15 20): 7.464877128601074	 ([us][army][laying][groundwork][let][halliburton][co.][keep][dollars][paid][iraq][auditors][documentation])
+v(0 1 8 9 10 11 12 13 14 15 16 17 18 19 20): 3.351658344268799	 ([us][army][several][billion][dollars][paid][work][iraq][pentagon][auditors][say][questionable][unsupported][proper][documentation])
+v(2 3 4 5 6 7 8 9 12 14 16 17 18 19): 7.579603672027588	 ([laying][groundwork][let][halliburton][co.][keep][several][billion][work][pentagon][say][questionable][unsupported][proper])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.096938133239746	 ([us][army][laying][groundwork][let][halliburton][co.][keep][several][billion][dollars][paid][work][iraq][pentagon][auditors][say][questionable][unsupported][proper][documentation])
+---------- Rewards-v() ----------
+v(2 3 4 5 6 7 8 9 12 14 16 17 18 19): 13.228757858276367, EP: 1.0378676652908325	 ([laying][groundwork][let][halliburton][co.][keep][several][billion][work][pentagon][say][questionable][unsupported][proper])
+v(2 3 4 5 6 7): 13.222591400146484, EP: 1.0373839139938354	 ([laying][groundwork][let][halliburton][co.][keep])
+v(0 1 2 3 4 5 6 7 10 11 13 15 20): 13.114031791687012, EP: 1.0288667678833008	 ([us][army][laying][groundwork][let][halliburton][co.][keep][dollars][paid][iraq][auditors][documentation])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 12.746092796325684, EP: 1.0	 ([us][army][laying][groundwork][let][halliburton][co.][keep][several][billion][dollars][paid][work][iraq][pentagon][auditors][say][questionable][unsupported][proper][documentation])
+v(0 1 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.000812530517578, EP: 0.7061624526977539	 ([us][army][several][billion][dollars][paid][work][iraq][pentagon][auditors][say][questionable][unsupported][proper][documentation])
+v(0 1 10 11 13 15 20): 7.661039352416992, EP: 0.6010500192642212	 ([us][army][dollars][paid][iraq][auditors][documentation])
+v(8 9 12 14 16 17 18 19): -0.05277729034423828, EP: -0.004140664357692003	 ([several][billion][work][pentagon][say][questionable][unsupported][proper])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

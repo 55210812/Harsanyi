@@ -1,0 +1,59 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: israeli
+Player 3: forces
+Player 4: launched
+Player 5: sixth
+Player 6: day
+Player 7: a \ massive
+Player 8: offensive
+Player 9: gaza
+Player 10: strip
+Player 11: early
+Player 12: tuesday
+Player 13: an \ air
+Player 14: strike
+Player 15: killed
+Player 16: palestinian
+Player 17: militant
+Player 18: wounded
+Player 19: two \ others
+Player 20: jabalya
+Player 21: refugee
+Player 22: camp.
+---------- Rewards ----------
+v(): -6.233118057250977	 ([])
+v(5 9 16 17 20): 7.694187164306641	 ([sixth][gaza][palestinian][militant][jabalya])
+v(1 2 3 4): 7.482419490814209	 ([-][israeli][forces][launched])
+v(0 11 18 19 21 22): 6.594296932220459	 ([reuters][early][wounded][two \ others][refugee][camp.])
+v(6 7 8 10 12 13 14 15): 5.960941314697266	 ([day][a \ massive][offensive][strip][tuesday][an \ air][strike][killed])
+v(1 2 3 4 5 9 16 17 20): 7.941217422485352	 ([-][israeli][forces][launched][sixth][gaza][palestinian][militant][jabalya])
+v(0 5 9 11 16 17 18 19 20 21 22): 7.801570415496826	 ([reuters][sixth][gaza][early][palestinian][militant][wounded][two \ others][jabalya][refugee][camp.])
+v(5 6 7 8 9 10 12 13 14 15 16 17 20): 8.009248733520508	 ([sixth][day][a \ massive][offensive][gaza][strip][tuesday][an \ air][strike][killed][palestinian][militant][jabalya])
+v(0 1 2 3 4 11 18 19 21 22): 7.3996663093566895	 ([reuters][-][israeli][forces][launched][early][wounded][two \ others][refugee][camp.])
+v(1 2 3 4 6 7 8 10 12 13 14 15): 7.84220552444458	 ([-][israeli][forces][launched][day][a \ massive][offensive][strip][tuesday][an \ air][strike][killed])
+v(0 6 7 8 10 11 12 13 14 15 18 19 21 22): 7.771242618560791	 ([reuters][day][a \ massive][offensive][strip][early][tuesday][an \ air][strike][killed][wounded][two \ others][refugee][camp.])
+v(0 1 2 3 4 5 9 11 16 17 18 19 20 21 22): 7.908839225769043	 ([reuters][-][israeli][forces][launched][sixth][gaza][early][palestinian][militant][wounded][two \ others][jabalya][refugee][camp.])
+v(1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 20): 8.061284065246582	 ([-][israeli][forces][launched][sixth][day][a \ massive][offensive][gaza][strip][tuesday][an \ air][strike][killed][palestinian][militant][jabalya])
+v(0 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.0271577835083	 ([reuters][sixth][day][a \ massive][offensive][gaza][strip][early][tuesday][an \ air][strike][killed][palestinian][militant][wounded][two \ others][jabalya][refugee][camp.])
+v(0 1 2 3 4 6 7 8 10 11 12 13 14 15 18 19 21 22): 7.833064556121826	 ([reuters][-][israeli][forces][launched][day][a \ massive][offensive][strip][early][tuesday][an \ air][strike][killed][wounded][two \ others][refugee][camp.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.107757568359375	 ([reuters][-][israeli][forces][launched][sixth][day][a \ massive][offensive][gaza][strip][early][tuesday][an \ air][strike][killed][palestinian][militant][wounded][two \ others][jabalya][refugee][camp.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.340875625610352, EP: 1.0	 ([reuters][-][israeli][forces][launched][sixth][day][a \ massive][offensive][gaza][strip][early][tuesday][an \ air][strike][killed][palestinian][militant][wounded][two \ others][jabalya][refugee][camp.])
+v(1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 20): 14.294402122497559, EP: 0.9967593550682068	 ([-][israeli][forces][launched][sixth][day][a \ massive][offensive][gaza][strip][tuesday][an \ air][strike][killed][palestinian][militant][jabalya])
+v(0 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.260275840759277, EP: 0.9943796992301941	 ([reuters][sixth][day][a \ massive][offensive][gaza][strip][early][tuesday][an \ air][strike][killed][palestinian][militant][wounded][two \ others][jabalya][refugee][camp.])
+v(5 6 7 8 9 10 12 13 14 15 16 17 20): 14.242366790771484, EP: 0.9931309223175049	 ([sixth][day][a \ massive][offensive][gaza][strip][tuesday][an \ air][strike][killed][palestinian][militant][jabalya])
+v(1 2 3 4 5 9 16 17 20): 14.174335479736328, EP: 0.9883870482444763	 ([-][israeli][forces][launched][sixth][gaza][palestinian][militant][jabalya])
+v(0 1 2 3 4 5 9 11 16 17 18 19 20 21 22): 14.14195728302002, EP: 0.9861292839050293	 ([reuters][-][israeli][forces][launched][sixth][gaza][early][palestinian][militant][wounded][two \ others][jabalya][refugee][camp.])
+v(1 2 3 4 6 7 8 10 12 13 14 15): 14.075323104858398, EP: 0.9814828038215637	 ([-][israeli][forces][launched][day][a \ massive][offensive][strip][tuesday][an \ air][strike][killed])
+v(0 1 2 3 4 6 7 8 10 11 12 13 14 15 18 19 21 22): 14.066183090209961, EP: 0.9808455109596252	 ([reuters][-][israeli][forces][launched][day][a \ massive][offensive][strip][early][tuesday][an \ air][strike][killed][wounded][two \ others][refugee][camp.])
+v(0 5 9 11 16 17 18 19 20 21 22): 14.034688949584961, EP: 0.978649377822876	 ([reuters][sixth][gaza][early][palestinian][militant][wounded][two \ others][jabalya][refugee][camp.])
+v(0 6 7 8 10 11 12 13 14 15 18 19 21 22): 14.00436019897461, EP: 0.9765345454216003	 ([reuters][day][a \ massive][offensive][strip][early][tuesday][an \ air][strike][killed][wounded][two \ others][refugee][camp.])
+v(5 9 16 17 20): 13.927305221557617, EP: 0.971161425113678	 ([sixth][gaza][palestinian][militant][jabalya])
+v(1 2 3 4): 13.715538024902344, EP: 0.9563947319984436	 ([-][israeli][forces][launched])
+v(0 1 2 3 4 11 18 19 21 22): 13.632783889770508, EP: 0.9506242275238037	 ([reuters][-][israeli][forces][launched][early][wounded][two \ others][refugee][camp.])
+v(0 11 18 19 21 22): 12.827415466308594, EP: 0.8944652676582336	 ([reuters][early][wounded][two \ others][refugee][camp.])
+v(6 7 8 10 12 13 14 15): 12.194059371948242, EP: 0.8503009080886841	 ([day][a \ massive][offensive][strip][tuesday][an \ air][strike][killed])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

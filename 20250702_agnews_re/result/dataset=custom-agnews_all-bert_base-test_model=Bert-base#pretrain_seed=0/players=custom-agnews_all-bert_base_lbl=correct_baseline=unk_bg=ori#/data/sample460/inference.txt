@@ -1,0 +1,49 @@
+Execution time: 2025-07-02 19:28:42
+prompt: [CLS] providence - - a judge granted verizon wireless a permanent injunction against a rhode island man accused of sending millions of unsolicited text - message advertisements to cellphone customers in four states. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:11293 decoded_text: providence
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:1037 decoded_text: a
+idx:5 input_id:3648 decoded_text: judge
+idx:6 input_id:4379 decoded_text: granted
+idx:7 input_id:2310 decoded_text: ve
+idx:8 input_id:21885 decoded_text: ##riz
+idx:9 input_id:2239 decoded_text: ##on
+idx:10 input_id:9949 decoded_text: wireless
+idx:11 input_id:1037 decoded_text: a
+idx:12 input_id:4568 decoded_text: permanent
+idx:13 input_id:22928 decoded_text: injunction
+idx:14 input_id:2114 decoded_text: against
+idx:15 input_id:1037 decoded_text: a
+idx:16 input_id:9763 decoded_text: rhode
+idx:17 input_id:2479 decoded_text: island
+idx:18 input_id:2158 decoded_text: man
+idx:19 input_id:5496 decoded_text: accused
+idx:20 input_id:1997 decoded_text: of
+idx:21 input_id:6016 decoded_text: sending
+idx:22 input_id:8817 decoded_text: millions
+idx:23 input_id:1997 decoded_text: of
+idx:24 input_id:4895 decoded_text: un
+idx:25 input_id:19454 decoded_text: ##sol
+idx:26 input_id:28775 decoded_text: ##ici
+idx:27 input_id:3064 decoded_text: ##ted
+idx:28 input_id:3793 decoded_text: text
+idx:29 input_id:1011 decoded_text: -
+idx:30 input_id:4471 decoded_text: message
+idx:31 input_id:14389 decoded_text: advertisements
+idx:32 input_id:2000 decoded_text: to
+idx:33 input_id:3526 decoded_text: cell
+idx:34 input_id:9864 decoded_text: ##phone
+idx:35 input_id:6304 decoded_text: customers
+idx:36 input_id:1999 decoded_text: in
+idx:37 input_id:2176 decoded_text: four
+idx:38 input_id:2163 decoded_text: states
+idx:39 input_id:1012 decoded_text: .
+idx:40 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.85412859916687, -4.464910984039307, 5.265047550201416, 1.0023431777954102]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: ohio
+Player 1: state
+Player 2: football
+Player 3: coach
+Player 4: jim
+Player 5: tressel
+Player 6: school
+Player 7: # 39 ; s
+Player 8: athletics
+Player 9: director,
+Player 10: andy
+Player 11: geiger,
+Player 12: defended
+Player 13: besieged
+Player 14: program
+Player 15: tuesday
+Player 16: - eiger
+Player 17: delivering
+Player 18: vigorous
+---------- Rewards ----------
+v(): -2.5578534603118896	 ([])
+v(0 1 2 3 7 8): 9.663006782531738	 ([ohio][state][football][coach][# 39 ; s][athletics])
+v(10 11 14 16): -1.5296986103057861	 ([andy][geiger,][program][- eiger])
+v(6 9 12 13 15 17 18): -6.501052379608154	 ([school][director,][defended][besieged][tuesday][delivering][vigorous])
+v(4 5): 2.8588201999664307	 ([jim][tressel])
+v(0 1 2 3 7 8 10 11 14 16): 9.70209789276123	 ([ohio][state][football][coach][# 39 ; s][athletics][andy][geiger,][program][- eiger])
+v(0 1 2 3 6 7 8 9 12 13 15 17 18): 9.646806716918945	 ([ohio][state][football][coach][school][# 39 ; s][athletics][director,][defended][besieged][tuesday][delivering][vigorous])
+v(0 1 2 3 4 5 7 8): 9.666364669799805	 ([ohio][state][football][coach][jim][tressel][# 39 ; s][athletics])
+v(6 9 10 11 12 13 14 15 16 17 18): 1.2430380582809448	 ([school][director,][andy][geiger,][defended][besieged][program][tuesday][- eiger][delivering][vigorous])
+v(4 5 10 11 14 16): 1.0062156915664673	 ([jim][tressel][andy][geiger,][program][- eiger])
+v(4 5 6 9 12 13 15 17 18): -4.0311737060546875	 ([jim][tressel][school][director,][defended][besieged][tuesday][delivering][vigorous])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.745062828063965	 ([ohio][state][football][coach][school][# 39 ; s][athletics][director,][andy][geiger,][defended][besieged][program][tuesday][- eiger][delivering][vigorous])
+v(0 1 2 3 4 5 7 8 10 11 14 16): 9.726364135742188	 ([ohio][state][football][coach][jim][tressel][# 39 ; s][athletics][andy][geiger,][program][- eiger])
+v(0 1 2 3 4 5 6 7 8 9 12 13 15 17 18): 9.682740211486816	 ([ohio][state][football][coach][jim][tressel][school][# 39 ; s][athletics][director,][defended][besieged][tuesday][delivering][vigorous])
+v(4 5 6 9 10 11 12 13 14 15 16 17 18): 2.240112066268921	 ([jim][tressel][school][director,][andy][geiger,][defended][besieged][program][tuesday][- eiger][delivering][vigorous])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.763323783874512	 ([ohio][state][football][coach][jim][tressel][school][# 39 ; s][athletics][director,][andy][geiger,][defended][besieged][program][tuesday][- eiger][delivering][vigorous])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 12.32117748260498, EP: 1.0	 ([ohio][state][football][coach][jim][tressel][school][# 39 ; s][athletics][director,][andy][geiger,][defended][besieged][program][tuesday][- eiger][delivering][vigorous])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18): 12.302916526794434, EP: 0.9985179305076599	 ([ohio][state][football][coach][school][# 39 ; s][athletics][director,][andy][geiger,][defended][besieged][program][tuesday][- eiger][delivering][vigorous])
+v(0 1 2 3 4 5 7 8 10 11 14 16): 12.284217834472656, EP: 0.9970003366470337	 ([ohio][state][football][coach][jim][tressel][# 39 ; s][athletics][andy][geiger,][program][- eiger])
+v(0 1 2 3 7 8 10 11 14 16): 12.2599515914917, EP: 0.9950308203697205	 ([ohio][state][football][coach][# 39 ; s][athletics][andy][geiger,][program][- eiger])
+v(0 1 2 3 4 5 6 7 8 9 12 13 15 17 18): 12.240593910217285, EP: 0.9934597611427307	 ([ohio][state][football][coach][jim][tressel][school][# 39 ; s][athletics][director,][defended][besieged][tuesday][delivering][vigorous])
+v(0 1 2 3 4 5 7 8): 12.224218368530273, EP: 0.992130696773529	 ([ohio][state][football][coach][jim][tressel][# 39 ; s][athletics])
+v(0 1 2 3 7 8): 12.220860481262207, EP: 0.991858184337616	 ([ohio][state][football][coach][# 39 ; s][athletics])
+v(0 1 2 3 6 7 8 9 12 13 15 17 18): 12.204660415649414, EP: 0.9905433654785156	 ([ohio][state][football][coach][school][# 39 ; s][athletics][director,][defended][besieged][tuesday][delivering][vigorous])
+v(4 5): 5.41667366027832, EP: 0.43962305784225464	 ([jim][tressel])
+v(4 5 6 9 10 11 12 13 14 15 16 17 18): 4.7979655265808105, EP: 0.38940802216529846	 ([jim][tressel][school][director,][andy][geiger,][defended][besieged][program][tuesday][- eiger][delivering][vigorous])
+v(6 9 12 13 15 17 18): -3.9431989192962646, EP: -0.3200342655181885	 ([school][director,][defended][besieged][tuesday][delivering][vigorous])
+v(6 9 10 11 12 13 14 15 16 17 18): 3.800891399383545, EP: 0.30848443508148193	 ([school][director,][andy][geiger,][defended][besieged][program][tuesday][- eiger][delivering][vigorous])
+v(4 5 10 11 14 16): 3.5640692710876465, EP: 0.28926369547843933	 ([jim][tressel][andy][geiger,][program][- eiger])
+v(4 5 6 9 12 13 15 17 18): -1.4733202457427979, EP: -0.11957625299692154	 ([jim][tressel][school][director,][defended][besieged][tuesday][delivering][vigorous])
+v(10 11 14 16): 1.0281548500061035, EP: 0.08344615250825882	 ([andy][geiger,][program][- eiger])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

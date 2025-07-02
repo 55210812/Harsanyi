@@ -1,0 +1,24 @@
+---------- Players ----------
+Player 0: goal
+Player 1: " guess
+Player 2: criminals
+Player 3: going
+Player 4: attack, "
+Player 5: exec
+Player 6: says.
+Player 7: redmond
+Player 8: focus
+Player 9: first
+Player 10: critical
+Player 11: flaws.
+---------- Rewards ----------
+v(): 5.591484069824219	 ([])
+v(7 8 9 10 11): 5.644697666168213	 ([redmond][focus][first][critical][flaws.])
+v(0 1 2 3 4 5 6): 8.146595001220703	 ([goal][" guess][criminals][going][attack, "][exec][says.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 8.137857437133789	 ([goal][" guess][criminals][going][attack, "][exec][says.][redmond][focus][first][critical][flaws.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6): 2.5551109313964844, EP: 1.0034313201904297	 ([goal][" guess][criminals][going][attack, "][exec][says.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 2.5463733673095703, EP: 1.0	 ([goal][" guess][criminals][going][attack, "][exec][says.][redmond][focus][first][critical][flaws.])
+v(7 8 9 10 11): 0.05321359634399414, EP: 0.020897798240184784	 ([redmond][focus][first][critical][flaws.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

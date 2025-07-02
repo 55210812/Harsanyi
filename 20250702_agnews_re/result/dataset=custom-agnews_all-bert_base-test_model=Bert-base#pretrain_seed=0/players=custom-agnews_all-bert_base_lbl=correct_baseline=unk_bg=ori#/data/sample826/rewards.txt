@@ -1,0 +1,30 @@
+---------- Players ----------
+Player 0: would
+Player 1: take
+Player 2: get
+Player 3: brand
+Player 4: new
+Player 5: protof
+Player 6: 2000
+Player 7: mass
+Player 8: spectrometer
+Player 9: today?
+---------- Rewards ----------
+v(): -5.712081432342529	 ([])
+v(0 3 4): -7.804415702819824	 ([would][brand][new])
+v(6 7): -3.572988271713257	 ([2000][mass])
+v(1 2 5 8 9): -3.618710517883301	 ([take][get][protof][spectrometer][today?])
+v(0 3 4 6 7): -4.73248291015625	 ([would][brand][new][2000][mass])
+v(0 1 2 3 4 5 8 9): -0.41361498832702637	 ([would][take][get][brand][new][protof][spectrometer][today?])
+v(1 2 5 6 7 8 9): -4.401483058929443	 ([take][get][protof][2000][mass][spectrometer][today?])
+v(0 1 2 3 4 5 6 7 8 9): 0.7730906009674072	 ([would][take][get][brand][new][protof][2000][mass][spectrometer][today?])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9): 6.485172271728516, EP: 1.0	 ([would][take][get][brand][new][protof][2000][mass][spectrometer][today?])
+v(0 1 2 3 4 5 8 9): 5.298466682434082, EP: 0.8170124888420105	 ([would][take][get][brand][new][protof][spectrometer][today?])
+v(6 7): 2.1390931606292725, EP: 0.3298436999320984	 ([2000][mass])
+v(1 2 5 8 9): 2.0933709144592285, EP: 0.3227934241294861	 ([take][get][protof][spectrometer][today?])
+v(0 3 4): -2.092334270477295, EP: -0.3226335644721985	 ([would][brand][new])
+v(1 2 5 6 7 8 9): 1.310598373413086, EP: 0.2020915299654007	 ([take][get][protof][2000][mass][spectrometer][today?])
+v(0 3 4 6 7): 0.9795985221862793, EP: 0.15105204284191132	 ([would][brand][new][2000][mass])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

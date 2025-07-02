@@ -1,0 +1,49 @@
+Execution time: 2025-07-02 19:27:57
+prompt: [CLS] the company produces retrospect software, also included in maxtor # 39 ; s one touch external back up disc, and has a vital hold on the small and medium - sized enterprise market. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2194 decoded_text: company
+idx:3 input_id:7137 decoded_text: produces
+idx:4 input_id:22307 decoded_text: retro
+idx:5 input_id:13102 decoded_text: ##sp
+idx:6 input_id:22471 decoded_text: ##ect
+idx:7 input_id:4007 decoded_text: software
+idx:8 input_id:1010 decoded_text: ,
+idx:9 input_id:2036 decoded_text: also
+idx:10 input_id:2443 decoded_text: included
+idx:11 input_id:1999 decoded_text: in
+idx:12 input_id:4098 decoded_text: max
+idx:13 input_id:4263 decoded_text: ##tor
+idx:14 input_id:1001 decoded_text: #
+idx:15 input_id:4464 decoded_text: 39
+idx:16 input_id:1025 decoded_text: ;
+idx:17 input_id:1055 decoded_text: s
+idx:18 input_id:2028 decoded_text: one
+idx:19 input_id:3543 decoded_text: touch
+idx:20 input_id:6327 decoded_text: external
+idx:21 input_id:2067 decoded_text: back
+idx:22 input_id:2039 decoded_text: up
+idx:23 input_id:5860 decoded_text: disc
+idx:24 input_id:1010 decoded_text: ,
+idx:25 input_id:1998 decoded_text: and
+idx:26 input_id:2038 decoded_text: has
+idx:27 input_id:1037 decoded_text: a
+idx:28 input_id:8995 decoded_text: vital
+idx:29 input_id:2907 decoded_text: hold
+idx:30 input_id:2006 decoded_text: on
+idx:31 input_id:1996 decoded_text: the
+idx:32 input_id:2235 decoded_text: small
+idx:33 input_id:1998 decoded_text: and
+idx:34 input_id:5396 decoded_text: medium
+idx:35 input_id:1011 decoded_text: -
+idx:36 input_id:7451 decoded_text: sized
+idx:37 input_id:6960 decoded_text: enterprise
+idx:38 input_id:3006 decoded_text: market
+idx:39 input_id:1012 decoded_text: .
+idx:40 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.6595637798309326, -1.685473918914795, -1.4078696966171265, 7.014110088348389]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

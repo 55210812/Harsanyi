@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: billionaire
+Player 1: businessman
+Player 2: said
+Player 3: # 39 ; livid
+Player 4: # 39 ;
+Player 5: comments
+Player 6: made
+Player 7: sir
+Player 8: jackie
+Player 9: battle
+Player 10: save
+Player 11: british
+Player 12: grand
+Player 13: prix.
+---------- Rewards ----------
+v(): -4.566014766693115	 ([])
+v(0 1 2 5 6 7 8 12): -8.138368606567383	 ([billionaire][businessman][said][comments][made][sir][jackie][grand])
+v(3 4 9 10 11 13): 7.202384948730469	 ([# 39 ; livid][# 39 ;][battle][save][british][prix.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 7.838578224182129	 ([billionaire][businessman][said][# 39 ; livid][# 39 ;][comments][made][sir][jackie][battle][save][british][grand][prix.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 12.404592514038086, EP: 1.0	 ([billionaire][businessman][said][# 39 ; livid][# 39 ;][comments][made][sir][jackie][battle][save][british][grand][prix.])
+v(3 4 9 10 11 13): 11.768400192260742, EP: 0.9487131834030151	 ([# 39 ; livid][# 39 ;][battle][save][british][prix.])
+v(0 1 2 5 6 7 8 12): -3.5723538398742676, EP: -0.2879863977432251	 ([billionaire][businessman][said][comments][made][sir][jackie][grand])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

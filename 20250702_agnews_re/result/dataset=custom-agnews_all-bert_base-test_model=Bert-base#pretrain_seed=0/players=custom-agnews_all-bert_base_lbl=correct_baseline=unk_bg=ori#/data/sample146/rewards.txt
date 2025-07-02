@@ -1,0 +1,62 @@
+---------- Players ----------
+Player 0: group
+Player 1: suspected
+Player 2: militants
+Player 3: armed
+Player 4: m - 16
+Player 5: assault
+Player 6: rifles
+Player 7: attacked
+Player 8: army
+Player 9: unit
+Player 10: protecting
+Player 11: buddhist
+Player 12: monks
+Player 13: temple
+Player 14: thailand
+Player 15: # 39 ; s
+Player 16: southernmost
+Player 17: province
+Player 18: narathiwat
+Player 19: early
+Player 20: friday,
+Player 21: killing
+Player 22: one
+Player 23: soldier,
+Player 24: police
+Player 25: said.
+---------- Rewards ----------
+v(): -6.778839111328125	 ([])
+v(2 3 6 8 12 13): 7.423084735870361	 ([militants][armed][rifles][army][monks][temple])
+v(4 9 10 11 15): 3.199805736541748	 ([m - 16][unit][protecting][buddhist][# 39 ; s])
+v(0 1 5 7 14 17 18 21 24 25): 7.006117820739746	 ([group][suspected][assault][attacked][thailand][province][narathiwat][killing][police][said.])
+v(16 19 20 22 23): 1.4649471044540405	 ([southernmost][early][friday,][one][soldier,])
+v(2 3 4 6 8 9 10 11 12 13 15): 7.732821941375732	 ([militants][armed][m - 16][rifles][army][unit][protecting][buddhist][monks][temple][# 39 ; s])
+v(0 1 2 3 5 6 7 8 12 13 14 17 18 21 24 25): 7.581656455993652	 ([group][suspected][militants][armed][assault][rifles][attacked][army][monks][temple][thailand][province][narathiwat][killing][police][said.])
+v(2 3 6 8 12 13 16 19 20 22 23): 7.679282188415527	 ([militants][armed][rifles][army][monks][temple][southernmost][early][friday,][one][soldier,])
+v(0 1 4 5 7 9 10 11 14 15 17 18 21 24 25): 7.19193696975708	 ([group][suspected][m - 16][assault][attacked][unit][protecting][buddhist][thailand][# 39 ; s][province][narathiwat][killing][police][said.])
+v(4 9 10 11 15 16 19 20 22 23): 7.114853382110596	 ([m - 16][unit][protecting][buddhist][# 39 ; s][southernmost][early][friday,][one][soldier,])
+v(0 1 5 7 14 16 17 18 19 20 21 22 23 24 25): 7.355050563812256	 ([group][suspected][assault][attacked][thailand][southernmost][province][narathiwat][early][friday,][killing][one][soldier,][police][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 21 24 25): 7.488202095031738	 ([group][suspected][militants][armed][m - 16][assault][rifles][attacked][army][unit][protecting][buddhist][monks][temple][thailand][# 39 ; s][province][narathiwat][killing][police][said.])
+v(2 3 4 6 8 9 10 11 12 13 15 16 19 20 22 23): 7.785416126251221	 ([militants][armed][m - 16][rifles][army][unit][protecting][buddhist][monks][temple][# 39 ; s][southernmost][early][friday,][one][soldier,])
+v(0 1 2 3 5 6 7 8 12 13 14 16 17 18 19 20 21 22 23 24 25): 7.70175838470459	 ([group][suspected][militants][armed][assault][rifles][attacked][army][monks][temple][thailand][southernmost][province][narathiwat][early][friday,][killing][one][soldier,][police][said.])
+v(0 1 4 5 7 9 10 11 14 15 16 17 18 19 20 21 22 23 24 25): 7.345538139343262	 ([group][suspected][m - 16][assault][attacked][unit][protecting][buddhist][thailand][# 39 ; s][southernmost][province][narathiwat][early][friday,][killing][one][soldier,][police][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 7.535782814025879	 ([group][suspected][militants][armed][m - 16][assault][rifles][attacked][army][unit][protecting][buddhist][monks][temple][thailand][# 39 ; s][southernmost][province][narathiwat][early][friday,][killing][one][soldier,][police][said.])
+---------- Rewards-v() ----------
+v(2 3 4 6 8 9 10 11 12 13 15 16 19 20 22 23): 14.564254760742188, EP: 1.0174390077590942	 ([militants][armed][m - 16][rifles][army][unit][protecting][buddhist][monks][temple][# 39 ; s][southernmost][early][friday,][one][soldier,])
+v(2 3 4 6 8 9 10 11 12 13 15): 14.511661529541016, EP: 1.0137649774551392	 ([militants][armed][m - 16][rifles][army][unit][protecting][buddhist][monks][temple][# 39 ; s])
+v(0 1 2 3 5 6 7 8 12 13 14 16 17 18 19 20 21 22 23 24 25): 14.480597496032715, EP: 1.0115947723388672	 ([group][suspected][militants][armed][assault][rifles][attacked][army][monks][temple][thailand][southernmost][province][narathiwat][early][friday,][killing][one][soldier,][police][said.])
+v(2 3 6 8 12 13 16 19 20 22 23): 14.458121299743652, EP: 1.0100246667861938	 ([militants][armed][rifles][army][monks][temple][southernmost][early][friday,][one][soldier,])
+v(0 1 2 3 5 6 7 8 12 13 14 17 18 21 24 25): 14.360495567321777, EP: 1.0032047033309937	 ([group][suspected][militants][armed][assault][rifles][attacked][army][monks][temple][thailand][province][narathiwat][killing][police][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 14.314621925354004, EP: 1.0	 ([group][suspected][militants][armed][m - 16][assault][rifles][attacked][army][unit][protecting][buddhist][monks][temple][thailand][# 39 ; s][southernmost][province][narathiwat][early][friday,][killing][one][soldier,][police][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 21 24 25): 14.267041206359863, EP: 0.9966760873794556	 ([group][suspected][militants][armed][m - 16][assault][rifles][attacked][army][unit][protecting][buddhist][monks][temple][thailand][# 39 ; s][province][narathiwat][killing][police][said.])
+v(2 3 6 8 12 13): 14.201923370361328, EP: 0.9921270608901978	 ([militants][armed][rifles][army][monks][temple])
+v(0 1 5 7 14 16 17 18 19 20 21 22 23 24 25): 14.133890151977539, EP: 0.9873743057250977	 ([group][suspected][assault][attacked][thailand][southernmost][province][narathiwat][early][friday,][killing][one][soldier,][police][said.])
+v(0 1 4 5 7 9 10 11 14 15 16 17 18 19 20 21 22 23 24 25): 14.124377250671387, EP: 0.9867097735404968	 ([group][suspected][m - 16][assault][attacked][unit][protecting][buddhist][thailand][# 39 ; s][southernmost][province][narathiwat][early][friday,][killing][one][soldier,][police][said.])
+v(0 1 4 5 7 9 10 11 14 15 17 18 21 24 25): 13.970775604248047, EP: 0.9759793877601624	 ([group][suspected][m - 16][assault][attacked][unit][protecting][buddhist][thailand][# 39 ; s][province][narathiwat][killing][police][said.])
+v(4 9 10 11 15 16 19 20 22 23): 13.893692016601562, EP: 0.9705944061279297	 ([m - 16][unit][protecting][buddhist][# 39 ; s][southernmost][early][friday,][one][soldier,])
+v(0 1 5 7 14 17 18 21 24 25): 13.784956932067871, EP: 0.9629983305931091	 ([group][suspected][assault][attacked][thailand][province][narathiwat][killing][police][said.])
+v(4 9 10 11 15): 9.978645324707031, EP: 0.6970945596694946	 ([m - 16][unit][protecting][buddhist][# 39 ; s])
+v(16 19 20 22 23): 8.243785858154297, EP: 0.5758996605873108	 ([southernmost][early][friday,][one][soldier,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

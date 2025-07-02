@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: chancellor
+Player 1: gerhard
+Player 2: schroeder
+Player 3: said
+Player 4: thursday
+Player 5: germany
+Player 6: # 39 ; s
+Player 7: national
+Player 8: railway
+Player 9: privatized
+Player 10: 2008
+Player 11: latest,
+Player 12: day
+Player 13: deutsche
+Player 14: bahn
+Player 15: backed
+Player 16: target
+Player 17: selling
+Player 18: shares
+Player 19: stock
+Player 20: market
+Player 21: mid - 2006.
+---------- Rewards ----------
+v(): -7.6156816482543945	 ([])
+v(5 6 9 11 13 17 19): -3.777851104736328	 ([germany][# 39 ; s][privatized][latest,][deutsche][selling][stock])
+v(10 12 16 18 21): -7.061484336853027	 ([2008][day][target][shares][mid - 2006.])
+v(0 1 2 3 4 7 8 14 15 20): 5.105426788330078	 ([chancellor][gerhard][schroeder][said][thursday][national][railway][bahn][backed][market])
+v(5 6 9 10 11 12 13 16 17 18 19 21): -4.253341197967529	 ([germany][# 39 ; s][privatized][2008][latest,][day][deutsche][target][selling][shares][stock][mid - 2006.])
+v(0 1 2 3 4 5 6 7 8 9 11 13 14 15 17 19 20): 5.56678581237793	 ([chancellor][gerhard][schroeder][said][thursday][germany][# 39 ; s][national][railway][privatized][latest,][deutsche][bahn][backed][selling][stock][market])
+v(0 1 2 3 4 7 8 10 12 14 15 16 18 20 21): 5.439788341522217	 ([chancellor][gerhard][schroeder][said][thursday][national][railway][2008][day][bahn][backed][target][shares][market][mid - 2006.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 6.579227924346924	 ([chancellor][gerhard][schroeder][said][thursday][germany][# 39 ; s][national][railway][privatized][2008][latest,][day][deutsche][bahn][backed][target][selling][shares][stock][market][mid - 2006.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 14.194910049438477, EP: 1.0	 ([chancellor][gerhard][schroeder][said][thursday][germany][# 39 ; s][national][railway][privatized][2008][latest,][day][deutsche][bahn][backed][target][selling][shares][stock][market][mid - 2006.])
+v(0 1 2 3 4 5 6 7 8 9 11 13 14 15 17 19 20): 13.182467460632324, EP: 0.928675651550293	 ([chancellor][gerhard][schroeder][said][thursday][germany][# 39 ; s][national][railway][privatized][latest,][deutsche][bahn][backed][selling][stock][market])
+v(0 1 2 3 4 7 8 10 12 14 15 16 18 20 21): 13.055469512939453, EP: 0.9197289347648621	 ([chancellor][gerhard][schroeder][said][thursday][national][railway][2008][day][bahn][backed][target][shares][market][mid - 2006.])
+v(0 1 2 3 4 7 8 14 15 20): 12.721108436584473, EP: 0.8961739540100098	 ([chancellor][gerhard][schroeder][said][thursday][national][railway][bahn][backed][market])
+v(5 6 9 11 13 17 19): 3.8378305435180664, EP: 0.2703666687011719	 ([germany][# 39 ; s][privatized][latest,][deutsche][selling][stock])
+v(5 6 9 10 11 12 13 16 17 18 19 21): 3.3623404502868652, EP: 0.2368694394826889	 ([germany][# 39 ; s][privatized][2008][latest,][day][deutsche][target][selling][shares][stock][mid - 2006.])
+v(10 12 16 18 21): 0.5541973114013672, EP: 0.039041973650455475	 ([2008][day][target][shares][mid - 2006.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

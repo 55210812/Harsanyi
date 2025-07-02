@@ -1,0 +1,54 @@
+---------- Players ----------
+Player 0: troubled
+Player 1: nuclear
+Player 2: power
+Player 3: group
+Player 4: british
+Player 5: energy
+Player 6: today
+Player 7: said
+Player 8: removing
+Player 9: stock
+Player 10: market
+Player 11: bid
+Player 12: stop
+Player 13: rebel
+Player 14: shareholders
+Player 15: scuppering
+Player 16: rescue
+Player 17: package.
+---------- Rewards ----------
+v(): -3.387789487838745	 ([])
+v(4 5 10): 6.637930393218994	 ([british][energy][market])
+v(9 11 13 15 16): -0.12942910194396973	 ([stock][bid][rebel][scuppering][rescue])
+v(1 7 12 14 17): 3.2341232299804688	 ([nuclear][said][stop][shareholders][package.])
+v(0 2 3 6 8): -3.9769322872161865	 ([troubled][power][group][today][removing])
+v(4 5 9 10 11 13 15 16): 4.5654377937316895	 ([british][energy][stock][market][bid][rebel][scuppering][rescue])
+v(1 4 5 7 10 12 14 17): 5.515627384185791	 ([nuclear][british][energy][said][market][stop][shareholders][package.])
+v(0 2 3 4 5 6 8 10): 6.993649482727051	 ([troubled][power][group][british][energy][today][removing][market])
+v(1 7 9 11 12 13 14 15 16 17): -3.716773509979248	 ([nuclear][said][stock][bid][stop][rebel][shareholders][scuppering][rescue][package.])
+v(0 2 3 6 8 9 11 13 15 16): -2.679438591003418	 ([troubled][power][group][today][removing][stock][bid][rebel][scuppering][rescue])
+v(0 1 2 3 6 7 8 12 14 17): 3.466707706451416	 ([troubled][nuclear][power][group][today][said][removing][stop][shareholders][package.])
+v(1 4 5 7 9 10 11 12 13 14 15 16 17): -0.8352773189544678	 ([nuclear][british][energy][said][stock][market][bid][stop][rebel][shareholders][scuppering][rescue][package.])
+v(0 2 3 4 5 6 8 9 10 11 13 15 16): 6.5249409675598145	 ([troubled][power][group][british][energy][today][removing][stock][market][bid][rebel][scuppering][rescue])
+v(0 1 2 3 4 5 6 7 8 10 12 14 17): 6.991828441619873	 ([troubled][nuclear][power][group][british][energy][today][said][removing][market][stop][shareholders][package.])
+v(0 1 2 3 6 7 8 9 11 12 13 14 15 16 17): 0.560246467590332	 ([troubled][nuclear][power][group][today][said][removing][stock][bid][stop][rebel][shareholders][scuppering][rescue][package.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 6.4645304679870605	 ([troubled][nuclear][power][group][british][energy][today][said][removing][stock][market][bid][stop][rebel][shareholders][scuppering][rescue][package.])
+---------- Rewards-v() ----------
+v(0 2 3 4 5 6 8 10): 10.381439208984375, EP: 1.053705096244812	 ([troubled][power][group][british][energy][today][removing][market])
+v(0 1 2 3 4 5 6 7 8 10 12 14 17): 10.379617691040039, EP: 1.0535202026367188	 ([troubled][nuclear][power][group][british][energy][today][said][removing][market][stop][shareholders][package.])
+v(4 5 10): 10.02571964263916, EP: 1.0175999402999878	 ([british][energy][market])
+v(0 2 3 4 5 6 8 9 10 11 13 15 16): 9.91273021697998, EP: 1.006131649017334	 ([troubled][power][group][british][energy][today][removing][stock][market][bid][rebel][scuppering][rescue])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.852319717407227, EP: 1.0	 ([troubled][nuclear][power][group][british][energy][today][said][removing][stock][market][bid][stop][rebel][shareholders][scuppering][rescue][package.])
+v(1 4 5 7 10 12 14 17): 8.903416633605957, EP: 0.9036873579025269	 ([nuclear][british][energy][said][market][stop][shareholders][package.])
+v(4 5 9 10 11 13 15 16): 7.9532270431518555, EP: 0.8072441220283508	 ([british][energy][stock][market][bid][rebel][scuppering][rescue])
+v(0 1 2 3 6 7 8 12 14 17): 6.854496955871582, EP: 0.6957241892814636	 ([troubled][nuclear][power][group][today][said][removing][stop][shareholders][package.])
+v(1 7 12 14 17): 6.621912956237793, EP: 0.6721171140670776	 ([nuclear][said][stop][shareholders][package.])
+v(0 1 2 3 6 7 8 9 11 12 13 14 15 16 17): 3.948035955429077, EP: 0.4007214605808258	 ([troubled][nuclear][power][group][today][said][removing][stock][bid][stop][rebel][shareholders][scuppering][rescue][package.])
+v(9 11 13 15 16): 3.2583603858947754, EP: 0.33072012662887573	 ([stock][bid][rebel][scuppering][rescue])
+v(1 4 5 7 9 10 11 12 13 14 15 16 17): 2.5525121688842773, EP: 0.2590772807598114	 ([nuclear][british][energy][said][stock][market][bid][stop][rebel][shareholders][scuppering][rescue][package.])
+v(0 2 3 6 8 9 11 13 15 16): 0.7083508968353271, EP: 0.07189686596393585	 ([troubled][power][group][today][removing][stock][bid][rebel][scuppering][rescue])
+v(0 2 3 6 8): -0.5891427993774414, EP: -0.059797368943691254	 ([troubled][power][group][today][removing])
+v(1 7 9 11 12 13 14 15 16 17): -0.32898402214050293, EP: -0.03339152783155441	 ([nuclear][said][stock][bid][stop][rebel][shareholders][scuppering][rescue][package.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,66 @@
+---------- Players ----------
+Player 0: microsoft
+Player 1: trims
+Player 2: fat
+Player 3: longhorn
+Player 4: \ \ on
+Player 5: friday
+Player 6: microsoft
+Player 7: announced
+Player 8: would
+Player 9: shipping
+Player 10: winfs
+Player 11: next - generation
+Player 12: operating
+Player 13: system
+Player 14: longhorn.
+Player 15: announcement
+Player 16: viewed
+Player 17: either
+Player 18: good
+Player 19: bad
+Player 20: news.
+Player 21: good
+Player 22: sense
+Player 23: longhorn,
+Player 24: first
+Player 25: time
+Player 26: official
+Player 27: release
+Player 28: date
+Player 29: ...
+---------- Rewards ----------
+v(): 5.494083404541016	 ([])
+v(3 4 5 10 14 17 18 19 23 27): 7.51044225692749	 ([longhorn][\ \ on][friday][winfs][longhorn.][either][good][bad][longhorn,][release])
+v(1 2 8 9 15): 7.548910140991211	 ([trims][fat][would][shipping][announcement])
+v(0 6 7 11 12 13 16 29): 2.2632951736450195	 ([microsoft][microsoft][announced][next - generation][operating][system][viewed][...])
+v(20 21 22 24 25 26 28): 5.601673603057861	 ([news.][good][sense][first][time][official][date])
+v(1 2 3 4 5 8 9 10 14 15 17 18 19 23 27): 7.909430503845215	 ([trims][fat][longhorn][\ \ on][friday][would][shipping][winfs][longhorn.][announcement][either][good][bad][longhorn,][release])
+v(0 3 4 5 6 7 10 11 12 13 14 16 17 18 19 23 27 29): 8.27184009552002	 ([microsoft][longhorn][\ \ on][friday][microsoft][announced][winfs][next - generation][operating][system][longhorn.][viewed][either][good][bad][longhorn,][release][...])
+v(3 4 5 10 14 17 18 19 20 21 22 23 24 25 26 27 28): 7.245751857757568	 ([longhorn][\ \ on][friday][winfs][longhorn.][either][good][bad][news.][good][sense][longhorn,][first][time][official][release][date])
+v(0 1 2 6 7 8 9 11 12 13 15 16 29): 8.451150894165039	 ([microsoft][trims][fat][microsoft][announced][would][shipping][next - generation][operating][system][announcement][viewed][...])
+v(1 2 8 9 15 20 21 22 24 25 26 28): 7.963422775268555	 ([trims][fat][would][shipping][announcement][news.][good][sense][first][time][official][date])
+v(0 6 7 11 12 13 16 20 21 22 24 25 26 28 29): 3.0336008071899414	 ([microsoft][microsoft][announced][next - generation][operating][system][viewed][news.][good][sense][first][time][official][date][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 23 27 29): 8.2346773147583	 ([microsoft][trims][fat][longhorn][\ \ on][friday][microsoft][announced][would][shipping][winfs][next - generation][operating][system][longhorn.][announcement][viewed][either][good][bad][longhorn,][release][...])
+v(1 2 3 4 5 8 9 10 14 15 17 18 19 20 21 22 23 24 25 26 27 28): 7.971401214599609	 ([trims][fat][longhorn][\ \ on][friday][would][shipping][winfs][longhorn.][announcement][either][good][bad][news.][good][sense][longhorn,][first][time][official][release][date])
+v(0 3 4 5 6 7 10 11 12 13 14 16 17 18 19 20 21 22 23 24 25 26 27 28 29): 8.211779594421387	 ([microsoft][longhorn][\ \ on][friday][microsoft][announced][winfs][next - generation][operating][system][longhorn.][viewed][either][good][bad][news.][good][sense][longhorn,][first][time][official][release][date][...])
+v(0 1 2 6 7 8 9 11 12 13 15 16 20 21 22 24 25 26 28 29): 8.387701034545898	 ([microsoft][trims][fat][microsoft][announced][would][shipping][next - generation][operating][system][announcement][viewed][news.][good][sense][first][time][official][date][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29): 8.119219779968262	 ([microsoft][trims][fat][longhorn][\ \ on][friday][microsoft][announced][would][shipping][winfs][next - generation][operating][system][longhorn.][announcement][viewed][either][good][bad][news.][good][sense][longhorn,][first][time][official][release][date][...])
+---------- Rewards-v() ----------
+v(0 6 7 11 12 13 16 29): -3.230788230895996, EP: -1.2307125329971313	 ([microsoft][microsoft][announced][next - generation][operating][system][viewed][...])
+v(0 1 2 6 7 8 9 11 12 13 15 16 29): 2.9570674896240234, EP: 1.1264433860778809	 ([microsoft][trims][fat][microsoft][announced][would][shipping][next - generation][operating][system][announcement][viewed][...])
+v(0 1 2 6 7 8 9 11 12 13 15 16 20 21 22 24 25 26 28 29): 2.893617630004883, EP: 1.1022732257843018	 ([microsoft][trims][fat][microsoft][announced][would][shipping][next - generation][operating][system][announcement][viewed][news.][good][sense][first][time][official][date][...])
+v(0 3 4 5 6 7 10 11 12 13 14 16 17 18 19 23 27 29): 2.777756690979004, EP: 1.0581380128860474	 ([microsoft][longhorn][\ \ on][friday][microsoft][announced][winfs][next - generation][operating][system][longhorn.][viewed][either][good][bad][longhorn,][release][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 23 27 29): 2.740593910217285, EP: 1.0439815521240234	 ([microsoft][trims][fat][longhorn][\ \ on][friday][microsoft][announced][would][shipping][winfs][next - generation][operating][system][longhorn.][announcement][viewed][either][good][bad][longhorn,][release][...])
+v(0 3 4 5 6 7 10 11 12 13 14 16 17 18 19 20 21 22 23 24 25 26 27 28 29): 2.717696189880371, EP: 1.0352590084075928	 ([microsoft][longhorn][\ \ on][friday][microsoft][announced][winfs][next - generation][operating][system][longhorn.][viewed][either][good][bad][news.][good][sense][longhorn,][first][time][official][release][date][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29): 2.625136375427246, EP: 1.0	 ([microsoft][trims][fat][longhorn][\ \ on][friday][microsoft][announced][would][shipping][winfs][next - generation][operating][system][longhorn.][announcement][viewed][either][good][bad][news.][good][sense][longhorn,][first][time][official][release][date][...])
+v(1 2 3 4 5 8 9 10 14 15 17 18 19 20 21 22 23 24 25 26 27 28): 2.4773178100585938, EP: 0.943691074848175	 ([trims][fat][longhorn][\ \ on][friday][would][shipping][winfs][longhorn.][announcement][either][good][bad][news.][good][sense][longhorn,][first][time][official][release][date])
+v(1 2 8 9 15 20 21 22 24 25 26 28): 2.469339370727539, EP: 0.9406518340110779	 ([trims][fat][would][shipping][announcement][news.][good][sense][first][time][official][date])
+v(0 6 7 11 12 13 16 20 21 22 24 25 26 28 29): -2.460482597351074, EP: -0.9372780323028564	 ([microsoft][microsoft][announced][next - generation][operating][system][viewed][news.][good][sense][first][time][official][date][...])
+v(1 2 3 4 5 8 9 10 14 15 17 18 19 23 27): 2.415347099304199, EP: 0.9200844168663025	 ([trims][fat][longhorn][\ \ on][friday][would][shipping][winfs][longhorn.][announcement][either][good][bad][longhorn,][release])
+v(1 2 8 9 15): 2.0548267364501953, EP: 0.7827504873275757	 ([trims][fat][would][shipping][announcement])
+v(3 4 5 10 14 17 18 19 23 27): 2.0163588523864746, EP: 0.7680968046188354	 ([longhorn][\ \ on][friday][winfs][longhorn.][either][good][bad][longhorn,][release])
+v(3 4 5 10 14 17 18 19 20 21 22 23 24 25 26 27 28): 1.7516684532165527, EP: 0.6672676205635071	 ([longhorn][\ \ on][friday][winfs][longhorn.][either][good][bad][news.][good][sense][longhorn,][first][time][official][release][date])
+v(20 21 22 24 25 26 28): 0.1075901985168457, EP: 0.040984611958265305	 ([news.][good][sense][first][time][official][date])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

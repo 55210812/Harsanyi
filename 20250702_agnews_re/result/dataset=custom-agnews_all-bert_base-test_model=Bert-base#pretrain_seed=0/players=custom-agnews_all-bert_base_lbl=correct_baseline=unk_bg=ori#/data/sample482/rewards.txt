@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: ( cbs )
+Player 1: pharmaceutical
+Player 2: giant
+Player 3: merck
+Player 4: pulled
+Player 5: blockbuster
+Player 6: pain
+Player 7: medication
+Player 8: vioxx
+Player 9: market
+Player 10: late
+Player 11: september,
+Player 12: became
+Player 13: largest
+Player 14: prescription
+Player 15: drug
+Player 16: recall
+Player 17: history.
+---------- Rewards ----------
+v(): -5.432053565979004	 ([])
+v(0 3 8 9 11): 5.04683780670166	 ([( cbs )][merck][vioxx][market][september,])
+v(1 2 4 5 10 12 13 15 16): 4.681734561920166	 ([pharmaceutical][giant][pulled][blockbuster][late][became][largest][drug][recall])
+v(6 7 14 17): -7.612135410308838	 ([pain][medication][prescription][history.])
+v(0 1 2 3 4 5 8 9 10 11 12 13 15 16): 5.513657569885254	 ([( cbs )][pharmaceutical][giant][merck][pulled][blockbuster][vioxx][market][late][september,][became][largest][drug][recall])
+v(0 3 6 7 8 9 11 14 17): 5.9787139892578125	 ([( cbs )][merck][pain][medication][vioxx][market][september,][prescription][history.])
+v(1 2 4 5 6 7 10 12 13 14 15 16 17): 6.524240970611572	 ([pharmaceutical][giant][pulled][blockbuster][pain][medication][late][became][largest][prescription][drug][recall][history.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 6.136794567108154	 ([( cbs )][pharmaceutical][giant][merck][pulled][blockbuster][pain][medication][vioxx][market][late][september,][became][largest][prescription][drug][recall][history.])
+---------- Rewards-v() ----------
+v(1 2 4 5 6 7 10 12 13 14 15 16 17): 11.956295013427734, EP: 1.033490538597107	 ([pharmaceutical][giant][pulled][blockbuster][pain][medication][late][became][largest][prescription][drug][recall][history.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 11.56884765625, EP: 1.0	 ([( cbs )][pharmaceutical][giant][merck][pulled][blockbuster][pain][medication][vioxx][market][late][september,][became][largest][prescription][drug][recall][history.])
+v(0 3 6 7 8 9 11 14 17): 11.410767555236816, EP: 0.9863356947898865	 ([( cbs )][merck][pain][medication][vioxx][market][september,][prescription][history.])
+v(0 1 2 3 4 5 8 9 10 11 12 13 15 16): 10.945711135864258, EP: 0.9461366534233093	 ([( cbs )][pharmaceutical][giant][merck][pulled][blockbuster][vioxx][market][late][september,][became][largest][drug][recall])
+v(0 3 8 9 11): 10.478891372680664, EP: 0.9057852625846863	 ([( cbs )][merck][vioxx][market][september,])
+v(1 2 4 5 10 12 13 15 16): 10.113788604736328, EP: 0.8742260932922363	 ([pharmaceutical][giant][pulled][blockbuster][late][became][largest][drug][recall])
+v(6 7 14 17): -2.180081844329834, EP: -0.18844416737556458	 ([pain][medication][prescription][history.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

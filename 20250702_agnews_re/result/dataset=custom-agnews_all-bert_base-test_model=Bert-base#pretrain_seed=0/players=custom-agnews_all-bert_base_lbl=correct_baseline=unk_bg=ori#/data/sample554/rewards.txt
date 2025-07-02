@@ -1,0 +1,54 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: -
+Player 3: hurt
+Player 4: erratic
+Player 5: advertising
+Player 6: demand,
+Player 7: many
+Player 8: nation
+Player 9: # 39 ; s
+Player 10: newspaper
+Player 11: companies
+Player 12: fail
+Player 13: deliver
+Player 14: profits
+Player 15: hoped
+Player 16: latest
+Player 17: quarter.
+---------- Rewards ----------
+v(): -3.083343982696533	 ([])
+v(6 11 14 17): 7.524389743804932	 ([demand,][companies][profits][quarter.])
+v(0 1 2 13 15 16): -1.1268582344055176	 ([new][york][-][deliver][hoped][latest])
+v(3 8 9 10): -1.890345573425293	 ([hurt][nation][# 39 ; s][newspaper])
+v(4 5 7 12): 2.6267504692077637	 ([erratic][advertising][many][fail])
+v(0 1 2 6 11 13 14 15 16 17): 8.27281665802002	 ([new][york][-][demand,][companies][deliver][profits][hoped][latest][quarter.])
+v(3 6 8 9 10 11 14 17): 8.258252143859863	 ([hurt][demand,][nation][# 39 ; s][newspaper][companies][profits][quarter.])
+v(4 5 6 7 11 12 14 17): 7.089663982391357	 ([erratic][advertising][demand,][many][companies][fail][profits][quarter.])
+v(0 1 2 3 8 9 10 13 15 16): 0.19040507078170776	 ([new][york][-][hurt][nation][# 39 ; s][newspaper][deliver][hoped][latest])
+v(0 1 2 4 5 7 12 13 15 16): 4.237903118133545	 ([new][york][-][erratic][advertising][many][fail][deliver][hoped][latest])
+v(3 4 5 7 8 9 10 12): 5.20103120803833	 ([hurt][erratic][advertising][many][nation][# 39 ; s][newspaper][fail])
+v(0 1 2 3 6 8 9 10 11 13 14 15 16 17): 8.403782844543457	 ([new][york][-][hurt][demand,][nation][# 39 ; s][newspaper][companies][deliver][profits][hoped][latest][quarter.])
+v(0 1 2 4 5 6 7 11 12 13 14 15 16 17): 8.292768478393555	 ([new][york][-][erratic][advertising][demand,][many][companies][fail][deliver][profits][hoped][latest][quarter.])
+v(3 4 5 6 7 8 9 10 11 12 14 17): 8.478976249694824	 ([hurt][erratic][advertising][demand,][many][nation][# 39 ; s][newspaper][companies][fail][profits][quarter.])
+v(0 1 2 3 4 5 7 8 9 10 12 13 15 16): 6.4225850105285645	 ([new][york][-][hurt][erratic][advertising][many][nation][# 39 ; s][newspaper][fail][deliver][hoped][latest])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.49966049194336	 ([new][york][-][hurt][erratic][advertising][demand,][many][nation][# 39 ; s][newspaper][companies][fail][deliver][profits][hoped][latest][quarter.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 11.583003997802734, EP: 1.0	 ([new][york][-][hurt][erratic][advertising][demand,][many][nation][# 39 ; s][newspaper][companies][fail][deliver][profits][hoped][latest][quarter.])
+v(3 4 5 6 7 8 9 10 11 12 14 17): 11.562320709228516, EP: 0.9982143640518188	 ([hurt][erratic][advertising][demand,][many][nation][# 39 ; s][newspaper][companies][fail][profits][quarter.])
+v(0 1 2 3 6 8 9 10 11 13 14 15 16 17): 11.487127304077148, EP: 0.9917226433753967	 ([new][york][-][hurt][demand,][nation][# 39 ; s][newspaper][companies][deliver][profits][hoped][latest][quarter.])
+v(0 1 2 4 5 6 7 11 12 13 14 15 16 17): 11.37611198425293, EP: 0.9821383357048035	 ([new][york][-][erratic][advertising][demand,][many][companies][fail][deliver][profits][hoped][latest][quarter.])
+v(0 1 2 6 11 13 14 15 16 17): 11.356161117553711, EP: 0.9804158806800842	 ([new][york][-][demand,][companies][deliver][profits][hoped][latest][quarter.])
+v(3 6 8 9 10 11 14 17): 11.341596603393555, EP: 0.9791584610939026	 ([hurt][demand,][nation][# 39 ; s][newspaper][companies][profits][quarter.])
+v(6 11 14 17): 10.607733726501465, EP: 0.9158015847206116	 ([demand,][companies][profits][quarter.])
+v(4 5 6 7 11 12 14 17): 10.17300796508789, EP: 0.8782702684402466	 ([erratic][advertising][demand,][many][companies][fail][profits][quarter.])
+v(0 1 2 3 4 5 7 8 9 10 12 13 15 16): 9.505928993225098, EP: 0.8206790685653687	 ([new][york][-][hurt][erratic][advertising][many][nation][# 39 ; s][newspaper][fail][deliver][hoped][latest])
+v(3 4 5 7 8 9 10 12): 8.284375190734863, EP: 0.715218186378479	 ([hurt][erratic][advertising][many][nation][# 39 ; s][newspaper][fail])
+v(0 1 2 4 5 7 12 13 15 16): 7.321247100830078, EP: 0.6320680975914001	 ([new][york][-][erratic][advertising][many][fail][deliver][hoped][latest])
+v(4 5 7 12): 5.710094451904297, EP: 0.492971807718277	 ([erratic][advertising][many][fail])
+v(0 1 2 3 8 9 10 13 15 16): 3.2737491130828857, EP: 0.28263387084007263	 ([new][york][-][hurt][nation][# 39 ; s][newspaper][deliver][hoped][latest])
+v(0 1 2 13 15 16): 1.9564857482910156, EP: 0.16891004145145416	 ([new][york][-][deliver][hoped][latest])
+v(3 8 9 10): 1.1929984092712402, EP: 0.10299559682607651	 ([hurt][nation][# 39 ; s][newspaper])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

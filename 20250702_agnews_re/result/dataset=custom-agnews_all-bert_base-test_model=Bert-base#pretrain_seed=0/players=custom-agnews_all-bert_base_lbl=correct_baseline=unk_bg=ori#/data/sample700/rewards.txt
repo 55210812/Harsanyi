@@ -1,0 +1,86 @@
+---------- Players ----------
+Player 0: st.
+Player 1: george
+Player 2: # 39 ; s,
+Player 3: grenada
+Player 4: -
+Player 5: hurricane
+Player 6: ivan
+Player 7: took
+Player 8: aim
+Player 9: yesterday
+Player 10: jamaica
+Player 11: killing
+Player 12: 23
+Player 13: people
+Player 14: five
+Player 15: countries
+Player 16: devastating
+Player 17: grenada.
+---------- Rewards ----------
+v(): -5.5869035720825195	 ([])
+v(9 10): -7.293022632598877	 ([yesterday][jamaica])
+v(0 1 2 5): -6.131482124328613	 ([st.][george][# 39 ; s,][hurricane])
+v(3 4 16 17): -0.10315728187561035	 ([grenada][-][devastating][grenada.])
+v(11 12 13 14 15): -0.9953314065933228	 ([killing][23][people][five][countries])
+v(6 7 8): 1.8820804357528687	 ([ivan][took][aim])
+v(0 1 2 5 9 10): 2.8767943382263184	 ([st.][george][# 39 ; s,][hurricane][yesterday][jamaica])
+v(3 4 9 10 16 17): -1.3818519115447998	 ([grenada][-][yesterday][jamaica][devastating][grenada.])
+v(9 10 11 12 13 14 15): 5.821783065795898	 ([yesterday][jamaica][killing][23][people][five][countries])
+v(6 7 8 9 10): 5.3258442878723145	 ([ivan][took][aim][yesterday][jamaica])
+v(0 1 2 3 4 5 16 17): 3.8007454872131348	 ([st.][george][# 39 ; s,][grenada][-][hurricane][devastating][grenada.])
+v(0 1 2 5 11 12 13 14 15): -2.5546083450317383	 ([st.][george][# 39 ; s,][hurricane][killing][23][people][five][countries])
+v(0 1 2 5 6 7 8): -1.7027370929718018	 ([st.][george][# 39 ; s,][hurricane][ivan][took][aim])
+v(3 4 11 12 13 14 15 16 17): 5.617079734802246	 ([grenada][-][killing][23][people][five][countries][devastating][grenada.])
+v(3 4 6 7 8 16 17): 6.315809726715088	 ([grenada][-][ivan][took][aim][devastating][grenada.])
+v(6 7 8 11 12 13 14 15): 1.7906681299209595	 ([ivan][took][aim][killing][23][people][five][countries])
+v(0 1 2 3 4 5 9 10 16 17): 5.3729047775268555	 ([st.][george][# 39 ; s,][grenada][-][hurricane][yesterday][jamaica][devastating][grenada.])
+v(0 1 2 5 9 10 11 12 13 14 15): 6.459856986999512	 ([st.][george][# 39 ; s,][hurricane][yesterday][jamaica][killing][23][people][five][countries])
+v(0 1 2 5 6 7 8 9 10): 4.684250831604004	 ([st.][george][# 39 ; s,][hurricane][ivan][took][aim][yesterday][jamaica])
+v(3 4 9 10 11 12 13 14 15 16 17): 7.035666465759277	 ([grenada][-][yesterday][jamaica][killing][23][people][five][countries][devastating][grenada.])
+v(3 4 6 7 8 9 10 16 17): 6.872827053070068	 ([grenada][-][ivan][took][aim][yesterday][jamaica][devastating][grenada.])
+v(6 7 8 9 10 11 12 13 14 15): 6.728971004486084	 ([ivan][took][aim][yesterday][jamaica][killing][23][people][five][countries])
+v(0 1 2 3 4 5 11 12 13 14 15 16 17): 5.174347877502441	 ([st.][george][# 39 ; s,][grenada][-][hurricane][killing][23][people][five][countries][devastating][grenada.])
+v(0 1 2 3 4 5 6 7 8 16 17): 5.194087028503418	 ([st.][george][# 39 ; s,][grenada][-][hurricane][ivan][took][aim][devastating][grenada.])
+v(0 1 2 5 6 7 8 11 12 13 14 15): 1.5086183547973633	 ([st.][george][# 39 ; s,][hurricane][ivan][took][aim][killing][23][people][five][countries])
+v(3 4 6 7 8 11 12 13 14 15 16 17): 6.543914318084717	 ([grenada][-][ivan][took][aim][killing][23][people][five][countries][devastating][grenada.])
+v(0 1 2 3 4 5 9 10 11 12 13 14 15 16 17): 6.470701694488525	 ([st.][george][# 39 ; s,][grenada][-][hurricane][yesterday][jamaica][killing][23][people][five][countries][devastating][grenada.])
+v(0 1 2 3 4 5 6 7 8 9 10 16 17): 6.551360607147217	 ([st.][george][# 39 ; s,][grenada][-][hurricane][ivan][took][aim][yesterday][jamaica][devastating][grenada.])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15): 7.153721809387207	 ([st.][george][# 39 ; s,][hurricane][ivan][took][aim][yesterday][jamaica][killing][23][people][five][countries])
+v(3 4 6 7 8 9 10 11 12 13 14 15 16 17): 7.41901969909668	 ([grenada][-][ivan][took][aim][yesterday][jamaica][killing][23][people][five][countries][devastating][grenada.])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14 15 16 17): 5.795587539672852	 ([st.][george][# 39 ; s,][grenada][-][hurricane][ivan][took][aim][killing][23][people][five][countries][devastating][grenada.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 6.828244686126709	 ([st.][george][# 39 ; s,][grenada][-][hurricane][ivan][took][aim][yesterday][jamaica][killing][23][people][five][countries][devastating][grenada.])
+---------- Rewards-v() ----------
+v(3 4 6 7 8 9 10 11 12 13 14 15 16 17): 13.0059232711792, EP: 1.0475850105285645	 ([grenada][-][ivan][took][aim][yesterday][jamaica][killing][23][people][five][countries][devastating][grenada.])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15): 12.740625381469727, EP: 1.0262161493301392	 ([st.][george][# 39 ; s,][hurricane][ivan][took][aim][yesterday][jamaica][killing][23][people][five][countries])
+v(3 4 9 10 11 12 13 14 15 16 17): 12.622570037841797, EP: 1.016707181930542	 ([grenada][-][yesterday][jamaica][killing][23][people][five][countries][devastating][grenada.])
+v(3 4 6 7 8 9 10 16 17): 12.45973014831543, EP: 1.0035909414291382	 ([grenada][-][ivan][took][aim][yesterday][jamaica][devastating][grenada.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 12.41514778137207, EP: 1.0	 ([st.][george][# 39 ; s,][grenada][-][hurricane][ivan][took][aim][yesterday][jamaica][killing][23][people][five][countries][devastating][grenada.])
+v(6 7 8 9 10 11 12 13 14 15): 12.315874099731445, EP: 0.9920037984848022	 ([ivan][took][aim][yesterday][jamaica][killing][23][people][five][countries])
+v(0 1 2 3 4 5 6 7 8 9 10 16 17): 12.138263702392578, EP: 0.9776979088783264	 ([st.][george][# 39 ; s,][grenada][-][hurricane][ivan][took][aim][yesterday][jamaica][devastating][grenada.])
+v(3 4 6 7 8 11 12 13 14 15 16 17): 12.130817413330078, EP: 0.9770981073379517	 ([grenada][-][ivan][took][aim][killing][23][people][five][countries][devastating][grenada.])
+v(0 1 2 3 4 5 9 10 11 12 13 14 15 16 17): 12.057605743408203, EP: 0.9712011218070984	 ([st.][george][# 39 ; s,][grenada][-][hurricane][yesterday][jamaica][killing][23][people][five][countries][devastating][grenada.])
+v(0 1 2 5 9 10 11 12 13 14 15): 12.046760559082031, EP: 0.970327615737915	 ([st.][george][# 39 ; s,][hurricane][yesterday][jamaica][killing][23][people][five][countries])
+v(3 4 6 7 8 16 17): 11.902713775634766, EP: 0.958725094795227	 ([grenada][-][ivan][took][aim][devastating][grenada.])
+v(9 10 11 12 13 14 15): 11.408686637878418, EP: 0.9189327955245972	 ([yesterday][jamaica][killing][23][people][five][countries])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14 15 16 17): 11.382491111755371, EP: 0.9168228507041931	 ([st.][george][# 39 ; s,][grenada][-][hurricane][ivan][took][aim][killing][23][people][five][countries][devastating][grenada.])
+v(3 4 11 12 13 14 15 16 17): 11.203983306884766, EP: 0.90244460105896	 ([grenada][-][killing][23][people][five][countries][devastating][grenada.])
+v(0 1 2 3 4 5 9 10 16 17): 10.959808349609375, EP: 0.8827770948410034	 ([st.][george][# 39 ; s,][grenada][-][hurricane][yesterday][jamaica][devastating][grenada.])
+v(6 7 8 9 10): 10.912748336791992, EP: 0.8789865970611572	 ([ivan][took][aim][yesterday][jamaica])
+v(0 1 2 3 4 5 6 7 8 16 17): 10.780990600585938, EP: 0.8683739304542542	 ([st.][george][# 39 ; s,][grenada][-][hurricane][ivan][took][aim][devastating][grenada.])
+v(0 1 2 3 4 5 11 12 13 14 15 16 17): 10.761251449584961, EP: 0.8667839765548706	 ([st.][george][# 39 ; s,][grenada][-][hurricane][killing][23][people][five][countries][devastating][grenada.])
+v(0 1 2 5 6 7 8 9 10): 10.271154403686523, EP: 0.8273082971572876	 ([st.][george][# 39 ; s,][hurricane][ivan][took][aim][yesterday][jamaica])
+v(0 1 2 3 4 5 16 17): 9.387649536132812, EP: 0.7561448216438293	 ([st.][george][# 39 ; s,][grenada][-][hurricane][devastating][grenada.])
+v(0 1 2 5 9 10): 8.46369743347168, EP: 0.6817234754562378	 ([st.][george][# 39 ; s,][hurricane][yesterday][jamaica])
+v(6 7 8): 7.468984127044678, EP: 0.6016024947166443	 ([ivan][took][aim])
+v(6 7 8 11 12 13 14 15): 7.3775715827941895, EP: 0.5942395329475403	 ([ivan][took][aim][killing][23][people][five][countries])
+v(0 1 2 5 6 7 8 11 12 13 14 15): 7.095521926879883, EP: 0.5715213418006897	 ([st.][george][# 39 ; s,][hurricane][ivan][took][aim][killing][23][people][five][countries])
+v(3 4 16 17): 5.483746528625488, EP: 0.4416980445384979	 ([grenada][-][devastating][grenada.])
+v(11 12 13 14 15): 4.591572284698486, EP: 0.36983630061149597	 ([killing][23][people][five][countries])
+v(3 4 9 10 16 17): 4.205051422119141, EP: 0.33870330452919006	 ([grenada][-][yesterday][jamaica][devastating][grenada.])
+v(0 1 2 5 6 7 8): 3.8841664791107178, EP: 0.312857061624527	 ([st.][george][# 39 ; s,][hurricane][ivan][took][aim])
+v(0 1 2 5 11 12 13 14 15): 3.0322952270507812, EP: 0.24424158036708832	 ([st.][george][# 39 ; s,][hurricane][killing][23][people][five][countries])
+v(9 10): -1.7061190605163574, EP: -0.1374223679304123	 ([yesterday][jamaica])
+v(0 1 2 5): -0.5445785522460938, EP: -0.043864041566848755	 ([st.][george][# 39 ; s,][hurricane])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: miami
+Player 1: dolphins,
+Player 2: worst
+Player 3: start
+Player 4: 0 - 5
+Player 5: since
+Player 6: inaugural
+Player 7: season
+Player 8: 1966,
+Player 9: may
+Player 10: without
+Player 11: quarterbacks
+Player 12: jay
+Player 13: fiedler
+Player 14: aj
+Player 15: feeley
+Player 16: play
+Player 17: buffalo
+Player 18: bills
+Player 19: weekend.
+---------- Rewards ----------
+v(): -3.4762115478515625	 ([])
+v(0 1 14 15): 9.707240104675293	 ([miami][dolphins,][aj][feeley])
+v(4 5 7 8 9 10 11 16 17): 9.281608581542969	 ([0 - 5][since][season][1966,][may][without][quarterbacks][play][buffalo])
+v(2 3): -1.191366195678711	 ([worst][start])
+v(6 12 13 18 19): -0.39489006996154785	 ([inaugural][jay][fiedler][bills][weekend.])
+v(0 1 4 5 7 8 9 10 11 14 15 16 17): 9.371318817138672	 ([miami][dolphins,][0 - 5][since][season][1966,][may][without][quarterbacks][aj][feeley][play][buffalo])
+v(0 1 2 3 14 15): 9.691340446472168	 ([miami][dolphins,][worst][start][aj][feeley])
+v(0 1 6 12 13 14 15 18 19): 9.723855018615723	 ([miami][dolphins,][inaugural][jay][fiedler][aj][feeley][bills][weekend.])
+v(2 3 4 5 7 8 9 10 11 16 17): 9.315783500671387	 ([worst][start][0 - 5][since][season][1966,][may][without][quarterbacks][play][buffalo])
+v(4 5 6 7 8 9 10 11 12 13 16 17 18 19): 9.55417251586914	 ([0 - 5][since][inaugural][season][1966,][may][without][quarterbacks][jay][fiedler][play][buffalo][bills][weekend.])
+v(2 3 6 12 13 18 19): 4.613961696624756	 ([worst][start][inaugural][jay][fiedler][bills][weekend.])
+v(0 1 2 3 4 5 7 8 9 10 11 14 15 16 17): 9.324454307556152	 ([miami][dolphins,][worst][start][0 - 5][since][season][1966,][may][without][quarterbacks][aj][feeley][play][buffalo])
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.064257621765137	 ([miami][dolphins,][0 - 5][since][inaugural][season][1966,][may][without][quarterbacks][jay][fiedler][aj][feeley][play][buffalo][bills][weekend.])
+v(0 1 2 3 6 12 13 14 15 18 19): 9.646992683410645	 ([miami][dolphins,][worst][start][inaugural][jay][fiedler][aj][feeley][bills][weekend.])
+v(2 3 4 5 6 7 8 9 10 11 12 13 16 17 18 19): 9.405810356140137	 ([worst][start][0 - 5][since][inaugural][season][1966,][may][without][quarterbacks][jay][fiedler][play][buffalo][bills][weekend.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.84583854675293	 ([miami][dolphins,][worst][start][0 - 5][since][inaugural][season][1966,][may][without][quarterbacks][jay][fiedler][aj][feeley][play][buffalo][bills][weekend.])
+---------- Rewards-v() ----------
+v(0 1 6 12 13 14 15 18 19): 13.200066566467285, EP: 1.1658724546432495	 ([miami][dolphins,][inaugural][jay][fiedler][aj][feeley][bills][weekend.])
+v(0 1 14 15): 13.183451652526855, EP: 1.1644049882888794	 ([miami][dolphins,][aj][feeley])
+v(0 1 2 3 14 15): 13.16755199432373, EP: 1.1630007028579712	 ([miami][dolphins,][worst][start][aj][feeley])
+v(0 1 2 3 6 12 13 14 15 18 19): 13.123204231262207, EP: 1.1590837240219116	 ([miami][dolphins,][worst][start][inaugural][jay][fiedler][aj][feeley][bills][weekend.])
+v(4 5 6 7 8 9 10 11 12 13 16 17 18 19): 13.030384063720703, EP: 1.1508855819702148	 ([0 - 5][since][inaugural][season][1966,][may][without][quarterbacks][jay][fiedler][play][buffalo][bills][weekend.])
+v(2 3 4 5 6 7 8 9 10 11 12 13 16 17 18 19): 12.8820219039917, EP: 1.1377817392349243	 ([worst][start][0 - 5][since][inaugural][season][1966,][may][without][quarterbacks][jay][fiedler][play][buffalo][bills][weekend.])
+v(0 1 4 5 7 8 9 10 11 14 15 16 17): 12.847530364990234, EP: 1.134735345840454	 ([miami][dolphins,][0 - 5][since][season][1966,][may][without][quarterbacks][aj][feeley][play][buffalo])
+v(0 1 2 3 4 5 7 8 9 10 11 14 15 16 17): 12.800665855407715, EP: 1.1305961608886719	 ([miami][dolphins,][worst][start][0 - 5][since][season][1966,][may][without][quarterbacks][aj][feeley][play][buffalo])
+v(2 3 4 5 7 8 9 10 11 16 17): 12.79199504852295, EP: 1.129830241203308	 ([worst][start][0 - 5][since][season][1966,][may][without][quarterbacks][play][buffalo])
+v(4 5 7 8 9 10 11 16 17): 12.757820129394531, EP: 1.1268118619918823	 ([0 - 5][since][season][1966,][may][without][quarterbacks][play][buffalo])
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 12.5404691696167, EP: 1.1076147556304932	 ([miami][dolphins,][0 - 5][since][inaugural][season][1966,][may][without][quarterbacks][jay][fiedler][aj][feeley][play][buffalo][bills][weekend.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 11.322050094604492, EP: 1.0	 ([miami][dolphins,][worst][start][0 - 5][since][inaugural][season][1966,][may][without][quarterbacks][jay][fiedler][aj][feeley][play][buffalo][bills][weekend.])
+v(2 3 6 12 13 18 19): 8.090173721313477, EP: 0.714550256729126	 ([worst][start][inaugural][jay][fiedler][bills][weekend.])
+v(6 12 13 18 19): 3.0813214778900146, EP: 0.27215224504470825	 ([inaugural][jay][fiedler][bills][weekend.])
+v(2 3): 2.2848453521728516, EP: 0.20180492103099823	 ([worst][start])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

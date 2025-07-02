@@ -1,0 +1,60 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: carson
+Player 3: palmer
+Player 4: hit
+Player 5: wide - open
+Player 6: chad
+Player 7: johnson
+Player 8: 50 - yard
+Player 9: scoring
+Player 10: play
+Player 11: give
+Player 12: cincinnati
+Player 13: 7 - 0
+Player 14: lead
+Player 15: denver
+Player 16: broncos
+Player 17: first
+Player 18: quarter
+Player 19: bengals '
+Player 20: return
+Player 21: " monday
+Player 22: night
+Player 23: football. "
+---------- Rewards ----------
+v(): -1.5994806289672852	 ([])
+v(8 9 11 13 14 16 19 23): 9.489082336425781	 ([50 - yard][scoring][give][7 - 0][lead][broncos][bengals '][football. "])
+v(1 10 12 15): 9.531221389770508	 ([-][play][cincinnati][denver])
+v(4 17 20 22): -4.613739490509033	 ([hit][first][return][night])
+v(0 2 3 5 6 7 18 21): 0.426715612411499	 ([ap][carson][palmer][wide - open][chad][johnson][quarter][" monday])
+v(1 8 9 10 11 12 13 14 15 16 19 23): 9.423685073852539	 ([-][50 - yard][scoring][play][give][cincinnati][7 - 0][lead][denver][broncos][bengals '][football. "])
+v(4 8 9 11 13 14 16 17 19 20 22 23): 9.373689651489258	 ([hit][50 - yard][scoring][give][7 - 0][lead][broncos][first][bengals '][return][night][football. "])
+v(0 2 3 5 6 7 8 9 11 13 14 16 18 19 21 23): 9.644115447998047	 ([ap][carson][palmer][wide - open][chad][johnson][50 - yard][scoring][give][7 - 0][lead][broncos][quarter][bengals '][" monday][football. "])
+v(1 4 10 12 15 17 20 22): 9.270008087158203	 ([-][hit][play][cincinnati][denver][first][return][night])
+v(0 1 2 3 5 6 7 10 12 15 18 21): 9.737178802490234	 ([ap][-][carson][palmer][wide - open][chad][johnson][play][cincinnati][denver][quarter][" monday])
+v(0 2 3 4 5 6 7 17 18 20 21 22): 4.339948654174805	 ([ap][carson][palmer][hit][wide - open][chad][johnson][first][quarter][return][" monday][night])
+v(1 4 8 9 10 11 12 13 14 15 16 17 19 20 22 23): 9.268877029418945	 ([-][hit][50 - yard][scoring][play][give][cincinnati][7 - 0][lead][denver][broncos][first][bengals '][return][night][football. "])
+v(0 1 2 3 5 6 7 8 9 10 11 12 13 14 15 16 18 19 21 23): 9.561748504638672	 ([ap][-][carson][palmer][wide - open][chad][johnson][50 - yard][scoring][play][give][cincinnati][7 - 0][lead][denver][broncos][quarter][bengals '][" monday][football. "])
+v(0 2 3 4 5 6 7 8 9 11 13 14 16 17 18 19 20 21 22 23): 9.632011413574219	 ([ap][carson][palmer][hit][wide - open][chad][johnson][50 - yard][scoring][give][7 - 0][lead][broncos][first][quarter][bengals '][return][" monday][night][football. "])
+v(0 1 2 3 4 5 6 7 10 12 15 17 18 20 21 22): 9.733991622924805	 ([ap][-][carson][palmer][hit][wide - open][chad][johnson][play][cincinnati][denver][first][quarter][return][" monday][night])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 9.568195343017578	 ([ap][-][carson][palmer][hit][wide - open][chad][johnson][50 - yard][scoring][play][give][cincinnati][7 - 0][lead][denver][broncos][first][quarter][bengals '][return][" monday][night][football. "])
+---------- Rewards-v() ----------
+v(0 1 2 3 5 6 7 10 12 15 18 21): 11.33665943145752, EP: 1.0151314735412598	 ([ap][-][carson][palmer][wide - open][chad][johnson][play][cincinnati][denver][quarter][" monday])
+v(0 1 2 3 4 5 6 7 10 12 15 17 18 20 21 22): 11.33347225189209, EP: 1.0148460865020752	 ([ap][-][carson][palmer][hit][wide - open][chad][johnson][play][cincinnati][denver][first][quarter][return][" monday][night])
+v(0 2 3 5 6 7 8 9 11 13 14 16 18 19 21 23): 11.243596076965332, EP: 1.0067981481552124	 ([ap][carson][palmer][wide - open][chad][johnson][50 - yard][scoring][give][7 - 0][lead][broncos][quarter][bengals '][" monday][football. "])
+v(0 2 3 4 5 6 7 8 9 11 13 14 16 17 18 19 20 21 22 23): 11.231492042541504, EP: 1.0057142972946167	 ([ap][carson][palmer][hit][wide - open][chad][johnson][50 - yard][scoring][give][7 - 0][lead][broncos][first][quarter][bengals '][return][" monday][night][football. "])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 11.167675971984863, EP: 1.0	 ([ap][-][carson][palmer][hit][wide - open][chad][johnson][50 - yard][scoring][play][give][cincinnati][7 - 0][lead][denver][broncos][first][quarter][bengals '][return][" monday][night][football. "])
+v(0 1 2 3 5 6 7 8 9 10 11 12 13 14 15 16 18 19 21 23): 11.161229133605957, EP: 0.9994227290153503	 ([ap][-][carson][palmer][wide - open][chad][johnson][50 - yard][scoring][play][give][cincinnati][7 - 0][lead][denver][broncos][quarter][bengals '][" monday][football. "])
+v(1 10 12 15): 11.130702018737793, EP: 0.9966892004013062	 ([-][play][cincinnati][denver])
+v(8 9 11 13 14 16 19 23): 11.088562965393066, EP: 0.9929158687591553	 ([50 - yard][scoring][give][7 - 0][lead][broncos][bengals '][football. "])
+v(1 8 9 10 11 12 13 14 15 16 19 23): 11.023165702819824, EP: 0.9870599508285522	 ([-][50 - yard][scoring][play][give][cincinnati][7 - 0][lead][denver][broncos][bengals '][football. "])
+v(4 8 9 11 13 14 16 17 19 20 22 23): 10.973170280456543, EP: 0.9825831651687622	 ([hit][50 - yard][scoring][give][7 - 0][lead][broncos][first][bengals '][return][night][football. "])
+v(1 4 10 12 15 17 20 22): 10.869488716125488, EP: 0.9732990860939026	 ([-][hit][play][cincinnati][denver][first][return][night])
+v(1 4 8 9 10 11 12 13 14 15 16 17 19 20 22 23): 10.86835765838623, EP: 0.9731978178024292	 ([-][hit][50 - yard][scoring][play][give][cincinnati][7 - 0][lead][denver][broncos][first][bengals '][return][night][football. "])
+v(0 2 3 4 5 6 7 17 18 20 21 22): 5.93942928314209, EP: 0.5318410992622375	 ([ap][carson][palmer][hit][wide - open][chad][johnson][first][quarter][return][" monday][night])
+v(4 17 20 22): -3.014258861541748, EP: -0.26990923285484314	 ([hit][first][return][night])
+v(0 2 3 5 6 7 18 21): 2.026196241378784, EP: 0.1814340054988861	 ([ap][carson][palmer][wide - open][chad][johnson][quarter][" monday])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

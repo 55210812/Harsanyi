@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: despite
+Player 1: real
+Player 2: threats
+Player 3: little
+Player 4: sense
+Player 5: urgency
+Player 6: many
+Player 7: company
+Player 8: executives,
+Player 9: time
+Player 10: u. s.
+Player 11: government
+Player 12: mandate
+Player 13: cybersecurity
+Player 14: standards
+Player 15: private
+Player 16: industry,
+Player 17: panel
+Player 18: government
+Player 19: officials
+Player 20: said.
+---------- Rewards ----------
+v(): 5.026936054229736	 ([])
+v(1 2 5 8 13 16 20): 8.025619506835938	 ([real][threats][urgency][executives,][cybersecurity][industry,][said.])
+v(3 6 7 9 10 17 18 19): 6.575332164764404	 ([little][many][company][time][u. s.][panel][government][officials])
+v(0 4 11 12 14 15): 5.155529022216797	 ([despite][sense][government][mandate][standards][private])
+v(1 2 3 5 6 7 8 9 10 13 16 17 18 19 20): 8.002513885498047	 ([real][threats][little][urgency][many][company][executives,][time][u. s.][cybersecurity][industry,][panel][government][officials][said.])
+v(0 1 2 4 5 8 11 12 13 14 15 16 20): 8.189966201782227	 ([despite][real][threats][sense][urgency][executives,][government][mandate][cybersecurity][standards][private][industry,][said.])
+v(0 3 4 6 7 9 10 11 12 14 15 17 18 19): 7.9310221672058105	 ([despite][little][sense][many][company][time][u. s.][government][mandate][standards][private][panel][government][officials])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.962299346923828	 ([despite][real][threats][little][sense][urgency][many][company][executives,][time][u. s.][government][mandate][cybersecurity][standards][private][industry,][panel][government][officials][said.])
+---------- Rewards-v() ----------
+v(0 1 2 4 5 8 11 12 13 14 15 16 20): 3.1630301475524902, EP: 1.0775600671768188	 ([despite][real][threats][sense][urgency][executives,][government][mandate][cybersecurity][standards][private][industry,][said.])
+v(1 2 5 8 13 16 20): 2.998683452606201, EP: 1.0215715169906616	 ([real][threats][urgency][executives,][cybersecurity][industry,][said.])
+v(1 2 3 5 6 7 8 9 10 13 16 17 18 19 20): 2.9755778312683105, EP: 1.013700008392334	 ([real][threats][little][urgency][many][company][executives,][time][u. s.][cybersecurity][industry,][panel][government][officials][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 2.935363292694092, EP: 1.0	 ([despite][real][threats][little][sense][urgency][many][company][executives,][time][u. s.][government][mandate][cybersecurity][standards][private][industry,][panel][government][officials][said.])
+v(0 3 4 6 7 9 10 11 12 14 15 17 18 19): 2.904086112976074, EP: 0.9893447160720825	 ([despite][little][sense][many][company][time][u. s.][government][mandate][standards][private][panel][government][officials])
+v(3 6 7 9 10 17 18 19): 1.548396110534668, EP: 0.5274972915649414	 ([little][many][company][time][u. s.][panel][government][officials])
+v(0 4 11 12 14 15): 0.12859296798706055, EP: 0.04380819573998451	 ([despite][sense][government][mandate][standards][private])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

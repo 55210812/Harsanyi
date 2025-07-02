@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: blockade
+Player 3: nepalese
+Player 4: capital
+Player 5: called
+Player 6: maoist
+Player 7: rebels
+Player 8: entered
+Player 9: second
+Player 10: day,
+Player 11: causing
+Player 12: rise
+Player 13: food
+Player 14: prices
+Player 15: prompting
+Player 16: government
+Player 17: declare
+Player 18: city
+Player 19: enough
+Player 20: supplies
+Player 21: month.
+---------- Rewards ----------
+v(): -5.535399436950684	 ([])
+v(0 1 3 6 10 11 12 13 14 17): 8.07226276397705	 ([afp][-][nepalese][maoist][day,][causing][rise][food][prices][declare])
+v(2 5 7 8 20): 6.002975940704346	 ([blockade][called][rebels][entered][supplies])
+v(4 9 15 16 18 19 21): -4.15925407409668	 ([capital][second][prompting][government][city][enough][month.])
+v(0 1 2 3 5 6 7 8 10 11 12 13 14 17 20): 8.343918800354004	 ([afp][-][blockade][nepalese][called][maoist][rebels][entered][day,][causing][rise][food][prices][declare][supplies])
+v(0 1 3 4 6 9 10 11 12 13 14 15 16 17 18 19 21): 8.026514053344727	 ([afp][-][nepalese][capital][maoist][second][day,][causing][rise][food][prices][prompting][government][declare][city][enough][month.])
+v(2 4 5 7 8 9 15 16 18 19 20 21): 7.287722587585449	 ([blockade][capital][called][rebels][entered][second][prompting][government][city][enough][supplies][month.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.322751998901367	 ([afp][-][blockade][nepalese][capital][called][maoist][rebels][entered][second][day,][causing][rise][food][prices][prompting][government][declare][city][enough][supplies][month.])
+---------- Rewards-v() ----------
+v(0 1 2 3 5 6 7 8 10 11 12 13 14 17 20): 13.879318237304688, EP: 1.0015274286270142	 ([afp][-][blockade][nepalese][called][maoist][rebels][entered][day,][causing][rise][food][prices][declare][supplies])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 13.85815143585205, EP: 1.0	 ([afp][-][blockade][nepalese][capital][called][maoist][rebels][entered][second][day,][causing][rise][food][prices][prompting][government][declare][city][enough][supplies][month.])
+v(0 1 3 6 10 11 12 13 14 17): 13.607662200927734, EP: 0.9819247722625732	 ([afp][-][nepalese][maoist][day,][causing][rise][food][prices][declare])
+v(0 1 3 4 6 9 10 11 12 13 14 15 16 17 18 19 21): 13.56191349029541, EP: 0.9786235690116882	 ([afp][-][nepalese][capital][maoist][second][day,][causing][rise][food][prices][prompting][government][declare][city][enough][month.])
+v(2 4 5 7 8 9 15 16 18 19 20 21): 12.823122024536133, EP: 0.9253125786781311	 ([blockade][capital][called][rebels][entered][second][prompting][government][city][enough][supplies][month.])
+v(2 5 7 8 20): 11.538375854492188, EP: 0.8326057195663452	 ([blockade][called][rebels][entered][supplies])
+v(4 9 15 16 18 19 21): 1.376145362854004, EP: 0.09930223226547241	 ([capital][second][prompting][government][city][enough][month.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

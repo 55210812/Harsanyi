@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: standing
+Player 1: snow
+Player 2: medal
+Player 3: celebration
+Player 4: 2002
+Player 5: winter
+Player 6: games
+Player 7: salt
+Player 8: lake
+Player 9: city,
+Player 10: jimmy
+Player 11: pedro
+Player 12: sudden
+Player 13: inspiration.
+Player 14: took
+Player 15: cellphone
+Player 16: called
+Player 17: wife,
+Player 18: marie,
+Player 19: back
+Player 20: methuen,
+Player 21: mass.
+---------- Rewards ----------
+v(): -2.778104305267334	 ([])
+v(0 2 3 9 10 11 17 21): -2.5878114700317383	 ([standing][medal][celebration][city,][jimmy][pedro][wife,][mass.])
+v(6 8 12 13 14 15 16 20): 2.170015335083008	 ([games][lake][sudden][inspiration.][took][cellphone][called][methuen,])
+v(1 4 5 7 18 19): 0.4800776243209839	 ([snow][2002][winter][salt][marie,][back])
+v(0 2 3 6 8 9 10 11 12 13 14 15 16 17 20 21): 8.57388973236084	 ([standing][medal][celebration][games][lake][city,][jimmy][pedro][sudden][inspiration.][took][cellphone][called][wife,][methuen,][mass.])
+v(0 1 2 3 4 5 7 9 10 11 17 18 19 21): 9.025114059448242	 ([standing][snow][medal][celebration][2002][winter][salt][city,][jimmy][pedro][wife,][marie,][back][mass.])
+v(1 4 5 6 7 8 12 13 14 15 16 18 19 20): 8.58719253540039	 ([snow][2002][winter][games][salt][lake][sudden][inspiration.][took][cellphone][called][marie,][back][methuen,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.407215118408203	 ([standing][snow][medal][celebration][2002][winter][games][salt][lake][city,][jimmy][pedro][sudden][inspiration.][took][cellphone][called][wife,][marie,][back][methuen,][mass.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 12.185319900512695, EP: 1.0	 ([standing][snow][medal][celebration][2002][winter][games][salt][lake][city,][jimmy][pedro][sudden][inspiration.][took][cellphone][called][wife,][marie,][back][methuen,][mass.])
+v(0 1 2 3 4 5 7 9 10 11 17 18 19 21): 11.803218841552734, EP: 0.96864253282547	 ([standing][snow][medal][celebration][2002][winter][salt][city,][jimmy][pedro][wife,][marie,][back][mass.])
+v(1 4 5 6 7 8 12 13 14 15 16 18 19 20): 11.365297317504883, EP: 0.9327040314674377	 ([snow][2002][winter][games][salt][lake][sudden][inspiration.][took][cellphone][called][marie,][back][methuen,])
+v(0 2 3 6 8 9 10 11 12 13 14 15 16 17 20 21): 11.351993560791016, EP: 0.9316122531890869	 ([standing][medal][celebration][games][lake][city,][jimmy][pedro][sudden][inspiration.][took][cellphone][called][wife,][methuen,][mass.])
+v(6 8 12 13 14 15 16 20): 4.948119640350342, EP: 0.406072199344635	 ([games][lake][sudden][inspiration.][took][cellphone][called][methuen,])
+v(1 4 5 7 18 19): 3.2581820487976074, EP: 0.2673858404159546	 ([snow][2002][winter][salt][marie,][back])
+v(0 2 3 9 10 11 17 21): 0.1902928352355957, EP: 0.015616565011441708	 ([standing][medal][celebration][city,][jimmy][pedro][wife,][mass.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

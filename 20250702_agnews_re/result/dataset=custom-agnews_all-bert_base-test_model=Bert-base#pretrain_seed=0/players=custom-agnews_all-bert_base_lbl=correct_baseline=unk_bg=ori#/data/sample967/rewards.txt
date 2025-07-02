@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: french
+Player 1: finance
+Player 2: ministry
+Player 3: spokesman
+Player 4: said
+Player 5: paris
+Player 6: club
+Player 7: creditor
+Player 8: nations
+Player 9: reached
+Player 10: deal
+Player 11: yesterday
+Player 12: write
+Player 13: 80
+Player 14: per
+Player 15: cent
+Player 16: debts
+Player 17: iraq
+Player 18: owes
+Player 19: them.
+---------- Rewards ----------
+v(): -5.452785491943359	 ([])
+v(0 1 5 6 8 16 17): 2.1539478302001953	 ([french][finance][paris][club][nations][debts][iraq])
+v(2 3 4 12): 4.661762714385986	 ([ministry][spokesman][said][write])
+v(7 9 10 11 13 14 15 18 19): -3.7189064025878906	 ([creditor][reached][deal][yesterday][80][per][cent][owes][them.])
+v(0 1 2 3 4 5 6 8 12 16 17): 4.190972805023193	 ([french][finance][ministry][spokesman][said][paris][club][nations][write][debts][iraq])
+v(0 1 5 6 7 8 9 10 11 13 14 15 16 17 18 19): 5.294500350952148	 ([french][finance][paris][club][creditor][nations][reached][deal][yesterday][80][per][cent][debts][iraq][owes][them.])
+v(2 3 4 7 9 10 11 12 13 14 15 18 19): 2.506626605987549	 ([ministry][spokesman][said][creditor][reached][deal][yesterday][write][80][per][cent][owes][them.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 3.9207382202148438	 ([french][finance][ministry][spokesman][said][paris][club][creditor][nations][reached][deal][yesterday][write][80][per][cent][debts][iraq][owes][them.])
+---------- Rewards-v() ----------
+v(0 1 5 6 7 8 9 10 11 13 14 15 16 17 18 19): 10.747285842895508, EP: 1.1465576887130737	 ([french][finance][paris][club][creditor][nations][reached][deal][yesterday][80][per][cent][debts][iraq][owes][them.])
+v(2 3 4 12): 10.114547729492188, EP: 1.0790549516677856	 ([ministry][spokesman][said][write])
+v(0 1 2 3 4 5 6 8 12 16 17): 9.643758773803711, EP: 1.028829574584961	 ([french][finance][ministry][spokesman][said][paris][club][nations][write][debts][iraq])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.373523712158203, EP: 1.0	 ([french][finance][ministry][spokesman][said][paris][club][creditor][nations][reached][deal][yesterday][write][80][per][cent][debts][iraq][owes][them.])
+v(2 3 4 7 9 10 11 12 13 14 15 18 19): 7.959412097930908, EP: 0.8491376638412476	 ([ministry][spokesman][said][creditor][reached][deal][yesterday][write][80][per][cent][owes][them.])
+v(0 1 5 6 8 16 17): 7.606733322143555, EP: 0.8115126490592957	 ([french][finance][paris][club][nations][debts][iraq])
+v(7 9 10 11 13 14 15 18 19): 1.7338790893554688, EP: 0.1849762350320816	 ([creditor][reached][deal][yesterday][80][per][cent][owes][them.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

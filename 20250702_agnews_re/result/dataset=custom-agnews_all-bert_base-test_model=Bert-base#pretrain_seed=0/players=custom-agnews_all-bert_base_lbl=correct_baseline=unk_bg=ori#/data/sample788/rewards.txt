@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: tokyo
+Player 1: ( reuters )
+Player 2: -
+Player 3: japan's
+Player 4: nikkei
+Player 5: average
+Player 6: edged
+Player 7: 0. 25
+Player 8: percent
+Player 9: opening
+Player 10: tuesday
+Player 11: investors
+Player 12: stayed
+Player 13: optimistic
+Player 14: japan's
+Player 15: economy
+Player 16: bought
+Player 17: banks
+Player 18: insurance
+Player 19: firms.
+---------- Rewards ----------
+v(): -0.7740679979324341	 ([])
+v(0 7 8 11 15 18 19): 7.866056442260742	 ([tokyo][0. 25][percent][investors][economy][insurance][firms.])
+v(1 2 3 4 9 10 12 13 14): 3.8245596885681152	 ([( reuters )][-][japan's][nikkei][opening][tuesday][stayed][optimistic][japan's])
+v(5 6 16 17): 7.901537895202637	 ([average][edged][bought][banks])
+v(0 1 2 3 4 7 8 9 10 11 12 13 14 15 18 19): 6.337158679962158	 ([tokyo][( reuters )][-][japan's][nikkei][0. 25][percent][opening][tuesday][investors][stayed][optimistic][japan's][economy][insurance][firms.])
+v(0 5 6 7 8 11 15 16 17 18 19): 7.251914024353027	 ([tokyo][average][edged][0. 25][percent][investors][economy][bought][banks][insurance][firms.])
+v(1 2 3 4 5 6 9 10 12 13 14 16 17): 6.57750129699707	 ([( reuters )][-][japan's][nikkei][average][edged][opening][tuesday][stayed][optimistic][japan's][bought][banks])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.32442569732666	 ([tokyo][( reuters )][-][japan's][nikkei][average][edged][0. 25][percent][opening][tuesday][investors][stayed][optimistic][japan's][economy][bought][banks][insurance][firms.])
+---------- Rewards-v() ----------
+v(5 6 16 17): 8.675605773925781, EP: 1.0712616443634033	 ([average][edged][bought][banks])
+v(0 7 8 11 15 18 19): 8.640124320983887, EP: 1.066880464553833	 ([tokyo][0. 25][percent][investors][economy][insurance][firms.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.098493576049805, EP: 1.0	 ([tokyo][( reuters )][-][japan's][nikkei][average][edged][0. 25][percent][opening][tuesday][investors][stayed][optimistic][japan's][economy][bought][banks][insurance][firms.])
+v(0 5 6 7 8 11 15 16 17 18 19): 8.025981903076172, EP: 0.9910462498664856	 ([tokyo][average][edged][0. 25][percent][investors][economy][bought][banks][insurance][firms.])
+v(1 2 3 4 5 6 9 10 12 13 14 16 17): 7.351569175720215, EP: 0.9077699780464172	 ([( reuters )][-][japan's][nikkei][average][edged][opening][tuesday][stayed][optimistic][japan's][bought][banks])
+v(0 1 2 3 4 7 8 9 10 11 12 13 14 15 18 19): 7.111226558685303, EP: 0.8780925273895264	 ([tokyo][( reuters )][-][japan's][nikkei][0. 25][percent][opening][tuesday][investors][stayed][optimistic][japan's][economy][insurance][firms.])
+v(1 2 3 4 9 10 12 13 14): 4.59862756729126, EP: 0.5678374171257019	 ([( reuters )][-][japan's][nikkei][opening][tuesday][stayed][optimistic][japan's])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

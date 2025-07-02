@@ -1,0 +1,49 @@
+---------- Players ----------
+Player 0: houstonafter
+Player 1: falling
+Player 2: behind
+Player 3: 0 - 2
+Player 4: nl
+Player 5: championship
+Player 6: series,
+Player 7: best - case
+Player 8: scenario
+Player 9: houston
+Player 10: astros
+Player 11: played
+Player 12: weekend.
+---------- Rewards ----------
+v(): -3.65446400642395	 ([])
+v(4 5 6): 9.692610740661621	 ([nl][championship][series,])
+v(1 10): 0.9269886016845703	 ([falling][astros])
+v(0 2 3): 3.6191911697387695	 ([houstonafter][behind][0 - 2])
+v(7 8 9 11 12): 8.181702613830566	 ([best - case][scenario][houston][played][weekend.])
+v(1 4 5 6 10): 9.674812316894531	 ([falling][nl][championship][series,][astros])
+v(0 2 3 4 5 6): 9.71847152709961	 ([houstonafter][behind][0 - 2][nl][championship][series,])
+v(4 5 6 7 8 9 11 12): 9.617460250854492	 ([nl][championship][series,][best - case][scenario][houston][played][weekend.])
+v(0 1 2 3 10): 9.397003173828125	 ([houstonafter][falling][behind][0 - 2][astros])
+v(1 7 8 9 10 11 12): 9.346870422363281	 ([falling][best - case][scenario][houston][astros][played][weekend.])
+v(0 2 3 7 8 9 11 12): 8.431264877319336	 ([houstonafter][behind][0 - 2][best - case][scenario][houston][played][weekend.])
+v(0 1 2 3 4 5 6 10): 9.701019287109375	 ([houstonafter][falling][behind][0 - 2][nl][championship][series,][astros])
+v(1 4 5 6 7 8 9 10 11 12): 9.604728698730469	 ([falling][nl][championship][series,][best - case][scenario][houston][astros][played][weekend.])
+v(0 2 3 4 5 6 7 8 9 11 12): 9.622420310974121	 ([houstonafter][behind][0 - 2][nl][championship][series,][best - case][scenario][houston][played][weekend.])
+v(0 1 2 3 7 8 9 10 11 12): 9.400619506835938	 ([houstonafter][falling][behind][0 - 2][best - case][scenario][houston][astros][played][weekend.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 9.353251457214355	 ([houstonafter][falling][behind][0 - 2][nl][championship][series,][best - case][scenario][houston][astros][played][weekend.])
+---------- Rewards-v() ----------
+v(0 2 3 4 5 6): 13.37293529510498, EP: 1.028077244758606	 ([houstonafter][behind][0 - 2][nl][championship][series,])
+v(0 1 2 3 4 5 6 10): 13.355483055114746, EP: 1.026735544204712	 ([houstonafter][falling][behind][0 - 2][nl][championship][series,][astros])
+v(4 5 6): 13.347074508666992, EP: 1.026089072227478	 ([nl][championship][series,])
+v(1 4 5 6 10): 13.329276084899902, EP: 1.0247207880020142	 ([falling][nl][championship][series,][astros])
+v(0 2 3 4 5 6 7 8 9 11 12): 13.276884078979492, EP: 1.020693063735962	 ([houstonafter][behind][0 - 2][nl][championship][series,][best - case][scenario][houston][played][weekend.])
+v(4 5 6 7 8 9 11 12): 13.271924018859863, EP: 1.020311713218689	 ([nl][championship][series,][best - case][scenario][houston][played][weekend.])
+v(1 4 5 6 7 8 9 10 11 12): 13.25919246673584, EP: 1.0193328857421875	 ([falling][nl][championship][series,][best - case][scenario][houston][astros][played][weekend.])
+v(0 1 2 3 7 8 9 10 11 12): 13.055083274841309, EP: 1.0036414861679077	 ([houstonafter][falling][behind][0 - 2][best - case][scenario][houston][astros][played][weekend.])
+v(0 1 2 3 10): 13.051466941833496, EP: 1.0033634901046753	 ([houstonafter][falling][behind][0 - 2][astros])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 13.007715225219727, EP: 1.0	 ([houstonafter][falling][behind][0 - 2][nl][championship][series,][best - case][scenario][houston][astros][played][weekend.])
+v(1 7 8 9 10 11 12): 13.001334190368652, EP: 0.9995094537734985	 ([falling][best - case][scenario][houston][astros][played][weekend.])
+v(0 2 3 7 8 9 11 12): 12.085728645324707, EP: 0.9291200041770935	 ([houstonafter][behind][0 - 2][best - case][scenario][houston][played][weekend.])
+v(7 8 9 11 12): 11.836166381835938, EP: 0.9099342823028564	 ([best - case][scenario][houston][played][weekend.])
+v(0 2 3): 7.273654937744141, EP: 0.5591800808906555	 ([houstonafter][behind][0 - 2])
+v(1 10): 4.581452369689941, EP: 0.3522103726863861	 ([falling][astros])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

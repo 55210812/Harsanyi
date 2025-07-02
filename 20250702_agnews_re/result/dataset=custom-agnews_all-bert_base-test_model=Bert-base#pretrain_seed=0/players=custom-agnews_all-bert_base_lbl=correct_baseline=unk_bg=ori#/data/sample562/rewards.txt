@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: least
+Player 1: 14
+Player 2: people
+Player 3: killed
+Player 4: 200
+Player 5: injured,
+Player 6: series
+Player 7: bombs
+Player 8: grenades
+Player 9: exploded
+Player 10: rally
+Player 11: organized
+Player 12: main
+Player 13: opposition
+Player 14: awami
+Player 15: league
+Player 16: saturday
+---------- Rewards ----------
+v(): -6.952181816101074	 ([])
+v(3 13 14 15): 6.770315647125244	 ([killed][opposition][awami][league])
+v(0 6 7 8 9 10 11 12): 4.393625736236572	 ([least][series][bombs][grenades][exploded][rally][organized][main])
+v(1 2 4 5 16): 1.1961123943328857	 ([14][people][200][injured,][saturday])
+v(0 3 6 7 8 9 10 11 12 13 14 15): 7.465822219848633	 ([least][killed][series][bombs][grenades][exploded][rally][organized][main][opposition][awami][league])
+v(1 2 3 4 5 13 14 15 16): 5.32651424407959	 ([14][people][killed][200][injured,][opposition][awami][league][saturday])
+v(0 1 2 4 5 6 7 8 9 10 11 12 16): 5.3457136154174805	 ([least][14][people][200][injured,][series][bombs][grenades][exploded][rally][organized][main][saturday])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.56940221786499	 ([least][14][people][killed][200][injured,][series][bombs][grenades][exploded][rally][organized][main][opposition][awami][league][saturday])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 14.521583557128906, EP: 1.0	 ([least][14][people][killed][200][injured,][series][bombs][grenades][exploded][rally][organized][main][opposition][awami][league][saturday])
+v(0 3 6 7 8 9 10 11 12 13 14 15): 14.418004035949707, EP: 0.9928672313690186	 ([least][killed][series][bombs][grenades][exploded][rally][organized][main][opposition][awami][league])
+v(3 13 14 15): 13.722497940063477, EP: 0.944972574710846	 ([killed][opposition][awami][league])
+v(0 1 2 4 5 6 7 8 9 10 11 12 16): 12.297895431518555, EP: 0.8468701243400574	 ([least][14][people][200][injured,][series][bombs][grenades][exploded][rally][organized][main][saturday])
+v(1 2 3 4 5 13 14 15 16): 12.278696060180664, EP: 0.8455480337142944	 ([14][people][killed][200][injured,][opposition][awami][league][saturday])
+v(0 6 7 8 9 10 11 12): 11.345808029174805, EP: 0.7813065052032471	 ([least][series][bombs][grenades][exploded][rally][organized][main])
+v(1 2 4 5 16): 8.148294448852539, EP: 0.561116099357605	 ([14][people][200][injured,][saturday])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

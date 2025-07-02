@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: e - mail
+Player 1: disaster
+Player 2: recovery
+Player 3: vendor
+Player 4: messageone
+Player 5: today
+Player 6: said
+Player 7: buying
+Player 8: competitor
+Player 9: evergreen
+Player 10: assurance
+Player 11: inc.,
+Player 12: deal
+Player 13: brings
+Player 14: together
+Player 15: two
+Player 16: different
+Player 17: approaches
+Player 18: restoring
+Player 19: e - mail
+Player 20: service
+Player 21: disaster.
+---------- Rewards ----------
+v(): 3.7316696643829346	 ([])
+v(8 9 10 11 21): -4.851940155029297	 ([competitor][evergreen][assurance][inc.,][disaster.])
+v(1 2 4 5 6 14 18): 6.134336948394775	 ([disaster][recovery][messageone][today][said][together][restoring])
+v(0 3 7 12 13 15 16 17 19 20): 1.9190313816070557	 ([e - mail][vendor][buying][deal][brings][two][different][approaches][e - mail][service])
+v(1 2 4 5 6 8 9 10 11 14 18 21): 1.8351986408233643	 ([disaster][recovery][messageone][today][said][competitor][evergreen][assurance][inc.,][together][restoring][disaster.])
+v(0 3 7 8 9 10 11 12 13 15 16 17 19 20 21): 5.123368263244629	 ([e - mail][vendor][buying][competitor][evergreen][assurance][inc.,][deal][brings][two][different][approaches][e - mail][service][disaster.])
+v(0 1 2 3 4 5 6 7 12 13 14 15 16 17 18 19 20): 6.107694625854492	 ([e - mail][disaster][recovery][vendor][messageone][today][said][buying][deal][brings][together][two][different][approaches][restoring][e - mail][service])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 7.031653881072998	 ([e - mail][disaster][recovery][vendor][messageone][today][said][buying][competitor][evergreen][assurance][inc.,][deal][brings][together][two][different][approaches][restoring][e - mail][service][disaster.])
+---------- Rewards-v() ----------
+v(8 9 10 11 21): -8.583609580993652, EP: -2.6011061668395996	 ([competitor][evergreen][assurance][inc.,][disaster.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 3.2999842166900635, EP: 1.0	 ([e - mail][disaster][recovery][vendor][messageone][today][said][buying][competitor][evergreen][assurance][inc.,][deal][brings][together][two][different][approaches][restoring][e - mail][service][disaster.])
+v(1 2 4 5 6 14 18): 2.402667284011841, EP: 0.7280845046043396	 ([disaster][recovery][messageone][today][said][together][restoring])
+v(0 1 2 3 4 5 6 7 12 13 14 15 16 17 18 19 20): 2.3760249614715576, EP: 0.7200109958648682	 ([e - mail][disaster][recovery][vendor][messageone][today][said][buying][deal][brings][together][two][different][approaches][restoring][e - mail][service])
+v(1 2 4 5 6 8 9 10 11 14 18 21): -1.8964710235595703, EP: -0.5746909379959106	 ([disaster][recovery][messageone][today][said][competitor][evergreen][assurance][inc.,][together][restoring][disaster.])
+v(0 3 7 12 13 15 16 17 19 20): -1.812638282775879, EP: -0.549286961555481	 ([e - mail][vendor][buying][deal][brings][two][different][approaches][e - mail][service])
+v(0 3 7 8 9 10 11 12 13 15 16 17 19 20 21): 1.3916985988616943, EP: 0.42172887921333313	 ([e - mail][vendor][buying][competitor][evergreen][assurance][inc.,][deal][brings][two][different][approaches][e - mail][service][disaster.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

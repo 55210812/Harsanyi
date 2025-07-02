@@ -1,0 +1,39 @@
+Execution time: 2025-07-02 19:21:56
+prompt: [CLS] nintendo has revealed the companies plans to increase by 40 the number of nintendo ds portable gaming systems shipping in the us before the end of the year. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:10022 decoded_text: nintendo
+idx:2 input_id:2038 decoded_text: has
+idx:3 input_id:3936 decoded_text: revealed
+idx:4 input_id:1996 decoded_text: the
+idx:5 input_id:3316 decoded_text: companies
+idx:6 input_id:3488 decoded_text: plans
+idx:7 input_id:2000 decoded_text: to
+idx:8 input_id:3623 decoded_text: increase
+idx:9 input_id:2011 decoded_text: by
+idx:10 input_id:2871 decoded_text: 40
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:2193 decoded_text: number
+idx:13 input_id:1997 decoded_text: of
+idx:14 input_id:10022 decoded_text: nintendo
+idx:15 input_id:16233 decoded_text: ds
+idx:16 input_id:12109 decoded_text: portable
+idx:17 input_id:10355 decoded_text: gaming
+idx:18 input_id:3001 decoded_text: systems
+idx:19 input_id:7829 decoded_text: shipping
+idx:20 input_id:1999 decoded_text: in
+idx:21 input_id:1996 decoded_text: the
+idx:22 input_id:2149 decoded_text: us
+idx:23 input_id:2077 decoded_text: before
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:2203 decoded_text: end
+idx:26 input_id:1997 decoded_text: of
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:2095 decoded_text: year
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.3130645751953125, -3.3291141986846924, 0.00890959519892931, 6.3900146484375]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

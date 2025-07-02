@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 19:18:10
+prompt: [CLS] launch of nasa # 39 ; s swift spacecraft aboard a boeing delta ii rocket is scheduled for saturday nov. 20 from cape canaveral air force station complex 17. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4888 decoded_text: launch
+idx:2 input_id:1997 decoded_text: of
+idx:3 input_id:9274 decoded_text: nasa
+idx:4 input_id:1001 decoded_text: #
+idx:5 input_id:4464 decoded_text: 39
+idx:6 input_id:1025 decoded_text: ;
+idx:7 input_id:1055 decoded_text: s
+idx:8 input_id:9170 decoded_text: swift
+idx:9 input_id:12076 decoded_text: spacecraft
+idx:10 input_id:7548 decoded_text: aboard
+idx:11 input_id:1037 decoded_text: a
+idx:12 input_id:10321 decoded_text: boeing
+idx:13 input_id:7160 decoded_text: delta
+idx:14 input_id:2462 decoded_text: ii
+idx:15 input_id:7596 decoded_text: rocket
+idx:16 input_id:2003 decoded_text: is
+idx:17 input_id:5115 decoded_text: scheduled
+idx:18 input_id:2005 decoded_text: for
+idx:19 input_id:5095 decoded_text: saturday
+idx:20 input_id:13292 decoded_text: nov
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:2322 decoded_text: 20
+idx:23 input_id:2013 decoded_text: from
+idx:24 input_id:4880 decoded_text: cape
+idx:25 input_id:2064 decoded_text: can
+idx:26 input_id:22208 decoded_text: ##aver
+idx:27 input_id:2389 decoded_text: ##al
+idx:28 input_id:2250 decoded_text: air
+idx:29 input_id:2486 decoded_text: force
+idx:30 input_id:2276 decoded_text: station
+idx:31 input_id:3375 decoded_text: complex
+idx:32 input_id:2459 decoded_text: 17
+idx:33 input_id:1012 decoded_text: .
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-1.3897274732589722, -2.712475538253784, -2.7412302494049072, 6.988847255706787]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: low
+Player 1: number
+Player 2: minorities
+Player 3: coaching
+Player 4: college
+Player 5: football
+Player 6: reflects
+Player 7: lack
+Player 8: diversity
+Player 9: among
+Player 10: college
+Player 11: conference
+Player 12: leaders,
+Player 13: according
+Player 14: university
+Player 15: central
+Player 16: florida
+Player 17: study
+Player 18: released
+Player 19: wednesday.
+---------- Rewards ----------
+v(): -4.705326557159424	 ([])
+v(0 1 3 5 6 7 8 13): 6.858561992645264	 ([low][number][coaching][football][reflects][lack][diversity][according])
+v(2 4 9 10 11 12 14 15 16 17 18 19): -3.4072442054748535	 ([minorities][college][among][college][conference][leaders,][university][central][florida][study][released][wednesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.868507385253906	 ([low][number][minorities][coaching][college][football][reflects][lack][diversity][among][college][conference][leaders,][according][university][central][florida][study][released][wednesday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.573833465576172, EP: 1.0	 ([low][number][minorities][coaching][college][football][reflects][lack][diversity][among][college][conference][leaders,][according][university][central][florida][study][released][wednesday.])
+v(0 1 3 5 6 7 8 13): 11.563888549804688, EP: 0.8519250154495239	 ([low][number][coaching][football][reflects][lack][diversity][according])
+v(2 4 9 10 11 12 14 15 16 17 18 19): 1.2980823516845703, EP: 0.09563122689723969	 ([minorities][college][among][college][conference][leaders,][university][central][florida][study][released][wednesday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

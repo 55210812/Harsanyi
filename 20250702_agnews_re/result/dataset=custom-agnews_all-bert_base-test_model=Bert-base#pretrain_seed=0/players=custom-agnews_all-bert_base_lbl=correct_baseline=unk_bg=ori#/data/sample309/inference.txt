@@ -1,0 +1,54 @@
+Execution time: 2025-07-02 19:24:49
+prompt: [CLS] brown - forman corp. ( bfb. n : quote, profile, research ), which sells products ranging from jack daniels whiskey to lenox china, on thursday posted a better - than - expected 67 percent jump [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2829 decoded_text: brown
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:2433 decoded_text: form
+idx:4 input_id:2319 decoded_text: ##an
+idx:5 input_id:13058 decoded_text: corp
+idx:6 input_id:1012 decoded_text: .
+idx:7 input_id:1006 decoded_text: (
+idx:8 input_id:28939 decoded_text: bf
+idx:9 input_id:2497 decoded_text: ##b
+idx:10 input_id:1012 decoded_text: .
+idx:11 input_id:1050 decoded_text: n
+idx:12 input_id:1024 decoded_text: :
+idx:13 input_id:14686 decoded_text: quote
+idx:14 input_id:1010 decoded_text: ,
+idx:15 input_id:6337 decoded_text: profile
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:2470 decoded_text: research
+idx:18 input_id:1007 decoded_text: )
+idx:19 input_id:1010 decoded_text: ,
+idx:20 input_id:2029 decoded_text: which
+idx:21 input_id:15187 decoded_text: sells
+idx:22 input_id:3688 decoded_text: products
+idx:23 input_id:7478 decoded_text: ranging
+idx:24 input_id:2013 decoded_text: from
+idx:25 input_id:2990 decoded_text: jack
+idx:26 input_id:13196 decoded_text: daniels
+idx:27 input_id:13803 decoded_text: whiskey
+idx:28 input_id:2000 decoded_text: to
+idx:29 input_id:18798 decoded_text: len
+idx:30 input_id:11636 decoded_text: ##ox
+idx:31 input_id:2859 decoded_text: china
+idx:32 input_id:1010 decoded_text: ,
+idx:33 input_id:2006 decoded_text: on
+idx:34 input_id:9432 decoded_text: thursday
+idx:35 input_id:6866 decoded_text: posted
+idx:36 input_id:1037 decoded_text: a
+idx:37 input_id:2488 decoded_text: better
+idx:38 input_id:1011 decoded_text: -
+idx:39 input_id:2084 decoded_text: than
+idx:40 input_id:1011 decoded_text: -
+idx:41 input_id:3517 decoded_text: expected
+idx:42 input_id:6163 decoded_text: 67
+idx:43 input_id:3867 decoded_text: percent
+idx:44 input_id:5376 decoded_text: jump
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.854093313217163, -3.0284314155578613, 6.759701728820801, -2.726729154586792]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

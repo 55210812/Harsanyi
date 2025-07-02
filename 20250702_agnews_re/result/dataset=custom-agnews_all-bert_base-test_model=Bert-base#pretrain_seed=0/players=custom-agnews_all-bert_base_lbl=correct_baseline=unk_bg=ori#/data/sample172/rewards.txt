@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: tony
+Player 1: eury
+Player 2: sr.
+Player 3: oversees
+Player 4: dale
+Player 5: earnhardt
+Player 6: jr.
+Player 7: racetrack,
+Player 8: sunday
+Player 9: extended
+Player 10: domain
+Player 11: victory
+Player 12: lane.
+Player 13: earnhardt
+Player 14: unbuckling
+Player 15: crawl
+Player 16: no.
+---------- Rewards ----------
+v(): -0.45071566104888916	 ([])
+v(0 3 4 5 6 7 9 13 15): 8.556093215942383	 ([tony][oversees][dale][earnhardt][jr.][racetrack,][extended][earnhardt][crawl])
+v(8 10 11 12 14 16): -6.026482582092285	 ([sunday][domain][victory][lane.][unbuckling][no.])
+v(1 2): 2.9421229362487793	 ([eury][sr.])
+v(0 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.028034210205078	 ([tony][oversees][dale][earnhardt][jr.][racetrack,][sunday][extended][domain][victory][lane.][earnhardt][unbuckling][crawl][no.])
+v(0 1 2 3 4 5 6 7 9 13 15): 8.66878604888916	 ([tony][eury][sr.][oversees][dale][earnhardt][jr.][racetrack,][extended][earnhardt][crawl])
+v(1 2 8 10 11 12 14 16): -2.7412309646606445	 ([eury][sr.][sunday][domain][victory][lane.][unbuckling][no.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 8.715768814086914	 ([tony][eury][sr.][oversees][dale][earnhardt][jr.][racetrack,][sunday][extended][domain][victory][lane.][earnhardt][unbuckling][crawl][no.])
+---------- Rewards-v() ----------
+v(0 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.478750228881836, EP: 1.0340659618377686	 ([tony][oversees][dale][earnhardt][jr.][racetrack,][sunday][extended][domain][victory][lane.][earnhardt][unbuckling][crawl][no.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.166484832763672, EP: 1.0	 ([tony][eury][sr.][oversees][dale][earnhardt][jr.][racetrack,][sunday][extended][domain][victory][lane.][earnhardt][unbuckling][crawl][no.])
+v(0 1 2 3 4 5 6 7 9 13 15): 9.119502067565918, EP: 0.9948744773864746	 ([tony][eury][sr.][oversees][dale][earnhardt][jr.][racetrack,][extended][earnhardt][crawl])
+v(0 3 4 5 6 7 9 13 15): 9.00680923461914, EP: 0.9825804829597473	 ([tony][oversees][dale][earnhardt][jr.][racetrack,][extended][earnhardt][crawl])
+v(8 10 11 12 14 16): -5.5757670402526855, EP: -0.6082775592803955	 ([sunday][domain][victory][lane.][unbuckling][no.])
+v(1 2): 3.392838478088379, EP: 0.37013518810272217	 ([eury][sr.])
+v(1 2 8 10 11 12 14 16): -2.290515422821045, EP: -0.2498793601989746	 ([eury][sr.][sunday][domain][victory][lane.][unbuckling][no.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

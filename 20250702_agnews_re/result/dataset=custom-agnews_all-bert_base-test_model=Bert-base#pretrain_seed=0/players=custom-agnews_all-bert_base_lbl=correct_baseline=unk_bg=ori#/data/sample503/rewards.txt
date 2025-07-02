@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: us
+Player 1: secretary
+Player 2: state
+Player 3: colin
+Player 4: powell
+Player 5: convened
+Player 6: wednesday
+Player 7: new
+Player 8: york
+Player 9: counterparts
+Player 10: russia,
+Player 11: european
+Player 12: union
+Player 13: united
+Player 14: nations
+Player 15: making
+Player 16: informal
+Player 17: quartet
+Player 18: middle
+Player 19: east.
+---------- Rewards ----------
+v(): -5.37868070602417	 ([])
+v(3 4): 5.191560745239258	 ([colin][powell])
+v(0 1 2 9 10 11 15 16 17 18): 3.546480655670166	 ([us][secretary][state][counterparts][russia,][european][making][informal][quartet][middle])
+v(12 13 14): -0.0808706283569336	 ([union][united][nations])
+v(5 6 7 8 19): -1.2500063180923462	 ([convened][wednesday][new][york][east.])
+v(0 1 2 3 4 9 10 11 15 16 17 18): 7.16070556640625	 ([us][secretary][state][colin][powell][counterparts][russia,][european][making][informal][quartet][middle])
+v(3 4 12 13 14): 6.218723773956299	 ([colin][powell][union][united][nations])
+v(3 4 5 6 7 8 19): 7.135679721832275	 ([colin][powell][convened][wednesday][new][york][east.])
+v(0 1 2 9 10 11 12 13 14 15 16 17 18): 4.618693828582764	 ([us][secretary][state][counterparts][russia,][european][union][united][nations][making][informal][quartet][middle])
+v(0 1 2 5 6 7 8 9 10 11 15 16 17 18 19): 7.65663480758667	 ([us][secretary][state][convened][wednesday][new][york][counterparts][russia,][european][making][informal][quartet][middle][east.])
+v(5 6 7 8 12 13 14 19): 4.706711292266846	 ([convened][wednesday][new][york][union][united][nations][east.])
+v(0 1 2 3 4 9 10 11 12 13 14 15 16 17 18): 7.426727294921875	 ([us][secretary][state][colin][powell][counterparts][russia,][european][union][united][nations][making][informal][quartet][middle])
+v(0 1 2 3 4 5 6 7 8 9 10 11 15 16 17 18 19): 8.139249801635742	 ([us][secretary][state][colin][powell][convened][wednesday][new][york][counterparts][russia,][european][making][informal][quartet][middle][east.])
+v(3 4 5 6 7 8 12 13 14 19): 7.686147212982178	 ([colin][powell][convened][wednesday][new][york][union][united][nations][east.])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.6080403327941895	 ([us][secretary][state][convened][wednesday][new][york][counterparts][russia,][european][union][united][nations][making][informal][quartet][middle][east.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.154019355773926	 ([us][secretary][state][colin][powell][convened][wednesday][new][york][counterparts][russia,][european][union][united][nations][making][informal][quartet][middle][east.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.532699584960938, EP: 1.0	 ([us][secretary][state][colin][powell][convened][wednesday][new][york][counterparts][russia,][european][union][united][nations][making][informal][quartet][middle][east.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 15 16 17 18 19): 13.51793098449707, EP: 0.9989086985588074	 ([us][secretary][state][colin][powell][convened][wednesday][new][york][counterparts][russia,][european][making][informal][quartet][middle][east.])
+v(3 4 5 6 7 8 12 13 14 19): 13.064827919006348, EP: 0.9654265642166138	 ([colin][powell][convened][wednesday][new][york][union][united][nations][east.])
+v(0 1 2 5 6 7 8 9 10 11 15 16 17 18 19): 13.03531551361084, EP: 0.9632457494735718	 ([us][secretary][state][convened][wednesday][new][york][counterparts][russia,][european][making][informal][quartet][middle][east.])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 12.98672103881836, EP: 0.9596548676490784	 ([us][secretary][state][convened][wednesday][new][york][counterparts][russia,][european][union][united][nations][making][informal][quartet][middle][east.])
+v(0 1 2 3 4 9 10 11 12 13 14 15 16 17 18): 12.805408477783203, EP: 0.9462567567825317	 ([us][secretary][state][colin][powell][counterparts][russia,][european][union][united][nations][making][informal][quartet][middle])
+v(0 1 2 3 4 9 10 11 15 16 17 18): 12.539386749267578, EP: 0.9265990853309631	 ([us][secretary][state][colin][powell][counterparts][russia,][european][making][informal][quartet][middle])
+v(3 4 5 6 7 8 19): 12.514360427856445, EP: 0.9247497320175171	 ([colin][powell][convened][wednesday][new][york][east.])
+v(3 4 12 13 14): 11.597404479980469, EP: 0.8569912314414978	 ([colin][powell][union][united][nations])
+v(3 4): 10.570241928100586, EP: 0.7810889482498169	 ([colin][powell])
+v(5 6 7 8 12 13 14 19): 10.085391998291016, EP: 0.7452608942985535	 ([convened][wednesday][new][york][union][united][nations][east.])
+v(0 1 2 9 10 11 12 13 14 15 16 17 18): 9.997374534606934, EP: 0.7387568354606628	 ([us][secretary][state][counterparts][russia,][european][union][united][nations][making][informal][quartet][middle])
+v(0 1 2 9 10 11 15 16 17 18): 8.925161361694336, EP: 0.6595255732536316	 ([us][secretary][state][counterparts][russia,][european][making][informal][quartet][middle])
+v(12 13 14): 5.297810077667236, EP: 0.3914821445941925	 ([union][united][nations])
+v(5 6 7 8 19): 4.128674507141113, EP: 0.30508875846862793	 ([convened][wednesday][new][york][east.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

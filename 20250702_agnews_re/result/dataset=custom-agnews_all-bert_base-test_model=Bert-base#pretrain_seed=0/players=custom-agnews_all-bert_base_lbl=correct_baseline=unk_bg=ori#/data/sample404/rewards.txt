@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: justin
+Player 1: langer
+Player 2: hits
+Player 3: century
+Player 4: help
+Player 5: australia
+Player 6: reach
+Player 7: 220 - 5
+Player 8: tea
+Player 9: day
+Player 10: one
+Player 11: first
+Player 12: test
+Player 13: perth.
+---------- Rewards ----------
+v(): -7.262007713317871	 ([])
+v(0 1 2 5 7 8 12 13): -3.3680660724639893	 ([justin][langer][hits][australia][220 - 5][tea][test][perth.])
+v(3 4 6 9 10 11): -5.326503276824951	 ([century][help][reach][day][one][first])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 7.503656387329102	 ([justin][langer][hits][century][help][australia][reach][220 - 5][tea][day][one][first][test][perth.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 14.765664100646973, EP: 1.0	 ([justin][langer][hits][century][help][australia][reach][220 - 5][tea][day][one][first][test][perth.])
+v(0 1 2 5 7 8 12 13): 3.893941640853882, EP: 0.2637159824371338	 ([justin][langer][hits][australia][220 - 5][tea][test][perth.])
+v(3 4 6 9 10 11): 1.93550443649292, EP: 0.13108143210411072	 ([century][help][reach][day][one][first])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

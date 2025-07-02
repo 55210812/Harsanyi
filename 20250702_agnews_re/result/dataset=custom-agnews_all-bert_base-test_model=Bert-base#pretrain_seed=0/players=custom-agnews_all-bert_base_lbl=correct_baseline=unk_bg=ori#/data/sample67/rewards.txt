@@ -1,0 +1,94 @@
+---------- Players ----------
+Player 0: tokyo
+Player 1: - -
+Player 2: tokyo
+Player 3: stocks
+Player 4: closed
+Player 5: mixed
+Player 6: monday,
+Player 7: strength
+Player 8: bank
+Player 9: auto
+Player 10: maker
+Player 11: issues
+Player 12: helped
+Player 13: broader
+Player 14: market
+Player 15: index
+Player 16: eke
+Player 17: gains
+Player 18: 10th
+Player 19: straight
+Player 20: day
+Player 21: - -
+Player 22: longest
+Player 23: upswing
+Player 24: 14
+Player 25: years.
+---------- Rewards ----------
+v(): -3.542473077774048	 ([])
+v(0 1 2 13): 1.8386704921722412	 ([tokyo][- -][tokyo][broader])
+v(5 7 16 17): 0.002309441566467285	 ([mixed][strength][eke][gains])
+v(6 18 19 20 21): -3.3519508838653564	 ([monday,][10th][straight][day][- -])
+v(9 10 12 22 23 24 25): 5.512478828430176	 ([auto][maker][helped][longest][upswing][14][years.])
+v(3 4 8 11 14 15): 8.033170700073242	 ([stocks][closed][bank][issues][market][index])
+v(0 1 2 5 7 13 16 17): 3.1582212448120117	 ([tokyo][- -][tokyo][mixed][strength][broader][eke][gains])
+v(0 1 2 6 13 18 19 20 21): 0.9056658744812012	 ([tokyo][- -][tokyo][monday,][broader][10th][straight][day][- -])
+v(0 1 2 9 10 12 13 22 23 24 25): 6.671573162078857	 ([tokyo][- -][tokyo][auto][maker][helped][broader][longest][upswing][14][years.])
+v(0 1 2 3 4 8 11 13 14 15): 7.1780924797058105	 ([tokyo][- -][tokyo][stocks][closed][bank][issues][broader][market][index])
+v(5 6 7 16 17 18 19 20 21): 2.975080966949463	 ([mixed][monday,][strength][eke][gains][10th][straight][day][- -])
+v(5 7 9 10 12 16 17 22 23 24 25): 7.321564674377441	 ([mixed][strength][auto][maker][helped][eke][gains][longest][upswing][14][years.])
+v(3 4 5 7 8 11 14 15 16 17): 7.691802978515625	 ([stocks][closed][mixed][strength][bank][issues][market][index][eke][gains])
+v(6 9 10 12 18 19 20 21 22 23 24 25): 6.411731719970703	 ([monday,][auto][maker][helped][10th][straight][day][- -][longest][upswing][14][years.])
+v(3 4 6 8 11 14 15 18 19 20 21): 7.74990701675415	 ([stocks][closed][monday,][bank][issues][market][index][10th][straight][day][- -])
+v(3 4 8 9 10 11 12 14 15 22 23 24 25): 7.579754829406738	 ([stocks][closed][bank][auto][maker][issues][helped][market][index][longest][upswing][14][years.])
+v(0 1 2 5 6 7 13 16 17 18 19 20 21): 4.660298824310303	 ([tokyo][- -][tokyo][mixed][monday,][strength][broader][eke][gains][10th][straight][day][- -])
+v(0 1 2 5 7 9 10 12 13 16 17 22 23 24 25): 6.945035934448242	 ([tokyo][- -][tokyo][mixed][strength][auto][maker][helped][broader][eke][gains][longest][upswing][14][years.])
+v(0 1 2 3 4 5 7 8 11 13 14 15 16 17): 7.158590793609619	 ([tokyo][- -][tokyo][stocks][closed][mixed][strength][bank][issues][broader][market][index][eke][gains])
+v(0 1 2 6 9 10 12 13 18 19 20 21 22 23 24 25): 6.298702716827393	 ([tokyo][- -][tokyo][monday,][auto][maker][helped][broader][10th][straight][day][- -][longest][upswing][14][years.])
+v(0 1 2 3 4 6 8 11 13 14 15 18 19 20 21): 6.688595771789551	 ([tokyo][- -][tokyo][stocks][closed][monday,][bank][issues][broader][market][index][10th][straight][day][- -])
+v(0 1 2 3 4 8 9 10 11 12 13 14 15 22 23 24 25): 6.984340190887451	 ([tokyo][- -][tokyo][stocks][closed][bank][auto][maker][issues][helped][broader][market][index][longest][upswing][14][years.])
+v(5 6 7 9 10 12 16 17 18 19 20 21 22 23 24 25): 7.879584312438965	 ([mixed][monday,][strength][auto][maker][helped][eke][gains][10th][straight][day][- -][longest][upswing][14][years.])
+v(3 4 5 6 7 8 11 14 15 16 17 18 19 20 21): 7.480522155761719	 ([stocks][closed][mixed][monday,][strength][bank][issues][market][index][eke][gains][10th][straight][day][- -])
+v(3 4 5 7 8 9 10 11 12 14 15 16 17 22 23 24 25): 7.387230396270752	 ([stocks][closed][mixed][strength][bank][auto][maker][issues][helped][market][index][eke][gains][longest][upswing][14][years.])
+v(3 4 6 8 9 10 11 12 14 15 18 19 20 21 22 23 24 25): 7.663515090942383	 ([stocks][closed][monday,][bank][auto][maker][issues][helped][market][index][10th][straight][day][- -][longest][upswing][14][years.])
+v(0 1 2 5 6 7 9 10 12 13 16 17 18 19 20 21 22 23 24 25): 7.498414516448975	 ([tokyo][- -][tokyo][mixed][monday,][strength][auto][maker][helped][broader][eke][gains][10th][straight][day][- -][longest][upswing][14][years.])
+v(0 1 2 3 4 5 6 7 8 11 13 14 15 16 17 18 19 20 21): 7.031276702880859	 ([tokyo][- -][tokyo][stocks][closed][mixed][monday,][strength][bank][issues][broader][market][index][eke][gains][10th][straight][day][- -])
+v(0 1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17 22 23 24 25): 7.376550674438477	 ([tokyo][- -][tokyo][stocks][closed][mixed][strength][bank][auto][maker][issues][helped][broader][market][index][eke][gains][longest][upswing][14][years.])
+v(0 1 2 3 4 6 8 9 10 11 12 13 14 15 18 19 20 21 22 23 24 25): 7.102988243103027	 ([tokyo][- -][tokyo][stocks][closed][monday,][bank][auto][maker][issues][helped][broader][market][index][10th][straight][day][- -][longest][upswing][14][years.])
+v(3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 22 23 24 25): 7.627204895019531	 ([stocks][closed][mixed][monday,][strength][bank][auto][maker][issues][helped][market][index][eke][gains][10th][straight][day][- -][longest][upswing][14][years.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 7.801015853881836	 ([tokyo][- -][tokyo][stocks][closed][mixed][monday,][strength][bank][auto][maker][issues][helped][broader][market][index][eke][gains][10th][straight][day][- -][longest][upswing][14][years.])
+---------- Rewards-v() ----------
+v(3 4 8 11 14 15): 11.575643539428711, EP: 1.0204659700393677	 ([stocks][closed][bank][issues][market][index])
+v(5 6 7 9 10 12 16 17 18 19 20 21 22 23 24 25): 11.422057151794434, EP: 1.0069262981414795	 ([mixed][monday,][strength][auto][maker][helped][eke][gains][10th][straight][day][- -][longest][upswing][14][years.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 11.343488693237305, EP: 1.0	 ([tokyo][- -][tokyo][stocks][closed][mixed][monday,][strength][bank][auto][maker][issues][helped][broader][market][index][eke][gains][10th][straight][day][- -][longest][upswing][14][years.])
+v(3 4 6 8 11 14 15 18 19 20 21): 11.292380332946777, EP: 0.9954944849014282	 ([stocks][closed][monday,][bank][issues][market][index][10th][straight][day][- -])
+v(3 4 5 7 8 11 14 15 16 17): 11.234275817871094, EP: 0.9903721809387207	 ([stocks][closed][mixed][strength][bank][issues][market][index][eke][gains])
+v(3 4 6 8 9 10 11 12 14 15 18 19 20 21 22 23 24 25): 11.205987930297852, EP: 0.9878784418106079	 ([stocks][closed][monday,][bank][auto][maker][issues][helped][market][index][10th][straight][day][- -][longest][upswing][14][years.])
+v(3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 22 23 24 25): 11.169677734375, EP: 0.9846774935722351	 ([stocks][closed][mixed][monday,][strength][bank][auto][maker][issues][helped][market][index][eke][gains][10th][straight][day][- -][longest][upswing][14][years.])
+v(3 4 8 9 10 11 12 14 15 22 23 24 25): 11.122227668762207, EP: 0.9804944396018982	 ([stocks][closed][bank][auto][maker][issues][helped][market][index][longest][upswing][14][years.])
+v(0 1 2 5 6 7 9 10 12 13 16 17 18 19 20 21 22 23 24 25): 11.040887832641602, EP: 0.9733238220214844	 ([tokyo][- -][tokyo][mixed][monday,][strength][auto][maker][helped][broader][eke][gains][10th][straight][day][- -][longest][upswing][14][years.])
+v(3 4 5 6 7 8 11 14 15 16 17 18 19 20 21): 11.022994995117188, EP: 0.9717464447021484	 ([stocks][closed][mixed][monday,][strength][bank][issues][market][index][eke][gains][10th][straight][day][- -])
+v(3 4 5 7 8 9 10 11 12 14 15 16 17 22 23 24 25): 10.929703712463379, EP: 0.9635222554206848	 ([stocks][closed][mixed][strength][bank][auto][maker][issues][helped][market][index][eke][gains][longest][upswing][14][years.])
+v(0 1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17 22 23 24 25): 10.919023513793945, EP: 0.9625807404518127	 ([tokyo][- -][tokyo][stocks][closed][mixed][strength][bank][auto][maker][issues][helped][broader][market][index][eke][gains][longest][upswing][14][years.])
+v(5 7 9 10 12 16 17 22 23 24 25): 10.86403751373291, EP: 0.9577333331108093	 ([mixed][strength][auto][maker][helped][eke][gains][longest][upswing][14][years.])
+v(0 1 2 3 4 8 11 13 14 15): 10.720565795898438, EP: 0.9450854063034058	 ([tokyo][- -][tokyo][stocks][closed][bank][issues][broader][market][index])
+v(0 1 2 3 4 5 7 8 11 13 14 15 16 17): 10.701064109802246, EP: 0.9433662295341492	 ([tokyo][- -][tokyo][stocks][closed][mixed][strength][bank][issues][broader][market][index][eke][gains])
+v(0 1 2 3 4 6 8 9 10 11 12 13 14 15 18 19 20 21 22 23 24 25): 10.645461082458496, EP: 0.9384644627571106	 ([tokyo][- -][tokyo][stocks][closed][monday,][bank][auto][maker][issues][helped][broader][market][index][10th][straight][day][- -][longest][upswing][14][years.])
+v(0 1 2 3 4 5 6 7 8 11 13 14 15 16 17 18 19 20 21): 10.573749542236328, EP: 0.9321426153182983	 ([tokyo][- -][tokyo][stocks][closed][mixed][monday,][strength][bank][issues][broader][market][index][eke][gains][10th][straight][day][- -])
+v(0 1 2 3 4 8 9 10 11 12 13 14 15 22 23 24 25): 10.526813507080078, EP: 0.9280049204826355	 ([tokyo][- -][tokyo][stocks][closed][bank][auto][maker][issues][helped][broader][market][index][longest][upswing][14][years.])
+v(0 1 2 5 7 9 10 12 13 16 17 22 23 24 25): 10.487508773803711, EP: 0.9245399832725525	 ([tokyo][- -][tokyo][mixed][strength][auto][maker][helped][broader][eke][gains][longest][upswing][14][years.])
+v(0 1 2 3 4 6 8 11 13 14 15 18 19 20 21): 10.23106861114502, EP: 0.9019331336021423	 ([tokyo][- -][tokyo][stocks][closed][monday,][bank][issues][broader][market][index][10th][straight][day][- -])
+v(0 1 2 9 10 12 13 22 23 24 25): 10.214046478271484, EP: 0.9004325270652771	 ([tokyo][- -][tokyo][auto][maker][helped][broader][longest][upswing][14][years.])
+v(6 9 10 12 18 19 20 21 22 23 24 25): 9.954204559326172, EP: 0.8775258660316467	 ([monday,][auto][maker][helped][10th][straight][day][- -][longest][upswing][14][years.])
+v(0 1 2 6 9 10 12 13 18 19 20 21 22 23 24 25): 9.84117603302002, EP: 0.8675616979598999	 ([tokyo][- -][tokyo][monday,][auto][maker][helped][broader][10th][straight][day][- -][longest][upswing][14][years.])
+v(9 10 12 22 23 24 25): 9.054951667785645, EP: 0.7982510328292847	 ([auto][maker][helped][longest][upswing][14][years.])
+v(0 1 2 5 6 7 13 16 17 18 19 20 21): 8.20277214050293, EP: 0.7231260538101196	 ([tokyo][- -][tokyo][mixed][monday,][strength][broader][eke][gains][10th][straight][day][- -])
+v(0 1 2 5 7 13 16 17): 6.7006940841674805, EP: 0.5907083749771118	 ([tokyo][- -][tokyo][mixed][strength][broader][eke][gains])
+v(5 6 7 16 17 18 19 20 21): 6.51755428314209, EP: 0.5745635032653809	 ([mixed][monday,][strength][eke][gains][10th][straight][day][- -])
+v(0 1 2 13): 5.381143569946289, EP: 0.4743817150592804	 ([tokyo][- -][tokyo][broader])
+v(0 1 2 6 13 18 19 20 21): 4.448139190673828, EP: 0.392131507396698	 ([tokyo][- -][tokyo][monday,][broader][10th][straight][day][- -])
+v(5 7 16 17): 3.5447826385498047, EP: 0.3124949336051941	 ([mixed][strength][eke][gains])
+v(6 18 19 20 21): 0.1905221939086914, EP: 0.016795732080936432	 ([monday,][10th][straight][day][- -])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

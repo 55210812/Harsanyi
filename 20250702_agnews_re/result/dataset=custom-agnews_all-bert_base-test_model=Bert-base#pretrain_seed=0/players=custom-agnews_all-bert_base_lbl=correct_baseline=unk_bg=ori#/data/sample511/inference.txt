@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 19:29:59
+prompt: [CLS] us journalist micah garen was on sunday freed by an iraqi group who had held him hostage in the southern iraqi city of nassiriya. quot ; i am very grateful to everyone who worked to protect me [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2149 decoded_text: us
+idx:2 input_id:4988 decoded_text: journalist
+idx:3 input_id:17665 decoded_text: micah
+idx:4 input_id:11721 decoded_text: ga
+idx:5 input_id:7389 decoded_text: ##ren
+idx:6 input_id:2001 decoded_text: was
+idx:7 input_id:2006 decoded_text: on
+idx:8 input_id:4465 decoded_text: sunday
+idx:9 input_id:10650 decoded_text: freed
+idx:10 input_id:2011 decoded_text: by
+idx:11 input_id:2019 decoded_text: an
+idx:12 input_id:8956 decoded_text: iraqi
+idx:13 input_id:2177 decoded_text: group
+idx:14 input_id:2040 decoded_text: who
+idx:15 input_id:2018 decoded_text: had
+idx:16 input_id:2218 decoded_text: held
+idx:17 input_id:2032 decoded_text: him
+idx:18 input_id:13446 decoded_text: hostage
+idx:19 input_id:1999 decoded_text: in
+idx:20 input_id:1996 decoded_text: the
+idx:21 input_id:2670 decoded_text: southern
+idx:22 input_id:8956 decoded_text: iraqi
+idx:23 input_id:2103 decoded_text: city
+idx:24 input_id:1997 decoded_text: of
+idx:25 input_id:17235 decoded_text: nas
+idx:26 input_id:29481 decoded_text: ##sir
+idx:27 input_id:8717 decoded_text: ##iya
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:22035 decoded_text: quo
+idx:30 input_id:2102 decoded_text: ##t
+idx:31 input_id:1025 decoded_text: ;
+idx:32 input_id:1045 decoded_text: i
+idx:33 input_id:2572 decoded_text: am
+idx:34 input_id:2200 decoded_text: very
+idx:35 input_id:8794 decoded_text: grateful
+idx:36 input_id:2000 decoded_text: to
+idx:37 input_id:3071 decoded_text: everyone
+idx:38 input_id:2040 decoded_text: who
+idx:39 input_id:2499 decoded_text: worked
+idx:40 input_id:2000 decoded_text: to
+idx:41 input_id:4047 decoded_text: protect
+idx:42 input_id:2033 decoded_text: me
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.296462535858154, -1.987248182296753, -3.254439353942871, -0.8950579762458801]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

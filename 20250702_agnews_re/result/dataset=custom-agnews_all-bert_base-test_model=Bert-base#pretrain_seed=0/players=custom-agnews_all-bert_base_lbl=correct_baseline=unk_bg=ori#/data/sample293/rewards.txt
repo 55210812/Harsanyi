@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: us
+Player 1: virtually
+Player 2: defenceless
+Player 3: another
+Player 4: scandal
+Player 5: vioxx,
+Player 6: senators
+Player 7: investigating
+Player 8: mercks
+Player 9: withdrawal
+Player 10: popular
+Player 11: painkiller
+Player 12: told
+Player 13: yesterday.
+---------- Rewards ----------
+v(): -3.589364528656006	 ([])
+v(2 12): -6.566836833953857	 ([defenceless][told])
+v(0 4 5 8 13): 5.699689865112305	 ([us][scandal][vioxx,][mercks][yesterday.])
+v(1 3 6 7 9 10 11): -5.6473307609558105	 ([virtually][another][senators][investigating][withdrawal][popular][painkiller])
+v(0 2 4 5 8 12 13): 5.748570442199707	 ([us][defenceless][scandal][vioxx,][mercks][told][yesterday.])
+v(1 2 3 6 7 9 10 11 12): -5.697539329528809	 ([virtually][defenceless][another][senators][investigating][withdrawal][popular][painkiller][told])
+v(0 1 3 4 5 6 7 8 9 10 11 13): 4.400960922241211	 ([us][virtually][another][scandal][vioxx,][senators][investigating][mercks][withdrawal][popular][painkiller][yesterday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 5.167300224304199	 ([us][virtually][defenceless][another][scandal][vioxx,][senators][investigating][mercks][withdrawal][popular][painkiller][told][yesterday.])
+---------- Rewards-v() ----------
+v(0 2 4 5 8 12 13): 9.337934494018555, EP: 1.0663803815841675	 ([us][defenceless][scandal][vioxx,][mercks][told][yesterday.])
+v(0 4 5 8 13): 9.289054870605469, EP: 1.0607982873916626	 ([us][scandal][vioxx,][mercks][yesterday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 8.756664276123047, EP: 1.0	 ([us][virtually][defenceless][another][scandal][vioxx,][senators][investigating][mercks][withdrawal][popular][painkiller][told][yesterday.])
+v(0 1 3 4 5 6 7 8 9 10 11 13): 7.990325450897217, EP: 0.9124850630760193	 ([us][virtually][another][scandal][vioxx,][senators][investigating][mercks][withdrawal][popular][painkiller][yesterday.])
+v(2 12): -2.9774723052978516, EP: -0.34002357721328735	 ([defenceless][told])
+v(1 2 3 6 7 9 10 11 12): -2.1081748008728027, EP: -0.24075089395046234	 ([virtually][defenceless][another][senators][investigating][withdrawal][popular][painkiller][told])
+v(1 3 6 7 9 10 11): -2.0579662322998047, EP: -0.23501715064048767	 ([virtually][another][senators][investigating][withdrawal][popular][painkiller])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

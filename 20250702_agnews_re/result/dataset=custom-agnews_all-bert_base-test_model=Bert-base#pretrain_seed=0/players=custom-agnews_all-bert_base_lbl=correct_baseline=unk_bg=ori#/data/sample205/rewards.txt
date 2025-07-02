@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: fans
+Player 1: streamed
+Player 2: meadowlands
+Player 3: quite
+Player 4: early
+Player 5: last
+Player 6: time
+Player 7: new
+Player 8: york
+Player 9: jets
+Player 10: miami
+Player 11: dolphins
+Player 12: played
+Player 13: monday
+Player 14: night.
+Player 15: little
+Player 16: reason
+Player 17: stay.
+---------- Rewards ----------
+v(): -1.5783565044403076	 ([])
+v(0 1 2 7 10 11 12 15): 9.670171737670898	 ([fans][streamed][meadowlands][new][miami][dolphins][played][little])
+v(3 4 16 17): 2.0343217849731445	 ([quite][early][reason][stay.])
+v(5 6 8 9 13 14): -0.7299685478210449	 ([last][time][york][jets][monday][night.])
+v(0 1 2 3 4 7 10 11 12 15 16 17): 9.696334838867188	 ([fans][streamed][meadowlands][quite][early][new][miami][dolphins][played][little][reason][stay.])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15): 9.688720703125	 ([fans][streamed][meadowlands][last][time][new][york][jets][miami][dolphins][played][monday][night.][little])
+v(3 4 5 6 8 9 13 14 16 17): 3.5436360836029053	 ([quite][early][last][time][york][jets][monday][night.][reason][stay.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.440180778503418	 ([fans][streamed][meadowlands][quite][early][last][time][new][york][jets][miami][dolphins][played][monday][night.][little][reason][stay.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 7 10 11 12 15 16 17): 11.274691581726074, EP: 1.0232475996017456	 ([fans][streamed][meadowlands][quite][early][new][miami][dolphins][played][little][reason][stay.])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15): 11.267077445983887, EP: 1.0225565433502197	 ([fans][streamed][meadowlands][last][time][new][york][jets][miami][dolphins][played][monday][night.][little])
+v(0 1 2 7 10 11 12 15): 11.248528480529785, EP: 1.0208730697631836	 ([fans][streamed][meadowlands][new][miami][dolphins][played][little])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 11.018537521362305, EP: 1.0	 ([fans][streamed][meadowlands][quite][early][last][time][new][york][jets][miami][dolphins][played][monday][night.][little][reason][stay.])
+v(3 4 5 6 8 9 13 14 16 17): 5.121992588043213, EP: 0.46485230326652527	 ([quite][early][last][time][york][jets][monday][night.][reason][stay.])
+v(3 4 16 17): 3.612678289413452, EP: 0.32787275314331055	 ([quite][early][reason][stay.])
+v(5 6 8 9 13 14): 0.8483879566192627, EP: 0.07699642330408096	 ([last][time][york][jets][monday][night.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

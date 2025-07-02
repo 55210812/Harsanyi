@@ -1,0 +1,63 @@
+---------- Players ----------
+Player 0: tokyo
+Player 1: ( reuters )
+Player 2: -
+Player 3: strong
+Player 4: earthquake
+Player 5: preliminary
+Player 6: magnitude
+Player 7: 6. 8
+Player 8: two
+Player 9: big
+Player 10: aftershocks
+Player 11: hit
+Player 12: northern
+Player 13: japan
+Player 14: saturday,
+Player 15: derailing
+Player 16: train,
+Player 17: triggering
+Player 18: least
+Player 19: one
+Player 20: landslide
+Player 21: causing
+Player 22: widespread
+Player 23: power
+Player 24: outages,
+Player 25: media
+Player 26: reported.
+---------- Rewards ----------
+v(): -3.969597816467285	 ([])
+v(1 2 21 25 26): -3.198141574859619	 ([( reuters )][-][causing][media][reported.])
+v(8 11 12 13 18 19): 3.9431800842285156	 ([two][hit][northern][japan][least][one])
+v(4 5 6 7 9 10 17 24): -1.3009445667266846	 ([earthquake][preliminary][magnitude][6. 8][big][aftershocks][triggering][outages,])
+v(0 3 14 15 16 20 22 23): 7.626947402954102	 ([tokyo][strong][saturday,][derailing][train,][landslide][widespread][power])
+v(1 2 8 11 12 13 18 19 21 25 26): 7.062304496765137	 ([( reuters )][-][two][hit][northern][japan][least][one][causing][media][reported.])
+v(1 2 4 5 6 7 9 10 17 21 24 25 26): 3.4671826362609863	 ([( reuters )][-][earthquake][preliminary][magnitude][6. 8][big][aftershocks][triggering][causing][outages,][media][reported.])
+v(0 1 2 3 14 15 16 20 21 22 23 25 26): 7.668600082397461	 ([tokyo][( reuters )][-][strong][saturday,][derailing][train,][landslide][causing][widespread][power][media][reported.])
+v(4 5 6 7 8 9 10 11 12 13 17 18 19 24): 6.46840763092041	 ([earthquake][preliminary][magnitude][6. 8][two][big][aftershocks][hit][northern][japan][triggering][least][one][outages,])
+v(0 3 8 11 12 13 14 15 16 18 19 20 22 23): 8.239383697509766	 ([tokyo][strong][two][hit][northern][japan][saturday,][derailing][train,][least][one][landslide][widespread][power])
+v(0 3 4 5 6 7 9 10 14 15 16 17 20 22 23 24): 7.498525619506836	 ([tokyo][strong][earthquake][preliminary][magnitude][6. 8][big][aftershocks][saturday,][derailing][train,][triggering][landslide][widespread][power][outages,])
+v(1 2 4 5 6 7 8 9 10 11 12 13 17 18 19 21 24 25 26): 7.311829566955566	 ([( reuters )][-][earthquake][preliminary][magnitude][6. 8][two][big][aftershocks][hit][northern][japan][triggering][least][one][causing][outages,][media][reported.])
+v(0 1 2 3 8 11 12 13 14 15 16 18 19 20 21 22 23 25 26): 8.196590423583984	 ([tokyo][( reuters )][-][strong][two][hit][northern][japan][saturday,][derailing][train,][least][one][landslide][causing][widespread][power][media][reported.])
+v(0 1 2 3 4 5 6 7 9 10 14 15 16 17 20 21 22 23 24 25 26): 6.362040042877197	 ([tokyo][( reuters )][-][strong][earthquake][preliminary][magnitude][6. 8][big][aftershocks][saturday,][derailing][train,][triggering][landslide][causing][widespread][power][outages,][media][reported.])
+v(0 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 22 23 24): 8.127251625061035	 ([tokyo][strong][earthquake][preliminary][magnitude][6. 8][two][big][aftershocks][hit][northern][japan][saturday,][derailing][train,][triggering][least][one][landslide][widespread][power][outages,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 7.461438179016113	 ([tokyo][( reuters )][-][strong][earthquake][preliminary][magnitude][6. 8][two][big][aftershocks][hit][northern][japan][saturday,][derailing][train,][triggering][least][one][landslide][causing][widespread][power][outages,][media][reported.])
+---------- Rewards-v() ----------
+v(0 3 8 11 12 13 14 15 16 18 19 20 22 23): 12.20898151397705, EP: 1.068055510520935	 ([tokyo][strong][two][hit][northern][japan][saturday,][derailing][train,][least][one][landslide][widespread][power])
+v(0 1 2 3 8 11 12 13 14 15 16 18 19 20 21 22 23 25 26): 12.16618824005127, EP: 1.0643119812011719	 ([tokyo][( reuters )][-][strong][two][hit][northern][japan][saturday,][derailing][train,][least][one][landslide][causing][widespread][power][media][reported.])
+v(0 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 22 23 24): 12.09684944152832, EP: 1.05824613571167	 ([tokyo][strong][earthquake][preliminary][magnitude][6. 8][two][big][aftershocks][hit][northern][japan][saturday,][derailing][train,][triggering][least][one][landslide][widespread][power][outages,])
+v(0 1 2 3 14 15 16 20 21 22 23 25 26): 11.638197898864746, EP: 1.0181227922439575	 ([tokyo][( reuters )][-][strong][saturday,][derailing][train,][landslide][causing][widespread][power][media][reported.])
+v(0 3 14 15 16 20 22 23): 11.596545219421387, EP: 1.0144789218902588	 ([tokyo][strong][saturday,][derailing][train,][landslide][widespread][power])
+v(0 3 4 5 6 7 9 10 14 15 16 17 20 22 23 24): 11.468123435974121, EP: 1.003244400024414	 ([tokyo][strong][earthquake][preliminary][magnitude][6. 8][big][aftershocks][saturday,][derailing][train,][triggering][landslide][widespread][power][outages,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 11.431035995483398, EP: 1.0	 ([tokyo][( reuters )][-][strong][earthquake][preliminary][magnitude][6. 8][two][big][aftershocks][hit][northern][japan][saturday,][derailing][train,][triggering][least][one][landslide][causing][widespread][power][outages,][media][reported.])
+v(1 2 4 5 6 7 8 9 10 11 12 13 17 18 19 21 24 25 26): 11.281427383422852, EP: 0.9869120717048645	 ([( reuters )][-][earthquake][preliminary][magnitude][6. 8][two][big][aftershocks][hit][northern][japan][triggering][least][one][causing][outages,][media][reported.])
+v(1 2 8 11 12 13 18 19 21 25 26): 11.031902313232422, EP: 0.9650833606719971	 ([( reuters )][-][two][hit][northern][japan][least][one][causing][media][reported.])
+v(4 5 6 7 8 9 10 11 12 13 17 18 19 24): 10.438005447387695, EP: 0.9131285548210144	 ([earthquake][preliminary][magnitude][6. 8][two][big][aftershocks][hit][northern][japan][triggering][least][one][outages,])
+v(0 1 2 3 4 5 6 7 9 10 14 15 16 17 20 21 22 23 24 25 26): 10.33163833618164, EP: 0.9038234353065491	 ([tokyo][( reuters )][-][strong][earthquake][preliminary][magnitude][6. 8][big][aftershocks][saturday,][derailing][train,][triggering][landslide][causing][widespread][power][outages,][media][reported.])
+v(8 11 12 13 18 19): 7.912777900695801, EP: 0.6922187805175781	 ([two][hit][northern][japan][least][one])
+v(1 2 4 5 6 7 9 10 17 21 24 25 26): 7.4367804527282715, EP: 0.6505780220031738	 ([( reuters )][-][earthquake][preliminary][magnitude][6. 8][big][aftershocks][triggering][causing][outages,][media][reported.])
+v(4 5 6 7 9 10 17 24): 2.6686532497406006, EP: 0.2334568202495575	 ([earthquake][preliminary][magnitude][6. 8][big][aftershocks][triggering][outages,])
+v(1 2 21 25 26): 0.771456241607666, EP: 0.06748786568641663	 ([( reuters )][-][causing][media][reported.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

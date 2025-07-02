@@ -1,0 +1,62 @@
+---------- Players ----------
+Player 0: jabaliya,
+Player 1: gaza
+Player 2: stripthe
+Player 3: harvest
+Player 4: death
+Player 5: dispossessed
+Player 6: refugee
+Player 7: camps
+Player 8: continued
+Player 9: yesterday
+Player 10: israeli
+Player 11: army
+Player 12: finished
+Player 13: first
+Player 14: week
+Player 15: grim,
+Player 16: open - ended
+Player 17: manhunt
+Player 18: palestinian
+Player 19: militants,
+Player 20: killing
+Player 21: 10
+Player 22: people
+Player 23: wounding
+Player 24: least
+Player 25: nine.
+---------- Rewards ----------
+v(): -6.015233993530273	 ([])
+v(6 7 10 11 18 19): 6.335478782653809	 ([refugee][camps][israeli][army][palestinian][militants,])
+v(1 2 4 5 9 14 15 17 21 22): 7.709847450256348	 ([gaza][stripthe][death][dispossessed][yesterday][week][grim,][manhunt][10][people])
+v(0 3 20 23 24 25): 2.569871664047241	 ([jabaliya,][harvest][killing][wounding][least][nine.])
+v(8 12 13 16): -5.664817810058594	 ([continued][finished][first][open - ended])
+v(1 2 4 5 6 7 9 10 11 14 15 17 18 19 21 22): 7.614063739776611	 ([gaza][stripthe][death][dispossessed][refugee][camps][yesterday][israeli][army][week][grim,][manhunt][palestinian][militants,][10][people])
+v(0 3 6 7 10 11 18 19 20 23 24 25): 7.388305187225342	 ([jabaliya,][harvest][refugee][camps][israeli][army][palestinian][militants,][killing][wounding][least][nine.])
+v(6 7 8 10 11 12 13 16 18 19): 6.732593536376953	 ([refugee][camps][continued][israeli][army][finished][first][open - ended][palestinian][militants,])
+v(0 1 2 3 4 5 9 14 15 17 20 21 22 23 24 25): 7.487462997436523	 ([jabaliya,][gaza][stripthe][harvest][death][dispossessed][yesterday][week][grim,][manhunt][killing][10][people][wounding][least][nine.])
+v(1 2 4 5 8 9 12 13 14 15 16 17 21 22): 7.554351329803467	 ([gaza][stripthe][death][dispossessed][continued][yesterday][finished][first][week][grim,][open - ended][manhunt][10][people])
+v(0 3 8 12 13 16 20 23 24 25): 5.140712738037109	 ([jabaliya,][harvest][continued][finished][first][open - ended][killing][wounding][least][nine.])
+v(0 1 2 3 4 5 6 7 9 10 11 14 15 17 18 19 20 21 22 23 24 25): 7.786810874938965	 ([jabaliya,][gaza][stripthe][harvest][death][dispossessed][refugee][camps][yesterday][israeli][army][week][grim,][manhunt][palestinian][militants,][killing][10][people][wounding][least][nine.])
+v(1 2 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 22): 7.602029800415039	 ([gaza][stripthe][death][dispossessed][refugee][camps][continued][yesterday][israeli][army][finished][first][week][grim,][open - ended][manhunt][palestinian][militants,][10][people])
+v(0 3 6 7 8 10 11 12 13 16 18 19 20 23 24 25): 7.512411594390869	 ([jabaliya,][harvest][refugee][camps][continued][israeli][army][finished][first][open - ended][palestinian][militants,][killing][wounding][least][nine.])
+v(0 1 2 3 4 5 8 9 12 13 14 15 16 17 20 21 22 23 24 25): 7.436215400695801	 ([jabaliya,][gaza][stripthe][harvest][death][dispossessed][continued][yesterday][finished][first][week][grim,][open - ended][manhunt][killing][10][people][wounding][least][nine.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 7.83704137802124	 ([jabaliya,][gaza][stripthe][harvest][death][dispossessed][refugee][camps][continued][yesterday][israeli][army][finished][first][week][grim,][open - ended][manhunt][palestinian][militants,][killing][10][people][wounding][least][nine.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 13.852275848388672, EP: 1.0	 ([jabaliya,][gaza][stripthe][harvest][death][dispossessed][refugee][camps][continued][yesterday][israeli][army][finished][first][week][grim,][open - ended][manhunt][palestinian][militants,][killing][10][people][wounding][least][nine.])
+v(0 1 2 3 4 5 6 7 9 10 11 14 15 17 18 19 20 21 22 23 24 25): 13.802044868469238, EP: 0.9963738322257996	 ([jabaliya,][gaza][stripthe][harvest][death][dispossessed][refugee][camps][yesterday][israeli][army][week][grim,][manhunt][palestinian][militants,][killing][10][people][wounding][least][nine.])
+v(1 2 4 5 9 14 15 17 21 22): 13.725081443786621, EP: 0.9908177852630615	 ([gaza][stripthe][death][dispossessed][yesterday][week][grim,][manhunt][10][people])
+v(1 2 4 5 6 7 9 10 11 14 15 17 18 19 21 22): 13.629297256469727, EP: 0.9839031100273132	 ([gaza][stripthe][death][dispossessed][refugee][camps][yesterday][israeli][army][week][grim,][manhunt][palestinian][militants,][10][people])
+v(1 2 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 22): 13.617263793945312, EP: 0.9830344319343567	 ([gaza][stripthe][death][dispossessed][refugee][camps][continued][yesterday][israeli][army][finished][first][week][grim,][open - ended][manhunt][palestinian][militants,][10][people])
+v(1 2 4 5 8 9 12 13 14 15 16 17 21 22): 13.569585800170898, EP: 0.979592502117157	 ([gaza][stripthe][death][dispossessed][continued][yesterday][finished][first][week][grim,][open - ended][manhunt][10][people])
+v(0 3 6 7 8 10 11 12 13 16 18 19 20 23 24 25): 13.527645111083984, EP: 0.9765648245811462	 ([jabaliya,][harvest][refugee][camps][continued][israeli][army][finished][first][open - ended][palestinian][militants,][killing][wounding][least][nine.])
+v(0 1 2 3 4 5 9 14 15 17 20 21 22 23 24 25): 13.502696990966797, EP: 0.974763810634613	 ([jabaliya,][gaza][stripthe][harvest][death][dispossessed][yesterday][week][grim,][manhunt][killing][10][people][wounding][least][nine.])
+v(0 1 2 3 4 5 8 9 12 13 14 15 16 17 20 21 22 23 24 25): 13.451449394226074, EP: 0.9710642099380493	 ([jabaliya,][gaza][stripthe][harvest][death][dispossessed][continued][yesterday][finished][first][week][grim,][open - ended][manhunt][killing][10][people][wounding][least][nine.])
+v(0 3 6 7 10 11 18 19 20 23 24 25): 13.403539657592773, EP: 0.9676055908203125	 ([jabaliya,][harvest][refugee][camps][israeli][army][palestinian][militants,][killing][wounding][least][nine.])
+v(6 7 8 10 11 12 13 16 18 19): 12.747827529907227, EP: 0.9202695488929749	 ([refugee][camps][continued][israeli][army][finished][first][open - ended][palestinian][militants,])
+v(6 7 10 11 18 19): 12.350712776184082, EP: 0.8916016817092896	 ([refugee][camps][israeli][army][palestinian][militants,])
+v(0 3 8 12 13 16 20 23 24 25): 11.155946731567383, EP: 0.805351197719574	 ([jabaliya,][harvest][continued][finished][first][open - ended][killing][wounding][least][nine.])
+v(0 3 20 23 24 25): 8.585105895996094, EP: 0.6197614073753357	 ([jabaliya,][harvest][killing][wounding][least][nine.])
+v(8 12 13 16): 0.3504161834716797, EP: 0.025296650826931	 ([continued][finished][first][open - ended])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

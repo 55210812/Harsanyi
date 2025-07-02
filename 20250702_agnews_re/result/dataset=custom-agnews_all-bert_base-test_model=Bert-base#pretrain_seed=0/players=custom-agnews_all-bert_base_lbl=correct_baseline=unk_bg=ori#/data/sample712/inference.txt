@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 19:34:51
+prompt: [CLS] hyatt corp. has agreed to buy the amerisuites hotel chain from affiliates of private equity firm the blackstone group, hyatt said on thursday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1044 decoded_text: h
+idx:2 input_id:26139 decoded_text: ##yat
+idx:3 input_id:2102 decoded_text: ##t
+idx:4 input_id:13058 decoded_text: corp
+idx:5 input_id:1012 decoded_text: .
+idx:6 input_id:2038 decoded_text: has
+idx:7 input_id:3530 decoded_text: agreed
+idx:8 input_id:2000 decoded_text: to
+idx:9 input_id:4965 decoded_text: buy
+idx:10 input_id:1996 decoded_text: the
+idx:11 input_id:2572 decoded_text: am
+idx:12 input_id:11124 decoded_text: ##eri
+idx:13 input_id:28880 decoded_text: ##suit
+idx:14 input_id:2229 decoded_text: ##es
+idx:15 input_id:3309 decoded_text: hotel
+idx:16 input_id:4677 decoded_text: chain
+idx:17 input_id:2013 decoded_text: from
+idx:18 input_id:18460 decoded_text: affiliates
+idx:19 input_id:1997 decoded_text: of
+idx:20 input_id:2797 decoded_text: private
+idx:21 input_id:10067 decoded_text: equity
+idx:22 input_id:3813 decoded_text: firm
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:10823 decoded_text: blacks
+idx:25 input_id:5524 decoded_text: ##tone
+idx:26 input_id:2177 decoded_text: group
+idx:27 input_id:1010 decoded_text: ,
+idx:28 input_id:1044 decoded_text: h
+idx:29 input_id:26139 decoded_text: ##yat
+idx:30 input_id:2102 decoded_text: ##t
+idx:31 input_id:2056 decoded_text: said
+idx:32 input_id:2006 decoded_text: on
+idx:33 input_id:9432 decoded_text: thursday
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.1678850650787354, -3.039015769958496, 6.519232273101807, -3.286738872528076]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

@@ -1,0 +1,42 @@
+Execution time: 2025-07-02 19:36:28
+prompt: [CLS] the japanese economy is close to stagnation, according to revisions to official figures yesterday that cut the estimate of gdp growth to just 0. 1 per cent. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2887 decoded_text: japanese
+idx:3 input_id:4610 decoded_text: economy
+idx:4 input_id:2003 decoded_text: is
+idx:5 input_id:2485 decoded_text: close
+idx:6 input_id:2000 decoded_text: to
+idx:7 input_id:2358 decoded_text: st
+idx:8 input_id:8490 decoded_text: ##ag
+idx:9 input_id:9323 decoded_text: ##nation
+idx:10 input_id:1010 decoded_text: ,
+idx:11 input_id:2429 decoded_text: according
+idx:12 input_id:2000 decoded_text: to
+idx:13 input_id:24699 decoded_text: revisions
+idx:14 input_id:2000 decoded_text: to
+idx:15 input_id:2880 decoded_text: official
+idx:16 input_id:4481 decoded_text: figures
+idx:17 input_id:7483 decoded_text: yesterday
+idx:18 input_id:2008 decoded_text: that
+idx:19 input_id:3013 decoded_text: cut
+idx:20 input_id:1996 decoded_text: the
+idx:21 input_id:10197 decoded_text: estimate
+idx:22 input_id:1997 decoded_text: of
+idx:23 input_id:14230 decoded_text: gdp
+idx:24 input_id:3930 decoded_text: growth
+idx:25 input_id:2000 decoded_text: to
+idx:26 input_id:2074 decoded_text: just
+idx:27 input_id:1014 decoded_text: 0
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:1015 decoded_text: 1
+idx:30 input_id:2566 decoded_text: per
+idx:31 input_id:9358 decoded_text: cent
+idx:32 input_id:1012 decoded_text: .
+idx:33 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[2.203965187072754, -3.750112533569336, 4.3963494300842285, -4.226769924163818]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

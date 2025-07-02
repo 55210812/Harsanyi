@@ -1,0 +1,23 @@
+---------- Players ----------
+Player 0: deal
+Player 1: defense
+Player 2: logistics
+Player 3: agency
+Player 4: could
+Player 5: worth
+Player 6: much
+Player 7: \ $ 290
+Player 8: million
+Player 9: computing
+Player 10: giant. \
+---------- Rewards ----------
+v(): 3.9455182552337646	 ([])
+v(1 5 7 8 10): 7.540650844573975	 ([defense][worth][\ $ 290][million][giant. \])
+v(0 2 3 4 6 9): 2.2182517051696777	 ([deal][logistics][agency][could][much][computing])
+v(0 1 2 3 4 5 6 7 8 9 10): 8.396928787231445	 ([deal][defense][logistics][agency][could][worth][much][\ $ 290][million][computing][giant. \])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10): 4.451410293579102, EP: 1.0	 ([deal][defense][logistics][agency][could][worth][much][\ $ 290][million][computing][giant. \])
+v(1 5 7 8 10): 3.59513258934021, EP: 0.8076390027999878	 ([defense][worth][\ $ 290][million][giant. \])
+v(0 2 3 4 6 9): -1.727266550064087, EP: -0.38802680373191833	 ([deal][logistics][agency][could][much][computing])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

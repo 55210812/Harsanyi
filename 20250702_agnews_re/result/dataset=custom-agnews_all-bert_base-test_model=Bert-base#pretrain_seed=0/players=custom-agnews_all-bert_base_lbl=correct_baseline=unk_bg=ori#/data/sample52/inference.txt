@@ -1,0 +1,54 @@
+Execution time: 2025-07-02 19:18:50
+prompt: [CLS] clive brittain is a trainer who cannot see a horizon without wanting to cross it, and in the doughty and unflappable warrsan, he seems to have yet another horse who shares his endless enthusiasm. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:14675 decoded_text: clive
+idx:2 input_id:28101 decoded_text: brit
+idx:3 input_id:18249 decoded_text: ##tain
+idx:4 input_id:2003 decoded_text: is
+idx:5 input_id:1037 decoded_text: a
+idx:6 input_id:10365 decoded_text: trainer
+idx:7 input_id:2040 decoded_text: who
+idx:8 input_id:3685 decoded_text: cannot
+idx:9 input_id:2156 decoded_text: see
+idx:10 input_id:1037 decoded_text: a
+idx:11 input_id:9154 decoded_text: horizon
+idx:12 input_id:2302 decoded_text: without
+idx:13 input_id:5782 decoded_text: wanting
+idx:14 input_id:2000 decoded_text: to
+idx:15 input_id:2892 decoded_text: cross
+idx:16 input_id:2009 decoded_text: it
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:1998 decoded_text: and
+idx:19 input_id:1999 decoded_text: in
+idx:20 input_id:1996 decoded_text: the
+idx:21 input_id:23126 decoded_text: dough
+idx:22 input_id:3723 decoded_text: ##ty
+idx:23 input_id:1998 decoded_text: and
+idx:24 input_id:4895 decoded_text: un
+idx:25 input_id:10258 decoded_text: ##fl
+idx:26 input_id:29098 decoded_text: ##app
+idx:27 input_id:3085 decoded_text: ##able
+idx:28 input_id:2162 decoded_text: war
+idx:29 input_id:22381 decoded_text: ##rsa
+idx:30 input_id:2078 decoded_text: ##n
+idx:31 input_id:1010 decoded_text: ,
+idx:32 input_id:2002 decoded_text: he
+idx:33 input_id:3849 decoded_text: seems
+idx:34 input_id:2000 decoded_text: to
+idx:35 input_id:2031 decoded_text: have
+idx:36 input_id:2664 decoded_text: yet
+idx:37 input_id:2178 decoded_text: another
+idx:38 input_id:3586 decoded_text: horse
+idx:39 input_id:2040 decoded_text: who
+idx:40 input_id:6661 decoded_text: shares
+idx:41 input_id:2010 decoded_text: his
+idx:42 input_id:10866 decoded_text: endless
+idx:43 input_id:12024 decoded_text: enthusiasm
+idx:44 input_id:1012 decoded_text: .
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[0.036529090255498886, 6.475009918212891, -2.1001877784729004, -3.3394405841827393]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

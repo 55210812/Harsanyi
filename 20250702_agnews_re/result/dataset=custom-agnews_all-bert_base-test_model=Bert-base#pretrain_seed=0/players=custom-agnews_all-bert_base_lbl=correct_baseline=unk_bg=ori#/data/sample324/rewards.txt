@@ -1,0 +1,49 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: kenneth
+Player 3: darby
+Player 4: rushed
+Player 5: 197
+Player 6: yards
+Player 7: scored
+Player 8: two
+Player 9: touchdowns,
+Player 10: one
+Player 11: run
+Player 12: one
+Player 13: pass,
+Player 14: alabama
+Player 15: beat
+Player 16: no.
+Player 17: 24
+Player 18: southern
+Player 19: mississippi
+Player 20: 27 - 3
+Player 21: saturday
+Player 22: first
+Player 23: win
+Player 24: ranked
+Player 25: opponent
+Player 26: nearly
+Player 27: two
+Player 28: years.
+---------- Rewards ----------
+v(): -6.364742755889893	 ([])
+v(1 4 7 8 9 10 12 22 24 25): 6.730777740478516	 ([-][rushed][scored][two][touchdowns,][one][one][first][ranked][opponent])
+v(6 11 13 14 15 16 17 18 19 20): 6.038322925567627	 ([yards][run][pass,][alabama][beat][no.][24][southern][mississippi][27 - 3])
+v(0 2 3 5 21 23 26 27 28): 2.8038196563720703	 ([ap][kenneth][darby][197][saturday][win][nearly][two][years.])
+v(1 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 22 24 25): 7.981309413909912	 ([-][rushed][yards][scored][two][touchdowns,][one][run][one][pass,][alabama][beat][no.][24][southern][mississippi][27 - 3][first][ranked][opponent])
+v(0 1 2 3 4 5 7 8 9 10 12 21 22 23 24 25 26 27 28): 9.70092487335205	 ([ap][-][kenneth][darby][rushed][197][scored][two][touchdowns,][one][one][saturday][first][win][ranked][opponent][nearly][two][years.])
+v(0 2 3 5 6 11 13 14 15 16 17 18 19 20 21 23 26 27 28): 8.3916597366333	 ([ap][kenneth][darby][197][yards][run][pass,][alabama][beat][no.][24][southern][mississippi][27 - 3][saturday][win][nearly][two][years.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 9.41266918182373	 ([ap][-][kenneth][darby][rushed][197][yards][scored][two][touchdowns,][one][run][one][pass,][alabama][beat][no.][24][southern][mississippi][27 - 3][saturday][first][win][ranked][opponent][nearly][two][years.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 7 8 9 10 12 21 22 23 24 25 26 27 28): 16.0656681060791, EP: 1.0182701349258423	 ([ap][-][kenneth][darby][rushed][197][scored][two][touchdowns,][one][one][saturday][first][win][ranked][opponent][nearly][two][years.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 15.777412414550781, EP: 1.0	 ([ap][-][kenneth][darby][rushed][197][yards][scored][two][touchdowns,][one][run][one][pass,][alabama][beat][no.][24][southern][mississippi][27 - 3][saturday][first][win][ranked][opponent][nearly][two][years.])
+v(0 2 3 5 6 11 13 14 15 16 17 18 19 20 21 23 26 27 28): 14.756402969360352, EP: 0.9352866411209106	 ([ap][kenneth][darby][197][yards][run][pass,][alabama][beat][no.][24][southern][mississippi][27 - 3][saturday][win][nearly][two][years.])
+v(1 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 22 24 25): 14.346052169799805, EP: 0.9092778563499451	 ([-][rushed][yards][scored][two][touchdowns,][one][run][one][pass,][alabama][beat][no.][24][southern][mississippi][27 - 3][first][ranked][opponent])
+v(1 4 7 8 9 10 12 22 24 25): 13.09552001953125, EP: 0.8300169706344604	 ([-][rushed][scored][two][touchdowns,][one][one][first][ranked][opponent])
+v(6 11 13 14 15 16 17 18 19 20): 12.40306568145752, EP: 0.7861279845237732	 ([yards][run][pass,][alabama][beat][no.][24][southern][mississippi][27 - 3])
+v(0 2 3 5 21 23 26 27 28): 9.168561935424805, EP: 0.5811194777488708	 ([ap][kenneth][darby][197][saturday][win][nearly][two][years.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

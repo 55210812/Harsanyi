@@ -1,0 +1,46 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: overture
+Player 3: services,
+Player 4: yahoo
+Player 5: inc.'s \
+Player 6: web - search
+Player 7: advertising
+Player 8: unit,
+Player 9: monday
+Player 10: said
+Player 11: plans \ to
+Player 12: enter
+Player 13: five
+Player 14: new
+Player 15: international
+Player 16: markets
+Player 17: coming
+Player 18: months
+Player 19: as \ the
+Player 20: internet
+Player 21: media
+Player 22: company
+Player 23: continues
+Player 24: broaden
+Player 25: global \ reach.
+---------- Rewards ----------
+v(): 2.052290201187134	 ([])
+v(0 1 2 3 5 7 10 16 22): -0.9946622848510742	 ([reuters][-][overture][services,][inc.'s \][advertising][said][markets][company])
+v(4 6 11 12 19 20 21 24): 8.360082626342773	 ([yahoo][web - search][plans \ to][enter][as \ the][internet][media][broaden])
+v(8 9 13 14 15 17 18 23 25): 0.43975985050201416	 ([unit,][monday][five][new][international][coming][months][continues][global \ reach.])
+v(0 1 2 3 4 5 6 7 10 11 12 16 19 20 21 22 24): 8.215696334838867	 ([reuters][-][overture][services,][yahoo][inc.'s \][web - search][advertising][said][plans \ to][enter][markets][as \ the][internet][media][company][broaden])
+v(0 1 2 3 5 7 8 9 10 13 14 15 16 17 18 22 23 25): -0.9681315422058105	 ([reuters][-][overture][services,][inc.'s \][advertising][unit,][monday][said][five][new][international][markets][coming][months][company][continues][global \ reach.])
+v(4 6 8 9 11 12 13 14 15 17 18 19 20 21 23 24 25): 7.82436466217041	 ([yahoo][web - search][unit,][monday][plans \ to][enter][five][new][international][coming][months][as \ the][internet][media][continues][broaden][global \ reach.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 7.871129035949707	 ([reuters][-][overture][services,][yahoo][inc.'s \][web - search][advertising][unit,][monday][said][plans \ to][enter][five][new][international][markets][coming][months][as \ the][internet][media][company][continues][broaden][global \ reach.])
+---------- Rewards-v() ----------
+v(4 6 11 12 19 20 21 24): 6.307792663574219, EP: 1.0840294361114502	 ([yahoo][web - search][plans \ to][enter][as \ the][internet][media][broaden])
+v(0 1 2 3 4 5 6 7 10 11 12 16 19 20 21 22 24): 6.1634063720703125, EP: 1.059215784072876	 ([reuters][-][overture][services,][yahoo][inc.'s \][web - search][advertising][said][plans \ to][enter][markets][as \ the][internet][media][company][broaden])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 5.818839073181152, EP: 1.0	 ([reuters][-][overture][services,][yahoo][inc.'s \][web - search][advertising][unit,][monday][said][plans \ to][enter][five][new][international][markets][coming][months][as \ the][internet][media][company][continues][broaden][global \ reach.])
+v(4 6 8 9 11 12 13 14 15 17 18 19 20 21 23 24 25): 5.7720746994018555, EP: 0.991963267326355	 ([yahoo][web - search][unit,][monday][plans \ to][enter][five][new][international][coming][months][as \ the][internet][media][continues][broaden][global \ reach.])
+v(0 1 2 3 5 7 10 16 22): -3.046952486038208, EP: -0.5236358046531677	 ([reuters][-][overture][services,][inc.'s \][advertising][said][markets][company])
+v(0 1 2 3 5 7 8 9 10 13 14 15 16 17 18 22 23 25): -3.0204217433929443, EP: -0.5190763473510742	 ([reuters][-][overture][services,][inc.'s \][advertising][unit,][monday][said][five][new][international][markets][coming][months][company][continues][global \ reach.])
+v(8 9 13 14 15 17 18 23 25): -1.6125303506851196, EP: -0.2771223485469818	 ([unit,][monday][five][new][international][coming][months][continues][global \ reach.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

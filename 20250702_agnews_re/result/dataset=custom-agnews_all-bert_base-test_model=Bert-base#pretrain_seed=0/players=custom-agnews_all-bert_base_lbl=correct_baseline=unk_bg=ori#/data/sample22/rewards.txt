@@ -1,0 +1,29 @@
+---------- Players ----------
+Player 0: many
+Player 1: 12
+Player 2: palestinians
+Player 3: died
+Player 4: four
+Player 5: separate
+Player 6: incidents
+Player 7: saturday
+Player 8: gaza,
+Player 9: another
+Player 10: day
+Player 11: escalating
+Player 12: violence
+Player 13: israeli
+Player 14: forces
+Player 15: palestinian
+Player 16: militants.
+---------- Rewards ----------
+v(): -7.627294063568115	 ([])
+v(2 8 13 15 16): 7.877368927001953	 ([palestinians][gaza,][israeli][palestinian][militants.])
+v(0 1 3 4 5 6 7 9 10 11 12 14): 5.681136131286621	 ([many][12][died][four][separate][incidents][saturday][another][day][escalating][violence][forces])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.565892219543457	 ([many][12][palestinians][died][four][separate][incidents][saturday][gaza,][another][day][escalating][violence][israeli][forces][palestinian][militants.])
+---------- Rewards-v() ----------
+v(2 8 13 15 16): 15.504663467407227, EP: 1.0205011367797852	 ([palestinians][gaza,][israeli][palestinian][militants.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 15.193185806274414, EP: 1.0	 ([many][12][palestinians][died][four][separate][incidents][saturday][gaza,][another][day][escalating][violence][israeli][forces][palestinian][militants.])
+v(0 1 3 4 5 6 7 9 10 11 12 14): 13.308429718017578, EP: 0.8759472966194153	 ([many][12][died][four][separate][incidents][saturday][another][day][escalating][violence][forces])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

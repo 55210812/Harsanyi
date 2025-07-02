@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 19:36:45
+prompt: [CLS] tokyo ( reuters ) - japan's nikkei average edged up 0. 25 percent at the opening on tuesday as investors stayed optimistic about japan's economy and bought banks and insurance firms. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:5522 decoded_text: tokyo
+idx:2 input_id:1006 decoded_text: (
+idx:3 input_id:26665 decoded_text: reuters
+idx:4 input_id:1007 decoded_text: )
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:2900 decoded_text: japan
+idx:7 input_id:1005 decoded_text: '
+idx:8 input_id:1055 decoded_text: s
+idx:9 input_id:23205 decoded_text: nik
+idx:10 input_id:29501 decoded_text: ##kei
+idx:11 input_id:2779 decoded_text: average
+idx:12 input_id:13011 decoded_text: edged
+idx:13 input_id:2039 decoded_text: up
+idx:14 input_id:1014 decoded_text: 0
+idx:15 input_id:1012 decoded_text: .
+idx:16 input_id:2423 decoded_text: 25
+idx:17 input_id:3867 decoded_text: percent
+idx:18 input_id:2012 decoded_text: at
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:3098 decoded_text: opening
+idx:21 input_id:2006 decoded_text: on
+idx:22 input_id:9857 decoded_text: tuesday
+idx:23 input_id:2004 decoded_text: as
+idx:24 input_id:9387 decoded_text: investors
+idx:25 input_id:4370 decoded_text: stayed
+idx:26 input_id:21931 decoded_text: optimistic
+idx:27 input_id:2055 decoded_text: about
+idx:28 input_id:2900 decoded_text: japan
+idx:29 input_id:1005 decoded_text: '
+idx:30 input_id:1055 decoded_text: s
+idx:31 input_id:4610 decoded_text: economy
+idx:32 input_id:1998 decoded_text: and
+idx:33 input_id:4149 decoded_text: bought
+idx:34 input_id:5085 decoded_text: banks
+idx:35 input_id:1998 decoded_text: and
+idx:36 input_id:5427 decoded_text: insurance
+idx:37 input_id:9786 decoded_text: firms
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.1939750909805298, -3.398634195327759, 6.314144134521484, -3.5869505405426025]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

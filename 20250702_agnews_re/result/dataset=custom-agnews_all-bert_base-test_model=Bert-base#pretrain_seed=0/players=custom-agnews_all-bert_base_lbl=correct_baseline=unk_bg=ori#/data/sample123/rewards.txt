@@ -1,0 +1,53 @@
+---------- Players ----------
+Player 0: possible
+Player 1: giants
+Player 2: fans
+Player 3: seen
+Player 4: last
+Player 5: dynamic
+Player 6: jeremy
+Player 7: shockey
+Player 8: bursts
+Player 9: screen
+Player 10: opposing
+Player 11: defenses
+Player 12: dominates
+Player 13: highlight
+Player 14: films
+Player 15: near
+Player 16: far?
+---------- Rewards ----------
+v(): -5.937053203582764	 ([])
+v(4 5 6 7): 6.886112689971924	 ([last][dynamic][jeremy][shockey])
+v(1 2 10 12 14): -0.7438244819641113	 ([giants][fans][opposing][dominates][films])
+v(3 8 9): -6.766759395599365	 ([seen][bursts][screen])
+v(0 11 13 15 16): -7.310216426849365	 ([possible][defenses][highlight][near][far?])
+v(1 2 4 5 6 7 10 12 14): 5.349658966064453	 ([giants][fans][last][dynamic][jeremy][shockey][opposing][dominates][films])
+v(3 4 5 6 7 8 9): 5.078450679779053	 ([seen][last][dynamic][jeremy][shockey][bursts][screen])
+v(0 4 5 6 7 11 13 15 16): 7.611907482147217	 ([possible][last][dynamic][jeremy][shockey][defenses][highlight][near][far?])
+v(1 2 3 8 9 10 12 14): -0.7728725671768188	 ([giants][fans][seen][bursts][screen][opposing][dominates][films])
+v(0 1 2 10 11 12 13 14 15 16): 6.419288635253906	 ([possible][giants][fans][opposing][defenses][dominates][highlight][films][near][far?])
+v(0 3 8 9 11 13 15 16): -7.249396800994873	 ([possible][seen][bursts][screen][defenses][highlight][near][far?])
+v(1 2 3 4 5 6 7 8 9 10 12 14): 4.710677623748779	 ([giants][fans][seen][last][dynamic][jeremy][shockey][bursts][screen][opposing][dominates][films])
+v(0 1 2 4 5 6 7 10 11 12 13 14 15 16): 9.018939018249512	 ([possible][giants][fans][last][dynamic][jeremy][shockey][opposing][defenses][dominates][highlight][films][near][far?])
+v(0 3 4 5 6 7 8 9 11 13 15 16): 6.0758442878723145	 ([possible][seen][last][dynamic][jeremy][shockey][bursts][screen][defenses][highlight][near][far?])
+v(0 1 2 3 8 9 10 11 12 13 14 15 16): 4.33193302154541	 ([possible][giants][fans][seen][bursts][screen][opposing][defenses][dominates][highlight][films][near][far?])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.984688758850098	 ([possible][giants][fans][seen][last][dynamic][jeremy][shockey][bursts][screen][opposing][defenses][dominates][highlight][films][near][far?])
+---------- Rewards-v() ----------
+v(0 1 2 4 5 6 7 10 11 12 13 14 15 16): 14.955991744995117, EP: 1.0742902755737305	 ([possible][giants][fans][last][dynamic][jeremy][shockey][opposing][defenses][dominates][highlight][films][near][far?])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 13.921741485595703, EP: 1.0	 ([possible][giants][fans][seen][last][dynamic][jeremy][shockey][bursts][screen][opposing][defenses][dominates][highlight][films][near][far?])
+v(0 4 5 6 7 11 13 15 16): 13.54896068572998, EP: 0.9732231497764587	 ([possible][last][dynamic][jeremy][shockey][defenses][highlight][near][far?])
+v(4 5 6 7): 12.823165893554688, EP: 0.921089231967926	 ([last][dynamic][jeremy][shockey])
+v(0 1 2 10 11 12 13 14 15 16): 12.356342315673828, EP: 0.8875572085380554	 ([possible][giants][fans][opposing][defenses][dominates][highlight][films][near][far?])
+v(0 3 4 5 6 7 8 9 11 13 15 16): 12.012897491455078, EP: 0.8628875613212585	 ([possible][seen][last][dynamic][jeremy][shockey][bursts][screen][defenses][highlight][near][far?])
+v(1 2 4 5 6 7 10 12 14): 11.286712646484375, EP: 0.8107256293296814	 ([giants][fans][last][dynamic][jeremy][shockey][opposing][dominates][films])
+v(3 4 5 6 7 8 9): 11.015503883361816, EP: 0.7912446856498718	 ([seen][last][dynamic][jeremy][shockey][bursts][screen])
+v(1 2 3 4 5 6 7 8 9 10 12 14): 10.647730827331543, EP: 0.7648274898529053	 ([giants][fans][seen][last][dynamic][jeremy][shockey][bursts][screen][opposing][dominates][films])
+v(0 1 2 3 8 9 10 11 12 13 14 15 16): 10.268985748291016, EP: 0.7376222014427185	 ([possible][giants][fans][seen][bursts][screen][opposing][defenses][dominates][highlight][films][near][far?])
+v(1 2 10 12 14): 5.193228721618652, EP: 0.3730300962924957	 ([giants][fans][opposing][dominates][films])
+v(1 2 3 8 9 10 12 14): 5.164180755615234, EP: 0.3709435760974884	 ([giants][fans][seen][bursts][screen][opposing][dominates][films])
+v(0 11 13 15 16): -1.3731632232666016, EP: -0.09863444417715073	 ([possible][defenses][highlight][near][far?])
+v(0 3 8 9 11 13 15 16): -1.3123435974121094, EP: -0.09426576644182205	 ([possible][seen][bursts][screen][defenses][highlight][near][far?])
+v(3 8 9): -0.8297061920166016, EP: -0.05959787219762802	 ([seen][bursts][screen])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

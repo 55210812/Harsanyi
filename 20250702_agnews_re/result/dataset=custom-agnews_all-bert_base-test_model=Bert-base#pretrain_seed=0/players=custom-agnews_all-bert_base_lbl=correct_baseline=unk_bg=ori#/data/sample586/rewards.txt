@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: ibm,
+Player 1: revolutionised
+Player 2: global
+Player 3: computer
+Player 4: industry
+Player 5: launched
+Player 6: first
+Player 7: desktop
+Player 8: 1981,
+Player 9: sold
+Player 10: pc
+Player 11: business
+Player 12: chinese
+Player 13: group
+Player 14: \ $ 1. 75bn
+Player 15: ( 900m )
+Player 16: deal,
+Player 17: confirmed
+Player 18: today.
+---------- Rewards ----------
+v(): -4.30783748626709	 ([])
+v(3 4 7 9 10): -3.2322521209716797	 ([computer][industry][desktop][sold][pc])
+v(1 8 14 15 16): 0.6393234729766846	 ([revolutionised][1981,][\ $ 1. 75bn][( 900m )][deal,])
+v(0 2 5 6 11 12 13 17 18): -0.1726703643798828	 ([ibm,][global][launched][first][business][chinese][group][confirmed][today.])
+v(1 3 4 7 8 9 10 14 15 16): -3.317568778991699	 ([revolutionised][computer][industry][desktop][1981,][sold][pc][\ $ 1. 75bn][( 900m )][deal,])
+v(0 2 3 4 5 6 7 9 10 11 12 13 17 18): 2.0622310638427734	 ([ibm,][global][computer][industry][launched][first][desktop][sold][pc][business][chinese][group][confirmed][today.])
+v(0 1 2 5 6 8 11 12 13 14 15 16 17 18): 1.382601022720337	 ([ibm,][revolutionised][global][launched][first][1981,][business][chinese][group][\ $ 1. 75bn][( 900m )][deal,][confirmed][today.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 3.5199599266052246	 ([ibm,][revolutionised][global][computer][industry][launched][first][desktop][1981,][sold][pc][business][chinese][group][\ $ 1. 75bn][( 900m )][deal,][confirmed][today.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.8277974128723145, EP: 1.0	 ([ibm,][revolutionised][global][computer][industry][launched][first][desktop][1981,][sold][pc][business][chinese][group][\ $ 1. 75bn][( 900m )][deal,][confirmed][today.])
+v(0 2 3 4 5 6 7 9 10 11 12 13 17 18): 6.370068550109863, EP: 0.813775360584259	 ([ibm,][global][computer][industry][launched][first][desktop][sold][pc][business][chinese][group][confirmed][today.])
+v(0 1 2 5 6 8 11 12 13 14 15 16 17 18): 5.690438270568848, EP: 0.7269526720046997	 ([ibm,][revolutionised][global][launched][first][1981,][business][chinese][group][\ $ 1. 75bn][( 900m )][deal,][confirmed][today.])
+v(1 8 14 15 16): 4.947160720825195, EP: 0.6319990754127502	 ([revolutionised][1981,][\ $ 1. 75bn][( 900m )][deal,])
+v(0 2 5 6 11 12 13 17 18): 4.135167121887207, EP: 0.5282670259475708	 ([ibm,][global][launched][first][business][chinese][group][confirmed][today.])
+v(3 4 7 9 10): 1.0755853652954102, EP: 0.1374058723449707	 ([computer][industry][desktop][sold][pc])
+v(1 3 4 7 8 9 10 14 15 16): 0.9902687072753906, EP: 0.12650668621063232	 ([revolutionised][computer][industry][desktop][1981,][sold][pc][\ $ 1. 75bn][( 900m )][deal,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

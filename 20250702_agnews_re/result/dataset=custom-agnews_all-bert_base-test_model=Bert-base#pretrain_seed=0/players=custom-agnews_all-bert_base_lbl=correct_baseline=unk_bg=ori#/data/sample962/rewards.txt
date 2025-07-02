@@ -1,0 +1,90 @@
+---------- Players ----------
+Player 0: rape
+Player 1: case
+Player 2: kobe
+Player 3: bryant
+Player 4: finally
+Player 5: fell
+Player 6: pieces
+Player 7: shortly
+Player 8: 11
+Player 9: wednesday,
+Player 10: accuser
+Player 11: called
+Player 12: district
+Player 13: attorney
+Player 14: mark
+Player 15: hurlbert
+Player 16: say
+Player 17: # 39 ; d
+Player 18: enough
+Player 19: would
+Player 20: longer
+Player 21: co - operate.
+---------- Rewards ----------
+v(): -0.02977275848388672	 ([])
+v(2 3): 9.706892013549805	 ([kobe][bryant])
+v(0 10 11 12 13): -4.216536045074463	 ([rape][accuser][called][district][attorney])
+v(14 15 16 17): 4.9933271408081055	 ([mark][hurlbert][say][# 39 ; d])
+v(4 5 6 18 19 20 21): 0.18895840644836426	 ([finally][fell][pieces][enough][would][longer][co - operate.])
+v(1 7 8 9): 0.1913062334060669	 ([case][shortly][11][wednesday,])
+v(0 2 3 10 11 12 13): 9.596055030822754	 ([rape][kobe][bryant][accuser][called][district][attorney])
+v(2 3 14 15 16 17): 9.736160278320312	 ([kobe][bryant][mark][hurlbert][say][# 39 ; d])
+v(2 3 4 5 6 18 19 20 21): 9.731261253356934	 ([kobe][bryant][finally][fell][pieces][enough][would][longer][co - operate.])
+v(1 2 3 7 8 9): 9.751136779785156	 ([case][kobe][bryant][shortly][11][wednesday,])
+v(0 10 11 12 13 14 15 16 17): -0.5078284740447998	 ([rape][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d])
+v(0 4 5 6 10 11 12 13 18 19 20 21): -3.9888291358947754	 ([rape][finally][fell][pieces][accuser][called][district][attorney][enough][would][longer][co - operate.])
+v(0 1 7 8 9 10 11 12 13): -4.131376266479492	 ([rape][case][shortly][11][wednesday,][accuser][called][district][attorney])
+v(4 5 6 14 15 16 17 18 19 20 21): 3.6805763244628906	 ([finally][fell][pieces][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(1 7 8 9 14 15 16 17): 4.9156951904296875	 ([case][shortly][11][wednesday,][mark][hurlbert][say][# 39 ; d])
+v(1 4 5 6 7 8 9 18 19 20 21): 0.2245805263519287	 ([case][finally][fell][pieces][shortly][11][wednesday,][enough][would][longer][co - operate.])
+v(0 2 3 10 11 12 13 14 15 16 17): 9.737038612365723	 ([rape][kobe][bryant][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d])
+v(0 2 3 4 5 6 10 11 12 13 18 19 20 21): 9.522350311279297	 ([rape][kobe][bryant][finally][fell][pieces][accuser][called][district][attorney][enough][would][longer][co - operate.])
+v(0 1 2 3 7 8 9 10 11 12 13): 9.69118595123291	 ([rape][case][kobe][bryant][shortly][11][wednesday,][accuser][called][district][attorney])
+v(2 3 4 5 6 14 15 16 17 18 19 20 21): 9.752662658691406	 ([kobe][bryant][finally][fell][pieces][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(1 2 3 7 8 9 14 15 16 17): 9.7365140914917	 ([case][kobe][bryant][shortly][11][wednesday,][mark][hurlbert][say][# 39 ; d])
+v(1 2 3 4 5 6 7 8 9 18 19 20 21): 9.748800277709961	 ([case][kobe][bryant][finally][fell][pieces][shortly][11][wednesday,][enough][would][longer][co - operate.])
+v(0 4 5 6 10 11 12 13 14 15 16 17 18 19 20 21): 0.359660804271698	 ([rape][finally][fell][pieces][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(0 1 7 8 9 10 11 12 13 14 15 16 17): -1.0026609897613525	 ([rape][case][shortly][11][wednesday,][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d])
+v(0 1 4 5 6 7 8 9 10 11 12 13 18 19 20 21): -1.8057966232299805	 ([rape][case][finally][fell][pieces][shortly][11][wednesday,][accuser][called][district][attorney][enough][would][longer][co - operate.])
+v(1 4 5 6 7 8 9 14 15 16 17 18 19 20 21): 3.4048774242401123	 ([case][finally][fell][pieces][shortly][11][wednesday,][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(0 2 3 4 5 6 10 11 12 13 14 15 16 17 18 19 20 21): 9.737447738647461	 ([rape][kobe][bryant][finally][fell][pieces][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17): 9.777606010437012	 ([rape][case][kobe][bryant][shortly][11][wednesday,][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 18 19 20 21): 9.674997329711914	 ([rape][case][kobe][bryant][finally][fell][pieces][shortly][11][wednesday,][accuser][called][district][attorney][enough][would][longer][co - operate.])
+v(1 2 3 4 5 6 7 8 9 14 15 16 17 18 19 20 21): 9.769082069396973	 ([case][kobe][bryant][finally][fell][pieces][shortly][11][wednesday,][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 1.09137761592865	 ([rape][case][finally][fell][pieces][shortly][11][wednesday,][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.733455657958984	 ([rape][case][kobe][bryant][finally][fell][pieces][shortly][11][wednesday,][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+---------- Rewards-v() ----------
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17): 9.807378768920898, EP: 1.0045220851898193	 ([rape][case][kobe][bryant][shortly][11][wednesday,][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d])
+v(1 2 3 4 5 6 7 8 9 14 15 16 17 18 19 20 21): 9.79885482788086, EP: 1.0036489963531494	 ([case][kobe][bryant][finally][fell][pieces][shortly][11][wednesday,][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(2 3 4 5 6 14 15 16 17 18 19 20 21): 9.782435417175293, EP: 1.0019673109054565	 ([kobe][bryant][finally][fell][pieces][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(1 2 3 7 8 9): 9.780909538269043, EP: 1.0018110275268555	 ([case][kobe][bryant][shortly][11][wednesday,])
+v(1 2 3 4 5 6 7 8 9 18 19 20 21): 9.778573036193848, EP: 1.0015716552734375	 ([case][kobe][bryant][finally][fell][pieces][shortly][11][wednesday,][enough][would][longer][co - operate.])
+v(0 2 3 4 5 6 10 11 12 13 14 15 16 17 18 19 20 21): 9.767220497131348, EP: 1.0004088878631592	 ([rape][kobe][bryant][finally][fell][pieces][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(0 2 3 10 11 12 13 14 15 16 17): 9.76681137084961, EP: 1.0003669261932373	 ([rape][kobe][bryant][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d])
+v(1 2 3 7 8 9 14 15 16 17): 9.766286849975586, EP: 1.0003132820129395	 ([case][kobe][bryant][shortly][11][wednesday,][mark][hurlbert][say][# 39 ; d])
+v(2 3 14 15 16 17): 9.7659330368042, EP: 1.000277042388916	 ([kobe][bryant][mark][hurlbert][say][# 39 ; d])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.763228416442871, EP: 1.0	 ([rape][case][kobe][bryant][finally][fell][pieces][shortly][11][wednesday,][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(2 3 4 5 6 18 19 20 21): 9.76103401184082, EP: 0.999775230884552	 ([kobe][bryant][finally][fell][pieces][enough][would][longer][co - operate.])
+v(2 3): 9.736664772033691, EP: 0.9972792267799377	 ([kobe][bryant])
+v(0 1 2 3 7 8 9 10 11 12 13): 9.720958709716797, EP: 0.99567049741745	 ([rape][case][kobe][bryant][shortly][11][wednesday,][accuser][called][district][attorney])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 18 19 20 21): 9.7047700881958, EP: 0.9940124154090881	 ([rape][case][kobe][bryant][finally][fell][pieces][shortly][11][wednesday,][accuser][called][district][attorney][enough][would][longer][co - operate.])
+v(0 2 3 10 11 12 13): 9.62582778930664, EP: 0.9859267473220825	 ([rape][kobe][bryant][accuser][called][district][attorney])
+v(0 2 3 4 5 6 10 11 12 13 18 19 20 21): 9.552123069763184, EP: 0.9783775210380554	 ([rape][kobe][bryant][finally][fell][pieces][accuser][called][district][attorney][enough][would][longer][co - operate.])
+v(14 15 16 17): 5.023099899291992, EP: 0.5144916772842407	 ([mark][hurlbert][say][# 39 ; d])
+v(1 7 8 9 14 15 16 17): 4.945467948913574, EP: 0.5065402388572693	 ([case][shortly][11][wednesday,][mark][hurlbert][say][# 39 ; d])
+v(0 10 11 12 13): -4.186763286590576, EP: -0.42882978916168213	 ([rape][accuser][called][district][attorney])
+v(0 1 7 8 9 10 11 12 13): -4.1016035079956055, EP: -0.42010730504989624	 ([rape][case][shortly][11][wednesday,][accuser][called][district][attorney])
+v(0 4 5 6 10 11 12 13 18 19 20 21): -3.9590563774108887, EP: -0.4055068790912628	 ([rape][finally][fell][pieces][accuser][called][district][attorney][enough][would][longer][co - operate.])
+v(4 5 6 14 15 16 17 18 19 20 21): 3.7103490829467773, EP: 0.380033016204834	 ([finally][fell][pieces][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(1 4 5 6 7 8 9 14 15 16 17 18 19 20 21): 3.434650182723999, EP: 0.3517945110797882	 ([case][finally][fell][pieces][shortly][11][wednesday,][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(0 1 4 5 6 7 8 9 10 11 12 13 18 19 20 21): -1.7760238647460938, EP: -0.1819094866514206	 ([rape][case][finally][fell][pieces][shortly][11][wednesday,][accuser][called][district][attorney][enough][would][longer][co - operate.])
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 1.1211503744125366, EP: 0.11483398079872131	 ([rape][case][finally][fell][pieces][shortly][11][wednesday,][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(0 1 7 8 9 10 11 12 13 14 15 16 17): -0.9728882312774658, EP: -0.09964820742607117	 ([rape][case][shortly][11][wednesday,][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d])
+v(0 10 11 12 13 14 15 16 17): -0.4780557155609131, EP: -0.04896492138504982	 ([rape][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d])
+v(0 4 5 6 10 11 12 13 14 15 16 17 18 19 20 21): 0.3894335627555847, EP: 0.03988778591156006	 ([rape][finally][fell][pieces][accuser][called][district][attorney][mark][hurlbert][say][# 39 ; d][enough][would][longer][co - operate.])
+v(1 4 5 6 7 8 9 18 19 20 21): 0.25435328483581543, EP: 0.026052169501781464	 ([case][finally][fell][pieces][shortly][11][wednesday,][enough][would][longer][co - operate.])
+v(1 7 8 9): 0.2210789918899536, EP: 0.0226440466940403	 ([case][shortly][11][wednesday,])
+v(4 5 6 18 19 20 21): 0.21873116493225098, EP: 0.022403569892048836	 ([finally][fell][pieces][enough][would][longer][co - operate.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

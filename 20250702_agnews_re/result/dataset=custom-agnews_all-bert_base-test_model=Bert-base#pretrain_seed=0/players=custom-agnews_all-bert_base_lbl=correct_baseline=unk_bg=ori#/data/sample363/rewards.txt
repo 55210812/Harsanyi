@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: roberto
+Player 1: mancinis
+Player 2: side
+Player 3: edged
+Player 4: closer
+Player 5: next
+Player 6: stage
+Player 7: champions
+Player 8: league
+Player 9: crashing
+Player 10: valencia
+Player 11: humiliating
+Player 12: 5 - 1
+Player 13: result
+Player 14: spain.
+---------- Rewards ----------
+v(): -3.8249762058258057	 ([])
+v(7 8 9 11): 6.110410690307617	 ([champions][league][crashing][humiliating])
+v(0 1 2 3 4 5 13): 7.457292556762695	 ([roberto][mancinis][side][edged][closer][next][result])
+v(6 10 12 14): 1.224939227104187	 ([stage][valencia][5 - 1][spain.])
+v(0 1 2 3 4 5 7 8 9 11 13): 8.783778190612793	 ([roberto][mancinis][side][edged][closer][next][champions][league][crashing][humiliating][result])
+v(6 7 8 9 10 11 12 14): 5.4998273849487305	 ([stage][champions][league][crashing][valencia][humiliating][5 - 1][spain.])
+v(0 1 2 3 4 5 6 10 12 13 14): 7.7570576667785645	 ([roberto][mancinis][side][edged][closer][next][stage][valencia][5 - 1][result][spain.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 7.766904354095459	 ([roberto][mancinis][side][edged][closer][next][stage][champions][league][crashing][valencia][humiliating][5 - 1][result][spain.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 7 8 9 11 13): 12.60875415802002, EP: 1.087722897529602	 ([roberto][mancinis][side][edged][closer][next][champions][league][crashing][humiliating][result])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 11.591880798339844, EP: 1.0	 ([roberto][mancinis][side][edged][closer][next][stage][champions][league][crashing][valencia][humiliating][5 - 1][result][spain.])
+v(0 1 2 3 4 5 6 10 12 13 14): 11.58203411102295, EP: 0.9991505742073059	 ([roberto][mancinis][side][edged][closer][next][stage][valencia][5 - 1][result][spain.])
+v(0 1 2 3 4 5 13): 11.282268524169922, EP: 0.9732905626296997	 ([roberto][mancinis][side][edged][closer][next][result])
+v(7 8 9 11): 9.935386657714844, EP: 0.8570987582206726	 ([champions][league][crashing][humiliating])
+v(6 7 8 9 10 11 12 14): 9.324803352355957, EP: 0.8044254183769226	 ([stage][champions][league][crashing][valencia][humiliating][5 - 1][spain.])
+v(6 10 12 14): 5.049915313720703, EP: 0.43564245104789734	 ([stage][valencia][5 - 1][spain.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

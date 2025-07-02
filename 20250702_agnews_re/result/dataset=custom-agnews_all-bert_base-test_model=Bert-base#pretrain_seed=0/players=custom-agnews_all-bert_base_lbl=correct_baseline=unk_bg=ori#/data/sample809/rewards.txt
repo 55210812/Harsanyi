@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: cybertrust
+Player 1: combine
+Player 2: identity
+Player 3: management
+Player 4: pki
+Player 5: products
+Player 6: betrusted,
+Player 7: risk
+Player 8: management
+Player 9: compliance
+Player 10: services
+Player 11: trusecure,
+Player 12: intrusion
+Player 13: detection
+Player 14: prevention
+Player 15: technology
+Player 16: ubizen,
+Player 17: subsidiary
+Player 18: betrusted.
+---------- Rewards ----------
+v(): 3.8255438804626465	 ([])
+v(2 3 4 10 18): 6.384932518005371	 ([identity][management][pki][services][betrusted.])
+v(0 1 5 6 9 11 15 16 17): 7.617413520812988	 ([cybertrust][combine][products][betrusted,][compliance][trusecure,][technology][ubizen,][subsidiary])
+v(7 8 12 13 14): 4.503300189971924	 ([risk][management][intrusion][detection][prevention])
+v(0 1 2 3 4 5 6 9 10 11 15 16 17 18): 8.44095516204834	 ([cybertrust][combine][identity][management][pki][products][betrusted,][compliance][services][trusecure,][technology][ubizen,][subsidiary][betrusted.])
+v(2 3 4 7 8 10 12 13 14 18): 6.841336250305176	 ([identity][management][pki][risk][management][services][intrusion][detection][prevention][betrusted.])
+v(0 1 5 6 7 8 9 11 12 13 14 15 16 17): 8.059184074401855	 ([cybertrust][combine][products][betrusted,][risk][management][compliance][trusecure,][intrusion][detection][prevention][technology][ubizen,][subsidiary])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.269821166992188	 ([cybertrust][combine][identity][management][pki][products][betrusted,][risk][management][compliance][services][trusecure,][intrusion][detection][prevention][technology][ubizen,][subsidiary][betrusted.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 9 10 11 15 16 17 18): 4.615411281585693, EP: 1.0385066270828247	 ([cybertrust][combine][identity][management][pki][products][betrusted,][compliance][services][trusecure,][technology][ubizen,][subsidiary][betrusted.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 4.444277286529541, EP: 1.0	 ([cybertrust][combine][identity][management][pki][products][betrusted,][risk][management][compliance][services][trusecure,][intrusion][detection][prevention][technology][ubizen,][subsidiary][betrusted.])
+v(0 1 5 6 7 8 9 11 12 13 14 15 16 17): 4.233640193939209, EP: 0.9526048898696899	 ([cybertrust][combine][products][betrusted,][risk][management][compliance][trusecure,][intrusion][detection][prevention][technology][ubizen,][subsidiary])
+v(0 1 5 6 9 11 15 16 17): 3.791869640350342, EP: 0.853202760219574	 ([cybertrust][combine][products][betrusted,][compliance][trusecure,][technology][ubizen,][subsidiary])
+v(2 3 4 7 8 10 12 13 14 18): 3.0157923698425293, EP: 0.678578794002533	 ([identity][management][pki][risk][management][services][intrusion][detection][prevention][betrusted.])
+v(2 3 4 10 18): 2.5593886375427246, EP: 0.5758841037750244	 ([identity][management][pki][services][betrusted.])
+v(7 8 12 13 14): 0.6777563095092773, EP: 0.1525009125471115	 ([risk][management][intrusion][detection][prevention])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

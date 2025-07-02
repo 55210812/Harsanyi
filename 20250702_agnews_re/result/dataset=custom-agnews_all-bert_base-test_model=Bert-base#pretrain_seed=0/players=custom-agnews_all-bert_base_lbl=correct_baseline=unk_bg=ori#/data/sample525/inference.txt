@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 19:30:14
+prompt: [CLS] the outer reaches of our solar system may have been shaped long ago by a close encounter with another star that tore up both nascent planetary systems like colliding buzz saws, astronomers said today. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:6058 decoded_text: outer
+idx:3 input_id:6561 decoded_text: reaches
+idx:4 input_id:1997 decoded_text: of
+idx:5 input_id:2256 decoded_text: our
+idx:6 input_id:5943 decoded_text: solar
+idx:7 input_id:2291 decoded_text: system
+idx:8 input_id:2089 decoded_text: may
+idx:9 input_id:2031 decoded_text: have
+idx:10 input_id:2042 decoded_text: been
+idx:11 input_id:5044 decoded_text: shaped
+idx:12 input_id:2146 decoded_text: long
+idx:13 input_id:3283 decoded_text: ago
+idx:14 input_id:2011 decoded_text: by
+idx:15 input_id:1037 decoded_text: a
+idx:16 input_id:2485 decoded_text: close
+idx:17 input_id:8087 decoded_text: encounter
+idx:18 input_id:2007 decoded_text: with
+idx:19 input_id:2178 decoded_text: another
+idx:20 input_id:2732 decoded_text: star
+idx:21 input_id:2008 decoded_text: that
+idx:22 input_id:9538 decoded_text: tore
+idx:23 input_id:2039 decoded_text: up
+idx:24 input_id:2119 decoded_text: both
+idx:25 input_id:17235 decoded_text: nas
+idx:26 input_id:13013 decoded_text: ##cent
+idx:27 input_id:17700 decoded_text: planetary
+idx:28 input_id:3001 decoded_text: systems
+idx:29 input_id:2066 decoded_text: like
+idx:30 input_id:8902 decoded_text: col
+idx:31 input_id:21273 decoded_text: ##lid
+idx:32 input_id:2075 decoded_text: ##ing
+idx:33 input_id:12610 decoded_text: buzz
+idx:34 input_id:2387 decoded_text: saw
+idx:35 input_id:2015 decoded_text: ##s
+idx:36 input_id:1010 decoded_text: ,
+idx:37 input_id:26357 decoded_text: astronomers
+idx:38 input_id:2056 decoded_text: said
+idx:39 input_id:2651 decoded_text: today
+idx:40 input_id:1012 decoded_text: .
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-0.4518500566482544, -2.2955801486968994, -3.5825600624084473, 6.597109794616699]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

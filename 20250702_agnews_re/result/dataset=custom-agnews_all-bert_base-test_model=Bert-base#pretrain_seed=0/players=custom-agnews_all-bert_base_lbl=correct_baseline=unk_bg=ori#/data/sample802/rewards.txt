@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: world
+Player 1: number
+Player 2: one
+Player 3: defending
+Player 4: champion
+Player 5: roger
+Player 6: federer
+Player 7: switzerland
+Player 8: grouped
+Player 9: australia
+Player 10: # 39 ; s
+Player 11: lleyton
+Player 12: hewitt
+Player 13: draw
+Player 14: wednesday
+Player 15: season - ending
+Player 16: atp
+Player 17: tennis
+Player 18: masters
+Player 19: cup.
+---------- Rewards ----------
+v(): -4.520373821258545	 ([])
+v(7 8 9 11 12 13 14 15): 9.414684295654297	 ([switzerland][grouped][australia][lleyton][hewitt][draw][wednesday][season - ending])
+v(4 10 16 17 19): 9.490180969238281	 ([champion][# 39 ; s][atp][tennis][cup.])
+v(0 1 2 3 5 6 18): 9.479177474975586	 ([world][number][one][defending][roger][federer][masters])
+v(4 7 8 9 10 11 12 13 14 15 16 17 19): 9.40398120880127	 ([champion][switzerland][grouped][australia][# 39 ; s][lleyton][hewitt][draw][wednesday][season - ending][atp][tennis][cup.])
+v(0 1 2 3 5 6 7 8 9 11 12 13 14 15 18): 9.554377555847168	 ([world][number][one][defending][roger][federer][switzerland][grouped][australia][lleyton][hewitt][draw][wednesday][season - ending][masters])
+v(0 1 2 3 4 5 6 10 16 17 18 19): 9.58254623413086	 ([world][number][one][defending][champion][roger][federer][# 39 ; s][atp][tennis][masters][cup.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.555732727050781	 ([world][number][one][defending][champion][roger][federer][switzerland][grouped][australia][# 39 ; s][lleyton][hewitt][draw][wednesday][season - ending][atp][tennis][masters][cup.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 10 16 17 18 19): 14.102920532226562, EP: 1.001904845237732	 ([world][number][one][defending][champion][roger][federer][# 39 ; s][atp][tennis][masters][cup.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 14.076107025146484, EP: 1.0	 ([world][number][one][defending][champion][roger][federer][switzerland][grouped][australia][# 39 ; s][lleyton][hewitt][draw][wednesday][season - ending][atp][tennis][masters][cup.])
+v(0 1 2 3 5 6 7 8 9 11 12 13 14 15 18): 14.074750900268555, EP: 0.999903678894043	 ([world][number][one][defending][roger][federer][switzerland][grouped][australia][lleyton][hewitt][draw][wednesday][season - ending][masters])
+v(4 10 16 17 19): 14.010555267333984, EP: 0.995343029499054	 ([champion][# 39 ; s][atp][tennis][cup.])
+v(0 1 2 3 5 6 18): 13.999551773071289, EP: 0.9945613145828247	 ([world][number][one][defending][roger][federer][masters])
+v(7 8 9 11 12 13 14 15): 13.93505859375, EP: 0.9899795651435852	 ([switzerland][grouped][australia][lleyton][hewitt][draw][wednesday][season - ending])
+v(4 7 8 9 10 11 12 13 14 15 16 17 19): 13.924354553222656, EP: 0.9892191290855408	 ([champion][switzerland][grouped][australia][# 39 ; s][lleyton][hewitt][draw][wednesday][season - ending][atp][tennis][cup.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

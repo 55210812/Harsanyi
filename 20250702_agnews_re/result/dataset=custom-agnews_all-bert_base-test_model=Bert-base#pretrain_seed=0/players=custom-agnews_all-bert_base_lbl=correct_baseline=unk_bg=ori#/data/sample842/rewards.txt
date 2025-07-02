@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: closely - watched
+Player 1: index
+Player 2: german
+Player 3: business
+Player 4: sentiment
+Player 5: barely
+Player 6: rose
+Player 7: october,
+Player 8: showing
+Player 9: current
+Player 10: recovery
+Player 11: europe
+Player 12: # 39 ; s
+Player 13: largest
+Player 14: economy
+Player 15: lacks
+Player 16: strength
+Player 17: previous
+Player 18: upswings.
+---------- Rewards ----------
+v(): -5.8340654373168945	 ([])
+v(1 2 9 11 12 14): -1.5556581020355225	 ([index][german][current][europe][# 39 ; s][economy])
+v(0 3 10 13 15 16 17 18): -8.500659942626953	 ([closely - watched][business][recovery][largest][lacks][strength][previous][upswings.])
+v(4 5 6 7 8): -8.134788513183594	 ([sentiment][barely][rose][october,][showing])
+v(0 1 2 3 9 10 11 12 13 14 15 16 17 18): -1.6004416942596436	 ([closely - watched][index][german][business][current][recovery][europe][# 39 ; s][largest][economy][lacks][strength][previous][upswings.])
+v(1 2 4 5 6 7 8 9 11 12 14): -1.7563145160675049	 ([index][german][sentiment][barely][rose][october,][showing][current][europe][# 39 ; s][economy])
+v(0 3 4 5 6 7 8 10 13 15 16 17 18): -8.31200885772705	 ([closely - watched][business][sentiment][barely][rose][october,][showing][recovery][largest][lacks][strength][previous][upswings.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): -0.4310786724090576	 ([closely - watched][index][german][business][sentiment][barely][rose][october,][showing][current][recovery][europe][# 39 ; s][largest][economy][lacks][strength][previous][upswings.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 5.402986526489258, EP: 1.0	 ([closely - watched][index][german][business][sentiment][barely][rose][october,][showing][current][recovery][europe][# 39 ; s][largest][economy][lacks][strength][previous][upswings.])
+v(1 2 9 11 12 14): 4.278407096862793, EP: 0.7918596863746643	 ([index][german][current][europe][# 39 ; s][economy])
+v(0 1 2 3 9 10 11 12 13 14 15 16 17 18): 4.233623504638672, EP: 0.7835710048675537	 ([closely - watched][index][german][business][current][recovery][europe][# 39 ; s][largest][economy][lacks][strength][previous][upswings.])
+v(1 2 4 5 6 7 8 9 11 12 14): 4.077751159667969, EP: 0.7547217011451721	 ([index][german][sentiment][barely][rose][october,][showing][current][europe][# 39 ; s][economy])
+v(0 3 10 13 15 16 17 18): -2.6665945053100586, EP: -0.49354085326194763	 ([closely - watched][business][recovery][largest][lacks][strength][previous][upswings.])
+v(0 3 4 5 6 7 8 10 13 15 16 17 18): -2.4779434204101562, EP: -0.4586247503757477	 ([closely - watched][business][sentiment][barely][rose][october,][showing][recovery][largest][lacks][strength][previous][upswings.])
+v(4 5 6 7 8): -2.300723075866699, EP: -0.4258243143558502	 ([sentiment][barely][rose][october,][showing])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

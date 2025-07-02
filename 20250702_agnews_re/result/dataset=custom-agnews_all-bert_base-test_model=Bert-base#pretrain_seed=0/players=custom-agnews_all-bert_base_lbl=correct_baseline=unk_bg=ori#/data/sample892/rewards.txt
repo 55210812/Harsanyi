@@ -1,0 +1,65 @@
+---------- Players ----------
+Player 0: kabul,
+Player 1: afghanistan
+Player 2: -
+Player 3: explosion
+Player 4: tore
+Player 5: office
+Player 6: american
+Player 7: defense
+Player 8: contractor
+Player 9: heart
+Player 10: afghan
+Player 11: capital
+Player 12: sunday,
+Player 13: killing
+Player 14: many
+Player 15: six
+Player 16: people
+Player 17: seriously
+Player 18: injuring
+Player 19: several
+Player 20: more,
+Player 21: officials
+Player 22: residents
+Player 23: said.
+Player 24: victims
+Player 25: included
+Player 26: several
+Player 27: apparent
+Player 28: u. s...
+---------- Rewards ----------
+v(): -6.391700267791748	 ([])
+v(0 1 2 10 11 13): 6.86131477355957	 ([kabul,][afghanistan][-][afghan][capital][killing])
+v(3 4 5 7 26 27 28): -1.0216037034988403	 ([explosion][tore][office][defense][several][apparent][u. s...])
+v(9 17 18 19 20 23 24 25): 2.901063919067383	 ([heart][seriously][injuring][several][more,][said.][victims][included])
+v(6 8 12 14 15 16 21 22): -2.068293571472168	 ([american][contractor][sunday,][many][six][people][officials][residents])
+v(0 1 2 3 4 5 7 10 11 13 26 27 28): 8.383857727050781	 ([kabul,][afghanistan][-][explosion][tore][office][defense][afghan][capital][killing][several][apparent][u. s...])
+v(0 1 2 9 10 11 13 17 18 19 20 23 24 25): 7.2114763259887695	 ([kabul,][afghanistan][-][heart][afghan][capital][killing][seriously][injuring][several][more,][said.][victims][included])
+v(0 1 2 6 8 10 11 12 13 14 15 16 21 22): 7.532962322235107	 ([kabul,][afghanistan][-][american][contractor][afghan][capital][sunday,][killing][many][six][people][officials][residents])
+v(3 4 5 7 9 17 18 19 20 23 24 25 26 27 28): 2.5322084426879883	 ([explosion][tore][office][defense][heart][seriously][injuring][several][more,][said.][victims][included][several][apparent][u. s...])
+v(3 4 5 6 7 8 12 14 15 16 21 22 26 27 28): 4.422039031982422	 ([explosion][tore][office][american][defense][contractor][sunday,][many][six][people][officials][residents][several][apparent][u. s...])
+v(6 8 9 12 14 15 16 17 18 19 20 21 22 23 24 25): 3.778700351715088	 ([american][contractor][heart][sunday,][many][six][people][seriously][injuring][several][more,][officials][residents][said.][victims][included])
+v(0 1 2 3 4 5 7 9 10 11 13 17 18 19 20 23 24 25 26 27 28): 8.377653121948242	 ([kabul,][afghanistan][-][explosion][tore][office][defense][heart][afghan][capital][killing][seriously][injuring][several][more,][said.][victims][included][several][apparent][u. s...])
+v(0 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 21 22 26 27 28): 8.405694007873535	 ([kabul,][afghanistan][-][explosion][tore][office][american][defense][contractor][afghan][capital][sunday,][killing][many][six][people][officials][residents][several][apparent][u. s...])
+v(0 1 2 6 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 7.528280258178711	 ([kabul,][afghanistan][-][american][contractor][heart][afghan][capital][sunday,][killing][many][six][people][seriously][injuring][several][more,][officials][residents][said.][victims][included])
+v(3 4 5 6 7 8 9 12 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 5.806141376495361	 ([explosion][tore][office][american][defense][contractor][heart][sunday,][many][six][people][seriously][injuring][several][more,][officials][residents][said.][victims][included][several][apparent][u. s...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 8.314874649047852	 ([kabul,][afghanistan][-][explosion][tore][office][american][defense][contractor][heart][afghan][capital][sunday,][killing][many][six][people][seriously][injuring][several][more,][officials][residents][said.][victims][included][several][apparent][u. s...])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 21 22 26 27 28): 14.797393798828125, EP: 1.0061753988265991	 ([kabul,][afghanistan][-][explosion][tore][office][american][defense][contractor][afghan][capital][sunday,][killing][many][six][people][officials][residents][several][apparent][u. s...])
+v(0 1 2 3 4 5 7 10 11 13 26 27 28): 14.775558471679688, EP: 1.0046906471252441	 ([kabul,][afghanistan][-][explosion][tore][office][defense][afghan][capital][killing][several][apparent][u. s...])
+v(0 1 2 3 4 5 7 9 10 11 13 17 18 19 20 23 24 25 26 27 28): 14.769353866577148, EP: 1.004268765449524	 ([kabul,][afghanistan][-][explosion][tore][office][defense][heart][afghan][capital][killing][seriously][injuring][several][more,][said.][victims][included][several][apparent][u. s...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 14.706575393676758, EP: 1.0	 ([kabul,][afghanistan][-][explosion][tore][office][american][defense][contractor][heart][afghan][capital][sunday,][killing][many][six][people][seriously][injuring][several][more,][officials][residents][said.][victims][included][several][apparent][u. s...])
+v(0 1 2 6 8 10 11 12 13 14 15 16 21 22): 13.924662590026855, EP: 0.9468324184417725	 ([kabul,][afghanistan][-][american][contractor][afghan][capital][sunday,][killing][many][six][people][officials][residents])
+v(0 1 2 6 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 13.919981002807617, EP: 0.9465141296386719	 ([kabul,][afghanistan][-][american][contractor][heart][afghan][capital][sunday,][killing][many][six][people][seriously][injuring][several][more,][officials][residents][said.][victims][included])
+v(0 1 2 9 10 11 13 17 18 19 20 23 24 25): 13.60317611694336, EP: 0.9249723553657532	 ([kabul,][afghanistan][-][heart][afghan][capital][killing][seriously][injuring][several][more,][said.][victims][included])
+v(0 1 2 10 11 13): 13.253015518188477, EP: 0.9011625647544861	 ([kabul,][afghanistan][-][afghan][capital][killing])
+v(3 4 5 6 7 8 9 12 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 12.19784164428711, EP: 0.8294141292572021	 ([explosion][tore][office][american][defense][contractor][heart][sunday,][many][six][people][seriously][injuring][several][more,][officials][residents][said.][victims][included][several][apparent][u. s...])
+v(3 4 5 6 7 8 12 14 15 16 21 22 26 27 28): 10.813739776611328, EP: 0.7352996468544006	 ([explosion][tore][office][american][defense][contractor][sunday,][many][six][people][officials][residents][several][apparent][u. s...])
+v(6 8 9 12 14 15 16 17 18 19 20 21 22 23 24 25): 10.170400619506836, EP: 0.6915546655654907	 ([american][contractor][heart][sunday,][many][six][people][seriously][injuring][several][more,][officials][residents][said.][victims][included])
+v(9 17 18 19 20 23 24 25): 9.292764663696289, EP: 0.6318781971931458	 ([heart][seriously][injuring][several][more,][said.][victims][included])
+v(3 4 5 7 9 17 18 19 20 23 24 25 26 27 28): 8.923908233642578, EP: 0.6067971587181091	 ([explosion][tore][office][defense][heart][seriously][injuring][several][more,][said.][victims][included][several][apparent][u. s...])
+v(3 4 5 7 26 27 28): 5.370096683502197, EP: 0.3651493787765503	 ([explosion][tore][office][defense][several][apparent][u. s...])
+v(6 8 12 14 15 16 21 22): 4.32340669631958, EP: 0.2939777970314026	 ([american][contractor][sunday,][many][six][people][officials][residents])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

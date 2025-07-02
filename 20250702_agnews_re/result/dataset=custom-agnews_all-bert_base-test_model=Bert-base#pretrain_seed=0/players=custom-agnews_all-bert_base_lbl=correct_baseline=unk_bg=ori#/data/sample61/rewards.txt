@@ -1,0 +1,45 @@
+---------- Players ----------
+Player 0: spaceshipone
+Player 1: attempt
+Player 2: rocket
+Player 3: space
+Player 4: today
+Player 5: second
+Player 6: time
+Player 7: -
+Player 8: following
+Player 9: last
+Player 10: wednesdays
+Player 11: successful
+Player 12: flight
+Player 13: -
+Player 14: order
+Player 15: bag
+Player 16: \ $ 10
+Player 17: million
+Player 18: ansari
+Player 19: x
+Player 20: prize,
+Player 21: gone
+Player 22: unclaimed
+Player 23: eight
+Player 24: years.
+---------- Rewards ----------
+v(): 3.013338565826416	 ([])
+v(0 3 11 16 17 18 19 20): 7.311029434204102	 ([spaceshipone][space][successful][\ $ 10][million][ansari][x][prize,])
+v(4 9 10 12 21): -3.7481791973114014	 ([today][last][wednesdays][flight][gone])
+v(1 2 5 6 7 8 13 14 15 22 23 24): 1.2262260913848877	 ([attempt][rocket][second][time][-][following][-][order][bag][unclaimed][eight][years.])
+v(0 3 4 9 10 11 12 16 17 18 19 20 21): 7.159032821655273	 ([spaceshipone][space][today][last][wednesdays][successful][flight][\ $ 10][million][ansari][x][prize,][gone])
+v(0 1 2 3 5 6 7 8 11 13 14 15 16 17 18 19 20 22 23 24): 6.124311923980713	 ([spaceshipone][attempt][rocket][space][second][time][-][following][successful][-][order][bag][\ $ 10][million][ansari][x][prize,][unclaimed][eight][years.])
+v(1 2 4 5 6 7 8 9 10 12 13 14 15 21 22 23 24): -0.6499472856521606	 ([attempt][rocket][today][second][time][-][following][last][wednesdays][flight][-][order][bag][gone][unclaimed][eight][years.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 5.182607173919678	 ([spaceshipone][attempt][rocket][space][today][second][time][-][following][last][wednesdays][successful][flight][-][order][bag][\ $ 10][million][ansari][x][prize,][gone][unclaimed][eight][years.])
+---------- Rewards-v() ----------
+v(4 9 10 12 21): -6.761517524719238, EP: -3.116957187652588	 ([today][last][wednesdays][flight][gone])
+v(0 3 11 16 17 18 19 20): 4.2976908683776855, EP: 1.981170415878296	 ([spaceshipone][space][successful][\ $ 10][million][ansari][x][prize,])
+v(0 3 4 9 10 11 12 16 17 18 19 20 21): 4.145694255828857, EP: 1.911102294921875	 ([spaceshipone][space][today][last][wednesdays][successful][flight][\ $ 10][million][ansari][x][prize,][gone])
+v(1 2 4 5 6 7 8 9 10 12 13 14 15 21 22 23 24): -3.663285732269287, EP: -1.6887192726135254	 ([attempt][rocket][today][second][time][-][following][last][wednesdays][flight][-][order][bag][gone][unclaimed][eight][years.])
+v(0 1 2 3 5 6 7 8 11 13 14 15 16 17 18 19 20 22 23 24): 3.110973358154297, EP: 1.4341115951538086	 ([spaceshipone][attempt][rocket][space][second][time][-][following][successful][-][order][bag][\ $ 10][million][ansari][x][prize,][unclaimed][eight][years.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 2.1692686080932617, EP: 1.0	 ([spaceshipone][attempt][rocket][space][today][second][time][-][following][last][wednesdays][successful][flight][-][order][bag][\ $ 10][million][ansari][x][prize,][gone][unclaimed][eight][years.])
+v(1 2 5 6 7 8 13 14 15 22 23 24): -1.7871124744415283, EP: -0.8238317966461182	 ([attempt][rocket][second][time][-][following][-][order][bag][unclaimed][eight][years.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,30 @@
+---------- Players ----------
+Player 0: manchester
+Player 1: united
+Player 2: confident
+Player 3: catch
+Player 4: nine
+Player 5: points
+Player 6: premier
+Player 7: league
+Player 8: leader
+Player 9: chelsea.
+Player 10: first
+Player 11: win
+Player 12: third
+Player 13: match
+Player 14: row
+Player 15: first
+Player 16: time
+Player 17: season.
+---------- Rewards ----------
+v(): -6.077242851257324	 ([])
+v(0 7 8 9 15 17): 9.510575294494629	 ([manchester][league][leader][chelsea.][first][season.])
+v(1 2 3 4 5 6 10 11 12 13 14 16): 9.465690612792969	 ([united][confident][catch][nine][points][premier][first][win][third][match][row][time])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.522305488586426	 ([manchester][united][confident][catch][nine][points][premier][league][leader][chelsea.][first][win][third][match][row][first][time][season.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 15.59954833984375, EP: 1.0	 ([manchester][united][confident][catch][nine][points][premier][league][leader][chelsea.][first][win][third][match][row][first][time][season.])
+v(0 7 8 9 15 17): 15.587818145751953, EP: 0.9992480278015137	 ([manchester][league][leader][chelsea.][first][season.])
+v(1 2 3 4 5 6 10 11 12 13 14 16): 15.542933464050293, EP: 0.9963707327842712	 ([united][confident][catch][nine][points][premier][first][win][third][match][row][time])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,24 @@
+---------- Players ----------
+Player 0: plus,
+Player 1: \ $ 600
+Player 2: billion
+Player 3: cash
+Player 4: cow,
+Player 5: kraft's
+Player 6: diet
+Player 7: pitch,
+Player 8: samsung
+Player 9: sets
+Player 10: nano
+Player 11: benchmark.
+---------- Rewards ----------
+v(): -4.4071946144104	 ([])
+v(5 6 8 9): 5.987934112548828	 ([kraft's][diet][samsung][sets])
+v(0 1 2 3 4 7 10 11): 7.925189018249512	 ([plus,][\ $ 600][billion][cash][cow,][pitch,][nano][benchmark.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 7.5991950035095215	 ([plus,][\ $ 600][billion][cash][cow,][kraft's][diet][pitch,][samsung][sets][nano][benchmark.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 7 10 11): 12.33238410949707, EP: 1.0271517038345337	 ([plus,][\ $ 600][billion][cash][cow,][pitch,][nano][benchmark.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 12.006389617919922, EP: 1.0	 ([plus,][\ $ 600][billion][cash][cow,][kraft's][diet][pitch,][samsung][sets][nano][benchmark.])
+v(5 6 8 9): 10.39512825012207, EP: 0.8657996654510498	 ([kraft's][diet][samsung][sets])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

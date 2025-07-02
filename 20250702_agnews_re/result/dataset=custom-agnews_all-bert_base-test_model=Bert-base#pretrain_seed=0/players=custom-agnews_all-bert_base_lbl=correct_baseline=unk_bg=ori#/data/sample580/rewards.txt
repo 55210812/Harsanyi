@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: meeting
+Player 1: kremlin
+Player 2: iraqi
+Player 3: prime
+Player 4: minister
+Player 5: iyad
+Player 6: allawi,
+Player 7: russian
+Player 8: president
+Player 9: vladimir
+Player 10: putin
+Player 11: expressed
+Player 12: hope
+Player 13: quot ; the
+Player 14: interests
+Player 15: russian
+Player 16: companies
+Player 17: heeded
+Player 18: present
+Player 19: iraqi
+Player 20: leadership
+Player 21: future
+Player 22: government
+Player 23: iraq
+---------- Rewards ----------
+v(): -7.646805763244629	 ([])
+v(11 12 17 18 19 20 21 22 23): 7.508449554443359	 ([expressed][hope][heeded][present][iraqi][leadership][future][government][iraq])
+v(0 1 2 7 8 9 10 13 14 15 16): 2.2650253772735596	 ([meeting][kremlin][iraqi][russian][president][vladimir][putin][quot ; the][interests][russian][companies])
+v(3 4 5 6): 6.399056911468506	 ([prime][minister][iyad][allawi,])
+v(0 1 2 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 7.818939685821533	 ([meeting][kremlin][iraqi][russian][president][vladimir][putin][expressed][hope][quot ; the][interests][russian][companies][heeded][present][iraqi][leadership][future][government][iraq])
+v(3 4 5 6 11 12 17 18 19 20 21 22 23): 8.225075721740723	 ([prime][minister][iyad][allawi,][expressed][hope][heeded][present][iraqi][leadership][future][government][iraq])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 15 16): 3.4238994121551514	 ([meeting][kremlin][iraqi][prime][minister][iyad][allawi,][russian][president][vladimir][putin][quot ; the][interests][russian][companies])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 7.8874430656433105	 ([meeting][kremlin][iraqi][prime][minister][iyad][allawi,][russian][president][vladimir][putin][expressed][hope][quot ; the][interests][russian][companies][heeded][present][iraqi][leadership][future][government][iraq])
+---------- Rewards-v() ----------
+v(3 4 5 6 11 12 17 18 19 20 21 22 23): 15.871881484985352, EP: 1.0217347145080566	 ([prime][minister][iyad][allawi,][expressed][hope][heeded][present][iraqi][leadership][future][government][iraq])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 15.534248352050781, EP: 1.0	 ([meeting][kremlin][iraqi][prime][minister][iyad][allawi,][russian][president][vladimir][putin][expressed][hope][quot ; the][interests][russian][companies][heeded][present][iraqi][leadership][future][government][iraq])
+v(0 1 2 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 15.46574592590332, EP: 0.9955902099609375	 ([meeting][kremlin][iraqi][russian][president][vladimir][putin][expressed][hope][quot ; the][interests][russian][companies][heeded][present][iraqi][leadership][future][government][iraq])
+v(11 12 17 18 19 20 21 22 23): 15.155255317687988, EP: 0.9756027460098267	 ([expressed][hope][heeded][present][iraqi][leadership][future][government][iraq])
+v(3 4 5 6): 14.045862197875977, EP: 0.9041867852210999	 ([prime][minister][iyad][allawi,])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 15 16): 11.07070541381836, EP: 0.7126643657684326	 ([meeting][kremlin][iraqi][prime][minister][iyad][allawi,][russian][president][vladimir][putin][quot ; the][interests][russian][companies])
+v(0 1 2 7 8 9 10 13 14 15 16): 9.91183090209961, EP: 0.6380631327629089	 ([meeting][kremlin][iraqi][russian][president][vladimir][putin][quot ; the][interests][russian][companies])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

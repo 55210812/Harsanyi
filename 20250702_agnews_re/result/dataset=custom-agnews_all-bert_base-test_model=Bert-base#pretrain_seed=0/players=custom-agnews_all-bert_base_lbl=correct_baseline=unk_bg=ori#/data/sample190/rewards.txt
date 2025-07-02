@@ -1,0 +1,29 @@
+---------- Players ----------
+Player 0: matter
+Player 1: good
+Player 2: bad
+Player 3: year
+Player 4: alex
+Player 5: rodriguez
+Player 6: season
+Player 7: new
+Player 8: york,
+Player 9: first
+Player 10: year
+Player 11: pinstripes
+Player 12: would
+Player 13: ultimately
+Player 14: judged
+Player 15: performed
+Player 16: october.
+---------- Rewards ----------
+v(): -5.862424850463867	 ([])
+v(5 6 7 8 12 15 16): 7.5563554763793945	 ([rodriguez][season][new][york,][would][performed][october.])
+v(0 1 2 3 4 9 10 11 13 14): 4.904782295227051	 ([matter][good][bad][year][alex][first][year][pinstripes][ultimately][judged])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.302590847015381	 ([matter][good][bad][year][alex][rodriguez][season][new][york,][first][year][pinstripes][would][ultimately][judged][performed][october.])
+---------- Rewards-v() ----------
+v(5 6 7 8 12 15 16): 13.418780326843262, EP: 1.0192756652832031	 ([rodriguez][season][new][york,][would][performed][october.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 13.165016174316406, EP: 1.0	 ([matter][good][bad][year][alex][rodriguez][season][new][york,][first][year][pinstripes][would][ultimately][judged][performed][october.])
+v(0 1 2 3 4 9 10 11 13 14): 10.767207145690918, EP: 0.8178650736808777	 ([matter][good][bad][year][alex][first][year][pinstripes][ultimately][judged])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

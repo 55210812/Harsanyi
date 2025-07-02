@@ -1,0 +1,35 @@
+Execution time: 2025-07-02 19:22:25
+prompt: [CLS] thedeal. com - the european commission is likely to follow opinion in the u. s. on the merger suit. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:3207 decoded_text: ##de
+idx:3 input_id:2389 decoded_text: ##al
+idx:4 input_id:1012 decoded_text: .
+idx:5 input_id:4012 decoded_text: com
+idx:6 input_id:1011 decoded_text: -
+idx:7 input_id:1996 decoded_text: the
+idx:8 input_id:2647 decoded_text: european
+idx:9 input_id:3222 decoded_text: commission
+idx:10 input_id:2003 decoded_text: is
+idx:11 input_id:3497 decoded_text: likely
+idx:12 input_id:2000 decoded_text: to
+idx:13 input_id:3582 decoded_text: follow
+idx:14 input_id:5448 decoded_text: opinion
+idx:15 input_id:1999 decoded_text: in
+idx:16 input_id:1996 decoded_text: the
+idx:17 input_id:1057 decoded_text: u
+idx:18 input_id:1012 decoded_text: .
+idx:19 input_id:1055 decoded_text: s
+idx:20 input_id:1012 decoded_text: .
+idx:21 input_id:2006 decoded_text: on
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:7660 decoded_text: merger
+idx:24 input_id:4848 decoded_text: suit
+idx:25 input_id:1012 decoded_text: .
+idx:26 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-0.3969286382198334, -4.583043575286865, 0.2721881568431854, 4.0204033851623535]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

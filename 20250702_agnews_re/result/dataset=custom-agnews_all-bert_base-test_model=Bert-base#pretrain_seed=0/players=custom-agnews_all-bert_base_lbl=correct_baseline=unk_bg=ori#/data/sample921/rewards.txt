@@ -1,0 +1,46 @@
+---------- Players ----------
+Player 0: palm
+Player 1: harbor,
+Player 2: fl
+Player 3: ( sports
+Player 4: network )
+Player 5: -
+Player 6: vijay
+Player 7: singh,
+Player 8: top - ranked
+Player 9: player
+Player 10: world,
+Player 11: moved
+Player 12: step
+Player 13: closer
+Player 14: ninth
+Player 15: victory
+Player 16: season
+Player 17: saturday
+Player 18: posted
+Player 19: four - under
+Player 20: 67
+Player 21: take
+Player 22: 54 - hole
+Player 23: lead
+Player 24: chrysler
+Player 25: championship.
+---------- Rewards ----------
+v(): -1.501182198524475	 ([])
+v(4 5 6 7 8 17 19 22): 8.707172393798828	 ([network )][-][vijay][singh,][top - ranked][saturday][four - under][54 - hole])
+v(3 9 10 11 12 15 25): 8.654607772827148	 ([( sports][player][world,][moved][step][victory][championship.])
+v(0 1 2 13 14 16 18 20 21 23 24): -2.811293840408325	 ([palm][harbor,][fl][closer][ninth][season][posted][67][take][lead][chrysler])
+v(3 4 5 6 7 8 9 10 11 12 15 17 19 22 25): 9.553756713867188	 ([( sports][network )][-][vijay][singh,][top - ranked][player][world,][moved][step][victory][saturday][four - under][54 - hole][championship.])
+v(0 1 2 4 5 6 7 8 13 14 16 17 18 19 20 21 22 23 24): 9.357778549194336	 ([palm][harbor,][fl][network )][-][vijay][singh,][top - ranked][closer][ninth][season][saturday][posted][four - under][67][take][54 - hole][lead][chrysler])
+v(0 1 2 3 9 10 11 12 13 14 15 16 18 20 21 23 24 25): 9.659018516540527	 ([palm][harbor,][fl][( sports][player][world,][moved][step][closer][ninth][victory][season][posted][67][take][lead][chrysler][championship.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 9.597100257873535	 ([palm][harbor,][fl][( sports][network )][-][vijay][singh,][top - ranked][player][world,][moved][step][closer][ninth][victory][season][saturday][posted][four - under][67][take][54 - hole][lead][chrysler][championship.])
+---------- Rewards-v() ----------
+v(0 1 2 3 9 10 11 12 13 14 15 16 18 20 21 23 24 25): 11.160201072692871, EP: 1.0055791139602661	 ([palm][harbor,][fl][( sports][player][world,][moved][step][closer][ninth][victory][season][posted][67][take][lead][chrysler][championship.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 11.098282814025879, EP: 1.0	 ([palm][harbor,][fl][( sports][network )][-][vijay][singh,][top - ranked][player][world,][moved][step][closer][ninth][victory][season][saturday][posted][four - under][67][take][54 - hole][lead][chrysler][championship.])
+v(3 4 5 6 7 8 9 10 11 12 15 17 19 22 25): 11.054939270019531, EP: 0.9960945844650269	 ([( sports][network )][-][vijay][singh,][top - ranked][player][world,][moved][step][victory][saturday][four - under][54 - hole][championship.])
+v(0 1 2 4 5 6 7 8 13 14 16 17 18 19 20 21 22 23 24): 10.85896110534668, EP: 0.9784361720085144	 ([palm][harbor,][fl][network )][-][vijay][singh,][top - ranked][closer][ninth][season][saturday][posted][four - under][67][take][54 - hole][lead][chrysler])
+v(4 5 6 7 8 17 19 22): 10.208354949951172, EP: 0.9198139309883118	 ([network )][-][vijay][singh,][top - ranked][saturday][four - under][54 - hole])
+v(3 9 10 11 12 15 25): 10.155790328979492, EP: 0.9150776267051697	 ([( sports][player][world,][moved][step][victory][championship.])
+v(0 1 2 13 14 16 18 20 21 23 24): -1.31011164188385, EP: -0.118046335875988	 ([palm][harbor,][fl][closer][ninth][season][posted][67][take][lead][chrysler])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

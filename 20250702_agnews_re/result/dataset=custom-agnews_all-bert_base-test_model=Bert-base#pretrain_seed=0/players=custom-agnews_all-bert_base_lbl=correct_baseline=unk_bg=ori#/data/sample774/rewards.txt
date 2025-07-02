@@ -1,0 +1,96 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: united
+Player 3: states
+Player 4: boost
+Player 5: forces
+Player 6: iraq
+Player 7: record
+Player 8: number
+Player 9: 150, 000
+Player 10: coming
+Player 11: weeks
+Player 12: inexperienced
+Player 13: iraqi
+Player 14: troops
+Player 15: cannot
+Player 16: ensure
+Player 17: security
+Player 18: next
+Player 19: month's
+Player 20: national
+Player 21: elections,
+Player 22: commander
+Player 23: u. s.
+Player 24: forces
+Player 25: iraq
+Player 26: said
+Player 27: saturday.
+---------- Rewards ----------
+v(): -7.247445106506348	 ([])
+v(23 24): 3.524797201156616	 ([u. s.][forces])
+v(1 6 7 8 13 21 25): 8.128165245056152	 ([-][iraq][record][number][iraqi][elections,][iraq])
+v(2 3 4 5 9 17 20 22): 6.410186290740967	 ([united][states][boost][forces][150, 000][security][national][commander])
+v(12 14 15 16): 0.253894567489624	 ([inexperienced][troops][cannot][ensure])
+v(0 10 11 18 19 26 27): -6.53334903717041	 ([ap][coming][weeks][next][month's][said][saturday.])
+v(1 6 7 8 13 21 23 24 25): 8.272422790527344	 ([-][iraq][record][number][iraqi][elections,][u. s.][forces][iraq])
+v(2 3 4 5 9 17 20 22 23 24): 7.427961826324463	 ([united][states][boost][forces][150, 000][security][national][commander][u. s.][forces])
+v(12 14 15 16 23 24): 5.830375671386719	 ([inexperienced][troops][cannot][ensure][u. s.][forces])
+v(0 10 11 18 19 23 24 26 27): 5.27586555480957	 ([ap][coming][weeks][next][month's][u. s.][forces][said][saturday.])
+v(1 2 3 4 5 6 7 8 9 13 17 20 21 22 25): 8.51936149597168	 ([-][united][states][boost][forces][iraq][record][number][150, 000][iraqi][security][national][elections,][commander][iraq])
+v(1 6 7 8 12 13 14 15 16 21 25): 8.18321418762207	 ([-][iraq][record][number][inexperienced][iraqi][troops][cannot][ensure][elections,][iraq])
+v(0 1 6 7 8 10 11 13 18 19 21 25 26 27): 8.326251029968262	 ([ap][-][iraq][record][number][coming][weeks][iraqi][next][month's][elections,][iraq][said][saturday.])
+v(2 3 4 5 9 12 14 15 16 17 20 22): 7.180370330810547	 ([united][states][boost][forces][150, 000][inexperienced][troops][cannot][ensure][security][national][commander])
+v(0 2 3 4 5 9 10 11 17 18 19 20 22 26 27): 6.860360145568848	 ([ap][united][states][boost][forces][150, 000][coming][weeks][security][next][month's][national][commander][said][saturday.])
+v(0 10 11 12 14 15 16 18 19 26 27): 5.692964553833008	 ([ap][coming][weeks][inexperienced][troops][cannot][ensure][next][month's][said][saturday.])
+v(1 2 3 4 5 6 7 8 9 13 17 20 21 22 23 24 25): 8.423490524291992	 ([-][united][states][boost][forces][iraq][record][number][150, 000][iraqi][security][national][elections,][commander][u. s.][forces][iraq])
+v(1 6 7 8 12 13 14 15 16 21 23 24 25): 8.241785049438477	 ([-][iraq][record][number][inexperienced][iraqi][troops][cannot][ensure][elections,][u. s.][forces][iraq])
+v(0 1 6 7 8 10 11 13 18 19 21 23 24 25 26 27): 8.338385581970215	 ([ap][-][iraq][record][number][coming][weeks][iraqi][next][month's][elections,][u. s.][forces][iraq][said][saturday.])
+v(2 3 4 5 9 12 14 15 16 17 20 22 23 24): 7.523076057434082	 ([united][states][boost][forces][150, 000][inexperienced][troops][cannot][ensure][security][national][commander][u. s.][forces])
+v(0 2 3 4 5 9 10 11 17 18 19 20 22 23 24 26 27): 7.086086273193359	 ([ap][united][states][boost][forces][150, 000][coming][weeks][security][next][month's][national][commander][u. s.][forces][said][saturday.])
+v(0 10 11 12 14 15 16 18 19 23 24 26 27): 6.789703845977783	 ([ap][coming][weeks][inexperienced][troops][cannot][ensure][next][month's][u. s.][forces][said][saturday.])
+v(1 2 3 4 5 6 7 8 9 12 13 14 15 16 17 20 21 22 25): 8.50279426574707	 ([-][united][states][boost][forces][iraq][record][number][150, 000][inexperienced][iraqi][troops][cannot][ensure][security][national][elections,][commander][iraq])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 17 18 19 20 21 22 25 26 27): 8.279010772705078	 ([ap][-][united][states][boost][forces][iraq][record][number][150, 000][coming][weeks][iraqi][security][next][month's][national][elections,][commander][iraq][said][saturday.])
+v(0 1 6 7 8 10 11 12 13 14 15 16 18 19 21 25 26 27): 8.338407516479492	 ([ap][-][iraq][record][number][coming][weeks][inexperienced][iraqi][troops][cannot][ensure][next][month's][elections,][iraq][said][saturday.])
+v(0 2 3 4 5 9 10 11 12 14 15 16 17 18 19 20 22 26 27): 7.13111686706543	 ([ap][united][states][boost][forces][150, 000][coming][weeks][inexperienced][troops][cannot][ensure][security][next][month's][national][commander][said][saturday.])
+v(1 2 3 4 5 6 7 8 9 12 13 14 15 16 17 20 21 22 23 24 25): 8.408674240112305	 ([-][united][states][boost][forces][iraq][record][number][150, 000][inexperienced][iraqi][troops][cannot][ensure][security][national][elections,][commander][u. s.][forces][iraq])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 17 18 19 20 21 22 23 24 25 26 27): 8.243221282958984	 ([ap][-][united][states][boost][forces][iraq][record][number][150, 000][coming][weeks][iraqi][security][next][month's][national][elections,][commander][u. s.][forces][iraq][said][saturday.])
+v(0 1 6 7 8 10 11 12 13 14 15 16 18 19 21 23 24 25 26 27): 8.301998138427734	 ([ap][-][iraq][record][number][coming][weeks][inexperienced][iraqi][troops][cannot][ensure][next][month's][elections,][u. s.][forces][iraq][said][saturday.])
+v(0 2 3 4 5 9 10 11 12 14 15 16 17 18 19 20 22 23 24 26 27): 7.235757350921631	 ([ap][united][states][boost][forces][150, 000][coming][weeks][inexperienced][troops][cannot][ensure][security][next][month's][national][commander][u. s.][forces][said][saturday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 25 26 27): 8.30138111114502	 ([ap][-][united][states][boost][forces][iraq][record][number][150, 000][coming][weeks][inexperienced][iraqi][troops][cannot][ensure][security][next][month's][national][elections,][commander][iraq][said][saturday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 8.266816139221191	 ([ap][-][united][states][boost][forces][iraq][record][number][150, 000][coming][weeks][inexperienced][iraqi][troops][cannot][ensure][security][next][month's][national][elections,][commander][u. s.][forces][iraq][said][saturday.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 6 7 8 9 13 17 20 21 22 25): 15.766806602478027, EP: 1.0162782669067383	 ([-][united][states][boost][forces][iraq][record][number][150, 000][iraqi][security][national][elections,][commander][iraq])
+v(1 2 3 4 5 6 7 8 9 12 13 14 15 16 17 20 21 22 25): 15.750239372253418, EP: 1.0152103900909424	 ([-][united][states][boost][forces][iraq][record][number][150, 000][inexperienced][iraqi][troops][cannot][ensure][security][national][elections,][commander][iraq])
+v(1 2 3 4 5 6 7 8 9 13 17 20 21 22 23 24 25): 15.67093563079834, EP: 1.0100986957550049	 ([-][united][states][boost][forces][iraq][record][number][150, 000][iraqi][security][national][elections,][commander][u. s.][forces][iraq])
+v(1 2 3 4 5 6 7 8 9 12 13 14 15 16 17 20 21 22 23 24 25): 15.656119346618652, EP: 1.0091437101364136	 ([-][united][states][boost][forces][iraq][record][number][150, 000][inexperienced][iraqi][troops][cannot][ensure][security][national][elections,][commander][u. s.][forces][iraq])
+v(0 1 6 7 8 10 11 12 13 14 15 16 18 19 21 25 26 27): 15.58585262298584, EP: 1.0046145915985107	 ([ap][-][iraq][record][number][coming][weeks][inexperienced][iraqi][troops][cannot][ensure][next][month's][elections,][iraq][said][saturday.])
+v(0 1 6 7 8 10 11 13 18 19 21 23 24 25 26 27): 15.585830688476562, EP: 1.0046131610870361	 ([ap][-][iraq][record][number][coming][weeks][iraqi][next][month's][elections,][u. s.][forces][iraq][said][saturday.])
+v(0 1 6 7 8 10 11 13 18 19 21 25 26 27): 15.57369613647461, EP: 1.0038310289382935	 ([ap][-][iraq][record][number][coming][weeks][iraqi][next][month's][elections,][iraq][said][saturday.])
+v(0 1 6 7 8 10 11 12 13 14 15 16 18 19 21 23 24 25 26 27): 15.549443244934082, EP: 1.0022677183151245	 ([ap][-][iraq][record][number][coming][weeks][inexperienced][iraqi][troops][cannot][ensure][next][month's][elections,][u. s.][forces][iraq][said][saturday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 25 26 27): 15.548826217651367, EP: 1.0022279024124146	 ([ap][-][united][states][boost][forces][iraq][record][number][150, 000][coming][weeks][inexperienced][iraqi][troops][cannot][ensure][security][next][month's][national][elections,][commander][iraq][said][saturday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 17 18 19 20 21 22 25 26 27): 15.526455879211426, EP: 1.0007860660552979	 ([ap][-][united][states][boost][forces][iraq][record][number][150, 000][coming][weeks][iraqi][security][next][month's][national][elections,][commander][iraq][said][saturday.])
+v(1 6 7 8 13 21 23 24 25): 15.519867897033691, EP: 1.000361442565918	 ([-][iraq][record][number][iraqi][elections,][u. s.][forces][iraq])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 15.514261245727539, EP: 1.0	 ([ap][-][united][states][boost][forces][iraq][record][number][150, 000][coming][weeks][inexperienced][iraqi][troops][cannot][ensure][security][next][month's][national][elections,][commander][u. s.][forces][iraq][said][saturday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 17 18 19 20 21 22 23 24 25 26 27): 15.490666389465332, EP: 0.9984791278839111	 ([ap][-][united][states][boost][forces][iraq][record][number][150, 000][coming][weeks][iraqi][security][next][month's][national][elections,][commander][u. s.][forces][iraq][said][saturday.])
+v(1 6 7 8 12 13 14 15 16 21 23 24 25): 15.489230155944824, EP: 0.998386561870575	 ([-][iraq][record][number][inexperienced][iraqi][troops][cannot][ensure][elections,][u. s.][forces][iraq])
+v(1 6 7 8 12 13 14 15 16 21 25): 15.430659294128418, EP: 0.9946112632751465	 ([-][iraq][record][number][inexperienced][iraqi][troops][cannot][ensure][elections,][iraq])
+v(1 6 7 8 13 21 25): 15.3756103515625, EP: 0.9910629987716675	 ([-][iraq][record][number][iraqi][elections,][iraq])
+v(2 3 4 5 9 12 14 15 16 17 20 22 23 24): 14.77052116394043, EP: 0.952060878276825	 ([united][states][boost][forces][150, 000][inexperienced][troops][cannot][ensure][security][national][commander][u. s.][forces])
+v(2 3 4 5 9 17 20 22 23 24): 14.675407409667969, EP: 0.9459301233291626	 ([united][states][boost][forces][150, 000][security][national][commander][u. s.][forces])
+v(0 2 3 4 5 9 10 11 12 14 15 16 17 18 19 20 22 23 24 26 27): 14.48320198059082, EP: 0.9335411787033081	 ([ap][united][states][boost][forces][150, 000][coming][weeks][inexperienced][troops][cannot][ensure][security][next][month's][national][commander][u. s.][forces][said][saturday.])
+v(2 3 4 5 9 12 14 15 16 17 20 22): 14.427815437316895, EP: 0.9299711585044861	 ([united][states][boost][forces][150, 000][inexperienced][troops][cannot][ensure][security][national][commander])
+v(0 2 3 4 5 9 10 11 12 14 15 16 17 18 19 20 22 26 27): 14.378561973571777, EP: 0.9267964363098145	 ([ap][united][states][boost][forces][150, 000][coming][weeks][inexperienced][troops][cannot][ensure][security][next][month's][national][commander][said][saturday.])
+v(0 2 3 4 5 9 10 11 17 18 19 20 22 23 24 26 27): 14.333531379699707, EP: 0.923893928527832	 ([ap][united][states][boost][forces][150, 000][coming][weeks][security][next][month's][national][commander][u. s.][forces][said][saturday.])
+v(0 2 3 4 5 9 10 11 17 18 19 20 22 26 27): 14.107805252075195, EP: 0.9093443155288696	 ([ap][united][states][boost][forces][150, 000][coming][weeks][security][next][month's][national][commander][said][saturday.])
+v(0 10 11 12 14 15 16 18 19 23 24 26 27): 14.037149429321289, EP: 0.9047900438308716	 ([ap][coming][weeks][inexperienced][troops][cannot][ensure][next][month's][u. s.][forces][said][saturday.])
+v(2 3 4 5 9 17 20 22): 13.657630920410156, EP: 0.8803275227546692	 ([united][states][boost][forces][150, 000][security][national][commander])
+v(12 14 15 16 23 24): 13.077820777893066, EP: 0.8429548144340515	 ([inexperienced][troops][cannot][ensure][u. s.][forces])
+v(0 10 11 12 14 15 16 18 19 26 27): 12.940409660339355, EP: 0.834097683429718	 ([ap][coming][weeks][inexperienced][troops][cannot][ensure][next][month's][said][saturday.])
+v(0 10 11 18 19 23 24 26 27): 12.523310661315918, EP: 0.8072128295898438	 ([ap][coming][weeks][next][month's][u. s.][forces][said][saturday.])
+v(23 24): 10.772242546081543, EP: 0.6943445205688477	 ([u. s.][forces])
+v(12 14 15 16): 7.501339912414551, EP: 0.4835125505924225	 ([inexperienced][troops][cannot][ensure])
+v(0 10 11 18 19 26 27): 0.7140960693359375, EP: 0.046028364449739456	 ([ap][coming][weeks][next][month's][said][saturday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

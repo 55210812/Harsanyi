@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: l - 3
+Player 1: communications
+Player 2: corp.,
+Player 3: supplies
+Player 4: products
+Player 5: used
+Player 6: aerospace
+Player 7: defense
+Player 8: platforms,
+Player 9: agreed
+Player 10: buy
+Player 11: cae
+Player 12: inc.
+Player 13: # 39 ; s
+Player 14: marine
+Player 15: controls
+Player 16: division
+Player 17: \ $ 225
+Player 18: million
+Player 19: cash
+Player 20: assumption
+Player 21: \ $ 42.
+---------- Rewards ----------
+v(): -4.816307544708252	 ([])
+v(1 2 8 9 10 14 17 18 19): -3.6796071529388428	 ([communications][corp.,][platforms,][agreed][buy][marine][\ $ 225][million][cash])
+v(4 5 20): -4.404623508453369	 ([products][used][assumption])
+v(0 3 6 7 11 12 13 15 16 21): 7.633254051208496	 ([l - 3][supplies][aerospace][defense][cae][inc.][# 39 ; s][controls][division][\ $ 42.])
+v(1 2 4 5 8 9 10 14 17 18 19 20): 2.029329299926758	 ([communications][corp.,][products][used][platforms,][agreed][buy][marine][\ $ 225][million][cash][assumption])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21): 7.926876068115234	 ([l - 3][communications][corp.,][supplies][aerospace][defense][platforms,][agreed][buy][cae][inc.][# 39 ; s][marine][controls][division][\ $ 225][million][cash][\ $ 42.])
+v(0 3 4 5 6 7 11 12 13 15 16 20 21): 7.587589740753174	 ([l - 3][supplies][products][used][aerospace][defense][cae][inc.][# 39 ; s][controls][division][assumption][\ $ 42.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.169370651245117	 ([l - 3][communications][corp.,][supplies][products][used][aerospace][defense][platforms,][agreed][buy][cae][inc.][# 39 ; s][marine][controls][division][\ $ 225][million][cash][assumption][\ $ 42.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 12.985677719116211, EP: 1.0	 ([l - 3][communications][corp.,][supplies][products][used][aerospace][defense][platforms,][agreed][buy][cae][inc.][# 39 ; s][marine][controls][division][\ $ 225][million][cash][assumption][\ $ 42.])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21): 12.743183135986328, EP: 0.9813259840011597	 ([l - 3][communications][corp.,][supplies][aerospace][defense][platforms,][agreed][buy][cae][inc.][# 39 ; s][marine][controls][division][\ $ 225][million][cash][\ $ 42.])
+v(0 3 6 7 11 12 13 15 16 21): 12.449562072753906, EP: 0.9587148427963257	 ([l - 3][supplies][aerospace][defense][cae][inc.][# 39 ; s][controls][division][\ $ 42.])
+v(0 3 4 5 6 7 11 12 13 15 16 20 21): 12.403897285461426, EP: 0.9551982879638672	 ([l - 3][supplies][products][used][aerospace][defense][cae][inc.][# 39 ; s][controls][division][assumption][\ $ 42.])
+v(1 2 4 5 8 9 10 14 17 18 19 20): 6.84563684463501, EP: 0.5271682143211365	 ([communications][corp.,][products][used][platforms,][agreed][buy][marine][\ $ 225][million][cash][assumption])
+v(1 2 8 9 10 14 17 18 19): 1.1367003917694092, EP: 0.08753492683172226	 ([communications][corp.,][platforms,][agreed][buy][marine][\ $ 225][million][cash])
+v(4 5 20): 0.4116840362548828, EP: 0.031702931970357895	 ([products][used][assumption])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

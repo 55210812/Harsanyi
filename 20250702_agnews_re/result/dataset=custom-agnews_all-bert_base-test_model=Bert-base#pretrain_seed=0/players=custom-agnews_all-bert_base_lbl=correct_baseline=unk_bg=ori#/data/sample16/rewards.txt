@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: dodgers
+Player 1: outfielder
+Player 2: milton
+Player 3: bradley
+Player 4: received
+Player 5: five - game
+Player 6: suspension
+Player 7: major
+Player 8: league
+Player 9: baseball
+Player 10: wednesday,
+Player 11: one
+Player 12: day
+Player 13: bottle - throwing
+Player 14: incident
+Player 15: fans
+Player 16: right
+Player 17: field
+Player 18: dodger
+Player 19: stadium.
+---------- Rewards ----------
+v(): -2.4946722984313965	 ([])
+v(0 9 13 16 17 18 19): 9.143948554992676	 ([dodgers][baseball][bottle - throwing][right][field][dodger][stadium.])
+v(5 7 8 14 15): 8.489336013793945	 ([five - game][major][league][incident][fans])
+v(1 2 3 4 6 10 11 12): 9.475932121276855	 ([outfielder][milton][bradley][received][suspension][wednesday,][one][day])
+v(0 5 7 8 9 13 14 15 16 17 18 19): 9.228086471557617	 ([dodgers][five - game][major][league][baseball][bottle - throwing][incident][fans][right][field][dodger][stadium.])
+v(0 1 2 3 4 6 9 10 11 12 13 16 17 18 19): 9.428630828857422	 ([dodgers][outfielder][milton][bradley][received][suspension][baseball][wednesday,][one][day][bottle - throwing][right][field][dodger][stadium.])
+v(1 2 3 4 5 6 7 8 10 11 12 14 15): 9.597599983215332	 ([outfielder][milton][bradley][received][five - game][suspension][major][league][wednesday,][one][day][incident][fans])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.956989288330078	 ([dodgers][outfielder][milton][bradley][received][five - game][suspension][major][league][baseball][wednesday,][one][day][bottle - throwing][incident][fans][right][field][dodger][stadium.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 6 7 8 10 11 12 14 15): 12.09227180480957, EP: 1.0559402704238892	 ([outfielder][milton][bradley][received][five - game][suspension][major][league][wednesday,][one][day][incident][fans])
+v(1 2 3 4 6 10 11 12): 11.970603942871094, EP: 1.0453158617019653	 ([outfielder][milton][bradley][received][suspension][wednesday,][one][day])
+v(0 1 2 3 4 6 9 10 11 12 13 16 17 18 19): 11.923303604125977, EP: 1.0411853790283203	 ([dodgers][outfielder][milton][bradley][received][suspension][baseball][wednesday,][one][day][bottle - throwing][right][field][dodger][stadium.])
+v(0 5 7 8 9 13 14 15 16 17 18 19): 11.722759246826172, EP: 1.023673176765442	 ([dodgers][five - game][major][league][baseball][bottle - throwing][incident][fans][right][field][dodger][stadium.])
+v(0 9 13 16 17 18 19): 11.638620376586914, EP: 1.016325831413269	 ([dodgers][baseball][bottle - throwing][right][field][dodger][stadium.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 11.451662063598633, EP: 1.0	 ([dodgers][outfielder][milton][bradley][received][five - game][suspension][major][league][baseball][wednesday,][one][day][bottle - throwing][incident][fans][right][field][dodger][stadium.])
+v(5 7 8 14 15): 10.9840087890625, EP: 0.9591628313064575	 ([five - game][major][league][incident][fans])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

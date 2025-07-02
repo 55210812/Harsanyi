@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: long,
+Player 1: long
+Player 2: time,
+Player 3: november
+Player 4: 2nd
+Player 5: promoted
+Player 6: biggest
+Player 7: day
+Player 8: 2004.
+Player 9: # 39 ; s
+Player 10: october
+Player 11: 9
+Player 12: fully
+Player 13: came
+Player 14: focus.
+---------- Rewards ----------
+v(): -5.126632213592529	 ([])
+v(0 1 2 3 6 14): -2.7649450302124023	 ([long,][long][time,][november][biggest][focus.])
+v(5 7 8 9 12): -3.7126822471618652	 ([promoted][day][2004.][# 39 ; s][fully])
+v(4 10 11 13): -0.881662130355835	 ([2nd][october][9][came])
+v(0 1 2 3 5 6 7 8 9 12 14): -2.755251407623291	 ([long,][long][time,][november][promoted][biggest][day][2004.][# 39 ; s][fully][focus.])
+v(0 1 2 3 4 6 10 11 13 14): -2.3134472370147705	 ([long,][long][time,][november][2nd][biggest][october][9][came][focus.])
+v(4 5 7 8 9 10 11 12 13): 1.964587926864624	 ([2nd][promoted][day][2004.][# 39 ; s][october][9][fully][came])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 4.1279168128967285	 ([long,][long][time,][november][2nd][promoted][biggest][day][2004.][# 39 ; s][october][9][fully][came][focus.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 9.254549026489258, EP: 1.0	 ([long,][long][time,][november][2nd][promoted][biggest][day][2004.][# 39 ; s][october][9][fully][came][focus.])
+v(4 5 7 8 9 10 11 12 13): 7.091219902038574, EP: 0.7662415504455566	 ([2nd][promoted][day][2004.][# 39 ; s][october][9][fully][came])
+v(4 10 11 13): 4.244970321655273, EP: 0.4586901366710663	 ([2nd][october][9][came])
+v(0 1 2 3 4 6 10 11 13 14): 2.813184976577759, EP: 0.3039786219596863	 ([long,][long][time,][november][2nd][biggest][october][9][came][focus.])
+v(0 1 2 3 5 6 7 8 9 12 14): 2.3713808059692383, EP: 0.25623947381973267	 ([long,][long][time,][november][promoted][biggest][day][2004.][# 39 ; s][fully][focus.])
+v(0 1 2 3 6 14): 2.361687183380127, EP: 0.2551920413970947	 ([long,][long][time,][november][biggest][focus.])
+v(5 7 8 9 12): 1.413949966430664, EP: 0.1527843177318573	 ([promoted][day][2004.][# 39 ; s][fully])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

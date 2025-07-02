@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: belgian
+Player 1: tennis
+Player 2: player
+Player 3: kim
+Player 4: clijsters
+Player 5: made
+Player 6: successful
+Player 7: return
+Player 8: long
+Player 9: injury
+Player 10: lay - off,
+Player 11: overcoming
+Player 12: dogged
+Player 13: czech
+Player 14: iveta
+Player 15: benesova
+Player 16: 7 - 6,
+Player 17: 6 - 2
+Player 18: second
+Player 19: round
+Player 20: belgian
+Player 21: open.
+---------- Rewards ----------
+v(): -3.735943078994751	 ([])
+v(0 13 15 16 17 19 20 21): 9.536898612976074	 ([belgian][czech][benesova][7 - 6,][6 - 2][round][belgian][open.])
+v(1 2 5 6 8 11): 4.095913410186768	 ([tennis][player][made][successful][long][overcoming])
+v(3 4 7 9 10 12 14 18): 5.88477897644043	 ([kim][clijsters][return][injury][lay - off,][dogged][iveta][second])
+v(0 1 2 5 6 8 11 13 15 16 17 19 20 21): 9.271937370300293	 ([belgian][tennis][player][made][successful][long][overcoming][czech][benesova][7 - 6,][6 - 2][round][belgian][open.])
+v(0 3 4 7 9 10 12 13 14 15 16 17 18 19 20 21): 9.713866233825684	 ([belgian][kim][clijsters][return][injury][lay - off,][dogged][czech][iveta][benesova][7 - 6,][6 - 2][second][round][belgian][open.])
+v(1 2 3 4 5 6 7 8 9 10 11 12 14 18): 8.740287780761719	 ([tennis][player][kim][clijsters][made][successful][return][long][injury][lay - off,][overcoming][dogged][iveta][second])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.44135856628418	 ([belgian][tennis][player][kim][clijsters][made][successful][return][long][injury][lay - off,][overcoming][dogged][czech][iveta][benesova][7 - 6,][6 - 2][second][round][belgian][open.])
+---------- Rewards-v() ----------
+v(0 3 4 7 9 10 12 13 14 15 16 17 18 19 20 21): 13.449809074401855, EP: 1.0206800699234009	 ([belgian][kim][clijsters][return][injury][lay - off,][dogged][czech][iveta][benesova][7 - 6,][6 - 2][second][round][belgian][open.])
+v(0 13 15 16 17 19 20 21): 13.272841453552246, EP: 1.0072503089904785	 ([belgian][czech][benesova][7 - 6,][6 - 2][round][belgian][open.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 13.177301406860352, EP: 1.0	 ([belgian][tennis][player][kim][clijsters][made][successful][return][long][injury][lay - off,][overcoming][dogged][czech][iveta][benesova][7 - 6,][6 - 2][second][round][belgian][open.])
+v(0 1 2 5 6 8 11 13 15 16 17 19 20 21): 13.007880210876465, EP: 0.9871429800987244	 ([belgian][tennis][player][made][successful][long][overcoming][czech][benesova][7 - 6,][6 - 2][round][belgian][open.])
+v(1 2 3 4 5 6 7 8 9 10 11 12 14 18): 12.47623062133789, EP: 0.9467970728874207	 ([tennis][player][kim][clijsters][made][successful][return][long][injury][lay - off,][overcoming][dogged][iveta][second])
+v(3 4 7 9 10 12 14 18): 9.620721817016602, EP: 0.7300980091094971	 ([kim][clijsters][return][injury][lay - off,][dogged][iveta][second])
+v(1 2 5 6 8 11): 7.831856727600098, EP: 0.5943444967269897	 ([tennis][player][made][successful][long][overcoming])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

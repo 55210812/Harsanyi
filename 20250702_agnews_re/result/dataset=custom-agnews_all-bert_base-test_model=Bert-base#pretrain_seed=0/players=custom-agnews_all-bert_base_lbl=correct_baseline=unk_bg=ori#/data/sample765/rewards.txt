@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: bosnia
+Player 1: # 39 ; s
+Player 2: main
+Player 3: muslim,
+Player 4: serb
+Player 5: croat
+Player 6: nationalist
+Player 7: parties
+Player 8: leading
+Player 9: early
+Player 10: count
+Player 11: local
+Player 12: polls.
+Player 13: incomplete
+Player 14: results
+Player 15: released
+Player 16: election
+Player 17: organisers
+Player 18: sunday
+Player 19: indicated
+Player 20: strong
+Player 21: backing
+---------- Rewards ----------
+v(): -5.366021156311035	 ([])
+v(4 5 6 7): 6.180050849914551	 ([serb][croat][nationalist][parties])
+v(0 1 2 3 17 18 19 21): 7.667398452758789	 ([bosnia][# 39 ; s][main][muslim,][organisers][sunday][indicated][backing])
+v(9 11 12 13 14 15 16 20): 6.1893768310546875	 ([early][local][polls.][incomplete][results][released][election][strong])
+v(8 10): -6.057897567749023	 ([leading][count])
+v(0 1 2 3 4 5 6 7 17 18 19 21): 7.811532497406006	 ([bosnia][# 39 ; s][main][muslim,][serb][croat][nationalist][parties][organisers][sunday][indicated][backing])
+v(4 5 6 7 9 11 12 13 14 15 16 20): 7.7049560546875	 ([serb][croat][nationalist][parties][early][local][polls.][incomplete][results][released][election][strong])
+v(4 5 6 7 8 10): 6.573770046234131	 ([serb][croat][nationalist][parties][leading][count])
+v(0 1 2 3 9 11 12 13 14 15 16 17 18 19 20 21): 8.281220436096191	 ([bosnia][# 39 ; s][main][muslim,][early][local][polls.][incomplete][results][released][election][organisers][sunday][indicated][strong][backing])
+v(0 1 2 3 8 10 17 18 19 21): 7.697824478149414	 ([bosnia][# 39 ; s][main][muslim,][leading][count][organisers][sunday][indicated][backing])
+v(8 9 10 11 12 13 14 15 16 20): 6.050715923309326	 ([leading][early][count][local][polls.][incomplete][results][released][election][strong])
+v(0 1 2 3 4 5 6 7 9 11 12 13 14 15 16 17 18 19 20 21): 8.304145812988281	 ([bosnia][# 39 ; s][main][muslim,][serb][croat][nationalist][parties][early][local][polls.][incomplete][results][released][election][organisers][sunday][indicated][strong][backing])
+v(0 1 2 3 4 5 6 7 8 10 17 18 19 21): 8.032458305358887	 ([bosnia][# 39 ; s][main][muslim,][serb][croat][nationalist][parties][leading][count][organisers][sunday][indicated][backing])
+v(4 5 6 7 8 9 10 11 12 13 14 15 16 20): 7.80209493637085	 ([serb][croat][nationalist][parties][leading][early][count][local][polls.][incomplete][results][released][election][strong])
+v(0 1 2 3 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.308899879455566	 ([bosnia][# 39 ; s][main][muslim,][leading][early][count][local][polls.][incomplete][results][released][election][organisers][sunday][indicated][strong][backing])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.396902084350586	 ([bosnia][# 39 ; s][main][muslim,][serb][croat][nationalist][parties][leading][early][count][local][polls.][incomplete][results][released][election][organisers][sunday][indicated][strong][backing])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 13.762923240661621, EP: 1.0	 ([bosnia][# 39 ; s][main][muslim,][serb][croat][nationalist][parties][leading][early][count][local][polls.][incomplete][results][released][election][organisers][sunday][indicated][strong][backing])
+v(0 1 2 3 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 13.674921035766602, EP: 0.9936058521270752	 ([bosnia][# 39 ; s][main][muslim,][leading][early][count][local][polls.][incomplete][results][released][election][organisers][sunday][indicated][strong][backing])
+v(0 1 2 3 4 5 6 7 9 11 12 13 14 15 16 17 18 19 20 21): 13.670166969299316, EP: 0.9932604432106018	 ([bosnia][# 39 ; s][main][muslim,][serb][croat][nationalist][parties][early][local][polls.][incomplete][results][released][election][organisers][sunday][indicated][strong][backing])
+v(0 1 2 3 9 11 12 13 14 15 16 17 18 19 20 21): 13.647241592407227, EP: 0.991594672203064	 ([bosnia][# 39 ; s][main][muslim,][early][local][polls.][incomplete][results][released][election][organisers][sunday][indicated][strong][backing])
+v(0 1 2 3 4 5 6 7 8 10 17 18 19 21): 13.398479461669922, EP: 0.9735198616981506	 ([bosnia][# 39 ; s][main][muslim,][serb][croat][nationalist][parties][leading][count][organisers][sunday][indicated][backing])
+v(0 1 2 3 4 5 6 7 17 18 19 21): 13.177553176879883, EP: 0.9574676156044006	 ([bosnia][# 39 ; s][main][muslim,][serb][croat][nationalist][parties][organisers][sunday][indicated][backing])
+v(4 5 6 7 8 9 10 11 12 13 14 15 16 20): 13.168115615844727, EP: 0.9567818641662598	 ([serb][croat][nationalist][parties][leading][early][count][local][polls.][incomplete][results][released][election][strong])
+v(4 5 6 7 9 11 12 13 14 15 16 20): 13.070977210998535, EP: 0.9497238993644714	 ([serb][croat][nationalist][parties][early][local][polls.][incomplete][results][released][election][strong])
+v(0 1 2 3 8 10 17 18 19 21): 13.06384563446045, EP: 0.949205756187439	 ([bosnia][# 39 ; s][main][muslim,][leading][count][organisers][sunday][indicated][backing])
+v(0 1 2 3 17 18 19 21): 13.033419609069824, EP: 0.9469950199127197	 ([bosnia][# 39 ; s][main][muslim,][organisers][sunday][indicated][backing])
+v(4 5 6 7 8 10): 11.939790725708008, EP: 0.8675330281257629	 ([serb][croat][nationalist][parties][leading][count])
+v(9 11 12 13 14 15 16 20): 11.555397987365723, EP: 0.8396034836769104	 ([early][local][polls.][incomplete][results][released][election][strong])
+v(4 5 6 7): 11.546072006225586, EP: 0.838925838470459	 ([serb][croat][nationalist][parties])
+v(8 9 10 11 12 13 14 15 16 20): 11.416736602783203, EP: 0.8295284509658813	 ([leading][early][count][local][polls.][incomplete][results][released][election][strong])
+v(8 10): -0.6918764114379883, EP: -0.050271037966012955	 ([leading][count])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

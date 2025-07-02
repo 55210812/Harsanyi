@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: ( reuters )
+Player 3: -
+Player 4: citigroup
+Player 5: inc.
+Player 6: & lt ; a
+Player 7: href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = c. n
+Player 8: target = / stocks / quickinfo / fullquote " & gt ; c. n & lt ; / a & gt ;
+Player 9: faces
+Player 10: lawsuit
+Player 11: angry
+Player 12: investors
+Player 13: allege
+Player 14: defrauded
+Player 15: " massive
+Player 16: scheme
+Player 17: deception "
+Player 18: bought
+Player 19: securities
+Player 20: tied
+Player 21: credit - worthiness
+Player 22: enron
+Player 23: corp.
+Player 24: & lt ; a
+Player 25: href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = enrnq. pk
+Player 26: target = / stocks / quickinfo / fullquote " & gt ; enrnq. pk & lt ; / a & gt ;.
+---------- Rewards ----------
+v(): -5.570369720458984	 ([])
+v(7 8 12 18 19 20 21 23 25 26): 8.49231243133545	 ([href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = c. n][target = / stocks / quickinfo / fullquote " & gt ; c. n & lt ; / a & gt ;][investors][bought][securities][tied][credit - worthiness][corp.][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = enrnq. pk][target = / stocks / quickinfo / fullquote " & gt ; enrnq. pk & lt ; / a & gt ;.])
+v(0 1 2 4 5 6 9 10 11 13 14 15 16 17 22 24): 5.637093544006348	 ([new][york][( reuters )][citigroup][inc.][& lt ; a][faces][lawsuit][angry][allege][defrauded][" massive][scheme][deception "][enron][& lt ; a])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 8.45895767211914	 ([new][york][( reuters )][-][citigroup][inc.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = c. n][target = / stocks / quickinfo / fullquote " & gt ; c. n & lt ; / a & gt ;][faces][lawsuit][angry][investors][allege][defrauded][" massive][scheme][deception "][bought][securities][tied][credit - worthiness][enron][corp.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = enrnq. pk][target = / stocks / quickinfo / fullquote " & gt ; enrnq. pk & lt ; / a & gt ;.])
+---------- Rewards-v() ----------
+v(7 8 12 18 19 20 21 23 25 26): 14.062682151794434, EP: 1.0023775100708008	 ([href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = c. n][target = / stocks / quickinfo / fullquote " & gt ; c. n & lt ; / a & gt ;][investors][bought][securities][tied][credit - worthiness][corp.][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = enrnq. pk][target = / stocks / quickinfo / fullquote " & gt ; enrnq. pk & lt ; / a & gt ;.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 14.029327392578125, EP: 1.0	 ([new][york][( reuters )][-][citigroup][inc.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = c. n][target = / stocks / quickinfo / fullquote " & gt ; c. n & lt ; / a & gt ;][faces][lawsuit][angry][investors][allege][defrauded][" massive][scheme][deception "][bought][securities][tied][credit - worthiness][enron][corp.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = enrnq. pk][target = / stocks / quickinfo / fullquote " & gt ; enrnq. pk & lt ; / a & gt ;.])
+v(0 1 2 4 5 6 9 10 11 13 14 15 16 17 22 24): 11.207463264465332, EP: 0.7988596558570862	 ([new][york][( reuters )][citigroup][inc.][& lt ; a][faces][lawsuit][angry][allege][defrauded][" massive][scheme][deception "][enron][& lt ; a])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

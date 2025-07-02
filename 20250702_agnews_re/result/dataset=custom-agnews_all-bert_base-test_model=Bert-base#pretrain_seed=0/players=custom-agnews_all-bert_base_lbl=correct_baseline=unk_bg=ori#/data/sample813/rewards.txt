@@ -1,0 +1,60 @@
+---------- Players ----------
+Player 0: tel
+Player 1: aviv,
+Player 2: november
+Player 3: 7
+Player 4: ( ria
+Player 5: novosti )
+Player 6: -
+Player 7: yasser
+Player 8: arafat,
+Player 9: palestinian
+Player 10: authority
+Player 11: leader,
+Player 12: badly
+Player 13: ill
+Player 14: french
+Player 15: hospital.
+Player 16: debates
+Player 17: bury
+Player 18: already
+Player 19: raging
+Player 20: israeli
+Player 21: political
+Player 22: community,
+Player 23: meanwhile.
+---------- Rewards ----------
+v(): -4.988770484924316	 ([])
+v(0 2 4 9 10 21 22): 7.5099382400512695	 ([tel][november][( ria][palestinian][authority][political][community,])
+v(1 8 11 14 17 20): 8.379764556884766	 ([aviv,][arafat,][leader,][french][bury][israeli])
+v(3 5 6 7 16 18 19): -5.4531073570251465	 ([7][novosti )][-][yasser][debates][already][raging])
+v(12 13 15 23): -2.011338949203491	 ([badly][ill][hospital.][meanwhile.])
+v(0 1 2 4 8 9 10 11 14 17 20 21 22): 8.357455253601074	 ([tel][aviv,][november][( ria][arafat,][palestinian][authority][leader,][french][bury][israeli][political][community,])
+v(0 2 3 4 5 6 7 9 10 16 18 19 21 22): 8.08481502532959	 ([tel][november][7][( ria][novosti )][-][yasser][palestinian][authority][debates][already][raging][political][community,])
+v(0 2 4 9 10 12 13 15 21 22 23): 7.539241313934326	 ([tel][november][( ria][palestinian][authority][badly][ill][hospital.][political][community,][meanwhile.])
+v(1 3 5 6 7 8 11 14 16 17 18 19 20): 8.437880516052246	 ([aviv,][7][novosti )][-][yasser][arafat,][leader,][french][debates][bury][already][raging][israeli])
+v(1 8 11 12 13 14 15 17 20 23): 8.334482192993164	 ([aviv,][arafat,][leader,][badly][ill][french][hospital.][bury][israeli][meanwhile.])
+v(3 5 6 7 12 13 15 16 18 19 23): 0.5316669940948486	 ([7][novosti )][-][yasser][badly][ill][hospital.][debates][already][raging][meanwhile.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 14 16 17 18 19 20 21 22): 8.26426887512207	 ([tel][aviv,][november][7][( ria][novosti )][-][yasser][arafat,][palestinian][authority][leader,][french][debates][bury][already][raging][israeli][political][community,])
+v(0 1 2 4 8 9 10 11 12 13 14 15 17 20 21 22 23): 8.293869972229004	 ([tel][aviv,][november][( ria][arafat,][palestinian][authority][leader,][badly][ill][french][hospital.][bury][israeli][political][community,][meanwhile.])
+v(0 2 3 4 5 6 7 9 10 12 13 15 16 18 19 21 22 23): 8.124261856079102	 ([tel][november][7][( ria][novosti )][-][yasser][palestinian][authority][badly][ill][hospital.][debates][already][raging][political][community,][meanwhile.])
+v(1 3 5 6 7 8 11 12 13 14 15 16 17 18 19 20 23): 8.404638290405273	 ([aviv,][7][novosti )][-][yasser][arafat,][leader,][badly][ill][french][hospital.][debates][bury][already][raging][israeli][meanwhile.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.230925559997559	 ([tel][aviv,][november][7][( ria][novosti )][-][yasser][arafat,][palestinian][authority][leader,][badly][ill][french][hospital.][debates][bury][already][raging][israeli][political][community,][meanwhile.])
+---------- Rewards-v() ----------
+v(1 3 5 6 7 8 11 14 16 17 18 19 20): 13.426651000976562, EP: 1.0156550407409668	 ([aviv,][7][novosti )][-][yasser][arafat,][leader,][french][debates][bury][already][raging][israeli])
+v(1 3 5 6 7 8 11 12 13 14 15 16 17 18 19 20 23): 13.39340877532959, EP: 1.0131404399871826	 ([aviv,][7][novosti )][-][yasser][arafat,][leader,][badly][ill][french][hospital.][debates][bury][already][raging][israeli][meanwhile.])
+v(1 8 11 14 17 20): 13.368535041809082, EP: 1.011258840560913	 ([aviv,][arafat,][leader,][french][bury][israeli])
+v(0 1 2 4 8 9 10 11 14 17 20 21 22): 13.34622573852539, EP: 1.0095713138580322	 ([tel][aviv,][november][( ria][arafat,][palestinian][authority][leader,][french][bury][israeli][political][community,])
+v(1 8 11 12 13 14 15 17 20 23): 13.32325267791748, EP: 1.007833480834961	 ([aviv,][arafat,][leader,][badly][ill][french][hospital.][bury][israeli][meanwhile.])
+v(0 1 2 4 8 9 10 11 12 13 14 15 17 20 21 22 23): 13.28264045715332, EP: 1.0047614574432373	 ([tel][aviv,][november][( ria][arafat,][palestinian][authority][leader,][badly][ill][french][hospital.][bury][israeli][political][community,][meanwhile.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 14 16 17 18 19 20 21 22): 13.253039360046387, EP: 1.0025222301483154	 ([tel][aviv,][november][7][( ria][novosti )][-][yasser][arafat,][palestinian][authority][leader,][french][debates][bury][already][raging][israeli][political][community,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 13.219696044921875, EP: 1.0	 ([tel][aviv,][november][7][( ria][novosti )][-][yasser][arafat,][palestinian][authority][leader,][badly][ill][french][hospital.][debates][bury][already][raging][israeli][political][community,][meanwhile.])
+v(0 2 3 4 5 6 7 9 10 12 13 15 16 18 19 21 22 23): 13.113032341003418, EP: 0.9919314384460449	 ([tel][november][7][( ria][novosti )][-][yasser][palestinian][authority][badly][ill][hospital.][debates][already][raging][political][community,][meanwhile.])
+v(0 2 3 4 5 6 7 9 10 16 18 19 21 22): 13.073585510253906, EP: 0.9889475107192993	 ([tel][november][7][( ria][novosti )][-][yasser][palestinian][authority][debates][already][raging][political][community,])
+v(0 2 4 9 10 12 13 15 21 22 23): 12.528011322021484, EP: 0.947677731513977	 ([tel][november][( ria][palestinian][authority][badly][ill][hospital.][political][community,][meanwhile.])
+v(0 2 4 9 10 21 22): 12.498708724975586, EP: 0.9454611539840698	 ([tel][november][( ria][palestinian][authority][political][community,])
+v(3 5 6 7 12 13 15 16 18 19 23): 5.520437240600586, EP: 0.4175918400287628	 ([7][novosti )][-][yasser][badly][ill][hospital.][debates][already][raging][meanwhile.])
+v(12 13 15 23): 2.977431535720825, EP: 0.22522692382335663	 ([badly][ill][hospital.][meanwhile.])
+v(3 5 6 7 16 18 19): -0.4643368721008301, EP: -0.03512462601065636	 ([7][novosti )][-][yasser][debates][already][raging])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

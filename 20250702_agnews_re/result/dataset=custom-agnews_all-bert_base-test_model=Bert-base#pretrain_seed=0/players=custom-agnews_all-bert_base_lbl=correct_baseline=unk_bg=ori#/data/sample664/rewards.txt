@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: google
+Player 1: inc.
+Player 2: unveiled
+Player 3: desktop
+Player 4: search
+Player 5: application
+Player 6: lets
+Player 7: users
+Player 8: catalog
+Player 9: search
+Player 10: e - mail,
+Player 11: files,
+Player 12: web
+Player 13: histories,
+Player 14: instant
+Player 15: message
+Player 16: chats
+Player 17: content
+Player 18: pcs.
+---------- Rewards ----------
+v(): 5.793099880218506	 ([])
+v(0 1 5 6 7 10 13 14): 4.683160781860352	 ([google][inc.][application][lets][users][e - mail,][histories,][instant])
+v(2 3 4 8 9 11 12 15 16 17 18): 7.337667465209961	 ([unveiled][desktop][search][catalog][search][files,][web][message][chats][content][pcs.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 3.0641908645629883	 ([google][inc.][unveiled][desktop][search][application][lets][users][catalog][search][e - mail,][files,][web][histories,][instant][message][chats][content][pcs.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): -2.7289090156555176, EP: 1.0	 ([google][inc.][unveiled][desktop][search][application][lets][users][catalog][search][e - mail,][files,][web][histories,][instant][message][chats][content][pcs.])
+v(2 3 4 8 9 11 12 15 16 17 18): 1.544567584991455, EP: -0.5660018920898438	 ([unveiled][desktop][search][catalog][search][files,][web][message][chats][content][pcs.])
+v(0 1 5 6 7 10 13 14): -1.1099390983581543, EP: 0.4067336320877075	 ([google][inc.][application][lets][users][e - mail,][histories,][instant])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

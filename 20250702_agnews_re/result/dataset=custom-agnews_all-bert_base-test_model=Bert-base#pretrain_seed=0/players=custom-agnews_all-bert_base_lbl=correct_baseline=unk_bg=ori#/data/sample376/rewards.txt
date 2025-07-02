@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: chelsea
+Player 1: go
+Player 2: highbury
+Player 3: today
+Player 4: knowing
+Player 5: win
+Player 6: open
+Player 7: eight - point
+Player 8: advantage
+Player 9: premiership
+Player 10: champs
+Player 11: arsenal.
+Player 12: want
+Player 13: views
+Player 14: title
+Player 15: race
+Player 16: soon
+Player 17: final
+Player 18: whistle
+Player 19: blows
+Player 20: north
+Player 21: london.
+---------- Rewards ----------
+v(): -4.487397193908691	 ([])
+v(8 9 10 14 17): 7.7103590965271	 ([advantage][premiership][champs][title][final])
+v(2 7 11 13 15): 2.991908073425293	 ([highbury][eight - point][arsenal.][views][race])
+v(0 1 3 4 5 12): 9.505781173706055	 ([chelsea][go][today][knowing][win][want])
+v(6 16 18 19 20 21): -0.14091706275939941	 ([open][soon][whistle][blows][north][london.])
+v(2 7 8 9 10 11 13 14 15 17): 9.17711353302002	 ([highbury][eight - point][advantage][premiership][champs][arsenal.][views][title][race][final])
+v(0 1 3 4 5 8 9 10 12 14 17): 9.669332504272461	 ([chelsea][go][today][knowing][win][advantage][premiership][champs][want][title][final])
+v(6 8 9 10 14 16 17 18 19 20 21): 9.48884391784668	 ([open][advantage][premiership][champs][title][soon][final][whistle][blows][north][london.])
+v(0 1 2 3 4 5 7 11 12 13 15): 9.077631950378418	 ([chelsea][go][highbury][today][knowing][win][eight - point][arsenal.][want][views][race])
+v(2 6 7 11 13 15 16 18 19 20 21): 6.1844482421875	 ([highbury][open][eight - point][arsenal.][views][race][soon][whistle][blows][north][london.])
+v(0 1 3 4 5 6 12 16 18 19 20 21): 9.147537231445312	 ([chelsea][go][today][knowing][win][open][want][soon][whistle][blows][north][london.])
+v(0 1 2 3 4 5 7 8 9 10 11 12 13 14 15 17): 9.543766975402832	 ([chelsea][go][highbury][today][knowing][win][eight - point][advantage][premiership][champs][arsenal.][want][views][title][race][final])
+v(2 6 7 8 9 10 11 13 14 15 16 17 18 19 20 21): 9.350738525390625	 ([highbury][open][eight - point][advantage][premiership][champs][arsenal.][views][title][race][soon][final][whistle][blows][north][london.])
+v(0 1 3 4 5 6 8 9 10 12 14 16 17 18 19 20 21): 9.523036003112793	 ([chelsea][go][today][knowing][win][open][advantage][premiership][champs][want][title][soon][final][whistle][blows][north][london.])
+v(0 1 2 3 4 5 6 7 11 12 13 15 16 18 19 20 21): 9.275960922241211	 ([chelsea][go][highbury][today][knowing][win][open][eight - point][arsenal.][want][views][race][soon][whistle][blows][north][london.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.574715614318848	 ([chelsea][go][highbury][today][knowing][win][open][eight - point][advantage][premiership][champs][arsenal.][want][views][title][race][soon][final][whistle][blows][north][london.])
+---------- Rewards-v() ----------
+v(0 1 3 4 5 8 9 10 12 14 17): 14.156729698181152, EP: 1.0067285299301147	 ([chelsea][go][today][knowing][win][advantage][premiership][champs][want][title][final])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 14.062112808227539, EP: 1.0	 ([chelsea][go][highbury][today][knowing][win][open][eight - point][advantage][premiership][champs][arsenal.][want][views][title][race][soon][final][whistle][blows][north][london.])
+v(0 1 2 3 4 5 7 8 9 10 11 12 13 14 15 17): 14.031164169311523, EP: 0.9977991580963135	 ([chelsea][go][highbury][today][knowing][win][eight - point][advantage][premiership][champs][arsenal.][want][views][title][race][final])
+v(0 1 3 4 5 6 8 9 10 12 14 16 17 18 19 20 21): 14.010433197021484, EP: 0.996324896812439	 ([chelsea][go][today][knowing][win][open][advantage][premiership][champs][want][title][soon][final][whistle][blows][north][london.])
+v(0 1 3 4 5 12): 13.993178367614746, EP: 0.9950978755950928	 ([chelsea][go][today][knowing][win][want])
+v(6 8 9 10 14 16 17 18 19 20 21): 13.976241111755371, EP: 0.9938933849334717	 ([open][advantage][premiership][champs][title][soon][final][whistle][blows][north][london.])
+v(2 6 7 8 9 10 11 13 14 15 16 17 18 19 20 21): 13.838135719299316, EP: 0.9840723276138306	 ([highbury][open][eight - point][advantage][premiership][champs][arsenal.][views][title][race][soon][final][whistle][blows][north][london.])
+v(0 1 2 3 4 5 6 7 11 12 13 15 16 18 19 20 21): 13.763358116149902, EP: 0.9787546396255493	 ([chelsea][go][highbury][today][knowing][win][open][eight - point][arsenal.][want][views][race][soon][whistle][blows][north][london.])
+v(2 7 8 9 10 11 13 14 15 17): 13.664510726928711, EP: 0.9717252850532532	 ([highbury][eight - point][advantage][premiership][champs][arsenal.][views][title][race][final])
+v(0 1 3 4 5 6 12 16 18 19 20 21): 13.634934425354004, EP: 0.969622015953064	 ([chelsea][go][today][knowing][win][open][want][soon][whistle][blows][north][london.])
+v(0 1 2 3 4 5 7 11 12 13 15): 13.56502914428711, EP: 0.9646508693695068	 ([chelsea][go][highbury][today][knowing][win][eight - point][arsenal.][want][views][race])
+v(8 9 10 14 17): 12.197755813598633, EP: 0.8674198389053345	 ([advantage][premiership][champs][title][final])
+v(2 6 7 11 13 15 16 18 19 20 21): 10.671845436096191, EP: 0.758907675743103	 ([highbury][open][eight - point][arsenal.][views][race][soon][whistle][blows][north][london.])
+v(2 7 11 13 15): 7.479305267333984, EP: 0.5318763256072998	 ([highbury][eight - point][arsenal.][views][race])
+v(6 16 18 19 20 21): 4.346480369567871, EP: 0.30909156799316406	 ([open][soon][whistle][blows][north][london.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

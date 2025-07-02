@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 19:19:06
+prompt: [CLS] tokyo - - tokyo stocks closed mixed on monday, but the strength of bank and auto maker issues helped the broader market index eke out gains for a 10th straight day - - the longest upswing in 14 years. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:5522 decoded_text: tokyo
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:5522 decoded_text: tokyo
+idx:5 input_id:15768 decoded_text: stocks
+idx:6 input_id:2701 decoded_text: closed
+idx:7 input_id:3816 decoded_text: mixed
+idx:8 input_id:2006 decoded_text: on
+idx:9 input_id:6928 decoded_text: monday
+idx:10 input_id:1010 decoded_text: ,
+idx:11 input_id:2021 decoded_text: but
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:3997 decoded_text: strength
+idx:14 input_id:1997 decoded_text: of
+idx:15 input_id:2924 decoded_text: bank
+idx:16 input_id:1998 decoded_text: and
+idx:17 input_id:8285 decoded_text: auto
+idx:18 input_id:9338 decoded_text: maker
+idx:19 input_id:3314 decoded_text: issues
+idx:20 input_id:3271 decoded_text: helped
+idx:21 input_id:1996 decoded_text: the
+idx:22 input_id:12368 decoded_text: broader
+idx:23 input_id:3006 decoded_text: market
+idx:24 input_id:5950 decoded_text: index
+idx:25 input_id:23969 decoded_text: ek
+idx:26 input_id:2063 decoded_text: ##e
+idx:27 input_id:2041 decoded_text: out
+idx:28 input_id:12154 decoded_text: gains
+idx:29 input_id:2005 decoded_text: for
+idx:30 input_id:1037 decoded_text: a
+idx:31 input_id:6049 decoded_text: 10th
+idx:32 input_id:3442 decoded_text: straight
+idx:33 input_id:2154 decoded_text: day
+idx:34 input_id:1011 decoded_text: -
+idx:35 input_id:1011 decoded_text: -
+idx:36 input_id:1996 decoded_text: the
+idx:37 input_id:6493 decoded_text: longest
+idx:38 input_id:11139 decoded_text: ups
+idx:39 input_id:9328 decoded_text: ##wing
+idx:40 input_id:1999 decoded_text: in
+idx:41 input_id:2403 decoded_text: 14
+idx:42 input_id:2086 decoded_text: years
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.2747175693511963, -2.881795644760132, 6.221275329589844, -3.0540244579315186]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

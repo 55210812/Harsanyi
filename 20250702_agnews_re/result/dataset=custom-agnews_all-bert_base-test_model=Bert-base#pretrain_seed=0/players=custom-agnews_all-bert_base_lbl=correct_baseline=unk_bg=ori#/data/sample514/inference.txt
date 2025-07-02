@@ -1,0 +1,40 @@
+Execution time: 2025-07-02 19:29:59
+prompt: [CLS] troubled nuclear power group british energy today said it was removing itself from the stock market in a bid to stop rebel shareholders scuppering its rescue package. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:11587 decoded_text: troubled
+idx:2 input_id:4517 decoded_text: nuclear
+idx:3 input_id:2373 decoded_text: power
+idx:4 input_id:2177 decoded_text: group
+idx:5 input_id:2329 decoded_text: british
+idx:6 input_id:2943 decoded_text: energy
+idx:7 input_id:2651 decoded_text: today
+idx:8 input_id:2056 decoded_text: said
+idx:9 input_id:2009 decoded_text: it
+idx:10 input_id:2001 decoded_text: was
+idx:11 input_id:9268 decoded_text: removing
+idx:12 input_id:2993 decoded_text: itself
+idx:13 input_id:2013 decoded_text: from
+idx:14 input_id:1996 decoded_text: the
+idx:15 input_id:4518 decoded_text: stock
+idx:16 input_id:3006 decoded_text: market
+idx:17 input_id:1999 decoded_text: in
+idx:18 input_id:1037 decoded_text: a
+idx:19 input_id:7226 decoded_text: bid
+idx:20 input_id:2000 decoded_text: to
+idx:21 input_id:2644 decoded_text: stop
+idx:22 input_id:8443 decoded_text: rebel
+idx:23 input_id:15337 decoded_text: shareholders
+idx:24 input_id:8040 decoded_text: sc
+idx:25 input_id:29547 decoded_text: ##uppe
+idx:26 input_id:4892 decoded_text: ##ring
+idx:27 input_id:2049 decoded_text: its
+idx:28 input_id:5343 decoded_text: rescue
+idx:29 input_id:7427 decoded_text: package
+idx:30 input_id:1012 decoded_text: .
+idx:31 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-0.8747434020042419, -3.1982293128967285, 5.743805885314941, -3.5545132160186768]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

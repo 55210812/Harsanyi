@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: footballer
+Player 1: david
+Player 2: beckham
+Player 3: take
+Player 4: first
+Player 5: major
+Player 6: acting
+Player 7: role
+Player 8: movie
+Player 9: goal!,
+Player 10: play
+Player 11: himself.
+Player 12: directed
+Player 13: judge
+Player 14: dredd
+Player 15: film - maker
+Player 16: danny
+Player 17: cannon,
+Player 18: goal!
+---------- Rewards ----------
+v(): -3.5804505348205566	 ([])
+v(0 8 9 10 17 18): -0.029148101806640625	 ([footballer][movie][goal!,][play][cannon,][goal!])
+v(2 11 12 14 15 16): -0.8550601005554199	 ([beckham][himself.][directed][dredd][film - maker][danny])
+v(1 3 4 5 6 7 13): -4.964712142944336	 ([david][take][first][major][acting][role][judge])
+v(0 2 8 9 10 11 12 14 15 16 17 18): 4.07110071182251	 ([footballer][beckham][movie][goal!,][play][himself.][directed][dredd][film - maker][danny][cannon,][goal!])
+v(0 1 3 4 5 6 7 8 9 10 13 17 18): 2.4568963050842285	 ([footballer][david][take][first][major][acting][role][movie][goal!,][play][judge][cannon,][goal!])
+v(1 2 3 4 5 6 7 11 12 13 14 15 16): -2.80292010307312	 ([david][beckham][take][first][major][acting][role][himself.][directed][judge][dredd][film - maker][danny])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 3.6751582622528076	 ([footballer][david][beckham][take][first][major][acting][role][movie][goal!,][play][himself.][directed][judge][dredd][film - maker][danny][cannon,][goal!])
+---------- Rewards-v() ----------
+v(0 2 8 9 10 11 12 14 15 16 17 18): 7.651551246643066, EP: 1.0545705556869507	 ([footballer][beckham][movie][goal!,][play][himself.][directed][dredd][film - maker][danny][cannon,][goal!])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.255608558654785, EP: 1.0	 ([footballer][david][beckham][take][first][major][acting][role][movie][goal!,][play][himself.][directed][judge][dredd][film - maker][danny][cannon,][goal!])
+v(0 1 3 4 5 6 7 8 9 10 13 17 18): 6.037346839904785, EP: 0.8320937752723694	 ([footballer][david][take][first][major][acting][role][movie][goal!,][play][judge][cannon,][goal!])
+v(0 8 9 10 17 18): 3.551302433013916, EP: 0.4894561767578125	 ([footballer][movie][goal!,][play][cannon,][goal!])
+v(2 11 12 14 15 16): 2.7253904342651367, EP: 0.375625342130661	 ([beckham][himself.][directed][dredd][film - maker][danny])
+v(1 3 4 5 6 7 13): -1.3842616081237793, EP: -0.19078505039215088	 ([david][take][first][major][acting][role][judge])
+v(1 2 3 4 5 6 7 11 12 13 14 15 16): 0.7775304317474365, EP: 0.10716267675161362	 ([david][beckham][take][first][major][acting][role][himself.][directed][judge][dredd][film - maker][danny])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

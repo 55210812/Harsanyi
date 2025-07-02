@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: vice
+Player 1: presidential
+Player 2: candidates
+Player 3: said
+Player 4: yasser
+Player 5: arafat
+Player 6: partner
+Player 7: peace.
+Player 8: vice
+Player 9: president
+Player 10: dick
+Player 11: cheney
+Player 12: faced
+Player 13: cleveland
+Player 14: tuesday
+Player 15: night
+Player 16: sen.
+Player 17: john
+Player 18: edwards
+Player 19: ( dn.
+---------- Rewards ----------
+v(): -7.0612897872924805	 ([])
+v(4 5 6 7 9 13): 7.954500198364258	 ([yasser][arafat][partner][peace.][president][cleveland])
+v(10 11 12 14 15): -2.8861892223358154	 ([dick][cheney][faced][tuesday][night])
+v(0 1 2 3 8 16 19): 6.440605640411377	 ([vice][presidential][candidates][said][vice][sen.][( dn.])
+v(17 18): -1.9365956783294678	 ([john][edwards])
+v(4 5 6 7 9 10 11 12 13 14 15): 7.9299139976501465	 ([yasser][arafat][partner][peace.][president][dick][cheney][faced][cleveland][tuesday][night])
+v(0 1 2 3 4 5 6 7 8 9 13 16 19): 8.19754409790039	 ([vice][presidential][candidates][said][yasser][arafat][partner][peace.][vice][president][cleveland][sen.][( dn.])
+v(4 5 6 7 9 13 17 18): 7.847391128540039	 ([yasser][arafat][partner][peace.][president][cleveland][john][edwards])
+v(0 1 2 3 8 10 11 12 14 15 16 19): 6.362429141998291	 ([vice][presidential][candidates][said][vice][dick][cheney][faced][tuesday][night][sen.][( dn.])
+v(10 11 12 14 15 17 18): 1.5607421398162842	 ([dick][cheney][faced][tuesday][night][john][edwards])
+v(0 1 2 3 8 16 17 18 19): 0.04369080066680908	 ([vice][presidential][candidates][said][vice][sen.][john][edwards][( dn.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19): 8.062728881835938	 ([vice][presidential][candidates][said][yasser][arafat][partner][peace.][vice][president][dick][cheney][faced][cleveland][tuesday][night][sen.][( dn.])
+v(4 5 6 7 9 10 11 12 13 14 15 17 18): 7.953604698181152	 ([yasser][arafat][partner][peace.][president][dick][cheney][faced][cleveland][tuesday][night][john][edwards])
+v(0 1 2 3 4 5 6 7 8 9 13 16 17 18 19): 7.801352500915527	 ([vice][presidential][candidates][said][yasser][arafat][partner][peace.][vice][president][cleveland][sen.][john][edwards][( dn.])
+v(0 1 2 3 8 10 11 12 14 15 16 17 18 19): 6.335912704467773	 ([vice][presidential][candidates][said][vice][dick][cheney][faced][tuesday][night][sen.][john][edwards][( dn.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.052254676818848	 ([vice][presidential][candidates][said][yasser][arafat][partner][peace.][vice][president][dick][cheney][faced][cleveland][tuesday][night][sen.][john][edwards][( dn.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 13 16 19): 15.258833885192871, EP: 1.0096131563186646	 ([vice][presidential][candidates][said][yasser][arafat][partner][peace.][vice][president][cleveland][sen.][( dn.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19): 15.124018669128418, EP: 1.0006930828094482	 ([vice][presidential][candidates][said][yasser][arafat][partner][peace.][vice][president][dick][cheney][faced][cleveland][tuesday][night][sen.][( dn.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 15.113544464111328, EP: 1.0	 ([vice][presidential][candidates][said][yasser][arafat][partner][peace.][vice][president][dick][cheney][faced][cleveland][tuesday][night][sen.][john][edwards][( dn.])
+v(4 5 6 7 9 13): 15.015789985656738, EP: 0.9935320019721985	 ([yasser][arafat][partner][peace.][president][cleveland])
+v(4 5 6 7 9 10 11 12 13 14 15 17 18): 15.014894485473633, EP: 0.9934727549552917	 ([yasser][arafat][partner][peace.][president][dick][cheney][faced][cleveland][tuesday][night][john][edwards])
+v(4 5 6 7 9 10 11 12 13 14 15): 14.991203308105469, EP: 0.9919052124023438	 ([yasser][arafat][partner][peace.][president][dick][cheney][faced][cleveland][tuesday][night])
+v(4 5 6 7 9 13 17 18): 14.90868091583252, EP: 0.9864450097084045	 ([yasser][arafat][partner][peace.][president][cleveland][john][edwards])
+v(0 1 2 3 4 5 6 7 8 9 13 16 17 18 19): 14.862642288208008, EP: 0.9833988547325134	 ([vice][presidential][candidates][said][yasser][arafat][partner][peace.][vice][president][cleveland][sen.][john][edwards][( dn.])
+v(0 1 2 3 8 16 19): 13.501895904541016, EP: 0.8933639526367188	 ([vice][presidential][candidates][said][vice][sen.][( dn.])
+v(0 1 2 3 8 10 11 12 14 15 16 19): 13.42371940612793, EP: 0.8881913423538208	 ([vice][presidential][candidates][said][vice][dick][cheney][faced][tuesday][night][sen.][( dn.])
+v(0 1 2 3 8 10 11 12 14 15 16 17 18 19): 13.397202491760254, EP: 0.8864368200302124	 ([vice][presidential][candidates][said][vice][dick][cheney][faced][tuesday][night][sen.][john][edwards][( dn.])
+v(10 11 12 14 15 17 18): 8.622032165527344, EP: 0.5704838037490845	 ([dick][cheney][faced][tuesday][night][john][edwards])
+v(0 1 2 3 8 16 17 18 19): 7.10498046875, EP: 0.470106840133667	 ([vice][presidential][candidates][said][vice][sen.][john][edwards][( dn.])
+v(17 18): 5.124693870544434, EP: 0.3390795588493347	 ([john][edwards])
+v(10 11 12 14 15): 4.175100326538086, EP: 0.2762489318847656	 ([dick][cheney][faced][tuesday][night])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

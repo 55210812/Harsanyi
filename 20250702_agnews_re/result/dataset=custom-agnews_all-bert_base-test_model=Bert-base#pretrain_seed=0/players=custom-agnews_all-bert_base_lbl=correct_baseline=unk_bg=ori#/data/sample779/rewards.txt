@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: cisco
+Player 1: systems
+Player 2: shaking
+Player 3: network
+Player 4: management
+Player 5: release
+Player 6: two
+Player 7: new
+Player 8: switches.
+Player 9: aimed
+Player 10: mid - sized
+Player 11: enterprises,
+Player 12: switches
+Player 13: acknowledge
+Player 14: large
+Player 15: numbers
+Player 16: people
+Player 17: confident
+---------- Rewards ----------
+v(): 5.449586391448975	 ([])
+v(5 10 11 12 13 15): 6.626333236694336	 ([release][mid - sized][enterprises,][switches][acknowledge][numbers])
+v(0 1 2 3 4 14 17): 4.215991973876953	 ([cisco][systems][shaking][network][management][large][confident])
+v(6 7 8 9 16): 7.245308876037598	 ([two][new][switches.][aimed][people])
+v(0 1 2 3 4 5 10 11 12 13 14 15 17): 6.362283706665039	 ([cisco][systems][shaking][network][management][release][mid - sized][enterprises,][switches][acknowledge][large][numbers][confident])
+v(5 6 7 8 9 10 11 12 13 15 16): 7.581793785095215	 ([release][two][new][switches.][aimed][mid - sized][enterprises,][switches][acknowledge][numbers][people])
+v(0 1 2 3 4 6 7 8 9 14 16 17): 5.160697937011719	 ([cisco][systems][shaking][network][management][two][new][switches.][aimed][large][people][confident])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 6.795711040496826	 ([cisco][systems][shaking][network][management][release][two][new][switches.][aimed][mid - sized][enterprises,][switches][acknowledge][large][numbers][people][confident])
+---------- Rewards-v() ----------
+v(5 6 7 8 9 10 11 12 13 15 16): 2.1322073936462402, EP: 1.5839598178863525	 ([release][two][new][switches.][aimed][mid - sized][enterprises,][switches][acknowledge][numbers][people])
+v(6 7 8 9 16): 1.795722484588623, EP: 1.3339941501617432	 ([two][new][switches.][aimed][people])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 1.3461246490478516, EP: 1.0	 ([cisco][systems][shaking][network][management][release][two][new][switches.][aimed][mid - sized][enterprises,][switches][acknowledge][large][numbers][people][confident])
+v(0 1 2 3 4 14 17): -1.2335944175720215, EP: -0.9164043068885803	 ([cisco][systems][shaking][network][management][large][confident])
+v(5 10 11 12 13 15): 1.1767468452453613, EP: 0.8741737604141235	 ([release][mid - sized][enterprises,][switches][acknowledge][numbers])
+v(0 1 2 3 4 5 10 11 12 13 14 15 17): 0.9126973152160645, EP: 0.6780184507369995	 ([cisco][systems][shaking][network][management][release][mid - sized][enterprises,][switches][acknowledge][large][numbers][confident])
+v(0 1 2 3 4 6 7 8 9 14 16 17): -0.28888845443725586, EP: -0.21460750699043274	 ([cisco][systems][shaking][network][management][two][new][switches.][aimed][large][people][confident])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

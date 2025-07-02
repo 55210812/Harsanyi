@@ -1,0 +1,23 @@
+---------- Players ----------
+Player 0: pc
+Player 1: world
+Player 2: -
+Player 3: updated
+Player 4: antivirus
+Player 5: software
+Player 6: businesses
+Player 7: adds
+Player 8: intrusion
+Player 9: prevention
+Player 10: features.
+---------- Rewards ----------
+v(): 6.111044883728027	 ([])
+v(0 4 5 6 8 10): 8.124189376831055	 ([pc][antivirus][software][businesses][intrusion][features.])
+v(1 2 3 7 9): -3.3455991744995117	 ([world][-][updated][adds][prevention])
+v(0 1 2 3 4 5 6 7 8 9 10): 7.2490129470825195	 ([pc][world][-][updated][antivirus][software][businesses][adds][intrusion][prevention][features.])
+---------- Rewards-v() ----------
+v(1 2 3 7 9): -9.456644058227539, EP: -8.310113906860352	 ([world][-][updated][adds][prevention])
+v(0 4 5 6 8 10): 2.0131444931030273, EP: 1.7690694332122803	 ([pc][antivirus][software][businesses][intrusion][features.])
+v(0 1 2 3 4 5 6 7 8 9 10): 1.1379680633544922, EP: 1.0	 ([pc][world][-][updated][antivirus][software][businesses][adds][intrusion][prevention][features.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

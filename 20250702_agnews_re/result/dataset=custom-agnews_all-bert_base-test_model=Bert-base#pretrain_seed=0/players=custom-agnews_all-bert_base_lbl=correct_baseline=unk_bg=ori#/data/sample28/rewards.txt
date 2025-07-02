@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: continental
+Player 1: airlines
+Player 2: inc.
+Player 3: ( cal. n :
+Player 4: quote,
+Player 5: profile,
+Player 6: research )
+Player 7: plans
+Player 8: eliminate
+Player 9: 425
+Player 10: management
+Player 11: clerical
+Player 12: jobs,
+Player 13: wage
+Player 14: cuts
+Player 15: may
+Player 16: next
+Player 17: revenue
+Player 18: picture
+Player 19: improve,
+Player 20: no.
+---------- Rewards ----------
+v(): -5.438130855560303	 ([])
+v(1 8 9 10 11 12 17): 7.556060791015625	 ([airlines][eliminate][425][management][clerical][jobs,][revenue])
+v(0 2 3 7): 2.8692898750305176	 ([continental][inc.][( cal. n :][plans])
+v(6 13 14 15 18): -8.498259544372559	 ([research )][wage][cuts][may][picture])
+v(4 5 16 19 20): 5.016201496124268	 ([quote,][profile,][next][improve,][no.])
+v(0 1 2 3 7 8 9 10 11 12 17): 8.333732604980469	 ([continental][airlines][inc.][( cal. n :][plans][eliminate][425][management][clerical][jobs,][revenue])
+v(1 6 8 9 10 11 12 13 14 15 17 18): 6.306406021118164	 ([airlines][research )][eliminate][425][management][clerical][jobs,][wage][cuts][may][revenue][picture])
+v(1 4 5 8 9 10 11 12 16 17 19 20): 8.347593307495117	 ([airlines][quote,][profile,][eliminate][425][management][clerical][jobs,][next][revenue][improve,][no.])
+v(0 2 3 6 7 13 14 15 18): 6.333807945251465	 ([continental][inc.][( cal. n :][research )][plans][wage][cuts][may][picture])
+v(0 2 3 4 5 7 16 19 20): 7.809744358062744	 ([continental][inc.][( cal. n :][quote,][profile,][plans][next][improve,][no.])
+v(4 5 6 13 14 15 16 18 19 20): 5.982927322387695	 ([quote,][profile,][research )][wage][cuts][may][next][picture][improve,][no.])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 17 18): 8.366621971130371	 ([continental][airlines][inc.][( cal. n :][research )][plans][eliminate][425][management][clerical][jobs,][wage][cuts][may][revenue][picture])
+v(0 1 2 3 4 5 7 8 9 10 11 12 16 17 19 20): 8.455571174621582	 ([continental][airlines][inc.][( cal. n :][quote,][profile,][plans][eliminate][425][management][clerical][jobs,][next][revenue][improve,][no.])
+v(1 4 5 6 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.446234703063965	 ([airlines][quote,][profile,][research )][eliminate][425][management][clerical][jobs,][wage][cuts][may][next][revenue][picture][improve,][no.])
+v(0 2 3 4 5 6 7 13 14 15 16 18 19 20): 8.35336971282959	 ([continental][inc.][( cal. n :][quote,][profile,][research )][plans][wage][cuts][may][next][picture][improve,][no.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.467684745788574	 ([continental][airlines][inc.][( cal. n :][quote,][profile,][research )][plans][eliminate][425][management][clerical][jobs,][wage][cuts][may][next][revenue][picture][improve,][no.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.905815124511719, EP: 1.0	 ([continental][airlines][inc.][( cal. n :][quote,][profile,][research )][plans][eliminate][425][management][clerical][jobs,][wage][cuts][may][next][revenue][picture][improve,][no.])
+v(0 1 2 3 4 5 7 8 9 10 11 12 16 17 19 20): 13.893701553344727, EP: 0.9991288781166077	 ([continental][airlines][inc.][( cal. n :][quote,][profile,][plans][eliminate][425][management][clerical][jobs,][next][revenue][improve,][no.])
+v(1 4 5 6 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.88436508178711, EP: 0.9984574913978577	 ([airlines][quote,][profile,][research )][eliminate][425][management][clerical][jobs,][wage][cuts][may][next][revenue][picture][improve,][no.])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 17 18): 13.804752349853516, EP: 0.9927323460578918	 ([continental][airlines][inc.][( cal. n :][research )][plans][eliminate][425][management][clerical][jobs,][wage][cuts][may][revenue][picture])
+v(0 2 3 4 5 6 7 13 14 15 16 18 19 20): 13.791500091552734, EP: 0.9917793273925781	 ([continental][inc.][( cal. n :][quote,][profile,][research )][plans][wage][cuts][may][next][picture][improve,][no.])
+v(1 4 5 8 9 10 11 12 16 17 19 20): 13.785724639892578, EP: 0.9913640022277832	 ([airlines][quote,][profile,][eliminate][425][management][clerical][jobs,][next][revenue][improve,][no.])
+v(0 1 2 3 7 8 9 10 11 12 17): 13.77186393737793, EP: 0.9903672337532043	 ([continental][airlines][inc.][( cal. n :][plans][eliminate][425][management][clerical][jobs,][revenue])
+v(0 2 3 4 5 7 16 19 20): 13.247875213623047, EP: 0.9526860117912292	 ([continental][inc.][( cal. n :][quote,][profile,][plans][next][improve,][no.])
+v(1 8 9 10 11 12 17): 12.994192123413086, EP: 0.9344430565834045	 ([airlines][eliminate][425][management][clerical][jobs,][revenue])
+v(0 2 3 6 7 13 14 15 18): 11.77193832397461, EP: 0.8465479016304016	 ([continental][inc.][( cal. n :][research )][plans][wage][cuts][may][picture])
+v(1 6 8 9 10 11 12 13 14 15 17 18): 11.744537353515625, EP: 0.844577431678772	 ([airlines][research )][eliminate][425][management][clerical][jobs,][wage][cuts][may][revenue][picture])
+v(4 5 6 13 14 15 16 18 19 20): 11.421058654785156, EP: 0.8213152885437012	 ([quote,][profile,][research )][wage][cuts][may][next][picture][improve,][no.])
+v(4 5 16 19 20): 10.45433235168457, EP: 0.7517957091331482	 ([quote,][profile,][next][improve,][no.])
+v(0 2 3 7): 8.30742073059082, EP: 0.597406268119812	 ([continental][inc.][( cal. n :][plans])
+v(6 13 14 15 18): -3.060128688812256, EP: -0.22006107866764069	 ([research )][wage][cuts][may][picture])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

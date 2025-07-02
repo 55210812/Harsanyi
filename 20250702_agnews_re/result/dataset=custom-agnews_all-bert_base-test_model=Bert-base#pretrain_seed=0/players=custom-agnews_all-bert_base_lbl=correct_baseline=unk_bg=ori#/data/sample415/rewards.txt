@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: ( reuters )
+Player 3: -
+Player 4: record
+Player 5: crude
+Player 6: oil
+Player 7: prices,
+Player 8: tidal
+Player 9: wave
+Player 10: quarterly
+Player 11: earnings
+Player 12: reports
+Player 13: anxiety
+Player 14: ahead
+Player 15: presidential
+Player 16: election
+Player 17: may
+Player 18: pin
+Player 19: u. s.
+Player 20: stocks
+Player 21: week.
+---------- Rewards ----------
+v(): -3.134634017944336	 ([])
+v(0 1 4 5 6 7 10 11 19 20): 8.014548301696777	 ([new][york][record][crude][oil][prices,][quarterly][earnings][u. s.][stocks])
+v(2 8 9 12 13 14 15 16 17 18 21): -9.077801704406738	 ([( reuters )][tidal][wave][reports][anxiety][ahead][presidential][election][may][pin][week.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.206869125366211	 ([new][york][( reuters )][-][record][crude][oil][prices,][tidal][wave][quarterly][earnings][reports][anxiety][ahead][presidential][election][may][pin][u. s.][stocks][week.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 11.341503143310547, EP: 1.0	 ([new][york][( reuters )][-][record][crude][oil][prices,][tidal][wave][quarterly][earnings][reports][anxiety][ahead][presidential][election][may][pin][u. s.][stocks][week.])
+v(0 1 4 5 6 7 10 11 19 20): 11.149182319641113, EP: 0.9830427169799805	 ([new][york][record][crude][oil][prices,][quarterly][earnings][u. s.][stocks])
+v(2 8 9 12 13 14 15 16 17 18 21): -5.943167686462402, EP: -0.5240194201469421	 ([( reuters )][tidal][wave][reports][anxiety][ahead][presidential][election][may][pin][week.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

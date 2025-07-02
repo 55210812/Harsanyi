@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: peyton
+Player 3: manning
+Player 4: tied
+Player 5: nfl
+Player 6: record
+Player 7: set
+Player 8: john
+Player 9: unitas
+Player 10: 1959
+Player 11: 12th
+Player 12: straight
+Player 13: game
+Player 14: least
+Player 15: two
+Player 16: touchdowns
+Player 17: open
+Player 18: season.
+---------- Rewards ----------
+v(): -4.1906633377075195	 ([])
+v(0 1 5 16): 9.606465339660645	 ([ap][-][nfl][touchdowns])
+v(2 3 4 10 11 14 18): 9.426258087158203	 ([peyton][manning][tied][1959][12th][least][season.])
+v(6 7 8 9 12 13 15 17): 4.818464756011963	 ([record][set][john][unitas][straight][game][two][open])
+v(0 1 2 3 4 5 10 11 14 16 18): 9.741100311279297	 ([ap][-][peyton][manning][tied][nfl][1959][12th][least][touchdowns][season.])
+v(0 1 5 6 7 8 9 12 13 15 16 17): 9.71269416809082	 ([ap][-][nfl][record][set][john][unitas][straight][game][two][touchdowns][open])
+v(2 3 4 6 7 8 9 10 11 12 13 14 15 17 18): 9.159342765808105	 ([peyton][manning][tied][record][set][john][unitas][1959][12th][straight][game][least][two][open][season.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.703110694885254	 ([ap][-][peyton][manning][tied][nfl][record][set][john][unitas][1959][12th][straight][game][least][two][touchdowns][open][season.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 10 11 14 16 18): 13.931763648986816, EP: 1.0027343034744263	 ([ap][-][peyton][manning][tied][nfl][1959][12th][least][touchdowns][season.])
+v(0 1 5 6 7 8 9 12 13 15 16 17): 13.90335750579834, EP: 1.0006897449493408	 ([ap][-][nfl][record][set][john][unitas][straight][game][two][touchdowns][open])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 13.893774032592773, EP: 1.0	 ([ap][-][peyton][manning][tied][nfl][record][set][john][unitas][1959][12th][straight][game][least][two][touchdowns][open][season.])
+v(0 1 5 16): 13.797128677368164, EP: 0.9930439591407776	 ([ap][-][nfl][touchdowns])
+v(2 3 4 10 11 14 18): 13.616921424865723, EP: 0.9800736308097839	 ([peyton][manning][tied][1959][12th][least][season.])
+v(2 3 4 6 7 8 9 10 11 12 13 14 15 17 18): 13.350006103515625, EP: 0.9608624577522278	 ([peyton][manning][tied][record][set][john][unitas][1959][12th][straight][game][least][two][open][season.])
+v(6 7 8 9 12 13 15 17): 9.00912857055664, EP: 0.6484291553497314	 ([record][set][john][unitas][straight][game][two][open])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

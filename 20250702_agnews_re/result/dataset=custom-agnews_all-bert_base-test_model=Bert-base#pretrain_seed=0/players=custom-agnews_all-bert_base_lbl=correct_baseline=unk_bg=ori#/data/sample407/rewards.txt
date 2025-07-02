@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: thailand
+Player 1: # 39 ; s
+Player 2: prime
+Player 3: minister
+Player 4: thaksin
+Player 5: shinawatra
+Player 6: said
+Player 7: set
+Player 8: inquiry
+Player 9: deaths
+Player 10: 84
+Player 11: people
+Player 12: suffocated
+Player 13: taken
+Player 14: army
+Player 15: camp
+Player 16: majority - muslim
+Player 17: southern
+Player 18: province
+Player 19: narathiwat.
+---------- Rewards ----------
+v(): -5.993734359741211	 ([])
+v(1 2 3): 7.506046295166016	 ([# 39 ; s][prime][minister])
+v(0 4 5 6 7 8 19): 7.030130386352539	 ([thailand][thaksin][shinawatra][said][set][inquiry][narathiwat.])
+v(9 10 11 12): -2.6961028575897217	 ([deaths][84][people][suffocated])
+v(13 14 15 16 17 18): 5.262265205383301	 ([taken][army][camp][majority - muslim][southern][province])
+v(0 1 2 3 4 5 6 7 8 19): 7.598667144775391	 ([thailand][# 39 ; s][prime][minister][thaksin][shinawatra][said][set][inquiry][narathiwat.])
+v(1 2 3 9 10 11 12): 5.834168434143066	 ([# 39 ; s][prime][minister][deaths][84][people][suffocated])
+v(1 2 3 13 14 15 16 17 18): 7.924325942993164	 ([# 39 ; s][prime][minister][taken][army][camp][majority - muslim][southern][province])
+v(0 4 5 6 7 8 9 10 11 12 19): 7.629446506500244	 ([thailand][thaksin][shinawatra][said][set][inquiry][deaths][84][people][suffocated][narathiwat.])
+v(0 4 5 6 7 8 13 14 15 16 17 18 19): 8.212773323059082	 ([thailand][thaksin][shinawatra][said][set][inquiry][taken][army][camp][majority - muslim][southern][province][narathiwat.])
+v(9 10 11 12 13 14 15 16 17 18): 6.932990074157715	 ([deaths][84][people][suffocated][taken][army][camp][majority - muslim][southern][province])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 19): 7.781932353973389	 ([thailand][# 39 ; s][prime][minister][thaksin][shinawatra][said][set][inquiry][deaths][84][people][suffocated][narathiwat.])
+v(0 1 2 3 4 5 6 7 8 13 14 15 16 17 18 19): 8.327434539794922	 ([thailand][# 39 ; s][prime][minister][thaksin][shinawatra][said][set][inquiry][taken][army][camp][majority - muslim][southern][province][narathiwat.])
+v(1 2 3 9 10 11 12 13 14 15 16 17 18): 7.531781196594238	 ([# 39 ; s][prime][minister][deaths][84][people][suffocated][taken][army][camp][majority - muslim][southern][province])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.721785068511963	 ([thailand][thaksin][shinawatra][said][set][inquiry][deaths][84][people][suffocated][taken][army][camp][majority - muslim][southern][province][narathiwat.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.726607799530029	 ([thailand][# 39 ; s][prime][minister][thaksin][shinawatra][said][set][inquiry][deaths][84][people][suffocated][taken][army][camp][majority - muslim][southern][province][narathiwat.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 13 14 15 16 17 18 19): 14.321168899536133, EP: 1.0437909364700317	 ([thailand][# 39 ; s][prime][minister][thaksin][shinawatra][said][set][inquiry][taken][army][camp][majority - muslim][southern][province][narathiwat.])
+v(0 4 5 6 7 8 13 14 15 16 17 18 19): 14.206507682800293, EP: 1.0354338884353638	 ([thailand][thaksin][shinawatra][said][set][inquiry][taken][army][camp][majority - muslim][southern][province][narathiwat.])
+v(1 2 3 13 14 15 16 17 18): 13.918060302734375, EP: 1.0144104957580566	 ([# 39 ; s][prime][minister][taken][army][camp][majority - muslim][southern][province])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 19): 13.775667190551758, EP: 1.0040322542190552	 ([thailand][# 39 ; s][prime][minister][thaksin][shinawatra][said][set][inquiry][deaths][84][people][suffocated][narathiwat.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.720342636108398, EP: 1.0	 ([thailand][# 39 ; s][prime][minister][thaksin][shinawatra][said][set][inquiry][deaths][84][people][suffocated][taken][army][camp][majority - muslim][southern][province][narathiwat.])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.715518951416016, EP: 0.9996484518051147	 ([thailand][thaksin][shinawatra][said][set][inquiry][deaths][84][people][suffocated][taken][army][camp][majority - muslim][southern][province][narathiwat.])
+v(0 4 5 6 7 8 9 10 11 12 19): 13.623180389404297, EP: 0.9929183721542358	 ([thailand][thaksin][shinawatra][said][set][inquiry][deaths][84][people][suffocated][narathiwat.])
+v(0 1 2 3 4 5 6 7 8 19): 13.592401504516602, EP: 0.9906750917434692	 ([thailand][# 39 ; s][prime][minister][thaksin][shinawatra][said][set][inquiry][narathiwat.])
+v(1 2 3 9 10 11 12 13 14 15 16 17 18): 13.52551555633545, EP: 0.9858001470565796	 ([# 39 ; s][prime][minister][deaths][84][people][suffocated][taken][army][camp][majority - muslim][southern][province])
+v(1 2 3): 13.499780654907227, EP: 0.9839244484901428	 ([# 39 ; s][prime][minister])
+v(0 4 5 6 7 8 19): 13.02386474609375, EP: 0.949237585067749	 ([thailand][thaksin][shinawatra][said][set][inquiry][narathiwat.])
+v(9 10 11 12 13 14 15 16 17 18): 12.926724433898926, EP: 0.9421575665473938	 ([deaths][84][people][suffocated][taken][army][camp][majority - muslim][southern][province])
+v(1 2 3 9 10 11 12): 11.827902793884277, EP: 0.8620705008506775	 ([# 39 ; s][prime][minister][deaths][84][people][suffocated])
+v(13 14 15 16 17 18): 11.255999565124512, EP: 0.8203876614570618	 ([taken][army][camp][majority - muslim][southern][province])
+v(9 10 11 12): 3.2976315021514893, EP: 0.24034614861011505	 ([deaths][84][people][suffocated])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 19:40:28
+prompt: [CLS] london ( reuters ) - victorious european ryder cup captain bernhard langer has accepted an invitation to play in next month's world match play championship at wentworth for the biggest prize in golf. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2414 decoded_text: london
+idx:2 input_id:1006 decoded_text: (
+idx:3 input_id:26665 decoded_text: reuters
+idx:4 input_id:1007 decoded_text: )
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:13846 decoded_text: victorious
+idx:7 input_id:2647 decoded_text: european
+idx:8 input_id:11731 decoded_text: ryder
+idx:9 input_id:2452 decoded_text: cup
+idx:10 input_id:2952 decoded_text: captain
+idx:11 input_id:21432 decoded_text: bernhard
+idx:12 input_id:21395 decoded_text: lange
+idx:13 input_id:2099 decoded_text: ##r
+idx:14 input_id:2038 decoded_text: has
+idx:15 input_id:3970 decoded_text: accepted
+idx:16 input_id:2019 decoded_text: an
+idx:17 input_id:8468 decoded_text: invitation
+idx:18 input_id:2000 decoded_text: to
+idx:19 input_id:2377 decoded_text: play
+idx:20 input_id:1999 decoded_text: in
+idx:21 input_id:2279 decoded_text: next
+idx:22 input_id:3204 decoded_text: month
+idx:23 input_id:1005 decoded_text: '
+idx:24 input_id:1055 decoded_text: s
+idx:25 input_id:2088 decoded_text: world
+idx:26 input_id:2674 decoded_text: match
+idx:27 input_id:2377 decoded_text: play
+idx:28 input_id:2528 decoded_text: championship
+idx:29 input_id:2012 decoded_text: at
+idx:30 input_id:20572 decoded_text: wentworth
+idx:31 input_id:2005 decoded_text: for
+idx:32 input_id:1996 decoded_text: the
+idx:33 input_id:5221 decoded_text: biggest
+idx:34 input_id:3396 decoded_text: prize
+idx:35 input_id:1999 decoded_text: in
+idx:36 input_id:5439 decoded_text: golf
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.548330307006836, 8.298129081726074, -2.107719898223877, -2.4533865451812744]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

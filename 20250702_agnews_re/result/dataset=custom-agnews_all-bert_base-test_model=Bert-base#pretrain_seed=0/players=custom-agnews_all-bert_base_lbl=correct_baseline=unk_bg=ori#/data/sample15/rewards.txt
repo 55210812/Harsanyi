@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: despite
+Player 1: published
+Player 2: report
+Player 3: contrary,
+Player 4: yankees
+Player 5: come
+Player 6: terms
+Player 7: jaret
+Player 8: wright
+Player 9: tuesday
+Player 10: night,
+Player 11: bronx
+Player 12: bombers
+Player 13: move
+Player 14: quickly
+Player 15: replace
+---------- Rewards ----------
+v(): -4.968696117401123	 ([])
+v(1 4 9 11): 9.667129516601562	 ([published][yankees][tuesday][bronx])
+v(6 7 8): 7.1198344230651855	 ([terms][jaret][wright])
+v(0 2 3 5 10 12 13 14 15): -4.137704849243164	 ([despite][report][contrary,][come][night,][bombers][move][quickly][replace])
+v(1 4 6 7 8 9 11): 9.658782005310059	 ([published][yankees][terms][jaret][wright][tuesday][bronx])
+v(0 1 2 3 4 5 9 10 11 12 13 14 15): 9.714256286621094	 ([despite][published][report][contrary,][yankees][come][tuesday][night,][bronx][bombers][move][quickly][replace])
+v(0 2 3 5 6 7 8 10 12 13 14 15): 8.322704315185547	 ([despite][report][contrary,][come][terms][jaret][wright][night,][bombers][move][quickly][replace])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.7490816116333	 ([despite][published][report][contrary,][yankees][come][terms][jaret][wright][tuesday][night,][bronx][bombers][move][quickly][replace])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 14.717777252197266, EP: 1.0	 ([despite][published][report][contrary,][yankees][come][terms][jaret][wright][tuesday][night,][bronx][bombers][move][quickly][replace])
+v(0 1 2 3 4 5 9 10 11 12 13 14 15): 14.682952880859375, EP: 0.9976338744163513	 ([despite][published][report][contrary,][yankees][come][tuesday][night,][bronx][bombers][move][quickly][replace])
+v(1 4 9 11): 14.635826110839844, EP: 0.9944318532943726	 ([published][yankees][tuesday][bronx])
+v(1 4 6 7 8 9 11): 14.627477645874023, EP: 0.9938645958900452	 ([published][yankees][terms][jaret][wright][tuesday][bronx])
+v(0 2 3 5 6 7 8 10 12 13 14 15): 13.291400909423828, EP: 0.9030848145484924	 ([despite][report][contrary,][come][terms][jaret][wright][night,][bombers][move][quickly][replace])
+v(6 7 8): 12.088530540466309, EP: 0.8213557004928589	 ([terms][jaret][wright])
+v(0 2 3 5 10 12 13 14 15): 0.830991268157959, EP: 0.05646173655986786	 ([despite][report][contrary,][come][night,][bombers][move][quickly][replace])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

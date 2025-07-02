@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: sydney
+Player 1: ( dow
+Player 2: jones ) - - stockland
+Player 3: ( sgp. au )
+Player 4: said
+Player 5: thursday
+Player 6: pay
+Player 7: a \ $ 825
+Player 8: million,
+Player 9: plus
+Player 10: working
+Player 11: capital
+Player 12: a \ $ 21
+Player 13: million,
+Player 14: lensworth,
+Player 15: property
+Player 16: development
+Player 17: business
+Player 18: foster
+Player 19: # 39 ; s
+Player 20: group
+Player 21: ltd.
+---------- Rewards ----------
+v(): -2.0063424110412598	 ([])
+v(0 5 9 15 16 17 19 20 21): 6.293825626373291	 ([sydney][thursday][plus][property][development][business][# 39 ; s][group][ltd.])
+v(1 6 7 8 11 12 13 18): 8.332324028015137	 ([( dow][pay][a \ $ 825][million,][capital][a \ $ 21][million,][foster])
+v(2 3 4 10 14): -3.7973060607910156	 ([jones ) - - stockland][( sgp. au )][said][working][lensworth,])
+v(0 1 5 6 7 8 9 11 12 13 15 16 17 18 19 20 21): 6.926266670227051	 ([sydney][( dow][thursday][pay][a \ $ 825][million,][plus][capital][a \ $ 21][million,][property][development][business][foster][# 39 ; s][group][ltd.])
+v(0 2 3 4 5 9 10 14 15 16 17 19 20 21): 6.160696506500244	 ([sydney][jones ) - - stockland][( sgp. au )][said][thursday][plus][working][lensworth,][property][development][business][# 39 ; s][group][ltd.])
+v(1 2 3 4 6 7 8 10 11 12 13 14 18): 8.212220191955566	 ([( dow][jones ) - - stockland][( sgp. au )][said][pay][a \ $ 825][million,][working][capital][a \ $ 21][million,][lensworth,][foster])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 7.411595344543457	 ([sydney][( dow][jones ) - - stockland][( sgp. au )][said][thursday][pay][a \ $ 825][million,][plus][working][capital][a \ $ 21][million,][lensworth,][property][development][business][foster][# 39 ; s][group][ltd.])
+---------- Rewards-v() ----------
+v(1 6 7 8 11 12 13 18): 10.338666915893555, EP: 1.0977632999420166	 ([( dow][pay][a \ $ 825][million,][capital][a \ $ 21][million,][foster])
+v(1 2 3 4 6 7 8 10 11 12 13 14 18): 10.218563079833984, EP: 1.0850106477737427	 ([( dow][jones ) - - stockland][( sgp. au )][said][pay][a \ $ 825][million,][working][capital][a \ $ 21][million,][lensworth,][foster])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.417938232421875, EP: 1.0	 ([sydney][( dow][jones ) - - stockland][( sgp. au )][said][thursday][pay][a \ $ 825][million,][plus][working][capital][a \ $ 21][million,][lensworth,][property][development][business][foster][# 39 ; s][group][ltd.])
+v(0 1 5 6 7 8 9 11 12 13 15 16 17 18 19 20 21): 8.932609558105469, EP: 0.9484676122665405	 ([sydney][( dow][thursday][pay][a \ $ 825][million,][plus][capital][a \ $ 21][million,][property][development][business][foster][# 39 ; s][group][ltd.])
+v(0 5 9 15 16 17 19 20 21): 8.30016803741455, EP: 0.881314754486084	 ([sydney][thursday][plus][property][development][business][# 39 ; s][group][ltd.])
+v(0 2 3 4 5 9 10 14 15 16 17 19 20 21): 8.167038917541504, EP: 0.8671790957450867	 ([sydney][jones ) - - stockland][( sgp. au )][said][thursday][plus][working][lensworth,][property][development][business][# 39 ; s][group][ltd.])
+v(2 3 4 10 14): -1.7909636497497559, EP: -0.19016514718532562	 ([jones ) - - stockland][( sgp. au )][said][working][lensworth,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

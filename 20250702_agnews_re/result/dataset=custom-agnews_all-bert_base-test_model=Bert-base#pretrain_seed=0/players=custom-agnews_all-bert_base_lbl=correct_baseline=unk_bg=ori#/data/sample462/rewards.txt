@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: ottawa
+Player 1: ( reuters )
+Player 2: -
+Player 3: military
+Player 4: officials
+Player 5: family
+Player 6: members
+Player 7: attended
+Player 8: funeral
+Player 9: services
+Player 10: wednesday
+Player 11: canadian
+Player 12: naval
+Player 13: officer
+Player 14: died
+Player 15: result
+Player 16: fire
+Player 17: second - hand
+Player 18: submarine
+Player 19: canada
+Player 20: bought
+Player 21: britain.
+---------- Rewards ----------
+v(): -7.026705741882324	 ([])
+v(15 16 17 18 20 21): 2.096341133117676	 ([result][fire][second - hand][submarine][bought][britain.])
+v(0 4 5 6 7 9 10 11 12 19): 5.2398247718811035	 ([ottawa][officials][family][members][attended][services][wednesday][canadian][naval][canada])
+v(1 2 3 8 13 14): 6.453439712524414	 ([( reuters )][-][military][funeral][officer][died])
+v(0 4 5 6 7 9 10 11 12 15 16 17 18 19 20 21): 6.124645709991455	 ([ottawa][officials][family][members][attended][services][wednesday][canadian][naval][result][fire][second - hand][submarine][canada][bought][britain.])
+v(1 2 3 8 13 14 15 16 17 18 20 21): 6.755221366882324	 ([( reuters )][-][military][funeral][officer][died][result][fire][second - hand][submarine][bought][britain.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 19): 7.322408199310303	 ([ottawa][( reuters )][-][military][officials][family][members][attended][funeral][services][wednesday][canadian][naval][officer][died][canada])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 7.391587257385254	 ([ottawa][( reuters )][-][military][officials][family][members][attended][funeral][services][wednesday][canadian][naval][officer][died][result][fire][second - hand][submarine][canada][bought][britain.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 14.418292999267578, EP: 1.0	 ([ottawa][( reuters )][-][military][officials][family][members][attended][funeral][services][wednesday][canadian][naval][officer][died][result][fire][second - hand][submarine][canada][bought][britain.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 19): 14.349113464355469, EP: 0.9952019453048706	 ([ottawa][( reuters )][-][military][officials][family][members][attended][funeral][services][wednesday][canadian][naval][officer][died][canada])
+v(1 2 3 8 13 14 15 16 17 18 20 21): 13.781927108764648, EP: 0.9558640122413635	 ([( reuters )][-][military][funeral][officer][died][result][fire][second - hand][submarine][bought][britain.])
+v(1 2 3 8 13 14): 13.480145454406738, EP: 0.9349335432052612	 ([( reuters )][-][military][funeral][officer][died])
+v(0 4 5 6 7 9 10 11 12 15 16 17 18 19 20 21): 13.151351928710938, EP: 0.9121295809745789	 ([ottawa][officials][family][members][attended][services][wednesday][canadian][naval][result][fire][second - hand][submarine][canada][bought][britain.])
+v(0 4 5 6 7 9 10 11 12 19): 12.266530990600586, EP: 0.8507616519927979	 ([ottawa][officials][family][members][attended][services][wednesday][canadian][naval][canada])
+v(15 16 17 18 20 21): 9.123046875, EP: 0.6327410936355591	 ([result][fire][second - hand][submarine][bought][britain.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

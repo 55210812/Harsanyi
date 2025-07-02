@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: oracle
+Player 3: corp.
+Player 4: said
+Player 5: would \ report
+Player 6: preliminary
+Player 7: results
+Player 8: # 36 ; 8. 8
+Player 9: billion
+Player 10: hostile
+Player 11: tender \ offer
+Player 12: peoplesoft
+Player 13: soon
+Player 14: practicable
+Player 15: 1 \ a. m.
+Player 16: est
+Player 17: saturday.
+---------- Rewards ----------
+v(): -0.5206863880157471	 ([])
+v(4 5 7 8 10 17): 4.34552526473999	 ([said][would \ report][results][# 36 ; 8. 8][hostile][saturday.])
+v(0 11 12 13 14): -1.5946080684661865	 ([reuters][tender \ offer][peoplesoft][soon][practicable])
+v(1 2 3 6 9 15 16): 6.266650676727295	 ([-][oracle][corp.][preliminary][billion][1 \ a. m.][est])
+v(0 4 5 7 8 10 11 12 13 14 17): 2.8419318199157715	 ([reuters][said][would \ report][results][# 36 ; 8. 8][hostile][tender \ offer][peoplesoft][soon][practicable][saturday.])
+v(1 2 3 4 5 6 7 8 9 10 15 16 17): 6.167385101318359	 ([-][oracle][corp.][said][would \ report][preliminary][results][# 36 ; 8. 8][billion][hostile][1 \ a. m.][est][saturday.])
+v(0 1 2 3 6 9 11 12 13 14 15 16): 3.4644181728363037	 ([reuters][-][oracle][corp.][preliminary][billion][tender \ offer][peoplesoft][soon][practicable][1 \ a. m.][est])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 4.271993637084961	 ([reuters][-][oracle][corp.][said][would \ report][preliminary][results][# 36 ; 8. 8][billion][hostile][tender \ offer][peoplesoft][soon][practicable][1 \ a. m.][est][saturday.])
+---------- Rewards-v() ----------
+v(1 2 3 6 9 15 16): 6.787337303161621, EP: 1.416188359260559	 ([-][oracle][corp.][preliminary][billion][1 \ a. m.][est])
+v(1 2 3 4 5 6 7 8 9 10 15 16 17): 6.688071250915527, EP: 1.3954763412475586	 ([-][oracle][corp.][said][would \ report][preliminary][results][# 36 ; 8. 8][billion][hostile][1 \ a. m.][est][saturday.])
+v(4 5 7 8 10 17): 4.866211891174316, EP: 1.0153425931930542	 ([said][would \ report][results][# 36 ; 8. 8][hostile][saturday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 4.792679786682129, EP: 1.0	 ([reuters][-][oracle][corp.][said][would \ report][preliminary][results][# 36 ; 8. 8][billion][hostile][tender \ offer][peoplesoft][soon][practicable][1 \ a. m.][est][saturday.])
+v(0 1 2 3 6 9 11 12 13 14 15 16): 3.985104560852051, EP: 0.8314982056617737	 ([reuters][-][oracle][corp.][preliminary][billion][tender \ offer][peoplesoft][soon][practicable][1 \ a. m.][est])
+v(0 4 5 7 8 10 11 12 13 14 17): 3.3626182079315186, EP: 0.7016154527664185	 ([reuters][said][would \ report][results][# 36 ; 8. 8][hostile][tender \ offer][peoplesoft][soon][practicable][saturday.])
+v(0 11 12 13 14): -1.0739216804504395, EP: -0.22407540678977966	 ([reuters][tender \ offer][peoplesoft][soon][practicable])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

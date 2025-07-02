@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: new
+Player 1: delhi
+Player 2: -
+Player 3: fourteen
+Player 4: people
+Player 5: killed
+Player 6: kashmir
+Player 7: increase
+Player 8: violence
+Player 9: since
+Player 10: visit
+Player 11: indian
+Player 12: prime
+Player 13: minister
+Player 14: mid - november.
+---------- Rewards ----------
+v(): -6.931574821472168	 ([])
+v(3 4 5 9 12 13 14): 6.5877885818481445	 ([fourteen][people][killed][since][prime][minister][mid - november.])
+v(10 11): 1.0426114797592163	 ([visit][indian])
+v(0 1 2 6 7 8): 7.766158103942871	 ([new][delhi][-][kashmir][increase][violence])
+v(3 4 5 9 10 11 12 13 14): 6.232269287109375	 ([fourteen][people][killed][since][visit][indian][prime][minister][mid - november.])
+v(0 1 2 3 4 5 6 7 8 9 12 13 14): 8.121846199035645	 ([new][delhi][-][fourteen][people][killed][kashmir][increase][violence][since][prime][minister][mid - november.])
+v(0 1 2 6 7 8 10 11): 7.7989115715026855	 ([new][delhi][-][kashmir][increase][violence][visit][indian])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 8.049599647521973	 ([new][delhi][-][fourteen][people][killed][kashmir][increase][violence][since][visit][indian][prime][minister][mid - november.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 12 13 14): 15.053421020507812, EP: 1.0048224925994873	 ([new][delhi][-][fourteen][people][killed][kashmir][increase][violence][since][prime][minister][mid - november.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 14.98117446899414, EP: 1.0	 ([new][delhi][-][fourteen][people][killed][kashmir][increase][violence][since][visit][indian][prime][minister][mid - november.])
+v(0 1 2 6 7 8 10 11): 14.730485916137695, EP: 0.9832664132118225	 ([new][delhi][-][kashmir][increase][violence][visit][indian])
+v(0 1 2 6 7 8): 14.697732925415039, EP: 0.981080174446106	 ([new][delhi][-][kashmir][increase][violence])
+v(3 4 5 9 12 13 14): 13.519363403320312, EP: 0.9024234414100647	 ([fourteen][people][killed][since][prime][minister][mid - november.])
+v(3 4 5 9 10 11 12 13 14): 13.163844108581543, EP: 0.8786923885345459	 ([fourteen][people][killed][since][visit][indian][prime][minister][mid - november.])
+v(10 11): 7.974186420440674, EP: 0.532280445098877	 ([visit][indian])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

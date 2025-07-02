@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: u. s.
+Player 3: presidential
+Player 4: election \ finally
+Player 5: over,
+Player 6: stock
+Player 7: investors
+Player 8: get
+Player 9: much
+Player 10: break
+Player 11: next \ week
+Player 12: face
+Player 13: next
+Player 14: big
+Player 15: obstacle
+Player 16: - -
+Player 17: higher
+Player 18: interest \ rates.
+---------- Rewards ----------
+v(): -3.018387794494629	 ([])
+v(0 6 7 18): 7.530693531036377	 ([reuters][stock][investors][interest \ rates.])
+v(3 4 5): -7.930471420288086	 ([presidential][election \ finally][over,])
+v(8 9 10): -5.565614223480225	 ([get][much][break])
+v(1 2 11 12 13 14 15 16 17): -3.975215435028076	 ([-][u. s.][next \ week][face][next][big][obstacle][- -][higher])
+v(0 3 4 5 6 7 18): 6.921177864074707	 ([reuters][presidential][election \ finally][over,][stock][investors][interest \ rates.])
+v(0 6 7 8 9 10 18): 7.3237528800964355	 ([reuters][stock][investors][get][much][break][interest \ rates.])
+v(0 1 2 6 7 11 12 13 14 15 16 17 18): 8.317436218261719	 ([reuters][-][u. s.][stock][investors][next \ week][face][next][big][obstacle][- -][higher][interest \ rates.])
+v(3 4 5 8 9 10): -8.817718505859375	 ([presidential][election \ finally][over,][get][much][break])
+v(1 2 3 4 5 11 12 13 14 15 16 17): -2.2324624061584473	 ([-][u. s.][presidential][election \ finally][over,][next \ week][face][next][big][obstacle][- -][higher])
+v(1 2 8 9 10 11 12 13 14 15 16 17): -5.372082710266113	 ([-][u. s.][get][much][break][next \ week][face][next][big][obstacle][- -][higher])
+v(0 3 4 5 6 7 8 9 10 18): 6.703912734985352	 ([reuters][presidential][election \ finally][over,][stock][investors][get][much][break][interest \ rates.])
+v(0 1 2 3 4 5 6 7 11 12 13 14 15 16 17 18): 7.902639389038086	 ([reuters][-][u. s.][presidential][election \ finally][over,][stock][investors][next \ week][face][next][big][obstacle][- -][higher][interest \ rates.])
+v(0 1 2 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.217475891113281	 ([reuters][-][u. s.][stock][investors][get][much][break][next \ week][face][next][big][obstacle][- -][higher][interest \ rates.])
+v(1 2 3 4 5 8 9 10 11 12 13 14 15 16 17): -4.362918853759766	 ([-][u. s.][presidential][election \ finally][over,][get][much][break][next \ week][face][next][big][obstacle][- -][higher])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.873885631561279	 ([reuters][-][u. s.][presidential][election \ finally][over,][stock][investors][get][much][break][next \ week][face][next][big][obstacle][- -][higher][interest \ rates.])
+---------- Rewards-v() ----------
+v(0 1 2 6 7 11 12 13 14 15 16 17 18): 11.335824012756348, EP: 1.0407216548919678	 ([reuters][-][u. s.][stock][investors][next \ week][face][next][big][obstacle][- -][higher][interest \ rates.])
+v(0 1 2 6 7 8 9 10 11 12 13 14 15 16 17 18): 11.23586368560791, EP: 1.0315444469451904	 ([reuters][-][u. s.][stock][investors][get][much][break][next \ week][face][next][big][obstacle][- -][higher][interest \ rates.])
+v(0 1 2 3 4 5 6 7 11 12 13 14 15 16 17 18): 10.921027183532715, EP: 1.002639889717102	 ([reuters][-][u. s.][presidential][election \ finally][over,][stock][investors][next \ week][face][next][big][obstacle][- -][higher][interest \ rates.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 10.89227294921875, EP: 1.0	 ([reuters][-][u. s.][presidential][election \ finally][over,][stock][investors][get][much][break][next \ week][face][next][big][obstacle][- -][higher][interest \ rates.])
+v(0 6 7 18): 10.549081802368164, EP: 0.9684922099113464	 ([reuters][stock][investors][interest \ rates.])
+v(0 6 7 8 9 10 18): 10.342140197753906, EP: 0.9494932889938354	 ([reuters][stock][investors][get][much][break][interest \ rates.])
+v(0 3 4 5 6 7 18): 9.939565658569336, EP: 0.9125336408615112	 ([reuters][presidential][election \ finally][over,][stock][investors][interest \ rates.])
+v(0 3 4 5 6 7 8 9 10 18): 9.72230052947998, EP: 0.8925869464874268	 ([reuters][presidential][election \ finally][over,][stock][investors][get][much][break][interest \ rates.])
+v(3 4 5 8 9 10): -5.799330711364746, EP: -0.532426118850708	 ([presidential][election \ finally][over,][get][much][break])
+v(3 4 5): -4.912083625793457, EP: -0.4509695768356323	 ([presidential][election \ finally][over,])
+v(8 9 10): -2.5472264289855957, EP: -0.23385627567768097	 ([get][much][break])
+v(1 2 8 9 10 11 12 13 14 15 16 17): -2.3536949157714844, EP: -0.21608850359916687	 ([-][u. s.][get][much][break][next \ week][face][next][big][obstacle][- -][higher])
+v(1 2 3 4 5 8 9 10 11 12 13 14 15 16 17): -1.3445310592651367, EP: -0.12343897670507431	 ([-][u. s.][presidential][election \ finally][over,][get][much][break][next \ week][face][next][big][obstacle][- -][higher])
+v(1 2 11 12 13 14 15 16 17): -0.9568276405334473, EP: -0.08784462511539459	 ([-][u. s.][next \ week][face][next][big][obstacle][- -][higher])
+v(1 2 3 4 5 11 12 13 14 15 16 17): 0.7859253883361816, EP: 0.07215439528226852	 ([-][u. s.][presidential][election \ finally][over,][next \ week][face][next][big][obstacle][- -][higher])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

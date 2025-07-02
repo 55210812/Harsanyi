@@ -1,0 +1,63 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: bush
+Player 3: administration
+Player 4: on \ friday
+Player 5: urged
+Player 6: quick
+Player 7: u. n.
+Player 8: action
+Player 9: global
+Player 10: treaty
+Player 11: ban
+Player 12: all \ cloning
+Player 13: human
+Player 14: embryos,
+Player 15: including
+Player 16: medical
+Player 17: research,
+Player 18: but \ diplomats
+Player 19: said
+Player 20: measure
+Player 21: would
+Player 22: go
+Player 23: nowhere
+Player 24: nov.
+Player 25: 2 \ u. s.
+Player 26: elections.
+---------- Rewards ----------
+v(): -5.175266265869141	 ([])
+v(1 2 3 12 13 14 26): -2.6456711292266846	 ([-][bush][administration][all \ cloning][human][embryos,][elections.])
+v(18 19 21): 0.9526122212409973	 ([but \ diplomats][said][would])
+v(0 4 15 16 17 20 22 24 25): -8.875532150268555	 ([reuters][on \ friday][including][medical][research,][measure][go][nov.][2 \ u. s.])
+v(5 6 7 8 9 10 11 23): 3.507830858230591	 ([urged][quick][u. n.][action][global][treaty][ban][nowhere])
+v(1 2 3 12 13 14 18 19 21 26): -2.545820951461792	 ([-][bush][administration][all \ cloning][human][embryos,][but \ diplomats][said][would][elections.])
+v(0 1 2 3 4 12 13 14 15 16 17 20 22 24 25 26): -7.6274518966674805	 ([reuters][-][bush][administration][on \ friday][all \ cloning][human][embryos,][including][medical][research,][measure][go][nov.][2 \ u. s.][elections.])
+v(1 2 3 5 6 7 8 9 10 11 12 13 14 23 26): 3.12898850440979	 ([-][bush][administration][urged][quick][u. n.][action][global][treaty][ban][all \ cloning][human][embryos,][nowhere][elections.])
+v(0 4 15 16 17 18 19 20 21 22 24 25): -6.429817199707031	 ([reuters][on \ friday][including][medical][research,][but \ diplomats][said][measure][would][go][nov.][2 \ u. s.])
+v(5 6 7 8 9 10 11 18 19 21 23): 4.3884735107421875	 ([urged][quick][u. n.][action][global][treaty][ban][but \ diplomats][said][would][nowhere])
+v(0 4 5 6 7 8 9 10 11 15 16 17 20 22 23 24 25): 3.005580425262451	 ([reuters][on \ friday][urged][quick][u. n.][action][global][treaty][ban][including][medical][research,][measure][go][nowhere][nov.][2 \ u. s.])
+v(0 1 2 3 4 12 13 14 15 16 17 18 19 20 21 22 24 25 26): -2.8551268577575684	 ([reuters][-][bush][administration][on \ friday][all \ cloning][human][embryos,][including][medical][research,][but \ diplomats][said][measure][would][go][nov.][2 \ u. s.][elections.])
+v(1 2 3 5 6 7 8 9 10 11 12 13 14 18 19 21 23 26): 3.4994354248046875	 ([-][bush][administration][urged][quick][u. n.][action][global][treaty][ban][all \ cloning][human][embryos,][but \ diplomats][said][would][nowhere][elections.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 20 22 23 24 25 26): -0.9305686950683594	 ([reuters][-][bush][administration][on \ friday][urged][quick][u. n.][action][global][treaty][ban][all \ cloning][human][embryos,][including][medical][research,][measure][go][nowhere][nov.][2 \ u. s.][elections.])
+v(0 4 5 6 7 8 9 10 11 15 16 17 18 19 20 21 22 23 24 25): 4.48545503616333	 ([reuters][on \ friday][urged][quick][u. n.][action][global][treaty][ban][including][medical][research,][but \ diplomats][said][measure][would][go][nowhere][nov.][2 \ u. s.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): -0.2843945026397705	 ([reuters][-][bush][administration][on \ friday][urged][quick][u. n.][action][global][treaty][ban][all \ cloning][human][embryos,][including][medical][research,][but \ diplomats][said][measure][would][go][nowhere][nov.][2 \ u. s.][elections.])
+---------- Rewards-v() ----------
+v(0 4 5 6 7 8 9 10 11 15 16 17 18 19 20 21 22 23 24 25): 9.660720825195312, EP: 1.9752552509307861	 ([reuters][on \ friday][urged][quick][u. n.][action][global][treaty][ban][including][medical][research,][but \ diplomats][said][measure][would][go][nowhere][nov.][2 \ u. s.])
+v(5 6 7 8 9 10 11 18 19 21 23): 9.563739776611328, EP: 1.9554263353347778	 ([urged][quick][u. n.][action][global][treaty][ban][but \ diplomats][said][would][nowhere])
+v(5 6 7 8 9 10 11 23): 8.683096885681152, EP: 1.7753678560256958	 ([urged][quick][u. n.][action][global][treaty][ban][nowhere])
+v(1 2 3 5 6 7 8 9 10 11 12 13 14 18 19 21 23 26): 8.674701690673828, EP: 1.773651361465454	 ([-][bush][administration][urged][quick][u. n.][action][global][treaty][ban][all \ cloning][human][embryos,][but \ diplomats][said][would][nowhere][elections.])
+v(1 2 3 5 6 7 8 9 10 11 12 13 14 23 26): 8.304254531860352, EP: 1.6979087591171265	 ([-][bush][administration][urged][quick][u. n.][action][global][treaty][ban][all \ cloning][human][embryos,][nowhere][elections.])
+v(0 4 5 6 7 8 9 10 11 15 16 17 20 22 23 24 25): 8.18084716796875, EP: 1.6726765632629395	 ([reuters][on \ friday][urged][quick][u. n.][action][global][treaty][ban][including][medical][research,][measure][go][nowhere][nov.][2 \ u. s.])
+v(18 19 21): 6.127878665924072, EP: 1.252921462059021	 ([but \ diplomats][said][would])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 4.890872001647949, EP: 1.0	 ([reuters][-][bush][administration][on \ friday][urged][quick][u. n.][action][global][treaty][ban][all \ cloning][human][embryos,][including][medical][research,][but \ diplomats][said][measure][would][go][nowhere][nov.][2 \ u. s.][elections.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 20 22 23 24 25 26): 4.244697570800781, EP: 0.8678815364837646	 ([reuters][-][bush][administration][on \ friday][urged][quick][u. n.][action][global][treaty][ban][all \ cloning][human][embryos,][including][medical][research,][measure][go][nowhere][nov.][2 \ u. s.][elections.])
+v(0 4 15 16 17 20 22 24 25): -3.700265884399414, EP: -0.7565656900405884	 ([reuters][on \ friday][including][medical][research,][measure][go][nov.][2 \ u. s.])
+v(1 2 3 12 13 14 18 19 21 26): 2.6294453144073486, EP: 0.5376229882240295	 ([-][bush][administration][all \ cloning][human][embryos,][but \ diplomats][said][would][elections.])
+v(1 2 3 12 13 14 26): 2.529595136642456, EP: 0.5172073841094971	 ([-][bush][administration][all \ cloning][human][embryos,][elections.])
+v(0 1 2 3 4 12 13 14 15 16 17 20 22 24 25 26): -2.45218563079834, EP: -0.5013800263404846	 ([reuters][-][bush][administration][on \ friday][all \ cloning][human][embryos,][including][medical][research,][measure][go][nov.][2 \ u. s.][elections.])
+v(0 1 2 3 4 12 13 14 15 16 17 18 19 20 21 22 24 25 26): 2.3201394081115723, EP: 0.47438153624534607	 ([reuters][-][bush][administration][on \ friday][all \ cloning][human][embryos,][including][medical][research,][but \ diplomats][said][measure][would][go][nov.][2 \ u. s.][elections.])
+v(0 4 15 16 17 18 19 20 21 22 24 25): -1.2545509338378906, EP: -0.25650864839553833	 ([reuters][on \ friday][including][medical][research,][but \ diplomats][said][measure][would][go][nov.][2 \ u. s.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

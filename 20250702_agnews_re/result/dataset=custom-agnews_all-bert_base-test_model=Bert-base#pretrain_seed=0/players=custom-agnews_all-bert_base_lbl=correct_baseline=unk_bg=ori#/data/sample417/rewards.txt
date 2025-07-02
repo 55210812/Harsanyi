@@ -1,0 +1,59 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: wal - mart
+Player 3: stores
+Player 4: inc.
+Player 5: ,
+Player 6: the \ world's
+Player 7: largest
+Player 8: retailer,
+Player 9: said
+Player 10: saturday
+Player 11: still
+Player 12: expects
+Player 13: 2 \ percent
+Player 14: 4
+Player 15: percent
+Player 16: increase
+Player 17: november
+Player 18: sales
+Player 19: u. s. \ stores
+Player 20: open
+Player 21: least
+Player 22: year.
+---------- Rewards ----------
+v(): -4.233935832977295	 ([])
+v(0 2 8 9 10 17): 8.370525360107422	 ([reuters][wal - mart][retailer,][said][saturday][november])
+v(3 16 18 19 20 21 22): 6.046147346496582	 ([stores][increase][sales][u. s. \ stores][open][least][year.])
+v(11 12 13 14 15): -4.717324733734131	 ([still][expects][2 \ percent][4][percent])
+v(1 4 5 6 7): 2.5513882637023926	 ([-][inc.][,][the \ world's][largest])
+v(0 2 3 8 9 10 16 17 18 19 20 21 22): 8.115386009216309	 ([reuters][wal - mart][stores][retailer,][said][saturday][increase][november][sales][u. s. \ stores][open][least][year.])
+v(0 2 8 9 10 11 12 13 14 15 17): 8.345040321350098	 ([reuters][wal - mart][retailer,][said][saturday][still][expects][2 \ percent][4][percent][november])
+v(0 1 2 4 5 6 7 8 9 10 17): 8.242941856384277	 ([reuters][-][wal - mart][inc.][,][the \ world's][largest][retailer,][said][saturday][november])
+v(3 11 12 13 14 15 16 18 19 20 21 22): 2.813831329345703	 ([stores][still][expects][2 \ percent][4][percent][increase][sales][u. s. \ stores][open][least][year.])
+v(1 3 4 5 6 7 16 18 19 20 21 22): 7.372859954833984	 ([-][stores][inc.][,][the \ world's][largest][increase][sales][u. s. \ stores][open][least][year.])
+v(1 4 5 6 7 11 12 13 14 15): 4.772223949432373	 ([-][inc.][,][the \ world's][largest][still][expects][2 \ percent][4][percent])
+v(0 2 3 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.079938888549805	 ([reuters][wal - mart][stores][retailer,][said][saturday][still][expects][2 \ percent][4][percent][increase][november][sales][u. s. \ stores][open][least][year.])
+v(0 1 2 3 4 5 6 7 8 9 10 16 17 18 19 20 21 22): 7.847498893737793	 ([reuters][-][wal - mart][stores][inc.][,][the \ world's][largest][retailer,][said][saturday][increase][november][sales][u. s. \ stores][open][least][year.])
+v(0 1 2 4 5 6 7 8 9 10 11 12 13 14 15 17): 8.268573760986328	 ([reuters][-][wal - mart][inc.][,][the \ world's][largest][retailer,][said][saturday][still][expects][2 \ percent][4][percent][november])
+v(1 3 4 5 6 7 11 12 13 14 15 16 18 19 20 21 22): 6.237079620361328	 ([-][stores][inc.][,][the \ world's][largest][still][expects][2 \ percent][4][percent][increase][sales][u. s. \ stores][open][least][year.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.594803810119629	 ([reuters][-][wal - mart][stores][inc.][,][the \ world's][largest][retailer,][said][saturday][still][expects][2 \ percent][4][percent][increase][november][sales][u. s. \ stores][open][least][year.])
+---------- Rewards-v() ----------
+v(0 2 8 9 10 17): 12.604461669921875, EP: 1.0655795335769653	 ([reuters][wal - mart][retailer,][said][saturday][november])
+v(0 2 8 9 10 11 12 13 14 15 17): 12.578975677490234, EP: 1.0634249448776245	 ([reuters][wal - mart][retailer,][said][saturday][still][expects][2 \ percent][4][percent][november])
+v(0 1 2 4 5 6 7 8 9 10 11 12 13 14 15 17): 12.502510070800781, EP: 1.0569604635238647	 ([reuters][-][wal - mart][inc.][,][the \ world's][largest][retailer,][said][saturday][still][expects][2 \ percent][4][percent][november])
+v(0 1 2 4 5 6 7 8 9 10 17): 12.476877212524414, EP: 1.0547934770584106	 ([reuters][-][wal - mart][inc.][,][the \ world's][largest][retailer,][said][saturday][november])
+v(0 2 3 8 9 10 16 17 18 19 20 21 22): 12.349321365356445, EP: 1.0440099239349365	 ([reuters][wal - mart][stores][retailer,][said][saturday][increase][november][sales][u. s. \ stores][open][least][year.])
+v(0 2 3 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 12.313875198364258, EP: 1.0410133600234985	 ([reuters][wal - mart][stores][retailer,][said][saturday][still][expects][2 \ percent][4][percent][increase][november][sales][u. s. \ stores][open][least][year.])
+v(0 1 2 3 4 5 6 7 8 9 10 16 17 18 19 20 21 22): 12.08143424987793, EP: 1.0213627815246582	 ([reuters][-][wal - mart][stores][inc.][,][the \ world's][largest][retailer,][said][saturday][increase][november][sales][u. s. \ stores][open][least][year.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 11.828739166259766, EP: 1.0	 ([reuters][-][wal - mart][stores][inc.][,][the \ world's][largest][retailer,][said][saturday][still][expects][2 \ percent][4][percent][increase][november][sales][u. s. \ stores][open][least][year.])
+v(1 3 4 5 6 7 16 18 19 20 21 22): 11.606796264648438, EP: 0.98123699426651	 ([-][stores][inc.][,][the \ world's][largest][increase][sales][u. s. \ stores][open][least][year.])
+v(1 3 4 5 6 7 11 12 13 14 15 16 18 19 20 21 22): 10.471015930175781, EP: 0.8852182626724243	 ([-][stores][inc.][,][the \ world's][largest][still][expects][2 \ percent][4][percent][increase][sales][u. s. \ stores][open][least][year.])
+v(3 16 18 19 20 21 22): 10.280082702636719, EP: 0.8690767884254456	 ([stores][increase][sales][u. s. \ stores][open][least][year.])
+v(1 4 5 6 7 11 12 13 14 15): 9.006159782409668, EP: 0.7613795399665833	 ([-][inc.][,][the \ world's][largest][still][expects][2 \ percent][4][percent])
+v(3 11 12 13 14 15 16 18 19 20 21 22): 7.047767162322998, EP: 0.5958172678947449	 ([stores][still][expects][2 \ percent][4][percent][increase][sales][u. s. \ stores][open][least][year.])
+v(1 4 5 6 7): 6.7853240966796875, EP: 0.5736303925514221	 ([-][inc.][,][the \ world's][largest])
+v(11 12 13 14 15): -0.48338890075683594, EP: -0.04086563363671303	 ([still][expects][2 \ percent][4][percent])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

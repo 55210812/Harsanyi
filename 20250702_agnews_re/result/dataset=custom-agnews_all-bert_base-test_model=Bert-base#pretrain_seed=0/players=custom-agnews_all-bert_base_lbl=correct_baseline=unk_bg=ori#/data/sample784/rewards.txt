@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: four
+Player 3: days
+Player 4: began,
+Player 5: spam - fighting
+Player 6: campaign
+Player 7: web
+Player 8: portal
+Player 9: lycos
+Player 10: europe
+Player 11: ended
+Player 12: grounds
+Player 13: cure
+Player 14: might
+Player 15: worse
+Player 16: disease.
+---------- Rewards ----------
+v(): 5.470581531524658	 ([])
+v(3 4 5 6 7 10): 8.039752006530762	 ([days][began,][spam - fighting][campaign][web][europe])
+v(0 1 2 16): -0.26774847507476807	 ([new][york][four][disease.])
+v(8 9 11 12 13 14 15): 6.439996242523193	 ([portal][lycos][ended][grounds][cure][might][worse])
+v(0 1 2 3 4 5 6 7 10 16): 7.0472307205200195	 ([new][york][four][days][began,][spam - fighting][campaign][web][europe][disease.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15): 8.403608322143555	 ([days][began,][spam - fighting][campaign][web][portal][lycos][europe][ended][grounds][cure][might][worse])
+v(0 1 2 8 9 11 12 13 14 15 16): 1.7358812093734741	 ([new][york][four][portal][lycos][ended][grounds][cure][might][worse][disease.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 6.923177242279053	 ([new][york][four][days][began,][spam - fighting][campaign][web][portal][lycos][europe][ended][grounds][cure][might][worse][disease.])
+---------- Rewards-v() ----------
+v(0 1 2 16): -5.738329887390137, EP: -3.95039701461792	 ([new][york][four][disease.])
+v(0 1 2 8 9 11 12 13 14 15 16): -3.7347002029418945, EP: -2.5710527896881104	 ([new][york][four][portal][lycos][ended][grounds][cure][might][worse][disease.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15): 2.9330267906188965, EP: 2.01916241645813	 ([days][began,][spam - fighting][campaign][web][portal][lycos][europe][ended][grounds][cure][might][worse])
+v(3 4 5 6 7 10): 2.5691704750061035, EP: 1.7686755657196045	 ([days][began,][spam - fighting][campaign][web][europe])
+v(0 1 2 3 4 5 6 7 10 16): 1.5766491889953613, EP: 1.0854012966156006	 ([new][york][four][days][began,][spam - fighting][campaign][web][europe][disease.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 1.4525957107543945, EP: 1.0	 ([new][york][four][days][began,][spam - fighting][campaign][web][portal][lycos][europe][ended][grounds][cure][might][worse][disease.])
+v(8 9 11 12 13 14 15): 0.9694147109985352, EP: 0.667367160320282	 ([portal][lycos][ended][grounds][cure][might][worse])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

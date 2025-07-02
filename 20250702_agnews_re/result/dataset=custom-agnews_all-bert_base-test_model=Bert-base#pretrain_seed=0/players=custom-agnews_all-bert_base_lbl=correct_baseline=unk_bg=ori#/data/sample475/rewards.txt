@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: washington
+Player 1: ( reuters )
+Player 2: -
+Player 3: u. s.
+Player 4: court
+Player 5: temporarily
+Player 6: shut
+Player 7: operation
+Player 8: used
+Player 9: " spam "
+Player 10: e - mail
+Player 11: drum
+Player 12: customers
+Player 13: fraudulent
+Player 14: work - at - home
+Player 15: scheme,
+Player 16: u. s.
+Player 17: federal
+Player 18: trade
+Player 19: commission
+Player 20: said
+Player 21: tuesday.
+---------- Rewards ----------
+v(): 5.378523349761963	 ([])
+v(0 2 3 4 5 9 16 17): 6.4287238121032715	 ([washington][-][u. s.][court][temporarily][" spam "][u. s.][federal])
+v(8 13 18 19 20): 2.7496180534362793	 ([used][fraudulent][trade][commission][said])
+v(10 12 14 15): 4.189197540283203	 ([e - mail][customers][work - at - home][scheme,])
+v(1 6 7 11 21): 1.0742746591567993	 ([( reuters )][shut][operation][drum][tuesday.])
+v(0 2 3 4 5 8 9 13 16 17 18 19 20): 6.307346820831299	 ([washington][-][u. s.][court][temporarily][used][" spam "][fraudulent][u. s.][federal][trade][commission][said])
+v(0 2 3 4 5 9 10 12 14 15 16 17): 5.839136123657227	 ([washington][-][u. s.][court][temporarily][" spam "][e - mail][customers][work - at - home][scheme,][u. s.][federal])
+v(0 1 2 3 4 5 6 7 9 11 16 17 21): 6.024465084075928	 ([washington][( reuters )][-][u. s.][court][temporarily][shut][operation][" spam "][drum][u. s.][federal][tuesday.])
+v(8 10 12 13 14 15 18 19 20): 2.414884090423584	 ([used][e - mail][customers][fraudulent][work - at - home][scheme,][trade][commission][said])
+v(1 6 7 8 11 13 18 19 20 21): -1.161658763885498	 ([( reuters )][shut][operation][used][drum][fraudulent][trade][commission][said][tuesday.])
+v(1 6 7 10 11 12 14 15 21): 0.13661789894104004	 ([( reuters )][shut][operation][e - mail][drum][customers][work - at - home][scheme,][tuesday.])
+v(0 2 3 4 5 8 9 10 12 13 14 15 16 17 18 19 20): 6.12161111831665	 ([washington][-][u. s.][court][temporarily][used][" spam "][e - mail][customers][fraudulent][work - at - home][scheme,][u. s.][federal][trade][commission][said])
+v(0 1 2 3 4 5 6 7 8 9 11 13 16 17 18 19 20 21): 5.768366813659668	 ([washington][( reuters )][-][u. s.][court][temporarily][shut][operation][used][" spam "][drum][fraudulent][u. s.][federal][trade][commission][said][tuesday.])
+v(0 1 2 3 4 5 6 7 9 10 11 12 14 15 16 17 21): 4.381199359893799	 ([washington][( reuters )][-][u. s.][court][temporarily][shut][operation][" spam "][e - mail][drum][customers][work - at - home][scheme,][u. s.][federal][tuesday.])
+v(1 6 7 8 10 11 12 13 14 15 18 19 20 21): 1.0768002271652222	 ([( reuters )][shut][operation][used][e - mail][drum][customers][fraudulent][work - at - home][scheme,][trade][commission][said][tuesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 4.268327713012695	 ([washington][( reuters )][-][u. s.][court][temporarily][shut][operation][used][" spam "][e - mail][drum][customers][fraudulent][work - at - home][scheme,][u. s.][federal][trade][commission][said][tuesday.])
+---------- Rewards-v() ----------
+v(1 6 7 8 11 13 18 19 20 21): -6.540182113647461, EP: 5.891017436981201	 ([( reuters )][shut][operation][used][drum][fraudulent][trade][commission][said][tuesday.])
+v(1 6 7 10 11 12 14 15 21): -5.241905212402344, EP: 4.721604824066162	 ([( reuters )][shut][operation][e - mail][drum][customers][work - at - home][scheme,][tuesday.])
+v(1 6 7 11 21): -4.304248809814453, EP: 3.8770182132720947	 ([( reuters )][shut][operation][drum][tuesday.])
+v(1 6 7 8 10 11 12 13 14 15 18 19 20 21): -4.301723003387451, EP: 3.8747432231903076	 ([( reuters )][shut][operation][used][e - mail][drum][customers][fraudulent][work - at - home][scheme,][trade][commission][said][tuesday.])
+v(8 10 12 13 14 15 18 19 20): -2.963639259338379, EP: 2.6694748401641846	 ([used][e - mail][customers][fraudulent][work - at - home][scheme,][trade][commission][said])
+v(8 13 18 19 20): -2.6289052963256836, EP: 2.3679656982421875	 ([used][fraudulent][trade][commission][said])
+v(10 12 14 15): -1.1893258094787598, EP: 1.0712758302688599	 ([e - mail][customers][work - at - home][scheme,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): -1.1101956367492676, EP: 1.0	 ([washington][( reuters )][-][u. s.][court][temporarily][shut][operation][used][" spam "][e - mail][drum][customers][fraudulent][work - at - home][scheme,][u. s.][federal][trade][commission][said][tuesday.])
+v(0 2 3 4 5 9 16 17): 1.0502004623413086, EP: -0.9459598064422607	 ([washington][-][u. s.][court][temporarily][" spam "][u. s.][federal])
+v(0 1 2 3 4 5 6 7 9 10 11 12 14 15 16 17 21): -0.9973239898681641, EP: 0.8983317613601685	 ([washington][( reuters )][-][u. s.][court][temporarily][shut][operation][" spam "][e - mail][drum][customers][work - at - home][scheme,][u. s.][federal][tuesday.])
+v(0 2 3 4 5 8 9 13 16 17 18 19 20): 0.9288234710693359, EP: -0.8366304636001587	 ([washington][-][u. s.][court][temporarily][used][" spam "][fraudulent][u. s.][federal][trade][commission][said])
+v(0 2 3 4 5 8 9 10 12 13 14 15 16 17 18 19 20): 0.7430877685546875, EP: -0.6693304777145386	 ([washington][-][u. s.][court][temporarily][used][" spam "][e - mail][customers][fraudulent][work - at - home][scheme,][u. s.][federal][trade][commission][said])
+v(0 1 2 3 4 5 6 7 9 11 16 17 21): 0.6459417343139648, EP: -0.58182692527771	 ([washington][( reuters )][-][u. s.][court][temporarily][shut][operation][" spam "][drum][u. s.][federal][tuesday.])
+v(0 2 3 4 5 9 10 12 14 15 16 17): 0.46061277389526367, EP: -0.41489332914352417	 ([washington][-][u. s.][court][temporarily][" spam "][e - mail][customers][work - at - home][scheme,][u. s.][federal])
+v(0 1 2 3 4 5 6 7 8 9 11 13 16 17 18 19 20 21): 0.3898434638977051, EP: -0.35114842653274536	 ([washington][( reuters )][-][u. s.][court][temporarily][shut][operation][used][" spam "][drum][fraudulent][u. s.][federal][trade][commission][said][tuesday.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

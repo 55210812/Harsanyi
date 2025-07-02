@@ -1,0 +1,62 @@
+---------- Players ----------
+Player 0: oil
+Player 1: prices
+Player 2: surged
+Player 3: 5
+Player 4: percent
+Player 5: friday
+Player 6: frigid
+Player 7: weather
+Player 8: lingered
+Player 9: mammoth
+Player 10: us
+Player 11: northeast
+Player 12: heating
+Player 13: oil
+Player 14: market
+Player 15: militant
+Player 16: osama
+Player 17: bin
+Player 18: laden
+Player 19: urged
+Player 20: renewed
+Player 21: attacks
+Player 22: middle
+Player 23: east
+Player 24: oil
+Player 25: installations.
+---------- Rewards ----------
+v(): -4.800280570983887	 ([])
+v(2 3 4 5 6 7 8 20): 2.090517520904541	 ([surged][5][percent][friday][frigid][weather][lingered][renewed])
+v(0 9 10 12 13 24): -0.6290498971939087	 ([oil][mammoth][us][heating][oil][oil])
+v(1 14 21 25): -2.075589895248413	 ([prices][market][attacks][installations.])
+v(11 15 16 17 18 19 22 23): -9.218574523925781	 ([northeast][militant][osama][bin][laden][urged][middle][east])
+v(0 2 3 4 5 6 7 8 9 10 12 13 20 24): 7.8692216873168945	 ([oil][surged][5][percent][friday][frigid][weather][lingered][mammoth][us][heating][oil][renewed][oil])
+v(1 2 3 4 5 6 7 8 14 20 21 25): 6.6589741706848145	 ([prices][surged][5][percent][friday][frigid][weather][lingered][market][renewed][attacks][installations.])
+v(2 3 4 5 6 7 8 11 15 16 17 18 19 20 22 23): -9.01129150390625	 ([surged][5][percent][friday][frigid][weather][lingered][northeast][militant][osama][bin][laden][urged][renewed][middle][east])
+v(0 1 9 10 12 13 14 21 24 25): 8.254324913024902	 ([oil][prices][mammoth][us][heating][oil][market][attacks][oil][installations.])
+v(0 9 10 11 12 13 15 16 17 18 19 22 23 24): 2.6385998725891113	 ([oil][mammoth][us][northeast][heating][oil][militant][osama][bin][laden][urged][middle][east][oil])
+v(1 11 14 15 16 17 18 19 21 22 23 25): -4.149535655975342	 ([prices][northeast][market][militant][osama][bin][laden][urged][attacks][middle][east][installations.])
+v(0 1 2 3 4 5 6 7 8 9 10 12 13 14 20 21 24 25): 8.364192962646484	 ([oil][prices][surged][5][percent][friday][frigid][weather][lingered][mammoth][us][heating][oil][market][renewed][attacks][oil][installations.])
+v(0 2 3 4 5 6 7 8 9 10 11 12 13 15 16 17 18 19 20 22 23 24): 2.701673984527588	 ([oil][surged][5][percent][friday][frigid][weather][lingered][mammoth][us][northeast][heating][oil][militant][osama][bin][laden][urged][renewed][middle][east][oil])
+v(1 2 3 4 5 6 7 8 11 14 15 16 17 18 19 20 21 22 23 25): 1.395965337753296	 ([prices][surged][5][percent][friday][frigid][weather][lingered][northeast][market][militant][osama][bin][laden][urged][renewed][attacks][middle][east][installations.])
+v(0 1 9 10 11 12 13 14 15 16 17 18 19 21 22 23 24 25): 3.693251848220825	 ([oil][prices][mammoth][us][northeast][heating][oil][market][militant][osama][bin][laden][urged][attacks][middle][east][oil][installations.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 6.954291820526123	 ([oil][prices][surged][5][percent][friday][frigid][weather][lingered][mammoth][us][northeast][heating][oil][market][militant][osama][bin][laden][urged][renewed][attacks][middle][east][oil][installations.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 12 13 14 20 21 24 25): 13.164473533630371, EP: 1.1199449300765991	 ([oil][prices][surged][5][percent][friday][frigid][weather][lingered][mammoth][us][heating][oil][market][renewed][attacks][oil][installations.])
+v(0 1 9 10 12 13 14 21 24 25): 13.054605484008789, EP: 1.110598087310791	 ([oil][prices][mammoth][us][heating][oil][market][attacks][oil][installations.])
+v(0 2 3 4 5 6 7 8 9 10 12 13 20 24): 12.669502258300781, EP: 1.0778361558914185	 ([oil][surged][5][percent][friday][frigid][weather][lingered][mammoth][us][heating][oil][renewed][oil])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 11.754571914672852, EP: 1.0	 ([oil][prices][surged][5][percent][friday][frigid][weather][lingered][mammoth][us][northeast][heating][oil][market][militant][osama][bin][laden][urged][renewed][attacks][middle][east][oil][installations.])
+v(1 2 3 4 5 6 7 8 14 20 21 25): 11.45925521850586, EP: 0.9748764634132385	 ([prices][surged][5][percent][friday][frigid][weather][lingered][market][renewed][attacks][installations.])
+v(0 1 9 10 11 12 13 14 15 16 17 18 19 21 22 23 24 25): 8.493532180786133, EP: 0.7225726246833801	 ([oil][prices][mammoth][us][northeast][heating][oil][market][militant][osama][bin][laden][urged][attacks][middle][east][oil][installations.])
+v(0 2 3 4 5 6 7 8 9 10 11 12 13 15 16 17 18 19 20 22 23 24): 7.501954555511475, EP: 0.6382158994674683	 ([oil][surged][5][percent][friday][frigid][weather][lingered][mammoth][us][northeast][heating][oil][militant][osama][bin][laden][urged][renewed][middle][east][oil])
+v(0 9 10 11 12 13 15 16 17 18 19 22 23 24): 7.438880443572998, EP: 0.6328499913215637	 ([oil][mammoth][us][northeast][heating][oil][militant][osama][bin][laden][urged][middle][east][oil])
+v(2 3 4 5 6 7 8 20): 6.890798091888428, EP: 0.5862228274345398	 ([surged][5][percent][friday][frigid][weather][lingered][renewed])
+v(1 2 3 4 5 6 7 8 11 14 15 16 17 18 19 20 21 22 23 25): 6.196246147155762, EP: 0.5271350145339966	 ([prices][surged][5][percent][friday][frigid][weather][lingered][northeast][market][militant][osama][bin][laden][urged][renewed][attacks][middle][east][installations.])
+v(11 15 16 17 18 19 22 23): -4.4182939529418945, EP: -0.3758787512779236	 ([northeast][militant][osama][bin][laden][urged][middle][east])
+v(2 3 4 5 6 7 8 11 15 16 17 18 19 20 22 23): -4.211010932922363, EP: -0.35824450850486755	 ([surged][5][percent][friday][frigid][weather][lingered][northeast][militant][osama][bin][laden][urged][renewed][middle][east])
+v(0 9 10 12 13 24): 4.171230792999268, EP: 0.3548602759838104	 ([oil][mammoth][us][heating][oil][oil])
+v(1 14 21 25): 2.7246906757354736, EP: 0.23179838061332703	 ([prices][market][attacks][installations.])
+v(1 11 14 15 16 17 18 19 21 22 23 25): 0.6507449150085449, EP: 0.055361006408929825	 ([prices][northeast][market][militant][osama][bin][laden][urged][attacks][middle][east][installations.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

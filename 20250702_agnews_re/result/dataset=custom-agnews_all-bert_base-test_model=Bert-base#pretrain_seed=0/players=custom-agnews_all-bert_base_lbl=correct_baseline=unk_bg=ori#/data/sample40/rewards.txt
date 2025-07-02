@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: cuban
+Player 1: government
+Player 2: freed
+Player 3: another
+Player 4: jailed
+Player 5: opponent
+Player 6: yesterday,
+Player 7: sixth
+Player 8: dissident
+Player 9: released
+Player 10: week
+Player 11: move
+Player 12: widely
+Player 13: seen
+Player 14: attempt
+Player 15: repair
+Player 16: relations
+Player 17: european
+Player 18: union.
+---------- Rewards ----------
+v(): -6.079689979553223	 ([])
+v(2 4): 1.9353598356246948	 ([freed][jailed])
+v(0 1 7 14 15 16 17 18): 3.586878776550293	 ([cuban][government][sixth][attempt][repair][relations][european][union.])
+v(8 9): 2.2006547451019287	 ([dissident][released])
+v(3 5 6 10 11 12 13): -5.633966445922852	 ([another][opponent][yesterday,][week][move][widely][seen])
+v(0 1 2 4 7 14 15 16 17 18): 7.350263595581055	 ([cuban][government][freed][jailed][sixth][attempt][repair][relations][european][union.])
+v(2 4 8 9): 5.739895820617676	 ([freed][jailed][dissident][released])
+v(2 3 4 5 6 10 11 12 13): 6.363385200500488	 ([freed][another][jailed][opponent][yesterday,][week][move][widely][seen])
+v(0 1 7 8 9 14 15 16 17 18): 7.427213668823242	 ([cuban][government][sixth][dissident][released][attempt][repair][relations][european][union.])
+v(0 1 3 5 6 7 10 11 12 13 14 15 16 17 18): 6.727826118469238	 ([cuban][government][another][opponent][yesterday,][sixth][week][move][widely][seen][attempt][repair][relations][european][union.])
+v(3 5 6 8 9 10 11 12 13): 6.297945976257324	 ([another][opponent][yesterday,][dissident][released][week][move][widely][seen])
+v(0 1 2 4 7 8 9 14 15 16 17 18): 7.378180503845215	 ([cuban][government][freed][jailed][sixth][dissident][released][attempt][repair][relations][european][union.])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18): 7.721435546875	 ([cuban][government][freed][another][jailed][opponent][yesterday,][sixth][week][move][widely][seen][attempt][repair][relations][european][union.])
+v(2 3 4 5 6 8 9 10 11 12 13): 7.318464279174805	 ([freed][another][jailed][opponent][yesterday,][dissident][released][week][move][widely][seen])
+v(0 1 3 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.093035697937012	 ([cuban][government][another][opponent][yesterday,][sixth][dissident][released][week][move][widely][seen][attempt][repair][relations][european][union.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.755868911743164	 ([cuban][government][freed][another][jailed][opponent][yesterday,][sixth][dissident][released][week][move][widely][seen][attempt][repair][relations][european][union.])
+---------- Rewards-v() ----------
+v(0 1 3 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.172725677490234, EP: 1.0243695974349976	 ([cuban][government][another][opponent][yesterday,][sixth][dissident][released][week][move][widely][seen][attempt][repair][relations][european][union.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 13.835558891296387, EP: 1.0	 ([cuban][government][freed][another][jailed][opponent][yesterday,][sixth][dissident][released][week][move][widely][seen][attempt][repair][relations][european][union.])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18): 13.801125526428223, EP: 0.9975112676620483	 ([cuban][government][freed][another][jailed][opponent][yesterday,][sixth][week][move][widely][seen][attempt][repair][relations][european][union.])
+v(0 1 7 8 9 14 15 16 17 18): 13.506903648376465, EP: 0.9762455821037292	 ([cuban][government][sixth][dissident][released][attempt][repair][relations][european][union.])
+v(0 1 2 4 7 8 9 14 15 16 17 18): 13.457870483398438, EP: 0.9727016091346741	 ([cuban][government][freed][jailed][sixth][dissident][released][attempt][repair][relations][european][union.])
+v(0 1 2 4 7 14 15 16 17 18): 13.429953575134277, EP: 0.9706838726997375	 ([cuban][government][freed][jailed][sixth][attempt][repair][relations][european][union.])
+v(2 3 4 5 6 8 9 10 11 12 13): 13.398154258728027, EP: 0.9683854579925537	 ([freed][another][jailed][opponent][yesterday,][dissident][released][week][move][widely][seen])
+v(0 1 3 5 6 7 10 11 12 13 14 15 16 17 18): 12.807516098022461, EP: 0.9256955981254578	 ([cuban][government][another][opponent][yesterday,][sixth][week][move][widely][seen][attempt][repair][relations][european][union.])
+v(2 3 4 5 6 10 11 12 13): 12.443075180053711, EP: 0.8993546962738037	 ([freed][another][jailed][opponent][yesterday,][week][move][widely][seen])
+v(3 5 6 8 9 10 11 12 13): 12.377635955810547, EP: 0.8946249485015869	 ([another][opponent][yesterday,][dissident][released][week][move][widely][seen])
+v(2 4 8 9): 11.819585800170898, EP: 0.8542904257774353	 ([freed][jailed][dissident][released])
+v(0 1 7 14 15 16 17 18): 9.666568756103516, EP: 0.6986756920814514	 ([cuban][government][sixth][attempt][repair][relations][european][union.])
+v(8 9): 8.28034496307373, EP: 0.5984828472137451	 ([dissident][released])
+v(2 4): 8.015049934387207, EP: 0.5793079733848572	 ([freed][jailed])
+v(3 5 6 10 11 12 13): 0.4457235336303711, EP: 0.032215796411037445	 ([another][opponent][yesterday,][week][move][widely][seen])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

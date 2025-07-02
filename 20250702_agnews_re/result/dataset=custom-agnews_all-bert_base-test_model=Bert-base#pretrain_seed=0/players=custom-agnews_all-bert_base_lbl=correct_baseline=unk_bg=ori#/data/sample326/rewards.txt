@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: alicia
+Player 1: molik
+Player 2: great
+Player 3: white
+Player 4: hope
+Player 5: australian
+Player 6: women
+Player 7: # 39 ; s
+Player 8: tennis?
+Player 9: might
+Player 10: unfair
+Player 11: burden
+Player 12: 23 - year - old
+Player 13: tag,
+Player 14: following
+Player 15: win
+Player 16: maria
+Player 17: sharapova
+Player 18: \ $ 1.
+---------- Rewards ----------
+v(): -3.493356227874756	 ([])
+v(8 15 17): 8.115480422973633	 ([tennis?][win][sharapova])
+v(5 6 10 13 14): -6.118254661560059	 ([australian][women][unfair][tag,][following])
+v(2 3 4 9 12 16 18): 4.865742206573486	 ([great][white][hope][might][23 - year - old][maria][\ $ 1.])
+v(0 1 7 11): -0.6193130016326904	 ([alicia][molik][# 39 ; s][burden])
+v(5 6 8 10 13 14 15 17): 8.177903175354004	 ([australian][women][tennis?][unfair][tag,][following][win][sharapova])
+v(2 3 4 8 9 12 15 16 17 18): 9.271117210388184	 ([great][white][hope][tennis?][might][23 - year - old][win][maria][sharapova][\ $ 1.])
+v(0 1 7 8 11 15 17): 9.569077491760254	 ([alicia][molik][# 39 ; s][tennis?][burden][win][sharapova])
+v(2 3 4 5 6 9 10 12 13 14 16 18): 4.220087051391602	 ([great][white][hope][australian][women][might][unfair][23 - year - old][tag,][following][maria][\ $ 1.])
+v(0 1 5 6 7 10 11 13 14): -1.0660147666931152	 ([alicia][molik][australian][women][# 39 ; s][unfair][burden][tag,][following])
+v(0 1 2 3 4 7 9 11 12 16 18): 7.712147235870361	 ([alicia][molik][great][white][hope][# 39 ; s][might][burden][23 - year - old][maria][\ $ 1.])
+v(2 3 4 5 6 8 9 10 12 13 14 15 16 17 18): 9.342514991760254	 ([great][white][hope][australian][women][tennis?][might][unfair][23 - year - old][tag,][following][win][maria][sharapova][\ $ 1.])
+v(0 1 5 6 7 8 10 11 13 14 15 17): 9.644598007202148	 ([alicia][molik][australian][women][# 39 ; s][tennis?][unfair][burden][tag,][following][win][sharapova])
+v(0 1 2 3 4 7 8 9 11 12 15 16 17 18): 9.624357223510742	 ([alicia][molik][great][white][hope][# 39 ; s][tennis?][might][burden][23 - year - old][win][maria][sharapova][\ $ 1.])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 14 16 18): 9.303680419921875	 ([alicia][molik][great][white][hope][australian][women][# 39 ; s][might][unfair][burden][23 - year - old][tag,][following][maria][\ $ 1.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.668783187866211	 ([alicia][molik][great][white][hope][australian][women][# 39 ; s][tennis?][might][unfair][burden][23 - year - old][tag,][following][win][maria][sharapova][\ $ 1.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 13.162139892578125, EP: 1.0	 ([alicia][molik][great][white][hope][australian][women][# 39 ; s][tennis?][might][unfair][burden][23 - year - old][tag,][following][win][maria][sharapova][\ $ 1.])
+v(0 1 5 6 7 8 10 11 13 14 15 17): 13.137954711914062, EP: 0.9981625080108643	 ([alicia][molik][australian][women][# 39 ; s][tennis?][unfair][burden][tag,][following][win][sharapova])
+v(0 1 2 3 4 7 8 9 11 12 15 16 17 18): 13.117713928222656, EP: 0.9966247081756592	 ([alicia][molik][great][white][hope][# 39 ; s][tennis?][might][burden][23 - year - old][win][maria][sharapova][\ $ 1.])
+v(0 1 7 8 11 15 17): 13.062433242797852, EP: 0.992424726486206	 ([alicia][molik][# 39 ; s][tennis?][burden][win][sharapova])
+v(2 3 4 5 6 8 9 10 12 13 14 15 16 17 18): 12.835870742797852, EP: 0.9752115607261658	 ([great][white][hope][australian][women][tennis?][might][unfair][23 - year - old][tag,][following][win][maria][sharapova][\ $ 1.])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 14 16 18): 12.797037124633789, EP: 0.9722611308097839	 ([alicia][molik][great][white][hope][australian][women][# 39 ; s][might][unfair][burden][23 - year - old][tag,][following][maria][\ $ 1.])
+v(2 3 4 8 9 12 15 16 17 18): 12.764472961425781, EP: 0.969787061214447	 ([great][white][hope][tennis?][might][23 - year - old][win][maria][sharapova][\ $ 1.])
+v(5 6 8 10 13 14 15 17): 11.671258926391602, EP: 0.8867295980453491	 ([australian][women][tennis?][unfair][tag,][following][win][sharapova])
+v(8 15 17): 11.608837127685547, EP: 0.8819870352745056	 ([tennis?][win][sharapova])
+v(0 1 2 3 4 7 9 11 12 16 18): 11.205503463745117, EP: 0.85134357213974	 ([alicia][molik][great][white][hope][# 39 ; s][might][burden][23 - year - old][maria][\ $ 1.])
+v(2 3 4 9 12 16 18): 8.359098434448242, EP: 0.6350865960121155	 ([great][white][hope][might][23 - year - old][maria][\ $ 1.])
+v(2 3 4 5 6 9 10 12 13 14 16 18): 7.713443279266357, EP: 0.5860326290130615	 ([great][white][hope][australian][women][might][unfair][23 - year - old][tag,][following][maria][\ $ 1.])
+v(0 1 7 11): 2.8740432262420654, EP: 0.21835683286190033	 ([alicia][molik][# 39 ; s][burden])
+v(5 6 10 13 14): -2.6248984336853027, EP: -0.19942793250083923	 ([australian][women][unfair][tag,][following])
+v(0 1 5 6 7 10 11 13 14): 2.4273414611816406, EP: 0.1844184547662735	 ([alicia][molik][australian][women][# 39 ; s][unfair][burden][tag,][following])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

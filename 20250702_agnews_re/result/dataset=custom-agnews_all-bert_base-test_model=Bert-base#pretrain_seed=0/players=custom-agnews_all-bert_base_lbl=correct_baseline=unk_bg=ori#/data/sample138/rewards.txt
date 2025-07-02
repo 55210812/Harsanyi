@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: iraqi
+Player 1: people
+Player 2: come
+Player 3: best
+Player 4: end
+Player 5: najaf
+Player 6: siege.
+Player 7: triumph
+Player 8: moderate
+Player 9: majority
+Player 10: yesterday
+Player 11: felt
+Player 12: powerless
+Player 13: influence
+Player 14: wretched
+Player 15: course
+Player 16: events
+Player 17: country.
+---------- Rewards ----------
+v(): -6.903484344482422	 ([])
+v(0 4 5 8 9 14): 7.197559356689453	 ([iraqi][end][najaf][moderate][majority][wretched])
+v(2 7 10 11 17): 1.8676499128341675	 ([come][triumph][yesterday][felt][country.])
+v(1 3 6 12 13 15 16): 0.22129297256469727	 ([people][best][siege.][powerless][influence][course][events])
+v(0 2 4 5 7 8 9 10 11 14 17): 7.801673412322998	 ([iraqi][come][end][najaf][triumph][moderate][majority][yesterday][felt][wretched][country.])
+v(0 1 3 4 5 6 8 9 12 13 14 15 16): 7.585396766662598	 ([iraqi][people][best][end][najaf][siege.][moderate][majority][powerless][influence][wretched][course][events])
+v(1 2 3 6 7 10 11 12 13 15 16 17): 6.073800563812256	 ([people][come][best][siege.][triumph][yesterday][felt][powerless][influence][course][events][country.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.027840614318848	 ([iraqi][people][come][best][end][najaf][siege.][triumph][moderate][majority][yesterday][felt][powerless][influence][wretched][course][events][country.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 14.93132495880127, EP: 1.0	 ([iraqi][people][come][best][end][najaf][siege.][triumph][moderate][majority][yesterday][felt][powerless][influence][wretched][course][events][country.])
+v(0 2 4 5 7 8 9 10 11 14 17): 14.705158233642578, EP: 0.9848528504371643	 ([iraqi][come][end][najaf][triumph][moderate][majority][yesterday][felt][wretched][country.])
+v(0 1 3 4 5 6 8 9 12 13 14 15 16): 14.48888111114502, EP: 0.9703680872917175	 ([iraqi][people][best][end][najaf][siege.][moderate][majority][powerless][influence][wretched][course][events])
+v(0 4 5 8 9 14): 14.101043701171875, EP: 0.9443933367729187	 ([iraqi][end][najaf][moderate][majority][wretched])
+v(1 2 3 6 7 10 11 12 13 15 16 17): 12.977285385131836, EP: 0.8691315054893494	 ([people][come][best][siege.][triumph][yesterday][felt][powerless][influence][course][events][country.])
+v(2 7 10 11 17): 8.771134376525879, EP: 0.5874317288398743	 ([come][triumph][yesterday][felt][country.])
+v(1 3 6 12 13 15 16): 7.124777317047119, EP: 0.47716981172561646	 ([people][best][siege.][powerless][influence][course][events])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

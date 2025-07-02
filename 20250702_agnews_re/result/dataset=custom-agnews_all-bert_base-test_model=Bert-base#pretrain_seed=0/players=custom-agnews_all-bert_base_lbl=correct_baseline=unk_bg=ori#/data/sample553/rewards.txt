@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: gilbert
+Player 1: arenas,
+Player 2: jarvis
+Player 3: hayes
+Player 4: anthony
+Player 5: peeler
+Player 6: return
+Player 7: minor
+Player 8: injuries
+Player 9: play
+Player 10: wizards '
+Player 11: 97 - 85
+Player 12: victory
+Player 13: bobcats.
+---------- Rewards ----------
+v(): -4.070764541625977	 ([])
+v(0 3 4 10 11): 9.655014038085938	 ([gilbert][hayes][anthony][wizards '][97 - 85])
+v(2 7 8 9 13): 9.736082077026367	 ([jarvis][minor][injuries][play][bobcats.])
+v(1 5 6 12): 3.493527889251709	 ([arenas,][peeler][return][victory])
+v(0 2 3 4 7 8 9 10 11 13): 9.610947608947754	 ([gilbert][jarvis][hayes][anthony][minor][injuries][play][wizards '][97 - 85][bobcats.])
+v(0 1 3 4 5 6 10 11 12): 9.679107666015625	 ([gilbert][arenas,][hayes][anthony][peeler][return][wizards '][97 - 85][victory])
+v(1 2 5 6 7 8 9 12 13): 9.443955421447754	 ([arenas,][jarvis][peeler][return][minor][injuries][play][victory][bobcats.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 9.179222106933594	 ([gilbert][arenas,][jarvis][hayes][anthony][peeler][return][minor][injuries][play][wizards '][97 - 85][victory][bobcats.])
+---------- Rewards-v() ----------
+v(2 7 8 9 13): 13.806846618652344, EP: 1.042027235031128	 ([jarvis][minor][injuries][play][bobcats.])
+v(0 1 3 4 5 6 10 11 12): 13.749872207641602, EP: 1.0377272367477417	 ([gilbert][arenas,][hayes][anthony][peeler][return][wizards '][97 - 85][victory])
+v(0 3 4 10 11): 13.725778579711914, EP: 1.035908818244934	 ([gilbert][hayes][anthony][wizards '][97 - 85])
+v(0 2 3 4 7 8 9 10 11 13): 13.68171215057373, EP: 1.0325831174850464	 ([gilbert][jarvis][hayes][anthony][minor][injuries][play][wizards '][97 - 85][bobcats.])
+v(1 2 5 6 7 8 9 12 13): 13.51471996307373, EP: 1.0199798345565796	 ([arenas,][jarvis][peeler][return][minor][injuries][play][victory][bobcats.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 13.24998664855957, EP: 1.0	 ([gilbert][arenas,][jarvis][hayes][anthony][peeler][return][minor][injuries][play][wizards '][97 - 85][victory][bobcats.])
+v(1 5 6 12): 7.5642924308776855, EP: 0.5708905458450317	 ([arenas,][peeler][return][victory])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

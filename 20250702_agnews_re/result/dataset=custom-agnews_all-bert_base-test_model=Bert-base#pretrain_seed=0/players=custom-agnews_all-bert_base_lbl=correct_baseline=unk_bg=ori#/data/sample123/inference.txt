@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 19:20:34
+prompt: [CLS] is it possible that giants fans have seen the last of the dynamic jeremy shockey that bursts through the screen and opposing defenses as he dominates highlight films near and far? [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2003 decoded_text: is
+idx:2 input_id:2009 decoded_text: it
+idx:3 input_id:2825 decoded_text: possible
+idx:4 input_id:2008 decoded_text: that
+idx:5 input_id:7230 decoded_text: giants
+idx:6 input_id:4599 decoded_text: fans
+idx:7 input_id:2031 decoded_text: have
+idx:8 input_id:2464 decoded_text: seen
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:2197 decoded_text: last
+idx:11 input_id:1997 decoded_text: of
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:8790 decoded_text: dynamic
+idx:14 input_id:7441 decoded_text: jeremy
+idx:15 input_id:5213 decoded_text: shock
+idx:16 input_id:3240 decoded_text: ##ey
+idx:17 input_id:2008 decoded_text: that
+idx:18 input_id:19239 decoded_text: bursts
+idx:19 input_id:2083 decoded_text: through
+idx:20 input_id:1996 decoded_text: the
+idx:21 input_id:3898 decoded_text: screen
+idx:22 input_id:1998 decoded_text: and
+idx:23 input_id:10078 decoded_text: opposing
+idx:24 input_id:13345 decoded_text: defenses
+idx:25 input_id:2004 decoded_text: as
+idx:26 input_id:2002 decoded_text: he
+idx:27 input_id:29532 decoded_text: dominates
+idx:28 input_id:12944 decoded_text: highlight
+idx:29 input_id:3152 decoded_text: films
+idx:30 input_id:2379 decoded_text: near
+idx:31 input_id:1998 decoded_text: and
+idx:32 input_id:2521 decoded_text: far
+idx:33 input_id:1029 decoded_text: ?
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-0.3947295844554901, 7.7455830574035645, -2.5492491722106934, -3.3430774211883545]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

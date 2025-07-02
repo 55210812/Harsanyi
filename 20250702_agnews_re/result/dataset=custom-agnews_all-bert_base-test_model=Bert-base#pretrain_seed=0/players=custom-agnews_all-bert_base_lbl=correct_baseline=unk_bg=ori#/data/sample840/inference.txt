@@ -1,0 +1,55 @@
+Execution time: 2025-07-02 19:38:16
+prompt: [CLS] ford motor co. posted its fourth consecutive month of weaker u. s. sales with a 7 percent drop in september results on friday, and the automaker doubled its incentives on some models to kick - start sales this month. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4811 decoded_text: ford
+idx:2 input_id:5013 decoded_text: motor
+idx:3 input_id:2522 decoded_text: co
+idx:4 input_id:1012 decoded_text: .
+idx:5 input_id:6866 decoded_text: posted
+idx:6 input_id:2049 decoded_text: its
+idx:7 input_id:2959 decoded_text: fourth
+idx:8 input_id:5486 decoded_text: consecutive
+idx:9 input_id:3204 decoded_text: month
+idx:10 input_id:1997 decoded_text: of
+idx:11 input_id:15863 decoded_text: weaker
+idx:12 input_id:1057 decoded_text: u
+idx:13 input_id:1012 decoded_text: .
+idx:14 input_id:1055 decoded_text: s
+idx:15 input_id:1012 decoded_text: .
+idx:16 input_id:4341 decoded_text: sales
+idx:17 input_id:2007 decoded_text: with
+idx:18 input_id:1037 decoded_text: a
+idx:19 input_id:1021 decoded_text: 7
+idx:20 input_id:3867 decoded_text: percent
+idx:21 input_id:4530 decoded_text: drop
+idx:22 input_id:1999 decoded_text: in
+idx:23 input_id:2244 decoded_text: september
+idx:24 input_id:3463 decoded_text: results
+idx:25 input_id:2006 decoded_text: on
+idx:26 input_id:5958 decoded_text: friday
+idx:27 input_id:1010 decoded_text: ,
+idx:28 input_id:1998 decoded_text: and
+idx:29 input_id:1996 decoded_text: the
+idx:30 input_id:8285 decoded_text: auto
+idx:31 input_id:8571 decoded_text: ##maker
+idx:32 input_id:11515 decoded_text: doubled
+idx:33 input_id:2049 decoded_text: its
+idx:34 input_id:21134 decoded_text: incentives
+idx:35 input_id:2006 decoded_text: on
+idx:36 input_id:2070 decoded_text: some
+idx:37 input_id:4275 decoded_text: models
+idx:38 input_id:2000 decoded_text: to
+idx:39 input_id:5926 decoded_text: kick
+idx:40 input_id:1011 decoded_text: -
+idx:41 input_id:2707 decoded_text: start
+idx:42 input_id:4341 decoded_text: sales
+idx:43 input_id:2023 decoded_text: this
+idx:44 input_id:3204 decoded_text: month
+idx:45 input_id:1012 decoded_text: .
+idx:46 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.725001573562622, -2.9137704372406006, 5.932702541351318, -3.299684524536133]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

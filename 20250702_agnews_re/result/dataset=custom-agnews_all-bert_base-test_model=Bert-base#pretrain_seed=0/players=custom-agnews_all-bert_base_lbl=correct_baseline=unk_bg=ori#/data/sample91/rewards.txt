@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: polish
+Player 1: woman
+Player 2: held
+Player 3: hostage
+Player 4: iraq
+Player 5: appeared
+Player 6: new
+Player 7: video,
+Player 8: aired
+Player 9: al - jazeera
+Player 10: satellite
+Player 11: channel,
+Player 12: pleading
+Player 13: nation
+Player 14: withdraw
+Player 15: troops
+Player 16: country
+Player 17: release
+Player 18: women
+Player 19: prisoners
+Player 20: save
+Player 21: life.
+---------- Rewards ----------
+v(): -3.085397481918335	 ([])
+v(5 6 7 8 10 11): -1.7568233013153076	 ([appeared][new][video,][aired][satellite][channel,])
+v(0 3 4 9 13 15 16): 5.379999160766602	 ([polish][hostage][iraq][al - jazeera][nation][troops][country])
+v(1 2 12 14 17 18 19 20 21): 4.4318037033081055	 ([woman][held][pleading][withdraw][release][women][prisoners][save][life.])
+v(0 3 4 5 6 7 8 9 10 11 13 15 16): 5.043285846710205	 ([polish][hostage][iraq][appeared][new][video,][aired][al - jazeera][satellite][channel,][nation][troops][country])
+v(1 2 5 6 7 8 10 11 12 14 17 18 19 20 21): 3.4818739891052246	 ([woman][held][appeared][new][video,][aired][satellite][channel,][pleading][withdraw][release][women][prisoners][save][life.])
+v(0 1 2 3 4 9 12 13 14 15 16 17 18 19 20 21): 6.4026970863342285	 ([polish][woman][held][hostage][iraq][al - jazeera][pleading][nation][withdraw][troops][country][release][women][prisoners][save][life.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 6.622990608215332	 ([polish][woman][held][hostage][iraq][appeared][new][video,][aired][al - jazeera][satellite][channel,][pleading][nation][withdraw][troops][country][release][women][prisoners][save][life.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.708388328552246, EP: 1.0	 ([polish][woman][held][hostage][iraq][appeared][new][video,][aired][al - jazeera][satellite][channel,][pleading][nation][withdraw][troops][country][release][women][prisoners][save][life.])
+v(0 1 2 3 4 9 12 13 14 15 16 17 18 19 20 21): 9.488094329833984, EP: 0.9773089289665222	 ([polish][woman][held][hostage][iraq][al - jazeera][pleading][nation][withdraw][troops][country][release][women][prisoners][save][life.])
+v(0 3 4 9 13 15 16): 8.465396881103516, EP: 0.8719672560691833	 ([polish][hostage][iraq][al - jazeera][nation][troops][country])
+v(0 3 4 5 6 7 8 9 10 11 13 15 16): 8.128683090209961, EP: 0.837284505367279	 ([polish][hostage][iraq][appeared][new][video,][aired][al - jazeera][satellite][channel,][nation][troops][country])
+v(1 2 12 14 17 18 19 20 21): 7.5172014236450195, EP: 0.7742996215820312	 ([woman][held][pleading][withdraw][release][women][prisoners][save][life.])
+v(1 2 5 6 7 8 10 11 12 14 17 18 19 20 21): 6.5672712326049805, EP: 0.6764532923698425	 ([woman][held][appeared][new][video,][aired][satellite][channel,][pleading][withdraw][release][women][prisoners][save][life.])
+v(5 6 7 8 10 11): 1.3285741806030273, EP: 0.1368480622768402	 ([appeared][new][video,][aired][satellite][channel,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

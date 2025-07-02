@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: sky
+Player 1: team,
+Player 2: one
+Player 3: worlds
+Player 4: three
+Player 5: airline
+Player 6: alliances,
+Player 7: announced
+Player 8: continental
+Player 9: airlines,
+Player 10: klm
+Player 11: royal
+Player 12: dutch
+Player 13: airlines
+Player 14: northwest
+Player 15: airlines
+Player 16: officially
+Player 17: joined
+Player 18: alliance
+Player 19: governing
+Player 20: board
+Player 21: new
+Player 22: york,
+Player 23: monday.
+---------- Rewards ----------
+v(): -5.622139930725098	 ([])
+v(4 5 9 13 15): 6.375454902648926	 ([three][airline][airlines,][airlines][airlines])
+v(2 6 16 17 18 19 20 21 22 23): -3.8531370162963867	 ([one][alliances,][officially][joined][alliance][governing][board][new][york,][monday.])
+v(0 1 3 7 8 10 11 12 14): -5.347448825836182	 ([sky][team,][worlds][announced][continental][klm][royal][dutch][northwest])
+v(2 4 5 6 9 13 15 16 17 18 19 20 21 22 23): 8.4188814163208	 ([one][three][airline][alliances,][airlines,][airlines][airlines][officially][joined][alliance][governing][board][new][york,][monday.])
+v(0 1 3 4 5 7 8 9 10 11 12 13 14 15): 7.923462867736816	 ([sky][team,][worlds][three][airline][announced][continental][airlines,][klm][royal][dutch][airlines][northwest][airlines])
+v(0 1 2 3 6 7 8 10 11 12 14 16 17 18 19 20 21 22 23): -7.57349967956543	 ([sky][team,][one][worlds][alliances,][announced][continental][klm][royal][dutch][northwest][officially][joined][alliance][governing][board][new][york,][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.272153854370117	 ([sky][team,][one][worlds][three][airline][alliances,][announced][continental][airlines,][klm][royal][dutch][airlines][northwest][airlines][officially][joined][alliance][governing][board][new][york,][monday.])
+---------- Rewards-v() ----------
+v(2 4 5 6 9 13 15 16 17 18 19 20 21 22 23): 14.041021347045898, EP: 1.0105602741241455	 ([one][three][airline][alliances,][airlines,][airlines][airlines][officially][joined][alliance][governing][board][new][york,][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 13.894293785095215, EP: 1.0	 ([sky][team,][one][worlds][three][airline][alliances,][announced][continental][airlines,][klm][royal][dutch][airlines][northwest][airlines][officially][joined][alliance][governing][board][new][york,][monday.])
+v(0 1 3 4 5 7 8 9 10 11 12 13 14 15): 13.545602798461914, EP: 0.9749040007591248	 ([sky][team,][worlds][three][airline][announced][continental][airlines,][klm][royal][dutch][airlines][northwest][airlines])
+v(4 5 9 13 15): 11.997594833374023, EP: 0.8634908199310303	 ([three][airline][airlines,][airlines][airlines])
+v(0 1 2 3 6 7 8 10 11 12 14 16 17 18 19 20 21 22 23): -1.951359748840332, EP: -0.14044325053691864	 ([sky][team,][one][worlds][alliances,][announced][continental][klm][royal][dutch][northwest][officially][joined][alliance][governing][board][new][york,][monday.])
+v(2 6 16 17 18 19 20 21 22 23): 1.769002914428711, EP: 0.12731866538524628	 ([one][alliances,][officially][joined][alliance][governing][board][new][york,][monday.])
+v(0 1 3 7 8 10 11 12 14): 0.274691104888916, EP: 0.01977006532251835	 ([sky][team,][worlds][announced][continental][klm][royal][dutch][northwest])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

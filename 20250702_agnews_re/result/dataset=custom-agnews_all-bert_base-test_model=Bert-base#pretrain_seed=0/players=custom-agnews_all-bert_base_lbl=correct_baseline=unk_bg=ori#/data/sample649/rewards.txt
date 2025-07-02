@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: england
+Player 1: captain
+Player 2: david
+Player 3: beckham
+Player 4: revealed
+Player 5: deliberately
+Player 6: got
+Player 7: booked
+Player 8: wales
+Player 9: saturday.
+Player 10: real
+Player 11: madrid
+Player 12: star
+Player 13: cautioned
+Player 14: foul
+Player 15: ben
+Player 16: thatcher
+Player 17: late
+Player 18: game,
+---------- Rewards ----------
+v(): -1.6104230880737305	 ([])
+v(1 2 7 9 15 16 17): -7.443089008331299	 ([captain][david][booked][saturday.][ben][thatcher][late])
+v(10 11 12): 8.285209655761719	 ([real][madrid][star])
+v(0 3 4 5 6 8 13 14 18): 9.351421356201172	 ([england][beckham][revealed][deliberately][got][wales][cautioned][foul][game,])
+v(1 2 7 9 10 11 12 15 16 17): 8.92147159576416	 ([captain][david][booked][saturday.][real][madrid][star][ben][thatcher][late])
+v(0 1 2 3 4 5 6 7 8 9 13 14 15 16 17 18): 9.502232551574707	 ([england][captain][david][beckham][revealed][deliberately][got][booked][wales][saturday.][cautioned][foul][ben][thatcher][late][game,])
+v(0 3 4 5 6 8 10 11 12 13 14 18): 9.530548095703125	 ([england][beckham][revealed][deliberately][got][wales][real][madrid][star][cautioned][foul][game,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.647048950195312	 ([england][captain][david][beckham][revealed][deliberately][got][booked][wales][saturday.][real][madrid][star][cautioned][foul][ben][thatcher][late][game,])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 11.257472038269043, EP: 1.0	 ([england][captain][david][beckham][revealed][deliberately][got][booked][wales][saturday.][real][madrid][star][cautioned][foul][ben][thatcher][late][game,])
+v(0 3 4 5 6 8 10 11 12 13 14 18): 11.140971183776855, EP: 0.9896512627601624	 ([england][beckham][revealed][deliberately][got][wales][real][madrid][star][cautioned][foul][game,])
+v(0 1 2 3 4 5 6 7 8 9 13 14 15 16 17 18): 11.112655639648438, EP: 0.9871359467506409	 ([england][captain][david][beckham][revealed][deliberately][got][booked][wales][saturday.][cautioned][foul][ben][thatcher][late][game,])
+v(0 3 4 5 6 8 13 14 18): 10.961844444274902, EP: 0.9737394452095032	 ([england][beckham][revealed][deliberately][got][wales][cautioned][foul][game,])
+v(1 2 7 9 10 11 12 15 16 17): 10.53189468383789, EP: 0.9355470538139343	 ([captain][david][booked][saturday.][real][madrid][star][ben][thatcher][late])
+v(10 11 12): 9.89563274383545, EP: 0.8790279626846313	 ([real][madrid][star])
+v(1 2 7 9 15 16 17): -5.832665920257568, EP: -0.5181150436401367	 ([captain][david][booked][saturday.][ben][thatcher][late])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

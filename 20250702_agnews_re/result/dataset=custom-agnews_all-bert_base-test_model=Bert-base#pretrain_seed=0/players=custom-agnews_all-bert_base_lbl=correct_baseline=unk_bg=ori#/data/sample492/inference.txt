@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 19:29:29
+prompt: [CLS] house and senate conferees have agreed to let the energy department leave some radioactive waste in tanks in south carolina and idaho, instead of pumping it out for deep burial. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2160 decoded_text: house
+idx:2 input_id:1998 decoded_text: and
+idx:3 input_id:4001 decoded_text: senate
+idx:4 input_id:9530 decoded_text: con
+idx:5 input_id:7512 decoded_text: ##fer
+idx:6 input_id:10285 decoded_text: ##ees
+idx:7 input_id:2031 decoded_text: have
+idx:8 input_id:3530 decoded_text: agreed
+idx:9 input_id:2000 decoded_text: to
+idx:10 input_id:2292 decoded_text: let
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:2943 decoded_text: energy
+idx:13 input_id:2533 decoded_text: department
+idx:14 input_id:2681 decoded_text: leave
+idx:15 input_id:2070 decoded_text: some
+idx:16 input_id:17669 decoded_text: radioactive
+idx:17 input_id:5949 decoded_text: waste
+idx:18 input_id:1999 decoded_text: in
+idx:19 input_id:7286 decoded_text: tanks
+idx:20 input_id:1999 decoded_text: in
+idx:21 input_id:2148 decoded_text: south
+idx:22 input_id:3792 decoded_text: carolina
+idx:23 input_id:1998 decoded_text: and
+idx:24 input_id:9795 decoded_text: idaho
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:2612 decoded_text: instead
+idx:27 input_id:1997 decoded_text: of
+idx:28 input_id:14107 decoded_text: pumping
+idx:29 input_id:2009 decoded_text: it
+idx:30 input_id:2041 decoded_text: out
+idx:31 input_id:2005 decoded_text: for
+idx:32 input_id:2784 decoded_text: deep
+idx:33 input_id:8940 decoded_text: burial
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.638422727584839, -3.212015151977539, 2.1981301307678223, 3.9746382236480713]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

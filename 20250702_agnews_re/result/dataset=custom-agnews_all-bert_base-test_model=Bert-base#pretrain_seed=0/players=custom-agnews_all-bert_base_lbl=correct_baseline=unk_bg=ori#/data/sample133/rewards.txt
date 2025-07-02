@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: rangers
+Player 1: joined
+Player 2: european
+Player 3: scrapheap
+Player 4: bonaventure
+Player 5: kalou
+Player 6: double
+Player 7: fired
+Player 8: auxerre
+Player 9: 2 - 0
+Player 10: victory
+Player 11: ibrox.
+Player 12: home
+Player 13: side
+Player 14: avoid
+Player 15: defeat
+Player 16: progress
+Player 17: knockout
+Player 18: stage
+Player 19: out - classed
+Player 20: visitors.
+---------- Rewards ----------
+v(): -2.7438201904296875	 ([])
+v(12 13): 6.573086738586426	 ([home][side])
+v(5 6 7 8 9 10 11): 9.46130084991455	 ([kalou][double][fired][auxerre][2 - 0][victory][ibrox.])
+v(0 1 3 4 19): 9.500758171081543	 ([rangers][joined][scrapheap][bonaventure][out - classed])
+v(2 14 15 16 17 18 20): 3.890113592147827	 ([european][avoid][defeat][progress][knockout][stage][visitors.])
+v(5 6 7 8 9 10 11 12 13): 9.50788688659668	 ([kalou][double][fired][auxerre][2 - 0][victory][ibrox.][home][side])
+v(0 1 3 4 12 13 19): 9.64684772491455	 ([rangers][joined][scrapheap][bonaventure][home][side][out - classed])
+v(2 12 13 14 15 16 17 18 20): 8.234941482543945	 ([european][home][side][avoid][defeat][progress][knockout][stage][visitors.])
+v(0 1 3 4 5 6 7 8 9 10 11 19): 9.716508865356445	 ([rangers][joined][scrapheap][bonaventure][kalou][double][fired][auxerre][2 - 0][victory][ibrox.][out - classed])
+v(2 5 6 7 8 9 10 11 14 15 16 17 18 20): 9.375261306762695	 ([european][kalou][double][fired][auxerre][2 - 0][victory][ibrox.][avoid][defeat][progress][knockout][stage][visitors.])
+v(0 1 2 3 4 14 15 16 17 18 19 20): 9.678979873657227	 ([rangers][joined][european][scrapheap][bonaventure][avoid][defeat][progress][knockout][stage][out - classed][visitors.])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 19): 9.72207260131836	 ([rangers][joined][scrapheap][bonaventure][kalou][double][fired][auxerre][2 - 0][victory][ibrox.][home][side][out - classed])
+v(2 5 6 7 8 9 10 11 12 13 14 15 16 17 18 20): 9.411816596984863	 ([european][kalou][double][fired][auxerre][2 - 0][victory][ibrox.][home][side][avoid][defeat][progress][knockout][stage][visitors.])
+v(0 1 2 3 4 12 13 14 15 16 17 18 19 20): 9.68088436126709	 ([rangers][joined][european][scrapheap][bonaventure][home][side][avoid][defeat][progress][knockout][stage][out - classed][visitors.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 14 15 16 17 18 19 20): 9.557376861572266	 ([rangers][joined][european][scrapheap][bonaventure][kalou][double][fired][auxerre][2 - 0][victory][ibrox.][avoid][defeat][progress][knockout][stage][out - classed][visitors.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.959809303283691	 ([rangers][joined][european][scrapheap][bonaventure][kalou][double][fired][auxerre][2 - 0][victory][ibrox.][home][side][avoid][defeat][progress][knockout][stage][out - classed][visitors.])
+---------- Rewards-v() ----------
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 19): 12.465892791748047, EP: 1.0651304721832275	 ([rangers][joined][scrapheap][bonaventure][kalou][double][fired][auxerre][2 - 0][victory][ibrox.][home][side][out - classed])
+v(0 1 3 4 5 6 7 8 9 10 11 19): 12.460329055786133, EP: 1.064655065536499	 ([rangers][joined][scrapheap][bonaventure][kalou][double][fired][auxerre][2 - 0][victory][ibrox.][out - classed])
+v(0 1 2 3 4 12 13 14 15 16 17 18 19 20): 12.424704551696777, EP: 1.0616111755371094	 ([rangers][joined][european][scrapheap][bonaventure][home][side][avoid][defeat][progress][knockout][stage][out - classed][visitors.])
+v(0 1 2 3 4 14 15 16 17 18 19 20): 12.422800064086914, EP: 1.0614484548568726	 ([rangers][joined][european][scrapheap][bonaventure][avoid][defeat][progress][knockout][stage][out - classed][visitors.])
+v(0 1 3 4 12 13 19): 12.390667915344238, EP: 1.058703064918518	 ([rangers][joined][scrapheap][bonaventure][home][side][out - classed])
+v(0 1 2 3 4 5 6 7 8 9 10 11 14 15 16 17 18 19 20): 12.301197052001953, EP: 1.051058292388916	 ([rangers][joined][european][scrapheap][bonaventure][kalou][double][fired][auxerre][2 - 0][victory][ibrox.][avoid][defeat][progress][knockout][stage][out - classed][visitors.])
+v(5 6 7 8 9 10 11 12 13): 12.251707077026367, EP: 1.0468297004699707	 ([kalou][double][fired][auxerre][2 - 0][victory][ibrox.][home][side])
+v(0 1 3 4 19): 12.24457836151123, EP: 1.0462206602096558	 ([rangers][joined][scrapheap][bonaventure][out - classed])
+v(5 6 7 8 9 10 11): 12.205121040344238, EP: 1.0428491830825806	 ([kalou][double][fired][auxerre][2 - 0][victory][ibrox.])
+v(2 5 6 7 8 9 10 11 12 13 14 15 16 17 18 20): 12.15563678741455, EP: 1.0386210680007935	 ([european][kalou][double][fired][auxerre][2 - 0][victory][ibrox.][home][side][avoid][defeat][progress][knockout][stage][visitors.])
+v(2 5 6 7 8 9 10 11 14 15 16 17 18 20): 12.119081497192383, EP: 1.0354976654052734	 ([european][kalou][double][fired][auxerre][2 - 0][victory][ibrox.][avoid][defeat][progress][knockout][stage][visitors.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 11.703629493713379, EP: 1.0	 ([rangers][joined][european][scrapheap][bonaventure][kalou][double][fired][auxerre][2 - 0][victory][ibrox.][home][side][avoid][defeat][progress][knockout][stage][out - classed][visitors.])
+v(2 12 13 14 15 16 17 18 20): 10.978761672973633, EP: 0.938064694404602	 ([european][home][side][avoid][defeat][progress][knockout][stage][visitors.])
+v(12 13): 9.316906929016113, EP: 0.796069860458374	 ([home][side])
+v(2 14 15 16 17 18 20): 6.633934020996094, EP: 0.5668270587921143	 ([european][avoid][defeat][progress][knockout][stage][visitors.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

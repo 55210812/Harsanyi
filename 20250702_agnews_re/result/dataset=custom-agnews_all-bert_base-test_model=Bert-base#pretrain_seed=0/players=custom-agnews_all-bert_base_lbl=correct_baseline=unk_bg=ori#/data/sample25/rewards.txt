@@ -1,0 +1,47 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: militants
+Player 3: released
+Player 4: seven
+Player 5: foreign
+Player 6: hostages
+Player 7: wednesday
+Player 8: employer
+Player 9: paid
+Player 10: # 36 ; 500, 000
+Player 11: ransom,
+Player 12: france
+Player 13: mustered
+Player 14: support
+Player 15: muslims
+Player 16: home
+Player 17: abroad
+Player 18: push
+Player 19: release
+Player 20: two
+Player 21: french
+Player 22: journalists
+Player 23: still
+Player 24: held
+Player 25: captive
+Player 26: iraq.
+---------- Rewards ----------
+v(): -5.837835788726807	 ([])
+v(1 2 6 11 12 15 21 26): 8.33956527709961	 ([-][militants][hostages][ransom,][france][muslims][french][iraq.])
+v(0 3 4 5 7 8 9 10 13 14): 3.865527629852295	 ([ap][released][seven][foreign][wednesday][employer][paid][# 36 ; 500, 000][mustered][support])
+v(16 17 18 19 20 22 23 24 25): 6.655489921569824	 ([home][abroad][push][release][two][journalists][still][held][captive])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 21 26): 8.248611450195312	 ([ap][-][militants][released][seven][foreign][hostages][wednesday][employer][paid][# 36 ; 500, 000][ransom,][france][mustered][support][muslims][french][iraq.])
+v(1 2 6 11 12 15 16 17 18 19 20 21 22 23 24 25 26): 8.293769836425781	 ([-][militants][hostages][ransom,][france][muslims][home][abroad][push][release][two][french][journalists][still][held][captive][iraq.])
+v(0 3 4 5 7 8 9 10 13 14 16 17 18 19 20 22 23 24 25): 6.734780788421631	 ([ap][released][seven][foreign][wednesday][employer][paid][# 36 ; 500, 000][mustered][support][home][abroad][push][release][two][journalists][still][held][captive])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 7.893576145172119	 ([ap][-][militants][released][seven][foreign][hostages][wednesday][employer][paid][# 36 ; 500, 000][ransom,][france][mustered][support][muslims][home][abroad][push][release][two][french][journalists][still][held][captive][iraq.])
+---------- Rewards-v() ----------
+v(1 2 6 11 12 15 21 26): 14.177400588989258, EP: 1.0324794054031372	 ([-][militants][hostages][ransom,][france][muslims][french][iraq.])
+v(1 2 6 11 12 15 16 17 18 19 20 21 22 23 24 25 26): 14.13160514831543, EP: 1.0291444063186646	 ([-][militants][hostages][ransom,][france][muslims][home][abroad][push][release][two][french][journalists][still][held][captive][iraq.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 21 26): 14.086446762084961, EP: 1.0258556604385376	 ([ap][-][militants][released][seven][foreign][hostages][wednesday][employer][paid][# 36 ; 500, 000][ransom,][france][mustered][support][muslims][french][iraq.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 13.731411933898926, EP: 1.0	 ([ap][-][militants][released][seven][foreign][hostages][wednesday][employer][paid][# 36 ; 500, 000][ransom,][france][mustered][support][muslims][home][abroad][push][release][two][french][journalists][still][held][captive][iraq.])
+v(0 3 4 5 7 8 9 10 13 14 16 17 18 19 20 22 23 24 25): 12.572616577148438, EP: 0.9156098961830139	 ([ap][released][seven][foreign][wednesday][employer][paid][# 36 ; 500, 000][mustered][support][home][abroad][push][release][two][journalists][still][held][captive])
+v(16 17 18 19 20 22 23 24 25): 12.493326187133789, EP: 0.9098355174064636	 ([home][abroad][push][release][two][journalists][still][held][captive])
+v(0 3 4 5 7 8 9 10 13 14): 9.703363418579102, EP: 0.70665442943573	 ([ap][released][seven][foreign][wednesday][employer][paid][# 36 ; 500, 000][mustered][support])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

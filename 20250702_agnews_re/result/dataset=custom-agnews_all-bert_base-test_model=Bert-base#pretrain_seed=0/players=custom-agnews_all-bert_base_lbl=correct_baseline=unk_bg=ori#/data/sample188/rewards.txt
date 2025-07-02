@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: asset
+Player 1: management
+Player 2: company
+Player 3: federated
+Player 4: investors
+Player 5: inc.
+Player 6: thursday
+Player 7: said
+Player 8: buy
+Player 9: alliance
+Player 10: capital
+Player 11: management
+Player 12: holding
+Player 13: lp
+Player 14: # 39 ; s
+Player 15: cash
+Player 16: management
+Player 17: business.
+---------- Rewards ----------
+v(): -3.980283260345459	 ([])
+v(0 2 4 8 15): 7.411458492279053	 ([asset][company][investors][buy][cash])
+v(1 9 10 11 12 14 16): 6.415985584259033	 ([management][alliance][capital][management][holding][# 39 ; s][management])
+v(3 5 6 7 13 17): 6.218339443206787	 ([federated][inc.][thursday][said][lp][business.])
+v(0 1 2 4 8 9 10 11 12 14 15 16): 8.585434913635254	 ([asset][management][company][investors][buy][alliance][capital][management][holding][# 39 ; s][cash][management])
+v(0 2 3 4 5 6 7 8 13 15 17): 7.985263824462891	 ([asset][company][federated][investors][inc.][thursday][said][buy][lp][cash][business.])
+v(1 3 5 6 7 9 10 11 12 13 14 16 17): 3.6462433338165283	 ([management][federated][inc.][thursday][said][alliance][capital][management][holding][lp][# 39 ; s][management][business.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.564695358276367	 ([asset][management][company][federated][investors][inc.][thursday][said][buy][alliance][capital][management][holding][lp][# 39 ; s][cash][management][business.])
+---------- Rewards-v() ----------
+v(0 1 2 4 8 9 10 11 12 14 15 16): 12.565717697143555, EP: 1.0016531944274902	 ([asset][management][company][investors][buy][alliance][capital][management][holding][# 39 ; s][cash][management])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 12.544979095458984, EP: 1.0	 ([asset][management][company][federated][investors][inc.][thursday][said][buy][alliance][capital][management][holding][lp][# 39 ; s][cash][management][business.])
+v(0 2 3 4 5 6 7 8 13 15 17): 11.965547561645508, EP: 0.9538117051124573	 ([asset][company][federated][investors][inc.][thursday][said][buy][lp][cash][business.])
+v(0 2 4 8 15): 11.391741752624512, EP: 0.9080718159675598	 ([asset][company][investors][buy][cash])
+v(1 9 10 11 12 14 16): 10.396268844604492, EP: 0.8287194967269897	 ([management][alliance][capital][management][holding][# 39 ; s][management])
+v(3 5 6 7 13 17): 10.198622703552246, EP: 0.8129644989967346	 ([federated][inc.][thursday][said][lp][business.])
+v(1 3 5 6 7 9 10 11 12 13 14 16 17): 7.626526832580566, EP: 0.6079345941543579	 ([management][federated][inc.][thursday][said][alliance][capital][management][holding][lp][# 39 ; s][management][business.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

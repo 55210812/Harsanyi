@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: ( washington - ap )
+Player 1: dec.
+Player 2: 11,
+Player 3: 2004
+Player 4: -
+Player 5: thousands
+Player 6: dodge
+Player 7: durangos
+Player 8: dodge
+Player 9: dakota
+Player 10: pickups
+Player 11: go
+Player 12: back
+Player 13: dealer
+Player 14: near
+Player 15: future.
+---------- Rewards ----------
+v(): 0.6603930592536926	 ([])
+v(0 7 11 12 13 14 15): -0.27776670455932617	 ([( washington - ap )][durangos][go][back][dealer][near][future.])
+v(6 8 9 10): 8.119132041931152	 ([dodge][dodge][dakota][pickups])
+v(1 2 3 4 5): -1.5589587688446045	 ([dec.][11,][2004][-][thousands])
+v(0 6 7 8 9 10 11 12 13 14 15): 5.549293518066406	 ([( washington - ap )][dodge][durangos][dodge][dakota][pickups][go][back][dealer][near][future.])
+v(0 1 2 3 4 5 7 11 12 13 14 15): 2.4224047660827637	 ([( washington - ap )][dec.][11,][2004][-][thousands][durangos][go][back][dealer][near][future.])
+v(1 2 3 4 5 6 8 9 10): 8.577984809875488	 ([dec.][11,][2004][-][thousands][dodge][dodge][dakota][pickups])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 0.7317712306976318	 ([( washington - ap )][dec.][11,][2004][-][thousands][dodge][durangos][dodge][dakota][pickups][go][back][dealer][near][future.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 6 8 9 10): 7.917591571807861, EP: 110.92455291748047	 ([dec.][11,][2004][-][thousands][dodge][dodge][dakota][pickups])
+v(6 8 9 10): 7.458738803863525, EP: 104.49607849121094	 ([dodge][dodge][dakota][pickups])
+v(0 6 7 8 9 10 11 12 13 14 15): 4.888900279998779, EP: 68.49293518066406	 ([( washington - ap )][dodge][durangos][dodge][dakota][pickups][go][back][dealer][near][future.])
+v(1 2 3 4 5): -2.2193517684936523, EP: -31.092863082885742	 ([dec.][11,][2004][-][thousands])
+v(0 1 2 3 4 5 7 11 12 13 14 15): 1.7620117664337158, EP: 24.685583114624023	 ([( washington - ap )][dec.][11,][2004][-][thousands][durangos][go][back][dealer][near][future.])
+v(0 7 11 12 13 14 15): -0.9381597638130188, EP: -13.143510818481445	 ([( washington - ap )][durangos][go][back][dealer][near][future.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 0.07137817144393921, EP: 1.0	 ([( washington - ap )][dec.][11,][2004][-][thousands][dodge][durangos][dodge][dakota][pickups][go][back][dealer][near][future.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

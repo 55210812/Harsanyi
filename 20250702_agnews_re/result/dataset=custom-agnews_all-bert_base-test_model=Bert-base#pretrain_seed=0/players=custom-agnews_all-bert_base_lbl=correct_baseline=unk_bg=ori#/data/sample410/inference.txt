@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 19:27:29
+prompt: [CLS] after spending part of his 42nd birthday wednesday reiterating his dissatisfaction with his shrinking role with the raiders and expressing his desire to play somewhere else, jerry rice scheduled an evening meeting with owner al davis to discuss the state [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2044 decoded_text: after
+idx:2 input_id:5938 decoded_text: spending
+idx:3 input_id:2112 decoded_text: part
+idx:4 input_id:1997 decoded_text: of
+idx:5 input_id:2010 decoded_text: his
+idx:6 input_id:21373 decoded_text: 42nd
+idx:7 input_id:5798 decoded_text: birthday
+idx:8 input_id:9317 decoded_text: wednesday
+idx:9 input_id:24964 decoded_text: rei
+idx:10 input_id:14621 decoded_text: ##tera
+idx:11 input_id:3436 decoded_text: ##ting
+idx:12 input_id:2010 decoded_text: his
+idx:13 input_id:28237 decoded_text: dissatisfaction
+idx:14 input_id:2007 decoded_text: with
+idx:15 input_id:2010 decoded_text: his
+idx:16 input_id:28375 decoded_text: shrinking
+idx:17 input_id:2535 decoded_text: role
+idx:18 input_id:2007 decoded_text: with
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:10642 decoded_text: raiders
+idx:21 input_id:1998 decoded_text: and
+idx:22 input_id:14026 decoded_text: expressing
+idx:23 input_id:2010 decoded_text: his
+idx:24 input_id:4792 decoded_text: desire
+idx:25 input_id:2000 decoded_text: to
+idx:26 input_id:2377 decoded_text: play
+idx:27 input_id:4873 decoded_text: somewhere
+idx:28 input_id:2842 decoded_text: else
+idx:29 input_id:1010 decoded_text: ,
+idx:30 input_id:6128 decoded_text: jerry
+idx:31 input_id:5785 decoded_text: rice
+idx:32 input_id:5115 decoded_text: scheduled
+idx:33 input_id:2019 decoded_text: an
+idx:34 input_id:3944 decoded_text: evening
+idx:35 input_id:3116 decoded_text: meeting
+idx:36 input_id:2007 decoded_text: with
+idx:37 input_id:3954 decoded_text: owner
+idx:38 input_id:2632 decoded_text: al
+idx:39 input_id:4482 decoded_text: davis
+idx:40 input_id:2000 decoded_text: to
+idx:41 input_id:6848 decoded_text: discuss
+idx:42 input_id:1996 decoded_text: the
+idx:43 input_id:2110 decoded_text: state
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.1846818923950195, 8.466486930847168, -2.8718016147613525, -2.8282454013824463]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

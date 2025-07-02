@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: securities
+Player 1: exchange
+Player 2: commission
+Player 3: ordered
+Player 4: fannie
+Player 5: mae
+Player 6: restate
+Player 7: earnings
+Player 8: last
+Player 9: four
+Player 10: years
+Player 11: concluding
+Player 12: violated
+Player 13: accounting
+Player 14: rules.
+---------- Rewards ----------
+v(): -4.318379878997803	 ([])
+v(0 1 7 13): 6.976579189300537	 ([securities][exchange][earnings][accounting])
+v(3 4 5): 7.680808067321777	 ([ordered][fannie][mae])
+v(2 6 8 9 10 11 12 14): -4.754945278167725	 ([commission][restate][last][four][years][concluding][violated][rules.])
+v(0 1 3 4 5 7 13): 7.3579792976379395	 ([securities][exchange][ordered][fannie][mae][earnings][accounting])
+v(0 1 2 6 7 8 9 10 11 12 13 14): 5.870456218719482	 ([securities][exchange][commission][restate][earnings][last][four][years][concluding][violated][accounting][rules.])
+v(2 3 4 5 6 8 9 10 11 12 14): 4.946097373962402	 ([commission][ordered][fannie][mae][restate][last][four][years][concluding][violated][rules.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 4.935751914978027	 ([securities][exchange][commission][ordered][fannie][mae][restate][earnings][last][four][years][concluding][violated][accounting][rules.])
+---------- Rewards-v() ----------
+v(3 4 5): 11.999187469482422, EP: 1.2966303825378418	 ([ordered][fannie][mae])
+v(0 1 3 4 5 7 13): 11.676359176635742, EP: 1.261745572090149	 ([securities][exchange][ordered][fannie][mae][earnings][accounting])
+v(0 1 7 13): 11.29495906829834, EP: 1.2205315828323364	 ([securities][exchange][earnings][accounting])
+v(0 1 2 6 7 8 9 10 11 12 13 14): 10.188836097717285, EP: 1.1010040044784546	 ([securities][exchange][commission][restate][earnings][last][four][years][concluding][violated][accounting][rules.])
+v(2 3 4 5 6 8 9 10 11 12 14): 9.264476776123047, EP: 1.0011179447174072	 ([commission][ordered][fannie][mae][restate][last][four][years][concluding][violated][rules.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 9.254131317138672, EP: 1.0	 ([securities][exchange][commission][ordered][fannie][mae][restate][earnings][last][four][years][concluding][violated][accounting][rules.])
+v(2 6 8 9 10 11 12 14): -0.4365653991699219, EP: -0.04717519134283066	 ([commission][restate][last][four][years][concluding][violated][rules.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

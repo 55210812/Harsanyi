@@ -1,0 +1,27 @@
+---------- Players ----------
+Player 0: dollar
+Player 1: extended
+Player 2: losses
+Player 3: tuesday
+Player 4: federal
+Player 5: reserve
+Player 6: raised
+Player 7: interest
+Player 8: rates
+Player 9: expected
+Player 10: signaled
+Player 11: inflation
+Player 12: inflation
+Player 13: expectations
+Player 14: easing.
+---------- Rewards ----------
+v(): -6.57530403137207	 ([])
+v(5 6 7 8 9): 7.208601951599121	 ([reserve][raised][interest][rates][expected])
+v(0 1 2 3 4 10 11 12 13 14): 4.411399841308594	 ([dollar][extended][losses][tuesday][federal][signaled][inflation][inflation][expectations][easing.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 4.997973918914795	 ([dollar][extended][losses][tuesday][federal][reserve][raised][interest][rates][expected][signaled][inflation][inflation][expectations][easing.])
+---------- Rewards-v() ----------
+v(5 6 7 8 9): 13.783905982971191, EP: 1.1910113096237183	 ([reserve][raised][interest][rates][expected])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 11.573278427124023, EP: 1.0	 ([dollar][extended][losses][tuesday][federal][reserve][raised][interest][rates][expected][signaled][inflation][inflation][expectations][easing.])
+v(0 1 2 3 4 10 11 12 13 14): 10.986703872680664, EP: 0.9493165016174316	 ([dollar][extended][losses][tuesday][federal][signaled][inflation][inflation][expectations][easing.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: slightly
+Player 1: tilted
+Player 2: world,
+Player 3: soup
+Player 4: one
+Player 5: greatest
+Player 6: culinary
+Player 7: creations
+Player 8: time.
+Player 9: would
+Player 10: put
+Player 11: right
+Player 12: peanut
+Player 13: butter - and - jelly
+Player 14: sandwich
+Player 15: meatballs
+Player 16: spaghetti.
+---------- Rewards ----------
+v(): -1.5004487037658691	 ([])
+v(3 12 13 14 16): -0.5788976550102234	 ([soup][peanut][butter - and - jelly][sandwich][spaghetti.])
+v(0 1 2 15): -4.219956398010254	 ([slightly][tilted][world,][meatballs])
+v(4 5 6 7 8 9 10 11): -0.046491265296936035	 ([one][greatest][culinary][creations][time.][would][put][right])
+v(0 1 2 3 12 13 14 15 16): -1.9456027746200562	 ([slightly][tilted][world,][soup][peanut][butter - and - jelly][sandwich][meatballs][spaghetti.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 16): -0.8311380743980408	 ([soup][one][greatest][culinary][creations][time.][would][put][right][peanut][butter - and - jelly][sandwich][spaghetti.])
+v(0 1 2 4 5 6 7 8 9 10 11 15): -2.2651243209838867	 ([slightly][tilted][world,][one][greatest][culinary][creations][time.][would][put][right][meatballs])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): -0.31473493576049805	 ([slightly][tilted][world,][soup][one][greatest][culinary][creations][time.][would][put][right][peanut][butter - and - jelly][sandwich][meatballs][spaghetti.])
+---------- Rewards-v() ----------
+v(0 1 2 15): -2.7195076942443848, EP: -2.2935616970062256	 ([slightly][tilted][world,][meatballs])
+v(4 5 6 7 8 9 10 11): 1.453957438468933, EP: 1.2262296676635742	 ([one][greatest][culinary][creations][time.][would][put][right])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 1.185713768005371, EP: 1.0	 ([slightly][tilted][world,][soup][one][greatest][culinary][creations][time.][would][put][right][peanut][butter - and - jelly][sandwich][meatballs][spaghetti.])
+v(3 12 13 14 16): 0.9215510487556458, EP: 0.7772120833396912	 ([soup][peanut][butter - and - jelly][sandwich][spaghetti.])
+v(0 1 2 4 5 6 7 8 9 10 11 15): -0.7646756172180176, EP: -0.6449074149131775	 ([slightly][tilted][world,][one][greatest][culinary][creations][time.][would][put][right][meatballs])
+v(3 4 5 6 7 8 9 10 11 12 13 14 16): 0.6693106293678284, EP: 0.5644791126251221	 ([soup][one][greatest][culinary][creations][time.][would][put][right][peanut][butter - and - jelly][sandwich][spaghetti.])
+v(0 1 2 3 12 13 14 15 16): -0.445154070854187, EP: -0.3754312992095947	 ([slightly][tilted][world,][soup][peanut][butter - and - jelly][sandwich][meatballs][spaghetti.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

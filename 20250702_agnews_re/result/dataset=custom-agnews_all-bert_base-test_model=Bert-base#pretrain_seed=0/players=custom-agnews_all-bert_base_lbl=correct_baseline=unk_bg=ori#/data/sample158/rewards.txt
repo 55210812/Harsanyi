@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: israel's
+Player 3: high
+Player 4: court
+Player 5: said
+Player 6: thursday \ it
+Player 7: upholding
+Player 8: decision
+Player 9: country's
+Player 10: attorney - general \ to
+Player 11: drop
+Player 12: bribery
+Player 13: case
+Player 14: prime
+Player 15: minister
+Player 16: ariel
+Player 17: sharon.
+---------- Rewards ----------
+v(): -4.979389667510986	 ([])
+v(16 17): 7.536171913146973	 ([ariel][sharon.])
+v(1 2 4 6 9 10 11 13 15): 8.278436660766602	 ([-][israel's][court][thursday \ it][country's][attorney - general \ to][drop][case][minister])
+v(0 3 5 7 8 12 14): 1.8198902606964111	 ([reuters][high][said][upholding][decision][bribery][prime])
+v(1 2 4 6 9 10 11 13 15 16 17): 8.479277610778809	 ([-][israel's][court][thursday \ it][country's][attorney - general \ to][drop][case][minister][ariel][sharon.])
+v(0 3 5 7 8 12 14 16 17): 8.396553039550781	 ([reuters][high][said][upholding][decision][bribery][prime][ariel][sharon.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 8.395526885986328	 ([reuters][-][israel's][high][court][said][thursday \ it][upholding][decision][country's][attorney - general \ to][drop][bribery][case][prime][minister])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.479290008544922	 ([reuters][-][israel's][high][court][said][thursday \ it][upholding][decision][country's][attorney - general \ to][drop][bribery][case][prime][minister][ariel][sharon.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 13.45867919921875, EP: 1.0	 ([reuters][-][israel's][high][court][said][thursday \ it][upholding][decision][country's][attorney - general \ to][drop][bribery][case][prime][minister][ariel][sharon.])
+v(1 2 4 6 9 10 11 13 15 16 17): 13.458667755126953, EP: 0.9999991655349731	 ([-][israel's][court][thursday \ it][country's][attorney - general \ to][drop][case][minister][ariel][sharon.])
+v(0 3 5 7 8 12 14 16 17): 13.37594223022461, EP: 0.9938524961471558	 ([reuters][high][said][upholding][decision][bribery][prime][ariel][sharon.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 13.374916076660156, EP: 0.993776261806488	 ([reuters][-][israel's][high][court][said][thursday \ it][upholding][decision][country's][attorney - general \ to][drop][bribery][case][prime][minister])
+v(1 2 4 6 9 10 11 13 15): 13.25782585144043, EP: 0.9850763082504272	 ([-][israel's][court][thursday \ it][country's][attorney - general \ to][drop][case][minister])
+v(16 17): 12.515562057495117, EP: 0.9299249649047852	 ([ariel][sharon.])
+v(0 3 5 7 8 12 14): 6.799280166625977, EP: 0.5051966905593872	 ([reuters][high][said][upholding][decision][bribery][prime])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

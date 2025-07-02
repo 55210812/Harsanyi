@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: los
+Player 1: angeles
+Player 2: dodgers
+Player 3: # 39 ;
+Player 4: struggle
+Player 5: hold
+Player 6: san
+Player 7: francisco
+Player 8: national
+Player 9: league
+Player 10: west
+Player 11: nothing
+Player 12: compared
+Player 13: individual
+Player 14: trial
+Player 15: star
+Player 16: first
+Player 17: baseman
+Player 18: shawn
+Player 19: green.
+---------- Rewards ----------
+v(): -4.946939945220947	 ([])
+v(0 1 2 3 10): 9.534050941467285	 ([los][angeles][dodgers][# 39 ;][west])
+v(11 15 16 17 18 19): 9.562308311462402	 ([nothing][star][first][baseman][shawn][green.])
+v(4 5 6 7 12 13 14): -6.7349395751953125	 ([struggle][hold][san][francisco][compared][individual][trial])
+v(8 9): 9.208208084106445	 ([national][league])
+v(0 1 2 3 10 11 15 16 17 18 19): 9.718804359436035	 ([los][angeles][dodgers][# 39 ;][west][nothing][star][first][baseman][shawn][green.])
+v(0 1 2 3 4 5 6 7 10 12 13 14): 9.508687973022461	 ([los][angeles][dodgers][# 39 ;][struggle][hold][san][francisco][west][compared][individual][trial])
+v(0 1 2 3 8 9 10): 9.6423978805542	 ([los][angeles][dodgers][# 39 ;][national][league][west])
+v(4 5 6 7 11 12 13 14 15 16 17 18 19): 9.513808250427246	 ([struggle][hold][san][francisco][nothing][compared][individual][trial][star][first][baseman][shawn][green.])
+v(8 9 11 15 16 17 18 19): 9.749643325805664	 ([national][league][nothing][star][first][baseman][shawn][green.])
+v(4 5 6 7 8 9 12 13 14): 9.656928062438965	 ([struggle][hold][san][francisco][national][league][compared][individual][trial])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 19): 9.77389907836914	 ([los][angeles][dodgers][# 39 ;][struggle][hold][san][francisco][west][nothing][compared][individual][trial][star][first][baseman][shawn][green.])
+v(0 1 2 3 8 9 10 11 15 16 17 18 19): 9.74560260772705	 ([los][angeles][dodgers][# 39 ;][national][league][west][nothing][star][first][baseman][shawn][green.])
+v(0 1 2 3 4 5 6 7 8 9 10 12 13 14): 9.725395202636719	 ([los][angeles][dodgers][# 39 ;][struggle][hold][san][francisco][national][league][west][compared][individual][trial])
+v(4 5 6 7 8 9 11 12 13 14 15 16 17 18 19): 9.743056297302246	 ([struggle][hold][san][francisco][national][league][nothing][compared][individual][trial][star][first][baseman][shawn][green.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.765745162963867	 ([los][angeles][dodgers][# 39 ;][struggle][hold][san][francisco][national][league][west][nothing][compared][individual][trial][star][first][baseman][shawn][green.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 19): 14.72083854675293, EP: 1.0005542039871216	 ([los][angeles][dodgers][# 39 ;][struggle][hold][san][francisco][west][nothing][compared][individual][trial][star][first][baseman][shawn][green.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 14.712684631347656, EP: 1.0	 ([los][angeles][dodgers][# 39 ;][struggle][hold][san][francisco][national][league][west][nothing][compared][individual][trial][star][first][baseman][shawn][green.])
+v(8 9 11 15 16 17 18 19): 14.696582794189453, EP: 0.998905599117279	 ([national][league][nothing][star][first][baseman][shawn][green.])
+v(0 1 2 3 8 9 10 11 15 16 17 18 19): 14.692543029785156, EP: 0.9986310005187988	 ([los][angeles][dodgers][# 39 ;][national][league][west][nothing][star][first][baseman][shawn][green.])
+v(4 5 6 7 8 9 11 12 13 14 15 16 17 18 19): 14.689996719360352, EP: 0.9984579086303711	 ([struggle][hold][san][francisco][national][league][nothing][compared][individual][trial][star][first][baseman][shawn][green.])
+v(0 1 2 3 4 5 6 7 8 9 10 12 13 14): 14.672334671020508, EP: 0.9972574710845947	 ([los][angeles][dodgers][# 39 ;][struggle][hold][san][francisco][national][league][west][compared][individual][trial])
+v(0 1 2 3 10 11 15 16 17 18 19): 14.66574478149414, EP: 0.9968095421791077	 ([los][angeles][dodgers][# 39 ;][west][nothing][star][first][baseman][shawn][green.])
+v(4 5 6 7 8 9 12 13 14): 14.60386848449707, EP: 0.9926038980484009	 ([struggle][hold][san][francisco][national][league][compared][individual][trial])
+v(0 1 2 3 8 9 10): 14.589338302612305, EP: 0.9916163086891174	 ([los][angeles][dodgers][# 39 ;][national][league][west])
+v(11 15 16 17 18 19): 14.509248733520508, EP: 0.9861727356910706	 ([nothing][star][first][baseman][shawn][green.])
+v(0 1 2 3 10): 14.48099136352539, EP: 0.9842521548271179	 ([los][angeles][dodgers][# 39 ;][west])
+v(4 5 6 7 11 12 13 14 15 16 17 18 19): 14.460748672485352, EP: 0.9828763008117676	 ([struggle][hold][san][francisco][nothing][compared][individual][trial][star][first][baseman][shawn][green.])
+v(0 1 2 3 4 5 6 7 10 12 13 14): 14.45562744140625, EP: 0.9825282096862793	 ([los][angeles][dodgers][# 39 ;][struggle][hold][san][francisco][west][compared][individual][trial])
+v(8 9): 14.155147552490234, EP: 0.9621050357818604	 ([national][league])
+v(4 5 6 7 12 13 14): -1.7879996299743652, EP: -0.121527761220932	 ([struggle][hold][san][francisco][compared][individual][trial])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

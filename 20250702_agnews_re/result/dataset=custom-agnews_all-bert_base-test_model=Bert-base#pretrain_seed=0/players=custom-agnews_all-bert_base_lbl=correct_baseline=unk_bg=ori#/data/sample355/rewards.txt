@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: us
+Player 1: consumer
+Player 2: product
+Player 3: safety
+Player 4: commission,
+Player 5: cooperation
+Player 6: firms
+Player 7: named
+Player 8: below,
+Player 9: announced
+Player 10: voluntary
+Player 11: recall
+Player 12: following
+Player 13: consumer
+Player 14: product.
+---------- Rewards ----------
+v(): 5.161862373352051	 ([])
+v(1 3 7 8 13): 0.6206493377685547	 ([consumer][safety][named][below,][consumer])
+v(0 4 5 6): -8.471725463867188	 ([us][commission,][cooperation][firms])
+v(2 9 10 11 12 14): -3.1211116313934326	 ([product][announced][voluntary][recall][following][product.])
+v(0 1 3 4 5 6 7 8 13): -8.57037353515625	 ([us][consumer][safety][commission,][cooperation][firms][named][below,][consumer])
+v(1 2 3 7 8 9 10 11 12 13 14): -5.0717339515686035	 ([consumer][product][safety][named][below,][announced][voluntary][recall][following][consumer][product.])
+v(0 2 4 5 6 9 10 11 12 14): -6.967073440551758	 ([us][product][commission,][cooperation][firms][announced][voluntary][recall][following][product.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): -8.082714080810547	 ([us][consumer][product][safety][commission,][cooperation][firms][named][below,][announced][voluntary][recall][following][consumer][product.])
+---------- Rewards-v() ----------
+v(0 1 3 4 5 6 7 8 13): -13.7322359085083, EP: 1.036819577217102	 ([us][consumer][safety][commission,][cooperation][firms][named][below,][consumer])
+v(0 4 5 6): -13.633587837219238, EP: 1.0293713808059692	 ([us][commission,][cooperation][firms])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): -13.244576454162598, EP: 1.0	 ([us][consumer][product][safety][commission,][cooperation][firms][named][below,][announced][voluntary][recall][following][consumer][product.])
+v(0 2 4 5 6 9 10 11 12 14): -12.128935813903809, EP: 0.9157662391662598	 ([us][product][commission,][cooperation][firms][announced][voluntary][recall][following][product.])
+v(1 2 3 7 8 9 10 11 12 13 14): -10.233596801757812, EP: 0.7726631760597229	 ([consumer][product][safety][named][below,][announced][voluntary][recall][following][consumer][product.])
+v(2 9 10 11 12 14): -8.282974243164062, EP: 0.625386118888855	 ([product][announced][voluntary][recall][following][product.])
+v(1 3 7 8 13): -4.541213035583496, EP: 0.34287339448928833	 ([consumer][safety][named][below,][consumer])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: cisco
+Player 1: today
+Player 2: unveiled
+Player 3: claimed
+Player 4: world
+Player 5: # 39 ; s
+Player 6: first
+Player 7: gigabit
+Player 8: ethernet
+Player 9: ( gbe )
+Player 10: enabled
+Player 11: ip
+Player 12: phone,
+Player 13: addition
+Player 14: raft
+Player 15: enhancements
+Player 16: catalyst
+Player 17: switching
+Player 18: range
+Player 19: designed
+Player 20: boost
+Player 21: security,
+Player 22: availability
+Player 23: performance.
+---------- Rewards ----------
+v(): 4.1782612800598145	 ([])
+v(8 10 11 12 13 16 17 18 20 23): 5.200046539306641	 ([ethernet][enabled][ip][phone,][addition][catalyst][switching][range][boost][performance.])
+v(0 3 14 19 21 22): 4.718724727630615	 ([cisco][claimed][raft][designed][security,][availability])
+v(1 2 4 5 6 7 9 15): 4.994056224822998	 ([today][unveiled][world][# 39 ; s][first][gigabit][( gbe )][enhancements])
+v(0 3 8 10 11 12 13 14 16 17 18 19 20 21 22 23): 4.701087474822998	 ([cisco][claimed][ethernet][enabled][ip][phone,][addition][raft][catalyst][switching][range][designed][boost][security,][availability][performance.])
+v(1 2 4 5 6 7 8 9 10 11 12 13 15 16 17 18 20 23): 5.993091583251953	 ([today][unveiled][world][# 39 ; s][first][gigabit][ethernet][( gbe )][enabled][ip][phone,][addition][enhancements][catalyst][switching][range][boost][performance.])
+v(0 1 2 3 4 5 6 7 9 14 15 19 21 22): 4.017587184906006	 ([cisco][today][unveiled][claimed][world][# 39 ; s][first][gigabit][( gbe )][raft][enhancements][designed][security,][availability])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 6.417193412780762	 ([cisco][today][unveiled][claimed][world][# 39 ; s][first][gigabit][ethernet][( gbe )][enabled][ip][phone,][addition][raft][enhancements][catalyst][switching][range][designed][boost][security,][availability][performance.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 2.2389321327209473, EP: 1.0	 ([cisco][today][unveiled][claimed][world][# 39 ; s][first][gigabit][ethernet][( gbe )][enabled][ip][phone,][addition][raft][enhancements][catalyst][switching][range][designed][boost][security,][availability][performance.])
+v(1 2 4 5 6 7 8 9 10 11 12 13 15 16 17 18 20 23): 1.8148303031921387, EP: 0.8105785250663757	 ([today][unveiled][world][# 39 ; s][first][gigabit][ethernet][( gbe )][enabled][ip][phone,][addition][enhancements][catalyst][switching][range][boost][performance.])
+v(8 10 11 12 13 16 17 18 20 23): 1.0217852592468262, EP: 0.4563716948032379	 ([ethernet][enabled][ip][phone,][addition][catalyst][switching][range][boost][performance.])
+v(1 2 4 5 6 7 9 15): 0.8157949447631836, EP: 0.36436787247657776	 ([today][unveiled][world][# 39 ; s][first][gigabit][( gbe )][enhancements])
+v(0 3 14 19 21 22): 0.5404634475708008, EP: 0.24139340221881866	 ([cisco][claimed][raft][designed][security,][availability])
+v(0 3 8 10 11 12 13 14 16 17 18 19 20 21 22 23): 0.5228261947631836, EP: 0.2335158735513687	 ([cisco][claimed][ethernet][enabled][ip][phone,][addition][raft][catalyst][switching][range][designed][boost][security,][availability][performance.])
+v(0 1 2 3 4 5 6 7 9 14 15 19 21 22): -0.1606740951538086, EP: -0.07176371663808823	 ([cisco][today][unveiled][claimed][world][# 39 ; s][first][gigabit][( gbe )][raft][enhancements][designed][security,][availability])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

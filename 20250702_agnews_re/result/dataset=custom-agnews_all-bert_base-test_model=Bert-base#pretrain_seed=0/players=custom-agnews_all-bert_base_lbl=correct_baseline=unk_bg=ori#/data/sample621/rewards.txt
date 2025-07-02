@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: indian
+Player 1: medium - pacer
+Player 2: amit
+Player 3: bhandari
+Player 4: replace
+Player 5: seamer
+Player 6: lakshmipathy
+Player 7: balaji,
+Player 8: ruled
+Player 9: icc
+Player 10: champions
+Player 11: trophy
+Player 12: abdominal
+Player 13: injury
+Player 14: friday.
+---------- Rewards ----------
+v(): 0.9669357538223267	 ([])
+v(2 7 8 14): -7.548430442810059	 ([amit][balaji,][ruled][friday.])
+v(4 5 10): 4.7761735916137695	 ([replace][seamer][champions])
+v(0 1 3 6 9 11 12 13): 8.859912872314453	 ([indian][medium - pacer][bhandari][lakshmipathy][icc][trophy][abdominal][injury])
+v(2 4 5 7 8 10 14): 8.11201000213623	 ([amit][replace][seamer][balaji,][ruled][champions][friday.])
+v(0 1 2 3 6 7 8 9 11 12 13 14): 9.286162376403809	 ([indian][medium - pacer][amit][bhandari][lakshmipathy][balaji,][ruled][icc][trophy][abdominal][injury][friday.])
+v(0 1 3 4 5 6 9 10 11 12 13): 9.075575828552246	 ([indian][medium - pacer][bhandari][replace][seamer][lakshmipathy][icc][champions][trophy][abdominal][injury])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 9.404247283935547	 ([indian][medium - pacer][amit][bhandari][replace][seamer][lakshmipathy][balaji,][ruled][icc][champions][trophy][abdominal][injury][friday.])
+---------- Rewards-v() ----------
+v(2 7 8 14): -8.515366554260254, EP: -1.0092512369155884	 ([amit][balaji,][ruled][friday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 8.437311172485352, EP: 1.0	 ([indian][medium - pacer][amit][bhandari][replace][seamer][lakshmipathy][balaji,][ruled][icc][champions][trophy][abdominal][injury][friday.])
+v(0 1 2 3 6 7 8 9 11 12 13 14): 8.319226264953613, EP: 0.9860044121742249	 ([indian][medium - pacer][amit][bhandari][lakshmipathy][balaji,][ruled][icc][trophy][abdominal][injury][friday.])
+v(0 1 3 4 5 6 9 10 11 12 13): 8.10863971710205, EP: 0.961045503616333	 ([indian][medium - pacer][bhandari][replace][seamer][lakshmipathy][icc][champions][trophy][abdominal][injury])
+v(0 1 3 6 9 11 12 13): 7.892977237701416, EP: 0.9354848861694336	 ([indian][medium - pacer][bhandari][lakshmipathy][icc][trophy][abdominal][injury])
+v(2 4 5 7 8 10 14): 7.145074367523193, EP: 0.8468425869941711	 ([amit][replace][seamer][balaji,][ruled][champions][friday.])
+v(4 5 10): 3.8092379570007324, EP: 0.4514753520488739	 ([replace][seamer][champions])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

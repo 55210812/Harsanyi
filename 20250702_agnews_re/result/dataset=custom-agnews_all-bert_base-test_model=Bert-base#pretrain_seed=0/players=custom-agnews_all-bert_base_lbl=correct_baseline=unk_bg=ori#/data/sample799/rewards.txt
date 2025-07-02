@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: ziff
+Player 1: davis
+Player 2: -
+Player 3: company
+Player 4: week
+Player 5: unveil
+Player 6: programs
+Player 7: technologies
+Player 8: designed
+Player 9: ease
+Player 10: users
+Player 11: high - end
+Player 12: servers
+Player 13: onto
+Player 14: integrity
+Player 15: line,
+Player 16: uses
+Player 17: intel's
+Player 18: 64 - bit
+Player 19: itanium
+Player 20: processor.
+---------- Rewards ----------
+v(): 1.0850889682769775	 ([])
+v(5 6 7 8 9 10 11 13 16 18 20): 7.67100191116333	 ([unveil][programs][technologies][designed][ease][users][high - end][onto][uses][64 - bit][processor.])
+v(0 1 2 3 4 12 14 15 17 19): 8.110225677490234	 ([ziff][davis][-][company][week][servers][integrity][line,][intel's][itanium])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.272896766662598	 ([ziff][davis][-][company][week][unveil][programs][technologies][designed][ease][users][high - end][servers][onto][integrity][line,][uses][intel's][64 - bit][itanium][processor.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.187808036804199, EP: 1.0	 ([ziff][davis][-][company][week][unveil][programs][technologies][designed][ease][users][high - end][servers][onto][integrity][line,][uses][intel's][64 - bit][itanium][processor.])
+v(0 1 2 3 4 12 14 15 17 19): 7.025136947631836, EP: 0.9773684740066528	 ([ziff][davis][-][company][week][servers][integrity][line,][intel's][itanium])
+v(5 6 7 8 9 10 11 13 16 18 20): 6.585912704467773, EP: 0.916261613368988	 ([unveil][programs][technologies][designed][ease][users][high - end][onto][uses][64 - bit][processor.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

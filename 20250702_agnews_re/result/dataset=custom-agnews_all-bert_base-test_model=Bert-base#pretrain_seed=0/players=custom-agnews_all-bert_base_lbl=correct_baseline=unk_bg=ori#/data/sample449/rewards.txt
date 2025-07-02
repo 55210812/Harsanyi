@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: barcelona,
+Player 1: spain
+Player 2: pair
+Player 3: players
+Player 4: one
+Player 5: time
+Player 6: ranked
+Player 7: number
+Player 8: one
+Player 9: world
+Player 10: play
+Player 11: spain
+Player 12: davis
+Player 13: cup
+Player 14: final
+Player 15: next
+Player 16: month.
+---------- Rewards ----------
+v(): -5.758100509643555	 ([])
+v(3 4 5 6 7 8 10 13): 5.11142635345459	 ([players][one][time][ranked][number][one][play][cup])
+v(0 1 9 11 16): 2.0251286029815674	 ([barcelona,][spain][world][spain][month.])
+v(2 12 14 15): 6.296050548553467	 ([pair][davis][final][next])
+v(0 1 3 4 5 6 7 8 9 10 11 13 16): 9.408730506896973	 ([barcelona,][spain][players][one][time][ranked][number][one][world][play][spain][cup][month.])
+v(2 3 4 5 6 7 8 10 12 13 14 15): 7.446592330932617	 ([pair][players][one][time][ranked][number][one][play][davis][cup][final][next])
+v(0 1 2 9 11 12 14 15 16): 9.158060073852539	 ([barcelona,][spain][pair][world][spain][davis][final][next][month.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 8.78534984588623	 ([barcelona,][spain][pair][players][one][time][ranked][number][one][world][play][spain][davis][cup][final][next][month.])
+---------- Rewards-v() ----------
+v(0 1 3 4 5 6 7 8 9 10 11 13 16): 15.166831016540527, EP: 1.042863368988037	 ([barcelona,][spain][players][one][time][ranked][number][one][world][play][spain][cup][month.])
+v(0 1 2 9 11 12 14 15 16): 14.916160583496094, EP: 1.0256273746490479	 ([barcelona,][spain][pair][world][spain][davis][final][next][month.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 14.543450355529785, EP: 1.0	 ([barcelona,][spain][pair][players][one][time][ranked][number][one][world][play][spain][davis][cup][final][next][month.])
+v(2 3 4 5 6 7 8 10 12 13 14 15): 13.204692840576172, EP: 0.9079477190971375	 ([pair][players][one][time][ranked][number][one][play][davis][cup][final][next])
+v(2 12 14 15): 12.05415153503418, EP: 0.8288370966911316	 ([pair][davis][final][next])
+v(3 4 5 6 7 8 10 13): 10.869526863098145, EP: 0.7473829388618469	 ([players][one][time][ranked][number][one][play][cup])
+v(0 1 9 11 16): 7.783228874206543, EP: 0.5351707339286804	 ([barcelona,][spain][world][spain][month.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

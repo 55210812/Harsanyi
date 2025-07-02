@@ -1,0 +1,54 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: german
+Player 3: singer
+Player 4: plays
+Player 5: snow
+Player 6: white
+Player 7: lost
+Player 8: job
+Player 9: dresden's \ christmas
+Player 10: market
+Player 11: posing
+Player 12: nude
+Player 13: photos
+Player 14: bathtub,
+Player 15: bild
+Player 16: newspaper
+Player 17: says.
+---------- Rewards ----------
+v(): -2.669652223587036	 ([])
+v(0 9 11 12 13): 5.989896774291992	 ([reuters][dresden's \ christmas][posing][nude][photos])
+v(14 15 16 17): 1.3504520654678345	 ([bathtub,][bild][newspaper][says.])
+v(6 7): -3.1665027141571045	 ([white][lost])
+v(1 2 3 4 5 8 10): 3.689739942550659	 ([-][german][singer][plays][snow][job][market])
+v(0 9 11 12 13 14 15 16 17): 6.7819905281066895	 ([reuters][dresden's \ christmas][posing][nude][photos][bathtub,][bild][newspaper][says.])
+v(0 6 7 9 11 12 13): 6.512805938720703	 ([reuters][white][lost][dresden's \ christmas][posing][nude][photos])
+v(0 1 2 3 4 5 8 9 10 11 12 13): 6.8641037940979	 ([reuters][-][german][singer][plays][snow][job][dresden's \ christmas][market][posing][nude][photos])
+v(6 7 14 15 16 17): 2.0205211639404297	 ([white][lost][bathtub,][bild][newspaper][says.])
+v(1 2 3 4 5 8 10 14 15 16 17): 5.1000285148620605	 ([-][german][singer][plays][snow][job][market][bathtub,][bild][newspaper][says.])
+v(1 2 3 4 5 6 7 8 10): 5.294677257537842	 ([-][german][singer][plays][snow][white][lost][job][market])
+v(0 6 7 9 11 12 13 14 15 16 17): 7.262521743774414	 ([reuters][white][lost][dresden's \ christmas][posing][nude][photos][bathtub,][bild][newspaper][says.])
+v(0 1 2 3 4 5 8 9 10 11 12 13 14 15 16 17): 7.493370532989502	 ([reuters][-][german][singer][plays][snow][job][dresden's \ christmas][market][posing][nude][photos][bathtub,][bild][newspaper][says.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 7.208410263061523	 ([reuters][-][german][singer][plays][snow][white][lost][job][dresden's \ christmas][market][posing][nude][photos])
+v(1 2 3 4 5 6 7 8 10 14 15 16 17): 6.768334865570068	 ([-][german][singer][plays][snow][white][lost][job][market][bathtub,][bild][newspaper][says.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 7.7386298179626465	 ([reuters][-][german][singer][plays][snow][white][lost][job][dresden's \ christmas][market][posing][nude][photos][bathtub,][bild][newspaper][says.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 10.408282279968262, EP: 1.0	 ([reuters][-][german][singer][plays][snow][white][lost][job][dresden's \ christmas][market][posing][nude][photos][bathtub,][bild][newspaper][says.])
+v(0 1 2 3 4 5 8 9 10 11 12 13 14 15 16 17): 10.163022994995117, EP: 0.9764361381530762	 ([reuters][-][german][singer][plays][snow][job][dresden's \ christmas][market][posing][nude][photos][bathtub,][bild][newspaper][says.])
+v(0 6 7 9 11 12 13 14 15 16 17): 9.932173728942871, EP: 0.9542567729949951	 ([reuters][white][lost][dresden's \ christmas][posing][nude][photos][bathtub,][bild][newspaper][says.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 9.87806224822998, EP: 0.9490578770637512	 ([reuters][-][german][singer][plays][snow][white][lost][job][dresden's \ christmas][market][posing][nude][photos])
+v(0 1 2 3 4 5 8 9 10 11 12 13): 9.533756256103516, EP: 0.9159778952598572	 ([reuters][-][german][singer][plays][snow][job][dresden's \ christmas][market][posing][nude][photos])
+v(0 9 11 12 13 14 15 16 17): 9.451642990112305, EP: 0.9080886244773865	 ([reuters][dresden's \ christmas][posing][nude][photos][bathtub,][bild][newspaper][says.])
+v(1 2 3 4 5 6 7 8 10 14 15 16 17): 9.437987327575684, EP: 0.9067766666412354	 ([-][german][singer][plays][snow][white][lost][job][market][bathtub,][bild][newspaper][says.])
+v(0 6 7 9 11 12 13): 9.18245792388916, EP: 0.8822260499000549	 ([reuters][white][lost][dresden's \ christmas][posing][nude][photos])
+v(0 9 11 12 13): 8.65954875946045, EP: 0.8319863677024841	 ([reuters][dresden's \ christmas][posing][nude][photos])
+v(1 2 3 4 5 6 7 8 10): 7.964329719543457, EP: 0.7651915550231934	 ([-][german][singer][plays][snow][white][lost][job][market])
+v(1 2 3 4 5 8 10 14 15 16 17): 7.769680976867676, EP: 0.7464902400970459	 ([-][german][singer][plays][snow][job][market][bathtub,][bild][newspaper][says.])
+v(1 2 3 4 5 8 10): 6.359392166137695, EP: 0.6109934449195862	 ([-][german][singer][plays][snow][job][market])
+v(6 7 14 15 16 17): 4.690173149108887, EP: 0.45061933994293213	 ([white][lost][bathtub,][bild][newspaper][says.])
+v(14 15 16 17): 4.02010440826416, EP: 0.3862408995628357	 ([bathtub,][bild][newspaper][says.])
+v(6 7): -0.49685049057006836, EP: -0.047736071050167084	 ([white][lost])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

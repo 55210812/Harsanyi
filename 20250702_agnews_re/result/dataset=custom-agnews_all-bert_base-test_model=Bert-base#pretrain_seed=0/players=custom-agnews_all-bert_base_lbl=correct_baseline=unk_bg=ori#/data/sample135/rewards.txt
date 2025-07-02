@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: southern
+Player 1: california
+Player 2: coast
+Player 3: favored
+Player 4: clear
+Player 5: skies
+Player 6: low
+Player 7: turbulence
+Player 8: november
+Player 9: 15,
+Player 10: could
+Player 11: really
+Player 12: big
+Player 13: day
+Player 14: aviation
+Player 15: history
+Player 16: iisc / iit
+Player 17: distinguished
+Player 18: alumni
+Player 19: dr
+Player 20: ajay
+Player 21: kumar.
+---------- Rewards ----------
+v(): 5.480023384094238	 ([])
+v(7 8 9): -1.167232871055603	 ([turbulence][november][15,])
+v(3 4 5 14 15 17 18): 7.5543646812438965	 ([favored][clear][skies][aviation][history][distinguished][alumni])
+v(0 1 2 6): 7.352703094482422	 ([southern][california][coast][low])
+v(10 11 12 13 16 19 20 21): -2.6308095455169678	 ([could][really][big][day][iisc / iit][dr][ajay][kumar.])
+v(3 4 5 7 8 9 14 15 17 18): 6.714872360229492	 ([favored][clear][skies][turbulence][november][15,][aviation][history][distinguished][alumni])
+v(0 1 2 6 7 8 9): 6.508029937744141	 ([southern][california][coast][low][turbulence][november][15,])
+v(7 8 9 10 11 12 13 16 19 20 21): -5.439785003662109	 ([turbulence][november][15,][could][really][big][day][iisc / iit][dr][ajay][kumar.])
+v(0 1 2 3 4 5 6 14 15 17 18): 7.182289123535156	 ([southern][california][coast][favored][clear][skies][low][aviation][history][distinguished][alumni])
+v(3 4 5 10 11 12 13 14 15 16 17 18 19 20 21): 6.965278148651123	 ([favored][clear][skies][could][really][big][day][aviation][history][iisc / iit][distinguished][alumni][dr][ajay][kumar.])
+v(0 1 2 6 10 11 12 13 16 19 20 21): 4.327199459075928	 ([southern][california][coast][low][could][really][big][day][iisc / iit][dr][ajay][kumar.])
+v(0 1 2 3 4 5 6 7 8 9 14 15 17 18): 6.660604953765869	 ([southern][california][coast][favored][clear][skies][low][turbulence][november][15,][aviation][history][distinguished][alumni])
+v(3 4 5 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 5.2570271492004395	 ([favored][clear][skies][turbulence][november][15,][could][really][big][day][aviation][history][iisc / iit][distinguished][alumni][dr][ajay][kumar.])
+v(0 1 2 6 7 8 9 10 11 12 13 16 19 20 21): 2.879225015640259	 ([southern][california][coast][low][turbulence][november][15,][could][really][big][day][iisc / iit][dr][ajay][kumar.])
+v(0 1 2 3 4 5 6 10 11 12 13 14 15 16 17 18 19 20 21): 6.6196208000183105	 ([southern][california][coast][favored][clear][skies][low][could][really][big][day][aviation][history][iisc / iit][distinguished][alumni][dr][ajay][kumar.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 6.120636940002441	 ([southern][california][coast][favored][clear][skies][low][turbulence][november][15,][could][really][big][day][aviation][history][iisc / iit][distinguished][alumni][dr][ajay][kumar.])
+---------- Rewards-v() ----------
+v(7 8 9 10 11 12 13 16 19 20 21): -10.919808387756348, EP: -17.04585838317871	 ([turbulence][november][15,][could][really][big][day][iisc / iit][dr][ajay][kumar.])
+v(10 11 12 13 16 19 20 21): -8.110833168029785, EP: -12.661039352416992	 ([could][really][big][day][iisc / iit][dr][ajay][kumar.])
+v(7 8 9): -6.647256374359131, EP: -10.37639045715332	 ([turbulence][november][15,])
+v(0 1 2 6 7 8 9 10 11 12 13 16 19 20 21): -2.6007983684539795, EP: -4.0598554611206055	 ([southern][california][coast][low][turbulence][november][15,][could][really][big][day][iisc / iit][dr][ajay][kumar.])
+v(3 4 5 14 15 17 18): 2.074341297149658, EP: 3.238054037094116	 ([favored][clear][skies][aviation][history][distinguished][alumni])
+v(0 1 2 6): 1.8726797103881836, EP: 2.9232594966888428	 ([southern][california][coast][low])
+v(0 1 2 3 4 5 6 14 15 17 18): 1.702265739440918, EP: 2.657242774963379	 ([southern][california][coast][favored][clear][skies][low][aviation][history][distinguished][alumni])
+v(3 4 5 10 11 12 13 14 15 16 17 18 19 20 21): 1.4852547645568848, EP: 2.3184878826141357	 ([favored][clear][skies][could][really][big][day][aviation][history][iisc / iit][distinguished][alumni][dr][ajay][kumar.])
+v(3 4 5 7 8 9 14 15 17 18): 1.234848976135254, EP: 1.9276036024093628	 ([favored][clear][skies][turbulence][november][15,][aviation][history][distinguished][alumni])
+v(0 1 2 3 4 5 6 7 8 9 14 15 17 18): 1.1805815696716309, EP: 1.8428919315338135	 ([southern][california][coast][favored][clear][skies][low][turbulence][november][15,][aviation][history][distinguished][alumni])
+v(0 1 2 6 10 11 12 13 16 19 20 21): -1.1528239250183105, EP: -1.7995622158050537	 ([southern][california][coast][low][could][really][big][day][iisc / iit][dr][ajay][kumar.])
+v(0 1 2 3 4 5 6 10 11 12 13 14 15 16 17 18 19 20 21): 1.1395974159240723, EP: 1.778915524482727	 ([southern][california][coast][favored][clear][skies][low][could][really][big][day][aviation][history][iisc / iit][distinguished][alumni][dr][ajay][kumar.])
+v(0 1 2 6 7 8 9): 1.0280065536499023, EP: 1.6047217845916748	 ([southern][california][coast][low][turbulence][november][15,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 0.6406135559082031, EP: 1.0	 ([southern][california][coast][favored][clear][skies][low][turbulence][november][15,][could][really][big][day][aviation][history][iisc / iit][distinguished][alumni][dr][ajay][kumar.])
+v(3 4 5 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): -0.22299623489379883, EP: -0.34809789061546326	 ([favored][clear][skies][turbulence][november][15,][could][really][big][day][aviation][history][iisc / iit][distinguished][alumni][dr][ajay][kumar.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

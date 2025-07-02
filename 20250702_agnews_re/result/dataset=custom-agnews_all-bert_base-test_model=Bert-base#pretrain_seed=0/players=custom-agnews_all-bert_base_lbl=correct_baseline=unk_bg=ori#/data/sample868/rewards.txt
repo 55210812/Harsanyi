@@ -1,0 +1,52 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: colorado
+Player 3: terminated
+Player 4: contract \ of
+Player 5: pitcher
+Player 6: denny
+Player 7: neagle
+Player 8: monday,
+Player 9: three
+Player 10: days
+Player 11: was \ ticketed
+Player 12: soliciting
+Player 13: women
+Player 14: oral
+Player 15: sex.
+---------- Rewards ----------
+v(): -2.299475908279419	 ([])
+v(6 7): 4.5837626457214355	 ([denny][neagle])
+v(0 1 2 5 12 14): -1.2923039197921753	 ([reuters][-][colorado][pitcher][soliciting][oral])
+v(8 10 11 13): -1.704514980316162	 ([monday,][days][was \ ticketed][women])
+v(3 4 9 15): -5.739125728607178	 ([terminated][contract \ of][three][sex.])
+v(0 1 2 5 6 7 12 14): 8.715585708618164	 ([reuters][-][colorado][pitcher][denny][neagle][soliciting][oral])
+v(6 7 8 10 11 13): 4.813131809234619	 ([denny][neagle][monday,][days][was \ ticketed][women])
+v(3 4 6 7 9 15): 4.85632848739624	 ([terminated][contract \ of][denny][neagle][three][sex.])
+v(0 1 2 5 8 10 11 12 13 14): 7.922646999359131	 ([reuters][-][colorado][pitcher][monday,][days][was \ ticketed][soliciting][women][oral])
+v(0 1 2 3 4 5 9 12 14 15): 8.868888854980469	 ([reuters][-][colorado][terminated][contract \ of][pitcher][three][soliciting][oral][sex.])
+v(3 4 8 9 10 11 13 15): 0.197462797164917	 ([terminated][contract \ of][monday,][three][days][was \ ticketed][women][sex.])
+v(0 1 2 5 6 7 8 10 11 12 13 14): 9.365735054016113	 ([reuters][-][colorado][pitcher][denny][neagle][monday,][days][was \ ticketed][soliciting][women][oral])
+v(0 1 2 3 4 5 6 7 9 12 14 15): 9.176956176757812	 ([reuters][-][colorado][terminated][contract \ of][pitcher][denny][neagle][three][soliciting][oral][sex.])
+v(3 4 6 7 8 9 10 11 13 15): 7.455894947052002	 ([terminated][contract \ of][denny][neagle][monday,][three][days][was \ ticketed][women][sex.])
+v(0 1 2 3 4 5 8 9 10 11 12 13 14 15): 9.119359970092773	 ([reuters][-][colorado][terminated][contract \ of][pitcher][monday,][three][days][was \ ticketed][soliciting][women][oral][sex.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.23381233215332	 ([reuters][-][colorado][terminated][contract \ of][pitcher][denny][neagle][monday,][three][days][was \ ticketed][soliciting][women][oral][sex.])
+---------- Rewards-v() ----------
+v(0 1 2 5 6 7 8 10 11 12 13 14): 11.665210723876953, EP: 1.0114384889602661	 ([reuters][-][colorado][pitcher][denny][neagle][monday,][days][was \ ticketed][soliciting][women][oral])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 11.53328800201416, EP: 1.0	 ([reuters][-][colorado][terminated][contract \ of][pitcher][denny][neagle][monday,][three][days][was \ ticketed][soliciting][women][oral][sex.])
+v(0 1 2 3 4 5 6 7 9 12 14 15): 11.476431846618652, EP: 0.9950702786445618	 ([reuters][-][colorado][terminated][contract \ of][pitcher][denny][neagle][three][soliciting][oral][sex.])
+v(0 1 2 3 4 5 8 9 10 11 12 13 14 15): 11.418835639953613, EP: 0.9900763630867004	 ([reuters][-][colorado][terminated][contract \ of][pitcher][monday,][three][days][was \ ticketed][soliciting][women][oral][sex.])
+v(0 1 2 3 4 5 9 12 14 15): 11.168364524841309, EP: 0.968359112739563	 ([reuters][-][colorado][terminated][contract \ of][pitcher][three][soliciting][oral][sex.])
+v(0 1 2 5 6 7 12 14): 11.015061378479004, EP: 0.9550668597221375	 ([reuters][-][colorado][pitcher][denny][neagle][soliciting][oral])
+v(0 1 2 5 8 10 11 12 13 14): 10.222123146057129, EP: 0.8863147497177124	 ([reuters][-][colorado][pitcher][monday,][days][was \ ticketed][soliciting][women][oral])
+v(3 4 6 7 8 9 10 11 13 15): 9.75537109375, EP: 0.8458447456359863	 ([terminated][contract \ of][denny][neagle][monday,][three][days][was \ ticketed][women][sex.])
+v(3 4 6 7 9 15): 7.155804634094238, EP: 0.6204479336738586	 ([terminated][contract \ of][denny][neagle][three][sex.])
+v(6 7 8 10 11 13): 7.112607955932617, EP: 0.6167025566101074	 ([denny][neagle][monday,][days][was \ ticketed][women])
+v(6 7): 6.883238792419434, EP: 0.5968149304389954	 ([denny][neagle])
+v(3 4 9 15): -3.439649820327759, EP: -0.2982366979122162	 ([terminated][contract \ of][three][sex.])
+v(3 4 8 9 10 11 13 15): 2.496938705444336, EP: 0.21649841964244843	 ([terminated][contract \ of][monday,][three][days][was \ ticketed][women][sex.])
+v(0 1 2 5 12 14): 1.0071719884872437, EP: 0.08732739090919495	 ([reuters][-][colorado][pitcher][soliciting][oral])
+v(8 10 11 13): 0.5949609279632568, EP: 0.05158641189336777	 ([monday,][days][was \ ticketed][women])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

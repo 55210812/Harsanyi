@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: oil
+Player 1: near
+Player 2: \ $ 50
+Player 3: barrel,
+Player 4: bush
+Player 5: administration
+Player 6: said
+Player 7: thursday
+Player 8: negotiate
+Player 9: refineries
+Player 10: want
+Player 11: borrow
+Player 12: oil
+Player 13: federal
+Player 14: emergency
+Player 15: stockpile
+Player 16: offset
+Player 17: supplies
+Player 18: disrupted
+Player 19: hurricane
+Player 20: ivan.
+---------- Rewards ----------
+v(): -5.5089335441589355	 ([])
+v(0 3 4 5 6 7 9 11 12): 4.835374355316162	 ([oil][barrel,][bush][administration][said][thursday][refineries][borrow][oil])
+v(1 2 8 10 13 14 15 16 17 18 19 20): 5.259584426879883	 ([near][\ $ 50][negotiate][want][federal][emergency][stockpile][offset][supplies][disrupted][hurricane][ivan.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.701955795288086	 ([oil][near][\ $ 50][barrel,][bush][administration][said][thursday][negotiate][refineries][want][borrow][oil][federal][emergency][stockpile][offset][supplies][disrupted][hurricane][ivan.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.21088981628418, EP: 1.0	 ([oil][near][\ $ 50][barrel,][bush][administration][said][thursday][negotiate][refineries][want][borrow][oil][federal][emergency][stockpile][offset][supplies][disrupted][hurricane][ivan.])
+v(1 2 8 10 13 14 15 16 17 18 19 20): 10.768518447875977, EP: 0.8151243925094604	 ([near][\ $ 50][negotiate][want][federal][emergency][stockpile][offset][supplies][disrupted][hurricane][ivan.])
+v(0 3 4 5 6 7 9 11 12): 10.344307899475098, EP: 0.7830137014389038	 ([oil][barrel,][bush][administration][said][thursday][refineries][borrow][oil])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

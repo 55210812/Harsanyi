@@ -1,0 +1,60 @@
+---------- Players ----------
+Player 0: new
+Player 1: york :
+Player 2: upbeat
+Player 3: meeting
+Player 4: president
+Player 5: pervez
+Player 6: musharraf,
+Player 7: prime
+Player 8: minister
+Player 9: manmohan
+Player 10: singh
+Player 11: said
+Player 12: raise
+Player 13: issue
+Player 14: terrorism
+Player 15: made
+Player 16: clear
+Player 17: pakistan
+Player 18: control
+Player 19: menace
+Player 20: quot ; pre - condition
+Player 21: quot ;
+Player 22: moving
+Player 23: forward
+---------- Rewards ----------
+v(): -4.2509965896606445	 ([])
+v(6 9 14 17): 8.082950592041016	 ([musharraf,][manmohan][terrorism][pakistan])
+v(1 4 10 20 21 22): -3.949713706970215	 ([york :][president][singh][quot ; pre - condition][quot ;][moving])
+v(0 7 8 12 15 16): 6.714028835296631	 ([new][prime][minister][raise][made][clear])
+v(2 3 5 11 13 18 19 23): 5.574666500091553	 ([upbeat][meeting][pervez][said][issue][control][menace][forward])
+v(1 4 6 9 10 14 17 20 21 22): 8.343262672424316	 ([york :][president][musharraf,][manmohan][singh][terrorism][pakistan][quot ; pre - condition][quot ;][moving])
+v(0 6 7 8 9 12 14 15 16 17): 8.258249282836914	 ([new][musharraf,][prime][minister][manmohan][raise][terrorism][made][clear][pakistan])
+v(2 3 5 6 9 11 13 14 17 18 19 23): 8.257635116577148	 ([upbeat][meeting][pervez][musharraf,][manmohan][said][issue][terrorism][pakistan][control][menace][forward])
+v(0 1 4 7 8 10 12 15 16 20 21 22): 3.708712100982666	 ([new][york :][president][prime][minister][singh][raise][made][clear][quot ; pre - condition][quot ;][moving])
+v(1 2 3 4 5 10 11 13 18 19 20 21 22 23): 7.81297492980957	 ([york :][upbeat][meeting][president][pervez][singh][said][issue][control][menace][quot ; pre - condition][quot ;][moving][forward])
+v(0 2 3 5 7 8 11 12 13 15 16 18 19 23): 7.77005672454834	 ([new][upbeat][meeting][pervez][prime][minister][said][raise][issue][made][clear][control][menace][forward])
+v(0 1 4 6 7 8 9 10 12 14 15 16 17 20 21 22): 8.336790084838867	 ([new][york :][president][musharraf,][prime][minister][manmohan][singh][raise][terrorism][made][clear][pakistan][quot ; pre - condition][quot ;][moving])
+v(1 2 3 4 5 6 9 10 11 13 14 17 18 19 20 21 22 23): 8.33266544342041	 ([york :][upbeat][meeting][president][pervez][musharraf,][manmohan][singh][said][issue][terrorism][pakistan][control][menace][quot ; pre - condition][quot ;][moving][forward])
+v(0 2 3 5 6 7 8 9 11 12 13 14 15 16 17 18 19 23): 8.306387901306152	 ([new][upbeat][meeting][pervez][musharraf,][prime][minister][manmohan][said][raise][issue][terrorism][made][clear][pakistan][control][menace][forward])
+v(0 1 2 3 4 5 7 8 10 11 12 13 15 16 18 19 20 21 22 23): 8.189395904541016	 ([new][york :][upbeat][meeting][president][pervez][prime][minister][singh][said][raise][issue][made][clear][control][menace][quot ; pre - condition][quot ;][moving][forward])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.338212013244629	 ([new][york :][upbeat][meeting][president][pervez][musharraf,][prime][minister][manmohan][singh][said][raise][issue][terrorism][made][clear][pakistan][control][menace][quot ; pre - condition][quot ;][moving][forward])
+---------- Rewards-v() ----------
+v(1 4 6 9 10 14 17 20 21 22): 12.594259262084961, EP: 1.0004011392593384	 ([york :][president][musharraf,][manmohan][singh][terrorism][pakistan][quot ; pre - condition][quot ;][moving])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 12.589208602905273, EP: 1.0	 ([new][york :][upbeat][meeting][president][pervez][musharraf,][prime][minister][manmohan][singh][said][raise][issue][terrorism][made][clear][pakistan][control][menace][quot ; pre - condition][quot ;][moving][forward])
+v(0 1 4 6 7 8 9 10 12 14 15 16 17 20 21 22): 12.587786674499512, EP: 0.9998870491981506	 ([new][york :][president][musharraf,][prime][minister][manmohan][singh][raise][terrorism][made][clear][pakistan][quot ; pre - condition][quot ;][moving])
+v(1 2 3 4 5 6 9 10 11 13 14 17 18 19 20 21 22 23): 12.583662033081055, EP: 0.9995594024658203	 ([york :][upbeat][meeting][president][pervez][musharraf,][manmohan][singh][said][issue][terrorism][pakistan][control][menace][quot ; pre - condition][quot ;][moving][forward])
+v(0 2 3 5 6 7 8 9 11 12 13 14 15 16 17 18 19 23): 12.557384490966797, EP: 0.9974721074104309	 ([new][upbeat][meeting][pervez][musharraf,][prime][minister][manmohan][said][raise][issue][terrorism][made][clear][pakistan][control][menace][forward])
+v(0 6 7 8 9 12 14 15 16 17): 12.509245872497559, EP: 0.9936482906341553	 ([new][musharraf,][prime][minister][manmohan][raise][terrorism][made][clear][pakistan])
+v(2 3 5 6 9 11 13 14 17 18 19 23): 12.508631706237793, EP: 0.993599534034729	 ([upbeat][meeting][pervez][musharraf,][manmohan][said][issue][terrorism][pakistan][control][menace][forward])
+v(0 1 2 3 4 5 7 8 10 11 12 13 15 16 18 19 20 21 22 23): 12.44039249420166, EP: 0.988179087638855	 ([new][york :][upbeat][meeting][president][pervez][prime][minister][singh][said][raise][issue][made][clear][control][menace][quot ; pre - condition][quot ;][moving][forward])
+v(6 9 14 17): 12.33394718170166, EP: 0.9797238111495972	 ([musharraf,][manmohan][terrorism][pakistan])
+v(1 2 3 4 5 10 11 13 18 19 20 21 22 23): 12.063971519470215, EP: 0.9582787752151489	 ([york :][upbeat][meeting][president][pervez][singh][said][issue][control][menace][quot ; pre - condition][quot ;][moving][forward])
+v(0 2 3 5 7 8 11 12 13 15 16 18 19 23): 12.021053314208984, EP: 0.9548696875572205	 ([new][upbeat][meeting][pervez][prime][minister][said][raise][issue][made][clear][control][menace][forward])
+v(0 7 8 12 15 16): 10.965024948120117, EP: 0.8709860444068909	 ([new][prime][minister][raise][made][clear])
+v(2 3 5 11 13 18 19 23): 9.825662612915039, EP: 0.7804829478263855	 ([upbeat][meeting][pervez][said][issue][control][menace][forward])
+v(0 1 4 7 8 10 12 15 16 20 21 22): 7.9597086906433105, EP: 0.6322644352912903	 ([new][york :][president][prime][minister][singh][raise][made][clear][quot ; pre - condition][quot ;][moving])
+v(1 4 10 20 21 22): 0.3012828826904297, EP: 0.02393183670938015	 ([york :][president][singh][quot ; pre - condition][quot ;][moving])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

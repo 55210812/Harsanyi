@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: perception
+Player 1: rugby
+Player 2: leagues
+Player 3: best
+Player 4: qualities
+Player 5: absorbed
+Player 6: rugby
+Player 7: union,
+Player 8: considering
+Player 9: influence
+Player 10: former
+Player 11: adherents
+Player 12: england
+Player 13: team
+---------- Rewards ----------
+v(): -5.964314937591553	 ([])
+v(1 6 8 10 13): 8.973970413208008	 ([rugby][rugby][considering][former][team])
+v(0 2 3 4 5 7 9 11 12): -7.843059539794922	 ([perception][leagues][best][qualities][absorbed][union,][influence][adherents][england])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 8.597648620605469	 ([perception][rugby][leagues][best][qualities][absorbed][rugby][union,][considering][influence][former][adherents][england][team])
+---------- Rewards-v() ----------
+v(1 6 8 10 13): 14.938285827636719, EP: 1.0258427858352661	 ([rugby][rugby][considering][former][team])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 14.56196403503418, EP: 1.0	 ([perception][rugby][leagues][best][qualities][absorbed][rugby][union,][considering][influence][former][adherents][england][team])
+v(0 2 3 4 5 7 9 11 12): -1.8787446022033691, EP: -0.12901724874973297	 ([perception][leagues][best][qualities][absorbed][union,][influence][adherents][england])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,49 @@
+---------- Players ----------
+Player 0: boston
+Player 1: college,
+Player 2: organizing
+Player 3: youth
+Player 4: movement
+Player 5: offensive
+Player 6: line,
+Player 7: counting
+Player 8: sophomores
+Player 9: shadu
+Player 10: moore
+Player 11: jim
+Player 12: marten.
+Player 13: young,
+Player 14: surprised
+Player 15: talented
+Player 16: underclassmen
+Player 17: block
+Player 18: everything
+Player 19: penn
+Player 20: state
+Player 21: throws
+Player 22: saturday
+Player 23: night
+Player 24: alumni
+Player 25: stadium
+Player 26: eagles '
+Player 27: home
+Player 28: opener.
+---------- Rewards ----------
+v(): -6.1615777015686035	 ([])
+v(1 5 6 7 8 9 22 24 25): 8.708112716674805	 ([college,][offensive][line,][counting][sophomores][shadu][saturday][alumni][stadium])
+v(0 12 13 14 19 23 28): 0.05235147476196289	 ([boston][marten.][young,][surprised][penn][night][opener.])
+v(2 3 4 10 11 15 16 17 18 20 21 26 27): 4.763364791870117	 ([organizing][youth][movement][moore][jim][talented][underclassmen][block][everything][state][throws][eagles '][home])
+v(0 1 5 6 7 8 9 12 13 14 19 22 23 24 25 28): 9.698797225952148	 ([boston][college,][offensive][line,][counting][sophomores][shadu][marten.][young,][surprised][penn][saturday][night][alumni][stadium][opener.])
+v(1 2 3 4 5 6 7 8 9 10 11 15 16 17 18 20 21 22 24 25 26 27): 8.906558990478516	 ([college,][organizing][youth][movement][offensive][line,][counting][sophomores][shadu][moore][jim][talented][underclassmen][block][everything][state][throws][saturday][alumni][stadium][eagles '][home])
+v(0 2 3 4 10 11 12 13 14 15 16 17 18 19 20 21 23 26 27 28): 9.747947692871094	 ([boston][organizing][youth][movement][moore][jim][marten.][young,][surprised][talented][underclassmen][block][everything][penn][state][throws][night][eagles '][home][opener.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 9.010215759277344	 ([boston][college,][organizing][youth][movement][offensive][line,][counting][sophomores][shadu][moore][jim][marten.][young,][surprised][talented][underclassmen][block][everything][penn][state][throws][saturday][night][alumni][stadium][eagles '][home][opener.])
+---------- Rewards-v() ----------
+v(0 2 3 4 10 11 12 13 14 15 16 17 18 19 20 21 23 26 27 28): 15.909524917602539, EP: 1.0486252307891846	 ([boston][organizing][youth][movement][moore][jim][marten.][young,][surprised][talented][underclassmen][block][everything][penn][state][throws][night][eagles '][home][opener.])
+v(0 1 5 6 7 8 9 12 13 14 19 22 23 24 25 28): 15.860374450683594, EP: 1.0453855991363525	 ([boston][college,][offensive][line,][counting][sophomores][shadu][marten.][young,][surprised][penn][saturday][night][alumni][stadium][opener.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 15.171792984008789, EP: 1.0	 ([boston][college,][organizing][youth][movement][offensive][line,][counting][sophomores][shadu][moore][jim][marten.][young,][surprised][talented][underclassmen][block][everything][penn][state][throws][saturday][night][alumni][stadium][eagles '][home][opener.])
+v(1 2 3 4 5 6 7 8 9 10 11 15 16 17 18 20 21 22 24 25 26 27): 15.068136215209961, EP: 0.9931678175926208	 ([college,][organizing][youth][movement][offensive][line,][counting][sophomores][shadu][moore][jim][talented][underclassmen][block][everything][state][throws][saturday][alumni][stadium][eagles '][home])
+v(1 5 6 7 8 9 22 24 25): 14.86968994140625, EP: 0.9800878763198853	 ([college,][offensive][line,][counting][sophomores][shadu][saturday][alumni][stadium])
+v(2 3 4 10 11 15 16 17 18 20 21 26 27): 10.924942016601562, EP: 0.7200824618339539	 ([organizing][youth][movement][moore][jim][talented][underclassmen][block][everything][state][throws][eagles '][home])
+v(0 12 13 14 19 23 28): 6.213929176330566, EP: 0.40957117080688477	 ([boston][marten.][young,][surprised][penn][night][opener.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

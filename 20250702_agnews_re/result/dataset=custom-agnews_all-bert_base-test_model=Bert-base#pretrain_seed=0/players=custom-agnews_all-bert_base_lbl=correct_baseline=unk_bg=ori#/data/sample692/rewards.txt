@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: marat
+Player 1: safin
+Player 2: lost
+Player 3: temper
+Player 4: quarterfinal
+Player 5: st.
+Player 6: petersburg
+Player 7: open
+Player 8: friday,
+Player 9: getting
+Player 10: surprised
+Player 11: seventh - seeded
+Player 12: michael
+Player 13: llodra
+Player 14: 6 - 4,
+Player 15: 6 - 1
+Player 16: protesting
+Player 17: line
+Player 18: call.
+---------- Rewards ----------
+v(): -4.257598400115967	 ([])
+v(0 3 5 8 14 16): -7.7894287109375	 ([marat][temper][st.][friday,][6 - 4,][protesting])
+v(10 11 12 13): 8.54088306427002	 ([surprised][seventh - seeded][michael][llodra])
+v(1 2 4 6 9): 5.574807643890381	 ([safin][lost][quarterfinal][petersburg][getting])
+v(7 15 17 18): -4.281788349151611	 ([open][6 - 1][line][call.])
+v(0 3 5 8 10 11 12 13 14 16): 9.023984909057617	 ([marat][temper][st.][friday,][surprised][seventh - seeded][michael][llodra][6 - 4,][protesting])
+v(0 1 2 3 4 5 6 8 9 14 16): 9.146398544311523	 ([marat][safin][lost][temper][quarterfinal][st.][petersburg][friday,][getting][6 - 4,][protesting])
+v(0 3 5 7 8 14 15 16 17 18): -6.290500164031982	 ([marat][temper][st.][open][friday,][6 - 4,][6 - 1][protesting][line][call.])
+v(1 2 4 6 9 10 11 12 13): 8.348861694335938	 ([safin][lost][quarterfinal][petersburg][getting][surprised][seventh - seeded][michael][llodra])
+v(7 10 11 12 13 15 17 18): 9.008949279785156	 ([open][surprised][seventh - seeded][michael][llodra][6 - 1][line][call.])
+v(1 2 4 6 7 9 15 17 18): 9.601740837097168	 ([safin][lost][quarterfinal][petersburg][open][getting][6 - 1][line][call.])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 14 16): 9.323184967041016	 ([marat][safin][lost][temper][quarterfinal][st.][petersburg][friday,][getting][surprised][seventh - seeded][michael][llodra][6 - 4,][protesting])
+v(0 3 5 7 8 10 11 12 13 14 15 16 17 18): 9.687170028686523	 ([marat][temper][st.][open][friday,][surprised][seventh - seeded][michael][llodra][6 - 4,][6 - 1][protesting][line][call.])
+v(0 1 2 3 4 5 6 7 8 9 14 15 16 17 18): 9.686039924621582	 ([marat][safin][lost][temper][quarterfinal][st.][petersburg][open][friday,][getting][6 - 4,][6 - 1][protesting][line][call.])
+v(1 2 4 6 7 9 10 11 12 13 15 17 18): 9.671554565429688	 ([safin][lost][quarterfinal][petersburg][open][getting][surprised][seventh - seeded][michael][llodra][6 - 1][line][call.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.629864692687988	 ([marat][safin][lost][temper][quarterfinal][st.][petersburg][open][friday,][getting][surprised][seventh - seeded][michael][llodra][6 - 4,][6 - 1][protesting][line][call.])
+---------- Rewards-v() ----------
+v(0 3 5 7 8 10 11 12 13 14 15 16 17 18): 13.944768905639648, EP: 1.0041264295578003	 ([marat][temper][st.][open][friday,][surprised][seventh - seeded][michael][llodra][6 - 4,][6 - 1][protesting][line][call.])
+v(0 1 2 3 4 5 6 7 8 9 14 15 16 17 18): 13.94363784790039, EP: 1.004045009613037	 ([marat][safin][lost][temper][quarterfinal][st.][petersburg][open][friday,][getting][6 - 4,][6 - 1][protesting][line][call.])
+v(1 2 4 6 7 9 10 11 12 13 15 17 18): 13.929153442382812, EP: 1.0030020475387573	 ([safin][lost][quarterfinal][petersburg][open][getting][surprised][seventh - seeded][michael][llodra][6 - 1][line][call.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 13.887462615966797, EP: 1.0	 ([marat][safin][lost][temper][quarterfinal][st.][petersburg][open][friday,][getting][surprised][seventh - seeded][michael][llodra][6 - 4,][6 - 1][protesting][line][call.])
+v(1 2 4 6 7 9 15 17 18): 13.859338760375977, EP: 0.9979748725891113	 ([safin][lost][quarterfinal][petersburg][open][getting][6 - 1][line][call.])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 14 16): 13.58078384399414, EP: 0.9779168367385864	 ([marat][safin][lost][temper][quarterfinal][st.][petersburg][friday,][getting][surprised][seventh - seeded][michael][llodra][6 - 4,][protesting])
+v(0 1 2 3 4 5 6 8 9 14 16): 13.403997421264648, EP: 0.9651869535446167	 ([marat][safin][lost][temper][quarterfinal][st.][petersburg][friday,][getting][6 - 4,][protesting])
+v(0 3 5 8 10 11 12 13 14 16): 13.281583786010742, EP: 0.9563722610473633	 ([marat][temper][st.][friday,][surprised][seventh - seeded][michael][llodra][6 - 4,][protesting])
+v(7 10 11 12 13 15 17 18): 13.266548156738281, EP: 0.9552895426750183	 ([open][surprised][seventh - seeded][michael][llodra][6 - 1][line][call.])
+v(10 11 12 13): 12.798480987548828, EP: 0.9215852618217468	 ([surprised][seventh - seeded][michael][llodra])
+v(1 2 4 6 9 10 11 12 13): 12.606460571289062, EP: 0.907758355140686	 ([safin][lost][quarterfinal][petersburg][getting][surprised][seventh - seeded][michael][llodra])
+v(1 2 4 6 9): 9.832406044006348, EP: 0.708005964756012	 ([safin][lost][quarterfinal][petersburg][getting])
+v(0 3 5 8 14 16): -3.531830310821533, EP: -0.25431790947914124	 ([marat][temper][st.][friday,][6 - 4,][protesting])
+v(0 3 5 7 8 14 15 16 17 18): -2.0329017639160156, EP: -0.14638395607471466	 ([marat][temper][st.][open][friday,][6 - 4,][6 - 1][protesting][line][call.])
+v(7 15 17 18): -0.02418994903564453, EP: -0.0017418551724404097	 ([open][6 - 1][line][call.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

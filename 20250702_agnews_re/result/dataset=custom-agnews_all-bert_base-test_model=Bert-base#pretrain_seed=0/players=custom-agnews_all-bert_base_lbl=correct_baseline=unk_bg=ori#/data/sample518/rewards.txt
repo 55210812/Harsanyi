@@ -1,0 +1,90 @@
+---------- Players ----------
+Player 0: hong
+Player 1: kong
+Player 2: -
+Player 3: pro - democracy
+Player 4: opposition
+Player 5: figures
+Player 6: gained
+Player 7: clout
+Player 8: hong
+Player 9: kong's
+Player 10: legislature
+Player 11: three
+Player 12: new
+Player 13: seats,
+Player 14: fell
+Player 15: short
+Player 16: expectations
+Player 17: resumed
+Player 18: grumbling
+Player 19: monday
+Player 20: system
+Player 21: call
+Player 22: unfairly
+Player 23: rigged.
+Player 24: although
+Player 25: opposition
+Player 26: remains
+Player 27: stuck
+Player 28: mainly
+Player 29: power
+Player 30: criticize,
+Player 31: gained
+Player 32: loud
+Player 33: new
+Player 34: voice
+Player 35: stunning
+Player 36: election
+Player 37: win
+Player 38: hong
+Player 39: kong's
+Player 40: top
+Player 41: protester,
+Player 42: " longhair "
+Player 43: leung
+Player 44: kwok - hung,
+Player 45: known
+Player 46: burning
+Player 47: flags
+Player 48: raising
+Player 49: ruckus
+Player 50: trademark
+Player 51: che
+Player 52: guevara
+Player 53: t - shirt...
+---------- Rewards ----------
+v(): -7.1602020263671875	 ([])
+v(0 1 2 3 7 8 9 42 43 44 51 52): 7.643618583679199	 ([hong][kong][-][pro - democracy][clout][hong][kong's][" longhair "][leung][kwok - hung,][che][guevara])
+v(20 21 26 33 34 47 50): -9.045618057250977	 ([system][call][remains][new][voice][flags][trademark])
+v(10 11 12 13 14 15 16 17 18 19 22 23 27 28 30 31 35 37 45 46 48 49): -1.1855278015136719	 ([legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][unfairly][rigged.][stuck][mainly][criticize,][gained][stunning][win][known][burning][raising][ruckus])
+v(4 5 6 24 25 29 32 36 38 39 40 41 53): 6.508585453033447	 ([opposition][figures][gained][although][opposition][power][loud][election][hong][kong's][top][protester,][t - shirt...])
+v(0 1 2 3 7 8 9 20 21 26 33 34 42 43 44 47 50 51 52): 6.935094356536865	 ([hong][kong][-][pro - democracy][clout][hong][kong's][system][call][remains][new][voice][" longhair "][leung][kwok - hung,][flags][trademark][che][guevara])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17 18 19 22 23 27 28 30 31 35 37 42 43 44 45 46 48 49 51 52): 6.514960765838623	 ([hong][kong][-][pro - democracy][clout][hong][kong's][legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][unfairly][rigged.][stuck][mainly][criticize,][gained][stunning][win][" longhair "][leung][kwok - hung,][known][burning][raising][ruckus][che][guevara])
+v(0 1 2 3 4 5 6 7 8 9 24 25 29 32 36 38 39 40 41 42 43 44 51 52 53): 8.069183349609375	 ([hong][kong][-][pro - democracy][opposition][figures][gained][clout][hong][kong's][although][opposition][power][loud][election][hong][kong's][top][protester,][" longhair "][leung][kwok - hung,][che][guevara][t - shirt...])
+v(10 11 12 13 14 15 16 17 18 19 20 21 22 23 26 27 28 30 31 33 34 35 37 45 46 47 48 49 50): 1.5812808275222778	 ([legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][system][call][unfairly][rigged.][remains][stuck][mainly][criticize,][gained][new][voice][stunning][win][known][burning][flags][raising][ruckus][trademark])
+v(4 5 6 20 21 24 25 26 29 32 33 34 36 38 39 40 41 47 50 53): 5.858304977416992	 ([opposition][figures][gained][system][call][although][opposition][remains][power][loud][new][voice][election][hong][kong's][top][protester,][flags][trademark][t - shirt...])
+v(4 5 6 10 11 12 13 14 15 16 17 18 19 22 23 24 25 27 28 29 30 31 32 35 36 37 38 39 40 41 45 46 48 49 53): 6.7511444091796875	 ([opposition][figures][gained][legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][unfairly][rigged.][although][opposition][stuck][mainly][power][criticize,][gained][loud][stunning][election][win][hong][kong's][top][protester,][known][burning][raising][ruckus][t - shirt...])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 26 27 28 30 31 33 34 35 37 42 43 44 45 46 47 48 49 50 51 52): 6.562974452972412	 ([hong][kong][-][pro - democracy][clout][hong][kong's][legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][system][call][unfairly][rigged.][remains][stuck][mainly][criticize,][gained][new][voice][stunning][win][" longhair "][leung][kwok - hung,][known][burning][flags][raising][ruckus][trademark][che][guevara])
+v(0 1 2 3 4 5 6 7 8 9 20 21 24 25 26 29 32 33 34 36 38 39 40 41 42 43 44 47 50 51 52 53): 7.88299036026001	 ([hong][kong][-][pro - democracy][opposition][figures][gained][clout][hong][kong's][system][call][although][opposition][remains][power][loud][new][voice][election][hong][kong's][top][protester,][" longhair "][leung][kwok - hung,][flags][trademark][che][guevara][t - shirt...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 22 23 24 25 27 28 29 30 31 32 35 36 37 38 39 40 41 42 43 44 45 46 48 49 51 52 53): 7.933782577514648	 ([hong][kong][-][pro - democracy][opposition][figures][gained][clout][hong][kong's][legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][unfairly][rigged.][although][opposition][stuck][mainly][power][criticize,][gained][loud][stunning][election][win][hong][kong's][top][protester,][" longhair "][leung][kwok - hung,][known][burning][raising][ruckus][che][guevara][t - shirt...])
+v(4 5 6 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 45 46 47 48 49 50 53): 7.7124342918396	 ([opposition][figures][gained][legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][system][call][unfairly][rigged.][although][opposition][remains][stuck][mainly][power][criticize,][gained][loud][new][voice][stunning][election][win][hong][kong's][top][protester,][known][burning][flags][raising][ruckus][trademark][t - shirt...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53): 8.262085914611816	 ([hong][kong][-][pro - democracy][opposition][figures][gained][clout][hong][kong's][legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][system][call][unfairly][rigged.][although][opposition][remains][stuck][mainly][power][criticize,][gained][loud][new][voice][stunning][election][win][hong][kong's][top][protester,][" longhair "][leung][kwok - hung,][known][burning][flags][raising][ruckus][trademark][che][guevara][t - shirt...])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53): 15.422287940979004, EP: 1.0	 ([hong][kong][-][pro - democracy][opposition][figures][gained][clout][hong][kong's][legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][system][call][unfairly][rigged.][although][opposition][remains][stuck][mainly][power][criticize,][gained][loud][new][voice][stunning][election][win][hong][kong's][top][protester,][" longhair "][leung][kwok - hung,][known][burning][flags][raising][ruckus][trademark][che][guevara][t - shirt...])
+v(0 1 2 3 4 5 6 7 8 9 24 25 29 32 36 38 39 40 41 42 43 44 51 52 53): 15.229385375976562, EP: 0.9874919652938843	 ([hong][kong][-][pro - democracy][opposition][figures][gained][clout][hong][kong's][although][opposition][power][loud][election][hong][kong's][top][protester,][" longhair "][leung][kwok - hung,][che][guevara][t - shirt...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 22 23 24 25 27 28 29 30 31 32 35 36 37 38 39 40 41 42 43 44 45 46 48 49 51 52 53): 15.093984603881836, EP: 0.9787124395370483	 ([hong][kong][-][pro - democracy][opposition][figures][gained][clout][hong][kong's][legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][unfairly][rigged.][although][opposition][stuck][mainly][power][criticize,][gained][loud][stunning][election][win][hong][kong's][top][protester,][" longhair "][leung][kwok - hung,][known][burning][raising][ruckus][che][guevara][t - shirt...])
+v(0 1 2 3 4 5 6 7 8 9 20 21 24 25 26 29 32 33 34 36 38 39 40 41 42 43 44 47 50 51 52 53): 15.043191909790039, EP: 0.9754189252853394	 ([hong][kong][-][pro - democracy][opposition][figures][gained][clout][hong][kong's][system][call][although][opposition][remains][power][loud][new][voice][election][hong][kong's][top][protester,][" longhair "][leung][kwok - hung,][flags][trademark][che][guevara][t - shirt...])
+v(4 5 6 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 45 46 47 48 49 50 53): 14.872636795043945, EP: 0.9643599390983582	 ([opposition][figures][gained][legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][system][call][unfairly][rigged.][although][opposition][remains][stuck][mainly][power][criticize,][gained][loud][new][voice][stunning][election][win][hong][kong's][top][protester,][known][burning][flags][raising][ruckus][trademark][t - shirt...])
+v(0 1 2 3 7 8 9 42 43 44 51 52): 14.803820610046387, EP: 0.9598978161811829	 ([hong][kong][-][pro - democracy][clout][hong][kong's][" longhair "][leung][kwok - hung,][che][guevara])
+v(0 1 2 3 7 8 9 20 21 26 33 34 42 43 44 47 50 51 52): 14.095296859741211, EP: 0.9139562845230103	 ([hong][kong][-][pro - democracy][clout][hong][kong's][system][call][remains][new][voice][" longhair "][leung][kwok - hung,][flags][trademark][che][guevara])
+v(4 5 6 10 11 12 13 14 15 16 17 18 19 22 23 24 25 27 28 29 30 31 32 35 36 37 38 39 40 41 45 46 48 49 53): 13.911346435546875, EP: 0.9020286798477173	 ([opposition][figures][gained][legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][unfairly][rigged.][although][opposition][stuck][mainly][power][criticize,][gained][loud][stunning][election][win][hong][kong's][top][protester,][known][burning][raising][ruckus][t - shirt...])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 26 27 28 30 31 33 34 35 37 42 43 44 45 46 47 48 49 50 51 52): 13.723176956176758, EP: 0.88982754945755	 ([hong][kong][-][pro - democracy][clout][hong][kong's][legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][system][call][unfairly][rigged.][remains][stuck][mainly][criticize,][gained][new][voice][stunning][win][" longhair "][leung][kwok - hung,][known][burning][flags][raising][ruckus][trademark][che][guevara])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17 18 19 22 23 27 28 30 31 35 37 42 43 44 45 46 48 49 51 52): 13.675163269042969, EP: 0.8867142796516418	 ([hong][kong][-][pro - democracy][clout][hong][kong's][legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][unfairly][rigged.][stuck][mainly][criticize,][gained][stunning][win][" longhair "][leung][kwok - hung,][known][burning][raising][ruckus][che][guevara])
+v(4 5 6 24 25 29 32 36 38 39 40 41 53): 13.668787002563477, EP: 0.8863008618354797	 ([opposition][figures][gained][although][opposition][power][loud][election][hong][kong's][top][protester,][t - shirt...])
+v(4 5 6 20 21 24 25 26 29 32 33 34 36 38 39 40 41 47 50 53): 13.01850700378418, EP: 0.8441358804702759	 ([opposition][figures][gained][system][call][although][opposition][remains][power][loud][new][voice][election][hong][kong's][top][protester,][flags][trademark][t - shirt...])
+v(10 11 12 13 14 15 16 17 18 19 20 21 22 23 26 27 28 30 31 33 34 35 37 45 46 47 48 49 50): 8.741482734680176, EP: 0.5668084025382996	 ([legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][system][call][unfairly][rigged.][remains][stuck][mainly][criticize,][gained][new][voice][stunning][win][known][burning][flags][raising][ruckus][trademark])
+v(10 11 12 13 14 15 16 17 18 19 22 23 27 28 30 31 35 37 45 46 48 49): 5.974674224853516, EP: 0.3874051868915558	 ([legislature][three][new][seats,][fell][short][expectations][resumed][grumbling][monday][unfairly][rigged.][stuck][mainly][criticize,][gained][stunning][win][known][burning][raising][ruckus])
+v(20 21 26 33 34 47 50): -1.885416030883789, EP: -0.1222526803612709	 ([system][call][remains][new][voice][flags][trademark])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: ata
+Player 1: holdings
+Player 2: corp.,
+Player 3: parent
+Player 4: ata
+Player 5: airlines,
+Player 6: nation
+Player 7: # 39 ; s
+Player 8: 10th - largest
+Player 9: carrier,
+Player 10: filed
+Player 11: chapter
+Player 12: 11
+Player 13: bankruptcy
+Player 14: reorganization
+Player 15: yesterday,
+Player 16: becoming
+Player 17: third
+Player 18: us
+Player 19: airline
+Player 20: operating
+Player 21: court
+Player 22: protection.
+---------- Rewards ----------
+v(): -3.317896842956543	 ([])
+v(5 9 13 18 19): 8.370296478271484	 ([airlines,][carrier,][bankruptcy][us][airline])
+v(0 1 2 3 6 7 8 10 12 14 15 20 22): 8.545812606811523	 ([ata][holdings][corp.,][parent][nation][# 39 ; s][10th - largest][filed][11][reorganization][yesterday,][operating][protection.])
+v(4 11 16 17 21): -3.587339162826538	 ([ata][chapter][becoming][third][court])
+v(0 1 2 3 5 6 7 8 9 10 12 13 14 15 18 19 20 22): 8.20887565612793	 ([ata][holdings][corp.,][parent][airlines,][nation][# 39 ; s][10th - largest][carrier,][filed][11][bankruptcy][reorganization][yesterday,][us][airline][operating][protection.])
+v(4 5 9 11 13 16 17 18 19 21): 8.204842567443848	 ([ata][airlines,][carrier,][chapter][bankruptcy][becoming][third][us][airline][court])
+v(0 1 2 3 4 6 7 8 10 11 12 14 15 16 17 20 21 22): 8.484521865844727	 ([ata][holdings][corp.,][parent][ata][nation][# 39 ; s][10th - largest][filed][chapter][11][reorganization][yesterday,][becoming][third][operating][court][protection.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.905508995056152	 ([ata][holdings][corp.,][parent][ata][airlines,][nation][# 39 ; s][10th - largest][carrier,][filed][chapter][11][bankruptcy][reorganization][yesterday,][becoming][third][us][airline][operating][court][protection.])
+---------- Rewards-v() ----------
+v(0 1 2 3 6 7 8 10 12 14 15 20 22): 11.863709449768066, EP: 1.0570507049560547	 ([ata][holdings][corp.,][parent][nation][# 39 ; s][10th - largest][filed][11][reorganization][yesterday,][operating][protection.])
+v(0 1 2 3 4 6 7 8 10 11 12 14 15 16 17 20 21 22): 11.80241870880127, EP: 1.0515897274017334	 ([ata][holdings][corp.,][parent][ata][nation][# 39 ; s][10th - largest][filed][chapter][11][reorganization][yesterday,][becoming][third][operating][court][protection.])
+v(5 9 13 18 19): 11.688193321228027, EP: 1.041412353515625	 ([airlines,][carrier,][bankruptcy][us][airline])
+v(0 1 2 3 5 6 7 8 9 10 12 13 14 15 18 19 20 22): 11.526772499084473, EP: 1.0270298719406128	 ([ata][holdings][corp.,][parent][airlines,][nation][# 39 ; s][10th - largest][carrier,][filed][11][bankruptcy][reorganization][yesterday,][us][airline][operating][protection.])
+v(4 5 9 11 13 16 17 18 19 21): 11.52273941040039, EP: 1.0266704559326172	 ([ata][airlines,][carrier,][chapter][bankruptcy][becoming][third][us][airline][court])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 11.223405838012695, EP: 1.0	 ([ata][holdings][corp.,][parent][ata][airlines,][nation][# 39 ; s][10th - largest][carrier,][filed][chapter][11][bankruptcy][reorganization][yesterday,][becoming][third][us][airline][operating][court][protection.])
+v(4 11 16 17 21): -0.2694423198699951, EP: -0.024007178843021393	 ([ata][chapter][becoming][third][court])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

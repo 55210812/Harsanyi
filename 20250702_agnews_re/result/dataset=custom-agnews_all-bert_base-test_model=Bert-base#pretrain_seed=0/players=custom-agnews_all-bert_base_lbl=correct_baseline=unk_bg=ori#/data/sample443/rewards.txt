@@ -1,0 +1,29 @@
+---------- Players ----------
+Player 0: london
+Player 1: :
+Player 2: british
+Player 3: unemployment
+Player 4: fell
+Player 5: 15th
+Player 6: month
+Player 7: row
+Player 8: august
+Player 9: reach
+Player 10: lowest
+Player 11: level
+Player 12: 29
+Player 13: years,
+Player 14: official
+Player 15: figures
+Player 16: showed.
+---------- Rewards ----------
+v(): -4.565389156341553	 ([])
+v(0 1 2 3 4 5 6 7 8): 3.3413619995117188	 ([london][:][british][unemployment][fell][15th][month][row][august])
+v(9 10 11 12 13 14 15 16): 0.6632428169250488	 ([reach][lowest][level][29][years,][official][figures][showed.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 3.0979971885681152	 ([london][:][british][unemployment][fell][15th][month][row][august][reach][lowest][level][29][years,][official][figures][showed.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8): 7.9067511558532715, EP: 1.03175687789917	 ([london][:][british][unemployment][fell][15th][month][row][august])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.663386344909668, EP: 1.0	 ([london][:][british][unemployment][fell][15th][month][row][august][reach][lowest][level][29][years,][official][figures][showed.])
+v(9 10 11 12 13 14 15 16): 5.228631973266602, EP: 0.6822873950004578	 ([reach][lowest][level][29][years,][official][figures][showed.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

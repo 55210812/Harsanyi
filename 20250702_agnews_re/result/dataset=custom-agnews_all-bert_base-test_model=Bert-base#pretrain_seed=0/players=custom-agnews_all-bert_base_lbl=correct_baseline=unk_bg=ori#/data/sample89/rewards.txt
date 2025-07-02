@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: ram
+Player 1: gupta,
+Player 2: executive
+Player 3: vice
+Player 4: president,
+Player 5: leaves
+Player 6: company
+Player 7: four - year
+Player 8: stint.
+Player 9: peoplesoft
+Player 10: mum
+Player 11: details.
+---------- Rewards ----------
+v(): 3.902728796005249	 ([])
+v(2 3 4 6): 1.6910045146942139	 ([executive][vice][president,][company])
+v(5 7 8 9): -1.2890512943267822	 ([leaves][four - year][stint.][peoplesoft])
+v(0 1 10 11): 6.007233619689941	 ([ram][gupta,][mum][details.])
+v(2 3 4 5 6 7 8 9): -0.9881000518798828	 ([executive][vice][president,][leaves][company][four - year][stint.][peoplesoft])
+v(0 1 2 3 4 6 10 11): 6.09748649597168	 ([ram][gupta,][executive][vice][president,][company][mum][details.])
+v(0 1 5 7 8 9 10 11): 4.136699676513672	 ([ram][gupta,][leaves][four - year][stint.][peoplesoft][mum][details.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 4.919802665710449	 ([ram][gupta,][executive][vice][president,][leaves][company][four - year][stint.][peoplesoft][mum][details.])
+---------- Rewards-v() ----------
+v(5 7 8 9): -5.191780090332031, EP: -5.104624271392822	 ([leaves][four - year][stint.][peoplesoft])
+v(2 3 4 5 6 7 8 9): -4.890829086303711, EP: -4.808725357055664	 ([executive][vice][president,][leaves][company][four - year][stint.][peoplesoft])
+v(2 3 4 6): -2.211724281311035, EP: -2.174595594406128	 ([executive][vice][president,][company])
+v(0 1 2 3 4 6 10 11): 2.1947576999664307, EP: 2.1579136848449707	 ([ram][gupta,][executive][vice][president,][company][mum][details.])
+v(0 1 10 11): 2.1045048236846924, EP: 2.069175958633423	 ([ram][gupta,][mum][details.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 1.0170738697052002, EP: 1.0	 ([ram][gupta,][executive][vice][president,][leaves][company][four - year][stint.][peoplesoft][mum][details.])
+v(0 1 5 7 8 9 10 11): 0.23397088050842285, EP: 0.23004315793514252	 ([ram][gupta,][leaves][four - year][stint.][peoplesoft][mum][details.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

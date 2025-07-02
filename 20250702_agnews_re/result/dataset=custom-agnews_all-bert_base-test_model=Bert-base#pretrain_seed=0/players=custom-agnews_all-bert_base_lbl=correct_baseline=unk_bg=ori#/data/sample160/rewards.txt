@@ -1,0 +1,46 @@
+---------- Players ----------
+Player 0: toronto
+Player 1: toronto
+Player 2: raptors
+Player 3: guard
+Player 4: vince
+Player 5: carter
+Player 6: miss
+Player 7: least
+Player 8: two
+Player 9: games
+Player 10: strained
+Player 11: left
+Player 12: achilles
+Player 13: # 39 ;
+Player 14: tendon.
+Player 15: carter
+Player 16: injured
+Player 17: second
+Player 18: half
+Player 19: last
+Player 20: night
+Player 21: # 39 ; s
+Player 22: 90 - to - 86
+Player 23: overtime
+Player 24: loss
+Player 25: detroit.
+---------- Rewards ----------
+v(): -5.034914016723633	 ([])
+v(1 2 6 7 16 17 18 19 20 22 23 24): 9.298149108886719	 ([toronto][raptors][miss][least][injured][second][half][last][night][90 - to - 86][overtime][loss])
+v(0 8 9 10 11 12 25): 9.697795867919922	 ([toronto][two][games][strained][left][achilles][detroit.])
+v(3 4 5 13 14 15 21): 9.705523490905762	 ([guard][vince][carter][# 39 ;][tendon.][carter][# 39 ; s])
+v(0 1 2 6 7 8 9 10 11 12 16 17 18 19 20 22 23 24 25): 9.515457153320312	 ([toronto][toronto][raptors][miss][least][two][games][strained][left][achilles][injured][second][half][last][night][90 - to - 86][overtime][loss][detroit.])
+v(1 2 3 4 5 6 7 13 14 15 16 17 18 19 20 21 22 23 24): 9.650771141052246	 ([toronto][raptors][guard][vince][carter][miss][least][# 39 ;][tendon.][carter][injured][second][half][last][night][# 39 ; s][90 - to - 86][overtime][loss])
+v(0 3 4 5 8 9 10 11 12 13 14 15 21 25): 9.68696403503418	 ([toronto][guard][vince][carter][two][games][strained][left][achilles][# 39 ;][tendon.][carter][# 39 ; s][detroit.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 9.56956672668457	 ([toronto][toronto][raptors][guard][vince][carter][miss][least][two][games][strained][left][achilles][# 39 ;][tendon.][carter][injured][second][half][last][night][# 39 ; s][90 - to - 86][overtime][loss][detroit.])
+---------- Rewards-v() ----------
+v(3 4 5 13 14 15 21): 14.740437507629395, EP: 1.0093092918395996	 ([guard][vince][carter][# 39 ;][tendon.][carter][# 39 ; s])
+v(0 8 9 10 11 12 25): 14.732709884643555, EP: 1.0087801218032837	 ([toronto][two][games][strained][left][achilles][detroit.])
+v(0 3 4 5 8 9 10 11 12 13 14 15 21 25): 14.721878051757812, EP: 1.0080384016036987	 ([toronto][guard][vince][carter][two][games][strained][left][achilles][# 39 ;][tendon.][carter][# 39 ; s][detroit.])
+v(1 2 3 4 5 6 7 13 14 15 16 17 18 19 20 21 22 23 24): 14.685685157775879, EP: 1.005560278892517	 ([toronto][raptors][guard][vince][carter][miss][least][# 39 ;][tendon.][carter][injured][second][half][last][night][# 39 ; s][90 - to - 86][overtime][loss])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 14.604480743408203, EP: 1.0	 ([toronto][toronto][raptors][guard][vince][carter][miss][least][two][games][strained][left][achilles][# 39 ;][tendon.][carter][injured][second][half][last][night][# 39 ; s][90 - to - 86][overtime][loss][detroit.])
+v(0 1 2 6 7 8 9 10 11 12 16 17 18 19 20 22 23 24 25): 14.550371170043945, EP: 0.9962949752807617	 ([toronto][toronto][raptors][miss][least][two][games][strained][left][achilles][injured][second][half][last][night][90 - to - 86][overtime][loss][detroit.])
+v(1 2 6 7 16 17 18 19 20 22 23 24): 14.333063125610352, EP: 0.9814154505729675	 ([toronto][raptors][miss][least][injured][second][half][last][night][90 - to - 86][overtime][loss])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

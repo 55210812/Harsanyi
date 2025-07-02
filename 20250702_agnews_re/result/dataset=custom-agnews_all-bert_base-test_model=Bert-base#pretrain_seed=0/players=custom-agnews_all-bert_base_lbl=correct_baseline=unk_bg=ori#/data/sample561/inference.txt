@@ -1,0 +1,61 @@
+Execution time: 2025-07-02 19:31:12
+prompt: [CLS] reuters - romania's centrist opposition, buoyed \ by a presidential election victory of their leader traian \ basescu, put pressure on the ruling left on wednesday to \ abandon its bid to cling to power or face early elections. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26665 decoded_text: reuters
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:6339 decoded_text: romania
+idx:4 input_id:1005 decoded_text: '
+idx:5 input_id:1055 decoded_text: s
+idx:6 input_id:9358 decoded_text: cent
+idx:7 input_id:15061 decoded_text: ##rist
+idx:8 input_id:4559 decoded_text: opposition
+idx:9 input_id:1010 decoded_text: ,
+idx:10 input_id:20934 decoded_text: bu
+idx:11 input_id:6977 decoded_text: ##oy
+idx:12 input_id:2098 decoded_text: ##ed
+idx:13 input_id:1032 decoded_text: \
+idx:14 input_id:2011 decoded_text: by
+idx:15 input_id:1037 decoded_text: a
+idx:16 input_id:4883 decoded_text: presidential
+idx:17 input_id:2602 decoded_text: election
+idx:18 input_id:3377 decoded_text: victory
+idx:19 input_id:1997 decoded_text: of
+idx:20 input_id:2037 decoded_text: their
+idx:21 input_id:3003 decoded_text: leader
+idx:22 input_id:19817 decoded_text: tr
+idx:23 input_id:27131 decoded_text: ##aia
+idx:24 input_id:2078 decoded_text: ##n
+idx:25 input_id:1032 decoded_text: \
+idx:26 input_id:7888 decoded_text: bases
+idx:27 input_id:10841 decoded_text: ##cu
+idx:28 input_id:1010 decoded_text: ,
+idx:29 input_id:2404 decoded_text: put
+idx:30 input_id:3778 decoded_text: pressure
+idx:31 input_id:2006 decoded_text: on
+idx:32 input_id:1996 decoded_text: the
+idx:33 input_id:6996 decoded_text: ruling
+idx:34 input_id:2187 decoded_text: left
+idx:35 input_id:2006 decoded_text: on
+idx:36 input_id:9317 decoded_text: wednesday
+idx:37 input_id:2000 decoded_text: to
+idx:38 input_id:1032 decoded_text: \
+idx:39 input_id:10824 decoded_text: abandon
+idx:40 input_id:2049 decoded_text: its
+idx:41 input_id:7226 decoded_text: bid
+idx:42 input_id:2000 decoded_text: to
+idx:43 input_id:18856 decoded_text: cl
+idx:44 input_id:2075 decoded_text: ##ing
+idx:45 input_id:2000 decoded_text: to
+idx:46 input_id:2373 decoded_text: power
+idx:47 input_id:2030 decoded_text: or
+idx:48 input_id:2227 decoded_text: face
+idx:49 input_id:2220 decoded_text: early
+idx:50 input_id:3864 decoded_text: elections
+idx:51 input_id:1012 decoded_text: .
+idx:52 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.309238433837891, -2.0941717624664307, -2.4526782035827637, -2.4347825050354004]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

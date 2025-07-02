@@ -1,0 +1,29 @@
+---------- Players ----------
+Player 0: us
+Player 1: house
+Player 2: representatives
+Player 3: passed
+Player 4: second
+Player 5: spyware
+Player 6: bill
+Player 7: thursday
+Player 8: adding
+Player 9: teeth
+Player 10: previously
+Player 11: passed
+Player 12: spyware
+Player 13: bill
+Player 14: included
+Player 15: fines
+Player 16: offenders.
+---------- Rewards ----------
+v(): 1.5152173042297363	 ([])
+v(0 2 5 7 8 9 12 15 16): 6.957760334014893	 ([us][representatives][spyware][thursday][adding][teeth][spyware][fines][offenders.])
+v(1 3 4 6 10 11 13 14): -8.571836471557617	 ([house][passed][second][bill][previously][passed][bill][included])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.304384231567383	 ([us][house][representatives][passed][second][spyware][bill][thursday][adding][teeth][previously][passed][spyware][bill][included][fines][offenders.])
+---------- Rewards-v() ----------
+v(1 3 4 6 10 11 13 14): -10.087053298950195, EP: -1.7424014806747437	 ([house][passed][second][bill][previously][passed][bill][included])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 5.7891669273376465, EP: 1.0	 ([us][house][representatives][passed][second][spyware][bill][thursday][adding][teeth][previously][passed][spyware][bill][included][fines][offenders.])
+v(0 2 5 7 8 9 12 15 16): 5.442543029785156, EP: 0.9401254057884216	 ([us][representatives][spyware][thursday][adding][teeth][spyware][fines][offenders.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: ariel
+Player 1: sharon,
+Player 2: israeliprime
+Player 3: minister,
+Player 4: yesterday
+Player 5: warned
+Player 6: rightwing
+Player 7: likud
+Player 8: party
+Player 9: would
+Player 10: face
+Player 11: early
+Player 12: elections
+Player 13: unless
+Player 14: backed
+Player 15: coalition
+Player 16: opposition
+Player 17: labour
+Player 18: party
+---------- Rewards ----------
+v(): -5.85969352722168	 ([])
+v(0 1 2 5 7): 8.198163986206055	 ([ariel][sharon,][israeliprime][warned][likud])
+v(4 8 11 12 14 15 16 17 18): 8.34012508392334	 ([yesterday][party][early][elections][backed][coalition][opposition][labour][party])
+v(3 6 9 10 13): 2.037177562713623	 ([minister,][rightwing][would][face][unless])
+v(0 1 2 4 5 7 8 11 12 14 15 16 17 18): 8.358187675476074	 ([ariel][sharon,][israeliprime][yesterday][warned][likud][party][early][elections][backed][coalition][opposition][labour][party])
+v(0 1 2 3 5 6 7 9 10 13): 8.185208320617676	 ([ariel][sharon,][israeliprime][minister,][warned][rightwing][likud][would][face][unless])
+v(3 4 6 8 9 10 11 12 13 14 15 16 17 18): 8.477171897888184	 ([minister,][yesterday][rightwing][party][would][face][early][elections][unless][backed][coalition][opposition][labour][party])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.302001953125	 ([ariel][sharon,][israeliprime][minister,][yesterday][warned][rightwing][likud][party][would][face][early][elections][unless][backed][coalition][opposition][labour][party])
+---------- Rewards-v() ----------
+v(3 4 6 8 9 10 11 12 13 14 15 16 17 18): 14.336865425109863, EP: 1.0123692750930786	 ([minister,][yesterday][rightwing][party][would][face][early][elections][unless][backed][coalition][opposition][labour][party])
+v(0 1 2 4 5 7 8 11 12 14 15 16 17 18): 14.217881202697754, EP: 1.0039674043655396	 ([ariel][sharon,][israeliprime][yesterday][warned][likud][party][early][elections][backed][coalition][opposition][labour][party])
+v(4 8 11 12 14 15 16 17 18): 14.19981861114502, EP: 1.0026919841766357	 ([yesterday][party][early][elections][backed][coalition][opposition][labour][party])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.16169548034668, EP: 1.0	 ([ariel][sharon,][israeliprime][minister,][yesterday][warned][rightwing][likud][party][would][face][early][elections][unless][backed][coalition][opposition][labour][party])
+v(0 1 2 5 7): 14.057857513427734, EP: 0.9926676750183105	 ([ariel][sharon,][israeliprime][warned][likud])
+v(0 1 2 3 5 6 7 9 10 13): 14.044901847839355, EP: 0.9917528629302979	 ([ariel][sharon,][israeliprime][minister,][warned][rightwing][likud][would][face][unless])
+v(3 6 9 10 13): 7.896871089935303, EP: 0.5576218962669373	 ([minister,][rightwing][would][face][unless])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

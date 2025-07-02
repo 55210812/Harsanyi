@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: dollar
+Player 1: may
+Player 2: rise
+Player 3: second
+Player 4: day
+Player 5: euro
+Player 6: asia
+Player 7: speculation
+Player 8: federal
+Player 9: reserve
+Player 10: policy
+Player 11: makers
+Player 12: raise
+Player 13: key
+Player 14: interest
+Player 15: rate
+Player 16: meeting
+Player 17: today
+Player 18: signal
+Player 19: increases
+Player 20: come.
+---------- Rewards ----------
+v(): -2.5902397632598877	 ([])
+v(1 2 3 7 9 12 13 14 16 17 18 19 20): 3.4850194454193115	 ([may][rise][second][speculation][reserve][raise][key][interest][meeting][today][signal][increases][come.])
+v(0 4 5 6 8 10 11 15): 3.531057834625244	 ([dollar][day][euro][asia][federal][policy][makers][rate])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.299257755279541	 ([dollar][may][rise][second][day][euro][asia][speculation][federal][reserve][policy][makers][raise][key][interest][rate][meeting][today][signal][increases][come.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.889497756958008, EP: 1.0	 ([dollar][may][rise][second][day][euro][asia][speculation][federal][reserve][policy][makers][raise][key][interest][rate][meeting][today][signal][increases][come.])
+v(0 4 5 6 8 10 11 15): 6.121297836303711, EP: 0.6189695596694946	 ([dollar][day][euro][asia][federal][policy][makers][rate])
+v(1 2 3 7 9 12 13 14 16 17 18 19 20): 6.075259208679199, EP: 0.6143142580986023	 ([may][rise][second][speculation][reserve][raise][key][interest][meeting][today][signal][increases][come.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

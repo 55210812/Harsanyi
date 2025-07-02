@@ -1,0 +1,65 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: sen.
+Player 3: john
+Player 4: kerry,
+Player 5: bracing
+Player 6: potential
+Player 7: fight
+Player 8: election
+Player 9: results,
+Player 10: hesitate
+Player 11: declare
+Player 12: victory
+Player 13: nov.
+Player 14: 2
+Player 15: defend
+Player 16: it,
+Player 17: advisers
+Player 18: say.
+Player 19: also
+Player 20: prepared
+Player 21: name
+Player 22: national
+Player 23: security
+Player 24: team
+Player 25: knowing
+Player 26: whether
+Player 27: secured
+Player 28: presidency.
+---------- Rewards ----------
+v(): -5.63021993637085	 ([])
+v(3 4): 8.080296516418457	 ([john][kerry,])
+v(0 1 5 7 8 9 11 12 13 14 19 23): 6.075432777404785	 ([ap][-][bracing][fight][election][results,][declare][victory][nov.][2][also][security])
+v(2 15 16 17 18 24 25 26 27 28): 0.17165350914001465	 ([sen.][defend][it,][advisers][say.][team][knowing][whether][secured][presidency.])
+v(6 10 20 21 22): -3.1928517818450928	 ([potential][hesitate][prepared][name][national])
+v(0 1 3 4 5 7 8 9 11 12 13 14 19 23): 8.075912475585938	 ([ap][-][john][kerry,][bracing][fight][election][results,][declare][victory][nov.][2][also][security])
+v(2 3 4 15 16 17 18 24 25 26 27 28): 7.966089725494385	 ([sen.][john][kerry,][defend][it,][advisers][say.][team][knowing][whether][secured][presidency.])
+v(3 4 6 10 20 21 22): 8.152885437011719	 ([john][kerry,][potential][hesitate][prepared][name][national])
+v(0 1 2 5 7 8 9 11 12 13 14 15 16 17 18 19 23 24 25 26 27 28): 7.473351001739502	 ([ap][-][sen.][bracing][fight][election][results,][declare][victory][nov.][2][defend][it,][advisers][say.][also][security][team][knowing][whether][secured][presidency.])
+v(0 1 5 6 7 8 9 10 11 12 13 14 19 20 21 22 23): 6.848477840423584	 ([ap][-][bracing][potential][fight][election][results,][hesitate][declare][victory][nov.][2][also][prepared][name][national][security])
+v(2 6 10 15 16 17 18 20 21 22 24 25 26 27 28): -1.256929874420166	 ([sen.][potential][hesitate][defend][it,][advisers][say.][prepared][name][national][team][knowing][whether][secured][presidency.])
+v(0 1 2 3 4 5 7 8 9 11 12 13 14 15 16 17 18 19 23 24 25 26 27 28): 7.792421817779541	 ([ap][-][sen.][john][kerry,][bracing][fight][election][results,][declare][victory][nov.][2][defend][it,][advisers][say.][also][security][team][knowing][whether][secured][presidency.])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 14 19 20 21 22 23): 8.14188289642334	 ([ap][-][john][kerry,][bracing][potential][fight][election][results,][hesitate][declare][victory][nov.][2][also][prepared][name][national][security])
+v(2 3 4 6 10 15 16 17 18 20 21 22 24 25 26 27 28): 5.692314147949219	 ([sen.][john][kerry,][potential][hesitate][defend][it,][advisers][say.][prepared][name][national][team][knowing][whether][secured][presidency.])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 8.013468742370605	 ([ap][-][sen.][bracing][potential][fight][election][results,][hesitate][declare][victory][nov.][2][defend][it,][advisers][say.][also][prepared][name][national][security][team][knowing][whether][secured][presidency.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 7.940016746520996	 ([ap][-][sen.][john][kerry,][bracing][potential][fight][election][results,][hesitate][declare][victory][nov.][2][defend][it,][advisers][say.][also][prepared][name][national][security][team][knowing][whether][secured][presidency.])
+---------- Rewards-v() ----------
+v(3 4 6 10 20 21 22): 13.783105850219727, EP: 1.0156865119934082	 ([john][kerry,][potential][hesitate][prepared][name][national])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 14 19 20 21 22 23): 13.772102355957031, EP: 1.0148756504058838	 ([ap][-][john][kerry,][bracing][potential][fight][election][results,][hesitate][declare][victory][nov.][2][also][prepared][name][national][security])
+v(3 4): 13.710515975952148, EP: 1.0103373527526855	 ([john][kerry,])
+v(0 1 3 4 5 7 8 9 11 12 13 14 19 23): 13.706132888793945, EP: 1.010014295578003	 ([ap][-][john][kerry,][bracing][fight][election][results,][declare][victory][nov.][2][also][security])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 13.643688201904297, EP: 1.0054126977920532	 ([ap][-][sen.][bracing][potential][fight][election][results,][hesitate][declare][victory][nov.][2][defend][it,][advisers][say.][also][prepared][name][national][security][team][knowing][whether][secured][presidency.])
+v(2 3 4 15 16 17 18 24 25 26 27 28): 13.596309661865234, EP: 1.0019214153289795	 ([sen.][john][kerry,][defend][it,][advisers][say.][team][knowing][whether][secured][presidency.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 13.570236206054688, EP: 1.0	 ([ap][-][sen.][john][kerry,][bracing][potential][fight][election][results,][hesitate][declare][victory][nov.][2][defend][it,][advisers][say.][also][prepared][name][national][security][team][knowing][whether][secured][presidency.])
+v(0 1 2 3 4 5 7 8 9 11 12 13 14 15 16 17 18 19 23 24 25 26 27 28): 13.42264175415039, EP: 0.9891236424446106	 ([ap][-][sen.][john][kerry,][bracing][fight][election][results,][declare][victory][nov.][2][defend][it,][advisers][say.][also][security][team][knowing][whether][secured][presidency.])
+v(0 1 2 5 7 8 9 11 12 13 14 15 16 17 18 19 23 24 25 26 27 28): 13.103570938110352, EP: 0.9656111001968384	 ([ap][-][sen.][bracing][fight][election][results,][declare][victory][nov.][2][defend][it,][advisers][say.][also][security][team][knowing][whether][secured][presidency.])
+v(0 1 5 6 7 8 9 10 11 12 13 14 19 20 21 22 23): 12.478697776794434, EP: 0.9195637702941895	 ([ap][-][bracing][potential][fight][election][results,][hesitate][declare][victory][nov.][2][also][prepared][name][national][security])
+v(0 1 5 7 8 9 11 12 13 14 19 23): 11.705652236938477, EP: 0.8625975251197815	 ([ap][-][bracing][fight][election][results,][declare][victory][nov.][2][also][security])
+v(2 3 4 6 10 15 16 17 18 20 21 22 24 25 26 27 28): 11.322534561157227, EP: 0.8343653082847595	 ([sen.][john][kerry,][potential][hesitate][defend][it,][advisers][say.][prepared][name][national][team][knowing][whether][secured][presidency.])
+v(2 15 16 17 18 24 25 26 27 28): 5.801873207092285, EP: 0.4275439977645874	 ([sen.][defend][it,][advisers][say.][team][knowing][whether][secured][presidency.])
+v(2 6 10 15 16 17 18 20 21 22 24 25 26 27 28): 4.373290061950684, EP: 0.3222707509994507	 ([sen.][potential][hesitate][defend][it,][advisers][say.][prepared][name][national][team][knowing][whether][secured][presidency.])
+v(6 10 20 21 22): 2.437368154525757, EP: 0.17961132526397705	 ([potential][hesitate][prepared][name][national])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: afghans
+Player 1: turned
+Player 2: vote
+Player 3: large
+Player 4: numbers
+Player 5: saturday,
+Player 6: hamid
+Player 7: karzai
+Player 8: rivals
+Player 9: disputed
+Player 10: integrity
+Player 11: vote.
+---------- Rewards ----------
+v(): -6.154664993286133	 ([])
+v(0 7 11): 8.320817947387695	 ([afghans][karzai][vote.])
+v(2 3 4 5): -1.3321888446807861	 ([vote][large][numbers][saturday,])
+v(1 6 8 9 10): 5.618692874908447	 ([turned][hamid][rivals][disputed][integrity])
+v(0 2 3 4 5 7 11): 8.304838180541992	 ([afghans][vote][large][numbers][saturday,][karzai][vote.])
+v(0 1 6 7 8 9 10 11): 8.406845092773438	 ([afghans][turned][hamid][karzai][rivals][disputed][integrity][vote.])
+v(1 2 3 4 5 6 8 9 10): 8.019282341003418	 ([turned][vote][large][numbers][saturday,][hamid][rivals][disputed][integrity])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 8.324389457702637	 ([afghans][turned][vote][large][numbers][saturday,][hamid][karzai][rivals][disputed][integrity][vote.])
+---------- Rewards-v() ----------
+v(0 1 6 7 8 9 10 11): 14.56151008605957, EP: 1.00569486618042	 ([afghans][turned][hamid][karzai][rivals][disputed][integrity][vote.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 14.47905445098877, EP: 1.0	 ([afghans][turned][vote][large][numbers][saturday,][hamid][karzai][rivals][disputed][integrity][vote.])
+v(0 7 11): 14.475482940673828, EP: 0.9997533559799194	 ([afghans][karzai][vote.])
+v(0 2 3 4 5 7 11): 14.459503173828125, EP: 0.9986496567726135	 ([afghans][vote][large][numbers][saturday,][karzai][vote.])
+v(1 2 3 4 5 6 8 9 10): 14.17394733428955, EP: 0.9789276719093323	 ([turned][vote][large][numbers][saturday,][hamid][rivals][disputed][integrity])
+v(1 6 8 9 10): 11.773357391357422, EP: 0.813130259513855	 ([turned][hamid][rivals][disputed][integrity])
+v(2 3 4 5): 4.822476387023926, EP: 0.3330656886100769	 ([vote][large][numbers][saturday,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

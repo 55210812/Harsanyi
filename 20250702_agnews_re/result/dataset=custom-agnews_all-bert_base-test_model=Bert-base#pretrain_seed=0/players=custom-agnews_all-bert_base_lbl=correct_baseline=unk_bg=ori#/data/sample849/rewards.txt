@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: vivendi
+Player 1: universal
+Player 2: increases
+Player 3: stake
+Player 4: morocco's
+Player 5: national
+Player 6: telecoms
+Player 7: business,
+Player 8: days
+Player 9: partially
+Player 10: floated.
+---------- Rewards ----------
+v(): -6.060445308685303	 ([])
+v(7 8 9 10): 5.857316493988037	 ([business,][days][partially][floated.])
+v(5 6): 0.0803990364074707	 ([national][telecoms])
+v(0 1 2 3 4): 4.348738193511963	 ([vivendi][universal][increases][stake][morocco's])
+v(5 6 7 8 9 10): 3.4978556632995605	 ([national][telecoms][business,][days][partially][floated.])
+v(0 1 2 3 4 7 8 9 10): 3.1071999073028564	 ([vivendi][universal][increases][stake][morocco's][business,][days][partially][floated.])
+v(0 1 2 3 4 5 6): 4.510566711425781	 ([vivendi][universal][increases][stake][morocco's][national][telecoms])
+v(0 1 2 3 4 5 6 7 8 9 10): 2.187565326690674	 ([vivendi][universal][increases][stake][morocco's][national][telecoms][business,][days][partially][floated.])
+---------- Rewards-v() ----------
+v(7 8 9 10): 11.91776180267334, EP: 1.4449256658554077	 ([business,][days][partially][floated.])
+v(0 1 2 3 4 5 6): 10.571012496948242, EP: 1.2816438674926758	 ([vivendi][universal][increases][stake][morocco's][national][telecoms])
+v(0 1 2 3 4): 10.409183502197266, EP: 1.2620235681533813	 ([vivendi][universal][increases][stake][morocco's])
+v(5 6 7 8 9 10): 9.558300971984863, EP: 1.1588613986968994	 ([national][telecoms][business,][days][partially][floated.])
+v(0 1 2 3 4 7 8 9 10): 9.167645454406738, EP: 1.1114977598190308	 ([vivendi][universal][increases][stake][morocco's][business,][days][partially][floated.])
+v(0 1 2 3 4 5 6 7 8 9 10): 8.248010635375977, EP: 1.0	 ([vivendi][universal][increases][stake][morocco's][national][telecoms][business,][days][partially][floated.])
+v(5 6): 6.140844345092773, EP: 0.7445243000984192	 ([national][telecoms])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

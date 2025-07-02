@@ -1,0 +1,63 @@
+---------- Players ----------
+Player 0: new
+Player 1: york / washington
+Player 2: ( reuters )
+Player 3: -
+Player 4: u. s.
+Player 5: supreme
+Player 6: court
+Player 7: monday
+Player 8: rejected
+Player 9: appeals
+Player 10: visa
+Player 11: mastercard
+Player 12: ruling
+Player 13: two
+Player 14: credit
+Player 15: card
+Player 16: associations
+Player 17: violated
+Player 18: antitrust
+Player 19: law
+Player 20: barring
+Player 21: banks
+Player 22: issuing
+Player 23: credit
+Player 24: cards
+Player 25: rival
+Player 26: networks.
+---------- Rewards ----------
+v(): -5.420745849609375	 ([])
+v(14 16 20 21 22 23): 7.816720962524414	 ([credit][associations][barring][banks][issuing][credit])
+v(10 11): 1.414903998374939	 ([visa][mastercard])
+v(0 2 3 4 8 9 17 18 19 25): 7.11461877822876	 ([new][( reuters )][-][u. s.][rejected][appeals][violated][antitrust][law][rival])
+v(1 5 6 7 12 13 15 24 26): 7.023396015167236	 ([york / washington][supreme][court][monday][ruling][two][card][cards][networks.])
+v(10 11 14 16 20 21 22 23): 7.746119499206543	 ([visa][mastercard][credit][associations][barring][banks][issuing][credit])
+v(0 2 3 4 8 9 14 16 17 18 19 20 21 22 23 25): 8.397088050842285	 ([new][( reuters )][-][u. s.][rejected][appeals][credit][associations][violated][antitrust][law][barring][banks][issuing][credit][rival])
+v(1 5 6 7 12 13 14 15 16 20 21 22 23 24 26): 7.912129878997803	 ([york / washington][supreme][court][monday][ruling][two][credit][card][associations][barring][banks][issuing][credit][cards][networks.])
+v(0 2 3 4 8 9 10 11 17 18 19 25): 7.5618414878845215	 ([new][( reuters )][-][u. s.][rejected][appeals][visa][mastercard][violated][antitrust][law][rival])
+v(1 5 6 7 10 11 12 13 15 24 26): 8.152064323425293	 ([york / washington][supreme][court][monday][visa][mastercard][ruling][two][card][cards][networks.])
+v(0 1 2 3 4 5 6 7 8 9 12 13 15 17 18 19 24 25 26): 8.47903823852539	 ([new][york / washington][( reuters )][-][u. s.][supreme][court][monday][rejected][appeals][ruling][two][card][violated][antitrust][law][cards][rival][networks.])
+v(0 2 3 4 8 9 10 11 14 16 17 18 19 20 21 22 23 25): 8.438754081726074	 ([new][( reuters )][-][u. s.][rejected][appeals][visa][mastercard][credit][associations][violated][antitrust][law][barring][banks][issuing][credit][rival])
+v(1 5 6 7 10 11 12 13 14 15 16 20 21 22 23 24 26): 7.891726016998291	 ([york / washington][supreme][court][monday][visa][mastercard][ruling][two][credit][card][associations][barring][banks][issuing][credit][cards][networks.])
+v(0 1 2 3 4 5 6 7 8 9 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 8.635892868041992	 ([new][york / washington][( reuters )][-][u. s.][supreme][court][monday][rejected][appeals][ruling][two][credit][card][associations][violated][antitrust][law][barring][banks][issuing][credit][cards][rival][networks.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 15 17 18 19 24 25 26): 8.546080589294434	 ([new][york / washington][( reuters )][-][u. s.][supreme][court][monday][rejected][appeals][visa][mastercard][ruling][two][card][violated][antitrust][law][cards][rival][networks.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 8.653658866882324	 ([new][york / washington][( reuters )][-][u. s.][supreme][court][monday][rejected][appeals][visa][mastercard][ruling][two][credit][card][associations][violated][antitrust][law][barring][banks][issuing][credit][cards][rival][networks.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 14.0744047164917, EP: 1.0	 ([new][york / washington][( reuters )][-][u. s.][supreme][court][monday][rejected][appeals][visa][mastercard][ruling][two][credit][card][associations][violated][antitrust][law][barring][banks][issuing][credit][cards][rival][networks.])
+v(0 1 2 3 4 5 6 7 8 9 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 14.056638717651367, EP: 0.9987376928329468	 ([new][york / washington][( reuters )][-][u. s.][supreme][court][monday][rejected][appeals][ruling][two][credit][card][associations][violated][antitrust][law][barring][banks][issuing][credit][cards][rival][networks.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 15 17 18 19 24 25 26): 13.966826438903809, EP: 0.9923564791679382	 ([new][york / washington][( reuters )][-][u. s.][supreme][court][monday][rejected][appeals][visa][mastercard][ruling][two][card][violated][antitrust][law][cards][rival][networks.])
+v(0 1 2 3 4 5 6 7 8 9 12 13 15 17 18 19 24 25 26): 13.899784088134766, EP: 0.9875930547714233	 ([new][york / washington][( reuters )][-][u. s.][supreme][court][monday][rejected][appeals][ruling][two][card][violated][antitrust][law][cards][rival][networks.])
+v(0 2 3 4 8 9 10 11 14 16 17 18 19 20 21 22 23 25): 13.85949993133545, EP: 0.9847307801246643	 ([new][( reuters )][-][u. s.][rejected][appeals][visa][mastercard][credit][associations][violated][antitrust][law][barring][banks][issuing][credit][rival])
+v(0 2 3 4 8 9 14 16 17 18 19 20 21 22 23 25): 13.81783390045166, EP: 0.981770396232605	 ([new][( reuters )][-][u. s.][rejected][appeals][credit][associations][violated][antitrust][law][barring][banks][issuing][credit][rival])
+v(1 5 6 7 10 11 12 13 15 24 26): 13.572810173034668, EP: 0.9643612504005432	 ([york / washington][supreme][court][monday][visa][mastercard][ruling][two][card][cards][networks.])
+v(1 5 6 7 12 13 14 15 16 20 21 22 23 24 26): 13.332876205444336, EP: 0.947313666343689	 ([york / washington][supreme][court][monday][ruling][two][credit][card][associations][barring][banks][issuing][credit][cards][networks.])
+v(1 5 6 7 10 11 12 13 14 15 16 20 21 22 23 24 26): 13.312471389770508, EP: 0.9458639025688171	 ([york / washington][supreme][court][monday][visa][mastercard][ruling][two][credit][card][associations][barring][banks][issuing][credit][cards][networks.])
+v(14 16 20 21 22 23): 13.237466812133789, EP: 0.940534770488739	 ([credit][associations][barring][banks][issuing][credit])
+v(10 11 14 16 20 21 22 23): 13.166865348815918, EP: 0.9355184435844421	 ([visa][mastercard][credit][associations][barring][banks][issuing][credit])
+v(0 2 3 4 8 9 10 11 17 18 19 25): 12.982587814331055, EP: 0.9224253296852112	 ([new][( reuters )][-][u. s.][rejected][appeals][visa][mastercard][violated][antitrust][law][rival])
+v(0 2 3 4 8 9 17 18 19 25): 12.535364151000977, EP: 0.890649676322937	 ([new][( reuters )][-][u. s.][rejected][appeals][violated][antitrust][law][rival])
+v(1 5 6 7 12 13 15 24 26): 12.444141387939453, EP: 0.8841682076454163	 ([york / washington][supreme][court][monday][ruling][two][card][cards][networks.])
+v(10 11): 6.8356499671936035, EP: 0.4856795072555542	 ([visa][mastercard])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

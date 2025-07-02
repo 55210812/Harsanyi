@@ -1,0 +1,25 @@
+---------- Players ----------
+Player 0: two
+Player 1: dedicated
+Player 2: pc
+Player 3: applications
+Player 4: two
+Player 5: program
+Player 6: recording.
+Player 7: extended - play
+Player 8: mode,
+Player 9: vaio
+Player 10: pc
+Player 11: store
+Player 12: 19
+---------- Rewards ----------
+v(): 6.006807804107666	 ([])
+v(0 1 3 7 9 11): 7.692953109741211	 ([two][dedicated][applications][extended - play][vaio][store])
+v(2 4 5 6 8 10 12): 6.429070472717285	 ([pc][two][program][recording.][mode,][pc][19])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 5.0396318435668945	 ([two][dedicated][pc][applications][two][program][recording.][extended - play][mode,][vaio][pc][store][19])
+---------- Rewards-v() ----------
+v(0 1 3 7 9 11): 1.686145305633545, EP: -1.743369698524475	 ([two][dedicated][applications][extended - play][vaio][store])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): -0.9671759605407715, EP: 1.0	 ([two][dedicated][pc][applications][two][program][recording.][extended - play][mode,][vaio][pc][store][19])
+v(2 4 5 6 8 10 12): 0.42226266860961914, EP: -0.4365934431552887	 ([pc][two][program][recording.][mode,][pc][19])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

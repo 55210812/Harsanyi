@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: york
+Player 1: international
+Player 2: corp.
+Player 3: ( yrk. n :
+Player 4: quote,
+Player 5: profile,
+Player 6: research )
+Player 7: subsidiary
+Player 8: agreed
+Player 9: recall
+Player 10: 226, 000
+Player 11: natural
+Player 12: gas
+Player 13: furnaces
+Player 14: fire
+Player 15: risk,
+Player 16: us
+Player 17: consumer
+Player 18: product
+Player 19: safety
+Player 20: commission
+Player 21: said
+Player 22: monday.
+---------- Rewards ----------
+v(): -5.409729480743408	 ([])
+v(8 10 11 12 18 19): 7.8082780838012695	 ([agreed][226, 000][natural][gas][product][safety])
+v(0 1 2 6 13 14 15 16 22): 7.087993621826172	 ([york][international][corp.][research )][furnaces][fire][risk,][us][monday.])
+v(3 4 5 7 9 17 20 21): 7.600798606872559	 ([( yrk. n :][quote,][profile,][subsidiary][recall][consumer][commission][said])
+v(0 1 2 6 8 10 11 12 13 14 15 16 18 19 22): 7.88021183013916	 ([york][international][corp.][research )][agreed][226, 000][natural][gas][furnaces][fire][risk,][us][product][safety][monday.])
+v(3 4 5 7 8 9 10 11 12 17 18 19 20 21): 8.446222305297852	 ([( yrk. n :][quote,][profile,][subsidiary][agreed][recall][226, 000][natural][gas][consumer][product][safety][commission][said])
+v(0 1 2 3 4 5 6 7 9 13 14 15 16 17 20 21 22): 8.362502098083496	 ([york][international][corp.][( yrk. n :][quote,][profile,][research )][subsidiary][recall][furnaces][fire][risk,][us][consumer][commission][said][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.455836296081543	 ([york][international][corp.][( yrk. n :][quote,][profile,][research )][subsidiary][agreed][recall][226, 000][natural][gas][furnaces][fire][risk,][us][consumer][product][safety][commission][said][monday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 13.86556625366211, EP: 1.0	 ([york][international][corp.][( yrk. n :][quote,][profile,][research )][subsidiary][agreed][recall][226, 000][natural][gas][furnaces][fire][risk,][us][consumer][product][safety][commission][said][monday.])
+v(3 4 5 7 8 9 10 11 12 17 18 19 20 21): 13.855951309204102, EP: 0.9993065595626831	 ([( yrk. n :][quote,][profile,][subsidiary][agreed][recall][226, 000][natural][gas][consumer][product][safety][commission][said])
+v(0 1 2 3 4 5 6 7 9 13 14 15 16 17 20 21 22): 13.772232055664062, EP: 0.993268609046936	 ([york][international][corp.][( yrk. n :][quote,][profile,][research )][subsidiary][recall][furnaces][fire][risk,][us][consumer][commission][said][monday.])
+v(0 1 2 6 8 10 11 12 13 14 15 16 18 19 22): 13.289941787719727, EP: 0.9584853053092957	 ([york][international][corp.][research )][agreed][226, 000][natural][gas][furnaces][fire][risk,][us][product][safety][monday.])
+v(8 10 11 12 18 19): 13.218008041381836, EP: 0.9532973766326904	 ([agreed][226, 000][natural][gas][product][safety])
+v(3 4 5 7 9 17 20 21): 13.010528564453125, EP: 0.9383337497711182	 ([( yrk. n :][quote,][profile,][subsidiary][recall][consumer][commission][said])
+v(0 1 2 6 13 14 15 16 22): 12.497722625732422, EP: 0.9013496041297913	 ([york][international][corp.][research )][furnaces][fire][risk,][us][monday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

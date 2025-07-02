@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: attention
+Player 1: making
+Player 2: \ $ 100, 000 :
+Player 3: internal
+Player 4: revenue
+Player 5: service
+Player 6: watching
+Player 7: closely.
+Player 8: agency
+Player 9: ramping
+Player 10: examinations
+Player 11: high - income
+Player 12: filers,
+Player 13: defines
+---------- Rewards ----------
+v(): -7.6315765380859375	 ([])
+v(4 5 11): 3.0217413902282715	 ([revenue][service][high - income])
+v(0 1 2 3 6 7 8 9 10 12 13): -3.255048990249634	 ([attention][making][\ $ 100, 000 :][internal][watching][closely.][agency][ramping][examinations][filers,][defines])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 8.402715682983398	 ([attention][making][\ $ 100, 000 :][internal][revenue][service][watching][closely.][agency][ramping][examinations][high - income][filers,][defines])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 16.034292221069336, EP: 1.0	 ([attention][making][\ $ 100, 000 :][internal][revenue][service][watching][closely.][agency][ramping][examinations][high - income][filers,][defines])
+v(4 5 11): 10.653318405151367, EP: 0.6644083857536316	 ([revenue][service][high - income])
+v(0 1 2 3 6 7 8 9 10 12 13): 4.376527786254883, EP: 0.2729479968547821	 ([attention][making][\ $ 100, 000 :][internal][watching][closely.][agency][ramping][examinations][filers,][defines])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

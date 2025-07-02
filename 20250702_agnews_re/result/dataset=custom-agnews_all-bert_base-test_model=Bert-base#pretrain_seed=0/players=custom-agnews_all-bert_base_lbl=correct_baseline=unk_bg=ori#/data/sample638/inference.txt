@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 19:32:47
+prompt: [CLS] ap - jerome bettis is often a broken - down bus by now, weary and worn out after all those games of 20 - plus carries and all the contact that goes with being an nfl power running back. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:11120 decoded_text: jerome
+idx:4 input_id:6655 decoded_text: bet
+idx:5 input_id:7315 decoded_text: ##tis
+idx:6 input_id:2003 decoded_text: is
+idx:7 input_id:2411 decoded_text: often
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:3714 decoded_text: broken
+idx:10 input_id:1011 decoded_text: -
+idx:11 input_id:2091 decoded_text: down
+idx:12 input_id:3902 decoded_text: bus
+idx:13 input_id:2011 decoded_text: by
+idx:14 input_id:2085 decoded_text: now
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:16040 decoded_text: weary
+idx:17 input_id:1998 decoded_text: and
+idx:18 input_id:6247 decoded_text: worn
+idx:19 input_id:2041 decoded_text: out
+idx:20 input_id:2044 decoded_text: after
+idx:21 input_id:2035 decoded_text: all
+idx:22 input_id:2216 decoded_text: those
+idx:23 input_id:2399 decoded_text: games
+idx:24 input_id:1997 decoded_text: of
+idx:25 input_id:2322 decoded_text: 20
+idx:26 input_id:1011 decoded_text: -
+idx:27 input_id:4606 decoded_text: plus
+idx:28 input_id:7883 decoded_text: carries
+idx:29 input_id:1998 decoded_text: and
+idx:30 input_id:2035 decoded_text: all
+idx:31 input_id:1996 decoded_text: the
+idx:32 input_id:3967 decoded_text: contact
+idx:33 input_id:2008 decoded_text: that
+idx:34 input_id:3632 decoded_text: goes
+idx:35 input_id:2007 decoded_text: with
+idx:36 input_id:2108 decoded_text: being
+idx:37 input_id:2019 decoded_text: an
+idx:38 input_id:5088 decoded_text: nfl
+idx:39 input_id:2373 decoded_text: power
+idx:40 input_id:2770 decoded_text: running
+idx:41 input_id:2067 decoded_text: back
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.7061980962753296, 8.570037841796875, -2.837909460067749, -2.4692375659942627]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

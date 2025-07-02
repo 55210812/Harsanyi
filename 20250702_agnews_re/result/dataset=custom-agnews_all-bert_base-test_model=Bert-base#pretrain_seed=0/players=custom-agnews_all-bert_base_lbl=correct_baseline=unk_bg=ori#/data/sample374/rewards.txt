@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: cuban
+Player 1: authorities
+Player 2: erected
+Player 3: huge
+Player 4: poster
+Player 5: across
+Player 6: us
+Player 7: interests
+Player 8: section
+Player 9: havana
+Player 10: depicts
+Player 11: us
+Player 12: soldiers
+Player 13: abusing
+Player 14: prisoners
+Player 15: iraq.
+---------- Rewards ----------
+v(): -6.863548278808594	 ([])
+v(0 2 3 5 6 8 14 15): 7.151796340942383	 ([cuban][erected][huge][across][us][section][prisoners][iraq.])
+v(1 4 7 9 10 13): 1.370769739151001	 ([authorities][poster][interests][havana][depicts][abusing])
+v(11 12): 4.116724014282227	 ([us][soldiers])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 15): 7.090089797973633	 ([cuban][authorities][erected][huge][poster][across][us][interests][section][havana][depicts][abusing][prisoners][iraq.])
+v(0 2 3 5 6 8 11 12 14 15): 7.438504219055176	 ([cuban][erected][huge][across][us][section][us][soldiers][prisoners][iraq.])
+v(1 4 7 9 10 11 12 13): 6.575738906860352	 ([authorities][poster][interests][havana][depicts][us][soldiers][abusing])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.418184757232666	 ([cuban][authorities][erected][huge][poster][across][us][interests][section][havana][depicts][us][soldiers][abusing][prisoners][iraq.])
+---------- Rewards-v() ----------
+v(0 2 3 5 6 8 11 12 14 15): 14.30205249786377, EP: 1.0014227628707886	 ([cuban][erected][huge][across][us][section][us][soldiers][prisoners][iraq.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 14.281732559204102, EP: 1.0	 ([cuban][authorities][erected][huge][poster][across][us][interests][section][havana][depicts][us][soldiers][abusing][prisoners][iraq.])
+v(0 2 3 5 6 8 14 15): 14.015344619750977, EP: 0.9813476204872131	 ([cuban][erected][huge][across][us][section][prisoners][iraq.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 15): 13.953638076782227, EP: 0.9770269989967346	 ([cuban][authorities][erected][huge][poster][across][us][interests][section][havana][depicts][abusing][prisoners][iraq.])
+v(1 4 7 9 10 11 12 13): 13.439287185668945, EP: 0.9410123825073242	 ([authorities][poster][interests][havana][depicts][us][soldiers][abusing])
+v(11 12): 10.98027229309082, EP: 0.768833339214325	 ([us][soldiers])
+v(1 4 7 9 10 13): 8.234317779541016, EP: 0.5765629410743713	 ([authorities][poster][interests][havana][depicts][abusing])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

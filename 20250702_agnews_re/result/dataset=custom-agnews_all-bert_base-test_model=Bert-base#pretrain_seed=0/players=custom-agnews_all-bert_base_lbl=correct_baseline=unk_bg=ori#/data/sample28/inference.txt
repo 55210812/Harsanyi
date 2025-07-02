@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 19:18:10
+prompt: [CLS] continental airlines inc. ( cal. n : quote, profile, research ) plans to eliminate about 425 management and clerical jobs, and wage cuts may be next if the revenue picture does not improve, the no. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:6803 decoded_text: continental
+idx:2 input_id:7608 decoded_text: airlines
+idx:3 input_id:4297 decoded_text: inc
+idx:4 input_id:1012 decoded_text: .
+idx:5 input_id:1006 decoded_text: (
+idx:6 input_id:10250 decoded_text: cal
+idx:7 input_id:1012 decoded_text: .
+idx:8 input_id:1050 decoded_text: n
+idx:9 input_id:1024 decoded_text: :
+idx:10 input_id:14686 decoded_text: quote
+idx:11 input_id:1010 decoded_text: ,
+idx:12 input_id:6337 decoded_text: profile
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:2470 decoded_text: research
+idx:15 input_id:1007 decoded_text: )
+idx:16 input_id:3488 decoded_text: plans
+idx:17 input_id:2000 decoded_text: to
+idx:18 input_id:11027 decoded_text: eliminate
+idx:19 input_id:2055 decoded_text: about
+idx:20 input_id:23285 decoded_text: 425
+idx:21 input_id:2968 decoded_text: management
+idx:22 input_id:1998 decoded_text: and
+idx:23 input_id:23106 decoded_text: clerical
+idx:24 input_id:5841 decoded_text: jobs
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:1998 decoded_text: and
+idx:27 input_id:11897 decoded_text: wage
+idx:28 input_id:7659 decoded_text: cuts
+idx:29 input_id:2089 decoded_text: may
+idx:30 input_id:2022 decoded_text: be
+idx:31 input_id:2279 decoded_text: next
+idx:32 input_id:2065 decoded_text: if
+idx:33 input_id:1996 decoded_text: the
+idx:34 input_id:6599 decoded_text: revenue
+idx:35 input_id:3861 decoded_text: picture
+idx:36 input_id:2515 decoded_text: does
+idx:37 input_id:2025 decoded_text: not
+idx:38 input_id:5335 decoded_text: improve
+idx:39 input_id:1010 decoded_text: ,
+idx:40 input_id:1996 decoded_text: the
+idx:41 input_id:2053 decoded_text: no
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.2772791385650635, -2.6936533451080322, 6.732189178466797, -2.6458017826080322]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

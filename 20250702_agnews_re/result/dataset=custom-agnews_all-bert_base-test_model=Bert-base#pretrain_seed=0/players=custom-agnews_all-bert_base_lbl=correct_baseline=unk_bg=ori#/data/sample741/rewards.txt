@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: woburn,
+Player 1: england
+Player 2: ( pa )
+Player 3: - -
+Player 4: two.
+Player 5: second
+Player 6: round
+Player 7: friday,
+Player 8: padraig
+Player 9: harrington
+Player 10: david
+Player 11: howell
+Player 12: members
+Player 13: european
+Player 14: ryder
+Player 15: cup
+Player 16: team
+Player 17: left
+Player 18: heritage
+Player 19: tournament
+Player 20: woburn.
+---------- Rewards ----------
+v(): -5.632572174072266	 ([])
+v(3 15 16 17 19): 7.14960241317749	 ([- -][cup][team][left][tournament])
+v(0 1 2 7 13 18 20): -3.1797609329223633	 ([woburn,][england][( pa )][friday,][european][heritage][woburn.])
+v(8 9 10 11 12 14): 7.939449787139893	 ([padraig][harrington][david][howell][members][ryder])
+v(4 5 6): -4.8016839027404785	 ([two.][second][round])
+v(0 1 2 3 7 13 15 16 17 18 19 20): 9.619980812072754	 ([woburn,][england][( pa )][- -][friday,][european][cup][team][left][heritage][tournament][woburn.])
+v(3 8 9 10 11 12 14 15 16 17 19): 9.405688285827637	 ([- -][padraig][harrington][david][howell][members][ryder][cup][team][left][tournament])
+v(3 4 5 6 15 16 17 19): 7.438984394073486	 ([- -][two.][second][round][cup][team][left][tournament])
+v(0 1 2 7 8 9 10 11 12 13 14 18 20): 9.496508598327637	 ([woburn,][england][( pa )][friday,][padraig][harrington][david][howell][members][european][ryder][heritage][woburn.])
+v(0 1 2 4 5 6 7 13 18 20): -2.7020652294158936	 ([woburn,][england][( pa )][two.][second][round][friday,][european][heritage][woburn.])
+v(4 5 6 8 9 10 11 12 14): 9.305343627929688	 ([two.][second][round][padraig][harrington][david][howell][members][ryder])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.643665313720703	 ([woburn,][england][( pa )][- -][friday,][padraig][harrington][david][howell][members][european][ryder][cup][team][left][heritage][tournament][woburn.])
+v(0 1 2 3 4 5 6 7 13 15 16 17 18 19 20): 9.629058837890625	 ([woburn,][england][( pa )][- -][two.][second][round][friday,][european][cup][team][left][heritage][tournament][woburn.])
+v(3 4 5 6 8 9 10 11 12 14 15 16 17 19): 9.44056224822998	 ([- -][two.][second][round][padraig][harrington][david][howell][members][ryder][cup][team][left][tournament])
+v(0 1 2 4 5 6 7 8 9 10 11 12 13 14 18 20): 9.546758651733398	 ([woburn,][england][( pa )][two.][second][round][friday,][padraig][harrington][david][howell][members][european][ryder][heritage][woburn.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.664152145385742	 ([woburn,][england][( pa )][- -][two.][second][round][friday,][padraig][harrington][david][howell][members][european][ryder][cup][team][left][heritage][tournament][woburn.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 15.296724319458008, EP: 1.0	 ([woburn,][england][( pa )][- -][two.][second][round][friday,][padraig][harrington][david][howell][members][european][ryder][cup][team][left][heritage][tournament][woburn.])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 15.276237487792969, EP: 0.998660683631897	 ([woburn,][england][( pa )][- -][friday,][padraig][harrington][david][howell][members][european][ryder][cup][team][left][heritage][tournament][woburn.])
+v(0 1 2 3 4 5 6 7 13 15 16 17 18 19 20): 15.26163101196289, EP: 0.9977058172225952	 ([woburn,][england][( pa )][- -][two.][second][round][friday,][european][cup][team][left][heritage][tournament][woburn.])
+v(0 1 2 3 7 13 15 16 17 18 19 20): 15.25255298614502, EP: 0.9971123933792114	 ([woburn,][england][( pa )][- -][friday,][european][cup][team][left][heritage][tournament][woburn.])
+v(0 1 2 4 5 6 7 8 9 10 11 12 13 14 18 20): 15.179330825805664, EP: 0.9923256039619446	 ([woburn,][england][( pa )][two.][second][round][friday,][padraig][harrington][david][howell][members][european][ryder][heritage][woburn.])
+v(0 1 2 7 8 9 10 11 12 13 14 18 20): 15.129080772399902, EP: 0.9890405535697937	 ([woburn,][england][( pa )][friday,][padraig][harrington][david][howell][members][european][ryder][heritage][woburn.])
+v(3 4 5 6 8 9 10 11 12 14 15 16 17 19): 15.073134422302246, EP: 0.985383152961731	 ([- -][two.][second][round][padraig][harrington][david][howell][members][ryder][cup][team][left][tournament])
+v(3 8 9 10 11 12 14 15 16 17 19): 15.038260459899902, EP: 0.983103334903717	 ([- -][padraig][harrington][david][howell][members][ryder][cup][team][left][tournament])
+v(4 5 6 8 9 10 11 12 14): 14.937915802001953, EP: 0.9765434265136719	 ([two.][second][round][padraig][harrington][david][howell][members][ryder])
+v(8 9 10 11 12 14): 13.572021484375, EP: 0.8872501850128174	 ([padraig][harrington][david][howell][members][ryder])
+v(3 4 5 6 15 16 17 19): 13.071556091308594, EP: 0.8545330166816711	 ([- -][two.][second][round][cup][team][left][tournament])
+v(3 15 16 17 19): 12.782175064086914, EP: 0.8356151580810547	 ([- -][cup][team][left][tournament])
+v(0 1 2 4 5 6 7 13 18 20): 2.930506944656372, EP: 0.19157741963863373	 ([woburn,][england][( pa )][two.][second][round][friday,][european][heritage][woburn.])
+v(0 1 2 7 13 18 20): 2.4528112411499023, EP: 0.1603487879037857	 ([woburn,][england][( pa )][friday,][european][heritage][woburn.])
+v(4 5 6): 0.8308882713317871, EP: 0.05431805178523064	 ([two.][second][round])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

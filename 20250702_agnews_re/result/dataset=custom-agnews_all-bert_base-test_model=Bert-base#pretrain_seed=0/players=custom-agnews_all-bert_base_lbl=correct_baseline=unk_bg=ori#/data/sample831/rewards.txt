@@ -1,0 +1,28 @@
+---------- Players ----------
+Player 0: fcc
+Player 1: # 39 ; s
+Player 2: wireless
+Player 3: telecommunications
+Player 4: bureau
+Player 5: recommended
+Player 6: clearing
+Player 7: cingular
+Player 8: # 39 ; s
+Player 9: buyout
+Player 10: amp ; t
+Player 11: wireless
+Player 12: minimal
+Player 13: divestitures
+Player 14: two
+Player 15: companies.
+---------- Rewards ----------
+v(): 3.516005754470825	 ([])
+v(0 1 2 3 4 8 9 11 12): 1.4877886772155762	 ([fcc][# 39 ; s][wireless][telecommunications][bureau][# 39 ; s][buyout][wireless][minimal])
+v(5 6 7 10 13 14 15): -7.405596733093262	 ([recommended][clearing][cingular][amp ; t][divestitures][two][companies.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 0.00014662742614746094	 ([fcc][# 39 ; s][wireless][telecommunications][bureau][recommended][clearing][cingular][# 39 ; s][buyout][amp ; t][wireless][minimal][divestitures][two][companies.])
+---------- Rewards-v() ----------
+v(5 6 7 10 13 14 15): -10.921602249145508, EP: 3.106382131576538	 ([recommended][clearing][cingular][amp ; t][divestitures][two][companies.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): -3.5158591270446777, EP: 1.0	 ([fcc][# 39 ; s][wireless][telecommunications][bureau][recommended][clearing][cingular][# 39 ; s][buyout][amp ; t][wireless][minimal][divestitures][two][companies.])
+v(0 1 2 3 4 8 9 11 12): -2.028217077255249, EP: 0.5768766403198242	 ([fcc][# 39 ; s][wireless][telecommunications][bureau][# 39 ; s][buyout][wireless][minimal])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: iran
+Player 1: # 39 ; s
+Player 2: foreign
+Player 3: minister
+Player 4: says
+Player 5: tehran
+Player 6: never
+Player 7: fully
+Player 8: dismantle
+Player 9: nuclear
+Player 10: capabilities,
+Player 11: also
+Player 12: voicing
+Player 13: country
+Player 14: # 39 ; s
+Player 15: concerns
+Player 16: threat
+Player 17: pre - emptive
+Player 18: strike
+Player 19: washington.
+---------- Rewards ----------
+v(): -7.909073829650879	 ([])
+v(0 1 5 7 8 9 10 15): 7.314219951629639	 ([iran][# 39 ; s][tehran][fully][dismantle][nuclear][capabilities,][concerns])
+v(11 12 13 14 16 19): -8.788450241088867	 ([also][voicing][country][# 39 ; s][threat][washington.])
+v(2 3 4 6 17 18): 5.564160346984863	 ([foreign][minister][says][never][pre - emptive][strike])
+v(0 1 5 7 8 9 10 11 12 13 14 15 16 19): 6.814363479614258	 ([iran][# 39 ; s][tehran][fully][dismantle][nuclear][capabilities,][also][voicing][country][# 39 ; s][concerns][threat][washington.])
+v(0 1 2 3 4 5 6 7 8 9 10 15 17 18): 7.6070356369018555	 ([iran][# 39 ; s][foreign][minister][says][tehran][never][fully][dismantle][nuclear][capabilities,][concerns][pre - emptive][strike])
+v(2 3 4 6 11 12 13 14 16 17 18 19): 0.5068691968917847	 ([foreign][minister][says][never][also][voicing][country][# 39 ; s][threat][pre - emptive][strike][washington.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.500434398651123	 ([iran][# 39 ; s][foreign][minister][says][tehran][never][fully][dismantle][nuclear][capabilities,][also][voicing][country][# 39 ; s][concerns][threat][pre - emptive][strike][washington.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 15 17 18): 15.516109466552734, EP: 1.006917953491211	 ([iran][# 39 ; s][foreign][minister][says][tehran][never][fully][dismantle][nuclear][capabilities,][concerns][pre - emptive][strike])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 15.409507751464844, EP: 1.0	 ([iran][# 39 ; s][foreign][minister][says][tehran][never][fully][dismantle][nuclear][capabilities,][also][voicing][country][# 39 ; s][concerns][threat][pre - emptive][strike][washington.])
+v(0 1 5 7 8 9 10 15): 15.22329330444336, EP: 0.9879156351089478	 ([iran][# 39 ; s][tehran][fully][dismantle][nuclear][capabilities,][concerns])
+v(0 1 5 7 8 9 10 11 12 13 14 15 16 19): 14.723437309265137, EP: 0.9554774761199951	 ([iran][# 39 ; s][tehran][fully][dismantle][nuclear][capabilities,][also][voicing][country][# 39 ; s][concerns][threat][washington.])
+v(2 3 4 6 17 18): 13.473234176635742, EP: 0.8743455410003662	 ([foreign][minister][says][never][pre - emptive][strike])
+v(2 3 4 6 11 12 13 14 16 17 18 19): 8.415943145751953, EP: 0.546152651309967	 ([foreign][minister][says][never][also][voicing][country][# 39 ; s][threat][pre - emptive][strike][washington.])
+v(11 12 13 14 16 19): -0.8793764114379883, EP: -0.057067133486270905	 ([also][voicing][country][# 39 ; s][threat][washington.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

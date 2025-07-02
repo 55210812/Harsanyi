@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: steelers
+Player 1: ( 6 - 1 )
+Player 2: beat
+Player 3: visiting
+Player 4: eagles
+Player 5: ( 7 - 0 ),
+Player 6: # 39 ; ll
+Player 7: first
+Player 8: team
+Player 9: defeat
+Player 10: unbeaten
+Player 11: foes
+Player 12: consecutive
+Player 13: games
+Player 14: deep
+Player 15: season.
+---------- Rewards ----------
+v(): -4.749528408050537	 ([])
+v(0 1 4 5 6): 9.703201293945312	 ([steelers][( 6 - 1 )][eagles][( 7 - 0 ),][# 39 ; ll])
+v(9 11): -5.638903617858887	 ([defeat][foes])
+v(2 3 7 8 10 12 13 14 15): 9.73423957824707	 ([beat][visiting][first][team][unbeaten][consecutive][games][deep][season.])
+v(0 1 4 5 6 9 11): 9.712448120117188	 ([steelers][( 6 - 1 )][eagles][( 7 - 0 ),][# 39 ; ll][defeat][foes])
+v(0 1 2 3 4 5 6 7 8 10 12 13 14 15): 9.544172286987305	 ([steelers][( 6 - 1 )][beat][visiting][eagles][( 7 - 0 ),][# 39 ; ll][first][team][unbeaten][consecutive][games][deep][season.])
+v(2 3 7 8 9 10 11 12 13 14 15): 9.66793155670166	 ([beat][visiting][first][team][defeat][unbeaten][foes][consecutive][games][deep][season.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.40112018585205	 ([steelers][( 6 - 1 )][beat][visiting][eagles][( 7 - 0 ),][# 39 ; ll][first][team][defeat][unbeaten][foes][consecutive][games][deep][season.])
+---------- Rewards-v() ----------
+v(2 3 7 8 10 12 13 14 15): 14.483768463134766, EP: 1.02354097366333	 ([beat][visiting][first][team][unbeaten][consecutive][games][deep][season.])
+v(0 1 4 5 6 9 11): 14.461977005004883, EP: 1.022001028060913	 ([steelers][( 6 - 1 )][eagles][( 7 - 0 ),][# 39 ; ll][defeat][foes])
+v(0 1 4 5 6): 14.452730178833008, EP: 1.0213475227355957	 ([steelers][( 6 - 1 )][eagles][( 7 - 0 ),][# 39 ; ll])
+v(2 3 7 8 9 10 11 12 13 14 15): 14.417459487915039, EP: 1.018855094909668	 ([beat][visiting][first][team][defeat][unbeaten][foes][consecutive][games][deep][season.])
+v(0 1 2 3 4 5 6 7 8 10 12 13 14 15): 14.293701171875, EP: 1.010109305381775	 ([steelers][( 6 - 1 )][beat][visiting][eagles][( 7 - 0 ),][# 39 ; ll][first][team][unbeaten][consecutive][games][deep][season.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 14.15064811706543, EP: 1.0	 ([steelers][( 6 - 1 )][beat][visiting][eagles][( 7 - 0 ),][# 39 ; ll][first][team][defeat][unbeaten][foes][consecutive][games][deep][season.])
+v(9 11): -0.8893752098083496, EP: -0.06285049021244049	 ([defeat][foes])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

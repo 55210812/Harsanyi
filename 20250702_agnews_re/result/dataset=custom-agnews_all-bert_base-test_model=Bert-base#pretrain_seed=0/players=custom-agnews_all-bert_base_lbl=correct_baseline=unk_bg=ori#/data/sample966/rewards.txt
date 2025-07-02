@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: removed
+Player 1: wants
+Player 2: based
+Player 3: game
+Player 4: situation,
+Player 5: number
+Player 6: pitches
+Player 7: thrown.
+Player 8: staff
+Player 9: ace
+Player 10: reached
+Player 11: imposed
+Player 12: pitch
+Player 13: count
+Player 14: 70
+Player 15: baltimore
+Player 16: three
+Player 17: innings
+Player 18: last
+Player 19: night.
+---------- Rewards ----------
+v(): -2.8782918453216553	 ([])
+v(6 12 15 16 17 18 19): 9.505704879760742	 ([pitches][pitch][baltimore][three][innings][last][night.])
+v(0 2 5 7 8 9 10 11): 6.866023540496826	 ([removed][based][number][thrown.][staff][ace][reached][imposed])
+v(1 3 4 13 14): 5.813089370727539	 ([wants][game][situation,][count][70])
+v(0 2 5 6 7 8 9 10 11 12 15 16 17 18 19): 9.565570831298828	 ([removed][based][number][pitches][thrown.][staff][ace][reached][imposed][pitch][baltimore][three][innings][last][night.])
+v(1 3 4 6 12 13 14 15 16 17 18 19): 9.629301071166992	 ([wants][game][situation,][pitches][pitch][count][70][baltimore][three][innings][last][night.])
+v(0 1 2 3 4 5 7 8 9 10 11 13 14): 8.573248863220215	 ([removed][wants][based][game][situation,][number][thrown.][staff][ace][reached][imposed][count][70])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.234148025512695	 ([removed][wants][based][game][situation,][number][pitches][thrown.][staff][ace][reached][imposed][pitch][count][70][baltimore][three][innings][last][night.])
+---------- Rewards-v() ----------
+v(1 3 4 6 12 13 14 15 16 17 18 19): 12.507593154907227, EP: 1.0326237678527832	 ([wants][game][situation,][pitches][pitch][count][70][baltimore][three][innings][last][night.])
+v(0 2 5 6 7 8 9 10 11 12 15 16 17 18 19): 12.443862915039062, EP: 1.0273622274398804	 ([removed][based][number][pitches][thrown.][staff][ace][reached][imposed][pitch][baltimore][three][innings][last][night.])
+v(6 12 15 16 17 18 19): 12.383996963500977, EP: 1.0224196910858154	 ([pitches][pitch][baltimore][three][innings][last][night.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 12.11244010925293, EP: 1.0	 ([removed][wants][based][game][situation,][number][pitches][thrown.][staff][ace][reached][imposed][pitch][count][70][baltimore][three][innings][last][night.])
+v(0 1 2 3 4 5 7 8 9 10 11 13 14): 11.45154094696045, EP: 0.9454363584518433	 ([removed][wants][based][game][situation,][number][thrown.][staff][ace][reached][imposed][count][70])
+v(0 2 5 7 8 9 10 11): 9.744315147399902, EP: 0.8044881820678711	 ([removed][based][number][thrown.][staff][ace][reached][imposed])
+v(1 3 4 13 14): 8.691381454467773, EP: 0.7175582647323608	 ([wants][game][situation,][count][70])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

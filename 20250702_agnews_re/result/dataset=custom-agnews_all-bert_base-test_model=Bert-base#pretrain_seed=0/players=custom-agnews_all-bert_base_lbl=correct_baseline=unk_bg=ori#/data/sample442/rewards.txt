@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: north
+Player 1: korea
+Player 2: says
+Player 3: bilateral
+Player 4: talks
+Player 5: south
+Player 6: korea
+Player 7: unless
+Player 8: south
+Player 9: # 39 ; s
+Player 10: secret
+Player 11: nuclear
+Player 12: experiments
+Player 13: thoroughly
+Player 14: investigated.
+---------- Rewards ----------
+v(): -7.95026969909668	 ([])
+v(0 2 7 8 11 12): -4.906707763671875	 ([north][says][unless][south][nuclear][experiments])
+v(1 6 10 13 14): -2.724813461303711	 ([korea][korea][secret][thoroughly][investigated.])
+v(3 4 5 9): 4.855078220367432	 ([bilateral][talks][south][# 39 ; s])
+v(0 1 2 6 7 8 10 11 12 13 14): 8.308309555053711	 ([north][korea][says][korea][unless][south][secret][nuclear][experiments][thoroughly][investigated.])
+v(0 2 3 4 5 7 8 9 11 12): 6.335788726806641	 ([north][says][bilateral][talks][south][unless][south][# 39 ; s][nuclear][experiments])
+v(1 3 4 5 6 9 10 13 14): 6.986810684204102	 ([korea][bilateral][talks][south][korea][# 39 ; s][secret][thoroughly][investigated.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 7.96243953704834	 ([north][korea][says][bilateral][talks][south][korea][unless][south][# 39 ; s][secret][nuclear][experiments][thoroughly][investigated.])
+---------- Rewards-v() ----------
+v(0 1 2 6 7 8 10 11 12 13 14): 16.25857925415039, EP: 1.021735429763794	 ([north][korea][says][korea][unless][south][secret][nuclear][experiments][thoroughly][investigated.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 15.91270923614502, EP: 1.0	 ([north][korea][says][bilateral][talks][south][korea][unless][south][# 39 ; s][secret][nuclear][experiments][thoroughly][investigated.])
+v(1 3 4 5 6 9 10 13 14): 14.937080383300781, EP: 0.9386886954307556	 ([korea][bilateral][talks][south][korea][# 39 ; s][secret][thoroughly][investigated.])
+v(0 2 3 4 5 7 8 9 11 12): 14.28605842590332, EP: 0.8977766036987305	 ([north][says][bilateral][talks][south][unless][south][# 39 ; s][nuclear][experiments])
+v(3 4 5 9): 12.805347442626953, EP: 0.8047245144844055	 ([bilateral][talks][south][# 39 ; s])
+v(1 6 10 13 14): 5.225456237792969, EP: 0.32838255167007446	 ([korea][korea][secret][thoroughly][investigated.])
+v(0 2 7 8 11 12): 3.0435619354248047, EP: 0.19126610457897186	 ([north][says][unless][south][nuclear][experiments])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

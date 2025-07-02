@@ -1,0 +1,28 @@
+Execution time: 2025-07-02 19:23:34
+prompt: [CLS] india's sachin tendulkar ties the record for test centuries, against bangladesh. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2634 decoded_text: india
+idx:2 input_id:1005 decoded_text: '
+idx:3 input_id:1055 decoded_text: s
+idx:4 input_id:17266 decoded_text: sac
+idx:5 input_id:10606 decoded_text: ##hin
+idx:6 input_id:7166 decoded_text: tend
+idx:7 input_id:5313 decoded_text: ##ul
+idx:8 input_id:6673 decoded_text: ##kar
+idx:9 input_id:7208 decoded_text: ties
+idx:10 input_id:1996 decoded_text: the
+idx:11 input_id:2501 decoded_text: record
+idx:12 input_id:2005 decoded_text: for
+idx:13 input_id:3231 decoded_text: test
+idx:14 input_id:4693 decoded_text: centuries
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:2114 decoded_text: against
+idx:17 input_id:7269 decoded_text: bangladesh
+idx:18 input_id:1012 decoded_text: .
+idx:19 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.2662811279296875, -2.5636022090911865, -1.872064232826233, -1.8387326002120972]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

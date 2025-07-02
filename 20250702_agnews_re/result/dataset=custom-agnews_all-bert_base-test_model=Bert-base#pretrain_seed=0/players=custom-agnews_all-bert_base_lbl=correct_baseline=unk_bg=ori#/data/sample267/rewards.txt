@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: jakarta
+Player 1: ( antara ) :
+Player 2: presidential
+Player 3: front - runner
+Player 4: susilo
+Player 5: bambang
+Player 6: yudhoyono,
+Player 7: leading
+Player 8: vote - count
+Player 9: wide
+Player 10: margin
+Player 11: ahead
+Player 12: president
+Player 13: megawati
+Player 14: soekarnoputri,
+Player 15: likely
+Player 16: start
+Player 17: drawing
+Player 18: cabinet
+Player 19: oct.
+Player 20: 5.,
+Player 21: party
+Player 22: leader
+Player 23: said.
+---------- Rewards ----------
+v(): -4.586789131164551	 ([])
+v(0 5 6 7 13 14): 5.4419660568237305	 ([jakarta][bambang][yudhoyono,][leading][megawati][soekarnoputri,])
+v(1 2 3 4 12 21 22 23): 8.438963890075684	 ([( antara ) :][presidential][front - runner][susilo][president][party][leader][said.])
+v(8 9 10 11 15 16 17 18 19 20): 6.70502233505249	 ([vote - count][wide][margin][ahead][likely][start][drawing][cabinet][oct.][5.,])
+v(0 1 2 3 4 5 6 7 12 13 14 21 22 23): 8.286894798278809	 ([jakarta][( antara ) :][presidential][front - runner][susilo][bambang][yudhoyono,][leading][president][megawati][soekarnoputri,][party][leader][said.])
+v(0 5 6 7 8 9 10 11 13 14 15 16 17 18 19 20): 8.512582778930664	 ([jakarta][bambang][yudhoyono,][leading][vote - count][wide][margin][ahead][megawati][soekarnoputri,][likely][start][drawing][cabinet][oct.][5.,])
+v(1 2 3 4 8 9 10 11 12 15 16 17 18 19 20 21 22 23): 8.572796821594238	 ([( antara ) :][presidential][front - runner][susilo][vote - count][wide][margin][ahead][president][likely][start][drawing][cabinet][oct.][5.,][party][leader][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.532548904418945	 ([jakarta][( antara ) :][presidential][front - runner][susilo][bambang][yudhoyono,][leading][vote - count][wide][margin][ahead][president][megawati][soekarnoputri,][likely][start][drawing][cabinet][oct.][5.,][party][leader][said.])
+---------- Rewards-v() ----------
+v(1 2 3 4 8 9 10 11 12 15 16 17 18 19 20 21 22 23): 13.159585952758789, EP: 1.0030678510665894	 ([( antara ) :][presidential][front - runner][susilo][vote - count][wide][margin][ahead][president][likely][start][drawing][cabinet][oct.][5.,][party][leader][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 13.119338035583496, EP: 1.0	 ([jakarta][( antara ) :][presidential][front - runner][susilo][bambang][yudhoyono,][leading][vote - count][wide][margin][ahead][president][megawati][soekarnoputri,][likely][start][drawing][cabinet][oct.][5.,][party][leader][said.])
+v(0 5 6 7 8 9 10 11 13 14 15 16 17 18 19 20): 13.099371910095215, EP: 0.99847811460495	 ([jakarta][bambang][yudhoyono,][leading][vote - count][wide][margin][ahead][megawati][soekarnoputri,][likely][start][drawing][cabinet][oct.][5.,])
+v(1 2 3 4 12 21 22 23): 13.025753021240234, EP: 0.9928666353225708	 ([( antara ) :][presidential][front - runner][susilo][president][party][leader][said.])
+v(0 1 2 3 4 5 6 7 12 13 14 21 22 23): 12.87368392944336, EP: 0.9812754392623901	 ([jakarta][( antara ) :][presidential][front - runner][susilo][bambang][yudhoyono,][leading][president][megawati][soekarnoputri,][party][leader][said.])
+v(8 9 10 11 15 16 17 18 19 20): 11.291810989379883, EP: 0.8606997728347778	 ([vote - count][wide][margin][ahead][likely][start][drawing][cabinet][oct.][5.,])
+v(0 5 6 7 13 14): 10.028755187988281, EP: 0.7644253969192505	 ([jakarta][bambang][yudhoyono,][leading][megawati][soekarnoputri,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

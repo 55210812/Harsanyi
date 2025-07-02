@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: volley
+Player 1: lawsuits
+Player 2: launched
+Player 3: alleged
+Player 4: spammers
+Player 5: thursday
+Player 6: four
+Player 7: major
+Player 8: us
+Player 9: internet
+Player 10: service
+Player 11: providers.
+Player 12: includes
+Player 13: case
+Player 14: brought
+Player 15: aol
+Player 16: twenty
+Player 17: individuals
+Player 18: accused
+Player 19: spimming,
+---------- Rewards ----------
+v(): 3.1642813682556152	 ([])
+v(4 5 9): 7.381826877593994	 ([spammers][thursday][internet])
+v(6 7 8 10 11): -2.8218493461608887	 ([four][major][us][service][providers.])
+v(0 1 12 13 14 15 16 17 18 19): -0.9791767597198486	 ([volley][lawsuits][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(2 3): 2.5386922359466553	 ([launched][alleged])
+v(4 5 6 7 8 9 10 11): 7.691261291503906	 ([spammers][thursday][four][major][us][internet][service][providers.])
+v(0 1 4 5 9 12 13 14 15 16 17 18 19): 7.466355800628662	 ([volley][lawsuits][spammers][thursday][internet][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(2 3 4 5 9): 7.773338317871094	 ([launched][alleged][spammers][thursday][internet])
+v(0 1 6 7 8 10 11 12 13 14 15 16 17 18 19): -1.703061580657959	 ([volley][lawsuits][four][major][us][service][providers.][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(2 3 6 7 8 10 11): 0.7071750164031982	 ([launched][alleged][four][major][us][service][providers.])
+v(0 1 2 3 12 13 14 15 16 17 18 19): 0.009457588195800781	 ([volley][lawsuits][launched][alleged][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.384769439697266	 ([volley][lawsuits][spammers][thursday][four][major][us][internet][service][providers.][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(2 3 4 5 6 7 8 9 10 11): 7.9380035400390625	 ([launched][alleged][spammers][thursday][four][major][us][internet][service][providers.])
+v(0 1 2 3 4 5 9 12 13 14 15 16 17 18 19): 8.04267406463623	 ([volley][lawsuits][launched][alleged][spammers][thursday][internet][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(0 1 2 3 6 7 8 10 11 12 13 14 15 16 17 18 19): 0.13176751136779785	 ([volley][lawsuits][launched][alleged][four][major][us][service][providers.][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.623116493225098	 ([volley][lawsuits][launched][alleged][spammers][thursday][four][major][us][internet][service][providers.][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+---------- Rewards-v() ----------
+v(6 7 8 10 11): -5.986130714416504, EP: -1.3425323963165283	 ([four][major][us][service][providers.])
+v(0 1 2 3 4 5 9 12 13 14 15 16 17 18 19): 4.878392696380615, EP: 1.0940958261489868	 ([volley][lawsuits][launched][alleged][spammers][thursday][internet][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(0 1 6 7 8 10 11 12 13 14 15 16 17 18 19): -4.867342948913574, EP: -1.0916175842285156	 ([volley][lawsuits][four][major][us][service][providers.][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(2 3 4 5 6 7 8 9 10 11): 4.773722171783447, EP: 1.0706208944320679	 ([launched][alleged][spammers][thursday][four][major][us][internet][service][providers.])
+v(2 3 4 5 9): 4.6090569496154785, EP: 1.0336908102035522	 ([launched][alleged][spammers][thursday][internet])
+v(4 5 6 7 8 9 10 11): 4.526979923248291, EP: 1.0152831077575684	 ([spammers][thursday][four][major][us][internet][service][providers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 4.458835124969482, EP: 1.0	 ([volley][lawsuits][launched][alleged][spammers][thursday][four][major][us][internet][service][providers.][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(0 1 4 5 9 12 13 14 15 16 17 18 19): 4.302074432373047, EP: 0.964842677116394	 ([volley][lawsuits][spammers][thursday][internet][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 4.22048807144165, EP: 0.9465450048446655	 ([volley][lawsuits][spammers][thursday][four][major][us][internet][service][providers.][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(4 5 9): 4.217545509338379, EP: 0.9458850622177124	 ([spammers][thursday][internet])
+v(0 1 12 13 14 15 16 17 18 19): -4.143458366394043, EP: -0.9292692542076111	 ([volley][lawsuits][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(0 1 2 3 12 13 14 15 16 17 18 19): -3.1548237800598145, EP: -0.7075443863868713	 ([volley][lawsuits][launched][alleged][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(0 1 2 3 6 7 8 10 11 12 13 14 15 16 17 18 19): -3.0325138568878174, EP: -0.6801134943962097	 ([volley][lawsuits][launched][alleged][four][major][us][service][providers.][includes][case][brought][aol][twenty][individuals][accused][spimming,])
+v(2 3 6 7 8 10 11): -2.457106351852417, EP: -0.5510646104812622	 ([launched][alleged][four][major][us][service][providers.])
+v(2 3): -0.62558913230896, EP: -0.14030326902866364	 ([launched][alleged])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

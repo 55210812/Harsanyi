@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: bush
+Player 1: administration
+Player 2: thursday
+Player 3: rejected
+Player 4: call
+Player 5: labor,
+Player 6: textile
+Player 7: steel
+Player 8: groups
+Player 9: investigation
+Player 10: value
+Player 11: china
+Player 12: # 39 ; s
+Player 13: currency
+Player 14: could
+Player 15: lead
+---------- Rewards ----------
+v(): -4.9532647132873535	 ([])
+v(1 5 6 13): 3.2426257133483887	 ([administration][labor,][textile][currency])
+v(7 8 10 11 12 14): 3.7784173488616943	 ([steel][groups][value][china][# 39 ; s][could])
+v(0 2 3 4 9 15): -6.254154205322266	 ([bush][thursday][rejected][call][investigation][lead])
+v(1 5 6 7 8 10 11 12 13 14): 1.7837693691253662	 ([administration][labor,][textile][steel][groups][value][china][# 39 ; s][currency][could])
+v(0 1 2 3 4 5 6 9 13 15): 6.340404510498047	 ([bush][administration][thursday][rejected][call][labor,][textile][investigation][currency][lead])
+v(0 2 3 4 7 8 9 10 11 12 14 15): 2.756587266921997	 ([bush][thursday][rejected][call][steel][groups][investigation][value][china][# 39 ; s][could][lead])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 6.990513324737549	 ([bush][administration][thursday][rejected][call][labor,][textile][steel][groups][investigation][value][china][# 39 ; s][currency][could][lead])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 11.943778038024902, EP: 1.0	 ([bush][administration][thursday][rejected][call][labor,][textile][steel][groups][investigation][value][china][# 39 ; s][currency][could][lead])
+v(0 1 2 3 4 5 6 9 13 15): 11.293668746948242, EP: 0.9455692172050476	 ([bush][administration][thursday][rejected][call][labor,][textile][investigation][currency][lead])
+v(7 8 10 11 12 14): 8.731681823730469, EP: 0.7310653328895569	 ([steel][groups][value][china][# 39 ; s][could])
+v(1 5 6 13): 8.195890426635742, EP: 0.6862058639526367	 ([administration][labor,][textile][currency])
+v(0 2 3 4 7 8 9 10 11 12 14 15): 7.70985221862793, EP: 0.6455119848251343	 ([bush][thursday][rejected][call][steel][groups][investigation][value][china][# 39 ; s][could][lead])
+v(1 5 6 7 8 10 11 12 13 14): 6.737033843994141, EP: 0.564062237739563	 ([administration][labor,][textile][steel][groups][value][china][# 39 ; s][currency][could])
+v(0 2 3 4 9 15): -1.300889492034912, EP: -0.10891775786876678	 ([bush][thursday][rejected][call][investigation][lead])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

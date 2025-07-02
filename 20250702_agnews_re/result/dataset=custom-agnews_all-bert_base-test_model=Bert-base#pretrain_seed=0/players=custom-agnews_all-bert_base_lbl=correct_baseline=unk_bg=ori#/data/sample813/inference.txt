@@ -1,0 +1,55 @@
+Execution time: 2025-07-02 19:37:30
+prompt: [CLS] tel aviv, november 7 ( ria novosti ) - yasser arafat, palestinian authority leader, is badly ill in a french hospital. debates where to bury him are already raging in the israeli political community, meanwhile. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:10093 decoded_text: tel
+idx:2 input_id:12724 decoded_text: aviv
+idx:3 input_id:1010 decoded_text: ,
+idx:4 input_id:2281 decoded_text: november
+idx:5 input_id:1021 decoded_text: 7
+idx:6 input_id:1006 decoded_text: (
+idx:7 input_id:15544 decoded_text: ri
+idx:8 input_id:2050 decoded_text: ##a
+idx:9 input_id:24576 decoded_text: novo
+idx:10 input_id:16643 decoded_text: ##sti
+idx:11 input_id:1007 decoded_text: )
+idx:12 input_id:1011 decoded_text: -
+idx:13 input_id:8038 decoded_text: ya
+idx:14 input_id:18116 decoded_text: ##sser
+idx:15 input_id:19027 decoded_text: ara
+idx:16 input_id:27753 decoded_text: ##fat
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:9302 decoded_text: palestinian
+idx:19 input_id:3691 decoded_text: authority
+idx:20 input_id:3003 decoded_text: leader
+idx:21 input_id:1010 decoded_text: ,
+idx:22 input_id:2003 decoded_text: is
+idx:23 input_id:6649 decoded_text: badly
+idx:24 input_id:5665 decoded_text: ill
+idx:25 input_id:1999 decoded_text: in
+idx:26 input_id:1037 decoded_text: a
+idx:27 input_id:2413 decoded_text: french
+idx:28 input_id:2902 decoded_text: hospital
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:14379 decoded_text: debates
+idx:31 input_id:2073 decoded_text: where
+idx:32 input_id:2000 decoded_text: to
+idx:33 input_id:11010 decoded_text: bury
+idx:34 input_id:2032 decoded_text: him
+idx:35 input_id:2024 decoded_text: are
+idx:36 input_id:2525 decoded_text: already
+idx:37 input_id:17559 decoded_text: raging
+idx:38 input_id:1999 decoded_text: in
+idx:39 input_id:1996 decoded_text: the
+idx:40 input_id:5611 decoded_text: israeli
+idx:41 input_id:2576 decoded_text: political
+idx:42 input_id:2451 decoded_text: community
+idx:43 input_id:1010 decoded_text: ,
+idx:44 input_id:5564 decoded_text: meanwhile
+idx:45 input_id:1012 decoded_text: .
+idx:46 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.169853210449219, -1.6970152854919434, -2.7389891147613525, -2.320554256439209]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

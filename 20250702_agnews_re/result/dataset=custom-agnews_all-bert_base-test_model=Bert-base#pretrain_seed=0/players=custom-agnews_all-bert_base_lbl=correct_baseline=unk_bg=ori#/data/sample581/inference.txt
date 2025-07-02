@@ -1,0 +1,40 @@
+Execution time: 2025-07-02 19:31:39
+prompt: [CLS] the us securities and exchange commission filed civil suits on wednesday charging that six former top executives at the technology company peregrine systems committed massive accounting fraud. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2149 decoded_text: us
+idx:3 input_id:12012 decoded_text: securities
+idx:4 input_id:1998 decoded_text: and
+idx:5 input_id:3863 decoded_text: exchange
+idx:6 input_id:3222 decoded_text: commission
+idx:7 input_id:6406 decoded_text: filed
+idx:8 input_id:2942 decoded_text: civil
+idx:9 input_id:11072 decoded_text: suits
+idx:10 input_id:2006 decoded_text: on
+idx:11 input_id:9317 decoded_text: wednesday
+idx:12 input_id:13003 decoded_text: charging
+idx:13 input_id:2008 decoded_text: that
+idx:14 input_id:2416 decoded_text: six
+idx:15 input_id:2280 decoded_text: former
+idx:16 input_id:2327 decoded_text: top
+idx:17 input_id:12706 decoded_text: executives
+idx:18 input_id:2012 decoded_text: at
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:2974 decoded_text: technology
+idx:21 input_id:2194 decoded_text: company
+idx:22 input_id:23976 decoded_text: pere
+idx:23 input_id:24860 decoded_text: ##grin
+idx:24 input_id:2063 decoded_text: ##e
+idx:25 input_id:3001 decoded_text: systems
+idx:26 input_id:5462 decoded_text: committed
+idx:27 input_id:5294 decoded_text: massive
+idx:28 input_id:9529 decoded_text: accounting
+idx:29 input_id:9861 decoded_text: fraud
+idx:30 input_id:1012 decoded_text: .
+idx:31 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.768378496170044, -4.361581325531006, 5.754632472991943, -0.8816775679588318]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

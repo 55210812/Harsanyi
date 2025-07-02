@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: ryanair
+Player 3: easyjet
+Player 4: announced
+Player 5: plans
+Player 6: expand
+Player 7: italian
+Player 8: market
+Player 9: following
+Player 10: collapse
+Player 11: low - cost
+Player 12: airline
+Player 13: volare,
+Player 14: declared
+Player 15: insolvency
+Player 16: suspended
+Player 17: flights
+Player 18: ticket
+Player 19: sales.
+---------- Rewards ----------
+v(): -4.675177097320557	 ([])
+v(0 1 7 12): 0.2626814842224121	 ([afp][-][italian][airline])
+v(2 3 8 9 10 11 13 18): -9.174365043640137	 ([ryanair][easyjet][market][following][collapse][low - cost][volare,][ticket])
+v(4 5 6 14 15 16 17 19): -6.9870710372924805	 ([announced][plans][expand][declared][insolvency][suspended][flights][sales.])
+v(0 1 2 3 7 8 9 10 11 12 13 18): -4.736187934875488	 ([afp][-][ryanair][easyjet][italian][market][following][collapse][low - cost][airline][volare,][ticket])
+v(0 1 4 5 6 7 12 14 15 16 17 19): -4.103097915649414	 ([afp][-][announced][plans][expand][italian][airline][declared][insolvency][suspended][flights][sales.])
+v(2 3 4 5 6 8 9 10 11 13 14 15 16 17 18 19): -9.237266540527344	 ([ryanair][easyjet][announced][plans][expand][market][following][collapse][low - cost][volare,][declared][insolvency][suspended][flights][ticket][sales.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): -5.731990814208984	 ([afp][-][ryanair][easyjet][announced][plans][expand][italian][market][following][collapse][low - cost][airline][volare,][declared][insolvency][suspended][flights][ticket][sales.])
+---------- Rewards-v() ----------
+v(0 1 7 12): 4.937858581542969, EP: -4.6724019050598145	 ([afp][-][italian][airline])
+v(2 3 4 5 6 8 9 10 11 13 14 15 16 17 18 19): -4.562089443206787, EP: 4.316833972930908	 ([ryanair][easyjet][announced][plans][expand][market][following][collapse][low - cost][volare,][declared][insolvency][suspended][flights][ticket][sales.])
+v(2 3 8 9 10 11 13 18): -4.49918794631958, EP: 4.257314205169678	 ([ryanair][easyjet][market][following][collapse][low - cost][volare,][ticket])
+v(4 5 6 14 15 16 17 19): -2.311893939971924, EP: 2.187607765197754	 ([announced][plans][expand][declared][insolvency][suspended][flights][sales.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): -1.0568137168884277, EP: 1.0	 ([afp][-][ryanair][easyjet][announced][plans][expand][italian][market][following][collapse][low - cost][airline][volare,][declared][insolvency][suspended][flights][ticket][sales.])
+v(0 1 4 5 6 7 12 14 15 16 17 19): 0.5720791816711426, EP: -0.5413244962692261	 ([afp][-][announced][plans][expand][italian][airline][declared][insolvency][suspended][flights][sales.])
+v(0 1 2 3 7 8 9 10 11 12 13 18): -0.06101083755493164, EP: 0.05773092806339264	 ([afp][-][ryanair][easyjet][italian][market][following][collapse][low - cost][airline][volare,][ticket])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

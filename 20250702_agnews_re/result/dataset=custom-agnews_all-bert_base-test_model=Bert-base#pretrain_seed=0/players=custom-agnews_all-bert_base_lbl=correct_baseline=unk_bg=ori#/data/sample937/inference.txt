@@ -1,0 +1,39 @@
+Execution time: 2025-07-02 19:40:44
+prompt: [CLS] in coach herman edward's first three seasons, the jets went 4 - 4, 6 - 2 and 5 - 3 after the halfway point. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1999 decoded_text: in
+idx:2 input_id:2873 decoded_text: coach
+idx:3 input_id:11458 decoded_text: herman
+idx:4 input_id:3487 decoded_text: edward
+idx:5 input_id:1005 decoded_text: '
+idx:6 input_id:1055 decoded_text: s
+idx:7 input_id:2034 decoded_text: first
+idx:8 input_id:2093 decoded_text: three
+idx:9 input_id:3692 decoded_text: seasons
+idx:10 input_id:1010 decoded_text: ,
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:9924 decoded_text: jets
+idx:13 input_id:2253 decoded_text: went
+idx:14 input_id:1018 decoded_text: 4
+idx:15 input_id:1011 decoded_text: -
+idx:16 input_id:1018 decoded_text: 4
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:1020 decoded_text: 6
+idx:19 input_id:1011 decoded_text: -
+idx:20 input_id:1016 decoded_text: 2
+idx:21 input_id:1998 decoded_text: and
+idx:22 input_id:1019 decoded_text: 5
+idx:23 input_id:1011 decoded_text: -
+idx:24 input_id:1017 decoded_text: 3
+idx:25 input_id:2044 decoded_text: after
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:8576 decoded_text: halfway
+idx:28 input_id:2391 decoded_text: point
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[1.6831477880477905, 6.878091812133789, -3.230128765106201, -3.671752452850342]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 19:41:57
+prompt: [CLS] the baltimore ravens won # 39 ; t soon forget the hit pittsburgh linebacker joey porter leveled on injured tight end todd heap during the second quarter of yesterday # 39 ; s 30 - 13 rout of the steelers. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:6222 decoded_text: baltimore
+idx:3 input_id:17272 decoded_text: ravens
+idx:4 input_id:2180 decoded_text: won
+idx:5 input_id:1001 decoded_text: #
+idx:6 input_id:4464 decoded_text: 39
+idx:7 input_id:1025 decoded_text: ;
+idx:8 input_id:1056 decoded_text: t
+idx:9 input_id:2574 decoded_text: soon
+idx:10 input_id:5293 decoded_text: forget
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:2718 decoded_text: hit
+idx:13 input_id:6278 decoded_text: pittsburgh
+idx:14 input_id:15674 decoded_text: linebacker
+idx:15 input_id:9558 decoded_text: joey
+idx:16 input_id:8716 decoded_text: porter
+idx:17 input_id:22915 decoded_text: leveled
+idx:18 input_id:2006 decoded_text: on
+idx:19 input_id:5229 decoded_text: injured
+idx:20 input_id:4389 decoded_text: tight
+idx:21 input_id:2203 decoded_text: end
+idx:22 input_id:6927 decoded_text: todd
+idx:23 input_id:16721 decoded_text: heap
+idx:24 input_id:2076 decoded_text: during
+idx:25 input_id:1996 decoded_text: the
+idx:26 input_id:2117 decoded_text: second
+idx:27 input_id:4284 decoded_text: quarter
+idx:28 input_id:1997 decoded_text: of
+idx:29 input_id:7483 decoded_text: yesterday
+idx:30 input_id:1001 decoded_text: #
+idx:31 input_id:4464 decoded_text: 39
+idx:32 input_id:1025 decoded_text: ;
+idx:33 input_id:1055 decoded_text: s
+idx:34 input_id:2382 decoded_text: 30
+idx:35 input_id:1011 decoded_text: -
+idx:36 input_id:2410 decoded_text: 13
+idx:37 input_id:20996 decoded_text: ro
+idx:38 input_id:4904 decoded_text: ##ut
+idx:39 input_id:1997 decoded_text: of
+idx:40 input_id:1996 decoded_text: the
+idx:41 input_id:15280 decoded_text: steelers
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.4209768772125244, 8.400458335876465, -2.554150342941284, -2.011789321899414]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: charleston,
+Player 1: sc
+Player 2: ( sports
+Player 3: network )
+Player 4: -
+Player 5: bob
+Player 6: mike
+Player 7: bryan
+Player 8: teamed - up
+Player 9: doubles
+Player 10: win
+Player 11: belarus
+Player 12: saturday
+Player 13: clinch
+Player 14: spot
+Player 15: davis
+Player 16: cup
+Player 17: final
+Player 18: united
+Player 19: states
+Player 20: first
+Player 21: time
+Player 22: seven
+Player 23: years.
+---------- Rewards ----------
+v(): -2.0359554290771484	 ([])
+v(2 8 10 11 12 14 17): 7.116056442260742	 ([( sports][teamed - up][win][belarus][saturday][spot][final])
+v(3 4 16 18 19 22 23): 9.16204833984375	 ([network )][-][cup][united][states][seven][years.])
+v(0 1 5 6 7 9 13 15 20 21): 8.848604202270508	 ([charleston,][sc][bob][mike][bryan][doubles][clinch][davis][first][time])
+v(2 3 4 8 10 11 12 14 16 17 18 19 22 23): 9.676090240478516	 ([( sports][network )][-][teamed - up][win][belarus][saturday][spot][cup][final][united][states][seven][years.])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15 17 20 21): 9.583431243896484	 ([charleston,][sc][( sports][bob][mike][bryan][teamed - up][doubles][win][belarus][saturday][clinch][spot][davis][final][first][time])
+v(0 1 3 4 5 6 7 9 13 15 16 18 19 20 21 22 23): 9.560593605041504	 ([charleston,][sc][network )][-][bob][mike][bryan][doubles][clinch][davis][cup][united][states][first][time][seven][years.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 9.586031913757324	 ([charleston,][sc][( sports][network )][-][bob][mike][bryan][teamed - up][doubles][win][belarus][saturday][clinch][spot][davis][cup][final][united][states][first][time][seven][years.])
+---------- Rewards-v() ----------
+v(2 3 4 8 10 11 12 14 16 17 18 19 22 23): 11.712045669555664, EP: 1.0077489614486694	 ([( sports][network )][-][teamed - up][win][belarus][saturday][spot][cup][final][united][states][seven][years.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 11.621987342834473, EP: 1.0	 ([charleston,][sc][( sports][network )][-][bob][mike][bryan][teamed - up][doubles][win][belarus][saturday][clinch][spot][davis][cup][final][united][states][first][time][seven][years.])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15 17 20 21): 11.619386672973633, EP: 0.9997762441635132	 ([charleston,][sc][( sports][bob][mike][bryan][teamed - up][doubles][win][belarus][saturday][clinch][spot][davis][final][first][time])
+v(0 1 3 4 5 6 7 9 13 15 16 18 19 20 21 22 23): 11.596549034118652, EP: 0.9978111982345581	 ([charleston,][sc][network )][-][bob][mike][bryan][doubles][clinch][davis][cup][united][states][first][time][seven][years.])
+v(3 4 16 18 19 22 23): 11.198003768920898, EP: 0.9635188579559326	 ([network )][-][cup][united][states][seven][years.])
+v(0 1 5 6 7 9 13 15 20 21): 10.884559631347656, EP: 0.9365488886833191	 ([charleston,][sc][bob][mike][bryan][doubles][clinch][davis][first][time])
+v(2 8 10 11 12 14 17): 9.15201187133789, EP: 0.7874739170074463	 ([( sports][teamed - up][win][belarus][saturday][spot][final])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

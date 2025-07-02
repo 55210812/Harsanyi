@@ -1,0 +1,52 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: congressional
+Player 3: investigators
+Player 4: recommended
+Player 5: tuesday
+Player 6: census
+Player 7: bureau
+Player 8: include
+Player 9: americans
+Player 10: living
+Player 11: abroad
+Player 12: part
+Player 13: u. s.
+Player 14: census
+Player 15: 2010.
+---------- Rewards ----------
+v(): -7.26933479309082	 ([])
+v(4 6 8 9 12 14): -5.069888114929199	 ([recommended][census][include][americans][part][census])
+v(0 1 2 3): -0.6853822469711304	 ([ap][-][congressional][investigators])
+v(10 11): -3.41180157661438	 ([living][abroad])
+v(5 7 13 15): -2.9024250507354736	 ([tuesday][bureau][u. s.][2010.])
+v(0 1 2 3 4 6 8 9 12 14): 1.549572467803955	 ([ap][-][congressional][investigators][recommended][census][include][americans][part][census])
+v(4 6 8 9 10 11 12 14): -5.722631454467773	 ([recommended][census][include][americans][living][abroad][part][census])
+v(4 5 6 7 8 9 12 13 14 15): -1.9565621614456177	 ([recommended][tuesday][census][bureau][include][americans][part][u. s.][census][2010.])
+v(0 1 2 3 10 11): 0.9329785704612732	 ([ap][-][congressional][investigators][living][abroad])
+v(0 1 2 3 5 7 13 15): 5.87104606628418	 ([ap][-][congressional][investigators][tuesday][bureau][u. s.][2010.])
+v(5 7 10 11 13 15): -1.6999582052230835	 ([tuesday][bureau][living][abroad][u. s.][2010.])
+v(0 1 2 3 4 6 8 9 10 11 12 14): 3.253434181213379	 ([ap][-][congressional][investigators][recommended][census][include][americans][living][abroad][part][census])
+v(0 1 2 3 4 5 6 7 8 9 12 13 14 15): 6.8371052742004395	 ([ap][-][congressional][investigators][recommended][tuesday][census][bureau][include][americans][part][u. s.][census][2010.])
+v(4 5 6 7 8 9 10 11 12 13 14 15): 0.019983768463134766	 ([recommended][tuesday][census][bureau][include][americans][living][abroad][part][u. s.][census][2010.])
+v(0 1 2 3 5 7 10 11 13 15): 6.242819309234619	 ([ap][-][congressional][investigators][tuesday][bureau][living][abroad][u. s.][2010.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.274807453155518	 ([ap][-][congressional][investigators][recommended][tuesday][census][bureau][include][americans][living][abroad][part][u. s.][census][2010.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 14.54414176940918, EP: 1.0	 ([ap][-][congressional][investigators][recommended][tuesday][census][bureau][include][americans][living][abroad][part][u. s.][census][2010.])
+v(0 1 2 3 4 5 6 7 8 9 12 13 14 15): 14.106439590454102, EP: 0.9699052572250366	 ([ap][-][congressional][investigators][recommended][tuesday][census][bureau][include][americans][part][u. s.][census][2010.])
+v(0 1 2 3 5 7 10 11 13 15): 13.512153625488281, EP: 0.9290444254875183	 ([ap][-][congressional][investigators][tuesday][bureau][living][abroad][u. s.][2010.])
+v(0 1 2 3 5 7 13 15): 13.140380859375, EP: 0.9034827351570129	 ([ap][-][congressional][investigators][tuesday][bureau][u. s.][2010.])
+v(0 1 2 3 4 6 8 9 10 11 12 14): 10.5227689743042, EP: 0.7235056757926941	 ([ap][-][congressional][investigators][recommended][census][include][americans][living][abroad][part][census])
+v(0 1 2 3 4 6 8 9 12 14): 8.818906784057617, EP: 0.6063545942306519	 ([ap][-][congressional][investigators][recommended][census][include][americans][part][census])
+v(0 1 2 3 10 11): 8.202313423156738, EP: 0.5639599561691284	 ([ap][-][congressional][investigators][living][abroad])
+v(4 5 6 7 8 9 10 11 12 13 14 15): 7.289318561553955, EP: 0.5011858940124512	 ([recommended][tuesday][census][bureau][include][americans][living][abroad][part][u. s.][census][2010.])
+v(0 1 2 3): 6.5839524269104, EP: 0.4526875913143158	 ([ap][-][congressional][investigators])
+v(5 7 10 11 13 15): 5.569376468658447, EP: 0.3829292058944702	 ([tuesday][bureau][living][abroad][u. s.][2010.])
+v(4 5 6 7 8 9 12 13 14 15): 5.312772750854492, EP: 0.36528608202934265	 ([recommended][tuesday][census][bureau][include][americans][part][u. s.][census][2010.])
+v(5 7 13 15): 4.366909980773926, EP: 0.30025216937065125	 ([tuesday][bureau][u. s.][2010.])
+v(10 11): 3.8575332164764404, EP: 0.26522934436798096	 ([living][abroad])
+v(4 6 8 9 12 14): 2.199446678161621, EP: 0.15122561156749725	 ([recommended][census][include][americans][part][census])
+v(4 6 8 9 10 11 12 14): 1.5467033386230469, EP: 0.10634545236825943	 ([recommended][census][include][americans][living][abroad][part][census])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

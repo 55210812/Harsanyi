@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: carl
+Player 1: pettersson
+Player 2: spend
+Player 3: several
+Player 4: hours
+Player 5: next
+Player 6: three
+Player 7: days
+Player 8: driving
+Player 9: work.
+Player 10: # 39 ; t
+Player 11: happier
+Player 12: it.
+Player 13: pettersson,
+Player 14: former
+Player 15: nc
+Player 16: state
+Player 17: standout
+---------- Rewards ----------
+v(): -3.9000139236450195	 ([])
+v(2 4 7 11): -4.25979471206665	 ([spend][hours][days][happier])
+v(0 1 3 5 6 8 9 10): 0.9079135656356812	 ([carl][pettersson][several][next][three][driving][work.][# 39 ; t])
+v(12 13 14 15 16 17): 9.146202087402344	 ([it.][pettersson,][former][nc][state][standout])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 5.363799095153809	 ([carl][pettersson][spend][several][hours][next][three][days][driving][work.][# 39 ; t][happier])
+v(2 4 7 11 12 13 14 15 16 17): 9.177922248840332	 ([spend][hours][days][happier][it.][pettersson,][former][nc][state][standout])
+v(0 1 3 5 6 8 9 10 12 13 14 15 16 17): 9.53665542602539	 ([carl][pettersson][several][next][three][driving][work.][# 39 ; t][it.][pettersson,][former][nc][state][standout])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.703717231750488	 ([carl][pettersson][spend][several][hours][next][three][days][driving][work.][# 39 ; t][happier][it.][pettersson,][former][nc][state][standout])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 13.603731155395508, EP: 1.0	 ([carl][pettersson][spend][several][hours][next][three][days][driving][work.][# 39 ; t][happier][it.][pettersson,][former][nc][state][standout])
+v(0 1 3 5 6 8 9 10 12 13 14 15 16 17): 13.43666934967041, EP: 0.9877194166183472	 ([carl][pettersson][several][next][three][driving][work.][# 39 ; t][it.][pettersson,][former][nc][state][standout])
+v(2 4 7 11 12 13 14 15 16 17): 13.077936172485352, EP: 0.9613491892814636	 ([spend][hours][days][happier][it.][pettersson,][former][nc][state][standout])
+v(12 13 14 15 16 17): 13.046216011047363, EP: 0.9590174555778503	 ([it.][pettersson,][former][nc][state][standout])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 9.263813018798828, EP: 0.6809759140014648	 ([carl][pettersson][spend][several][hours][next][three][days][driving][work.][# 39 ; t][happier])
+v(0 1 3 5 6 8 9 10): 4.80792760848999, EP: 0.35342711210250854	 ([carl][pettersson][several][next][three][driving][work.][# 39 ; t])
+v(2 4 7 11): -0.35978078842163086, EP: -0.02644721418619156	 ([spend][hours][days][happier])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

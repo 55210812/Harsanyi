@@ -1,0 +1,52 @@
+---------- Players ----------
+Player 0: every
+Player 1: suns
+Player 2: starter
+Player 3: turn
+Player 4: shine
+Player 5: season
+Player 6: # 39 ; s
+Player 7: supernova.
+Player 8: matter
+Player 9: time
+Player 10: johnson
+Player 11: stepped
+Player 12: role
+Player 13: leading
+Player 14: man,
+Player 15: too.
+---------- Rewards ----------
+v(): -6.600122451782227	 ([])
+v(10 11): 3.0332555770874023	 ([johnson][stepped])
+v(0 3 4 5 6): 2.4981565475463867	 ([every][turn][shine][season][# 39 ; s])
+v(1 2 7 8 9): -7.14017391204834	 ([suns][starter][supernova.][matter][time])
+v(12 13 14 15): -3.679898977279663	 ([role][leading][man,][too.])
+v(0 3 4 5 6 10 11): 8.103066444396973	 ([every][turn][shine][season][# 39 ; s][johnson][stepped])
+v(1 2 7 8 9 10 11): 4.105513572692871	 ([suns][starter][supernova.][matter][time][johnson][stepped])
+v(10 11 12 13 14 15): -0.8404792547225952	 ([johnson][stepped][role][leading][man,][too.])
+v(0 1 2 3 4 5 6 7 8 9): 9.513601303100586	 ([every][suns][starter][turn][shine][season][# 39 ; s][supernova.][matter][time])
+v(0 3 4 5 6 12 13 14 15): 0.015806078910827637	 ([every][turn][shine][season][# 39 ; s][role][leading][man,][too.])
+v(1 2 7 8 9 12 13 14 15): 7.221042633056641	 ([suns][starter][supernova.][matter][time][role][leading][man,][too.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 9.673749923706055	 ([every][suns][starter][turn][shine][season][# 39 ; s][supernova.][matter][time][johnson][stepped])
+v(0 3 4 5 6 10 11 12 13 14 15): 7.204524040222168	 ([every][turn][shine][season][# 39 ; s][johnson][stepped][role][leading][man,][too.])
+v(1 2 7 8 9 10 11 12 13 14 15): 9.592618942260742	 ([suns][starter][supernova.][matter][time][johnson][stepped][role][leading][man,][too.])
+v(0 1 2 3 4 5 6 7 8 9 12 13 14 15): 9.557043075561523	 ([every][suns][starter][turn][shine][season][# 39 ; s][supernova.][matter][time][role][leading][man,][too.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.68351936340332	 ([every][suns][starter][turn][shine][season][# 39 ; s][supernova.][matter][time][johnson][stepped][role][leading][man,][too.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 16.283641815185547, EP: 1.0	 ([every][suns][starter][turn][shine][season][# 39 ; s][supernova.][matter][time][johnson][stepped][role][leading][man,][too.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 16.27387237548828, EP: 0.9994000196456909	 ([every][suns][starter][turn][shine][season][# 39 ; s][supernova.][matter][time][johnson][stepped])
+v(1 2 7 8 9 10 11 12 13 14 15): 16.19274139404297, EP: 0.994417667388916	 ([suns][starter][supernova.][matter][time][johnson][stepped][role][leading][man,][too.])
+v(0 1 2 3 4 5 6 7 8 9 12 13 14 15): 16.15716552734375, EP: 0.9922329187393188	 ([every][suns][starter][turn][shine][season][# 39 ; s][supernova.][matter][time][role][leading][man,][too.])
+v(0 1 2 3 4 5 6 7 8 9): 16.113723754882812, EP: 0.9895651340484619	 ([every][suns][starter][turn][shine][season][# 39 ; s][supernova.][matter][time])
+v(0 3 4 5 6 10 11): 14.7031888961792, EP: 0.9029422998428345	 ([every][turn][shine][season][# 39 ; s][johnson][stepped])
+v(1 2 7 8 9 12 13 14 15): 13.821165084838867, EP: 0.8487760424613953	 ([suns][starter][supernova.][matter][time][role][leading][man,][too.])
+v(0 3 4 5 6 10 11 12 13 14 15): 13.804646492004395, EP: 0.8477616310119629	 ([every][turn][shine][season][# 39 ; s][johnson][stepped][role][leading][man,][too.])
+v(1 2 7 8 9 10 11): 10.705636024475098, EP: 0.6574472784996033	 ([suns][starter][supernova.][matter][time][johnson][stepped])
+v(10 11): 9.633378028869629, EP: 0.5915985107421875	 ([johnson][stepped])
+v(0 3 4 5 6): 9.098278999328613, EP: 0.5587373375892639	 ([every][turn][shine][season][# 39 ; s])
+v(0 3 4 5 6 12 13 14 15): 6.615928649902344, EP: 0.40629294514656067	 ([every][turn][shine][season][# 39 ; s][role][leading][man,][too.])
+v(10 11 12 13 14 15): 5.759643077850342, EP: 0.35370731353759766	 ([johnson][stepped][role][leading][man,][too.])
+v(12 13 14 15): 2.9202234745025635, EP: 0.17933478951454163	 ([role][leading][man,][too.])
+v(1 2 7 8 9): -0.5400514602661133, EP: -0.03316527605056763	 ([suns][starter][supernova.][matter][time])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

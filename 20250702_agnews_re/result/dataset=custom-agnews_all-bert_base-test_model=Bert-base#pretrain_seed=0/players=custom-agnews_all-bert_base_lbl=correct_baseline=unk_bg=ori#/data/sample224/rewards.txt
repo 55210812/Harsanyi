@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: president
+Player 1: bush
+Player 2: said
+Player 3: alberto
+Player 4: r. gonzales
+Player 5: " a
+Player 6: calm
+Player 7: steady
+Player 8: voice
+Player 9: times
+Player 10: crisis "
+Player 11: white
+Player 12: house
+Player 13: counsel.
+---------- Rewards ----------
+v(): -3.297747850418091	 ([])
+v(10 11 12 13): 7.813424587249756	 ([crisis "][white][house][counsel.])
+v(4 5 6 7 8 9): -0.29845547676086426	 ([r. gonzales][" a][calm][steady][voice][times])
+v(0 1 2 3): 7.445381164550781	 ([president][bush][said][alberto])
+v(4 5 6 7 8 9 10 11 12 13): 8.0202054977417	 ([r. gonzales][" a][calm][steady][voice][times][crisis "][white][house][counsel.])
+v(0 1 2 3 10 11 12 13): 7.953474044799805	 ([president][bush][said][alberto][crisis "][white][house][counsel.])
+v(0 1 2 3 4 5 6 7 8 9): 7.960488319396973	 ([president][bush][said][alberto][r. gonzales][" a][calm][steady][voice][times])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 8.075841903686523	 ([president][bush][said][alberto][r. gonzales][" a][calm][steady][voice][times][crisis "][white][house][counsel.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 11.373589515686035, EP: 1.0	 ([president][bush][said][alberto][r. gonzales][" a][calm][steady][voice][times][crisis "][white][house][counsel.])
+v(4 5 6 7 8 9 10 11 12 13): 11.317953109741211, EP: 0.9951083064079285	 ([r. gonzales][" a][calm][steady][voice][times][crisis "][white][house][counsel.])
+v(0 1 2 3 4 5 6 7 8 9): 11.258235931396484, EP: 0.9898577928543091	 ([president][bush][said][alberto][r. gonzales][" a][calm][steady][voice][times])
+v(0 1 2 3 10 11 12 13): 11.251221656799316, EP: 0.9892410635948181	 ([president][bush][said][alberto][crisis "][white][house][counsel.])
+v(10 11 12 13): 11.111172676086426, EP: 0.9769275188446045	 ([crisis "][white][house][counsel.])
+v(0 1 2 3): 10.743128776550293, EP: 0.9445679783821106	 ([president][bush][said][alberto])
+v(4 5 6 7 8 9): 2.9992923736572266, EP: 0.2637067437171936	 ([r. gonzales][" a][calm][steady][voice][times])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,93 @@
+---------- Players ----------
+Player 0: canadian
+Player 1: press
+Player 2: -
+Player 3: london
+Player 4: ( ap )
+Player 5: -
+Player 6: senator
+Player 7: john
+Player 8: kerry
+Player 9: blue
+Player 10: blood
+Player 11: royal
+Player 12: houses
+Player 13: europe,
+Player 14: even
+Player 15: titled
+Player 16: relations
+Player 17: president
+Player 18: george
+Player 19: w.
+Player 20: bush,
+Player 21: burke's
+Player 22: peerage
+Player 23: said
+Player 24: monday.
+---------- Rewards ----------
+v(): -6.0989532470703125	 ([])
+v(4 5 6 7 8): 8.360027313232422	 ([( ap )][-][senator][john][kerry])
+v(0 1): 8.146055221557617	 ([canadian][press])
+v(10 12 14 17 19 21 22 24): 7.258360862731934	 ([blood][houses][even][president][w.][burke's][peerage][monday.])
+v(13 15 16): 3.3119559288024902	 ([europe,][titled][relations])
+v(2 3 9 11 18 20 23): 3.8676486015319824	 ([-][london][blue][royal][george][bush,][said])
+v(0 1 4 5 6 7 8): 8.224013328552246	 ([canadian][press][( ap )][-][senator][john][kerry])
+v(4 5 6 7 8 10 12 14 17 19 21 22 24): 8.211868286132812	 ([( ap )][-][senator][john][kerry][blood][houses][even][president][w.][burke's][peerage][monday.])
+v(4 5 6 7 8 13 15 16): 8.441917419433594	 ([( ap )][-][senator][john][kerry][europe,][titled][relations])
+v(2 3 4 5 6 7 8 9 11 18 20 23): 8.124771118164062	 ([-][london][( ap )][-][senator][john][kerry][blue][royal][george][bush,][said])
+v(0 1 10 12 14 17 19 21 22 24): 8.24736213684082	 ([canadian][press][blood][houses][even][president][w.][burke's][peerage][monday.])
+v(0 1 13 15 16): 8.408098220825195	 ([canadian][press][europe,][titled][relations])
+v(0 1 2 3 9 11 18 20 23): 8.280659675598145	 ([canadian][press][-][london][blue][royal][george][bush,][said])
+v(10 12 13 14 15 16 17 19 21 22 24): 7.739294052124023	 ([blood][houses][europe,][even][titled][relations][president][w.][burke's][peerage][monday.])
+v(2 3 9 10 11 12 14 17 18 19 20 21 22 23 24): 7.815625190734863	 ([-][london][blue][blood][royal][houses][even][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(2 3 9 11 13 15 16 18 20 23): 7.455770492553711	 ([-][london][blue][royal][europe,][titled][relations][george][bush,][said])
+v(0 1 4 5 6 7 8 10 12 14 17 19 21 22 24): 8.209147453308105	 ([canadian][press][( ap )][-][senator][john][kerry][blood][houses][even][president][w.][burke's][peerage][monday.])
+v(0 1 4 5 6 7 8 13 15 16): 8.354454040527344	 ([canadian][press][( ap )][-][senator][john][kerry][europe,][titled][relations])
+v(0 1 2 3 4 5 6 7 8 9 11 18 20 23): 8.251322746276855	 ([canadian][press][-][london][( ap )][-][senator][john][kerry][blue][royal][george][bush,][said])
+v(4 5 6 7 8 10 12 13 14 15 16 17 19 21 22 24): 8.322327613830566	 ([( ap )][-][senator][john][kerry][blood][houses][europe,][even][titled][relations][president][w.][burke's][peerage][monday.])
+v(2 3 4 5 6 7 8 9 10 11 12 14 17 18 19 20 21 22 23 24): 8.25728702545166	 ([-][london][( ap )][-][senator][john][kerry][blue][blood][royal][houses][even][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(2 3 4 5 6 7 8 9 11 13 15 16 18 20 23): 8.274099349975586	 ([-][london][( ap )][-][senator][john][kerry][blue][royal][europe,][titled][relations][george][bush,][said])
+v(0 1 10 12 13 14 15 16 17 19 21 22 24): 8.346302032470703	 ([canadian][press][blood][houses][europe,][even][titled][relations][president][w.][burke's][peerage][monday.])
+v(0 1 2 3 9 10 11 12 14 17 18 19 20 21 22 23 24): 8.257129669189453	 ([canadian][press][-][london][blue][blood][royal][houses][even][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(0 1 2 3 9 11 13 15 16 18 20 23): 8.384237289428711	 ([canadian][press][-][london][blue][royal][europe,][titled][relations][george][bush,][said])
+v(2 3 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 7.966475486755371	 ([-][london][blue][blood][royal][houses][europe,][even][titled][relations][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(0 1 4 5 6 7 8 10 12 13 14 15 16 17 19 21 22 24): 8.301153182983398	 ([canadian][press][( ap )][-][senator][john][kerry][blood][houses][europe,][even][titled][relations][president][w.][burke's][peerage][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14 17 18 19 20 21 22 23 24): 8.245169639587402	 ([canadian][press][-][london][( ap )][-][senator][john][kerry][blue][blood][royal][houses][even][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(0 1 2 3 4 5 6 7 8 9 11 13 15 16 18 20 23): 8.302669525146484	 ([canadian][press][-][london][( ap )][-][senator][john][kerry][blue][royal][europe,][titled][relations][george][bush,][said])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 8.373174667358398	 ([-][london][( ap )][-][senator][john][kerry][blue][blood][royal][houses][europe,][even][titled][relations][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(0 1 2 3 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 8.311652183532715	 ([canadian][press][-][london][blue][blood][royal][houses][europe,][even][titled][relations][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 8.292564392089844	 ([canadian][press][-][london][( ap )][-][senator][john][kerry][blue][blood][royal][houses][europe,][even][titled][relations][president][george][w.][bush,][burke's][peerage][said][monday.])
+---------- Rewards-v() ----------
+v(4 5 6 7 8 13 15 16): 14.540870666503906, EP: 1.0103778839111328	 ([( ap )][-][senator][john][kerry][europe,][titled][relations])
+v(0 1 13 15 16): 14.507051467895508, EP: 1.0080279111862183	 ([canadian][press][europe,][titled][relations])
+v(0 1 2 3 9 11 13 15 16 18 20 23): 14.483190536499023, EP: 1.006369948387146	 ([canadian][press][-][london][blue][royal][europe,][titled][relations][george][bush,][said])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 14.472127914428711, EP: 1.0056012868881226	 ([-][london][( ap )][-][senator][john][kerry][blue][blood][royal][houses][europe,][even][titled][relations][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(4 5 6 7 8): 14.458980560302734, EP: 1.0046876668930054	 ([( ap )][-][senator][john][kerry])
+v(0 1 4 5 6 7 8 13 15 16): 14.453407287597656, EP: 1.0043004751205444	 ([canadian][press][( ap )][-][senator][john][kerry][europe,][titled][relations])
+v(0 1 10 12 13 14 15 16 17 19 21 22 24): 14.445255279541016, EP: 1.0037339925765991	 ([canadian][press][blood][houses][europe,][even][titled][relations][president][w.][burke's][peerage][monday.])
+v(4 5 6 7 8 10 12 13 14 15 16 17 19 21 22 24): 14.421280860900879, EP: 1.0020681619644165	 ([( ap )][-][senator][john][kerry][blood][houses][europe,][even][titled][relations][president][w.][burke's][peerage][monday.])
+v(0 1 2 3 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 14.410605430603027, EP: 1.001326322555542	 ([canadian][press][-][london][blue][blood][royal][houses][europe,][even][titled][relations][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(0 1 2 3 4 5 6 7 8 9 11 13 15 16 18 20 23): 14.401622772216797, EP: 1.000702142715454	 ([canadian][press][-][london][( ap )][-][senator][john][kerry][blue][royal][europe,][titled][relations][george][bush,][said])
+v(0 1 4 5 6 7 8 10 12 13 14 15 16 17 19 21 22 24): 14.400106430053711, EP: 1.0005967617034912	 ([canadian][press][( ap )][-][senator][john][kerry][blood][houses][europe,][even][titled][relations][president][w.][burke's][peerage][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 14.391517639160156, EP: 1.0	 ([canadian][press][-][london][( ap )][-][senator][john][kerry][blue][blood][royal][houses][europe,][even][titled][relations][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(0 1 2 3 9 11 18 20 23): 14.379612922668457, EP: 0.9991728067398071	 ([canadian][press][-][london][blue][royal][george][bush,][said])
+v(2 3 4 5 6 7 8 9 11 13 15 16 18 20 23): 14.373052597045898, EP: 0.9987169504165649	 ([-][london][( ap )][-][senator][john][kerry][blue][royal][europe,][titled][relations][george][bush,][said])
+v(2 3 4 5 6 7 8 9 10 11 12 14 17 18 19 20 21 22 23 24): 14.356240272521973, EP: 0.9975487589836121	 ([-][london][( ap )][-][senator][john][kerry][blue][blood][royal][houses][even][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(0 1 2 3 9 10 11 12 14 17 18 19 20 21 22 23 24): 14.356082916259766, EP: 0.9975377917289734	 ([canadian][press][-][london][blue][blood][royal][houses][even][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(0 1 2 3 4 5 6 7 8 9 11 18 20 23): 14.350275993347168, EP: 0.9971343278884888	 ([canadian][press][-][london][( ap )][-][senator][john][kerry][blue][royal][george][bush,][said])
+v(0 1 10 12 14 17 19 21 22 24): 14.346315383911133, EP: 0.9968591332435608	 ([canadian][press][blood][houses][even][president][w.][burke's][peerage][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14 17 18 19 20 21 22 23 24): 14.344122886657715, EP: 0.9967067837715149	 ([canadian][press][-][london][( ap )][-][senator][john][kerry][blue][blood][royal][houses][even][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(0 1 4 5 6 7 8): 14.322966575622559, EP: 0.9952366948127747	 ([canadian][press][( ap )][-][senator][john][kerry])
+v(4 5 6 7 8 10 12 14 17 19 21 22 24): 14.310821533203125, EP: 0.9943928122520447	 ([( ap )][-][senator][john][kerry][blood][houses][even][president][w.][burke's][peerage][monday.])
+v(0 1 4 5 6 7 8 10 12 14 17 19 21 22 24): 14.308100700378418, EP: 0.9942037463188171	 ([canadian][press][( ap )][-][senator][john][kerry][blood][houses][even][president][w.][burke's][peerage][monday.])
+v(0 1): 14.24500846862793, EP: 0.9898197650909424	 ([canadian][press])
+v(2 3 4 5 6 7 8 9 11 18 20 23): 14.223724365234375, EP: 0.9883407950401306	 ([-][london][( ap )][-][senator][john][kerry][blue][royal][george][bush,][said])
+v(2 3 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 14.065428733825684, EP: 0.9773415923118591	 ([-][london][blue][blood][royal][houses][europe,][even][titled][relations][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(2 3 9 10 11 12 14 17 18 19 20 21 22 23 24): 13.914578437805176, EP: 0.9668596982955933	 ([-][london][blue][blood][royal][houses][even][president][george][w.][bush,][burke's][peerage][said][monday.])
+v(10 12 13 14 15 16 17 19 21 22 24): 13.838247299194336, EP: 0.9615557789802551	 ([blood][houses][europe,][even][titled][relations][president][w.][burke's][peerage][monday.])
+v(2 3 9 11 13 15 16 18 20 23): 13.554723739624023, EP: 0.9418550729751587	 ([-][london][blue][royal][europe,][titled][relations][george][bush,][said])
+v(10 12 14 17 19 21 22 24): 13.357314109802246, EP: 0.9281379580497742	 ([blood][houses][even][president][w.][burke's][peerage][monday.])
+v(2 3 9 11 18 20 23): 9.966602325439453, EP: 0.6925330758094788	 ([-][london][blue][royal][george][bush,][said])
+v(13 15 16): 9.410909652709961, EP: 0.653920590877533	 ([europe,][titled][relations])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

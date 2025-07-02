@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: remnants
+Player 1: hurricane
+Player 2: jeanne
+Player 3: rained
+Player 4: monday's
+Player 5: game
+Player 6: mets
+Player 7: atlanta
+Player 8: braves.
+Player 9: made
+Player 10: tuesday
+Player 11: part
+Player 12: doubleheader.
+---------- Rewards ----------
+v(): -5.695627212524414	 ([])
+v(1 2 3 7 8): 9.088725090026855	 ([hurricane][jeanne][rained][atlanta][braves.])
+v(6 9 10 12): -0.9598871469497681	 ([mets][made][tuesday][doubleheader.])
+v(0 4 5 11): 4.275286674499512	 ([remnants][monday's][game][part])
+v(1 2 3 6 7 8 9 10 12): 9.585799217224121	 ([hurricane][jeanne][rained][mets][atlanta][braves.][made][tuesday][doubleheader.])
+v(0 1 2 3 4 5 7 8 11): 9.504440307617188	 ([remnants][hurricane][jeanne][rained][monday's][game][atlanta][braves.][part])
+v(0 4 5 6 9 10 11 12): 9.43569278717041	 ([remnants][monday's][game][mets][made][tuesday][part][doubleheader.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 7.987995147705078	 ([remnants][hurricane][jeanne][rained][monday's][game][mets][atlanta][braves.][made][tuesday][part][doubleheader.])
+---------- Rewards-v() ----------
+v(1 2 3 6 7 8 9 10 12): 15.281426429748535, EP: 1.1167676448822021	 ([hurricane][jeanne][rained][mets][atlanta][braves.][made][tuesday][doubleheader.])
+v(0 1 2 3 4 5 7 8 11): 15.200067520141602, EP: 1.1108219623565674	 ([remnants][hurricane][jeanne][rained][monday's][game][atlanta][braves.][part])
+v(0 4 5 6 9 10 11 12): 15.131319999694824, EP: 1.1057978868484497	 ([remnants][monday's][game][mets][made][tuesday][part][doubleheader.])
+v(1 2 3 7 8): 14.78435230255127, EP: 1.0804413557052612	 ([hurricane][jeanne][rained][atlanta][braves.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 13.683622360229492, EP: 1.0	 ([remnants][hurricane][jeanne][rained][monday's][game][mets][atlanta][braves.][made][tuesday][part][doubleheader.])
+v(0 4 5 11): 9.970913887023926, EP: 0.7286750078201294	 ([remnants][monday's][game][part])
+v(6 9 10 12): 4.7357401847839355, EP: 0.3460882008075714	 ([mets][made][tuesday][doubleheader.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

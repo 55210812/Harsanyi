@@ -1,0 +1,46 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: ( reuters )
+Player 3: -
+Player 4: u. s.
+Player 5: stocks
+Player 6: looked
+Player 7: open
+Player 8: lower
+Player 9: thursday,
+Player 10: day
+Player 11: comments
+Player 12: fed
+Player 13: chairman
+Player 14: alan
+Player 15: greenspan
+Player 16: little
+Player 17: inspire
+Player 18: investors
+Player 19: texas
+Player 20: instruments
+Player 21: inc.
+Player 22: gave
+Player 23: mixed
+Player 24: business
+Player 25: forecast.
+---------- Rewards ----------
+v(): -4.2281975746154785	 ([])
+v(5 12 18 20 21 25): 8.328125	 ([stocks][fed][investors][instruments][inc.][forecast.])
+v(0 1 4 7 9 11 13 14 15 19): 1.990192174911499	 ([new][york][u. s.][open][thursday,][comments][chairman][alan][greenspan][texas])
+v(2 3 6 8 10 16 17 22 23 24): 0.018318653106689453	 ([( reuters )][-][looked][lower][day][little][inspire][gave][mixed][business])
+v(0 1 4 5 7 9 11 12 13 14 15 18 19 20 21 25): 8.17763614654541	 ([new][york][u. s.][stocks][open][thursday,][comments][fed][chairman][alan][greenspan][investors][texas][instruments][inc.][forecast.])
+v(2 3 5 6 8 10 12 16 17 18 20 21 22 23 24 25): 8.38772964477539	 ([( reuters )][-][stocks][looked][lower][day][fed][little][inspire][investors][instruments][inc.][gave][mixed][business][forecast.])
+v(0 1 2 3 4 6 7 8 9 10 11 13 14 15 16 17 19 22 23 24): 5.431832313537598	 ([new][york][( reuters )][-][u. s.][looked][open][lower][thursday,][day][comments][chairman][alan][greenspan][little][inspire][texas][gave][mixed][business])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 8.310942649841309	 ([new][york][( reuters )][-][u. s.][stocks][looked][open][lower][thursday,][day][comments][fed][chairman][alan][greenspan][little][inspire][investors][texas][instruments][inc.][gave][mixed][business][forecast.])
+---------- Rewards-v() ----------
+v(2 3 5 6 8 10 12 16 17 18 20 21 22 23 24 25): 12.615926742553711, EP: 1.006123661994934	 ([( reuters )][-][stocks][looked][lower][day][fed][little][inspire][investors][instruments][inc.][gave][mixed][business][forecast.])
+v(5 12 18 20 21 25): 12.55632209777832, EP: 1.0013701915740967	 ([stocks][fed][investors][instruments][inc.][forecast.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 12.539140701293945, EP: 1.0	 ([new][york][( reuters )][-][u. s.][stocks][looked][open][lower][thursday,][day][comments][fed][chairman][alan][greenspan][little][inspire][investors][texas][instruments][inc.][gave][mixed][business][forecast.])
+v(0 1 4 5 7 9 11 12 13 14 15 18 19 20 21 25): 12.405834197998047, EP: 0.9893687963485718	 ([new][york][u. s.][stocks][open][thursday,][comments][fed][chairman][alan][greenspan][investors][texas][instruments][inc.][forecast.])
+v(0 1 2 3 4 6 7 8 9 10 11 13 14 15 16 17 19 22 23 24): 9.660030364990234, EP: 0.7703901529312134	 ([new][york][( reuters )][-][u. s.][looked][open][lower][thursday,][day][comments][chairman][alan][greenspan][little][inspire][texas][gave][mixed][business])
+v(0 1 4 7 9 11 13 14 15 19): 6.218389511108398, EP: 0.49591830372810364	 ([new][york][u. s.][open][thursday,][comments][chairman][alan][greenspan][texas])
+v(2 3 6 8 10 16 17 22 23 24): 4.246516227722168, EP: 0.33866086602211	 ([( reuters )][-][looked][lower][day][little][inspire][gave][mixed][business])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

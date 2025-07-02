@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: ucla
+Player 1: football
+Player 2: team
+Player 3: asked
+Player 4: for :
+Player 5: possession
+Player 6: ball
+Player 7: fourth
+Player 8: quarter
+Player 9: opportunity
+Player 10: beat
+Player 11: no.
+Player 12: 1
+Player 13: usc.
+---------- Rewards ----------
+v(): -6.117631435394287	 ([])
+v(0 1 2 6): 9.489288330078125	 ([ucla][football][team][ball])
+v(3 4 5 7 8 9 10 11 12 13): 6.299278736114502	 ([asked][for :][possession][fourth][quarter][opportunity][beat][no.][1][usc.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 6.357583045959473	 ([ucla][football][team][asked][for :][possession][ball][fourth][quarter][opportunity][beat][no.][1][usc.])
+---------- Rewards-v() ----------
+v(0 1 2 6): 15.60692024230957, EP: 1.2510342597961426	 ([ucla][football][team][ball])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 12.475214004516602, EP: 1.0	 ([ucla][football][team][asked][for :][possession][ball][fourth][quarter][opportunity][beat][no.][1][usc.])
+v(3 4 5 7 8 9 10 11 12 13): 12.416910171508789, EP: 0.9953263998031616	 ([asked][for :][possession][fourth][quarter][opportunity][beat][no.][1][usc.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

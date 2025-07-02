@@ -1,0 +1,15 @@
+---------- Players ----------
+Player 0: upcoming
+Player 1: gartner
+Player 2: study
+Player 3: spending
+Player 4: offshoring.
+---------- Rewards ----------
+v(): 6.164699554443359	 ([])
+v(0 1 2 3 4): 7.446008682250977	 ([upcoming][gartner][study][spending][offshoring.])
+v(0 1 2 3 4): 7.446008682250977	 ([upcoming][gartner][study][spending][offshoring.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4): 1.2813091278076172, EP: 1.0	 ([upcoming][gartner][study][spending][offshoring.])
+v(0 1 2 3 4): 1.2813091278076172, EP: 1.0	 ([upcoming][gartner][study][spending][offshoring.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

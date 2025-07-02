@@ -1,0 +1,67 @@
+---------- Players ----------
+Player 0: baseball
+Player 1: major
+Player 2: league
+Player 3: baseball :
+Player 4: suspended
+Player 5: texas
+Player 6: 3b
+Player 7: coach
+Player 8: steve
+Player 9: smith
+Player 10: two
+Player 11: games
+Player 12: fined
+Player 13: undisclosed
+Player 14: amount
+Player 15: inappropriate
+Player 16: actions
+Player 17: comments
+Player 18: made
+Player 19: umpire
+Player 20: jerry
+Player 21: meals
+Player 22: aug.
+Player 23: 25
+Player 24: game ;
+Player 25: suspended
+Player 26: chicago
+Player 27: cubs
+Player 28: p
+Player 29: kent
+Player 30: mercker
+Player 31: three
+Player 32: games
+Player 33: fined
+Player 34: undisclosed
+Player 35: amount
+Player 36: inappropriate
+Player 37: actions
+Player 38: aug.
+Player 39: 27
+Player 40: game ;
+Player 41: suspended
+Player 42: houston
+Player 43: manager
+Player 44: phil
+Player 45: garner
+Player 46: ...
+---------- Rewards ----------
+v(): -1.6906464099884033	 ([])
+v(0 3 4 7 8 15 17 18 19 21 25 29 36 41): 8.136886596679688	 ([baseball][baseball :][suspended][coach][steve][inappropriate][comments][made][umpire][meals][suspended][kent][inappropriate][suspended])
+v(9 10 11 12 13 16 23 24 31 32 34 37 39 40): 8.971553802490234	 ([smith][two][games][fined][undisclosed][actions][25][game ;][three][games][undisclosed][actions][27][game ;])
+v(1 2 5 6 14 20 22 26 27 28 30 33 35 38 42 43 44 45 46): 9.387763977050781	 ([major][league][texas][3b][amount][jerry][aug.][chicago][cubs][p][mercker][fined][amount][aug.][houston][manager][phil][garner][...])
+v(0 3 4 7 8 9 10 11 12 13 15 16 17 18 19 21 23 24 25 29 31 32 34 36 37 39 40 41): 9.315918922424316	 ([baseball][baseball :][suspended][coach][steve][smith][two][games][fined][undisclosed][inappropriate][actions][comments][made][umpire][meals][25][game ;][suspended][kent][three][games][undisclosed][inappropriate][actions][27][game ;][suspended])
+v(0 1 2 3 4 5 6 7 8 14 15 17 18 19 20 21 22 25 26 27 28 29 30 33 35 36 38 41 42 43 44 45 46): 9.121053695678711	 ([baseball][major][league][baseball :][suspended][texas][3b][coach][steve][amount][inappropriate][comments][made][umpire][jerry][meals][aug.][suspended][chicago][cubs][p][kent][mercker][fined][amount][inappropriate][aug.][suspended][houston][manager][phil][garner][...])
+v(1 2 5 6 9 10 11 12 13 14 16 20 22 23 24 26 27 28 30 31 32 33 34 35 37 38 39 40 42 43 44 45 46): 9.24722671508789	 ([major][league][texas][3b][smith][two][games][fined][undisclosed][amount][actions][jerry][aug.][25][game ;][chicago][cubs][p][mercker][three][games][fined][undisclosed][amount][actions][aug.][27][game ;][houston][manager][phil][garner][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46): 9.035059928894043	 ([baseball][major][league][baseball :][suspended][texas][3b][coach][steve][smith][two][games][fined][undisclosed][amount][inappropriate][actions][comments][made][umpire][jerry][meals][aug.][25][game ;][suspended][chicago][cubs][p][kent][mercker][three][games][fined][undisclosed][amount][inappropriate][actions][aug.][27][game ;][suspended][houston][manager][phil][garner][...])
+---------- Rewards-v() ----------
+v(1 2 5 6 14 20 22 26 27 28 30 33 35 38 42 43 44 45 46): 11.078410148620605, EP: 1.0328840017318726	 ([major][league][texas][3b][amount][jerry][aug.][chicago][cubs][p][mercker][fined][amount][aug.][houston][manager][phil][garner][...])
+v(0 3 4 7 8 9 10 11 12 13 15 16 17 18 19 21 23 24 25 29 31 32 34 36 37 39 40 41): 11.00656509399414, EP: 1.0261856317520142	 ([baseball][baseball :][suspended][coach][steve][smith][two][games][fined][undisclosed][inappropriate][actions][comments][made][umpire][meals][25][game ;][suspended][kent][three][games][undisclosed][inappropriate][actions][27][game ;][suspended])
+v(1 2 5 6 9 10 11 12 13 14 16 20 22 23 24 26 27 28 30 31 32 33 34 35 37 38 39 40 42 43 44 45 46): 10.937872886657715, EP: 1.0197811126708984	 ([major][league][texas][3b][smith][two][games][fined][undisclosed][amount][actions][jerry][aug.][25][game ;][chicago][cubs][p][mercker][three][games][fined][undisclosed][amount][actions][aug.][27][game ;][houston][manager][phil][garner][...])
+v(0 1 2 3 4 5 6 7 8 14 15 17 18 19 20 21 22 25 26 27 28 29 30 33 35 36 38 41 42 43 44 45 46): 10.811699867248535, EP: 1.0080175399780273	 ([baseball][major][league][baseball :][suspended][texas][3b][coach][steve][amount][inappropriate][comments][made][umpire][jerry][meals][aug.][suspended][chicago][cubs][p][kent][mercker][fined][amount][inappropriate][aug.][suspended][houston][manager][phil][garner][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46): 10.725706100463867, EP: 1.0	 ([baseball][major][league][baseball :][suspended][texas][3b][coach][steve][smith][two][games][fined][undisclosed][amount][inappropriate][actions][comments][made][umpire][jerry][meals][aug.][25][game ;][suspended][chicago][cubs][p][kent][mercker][three][games][fined][undisclosed][amount][inappropriate][actions][aug.][27][game ;][suspended][houston][manager][phil][garner][...])
+v(9 10 11 12 13 16 23 24 31 32 34 37 39 40): 10.662199974060059, EP: 0.994079053401947	 ([smith][two][games][fined][undisclosed][actions][25][game ;][three][games][undisclosed][actions][27][game ;])
+v(0 3 4 7 8 15 17 18 19 21 25 29 36 41): 9.827532768249512, EP: 0.916259765625	 ([baseball][baseball :][suspended][coach][steve][inappropriate][comments][made][umpire][meals][suspended][kent][inappropriate][suspended])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

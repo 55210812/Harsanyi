@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: \ $ 5
+Player 1: million
+Player 2: shortfall
+Player 3: client
+Player 4: funds
+Player 5: discovered
+Player 6: wellington - based
+Player 7: discount
+Player 8: broker
+Player 9: access
+Player 10: brokerage
+Player 11: placed
+Player 12: liquidation
+Player 13: yesterday.
+---------- Rewards ----------
+v(): -6.8588457107543945	 ([])
+v(4 7 8 10 12): 7.945502281188965	 ([funds][discount][broker][brokerage][liquidation])
+v(0 1 2 3 5 6 9 11 13): -5.2905497550964355	 ([\ $ 5][million][shortfall][client][discovered][wellington - based][access][placed][yesterday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 7.230578899383545	 ([\ $ 5][million][shortfall][client][funds][discovered][wellington - based][discount][broker][access][brokerage][placed][liquidation][yesterday.])
+---------- Rewards-v() ----------
+v(4 7 8 10 12): 14.80434799194336, EP: 1.0507419109344482	 ([funds][discount][broker][brokerage][liquidation])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 14.089424133300781, EP: 1.0	 ([\ $ 5][million][shortfall][client][funds][discovered][wellington - based][discount][broker][access][brokerage][placed][liquidation][yesterday.])
+v(0 1 2 3 5 6 9 11 13): 1.568295955657959, EP: 0.11131015419960022	 ([\ $ 5][million][shortfall][client][discovered][wellington - based][access][placed][yesterday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

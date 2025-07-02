@@ -1,0 +1,30 @@
+---------- Players ----------
+Player 0: manchester
+Player 1: city
+Player 2: stand
+Player 3: firm
+Player 4: deny
+Player 5: united
+Player 6: manchester
+Player 7: derby
+Player 8: old
+Player 9: trafford.
+---------- Rewards ----------
+v(): -9.030592918395996	 ([])
+v(5 6 7 9): -7.860723972320557	 ([united][manchester][derby][trafford.])
+v(0 1): -10.83162784576416	 ([manchester][city])
+v(2 3 4 8): -7.398046493530273	 ([stand][firm][deny][old])
+v(0 1 5 6 7 9): -4.583240509033203	 ([manchester][city][united][manchester][derby][trafford.])
+v(2 3 4 5 6 7 8 9): -1.5272247791290283	 ([stand][firm][deny][united][manchester][derby][old][trafford.])
+v(0 1 2 3 4 8): -10.598100662231445	 ([manchester][city][stand][firm][deny][old])
+v(0 1 2 3 4 5 6 7 8 9): 6.590501308441162	 ([manchester][city][stand][firm][deny][united][manchester][derby][old][trafford.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9): 15.62109375, EP: 1.0	 ([manchester][city][stand][firm][deny][united][manchester][derby][old][trafford.])
+v(2 3 4 5 6 7 8 9): 7.503368377685547, EP: 0.48033565282821655	 ([stand][firm][deny][united][manchester][derby][old][trafford.])
+v(0 1 5 6 7 9): 4.447352409362793, EP: 0.28470173478126526	 ([manchester][city][united][manchester][derby][trafford.])
+v(0 1): -1.801034927368164, EP: -0.11529505997896194	 ([manchester][city])
+v(2 3 4 8): 1.6325464248657227, EP: 0.10450910031795502	 ([stand][firm][deny][old])
+v(0 1 2 3 4 8): -1.5675077438354492, EP: -0.10034558176994324	 ([manchester][city][stand][firm][deny][old])
+v(5 6 7 9): 1.1698689460754395, EP: 0.07489033788442612	 ([united][manchester][derby][trafford.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

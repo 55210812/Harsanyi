@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: federal
+Player 1: regulators
+Player 2: investigating
+Player 3: whether
+Player 4: traders
+Player 5: fidelity
+Player 6: investments
+Player 7: improperly
+Player 8: steered
+Player 9: business
+Player 10: brothers
+Player 11: work
+Player 12: brokerage
+Player 13: firms
+Player 14: execute
+Player 15: trades
+Player 16: mutual
+Player 17: fund
+Player 18: giant,
+Player 19: according
+Player 20: attorneys
+Player 21: others
+Player 22: involved
+Player 23: case.
+---------- Rewards ----------
+v(): -4.223458766937256	 ([])
+v(1 4 6 12 13 17 20): 8.442459106445312	 ([regulators][traders][investments][brokerage][firms][fund][attorneys])
+v(0 2 3 10 11 21 22 23): -0.2659536600112915	 ([federal][investigating][whether][brothers][work][others][involved][case.])
+v(5 7 8 9 14 15 16 18 19): 8.508256912231445	 ([fidelity][improperly][steered][business][execute][trades][mutual][giant,][according])
+v(0 1 2 3 4 6 10 11 12 13 17 20 21 22 23): 8.471229553222656	 ([federal][regulators][investigating][whether][traders][investments][brothers][work][brokerage][firms][fund][attorneys][others][involved][case.])
+v(1 4 5 6 7 8 9 12 13 14 15 16 17 18 19 20): 8.481314659118652	 ([regulators][traders][fidelity][investments][improperly][steered][business][brokerage][firms][execute][trades][mutual][fund][giant,][according][attorneys])
+v(0 2 3 5 7 8 9 10 11 14 15 16 18 19 21 22 23): 8.341352462768555	 ([federal][investigating][whether][fidelity][improperly][steered][business][brothers][work][execute][trades][mutual][giant,][according][others][involved][case.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.38595962524414	 ([federal][regulators][investigating][whether][traders][fidelity][investments][improperly][steered][business][brothers][work][brokerage][firms][execute][trades][mutual][fund][giant,][according][attorneys][others][involved][case.])
+---------- Rewards-v() ----------
+v(5 7 8 9 14 15 16 18 19): 12.73171615600586, EP: 1.0096988677978516	 ([fidelity][improperly][steered][business][execute][trades][mutual][giant,][according])
+v(1 4 5 6 7 8 9 12 13 14 15 16 17 18 19 20): 12.70477294921875, EP: 1.0075621604919434	 ([regulators][traders][fidelity][investments][improperly][steered][business][brokerage][firms][execute][trades][mutual][fund][giant,][according][attorneys])
+v(0 1 2 3 4 6 10 11 12 13 17 20 21 22 23): 12.69468879699707, EP: 1.0067623853683472	 ([federal][regulators][investigating][whether][traders][investments][brothers][work][brokerage][firms][fund][attorneys][others][involved][case.])
+v(1 4 6 12 13 17 20): 12.665918350219727, EP: 1.0044807195663452	 ([regulators][traders][investments][brokerage][firms][fund][attorneys])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 12.609418869018555, EP: 1.0	 ([federal][regulators][investigating][whether][traders][fidelity][investments][improperly][steered][business][brothers][work][brokerage][firms][execute][trades][mutual][fund][giant,][according][attorneys][others][involved][case.])
+v(0 2 3 5 7 8 9 10 11 14 15 16 18 19 21 22 23): 12.564811706542969, EP: 0.9964624047279358	 ([federal][investigating][whether][fidelity][improperly][steered][business][brothers][work][execute][trades][mutual][giant,][according][others][involved][case.])
+v(0 2 3 10 11 21 22 23): 3.957505226135254, EP: 0.31385311484336853	 ([federal][investigating][whether][brothers][work][others][involved][case.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

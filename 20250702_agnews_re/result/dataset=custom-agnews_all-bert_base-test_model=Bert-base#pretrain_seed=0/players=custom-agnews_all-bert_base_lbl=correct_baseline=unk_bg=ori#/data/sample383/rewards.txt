@@ -1,0 +1,49 @@
+---------- Players ----------
+Player 0: got
+Player 1: along
+Player 2: first
+Player 3: time
+Player 4: met,
+Player 5: early
+Player 6: 1996.
+Player 7: 22 - year - old
+Player 8: kid
+Player 9: unforgettable
+Player 10: name
+Player 11: - -
+Player 12: lawyer
+Player 13: - -
+Player 14: impressed
+Player 15: bill
+Player 16: belichick.
+Player 17: sat
+Player 18: day
+Player 19: begun
+Player 20: watching
+Player 21: football
+Player 22: films.
+Player 23: three
+Player 24: four
+Player 25: hours
+Player 26: later
+Player 27: still
+Player 28: going.
+---------- Rewards ----------
+v(): -3.5431013107299805	 ([])
+v(9 11 12 14 15 16 21 22 23): 6.841350078582764	 ([unforgettable][- -][lawyer][impressed][bill][belichick.][football][films.][three])
+v(0 1 2 3 4 5 6 7 8 10 13 19): -1.7322192192077637	 ([got][along][first][time][met,][early][1996.][22 - year - old][kid][name][- -][begun])
+v(17 18 20 24 25 26 27 28): 2.080172538757324	 ([sat][day][watching][four][hours][later][still][going.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 23): 7.575984001159668	 ([got][along][first][time][met,][early][1996.][22 - year - old][kid][unforgettable][name][- -][lawyer][- -][impressed][bill][belichick.][begun][football][films.][three])
+v(9 11 12 14 15 16 17 18 20 21 22 23 24 25 26 27 28): 8.715679168701172	 ([unforgettable][- -][lawyer][impressed][bill][belichick.][sat][day][watching][football][films.][three][four][hours][later][still][going.])
+v(0 1 2 3 4 5 6 7 8 10 13 17 18 19 20 24 25 26 27 28): -0.7954537868499756	 ([got][along][first][time][met,][early][1996.][22 - year - old][kid][name][- -][sat][day][begun][watching][four][hours][later][still][going.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 8.618976593017578	 ([got][along][first][time][met,][early][1996.][22 - year - old][kid][unforgettable][name][- -][lawyer][- -][impressed][bill][belichick.][sat][day][begun][watching][football][films.][three][four][hours][later][still][going.])
+---------- Rewards-v() ----------
+v(9 11 12 14 15 16 17 18 20 21 22 23 24 25 26 27 28): 12.258780479431152, EP: 1.0079511404037476	 ([unforgettable][- -][lawyer][impressed][bill][belichick.][sat][day][watching][football][films.][three][four][hours][later][still][going.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 12.162077903747559, EP: 1.0	 ([got][along][first][time][met,][early][1996.][22 - year - old][kid][unforgettable][name][- -][lawyer][- -][impressed][bill][belichick.][sat][day][begun][watching][football][films.][three][four][hours][later][still][going.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 23): 11.119085311889648, EP: 0.9142422080039978	 ([got][along][first][time][met,][early][1996.][22 - year - old][kid][unforgettable][name][- -][lawyer][- -][impressed][bill][belichick.][begun][football][films.][three])
+v(9 11 12 14 15 16 21 22 23): 10.384450912475586, EP: 0.8538385629653931	 ([unforgettable][- -][lawyer][impressed][bill][belichick.][football][films.][three])
+v(17 18 20 24 25 26 27 28): 5.623273849487305, EP: 0.46236127614974976	 ([sat][day][watching][four][hours][later][still][going.])
+v(0 1 2 3 4 5 6 7 8 10 13 17 18 19 20 24 25 26 27 28): 2.747647523880005, EP: 0.22591924667358398	 ([got][along][first][time][met,][early][1996.][22 - year - old][kid][name][- -][sat][day][begun][watching][four][hours][later][still][going.])
+v(0 1 2 3 4 5 6 7 8 10 13 19): 1.8108820915222168, EP: 0.14889578521251678	 ([got][along][first][time][met,][early][1996.][22 - year - old][kid][name][- -][begun])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

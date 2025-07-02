@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: rain
+Player 1: played
+Player 2: havoc
+Player 3: schedule
+Player 4: makers
+Player 5: us
+Player 6: open
+Player 7: yesterday.
+Player 8: eight
+Player 9: days
+Player 10: ideal
+Player 11: weather,
+Player 12: rain
+Player 13: forced
+Player 14: significant
+Player 15: revisions
+Player 16: schedule,
+Player 17: scuttling
+Player 18: day
+---------- Rewards ----------
+v(): -4.5269269943237305	 ([])
+v(5 6 7 10 18): -1.0598387718200684	 ([us][open][yesterday.][ideal][day])
+v(0 1 2 3 4 9 11 12 15): 1.161414623260498	 ([rain][played][havoc][schedule][makers][days][weather,][rain][revisions])
+v(8 13 14 16 17): -5.250063896179199	 ([eight][forced][significant][schedule,][scuttling])
+v(0 1 2 3 4 5 6 7 9 10 11 12 15 18): 8.992422103881836	 ([rain][played][havoc][schedule][makers][us][open][yesterday.][days][ideal][weather,][rain][revisions][day])
+v(5 6 7 8 10 13 14 16 17 18): 8.067852973937988	 ([us][open][yesterday.][eight][ideal][forced][significant][schedule,][scuttling][day])
+v(0 1 2 3 4 8 9 11 12 13 14 15 16 17): 0.5777058601379395	 ([rain][played][havoc][schedule][makers][eight][days][weather,][rain][forced][significant][revisions][schedule,][scuttling])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.307560920715332	 ([rain][played][havoc][schedule][makers][us][open][yesterday.][eight][days][ideal][weather,][rain][forced][significant][revisions][schedule,][scuttling][day])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 13.834487915039062, EP: 1.0	 ([rain][played][havoc][schedule][makers][us][open][yesterday.][eight][days][ideal][weather,][rain][forced][significant][revisions][schedule,][scuttling][day])
+v(0 1 2 3 4 5 6 7 9 10 11 12 15 18): 13.519349098205566, EP: 0.9772207736968994	 ([rain][played][havoc][schedule][makers][us][open][yesterday.][days][ideal][weather,][rain][revisions][day])
+v(5 6 7 8 10 13 14 16 17 18): 12.594779968261719, EP: 0.9103900194168091	 ([us][open][yesterday.][eight][ideal][forced][significant][schedule,][scuttling][day])
+v(0 1 2 3 4 9 11 12 15): 5.6883416175842285, EP: 0.4111711084842682	 ([rain][played][havoc][schedule][makers][days][weather,][rain][revisions])
+v(0 1 2 3 4 8 9 11 12 13 14 15 16 17): 5.10463285446167, EP: 0.3689787983894348	 ([rain][played][havoc][schedule][makers][eight][days][weather,][rain][forced][significant][revisions][schedule,][scuttling])
+v(5 6 7 10 18): 3.467088222503662, EP: 0.25061196088790894	 ([us][open][yesterday.][ideal][day])
+v(8 13 14 16 17): -0.7231369018554688, EP: -0.052270594984292984	 ([eight][forced][significant][schedule,][scuttling])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: virgin
+Player 1: boss
+Player 2: sir
+Player 3: richard
+Player 4: branson
+Player 5: said
+Player 6: group
+Player 7: talks
+Player 8: chinese
+Player 9: company
+Player 10: setting
+Player 11: mobile
+Player 12: phone
+Player 13: service
+Player 14: mainland
+Player 15: china.
+---------- Rewards ----------
+v(): -6.447930335998535	 ([])
+v(0 1 2 3 4 5 11): -4.878016948699951	 ([virgin][boss][sir][richard][branson][said][mobile])
+v(8 9 10 12): -7.133488178253174	 ([chinese][company][setting][phone])
+v(6 7 13 14 15): -2.389968156814575	 ([group][talks][service][mainland][china.])
+v(0 1 2 3 4 5 8 9 10 11 12): -0.4812347888946533	 ([virgin][boss][sir][richard][branson][said][chinese][company][setting][mobile][phone])
+v(0 1 2 3 4 5 6 7 11 13 14 15): -0.5402723550796509	 ([virgin][boss][sir][richard][branson][said][group][talks][mobile][service][mainland][china.])
+v(6 7 8 9 10 12 13 14 15): -5.638760566711426	 ([group][talks][chinese][company][setting][phone][service][mainland][china.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 0.4750936031341553	 ([virgin][boss][sir][richard][branson][said][group][talks][chinese][company][setting][mobile][phone][service][mainland][china.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 6.9230241775512695, EP: 1.0	 ([virgin][boss][sir][richard][branson][said][group][talks][chinese][company][setting][mobile][phone][service][mainland][china.])
+v(0 1 2 3 4 5 8 9 10 11 12): 5.966695785522461, EP: 0.8618625998497009	 ([virgin][boss][sir][richard][branson][said][chinese][company][setting][mobile][phone])
+v(0 1 2 3 4 5 6 7 11 13 14 15): 5.907658100128174, EP: 0.853334903717041	 ([virgin][boss][sir][richard][branson][said][group][talks][mobile][service][mainland][china.])
+v(6 7 13 14 15): 4.057962417602539, EP: 0.586154580116272	 ([group][talks][service][mainland][china.])
+v(0 1 2 3 4 5 11): 1.569913387298584, EP: 0.22676698863506317	 ([virgin][boss][sir][richard][branson][said][mobile])
+v(6 7 8 9 10 12 13 14 15): 0.8091697692871094, EP: 0.11688096821308136	 ([group][talks][chinese][company][setting][phone][service][mainland][china.])
+v(8 9 10 12): -0.6855578422546387, EP: -0.09902577847242355	 ([chinese][company][setting][phone])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

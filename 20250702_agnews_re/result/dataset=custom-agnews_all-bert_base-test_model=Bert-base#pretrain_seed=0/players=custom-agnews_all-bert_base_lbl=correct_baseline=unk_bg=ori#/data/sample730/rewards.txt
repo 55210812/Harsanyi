@@ -1,0 +1,51 @@
+---------- Players ----------
+Player 0: consumer
+Player 1: confidence
+Player 2: increased
+Player 3: slightly
+Player 4: across
+Player 5: region
+Player 6: going
+Player 7: christmas
+Player 8: shopping
+Player 9: season,
+Player 10: although
+Player 11: remains
+Player 12: levels
+Player 13: year
+Player 14: before.
+---------- Rewards ----------
+v(): -4.452972888946533	 ([])
+v(0 1 7 8): 8.129295349121094	 ([consumer][confidence][christmas][shopping])
+v(13 14): -3.3307104110717773	 ([year][before.])
+v(9 10 11): -3.117640972137451	 ([season,][although][remains])
+v(2 3 4 5 6 12): -1.1553081274032593	 ([increased][slightly][across][region][going][levels])
+v(0 1 7 8 13 14): 7.667885780334473	 ([consumer][confidence][christmas][shopping][year][before.])
+v(0 1 7 8 9 10 11): 8.087186813354492	 ([consumer][confidence][christmas][shopping][season,][although][remains])
+v(0 1 2 3 4 5 6 7 8 12): 8.449585914611816	 ([consumer][confidence][increased][slightly][across][region][going][christmas][shopping][levels])
+v(9 10 11 13 14): -2.9970617294311523	 ([season,][although][remains][year][before.])
+v(2 3 4 5 6 12 13 14): 2.548604965209961	 ([increased][slightly][across][region][going][levels][year][before.])
+v(2 3 4 5 6 9 10 11 12): 4.482129096984863	 ([increased][slightly][across][region][going][season,][although][remains][levels])
+v(0 1 7 8 9 10 11 13 14): 7.447836875915527	 ([consumer][confidence][christmas][shopping][season,][although][remains][year][before.])
+v(0 1 2 3 4 5 6 7 8 12 13 14): 8.217753410339355	 ([consumer][confidence][increased][slightly][across][region][going][christmas][shopping][levels][year][before.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 8.255266189575195	 ([consumer][confidence][increased][slightly][across][region][going][christmas][shopping][season,][although][remains][levels])
+v(2 3 4 5 6 9 10 11 12 13 14): 3.6030592918395996	 ([increased][slightly][across][region][going][season,][although][remains][levels][year][before.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 8.000905990600586	 ([consumer][confidence][increased][slightly][across][region][going][christmas][shopping][season,][although][remains][levels][year][before.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 12): 12.902559280395508, EP: 1.036027431488037	 ([consumer][confidence][increased][slightly][across][region][going][christmas][shopping][levels])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 12.70823860168457, EP: 1.0204241275787354	 ([consumer][confidence][increased][slightly][across][region][going][christmas][shopping][season,][although][remains][levels])
+v(0 1 2 3 4 5 6 7 8 12 13 14): 12.670726776123047, EP: 1.0174120664596558	 ([consumer][confidence][increased][slightly][across][region][going][christmas][shopping][levels][year][before.])
+v(0 1 7 8): 12.582267761230469, EP: 1.0103092193603516	 ([consumer][confidence][christmas][shopping])
+v(0 1 7 8 9 10 11): 12.540159225463867, EP: 1.0069280862808228	 ([consumer][confidence][christmas][shopping][season,][although][remains])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 12.453878402709961, EP: 1.0	 ([consumer][confidence][increased][slightly][across][region][going][christmas][shopping][season,][although][remains][levels][year][before.])
+v(0 1 7 8 13 14): 12.120859146118164, EP: 0.9732598066329956	 ([consumer][confidence][christmas][shopping][year][before.])
+v(0 1 7 8 9 10 11 13 14): 11.900810241699219, EP: 0.9555906653404236	 ([consumer][confidence][christmas][shopping][season,][although][remains][year][before.])
+v(2 3 4 5 6 9 10 11 12): 8.935102462768555, EP: 0.7174553871154785	 ([increased][slightly][across][region][going][season,][although][remains][levels])
+v(2 3 4 5 6 9 10 11 12 13 14): 8.056032180786133, EP: 0.6468693614006042	 ([increased][slightly][across][region][going][season,][although][remains][levels][year][before.])
+v(2 3 4 5 6 12 13 14): 7.001577854156494, EP: 0.5622006058692932	 ([increased][slightly][across][region][going][levels][year][before.])
+v(2 3 4 5 6 12): 3.2976646423339844, EP: 0.2647901773452759	 ([increased][slightly][across][region][going][levels])
+v(9 10 11 13 14): 1.4559111595153809, EP: 0.11690423637628555	 ([season,][although][remains][year][before.])
+v(9 10 11): 1.335331916809082, EP: 0.10722217708826065	 ([season,][although][remains])
+v(13 14): 1.1222624778747559, EP: 0.09011349081993103	 ([year][before.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

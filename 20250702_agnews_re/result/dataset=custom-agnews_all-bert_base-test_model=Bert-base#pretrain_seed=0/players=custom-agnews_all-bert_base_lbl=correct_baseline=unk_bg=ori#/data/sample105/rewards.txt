@@ -1,0 +1,21 @@
+---------- Players ----------
+Player 0: proposed
+Player 1: law
+Player 2: would
+Player 3: limit
+Player 4: foreign
+Player 5: funding
+Player 6: churches
+Player 7: aids
+Player 8: programs.
+---------- Rewards ----------
+v(): -5.579321384429932	 ([])
+v(5 6 7 8): -0.7313587665557861	 ([funding][churches][aids][programs.])
+v(0 1 2 3 4): 3.521625280380249	 ([proposed][law][would][limit][foreign])
+v(0 1 2 3 4 5 6 7 8): 2.982301950454712	 ([proposed][law][would][limit][foreign][funding][churches][aids][programs.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4): 9.100946426391602, EP: 1.062993049621582	 ([proposed][law][would][limit][foreign])
+v(0 1 2 3 4 5 6 7 8): 8.561623573303223, EP: 1.0	 ([proposed][law][would][limit][foreign][funding][churches][aids][programs.])
+v(5 6 7 8): 4.847962379455566, EP: 0.5662433505058289	 ([funding][churches][aids][programs.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

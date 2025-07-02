@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: tokyo
+Player 1: -
+Player 2: magnitude
+Player 3: 5. 9
+Player 4: earthquake
+Player 5: rocked
+Player 6: northern
+Player 7: japan
+Player 8: today
+Player 9: injuring
+Player 10: least
+Player 11: eight
+Player 12: people,
+Player 13: near
+Player 14: area
+Player 15: country
+Player 16: # 39 ; s
+Player 17: deadliest
+Player 18: earthquake
+Player 19: years
+Player 20: struck
+Player 21: last
+Player 22: month.
+---------- Rewards ----------
+v(): -5.1841607093811035	 ([])
+v(0 1 4 11 12 13 15 17 18 20): 7.562370777130127	 ([tokyo][-][earthquake][eight][people,][near][country][deadliest][earthquake][struck])
+v(2 5 7 8 10 14 16 19 21 22): 6.354293346405029	 ([magnitude][rocked][japan][today][least][area][# 39 ; s][years][last][month.])
+v(3 6 9): 0.36611974239349365	 ([5. 9][northern][injuring])
+v(0 1 2 4 5 7 8 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.763654708862305	 ([tokyo][-][magnitude][earthquake][rocked][japan][today][least][eight][people,][near][area][country][# 39 ; s][deadliest][earthquake][years][struck][last][month.])
+v(0 1 3 4 6 9 11 12 13 15 17 18 20): 8.07714557647705	 ([tokyo][-][5. 9][earthquake][northern][injuring][eight][people,][near][country][deadliest][earthquake][struck])
+v(2 3 5 6 7 8 9 10 14 16 19 21 22): 7.655719757080078	 ([magnitude][5. 9][rocked][northern][japan][today][injuring][least][area][# 39 ; s][years][last][month.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.077198028564453	 ([tokyo][-][magnitude][5. 9][earthquake][rocked][northern][japan][today][injuring][least][eight][people,][near][area][country][# 39 ; s][deadliest][earthquake][years][struck][last][month.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 13.261358261108398, EP: 1.0	 ([tokyo][-][magnitude][5. 9][earthquake][rocked][northern][japan][today][injuring][least][eight][people,][near][area][country][# 39 ; s][deadliest][earthquake][years][struck][last][month.])
+v(0 1 3 4 6 9 11 12 13 15 17 18 20): 13.261306762695312, EP: 0.9999961256980896	 ([tokyo][-][5. 9][earthquake][northern][injuring][eight][people,][near][country][deadliest][earthquake][struck])
+v(0 1 2 4 5 7 8 10 11 12 13 14 15 16 17 18 19 20 21 22): 12.94781494140625, EP: 0.9763566255569458	 ([tokyo][-][magnitude][earthquake][rocked][japan][today][least][eight][people,][near][area][country][# 39 ; s][deadliest][earthquake][years][struck][last][month.])
+v(2 3 5 6 7 8 9 10 14 16 19 21 22): 12.839879989624023, EP: 0.9682175517082214	 ([magnitude][5. 9][rocked][northern][japan][today][injuring][least][area][# 39 ; s][years][last][month.])
+v(0 1 4 11 12 13 15 17 18 20): 12.74653148651123, EP: 0.9611784219741821	 ([tokyo][-][earthquake][eight][people,][near][country][deadliest][earthquake][struck])
+v(2 5 7 8 10 14 16 19 21 22): 11.538454055786133, EP: 0.8700808882713318	 ([magnitude][rocked][japan][today][least][area][# 39 ; s][years][last][month.])
+v(3 6 9): 5.550280570983887, EP: 0.41853031516075134	 ([5. 9][northern][injuring])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: pick
+Player 1: two
+Player 2: scientists,
+Player 3: two
+Player 4: scientists
+Player 5: strong
+Player 6: climatology
+Player 7: credentials,
+Player 8: ask
+Player 9: whether
+Player 10: global
+Player 11: warming
+Player 12: anything
+Player 13: recent
+Player 14: onslaught
+Player 15: hurricanes
+Player 16: typhoons.
+---------- Rewards ----------
+v(): 3.947847604751587	 ([])
+v(0 13 14 15): -1.2156507968902588	 ([pick][recent][onslaught][hurricanes])
+v(2 3 4 6 7 10 11): 8.107033729553223	 ([scientists,][two][scientists][climatology][credentials,][global][warming])
+v(1 5 8 9 12 16): 3.7334094047546387	 ([two][strong][ask][whether][anything][typhoons.])
+v(0 2 3 4 6 7 10 11 13 14 15): 8.024338722229004	 ([pick][scientists,][two][scientists][climatology][credentials,][global][warming][recent][onslaught][hurricanes])
+v(0 1 5 8 9 12 13 14 15 16): 6.207383155822754	 ([pick][two][strong][ask][whether][anything][recent][onslaught][hurricanes][typhoons.])
+v(1 2 3 4 5 6 7 8 9 10 11 12 16): 7.7370147705078125	 ([two][scientists,][two][scientists][strong][climatology][credentials,][ask][whether][global][warming][anything][typhoons.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.293614864349365	 ([pick][two][scientists,][two][scientists][strong][climatology][credentials,][ask][whether][global][warming][anything][recent][onslaught][hurricanes][typhoons.])
+---------- Rewards-v() ----------
+v(0 13 14 15): -5.163498401641846, EP: -1.543292760848999	 ([pick][recent][onslaught][hurricanes])
+v(2 3 4 6 7 10 11): 4.159186363220215, EP: 1.2431188821792603	 ([scientists,][two][scientists][climatology][credentials,][global][warming])
+v(0 2 3 4 6 7 10 11 13 14 15): 4.076491355895996, EP: 1.2184025049209595	 ([pick][scientists,][two][scientists][climatology][credentials,][global][warming][recent][onslaught][hurricanes])
+v(1 2 3 4 5 6 7 8 9 10 11 12 16): 3.7891671657562256, EP: 1.1325256824493408	 ([two][scientists,][two][scientists][strong][climatology][credentials,][ask][whether][global][warming][anything][typhoons.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 3.3457672595977783, EP: 1.0	 ([pick][two][scientists,][two][scientists][strong][climatology][credentials,][ask][whether][global][warming][anything][recent][onslaught][hurricanes][typhoons.])
+v(0 1 5 8 9 12 13 14 15 16): 2.259535551071167, EP: 0.6753415465354919	 ([pick][two][strong][ask][whether][anything][recent][onslaught][hurricanes][typhoons.])
+v(1 5 8 9 12 16): -0.21443819999694824, EP: -0.06409238278865814	 ([two][strong][ask][whether][anything][typhoons.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

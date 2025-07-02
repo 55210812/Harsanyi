@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: london
+Player 1: ( reuters )
+Player 2: -
+Player 3: yen
+Player 4: fell
+Player 5: half
+Player 6: percent
+Player 7: major
+Player 8: currencies
+Player 9: friday
+Player 10: surprising
+Player 11: downward
+Player 12: revision
+Player 13: japanese
+Player 14: growth,
+Player 15: dollar
+Player 16: hit
+Player 17: three - week
+Player 18: lows
+Player 19: euro
+Player 20: worries
+Player 21: u. s.
+Player 22: trade
+Player 23: deficit.
+---------- Rewards ----------
+v(): -2.5655951499938965	 ([])
+v(3 8 14 15 19 21 22 23): 6.821804046630859	 ([yen][currencies][growth,][dollar][euro][u. s.][trade][deficit.])
+v(0 1 4 5 6 7 9 10 11 12 13 17 18 20): 2.6228394508361816	 ([london][( reuters )][fell][half][percent][major][friday][surprising][downward][revision][japanese][three - week][lows][worries])
+v(2 16): -2.6983249187469482	 ([-][hit])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 20 21 22 23): 5.020977020263672	 ([london][( reuters )][yen][fell][half][percent][major][currencies][friday][surprising][downward][revision][japanese][growth,][dollar][three - week][lows][euro][worries][u. s.][trade][deficit.])
+v(2 3 8 14 15 16 19 21 22 23): 7.075257778167725	 ([-][yen][currencies][growth,][dollar][hit][euro][u. s.][trade][deficit.])
+v(0 1 2 4 5 6 7 9 10 11 12 13 16 17 18 20): 3.8320586681365967	 ([london][( reuters )][-][fell][half][percent][major][friday][surprising][downward][revision][japanese][hit][three - week][lows][worries])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 7.870819091796875	 ([london][( reuters )][-][yen][fell][half][percent][major][currencies][friday][surprising][downward][revision][japanese][growth,][dollar][hit][three - week][lows][euro][worries][u. s.][trade][deficit.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 10.43641471862793, EP: 1.0	 ([london][( reuters )][-][yen][fell][half][percent][major][currencies][friday][surprising][downward][revision][japanese][growth,][dollar][hit][three - week][lows][euro][worries][u. s.][trade][deficit.])
+v(2 3 8 14 15 16 19 21 22 23): 9.640852928161621, EP: 0.9237706065177917	 ([-][yen][currencies][growth,][dollar][hit][euro][u. s.][trade][deficit.])
+v(3 8 14 15 19 21 22 23): 9.387399673461914, EP: 0.8994851112365723	 ([yen][currencies][growth,][dollar][euro][u. s.][trade][deficit.])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 20 21 22 23): 7.586572170257568, EP: 0.7269328236579895	 ([london][( reuters )][yen][fell][half][percent][major][currencies][friday][surprising][downward][revision][japanese][growth,][dollar][three - week][lows][euro][worries][u. s.][trade][deficit.])
+v(0 1 2 4 5 6 7 9 10 11 12 13 16 17 18 20): 6.397653579711914, EP: 0.6130126118659973	 ([london][( reuters )][-][fell][half][percent][major][friday][surprising][downward][revision][japanese][hit][three - week][lows][worries])
+v(0 1 4 5 6 7 9 10 11 12 13 17 18 20): 5.188434600830078, EP: 0.49714723229408264	 ([london][( reuters )][fell][half][percent][major][friday][surprising][downward][revision][japanese][three - week][lows][worries])
+v(2 16): -0.13272976875305176, EP: -0.012717947363853455	 ([-][hit])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

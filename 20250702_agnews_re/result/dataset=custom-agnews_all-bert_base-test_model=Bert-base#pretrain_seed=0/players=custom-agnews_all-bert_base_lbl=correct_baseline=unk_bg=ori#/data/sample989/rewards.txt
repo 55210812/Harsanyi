@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: larry
+Player 3: walker
+Player 4: learned
+Player 5: quickly
+Player 6: st.
+Player 7: louis
+Player 8: cardinals '
+Player 9: fans
+Player 10: know
+Player 11: celebrate.
+---------- Rewards ----------
+v(): -7.688889503479004	 ([])
+v(1 2 4 11): -3.6162960529327393	 ([-][larry][learned][celebrate.])
+v(0 3 7 8 9): 9.246920585632324	 ([ap][walker][louis][cardinals '][fans])
+v(5 6 10): -3.6406919956207275	 ([quickly][st.][know])
+v(0 1 2 3 4 7 8 9 11): 9.670412063598633	 ([ap][-][larry][walker][learned][louis][cardinals '][fans][celebrate.])
+v(1 2 4 5 6 10 11): -2.6084225177764893	 ([-][larry][learned][quickly][st.][know][celebrate.])
+v(0 3 5 6 7 8 9 10): 9.340826988220215	 ([ap][walker][quickly][st.][louis][cardinals '][fans][know])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 9.749935150146484	 ([ap][-][larry][walker][learned][quickly][st.][louis][cardinals '][fans][know][celebrate.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11): 17.438823699951172, EP: 1.0	 ([ap][-][larry][walker][learned][quickly][st.][louis][cardinals '][fans][know][celebrate.])
+v(0 1 2 3 4 7 8 9 11): 17.359302520751953, EP: 0.9954400062561035	 ([ap][-][larry][walker][learned][louis][cardinals '][fans][celebrate.])
+v(0 3 5 6 7 8 9 10): 17.02971649169922, EP: 0.9765404462814331	 ([ap][walker][quickly][st.][louis][cardinals '][fans][know])
+v(0 3 7 8 9): 16.935810089111328, EP: 0.9711555242538452	 ([ap][walker][louis][cardinals '][fans])
+v(1 2 4 5 6 10 11): 5.080467224121094, EP: 0.29133084416389465	 ([-][larry][learned][quickly][st.][know][celebrate.])
+v(1 2 4 11): 4.072593688964844, EP: 0.233536034822464	 ([-][larry][learned][celebrate.])
+v(5 6 10): 4.0481977462768555, EP: 0.23213708400726318	 ([quickly][st.][know])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

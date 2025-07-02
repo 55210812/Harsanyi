@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: dollar
+Player 1: fell
+Player 2: record
+Player 3: euro
+Player 4: dropped
+Player 5: yen
+Player 6: yesterday
+Player 7: treasury
+Player 8: secretary
+Player 9: john
+Player 10: w.
+Player 11: snow
+Player 12: signaled
+Player 13: would
+Player 14: back
+Player 15: agreement
+Player 16: stem
+Player 17: currency
+Player 18: # 39 ; s
+Player 19: slide.
+---------- Rewards ----------
+v(): -3.413145065307617	 ([])
+v(0 3 5 7 9 17): 4.134786128997803	 ([dollar][euro][yen][treasury][john][currency])
+v(1 2 4 6 8 10 11 12 13 14 15 16 18 19): 4.936655521392822	 ([fell][record][dropped][yesterday][secretary][w.][snow][signaled][would][back][agreement][stem][# 39 ; s][slide.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.790101051330566	 ([dollar][fell][record][euro][dropped][yen][yesterday][treasury][secretary][john][w.][snow][signaled][would][back][agreement][stem][currency][# 39 ; s][slide.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 11.203246116638184, EP: 1.0	 ([dollar][fell][record][euro][dropped][yen][yesterday][treasury][secretary][john][w.][snow][signaled][would][back][agreement][stem][currency][# 39 ; s][slide.])
+v(1 2 4 6 8 10 11 12 13 14 15 16 18 19): 8.349800109863281, EP: 0.7453018426895142	 ([fell][record][dropped][yesterday][secretary][w.][snow][signaled][would][back][agreement][stem][# 39 ; s][slide.])
+v(0 3 5 7 9 17): 7.54793119430542, EP: 0.6737271547317505	 ([dollar][euro][yen][treasury][john][currency])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

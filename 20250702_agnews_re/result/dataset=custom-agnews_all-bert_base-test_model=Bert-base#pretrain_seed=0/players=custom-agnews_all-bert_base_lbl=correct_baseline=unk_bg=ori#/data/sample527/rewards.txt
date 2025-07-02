@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: australian
+Player 1: rugby
+Player 2: league
+Player 3: coach
+Player 4: wayne
+Player 5: bennett
+Player 6: yesterday
+Player 7: slammed
+Player 8: perception
+Player 9: kangaroos
+Player 10: would
+Player 11: lose
+Player 12: tri - nations
+Player 13: final
+Player 14: tournament
+Player 15: succeed.
+---------- Rewards ----------
+v(): -4.019702434539795	 ([])
+v(0 1 2 14 15): 9.29667854309082	 ([australian][rugby][league][tournament][succeed.])
+v(3 4 5 6 7 8 9 10): 9.605581283569336	 ([coach][wayne][bennett][yesterday][slammed][perception][kangaroos][would])
+v(11 12 13): 3.999159336090088	 ([lose][tri - nations][final])
+v(0 1 2 3 4 5 6 7 8 9 10 14 15): 9.495142936706543	 ([australian][rugby][league][coach][wayne][bennett][yesterday][slammed][perception][kangaroos][would][tournament][succeed.])
+v(0 1 2 11 12 13 14 15): 9.48189926147461	 ([australian][rugby][league][lose][tri - nations][final][tournament][succeed.])
+v(3 4 5 6 7 8 9 10 11 12 13): 9.499101638793945	 ([coach][wayne][bennett][yesterday][slammed][perception][kangaroos][would][lose][tri - nations][final])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.401971817016602	 ([australian][rugby][league][coach][wayne][bennett][yesterday][slammed][perception][kangaroos][would][lose][tri - nations][final][tournament][succeed.])
+---------- Rewards-v() ----------
+v(3 4 5 6 7 8 9 10): 13.625284194946289, EP: 1.0151702165603638	 ([coach][wayne][bennett][yesterday][slammed][perception][kangaroos][would])
+v(3 4 5 6 7 8 9 10 11 12 13): 13.518804550170898, EP: 1.0072368383407593	 ([coach][wayne][bennett][yesterday][slammed][perception][kangaroos][would][lose][tri - nations][final])
+v(0 1 2 3 4 5 6 7 8 9 10 14 15): 13.51484489440918, EP: 1.006941795349121	 ([australian][rugby][league][coach][wayne][bennett][yesterday][slammed][perception][kangaroos][would][tournament][succeed.])
+v(0 1 2 11 12 13 14 15): 13.501602172851562, EP: 1.0059551000595093	 ([australian][rugby][league][lose][tri - nations][final][tournament][succeed.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 13.421674728393555, EP: 1.0	 ([australian][rugby][league][coach][wayne][bennett][yesterday][slammed][perception][kangaroos][would][lose][tri - nations][final][tournament][succeed.])
+v(0 1 2 14 15): 13.316381454467773, EP: 0.9921549558639526	 ([australian][rugby][league][tournament][succeed.])
+v(11 12 13): 8.018861770629883, EP: 0.5974560976028442	 ([lose][tri - nations][final])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

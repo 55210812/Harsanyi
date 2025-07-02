@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: attorney
+Player 3: general
+Player 4: eliot
+Player 5: spitzer
+Player 6: filed
+Player 7: civil
+Player 8: suit
+Player 9: october
+Player 10: 14
+Player 11: worlds
+Player 12: largest
+Player 13: insurance
+Player 14: broker,
+Player 15: marsh
+Player 16: amp ;
+Player 17: mclennan,
+Player 18: charging
+Player 19: us
+Player 20: firm
+Player 21: bid - rigging
+Player 22: practices
+---------- Rewards ----------
+v(): -5.748379707336426	 ([])
+v(13 14 19 21 22): 7.624326705932617	 ([insurance][broker,][us][bid - rigging][practices])
+v(1 5 7 9 10 17): -1.8038959503173828	 ([york][spitzer][civil][october][14][mclennan,])
+v(0 2 3 4 6 8 11 12 15 16 18 20): 8.261913299560547	 ([new][attorney][general][eliot][filed][suit][worlds][largest][marsh][amp ;][charging][firm])
+v(1 5 7 9 10 13 14 17 19 21 22): 7.211127758026123	 ([york][spitzer][civil][october][14][insurance][broker,][mclennan,][us][bid - rigging][practices])
+v(0 2 3 4 6 8 11 12 13 14 15 16 18 19 20 21 22): 7.2805256843566895	 ([new][attorney][general][eliot][filed][suit][worlds][largest][insurance][broker,][marsh][amp ;][charging][us][firm][bid - rigging][practices])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 15 16 17 18 20): 8.054288864135742	 ([new][york][attorney][general][eliot][spitzer][filed][civil][suit][october][14][worlds][largest][marsh][amp ;][mclennan,][charging][firm])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 6.936947822570801	 ([new][york][attorney][general][eliot][spitzer][filed][civil][suit][october][14][worlds][largest][insurance][broker,][marsh][amp ;][mclennan,][charging][us][firm][bid - rigging][practices])
+---------- Rewards-v() ----------
+v(0 2 3 4 6 8 11 12 15 16 18 20): 14.010293006896973, EP: 1.104448676109314	 ([new][attorney][general][eliot][filed][suit][worlds][largest][marsh][amp ;][charging][firm])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 15 16 17 18 20): 13.802668571472168, EP: 1.0880813598632812	 ([new][york][attorney][general][eliot][spitzer][filed][civil][suit][october][14][worlds][largest][marsh][amp ;][mclennan,][charging][firm])
+v(13 14 19 21 22): 13.372706413269043, EP: 1.0541869401931763	 ([insurance][broker,][us][bid - rigging][practices])
+v(0 2 3 4 6 8 11 12 13 14 15 16 18 19 20 21 22): 13.028905868530273, EP: 1.0270847082138062	 ([new][attorney][general][eliot][filed][suit][worlds][largest][insurance][broker,][marsh][amp ;][charging][us][firm][bid - rigging][practices])
+v(1 5 7 9 10 13 14 17 19 21 22): 12.95950698852539, EP: 1.0216139554977417	 ([york][spitzer][civil][october][14][insurance][broker,][mclennan,][us][bid - rigging][practices])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 12.685327529907227, EP: 1.0	 ([new][york][attorney][general][eliot][spitzer][filed][civil][suit][october][14][worlds][largest][insurance][broker,][marsh][amp ;][mclennan,][charging][us][firm][bid - rigging][practices])
+v(1 5 7 9 10 17): 3.944483757019043, EP: 0.31094852089881897	 ([york][spitzer][civil][october][14][mclennan,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

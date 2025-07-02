@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: shift
+Player 1: strategy,
+Player 2: nintendo
+Player 3: plans
+Player 4: begin
+Player 5: selling
+Player 6: next
+Player 7: generation
+Player 8: hand - held
+Player 9: video
+Player 10: game
+Player 11: devices
+Player 12: united
+Player 13: states
+Player 14: time
+Player 15: coming
+Player 16: christmas
+Player 17: season.
+---------- Rewards ----------
+v(): 1.652402400970459	 ([])
+v(5 9 10 16 17): 1.0082321166992188	 ([selling][video][game][christmas][season.])
+v(1 2 3 4 8 11): 5.765614032745361	 ([strategy,][nintendo][plans][begin][hand - held][devices])
+v(0 6 7 12 13 14 15): 1.5904912948608398	 ([shift][next][generation][united][states][time][coming])
+v(1 2 3 4 5 8 9 10 11 16 17): 4.7422285079956055	 ([strategy,][nintendo][plans][begin][selling][hand - held][video][game][devices][christmas][season.])
+v(0 5 6 7 9 10 12 13 14 15 16 17): 2.9314627647399902	 ([shift][selling][next][generation][video][game][united][states][time][coming][christmas][season.])
+v(0 1 2 3 4 6 7 8 11 12 13 14 15): 5.697401523590088	 ([shift][strategy,][nintendo][plans][begin][next][generation][hand - held][devices][united][states][time][coming])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 2.4418444633483887	 ([shift][strategy,][nintendo][plans][begin][selling][next][generation][hand - held][video][game][devices][united][states][time][coming][christmas][season.])
+---------- Rewards-v() ----------
+v(1 2 3 4 8 11): 4.113211631774902, EP: 5.2102766036987305	 ([strategy,][nintendo][plans][begin][hand - held][devices])
+v(0 1 2 3 4 6 7 8 11 12 13 14 15): 4.044999122619629, EP: 5.123870849609375	 ([shift][strategy,][nintendo][plans][begin][next][generation][hand - held][devices][united][states][time][coming])
+v(1 2 3 4 5 8 9 10 11 16 17): 3.0898261070251465, EP: 3.9139366149902344	 ([strategy,][nintendo][plans][begin][selling][hand - held][video][game][devices][christmas][season.])
+v(0 5 6 7 9 10 12 13 14 15 16 17): 1.2790603637695312, EP: 1.6202080249786377	 ([shift][selling][next][generation][video][game][united][states][time][coming][christmas][season.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 0.7894420623779297, EP: 1.0	 ([shift][strategy,][nintendo][plans][begin][selling][next][generation][hand - held][video][game][devices][united][states][time][coming][christmas][season.])
+v(5 9 10 16 17): -0.6441702842712402, EP: -0.8159816861152649	 ([selling][video][game][christmas][season.])
+v(0 6 7 12 13 14 15): -0.06191110610961914, EP: -0.078423872590065	 ([shift][next][generation][united][states][time][coming])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

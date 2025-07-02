@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: netflix
+Player 1: chief
+Player 2: executive
+Player 3: reed
+Player 4: hastings
+Player 5: said
+Player 6: friday
+Player 7: blockbuster
+Player 8: lose
+Player 9: war
+Player 10: online
+Player 11: dvd
+Player 12: renters
+Player 13: emerging
+Player 14: foe
+Player 15: amazon.
+---------- Rewards ----------
+v(): -6.122679233551025	 ([])
+v(0 6 7 11 12 14): 3.811504602432251	 ([netflix][friday][blockbuster][dvd][renters][foe])
+v(5 8 13 15): 0.03712153434753418	 ([said][lose][emerging][amazon.])
+v(1 2 3 4 9 10): -3.2733850479125977	 ([chief][executive][reed][hastings][war][online])
+v(0 5 6 7 8 11 12 13 14 15): 5.967004776000977	 ([netflix][said][friday][blockbuster][lose][dvd][renters][emerging][foe][amazon.])
+v(0 1 2 3 4 6 7 9 10 11 12 14): 3.8440582752227783	 ([netflix][chief][executive][reed][hastings][friday][blockbuster][war][online][dvd][renters][foe])
+v(1 2 3 4 5 8 9 10 13 15): -0.9829690456390381	 ([chief][executive][reed][hastings][said][lose][war][online][emerging][amazon.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 5.94254732131958	 ([netflix][chief][executive][reed][hastings][said][friday][blockbuster][lose][war][online][dvd][renters][emerging][foe][amazon.])
+---------- Rewards-v() ----------
+v(0 5 6 7 8 11 12 13 14 15): 12.089683532714844, EP: 1.0020270347595215	 ([netflix][said][friday][blockbuster][lose][dvd][renters][emerging][foe][amazon.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 12.065226554870605, EP: 1.0	 ([netflix][chief][executive][reed][hastings][said][friday][blockbuster][lose][war][online][dvd][renters][emerging][foe][amazon.])
+v(0 1 2 3 4 6 7 9 10 11 12 14): 9.966737747192383, EP: 0.8260713219642639	 ([netflix][chief][executive][reed][hastings][friday][blockbuster][war][online][dvd][renters][foe])
+v(0 6 7 11 12 14): 9.934184074401855, EP: 0.8233731985092163	 ([netflix][friday][blockbuster][dvd][renters][foe])
+v(5 8 13 15): 6.1598005294799805, EP: 0.5105416178703308	 ([said][lose][emerging][amazon.])
+v(1 2 3 4 5 8 9 10 13 15): 5.139710426330566, EP: 0.4259936809539795	 ([chief][executive][reed][hastings][said][lose][war][online][emerging][amazon.])
+v(1 2 3 4 9 10): 2.8492941856384277, EP: 0.23615753650665283	 ([chief][executive][reed][hastings][war][online])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

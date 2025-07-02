@@ -1,0 +1,49 @@
+---------- Players ----------
+Player 0: federation
+Player 1: rules
+Player 2: judges
+Player 3: # 39 ;
+Player 4: mistake
+Player 5: cost
+Player 6: s.
+Player 7: korea
+Player 8: # 39 ; s
+Player 9: yang
+Player 10: victory,
+Player 11: hamm
+Player 12: gets
+Player 13: keep
+Player 14: medal.
+Player 15: athens,
+Player 16: greece
+Player 17: -
+Player 18: paul
+Player 19: hamm
+Player 20: erroneously
+Player 21: awarded
+Player 22: gold
+Player 23: medal
+Player 24: men
+Player 25: # 39 ; s
+Player 26: all - around
+Player 27: wednesday
+Player 28: night
+---------- Rewards ----------
+v(): -4.60197114944458	 ([])
+v(0 2 3 6 8 10 15 16 23): 8.335461616516113	 ([federation][judges][# 39 ;][s.][# 39 ; s][victory,][athens,][greece][medal])
+v(5 7 9 14 17 18 19 21 22 24 27): 0.9468450546264648	 ([cost][korea][yang][medal.][-][paul][hamm][awarded][gold][men][wednesday])
+v(1 4 11 12 13 20 25 26 28): 2.6374096870422363	 ([rules][mistake][hamm][gets][keep][erroneously][# 39 ; s][all - around][night])
+v(0 2 3 5 6 7 8 9 10 14 15 16 17 18 19 21 22 23 24 27): 8.337100982666016	 ([federation][judges][# 39 ;][cost][s.][korea][# 39 ; s][yang][victory,][medal.][athens,][greece][-][paul][hamm][awarded][gold][medal][men][wednesday])
+v(0 1 2 3 4 6 8 10 11 12 13 15 16 20 23 25 26 28): 8.568761825561523	 ([federation][rules][judges][# 39 ;][mistake][s.][# 39 ; s][victory,][hamm][gets][keep][athens,][greece][erroneously][medal][# 39 ; s][all - around][night])
+v(1 4 5 7 9 11 12 13 14 17 18 19 20 21 22 24 25 26 27 28): 8.036094665527344	 ([rules][mistake][cost][korea][yang][hamm][gets][keep][medal.][-][paul][hamm][erroneously][awarded][gold][men][# 39 ; s][all - around][wednesday][night])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 9.271865844726562	 ([federation][rules][judges][# 39 ;][mistake][cost][s.][korea][# 39 ; s][yang][victory,][hamm][gets][keep][medal.][athens,][greece][-][paul][hamm][erroneously][awarded][gold][medal][men][# 39 ; s][all - around][wednesday][night])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 13.873836517333984, EP: 1.0	 ([federation][rules][judges][# 39 ;][mistake][cost][s.][korea][# 39 ; s][yang][victory,][hamm][gets][keep][medal.][athens,][greece][-][paul][hamm][erroneously][awarded][gold][medal][men][# 39 ; s][all - around][wednesday][night])
+v(0 1 2 3 4 6 8 10 11 12 13 15 16 20 23 25 26 28): 13.170732498168945, EP: 0.9493215680122375	 ([federation][rules][judges][# 39 ;][mistake][s.][# 39 ; s][victory,][hamm][gets][keep][athens,][greece][erroneously][medal][# 39 ; s][all - around][night])
+v(0 2 3 5 6 7 8 9 10 14 15 16 17 18 19 21 22 23 24 27): 12.939071655273438, EP: 0.9326239228248596	 ([federation][judges][# 39 ;][cost][s.][korea][# 39 ; s][yang][victory,][medal.][athens,][greece][-][paul][hamm][awarded][gold][medal][men][wednesday])
+v(0 2 3 6 8 10 15 16 23): 12.937433242797852, EP: 0.9325057864189148	 ([federation][judges][# 39 ;][s.][# 39 ; s][victory,][athens,][greece][medal])
+v(1 4 5 7 9 11 12 13 14 17 18 19 20 21 22 24 25 26 27 28): 12.638065338134766, EP: 0.910927951335907	 ([rules][mistake][cost][korea][yang][hamm][gets][keep][medal.][-][paul][hamm][erroneously][awarded][gold][men][# 39 ; s][all - around][wednesday][night])
+v(1 4 11 12 13 20 25 26 28): 7.239380836486816, EP: 0.5218009352684021	 ([rules][mistake][hamm][gets][keep][erroneously][# 39 ; s][all - around][night])
+v(5 7 9 14 17 18 19 21 22 24 27): 5.548816204071045, EP: 0.39994820952415466	 ([cost][korea][yang][medal.][-][paul][hamm][awarded][gold][men][wednesday])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

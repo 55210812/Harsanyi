@@ -1,0 +1,30 @@
+---------- Players ----------
+Player 0: welcome,
+Player 1: nc
+Player 2: - -
+Player 3: robby
+Player 4: gordon
+Player 5: apologizing
+Player 6: intentionally
+Player 7: causing
+Player 8: accident
+Player 9: sunday
+Player 10: # 39 ; s
+Player 11: nextel
+Player 12: cup
+Player 13: race
+Player 14: new
+Player 15: hampshire
+Player 16: international
+Player 17: speedway.
+---------- Rewards ----------
+v(): -6.217715263366699	 ([])
+v(0 1 2 4 5 6 9 11 12 17): 9.35009765625	 ([welcome,][nc][- -][gordon][apologizing][intentionally][sunday][nextel][cup][speedway.])
+v(3 7 8 10 13 14 15 16): 6.665091037750244	 ([robby][causing][accident][# 39 ; s][race][new][hampshire][international])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.63521957397461	 ([welcome,][nc][- -][robby][gordon][apologizing][intentionally][causing][accident][sunday][# 39 ; s][nextel][cup][race][new][hampshire][international][speedway.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 15.852934837341309, EP: 1.0	 ([welcome,][nc][- -][robby][gordon][apologizing][intentionally][causing][accident][sunday][# 39 ; s][nextel][cup][race][new][hampshire][international][speedway.])
+v(0 1 2 4 5 6 9 11 12 17): 15.5678129196167, EP: 0.982014536857605	 ([welcome,][nc][- -][gordon][apologizing][intentionally][sunday][nextel][cup][speedway.])
+v(3 7 8 10 13 14 15 16): 12.882806777954102, EP: 0.812644898891449	 ([robby][causing][accident][# 39 ; s][race][new][hampshire][international])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

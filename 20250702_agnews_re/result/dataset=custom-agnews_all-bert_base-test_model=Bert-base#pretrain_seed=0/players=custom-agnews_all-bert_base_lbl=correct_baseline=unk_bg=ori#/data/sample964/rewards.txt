@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: top
+Player 1: education
+Player 2: ministry
+Player 3: official
+Player 4: oil - rich
+Player 5: northern
+Player 6: iraqi
+Player 7: city
+Player 8: kirkuk
+Player 9: assassinated
+Player 10: unknown
+Player 11: assailants.
+Player 12: quot ; ibrahim
+Player 13: ismail
+Player 14: killed
+Player 15: main
+Player 16: road
+Player 17: heading
+Player 18: technological
+---------- Rewards ----------
+v(): -4.655221939086914	 ([])
+v(1 6 8 9 12 13 14 15): 7.395808219909668	 ([education][iraqi][kirkuk][assassinated][quot ; ibrahim][ismail][killed][main])
+v(0 2 3 4 10 18): 3.851914644241333	 ([top][ministry][official][oil - rich][unknown][technological])
+v(5 7 11 16 17): 5.280361652374268	 ([northern][city][assailants.][road][heading])
+v(0 1 2 3 4 6 8 9 10 12 13 14 15 18): 7.598078727722168	 ([top][education][ministry][official][oil - rich][iraqi][kirkuk][assassinated][unknown][quot ; ibrahim][ismail][killed][main][technological])
+v(1 5 6 7 8 9 11 12 13 14 15 16 17): 7.1171112060546875	 ([education][northern][iraqi][city][kirkuk][assassinated][assailants.][quot ; ibrahim][ismail][killed][main][road][heading])
+v(0 2 3 4 5 7 10 11 16 17 18): 7.625772953033447	 ([top][ministry][official][oil - rich][northern][city][unknown][assailants.][road][heading][technological])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.422183036804199	 ([top][education][ministry][official][oil - rich][northern][iraqi][city][kirkuk][assassinated][unknown][assailants.][quot ; ibrahim][ismail][killed][main][road][heading][technological])
+---------- Rewards-v() ----------
+v(0 2 3 4 5 7 10 11 16 17 18): 12.280994415283203, EP: 1.0168570280075073	 ([top][ministry][official][oil - rich][northern][city][unknown][assailants.][road][heading][technological])
+v(0 1 2 3 4 6 8 9 10 12 13 14 15 18): 12.253300666809082, EP: 1.014564037322998	 ([top][education][ministry][official][oil - rich][iraqi][kirkuk][assassinated][unknown][quot ; ibrahim][ismail][killed][main][technological])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 12.077404975891113, EP: 1.0	 ([top][education][ministry][official][oil - rich][northern][iraqi][city][kirkuk][assassinated][unknown][assailants.][quot ; ibrahim][ismail][killed][main][road][heading][technological])
+v(1 6 8 9 12 13 14 15): 12.051030158996582, EP: 0.9978162050247192	 ([education][iraqi][kirkuk][assassinated][quot ; ibrahim][ismail][killed][main])
+v(1 5 6 7 8 9 11 12 13 14 15 16 17): 11.772333145141602, EP: 0.9747402667999268	 ([education][northern][iraqi][city][kirkuk][assassinated][assailants.][quot ; ibrahim][ismail][killed][main][road][heading])
+v(5 7 11 16 17): 9.935583114624023, EP: 0.8226587772369385	 ([northern][city][assailants.][road][heading])
+v(0 2 3 4 10 18): 8.507136344909668, EP: 0.704384446144104	 ([top][ministry][official][oil - rich][unknown][technological])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

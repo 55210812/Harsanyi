@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: chechnya's
+Player 3: new
+Player 4: president
+Player 5: sworn
+Player 6: tuesday,
+Player 7: nearly
+Player 8: five
+Player 9: months
+Player 10: previous
+Player 11: leader
+Player 12: assassinated
+Player 13: day
+Player 14: announced
+Player 15: republic
+Player 16: would
+Player 17: hold
+Player 18: parliamentary
+Player 19: elections
+Player 20: spring.
+---------- Rewards ----------
+v(): -6.947242736816406	 ([])
+v(1 2 3 4 11 12 19): 8.387685775756836	 ([-][chechnya's][new][president][leader][assassinated][elections])
+v(0 5 6 20): 4.1242475509643555	 ([ap][sworn][tuesday,][spring.])
+v(14 15 16 17 18): 5.849767208099365	 ([announced][republic][would][hold][parliamentary])
+v(7 8 9 10 13): -6.684826850891113	 ([nearly][five][months][previous][day])
+v(0 1 2 3 4 5 6 11 12 19 20): 7.998621463775635	 ([ap][-][chechnya's][new][president][sworn][tuesday,][leader][assassinated][elections][spring.])
+v(1 2 3 4 11 12 14 15 16 17 18 19): 8.354625701904297	 ([-][chechnya's][new][president][leader][assassinated][announced][republic][would][hold][parliamentary][elections])
+v(1 2 3 4 7 8 9 10 11 12 13 19): 8.375030517578125	 ([-][chechnya's][new][president][nearly][five][months][previous][leader][assassinated][day][elections])
+v(0 5 6 14 15 16 17 18 20): 7.404725074768066	 ([ap][sworn][tuesday,][announced][republic][would][hold][parliamentary][spring.])
+v(0 5 6 7 8 9 10 13 20): 4.8638014793396	 ([ap][sworn][tuesday,][nearly][five][months][previous][day][spring.])
+v(7 8 9 10 13 14 15 16 17 18): 4.874817371368408	 ([nearly][five][months][previous][day][announced][republic][would][hold][parliamentary])
+v(0 1 2 3 4 5 6 11 12 14 15 16 17 18 19 20): 8.037092208862305	 ([ap][-][chechnya's][new][president][sworn][tuesday,][leader][assassinated][announced][republic][would][hold][parliamentary][elections][spring.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 19 20): 8.013296127319336	 ([ap][-][chechnya's][new][president][sworn][tuesday,][nearly][five][months][previous][leader][assassinated][day][elections][spring.])
+v(1 2 3 4 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.349656105041504	 ([-][chechnya's][new][president][nearly][five][months][previous][leader][assassinated][day][announced][republic][would][hold][parliamentary][elections])
+v(0 5 6 7 8 9 10 13 14 15 16 17 18 20): 7.113286972045898	 ([ap][sworn][tuesday,][nearly][five][months][previous][day][announced][republic][would][hold][parliamentary][spring.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.938332557678223	 ([ap][-][chechnya's][new][president][sworn][tuesday,][nearly][five][months][previous][leader][assassinated][day][announced][republic][would][hold][parliamentary][elections][spring.])
+---------- Rewards-v() ----------
+v(1 2 3 4 11 12 19): 15.334928512573242, EP: 1.0301871299743652	 ([-][chechnya's][new][president][leader][assassinated][elections])
+v(1 2 3 4 7 8 9 10 11 12 13 19): 15.322273254394531, EP: 1.0293370485305786	 ([-][chechnya's][new][president][nearly][five][months][previous][leader][assassinated][day][elections])
+v(1 2 3 4 11 12 14 15 16 17 18 19): 15.301868438720703, EP: 1.0279662609100342	 ([-][chechnya's][new][president][leader][assassinated][announced][republic][would][hold][parliamentary][elections])
+v(1 2 3 4 7 8 9 10 11 12 13 14 15 16 17 18 19): 15.29689884185791, EP: 1.0276323556900024	 ([-][chechnya's][new][president][nearly][five][months][previous][leader][assassinated][day][announced][republic][would][hold][parliamentary][elections])
+v(0 1 2 3 4 5 6 11 12 14 15 16 17 18 19 20): 14.984334945678711, EP: 1.0066345930099487	 ([ap][-][chechnya's][new][president][sworn][tuesday,][leader][assassinated][announced][republic][would][hold][parliamentary][elections][spring.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 19 20): 14.960538864135742, EP: 1.0050359964370728	 ([ap][-][chechnya's][new][president][sworn][tuesday,][nearly][five][months][previous][leader][assassinated][day][elections][spring.])
+v(0 1 2 3 4 5 6 11 12 19 20): 14.945863723754883, EP: 1.0040501356124878	 ([ap][-][chechnya's][new][president][sworn][tuesday,][leader][assassinated][elections][spring.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 14.885575294494629, EP: 1.0	 ([ap][-][chechnya's][new][president][sworn][tuesday,][nearly][five][months][previous][leader][assassinated][day][announced][republic][would][hold][parliamentary][elections][spring.])
+v(0 5 6 14 15 16 17 18 20): 14.351967811584473, EP: 0.9641526937484741	 ([ap][sworn][tuesday,][announced][republic][would][hold][parliamentary][spring.])
+v(0 5 6 7 8 9 10 13 14 15 16 17 18 20): 14.060529708862305, EP: 0.9445741772651672	 ([ap][sworn][tuesday,][nearly][five][months][previous][day][announced][republic][would][hold][parliamentary][spring.])
+v(14 15 16 17 18): 12.79701042175293, EP: 0.8596920371055603	 ([announced][republic][would][hold][parliamentary])
+v(7 8 9 10 13 14 15 16 17 18): 11.822059631347656, EP: 0.7941957116127014	 ([nearly][five][months][previous][day][announced][republic][would][hold][parliamentary])
+v(0 5 6 7 8 9 10 13 20): 11.811044692993164, EP: 0.7934557199478149	 ([ap][sworn][tuesday,][nearly][five][months][previous][day][spring.])
+v(0 5 6 20): 11.071490287780762, EP: 0.7437731027603149	 ([ap][sworn][tuesday,][spring.])
+v(7 8 9 10 13): 0.26241588592529297, EP: 0.017628870904445648	 ([nearly][five][months][previous][day])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

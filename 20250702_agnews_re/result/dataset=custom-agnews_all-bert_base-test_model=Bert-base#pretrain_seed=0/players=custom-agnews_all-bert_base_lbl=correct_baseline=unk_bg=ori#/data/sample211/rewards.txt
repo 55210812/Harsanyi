@@ -1,0 +1,60 @@
+---------- Players ----------
+Player 0: channel
+Player 1: newsasia
+Player 2: # 39 ; s
+Player 3: hong
+Player 4: kong
+Player 5: correspondent
+Player 6: roland
+Player 7: lim.
+Player 8: hong
+Player 9: kong
+Player 10: :
+Player 11: many
+Player 12: eyes
+Player 13: albert
+Player 14: cheng
+Player 15: race
+Player 16: hong
+Player 17: kong
+Player 18: # 39 ; s
+Player 19: legislative
+Player 20: council
+Player 21: elections
+Player 22: september
+Player 23: 12.
+---------- Rewards ----------
+v(): -7.0994720458984375	 ([])
+v(0 1 2): -2.200295925140381	 ([channel][newsasia][# 39 ; s])
+v(13 14 18 19 20 21 22 23): 7.789724826812744	 ([albert][cheng][# 39 ; s][legislative][council][elections][september][12.])
+v(3 4 5 6 7 8 9 10): 2.107118844985962	 ([hong][kong][correspondent][roland][lim.][hong][kong][:])
+v(11 12 15 16 17): 4.95623779296875	 ([many][eyes][race][hong][kong])
+v(0 1 2 13 14 18 19 20 21 22 23): 7.593742370605469	 ([channel][newsasia][# 39 ; s][albert][cheng][# 39 ; s][legislative][council][elections][september][12.])
+v(0 1 2 3 4 5 6 7 8 9 10): -1.148133635520935	 ([channel][newsasia][# 39 ; s][hong][kong][correspondent][roland][lim.][hong][kong][:])
+v(0 1 2 11 12 15 16 17): 4.812653541564941	 ([channel][newsasia][# 39 ; s][many][eyes][race][hong][kong])
+v(3 4 5 6 7 8 9 10 13 14 18 19 20 21 22 23): 8.225948333740234	 ([hong][kong][correspondent][roland][lim.][hong][kong][:][albert][cheng][# 39 ; s][legislative][council][elections][september][12.])
+v(11 12 13 14 15 16 17 18 19 20 21 22 23): 8.089338302612305	 ([many][eyes][albert][cheng][race][hong][kong][# 39 ; s][legislative][council][elections][september][12.])
+v(3 4 5 6 7 8 9 10 11 12 15 16 17): 7.206792831420898	 ([hong][kong][correspondent][roland][lim.][hong][kong][:][many][eyes][race][hong][kong])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 18 19 20 21 22 23): 8.05441951751709	 ([channel][newsasia][# 39 ; s][hong][kong][correspondent][roland][lim.][hong][kong][:][albert][cheng][# 39 ; s][legislative][council][elections][september][12.])
+v(0 1 2 11 12 13 14 15 16 17 18 19 20 21 22 23): 7.938613414764404	 ([channel][newsasia][# 39 ; s][many][eyes][albert][cheng][race][hong][kong][# 39 ; s][legislative][council][elections][september][12.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 15 16 17): 6.185445308685303	 ([channel][newsasia][# 39 ; s][hong][kong][correspondent][roland][lim.][hong][kong][:][many][eyes][race][hong][kong])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.281765937805176	 ([hong][kong][correspondent][roland][lim.][hong][kong][:][many][eyes][albert][cheng][race][hong][kong][# 39 ; s][legislative][council][elections][september][12.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.142656326293945	 ([channel][newsasia][# 39 ; s][hong][kong][correspondent][roland][lim.][hong][kong][:][many][eyes][albert][cheng][race][hong][kong][# 39 ; s][legislative][council][elections][september][12.])
+---------- Rewards-v() ----------
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 15.381237983703613, EP: 1.0091266632080078	 ([hong][kong][correspondent][roland][lim.][hong][kong][:][many][eyes][albert][cheng][race][hong][kong][# 39 ; s][legislative][council][elections][september][12.])
+v(3 4 5 6 7 8 9 10 13 14 18 19 20 21 22 23): 15.325420379638672, EP: 1.0054645538330078	 ([hong][kong][correspondent][roland][lim.][hong][kong][:][albert][cheng][# 39 ; s][legislative][council][elections][september][12.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 15.242128372192383, EP: 1.0	 ([channel][newsasia][# 39 ; s][hong][kong][correspondent][roland][lim.][hong][kong][:][many][eyes][albert][cheng][race][hong][kong][# 39 ; s][legislative][council][elections][september][12.])
+v(11 12 13 14 15 16 17 18 19 20 21 22 23): 15.188810348510742, EP: 0.9965019226074219	 ([many][eyes][albert][cheng][race][hong][kong][# 39 ; s][legislative][council][elections][september][12.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 18 19 20 21 22 23): 15.153891563415527, EP: 0.9942110180854797	 ([channel][newsasia][# 39 ; s][hong][kong][correspondent][roland][lim.][hong][kong][:][albert][cheng][# 39 ; s][legislative][council][elections][september][12.])
+v(0 1 2 11 12 13 14 15 16 17 18 19 20 21 22 23): 15.0380859375, EP: 0.9866132736206055	 ([channel][newsasia][# 39 ; s][many][eyes][albert][cheng][race][hong][kong][# 39 ; s][legislative][council][elections][september][12.])
+v(13 14 18 19 20 21 22 23): 14.889196395874023, EP: 0.9768449664115906	 ([albert][cheng][# 39 ; s][legislative][council][elections][september][12.])
+v(0 1 2 13 14 18 19 20 21 22 23): 14.693214416503906, EP: 0.9639870524406433	 ([channel][newsasia][# 39 ; s][albert][cheng][# 39 ; s][legislative][council][elections][september][12.])
+v(3 4 5 6 7 8 9 10 11 12 15 16 17): 14.306264877319336, EP: 0.9386001825332642	 ([hong][kong][correspondent][roland][lim.][hong][kong][:][many][eyes][race][hong][kong])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 15 16 17): 13.284917831420898, EP: 0.8715920448303223	 ([channel][newsasia][# 39 ; s][hong][kong][correspondent][roland][lim.][hong][kong][:][many][eyes][race][hong][kong])
+v(11 12 15 16 17): 12.055709838867188, EP: 0.7909466028213501	 ([many][eyes][race][hong][kong])
+v(0 1 2 11 12 15 16 17): 11.912125587463379, EP: 0.7815263867378235	 ([channel][newsasia][# 39 ; s][many][eyes][race][hong][kong])
+v(3 4 5 6 7 8 9 10): 9.20659065246582, EP: 0.6040226221084595	 ([hong][kong][correspondent][roland][lim.][hong][kong][:])
+v(0 1 2 3 4 5 6 7 8 9 10): 5.951338291168213, EP: 0.3904532194137573	 ([channel][newsasia][# 39 ; s][hong][kong][correspondent][roland][lim.][hong][kong][:])
+v(0 1 2): 4.899176120758057, EP: 0.32142335176467896	 ([channel][newsasia][# 39 ; s])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

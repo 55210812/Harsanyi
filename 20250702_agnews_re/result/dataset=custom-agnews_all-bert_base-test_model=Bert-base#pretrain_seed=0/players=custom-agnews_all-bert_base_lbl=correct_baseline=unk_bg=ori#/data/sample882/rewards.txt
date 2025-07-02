@@ -1,0 +1,51 @@
+---------- Players ----------
+Player 0: believe
+Player 1: every
+Player 2: cynic
+Player 3: says
+Player 4: great
+Player 5: players
+Player 6: mercenaries
+Player 7: flit
+Player 8: like
+Player 9: butterflies
+Player 10: big
+Player 11: money
+Player 12: clubs
+Player 13: champions
+Player 14: league.
+---------- Rewards ----------
+v(): -5.956235885620117	 ([])
+v(3 5 6 14): 4.0225629806518555	 ([says][players][mercenaries][league.])
+v(2 7 8 10 11 12): -3.9275031089782715	 ([cynic][flit][like][big][money][clubs])
+v(4 9 13): -5.1845011711120605	 ([great][butterflies][champions])
+v(0 1): -5.878633975982666	 ([believe][every])
+v(2 3 5 6 7 8 10 11 12 14): 5.76724910736084	 ([cynic][says][players][mercenaries][flit][like][big][money][clubs][league.])
+v(3 4 5 6 9 13 14): 9.214139938354492	 ([says][great][players][mercenaries][butterflies][champions][league.])
+v(0 1 3 5 6 14): 4.479480266571045	 ([believe][every][says][players][mercenaries][league.])
+v(2 4 7 8 9 10 11 12 13): 5.117825984954834	 ([cynic][great][flit][like][butterflies][big][money][clubs][champions])
+v(0 1 2 7 8 10 11 12): -3.5351736545562744	 ([believe][every][cynic][flit][like][big][money][clubs])
+v(0 1 4 9 13): -4.038686752319336	 ([believe][every][great][butterflies][champions])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14): 9.245450019836426	 ([cynic][says][great][players][mercenaries][flit][like][butterflies][big][money][clubs][champions][league.])
+v(0 1 2 3 5 6 7 8 10 11 12 14): 5.122094631195068	 ([believe][every][cynic][says][players][mercenaries][flit][like][big][money][clubs][league.])
+v(0 1 3 4 5 6 9 13 14): 8.927506446838379	 ([believe][every][says][great][players][mercenaries][butterflies][champions][league.])
+v(0 1 2 4 7 8 9 10 11 12 13): 5.794008731842041	 ([believe][every][cynic][great][flit][like][butterflies][big][money][clubs][champions])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 8.886655807495117	 ([believe][every][cynic][says][great][players][mercenaries][flit][like][butterflies][big][money][clubs][champions][league.])
+---------- Rewards-v() ----------
+v(2 3 4 5 6 7 8 9 10 11 12 13 14): 15.201685905456543, EP: 1.0241727828979492	 ([cynic][says][great][players][mercenaries][flit][like][butterflies][big][money][clubs][champions][league.])
+v(3 4 5 6 9 13 14): 15.17037582397461, EP: 1.0220633745193481	 ([says][great][players][mercenaries][butterflies][champions][league.])
+v(0 1 3 4 5 6 9 13 14): 14.883742332458496, EP: 1.0027521848678589	 ([believe][every][says][great][players][mercenaries][butterflies][champions][league.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 14.842891693115234, EP: 1.0	 ([believe][every][cynic][says][great][players][mercenaries][flit][like][butterflies][big][money][clubs][champions][league.])
+v(0 1 2 4 7 8 9 10 11 12 13): 11.750244140625, EP: 0.7916411757469177	 ([believe][every][cynic][great][flit][like][butterflies][big][money][clubs][champions])
+v(2 3 5 6 7 8 10 11 12 14): 11.723484992980957, EP: 0.7898383736610413	 ([cynic][says][players][mercenaries][flit][like][big][money][clubs][league.])
+v(0 1 2 3 5 6 7 8 10 11 12 14): 11.078330993652344, EP: 0.7463728189468384	 ([believe][every][cynic][says][players][mercenaries][flit][like][big][money][clubs][league.])
+v(2 4 7 8 9 10 11 12 13): 11.07406234741211, EP: 0.7460852265357971	 ([cynic][great][flit][like][butterflies][big][money][clubs][champions])
+v(0 1 3 5 6 14): 10.43571662902832, EP: 0.7030783891677856	 ([believe][every][says][players][mercenaries][league.])
+v(3 5 6 14): 9.978798866271973, EP: 0.6722947955131531	 ([says][players][mercenaries][league.])
+v(0 1 2 7 8 10 11 12): 2.4210622310638428, EP: 0.1631125658750534	 ([believe][every][cynic][flit][like][big][money][clubs])
+v(2 7 8 10 11 12): 2.0287327766418457, EP: 0.13668042421340942	 ([cynic][flit][like][big][money][clubs])
+v(0 1 4 9 13): 1.9175491333007812, EP: 0.12918972969055176	 ([believe][every][great][butterflies][champions])
+v(4 9 13): 0.7717347145080566, EP: 0.05199355632066727	 ([great][butterflies][champions])
+v(0 1): 0.07760190963745117, EP: 0.005228220485150814	 ([believe][every])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

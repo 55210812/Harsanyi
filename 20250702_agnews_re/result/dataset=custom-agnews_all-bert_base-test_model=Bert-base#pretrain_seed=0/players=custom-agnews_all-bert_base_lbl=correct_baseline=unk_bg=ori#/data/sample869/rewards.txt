@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: three
+Player 1: dozen
+Player 2: area
+Player 3: residents
+Player 4: could
+Player 5: get
+Player 6: unexpected
+Player 7: windfall
+Player 8: - -
+Player 9: owed
+Player 10: refunds
+Player 11: internal
+Player 12: revenue
+Player 13: service.
+Player 14: among
+Player 15: 6, 400
+Player 16: refunds
+Player 17: owed
+Player 18: taxpayers
+Player 19: new
+Player 20: york
+Player 21: yet
+Player 22: claimed.
+---------- Rewards ----------
+v(): -7.653282165527344	 ([])
+v(5 6 7 9 19 20): 6.644404411315918	 ([get][unexpected][windfall][owed][new][york])
+v(10 14 15 16 17 21): -2.3791332244873047	 ([refunds][among][6, 400][refunds][owed][yet])
+v(0 1 2 3 4 8 11 12 13 18 22): 7.0420942306518555	 ([three][dozen][area][residents][could][- -][internal][revenue][service.][taxpayers][claimed.])
+v(5 6 7 9 10 14 15 16 17 19 20 21): 3.9691474437713623	 ([get][unexpected][windfall][owed][refunds][among][6, 400][refunds][owed][new][york][yet])
+v(0 1 2 3 4 5 6 7 8 9 11 12 13 18 19 20 22): 8.309816360473633	 ([three][dozen][area][residents][could][get][unexpected][windfall][- -][owed][internal][revenue][service.][taxpayers][new][york][claimed.])
+v(0 1 2 3 4 8 10 11 12 13 14 15 16 17 18 21 22): 7.884264945983887	 ([three][dozen][area][residents][could][- -][refunds][internal][revenue][service.][among][6, 400][refunds][owed][taxpayers][yet][claimed.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.17080307006836	 ([three][dozen][area][residents][could][get][unexpected][windfall][- -][owed][refunds][internal][revenue][service.][among][6, 400][refunds][owed][taxpayers][new][york][yet][claimed.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 11 12 13 18 19 20 22): 15.963098526000977, EP: 1.0087848901748657	 ([three][dozen][area][residents][could][get][unexpected][windfall][- -][owed][internal][revenue][service.][taxpayers][new][york][claimed.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 15.824085235595703, EP: 1.0	 ([three][dozen][area][residents][could][get][unexpected][windfall][- -][owed][refunds][internal][revenue][service.][among][6, 400][refunds][owed][taxpayers][new][york][yet][claimed.])
+v(0 1 2 3 4 8 10 11 12 13 14 15 16 17 18 21 22): 15.53754711151123, EP: 0.9818922877311707	 ([three][dozen][area][residents][could][- -][refunds][internal][revenue][service.][among][6, 400][refunds][owed][taxpayers][yet][claimed.])
+v(0 1 2 3 4 8 11 12 13 18 22): 14.6953763961792, EP: 0.9286714792251587	 ([three][dozen][area][residents][could][- -][internal][revenue][service.][taxpayers][claimed.])
+v(5 6 7 9 19 20): 14.297686576843262, EP: 0.9035395383834839	 ([get][unexpected][windfall][owed][new][york])
+v(5 6 7 9 10 14 15 16 17 19 20 21): 11.622429847717285, EP: 0.7344772219657898	 ([get][unexpected][windfall][owed][refunds][among][6, 400][refunds][owed][new][york][yet])
+v(10 14 15 16 17 21): 5.274148941040039, EP: 0.33329883217811584	 ([refunds][among][6, 400][refunds][owed][yet])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

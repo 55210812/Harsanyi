@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: kostas
+Player 1: kederis
+Player 2: ekaterini
+Player 3: thanou,
+Player 4: greek
+Player 5: sprinters
+Player 6: who,
+Player 7: alleged,
+Player 8: deliberately
+Player 9: evaded
+Player 10: four
+Player 11: drugs
+Player 12: tests,
+Player 13: left
+Player 14: hospital
+Player 15: yesterday
+Player 16: kederis
+Player 17: treated
+Player 18: scratches
+Player 19: thanou
+Player 20: visible
+Player 21: injuries.
+---------- Rewards ----------
+v(): -3.243986129760742	 ([])
+v(8 9 10 11 12 13 18 20 21): 0.09409260749816895	 ([deliberately][evaded][four][drugs][tests,][left][scratches][visible][injuries.])
+v(0 1 4 5 6 7 15 16 17): 6.366169452667236	 ([kostas][kederis][greek][sprinters][who,][alleged,][yesterday][kederis][treated])
+v(2 3 14 19): -6.643774032592773	 ([ekaterini][thanou,][hospital][thanou])
+v(0 1 4 5 6 7 8 9 10 11 12 13 15 16 17 18 20 21): 7.192176818847656	 ([kostas][kederis][greek][sprinters][who,][alleged,][deliberately][evaded][four][drugs][tests,][left][yesterday][kederis][treated][scratches][visible][injuries.])
+v(2 3 8 9 10 11 12 13 14 18 19 20 21): -2.870927095413208	 ([ekaterini][thanou,][deliberately][evaded][four][drugs][tests,][left][hospital][scratches][thanou][visible][injuries.])
+v(0 1 2 3 4 5 6 7 14 15 16 17 19): 7.506591796875	 ([kostas][kederis][ekaterini][thanou,][greek][sprinters][who,][alleged,][hospital][yesterday][kederis][treated][thanou])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 7.685420989990234	 ([kostas][kederis][ekaterini][thanou,][greek][sprinters][who,][alleged,][deliberately][evaded][four][drugs][tests,][left][hospital][yesterday][kederis][treated][scratches][thanou][visible][injuries.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 10.929407119750977, EP: 1.0	 ([kostas][kederis][ekaterini][thanou,][greek][sprinters][who,][alleged,][deliberately][evaded][four][drugs][tests,][left][hospital][yesterday][kederis][treated][scratches][thanou][visible][injuries.])
+v(0 1 2 3 4 5 6 7 14 15 16 17 19): 10.750577926635742, EP: 0.983637809753418	 ([kostas][kederis][ekaterini][thanou,][greek][sprinters][who,][alleged,][hospital][yesterday][kederis][treated][thanou])
+v(0 1 4 5 6 7 8 9 10 11 12 13 15 16 17 18 20 21): 10.436162948608398, EP: 0.9548699855804443	 ([kostas][kederis][greek][sprinters][who,][alleged,][deliberately][evaded][four][drugs][tests,][left][yesterday][kederis][treated][scratches][visible][injuries.])
+v(0 1 4 5 6 7 15 16 17): 9.61015510559082, EP: 0.8792933821678162	 ([kostas][kederis][greek][sprinters][who,][alleged,][yesterday][kederis][treated])
+v(2 3 14 19): -3.3997879028320312, EP: -0.3110679090023041	 ([ekaterini][thanou,][hospital][thanou])
+v(8 9 10 11 12 13 18 20 21): 3.338078737258911, EP: 0.30542176961898804	 ([deliberately][evaded][four][drugs][tests,][left][scratches][visible][injuries.])
+v(2 3 8 9 10 11 12 13 14 18 19 20 21): 0.3730590343475342, EP: 0.034133508801460266	 ([ekaterini][thanou,][deliberately][evaded][four][drugs][tests,][left][hospital][scratches][thanou][visible][injuries.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

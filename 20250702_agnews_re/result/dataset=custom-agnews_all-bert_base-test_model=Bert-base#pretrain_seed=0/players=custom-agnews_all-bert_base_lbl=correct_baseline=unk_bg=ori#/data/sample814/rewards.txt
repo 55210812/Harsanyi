@@ -1,0 +1,65 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: southern
+Player 3: california,
+Player 4: oklahoma
+Player 5: auburn
+Player 6: # 151 ;
+Player 7: top
+Player 8: three
+Player 9: teams
+Player 10: associated
+Player 11: press
+Player 12: top
+Player 13: 25
+Player 14: # 151 ;
+Player 15: easily
+Player 16: saturday.
+Player 17: no.
+Player 18: 4
+Player 19: wisconsin
+Player 20: national
+Player 21: title
+Player 22: hopes
+Player 23: dashed,
+Player 24: however,
+Player 25: lopsided
+Player 26: loss
+Player 27: michigan
+Player 28: state.
+---------- Rewards ----------
+v(): -0.6449604630470276	 ([])
+v(18 24 25 26 27 28): 9.297322273254395	 ([4][however,][lopsided][loss][michigan][state.])
+v(3 5 6 13 20 22 23): 9.563982963562012	 ([california,][auburn][# 151 ;][25][national][hopes][dashed,])
+v(4 7 8 9 10 11 12 14 15 17 19 21): 9.524388313293457	 ([oklahoma][top][three][teams][associated][press][top][# 151 ;][easily][no.][wisconsin][title])
+v(0 1 2 16): -0.16070127487182617	 ([ap][-][southern][saturday.])
+v(3 5 6 13 18 20 22 23 24 25 26 27 28): 9.570344924926758	 ([california,][auburn][# 151 ;][25][4][national][hopes][dashed,][however,][lopsided][loss][michigan][state.])
+v(4 7 8 9 10 11 12 14 15 17 18 19 21 24 25 26 27 28): 9.448147773742676	 ([oklahoma][top][three][teams][associated][press][top][# 151 ;][easily][no.][4][wisconsin][title][however,][lopsided][loss][michigan][state.])
+v(0 1 2 16 18 24 25 26 27 28): 9.624832153320312	 ([ap][-][southern][saturday.][4][however,][lopsided][loss][michigan][state.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 17 19 20 21 22 23): 9.248587608337402	 ([california,][oklahoma][auburn][# 151 ;][top][three][teams][associated][press][top][25][# 151 ;][easily][no.][wisconsin][national][title][hopes][dashed,])
+v(0 1 2 3 5 6 13 16 20 22 23): 9.599660873413086	 ([ap][-][southern][california,][auburn][# 151 ;][25][saturday.][national][hopes][dashed,])
+v(0 1 2 4 7 8 9 10 11 12 14 15 16 17 19 21): 9.600436210632324	 ([ap][-][southern][oklahoma][top][three][teams][associated][press][top][# 151 ;][easily][saturday.][no.][wisconsin][title])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 20 21 22 23 24 25 26 27 28): 9.298447608947754	 ([california,][oklahoma][auburn][# 151 ;][top][three][teams][associated][press][top][25][# 151 ;][easily][no.][4][wisconsin][national][title][hopes][dashed,][however,][lopsided][loss][michigan][state.])
+v(0 1 2 3 5 6 13 16 18 20 22 23 24 25 26 27 28): 9.687909126281738	 ([ap][-][southern][california,][auburn][# 151 ;][25][saturday.][4][national][hopes][dashed,][however,][lopsided][loss][michigan][state.])
+v(0 1 2 4 7 8 9 10 11 12 14 15 16 17 18 19 21 24 25 26 27 28): 9.618602752685547	 ([ap][-][southern][oklahoma][top][three][teams][associated][press][top][# 151 ;][easily][saturday.][no.][4][wisconsin][title][however,][lopsided][loss][michigan][state.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 19 20 21 22 23): 9.593998908996582	 ([ap][-][southern][california,][oklahoma][auburn][# 151 ;][top][three][teams][associated][press][top][25][# 151 ;][easily][saturday.][no.][wisconsin][national][title][hopes][dashed,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 9.580697059631348	 ([ap][-][southern][california,][oklahoma][auburn][# 151 ;][top][three][teams][associated][press][top][25][# 151 ;][easily][saturday.][no.][4][wisconsin][national][title][hopes][dashed,][however,][lopsided][loss][michigan][state.])
+---------- Rewards-v() ----------
+v(0 1 2 3 5 6 13 16 18 20 22 23 24 25 26 27 28): 10.332869529724121, EP: 1.0104845762252808	 ([ap][-][southern][california,][auburn][# 151 ;][25][saturday.][4][national][hopes][dashed,][however,][lopsided][loss][michigan][state.])
+v(0 1 2 16 18 24 25 26 27 28): 10.269792556762695, EP: 1.0043160915374756	 ([ap][-][southern][saturday.][4][however,][lopsided][loss][michigan][state.])
+v(0 1 2 4 7 8 9 10 11 12 14 15 16 17 18 19 21 24 25 26 27 28): 10.26356315612793, EP: 1.003706932067871	 ([ap][-][southern][oklahoma][top][three][teams][associated][press][top][# 151 ;][easily][saturday.][no.][4][wisconsin][title][however,][lopsided][loss][michigan][state.])
+v(0 1 2 4 7 8 9 10 11 12 14 15 16 17 19 21): 10.245396614074707, EP: 1.0019303560256958	 ([ap][-][southern][oklahoma][top][three][teams][associated][press][top][# 151 ;][easily][saturday.][no.][wisconsin][title])
+v(0 1 2 3 5 6 13 16 20 22 23): 10.244621276855469, EP: 1.0018545389175415	 ([ap][-][southern][california,][auburn][# 151 ;][25][saturday.][national][hopes][dashed,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 19 20 21 22 23): 10.238959312438965, EP: 1.0013008117675781	 ([ap][-][southern][california,][oklahoma][auburn][# 151 ;][top][three][teams][associated][press][top][25][# 151 ;][easily][saturday.][no.][wisconsin][national][title][hopes][dashed,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 10.22565746307373, EP: 1.0	 ([ap][-][southern][california,][oklahoma][auburn][# 151 ;][top][three][teams][associated][press][top][25][# 151 ;][easily][saturday.][no.][4][wisconsin][national][title][hopes][dashed,][however,][lopsided][loss][michigan][state.])
+v(3 5 6 13 18 20 22 23 24 25 26 27 28): 10.21530532836914, EP: 0.99898761510849	 ([california,][auburn][# 151 ;][25][4][national][hopes][dashed,][however,][lopsided][loss][michigan][state.])
+v(3 5 6 13 20 22 23): 10.208943367004395, EP: 0.9983654618263245	 ([california,][auburn][# 151 ;][25][national][hopes][dashed,])
+v(4 7 8 9 10 11 12 14 15 17 19 21): 10.16934871673584, EP: 0.9944933652877808	 ([oklahoma][top][three][teams][associated][press][top][# 151 ;][easily][no.][wisconsin][title])
+v(4 7 8 9 10 11 12 14 15 17 18 19 21 24 25 26 27 28): 10.093108177185059, EP: 0.9870375990867615	 ([oklahoma][top][three][teams][associated][press][top][# 151 ;][easily][no.][4][wisconsin][title][however,][lopsided][loss][michigan][state.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 20 21 22 23 24 25 26 27 28): 9.943408012390137, EP: 0.9723979234695435	 ([california,][oklahoma][auburn][# 151 ;][top][three][teams][associated][press][top][25][# 151 ;][easily][no.][4][wisconsin][national][title][hopes][dashed,][however,][lopsided][loss][michigan][state.])
+v(18 24 25 26 27 28): 9.942282676696777, EP: 0.9722878932952881	 ([4][however,][lopsided][loss][michigan][state.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 17 19 20 21 22 23): 9.893548011779785, EP: 0.9675219655036926	 ([california,][oklahoma][auburn][# 151 ;][top][three][teams][associated][press][top][25][# 151 ;][easily][no.][wisconsin][national][title][hopes][dashed,])
+v(0 1 2 16): 0.4842591881752014, EP: 0.047357264906167984	 ([ap][-][southern][saturday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

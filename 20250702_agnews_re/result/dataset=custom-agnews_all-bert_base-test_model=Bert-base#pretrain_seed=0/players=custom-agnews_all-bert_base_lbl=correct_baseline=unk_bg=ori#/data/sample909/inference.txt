@@ -1,0 +1,35 @@
+Execution time: 2025-07-02 19:39:57
+prompt: [CLS] einstein was right - - again. satellites that have been pulled slightly off their orbits show that the earth is indeed twisting the fabric [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:15313 decoded_text: einstein
+idx:2 input_id:2001 decoded_text: was
+idx:3 input_id:2157 decoded_text: right
+idx:4 input_id:1011 decoded_text: -
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:2153 decoded_text: again
+idx:7 input_id:1012 decoded_text: .
+idx:8 input_id:14549 decoded_text: satellites
+idx:9 input_id:2008 decoded_text: that
+idx:10 input_id:2031 decoded_text: have
+idx:11 input_id:2042 decoded_text: been
+idx:12 input_id:2766 decoded_text: pulled
+idx:13 input_id:3621 decoded_text: slightly
+idx:14 input_id:2125 decoded_text: off
+idx:15 input_id:2037 decoded_text: their
+idx:16 input_id:20347 decoded_text: orbits
+idx:17 input_id:2265 decoded_text: show
+idx:18 input_id:2008 decoded_text: that
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:3011 decoded_text: earth
+idx:21 input_id:2003 decoded_text: is
+idx:22 input_id:5262 decoded_text: indeed
+idx:23 input_id:12814 decoded_text: twisting
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:8313 decoded_text: fabric
+idx:26 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-0.9705464243888855, -2.2422032356262207, -2.881577730178833, 6.172903537750244]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

@@ -1,0 +1,54 @@
+---------- Players ----------
+Player 0: european
+Player 1: commission
+Player 2: approved
+Player 3: joint
+Player 4: venture
+Player 5: would
+Player 6: group
+Player 7: two
+Player 8: hollywood
+Player 9: movie
+Player 10: studios
+Player 11: video - on - demand
+Player 12: company
+Player 13: compete
+Player 14: rupert
+Player 15: murdoch's
+Player 16: bskyb
+Player 17: company.
+---------- Rewards ----------
+v(): -3.9579501152038574	 ([])
+v(1 7 8 14 15): 6.1129302978515625	 ([commission][two][hollywood][rupert][murdoch's])
+v(3 4 5): 6.174594879150391	 ([joint][venture][would])
+v(0 2 11 12 17): -2.6659066677093506	 ([european][approved][video - on - demand][company][company.])
+v(6 9 10 13 16): 4.1596808433532715	 ([group][movie][studios][compete][bskyb])
+v(1 3 4 5 7 8 14 15): 7.014717102050781	 ([commission][joint][venture][would][two][hollywood][rupert][murdoch's])
+v(0 1 2 7 8 11 12 14 15 17): 2.630530834197998	 ([european][commission][approved][two][hollywood][video - on - demand][company][rupert][murdoch's][company.])
+v(1 6 7 8 9 10 13 14 15 16): 6.027115345001221	 ([commission][group][two][hollywood][movie][studios][compete][rupert][murdoch's][bskyb])
+v(0 2 3 4 5 11 12 17): 4.378213882446289	 ([european][approved][joint][venture][would][video - on - demand][company][company.])
+v(3 4 5 6 9 10 13 16): 7.736126899719238	 ([joint][venture][would][group][movie][studios][compete][bskyb])
+v(0 2 6 9 10 11 12 13 16 17): 4.080989360809326	 ([european][approved][group][movie][studios][video - on - demand][company][compete][bskyb][company.])
+v(0 1 2 3 4 5 7 8 11 12 14 15 17): 3.5585575103759766	 ([european][commission][approved][joint][venture][would][two][hollywood][video - on - demand][company][rupert][murdoch's][company.])
+v(1 3 4 5 6 7 8 9 10 13 14 15 16): 7.053062438964844	 ([commission][joint][venture][would][group][two][hollywood][movie][studios][compete][rupert][murdoch's][bskyb])
+v(0 1 2 6 7 8 9 10 11 12 13 14 15 16 17): 5.519336223602295	 ([european][commission][approved][group][two][hollywood][movie][studios][video - on - demand][company][compete][rupert][murdoch's][bskyb][company.])
+v(0 2 3 4 5 6 9 10 11 12 13 16 17): 5.265060901641846	 ([european][approved][joint][venture][would][group][movie][studios][video - on - demand][company][compete][bskyb][company.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 1.5791022777557373	 ([european][commission][approved][joint][venture][would][group][two][hollywood][movie][studios][video - on - demand][company][compete][rupert][murdoch's][bskyb][company.])
+---------- Rewards-v() ----------
+v(3 4 5 6 9 10 13 16): 11.694076538085938, EP: 2.1119680404663086	 ([joint][venture][would][group][movie][studios][compete][bskyb])
+v(1 3 4 5 6 7 8 9 10 13 14 15 16): 11.01101303100586, EP: 1.9886056184768677	 ([commission][joint][venture][would][group][two][hollywood][movie][studios][compete][rupert][murdoch's][bskyb])
+v(1 3 4 5 7 8 14 15): 10.972667694091797, EP: 1.9816803932189941	 ([commission][joint][venture][would][two][hollywood][rupert][murdoch's])
+v(3 4 5): 10.132545471191406, EP: 1.8299530744552612	 ([joint][venture][would])
+v(1 7 8 14 15): 10.070880889892578, EP: 1.8188163042068481	 ([commission][two][hollywood][rupert][murdoch's])
+v(1 6 7 8 9 10 13 14 15 16): 9.985065460205078, EP: 1.803317904472351	 ([commission][group][two][hollywood][movie][studios][compete][rupert][murdoch's][bskyb])
+v(0 1 2 6 7 8 9 10 11 12 13 14 15 16 17): 9.477286338806152, EP: 1.7116122245788574	 ([european][commission][approved][group][two][hollywood][movie][studios][video - on - demand][company][compete][rupert][murdoch's][bskyb][company.])
+v(0 2 3 4 5 6 9 10 11 12 13 16 17): 9.223011016845703, EP: 1.6656897068023682	 ([european][approved][joint][venture][would][group][movie][studios][video - on - demand][company][compete][bskyb][company.])
+v(0 2 3 4 5 11 12 17): 8.336164474487305, EP: 1.505523920059204	 ([european][approved][joint][venture][would][video - on - demand][company][company.])
+v(6 9 10 13 16): 8.117630958557129, EP: 1.4660564661026	 ([group][movie][studios][compete][bskyb])
+v(0 2 6 9 10 11 12 13 16 17): 8.038939476013184, EP: 1.4518446922302246	 ([european][approved][group][movie][studios][video - on - demand][company][compete][bskyb][company.])
+v(0 1 2 3 4 5 7 8 11 12 14 15 17): 7.516507625579834, EP: 1.3574926853179932	 ([european][commission][approved][joint][venture][would][two][hollywood][video - on - demand][company][rupert][murdoch's][company.])
+v(0 1 2 7 8 11 12 14 15 17): 6.5884809494018555, EP: 1.189889669418335	 ([european][commission][approved][two][hollywood][video - on - demand][company][rupert][murdoch's][company.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 5.537052154541016, EP: 1.0	 ([european][commission][approved][joint][venture][would][group][two][hollywood][movie][studios][video - on - demand][company][compete][rupert][murdoch's][bskyb][company.])
+v(0 2 11 12 17): 1.2920434474945068, EP: 0.23334500193595886	 ([european][approved][video - on - demand][company][company.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

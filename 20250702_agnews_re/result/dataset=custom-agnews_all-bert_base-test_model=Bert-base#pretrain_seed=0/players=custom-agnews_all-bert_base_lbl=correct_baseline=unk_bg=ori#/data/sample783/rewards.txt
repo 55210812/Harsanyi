@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: east
+Player 1: carolina
+Player 2: football
+Player 3: coach
+Player 4: john
+Player 5: thompson
+Player 6: step
+Player 7: end
+Player 8: season,
+Player 9: school
+Player 10: source
+Player 11: told
+Player 12: associated
+Player 13: press
+Player 14: wednesday.
+---------- Rewards ----------
+v(): -4.689563751220703	 ([])
+v(2 3 4 5 9): 5.301046848297119	 ([football][coach][john][thompson][school])
+v(0 1 7 8 12 13 14): 9.38210678100586	 ([east][carolina][end][season,][associated][press][wednesday.])
+v(6 10 11): -4.263609409332275	 ([step][source][told])
+v(0 1 2 3 4 5 7 8 9 12 13 14): 9.18842601776123	 ([east][carolina][football][coach][john][thompson][end][season,][school][associated][press][wednesday.])
+v(2 3 4 5 6 9 10 11): 5.826584815979004	 ([football][coach][john][thompson][step][school][source][told])
+v(0 1 6 7 8 10 11 12 13 14): 8.381616592407227	 ([east][carolina][step][end][season,][source][told][associated][press][wednesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 7.952550888061523	 ([east][carolina][football][coach][john][thompson][step][end][season,][school][source][told][associated][press][wednesday.])
+---------- Rewards-v() ----------
+v(0 1 7 8 12 13 14): 14.071670532226562, EP: 1.1130788326263428	 ([east][carolina][end][season,][associated][press][wednesday.])
+v(0 1 2 3 4 5 7 8 9 12 13 14): 13.877989768981934, EP: 1.0977585315704346	 ([east][carolina][football][coach][john][thompson][end][season,][school][associated][press][wednesday.])
+v(0 1 6 7 8 10 11 12 13 14): 13.07118034362793, EP: 1.0339393615722656	 ([east][carolina][step][end][season,][source][told][associated][press][wednesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 12.642114639282227, EP: 1.0	 ([east][carolina][football][coach][john][thompson][step][end][season,][school][source][told][associated][press][wednesday.])
+v(2 3 4 5 6 9 10 11): 10.516148567199707, EP: 0.831834614276886	 ([football][coach][john][thompson][step][school][source][told])
+v(2 3 4 5 9): 9.990610122680664, EP: 0.7902641892433167	 ([football][coach][john][thompson][school])
+v(6 10 11): 0.42595434188842773, EP: 0.033693283796310425	 ([step][source][told])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

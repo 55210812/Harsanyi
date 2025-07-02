@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: release
+Player 1: three
+Player 2: united
+Player 3: nations
+Player 4: workers
+Player 5: held
+Player 6: hostage
+Player 7: three
+Player 8: weeks
+Player 9: took
+Player 10: place
+Player 11: early
+Player 12: tuesday
+Player 13: appeared
+Player 14: orchestrated
+Player 15: handover.
+---------- Rewards ----------
+v(): -4.4564738273620605	 ([])
+v(1 2 3 8 11 13): 6.283388137817383	 ([three][united][nations][weeks][early][appeared])
+v(0 4 5 6 12 14 15): 6.225414752960205	 ([release][workers][held][hostage][tuesday][orchestrated][handover.])
+v(7 9 10): -5.849266052246094	 ([three][took][place])
+v(0 1 2 3 4 5 6 8 11 12 13 14 15): 7.771428108215332	 ([release][three][united][nations][workers][held][hostage][weeks][early][tuesday][appeared][orchestrated][handover.])
+v(1 2 3 7 8 9 10 11 13): 5.460937023162842	 ([three][united][nations][three][weeks][took][place][early][appeared])
+v(0 4 5 6 7 9 10 12 14 15): 5.857184886932373	 ([release][workers][held][hostage][three][took][place][tuesday][orchestrated][handover.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.680080413818359	 ([release][three][united][nations][workers][held][hostage][three][weeks][took][place][early][tuesday][appeared][orchestrated][handover.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 8 11 12 13 14 15): 12.227901458740234, EP: 1.0075266361236572	 ([release][three][united][nations][workers][held][hostage][weeks][early][tuesday][appeared][orchestrated][handover.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 12.136554718017578, EP: 1.0	 ([release][three][united][nations][workers][held][hostage][three][weeks][took][place][early][tuesday][appeared][orchestrated][handover.])
+v(1 2 3 8 11 13): 10.739862442016602, EP: 0.8849185705184937	 ([three][united][nations][weeks][early][appeared])
+v(0 4 5 6 12 14 15): 10.681888580322266, EP: 0.8801417350769043	 ([release][workers][held][hostage][tuesday][orchestrated][handover.])
+v(0 4 5 6 7 9 10 12 14 15): 10.313658714294434, EP: 0.8498011827468872	 ([release][workers][held][hostage][three][took][place][tuesday][orchestrated][handover.])
+v(1 2 3 7 8 9 10 11 13): 9.917410850524902, EP: 0.8171520829200745	 ([three][united][nations][three][weeks][took][place][early][appeared])
+v(7 9 10): -1.3927922248840332, EP: -0.11476010084152222	 ([three][took][place])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

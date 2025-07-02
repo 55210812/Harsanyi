@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: microsoft
+Player 1: corp.
+Player 2: said
+Player 3: cutting
+Player 4: net
+Player 5: total
+Player 6: 49
+Player 7: jobs
+Player 8: windows
+Player 9: server
+Player 10: division
+Player 11: part
+Player 12: shift
+Player 13: automated
+Player 14: software
+Player 15: testing
+Player 16: changes
+Player 17: way
+Player 18: produces
+Player 19: technical
+Player 20: documents.
+---------- Rewards ----------
+v(): 4.538575649261475	 ([])
+v(4 5): -0.8137017488479614	 ([net][total])
+v(0 3 11 12 14 15 16 17 19 20): 6.177504062652588	 ([microsoft][cutting][part][shift][software][testing][changes][way][technical][documents.])
+v(1 2 6 7 8 9 10 13 18): 5.750799179077148	 ([corp.][said][49][jobs][windows][server][division][automated][produces])
+v(0 3 4 5 11 12 14 15 16 17 19 20): 7.3634538650512695	 ([microsoft][cutting][net][total][part][shift][software][testing][changes][way][technical][documents.])
+v(1 2 4 5 6 7 8 9 10 13 18): 6.328760147094727	 ([corp.][said][net][total][49][jobs][windows][server][division][automated][produces])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 5.031211853027344	 ([microsoft][corp.][said][cutting][49][jobs][windows][server][division][part][shift][automated][software][testing][changes][way][produces][technical][documents.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 6.615657806396484	 ([microsoft][corp.][said][cutting][net][total][49][jobs][windows][server][division][part][shift][automated][software][testing][changes][way][produces][technical][documents.])
+---------- Rewards-v() ----------
+v(4 5): -5.3522772789001465, EP: -2.5768251419067383	 ([net][total])
+v(0 3 4 5 11 12 14 15 16 17 19 20): 2.824878215789795, EP: 1.3600224256515503	 ([microsoft][cutting][net][total][part][shift][software][testing][changes][way][technical][documents.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 2.0770821571350098, EP: 1.0	 ([microsoft][corp.][said][cutting][net][total][49][jobs][windows][server][division][part][shift][automated][software][testing][changes][way][produces][technical][documents.])
+v(1 2 4 5 6 7 8 9 10 13 18): 1.790184497833252, EP: 0.8618746399879456	 ([corp.][said][net][total][49][jobs][windows][server][division][automated][produces])
+v(0 3 11 12 14 15 16 17 19 20): 1.6389284133911133, EP: 0.7890532612800598	 ([microsoft][cutting][part][shift][software][testing][changes][way][technical][documents.])
+v(1 2 6 7 8 9 10 13 18): 1.2122235298156738, EP: 0.5836184620857239	 ([corp.][said][49][jobs][windows][server][division][automated][produces])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 0.49263620376586914, EP: 0.2371770441532135	 ([microsoft][corp.][said][cutting][49][jobs][windows][server][division][part][shift][automated][software][testing][changes][way][produces][technical][documents.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

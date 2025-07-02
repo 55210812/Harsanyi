@@ -1,0 +1,65 @@
+---------- Players ----------
+Player 0: tucson,
+Player 1: ariz.
+Player 2: ( ussid )
+Player 3: former
+Player 4: university
+Player 5: arizona
+Player 6: men
+Player 7: # 39 ; s
+Player 8: golfer
+Player 9: chris
+Player 10: nallen
+Player 11: lost
+Player 12: 19
+Player 13: holes
+Player 14: semifinals
+Player 15: match
+Player 16: play
+Player 17: 2004
+Player 18: united
+Player 19: states
+Player 20: amateur
+Player 21: championship
+Player 22: saturday
+Player 23: winged
+Player 24: foot
+Player 25: golf
+Player 26: club
+Player 27: mamaroneck,
+Player 28: ny.
+---------- Rewards ----------
+v(): -4.5138750076293945	 ([])
+v(8 14 15 21 24 25 26): 8.440193176269531	 ([golfer][semifinals][match][championship][foot][golf][club])
+v(2 3 4 13 27): -3.849817991256714	 ([( ussid )][former][university][holes][mamaroneck,])
+v(1 6 7 9 12 22 28): -2.045318603515625	 ([ariz.][men][# 39 ; s][chris][19][saturday][ny.])
+v(0 5 10 11 16 17 18 19 20 23): 9.640398025512695	 ([tucson,][arizona][nallen][lost][play][2004][united][states][amateur][winged])
+v(2 3 4 8 13 14 15 21 24 25 26 27): 8.801111221313477	 ([( ussid )][former][university][golfer][holes][semifinals][match][championship][foot][golf][club][mamaroneck,])
+v(1 6 7 8 9 12 14 15 21 22 24 25 26 28): 8.92094612121582	 ([ariz.][men][# 39 ; s][golfer][chris][19][semifinals][match][championship][saturday][foot][golf][club][ny.])
+v(0 5 8 10 11 14 15 16 17 18 19 20 21 23 24 25 26): 9.476612091064453	 ([tucson,][arizona][golfer][nallen][lost][semifinals][match][play][2004][united][states][amateur][championship][winged][foot][golf][club])
+v(1 2 3 4 6 7 9 12 13 22 27 28): 2.248260736465454	 ([ariz.][( ussid )][former][university][men][# 39 ; s][chris][19][holes][saturday][mamaroneck,][ny.])
+v(0 2 3 4 5 10 11 13 16 17 18 19 20 23 27): 9.625593185424805	 ([tucson,][( ussid )][former][university][arizona][nallen][lost][holes][play][2004][united][states][amateur][winged][mamaroneck,])
+v(0 1 5 6 7 9 10 11 12 16 17 18 19 20 22 23 28): 9.506097793579102	 ([tucson,][ariz.][arizona][men][# 39 ; s][chris][nallen][lost][19][play][2004][united][states][amateur][saturday][winged][ny.])
+v(1 2 3 4 6 7 8 9 12 13 14 15 21 22 24 25 26 27 28): 9.098729133605957	 ([ariz.][( ussid )][former][university][men][# 39 ; s][golfer][chris][19][holes][semifinals][match][championship][saturday][foot][golf][club][mamaroneck,][ny.])
+v(0 2 3 4 5 8 10 11 13 14 15 16 17 18 19 20 21 23 24 25 26 27): 9.600645065307617	 ([tucson,][( ussid )][former][university][arizona][golfer][nallen][lost][holes][semifinals][match][play][2004][united][states][amateur][championship][winged][foot][golf][club][mamaroneck,])
+v(0 1 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 22 23 24 25 26 28): 9.101329803466797	 ([tucson,][ariz.][arizona][men][# 39 ; s][golfer][chris][nallen][lost][19][semifinals][match][play][2004][united][states][amateur][championship][saturday][winged][foot][golf][club][ny.])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 16 17 18 19 20 22 23 27 28): 9.469712257385254	 ([tucson,][ariz.][( ussid )][former][university][arizona][men][# 39 ; s][chris][nallen][lost][19][holes][play][2004][united][states][amateur][saturday][winged][mamaroneck,][ny.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 9.199472427368164	 ([tucson,][ariz.][( ussid )][former][university][arizona][men][# 39 ; s][golfer][chris][nallen][lost][19][holes][semifinals][match][play][2004][united][states][amateur][championship][saturday][winged][foot][golf][club][mamaroneck,][ny.])
+---------- Rewards-v() ----------
+v(0 5 10 11 16 17 18 19 20 23): 14.15427303314209, EP: 1.0321530103683472	 ([tucson,][arizona][nallen][lost][play][2004][united][states][amateur][winged])
+v(0 2 3 4 5 10 11 13 16 17 18 19 20 23 27): 14.1394681930542, EP: 1.0310734510421753	 ([tucson,][( ussid )][former][university][arizona][nallen][lost][holes][play][2004][united][states][amateur][winged][mamaroneck,])
+v(0 2 3 4 5 8 10 11 13 14 15 16 17 18 19 20 21 23 24 25 26 27): 14.114520072937012, EP: 1.0292541980743408	 ([tucson,][( ussid )][former][university][arizona][golfer][nallen][lost][holes][semifinals][match][play][2004][united][states][amateur][championship][winged][foot][golf][club][mamaroneck,])
+v(0 1 5 6 7 9 10 11 12 16 17 18 19 20 22 23 28): 14.019972801208496, EP: 1.0223596096038818	 ([tucson,][ariz.][arizona][men][# 39 ; s][chris][nallen][lost][19][play][2004][united][states][amateur][saturday][winged][ny.])
+v(0 5 8 10 11 14 15 16 17 18 19 20 21 23 24 25 26): 13.990487098693848, EP: 1.0202094316482544	 ([tucson,][arizona][golfer][nallen][lost][semifinals][match][play][2004][united][states][amateur][championship][winged][foot][golf][club])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 16 17 18 19 20 22 23 27 28): 13.983587265014648, EP: 1.01970636844635	 ([tucson,][ariz.][( ussid )][former][university][arizona][men][# 39 ; s][chris][nallen][lost][19][holes][play][2004][united][states][amateur][saturday][winged][mamaroneck,][ny.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 13.713347434997559, EP: 1.0	 ([tucson,][ariz.][( ussid )][former][university][arizona][men][# 39 ; s][golfer][chris][nallen][lost][19][holes][semifinals][match][play][2004][united][states][amateur][championship][saturday][winged][foot][golf][club][mamaroneck,][ny.])
+v(0 1 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 22 23 24 25 26 28): 13.615204811096191, EP: 0.9928432703018188	 ([tucson,][ariz.][arizona][men][# 39 ; s][golfer][chris][nallen][lost][19][semifinals][match][play][2004][united][states][amateur][championship][saturday][winged][foot][golf][club][ny.])
+v(1 2 3 4 6 7 8 9 12 13 14 15 21 22 24 25 26 27 28): 13.612604141235352, EP: 0.9926536083221436	 ([ariz.][( ussid )][former][university][men][# 39 ; s][golfer][chris][19][holes][semifinals][match][championship][saturday][foot][golf][club][mamaroneck,][ny.])
+v(1 6 7 8 9 12 14 15 21 22 24 25 26 28): 13.434821128845215, EP: 0.9796894192695618	 ([ariz.][men][# 39 ; s][golfer][chris][19][semifinals][match][championship][saturday][foot][golf][club][ny.])
+v(2 3 4 8 13 14 15 21 24 25 26 27): 13.314986228942871, EP: 0.9709508419036865	 ([( ussid )][former][university][golfer][holes][semifinals][match][championship][foot][golf][club][mamaroneck,])
+v(8 14 15 21 24 25 26): 12.954068183898926, EP: 0.9446321129798889	 ([golfer][semifinals][match][championship][foot][golf][club])
+v(1 2 3 4 6 7 9 12 13 22 27 28): 6.7621355056762695, EP: 0.4931061267852783	 ([ariz.][( ussid )][former][university][men][# 39 ; s][chris][19][holes][saturday][mamaroneck,][ny.])
+v(1 6 7 9 12 22 28): 2.4685564041137695, EP: 0.18001121282577515	 ([ariz.][men][# 39 ; s][chris][19][saturday][ny.])
+v(2 3 4 13 27): 0.6640570163726807, EP: 0.0484241358935833	 ([( ussid )][former][university][holes][mamaroneck,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

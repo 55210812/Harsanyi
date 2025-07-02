@@ -1,0 +1,64 @@
+---------- Players ----------
+Player 0: quinn,
+Player 1: san
+Player 2: francisco
+Player 3: 49ers
+Player 4: # 39 ;
+Player 5: defensive
+Player 6: line
+Player 7: coach, helps
+Player 8: devise
+Player 9: game
+Player 10: plan,
+Player 11: fine - tunes
+Player 12: starters,
+Player 13: teaches
+Player 14: never - ending
+Player 15: stream
+Player 16: new
+Player 17: linemen
+Player 18: scheme,
+Player 19: sneaks
+Player 20: workout
+Player 21: own,
+Player 22: keeps
+Player 23: pate
+Player 24: freshly
+Player 25: shaved,
+Player 26: checks
+Player 27: wife
+---------- Rewards ----------
+v(): -1.9763470888137817	 ([])
+v(2 3 4 7 8): 9.422505378723145	 ([francisco][49ers][# 39 ;][coach, helps][devise])
+v(1 15 17 19 20 21 26 27): 0.49823713302612305	 ([san][stream][linemen][sneaks][workout][own,][checks][wife])
+v(0 5 6 9 14 16 22 23): 9.262139320373535	 ([quinn,][defensive][line][game][never - ending][new][keeps][pate])
+v(10 11 12 13 18 24 25): 1.3261312246322632	 ([plan,][fine - tunes][starters,][teaches][scheme,][freshly][shaved,])
+v(1 2 3 4 7 8 15 17 19 20 21 26 27): 9.544443130493164	 ([san][francisco][49ers][# 39 ;][coach, helps][devise][stream][linemen][sneaks][workout][own,][checks][wife])
+v(0 2 3 4 5 6 7 8 9 14 16 22 23): 9.562487602233887	 ([quinn,][francisco][49ers][# 39 ;][defensive][line][coach, helps][devise][game][never - ending][new][keeps][pate])
+v(2 3 4 7 8 10 11 12 13 18 24 25): 9.65835189819336	 ([francisco][49ers][# 39 ;][coach, helps][devise][plan,][fine - tunes][starters,][teaches][scheme,][freshly][shaved,])
+v(0 1 5 6 9 14 15 16 17 19 20 21 22 23 26 27): 9.720932006835938	 ([quinn,][san][defensive][line][game][never - ending][stream][new][linemen][sneaks][workout][own,][keeps][pate][checks][wife])
+v(1 10 11 12 13 15 17 18 19 20 21 24 25 26 27): 6.691303253173828	 ([san][plan,][fine - tunes][starters,][teaches][stream][linemen][scheme,][sneaks][workout][own,][freshly][shaved,][checks][wife])
+v(0 5 6 9 10 11 12 13 14 16 18 22 23 24 25): 9.696208953857422	 ([quinn,][defensive][line][game][plan,][fine - tunes][starters,][teaches][never - ending][new][scheme,][keeps][pate][freshly][shaved,])
+v(0 1 2 3 4 5 6 7 8 9 14 15 16 17 19 20 21 22 23 26 27): 9.6421537399292	 ([quinn,][san][francisco][49ers][# 39 ;][defensive][line][coach, helps][devise][game][never - ending][stream][new][linemen][sneaks][workout][own,][keeps][pate][checks][wife])
+v(1 2 3 4 7 8 10 11 12 13 15 17 18 19 20 21 24 25 26 27): 9.653754234313965	 ([san][francisco][49ers][# 39 ;][coach, helps][devise][plan,][fine - tunes][starters,][teaches][stream][linemen][scheme,][sneaks][workout][own,][freshly][shaved,][checks][wife])
+v(0 2 3 4 5 6 7 8 9 10 11 12 13 14 16 18 22 23 24 25): 9.677030563354492	 ([quinn,][francisco][49ers][# 39 ;][defensive][line][coach, helps][devise][game][plan,][fine - tunes][starters,][teaches][never - ending][new][scheme,][keeps][pate][freshly][shaved,])
+v(0 1 5 6 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 9.706084251403809	 ([quinn,][san][defensive][line][game][plan,][fine - tunes][starters,][teaches][never - ending][stream][new][linemen][scheme,][sneaks][workout][own,][keeps][pate][freshly][shaved,][checks][wife])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 9.609565734863281	 ([quinn,][san][francisco][49ers][# 39 ;][defensive][line][coach, helps][devise][game][plan,][fine - tunes][starters,][teaches][never - ending][stream][new][linemen][scheme,][sneaks][workout][own,][keeps][pate][freshly][shaved,][checks][wife])
+---------- Rewards-v() ----------
+v(0 1 5 6 9 14 15 16 17 19 20 21 22 23 26 27): 11.69727897644043, EP: 1.0096122026443481	 ([quinn,][san][defensive][line][game][never - ending][stream][new][linemen][sneaks][workout][own,][keeps][pate][checks][wife])
+v(0 1 5 6 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 11.6824312210083, EP: 1.0083307027816772	 ([quinn,][san][defensive][line][game][plan,][fine - tunes][starters,][teaches][never - ending][stream][new][linemen][scheme,][sneaks][workout][own,][keeps][pate][freshly][shaved,][checks][wife])
+v(0 5 6 9 10 11 12 13 14 16 18 22 23 24 25): 11.672555923461914, EP: 1.0074783563613892	 ([quinn,][defensive][line][game][plan,][fine - tunes][starters,][teaches][never - ending][new][scheme,][keeps][pate][freshly][shaved,])
+v(0 2 3 4 5 6 7 8 9 10 11 12 13 14 16 18 22 23 24 25): 11.653377532958984, EP: 1.005823016166687	 ([quinn,][francisco][49ers][# 39 ;][defensive][line][coach, helps][devise][game][plan,][fine - tunes][starters,][teaches][never - ending][new][scheme,][keeps][pate][freshly][shaved,])
+v(2 3 4 7 8 10 11 12 13 18 24 25): 11.634698867797852, EP: 1.0042108297348022	 ([francisco][49ers][# 39 ;][coach, helps][devise][plan,][fine - tunes][starters,][teaches][scheme,][freshly][shaved,])
+v(1 2 3 4 7 8 10 11 12 13 15 17 18 19 20 21 24 25 26 27): 11.630101203918457, EP: 1.0038139820098877	 ([san][francisco][49ers][# 39 ;][coach, helps][devise][plan,][fine - tunes][starters,][teaches][stream][linemen][scheme,][sneaks][workout][own,][freshly][shaved,][checks][wife])
+v(0 1 2 3 4 5 6 7 8 9 14 15 16 17 19 20 21 22 23 26 27): 11.618500709533691, EP: 1.0028127431869507	 ([quinn,][san][francisco][49ers][# 39 ;][defensive][line][coach, helps][devise][game][never - ending][stream][new][linemen][sneaks][workout][own,][keeps][pate][checks][wife])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 11.585912704467773, EP: 1.0	 ([quinn,][san][francisco][49ers][# 39 ;][defensive][line][coach, helps][devise][game][plan,][fine - tunes][starters,][teaches][never - ending][stream][new][linemen][scheme,][sneaks][workout][own,][keeps][pate][freshly][shaved,][checks][wife])
+v(0 2 3 4 5 6 7 8 9 14 16 22 23): 11.538834571838379, EP: 0.9959366321563721	 ([quinn,][francisco][49ers][# 39 ;][defensive][line][coach, helps][devise][game][never - ending][new][keeps][pate])
+v(1 2 3 4 7 8 15 17 19 20 21 26 27): 11.520790100097656, EP: 0.9943791627883911	 ([san][francisco][49ers][# 39 ;][coach, helps][devise][stream][linemen][sneaks][workout][own,][checks][wife])
+v(2 3 4 7 8): 11.398852348327637, EP: 0.9838544726371765	 ([francisco][49ers][# 39 ;][coach, helps][devise])
+v(0 5 6 9 14 16 22 23): 11.238486289978027, EP: 0.9700130224227905	 ([quinn,][defensive][line][game][never - ending][new][keeps][pate])
+v(1 10 11 12 13 15 17 18 19 20 21 24 25 26 27): 8.66765022277832, EP: 0.7481197714805603	 ([san][plan,][fine - tunes][starters,][teaches][stream][linemen][scheme,][sneaks][workout][own,][freshly][shaved,][checks][wife])
+v(10 11 12 13 18 24 25): 3.302478313446045, EP: 0.28504255414009094	 ([plan,][fine - tunes][starters,][teaches][scheme,][freshly][shaved,])
+v(1 15 17 19 20 21 26 27): 2.4745841026306152, EP: 0.21358560025691986	 ([san][stream][linemen][sneaks][workout][own,][checks][wife])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

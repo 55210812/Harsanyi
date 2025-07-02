@@ -1,0 +1,29 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: voters
+Player 3: alaska
+Player 4: decide
+Player 5: on \ tuesday
+Player 6: whether
+Player 7: make
+Player 8: state
+Player 9: first
+Player 10: country
+Player 11: to \ legalize
+Player 12: sale,
+Player 13: possession
+Player 14: use
+Player 15: marijuana
+Player 16: adults.
+---------- Rewards ----------
+v(): -7.428084373474121	 ([])
+v(0 1 2 12 13 14 15 16): 6.240949630737305	 ([reuters][-][voters][sale,][possession][use][marijuana][adults.])
+v(3 4 5 6 7 8 9 10 11): -5.8522443771362305	 ([alaska][decide][on \ tuesday][whether][make][state][first][country][to \ legalize])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.601973533630371	 ([reuters][-][voters][alaska][decide][on \ tuesday][whether][make][state][first][country][to \ legalize][sale,][possession][use][marijuana][adults.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 15.030057907104492, EP: 1.0	 ([reuters][-][voters][alaska][decide][on \ tuesday][whether][make][state][first][country][to \ legalize][sale,][possession][use][marijuana][adults.])
+v(0 1 2 12 13 14 15 16): 13.669034004211426, EP: 0.9094465374946594	 ([reuters][-][voters][sale,][possession][use][marijuana][adults.])
+v(3 4 5 6 7 8 9 10 11): 1.5758399963378906, EP: 0.10484590381383896	 ([alaska][decide][on \ tuesday][whether][make][state][first][country][to \ legalize])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

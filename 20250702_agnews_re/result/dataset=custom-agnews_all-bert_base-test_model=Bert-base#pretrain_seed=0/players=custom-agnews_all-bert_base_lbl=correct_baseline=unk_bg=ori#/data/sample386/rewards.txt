@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: strong
+Player 1: earthquake
+Player 2: preliminary
+Player 3: magnitude
+Player 4: 6. 8
+Player 5: shook
+Player 6: northern
+Player 7: japan
+Player 8: saturday,
+Player 9: rocking
+Player 10: buildings
+Player 11: hundreds
+Player 12: miles
+Player 13: away.
+---------- Rewards ----------
+v(): -7.140686988830566	 ([])
+v(1 2 7 11 12): 3.2266488075256348	 ([earthquake][preliminary][japan][hundreds][miles])
+v(0 3 5 8 9 10 13): 0.9943190813064575	 ([strong][magnitude][shook][saturday,][rocking][buildings][away.])
+v(4 6): -2.8463611602783203	 ([6. 8][northern])
+v(0 1 2 3 5 7 8 9 10 11 12 13): 7.668883800506592	 ([strong][earthquake][preliminary][magnitude][shook][japan][saturday,][rocking][buildings][hundreds][miles][away.])
+v(1 2 4 6 7 11 12): 5.350064754486084	 ([earthquake][preliminary][6. 8][northern][japan][hundreds][miles])
+v(0 3 4 5 6 8 9 10 13): 7.906035423278809	 ([strong][magnitude][6. 8][shook][northern][saturday,][rocking][buildings][away.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 7.963335990905762	 ([strong][earthquake][preliminary][magnitude][6. 8][shook][northern][japan][saturday,][rocking][buildings][hundreds][miles][away.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 15.104022979736328, EP: 1.0	 ([strong][earthquake][preliminary][magnitude][6. 8][shook][northern][japan][saturday,][rocking][buildings][hundreds][miles][away.])
+v(0 3 4 5 6 8 9 10 13): 15.046722412109375, EP: 0.9962062835693359	 ([strong][magnitude][6. 8][shook][northern][saturday,][rocking][buildings][away.])
+v(0 1 2 3 5 7 8 9 10 11 12 13): 14.8095703125, EP: 0.9805049896240234	 ([strong][earthquake][preliminary][magnitude][shook][japan][saturday,][rocking][buildings][hundreds][miles][away.])
+v(1 2 4 6 7 11 12): 12.490751266479492, EP: 0.8269817233085632	 ([earthquake][preliminary][6. 8][northern][japan][hundreds][miles])
+v(1 2 7 11 12): 10.36733627319336, EP: 0.6863957047462463	 ([earthquake][preliminary][japan][hundreds][miles])
+v(0 3 5 8 9 10 13): 8.135005950927734, EP: 0.5385985970497131	 ([strong][magnitude][shook][saturday,][rocking][buildings][away.])
+v(4 6): 4.294325828552246, EP: 0.28431668877601624	 ([6. 8][northern])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

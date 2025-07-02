@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: tokyo
+Player 1: ( reuters )
+Player 2: -
+Player 3: dollar
+Player 4: held
+Player 5: near
+Player 6: one - week
+Player 7: high
+Player 8: euro
+Player 9: tuesday
+Player 10: optimism
+Player 11: u. s.
+Player 12: economy
+Player 13: market
+Player 14: awaited
+Player 15: comments
+Player 16: federal
+Player 17: reserve
+Player 18: chairman
+Player 19: alan
+Player 20: greenspan.
+---------- Rewards ----------
+v(): -5.174267768859863	 ([])
+v(0 1 2 5): 2.8585307598114014	 ([tokyo][( reuters )][-][near])
+v(3 8 10 11 12 13 19): 8.082115173339844	 ([dollar][euro][optimism][u. s.][economy][market][alan])
+v(6 7): 0.4557499885559082	 ([one - week][high])
+v(4 9 14 15 16 17 18 20): 8.100037574768066	 ([held][tuesday][awaited][comments][federal][reserve][chairman][greenspan.])
+v(0 1 2 3 5 8 10 11 12 13 19): 8.350736618041992	 ([tokyo][( reuters )][-][dollar][near][euro][optimism][u. s.][economy][market][alan])
+v(0 1 2 5 6 7): 7.197249412536621	 ([tokyo][( reuters )][-][near][one - week][high])
+v(0 1 2 4 5 9 14 15 16 17 18 20): 8.183573722839355	 ([tokyo][( reuters )][-][held][near][tuesday][awaited][comments][federal][reserve][chairman][greenspan.])
+v(3 6 7 8 10 11 12 13 19): 7.924056529998779	 ([dollar][one - week][high][euro][optimism][u. s.][economy][market][alan])
+v(3 4 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.7742533683776855	 ([dollar][held][euro][tuesday][optimism][u. s.][economy][market][awaited][comments][federal][reserve][chairman][alan][greenspan.])
+v(4 6 7 9 14 15 16 17 18 20): 8.227128982543945	 ([held][one - week][high][tuesday][awaited][comments][federal][reserve][chairman][greenspan.])
+v(0 1 2 3 5 6 7 8 10 11 12 13 19): 8.28274154663086	 ([tokyo][( reuters )][-][dollar][near][one - week][high][euro][optimism][u. s.][economy][market][alan])
+v(0 1 2 3 4 5 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.332117080688477	 ([tokyo][( reuters )][-][dollar][held][near][euro][tuesday][optimism][u. s.][economy][market][awaited][comments][federal][reserve][chairman][alan][greenspan.])
+v(0 1 2 4 5 6 7 9 14 15 16 17 18 20): 8.230289459228516	 ([tokyo][( reuters )][-][held][near][one - week][high][tuesday][awaited][comments][federal][reserve][chairman][greenspan.])
+v(3 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.9861555099487305	 ([dollar][held][one - week][high][euro][tuesday][optimism][u. s.][economy][market][awaited][comments][federal][reserve][chairman][alan][greenspan.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.31079387664795	 ([tokyo][( reuters )][-][dollar][held][near][one - week][high][euro][tuesday][optimism][u. s.][economy][market][awaited][comments][federal][reserve][chairman][alan][greenspan.])
+---------- Rewards-v() ----------
+v(0 1 2 3 5 8 10 11 12 13 19): 13.525004386901855, EP: 1.0029619932174683	 ([tokyo][( reuters )][-][dollar][near][euro][optimism][u. s.][economy][market][alan])
+v(0 1 2 3 4 5 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.50638484954834, EP: 1.0015811920166016	 ([tokyo][( reuters )][-][dollar][held][near][euro][tuesday][optimism][u. s.][economy][market][awaited][comments][federal][reserve][chairman][alan][greenspan.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.485061645507812, EP: 1.0	 ([tokyo][( reuters )][-][dollar][held][near][one - week][high][euro][tuesday][optimism][u. s.][economy][market][awaited][comments][federal][reserve][chairman][alan][greenspan.])
+v(0 1 2 3 5 6 7 8 10 11 12 13 19): 13.457009315490723, EP: 0.9979197382926941	 ([tokyo][( reuters )][-][dollar][near][one - week][high][euro][optimism][u. s.][economy][market][alan])
+v(0 1 2 4 5 6 7 9 14 15 16 17 18 20): 13.404557228088379, EP: 0.9940301179885864	 ([tokyo][( reuters )][-][held][near][one - week][high][tuesday][awaited][comments][federal][reserve][chairman][greenspan.])
+v(4 6 7 9 14 15 16 17 18 20): 13.401396751403809, EP: 0.9937957525253296	 ([held][one - week][high][tuesday][awaited][comments][federal][reserve][chairman][greenspan.])
+v(0 1 2 4 5 9 14 15 16 17 18 20): 13.357841491699219, EP: 0.990565836429596	 ([tokyo][( reuters )][-][held][near][tuesday][awaited][comments][federal][reserve][chairman][greenspan.])
+v(4 9 14 15 16 17 18 20): 13.27430534362793, EP: 0.9843711256980896	 ([held][tuesday][awaited][comments][federal][reserve][chairman][greenspan.])
+v(3 8 10 11 12 13 19): 13.256382942199707, EP: 0.9830420613288879	 ([dollar][euro][optimism][u. s.][economy][market][alan])
+v(3 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.160423278808594, EP: 0.9759261012077332	 ([dollar][held][one - week][high][euro][tuesday][optimism][u. s.][economy][market][awaited][comments][federal][reserve][chairman][alan][greenspan.])
+v(3 6 7 8 10 11 12 13 19): 13.098323822021484, EP: 0.9713210463523865	 ([dollar][one - week][high][euro][optimism][u. s.][economy][market][alan])
+v(3 4 8 9 10 11 12 13 14 15 16 17 18 19 20): 12.94852066040039, EP: 0.9602121710777283	 ([dollar][held][euro][tuesday][optimism][u. s.][economy][market][awaited][comments][federal][reserve][chairman][alan][greenspan.])
+v(0 1 2 5 6 7): 12.371517181396484, EP: 0.9174238443374634	 ([tokyo][( reuters )][-][near][one - week][high])
+v(0 1 2 5): 8.032798767089844, EP: 0.5956812500953674	 ([tokyo][( reuters )][-][near])
+v(6 7): 5.6300177574157715, EP: 0.4175003468990326	 ([one - week][high])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

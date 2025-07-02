@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: red
+Player 1: sox
+Player 2: lost
+Player 3: first
+Player 4: time
+Player 5: 11
+Player 6: games,
+Player 7: falling
+Player 8: texas
+Player 9: rangers
+Player 10: 8 - 6
+Player 11: yesterday
+Player 12: missing
+Player 13: chance
+Player 14: pull
+Player 15: 1 - 1 / 2
+Player 16: games
+Player 17: behind
+Player 18: new
+Player 19: york
+Player 20: yankees
+Player 21: al
+Player 22: east.
+---------- Rewards ----------
+v(): -1.9513556957244873	 ([])
+v(1 4 11 20 22): 9.693865776062012	 ([sox][time][yesterday][yankees][east.])
+v(0 2 3 7 8 12 13 14): 1.2774194478988647	 ([red][lost][first][falling][texas][missing][chance][pull])
+v(5 6 9 10 15 16 17 18 19 21): 9.609569549560547	 ([11][games,][rangers][8 - 6][1 - 1 / 2][games][behind][new][york][al])
+v(0 1 2 3 4 7 8 11 12 13 14 20 22): 9.650991439819336	 ([red][sox][lost][first][time][falling][texas][yesterday][missing][chance][pull][yankees][east.])
+v(1 4 5 6 9 10 11 15 16 17 18 19 20 21 22): 9.647844314575195	 ([sox][time][11][games,][rangers][8 - 6][yesterday][1 - 1 / 2][games][behind][new][york][yankees][al][east.])
+v(0 2 3 5 6 7 8 9 10 12 13 14 15 16 17 18 19 21): 9.103161811828613	 ([red][lost][first][11][games,][falling][texas][rangers][8 - 6][missing][chance][pull][1 - 1 / 2][games][behind][new][york][al])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.846811294555664	 ([red][sox][lost][first][time][11][games,][falling][texas][rangers][8 - 6][yesterday][missing][chance][pull][1 - 1 / 2][games][behind][new][york][yankees][al][east.])
+---------- Rewards-v() ----------
+v(1 4 11 20 22): 11.645221710205078, EP: 1.078444242477417	 ([sox][time][yesterday][yankees][east.])
+v(0 1 2 3 4 7 8 11 12 13 14 20 22): 11.602347373962402, EP: 1.0744737386703491	 ([red][sox][lost][first][time][falling][texas][yesterday][missing][chance][pull][yankees][east.])
+v(1 4 5 6 9 10 11 15 16 17 18 19 20 21 22): 11.599200248718262, EP: 1.0741822719573975	 ([sox][time][11][games,][rangers][8 - 6][yesterday][1 - 1 / 2][games][behind][new][york][yankees][al][east.])
+v(5 6 9 10 15 16 17 18 19 21): 11.560925483703613, EP: 1.0706377029418945	 ([11][games,][rangers][8 - 6][1 - 1 / 2][games][behind][new][york][al])
+v(0 2 3 5 6 7 8 9 10 12 13 14 15 16 17 18 19 21): 11.05451774597168, EP: 1.0237401723861694	 ([red][lost][first][11][games,][falling][texas][rangers][8 - 6][missing][chance][pull][1 - 1 / 2][games][behind][new][york][al])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 10.79816722869873, EP: 1.0	 ([red][sox][lost][first][time][11][games,][falling][texas][rangers][8 - 6][yesterday][missing][chance][pull][1 - 1 / 2][games][behind][new][york][yankees][al][east.])
+v(0 2 3 7 8 12 13 14): 3.2287750244140625, EP: 0.29901137948036194	 ([red][lost][first][falling][texas][missing][chance][pull])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

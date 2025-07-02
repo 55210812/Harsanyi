@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: peoplesoft
+Player 1: inc.
+Player 2: said
+Player 3: tuesday
+Player 4: extending
+Player 5: money - back
+Player 6: guarantee
+Player 7: program
+Player 8: says
+Player 9: designed
+Player 10: protect
+Player 11: customers
+Player 12: event
+Player 13: takeover
+Player 14: rival
+Player 15: software
+Player 16: maker
+Player 17: oracle
+Player 18: corp.
+---------- Rewards ----------
+v(): 6.076556205749512	 ([])
+v(0 7 8 11 13 15): 3.7163619995117188	 ([peoplesoft][program][says][customers][takeover][software])
+v(4 5 10 12 16 17): 7.0864129066467285	 ([extending][money - back][protect][event][maker][oracle])
+v(1 2 3 6 9 14 18): -5.256836891174316	 ([inc.][said][tuesday][guarantee][designed][rival][corp.])
+v(0 4 5 7 8 10 11 12 13 15 16 17): 5.66301155090332	 ([peoplesoft][extending][money - back][program][says][protect][customers][event][takeover][software][maker][oracle])
+v(0 1 2 3 6 7 8 9 11 13 14 15 18): 0.35858893394470215	 ([peoplesoft][inc.][said][tuesday][guarantee][program][says][designed][customers][takeover][rival][software][corp.])
+v(1 2 3 4 5 6 9 10 12 14 16 17 18): -0.5827584266662598	 ([inc.][said][tuesday][extending][money - back][guarantee][designed][protect][event][rival][maker][oracle][corp.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 2.7909557819366455	 ([peoplesoft][inc.][said][tuesday][extending][money - back][guarantee][program][says][designed][protect][customers][event][takeover][rival][software][maker][oracle][corp.])
+---------- Rewards-v() ----------
+v(1 2 3 6 9 14 18): -11.333393096923828, EP: 3.4494130611419678	 ([inc.][said][tuesday][guarantee][designed][rival][corp.])
+v(1 2 3 4 5 6 9 10 12 14 16 17 18): -6.6593146324157715, EP: 2.02681827545166	 ([inc.][said][tuesday][extending][money - back][guarantee][designed][protect][event][rival][maker][oracle][corp.])
+v(0 1 2 3 6 7 8 9 11 13 14 15 18): -5.7179670333862305, EP: 1.7403111457824707	 ([peoplesoft][inc.][said][tuesday][guarantee][program][says][designed][customers][takeover][rival][software][corp.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): -3.285600423812866, EP: 1.0	 ([peoplesoft][inc.][said][tuesday][extending][money - back][guarantee][program][says][designed][protect][customers][event][takeover][rival][software][maker][oracle][corp.])
+v(0 7 8 11 13 15): -2.360194206237793, EP: 0.7183448672294617	 ([peoplesoft][program][says][customers][takeover][software])
+v(4 5 10 12 16 17): 1.0098567008972168, EP: -0.30735835433006287	 ([extending][money - back][protect][event][maker][oracle])
+v(0 4 5 7 8 10 11 12 13 15 16 17): -0.4135446548461914, EP: 0.12586577236652374	 ([peoplesoft][extending][money - back][program][says][protect][customers][event][takeover][software][maker][oracle])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

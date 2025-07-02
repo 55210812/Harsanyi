@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: suit
+Player 1: large
+Player 2: hedge
+Player 3: fund
+Player 4: filed
+Player 5: carl
+Player 6: c.
+Player 7: icahn,
+Player 8: billionaire
+Player 9: financier,
+Player 10: could
+Player 11: shine
+Player 12: bright
+Player 13: light
+Player 14: largely
+Player 15: unregulated
+Player 16: hedge
+Player 17: fund
+Player 18: industry.
+---------- Rewards ----------
+v(): -5.709080696105957	 ([])
+v(3 8 9 17 18): 7.908761501312256	 ([fund][billionaire][financier,][fund][industry.])
+v(1 2 10 11 12 13 14 15 16): -5.960770606994629	 ([large][hedge][could][shine][bright][light][largely][unregulated][hedge])
+v(0 4 5 6 7): 2.659282684326172	 ([suit][filed][carl][c.][icahn,])
+v(1 2 3 8 9 10 11 12 13 14 15 16 17 18): 8.248651504516602	 ([large][hedge][fund][billionaire][financier,][could][shine][bright][light][largely][unregulated][hedge][fund][industry.])
+v(0 3 4 5 6 7 8 9 17 18): 8.099955558776855	 ([suit][fund][filed][carl][c.][icahn,][billionaire][financier,][fund][industry.])
+v(0 1 2 4 5 6 7 10 11 12 13 14 15 16): 7.469253063201904	 ([suit][large][hedge][filed][carl][c.][icahn,][could][shine][bright][light][largely][unregulated][hedge])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.269468307495117	 ([suit][large][hedge][fund][filed][carl][c.][icahn,][billionaire][financier,][could][shine][bright][light][largely][unregulated][hedge][fund][industry.])
+---------- Rewards-v() ----------
+v(1 2 3 8 9 10 11 12 13 14 15 16 17 18): 13.957732200622559, EP: 1.0754462480545044	 ([large][hedge][fund][billionaire][financier,][could][shine][bright][light][largely][unregulated][hedge][fund][industry.])
+v(0 3 4 5 6 7 8 9 17 18): 13.809036254882812, EP: 1.0639891624450684	 ([suit][fund][filed][carl][c.][icahn,][billionaire][financier,][fund][industry.])
+v(3 8 9 17 18): 13.617841720581055, EP: 1.0492576360702515	 ([fund][billionaire][financier,][fund][industry.])
+v(0 1 2 4 5 6 7 10 11 12 13 14 15 16): 13.178333282470703, EP: 1.0153933763504028	 ([suit][large][hedge][filed][carl][c.][icahn,][could][shine][bright][light][largely][unregulated][hedge])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 12.978549003601074, EP: 1.0	 ([suit][large][hedge][fund][filed][carl][c.][icahn,][billionaire][financier,][could][shine][bright][light][largely][unregulated][hedge][fund][industry.])
+v(0 4 5 6 7): 8.368363380432129, EP: 0.6447842121124268	 ([suit][filed][carl][c.][icahn,])
+v(1 2 10 11 12 13 14 15 16): -0.2516899108886719, EP: -0.01939276233315468	 ([large][hedge][could][shine][bright][light][largely][unregulated][hedge])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

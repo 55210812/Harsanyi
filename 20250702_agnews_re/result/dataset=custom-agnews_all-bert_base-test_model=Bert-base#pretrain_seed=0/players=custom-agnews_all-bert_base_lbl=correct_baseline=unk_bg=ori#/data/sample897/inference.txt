@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 19:39:40
+prompt: [CLS] former nfl running back ricky williams has asked the league to hold a hearing to clarify his playing status. williams, who is reported to be considering a comeback, wants to know [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2280 decoded_text: former
+idx:2 input_id:5088 decoded_text: nfl
+idx:3 input_id:2770 decoded_text: running
+idx:4 input_id:2067 decoded_text: back
+idx:5 input_id:11184 decoded_text: ricky
+idx:6 input_id:3766 decoded_text: williams
+idx:7 input_id:2038 decoded_text: has
+idx:8 input_id:2356 decoded_text: asked
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:2223 decoded_text: league
+idx:11 input_id:2000 decoded_text: to
+idx:12 input_id:2907 decoded_text: hold
+idx:13 input_id:1037 decoded_text: a
+idx:14 input_id:4994 decoded_text: hearing
+idx:15 input_id:2000 decoded_text: to
+idx:16 input_id:25037 decoded_text: clarify
+idx:17 input_id:2010 decoded_text: his
+idx:18 input_id:2652 decoded_text: playing
+idx:19 input_id:3570 decoded_text: status
+idx:20 input_id:1012 decoded_text: .
+idx:21 input_id:3766 decoded_text: williams
+idx:22 input_id:1010 decoded_text: ,
+idx:23 input_id:2040 decoded_text: who
+idx:24 input_id:2003 decoded_text: is
+idx:25 input_id:2988 decoded_text: reported
+idx:26 input_id:2000 decoded_text: to
+idx:27 input_id:2022 decoded_text: be
+idx:28 input_id:6195 decoded_text: considering
+idx:29 input_id:1037 decoded_text: a
+idx:30 input_id:12845 decoded_text: comeback
+idx:31 input_id:1010 decoded_text: ,
+idx:32 input_id:4122 decoded_text: wants
+idx:33 input_id:2000 decoded_text: to
+idx:34 input_id:2113 decoded_text: know
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-0.8466576337814331, 8.370274543762207, -2.929537296295166, -2.9979898929595947]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

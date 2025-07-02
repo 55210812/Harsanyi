@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: two
+Player 1: armed
+Player 2: hijackers
+Player 3: holding
+Player 4: 26
+Player 5: people
+Player 6: hostage
+Player 7: board
+Player 8: greek
+Player 9: bus
+Player 10: seizing
+Player 11: near
+Player 12: capital
+Player 13: athens.
+Player 14: police
+Player 15: surrounding
+Player 16: bus
+Player 17: stopped
+Player 18: marathon
+Player 19: capital.
+---------- Rewards ----------
+v(): -6.35051155090332	 ([])
+v(1 2 4 6 10 12 14 18): 5.409870147705078	 ([armed][hijackers][26][hostage][seizing][capital][police][marathon])
+v(0 3 5 7 8 9 11 13 15 16 17 19): 0.7008309364318848	 ([two][holding][people][board][greek][bus][near][athens.][surrounding][bus][stopped][capital.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 6.3459272384643555	 ([two][armed][hijackers][holding][26][people][hostage][board][greek][bus][seizing][near][capital][athens.][police][surrounding][bus][stopped][marathon][capital.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 12.696438789367676, EP: 1.0	 ([two][armed][hijackers][holding][26][people][hostage][board][greek][bus][seizing][near][capital][athens.][police][surrounding][bus][stopped][marathon][capital.])
+v(1 2 4 6 10 12 14 18): 11.760381698608398, EP: 0.9262740612030029	 ([armed][hijackers][26][hostage][seizing][capital][police][marathon])
+v(0 3 5 7 8 9 11 13 15 16 17 19): 7.051342487335205, EP: 0.5553795695304871	 ([two][holding][people][board][greek][bus][near][athens.][surrounding][bus][stopped][capital.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

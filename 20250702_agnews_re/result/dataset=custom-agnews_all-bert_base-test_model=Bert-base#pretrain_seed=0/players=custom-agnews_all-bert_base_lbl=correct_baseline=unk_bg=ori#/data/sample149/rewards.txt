@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: tennessee
+Player 1: three
+Player 2: interceptions
+Player 3: saturday,
+Player 4: including
+Player 5: one
+Player 6: end
+Player 7: zone
+Player 8: another
+Player 9: returned
+Player 10: 37
+Player 11: yards
+Player 12: touchdown
+Player 13: lamont
+Player 14: thompson,
+Player 15: miami,
+Player 16: 17 - 7.
+---------- Rewards ----------
+v(): -3.9090301990509033	 ([])
+v(4 5 10 15 16): 7.958185195922852	 ([including][one][37][miami,][17 - 7.])
+v(2 3 7 9 11 12 13 14): 7.912468910217285	 ([interceptions][saturday,][zone][returned][yards][touchdown][lamont][thompson,])
+v(0 1 6 8): 7.752835273742676	 ([tennessee][three][end][another])
+v(2 3 4 5 7 9 10 11 12 13 14 15 16): 7.165309906005859	 ([interceptions][saturday,][including][one][zone][returned][37][yards][touchdown][lamont][thompson,][miami,][17 - 7.])
+v(0 1 4 5 6 8 10 15 16): 9.2477445602417	 ([tennessee][three][including][one][end][another][37][miami,][17 - 7.])
+v(0 1 2 3 6 7 8 9 11 12 13 14): 7.49711799621582	 ([tennessee][three][interceptions][saturday,][end][zone][another][returned][yards][touchdown][lamont][thompson,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 4.947762489318848	 ([tennessee][three][interceptions][saturday,][including][one][end][zone][another][returned][37][yards][touchdown][lamont][thompson,][miami,][17 - 7.])
+---------- Rewards-v() ----------
+v(0 1 4 5 6 8 10 15 16): 13.156774520874023, EP: 1.4855010509490967	 ([tennessee][three][including][one][end][another][37][miami,][17 - 7.])
+v(4 5 10 15 16): 11.867215156555176, EP: 1.3398998975753784	 ([including][one][37][miami,][17 - 7.])
+v(2 3 7 9 11 12 13 14): 11.82149887084961, EP: 1.3347381353378296	 ([interceptions][saturday,][zone][returned][yards][touchdown][lamont][thompson,])
+v(0 1 6 8): 11.661865234375, EP: 1.3167142868041992	 ([tennessee][three][end][another])
+v(0 1 2 3 6 7 8 9 11 12 13 14): 11.406147956848145, EP: 1.287841796875	 ([tennessee][three][interceptions][saturday,][end][zone][another][returned][yards][touchdown][lamont][thompson,])
+v(2 3 4 5 7 9 10 11 12 13 14 15 16): 11.074339866638184, EP: 1.250378131866455	 ([interceptions][saturday,][including][one][zone][returned][37][yards][touchdown][lamont][thompson,][miami,][17 - 7.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 8.856792449951172, EP: 1.0	 ([tennessee][three][interceptions][saturday,][including][one][end][zone][another][returned][37][yards][touchdown][lamont][thompson,][miami,][17 - 7.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

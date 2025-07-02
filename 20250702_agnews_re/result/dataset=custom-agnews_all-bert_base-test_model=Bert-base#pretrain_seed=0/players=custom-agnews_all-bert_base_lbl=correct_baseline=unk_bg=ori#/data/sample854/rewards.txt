@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: increasing
+Player 1: power
+Player 2: cellphones
+Player 3: fast
+Player 4: shaping
+Player 5: innovative
+Player 6: forms
+Player 7: compact
+Player 8: culture :
+Player 9: micro - lit,
+Player 10: phone
+Player 11: soap
+Player 12: operas
+Player 13: made - for - mobile
+Player 14: dramas.
+---------- Rewards ----------
+v(): 4.56144905090332	 ([])
+v(5 6 8 13): 5.521511077880859	 ([innovative][forms][culture :][made - for - mobile])
+v(2 10 11 12): 5.53279447555542	 ([cellphones][phone][soap][operas])
+v(0 1 3 4 7 9 14): 5.445881366729736	 ([increasing][power][fast][shaping][compact][micro - lit,][dramas.])
+v(2 5 6 8 10 11 12 13): 6.416030406951904	 ([cellphones][innovative][forms][culture :][phone][soap][operas][made - for - mobile])
+v(0 1 3 4 5 6 7 8 9 13 14): 5.223734378814697	 ([increasing][power][fast][shaping][innovative][forms][compact][culture :][micro - lit,][made - for - mobile][dramas.])
+v(0 1 2 3 4 7 9 10 11 12 14): 5.24785852432251	 ([increasing][power][cellphones][fast][shaping][compact][micro - lit,][phone][soap][operas][dramas.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 4.444077968597412	 ([increasing][power][cellphones][fast][shaping][innovative][forms][compact][culture :][micro - lit,][phone][soap][operas][made - for - mobile][dramas.])
+---------- Rewards-v() ----------
+v(2 5 6 8 10 11 12 13): 1.854581356048584, EP: -15.801007270812988	 ([cellphones][innovative][forms][culture :][phone][soap][operas][made - for - mobile])
+v(2 10 11 12): 0.9713454246520996, EP: -8.275849342346191	 ([cellphones][phone][soap][operas])
+v(5 6 8 13): 0.9600620269775391, EP: -8.179715156555176	 ([innovative][forms][culture :][made - for - mobile])
+v(0 1 3 4 7 9 14): 0.884432315826416, EP: -7.535351276397705	 ([increasing][power][fast][shaping][compact][micro - lit,][dramas.])
+v(0 1 2 3 4 7 9 10 11 12 14): 0.6864094734191895, EP: -5.848199367523193	 ([increasing][power][cellphones][fast][shaping][compact][micro - lit,][phone][soap][operas][dramas.])
+v(0 1 3 4 5 6 7 8 9 13 14): 0.662285327911377, EP: -5.642662048339844	 ([increasing][power][fast][shaping][innovative][forms][compact][culture :][micro - lit,][made - for - mobile][dramas.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): -0.1173710823059082, EP: 1.0	 ([increasing][power][cellphones][fast][shaping][innovative][forms][compact][culture :][micro - lit,][phone][soap][operas][made - for - mobile][dramas.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

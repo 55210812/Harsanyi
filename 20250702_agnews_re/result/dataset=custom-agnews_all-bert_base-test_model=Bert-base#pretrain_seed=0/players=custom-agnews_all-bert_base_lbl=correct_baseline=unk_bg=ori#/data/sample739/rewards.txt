@@ -1,0 +1,22 @@
+---------- Players ----------
+Player 0: ten
+Player 1: former
+Player 2: turkish
+Player 3: hostages
+Player 4: appear
+Player 5: media
+Player 6: baghdad
+Player 7: released
+Player 8: islamist
+Player 9: group.
+---------- Rewards ----------
+v(): -7.365523338317871	 ([])
+v(2 3 6 8): 8.332056045532227	 ([turkish][hostages][baghdad][islamist])
+v(0 1 4 5 7 9): 2.0976810455322266	 ([ten][former][appear][media][released][group.])
+v(0 1 2 3 4 5 6 7 8 9): 8.323101043701172	 ([ten][former][turkish][hostages][appear][media][baghdad][released][islamist][group.])
+---------- Rewards-v() ----------
+v(2 3 6 8): 15.697579383850098, EP: 1.0005707740783691	 ([turkish][hostages][baghdad][islamist])
+v(0 1 2 3 4 5 6 7 8 9): 15.688624382019043, EP: 1.0	 ([ten][former][turkish][hostages][appear][media][baghdad][released][islamist][group.])
+v(0 1 4 5 7 9): 9.463204383850098, EP: 0.6031889319419861	 ([ten][former][appear][media][released][group.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,48 @@
+---------- Players ----------
+Player 0: washington
+Player 1: ( reuters )
+Player 2: -
+Player 3: bush
+Player 4: administration
+Player 5: might
+Player 6: reconsider
+Player 7: sanctions
+Player 8: imposed
+Player 9: two
+Player 10: indian
+Player 11: scientists
+Player 12: alleged
+Player 13: nuclear
+Player 14: cooperation
+Player 15: iran
+Player 16: new
+Player 17: delhi
+Player 18: offers
+Player 19: " significant
+Player 20: convincing "
+Player 21: proof
+Player 22: involved,
+Player 23: senior
+Player 24: u. s.
+Player 25: official
+Player 26: said
+Player 27: thursday.
+---------- Rewards ----------
+v(): -5.295557022094727	 ([])
+v(2 9 12 13 14 15 16 27): 8.065330505371094	 ([-][two][alleged][nuclear][cooperation][iran][new][thursday.])
+v(0 3 4 5 10 11 17 18 20 21 23 24): -6.736529350280762	 ([washington][bush][administration][might][indian][scientists][delhi][offers][convincing "][proof][senior][u. s.])
+v(1 6 7 8 19 22 25 26): 4.293646812438965	 ([( reuters )][reconsider][sanctions][imposed][" significant][involved,][official][said])
+v(0 2 3 4 5 9 10 11 12 13 14 15 16 17 18 20 21 23 24 27): 7.6544318199157715	 ([washington][-][bush][administration][might][two][indian][scientists][alleged][nuclear][cooperation][iran][new][delhi][offers][convincing "][proof][senior][u. s.][thursday.])
+v(1 2 6 7 8 9 12 13 14 15 16 19 22 25 26 27): 8.023313522338867	 ([( reuters )][-][reconsider][sanctions][imposed][two][alleged][nuclear][cooperation][iran][new][" significant][involved,][official][said][thursday.])
+v(0 1 3 4 5 6 7 8 10 11 17 18 19 20 21 22 23 24 25 26): -1.7690551280975342	 ([washington][( reuters )][bush][administration][might][reconsider][sanctions][imposed][indian][scientists][delhi][offers][" significant][convincing "][proof][involved,][senior][u. s.][official][said])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 7.605008125305176	 ([washington][( reuters )][-][bush][administration][might][reconsider][sanctions][imposed][two][indian][scientists][alleged][nuclear][cooperation][iran][new][delhi][offers][" significant][convincing "][proof][involved,][senior][u. s.][official][said][thursday.])
+---------- Rewards-v() ----------
+v(2 9 12 13 14 15 16 27): 13.36088752746582, EP: 1.0356823205947876	 ([-][two][alleged][nuclear][cooperation][iran][new][thursday.])
+v(1 2 6 7 8 9 12 13 14 15 16 19 22 25 26 27): 13.318870544433594, EP: 1.0324254035949707	 ([( reuters )][-][reconsider][sanctions][imposed][two][alleged][nuclear][cooperation][iran][new][" significant][involved,][official][said][thursday.])
+v(0 2 3 4 5 9 10 11 12 13 14 15 16 17 18 20 21 23 24 27): 12.949989318847656, EP: 1.003831148147583	 ([washington][-][bush][administration][might][two][indian][scientists][alleged][nuclear][cooperation][iran][new][delhi][offers][convincing "][proof][senior][u. s.][thursday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 12.900565147399902, EP: 1.0	 ([washington][( reuters )][-][bush][administration][might][reconsider][sanctions][imposed][two][indian][scientists][alleged][nuclear][cooperation][iran][new][delhi][offers][" significant][convincing "][proof][involved,][senior][u. s.][official][said][thursday.])
+v(1 6 7 8 19 22 25 26): 9.589203834533691, EP: 0.7433165907859802	 ([( reuters )][reconsider][sanctions][imposed][" significant][involved,][official][said])
+v(0 1 3 4 5 6 7 8 10 11 17 18 19 20 21 22 23 24 25 26): 3.5265018939971924, EP: 0.2733602523803711	 ([washington][( reuters )][bush][administration][might][reconsider][sanctions][imposed][indian][scientists][delhi][offers][" significant][convincing "][proof][involved,][senior][u. s.][official][said])
+v(0 3 4 5 10 11 17 18 20 21 23 24): -1.4409723281860352, EP: -0.11169838905334473	 ([washington][bush][administration][might][indian][scientists][delhi][offers][convincing "][proof][senior][u. s.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

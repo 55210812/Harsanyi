@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: government
+Player 1: may
+Player 2: caught
+Player 3: flat - footed
+Player 4: australia
+Player 5: # 39 ; s
+Player 6: announcement
+Player 7: 1850km
+Player 8: maritime
+Player 9: security
+Player 10: zone
+Player 11: turns
+Player 12: new
+Player 13: zealand
+Player 14: already
+Player 15: similar
+Player 16: measures.
+---------- Rewards ----------
+v(): -6.791816234588623	 ([])
+v(5 6 9 10 11 12 14): 2.9205880165100098	 ([# 39 ; s][announcement][security][zone][turns][new][already])
+v(3 4 7 8 13): -3.7612414360046387	 ([flat - footed][australia][1850km][maritime][zealand])
+v(0 1 2 15 16): 0.8499065637588501	 ([government][may][caught][similar][measures.])
+v(3 4 5 6 7 8 9 10 11 12 13 14): 6.307044506072998	 ([flat - footed][australia][# 39 ; s][announcement][1850km][maritime][security][zone][turns][new][zealand][already])
+v(0 1 2 5 6 9 10 11 12 14 15 16): 4.239305019378662	 ([government][may][caught][# 39 ; s][announcement][security][zone][turns][new][already][similar][measures.])
+v(0 1 2 3 4 7 8 13 15 16): 7.066921234130859	 ([government][may][caught][flat - footed][australia][1850km][maritime][zealand][similar][measures.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.430545330047607	 ([government][may][caught][flat - footed][australia][# 39 ; s][announcement][1850km][maritime][security][zone][turns][new][zealand][already][similar][measures.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 14.22236156463623, EP: 1.0	 ([government][may][caught][flat - footed][australia][# 39 ; s][announcement][1850km][maritime][security][zone][turns][new][zealand][already][similar][measures.])
+v(0 1 2 3 4 7 8 13 15 16): 13.85873794555664, EP: 0.9744329452514648	 ([government][may][caught][flat - footed][australia][1850km][maritime][zealand][similar][measures.])
+v(3 4 5 6 7 8 9 10 11 12 13 14): 13.098860740661621, EP: 0.921004593372345	 ([flat - footed][australia][# 39 ; s][announcement][1850km][maritime][security][zone][turns][new][zealand][already])
+v(0 1 2 5 6 9 10 11 12 14 15 16): 11.031121253967285, EP: 0.7756181359291077	 ([government][may][caught][# 39 ; s][announcement][security][zone][turns][new][already][similar][measures.])
+v(5 6 9 10 11 12 14): 9.712404251098633, EP: 0.6828967332839966	 ([# 39 ; s][announcement][security][zone][turns][new][already])
+v(0 1 2 15 16): 7.641722679138184, EP: 0.5373033881187439	 ([government][may][caught][similar][measures.])
+v(3 4 7 8 13): 3.0305747985839844, EP: 0.21308520436286926	 ([flat - footed][australia][1850km][maritime][zealand])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

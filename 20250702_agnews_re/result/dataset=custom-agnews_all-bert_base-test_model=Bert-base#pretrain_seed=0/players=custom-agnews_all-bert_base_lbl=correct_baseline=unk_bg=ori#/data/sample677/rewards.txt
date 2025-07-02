@@ -1,0 +1,24 @@
+---------- Players ----------
+Player 0: would
+Player 1: pay
+Player 2: \ $ 4
+Player 3: something
+Player 4: that,
+Player 5: best,
+Player 6: worth
+Player 7: dime?
+Player 8: concord
+Player 9: communications
+Player 10: shareholders
+Player 11: would.
+---------- Rewards ----------
+v(): -5.412006378173828	 ([])
+v(1 2 6 7 9 10): -5.637104511260986	 ([pay][\ $ 4][worth][dime?][communications][shareholders])
+v(0 3 4 5 8 11): -3.347722053527832	 ([would][something][that,][best,][concord][would.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 6.098010540008545	 ([would][pay][\ $ 4][something][that,][best,][worth][dime?][concord][communications][shareholders][would.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11): 11.510017395019531, EP: 1.0	 ([would][pay][\ $ 4][something][that,][best,][worth][dime?][concord][communications][shareholders][would.])
+v(0 3 4 5 8 11): 2.064284324645996, EP: 0.17934675514698029	 ([would][something][that,][best,][concord][would.])
+v(1 2 6 7 9 10): -0.2250981330871582, EP: -0.019556716084480286	 ([pay][\ $ 4][worth][dime?][communications][shareholders])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

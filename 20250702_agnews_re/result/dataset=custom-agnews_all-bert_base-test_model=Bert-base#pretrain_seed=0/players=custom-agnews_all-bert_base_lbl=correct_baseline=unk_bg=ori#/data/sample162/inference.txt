@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 19:21:27
+prompt: [CLS] while praising turkey # 39 ; s quot ; stunning quot ; economic performance over the last three years, the oecd also outlined some major problems the country needs to address. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2096 decoded_text: while
+idx:2 input_id:15838 decoded_text: praising
+idx:3 input_id:4977 decoded_text: turkey
+idx:4 input_id:1001 decoded_text: #
+idx:5 input_id:4464 decoded_text: 39
+idx:6 input_id:1025 decoded_text: ;
+idx:7 input_id:1055 decoded_text: s
+idx:8 input_id:22035 decoded_text: quo
+idx:9 input_id:2102 decoded_text: ##t
+idx:10 input_id:1025 decoded_text: ;
+idx:11 input_id:14726 decoded_text: stunning
+idx:12 input_id:22035 decoded_text: quo
+idx:13 input_id:2102 decoded_text: ##t
+idx:14 input_id:1025 decoded_text: ;
+idx:15 input_id:3171 decoded_text: economic
+idx:16 input_id:2836 decoded_text: performance
+idx:17 input_id:2058 decoded_text: over
+idx:18 input_id:1996 decoded_text: the
+idx:19 input_id:2197 decoded_text: last
+idx:20 input_id:2093 decoded_text: three
+idx:21 input_id:2086 decoded_text: years
+idx:22 input_id:1010 decoded_text: ,
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:1051 decoded_text: o
+idx:25 input_id:8586 decoded_text: ##ec
+idx:26 input_id:2094 decoded_text: ##d
+idx:27 input_id:2036 decoded_text: also
+idx:28 input_id:14801 decoded_text: outlined
+idx:29 input_id:2070 decoded_text: some
+idx:30 input_id:2350 decoded_text: major
+idx:31 input_id:3471 decoded_text: problems
+idx:32 input_id:1996 decoded_text: the
+idx:33 input_id:2406 decoded_text: country
+idx:34 input_id:3791 decoded_text: needs
+idx:35 input_id:2000 decoded_text: to
+idx:36 input_id:4769 decoded_text: address
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[0.08074513077735901, -3.640850305557251, 5.689659595489502, -3.749460458755493]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

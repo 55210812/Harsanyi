@@ -1,0 +1,54 @@
+---------- Players ----------
+Player 0: elliott
+Player 1: sadler
+Player 2: knelt
+Player 3: beside
+Player 4: wheelchair
+Player 5: 9 - year - old
+Player 6: taylor
+Player 7: downard
+Player 8: behind
+Player 9: hauler
+Player 10: fridays
+Player 11: final
+Player 12: practice
+Player 13: tonights
+Player 14: race
+Player 15: lowes
+Player 16: motor
+Player 17: speedway.
+---------- Rewards ----------
+v(): -4.851780891418457	 ([])
+v(5 9 10 16): -7.372516632080078	 ([9 - year - old][hauler][fridays][motor])
+v(11 12 14 15): 3.929213762283325	 ([final][practice][race][lowes])
+v(0 2 4 13 17): 7.585384368896484	 ([elliott][knelt][wheelchair][tonights][speedway.])
+v(1 3 6 7 8): 3.526623249053955	 ([sadler][beside][taylor][downard][behind])
+v(5 9 10 11 12 14 15 16): 4.365178108215332	 ([9 - year - old][hauler][fridays][final][practice][race][lowes][motor])
+v(0 2 4 5 9 10 13 16 17): 8.749719619750977	 ([elliott][knelt][wheelchair][9 - year - old][hauler][fridays][tonights][motor][speedway.])
+v(1 3 5 6 7 8 9 10 16): 3.198760986328125	 ([sadler][beside][9 - year - old][taylor][downard][behind][hauler][fridays][motor])
+v(0 2 4 11 12 13 14 15 17): 8.95146369934082	 ([elliott][knelt][wheelchair][final][practice][tonights][race][lowes][speedway.])
+v(1 3 6 7 8 11 12 14 15): 7.332063674926758	 ([sadler][beside][taylor][downard][behind][final][practice][race][lowes])
+v(0 1 2 3 4 6 7 8 13 17): 8.537789344787598	 ([elliott][sadler][knelt][beside][wheelchair][taylor][downard][behind][tonights][speedway.])
+v(0 2 4 5 9 10 11 12 13 14 15 16 17): 9.170709609985352	 ([elliott][knelt][wheelchair][9 - year - old][hauler][fridays][final][practice][tonights][race][lowes][motor][speedway.])
+v(1 3 5 6 7 8 9 10 11 12 14 15 16): 8.86337661743164	 ([sadler][beside][9 - year - old][taylor][downard][behind][hauler][fridays][final][practice][race][lowes][motor])
+v(0 1 2 3 4 5 6 7 8 9 10 13 16 17): 9.035574913024902	 ([elliott][sadler][knelt][beside][wheelchair][9 - year - old][taylor][downard][behind][hauler][fridays][tonights][motor][speedway.])
+v(0 1 2 3 4 6 7 8 11 12 13 14 15 17): 9.087721824645996	 ([elliott][sadler][knelt][beside][wheelchair][taylor][downard][behind][final][practice][tonights][race][lowes][speedway.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.814900398254395	 ([elliott][sadler][knelt][beside][wheelchair][9 - year - old][taylor][downard][behind][hauler][fridays][final][practice][tonights][race][lowes][motor][speedway.])
+---------- Rewards-v() ----------
+v(0 2 4 5 9 10 11 12 13 14 15 16 17): 14.022490501403809, EP: 1.0260348320007324	 ([elliott][knelt][wheelchair][9 - year - old][hauler][fridays][final][practice][tonights][race][lowes][motor][speedway.])
+v(0 1 2 3 4 6 7 8 11 12 13 14 15 17): 13.939502716064453, EP: 1.0199625492095947	 ([elliott][sadler][knelt][beside][wheelchair][taylor][downard][behind][final][practice][tonights][race][lowes][speedway.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 16 17): 13.88735580444336, EP: 1.0161468982696533	 ([elliott][sadler][knelt][beside][wheelchair][9 - year - old][taylor][downard][behind][hauler][fridays][tonights][motor][speedway.])
+v(0 2 4 11 12 13 14 15 17): 13.803244590759277, EP: 1.0099924802780151	 ([elliott][knelt][wheelchair][final][practice][tonights][race][lowes][speedway.])
+v(1 3 5 6 7 8 9 10 11 12 14 15 16): 13.715157508850098, EP: 1.0035470724105835	 ([sadler][beside][9 - year - old][taylor][downard][behind][hauler][fridays][final][practice][race][lowes][motor])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 13.666681289672852, EP: 1.0	 ([elliott][sadler][knelt][beside][wheelchair][9 - year - old][taylor][downard][behind][hauler][fridays][final][practice][tonights][race][lowes][motor][speedway.])
+v(0 2 4 5 9 10 13 16 17): 13.601500511169434, EP: 0.9952306747436523	 ([elliott][knelt][wheelchair][9 - year - old][hauler][fridays][tonights][motor][speedway.])
+v(0 1 2 3 4 6 7 8 13 17): 13.389570236206055, EP: 0.9797236323356628	 ([elliott][sadler][knelt][beside][wheelchair][taylor][downard][behind][tonights][speedway.])
+v(0 2 4 13 17): 12.437165260314941, EP: 0.9100354909896851	 ([elliott][knelt][wheelchair][tonights][speedway.])
+v(1 3 6 7 8 11 12 14 15): 12.183844566345215, EP: 0.8914998769760132	 ([sadler][beside][taylor][downard][behind][final][practice][race][lowes])
+v(5 9 10 11 12 14 15 16): 9.216958999633789, EP: 0.6744109392166138	 ([9 - year - old][hauler][fridays][final][practice][race][lowes][motor])
+v(11 12 14 15): 8.780994415283203, EP: 0.6425110697746277	 ([final][practice][race][lowes])
+v(1 3 6 7 8): 8.37840461730957, EP: 0.6130533218383789	 ([sadler][beside][taylor][downard][behind])
+v(1 3 5 6 7 8 9 10 16): 8.050541877746582, EP: 0.5890634059906006	 ([sadler][beside][9 - year - old][taylor][downard][behind][hauler][fridays][motor])
+v(5 9 10 16): -2.520735740661621, EP: -0.1844438761472702	 ([9 - year - old][hauler][fridays][motor])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

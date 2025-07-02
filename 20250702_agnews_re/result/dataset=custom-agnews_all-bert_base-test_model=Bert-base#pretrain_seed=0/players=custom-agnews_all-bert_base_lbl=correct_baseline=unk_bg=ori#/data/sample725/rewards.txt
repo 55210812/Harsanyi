@@ -1,0 +1,92 @@
+---------- Players ----------
+Player 0: another
+Player 1: time
+Player 2: place,
+Player 3: spot
+Player 4: coaches
+Player 5: vs.
+Player 6: cancer
+Player 7: classic
+Player 8: would
+Player 9: opportunity
+Player 10: alabama
+Player 11: amp ; m
+Player 12: southwestern
+Player 13: athletic
+Player 14: conference
+Player 15: gain
+Player 16: exposure
+Player 17: build
+Player 18: upon
+Player 19: last
+Player 20: season
+Player 21: # 39 ; s
+Player 22: 13 - 17
+Player 23: record.
+---------- Rewards ----------
+v(): -3.6016769409179688	 ([])
+v(4 12 13 21): 9.376181602478027	 ([coaches][southwestern][athletic][# 39 ; s])
+v(0 1 9 10 14 15): -2.1313302516937256	 ([another][time][opportunity][alabama][conference][gain])
+v(6 16 19 20 22 23): -6.73625373840332	 ([cancer][exposure][last][season][13 - 17][record.])
+v(2 3 5 7 8 11): 1.4809706211090088	 ([place,][spot][vs.][classic][would][amp ; m])
+v(17 18): -3.6958365440368652	 ([build][upon])
+v(0 1 4 9 10 12 13 14 15 21): 9.7105131149292	 ([another][time][coaches][opportunity][alabama][southwestern][athletic][conference][gain][# 39 ; s])
+v(4 6 12 13 16 19 20 21 22 23): 9.697480201721191	 ([coaches][cancer][southwestern][athletic][exposure][last][season][# 39 ; s][13 - 17][record.])
+v(2 3 4 5 7 8 11 12 13 21): 9.597877502441406	 ([place,][spot][coaches][vs.][classic][would][amp ; m][southwestern][athletic][# 39 ; s])
+v(4 12 13 17 18 21): 9.418356895446777	 ([coaches][southwestern][athletic][build][upon][# 39 ; s])
+v(0 1 6 9 10 14 15 16 19 20 22 23): 4.729913234710693	 ([another][time][cancer][opportunity][alabama][conference][gain][exposure][last][season][13 - 17][record.])
+v(0 1 2 3 5 7 8 9 10 11 14 15): 9.6776123046875	 ([another][time][place,][spot][vs.][classic][would][opportunity][alabama][amp ; m][conference][gain])
+v(0 1 9 10 14 15 17 18): -2.6486704349517822	 ([another][time][opportunity][alabama][conference][gain][build][upon])
+v(2 3 5 6 7 8 11 16 19 20 22 23): 6.021317005157471	 ([place,][spot][vs.][cancer][classic][would][amp ; m][exposure][last][season][13 - 17][record.])
+v(6 16 17 18 19 20 22 23): -6.887372970581055	 ([cancer][exposure][build][upon][last][season][13 - 17][record.])
+v(2 3 5 7 8 11 17 18): 0.800281286239624	 ([place,][spot][vs.][classic][would][amp ; m][build][upon])
+v(0 1 4 6 9 10 12 13 14 15 16 19 20 21 22 23): 9.740067481994629	 ([another][time][coaches][cancer][opportunity][alabama][southwestern][athletic][conference][gain][exposure][last][season][# 39 ; s][13 - 17][record.])
+v(0 1 2 3 4 5 7 8 9 10 11 12 13 14 15 21): 9.714499473571777	 ([another][time][place,][spot][coaches][vs.][classic][would][opportunity][alabama][amp ; m][southwestern][athletic][conference][gain][# 39 ; s])
+v(0 1 4 9 10 12 13 14 15 17 18 21): 9.711277961730957	 ([another][time][coaches][opportunity][alabama][southwestern][athletic][conference][gain][build][upon][# 39 ; s])
+v(2 3 4 5 6 7 8 11 12 13 16 19 20 21 22 23): 9.703377723693848	 ([place,][spot][coaches][vs.][cancer][classic][would][amp ; m][southwestern][athletic][exposure][last][season][# 39 ; s][13 - 17][record.])
+v(4 6 12 13 16 17 18 19 20 21 22 23): 9.700539588928223	 ([coaches][cancer][southwestern][athletic][exposure][build][upon][last][season][# 39 ; s][13 - 17][record.])
+v(2 3 4 5 7 8 11 12 13 17 18 21): 9.582120895385742	 ([place,][spot][coaches][vs.][classic][would][amp ; m][southwestern][athletic][build][upon][# 39 ; s])
+v(0 1 2 3 5 6 7 8 9 10 11 14 15 16 19 20 22 23): 9.517452239990234	 ([another][time][place,][spot][vs.][cancer][classic][would][opportunity][alabama][amp ; m][conference][gain][exposure][last][season][13 - 17][record.])
+v(0 1 6 9 10 14 15 16 17 18 19 20 22 23): 7.27675724029541	 ([another][time][cancer][opportunity][alabama][conference][gain][exposure][build][upon][last][season][13 - 17][record.])
+v(0 1 2 3 5 7 8 9 10 11 14 15 17 18): 9.637150764465332	 ([another][time][place,][spot][vs.][classic][would][opportunity][alabama][amp ; m][conference][gain][build][upon])
+v(2 3 5 6 7 8 11 16 17 18 19 20 22 23): 6.024665832519531	 ([place,][spot][vs.][cancer][classic][would][amp ; m][exposure][build][upon][last][season][13 - 17][record.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23): 9.751311302185059	 ([another][time][place,][spot][coaches][vs.][cancer][classic][would][opportunity][alabama][amp ; m][southwestern][athletic][conference][gain][exposure][last][season][# 39 ; s][13 - 17][record.])
+v(0 1 4 6 9 10 12 13 14 15 16 17 18 19 20 21 22 23): 9.755719184875488	 ([another][time][coaches][cancer][opportunity][alabama][southwestern][athletic][conference][gain][exposure][build][upon][last][season][# 39 ; s][13 - 17][record.])
+v(0 1 2 3 4 5 7 8 9 10 11 12 13 14 15 17 18 21): 9.712900161743164	 ([another][time][place,][spot][coaches][vs.][classic][would][opportunity][alabama][amp ; m][southwestern][athletic][conference][gain][build][upon][# 39 ; s])
+v(2 3 4 5 6 7 8 11 12 13 16 17 18 19 20 21 22 23): 9.693976402282715	 ([place,][spot][coaches][vs.][cancer][classic][would][amp ; m][southwestern][athletic][exposure][build][upon][last][season][# 39 ; s][13 - 17][record.])
+v(0 1 2 3 5 6 7 8 9 10 11 14 15 16 17 18 19 20 22 23): 9.569869041442871	 ([another][time][place,][spot][vs.][cancer][classic][would][opportunity][alabama][amp ; m][conference][gain][exposure][build][upon][last][season][13 - 17][record.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 9.759367942810059	 ([another][time][place,][spot][coaches][vs.][cancer][classic][would][opportunity][alabama][amp ; m][southwestern][athletic][conference][gain][exposure][build][upon][last][season][# 39 ; s][13 - 17][record.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 13.361044883728027, EP: 1.0	 ([another][time][place,][spot][coaches][vs.][cancer][classic][would][opportunity][alabama][amp ; m][southwestern][athletic][conference][gain][exposure][build][upon][last][season][# 39 ; s][13 - 17][record.])
+v(0 1 4 6 9 10 12 13 14 15 16 17 18 19 20 21 22 23): 13.357396125793457, EP: 0.9997268915176392	 ([another][time][coaches][cancer][opportunity][alabama][southwestern][athletic][conference][gain][exposure][build][upon][last][season][# 39 ; s][13 - 17][record.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23): 13.352988243103027, EP: 0.9993969798088074	 ([another][time][place,][spot][coaches][vs.][cancer][classic][would][opportunity][alabama][amp ; m][southwestern][athletic][conference][gain][exposure][last][season][# 39 ; s][13 - 17][record.])
+v(0 1 4 6 9 10 12 13 14 15 16 19 20 21 22 23): 13.341744422912598, EP: 0.9985554814338684	 ([another][time][coaches][cancer][opportunity][alabama][southwestern][athletic][conference][gain][exposure][last][season][# 39 ; s][13 - 17][record.])
+v(0 1 2 3 4 5 7 8 9 10 11 12 13 14 15 21): 13.316176414489746, EP: 0.9966418147087097	 ([another][time][place,][spot][coaches][vs.][classic][would][opportunity][alabama][amp ; m][southwestern][athletic][conference][gain][# 39 ; s])
+v(0 1 2 3 4 5 7 8 9 10 11 12 13 14 15 17 18 21): 13.314577102661133, EP: 0.9965221285820007	 ([another][time][place,][spot][coaches][vs.][classic][would][opportunity][alabama][amp ; m][southwestern][athletic][conference][gain][build][upon][# 39 ; s])
+v(0 1 4 9 10 12 13 14 15 17 18 21): 13.312954902648926, EP: 0.9964007139205933	 ([another][time][coaches][opportunity][alabama][southwestern][athletic][conference][gain][build][upon][# 39 ; s])
+v(0 1 4 9 10 12 13 14 15 21): 13.312190055847168, EP: 0.9963434934616089	 ([another][time][coaches][opportunity][alabama][southwestern][athletic][conference][gain][# 39 ; s])
+v(2 3 4 5 6 7 8 11 12 13 16 19 20 21 22 23): 13.305054664611816, EP: 0.9958094358444214	 ([place,][spot][coaches][vs.][cancer][classic][would][amp ; m][southwestern][athletic][exposure][last][season][# 39 ; s][13 - 17][record.])
+v(4 6 12 13 16 17 18 19 20 21 22 23): 13.302216529846191, EP: 0.9955970048904419	 ([coaches][cancer][southwestern][athletic][exposure][build][upon][last][season][# 39 ; s][13 - 17][record.])
+v(4 6 12 13 16 19 20 21 22 23): 13.29915714263916, EP: 0.9953680634498596	 ([coaches][cancer][southwestern][athletic][exposure][last][season][# 39 ; s][13 - 17][record.])
+v(2 3 4 5 6 7 8 11 12 13 16 17 18 19 20 21 22 23): 13.295653343200684, EP: 0.9951058030128479	 ([place,][spot][coaches][vs.][cancer][classic][would][amp ; m][southwestern][athletic][exposure][build][upon][last][season][# 39 ; s][13 - 17][record.])
+v(0 1 2 3 5 7 8 9 10 11 14 15): 13.279289245605469, EP: 0.9938810467720032	 ([another][time][place,][spot][vs.][classic][would][opportunity][alabama][amp ; m][conference][gain])
+v(0 1 2 3 5 7 8 9 10 11 14 15 17 18): 13.2388277053833, EP: 0.9908527135848999	 ([another][time][place,][spot][vs.][classic][would][opportunity][alabama][amp ; m][conference][gain][build][upon])
+v(2 3 4 5 7 8 11 12 13 21): 13.199554443359375, EP: 0.9879133105278015	 ([place,][spot][coaches][vs.][classic][would][amp ; m][southwestern][athletic][# 39 ; s])
+v(2 3 4 5 7 8 11 12 13 17 18 21): 13.183797836303711, EP: 0.9867340326309204	 ([place,][spot][coaches][vs.][classic][would][amp ; m][southwestern][athletic][build][upon][# 39 ; s])
+v(0 1 2 3 5 6 7 8 9 10 11 14 15 16 17 18 19 20 22 23): 13.17154598236084, EP: 0.9858170747756958	 ([another][time][place,][spot][vs.][cancer][classic][would][opportunity][alabama][amp ; m][conference][gain][exposure][build][upon][last][season][13 - 17][record.])
+v(0 1 2 3 5 6 7 8 9 10 11 14 15 16 19 20 22 23): 13.119129180908203, EP: 0.9818939566612244	 ([another][time][place,][spot][vs.][cancer][classic][would][opportunity][alabama][amp ; m][conference][gain][exposure][last][season][13 - 17][record.])
+v(4 12 13 17 18 21): 13.020033836364746, EP: 0.974477231502533	 ([coaches][southwestern][athletic][build][upon][# 39 ; s])
+v(4 12 13 21): 12.977858543395996, EP: 0.971320629119873	 ([coaches][southwestern][athletic][# 39 ; s])
+v(0 1 6 9 10 14 15 16 17 18 19 20 22 23): 10.878434181213379, EP: 0.8141903877258301	 ([another][time][cancer][opportunity][alabama][conference][gain][exposure][build][upon][last][season][13 - 17][record.])
+v(2 3 5 6 7 8 11 16 17 18 19 20 22 23): 9.6263427734375, EP: 0.7204782962799072	 ([place,][spot][vs.][cancer][classic][would][amp ; m][exposure][build][upon][last][season][13 - 17][record.])
+v(2 3 5 6 7 8 11 16 19 20 22 23): 9.622993469238281, EP: 0.7202275991439819	 ([place,][spot][vs.][cancer][classic][would][amp ; m][exposure][last][season][13 - 17][record.])
+v(0 1 6 9 10 14 15 16 19 20 22 23): 8.33159065246582, EP: 0.6235733032226562	 ([another][time][cancer][opportunity][alabama][conference][gain][exposure][last][season][13 - 17][record.])
+v(2 3 5 7 8 11): 5.082647323608398, EP: 0.3804079294204712	 ([place,][spot][vs.][classic][would][amp ; m])
+v(2 3 5 7 8 11 17 18): 4.401958465576172, EP: 0.3294621407985687	 ([place,][spot][vs.][classic][would][amp ; m][build][upon])
+v(6 16 17 18 19 20 22 23): -3.285696029663086, EP: -0.24591609835624695	 ([cancer][exposure][build][upon][last][season][13 - 17][record.])
+v(6 16 19 20 22 23): -3.1345767974853516, EP: -0.23460566997528076	 ([cancer][exposure][last][season][13 - 17][record.])
+v(0 1 9 10 14 15): 1.4703466892242432, EP: 0.11004728078842163	 ([another][time][opportunity][alabama][conference][gain])
+v(0 1 9 10 14 15 17 18): 0.9530065059661865, EP: 0.07132724672555923	 ([another][time][opportunity][alabama][conference][gain][build][upon])
+v(17 18): -0.09415960311889648, EP: -0.007047323510050774	 ([build][upon])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

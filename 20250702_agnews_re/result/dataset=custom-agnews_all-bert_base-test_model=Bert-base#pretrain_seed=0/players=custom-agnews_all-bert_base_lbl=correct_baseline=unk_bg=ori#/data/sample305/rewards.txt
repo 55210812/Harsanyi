@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: doa
+Player 1: developer
+Player 2: head
+Player 3: ranks
+Player 4: ps3
+Player 5: alongside
+Player 6: microwaves,
+Player 7: cookers
+Player 8: tv
+Player 9: sets,
+Player 10: would
+Player 11: seem...
+Player 12: 14 : 21
+Player 13: oh,
+Player 14: enjoy
+Player 15: good
+Player 16: old
+Player 17: dig
+Player 18: big
+Player 19: boys.
+---------- Rewards ----------
+v(): 5.348247051239014	 ([])
+v(3 5 11 12 13 14 17): -3.835462808609009	 ([ranks][alongside][seem...][14 : 21][oh,][enjoy][dig])
+v(0 1 2 4 8 10 19): 5.127269268035889	 ([doa][developer][head][ps3][tv][would][boys.])
+v(6 7 9 15 16 18): 5.880263805389404	 ([microwaves,][cookers][sets,][good][old][big])
+v(0 1 2 3 4 5 8 10 11 12 13 14 17 19): 3.535816192626953	 ([doa][developer][head][ranks][ps3][alongside][tv][would][seem...][14 : 21][oh,][enjoy][dig][boys.])
+v(3 5 6 7 9 11 12 13 14 15 16 17 18): -1.0647916793823242	 ([ranks][alongside][microwaves,][cookers][sets,][seem...][14 : 21][oh,][enjoy][good][old][dig][big])
+v(0 1 2 4 6 7 8 9 10 15 16 18 19): 4.666007041931152	 ([doa][developer][head][ps3][microwaves,][cookers][tv][sets,][would][good][old][big][boys.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): -0.30540013313293457	 ([doa][developer][head][ranks][ps3][alongside][microwaves,][cookers][tv][sets,][would][seem...][14 : 21][oh,][enjoy][good][old][dig][big][boys.])
+---------- Rewards-v() ----------
+v(3 5 11 12 13 14 17): -9.183710098266602, EP: 1.6243867874145508	 ([ranks][alongside][seem...][14 : 21][oh,][enjoy][dig])
+v(3 5 6 7 9 11 12 13 14 15 16 17 18): -6.413038730621338, EP: 1.1343188285827637	 ([ranks][alongside][microwaves,][cookers][sets,][seem...][14 : 21][oh,][enjoy][good][old][dig][big])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): -5.653647422790527, EP: 1.0	 ([doa][developer][head][ranks][ps3][alongside][microwaves,][cookers][tv][sets,][would][seem...][14 : 21][oh,][enjoy][good][old][dig][big][boys.])
+v(0 1 2 3 4 5 8 10 11 12 13 14 17 19): -1.8124308586120605, EP: 0.3205772638320923	 ([doa][developer][head][ranks][ps3][alongside][tv][would][seem...][14 : 21][oh,][enjoy][dig][boys.])
+v(0 1 2 4 6 7 8 9 10 15 16 18 19): -0.6822400093078613, EP: 0.12067253887653351	 ([doa][developer][head][ps3][microwaves,][cookers][tv][sets,][would][good][old][big][boys.])
+v(6 7 9 15 16 18): 0.5320167541503906, EP: -0.09410151094198227	 ([microwaves,][cookers][sets,][good][old][big])
+v(0 1 2 4 8 10 19): -0.220977783203125, EP: 0.03908587992191315	 ([doa][developer][head][ps3][tv][would][boys.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

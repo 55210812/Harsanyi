@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: israeli
+Player 1: troops
+Player 2: entered
+Player 3: rafah
+Player 4: refugee
+Player 5: camp
+Player 6: southern
+Player 7: gaza
+Player 8: new
+Player 9: incursion
+Player 10: locate
+Player 11: palestinian
+Player 12: weapons
+Player 13: smuggling
+Player 14: tunnels,
+Player 15: army
+Player 16: says.
+---------- Rewards ----------
+v(): -7.339427947998047	 ([])
+v(0 1 3 4 10 11 12 13 15): 7.437349319458008	 ([israeli][troops][rafah][refugee][locate][palestinian][weapons][smuggling][army])
+v(2 5 6 7): 7.147139549255371	 ([entered][camp][southern][gaza])
+v(8 9 14 16): -3.8241024017333984	 ([new][incursion][tunnels,][says.])
+v(0 1 2 3 4 5 6 7 10 11 12 13 15): 7.7387471199035645	 ([israeli][troops][entered][rafah][refugee][camp][southern][gaza][locate][palestinian][weapons][smuggling][army])
+v(0 1 3 4 8 9 10 11 12 13 14 15 16): 7.782480716705322	 ([israeli][troops][rafah][refugee][new][incursion][locate][palestinian][weapons][smuggling][tunnels,][army][says.])
+v(2 5 6 7 8 9 14 16): 7.769237518310547	 ([entered][camp][southern][gaza][new][incursion][tunnels,][says.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.9900407791137695	 ([israeli][troops][entered][rafah][refugee][camp][southern][gaza][new][incursion][locate][palestinian][weapons][smuggling][tunnels,][army][says.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 15.329468727111816, EP: 1.0	 ([israeli][troops][entered][rafah][refugee][camp][southern][gaza][new][incursion][locate][palestinian][weapons][smuggling][tunnels,][army][says.])
+v(0 1 3 4 8 9 10 11 12 13 14 15 16): 15.121908187866211, EP: 0.9864600300788879	 ([israeli][troops][rafah][refugee][new][incursion][locate][palestinian][weapons][smuggling][tunnels,][army][says.])
+v(2 5 6 7 8 9 14 16): 15.108665466308594, EP: 0.9855961799621582	 ([entered][camp][southern][gaza][new][incursion][tunnels,][says.])
+v(0 1 2 3 4 5 6 7 10 11 12 13 15): 15.078174591064453, EP: 0.9836071133613586	 ([israeli][troops][entered][rafah][refugee][camp][southern][gaza][locate][palestinian][weapons][smuggling][army])
+v(0 1 3 4 10 11 12 13 15): 14.776777267456055, EP: 0.9639458060264587	 ([israeli][troops][rafah][refugee][locate][palestinian][weapons][smuggling][army])
+v(2 5 6 7): 14.486567497253418, EP: 0.9450142979621887	 ([entered][camp][southern][gaza])
+v(8 9 14 16): 3.5153255462646484, EP: 0.22931815683841705	 ([new][incursion][tunnels,][says.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

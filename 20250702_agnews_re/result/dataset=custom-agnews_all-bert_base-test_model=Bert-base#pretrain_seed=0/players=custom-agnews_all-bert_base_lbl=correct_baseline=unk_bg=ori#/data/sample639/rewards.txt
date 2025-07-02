@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: want
+Player 1: dive
+Player 2: deep
+Player 3: - -
+Player 4: really
+Player 5: deep
+Player 6: - -
+Player 7: technical
+Player 8: literature
+Player 9: search
+Player 10: engines?
+Player 11: here's
+Player 12: road
+Player 13: map
+Player 14: best
+Player 15: web
+Player 16: information
+Player 17: retrieval
+Player 18: resources
+Player 19: available
+Player 20: online.
+---------- Rewards ----------
+v(): 4.930246829986572	 ([])
+v(0 1 2 3 12): 4.44610071182251	 ([want][dive][deep][- -][road])
+v(4 5 6 7 8 9 13 15 19 20): 8.10541820526123	 ([really][deep][- -][technical][literature][search][map][web][available][online.])
+v(10 11 14 16 17 18): 8.160893440246582	 ([engines?][here's][best][information][retrieval][resources])
+v(0 1 2 3 4 5 6 7 8 9 12 13 15 19 20): 7.800071716308594	 ([want][dive][deep][- -][really][deep][- -][technical][literature][search][road][map][web][available][online.])
+v(0 1 2 3 10 11 12 14 16 17 18): 8.347867012023926	 ([want][dive][deep][- -][engines?][here's][road][best][information][retrieval][resources])
+v(4 5 6 7 8 9 10 11 13 14 15 16 17 18 19 20): 7.810938835144043	 ([really][deep][- -][technical][literature][search][engines?][here's][map][best][web][information][retrieval][resources][available][online.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 6.856200695037842	 ([want][dive][deep][- -][really][deep][- -][technical][literature][search][engines?][here's][road][map][best][web][information][retrieval][resources][available][online.])
+---------- Rewards-v() ----------
+v(0 1 2 3 10 11 12 14 16 17 18): 3.4176201820373535, EP: 1.774507761001587	 ([want][dive][deep][- -][engines?][here's][road][best][information][retrieval][resources])
+v(10 11 14 16 17 18): 3.2306466102600098, EP: 1.677426815032959	 ([engines?][here's][best][information][retrieval][resources])
+v(4 5 6 7 8 9 13 15 19 20): 3.175171375274658, EP: 1.648622751235962	 ([really][deep][- -][technical][literature][search][map][web][available][online.])
+v(4 5 6 7 8 9 10 11 13 14 15 16 17 18 19 20): 2.8806920051574707, EP: 1.4957221746444702	 ([really][deep][- -][technical][literature][search][engines?][here's][map][best][web][information][retrieval][resources][available][online.])
+v(0 1 2 3 4 5 6 7 8 9 12 13 15 19 20): 2.8698248863220215, EP: 1.4900797605514526	 ([want][dive][deep][- -][really][deep][- -][technical][literature][search][road][map][web][available][online.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 1.9259538650512695, EP: 1.0	 ([want][dive][deep][- -][really][deep][- -][technical][literature][search][engines?][here's][road][map][best][web][information][retrieval][resources][available][online.])
+v(0 1 2 3 12): -0.4841461181640625, EP: -0.25137990713119507	 ([want][dive][deep][- -][road])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

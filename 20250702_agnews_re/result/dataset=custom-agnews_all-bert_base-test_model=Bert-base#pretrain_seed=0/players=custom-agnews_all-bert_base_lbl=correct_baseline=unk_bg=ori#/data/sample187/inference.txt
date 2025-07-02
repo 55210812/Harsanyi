@@ -1,0 +1,39 @@
+Execution time: 2025-07-02 19:21:56
+prompt: [CLS] the us house of representatives passed a second spyware bill on thursday adding more teeth to a previously passed spyware bill that included fines for offenders. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2149 decoded_text: us
+idx:3 input_id:2160 decoded_text: house
+idx:4 input_id:1997 decoded_text: of
+idx:5 input_id:4505 decoded_text: representatives
+idx:6 input_id:2979 decoded_text: passed
+idx:7 input_id:1037 decoded_text: a
+idx:8 input_id:2117 decoded_text: second
+idx:9 input_id:8645 decoded_text: spy
+idx:10 input_id:8059 decoded_text: ##ware
+idx:11 input_id:3021 decoded_text: bill
+idx:12 input_id:2006 decoded_text: on
+idx:13 input_id:9432 decoded_text: thursday
+idx:14 input_id:5815 decoded_text: adding
+idx:15 input_id:2062 decoded_text: more
+idx:16 input_id:4091 decoded_text: teeth
+idx:17 input_id:2000 decoded_text: to
+idx:18 input_id:1037 decoded_text: a
+idx:19 input_id:3130 decoded_text: previously
+idx:20 input_id:2979 decoded_text: passed
+idx:21 input_id:8645 decoded_text: spy
+idx:22 input_id:8059 decoded_text: ##ware
+idx:23 input_id:3021 decoded_text: bill
+idx:24 input_id:2008 decoded_text: that
+idx:25 input_id:2443 decoded_text: included
+idx:26 input_id:21892 decoded_text: fines
+idx:27 input_id:2005 decoded_text: for
+idx:28 input_id:19591 decoded_text: offenders
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.0552947521209717, -3.497084617614746, -0.6469848155975342, 6.795250415802002]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

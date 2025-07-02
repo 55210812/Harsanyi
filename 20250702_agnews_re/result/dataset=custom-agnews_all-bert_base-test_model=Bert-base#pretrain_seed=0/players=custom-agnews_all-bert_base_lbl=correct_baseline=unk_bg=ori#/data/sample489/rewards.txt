@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: belarusian
+Player 1: president
+Player 2: alexander
+Player 3: lukashenko
+Player 4: ask
+Player 5: voters
+Player 6: allow
+Player 7: stand
+Player 8: third
+Player 9: term
+Player 10: 2006.
+---------- Rewards ----------
+v(): -6.221484184265137	 ([])
+v(0 1 2 3 5): 8.074078559875488	 ([belarusian][president][alexander][lukashenko][voters])
+v(8 9): 2.745579719543457	 ([third][term])
+v(4 6 7 10): 3.2892260551452637	 ([ask][allow][stand][2006.])
+v(0 1 2 3 5 8 9): 8.492205619812012	 ([belarusian][president][alexander][lukashenko][voters][third][term])
+v(0 1 2 3 4 5 6 7 10): 8.071720123291016	 ([belarusian][president][alexander][lukashenko][ask][voters][allow][stand][2006.])
+v(4 6 7 8 9 10): 7.017975807189941	 ([ask][allow][stand][third][term][2006.])
+v(0 1 2 3 4 5 6 7 8 9 10): 8.38377857208252	 ([belarusian][president][alexander][lukashenko][ask][voters][allow][stand][third][term][2006.])
+---------- Rewards-v() ----------
+v(0 1 2 3 5 8 9): 14.713689804077148, EP: 1.0074238777160645	 ([belarusian][president][alexander][lukashenko][voters][third][term])
+v(0 1 2 3 4 5 6 7 8 9 10): 14.605262756347656, EP: 1.0	 ([belarusian][president][alexander][lukashenko][ask][voters][allow][stand][third][term][2006.])
+v(0 1 2 3 5): 14.295562744140625, EP: 0.9787952899932861	 ([belarusian][president][alexander][lukashenko][voters])
+v(0 1 2 3 4 5 6 7 10): 14.293204307556152, EP: 0.9786338210105896	 ([belarusian][president][alexander][lukashenko][ask][voters][allow][stand][2006.])
+v(4 6 7 8 9 10): 13.239459991455078, EP: 0.9064855575561523	 ([ask][allow][stand][third][term][2006.])
+v(4 6 7 10): 9.510709762573242, EP: 0.6511837244033813	 ([ask][allow][stand][2006.])
+v(8 9): 8.967063903808594, EP: 0.6139611601829529	 ([third][term])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

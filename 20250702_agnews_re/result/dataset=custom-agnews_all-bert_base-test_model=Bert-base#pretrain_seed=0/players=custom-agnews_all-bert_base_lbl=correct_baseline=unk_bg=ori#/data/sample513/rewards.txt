@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: threw
+Player 1: surprise
+Player 2: party
+Player 3: joe
+Player 4: nemechek
+Player 5: dover
+Player 6: weeks
+Player 7: ago.
+Player 8: balloons
+Player 9: cake
+Player 10: strawberry
+Player 11: custard
+Player 12: filling
+Player 13: soldiers
+Player 14: back
+---------- Rewards ----------
+v(): -4.886739730834961	 ([])
+v(4 9 13 14): -1.4136968851089478	 ([nemechek][cake][soldiers][back])
+v(3 5 7 8 10 11 12): -5.324679374694824	 ([joe][dover][ago.][balloons][strawberry][custard][filling])
+v(0 1 2 6): -0.13381969928741455	 ([threw][surprise][party][weeks])
+v(3 4 5 7 8 9 10 11 12 13 14): 0.9626370668411255	 ([joe][nemechek][dover][ago.][balloons][cake][strawberry][custard][filling][soldiers][back])
+v(0 1 2 4 6 9 13 14): -8.089896202087402	 ([threw][surprise][party][nemechek][weeks][cake][soldiers][back])
+v(0 1 2 3 5 6 7 8 10 11 12): 0.7588165998458862	 ([threw][surprise][party][joe][dover][weeks][ago.][balloons][strawberry][custard][filling])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 5.433069705963135	 ([threw][surprise][party][joe][nemechek][dover][weeks][ago.][balloons][cake][strawberry][custard][filling][soldiers][back])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 10.319808959960938, EP: 1.0	 ([threw][surprise][party][joe][nemechek][dover][weeks][ago.][balloons][cake][strawberry][custard][filling][soldiers][back])
+v(3 4 5 7 8 9 10 11 12 13 14): 5.849376678466797, EP: 0.5668105483055115	 ([joe][nemechek][dover][ago.][balloons][cake][strawberry][custard][filling][soldiers][back])
+v(0 1 2 3 5 6 7 8 10 11 12): 5.645556449890137, EP: 0.5470601916313171	 ([threw][surprise][party][joe][dover][weeks][ago.][balloons][strawberry][custard][filling])
+v(0 1 2 6): 4.752920150756836, EP: 0.4605627954006195	 ([threw][surprise][party][weeks])
+v(4 9 13 14): 3.4730429649353027, EP: 0.33654141426086426	 ([nemechek][cake][soldiers][back])
+v(0 1 2 4 6 9 13 14): -3.2031564712524414, EP: -0.31038913130760193	 ([threw][surprise][party][nemechek][weeks][cake][soldiers][back])
+v(3 5 7 8 10 11 12): -0.4379396438598633, EP: -0.04243679717183113	 ([joe][dover][ago.][balloons][strawberry][custard][filling])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

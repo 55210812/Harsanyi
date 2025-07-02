@@ -1,0 +1,54 @@
+---------- Players ----------
+Player 0: cyber
+Player 1: threats,
+Player 2: chiefly
+Player 3: viruses
+Player 4: like
+Player 5: netsky
+Player 6: sasser,
+Player 7: make
+Player 8: security
+Player 9: ongoing
+Player 10: concern
+Player 11: holds
+Player 12: steady
+Player 13: software
+Player 14: infrastructure
+Player 15: third
+Player 16: top
+Player 17: priority.
+---------- Rewards ----------
+v(): 1.5453696250915527	 ([])
+v(1 3 4 5 9): 8.373897552490234	 ([threats,][viruses][like][netsky][ongoing])
+v(0 11 12 13 16): 7.019312858581543	 ([cyber][holds][steady][software][top])
+v(6 7 8): 5.854809761047363	 ([sasser,][make][security])
+v(2 10 14 15 17): 1.7112207412719727	 ([chiefly][concern][infrastructure][third][priority.])
+v(0 1 3 4 5 9 11 12 13 16): 8.598869323730469	 ([cyber][threats,][viruses][like][netsky][ongoing][holds][steady][software][top])
+v(1 3 4 5 6 7 8 9): 8.238821029663086	 ([threats,][viruses][like][netsky][sasser,][make][security][ongoing])
+v(1 2 3 4 5 9 10 14 15 17): 8.435562133789062	 ([threats,][chiefly][viruses][like][netsky][ongoing][concern][infrastructure][third][priority.])
+v(0 6 7 8 11 12 13 16): 8.353919982910156	 ([cyber][sasser,][make][security][holds][steady][software][top])
+v(0 2 10 11 12 13 14 15 16 17): 7.459354877471924	 ([cyber][chiefly][concern][holds][steady][software][infrastructure][third][top][priority.])
+v(2 6 7 8 10 14 15 17): 6.740166664123535	 ([chiefly][sasser,][make][security][concern][infrastructure][third][priority.])
+v(0 1 3 4 5 6 7 8 9 11 12 13 16): 8.466939926147461	 ([cyber][threats,][viruses][like][netsky][sasser,][make][security][ongoing][holds][steady][software][top])
+v(0 1 2 3 4 5 9 10 11 12 13 14 15 16 17): 7.7555742263793945	 ([cyber][threats,][chiefly][viruses][like][netsky][ongoing][concern][holds][steady][software][infrastructure][third][top][priority.])
+v(1 2 3 4 5 6 7 8 9 10 14 15 17): 7.8556036949157715	 ([threats,][chiefly][viruses][like][netsky][sasser,][make][security][ongoing][concern][infrastructure][third][priority.])
+v(0 2 6 7 8 10 11 12 13 14 15 16 17): 8.44623851776123	 ([cyber][chiefly][sasser,][make][security][concern][holds][steady][software][infrastructure][third][top][priority.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 4.565668106079102	 ([cyber][threats,][chiefly][viruses][like][netsky][sasser,][make][security][ongoing][concern][holds][steady][software][infrastructure][third][top][priority.])
+---------- Rewards-v() ----------
+v(0 1 3 4 5 9 11 12 13 16): 7.053499698638916, EP: 2.335365056991577	 ([cyber][threats,][viruses][like][netsky][ongoing][holds][steady][software][top])
+v(0 1 3 4 5 6 7 8 9 11 12 13 16): 6.921570301055908, EP: 2.291684150695801	 ([cyber][threats,][viruses][like][netsky][sasser,][make][security][ongoing][holds][steady][software][top])
+v(0 2 6 7 8 10 11 12 13 14 15 16 17): 6.900868892669678, EP: 2.284830093383789	 ([cyber][chiefly][sasser,][make][security][concern][holds][steady][software][infrastructure][third][top][priority.])
+v(1 2 3 4 5 9 10 14 15 17): 6.89019250869751, EP: 2.2812952995300293	 ([threats,][chiefly][viruses][like][netsky][ongoing][concern][infrastructure][third][priority.])
+v(1 3 4 5 9): 6.828527927398682, EP: 2.260878562927246	 ([threats,][viruses][like][netsky][ongoing])
+v(0 6 7 8 11 12 13 16): 6.8085503578186035, EP: 2.2542641162872314	 ([cyber][sasser,][make][security][holds][steady][software][top])
+v(1 3 4 5 6 7 8 9): 6.693451404571533, EP: 2.216155529022217	 ([threats,][viruses][like][netsky][sasser,][make][security][ongoing])
+v(1 2 3 4 5 6 7 8 9 10 14 15 17): 6.310234069824219, EP: 2.0892748832702637	 ([threats,][chiefly][viruses][like][netsky][sasser,][make][security][ongoing][concern][infrastructure][third][priority.])
+v(0 1 2 3 4 5 9 10 11 12 13 14 15 16 17): 6.210204601287842, EP: 2.0561559200286865	 ([cyber][threats,][chiefly][viruses][like][netsky][ongoing][concern][holds][steady][software][infrastructure][third][top][priority.])
+v(0 2 10 11 12 13 14 15 16 17): 5.913985252380371, EP: 1.9580796957015991	 ([cyber][chiefly][concern][holds][steady][software][infrastructure][third][top][priority.])
+v(0 11 12 13 16): 5.47394323348999, EP: 1.812384843826294	 ([cyber][holds][steady][software][top])
+v(2 6 7 8 10 14 15 17): 5.194797039031982, EP: 1.7199615240097046	 ([chiefly][sasser,][make][security][concern][infrastructure][third][priority.])
+v(6 7 8): 4.3094401359558105, EP: 1.4268258810043335	 ([sasser,][make][security])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 3.020298480987549, EP: 1.0	 ([cyber][threats,][chiefly][viruses][like][netsky][sasser,][make][security][ongoing][concern][holds][steady][software][infrastructure][third][top][priority.])
+v(2 10 14 15 17): 0.16585111618041992, EP: 0.05491216108202934	 ([chiefly][concern][infrastructure][third][priority.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

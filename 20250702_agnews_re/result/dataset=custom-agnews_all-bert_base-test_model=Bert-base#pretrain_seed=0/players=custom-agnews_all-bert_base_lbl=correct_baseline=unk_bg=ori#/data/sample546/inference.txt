@@ -1,0 +1,38 @@
+Execution time: 2025-07-02 19:30:44
+prompt: [CLS] phil mickelson didn't look comfortable with his partner, his golf clubs or his opponents on the opening day of the ryder cup. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:6316 decoded_text: phil
+idx:2 input_id:10872 decoded_text: mick
+idx:3 input_id:9050 decoded_text: ##els
+idx:4 input_id:2239 decoded_text: ##on
+idx:5 input_id:2134 decoded_text: didn
+idx:6 input_id:1005 decoded_text: '
+idx:7 input_id:1056 decoded_text: t
+idx:8 input_id:2298 decoded_text: look
+idx:9 input_id:6625 decoded_text: comfortable
+idx:10 input_id:2007 decoded_text: with
+idx:11 input_id:2010 decoded_text: his
+idx:12 input_id:4256 decoded_text: partner
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:2010 decoded_text: his
+idx:15 input_id:5439 decoded_text: golf
+idx:16 input_id:4184 decoded_text: clubs
+idx:17 input_id:2030 decoded_text: or
+idx:18 input_id:2010 decoded_text: his
+idx:19 input_id:7892 decoded_text: opponents
+idx:20 input_id:2006 decoded_text: on
+idx:21 input_id:1996 decoded_text: the
+idx:22 input_id:3098 decoded_text: opening
+idx:23 input_id:2154 decoded_text: day
+idx:24 input_id:1997 decoded_text: of
+idx:25 input_id:1996 decoded_text: the
+idx:26 input_id:11731 decoded_text: ryder
+idx:27 input_id:2452 decoded_text: cup
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[0.6775660514831543, 7.517581462860107, -2.9930784702301025, -3.532142400741577]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

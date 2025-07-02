@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: former
+Player 1: nfl
+Player 2: running
+Player 3: back
+Player 4: ricky
+Player 5: williams
+Player 6: asked
+Player 7: league
+Player 8: hold
+Player 9: hearing
+Player 10: clarify
+Player 11: playing
+Player 12: status.
+Player 13: williams,
+Player 14: reported
+Player 15: considering
+Player 16: comeback,
+Player 17: wants
+Player 18: know
+---------- Rewards ----------
+v(): -2.7365221977233887	 ([])
+v(1 5 7 11 12 13 17 18): 9.721906661987305	 ([nfl][williams][league][playing][status.][williams,][wants][know])
+v(0 2 3): 9.365778923034668	 ([former][running][back])
+v(4 6 8 9 10 14 15 16): -0.5507204532623291	 ([ricky][asked][hold][hearing][clarify][reported][considering][comeback,])
+v(0 1 2 3 5 7 11 12 13 17 18): 9.694971084594727	 ([former][nfl][running][back][williams][league][playing][status.][williams,][wants][know])
+v(1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.482455253601074	 ([nfl][ricky][williams][asked][league][hold][hearing][clarify][playing][status.][williams,][reported][considering][comeback,][wants][know])
+v(0 2 3 4 6 8 9 10 14 15 16): 9.280537605285645	 ([former][running][back][ricky][asked][hold][hearing][clarify][reported][considering][comeback,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.00109577178955	 ([former][nfl][running][back][ricky][williams][asked][league][hold][hearing][clarify][playing][status.][williams,][reported][considering][comeback,][wants][know])
+---------- Rewards-v() ----------
+v(1 5 7 11 12 13 17 18): 12.458429336547852, EP: 1.0614104270935059	 ([nfl][williams][league][playing][status.][williams,][wants][know])
+v(0 1 2 3 5 7 11 12 13 17 18): 12.431493759155273, EP: 1.0591156482696533	 ([former][nfl][running][back][williams][league][playing][status.][williams,][wants][know])
+v(1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 12.218976974487305, EP: 1.0410100221633911	 ([nfl][ricky][williams][asked][league][hold][hearing][clarify][playing][status.][williams,][reported][considering][comeback,][wants][know])
+v(0 2 3): 12.102300643920898, EP: 1.0310696363449097	 ([former][running][back])
+v(0 2 3 4 6 8 9 10 14 15 16): 12.017059326171875, EP: 1.023807406425476	 ([former][running][back][ricky][asked][hold][hearing][clarify][reported][considering][comeback,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 11.737617492675781, EP: 1.0	 ([former][nfl][running][back][ricky][williams][asked][league][hold][hearing][clarify][playing][status.][williams,][reported][considering][comeback,][wants][know])
+v(4 6 8 9 10 14 15 16): 2.1858017444610596, EP: 0.1862219274044037	 ([ricky][asked][hold][hearing][clarify][reported][considering][comeback,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: shift
+Player 1: could
+Player 2: resolve
+Player 3: significant
+Player 4: threat
+Player 5: iraq's
+Player 6: stability
+Player 7: provide
+Player 8: boost
+Player 9: interim
+Player 10: government.
+---------- Rewards ----------
+v(): -6.805758953094482	 ([])
+v(0 3 4 5 7 8 9): 5.330761909484863	 ([shift][significant][threat][iraq's][provide][boost][interim])
+v(6 10): -6.184829235076904	 ([stability][government.])
+v(1 2): -4.402004241943359	 ([could][resolve])
+v(0 3 4 5 6 7 8 9 10): 5.434436798095703	 ([shift][significant][threat][iraq's][stability][provide][boost][interim][government.])
+v(0 1 2 3 4 5 7 8 9): 4.509561538696289	 ([shift][could][resolve][significant][threat][iraq's][provide][boost][interim])
+v(1 2 6 10): -2.376929521560669	 ([could][resolve][stability][government.])
+v(0 1 2 3 4 5 6 7 8 9 10): 6.371758937835693	 ([shift][could][resolve][significant][threat][iraq's][stability][provide][boost][interim][government.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10): 13.177517890930176, EP: 1.0	 ([shift][could][resolve][significant][threat][iraq's][stability][provide][boost][interim][government.])
+v(0 3 4 5 6 7 8 9 10): 12.240196228027344, EP: 0.9288696050643921	 ([shift][significant][threat][iraq's][stability][provide][boost][interim][government.])
+v(0 3 4 5 7 8 9): 12.136520385742188, EP: 0.9210020303726196	 ([shift][significant][threat][iraq's][provide][boost][interim])
+v(0 1 2 3 4 5 7 8 9): 11.31532096862793, EP: 0.8586837649345398	 ([shift][could][resolve][significant][threat][iraq's][provide][boost][interim])
+v(1 2 6 10): 4.428829193115234, EP: 0.3360897898674011	 ([could][resolve][stability][government.])
+v(1 2): 2.403754711151123, EP: 0.18241330981254578	 ([could][resolve])
+v(6 10): 0.6209297180175781, EP: 0.047120384871959686	 ([stability][government.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

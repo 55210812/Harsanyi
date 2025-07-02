@@ -1,0 +1,27 @@
+---------- Players ----------
+Player 0: san
+Player 1: jose,
+Player 2: calif. - - san
+Player 3: jose
+Player 4: reputation
+Player 5: one
+Player 6: safest
+Player 7: large
+Player 8: cities
+Player 9: nation,
+Player 10: fewest
+Player 11: police
+Player 12: officers
+Player 13: per
+Player 14: capita.
+---------- Rewards ----------
+v(): 5.838133335113525	 ([])
+v(0 1 3 4 10 11 12): -8.184660911560059	 ([san][jose,][jose][reputation][fewest][police][officers])
+v(2 5 6 7 8 9 13 14): -7.914172649383545	 ([calif. - - san][one][safest][large][cities][nation,][per][capita.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): -1.1978724002838135	 ([san][jose,][calif. - - san][jose][reputation][one][safest][large][cities][nation,][fewest][police][officers][per][capita.])
+---------- Rewards-v() ----------
+v(0 1 3 4 10 11 12): -14.022794723510742, EP: 1.9930049180984497	 ([san][jose,][jose][reputation][fewest][police][officers])
+v(2 5 6 7 8 9 13 14): -13.75230598449707, EP: 1.954561471939087	 ([calif. - - san][one][safest][large][cities][nation,][per][capita.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): -7.036005973815918, EP: 1.0	 ([san][jose,][calif. - - san][jose][reputation][one][safest][large][cities][nation,][fewest][police][officers][per][capita.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

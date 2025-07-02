@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: opinion :
+Player 1: whether
+Player 2: realize
+Player 3: not,
+Player 4: many
+Player 5: people
+Player 6: leave
+Player 7: sensitive
+Player 8: information
+Player 9: plain
+Player 10: view
+Player 11: web
+Player 12: sites.
+Player 13: sooner
+Player 14: later,
+Player 15: google
+Player 16: search
+Player 17: dig
+Player 18: up.
+---------- Rewards ----------
+v(): 4.302776336669922	 ([])
+v(5 7 8 9 10 11 12 15 16 17): 8.13797378540039	 ([people][sensitive][information][plain][view][web][sites.][google][search][dig])
+v(0 1 2 3 13 14 18): 0.5590360164642334	 ([opinion :][whether][realize][not,][sooner][later,][up.])
+v(4 6): 6.347637176513672	 ([many][leave])
+v(0 1 2 3 5 7 8 9 10 11 12 13 14 15 16 17 18): 6.857532024383545	 ([opinion :][whether][realize][not,][people][sensitive][information][plain][view][web][sites.][sooner][later,][google][search][dig][up.])
+v(4 5 6 7 8 9 10 11 12 15 16 17): 8.13387680053711	 ([many][people][leave][sensitive][information][plain][view][web][sites.][google][search][dig])
+v(0 1 2 3 4 6 13 14 18): 4.195930480957031	 ([opinion :][whether][realize][not,][many][leave][sooner][later,][up.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 4.625438213348389	 ([opinion :][whether][realize][not,][many][people][leave][sensitive][information][plain][view][web][sites.][sooner][later,][google][search][dig][up.])
+---------- Rewards-v() ----------
+v(5 7 8 9 10 11 12 15 16 17): 3.8351974487304688, EP: 11.88611888885498	 ([people][sensitive][information][plain][view][web][sites.][google][search][dig])
+v(4 5 6 7 8 9 10 11 12 15 16 17): 3.8311004638671875, EP: 11.873421669006348	 ([many][people][leave][sensitive][information][plain][view][web][sites.][google][search][dig])
+v(0 1 2 3 13 14 18): -3.7437403202056885, EP: -11.602673530578613	 ([opinion :][whether][realize][not,][sooner][later,][up.])
+v(0 1 2 3 5 7 8 9 10 11 12 13 14 15 16 17 18): 2.554755687713623, EP: 7.917748928070068	 ([opinion :][whether][realize][not,][people][sensitive][information][plain][view][web][sites.][sooner][later,][google][search][dig][up.])
+v(4 6): 2.04486083984375, EP: 6.337472915649414	 ([many][leave])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 0.3226618766784668, EP: 1.0	 ([opinion :][whether][realize][not,][many][people][leave][sensitive][information][plain][view][web][sites.][sooner][later,][google][search][dig][up.])
+v(0 1 2 3 4 6 13 14 18): -0.10684585571289062, EP: -0.3311387598514557	 ([opinion :][whether][realize][not,][many][leave][sooner][later,][up.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

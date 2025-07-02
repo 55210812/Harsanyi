@@ -1,0 +1,38 @@
+Execution time: 2025-07-02 19:41:00
+prompt: [CLS] jerusalem ( reuters ) - a suicide bomber exploded near a west bank checkpoint hurting at least three people on tuesday, an israeli medic said. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:6744 decoded_text: jerusalem
+idx:2 input_id:1006 decoded_text: (
+idx:3 input_id:26665 decoded_text: reuters
+idx:4 input_id:1007 decoded_text: )
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:1037 decoded_text: a
+idx:7 input_id:5920 decoded_text: suicide
+idx:8 input_id:9472 decoded_text: bomber
+idx:9 input_id:9913 decoded_text: exploded
+idx:10 input_id:2379 decoded_text: near
+idx:11 input_id:1037 decoded_text: a
+idx:12 input_id:2225 decoded_text: west
+idx:13 input_id:2924 decoded_text: bank
+idx:14 input_id:26520 decoded_text: checkpoint
+idx:15 input_id:11878 decoded_text: hurting
+idx:16 input_id:2012 decoded_text: at
+idx:17 input_id:2560 decoded_text: least
+idx:18 input_id:2093 decoded_text: three
+idx:19 input_id:2111 decoded_text: people
+idx:20 input_id:2006 decoded_text: on
+idx:21 input_id:9857 decoded_text: tuesday
+idx:22 input_id:1010 decoded_text: ,
+idx:23 input_id:2019 decoded_text: an
+idx:24 input_id:5611 decoded_text: israeli
+idx:25 input_id:19960 decoded_text: med
+idx:26 input_id:2594 decoded_text: ##ic
+idx:27 input_id:2056 decoded_text: said
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.343194961547852, -1.376245141029358, -3.1717095375061035, -1.5434309244155884]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: frankfurt
+Player 1: introduced
+Player 2: euro
+Player 3: 1999,
+Player 4: european
+Player 5: countries
+Player 6: gave
+Player 7: money
+Player 8: knew
+Player 9: wanted
+Player 10: strong,
+Player 11: stable
+Player 12: currency
+Player 13: would
+Player 14: command
+Player 15: citizens
+Player 16: # 39 ;
+Player 17: confidence
+Player 18: ease
+Player 19: conditions
+Player 20: cross - border
+Player 21: commerce.
+---------- Rewards ----------
+v(): -6.257114410400391	 ([])
+v(1 2 4 5 7 12 15 16 17 18 21): 5.0425262451171875	 ([introduced][euro][european][countries][money][currency][citizens][# 39 ;][confidence][ease][commerce.])
+v(0 3 6 8 9 10 11 13 14 19 20): 2.7109296321868896	 ([frankfurt][1999,][gave][knew][wanted][strong,][stable][would][command][conditions][cross - border])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 7.349430084228516	 ([frankfurt][introduced][euro][1999,][european][countries][gave][money][knew][wanted][strong,][stable][currency][would][command][citizens][# 39 ;][confidence][ease][conditions][cross - border][commerce.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 13.606544494628906, EP: 1.0	 ([frankfurt][introduced][euro][1999,][european][countries][gave][money][knew][wanted][strong,][stable][currency][would][command][citizens][# 39 ;][confidence][ease][conditions][cross - border][commerce.])
+v(1 2 4 5 7 12 15 16 17 18 21): 11.299640655517578, EP: 0.8304563164710999	 ([introduced][euro][european][countries][money][currency][citizens][# 39 ;][confidence][ease][commerce.])
+v(0 3 6 8 9 10 11 13 14 19 20): 8.96804428100586, EP: 0.6590978503227234	 ([frankfurt][1999,][gave][knew][wanted][strong,][stable][would][command][conditions][cross - border])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

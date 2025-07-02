@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: yemen
+Player 3: received
+Player 4: information
+Player 5: that \ foreign
+Player 6: terrorists
+Player 7: planning
+Player 8: attack
+Player 9: sea
+Player 10: ports,
+Player 11: a \ security
+Player 12: source
+Player 13: said
+Player 14: wednesday.
+---------- Rewards ----------
+v(): -5.932381629943848	 ([])
+v(7 8 11 14): 3.397395133972168	 ([planning][attack][a \ security][wednesday.])
+v(0 1 3 4 12): 3.232815742492676	 ([reuters][-][received][information][source])
+v(2 5 6 9 10 13): 6.556668281555176	 ([yemen][that \ foreign][terrorists][sea][ports,][said])
+v(0 1 3 4 7 8 11 12 14): 4.278631210327148	 ([reuters][-][received][information][planning][attack][a \ security][source][wednesday.])
+v(2 5 6 7 8 9 10 11 13 14): 7.611719608306885	 ([yemen][that \ foreign][terrorists][planning][attack][sea][ports,][a \ security][said][wednesday.])
+v(0 1 2 3 4 5 6 9 10 12 13): 7.275928497314453	 ([reuters][-][yemen][received][information][that \ foreign][terrorists][sea][ports,][source][said])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 8.27719497680664	 ([reuters][-][yemen][received][information][that \ foreign][terrorists][planning][attack][sea][ports,][a \ security][source][said][wednesday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 14.209576606750488, EP: 1.0	 ([reuters][-][yemen][received][information][that \ foreign][terrorists][planning][attack][sea][ports,][a \ security][source][said][wednesday.])
+v(2 5 6 7 8 9 10 11 13 14): 13.54410171508789, EP: 0.9531671404838562	 ([yemen][that \ foreign][terrorists][planning][attack][sea][ports,][a \ security][said][wednesday.])
+v(0 1 2 3 4 5 6 9 10 12 13): 13.2083101272583, EP: 0.9295358061790466	 ([reuters][-][yemen][received][information][that \ foreign][terrorists][sea][ports,][source][said])
+v(2 5 6 9 10 13): 12.489049911499023, EP: 0.8789178133010864	 ([yemen][that \ foreign][terrorists][sea][ports,][said])
+v(0 1 3 4 7 8 11 12 14): 10.211012840270996, EP: 0.7186008095741272	 ([reuters][-][received][information][planning][attack][a \ security][source][wednesday.])
+v(7 8 11 14): 9.329776763916016, EP: 0.6565837264060974	 ([planning][attack][a \ security][wednesday.])
+v(0 1 3 4 12): 9.165197372436523, EP: 0.6450014114379883	 ([reuters][-][received][information][source])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

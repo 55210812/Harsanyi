@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 19:21:01
+prompt: [CLS] the athens summer olympic games cost host country greece nearly 9 billion euros ( \ $ 15. 23 billion ), greek finance minister george alogoskoufis said today, citing definitive figures. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:7571 decoded_text: athens
+idx:3 input_id:2621 decoded_text: summer
+idx:4 input_id:4386 decoded_text: olympic
+idx:5 input_id:2399 decoded_text: games
+idx:6 input_id:3465 decoded_text: cost
+idx:7 input_id:3677 decoded_text: host
+idx:8 input_id:2406 decoded_text: country
+idx:9 input_id:5483 decoded_text: greece
+idx:10 input_id:3053 decoded_text: nearly
+idx:11 input_id:1023 decoded_text: 9
+idx:12 input_id:4551 decoded_text: billion
+idx:13 input_id:19329 decoded_text: euros
+idx:14 input_id:1006 decoded_text: (
+idx:15 input_id:1032 decoded_text: \
+idx:16 input_id:1002 decoded_text: $
+idx:17 input_id:2321 decoded_text: 15
+idx:18 input_id:1012 decoded_text: .
+idx:19 input_id:2603 decoded_text: 23
+idx:20 input_id:4551 decoded_text: billion
+idx:21 input_id:1007 decoded_text: )
+idx:22 input_id:1010 decoded_text: ,
+idx:23 input_id:3306 decoded_text: greek
+idx:24 input_id:5446 decoded_text: finance
+idx:25 input_id:2704 decoded_text: minister
+idx:26 input_id:2577 decoded_text: george
+idx:27 input_id:2632 decoded_text: al
+idx:28 input_id:22844 decoded_text: ##ogo
+idx:29 input_id:21590 decoded_text: ##sko
+idx:30 input_id:16093 decoded_text: ##uf
+idx:31 input_id:2483 decoded_text: ##is
+idx:32 input_id:2056 decoded_text: said
+idx:33 input_id:2651 decoded_text: today
+idx:34 input_id:1010 decoded_text: ,
+idx:35 input_id:8951 decoded_text: citing
+idx:36 input_id:15764 decoded_text: definitive
+idx:37 input_id:4481 decoded_text: figures
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[0.20661695301532745, 6.078230381011963, -1.7572377920150757, -3.5833165645599365]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

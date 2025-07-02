@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: new
+Player 1: software
+Player 2: allows
+Player 3: recipients
+Player 4: spam
+Player 5: band
+Player 6: together
+Player 7: target
+Player 8: known
+Player 9: websites
+Player 10: behind
+Player 11: messages.
+Player 12: idea
+Player 13: bombard
+Player 14: sites
+Player 15: messages,
+Player 16: slowing
+Player 17: making
+Player 18: expensive
+Player 19: run.
+---------- Rewards ----------
+v(): 2.4687323570251465	 ([])
+v(0 1 2 4 9 12 14): 8.454545974731445	 ([new][software][allows][spam][websites][idea][sites])
+v(3 5 7 11 13 15 16 17 19): 5.390296936035156	 ([recipients][band][target][messages.][bombard][messages,][slowing][making][run.])
+v(6 8 10 18): 3.280763864517212	 ([together][known][behind][expensive])
+v(0 1 2 3 4 5 7 9 11 12 13 14 15 16 17 19): 8.176095008850098	 ([new][software][allows][recipients][spam][band][target][websites][messages.][idea][bombard][sites][messages,][slowing][making][run.])
+v(0 1 2 4 6 8 9 10 12 14 18): 8.517952919006348	 ([new][software][allows][spam][together][known][websites][behind][idea][sites][expensive])
+v(3 5 6 7 8 10 11 13 15 16 17 18 19): 5.149179458618164	 ([recipients][band][together][target][known][behind][messages.][bombard][messages,][slowing][making][expensive][run.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.203084945678711	 ([new][software][allows][recipients][spam][band][together][target][known][websites][behind][messages.][idea][bombard][sites][messages,][slowing][making][expensive][run.])
+---------- Rewards-v() ----------
+v(0 1 2 4 6 8 9 10 12 14 18): 6.049220561981201, EP: 1.054909110069275	 ([new][software][allows][spam][together][known][websites][behind][idea][sites][expensive])
+v(0 1 2 4 9 12 14): 5.985813617706299, EP: 1.0438517332077026	 ([new][software][allows][spam][websites][idea][sites])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 5.7343525886535645, EP: 1.0	 ([new][software][allows][recipients][spam][band][together][target][known][websites][behind][messages.][idea][bombard][sites][messages,][slowing][making][expensive][run.])
+v(0 1 2 3 4 5 7 9 11 12 13 14 15 16 17 19): 5.707362651824951, EP: 0.9952933192253113	 ([new][software][allows][recipients][spam][band][target][websites][messages.][idea][bombard][sites][messages,][slowing][making][run.])
+v(3 5 7 11 13 15 16 17 19): 2.9215645790100098, EP: 0.5094846487045288	 ([recipients][band][target][messages.][bombard][messages,][slowing][making][run.])
+v(3 5 6 7 8 10 11 13 15 16 17 18 19): 2.6804471015930176, EP: 0.4674367308616638	 ([recipients][band][together][target][known][behind][messages.][bombard][messages,][slowing][making][expensive][run.])
+v(6 8 10 18): 0.8120315074920654, EP: 0.14160822331905365	 ([together][known][behind][expensive])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

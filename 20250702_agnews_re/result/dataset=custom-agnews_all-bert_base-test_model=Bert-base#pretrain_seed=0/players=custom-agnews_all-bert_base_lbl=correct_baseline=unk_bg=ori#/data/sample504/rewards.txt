@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: finally,
+Player 1: less
+Player 2: fanfare
+Player 3: release
+Player 4: sibling
+Player 5: application,
+Player 6: firefox
+Player 7: 1. 0,
+Player 8: weeks
+Player 9: ago,
+Player 10: email
+Player 11: client
+Player 12: called
+Player 13: thunderbird
+Player 14: reached
+Player 15: coming
+Player 16: age.
+---------- Rewards ----------
+v(): 2.1608285903930664	 ([])
+v(2 3 5 8 11 14): 5.437137603759766	 ([fanfare][release][application,][weeks][client][reached])
+v(7 9 15 16): 5.511648178100586	 ([1. 0,][ago,][coming][age.])
+v(0 1 4 6 10 12 13): 8.213945388793945	 ([finally,][less][sibling][firefox][email][called][thunderbird])
+v(2 3 5 7 8 9 11 14 15 16): 6.599349498748779	 ([fanfare][release][application,][1. 0,][weeks][ago,][client][reached][coming][age.])
+v(0 1 2 3 4 5 6 8 10 11 12 13 14): 8.433484077453613	 ([finally,][less][fanfare][release][sibling][application,][firefox][weeks][email][client][called][thunderbird][reached])
+v(0 1 4 6 7 9 10 12 13 15 16): 8.496167182922363	 ([finally,][less][sibling][firefox][1. 0,][ago,][email][called][thunderbird][coming][age.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 8.01246452331543	 ([finally,][less][fanfare][release][sibling][application,][firefox][1. 0,][weeks][ago,][email][client][called][thunderbird][reached][coming][age.])
+---------- Rewards-v() ----------
+v(0 1 4 6 7 9 10 12 13 15 16): 6.335338592529297, EP: 1.0826611518859863	 ([finally,][less][sibling][firefox][1. 0,][ago,][email][called][thunderbird][coming][age.])
+v(0 1 2 3 4 5 6 8 10 11 12 13 14): 6.272655487060547, EP: 1.0719490051269531	 ([finally,][less][fanfare][release][sibling][application,][firefox][weeks][email][client][called][thunderbird][reached])
+v(0 1 4 6 10 12 13): 6.053116798400879, EP: 1.0344315767288208	 ([finally,][less][sibling][firefox][email][called][thunderbird])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 5.851635932922363, EP: 1.0	 ([finally,][less][fanfare][release][sibling][application,][firefox][1. 0,][weeks][ago,][email][client][called][thunderbird][reached][coming][age.])
+v(2 3 5 7 8 9 11 14 15 16): 4.438520908355713, EP: 0.7585093975067139	 ([fanfare][release][application,][1. 0,][weeks][ago,][client][reached][coming][age.])
+v(7 9 15 16): 3.3508195877075195, EP: 0.5726295113563538	 ([1. 0,][ago,][coming][age.])
+v(2 3 5 8 11 14): 3.276309013366699, EP: 0.5598962306976318	 ([fanfare][release][application,][weeks][client][reached])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

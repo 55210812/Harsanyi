@@ -1,0 +1,54 @@
+---------- Players ----------
+Player 0: nomar
+Player 1: garciaparra
+Player 2: filed
+Player 3: free
+Player 4: agency
+Player 5: yesterday,
+Player 6: two
+Player 7: days
+Player 8: all - star
+Player 9: shortstop
+Player 10: # 39 ; s
+Player 11: former
+Player 12: team,
+Player 13: boston
+Player 14: red
+Player 15: sox,
+Player 16: world
+Player 17: series.
+---------- Rewards ----------
+v(): 1.775872826576233	 ([])
+v(7 9 11 12 13 14 15): 9.508818626403809	 ([days][shortstop][former][team,][boston][red][sox,])
+v(3 4 8 10): 3.7886295318603516	 ([free][agency][all - star][# 39 ; s])
+v(2 5 16 17): 9.377415657043457	 ([filed][yesterday,][world][series.])
+v(0 1 6): 3.5639374256134033	 ([nomar][garciaparra][two])
+v(3 4 7 8 9 10 11 12 13 14 15): 9.723488807678223	 ([free][agency][days][all - star][shortstop][# 39 ; s][former][team,][boston][red][sox,])
+v(2 5 7 9 11 12 13 14 15 16 17): 9.693497657775879	 ([filed][yesterday,][days][shortstop][former][team,][boston][red][sox,][world][series.])
+v(0 1 6 7 9 11 12 13 14 15): 9.411471366882324	 ([nomar][garciaparra][two][days][shortstop][former][team,][boston][red][sox,])
+v(2 3 4 5 8 10 16 17): 9.620268821716309	 ([filed][free][agency][yesterday,][all - star][# 39 ; s][world][series.])
+v(0 1 3 4 6 8 10): 9.228549003601074	 ([nomar][garciaparra][free][agency][two][all - star][# 39 ; s])
+v(0 1 2 5 6 16 17): 9.663191795349121	 ([nomar][garciaparra][filed][yesterday,][two][world][series.])
+v(2 3 4 5 7 8 9 10 11 12 13 14 15 16 17): 9.73007583618164	 ([filed][free][agency][yesterday,][days][all - star][shortstop][# 39 ; s][former][team,][boston][red][sox,][world][series.])
+v(0 1 3 4 6 7 8 9 10 11 12 13 14 15): 9.763994216918945	 ([nomar][garciaparra][free][agency][two][days][all - star][shortstop][# 39 ; s][former][team,][boston][red][sox,])
+v(0 1 2 5 6 7 9 11 12 13 14 15 16 17): 9.431719779968262	 ([nomar][garciaparra][filed][yesterday,][two][days][shortstop][former][team,][boston][red][sox,][world][series.])
+v(0 1 2 3 4 5 6 8 10 16 17): 9.756194114685059	 ([nomar][garciaparra][filed][free][agency][yesterday,][two][all - star][# 39 ; s][world][series.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.713006973266602	 ([nomar][garciaparra][filed][free][agency][yesterday,][two][days][all - star][shortstop][# 39 ; s][former][team,][boston][red][sox,][world][series.])
+---------- Rewards-v() ----------
+v(0 1 3 4 6 7 8 9 10 11 12 13 14 15): 7.988121509552002, EP: 1.006423830986023	 ([nomar][garciaparra][free][agency][two][days][all - star][shortstop][# 39 ; s][former][team,][boston][red][sox,])
+v(0 1 2 3 4 5 6 8 10 16 17): 7.980321407318115, EP: 1.0054411888122559	 ([nomar][garciaparra][filed][free][agency][yesterday,][two][all - star][# 39 ; s][world][series.])
+v(2 3 4 5 7 8 9 10 11 12 13 14 15 16 17): 7.954203128814697, EP: 1.002150535583496	 ([filed][free][agency][yesterday,][days][all - star][shortstop][# 39 ; s][former][team,][boston][red][sox,][world][series.])
+v(3 4 7 8 9 10 11 12 13 14 15): 7.947616100311279, EP: 1.0013206005096436	 ([free][agency][days][all - star][shortstop][# 39 ; s][former][team,][boston][red][sox,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 7.937134265899658, EP: 1.0	 ([nomar][garciaparra][filed][free][agency][yesterday,][two][days][all - star][shortstop][# 39 ; s][former][team,][boston][red][sox,][world][series.])
+v(2 5 7 9 11 12 13 14 15 16 17): 7.9176249504089355, EP: 0.9975420236587524	 ([filed][yesterday,][days][shortstop][former][team,][boston][red][sox,][world][series.])
+v(0 1 2 5 6 16 17): 7.887319087982178, EP: 0.9937238097190857	 ([nomar][garciaparra][filed][yesterday,][two][world][series.])
+v(2 3 4 5 8 10 16 17): 7.844396114349365, EP: 0.9883159399032593	 ([filed][free][agency][yesterday,][all - star][# 39 ; s][world][series.])
+v(7 9 11 12 13 14 15): 7.732945919036865, EP: 0.9742742776870728	 ([days][shortstop][former][team,][boston][red][sox,])
+v(0 1 2 5 6 7 9 11 12 13 14 15 16 17): 7.655847072601318, EP: 0.9645606279373169	 ([nomar][garciaparra][filed][yesterday,][two][days][shortstop][former][team,][boston][red][sox,][world][series.])
+v(0 1 6 7 9 11 12 13 14 15): 7.635598659515381, EP: 0.9620094895362854	 ([nomar][garciaparra][two][days][shortstop][former][team,][boston][red][sox,])
+v(2 5 16 17): 7.601542949676514, EP: 0.9577188491821289	 ([filed][yesterday,][world][series.])
+v(0 1 3 4 6 8 10): 7.452676296234131, EP: 0.9389631152153015	 ([nomar][garciaparra][free][agency][two][all - star][# 39 ; s])
+v(3 4 8 10): 2.012756824493408, EP: 0.2535873353481293	 ([free][agency][all - star][# 39 ; s])
+v(0 1 6): 1.7880645990371704, EP: 0.2252783626317978	 ([nomar][garciaparra][two])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

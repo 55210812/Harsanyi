@@ -1,0 +1,67 @@
+---------- Players ----------
+Player 0: canadian
+Player 1: press
+Player 2: -
+Player 3: vancouver
+Player 4: ( cp )
+Player 5: -
+Player 6: vancouver
+Player 7: man
+Player 8: wanted
+Player 9: u. s.
+Player 10: 30 - year - old
+Player 11: murder
+Player 12: american
+Player 13: indian
+Player 14: movement
+Player 15: activist
+Player 16: persecuted
+Player 17: based
+Player 18: faulty
+Player 19: fbi
+Player 20: investigation
+Player 21: word
+Player 22: troubled
+Player 23: drug
+Player 24: addict,
+Player 25: says
+Player 26: lawyer
+Player 27: defending
+Player 28: so - called
+Player 29: partner
+Player 30: crime.
+---------- Rewards ----------
+v(): -4.382193088531494	 ([])
+v(3 11 15 16 17 19 20 22 24 26 30): -3.489393711090088	 ([vancouver][murder][activist][persecuted][based][fbi][investigation][troubled][addict,][lawyer][crime.])
+v(10 13 14 18 27 29): 6.425400733947754	 ([30 - year - old][indian][movement][faulty][defending][partner])
+v(0 1 2 4 5 7 8): 8.1071138381958	 ([canadian][press][-][( cp )][-][man][wanted])
+v(6 9 12 21 23 25 28): -4.422226428985596	 ([vancouver][u. s.][american][word][drug][says][so - called])
+v(3 10 11 13 14 15 16 17 18 19 20 22 24 26 27 29 30): -0.7681860327720642	 ([vancouver][30 - year - old][murder][indian][movement][activist][persecuted][based][faulty][fbi][investigation][troubled][addict,][lawyer][defending][partner][crime.])
+v(0 1 2 3 4 5 7 8 11 15 16 17 19 20 22 24 26 30): 7.721433162689209	 ([canadian][press][-][vancouver][( cp )][-][man][wanted][murder][activist][persecuted][based][fbi][investigation][troubled][addict,][lawyer][crime.])
+v(3 6 9 11 12 15 16 17 19 20 21 22 23 24 25 26 28 30): 1.8460729122161865	 ([vancouver][vancouver][u. s.][murder][american][activist][persecuted][based][fbi][investigation][word][troubled][drug][addict,][says][lawyer][so - called][crime.])
+v(0 1 2 4 5 7 8 10 13 14 18 27 29): 8.052169799804688	 ([canadian][press][-][( cp )][-][man][wanted][30 - year - old][indian][movement][faulty][defending][partner])
+v(6 9 10 12 13 14 18 21 23 25 27 28 29): 0.4479186534881592	 ([vancouver][u. s.][30 - year - old][american][indian][movement][faulty][word][drug][says][defending][so - called][partner])
+v(0 1 2 4 5 6 7 8 9 12 21 23 25 28): 7.697883129119873	 ([canadian][press][-][( cp )][-][vancouver][man][wanted][u. s.][american][word][drug][says][so - called])
+v(0 1 2 3 4 5 7 8 10 11 13 14 15 16 17 18 19 20 22 24 26 27 29 30): 7.646908283233643	 ([canadian][press][-][vancouver][( cp )][-][man][wanted][30 - year - old][murder][indian][movement][activist][persecuted][based][faulty][fbi][investigation][troubled][addict,][lawyer][defending][partner][crime.])
+v(3 6 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30): 3.3174784183502197	 ([vancouver][vancouver][u. s.][30 - year - old][murder][american][indian][movement][activist][persecuted][based][faulty][fbi][investigation][word][troubled][drug][addict,][says][lawyer][defending][so - called][partner][crime.])
+v(0 1 2 3 4 5 6 7 8 9 11 12 15 16 17 19 20 21 22 23 24 25 26 28 30): 7.50166130065918	 ([canadian][press][-][vancouver][( cp )][-][vancouver][man][wanted][u. s.][murder][american][activist][persecuted][based][fbi][investigation][word][troubled][drug][addict,][says][lawyer][so - called][crime.])
+v(0 1 2 4 5 6 7 8 9 10 12 13 14 18 21 23 25 27 28 29): 7.637185573577881	 ([canadian][press][-][( cp )][-][vancouver][man][wanted][u. s.][30 - year - old][american][indian][movement][faulty][word][drug][says][defending][so - called][partner])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30): 7.508571147918701	 ([canadian][press][-][vancouver][( cp )][-][vancouver][man][wanted][u. s.][30 - year - old][murder][american][indian][movement][activist][persecuted][based][faulty][fbi][investigation][word][troubled][drug][addict,][says][lawyer][defending][so - called][partner][crime.])
+---------- Rewards-v() ----------
+v(0 1 2 4 5 7 8): 12.489307403564453, EP: 1.0503368377685547	 ([canadian][press][-][( cp )][-][man][wanted])
+v(0 1 2 4 5 7 8 10 13 14 18 27 29): 12.434362411499023, EP: 1.0457160472869873	 ([canadian][press][-][( cp )][-][man][wanted][30 - year - old][indian][movement][faulty][defending][partner])
+v(0 1 2 3 4 5 7 8 11 15 16 17 19 20 22 24 26 30): 12.103626251220703, EP: 1.0179014205932617	 ([canadian][press][-][vancouver][( cp )][-][man][wanted][murder][activist][persecuted][based][fbi][investigation][troubled][addict,][lawyer][crime.])
+v(0 1 2 4 5 6 7 8 9 12 21 23 25 28): 12.080076217651367, EP: 1.015920877456665	 ([canadian][press][-][( cp )][-][vancouver][man][wanted][u. s.][american][word][drug][says][so - called])
+v(0 1 2 3 4 5 7 8 10 11 13 14 15 16 17 18 19 20 22 24 26 27 29 30): 12.029101371765137, EP: 1.0116339921951294	 ([canadian][press][-][vancouver][( cp )][-][man][wanted][30 - year - old][murder][indian][movement][activist][persecuted][based][faulty][fbi][investigation][troubled][addict,][lawyer][defending][partner][crime.])
+v(0 1 2 4 5 6 7 8 9 10 12 13 14 18 21 23 25 27 28 29): 12.019378662109375, EP: 1.0108163356781006	 ([canadian][press][-][( cp )][-][vancouver][man][wanted][u. s.][30 - year - old][american][indian][movement][faulty][word][drug][says][defending][so - called][partner])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30): 11.890764236450195, EP: 1.0	 ([canadian][press][-][vancouver][( cp )][-][vancouver][man][wanted][u. s.][30 - year - old][murder][american][indian][movement][activist][persecuted][based][faulty][fbi][investigation][word][troubled][drug][addict,][says][lawyer][defending][so - called][partner][crime.])
+v(0 1 2 3 4 5 6 7 8 9 11 12 15 16 17 19 20 21 22 23 24 25 26 28 30): 11.883853912353516, EP: 0.9994188547134399	 ([canadian][press][-][vancouver][( cp )][-][vancouver][man][wanted][u. s.][murder][american][activist][persecuted][based][fbi][investigation][word][troubled][drug][addict,][says][lawyer][so - called][crime.])
+v(10 13 14 18 27 29): 10.807594299316406, EP: 0.9089066386222839	 ([30 - year - old][indian][movement][faulty][defending][partner])
+v(3 6 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30): 7.699671745300293, EP: 0.6475337743759155	 ([vancouver][vancouver][u. s.][30 - year - old][murder][american][indian][movement][activist][persecuted][based][faulty][fbi][investigation][word][troubled][drug][addict,][says][lawyer][defending][so - called][partner][crime.])
+v(3 6 9 11 12 15 16 17 19 20 21 22 23 24 25 26 28 30): 6.228265762329102, EP: 0.523790180683136	 ([vancouver][vancouver][u. s.][murder][american][activist][persecuted][based][fbi][investigation][word][troubled][drug][addict,][says][lawyer][so - called][crime.])
+v(6 9 10 12 13 14 18 21 23 25 27 28 29): 4.830111503601074, EP: 0.40620699524879456	 ([vancouver][u. s.][30 - year - old][american][indian][movement][faulty][word][drug][says][defending][so - called][partner])
+v(3 10 11 13 14 15 16 17 18 19 20 22 24 26 27 29 30): 3.614006996154785, EP: 0.3039339482784271	 ([vancouver][30 - year - old][murder][indian][movement][activist][persecuted][based][faulty][fbi][investigation][troubled][addict,][lawyer][defending][partner][crime.])
+v(3 11 15 16 17 19 20 22 24 26 30): 0.8927993774414062, EP: 0.07508343458175659	 ([vancouver][murder][activist][persecuted][based][fbi][investigation][troubled][addict,][lawyer][crime.])
+v(6 9 12 21 23 25 28): -0.04003334045410156, EP: -0.003366759279742837	 ([vancouver][u. s.][american][word][drug][says][so - called])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

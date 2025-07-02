@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: larry
+Player 1: bowa
+Player 2: fired
+Player 3: manager
+Player 4: philadelphia
+Player 5: phillies
+Player 6: saturday,
+Player 7: day
+Player 8: end
+Player 9: yet
+Player 10: another
+Player 11: disappointing
+Player 12: year.
+---------- Rewards ----------
+v(): -5.546416282653809	 ([])
+v(3 4 5 8): 9.49191951751709	 ([manager][philadelphia][phillies][end])
+v(0 1 2 6 7 12): 4.212801933288574	 ([larry][bowa][fired][saturday,][day][year.])
+v(9 10 11): -1.4321768283843994	 ([yet][another][disappointing])
+v(0 1 2 3 4 5 6 7 8 12): 9.603368759155273	 ([larry][bowa][fired][manager][philadelphia][phillies][saturday,][day][end][year.])
+v(3 4 5 8 9 10 11): 9.44265365600586	 ([manager][philadelphia][phillies][end][yet][another][disappointing])
+v(0 1 2 6 7 9 10 11 12): 6.024195671081543	 ([larry][bowa][fired][saturday,][day][yet][another][disappointing][year.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 9.315028190612793	 ([larry][bowa][fired][manager][philadelphia][phillies][saturday,][day][end][yet][another][disappointing][year.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 12): 15.149785041809082, EP: 1.0194019079208374	 ([larry][bowa][fired][manager][philadelphia][phillies][saturday,][day][end][year.])
+v(3 4 5 8): 15.038335800170898, EP: 1.0119026899337769	 ([manager][philadelphia][phillies][end])
+v(3 4 5 8 9 10 11): 14.989069938659668, EP: 1.0085877180099487	 ([manager][philadelphia][phillies][end][yet][another][disappointing])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 14.861444473266602, EP: 1.0	 ([larry][bowa][fired][manager][philadelphia][phillies][saturday,][day][end][yet][another][disappointing][year.])
+v(0 1 2 6 7 9 10 11 12): 11.570611953735352, EP: 0.7785657644271851	 ([larry][bowa][fired][saturday,][day][yet][another][disappointing][year.])
+v(0 1 2 6 7 12): 9.759218215942383, EP: 0.6566803455352783	 ([larry][bowa][fired][saturday,][day][year.])
+v(9 10 11): 4.114239692687988, EP: 0.27683982253074646	 ([yet][another][disappointing])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

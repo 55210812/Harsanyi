@@ -1,0 +1,28 @@
+---------- Players ----------
+Player 0: 1997
+Player 1: 2002,
+Player 2: number
+Player 3: sport
+Player 4: utility
+Player 5: vehicles
+Player 6: oregon
+Player 7: increased
+Player 8: 36
+Player 9: percent,
+Player 10: according
+Player 11: data
+Player 12: released
+Player 13: us
+Player 14: census
+Player 15: bureau.
+---------- Rewards ----------
+v(): -4.581070899963379	 ([])
+v(3 6 8 9 13 14): -8.757479667663574	 ([sport][oregon][36][percent,][us][census])
+v(0 1 2 4 5 7 10 11 12 15): 7.7052788734436035	 ([1997][2002,][number][utility][vehicles][increased][according][data][released][bureau.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.904418468475342	 ([1997][2002,][number][sport][utility][vehicles][oregon][increased][36][percent,][according][data][released][us][census][bureau.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 12.485488891601562, EP: 1.0	 ([1997][2002,][number][sport][utility][vehicles][oregon][increased][36][percent,][according][data][released][us][census][bureau.])
+v(0 1 2 4 5 7 10 11 12 15): 12.28635025024414, EP: 0.9840503931045532	 ([1997][2002,][number][utility][vehicles][increased][according][data][released][bureau.])
+v(3 6 8 9 13 14): -4.176408767700195, EP: -0.3345010280609131	 ([sport][oregon][36][percent,][us][census])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: 3 )
+Player 1: rain
+Player 2: may
+Player 3: postpone
+Player 4: game
+Player 5: 6.
+Player 6: sox
+Player 7: still
+Player 8: chance
+Player 9: rain
+Player 10: breaks
+Player 11: momentum?
+Player 12: yes,
+Player 13: day
+Player 14: rest
+Player 15: would
+Player 16: help
+Player 17: sox,
+Player 18: too.
+---------- Rewards ----------
+v(): -6.81404447555542	 ([])
+v(6 17): 8.699859619140625	 ([sox][sox,])
+v(1 8 9 10 11 12 15 16): -7.8437299728393555	 ([rain][chance][rain][breaks][momentum?][yes,][would][help])
+v(0 3 4 5 7 13 14 18): 4.898830413818359	 ([3 )][postpone][game][6.][still][day][rest][too.])
+v(1 6 8 9 10 11 12 15 16 17): 4.409459114074707	 ([rain][sox][chance][rain][breaks][momentum?][yes,][would][help][sox,])
+v(0 3 4 5 6 7 13 14 17 18): 9.498991012573242	 ([3 )][postpone][game][6.][sox][still][day][rest][sox,][too.])
+v(0 1 3 4 5 7 8 9 10 11 12 13 14 15 16 18): 8.507161140441895	 ([3 )][rain][postpone][game][6.][still][chance][rain][breaks][momentum?][yes,][day][rest][would][help][too.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.393918991088867	 ([3 )][rain][may][postpone][game][6.][sox][still][chance][rain][breaks][momentum?][yes,][day][rest][would][help][sox,][too.])
+---------- Rewards-v() ----------
+v(0 3 4 5 6 7 13 14 17 18): 16.31303596496582, EP: 1.006482720375061	 ([3 )][postpone][game][6.][sox][still][day][rest][sox,][too.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 16.207963943481445, EP: 1.0	 ([3 )][rain][may][postpone][game][6.][sox][still][chance][rain][breaks][momentum?][yes,][day][rest][would][help][sox,][too.])
+v(6 17): 15.513904571533203, EP: 0.9571778774261475	 ([sox][sox,])
+v(0 1 3 4 5 7 8 9 10 11 12 13 14 15 16 18): 15.321205139160156, EP: 0.9452887177467346	 ([3 )][rain][postpone][game][6.][still][chance][rain][breaks][momentum?][yes,][day][rest][would][help][too.])
+v(0 3 4 5 7 13 14 18): 11.712875366210938, EP: 0.7226617336273193	 ([3 )][postpone][game][6.][still][day][rest][too.])
+v(1 6 8 9 10 11 12 15 16 17): 11.223503112792969, EP: 0.6924684047698975	 ([rain][sox][chance][rain][breaks][momentum?][yes,][would][help][sox,])
+v(1 8 9 10 11 12 15 16): -1.0296854972839355, EP: -0.0635296031832695	 ([rain][chance][rain][breaks][momentum?][yes,][would][help])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

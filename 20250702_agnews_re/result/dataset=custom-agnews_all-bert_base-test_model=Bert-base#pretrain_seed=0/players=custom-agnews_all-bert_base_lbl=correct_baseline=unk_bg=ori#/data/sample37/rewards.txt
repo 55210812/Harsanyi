@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: british
+Player 1: scientists
+Player 2: backing
+Player 3: sunday
+Player 4: campaign
+Player 5: stop
+Player 6: united
+Player 7: states
+Player 8: creating
+Player 9: worldwide
+Player 10: ban
+Player 11: types
+Player 12: human
+Player 13: cloning.
+---------- Rewards ----------
+v(): 4.278862476348877	 ([])
+v(0 2 4 6 7 9 10): -2.2811617851257324	 ([british][backing][campaign][united][states][worldwide][ban])
+v(1 3 5 8 11 12 13): 7.728301525115967	 ([scientists][sunday][stop][creating][types][human][cloning.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 3.9821584224700928	 ([british][scientists][backing][sunday][campaign][stop][united][states][creating][worldwide][ban][types][human][cloning.])
+---------- Rewards-v() ----------
+v(0 2 4 6 7 9 10): -6.560024261474609, EP: 22.109655380249023	 ([british][backing][campaign][united][states][worldwide][ban])
+v(1 3 5 8 11 12 13): 3.44943904876709, EP: -11.62585735321045	 ([scientists][sunday][stop][creating][types][human][cloning.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): -0.2967040538787842, EP: 1.0	 ([british][scientists][backing][sunday][campaign][stop][united][states][creating][worldwide][ban][types][human][cloning.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

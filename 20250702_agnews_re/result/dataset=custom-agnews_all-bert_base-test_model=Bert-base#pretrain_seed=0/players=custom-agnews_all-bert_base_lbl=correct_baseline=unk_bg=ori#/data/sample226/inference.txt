@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 19:22:53
+prompt: [CLS] sydney ( dow jones ) - - as australia consigns the lengthy federal election campaign to history, the outlook for interest rates returned to center stage monday as housing [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3994 decoded_text: sydney
+idx:2 input_id:1006 decoded_text: (
+idx:3 input_id:23268 decoded_text: dow
+idx:4 input_id:3557 decoded_text: jones
+idx:5 input_id:1007 decoded_text: )
+idx:6 input_id:1011 decoded_text: -
+idx:7 input_id:1011 decoded_text: -
+idx:8 input_id:2004 decoded_text: as
+idx:9 input_id:2660 decoded_text: australia
+idx:10 input_id:9530 decoded_text: con
+idx:11 input_id:5332 decoded_text: ##si
+idx:12 input_id:16206 decoded_text: ##gn
+idx:13 input_id:2015 decoded_text: ##s
+idx:14 input_id:1996 decoded_text: the
+idx:15 input_id:12401 decoded_text: lengthy
+idx:16 input_id:2976 decoded_text: federal
+idx:17 input_id:2602 decoded_text: election
+idx:18 input_id:3049 decoded_text: campaign
+idx:19 input_id:2000 decoded_text: to
+idx:20 input_id:2381 decoded_text: history
+idx:21 input_id:1010 decoded_text: ,
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:17680 decoded_text: outlook
+idx:24 input_id:2005 decoded_text: for
+idx:25 input_id:3037 decoded_text: interest
+idx:26 input_id:6165 decoded_text: rates
+idx:27 input_id:2513 decoded_text: returned
+idx:28 input_id:2000 decoded_text: to
+idx:29 input_id:2415 decoded_text: center
+idx:30 input_id:2754 decoded_text: stage
+idx:31 input_id:6928 decoded_text: monday
+idx:32 input_id:2004 decoded_text: as
+idx:33 input_id:3847 decoded_text: housing
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[0.6950233578681946, -3.3919589519500732, 5.526031970977783, -4.2866530418396]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

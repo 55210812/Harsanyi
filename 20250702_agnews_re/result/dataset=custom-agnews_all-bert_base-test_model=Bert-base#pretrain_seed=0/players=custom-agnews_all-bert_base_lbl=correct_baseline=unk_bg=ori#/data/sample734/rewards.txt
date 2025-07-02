@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: montreal
+Player 1: ( cp )
+Player 2: -
+Player 3: shares
+Player 4: bombardier
+Player 5: inc.
+Player 6: fell
+Player 7: new
+Player 8: lows
+Player 9: monday,
+Player 10: partly
+Player 11: due
+Player 12: crash
+Player 13: another
+Player 14: jets
+Player 15: sunday,
+Player 16: third
+Player 17: fatal
+Player 18: crash
+Player 19: bombardier
+Player 20: aircraft
+Player 21: two
+Player 22: months.
+---------- Rewards ----------
+v(): -4.735070705413818	 ([])
+v(0 9 10 15 19 21 22): -3.3091490268707275	 ([montreal][monday,][partly][sunday,][bombardier][two][months.])
+v(7 8 11 12 14 18): -0.9567528963088989	 ([new][lows][due][crash][jets][crash])
+v(1 2 3 4 5 6 13 16 17 20): 8.45029354095459	 ([( cp )][-][shares][bombardier][inc.][fell][another][third][fatal][aircraft])
+v(0 7 8 9 10 11 12 14 15 18 19 21 22): 6.191967010498047	 ([montreal][new][lows][monday,][partly][due][crash][jets][sunday,][crash][bombardier][two][months.])
+v(0 1 2 3 4 5 6 9 10 13 15 16 17 19 20 21 22): 8.08655071258545	 ([montreal][( cp )][-][shares][bombardier][inc.][fell][monday,][partly][another][sunday,][third][fatal][bombardier][aircraft][two][months.])
+v(1 2 3 4 5 6 7 8 11 12 13 14 16 17 18 20): 7.567233085632324	 ([( cp )][-][shares][bombardier][inc.][fell][new][lows][due][crash][another][jets][third][fatal][crash][aircraft])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 6.865081310272217	 ([montreal][( cp )][-][shares][bombardier][inc.][fell][new][lows][monday,][partly][due][crash][another][jets][sunday,][third][fatal][crash][bombardier][aircraft][two][months.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 6 13 16 17 20): 13.18536376953125, EP: 1.1366543769836426	 ([( cp )][-][shares][bombardier][inc.][fell][another][third][fatal][aircraft])
+v(0 1 2 3 4 5 6 9 10 13 15 16 17 19 20 21 22): 12.82162094116211, EP: 1.1052976846694946	 ([montreal][( cp )][-][shares][bombardier][inc.][fell][monday,][partly][another][sunday,][third][fatal][bombardier][aircraft][two][months.])
+v(1 2 3 4 5 6 7 8 11 12 13 14 16 17 18 20): 12.302303314208984, EP: 1.0605294704437256	 ([( cp )][-][shares][bombardier][inc.][fell][new][lows][due][crash][another][jets][third][fatal][crash][aircraft])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 11.600152015686035, EP: 1.0	 ([montreal][( cp )][-][shares][bombardier][inc.][fell][new][lows][monday,][partly][due][crash][another][jets][sunday,][third][fatal][crash][bombardier][aircraft][two][months.])
+v(0 7 8 9 10 11 12 14 15 18 19 21 22): 10.927038192749023, EP: 0.9419736862182617	 ([montreal][new][lows][monday,][partly][due][crash][jets][sunday,][crash][bombardier][two][months.])
+v(7 8 11 12 14 18): 3.778317928314209, EP: 0.32571280002593994	 ([new][lows][due][crash][jets][crash])
+v(0 9 10 15 19 21 22): 1.4259216785430908, EP: 0.12292267382144928	 ([montreal][monday,][partly][sunday,][bombardier][two][months.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

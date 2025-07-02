@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: hp
+Player 1: given
+Player 2: trying
+Player 3: bring
+Player 4: key
+Player 5: parts
+Player 6: compaq / dec
+Player 7: # 39 ; s
+Player 8: tru64
+Player 9: operating
+Player 10: system
+Player 11: hp - ux
+Player 12: decided
+Player 13: instead
+Player 14: buy
+Player 15: similar
+Player 16: technology
+Player 17: veritas.
+---------- Rewards ----------
+v(): 2.181959390640259	 ([])
+v(8 9): 4.659817218780518	 ([tru64][operating])
+v(0 2 5 6 7 10 11 13 16 17): 6.1578474044799805	 ([hp][trying][parts][compaq / dec][# 39 ; s][system][hp - ux][instead][technology][veritas.])
+v(1 3 4 12 14 15): 5.8072309494018555	 ([given][bring][key][decided][buy][similar])
+v(0 2 5 6 7 8 9 10 11 13 16 17): 6.402037143707275	 ([hp][trying][parts][compaq / dec][# 39 ; s][tru64][operating][system][hp - ux][instead][technology][veritas.])
+v(1 3 4 8 9 12 14 15): 6.20763635635376	 ([given][bring][key][tru64][operating][decided][buy][similar])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17): 6.820301055908203	 ([hp][given][trying][bring][key][parts][compaq / dec][# 39 ; s][system][hp - ux][decided][instead][buy][similar][technology][veritas.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 6.612871170043945	 ([hp][given][trying][bring][key][parts][compaq / dec][# 39 ; s][tru64][operating][system][hp - ux][decided][instead][buy][similar][technology][veritas.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17): 4.638341903686523, EP: 1.0468143224716187	 ([hp][given][trying][bring][key][parts][compaq / dec][# 39 ; s][system][hp - ux][decided][instead][buy][similar][technology][veritas.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 4.430912017822266, EP: 1.0	 ([hp][given][trying][bring][key][parts][compaq / dec][# 39 ; s][tru64][operating][system][hp - ux][decided][instead][buy][similar][technology][veritas.])
+v(0 2 5 6 7 8 9 10 11 13 16 17): 4.2200775146484375, EP: 0.9524173736572266	 ([hp][trying][parts][compaq / dec][# 39 ; s][tru64][operating][system][hp - ux][instead][technology][veritas.])
+v(1 3 4 8 9 12 14 15): 4.025676727294922, EP: 0.908543586730957	 ([given][bring][key][tru64][operating][decided][buy][similar])
+v(0 2 5 6 7 10 11 13 16 17): 3.9758880138397217, EP: 0.8973069190979004	 ([hp][trying][parts][compaq / dec][# 39 ; s][system][hp - ux][instead][technology][veritas.])
+v(1 3 4 12 14 15): 3.6252715587615967, EP: 0.8181772828102112	 ([given][bring][key][decided][buy][similar])
+v(8 9): 2.477857828140259, EP: 0.5592207312583923	 ([tru64][operating])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

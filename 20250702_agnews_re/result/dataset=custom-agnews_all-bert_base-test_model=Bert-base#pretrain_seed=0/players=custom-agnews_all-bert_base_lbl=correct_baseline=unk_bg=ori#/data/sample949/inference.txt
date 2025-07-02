@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 19:41:00
+prompt: [CLS] a volley of lawsuits was launched against alleged spammers on thursday by the four major us internet service providers. this includes a case brought by aol against twenty individuals accused of spimming, or [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:28073 decoded_text: volley
+idx:3 input_id:1997 decoded_text: of
+idx:4 input_id:20543 decoded_text: lawsuits
+idx:5 input_id:2001 decoded_text: was
+idx:6 input_id:3390 decoded_text: launched
+idx:7 input_id:2114 decoded_text: against
+idx:8 input_id:6884 decoded_text: alleged
+idx:9 input_id:12403 decoded_text: spa
+idx:10 input_id:15810 decoded_text: ##mmer
+idx:11 input_id:2015 decoded_text: ##s
+idx:12 input_id:2006 decoded_text: on
+idx:13 input_id:9432 decoded_text: thursday
+idx:14 input_id:2011 decoded_text: by
+idx:15 input_id:1996 decoded_text: the
+idx:16 input_id:2176 decoded_text: four
+idx:17 input_id:2350 decoded_text: major
+idx:18 input_id:2149 decoded_text: us
+idx:19 input_id:4274 decoded_text: internet
+idx:20 input_id:2326 decoded_text: service
+idx:21 input_id:11670 decoded_text: providers
+idx:22 input_id:1012 decoded_text: .
+idx:23 input_id:2023 decoded_text: this
+idx:24 input_id:2950 decoded_text: includes
+idx:25 input_id:1037 decoded_text: a
+idx:26 input_id:2553 decoded_text: case
+idx:27 input_id:2716 decoded_text: brought
+idx:28 input_id:2011 decoded_text: by
+idx:29 input_id:20118 decoded_text: ao
+idx:30 input_id:2140 decoded_text: ##l
+idx:31 input_id:2114 decoded_text: against
+idx:32 input_id:3174 decoded_text: twenty
+idx:33 input_id:3633 decoded_text: individuals
+idx:34 input_id:5496 decoded_text: accused
+idx:35 input_id:1997 decoded_text: of
+idx:36 input_id:11867 decoded_text: sp
+idx:37 input_id:5714 decoded_text: ##im
+idx:38 input_id:6562 decoded_text: ##ming
+idx:39 input_id:1010 decoded_text: ,
+idx:40 input_id:2030 decoded_text: or
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.058185577392578, -1.8065087795257568, -1.052462100982666, 6.989339351654053]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

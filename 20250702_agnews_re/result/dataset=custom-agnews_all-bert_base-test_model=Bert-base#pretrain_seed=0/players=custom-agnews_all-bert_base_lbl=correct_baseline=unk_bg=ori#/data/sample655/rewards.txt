@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: pioneering
+Player 1: aviation
+Player 2: company
+Player 3: attempt
+Player 4: rocket
+Player 5: space
+Player 6: wednesday
+Player 7: bid
+Player 8: win
+Player 9: \ $ 10
+Player 10: million
+Player 11: ansari
+Player 12: x
+Player 13: prize.
+Player 14: prize
+Player 15: go
+Player 16: first
+Player 17: non - governmental
+Player 18: vehicle
+Player 19: ferry
+Player 20: three
+Player 21: people
+---------- Rewards ----------
+v(): 5.172959804534912	 ([])
+v(0 3 4 8 12 13 14 15): 7.661613464355469	 ([pioneering][attempt][rocket][win][x][prize.][prize][go])
+v(1 2 5 6 7 9 10): -1.3254003524780273	 ([aviation][company][space][wednesday][bid][\ $ 10][million])
+v(11 16 17 18 19 20 21): -4.268149375915527	 ([ansari][first][non - governmental][vehicle][ferry][three][people])
+v(0 1 2 3 4 5 6 7 8 9 10 12 13 14 15): 7.6907958984375	 ([pioneering][aviation][company][attempt][rocket][space][wednesday][bid][win][\ $ 10][million][x][prize.][prize][go])
+v(0 3 4 8 11 12 13 14 15 16 17 18 19 20 21): 3.6126346588134766	 ([pioneering][attempt][rocket][win][ansari][x][prize.][prize][go][first][non - governmental][vehicle][ferry][three][people])
+v(1 2 5 6 7 9 10 11 16 17 18 19 20 21): 7.011934757232666	 ([aviation][company][space][wednesday][bid][\ $ 10][million][ansari][first][non - governmental][vehicle][ferry][three][people])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 6.305817604064941	 ([pioneering][aviation][company][attempt][rocket][space][wednesday][bid][win][\ $ 10][million][ansari][x][prize.][prize][go][first][non - governmental][vehicle][ferry][three][people])
+---------- Rewards-v() ----------
+v(11 16 17 18 19 20 21): -9.441108703613281, EP: -8.333887100219727	 ([ansari][first][non - governmental][vehicle][ferry][three][people])
+v(1 2 5 6 7 9 10): -6.4983601570129395, EP: -5.7362542152404785	 ([aviation][company][space][wednesday][bid][\ $ 10][million])
+v(0 1 2 3 4 5 6 7 8 9 10 12 13 14 15): 2.517836093902588, EP: 2.222552537918091	 ([pioneering][aviation][company][attempt][rocket][space][wednesday][bid][win][\ $ 10][million][x][prize.][prize][go])
+v(0 3 4 8 12 13 14 15): 2.4886536598205566, EP: 2.1967926025390625	 ([pioneering][attempt][rocket][win][x][prize.][prize][go])
+v(1 2 5 6 7 9 10 11 16 17 18 19 20 21): 1.838974952697754, EP: 1.6233060359954834	 ([aviation][company][space][wednesday][bid][\ $ 10][million][ansari][first][non - governmental][vehicle][ferry][three][people])
+v(0 3 4 8 11 12 13 14 15 16 17 18 19 20 21): -1.5603251457214355, EP: -1.3773354291915894	 ([pioneering][attempt][rocket][win][ansari][x][prize.][prize][go][first][non - governmental][vehicle][ferry][three][people])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 1.1328577995300293, EP: 1.0	 ([pioneering][aviation][company][attempt][rocket][space][wednesday][bid][win][\ $ 10][million][ansari][x][prize.][prize][go][first][non - governmental][vehicle][ferry][three][people])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

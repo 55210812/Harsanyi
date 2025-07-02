@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: wall
+Player 1: street
+Player 2: expected
+Player 3: edge
+Player 4: higher
+Player 5: tuesday
+Player 6: # 39 ; s
+Player 7: opening
+Player 8: price
+Player 9: us
+Player 10: crude
+Player 11: oil
+Player 12: eased,
+Player 13: insurers
+Player 14: firming
+Player 15: head
+Player 16: marsh
+Player 17: amp ;
+Player 18: mclennan
+Player 19: cos.
+---------- Rewards ----------
+v(): -5.887160301208496	 ([])
+v(1 8 10 11 13 15 16 17): 5.965085506439209	 ([street][price][crude][oil][insurers][head][marsh][amp ;])
+v(9 14 18 19): 7.299439430236816	 ([us][firming][mclennan][cos.])
+v(0 2 3 4 5 6 7 12): -3.8750970363616943	 ([wall][expected][edge][higher][tuesday][# 39 ; s][opening][eased,])
+v(1 8 9 10 11 13 14 15 16 17 18 19): 6.970037937164307	 ([street][price][us][crude][oil][insurers][firming][head][marsh][amp ;][mclennan][cos.])
+v(0 1 2 3 4 5 6 7 8 10 11 12 13 15 16 17): 6.34074068069458	 ([wall][street][expected][edge][higher][tuesday][# 39 ; s][opening][price][crude][oil][eased,][insurers][head][marsh][amp ;])
+v(0 2 3 4 5 6 7 9 12 14 18 19): 7.0223588943481445	 ([wall][expected][edge][higher][tuesday][# 39 ; s][opening][us][eased,][firming][mclennan][cos.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.791811466217041	 ([wall][street][expected][edge][higher][tuesday][# 39 ; s][opening][price][us][crude][oil][eased,][insurers][firming][head][marsh][amp ;][mclennan][cos.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.678972244262695, EP: 1.0	 ([wall][street][expected][edge][higher][tuesday][# 39 ; s][opening][price][us][crude][oil][eased,][insurers][firming][head][marsh][amp ;][mclennan][cos.])
+v(9 14 18 19): 13.186599731445312, EP: 0.964005172252655	 ([us][firming][mclennan][cos.])
+v(0 2 3 4 5 6 7 9 12 14 18 19): 12.90951919555664, EP: 0.943749189376831	 ([wall][expected][edge][higher][tuesday][# 39 ; s][opening][us][eased,][firming][mclennan][cos.])
+v(1 8 9 10 11 13 14 15 16 17 18 19): 12.857198715209961, EP: 0.9399242997169495	 ([street][price][us][crude][oil][insurers][firming][head][marsh][amp ;][mclennan][cos.])
+v(0 1 2 3 4 5 6 7 8 10 11 12 13 15 16 17): 12.227901458740234, EP: 0.8939195871353149	 ([wall][street][expected][edge][higher][tuesday][# 39 ; s][opening][price][crude][oil][eased,][insurers][head][marsh][amp ;])
+v(1 8 10 11 13 15 16 17): 11.852245330810547, EP: 0.8664572834968567	 ([street][price][crude][oil][insurers][head][marsh][amp ;])
+v(0 2 3 4 5 6 7 12): 2.0120632648468018, EP: 0.14709170162677765	 ([wall][expected][edge][higher][tuesday][# 39 ; s][opening][eased,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

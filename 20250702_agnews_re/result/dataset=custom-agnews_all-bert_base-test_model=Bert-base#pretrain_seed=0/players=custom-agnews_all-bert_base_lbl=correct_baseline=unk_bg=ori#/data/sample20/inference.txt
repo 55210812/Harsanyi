@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 19:18:09
+prompt: [CLS] a quebec glass manufacturer will have to replace about 100 4 - by - 8 - foot windows at the new boston convention amp ; exhibition center in south boston over the next several months, officials said yesterday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:5447 decoded_text: quebec
+idx:3 input_id:3221 decoded_text: glass
+idx:4 input_id:7751 decoded_text: manufacturer
+idx:5 input_id:2097 decoded_text: will
+idx:6 input_id:2031 decoded_text: have
+idx:7 input_id:2000 decoded_text: to
+idx:8 input_id:5672 decoded_text: replace
+idx:9 input_id:2055 decoded_text: about
+idx:10 input_id:2531 decoded_text: 100
+idx:11 input_id:1018 decoded_text: 4
+idx:12 input_id:1011 decoded_text: -
+idx:13 input_id:2011 decoded_text: by
+idx:14 input_id:1011 decoded_text: -
+idx:15 input_id:1022 decoded_text: 8
+idx:16 input_id:1011 decoded_text: -
+idx:17 input_id:3329 decoded_text: foot
+idx:18 input_id:3645 decoded_text: windows
+idx:19 input_id:2012 decoded_text: at
+idx:20 input_id:1996 decoded_text: the
+idx:21 input_id:2047 decoded_text: new
+idx:22 input_id:3731 decoded_text: boston
+idx:23 input_id:4680 decoded_text: convention
+idx:24 input_id:23713 decoded_text: amp
+idx:25 input_id:1025 decoded_text: ;
+idx:26 input_id:4538 decoded_text: exhibition
+idx:27 input_id:2415 decoded_text: center
+idx:28 input_id:1999 decoded_text: in
+idx:29 input_id:2148 decoded_text: south
+idx:30 input_id:3731 decoded_text: boston
+idx:31 input_id:2058 decoded_text: over
+idx:32 input_id:1996 decoded_text: the
+idx:33 input_id:2279 decoded_text: next
+idx:34 input_id:2195 decoded_text: several
+idx:35 input_id:2706 decoded_text: months
+idx:36 input_id:1010 decoded_text: ,
+idx:37 input_id:4584 decoded_text: officials
+idx:38 input_id:2056 decoded_text: said
+idx:39 input_id:7483 decoded_text: yesterday
+idx:40 input_id:1012 decoded_text: .
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.9336864948272705, -3.236131429672241, 6.620126724243164, -2.4098060131073]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

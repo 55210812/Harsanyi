@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 19:37:29
+prompt: [CLS] union officials representing 7, 500 pilots at delta air lines said wednesday night they have reached a cost - cutting agreement with management, which presumably could halt, or at least [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2586 decoded_text: union
+idx:2 input_id:4584 decoded_text: officials
+idx:3 input_id:5052 decoded_text: representing
+idx:4 input_id:1021 decoded_text: 7
+idx:5 input_id:1010 decoded_text: ,
+idx:6 input_id:3156 decoded_text: 500
+idx:7 input_id:8221 decoded_text: pilots
+idx:8 input_id:2012 decoded_text: at
+idx:9 input_id:7160 decoded_text: delta
+idx:10 input_id:2250 decoded_text: air
+idx:11 input_id:3210 decoded_text: lines
+idx:12 input_id:2056 decoded_text: said
+idx:13 input_id:9317 decoded_text: wednesday
+idx:14 input_id:2305 decoded_text: night
+idx:15 input_id:2027 decoded_text: they
+idx:16 input_id:2031 decoded_text: have
+idx:17 input_id:2584 decoded_text: reached
+idx:18 input_id:1037 decoded_text: a
+idx:19 input_id:3465 decoded_text: cost
+idx:20 input_id:1011 decoded_text: -
+idx:21 input_id:6276 decoded_text: cutting
+idx:22 input_id:3820 decoded_text: agreement
+idx:23 input_id:2007 decoded_text: with
+idx:24 input_id:2968 decoded_text: management
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:2029 decoded_text: which
+idx:27 input_id:10712 decoded_text: presumably
+idx:28 input_id:2071 decoded_text: could
+idx:29 input_id:9190 decoded_text: halt
+idx:30 input_id:1010 decoded_text: ,
+idx:31 input_id:2030 decoded_text: or
+idx:32 input_id:2012 decoded_text: at
+idx:33 input_id:2560 decoded_text: least
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.0357959270477295, -2.8517472743988037, 6.582067966461182, -3.4471583366394043]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

@@ -1,0 +1,70 @@
+---------- Players ----------
+Player 0: st.
+Player 1: louis
+Player 2: - -
+Player 3: called
+Player 4: red
+Player 5: sox
+Player 6: switchboard
+Player 7: early
+Player 8: yesterday
+Player 9: afternoon.
+Player 10: took
+Player 11: plow
+Player 12: recorded
+Player 13: message,
+Player 14: operator
+Player 15: finally
+Player 16: came
+Player 17: on,
+Player 18: said,
+Player 19: quot ; thank
+Player 20: calling
+Player 21: .
+Player 22: .
+Player 23: .
+Player 24: um
+Player 25: .
+Player 26: .
+Player 27: .
+Player 28: world
+Player 29: champion
+Player 30: boston
+Player 31: red
+Player 32: sox.
+Player 33: quot ;
+---------- Rewards ----------
+v(): -3.1534204483032227	 ([])
+v(0 1 2 4 5 6 8 9 11 21 31 32 33): 9.51018238067627	 ([st.][louis][- -][red][sox][switchboard][yesterday][afternoon.][plow][.][red][sox.][quot ;])
+v(7 10 12 19 28 29 30): 9.271546363830566	 ([early][took][recorded][quot ; thank][world][champion][boston])
+v(3 13 14 20): -6.0469441413879395	 ([called][message,][operator][calling])
+v(15 16 17 18 22 23 24 25 26 27): -5.53109884262085	 ([finally][came][on,][said,][.][.][um][.][.][.])
+v(0 1 2 4 5 6 7 8 9 10 11 12 19 21 28 29 30 31 32 33): 9.497039794921875	 ([st.][louis][- -][red][sox][switchboard][early][yesterday][afternoon.][took][plow][recorded][quot ; thank][.][world][champion][boston][red][sox.][quot ;])
+v(0 1 2 3 4 5 6 8 9 11 13 14 20 21 31 32 33): 9.381107330322266	 ([st.][louis][- -][called][red][sox][switchboard][yesterday][afternoon.][plow][message,][operator][calling][.][red][sox.][quot ;])
+v(0 1 2 4 5 6 8 9 11 15 16 17 18 21 22 23 24 25 26 27 31 32 33): 9.54371166229248	 ([st.][louis][- -][red][sox][switchboard][yesterday][afternoon.][plow][finally][came][on,][said,][.][.][.][um][.][.][.][red][sox.][quot ;])
+v(3 7 10 12 13 14 19 20 28 29 30): 9.043434143066406	 ([called][early][took][recorded][message,][operator][quot ; thank][calling][world][champion][boston])
+v(7 10 12 15 16 17 18 19 22 23 24 25 26 27 28 29 30): 9.395211219787598	 ([early][took][recorded][finally][came][on,][said,][quot ; thank][.][.][um][.][.][.][world][champion][boston])
+v(3 13 14 15 16 17 18 20 22 23 24 25 26 27): -5.801554203033447	 ([called][message,][operator][finally][came][on,][said,][calling][.][.][um][.][.][.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 19 20 21 28 29 30 31 32 33): 9.552067756652832	 ([st.][louis][- -][called][red][sox][switchboard][early][yesterday][afternoon.][took][plow][recorded][message,][operator][quot ; thank][calling][.][world][champion][boston][red][sox.][quot ;])
+v(0 1 2 4 5 6 7 8 9 10 11 12 15 16 17 18 19 21 22 23 24 25 26 27 28 29 30 31 32 33): 9.542152404785156	 ([st.][louis][- -][red][sox][switchboard][early][yesterday][afternoon.][took][plow][recorded][finally][came][on,][said,][quot ; thank][.][.][.][um][.][.][.][world][champion][boston][red][sox.][quot ;])
+v(0 1 2 3 4 5 6 8 9 11 13 14 15 16 17 18 20 21 22 23 24 25 26 27 31 32 33): 9.535211563110352	 ([st.][louis][- -][called][red][sox][switchboard][yesterday][afternoon.][plow][message,][operator][finally][came][on,][said,][calling][.][.][.][um][.][.][.][red][sox.][quot ;])
+v(3 7 10 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28 29 30): 9.479410171508789	 ([called][early][took][recorded][message,][operator][finally][came][on,][said,][quot ; thank][calling][.][.][um][.][.][.][world][champion][boston])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33): 9.593782424926758	 ([st.][louis][- -][called][red][sox][switchboard][early][yesterday][afternoon.][took][plow][recorded][message,][operator][finally][came][on,][said,][quot ; thank][calling][.][.][.][um][.][.][.][world][champion][boston][red][sox.][quot ;])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33): 12.74720287322998, EP: 1.0	 ([st.][louis][- -][called][red][sox][switchboard][early][yesterday][afternoon.][took][plow][recorded][message,][operator][finally][came][on,][said,][quot ; thank][calling][.][.][.][um][.][.][.][world][champion][boston][red][sox.][quot ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 19 20 21 28 29 30 31 32 33): 12.705488204956055, EP: 0.9967275261878967	 ([st.][louis][- -][called][red][sox][switchboard][early][yesterday][afternoon.][took][plow][recorded][message,][operator][quot ; thank][calling][.][world][champion][boston][red][sox.][quot ;])
+v(0 1 2 4 5 6 8 9 11 15 16 17 18 21 22 23 24 25 26 27 31 32 33): 12.697132110595703, EP: 0.996071994304657	 ([st.][louis][- -][red][sox][switchboard][yesterday][afternoon.][plow][finally][came][on,][said,][.][.][.][um][.][.][.][red][sox.][quot ;])
+v(0 1 2 4 5 6 7 8 9 10 11 12 15 16 17 18 19 21 22 23 24 25 26 27 28 29 30 31 32 33): 12.695572853088379, EP: 0.9959496855735779	 ([st.][louis][- -][red][sox][switchboard][early][yesterday][afternoon.][took][plow][recorded][finally][came][on,][said,][quot ; thank][.][.][.][um][.][.][.][world][champion][boston][red][sox.][quot ;])
+v(0 1 2 3 4 5 6 8 9 11 13 14 15 16 17 18 20 21 22 23 24 25 26 27 31 32 33): 12.688632011413574, EP: 0.9954051971435547	 ([st.][louis][- -][called][red][sox][switchboard][yesterday][afternoon.][plow][message,][operator][finally][came][on,][said,][calling][.][.][.][um][.][.][.][red][sox.][quot ;])
+v(0 1 2 4 5 6 8 9 11 21 31 32 33): 12.663602828979492, EP: 0.9934417009353638	 ([st.][louis][- -][red][sox][switchboard][yesterday][afternoon.][plow][.][red][sox.][quot ;])
+v(0 1 2 4 5 6 7 8 9 10 11 12 19 21 28 29 30 31 32 33): 12.650460243225098, EP: 0.9924106597900391	 ([st.][louis][- -][red][sox][switchboard][early][yesterday][afternoon.][took][plow][recorded][quot ; thank][.][world][champion][boston][red][sox.][quot ;])
+v(3 7 10 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28 29 30): 12.632830619812012, EP: 0.9910276532173157	 ([called][early][took][recorded][message,][operator][finally][came][on,][said,][quot ; thank][calling][.][.][um][.][.][.][world][champion][boston])
+v(7 10 12 15 16 17 18 19 22 23 24 25 26 27 28 29 30): 12.54863166809082, EP: 0.9844223856925964	 ([early][took][recorded][finally][came][on,][said,][quot ; thank][.][.][um][.][.][.][world][champion][boston])
+v(0 1 2 3 4 5 6 8 9 11 13 14 20 21 31 32 33): 12.534527778625488, EP: 0.9833159446716309	 ([st.][louis][- -][called][red][sox][switchboard][yesterday][afternoon.][plow][message,][operator][calling][.][red][sox.][quot ;])
+v(7 10 12 19 28 29 30): 12.424966812133789, EP: 0.9747210144996643	 ([early][took][recorded][quot ; thank][world][champion][boston])
+v(3 7 10 12 13 14 19 20 28 29 30): 12.196854591369629, EP: 0.9568259716033936	 ([called][early][took][recorded][message,][operator][quot ; thank][calling][world][champion][boston])
+v(3 13 14 20): -2.893523693084717, EP: -0.22699283063411713	 ([called][message,][operator][calling])
+v(3 13 14 15 16 17 18 20 22 23 24 25 26 27): -2.6481337547302246, EP: -0.2077423334121704	 ([called][message,][operator][finally][came][on,][said,][calling][.][.][um][.][.][.])
+v(15 16 17 18 22 23 24 25 26 27): -2.377678394317627, EP: -0.18652549386024475	 ([finally][came][on,][said,][.][.][um][.][.][.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

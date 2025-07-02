@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: 1931
+Player 3: # 151 ;
+Player 4: lefty
+Player 5: grove,
+Player 6: winner
+Player 7: 31
+Player 8: games
+Player 9: philadelphia
+Player 10: a's,
+Player 11: named
+Player 12: american
+Player 13: league
+Player 14: mvp.
+---------- Rewards ----------
+v(): -1.949357271194458	 ([])
+v(4 5 7 8 9): 9.596412658691406	 ([lefty][grove,][31][games][philadelphia])
+v(0 1 2 3 6 12 13 14): 9.618772506713867	 ([ap][-][1931][# 151 ;][winner][american][league][mvp.])
+v(10 11): 2.733407974243164	 ([a's,][named])
+v(0 1 2 3 4 5 6 7 8 9 12 13 14): 9.47292709350586	 ([ap][-][1931][# 151 ;][lefty][grove,][winner][31][games][philadelphia][american][league][mvp.])
+v(4 5 7 8 9 10 11): 9.591062545776367	 ([lefty][grove,][31][games][philadelphia][a's,][named])
+v(0 1 2 3 6 10 11 12 13 14): 9.603524208068848	 ([ap][-][1931][# 151 ;][winner][a's,][named][american][league][mvp.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 9.569722175598145	 ([ap][-][1931][# 151 ;][lefty][grove,][winner][31][games][philadelphia][a's,][named][american][league][mvp.])
+---------- Rewards-v() ----------
+v(0 1 2 3 6 12 13 14): 11.568129539489746, EP: 1.004258155822754	 ([ap][-][1931][# 151 ;][winner][american][league][mvp.])
+v(0 1 2 3 6 10 11 12 13 14): 11.552881240844727, EP: 1.002934455871582	 ([ap][-][1931][# 151 ;][winner][a's,][named][american][league][mvp.])
+v(4 5 7 8 9): 11.545769691467285, EP: 1.0023170709609985	 ([lefty][grove,][31][games][philadelphia])
+v(4 5 7 8 9 10 11): 11.540419578552246, EP: 1.0018526315689087	 ([lefty][grove,][31][games][philadelphia][a's,][named])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 11.519079208374023, EP: 1.0	 ([ap][-][1931][# 151 ;][lefty][grove,][winner][31][games][philadelphia][a's,][named][american][league][mvp.])
+v(0 1 2 3 4 5 6 7 8 9 12 13 14): 11.422284126281738, EP: 0.9915969967842102	 ([ap][-][1931][# 151 ;][lefty][grove,][winner][31][games][philadelphia][american][league][mvp.])
+v(10 11): 4.682765007019043, EP: 0.4065225124359131	 ([a's,][named])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

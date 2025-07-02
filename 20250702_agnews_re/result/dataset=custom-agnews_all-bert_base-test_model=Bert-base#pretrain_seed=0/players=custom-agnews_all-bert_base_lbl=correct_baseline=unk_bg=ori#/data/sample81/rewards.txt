@@ -1,0 +1,63 @@
+---------- Players ----------
+Player 0: south
+Player 1: korean
+Player 2: foreign
+Player 3: minister
+Player 4: ban
+Player 5: ki
+Player 6: moon
+Player 7: said
+Player 8: thursday
+Player 9: intelligence
+Player 10: indicating
+Player 11: possible
+Player 12: launch
+Player 13: north
+Player 14: korean
+Player 15: ballistic
+Player 16: missile
+Player 17: could
+Player 18: set
+Player 19: back
+Player 20: diplomatic
+Player 21: efforts
+Player 22: resolve
+Player 23: crisis
+Player 24: pyongyang's
+Player 25: nuclear
+Player 26: ambitions.
+---------- Rewards ----------
+v(): -5.030886173248291	 ([])
+v(9 19 20 21 22 25): 6.645907402038574	 ([intelligence][back][diplomatic][efforts][resolve][nuclear])
+v(3 12 13 15 16): 6.168435096740723	 ([minister][launch][north][ballistic][missile])
+v(0 1 2 4 7 14 18 24 26): 6.348196506500244	 ([south][korean][foreign][ban][said][korean][set][pyongyang's][ambitions.])
+v(5 6 8 10 11 17 23): -4.01786470413208	 ([ki][moon][thursday][indicating][possible][could][crisis])
+v(3 9 12 13 15 16 19 20 21 22 25): 7.709278106689453	 ([minister][intelligence][launch][north][ballistic][missile][back][diplomatic][efforts][resolve][nuclear])
+v(0 1 2 4 7 9 14 18 19 20 21 22 24 25 26): 8.450060844421387	 ([south][korean][foreign][ban][said][intelligence][korean][set][back][diplomatic][efforts][resolve][pyongyang's][nuclear][ambitions.])
+v(5 6 8 9 10 11 17 19 20 21 22 23 25): 8.173952102661133	 ([ki][moon][thursday][intelligence][indicating][possible][could][back][diplomatic][efforts][resolve][crisis][nuclear])
+v(0 1 2 3 4 7 12 13 14 15 16 18 24 26): 8.386175155639648	 ([south][korean][foreign][minister][ban][said][launch][north][korean][ballistic][missile][set][pyongyang's][ambitions.])
+v(3 5 6 8 10 11 12 13 15 16 17 23): 8.090569496154785	 ([minister][ki][moon][thursday][indicating][possible][launch][north][ballistic][missile][could][crisis])
+v(0 1 2 4 5 6 7 8 10 11 14 17 18 23 24 26): 6.395112037658691	 ([south][korean][foreign][ban][ki][moon][said][thursday][indicating][possible][korean][could][set][crisis][pyongyang's][ambitions.])
+v(0 1 2 3 4 7 9 12 13 14 15 16 18 19 20 21 22 24 25 26): 8.486015319824219	 ([south][korean][foreign][minister][ban][said][intelligence][launch][north][korean][ballistic][missile][set][back][diplomatic][efforts][resolve][pyongyang's][nuclear][ambitions.])
+v(3 5 6 8 9 10 11 12 13 15 16 17 19 20 21 22 23 25): 8.340989112854004	 ([minister][ki][moon][thursday][intelligence][indicating][possible][launch][north][ballistic][missile][could][back][diplomatic][efforts][resolve][crisis][nuclear])
+v(0 1 2 4 5 6 7 8 9 10 11 14 17 18 19 20 21 22 23 24 25 26): 8.367706298828125	 ([south][korean][foreign][ban][ki][moon][said][thursday][intelligence][indicating][possible][korean][could][set][back][diplomatic][efforts][resolve][crisis][pyongyang's][nuclear][ambitions.])
+v(0 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 23 24 26): 8.333284378051758	 ([south][korean][foreign][minister][ban][ki][moon][said][thursday][indicating][possible][launch][north][korean][ballistic][missile][could][set][crisis][pyongyang's][ambitions.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 8.471617698669434	 ([south][korean][foreign][minister][ban][ki][moon][said][thursday][intelligence][indicating][possible][launch][north][korean][ballistic][missile][could][set][back][diplomatic][efforts][resolve][crisis][pyongyang's][nuclear][ambitions.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 7 9 12 13 14 15 16 18 19 20 21 22 24 25 26): 13.516901016235352, EP: 1.0010662078857422	 ([south][korean][foreign][minister][ban][said][intelligence][launch][north][korean][ballistic][missile][set][back][diplomatic][efforts][resolve][pyongyang's][nuclear][ambitions.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 13.502504348754883, EP: 1.0	 ([south][korean][foreign][minister][ban][ki][moon][said][thursday][intelligence][indicating][possible][launch][north][korean][ballistic][missile][could][set][back][diplomatic][efforts][resolve][crisis][pyongyang's][nuclear][ambitions.])
+v(0 1 2 4 7 9 14 18 19 20 21 22 24 25 26): 13.480947494506836, EP: 0.9984034895896912	 ([south][korean][foreign][ban][said][intelligence][korean][set][back][diplomatic][efforts][resolve][pyongyang's][nuclear][ambitions.])
+v(0 1 2 3 4 7 12 13 14 15 16 18 24 26): 13.417060852050781, EP: 0.9936720132827759	 ([south][korean][foreign][minister][ban][said][launch][north][korean][ballistic][missile][set][pyongyang's][ambitions.])
+v(0 1 2 4 5 6 7 8 9 10 11 14 17 18 19 20 21 22 23 24 25 26): 13.398591995239258, EP: 0.9923042058944702	 ([south][korean][foreign][ban][ki][moon][said][thursday][intelligence][indicating][possible][korean][could][set][back][diplomatic][efforts][resolve][crisis][pyongyang's][nuclear][ambitions.])
+v(3 5 6 8 9 10 11 12 13 15 16 17 19 20 21 22 23 25): 13.371875762939453, EP: 0.9903256297111511	 ([minister][ki][moon][thursday][intelligence][indicating][possible][launch][north][ballistic][missile][could][back][diplomatic][efforts][resolve][crisis][nuclear])
+v(0 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 23 24 26): 13.36417007446289, EP: 0.9897549152374268	 ([south][korean][foreign][minister][ban][ki][moon][said][thursday][indicating][possible][launch][north][korean][ballistic][missile][could][set][crisis][pyongyang's][ambitions.])
+v(5 6 8 9 10 11 17 19 20 21 22 23 25): 13.204837799072266, EP: 0.9779547452926636	 ([ki][moon][thursday][intelligence][indicating][possible][could][back][diplomatic][efforts][resolve][crisis][nuclear])
+v(3 5 6 8 10 11 12 13 15 16 17 23): 13.121456146240234, EP: 0.971779465675354	 ([minister][ki][moon][thursday][indicating][possible][launch][north][ballistic][missile][could][crisis])
+v(3 9 12 13 15 16 19 20 21 22 25): 12.740163803100586, EP: 0.9435408115386963	 ([minister][intelligence][launch][north][ballistic][missile][back][diplomatic][efforts][resolve][nuclear])
+v(9 19 20 21 22 25): 11.676794052124023, EP: 0.8647872805595398	 ([intelligence][back][diplomatic][efforts][resolve][nuclear])
+v(0 1 2 4 5 6 7 8 10 11 14 17 18 23 24 26): 11.42599868774414, EP: 0.8462132811546326	 ([south][korean][foreign][ban][ki][moon][said][thursday][indicating][possible][korean][could][set][crisis][pyongyang's][ambitions.])
+v(0 1 2 4 7 14 18 24 26): 11.379082679748535, EP: 0.842738687992096	 ([south][korean][foreign][ban][said][korean][set][pyongyang's][ambitions.])
+v(3 12 13 15 16): 11.199321746826172, EP: 0.8294255137443542	 ([minister][launch][north][ballistic][missile])
+v(5 6 8 10 11 17 23): 1.013021469116211, EP: 0.07502470910549164	 ([ki][moon][thursday][indicating][possible][could][crisis])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,29 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: pakistani
+Player 3: security
+Player 4: forces
+Player 5: arrested
+Player 6: egyptian
+Player 7: al - qaeda
+Player 8: operative
+Player 9: northwestern
+Player 10: city
+Player 11: peshawar
+Player 12: bordering
+Player 13: afghanistan,
+Player 14: security
+Player 15: official
+Player 16: said.
+---------- Rewards ----------
+v(): -4.957108497619629	 ([])
+v(0 2 7 10 11 13): 7.730316162109375	 ([afp][pakistani][al - qaeda][city][peshawar][afghanistan,])
+v(1 3 4 5 6 8 9 12 14 15 16): 7.544221878051758	 ([-][security][forces][arrested][egyptian][operative][northwestern][bordering][security][official][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 8.157567977905273	 ([afp][-][pakistani][security][forces][arrested][egyptian][al - qaeda][operative][northwestern][city][peshawar][bordering][afghanistan,][security][official][said.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 13.114676475524902, EP: 1.0	 ([afp][-][pakistani][security][forces][arrested][egyptian][al - qaeda][operative][northwestern][city][peshawar][bordering][afghanistan,][security][official][said.])
+v(0 2 7 10 11 13): 12.687424659729004, EP: 0.96742182970047	 ([afp][pakistani][al - qaeda][city][peshawar][afghanistan,])
+v(1 3 4 5 6 8 9 12 14 15 16): 12.501330375671387, EP: 0.9532321095466614	 ([-][security][forces][arrested][egyptian][operative][northwestern][bordering][security][official][said.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

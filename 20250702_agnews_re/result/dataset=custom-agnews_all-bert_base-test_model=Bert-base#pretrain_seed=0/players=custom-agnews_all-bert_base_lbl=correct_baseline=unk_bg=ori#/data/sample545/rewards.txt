@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: rains
+Player 1: came,
+Player 2: chargers
+Player 3: times
+Player 4: acted
+Player 5: # 39 ; d
+Player 6: never
+Player 7: wet
+Player 8: bathtub.
+Player 9: managed
+Player 10: miss
+Player 11: slipping
+Player 12: bar
+Player 13: soap,
+Player 14: parade
+Player 15: kept
+Player 16: going
+Player 17: afternoon
+Player 18: night.
+---------- Rewards ----------
+v(): -3.457211971282959	 ([])
+v(2 3 5 6 9): 9.285737991333008	 ([chargers][times][# 39 ; d][never][managed])
+v(0 7 10 11 13 14 17): -2.638371467590332	 ([rains][wet][miss][slipping][soap,][parade][afternoon])
+v(1 4 8 12 15 16 18): -0.368369460105896	 ([came,][acted][bathtub.][bar][kept][going][night.])
+v(0 2 3 5 6 7 9 10 11 13 14 17): 4.672369956970215	 ([rains][chargers][times][# 39 ; d][never][wet][managed][miss][slipping][soap,][parade][afternoon])
+v(1 2 3 4 5 6 8 9 12 15 16 18): 9.552262306213379	 ([came,][chargers][times][acted][# 39 ; d][never][bathtub.][managed][bar][kept][going][night.])
+v(0 1 4 7 8 10 11 12 13 14 15 16 17 18): -3.8180954456329346	 ([rains][came,][acted][wet][bathtub.][miss][slipping][bar][soap,][parade][kept][going][afternoon][night.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.305305480957031	 ([rains][came,][chargers][times][acted][# 39 ; d][never][wet][bathtub.][managed][miss][slipping][bar][soap,][parade][kept][going][afternoon][night.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 6 8 9 12 15 16 18): 13.00947380065918, EP: 1.0193500518798828	 ([came,][chargers][times][acted][# 39 ; d][never][bathtub.][managed][bar][kept][going][night.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 12.762517929077148, EP: 1.0	 ([rains][came,][chargers][times][acted][# 39 ; d][never][wet][bathtub.][managed][miss][slipping][bar][soap,][parade][kept][going][afternoon][night.])
+v(2 3 5 6 9): 12.742950439453125, EP: 0.9984667897224426	 ([chargers][times][# 39 ; d][never][managed])
+v(0 2 3 5 6 7 9 10 11 13 14 17): 8.129581451416016, EP: 0.6369888186454773	 ([rains][chargers][times][# 39 ; d][never][wet][managed][miss][slipping][soap,][parade][afternoon])
+v(1 4 8 12 15 16 18): 3.0888423919677734, EP: 0.2420245260000229	 ([came,][acted][bathtub.][bar][kept][going][night.])
+v(0 7 10 11 13 14 17): 0.818840503692627, EP: 0.06415979564189911	 ([rains][wet][miss][slipping][soap,][parade][afternoon])
+v(0 1 4 7 8 10 11 12 13 14 15 16 17 18): -0.3608834743499756, EP: -0.028276823461055756	 ([rains][came,][acted][wet][bathtub.][miss][slipping][bar][soap,][parade][kept][going][afternoon][night.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

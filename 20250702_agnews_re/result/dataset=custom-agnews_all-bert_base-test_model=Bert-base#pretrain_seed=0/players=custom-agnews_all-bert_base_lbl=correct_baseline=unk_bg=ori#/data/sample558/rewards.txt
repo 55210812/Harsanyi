@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: bush
+Player 1: administration
+Player 2: yesterday
+Player 3: said
+Player 4: chinese
+Player 5: vietnamese
+Player 6: shrimp
+Player 7: sold
+Player 8: unfairly
+Player 9: low
+Player 10: prices
+Player 11: united
+Player 12: states,
+Player 13: siding
+Player 14: us
+Player 15: fishermen
+Player 16: try
+Player 17: fend
+Player 18: overseas
+Player 19: competition.
+---------- Rewards ----------
+v(): -5.940886497497559	 ([])
+v(3 7 8 9 10 11 12 13 16 18): -2.1832358837127686	 ([said][sold][unfairly][low][prices][united][states,][siding][try][overseas])
+v(0 1 2 4 5 6 14 15 17 19): -6.813175201416016	 ([bush][administration][yesterday][chinese][vietnamese][shrimp][us][fishermen][fend][competition.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.132129192352295	 ([bush][administration][yesterday][said][chinese][vietnamese][shrimp][sold][unfairly][low][prices][united][states,][siding][us][fishermen][try][fend][overseas][competition.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.073015213012695, EP: 1.0	 ([bush][administration][yesterday][said][chinese][vietnamese][shrimp][sold][unfairly][low][prices][united][states,][siding][us][fishermen][try][fend][overseas][competition.])
+v(3 7 8 9 10 11 12 13 16 18): 3.75765061378479, EP: 0.2874356508255005	 ([said][sold][unfairly][low][prices][united][states,][siding][try][overseas])
+v(0 1 2 4 5 6 14 15 17 19): -0.872288703918457, EP: -0.06672436743974686	 ([bush][administration][yesterday][chinese][vietnamese][shrimp][us][fishermen][fend][competition.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

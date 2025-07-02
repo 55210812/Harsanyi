@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: associated
+Player 1: press.
+Player 2: bob
+Player 3: melvin
+Player 4: manager
+Player 5: mariners,
+Player 6: day
+Player 7: seattle
+Player 8: ended
+Player 9: worst
+Player 10: season
+Player 11: 12
+Player 12: years
+Player 13: 99th
+Player 14: loss.
+---------- Rewards ----------
+v(): -4.802191734313965	 ([])
+v(2 3 5 6 7 8 10): 9.749130249023438	 ([bob][melvin][mariners,][day][seattle][ended][season])
+v(0 1 4 9): -2.3915157318115234	 ([associated][press.][manager][worst])
+v(11 12 13 14): -1.9006942510604858	 ([12][years][99th][loss.])
+v(0 1 2 3 4 5 6 7 8 9 10): 9.71679401397705	 ([associated][press.][bob][melvin][manager][mariners,][day][seattle][ended][worst][season])
+v(2 3 5 6 7 8 10 11 12 13 14): 9.724806785583496	 ([bob][melvin][mariners,][day][seattle][ended][season][12][years][99th][loss.])
+v(0 1 4 9 11 12 13 14): 0.7754849195480347	 ([associated][press.][manager][worst][12][years][99th][loss.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 9.462198257446289	 ([associated][press.][bob][melvin][manager][mariners,][day][seattle][ended][worst][season][12][years][99th][loss.])
+---------- Rewards-v() ----------
+v(2 3 5 6 7 8 10): 14.551321983337402, EP: 1.0201152563095093	 ([bob][melvin][mariners,][day][seattle][ended][season])
+v(2 3 5 6 7 8 10 11 12 13 14): 14.526998519897461, EP: 1.018410086631775	 ([bob][melvin][mariners,][day][seattle][ended][season][12][years][99th][loss.])
+v(0 1 2 3 4 5 6 7 8 9 10): 14.518985748291016, EP: 1.0178483724594116	 ([associated][press.][bob][melvin][manager][mariners,][day][seattle][ended][worst][season])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 14.264389991760254, EP: 1.0	 ([associated][press.][bob][melvin][manager][mariners,][day][seattle][ended][worst][season][12][years][99th][loss.])
+v(0 1 4 9 11 12 13 14): 5.577676773071289, EP: 0.3910210430622101	 ([associated][press.][manager][worst][12][years][99th][loss.])
+v(11 12 13 14): 2.9014973640441895, EP: 0.20340844988822937	 ([12][years][99th][loss.])
+v(0 1 4 9): 2.4106760025024414, EP: 0.168999582529068	 ([associated][press.][manager][worst])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: phil
+Player 1: mickelson
+Player 2: look
+Player 3: comfortable
+Player 4: partner,
+Player 5: golf
+Player 6: clubs
+Player 7: opponents
+Player 8: opening
+Player 9: day
+Player 10: ryder
+Player 11: cup.
+---------- Rewards ----------
+v(): -3.995507001876831	 ([])
+v(1 5 6 11): 3.964151382446289	 ([mickelson][golf][clubs][cup.])
+v(0 2 3 4 7): 5.190143585205078	 ([phil][look][comfortable][partner,][opponents])
+v(8 9 10): -0.10600125789642334	 ([opening][day][ryder])
+v(0 1 2 3 4 5 6 7 11): 7.11871862411499	 ([phil][mickelson][look][comfortable][partner,][golf][clubs][opponents][cup.])
+v(1 5 6 8 9 10 11): 2.963681697845459	 ([mickelson][golf][clubs][opening][day][ryder][cup.])
+v(0 2 3 4 7 8 9 10): 7.1830549240112305	 ([phil][look][comfortable][partner,][opponents][opening][day][ryder])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 6.8004961013793945	 ([phil][mickelson][look][comfortable][partner,][golf][clubs][opponents][opening][day][ryder][cup.])
+---------- Rewards-v() ----------
+v(0 2 3 4 7 8 9 10): 11.17856216430664, EP: 1.0354351997375488	 ([phil][look][comfortable][partner,][opponents][opening][day][ryder])
+v(0 1 2 3 4 5 6 7 11): 11.114225387573242, EP: 1.0294759273529053	 ([phil][mickelson][look][comfortable][partner,][golf][clubs][opponents][cup.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 10.796003341674805, EP: 1.0	 ([phil][mickelson][look][comfortable][partner,][golf][clubs][opponents][opening][day][ryder][cup.])
+v(0 2 3 4 7): 9.185650825500488, EP: 0.8508380651473999	 ([phil][look][comfortable][partner,][opponents])
+v(1 5 6 11): 7.959658622741699, EP: 0.7372782826423645	 ([mickelson][golf][clubs][cup.])
+v(1 5 6 8 9 10 11): 6.959188461303711, EP: 0.6446078419685364	 ([mickelson][golf][clubs][opening][day][ryder][cup.])
+v(8 9 10): 3.8895058631896973, EP: 0.36027276515960693	 ([opening][day][ryder])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

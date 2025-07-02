@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: nuclear - armed
+Player 1: rivals
+Player 2: india
+Player 3: pakistan
+Player 4: hold
+Player 5: talks
+Player 6: withdrawal
+Player 7: troops
+Player 8: glacier
+Player 9: disputed
+Player 10: kashmir
+Player 11: known
+Player 12: world
+Player 13: # 39 ; s
+Player 14: highest
+Player 15: battlefield,
+Player 16: defence
+Player 17: official
+Player 18: said
+Player 19: wednesday.
+---------- Rewards ----------
+v(): -8.699616432189941	 ([])
+v(2 3 5 8 10 11 18): 5.254677772521973	 ([india][pakistan][talks][glacier][kashmir][known][said])
+v(0 4 6 7 9 15): 7.373808860778809	 ([nuclear - armed][hold][withdrawal][troops][disputed][battlefield,])
+v(1 12 13 14 16 17 19): 0.6942178010940552	 ([rivals][world][# 39 ; s][highest][defence][official][wednesday.])
+v(0 2 3 4 5 6 7 8 9 10 11 15 18): 8.279726028442383	 ([nuclear - armed][india][pakistan][hold][talks][withdrawal][troops][glacier][disputed][kashmir][known][battlefield,][said])
+v(1 2 3 5 8 10 11 12 13 14 16 17 18 19): 8.178361892700195	 ([rivals][india][pakistan][talks][glacier][kashmir][known][world][# 39 ; s][highest][defence][official][said][wednesday.])
+v(0 1 4 6 7 9 12 13 14 15 16 17 19): 6.526586532592773	 ([nuclear - armed][rivals][hold][withdrawal][troops][disputed][world][# 39 ; s][highest][battlefield,][defence][official][wednesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.106203079223633	 ([nuclear - armed][rivals][india][pakistan][hold][talks][withdrawal][troops][glacier][disputed][kashmir][known][world][# 39 ; s][highest][battlefield,][defence][official][said][wednesday.])
+---------- Rewards-v() ----------
+v(0 2 3 4 5 6 7 8 9 10 11 15 18): 16.97934341430664, EP: 1.0103251934051514	 ([nuclear - armed][india][pakistan][hold][talks][withdrawal][troops][glacier][disputed][kashmir][known][battlefield,][said])
+v(1 2 3 5 8 10 11 12 13 14 16 17 18 19): 16.877979278564453, EP: 1.00429368019104	 ([rivals][india][pakistan][talks][glacier][kashmir][known][world][# 39 ; s][highest][defence][official][said][wednesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 16.80582046508789, EP: 1.0	 ([nuclear - armed][rivals][india][pakistan][hold][talks][withdrawal][troops][glacier][disputed][kashmir][known][world][# 39 ; s][highest][battlefield,][defence][official][said][wednesday.])
+v(0 4 6 7 9 15): 16.07342529296875, EP: 0.9564201235771179	 ([nuclear - armed][hold][withdrawal][troops][disputed][battlefield,])
+v(0 1 4 6 7 9 12 13 14 15 16 17 19): 15.226202964782715, EP: 0.906007707118988	 ([nuclear - armed][rivals][hold][withdrawal][troops][disputed][world][# 39 ; s][highest][battlefield,][defence][official][wednesday.])
+v(2 3 5 8 10 11 18): 13.954294204711914, EP: 0.8303250670433044	 ([india][pakistan][talks][glacier][kashmir][known][said])
+v(1 12 13 14 16 17 19): 9.393834114074707, EP: 0.5589631199836731	 ([rivals][world][# 39 ; s][highest][defence][official][wednesday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

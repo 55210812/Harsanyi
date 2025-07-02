@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: # 39 ; s
+Player 1: reason
+Player 2: smiling
+Player 3: salvation
+Player 4: army
+Player 5: bell - ringer
+Player 6: looks
+Player 7: little
+Player 8: stiff
+Player 9: christmas
+Player 10: season,
+Player 11: # 39 ; s
+Player 12: cold
+Player 13: weather.
+---------- Rewards ----------
+v(): -4.952810764312744	 ([])
+v(2 3 4 8 9): 7.658562660217285	 ([smiling][salvation][army][stiff][christmas])
+v(1 6 10 12 13): -5.512270927429199	 ([reason][looks][season,][cold][weather.])
+v(0 5 7 11): -2.7108824253082275	 ([# 39 ; s][bell - ringer][little][# 39 ; s])
+v(1 2 3 4 6 8 9 10 12 13): 8.231620788574219	 ([reason][smiling][salvation][army][looks][stiff][christmas][season,][cold][weather.])
+v(0 2 3 4 5 7 8 9 11): 8.0131196975708	 ([# 39 ; s][smiling][salvation][army][bell - ringer][little][stiff][christmas][# 39 ; s])
+v(0 1 5 6 7 10 11 12 13): -3.7404279708862305	 ([# 39 ; s][reason][bell - ringer][looks][little][season,][# 39 ; s][cold][weather.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 8.426618576049805	 ([# 39 ; s][reason][smiling][salvation][army][bell - ringer][looks][little][stiff][christmas][season,][# 39 ; s][cold][weather.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 13.37942886352539, EP: 1.0	 ([# 39 ; s][reason][smiling][salvation][army][bell - ringer][looks][little][stiff][christmas][season,][# 39 ; s][cold][weather.])
+v(1 2 3 4 6 8 9 10 12 13): 13.184431076049805, EP: 0.9854255318641663	 ([reason][smiling][salvation][army][looks][stiff][christmas][season,][cold][weather.])
+v(0 2 3 4 5 7 8 9 11): 12.965930938720703, EP: 0.9690945148468018	 ([# 39 ; s][smiling][salvation][army][bell - ringer][little][stiff][christmas][# 39 ; s])
+v(2 3 4 8 9): 12.611373901367188, EP: 0.9425943493843079	 ([smiling][salvation][army][stiff][christmas])
+v(0 5 7 11): 2.2419283390045166, EP: 0.16756533086299896	 ([# 39 ; s][bell - ringer][little][# 39 ; s])
+v(0 1 5 6 7 10 11 12 13): 1.2123827934265137, EP: 0.09061543643474579	 ([# 39 ; s][reason][bell - ringer][looks][little][season,][# 39 ; s][cold][weather.])
+v(1 6 10 12 13): -0.5594601631164551, EP: -0.04181494936347008	 ([reason][looks][season,][cold][weather.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

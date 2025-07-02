@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: many
+Player 1: new
+Player 2: faces,
+Player 3: # 39 ; s
+Player 4: hard
+Player 5: keep
+Player 6: straight.
+Player 7: despite
+Player 8: upheaval,
+Player 9: contracts
+Player 10: controversy
+Player 11: dominated
+Player 12: summer,
+Player 13: jerry
+Player 14: sloan
+Player 15: believes
+Player 16: sheer
+---------- Rewards ----------
+v(): -6.1456732749938965	 ([])
+v(0 1 2 3 4 5 9 10 12 13 14): 9.068044662475586	 ([many][new][faces,][# 39 ; s][hard][keep][contracts][controversy][summer,][jerry][sloan])
+v(11 15 16): -4.151090621948242	 ([dominated][believes][sheer])
+v(6 7 8): -6.017521381378174	 ([straight.][despite][upheaval,])
+v(0 1 2 3 4 5 9 10 11 12 13 14 15 16): 9.304512977600098	 ([many][new][faces,][# 39 ; s][hard][keep][contracts][controversy][dominated][summer,][jerry][sloan][believes][sheer])
+v(0 1 2 3 4 5 6 7 8 9 10 12 13 14): 9.599799156188965	 ([many][new][faces,][# 39 ; s][hard][keep][straight.][despite][upheaval,][contracts][controversy][summer,][jerry][sloan])
+v(6 7 8 11 15 16): -5.190364837646484	 ([straight.][despite][upheaval,][dominated][believes][sheer])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.368917465209961	 ([many][new][faces,][# 39 ; s][hard][keep][straight.][despite][upheaval,][contracts][controversy][dominated][summer,][jerry][sloan][believes][sheer])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 12 13 14): 15.745471954345703, EP: 1.0148814916610718	 ([many][new][faces,][# 39 ; s][hard][keep][straight.][despite][upheaval,][contracts][controversy][summer,][jerry][sloan])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 15.514591217041016, EP: 1.0	 ([many][new][faces,][# 39 ; s][hard][keep][straight.][despite][upheaval,][contracts][controversy][dominated][summer,][jerry][sloan][believes][sheer])
+v(0 1 2 3 4 5 9 10 11 12 13 14 15 16): 15.450185775756836, EP: 0.9958487153053284	 ([many][new][faces,][# 39 ; s][hard][keep][contracts][controversy][dominated][summer,][jerry][sloan][believes][sheer])
+v(0 1 2 3 4 5 9 10 12 13 14): 15.21371841430664, EP: 0.9806070923805237	 ([many][new][faces,][# 39 ; s][hard][keep][contracts][controversy][summer,][jerry][sloan])
+v(11 15 16): 1.9945826530456543, EP: 0.12856173515319824	 ([dominated][believes][sheer])
+v(6 7 8 11 15 16): 0.9553084373474121, EP: 0.06157483905553818	 ([straight.][despite][upheaval,][dominated][believes][sheer])
+v(6 7 8): 0.12815189361572266, EP: 0.008260088041424751	 ([straight.][despite][upheaval,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

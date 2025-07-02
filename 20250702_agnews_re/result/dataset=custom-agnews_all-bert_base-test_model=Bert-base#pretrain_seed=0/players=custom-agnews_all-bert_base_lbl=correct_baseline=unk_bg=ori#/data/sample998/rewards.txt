@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: bipartisan
+Player 3: political
+Player 4: pressure
+Player 5: building
+Player 6: bush
+Player 7: administration
+Player 8: settle
+Player 9: lawsuit
+Player 10: hungarian
+Player 11: jews
+Player 12: claim
+Player 13: united
+Player 14: states
+Player 15: plundered
+Player 16: family
+Player 17: riches
+Player 18: seized
+Player 19: nazis
+Player 20: world
+Player 21: war
+Player 22: ii.
+---------- Rewards ----------
+v(): -4.403072834014893	 ([])
+v(0 1 2 6 7 9): 6.238719463348389	 ([ap][-][bipartisan][bush][administration][lawsuit])
+v(13 14 20 22): 0.792737603187561	 ([united][states][world][ii.])
+v(3 4 5 8 10 11 12 15 16 17 18 19 21): 6.9364142417907715	 ([political][pressure][building][settle][hungarian][jews][claim][plundered][family][riches][seized][nazis][war])
+v(0 1 2 6 7 9 13 14 20 22): 4.8281168937683105	 ([ap][-][bipartisan][bush][administration][lawsuit][united][states][world][ii.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 15 16 17 18 19 21): 7.391628742218018	 ([ap][-][bipartisan][political][pressure][building][bush][administration][settle][lawsuit][hungarian][jews][claim][plundered][family][riches][seized][nazis][war])
+v(3 4 5 8 10 11 12 13 14 15 16 17 18 19 20 21 22): 3.418259620666504	 ([political][pressure][building][settle][hungarian][jews][claim][united][states][plundered][family][riches][seized][nazis][world][war][ii.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.557252883911133	 ([ap][-][bipartisan][political][pressure][building][bush][administration][settle][lawsuit][hungarian][jews][claim][united][states][plundered][family][riches][seized][nazis][world][war][ii.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 11.960325241088867, EP: 1.0	 ([ap][-][bipartisan][political][pressure][building][bush][administration][settle][lawsuit][hungarian][jews][claim][united][states][plundered][family][riches][seized][nazis][world][war][ii.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 15 16 17 18 19 21): 11.79470157623291, EP: 0.9861522316932678	 ([ap][-][bipartisan][political][pressure][building][bush][administration][settle][lawsuit][hungarian][jews][claim][plundered][family][riches][seized][nazis][war])
+v(3 4 5 8 10 11 12 15 16 17 18 19 21): 11.339487075805664, EP: 0.9480918645858765	 ([political][pressure][building][settle][hungarian][jews][claim][plundered][family][riches][seized][nazis][war])
+v(0 1 2 6 7 9): 10.641792297363281, EP: 0.8897577524185181	 ([ap][-][bipartisan][bush][administration][lawsuit])
+v(0 1 2 6 7 9 13 14 20 22): 9.231189727783203, EP: 0.7718176245689392	 ([ap][-][bipartisan][bush][administration][lawsuit][united][states][world][ii.])
+v(3 4 5 8 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.8213324546813965, EP: 0.6539397835731506	 ([political][pressure][building][settle][hungarian][jews][claim][united][states][plundered][family][riches][seized][nazis][world][war][ii.])
+v(13 14 20 22): 5.195810317993164, EP: 0.43442049622535706	 ([united][states][world][ii.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

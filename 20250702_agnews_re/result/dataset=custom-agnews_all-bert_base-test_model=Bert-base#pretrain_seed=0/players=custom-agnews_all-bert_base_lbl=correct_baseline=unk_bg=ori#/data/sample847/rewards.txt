@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: australia's
+Player 1: main
+Player 2: political
+Player 3: leaders
+Player 4: clash
+Player 5: country's
+Player 6: role
+Player 7: iraq,
+Player 8: ahead
+Player 9: next
+Player 10: month's
+Player 11: general
+Player 12: election.
+---------- Rewards ----------
+v(): -6.041561603546143	 ([])
+v(8 10 11 12): 6.838057518005371	 ([ahead][month's][general][election.])
+v(0 1 3 7 9): 8.256708145141602	 ([australia's][main][leaders][iraq,][next])
+v(2 4 5 6): 6.150373458862305	 ([political][clash][country's][role])
+v(0 1 3 7 8 9 10 11 12): 8.454471588134766	 ([australia's][main][leaders][iraq,][ahead][next][month's][general][election.])
+v(2 4 5 6 8 10 11 12): 8.345331192016602	 ([political][clash][country's][role][ahead][month's][general][election.])
+v(0 1 2 3 4 5 6 7 9): 8.4683256149292	 ([australia's][main][political][leaders][clash][country's][role][iraq,][next])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 8.515398025512695	 ([australia's][main][political][leaders][clash][country's][role][iraq,][ahead][next][month's][general][election.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 14.55695915222168, EP: 1.0	 ([australia's][main][political][leaders][clash][country's][role][iraq,][ahead][next][month's][general][election.])
+v(0 1 2 3 4 5 6 7 9): 14.5098876953125, EP: 0.9967663884162903	 ([australia's][main][political][leaders][clash][country's][role][iraq,][next])
+v(0 1 3 7 8 9 10 11 12): 14.49603271484375, EP: 0.9958146214485168	 ([australia's][main][leaders][iraq,][ahead][next][month's][general][election.])
+v(2 4 5 6 8 10 11 12): 14.386892318725586, EP: 0.9883171319961548	 ([political][clash][country's][role][ahead][month's][general][election.])
+v(0 1 3 7 9): 14.298269271850586, EP: 0.9822291135787964	 ([australia's][main][leaders][iraq,][next])
+v(8 10 11 12): 12.879619598388672, EP: 0.8847740292549133	 ([ahead][month's][general][election.])
+v(2 4 5 6): 12.191934585571289, EP: 0.8375330567359924	 ([political][clash][country's][role])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,28 @@
+---------- Players ----------
+Player 0: championship
+Player 1: series :
+Player 2: albert
+Player 3: pujols
+Player 4: scott
+Player 5: rolen
+Player 6: brought
+Player 7: st.
+Player 8: loius
+Player 9: past
+Player 10: houston
+Player 11: sixth
+Player 12: inning,
+Player 13: giving
+Player 14: win
+Player 15: pennant.
+---------- Rewards ----------
+v(): -1.3525398969650269	 ([])
+v(2 4 5 6 7 10 14): 8.962932586669922	 ([albert][scott][rolen][brought][st.][houston][win])
+v(0 1 3 8 9 11 12 13 15): 7.698482990264893	 ([championship][series :][pujols][loius][past][sixth][inning,][giving][pennant.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 5.564206600189209	 ([championship][series :][albert][pujols][scott][rolen][brought][st.][loius][past][houston][sixth][inning,][giving][win][pennant.])
+---------- Rewards-v() ----------
+v(2 4 5 6 7 10 14): 10.315472602844238, EP: 1.4913763999938965	 ([albert][scott][rolen][brought][st.][houston][win])
+v(0 1 3 8 9 11 12 13 15): 9.05102252960205, EP: 1.3085664510726929	 ([championship][series :][pujols][loius][past][sixth][inning,][giving][pennant.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 6.916746616363525, EP: 1.0	 ([championship][series :][albert][pujols][scott][rolen][brought][st.][loius][past][houston][sixth][inning,][giving][win][pennant.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: microsoft
+Player 1: # 39 ; s
+Player 2: decision
+Player 3: release
+Player 4: major
+Player 5: upgrade
+Player 6: flagship
+Player 7: operating
+Player 8: system
+Player 9: month
+Player 10: hundreds
+Player 11: thousands
+Player 12: students
+Player 13: reporting
+Player 14: college
+Player 15: campuses
+Player 16: across
+Player 17: nation
+Player 18: causing
+Player 19: major
+Player 20: headache
+Player 21: universities.
+---------- Rewards ----------
+v(): 4.34097957611084	 ([])
+v(1 15 16): -1.422370195388794	 ([# 39 ; s][campuses][across])
+v(0 6 7 8 9 10 11 12 14): 5.809542655944824	 ([microsoft][flagship][operating][system][month][hundreds][thousands][students][college])
+v(2 3 4 5 13 17 18 19 20 21): -5.0116777420043945	 ([decision][release][major][upgrade][reporting][nation][causing][major][headache][universities.])
+v(0 1 6 7 8 9 10 11 12 14 15 16): 5.662265777587891	 ([microsoft][# 39 ; s][flagship][operating][system][month][hundreds][thousands][students][college][campuses][across])
+v(1 2 3 4 5 13 15 16 17 18 19 20 21): -5.310672760009766	 ([# 39 ; s][decision][release][major][upgrade][reporting][campuses][across][nation][causing][major][headache][universities.])
+v(0 2 3 4 5 6 7 8 9 10 11 12 13 14 17 18 19 20 21): 4.681259632110596	 ([microsoft][decision][release][major][upgrade][flagship][operating][system][month][hundreds][thousands][students][reporting][college][nation][causing][major][headache][universities.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 2.398829698562622	 ([microsoft][# 39 ; s][decision][release][major][upgrade][flagship][operating][system][month][hundreds][thousands][students][reporting][college][campuses][across][nation][causing][major][headache][universities.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 13 15 16 17 18 19 20 21): -9.651652336120605, EP: 4.969571113586426	 ([# 39 ; s][decision][release][major][upgrade][reporting][campuses][across][nation][causing][major][headache][universities.])
+v(2 3 4 5 13 17 18 19 20 21): -9.352657318115234, EP: 4.8156208992004395	 ([decision][release][major][upgrade][reporting][nation][causing][major][headache][universities.])
+v(1 15 16): -5.763349533081055, EP: 2.967510223388672	 ([# 39 ; s][campuses][across])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): -1.9421498775482178, EP: 1.0	 ([microsoft][# 39 ; s][decision][release][major][upgrade][flagship][operating][system][month][hundreds][thousands][students][reporting][college][campuses][across][nation][causing][major][headache][universities.])
+v(0 6 7 8 9 10 11 12 14): 1.4685630798339844, EP: -0.7561533451080322	 ([microsoft][flagship][operating][system][month][hundreds][thousands][students][college])
+v(0 1 6 7 8 9 10 11 12 14 15 16): 1.3212862014770508, EP: -0.680321455001831	 ([microsoft][# 39 ; s][flagship][operating][system][month][hundreds][thousands][students][college][campuses][across])
+v(0 2 3 4 5 6 7 8 9 10 11 12 13 14 17 18 19 20 21): 0.34028005599975586, EP: -0.1752079278230667	 ([microsoft][decision][release][major][upgrade][flagship][operating][system][month][hundreds][thousands][students][reporting][college][nation][causing][major][headache][universities.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

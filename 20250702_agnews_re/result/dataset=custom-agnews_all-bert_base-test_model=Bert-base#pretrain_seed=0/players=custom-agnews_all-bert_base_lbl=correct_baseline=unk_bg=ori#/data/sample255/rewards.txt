@@ -1,0 +1,28 @@
+---------- Players ----------
+Player 0: india's
+Player 1: sachin
+Player 2: tendulkar
+Player 3: ties
+Player 4: record
+Player 5: test
+Player 6: centuries,
+Player 7: bangladesh.
+---------- Rewards ----------
+v(): -5.740714073181152	 ([])
+v(0 2): 3.3470442295074463	 ([india's][tendulkar])
+v(1 6): 2.2232437133789062	 ([sachin][centuries,])
+v(3 4 5 7): 4.594579696655273	 ([ties][record][test][bangladesh.])
+v(0 1 2 6): 5.4783830642700195	 ([india's][sachin][tendulkar][centuries,])
+v(0 2 3 4 5 7): 6.770270824432373	 ([india's][tendulkar][ties][record][test][bangladesh.])
+v(1 3 4 5 6 7): 4.8787431716918945	 ([sachin][ties][record][test][centuries,][bangladesh.])
+v(0 1 2 3 4 5 6 7): 7.208268642425537	 ([india's][sachin][tendulkar][ties][record][test][centuries,][bangladesh.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7): 12.948982238769531, EP: 1.0	 ([india's][sachin][tendulkar][ties][record][test][centuries,][bangladesh.])
+v(0 2 3 4 5 7): 12.510984420776367, EP: 0.9661751389503479	 ([india's][tendulkar][ties][record][test][bangladesh.])
+v(0 1 2 6): 11.219097137451172, EP: 0.8664076328277588	 ([india's][sachin][tendulkar][centuries,])
+v(1 3 4 5 6 7): 10.619457244873047, EP: 0.8200997710227966	 ([sachin][ties][record][test][centuries,][bangladesh.])
+v(3 4 5 7): 10.335293769836426, EP: 0.798154890537262	 ([ties][record][test][bangladesh.])
+v(0 2): 9.08775806427002, EP: 0.7018125653266907	 ([india's][tendulkar])
+v(1 6): 7.963957786560059, EP: 0.6150257587432861	 ([sachin][centuries,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

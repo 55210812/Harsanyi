@@ -1,0 +1,64 @@
+---------- Players ----------
+Player 0: general
+Player 1: motors
+Player 2: plans
+Player 3: install
+Player 4: global
+Player 5: identity
+Player 6: management
+Player 7: system
+Player 8: provide
+Player 9: single - sign - on
+Player 10: access
+Player 11: applications
+Player 12: 500, 000
+Player 13: internal
+Player 14: external
+Player 15: end
+Player 16: users,
+Player 17: boeing
+Player 18: midst
+Player 19: similar
+Player 20: project
+Player 21: - -
+Player 22: aimed
+Player 23: cutting
+Player 24: costs
+Player 25: improving
+Player 26: user
+Player 27: productivity.
+---------- Rewards ----------
+v(): 3.682227373123169	 ([])
+v(17 19 26 27): -6.84620475769043	 ([boeing][similar][user][productivity.])
+v(0 1 2): -8.138348579406738	 ([general][motors][plans])
+v(3 4 5 6): 6.163643836975098	 ([install][global][identity][management])
+v(7 8 9 10 11 12 13 14 15 16 18 20 21 22 23 24 25): 6.262075901031494	 ([system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][midst][project][- -][aimed][cutting][costs][improving])
+v(0 1 2 17 19 26 27): -8.961721420288086	 ([general][motors][plans][boeing][similar][user][productivity.])
+v(3 4 5 6 17 19 26 27): 0.3259317874908447	 ([install][global][identity][management][boeing][similar][user][productivity.])
+v(7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 3.762136936187744	 ([system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][boeing][midst][similar][project][- -][aimed][cutting][costs][improving][user][productivity.])
+v(0 1 2 3 4 5 6): -4.977980136871338	 ([general][motors][plans][install][global][identity][management])
+v(0 1 2 7 8 9 10 11 12 13 14 15 16 18 20 21 22 23 24 25): 0.07124924659729004	 ([general][motors][plans][system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][midst][project][- -][aimed][cutting][costs][improving])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 20 21 22 23 24 25): 7.213123321533203	 ([install][global][identity][management][system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][midst][project][- -][aimed][cutting][costs][improving])
+v(0 1 2 3 4 5 6 17 19 26 27): -4.804814338684082	 ([general][motors][plans][install][global][identity][management][boeing][similar][user][productivity.])
+v(0 1 2 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 0.14492106437683105	 ([general][motors][plans][system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][boeing][midst][similar][project][- -][aimed][cutting][costs][improving][user][productivity.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 5.71643590927124	 ([install][global][identity][management][system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][boeing][midst][similar][project][- -][aimed][cutting][costs][improving][user][productivity.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 20 21 22 23 24 25): 2.0959413051605225	 ([general][motors][plans][install][global][identity][management][system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][midst][project][- -][aimed][cutting][costs][improving])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 1.8324427604675293	 ([general][motors][plans][install][global][identity][management][system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][boeing][midst][similar][project][- -][aimed][cutting][costs][improving][user][productivity.])
+---------- Rewards-v() ----------
+v(0 1 2 17 19 26 27): -12.643948554992676, EP: 6.835362434387207	 ([general][motors][plans][boeing][similar][user][productivity.])
+v(0 1 2): -11.820575714111328, EP: 6.390244483947754	 ([general][motors][plans])
+v(17 19 26 27): -10.52843189239502, EP: 5.691707134246826	 ([boeing][similar][user][productivity.])
+v(0 1 2 3 4 5 6): -8.660207748413086, EP: 4.681738376617432	 ([general][motors][plans][install][global][identity][management])
+v(0 1 2 3 4 5 6 17 19 26 27): -8.487041473388672, EP: 4.5881242752075195	 ([general][motors][plans][install][global][identity][management][boeing][similar][user][productivity.])
+v(0 1 2 7 8 9 10 11 12 13 14 15 16 18 20 21 22 23 24 25): -3.610978126525879, EP: 1.952107310295105	 ([general][motors][plans][system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][midst][project][- -][aimed][cutting][costs][improving])
+v(0 1 2 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): -3.537306308746338, EP: 1.9122800827026367	 ([general][motors][plans][system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][boeing][midst][similar][project][- -][aimed][cutting][costs][improving][user][productivity.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 20 21 22 23 24 25): 3.530895948410034, EP: -1.9088146686553955	 ([install][global][identity][management][system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][midst][project][- -][aimed][cutting][costs][improving])
+v(3 4 5 6 17 19 26 27): -3.356295585632324, EP: 1.8144251108169556	 ([install][global][identity][management][boeing][similar][user][productivity.])
+v(7 8 9 10 11 12 13 14 15 16 18 20 21 22 23 24 25): 2.579848527908325, EP: -1.3946751356124878	 ([system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][midst][project][- -][aimed][cutting][costs][improving])
+v(3 4 5 6): 2.4814164638519287, EP: -1.3414623737335205	 ([install][global][identity][management])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 2.0342085361480713, EP: -1.0997002124786377	 ([install][global][identity][management][system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][boeing][midst][similar][project][- -][aimed][cutting][costs][improving][user][productivity.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): -1.8497846126556396, EP: 1.0	 ([general][motors][plans][install][global][identity][management][system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][boeing][midst][similar][project][- -][aimed][cutting][costs][improving][user][productivity.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 20 21 22 23 24 25): -1.5862860679626465, EP: 0.8575517535209656	 ([general][motors][plans][install][global][identity][management][system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][midst][project][- -][aimed][cutting][costs][improving])
+v(7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 0.0799095630645752, EP: -0.043199386447668076	 ([system][provide][single - sign - on][access][applications][500, 000][internal][external][end][users,][boeing][midst][similar][project][- -][aimed][cutting][costs][improving][user][productivity.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

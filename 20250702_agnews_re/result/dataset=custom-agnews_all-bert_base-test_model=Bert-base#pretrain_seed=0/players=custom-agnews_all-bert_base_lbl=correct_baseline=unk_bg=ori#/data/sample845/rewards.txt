@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: southeast
+Player 3: asian
+Player 4: leaders
+Player 5: completed
+Player 6: series
+Player 7: meetings
+Player 8: laos
+Player 9: renewed
+Player 10: embarrassment
+Player 11: military - ruled
+Player 12: myanmar
+Player 13: threatened
+Player 14: overshadow
+Player 15: signing
+Player 16: historic
+Player 17: trade
+Player 18: deal
+Player 19: china.
+---------- Rewards ----------
+v(): -7.282768249511719	 ([])
+v(2 3 4 6 16): 7.631809711456299	 ([southeast][asian][leaders][series][historic])
+v(9 10 11 12): 6.741572856903076	 ([renewed][embarrassment][military - ruled][myanmar])
+v(0 1 5 7 8 17 19): 5.455610275268555	 ([afp][-][completed][meetings][laos][trade][china.])
+v(13 14 15 18): -4.818146705627441	 ([threatened][overshadow][signing][deal])
+v(2 3 4 6 9 10 11 12 16): 8.13021183013916	 ([southeast][asian][leaders][series][renewed][embarrassment][military - ruled][myanmar][historic])
+v(0 1 2 3 4 5 6 7 8 16 17 19): 7.057586669921875	 ([afp][-][southeast][asian][leaders][completed][series][meetings][laos][historic][trade][china.])
+v(2 3 4 6 13 14 15 16 18): 7.786416530609131	 ([southeast][asian][leaders][series][threatened][overshadow][signing][historic][deal])
+v(0 1 5 7 8 9 10 11 12 17 19): 6.214900016784668	 ([afp][-][completed][meetings][laos][renewed][embarrassment][military - ruled][myanmar][trade][china.])
+v(9 10 11 12 13 14 15 18): 6.87216854095459	 ([renewed][embarrassment][military - ruled][myanmar][threatened][overshadow][signing][deal])
+v(0 1 5 7 8 13 14 15 17 18 19): 7.518847465515137	 ([afp][-][completed][meetings][laos][threatened][overshadow][signing][trade][deal][china.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 16 17 19): 7.807132720947266	 ([afp][-][southeast][asian][leaders][completed][series][meetings][laos][renewed][embarrassment][military - ruled][myanmar][historic][trade][china.])
+v(2 3 4 6 9 10 11 12 13 14 15 16 18): 8.365401268005371	 ([southeast][asian][leaders][series][renewed][embarrassment][military - ruled][myanmar][threatened][overshadow][signing][historic][deal])
+v(0 1 2 3 4 5 6 7 8 13 14 15 16 17 18 19): 8.217350959777832	 ([afp][-][southeast][asian][leaders][completed][series][meetings][laos][threatened][overshadow][signing][historic][trade][deal][china.])
+v(0 1 5 7 8 9 10 11 12 13 14 15 17 18 19): 8.053951263427734	 ([afp][-][completed][meetings][laos][renewed][embarrassment][military - ruled][myanmar][threatened][overshadow][signing][trade][deal][china.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.365772247314453	 ([afp][-][southeast][asian][leaders][completed][series][meetings][laos][renewed][embarrassment][military - ruled][myanmar][threatened][overshadow][signing][historic][trade][deal][china.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 15.648540496826172, EP: 1.0	 ([afp][-][southeast][asian][leaders][completed][series][meetings][laos][renewed][embarrassment][military - ruled][myanmar][threatened][overshadow][signing][historic][trade][deal][china.])
+v(2 3 4 6 9 10 11 12 13 14 15 16 18): 15.64816951751709, EP: 0.9999762773513794	 ([southeast][asian][leaders][series][renewed][embarrassment][military - ruled][myanmar][threatened][overshadow][signing][historic][deal])
+v(0 1 2 3 4 5 6 7 8 13 14 15 16 17 18 19): 15.50011920928955, EP: 0.9905153512954712	 ([afp][-][southeast][asian][leaders][completed][series][meetings][laos][threatened][overshadow][signing][historic][trade][deal][china.])
+v(2 3 4 6 9 10 11 12 16): 15.412980079650879, EP: 0.9849467873573303	 ([southeast][asian][leaders][series][renewed][embarrassment][military - ruled][myanmar][historic])
+v(0 1 5 7 8 9 10 11 12 13 14 15 17 18 19): 15.336719512939453, EP: 0.9800734519958496	 ([afp][-][completed][meetings][laos][renewed][embarrassment][military - ruled][myanmar][threatened][overshadow][signing][trade][deal][china.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 16 17 19): 15.089900970458984, EP: 0.9643008708953857	 ([afp][-][southeast][asian][leaders][completed][series][meetings][laos][renewed][embarrassment][military - ruled][myanmar][historic][trade][china.])
+v(2 3 4 6 13 14 15 16 18): 15.069185256958008, EP: 0.9629770517349243	 ([southeast][asian][leaders][series][threatened][overshadow][signing][historic][deal])
+v(2 3 4 6 16): 14.91457748413086, EP: 0.9530970454216003	 ([southeast][asian][leaders][series][historic])
+v(0 1 5 7 8 13 14 15 17 18 19): 14.801615715026855, EP: 0.9458783268928528	 ([afp][-][completed][meetings][laos][threatened][overshadow][signing][trade][deal][china.])
+v(0 1 2 3 4 5 6 7 8 16 17 19): 14.340354919433594, EP: 0.9164020419120789	 ([afp][-][southeast][asian][leaders][completed][series][meetings][laos][historic][trade][china.])
+v(9 10 11 12 13 14 15 18): 14.154936790466309, EP: 0.9045531749725342	 ([renewed][embarrassment][military - ruled][myanmar][threatened][overshadow][signing][deal])
+v(9 10 11 12): 14.024341583251953, EP: 0.8962076306343079	 ([renewed][embarrassment][military - ruled][myanmar])
+v(0 1 5 7 8 9 10 11 12 17 19): 13.497668266296387, EP: 0.8625512719154358	 ([afp][-][completed][meetings][laos][renewed][embarrassment][military - ruled][myanmar][trade][china.])
+v(0 1 5 7 8 17 19): 12.738378524780273, EP: 0.8140298128128052	 ([afp][-][completed][meetings][laos][trade][china.])
+v(13 14 15 18): 2.4646215438842773, EP: 0.15749849379062653	 ([threatened][overshadow][signing][deal])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

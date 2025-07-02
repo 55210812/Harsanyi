@@ -1,0 +1,53 @@
+---------- Players ----------
+Player 0: avondale,
+Player 1: ariz.
+Player 2: -
+Player 3: sparks
+Player 4: flew
+Player 5: rookie
+Player 6: kasey
+Player 7: kahne
+Player 8: kevin
+Player 9: harvick
+Player 10: conclusion
+Player 11: sunday
+Player 12: # 39 ; s
+Player 13: checker
+Player 14: auto
+Player 15: parts
+Player 16: 500.
+---------- Rewards ----------
+v(): -5.928377151489258	 ([])
+v(5 6 7 8): 9.490096092224121	 ([rookie][kasey][kahne][kevin])
+v(0 2 3 4 9 10): 5.374355792999268	 ([avondale,][-][sparks][flew][harvick][conclusion])
+v(1 11 12 13 16): -4.969714641571045	 ([ariz.][sunday][# 39 ; s][checker][500.])
+v(14 15): -8.950593948364258	 ([auto][parts])
+v(0 2 3 4 5 6 7 8 9 10): 9.723543167114258	 ([avondale,][-][sparks][flew][rookie][kasey][kahne][kevin][harvick][conclusion])
+v(1 5 6 7 8 11 12 13 16): 9.426156997680664	 ([ariz.][rookie][kasey][kahne][kevin][sunday][# 39 ; s][checker][500.])
+v(5 6 7 8 14 15): 8.95742416381836	 ([rookie][kasey][kahne][kevin][auto][parts])
+v(0 1 2 3 4 9 10 11 12 13 16): 7.254549980163574	 ([avondale,][ariz.][-][sparks][flew][harvick][conclusion][sunday][# 39 ; s][checker][500.])
+v(0 2 3 4 9 10 14 15): -1.197586178779602	 ([avondale,][-][sparks][flew][harvick][conclusion][auto][parts])
+v(1 11 12 13 14 15 16): -8.913345336914062	 ([ariz.][sunday][# 39 ; s][checker][auto][parts][500.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 16): 9.439545631408691	 ([avondale,][ariz.][-][sparks][flew][rookie][kasey][kahne][kevin][harvick][conclusion][sunday][# 39 ; s][checker][500.])
+v(0 2 3 4 5 6 7 8 9 10 14 15): 9.67617130279541	 ([avondale,][-][sparks][flew][rookie][kasey][kahne][kevin][harvick][conclusion][auto][parts])
+v(1 5 6 7 8 11 12 13 14 15 16): 8.4568452835083	 ([ariz.][rookie][kasey][kahne][kevin][sunday][# 39 ; s][checker][auto][parts][500.])
+v(0 1 2 3 4 9 10 11 12 13 14 15 16): -1.7889649868011475	 ([avondale,][ariz.][-][sparks][flew][harvick][conclusion][sunday][# 39 ; s][checker][auto][parts][500.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.078916549682617	 ([avondale,][ariz.][-][sparks][flew][rookie][kasey][kahne][kevin][harvick][conclusion][sunday][# 39 ; s][checker][auto][parts][500.])
+---------- Rewards-v() ----------
+v(0 2 3 4 5 6 7 8 9 10): 15.651920318603516, EP: 1.0429542064666748	 ([avondale,][-][sparks][flew][rookie][kasey][kahne][kevin][harvick][conclusion])
+v(0 2 3 4 5 6 7 8 9 10 14 15): 15.604548454284668, EP: 1.0397976636886597	 ([avondale,][-][sparks][flew][rookie][kasey][kahne][kevin][harvick][conclusion][auto][parts])
+v(5 6 7 8): 15.418473243713379, EP: 1.027398705482483	 ([rookie][kasey][kahne][kevin])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 16): 15.36792278289795, EP: 1.0240302085876465	 ([avondale,][ariz.][-][sparks][flew][rookie][kasey][kahne][kevin][harvick][conclusion][sunday][# 39 ; s][checker][500.])
+v(1 5 6 7 8 11 12 13 16): 15.354534149169922, EP: 1.023138165473938	 ([ariz.][rookie][kasey][kahne][kevin][sunday][# 39 ; s][checker][500.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 15.007293701171875, EP: 1.0	 ([avondale,][ariz.][-][sparks][flew][rookie][kasey][kahne][kevin][harvick][conclusion][sunday][# 39 ; s][checker][auto][parts][500.])
+v(5 6 7 8 14 15): 14.885801315307617, EP: 0.9919044375419617	 ([rookie][kasey][kahne][kevin][auto][parts])
+v(1 5 6 7 8 11 12 13 14 15 16): 14.385222434997559, EP: 0.9585487246513367	 ([ariz.][rookie][kasey][kahne][kevin][sunday][# 39 ; s][checker][auto][parts][500.])
+v(0 1 2 3 4 9 10 11 12 13 16): 13.182927131652832, EP: 0.8784346580505371	 ([avondale,][ariz.][-][sparks][flew][harvick][conclusion][sunday][# 39 ; s][checker][500.])
+v(0 2 3 4 9 10): 11.302732467651367, EP: 0.7531492710113525	 ([avondale,][-][sparks][flew][harvick][conclusion])
+v(0 2 3 4 9 10 14 15): 4.730791091918945, EP: 0.3152327835559845	 ([avondale,][-][sparks][flew][harvick][conclusion][auto][parts])
+v(0 1 2 3 4 9 10 11 12 13 14 15 16): 4.139411926269531, EP: 0.27582666277885437	 ([avondale,][ariz.][-][sparks][flew][harvick][conclusion][sunday][# 39 ; s][checker][auto][parts][500.])
+v(14 15): -3.022216796875, EP: -0.20138320326805115	 ([auto][parts])
+v(1 11 12 13 14 15 16): -2.9849681854248047, EP: -0.19890116155147552	 ([ariz.][sunday][# 39 ; s][checker][auto][parts][500.])
+v(1 11 12 13 16): 0.9586625099182129, EP: 0.06387977302074432	 ([ariz.][sunday][# 39 ; s][checker][500.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

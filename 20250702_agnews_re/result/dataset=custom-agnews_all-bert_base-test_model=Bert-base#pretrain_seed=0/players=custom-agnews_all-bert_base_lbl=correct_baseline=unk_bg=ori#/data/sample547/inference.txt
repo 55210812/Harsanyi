@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 19:30:44
+prompt: [CLS] afp - ryanair and easyjet both announced plans to expand in the italian market following the collapse of the low - cost airline volare, which has declared insolvency and suspended flights and ticket sales. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:21358 decoded_text: af
+idx:2 input_id:2361 decoded_text: ##p
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:4575 decoded_text: ryan
+idx:5 input_id:11215 decoded_text: ##air
+idx:6 input_id:1998 decoded_text: and
+idx:7 input_id:3733 decoded_text: easy
+idx:8 input_id:15759 decoded_text: ##jet
+idx:9 input_id:2119 decoded_text: both
+idx:10 input_id:2623 decoded_text: announced
+idx:11 input_id:3488 decoded_text: plans
+idx:12 input_id:2000 decoded_text: to
+idx:13 input_id:7818 decoded_text: expand
+idx:14 input_id:1999 decoded_text: in
+idx:15 input_id:1996 decoded_text: the
+idx:16 input_id:3059 decoded_text: italian
+idx:17 input_id:3006 decoded_text: market
+idx:18 input_id:2206 decoded_text: following
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:7859 decoded_text: collapse
+idx:21 input_id:1997 decoded_text: of
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:2659 decoded_text: low
+idx:24 input_id:1011 decoded_text: -
+idx:25 input_id:3465 decoded_text: cost
+idx:26 input_id:8582 decoded_text: airline
+idx:27 input_id:5285 decoded_text: vol
+idx:28 input_id:12069 decoded_text: ##are
+idx:29 input_id:1010 decoded_text: ,
+idx:30 input_id:2029 decoded_text: which
+idx:31 input_id:2038 decoded_text: has
+idx:32 input_id:4161 decoded_text: declared
+idx:33 input_id:16021 decoded_text: ins
+idx:34 input_id:4747 decoded_text: ##ol
+idx:35 input_id:8159 decoded_text: ##ven
+idx:36 input_id:5666 decoded_text: ##cy
+idx:37 input_id:1998 decoded_text: and
+idx:38 input_id:6731 decoded_text: suspended
+idx:39 input_id:7599 decoded_text: flights
+idx:40 input_id:1998 decoded_text: and
+idx:41 input_id:7281 decoded_text: ticket
+idx:42 input_id:4341 decoded_text: sales
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-0.108101487159729, -3.782489061355591, 5.62369441986084, -3.4575259685516357]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

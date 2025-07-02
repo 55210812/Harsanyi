@@ -1,0 +1,41 @@
+Execution time: 2025-07-02 19:22:40
+prompt: [CLS] america has regained bragging rights to the world's most powerful supercomputer, after a two - and - a - half - year hiatus. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2637 decoded_text: america
+idx:2 input_id:2038 decoded_text: has
+idx:3 input_id:11842 decoded_text: regained
+idx:4 input_id:23678 decoded_text: bragg
+idx:5 input_id:2075 decoded_text: ##ing
+idx:6 input_id:2916 decoded_text: rights
+idx:7 input_id:2000 decoded_text: to
+idx:8 input_id:1996 decoded_text: the
+idx:9 input_id:2088 decoded_text: world
+idx:10 input_id:1005 decoded_text: '
+idx:11 input_id:1055 decoded_text: s
+idx:12 input_id:2087 decoded_text: most
+idx:13 input_id:3928 decoded_text: powerful
+idx:14 input_id:3565 decoded_text: super
+idx:15 input_id:9006 decoded_text: ##com
+idx:16 input_id:18780 decoded_text: ##put
+idx:17 input_id:2121 decoded_text: ##er
+idx:18 input_id:1010 decoded_text: ,
+idx:19 input_id:2044 decoded_text: after
+idx:20 input_id:1037 decoded_text: a
+idx:21 input_id:2048 decoded_text: two
+idx:22 input_id:1011 decoded_text: -
+idx:23 input_id:1998 decoded_text: and
+idx:24 input_id:1011 decoded_text: -
+idx:25 input_id:1037 decoded_text: a
+idx:26 input_id:1011 decoded_text: -
+idx:27 input_id:2431 decoded_text: half
+idx:28 input_id:1011 decoded_text: -
+idx:29 input_id:2095 decoded_text: year
+idx:30 input_id:14221 decoded_text: hiatus
+idx:31 input_id:1012 decoded_text: .
+idx:32 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-0.5389592051506042, -4.482364177703857, 3.1617462635040283, 0.5142672657966614]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

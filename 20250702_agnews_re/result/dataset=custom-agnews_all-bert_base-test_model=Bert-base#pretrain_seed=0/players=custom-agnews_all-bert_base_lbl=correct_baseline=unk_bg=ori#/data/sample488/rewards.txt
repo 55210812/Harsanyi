@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: japanese
+Player 1: carmaker
+Player 2: mitsubishi
+Player 3: motors
+Player 4: corp
+Player 5: ( 7211. t :
+Player 6: quote,
+Player 7: profile,
+Player 8: research )
+Player 9: ( mmc ),
+Player 10: japan
+Player 11: # 39 ; s
+Player 12: loss - making
+Player 13: car
+Player 14: maker,
+Player 15: us
+Player 16: brokerage
+Player 17: firm
+Player 18: merrill
+Player 19: lynch
+Player 20: ( mer.
+---------- Rewards ----------
+v(): -2.707444190979004	 ([])
+v(0 1 2 8 10 11 12 13 17): 1.9320425987243652	 ([japanese][carmaker][mitsubishi][research )][japan][# 39 ; s][loss - making][car][firm])
+v(7 9 14 18 19 20): 4.567950248718262	 ([profile,][( mmc ),][maker,][merrill][lynch][( mer.])
+v(3 4 5 6 15 16): 8.20269775390625	 ([motors][corp][( 7211. t :][quote,][us][brokerage])
+v(0 1 2 7 8 9 10 11 12 13 14 17 18 19 20): 3.003643751144409	 ([japanese][carmaker][mitsubishi][profile,][research )][( mmc ),][japan][# 39 ; s][loss - making][car][maker,][firm][merrill][lynch][( mer.])
+v(0 1 2 3 4 5 6 8 10 11 12 13 15 16 17): 3.602785348892212	 ([japanese][carmaker][mitsubishi][motors][corp][( 7211. t :][quote,][research )][japan][# 39 ; s][loss - making][car][us][brokerage][firm])
+v(3 4 5 6 7 9 14 15 16 18 19 20): 7.815359115600586	 ([motors][corp][( 7211. t :][quote,][profile,][( mmc ),][maker,][us][brokerage][merrill][lynch][( mer.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 3.7149829864501953	 ([japanese][carmaker][mitsubishi][motors][corp][( 7211. t :][quote,][profile,][research )][( mmc ),][japan][# 39 ; s][loss - making][car][maker,][us][brokerage][firm][merrill][lynch][( mer.])
+---------- Rewards-v() ----------
+v(3 4 5 6 15 16): 10.910141944885254, EP: 1.6987568140029907	 ([motors][corp][( 7211. t :][quote,][us][brokerage])
+v(3 4 5 6 7 9 14 15 16 18 19 20): 10.52280330657959, EP: 1.6384464502334595	 ([motors][corp][( 7211. t :][quote,][profile,][( mmc ),][maker,][us][brokerage][merrill][lynch][( mer.])
+v(7 9 14 18 19 20): 7.275394439697266, EP: 1.1328107118606567	 ([profile,][( mmc ),][maker,][merrill][lynch][( mer.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 6.422427177429199, EP: 1.0	 ([japanese][carmaker][mitsubishi][motors][corp][( 7211. t :][quote,][profile,][research )][( mmc ),][japan][# 39 ; s][loss - making][car][maker,][us][brokerage][firm][merrill][lynch][( mer.])
+v(0 1 2 3 4 5 6 8 10 11 12 13 15 16 17): 6.310229301452637, EP: 0.9825302958488464	 ([japanese][carmaker][mitsubishi][motors][corp][( 7211. t :][quote,][research )][japan][# 39 ; s][loss - making][car][us][brokerage][firm])
+v(0 1 2 7 8 9 10 11 12 13 14 17 18 19 20): 5.711088180541992, EP: 0.8892413973808289	 ([japanese][carmaker][mitsubishi][profile,][research )][( mmc ),][japan][# 39 ; s][loss - making][car][maker,][firm][merrill][lynch][( mer.])
+v(0 1 2 8 10 11 12 13 17): 4.639486789703369, EP: 0.7223883867263794	 ([japanese][carmaker][mitsubishi][research )][japan][# 39 ; s][loss - making][car][firm])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

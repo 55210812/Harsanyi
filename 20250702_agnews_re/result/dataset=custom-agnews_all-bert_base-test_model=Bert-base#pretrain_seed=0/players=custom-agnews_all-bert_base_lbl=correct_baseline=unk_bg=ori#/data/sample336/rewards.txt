@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: montreal
+Player 3: expos
+Player 4: florida
+Player 5: marlins
+Player 6: play
+Player 7: games
+Player 8: monday
+Player 9: tuesday
+Player 10: chicago
+Player 11: white
+Player 12: sox's
+Player 13: stadium
+Player 14: marlins
+Player 15: forced
+Player 16: adjust
+Player 17: schedule
+Player 18: second
+Player 19: time
+Player 20: month
+Player 21: hurricane.
+---------- Rewards ----------
+v(): -3.4066648483276367	 ([])
+v(4 5 7 8 9 21): 9.744871139526367	 ([florida][marlins][games][monday][tuesday][hurricane.])
+v(0 1 2 3 6 10 11 12 13): 9.691703796386719	 ([ap][-][montreal][expos][play][chicago][white][sox's][stadium])
+v(14 15 16 17 18 19 20): 9.568636894226074	 ([marlins][forced][adjust][schedule][second][time][month])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 21): 9.697785377502441	 ([ap][-][montreal][expos][florida][marlins][play][games][monday][tuesday][chicago][white][sox's][stadium][hurricane.])
+v(4 5 7 8 9 14 15 16 17 18 19 20 21): 9.649843215942383	 ([florida][marlins][games][monday][tuesday][marlins][forced][adjust][schedule][second][time][month][hurricane.])
+v(0 1 2 3 6 10 11 12 13 14 15 16 17 18 19 20): 9.636892318725586	 ([ap][-][montreal][expos][play][chicago][white][sox's][stadium][marlins][forced][adjust][schedule][second][time][month])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.597627639770508	 ([ap][-][montreal][expos][florida][marlins][play][games][monday][tuesday][chicago][white][sox's][stadium][marlins][forced][adjust][schedule][second][time][month][hurricane.])
+---------- Rewards-v() ----------
+v(4 5 7 8 9 21): 13.151535987854004, EP: 1.0113227367401123	 ([florida][marlins][games][monday][tuesday][hurricane.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 21): 13.104450225830078, EP: 1.0077018737792969	 ([ap][-][montreal][expos][florida][marlins][play][games][monday][tuesday][chicago][white][sox's][stadium][hurricane.])
+v(0 1 2 3 6 10 11 12 13): 13.098368644714355, EP: 1.0072342157363892	 ([ap][-][montreal][expos][play][chicago][white][sox's][stadium])
+v(4 5 7 8 9 14 15 16 17 18 19 20 21): 13.05650806427002, EP: 1.0040152072906494	 ([florida][marlins][games][monday][tuesday][marlins][forced][adjust][schedule][second][time][month][hurricane.])
+v(0 1 2 3 6 10 11 12 13 14 15 16 17 18 19 20): 13.043557167053223, EP: 1.0030193328857422	 ([ap][-][montreal][expos][play][chicago][white][sox's][stadium][marlins][forced][adjust][schedule][second][time][month])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 13.004292488098145, EP: 1.0	 ([ap][-][montreal][expos][florida][marlins][play][games][monday][tuesday][chicago][white][sox's][stadium][marlins][forced][adjust][schedule][second][time][month][hurricane.])
+v(14 15 16 17 18 19 20): 12.975301742553711, EP: 0.9977706670761108	 ([marlins][forced][adjust][schedule][second][time][month])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

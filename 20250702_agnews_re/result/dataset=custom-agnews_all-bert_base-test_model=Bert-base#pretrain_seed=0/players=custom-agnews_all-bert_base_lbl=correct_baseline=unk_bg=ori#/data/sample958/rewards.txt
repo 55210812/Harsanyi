@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: microsoft
+Player 1: ( msft )
+Player 2: watch
+Player 3: maker
+Player 4: swatch
+Player 5: offering
+Player 6: new
+Player 7: line
+Player 8: wireless
+Player 9: data
+Player 10: watches,
+Player 11: companies
+Player 12: said
+Player 13: wednesday,
+Player 14: bringing
+Player 15: era
+Player 16: dick
+Player 17: tracy
+Player 18: wristwatch
+Player 19: radios
+Player 20: one
+Player 21: step
+Player 22: closer.
+---------- Rewards ----------
+v(): 2.687539577484131	 ([])
+v(0 1 4 7 8 13 16 17 18): 5.79468297958374	 ([microsoft][( msft )][swatch][line][wireless][wednesday,][dick][tracy][wristwatch])
+v(5 6 11 12 22): 2.6817808151245117	 ([offering][new][companies][said][closer.])
+v(2 3 9 10 14 15 19 20 21): 4.163453578948975	 ([watch][maker][data][watches,][bringing][era][radios][one][step])
+v(0 1 4 5 6 7 8 11 12 13 16 17 18 22): 6.584751129150391	 ([microsoft][( msft )][swatch][offering][new][line][wireless][companies][said][wednesday,][dick][tracy][wristwatch][closer.])
+v(0 1 2 3 4 7 8 9 10 13 14 15 16 17 18 19 20 21): 5.917824745178223	 ([microsoft][( msft )][watch][maker][swatch][line][wireless][data][watches,][wednesday,][bringing][era][dick][tracy][wristwatch][radios][one][step])
+v(2 3 5 6 9 10 11 12 14 15 19 20 21 22): 3.313040256500244	 ([watch][maker][offering][new][data][watches,][companies][said][bringing][era][radios][one][step][closer.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 5.585590839385986	 ([microsoft][( msft )][watch][maker][swatch][offering][new][line][wireless][data][watches,][companies][said][wednesday,][bringing][era][dick][tracy][wristwatch][radios][one][step][closer.])
+---------- Rewards-v() ----------
+v(0 1 4 5 6 7 8 11 12 13 16 17 18 22): 3.8972115516662598, EP: 1.3447697162628174	 ([microsoft][( msft )][swatch][offering][new][line][wireless][companies][said][wednesday,][dick][tracy][wristwatch][closer.])
+v(0 1 2 3 4 7 8 9 10 13 14 15 16 17 18 19 20 21): 3.230285167694092, EP: 1.114640474319458	 ([microsoft][( msft )][watch][maker][swatch][line][wireless][data][watches,][wednesday,][bringing][era][dick][tracy][wristwatch][radios][one][step])
+v(0 1 4 7 8 13 16 17 18): 3.1071434020996094, EP: 1.0721492767333984	 ([microsoft][( msft )][swatch][line][wireless][wednesday,][dick][tracy][wristwatch])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 2.8980512619018555, EP: 1.0	 ([microsoft][( msft )][watch][maker][swatch][offering][new][line][wireless][data][watches,][companies][said][wednesday,][bringing][era][dick][tracy][wristwatch][radios][one][step][closer.])
+v(2 3 9 10 14 15 19 20 21): 1.4759140014648438, EP: 0.5092780590057373	 ([watch][maker][data][watches,][bringing][era][radios][one][step])
+v(2 3 5 6 9 10 11 12 14 15 19 20 21 22): 0.6255006790161133, EP: 0.21583493053913116	 ([watch][maker][offering][new][data][watches,][companies][said][bringing][era][radios][one][step][closer.])
+v(5 6 11 12 22): -0.005758762359619141, EP: -0.001987115480005741	 ([offering][new][companies][said][closer.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

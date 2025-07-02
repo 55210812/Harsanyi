@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: italian
+Player 1: cyclist
+Player 2: alessandro
+Player 3: petacchi
+Player 4: second
+Player 5: stage
+Player 6: tour
+Player 7: spain
+Player 8: mass
+Player 9: sprint
+Player 10: finish,
+Player 11: dutchman
+Player 12: max
+Player 13: van
+Player 14: heeswijk
+Player 15: claimed
+Player 16: leader
+Player 17: # 39 ; s
+Player 18: yellow
+Player 19: jersey.
+---------- Rewards ----------
+v(): -0.2496522068977356	 ([])
+v(3 9 17 18 19): 8.245041847229004	 ([petacchi][sprint][# 39 ; s][yellow][jersey.])
+v(12 13 15 16): -4.204028606414795	 ([max][van][claimed][leader])
+v(0 1 2 4 5 10 14): 7.686838150024414	 ([italian][cyclist][alessandro][second][stage][finish,][heeswijk])
+v(6 7 8 11): -0.03527045249938965	 ([tour][spain][mass][dutchman])
+v(3 9 12 13 15 16 17 18 19): 7.627346992492676	 ([petacchi][sprint][max][van][claimed][leader][# 39 ; s][yellow][jersey.])
+v(0 1 2 3 4 5 9 10 14 17 18 19): 8.677886962890625	 ([italian][cyclist][alessandro][petacchi][second][stage][sprint][finish,][heeswijk][# 39 ; s][yellow][jersey.])
+v(3 6 7 8 9 11 17 18 19): 9.395655632019043	 ([petacchi][tour][spain][mass][sprint][dutchman][# 39 ; s][yellow][jersey.])
+v(0 1 2 4 5 10 12 13 14 15 16): 7.036887168884277	 ([italian][cyclist][alessandro][second][stage][finish,][max][van][heeswijk][claimed][leader])
+v(6 7 8 11 12 13 15 16): -1.2172636985778809	 ([tour][spain][mass][dutchman][max][van][claimed][leader])
+v(0 1 2 4 5 6 7 8 10 11 14): 8.89458179473877	 ([italian][cyclist][alessandro][second][stage][tour][spain][mass][finish,][dutchman][heeswijk])
+v(0 1 2 3 4 5 9 10 12 13 14 15 16 17 18 19): 8.594619750976562	 ([italian][cyclist][alessandro][petacchi][second][stage][sprint][finish,][max][van][heeswijk][claimed][leader][# 39 ; s][yellow][jersey.])
+v(3 6 7 8 9 11 12 13 15 16 17 18 19): 9.438714027404785	 ([petacchi][tour][spain][mass][sprint][dutchman][max][van][claimed][leader][# 39 ; s][yellow][jersey.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 14 17 18 19): 9.372021675109863	 ([italian][cyclist][alessandro][petacchi][second][stage][tour][spain][mass][sprint][finish,][dutchman][heeswijk][# 39 ; s][yellow][jersey.])
+v(0 1 2 4 5 6 7 8 10 11 12 13 14 15 16): 8.420085906982422	 ([italian][cyclist][alessandro][second][stage][tour][spain][mass][finish,][dutchman][max][van][heeswijk][claimed][leader])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.330589294433594	 ([italian][cyclist][alessandro][petacchi][second][stage][tour][spain][mass][sprint][finish,][dutchman][max][van][heeswijk][claimed][leader][# 39 ; s][yellow][jersey.])
+---------- Rewards-v() ----------
+v(3 6 7 8 9 11 12 13 15 16 17 18 19): 9.688365936279297, EP: 1.0112862586975098	 ([petacchi][tour][spain][mass][sprint][dutchman][max][van][claimed][leader][# 39 ; s][yellow][jersey.])
+v(3 6 7 8 9 11 17 18 19): 9.645307540893555, EP: 1.0067917108535767	 ([petacchi][tour][spain][mass][sprint][dutchman][# 39 ; s][yellow][jersey.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 14 17 18 19): 9.621673583984375, EP: 1.0043247938156128	 ([italian][cyclist][alessandro][petacchi][second][stage][tour][spain][mass][sprint][finish,][dutchman][heeswijk][# 39 ; s][yellow][jersey.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.580241203308105, EP: 1.0	 ([italian][cyclist][alessandro][petacchi][second][stage][tour][spain][mass][sprint][finish,][dutchman][max][van][heeswijk][claimed][leader][# 39 ; s][yellow][jersey.])
+v(0 1 2 4 5 6 7 8 10 11 14): 9.144233703613281, EP: 0.9544888734817505	 ([italian][cyclist][alessandro][second][stage][tour][spain][mass][finish,][dutchman][heeswijk])
+v(0 1 2 3 4 5 9 10 14 17 18 19): 8.927538871765137, EP: 0.9318699240684509	 ([italian][cyclist][alessandro][petacchi][second][stage][sprint][finish,][heeswijk][# 39 ; s][yellow][jersey.])
+v(0 1 2 3 4 5 9 10 12 13 14 15 16 17 18 19): 8.844271659851074, EP: 0.9231783747673035	 ([italian][cyclist][alessandro][petacchi][second][stage][sprint][finish,][max][van][heeswijk][claimed][leader][# 39 ; s][yellow][jersey.])
+v(0 1 2 4 5 6 7 8 10 11 12 13 14 15 16): 8.669737815856934, EP: 0.9049602746963501	 ([italian][cyclist][alessandro][second][stage][tour][spain][mass][finish,][dutchman][max][van][heeswijk][claimed][leader])
+v(3 9 17 18 19): 8.494693756103516, EP: 0.8866889476776123	 ([petacchi][sprint][# 39 ; s][yellow][jersey.])
+v(0 1 2 4 5 10 14): 7.936490535736084, EP: 0.8284228444099426	 ([italian][cyclist][alessandro][second][stage][finish,][heeswijk])
+v(3 9 12 13 15 16 17 18 19): 7.876999378204346, EP: 0.8222130537033081	 ([petacchi][sprint][max][van][claimed][leader][# 39 ; s][yellow][jersey.])
+v(0 1 2 4 5 10 12 13 14 15 16): 7.286539554595947, EP: 0.7605799436569214	 ([italian][cyclist][alessandro][second][stage][finish,][max][van][heeswijk][claimed][leader])
+v(12 13 15 16): -3.954376459121704, EP: -0.412763774394989	 ([max][van][claimed][leader])
+v(6 7 8 11 12 13 15 16): -0.9676114916801453, EP: -0.10100074112415314	 ([tour][spain][mass][dutchman][max][van][claimed][leader])
+v(6 7 8 11): 0.21438175439834595, EP: 0.022377490997314453	 ([tour][spain][mass][dutchman])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

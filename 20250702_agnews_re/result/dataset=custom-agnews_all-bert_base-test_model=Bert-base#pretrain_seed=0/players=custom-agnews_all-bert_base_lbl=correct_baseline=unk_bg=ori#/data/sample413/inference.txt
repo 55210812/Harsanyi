@@ -1,0 +1,46 @@
+Execution time: 2025-07-02 19:27:30
+prompt: [CLS] baghdad, iraq - - a us military official in iraq said seven american marines have been killed monday in a car - bomb explosion. several other marines have been wounded in the attack. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:13952 decoded_text: baghdad
+idx:2 input_id:1010 decoded_text: ,
+idx:3 input_id:5712 decoded_text: iraq
+idx:4 input_id:1011 decoded_text: -
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:1037 decoded_text: a
+idx:7 input_id:2149 decoded_text: us
+idx:8 input_id:2510 decoded_text: military
+idx:9 input_id:2880 decoded_text: official
+idx:10 input_id:1999 decoded_text: in
+idx:11 input_id:5712 decoded_text: iraq
+idx:12 input_id:2056 decoded_text: said
+idx:13 input_id:2698 decoded_text: seven
+idx:14 input_id:2137 decoded_text: american
+idx:15 input_id:9622 decoded_text: marines
+idx:16 input_id:2031 decoded_text: have
+idx:17 input_id:2042 decoded_text: been
+idx:18 input_id:2730 decoded_text: killed
+idx:19 input_id:6928 decoded_text: monday
+idx:20 input_id:1999 decoded_text: in
+idx:21 input_id:1037 decoded_text: a
+idx:22 input_id:2482 decoded_text: car
+idx:23 input_id:1011 decoded_text: -
+idx:24 input_id:5968 decoded_text: bomb
+idx:25 input_id:7738 decoded_text: explosion
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:2195 decoded_text: several
+idx:28 input_id:2060 decoded_text: other
+idx:29 input_id:9622 decoded_text: marines
+idx:30 input_id:2031 decoded_text: have
+idx:31 input_id:2042 decoded_text: been
+idx:32 input_id:5303 decoded_text: wounded
+idx:33 input_id:1999 decoded_text: in
+idx:34 input_id:1996 decoded_text: the
+idx:35 input_id:2886 decoded_text: attack
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.769464492797852, -1.116361379623413, -3.0433740615844727, -2.2035930156707764]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

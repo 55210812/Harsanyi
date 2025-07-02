@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: delray
+Player 1: beach,
+Player 2: fla.
+Player 3: ( ticker )
+Player 4: - -
+Player 5: third
+Player 6: seed
+Player 7: mario
+Player 8: ancic
+Player 9: seeded
+Player 10: player
+Player 11: remaining
+Player 12: bottom
+Player 13: half
+Player 14: draw
+Player 15: millennium
+Player 16: international.
+---------- Rewards ----------
+v(): -2.368258476257324	 ([])
+v(3 5 6 7 8 15 16): -2.4458253383636475	 ([( ticker )][third][seed][mario][ancic][millennium][international.])
+v(0 1 2 12 13 14): 0.03902435302734375	 ([delray][beach,][fla.][bottom][half][draw])
+v(4 9 10 11): 8.566628456115723	 ([- -][seeded][player][remaining])
+v(0 1 2 3 5 6 7 8 12 13 14 15 16): 9.276778221130371	 ([delray][beach,][fla.][( ticker )][third][seed][mario][ancic][bottom][half][draw][millennium][international.])
+v(3 4 5 6 7 8 9 10 11 15 16): 9.078213691711426	 ([( ticker )][- -][third][seed][mario][ancic][seeded][player][remaining][millennium][international.])
+v(0 1 2 4 9 10 11 12 13 14): 9.551007270812988	 ([delray][beach,][fla.][- -][seeded][player][remaining][bottom][half][draw])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.555113792419434	 ([delray][beach,][fla.][( ticker )][- -][third][seed][mario][ancic][seeded][player][remaining][bottom][half][draw][millennium][international.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 11.923372268676758, EP: 1.0	 ([delray][beach,][fla.][( ticker )][- -][third][seed][mario][ancic][seeded][player][remaining][bottom][half][draw][millennium][international.])
+v(0 1 2 4 9 10 11 12 13 14): 11.919265747070312, EP: 0.9996556043624878	 ([delray][beach,][fla.][- -][seeded][player][remaining][bottom][half][draw])
+v(0 1 2 3 5 6 7 8 12 13 14 15 16): 11.645036697387695, EP: 0.9766563177108765	 ([delray][beach,][fla.][( ticker )][third][seed][mario][ancic][bottom][half][draw][millennium][international.])
+v(3 4 5 6 7 8 9 10 11 15 16): 11.44647216796875, EP: 0.9600028991699219	 ([( ticker )][- -][third][seed][mario][ancic][seeded][player][remaining][millennium][international.])
+v(4 9 10 11): 10.934886932373047, EP: 0.9170968532562256	 ([- -][seeded][player][remaining])
+v(0 1 2 12 13 14): 2.407282829284668, EP: 0.20189614593982697	 ([delray][beach,][fla.][bottom][half][draw])
+v(3 5 6 7 8 15 16): -0.07756686210632324, EP: -0.006505446508526802	 ([( ticker )][third][seed][mario][ancic][millennium][international.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

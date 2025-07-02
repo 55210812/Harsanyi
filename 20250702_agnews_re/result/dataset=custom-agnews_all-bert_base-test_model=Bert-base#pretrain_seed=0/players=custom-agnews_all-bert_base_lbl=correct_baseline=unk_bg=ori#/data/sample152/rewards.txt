@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: equatorial
+Player 1: guinea
+Player 2: prosecutors
+Player 3: asked
+Player 4: south
+Player 5: africa
+Player 6: permission
+Player 7: question
+Player 8: mark
+Player 9: thatcher,
+Player 10: arrested
+Player 11: cape
+Player 12: town
+Player 13: last
+Player 14: week
+Player 15: suspicion
+Player 16: bankrolling
+Player 17: failed
+Player 18: plan
+Player 19: overthrow
+---------- Rewards ----------
+v(): -4.45112419128418	 ([])
+v(7 8 9 18): 7.910238265991211	 ([question][mark][thatcher,][plan])
+v(1 4 5 12): 2.949026584625244	 ([guinea][south][africa][town])
+v(0 2 6 10 19): 7.1428937911987305	 ([equatorial][prosecutors][permission][arrested][overthrow])
+v(3 11 13 14 15 16 17): -1.7667944431304932	 ([asked][cape][last][week][suspicion][bankrolling][failed])
+v(1 4 5 7 8 9 12 18): 7.989952564239502	 ([guinea][south][africa][question][mark][thatcher,][town][plan])
+v(0 2 6 7 8 9 10 18 19): 8.366048812866211	 ([equatorial][prosecutors][permission][question][mark][thatcher,][arrested][plan][overthrow])
+v(3 7 8 9 11 13 14 15 16 17 18): 7.673330307006836	 ([asked][question][mark][thatcher,][cape][last][week][suspicion][bankrolling][failed][plan])
+v(0 1 2 4 5 6 10 12 19): 7.602819442749023	 ([equatorial][guinea][prosecutors][south][africa][permission][arrested][town][overthrow])
+v(1 3 4 5 11 12 13 14 15 16 17): 1.7585166692733765	 ([guinea][asked][south][africa][cape][town][last][week][suspicion][bankrolling][failed])
+v(0 2 3 6 10 11 13 14 15 16 17 19): 7.983643054962158	 ([equatorial][prosecutors][asked][permission][arrested][cape][last][week][suspicion][bankrolling][failed][overthrow])
+v(0 1 2 4 5 6 7 8 9 10 12 18 19): 8.244831085205078	 ([equatorial][guinea][prosecutors][south][africa][permission][question][mark][thatcher,][arrested][town][plan][overthrow])
+v(1 3 4 5 7 8 9 11 12 13 14 15 16 17 18): 7.947176933288574	 ([guinea][asked][south][africa][question][mark][thatcher,][cape][town][last][week][suspicion][bankrolling][failed][plan])
+v(0 2 3 6 7 8 9 10 11 13 14 15 16 17 18 19): 8.35025691986084	 ([equatorial][prosecutors][asked][permission][question][mark][thatcher,][arrested][cape][last][week][suspicion][bankrolling][failed][plan][overthrow])
+v(0 1 2 3 4 5 6 10 11 12 13 14 15 16 17 19): 7.966402053833008	 ([equatorial][guinea][prosecutors][asked][south][africa][permission][arrested][cape][town][last][week][suspicion][bankrolling][failed][overthrow])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.384561538696289	 ([equatorial][guinea][prosecutors][asked][south][africa][permission][question][mark][thatcher,][arrested][cape][town][last][week][suspicion][bankrolling][failed][plan][overthrow])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 12.835685729980469, EP: 1.0	 ([equatorial][guinea][prosecutors][asked][south][africa][permission][question][mark][thatcher,][arrested][cape][town][last][week][suspicion][bankrolling][failed][plan][overthrow])
+v(0 2 6 7 8 9 10 18 19): 12.81717300415039, EP: 0.9985576868057251	 ([equatorial][prosecutors][permission][question][mark][thatcher,][arrested][plan][overthrow])
+v(0 2 3 6 7 8 9 10 11 13 14 15 16 17 18 19): 12.80138111114502, EP: 0.9973273873329163	 ([equatorial][prosecutors][asked][permission][question][mark][thatcher,][arrested][cape][last][week][suspicion][bankrolling][failed][plan][overthrow])
+v(0 1 2 4 5 6 7 8 9 10 12 18 19): 12.695955276489258, EP: 0.9891139268875122	 ([equatorial][guinea][prosecutors][south][africa][permission][question][mark][thatcher,][arrested][town][plan][overthrow])
+v(1 4 5 7 8 9 12 18): 12.441076278686523, EP: 0.9692568182945251	 ([guinea][south][africa][question][mark][thatcher,][town][plan])
+v(0 2 3 6 10 11 13 14 15 16 17 19): 12.43476676940918, EP: 0.9687652587890625	 ([equatorial][prosecutors][asked][permission][arrested][cape][last][week][suspicion][bankrolling][failed][overthrow])
+v(0 1 2 3 4 5 6 10 11 12 13 14 15 16 17 19): 12.417526245117188, EP: 0.9674221277236938	 ([equatorial][guinea][prosecutors][asked][south][africa][permission][arrested][cape][town][last][week][suspicion][bankrolling][failed][overthrow])
+v(1 3 4 5 7 8 9 11 12 13 14 15 16 17 18): 12.398301124572754, EP: 0.9659243226051331	 ([guinea][asked][south][africa][question][mark][thatcher,][cape][town][last][week][suspicion][bankrolling][failed][plan])
+v(7 8 9 18): 12.36136245727539, EP: 0.9630464911460876	 ([question][mark][thatcher,][plan])
+v(3 7 8 9 11 13 14 15 16 17 18): 12.124454498291016, EP: 0.9445895552635193	 ([asked][question][mark][thatcher,][cape][last][week][suspicion][bankrolling][failed][plan])
+v(0 1 2 4 5 6 10 12 19): 12.053943634033203, EP: 0.939096212387085	 ([equatorial][guinea][prosecutors][south][africa][permission][arrested][town][overthrow])
+v(0 2 6 10 19): 11.59401798248291, EP: 0.9032644033432007	 ([equatorial][prosecutors][permission][arrested][overthrow])
+v(1 4 5 12): 7.400150775909424, EP: 0.5765294432640076	 ([guinea][south][africa][town])
+v(1 3 4 5 11 12 13 14 15 16 17): 6.209640979766846, EP: 0.4837794601917267	 ([guinea][asked][south][africa][cape][town][last][week][suspicion][bankrolling][failed])
+v(3 11 13 14 15 16 17): 2.6843297481536865, EP: 0.2091302126646042	 ([asked][cape][last][week][suspicion][bankrolling][failed])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

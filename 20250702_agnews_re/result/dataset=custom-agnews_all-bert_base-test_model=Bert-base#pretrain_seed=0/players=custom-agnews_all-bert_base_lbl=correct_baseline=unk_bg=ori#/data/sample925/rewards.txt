@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: hand
+Player 3: toggle
+Player 4: switch
+Player 5: eyes
+Player 6: computer
+Player 7: screen,
+Player 8: oregon
+Player 9: state
+Player 10: university
+Player 11: graduate
+Player 12: student
+Player 13: anthony
+Player 14: kirincich
+Player 15: uses
+Player 16: array
+Player 17: scientific
+Player 18: instruments
+Player 19: probe
+Player 20: vibrant
+Player 21: waters
+Player 22: pacific.
+Player 23: searching
+Player 24: absence
+Player 25: life.
+---------- Rewards ----------
+v(): 1.993146538734436	 ([])
+v(0 1 2 3 4 6 7 15 16 17 18 19 21 22 23 24): 7.541525840759277	 ([ap][-][hand][toggle][switch][computer][screen,][uses][array][scientific][instruments][probe][waters][pacific.][searching][absence])
+v(5 8 9 10 11 12 13 14 20 25): -1.1139421463012695	 ([eyes][oregon][state][university][graduate][student][anthony][kirincich][vibrant][life.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 7.5148396492004395	 ([ap][-][hand][toggle][switch][eyes][computer][screen,][oregon][state][university][graduate][student][anthony][kirincich][uses][array][scientific][instruments][probe][vibrant][waters][pacific.][searching][absence][life.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 6 7 15 16 17 18 19 21 22 23 24): 5.548379421234131, EP: 1.0048329830169678	 ([ap][-][hand][toggle][switch][computer][screen,][uses][array][scientific][instruments][probe][waters][pacific.][searching][absence])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 5.521693229675293, EP: 1.0	 ([ap][-][hand][toggle][switch][eyes][computer][screen,][oregon][state][university][graduate][student][anthony][kirincich][uses][array][scientific][instruments][probe][vibrant][waters][pacific.][searching][absence][life.])
+v(5 8 9 10 11 12 13 14 20 25): -3.107088565826416, EP: -0.5627057552337646	 ([eyes][oregon][state][university][graduate][student][anthony][kirincich][vibrant][life.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,51 @@
+Execution time: 2025-07-02 19:36:59
+prompt: [CLS] afp - a blockade of the nepalese capital called by maoist rebels entered a second day, causing a rise in food prices and prompting the government to declare the city had enough supplies for a month. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:21358 decoded_text: af
+idx:2 input_id:2361 decoded_text: ##p
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:1037 decoded_text: a
+idx:5 input_id:15823 decoded_text: blockade
+idx:6 input_id:1997 decoded_text: of
+idx:7 input_id:1996 decoded_text: the
+idx:8 input_id:8222 decoded_text: nepal
+idx:9 input_id:6810 decoded_text: ##ese
+idx:10 input_id:3007 decoded_text: capital
+idx:11 input_id:2170 decoded_text: called
+idx:12 input_id:2011 decoded_text: by
+idx:13 input_id:15158 decoded_text: mao
+idx:14 input_id:2923 decoded_text: ##ist
+idx:15 input_id:8431 decoded_text: rebels
+idx:16 input_id:3133 decoded_text: entered
+idx:17 input_id:1037 decoded_text: a
+idx:18 input_id:2117 decoded_text: second
+idx:19 input_id:2154 decoded_text: day
+idx:20 input_id:1010 decoded_text: ,
+idx:21 input_id:4786 decoded_text: causing
+idx:22 input_id:1037 decoded_text: a
+idx:23 input_id:4125 decoded_text: rise
+idx:24 input_id:1999 decoded_text: in
+idx:25 input_id:2833 decoded_text: food
+idx:26 input_id:7597 decoded_text: prices
+idx:27 input_id:1998 decoded_text: and
+idx:28 input_id:15870 decoded_text: prompting
+idx:29 input_id:1996 decoded_text: the
+idx:30 input_id:2231 decoded_text: government
+idx:31 input_id:2000 decoded_text: to
+idx:32 input_id:13520 decoded_text: declare
+idx:33 input_id:1996 decoded_text: the
+idx:34 input_id:2103 decoded_text: city
+idx:35 input_id:2018 decoded_text: had
+idx:36 input_id:2438 decoded_text: enough
+idx:37 input_id:6067 decoded_text: supplies
+idx:38 input_id:2005 decoded_text: for
+idx:39 input_id:1037 decoded_text: a
+idx:40 input_id:3204 decoded_text: month
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.181760311126709, -1.8606011867523193, -2.546489715576172, -2.4584617614746094]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

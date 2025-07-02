@@ -1,0 +1,28 @@
+---------- Players ----------
+Player 0: cnn
+Player 1: said
+Player 2: thursday
+Player 3: shut
+Player 4: struggling
+Player 5: cnnfn
+Player 6: financial
+Player 7: news
+Player 8: network
+Player 9: mid - december,
+Player 10: giving
+Player 11: attempt
+Player 12: compete
+Player 13: cnbc
+Player 14: nine
+Player 15: years.
+---------- Rewards ----------
+v(): -6.800872802734375	 ([])
+v(3 4 5 7 8 11 12 14 15): 7.353951454162598	 ([shut][struggling][cnnfn][news][network][attempt][compete][nine][years.])
+v(0 1 2 6 9 10 13): 7.590605735778809	 ([cnn][said][thursday][financial][mid - december,][giving][cnbc])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.921469688415527	 ([cnn][said][thursday][shut][struggling][cnnfn][financial][news][network][mid - december,][giving][attempt][compete][cnbc][nine][years.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 14.722342491149902, EP: 1.0	 ([cnn][said][thursday][shut][struggling][cnnfn][financial][news][network][mid - december,][giving][attempt][compete][cnbc][nine][years.])
+v(0 1 2 6 9 10 13): 14.391478538513184, EP: 0.9775264263153076	 ([cnn][said][thursday][financial][mid - december,][giving][cnbc])
+v(3 4 5 7 8 11 12 14 15): 14.154824256896973, EP: 0.9614518880844116	 ([shut][struggling][cnnfn][news][network][attempt][compete][nine][years.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,117 @@
+---------- Players ----------
+Player 0: washington
+Player 1: -
+Player 2: day
+Player 3: first
+Player 4: presidential
+Player 5: debate,
+Player 6: government's
+Player 7: health
+Player 8: policy
+Player 9: watchdog
+Player 10: raised
+Player 11: concerns
+Player 12: early
+Player 13: mailings
+Player 14: seniors
+Player 15: new
+Player 16: medicare
+Player 17: prescription
+Player 18: discount
+Player 19: cards
+Player 20: championed
+Player 21: president
+Player 22: bush
+Player 23: confusing
+Player 24: inadequate.
+Player 25: " we
+Player 26: found
+Player 27: beneficiaries
+Player 28: received
+Player 29: little
+Player 30: mail
+Player 31: drug
+Player 32: card
+Player 33: sponsors
+Player 34: would
+Player 35: enable
+Player 36: make
+Player 37: informed
+Player 38: choice
+Player 39: among
+Player 40: cards, "
+Player 41: health
+Player 42: human
+Player 43: services
+Player 44: department
+Player 45: inspector
+Player 46: general
+Player 47: wrote
+Player 48: sept...
+---------- Rewards ----------
+v(): -6.932822227478027	 ([])
+v(0 3 4 14 16 17 18 19 21 22 23 26 27 29 31 33 40 42): -8.499434471130371	 ([washington][first][presidential][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][little][drug][sponsors][cards, "][human])
+v(28 30 48): -5.630253314971924	 ([received][mail][sept...])
+v(41 44 45 46 47): -5.915624618530273	 ([health][department][inspector][general][wrote])
+v(5 7 8 9 10 12 15 20 24 25 32 43): -4.576236724853516	 ([debate,][health][policy][watchdog][raised][early][new][championed][inadequate.][" we][card][services])
+v(1 2 6 11 13 34 35 36 37 38 39): -6.5272016525268555	 ([-][day][government's][concerns][mailings][would][enable][make][informed][choice][among])
+v(0 3 4 14 16 17 18 19 21 22 23 26 27 28 29 30 31 33 40 42 48): -5.4455718994140625	 ([washington][first][presidential][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][received][little][mail][drug][sponsors][cards, "][human][sept...])
+v(0 3 4 14 16 17 18 19 21 22 23 26 27 29 31 33 40 41 42 44 45 46 47): -7.509411811828613	 ([washington][first][presidential][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][little][drug][sponsors][cards, "][health][human][department][inspector][general][wrote])
+v(0 3 4 5 7 8 9 10 12 14 15 16 17 18 19 20 21 22 23 24 25 26 27 29 31 32 33 40 42 43): -8.07425594329834	 ([washington][first][presidential][debate,][health][policy][watchdog][raised][early][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][little][drug][card][sponsors][cards, "][human][services])
+v(0 1 2 3 4 6 11 13 14 16 17 18 19 21 22 23 26 27 29 31 33 34 35 36 37 38 39 40 42): -4.856873989105225	 ([washington][-][day][first][presidential][government's][concerns][mailings][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][little][drug][sponsors][would][enable][make][informed][choice][among][cards, "][human])
+v(28 30 41 44 45 46 47 48): -7.694364547729492	 ([received][mail][health][department][inspector][general][wrote][sept...])
+v(5 7 8 9 10 12 15 20 24 25 28 30 32 43 48): -4.121381759643555	 ([debate,][health][policy][watchdog][raised][early][new][championed][inadequate.][" we][received][mail][card][services][sept...])
+v(1 2 6 11 13 28 30 34 35 36 37 38 39 48): 5.0551934242248535	 ([-][day][government's][concerns][mailings][received][mail][would][enable][make][informed][choice][among][sept...])
+v(5 7 8 9 10 12 15 20 24 25 32 41 43 44 45 46 47): -2.5482397079467773	 ([debate,][health][policy][watchdog][raised][early][new][championed][inadequate.][" we][card][health][services][department][inspector][general][wrote])
+v(1 2 6 11 13 34 35 36 37 38 39 41 44 45 46 47): -4.083189487457275	 ([-][day][government's][concerns][mailings][would][enable][make][informed][choice][among][health][department][inspector][general][wrote])
+v(1 2 5 6 7 8 9 10 11 12 13 15 20 24 25 32 34 35 36 37 38 39 43): 0.7580013275146484	 ([-][day][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][new][championed][inadequate.][" we][card][would][enable][make][informed][choice][among][services])
+v(0 3 4 14 16 17 18 19 21 22 23 26 27 28 29 30 31 33 40 41 42 44 45 46 47 48): -4.3247809410095215	 ([washington][first][presidential][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][received][little][mail][drug][sponsors][cards, "][health][human][department][inspector][general][wrote][sept...])
+v(0 3 4 5 7 8 9 10 12 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 40 42 43 48): -4.534695625305176	 ([washington][first][presidential][debate,][health][policy][watchdog][raised][early][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][received][little][mail][drug][card][sponsors][cards, "][human][services][sept...])
+v(0 1 2 3 4 6 11 13 14 16 17 18 19 21 22 23 26 27 28 29 30 31 33 34 35 36 37 38 39 40 42 48): 8.507407188415527	 ([washington][-][day][first][presidential][government's][concerns][mailings][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][received][little][mail][drug][sponsors][would][enable][make][informed][choice][among][cards, "][human][sept...])
+v(0 3 4 5 7 8 9 10 12 14 15 16 17 18 19 20 21 22 23 24 25 26 27 29 31 32 33 40 41 42 43 44 45 46 47): -7.850426197052002	 ([washington][first][presidential][debate,][health][policy][watchdog][raised][early][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][little][drug][card][sponsors][cards, "][health][human][services][department][inspector][general][wrote])
+v(0 1 2 3 4 6 11 13 14 16 17 18 19 21 22 23 26 27 29 31 33 34 35 36 37 38 39 40 41 42 44 45 46 47): -3.198730945587158	 ([washington][-][day][first][presidential][government's][concerns][mailings][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][little][drug][sponsors][would][enable][make][informed][choice][among][cards, "][health][human][department][inspector][general][wrote])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 29 31 32 33 34 35 36 37 38 39 40 42 43): -0.6008188724517822	 ([washington][-][day][first][presidential][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][little][drug][card][sponsors][would][enable][make][informed][choice][among][cards, "][human][services])
+v(5 7 8 9 10 12 15 20 24 25 28 30 32 41 43 44 45 46 47 48): -4.403868198394775	 ([debate,][health][policy][watchdog][raised][early][new][championed][inadequate.][" we][received][mail][card][health][services][department][inspector][general][wrote][sept...])
+v(1 2 6 11 13 28 30 34 35 36 37 38 39 41 44 45 46 47 48): 4.376472473144531	 ([-][day][government's][concerns][mailings][received][mail][would][enable][make][informed][choice][among][health][department][inspector][general][wrote][sept...])
+v(1 2 5 6 7 8 9 10 11 12 13 15 20 24 25 28 30 32 34 35 36 37 38 39 43 48): 6.94163179397583	 ([-][day][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][new][championed][inadequate.][" we][received][mail][card][would][enable][make][informed][choice][among][services][sept...])
+v(1 2 5 6 7 8 9 10 11 12 13 15 20 24 25 32 34 35 36 37 38 39 41 43 44 45 46 47): 0.9754221439361572	 ([-][day][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][new][championed][inadequate.][" we][card][would][enable][make][informed][choice][among][health][services][department][inspector][general][wrote])
+v(0 3 4 5 7 8 9 10 12 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 40 41 42 43 44 45 46 47 48): -2.6896142959594727	 ([washington][first][presidential][debate,][health][policy][watchdog][raised][early][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][received][little][mail][drug][card][sponsors][cards, "][health][human][services][department][inspector][general][wrote][sept...])
+v(0 1 2 3 4 6 11 13 14 16 17 18 19 21 22 23 26 27 28 29 30 31 33 34 35 36 37 38 39 40 41 42 44 45 46 47 48): 8.470489501953125	 ([washington][-][day][first][presidential][government's][concerns][mailings][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][received][little][mail][drug][sponsors][would][enable][make][informed][choice][among][cards, "][health][human][department][inspector][general][wrote][sept...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 42 43 48): 8.433481216430664	 ([washington][-][day][first][presidential][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][received][little][mail][drug][card][sponsors][would][enable][make][informed][choice][among][cards, "][human][services][sept...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 29 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47): -1.5077458620071411	 ([washington][-][day][first][presidential][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][little][drug][card][sponsors][would][enable][make][informed][choice][among][cards, "][health][human][services][department][inspector][general][wrote])
+v(1 2 5 6 7 8 9 10 11 12 13 15 20 24 25 28 30 32 34 35 36 37 38 39 41 43 44 45 46 47 48): 6.223773002624512	 ([-][day][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][new][championed][inadequate.][" we][received][mail][card][would][enable][make][informed][choice][among][health][services][department][inspector][general][wrote][sept...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48): 8.444880485534668	 ([washington][-][day][first][presidential][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][received][little][mail][drug][card][sponsors][would][enable][make][informed][choice][among][cards, "][health][human][services][department][inspector][general][wrote][sept...])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 6 11 13 14 16 17 18 19 21 22 23 26 27 28 29 30 31 33 34 35 36 37 38 39 40 42 48): 15.440229415893555, EP: 1.0040661096572876	 ([washington][-][day][first][presidential][government's][concerns][mailings][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][received][little][mail][drug][sponsors][would][enable][make][informed][choice][among][cards, "][human][sept...])
+v(0 1 2 3 4 6 11 13 14 16 17 18 19 21 22 23 26 27 28 29 30 31 33 34 35 36 37 38 39 40 41 42 44 45 46 47 48): 15.403311729431152, EP: 1.0016653537750244	 ([washington][-][day][first][presidential][government's][concerns][mailings][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][received][little][mail][drug][sponsors][would][enable][make][informed][choice][among][cards, "][health][human][department][inspector][general][wrote][sept...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48): 15.377702713012695, EP: 1.0	 ([washington][-][day][first][presidential][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][received][little][mail][drug][card][sponsors][would][enable][make][informed][choice][among][cards, "][health][human][services][department][inspector][general][wrote][sept...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 42 43 48): 15.366303443908691, EP: 0.9992586970329285	 ([washington][-][day][first][presidential][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][received][little][mail][drug][card][sponsors][would][enable][make][informed][choice][among][cards, "][human][services][sept...])
+v(1 2 5 6 7 8 9 10 11 12 13 15 20 24 25 28 30 32 34 35 36 37 38 39 43 48): 13.874454498291016, EP: 0.9022449254989624	 ([-][day][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][new][championed][inadequate.][" we][received][mail][card][would][enable][make][informed][choice][among][services][sept...])
+v(1 2 5 6 7 8 9 10 11 12 13 15 20 24 25 28 30 32 34 35 36 37 38 39 41 43 44 45 46 47 48): 13.156595230102539, EP: 0.8555631041526794	 ([-][day][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][new][championed][inadequate.][" we][received][mail][card][would][enable][make][informed][choice][among][health][services][department][inspector][general][wrote][sept...])
+v(1 2 6 11 13 28 30 34 35 36 37 38 39 48): 11.988016128540039, EP: 0.7795713543891907	 ([-][day][government's][concerns][mailings][received][mail][would][enable][make][informed][choice][among][sept...])
+v(1 2 6 11 13 28 30 34 35 36 37 38 39 41 44 45 46 47 48): 11.309294700622559, EP: 0.7354345917701721	 ([-][day][government's][concerns][mailings][received][mail][would][enable][make][informed][choice][among][health][department][inspector][general][wrote][sept...])
+v(1 2 5 6 7 8 9 10 11 12 13 15 20 24 25 32 34 35 36 37 38 39 41 43 44 45 46 47): 7.9082441329956055, EP: 0.5142669677734375	 ([-][day][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][new][championed][inadequate.][" we][card][would][enable][make][informed][choice][among][health][services][department][inspector][general][wrote])
+v(1 2 5 6 7 8 9 10 11 12 13 15 20 24 25 32 34 35 36 37 38 39 43): 7.690823554992676, EP: 0.5001282691955566	 ([-][day][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][new][championed][inadequate.][" we][card][would][enable][make][informed][choice][among][services])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 29 31 32 33 34 35 36 37 38 39 40 42 43): 6.332003593444824, EP: 0.4117652475833893	 ([washington][-][day][first][presidential][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][little][drug][card][sponsors][would][enable][make][informed][choice][among][cards, "][human][services])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 29 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47): 5.425076484680176, EP: 0.3527884781360626	 ([washington][-][day][first][presidential][debate,][government's][health][policy][watchdog][raised][concerns][early][mailings][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][little][drug][card][sponsors][would][enable][make][informed][choice][among][cards, "][health][human][services][department][inspector][general][wrote])
+v(5 7 8 9 10 12 15 20 24 25 32 41 43 44 45 46 47): 4.38458251953125, EP: 0.2851259708404541	 ([debate,][health][policy][watchdog][raised][early][new][championed][inadequate.][" we][card][health][services][department][inspector][general][wrote])
+v(0 3 4 5 7 8 9 10 12 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 40 41 42 43 44 45 46 47 48): 4.243207931518555, EP: 0.2759324908256531	 ([washington][first][presidential][debate,][health][policy][watchdog][raised][early][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][received][little][mail][drug][card][sponsors][cards, "][health][human][services][department][inspector][general][wrote][sept...])
+v(0 1 2 3 4 6 11 13 14 16 17 18 19 21 22 23 26 27 29 31 33 34 35 36 37 38 39 40 41 42 44 45 46 47): 3.734091281890869, EP: 0.24282504618167877	 ([washington][-][day][first][presidential][government's][concerns][mailings][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][little][drug][sponsors][would][enable][make][informed][choice][among][cards, "][health][human][department][inspector][general][wrote])
+v(1 2 6 11 13 34 35 36 37 38 39 41 44 45 46 47): 2.849632740020752, EP: 0.18530939519405365	 ([-][day][government's][concerns][mailings][would][enable][make][informed][choice][among][health][department][inspector][general][wrote])
+v(5 7 8 9 10 12 15 20 24 25 28 30 32 43 48): 2.8114404678344727, EP: 0.18282577395439148	 ([debate,][health][policy][watchdog][raised][early][new][championed][inadequate.][" we][received][mail][card][services][sept...])
+v(0 3 4 14 16 17 18 19 21 22 23 26 27 28 29 30 31 33 40 41 42 44 45 46 47 48): 2.608041286468506, EP: 0.16959889233112335	 ([washington][first][presidential][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][received][little][mail][drug][sponsors][cards, "][health][human][department][inspector][general][wrote][sept...])
+v(5 7 8 9 10 12 15 20 24 25 28 30 32 41 43 44 45 46 47 48): 2.528954029083252, EP: 0.16445590555667877	 ([debate,][health][policy][watchdog][raised][early][new][championed][inadequate.][" we][received][mail][card][health][services][department][inspector][general][wrote][sept...])
+v(0 3 4 5 7 8 9 10 12 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 40 42 43 48): 2.3981266021728516, EP: 0.15594829618930817	 ([washington][first][presidential][debate,][health][policy][watchdog][raised][early][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][received][little][mail][drug][card][sponsors][cards, "][human][services][sept...])
+v(5 7 8 9 10 12 15 20 24 25 32 43): 2.3565855026245117, EP: 0.1532469093799591	 ([debate,][health][policy][watchdog][raised][early][new][championed][inadequate.][" we][card][services])
+v(0 1 2 3 4 6 11 13 14 16 17 18 19 21 22 23 26 27 29 31 33 34 35 36 37 38 39 40 42): 2.0759482383728027, EP: 0.13499729335308075	 ([washington][-][day][first][presidential][government's][concerns][mailings][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][little][drug][sponsors][would][enable][make][informed][choice][among][cards, "][human])
+v(0 3 4 14 16 17 18 19 21 22 23 26 27 29 31 33 40 42): -1.5666122436523438, EP: -0.10187557339668274	 ([washington][first][presidential][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][little][drug][sponsors][cards, "][human])
+v(0 3 4 14 16 17 18 19 21 22 23 26 27 28 29 30 31 33 40 42 48): 1.4872503280639648, EP: 0.09671472758054733	 ([washington][first][presidential][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][received][little][mail][drug][sponsors][cards, "][human][sept...])
+v(28 30 48): 1.3025689125061035, EP: 0.08470503985881805	 ([received][mail][sept...])
+v(0 3 4 5 7 8 9 10 12 14 15 16 17 18 19 20 21 22 23 24 25 26 27 29 31 32 33 40 42 43): -1.1414337158203125, EP: -0.07422654330730438	 ([washington][first][presidential][debate,][health][policy][watchdog][raised][early][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][little][drug][card][sponsors][cards, "][human][services])
+v(41 44 45 46 47): 1.017197608947754, EP: 0.0661475658416748	 ([health][department][inspector][general][wrote])
+v(0 3 4 5 7 8 9 10 12 14 15 16 17 18 19 20 21 22 23 24 25 26 27 29 31 32 33 40 41 42 43 44 45 46 47): -0.9176039695739746, EP: -0.0596710704267025	 ([washington][first][presidential][debate,][health][policy][watchdog][raised][early][seniors][new][medicare][prescription][discount][cards][championed][president][bush][confusing][inadequate.][" we][found][beneficiaries][little][drug][card][sponsors][cards, "][health][human][services][department][inspector][general][wrote])
+v(28 30 41 44 45 46 47 48): -0.7615423202514648, EP: -0.04952250421047211	 ([received][mail][health][department][inspector][general][wrote][sept...])
+v(0 3 4 14 16 17 18 19 21 22 23 26 27 29 31 33 40 41 42 44 45 46 47): -0.5765895843505859, EP: -0.037495169788599014	 ([washington][first][presidential][seniors][medicare][prescription][discount][cards][president][bush][confusing][found][beneficiaries][little][drug][sponsors][cards, "][health][human][department][inspector][general][wrote])
+v(1 2 6 11 13 34 35 36 37 38 39): 0.4056205749511719, EP: 0.02637718990445137	 ([-][day][government's][concerns][mailings][would][enable][make][informed][choice][among])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

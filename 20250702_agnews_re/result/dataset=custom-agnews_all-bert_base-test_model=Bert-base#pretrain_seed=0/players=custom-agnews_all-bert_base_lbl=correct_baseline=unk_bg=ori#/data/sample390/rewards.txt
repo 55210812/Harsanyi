@@ -1,0 +1,91 @@
+---------- Players ----------
+Player 0: port - au - prince
+Player 1: :
+Player 2: disaster
+Player 3: relief
+Player 4: crews
+Player 5: battled
+Player 6: get
+Player 7: emergency
+Player 8: aid
+Player 9: 170, 000
+Player 10: people
+Player 11: affected
+Player 12: floods
+Player 13: killed
+Player 14: 700
+Player 15: haiti,
+Player 16: caribbean
+Player 17: nation
+Player 18: ranks
+Player 19: among
+Player 20: world
+Player 21: # 39 ; s
+Player 22: poorest.
+---------- Rewards ----------
+v(): -6.665701866149902	 ([])
+v(0 1 11 15 16 17): 2.730447769165039	 ([port - au - prince][:][affected][haiti,][caribbean][nation])
+v(12 13 14 19): 5.777694225311279	 ([floods][killed][700][among])
+v(4 5): -1.0045907497406006	 ([crews][battled])
+v(18 20 21 22): -2.651573896408081	 ([ranks][world][# 39 ; s][poorest.])
+v(2 3 6 7 8 9 10): 2.1519954204559326	 ([disaster][relief][get][emergency][aid][170, 000][people])
+v(0 1 11 12 13 14 15 16 17 19): 8.230525016784668	 ([port - au - prince][:][affected][floods][killed][700][haiti,][caribbean][nation][among])
+v(0 1 4 5 11 15 16 17): 5.653367042541504	 ([port - au - prince][:][crews][battled][affected][haiti,][caribbean][nation])
+v(0 1 11 15 16 17 18 20 21 22): 3.7608137130737305	 ([port - au - prince][:][affected][haiti,][caribbean][nation][ranks][world][# 39 ; s][poorest.])
+v(0 1 2 3 6 7 8 9 10 11 15 16 17): 6.822151184082031	 ([port - au - prince][:][disaster][relief][get][emergency][aid][170, 000][people][affected][haiti,][caribbean][nation])
+v(4 5 12 13 14 19): 6.400351047515869	 ([crews][battled][floods][killed][700][among])
+v(12 13 14 18 19 20 21 22): 7.166058540344238	 ([floods][killed][700][ranks][among][world][# 39 ; s][poorest.])
+v(2 3 6 7 8 9 10 12 13 14 19): 6.918628692626953	 ([disaster][relief][get][emergency][aid][170, 000][people][floods][killed][700][among])
+v(4 5 18 20 21 22): 1.177250623703003	 ([crews][battled][ranks][world][# 39 ; s][poorest.])
+v(2 3 4 5 6 7 8 9 10): 4.350805759429932	 ([disaster][relief][crews][battled][get][emergency][aid][170, 000][people])
+v(2 3 6 7 8 9 10 18 20 21 22): 4.486545085906982	 ([disaster][relief][get][emergency][aid][170, 000][people][ranks][world][# 39 ; s][poorest.])
+v(0 1 4 5 11 12 13 14 15 16 17 19): 8.16299057006836	 ([port - au - prince][:][crews][battled][affected][floods][killed][700][haiti,][caribbean][nation][among])
+v(0 1 11 12 13 14 15 16 17 18 19 20 21 22): 8.231241226196289	 ([port - au - prince][:][affected][floods][killed][700][haiti,][caribbean][nation][ranks][among][world][# 39 ; s][poorest.])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 19): 8.068334579467773	 ([port - au - prince][:][disaster][relief][get][emergency][aid][170, 000][people][affected][floods][killed][700][haiti,][caribbean][nation][among])
+v(0 1 4 5 11 15 16 17 18 20 21 22): 5.421822547912598	 ([port - au - prince][:][crews][battled][affected][haiti,][caribbean][nation][ranks][world][# 39 ; s][poorest.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 15 16 17): 7.354690074920654	 ([port - au - prince][:][disaster][relief][crews][battled][get][emergency][aid][170, 000][people][affected][haiti,][caribbean][nation])
+v(0 1 2 3 6 7 8 9 10 11 15 16 17 18 20 21 22): 6.917137622833252	 ([port - au - prince][:][disaster][relief][get][emergency][aid][170, 000][people][affected][haiti,][caribbean][nation][ranks][world][# 39 ; s][poorest.])
+v(4 5 12 13 14 18 19 20 21 22): 7.0660529136657715	 ([crews][battled][floods][killed][700][ranks][among][world][# 39 ; s][poorest.])
+v(2 3 4 5 6 7 8 9 10 12 13 14 19): 7.130070686340332	 ([disaster][relief][crews][battled][get][emergency][aid][170, 000][people][floods][killed][700][among])
+v(2 3 6 7 8 9 10 12 13 14 18 19 20 21 22): 7.025060653686523	 ([disaster][relief][get][emergency][aid][170, 000][people][floods][killed][700][ranks][among][world][# 39 ; s][poorest.])
+v(2 3 4 5 6 7 8 9 10 18 20 21 22): 5.48824405670166	 ([disaster][relief][crews][battled][get][emergency][aid][170, 000][people][ranks][world][# 39 ; s][poorest.])
+v(0 1 4 5 11 12 13 14 15 16 17 18 19 20 21 22): 8.079436302185059	 ([port - au - prince][:][crews][battled][affected][floods][killed][700][haiti,][caribbean][nation][ranks][among][world][# 39 ; s][poorest.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 19): 8.04623794555664	 ([port - au - prince][:][disaster][relief][crews][battled][get][emergency][aid][170, 000][people][affected][floods][killed][700][haiti,][caribbean][nation][among])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.060256004333496	 ([port - au - prince][:][disaster][relief][get][emergency][aid][170, 000][people][affected][floods][killed][700][haiti,][caribbean][nation][ranks][among][world][# 39 ; s][poorest.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 15 16 17 18 20 21 22): 7.1432294845581055	 ([port - au - prince][:][disaster][relief][crews][battled][get][emergency][aid][170, 000][people][affected][haiti,][caribbean][nation][ranks][world][# 39 ; s][poorest.])
+v(2 3 4 5 6 7 8 9 10 12 13 14 18 19 20 21 22): 6.9824395179748535	 ([disaster][relief][crews][battled][get][emergency][aid][170, 000][people][floods][killed][700][ranks][among][world][# 39 ; s][poorest.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.058147430419922	 ([port - au - prince][:][disaster][relief][crews][battled][get][emergency][aid][170, 000][people][affected][floods][killed][700][haiti,][caribbean][nation][ranks][among][world][# 39 ; s][poorest.])
+---------- Rewards-v() ----------
+v(0 1 11 12 13 14 15 16 17 18 19 20 21 22): 14.896943092346191, EP: 1.0117560625076294	 ([port - au - prince][:][affected][floods][killed][700][haiti,][caribbean][nation][ranks][among][world][# 39 ; s][poorest.])
+v(0 1 11 12 13 14 15 16 17 19): 14.89622688293457, EP: 1.0117074251174927	 ([port - au - prince][:][affected][floods][killed][700][haiti,][caribbean][nation][among])
+v(0 1 4 5 11 12 13 14 15 16 17 19): 14.828692436218262, EP: 1.0071206092834473	 ([port - au - prince][:][crews][battled][affected][floods][killed][700][haiti,][caribbean][nation][among])
+v(0 1 4 5 11 12 13 14 15 16 17 18 19 20 21 22): 14.745138168334961, EP: 1.0014458894729614	 ([port - au - prince][:][crews][battled][affected][floods][killed][700][haiti,][caribbean][nation][ranks][among][world][# 39 ; s][poorest.])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 19): 14.734036445617676, EP: 1.0006918907165527	 ([port - au - prince][:][disaster][relief][get][emergency][aid][170, 000][people][affected][floods][killed][700][haiti,][caribbean][nation][among])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.725957870483398, EP: 1.0001431703567505	 ([port - au - prince][:][disaster][relief][get][emergency][aid][170, 000][people][affected][floods][killed][700][haiti,][caribbean][nation][ranks][among][world][# 39 ; s][poorest.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.723849296569824, EP: 1.0	 ([port - au - prince][:][disaster][relief][crews][battled][get][emergency][aid][170, 000][people][affected][floods][killed][700][haiti,][caribbean][nation][ranks][among][world][# 39 ; s][poorest.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 19): 14.711939811706543, EP: 0.999191164970398	 ([port - au - prince][:][disaster][relief][crews][battled][get][emergency][aid][170, 000][people][affected][floods][killed][700][haiti,][caribbean][nation][among])
+v(0 1 2 3 4 5 6 7 8 9 10 11 15 16 17): 14.020391464233398, EP: 0.9522232413291931	 ([port - au - prince][:][disaster][relief][crews][battled][get][emergency][aid][170, 000][people][affected][haiti,][caribbean][nation])
+v(12 13 14 18 19 20 21 22): 13.83176040649414, EP: 0.939411997795105	 ([floods][killed][700][ranks][among][world][# 39 ; s][poorest.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 15 16 17 18 20 21 22): 13.808931350708008, EP: 0.9378615021705627	 ([port - au - prince][:][disaster][relief][crews][battled][get][emergency][aid][170, 000][people][affected][haiti,][caribbean][nation][ranks][world][# 39 ; s][poorest.])
+v(2 3 4 5 6 7 8 9 10 12 13 14 19): 13.795772552490234, EP: 0.9369677901268005	 ([disaster][relief][crews][battled][get][emergency][aid][170, 000][people][floods][killed][700][among])
+v(4 5 12 13 14 18 19 20 21 22): 13.731754302978516, EP: 0.9326198697090149	 ([crews][battled][floods][killed][700][ranks][among][world][# 39 ; s][poorest.])
+v(2 3 6 7 8 9 10 12 13 14 18 19 20 21 22): 13.690762519836426, EP: 0.9298357963562012	 ([disaster][relief][get][emergency][aid][170, 000][people][floods][killed][700][ranks][among][world][# 39 ; s][poorest.])
+v(2 3 4 5 6 7 8 9 10 12 13 14 18 19 20 21 22): 13.648141860961914, EP: 0.9269411563873291	 ([disaster][relief][crews][battled][get][emergency][aid][170, 000][people][floods][killed][700][ranks][among][world][# 39 ; s][poorest.])
+v(2 3 6 7 8 9 10 12 13 14 19): 13.584330558776855, EP: 0.9226073026657104	 ([disaster][relief][get][emergency][aid][170, 000][people][floods][killed][700][among])
+v(0 1 2 3 6 7 8 9 10 11 15 16 17 18 20 21 22): 13.582839965820312, EP: 0.9225060343742371	 ([port - au - prince][:][disaster][relief][get][emergency][aid][170, 000][people][affected][haiti,][caribbean][nation][ranks][world][# 39 ; s][poorest.])
+v(0 1 2 3 6 7 8 9 10 11 15 16 17): 13.487853050231934, EP: 0.9160548448562622	 ([port - au - prince][:][disaster][relief][get][emergency][aid][170, 000][people][affected][haiti,][caribbean][nation])
+v(4 5 12 13 14 19): 13.06605339050293, EP: 0.8874074220657349	 ([crews][battled][floods][killed][700][among])
+v(12 13 14 19): 12.443395614624023, EP: 0.8451184034347534	 ([floods][killed][700][among])
+v(0 1 4 5 11 15 16 17): 12.319068908691406, EP: 0.8366744518280029	 ([port - au - prince][:][crews][battled][affected][haiti,][caribbean][nation])
+v(2 3 4 5 6 7 8 9 10 18 20 21 22): 12.153945922851562, EP: 0.8254598379135132	 ([disaster][relief][crews][battled][get][emergency][aid][170, 000][people][ranks][world][# 39 ; s][poorest.])
+v(0 1 4 5 11 15 16 17 18 20 21 22): 12.0875244140625, EP: 0.8209486603736877	 ([port - au - prince][:][crews][battled][affected][haiti,][caribbean][nation][ranks][world][# 39 ; s][poorest.])
+v(2 3 6 7 8 9 10 18 20 21 22): 11.152246475219727, EP: 0.7574273943901062	 ([disaster][relief][get][emergency][aid][170, 000][people][ranks][world][# 39 ; s][poorest.])
+v(2 3 4 5 6 7 8 9 10): 11.016508102416992, EP: 0.7482084035873413	 ([disaster][relief][crews][battled][get][emergency][aid][170, 000][people])
+v(0 1 11 15 16 17 18 20 21 22): 10.426515579223633, EP: 0.7081378698348999	 ([port - au - prince][:][affected][haiti,][caribbean][nation][ranks][world][# 39 ; s][poorest.])
+v(0 1 11 15 16 17): 9.396149635314941, EP: 0.6381585001945496	 ([port - au - prince][:][affected][haiti,][caribbean][nation])
+v(2 3 6 7 8 9 10): 8.817697525024414, EP: 0.5988717675209045	 ([disaster][relief][get][emergency][aid][170, 000][people])
+v(4 5 18 20 21 22): 7.842952728271484, EP: 0.5326700210571289	 ([crews][battled][ranks][world][# 39 ; s][poorest.])
+v(4 5): 5.661110877990723, EP: 0.38448578119277954	 ([crews][battled])
+v(18 20 21 22): 4.014127731323242, EP: 0.272627592086792	 ([ranks][world][# 39 ; s][poorest.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

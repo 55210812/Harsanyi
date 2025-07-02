@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: cars
+Player 1: approximately
+Player 2: 1
+Player 3: million
+Player 4: lines
+Player 5: software
+Player 6: code
+Player 7: 1990,
+Player 8: number
+Player 9: jump
+Player 10: 100
+Player 11: million
+Player 12: 2010,
+Player 13: according
+Player 14: anthony
+Player 15: scott,
+Player 16: cto
+Player 17: gm's
+Player 18: information
+Player 19: systems
+Player 20: services
+Player 21: organization.
+---------- Rewards ----------
+v(): 1.3389273881912231	 ([])
+v(7 12 13 14 15 16): 5.504012584686279	 ([1990,][2010,][according][anthony][scott,][cto])
+v(1 2 3 4 5 6 11 19): 5.443997859954834	 ([approximately][1][million][lines][software][code][million][systems])
+v(0 8 9 10 17 18 20 21): -2.965594530105591	 ([cars][number][jump][100][gm's][information][services][organization.])
+v(1 2 3 4 5 6 7 11 12 13 14 15 16 19): 6.076507568359375	 ([approximately][1][million][lines][software][code][1990,][million][2010,][according][anthony][scott,][cto][systems])
+v(0 7 8 9 10 12 13 14 15 16 17 18 20 21): -2.2637851238250732	 ([cars][1990,][number][jump][100][2010,][according][anthony][scott,][cto][gm's][information][services][organization.])
+v(0 1 2 3 4 5 6 8 9 10 11 17 18 19 20 21): 3.829875946044922	 ([cars][approximately][1][million][lines][software][code][number][jump][100][million][gm's][information][systems][services][organization.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 4.226154327392578	 ([cars][approximately][1][million][lines][software][code][1990,][number][jump][100][million][2010,][according][anthony][scott,][cto][gm's][information][systems][services][organization.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 6 7 11 12 13 14 15 16 19): 4.737580299377441, EP: 1.6408755779266357	 ([approximately][1][million][lines][software][code][1990,][million][2010,][according][anthony][scott,][cto][systems])
+v(0 8 9 10 17 18 20 21): -4.3045220375061035, EP: -1.49088454246521	 ([cars][number][jump][100][gm's][information][services][organization.])
+v(7 12 13 14 15 16): 4.165085315704346, EP: 1.4425901174545288	 ([1990,][2010,][according][anthony][scott,][cto])
+v(1 2 3 4 5 6 11 19): 4.1050705909729, EP: 1.4218038320541382	 ([approximately][1][million][lines][software][code][million][systems])
+v(0 7 8 9 10 12 13 14 15 16 17 18 20 21): -3.602712631225586, EP: -1.2478106021881104	 ([cars][1990,][number][jump][100][2010,][according][anthony][scott,][cto][gm's][information][services][organization.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 2.8872270584106445, EP: 1.0	 ([cars][approximately][1][million][lines][software][code][1990,][number][jump][100][million][2010,][according][anthony][scott,][cto][gm's][information][systems][services][organization.])
+v(0 1 2 3 4 5 6 8 9 10 11 17 18 19 20 21): 2.4909486770629883, EP: 0.8627477884292603	 ([cars][approximately][1][million][lines][software][code][number][jump][100][million][gm's][information][systems][services][organization.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

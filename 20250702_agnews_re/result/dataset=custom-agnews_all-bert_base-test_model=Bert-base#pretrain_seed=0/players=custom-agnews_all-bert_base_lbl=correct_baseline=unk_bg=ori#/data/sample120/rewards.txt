@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: stocks
+Player 3: may
+Player 4: come
+Player 5: pressure
+Player 6: this \ week
+Player 7: investors
+Player 8: sell
+Player 9: shares
+Player 10: year's
+Player 11: end
+Player 12: prepare
+Player 13: tax \ season.
+Player 14: crude
+Player 15: oil
+Player 16: prices,
+Player 17: earnings
+Player 18: outlooks
+Player 19: moves
+Player 20: in \ the
+Player 21: dollar
+Player 22: also
+Player 23: closely
+Player 24: watched.
+---------- Rewards ----------
+v(): -4.527165412902832	 ([])
+v(0 1 2 7 8 15 16 17 18 19 21): 7.2031707763671875	 ([reuters][-][stocks][investors][sell][oil][prices,][earnings][outlooks][moves][dollar])
+v(3 4 5 6 9 10 11 12 13 14 20 22 23 24): 6.066354274749756	 ([may][come][pressure][this \ week][shares][year's][end][prepare][tax \ season.][crude][in \ the][also][closely][watched.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 7.139617919921875	 ([reuters][-][stocks][may][come][pressure][this \ week][investors][sell][shares][year's][end][prepare][tax \ season.][crude][oil][prices,][earnings][outlooks][moves][in \ the][dollar][also][closely][watched.])
+---------- Rewards-v() ----------
+v(0 1 2 7 8 15 16 17 18 19 21): 11.73033618927002, EP: 1.0054473876953125	 ([reuters][-][stocks][investors][sell][oil][prices,][earnings][outlooks][moves][dollar])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 11.666783332824707, EP: 1.0	 ([reuters][-][stocks][may][come][pressure][this \ week][investors][sell][shares][year's][end][prepare][tax \ season.][crude][oil][prices,][earnings][outlooks][moves][in \ the][dollar][also][closely][watched.])
+v(3 4 5 6 9 10 11 12 13 14 20 22 23 24): 10.59351921081543, EP: 0.9080068469047546	 ([may][come][pressure][this \ week][shares][year's][end][prepare][tax \ season.][crude][in \ the][also][closely][watched.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

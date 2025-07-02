@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: move
+Player 1: likely
+Player 2: raise
+Player 3: many
+Player 4: eyebrows
+Player 5: many
+Player 6: hopes
+Player 7: around
+Player 8: emerald
+Player 9: city,
+Player 10: seattle
+Player 11: seahawks
+Player 12: acquired
+Player 13: jerry
+Player 14: rice
+Player 15: oakland
+Player 16: raiders
+Player 17: conditional
+Player 18: seventh - round
+Player 19: draft
+Player 20: pick.
+---------- Rewards ----------
+v(): -5.5513505935668945	 ([])
+v(2 3 5 6 7 8 9 10 15 16): 6.0879058837890625	 ([raise][many][many][hopes][around][emerald][city,][seattle][oakland][raiders])
+v(11 12 14): -2.0559608936309814	 ([seahawks][acquired][rice])
+v(4 13 18 19 20): 9.6663818359375	 ([eyebrows][jerry][seventh - round][draft][pick.])
+v(0 1 17): -6.049035549163818	 ([move][likely][conditional])
+v(2 3 5 6 7 8 9 10 11 12 14 15 16): 9.491596221923828	 ([raise][many][many][hopes][around][emerald][city,][seattle][seahawks][acquired][rice][oakland][raiders])
+v(2 3 4 5 6 7 8 9 10 13 15 16 18 19 20): 9.713912010192871	 ([raise][many][eyebrows][many][hopes][around][emerald][city,][seattle][jerry][oakland][raiders][seventh - round][draft][pick.])
+v(0 1 2 3 5 6 7 8 9 10 15 16 17): 9.710575103759766	 ([move][likely][raise][many][many][hopes][around][emerald][city,][seattle][oakland][raiders][conditional])
+v(4 11 12 13 14 18 19 20): 9.734503746032715	 ([eyebrows][seahawks][acquired][jerry][rice][seventh - round][draft][pick.])
+v(0 1 11 12 14 17): 2.3028500080108643	 ([move][likely][seahawks][acquired][rice][conditional])
+v(0 1 4 13 17 18 19 20): 9.752678871154785	 ([move][likely][eyebrows][jerry][conditional][seventh - round][draft][pick.])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 19 20): 9.694099426269531	 ([raise][many][eyebrows][many][hopes][around][emerald][city,][seattle][seahawks][acquired][jerry][rice][oakland][raiders][seventh - round][draft][pick.])
+v(0 1 2 3 5 6 7 8 9 10 11 12 14 15 16 17): 9.738638877868652	 ([move][likely][raise][many][many][hopes][around][emerald][city,][seattle][seahawks][acquired][rice][oakland][raiders][conditional])
+v(0 1 2 3 4 5 6 7 8 9 10 13 15 16 17 18 19 20): 9.726984024047852	 ([move][likely][raise][many][eyebrows][many][hopes][around][emerald][city,][seattle][jerry][oakland][raiders][conditional][seventh - round][draft][pick.])
+v(0 1 4 11 12 13 14 17 18 19 20): 9.660430908203125	 ([move][likely][eyebrows][seahawks][acquired][jerry][rice][conditional][seventh - round][draft][pick.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.33053207397461	 ([move][likely][raise][many][eyebrows][many][hopes][around][emerald][city,][seattle][seahawks][acquired][jerry][rice][oakland][raiders][conditional][seventh - round][draft][pick.])
+---------- Rewards-v() ----------
+v(0 1 4 13 17 18 19 20): 15.30402946472168, EP: 1.0283664464950562	 ([move][likely][eyebrows][jerry][conditional][seventh - round][draft][pick.])
+v(0 1 2 3 5 6 7 8 9 10 11 12 14 15 16 17): 15.289989471435547, EP: 1.0274230241775513	 ([move][likely][raise][many][many][hopes][around][emerald][city,][seattle][seahawks][acquired][rice][oakland][raiders][conditional])
+v(4 11 12 13 14 18 19 20): 15.28585433959961, EP: 1.0271451473236084	 ([eyebrows][seahawks][acquired][jerry][rice][seventh - round][draft][pick.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 15 16 17 18 19 20): 15.278334617614746, EP: 1.0266399383544922	 ([move][likely][raise][many][eyebrows][many][hopes][around][emerald][city,][seattle][jerry][oakland][raiders][conditional][seventh - round][draft][pick.])
+v(2 3 4 5 6 7 8 9 10 13 15 16 18 19 20): 15.265262603759766, EP: 1.0257614850997925	 ([raise][many][eyebrows][many][hopes][around][emerald][city,][seattle][jerry][oakland][raiders][seventh - round][draft][pick.])
+v(0 1 2 3 5 6 7 8 9 10 15 16 17): 15.26192569732666, EP: 1.0255372524261475	 ([move][likely][raise][many][many][hopes][around][emerald][city,][seattle][oakland][raiders][conditional])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 19 20): 15.245450019836426, EP: 1.0244301557540894	 ([raise][many][eyebrows][many][hopes][around][emerald][city,][seattle][seahawks][acquired][jerry][rice][oakland][raiders][seventh - round][draft][pick.])
+v(4 13 18 19 20): 15.217732429504395, EP: 1.0225677490234375	 ([eyebrows][jerry][seventh - round][draft][pick.])
+v(0 1 4 11 12 13 14 17 18 19 20): 15.21178150177002, EP: 1.0221678018569946	 ([move][likely][eyebrows][seahawks][acquired][jerry][rice][conditional][seventh - round][draft][pick.])
+v(2 3 5 6 7 8 9 10 11 12 14 15 16): 15.042946815490723, EP: 1.0108228921890259	 ([raise][many][many][hopes][around][emerald][city,][seattle][seahawks][acquired][rice][oakland][raiders])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 14.881882667541504, EP: 1.0	 ([move][likely][raise][many][eyebrows][many][hopes][around][emerald][city,][seattle][seahawks][acquired][jerry][rice][oakland][raiders][conditional][seventh - round][draft][pick.])
+v(2 3 5 6 7 8 9 10 15 16): 11.639256477355957, EP: 0.7821091413497925	 ([raise][many][many][hopes][around][emerald][city,][seattle][oakland][raiders])
+v(0 1 11 12 14 17): 7.85420036315918, EP: 0.5277692675590515	 ([move][likely][seahawks][acquired][rice][conditional])
+v(11 12 14): 3.495389699935913, EP: 0.23487550020217896	 ([seahawks][acquired][rice])
+v(0 1 17): -0.49768495559692383, EP: -0.033442337065935135	 ([move][likely][conditional])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

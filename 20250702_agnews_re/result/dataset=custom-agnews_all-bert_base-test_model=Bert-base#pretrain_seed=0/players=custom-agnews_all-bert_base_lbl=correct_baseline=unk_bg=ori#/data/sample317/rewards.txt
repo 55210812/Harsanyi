@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: freescale
+Player 1: semiconductor,
+Player 2: inc.
+Player 3: ( nyse : fsl )
+Player 4: today
+Player 5: providing
+Player 6: architectural
+Player 7: details
+Player 8: powerful
+Player 9: processor
+Player 10: date :
+Player 11: mpc8641d
+Player 12: dual
+Player 13: core
+Player 14: processor.
+---------- Rewards ----------
+v(): 3.308727264404297	 ([])
+v(0 1 2 3 11): 1.4579150676727295	 ([freescale][semiconductor,][inc.][( nyse : fsl )][mpc8641d])
+v(4 9 12 13 14): 7.408080577850342	 ([today][processor][dual][core][processor.])
+v(5 6 7 8 10): 6.76534366607666	 ([providing][architectural][details][powerful][date :])
+v(0 1 2 3 4 9 11 12 13 14): 5.770982265472412	 ([freescale][semiconductor,][inc.][( nyse : fsl )][today][processor][mpc8641d][dual][core][processor.])
+v(0 1 2 3 5 6 7 8 10 11): 6.627651214599609	 ([freescale][semiconductor,][inc.][( nyse : fsl )][providing][architectural][details][powerful][date :][mpc8641d])
+v(4 5 6 7 8 9 10 12 13 14): 7.699908256530762	 ([today][providing][architectural][details][powerful][processor][date :][dual][core][processor.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 6.743902206420898	 ([freescale][semiconductor,][inc.][( nyse : fsl )][today][providing][architectural][details][powerful][processor][date :][mpc8641d][dual][core][processor.])
+---------- Rewards-v() ----------
+v(4 5 6 7 8 9 10 12 13 14): 4.391180992126465, EP: 1.27829909324646	 ([today][providing][architectural][details][powerful][processor][date :][dual][core][processor.])
+v(4 9 12 13 14): 4.099353313446045, EP: 1.1933462619781494	 ([today][processor][dual][core][processor.])
+v(5 6 7 8 10): 3.4566164016723633, EP: 1.0062416791915894	 ([providing][architectural][details][powerful][date :])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 3.4351749420166016, EP: 1.0	 ([freescale][semiconductor,][inc.][( nyse : fsl )][today][providing][architectural][details][powerful][processor][date :][mpc8641d][dual][core][processor.])
+v(0 1 2 3 5 6 7 8 10 11): 3.3189239501953125, EP: 0.9661586284637451	 ([freescale][semiconductor,][inc.][( nyse : fsl )][providing][architectural][details][powerful][date :][mpc8641d])
+v(0 1 2 3 4 9 11 12 13 14): 2.4622550010681152, EP: 0.7167772054672241	 ([freescale][semiconductor,][inc.][( nyse : fsl )][today][processor][mpc8641d][dual][core][processor.])
+v(0 1 2 3 11): -1.8508121967315674, EP: -0.53878253698349	 ([freescale][semiconductor,][inc.][( nyse : fsl )][mpc8641d])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

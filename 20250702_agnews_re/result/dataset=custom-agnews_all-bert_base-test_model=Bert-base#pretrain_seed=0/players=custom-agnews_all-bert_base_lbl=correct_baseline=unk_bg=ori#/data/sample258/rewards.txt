@@ -1,0 +1,52 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: fourteen
+Player 3: years
+Player 4: coming
+Player 5: federal
+Player 6: protection,
+Player 7: northern
+Player 8: spotted
+Player 9: owl
+Player 10: continues
+Player 11: decline
+Player 12: pacific
+Player 13: northwest,
+Player 14: study
+Player 15: shows.
+---------- Rewards ----------
+v(): 4.698254585266113	 ([])
+v(14 15): 2.314899444580078	 ([study][shows.])
+v(0 5 9 13): 6.849537372589111	 ([ap][federal][owl][northwest,])
+v(1 2 8 11): 6.164566993713379	 ([-][fourteen][spotted][decline])
+v(3 4 6 7 10 12): 1.568782091140747	 ([years][coming][protection,][northern][continues][pacific])
+v(0 5 9 13 14 15): 6.983424663543701	 ([ap][federal][owl][northwest,][study][shows.])
+v(1 2 8 11 14 15): 3.841376543045044	 ([-][fourteen][spotted][decline][study][shows.])
+v(3 4 6 7 10 12 14 15): 2.6224803924560547	 ([years][coming][protection,][northern][continues][pacific][study][shows.])
+v(0 1 2 5 8 9 11 13): 7.615843772888184	 ([ap][-][fourteen][federal][spotted][owl][decline][northwest,])
+v(0 3 4 5 6 7 9 10 12 13): 7.340123176574707	 ([ap][years][coming][federal][protection,][northern][owl][continues][pacific][northwest,])
+v(1 2 3 4 6 7 8 10 11 12): 5.483582496643066	 ([-][fourteen][years][coming][protection,][northern][spotted][continues][decline][pacific])
+v(0 1 2 5 8 9 11 13 14 15): 7.891456604003906	 ([ap][-][fourteen][federal][spotted][owl][decline][northwest,][study][shows.])
+v(0 3 4 5 6 7 9 10 12 13 14 15): 7.945865631103516	 ([ap][years][coming][federal][protection,][northern][owl][continues][pacific][northwest,][study][shows.])
+v(1 2 3 4 6 7 8 10 11 12 14 15): 6.1531877517700195	 ([-][fourteen][years][coming][protection,][northern][spotted][continues][decline][pacific][study][shows.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 7.456783771514893	 ([ap][-][fourteen][years][coming][federal][protection,][northern][spotted][owl][continues][decline][pacific][northwest,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.997742652893066	 ([ap][-][fourteen][years][coming][federal][protection,][northern][spotted][owl][continues][decline][pacific][northwest,][study][shows.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 3.299488067626953, EP: 1.0	 ([ap][-][fourteen][years][coming][federal][protection,][northern][spotted][owl][continues][decline][pacific][northwest,][study][shows.])
+v(0 3 4 5 6 7 9 10 12 13 14 15): 3.2476110458374023, EP: 0.9842772483825684	 ([ap][years][coming][federal][protection,][northern][owl][continues][pacific][northwest,][study][shows.])
+v(0 1 2 5 8 9 11 13 14 15): 3.193202018737793, EP: 0.9677870869636536	 ([ap][-][fourteen][federal][spotted][owl][decline][northwest,][study][shows.])
+v(3 4 6 7 10 12): -3.129472494125366, EP: -0.9484721422195435	 ([years][coming][protection,][northern][continues][pacific])
+v(0 1 2 5 8 9 11 13): 2.9175891876220703, EP: 0.8842551112174988	 ([ap][-][fourteen][federal][spotted][owl][decline][northwest,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 2.7585291862487793, EP: 0.8360476493835449	 ([ap][-][fourteen][years][coming][federal][protection,][northern][spotted][owl][continues][decline][pacific][northwest,])
+v(0 3 4 5 6 7 9 10 12 13): 2.6418685913085938, EP: 0.8006904721260071	 ([ap][years][coming][federal][protection,][northern][owl][continues][pacific][northwest,])
+v(14 15): -2.383355140686035, EP: -0.7223408818244934	 ([study][shows.])
+v(0 5 9 13 14 15): 2.285170078277588, EP: 0.6925832033157349	 ([ap][federal][owl][northwest,][study][shows.])
+v(0 5 9 13): 2.151282787322998, EP: 0.6520050168037415	 ([ap][federal][owl][northwest,])
+v(3 4 6 7 10 12 14 15): -2.0757741928100586, EP: -0.6291200518608093	 ([years][coming][protection,][northern][continues][pacific][study][shows.])
+v(1 2 8 11): 1.4663124084472656, EP: 0.44440603256225586	 ([-][fourteen][spotted][decline])
+v(1 2 3 4 6 7 8 10 11 12 14 15): 1.4549331665039062, EP: 0.440957248210907	 ([-][fourteen][years][coming][protection,][northern][spotted][continues][decline][pacific][study][shows.])
+v(1 2 8 11 14 15): -0.8568780422210693, EP: -0.25970029830932617	 ([-][fourteen][spotted][decline][study][shows.])
+v(1 2 3 4 6 7 8 10 11 12): 0.7853279113769531, EP: 0.2380150854587555	 ([-][fourteen][years][coming][protection,][northern][spotted][continues][decline][pacific])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

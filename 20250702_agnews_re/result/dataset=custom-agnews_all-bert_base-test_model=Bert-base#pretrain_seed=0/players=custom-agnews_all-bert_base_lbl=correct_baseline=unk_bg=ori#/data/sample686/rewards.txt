@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: moscow
+Player 1: :
+Player 2: russian
+Player 3: state
+Player 4: maintain
+Player 5: restrictions
+Player 6: foreign
+Player 7: ownership
+Player 8: gas
+Player 9: giant
+Player 10: gazprom
+Player 11: liberalisation
+Player 12: shareholding
+Player 13: structure,
+Player 14: top
+Player 15: minister
+Player 16: said.
+---------- Rewards ----------
+v(): -5.284130096435547	 ([])
+v(6 7 13): 4.556456089019775	 ([foreign][ownership][structure,])
+v(0 1 4 5 11 14 15): -6.106039047241211	 ([moscow][:][maintain][restrictions][liberalisation][top][minister])
+v(2 3 8 9 10 12 16): 7.301967144012451	 ([russian][state][gas][giant][gazprom][shareholding][said.])
+v(0 1 4 5 6 7 11 13 14 15): 0.743401050567627	 ([moscow][:][maintain][restrictions][foreign][ownership][liberalisation][structure,][top][minister])
+v(2 3 6 7 8 9 10 12 13 16): 7.238308906555176	 ([russian][state][foreign][ownership][gas][giant][gazprom][shareholding][structure,][said.])
+v(0 1 2 3 4 5 8 9 10 11 12 14 15 16): 6.3227643966674805	 ([moscow][:][russian][state][maintain][restrictions][gas][giant][gazprom][liberalisation][shareholding][top][minister][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 6.4118146896362305	 ([moscow][:][russian][state][maintain][restrictions][foreign][ownership][gas][giant][gazprom][liberalisation][shareholding][structure,][top][minister][said.])
+---------- Rewards-v() ----------
+v(2 3 8 9 10 12 16): 12.586097717285156, EP: 1.0761078596115112	 ([russian][state][gas][giant][gazprom][shareholding][said.])
+v(2 3 6 7 8 9 10 12 13 16): 12.522439002990723, EP: 1.0706650018692017	 ([russian][state][foreign][ownership][gas][giant][gazprom][shareholding][structure,][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 11.695944786071777, EP: 1.0	 ([moscow][:][russian][state][maintain][restrictions][foreign][ownership][gas][giant][gazprom][liberalisation][shareholding][structure,][top][minister][said.])
+v(0 1 2 3 4 5 8 9 10 11 12 14 15 16): 11.606894493103027, EP: 0.9923862218856812	 ([moscow][:][russian][state][maintain][restrictions][gas][giant][gazprom][liberalisation][shareholding][top][minister][said.])
+v(6 7 13): 9.840585708618164, EP: 0.8413673043251038	 ([foreign][ownership][structure,])
+v(0 1 4 5 6 7 11 13 14 15): 6.027531147003174, EP: 0.5153522491455078	 ([moscow][:][maintain][restrictions][foreign][ownership][liberalisation][structure,][top][minister])
+v(0 1 4 5 11 14 15): -0.8219089508056641, EP: -0.07027298212051392	 ([moscow][:][maintain][restrictions][liberalisation][top][minister])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

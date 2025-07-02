@@ -1,0 +1,53 @@
+---------- Players ----------
+Player 0: kathleen
+Player 1: doheny,
+Player 2: healthday
+Player 3: reporter
+Player 4: healthdaynews
+Player 5: - -
+Player 6: seems
+Player 7: seeds
+Player 8: divorce
+Player 9: sown
+Player 10: long
+Player 11: couple
+Player 12: recites
+Player 13: wedding
+Player 14: vows.
+Player 15: new
+Player 16: research
+Player 17: shows
+Player 18: certain
+Player 19: relationship
+Player 20: skills
+Player 21: - -
+Player 22: lack
+Player 23: - -
+Player 24: predict
+Player 25: whether
+Player 26: two
+Player 27: people
+Player 28: headed
+Player 29: marital
+Player 30: bliss
+Player 31: painful
+Player 32: breakup...
+---------- Rewards ----------
+v(): 5.906497001647949	 ([])
+v(8 11 12 13 14 15 16 22 23 24 25 32): 7.630311012268066	 ([divorce][couple][recites][wedding][vows.][new][research][lack][- -][predict][whether][breakup...])
+v(0 1 2 3 9 10 28 29 30 31): -3.8666863441467285	 ([kathleen][doheny,][healthday][reporter][sown][long][headed][marital][bliss][painful])
+v(4 5 6 7 17 18 19 20 21 26 27): 7.339268684387207	 ([healthdaynews][- -][seems][seeds][shows][certain][relationship][skills][- -][two][people])
+v(0 1 2 3 8 9 10 11 12 13 14 15 16 22 23 24 25 28 29 30 31 32): 7.26648473739624	 ([kathleen][doheny,][healthday][reporter][divorce][sown][long][couple][recites][wedding][vows.][new][research][lack][- -][predict][whether][headed][marital][bliss][painful][breakup...])
+v(4 5 6 7 8 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 32): 8.191449165344238	 ([healthdaynews][- -][seems][seeds][divorce][couple][recites][wedding][vows.][new][research][shows][certain][relationship][skills][- -][lack][- -][predict][whether][two][people][breakup...])
+v(0 1 2 3 4 5 6 7 9 10 17 18 19 20 21 26 27 28 29 30 31): -2.453662872314453	 ([kathleen][doheny,][healthday][reporter][healthdaynews][- -][seems][seeds][sown][long][shows][certain][relationship][skills][- -][two][people][headed][marital][bliss][painful])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32): 7.94692850112915	 ([kathleen][doheny,][healthday][reporter][healthdaynews][- -][seems][seeds][divorce][sown][long][couple][recites][wedding][vows.][new][research][shows][certain][relationship][skills][- -][lack][- -][predict][whether][two][people][headed][marital][bliss][painful][breakup...])
+---------- Rewards-v() ----------
+v(0 1 2 3 9 10 28 29 30 31): -9.773183822631836, EP: -4.789763450622559	 ([kathleen][doheny,][healthday][reporter][sown][long][headed][marital][bliss][painful])
+v(0 1 2 3 4 5 6 7 9 10 17 18 19 20 21 26 27 28 29 30 31): -8.360159873962402, EP: -4.097250938415527	 ([kathleen][doheny,][healthday][reporter][healthdaynews][- -][seems][seeds][sown][long][shows][certain][relationship][skills][- -][two][people][headed][marital][bliss][painful])
+v(4 5 6 7 8 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 32): 2.284952163696289, EP: 1.119837760925293	 ([healthdaynews][- -][seems][seeds][divorce][couple][recites][wedding][vows.][new][research][shows][certain][relationship][skills][- -][lack][- -][predict][whether][two][people][breakup...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32): 2.040431499481201, EP: 1.0	 ([kathleen][doheny,][healthday][reporter][healthdaynews][- -][seems][seeds][divorce][sown][long][couple][recites][wedding][vows.][new][research][shows][certain][relationship][skills][- -][lack][- -][predict][whether][two][people][headed][marital][bliss][painful][breakup...])
+v(8 11 12 13 14 15 16 22 23 24 25 32): 1.7238140106201172, EP: 0.844828188419342	 ([divorce][couple][recites][wedding][vows.][new][research][lack][- -][predict][whether][breakup...])
+v(4 5 6 7 17 18 19 20 21 26 27): 1.4327716827392578, EP: 0.7021905183792114	 ([healthdaynews][- -][seems][seeds][shows][certain][relationship][skills][- -][two][people])
+v(0 1 2 3 8 9 10 11 12 13 14 15 16 22 23 24 25 28 29 30 31 32): 1.359987735748291, EP: 0.6665197014808655	 ([kathleen][doheny,][healthday][reporter][divorce][sown][long][couple][recites][wedding][vows.][new][research][lack][- -][predict][whether][headed][marital][bliss][painful][breakup...])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

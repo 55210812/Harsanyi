@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 19:32:46
+prompt: [CLS] afp - iraqi labour unions making their global debut at a conference in japan are seeking tips on their tough task - - how to make workers aware of rights suppressed for years by saddam hussein. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:21358 decoded_text: af
+idx:2 input_id:2361 decoded_text: ##p
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:8956 decoded_text: iraqi
+idx:5 input_id:4428 decoded_text: labour
+idx:6 input_id:9209 decoded_text: unions
+idx:7 input_id:2437 decoded_text: making
+idx:8 input_id:2037 decoded_text: their
+idx:9 input_id:3795 decoded_text: global
+idx:10 input_id:2834 decoded_text: debut
+idx:11 input_id:2012 decoded_text: at
+idx:12 input_id:1037 decoded_text: a
+idx:13 input_id:3034 decoded_text: conference
+idx:14 input_id:1999 decoded_text: in
+idx:15 input_id:2900 decoded_text: japan
+idx:16 input_id:2024 decoded_text: are
+idx:17 input_id:6224 decoded_text: seeking
+idx:18 input_id:10247 decoded_text: tips
+idx:19 input_id:2006 decoded_text: on
+idx:20 input_id:2037 decoded_text: their
+idx:21 input_id:7823 decoded_text: tough
+idx:22 input_id:4708 decoded_text: task
+idx:23 input_id:1011 decoded_text: -
+idx:24 input_id:1011 decoded_text: -
+idx:25 input_id:2129 decoded_text: how
+idx:26 input_id:2000 decoded_text: to
+idx:27 input_id:2191 decoded_text: make
+idx:28 input_id:3667 decoded_text: workers
+idx:29 input_id:5204 decoded_text: aware
+idx:30 input_id:1997 decoded_text: of
+idx:31 input_id:2916 decoded_text: rights
+idx:32 input_id:13712 decoded_text: suppressed
+idx:33 input_id:2005 decoded_text: for
+idx:34 input_id:2086 decoded_text: years
+idx:35 input_id:2011 decoded_text: by
+idx:36 input_id:24111 decoded_text: saddam
+idx:37 input_id:16543 decoded_text: hussein
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.872518539428711, -2.957221269607544, -1.1221026182174683, -2.977593421936035]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

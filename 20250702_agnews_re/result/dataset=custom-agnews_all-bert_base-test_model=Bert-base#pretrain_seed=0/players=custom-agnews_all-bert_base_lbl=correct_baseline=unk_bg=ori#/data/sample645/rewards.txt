@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: scientists
+Player 1: say
+Player 2: one
+Player 3: thing
+Player 4: remained
+Player 5: constant
+Player 6: since
+Player 7: dr.
+Player 8: alfred
+Player 9: c.
+Player 10: kinsey's
+Player 11: work :
+Player 12: americans '
+Player 13: ambivalence
+Player 14: study
+Player 15: sexuality.
+---------- Rewards ----------
+v(): 5.1638689041137695	 ([])
+v(5 7 8 9 12 13 15): 4.814202308654785	 ([constant][dr.][alfred][c.][americans '][ambivalence][sexuality.])
+v(0 2 3 10 11 14): 7.835742950439453	 ([scientists][one][thing][kinsey's][work :][study])
+v(1 4 6): 5.170050144195557	 ([say][remained][since])
+v(0 2 3 5 7 8 9 10 11 12 13 14 15): 7.602819442749023	 ([scientists][one][thing][constant][dr.][alfred][c.][kinsey's][work :][americans '][ambivalence][study][sexuality.])
+v(1 4 5 6 7 8 9 12 13 15): 1.1783559322357178	 ([say][remained][constant][since][dr.][alfred][c.][americans '][ambivalence][sexuality.])
+v(0 1 2 3 4 6 10 11 14): 7.863352298736572	 ([scientists][say][one][thing][remained][since][kinsey's][work :][study])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 2.8312535285949707	 ([scientists][say][one][thing][remained][constant][since][dr.][alfred][c.][kinsey's][work :][americans '][ambivalence][study][sexuality.])
+---------- Rewards-v() ----------
+v(1 4 5 6 7 8 9 12 13 15): -3.9855129718780518, EP: 1.7086026668548584	 ([say][remained][constant][since][dr.][alfred][c.][americans '][ambivalence][sexuality.])
+v(0 1 2 3 4 6 10 11 14): 2.6994833946228027, EP: -1.1572775840759277	 ([scientists][say][one][thing][remained][since][kinsey's][work :][study])
+v(0 2 3 10 11 14): 2.6718740463256836, EP: -1.1454412937164307	 ([scientists][one][thing][kinsey's][work :][study])
+v(0 2 3 5 7 8 9 10 11 12 13 14 15): 2.438950538635254, EP: -1.0455862283706665	 ([scientists][one][thing][constant][dr.][alfred][c.][kinsey's][work :][americans '][ambivalence][study][sexuality.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): -2.332615375518799, EP: 1.0	 ([scientists][say][one][thing][remained][constant][since][dr.][alfred][c.][kinsey's][work :][americans '][ambivalence][study][sexuality.])
+v(5 7 8 9 12 13 15): -0.3496665954589844, EP: 0.14990323781967163	 ([constant][dr.][alfred][c.][americans '][ambivalence][sexuality.])
+v(1 4 6): 0.006181240081787109, EP: -0.0026499181985855103	 ([say][remained][since])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: gaborone
+Player 1: -
+Player 2: out - going
+Player 3: mozambican
+Player 4: president
+Player 5: joachim
+Player 6: chissano
+Player 7: expected
+Player 8: arrive
+Player 9: gaborone
+Player 10: today
+Player 11: bid
+Player 12: fare
+Player 13: well
+Player 14: president
+Player 15: festus
+Player 16: mogae
+Player 17: leaves
+Player 18: office
+Player 19: december
+Player 20: 1
+Player 21: 2
+Player 22: general
+Player 23: election.
+---------- Rewards ----------
+v(): -6.312736511230469	 ([])
+v(0 1 2 3 6 9 16 20 22): 3.110569953918457	 ([gaborone][-][out - going][mozambican][chissano][gaborone][mogae][1][general])
+v(4 5 11 12 13 14 15 18 19): 6.2280120849609375	 ([president][joachim][bid][fare][well][president][festus][office][december])
+v(7 8 10 17 21 23): 3.7782299518585205	 ([expected][arrive][today][leaves][2][election.])
+v(0 1 2 3 4 5 6 9 11 12 13 14 15 16 18 19 20 22): 6.811566352844238	 ([gaborone][-][out - going][mozambican][president][joachim][chissano][gaborone][bid][fare][well][president][festus][mogae][office][december][1][general])
+v(0 1 2 3 6 7 8 9 10 16 17 20 21 22 23): 5.08981990814209	 ([gaborone][-][out - going][mozambican][chissano][expected][arrive][gaborone][today][mogae][leaves][1][2][general][election.])
+v(4 5 7 8 10 11 12 13 14 15 17 18 19 21 23): 6.865639686584473	 ([president][joachim][expected][arrive][today][bid][fare][well][president][festus][leaves][office][december][2][election.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 6.861245155334473	 ([gaborone][-][out - going][mozambican][president][joachim][chissano][expected][arrive][gaborone][today][bid][fare][well][president][festus][mogae][leaves][office][december][1][2][general][election.])
+---------- Rewards-v() ----------
+v(4 5 7 8 10 11 12 13 14 15 17 18 19 21 23): 13.178376197814941, EP: 1.000333547592163	 ([president][joachim][expected][arrive][today][bid][fare][well][president][festus][leaves][office][december][2][election.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 13.173981666564941, EP: 1.0	 ([gaborone][-][out - going][mozambican][president][joachim][chissano][expected][arrive][gaborone][today][bid][fare][well][president][festus][mogae][leaves][office][december][1][2][general][election.])
+v(0 1 2 3 4 5 6 9 11 12 13 14 15 16 18 19 20 22): 13.124302864074707, EP: 0.9962289929389954	 ([gaborone][-][out - going][mozambican][president][joachim][chissano][gaborone][bid][fare][well][president][festus][mogae][office][december][1][general])
+v(4 5 11 12 13 14 15 18 19): 12.540748596191406, EP: 0.9519330263137817	 ([president][joachim][bid][fare][well][president][festus][office][december])
+v(0 1 2 3 6 7 8 9 10 16 17 20 21 22 23): 11.402556419372559, EP: 0.865536093711853	 ([gaborone][-][out - going][mozambican][chissano][expected][arrive][gaborone][today][mogae][leaves][1][2][general][election.])
+v(7 8 10 17 21 23): 10.09096622467041, EP: 0.7659769654273987	 ([expected][arrive][today][leaves][2][election.])
+v(0 1 2 3 6 9 16 20 22): 9.423306465148926, EP: 0.715296745300293	 ([gaborone][-][out - going][mozambican][chissano][gaborone][mogae][1][general])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

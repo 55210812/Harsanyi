@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: union
+Player 1: officials
+Player 2: representing
+Player 3: 7, 500
+Player 4: pilots
+Player 5: delta
+Player 6: air
+Player 7: lines
+Player 8: said
+Player 9: wednesday
+Player 10: night
+Player 11: reached
+Player 12: cost - cutting
+Player 13: agreement
+Player 14: management,
+Player 15: presumably
+Player 16: could
+Player 17: halt,
+Player 18: least
+---------- Rewards ----------
+v(): -5.960458755493164	 ([])
+v(4 6 7 8 9): 7.901592254638672	 ([pilots][air][lines][said][wednesday])
+v(0 1 2 3 5 14 15 18): 7.925145149230957	 ([union][officials][representing][7, 500][delta][management,][presumably][least])
+v(10 11 12 13 16 17): 3.0810647010803223	 ([night][reached][cost - cutting][agreement][could][halt,])
+v(0 1 2 3 4 5 6 7 8 9 14 15 18): 8.187174797058105	 ([union][officials][representing][7, 500][pilots][delta][air][lines][said][wednesday][management,][presumably][least])
+v(4 6 7 8 9 10 11 12 13 16 17): 8.382148742675781	 ([pilots][air][lines][said][wednesday][night][reached][cost - cutting][agreement][could][halt,])
+v(0 1 2 3 5 10 11 12 13 14 15 16 17 18): 7.923946380615234	 ([union][officials][representing][7, 500][delta][night][reached][cost - cutting][agreement][management,][presumably][could][halt,][least])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.095487594604492	 ([union][officials][representing][7, 500][pilots][delta][air][lines][said][wednesday][night][reached][cost - cutting][agreement][management,][presumably][could][halt,][least])
+---------- Rewards-v() ----------
+v(4 6 7 8 9 10 11 12 13 16 17): 14.342607498168945, EP: 1.0203943252563477	 ([pilots][air][lines][said][wednesday][night][reached][cost - cutting][agreement][could][halt,])
+v(0 1 2 3 4 5 6 7 8 9 14 15 18): 14.14763355255127, EP: 1.0065230131149292	 ([union][officials][representing][7, 500][pilots][delta][air][lines][said][wednesday][management,][presumably][least])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.055946350097656, EP: 1.0	 ([union][officials][representing][7, 500][pilots][delta][air][lines][said][wednesday][night][reached][cost - cutting][agreement][management,][presumably][could][halt,][least])
+v(0 1 2 3 5 14 15 18): 13.885603904724121, EP: 0.9878811240196228	 ([union][officials][representing][7, 500][delta][management,][presumably][least])
+v(0 1 2 3 5 10 11 12 13 14 15 16 17 18): 13.884405136108398, EP: 0.9877958297729492	 ([union][officials][representing][7, 500][delta][night][reached][cost - cutting][agreement][management,][presumably][could][halt,][least])
+v(4 6 7 8 9): 13.862051010131836, EP: 0.9862054586410522	 ([pilots][air][lines][said][wednesday])
+v(10 11 12 13 16 17): 9.041522979736328, EP: 0.6432525515556335	 ([night][reached][cost - cutting][agreement][could][halt,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

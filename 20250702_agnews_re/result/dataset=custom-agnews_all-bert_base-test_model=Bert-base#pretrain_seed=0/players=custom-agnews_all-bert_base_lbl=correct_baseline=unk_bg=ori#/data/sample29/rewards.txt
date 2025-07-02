@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: launch
+Player 1: nasa
+Player 2: # 39 ; s
+Player 3: swift
+Player 4: spacecraft
+Player 5: aboard
+Player 6: boeing
+Player 7: delta
+Player 8: ii
+Player 9: rocket
+Player 10: scheduled
+Player 11: saturday
+Player 12: nov.
+Player 13: 20
+Player 14: cape
+Player 15: canaveral
+Player 16: air
+Player 17: force
+Player 18: station
+Player 19: complex
+Player 20: 17.
+---------- Rewards ----------
+v(): 5.318450450897217	 ([])
+v(1 3 4 6 7 14): 8.25977611541748	 ([nasa][swift][spacecraft][boeing][delta][cape])
+v(2 8 13 15): 2.8134307861328125	 ([# 39 ; s][ii][20][canaveral])
+v(16 17 18 19): -5.7371368408203125	 ([air][force][station][complex])
+v(0 5 9 10 11 12 20): 7.434963226318359	 ([launch][aboard][rocket][scheduled][saturday][nov.][17.])
+v(1 2 3 4 6 7 8 13 14 15): 8.327564239501953	 ([nasa][# 39 ; s][swift][spacecraft][boeing][delta][ii][20][cape][canaveral])
+v(1 3 4 6 7 14 16 17 18 19): 8.326371192932129	 ([nasa][swift][spacecraft][boeing][delta][cape][air][force][station][complex])
+v(0 1 3 4 5 6 7 9 10 11 12 14 20): 7.345466136932373	 ([launch][nasa][swift][spacecraft][aboard][boeing][delta][rocket][scheduled][saturday][nov.][cape][17.])
+v(2 8 13 15 16 17 18 19): -6.121358871459961	 ([# 39 ; s][ii][20][canaveral][air][force][station][complex])
+v(0 2 5 8 9 10 11 12 13 15 20): 7.728321075439453	 ([launch][# 39 ; s][aboard][ii][rocket][scheduled][saturday][nov.][20][canaveral][17.])
+v(0 5 9 10 11 12 16 17 18 19 20): 7.475852966308594	 ([launch][aboard][rocket][scheduled][saturday][nov.][air][force][station][complex][17.])
+v(1 2 3 4 6 7 8 13 14 15 16 17 18 19): 8.352596282958984	 ([nasa][# 39 ; s][swift][spacecraft][boeing][delta][ii][20][cape][canaveral][air][force][station][complex])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 20): 7.986432075500488	 ([launch][nasa][# 39 ; s][swift][spacecraft][aboard][boeing][delta][ii][rocket][scheduled][saturday][nov.][20][cape][canaveral][17.])
+v(0 1 3 4 5 6 7 9 10 11 12 14 16 17 18 19 20): 7.387324333190918	 ([launch][nasa][swift][spacecraft][aboard][boeing][delta][rocket][scheduled][saturday][nov.][cape][air][force][station][complex][17.])
+v(0 2 5 8 9 10 11 12 13 15 16 17 18 19 20): 8.144000053405762	 ([launch][# 39 ; s][aboard][ii][rocket][scheduled][saturday][nov.][20][canaveral][air][force][station][complex][17.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.956414222717285	 ([launch][nasa][# 39 ; s][swift][spacecraft][aboard][boeing][delta][ii][rocket][scheduled][saturday][nov.][20][cape][canaveral][air][force][station][complex][17.])
+---------- Rewards-v() ----------
+v(2 8 13 15 16 17 18 19): -11.439809799194336, EP: -4.336606025695801	 ([# 39 ; s][ii][20][canaveral][air][force][station][complex])
+v(16 17 18 19): -11.055587768554688, EP: -4.19095516204834	 ([air][force][station][complex])
+v(1 2 3 4 6 7 8 13 14 15 16 17 18 19): 3.0341458320617676, EP: 1.1501847505569458	 ([nasa][# 39 ; s][swift][spacecraft][boeing][delta][ii][20][cape][canaveral][air][force][station][complex])
+v(1 2 3 4 6 7 8 13 14 15): 3.0091137886047363, EP: 1.1406956911087036	 ([nasa][# 39 ; s][swift][spacecraft][boeing][delta][ii][20][cape][canaveral])
+v(1 3 4 6 7 14 16 17 18 19): 3.007920742034912, EP: 1.140243411064148	 ([nasa][swift][spacecraft][boeing][delta][cape][air][force][station][complex])
+v(1 3 4 6 7 14): 2.9413256645202637, EP: 1.114998459815979	 ([nasa][swift][spacecraft][boeing][delta][cape])
+v(0 2 5 8 9 10 11 12 13 15 16 17 18 19 20): 2.825549602508545, EP: 1.0711101293563843	 ([launch][# 39 ; s][aboard][ii][rocket][scheduled][saturday][nov.][20][canaveral][air][force][station][complex][17.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 20): 2.6679816246032715, EP: 1.0113791227340698	 ([launch][nasa][# 39 ; s][swift][spacecraft][aboard][boeing][delta][ii][rocket][scheduled][saturday][nov.][20][cape][canaveral][17.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 2.6379637718200684, EP: 1.0	 ([launch][nasa][# 39 ; s][swift][spacecraft][aboard][boeing][delta][ii][rocket][scheduled][saturday][nov.][20][cape][canaveral][air][force][station][complex][17.])
+v(2 8 13 15): -2.5050196647644043, EP: -0.9496034979820251	 ([# 39 ; s][ii][20][canaveral])
+v(0 2 5 8 9 10 11 12 13 15 20): 2.4098706245422363, EP: 0.91353440284729	 ([launch][# 39 ; s][aboard][ii][rocket][scheduled][saturday][nov.][20][canaveral][17.])
+v(0 5 9 10 11 12 16 17 18 19 20): 2.157402515411377, EP: 0.8178287148475647	 ([launch][aboard][rocket][scheduled][saturday][nov.][air][force][station][complex][17.])
+v(0 5 9 10 11 12 20): 2.1165127754211426, EP: 0.8023282289505005	 ([launch][aboard][rocket][scheduled][saturday][nov.][17.])
+v(0 1 3 4 5 6 7 9 10 11 12 14 16 17 18 19 20): 2.068873882293701, EP: 0.7842692732810974	 ([launch][nasa][swift][spacecraft][aboard][boeing][delta][rocket][scheduled][saturday][nov.][cape][air][force][station][complex][17.])
+v(0 1 3 4 5 6 7 9 10 11 12 14 20): 2.0270156860351562, EP: 0.7684016227722168	 ([launch][nasa][swift][spacecraft][aboard][boeing][delta][rocket][scheduled][saturday][nov.][cape][17.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

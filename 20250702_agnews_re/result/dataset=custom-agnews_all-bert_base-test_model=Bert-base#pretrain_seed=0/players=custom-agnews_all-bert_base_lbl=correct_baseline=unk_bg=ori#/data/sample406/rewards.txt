@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: columbia
+Player 1: native
+Player 2: former
+Player 3: astronaut
+Player 4: charles
+Player 5: bolden
+Player 6: short
+Player 7: list
+Player 8: replace
+Player 9: sean
+Player 10: okeefe,
+Player 11: resigned
+Player 12: monday
+Player 13: three
+Player 14: tumultuous
+Player 15: years
+Player 16: running
+Player 17: nations
+Player 18: space
+Player 19: program.
+---------- Rewards ----------
+v(): 1.1545110940933228	 ([])
+v(3 6 7 15 17 18 19): 8.136159896850586	 ([astronaut][short][list][years][nations][space][program.])
+v(4 5 8 9 10 11 12): -6.677482604980469	 ([charles][bolden][replace][sean][okeefe,][resigned][monday])
+v(0 1 2 13 14 16): 0.688967227935791	 ([columbia][native][former][three][tumultuous][running])
+v(3 4 5 6 7 8 9 10 11 12 15 17 18 19): 7.638800621032715	 ([astronaut][charles][bolden][short][list][replace][sean][okeefe,][resigned][monday][years][nations][space][program.])
+v(0 1 2 3 6 7 13 14 15 16 17 18 19): 8.3254976272583	 ([columbia][native][former][astronaut][short][list][three][tumultuous][years][running][nations][space][program.])
+v(0 1 2 4 5 8 9 10 11 12 13 14 16): -4.758059024810791	 ([columbia][native][former][charles][bolden][replace][sean][okeefe,][resigned][monday][three][tumultuous][running])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 6.79246711730957	 ([columbia][native][former][astronaut][charles][bolden][short][list][replace][sean][okeefe,][resigned][monday][three][tumultuous][years][running][nations][space][program.])
+---------- Rewards-v() ----------
+v(4 5 8 9 10 11 12): -7.831993579864502, EP: -1.3891547918319702	 ([charles][bolden][replace][sean][okeefe,][resigned][monday])
+v(0 1 2 3 6 7 13 14 15 16 17 18 19): 7.170986652374268, EP: 1.2719124555587769	 ([columbia][native][former][astronaut][short][list][three][tumultuous][years][running][nations][space][program.])
+v(3 6 7 15 17 18 19): 6.981648921966553, EP: 1.2383297681808472	 ([astronaut][short][list][years][nations][space][program.])
+v(3 4 5 6 7 8 9 10 11 12 15 17 18 19): 6.484289646148682, EP: 1.150113582611084	 ([astronaut][charles][bolden][short][list][replace][sean][okeefe,][resigned][monday][years][nations][space][program.])
+v(0 1 2 4 5 8 9 10 11 12 13 14 16): -5.912569999694824, EP: -1.0487080812454224	 ([columbia][native][former][charles][bolden][replace][sean][okeefe,][resigned][monday][three][tumultuous][running])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 5.637956142425537, EP: 1.0	 ([columbia][native][former][astronaut][charles][bolden][short][list][replace][sean][okeefe,][resigned][monday][three][tumultuous][years][running][nations][space][program.])
+v(0 1 2 13 14 16): -0.46554386615753174, EP: -0.08257316052913666	 ([columbia][native][former][three][tumultuous][running])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

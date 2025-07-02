@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: pakistani
+Player 1: jet
+Player 2: fighters
+Player 3: helicopter
+Player 4: gunships
+Player 5: pounded
+Player 6: military
+Player 7: called
+Player 8: terrorist
+Player 9: training
+Player 10: camp
+Player 11: near
+Player 12: afghan
+Player 13: border
+Player 14: thursday,
+Player 15: killing
+Player 16: least
+Player 17: 50
+Player 18: mostly
+Player 19: foreign
+Player 20: militants.
+---------- Rewards ----------
+v(): -5.776338577270508	 ([])
+v(0 6 8 12 20): 7.71776008605957	 ([pakistani][military][terrorist][afghan][militants.])
+v(1 2 3 4 5 7 9 10 14): 4.033779144287109	 ([jet][fighters][helicopter][gunships][pounded][called][training][camp][thursday,])
+v(11 13 15 16 17 18 19): 0.8969849348068237	 ([near][border][killing][least][50][mostly][foreign])
+v(0 1 2 3 4 5 6 7 8 9 10 12 14 20): 7.425834655761719	 ([pakistani][jet][fighters][helicopter][gunships][pounded][military][called][terrorist][training][camp][afghan][thursday,][militants.])
+v(0 6 8 11 12 13 15 16 17 18 19 20): 7.385471820831299	 ([pakistani][military][terrorist][near][afghan][border][killing][least][50][mostly][foreign][militants.])
+v(1 2 3 4 5 7 9 10 11 13 14 15 16 17 18 19): 6.483029365539551	 ([jet][fighters][helicopter][gunships][pounded][called][training][camp][near][border][thursday,][killing][least][50][mostly][foreign])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.061662673950195	 ([pakistani][jet][fighters][helicopter][gunships][pounded][military][called][terrorist][training][camp][near][afghan][border][thursday,][killing][least][50][mostly][foreign][militants.])
+---------- Rewards-v() ----------
+v(0 6 8 12 20): 13.494098663330078, EP: 1.0511058568954468	 ([pakistani][military][terrorist][afghan][militants.])
+v(0 1 2 3 4 5 6 7 8 9 10 12 14 20): 13.202173233032227, EP: 1.0283666849136353	 ([pakistani][jet][fighters][helicopter][gunships][pounded][military][called][terrorist][training][camp][afghan][thursday,][militants.])
+v(0 6 8 11 12 13 15 16 17 18 19 20): 13.161809921264648, EP: 1.025222659111023	 ([pakistani][military][terrorist][near][afghan][border][killing][least][50][mostly][foreign][militants.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 12.838001251220703, EP: 1.0	 ([pakistani][jet][fighters][helicopter][gunships][pounded][military][called][terrorist][training][camp][near][afghan][border][thursday,][killing][least][50][mostly][foreign][militants.])
+v(1 2 3 4 5 7 9 10 11 13 14 15 16 17 18 19): 12.259367942810059, EP: 0.9549281001091003	 ([jet][fighters][helicopter][gunships][pounded][called][training][camp][near][border][thursday,][killing][least][50][mostly][foreign])
+v(1 2 3 4 5 7 9 10 14): 9.810117721557617, EP: 0.7641468048095703	 ([jet][fighters][helicopter][gunships][pounded][called][training][camp][thursday,])
+v(11 13 15 16 17 18 19): 6.673323631286621, EP: 0.5198101997375488	 ([near][border][killing][least][50][mostly][foreign])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

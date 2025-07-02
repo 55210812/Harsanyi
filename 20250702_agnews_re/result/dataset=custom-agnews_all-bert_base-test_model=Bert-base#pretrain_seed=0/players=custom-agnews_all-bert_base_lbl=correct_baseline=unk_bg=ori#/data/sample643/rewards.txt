@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: yelena
+Player 1: isinbayeva
+Player 2: russia
+Player 3: took
+Player 4: gold
+Player 5: broke
+Player 6: world
+Player 7: record
+Player 8: tuesday
+Player 9: question
+Player 10: many
+Player 11: minds
+Player 12: was :
+Player 13: long
+Player 14: pole?
+---------- Rewards ----------
+v(): -0.28146886825561523	 ([])
+v(0 1 2 3 5): 9.174304008483887	 ([yelena][isinbayeva][russia][took][broke])
+v(6 7 9 12 14): -3.1282529830932617	 ([world][record][question][was :][pole?])
+v(4 8 10 11 13): -0.873719334602356	 ([gold][tuesday][many][minds][long])
+v(0 1 2 3 5 6 7 9 12 14): 7.7233967781066895	 ([yelena][isinbayeva][russia][took][broke][world][record][question][was :][pole?])
+v(0 1 2 3 4 5 8 10 11 13): 8.06331729888916	 ([yelena][isinbayeva][russia][took][gold][broke][tuesday][many][minds][long])
+v(4 6 7 8 9 10 11 12 13 14): 0.08276987075805664	 ([gold][world][record][tuesday][question][many][minds][was :][long][pole?])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 6.579411506652832	 ([yelena][isinbayeva][russia][took][gold][broke][world][record][tuesday][question][many][minds][was :][long][pole?])
+---------- Rewards-v() ----------
+v(0 1 2 3 5): 9.455772399902344, EP: 1.3782155513763428	 ([yelena][isinbayeva][russia][took][broke])
+v(0 1 2 3 4 5 8 10 11 13): 8.344785690307617, EP: 1.216284990310669	 ([yelena][isinbayeva][russia][took][gold][broke][tuesday][many][minds][long])
+v(0 1 2 3 5 6 7 9 12 14): 8.004865646362305, EP: 1.1667402982711792	 ([yelena][isinbayeva][russia][took][broke][world][record][question][was :][pole?])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 6.860880374908447, EP: 1.0	 ([yelena][isinbayeva][russia][took][gold][broke][world][record][tuesday][question][many][minds][was :][long][pole?])
+v(6 7 9 12 14): -2.8467841148376465, EP: -0.4149298667907715	 ([world][record][question][was :][pole?])
+v(4 8 10 11 13): -0.5922504663467407, EP: -0.08632280677556992	 ([gold][tuesday][many][minds][long])
+v(4 6 7 8 9 10 11 12 13 14): 0.3642387390136719, EP: 0.053089212626218796	 ([gold][world][record][tuesday][question][many][minds][was :][long][pole?])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

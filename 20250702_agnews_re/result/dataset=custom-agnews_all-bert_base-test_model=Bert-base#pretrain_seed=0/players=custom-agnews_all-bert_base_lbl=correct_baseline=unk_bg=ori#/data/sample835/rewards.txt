@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: taiwan
+Player 3: launched
+Player 4: latest
+Player 5: bid
+Player 6: join
+Player 7: united
+Player 8: nations
+Player 9: dramatic
+Player 10: fashion
+Player 11: - -
+Player 12: knock
+Player 13: un
+Player 14: doors
+Player 15: message
+Player 16: beamed
+Player 17: outer
+Player 18: space.
+---------- Rewards ----------
+v(): -6.391918182373047	 ([])
+v(6 7 8 11): 6.338004112243652	 ([join][united][nations][- -])
+v(0 1 2 3 4 5 12): 7.032966136932373	 ([afp][-][taiwan][launched][latest][bid][knock])
+v(9 10 15 16 17 18): -7.917859077453613	 ([dramatic][fashion][message][beamed][outer][space.])
+v(13 14): -4.029763698577881	 ([un][doors])
+v(0 1 2 3 4 5 6 7 8 11 12): 7.598636627197266	 ([afp][-][taiwan][launched][latest][bid][join][united][nations][- -][knock])
+v(6 7 8 9 10 11 15 16 17 18): 6.039254665374756	 ([join][united][nations][dramatic][fashion][- -][message][beamed][outer][space.])
+v(6 7 8 11 13 14): 6.671424388885498	 ([join][united][nations][- -][un][doors])
+v(0 1 2 3 4 5 9 10 12 15 16 17 18): 5.470951557159424	 ([afp][-][taiwan][launched][latest][bid][dramatic][fashion][knock][message][beamed][outer][space.])
+v(0 1 2 3 4 5 12 13 14): 7.239508628845215	 ([afp][-][taiwan][launched][latest][bid][knock][un][doors])
+v(9 10 13 14 15 16 17 18): 0.15068912506103516	 ([dramatic][fashion][un][doors][message][beamed][outer][space.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 15 16 17 18): 7.733708381652832	 ([afp][-][taiwan][launched][latest][bid][join][united][nations][dramatic][fashion][- -][knock][message][beamed][outer][space.])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14): 7.787894248962402	 ([afp][-][taiwan][launched][latest][bid][join][united][nations][- -][knock][un][doors])
+v(6 7 8 9 10 11 13 14 15 16 17 18): 6.970486640930176	 ([join][united][nations][dramatic][fashion][- -][un][doors][message][beamed][outer][space.])
+v(0 1 2 3 4 5 9 10 12 13 14 15 16 17 18): 6.898290157318115	 ([afp][-][taiwan][launched][latest][bid][dramatic][fashion][knock][un][doors][message][beamed][outer][space.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.848508834838867	 ([afp][-][taiwan][launched][latest][bid][join][united][nations][dramatic][fashion][- -][knock][un][doors][message][beamed][outer][space.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.240427017211914, EP: 1.0	 ([afp][-][taiwan][launched][latest][bid][join][united][nations][dramatic][fashion][- -][knock][un][doors][message][beamed][outer][space.])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14): 14.17981243133545, EP: 0.9957435131072998	 ([afp][-][taiwan][launched][latest][bid][join][united][nations][- -][knock][un][doors])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 15 16 17 18): 14.125626564025879, EP: 0.9919384121894836	 ([afp][-][taiwan][launched][latest][bid][join][united][nations][dramatic][fashion][- -][knock][message][beamed][outer][space.])
+v(0 1 2 3 4 5 6 7 8 11 12): 13.990554809570312, EP: 0.9824533462524414	 ([afp][-][taiwan][launched][latest][bid][join][united][nations][- -][knock])
+v(0 1 2 3 4 5 12 13 14): 13.631426811218262, EP: 0.9572344422340393	 ([afp][-][taiwan][launched][latest][bid][knock][un][doors])
+v(0 1 2 3 4 5 12): 13.424884796142578, EP: 0.9427304863929749	 ([afp][-][taiwan][launched][latest][bid][knock])
+v(6 7 8 9 10 11 13 14 15 16 17 18): 13.362404823303223, EP: 0.9383429884910583	 ([join][united][nations][dramatic][fashion][- -][un][doors][message][beamed][outer][space.])
+v(0 1 2 3 4 5 9 10 12 13 14 15 16 17 18): 13.29020881652832, EP: 0.933273196220398	 ([afp][-][taiwan][launched][latest][bid][dramatic][fashion][knock][un][doors][message][beamed][outer][space.])
+v(6 7 8 11 13 14): 13.063343048095703, EP: 0.9173420667648315	 ([join][united][nations][- -][un][doors])
+v(6 7 8 11): 12.7299222946167, EP: 0.8939284086227417	 ([join][united][nations][- -])
+v(6 7 8 9 10 11 15 16 17 18): 12.431173324584961, EP: 0.872949481010437	 ([join][united][nations][dramatic][fashion][- -][message][beamed][outer][space.])
+v(0 1 2 3 4 5 9 10 12 15 16 17 18): 11.862869262695312, EP: 0.8330416679382324	 ([afp][-][taiwan][launched][latest][bid][dramatic][fashion][knock][message][beamed][outer][space.])
+v(9 10 13 14 15 16 17 18): 6.542607307434082, EP: 0.4594389796257019	 ([dramatic][fashion][un][doors][message][beamed][outer][space.])
+v(13 14): 2.362154483795166, EP: 0.16587665677070618	 ([un][doors])
+v(9 10 15 16 17 18): -1.5259408950805664, EP: -0.10715555399656296	 ([dramatic][fashion][message][beamed][outer][space.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

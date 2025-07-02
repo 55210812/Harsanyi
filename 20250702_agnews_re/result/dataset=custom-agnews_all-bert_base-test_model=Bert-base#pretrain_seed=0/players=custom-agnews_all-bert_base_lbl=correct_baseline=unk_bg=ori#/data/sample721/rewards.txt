@@ -1,0 +1,63 @@
+---------- Players ----------
+Player 0: columnist
+Player 1: adam
+Player 2: l.
+Player 3: penenberg
+Player 4: wishes
+Player 5: could
+Player 6: snap
+Player 7: fingers
+Player 8: change
+Player 9: media
+Player 10: landscape
+Player 11: better.
+Player 12: among
+Player 13: 2005
+Player 14: wishes :
+Player 15: getting
+Player 16: bloggers
+Player 17: actually
+Player 18: break
+Player 19: news,
+Player 20: abolishing
+Player 21: fcc
+Player 22: making
+Player 23: news
+Player 24: organizations
+Player 25: watchdogs
+Player 26: again.
+---------- Rewards ----------
+v(): 0.11475199460983276	 ([])
+v(3 4 5 12 13 14 15 16 21): 4.586728096008301	 ([penenberg][wishes][could][among][2005][wishes :][getting][bloggers][fcc])
+v(0 6 19 20 22 24 25 26): 0.9733800888061523	 ([columnist][snap][news,][abolishing][making][organizations][watchdogs][again.])
+v(7 17 18): 3.6762752532958984	 ([fingers][actually][break])
+v(1 2 8 9 10 11 23): 0.8193659782409668	 ([adam][l.][change][media][landscape][better.][news])
+v(0 3 4 5 6 12 13 14 15 16 19 20 21 22 24 25 26): 5.1090240478515625	 ([columnist][penenberg][wishes][could][snap][among][2005][wishes :][getting][bloggers][news,][abolishing][fcc][making][organizations][watchdogs][again.])
+v(3 4 5 7 12 13 14 15 16 17 18 21): 6.760814666748047	 ([penenberg][wishes][could][fingers][among][2005][wishes :][getting][bloggers][actually][break][fcc])
+v(1 2 3 4 5 8 9 10 11 12 13 14 15 16 21 23): 6.845198154449463	 ([adam][l.][penenberg][wishes][could][change][media][landscape][better.][among][2005][wishes :][getting][bloggers][fcc][news])
+v(0 6 7 17 18 19 20 22 24 25 26): 1.0553545951843262	 ([columnist][snap][fingers][actually][break][news,][abolishing][making][organizations][watchdogs][again.])
+v(0 1 2 6 8 9 10 11 19 20 22 23 24 25 26): -2.8777449131011963	 ([columnist][adam][l.][snap][change][media][landscape][better.][news,][abolishing][making][news][organizations][watchdogs][again.])
+v(1 2 7 8 9 10 11 17 18 23): 0.999144434928894	 ([adam][l.][fingers][change][media][landscape][better.][actually][break][news])
+v(0 3 4 5 6 7 12 13 14 15 16 17 18 19 20 21 22 24 25 26): 5.700222969055176	 ([columnist][penenberg][wishes][could][snap][fingers][among][2005][wishes :][getting][bloggers][actually][break][news,][abolishing][fcc][making][organizations][watchdogs][again.])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 25 26): 6.241815090179443	 ([columnist][adam][l.][penenberg][wishes][could][snap][change][media][landscape][better.][among][2005][wishes :][getting][bloggers][news,][abolishing][fcc][making][news][organizations][watchdogs][again.])
+v(1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17 18 21 23): 7.717350482940674	 ([adam][l.][penenberg][wishes][could][fingers][change][media][landscape][better.][among][2005][wishes :][getting][bloggers][actually][break][fcc][news])
+v(0 1 2 6 7 8 9 10 11 17 18 19 20 22 23 24 25 26): -4.2067060470581055	 ([columnist][adam][l.][snap][fingers][change][media][landscape][better.][actually][break][news,][abolishing][making][news][organizations][watchdogs][again.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 5.907175064086914	 ([columnist][adam][l.][penenberg][wishes][could][snap][fingers][change][media][landscape][better.][among][2005][wishes :][getting][bloggers][actually][break][news,][abolishing][fcc][making][news][organizations][watchdogs][again.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17 18 21 23): 7.602598667144775, EP: 1.3125073909759521	 ([adam][l.][penenberg][wishes][could][fingers][change][media][landscape][better.][among][2005][wishes :][getting][bloggers][actually][break][fcc][news])
+v(1 2 3 4 5 8 9 10 11 12 13 14 15 16 21 23): 6.7304463386535645, EP: 1.1619396209716797	 ([adam][l.][penenberg][wishes][could][change][media][landscape][better.][among][2005][wishes :][getting][bloggers][fcc][news])
+v(3 4 5 7 12 13 14 15 16 17 18 21): 6.646062850952148, EP: 1.147371768951416	 ([penenberg][wishes][could][fingers][among][2005][wishes :][getting][bloggers][actually][break][fcc])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 25 26): 6.127063274383545, EP: 1.0577720403671265	 ([columnist][adam][l.][penenberg][wishes][could][snap][change][media][landscape][better.][among][2005][wishes :][getting][bloggers][news,][abolishing][fcc][making][news][organizations][watchdogs][again.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 5.792423248291016, EP: 1.0	 ([columnist][adam][l.][penenberg][wishes][could][snap][fingers][change][media][landscape][better.][among][2005][wishes :][getting][bloggers][actually][break][news,][abolishing][fcc][making][news][organizations][watchdogs][again.])
+v(0 3 4 5 6 7 12 13 14 15 16 17 18 19 20 21 22 24 25 26): 5.585471153259277, EP: 0.9642719030380249	 ([columnist][penenberg][wishes][could][snap][fingers][among][2005][wishes :][getting][bloggers][actually][break][news,][abolishing][fcc][making][organizations][watchdogs][again.])
+v(0 3 4 5 6 12 13 14 15 16 19 20 21 22 24 25 26): 4.994272232055664, EP: 0.8622077703475952	 ([columnist][penenberg][wishes][could][snap][among][2005][wishes :][getting][bloggers][news,][abolishing][fcc][making][organizations][watchdogs][again.])
+v(3 4 5 12 13 14 15 16 21): 4.471976280212402, EP: 0.7720389366149902	 ([penenberg][wishes][could][among][2005][wishes :][getting][bloggers][fcc])
+v(0 1 2 6 7 8 9 10 11 17 18 19 20 22 23 24 25 26): -4.321457862854004, EP: -0.7460535168647766	 ([columnist][adam][l.][snap][fingers][change][media][landscape][better.][actually][break][news,][abolishing][making][news][organizations][watchdogs][again.])
+v(7 17 18): 3.561523199081421, EP: 0.6148589253425598	 ([fingers][actually][break])
+v(0 1 2 6 8 9 10 11 19 20 22 23 24 25 26): -2.992496967315674, EP: -0.5166226625442505	 ([columnist][adam][l.][snap][change][media][landscape][better.][news,][abolishing][making][news][organizations][watchdogs][again.])
+v(0 6 7 17 18 19 20 22 24 25 26): 0.9406026005744934, EP: 0.1623849868774414	 ([columnist][snap][fingers][actually][break][news,][abolishing][making][organizations][watchdogs][again.])
+v(1 2 7 8 9 10 11 17 18 23): 0.8843924403190613, EP: 0.152680903673172	 ([adam][l.][fingers][change][media][landscape][better.][actually][break][news])
+v(0 6 19 20 22 24 25 26): 0.8586280941963196, EP: 0.14823296666145325	 ([columnist][snap][news,][abolishing][making][organizations][watchdogs][again.])
+v(1 2 8 9 10 11 23): 0.704613983631134, EP: 0.12164407968521118	 ([adam][l.][change][media][landscape][better.][news])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

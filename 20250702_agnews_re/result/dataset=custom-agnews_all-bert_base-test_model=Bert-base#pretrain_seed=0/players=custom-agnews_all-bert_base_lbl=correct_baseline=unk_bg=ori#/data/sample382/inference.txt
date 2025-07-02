@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 19:26:46
+prompt: [CLS] a majority of western governors gathered in san diego yesterday said they favor significant revisions in the federal endangered species act, one of the nation # 39 ; s landmark environmental laws. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:3484 decoded_text: majority
+idx:3 input_id:1997 decoded_text: of
+idx:4 input_id:2530 decoded_text: western
+idx:5 input_id:11141 decoded_text: governors
+idx:6 input_id:5935 decoded_text: gathered
+idx:7 input_id:1999 decoded_text: in
+idx:8 input_id:2624 decoded_text: san
+idx:9 input_id:5277 decoded_text: diego
+idx:10 input_id:7483 decoded_text: yesterday
+idx:11 input_id:2056 decoded_text: said
+idx:12 input_id:2027 decoded_text: they
+idx:13 input_id:5684 decoded_text: favor
+idx:14 input_id:3278 decoded_text: significant
+idx:15 input_id:24699 decoded_text: revisions
+idx:16 input_id:1999 decoded_text: in
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:2976 decoded_text: federal
+idx:19 input_id:10193 decoded_text: endangered
+idx:20 input_id:2427 decoded_text: species
+idx:21 input_id:2552 decoded_text: act
+idx:22 input_id:1010 decoded_text: ,
+idx:23 input_id:2028 decoded_text: one
+idx:24 input_id:1997 decoded_text: of
+idx:25 input_id:1996 decoded_text: the
+idx:26 input_id:3842 decoded_text: nation
+idx:27 input_id:1001 decoded_text: #
+idx:28 input_id:4464 decoded_text: 39
+idx:29 input_id:1025 decoded_text: ;
+idx:30 input_id:1055 decoded_text: s
+idx:31 input_id:8637 decoded_text: landmark
+idx:32 input_id:4483 decoded_text: environmental
+idx:33 input_id:4277 decoded_text: laws
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-2.3010313510894775, -2.467520236968994, -1.0263192653656006, 5.592749118804932]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

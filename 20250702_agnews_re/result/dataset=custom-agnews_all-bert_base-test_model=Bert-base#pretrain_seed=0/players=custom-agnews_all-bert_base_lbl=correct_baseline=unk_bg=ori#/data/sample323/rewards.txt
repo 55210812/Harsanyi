@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: least
+Player 1: 17
+Player 2: iraqis
+Player 3: killed
+Player 4: 96
+Player 5: wounded
+Player 6: fierce
+Player 7: clashes
+Player 8: us
+Player 9: soldiers
+Player 10: fighters
+Player 11: loyal
+Player 12: shia
+Player 13: leader
+Player 14: muqtada
+Player 15: al - sadr,
+Player 16: iraqi
+Player 17: health
+Player 18: ministry
+Player 19: official
+Player 20: said
+Player 21: monday.
+---------- Rewards ----------
+v(): -6.284887313842773	 ([])
+v(2 3 5 14 15 16 18): 7.89503288269043	 ([iraqis][killed][wounded][muqtada][al - sadr,][iraqi][ministry])
+v(12 13): 2.24694561958313	 ([shia][leader])
+v(0 1 4 6 7 8 9 10 11 17 19 20 21): 5.7410569190979	 ([least][17][96][fierce][clashes][us][soldiers][fighters][loyal][health][official][said][monday.])
+v(2 3 5 12 13 14 15 16 18): 8.095929145812988	 ([iraqis][killed][wounded][shia][leader][muqtada][al - sadr,][iraqi][ministry])
+v(0 1 2 3 4 5 6 7 8 9 10 11 14 15 16 17 18 19 20 21): 7.915822505950928	 ([least][17][iraqis][killed][96][wounded][fierce][clashes][us][soldiers][fighters][loyal][muqtada][al - sadr,][iraqi][health][ministry][official][said][monday.])
+v(0 1 4 6 7 8 9 10 11 12 13 17 19 20 21): 7.450496673583984	 ([least][17][96][fierce][clashes][us][soldiers][fighters][loyal][shia][leader][health][official][said][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 7.950273036956787	 ([least][17][iraqis][killed][96][wounded][fierce][clashes][us][soldiers][fighters][loyal][shia][leader][muqtada][al - sadr,][iraqi][health][ministry][official][said][monday.])
+---------- Rewards-v() ----------
+v(2 3 5 12 13 14 15 16 18): 14.380816459655762, EP: 1.0102320909500122	 ([iraqis][killed][wounded][shia][leader][muqtada][al - sadr,][iraqi][ministry])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 14.235160827636719, EP: 1.0	 ([least][17][iraqis][killed][96][wounded][fierce][clashes][us][soldiers][fighters][loyal][shia][leader][muqtada][al - sadr,][iraqi][health][ministry][official][said][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 14 15 16 17 18 19 20 21): 14.20071029663086, EP: 0.9975798726081848	 ([least][17][iraqis][killed][96][wounded][fierce][clashes][us][soldiers][fighters][loyal][muqtada][al - sadr,][iraqi][health][ministry][official][said][monday.])
+v(2 3 5 14 15 16 18): 14.179920196533203, EP: 0.9961194396018982	 ([iraqis][killed][wounded][muqtada][al - sadr,][iraqi][ministry])
+v(0 1 4 6 7 8 9 10 11 12 13 17 19 20 21): 13.735383987426758, EP: 0.9648913741111755	 ([least][17][96][fierce][clashes][us][soldiers][fighters][loyal][shia][leader][health][official][said][monday.])
+v(0 1 4 6 7 8 9 10 11 17 19 20 21): 12.025943756103516, EP: 0.8448055982589722	 ([least][17][96][fierce][clashes][us][soldiers][fighters][loyal][health][official][said][monday.])
+v(12 13): 8.531832695007324, EP: 0.5993492603302002	 ([shia][leader])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

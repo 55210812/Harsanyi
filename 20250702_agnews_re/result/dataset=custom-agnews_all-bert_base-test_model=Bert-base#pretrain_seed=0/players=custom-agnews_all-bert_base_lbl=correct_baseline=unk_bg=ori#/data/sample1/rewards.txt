@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: turkey
+Player 1: # 39 ; s
+Player 2: renay
+Player 3: international
+Player 4: transportation
+Player 5: company
+Player 6: announced
+Player 7: withdraw
+Player 8: iraq
+Player 9: sunday,
+Player 10: one
+Player 11: employees
+Player 12: kidnapped
+Player 13: iraq
+Player 14: saturday,
+Player 15: anatolia
+Player 16: news
+Player 17: agency
+Player 18: reported.
+---------- Rewards ----------
+v(): -5.120965003967285	 ([])
+v(5 8 9 12 13 15): 7.8415656089782715	 ([company][iraq][sunday,][kidnapped][iraq][anatolia])
+v(16 17 18): -0.35585927963256836	 ([news][agency][reported.])
+v(0 1 6 7): 4.0866780281066895	 ([turkey][# 39 ; s][announced][withdraw])
+v(2 3 4 10 11 14): -7.211746692657471	 ([renay][international][transportation][one][employees][saturday,])
+v(5 8 9 12 13 15 16 17 18): 7.825700759887695	 ([company][iraq][sunday,][kidnapped][iraq][anatolia][news][agency][reported.])
+v(0 1 5 6 7 8 9 12 13 15): 8.015971183776855	 ([turkey][# 39 ; s][company][announced][withdraw][iraq][sunday,][kidnapped][iraq][anatolia])
+v(2 3 4 5 8 9 10 11 12 13 14 15): 7.799966812133789	 ([renay][international][transportation][company][iraq][sunday,][one][employees][kidnapped][iraq][saturday,][anatolia])
+v(0 1 6 7 16 17 18): 2.718672752380371	 ([turkey][# 39 ; s][announced][withdraw][news][agency][reported.])
+v(2 3 4 10 11 14 16 17 18): -1.252230167388916	 ([renay][international][transportation][one][employees][saturday,][news][agency][reported.])
+v(0 1 2 3 4 6 7 10 11 14): -0.8379964828491211	 ([turkey][# 39 ; s][renay][international][transportation][announced][withdraw][one][employees][saturday,])
+v(0 1 5 6 7 8 9 12 13 15 16 17 18): 7.7453293800354	 ([turkey][# 39 ; s][company][announced][withdraw][iraq][sunday,][kidnapped][iraq][anatolia][news][agency][reported.])
+v(2 3 4 5 8 9 10 11 12 13 14 15 16 17 18): 7.994812965393066	 ([renay][international][transportation][company][iraq][sunday,][one][employees][kidnapped][iraq][saturday,][anatolia][news][agency][reported.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.857799530029297	 ([turkey][# 39 ; s][renay][international][transportation][company][announced][withdraw][iraq][sunday,][one][employees][kidnapped][iraq][saturday,][anatolia])
+v(0 1 2 3 4 6 7 10 11 14 16 17 18): 0.445648193359375	 ([turkey][# 39 ; s][renay][international][transportation][announced][withdraw][one][employees][saturday,][news][agency][reported.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.056982040405273	 ([turkey][# 39 ; s][renay][international][transportation][company][announced][withdraw][iraq][sunday,][one][employees][kidnapped][iraq][saturday,][anatolia][news][agency][reported.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 13.177947044372559, EP: 1.0	 ([turkey][# 39 ; s][renay][international][transportation][company][announced][withdraw][iraq][sunday,][one][employees][kidnapped][iraq][saturday,][anatolia][news][agency][reported.])
+v(0 1 5 6 7 8 9 12 13 15): 13.13693618774414, EP: 0.9968879222869873	 ([turkey][# 39 ; s][company][announced][withdraw][iraq][sunday,][kidnapped][iraq][anatolia])
+v(2 3 4 5 8 9 10 11 12 13 14 15 16 17 18): 13.115777969360352, EP: 0.9952823519706726	 ([renay][international][transportation][company][iraq][sunday,][one][employees][kidnapped][iraq][saturday,][anatolia][news][agency][reported.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 12.978764533996582, EP: 0.9848851561546326	 ([turkey][# 39 ; s][renay][international][transportation][company][announced][withdraw][iraq][sunday,][one][employees][kidnapped][iraq][saturday,][anatolia])
+v(5 8 9 12 13 15): 12.962530136108398, EP: 0.9836532473564148	 ([company][iraq][sunday,][kidnapped][iraq][anatolia])
+v(5 8 9 12 13 15 16 17 18): 12.94666576385498, EP: 0.9824493527412415	 ([company][iraq][sunday,][kidnapped][iraq][anatolia][news][agency][reported.])
+v(2 3 4 5 8 9 10 11 12 13 14 15): 12.920931816101074, EP: 0.9804965853691101	 ([renay][international][transportation][company][iraq][sunday,][one][employees][kidnapped][iraq][saturday,][anatolia])
+v(0 1 5 6 7 8 9 12 13 15 16 17 18): 12.866294860839844, EP: 0.9763504862785339	 ([turkey][# 39 ; s][company][announced][withdraw][iraq][sunday,][kidnapped][iraq][anatolia][news][agency][reported.])
+v(0 1 6 7): 9.207643508911133, EP: 0.6987161040306091	 ([turkey][# 39 ; s][announced][withdraw])
+v(0 1 6 7 16 17 18): 7.839637756347656, EP: 0.5949058532714844	 ([turkey][# 39 ; s][announced][withdraw][news][agency][reported.])
+v(0 1 2 3 4 6 7 10 11 14 16 17 18): 5.56661319732666, EP: 0.42241883277893066	 ([turkey][# 39 ; s][renay][international][transportation][announced][withdraw][one][employees][saturday,][news][agency][reported.])
+v(16 17 18): 4.765105724334717, EP: 0.3615969717502594	 ([news][agency][reported.])
+v(0 1 2 3 4 6 7 10 11 14): 4.282968521118164, EP: 0.3250102996826172	 ([turkey][# 39 ; s][renay][international][transportation][announced][withdraw][one][employees][saturday,])
+v(2 3 4 10 11 14 16 17 18): 3.868734836578369, EP: 0.2935764491558075	 ([renay][international][transportation][one][employees][saturday,][news][agency][reported.])
+v(2 3 4 10 11 14): -2.0907816886901855, EP: -0.15865762531757355	 ([renay][international][transportation][one][employees][saturday,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

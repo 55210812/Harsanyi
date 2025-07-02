@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: six
+Player 3: convicted
+Player 4: indonesian
+Player 5: militants \ linked
+Player 6: deadly
+Player 7: blasts
+Player 8: bali
+Player 9: 2002
+Player 10: received
+Player 11: two \ month
+Player 12: reduction
+Player 13: jail
+Player 14: sentences
+Player 15: president
+Player 16: megawati \ sukarnoputri,
+Player 17: prison
+Player 18: warden
+Player 19: said
+Player 20: tuesday.
+---------- Rewards ----------
+v(): -5.504023551940918	 ([])
+v(1 5 8 13 14 15 16): 8.294817924499512	 ([-][militants \ linked][bali][jail][sentences][president][megawati \ sukarnoputri,])
+v(0 2 3 4 6 7 9 18): 6.8531084060668945	 ([reuters][six][convicted][indonesian][deadly][blasts][2002][warden])
+v(10 11 12 17 19 20): 5.355318069458008	 ([received][two \ month][reduction][prison][said][tuesday.])
+v(0 1 2 3 4 5 6 7 8 9 13 14 15 16 18): 7.908588409423828	 ([reuters][-][six][convicted][indonesian][militants \ linked][deadly][blasts][bali][2002][jail][sentences][president][megawati \ sukarnoputri,][warden])
+v(1 5 8 10 11 12 13 14 15 16 17 19 20): 8.18186092376709	 ([-][militants \ linked][bali][received][two \ month][reduction][jail][sentences][president][megawati \ sukarnoputri,][prison][said][tuesday.])
+v(0 2 3 4 6 7 9 10 11 12 17 18 19 20): 6.766574859619141	 ([reuters][six][convicted][indonesian][deadly][blasts][2002][received][two \ month][reduction][prison][warden][said][tuesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.6039347648620605	 ([reuters][-][six][convicted][indonesian][militants \ linked][deadly][blasts][bali][2002][received][two \ month][reduction][jail][sentences][president][megawati \ sukarnoputri,][prison][warden][said][tuesday.])
+---------- Rewards-v() ----------
+v(1 5 8 13 14 15 16): 13.79884147644043, EP: 1.0527071952819824	 ([-][militants \ linked][bali][jail][sentences][president][megawati \ sukarnoputri,])
+v(1 5 8 10 11 12 13 14 15 16 17 19 20): 13.685884475708008, EP: 1.0440897941589355	 ([-][militants \ linked][bali][received][two \ month][reduction][jail][sentences][president][megawati \ sukarnoputri,][prison][said][tuesday.])
+v(0 1 2 3 4 5 6 7 8 9 13 14 15 16 18): 13.412611961364746, EP: 1.0232418775558472	 ([reuters][-][six][convicted][indonesian][militants \ linked][deadly][blasts][bali][2002][jail][sentences][president][megawati \ sukarnoputri,][warden])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.10795783996582, EP: 1.0	 ([reuters][-][six][convicted][indonesian][militants \ linked][deadly][blasts][bali][2002][received][two \ month][reduction][jail][sentences][president][megawati \ sukarnoputri,][prison][warden][said][tuesday.])
+v(0 2 3 4 6 7 9 18): 12.357131958007812, EP: 0.9427198171615601	 ([reuters][six][convicted][indonesian][deadly][blasts][2002][warden])
+v(0 2 3 4 6 7 9 10 11 12 17 18 19 20): 12.270598411560059, EP: 0.9361182451248169	 ([reuters][six][convicted][indonesian][deadly][blasts][2002][received][two \ month][reduction][prison][warden][said][tuesday.])
+v(10 11 12 17 19 20): 10.859341621398926, EP: 0.8284541368484497	 ([received][two \ month][reduction][prison][said][tuesday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

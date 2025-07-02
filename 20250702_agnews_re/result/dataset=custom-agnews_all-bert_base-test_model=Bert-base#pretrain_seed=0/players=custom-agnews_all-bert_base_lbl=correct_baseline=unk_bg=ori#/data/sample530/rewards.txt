@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: october
+Player 1: 15,
+Player 2: 2004
+Player 3: - -
+Player 4: ( web
+Player 5: host
+Player 6: industry
+Player 7: review )
+Player 8: - -
+Player 9: web
+Player 10: servers
+Player 11: seized
+Player 12: late
+Player 13: last
+Player 14: week
+Player 15: web
+Player 16: hosting
+Player 17: provider
+Player 18: rackspace
+Player 19: managed
+Player 20: hosting
+Player 21: ( rackspace.
+---------- Rewards ----------
+v(): 2.4058990478515625	 ([])
+v(16 17): 6.503347873687744	 ([hosting][provider])
+v(3 5 6 8 11 19 20): 1.0036629438400269	 ([- -][host][industry][- -][seized][managed][hosting])
+v(0 1 2 4 7 9 10 12 13 14 15 18 21): 8.291760444641113	 ([october][15,][2004][( web][review )][web][servers][late][last][week][web][rackspace][( rackspace.])
+v(3 5 6 8 11 16 17 19 20): 7.739032745361328	 ([- -][host][industry][- -][seized][hosting][provider][managed][hosting])
+v(0 1 2 4 7 9 10 12 13 14 15 16 17 18 21): 8.251178741455078	 ([october][15,][2004][( web][review )][web][servers][late][last][week][web][hosting][provider][rackspace][( rackspace.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 18 19 20 21): 8.228583335876465	 ([october][15,][2004][- -][( web][host][industry][review )][- -][web][servers][seized][late][last][week][web][rackspace][managed][hosting][( rackspace.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.182368278503418	 ([october][15,][2004][- -][( web][host][industry][review )][- -][web][servers][seized][late][last][week][web][hosting][provider][rackspace][managed][hosting][( rackspace.])
+---------- Rewards-v() ----------
+v(0 1 2 4 7 9 10 12 13 14 15 18 21): 5.885861396789551, EP: 1.018937587738037	 ([october][15,][2004][( web][review )][web][servers][late][last][week][web][rackspace][( rackspace.])
+v(0 1 2 4 7 9 10 12 13 14 15 16 17 18 21): 5.845279693603516, EP: 1.011912226676941	 ([october][15,][2004][( web][review )][web][servers][late][last][week][web][hosting][provider][rackspace][( rackspace.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 18 19 20 21): 5.822684288024902, EP: 1.0080006122589111	 ([october][15,][2004][- -][( web][host][industry][review )][- -][web][servers][seized][late][last][week][web][rackspace][managed][hosting][( rackspace.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 5.7764692306518555, EP: 1.0	 ([october][15,][2004][- -][( web][host][industry][review )][- -][web][servers][seized][late][last][week][web][hosting][provider][rackspace][managed][hosting][( rackspace.])
+v(3 5 6 8 11 16 17 19 20): 5.333133697509766, EP: 0.9232514500617981	 ([- -][host][industry][- -][seized][hosting][provider][managed][hosting])
+v(16 17): 4.097448825836182, EP: 0.7093344926834106	 ([hosting][provider])
+v(3 5 6 8 11 19 20): -1.4022361040115356, EP: -0.24274969100952148	 ([- -][host][industry][- -][seized][managed][hosting])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

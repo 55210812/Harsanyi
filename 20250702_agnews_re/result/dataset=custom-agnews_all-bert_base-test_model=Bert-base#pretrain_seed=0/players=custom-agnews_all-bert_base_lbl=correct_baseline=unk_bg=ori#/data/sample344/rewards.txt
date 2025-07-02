@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: may
+Player 3: take
+Player 4: much
+Player 5: longer
+Player 6: scientists
+Player 7: thought
+Player 8: violent
+Player 9: turbulence
+Player 10: turn
+Player 11: grains
+Player 12: space
+Player 13: dust
+Player 14: new
+Player 15: planets.
+---------- Rewards ----------
+v(): 3.7779698371887207	 ([])
+v(0 5 6 8 9 10 12 15): 7.626532077789307	 ([ap][longer][scientists][violent][turbulence][turn][space][planets.])
+v(11 13): 4.747552871704102	 ([grains][dust])
+v(1 2 3 4 7 14): 5.811411380767822	 ([-][may][take][much][thought][new])
+v(0 5 6 8 9 10 11 12 13 15): 7.74287223815918	 ([ap][longer][scientists][violent][turbulence][turn][grains][space][dust][planets.])
+v(0 1 2 3 4 5 6 7 8 9 10 12 14 15): 7.572536468505859	 ([ap][-][may][take][much][longer][scientists][thought][violent][turbulence][turn][space][new][planets.])
+v(1 2 3 4 7 11 13 14): 6.602788925170898	 ([-][may][take][much][thought][grains][dust][new])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.425945281982422	 ([ap][-][may][take][much][longer][scientists][thought][violent][turbulence][turn][grains][space][dust][new][planets.])
+---------- Rewards-v() ----------
+v(0 5 6 8 9 10 11 12 13 15): 3.964902400970459, EP: 1.086877465248108	 ([ap][longer][scientists][violent][turbulence][turn][grains][space][dust][planets.])
+v(0 5 6 8 9 10 12 15): 3.848562240600586, EP: 1.054985761642456	 ([ap][longer][scientists][violent][turbulence][turn][space][planets.])
+v(0 1 2 3 4 5 6 7 8 9 10 12 14 15): 3.7945666313171387, EP: 1.0401842594146729	 ([ap][-][may][take][much][longer][scientists][thought][violent][turbulence][turn][space][new][planets.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 3.647975444793701, EP: 1.0	 ([ap][-][may][take][much][longer][scientists][thought][violent][turbulence][turn][grains][space][dust][new][planets.])
+v(1 2 3 4 7 11 13 14): 2.8248190879821777, EP: 0.7743525505065918	 ([-][may][take][much][thought][grains][dust][new])
+v(1 2 3 4 7 14): 2.0334415435791016, EP: 0.5574164390563965	 ([-][may][take][much][thought][new])
+v(11 13): 0.9695830345153809, EP: 0.26578661799430847	 ([grains][dust])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

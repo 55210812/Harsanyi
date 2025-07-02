@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: 100
+Player 1: whales
+Player 2: dolphins
+Player 3: died
+Player 4: two
+Player 5: separate
+Player 6: beachings
+Player 7: islands
+Player 8: tasmania
+Player 9: australia.
+Player 10: ninety - seven
+Player 11: pilot
+Player 12: whales
+Player 13: bottlenose
+Player 14: dolphins
+Player 15: died
+Player 16: king
+Player 17: island
+Player 18: weekend,
+Player 19: several
+Player 20: others
+Player 21: died
+Player 22: maria
+Player 23: island.
+---------- Rewards ----------
+v(): -4.412886142730713	 ([])
+v(4 6 7 8 13 17 23): -0.5310189723968506	 ([two][beachings][islands][tasmania][bottlenose][island][island.])
+v(9 10 11 18 19 20 22): 0.02655506134033203	 ([australia.][ninety - seven][pilot][weekend,][several][others][maria])
+v(0 1 2 3 5 12 14 15 16 21): -7.072887420654297	 ([100][whales][dolphins][died][separate][whales][dolphins][died][king][died])
+v(4 6 7 8 9 10 11 13 17 18 19 20 22 23): 2.392378091812134	 ([two][beachings][islands][tasmania][australia.][ninety - seven][pilot][bottlenose][island][weekend,][several][others][maria][island.])
+v(0 1 2 3 4 5 6 7 8 12 13 14 15 16 17 21 23): 3.1132946014404297	 ([100][whales][dolphins][died][two][separate][beachings][islands][tasmania][whales][bottlenose][dolphins][died][king][island][died][island.])
+v(0 1 2 3 5 9 10 11 12 14 15 16 18 19 20 21 22): 2.559410810470581	 ([100][whales][dolphins][died][separate][australia.][ninety - seven][pilot][whales][dolphins][died][king][weekend,][several][others][died][maria])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 5.477474212646484	 ([100][whales][dolphins][died][two][separate][beachings][islands][tasmania][australia.][ninety - seven][pilot][whales][bottlenose][dolphins][died][king][island][weekend,][several][others][died][maria][island.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 9.890359878540039, EP: 1.0	 ([100][whales][dolphins][died][two][separate][beachings][islands][tasmania][australia.][ninety - seven][pilot][whales][bottlenose][dolphins][died][king][island][weekend,][several][others][died][maria][island.])
+v(0 1 2 3 4 5 6 7 8 12 13 14 15 16 17 21 23): 7.526180744171143, EP: 0.7609612345695496	 ([100][whales][dolphins][died][two][separate][beachings][islands][tasmania][whales][bottlenose][dolphins][died][king][island][died][island.])
+v(0 1 2 3 5 9 10 11 12 14 15 16 18 19 20 21 22): 6.972296714782715, EP: 0.7049588561058044	 ([100][whales][dolphins][died][separate][australia.][ninety - seven][pilot][whales][dolphins][died][king][weekend,][several][others][died][maria])
+v(4 6 7 8 9 10 11 13 17 18 19 20 22 23): 6.805264472961426, EP: 0.6880704760551453	 ([two][beachings][islands][tasmania][australia.][ninety - seven][pilot][bottlenose][island][weekend,][several][others][maria][island.])
+v(9 10 11 18 19 20 22): 4.439441204071045, EP: 0.44886547327041626	 ([australia.][ninety - seven][pilot][weekend,][several][others][maria])
+v(4 6 7 8 13 17 23): 3.8818671703338623, EP: 0.3924899697303772	 ([two][beachings][islands][tasmania][bottlenose][island][island.])
+v(0 1 2 3 5 12 14 15 16 21): -2.660001277923584, EP: -0.26894888281822205	 ([100][whales][dolphins][died][separate][whales][dolphins][died][king][died])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: jockey
+Player 1: stewart
+Player 2: elliott
+Player 3: made
+Player 4: successful
+Player 5: visit
+Player 6: aqueduct
+Player 7: swept
+Player 8: stakes
+Player 9: election
+Player 10: day
+Player 11: card.
+Player 12: elliott,
+Player 13: came
+Player 14: prominence
+Player 15: regular
+Player 16: jockey
+Player 17: 2004
+---------- Rewards ----------
+v(): -3.8938848972320557	 ([])
+v(0 7 9 13 15 16): -4.301792144775391	 ([jockey][swept][election][came][regular][jockey])
+v(1 2 3 4 6 8 12 17): 7.710521697998047	 ([stewart][elliott][made][successful][aqueduct][stakes][elliott,][2004])
+v(5 10 11 14): -4.5934906005859375	 ([visit][day][card.][prominence])
+v(0 1 2 3 4 6 7 8 9 12 13 15 16 17): 7.377516269683838	 ([jockey][stewart][elliott][made][successful][aqueduct][swept][stakes][election][elliott,][came][regular][jockey][2004])
+v(0 5 7 9 10 11 13 14 15 16): -3.695800542831421	 ([jockey][visit][swept][election][day][card.][came][prominence][regular][jockey])
+v(1 2 3 4 5 6 8 10 11 12 14 17): 8.583638191223145	 ([stewart][elliott][made][successful][visit][aqueduct][stakes][day][card.][elliott,][prominence][2004])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.137378692626953	 ([jockey][stewart][elliott][made][successful][visit][aqueduct][swept][stakes][election][day][card.][elliott,][came][prominence][regular][jockey][2004])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 6 8 10 11 12 14 17): 12.477522850036621, EP: 1.037091612815857	 ([stewart][elliott][made][successful][visit][aqueduct][stakes][day][card.][elliott,][prominence][2004])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 12.03126335144043, EP: 1.0	 ([jockey][stewart][elliott][made][successful][visit][aqueduct][swept][stakes][election][day][card.][elliott,][came][prominence][regular][jockey][2004])
+v(1 2 3 4 6 8 12 17): 11.604406356811523, EP: 0.9645209908485413	 ([stewart][elliott][made][successful][aqueduct][stakes][elliott,][2004])
+v(0 1 2 3 4 6 7 8 9 12 13 15 16 17): 11.271401405334473, EP: 0.9368427395820618	 ([jockey][stewart][elliott][made][successful][aqueduct][swept][stakes][election][elliott,][came][regular][jockey][2004])
+v(5 10 11 14): -0.6996057033538818, EP: -0.058148980140686035	 ([visit][day][card.][prominence])
+v(0 7 9 13 15 16): -0.40790724754333496, EP: -0.03390394151210785	 ([jockey][swept][election][came][regular][jockey])
+v(0 5 7 9 10 11 13 14 15 16): 0.19808435440063477, EP: 0.01646413654088974	 ([jockey][visit][swept][election][day][card.][came][prominence][regular][jockey])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

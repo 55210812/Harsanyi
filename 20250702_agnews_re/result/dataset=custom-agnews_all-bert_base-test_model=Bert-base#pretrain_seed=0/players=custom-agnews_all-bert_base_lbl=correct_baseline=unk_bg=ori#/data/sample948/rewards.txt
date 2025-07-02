@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: jerusalem
+Player 1: ( reuters )
+Player 2: -
+Player 3: suicide
+Player 4: bomber
+Player 5: exploded
+Player 6: near
+Player 7: west
+Player 8: bank
+Player 9: checkpoint
+Player 10: hurting
+Player 11: least
+Player 12: three
+Player 13: people
+Player 14: tuesday,
+Player 15: israeli
+Player 16: medic
+Player 17: said.
+---------- Rewards ----------
+v(): -2.1791391372680664	 ([])
+v(0 3 10 11 15): 6.5504469871521	 ([jerusalem][suicide][hurting][least][israeli])
+v(4 7 8 12 14): 5.329577445983887	 ([bomber][west][bank][three][tuesday,])
+v(1 2 5 6 9 13 16 17): 6.400152683258057	 ([( reuters )][-][exploded][near][checkpoint][people][medic][said.])
+v(0 3 4 7 8 10 11 12 14 15): 7.220122337341309	 ([jerusalem][suicide][bomber][west][bank][hurting][least][three][tuesday,][israeli])
+v(0 1 2 3 5 6 9 10 11 13 15 16 17): 6.724557399749756	 ([jerusalem][( reuters )][-][suicide][exploded][near][checkpoint][hurting][least][people][israeli][medic][said.])
+v(1 2 4 5 6 7 8 9 12 13 14 16 17): 7.45274019241333	 ([( reuters )][-][bomber][exploded][near][west][bank][checkpoint][three][people][tuesday,][medic][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 7.020263195037842	 ([jerusalem][( reuters )][-][suicide][bomber][exploded][near][west][bank][checkpoint][hurting][least][three][people][tuesday,][israeli][medic][said.])
+---------- Rewards-v() ----------
+v(1 2 4 5 6 7 8 9 12 13 14 16 17): 9.631879806518555, EP: 1.0470114946365356	 ([( reuters )][-][bomber][exploded][near][west][bank][checkpoint][three][people][tuesday,][medic][said.])
+v(0 3 4 7 8 10 11 12 14 15): 9.399261474609375, EP: 1.0217252969741821	 ([jerusalem][suicide][bomber][west][bank][hurting][least][three][tuesday,][israeli])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.19940185546875, EP: 1.0	 ([jerusalem][( reuters )][-][suicide][bomber][exploded][near][west][bank][checkpoint][hurting][least][three][people][tuesday,][israeli][medic][said.])
+v(0 1 2 3 5 6 9 10 11 13 15 16 17): 8.903696060180664, EP: 0.9678559899330139	 ([jerusalem][( reuters )][-][suicide][exploded][near][checkpoint][hurting][least][people][israeli][medic][said.])
+v(0 3 10 11 15): 8.729585647583008, EP: 0.9489297270774841	 ([jerusalem][suicide][hurting][least][israeli])
+v(1 2 5 6 9 13 16 17): 8.579292297363281, EP: 0.9325923919677734	 ([( reuters )][-][exploded][near][checkpoint][people][medic][said.])
+v(4 7 8 12 14): 7.508716583251953, EP: 0.8162178993225098	 ([bomber][west][bank][three][tuesday,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: worldwide
+Player 1: external
+Player 2: controller - based
+Player 3: disc
+Player 4: storage
+Player 5: revenue
+Player 6: totalled
+Player 7: \ $ 3. 2bn
+Player 8: ( 1. 8bn )
+Player 9: second
+Player 10: quarter,
+Player 11: 5. 1
+Player 12: \ $ 3. 1bn
+Player 13: recorded
+Player 14: period
+Player 15: last
+Player 16: year.
+---------- Rewards ----------
+v(): 2.565770387649536	 ([])
+v(0 2 9 10 13): 6.010730266571045	 ([worldwide][controller - based][second][quarter,][recorded])
+v(5 7 8 12): -7.85638427734375	 ([revenue][\ $ 3. 2bn][( 1. 8bn )][\ $ 3. 1bn])
+v(1 3 4 6 11 14 15 16): 7.4306535720825195	 ([external][disc][storage][totalled][5. 1][period][last][year.])
+v(0 2 5 7 8 9 10 12 13): -8.258017539978027	 ([worldwide][controller - based][revenue][\ $ 3. 2bn][( 1. 8bn )][second][quarter,][\ $ 3. 1bn][recorded])
+v(0 1 2 3 4 6 9 10 11 13 14 15 16): 6.921504020690918	 ([worldwide][external][controller - based][disc][storage][totalled][second][quarter,][5. 1][recorded][period][last][year.])
+v(1 3 4 5 6 7 8 11 12 14 15 16): -0.361281156539917	 ([external][disc][storage][revenue][totalled][\ $ 3. 2bn][( 1. 8bn )][5. 1][\ $ 3. 1bn][period][last][year.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 6.024351596832275	 ([worldwide][external][controller - based][disc][storage][revenue][totalled][\ $ 3. 2bn][( 1. 8bn )][second][quarter,][5. 1][\ $ 3. 1bn][recorded][period][last][year.])
+---------- Rewards-v() ----------
+v(0 2 5 7 8 9 10 12 13): -10.823787689208984, EP: -3.1295456886291504	 ([worldwide][controller - based][revenue][\ $ 3. 2bn][( 1. 8bn )][second][quarter,][\ $ 3. 1bn][recorded])
+v(5 7 8 12): -10.422154426574707, EP: -3.0134189128875732	 ([revenue][\ $ 3. 2bn][( 1. 8bn )][\ $ 3. 1bn])
+v(1 3 4 6 11 14 15 16): 4.8648834228515625, EP: 1.406612515449524	 ([external][disc][storage][totalled][5. 1][period][last][year.])
+v(0 1 2 3 4 6 9 10 11 13 14 15 16): 4.355733871459961, EP: 1.2593990564346313	 ([worldwide][external][controller - based][disc][storage][totalled][second][quarter,][5. 1][recorded][period][last][year.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 3.4585812091827393, EP: 1.0	 ([worldwide][external][controller - based][disc][storage][revenue][totalled][\ $ 3. 2bn][( 1. 8bn )][second][quarter,][5. 1][\ $ 3. 1bn][recorded][period][last][year.])
+v(0 2 9 10 13): 3.444959878921509, EP: 0.9960615634918213	 ([worldwide][controller - based][second][quarter,][recorded])
+v(1 3 4 5 6 7 8 11 12 14 15 16): -2.927051544189453, EP: -0.8463156819343567	 ([external][disc][storage][revenue][totalled][\ $ 3. 2bn][( 1. 8bn )][5. 1][\ $ 3. 1bn][period][last][year.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

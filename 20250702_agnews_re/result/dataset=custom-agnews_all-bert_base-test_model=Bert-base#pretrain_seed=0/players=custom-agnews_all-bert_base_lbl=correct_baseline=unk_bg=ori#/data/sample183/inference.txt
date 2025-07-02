@@ -1,0 +1,36 @@
+Execution time: 2025-07-02 19:21:55
+prompt: [CLS] ap - sudan said wednesday it had closed its embassy in washington after being unable to find a bank that would handle its financial matters. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:10411 decoded_text: sudan
+idx:4 input_id:2056 decoded_text: said
+idx:5 input_id:9317 decoded_text: wednesday
+idx:6 input_id:2009 decoded_text: it
+idx:7 input_id:2018 decoded_text: had
+idx:8 input_id:2701 decoded_text: closed
+idx:9 input_id:2049 decoded_text: its
+idx:10 input_id:8408 decoded_text: embassy
+idx:11 input_id:1999 decoded_text: in
+idx:12 input_id:2899 decoded_text: washington
+idx:13 input_id:2044 decoded_text: after
+idx:14 input_id:2108 decoded_text: being
+idx:15 input_id:4039 decoded_text: unable
+idx:16 input_id:2000 decoded_text: to
+idx:17 input_id:2424 decoded_text: find
+idx:18 input_id:1037 decoded_text: a
+idx:19 input_id:2924 decoded_text: bank
+idx:20 input_id:2008 decoded_text: that
+idx:21 input_id:2052 decoded_text: would
+idx:22 input_id:5047 decoded_text: handle
+idx:23 input_id:2049 decoded_text: its
+idx:24 input_id:3361 decoded_text: financial
+idx:25 input_id:5609 decoded_text: matters
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.262975692749023, -1.7858030796051025, -2.4905245304107666, -2.6075494289398193]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

@@ -1,0 +1,104 @@
+---------- Players ----------
+Player 0: q :
+Player 1: small
+Player 2: business.
+Player 3: holiday
+Player 4: season
+Player 5: every
+Player 6: year,
+Player 7: invite
+Player 8: employees
+Player 9: lunch
+Player 10: restaurant.
+Player 11: past,
+Player 12: let
+Player 13: everyone
+Player 14: go
+Player 15: home
+Player 16: early
+Player 17: ( with
+Player 18: pay )
+Player 19: afterward.
+Player 20: several
+Player 21: years
+Player 22: now,
+Player 23: people
+Player 24: skipped
+Player 25: lunch
+Player 26: gone
+Player 27: straight
+Player 28: home.
+Player 29: caused
+Player 30: ill
+Player 31: among
+Player 32: employees.
+Player 33: one
+Player 34: option
+Player 35: ...
+---------- Rewards ----------
+v(): -4.035231113433838	 ([])
+v(1 2 3 4 5 6 7 10 11): 1.575402021408081	 ([small][business.][holiday][season][every][year,][invite][restaurant.][past,])
+v(0 16 17 18 20 21 22): 0.17567527294158936	 ([q :][early][( with][pay )][several][years][now,])
+v(12 13 14 15): -3.9528939723968506	 ([let][everyone][go][home])
+v(8 9 24 25): -2.284486770629883	 ([employees][lunch][skipped][lunch])
+v(19 23 26 27 28 29 30 31 32 33 34 35): -3.075791835784912	 ([afterward.][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 1 2 3 4 5 6 7 10 11 16 17 18 20 21 22): 3.5585367679595947	 ([q :][small][business.][holiday][season][every][year,][invite][restaurant.][past,][early][( with][pay )][several][years][now,])
+v(1 2 3 4 5 6 7 10 11 12 13 14 15): 1.2137067317962646	 ([small][business.][holiday][season][every][year,][invite][restaurant.][past,][let][everyone][go][home])
+v(1 2 3 4 5 6 7 8 9 10 11 24 25): 2.448972225189209	 ([small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][skipped][lunch])
+v(1 2 3 4 5 6 7 10 11 19 23 26 27 28 29 30 31 32 33 34 35): 2.2603397369384766	 ([small][business.][holiday][season][every][year,][invite][restaurant.][past,][afterward.][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 12 13 14 15 16 17 18 20 21 22): -0.2668180465698242	 ([q :][let][everyone][go][home][early][( with][pay )][several][years][now,])
+v(0 8 9 16 17 18 20 21 22 24 25): 1.3981655836105347	 ([q :][employees][lunch][early][( with][pay )][several][years][now,][skipped][lunch])
+v(0 16 17 18 19 20 21 22 23 26 27 28 29 30 31 32 33 34 35): 3.5246083736419678	 ([q :][early][( with][pay )][afterward.][several][years][now,][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(8 9 12 13 14 15 24 25): -2.246473789215088	 ([employees][lunch][let][everyone][go][home][skipped][lunch])
+v(12 13 14 15 19 23 26 27 28 29 30 31 32 33 34 35): -3.338031768798828	 ([let][everyone][go][home][afterward.][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(8 9 19 23 24 25 26 27 28 29 30 31 32 33 34 35): -2.3130545616149902	 ([employees][lunch][afterward.][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 20 21 22): 2.7216429710388184	 ([q :][small][business.][holiday][season][every][year,][invite][restaurant.][past,][let][everyone][go][home][early][( with][pay )][several][years][now,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 16 17 18 20 21 22 24 25): 4.826136112213135	 ([q :][small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][early][( with][pay )][several][years][now,][skipped][lunch])
+v(0 1 2 3 4 5 6 7 10 11 16 17 18 19 20 21 22 23 26 27 28 29 30 31 32 33 34 35): 6.085477352142334	 ([q :][small][business.][holiday][season][every][year,][invite][restaurant.][past,][early][( with][pay )][afterward.][several][years][now,][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 24 25): 1.9894649982452393	 ([small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][let][everyone][go][home][skipped][lunch])
+v(1 2 3 4 5 6 7 10 11 12 13 14 15 19 23 26 27 28 29 30 31 32 33 34 35): 1.9039613008499146	 ([small][business.][holiday][season][every][year,][invite][restaurant.][past,][let][everyone][go][home][afterward.][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(1 2 3 4 5 6 7 8 9 10 11 19 23 24 25 26 27 28 29 30 31 32 33 34 35): 2.8304591178894043	 ([small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][afterward.][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 8 9 12 13 14 15 16 17 18 20 21 22 24 25): 0.8972905874252319	 ([q :][employees][lunch][let][everyone][go][home][early][( with][pay )][several][years][now,][skipped][lunch])
+v(0 12 13 14 15 16 17 18 19 20 21 22 23 26 27 28 29 30 31 32 33 34 35): 3.6130993366241455	 ([q :][let][everyone][go][home][early][( with][pay )][afterward.][several][years][now,][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 8 9 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35): 3.21370792388916	 ([q :][employees][lunch][early][( with][pay )][afterward.][several][years][now,][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(8 9 12 13 14 15 19 23 24 25 26 27 28 29 30 31 32 33 34 35): -3.2643585205078125	 ([employees][lunch][let][everyone][go][home][afterward.][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 20 21 22 24 25): 3.9502623081207275	 ([q :][small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][let][everyone][go][home][early][( with][pay )][several][years][now,][skipped][lunch])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 19 20 21 22 23 26 27 28 29 30 31 32 33 34 35): 6.202209949493408	 ([q :][small][business.][holiday][season][every][year,][invite][restaurant.][past,][let][everyone][go][home][early][( with][pay )][afterward.][several][years][now,][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35): 6.313478469848633	 ([q :][small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][early][( with][pay )][afterward.][several][years][now,][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 19 23 24 25 26 27 28 29 30 31 32 33 34 35): 1.738234281539917	 ([small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][let][everyone][go][home][afterward.][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 8 9 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35): 2.9027233123779297	 ([q :][employees][lunch][let][everyone][go][home][early][( with][pay )][afterward.][several][years][now,][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35): 6.222907066345215	 ([q :][small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][let][everyone][go][home][early][( with][pay )][afterward.][several][years][now,][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35): 10.348709106445312, EP: 1.008829116821289	 ([q :][small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][early][( with][pay )][afterward.][several][years][now,][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35): 10.258138656616211, EP: 1.0	 ([q :][small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][let][everyone][go][home][early][( with][pay )][afterward.][several][years][now,][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 19 20 21 22 23 26 27 28 29 30 31 32 33 34 35): 10.237441062927246, EP: 0.9979823231697083	 ([q :][small][business.][holiday][season][every][year,][invite][restaurant.][past,][let][everyone][go][home][early][( with][pay )][afterward.][several][years][now,][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 1 2 3 4 5 6 7 10 11 16 17 18 19 20 21 22 23 26 27 28 29 30 31 32 33 34 35): 10.120708465576172, EP: 0.9866028428077698	 ([q :][small][business.][holiday][season][every][year,][invite][restaurant.][past,][early][( with][pay )][afterward.][several][years][now,][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 16 17 18 20 21 22 24 25): 8.861367225646973, EP: 0.863837718963623	 ([q :][small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][early][( with][pay )][several][years][now,][skipped][lunch])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 20 21 22 24 25): 7.9854936599731445, EP: 0.7784544229507446	 ([q :][small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][let][everyone][go][home][early][( with][pay )][several][years][now,][skipped][lunch])
+v(0 12 13 14 15 16 17 18 19 20 21 22 23 26 27 28 29 30 31 32 33 34 35): 7.6483306884765625, EP: 0.7455865740776062	 ([q :][let][everyone][go][home][early][( with][pay )][afterward.][several][years][now,][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 1 2 3 4 5 6 7 10 11 16 17 18 20 21 22): 7.593768119812012, EP: 0.7402676343917847	 ([q :][small][business.][holiday][season][every][year,][invite][restaurant.][past,][early][( with][pay )][several][years][now,])
+v(0 16 17 18 19 20 21 22 23 26 27 28 29 30 31 32 33 34 35): 7.559839248657227, EP: 0.7369601130485535	 ([q :][early][( with][pay )][afterward.][several][years][now,][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 8 9 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35): 7.248939037322998, EP: 0.7066524624824524	 ([q :][employees][lunch][early][( with][pay )][afterward.][several][years][now,][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 8 9 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35): 6.937954425811768, EP: 0.6763365864753723	 ([q :][employees][lunch][let][everyone][go][home][early][( with][pay )][afterward.][several][years][now,][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(1 2 3 4 5 6 7 8 9 10 11 19 23 24 25 26 27 28 29 30 31 32 33 34 35): 6.865690231323242, EP: 0.6692920327186584	 ([small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][afterward.][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 20 21 22): 6.756874084472656, EP: 0.6586841940879822	 ([q :][small][business.][holiday][season][every][year,][invite][restaurant.][past,][let][everyone][go][home][early][( with][pay )][several][years][now,])
+v(1 2 3 4 5 6 7 8 9 10 11 24 25): 6.484203338623047, EP: 0.6321033239364624	 ([small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][skipped][lunch])
+v(1 2 3 4 5 6 7 10 11 19 23 26 27 28 29 30 31 32 33 34 35): 6.2955708503723145, EP: 0.6137147545814514	 ([small][business.][holiday][season][every][year,][invite][restaurant.][past,][afterward.][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 24 25): 6.024696350097656, EP: 0.587308943271637	 ([small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][let][everyone][go][home][skipped][lunch])
+v(1 2 3 4 5 6 7 10 11 12 13 14 15 19 23 26 27 28 29 30 31 32 33 34 35): 5.939192295074463, EP: 0.578973650932312	 ([small][business.][holiday][season][every][year,][invite][restaurant.][past,][let][everyone][go][home][afterward.][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 19 23 24 25 26 27 28 29 30 31 32 33 34 35): 5.773465156555176, EP: 0.5628179907798767	 ([small][business.][holiday][season][every][year,][invite][employees][lunch][restaurant.][past,][let][everyone][go][home][afterward.][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(1 2 3 4 5 6 7 10 11): 5.61063289642334, EP: 0.5469445586204529	 ([small][business.][holiday][season][every][year,][invite][restaurant.][past,])
+v(0 8 9 16 17 18 20 21 22 24 25): 5.433396816253662, EP: 0.5296669602394104	 ([q :][employees][lunch][early][( with][pay )][several][years][now,][skipped][lunch])
+v(1 2 3 4 5 6 7 10 11 12 13 14 15): 5.248937606811523, EP: 0.5116851925849915	 ([small][business.][holiday][season][every][year,][invite][restaurant.][past,][let][everyone][go][home])
+v(0 8 9 12 13 14 15 16 17 18 20 21 22 24 25): 4.932521820068359, EP: 0.4808398485183716	 ([q :][employees][lunch][let][everyone][go][home][early][( with][pay )][several][years][now,][skipped][lunch])
+v(0 16 17 18 20 21 22): 4.210906505584717, EP: 0.41049420833587646	 ([q :][early][( with][pay )][several][years][now,])
+v(0 12 13 14 15 16 17 18 20 21 22): 3.7684130668640137, EP: 0.36735835671424866	 ([q :][let][everyone][go][home][early][( with][pay )][several][years][now,])
+v(8 9 12 13 14 15 24 25): 1.78875732421875, EP: 0.17437444627285004	 ([employees][lunch][let][everyone][go][home][skipped][lunch])
+v(8 9 24 25): 1.750744342803955, EP: 0.1706688106060028	 ([employees][lunch][skipped][lunch])
+v(8 9 19 23 24 25 26 27 28 29 30 31 32 33 34 35): 1.7221765518188477, EP: 0.16788391768932343	 ([employees][lunch][afterward.][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(19 23 26 27 28 29 30 31 32 33 34 35): 0.9594392776489258, EP: 0.09352956712245941	 ([afterward.][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(8 9 12 13 14 15 19 23 24 25 26 27 28 29 30 31 32 33 34 35): 0.7708725929260254, EP: 0.07514741271734238	 ([employees][lunch][let][everyone][go][home][afterward.][people][skipped][lunch][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(12 13 14 15 19 23 26 27 28 29 30 31 32 33 34 35): 0.6971993446350098, EP: 0.06796548515558243	 ([let][everyone][go][home][afterward.][people][gone][straight][home.][caused][ill][among][employees.][one][option][...])
+v(12 13 14 15): 0.0823371410369873, EP: 0.008026518858969212	 ([let][everyone][go][home])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

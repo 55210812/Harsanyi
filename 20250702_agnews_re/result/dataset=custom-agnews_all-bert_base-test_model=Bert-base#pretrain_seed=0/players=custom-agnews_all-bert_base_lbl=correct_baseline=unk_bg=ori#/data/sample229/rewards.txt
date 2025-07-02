@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: two
+Player 1: germany's
+Player 2: biggest
+Player 3: banks,
+Player 4: postbank
+Player 5: deutsche
+Player 6: bank,
+Player 7: targets
+Player 8: coordinated
+Player 9: phishing
+Player 10: attacks
+Player 11: last
+Player 12: week.
+---------- Rewards ----------
+v(): 3.541823387145996	 ([])
+v(1 3 5 6 9 10): 6.821240425109863	 ([germany's][banks,][deutsche][bank,][phishing][attacks])
+v(0 2 4 7 8): 2.0102925300598145	 ([two][biggest][postbank][targets][coordinated])
+v(11 12): 3.4891138076782227	 ([last][week.])
+v(0 1 2 3 4 5 6 7 8 9 10): 7.077420234680176	 ([two][germany's][biggest][banks,][postbank][deutsche][bank,][targets][coordinated][phishing][attacks])
+v(1 3 5 6 9 10 11 12): 7.252352714538574	 ([germany's][banks,][deutsche][bank,][phishing][attacks][last][week.])
+v(0 2 4 7 8 11 12): 1.0556799173355103	 ([two][biggest][postbank][targets][coordinated][last][week.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 6.5351033210754395	 ([two][germany's][biggest][banks,][postbank][deutsche][bank,][targets][coordinated][phishing][attacks][last][week.])
+---------- Rewards-v() ----------
+v(1 3 5 6 9 10 11 12): 3.710529327392578, EP: 1.2396198511123657	 ([germany's][banks,][deutsche][bank,][phishing][attacks][last][week.])
+v(0 1 2 3 4 5 6 7 8 9 10): 3.5355968475341797, EP: 1.181178092956543	 ([two][germany's][biggest][banks,][postbank][deutsche][bank,][targets][coordinated][phishing][attacks])
+v(1 3 5 6 9 10): 3.279417037963867, EP: 1.0955932140350342	 ([germany's][banks,][deutsche][bank,][phishing][attacks])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 2.9932799339294434, EP: 1.0	 ([two][germany's][biggest][banks,][postbank][deutsche][bank,][targets][coordinated][phishing][attacks][last][week.])
+v(0 2 4 7 8 11 12): -2.4861435890197754, EP: -0.8305750489234924	 ([two][biggest][postbank][targets][coordinated][last][week.])
+v(0 2 4 7 8): -1.5315308570861816, EP: -0.5116564035415649	 ([two][biggest][postbank][targets][coordinated])
+v(11 12): -0.05270957946777344, EP: -0.017609305679798126	 ([last][week.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

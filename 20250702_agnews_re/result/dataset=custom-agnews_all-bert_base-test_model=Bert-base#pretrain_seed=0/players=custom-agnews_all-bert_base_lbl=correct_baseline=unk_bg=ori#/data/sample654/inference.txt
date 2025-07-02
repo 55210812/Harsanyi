@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 19:33:17
+prompt: [CLS] there are so many new faces, it # 39 ; s hard to keep them all straight. but despite all the upheaval, all the contracts and controversy that so dominated the summer, jerry sloan believes the sheer [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2045 decoded_text: there
+idx:2 input_id:2024 decoded_text: are
+idx:3 input_id:2061 decoded_text: so
+idx:4 input_id:2116 decoded_text: many
+idx:5 input_id:2047 decoded_text: new
+idx:6 input_id:5344 decoded_text: faces
+idx:7 input_id:1010 decoded_text: ,
+idx:8 input_id:2009 decoded_text: it
+idx:9 input_id:1001 decoded_text: #
+idx:10 input_id:4464 decoded_text: 39
+idx:11 input_id:1025 decoded_text: ;
+idx:12 input_id:1055 decoded_text: s
+idx:13 input_id:2524 decoded_text: hard
+idx:14 input_id:2000 decoded_text: to
+idx:15 input_id:2562 decoded_text: keep
+idx:16 input_id:2068 decoded_text: them
+idx:17 input_id:2035 decoded_text: all
+idx:18 input_id:3442 decoded_text: straight
+idx:19 input_id:1012 decoded_text: .
+idx:20 input_id:2021 decoded_text: but
+idx:21 input_id:2750 decoded_text: despite
+idx:22 input_id:2035 decoded_text: all
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:2039 decoded_text: up
+idx:25 input_id:20192 decoded_text: ##hea
+idx:26 input_id:10175 decoded_text: ##val
+idx:27 input_id:1010 decoded_text: ,
+idx:28 input_id:2035 decoded_text: all
+idx:29 input_id:1996 decoded_text: the
+idx:30 input_id:8311 decoded_text: contracts
+idx:31 input_id:1998 decoded_text: and
+idx:32 input_id:6704 decoded_text: controversy
+idx:33 input_id:2008 decoded_text: that
+idx:34 input_id:2061 decoded_text: so
+idx:35 input_id:6817 decoded_text: dominated
+idx:36 input_id:1996 decoded_text: the
+idx:37 input_id:2621 decoded_text: summer
+idx:38 input_id:1010 decoded_text: ,
+idx:39 input_id:6128 decoded_text: jerry
+idx:40 input_id:19024 decoded_text: sloan
+idx:41 input_id:7164 decoded_text: believes
+idx:42 input_id:1996 decoded_text: the
+idx:43 input_id:11591 decoded_text: sheer
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.544517993927002, 8.15920639038086, -1.990116834640503, -2.487797498703003]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

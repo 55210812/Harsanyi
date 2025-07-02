@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: apple
+Player 1: computer
+Player 2: inc.
+Player 3: ( aapl. o :
+Player 4: quote,
+Player 5: profile,
+Player 6: research )
+Player 7: fine - tuning
+Player 8: enhanced
+Player 9: ipod
+Player 10: roughly
+Player 11: 50
+Player 12: percent
+Player 13: storage
+Player 14: color
+Player 15: screen
+Player 16: display
+Player 17: photos?
+---------- Rewards ----------
+v(): 3.557889699935913	 ([])
+v(1 4 5 7 9 13 15): 5.291219234466553	 ([computer][quote,][profile,][fine - tuning][ipod][storage][screen])
+v(2 3): -3.6600730419158936	 ([inc.][( aapl. o :])
+v(0 6 8 10 11 12 14 16 17): 8.272391319274902	 ([apple][research )][enhanced][roughly][50][percent][color][display][photos?])
+v(1 2 3 4 5 7 9 13 15): 3.8740439414978027	 ([computer][inc.][( aapl. o :][quote,][profile,][fine - tuning][ipod][storage][screen])
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 6.608960151672363	 ([apple][computer][quote,][profile,][research )][fine - tuning][enhanced][ipod][roughly][50][percent][storage][color][screen][display][photos?])
+v(0 2 3 6 8 10 11 12 14 16 17): 7.843345642089844	 ([apple][inc.][( aapl. o :][research )][enhanced][roughly][50][percent][color][display][photos?])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 5.283371925354004	 ([apple][computer][inc.][( aapl. o :][quote,][profile,][research )][fine - tuning][enhanced][ipod][roughly][50][percent][storage][color][screen][display][photos?])
+---------- Rewards-v() ----------
+v(2 3): -7.217962741851807, EP: -4.183156967163086	 ([inc.][( aapl. o :])
+v(0 6 8 10 11 12 14 16 17): 4.71450138092041, EP: 2.7322804927825928	 ([apple][research )][enhanced][roughly][50][percent][color][display][photos?])
+v(0 2 3 6 8 10 11 12 14 16 17): 4.285455703735352, EP: 2.4836277961730957	 ([apple][inc.][( aapl. o :][research )][enhanced][roughly][50][percent][color][display][photos?])
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 3.05107045173645, EP: 1.7682421207427979	 ([apple][computer][quote,][profile,][research )][fine - tuning][enhanced][ipod][roughly][50][percent][storage][color][screen][display][photos?])
+v(1 4 5 7 9 13 15): 1.7333295345306396, EP: 1.0045478343963623	 ([computer][quote,][profile,][fine - tuning][ipod][storage][screen])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 1.7254822254180908, EP: 1.0	 ([apple][computer][inc.][( aapl. o :][quote,][profile,][research )][fine - tuning][enhanced][ipod][roughly][50][percent][storage][color][screen][display][photos?])
+v(1 2 3 4 5 7 9 13 15): 0.31615424156188965, EP: 0.1832266002893448	 ([computer][inc.][( aapl. o :][quote,][profile,][fine - tuning][ipod][storage][screen])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

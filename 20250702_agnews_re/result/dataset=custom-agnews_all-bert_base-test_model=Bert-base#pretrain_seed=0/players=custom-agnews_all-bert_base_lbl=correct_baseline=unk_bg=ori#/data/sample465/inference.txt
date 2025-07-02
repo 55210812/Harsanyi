@@ -1,0 +1,39 @@
+Execution time: 2025-07-02 19:28:44
+prompt: [CLS] the holiday leaves us a short trading week as a present. let's unwrap it to see what's in store for us. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:6209 decoded_text: holiday
+idx:3 input_id:3727 decoded_text: leaves
+idx:4 input_id:2149 decoded_text: us
+idx:5 input_id:1037 decoded_text: a
+idx:6 input_id:2460 decoded_text: short
+idx:7 input_id:6202 decoded_text: trading
+idx:8 input_id:2733 decoded_text: week
+idx:9 input_id:2004 decoded_text: as
+idx:10 input_id:1037 decoded_text: a
+idx:11 input_id:2556 decoded_text: present
+idx:12 input_id:1012 decoded_text: .
+idx:13 input_id:2292 decoded_text: let
+idx:14 input_id:1005 decoded_text: '
+idx:15 input_id:1055 decoded_text: s
+idx:16 input_id:4895 decoded_text: un
+idx:17 input_id:13088 decoded_text: ##wr
+idx:18 input_id:9331 decoded_text: ##ap
+idx:19 input_id:2009 decoded_text: it
+idx:20 input_id:2000 decoded_text: to
+idx:21 input_id:2156 decoded_text: see
+idx:22 input_id:2054 decoded_text: what
+idx:23 input_id:1005 decoded_text: '
+idx:24 input_id:1055 decoded_text: s
+idx:25 input_id:1999 decoded_text: in
+idx:26 input_id:3573 decoded_text: store
+idx:27 input_id:2005 decoded_text: for
+idx:28 input_id:2149 decoded_text: us
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.840494155883789, -3.5293867588043213, 6.254532337188721, -2.962994337081909]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

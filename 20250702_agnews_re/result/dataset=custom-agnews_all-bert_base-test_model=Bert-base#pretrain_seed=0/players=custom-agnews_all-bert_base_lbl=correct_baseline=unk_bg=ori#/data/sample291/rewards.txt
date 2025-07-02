@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: australian
+Player 1: sharemarket
+Player 2: remained
+Player 3: weaker
+Player 4: noon,
+Player 5: extending
+Player 6: morning
+Player 7: losses
+Player 8: disappointing
+Player 9: performance
+Player 10: wall
+Player 11: street
+Player 12: friday
+Player 13: nervous
+Player 14: opening
+Player 15: tokyo
+Player 16: stock
+Player 17: exchange.
+---------- Rewards ----------
+v(): -4.138028144836426	 ([])
+v(7 9 11 13 14 17): 2.767298698425293	 ([losses][performance][street][nervous][opening][exchange.])
+v(1 3 15 16): 7.19302225112915	 ([sharemarket][weaker][tokyo][stock])
+v(0 2 4 5 6 8 10 12): -3.283742666244507	 ([australian][remained][noon,][extending][morning][disappointing][wall][friday])
+v(1 3 7 9 11 13 14 15 16 17): 5.190357685089111	 ([sharemarket][weaker][losses][performance][street][nervous][opening][tokyo][stock][exchange.])
+v(0 2 4 5 6 7 8 9 10 11 12 13 14 17): 4.802122116088867	 ([australian][remained][noon,][extending][morning][losses][disappointing][performance][wall][street][friday][nervous][opening][exchange.])
+v(0 1 2 3 4 5 6 8 10 12 15 16): 4.790731430053711	 ([australian][sharemarket][remained][weaker][noon,][extending][morning][disappointing][wall][friday][tokyo][stock])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 4.721476078033447	 ([australian][sharemarket][remained][weaker][noon,][extending][morning][losses][disappointing][performance][wall][street][friday][nervous][opening][tokyo][stock][exchange.])
+---------- Rewards-v() ----------
+v(1 3 15 16): 11.331050872802734, EP: 1.2789711952209473	 ([sharemarket][weaker][tokyo][stock])
+v(1 3 7 9 11 13 14 15 16 17): 9.328386306762695, EP: 1.0529241561889648	 ([sharemarket][weaker][losses][performance][street][nervous][opening][tokyo][stock][exchange.])
+v(0 2 4 5 6 7 8 9 10 11 12 13 14 17): 8.940150260925293, EP: 1.009102702140808	 ([australian][remained][noon,][extending][morning][losses][disappointing][performance][wall][street][friday][nervous][opening][exchange.])
+v(0 1 2 3 4 5 6 8 10 12 15 16): 8.928759574890137, EP: 1.007817029953003	 ([australian][sharemarket][remained][weaker][noon,][extending][morning][disappointing][wall][friday][tokyo][stock])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.859504699707031, EP: 1.0	 ([australian][sharemarket][remained][weaker][noon,][extending][morning][losses][disappointing][performance][wall][street][friday][nervous][opening][tokyo][stock][exchange.])
+v(7 9 11 13 14 17): 6.905326843261719, EP: 0.779425859451294	 ([losses][performance][street][nervous][opening][exchange.])
+v(0 2 4 5 6 8 10 12): 0.854285478591919, EP: 0.09642587602138519	 ([australian][remained][noon,][extending][morning][disappointing][wall][friday])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,46 @@
+---------- Players ----------
+Player 0: iran
+Player 1: # 39 ; s
+Player 2: supreme
+Player 3: leader
+Player 4: ayatollah
+Player 5: ali
+Player 6: khamenei
+Player 7: says
+Player 8: united
+Player 9: states
+Player 10: facing
+Player 11: called
+Player 12: quot ; decades
+Player 13: hatred
+Player 14: quot ;
+Player 15: islamic
+Player 16: world
+Player 17: us - led
+Player 18: military
+Player 19: siege
+Player 20: iraqi
+Player 21: shi
+Player 22: # 39 ; ite
+Player 23: holy
+Player 24: city
+Player 25: najaf.
+---------- Rewards ----------
+v(): -5.872098922729492	 ([])
+v(0 4 6 15 20 25): 8.426953315734863	 ([iran][ayatollah][khamenei][islamic][iraqi][najaf.])
+v(10 16 18 19 21 22 23 24): 4.321024417877197	 ([facing][world][military][siege][shi][# 39 ; ite][holy][city])
+v(1 2 3 5 7 8 9 11 12 13 14 17): 5.649792194366455	 ([# 39 ; s][supreme][leader][ali][says][united][states][called][quot ; decades][hatred][quot ;][us - led])
+v(0 4 6 10 15 16 18 19 20 21 22 23 24 25): 8.452723503112793	 ([iran][ayatollah][khamenei][facing][islamic][world][military][siege][iraqi][shi][# 39 ; ite][holy][city][najaf.])
+v(0 1 2 3 4 5 6 7 8 9 11 12 13 14 15 17 20 25): 8.440088272094727	 ([iran][# 39 ; s][supreme][leader][ayatollah][ali][khamenei][says][united][states][called][quot ; decades][hatred][quot ;][islamic][us - led][iraqi][najaf.])
+v(1 2 3 5 7 8 9 10 11 12 13 14 16 17 18 19 21 22 23 24): 7.606245040893555	 ([# 39 ; s][supreme][leader][ali][says][united][states][facing][called][quot ; decades][hatred][quot ;][world][us - led][military][siege][shi][# 39 ; ite][holy][city])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 8.400686264038086	 ([iran][# 39 ; s][supreme][leader][ayatollah][ali][khamenei][says][united][states][facing][called][quot ; decades][hatred][quot ;][islamic][world][us - led][military][siege][iraqi][shi][# 39 ; ite][holy][city][najaf.])
+---------- Rewards-v() ----------
+v(0 4 6 10 15 16 18 19 20 21 22 23 24 25): 14.324822425842285, EP: 1.003645896911621	 ([iran][ayatollah][khamenei][facing][islamic][world][military][siege][iraqi][shi][# 39 ; ite][holy][city][najaf.])
+v(0 1 2 3 4 5 6 7 8 9 11 12 13 14 15 17 20 25): 14.312187194824219, EP: 1.002760648727417	 ([iran][# 39 ; s][supreme][leader][ayatollah][ali][khamenei][says][united][states][called][quot ; decades][hatred][quot ;][islamic][us - led][iraqi][najaf.])
+v(0 4 6 15 20 25): 14.299052238464355, EP: 1.001840353012085	 ([iran][ayatollah][khamenei][islamic][iraqi][najaf.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 14.272785186767578, EP: 1.0	 ([iran][# 39 ; s][supreme][leader][ayatollah][ali][khamenei][says][united][states][facing][called][quot ; decades][hatred][quot ;][islamic][world][us - led][military][siege][iraqi][shi][# 39 ; ite][holy][city][najaf.])
+v(1 2 3 5 7 8 9 10 11 12 13 14 16 17 18 19 21 22 23 24): 13.478343963623047, EP: 0.9443387389183044	 ([# 39 ; s][supreme][leader][ali][says][united][states][facing][called][quot ; decades][hatred][quot ;][world][us - led][military][siege][shi][# 39 ; ite][holy][city])
+v(1 2 3 5 7 8 9 11 12 13 14 17): 11.521890640258789, EP: 0.8072629570960999	 ([# 39 ; s][supreme][leader][ali][says][united][states][called][quot ; decades][hatred][quot ;][us - led])
+v(10 16 18 19 21 22 23 24): 10.193122863769531, EP: 0.7141649723052979	 ([facing][world][military][siege][shi][# 39 ; ite][holy][city])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

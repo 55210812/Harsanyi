@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: bhp
+Player 1: billiton,
+Player 2: world
+Player 3: # 39 ; s
+Player 4: biggest
+Player 5: miner,
+Player 6: approved
+Player 7: total
+Player 8: \ $ 1. 5
+Player 9: billion
+Player 10: expand
+Player 11: copper
+Player 12: iron
+Player 13: ore
+Player 14: output
+Player 15: amid
+Player 16: increasing
+Player 17: global
+Player 18: metals
+Player 19: demand
+Player 20: led
+Player 21: china.
+---------- Rewards ----------
+v(): -4.8096604347229	 ([])
+v(0 1 8 11 12 13 14 15 18): 6.772477149963379	 ([bhp][billiton,][\ $ 1. 5][copper][iron][ore][output][amid][metals])
+v(7 9 10): 5.447620391845703	 ([total][billion][expand])
+v(2 3 4 5 6 16 17 19 20 21): 6.4751763343811035	 ([world][# 39 ; s][biggest][miner,][approved][increasing][global][demand][led][china.])
+v(0 1 7 8 9 10 11 12 13 14 15 18): 7.011507987976074	 ([bhp][billiton,][total][\ $ 1. 5][billion][expand][copper][iron][ore][output][amid][metals])
+v(0 1 2 3 4 5 6 8 11 12 13 14 15 16 17 18 19 20 21): 6.545674800872803	 ([bhp][billiton,][world][# 39 ; s][biggest][miner,][approved][\ $ 1. 5][copper][iron][ore][output][amid][increasing][global][metals][demand][led][china.])
+v(2 3 4 5 6 7 9 10 16 17 19 20 21): 6.919269561767578	 ([world][# 39 ; s][biggest][miner,][approved][total][billion][expand][increasing][global][demand][led][china.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 6.5627641677856445	 ([bhp][billiton,][world][# 39 ; s][biggest][miner,][approved][total][\ $ 1. 5][billion][expand][copper][iron][ore][output][amid][increasing][global][metals][demand][led][china.])
+---------- Rewards-v() ----------
+v(0 1 7 8 9 10 11 12 13 14 15 18): 11.821168899536133, EP: 1.039458990097046	 ([bhp][billiton,][total][\ $ 1. 5][billion][expand][copper][iron][ore][output][amid][metals])
+v(2 3 4 5 6 7 9 10 16 17 19 20 21): 11.72892951965332, EP: 1.0313481092453003	 ([world][# 39 ; s][biggest][miner,][approved][total][billion][expand][increasing][global][demand][led][china.])
+v(0 1 8 11 12 13 14 15 18): 11.582138061523438, EP: 1.0184404850006104	 ([bhp][billiton,][\ $ 1. 5][copper][iron][ore][output][amid][metals])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 11.372425079345703, EP: 1.0	 ([bhp][billiton,][world][# 39 ; s][biggest][miner,][approved][total][\ $ 1. 5][billion][expand][copper][iron][ore][output][amid][increasing][global][metals][demand][led][china.])
+v(0 1 2 3 4 5 6 8 11 12 13 14 15 16 17 18 19 20 21): 11.355335235595703, EP: 0.9984972476959229	 ([bhp][billiton,][world][# 39 ; s][biggest][miner,][approved][\ $ 1. 5][copper][iron][ore][output][amid][increasing][global][metals][demand][led][china.])
+v(2 3 4 5 6 16 17 19 20 21): 11.284836769104004, EP: 0.9922981858253479	 ([world][# 39 ; s][biggest][miner,][approved][increasing][global][demand][led][china.])
+v(7 9 10): 10.257280349731445, EP: 0.9019430875778198	 ([total][billion][expand])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

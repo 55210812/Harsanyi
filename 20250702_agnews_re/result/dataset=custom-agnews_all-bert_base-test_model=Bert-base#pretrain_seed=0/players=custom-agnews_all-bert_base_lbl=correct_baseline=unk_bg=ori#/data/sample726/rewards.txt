@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: loser
+Player 1: saturday's
+Player 2: maryland - north
+Player 3: carolina
+Player 4: state
+Player 5: game,
+Player 6: 3 - 2,
+Player 7: bowl
+Player 8: season
+Player 9: may
+Player 10: unreachable
+Player 11: destination.
+---------- Rewards ----------
+v(): -5.886753082275391	 ([])
+v(3 4): 3.757378578186035	 ([carolina][state])
+v(2 5 6 7 8): 8.666179656982422	 ([maryland - north][game,][3 - 2,][bowl][season])
+v(0 1 9 10 11): -0.2224653959274292	 ([loser][saturday's][may][unreachable][destination.])
+v(2 3 4 5 6 7 8): 8.641530990600586	 ([maryland - north][carolina][state][game,][3 - 2,][bowl][season])
+v(0 1 3 4 9 10 11): 7.444637775421143	 ([loser][saturday's][carolina][state][may][unreachable][destination.])
+v(0 1 2 5 6 7 8 9 10 11): 8.589975357055664	 ([loser][saturday's][maryland - north][game,][3 - 2,][bowl][season][may][unreachable][destination.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 7.83165168762207	 ([loser][saturday's][maryland - north][carolina][state][game,][3 - 2,][bowl][season][may][unreachable][destination.])
+---------- Rewards-v() ----------
+v(2 5 6 7 8): 14.552932739257812, EP: 1.0608327388763428	 ([maryland - north][game,][3 - 2,][bowl][season])
+v(2 3 4 5 6 7 8): 14.528284072875977, EP: 1.0590360164642334	 ([maryland - north][carolina][state][game,][3 - 2,][bowl][season])
+v(0 1 2 5 6 7 8 9 10 11): 14.476728439331055, EP: 1.0552778244018555	 ([loser][saturday's][maryland - north][game,][3 - 2,][bowl][season][may][unreachable][destination.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 13.718404769897461, EP: 1.0	 ([loser][saturday's][maryland - north][carolina][state][game,][3 - 2,][bowl][season][may][unreachable][destination.])
+v(0 1 3 4 9 10 11): 13.331390380859375, EP: 0.9717886447906494	 ([loser][saturday's][carolina][state][may][unreachable][destination.])
+v(3 4): 9.644131660461426, EP: 0.7030068039894104	 ([carolina][state])
+v(0 1 9 10 11): 5.664287567138672, EP: 0.4128969609737396	 ([loser][saturday's][may][unreachable][destination.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

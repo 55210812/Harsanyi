@@ -1,0 +1,62 @@
+---------- Players ----------
+Player 0: san
+Player 1: jose,
+Player 2: calif.
+Player 3: -
+Player 4: sign
+Player 5: google
+Player 6: inc.'s
+Player 7: initial
+Player 8: public
+Player 9: offering
+Player 10: hot
+Player 11: big
+Player 12: expected,
+Player 13: internet
+Player 14: search
+Player 15: giant
+Player 16: reduced
+Player 17: number
+Player 18: shares
+Player 19: sold
+Player 20: insiders
+Player 21: slashed
+Player 22: estimated
+Player 23: per - share
+Player 24: price
+Player 25: range...
+---------- Rewards ----------
+v(): -8.714829444885254	 ([])
+v(0 1 5 11 12 13 14): -10.808582305908203	 ([san][jose,][google][big][expected,][internet][search])
+v(2 6 9 18 23): -9.744813919067383	 ([calif.][inc.'s][offering][shares][per - share])
+v(3 16 17 25): -0.991024374961853	 ([-][reduced][number][range...])
+v(4 7 8 10 15 19 20 21 22 24): -4.65293025970459	 ([sign][initial][public][hot][giant][sold][insiders][slashed][estimated][price])
+v(0 1 2 5 6 9 11 12 13 14 18 23): -9.51753044128418	 ([san][jose,][calif.][google][inc.'s][offering][big][expected,][internet][search][shares][per - share])
+v(0 1 3 5 11 12 13 14 16 17 25): -3.062376022338867	 ([san][jose,][-][google][big][expected,][internet][search][reduced][number][range...])
+v(0 1 4 5 7 8 10 11 12 13 14 15 19 20 21 22 24): -9.632987976074219	 ([san][jose,][sign][google][initial][public][hot][big][expected,][internet][search][giant][sold][insiders][slashed][estimated][price])
+v(2 3 6 9 16 17 18 23 25): 8.106718063354492	 ([calif.][-][inc.'s][offering][reduced][number][shares][per - share][range...])
+v(2 4 6 7 8 9 10 15 18 19 20 21 22 23 24): -8.933012008666992	 ([calif.][sign][inc.'s][initial][public][offering][hot][giant][shares][sold][insiders][slashed][estimated][per - share][price])
+v(3 4 7 8 10 15 16 17 19 20 21 22 24 25): 7.367585182189941	 ([-][sign][initial][public][hot][giant][reduced][number][sold][insiders][slashed][estimated][price][range...])
+v(0 1 2 3 5 6 9 11 12 13 14 16 17 18 23 25): 8.499900817871094	 ([san][jose,][calif.][-][google][inc.'s][offering][big][expected,][internet][search][reduced][number][shares][per - share][range...])
+v(0 1 2 4 5 6 7 8 9 10 11 12 13 14 15 18 19 20 21 22 23 24): -9.081737518310547	 ([san][jose,][calif.][sign][google][inc.'s][initial][public][offering][hot][big][expected,][internet][search][giant][shares][sold][insiders][slashed][estimated][per - share][price])
+v(0 1 3 4 5 7 8 10 11 12 13 14 15 16 17 19 20 21 22 24 25): 6.613992691040039	 ([san][jose,][-][sign][google][initial][public][hot][big][expected,][internet][search][giant][reduced][number][sold][insiders][slashed][estimated][price][range...])
+v(2 3 4 6 7 8 9 10 15 16 17 18 19 20 21 22 23 24 25): 8.451849937438965	 ([calif.][-][sign][inc.'s][initial][public][offering][hot][giant][reduced][number][shares][sold][insiders][slashed][estimated][per - share][price][range...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 8.49942398071289	 ([san][jose,][calif.][-][sign][google][inc.'s][initial][public][offering][hot][big][expected,][internet][search][giant][reduced][number][shares][sold][insiders][slashed][estimated][per - share][price][range...])
+---------- Rewards-v() ----------
+v(0 1 2 3 5 6 9 11 12 13 14 16 17 18 23 25): 17.21472930908203, EP: 1.0000276565551758	 ([san][jose,][calif.][-][google][inc.'s][offering][big][expected,][internet][search][reduced][number][shares][per - share][range...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 17.214252471923828, EP: 1.0	 ([san][jose,][calif.][-][sign][google][inc.'s][initial][public][offering][hot][big][expected,][internet][search][giant][reduced][number][shares][sold][insiders][slashed][estimated][per - share][price][range...])
+v(2 3 4 6 7 8 9 10 15 16 17 18 19 20 21 22 23 24 25): 17.16667938232422, EP: 0.997236430644989	 ([calif.][-][sign][inc.'s][initial][public][offering][hot][giant][reduced][number][shares][sold][insiders][slashed][estimated][per - share][price][range...])
+v(2 3 6 9 16 17 18 23 25): 16.821548461914062, EP: 0.9771872758865356	 ([calif.][-][inc.'s][offering][reduced][number][shares][per - share][range...])
+v(3 4 7 8 10 15 16 17 19 20 21 22 24 25): 16.082414627075195, EP: 0.9342499375343323	 ([-][sign][initial][public][hot][giant][reduced][number][sold][insiders][slashed][estimated][price][range...])
+v(0 1 3 4 5 7 8 10 11 12 13 14 15 16 17 19 20 21 22 24 25): 15.328822135925293, EP: 0.8904727101325989	 ([san][jose,][-][sign][google][initial][public][hot][big][expected,][internet][search][giant][reduced][number][sold][insiders][slashed][estimated][price][range...])
+v(3 16 17 25): 7.723804950714111, EP: 0.4486866295337677	 ([-][reduced][number][range...])
+v(0 1 3 5 11 12 13 14 16 17 25): 5.652453422546387, EP: 0.328358918428421	 ([san][jose,][-][google][big][expected,][internet][search][reduced][number][range...])
+v(4 7 8 10 15 19 20 21 22 24): 4.061899185180664, EP: 0.2359614074230194	 ([sign][initial][public][hot][giant][sold][insiders][slashed][estimated][price])
+v(0 1 5 11 12 13 14): -2.093752861022949, EP: -0.1216290295124054	 ([san][jose,][google][big][expected,][internet][search])
+v(2 6 9 18 23): -1.029984474182129, EP: -0.05983323976397514	 ([calif.][inc.'s][offering][shares][per - share])
+v(0 1 4 5 7 8 10 11 12 13 14 15 19 20 21 22 24): -0.9181585311889648, EP: -0.053337112069129944	 ([san][jose,][sign][google][initial][public][hot][big][expected,][internet][search][giant][sold][insiders][slashed][estimated][price])
+v(0 1 2 5 6 9 11 12 13 14 18 23): -0.8027009963989258, EP: -0.046630024909973145	 ([san][jose,][calif.][google][inc.'s][offering][big][expected,][internet][search][shares][per - share])
+v(0 1 2 4 5 6 7 8 9 10 11 12 13 14 15 18 19 20 21 22 23 24): -0.36690807342529297, EP: -0.02131420373916626	 ([san][jose,][calif.][sign][google][inc.'s][initial][public][offering][hot][big][expected,][internet][search][giant][shares][sold][insiders][slashed][estimated][per - share][price])
+v(2 4 6 7 8 9 10 15 18 19 20 21 22 23 24): -0.21818256378173828, EP: -0.012674530036747456	 ([calif.][sign][inc.'s][initial][public][offering][hot][giant][shares][sold][insiders][slashed][estimated][per - share][price])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

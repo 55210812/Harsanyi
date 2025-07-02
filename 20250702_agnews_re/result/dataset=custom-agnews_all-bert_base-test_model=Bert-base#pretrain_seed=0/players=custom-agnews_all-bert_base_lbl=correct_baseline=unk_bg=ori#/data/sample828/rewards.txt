@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: baghdad
+Player 1: -
+Player 2: radical
+Player 3: shiite
+Player 4: cleric
+Player 5: muqtada
+Player 6: sadrs
+Player 7: movement
+Player 8: participate
+Player 9: national
+Player 10: iraqi
+Player 11: elections
+Player 12: due
+Player 13: january
+Player 14: 30,
+Player 15: sadrs
+Player 16: senior
+Player 17: assistant
+Player 18: asserted
+Player 19: friday.
+---------- Rewards ----------
+v(): -7.079672813415527	 ([])
+v(0 1 5 10 11): 8.575779914855957	 ([baghdad][-][muqtada][iraqi][elections])
+v(3 4 6 8 13 14 15 16 17): 7.817501068115234	 ([shiite][cleric][sadrs][participate][january][30,][sadrs][senior][assistant])
+v(2 7 9 12 18 19): 2.193836212158203	 ([radical][movement][national][due][asserted][friday.])
+v(0 1 3 4 5 6 8 10 11 13 14 15 16 17): 8.570602416992188	 ([baghdad][-][shiite][cleric][muqtada][sadrs][participate][iraqi][elections][january][30,][sadrs][senior][assistant])
+v(0 1 2 5 7 9 10 11 12 18 19): 8.520577430725098	 ([baghdad][-][radical][muqtada][movement][national][iraqi][elections][due][asserted][friday.])
+v(2 3 4 6 7 8 9 12 13 14 15 16 17 18 19): 8.408622741699219	 ([radical][shiite][cleric][sadrs][movement][participate][national][due][january][30,][sadrs][senior][assistant][asserted][friday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.491157531738281	 ([baghdad][-][radical][shiite][cleric][muqtada][sadrs][movement][participate][national][iraqi][elections][due][january][30,][sadrs][senior][assistant][asserted][friday.])
+---------- Rewards-v() ----------
+v(0 1 5 10 11): 15.655452728271484, EP: 1.0054346323013306	 ([baghdad][-][muqtada][iraqi][elections])
+v(0 1 3 4 5 6 8 10 11 13 14 15 16 17): 15.650275230407715, EP: 1.0051021575927734	 ([baghdad][-][shiite][cleric][muqtada][sadrs][participate][iraqi][elections][january][30,][sadrs][senior][assistant])
+v(0 1 2 5 7 9 10 11 12 18 19): 15.600250244140625, EP: 1.0018894672393799	 ([baghdad][-][radical][muqtada][movement][national][iraqi][elections][due][asserted][friday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 15.570830345153809, EP: 1.0	 ([baghdad][-][radical][shiite][cleric][muqtada][sadrs][movement][participate][national][iraqi][elections][due][january][30,][sadrs][senior][assistant][asserted][friday.])
+v(2 3 4 6 7 8 9 12 13 14 15 16 17 18 19): 15.488295555114746, EP: 0.9946994185447693	 ([radical][shiite][cleric][sadrs][movement][participate][national][due][january][30,][sadrs][senior][assistant][asserted][friday.])
+v(3 4 6 8 13 14 15 16 17): 14.897173881530762, EP: 0.9567359685897827	 ([shiite][cleric][sadrs][participate][january][30,][sadrs][senior][assistant])
+v(2 7 9 12 18 19): 9.27350902557373, EP: 0.5955693125724792	 ([radical][movement][national][due][asserted][friday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

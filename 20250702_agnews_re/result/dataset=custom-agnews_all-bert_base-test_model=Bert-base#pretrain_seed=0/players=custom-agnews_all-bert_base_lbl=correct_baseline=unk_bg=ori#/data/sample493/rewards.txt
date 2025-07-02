@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: china
+Player 1: planning
+Player 2: extend
+Player 3: official
+Player 4: policies
+Player 5: clamping
+Player 6: credit
+Player 7: 2005,
+Player 8: try
+Player 9: keep
+Player 10: economy
+Player 11: boiling
+Player 12: over.
+---------- Rewards ----------
+v(): -5.355589389801025	 ([])
+v(2 3 4 6 8 10): 4.525649070739746	 ([extend][official][policies][credit][try][economy])
+v(5 7 9 11 12): -4.681182384490967	 ([clamping][2005,][keep][boiling][over.])
+v(0 1): -1.2854647636413574	 ([china][planning])
+v(2 3 4 5 6 7 8 9 10 11 12): 4.886531352996826	 ([extend][official][policies][clamping][credit][2005,][try][keep][economy][boiling][over.])
+v(0 1 2 3 4 6 8 10): 4.775387763977051	 ([china][planning][extend][official][policies][credit][try][economy])
+v(0 1 5 7 9 11 12): -0.34461426734924316	 ([china][planning][clamping][2005,][keep][boiling][over.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 4.052038192749023	 ([china][planning][extend][official][policies][clamping][credit][2005,][try][keep][economy][boiling][over.])
+---------- Rewards-v() ----------
+v(2 3 4 5 6 7 8 9 10 11 12): 10.242120742797852, EP: 1.088703989982605	 ([extend][official][policies][clamping][credit][2005,][try][keep][economy][boiling][over.])
+v(0 1 2 3 4 6 8 10): 10.130977630615234, EP: 1.0768897533416748	 ([china][planning][extend][official][policies][credit][try][economy])
+v(2 3 4 6 8 10): 9.88123893737793, EP: 1.05034339427948	 ([extend][official][policies][credit][try][economy])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 9.40762710571289, EP: 1.0	 ([china][planning][extend][official][policies][clamping][credit][2005,][try][keep][economy][boiling][over.])
+v(0 1 5 7 9 11 12): 5.010974884033203, EP: 0.5326502323150635	 ([china][planning][clamping][2005,][keep][boiling][over.])
+v(0 1): 4.070124626159668, EP: 0.432640939950943	 ([china][planning])
+v(5 7 9 11 12): 0.6744070053100586, EP: 0.0716872587800026	 ([clamping][2005,][keep][boiling][over.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

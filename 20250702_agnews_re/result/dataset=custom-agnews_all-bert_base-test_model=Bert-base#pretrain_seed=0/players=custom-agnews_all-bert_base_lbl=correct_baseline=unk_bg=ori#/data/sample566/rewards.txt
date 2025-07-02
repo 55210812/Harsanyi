@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: british
+Player 1: multimillionaire,
+Player 2: richard
+Player 3: branson,
+Player 4: signed
+Player 5: substantial
+Player 6: contract
+Player 7: makers
+Player 8: spaceshipone
+Player 9: development
+Player 10: construction
+Player 11: passenger - carrying
+Player 12: space
+Player 13: vehicles.
+---------- Rewards ----------
+v(): 4.340094566345215	 ([])
+v(1 7 8 11): 7.92850399017334	 ([multimillionaire,][makers][spaceshipone][passenger - carrying])
+v(4 5 12 13): 8.318183898925781	 ([signed][substantial][space][vehicles.])
+v(0 2 3 6 9 10): 2.3298935890197754	 ([british][richard][branson,][contract][development][construction])
+v(1 4 5 7 8 11 12 13): 7.620364665985107	 ([multimillionaire,][signed][substantial][makers][spaceshipone][passenger - carrying][space][vehicles.])
+v(0 1 2 3 6 7 8 9 10 11): 8.18830680847168	 ([british][multimillionaire,][richard][branson,][contract][makers][spaceshipone][development][construction][passenger - carrying])
+v(0 2 3 4 5 6 9 10 12 13): 8.25244140625	 ([british][richard][branson,][signed][substantial][contract][development][construction][space][vehicles.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 6.846530914306641	 ([british][multimillionaire,][richard][branson,][signed][substantial][contract][makers][spaceshipone][development][construction][passenger - carrying][space][vehicles.])
+---------- Rewards-v() ----------
+v(4 5 12 13): 3.9780893325805664, EP: 1.5871495008468628	 ([signed][substantial][space][vehicles.])
+v(0 2 3 4 5 6 9 10 12 13): 3.912346839904785, EP: 1.5609201192855835	 ([british][richard][branson,][signed][substantial][contract][development][construction][space][vehicles.])
+v(0 1 2 3 6 7 8 9 10 11): 3.848212242126465, EP: 1.5353320837020874	 ([british][multimillionaire,][richard][branson,][contract][makers][spaceshipone][development][construction][passenger - carrying])
+v(1 7 8 11): 3.588409423828125, EP: 1.4316778182983398	 ([multimillionaire,][makers][spaceshipone][passenger - carrying])
+v(1 4 5 7 8 11 12 13): 3.2802700996398926, EP: 1.3087385892868042	 ([multimillionaire,][signed][substantial][makers][spaceshipone][passenger - carrying][space][vehicles.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 2.506436347961426, EP: 1.0	 ([british][multimillionaire,][richard][branson,][signed][substantial][contract][makers][spaceshipone][development][construction][passenger - carrying][space][vehicles.])
+v(0 2 3 6 9 10): -2.0102009773254395, EP: -0.8020155429840088	 ([british][richard][branson,][contract][development][construction])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

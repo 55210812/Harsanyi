@@ -1,0 +1,36 @@
+Execution time: 2025-07-02 19:34:53
+prompt: [CLS] ap - sandrine testud of france pulled out of the u. s. open on sunday because of an injured right foot. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:5472 decoded_text: sand
+idx:4 input_id:11467 decoded_text: ##rine
+idx:5 input_id:3231 decoded_text: test
+idx:6 input_id:6784 decoded_text: ##ud
+idx:7 input_id:1997 decoded_text: of
+idx:8 input_id:2605 decoded_text: france
+idx:9 input_id:2766 decoded_text: pulled
+idx:10 input_id:2041 decoded_text: out
+idx:11 input_id:1997 decoded_text: of
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:1057 decoded_text: u
+idx:14 input_id:1012 decoded_text: .
+idx:15 input_id:1055 decoded_text: s
+idx:16 input_id:1012 decoded_text: .
+idx:17 input_id:2330 decoded_text: open
+idx:18 input_id:2006 decoded_text: on
+idx:19 input_id:4465 decoded_text: sunday
+idx:20 input_id:2138 decoded_text: because
+idx:21 input_id:1997 decoded_text: of
+idx:22 input_id:2019 decoded_text: an
+idx:23 input_id:5229 decoded_text: injured
+idx:24 input_id:2157 decoded_text: right
+idx:25 input_id:3329 decoded_text: foot
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.2284700870513916, 8.478541374206543, -2.8003172874450684, -2.0045323371887207]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

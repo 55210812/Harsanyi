@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: often
+Player 1: championship
+Player 2: produces
+Player 3: relatively
+Player 4: surprising
+Player 5: leader
+Player 6: opening
+Player 7: round,
+Player 8: player
+Player 9: get
+Player 10: rather
+Player 11: overtaken
+Player 12: enormity
+Player 13: situation
+Player 14: slide,
+Player 15: sometimes
+Player 16: none
+Player 17: gracefully,
+Player 18: away
+Player 19: leaderboard
+---------- Rewards ----------
+v(): -3.3076469898223877	 ([])
+v(1 5 6 8 10 12): 6.614315032958984	 ([championship][leader][opening][player][rather][enormity])
+v(0 9 11 13): -3.3886067867279053	 ([often][get][overtaken][situation])
+v(2 3 4): -5.630703926086426	 ([produces][relatively][surprising])
+v(7 14 15 16 17 18 19): 7.000072479248047	 ([round,][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(0 1 5 6 8 9 10 11 12 13): 8.959527015686035	 ([often][championship][leader][opening][player][get][rather][overtaken][enormity][situation])
+v(1 2 3 4 5 6 8 10 12): 7.587395668029785	 ([championship][produces][relatively][surprising][leader][opening][player][rather][enormity])
+v(1 5 6 7 8 10 12 14 15 16 17 18 19): 8.865616798400879	 ([championship][leader][opening][round,][player][rather][enormity][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(0 2 3 4 9 11 13): -5.051294803619385	 ([often][produces][relatively][surprising][get][overtaken][situation])
+v(0 7 9 11 13 14 15 16 17 18 19): 7.368204116821289	 ([often][round,][get][overtaken][situation][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(2 3 4 7 14 15 16 17 18 19): 7.152157783508301	 ([produces][relatively][surprising][round,][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13): 9.469573020935059	 ([often][championship][produces][relatively][surprising][leader][opening][player][get][rather][overtaken][enormity][situation])
+v(0 1 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.219122886657715	 ([often][championship][leader][opening][round,][player][get][rather][overtaken][enormity][situation][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(1 2 3 4 5 6 7 8 10 12 14 15 16 17 18 19): 9.216962814331055	 ([championship][produces][relatively][surprising][leader][opening][round,][player][rather][enormity][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(0 2 3 4 7 9 11 13 14 15 16 17 18 19): 6.690176963806152	 ([often][produces][relatively][surprising][round,][get][overtaken][situation][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.331425666809082	 ([often][championship][produces][relatively][surprising][leader][opening][round,][player][get][rather][overtaken][enormity][situation][slide,][sometimes][none][gracefully,][away][leaderboard])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 8 9 10 11 12 13): 12.777219772338867, EP: 1.0109301805496216	 ([often][championship][produces][relatively][surprising][leader][opening][player][get][rather][overtaken][enormity][situation])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 12.63907241821289, EP: 1.0	 ([often][championship][produces][relatively][surprising][leader][opening][round,][player][get][rather][overtaken][enormity][situation][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(0 1 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 12.526769638061523, EP: 0.991114616394043	 ([often][championship][leader][opening][round,][player][get][rather][overtaken][enormity][situation][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(1 2 3 4 5 6 7 8 10 12 14 15 16 17 18 19): 12.524609565734863, EP: 0.9909437298774719	 ([championship][produces][relatively][surprising][leader][opening][round,][player][rather][enormity][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(0 1 5 6 8 9 10 11 12 13): 12.267173767089844, EP: 0.9705754518508911	 ([often][championship][leader][opening][player][get][rather][overtaken][enormity][situation])
+v(1 5 6 7 8 10 12 14 15 16 17 18 19): 12.173263549804688, EP: 0.9631453156471252	 ([championship][leader][opening][round,][player][rather][enormity][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(1 2 3 4 5 6 8 10 12): 10.895042419433594, EP: 0.8620128035545349	 ([championship][produces][relatively][surprising][leader][opening][player][rather][enormity])
+v(0 7 9 11 13 14 15 16 17 18 19): 10.675850868225098, EP: 0.8446704149246216	 ([often][round,][get][overtaken][situation][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(2 3 4 7 14 15 16 17 18 19): 10.45980453491211, EP: 0.8275769352912903	 ([produces][relatively][surprising][round,][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(7 14 15 16 17 18 19): 10.307719230651855, EP: 0.8155439496040344	 ([round,][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(0 2 3 4 7 9 11 13 14 15 16 17 18 19): 9.997823715209961, EP: 0.7910251021385193	 ([often][produces][relatively][surprising][round,][get][overtaken][situation][slide,][sometimes][none][gracefully,][away][leaderboard])
+v(1 5 6 8 10 12): 9.921961784362793, EP: 0.7850229144096375	 ([championship][leader][opening][player][rather][enormity])
+v(2 3 4): -2.323056936264038, EP: -0.1837996393442154	 ([produces][relatively][surprising])
+v(0 2 3 4 9 11 13): -1.743647813796997, EP: -0.13795694708824158	 ([often][produces][relatively][surprising][get][overtaken][situation])
+v(0 9 11 13): -0.08095979690551758, EP: -0.0064055174589157104	 ([often][get][overtaken][situation])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

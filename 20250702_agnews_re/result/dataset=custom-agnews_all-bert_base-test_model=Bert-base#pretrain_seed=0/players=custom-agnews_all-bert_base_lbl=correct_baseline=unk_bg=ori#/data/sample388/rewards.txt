@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: san
+Player 1: francisco
+Player 2: ( reuters )
+Player 3: -
+Player 4: researchers
+Player 5: ibm
+Player 6: & lt ; a
+Player 7: href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = ibm. n
+Player 8: qtype = sym
+Player 9: infotype = info
+Player 10: qcat = news " & gt ; ibm. n & lt ; / a & gt ;
+Player 11: advanced
+Player 12: micro
+Player 13: devices
+Player 14: inc.
+Player 15: & lt ; a
+Player 16: href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = amd. n
+Player 17: qtype = sym
+Player 18: infotype = info
+Player 19: qcat = news " & gt ; amd. n & lt ; / a & gt ;
+Player 20: improved
+Player 21: chip - making
+Player 22: technology
+Player 23: called
+Player 24: strained
+Player 25: silicon,
+Player 26: boosting
+Player 27: semiconductor
+Player 28: performance
+Player 29: time
+Player 30: gains
+Player 31: increasingly
+Player 32: hard
+Player 33: come
+Player 34: by,
+Player 35: companies
+Player 36: said
+Player 37: sunday.
+---------- Rewards ----------
+v(): 6.105201721191406	 ([])
+v(2 3 8 9 16 17 18 23 24 32 35 37): 7.60875940322876	 ([( reuters )][-][qtype = sym][infotype = info][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = amd. n][qtype = sym][infotype = info][called][strained][hard][companies][sunday.])
+v(1 4 5 6 7 10 11 19 21 22 27 28 29 30): 7.9658966064453125	 ([francisco][researchers][ibm][& lt ; a][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = ibm. n][qcat = news " & gt ; ibm. n & lt ; / a & gt ;][advanced][qcat = news " & gt ; amd. n & lt ; / a & gt ;][chip - making][technology][semiconductor][performance][time][gains])
+v(0 12 13 14 15 20 25 26 31 33 34 36): 4.39339542388916	 ([san][micro][devices][inc.][& lt ; a][improved][silicon,][boosting][increasingly][come][by,][said])
+v(1 2 3 4 5 6 7 8 9 10 11 16 17 18 19 21 22 23 24 27 28 29 30 32 35 37): 8.08055305480957	 ([francisco][( reuters )][-][researchers][ibm][& lt ; a][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = ibm. n][qtype = sym][infotype = info][qcat = news " & gt ; ibm. n & lt ; / a & gt ;][advanced][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = amd. n][qtype = sym][infotype = info][qcat = news " & gt ; amd. n & lt ; / a & gt ;][chip - making][technology][called][strained][semiconductor][performance][time][gains][hard][companies][sunday.])
+v(0 2 3 8 9 12 13 14 15 16 17 18 20 23 24 25 26 31 32 33 34 35 36 37): 7.947461128234863	 ([san][( reuters )][-][qtype = sym][infotype = info][micro][devices][inc.][& lt ; a][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = amd. n][qtype = sym][infotype = info][improved][called][strained][silicon,][boosting][increasingly][hard][come][by,][companies][said][sunday.])
+v(0 1 4 5 6 7 10 11 12 13 14 15 19 20 21 22 25 26 27 28 29 30 31 33 34 36): 8.093667984008789	 ([san][francisco][researchers][ibm][& lt ; a][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = ibm. n][qcat = news " & gt ; ibm. n & lt ; / a & gt ;][advanced][micro][devices][inc.][& lt ; a][qcat = news " & gt ; amd. n & lt ; / a & gt ;][improved][chip - making][technology][silicon,][boosting][semiconductor][performance][time][gains][increasingly][come][by,][said])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37): 8.147804260253906	 ([san][francisco][( reuters )][-][researchers][ibm][& lt ; a][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = ibm. n][qtype = sym][infotype = info][qcat = news " & gt ; ibm. n & lt ; / a & gt ;][advanced][micro][devices][inc.][& lt ; a][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = amd. n][qtype = sym][infotype = info][qcat = news " & gt ; amd. n & lt ; / a & gt ;][improved][chip - making][technology][called][strained][silicon,][boosting][semiconductor][performance][time][gains][increasingly][hard][come][by,][companies][said][sunday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37): 2.0426025390625, EP: 1.0	 ([san][francisco][( reuters )][-][researchers][ibm][& lt ; a][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = ibm. n][qtype = sym][infotype = info][qcat = news " & gt ; ibm. n & lt ; / a & gt ;][advanced][micro][devices][inc.][& lt ; a][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = amd. n][qtype = sym][infotype = info][qcat = news " & gt ; amd. n & lt ; / a & gt ;][improved][chip - making][technology][called][strained][silicon,][boosting][semiconductor][performance][time][gains][increasingly][hard][come][by,][companies][said][sunday.])
+v(0 1 4 5 6 7 10 11 12 13 14 15 19 20 21 22 25 26 27 28 29 30 31 33 34 36): 1.9884662628173828, EP: 0.9734964370727539	 ([san][francisco][researchers][ibm][& lt ; a][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = ibm. n][qcat = news " & gt ; ibm. n & lt ; / a & gt ;][advanced][micro][devices][inc.][& lt ; a][qcat = news " & gt ; amd. n & lt ; / a & gt ;][improved][chip - making][technology][silicon,][boosting][semiconductor][performance][time][gains][increasingly][come][by,][said])
+v(1 2 3 4 5 6 7 8 9 10 11 16 17 18 19 21 22 23 24 27 28 29 30 32 35 37): 1.975351333618164, EP: 0.9670757055282593	 ([francisco][( reuters )][-][researchers][ibm][& lt ; a][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = ibm. n][qtype = sym][infotype = info][qcat = news " & gt ; ibm. n & lt ; / a & gt ;][advanced][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = amd. n][qtype = sym][infotype = info][qcat = news " & gt ; amd. n & lt ; / a & gt ;][chip - making][technology][called][strained][semiconductor][performance][time][gains][hard][companies][sunday.])
+v(1 4 5 6 7 10 11 19 21 22 27 28 29 30): 1.8606948852539062, EP: 0.9109432101249695	 ([francisco][researchers][ibm][& lt ; a][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = ibm. n][qcat = news " & gt ; ibm. n & lt ; / a & gt ;][advanced][qcat = news " & gt ; amd. n & lt ; / a & gt ;][chip - making][technology][semiconductor][performance][time][gains])
+v(0 2 3 8 9 12 13 14 15 16 17 18 20 23 24 25 26 31 32 33 34 35 36 37): 1.842259407043457, EP: 0.9019176959991455	 ([san][( reuters )][-][qtype = sym][infotype = info][micro][devices][inc.][& lt ; a][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = amd. n][qtype = sym][infotype = info][improved][called][strained][silicon,][boosting][increasingly][hard][come][by,][companies][said][sunday.])
+v(0 12 13 14 15 20 25 26 31 33 34 36): -1.711806297302246, EP: -0.8380515575408936	 ([san][micro][devices][inc.][& lt ; a][improved][silicon,][boosting][increasingly][come][by,][said])
+v(2 3 8 9 16 17 18 23 24 32 35 37): 1.5035576820373535, EP: 0.7360990047454834	 ([( reuters )][-][qtype = sym][infotype = info][href = " http : / / www. reuters. co. uk / financequotelookup. jhtml? ticker = amd. n][qtype = sym][infotype = info][called][strained][hard][companies][sunday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

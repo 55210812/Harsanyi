@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: jeffrey
+Player 1: j.
+Player 2: steiner,
+Player 3: chairman
+Player 4: chief
+Player 5: executive
+Player 6: fairchild
+Player 7: corp.,
+Player 8: nearly
+Player 9: \ $ 2. 5
+Player 10: million
+Player 11: salary
+Player 12: last
+Player 13: year
+Player 14: beginning.
+---------- Rewards ----------
+v(): -3.4870946407318115	 ([])
+v(3 7 9 10 11 13): 4.476840972900391	 ([chairman][corp.,][\ $ 2. 5][million][salary][year])
+v(4 5 8 12): -2.0047988891601562	 ([chief][executive][nearly][last])
+v(0 1 2 6 14): 4.772838115692139	 ([jeffrey][j.][steiner,][fairchild][beginning.])
+v(3 4 5 7 8 9 10 11 12 13): 2.16774845123291	 ([chairman][chief][executive][corp.,][nearly][\ $ 2. 5][million][salary][last][year])
+v(0 1 2 3 6 7 9 10 11 13 14): 6.456346035003662	 ([jeffrey][j.][steiner,][chairman][fairchild][corp.,][\ $ 2. 5][million][salary][year][beginning.])
+v(0 1 2 4 5 6 8 12 14): 8.159912109375	 ([jeffrey][j.][steiner,][chief][executive][fairchild][nearly][last][beginning.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 3.5259509086608887	 ([jeffrey][j.][steiner,][chairman][chief][executive][fairchild][corp.,][nearly][\ $ 2. 5][million][salary][last][year][beginning.])
+---------- Rewards-v() ----------
+v(0 1 2 4 5 6 8 12 14): 11.64700698852539, EP: 1.660763144493103	 ([jeffrey][j.][steiner,][chief][executive][fairchild][nearly][last][beginning.])
+v(0 1 2 3 6 7 9 10 11 13 14): 9.943440437316895, EP: 1.4178491830825806	 ([jeffrey][j.][steiner,][chairman][fairchild][corp.,][\ $ 2. 5][million][salary][year][beginning.])
+v(0 1 2 6 14): 8.259932518005371, EP: 1.17779541015625	 ([jeffrey][j.][steiner,][fairchild][beginning.])
+v(3 7 9 10 11 13): 7.963935852050781, EP: 1.1355887651443481	 ([chairman][corp.,][\ $ 2. 5][million][salary][year])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 7.013045310974121, EP: 1.0	 ([jeffrey][j.][steiner,][chairman][chief][executive][fairchild][corp.,][nearly][\ $ 2. 5][million][salary][last][year][beginning.])
+v(3 4 5 7 8 9 10 11 12 13): 5.654843330383301, EP: 0.8063320517539978	 ([chairman][chief][executive][corp.,][nearly][\ $ 2. 5][million][salary][last][year])
+v(4 5 8 12): 1.4822957515716553, EP: 0.21136263012886047	 ([chief][executive][nearly][last])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

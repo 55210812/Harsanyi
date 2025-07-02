@@ -1,0 +1,49 @@
+Execution time: 2025-07-02 19:20:19
+prompt: [CLS] ap - an anti - bacterial agent commonly found in soaps and detergents has been found in water from streams and wastewater treatment plants in the baltimore area, a johns hopkins researcher said wednesday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:2019 decoded_text: an
+idx:4 input_id:3424 decoded_text: anti
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:17341 decoded_text: bacterial
+idx:7 input_id:4005 decoded_text: agent
+idx:8 input_id:4141 decoded_text: commonly
+idx:9 input_id:2179 decoded_text: found
+idx:10 input_id:1999 decoded_text: in
+idx:11 input_id:7815 decoded_text: soap
+idx:12 input_id:2015 decoded_text: ##s
+idx:13 input_id:1998 decoded_text: and
+idx:14 input_id:28283 decoded_text: deter
+idx:15 input_id:11461 decoded_text: ##gent
+idx:16 input_id:2015 decoded_text: ##s
+idx:17 input_id:2038 decoded_text: has
+idx:18 input_id:2042 decoded_text: been
+idx:19 input_id:2179 decoded_text: found
+idx:20 input_id:1999 decoded_text: in
+idx:21 input_id:2300 decoded_text: water
+idx:22 input_id:2013 decoded_text: from
+idx:23 input_id:9199 decoded_text: streams
+idx:24 input_id:1998 decoded_text: and
+idx:25 input_id:28269 decoded_text: wastewater
+idx:26 input_id:3949 decoded_text: treatment
+idx:27 input_id:4264 decoded_text: plants
+idx:28 input_id:1999 decoded_text: in
+idx:29 input_id:1996 decoded_text: the
+idx:30 input_id:6222 decoded_text: baltimore
+idx:31 input_id:2181 decoded_text: area
+idx:32 input_id:1010 decoded_text: ,
+idx:33 input_id:1037 decoded_text: a
+idx:34 input_id:11545 decoded_text: johns
+idx:35 input_id:10239 decoded_text: hopkins
+idx:36 input_id:10753 decoded_text: researcher
+idx:37 input_id:2056 decoded_text: said
+idx:38 input_id:9317 decoded_text: wednesday
+idx:39 input_id:1012 decoded_text: .
+idx:40 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.435213088989258, -0.6575955152511597, -0.6269150376319885, 5.896766662597656]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

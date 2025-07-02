@@ -1,0 +1,54 @@
+Execution time: 2025-07-02 19:35:57
+prompt: [CLS] bangalore, india - - microsoft corp. is hiring hundreds of new staff for its operations in hyderabad over the next 12 months, the company's chief executive officer, steve ballmer told reporters monday in bangalore, india. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:14022 decoded_text: bangalore
+idx:2 input_id:1010 decoded_text: ,
+idx:3 input_id:2634 decoded_text: india
+idx:4 input_id:1011 decoded_text: -
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:7513 decoded_text: microsoft
+idx:7 input_id:13058 decoded_text: corp
+idx:8 input_id:1012 decoded_text: .
+idx:9 input_id:2003 decoded_text: is
+idx:10 input_id:14763 decoded_text: hiring
+idx:11 input_id:5606 decoded_text: hundreds
+idx:12 input_id:1997 decoded_text: of
+idx:13 input_id:2047 decoded_text: new
+idx:14 input_id:3095 decoded_text: staff
+idx:15 input_id:2005 decoded_text: for
+idx:16 input_id:2049 decoded_text: its
+idx:17 input_id:3136 decoded_text: operations
+idx:18 input_id:1999 decoded_text: in
+idx:19 input_id:13624 decoded_text: hyderabad
+idx:20 input_id:2058 decoded_text: over
+idx:21 input_id:1996 decoded_text: the
+idx:22 input_id:2279 decoded_text: next
+idx:23 input_id:2260 decoded_text: 12
+idx:24 input_id:2706 decoded_text: months
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:2194 decoded_text: company
+idx:28 input_id:1005 decoded_text: '
+idx:29 input_id:1055 decoded_text: s
+idx:30 input_id:2708 decoded_text: chief
+idx:31 input_id:3237 decoded_text: executive
+idx:32 input_id:2961 decoded_text: officer
+idx:33 input_id:1010 decoded_text: ,
+idx:34 input_id:3889 decoded_text: steve
+idx:35 input_id:3608 decoded_text: ball
+idx:36 input_id:5017 decoded_text: ##mer
+idx:37 input_id:2409 decoded_text: told
+idx:38 input_id:12060 decoded_text: reporters
+idx:39 input_id:6928 decoded_text: monday
+idx:40 input_id:1999 decoded_text: in
+idx:41 input_id:14022 decoded_text: bangalore
+idx:42 input_id:1010 decoded_text: ,
+idx:43 input_id:2634 decoded_text: india
+idx:44 input_id:1012 decoded_text: .
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-1.97307550907135, -4.843604564666748, 1.1452680826187134, 4.6504340171813965]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

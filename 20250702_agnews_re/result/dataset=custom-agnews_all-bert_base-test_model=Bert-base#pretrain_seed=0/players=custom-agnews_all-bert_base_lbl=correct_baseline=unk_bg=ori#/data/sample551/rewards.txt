@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: networking
+Player 1: linux
+Player 2: vendor
+Player 3: novell
+Player 4: reported
+Player 5: profit
+Player 6: \ $ 57. 1
+Player 7: million
+Player 8: fiscal
+Player 9: 2004
+Player 10: said
+Player 11: linux
+Player 12: offerings
+Player 13: allowing
+Player 14: company
+Player 15: reach
+Player 16: new
+Player 17: customers.
+---------- Rewards ----------
+v(): 3.5905449390411377	 ([])
+v(3 4 9 10 13 15 16): 6.600315093994141	 ([novell][reported][2004][said][allowing][reach][new])
+v(0 2 14 17): 5.243791580200195	 ([networking][vendor][company][customers.])
+v(1 5 6 7 8 11 12): 4.295680046081543	 ([linux][profit][\ $ 57. 1][million][fiscal][linux][offerings])
+v(0 2 3 4 9 10 13 14 15 16 17): 4.245622158050537	 ([networking][vendor][novell][reported][2004][said][allowing][company][reach][new][customers.])
+v(1 3 4 5 6 7 8 9 10 11 12 13 15 16): 5.384683132171631	 ([linux][novell][reported][profit][\ $ 57. 1][million][fiscal][2004][said][linux][offerings][allowing][reach][new])
+v(0 1 2 5 6 7 8 11 12 14 17): 5.2536234855651855	 ([networking][linux][vendor][profit][\ $ 57. 1][million][fiscal][linux][offerings][company][customers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 3.122633218765259	 ([networking][linux][vendor][novell][reported][profit][\ $ 57. 1][million][fiscal][2004][said][linux][offerings][allowing][company][reach][new][customers.])
+---------- Rewards-v() ----------
+v(3 4 9 10 13 15 16): 3.009770154953003, EP: -6.432346343994141	 ([novell][reported][2004][said][allowing][reach][new])
+v(1 3 4 5 6 7 8 9 10 11 12 13 15 16): 1.7941381931304932, EP: -3.8343520164489746	 ([linux][novell][reported][profit][\ $ 57. 1][million][fiscal][2004][said][linux][offerings][allowing][reach][new])
+v(0 1 2 5 6 7 8 11 12 14 17): 1.6630785465240479, EP: -3.5542571544647217	 ([networking][linux][vendor][profit][\ $ 57. 1][million][fiscal][linux][offerings][company][customers.])
+v(0 2 14 17): 1.6532466411590576, EP: -3.5332448482513428	 ([networking][vendor][company][customers.])
+v(1 5 6 7 8 11 12): 0.7051351070404053, EP: -1.5069831609725952	 ([linux][profit][\ $ 57. 1][million][fiscal][linux][offerings])
+v(0 2 3 4 9 10 13 14 15 16 17): 0.6550772190093994, EP: -1.4000017642974854	 ([networking][vendor][novell][reported][2004][said][allowing][company][reach][new][customers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): -0.4679117202758789, EP: 1.0	 ([networking][linux][vendor][novell][reported][profit][\ $ 57. 1][million][fiscal][2004][said][linux][offerings][allowing][company][reach][new][customers.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

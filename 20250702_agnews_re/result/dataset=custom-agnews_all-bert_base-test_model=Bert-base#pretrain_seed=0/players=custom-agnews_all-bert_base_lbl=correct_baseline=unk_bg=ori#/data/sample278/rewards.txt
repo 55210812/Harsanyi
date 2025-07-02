@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: palmone
+Player 1: inc.,
+Player 2: world
+Player 3: # 39 ; s
+Player 4: biggest
+Player 5: maker
+Player 6: hand - held
+Player 7: computers,
+Player 8: unveiled
+Player 9: new
+Player 10: model
+Player 11: popular
+Player 12: treo
+Player 13: smartphone,
+Player 14: combined
+Player 15: mobile
+Player 16: handset,
+Player 17: camera
+Player 18: planner
+Player 19: sold
+Player 20: 600, 000
+Player 21: units
+Player 22: year.
+---------- Rewards ----------
+v(): 2.7836015224456787	 ([])
+v(0 1 6 7 13 15 16 17 22): 2.193844795227051	 ([palmone][inc.,][hand - held][computers,][smartphone,][mobile][handset,][camera][year.])
+v(4 5 9 10 12 14): -0.42428040504455566	 ([biggest][maker][new][model][treo][combined])
+v(2 3 8 11 18 19 20 21): 3.656984806060791	 ([world][# 39 ; s][unveiled][popular][planner][sold][600, 000][units])
+v(0 1 4 5 6 7 9 10 12 13 14 15 16 17 22): 1.2286782264709473	 ([palmone][inc.,][biggest][maker][hand - held][computers,][new][model][treo][smartphone,][combined][mobile][handset,][camera][year.])
+v(0 1 2 3 6 7 8 11 13 15 16 17 18 19 20 21 22): 2.515596628189087	 ([palmone][inc.,][world][# 39 ; s][hand - held][computers,][unveiled][popular][smartphone,][mobile][handset,][camera][planner][sold][600, 000][units][year.])
+v(2 3 4 5 8 9 10 11 12 14 18 19 20 21): 4.050701141357422	 ([world][# 39 ; s][biggest][maker][unveiled][new][model][popular][treo][combined][planner][sold][600, 000][units])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 2.103590488433838	 ([palmone][inc.,][world][# 39 ; s][biggest][maker][hand - held][computers,][unveiled][new][model][popular][treo][smartphone,][combined][mobile][handset,][camera][planner][sold][600, 000][units][year.])
+---------- Rewards-v() ----------
+v(4 5 9 10 12 14): -3.2078819274902344, EP: 4.7173967361450195	 ([biggest][maker][new][model][treo][combined])
+v(0 1 4 5 6 7 9 10 12 13 14 15 16 17 22): -1.5549232959747314, EP: 2.2866148948669434	 ([palmone][inc.,][biggest][maker][hand - held][computers,][new][model][treo][smartphone,][combined][mobile][handset,][camera][year.])
+v(2 3 4 5 8 9 10 11 12 14 18 19 20 21): 1.2670996189117432, EP: -1.863351583480835	 ([world][# 39 ; s][biggest][maker][unveiled][new][model][popular][treo][combined][planner][sold][600, 000][units])
+v(2 3 8 11 18 19 20 21): 0.8733832836151123, EP: -1.2843663692474365	 ([world][# 39 ; s][unveiled][popular][planner][sold][600, 000][units])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): -0.6800110340118408, EP: 1.0	 ([palmone][inc.,][world][# 39 ; s][biggest][maker][hand - held][computers,][unveiled][new][model][popular][treo][smartphone,][combined][mobile][handset,][camera][planner][sold][600, 000][units][year.])
+v(0 1 6 7 13 15 16 17 22): -0.5897567272186279, EP: 0.8672752380371094	 ([palmone][inc.,][hand - held][computers,][smartphone,][mobile][handset,][camera][year.])
+v(0 1 2 3 6 7 8 11 13 15 16 17 18 19 20 21 22): -0.2680048942565918, EP: 0.39411845803260803	 ([palmone][inc.,][world][# 39 ; s][hand - held][computers,][unveiled][popular][smartphone,][mobile][handset,][camera][planner][sold][600, 000][units][year.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

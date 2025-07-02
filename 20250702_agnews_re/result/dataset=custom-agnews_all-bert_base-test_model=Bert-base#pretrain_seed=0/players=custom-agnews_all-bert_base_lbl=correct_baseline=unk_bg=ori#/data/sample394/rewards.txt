@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: massachusetts
+Player 1: institute
+Player 2: technology
+Player 3: ( mit )
+Player 4: warned
+Player 5: security
+Player 6: vulnerabilities
+Player 7: implementation
+Player 8: kerberos
+Player 9: could
+Player 10: allow
+Player 11: attackers
+Player 12: free
+Player 13: access
+Player 14: protected
+Player 15: systems.
+Player 16: users
+Player 17: mit
+Player 18: kerberos
+Player 19: 5
+Player 20: urged
+Player 21: apply
+Player 22: patches
+Player 23: immediately.
+---------- Rewards ----------
+v(): 4.905253887176514	 ([])
+v(5 6 7 10 15 16 23): 6.885212421417236	 ([security][vulnerabilities][implementation][allow][systems.][users][immediately.])
+v(0 1 2 3 8 9 11 17 18 21 22): 7.81544828414917	 ([massachusetts][institute][technology][( mit )][kerberos][could][attackers][mit][kerberos][apply][patches])
+v(4 12 13 14 19 20): 4.4395318031311035	 ([warned][free][access][protected][5][urged])
+v(0 1 2 3 5 6 7 8 9 10 11 15 16 17 18 21 22 23): 8.263805389404297	 ([massachusetts][institute][technology][( mit )][security][vulnerabilities][implementation][kerberos][could][allow][attackers][systems.][users][mit][kerberos][apply][patches][immediately.])
+v(4 5 6 7 10 12 13 14 15 16 19 20 23): 7.1256103515625	 ([warned][security][vulnerabilities][implementation][allow][free][access][protected][systems.][users][5][urged][immediately.])
+v(0 1 2 3 4 8 9 11 12 13 14 17 18 19 20 21 22): 7.969461917877197	 ([massachusetts][institute][technology][( mit )][warned][kerberos][could][attackers][free][access][protected][mit][kerberos][5][urged][apply][patches])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 7.903660774230957	 ([massachusetts][institute][technology][( mit )][warned][security][vulnerabilities][implementation][kerberos][could][allow][attackers][free][access][protected][systems.][users][mit][kerberos][5][urged][apply][patches][immediately.])
+---------- Rewards-v() ----------
+v(0 1 2 3 5 6 7 8 9 10 11 15 16 17 18 21 22 23): 3.358551502227783, EP: 1.1201119422912598	 ([massachusetts][institute][technology][( mit )][security][vulnerabilities][implementation][kerberos][could][allow][attackers][systems.][users][mit][kerberos][apply][patches][immediately.])
+v(0 1 2 3 4 8 9 11 12 13 14 17 18 19 20 21 22): 3.0642080307006836, EP: 1.0219453573226929	 ([massachusetts][institute][technology][( mit )][warned][kerberos][could][attackers][free][access][protected][mit][kerberos][5][urged][apply][patches])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 2.9984068870544434, EP: 1.0	 ([massachusetts][institute][technology][( mit )][warned][security][vulnerabilities][implementation][kerberos][could][allow][attackers][free][access][protected][systems.][users][mit][kerberos][5][urged][apply][patches][immediately.])
+v(0 1 2 3 8 9 11 17 18 21 22): 2.9101943969726562, EP: 0.9705802202224731	 ([massachusetts][institute][technology][( mit )][kerberos][could][attackers][mit][kerberos][apply][patches])
+v(4 5 6 7 10 12 13 14 15 16 19 20 23): 2.2203564643859863, EP: 0.7405120730400085	 ([warned][security][vulnerabilities][implementation][allow][free][access][protected][systems.][users][5][urged][immediately.])
+v(5 6 7 10 15 16 23): 1.9799585342407227, EP: 0.6603368520736694	 ([security][vulnerabilities][implementation][allow][systems.][users][immediately.])
+v(4 12 13 14 19 20): -0.46572208404541016, EP: -0.15532317757606506	 ([warned][free][access][protected][5][urged])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: fatal
+Player 1: traffic
+Player 2: accidents
+Player 3: increase
+Player 4: sharply
+Player 5: israel
+Player 6: third
+Player 7: day
+Player 8: terrorist
+Player 9: attack,
+Player 10: researchers
+Player 11: searching
+Player 12: explanation
+Player 13: why.
+---------- Rewards ----------
+v(): 4.580072402954102	 ([])
+v(0 1 2 3 4 6 10 12 13): 0.016693115234375	 ([fatal][traffic][accidents][increase][sharply][third][researchers][explanation][why.])
+v(5 7 8 9 11): -5.31970739364624	 ([israel][day][terrorist][attack,][searching])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): -0.9304370880126953	 ([fatal][traffic][accidents][increase][sharply][israel][third][day][terrorist][attack,][researchers][searching][explanation][why.])
+---------- Rewards-v() ----------
+v(5 7 8 9 11): -9.8997802734375, EP: 1.7965272665023804	 ([israel][day][terrorist][attack,][searching])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): -5.510509490966797, EP: 1.0	 ([fatal][traffic][accidents][increase][sharply][israel][third][day][terrorist][attack,][researchers][searching][explanation][why.])
+v(0 1 2 3 4 6 10 12 13): -4.563379287719727, EP: 0.8281229138374329	 ([fatal][traffic][accidents][increase][sharply][third][researchers][explanation][why.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

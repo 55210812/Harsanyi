@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: shane
+Player 1: carruth,
+Player 2: director
+Player 3: " primer, "
+Player 4: compares
+Player 5: film
+Player 6: engineers
+Player 7: build
+Player 8: time
+Player 9: machine
+Player 10: favorite
+Player 11: branch
+Player 12: math.
+---------- Rewards ----------
+v(): 1.2303200960159302	 ([])
+v(6 7 11): 3.5324740409851074	 ([engineers][build][branch])
+v(0 1 2 3 12): 2.526559352874756	 ([shane][carruth,][director][" primer, "][math.])
+v(4 5 8 9 10): 4.202817440032959	 ([compares][film][time][machine][favorite])
+v(0 1 2 3 6 7 11 12): 7.584722518920898	 ([shane][carruth,][director][" primer, "][engineers][build][branch][math.])
+v(4 5 6 7 8 9 10 11): 6.331024646759033	 ([compares][film][engineers][build][time][machine][favorite][branch])
+v(0 1 2 3 4 5 8 9 10 12): 4.1332621574401855	 ([shane][carruth,][director][" primer, "][compares][film][time][machine][favorite][math.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 4.535923480987549	 ([shane][carruth,][director][" primer, "][compares][film][engineers][build][time][machine][favorite][branch][math.])
+---------- Rewards-v() ----------
+v(0 1 2 3 6 7 11 12): 6.354402542114258, EP: 1.9223123788833618	 ([shane][carruth,][director][" primer, "][engineers][build][branch][math.])
+v(4 5 6 7 8 9 10 11): 5.100704669952393, EP: 1.5430479049682617	 ([compares][film][engineers][build][time][machine][favorite][branch])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 3.305603504180908, EP: 1.0	 ([shane][carruth,][director][" primer, "][compares][film][engineers][build][time][machine][favorite][branch][math.])
+v(4 5 8 9 10): 2.9724974632263184, EP: 0.899229884147644	 ([compares][film][time][machine][favorite])
+v(0 1 2 3 4 5 8 9 10 12): 2.902942180633545, EP: 0.8781882524490356	 ([shane][carruth,][director][" primer, "][compares][film][time][machine][favorite][math.])
+v(6 7 11): 2.302154064178467, EP: 0.6964398622512817	 ([engineers][build][branch])
+v(0 1 2 3 12): 1.2962392568588257, EP: 0.3921339213848114	 ([shane][carruth,][director][" primer, "][math.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: lycos
+Player 1: withdrawn
+Player 2: quot ; make
+Player 3: love
+Player 4: spam
+Player 5: quot ;
+Player 6: application
+Player 7: string
+Player 8: negative
+Player 9: criticism.
+Player 10: visitors
+Player 11: web
+Player 12: site
+Player 13: presented
+Player 14: friday
+Player 15: graphic
+Player 16: urging
+Player 17: quot ; stay
+Player 18: tuned.
+---------- Rewards ----------
+v(): 2.6121325492858887	 ([])
+v(0 4 7 10 11 12 14 15): 8.284876823425293	 ([lycos][spam][string][visitors][web][site][friday][graphic])
+v(2 3 17 18): 4.094964027404785	 ([quot ; make][love][quot ; stay][tuned.])
+v(1 5 6 8 9 13 16): 1.3597661256790161	 ([withdrawn][quot ;][application][negative][criticism.][presented][urging])
+v(0 2 3 4 7 10 11 12 14 15 17 18): 8.326611518859863	 ([lycos][quot ; make][love][spam][string][visitors][web][site][friday][graphic][quot ; stay][tuned.])
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15 16): 8.348485946655273	 ([lycos][withdrawn][spam][quot ;][application][string][negative][criticism.][visitors][web][site][presented][friday][graphic][urging])
+v(1 2 3 5 6 8 9 13 16 17 18): 1.280788540840149	 ([withdrawn][quot ; make][love][quot ;][application][negative][criticism.][presented][urging][quot ; stay][tuned.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.203361511230469	 ([lycos][withdrawn][quot ; make][love][spam][quot ;][application][string][negative][criticism.][visitors][web][site][presented][friday][graphic][urging][quot ; stay][tuned.])
+---------- Rewards-v() ----------
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15 16): 5.736353397369385, EP: 1.0259556770324707	 ([lycos][withdrawn][spam][quot ;][application][string][negative][criticism.][visitors][web][site][presented][friday][graphic][urging])
+v(0 2 3 4 7 10 11 12 14 15 17 18): 5.714478969573975, EP: 1.0220434665679932	 ([lycos][quot ; make][love][spam][string][visitors][web][site][friday][graphic][quot ; stay][tuned.])
+v(0 4 7 10 11 12 14 15): 5.672744274139404, EP: 1.014579176902771	 ([lycos][spam][string][visitors][web][site][friday][graphic])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 5.59122896194458, EP: 1.0	 ([lycos][withdrawn][quot ; make][love][spam][quot ;][application][string][negative][criticism.][visitors][web][site][presented][friday][graphic][urging][quot ; stay][tuned.])
+v(2 3 17 18): 1.4828314781188965, EP: 0.2652067244052887	 ([quot ; make][love][quot ; stay][tuned.])
+v(1 2 3 5 6 8 9 13 16 17 18): -1.3313440084457397, EP: -0.2381129413843155	 ([withdrawn][quot ; make][love][quot ;][application][negative][criticism.][presented][urging][quot ; stay][tuned.])
+v(1 5 6 8 9 13 16): -1.2523664236068726, EP: -0.22398768365383148	 ([withdrawn][quot ;][application][negative][criticism.][presented][urging])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

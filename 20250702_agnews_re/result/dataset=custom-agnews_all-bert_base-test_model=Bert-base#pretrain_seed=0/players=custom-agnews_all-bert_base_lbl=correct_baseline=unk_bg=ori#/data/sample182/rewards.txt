@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: importance
+Player 1: writes
+Player 2: quot ; the
+Player 3: induce
+Player 4: act,
+Player 5: discussed
+Player 6: many
+Player 7: times
+Player 8: previously,
+Player 9: likely
+Player 10: getting
+Player 11: lot
+Player 12: attention
+Player 13: thanks
+Player 14: recent
+Player 15: grokster
+Player 16: decision.
+---------- Rewards ----------
+v(): 5.1218647956848145	 ([])
+v(3 4 15 16): 7.098604202270508	 ([induce][act,][grokster][decision.])
+v(0 1 2 5 6 8 9 11 14): 7.631947040557861	 ([importance][writes][quot ; the][discussed][many][previously,][likely][lot][recent])
+v(7 10 12 13): 5.020425319671631	 ([times][getting][attention][thanks])
+v(0 1 2 3 4 5 6 8 9 11 14 15 16): 8.008597373962402	 ([importance][writes][quot ; the][induce][act,][discussed][many][previously,][likely][lot][recent][grokster][decision.])
+v(3 4 7 10 12 13 15 16): 7.875331878662109	 ([induce][act,][times][getting][attention][thanks][grokster][decision.])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14): 7.6537275314331055	 ([importance][writes][quot ; the][discussed][many][times][previously,][likely][getting][lot][attention][thanks][recent])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.993513107299805	 ([importance][writes][quot ; the][induce][act,][discussed][many][times][previously,][likely][getting][lot][attention][thanks][recent][grokster][decision.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 8 9 11 14 15 16): 2.886732578277588, EP: 1.0052528381347656	 ([importance][writes][quot ; the][induce][act,][discussed][many][previously,][likely][lot][recent][grokster][decision.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 2.8716483116149902, EP: 1.0	 ([importance][writes][quot ; the][induce][act,][discussed][many][times][previously,][likely][getting][lot][attention][thanks][recent][grokster][decision.])
+v(3 4 7 10 12 13 15 16): 2.753467082977295, EP: 0.9588454961776733	 ([induce][act,][times][getting][attention][thanks][grokster][decision.])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14): 2.531862735748291, EP: 0.8816757798194885	 ([importance][writes][quot ; the][discussed][many][times][previously,][likely][getting][lot][attention][thanks][recent])
+v(0 1 2 5 6 8 9 11 14): 2.510082244873047, EP: 0.8740910887718201	 ([importance][writes][quot ; the][discussed][many][previously,][likely][lot][recent])
+v(3 4 15 16): 1.9767394065856934, EP: 0.6883640289306641	 ([induce][act,][grokster][decision.])
+v(7 10 12 13): -0.1014394760131836, EP: -0.03532447665929794	 ([times][getting][attention][thanks])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

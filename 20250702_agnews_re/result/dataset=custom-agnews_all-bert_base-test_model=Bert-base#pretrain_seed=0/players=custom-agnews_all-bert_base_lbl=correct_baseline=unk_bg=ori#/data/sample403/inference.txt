@@ -1,0 +1,27 @@
+Execution time: 2025-07-02 19:27:16
+prompt: [CLS] compelling evidence from a remote glacier suggests " drastic climate change, " according to scientists. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:17075 decoded_text: compelling
+idx:2 input_id:3350 decoded_text: evidence
+idx:3 input_id:2013 decoded_text: from
+idx:4 input_id:1037 decoded_text: a
+idx:5 input_id:6556 decoded_text: remote
+idx:6 input_id:10046 decoded_text: glacier
+idx:7 input_id:6083 decoded_text: suggests
+idx:8 input_id:1000 decoded_text: "
+idx:9 input_id:23956 decoded_text: drastic
+idx:10 input_id:4785 decoded_text: climate
+idx:11 input_id:2689 decoded_text: change
+idx:12 input_id:1010 decoded_text: ,
+idx:13 input_id:1000 decoded_text: "
+idx:14 input_id:2429 decoded_text: according
+idx:15 input_id:2000 decoded_text: to
+idx:16 input_id:6529 decoded_text: scientists
+idx:17 input_id:1012 decoded_text: .
+idx:18 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[1.123822569847107, -3.541930675506592, -3.3402276039123535, 5.71196985244751]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

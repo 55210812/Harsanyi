@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: hockey
+Player 1: purists
+Player 2: bemoan
+Player 3: wednesday
+Player 4: # 39 ; s
+Player 5: announcement
+Player 6: national
+Player 7: hockey
+Player 8: league
+Player 9: cancelled
+Player 10: 2005
+Player 11: all - star
+Player 12: game
+Player 13: atlanta.
+---------- Rewards ----------
+v(): -6.000035285949707	 ([])
+v(0 7 8): 9.509969711303711	 ([hockey][hockey][league])
+v(1 2 3 4 11 12 13): 9.340517044067383	 ([purists][bemoan][wednesday][# 39 ; s][all - star][game][atlanta.])
+v(5 6 9 10): -3.322432518005371	 ([announcement][national][cancelled][2005])
+v(0 1 2 3 4 7 8 11 12 13): 9.379809379577637	 ([hockey][purists][bemoan][wednesday][# 39 ; s][hockey][league][all - star][game][atlanta.])
+v(0 5 6 7 8 9 10): 9.520585060119629	 ([hockey][announcement][national][hockey][league][cancelled][2005])
+v(1 2 3 4 5 6 9 10 11 12 13): 9.394275665283203	 ([purists][bemoan][wednesday][# 39 ; s][announcement][national][cancelled][2005][all - star][game][atlanta.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 9.35120964050293	 ([hockey][purists][bemoan][wednesday][# 39 ; s][announcement][national][hockey][league][cancelled][2005][all - star][game][atlanta.])
+---------- Rewards-v() ----------
+v(0 5 6 7 8 9 10): 15.520620346069336, EP: 1.011033296585083	 ([hockey][announcement][national][hockey][league][cancelled][2005])
+v(0 7 8): 15.510004997253418, EP: 1.0103418827056885	 ([hockey][hockey][league])
+v(1 2 3 4 5 6 9 10 11 12 13): 15.39431095123291, EP: 1.0028053522109985	 ([purists][bemoan][wednesday][# 39 ; s][announcement][national][cancelled][2005][all - star][game][atlanta.])
+v(0 1 2 3 4 7 8 11 12 13): 15.379844665527344, EP: 1.0018630027770996	 ([hockey][purists][bemoan][wednesday][# 39 ; s][hockey][league][all - star][game][atlanta.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 15.351244926452637, EP: 1.0	 ([hockey][purists][bemoan][wednesday][# 39 ; s][announcement][national][hockey][league][cancelled][2005][all - star][game][atlanta.])
+v(1 2 3 4 11 12 13): 15.34055233001709, EP: 0.9993034601211548	 ([purists][bemoan][wednesday][# 39 ; s][all - star][game][atlanta.])
+v(5 6 9 10): 2.677602767944336, EP: 0.1744225174188614	 ([announcement][national][cancelled][2005])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

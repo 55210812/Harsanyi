@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: pakistan
+Player 1: # 39 ; s
+Player 2: president
+Player 3: pervez
+Player 4: musharraf
+Player 5: called
+Player 6: monday
+Player 7: debate
+Player 8: possibility
+Player 9: removing
+Player 10: arms
+Player 11: troops
+Player 12: regions
+Player 13: kashmir
+Player 14: part
+Player 15: efforts
+Player 16: resolve
+Player 17: 50
+Player 18: years
+Player 19: dispute
+Player 20: india.
+---------- Rewards ----------
+v(): -6.589846611022949	 ([])
+v(0 2 3 4 6 7 13 20): 8.34388256072998	 ([pakistan][president][pervez][musharraf][monday][debate][kashmir][india.])
+v(1 5 8 9 10 11 12 14 15 16 17 18 19): 7.269212245941162	 ([# 39 ; s][called][possibility][removing][arms][troops][regions][part][efforts][resolve][50][years][dispute])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.457889556884766	 ([pakistan][# 39 ; s][president][pervez][musharraf][called][monday][debate][possibility][removing][arms][troops][regions][kashmir][part][efforts][resolve][50][years][dispute][india.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 15.047736167907715, EP: 1.0	 ([pakistan][# 39 ; s][president][pervez][musharraf][called][monday][debate][possibility][removing][arms][troops][regions][kashmir][part][efforts][resolve][50][years][dispute][india.])
+v(0 2 3 4 6 7 13 20): 14.93372917175293, EP: 0.9924236536026001	 ([pakistan][president][pervez][musharraf][monday][debate][kashmir][india.])
+v(1 5 8 9 10 11 12 14 15 16 17 18 19): 13.859058380126953, EP: 0.9210062026977539	 ([# 39 ; s][called][possibility][removing][arms][troops][regions][part][efforts][resolve][50][years][dispute])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

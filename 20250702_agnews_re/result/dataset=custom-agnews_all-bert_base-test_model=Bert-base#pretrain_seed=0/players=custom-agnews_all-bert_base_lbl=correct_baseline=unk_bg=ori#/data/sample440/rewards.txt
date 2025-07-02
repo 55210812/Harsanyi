@@ -1,0 +1,21 @@
+---------- Players ----------
+Player 0: company
+Player 1: says
+Player 2: device,
+Player 3: dubbed
+Player 4: ogo,
+Player 5: bogged
+Player 6: features
+Player 7: " hardly
+Player 8: used. "
+---------- Rewards ----------
+v(): 4.046568393707275	 ([])
+v(0 1 2 3): 4.217532157897949	 ([company][says][device,][dubbed])
+v(4 5 6 7 8): 5.793239116668701	 ([ogo,][bogged][features][" hardly][used. "])
+v(0 1 2 3 4 5 6 7 8): 4.820339202880859	 ([company][says][device,][dubbed][ogo,][bogged][features][" hardly][used. "])
+---------- Rewards-v() ----------
+v(4 5 6 7 8): 1.7466707229614258, EP: 2.2573490142822266	 ([ogo,][bogged][features][" hardly][used. "])
+v(0 1 2 3 4 5 6 7 8): 0.773770809173584, EP: 1.0	 ([company][says][device,][dubbed][ogo,][bogged][features][" hardly][used. "])
+v(0 1 2 3): 0.17096376419067383, EP: 0.22094884514808655	 ([company][says][device,][dubbed])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

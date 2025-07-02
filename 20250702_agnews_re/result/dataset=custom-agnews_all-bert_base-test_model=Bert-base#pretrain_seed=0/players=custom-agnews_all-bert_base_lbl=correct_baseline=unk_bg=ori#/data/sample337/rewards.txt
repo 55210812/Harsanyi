@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: one
+Player 1: one,
+Player 2: players
+Player 3: # 39 ;
+Player 4: faces
+Player 5: flashed
+Player 6: giant
+Player 7: ibrox
+Player 8: screens
+Player 9: offering
+Player 10: season
+Player 11: # 39 ; s
+Player 12: greetings
+Player 13: rangers
+Player 14: fans.
+Player 15: main
+Player 16: presents
+Player 17: reserved
+Player 18: auxerre.
+---------- Rewards ----------
+v(): -4.477660655975342	 ([])
+v(2 3 11 13 18): 9.608525276184082	 ([players][# 39 ;][# 39 ; s][rangers][auxerre.])
+v(0 1 4 5 14 17): 5.718257904052734	 ([one][one,][faces][flashed][fans.][reserved])
+v(6 7 8 9 10 12 15 16): -2.9639477729797363	 ([giant][ibrox][screens][offering][season][greetings][main][presents])
+v(0 1 2 3 4 5 11 13 14 17 18): 9.731647491455078	 ([one][one,][players][# 39 ;][faces][flashed][# 39 ; s][rangers][fans.][reserved][auxerre.])
+v(2 3 6 7 8 9 10 11 12 13 15 16 18): 9.549372673034668	 ([players][# 39 ;][giant][ibrox][screens][offering][season][# 39 ; s][greetings][rangers][main][presents][auxerre.])
+v(0 1 4 5 6 7 8 9 10 12 14 15 16 17): 4.984651565551758	 ([one][one,][faces][flashed][giant][ibrox][screens][offering][season][greetings][fans.][main][presents][reserved])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.659395217895508	 ([one][one,][players][# 39 ;][faces][flashed][giant][ibrox][screens][offering][season][# 39 ; s][greetings][rangers][fans.][main][presents][reserved][auxerre.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 11 13 14 17 18): 14.209308624267578, EP: 1.0051108598709106	 ([one][one,][players][# 39 ;][faces][flashed][# 39 ; s][rangers][fans.][reserved][auxerre.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.137056350708008, EP: 1.0	 ([one][one,][players][# 39 ;][faces][flashed][giant][ibrox][screens][offering][season][# 39 ; s][greetings][rangers][fans.][main][presents][reserved][auxerre.])
+v(2 3 11 13 18): 14.086185455322266, EP: 0.9964016079902649	 ([players][# 39 ;][# 39 ; s][rangers][auxerre.])
+v(2 3 6 7 8 9 10 11 12 13 15 16 18): 14.027032852172852, EP: 0.9922173619270325	 ([players][# 39 ;][giant][ibrox][screens][offering][season][# 39 ; s][greetings][rangers][main][presents][auxerre.])
+v(0 1 4 5 14 17): 10.195919036865234, EP: 0.7212193608283997	 ([one][one,][faces][flashed][fans.][reserved])
+v(0 1 4 5 6 7 8 9 10 12 14 15 16 17): 9.462312698364258, EP: 0.6693269610404968	 ([one][one,][faces][flashed][giant][ibrox][screens][offering][season][greetings][fans.][main][presents][reserved])
+v(6 7 8 9 10 12 15 16): 1.5137128829956055, EP: 0.10707411915063858	 ([giant][ibrox][screens][offering][season][greetings][main][presents])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

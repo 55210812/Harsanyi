@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: st.
+Player 1: louis,
+Player 2: missouri
+Player 3: believers.
+Player 4: ted
+Player 5: williams
+Player 6: yaz
+Player 7: others
+Player 8: spent
+Player 9: career
+Player 10: beneath
+Player 11: boulder
+Player 12: kept
+Player 13: rolling
+Player 14: hill.
+---------- Rewards ----------
+v(): -2.5869293212890625	 ([])
+v(1 2 4 5 8 11 13): 7.885394096374512	 ([louis,][missouri][ted][williams][spent][boulder][rolling])
+v(0 3 6 14): -8.398101806640625	 ([st.][believers.][yaz][hill.])
+v(7 9 10 12): -0.3598107099533081	 ([others][career][beneath][kept])
+v(0 1 2 3 4 5 6 8 11 13 14): 7.917078018188477	 ([st.][louis,][missouri][believers.][ted][williams][yaz][spent][boulder][rolling][hill.])
+v(1 2 4 5 7 8 9 10 11 12 13): 8.887068748474121	 ([louis,][missouri][ted][williams][others][spent][career][beneath][boulder][kept][rolling])
+v(0 3 6 7 9 10 12 14): -8.436603546142578	 ([st.][believers.][yaz][others][career][beneath][kept][hill.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 8.922819137573242	 ([st.][louis,][missouri][believers.][ted][williams][yaz][others][spent][career][beneath][boulder][kept][rolling][hill.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 11.509748458862305, EP: 1.0	 ([st.][louis,][missouri][believers.][ted][williams][yaz][others][spent][career][beneath][boulder][kept][rolling][hill.])
+v(1 2 4 5 7 8 9 10 11 12 13): 11.473998069763184, EP: 0.9968938827514648	 ([louis,][missouri][ted][williams][others][spent][career][beneath][boulder][kept][rolling])
+v(0 1 2 3 4 5 6 8 11 13 14): 10.504007339477539, EP: 0.9126183390617371	 ([st.][louis,][missouri][believers.][ted][williams][yaz][spent][boulder][rolling][hill.])
+v(1 2 4 5 8 11 13): 10.472323417663574, EP: 0.9098655581474304	 ([louis,][missouri][ted][williams][spent][boulder][rolling])
+v(0 3 6 7 9 10 12 14): -5.849674224853516, EP: -0.5082364678382874	 ([st.][believers.][yaz][others][career][beneath][kept][hill.])
+v(0 3 6 14): -5.8111724853515625, EP: -0.5048913359642029	 ([st.][believers.][yaz][hill.])
+v(7 9 10 12): 2.227118492126465, EP: 0.19349844753742218	 ([others][career][beneath][kept])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,35 @@
+Execution time: 2025-07-02 19:36:27
+prompt: [CLS] explosions damaged churches in baghdad yesterday and the us military reported the deaths of four more american troops in bomb attacks elsewhere in iraq. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:18217 decoded_text: explosions
+idx:2 input_id:5591 decoded_text: damaged
+idx:3 input_id:5231 decoded_text: churches
+idx:4 input_id:1999 decoded_text: in
+idx:5 input_id:13952 decoded_text: baghdad
+idx:6 input_id:7483 decoded_text: yesterday
+idx:7 input_id:1998 decoded_text: and
+idx:8 input_id:1996 decoded_text: the
+idx:9 input_id:2149 decoded_text: us
+idx:10 input_id:2510 decoded_text: military
+idx:11 input_id:2988 decoded_text: reported
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:6677 decoded_text: deaths
+idx:14 input_id:1997 decoded_text: of
+idx:15 input_id:2176 decoded_text: four
+idx:16 input_id:2062 decoded_text: more
+idx:17 input_id:2137 decoded_text: american
+idx:18 input_id:3629 decoded_text: troops
+idx:19 input_id:1999 decoded_text: in
+idx:20 input_id:5968 decoded_text: bomb
+idx:21 input_id:4491 decoded_text: attacks
+idx:22 input_id:6974 decoded_text: elsewhere
+idx:23 input_id:1999 decoded_text: in
+idx:24 input_id:5712 decoded_text: iraq
+idx:25 input_id:1012 decoded_text: .
+idx:26 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.965105056762695, -1.398868441581726, -2.9035263061523438, -2.2849960327148438]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

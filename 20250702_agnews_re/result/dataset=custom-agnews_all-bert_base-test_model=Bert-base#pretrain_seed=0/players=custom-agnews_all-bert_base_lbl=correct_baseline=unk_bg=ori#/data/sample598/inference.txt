@@ -1,0 +1,39 @@
+Execution time: 2025-07-02 19:31:54
+prompt: [CLS] the privately owned and operated spaceshipone spacecraft has won the \ $ 10 million ansari x prize by successfully making its second manned flight into space. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:9139 decoded_text: privately
+idx:3 input_id:3079 decoded_text: owned
+idx:4 input_id:1998 decoded_text: and
+idx:5 input_id:3498 decoded_text: operated
+idx:6 input_id:25516 decoded_text: spaceship
+idx:7 input_id:5643 decoded_text: ##one
+idx:8 input_id:12076 decoded_text: spacecraft
+idx:9 input_id:2038 decoded_text: has
+idx:10 input_id:2180 decoded_text: won
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:1032 decoded_text: \
+idx:13 input_id:1002 decoded_text: $
+idx:14 input_id:2184 decoded_text: 10
+idx:15 input_id:2454 decoded_text: million
+idx:16 input_id:2019 decoded_text: an
+idx:17 input_id:22740 decoded_text: ##sari
+idx:18 input_id:1060 decoded_text: x
+idx:19 input_id:3396 decoded_text: prize
+idx:20 input_id:2011 decoded_text: by
+idx:21 input_id:5147 decoded_text: successfully
+idx:22 input_id:2437 decoded_text: making
+idx:23 input_id:2049 decoded_text: its
+idx:24 input_id:2117 decoded_text: second
+idx:25 input_id:15371 decoded_text: manned
+idx:26 input_id:3462 decoded_text: flight
+idx:27 input_id:2046 decoded_text: into
+idx:28 input_id:2686 decoded_text: space
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[1.423369288444519, -3.2659199237823486, -3.883718967437744, 5.64438009262085]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

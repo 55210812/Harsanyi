@@ -1,0 +1,25 @@
+---------- Players ----------
+Player 0: cuban
+Player 1: government
+Player 2: freed
+Player 3: another
+Player 4: jailed
+Player 5: opponent
+Player 6: yesterday,
+Player 7: sixth
+Player 8: dissident
+Player 9: released
+Player 10: week
+Player 11: move
+Player 12: widely
+Player 13: seen
+Player 14: attempt
+Player 15: repair
+Player 16: relations
+Player 17: european
+Player 18: union.
+---------- AND Interactions (Pairwise Only) ----------
+I(8 9): 2.2006547451019287	 ([dissident][released])
+I(2 4): 1.9353598356246948	 ([freed][jailed])
+Sum: 4.1360145807266235
+==================================================

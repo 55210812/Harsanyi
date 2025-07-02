@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 19:41:43
+prompt: [CLS] the throwback uniforms illinois planned to unveil wednesday against wake forest were sent back to the tailor. it appears the flyin # 39 ; illini replicas were too big and baggy in the shorts. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:5466 decoded_text: throw
+idx:3 input_id:5963 decoded_text: ##back
+idx:4 input_id:11408 decoded_text: uniforms
+idx:5 input_id:4307 decoded_text: illinois
+idx:6 input_id:3740 decoded_text: planned
+idx:7 input_id:2000 decoded_text: to
+idx:8 input_id:4895 decoded_text: un
+idx:9 input_id:3726 decoded_text: ##ve
+idx:10 input_id:4014 decoded_text: ##il
+idx:11 input_id:9317 decoded_text: wednesday
+idx:12 input_id:2114 decoded_text: against
+idx:13 input_id:5256 decoded_text: wake
+idx:14 input_id:3224 decoded_text: forest
+idx:15 input_id:2020 decoded_text: were
+idx:16 input_id:2741 decoded_text: sent
+idx:17 input_id:2067 decoded_text: back
+idx:18 input_id:2000 decoded_text: to
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:22701 decoded_text: tailor
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:2009 decoded_text: it
+idx:23 input_id:3544 decoded_text: appears
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:4875 decoded_text: fly
+idx:26 input_id:2378 decoded_text: ##in
+idx:27 input_id:1001 decoded_text: #
+idx:28 input_id:4464 decoded_text: 39
+idx:29 input_id:1025 decoded_text: ;
+idx:30 input_id:5665 decoded_text: ill
+idx:31 input_id:5498 decoded_text: ##ini
+idx:32 input_id:15059 decoded_text: replica
+idx:33 input_id:2015 decoded_text: ##s
+idx:34 input_id:2020 decoded_text: were
+idx:35 input_id:2205 decoded_text: too
+idx:36 input_id:2502 decoded_text: big
+idx:37 input_id:1998 decoded_text: and
+idx:38 input_id:4524 decoded_text: bag
+idx:39 input_id:6292 decoded_text: ##gy
+idx:40 input_id:1999 decoded_text: in
+idx:41 input_id:1996 decoded_text: the
+idx:42 input_id:9132 decoded_text: shorts
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.3447867631912231, 8.559532165527344, -3.0393154621124268, -2.494020462036133]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

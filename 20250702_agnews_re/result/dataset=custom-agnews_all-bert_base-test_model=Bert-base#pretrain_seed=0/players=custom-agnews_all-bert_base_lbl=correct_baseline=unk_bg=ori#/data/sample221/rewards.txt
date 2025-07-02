@@ -1,0 +1,49 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: ( reuters )
+Player 3: -
+Player 4: internet
+Player 5: brokerage
+Player 6: ameritrade
+Player 7: holding
+Player 8: corp.
+Player 9: & lt ; a
+Player 10: href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = amtd. o
+Player 11: target = / stocks / quickinfo / fullquote " & gt ; amtd. o & lt ; / a & gt ;
+Player 12: said
+Player 13: tuesday
+Player 14: quarterly
+Player 15: profit
+Player 16: rose
+Player 17: year
+Player 18: earlier,
+Player 19: though
+Player 20: trading
+Player 21: revenue
+Player 22: fell
+Player 23: investors
+Player 24: curbed
+Player 25: trading
+Player 26: activity
+Player 27: recent
+Player 28: weeks.
+---------- Rewards ----------
+v(): -5.562685966491699	 ([])
+v(3 6 7 8 9 19 20 21 22 23 24 25 28): 7.68287467956543	 ([-][ameritrade][holding][corp.][& lt ; a][though][trading][revenue][fell][investors][curbed][trading][weeks.])
+v(0 1 2 16 17 18 26 27): 6.087904453277588	 ([new][york][( reuters )][rose][year][earlier,][activity][recent])
+v(4 5 10 11 12 13 14 15): 8.562108039855957	 ([internet][brokerage][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = amtd. o][target = / stocks / quickinfo / fullquote " & gt ; amtd. o & lt ; / a & gt ;][said][tuesday][quarterly][profit])
+v(0 1 2 3 6 7 8 9 16 17 18 19 20 21 22 23 24 25 26 27 28): 8.473003387451172	 ([new][york][( reuters )][-][ameritrade][holding][corp.][& lt ; a][rose][year][earlier,][though][trading][revenue][fell][investors][curbed][trading][activity][recent][weeks.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 19 20 21 22 23 24 25 28): 8.496776580810547	 ([-][internet][brokerage][ameritrade][holding][corp.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = amtd. o][target = / stocks / quickinfo / fullquote " & gt ; amtd. o & lt ; / a & gt ;][said][tuesday][quarterly][profit][though][trading][revenue][fell][investors][curbed][trading][weeks.])
+v(0 1 2 4 5 10 11 12 13 14 15 16 17 18 26 27): 8.609766006469727	 ([new][york][( reuters )][internet][brokerage][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = amtd. o][target = / stocks / quickinfo / fullquote " & gt ; amtd. o & lt ; / a & gt ;][said][tuesday][quarterly][profit][rose][year][earlier,][activity][recent])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 8.43980598449707	 ([new][york][( reuters )][-][internet][brokerage][ameritrade][holding][corp.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = amtd. o][target = / stocks / quickinfo / fullquote " & gt ; amtd. o & lt ; / a & gt ;][said][tuesday][quarterly][profit][rose][year][earlier,][though][trading][revenue][fell][investors][curbed][trading][activity][recent][weeks.])
+---------- Rewards-v() ----------
+v(0 1 2 4 5 10 11 12 13 14 15 16 17 18 26 27): 14.172451972961426, EP: 1.0121378898620605	 ([new][york][( reuters )][internet][brokerage][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = amtd. o][target = / stocks / quickinfo / fullquote " & gt ; amtd. o & lt ; / a & gt ;][said][tuesday][quarterly][profit][rose][year][earlier,][activity][recent])
+v(4 5 10 11 12 13 14 15): 14.124794006347656, EP: 1.0087343454360962	 ([internet][brokerage][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = amtd. o][target = / stocks / quickinfo / fullquote " & gt ; amtd. o & lt ; / a & gt ;][said][tuesday][quarterly][profit])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 19 20 21 22 23 24 25 28): 14.059462547302246, EP: 1.0040686130523682	 ([-][internet][brokerage][ameritrade][holding][corp.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = amtd. o][target = / stocks / quickinfo / fullquote " & gt ; amtd. o & lt ; / a & gt ;][said][tuesday][quarterly][profit][though][trading][revenue][fell][investors][curbed][trading][weeks.])
+v(0 1 2 3 6 7 8 9 16 17 18 19 20 21 22 23 24 25 26 27 28): 14.035689353942871, EP: 1.002370834350586	 ([new][york][( reuters )][-][ameritrade][holding][corp.][& lt ; a][rose][year][earlier,][though][trading][revenue][fell][investors][curbed][trading][activity][recent][weeks.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 14.00249195098877, EP: 1.0	 ([new][york][( reuters )][-][internet][brokerage][ameritrade][holding][corp.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = amtd. o][target = / stocks / quickinfo / fullquote " & gt ; amtd. o & lt ; / a & gt ;][said][tuesday][quarterly][profit][rose][year][earlier,][though][trading][revenue][fell][investors][curbed][trading][activity][recent][weeks.])
+v(3 6 7 8 9 19 20 21 22 23 24 25 28): 13.245560646057129, EP: 0.9459431171417236	 ([-][ameritrade][holding][corp.][& lt ; a][though][trading][revenue][fell][investors][curbed][trading][weeks.])
+v(0 1 2 16 17 18 26 27): 11.650590896606445, EP: 0.8320369720458984	 ([new][york][( reuters )][rose][year][earlier,][activity][recent])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

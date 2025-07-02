@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: lindsay
+Player 3: davenport
+Player 4: rallied
+Player 5: 3 - 6,
+Player 6: 7 - 5,
+Player 7: 6 - 1
+Player 8: victory
+Player 9: serena
+Player 10: williams
+Player 11: wta
+Player 12: championships
+Player 13: saturday,
+Player 14: although
+Player 15: no.
+Player 16: 1
+Player 17: ranking
+Player 18: remained
+Player 19: peril.
+---------- Rewards ----------
+v(): -1.8057384490966797	 ([])
+v(6 7 8 9 10): 9.262222290039062	 ([7 - 5,][6 - 1][victory][serena][williams])
+v(1 2 3 4 5): 9.420358657836914	 ([-][lindsay][davenport][rallied][3 - 6,])
+v(0 11 12 13 14 15 16 17 18 19): 9.117051124572754	 ([ap][wta][championships][saturday,][although][no.][1][ranking][remained][peril.])
+v(1 2 3 4 5 6 7 8 9 10): 9.583917617797852	 ([-][lindsay][davenport][rallied][3 - 6,][7 - 5,][6 - 1][victory][serena][williams])
+v(0 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.612348556518555	 ([ap][7 - 5,][6 - 1][victory][serena][williams][wta][championships][saturday,][although][no.][1][ranking][remained][peril.])
+v(0 1 2 3 4 5 11 12 13 14 15 16 17 18 19): 9.492176055908203	 ([ap][-][lindsay][davenport][rallied][3 - 6,][wta][championships][saturday,][although][no.][1][ranking][remained][peril.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.62961196899414	 ([ap][-][lindsay][davenport][rallied][3 - 6,][7 - 5,][6 - 1][victory][serena][williams][wta][championships][saturday,][although][no.][1][ranking][remained][peril.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 11.43535041809082, EP: 1.0	 ([ap][-][lindsay][davenport][rallied][3 - 6,][7 - 5,][6 - 1][victory][serena][williams][wta][championships][saturday,][although][no.][1][ranking][remained][peril.])
+v(0 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 11.418087005615234, EP: 0.9984903335571289	 ([ap][7 - 5,][6 - 1][victory][serena][williams][wta][championships][saturday,][although][no.][1][ranking][remained][peril.])
+v(1 2 3 4 5 6 7 8 9 10): 11.389656066894531, EP: 0.9960041046142578	 ([-][lindsay][davenport][rallied][3 - 6,][7 - 5,][6 - 1][victory][serena][williams])
+v(0 1 2 3 4 5 11 12 13 14 15 16 17 18 19): 11.297914505004883, EP: 0.9879814982414246	 ([ap][-][lindsay][davenport][rallied][3 - 6,][wta][championships][saturday,][although][no.][1][ranking][remained][peril.])
+v(1 2 3 4 5): 11.226097106933594, EP: 0.9817011952400208	 ([-][lindsay][davenport][rallied][3 - 6,])
+v(6 7 8 9 10): 11.067960739135742, EP: 0.9678724408149719	 ([7 - 5,][6 - 1][victory][serena][williams])
+v(0 11 12 13 14 15 16 17 18 19): 10.922789573669434, EP: 0.9551774859428406	 ([ap][wta][championships][saturday,][although][no.][1][ranking][remained][peril.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

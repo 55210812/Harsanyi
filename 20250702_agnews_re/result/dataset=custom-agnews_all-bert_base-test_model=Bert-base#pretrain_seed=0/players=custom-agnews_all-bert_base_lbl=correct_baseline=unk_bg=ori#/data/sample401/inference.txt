@@ -1,0 +1,36 @@
+Execution time: 2025-07-02 19:27:16
+prompt: [CLS] ap - in what regulators are calling a first, the government has asked for a court order to shut down a spyware operation. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:1999 decoded_text: in
+idx:4 input_id:2054 decoded_text: what
+idx:5 input_id:25644 decoded_text: regulators
+idx:6 input_id:2024 decoded_text: are
+idx:7 input_id:4214 decoded_text: calling
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:2034 decoded_text: first
+idx:10 input_id:1010 decoded_text: ,
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:2231 decoded_text: government
+idx:13 input_id:2038 decoded_text: has
+idx:14 input_id:2356 decoded_text: asked
+idx:15 input_id:2005 decoded_text: for
+idx:16 input_id:1037 decoded_text: a
+idx:17 input_id:2457 decoded_text: court
+idx:18 input_id:2344 decoded_text: order
+idx:19 input_id:2000 decoded_text: to
+idx:20 input_id:3844 decoded_text: shut
+idx:21 input_id:2091 decoded_text: down
+idx:22 input_id:1037 decoded_text: a
+idx:23 input_id:8645 decoded_text: spy
+idx:24 input_id:8059 decoded_text: ##ware
+idx:25 input_id:3169 decoded_text: operation
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[0.12738025188446045, -4.080836296081543, -1.2979011535644531, 4.927482604980469]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

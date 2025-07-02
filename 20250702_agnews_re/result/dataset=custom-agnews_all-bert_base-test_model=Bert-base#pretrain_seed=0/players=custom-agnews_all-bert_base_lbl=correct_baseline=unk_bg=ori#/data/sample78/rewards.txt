@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: delta
+Player 1: 2
+Player 2: rocket
+Player 3: haunted
+Player 4: two
+Player 5: hurricanes,
+Player 6: tornado
+Player 7: technical
+Player 8: problems
+Player 9: ran
+Player 10: new
+Player 11: snag
+Player 12: morning
+Player 13: stopped
+Player 14: launch
+Player 15: countdown
+Player 16: 43
+Player 17: seconds.
+---------- Rewards ----------
+v(): 3.7518310546875	 ([])
+v(3 4 5 8): 2.9057278633117676	 ([haunted][two][hurricanes,][problems])
+v(0 1 2 6 7 9 10 11 13): 7.189916610717773	 ([delta][2][rocket][tornado][technical][ran][new][snag][stopped])
+v(12 14 15 16 17): 6.1136016845703125	 ([morning][launch][countdown][43][seconds.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13): 6.572996616363525	 ([delta][2][rocket][haunted][two][hurricanes,][tornado][technical][problems][ran][new][snag][stopped])
+v(3 4 5 8 12 14 15 16 17): 5.873388290405273	 ([haunted][two][hurricanes,][problems][morning][launch][countdown][43][seconds.])
+v(0 1 2 6 7 9 10 11 12 13 14 15 16 17): 7.901579856872559	 ([delta][2][rocket][tornado][technical][ran][new][snag][morning][stopped][launch][countdown][43][seconds.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 7.643634796142578	 ([delta][2][rocket][haunted][two][hurricanes,][tornado][technical][problems][ran][new][snag][morning][stopped][launch][countdown][43][seconds.])
+---------- Rewards-v() ----------
+v(0 1 2 6 7 9 10 11 12 13 14 15 16 17): 4.149748802185059, EP: 1.0662790536880493	 ([delta][2][rocket][tornado][technical][ran][new][snag][morning][stopped][launch][countdown][43][seconds.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 3.891803741455078, EP: 1.0	 ([delta][2][rocket][haunted][two][hurricanes,][tornado][technical][problems][ran][new][snag][morning][stopped][launch][countdown][43][seconds.])
+v(0 1 2 6 7 9 10 11 13): 3.4380855560302734, EP: 0.883417010307312	 ([delta][2][rocket][tornado][technical][ran][new][snag][stopped])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13): 2.8211655616760254, EP: 0.7248992323875427	 ([delta][2][rocket][haunted][two][hurricanes,][tornado][technical][problems][ran][new][snag][stopped])
+v(12 14 15 16 17): 2.3617706298828125, EP: 0.6068575978279114	 ([morning][launch][countdown][43][seconds.])
+v(3 4 5 8 12 14 15 16 17): 2.1215572357177734, EP: 0.5451346635818481	 ([haunted][two][hurricanes,][problems][morning][launch][countdown][43][seconds.])
+v(3 4 5 8): -0.8461031913757324, EP: -0.21740643680095673	 ([haunted][two][hurricanes,][problems])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

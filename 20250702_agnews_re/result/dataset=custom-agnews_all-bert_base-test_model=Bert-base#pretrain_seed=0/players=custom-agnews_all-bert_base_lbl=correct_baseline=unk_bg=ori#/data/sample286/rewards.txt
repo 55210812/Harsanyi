@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: despite
+Player 1: defiant
+Player 2: batting
+Player 3: tail - enders
+Player 4: irfan
+Player 5: pathan,
+Player 6: harbhajan
+Player 7: singh
+Player 8: zaheer
+Player 9: khan,
+Player 10: aussies
+Player 11: proved
+Player 12: good
+Player 13: indians
+Player 14: bundled
+Player 15: 239.
+---------- Rewards ----------
+v(): -4.32405424118042	 ([])
+v(4 5 6 8 9 10): -6.149876594543457	 ([irfan][pathan,][harbhajan][zaheer][khan,][aussies])
+v(0 1 2 3 7 13 14 15): 9.69110107421875	 ([despite][defiant][batting][tail - enders][singh][indians][bundled][239.])
+v(11 12): -2.726163148880005	 ([proved][good])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 15): 9.55689811706543	 ([despite][defiant][batting][tail - enders][irfan][pathan,][harbhajan][singh][zaheer][khan,][aussies][indians][bundled][239.])
+v(4 5 6 8 9 10 11 12): -1.3007149696350098	 ([irfan][pathan,][harbhajan][zaheer][khan,][aussies][proved][good])
+v(0 1 2 3 7 11 12 13 14 15): 9.694008827209473	 ([despite][defiant][batting][tail - enders][singh][proved][good][indians][bundled][239.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 8.556966781616211	 ([despite][defiant][batting][tail - enders][irfan][pathan,][harbhajan][singh][zaheer][khan,][aussies][proved][good][indians][bundled][239.])
+---------- Rewards-v() ----------
+v(0 1 2 3 7 11 12 13 14 15): 14.018062591552734, EP: 1.0882725715637207	 ([despite][defiant][batting][tail - enders][singh][proved][good][indians][bundled][239.])
+v(0 1 2 3 7 13 14 15): 14.015155792236328, EP: 1.088046908378601	 ([despite][defiant][batting][tail - enders][singh][indians][bundled][239.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 15): 13.880952835083008, EP: 1.077628254890442	 ([despite][defiant][batting][tail - enders][irfan][pathan,][harbhajan][singh][zaheer][khan,][aussies][indians][bundled][239.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 12.881021499633789, EP: 1.0	 ([despite][defiant][batting][tail - enders][irfan][pathan,][harbhajan][singh][zaheer][khan,][aussies][proved][good][indians][bundled][239.])
+v(4 5 6 8 9 10 11 12): 3.02333927154541, EP: 0.23471269011497498	 ([irfan][pathan,][harbhajan][zaheer][khan,][aussies][proved][good])
+v(4 5 6 8 9 10): -1.825822353363037, EP: -0.14174515008926392	 ([irfan][pathan,][harbhajan][zaheer][khan,][aussies])
+v(11 12): 1.597891092300415, EP: 0.12405002862215042	 ([proved][good])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

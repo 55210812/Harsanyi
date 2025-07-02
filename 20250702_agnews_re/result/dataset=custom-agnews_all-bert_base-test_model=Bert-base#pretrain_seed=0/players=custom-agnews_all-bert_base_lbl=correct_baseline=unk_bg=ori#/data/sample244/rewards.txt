@@ -1,0 +1,27 @@
+---------- Players ----------
+Player 0: p2pnet. net
+Player 1: news : -
+Player 2: software
+Player 3: help
+Player 4: authenticate
+Player 5: paintings,
+Player 6: prints
+Player 7: drawings
+Player 8: developed
+Player 9: researchers
+Player 10: dartmouth
+Player 11: college
+Player 12: new
+Player 13: hampshire
+Player 14: us.
+---------- Rewards ----------
+v(): 4.570113658905029	 ([])
+v(4 9 10 11 12 13 14): 7.247776508331299	 ([authenticate][researchers][dartmouth][college][new][hampshire][us.])
+v(0 1 2 3 5 6 7 8): 7.517983436584473	 ([p2pnet. net][news : -][software][help][paintings,][prints][drawings][developed])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 7.448390960693359	 ([p2pnet. net][news : -][software][help][authenticate][paintings,][prints][drawings][developed][researchers][dartmouth][college][new][hampshire][us.])
+---------- Rewards-v() ----------
+v(0 1 2 3 5 6 7 8): 2.9478697776794434, EP: 1.0241785049438477	 ([p2pnet. net][news : -][software][help][paintings,][prints][drawings][developed])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 2.87827730178833, EP: 1.0	 ([p2pnet. net][news : -][software][help][authenticate][paintings,][prints][drawings][developed][researchers][dartmouth][college][new][hampshire][us.])
+v(4 9 10 11 12 13 14): 2.6776628494262695, EP: 0.9303005337715149	 ([authenticate][researchers][dartmouth][college][new][hampshire][us.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

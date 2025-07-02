@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: shareholders
+Player 1: news
+Player 2: corporation,
+Player 3: parent
+Player 4: company
+Player 5: times,
+Player 6: voted
+Player 7: yesterday
+Player 8: nine
+Player 9: one
+Player 10: shift
+Player 11: companys
+Player 12: legal
+Player 13: headquarters
+Player 14: primary
+Player 15: listing
+Player 16: australia
+Player 17: united
+Player 18: states.
+---------- Rewards ----------
+v(): -4.298786163330078	 ([])
+v(0 2 3 4 11 12): 5.2807297706604	 ([shareholders][corporation,][parent][company][companys][legal])
+v(13 14 15): -5.37721586227417	 ([headquarters][primary][listing])
+v(1 5 6 7 8 9 10 16 17 18): -3.467245578765869	 ([news][times,][voted][yesterday][nine][one][shift][australia][united][states.])
+v(0 2 3 4 11 12 13 14 15): 6.866326332092285	 ([shareholders][corporation,][parent][company][companys][legal][headquarters][primary][listing])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 16 17 18): 7.680393218994141	 ([shareholders][news][corporation,][parent][company][times,][voted][yesterday][nine][one][shift][companys][legal][australia][united][states.])
+v(1 5 6 7 8 9 10 13 14 15 16 17 18): -0.7164645195007324	 ([news][times,][voted][yesterday][nine][one][shift][headquarters][primary][listing][australia][united][states.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.928852081298828	 ([shareholders][news][corporation,][parent][company][times,][voted][yesterday][nine][one][shift][companys][legal][headquarters][primary][listing][australia][united][states.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 12.227638244628906, EP: 1.0	 ([shareholders][news][corporation,][parent][company][times,][voted][yesterday][nine][one][shift][companys][legal][headquarters][primary][listing][australia][united][states.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 16 17 18): 11.979179382324219, EP: 0.9796805381774902	 ([shareholders][news][corporation,][parent][company][times,][voted][yesterday][nine][one][shift][companys][legal][australia][united][states.])
+v(0 2 3 4 11 12 13 14 15): 11.165112495422363, EP: 0.9131045937538147	 ([shareholders][corporation,][parent][company][companys][legal][headquarters][primary][listing])
+v(0 2 3 4 11 12): 9.57951545715332, EP: 0.783431351184845	 ([shareholders][corporation,][parent][company][companys][legal])
+v(1 5 6 7 8 9 10 13 14 15 16 17 18): 3.5823216438293457, EP: 0.2929692268371582	 ([news][times,][voted][yesterday][nine][one][shift][headquarters][primary][listing][australia][united][states.])
+v(13 14 15): -1.0784296989440918, EP: -0.08819607645273209	 ([headquarters][primary][listing])
+v(1 5 6 7 8 9 10 16 17 18): 0.831540584564209, EP: 0.06800500303506851	 ([news][times,][voted][yesterday][nine][one][shift][australia][united][states.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

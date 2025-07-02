@@ -1,0 +1,64 @@
+---------- Players ----------
+Player 0: eds
+Player 1: officials
+Player 2: delayed
+Player 3: releasing
+Player 4: company
+Player 5: # 39 ; s
+Player 6: earnings
+Player 7: report
+Player 8: second
+Player 9: time
+Player 10: two
+Player 11: weeks
+Player 12: pending
+Player 13: completion
+Player 14: previously
+Player 15: announced
+Player 16: evaluation
+Player 17: eds
+Player 18: # 39 ;
+Player 19: navy
+Player 20: marine
+Player 21: corps
+Player 22: intranet
+Player 23: contract
+Player 24: outside
+Player 25: auditor
+Player 26: company
+Player 27: officials.
+---------- Rewards ----------
+v(): -0.7031563520431519	 ([])
+v(3 4 6 8 13 20 21 22 26): 7.049971580505371	 ([releasing][company][earnings][second][completion][marine][corps][intranet][company])
+v(5 7 14 23 24 25 27): 6.481803894042969	 ([# 39 ; s][report][previously][contract][outside][auditor][officials.])
+v(0 1 2 17 18 19): 6.378525733947754	 ([eds][officials][delayed][eds][# 39 ;][navy])
+v(9 10 11 12 15 16): -1.9866517782211304	 ([time][two][weeks][pending][announced][evaluation])
+v(3 4 5 6 7 8 13 14 20 21 22 23 24 25 26 27): 5.662320613861084	 ([releasing][company][# 39 ; s][earnings][report][second][completion][previously][marine][corps][intranet][contract][outside][auditor][company][officials.])
+v(0 1 2 3 4 6 8 13 17 18 19 20 21 22 26): 7.744991302490234	 ([eds][officials][delayed][releasing][company][earnings][second][completion][eds][# 39 ;][navy][marine][corps][intranet][company])
+v(3 4 6 8 9 10 11 12 13 15 16 20 21 22 26): 6.488398551940918	 ([releasing][company][earnings][second][time][two][weeks][pending][completion][announced][evaluation][marine][corps][intranet][company])
+v(0 1 2 5 7 14 17 18 19 23 24 25 27): 7.4850239753723145	 ([eds][officials][delayed][# 39 ; s][report][previously][eds][# 39 ;][navy][contract][outside][auditor][officials.])
+v(5 7 9 10 11 12 14 15 16 23 24 25 27): 1.6079785823822021	 ([# 39 ; s][report][time][two][weeks][pending][previously][announced][evaluation][contract][outside][auditor][officials.])
+v(0 1 2 9 10 11 12 15 16 17 18 19): 4.861120700836182	 ([eds][officials][delayed][time][two][weeks][pending][announced][evaluation][eds][# 39 ;][navy])
+v(0 1 2 3 4 5 6 7 8 13 14 17 18 19 20 21 22 23 24 25 26 27): 5.683156490325928	 ([eds][officials][delayed][releasing][company][# 39 ; s][earnings][report][second][completion][previously][eds][# 39 ;][navy][marine][corps][intranet][contract][outside][auditor][company][officials.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 24 25 26 27): 5.614307403564453	 ([releasing][company][# 39 ; s][earnings][report][second][time][two][weeks][pending][completion][previously][announced][evaluation][marine][corps][intranet][contract][outside][auditor][company][officials.])
+v(0 1 2 3 4 6 8 9 10 11 12 13 15 16 17 18 19 20 21 22 26): 6.504227638244629	 ([eds][officials][delayed][releasing][company][earnings][second][time][two][weeks][pending][completion][announced][evaluation][eds][# 39 ;][navy][marine][corps][intranet][company])
+v(0 1 2 5 7 9 10 11 12 14 15 16 17 18 19 23 24 25 27): 6.160650253295898	 ([eds][officials][delayed][# 39 ; s][report][time][two][weeks][pending][previously][announced][evaluation][eds][# 39 ;][navy][contract][outside][auditor][officials.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 5.233858108520508	 ([eds][officials][delayed][releasing][company][# 39 ; s][earnings][report][second][time][two][weeks][pending][completion][previously][announced][evaluation][eds][# 39 ;][navy][marine][corps][intranet][contract][outside][auditor][company][officials.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 6 8 13 17 18 19 20 21 22 26): 8.448147773742676, EP: 1.4229623079299927	 ([eds][officials][delayed][releasing][company][earnings][second][completion][eds][# 39 ;][navy][marine][corps][intranet][company])
+v(0 1 2 5 7 14 17 18 19 23 24 25 27): 8.188179969787598, EP: 1.3791745901107788	 ([eds][officials][delayed][# 39 ; s][report][previously][eds][# 39 ;][navy][contract][outside][auditor][officials.])
+v(3 4 6 8 13 20 21 22 26): 7.7531280517578125, EP: 1.3058967590332031	 ([releasing][company][earnings][second][completion][marine][corps][intranet][company])
+v(0 1 2 3 4 6 8 9 10 11 12 13 15 16 17 18 19 20 21 22 26): 7.20738410949707, EP: 1.2139744758605957	 ([eds][officials][delayed][releasing][company][earnings][second][time][two][weeks][pending][completion][announced][evaluation][eds][# 39 ;][navy][marine][corps][intranet][company])
+v(3 4 6 8 9 10 11 12 13 15 16 20 21 22 26): 7.191555023193359, EP: 1.211308240890503	 ([releasing][company][earnings][second][time][two][weeks][pending][completion][announced][evaluation][marine][corps][intranet][company])
+v(5 7 14 23 24 25 27): 7.18496036529541, EP: 1.2101975679397583	 ([# 39 ; s][report][previously][contract][outside][auditor][officials.])
+v(0 1 2 17 18 19): 7.081682205200195, EP: 1.192801833152771	 ([eds][officials][delayed][eds][# 39 ;][navy])
+v(0 1 2 5 7 9 10 11 12 14 15 16 17 18 19 23 24 25 27): 6.86380672454834, EP: 1.1561040878295898	 ([eds][officials][delayed][# 39 ; s][report][time][two][weeks][pending][previously][announced][evaluation][eds][# 39 ;][navy][contract][outside][auditor][officials.])
+v(0 1 2 3 4 5 6 7 8 13 14 17 18 19 20 21 22 23 24 25 26 27): 6.386312961578369, EP: 1.075677514076233	 ([eds][officials][delayed][releasing][company][# 39 ; s][earnings][report][second][completion][previously][eds][# 39 ;][navy][marine][corps][intranet][contract][outside][auditor][company][officials.])
+v(3 4 5 6 7 8 13 14 20 21 22 23 24 25 26 27): 6.365477085113525, EP: 1.072167992591858	 ([releasing][company][# 39 ; s][earnings][report][second][completion][previously][marine][corps][intranet][contract][outside][auditor][company][officials.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 24 25 26 27): 6.3174638748168945, EP: 1.0640809535980225	 ([releasing][company][# 39 ; s][earnings][report][second][time][two][weeks][pending][completion][previously][announced][evaluation][marine][corps][intranet][contract][outside][auditor][company][officials.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 5.937014579772949, EP: 1.0	 ([eds][officials][delayed][releasing][company][# 39 ; s][earnings][report][second][time][two][weeks][pending][completion][previously][announced][evaluation][eds][# 39 ;][navy][marine][corps][intranet][contract][outside][auditor][company][officials.])
+v(0 1 2 9 10 11 12 15 16 17 18 19): 5.564277172088623, EP: 0.9372180700302124	 ([eds][officials][delayed][time][two][weeks][pending][announced][evaluation][eds][# 39 ;][navy])
+v(5 7 9 10 11 12 14 15 16 23 24 25 27): 2.3111348152160645, EP: 0.38927558064460754	 ([# 39 ; s][report][time][two][weeks][pending][previously][announced][evaluation][contract][outside][auditor][officials.])
+v(9 10 11 12 15 16): -1.2834954261779785, EP: -0.2161853313446045	 ([time][two][weeks][pending][announced][evaluation])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

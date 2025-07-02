@@ -1,0 +1,24 @@
+---------- Players ----------
+Player 0: federal
+Player 1: communications
+Player 2: commission
+Player 3: issued
+Player 4: notice
+Player 5: \ $ 550, 000
+Player 6: fine
+Player 7: incident
+Player 8: super
+Player 9: bowl
+Player 10: halftime
+Player 11: show.
+---------- Rewards ----------
+v(): -4.660176753997803	 ([])
+v(0 2 3 4 7 11): -5.574340343475342	 ([federal][commission][issued][notice][incident][show.])
+v(1 5 6 8 9 10): -3.3648476600646973	 ([communications][\ $ 550, 000][fine][super][bowl][halftime])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 1.8487505912780762	 ([federal][communications][commission][issued][notice][\ $ 550, 000][fine][incident][super][bowl][halftime][show.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11): 6.508927345275879, EP: 1.0	 ([federal][communications][commission][issued][notice][\ $ 550, 000][fine][incident][super][bowl][halftime][show.])
+v(1 5 6 8 9 10): 1.2953290939331055, EP: 0.19900807738304138	 ([communications][\ $ 550, 000][fine][super][bowl][halftime])
+v(0 2 3 4 7 11): -0.9141635894775391, EP: -0.14044766128063202	 ([federal][commission][issued][notice][incident][show.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

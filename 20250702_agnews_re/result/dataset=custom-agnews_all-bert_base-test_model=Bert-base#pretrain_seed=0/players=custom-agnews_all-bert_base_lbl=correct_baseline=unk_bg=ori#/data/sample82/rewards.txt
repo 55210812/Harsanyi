@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: half
+Player 1: decade
+Player 2: turmoil,
+Player 3: picture
+Player 4: air
+Player 5: travel
+Player 6: u. s.
+Player 7: starting
+Player 8: emerge,
+Player 9: far
+Player 10: different
+Player 11: caring
+Player 12: image
+Player 13: airlines
+Player 14: like
+Player 15: present.
+---------- Rewards ----------
+v(): -6.449921131134033	 ([])
+v(4 5): 1.084053874015808	 ([air][travel])
+v(6 7 8 9 10 11 12 13 14 15): 4.588796615600586	 ([u. s.][starting][emerge,][far][different][caring][image][airlines][like][present.])
+v(0 1 2 3): -7.123014450073242	 ([half][decade][turmoil,][picture])
+v(4 5 6 7 8 9 10 11 12 13 14 15): 6.202259063720703	 ([air][travel][u. s.][starting][emerge,][far][different][caring][image][airlines][like][present.])
+v(0 1 2 3 4 5): 2.3892149925231934	 ([half][decade][turmoil,][picture][air][travel])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15): 4.74540901184082	 ([half][decade][turmoil,][picture][u. s.][starting][emerge,][far][different][caring][image][airlines][like][present.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 2.9072012901306152	 ([half][decade][turmoil,][picture][air][travel][u. s.][starting][emerge,][far][different][caring][image][airlines][like][present.])
+---------- Rewards-v() ----------
+v(4 5 6 7 8 9 10 11 12 13 14 15): 12.652179718017578, EP: 1.3521442413330078	 ([air][travel][u. s.][starting][emerge,][far][different][caring][image][airlines][like][present.])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15): 11.195329666137695, EP: 1.196450114250183	 ([half][decade][turmoil,][picture][u. s.][starting][emerge,][far][different][caring][image][airlines][like][present.])
+v(6 7 8 9 10 11 12 13 14 15): 11.038717269897461, EP: 1.1797127723693848	 ([u. s.][starting][emerge,][far][different][caring][image][airlines][like][present.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.357122421264648, EP: 1.0	 ([half][decade][turmoil,][picture][air][travel][u. s.][starting][emerge,][far][different][caring][image][airlines][like][present.])
+v(0 1 2 3 4 5): 8.839136123657227, EP: 0.9446425437927246	 ([half][decade][turmoil,][picture][air][travel])
+v(4 5): 7.533975124359131, EP: 0.8051593899726868	 ([air][travel])
+v(0 1 2 3): -0.673093318939209, EP: -0.0719337910413742	 ([half][decade][turmoil,][picture])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,21 @@
+---------- Players ----------
+Player 0: end
+Player 1: year,
+Player 2: computing
+Player 3: giant
+Player 4: plans
+Player 5: biggest
+Player 6: headcount
+Player 7: since
+Player 8: 1991.
+---------- Rewards ----------
+v(): 3.003065347671509	 ([])
+v(3 5 6 7): -5.188702583312988	 ([giant][biggest][headcount][since])
+v(0 1 2 4 8): 5.4811882972717285	 ([end][year,][computing][plans][1991.])
+v(0 1 2 3 4 5 6 7 8): 4.9041361808776855	 ([end][year,][computing][giant][plans][biggest][headcount][since][1991.])
+---------- Rewards-v() ----------
+v(3 5 6 7): -8.191767692565918, EP: -4.309028148651123	 ([giant][biggest][headcount][since])
+v(0 1 2 4 8): 2.4781229496002197, EP: 1.303540587425232	 ([end][year,][computing][plans][1991.])
+v(0 1 2 3 4 5 6 7 8): 1.9010708332061768, EP: 1.0	 ([end][year,][computing][giant][plans][biggest][headcount][since][1991.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

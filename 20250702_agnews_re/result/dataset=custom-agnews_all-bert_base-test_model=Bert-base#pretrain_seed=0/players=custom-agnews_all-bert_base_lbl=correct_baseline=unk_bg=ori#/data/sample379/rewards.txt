@@ -1,0 +1,88 @@
+---------- Players ----------
+Player 0: defending
+Player 1: champion
+Player 2: robert
+Player 3: allenby
+Player 4: confident
+Player 5: quickly
+Player 6: bridging
+Player 7: gap
+Player 8: tournament
+Player 9: leader
+Player 10: bradley
+Player 11: hughes
+Player 12: today
+Player 13: # 39 ; s
+Player 14: third
+Player 15: round
+Player 16: australian
+Player 17: masters
+Player 18: huntingdale
+Player 19: melbourne.
+---------- Rewards ----------
+v(): -5.757552146911621	 ([])
+v(0 1 2): 5.1453351974487305	 ([defending][champion][robert])
+v(15 16 17 18): 8.072583198547363	 ([round][australian][masters][huntingdale])
+v(3 9 10 11 14): 3.6659157276153564	 ([allenby][leader][bradley][hughes][third])
+v(7 8 12 13): 5.051521301269531	 ([gap][tournament][today][# 39 ; s])
+v(4 5 6 19): 1.7706143856048584	 ([confident][quickly][bridging][melbourne.])
+v(0 1 2 15 16 17 18): 9.144413948059082	 ([defending][champion][robert][round][australian][masters][huntingdale])
+v(0 1 2 3 9 10 11 14): 8.931262016296387	 ([defending][champion][robert][allenby][leader][bradley][hughes][third])
+v(0 1 2 7 8 12 13): 9.015460014343262	 ([defending][champion][robert][gap][tournament][today][# 39 ; s])
+v(0 1 2 4 5 6 19): 8.344597816467285	 ([defending][champion][robert][confident][quickly][bridging][melbourne.])
+v(3 9 10 11 14 15 16 17 18): 9.401124954223633	 ([allenby][leader][bradley][hughes][third][round][australian][masters][huntingdale])
+v(7 8 12 13 15 16 17 18): 9.375663757324219	 ([gap][tournament][today][# 39 ; s][round][australian][masters][huntingdale])
+v(4 5 6 15 16 17 18 19): 9.543113708496094	 ([confident][quickly][bridging][round][australian][masters][huntingdale][melbourne.])
+v(3 7 8 9 10 11 12 13 14): 9.664216041564941	 ([allenby][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third])
+v(3 4 5 6 9 10 11 14 19): 2.1231303215026855	 ([allenby][confident][quickly][bridging][leader][bradley][hughes][third][melbourne.])
+v(4 5 6 7 8 12 13 19): 8.920219421386719	 ([confident][quickly][bridging][gap][tournament][today][# 39 ; s][melbourne.])
+v(0 1 2 3 9 10 11 14 15 16 17 18): 9.54455280303955	 ([defending][champion][robert][allenby][leader][bradley][hughes][third][round][australian][masters][huntingdale])
+v(0 1 2 7 8 12 13 15 16 17 18): 9.43447208404541	 ([defending][champion][robert][gap][tournament][today][# 39 ; s][round][australian][masters][huntingdale])
+v(0 1 2 4 5 6 15 16 17 18 19): 9.577640533447266	 ([defending][champion][robert][confident][quickly][bridging][round][australian][masters][huntingdale][melbourne.])
+v(0 1 2 3 7 8 9 10 11 12 13 14): 9.755657196044922	 ([defending][champion][robert][allenby][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third])
+v(0 1 2 3 4 5 6 9 10 11 14 19): 9.271653175354004	 ([defending][champion][robert][allenby][confident][quickly][bridging][leader][bradley][hughes][third][melbourne.])
+v(0 1 2 4 5 6 7 8 12 13 19): 9.417236328125	 ([defending][champion][robert][confident][quickly][bridging][gap][tournament][today][# 39 ; s][melbourne.])
+v(3 7 8 9 10 11 12 13 14 15 16 17 18): 9.494695663452148	 ([allenby][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third][round][australian][masters][huntingdale])
+v(3 4 5 6 9 10 11 14 15 16 17 18 19): 9.574935913085938	 ([allenby][confident][quickly][bridging][leader][bradley][hughes][third][round][australian][masters][huntingdale][melbourne.])
+v(4 5 6 7 8 12 13 15 16 17 18 19): 9.276087760925293	 ([confident][quickly][bridging][gap][tournament][today][# 39 ; s][round][australian][masters][huntingdale][melbourne.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 19): 9.597017288208008	 ([allenby][confident][quickly][bridging][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third][melbourne.])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17 18): 9.505935668945312	 ([defending][champion][robert][allenby][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third][round][australian][masters][huntingdale])
+v(0 1 2 3 4 5 6 9 10 11 14 15 16 17 18 19): 9.630725860595703	 ([defending][champion][robert][allenby][confident][quickly][bridging][leader][bradley][hughes][third][round][australian][masters][huntingdale][melbourne.])
+v(0 1 2 4 5 6 7 8 12 13 15 16 17 18 19): 9.348329544067383	 ([defending][champion][robert][confident][quickly][bridging][gap][tournament][today][# 39 ; s][round][australian][masters][huntingdale][melbourne.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 19): 9.635297775268555	 ([defending][champion][robert][allenby][confident][quickly][bridging][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third][melbourne.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.414596557617188	 ([allenby][confident][quickly][bridging][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third][round][australian][masters][huntingdale][melbourne.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.459330558776855	 ([defending][champion][robert][allenby][confident][quickly][bridging][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third][round][australian][masters][huntingdale][melbourne.])
+---------- Rewards-v() ----------
+v(0 1 2 3 7 8 9 10 11 12 13 14): 15.513209342956543, EP: 1.0194735527038574	 ([defending][champion][robert][allenby][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third])
+v(3 7 8 9 10 11 12 13 14): 15.421768188476562, EP: 1.013464331626892	 ([allenby][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 19): 15.392849922180176, EP: 1.0115638971328735	 ([defending][champion][robert][allenby][confident][quickly][bridging][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third][melbourne.])
+v(0 1 2 3 4 5 6 9 10 11 14 15 16 17 18 19): 15.388278007507324, EP: 1.0112634897232056	 ([defending][champion][robert][allenby][confident][quickly][bridging][leader][bradley][hughes][third][round][australian][masters][huntingdale][melbourne.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 19): 15.354569435119629, EP: 1.009048342704773	 ([allenby][confident][quickly][bridging][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third][melbourne.])
+v(0 1 2 4 5 6 15 16 17 18 19): 15.335192680358887, EP: 1.0077749490737915	 ([defending][champion][robert][confident][quickly][bridging][round][australian][masters][huntingdale][melbourne.])
+v(3 4 5 6 9 10 11 14 15 16 17 18 19): 15.332488059997559, EP: 1.0075972080230713	 ([allenby][confident][quickly][bridging][leader][bradley][hughes][third][round][australian][masters][huntingdale][melbourne.])
+v(0 1 2 3 9 10 11 14 15 16 17 18): 15.302104949951172, EP: 1.0056004524230957	 ([defending][champion][robert][allenby][leader][bradley][hughes][third][round][australian][masters][huntingdale])
+v(4 5 6 15 16 17 18 19): 15.300665855407715, EP: 1.005505919456482	 ([confident][quickly][bridging][round][australian][masters][huntingdale][melbourne.])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17 18): 15.263487815856934, EP: 1.0030627250671387	 ([defending][champion][robert][allenby][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third][round][australian][masters][huntingdale])
+v(3 7 8 9 10 11 12 13 14 15 16 17 18): 15.25224781036377, EP: 1.002324104309082	 ([allenby][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third][round][australian][masters][huntingdale])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 15.216882705688477, EP: 1.0	 ([defending][champion][robert][allenby][confident][quickly][bridging][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third][round][australian][masters][huntingdale][melbourne.])
+v(0 1 2 7 8 12 13 15 16 17 18): 15.192024230957031, EP: 0.9983664155006409	 ([defending][champion][robert][gap][tournament][today][# 39 ; s][round][australian][masters][huntingdale])
+v(0 1 2 4 5 6 7 8 12 13 19): 15.174788475036621, EP: 0.9972336888313293	 ([defending][champion][robert][confident][quickly][bridging][gap][tournament][today][# 39 ; s][melbourne.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 15.172148704528809, EP: 0.997060239315033	 ([allenby][confident][quickly][bridging][gap][tournament][leader][bradley][hughes][today][# 39 ; s][third][round][australian][masters][huntingdale][melbourne.])
+v(3 9 10 11 14 15 16 17 18): 15.158677101135254, EP: 0.9961749315261841	 ([allenby][leader][bradley][hughes][third][round][australian][masters][huntingdale])
+v(7 8 12 13 15 16 17 18): 15.13321590423584, EP: 0.9945017099380493	 ([gap][tournament][today][# 39 ; s][round][australian][masters][huntingdale])
+v(0 1 2 4 5 6 7 8 12 13 15 16 17 18 19): 15.105881690979004, EP: 0.9927054047584534	 ([defending][champion][robert][confident][quickly][bridging][gap][tournament][today][# 39 ; s][round][australian][masters][huntingdale][melbourne.])
+v(4 5 6 7 8 12 13 15 16 17 18 19): 15.033639907836914, EP: 0.9879579544067383	 ([confident][quickly][bridging][gap][tournament][today][# 39 ; s][round][australian][masters][huntingdale][melbourne.])
+v(0 1 2 3 4 5 6 9 10 11 14 19): 15.029205322265625, EP: 0.9876664876937866	 ([defending][champion][robert][allenby][confident][quickly][bridging][leader][bradley][hughes][third][melbourne.])
+v(0 1 2 15 16 17 18): 14.901966094970703, EP: 0.9793047904968262	 ([defending][champion][robert][round][australian][masters][huntingdale])
+v(0 1 2 7 8 12 13): 14.773012161254883, EP: 0.9708303809165955	 ([defending][champion][robert][gap][tournament][today][# 39 ; s])
+v(0 1 2 3 9 10 11 14): 14.688814163208008, EP: 0.9652972221374512	 ([defending][champion][robert][allenby][leader][bradley][hughes][third])
+v(4 5 6 7 8 12 13 19): 14.67777156829834, EP: 0.9645715355873108	 ([confident][quickly][bridging][gap][tournament][today][# 39 ; s][melbourne.])
+v(0 1 2 4 5 6 19): 14.102149963378906, EP: 0.9267436861991882	 ([defending][champion][robert][confident][quickly][bridging][melbourne.])
+v(15 16 17 18): 13.830135345458984, EP: 0.9088678359985352	 ([round][australian][masters][huntingdale])
+v(0 1 2): 10.902887344360352, EP: 0.716499388217926	 ([defending][champion][robert])
+v(7 8 12 13): 10.809073448181152, EP: 0.710334300994873	 ([gap][tournament][today][# 39 ; s])
+v(3 9 10 11 14): 9.423467636108398, EP: 0.6192771196365356	 ([allenby][leader][bradley][hughes][third])
+v(3 4 5 6 9 10 11 14 19): 7.880682468414307, EP: 0.5178907513618469	 ([allenby][confident][quickly][bridging][leader][bradley][hughes][third][melbourne.])
+v(4 5 6 19): 7.528166770935059, EP: 0.4947246313095093	 ([confident][quickly][bridging][melbourne.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

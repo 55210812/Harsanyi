@@ -1,0 +1,28 @@
+---------- Players ----------
+Player 0: wanted
+Player 1: man
+Player 2: andy
+Player 3: reid
+Player 4: market
+Player 5: value
+Player 6: harm
+Player 7: grabbing
+Player 8: first
+Player 9: republic
+Player 10: ireland
+Player 11: goal
+Player 12: bulgaria
+Player 13: lansdowne
+Player 14: road
+Player 15: tonight.
+---------- Rewards ----------
+v(): -2.4088406562805176	 ([])
+v(0 1 2 3 4 5 6 7 10): -2.946289300918579	 ([wanted][man][andy][reid][market][value][harm][grabbing][ireland])
+v(8 9 11 12 13 14 15): 6.747967720031738	 ([first][republic][goal][bulgaria][lansdowne][road][tonight.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.072670936584473	 ([wanted][man][andy][reid][market][value][harm][grabbing][first][republic][ireland][goal][bulgaria][lansdowne][road][tonight.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 11.481512069702148, EP: 1.0	 ([wanted][man][andy][reid][market][value][harm][grabbing][first][republic][ireland][goal][bulgaria][lansdowne][road][tonight.])
+v(8 9 11 12 13 14 15): 9.156808853149414, EP: 0.7975263595581055	 ([first][republic][goal][bulgaria][lansdowne][road][tonight.])
+v(0 1 2 3 4 5 6 7 10): -0.5374486446380615, EP: -0.04680991917848587	 ([wanted][man][andy][reid][market][value][harm][grabbing][ireland])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

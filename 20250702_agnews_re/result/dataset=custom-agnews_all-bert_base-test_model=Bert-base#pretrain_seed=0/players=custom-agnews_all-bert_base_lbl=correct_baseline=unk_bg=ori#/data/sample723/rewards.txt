@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: pitcher
+Player 1: piano
+Player 2: owner
+Player 3: wolverhampton
+Player 4: amp ;
+Player 5: dudley
+Player 6: says
+Player 7: buying
+Player 8: smaller
+Player 9: rival
+Player 10: burtonwood
+Player 11: 119
+Player 12: million
+Player 13: pounds
+Player 14: meeting
+Player 15: forecasts
+Player 16: higher
+Player 17: annual
+Player 18: profits.
+---------- Rewards ----------
+v(): -4.330831527709961	 ([])
+v(1 7 8 9 11 12 13 15 18): 6.2784271240234375	 ([piano][buying][smaller][rival][119][million][pounds][forecasts][profits.])
+v(0 4 5 6 10 14 16 17): 2.413637638092041	 ([pitcher][amp ;][dudley][says][burtonwood][meeting][higher][annual])
+v(2 3): 3.8074088096618652	 ([owner][wolverhampton])
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.085626602172852	 ([pitcher][piano][amp ;][dudley][says][buying][smaller][rival][burtonwood][119][million][pounds][meeting][forecasts][higher][annual][profits.])
+v(1 2 3 7 8 9 11 12 13 15 18): 6.077102184295654	 ([piano][owner][wolverhampton][buying][smaller][rival][119][million][pounds][forecasts][profits.])
+v(0 2 3 4 5 6 10 14 16 17): 1.6679964065551758	 ([pitcher][owner][wolverhampton][amp ;][dudley][says][burtonwood][meeting][higher][annual])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.663008689880371	 ([pitcher][piano][owner][wolverhampton][amp ;][dudley][says][buying][smaller][rival][burtonwood][119][million][pounds][meeting][forecasts][higher][annual][profits.])
+---------- Rewards-v() ----------
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 12.416458129882812, EP: 1.0352362394332886	 ([pitcher][piano][amp ;][dudley][says][buying][smaller][rival][burtonwood][119][million][pounds][meeting][forecasts][higher][annual][profits.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 11.993840217590332, EP: 1.0	 ([pitcher][piano][owner][wolverhampton][amp ;][dudley][says][buying][smaller][rival][burtonwood][119][million][pounds][meeting][forecasts][higher][annual][profits.])
+v(1 7 8 9 11 12 13 15 18): 10.609258651733398, EP: 0.884558916091919	 ([piano][buying][smaller][rival][119][million][pounds][forecasts][profits.])
+v(1 2 3 7 8 9 11 12 13 15 18): 10.407934188842773, EP: 0.8677732944488525	 ([piano][owner][wolverhampton][buying][smaller][rival][119][million][pounds][forecasts][profits.])
+v(2 3): 8.138240814208984, EP: 0.6785350441932678	 ([owner][wolverhampton])
+v(0 4 5 6 10 14 16 17): 6.744469165802002, EP: 0.5623277425765991	 ([pitcher][amp ;][dudley][says][burtonwood][meeting][higher][annual])
+v(0 2 3 4 5 6 10 14 16 17): 5.998827934265137, EP: 0.5001590847969055	 ([pitcher][owner][wolverhampton][amp ;][dudley][says][burtonwood][meeting][higher][annual])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

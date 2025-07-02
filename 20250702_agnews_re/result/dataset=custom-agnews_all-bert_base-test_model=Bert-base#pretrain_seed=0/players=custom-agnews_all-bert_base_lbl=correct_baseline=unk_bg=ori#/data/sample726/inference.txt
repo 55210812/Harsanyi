@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 19:35:08
+prompt: [CLS] for the loser of this saturday's maryland - north carolina state game, both at 3 - 2, the bowl season may be an unreachable destination. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2005 decoded_text: for
+idx:2 input_id:1996 decoded_text: the
+idx:3 input_id:10916 decoded_text: loser
+idx:4 input_id:1997 decoded_text: of
+idx:5 input_id:2023 decoded_text: this
+idx:6 input_id:5095 decoded_text: saturday
+idx:7 input_id:1005 decoded_text: '
+idx:8 input_id:1055 decoded_text: s
+idx:9 input_id:5374 decoded_text: maryland
+idx:10 input_id:1011 decoded_text: -
+idx:11 input_id:2167 decoded_text: north
+idx:12 input_id:3792 decoded_text: carolina
+idx:13 input_id:2110 decoded_text: state
+idx:14 input_id:2208 decoded_text: game
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:2119 decoded_text: both
+idx:17 input_id:2012 decoded_text: at
+idx:18 input_id:1017 decoded_text: 3
+idx:19 input_id:1011 decoded_text: -
+idx:20 input_id:1016 decoded_text: 2
+idx:21 input_id:1010 decoded_text: ,
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:4605 decoded_text: bowl
+idx:24 input_id:2161 decoded_text: season
+idx:25 input_id:2089 decoded_text: may
+idx:26 input_id:2022 decoded_text: be
+idx:27 input_id:2019 decoded_text: an
+idx:28 input_id:4895 decoded_text: un
+idx:29 input_id:16416 decoded_text: ##rea
+idx:30 input_id:7507 decoded_text: ##cha
+idx:31 input_id:3468 decoded_text: ##ble
+idx:32 input_id:7688 decoded_text: destination
+idx:33 input_id:1012 decoded_text: .
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[0.1229180097579956, 8.024775505065918, -3.2898447513580322, -3.101524829864502]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

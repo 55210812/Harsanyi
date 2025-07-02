@@ -1,0 +1,52 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: barry
+Player 3: bonds
+Player 4: praised
+Player 5: teammates
+Player 6: clutch
+Player 7: play
+Player 8: busy
+Player 9: walking
+Player 10: season,
+Player 11: watched
+Player 12: go
+Player 13: work
+Player 14: tuesday
+Player 15: night.
+---------- Rewards ----------
+v(): -2.193990707397461	 ([])
+v(2 3 4): 9.261137962341309	 ([barry][bonds][praised])
+v(0 1 5 6 7 10 13 14 15): 8.813881874084473	 ([ap][-][teammates][clutch][play][season,][work][tuesday][night.])
+v(8 9): -2.751814842224121	 ([busy][walking])
+v(11 12): -1.4679248332977295	 ([watched][go])
+v(0 1 2 3 4 5 6 7 10 13 14 15): 9.547109603881836	 ([ap][-][barry][bonds][praised][teammates][clutch][play][season,][work][tuesday][night.])
+v(2 3 4 8 9): 9.117920875549316	 ([barry][bonds][praised][busy][walking])
+v(2 3 4 11 12): 8.868101119995117	 ([barry][bonds][praised][watched][go])
+v(0 1 5 6 7 8 9 10 13 14 15): 8.966251373291016	 ([ap][-][teammates][clutch][play][busy][walking][season,][work][tuesday][night.])
+v(0 1 5 6 7 10 11 12 13 14 15): 8.413874626159668	 ([ap][-][teammates][clutch][play][season,][watched][go][work][tuesday][night.])
+v(8 9 11 12): -2.20448637008667	 ([busy][walking][watched][go])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 15): 9.547340393066406	 ([ap][-][barry][bonds][praised][teammates][clutch][play][busy][walking][season,][work][tuesday][night.])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15): 9.427485466003418	 ([ap][-][barry][bonds][praised][teammates][clutch][play][season,][watched][go][work][tuesday][night.])
+v(2 3 4 8 9 11 12): 8.81636905670166	 ([barry][bonds][praised][busy][walking][watched][go])
+v(0 1 5 6 7 8 9 10 11 12 13 14 15): 8.4158296585083	 ([ap][-][teammates][clutch][play][busy][walking][season,][watched][go][work][tuesday][night.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.450287818908691	 ([ap][-][barry][bonds][praised][teammates][clutch][play][busy][walking][season,][watched][go][work][tuesday][night.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 15): 11.741331100463867, EP: 1.008334755897522	 ([ap][-][barry][bonds][praised][teammates][clutch][play][busy][walking][season,][work][tuesday][night.])
+v(0 1 2 3 4 5 6 7 10 13 14 15): 11.741100311279297, EP: 1.0083149671554565	 ([ap][-][barry][bonds][praised][teammates][clutch][play][season,][work][tuesday][night.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 11.644278526306152, EP: 1.0	 ([ap][-][barry][bonds][praised][teammates][clutch][play][busy][walking][season,][watched][go][work][tuesday][night.])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15): 11.621476173400879, EP: 0.9980417490005493	 ([ap][-][barry][bonds][praised][teammates][clutch][play][season,][watched][go][work][tuesday][night.])
+v(2 3 4): 11.45512866973877, EP: 0.9837560057640076	 ([barry][bonds][praised])
+v(2 3 4 8 9): 11.311911582946777, EP: 0.9714566469192505	 ([barry][bonds][praised][busy][walking])
+v(0 1 5 6 7 8 9 10 13 14 15): 11.160242080688477, EP: 0.9584313631057739	 ([ap][-][teammates][clutch][play][busy][walking][season,][work][tuesday][night.])
+v(2 3 4 11 12): 11.062091827392578, EP: 0.9500023126602173	 ([barry][bonds][praised][watched][go])
+v(2 3 4 8 9 11 12): 11.010359764099121, EP: 0.9455596208572388	 ([barry][bonds][praised][busy][walking][watched][go])
+v(0 1 5 6 7 10 13 14 15): 11.007872581481934, EP: 0.9453460574150085	 ([ap][-][teammates][clutch][play][season,][work][tuesday][night.])
+v(0 1 5 6 7 8 9 10 11 12 13 14 15): 10.609820365905762, EP: 0.9111616611480713	 ([ap][-][teammates][clutch][play][busy][walking][season,][watched][go][work][tuesday][night.])
+v(0 1 5 6 7 10 11 12 13 14 15): 10.607865333557129, EP: 0.910993754863739	 ([ap][-][teammates][clutch][play][season,][watched][go][work][tuesday][night.])
+v(11 12): 0.7260658740997314, EP: 0.06235387548804283	 ([watched][go])
+v(8 9): -0.5578241348266602, EP: -0.04790542647242546	 ([busy][walking])
+v(8 9 11 12): -0.010495662689208984, EP: -0.0009013579110614955	 ([busy][walking][watched][go])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

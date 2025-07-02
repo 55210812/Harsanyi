@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: fcc
+Player 1: ruled
+Player 2: state
+Player 3: regulation
+Player 4: voice - over - ip
+Player 5: phone
+Player 6: services,
+Player 7: saying
+Player 8: disparate
+Player 9: state
+Player 10: regulations
+Player 11: would
+Player 12: slow
+Player 13: rollout.
+---------- Rewards ----------
+v(): -2.664400100708008	 ([])
+v(3 4 5 10 13): -4.344349384307861	 ([regulation][voice - over - ip][phone][regulations][rollout.])
+v(0 1 2 6 7 8 9 11 12): 3.3188204765319824	 ([fcc][ruled][state][services,][saying][disparate][state][would][slow])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 1.1231801509857178	 ([fcc][ruled][state][regulation][voice - over - ip][phone][services,][saying][disparate][state][regulations][would][slow][rollout.])
+---------- Rewards-v() ----------
+v(0 1 2 6 7 8 9 11 12): 5.98322057723999, EP: 1.5796947479248047	 ([fcc][ruled][state][services,][saying][disparate][state][would][slow])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 3.7875802516937256, EP: 1.0	 ([fcc][ruled][state][regulation][voice - over - ip][phone][services,][saying][disparate][state][regulations][would][slow][rollout.])
+v(3 4 5 10 13): -1.6799492835998535, EP: -0.443541556596756	 ([regulation][voice - over - ip][phone][regulations][rollout.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

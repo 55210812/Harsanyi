@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: first
+Player 1: time,
+Player 2: americans
+Player 3: # 39 ;
+Player 4: use
+Player 5: credit
+Player 6: cards,
+Player 7: debit
+Player 8: cards
+Player 9: electronic
+Player 10: bill
+Player 11: paying
+Player 12: eclipsed
+Player 13: paper
+Player 14: checks.
+Player 15: number
+Player 16: electronic
+Player 17: payment
+Player 18: transactions
+Player 19: last
+Player 20: year
+Player 21: totaled
+---------- Rewards ----------
+v(): -5.758175849914551	 ([])
+v(0 1 2 5 6 7 8 9 11 16 17 18): 1.0620663166046143	 ([first][time,][americans][credit][cards,][debit][cards][electronic][paying][electronic][payment][transactions])
+v(10 12 13 15 19 20): -7.877578258514404	 ([bill][eclipsed][paper][number][last][year])
+v(3 4 14 21): -1.0098174810409546	 ([# 39 ;][use][checks.][totaled])
+v(0 1 2 5 6 7 8 9 10 11 12 13 15 16 17 18 19 20): 0.25635766983032227	 ([first][time,][americans][credit][cards,][debit][cards][electronic][bill][paying][eclipsed][paper][number][electronic][payment][transactions][last][year])
+v(0 1 2 3 4 5 6 7 8 9 11 14 16 17 18 21): 3.7552332878112793	 ([first][time,][americans][# 39 ;][use][credit][cards,][debit][cards][electronic][paying][checks.][electronic][payment][transactions][totaled])
+v(3 4 10 12 13 14 15 19 20 21): -6.013684272766113	 ([# 39 ;][use][bill][eclipsed][paper][checks.][number][last][year][totaled])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 3.5723717212677	 ([first][time,][americans][# 39 ;][use][credit][cards,][debit][cards][electronic][bill][paying][eclipsed][paper][checks.][number][electronic][payment][transactions][last][year][totaled])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 11 14 16 17 18 21): 9.513408660888672, EP: 1.019598126411438	 ([first][time,][americans][# 39 ;][use][credit][cards,][debit][cards][electronic][paying][checks.][electronic][payment][transactions][totaled])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.330547332763672, EP: 1.0	 ([first][time,][americans][# 39 ;][use][credit][cards,][debit][cards][electronic][bill][paying][eclipsed][paper][checks.][number][electronic][payment][transactions][last][year][totaled])
+v(0 1 2 5 6 7 8 9 11 16 17 18): 6.820241928100586, EP: 0.7309584021568298	 ([first][time,][americans][credit][cards,][debit][cards][electronic][paying][electronic][payment][transactions])
+v(0 1 2 5 6 7 8 9 10 11 12 13 15 16 17 18 19 20): 6.014533519744873, EP: 0.6446067094802856	 ([first][time,][americans][credit][cards,][debit][cards][electronic][bill][paying][eclipsed][paper][number][electronic][payment][transactions][last][year])
+v(3 4 14 21): 4.748358249664307, EP: 0.5089045763015747	 ([# 39 ;][use][checks.][totaled])
+v(10 12 13 15 19 20): -2.1194024085998535, EP: -0.22714662551879883	 ([bill][eclipsed][paper][number][last][year])
+v(3 4 10 12 13 14 15 19 20 21): -0.2555084228515625, EP: -0.02738407626748085	 ([# 39 ;][use][bill][eclipsed][paper][checks.][number][last][year][totaled])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

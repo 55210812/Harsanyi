@@ -1,0 +1,24 @@
+---------- Players ----------
+Player 0: munch
+Player 1: museum
+Player 2: oslo,
+Player 3: thieves
+Player 4: stole
+Player 5: scream
+Player 6: last
+Player 7: month,
+Player 8: upgrade
+Player 9: security
+Player 10: wake
+Player 11: raid.
+---------- Rewards ----------
+v(): -6.121465682983398	 ([])
+v(0 3 4 5 8 9 10 11): 3.6249866485595703	 ([munch][thieves][stole][scream][upgrade][security][wake][raid.])
+v(1 2 6 7): -0.5251123905181885	 ([museum][oslo,][last][month,])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 4.770007610321045	 ([munch][museum][oslo,][thieves][stole][scream][last][month,][upgrade][security][wake][raid.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11): 10.891473770141602, EP: 1.0	 ([munch][museum][oslo,][thieves][stole][scream][last][month,][upgrade][security][wake][raid.])
+v(0 3 4 5 8 9 10 11): 9.746452331542969, EP: 0.8948699235916138	 ([munch][thieves][stole][scream][upgrade][security][wake][raid.])
+v(1 2 6 7): 5.596353530883789, EP: 0.5138288736343384	 ([museum][oslo,][last][month,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

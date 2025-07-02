@@ -1,0 +1,47 @@
+---------- Players ----------
+Player 0: america
+Player 1: online
+Player 2: ( aol )
+Player 3: ditched
+Player 4: microsoft
+Player 5: # 39 ; s
+Player 6: sender
+Player 7: id
+Player 8: technology
+Player 9: favour
+Player 10: sender
+Player 11: policy
+Player 12: framework
+Player 13: ( spf ).
+Player 14: move
+Player 15: follows
+Player 16: concerns
+Player 17: sender
+Player 18: id
+Player 19: voiced
+Player 20: internet
+Player 21: engineering
+Player 22: task
+Player 23: force
+Player 24: ( ietf )
+Player 25: earlier
+Player 26: week.
+---------- Rewards ----------
+v(): 2.4378838539123535	 ([])
+v(0 1 4 8 13 19 20 22 23 24): 7.171808242797852	 ([america][online][microsoft][technology][( spf ).][voiced][internet][task][force][( ietf )])
+v(7 14 16 17 18 25 26): 1.483938455581665	 ([id][move][concerns][sender][id][earlier][week.])
+v(2 3 5 6 9 10 11 12 15 21): 1.8171507120132446	 ([( aol )][ditched][# 39 ; s][sender][favour][sender][policy][framework][follows][engineering])
+v(0 1 4 7 8 13 14 16 17 18 19 20 22 23 24 25 26): 7.777837753295898	 ([america][online][microsoft][id][technology][( spf ).][move][concerns][sender][id][voiced][internet][task][force][( ietf )][earlier][week.])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 15 19 20 21 22 23 24): 8.205697059631348	 ([america][online][( aol )][ditched][microsoft][# 39 ; s][sender][technology][favour][sender][policy][framework][( spf ).][follows][voiced][internet][engineering][task][force][( ietf )])
+v(2 3 5 6 7 9 10 11 12 14 15 16 17 18 21 25 26): 4.44195032119751	 ([( aol )][ditched][# 39 ; s][sender][id][favour][sender][policy][framework][move][follows][concerns][sender][id][engineering][earlier][week.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 8.416561126708984	 ([america][online][( aol )][ditched][microsoft][# 39 ; s][sender][id][technology][favour][sender][policy][framework][( spf ).][move][follows][concerns][sender][id][voiced][internet][engineering][task][force][( ietf )][earlier][week.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 5.978677272796631, EP: 1.0	 ([america][online][( aol )][ditched][microsoft][# 39 ; s][sender][id][technology][favour][sender][policy][framework][( spf ).][move][follows][concerns][sender][id][voiced][internet][engineering][task][force][( ietf )][earlier][week.])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 15 19 20 21 22 23 24): 5.767813205718994, EP: 0.9647306203842163	 ([america][online][( aol )][ditched][microsoft][# 39 ; s][sender][technology][favour][sender][policy][framework][( spf ).][follows][voiced][internet][engineering][task][force][( ietf )])
+v(0 1 4 7 8 13 14 16 17 18 19 20 22 23 24 25 26): 5.339953899383545, EP: 0.8931664228439331	 ([america][online][microsoft][id][technology][( spf ).][move][concerns][sender][id][voiced][internet][task][force][( ietf )][earlier][week.])
+v(0 1 4 8 13 19 20 22 23 24): 4.733924388885498, EP: 0.7918012738227844	 ([america][online][microsoft][technology][( spf ).][voiced][internet][task][force][( ietf )])
+v(2 3 5 6 7 9 10 11 12 14 15 16 17 18 21 25 26): 2.0040664672851562, EP: 0.33520230650901794	 ([( aol )][ditched][# 39 ; s][sender][id][favour][sender][policy][framework][move][follows][concerns][sender][id][engineering][earlier][week.])
+v(7 14 16 17 18 25 26): -0.9539453983306885, EP: -0.15955793857574463	 ([id][move][concerns][sender][id][earlier][week.])
+v(2 3 5 6 9 10 11 12 15 21): -0.6207331418991089, EP: -0.10382449626922607	 ([( aol )][ditched][# 39 ; s][sender][favour][sender][policy][framework][follows][engineering])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: brown - forman
+Player 1: corp.
+Player 2: ( bfb. n :
+Player 3: quote,
+Player 4: profile,
+Player 5: research )
+Player 6: ,
+Player 7: sells
+Player 8: products
+Player 9: ranging
+Player 10: jack
+Player 11: daniels
+Player 12: whiskey
+Player 13: lenox
+Player 14: china,
+Player 15: thursday
+Player 16: posted
+Player 17: better - than - expected
+Player 18: 67
+Player 19: percent
+Player 20: jump
+---------- Rewards ----------
+v(): -2.7001657485961914	 ([])
+v(5 16 17 19 20): 4.322509288787842	 ([research )][posted][better - than - expected][percent][jump])
+v(0 1 4 7 8 9 12 18): 7.788825035095215	 ([brown - forman][corp.][profile,][sells][products][ranging][whiskey][67])
+v(2 3 6 10 11 13 14 15): 6.3772125244140625	 ([( bfb. n :][quote,][,][jack][daniels][lenox][china,][thursday])
+v(0 1 4 5 7 8 9 12 16 17 18 19 20): 8.413741111755371	 ([brown - forman][corp.][profile,][research )][sells][products][ranging][whiskey][posted][better - than - expected][67][percent][jump])
+v(2 3 5 6 10 11 13 14 15 16 17 19 20): 8.003740310668945	 ([( bfb. n :][quote,][research )][,][jack][daniels][lenox][china,][thursday][posted][better - than - expected][percent][jump])
+v(0 1 2 3 4 6 7 8 9 10 11 12 13 14 15 18): 8.566385269165039	 ([brown - forman][corp.][( bfb. n :][quote,][profile,][,][sells][products][ranging][jack][daniels][whiskey][lenox][china,][thursday][67])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.52326774597168	 ([brown - forman][corp.][( bfb. n :][quote,][profile,][research )][,][sells][products][ranging][jack][daniels][whiskey][lenox][china,][thursday][posted][better - than - expected][67][percent][jump])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 6 7 8 9 10 11 12 13 14 15 18): 11.26655101776123, EP: 1.003841757774353	 ([brown - forman][corp.][( bfb. n :][quote,][profile,][,][sells][products][ranging][jack][daniels][whiskey][lenox][china,][thursday][67])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 11.223433494567871, EP: 1.0	 ([brown - forman][corp.][( bfb. n :][quote,][profile,][research )][,][sells][products][ranging][jack][daniels][whiskey][lenox][china,][thursday][posted][better - than - expected][67][percent][jump])
+v(0 1 4 5 7 8 9 12 16 17 18 19 20): 11.113906860351562, EP: 0.9902412295341492	 ([brown - forman][corp.][profile,][research )][sells][products][ranging][whiskey][posted][better - than - expected][67][percent][jump])
+v(2 3 5 6 10 11 13 14 15 16 17 19 20): 10.703906059265137, EP: 0.9537104964256287	 ([( bfb. n :][quote,][research )][,][jack][daniels][lenox][china,][thursday][posted][better - than - expected][percent][jump])
+v(0 1 4 7 8 9 12 18): 10.488990783691406, EP: 0.9345616698265076	 ([brown - forman][corp.][profile,][sells][products][ranging][whiskey][67])
+v(2 3 6 10 11 13 14 15): 9.077378273010254, EP: 0.808788001537323	 ([( bfb. n :][quote,][,][jack][daniels][lenox][china,][thursday])
+v(5 16 17 19 20): 7.022675037384033, EP: 0.6257153749465942	 ([research )][posted][better - than - expected][percent][jump])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

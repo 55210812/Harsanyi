@@ -1,0 +1,60 @@
+---------- Players ----------
+Player 0: support
+Player 1: mp3
+Player 2: first
+Player 3: appear
+Player 4: solid
+Player 5: state
+Player 6: players
+Player 7: based
+Player 8: flash
+Player 9: memory
+Player 10: sony
+Player 11: plans
+Player 12: release
+Player 13: year.
+Player 14: sony
+Player 15: long
+Player 16: insisted
+Player 17: digital
+Player 18: music
+Player 19: players
+Player 20: support
+Player 21: proprietary
+Player 22: atrac
+Player 23: format,
+---------- Rewards ----------
+v(): 3.3246665000915527	 ([])
+v(1 6 7 14 18 19): 7.1071577072143555	 ([mp3][players][based][sony][music][players])
+v(0 2 3 9 16 17 20 23): 7.145987033843994	 ([support][first][appear][memory][insisted][digital][support][format,])
+v(8 10 11 12): 6.393315315246582	 ([flash][sony][plans][release])
+v(4 5 13 15 21 22): 5.918805122375488	 ([solid][state][year.][long][proprietary][atrac])
+v(0 1 2 3 6 7 9 14 16 17 18 19 20 23): 7.0920844078063965	 ([support][mp3][first][appear][players][based][memory][sony][insisted][digital][music][players][support][format,])
+v(1 6 7 8 10 11 12 14 18 19): 7.79404878616333	 ([mp3][players][based][flash][sony][plans][release][sony][music][players])
+v(1 4 5 6 7 13 14 15 18 19 21 22): 6.374698162078857	 ([mp3][solid][state][players][based][year.][sony][long][music][players][proprietary][atrac])
+v(0 2 3 8 9 10 11 12 16 17 20 23): 6.809590816497803	 ([support][first][appear][flash][memory][sony][plans][release][insisted][digital][support][format,])
+v(0 2 3 4 5 9 13 15 16 17 20 21 22 23): 7.436352729797363	 ([support][first][appear][solid][state][memory][year.][long][insisted][digital][support][proprietary][atrac][format,])
+v(4 5 8 10 11 12 13 15 21 22): 7.435742378234863	 ([solid][state][flash][sony][plans][release][year.][long][proprietary][atrac])
+v(0 1 2 3 6 7 8 9 10 11 12 14 16 17 18 19 20 23): 7.350007057189941	 ([support][mp3][first][appear][players][based][flash][memory][sony][plans][release][sony][insisted][digital][music][players][support][format,])
+v(0 1 2 3 4 5 6 7 9 13 14 15 16 17 18 19 20 21 22 23): 6.367504119873047	 ([support][mp3][first][appear][solid][state][players][based][memory][year.][sony][long][insisted][digital][music][players][support][proprietary][atrac][format,])
+v(1 4 5 6 7 8 10 11 12 13 14 15 18 19 21 22): 7.100704193115234	 ([mp3][solid][state][players][based][flash][sony][plans][release][year.][sony][long][music][players][proprietary][atrac])
+v(0 2 3 4 5 8 9 10 11 12 13 15 16 17 20 21 22 23): 7.608493328094482	 ([support][first][appear][solid][state][flash][memory][sony][plans][release][year.][long][insisted][digital][support][proprietary][atrac][format,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 6.504246234893799	 ([support][mp3][first][appear][solid][state][players][based][flash][memory][sony][plans][release][year.][sony][long][insisted][digital][music][players][support][proprietary][atrac][format,])
+---------- Rewards-v() ----------
+v(1 6 7 8 10 11 12 14 18 19): 4.469382286071777, EP: 1.4056519269943237	 ([mp3][players][based][flash][sony][plans][release][sony][music][players])
+v(0 2 3 4 5 8 9 10 11 12 13 15 16 17 20 21 22 23): 4.28382682800293, EP: 1.3472933769226074	 ([support][first][appear][solid][state][flash][memory][sony][plans][release][year.][long][insisted][digital][support][proprietary][atrac][format,])
+v(0 2 3 4 5 9 13 15 16 17 20 21 22 23): 4.1116862297058105, EP: 1.293154001235962	 ([support][first][appear][solid][state][memory][year.][long][insisted][digital][support][proprietary][atrac][format,])
+v(4 5 8 10 11 12 13 15 21 22): 4.1110758781433105, EP: 1.2929620742797852	 ([solid][state][flash][sony][plans][release][year.][long][proprietary][atrac])
+v(0 1 2 3 6 7 8 9 10 11 12 14 16 17 18 19 20 23): 4.025340557098389, EP: 1.2659976482391357	 ([support][mp3][first][appear][players][based][flash][memory][sony][plans][release][sony][insisted][digital][music][players][support][format,])
+v(0 2 3 9 16 17 20 23): 3.8213205337524414, EP: 1.2018319368362427	 ([support][first][appear][memory][insisted][digital][support][format,])
+v(1 6 7 14 18 19): 3.7824912071228027, EP: 1.1896198987960815	 ([mp3][players][based][sony][music][players])
+v(1 4 5 6 7 8 10 11 12 13 14 15 18 19 21 22): 3.7760376930236816, EP: 1.18759024143219	 ([mp3][solid][state][players][based][flash][sony][plans][release][year.][sony][long][music][players][proprietary][atrac])
+v(0 1 2 3 6 7 9 14 16 17 18 19 20 23): 3.7674179077148438, EP: 1.184879183769226	 ([support][mp3][first][appear][players][based][memory][sony][insisted][digital][music][players][support][format,])
+v(0 2 3 8 9 10 11 12 16 17 20 23): 3.48492431640625, EP: 1.096032977104187	 ([support][first][appear][flash][memory][sony][plans][release][insisted][digital][support][format,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 3.179579734802246, EP: 1.0	 ([support][mp3][first][appear][solid][state][players][based][flash][memory][sony][plans][release][year.][sony][long][insisted][digital][music][players][support][proprietary][atrac][format,])
+v(8 10 11 12): 3.0686488151550293, EP: 0.9651114344596863	 ([flash][sony][plans][release])
+v(1 4 5 6 7 13 14 15 18 19 21 22): 3.0500316619873047, EP: 0.9592562317848206	 ([mp3][solid][state][players][based][year.][sony][long][music][players][proprietary][atrac])
+v(0 1 2 3 4 5 6 7 9 13 14 15 16 17 18 19 20 21 22 23): 3.042837619781494, EP: 0.9569936394691467	 ([support][mp3][first][appear][solid][state][players][based][memory][year.][sony][long][insisted][digital][music][players][support][proprietary][atrac][format,])
+v(4 5 13 15 21 22): 2.5941386222839355, EP: 0.8158746957778931	 ([solid][state][year.][long][proprietary][atrac])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

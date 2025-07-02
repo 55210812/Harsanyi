@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: -
+Player 3: defending
+Player 4: world
+Player 5: cup
+Player 6: champion
+Player 7: brazil
+Player 8: suffered
+Player 9: shocking
+Player 10: result
+Player 11: day,
+Player 12: china
+Player 13: biggest
+Player 14: loser.
+Player 15: brazilians
+Player 16: lost
+Player 17: ecuador
+Player 18: second
+Player 19: time
+Player 20: history.
+---------- Rewards ----------
+v(): -3.018392324447632	 ([])
+v(0 1 3 4 5 8 18 19 20): 9.290144920349121	 ([new][york][defending][world][cup][suffered][second][time][history.])
+v(2 7 12 14 15 16 17): 5.872409820556641	 ([-][brazil][china][loser.][brazilians][lost][ecuador])
+v(6 9 10 11 13): -1.055002212524414	 ([champion][shocking][result][day,][biggest])
+v(0 1 2 3 4 5 7 8 12 14 15 16 17 18 19 20): 8.278742790222168	 ([new][york][-][defending][world][cup][brazil][suffered][china][loser.][brazilians][lost][ecuador][second][time][history.])
+v(0 1 3 4 5 6 8 9 10 11 13 18 19 20): 9.395881652832031	 ([new][york][defending][world][cup][champion][suffered][shocking][result][day,][biggest][second][time][history.])
+v(2 6 7 9 10 11 12 13 14 15 16 17): 6.5388665199279785	 ([-][champion][brazil][shocking][result][day,][china][biggest][loser.][brazilians][lost][ecuador])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.467172145843506	 ([new][york][-][defending][world][cup][champion][brazil][suffered][shocking][result][day,][china][biggest][loser.][brazilians][lost][ecuador][second][time][history.])
+---------- Rewards-v() ----------
+v(0 1 3 4 5 6 8 9 10 11 13 18 19 20): 12.414274215698242, EP: 1.1839395761489868	 ([new][york][defending][world][cup][champion][suffered][shocking][result][day,][biggest][second][time][history.])
+v(0 1 3 4 5 8 18 19 20): 12.308537483215332, EP: 1.1738555431365967	 ([new][york][defending][world][cup][suffered][second][time][history.])
+v(0 1 2 3 4 5 7 8 12 14 15 16 17 18 19 20): 11.297135353088379, EP: 1.0773988962173462	 ([new][york][-][defending][world][cup][brazil][suffered][china][loser.][brazilians][lost][ecuador][second][time][history.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 10.485564231872559, EP: 1.0	 ([new][york][-][defending][world][cup][champion][brazil][suffered][shocking][result][day,][china][biggest][loser.][brazilians][lost][ecuador][second][time][history.])
+v(2 6 7 9 10 11 12 13 14 15 16 17): 9.557258605957031, EP: 0.9114682078361511	 ([-][champion][brazil][shocking][result][day,][china][biggest][loser.][brazilians][lost][ecuador])
+v(2 7 12 14 15 16 17): 8.890802383422852, EP: 0.8479087948799133	 ([-][brazil][china][loser.][brazilians][lost][ecuador])
+v(6 9 10 11 13): 1.9633901119232178, EP: 0.18724696338176727	 ([champion][shocking][result][day,][biggest])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

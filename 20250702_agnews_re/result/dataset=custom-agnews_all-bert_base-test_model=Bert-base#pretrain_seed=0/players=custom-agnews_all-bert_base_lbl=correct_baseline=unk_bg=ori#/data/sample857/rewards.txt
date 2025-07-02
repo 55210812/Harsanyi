@@ -1,0 +1,69 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: inexperienced
+Player 3: receivers
+Player 4: tough
+Player 5: time
+Player 6: getting
+Player 7: open.
+Player 8: retooled
+Player 9: offensive
+Player 10: line
+Player 11: trouble
+Player 12: protecting
+Player 13: star
+Player 14: quarterback.
+Player 15: no.
+Player 16: 1
+Player 17: team
+Player 18: trailing
+Player 19: 17
+Player 20: 1 / 2 - point
+Player 21: underdog
+Player 22: 17
+Player 23: minutes
+Player 24: left
+Player 25: season
+Player 26: opener.
+Player 27: southern
+Player 28: california
+Player 29: look
+Player 30: unbeatable
+Player 31: # 151 ;
+Player 32: yet.
+---------- Rewards ----------
+v(): -5.686681747436523	 ([])
+v(13 14 15 17 18 19 20 21 31): 9.471614837646484	 ([star][quarterback.][no.][team][trailing][17][1 / 2 - point][underdog][# 151 ;])
+v(8 11 12 25 26 27 29 30 32): 2.4099676609039307	 ([retooled][trouble][protecting][season][opener.][southern][look][unbeatable][yet.])
+v(4 5 6 7 9 10): 4.822519302368164	 ([tough][time][getting][open.][offensive][line])
+v(0 1 2 3 16 22 23 24 28): 4.948512077331543	 ([ap][-][inexperienced][receivers][1][17][minutes][left][california])
+v(8 11 12 13 14 15 17 18 19 20 21 25 26 27 29 30 31 32): 9.597062110900879	 ([retooled][trouble][protecting][star][quarterback.][no.][team][trailing][17][1 / 2 - point][underdog][season][opener.][southern][look][unbeatable][# 151 ;][yet.])
+v(4 5 6 7 9 10 13 14 15 17 18 19 20 21 31): 9.566062927246094	 ([tough][time][getting][open.][offensive][line][star][quarterback.][no.][team][trailing][17][1 / 2 - point][underdog][# 151 ;])
+v(0 1 2 3 13 14 15 16 17 18 19 20 21 22 23 24 28 31): 9.535064697265625	 ([ap][-][inexperienced][receivers][star][quarterback.][no.][1][team][trailing][17][1 / 2 - point][underdog][17][minutes][left][california][# 151 ;])
+v(4 5 6 7 8 9 10 11 12 25 26 27 29 30 32): 9.56813907623291	 ([tough][time][getting][open.][retooled][offensive][line][trouble][protecting][season][opener.][southern][look][unbeatable][yet.])
+v(0 1 2 3 8 11 12 16 22 23 24 25 26 27 28 29 30 32): 9.611478805541992	 ([ap][-][inexperienced][receivers][retooled][trouble][protecting][1][17][minutes][left][season][opener.][southern][california][look][unbeatable][yet.])
+v(0 1 2 3 4 5 6 7 9 10 16 22 23 24 28): 9.449570655822754	 ([ap][-][inexperienced][receivers][tough][time][getting][open.][offensive][line][1][17][minutes][left][california])
+v(4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 20 21 25 26 27 29 30 31 32): 9.600567817687988	 ([tough][time][getting][open.][retooled][offensive][line][trouble][protecting][star][quarterback.][no.][team][trailing][17][1 / 2 - point][underdog][season][opener.][southern][look][unbeatable][# 151 ;][yet.])
+v(0 1 2 3 8 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32): 9.626154899597168	 ([ap][-][inexperienced][receivers][retooled][trouble][protecting][star][quarterback.][no.][1][team][trailing][17][1 / 2 - point][underdog][17][minutes][left][season][opener.][southern][california][look][unbeatable][# 151 ;][yet.])
+v(0 1 2 3 4 5 6 7 9 10 13 14 15 16 17 18 19 20 21 22 23 24 28 31): 9.550783157348633	 ([ap][-][inexperienced][receivers][tough][time][getting][open.][offensive][line][star][quarterback.][no.][1][team][trailing][17][1 / 2 - point][underdog][17][minutes][left][california][# 151 ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 16 22 23 24 25 26 27 28 29 30 32): 9.66270637512207	 ([ap][-][inexperienced][receivers][tough][time][getting][open.][retooled][offensive][line][trouble][protecting][1][17][minutes][left][season][opener.][southern][california][look][unbeatable][yet.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32): 9.604225158691406	 ([ap][-][inexperienced][receivers][tough][time][getting][open.][retooled][offensive][line][trouble][protecting][star][quarterback.][no.][1][team][trailing][17][1 / 2 - point][underdog][17][minutes][left][season][opener.][southern][california][look][unbeatable][# 151 ;][yet.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 16 22 23 24 25 26 27 28 29 30 32): 15.349388122558594, EP: 1.0038245916366577	 ([ap][-][inexperienced][receivers][tough][time][getting][open.][retooled][offensive][line][trouble][protecting][1][17][minutes][left][season][opener.][southern][california][look][unbeatable][yet.])
+v(0 1 2 3 8 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32): 15.312836647033691, EP: 1.0014342069625854	 ([ap][-][inexperienced][receivers][retooled][trouble][protecting][star][quarterback.][no.][1][team][trailing][17][1 / 2 - point][underdog][17][minutes][left][season][opener.][southern][california][look][unbeatable][# 151 ;][yet.])
+v(0 1 2 3 8 11 12 16 22 23 24 25 26 27 28 29 30 32): 15.298160552978516, EP: 1.0004743337631226	 ([ap][-][inexperienced][receivers][retooled][trouble][protecting][1][17][minutes][left][season][opener.][southern][california][look][unbeatable][yet.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32): 15.29090690612793, EP: 1.0	 ([ap][-][inexperienced][receivers][tough][time][getting][open.][retooled][offensive][line][trouble][protecting][star][quarterback.][no.][1][team][trailing][17][1 / 2 - point][underdog][17][minutes][left][season][opener.][southern][california][look][unbeatable][# 151 ;][yet.])
+v(4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 20 21 25 26 27 29 30 31 32): 15.287249565124512, EP: 0.9997608065605164	 ([tough][time][getting][open.][retooled][offensive][line][trouble][protecting][star][quarterback.][no.][team][trailing][17][1 / 2 - point][underdog][season][opener.][southern][look][unbeatable][# 151 ;][yet.])
+v(8 11 12 13 14 15 17 18 19 20 21 25 26 27 29 30 31 32): 15.283743858337402, EP: 0.9995315670967102	 ([retooled][trouble][protecting][star][quarterback.][no.][team][trailing][17][1 / 2 - point][underdog][season][opener.][southern][look][unbeatable][# 151 ;][yet.])
+v(4 5 6 7 8 9 10 11 12 25 26 27 29 30 32): 15.254820823669434, EP: 0.9976400136947632	 ([tough][time][getting][open.][retooled][offensive][line][trouble][protecting][season][opener.][southern][look][unbeatable][yet.])
+v(4 5 6 7 9 10 13 14 15 17 18 19 20 21 31): 15.252744674682617, EP: 0.9975042343139648	 ([tough][time][getting][open.][offensive][line][star][quarterback.][no.][team][trailing][17][1 / 2 - point][underdog][# 151 ;])
+v(0 1 2 3 4 5 6 7 9 10 13 14 15 16 17 18 19 20 21 22 23 24 28 31): 15.237464904785156, EP: 0.9965049624443054	 ([ap][-][inexperienced][receivers][tough][time][getting][open.][offensive][line][star][quarterback.][no.][1][team][trailing][17][1 / 2 - point][underdog][17][minutes][left][california][# 151 ;])
+v(0 1 2 3 13 14 15 16 17 18 19 20 21 22 23 24 28 31): 15.221746444702148, EP: 0.995477020740509	 ([ap][-][inexperienced][receivers][star][quarterback.][no.][1][team][trailing][17][1 / 2 - point][underdog][17][minutes][left][california][# 151 ;])
+v(13 14 15 17 18 19 20 21 31): 15.158296585083008, EP: 0.9913275241851807	 ([star][quarterback.][no.][team][trailing][17][1 / 2 - point][underdog][# 151 ;])
+v(0 1 2 3 4 5 6 7 9 10 16 22 23 24 28): 15.136252403259277, EP: 0.9898858666419983	 ([ap][-][inexperienced][receivers][tough][time][getting][open.][offensive][line][1][17][minutes][left][california])
+v(0 1 2 3 16 22 23 24 28): 10.635193824768066, EP: 0.6955240964889526	 ([ap][-][inexperienced][receivers][1][17][minutes][left][california])
+v(4 5 6 7 9 10): 10.509201049804688, EP: 0.6872843503952026	 ([tough][time][getting][open.][offensive][line])
+v(8 11 12 25 26 27 29 30 32): 8.096649169921875, EP: 0.5295074582099915	 ([retooled][trouble][protecting][season][opener.][southern][look][unbeatable][yet.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

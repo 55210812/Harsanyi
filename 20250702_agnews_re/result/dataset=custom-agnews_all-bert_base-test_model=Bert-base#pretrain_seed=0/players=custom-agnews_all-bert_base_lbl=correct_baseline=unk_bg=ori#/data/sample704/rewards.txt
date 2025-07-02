@@ -1,0 +1,60 @@
+---------- Players ----------
+Player 0: college
+Player 1: kids
+Player 2: may
+Player 3: never
+Player 4: darken
+Player 5: library's
+Player 6: door
+Player 7: again,
+Player 8: thanks
+Player 9: google's
+Player 10: move
+Player 11: digitize
+Player 12: vast
+Player 13: holdings
+Player 14: several
+Player 15: prestigious
+Player 16: university
+Player 17: libraries.
+Player 18: & lt ; font
+Player 19: face = " verdana, ms
+Player 20: sans
+Player 21: serif, arial, helvetica "
+Player 22: size = " - 2 "
+Player 23: color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;
+---------- Rewards ----------
+v(): 4.638815879821777	 ([])
+v(1 5 6 7 8 12 13 14): 7.592128753662109	 ([kids][library's][door][again,][thanks][vast][holdings][several])
+v(20 21): 2.9896421432495117	 ([sans][serif, arial, helvetica "])
+v(9 16 18 19 22): 4.824954986572266	 ([google's][university][& lt ; font][face = " verdana, ms][size = " - 2 "])
+v(0 2 3 4 10 11 15 17 23): 8.203031539916992	 ([college][may][never][darken][move][digitize][prestigious][libraries.][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(1 5 6 7 8 12 13 14 20 21): 7.850465774536133	 ([kids][library's][door][again,][thanks][vast][holdings][several][sans][serif, arial, helvetica "])
+v(1 5 6 7 8 9 12 13 14 16 18 19 22): 7.6500959396362305	 ([kids][library's][door][again,][thanks][google's][vast][holdings][several][university][& lt ; font][face = " verdana, ms][size = " - 2 "])
+v(0 1 2 3 4 5 6 7 8 10 11 12 13 14 15 17 23): 8.338101387023926	 ([college][kids][may][never][darken][library's][door][again,][thanks][move][digitize][vast][holdings][several][prestigious][libraries.][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(9 16 18 19 20 21 22): 4.665138244628906	 ([google's][university][& lt ; font][face = " verdana, ms][sans][serif, arial, helvetica "][size = " - 2 "])
+v(0 2 3 4 10 11 15 17 20 21 23): 7.9290080070495605	 ([college][may][never][darken][move][digitize][prestigious][libraries.][sans][serif, arial, helvetica "][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(0 2 3 4 9 10 11 15 16 17 18 19 22 23): 8.046298027038574	 ([college][may][never][darken][google's][move][digitize][prestigious][university][libraries.][& lt ; font][face = " verdana, ms][size = " - 2 "][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(1 5 6 7 8 9 12 13 14 16 18 19 20 21 22): 7.263397693634033	 ([kids][library's][door][again,][thanks][google's][vast][holdings][several][university][& lt ; font][face = " verdana, ms][sans][serif, arial, helvetica "][size = " - 2 "])
+v(0 1 2 3 4 5 6 7 8 10 11 12 13 14 15 17 20 21 23): 8.18397331237793	 ([college][kids][may][never][darken][library's][door][again,][thanks][move][digitize][vast][holdings][several][prestigious][libraries.][sans][serif, arial, helvetica "][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 22 23): 8.174497604370117	 ([college][kids][may][never][darken][library's][door][again,][thanks][google's][move][digitize][vast][holdings][several][prestigious][university][libraries.][& lt ; font][face = " verdana, ms][size = " - 2 "][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(0 2 3 4 9 10 11 15 16 17 18 19 20 21 22 23): 7.8669586181640625	 ([college][may][never][darken][google's][move][digitize][prestigious][university][libraries.][& lt ; font][face = " verdana, ms][sans][serif, arial, helvetica "][size = " - 2 "][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.007181167602539	 ([college][kids][may][never][darken][library's][door][again,][thanks][google's][move][digitize][vast][holdings][several][prestigious][university][libraries.][& lt ; font][face = " verdana, ms][sans][serif, arial, helvetica "][size = " - 2 "][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 10 11 12 13 14 15 17 23): 3.6992855072021484, EP: 1.0982435941696167	 ([college][kids][may][never][darken][library's][door][again,][thanks][move][digitize][vast][holdings][several][prestigious][libraries.][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(0 2 3 4 10 11 15 17 23): 3.564215660095215, EP: 1.0581440925598145	 ([college][may][never][darken][move][digitize][prestigious][libraries.][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(0 1 2 3 4 5 6 7 8 10 11 12 13 14 15 17 20 21 23): 3.5451574325561523, EP: 1.0524860620498657	 ([college][kids][may][never][darken][library's][door][again,][thanks][move][digitize][vast][holdings][several][prestigious][libraries.][sans][serif, arial, helvetica "][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 22 23): 3.53568172454834, EP: 1.0496728420257568	 ([college][kids][may][never][darken][library's][door][again,][thanks][google's][move][digitize][vast][holdings][several][prestigious][university][libraries.][& lt ; font][face = " verdana, ms][size = " - 2 "][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(0 2 3 4 9 10 11 15 16 17 18 19 22 23): 3.407482147216797, EP: 1.0116130113601685	 ([college][may][never][darken][google's][move][digitize][prestigious][university][libraries.][& lt ; font][face = " verdana, ms][size = " - 2 "][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 3.3683652877807617, EP: 1.0	 ([college][kids][may][never][darken][library's][door][again,][thanks][google's][move][digitize][vast][holdings][several][prestigious][university][libraries.][& lt ; font][face = " verdana, ms][sans][serif, arial, helvetica "][size = " - 2 "][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(0 2 3 4 10 11 15 17 20 21 23): 3.290192127227783, EP: 0.9767919778823853	 ([college][may][never][darken][move][digitize][prestigious][libraries.][sans][serif, arial, helvetica "][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(0 2 3 4 9 10 11 15 16 17 18 19 20 21 22 23): 3.228142738342285, EP: 0.9583707451820374	 ([college][may][never][darken][google's][move][digitize][prestigious][university][libraries.][& lt ; font][face = " verdana, ms][sans][serif, arial, helvetica "][size = " - 2 "][color = " # 666666 " & gt ; & lt ; b & gt ; - washingtonpost. com & lt ; / b & gt ; & lt ; / font & gt ;])
+v(1 5 6 7 8 12 13 14 20 21): 3.2116498947143555, EP: 0.9534743428230286	 ([kids][library's][door][again,][thanks][vast][holdings][several][sans][serif, arial, helvetica "])
+v(1 5 6 7 8 9 12 13 14 16 18 19 22): 3.011280059814453, EP: 0.8939885497093201	 ([kids][library's][door][again,][thanks][google's][vast][holdings][several][university][& lt ; font][face = " verdana, ms][size = " - 2 "])
+v(1 5 6 7 8 12 13 14): 2.953312873840332, EP: 0.8767792582511902	 ([kids][library's][door][again,][thanks][vast][holdings][several])
+v(1 5 6 7 8 9 12 13 14 16 18 19 20 21 22): 2.624581813812256, EP: 0.7791856527328491	 ([kids][library's][door][again,][thanks][google's][vast][holdings][several][university][& lt ; font][face = " verdana, ms][sans][serif, arial, helvetica "][size = " - 2 "])
+v(20 21): -1.6491737365722656, EP: -0.4896065592765808	 ([sans][serif, arial, helvetica "])
+v(9 16 18 19 22): 0.18613910675048828, EP: 0.05526096373796463	 ([google's][university][& lt ; font][face = " verdana, ms][size = " - 2 "])
+v(9 16 18 19 20 21 22): 0.026322364807128906, EP: 0.007814581505954266	 ([google's][university][& lt ; font][face = " verdana, ms][sans][serif, arial, helvetica "][size = " - 2 "])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

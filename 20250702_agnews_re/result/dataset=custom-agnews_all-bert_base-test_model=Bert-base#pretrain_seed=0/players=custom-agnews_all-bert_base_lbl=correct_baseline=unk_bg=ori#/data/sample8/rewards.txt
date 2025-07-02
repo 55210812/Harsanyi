@@ -1,0 +1,65 @@
+---------- Players ----------
+Player 0: sydney
+Player 1: ( dow
+Player 2: jones ) - - news
+Player 3: corp.
+Player 4: ( nws )
+Player 5: chairman
+Player 6: rupert
+Player 7: murdoch
+Player 8: said
+Player 9: quot ; no
+Player 10: choice
+Player 11: quot ;
+Player 12: change
+Player 13: media
+Player 14: giant
+Player 15: # 39 ; s
+Player 16: domicile
+Player 17: us
+Player 18: attempts
+Player 19: win
+Player 20: crucial
+Player 21: support
+Player 22: australian
+Player 23: investors
+Player 24: move,
+Player 25: australian
+Player 26: financial
+Player 27: review
+Player 28: ...
+---------- Rewards ----------
+v(): -2.7340502738952637	 ([])
+v(5 6 7 8): 7.23143196105957	 ([chairman][rupert][murdoch][said])
+v(1 2 3 22): 7.312042236328125	 ([( dow][jones ) - - news][corp.][australian])
+v(9 10 11 12 16 17 23 24 25 26 27): 6.2285590171813965	 ([quot ; no][choice][quot ;][change][domicile][us][investors][move,][australian][financial][review])
+v(0 4 13 14 15 18 19 20 21 28): -4.235030174255371	 ([sydney][( nws )][media][giant][# 39 ; s][attempts][win][crucial][support][...])
+v(1 2 3 5 6 7 8 22): 7.745357990264893	 ([( dow][jones ) - - news][corp.][chairman][rupert][murdoch][said][australian])
+v(5 6 7 8 9 10 11 12 16 17 23 24 25 26 27): 6.133026123046875	 ([chairman][rupert][murdoch][said][quot ; no][choice][quot ;][change][domicile][us][investors][move,][australian][financial][review])
+v(0 4 5 6 7 8 13 14 15 18 19 20 21 28): 5.604036808013916	 ([sydney][( nws )][chairman][rupert][murdoch][said][media][giant][# 39 ; s][attempts][win][crucial][support][...])
+v(1 2 3 9 10 11 12 16 17 22 23 24 25 26 27): 7.562549114227295	 ([( dow][jones ) - - news][corp.][quot ; no][choice][quot ;][change][domicile][us][australian][investors][move,][australian][financial][review])
+v(0 1 2 3 4 13 14 15 18 19 20 21 22 28): 4.771136283874512	 ([sydney][( dow][jones ) - - news][corp.][( nws )][media][giant][# 39 ; s][attempts][win][crucial][support][australian][...])
+v(0 4 9 10 11 12 13 14 15 16 17 18 19 20 21 23 24 25 26 27 28): 5.1927313804626465	 ([sydney][( nws )][quot ; no][choice][quot ;][change][media][giant][# 39 ; s][domicile][us][attempts][win][crucial][support][investors][move,][australian][financial][review][...])
+v(1 2 3 5 6 7 8 9 10 11 12 16 17 22 23 24 25 26 27): 7.139488220214844	 ([( dow][jones ) - - news][corp.][chairman][rupert][murdoch][said][quot ; no][choice][quot ;][change][domicile][us][australian][investors][move,][australian][financial][review])
+v(0 1 2 3 4 5 6 7 8 13 14 15 18 19 20 21 22 28): 6.43726110458374	 ([sydney][( dow][jones ) - - news][corp.][( nws )][chairman][rupert][murdoch][said][media][giant][# 39 ; s][attempts][win][crucial][support][australian][...])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 23 24 25 26 27 28): 5.830411911010742	 ([sydney][( nws )][chairman][rupert][murdoch][said][quot ; no][choice][quot ;][change][media][giant][# 39 ; s][domicile][us][attempts][win][crucial][support][investors][move,][australian][financial][review][...])
+v(0 1 2 3 4 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 6.647359848022461	 ([sydney][( dow][jones ) - - news][corp.][( nws )][quot ; no][choice][quot ;][change][media][giant][# 39 ; s][domicile][us][attempts][win][crucial][support][australian][investors][move,][australian][financial][review][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 6.498523235321045	 ([sydney][( dow][jones ) - - news][corp.][( nws )][chairman][rupert][murdoch][said][quot ; no][choice][quot ;][change][media][giant][# 39 ; s][domicile][us][attempts][win][crucial][support][australian][investors][move,][australian][financial][review][...])
+---------- Rewards-v() ----------
+v(1 2 3 5 6 7 8 22): 10.479408264160156, EP: 1.1350473165512085	 ([( dow][jones ) - - news][corp.][chairman][rupert][murdoch][said][australian])
+v(1 2 3 9 10 11 12 16 17 22 23 24 25 26 27): 10.296599388122559, EP: 1.1152468919754028	 ([( dow][jones ) - - news][corp.][quot ; no][choice][quot ;][change][domicile][us][australian][investors][move,][australian][financial][review])
+v(1 2 3 22): 10.046092987060547, EP: 1.0881140232086182	 ([( dow][jones ) - - news][corp.][australian])
+v(5 6 7 8): 9.965482711791992, EP: 1.0793830156326294	 ([chairman][rupert][murdoch][said])
+v(1 2 3 5 6 7 8 9 10 11 12 16 17 22 23 24 25 26 27): 9.873538970947266, EP: 1.0694243907928467	 ([( dow][jones ) - - news][corp.][chairman][rupert][murdoch][said][quot ; no][choice][quot ;][change][domicile][us][australian][investors][move,][australian][financial][review])
+v(0 1 2 3 4 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 9.381410598754883, EP: 1.0161209106445312	 ([sydney][( dow][jones ) - - news][corp.][( nws )][quot ; no][choice][quot ;][change][media][giant][# 39 ; s][domicile][us][attempts][win][crucial][support][australian][investors][move,][australian][financial][review][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 9.232573509216309, EP: 1.0	 ([sydney][( dow][jones ) - - news][corp.][( nws )][chairman][rupert][murdoch][said][quot ; no][choice][quot ;][change][media][giant][# 39 ; s][domicile][us][attempts][win][crucial][support][australian][investors][move,][australian][financial][review][...])
+v(0 1 2 3 4 5 6 7 8 13 14 15 18 19 20 21 22 28): 9.171311378479004, EP: 0.9933645725250244	 ([sydney][( dow][jones ) - - news][corp.][( nws )][chairman][rupert][murdoch][said][media][giant][# 39 ; s][attempts][win][crucial][support][australian][...])
+v(9 10 11 12 16 17 23 24 25 26 27): 8.96260929107666, EP: 0.9707595705986023	 ([quot ; no][choice][quot ;][change][domicile][us][investors][move,][australian][financial][review])
+v(5 6 7 8 9 10 11 12 16 17 23 24 25 26 27): 8.867076873779297, EP: 0.9604122638702393	 ([chairman][rupert][murdoch][said][quot ; no][choice][quot ;][change][domicile][us][investors][move,][australian][financial][review])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 23 24 25 26 27 28): 8.564462661743164, EP: 0.9276354908943176	 ([sydney][( nws )][chairman][rupert][murdoch][said][quot ; no][choice][quot ;][change][media][giant][# 39 ; s][domicile][us][attempts][win][crucial][support][investors][move,][australian][financial][review][...])
+v(0 4 5 6 7 8 13 14 15 18 19 20 21 28): 8.33808708190918, EP: 0.9031162261962891	 ([sydney][( nws )][chairman][rupert][murdoch][said][media][giant][# 39 ; s][attempts][win][crucial][support][...])
+v(0 4 9 10 11 12 13 14 15 16 17 18 19 20 21 23 24 25 26 27 28): 7.92678165435791, EP: 0.8585668802261353	 ([sydney][( nws )][quot ; no][choice][quot ;][change][media][giant][# 39 ; s][domicile][us][attempts][win][crucial][support][investors][move,][australian][financial][review][...])
+v(0 1 2 3 4 13 14 15 18 19 20 21 22 28): 7.505186557769775, EP: 0.8129029870033264	 ([sydney][( dow][jones ) - - news][corp.][( nws )][media][giant][# 39 ; s][attempts][win][crucial][support][australian][...])
+v(0 4 13 14 15 18 19 20 21 28): -1.5009799003601074, EP: -0.1625743806362152	 ([sydney][( nws )][media][giant][# 39 ; s][attempts][win][crucial][support][...])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

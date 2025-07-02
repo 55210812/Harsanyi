@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: taiwan
+Player 1: condemned
+Player 2: china
+Player 3: # 39 ; s
+Player 4: plan
+Player 5: draft
+Player 6: anti - secession
+Player 7: law,
+Player 8: describing
+Player 9: saturday
+Player 10: move
+Player 11: establish
+Player 12: legal
+Player 13: basis
+Player 14: attack
+Player 15: self - ruling,
+Player 16: democratic
+Player 17: island
+Player 18: beijing
+Player 19: claims
+Player 20: province.
+---------- Rewards ----------
+v(): -6.069231986999512	 ([])
+v(12 15 16 17): 4.6293230056762695	 ([legal][self - ruling,][democratic][island])
+v(5 6 7 9 18 19): 7.902286529541016	 ([draft][anti - secession][law,][saturday][beijing][claims])
+v(1 2 3 4 10 20): 6.688437461853027	 ([condemned][china][# 39 ; s][plan][move][province.])
+v(0 8 11 13 14): -2.2148451805114746	 ([taiwan][describing][establish][basis][attack])
+v(5 6 7 9 12 15 16 17 18 19): 8.153230667114258	 ([draft][anti - secession][law,][saturday][legal][self - ruling,][democratic][island][beijing][claims])
+v(1 2 3 4 10 12 15 16 17 20): 7.358945846557617	 ([condemned][china][# 39 ; s][plan][move][legal][self - ruling,][democratic][island][province.])
+v(0 8 11 12 13 14 15 16 17): 6.730102062225342	 ([taiwan][describing][establish][legal][basis][attack][self - ruling,][democratic][island])
+v(1 2 3 4 5 6 7 9 10 18 19 20): 8.383904457092285	 ([condemned][china][# 39 ; s][plan][draft][anti - secession][law,][saturday][move][beijing][claims][province.])
+v(0 5 6 7 8 9 11 13 14 18 19): 8.278334617614746	 ([taiwan][draft][anti - secession][law,][describing][saturday][establish][basis][attack][beijing][claims])
+v(0 1 2 3 4 8 10 11 13 14 20): 7.835097312927246	 ([taiwan][condemned][china][# 39 ; s][plan][describing][move][establish][basis][attack][province.])
+v(1 2 3 4 5 6 7 9 10 12 15 16 17 18 19 20): 8.331609725952148	 ([condemned][china][# 39 ; s][plan][draft][anti - secession][law,][saturday][move][legal][self - ruling,][democratic][island][beijing][claims][province.])
+v(0 5 6 7 8 9 11 12 13 14 15 16 17 18 19): 8.452857971191406	 ([taiwan][draft][anti - secession][law,][describing][saturday][establish][legal][basis][attack][self - ruling,][democratic][island][beijing][claims])
+v(0 1 2 3 4 8 10 11 12 13 14 15 16 17 20): 8.188533782958984	 ([taiwan][condemned][china][# 39 ; s][plan][describing][move][establish][legal][basis][attack][self - ruling,][democratic][island][province.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 14 18 19 20): 8.459705352783203	 ([taiwan][condemned][china][# 39 ; s][plan][draft][anti - secession][law,][describing][saturday][move][establish][basis][attack][beijing][claims][province.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.448587417602539	 ([taiwan][condemned][china][# 39 ; s][plan][draft][anti - secession][law,][describing][saturday][move][establish][legal][basis][attack][self - ruling,][democratic][island][beijing][claims][province.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 14 18 19 20): 14.528937339782715, EP: 1.0007658004760742	 ([taiwan][condemned][china][# 39 ; s][plan][draft][anti - secession][law,][describing][saturday][move][establish][basis][attack][beijing][claims][province.])
+v(0 5 6 7 8 9 11 12 13 14 15 16 17 18 19): 14.522089958190918, EP: 1.0002942085266113	 ([taiwan][draft][anti - secession][law,][describing][saturday][establish][legal][basis][attack][self - ruling,][democratic][island][beijing][claims])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 14.51781940460205, EP: 1.0	 ([taiwan][condemned][china][# 39 ; s][plan][draft][anti - secession][law,][describing][saturday][move][establish][legal][basis][attack][self - ruling,][democratic][island][beijing][claims][province.])
+v(1 2 3 4 5 6 7 9 10 18 19 20): 14.453136444091797, EP: 0.9955445528030396	 ([condemned][china][# 39 ; s][plan][draft][anti - secession][law,][saturday][move][beijing][claims][province.])
+v(1 2 3 4 5 6 7 9 10 12 15 16 17 18 19 20): 14.40084171295166, EP: 0.9919424653053284	 ([condemned][china][# 39 ; s][plan][draft][anti - secession][law,][saturday][move][legal][self - ruling,][democratic][island][beijing][claims][province.])
+v(0 5 6 7 8 9 11 13 14 18 19): 14.347566604614258, EP: 0.9882728457450867	 ([taiwan][draft][anti - secession][law,][describing][saturday][establish][basis][attack][beijing][claims])
+v(0 1 2 3 4 8 10 11 12 13 14 15 16 17 20): 14.257765769958496, EP: 0.982087254524231	 ([taiwan][condemned][china][# 39 ; s][plan][describing][move][establish][legal][basis][attack][self - ruling,][democratic][island][province.])
+v(5 6 7 9 12 15 16 17 18 19): 14.22246265411377, EP: 0.9796555638313293	 ([draft][anti - secession][law,][saturday][legal][self - ruling,][democratic][island][beijing][claims])
+v(5 6 7 9 18 19): 13.971518516540527, EP: 0.9623703360557556	 ([draft][anti - secession][law,][saturday][beijing][claims])
+v(0 1 2 3 4 8 10 11 13 14 20): 13.904329299926758, EP: 0.9577422738075256	 ([taiwan][condemned][china][# 39 ; s][plan][describing][move][establish][basis][attack][province.])
+v(1 2 3 4 10 12 15 16 17 20): 13.428177833557129, EP: 0.9249445199966431	 ([condemned][china][# 39 ; s][plan][move][legal][self - ruling,][democratic][island][province.])
+v(0 8 11 12 13 14 15 16 17): 12.799333572387695, EP: 0.881629228591919	 ([taiwan][describing][establish][legal][basis][attack][self - ruling,][democratic][island])
+v(1 2 3 4 10 20): 12.757669448852539, EP: 0.8787593245506287	 ([condemned][china][# 39 ; s][plan][move][province.])
+v(12 15 16 17): 10.698554992675781, EP: 0.7369257807731628	 ([legal][self - ruling,][democratic][island])
+v(0 8 11 13 14): 3.854386806488037, EP: 0.2654935121536255	 ([taiwan][describing][establish][basis][attack])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

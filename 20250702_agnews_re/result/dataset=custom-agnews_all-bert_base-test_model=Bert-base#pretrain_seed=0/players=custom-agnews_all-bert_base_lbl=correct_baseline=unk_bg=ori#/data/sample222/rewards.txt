@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: big
+Player 1: blue
+Player 2: says
+Player 3: improved
+Player 4: processor
+Player 5: js20
+Player 6: blade
+Player 7: servers
+Player 8: sells
+Player 9: aix
+Player 10: version
+Player 11: unix.
+---------- Rewards ----------
+v(): 5.417174339294434	 ([])
+v(3 5 6 8 10): 7.654372215270996	 ([improved][js20][blade][sells][version])
+v(4 7 9 11): 8.228784561157227	 ([processor][servers][aix][unix.])
+v(0 1 2): 3.474579095840454	 ([big][blue][says])
+v(3 4 5 6 7 8 9 10 11): 8.415974617004395	 ([improved][processor][js20][blade][servers][sells][aix][version][unix.])
+v(0 1 2 3 5 6 8 10): 7.457669258117676	 ([big][blue][says][improved][js20][blade][sells][version])
+v(0 1 2 4 7 9 11): 8.409317016601562	 ([big][blue][says][processor][servers][aix][unix.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 8.476533889770508	 ([big][blue][says][improved][processor][js20][blade][servers][sells][aix][version][unix.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11): 3.059359550476074, EP: 1.0	 ([big][blue][says][improved][processor][js20][blade][servers][sells][aix][version][unix.])
+v(3 4 5 6 7 8 9 10 11): 2.998800277709961, EP: 0.980205237865448	 ([improved][processor][js20][blade][servers][sells][aix][version][unix.])
+v(0 1 2 4 7 9 11): 2.992142677307129, EP: 0.9780291318893433	 ([big][blue][says][processor][servers][aix][unix.])
+v(4 7 9 11): 2.811610221862793, EP: 0.9190192222595215	 ([processor][servers][aix][unix.])
+v(3 5 6 8 10): 2.2371978759765625, EP: 0.7312634587287903	 ([improved][js20][blade][sells][version])
+v(0 1 2 3 5 6 8 10): 2.040494918823242, EP: 0.6669679880142212	 ([big][blue][says][improved][js20][blade][sells][version])
+v(0 1 2): -1.9425952434539795, EP: -0.6349679231643677	 ([big][blue][says])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

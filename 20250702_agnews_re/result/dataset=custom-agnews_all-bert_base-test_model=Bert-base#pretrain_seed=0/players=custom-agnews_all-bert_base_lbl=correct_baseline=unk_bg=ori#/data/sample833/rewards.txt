@@ -1,0 +1,28 @@
+---------- Players ----------
+Player 0: pitcher
+Player 1: dustin
+Player 2: hermanson
+Player 3: chicago
+Player 4: white
+Player 5: sox
+Player 6: agreed
+Player 7: wednesday
+Player 8: two - year,
+Player 9: \ $ 5. 5
+Player 10: million
+Player 11: contract
+Player 12: contains
+Player 13: club
+Player 14: option
+Player 15: 2007.
+---------- Rewards ----------
+v(): -2.8050217628479004	 ([])
+v(0 1 7 8 9 10 11 12 14): 9.140729904174805	 ([pitcher][dustin][wednesday][two - year,][\ $ 5. 5][million][contract][contains][option])
+v(2 3 4 5 6 13 15): 8.922323226928711	 ([hermanson][chicago][white][sox][agreed][club][2007.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 8.924605369567871	 ([pitcher][dustin][hermanson][chicago][white][sox][agreed][wednesday][two - year,][\ $ 5. 5][million][contract][contains][club][option][2007.])
+---------- Rewards-v() ----------
+v(0 1 7 8 9 10 11 12 14): 11.945751190185547, EP: 1.018425464630127	 ([pitcher][dustin][wednesday][two - year,][\ $ 5. 5][million][contract][contains][option])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 11.72962760925293, EP: 1.0	 ([pitcher][dustin][hermanson][chicago][white][sox][agreed][wednesday][two - year,][\ $ 5. 5][million][contract][contains][club][option][2007.])
+v(2 3 4 5 6 13 15): 11.727344512939453, EP: 0.9998053312301636	 ([hermanson][chicago][white][sox][agreed][club][2007.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: thrilling
+Player 3: visitors
+Player 4: scientists
+Player 5: alike,
+Player 6: great
+Player 7: white
+Player 8: shark
+Player 9: currently
+Player 10: display
+Player 11: anywhere
+Player 12: world
+Player 13: marked
+Player 14: 17th
+Player 15: day
+Player 16: captivity
+Player 17: friday,
+Player 18: setting
+Player 19: record
+Player 20: longevity
+Player 21: aquarium
+Player 22: tank.
+---------- Rewards ----------
+v(): 3.2434921264648438	 ([])
+v(0 4 8 9 11 12 13 16 17 21): 7.409926414489746	 ([ap][scientists][shark][currently][anywhere][world][marked][captivity][friday,][aquarium])
+v(5 6 7 18 19 20 22): 4.120474338531494	 ([alike,][great][white][setting][record][longevity][tank.])
+v(1 2 3 10 14 15): 2.6981141567230225	 ([-][thrilling][visitors][display][17th][day])
+v(0 4 5 6 7 8 9 11 12 13 16 17 18 19 20 21 22): 7.768383026123047	 ([ap][scientists][alike,][great][white][shark][currently][anywhere][world][marked][captivity][friday,][setting][record][longevity][aquarium][tank.])
+v(0 1 2 3 4 8 9 10 11 12 13 14 15 16 17 21): 7.5621442794799805	 ([ap][-][thrilling][visitors][scientists][shark][currently][display][anywhere][world][marked][17th][day][captivity][friday,][aquarium])
+v(1 2 3 5 6 7 10 14 15 18 19 20 22): 3.922337532043457	 ([-][thrilling][visitors][alike,][great][white][display][17th][day][setting][record][longevity][tank.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.472009658813477	 ([ap][-][thrilling][visitors][scientists][alike,][great][white][shark][currently][display][anywhere][world][marked][17th][day][captivity][friday,][setting][record][longevity][aquarium][tank.])
+---------- Rewards-v() ----------
+v(0 4 5 6 7 8 9 11 12 13 16 17 18 19 20 21 22): 4.524890899658203, EP: 1.0700892210006714	 ([ap][scientists][alike,][great][white][shark][currently][anywhere][world][marked][captivity][friday,][setting][record][longevity][aquarium][tank.])
+v(0 1 2 3 4 8 9 10 11 12 13 14 15 16 17 21): 4.318652153015137, EP: 1.0213159322738647	 ([ap][-][thrilling][visitors][scientists][shark][currently][display][anywhere][world][marked][17th][day][captivity][friday,][aquarium])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 4.228517532348633, EP: 1.0	 ([ap][-][thrilling][visitors][scientists][alike,][great][white][shark][currently][display][anywhere][world][marked][17th][day][captivity][friday,][setting][record][longevity][aquarium][tank.])
+v(0 4 8 9 11 12 13 16 17 21): 4.166434288024902, EP: 0.9853179454803467	 ([ap][scientists][shark][currently][anywhere][world][marked][captivity][friday,][aquarium])
+v(5 6 7 18 19 20 22): 0.8769822120666504, EP: 0.20739708840847015	 ([alike,][great][white][setting][record][longevity][tank.])
+v(1 2 3 5 6 7 10 14 15 18 19 20 22): 0.6788454055786133, EP: 0.16053980588912964	 ([-][thrilling][visitors][alike,][great][white][display][17th][day][setting][record][longevity][tank.])
+v(1 2 3 10 14 15): -0.5453779697418213, EP: -0.12897616624832153	 ([-][thrilling][visitors][display][17th][day])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

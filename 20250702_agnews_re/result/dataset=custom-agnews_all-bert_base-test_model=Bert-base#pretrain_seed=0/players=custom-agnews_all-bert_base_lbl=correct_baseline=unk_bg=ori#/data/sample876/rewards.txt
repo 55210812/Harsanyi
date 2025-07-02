@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: main
+Player 1: opposition
+Player 2: party
+Player 3: bangladesh
+Player 4: called
+Player 5: another
+Player 6: nationwide
+Player 7: strike
+Player 8: protest
+Player 9: deadly
+Player 10: grenade
+Player 11: attack
+Player 12: party
+Player 13: rally
+Player 14: capital,
+Player 15: dhaka,
+Player 16: eight
+Player 17: days
+Player 18: ago.
+---------- Rewards ----------
+v(): -6.949191093444824	 ([])
+v(0 1 2 6 13): 7.426731586456299	 ([main][opposition][party][nationwide][rally])
+v(3 4 11 12 15): 7.532958030700684	 ([bangladesh][called][attack][party][dhaka,])
+v(5 7 8 9 10): 5.971088409423828	 ([another][strike][protest][deadly][grenade])
+v(14 16 17 18): -3.0256729125976562	 ([capital,][eight][days][ago.])
+v(0 1 2 3 4 6 11 12 13 15): 8.125216484069824	 ([main][opposition][party][bangladesh][called][nationwide][attack][party][rally][dhaka,])
+v(0 1 2 5 6 7 8 9 10 13): 7.448598384857178	 ([main][opposition][party][another][nationwide][strike][protest][deadly][grenade][rally])
+v(0 1 2 6 13 14 16 17 18): 7.542674541473389	 ([main][opposition][party][nationwide][rally][capital,][eight][days][ago.])
+v(3 4 5 7 8 9 10 11 12 15): 7.720491409301758	 ([bangladesh][called][another][strike][protest][deadly][grenade][attack][party][dhaka,])
+v(3 4 11 12 14 15 16 17 18): 7.370231628417969	 ([bangladesh][called][attack][party][capital,][dhaka,][eight][days][ago.])
+v(5 7 8 9 10 14 16 17 18): 6.99936056137085	 ([another][strike][protest][deadly][grenade][capital,][eight][days][ago.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 15): 8.008330345153809	 ([main][opposition][party][bangladesh][called][another][nationwide][strike][protest][deadly][grenade][attack][party][rally][dhaka,])
+v(0 1 2 3 4 6 11 12 13 14 15 16 17 18): 8.142508506774902	 ([main][opposition][party][bangladesh][called][nationwide][attack][party][rally][capital,][dhaka,][eight][days][ago.])
+v(0 1 2 5 6 7 8 9 10 13 14 16 17 18): 7.447472095489502	 ([main][opposition][party][another][nationwide][strike][protest][deadly][grenade][rally][capital,][eight][days][ago.])
+v(3 4 5 7 8 9 10 11 12 14 15 16 17 18): 7.411722660064697	 ([bangladesh][called][another][strike][protest][deadly][grenade][attack][party][capital,][dhaka,][eight][days][ago.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.754950046539307	 ([main][opposition][party][bangladesh][called][another][nationwide][strike][protest][deadly][grenade][attack][party][rally][capital,][dhaka,][eight][days][ago.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 6 11 12 13 14 15 16 17 18): 15.091699600219727, EP: 1.0263570547103882	 ([main][opposition][party][bangladesh][called][nationwide][attack][party][rally][capital,][dhaka,][eight][days][ago.])
+v(0 1 2 3 4 6 11 12 13 15): 15.074407577514648, EP: 1.0251810550689697	 ([main][opposition][party][bangladesh][called][nationwide][attack][party][rally][dhaka,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 15): 14.957521438598633, EP: 1.017231822013855	 ([main][opposition][party][bangladesh][called][another][nationwide][strike][protest][deadly][grenade][attack][party][rally][dhaka,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.704141616821289, EP: 1.0	 ([main][opposition][party][bangladesh][called][another][nationwide][strike][protest][deadly][grenade][attack][party][rally][capital,][dhaka,][eight][days][ago.])
+v(3 4 5 7 8 9 10 11 12 15): 14.669682502746582, EP: 0.997656524181366	 ([bangladesh][called][another][strike][protest][deadly][grenade][attack][party][dhaka,])
+v(0 1 2 6 13 14 16 17 18): 14.491865158081055, EP: 0.9855635166168213	 ([main][opposition][party][nationwide][rally][capital,][eight][days][ago.])
+v(3 4 11 12 15): 14.482149124145508, EP: 0.9849027395248413	 ([bangladesh][called][attack][party][dhaka,])
+v(0 1 2 5 6 7 8 9 10 13): 14.397789001464844, EP: 0.9791655540466309	 ([main][opposition][party][another][nationwide][strike][protest][deadly][grenade][rally])
+v(0 1 2 5 6 7 8 9 10 13 14 16 17 18): 14.396663665771484, EP: 0.9790890216827393	 ([main][opposition][party][another][nationwide][strike][protest][deadly][grenade][rally][capital,][eight][days][ago.])
+v(0 1 2 6 13): 14.375923156738281, EP: 0.9776784777641296	 ([main][opposition][party][nationwide][rally])
+v(3 4 5 7 8 9 10 11 12 14 15 16 17 18): 14.36091423034668, EP: 0.9766577482223511	 ([bangladesh][called][another][strike][protest][deadly][grenade][attack][party][capital,][dhaka,][eight][days][ago.])
+v(3 4 11 12 14 15 16 17 18): 14.319422721862793, EP: 0.9738360047340393	 ([bangladesh][called][attack][party][capital,][dhaka,][eight][days][ago.])
+v(5 7 8 9 10 14 16 17 18): 13.948551177978516, EP: 0.9486137628555298	 ([another][strike][protest][deadly][grenade][capital,][eight][days][ago.])
+v(5 7 8 9 10): 12.920279502868652, EP: 0.8786830306053162	 ([another][strike][protest][deadly][grenade])
+v(14 16 17 18): 3.923518180847168, EP: 0.26683083176612854	 ([capital,][eight][days][ago.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

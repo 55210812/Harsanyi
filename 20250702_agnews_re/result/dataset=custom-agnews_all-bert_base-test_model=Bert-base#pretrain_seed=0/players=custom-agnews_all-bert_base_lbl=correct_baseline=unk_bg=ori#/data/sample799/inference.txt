@@ -1,0 +1,54 @@
+Execution time: 2025-07-02 19:37:00
+prompt: [CLS] ziff davis - the company this week will unveil more programs and technologies designed to ease users of its high - end servers onto its integrity line, which uses intel's 64 - bit itanium processor. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1062 decoded_text: z
+idx:2 input_id:13355 decoded_text: ##iff
+idx:3 input_id:4482 decoded_text: davis
+idx:4 input_id:1011 decoded_text: -
+idx:5 input_id:1996 decoded_text: the
+idx:6 input_id:2194 decoded_text: company
+idx:7 input_id:2023 decoded_text: this
+idx:8 input_id:2733 decoded_text: week
+idx:9 input_id:2097 decoded_text: will
+idx:10 input_id:4895 decoded_text: un
+idx:11 input_id:3726 decoded_text: ##ve
+idx:12 input_id:4014 decoded_text: ##il
+idx:13 input_id:2062 decoded_text: more
+idx:14 input_id:3454 decoded_text: programs
+idx:15 input_id:1998 decoded_text: and
+idx:16 input_id:6786 decoded_text: technologies
+idx:17 input_id:2881 decoded_text: designed
+idx:18 input_id:2000 decoded_text: to
+idx:19 input_id:7496 decoded_text: ease
+idx:20 input_id:5198 decoded_text: users
+idx:21 input_id:1997 decoded_text: of
+idx:22 input_id:2049 decoded_text: its
+idx:23 input_id:2152 decoded_text: high
+idx:24 input_id:1011 decoded_text: -
+idx:25 input_id:2203 decoded_text: end
+idx:26 input_id:14903 decoded_text: servers
+idx:27 input_id:3031 decoded_text: onto
+idx:28 input_id:2049 decoded_text: its
+idx:29 input_id:11109 decoded_text: integrity
+idx:30 input_id:2240 decoded_text: line
+idx:31 input_id:1010 decoded_text: ,
+idx:32 input_id:2029 decoded_text: which
+idx:33 input_id:3594 decoded_text: uses
+idx:34 input_id:13420 decoded_text: intel
+idx:35 input_id:1005 decoded_text: '
+idx:36 input_id:1055 decoded_text: s
+idx:37 input_id:4185 decoded_text: 64
+idx:38 input_id:1011 decoded_text: -
+idx:39 input_id:2978 decoded_text: bit
+idx:40 input_id:2009 decoded_text: it
+idx:41 input_id:7088 decoded_text: ##ani
+idx:42 input_id:2819 decoded_text: ##um
+idx:43 input_id:13151 decoded_text: processor
+idx:44 input_id:1012 decoded_text: .
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.114804983139038, -2.7506179809570312, -1.3784892559051514, 7.25189733505249]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

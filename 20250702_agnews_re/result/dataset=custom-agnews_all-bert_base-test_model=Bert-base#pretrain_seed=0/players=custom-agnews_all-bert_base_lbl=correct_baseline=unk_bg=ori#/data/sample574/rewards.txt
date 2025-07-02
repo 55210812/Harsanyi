@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: cable
+Player 1: amp ;
+Player 2: wireless
+Player 3: agreed
+Player 4: sell
+Player 5: japanese
+Player 6: unit
+Player 7: softbank
+Player 8: 72. 4
+Player 9: million
+Player 10: pounds.
+Player 11: deal,
+Player 12: japanese
+Player 13: internet
+Player 14: communications
+Player 15: company
+Player 16: assume
+Player 17: debt
+Player 18: worth
+Player 19: 9. 5
+Player 20: million
+---------- Rewards ----------
+v(): -3.2321348190307617	 ([])
+v(0 4 5 6 7 11 12 14 15 16 17): 2.679856300354004	 ([cable][sell][japanese][unit][softbank][deal,][japanese][communications][company][assume][debt])
+v(1 2 3 8 9 10 13 18 19 20): 3.863877534866333	 ([amp ;][wireless][agreed][72. 4][million][pounds.][internet][worth][9. 5][million])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 5.821382522583008	 ([cable][amp ;][wireless][agreed][sell][japanese][unit][softbank][72. 4][million][pounds.][deal,][japanese][internet][communications][company][assume][debt][worth][9. 5][million])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.05351734161377, EP: 1.0	 ([cable][amp ;][wireless][agreed][sell][japanese][unit][softbank][72. 4][million][pounds.][deal,][japanese][internet][communications][company][assume][debt][worth][9. 5][million])
+v(1 2 3 8 9 10 13 18 19 20): 7.096012115478516, EP: 0.7837851047515869	 ([amp ;][wireless][agreed][72. 4][million][pounds.][internet][worth][9. 5][million])
+v(0 4 5 6 7 11 12 14 15 16 17): 5.911991119384766, EP: 0.6530048847198486	 ([cable][sell][japanese][unit][softbank][deal,][japanese][communications][company][assume][debt])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

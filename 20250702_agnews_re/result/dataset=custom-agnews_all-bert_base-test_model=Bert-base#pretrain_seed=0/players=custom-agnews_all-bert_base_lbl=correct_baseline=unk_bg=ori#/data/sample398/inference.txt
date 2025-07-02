@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 19:27:02
+prompt: [CLS] allan houston # 39 ; s comeback was put off one more time yesterday, when the knicks shooting guard announced he will not be activated for tonight # 39 ; s game against the memphis grizzlies [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:8926 decoded_text: allan
+idx:2 input_id:5395 decoded_text: houston
+idx:3 input_id:1001 decoded_text: #
+idx:4 input_id:4464 decoded_text: 39
+idx:5 input_id:1025 decoded_text: ;
+idx:6 input_id:1055 decoded_text: s
+idx:7 input_id:12845 decoded_text: comeback
+idx:8 input_id:2001 decoded_text: was
+idx:9 input_id:2404 decoded_text: put
+idx:10 input_id:2125 decoded_text: off
+idx:11 input_id:2028 decoded_text: one
+idx:12 input_id:2062 decoded_text: more
+idx:13 input_id:2051 decoded_text: time
+idx:14 input_id:7483 decoded_text: yesterday
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:2043 decoded_text: when
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:27817 decoded_text: knicks
+idx:19 input_id:5008 decoded_text: shooting
+idx:20 input_id:3457 decoded_text: guard
+idx:21 input_id:2623 decoded_text: announced
+idx:22 input_id:2002 decoded_text: he
+idx:23 input_id:2097 decoded_text: will
+idx:24 input_id:2025 decoded_text: not
+idx:25 input_id:2022 decoded_text: be
+idx:26 input_id:8878 decoded_text: activated
+idx:27 input_id:2005 decoded_text: for
+idx:28 input_id:3892 decoded_text: tonight
+idx:29 input_id:1001 decoded_text: #
+idx:30 input_id:4464 decoded_text: 39
+idx:31 input_id:1025 decoded_text: ;
+idx:32 input_id:1055 decoded_text: s
+idx:33 input_id:2208 decoded_text: game
+idx:34 input_id:2114 decoded_text: against
+idx:35 input_id:1996 decoded_text: the
+idx:36 input_id:9774 decoded_text: memphis
+idx:37 input_id:24665 decoded_text: gr
+idx:38 input_id:10993 decoded_text: ##iz
+idx:39 input_id:2480 decoded_text: ##z
+idx:40 input_id:11983 decoded_text: ##lies
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-3.128896951675415, 8.185515403747559, -2.2637572288513184, -1.622092366218567]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

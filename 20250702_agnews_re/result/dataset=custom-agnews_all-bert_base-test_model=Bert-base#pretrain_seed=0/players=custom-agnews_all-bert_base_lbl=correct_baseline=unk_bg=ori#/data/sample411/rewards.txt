@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: day
+Player 1: upsets
+Player 2: wismilak
+Player 3: international
+Player 4: yesterday
+Player 5: ai
+Player 6: sugiyama,
+Player 7: chanda
+Player 8: rubin,
+Player 9: jelena
+Player 10: jankovic
+Player 11: fell
+Player 12: first
+Player 13: round
+Player 14: unheralded
+Player 15: opponents.
+---------- Rewards ----------
+v(): -3.2944259643554688	 ([])
+v(0 2 3 7 8 15): 2.3849620819091797	 ([day][wismilak][international][chanda][rubin,][opponents.])
+v(10 11 12 13 14): 8.03510570526123	 ([jankovic][fell][first][round][unheralded])
+v(1 4 5 6 9): 6.035086154937744	 ([upsets][yesterday][ai][sugiyama,][jelena])
+v(0 2 3 7 8 10 11 12 13 14 15): 9.200458526611328	 ([day][wismilak][international][chanda][rubin,][jankovic][fell][first][round][unheralded][opponents.])
+v(0 1 2 3 4 5 6 7 8 9 15): 9.46457290649414	 ([day][upsets][wismilak][international][yesterday][ai][sugiyama,][chanda][rubin,][jelena][opponents.])
+v(1 4 5 6 9 10 11 12 13 14): 8.540328025817871	 ([upsets][yesterday][ai][sugiyama,][jelena][jankovic][fell][first][round][unheralded])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.435781478881836	 ([day][upsets][wismilak][international][yesterday][ai][sugiyama,][chanda][rubin,][jelena][jankovic][fell][first][round][unheralded][opponents.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 15): 12.75899887084961, EP: 1.0022616386413574	 ([day][upsets][wismilak][international][yesterday][ai][sugiyama,][chanda][rubin,][jelena][opponents.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 12.730207443237305, EP: 1.0	 ([day][upsets][wismilak][international][yesterday][ai][sugiyama,][chanda][rubin,][jelena][jankovic][fell][first][round][unheralded][opponents.])
+v(0 2 3 7 8 10 11 12 13 14 15): 12.494884490966797, EP: 0.981514573097229	 ([day][wismilak][international][chanda][rubin,][jankovic][fell][first][round][unheralded][opponents.])
+v(1 4 5 6 9 10 11 12 13 14): 11.83475399017334, EP: 0.9296591877937317	 ([upsets][yesterday][ai][sugiyama,][jelena][jankovic][fell][first][round][unheralded])
+v(10 11 12 13 14): 11.3295316696167, EP: 0.8899722695350647	 ([jankovic][fell][first][round][unheralded])
+v(1 4 5 6 9): 9.329511642456055, EP: 0.7328640818595886	 ([upsets][yesterday][ai][sugiyama,][jelena])
+v(0 2 3 7 8 15): 5.679388046264648, EP: 0.4461347460746765	 ([day][wismilak][international][chanda][rubin,][opponents.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: thin - client
+Player 1: computing
+Player 2: around
+Player 3: decade,
+Player 4: rising
+Player 5: costs
+Player 6: updating
+Player 7: software
+Player 8: installing
+Player 9: security
+Player 10: patches
+Player 11: networked
+Player 12: personal
+Player 13: computers
+Player 14: sparking
+Player 15: renewed
+Player 16: interest
+---------- Rewards ----------
+v(): 4.682960510253906	 ([])
+v(0 2 3 5 8 11 12 13): 7.9866790771484375	 ([thin - client][around][decade,][costs][installing][networked][personal][computers])
+v(1 4 6 9 10): 8.206202507019043	 ([computing][rising][updating][security][patches])
+v(7 14 15 16): 6.432279109954834	 ([software][sparking][renewed][interest])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13): 8.420369148254395	 ([thin - client][computing][around][decade,][rising][costs][updating][installing][security][patches][networked][personal][computers])
+v(0 2 3 5 7 8 11 12 13 14 15 16): 8.092294692993164	 ([thin - client][around][decade,][costs][software][installing][networked][personal][computers][sparking][renewed][interest])
+v(1 4 6 7 9 10 14 15 16): 8.080718994140625	 ([computing][rising][updating][software][security][patches][sparking][renewed][interest])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 8.234395027160645	 ([thin - client][computing][around][decade,][rising][costs][updating][software][installing][security][patches][networked][personal][computers][sparking][renewed][interest])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 8 9 10 11 12 13): 3.7374086380004883, EP: 1.0523658990859985	 ([thin - client][computing][around][decade,][rising][costs][updating][installing][security][patches][networked][personal][computers])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 3.5514345169067383, EP: 1.0	 ([thin - client][computing][around][decade,][rising][costs][updating][software][installing][security][patches][networked][personal][computers][sparking][renewed][interest])
+v(1 4 6 9 10): 3.5232419967651367, EP: 0.9920616745948792	 ([computing][rising][updating][security][patches])
+v(0 2 3 5 7 8 11 12 13 14 15 16): 3.409334182739258, EP: 0.9599878787994385	 ([thin - client][around][decade,][costs][software][installing][networked][personal][computers][sparking][renewed][interest])
+v(1 4 6 7 9 10 14 15 16): 3.3977584838867188, EP: 0.956728458404541	 ([computing][rising][updating][software][security][patches][sparking][renewed][interest])
+v(0 2 3 5 8 11 12 13): 3.3037185668945312, EP: 0.930249035358429	 ([thin - client][around][decade,][costs][installing][networked][personal][computers])
+v(7 14 15 16): 1.7493185997009277, EP: 0.4925667643547058	 ([software][sparking][renewed][interest])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

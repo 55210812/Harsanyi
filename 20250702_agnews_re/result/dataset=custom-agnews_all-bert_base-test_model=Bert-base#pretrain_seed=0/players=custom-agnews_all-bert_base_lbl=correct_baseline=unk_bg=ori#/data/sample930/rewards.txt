@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: strong
+Player 3: winds
+Player 4: heavy
+Player 5: rain
+Player 6: typhoon \ aere
+Player 7: pounded
+Player 8: taiwan
+Player 9: tuesday,
+Player 10: disrupting
+Player 11: air
+Player 12: sea
+Player 13: traffic \ and
+Player 14: forcing
+Player 15: financial
+Player 16: markets,
+Player 17: schools
+Player 18: businesses
+Player 19: taipei \ and
+Player 20: nearby
+Player 21: counties
+Player 22: close.
+---------- Rewards ----------
+v(): 2.213095188140869	 ([])
+v(9 13 16 17 18 22): -4.390324115753174	 ([tuesday,][traffic \ and][markets,][schools][businesses][close.])
+v(0 5 8 15 19 20 21): 3.921051502227783	 ([reuters][rain][taiwan][financial][taipei \ and][nearby][counties])
+v(1 2 3 4 6 7 10 11 12 14): 2.0278701782226562	 ([-][strong][winds][heavy][typhoon \ aere][pounded][disrupting][air][sea][forcing])
+v(0 5 8 9 13 15 16 17 18 19 20 21 22): -2.7542617321014404	 ([reuters][rain][taiwan][tuesday,][traffic \ and][financial][markets,][schools][businesses][taipei \ and][nearby][counties][close.])
+v(1 2 3 4 6 7 9 10 11 12 13 14 16 17 18 22): -5.672849178314209	 ([-][strong][winds][heavy][typhoon \ aere][pounded][tuesday,][disrupting][air][sea][traffic \ and][forcing][markets,][schools][businesses][close.])
+v(0 1 2 3 4 5 6 7 8 10 11 12 14 15 19 20 21): 1.2337777614593506	 ([reuters][-][strong][winds][heavy][rain][typhoon \ aere][pounded][taiwan][disrupting][air][sea][forcing][financial][taipei \ and][nearby][counties])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): -1.5631437301635742	 ([reuters][-][strong][winds][heavy][rain][typhoon \ aere][pounded][taiwan][tuesday,][disrupting][air][sea][traffic \ and][forcing][financial][markets,][schools][businesses][taipei \ and][nearby][counties][close.])
+---------- Rewards-v() ----------
+v(1 2 3 4 6 7 9 10 11 12 13 14 16 17 18 22): -7.885944366455078, EP: 2.088306427001953	 ([-][strong][winds][heavy][typhoon \ aere][pounded][tuesday,][disrupting][air][sea][traffic \ and][forcing][markets,][schools][businesses][close.])
+v(9 13 16 17 18 22): -6.603419303894043, EP: 1.7486763000488281	 ([tuesday,][traffic \ and][markets,][schools][businesses][close.])
+v(0 5 8 9 13 15 16 17 18 19 20 21 22): -4.9673566818237305, EP: 1.3154243230819702	 ([reuters][rain][taiwan][tuesday,][traffic \ and][financial][markets,][schools][businesses][taipei \ and][nearby][counties][close.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): -3.7762389183044434, EP: 1.0	 ([reuters][-][strong][winds][heavy][rain][typhoon \ aere][pounded][taiwan][tuesday,][disrupting][air][sea][traffic \ and][forcing][financial][markets,][schools][businesses][taipei \ and][nearby][counties][close.])
+v(0 5 8 15 19 20 21): 1.707956314086914, EP: -0.4522903263568878	 ([reuters][rain][taiwan][financial][taipei \ and][nearby][counties])
+v(0 1 2 3 4 5 6 7 8 10 11 12 14 15 19 20 21): -0.9793174266815186, EP: 0.2593367099761963	 ([reuters][-][strong][winds][heavy][rain][typhoon \ aere][pounded][taiwan][disrupting][air][sea][forcing][financial][taipei \ and][nearby][counties])
+v(1 2 3 4 6 7 10 11 12 14): -0.1852250099182129, EP: 0.04905012995004654	 ([-][strong][winds][heavy][typhoon \ aere][pounded][disrupting][air][sea][forcing])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

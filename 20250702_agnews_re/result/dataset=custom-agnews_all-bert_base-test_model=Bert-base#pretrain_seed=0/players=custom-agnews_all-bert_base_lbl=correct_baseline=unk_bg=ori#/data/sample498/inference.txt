@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 19:29:31
+prompt: [CLS] reuters - israeli forces launched the sixth day of a \ massive offensive in the gaza strip early on tuesday with an \ air strike that killed a palestinian militant and wounded two \ others in jabalya refugee camp. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26665 decoded_text: reuters
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:5611 decoded_text: israeli
+idx:4 input_id:2749 decoded_text: forces
+idx:5 input_id:3390 decoded_text: launched
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:4369 decoded_text: sixth
+idx:8 input_id:2154 decoded_text: day
+idx:9 input_id:1997 decoded_text: of
+idx:10 input_id:1037 decoded_text: a
+idx:11 input_id:1032 decoded_text: \
+idx:12 input_id:5294 decoded_text: massive
+idx:13 input_id:5805 decoded_text: offensive
+idx:14 input_id:1999 decoded_text: in
+idx:15 input_id:1996 decoded_text: the
+idx:16 input_id:14474 decoded_text: gaza
+idx:17 input_id:6167 decoded_text: strip
+idx:18 input_id:2220 decoded_text: early
+idx:19 input_id:2006 decoded_text: on
+idx:20 input_id:9857 decoded_text: tuesday
+idx:21 input_id:2007 decoded_text: with
+idx:22 input_id:2019 decoded_text: an
+idx:23 input_id:1032 decoded_text: \
+idx:24 input_id:2250 decoded_text: air
+idx:25 input_id:4894 decoded_text: strike
+idx:26 input_id:2008 decoded_text: that
+idx:27 input_id:2730 decoded_text: killed
+idx:28 input_id:1037 decoded_text: a
+idx:29 input_id:9302 decoded_text: palestinian
+idx:30 input_id:16830 decoded_text: militant
+idx:31 input_id:1998 decoded_text: and
+idx:32 input_id:5303 decoded_text: wounded
+idx:33 input_id:2048 decoded_text: two
+idx:34 input_id:1032 decoded_text: \
+idx:35 input_id:2500 decoded_text: others
+idx:36 input_id:1999 decoded_text: in
+idx:37 input_id:14855 decoded_text: ja
+idx:38 input_id:10264 decoded_text: ##bal
+idx:39 input_id:3148 decoded_text: ##ya
+idx:40 input_id:13141 decoded_text: refugee
+idx:41 input_id:3409 decoded_text: camp
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.110396385192871, -1.64362633228302, -2.9207799434661865, -2.106346368789673]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

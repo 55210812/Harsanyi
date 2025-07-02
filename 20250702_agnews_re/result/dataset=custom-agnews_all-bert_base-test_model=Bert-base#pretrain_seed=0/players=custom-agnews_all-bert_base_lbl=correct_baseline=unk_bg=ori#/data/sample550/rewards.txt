@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: apple
+Player 1: wednesday
+Player 2: announced
+Player 3: logic
+Player 4: pro
+Player 5: 7
+Player 6: logic
+Player 7: express
+Player 8: 7,
+Player 9: newest
+Player 10: major
+Player 11: releases
+Player 12: company
+Player 13: # 39 ; s
+Player 14: pro
+Player 15: music
+Player 16: creation
+Player 17: audio
+Player 18: production
+Player 19: software.
+---------- Rewards ----------
+v(): 3.6282405853271484	 ([])
+v(1 3 9 12 17 18 19): 4.45151424407959	 ([wednesday][logic][newest][company][audio][production][software.])
+v(0 4 6 7 10 11 14 16): 6.978592395782471	 ([apple][pro][logic][express][major][releases][pro][creation])
+v(2 5 8 13 15): 4.939298629760742	 ([announced][7][7,][# 39 ; s][music])
+v(0 1 3 4 6 7 9 10 11 12 14 16 17 18 19): 7.629864692687988	 ([apple][wednesday][logic][pro][logic][express][newest][major][releases][company][pro][creation][audio][production][software.])
+v(1 2 3 5 8 9 12 13 15 17 18 19): 5.416514873504639	 ([wednesday][announced][logic][7][7,][newest][company][# 39 ; s][music][audio][production][software.])
+v(0 2 4 5 6 7 8 10 11 13 14 15 16): 6.56395959854126	 ([apple][announced][pro][7][logic][express][7,][major][releases][# 39 ; s][pro][music][creation])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 6.217617511749268	 ([apple][wednesday][announced][logic][pro][7][logic][express][7,][newest][major][releases][company][# 39 ; s][pro][music][creation][audio][production][software.])
+---------- Rewards-v() ----------
+v(0 1 3 4 6 7 9 10 11 12 14 16 17 18 19): 4.00162410736084, EP: 1.5454003810882568	 ([apple][wednesday][logic][pro][logic][express][newest][major][releases][company][pro][creation][audio][production][software.])
+v(0 4 6 7 10 11 14 16): 3.3503518104553223, EP: 1.2938834428787231	 ([apple][pro][logic][express][major][releases][pro][creation])
+v(0 2 4 5 6 7 8 10 11 13 14 15 16): 2.9357190132141113, EP: 1.1337549686431885	 ([apple][announced][pro][7][logic][express][7,][major][releases][# 39 ; s][pro][music][creation])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 2.589376926422119, EP: 1.0	 ([apple][wednesday][announced][logic][pro][7][logic][express][7,][newest][major][releases][company][# 39 ; s][pro][music][creation][audio][production][software.])
+v(1 2 3 5 8 9 12 13 15 17 18 19): 1.7882742881774902, EP: 0.6906195282936096	 ([wednesday][announced][logic][7][7,][newest][company][# 39 ; s][music][audio][production][software.])
+v(2 5 8 13 15): 1.3110580444335938, EP: 0.5063218474388123	 ([announced][7][7,][# 39 ; s][music])
+v(1 3 9 12 17 18 19): 0.8232736587524414, EP: 0.3179427683353424	 ([wednesday][logic][newest][company][audio][production][software.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

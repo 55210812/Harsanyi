@@ -1,0 +1,60 @@
+Execution time: 2025-07-02 19:41:43
+prompt: [CLS] the australian dollar may gain after switzerland - based xstrata plc bid a \ $ 7. 4 billion ( \ $ 5. 8 billion ) for wmc resources ltd., stoking speculation it will have to buy dollars to pay shareholders. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2827 decoded_text: australian
+idx:3 input_id:7922 decoded_text: dollar
+idx:4 input_id:2089 decoded_text: may
+idx:5 input_id:5114 decoded_text: gain
+idx:6 input_id:2044 decoded_text: after
+idx:7 input_id:5288 decoded_text: switzerland
+idx:8 input_id:1011 decoded_text: -
+idx:9 input_id:2241 decoded_text: based
+idx:10 input_id:1060 decoded_text: x
+idx:11 input_id:20528 decoded_text: ##stra
+idx:12 input_id:2696 decoded_text: ##ta
+idx:13 input_id:15492 decoded_text: plc
+idx:14 input_id:7226 decoded_text: bid
+idx:15 input_id:1037 decoded_text: a
+idx:16 input_id:1032 decoded_text: \
+idx:17 input_id:1002 decoded_text: $
+idx:18 input_id:1021 decoded_text: 7
+idx:19 input_id:1012 decoded_text: .
+idx:20 input_id:1018 decoded_text: 4
+idx:21 input_id:4551 decoded_text: billion
+idx:22 input_id:1006 decoded_text: (
+idx:23 input_id:1032 decoded_text: \
+idx:24 input_id:1002 decoded_text: $
+idx:25 input_id:1019 decoded_text: 5
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:1022 decoded_text: 8
+idx:28 input_id:4551 decoded_text: billion
+idx:29 input_id:1007 decoded_text: )
+idx:30 input_id:2005 decoded_text: for
+idx:31 input_id:1059 decoded_text: w
+idx:32 input_id:12458 decoded_text: ##mc
+idx:33 input_id:4219 decoded_text: resources
+idx:34 input_id:5183 decoded_text: ltd
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:1010 decoded_text: ,
+idx:37 input_id:2358 decoded_text: st
+idx:38 input_id:23212 decoded_text: ##oki
+idx:39 input_id:3070 decoded_text: ##ng
+idx:40 input_id:12143 decoded_text: speculation
+idx:41 input_id:2009 decoded_text: it
+idx:42 input_id:2097 decoded_text: will
+idx:43 input_id:2031 decoded_text: have
+idx:44 input_id:2000 decoded_text: to
+idx:45 input_id:4965 decoded_text: buy
+idx:46 input_id:6363 decoded_text: dollars
+idx:47 input_id:2000 decoded_text: to
+idx:48 input_id:3477 decoded_text: pay
+idx:49 input_id:15337 decoded_text: shareholders
+idx:50 input_id:1012 decoded_text: .
+idx:51 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.219049334526062, -2.7786169052124023, 5.431023597717285, -3.229717969894409]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

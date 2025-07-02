@@ -1,0 +1,45 @@
+---------- Players ----------
+Player 0: boston
+Player 1: ( reuters )
+Player 2: -
+Player 3: david
+Player 4: ortiz's
+Player 5: two - run
+Player 6: homer
+Player 7: bottom
+Player 8: 10th
+Player 9: inning
+Player 10: gave
+Player 11: boston
+Player 12: red
+Player 13: sox
+Player 14: 8 - 6
+Player 15: win
+Player 16: anaheim
+Player 17: angels
+Player 18: three - game
+Player 19: sweep
+Player 20: american
+Player 21: league
+Player 22: divisional
+Player 23: series
+Player 24: friday.
+---------- Rewards ----------
+v(): -2.2572531700134277	 ([])
+v(9 13 15 16 18 20 21 23): 9.638178825378418	 ([inning][sox][win][anaheim][three - game][american][league][series])
+v(0 1 2 3 4 7 8 11 22 24): -2.625730037689209	 ([boston][( reuters )][-][david][ortiz's][bottom][10th][boston][divisional][friday.])
+v(5 6 10 12 14 17 19): 5.947598934173584	 ([two - run][homer][gave][red][8 - 6][angels][sweep])
+v(0 1 2 3 4 7 8 9 11 13 15 16 18 20 21 22 23 24): 9.534184455871582	 ([boston][( reuters )][-][david][ortiz's][bottom][10th][inning][boston][sox][win][anaheim][three - game][american][league][divisional][series][friday.])
+v(5 6 9 10 12 13 14 15 16 17 18 19 20 21 23): 9.367226600646973	 ([two - run][homer][inning][gave][red][sox][8 - 6][win][anaheim][angels][three - game][sweep][american][league][series])
+v(0 1 2 3 4 5 6 7 8 10 11 12 14 17 19 22 24): 9.507166862487793	 ([boston][( reuters )][-][david][ortiz's][two - run][homer][bottom][10th][gave][boston][red][8 - 6][angels][sweep][divisional][friday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 9.332723617553711	 ([boston][( reuters )][-][david][ortiz's][two - run][homer][bottom][10th][inning][gave][boston][red][sox][8 - 6][win][anaheim][angels][three - game][sweep][american][league][divisional][series][friday.])
+---------- Rewards-v() ----------
+v(9 13 15 16 18 20 21 23): 11.895431518554688, EP: 1.0263550281524658	 ([inning][sox][win][anaheim][three - game][american][league][series])
+v(0 1 2 3 4 7 8 9 11 13 15 16 18 20 21 22 23 24): 11.791437149047852, EP: 1.017382264137268	 ([boston][( reuters )][-][david][ortiz's][bottom][10th][inning][boston][sox][win][anaheim][three - game][american][league][divisional][series][friday.])
+v(0 1 2 3 4 5 6 7 8 10 11 12 14 17 19 22 24): 11.764419555664062, EP: 1.0150511264801025	 ([boston][( reuters )][-][david][ortiz's][two - run][homer][bottom][10th][gave][boston][red][8 - 6][angels][sweep][divisional][friday.])
+v(5 6 9 10 12 13 14 15 16 17 18 19 20 21 23): 11.624479293823242, EP: 1.002976894378662	 ([two - run][homer][inning][gave][red][sox][8 - 6][win][anaheim][angels][three - game][sweep][american][league][series])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 11.589977264404297, EP: 1.0	 ([boston][( reuters )][-][david][ortiz's][two - run][homer][bottom][10th][inning][gave][boston][red][sox][8 - 6][win][anaheim][angels][three - game][sweep][american][league][divisional][series][friday.])
+v(5 6 10 12 14 17 19): 8.204852104187012, EP: 0.7079265117645264	 ([two - run][homer][gave][red][8 - 6][angels][sweep])
+v(0 1 2 3 4 7 8 11 22 24): -0.36847686767578125, EP: -0.031792715191841125	 ([boston][( reuters )][-][david][ortiz's][bottom][10th][boston][divisional][friday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

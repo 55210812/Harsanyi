@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: colgate - palmolive
+Player 1: cut
+Player 2: 4, 440
+Player 3: jobs
+Player 4: - 12
+Player 5: per
+Player 6: cent
+Player 7: workforce
+Player 8: -
+Player 9: close
+Player 10: roughly
+Player 11: one - third
+Player 12: factories
+Player 13: amid
+Player 14: fierce
+Player 15: competition
+Player 16: procter
+Player 17: amp ;
+Player 18: gamble.
+---------- Rewards ----------
+v(): -3.297941207885742	 ([])
+v(1 4 5 6 7 8 12 14 18): 6.084850311279297	 ([cut][- 12][per][cent][workforce][-][factories][fierce][gamble.])
+v(0 2 3 9 10 11 13 15 16 17): 8.510802268981934	 ([colgate - palmolive][4, 440][jobs][close][roughly][one - third][amid][competition][procter][amp ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.439170837402344	 ([colgate - palmolive][cut][4, 440][jobs][- 12][per][cent][workforce][-][close][roughly][one - third][factories][amid][fierce][competition][procter][amp ;][gamble.])
+---------- Rewards-v() ----------
+v(0 2 3 9 10 11 13 15 16 17): 11.808743476867676, EP: 1.0061030387878418	 ([colgate - palmolive][4, 440][jobs][close][roughly][one - third][amid][competition][procter][amp ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 11.737112045288086, EP: 1.0	 ([colgate - palmolive][cut][4, 440][jobs][- 12][per][cent][workforce][-][close][roughly][one - third][factories][amid][fierce][competition][procter][amp ;][gamble.])
+v(1 4 5 6 7 8 12 14 18): 9.382791519165039, EP: 0.7994123101234436	 ([cut][- 12][per][cent][workforce][-][factories][fierce][gamble.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

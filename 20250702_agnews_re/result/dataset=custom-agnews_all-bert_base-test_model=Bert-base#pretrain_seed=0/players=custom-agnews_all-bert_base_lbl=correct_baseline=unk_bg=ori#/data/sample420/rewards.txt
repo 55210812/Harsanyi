@@ -1,0 +1,52 @@
+---------- Players ----------
+Player 0: within
+Player 1: 25
+Player 2: seconds
+Player 3: -
+Player 4: 2, 500mph.
+Player 5: five
+Player 6: minutes
+Player 7: float
+Player 8: about,
+Player 9: 80
+Player 10: miles
+Player 11: planet
+Player 12: earth.
+Player 13: lavatory
+Player 14: in - flight
+Player 15: drinks?
+---------- Rewards ----------
+v(): -1.3374149799346924	 ([])
+v(0 4 5 11 12 13 14): 7.710879802703857	 ([within][2, 500mph.][five][planet][earth.][lavatory][in - flight])
+v(1 2): 3.329249858856201	 ([25][seconds])
+v(9 10): 1.9159107208251953	 ([80][miles])
+v(3 6 7 8 15): 0.17653286457061768	 ([-][minutes][float][about,][drinks?])
+v(0 1 2 4 5 11 12 13 14): 7.692251682281494	 ([within][25][seconds][2, 500mph.][five][planet][earth.][lavatory][in - flight])
+v(0 4 5 9 10 11 12 13 14): 7.787316799163818	 ([within][2, 500mph.][five][80][miles][planet][earth.][lavatory][in - flight])
+v(0 3 4 5 6 7 8 11 12 13 14 15): 7.397731304168701	 ([within][-][2, 500mph.][five][minutes][float][about,][planet][earth.][lavatory][in - flight][drinks?])
+v(1 2 9 10): 3.9502105712890625	 ([25][seconds][80][miles])
+v(1 2 3 6 7 8 15): 1.9957014322280884	 ([25][seconds][-][minutes][float][about,][drinks?])
+v(3 6 7 8 9 10 15): -1.0278979539871216	 ([-][minutes][float][about,][80][miles][drinks?])
+v(0 1 2 4 5 9 10 11 12 13 14): 7.802722930908203	 ([within][25][seconds][2, 500mph.][five][80][miles][planet][earth.][lavatory][in - flight])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14 15): 7.451424598693848	 ([within][25][seconds][-][2, 500mph.][five][minutes][float][about,][planet][earth.][lavatory][in - flight][drinks?])
+v(0 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.352915287017822	 ([within][-][2, 500mph.][five][minutes][float][about,][80][miles][planet][earth.][lavatory][in - flight][drinks?])
+v(1 2 3 6 7 8 9 10 15): 1.0337823629379272	 ([25][seconds][-][minutes][float][about,][80][miles][drinks?])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.440316677093506	 ([within][25][seconds][-][2, 500mph.][five][minutes][float][about,][80][miles][planet][earth.][lavatory][in - flight][drinks?])
+---------- Rewards-v() ----------
+v(0 1 2 4 5 9 10 11 12 13 14): 9.140137672424316, EP: 1.0412869453430176	 ([within][25][seconds][2, 500mph.][five][80][miles][planet][earth.][lavatory][in - flight])
+v(0 4 5 9 10 11 12 13 14): 9.12473201751709, EP: 1.0395318269729614	 ([within][2, 500mph.][five][80][miles][planet][earth.][lavatory][in - flight])
+v(0 4 5 11 12 13 14): 9.048295021057129, EP: 1.030823826789856	 ([within][2, 500mph.][five][planet][earth.][lavatory][in - flight])
+v(0 1 2 4 5 11 12 13 14): 9.029666900634766, EP: 1.028701663017273	 ([within][25][seconds][2, 500mph.][five][planet][earth.][lavatory][in - flight])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14 15): 8.788839340209961, EP: 1.0012654066085815	 ([within][25][seconds][-][2, 500mph.][five][minutes][float][about,][planet][earth.][lavatory][in - flight][drinks?])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 8.777731895446777, EP: 1.0	 ([within][25][seconds][-][2, 500mph.][five][minutes][float][about,][80][miles][planet][earth.][lavatory][in - flight][drinks?])
+v(0 3 4 5 6 7 8 11 12 13 14 15): 8.735146522521973, EP: 0.9951484799385071	 ([within][-][2, 500mph.][five][minutes][float][about,][planet][earth.][lavatory][in - flight][drinks?])
+v(0 3 4 5 6 7 8 9 10 11 12 13 14 15): 8.690330505371094, EP: 0.9900428056716919	 ([within][-][2, 500mph.][five][minutes][float][about,][80][miles][planet][earth.][lavatory][in - flight][drinks?])
+v(1 2 9 10): 5.287625312805176, EP: 0.6023908257484436	 ([25][seconds][80][miles])
+v(1 2): 4.666665077209473, EP: 0.5316481590270996	 ([25][seconds])
+v(1 2 3 6 7 8 15): 3.3331165313720703, EP: 0.3797241151332855	 ([25][seconds][-][minutes][float][about,][drinks?])
+v(9 10): 3.2533257007598877, EP: 0.370633989572525	 ([80][miles])
+v(1 2 3 6 7 8 9 10 15): 2.37119722366333, EP: 0.27013781666755676	 ([25][seconds][-][minutes][float][about,][80][miles][drinks?])
+v(3 6 7 8 15): 1.51394784450531, EP: 0.17247597873210907	 ([-][minutes][float][about,][drinks?])
+v(3 6 7 8 9 10 15): 0.3095170259475708, EP: 0.0352616161108017	 ([-][minutes][float][about,][80][miles][drinks?])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,45 @@
+Execution time: 2025-07-02 19:33:17
+prompt: [CLS] 3 ) rain may postpone game 6. do the sox still have a chance if rain breaks their momentum? yes, a day of rest would help the sox, too. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1017 decoded_text: 3
+idx:2 input_id:1007 decoded_text: )
+idx:3 input_id:4542 decoded_text: rain
+idx:4 input_id:2089 decoded_text: may
+idx:5 input_id:2695 decoded_text: post
+idx:6 input_id:29513 decoded_text: ##pone
+idx:7 input_id:2208 decoded_text: game
+idx:8 input_id:1020 decoded_text: 6
+idx:9 input_id:1012 decoded_text: .
+idx:10 input_id:2079 decoded_text: do
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:9175 decoded_text: sox
+idx:13 input_id:2145 decoded_text: still
+idx:14 input_id:2031 decoded_text: have
+idx:15 input_id:1037 decoded_text: a
+idx:16 input_id:3382 decoded_text: chance
+idx:17 input_id:2065 decoded_text: if
+idx:18 input_id:4542 decoded_text: rain
+idx:19 input_id:7807 decoded_text: breaks
+idx:20 input_id:2037 decoded_text: their
+idx:21 input_id:11071 decoded_text: momentum
+idx:22 input_id:1029 decoded_text: ?
+idx:23 input_id:2748 decoded_text: yes
+idx:24 input_id:1010 decoded_text: ,
+idx:25 input_id:1037 decoded_text: a
+idx:26 input_id:2154 decoded_text: day
+idx:27 input_id:1997 decoded_text: of
+idx:28 input_id:2717 decoded_text: rest
+idx:29 input_id:2052 decoded_text: would
+idx:30 input_id:2393 decoded_text: help
+idx:31 input_id:1996 decoded_text: the
+idx:32 input_id:9175 decoded_text: sox
+idx:33 input_id:1010 decoded_text: ,
+idx:34 input_id:2205 decoded_text: too
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.8004204034805298, 8.419785499572754, -3.2320809364318848, -1.7555333375930786]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

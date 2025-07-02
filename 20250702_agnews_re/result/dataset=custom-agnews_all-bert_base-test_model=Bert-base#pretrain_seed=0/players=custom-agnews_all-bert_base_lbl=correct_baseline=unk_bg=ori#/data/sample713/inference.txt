@@ -1,0 +1,41 @@
+Execution time: 2025-07-02 19:34:51
+prompt: [CLS] the goal now is to " guess what the criminals are going to attack, " an exec says. redmond will focus first on the critical flaws. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:3125 decoded_text: goal
+idx:3 input_id:2085 decoded_text: now
+idx:4 input_id:2003 decoded_text: is
+idx:5 input_id:2000 decoded_text: to
+idx:6 input_id:1000 decoded_text: "
+idx:7 input_id:3984 decoded_text: guess
+idx:8 input_id:2054 decoded_text: what
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:12290 decoded_text: criminals
+idx:11 input_id:2024 decoded_text: are
+idx:12 input_id:2183 decoded_text: going
+idx:13 input_id:2000 decoded_text: to
+idx:14 input_id:2886 decoded_text: attack
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:1000 decoded_text: "
+idx:17 input_id:2019 decoded_text: an
+idx:18 input_id:4654 decoded_text: ex
+idx:19 input_id:8586 decoded_text: ##ec
+idx:20 input_id:2758 decoded_text: says
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:2417 decoded_text: red
+idx:23 input_id:11442 decoded_text: ##mond
+idx:24 input_id:2097 decoded_text: will
+idx:25 input_id:3579 decoded_text: focus
+idx:26 input_id:2034 decoded_text: first
+idx:27 input_id:2006 decoded_text: on
+idx:28 input_id:1996 decoded_text: the
+idx:29 input_id:4187 decoded_text: critical
+idx:30 input_id:21407 decoded_text: flaws
+idx:31 input_id:1012 decoded_text: .
+idx:32 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.639738082885742, -2.237611770629883, -1.2971876859664917, 7.237123966217041]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

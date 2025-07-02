@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: grid
+Player 1: computing
+Player 2: vendors
+Player 3: sun
+Player 4: ibm
+Player 5: taking
+Player 6: reins
+Player 7: utility
+Player 8: computing
+Player 9: market,
+Player 10: competition
+Player 11: collaborating
+Player 12: provide
+Player 13: proof - of - concept
+Player 14: projects
+Player 15: improve
+Player 16: showcase
+Player 17: services
+Player 18: offerings.
+---------- Rewards ----------
+v(): 5.229763031005859	 ([])
+v(0 1 2 4 6 7 8 18): 8.250768661499023	 ([grid][computing][vendors][ibm][reins][utility][computing][offerings.])
+v(9 10 11 12 14 15 16 17): -1.8038631677627563	 ([market,][competition][collaborating][provide][projects][improve][showcase][services])
+v(3 5 13): 5.626967430114746	 ([sun][taking][proof - of - concept])
+v(0 1 2 4 6 7 8 9 10 11 12 14 15 16 17 18): 7.889472007751465	 ([grid][computing][vendors][ibm][reins][utility][computing][market,][competition][collaborating][provide][projects][improve][showcase][services][offerings.])
+v(0 1 2 3 4 5 6 7 8 13 18): 8.234637260437012	 ([grid][computing][vendors][sun][ibm][taking][reins][utility][computing][proof - of - concept][offerings.])
+v(3 5 9 10 11 12 13 14 15 16 17): 3.1791319847106934	 ([sun][taking][market,][competition][collaborating][provide][proof - of - concept][projects][improve][showcase][services])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.5582475662231445	 ([grid][computing][vendors][sun][ibm][taking][reins][utility][computing][market,][competition][collaborating][provide][proof - of - concept][projects][improve][showcase][services][offerings.])
+---------- Rewards-v() ----------
+v(9 10 11 12 14 15 16 17): -7.033626079559326, EP: -3.02068829536438	 ([market,][competition][collaborating][provide][projects][improve][showcase][services])
+v(0 1 2 4 6 7 8 18): 3.021005630493164, EP: 1.2974127531051636	 ([grid][computing][vendors][ibm][reins][utility][computing][offerings.])
+v(0 1 2 3 4 5 6 7 8 13 18): 3.0048742294311523, EP: 1.29048490524292	 ([grid][computing][vendors][sun][ibm][taking][reins][utility][computing][proof - of - concept][offerings.])
+v(0 1 2 4 6 7 8 9 10 11 12 14 15 16 17 18): 2.6597089767456055, EP: 1.1422489881515503	 ([grid][computing][vendors][ibm][reins][utility][computing][market,][competition][collaborating][provide][projects][improve][showcase][services][offerings.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 2.328484535217285, EP: 1.0	 ([grid][computing][vendors][sun][ibm][taking][reins][utility][computing][market,][competition][collaborating][provide][proof - of - concept][projects][improve][showcase][services][offerings.])
+v(3 5 9 10 11 12 13 14 15 16 17): -2.050631046295166, EP: -0.8806719779968262	 ([sun][taking][market,][competition][collaborating][provide][proof - of - concept][projects][improve][showcase][services])
+v(3 5 13): 0.3972043991088867, EP: 0.17058494687080383	 ([sun][taking][proof - of - concept])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

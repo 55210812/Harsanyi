@@ -1,0 +1,59 @@
+---------- Players ----------
+Player 0: masae
+Player 1: ueno
+Player 2: certainly
+Player 3: tale
+Player 4: tell
+Player 5: gets
+Player 6: back
+Player 7: tokyo
+Player 8: office.
+Player 9: ueno
+Player 10: joined
+Player 11: parade
+Player 12: japanese
+Player 13: olympic
+Player 14: judo
+Player 15: champions,
+Player 16: winning
+Player 17: women
+Player 18: # 39 ; s
+Player 19: 70 - kilogram
+Player 20: gold
+Player 21: medal
+Player 22: wednesday.
+---------- Rewards ----------
+v(): -4.891427040100098	 ([])
+v(11 12 13 14 15 17 21): 3.8087799549102783	 ([parade][japanese][olympic][judo][champions,][women][medal])
+v(0 1 9 16): 4.100433349609375	 ([masae][ueno][ueno][winning])
+v(3 4): -3.029627799987793	 ([tale][tell])
+v(2 5 6 7 8 10 18 19 20 22): -6.370802879333496	 ([certainly][gets][back][tokyo][office.][joined][# 39 ; s][70 - kilogram][gold][wednesday.])
+v(0 1 9 11 12 13 14 15 16 17 21): 5.662505626678467	 ([masae][ueno][ueno][parade][japanese][olympic][judo][champions,][winning][women][medal])
+v(3 4 11 12 13 14 15 17 21): 4.110751628875732	 ([tale][tell][parade][japanese][olympic][judo][champions,][women][medal])
+v(2 5 6 7 8 10 11 12 13 14 15 17 18 19 20 21 22): 8.31491470336914	 ([certainly][gets][back][tokyo][office.][joined][parade][japanese][olympic][judo][champions,][women][# 39 ; s][70 - kilogram][gold][medal][wednesday.])
+v(0 1 3 4 9 16): 4.332209587097168	 ([masae][ueno][tale][tell][ueno][winning])
+v(0 1 2 5 6 7 8 9 10 16 18 19 20 22): 5.068881511688232	 ([masae][ueno][certainly][gets][back][tokyo][office.][ueno][joined][winning][# 39 ; s][70 - kilogram][gold][wednesday.])
+v(2 3 4 5 6 7 8 10 18 19 20 22): -6.293524742126465	 ([certainly][tale][tell][gets][back][tokyo][office.][joined][# 39 ; s][70 - kilogram][gold][wednesday.])
+v(0 1 3 4 9 11 12 13 14 15 16 17 21): 6.17655086517334	 ([masae][ueno][tale][tell][ueno][parade][japanese][olympic][judo][champions,][winning][women][medal])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.859928131103516	 ([masae][ueno][certainly][gets][back][tokyo][office.][ueno][joined][parade][japanese][olympic][judo][champions,][winning][women][# 39 ; s][70 - kilogram][gold][medal][wednesday.])
+v(2 3 4 5 6 7 8 10 11 12 13 14 15 17 18 19 20 21 22): 8.422679901123047	 ([certainly][tale][tell][gets][back][tokyo][office.][joined][parade][japanese][olympic][judo][champions,][women][# 39 ; s][70 - kilogram][gold][medal][wednesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 16 18 19 20 22): 5.655388832092285	 ([masae][ueno][certainly][tale][tell][gets][back][tokyo][office.][ueno][joined][winning][# 39 ; s][70 - kilogram][gold][wednesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.896615982055664	 ([masae][ueno][certainly][tale][tell][gets][back][tokyo][office.][ueno][joined][parade][japanese][olympic][judo][champions,][winning][women][# 39 ; s][70 - kilogram][gold][medal][wednesday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 13.788043022155762, EP: 1.0	 ([masae][ueno][certainly][tale][tell][gets][back][tokyo][office.][ueno][joined][parade][japanese][olympic][judo][champions,][winning][women][# 39 ; s][70 - kilogram][gold][medal][wednesday.])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 13.751355171203613, EP: 0.997339129447937	 ([masae][ueno][certainly][gets][back][tokyo][office.][ueno][joined][parade][japanese][olympic][judo][champions,][winning][women][# 39 ; s][70 - kilogram][gold][medal][wednesday.])
+v(2 3 4 5 6 7 8 10 11 12 13 14 15 17 18 19 20 21 22): 13.314106941223145, EP: 0.9656270146369934	 ([certainly][tale][tell][gets][back][tokyo][office.][joined][parade][japanese][olympic][judo][champions,][women][# 39 ; s][70 - kilogram][gold][medal][wednesday.])
+v(2 5 6 7 8 10 11 12 13 14 15 17 18 19 20 21 22): 13.206341743469238, EP: 0.957811176776886	 ([certainly][gets][back][tokyo][office.][joined][parade][japanese][olympic][judo][champions,][women][# 39 ; s][70 - kilogram][gold][medal][wednesday.])
+v(0 1 3 4 9 11 12 13 14 15 16 17 21): 11.067977905273438, EP: 0.8027229309082031	 ([masae][ueno][tale][tell][ueno][parade][japanese][olympic][judo][champions,][winning][women][medal])
+v(0 1 9 11 12 13 14 15 16 17 21): 10.553932189941406, EP: 0.7654408812522888	 ([masae][ueno][ueno][parade][japanese][olympic][judo][champions,][winning][women][medal])
+v(0 1 2 3 4 5 6 7 8 9 10 16 18 19 20 22): 10.546815872192383, EP: 0.7649247646331787	 ([masae][ueno][certainly][tale][tell][gets][back][tokyo][office.][ueno][joined][winning][# 39 ; s][70 - kilogram][gold][wednesday.])
+v(0 1 2 5 6 7 8 9 10 16 18 19 20 22): 9.960308074951172, EP: 0.7223873734474182	 ([masae][ueno][certainly][gets][back][tokyo][office.][ueno][joined][winning][# 39 ; s][70 - kilogram][gold][wednesday.])
+v(0 1 3 4 9 16): 9.223636627197266, EP: 0.6689590811729431	 ([masae][ueno][tale][tell][ueno][winning])
+v(3 4 11 12 13 14 15 17 21): 9.002178192138672, EP: 0.6528974771499634	 ([tale][tell][parade][japanese][olympic][judo][champions,][women][medal])
+v(0 1 9 16): 8.991860389709473, EP: 0.6521491408348083	 ([masae][ueno][ueno][winning])
+v(11 12 13 14 15 17 21): 8.700206756591797, EP: 0.6309964656829834	 ([parade][japanese][olympic][judo][champions,][women][medal])
+v(3 4): 1.8617992401123047, EP: 0.13502998650074005	 ([tale][tell])
+v(2 5 6 7 8 10 18 19 20 22): -1.4793758392333984, EP: -0.10729411244392395	 ([certainly][gets][back][tokyo][office.][joined][# 39 ; s][70 - kilogram][gold][wednesday.])
+v(2 3 4 5 6 7 8 10 18 19 20 22): -1.4020977020263672, EP: -0.10168939083814621	 ([certainly][tale][tell][gets][back][tokyo][office.][joined][# 39 ; s][70 - kilogram][gold][wednesday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

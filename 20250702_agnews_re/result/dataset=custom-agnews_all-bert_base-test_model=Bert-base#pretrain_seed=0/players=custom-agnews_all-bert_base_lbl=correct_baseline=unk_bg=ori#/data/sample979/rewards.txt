@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: first
+Player 1: employment
+Player 2: survey
+Player 3: released
+Player 4: election
+Player 5: said
+Player 6: u. s.
+Player 7: businesses
+Player 8: added
+Player 9: 337, 000
+Player 10: jobs
+Player 11: - -
+Player 12: almost
+Player 13: twice
+Player 14: many
+Player 15: expected
+Player 16: - -
+Player 17: last
+Player 18: month.
+---------- Rewards ----------
+v(): -4.124384880065918	 ([])
+v(4 5 8 9 10 11 12 13 14 16): 0.10131287574768066	 ([election][said][added][337, 000][jobs][- -][almost][twice][many][- -])
+v(0 1 2 3 6 7 15 17 18): 8.048779487609863	 ([first][employment][survey][released][u. s.][businesses][expected][last][month.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.783717632293701	 ([first][employment][survey][released][election][said][u. s.][businesses][added][337, 000][jobs][- -][almost][twice][many][expected][- -][last][month.])
+---------- Rewards-v() ----------
+v(0 1 2 3 6 7 15 17 18): 12.173164367675781, EP: 1.022258996963501	 ([first][employment][survey][released][u. s.][businesses][expected][last][month.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 11.908102035522461, EP: 1.0	 ([first][employment][survey][released][election][said][u. s.][businesses][added][337, 000][jobs][- -][almost][twice][many][expected][- -][last][month.])
+v(4 5 8 9 10 11 12 13 14 16): 4.2256975173950195, EP: 0.35485902428627014	 ([election][said][added][337, 000][jobs][- -][almost][twice][many][- -])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

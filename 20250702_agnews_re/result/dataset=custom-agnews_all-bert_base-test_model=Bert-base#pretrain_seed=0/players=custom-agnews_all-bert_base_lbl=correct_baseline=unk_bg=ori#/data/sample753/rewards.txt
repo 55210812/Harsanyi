@@ -1,0 +1,62 @@
+---------- Players ----------
+Player 0: facing
+Player 1: persistent
+Player 2: speculation
+Player 3: mci
+Player 4: inc.
+Player 5: positioning
+Player 6: sale,
+Player 7: telecommunications
+Player 8: company's
+Player 9: chief
+Player 10: executive,
+Player 11: michael
+Player 12: d.
+Player 13: capellas,
+Player 14: insisted
+Player 15: yesterday
+Player 16: ''no
+Player 17: intention
+Player 18: quot ;
+Player 19: breaking
+Player 20: company
+Player 21: pieces
+Player 22: could
+Player 23: attract
+Player 24: several
+Player 25: buyers.
+---------- Rewards ----------
+v(): -5.903948783874512	 ([])
+v(5 6 7 8 17 18 19 20 21): -0.20238018035888672	 ([positioning][sale,][telecommunications][company's][intention][quot ;][breaking][company][pieces])
+v(22 23 24 25): -3.789506196975708	 ([could][attract][several][buyers.])
+v(1 9 10 13 14 15 16): -3.2249603271484375	 ([persistent][chief][executive,][capellas,][insisted][yesterday][''no])
+v(0 2 3 4 11 12): 3.5063366889953613	 ([facing][speculation][mci][inc.][michael][d.])
+v(5 6 7 8 17 18 19 20 21 22 23 24 25): 0.8066062927246094	 ([positioning][sale,][telecommunications][company's][intention][quot ;][breaking][company][pieces][could][attract][several][buyers.])
+v(1 5 6 7 8 9 10 13 14 15 16 17 18 19 20 21): 0.3699371814727783	 ([persistent][positioning][sale,][telecommunications][company's][chief][executive,][capellas,][insisted][yesterday][''no][intention][quot ;][breaking][company][pieces])
+v(0 2 3 4 5 6 7 8 11 12 17 18 19 20 21): -2.4745821952819824	 ([facing][speculation][mci][inc.][positioning][sale,][telecommunications][company's][michael][d.][intention][quot ;][breaking][company][pieces])
+v(1 9 10 13 14 15 16 22 23 24 25): 2.1249911785125732	 ([persistent][chief][executive,][capellas,][insisted][yesterday][''no][could][attract][several][buyers.])
+v(0 2 3 4 11 12 22 23 24 25): 5.068059921264648	 ([facing][speculation][mci][inc.][michael][d.][could][attract][several][buyers.])
+v(0 1 2 3 4 9 10 11 12 13 14 15 16): 6.4790802001953125	 ([facing][persistent][speculation][mci][inc.][chief][executive,][michael][d.][capellas,][insisted][yesterday][''no])
+v(1 5 6 7 8 9 10 13 14 15 16 17 18 19 20 21 22 23 24 25): 0.6166061162948608	 ([persistent][positioning][sale,][telecommunications][company's][chief][executive,][capellas,][insisted][yesterday][''no][intention][quot ;][breaking][company][pieces][could][attract][several][buyers.])
+v(0 2 3 4 5 6 7 8 11 12 17 18 19 20 21 22 23 24 25): -2.5744261741638184	 ([facing][speculation][mci][inc.][positioning][sale,][telecommunications][company's][michael][d.][intention][quot ;][breaking][company][pieces][could][attract][several][buyers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 3.1062612533569336	 ([facing][persistent][speculation][mci][inc.][positioning][sale,][telecommunications][company's][chief][executive,][michael][d.][capellas,][insisted][yesterday][''no][intention][quot ;][breaking][company][pieces])
+v(0 1 2 3 4 9 10 11 12 13 14 15 16 22 23 24 25): 6.859302043914795	 ([facing][persistent][speculation][mci][inc.][chief][executive,][michael][d.][capellas,][insisted][yesterday][''no][could][attract][several][buyers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 3.181826114654541	 ([facing][persistent][speculation][mci][inc.][positioning][sale,][telecommunications][company's][chief][executive,][michael][d.][capellas,][insisted][yesterday][''no][intention][quot ;][breaking][company][pieces][could][attract][several][buyers.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 9 10 11 12 13 14 15 16 22 23 24 25): 12.763250350952148, EP: 1.4047508239746094	 ([facing][persistent][speculation][mci][inc.][chief][executive,][michael][d.][capellas,][insisted][yesterday][''no][could][attract][several][buyers.])
+v(0 1 2 3 4 9 10 11 12 13 14 15 16): 12.383028984069824, EP: 1.3629028797149658	 ([facing][persistent][speculation][mci][inc.][chief][executive,][michael][d.][capellas,][insisted][yesterday][''no])
+v(0 2 3 4 11 12 22 23 24 25): 10.97200870513916, EP: 1.207602858543396	 ([facing][speculation][mci][inc.][michael][d.][could][attract][several][buyers.])
+v(0 2 3 4 11 12): 9.410285949707031, EP: 1.0357162952423096	 ([facing][speculation][mci][inc.][michael][d.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 9.085775375366211, EP: 1.0	 ([facing][persistent][speculation][mci][inc.][positioning][sale,][telecommunications][company's][chief][executive,][michael][d.][capellas,][insisted][yesterday][''no][intention][quot ;][breaking][company][pieces][could][attract][several][buyers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.010210037231445, EP: 0.9916831254959106	 ([facing][persistent][speculation][mci][inc.][positioning][sale,][telecommunications][company's][chief][executive,][michael][d.][capellas,][insisted][yesterday][''no][intention][quot ;][breaking][company][pieces])
+v(1 9 10 13 14 15 16 22 23 24 25): 8.028940200805664, EP: 0.8836824297904968	 ([persistent][chief][executive,][capellas,][insisted][yesterday][''no][could][attract][several][buyers.])
+v(5 6 7 8 17 18 19 20 21 22 23 24 25): 6.710555076599121, EP: 0.7385781407356262	 ([positioning][sale,][telecommunications][company's][intention][quot ;][breaking][company][pieces][could][attract][several][buyers.])
+v(1 5 6 7 8 9 10 13 14 15 16 17 18 19 20 21 22 23 24 25): 6.520555019378662, EP: 0.7176663279533386	 ([persistent][positioning][sale,][telecommunications][company's][chief][executive,][capellas,][insisted][yesterday][''no][intention][quot ;][breaking][company][pieces][could][attract][several][buyers.])
+v(1 5 6 7 8 9 10 13 14 15 16 17 18 19 20 21): 6.273885726928711, EP: 0.6905173659324646	 ([persistent][positioning][sale,][telecommunications][company's][chief][executive,][capellas,][insisted][yesterday][''no][intention][quot ;][breaking][company][pieces])
+v(5 6 7 8 17 18 19 20 21): 5.701568603515625, EP: 0.6275269389152527	 ([positioning][sale,][telecommunications][company's][intention][quot ;][breaking][company][pieces])
+v(0 2 3 4 5 6 7 8 11 12 17 18 19 20 21): 3.4293665885925293, EP: 0.37744346261024475	 ([facing][speculation][mci][inc.][positioning][sale,][telecommunications][company's][michael][d.][intention][quot ;][breaking][company][pieces])
+v(0 2 3 4 5 6 7 8 11 12 17 18 19 20 21 22 23 24 25): 3.3295226097106934, EP: 0.36645442247390747	 ([facing][speculation][mci][inc.][positioning][sale,][telecommunications][company's][michael][d.][intention][quot ;][breaking][company][pieces][could][attract][several][buyers.])
+v(1 9 10 13 14 15 16): 2.678988456726074, EP: 0.2948552370071411	 ([persistent][chief][executive,][capellas,][insisted][yesterday][''no])
+v(22 23 24 25): 2.1144425868988037, EP: 0.23272010684013367	 ([could][attract][several][buyers.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

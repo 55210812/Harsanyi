@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: president
+Player 1: george
+Player 2: w.
+Player 3: bush,
+Player 4: confronted
+Player 5: antiwar
+Player 6: protesters
+Player 7: canada,
+Player 8: defended
+Player 9: decision
+Player 10: invade
+Player 11: iraq
+Player 12: said
+Player 13: us
+Player 14: would
+Player 15: always
+Player 16: act
+Player 17: threats
+Player 18: even
+Player 19: opposed
+Player 20: nations.
+---------- Rewards ----------
+v(): -5.434178352355957	 ([])
+v(0 4 5 6 16 17 19): 7.3757452964782715	 ([president][confronted][antiwar][protesters][act][threats][opposed])
+v(8 9 10 12 14 15): 3.7524971961975098	 ([defended][decision][invade][said][would][always])
+v(1 2 3 7 11 13 18 20): 3.379427671432495	 ([george][w.][bush,][canada,][iraq][us][even][nations.])
+v(0 4 5 6 8 9 10 12 14 15 16 17 19): 7.832857131958008	 ([president][confronted][antiwar][protesters][defended][decision][invade][said][would][always][act][threats][opposed])
+v(0 1 2 3 4 5 6 7 11 13 16 17 18 19 20): 6.846147060394287	 ([president][george][w.][bush,][confronted][antiwar][protesters][canada,][iraq][us][act][threats][even][opposed][nations.])
+v(1 2 3 7 8 9 10 11 12 13 14 15 18 20): 7.335480690002441	 ([george][w.][bush,][canada,][defended][decision][invade][iraq][said][us][would][always][even][nations.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.693179130554199	 ([president][george][w.][bush,][confronted][antiwar][protesters][canada,][defended][decision][invade][iraq][said][us][would][always][act][threats][even][opposed][nations.])
+---------- Rewards-v() ----------
+v(0 4 5 6 8 9 10 12 14 15 16 17 19): 13.267035484313965, EP: 1.010640263557434	 ([president][confronted][antiwar][protesters][defended][decision][invade][said][would][always][act][threats][opposed])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.127357482910156, EP: 1.0	 ([president][george][w.][bush,][confronted][antiwar][protesters][canada,][defended][decision][invade][iraq][said][us][would][always][act][threats][even][opposed][nations.])
+v(0 4 5 6 16 17 19): 12.80992317199707, EP: 0.9758188724517822	 ([president][confronted][antiwar][protesters][act][threats][opposed])
+v(1 2 3 7 8 9 10 11 12 13 14 15 18 20): 12.769659042358398, EP: 0.9727516770362854	 ([george][w.][bush,][canada,][defended][decision][invade][iraq][said][us][would][always][even][nations.])
+v(0 1 2 3 4 5 6 7 11 13 16 17 18 19 20): 12.280324935913086, EP: 0.935475766658783	 ([president][george][w.][bush,][confronted][antiwar][protesters][canada,][iraq][us][act][threats][even][opposed][nations.])
+v(8 9 10 12 14 15): 9.186676025390625, EP: 0.6998115181922913	 ([defended][decision][invade][said][would][always])
+v(1 2 3 7 11 13 18 20): 8.813606262207031, EP: 0.6713922619819641	 ([george][w.][bush,][canada,][iraq][us][even][nations.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

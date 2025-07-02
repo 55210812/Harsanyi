@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: consumers
+Player 1: firewall
+Player 2: protection,
+Player 3: antivirus
+Player 4: software
+Player 5: outdated,
+Player 6: dozens
+Player 7: spyware
+Player 8: programs
+Player 9: secretly
+Player 10: run
+Player 11: computers,
+Player 12: america
+Player 13: online
+Player 14: national
+Player 15: cyber
+Player 16: security
+Player 17: alliance
+Player 18: found.
+---------- Rewards ----------
+v(): 3.8313803672790527	 ([])
+v(0 2 3 9 10 12 16 17): 7.58403205871582	 ([consumers][protection,][antivirus][secretly][run][america][security][alliance])
+v(1 4 5 6 7 8 11 13 14 15 18): 8.578661918640137	 ([firewall][software][outdated,][dozens][spyware][programs][computers,][online][national][cyber][found.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 3.2305524349212646	 ([consumers][firewall][protection,][antivirus][software][outdated,][dozens][spyware][programs][secretly][run][computers,][america][online][national][cyber][security][alliance][found.])
+---------- Rewards-v() ----------
+v(1 4 5 6 7 8 11 13 14 15 18): 4.747281551361084, EP: -7.901233196258545	 ([firewall][software][outdated,][dozens][spyware][programs][computers,][online][national][cyber][found.])
+v(0 2 3 9 10 12 16 17): 3.7526516914367676, EP: -6.245800971984863	 ([consumers][protection,][antivirus][secretly][run][america][security][alliance])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): -0.6008279323577881, EP: 1.0	 ([consumers][firewall][protection,][antivirus][software][outdated,][dozens][spyware][programs][secretly][run][computers,][america][online][national][cyber][security][alliance][found.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

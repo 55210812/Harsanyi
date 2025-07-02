@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: motorsport. com.
+Player 1: momentum
+Player 2: funny
+Player 3: thing
+Player 4: racing.
+Player 5: # 39 ; s
+Player 6: something
+Player 7: see
+Player 8: hear.
+Player 9: # 39 ; s
+Player 10: easy
+Player 11: put
+Player 12: finger
+Player 13: exactly
+Player 14: starts.
+---------- Rewards ----------
+v(): -7.079059600830078	 ([])
+v(0 4 8): 7.886107921600342	 ([motorsport. com.][racing.][hear.])
+v(1 2 3 10 11 12 13 14): 1.4302583932876587	 ([momentum][funny][thing][easy][put][finger][exactly][starts.])
+v(5 9): -6.923213005065918	 ([# 39 ; s][# 39 ; s])
+v(0 1 2 3 4 8 10 11 12 13 14): 7.690286636352539	 ([motorsport. com.][momentum][funny][thing][racing.][hear.][easy][put][finger][exactly][starts.])
+v(0 4 5 8 9): 8.4345703125	 ([motorsport. com.][racing.][# 39 ; s][hear.][# 39 ; s])
+v(1 2 3 5 9 10 11 12 13 14): 1.6967353820800781	 ([momentum][funny][thing][# 39 ; s][# 39 ; s][easy][put][finger][exactly][starts.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 8.546613693237305	 ([motorsport. com.][momentum][funny][thing][racing.][# 39 ; s][something][see][hear.][# 39 ; s][easy][put][finger][exactly][starts.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 15.625673294067383, EP: 1.0	 ([motorsport. com.][momentum][funny][thing][racing.][# 39 ; s][something][see][hear.][# 39 ; s][easy][put][finger][exactly][starts.])
+v(0 4 5 8 9): 15.513629913330078, EP: 0.9928295612335205	 ([motorsport. com.][racing.][# 39 ; s][hear.][# 39 ; s])
+v(0 4 8): 14.965167999267578, EP: 0.9577294588088989	 ([motorsport. com.][racing.][hear.])
+v(0 1 2 3 4 8 10 11 12 13 14): 14.769346237182617, EP: 0.9451974034309387	 ([motorsport. com.][momentum][funny][thing][racing.][hear.][easy][put][finger][exactly][starts.])
+v(1 2 3 5 9 10 11 12 13 14): 8.775794982910156, EP: 0.561626672744751	 ([momentum][funny][thing][# 39 ; s][# 39 ; s][easy][put][finger][exactly][starts.])
+v(1 2 3 10 11 12 13 14): 8.509318351745605, EP: 0.5445728898048401	 ([momentum][funny][thing][easy][put][finger][exactly][starts.])
+v(5 9): 0.15584659576416016, EP: 0.009973752312362194	 ([# 39 ; s][# 39 ; s])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

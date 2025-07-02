@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: secure
+Player 1: digital
+Player 2: ( sd )
+Player 3: card
+Player 4: tiny
+Player 5: memory
+Player 6: card
+Player 7: used
+Player 8: make
+Player 9: storage
+Player 10: portable
+Player 11: among
+Player 12: various
+Player 13: devices,
+Player 14: car
+Player 15: navigation
+Player 16: systems,
+Player 17: cellular
+Player 18: phones,
+Player 19: ebooks,
+Player 20: pdas,
+Player 21: smartphones,
+Player 22: digital
+Player 23: cameras,
+Player 24: music
+Player 25: players,
+Player 26: camcorders,
+Player 27: personal
+Player 28: computers.
+---------- Rewards ----------
+v(): 4.051910400390625	 ([])
+v(1 4 8 16 17 18 19 20 21 22 23 25 26 27 28): 4.649418354034424	 ([digital][tiny][make][systems,][cellular][phones,][ebooks,][pdas,][smartphones,][digital][cameras,][players,][camcorders,][personal][computers.])
+v(0 2 3 5 6 7 9 10 11 12 13 14 15 24): 8.111745834350586	 ([secure][( sd )][card][memory][card][used][storage][portable][among][various][devices,][car][navigation][music])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 7.770688533782959	 ([secure][digital][( sd )][card][tiny][memory][card][used][make][storage][portable][among][various][devices,][car][navigation][systems,][cellular][phones,][ebooks,][pdas,][smartphones,][digital][cameras,][music][players,][camcorders,][personal][computers.])
+---------- Rewards-v() ----------
+v(0 2 3 5 6 7 9 10 11 12 13 14 15 24): 4.059835433959961, EP: 1.091712236404419	 ([secure][( sd )][card][memory][card][used][storage][portable][among][various][devices,][car][navigation][music])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 3.718778133392334, EP: 1.0	 ([secure][digital][( sd )][card][tiny][memory][card][used][make][storage][portable][among][various][devices,][car][navigation][systems,][cellular][phones,][ebooks,][pdas,][smartphones,][digital][cameras,][music][players,][camcorders,][personal][computers.])
+v(1 4 8 16 17 18 19 20 21 22 23 25 26 27 28): 0.5975079536437988, EP: 0.16067318618297577	 ([digital][tiny][make][systems,][cellular][phones,][ebooks,][pdas,][smartphones,][digital][cameras,][players,][camcorders,][personal][computers.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

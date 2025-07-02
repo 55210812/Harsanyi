@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: allan
+Player 1: houston
+Player 2: # 39 ; s
+Player 3: comeback
+Player 4: put
+Player 5: one
+Player 6: time
+Player 7: yesterday,
+Player 8: knicks
+Player 9: shooting
+Player 10: guard
+Player 11: announced
+Player 12: activated
+Player 13: tonight
+Player 14: # 39 ; s
+Player 15: game
+Player 16: memphis
+Player 17: grizzlies
+---------- Rewards ----------
+v(): 2.135648250579834	 ([])
+v(0 1 2 7 8 17): 9.293638229370117	 ([allan][houston][# 39 ; s][yesterday,][knicks][grizzlies])
+v(3 9 10 11 12 13 16): 9.622694969177246	 ([comeback][shooting][guard][announced][activated][tonight][memphis])
+v(4 5 6 14 15): 8.788873672485352	 ([put][one][time][# 39 ; s][game])
+v(0 1 2 3 7 8 9 10 11 12 13 16 17): 9.2982816696167	 ([allan][houston][# 39 ; s][comeback][yesterday,][knicks][shooting][guard][announced][activated][tonight][memphis][grizzlies])
+v(0 1 2 4 5 6 7 8 14 15 17): 9.229650497436523	 ([allan][houston][# 39 ; s][put][one][time][yesterday,][knicks][# 39 ; s][game][grizzlies])
+v(3 4 5 6 9 10 11 12 13 14 15 16): 9.678552627563477	 ([comeback][put][one][time][shooting][guard][announced][activated][tonight][# 39 ; s][game][memphis])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.249115943908691	 ([allan][houston][# 39 ; s][comeback][put][one][time][yesterday,][knicks][shooting][guard][announced][activated][tonight][# 39 ; s][game][memphis][grizzlies])
+---------- Rewards-v() ----------
+v(3 4 5 6 9 10 11 12 13 14 15 16): 7.542904376983643, EP: 1.0603694915771484	 ([comeback][put][one][time][shooting][guard][announced][activated][tonight][# 39 ; s][game][memphis])
+v(3 9 10 11 12 13 16): 7.487046718597412, EP: 1.0525171756744385	 ([comeback][shooting][guard][announced][activated][tonight][memphis])
+v(0 1 2 3 7 8 9 10 11 12 13 16 17): 7.162633419036865, EP: 1.0069116353988647	 ([allan][houston][# 39 ; s][comeback][yesterday,][knicks][shooting][guard][announced][activated][tonight][memphis][grizzlies])
+v(0 1 2 7 8 17): 7.157989978790283, EP: 1.0062588453292847	 ([allan][houston][# 39 ; s][yesterday,][knicks][grizzlies])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 7.113467693328857, EP: 1.0	 ([allan][houston][# 39 ; s][comeback][put][one][time][yesterday,][knicks][shooting][guard][announced][activated][tonight][# 39 ; s][game][memphis][grizzlies])
+v(0 1 2 4 5 6 7 8 14 15 17): 7.0940022468566895, EP: 0.9972635507583618	 ([allan][houston][# 39 ; s][put][one][time][yesterday,][knicks][# 39 ; s][game][grizzlies])
+v(4 5 6 14 15): 6.653225421905518, EP: 0.9352998733520508	 ([put][one][time][# 39 ; s][game])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

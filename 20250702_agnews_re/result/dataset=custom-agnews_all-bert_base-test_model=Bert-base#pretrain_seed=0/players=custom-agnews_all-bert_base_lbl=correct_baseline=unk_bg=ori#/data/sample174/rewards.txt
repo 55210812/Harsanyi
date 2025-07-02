@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: european
+Player 1: champion
+Player 2: fc
+Player 3: porto
+Player 4: toyota
+Player 5: cup
+Player 6: sunday,
+Player 7: defeating
+Player 8: colombia
+Player 9: # 39 ; s
+Player 10: caldas
+Player 11: 8 - 7
+Player 12: penalty - kick
+Player 13: shootout
+Player 14: game
+Player 15: top
+Player 16: club
+Player 17: teams
+Player 18: europe
+Player 19: south
+Player 20: america.
+---------- Rewards ----------
+v(): 1.601422905921936	 ([])
+v(1 4 5 7 9 12 14 17): 9.294486999511719	 ([champion][toyota][cup][defeating][# 39 ; s][penalty - kick][game][teams])
+v(0 2 3 6 13 15 16 18): 9.017321586608887	 ([european][fc][porto][sunday,][shootout][top][club][europe])
+v(8 10 11 19 20): 2.2533178329467773	 ([colombia][caldas][8 - 7][south][america.])
+v(0 1 2 3 4 5 6 7 9 12 13 14 15 16 17 18): 9.762280464172363	 ([european][champion][fc][porto][toyota][cup][sunday,][defeating][# 39 ; s][penalty - kick][shootout][game][top][club][teams][europe])
+v(1 4 5 7 8 9 10 11 12 14 17 19 20): 9.499187469482422	 ([champion][toyota][cup][defeating][colombia][# 39 ; s][caldas][8 - 7][penalty - kick][game][teams][south][america.])
+v(0 2 3 6 8 10 11 13 15 16 18 19 20): 8.850364685058594	 ([european][fc][porto][sunday,][colombia][caldas][8 - 7][shootout][top][club][europe][south][america.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.75381088256836	 ([european][champion][fc][porto][toyota][cup][sunday,][defeating][colombia][# 39 ; s][caldas][8 - 7][penalty - kick][shootout][game][top][club][teams][europe][south][america.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 9 12 13 14 15 16 17 18): 8.160857200622559, EP: 1.001038908958435	 ([european][champion][fc][porto][toyota][cup][sunday,][defeating][# 39 ; s][penalty - kick][shootout][game][top][club][teams][europe])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.152387619018555, EP: 1.0	 ([european][champion][fc][porto][toyota][cup][sunday,][defeating][colombia][# 39 ; s][caldas][8 - 7][penalty - kick][shootout][game][top][club][teams][europe][south][america.])
+v(1 4 5 7 8 9 10 11 12 14 17 19 20): 7.897764682769775, EP: 0.9687670469284058	 ([champion][toyota][cup][defeating][colombia][# 39 ; s][caldas][8 - 7][penalty - kick][game][teams][south][america.])
+v(1 4 5 7 9 12 14 17): 7.693064212799072, EP: 0.9436578154563904	 ([champion][toyota][cup][defeating][# 39 ; s][penalty - kick][game][teams])
+v(0 2 3 6 13 15 16 18): 7.41589879989624, EP: 0.909659743309021	 ([european][fc][porto][sunday,][shootout][top][club][europe])
+v(0 2 3 6 8 10 11 13 15 16 18 19 20): 7.248941898345947, EP: 0.8891802430152893	 ([european][fc][porto][sunday,][colombia][caldas][8 - 7][shootout][top][club][europe][south][america.])
+v(8 10 11 19 20): 0.6518949270248413, EP: 0.07996368408203125	 ([colombia][caldas][8 - 7][south][america.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

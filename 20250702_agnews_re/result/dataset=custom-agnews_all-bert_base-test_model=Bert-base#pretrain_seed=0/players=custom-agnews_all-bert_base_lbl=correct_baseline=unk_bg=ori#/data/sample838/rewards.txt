@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: tokyo
+Player 1: stocks
+Player 2: edged
+Player 3: lower
+Player 4: monday
+Player 5: morning
+Player 6: concerns
+Player 7: rising
+Player 8: oil
+Player 9: prices.
+Player 10: us
+Player 11: dollar
+Player 12: japanese
+Player 13: yen.
+---------- Rewards ----------
+v(): -1.0256564617156982	 ([])
+v(1 6 8 9 10 11 13): 5.945124626159668	 ([stocks][concerns][oil][prices.][us][dollar][yen.])
+v(0 2 3 4 5 7 12): -0.4479520320892334	 ([tokyo][edged][lower][monday][morning][rising][japanese])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 5.952547073364258	 ([tokyo][stocks][edged][lower][monday][morning][concerns][rising][oil][prices.][us][dollar][japanese][yen.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 6.978203773498535, EP: 1.0	 ([tokyo][stocks][edged][lower][monday][morning][concerns][rising][oil][prices.][us][dollar][japanese][yen.])
+v(1 6 8 9 10 11 13): 6.970781326293945, EP: 0.9989363551139832	 ([stocks][concerns][oil][prices.][us][dollar][yen.])
+v(0 2 3 4 5 7 12): 0.5777044296264648, EP: 0.08278698474168777	 ([tokyo][edged][lower][monday][morning][rising][japanese])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

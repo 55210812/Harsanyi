@@ -1,0 +1,28 @@
+---------- Players ----------
+Player 0: zurich
+Player 1: ( reuters )
+Player 2: -
+Player 3: olympic
+Player 4: time
+Player 5: trial
+Player 6: champion
+Player 7: tyler
+Player 8: hamilton
+Player 9: suspended
+Player 10: phonak
+Player 11: team
+Player 12: informed
+Player 13: failed
+Player 14: dope
+Player 15: tests.
+---------- Rewards ----------
+v(): -5.060375690460205	 ([])
+v(0 3 5 6 7 8 11 15): 9.563126564025879	 ([zurich][olympic][trial][champion][tyler][hamilton][team][tests.])
+v(1 2 4 9 10 12 13 14): -0.2547023296356201	 ([( reuters )][-][time][suspended][phonak][informed][failed][dope])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.277618408203125	 ([zurich][( reuters )][-][olympic][time][trial][champion][tyler][hamilton][suspended][phonak][team][informed][failed][dope][tests.])
+---------- Rewards-v() ----------
+v(0 3 5 6 7 8 11 15): 14.623502731323242, EP: 1.0199127197265625	 ([zurich][olympic][trial][champion][tyler][hamilton][team][tests.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 14.337993621826172, EP: 1.0	 ([zurich][( reuters )][-][olympic][time][trial][champion][tyler][hamilton][suspended][phonak][team][informed][failed][dope][tests.])
+v(1 2 4 9 10 12 13 14): 4.805673599243164, EP: 0.33517056703567505	 ([( reuters )][-][time][suspended][phonak][informed][failed][dope])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

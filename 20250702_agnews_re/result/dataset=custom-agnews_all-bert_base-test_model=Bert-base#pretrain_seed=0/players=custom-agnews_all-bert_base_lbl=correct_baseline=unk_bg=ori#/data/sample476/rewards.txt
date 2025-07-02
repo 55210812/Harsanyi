@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: ( reuters )
+Player 3: -
+Player 4: dollar
+Player 5: rose
+Player 6: three - week
+Player 7: high
+Player 8: euro
+Player 9: wednesday,
+Player 10: boosted
+Player 11: fall
+Player 12: price
+Player 13: oil,
+Player 14: help
+Player 15: narrow
+Player 16: u. s.
+Player 17: trade
+Player 18: deficit
+Player 19: thus
+Player 20: benefit
+Player 21: dollar.
+---------- Rewards ----------
+v(): -3.7447915077209473	 ([])
+v(4 8 13 18 19 20 21): 5.983954906463623	 ([dollar][euro][oil,][deficit][thus][benefit][dollar.])
+v(5 11 16 17): 6.458294868469238	 ([rose][fall][u. s.][trade])
+v(6 7 12 14 15): -1.8943790197372437	 ([three - week][high][price][help][narrow])
+v(0 1 2 3 9 10): 6.076357364654541	 ([new][york][( reuters )][-][wednesday,][boosted])
+v(4 5 8 11 13 16 17 18 19 20 21): 5.487868785858154	 ([dollar][rose][euro][fall][oil,][u. s.][trade][deficit][thus][benefit][dollar.])
+v(4 6 7 8 12 13 14 15 18 19 20 21): 5.450819969177246	 ([dollar][three - week][high][euro][price][oil,][help][narrow][deficit][thus][benefit][dollar.])
+v(0 1 2 3 4 8 9 10 13 18 19 20 21): 7.7808990478515625	 ([new][york][( reuters )][-][dollar][euro][wednesday,][boosted][oil,][deficit][thus][benefit][dollar.])
+v(5 6 7 11 12 14 15 16 17): 5.8077921867370605	 ([rose][three - week][high][fall][price][help][narrow][u. s.][trade])
+v(0 1 2 3 5 9 10 11 16 17): 8.109420776367188	 ([new][york][( reuters )][-][rose][wednesday,][boosted][fall][u. s.][trade])
+v(0 1 2 3 6 7 9 10 12 14 15): 6.642723560333252	 ([new][york][( reuters )][-][three - week][high][wednesday,][boosted][price][help][narrow])
+v(4 5 6 7 8 11 12 13 14 15 16 17 18 19 20 21): 4.786522388458252	 ([dollar][rose][three - week][high][euro][fall][price][oil,][help][narrow][u. s.][trade][deficit][thus][benefit][dollar.])
+v(0 1 2 3 4 5 8 9 10 11 13 16 17 18 19 20 21): 8.0142240524292	 ([new][york][( reuters )][-][dollar][rose][euro][wednesday,][boosted][fall][oil,][u. s.][trade][deficit][thus][benefit][dollar.])
+v(0 1 2 3 4 6 7 8 9 10 12 13 14 15 18 19 20 21): 7.637862205505371	 ([new][york][( reuters )][-][dollar][three - week][high][euro][wednesday,][boosted][price][oil,][help][narrow][deficit][thus][benefit][dollar.])
+v(0 1 2 3 5 6 7 9 10 11 12 14 15 16 17): 7.928067207336426	 ([new][york][( reuters )][-][rose][three - week][high][wednesday,][boosted][fall][price][help][narrow][u. s.][trade])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.10953140258789	 ([new][york][( reuters )][-][dollar][rose][three - week][high][euro][wednesday,][boosted][fall][price][oil,][help][narrow][u. s.][trade][deficit][thus][benefit][dollar.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 11.85432243347168, EP: 1.0	 ([new][york][( reuters )][-][dollar][rose][three - week][high][euro][wednesday,][boosted][fall][price][oil,][help][narrow][u. s.][trade][deficit][thus][benefit][dollar.])
+v(0 1 2 3 5 9 10 11 16 17): 11.854211807250977, EP: 0.9999906420707703	 ([new][york][( reuters )][-][rose][wednesday,][boosted][fall][u. s.][trade])
+v(0 1 2 3 4 5 8 9 10 11 13 16 17 18 19 20 21): 11.759016036987305, EP: 0.9919602274894714	 ([new][york][( reuters )][-][dollar][rose][euro][wednesday,][boosted][fall][oil,][u. s.][trade][deficit][thus][benefit][dollar.])
+v(0 1 2 3 5 6 7 9 10 11 12 14 15 16 17): 11.672859191894531, EP: 0.9846922159194946	 ([new][york][( reuters )][-][rose][three - week][high][wednesday,][boosted][fall][price][help][narrow][u. s.][trade])
+v(0 1 2 3 4 8 9 10 13 18 19 20 21): 11.525690078735352, EP: 0.9722774028778076	 ([new][york][( reuters )][-][dollar][euro][wednesday,][boosted][oil,][deficit][thus][benefit][dollar.])
+v(0 1 2 3 4 6 7 8 9 10 12 13 14 15 18 19 20 21): 11.382654190063477, EP: 0.9602112770080566	 ([new][york][( reuters )][-][dollar][three - week][high][euro][wednesday,][boosted][price][oil,][help][narrow][deficit][thus][benefit][dollar.])
+v(0 1 2 3 6 7 9 10 12 14 15): 10.3875150680542, EP: 0.8762639164924622	 ([new][york][( reuters )][-][three - week][high][wednesday,][boosted][price][help][narrow])
+v(5 11 16 17): 10.203086853027344, EP: 0.8607060313224792	 ([rose][fall][u. s.][trade])
+v(0 1 2 3 9 10): 9.821148872375488, EP: 0.8284867405891418	 ([new][york][( reuters )][-][wednesday,][boosted])
+v(4 8 13 18 19 20 21): 9.72874641418457, EP: 0.8206918835639954	 ([dollar][euro][oil,][deficit][thus][benefit][dollar.])
+v(5 6 7 11 12 14 15 16 17): 9.552583694458008, EP: 0.805831253528595	 ([rose][three - week][high][fall][price][help][narrow][u. s.][trade])
+v(4 5 8 11 13 16 17 18 19 20 21): 9.232660293579102, EP: 0.778843343257904	 ([dollar][rose][euro][fall][oil,][u. s.][trade][deficit][thus][benefit][dollar.])
+v(4 6 7 8 12 13 14 15 18 19 20 21): 9.195611953735352, EP: 0.7757180333137512	 ([dollar][three - week][high][euro][price][oil,][help][narrow][deficit][thus][benefit][dollar.])
+v(4 5 6 7 8 11 12 13 14 15 16 17 18 19 20 21): 8.5313138961792, EP: 0.719679594039917	 ([dollar][rose][three - week][high][euro][fall][price][oil,][help][narrow][u. s.][trade][deficit][thus][benefit][dollar.])
+v(6 7 12 14 15): 1.8504124879837036, EP: 0.15609601140022278	 ([three - week][high][price][help][narrow])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: us
+Player 1: economy
+Player 2: grow
+Player 3: 4
+Player 4: percent
+Player 5: next
+Player 6: year,
+Player 7: giving
+Player 8: federal
+Player 9: reserve
+Player 10: room
+Player 11: continue
+Player 12: raising
+Player 13: interest
+Player 14: rates
+Player 15: measured
+Player 16: pace,
+Player 17: philadelphia
+---------- Rewards ----------
+v(): -4.472415924072266	 ([])
+v(0 1 4 5 8 14 17): 8.09926986694336	 ([us][economy][percent][next][federal][rates][philadelphia])
+v(3 6 10 16): -6.940149784088135	 ([4][year,][room][pace,])
+v(2 7 9 11 12 13 15): 5.943027973175049	 ([grow][giving][reserve][continue][raising][interest][measured])
+v(0 1 3 4 5 6 8 10 14 16 17): 8.308622360229492	 ([us][economy][4][percent][next][year,][federal][room][rates][pace,][philadelphia])
+v(0 1 2 4 5 7 8 9 11 12 13 14 15 17): 8.035931587219238	 ([us][economy][grow][percent][next][giving][federal][reserve][continue][raising][interest][rates][measured][philadelphia])
+v(2 3 6 7 9 10 11 12 13 15 16): 5.359663009643555	 ([grow][4][year,][giving][reserve][room][continue][raising][interest][measured][pace,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.33426284790039	 ([us][economy][grow][4][percent][next][year,][giving][federal][reserve][room][continue][raising][interest][rates][measured][pace,][philadelphia])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 12.806678771972656, EP: 1.0	 ([us][economy][grow][4][percent][next][year,][giving][federal][reserve][room][continue][raising][interest][rates][measured][pace,][philadelphia])
+v(0 1 3 4 5 6 8 10 14 16 17): 12.781038284301758, EP: 0.9979978799819946	 ([us][economy][4][percent][next][year,][federal][room][rates][pace,][philadelphia])
+v(0 1 4 5 8 14 17): 12.571685791015625, EP: 0.9816507697105408	 ([us][economy][percent][next][federal][rates][philadelphia])
+v(0 1 2 4 5 7 8 9 11 12 13 14 15 17): 12.508347511291504, EP: 0.976705014705658	 ([us][economy][grow][percent][next][giving][federal][reserve][continue][raising][interest][rates][measured][philadelphia])
+v(2 7 9 11 12 13 15): 10.415443420410156, EP: 0.8132821917533875	 ([grow][giving][reserve][continue][raising][interest][measured])
+v(2 3 6 7 9 10 11 12 13 15 16): 9.83207893371582, EP: 0.7677305936813354	 ([grow][4][year,][giving][reserve][room][continue][raising][interest][measured][pace,])
+v(3 6 10 16): -2.467733860015869, EP: -0.1926911622285843	 ([4][year,][room][pace,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

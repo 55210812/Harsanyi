@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 19:42:11
+prompt: [CLS] paris, france - - europe # 39 ; s first mission to the moon has successfully entered lunar orbit, a key milestone in its 13 - month trip into space. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3000 decoded_text: paris
+idx:2 input_id:1010 decoded_text: ,
+idx:3 input_id:2605 decoded_text: france
+idx:4 input_id:1011 decoded_text: -
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:2885 decoded_text: europe
+idx:7 input_id:1001 decoded_text: #
+idx:8 input_id:4464 decoded_text: 39
+idx:9 input_id:1025 decoded_text: ;
+idx:10 input_id:1055 decoded_text: s
+idx:11 input_id:2034 decoded_text: first
+idx:12 input_id:3260 decoded_text: mission
+idx:13 input_id:2000 decoded_text: to
+idx:14 input_id:1996 decoded_text: the
+idx:15 input_id:4231 decoded_text: moon
+idx:16 input_id:2038 decoded_text: has
+idx:17 input_id:5147 decoded_text: successfully
+idx:18 input_id:3133 decoded_text: entered
+idx:19 input_id:11926 decoded_text: lunar
+idx:20 input_id:8753 decoded_text: orbit
+idx:21 input_id:1010 decoded_text: ,
+idx:22 input_id:1037 decoded_text: a
+idx:23 input_id:3145 decoded_text: key
+idx:24 input_id:19199 decoded_text: milestone
+idx:25 input_id:1999 decoded_text: in
+idx:26 input_id:2049 decoded_text: its
+idx:27 input_id:2410 decoded_text: 13
+idx:28 input_id:1011 decoded_text: -
+idx:29 input_id:3204 decoded_text: month
+idx:30 input_id:4440 decoded_text: trip
+idx:31 input_id:2046 decoded_text: into
+idx:32 input_id:2686 decoded_text: space
+idx:33 input_id:1012 decoded_text: .
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[1.0769155025482178, -3.1186342239379883, -3.868381977081299, 5.8621439933776855]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: negotiations
+Player 3: austrian
+Player 4: privatisation
+Player 5: agency
+Player 6: oeiag
+Player 7: swiss
+Player 8: telecommunications
+Player 9: group
+Player 10: swisscom
+Player 11: stake
+Player 12: telekom
+Player 13: austria
+Player 14: ended
+Player 15: without
+Player 16: deal,
+Player 17: oeiag
+Player 18: said
+Player 19: statement.
+---------- Rewards ----------
+v(): -5.313974857330322	 ([])
+v(0 1 3 5 7 11 13): 3.301781177520752	 ([afp][-][austrian][agency][swiss][stake][austria])
+v(4 8 10 12 14): -7.544251441955566	 ([privatisation][telecommunications][swisscom][telekom][ended])
+v(2 6 9 15 16 17 18 19): -2.4865853786468506	 ([negotiations][oeiag][group][without][deal,][oeiag][said][statement.])
+v(0 1 3 4 5 7 8 10 11 12 13 14): -6.306117057800293	 ([afp][-][austrian][privatisation][agency][swiss][telecommunications][swisscom][stake][telekom][austria][ended])
+v(0 1 2 3 5 6 7 9 11 13 15 16 17 18 19): -2.8870959281921387	 ([afp][-][negotiations][austrian][agency][oeiag][swiss][group][stake][austria][without][deal,][oeiag][said][statement.])
+v(2 4 6 8 9 10 12 14 15 16 17 18 19): -7.63306999206543	 ([negotiations][privatisation][oeiag][telecommunications][group][swisscom][telekom][ended][without][deal,][oeiag][said][statement.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): -5.414819717407227	 ([afp][-][negotiations][austrian][privatisation][agency][oeiag][swiss][telecommunications][group][swisscom][stake][telekom][austria][ended][without][deal,][oeiag][said][statement.])
+---------- Rewards-v() ----------
+v(0 1 3 5 7 11 13): 8.615756034851074, EP: -85.43574523925781	 ([afp][-][austrian][agency][swiss][stake][austria])
+v(2 6 9 15 16 17 18 19): 2.8273894786834717, EP: -28.03702163696289	 ([negotiations][oeiag][group][without][deal,][oeiag][said][statement.])
+v(0 1 2 3 5 6 7 9 11 13 15 16 17 18 19): 2.4268789291381836, EP: -24.06546974182129	 ([afp][-][negotiations][austrian][agency][oeiag][swiss][group][stake][austria][without][deal,][oeiag][said][statement.])
+v(2 4 6 8 9 10 12 14 15 16 17 18 19): -2.3190951347351074, EP: 22.996662139892578	 ([negotiations][privatisation][oeiag][telecommunications][group][swisscom][telekom][ended][without][deal,][oeiag][said][statement.])
+v(4 8 10 12 14): -2.230276584625244, EP: 22.115917205810547	 ([privatisation][telecommunications][swisscom][telekom][ended])
+v(0 1 3 4 5 7 8 10 11 12 13 14): -0.9921422004699707, EP: 9.838301658630371	 ([afp][-][austrian][privatisation][agency][swiss][telecommunications][swisscom][stake][telekom][austria][ended])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): -0.1008448600769043, EP: 1.0	 ([afp][-][negotiations][austrian][privatisation][agency][oeiag][swiss][telecommunications][group][swisscom][stake][telekom][austria][ended][without][deal,][oeiag][said][statement.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

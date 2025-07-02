@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: scientists
+Player 1: united
+Player 2: states
+Player 3: find
+Player 4: way
+Player 5: turn
+Player 6: lazy
+Player 7: monkeys
+Player 8: workaholics
+Player 9: using
+Player 10: gene
+Player 11: therapy.
+---------- Rewards ----------
+v(): 5.140486717224121	 ([])
+v(5 6 8 9 11): 6.675473213195801	 ([turn][lazy][workaholics][using][therapy.])
+v(1 2 3 4): 5.088438510894775	 ([united][states][find][way])
+v(0 7 10): 7.825496673583984	 ([scientists][monkeys][gene])
+v(1 2 3 4 5 6 8 9 11): 6.8597869873046875	 ([united][states][find][way][turn][lazy][workaholics][using][therapy.])
+v(0 5 6 7 8 9 10 11): 7.439255237579346	 ([scientists][turn][lazy][monkeys][workaholics][using][gene][therapy.])
+v(0 1 2 3 4 7 10): 7.657003402709961	 ([scientists][united][states][find][way][monkeys][gene])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 1.2067437171936035	 ([scientists][united][states][find][way][turn][lazy][monkeys][workaholics][using][gene][therapy.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11): -3.9337430000305176, EP: 1.0	 ([scientists][united][states][find][way][turn][lazy][monkeys][workaholics][using][gene][therapy.])
+v(0 7 10): 2.6850099563598633, EP: -0.682558536529541	 ([scientists][monkeys][gene])
+v(0 1 2 3 4 7 10): 2.51651668548584, EP: -0.6397257447242737	 ([scientists][united][states][find][way][monkeys][gene])
+v(0 5 6 7 8 9 10 11): 2.2987685203552246, EP: -0.58437180519104	 ([scientists][turn][lazy][monkeys][workaholics][using][gene][therapy.])
+v(1 2 3 4 5 6 8 9 11): 1.7193002700805664, EP: -0.4370647072792053	 ([united][states][find][way][turn][lazy][workaholics][using][therapy.])
+v(5 6 8 9 11): 1.5349864959716797, EP: -0.3902101516723633	 ([turn][lazy][workaholics][using][therapy.])
+v(1 2 3 4): -0.0520482063293457, EP: 0.013231216929852962	 ([united][states][find][way])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

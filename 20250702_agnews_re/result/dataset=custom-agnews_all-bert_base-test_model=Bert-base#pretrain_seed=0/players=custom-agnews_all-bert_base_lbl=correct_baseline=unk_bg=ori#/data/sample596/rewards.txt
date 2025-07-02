@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: connecticut
+Player 1: sun
+Player 2: point
+Player 3: guard
+Player 4: lindsay
+Player 5: whalen
+Player 6: drove
+Player 7: baseline
+Player 8: kicked
+Player 9: ball
+Player 10: nykesha
+Player 11: sales
+Player 12: top
+Player 13: key.
+Player 14: sales
+Player 15: let
+Player 16: 3 - pointer
+---------- Rewards ----------
+v(): -2.542368173599243	 ([])
+v(9 12 16): 8.075678825378418	 ([ball][top][3 - pointer])
+v(1 2 3 4 5 13 14): 7.087567329406738	 ([sun][point][guard][lindsay][whalen][key.][sales])
+v(0 6 7 8 10 11 15): 5.783971786499023	 ([connecticut][drove][baseline][kicked][nykesha][sales][let])
+v(1 2 3 4 5 9 12 13 14 16): 9.714017868041992	 ([sun][point][guard][lindsay][whalen][ball][top][key.][sales][3 - pointer])
+v(0 6 7 8 9 10 11 12 15 16): 9.504111289978027	 ([connecticut][drove][baseline][kicked][ball][nykesha][sales][top][let][3 - pointer])
+v(0 1 2 3 4 5 6 7 8 10 11 13 14 15): 9.750406265258789	 ([connecticut][sun][point][guard][lindsay][whalen][drove][baseline][kicked][nykesha][sales][key.][sales][let])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.503030776977539	 ([connecticut][sun][point][guard][lindsay][whalen][drove][baseline][kicked][ball][nykesha][sales][top][key.][sales][let][3 - pointer])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 10 11 13 14 15): 12.292774200439453, EP: 1.0205368995666504	 ([connecticut][sun][point][guard][lindsay][whalen][drove][baseline][kicked][nykesha][sales][key.][sales][let])
+v(1 2 3 4 5 9 12 13 14 16): 12.256385803222656, EP: 1.017516016960144	 ([sun][point][guard][lindsay][whalen][ball][top][key.][sales][3 - pointer])
+v(0 6 7 8 9 10 11 12 15 16): 12.046479225158691, EP: 1.0000896453857422	 ([connecticut][drove][baseline][kicked][ball][nykesha][sales][top][let][3 - pointer])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 12.045398712158203, EP: 1.0	 ([connecticut][sun][point][guard][lindsay][whalen][drove][baseline][kicked][ball][nykesha][sales][top][key.][sales][let][3 - pointer])
+v(9 12 16): 10.618046760559082, EP: 0.8815023303031921	 ([ball][top][3 - pointer])
+v(1 2 3 4 5 13 14): 9.629935264587402, EP: 0.7994700074195862	 ([sun][point][guard][lindsay][whalen][key.][sales])
+v(0 6 7 8 10 11 15): 8.326339721679688, EP: 0.691246509552002	 ([connecticut][drove][baseline][kicked][nykesha][sales][let])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

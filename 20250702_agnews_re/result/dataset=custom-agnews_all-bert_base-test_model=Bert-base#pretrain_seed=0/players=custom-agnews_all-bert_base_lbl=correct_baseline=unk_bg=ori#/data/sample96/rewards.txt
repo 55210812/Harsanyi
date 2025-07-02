@@ -1,0 +1,27 @@
+---------- Players ----------
+Player 0: late
+Player 1: goals
+Player 2: christian
+Player 3: vieri
+Player 4: adriano
+Player 5: brought
+Player 6: inter
+Player 7: two
+Player 8: grab
+Player 9: point
+Player 10: 2 - 2
+Player 11: draw
+Player 12: leaders
+Player 13: juventus
+Player 14: sunday.
+---------- Rewards ----------
+v(): -4.993821620941162	 ([])
+v(2 3 4 7 12 14): -6.867191791534424	 ([christian][vieri][adriano][two][leaders][sunday.])
+v(0 1 5 6 8 9 10 11 13): 8.885178565979004	 ([late][goals][brought][inter][grab][point][2 - 2][draw][juventus])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 8.884271621704102	 ([late][goals][christian][vieri][adriano][brought][inter][two][grab][point][2 - 2][draw][leaders][juventus][sunday.])
+---------- Rewards-v() ----------
+v(0 1 5 6 8 9 10 11 13): 13.878999710083008, EP: 1.0000653266906738	 ([late][goals][brought][inter][grab][point][2 - 2][draw][juventus])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 13.878093719482422, EP: 1.0	 ([late][goals][christian][vieri][adriano][brought][inter][two][grab][point][2 - 2][draw][leaders][juventus][sunday.])
+v(2 3 4 7 12 14): -1.8733701705932617, EP: -0.13498757779598236	 ([christian][vieri][adriano][two][leaders][sunday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

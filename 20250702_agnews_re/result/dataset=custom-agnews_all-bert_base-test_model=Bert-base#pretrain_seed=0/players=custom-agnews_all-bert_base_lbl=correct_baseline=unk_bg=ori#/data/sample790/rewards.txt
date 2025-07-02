@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: democratic
+Player 3: vice
+Player 4: presidential
+Player 5: nominee
+Player 6: john
+Player 7: edwards
+Player 8: said
+Player 9: sunday
+Player 10: kerry - edwards
+Player 11: administration
+Player 12: would
+Player 13: show
+Player 14: mercy
+Player 15: terrorists.
+---------- Rewards ----------
+v(): -5.6978912353515625	 ([])
+v(2 7 15): 5.508878231048584	 ([democratic][edwards][terrorists.])
+v(0 4 5 6): 7.940356254577637	 ([ap][presidential][nominee][john])
+v(1 3 8 9 10 11 12 13 14): 8.288254737854004	 ([-][vice][said][sunday][kerry - edwards][administration][would][show][mercy])
+v(0 2 4 5 6 7 15): 7.937463283538818	 ([ap][democratic][presidential][nominee][john][edwards][terrorists.])
+v(1 2 3 7 8 9 10 11 12 13 14 15): 7.830539703369141	 ([-][democratic][vice][edwards][said][sunday][kerry - edwards][administration][would][show][mercy][terrorists.])
+v(0 1 3 4 5 6 8 9 10 11 12 13 14): 7.9160966873168945	 ([ap][-][vice][presidential][nominee][john][said][sunday][kerry - edwards][administration][would][show][mercy])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.912978649139404	 ([ap][-][democratic][vice][presidential][nominee][john][edwards][said][sunday][kerry - edwards][administration][would][show][mercy][terrorists.])
+---------- Rewards-v() ----------
+v(1 3 8 9 10 11 12 13 14): 13.986145973205566, EP: 1.0275717973709106	 ([-][vice][said][sunday][kerry - edwards][administration][would][show][mercy])
+v(0 4 5 6): 13.6382474899292, EP: 1.0020114183425903	 ([ap][presidential][nominee][john])
+v(0 2 4 5 6 7 15): 13.635354995727539, EP: 1.0017988681793213	 ([ap][democratic][presidential][nominee][john][edwards][terrorists.])
+v(0 1 3 4 5 6 8 9 10 11 12 13 14): 13.613987922668457, EP: 1.000229001045227	 ([ap][-][vice][presidential][nominee][john][said][sunday][kerry - edwards][administration][would][show][mercy])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 13.610870361328125, EP: 1.0	 ([ap][-][democratic][vice][presidential][nominee][john][edwards][said][sunday][kerry - edwards][administration][would][show][mercy][terrorists.])
+v(1 2 3 7 8 9 10 11 12 13 14 15): 13.528430938720703, EP: 0.9939430952072144	 ([-][democratic][vice][edwards][said][sunday][kerry - edwards][administration][would][show][mercy][terrorists.])
+v(2 7 15): 11.206769943237305, EP: 0.8233690857887268	 ([democratic][edwards][terrorists.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

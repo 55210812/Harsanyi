@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: continuing
+Player 1: roll - out
+Player 2: windows
+Player 3: xp
+Player 4: service
+Player 5: pack
+Player 6: 2
+Player 7: ( sp2 ),
+Player 8: microsoft
+Player 9: corp.
+Player 10: wednesday
+Player 11: began
+Player 12: pushing
+Player 13: security - focused
+Player 14: update
+Player 15: pcs
+Player 16: running
+Player 17: windows
+Player 18: xp
+Player 19: professional
+Player 20: edition
+---------- Rewards ----------
+v(): 4.071517467498779	 ([])
+v(0 1 12 15 16 17 18 19): 7.13657808303833	 ([continuing][roll - out][pushing][pcs][running][windows][xp][professional])
+v(8 9 10 11 13 14 20): -0.11287379264831543	 ([microsoft][corp.][wednesday][began][security - focused][update][edition])
+v(2 3 4 5 6 7): 8.042658805847168	 ([windows][xp][service][pack][2][( sp2 ),])
+v(0 1 8 9 10 11 12 13 14 15 16 17 18 19 20): 4.877310276031494	 ([continuing][roll - out][microsoft][corp.][wednesday][began][pushing][security - focused][update][pcs][running][windows][xp][professional][edition])
+v(0 1 2 3 4 5 6 7 12 15 16 17 18 19): 7.9861249923706055	 ([continuing][roll - out][windows][xp][service][pack][2][( sp2 ),][pushing][pcs][running][windows][xp][professional])
+v(2 3 4 5 6 7 8 9 10 11 13 14 20): 7.96107292175293	 ([windows][xp][service][pack][2][( sp2 ),][microsoft][corp.][wednesday][began][security - focused][update][edition])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.406158924102783	 ([continuing][roll - out][windows][xp][service][pack][2][( sp2 ),][microsoft][corp.][wednesday][began][pushing][security - focused][update][pcs][running][windows][xp][professional][edition])
+---------- Rewards-v() ----------
+v(8 9 10 11 13 14 20): -4.184391021728516, EP: -1.2548248767852783	 ([microsoft][corp.][wednesday][began][security - focused][update][edition])
+v(2 3 4 5 6 7): 3.9711413383483887, EP: 1.1908750534057617	 ([windows][xp][service][pack][2][( sp2 ),])
+v(0 1 2 3 4 5 6 7 12 15 16 17 18 19): 3.914607524871826, EP: 1.1739215850830078	 ([continuing][roll - out][windows][xp][service][pack][2][( sp2 ),][pushing][pcs][running][windows][xp][professional])
+v(2 3 4 5 6 7 8 9 10 11 13 14 20): 3.8895554542541504, EP: 1.166408896446228	 ([windows][xp][service][pack][2][( sp2 ),][microsoft][corp.][wednesday][began][security - focused][update][edition])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 3.334641456604004, EP: 1.0	 ([continuing][roll - out][windows][xp][service][pack][2][( sp2 ),][microsoft][corp.][wednesday][began][pushing][security - focused][update][pcs][running][windows][xp][professional][edition])
+v(0 1 12 15 16 17 18 19): 3.065060615539551, EP: 0.9191574454307556	 ([continuing][roll - out][pushing][pcs][running][windows][xp][professional])
+v(0 1 8 9 10 11 12 13 14 15 16 17 18 19 20): 0.8057928085327148, EP: 0.2416430115699768	 ([continuing][roll - out][microsoft][corp.][wednesday][began][pushing][security - focused][update][pcs][running][windows][xp][professional][edition])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

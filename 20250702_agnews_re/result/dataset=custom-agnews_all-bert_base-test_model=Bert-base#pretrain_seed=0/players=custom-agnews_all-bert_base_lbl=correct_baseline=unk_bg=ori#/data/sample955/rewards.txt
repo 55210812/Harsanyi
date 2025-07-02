@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: japanese
+Player 1: prime
+Player 2: minister
+Player 3: junichiro
+Player 4: koizumi
+Player 5: traveled
+Player 6: new
+Player 7: york
+Player 8: early
+Player 9: week
+Player 10: address
+Player 11: united
+Player 12: nations
+Player 13: general
+Player 14: assembly,
+Player 15: objective
+Player 16: clear :
+Player 17: pitch
+Player 18: un
+Player 19: reforms
+Player 20: would
+---------- Rewards ----------
+v(): -5.66795539855957	 ([])
+v(1 8 10 11 12 13 14): 7.6625285148620605	 ([prime][early][address][united][nations][general][assembly,])
+v(0 2 3 4 5 6 7 9 17 18): -0.6732115745544434	 ([japanese][minister][junichiro][koizumi][traveled][new][york][week][pitch][un])
+v(15 16 19 20): 4.838615417480469	 ([objective][clear :][reforms][would])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 17 18): 7.962944984436035	 ([japanese][prime][minister][junichiro][koizumi][traveled][new][york][early][week][address][united][nations][general][assembly,][pitch][un])
+v(1 8 10 11 12 13 14 15 16 19 20): 7.972872734069824	 ([prime][early][address][united][nations][general][assembly,][objective][clear :][reforms][would])
+v(0 2 3 4 5 6 7 9 15 16 17 18 19 20): 7.7778706550598145	 ([japanese][minister][junichiro][koizumi][traveled][new][york][week][objective][clear :][pitch][un][reforms][would])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.141803741455078	 ([japanese][prime][minister][junichiro][koizumi][traveled][new][york][early][week][address][united][nations][general][assembly,][objective][clear :][pitch][un][reforms][would])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.809759140014648, EP: 1.0	 ([japanese][prime][minister][junichiro][koizumi][traveled][new][york][early][week][address][united][nations][general][assembly,][objective][clear :][pitch][un][reforms][would])
+v(1 8 10 11 12 13 14 15 16 19 20): 13.640828132629395, EP: 0.9877672791481018	 ([prime][early][address][united][nations][general][assembly,][objective][clear :][reforms][would])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 17 18): 13.630900382995605, EP: 0.9870483875274658	 ([japanese][prime][minister][junichiro][koizumi][traveled][new][york][early][week][address][united][nations][general][assembly,][pitch][un])
+v(0 2 3 4 5 6 7 9 15 16 17 18 19 20): 13.445825576782227, EP: 0.9736466407775879	 ([japanese][minister][junichiro][koizumi][traveled][new][york][week][objective][clear :][pitch][un][reforms][would])
+v(1 8 10 11 12 13 14): 13.330484390258789, EP: 0.9652944803237915	 ([prime][early][address][united][nations][general][assembly,])
+v(15 16 19 20): 10.506570816040039, EP: 0.7608076930046082	 ([objective][clear :][reforms][would])
+v(0 2 3 4 5 6 7 9 17 18): 4.994743824005127, EP: 0.3616821765899658	 ([japanese][minister][junichiro][koizumi][traveled][new][york][week][pitch][un])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

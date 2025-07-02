@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 19:25:19
+prompt: [CLS] a suit against a large hedge fund filed by carl c. icahn, the billionaire financier, could shine a bright light on the largely unregulated hedge fund industry. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:4848 decoded_text: suit
+idx:3 input_id:2114 decoded_text: against
+idx:4 input_id:1037 decoded_text: a
+idx:5 input_id:2312 decoded_text: large
+idx:6 input_id:17834 decoded_text: hedge
+idx:7 input_id:4636 decoded_text: fund
+idx:8 input_id:6406 decoded_text: filed
+idx:9 input_id:2011 decoded_text: by
+idx:10 input_id:5529 decoded_text: carl
+idx:11 input_id:1039 decoded_text: c
+idx:12 input_id:1012 decoded_text: .
+idx:13 input_id:24582 decoded_text: ic
+idx:14 input_id:4430 decoded_text: ##ah
+idx:15 input_id:2078 decoded_text: ##n
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:22301 decoded_text: billionaire
+idx:19 input_id:10346 decoded_text: fin
+idx:20 input_id:2319 decoded_text: ##an
+idx:21 input_id:19562 decoded_text: ##cier
+idx:22 input_id:1010 decoded_text: ,
+idx:23 input_id:2071 decoded_text: could
+idx:24 input_id:12342 decoded_text: shine
+idx:25 input_id:1037 decoded_text: a
+idx:26 input_id:4408 decoded_text: bright
+idx:27 input_id:2422 decoded_text: light
+idx:28 input_id:2006 decoded_text: on
+idx:29 input_id:1996 decoded_text: the
+idx:30 input_id:4321 decoded_text: largely
+idx:31 input_id:4895 decoded_text: un
+idx:32 input_id:2890 decoded_text: ##re
+idx:33 input_id:24848 decoded_text: ##gul
+idx:34 input_id:4383 decoded_text: ##ated
+idx:35 input_id:17834 decoded_text: hedge
+idx:36 input_id:4636 decoded_text: fund
+idx:37 input_id:3068 decoded_text: industry
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.5851072072982788, -4.206553936004639, 6.102741241455078, -2.3907458782196045]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: protesters
+Player 1: kathmandu
+Player 2: expressed
+Player 3: disbelief
+Player 4: frustration
+Player 5: learning
+Player 6: deaths
+Player 7: 12
+Player 8: nepalese
+Player 9: hostages
+Player 10: iraq.
+Player 11: nepal
+Player 12: # 39 ; s
+Player 13: ambassador
+Player 14: qatar,
+Player 15: somananda
+Player 16: suman,
+Player 17: confirmed
+---------- Rewards ----------
+v(): -7.077936172485352	 ([])
+v(0 9 13 14): 8.103107452392578	 ([protesters][hostages][ambassador][qatar,])
+v(1 2 3 4 8 10 11): 7.781704425811768	 ([kathmandu][expressed][disbelief][frustration][nepalese][iraq.][nepal])
+v(5 6 7 12 15 16 17): 5.684015274047852	 ([learning][deaths][12][# 39 ; s][somananda][suman,][confirmed])
+v(0 1 2 3 4 8 9 10 11 13 14): 8.54001522064209	 ([protesters][kathmandu][expressed][disbelief][frustration][nepalese][hostages][iraq.][nepal][ambassador][qatar,])
+v(0 5 6 7 9 12 13 14 15 16 17): 7.806034564971924	 ([protesters][learning][deaths][12][hostages][# 39 ; s][ambassador][qatar,][somananda][suman,][confirmed])
+v(1 2 3 4 5 6 7 8 10 11 12 15 16 17): 6.78491735458374	 ([kathmandu][expressed][disbelief][frustration][learning][deaths][12][nepalese][iraq.][nepal][# 39 ; s][somananda][suman,][confirmed])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 7.747393608093262	 ([protesters][kathmandu][expressed][disbelief][frustration][learning][deaths][12][nepalese][hostages][iraq.][nepal][# 39 ; s][ambassador][qatar,][somananda][suman,][confirmed])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 8 9 10 11 13 14): 15.617951393127441, EP: 1.0534640550613403	 ([protesters][kathmandu][expressed][disbelief][frustration][nepalese][hostages][iraq.][nepal][ambassador][qatar,])
+v(0 9 13 14): 15.18104362487793, EP: 1.0239936113357544	 ([protesters][hostages][ambassador][qatar,])
+v(0 5 6 7 9 12 13 14 15 16 17): 14.883970260620117, EP: 1.0039554834365845	 ([protesters][learning][deaths][12][hostages][# 39 ; s][ambassador][qatar,][somananda][suman,][confirmed])
+v(1 2 3 4 8 10 11): 14.859640121459961, EP: 1.0023143291473389	 ([kathmandu][expressed][disbelief][frustration][nepalese][iraq.][nepal])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 14.825329780578613, EP: 1.0	 ([protesters][kathmandu][expressed][disbelief][frustration][learning][deaths][12][nepalese][hostages][iraq.][nepal][# 39 ; s][ambassador][qatar,][somananda][suman,][confirmed])
+v(1 2 3 4 5 6 7 8 10 11 12 15 16 17): 13.86285400390625, EP: 0.9350789785385132	 ([kathmandu][expressed][disbelief][frustration][learning][deaths][12][nepalese][iraq.][nepal][# 39 ; s][somananda][suman,][confirmed])
+v(5 6 7 12 15 16 17): 12.761951446533203, EP: 0.8608207702636719	 ([learning][deaths][12][# 39 ; s][somananda][suman,][confirmed])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

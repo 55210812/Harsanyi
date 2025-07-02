@@ -1,0 +1,54 @@
+Execution time: 2025-07-02 19:30:01
+prompt: [CLS] 22 august 2004 - - the us - led coalition forces said that troops fired on a truck that attempted to run through a joint afghan national army and coalition checkpoint near ghazni, killing three and wounding two others. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2570 decoded_text: 22
+idx:2 input_id:2257 decoded_text: august
+idx:3 input_id:2432 decoded_text: 2004
+idx:4 input_id:1011 decoded_text: -
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:2149 decoded_text: us
+idx:8 input_id:1011 decoded_text: -
+idx:9 input_id:2419 decoded_text: led
+idx:10 input_id:6056 decoded_text: coalition
+idx:11 input_id:2749 decoded_text: forces
+idx:12 input_id:2056 decoded_text: said
+idx:13 input_id:2008 decoded_text: that
+idx:14 input_id:3629 decoded_text: troops
+idx:15 input_id:5045 decoded_text: fired
+idx:16 input_id:2006 decoded_text: on
+idx:17 input_id:1037 decoded_text: a
+idx:18 input_id:4744 decoded_text: truck
+idx:19 input_id:2008 decoded_text: that
+idx:20 input_id:4692 decoded_text: attempted
+idx:21 input_id:2000 decoded_text: to
+idx:22 input_id:2448 decoded_text: run
+idx:23 input_id:2083 decoded_text: through
+idx:24 input_id:1037 decoded_text: a
+idx:25 input_id:4101 decoded_text: joint
+idx:26 input_id:12632 decoded_text: afghan
+idx:27 input_id:2120 decoded_text: national
+idx:28 input_id:2390 decoded_text: army
+idx:29 input_id:1998 decoded_text: and
+idx:30 input_id:6056 decoded_text: coalition
+idx:31 input_id:26520 decoded_text: checkpoint
+idx:32 input_id:2379 decoded_text: near
+idx:33 input_id:1043 decoded_text: g
+idx:34 input_id:3270 decoded_text: ##ha
+idx:35 input_id:2480 decoded_text: ##z
+idx:36 input_id:3490 decoded_text: ##ni
+idx:37 input_id:1010 decoded_text: ,
+idx:38 input_id:4288 decoded_text: killing
+idx:39 input_id:2093 decoded_text: three
+idx:40 input_id:1998 decoded_text: and
+idx:41 input_id:27285 decoded_text: wounding
+idx:42 input_id:2048 decoded_text: two
+idx:43 input_id:2500 decoded_text: others
+idx:44 input_id:1012 decoded_text: .
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.003930568695068, -1.4480546712875366, -2.6759514808654785, -2.495774507522583]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

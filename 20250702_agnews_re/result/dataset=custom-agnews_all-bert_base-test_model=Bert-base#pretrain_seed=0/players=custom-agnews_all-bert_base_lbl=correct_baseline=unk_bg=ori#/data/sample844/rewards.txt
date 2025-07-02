@@ -1,0 +1,29 @@
+---------- Players ----------
+Player 0: series
+Player 1: events
+Player 2: strung
+Player 3: together,
+Player 4: rumors
+Player 5: google
+Player 6: building
+Player 7: browser
+Player 8: running
+Player 9: amok.
+Player 10: speculation
+Player 11: google
+Player 12: browser
+Player 13: intensified
+Player 14: recent
+Player 15: hiring
+Player 16: spree.
+---------- Rewards ----------
+v(): 4.559895038604736	 ([])
+v(7 11 12 15 16): 8.326818466186523	 ([browser][google][browser][hiring][spree.])
+v(0 1 2 3 4 5 6 8 9 10 13 14): 2.072614908218384	 ([series][events][strung][together,][rumors][google][building][running][amok.][speculation][intensified][recent])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.8784685134887695	 ([series][events][strung][together,][rumors][google][building][browser][running][amok.][speculation][google][browser][intensified][recent][hiring][spree.])
+---------- Rewards-v() ----------
+v(7 11 12 15 16): 3.766923427581787, EP: 1.1351032257080078	 ([browser][google][browser][hiring][spree.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 3.318573474884033, EP: 1.0	 ([series][events][strung][together,][rumors][google][building][browser][running][amok.][speculation][google][browser][intensified][recent][hiring][spree.])
+v(0 1 2 3 4 5 6 8 9 10 13 14): -2.4872801303863525, EP: -0.7495027780532837	 ([series][events][strung][together,][rumors][google][building][running][amok.][speculation][intensified][recent])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

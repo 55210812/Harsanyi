@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: u. s.
+Player 3: economy
+Player 4: expanded
+Player 5: 3. 7 \ percent
+Player 6: annual
+Player 7: rate
+Player 8: third
+Player 9: quarter,
+Player 10: expectations \ but
+Player 11: still
+Player 12: bolstered
+Player 13: healthy
+Player 14: consumer
+Player 15: spending
+Player 16: was \ accompanied
+Player 17: lowest
+Player 18: inflation
+Player 19: decades,
+Player 20: commerce \ department
+Player 21: said
+Player 22: friday.
+---------- Rewards ----------
+v(): -3.916193723678589	 ([])
+v(0 1 2 3 6 10 15 18 20 22): 8.353540420532227	 ([reuters][-][u. s.][economy][annual][expectations \ but][spending][inflation][commerce \ department][friday.])
+v(4 5 7 17 19 21): 4.9500532150268555	 ([expanded][3. 7 \ percent][rate][lowest][decades,][said])
+v(8 9 11 12 13 14 16): 2.724860429763794	 ([third][quarter,][still][bolstered][healthy][consumer][was \ accompanied])
+v(0 1 2 3 4 5 6 7 10 15 17 18 19 20 21 22): 8.358179092407227	 ([reuters][-][u. s.][economy][expanded][3. 7 \ percent][annual][rate][expectations \ but][spending][lowest][inflation][decades,][commerce \ department][said][friday.])
+v(0 1 2 3 6 8 9 10 11 12 13 14 15 16 18 20 22): 8.24474811553955	 ([reuters][-][u. s.][economy][annual][third][quarter,][expectations \ but][still][bolstered][healthy][consumer][spending][was \ accompanied][inflation][commerce \ department][friday.])
+v(4 5 7 8 9 11 12 13 14 16 17 19 21): 6.674216270446777	 ([expanded][3. 7 \ percent][rate][third][quarter,][still][bolstered][healthy][consumer][was \ accompanied][lowest][decades,][said])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.24345588684082	 ([reuters][-][u. s.][economy][expanded][3. 7 \ percent][annual][rate][third][quarter,][expectations \ but][still][bolstered][healthy][consumer][spending][was \ accompanied][lowest][inflation][decades,][commerce \ department][said][friday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 10 15 17 18 19 20 21 22): 12.274373054504395, EP: 1.009434700012207	 ([reuters][-][u. s.][economy][expanded][3. 7 \ percent][annual][rate][expectations \ but][spending][lowest][inflation][decades,][commerce \ department][said][friday.])
+v(0 1 2 3 6 10 15 18 20 22): 12.269734382629395, EP: 1.0090532302856445	 ([reuters][-][u. s.][economy][annual][expectations \ but][spending][inflation][commerce \ department][friday.])
+v(0 1 2 3 6 8 9 10 11 12 13 14 15 16 18 20 22): 12.160942077636719, EP: 1.0001062154769897	 ([reuters][-][u. s.][economy][annual][third][quarter,][expectations \ but][still][bolstered][healthy][consumer][spending][was \ accompanied][inflation][commerce \ department][friday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 12.159649848937988, EP: 1.0	 ([reuters][-][u. s.][economy][expanded][3. 7 \ percent][annual][rate][third][quarter,][expectations \ but][still][bolstered][healthy][consumer][spending][was \ accompanied][lowest][inflation][decades,][commerce \ department][said][friday.])
+v(4 5 7 8 9 11 12 13 14 16 17 19 21): 10.590410232543945, EP: 0.8709469437599182	 ([expanded][3. 7 \ percent][rate][third][quarter,][still][bolstered][healthy][consumer][was \ accompanied][lowest][decades,][said])
+v(4 5 7 17 19 21): 8.866247177124023, EP: 0.7291531562805176	 ([expanded][3. 7 \ percent][rate][lowest][decades,][said])
+v(8 9 11 12 13 14 16): 6.641054153442383, EP: 0.5461550354957581	 ([third][quarter,][still][bolstered][healthy][consumer][was \ accompanied])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

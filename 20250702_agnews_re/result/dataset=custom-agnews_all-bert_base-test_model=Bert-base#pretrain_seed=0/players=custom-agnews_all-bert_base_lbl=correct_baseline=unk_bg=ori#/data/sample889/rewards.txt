@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: fbi
+Player 1: seized
+Player 2: computers
+Player 3: software
+Player 4: part
+Player 5: investigation
+Player 6: illegal
+Player 7: sharing
+Player 8: copyrighted
+Player 9: materials
+Player 10: peer - to - peer
+Player 11: networks,
+Player 12: attorney
+Player 13: general
+Player 14: john
+Player 15: ashcroft
+Player 16: announced.
+---------- Rewards ----------
+v(): 4.996403694152832	 ([])
+v(0 2 3 5 7 8 9 10 11 12): 5.102055072784424	 ([fbi][computers][software][investigation][sharing][copyrighted][materials][peer - to - peer][networks,][attorney])
+v(1 4 6 16): -4.811624050140381	 ([seized][part][illegal][announced.])
+v(13 14 15): -7.1275200843811035	 ([general][john][ashcroft])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 16): 5.647643089294434	 ([fbi][seized][computers][software][part][investigation][illegal][sharing][copyrighted][materials][peer - to - peer][networks,][attorney][announced.])
+v(0 2 3 5 7 8 9 10 11 12 13 14 15): 6.4068217277526855	 ([fbi][computers][software][investigation][sharing][copyrighted][materials][peer - to - peer][networks,][attorney][general][john][ashcroft])
+v(1 4 6 13 14 15 16): -7.778992176055908	 ([seized][part][illegal][general][john][ashcroft][announced.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 4.953019618988037	 ([fbi][seized][computers][software][part][investigation][illegal][sharing][copyrighted][materials][peer - to - peer][networks,][attorney][general][john][ashcroft][announced.])
+---------- Rewards-v() ----------
+v(1 4 6 13 14 15 16): -12.775396347045898, EP: 294.4720153808594	 ([seized][part][illegal][general][john][ashcroft][announced.])
+v(13 14 15): -12.123924255371094, EP: 279.45562744140625	 ([general][john][ashcroft])
+v(1 4 6 16): -9.808027267456055, EP: 226.07437133789062	 ([seized][part][illegal][announced.])
+v(0 2 3 5 7 8 9 10 11 12 13 14 15): 1.4104180335998535, EP: -32.510040283203125	 ([fbi][computers][software][investigation][sharing][copyrighted][materials][peer - to - peer][networks,][attorney][general][john][ashcroft])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 16): 0.6512393951416016, EP: -15.011024475097656	 ([fbi][seized][computers][software][part][investigation][illegal][sharing][copyrighted][materials][peer - to - peer][networks,][attorney][announced.])
+v(0 2 3 5 7 8 9 10 11 12): 0.1056513786315918, EP: -2.4352571964263916	 ([fbi][computers][software][investigation][sharing][copyrighted][materials][peer - to - peer][networks,][attorney])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): -0.04338407516479492, EP: 1.0	 ([fbi][seized][computers][software][part][investigation][illegal][sharing][copyrighted][materials][peer - to - peer][networks,][attorney][general][john][ashcroft][announced.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

@@ -1,0 +1,49 @@
+---------- Players ----------
+Player 0: san
+Player 1: francisco
+Player 2: ( reuters )
+Player 3: -
+Player 4: web
+Player 5: search
+Player 6: leader
+Player 7: google
+Player 8: inc.
+Player 9: & lt ; a
+Player 10: href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o
+Player 11: target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;,
+Player 12: first
+Player 13: earnings
+Player 14: report
+Player 15: publicly
+Player 16: held
+Player 17: company,
+Player 18: thursday
+Player 19: posted
+Player 20: profit
+Player 21: \ $ 52. 0
+Player 22: million
+Player 23: third
+Player 24: quarter
+Player 25: strong
+Player 26: web
+Player 27: search
+Player 28: advertising.
+---------- Rewards ----------
+v(): -6.050654888153076	 ([])
+v(4 10 11 13 17 20 26): 8.537141799926758	 ([web][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;,][earnings][company,][profit][web])
+v(19 21 22 25 27): -8.793048858642578	 ([posted][\ $ 52. 0][million][strong][search])
+v(0 1 2 3 5 6 7 8 9 12 14 15 16 18 23 24 28): -0.29271864891052246	 ([san][francisco][( reuters )][-][search][leader][google][inc.][& lt ; a][first][report][publicly][held][thursday][third][quarter][advertising.])
+v(4 10 11 13 17 19 20 21 22 25 26 27): 8.54308032989502	 ([web][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;,][earnings][company,][posted][profit][\ $ 52. 0][million][strong][web][search])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 20 23 24 26 28): 8.441177368164062	 ([san][francisco][( reuters )][-][web][search][leader][google][inc.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;,][first][earnings][report][publicly][held][company,][thursday][profit][third][quarter][web][advertising.])
+v(0 1 2 3 5 6 7 8 9 12 14 15 16 18 19 21 22 23 24 25 27 28): -1.956131935119629	 ([san][francisco][( reuters )][-][search][leader][google][inc.][& lt ; a][first][report][publicly][held][thursday][posted][\ $ 52. 0][million][third][quarter][strong][search][advertising.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 8.425882339477539	 ([san][francisco][( reuters )][-][web][search][leader][google][inc.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;,][first][earnings][report][publicly][held][company,][thursday][posted][profit][\ $ 52. 0][million][third][quarter][strong][web][search][advertising.])
+---------- Rewards-v() ----------
+v(4 10 11 13 17 19 20 21 22 25 26 27): 14.593734741210938, EP: 1.008095622062683	 ([web][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;,][earnings][company,][posted][profit][\ $ 52. 0][million][strong][web][search])
+v(4 10 11 13 17 20 26): 14.587797164916992, EP: 1.0076855421066284	 ([web][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;,][earnings][company,][profit][web])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 20 23 24 26 28): 14.491832733154297, EP: 1.0010565519332886	 ([san][francisco][( reuters )][-][web][search][leader][google][inc.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;,][first][earnings][report][publicly][held][company,][thursday][profit][third][quarter][web][advertising.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28): 14.476537704467773, EP: 1.0	 ([san][francisco][( reuters )][-][web][search][leader][google][inc.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = goog. o][target = / stocks / quickinfo / fullquote " & gt ; goog. o & lt ; / a & gt ;,][first][earnings][report][publicly][held][company,][thursday][posted][profit][\ $ 52. 0][million][third][quarter][strong][web][search][advertising.])
+v(0 1 2 3 5 6 7 8 9 12 14 15 16 18 23 24 28): 5.757936477661133, EP: 0.3977426588535309	 ([san][francisco][( reuters )][-][search][leader][google][inc.][& lt ; a][first][report][publicly][held][thursday][third][quarter][advertising.])
+v(0 1 2 3 5 6 7 8 9 12 14 15 16 18 19 21 22 23 24 25 27 28): 4.094522953033447, EP: 0.2828385531902313	 ([san][francisco][( reuters )][-][search][leader][google][inc.][& lt ; a][first][report][publicly][held][thursday][posted][\ $ 52. 0][million][third][quarter][strong][search][advertising.])
+v(19 21 22 25 27): -2.742393970489502, EP: -0.1894371509552002	 ([posted][\ $ 52. 0][million][strong][search])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

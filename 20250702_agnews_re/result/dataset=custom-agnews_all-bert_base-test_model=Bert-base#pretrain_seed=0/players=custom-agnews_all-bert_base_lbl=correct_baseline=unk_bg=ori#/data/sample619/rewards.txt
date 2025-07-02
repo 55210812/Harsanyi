@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: london
+Player 1: -
+Player 2: team
+Player 3: calls
+Player 4: team
+Player 5: spirit
+Player 6: greatest
+Player 7: strength,
+Player 8: brawl
+Player 9: patrick
+Player 10: vieira
+Player 11: bisan
+Player 12: lauren
+Player 13: come
+Player 14: great
+Player 15: concern
+Player 16: manager
+Player 17: arsene
+Player 18: wenger.
+---------- Rewards ----------
+v(): -5.818666934967041	 ([])
+v(13 15 16 17 18): 9.750659942626953	 ([come][concern][manager][arsene][wenger.])
+v(0 1 2 4 8 12): 8.329079627990723	 ([london][-][team][team][brawl][lauren])
+v(3 5 6 7 9 10 11 14): 6.450316429138184	 ([calls][spirit][greatest][strength,][patrick][vieira][bisan][great])
+v(0 1 2 4 8 12 13 15 16 17 18): 9.71635913848877	 ([london][-][team][team][brawl][lauren][come][concern][manager][arsene][wenger.])
+v(3 5 6 7 9 10 11 13 14 15 16 17 18): 9.490889549255371	 ([calls][spirit][greatest][strength,][patrick][vieira][bisan][come][great][concern][manager][arsene][wenger.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14): 9.66185188293457	 ([london][-][team][calls][team][spirit][greatest][strength,][brawl][patrick][vieira][bisan][lauren][great])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.55820083618164	 ([london][-][team][calls][team][spirit][greatest][strength,][brawl][patrick][vieira][bisan][lauren][come][great][concern][manager][arsene][wenger.])
+---------- Rewards-v() ----------
+v(13 15 16 17 18): 15.569326400756836, EP: 1.0125161409378052	 ([come][concern][manager][arsene][wenger.])
+v(0 1 2 4 8 12 13 15 16 17 18): 15.535026550292969, EP: 1.010285496711731	 ([london][-][team][team][brawl][lauren][come][concern][manager][arsene][wenger.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14): 15.480518341064453, EP: 1.006740689277649	 ([london][-][team][calls][team][spirit][greatest][strength,][brawl][patrick][vieira][bisan][lauren][great])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 15.376867294311523, EP: 1.0	 ([london][-][team][calls][team][spirit][greatest][strength,][brawl][patrick][vieira][bisan][lauren][come][great][concern][manager][arsene][wenger.])
+v(3 5 6 7 9 10 11 13 14 15 16 17 18): 15.30955696105957, EP: 0.9956226348876953	 ([calls][spirit][greatest][strength,][patrick][vieira][bisan][come][great][concern][manager][arsene][wenger.])
+v(0 1 2 4 8 12): 14.147747039794922, EP: 0.9200669527053833	 ([london][-][team][team][brawl][lauren])
+v(3 5 6 7 9 10 11 14): 12.268983840942383, EP: 0.7978857755661011	 ([calls][spirit][greatest][strength,][patrick][vieira][bisan][great])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

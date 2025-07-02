@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: arsenal
+Player 1: defender
+Player 2: sol
+Player 3: campbell,
+Player 4: missed
+Player 5: past
+Player 6: two
+Player 7: games
+Player 8: achilles
+Player 9: injury,
+Player 10: ruled
+Player 11: three
+Player 12: weeks.
+---------- Rewards ----------
+v(): 0.904879093170166	 ([])
+v(6 7): 8.44441032409668	 ([two][games])
+v(3 8 9 10 12): 8.472073554992676	 ([campbell,][achilles][injury,][ruled][weeks.])
+v(0 1 2 4 5 11): 9.069968223571777	 ([arsenal][defender][sol][missed][past][three])
+v(3 6 7 8 9 10 12): 8.950407028198242	 ([campbell,][two][games][achilles][injury,][ruled][weeks.])
+v(0 1 2 4 5 6 7 11): 9.181259155273438	 ([arsenal][defender][sol][missed][past][two][games][three])
+v(0 1 2 3 4 5 8 9 10 11 12): 9.624924659729004	 ([arsenal][defender][sol][campbell,][missed][past][achilles][injury,][ruled][three][weeks.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 9.204065322875977	 ([arsenal][defender][sol][campbell,][missed][past][two][games][achilles][injury,][ruled][three][weeks.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 8 9 10 11 12): 8.72004508972168, EP: 1.0507107973098755	 ([arsenal][defender][sol][campbell,][missed][past][achilles][injury,][ruled][three][weeks.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 8.299186706542969, EP: 1.0	 ([arsenal][defender][sol][campbell,][missed][past][two][games][achilles][injury,][ruled][three][weeks.])
+v(0 1 2 4 5 6 7 11): 8.27638053894043, EP: 0.9972519874572754	 ([arsenal][defender][sol][missed][past][two][games][three])
+v(0 1 2 4 5 11): 8.165088653564453, EP: 0.9838420152664185	 ([arsenal][defender][sol][missed][past][three])
+v(3 6 7 8 9 10 12): 8.045528411865234, EP: 0.9694357514381409	 ([campbell,][two][games][achilles][injury,][ruled][weeks.])
+v(3 8 9 10 12): 7.56719446182251, EP: 0.9117995500564575	 ([campbell,][achilles][injury,][ruled][weeks.])
+v(6 7): 7.539531230926514, EP: 0.9084662795066833	 ([two][games])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

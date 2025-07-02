@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: barcelona
+Player 1: keeping
+Player 2: feet
+Player 3: ground
+Player 4: continuing
+Player 5: perfect
+Player 6: start
+Player 7: champions
+Player 8: league
+Player 9: group
+Player 10: f
+Player 11: stylish
+Player 12: 3 - 0
+Player 13: win
+Player 14: shakhtar
+Player 15: donetsk
+Player 16: wednesday.
+---------- Rewards ----------
+v(): -5.887557029724121	 ([])
+v(0 7 8 12 13 15): 9.386673927307129	 ([barcelona][champions][league][3 - 0][win][donetsk])
+v(1 2 3 4 5 6 11 14 16): 6.1616530418396	 ([keeping][feet][ground][continuing][perfect][start][stylish][shakhtar][wednesday.])
+v(9 10): -2.4752798080444336	 ([group][f])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14 15 16): 9.66679859161377	 ([barcelona][keeping][feet][ground][continuing][perfect][start][champions][league][stylish][3 - 0][win][shakhtar][donetsk][wednesday.])
+v(0 7 8 9 10 12 13 15): 9.674288749694824	 ([barcelona][champions][league][group][f][3 - 0][win][donetsk])
+v(1 2 3 4 5 6 9 10 11 14 16): 8.762574195861816	 ([keeping][feet][ground][continuing][perfect][start][group][f][stylish][shakhtar][wednesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.599382400512695	 ([barcelona][keeping][feet][ground][continuing][perfect][start][champions][league][group][f][stylish][3 - 0][win][shakhtar][donetsk][wednesday.])
+---------- Rewards-v() ----------
+v(0 7 8 9 10 12 13 15): 15.561845779418945, EP: 1.0048367977142334	 ([barcelona][champions][league][group][f][3 - 0][win][donetsk])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14 15 16): 15.55435562133789, EP: 1.0043530464172363	 ([barcelona][keeping][feet][ground][continuing][perfect][start][champions][league][stylish][3 - 0][win][shakhtar][donetsk][wednesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 15.486939430236816, EP: 1.0	 ([barcelona][keeping][feet][ground][continuing][perfect][start][champions][league][group][f][stylish][3 - 0][win][shakhtar][donetsk][wednesday.])
+v(0 7 8 12 13 15): 15.27423095703125, EP: 0.9862653017044067	 ([barcelona][champions][league][3 - 0][win][donetsk])
+v(1 2 3 4 5 6 9 10 11 14 16): 14.650131225585938, EP: 0.9459668397903442	 ([keeping][feet][ground][continuing][perfect][start][group][f][stylish][shakhtar][wednesday.])
+v(1 2 3 4 5 6 11 14 16): 12.049209594726562, EP: 0.7780239582061768	 ([keeping][feet][ground][continuing][perfect][start][stylish][shakhtar][wednesday.])
+v(9 10): 3.4122772216796875, EP: 0.2203325778245926	 ([group][f])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

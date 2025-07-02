@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: washington
+Player 1: ( reuters )
+Player 2: -
+Player 3: water - filled
+Player 4: yo - yo
+Player 5: balls
+Player 6: banned
+Player 7: united
+Player 8: states,
+Player 9: public
+Player 10: interest
+Player 11: group
+Player 12: said
+Player 13: tuesday
+Player 14: issued
+Player 15: annual
+Player 16: survey
+Player 17: hazardous
+Player 18: toys
+Player 19: holiday
+Player 20: season.
+---------- Rewards ----------
+v(): -5.640439987182617	 ([])
+v(1 2 9 10 11 13 16): 7.204024314880371	 ([( reuters )][-][public][interest][group][tuesday][survey])
+v(0 3 4 5 17 18): 6.074769973754883	 ([washington][water - filled][yo - yo][balls][hazardous][toys])
+v(6 7 8 12 14 15 19 20): 1.794992446899414	 ([banned][united][states,][said][issued][annual][holiday][season.])
+v(0 1 2 3 4 5 9 10 11 13 16 17 18): 6.884798526763916	 ([washington][( reuters )][-][water - filled][yo - yo][balls][public][interest][group][tuesday][survey][hazardous][toys])
+v(1 2 6 7 8 9 10 11 12 13 14 15 16 19 20): 7.0819091796875	 ([( reuters )][-][banned][united][states,][public][interest][group][said][tuesday][issued][annual][survey][holiday][season.])
+v(0 3 4 5 6 7 8 12 14 15 17 18 19 20): 7.272722244262695	 ([washington][water - filled][yo - yo][balls][banned][united][states,][said][issued][annual][hazardous][toys][holiday][season.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.649936676025391	 ([washington][( reuters )][-][water - filled][yo - yo][balls][banned][united][states,][public][interest][group][said][tuesday][issued][annual][survey][hazardous][toys][holiday][season.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.290376663208008, EP: 1.0	 ([washington][( reuters )][-][water - filled][yo - yo][balls][banned][united][states,][public][interest][group][said][tuesday][issued][annual][survey][hazardous][toys][holiday][season.])
+v(0 3 4 5 6 7 8 12 14 15 17 18 19 20): 12.913162231445312, EP: 0.9716174602508545	 ([washington][water - filled][yo - yo][balls][banned][united][states,][said][issued][annual][hazardous][toys][holiday][season.])
+v(1 2 9 10 11 13 16): 12.844464302062988, EP: 0.9664484858512878	 ([( reuters )][-][public][interest][group][tuesday][survey])
+v(1 2 6 7 8 9 10 11 12 13 14 15 16 19 20): 12.722349166870117, EP: 0.957260251045227	 ([( reuters )][-][banned][united][states,][public][interest][group][said][tuesday][issued][annual][survey][holiday][season.])
+v(0 1 2 3 4 5 9 10 11 13 16 17 18): 12.525238037109375, EP: 0.9424291253089905	 ([washington][( reuters )][-][water - filled][yo - yo][balls][public][interest][group][tuesday][survey][hazardous][toys])
+v(0 3 4 5 17 18): 11.7152099609375, EP: 0.8814806342124939	 ([washington][water - filled][yo - yo][balls][hazardous][toys])
+v(6 7 8 12 14 15 19 20): 7.435432434082031, EP: 0.5594598650932312	 ([banned][united][states,][said][issued][annual][holiday][season.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: manning
+Player 1: completed
+Player 2: 18
+Player 3: 27
+Player 4: passes
+Player 5: 320
+Player 6: yards
+Player 7: sunday
+Player 8: threw
+Player 9: five
+Player 10: touchdown
+Player 11: passes
+Player 12: third
+Player 13: time
+Player 14: season
+Player 15: colts
+Player 16: ( 6 - 3 )
+Player 17: made
+Player 18: texans
+Player 19: ( 4 - 5 )
+Player 20: pay
+Player 21: sloppiness.
+---------- Rewards ----------
+v(): -2.5134987831115723	 ([])
+v(3 8 10 12 14 18 21): 9.676387786865234	 ([27][threw][touchdown][third][season][texans][sloppiness.])
+v(0 1 2 4 5 6 7 13 15 20): 9.15111255645752	 ([manning][completed][18][passes][320][yards][sunday][time][colts][pay])
+v(9 11 16 17 19): -3.407088041305542	 ([five][passes][( 6 - 3 )][made][( 4 - 5 )])
+v(0 1 2 3 4 5 6 7 8 10 12 13 14 15 18 20 21): 9.555323600769043	 ([manning][completed][18][27][passes][320][yards][sunday][threw][touchdown][third][time][season][colts][texans][pay][sloppiness.])
+v(3 8 9 10 11 12 14 16 17 18 19 21): 9.228525161743164	 ([27][threw][five][touchdown][passes][third][season][( 6 - 3 )][made][texans][( 4 - 5 )][sloppiness.])
+v(0 1 2 4 5 6 7 9 11 13 15 16 17 19 20): 9.334637641906738	 ([manning][completed][18][passes][320][yards][sunday][five][passes][time][colts][( 6 - 3 )][made][( 4 - 5 )][pay])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.20632266998291	 ([manning][completed][18][27][passes][320][yards][sunday][threw][five][touchdown][passes][third][time][season][colts][( 6 - 3 )][made][texans][( 4 - 5 )][pay][sloppiness.])
+---------- Rewards-v() ----------
+v(3 8 10 12 14 18 21): 12.189886093139648, EP: 1.1371351480484009	 ([27][threw][touchdown][third][season][texans][sloppiness.])
+v(0 1 2 3 4 5 6 7 8 10 12 13 14 15 18 20 21): 12.068822860717773, EP: 1.125841736793518	 ([manning][completed][18][27][passes][320][yards][sunday][threw][touchdown][third][time][season][colts][texans][pay][sloppiness.])
+v(0 1 2 4 5 6 7 9 11 13 15 16 17 19 20): 11.848136901855469, EP: 1.1052550077438354	 ([manning][completed][18][passes][320][yards][sunday][five][passes][time][colts][( 6 - 3 )][made][( 4 - 5 )][pay])
+v(3 8 9 10 11 12 14 16 17 18 19 21): 11.742023468017578, EP: 1.0953562259674072	 ([27][threw][five][touchdown][passes][third][season][( 6 - 3 )][made][texans][( 4 - 5 )][sloppiness.])
+v(0 1 2 4 5 6 7 13 15 20): 11.66461181640625, EP: 1.0881348848342896	 ([manning][completed][18][passes][320][yards][sunday][time][colts][pay])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 10.71982192993164, EP: 1.0	 ([manning][completed][18][27][passes][320][yards][sunday][threw][five][touchdown][passes][third][time][season][colts][( 6 - 3 )][made][texans][( 4 - 5 )][pay][sloppiness.])
+v(9 11 16 17 19): -0.8935892581939697, EP: -0.08335859328508377	 ([five][passes][( 6 - 3 )][made][( 4 - 5 )])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

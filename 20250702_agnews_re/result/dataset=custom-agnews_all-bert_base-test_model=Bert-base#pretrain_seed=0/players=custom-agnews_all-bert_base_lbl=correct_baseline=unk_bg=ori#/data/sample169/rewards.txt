@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: church
+Player 1: congregations
+Player 2: north - east
+Player 3: india
+Player 4: preparing
+Player 5: hold
+Player 6: special
+Player 7: services
+Player 8: blasts
+Player 9: gun
+Player 10: attacks
+Player 11: killed
+Player 12: least
+Player 13: 56
+Player 14: people
+Player 15: saturday.
+---------- Rewards ----------
+v(): -7.476229667663574	 ([])
+v(4 5 7 8 14): 2.4442176818847656	 ([preparing][hold][services][blasts][people])
+v(1 6 10 11 13): 1.5306897163391113	 ([congregations][special][attacks][killed][56])
+v(0 2 3 9 12 15): 4.643083572387695	 ([church][north - east][india][gun][least][saturday.])
+v(1 4 5 6 7 8 10 11 13 14): 7.487030982971191	 ([congregations][preparing][hold][special][services][blasts][attacks][killed][56][people])
+v(0 2 3 4 5 7 8 9 12 14 15): 7.73940896987915	 ([church][north - east][india][preparing][hold][services][blasts][gun][least][people][saturday.])
+v(0 1 2 3 6 9 10 11 12 13 15): 6.831838607788086	 ([church][congregations][north - east][india][special][gun][attacks][killed][least][56][saturday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 6.780515193939209	 ([church][congregations][north - east][india][preparing][hold][special][services][blasts][gun][attacks][killed][least][56][people][saturday.])
+---------- Rewards-v() ----------
+v(0 2 3 4 5 7 8 9 12 14 15): 15.215639114379883, EP: 1.0672590732574463	 ([church][north - east][india][preparing][hold][services][blasts][gun][least][people][saturday.])
+v(1 4 5 6 7 8 10 11 13 14): 14.963260650634766, EP: 1.0495566129684448	 ([congregations][preparing][hold][special][services][blasts][attacks][killed][56][people])
+v(0 1 2 3 6 9 10 11 12 13 15): 14.30806827545166, EP: 1.003600001335144	 ([church][congregations][north - east][india][special][gun][attacks][killed][least][56][saturday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 14.256744384765625, EP: 1.0	 ([church][congregations][north - east][india][preparing][hold][special][services][blasts][gun][attacks][killed][least][56][people][saturday.])
+v(0 2 3 9 12 15): 12.11931324005127, EP: 0.8500757813453674	 ([church][north - east][india][gun][least][saturday.])
+v(4 5 7 8 14): 9.92044734954834, EP: 0.6958423852920532	 ([preparing][hold][services][blasts][people])
+v(1 6 10 11 13): 9.006919860839844, EP: 0.6317655444145203	 ([congregations][special][attacks][killed][56])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

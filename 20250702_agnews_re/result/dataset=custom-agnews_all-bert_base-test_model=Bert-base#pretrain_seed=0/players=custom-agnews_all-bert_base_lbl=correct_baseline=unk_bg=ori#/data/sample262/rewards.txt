@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: toronto
+Player 1: ( reuters )
+Player 2: -
+Player 3: shares
+Player 4: manulife
+Player 5: financial
+Player 6: corp.
+Player 7: & lt ; a
+Player 8: href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to
+Player 9: target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;
+Player 10: fell
+Player 11: friday,
+Player 12: day
+Player 13: canada's
+Player 14: biggest
+Player 15: insurer
+Player 16: posted
+Player 17: third - quarter
+Player 18: results
+Player 19: fell
+Player 20: short
+Player 21: expectations.
+---------- Rewards ----------
+v(): -5.262131214141846	 ([])
+v(0 3 8 9 10 15 21): 8.447739601135254	 ([toronto][shares][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][insurer][expectations.])
+v(2 4 5 6): 7.777233123779297	 ([-][manulife][financial][corp.])
+v(14 17 18 19 20): 6.356471538543701	 ([biggest][third - quarter][results][fell][short])
+v(1 7 11 12 13 16): -0.10484969615936279	 ([( reuters )][& lt ; a][friday,][day][canada's][posted])
+v(0 2 3 4 5 6 8 9 10 15 21): 8.421028137207031	 ([toronto][-][shares][manulife][financial][corp.][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][insurer][expectations.])
+v(0 3 8 9 10 14 15 17 18 19 20 21): 8.438977241516113	 ([toronto][shares][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][biggest][insurer][third - quarter][results][fell][short][expectations.])
+v(0 1 3 7 8 9 10 11 12 13 15 16 21): 8.299763679504395	 ([toronto][( reuters )][shares][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][friday,][day][canada's][insurer][posted][expectations.])
+v(2 4 5 6 14 17 18 19 20): 8.408883094787598	 ([-][manulife][financial][corp.][biggest][third - quarter][results][fell][short])
+v(1 2 4 5 6 7 11 12 13 16): 8.268136978149414	 ([( reuters )][-][manulife][financial][corp.][& lt ; a][friday,][day][canada's][posted])
+v(1 7 11 12 13 14 16 17 18 19 20): 7.9355034828186035	 ([( reuters )][& lt ; a][friday,][day][canada's][biggest][posted][third - quarter][results][fell][short])
+v(0 2 3 4 5 6 8 9 10 14 15 17 18 19 20 21): 8.406180381774902	 ([toronto][-][shares][manulife][financial][corp.][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][biggest][insurer][third - quarter][results][fell][short][expectations.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 15 16 21): 8.365328788757324	 ([toronto][( reuters )][-][shares][manulife][financial][corp.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][friday,][day][canada's][insurer][posted][expectations.])
+v(0 1 3 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.260408401489258	 ([toronto][( reuters )][shares][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][friday,][day][canada's][biggest][insurer][posted][third - quarter][results][fell][short][expectations.])
+v(1 2 4 5 6 7 11 12 13 14 16 17 18 19 20): 8.611446380615234	 ([( reuters )][-][manulife][financial][corp.][& lt ; a][friday,][day][canada's][biggest][posted][third - quarter][results][fell][short])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.361946105957031	 ([toronto][( reuters )][-][shares][manulife][financial][corp.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][friday,][day][canada's][biggest][insurer][posted][third - quarter][results][fell][short][expectations.])
+---------- Rewards-v() ----------
+v(1 2 4 5 6 7 11 12 13 14 16 17 18 19 20): 13.873577117919922, EP: 1.0183131694793701	 ([( reuters )][-][manulife][financial][corp.][& lt ; a][friday,][day][canada's][biggest][posted][third - quarter][results][fell][short])
+v(0 3 8 9 10 15 21): 13.709871292114258, EP: 1.00629723072052	 ([toronto][shares][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][insurer][expectations.])
+v(0 3 8 9 10 14 15 17 18 19 20 21): 13.701108932495117, EP: 1.0056540966033936	 ([toronto][shares][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][biggest][insurer][third - quarter][results][fell][short][expectations.])
+v(0 2 3 4 5 6 8 9 10 15 21): 13.683158874511719, EP: 1.0043365955352783	 ([toronto][-][shares][manulife][financial][corp.][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][insurer][expectations.])
+v(2 4 5 6 14 17 18 19 20): 13.671014785766602, EP: 1.0034452676773071	 ([-][manulife][financial][corp.][biggest][third - quarter][results][fell][short])
+v(0 2 3 4 5 6 8 9 10 14 15 17 18 19 20 21): 13.668312072753906, EP: 1.003246784210205	 ([toronto][-][shares][manulife][financial][corp.][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][biggest][insurer][third - quarter][results][fell][short][expectations.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 15 16 21): 13.627460479736328, EP: 1.0002483129501343	 ([toronto][( reuters )][-][shares][manulife][financial][corp.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][friday,][day][canada's][insurer][posted][expectations.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 13.624076843261719, EP: 1.0	 ([toronto][( reuters )][-][shares][manulife][financial][corp.][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][friday,][day][canada's][biggest][insurer][posted][third - quarter][results][fell][short][expectations.])
+v(0 1 3 7 8 9 10 11 12 13 15 16 21): 13.561895370483398, EP: 0.995435893535614	 ([toronto][( reuters )][shares][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][friday,][day][canada's][insurer][posted][expectations.])
+v(1 2 4 5 6 7 11 12 13 16): 13.530267715454102, EP: 0.9931144714355469	 ([( reuters )][-][manulife][financial][corp.][& lt ; a][friday,][day][canada's][posted])
+v(0 1 3 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 13.522539138793945, EP: 0.9925472140312195	 ([toronto][( reuters )][shares][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = mfc. to][target = / stocks / quickinfo / fullquote " & gt ; mfc. to & lt ; / a & gt ;][fell][friday,][day][canada's][biggest][insurer][posted][third - quarter][results][fell][short][expectations.])
+v(1 7 11 12 13 14 16 17 18 19 20): 13.19763469696045, EP: 0.9686993956565857	 ([( reuters )][& lt ; a][friday,][day][canada's][biggest][posted][third - quarter][results][fell][short])
+v(2 4 5 6): 13.039363861083984, EP: 0.9570823907852173	 ([-][manulife][financial][corp.])
+v(14 17 18 19 20): 11.618602752685547, EP: 0.8527992963790894	 ([biggest][third - quarter][results][fell][short])
+v(1 7 11 12 13 16): 5.157281398773193, EP: 0.3785417079925537	 ([( reuters )][& lt ; a][friday,][day][canada's][posted])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,60 @@
+Execution time: 2025-07-02 19:33:34
+prompt: [CLS] tokyo ( reuters ) - the dollar regained some ground against the yen on friday, moving away from four - month lows hit the previous day, as the market remained reluctant to push the u. s. currency below the closely watched 107 yen mark. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:5522 decoded_text: tokyo
+idx:2 input_id:1006 decoded_text: (
+idx:3 input_id:26665 decoded_text: reuters
+idx:4 input_id:1007 decoded_text: )
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:7922 decoded_text: dollar
+idx:8 input_id:11842 decoded_text: regained
+idx:9 input_id:2070 decoded_text: some
+idx:10 input_id:2598 decoded_text: ground
+idx:11 input_id:2114 decoded_text: against
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:18371 decoded_text: yen
+idx:14 input_id:2006 decoded_text: on
+idx:15 input_id:5958 decoded_text: friday
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:3048 decoded_text: moving
+idx:18 input_id:2185 decoded_text: away
+idx:19 input_id:2013 decoded_text: from
+idx:20 input_id:2176 decoded_text: four
+idx:21 input_id:1011 decoded_text: -
+idx:22 input_id:3204 decoded_text: month
+idx:23 input_id:2659 decoded_text: low
+idx:24 input_id:2015 decoded_text: ##s
+idx:25 input_id:2718 decoded_text: hit
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:3025 decoded_text: previous
+idx:28 input_id:2154 decoded_text: day
+idx:29 input_id:1010 decoded_text: ,
+idx:30 input_id:2004 decoded_text: as
+idx:31 input_id:1996 decoded_text: the
+idx:32 input_id:3006 decoded_text: market
+idx:33 input_id:2815 decoded_text: remained
+idx:34 input_id:11542 decoded_text: reluctant
+idx:35 input_id:2000 decoded_text: to
+idx:36 input_id:5245 decoded_text: push
+idx:37 input_id:1996 decoded_text: the
+idx:38 input_id:1057 decoded_text: u
+idx:39 input_id:1012 decoded_text: .
+idx:40 input_id:1055 decoded_text: s
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:9598 decoded_text: currency
+idx:43 input_id:2917 decoded_text: below
+idx:44 input_id:1996 decoded_text: the
+idx:45 input_id:4876 decoded_text: closely
+idx:46 input_id:3427 decoded_text: watched
+idx:47 input_id:10550 decoded_text: 107
+idx:48 input_id:18371 decoded_text: yen
+idx:49 input_id:2928 decoded_text: mark
+idx:50 input_id:1012 decoded_text: .
+idx:51 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.5114853382110596, -3.229553461074829, 6.642636775970459, -2.9422149658203125]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

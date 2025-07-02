@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: 1918,
+Player 1: albert
+Player 2: einstein
+Player 3: proposed
+Player 4: large
+Player 5: objects
+Player 6: bend
+Player 7: space
+Player 8: around
+Player 9: turning
+Player 10: axis.
+Player 11: 2004,
+Player 12: nasa
+Player 13: scientists
+Player 14: confirmed
+Player 15: earth
+Player 16: bends
+Player 17: time
+Player 18: space
+Player 19: around
+---------- Rewards ----------
+v(): 5.7756853103637695	 ([])
+v(1 2 3 6 8): 7.5924072265625	 ([albert][einstein][proposed][bend][around])
+v(0 9 10 11 14 15 16 17): 7.931382656097412	 ([1918,][turning][axis.][2004,][confirmed][earth][bends][time])
+v(4 5 7 12 13 18 19): 8.038209915161133	 ([large][objects][space][nasa][scientists][space][around])
+v(0 1 2 3 6 8 9 10 11 14 15 16 17): 7.592511177062988	 ([1918,][albert][einstein][proposed][bend][around][turning][axis.][2004,][confirmed][earth][bends][time])
+v(1 2 3 4 5 6 7 8 12 13 18 19): 7.888208389282227	 ([albert][einstein][proposed][large][objects][bend][space][around][nasa][scientists][space][around])
+v(0 4 5 7 9 10 11 12 13 14 15 16 17 18 19): 8.339935302734375	 ([1918,][large][objects][space][turning][axis.][2004,][nasa][scientists][confirmed][earth][bends][time][space][around])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.735651016235352	 ([1918,][albert][einstein][proposed][large][objects][bend][space][around][turning][axis.][2004,][nasa][scientists][confirmed][earth][bends][time][space][around])
+---------- Rewards-v() ----------
+v(0 4 5 7 9 10 11 12 13 14 15 16 17 18 19): 2.5642499923706055, EP: 1.3083137273788452	 ([1918,][large][objects][space][turning][axis.][2004,][nasa][scientists][confirmed][earth][bends][time][space][around])
+v(4 5 7 12 13 18 19): 2.2625246047973633, EP: 1.1543694734573364	 ([large][objects][space][nasa][scientists][space][around])
+v(0 9 10 11 14 15 16 17): 2.1556973457336426, EP: 1.0998648405075073	 ([1918,][turning][axis.][2004,][confirmed][earth][bends][time])
+v(1 2 3 4 5 6 7 8 12 13 18 19): 2.112523078918457, EP: 1.0778367519378662	 ([albert][einstein][proposed][large][objects][bend][space][around][nasa][scientists][space][around])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 1.959965705871582, EP: 1.0	 ([1918,][albert][einstein][proposed][large][objects][bend][space][around][turning][axis.][2004,][nasa][scientists][confirmed][earth][bends][time][space][around])
+v(0 1 2 3 6 8 9 10 11 14 15 16 17): 1.8168258666992188, EP: 0.9269682168960571	 ([1918,][albert][einstein][proposed][bend][around][turning][axis.][2004,][confirmed][earth][bends][time])
+v(1 2 3 6 8): 1.8167219161987305, EP: 0.926915168762207	 ([albert][einstein][proposed][bend][around])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

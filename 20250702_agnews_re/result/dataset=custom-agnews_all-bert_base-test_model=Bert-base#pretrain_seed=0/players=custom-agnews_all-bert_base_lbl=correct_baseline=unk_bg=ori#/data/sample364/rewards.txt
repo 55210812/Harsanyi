@@ -1,0 +1,96 @@
+---------- Players ----------
+Player 0: washington
+Player 1: ( reuters )
+Player 2: -
+Player 3: booming
+Player 4: orders
+Player 5: new
+Player 6: military
+Player 7: aircraft
+Player 8: boosted
+Player 9: overall
+Player 10: orders
+Player 11: u. s.
+Player 12: factories
+Player 13: 0. 5
+Player 14: percent
+Player 15: seasonally
+Player 16: adjusted
+Player 17: \ $ 371. 51
+Player 18: billion
+Player 19: october,
+Player 20: government
+Player 21: reported
+Player 22: thursday,
+Player 23: though
+Player 24: demand
+Player 25: flat
+Player 26: defense
+Player 27: excluded.
+---------- Rewards ----------
+v(): -3.9072680473327637	 ([])
+v(6 11 13 14 16 17 26): -3.603903293609619	 ([military][u. s.][0. 5][percent][adjusted][\ $ 371. 51][defense])
+v(1 19 20 21 22): -3.5578269958496094	 ([( reuters )][october,][government][reported][thursday,])
+v(0 7 12 15 18): 8.14099407196045	 ([washington][aircraft][factories][seasonally][billion])
+v(2 3 4 5 10 23 24 25 27): 0.38494443893432617	 ([-][booming][orders][new][orders][though][demand][flat][excluded.])
+v(8 9): -0.2485055923461914	 ([boosted][overall])
+v(1 6 11 13 14 16 17 19 20 21 22 26): -6.57303524017334	 ([( reuters )][military][u. s.][0. 5][percent][adjusted][\ $ 371. 51][october,][government][reported][thursday,][defense])
+v(0 6 7 11 12 13 14 15 16 17 18 26): 8.35686206817627	 ([washington][military][aircraft][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][defense])
+v(2 3 4 5 6 10 11 13 14 16 17 23 24 25 26 27): -1.5514559745788574	 ([-][booming][orders][new][military][orders][u. s.][0. 5][percent][adjusted][\ $ 371. 51][though][demand][flat][defense][excluded.])
+v(6 8 9 11 13 14 16 17 26): -4.332716941833496	 ([military][boosted][overall][u. s.][0. 5][percent][adjusted][\ $ 371. 51][defense])
+v(0 1 7 12 15 18 19 20 21 22): 8.265398025512695	 ([washington][( reuters )][aircraft][factories][seasonally][billion][october,][government][reported][thursday,])
+v(1 2 3 4 5 10 19 20 21 22 23 24 25 27): 5.005016803741455	 ([( reuters )][-][booming][orders][new][orders][october,][government][reported][thursday,][though][demand][flat][excluded.])
+v(1 8 9 19 20 21 22): -3.2610270977020264	 ([( reuters )][boosted][overall][october,][government][reported][thursday,])
+v(0 2 3 4 5 7 10 12 15 18 23 24 25 27): 8.359379768371582	 ([washington][-][booming][orders][new][aircraft][orders][factories][seasonally][billion][though][demand][flat][excluded.])
+v(0 7 8 9 12 15 18): 8.265565872192383	 ([washington][aircraft][boosted][overall][factories][seasonally][billion])
+v(2 3 4 5 8 9 10 23 24 25 27): 5.169043064117432	 ([-][booming][orders][new][boosted][overall][orders][though][demand][flat][excluded.])
+v(0 1 6 7 11 12 13 14 15 16 17 18 19 20 21 22 26): 8.307723045349121	 ([washington][( reuters )][military][aircraft][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][october,][government][reported][thursday,][defense])
+v(1 2 3 4 5 6 10 11 13 14 16 17 19 20 21 22 23 24 25 26 27): 1.2902116775512695	 ([( reuters )][-][booming][orders][new][military][orders][u. s.][0. 5][percent][adjusted][\ $ 371. 51][october,][government][reported][thursday,][though][demand][flat][defense][excluded.])
+v(1 6 8 9 11 13 14 16 17 19 20 21 22 26): -7.5367431640625	 ([( reuters )][military][boosted][overall][u. s.][0. 5][percent][adjusted][\ $ 371. 51][october,][government][reported][thursday,][defense])
+v(0 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 23 24 25 26 27): 8.27619743347168	 ([washington][-][booming][orders][new][military][aircraft][orders][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][though][demand][flat][defense][excluded.])
+v(0 6 7 8 9 11 12 13 14 15 16 17 18 26): 8.341646194458008	 ([washington][military][aircraft][boosted][overall][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][defense])
+v(2 3 4 5 6 8 9 10 11 13 14 16 17 23 24 25 26 27): 2.1627562046051025	 ([-][booming][orders][new][military][boosted][overall][orders][u. s.][0. 5][percent][adjusted][\ $ 371. 51][though][demand][flat][defense][excluded.])
+v(0 1 2 3 4 5 7 10 12 15 18 19 20 21 22 23 24 25 27): 8.570411682128906	 ([washington][( reuters )][-][booming][orders][new][aircraft][orders][factories][seasonally][billion][october,][government][reported][thursday,][though][demand][flat][excluded.])
+v(0 1 7 8 9 12 15 18 19 20 21 22): 8.366592407226562	 ([washington][( reuters )][aircraft][boosted][overall][factories][seasonally][billion][october,][government][reported][thursday,])
+v(1 2 3 4 5 8 9 10 19 20 21 22 23 24 25 27): 5.897297382354736	 ([( reuters )][-][booming][orders][new][boosted][overall][orders][october,][government][reported][thursday,][though][demand][flat][excluded.])
+v(0 2 3 4 5 7 8 9 10 12 15 18 23 24 25 27): 8.441093444824219	 ([washington][-][booming][orders][new][aircraft][boosted][overall][orders][factories][seasonally][billion][though][demand][flat][excluded.])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 8.430463790893555	 ([washington][( reuters )][-][booming][orders][new][military][aircraft][orders][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][october,][government][reported][thursday,][though][demand][flat][defense][excluded.])
+v(0 1 6 7 8 9 11 12 13 14 15 16 17 18 19 20 21 22 26): 8.19291877746582	 ([washington][( reuters )][military][aircraft][boosted][overall][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][october,][government][reported][thursday,][defense])
+v(1 2 3 4 5 6 8 9 10 11 13 14 16 17 19 20 21 22 23 24 25 26 27): 3.4428696632385254	 ([( reuters )][-][booming][orders][new][military][boosted][overall][orders][u. s.][0. 5][percent][adjusted][\ $ 371. 51][october,][government][reported][thursday,][though][demand][flat][defense][excluded.])
+v(0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 23 24 25 26 27): 8.444438934326172	 ([washington][-][booming][orders][new][military][aircraft][boosted][overall][orders][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][though][demand][flat][defense][excluded.])
+v(0 1 2 3 4 5 7 8 9 10 12 15 18 19 20 21 22 23 24 25 27): 8.604632377624512	 ([washington][( reuters )][-][booming][orders][new][aircraft][boosted][overall][orders][factories][seasonally][billion][october,][government][reported][thursday,][though][demand][flat][excluded.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 8.499765396118164	 ([washington][( reuters )][-][booming][orders][new][military][aircraft][boosted][overall][orders][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][october,][government][reported][thursday,][though][demand][flat][defense][excluded.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 7 8 9 10 12 15 18 19 20 21 22 23 24 25 27): 12.511899948120117, EP: 1.0084521770477295	 ([washington][( reuters )][-][booming][orders][new][aircraft][boosted][overall][orders][factories][seasonally][billion][october,][government][reported][thursday,][though][demand][flat][excluded.])
+v(0 1 2 3 4 5 7 10 12 15 18 19 20 21 22 23 24 25 27): 12.477680206298828, EP: 1.005694031715393	 ([washington][( reuters )][-][booming][orders][new][aircraft][orders][factories][seasonally][billion][october,][government][reported][thursday,][though][demand][flat][excluded.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 12.407033920288086, EP: 1.0	 ([washington][( reuters )][-][booming][orders][new][military][aircraft][boosted][overall][orders][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][october,][government][reported][thursday,][though][demand][flat][defense][excluded.])
+v(0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 23 24 25 26 27): 12.351707458496094, EP: 0.9955407381057739	 ([washington][-][booming][orders][new][military][aircraft][boosted][overall][orders][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][though][demand][flat][defense][excluded.])
+v(0 2 3 4 5 7 8 9 10 12 15 18 23 24 25 27): 12.34836196899414, EP: 0.9952710866928101	 ([washington][-][booming][orders][new][aircraft][boosted][overall][orders][factories][seasonally][billion][though][demand][flat][excluded.])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 12.337732315063477, EP: 0.9944143295288086	 ([washington][( reuters )][-][booming][orders][new][military][aircraft][orders][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][october,][government][reported][thursday,][though][demand][flat][defense][excluded.])
+v(0 1 7 8 9 12 15 18 19 20 21 22): 12.273860931396484, EP: 0.9892663359642029	 ([washington][( reuters )][aircraft][boosted][overall][factories][seasonally][billion][october,][government][reported][thursday,])
+v(0 2 3 4 5 7 10 12 15 18 23 24 25 27): 12.266647338867188, EP: 0.988684892654419	 ([washington][-][booming][orders][new][aircraft][orders][factories][seasonally][billion][though][demand][flat][excluded.])
+v(0 6 7 11 12 13 14 15 16 17 18 26): 12.264129638671875, EP: 0.9884819984436035	 ([washington][military][aircraft][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][defense])
+v(0 6 7 8 9 11 12 13 14 15 16 17 18 26): 12.24891471862793, EP: 0.9872556924819946	 ([washington][military][aircraft][boosted][overall][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][defense])
+v(0 1 6 7 11 12 13 14 15 16 17 18 19 20 21 22 26): 12.214990615844727, EP: 0.9845213890075684	 ([washington][( reuters )][military][aircraft][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][october,][government][reported][thursday,][defense])
+v(0 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 23 24 25 26 27): 12.183465957641602, EP: 0.981980562210083	 ([washington][-][booming][orders][new][military][aircraft][orders][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][though][demand][flat][defense][excluded.])
+v(0 7 8 9 12 15 18): 12.172834396362305, EP: 0.9811236262321472	 ([washington][aircraft][boosted][overall][factories][seasonally][billion])
+v(0 1 7 12 15 18 19 20 21 22): 12.172666549682617, EP: 0.9811100959777832	 ([washington][( reuters )][aircraft][factories][seasonally][billion][october,][government][reported][thursday,])
+v(0 1 6 7 8 9 11 12 13 14 15 16 17 18 19 20 21 22 26): 12.100187301635742, EP: 0.9752683043479919	 ([washington][( reuters )][military][aircraft][boosted][overall][u. s.][factories][0. 5][percent][seasonally][adjusted][\ $ 371. 51][billion][october,][government][reported][thursday,][defense])
+v(0 7 12 15 18): 12.048261642456055, EP: 0.9710831642150879	 ([washington][aircraft][factories][seasonally][billion])
+v(1 2 3 4 5 8 9 10 19 20 21 22 23 24 25 27): 9.8045654296875, EP: 0.7902424931526184	 ([( reuters )][-][booming][orders][new][boosted][overall][orders][october,][government][reported][thursday,][though][demand][flat][excluded.])
+v(2 3 4 5 8 9 10 23 24 25 27): 9.076311111450195, EP: 0.731545627117157	 ([-][booming][orders][new][boosted][overall][orders][though][demand][flat][excluded.])
+v(1 2 3 4 5 10 19 20 21 22 23 24 25 27): 8.912284851074219, EP: 0.7183251976966858	 ([( reuters )][-][booming][orders][new][orders][october,][government][reported][thursday,][though][demand][flat][excluded.])
+v(1 2 3 4 5 6 8 9 10 11 13 14 16 17 19 20 21 22 23 24 25 26 27): 7.350137710571289, EP: 0.5924170017242432	 ([( reuters )][-][booming][orders][new][military][boosted][overall][orders][u. s.][0. 5][percent][adjusted][\ $ 371. 51][october,][government][reported][thursday,][though][demand][flat][defense][excluded.])
+v(2 3 4 5 6 8 9 10 11 13 14 16 17 23 24 25 26 27): 6.070024490356445, EP: 0.4892405867576599	 ([-][booming][orders][new][military][boosted][overall][orders][u. s.][0. 5][percent][adjusted][\ $ 371. 51][though][demand][flat][defense][excluded.])
+v(1 2 3 4 5 6 10 11 13 14 16 17 19 20 21 22 23 24 25 26 27): 5.197479724884033, EP: 0.41891396045684814	 ([( reuters )][-][booming][orders][new][military][orders][u. s.][0. 5][percent][adjusted][\ $ 371. 51][october,][government][reported][thursday,][though][demand][flat][defense][excluded.])
+v(2 3 4 5 10 23 24 25 27): 4.29221248626709, EP: 0.3459499180316925	 ([-][booming][orders][new][orders][though][demand][flat][excluded.])
+v(8 9): 3.6587624549865723, EP: 0.2948942184448242	 ([boosted][overall])
+v(1 6 8 9 11 13 14 16 17 19 20 21 22 26): -3.6294751167297363, EP: -0.29253366589546204	 ([( reuters )][military][boosted][overall][u. s.][0. 5][percent][adjusted][\ $ 371. 51][october,][government][reported][thursday,][defense])
+v(1 6 11 13 14 16 17 19 20 21 22 26): -2.665767192840576, EP: -0.21485935151576996	 ([( reuters )][military][u. s.][0. 5][percent][adjusted][\ $ 371. 51][october,][government][reported][thursday,][defense])
+v(2 3 4 5 6 10 11 13 14 16 17 23 24 25 26 27): 2.3558120727539062, EP: 0.18987713754177094	 ([-][booming][orders][new][military][orders][u. s.][0. 5][percent][adjusted][\ $ 371. 51][though][demand][flat][defense][excluded.])
+v(1 8 9 19 20 21 22): 0.6462409496307373, EP: 0.05208665877580643	 ([( reuters )][boosted][overall][october,][government][reported][thursday,])
+v(6 8 9 11 13 14 16 17 26): -0.4254488945007324, EP: -0.034290943294763565	 ([military][boosted][overall][u. s.][0. 5][percent][adjusted][\ $ 371. 51][defense])
+v(1 19 20 21 22): 0.3494410514831543, EP: 0.028164753690361977	 ([( reuters )][october,][government][reported][thursday,])
+v(6 11 13 14 16 17 26): 0.30336475372314453, EP: 0.024451030418276787	 ([military][u. s.][0. 5][percent][adjusted][\ $ 371. 51][defense])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: british
+Player 3: tourist
+Player 4: flight
+Player 5: travelling
+Player 6: paris
+Player 7: turned
+Player 8: back
+Player 9: shortly
+Player 10: take - off
+Player 11: plane
+Player 12: struck
+Player 13: bird.
+---------- Rewards ----------
+v(): -6.4136962890625	 ([])
+v(0 2 4 6): 6.0331854820251465	 ([afp][british][flight][paris])
+v(5 7 8 11): -4.7423248291015625	 ([travelling][turned][back][plane])
+v(1 3 9 10 12 13): 1.2260510921478271	 ([-][tourist][shortly][take - off][struck][bird.])
+v(0 2 4 5 6 7 8 11): 5.918523788452148	 ([afp][british][flight][travelling][paris][turned][back][plane])
+v(0 1 2 3 4 6 9 10 12 13): 8.001106262207031	 ([afp][-][british][tourist][flight][paris][shortly][take - off][struck][bird.])
+v(1 3 5 7 8 9 10 11 12 13): 6.0168609619140625	 ([-][tourist][travelling][turned][back][shortly][take - off][plane][struck][bird.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 8.271930694580078	 ([afp][-][british][tourist][flight][travelling][paris][turned][back][shortly][take - off][plane][struck][bird.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 14.685626983642578, EP: 1.0	 ([afp][-][british][tourist][flight][travelling][paris][turned][back][shortly][take - off][plane][struck][bird.])
+v(0 1 2 3 4 6 9 10 12 13): 14.414802551269531, EP: 0.9815585613250732	 ([afp][-][british][tourist][flight][paris][shortly][take - off][struck][bird.])
+v(0 2 4 6): 12.446882247924805, EP: 0.84755539894104	 ([afp][british][flight][paris])
+v(1 3 5 7 8 9 10 11 12 13): 12.430557250976562, EP: 0.846443772315979	 ([-][tourist][travelling][turned][back][shortly][take - off][plane][struck][bird.])
+v(0 2 4 5 6 7 8 11): 12.332220077514648, EP: 0.8397476077079773	 ([afp][british][flight][travelling][paris][turned][back][plane])
+v(1 3 9 10 12 13): 7.639747619628906, EP: 0.5202193856239319	 ([-][tourist][shortly][take - off][struck][bird.])
+v(5 7 8 11): 1.6713714599609375, EP: 0.11381001770496368	 ([travelling][turned][back][plane])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

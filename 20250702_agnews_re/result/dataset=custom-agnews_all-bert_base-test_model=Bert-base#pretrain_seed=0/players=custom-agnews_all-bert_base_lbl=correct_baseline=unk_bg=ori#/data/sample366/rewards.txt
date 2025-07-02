@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: since
+Player 1: starting
+Player 2: gator
+Player 3: bowl
+Player 4: redshirt
+Player 5: freshman,
+Player 6: senior
+Player 7: safety
+Player 8: mike
+Player 9: daniels
+Player 10: made
+Player 11: valuable
+Player 12: contributions
+Player 13: radar
+Player 14: waiting
+Player 15: chance
+Player 16: play
+Player 17: more.
+---------- Rewards ----------
+v(): -4.96380615234375	 ([])
+v(7 8 9 11 13): 0.2861597537994385	 ([safety][mike][daniels][valuable][radar])
+v(4 5 6 10 12 14): 7.734180450439453	 ([redshirt][freshman,][senior][made][contributions][waiting])
+v(0 1 2 3 15 16 17): 8.687216758728027	 ([since][starting][gator][bowl][chance][play][more.])
+v(4 5 6 7 8 9 10 11 12 13 14): 9.528536796569824	 ([redshirt][freshman,][senior][safety][mike][daniels][made][valuable][contributions][radar][waiting])
+v(0 1 2 3 7 8 9 11 13 15 16 17): 9.26445484161377	 ([since][starting][gator][bowl][safety][mike][daniels][valuable][radar][chance][play][more.])
+v(0 1 2 3 4 5 6 10 12 14 15 16 17): 8.176905632019043	 ([since][starting][gator][bowl][redshirt][freshman,][senior][made][contributions][waiting][chance][play][more.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 7.410026550292969	 ([since][starting][gator][bowl][redshirt][freshman,][senior][safety][mike][daniels][made][valuable][contributions][radar][waiting][chance][play][more.])
+---------- Rewards-v() ----------
+v(4 5 6 7 8 9 10 11 12 13 14): 14.492342948913574, EP: 1.1712088584899902	 ([redshirt][freshman,][senior][safety][mike][daniels][made][valuable][contributions][radar][waiting])
+v(0 1 2 3 7 8 9 11 13 15 16 17): 14.22826099395752, EP: 1.1498669385910034	 ([since][starting][gator][bowl][safety][mike][daniels][valuable][radar][chance][play][more.])
+v(0 1 2 3 15 16 17): 13.651022911071777, EP: 1.1032170057296753	 ([since][starting][gator][bowl][chance][play][more.])
+v(0 1 2 3 4 5 6 10 12 14 15 16 17): 13.140711784362793, EP: 1.0619758367538452	 ([since][starting][gator][bowl][redshirt][freshman,][senior][made][contributions][waiting][chance][play][more.])
+v(4 5 6 10 12 14): 12.697986602783203, EP: 1.0261967182159424	 ([redshirt][freshman,][senior][made][contributions][waiting])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 12.373832702636719, EP: 1.0	 ([since][starting][gator][bowl][redshirt][freshman,][senior][safety][mike][daniels][made][valuable][contributions][radar][waiting][chance][play][more.])
+v(7 8 9 11 13): 5.249965667724609, EP: 0.42427965998649597	 ([safety][mike][daniels][valuable][radar])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

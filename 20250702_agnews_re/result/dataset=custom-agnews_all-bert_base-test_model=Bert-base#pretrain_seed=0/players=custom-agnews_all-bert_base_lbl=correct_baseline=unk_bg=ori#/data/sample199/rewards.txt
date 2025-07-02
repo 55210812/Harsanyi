@@ -1,0 +1,25 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: tennessee
+Player 3: titans
+Player 4: released
+Player 5: jason
+Player 6: gesser,
+Player 7: third
+Player 8: quarterback,
+Player 9: sunday
+Player 10: plan
+Player 11: replace
+Player 12: veteran.
+---------- Rewards ----------
+v(): -4.388542652130127	 ([])
+v(1 2 3 5 8): 9.697236061096191	 ([-][tennessee][titans][jason][quarterback,])
+v(0 4 6 7 9 10 11 12): -2.2752280235290527	 ([ap][released][gesser,][third][sunday][plan][replace][veteran.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 9.499703407287598	 ([ap][-][tennessee][titans][released][jason][gesser,][third][quarterback,][sunday][plan][replace][veteran.])
+---------- Rewards-v() ----------
+v(1 2 3 5 8): 14.085779190063477, EP: 1.0142229795455933	 ([-][tennessee][titans][jason][quarterback,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 13.888246536254883, EP: 1.0	 ([ap][-][tennessee][titans][released][jason][gesser,][third][quarterback,][sunday][plan][replace][veteran.])
+v(0 4 6 7 9 10 11 12): 2.113314628601074, EP: 0.15216569602489471	 ([ap][released][gesser,][third][sunday][plan][replace][veteran.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

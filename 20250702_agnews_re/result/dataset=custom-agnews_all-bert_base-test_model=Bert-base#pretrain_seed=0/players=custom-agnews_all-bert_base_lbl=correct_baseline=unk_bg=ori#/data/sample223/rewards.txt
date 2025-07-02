@@ -1,0 +1,50 @@
+---------- Players ----------
+Player 0: violence
+Player 1: afghanistan
+Player 2: one
+Player 3: country
+Player 4: # 39 ; s
+Player 5: vice
+Player 6: presidents
+Player 7: narrowly
+Player 8: avoided
+Player 9: assassination.
+Player 10: attacks
+Player 11: escalating
+Player 12: afghanistan
+Player 13: prepares
+---------- Rewards ----------
+v(): -8.395711898803711	 ([])
+v(1 12): 2.2768144607543945	 ([afghanistan][afghanistan])
+v(5 6 10 13): -4.1537346839904785	 ([vice][presidents][attacks][prepares])
+v(0 4 7 8 9): 0.02699899673461914	 ([violence][# 39 ; s][narrowly][avoided][assassination.])
+v(2 3 11): -5.23378849029541	 ([one][country][escalating])
+v(1 5 6 10 12 13): 8.139533042907715	 ([afghanistan][vice][presidents][attacks][afghanistan][prepares])
+v(0 1 4 7 8 9 12): 7.270401954650879	 ([violence][afghanistan][# 39 ; s][narrowly][avoided][assassination.][afghanistan])
+v(1 2 3 11 12): 5.465479850769043	 ([afghanistan][one][country][escalating][afghanistan])
+v(0 4 5 6 7 8 9 10 13): 4.614956855773926	 ([violence][# 39 ; s][vice][presidents][narrowly][avoided][assassination.][attacks][prepares])
+v(2 3 5 6 10 11 13): -0.5521445274353027	 ([one][country][vice][presidents][attacks][escalating][prepares])
+v(0 2 3 4 7 8 9 11): 2.3756368160247803	 ([violence][one][country][# 39 ; s][narrowly][avoided][assassination.][escalating])
+v(0 1 4 5 6 7 8 9 10 12 13): 8.025301933288574	 ([violence][afghanistan][# 39 ; s][vice][presidents][narrowly][avoided][assassination.][attacks][afghanistan][prepares])
+v(1 2 3 5 6 10 11 12 13): 8.077980995178223	 ([afghanistan][one][country][vice][presidents][attacks][escalating][afghanistan][prepares])
+v(0 1 2 3 4 7 8 9 11 12): 6.454415321350098	 ([violence][afghanistan][one][country][# 39 ; s][narrowly][avoided][assassination.][escalating][afghanistan])
+v(0 2 3 4 5 6 7 8 9 10 11 13): 6.645382881164551	 ([violence][one][country][# 39 ; s][vice][presidents][narrowly][avoided][assassination.][attacks][escalating][prepares])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 8.200688362121582	 ([violence][afghanistan][one][country][# 39 ; s][vice][presidents][narrowly][avoided][assassination.][attacks][escalating][afghanistan][prepares])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 16.59640121459961, EP: 1.0	 ([violence][afghanistan][one][country][# 39 ; s][vice][presidents][narrowly][avoided][assassination.][attacks][escalating][afghanistan][prepares])
+v(1 5 6 10 12 13): 16.53524398803711, EP: 0.9963150024414062	 ([afghanistan][vice][presidents][attacks][afghanistan][prepares])
+v(1 2 3 5 6 10 11 12 13): 16.47369384765625, EP: 0.9926064014434814	 ([afghanistan][one][country][vice][presidents][attacks][escalating][afghanistan][prepares])
+v(0 1 4 5 6 7 8 9 10 12 13): 16.42101287841797, EP: 0.989432156085968	 ([violence][afghanistan][# 39 ; s][vice][presidents][narrowly][avoided][assassination.][attacks][afghanistan][prepares])
+v(0 1 4 7 8 9 12): 15.66611385345459, EP: 0.9439464211463928	 ([violence][afghanistan][# 39 ; s][narrowly][avoided][assassination.][afghanistan])
+v(0 2 3 4 5 6 7 8 9 10 11 13): 15.041094779968262, EP: 0.9062865376472473	 ([violence][one][country][# 39 ; s][vice][presidents][narrowly][avoided][assassination.][attacks][escalating][prepares])
+v(0 1 2 3 4 7 8 9 11 12): 14.850127220153809, EP: 0.8947799801826477	 ([violence][afghanistan][one][country][# 39 ; s][narrowly][avoided][assassination.][escalating][afghanistan])
+v(1 2 3 11 12): 13.861191749572754, EP: 0.8351926207542419	 ([afghanistan][one][country][escalating][afghanistan])
+v(0 4 5 6 7 8 9 10 13): 13.010668754577637, EP: 0.7839452028274536	 ([violence][# 39 ; s][vice][presidents][narrowly][avoided][assassination.][attacks][prepares])
+v(0 2 3 4 7 8 9 11): 10.77134895324707, EP: 0.6490171551704407	 ([violence][one][country][# 39 ; s][narrowly][avoided][assassination.][escalating])
+v(1 12): 10.672526359558105, EP: 0.6430627107620239	 ([afghanistan][afghanistan])
+v(0 4 7 8 9): 8.422710418701172, EP: 0.5075021982192993	 ([violence][# 39 ; s][narrowly][avoided][assassination.])
+v(2 3 5 6 10 11 13): 7.843567371368408, EP: 0.47260650992393494	 ([one][country][vice][presidents][attacks][escalating][prepares])
+v(5 6 10 13): 4.241977214813232, EP: 0.25559622049331665	 ([vice][presidents][attacks][prepares])
+v(2 3 11): 3.161923408508301, EP: 0.19051861763000488	 ([one][country][escalating])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

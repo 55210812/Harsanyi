@@ -1,0 +1,30 @@
+Execution time: 2025-07-02 19:31:13
+prompt: [CLS] & lt ; strong & gt ; competition & lt ; / strong & gt ; get those suggestions in [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1004 decoded_text: &
+idx:2 input_id:8318 decoded_text: lt
+idx:3 input_id:1025 decoded_text: ;
+idx:4 input_id:2844 decoded_text: strong
+idx:5 input_id:1004 decoded_text: &
+idx:6 input_id:14181 decoded_text: gt
+idx:7 input_id:1025 decoded_text: ;
+idx:8 input_id:2971 decoded_text: competition
+idx:9 input_id:1004 decoded_text: &
+idx:10 input_id:8318 decoded_text: lt
+idx:11 input_id:1025 decoded_text: ;
+idx:12 input_id:1013 decoded_text: /
+idx:13 input_id:2844 decoded_text: strong
+idx:14 input_id:1004 decoded_text: &
+idx:15 input_id:14181 decoded_text: gt
+idx:16 input_id:1025 decoded_text: ;
+idx:17 input_id:2131 decoded_text: get
+idx:18 input_id:2216 decoded_text: those
+idx:19 input_id:15690 decoded_text: suggestions
+idx:20 input_id:1999 decoded_text: in
+idx:21 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-2.9990546703338623, -1.4894744157791138, -2.281686782836914, 7.1563639640808105]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

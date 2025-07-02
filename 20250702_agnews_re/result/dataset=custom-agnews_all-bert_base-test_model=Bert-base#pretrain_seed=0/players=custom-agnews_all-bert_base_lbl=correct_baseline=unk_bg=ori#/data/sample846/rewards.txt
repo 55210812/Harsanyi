@@ -1,0 +1,77 @@
+---------- Players ----------
+Player 0: washington
+Player 1: -
+Player 2: democrat
+Player 3: john
+Player 4: kerry
+Player 5: links
+Player 6: cost
+Player 7: iraq
+Player 8: war
+Player 9: problems
+Player 10: home
+Player 11: vows
+Player 12: new
+Player 13: television
+Player 14: ad
+Player 15: " defend
+Player 16: america
+Player 17: fight
+Player 18: middle
+Player 19: class. "
+Player 20: " 200
+Player 21: billion
+Player 22: dollars.
+Player 23: that's
+Player 24: spending
+Player 25: iraq
+Player 26: george
+Player 27: bush
+Player 28: chose
+Player 29: go
+Player 30: alone, "
+Player 31: kerry
+Player 32: says
+Player 33: ad,
+Player 34: start
+Player 35: airing
+Player 36: monday
+Player 37: 13
+Player 38: competitive
+Player 39: states
+Player 40: air...
+---------- Rewards ----------
+v(): -5.365482330322266	 ([])
+v(1 2 3 4): 8.154520988464355	 ([-][democrat][john][kerry])
+v(5 6 8 9 11 12 13 14 15 17 18 19 20 22 23 28 29 30 33 34 35 39): -8.22966194152832	 ([links][cost][war][problems][vows][new][television][ad][" defend][fight][middle][class. "][" 200][dollars.][that's][chose][go][alone, "][ad,][start][airing][states])
+v(0 7 10 16 21 24 25 26 27 36 37 38 40): 3.4951865673065186	 ([washington][iraq][home][america][billion][spending][iraq][george][bush][monday][13][competitive][air...])
+v(31 32): -3.3092541694641113	 ([kerry][says])
+v(1 2 3 4 5 6 8 9 11 12 13 14 15 17 18 19 20 22 23 28 29 30 33 34 35 39): 6.789807319641113	 ([-][democrat][john][kerry][links][cost][war][problems][vows][new][television][ad][" defend][fight][middle][class. "][" 200][dollars.][that's][chose][go][alone, "][ad,][start][airing][states])
+v(0 1 2 3 4 7 10 16 21 24 25 26 27 36 37 38 40): 8.13375186920166	 ([washington][-][democrat][john][kerry][iraq][home][america][billion][spending][iraq][george][bush][monday][13][competitive][air...])
+v(1 2 3 4 31 32): 8.341896057128906	 ([-][democrat][john][kerry][kerry][says])
+v(0 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 33 34 35 36 37 38 39 40): 1.1873347759246826	 ([washington][links][cost][iraq][war][problems][home][vows][new][television][ad][" defend][america][fight][middle][class. "][" 200][billion][dollars.][that's][spending][iraq][george][bush][chose][go][alone, "][ad,][start][airing][monday][13][competitive][states][air...])
+v(5 6 8 9 11 12 13 14 15 17 18 19 20 22 23 28 29 30 31 32 33 34 35 39): -8.002028465270996	 ([links][cost][war][problems][vows][new][television][ad][" defend][fight][middle][class. "][" 200][dollars.][that's][chose][go][alone, "][kerry][says][ad,][start][airing][states])
+v(0 7 10 16 21 24 25 26 27 31 32 36 37 38 40): 5.398299217224121	 ([washington][iraq][home][america][billion][spending][iraq][george][bush][kerry][says][monday][13][competitive][air...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 33 34 35 36 37 38 39 40): 8.511815071105957	 ([washington][-][democrat][john][kerry][links][cost][iraq][war][problems][home][vows][new][television][ad][" defend][america][fight][middle][class. "][" 200][billion][dollars.][that's][spending][iraq][george][bush][chose][go][alone, "][ad,][start][airing][monday][13][competitive][states][air...])
+v(1 2 3 4 5 6 8 9 11 12 13 14 15 17 18 19 20 22 23 28 29 30 31 32 33 34 35 39): 6.427052021026611	 ([-][democrat][john][kerry][links][cost][war][problems][vows][new][television][ad][" defend][fight][middle][class. "][" 200][dollars.][that's][chose][go][alone, "][kerry][says][ad,][start][airing][states])
+v(0 1 2 3 4 7 10 16 21 24 25 26 27 31 32 36 37 38 40): 8.296856880187988	 ([washington][-][democrat][john][kerry][iraq][home][america][billion][spending][iraq][george][bush][kerry][says][monday][13][competitive][air...])
+v(0 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40): 5.582404136657715	 ([washington][links][cost][iraq][war][problems][home][vows][new][television][ad][" defend][america][fight][middle][class. "][" 200][billion][dollars.][that's][spending][iraq][george][bush][chose][go][alone, "][kerry][says][ad,][start][airing][monday][13][competitive][states][air...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40): 8.464165687561035	 ([washington][-][democrat][john][kerry][links][cost][iraq][war][problems][home][vows][new][television][ad][" defend][america][fight][middle][class. "][" 200][billion][dollars.][that's][spending][iraq][george][bush][chose][go][alone, "][kerry][says][ad,][start][airing][monday][13][competitive][states][air...])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 33 34 35 36 37 38 39 40): 13.877297401428223, EP: 1.0034455060958862	 ([washington][-][democrat][john][kerry][links][cost][iraq][war][problems][home][vows][new][television][ad][" defend][america][fight][middle][class. "][" 200][billion][dollars.][that's][spending][iraq][george][bush][chose][go][alone, "][ad,][start][airing][monday][13][competitive][states][air...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40): 13.8296480178833, EP: 1.0	 ([washington][-][democrat][john][kerry][links][cost][iraq][war][problems][home][vows][new][television][ad][" defend][america][fight][middle][class. "][" 200][billion][dollars.][that's][spending][iraq][george][bush][chose][go][alone, "][kerry][says][ad,][start][airing][monday][13][competitive][states][air...])
+v(1 2 3 4 31 32): 13.707378387451172, EP: 0.9911589026451111	 ([-][democrat][john][kerry][kerry][says])
+v(0 1 2 3 4 7 10 16 21 24 25 26 27 31 32 36 37 38 40): 13.662339210510254, EP: 0.9879021644592285	 ([washington][-][democrat][john][kerry][iraq][home][america][billion][spending][iraq][george][bush][kerry][says][monday][13][competitive][air...])
+v(1 2 3 4): 13.520003318786621, EP: 0.9776100516319275	 ([-][democrat][john][kerry])
+v(0 1 2 3 4 7 10 16 21 24 25 26 27 36 37 38 40): 13.499234199523926, EP: 0.9761083126068115	 ([washington][-][democrat][john][kerry][iraq][home][america][billion][spending][iraq][george][bush][monday][13][competitive][air...])
+v(1 2 3 4 5 6 8 9 11 12 13 14 15 17 18 19 20 22 23 28 29 30 33 34 35 39): 12.155289649963379, EP: 0.8789297938346863	 ([-][democrat][john][kerry][links][cost][war][problems][vows][new][television][ad][" defend][fight][middle][class. "][" 200][dollars.][that's][chose][go][alone, "][ad,][start][airing][states])
+v(1 2 3 4 5 6 8 9 11 12 13 14 15 17 18 19 20 22 23 28 29 30 31 32 33 34 35 39): 11.792533874511719, EP: 0.8526995182037354	 ([-][democrat][john][kerry][links][cost][war][problems][vows][new][television][ad][" defend][fight][middle][class. "][" 200][dollars.][that's][chose][go][alone, "][kerry][says][ad,][start][airing][states])
+v(0 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40): 10.94788646697998, EP: 0.7916243672370911	 ([washington][links][cost][iraq][war][problems][home][vows][new][television][ad][" defend][america][fight][middle][class. "][" 200][billion][dollars.][that's][spending][iraq][george][bush][chose][go][alone, "][kerry][says][ad,][start][airing][monday][13][competitive][states][air...])
+v(0 7 10 16 21 24 25 26 27 31 32 36 37 38 40): 10.763781547546387, EP: 0.7783120274543762	 ([washington][iraq][home][america][billion][spending][iraq][george][bush][kerry][says][monday][13][competitive][air...])
+v(0 7 10 16 21 24 25 26 27 36 37 38 40): 8.860669136047363, EP: 0.6407009959220886	 ([washington][iraq][home][america][billion][spending][iraq][george][bush][monday][13][competitive][air...])
+v(0 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 33 34 35 36 37 38 39 40): 6.552817344665527, EP: 0.4738238751888275	 ([washington][links][cost][iraq][war][problems][home][vows][new][television][ad][" defend][america][fight][middle][class. "][" 200][billion][dollars.][that's][spending][iraq][george][bush][chose][go][alone, "][ad,][start][airing][monday][13][competitive][states][air...])
+v(5 6 8 9 11 12 13 14 15 17 18 19 20 22 23 28 29 30 33 34 35 39): -2.8641796112060547, EP: -0.20710429549217224	 ([links][cost][war][problems][vows][new][television][ad][" defend][fight][middle][class. "][" 200][dollars.][that's][chose][go][alone, "][ad,][start][airing][states])
+v(5 6 8 9 11 12 13 14 15 17 18 19 20 22 23 28 29 30 31 32 33 34 35 39): -2.6365461349487305, EP: -0.19064448773860931	 ([links][cost][war][problems][vows][new][television][ad][" defend][fight][middle][class. "][" 200][dollars.][that's][chose][go][alone, "][kerry][says][ad,][start][airing][states])
+v(31 32): 2.0562281608581543, EP: 0.1486826092004776	 ([kerry][says])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

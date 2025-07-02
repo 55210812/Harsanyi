@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: united
+Player 1: nations
+Player 2: secretary
+Player 3: general
+Player 4: kofi
+Player 5: annan
+Player 6: said
+Player 7: week
+Player 8: us
+Player 9: war
+Player 10: iraq
+Player 11: illegal
+Player 12: questioned
+Player 13: whether
+Player 14: country
+Player 15: could
+Player 16: hold
+Player 17: credible
+---------- Rewards ----------
+v(): -7.740201950073242	 ([])
+v(0 1 2 3): 7.785089492797852	 ([united][nations][secretary][general])
+v(4 9 10 11 13 15 16 17): 8.330458641052246	 ([kofi][war][iraq][illegal][whether][could][hold][credible])
+v(5 6 7 8 12 14): 1.1485159397125244	 ([annan][said][week][us][questioned][country])
+v(0 1 2 3 4 9 10 11 13 15 16 17): 8.443403244018555	 ([united][nations][secretary][general][kofi][war][iraq][illegal][whether][could][hold][credible])
+v(0 1 2 3 5 6 7 8 12 14): 7.976315975189209	 ([united][nations][secretary][general][annan][said][week][us][questioned][country])
+v(4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.45205307006836	 ([kofi][annan][said][week][us][war][iraq][illegal][questioned][whether][country][could][hold][credible])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.383784294128418	 ([united][nations][secretary][general][kofi][annan][said][week][us][war][iraq][illegal][questioned][whether][country][could][hold][credible])
+---------- Rewards-v() ----------
+v(4 5 6 7 8 9 10 11 12 13 14 15 16 17): 16.1922550201416, EP: 1.0042340755462646	 ([kofi][annan][said][week][us][war][iraq][illegal][questioned][whether][country][could][hold][credible])
+v(0 1 2 3 4 9 10 11 13 15 16 17): 16.183605194091797, EP: 1.0036976337432861	 ([united][nations][secretary][general][kofi][war][iraq][illegal][whether][could][hold][credible])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 16.123985290527344, EP: 1.0	 ([united][nations][secretary][general][kofi][annan][said][week][us][war][iraq][illegal][questioned][whether][country][could][hold][credible])
+v(4 9 10 11 13 15 16 17): 16.070659637451172, EP: 0.9966927766799927	 ([kofi][war][iraq][illegal][whether][could][hold][credible])
+v(0 1 2 3 5 6 7 8 12 14): 15.71651840209961, EP: 0.9747291207313538	 ([united][nations][secretary][general][annan][said][week][us][questioned][country])
+v(0 1 2 3): 15.525291442871094, EP: 0.9628693461418152	 ([united][nations][secretary][general])
+v(5 6 7 8 12 14): 8.888717651367188, EP: 0.551272988319397	 ([annan][said][week][us][questioned][country])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

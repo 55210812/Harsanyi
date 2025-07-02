@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: leading
+Player 1: majors
+Player 2: 105
+Player 3: regular - season
+Player 4: victories,
+Player 5: st.
+Player 6: louis
+Player 7: cardinals
+Player 8: entered
+Player 9: playoffs
+Player 10: expecting
+Player 11: win
+Player 12: world
+Player 13: series.
+---------- Rewards ----------
+v(): -4.953751564025879	 ([])
+v(0 2 3 12 13): 2.3589367866516113	 ([leading][105][regular - season][world][series.])
+v(1 4 5 6 9 11): 9.474123001098633	 ([majors][victories,][st.][louis][playoffs][win])
+v(7 8 10): 3.9520182609558105	 ([cardinals][entered][expecting])
+v(0 1 2 3 4 5 6 9 11 12 13): 8.810881614685059	 ([leading][majors][105][regular - season][victories,][st.][louis][playoffs][win][world][series.])
+v(0 2 3 7 8 10 12 13): 9.333992958068848	 ([leading][105][regular - season][cardinals][entered][expecting][world][series.])
+v(1 4 5 6 7 8 9 10 11): 9.079806327819824	 ([majors][victories,][st.][louis][cardinals][entered][playoffs][expecting][win])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 4.638951301574707	 ([leading][majors][105][regular - season][victories,][st.][louis][cardinals][entered][playoffs][expecting][win][world][series.])
+---------- Rewards-v() ----------
+v(1 4 5 6 9 11): 14.427874565124512, EP: 1.5040467977523804	 ([majors][victories,][st.][louis][playoffs][win])
+v(0 2 3 7 8 10 12 13): 14.287744522094727, EP: 1.4894388914108276	 ([leading][105][regular - season][cardinals][entered][expecting][world][series.])
+v(1 4 5 6 7 8 9 10 11): 14.033557891845703, EP: 1.4629409313201904	 ([majors][victories,][st.][louis][cardinals][entered][playoffs][expecting][win])
+v(0 1 2 3 4 5 6 9 11 12 13): 13.764633178710938, EP: 1.4349066019058228	 ([leading][majors][105][regular - season][victories,][st.][louis][playoffs][win][world][series.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 9.592702865600586, EP: 1.0	 ([leading][majors][105][regular - season][victories,][st.][louis][cardinals][entered][playoffs][expecting][win][world][series.])
+v(7 8 10): 8.905769348144531, EP: 0.9283899664878845	 ([cardinals][entered][expecting])
+v(0 2 3 12 13): 7.31268835067749, EP: 0.7623178362846375	 ([leading][105][regular - season][world][series.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

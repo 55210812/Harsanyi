@@ -1,0 +1,45 @@
+---------- Players ----------
+Player 0: sales
+Player 1: british
+Player 2: retailers
+Player 3: rose
+Player 4: greater - than - expected
+Player 5: 0. 6
+Player 6: percent
+Player 7: november,
+Player 8: led
+Player 9: household
+Player 10: goods,
+Player 11: clothing
+Player 12: footwear,
+Player 13: stores
+Player 14: including
+Player 15: marks
+Player 16: amp ;
+Player 17: spencer
+Player 18: group
+Player 19: plc
+Player 20: offered
+Player 21: discounts
+Player 22: lure
+Player 23: holiday
+Player 24: shoppers.
+---------- Rewards ----------
+v(): -5.1601409912109375	 ([])
+v(0 1 2 7 9 10 20 22 23 24): 8.087852478027344	 ([sales][british][retailers][november,][household][goods,][offered][lure][holiday][shoppers.])
+v(3 4 5 6 8 11 12 14 15 16): 7.940361499786377	 ([rose][greater - than - expected][0. 6][percent][led][clothing][footwear,][including][marks][amp ;])
+v(13 17 18 19 21): 8.509641647338867	 ([stores][spencer][group][plc][discounts])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 20 22 23 24): 7.5475897789001465	 ([sales][british][retailers][rose][greater - than - expected][0. 6][percent][november,][led][household][goods,][clothing][footwear,][including][marks][amp ;][offered][lure][holiday][shoppers.])
+v(0 1 2 7 9 10 13 17 18 19 20 21 22 23 24): 8.259483337402344	 ([sales][british][retailers][november,][household][goods,][stores][spencer][group][plc][offered][discounts][lure][holiday][shoppers.])
+v(3 4 5 6 8 11 12 13 14 15 16 17 18 19 21): 8.33327865600586	 ([rose][greater - than - expected][0. 6][percent][led][clothing][footwear,][stores][including][marks][amp ;][spencer][group][plc][discounts])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 7.668315887451172	 ([sales][british][retailers][rose][greater - than - expected][0. 6][percent][november,][led][household][goods,][clothing][footwear,][stores][including][marks][amp ;][spencer][group][plc][offered][discounts][lure][holiday][shoppers.])
+---------- Rewards-v() ----------
+v(13 17 18 19 21): 13.669782638549805, EP: 1.0655827522277832	 ([stores][spencer][group][plc][discounts])
+v(3 4 5 6 8 11 12 13 14 15 16 17 18 19 21): 13.493419647216797, EP: 1.0518349409103394	 ([rose][greater - than - expected][0. 6][percent][led][clothing][footwear,][stores][including][marks][amp ;][spencer][group][plc][discounts])
+v(0 1 2 7 9 10 13 17 18 19 20 21 22 23 24): 13.419624328613281, EP: 1.0460824966430664	 ([sales][british][retailers][november,][household][goods,][stores][spencer][group][plc][offered][discounts][lure][holiday][shoppers.])
+v(0 1 2 7 9 10 20 22 23 24): 13.247993469238281, EP: 1.0327036380767822	 ([sales][british][retailers][november,][household][goods,][offered][lure][holiday][shoppers.])
+v(3 4 5 6 8 11 12 14 15 16): 13.100502014160156, EP: 1.0212063789367676	 ([rose][greater - than - expected][0. 6][percent][led][clothing][footwear,][including][marks][amp ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 12.82845687866211, EP: 1.0	 ([sales][british][retailers][rose][greater - than - expected][0. 6][percent][november,][led][household][goods,][clothing][footwear,][stores][including][marks][amp ;][spencer][group][plc][offered][discounts][lure][holiday][shoppers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 20 22 23 24): 12.707731246948242, EP: 0.9905892610549927	 ([sales][british][retailers][rose][greater - than - expected][0. 6][percent][november,][led][household][goods,][clothing][footwear,][including][marks][amp ;][offered][lure][holiday][shoppers.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: philadelphia
+Player 3: defensive
+Player 4: end
+Player 5: jerome
+Player 6: mcdougle
+Player 7: missed
+Player 8: practice
+Player 9: friday
+Player 10: irregular
+Player 11: heartbeat
+Player 12: doubtful
+Player 13: eagles '
+Player 14: game
+Player 15: weekend
+Player 16: cleveland.
+---------- Rewards ----------
+v(): -2.135003089904785	 ([])
+v(1 2 3 4 5): 9.688838958740234	 ([-][philadelphia][defensive][end][jerome])
+v(0 6 8 9 13 15 16): 9.607940673828125	 ([ap][mcdougle][practice][friday][eagles '][weekend][cleveland.])
+v(7 10 11 12 14): 4.170337677001953	 ([missed][irregular][heartbeat][doubtful][game])
+v(0 1 2 3 4 5 6 8 9 13 15 16): 9.625469207763672	 ([ap][-][philadelphia][defensive][end][jerome][mcdougle][practice][friday][eagles '][weekend][cleveland.])
+v(1 2 3 4 5 7 10 11 12 14): 9.720531463623047	 ([-][philadelphia][defensive][end][jerome][missed][irregular][heartbeat][doubtful][game])
+v(0 6 7 8 9 10 11 12 13 14 15 16): 9.525714874267578	 ([ap][mcdougle][missed][practice][friday][irregular][heartbeat][doubtful][eagles '][game][weekend][cleveland.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.644920349121094	 ([ap][-][philadelphia][defensive][end][jerome][mcdougle][missed][practice][friday][irregular][heartbeat][doubtful][eagles '][game][weekend][cleveland.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 7 10 11 12 14): 11.855534553527832, EP: 1.0064185857772827	 ([-][philadelphia][defensive][end][jerome][missed][irregular][heartbeat][doubtful][game])
+v(1 2 3 4 5): 11.82384204864502, EP: 1.0037282705307007	 ([-][philadelphia][defensive][end][jerome])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 11.779923439025879, EP: 1.0	 ([ap][-][philadelphia][defensive][end][jerome][mcdougle][missed][practice][friday][irregular][heartbeat][doubtful][eagles '][game][weekend][cleveland.])
+v(0 1 2 3 4 5 6 8 9 13 15 16): 11.760472297668457, EP: 0.9983487725257874	 ([ap][-][philadelphia][defensive][end][jerome][mcdougle][practice][friday][eagles '][weekend][cleveland.])
+v(0 6 8 9 13 15 16): 11.74294376373291, EP: 0.9968608021736145	 ([ap][mcdougle][practice][friday][eagles '][weekend][cleveland.])
+v(0 6 7 8 9 10 11 12 13 14 15 16): 11.660717964172363, EP: 0.9898806214332581	 ([ap][mcdougle][missed][practice][friday][irregular][heartbeat][doubtful][eagles '][game][weekend][cleveland.])
+v(7 10 11 12 14): 6.305340766906738, EP: 0.5352616310119629	 ([missed][irregular][heartbeat][doubtful][game])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

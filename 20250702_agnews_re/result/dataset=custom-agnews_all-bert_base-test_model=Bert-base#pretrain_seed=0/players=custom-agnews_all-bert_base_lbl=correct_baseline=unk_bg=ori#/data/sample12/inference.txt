@@ -1,0 +1,37 @@
+Execution time: 2025-07-02 19:17:56
+prompt: [CLS] afp - pakistani security forces arrested an egyptian al - qaeda operative in the northwestern city of peshawar bordering afghanistan, a security official said. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:21358 decoded_text: af
+idx:2 input_id:2361 decoded_text: ##p
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:9889 decoded_text: pakistani
+idx:5 input_id:3036 decoded_text: security
+idx:6 input_id:2749 decoded_text: forces
+idx:7 input_id:4727 decoded_text: arrested
+idx:8 input_id:2019 decoded_text: an
+idx:9 input_id:6811 decoded_text: egyptian
+idx:10 input_id:2632 decoded_text: al
+idx:11 input_id:1011 decoded_text: -
+idx:12 input_id:18659 decoded_text: qaeda
+idx:13 input_id:12160 decoded_text: operative
+idx:14 input_id:1999 decoded_text: in
+idx:15 input_id:1996 decoded_text: the
+idx:16 input_id:7855 decoded_text: northwestern
+idx:17 input_id:2103 decoded_text: city
+idx:18 input_id:1997 decoded_text: of
+idx:19 input_id:28777 decoded_text: peshawar
+idx:20 input_id:18299 decoded_text: bordering
+idx:21 input_id:7041 decoded_text: afghanistan
+idx:22 input_id:1010 decoded_text: ,
+idx:23 input_id:1037 decoded_text: a
+idx:24 input_id:3036 decoded_text: security
+idx:25 input_id:2880 decoded_text: official
+idx:26 input_id:2056 decoded_text: said
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.136772155761719, -1.6634491682052612, -2.8780128955841064, -2.166506052017212]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

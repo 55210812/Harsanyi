@@ -1,0 +1,48 @@
+---------- Players ----------
+Player 0: tokyo
+Player 1: ( reuters )
+Player 2: -
+Player 3: nikkei
+Player 4: average
+Player 5: rose
+Player 6: 0. 24
+Player 7: percent
+Player 8: open
+Player 9: thursday
+Player 10: recovery
+Player 11: dollar
+Player 12: helped
+Player 13: exporters,
+Player 14: though
+Player 15: trade
+Player 16: slow
+Player 17: investors
+Player 18: awaited
+Player 19: key
+Player 20: domestic
+Player 21: economic
+Player 22: data
+Player 23: earnings
+Player 24: reports
+Player 25: companies
+Player 26: rohm
+Player 27: co.
+---------- Rewards ----------
+v(): -4.516628265380859	 ([])
+v(0 3 4 6 7 8 9 11 13 15 17 20 23): 6.37894344329834	 ([tokyo][nikkei][average][0. 24][percent][open][thursday][dollar][exporters,][trade][investors][domestic][earnings])
+v(1 2 10 12 14 16 18 21 22 24 25): 6.930439472198486	 ([( reuters )][-][recovery][helped][though][slow][awaited][economic][data][reports][companies])
+v(5 19 26 27): 3.7960617542266846	 ([rose][key][rohm][co.])
+v(0 1 2 3 4 6 7 8 9 10 11 12 13 14 15 16 17 18 20 21 22 23 24 25): 7.537402153015137	 ([tokyo][( reuters )][-][nikkei][average][0. 24][percent][open][thursday][recovery][dollar][helped][exporters,][though][trade][slow][investors][awaited][domestic][economic][data][earnings][reports][companies])
+v(0 3 4 5 6 7 8 9 11 13 15 17 19 20 23 26 27): 7.445188045501709	 ([tokyo][nikkei][average][rose][0. 24][percent][open][thursday][dollar][exporters,][trade][investors][key][domestic][earnings][rohm][co.])
+v(1 2 5 10 12 14 16 18 19 21 22 24 25 26 27): 7.802947998046875	 ([( reuters )][-][rose][recovery][helped][though][slow][awaited][key][economic][data][reports][companies][rohm][co.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 7.808814525604248	 ([tokyo][( reuters )][-][nikkei][average][rose][0. 24][percent][open][thursday][recovery][dollar][helped][exporters,][though][trade][slow][investors][awaited][key][domestic][economic][data][earnings][reports][companies][rohm][co.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 12.325443267822266, EP: 1.0	 ([tokyo][( reuters )][-][nikkei][average][rose][0. 24][percent][open][thursday][recovery][dollar][helped][exporters,][though][trade][slow][investors][awaited][key][domestic][economic][data][earnings][reports][companies][rohm][co.])
+v(1 2 5 10 12 14 16 18 19 21 22 24 25 26 27): 12.319576263427734, EP: 0.9995239973068237	 ([( reuters )][-][rose][recovery][helped][though][slow][awaited][key][economic][data][reports][companies][rohm][co.])
+v(0 1 2 3 4 6 7 8 9 10 11 12 13 14 15 16 17 18 20 21 22 23 24 25): 12.054030418395996, EP: 0.9779794812202454	 ([tokyo][( reuters )][-][nikkei][average][0. 24][percent][open][thursday][recovery][dollar][helped][exporters,][though][trade][slow][investors][awaited][domestic][economic][data][earnings][reports][companies])
+v(0 3 4 5 6 7 8 9 11 13 15 17 19 20 23 26 27): 11.961816787719727, EP: 0.9704979062080383	 ([tokyo][nikkei][average][rose][0. 24][percent][open][thursday][dollar][exporters,][trade][investors][key][domestic][earnings][rohm][co.])
+v(1 2 10 12 14 16 18 21 22 24 25): 11.447067260742188, EP: 0.9287347197532654	 ([( reuters )][-][recovery][helped][though][slow][awaited][economic][data][reports][companies])
+v(0 3 4 6 7 8 9 11 13 15 17 20 23): 10.8955717086792, EP: 0.8839902281761169	 ([tokyo][nikkei][average][0. 24][percent][open][thursday][dollar][exporters,][trade][investors][domestic][earnings])
+v(5 19 26 27): 8.312689781188965, EP: 0.6744333505630493	 ([rose][key][rohm][co.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: throwback
+Player 1: uniforms
+Player 2: illinois
+Player 3: planned
+Player 4: unveil
+Player 5: wednesday
+Player 6: wake
+Player 7: forest
+Player 8: sent
+Player 9: back
+Player 10: tailor.
+Player 11: appears
+Player 12: flyin
+Player 13: # 39 ;
+Player 14: illini
+Player 15: replicas
+Player 16: big
+Player 17: baggy
+Player 18: shorts.
+---------- Rewards ----------
+v(): -1.8828306198120117	 ([])
+v(2 3 4 6 7 8 9 11): -3.663135051727295	 ([illinois][planned][unveil][wake][forest][sent][back][appears])
+v(1 5 10 12 13 14 18): 3.7800323963165283	 ([uniforms][wednesday][tailor.][flyin][# 39 ;][illini][shorts.])
+v(0 15 16 17): -1.2138135433197021	 ([throwback][replicas][big][baggy])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 18): 9.554073333740234	 ([uniforms][illinois][planned][unveil][wednesday][wake][forest][sent][back][tailor.][appears][flyin][# 39 ;][illini][shorts.])
+v(0 2 3 4 6 7 8 9 11 15 16 17): 9.446176528930664	 ([throwback][illinois][planned][unveil][wake][forest][sent][back][appears][replicas][big][baggy])
+v(0 1 5 10 12 13 14 15 16 17 18): 9.46700668334961	 ([throwback][uniforms][wednesday][tailor.][flyin][# 39 ;][illini][replicas][big][baggy][shorts.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.498477935791016	 ([throwback][uniforms][illinois][planned][unveil][wednesday][wake][forest][sent][back][tailor.][appears][flyin][# 39 ;][illini][replicas][big][baggy][shorts.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 18): 11.436903953552246, EP: 1.0048848390579224	 ([uniforms][illinois][planned][unveil][wednesday][wake][forest][sent][back][tailor.][appears][flyin][# 39 ;][illini][shorts.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 11.381308555603027, EP: 1.0	 ([throwback][uniforms][illinois][planned][unveil][wednesday][wake][forest][sent][back][tailor.][appears][flyin][# 39 ;][illini][replicas][big][baggy][shorts.])
+v(0 1 5 10 12 13 14 15 16 17 18): 11.349837303161621, EP: 0.9972348213195801	 ([throwback][uniforms][wednesday][tailor.][flyin][# 39 ;][illini][replicas][big][baggy][shorts.])
+v(0 2 3 4 6 7 8 9 11 15 16 17): 11.329007148742676, EP: 0.9954046010971069	 ([throwback][illinois][planned][unveil][wake][forest][sent][back][appears][replicas][big][baggy])
+v(1 5 10 12 13 14 18): 5.662862777709961, EP: 0.4975581467151642	 ([uniforms][wednesday][tailor.][flyin][# 39 ;][illini][shorts.])
+v(2 3 4 6 7 8 9 11): -1.7803044319152832, EP: -0.15642352402210236	 ([illinois][planned][unveil][wake][forest][sent][back][appears])
+v(0 15 16 17): 0.6690170764923096, EP: 0.05878208577632904	 ([throwback][replicas][big][baggy])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

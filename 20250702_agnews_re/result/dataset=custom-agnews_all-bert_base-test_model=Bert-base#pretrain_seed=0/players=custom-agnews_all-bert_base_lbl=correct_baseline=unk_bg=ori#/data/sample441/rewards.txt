@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: homestead,
+Player 1: fla.
+Player 2: -
+Player 3: nextel
+Player 4: cup
+Player 5: championship,
+Player 6: 35
+Player 7: races,
+Player 8: winds
+Player 9: one,
+Player 10: man
+Player 11: start
+Player 12: pole
+Player 13: todays
+Player 14: ford
+Player 15: 400
+Player 16: occupies
+Player 17: similarly
+Player 18: lofty
+Player 19: perch
+Player 20: title
+Player 21: race.
+---------- Rewards ----------
+v(): -5.5683722496032715	 ([])
+v(1 2 3 4 10 16 18 19): -3.231109857559204	 ([fla.][-][nextel][cup][man][occupies][lofty][perch])
+v(0 9 12 13 14 15): -4.187652587890625	 ([homestead,][one,][pole][todays][ford][400])
+v(5 6 7 8 11 17 20 21): 6.014092445373535	 ([championship,][35][races,][winds][start][similarly][title][race.])
+v(0 1 2 3 4 9 10 12 13 14 15 16 18 19): 9.65631103515625	 ([homestead,][fla.][-][nextel][cup][one,][man][pole][todays][ford][400][occupies][lofty][perch])
+v(1 2 3 4 5 6 7 8 10 11 16 17 18 19 20 21): 9.641036033630371	 ([fla.][-][nextel][cup][championship,][35][races,][winds][man][start][occupies][similarly][lofty][perch][title][race.])
+v(0 5 6 7 8 9 11 12 13 14 15 17 20 21): 9.157136917114258	 ([homestead,][championship,][35][races,][winds][one,][start][pole][todays][ford][400][similarly][title][race.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.351402282714844	 ([homestead,][fla.][-][nextel][cup][championship,][35][races,][winds][one,][man][start][pole][todays][ford][400][occupies][similarly][lofty][perch][title][race.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 9 10 12 13 14 15 16 18 19): 15.22468376159668, EP: 1.0204365253448486	 ([homestead,][fla.][-][nextel][cup][one,][man][pole][todays][ford][400][occupies][lofty][perch])
+v(1 2 3 4 5 6 7 8 10 11 16 17 18 19 20 21): 15.209407806396484, EP: 1.019412636756897	 ([fla.][-][nextel][cup][championship,][35][races,][winds][man][start][occupies][similarly][lofty][perch][title][race.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 14.919775009155273, EP: 1.0	 ([homestead,][fla.][-][nextel][cup][championship,][35][races,][winds][one,][man][start][pole][todays][ford][400][occupies][similarly][lofty][perch][title][race.])
+v(0 5 6 7 8 9 11 12 13 14 15 17 20 21): 14.725509643554688, EP: 0.9869793653488159	 ([homestead,][championship,][35][races,][winds][one,][start][pole][todays][ford][400][similarly][title][race.])
+v(5 6 7 8 11 17 20 21): 11.582464218139648, EP: 0.7763162851333618	 ([championship,][35][races,][winds][start][similarly][title][race.])
+v(1 2 3 4 10 16 18 19): 2.3372623920440674, EP: 0.15665534138679504	 ([fla.][-][nextel][cup][man][occupies][lofty][perch])
+v(0 9 12 13 14 15): 1.3807196617126465, EP: 0.09254293143749237	 ([homestead,][one,][pole][todays][ford][400])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

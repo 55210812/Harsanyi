@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: house
+Player 1: senate
+Player 2: conferees
+Player 3: agreed
+Player 4: let
+Player 5: energy
+Player 6: department
+Player 7: leave
+Player 8: radioactive
+Player 9: waste
+Player 10: tanks
+Player 11: south
+Player 12: carolina
+Player 13: idaho,
+Player 14: instead
+Player 15: pumping
+Player 16: deep
+Player 17: burial.
+---------- Rewards ----------
+v(): 3.9630141258239746	 ([])
+v(5 6 15): -6.1889142990112305	 ([energy][department][pumping])
+v(3 8 9 10 11 12 13 16 17): 7.6653547286987305	 ([agreed][radioactive][waste][tanks][south][carolina][idaho,][deep][burial.])
+v(0 1 2 4 7 14): 0.07618391513824463	 ([house][senate][conferees][let][leave][instead])
+v(3 5 6 8 9 10 11 12 13 15 16 17): 6.835568904876709	 ([agreed][energy][department][radioactive][waste][tanks][south][carolina][idaho,][pumping][deep][burial.])
+v(0 1 2 4 5 6 7 14 15): -4.7937092781066895	 ([house][senate][conferees][let][energy][department][leave][instead][pumping])
+v(0 1 2 3 4 7 8 9 10 11 12 13 14 16 17): 7.253408908843994	 ([house][senate][conferees][agreed][let][leave][radioactive][waste][tanks][south][carolina][idaho,][instead][deep][burial.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 1.769141674041748	 ([house][senate][conferees][agreed][let][energy][department][leave][radioactive][waste][tanks][south][carolina][idaho,][instead][pumping][deep][burial.])
+---------- Rewards-v() ----------
+v(5 6 15): -10.151927947998047, EP: 4.627401351928711	 ([energy][department][pumping])
+v(0 1 2 4 5 6 7 14 15): -8.756723403930664, EP: 3.991446018218994	 ([house][senate][conferees][let][energy][department][leave][instead][pumping])
+v(0 1 2 4 7 14): -3.8868303298950195, EP: 1.7716755867004395	 ([house][senate][conferees][let][leave][instead])
+v(3 8 9 10 11 12 13 16 17): 3.702340602874756, EP: -1.6875823736190796	 ([agreed][radioactive][waste][tanks][south][carolina][idaho,][deep][burial.])
+v(0 1 2 3 4 7 8 9 10 11 12 13 14 16 17): 3.2903947830200195, EP: -1.4998112916946411	 ([house][senate][conferees][agreed][let][leave][radioactive][waste][tanks][south][carolina][idaho,][instead][deep][burial.])
+v(3 5 6 8 9 10 11 12 13 15 16 17): 2.8725547790527344, EP: -1.3093535900115967	 ([agreed][energy][department][radioactive][waste][tanks][south][carolina][idaho,][pumping][deep][burial.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): -2.1938724517822266, EP: 1.0	 ([house][senate][conferees][agreed][let][energy][department][leave][radioactive][waste][tanks][south][carolina][idaho,][instead][pumping][deep][burial.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

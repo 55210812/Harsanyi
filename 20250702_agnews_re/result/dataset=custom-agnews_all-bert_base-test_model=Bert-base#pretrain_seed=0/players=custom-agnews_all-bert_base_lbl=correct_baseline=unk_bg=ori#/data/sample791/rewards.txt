@@ -1,0 +1,61 @@
+---------- Players ----------
+Player 0: description :
+Player 1: actor
+Player 2: carl
+Player 3: reiner
+Player 4: found
+Player 5: life
+Player 6: # 39 ; s
+Player 7: calling
+Player 8: third
+Player 9: grade,
+Player 10: making
+Player 11: classmates
+Player 12: laugh
+Player 13: walking
+Player 14: hands.
+Player 15: actor,
+Player 16: comedian
+Player 17: director
+Player 18: joins
+Player 19: npr
+Player 20: # 39 ; s
+Player 21: neal
+Player 22: conan
+Player 23: takes
+Player 24: calls.
+---------- Rewards ----------
+v(): 0.6480143666267395	 ([])
+v(1 2 15 16 17 21): -1.4296754598617554	 ([actor][carl][actor,][comedian][director][neal])
+v(8 9 22): 0.4104752540588379	 ([third][grade,][conan])
+v(3 10 11 12 19 20): 2.319240093231201	 ([reiner][making][classmates][laugh][npr][# 39 ; s])
+v(0 4 5 6 7 13 14 18 23 24): 2.762714385986328	 ([description :][found][life][# 39 ; s][calling][walking][hands.][joins][takes][calls.])
+v(1 2 8 9 15 16 17 21 22): -0.7836101055145264	 ([actor][carl][third][grade,][actor,][comedian][director][neal][conan])
+v(1 2 3 10 11 12 15 16 17 19 20 21): 1.0595952272415161	 ([actor][carl][reiner][making][classmates][laugh][actor,][comedian][director][npr][# 39 ; s][neal])
+v(0 1 2 4 5 6 7 13 14 15 16 17 18 21 23 24): 0.3309112787246704	 ([description :][actor][carl][found][life][# 39 ; s][calling][walking][hands.][actor,][comedian][director][joins][neal][takes][calls.])
+v(3 8 9 10 11 12 19 20 22): 2.476604461669922	 ([reiner][third][grade,][making][classmates][laugh][npr][# 39 ; s][conan])
+v(0 4 5 6 7 8 9 13 14 18 22 23 24): 4.623362064361572	 ([description :][found][life][# 39 ; s][calling][third][grade,][walking][hands.][joins][conan][takes][calls.])
+v(0 3 4 5 6 7 10 11 12 13 14 18 19 20 23 24): 5.360007286071777	 ([description :][reiner][found][life][# 39 ; s][calling][making][classmates][laugh][walking][hands.][joins][npr][# 39 ; s][takes][calls.])
+v(1 2 3 8 9 10 11 12 15 16 17 19 20 21 22): 1.0004931688308716	 ([actor][carl][reiner][third][grade,][making][classmates][laugh][actor,][comedian][director][npr][# 39 ; s][neal][conan])
+v(0 1 2 4 5 6 7 8 9 13 14 15 16 17 18 21 22 23 24): 2.073197841644287	 ([description :][actor][carl][found][life][# 39 ; s][calling][third][grade,][walking][hands.][actor,][comedian][director][joins][neal][conan][takes][calls.])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 19 20 21 23 24): 6.300032138824463	 ([description :][actor][carl][reiner][found][life][# 39 ; s][calling][making][classmates][laugh][walking][hands.][actor,][comedian][director][joins][npr][# 39 ; s][neal][takes][calls.])
+v(0 3 4 5 6 7 8 9 10 11 12 13 14 18 19 20 22 23 24): 4.512093544006348	 ([description :][reiner][found][life][# 39 ; s][calling][third][grade,][making][classmates][laugh][walking][hands.][joins][npr][# 39 ; s][conan][takes][calls.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 4.840258598327637	 ([description :][actor][carl][reiner][found][life][# 39 ; s][calling][third][grade,][making][classmates][laugh][walking][hands.][actor,][comedian][director][joins][npr][# 39 ; s][neal][conan][takes][calls.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 19 20 21 23 24): 5.652017593383789, EP: 1.3482081890106201	 ([description :][actor][carl][reiner][found][life][# 39 ; s][calling][making][classmates][laugh][walking][hands.][actor,][comedian][director][joins][npr][# 39 ; s][neal][takes][calls.])
+v(0 3 4 5 6 7 10 11 12 13 14 18 19 20 23 24): 4.7119927406311035, EP: 1.123978614807129	 ([description :][reiner][found][life][# 39 ; s][calling][making][classmates][laugh][walking][hands.][joins][npr][# 39 ; s][takes][calls.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 4.192244052886963, EP: 1.0	 ([description :][actor][carl][reiner][found][life][# 39 ; s][calling][third][grade,][making][classmates][laugh][walking][hands.][actor,][comedian][director][joins][npr][# 39 ; s][neal][conan][takes][calls.])
+v(0 4 5 6 7 8 9 13 14 18 22 23 24): 3.9753477573394775, EP: 0.9482625126838684	 ([description :][found][life][# 39 ; s][calling][third][grade,][walking][hands.][joins][conan][takes][calls.])
+v(0 3 4 5 6 7 8 9 10 11 12 13 14 18 19 20 22 23 24): 3.864079236984253, EP: 0.9217209815979004	 ([description :][reiner][found][life][# 39 ; s][calling][third][grade,][making][classmates][laugh][walking][hands.][joins][npr][# 39 ; s][conan][takes][calls.])
+v(0 4 5 6 7 13 14 18 23 24): 2.1147000789642334, EP: 0.5044315457344055	 ([description :][found][life][# 39 ; s][calling][walking][hands.][joins][takes][calls.])
+v(1 2 15 16 17 21): -2.0776898860931396, EP: -0.4956032633781433	 ([actor][carl][actor,][comedian][director][neal])
+v(3 8 9 10 11 12 19 20 22): 1.8285901546478271, EP: 0.4361840784549713	 ([reiner][third][grade,][making][classmates][laugh][npr][# 39 ; s][conan])
+v(3 10 11 12 19 20): 1.6712257862091064, EP: 0.3986470699310303	 ([reiner][making][classmates][laugh][npr][# 39 ; s])
+v(1 2 8 9 15 16 17 21 22): -1.431624412536621, EP: -0.3414935767650604	 ([actor][carl][third][grade,][actor,][comedian][director][neal][conan])
+v(0 1 2 4 5 6 7 8 9 13 14 15 16 17 18 21 22 23 24): 1.4251835346221924, EP: 0.33995720744132996	 ([description :][actor][carl][found][life][# 39 ; s][calling][third][grade,][walking][hands.][actor,][comedian][director][joins][neal][conan][takes][calls.])
+v(1 2 3 10 11 12 15 16 17 19 20 21): 0.4115808606147766, EP: 0.0981767401099205	 ([actor][carl][reiner][making][classmates][laugh][actor,][comedian][director][npr][# 39 ; s][neal])
+v(1 2 3 8 9 10 11 12 15 16 17 19 20 21 22): 0.3524788022041321, EP: 0.08407878875732422	 ([actor][carl][reiner][third][grade,][making][classmates][laugh][actor,][comedian][director][npr][# 39 ; s][neal][conan])
+v(0 1 2 4 5 6 7 13 14 15 16 17 18 21 23 24): -0.3171030879020691, EP: -0.07564041763544083	 ([description :][actor][carl][found][life][# 39 ; s][calling][walking][hands.][actor,][comedian][director][joins][neal][takes][calls.])
+v(8 9 22): -0.2375391125679016, EP: -0.056661564856767654	 ([third][grade,][conan])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

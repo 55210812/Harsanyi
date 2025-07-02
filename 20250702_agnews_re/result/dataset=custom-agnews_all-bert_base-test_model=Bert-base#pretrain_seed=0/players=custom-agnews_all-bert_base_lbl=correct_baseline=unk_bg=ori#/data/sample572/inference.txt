@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 19:31:26
+prompt: [CLS] the president of the nation # 39 ; s largest flight attendants union yesterday vowed that its members would go on a nationwide strike if us airways and united airlines are allowed to nullify their labor contracts in bankruptcy court. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2343 decoded_text: president
+idx:3 input_id:1997 decoded_text: of
+idx:4 input_id:1996 decoded_text: the
+idx:5 input_id:3842 decoded_text: nation
+idx:6 input_id:1001 decoded_text: #
+idx:7 input_id:4464 decoded_text: 39
+idx:8 input_id:1025 decoded_text: ;
+idx:9 input_id:1055 decoded_text: s
+idx:10 input_id:2922 decoded_text: largest
+idx:11 input_id:3462 decoded_text: flight
+idx:12 input_id:26727 decoded_text: attendants
+idx:13 input_id:2586 decoded_text: union
+idx:14 input_id:7483 decoded_text: yesterday
+idx:15 input_id:18152 decoded_text: vowed
+idx:16 input_id:2008 decoded_text: that
+idx:17 input_id:2049 decoded_text: its
+idx:18 input_id:2372 decoded_text: members
+idx:19 input_id:2052 decoded_text: would
+idx:20 input_id:2175 decoded_text: go
+idx:21 input_id:2006 decoded_text: on
+idx:22 input_id:1037 decoded_text: a
+idx:23 input_id:9053 decoded_text: nationwide
+idx:24 input_id:4894 decoded_text: strike
+idx:25 input_id:2065 decoded_text: if
+idx:26 input_id:2149 decoded_text: us
+idx:27 input_id:13095 decoded_text: airways
+idx:28 input_id:1998 decoded_text: and
+idx:29 input_id:2142 decoded_text: united
+idx:30 input_id:7608 decoded_text: airlines
+idx:31 input_id:2024 decoded_text: are
+idx:32 input_id:3039 decoded_text: allowed
+idx:33 input_id:2000 decoded_text: to
+idx:34 input_id:19701 decoded_text: null
+idx:35 input_id:8757 decoded_text: ##ify
+idx:36 input_id:2037 decoded_text: their
+idx:37 input_id:4450 decoded_text: labor
+idx:38 input_id:8311 decoded_text: contracts
+idx:39 input_id:1999 decoded_text: in
+idx:40 input_id:10528 decoded_text: bankruptcy
+idx:41 input_id:2457 decoded_text: court
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.8422799110412598, -3.2278597354888916, 6.815167427062988, -2.7051260471343994]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

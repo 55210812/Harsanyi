@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: newsfactor
+Player 1: -
+Player 2: routine
+Player 3: software
+Player 4: upgrade
+Player 5: microsoft - based
+Player 6: desktop
+Player 7: computers
+Player 8: led
+Player 9: crash
+Player 10: around
+Player 11: 40, 000
+Player 12: machines
+Player 13: uk
+Player 14: government's
+Player 15: department
+Player 16: work
+Player 17: pensions
+Player 18: last
+Player 19: week.
+---------- Rewards ----------
+v(): 0.6741781234741211	 ([])
+v(1 2 9 10 13 14 15 16 17): 3.0402345657348633	 ([-][routine][crash][around][uk][government's][department][work][pensions])
+v(0 3 4 5 6 7 8 11 12): 7.714142322540283	 ([newsfactor][software][upgrade][microsoft - based][desktop][computers][led][40, 000][machines])
+v(18 19): -0.4796070456504822	 ([last][week.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.37608528137207	 ([newsfactor][-][routine][software][upgrade][microsoft - based][desktop][computers][led][crash][around][40, 000][machines][uk][government's][department][work][pensions])
+v(1 2 9 10 13 14 15 16 17 18 19): 3.3042216300964355	 ([-][routine][crash][around][uk][government's][department][work][pensions][last][week.])
+v(0 3 4 5 6 7 8 11 12 18 19): 7.262111663818359	 ([newsfactor][software][upgrade][microsoft - based][desktop][computers][led][40, 000][machines][last][week.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.244181632995605	 ([newsfactor][-][routine][software][upgrade][microsoft - based][desktop][computers][led][crash][around][40, 000][machines][uk][government's][department][work][pensions][last][week.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 7.701907157897949, EP: 1.017424464225769	 ([newsfactor][-][routine][software][upgrade][microsoft - based][desktop][computers][led][crash][around][40, 000][machines][uk][government's][department][work][pensions])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.570003509521484, EP: 1.0	 ([newsfactor][-][routine][software][upgrade][microsoft - based][desktop][computers][led][crash][around][40, 000][machines][uk][government's][department][work][pensions][last][week.])
+v(0 3 4 5 6 7 8 11 12): 7.039964199066162, EP: 0.9299816489219666	 ([newsfactor][software][upgrade][microsoft - based][desktop][computers][led][40, 000][machines])
+v(0 3 4 5 6 7 8 11 12 18 19): 6.587933540344238, EP: 0.8702682256698608	 ([newsfactor][software][upgrade][microsoft - based][desktop][computers][led][40, 000][machines][last][week.])
+v(1 2 9 10 13 14 15 16 17 18 19): 2.6300435066223145, EP: 0.34742963314056396	 ([-][routine][crash][around][uk][government's][department][work][pensions][last][week.])
+v(1 2 9 10 13 14 15 16 17): 2.366056442260742, EP: 0.3125568628311157	 ([-][routine][crash][around][uk][government's][department][work][pensions])
+v(18 19): -1.153785228729248, EP: -0.1524154096841812	 ([last][week.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

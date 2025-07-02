@@ -1,0 +1,17 @@
+---------- Players ----------
+Player 0: senior
+Player 1: chinese
+Player 2: official
+Player 3: tells
+Player 4: bbc
+Player 5: country's
+Player 6: environmental
+Player 7: problems
+Player 8: reached
+Player 9: crisis
+Player 10: levels.
+---------- AND Interactions (Pairwise Only) ----------
+I(9 10): -5.909107208251953	 ([crisis][levels.])
+I(0 1): 5.178656578063965	 ([senior][chinese])
+Sum: -0.7304506301879883
+==================================================

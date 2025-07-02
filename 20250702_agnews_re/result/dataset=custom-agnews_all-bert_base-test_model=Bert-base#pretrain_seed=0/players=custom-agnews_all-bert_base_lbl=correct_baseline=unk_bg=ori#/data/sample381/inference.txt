@@ -1,0 +1,57 @@
+Execution time: 2025-07-02 19:26:46
+prompt: [CLS] bombay : india # 39 ; s bid to secure a face - saving win over australia got off on the wrong foot after they lost two quick wickets in the 11 overs bowled on the rain - hit opening day of the fourth test here. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:11831 decoded_text: bombay
+idx:2 input_id:1024 decoded_text: :
+idx:3 input_id:2634 decoded_text: india
+idx:4 input_id:1001 decoded_text: #
+idx:5 input_id:4464 decoded_text: 39
+idx:6 input_id:1025 decoded_text: ;
+idx:7 input_id:1055 decoded_text: s
+idx:8 input_id:7226 decoded_text: bid
+idx:9 input_id:2000 decoded_text: to
+idx:10 input_id:5851 decoded_text: secure
+idx:11 input_id:1037 decoded_text: a
+idx:12 input_id:2227 decoded_text: face
+idx:13 input_id:1011 decoded_text: -
+idx:14 input_id:7494 decoded_text: saving
+idx:15 input_id:2663 decoded_text: win
+idx:16 input_id:2058 decoded_text: over
+idx:17 input_id:2660 decoded_text: australia
+idx:18 input_id:2288 decoded_text: got
+idx:19 input_id:2125 decoded_text: off
+idx:20 input_id:2006 decoded_text: on
+idx:21 input_id:1996 decoded_text: the
+idx:22 input_id:3308 decoded_text: wrong
+idx:23 input_id:3329 decoded_text: foot
+idx:24 input_id:2044 decoded_text: after
+idx:25 input_id:2027 decoded_text: they
+idx:26 input_id:2439 decoded_text: lost
+idx:27 input_id:2048 decoded_text: two
+idx:28 input_id:4248 decoded_text: quick
+idx:29 input_id:10370 decoded_text: wickets
+idx:30 input_id:1999 decoded_text: in
+idx:31 input_id:1996 decoded_text: the
+idx:32 input_id:2340 decoded_text: 11
+idx:33 input_id:15849 decoded_text: overs
+idx:34 input_id:19831 decoded_text: bowled
+idx:35 input_id:2006 decoded_text: on
+idx:36 input_id:1996 decoded_text: the
+idx:37 input_id:4542 decoded_text: rain
+idx:38 input_id:1011 decoded_text: -
+idx:39 input_id:2718 decoded_text: hit
+idx:40 input_id:3098 decoded_text: opening
+idx:41 input_id:2154 decoded_text: day
+idx:42 input_id:1997 decoded_text: of
+idx:43 input_id:1996 decoded_text: the
+idx:44 input_id:2959 decoded_text: fourth
+idx:45 input_id:3231 decoded_text: test
+idx:46 input_id:2182 decoded_text: here
+idx:47 input_id:1012 decoded_text: .
+idx:48 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.910745620727539, 8.123282432556152, -2.094404935836792, -2.0726044178009033]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

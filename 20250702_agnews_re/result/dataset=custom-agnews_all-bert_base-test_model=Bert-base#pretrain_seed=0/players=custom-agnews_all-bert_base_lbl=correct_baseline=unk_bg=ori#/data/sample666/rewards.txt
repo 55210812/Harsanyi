@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: bill
+Player 1: belichick,
+Player 2: preference.
+Player 3: mind,
+Player 4: turning
+Player 5: ncaa
+Player 6: defensive
+Player 7: ends
+Player 8: nfl
+Player 9: linebackers
+Player 10: practically
+Player 11: necessity.
+---------- Rewards ----------
+v(): -3.01650071144104	 ([])
+v(1 5 8 9): 9.096500396728516	 ([belichick,][ncaa][nfl][linebackers])
+v(2 6 7 11): -3.2929129600524902	 ([preference.][defensive][ends][necessity.])
+v(0 3 4 10): -1.4034667015075684	 ([bill][mind,][turning][practically])
+v(1 2 5 6 7 8 9 11): 9.36395263671875	 ([belichick,][preference.][ncaa][defensive][ends][nfl][linebackers][necessity.])
+v(0 1 3 4 5 8 9 10): 8.785110473632812	 ([bill][belichick,][mind,][turning][ncaa][nfl][linebackers][practically])
+v(0 2 3 4 6 7 10 11): 2.6768903732299805	 ([bill][preference.][mind,][turning][defensive][ends][practically][necessity.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 8.45259952545166	 ([bill][belichick,][preference.][mind,][turning][ncaa][defensive][ends][nfl][linebackers][practically][necessity.])
+---------- Rewards-v() ----------
+v(1 2 5 6 7 8 9 11): 12.380453109741211, EP: 1.0794615745544434	 ([belichick,][preference.][ncaa][defensive][ends][nfl][linebackers][necessity.])
+v(1 5 8 9): 12.113000869750977, EP: 1.0561422109603882	 ([belichick,][ncaa][nfl][linebackers])
+v(0 1 3 4 5 8 9 10): 11.801610946655273, EP: 1.028991937637329	 ([bill][belichick,][mind,][turning][ncaa][nfl][linebackers][practically])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 11.469099998474121, EP: 1.0	 ([bill][belichick,][preference.][mind,][turning][ncaa][defensive][ends][nfl][linebackers][practically][necessity.])
+v(0 2 3 4 6 7 10 11): 5.693390846252441, EP: 0.4964112937450409	 ([bill][preference.][mind,][turning][defensive][ends][practically][necessity.])
+v(0 3 4 10): 1.6130340099334717, EP: 0.1406417191028595	 ([bill][mind,][turning][practically])
+v(2 6 7 11): -0.2764122486114502, EP: -0.02410060539841652	 ([preference.][defensive][ends][necessity.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

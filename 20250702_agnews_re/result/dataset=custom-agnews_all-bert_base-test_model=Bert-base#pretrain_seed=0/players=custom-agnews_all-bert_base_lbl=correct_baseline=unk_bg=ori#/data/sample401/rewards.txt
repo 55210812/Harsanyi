@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: regulators
+Player 3: calling
+Player 4: first,
+Player 5: government
+Player 6: asked
+Player 7: court
+Player 8: order
+Player 9: shut
+Player 10: spyware
+Player 11: operation.
+---------- Rewards ----------
+v(): 5.020942687988281	 ([])
+v(7 8 11): 3.0841944217681885	 ([court][order][operation.])
+v(0 1 2 5 6 9 10): 6.86328125	 ([ap][-][regulators][government][asked][shut][spyware])
+v(3 4): 2.548231601715088	 ([calling][first,])
+v(0 1 2 5 6 7 8 9 10 11): 4.270754337310791	 ([ap][-][regulators][government][asked][court][order][shut][spyware][operation.])
+v(3 4 7 8 11): 0.40233564376831055	 ([calling][first,][court][order][operation.])
+v(0 1 2 3 4 5 6 9 10): 5.868968486785889	 ([ap][-][regulators][calling][first,][government][asked][shut][spyware])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 4.572718143463135	 ([ap][-][regulators][calling][first,][government][asked][court][order][shut][spyware][operation.])
+---------- Rewards-v() ----------
+v(3 4 7 8 11): -4.618607044219971, EP: 10.30422592163086	 ([calling][first,][court][order][operation.])
+v(3 4): -2.4727110862731934, EP: 5.516679286956787	 ([calling][first,])
+v(7 8 11): -1.9367482662200928, EP: 4.320932865142822	 ([court][order][operation.])
+v(0 1 2 5 6 9 10): 1.8423385620117188, EP: -4.110302925109863	 ([ap][-][regulators][government][asked][shut][spyware])
+v(0 1 2 3 4 5 6 9 10): 0.8480257987976074, EP: -1.891966462135315	 ([ap][-][regulators][calling][first,][government][asked][shut][spyware])
+v(0 1 2 5 6 7 8 9 10 11): -0.7501883506774902, EP: 1.6736886501312256	 ([ap][-][regulators][government][asked][court][order][shut][spyware][operation.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): -0.4482245445251465, EP: 1.0	 ([ap][-][regulators][calling][first,][government][asked][court][order][shut][spyware][operation.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

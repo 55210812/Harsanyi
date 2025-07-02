@@ -1,0 +1,59 @@
+---------- Players ----------
+Player 0: washington
+Player 1: sept.
+Player 2: 30,
+Player 3: 2004
+Player 4: -
+Player 5: top
+Player 6: executives
+Player 7: fannie
+Player 8: mae
+Player 9: called
+Player 10: congress
+Player 11: explain
+Player 12: accounting
+Player 13: lapse
+Player 14: lawmakers
+Player 15: delve
+Player 16: operations
+Player 17: mortgage
+Player 18: giant
+Player 19: already
+Player 20: investigation
+Player 21: federal
+Player 22: regulators.
+---------- Rewards ----------
+v(): -6.369299411773682	 ([])
+v(7 8): 8.120166778564453	 ([fannie][mae])
+v(0 4 5 6 10 14 17 19 20 21 22): 8.150517463684082	 ([washington][-][top][executives][congress][lawmakers][mortgage][already][investigation][federal][regulators.])
+v(9 11 12 13 15 16 18): 4.484322547912598	 ([called][explain][accounting][lapse][delve][operations][giant])
+v(1 2 3): -6.4847869873046875	 ([sept.][30,][2004])
+v(0 4 5 6 7 8 10 14 17 19 20 21 22): 8.605106353759766	 ([washington][-][top][executives][fannie][mae][congress][lawmakers][mortgage][already][investigation][federal][regulators.])
+v(7 8 9 11 12 13 15 16 18): 8.490311622619629	 ([fannie][mae][called][explain][accounting][lapse][delve][operations][giant])
+v(1 2 3 7 8): 8.130859375	 ([sept.][30,][2004][fannie][mae])
+v(0 4 5 6 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.434514045715332	 ([washington][-][top][executives][called][congress][explain][accounting][lapse][lawmakers][delve][operations][mortgage][giant][already][investigation][federal][regulators.])
+v(0 1 2 3 4 5 6 10 14 17 19 20 21 22): 8.29326057434082	 ([washington][sept.][30,][2004][-][top][executives][congress][lawmakers][mortgage][already][investigation][federal][regulators.])
+v(1 2 3 9 11 12 13 15 16 18): 5.513415813446045	 ([sept.][30,][2004][called][explain][accounting][lapse][delve][operations][giant])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.414741516113281	 ([washington][-][top][executives][fannie][mae][called][congress][explain][accounting][lapse][lawmakers][delve][operations][mortgage][giant][already][investigation][federal][regulators.])
+v(0 1 2 3 4 5 6 7 8 10 14 17 19 20 21 22): 8.560970306396484	 ([washington][sept.][30,][2004][-][top][executives][fannie][mae][congress][lawmakers][mortgage][already][investigation][federal][regulators.])
+v(1 2 3 7 8 9 11 12 13 15 16 18): 8.489324569702148	 ([sept.][30,][2004][fannie][mae][called][explain][accounting][lapse][delve][operations][giant])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.4758939743042	 ([washington][sept.][30,][2004][-][top][executives][called][congress][explain][accounting][lapse][lawmakers][delve][operations][mortgage][giant][already][investigation][federal][regulators.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.200578689575195	 ([washington][sept.][30,][2004][-][top][executives][fannie][mae][called][congress][explain][accounting][lapse][lawmakers][delve][operations][mortgage][giant][already][investigation][federal][regulators.])
+---------- Rewards-v() ----------
+v(0 4 5 6 7 8 10 14 17 19 20 21 22): 14.974405288696289, EP: 1.0277646780014038	 ([washington][-][top][executives][fannie][mae][congress][lawmakers][mortgage][already][investigation][federal][regulators.])
+v(0 1 2 3 4 5 6 7 8 10 14 17 19 20 21 22): 14.930269241333008, EP: 1.0247353315353394	 ([washington][sept.][30,][2004][-][top][executives][fannie][mae][congress][lawmakers][mortgage][already][investigation][federal][regulators.])
+v(7 8 9 11 12 13 15 16 18): 14.859611511230469, EP: 1.019885778427124	 ([fannie][mae][called][explain][accounting][lapse][delve][operations][giant])
+v(1 2 3 7 8 9 11 12 13 15 16 18): 14.858623504638672, EP: 1.0198179483413696	 ([sept.][30,][2004][fannie][mae][called][explain][accounting][lapse][delve][operations][giant])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.845193862915039, EP: 1.018896222114563	 ([washington][sept.][30,][2004][-][top][executives][called][congress][explain][accounting][lapse][lawmakers][delve][operations][mortgage][giant][already][investigation][federal][regulators.])
+v(0 4 5 6 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.803813934326172, EP: 1.0160561800003052	 ([washington][-][top][executives][called][congress][explain][accounting][lapse][lawmakers][delve][operations][mortgage][giant][already][investigation][federal][regulators.])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.784040451049805, EP: 1.0146989822387695	 ([washington][-][top][executives][fannie][mae][called][congress][explain][accounting][lapse][lawmakers][delve][operations][mortgage][giant][already][investigation][federal][regulators.])
+v(0 1 2 3 4 5 6 10 14 17 19 20 21 22): 14.662559509277344, EP: 1.0063612461090088	 ([washington][sept.][30,][2004][-][top][executives][congress][lawmakers][mortgage][already][investigation][federal][regulators.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.569877624511719, EP: 1.0	 ([washington][sept.][30,][2004][-][top][executives][fannie][mae][called][congress][explain][accounting][lapse][lawmakers][delve][operations][mortgage][giant][already][investigation][federal][regulators.])
+v(0 4 5 6 10 14 17 19 20 21 22): 14.519817352294922, EP: 0.9965641498565674	 ([washington][-][top][executives][congress][lawmakers][mortgage][already][investigation][federal][regulators.])
+v(1 2 3 7 8): 14.500158309936523, EP: 0.9952148199081421	 ([sept.][30,][2004][fannie][mae])
+v(7 8): 14.489465713500977, EP: 0.9944809675216675	 ([fannie][mae])
+v(1 2 3 9 11 12 13 15 16 18): 11.882715225219727, EP: 0.8155672550201416	 ([sept.][30,][2004][called][explain][accounting][lapse][delve][operations][giant])
+v(9 11 12 13 15 16 18): 10.853622436523438, EP: 0.7449357509613037	 ([called][explain][accounting][lapse][delve][operations][giant])
+v(1 2 3): -0.11548757553100586, EP: -0.007926461286842823	 ([sept.][30,][2004])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

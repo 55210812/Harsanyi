@@ -1,0 +1,59 @@
+---------- Players ----------
+Player 0: berlin :
+Player 1: surging
+Player 2: oil
+Player 3: costs
+Player 4: heighten
+Player 5: risks
+Player 6: euro
+Player 7: zone
+Player 8: recovery,
+Player 9: european
+Player 10: central
+Player 11: bank
+Player 12: president
+Player 13: jean - claude
+Player 14: trichet
+Player 15: said
+Player 16: yesterday
+Player 17: interview
+Player 18: pushed
+Player 19: prospects
+Player 20: credit
+Player 21: tightening
+Player 22: background.
+---------- Rewards ----------
+v(): -5.016060829162598	 ([])
+v(3 18 19 22): 3.9770851135253906	 ([costs][pushed][prospects][background.])
+v(1 2 4 6 7 8 11 13): 8.338546752929688	 ([surging][oil][heighten][euro][zone][recovery,][bank][jean - claude])
+v(5 14 15 17 20 21): 7.337693691253662	 ([risks][trichet][said][interview][credit][tightening])
+v(0 9 10 12 16): -4.374873161315918	 ([berlin :][european][central][president][yesterday])
+v(1 2 3 4 6 7 8 11 13 18 19 22): 8.322214126586914	 ([surging][oil][costs][heighten][euro][zone][recovery,][bank][jean - claude][pushed][prospects][background.])
+v(3 5 14 15 17 18 19 20 21 22): 7.5339674949646	 ([costs][risks][trichet][said][interview][pushed][prospects][credit][tightening][background.])
+v(0 3 9 10 12 16 18 19 22): -3.4992117881774902	 ([berlin :][costs][european][central][president][yesterday][pushed][prospects][background.])
+v(1 2 4 5 6 7 8 11 13 14 15 17 20 21): 7.7039971351623535	 ([surging][oil][heighten][risks][euro][zone][recovery,][bank][jean - claude][trichet][said][interview][credit][tightening])
+v(0 1 2 4 6 7 8 9 10 11 12 13 16): 5.928648948669434	 ([berlin :][surging][oil][heighten][euro][zone][recovery,][european][central][bank][president][jean - claude][yesterday])
+v(0 5 9 10 12 14 15 16 17 20 21): 1.6034538745880127	 ([berlin :][risks][european][central][president][trichet][said][yesterday][interview][credit][tightening])
+v(1 2 3 4 5 6 7 8 11 13 14 15 17 18 19 20 21 22): 7.799612522125244	 ([surging][oil][costs][heighten][risks][euro][zone][recovery,][bank][jean - claude][trichet][said][interview][pushed][prospects][credit][tightening][background.])
+v(0 1 2 3 4 6 7 8 9 10 11 12 13 16 18 19 22): 5.737757205963135	 ([berlin :][surging][oil][costs][heighten][euro][zone][recovery,][european][central][bank][president][jean - claude][yesterday][pushed][prospects][background.])
+v(0 3 5 9 10 12 14 15 16 17 18 19 20 21 22): 1.5764505863189697	 ([berlin :][costs][risks][european][central][president][trichet][said][yesterday][interview][pushed][prospects][credit][tightening][background.])
+v(0 1 2 4 5 6 7 8 9 10 11 12 13 14 15 16 17 20 21): 5.758134841918945	 ([berlin :][surging][oil][heighten][risks][euro][zone][recovery,][european][central][bank][president][jean - claude][trichet][said][yesterday][interview][credit][tightening])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 6.118590831756592	 ([berlin :][surging][oil][costs][heighten][risks][euro][zone][recovery,][european][central][bank][president][jean - claude][trichet][said][yesterday][interview][pushed][prospects][credit][tightening][background.])
+---------- Rewards-v() ----------
+v(1 2 4 6 7 8 11 13): 13.354607582092285, EP: 1.199373722076416	 ([surging][oil][heighten][euro][zone][recovery,][bank][jean - claude])
+v(1 2 3 4 6 7 8 11 13 18 19 22): 13.338274955749512, EP: 1.1979068517684937	 ([surging][oil][costs][heighten][euro][zone][recovery,][bank][jean - claude][pushed][prospects][background.])
+v(1 2 3 4 5 6 7 8 11 13 14 15 17 18 19 20 21 22): 12.815673828125, EP: 1.1509721279144287	 ([surging][oil][costs][heighten][risks][euro][zone][recovery,][bank][jean - claude][trichet][said][interview][pushed][prospects][credit][tightening][background.])
+v(1 2 4 5 6 7 8 11 13 14 15 17 20 21): 12.72005844116211, EP: 1.1423850059509277	 ([surging][oil][heighten][risks][euro][zone][recovery,][bank][jean - claude][trichet][said][interview][credit][tightening])
+v(3 5 14 15 17 18 19 20 21 22): 12.550027847290039, EP: 1.1271145343780518	 ([costs][risks][trichet][said][interview][pushed][prospects][credit][tightening][background.])
+v(5 14 15 17 20 21): 12.353754043579102, EP: 1.1094872951507568	 ([risks][trichet][said][interview][credit][tightening])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 11.134651184082031, EP: 1.0	 ([berlin :][surging][oil][costs][heighten][risks][euro][zone][recovery,][european][central][bank][president][jean - claude][trichet][said][yesterday][interview][pushed][prospects][credit][tightening][background.])
+v(0 1 2 4 6 7 8 9 10 11 12 13 16): 10.944709777832031, EP: 0.9829413890838623	 ([berlin :][surging][oil][heighten][euro][zone][recovery,][european][central][bank][president][jean - claude][yesterday])
+v(0 1 2 4 5 6 7 8 9 10 11 12 13 14 15 16 17 20 21): 10.774195671081543, EP: 0.9676275849342346	 ([berlin :][surging][oil][heighten][risks][euro][zone][recovery,][european][central][bank][president][jean - claude][trichet][said][yesterday][interview][credit][tightening])
+v(0 1 2 3 4 6 7 8 9 10 11 12 13 16 18 19 22): 10.75381851196289, EP: 0.9657975435256958	 ([berlin :][surging][oil][costs][heighten][euro][zone][recovery,][european][central][bank][president][jean - claude][yesterday][pushed][prospects][background.])
+v(3 18 19 22): 8.993145942687988, EP: 0.8076720237731934	 ([costs][pushed][prospects][background.])
+v(0 5 9 10 12 14 15 16 17 20 21): 6.619514465332031, EP: 0.5944967865943909	 ([berlin :][risks][european][central][president][trichet][said][yesterday][interview][credit][tightening])
+v(0 3 5 9 10 12 14 15 16 17 18 19 20 21 22): 6.592511177062988, EP: 0.5920716524124146	 ([berlin :][costs][risks][european][central][president][trichet][said][yesterday][interview][pushed][prospects][credit][tightening][background.])
+v(0 3 9 10 12 16 18 19 22): 1.5168490409851074, EP: 0.1362278014421463	 ([berlin :][costs][european][central][president][yesterday][pushed][prospects][background.])
+v(0 9 10 12 16): 0.6411876678466797, EP: 0.057584889233112335	 ([berlin :][european][central][president][yesterday])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

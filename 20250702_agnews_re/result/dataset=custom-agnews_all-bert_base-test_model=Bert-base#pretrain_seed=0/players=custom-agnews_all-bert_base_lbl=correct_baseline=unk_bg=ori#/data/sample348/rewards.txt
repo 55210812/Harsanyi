@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: toronto
+Player 1: -
+Player 2: rising
+Player 3: costs
+Player 4: us
+Player 5: operations
+Player 6: pulled
+Player 7: third - quarter
+Player 8: earnings
+Player 9: cott
+Player 10: corp.,
+Player 11: soft
+Player 12: drink
+Player 13: company
+Player 14: reported
+Player 15: wednesday.
+---------- Rewards ----------
+v(): -1.7250467538833618	 ([])
+v(7 8 10 11 15): 7.8359503746032715	 ([third - quarter][earnings][corp.,][soft][wednesday.])
+v(0 4 5 6 9): 8.102564811706543	 ([toronto][us][operations][pulled][cott])
+v(1 2 3 12 13 14): 7.892096519470215	 ([-][rising][costs][drink][company][reported])
+v(0 4 5 6 7 8 9 10 11 15): 6.945300579071045	 ([toronto][us][operations][pulled][third - quarter][earnings][cott][corp.,][soft][wednesday.])
+v(1 2 3 7 8 10 11 12 13 14 15): 8.06363296508789	 ([-][rising][costs][third - quarter][earnings][corp.,][soft][drink][company][reported][wednesday.])
+v(0 1 2 3 4 5 6 9 12 13 14): 8.252551078796387	 ([toronto][-][rising][costs][us][operations][pulled][cott][drink][company][reported])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.3885345458984375	 ([toronto][-][rising][costs][us][operations][pulled][third - quarter][earnings][cott][corp.,][soft][drink][company][reported][wednesday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 9 12 13 14): 9.977598190307617, EP: 1.094805359840393	 ([toronto][-][rising][costs][us][operations][pulled][cott][drink][company][reported])
+v(0 4 5 6 9): 9.827611923217773, EP: 1.07834792137146	 ([toronto][us][operations][pulled][cott])
+v(1 2 3 7 8 10 11 12 13 14 15): 9.788680076599121, EP: 1.0740760564804077	 ([-][rising][costs][third - quarter][earnings][corp.,][soft][drink][company][reported][wednesday.])
+v(1 2 3 12 13 14): 9.617143630981445, EP: 1.0552539825439453	 ([-][rising][costs][drink][company][reported])
+v(7 8 10 11 15): 9.560997009277344, EP: 1.049093246459961	 ([third - quarter][earnings][corp.,][soft][wednesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.113581657409668, EP: 1.0	 ([toronto][-][rising][costs][us][operations][pulled][third - quarter][earnings][cott][corp.,][soft][drink][company][reported][wednesday.])
+v(0 4 5 6 7 8 9 10 11 15): 8.670347213745117, EP: 0.9513655304908752	 ([toronto][us][operations][pulled][third - quarter][earnings][cott][corp.,][soft][wednesday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

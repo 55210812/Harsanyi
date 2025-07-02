@@ -1,0 +1,106 @@
+---------- Players ----------
+Player 0: lincoln
+Player 1: - -
+Player 2: moment,
+Player 3: walter
+Player 4: mccarty
+Player 5: sizable
+Player 6: hands
+Player 7: full.
+Player 8: holding
+Player 9: 15 - month - old
+Player 10: gabrielle,
+Player 11: plus
+Player 12: baggie
+Player 13: full
+Player 14: cheerios
+Player 15: elmo
+Player 16: book
+Player 17: her,
+Player 18: grape
+Player 19: soda
+Player 20: himself.
+Player 21: doorbell
+Player 22: rings.
+Player 23: contractor,
+Player 24: wanting
+Player 25: vehicle
+Player 26: moved
+Player 27: driveway.
+Player 28: there's
+Player 29: backhoe
+Player 30: digging
+Player 31: pool,
+Player 32: another
+Player 33: one
+Player 34: tunneling
+Player 35: 4
+Player 36: feet
+Player 37: ...
+---------- Rewards ----------
+v(): -0.46589112281799316	 ([])
+v(0 4 6 10 11 17 26 31): 6.420309543609619	 ([lincoln][mccarty][hands][gabrielle,][plus][her,][moved][pool,])
+v(32 33 34 35 36): 1.3040671348571777	 ([another][one][tunneling][4][feet])
+v(2 3 12 13 14 15 16 19 25 27 37): 3.1576032638549805	 ([moment,][walter][baggie][full][cheerios][elmo][book][soda][vehicle][driveway.][...])
+v(20 21 22 23 24 30): 0.08675909042358398	 ([himself.][doorbell][rings.][contractor,][wanting][digging])
+v(1 5 7 8 9 18 28 29): -3.168022394180298	 ([- -][sizable][full.][holding][15 - month - old][grape][there's][backhoe])
+v(0 4 6 10 11 17 26 31 32 33 34 35 36): 6.847029685974121	 ([lincoln][mccarty][hands][gabrielle,][plus][her,][moved][pool,][another][one][tunneling][4][feet])
+v(0 2 3 4 6 10 11 12 13 14 15 16 17 19 25 26 27 31 37): 8.774643898010254	 ([lincoln][moment,][walter][mccarty][hands][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][soda][vehicle][moved][driveway.][pool,][...])
+v(0 4 6 10 11 17 20 21 22 23 24 26 30 31): 6.185223579406738	 ([lincoln][mccarty][hands][gabrielle,][plus][her,][himself.][doorbell][rings.][contractor,][wanting][moved][digging][pool,])
+v(0 1 4 5 6 7 8 9 10 11 17 18 26 28 29 31): 8.152291297912598	 ([lincoln][- -][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][her,][grape][moved][there's][backhoe][pool,])
+v(2 3 12 13 14 15 16 19 25 27 32 33 34 35 36 37): 4.460444927215576	 ([moment,][walter][baggie][full][cheerios][elmo][book][soda][vehicle][driveway.][another][one][tunneling][4][feet][...])
+v(20 21 22 23 24 30 32 33 34 35 36): 1.2062958478927612	 ([himself.][doorbell][rings.][contractor,][wanting][digging][another][one][tunneling][4][feet])
+v(1 5 7 8 9 18 28 29 32 33 34 35 36): -2.5664193630218506	 ([- -][sizable][full.][holding][15 - month - old][grape][there's][backhoe][another][one][tunneling][4][feet])
+v(2 3 12 13 14 15 16 19 20 21 22 23 24 25 27 30 37): 3.5495402812957764	 ([moment,][walter][baggie][full][cheerios][elmo][book][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][driveway.][digging][...])
+v(1 2 3 5 7 8 9 12 13 14 15 16 18 19 25 27 28 29 37): 5.005913257598877	 ([- -][moment,][walter][sizable][full.][holding][15 - month - old][baggie][full][cheerios][elmo][book][grape][soda][vehicle][driveway.][there's][backhoe][...])
+v(1 5 7 8 9 18 20 21 22 23 24 28 29 30): -0.5397902727127075	 ([- -][sizable][full.][holding][15 - month - old][grape][himself.][doorbell][rings.][contractor,][wanting][there's][backhoe][digging])
+v(0 2 3 4 6 10 11 12 13 14 15 16 17 19 25 26 27 31 32 33 34 35 36 37): 8.661113739013672	 ([lincoln][moment,][walter][mccarty][hands][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][soda][vehicle][moved][driveway.][pool,][another][one][tunneling][4][feet][...])
+v(0 4 6 10 11 17 20 21 22 23 24 26 30 31 32 33 34 35 36): 6.729394912719727	 ([lincoln][mccarty][hands][gabrielle,][plus][her,][himself.][doorbell][rings.][contractor,][wanting][moved][digging][pool,][another][one][tunneling][4][feet])
+v(0 1 4 5 6 7 8 9 10 11 17 18 26 28 29 31 32 33 34 35 36): 8.238492965698242	 ([lincoln][- -][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][her,][grape][moved][there's][backhoe][pool,][another][one][tunneling][4][feet])
+v(0 2 3 4 6 10 11 12 13 14 15 16 17 19 20 21 22 23 24 25 26 27 30 31 37): 8.536569595336914	 ([lincoln][moment,][walter][mccarty][hands][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][moved][driveway.][digging][pool,][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 25 26 27 28 29 31 37): 9.023773193359375	 ([lincoln][- -][moment,][walter][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][grape][soda][vehicle][moved][driveway.][there's][backhoe][pool,][...])
+v(0 1 4 5 6 7 8 9 10 11 17 18 20 21 22 23 24 26 28 29 30 31): 8.123039245605469	 ([lincoln][- -][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][her,][grape][himself.][doorbell][rings.][contractor,][wanting][moved][there's][backhoe][digging][pool,])
+v(2 3 12 13 14 15 16 19 20 21 22 23 24 25 27 30 32 33 34 35 36 37): 5.111049175262451	 ([moment,][walter][baggie][full][cheerios][elmo][book][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][driveway.][digging][another][one][tunneling][4][feet][...])
+v(1 2 3 5 7 8 9 12 13 14 15 16 18 19 25 27 28 29 32 33 34 35 36 37): 6.04067850112915	 ([- -][moment,][walter][sizable][full.][holding][15 - month - old][baggie][full][cheerios][elmo][book][grape][soda][vehicle][driveway.][there's][backhoe][another][one][tunneling][4][feet][...])
+v(1 5 7 8 9 18 20 21 22 23 24 28 29 30 32 33 34 35 36): 0.8307526111602783	 ([- -][sizable][full.][holding][15 - month - old][grape][himself.][doorbell][rings.][contractor,][wanting][there's][backhoe][digging][another][one][tunneling][4][feet])
+v(1 2 3 5 7 8 9 12 13 14 15 16 18 19 20 21 22 23 24 25 27 28 29 30 37): 6.251989364624023	 ([- -][moment,][walter][sizable][full.][holding][15 - month - old][baggie][full][cheerios][elmo][book][grape][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][driveway.][there's][backhoe][digging][...])
+v(0 2 3 4 6 10 11 12 13 14 15 16 17 19 20 21 22 23 24 25 26 27 30 31 32 33 34 35 36 37): 8.496719360351562	 ([lincoln][moment,][walter][mccarty][hands][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][moved][driveway.][digging][pool,][another][one][tunneling][4][feet][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 25 26 27 28 29 31 32 33 34 35 36 37): 8.994583129882812	 ([lincoln][- -][moment,][walter][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][grape][soda][vehicle][moved][driveway.][there's][backhoe][pool,][another][one][tunneling][4][feet][...])
+v(0 1 4 5 6 7 8 9 10 11 17 18 20 21 22 23 24 26 28 29 30 31 32 33 34 35 36): 8.347925186157227	 ([lincoln][- -][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][her,][grape][himself.][doorbell][rings.][contractor,][wanting][moved][there's][backhoe][digging][pool,][another][one][tunneling][4][feet])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 37): 8.774882316589355	 ([lincoln][- -][moment,][walter][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][grape][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][moved][driveway.][there's][backhoe][digging][pool,][...])
+v(1 2 3 5 7 8 9 12 13 14 15 16 18 19 20 21 22 23 24 25 27 28 29 30 32 33 34 35 36 37): 7.0920305252075195	 ([- -][moment,][walter][sizable][full.][holding][15 - month - old][baggie][full][cheerios][elmo][book][grape][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][driveway.][there's][backhoe][digging][another][one][tunneling][4][feet][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37): 8.650410652160645	 ([lincoln][- -][moment,][walter][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][grape][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][moved][driveway.][there's][backhoe][digging][pool,][another][one][tunneling][4][feet][...])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 25 26 27 28 29 31 37): 9.489664077758789, EP: 1.0409555435180664	 ([lincoln][- -][moment,][walter][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][grape][soda][vehicle][moved][driveway.][there's][backhoe][pool,][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 25 26 27 28 29 31 32 33 34 35 36 37): 9.460474014282227, EP: 1.0377534627914429	 ([lincoln][- -][moment,][walter][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][grape][soda][vehicle][moved][driveway.][there's][backhoe][pool,][another][one][tunneling][4][feet][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 37): 9.24077320098877, EP: 1.0136537551879883	 ([lincoln][- -][moment,][walter][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][grape][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][moved][driveway.][there's][backhoe][digging][pool,][...])
+v(0 2 3 4 6 10 11 12 13 14 15 16 17 19 25 26 27 31 37): 9.240534782409668, EP: 1.0136276483535767	 ([lincoln][moment,][walter][mccarty][hands][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][soda][vehicle][moved][driveway.][pool,][...])
+v(0 2 3 4 6 10 11 12 13 14 15 16 17 19 25 26 27 31 32 33 34 35 36 37): 9.127004623413086, EP: 1.0011740922927856	 ([lincoln][moment,][walter][mccarty][hands][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][soda][vehicle][moved][driveway.][pool,][another][one][tunneling][4][feet][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37): 9.116301536560059, EP: 1.0	 ([lincoln][- -][moment,][walter][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][grape][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][moved][driveway.][there's][backhoe][digging][pool,][another][one][tunneling][4][feet][...])
+v(0 2 3 4 6 10 11 12 13 14 15 16 17 19 20 21 22 23 24 25 26 27 30 31 37): 9.002460479736328, EP: 0.9875123500823975	 ([lincoln][moment,][walter][mccarty][hands][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][moved][driveway.][digging][pool,][...])
+v(0 2 3 4 6 10 11 12 13 14 15 16 17 19 20 21 22 23 24 25 26 27 30 31 32 33 34 35 36 37): 8.962610244750977, EP: 0.9831410646438599	 ([lincoln][moment,][walter][mccarty][hands][gabrielle,][plus][baggie][full][cheerios][elmo][book][her,][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][moved][driveway.][digging][pool,][another][one][tunneling][4][feet][...])
+v(0 1 4 5 6 7 8 9 10 11 17 18 20 21 22 23 24 26 28 29 30 31 32 33 34 35 36): 8.81381607055664, EP: 0.9668192863464355	 ([lincoln][- -][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][her,][grape][himself.][doorbell][rings.][contractor,][wanting][moved][there's][backhoe][digging][pool,][another][one][tunneling][4][feet])
+v(0 1 4 5 6 7 8 9 10 11 17 18 26 28 29 31 32 33 34 35 36): 8.704383850097656, EP: 0.9548152685165405	 ([lincoln][- -][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][her,][grape][moved][there's][backhoe][pool,][another][one][tunneling][4][feet])
+v(0 1 4 5 6 7 8 9 10 11 17 18 26 28 29 31): 8.618182182312012, EP: 0.945359468460083	 ([lincoln][- -][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][her,][grape][moved][there's][backhoe][pool,])
+v(0 1 4 5 6 7 8 9 10 11 17 18 20 21 22 23 24 26 28 29 30 31): 8.588930130004883, EP: 0.9421507120132446	 ([lincoln][- -][mccarty][sizable][hands][full.][holding][15 - month - old][gabrielle,][plus][her,][grape][himself.][doorbell][rings.][contractor,][wanting][moved][there's][backhoe][digging][pool,])
+v(1 2 3 5 7 8 9 12 13 14 15 16 18 19 20 21 22 23 24 25 27 28 29 30 32 33 34 35 36 37): 7.557921409606934, EP: 0.829055666923523	 ([- -][moment,][walter][sizable][full.][holding][15 - month - old][baggie][full][cheerios][elmo][book][grape][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][driveway.][there's][backhoe][digging][another][one][tunneling][4][feet][...])
+v(0 4 6 10 11 17 26 31 32 33 34 35 36): 7.312920570373535, EP: 0.8021806478500366	 ([lincoln][mccarty][hands][gabrielle,][plus][her,][moved][pool,][another][one][tunneling][4][feet])
+v(0 4 6 10 11 17 20 21 22 23 24 26 30 31 32 33 34 35 36): 7.195285797119141, EP: 0.7892768383026123	 ([lincoln][mccarty][hands][gabrielle,][plus][her,][himself.][doorbell][rings.][contractor,][wanting][moved][digging][pool,][another][one][tunneling][4][feet])
+v(0 4 6 10 11 17 26 31): 6.886200904846191, EP: 0.7553722262382507	 ([lincoln][mccarty][hands][gabrielle,][plus][her,][moved][pool,])
+v(1 2 3 5 7 8 9 12 13 14 15 16 18 19 20 21 22 23 24 25 27 28 29 30 37): 6.7178802490234375, EP: 0.736908495426178	 ([- -][moment,][walter][sizable][full.][holding][15 - month - old][baggie][full][cheerios][elmo][book][grape][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][driveway.][there's][backhoe][digging][...])
+v(0 4 6 10 11 17 20 21 22 23 24 26 30 31): 6.651114463806152, EP: 0.7295847535133362	 ([lincoln][mccarty][hands][gabrielle,][plus][her,][himself.][doorbell][rings.][contractor,][wanting][moved][digging][pool,])
+v(1 2 3 5 7 8 9 12 13 14 15 16 18 19 25 27 28 29 32 33 34 35 36 37): 6.506569862365723, EP: 0.7137291431427002	 ([- -][moment,][walter][sizable][full.][holding][15 - month - old][baggie][full][cheerios][elmo][book][grape][soda][vehicle][driveway.][there's][backhoe][another][one][tunneling][4][feet][...])
+v(2 3 12 13 14 15 16 19 20 21 22 23 24 25 27 30 32 33 34 35 36 37): 5.576940536499023, EP: 0.6117547154426575	 ([moment,][walter][baggie][full][cheerios][elmo][book][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][driveway.][digging][another][one][tunneling][4][feet][...])
+v(1 2 3 5 7 8 9 12 13 14 15 16 18 19 25 27 28 29 37): 5.471804618835449, EP: 0.6002219915390015	 ([- -][moment,][walter][sizable][full.][holding][15 - month - old][baggie][full][cheerios][elmo][book][grape][soda][vehicle][driveway.][there's][backhoe][...])
+v(2 3 12 13 14 15 16 19 25 27 32 33 34 35 36 37): 4.926336288452148, EP: 0.5403875708580017	 ([moment,][walter][baggie][full][cheerios][elmo][book][soda][vehicle][driveway.][another][one][tunneling][4][feet][...])
+v(2 3 12 13 14 15 16 19 20 21 22 23 24 25 27 30 37): 4.0154314041137695, EP: 0.44046714901924133	 ([moment,][walter][baggie][full][cheerios][elmo][book][soda][himself.][doorbell][rings.][contractor,][wanting][vehicle][driveway.][digging][...])
+v(2 3 12 13 14 15 16 19 25 27 37): 3.6234943866729736, EP: 0.39747416973114014	 ([moment,][walter][baggie][full][cheerios][elmo][book][soda][vehicle][driveway.][...])
+v(1 5 7 8 9 18 28 29): -2.7021312713623047, EP: -0.2964065372943878	 ([- -][sizable][full.][holding][15 - month - old][grape][there's][backhoe])
+v(1 5 7 8 9 18 28 29 32 33 34 35 36): -2.1005282402038574, EP: -0.2304145246744156	 ([- -][sizable][full.][holding][15 - month - old][grape][there's][backhoe][another][one][tunneling][4][feet])
+v(32 33 34 35 36): 1.769958257675171, EP: 0.1941531002521515	 ([another][one][tunneling][4][feet])
+v(20 21 22 23 24 30 32 33 34 35 36): 1.6721869707107544, EP: 0.18342822790145874	 ([himself.][doorbell][rings.][contractor,][wanting][digging][another][one][tunneling][4][feet])
+v(1 5 7 8 9 18 20 21 22 23 24 28 29 30 32 33 34 35 36): 1.2966437339782715, EP: 0.14223353564739227	 ([- -][sizable][full.][holding][15 - month - old][grape][himself.][doorbell][rings.][contractor,][wanting][there's][backhoe][digging][another][one][tunneling][4][feet])
+v(20 21 22 23 24 30): 0.5526502132415771, EP: 0.0606221966445446	 ([himself.][doorbell][rings.][contractor,][wanting][digging])
+v(1 5 7 8 9 18 20 21 22 23 24 28 29 30): -0.07389914989471436, EP: -0.008106264285743237	 ([- -][sizable][full.][holding][15 - month - old][grape][himself.][doorbell][rings.][contractor,][wanting][there's][backhoe][digging])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

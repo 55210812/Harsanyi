@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: communications
+Player 1: giant
+Player 2: telstra
+Player 3: corp
+Player 4: announced
+Player 5: yesterday
+Player 6: chief
+Player 7: executive
+Player 8: ziggy
+Player 9: switkowski
+Player 10: would
+Player 11: step
+Player 12: early
+Player 13: australia
+Player 14: # 39 ; s
+Player 15: largest
+Player 16: corporation
+Player 17: prepared
+Player 18: full
+Player 19: privatization.
+---------- Rewards ----------
+v(): 1.737337350845337	 ([])
+v(6 7 11 14 16 19): 5.845803737640381	 ([chief][executive][step][# 39 ; s][corporation][privatization.])
+v(0 1 2 3 4 5 9 15 18): 7.247661113739014	 ([communications][giant][telstra][corp][announced][yesterday][switkowski][largest][full])
+v(8 10 12 13 17): 2.7234723567962646	 ([ziggy][would][early][australia][prepared])
+v(0 1 2 3 4 5 6 7 9 11 14 15 16 18 19): 7.379159450531006	 ([communications][giant][telstra][corp][announced][yesterday][chief][executive][switkowski][step][# 39 ; s][largest][corporation][full][privatization.])
+v(6 7 8 10 11 12 13 14 16 17 19): 5.595556259155273	 ([chief][executive][ziggy][would][step][early][australia][# 39 ; s][corporation][prepared][privatization.])
+v(0 1 2 3 4 5 8 9 10 12 13 15 17 18): 6.530406951904297	 ([communications][giant][telstra][corp][announced][yesterday][ziggy][switkowski][would][early][australia][largest][prepared][full])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 6.3326096534729	 ([communications][giant][telstra][corp][announced][yesterday][chief][executive][ziggy][switkowski][would][step][early][australia][# 39 ; s][largest][corporation][prepared][full][privatization.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 9 11 14 15 16 18 19): 5.64182186126709, EP: 1.2277449369430542	 ([communications][giant][telstra][corp][announced][yesterday][chief][executive][switkowski][step][# 39 ; s][largest][corporation][full][privatization.])
+v(0 1 2 3 4 5 9 15 18): 5.510323524475098, EP: 1.1991288661956787	 ([communications][giant][telstra][corp][announced][yesterday][switkowski][largest][full])
+v(0 1 2 3 4 5 8 9 10 12 13 15 17 18): 4.793069839477539, EP: 1.0430437326431274	 ([communications][giant][telstra][corp][announced][yesterday][ziggy][switkowski][would][early][australia][largest][prepared][full])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 4.595272064208984, EP: 1.0	 ([communications][giant][telstra][corp][announced][yesterday][chief][executive][ziggy][switkowski][would][step][early][australia][# 39 ; s][largest][corporation][prepared][full][privatization.])
+v(6 7 11 14 16 19): 4.108466148376465, EP: 0.8940637707710266	 ([chief][executive][step][# 39 ; s][corporation][privatization.])
+v(6 7 8 10 11 12 13 14 16 17 19): 3.8582189083099365, EP: 0.8396062254905701	 ([chief][executive][ziggy][would][step][early][australia][# 39 ; s][corporation][prepared][privatization.])
+v(8 10 12 13 17): 0.9861350059509277, EP: 0.21459774672985077	 ([ziggy][would][early][australia][prepared])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

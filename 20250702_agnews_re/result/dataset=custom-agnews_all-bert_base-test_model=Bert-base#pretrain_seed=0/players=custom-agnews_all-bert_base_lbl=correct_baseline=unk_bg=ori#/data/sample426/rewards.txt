@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: boston,
+Player 1: - -
+Player 2: paul
+Player 3: pierce
+Player 4: nailed
+Player 5: jumper
+Player 6: buzzer
+Player 7: give
+Player 8: boston
+Player 9: celtics
+Player 10: 90 - 88
+Player 11: victory
+Player 12: portland
+Player 13: fleetcenter.
+---------- Rewards ----------
+v(): -2.538846969604492	 ([])
+v(1 6 7 10 11 12): 9.314468383789062	 ([- -][buzzer][give][90 - 88][victory][portland])
+v(0 2 3 4 5 8 9 13): 9.35781192779541	 ([boston,][paul][pierce][nailed][jumper][boston][celtics][fleetcenter.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 9.597175598144531	 ([boston,][- -][paul][pierce][nailed][jumper][buzzer][give][boston][celtics][90 - 88][victory][portland][fleetcenter.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 12.136022567749023, EP: 1.0	 ([boston,][- -][paul][pierce][nailed][jumper][buzzer][give][boston][celtics][90 - 88][victory][portland][fleetcenter.])
+v(0 2 3 4 5 8 9 13): 11.896658897399902, EP: 0.9802765846252441	 ([boston,][paul][pierce][nailed][jumper][boston][celtics][fleetcenter.])
+v(1 6 7 10 11 12): 11.853315353393555, EP: 0.9767051339149475	 ([- -][buzzer][give][90 - 88][victory][portland])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

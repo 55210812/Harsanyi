@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: sun
+Player 1: signs
+Player 2: software
+Player 3: company
+Player 4: support
+Player 5: attempt
+Player 6: make
+Player 7: useful
+Player 8: version
+Player 9: solaris
+Player 10: operating
+Player 11: system
+Player 12: x86
+Player 13: chips.
+---------- Rewards ----------
+v(): 1.4137563705444336	 ([])
+v(2 3 7 9 12 13): 6.332522869110107	 ([software][company][useful][solaris][x86][chips.])
+v(0 1 4 5 6 8 10 11): 7.377189636230469	 ([sun][signs][support][attempt][make][version][operating][system])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 6.829514026641846	 ([sun][signs][software][company][support][attempt][make][useful][version][solaris][operating][system][x86][chips.])
+---------- Rewards-v() ----------
+v(0 1 4 5 6 8 10 11): 5.963433265686035, EP: 1.1011263132095337	 ([sun][signs][support][attempt][make][version][operating][system])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 5.415757656097412, EP: 1.0	 ([sun][signs][software][company][support][attempt][make][useful][version][solaris][operating][system][x86][chips.])
+v(2 3 7 9 12 13): 4.918766498565674, EP: 0.9082323908805847	 ([software][company][useful][solaris][x86][chips.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

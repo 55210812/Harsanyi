@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: 10
+Player 1: september
+Player 2: 2004
+Player 3: - -
+Player 4: us
+Player 5: jet
+Player 6: fired
+Player 7: missiles
+Player 8: insurgent
+Player 9: stronghold
+Player 10: al - fallujah
+Player 11: today,
+Player 12: fourth
+Player 13: straight
+Player 14: day
+Player 15: attacks
+Player 16: sunni
+Player 17: city
+Player 18: west
+Player 19: baghdad.
+---------- Rewards ----------
+v(): -6.268363952636719	 ([])
+v(2 10 11 16 17 18 19): 7.528262138366699	 ([2004][al - fallujah][today,][sunni][city][west][baghdad.])
+v(8 9): 1.7148520946502686	 ([insurgent][stronghold])
+v(0 1 3 4 5 6 7 12 13 14 15): 3.824720859527588	 ([10][september][- -][us][jet][fired][missiles][fourth][straight][day][attacks])
+v(2 8 9 10 11 16 17 18 19): 8.142488479614258	 ([2004][insurgent][stronghold][al - fallujah][today,][sunni][city][west][baghdad.])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 19): 7.9818034172058105	 ([10][september][2004][- -][us][jet][fired][missiles][al - fallujah][today,][fourth][straight][day][attacks][sunni][city][west][baghdad.])
+v(0 1 3 4 5 6 7 8 9 12 13 14 15): 7.530492305755615	 ([10][september][- -][us][jet][fired][missiles][insurgent][stronghold][fourth][straight][day][attacks])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.021478652954102	 ([10][september][2004][- -][us][jet][fired][missiles][insurgent][stronghold][al - fallujah][today,][fourth][straight][day][attacks][sunni][city][west][baghdad.])
+---------- Rewards-v() ----------
+v(2 8 9 10 11 16 17 18 19): 14.410852432250977, EP: 1.0084682703018188	 ([2004][insurgent][stronghold][al - fallujah][today,][sunni][city][west][baghdad.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 14.28984260559082, EP: 1.0	 ([10][september][2004][- -][us][jet][fired][missiles][insurgent][stronghold][al - fallujah][today,][fourth][straight][day][attacks][sunni][city][west][baghdad.])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 19): 14.250167846679688, EP: 0.9972235560417175	 ([10][september][2004][- -][us][jet][fired][missiles][al - fallujah][today,][fourth][straight][day][attacks][sunni][city][west][baghdad.])
+v(0 1 3 4 5 6 7 8 9 12 13 14 15): 13.798856735229492, EP: 0.9656409025192261	 ([10][september][- -][us][jet][fired][missiles][insurgent][stronghold][fourth][straight][day][attacks])
+v(2 10 11 16 17 18 19): 13.796626091003418, EP: 0.9654847979545593	 ([2004][al - fallujah][today,][sunni][city][west][baghdad.])
+v(0 1 3 4 5 6 7 12 13 14 15): 10.093084335327148, EP: 0.7063117623329163	 ([10][september][- -][us][jet][fired][missiles][fourth][straight][day][attacks])
+v(8 9): 7.983216285705566, EP: 0.5586636662483215	 ([insurgent][stronghold])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

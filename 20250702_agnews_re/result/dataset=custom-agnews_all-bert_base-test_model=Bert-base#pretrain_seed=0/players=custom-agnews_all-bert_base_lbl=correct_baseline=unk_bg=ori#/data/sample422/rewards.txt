@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: tokyo
+Player 1: ( reuters )
+Player 2: -
+Player 3: nikkei
+Player 4: average
+Player 5: flat
+Player 6: mid - morning
+Player 7: trade
+Player 8: tuesday,
+Player 9: rise
+Player 10: bank
+Player 11: shares
+Player 12: insurers
+Player 13: helping
+Player 14: tokyo
+Player 15: market
+Player 16: stabilize
+Player 17: benchmark's
+Player 18: slide
+Player 19: five - month
+Player 20: closing
+Player 21: low
+Player 22: previous
+Player 23: day.
+---------- Rewards ----------
+v(): -4.522528171539307	 ([])
+v(0 2 3 4 12 14 15 16 17 21 22): 5.5319108963012695	 ([tokyo][-][nikkei][average][insurers][tokyo][market][stabilize][benchmark's][low][previous])
+v(1 6 7 8 9 10 11 23): 5.565893650054932	 ([( reuters )][mid - morning][trade][tuesday,][rise][bank][shares][day.])
+v(5 13 18 19 20): -5.207396507263184	 ([flat][helping][slide][five - month][closing])
+v(0 1 2 3 4 6 7 8 9 10 11 12 14 15 16 17 21 22 23): 7.39806604385376	 ([tokyo][( reuters )][-][nikkei][average][mid - morning][trade][tuesday,][rise][bank][shares][insurers][tokyo][market][stabilize][benchmark's][low][previous][day.])
+v(0 2 3 4 5 12 13 14 15 16 17 18 19 20 21 22): 5.340229034423828	 ([tokyo][-][nikkei][average][flat][insurers][helping][tokyo][market][stabilize][benchmark's][slide][five - month][closing][low][previous])
+v(1 5 6 7 8 9 10 11 13 18 19 20 23): 4.412073612213135	 ([( reuters )][flat][mid - morning][trade][tuesday,][rise][bank][shares][helping][slide][five - month][closing][day.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 7.384976387023926	 ([tokyo][( reuters )][-][nikkei][average][flat][mid - morning][trade][tuesday,][rise][bank][shares][insurers][helping][tokyo][market][stabilize][benchmark's][slide][five - month][closing][low][previous][day.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 6 7 8 9 10 11 12 14 15 16 17 21 22 23): 11.920594215393066, EP: 1.0010992288589478	 ([tokyo][( reuters )][-][nikkei][average][mid - morning][trade][tuesday,][rise][bank][shares][insurers][tokyo][market][stabilize][benchmark's][low][previous][day.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 11.90750503540039, EP: 1.0	 ([tokyo][( reuters )][-][nikkei][average][flat][mid - morning][trade][tuesday,][rise][bank][shares][insurers][helping][tokyo][market][stabilize][benchmark's][slide][five - month][closing][low][previous][day.])
+v(1 6 7 8 9 10 11 23): 10.088421821594238, EP: 0.8472322225570679	 ([( reuters )][mid - morning][trade][tuesday,][rise][bank][shares][day.])
+v(0 2 3 4 12 14 15 16 17 21 22): 10.054439544677734, EP: 0.8443783521652222	 ([tokyo][-][nikkei][average][insurers][tokyo][market][stabilize][benchmark's][low][previous])
+v(0 2 3 4 5 12 13 14 15 16 17 18 19 20 21 22): 9.862756729125977, EP: 0.8282806873321533	 ([tokyo][-][nikkei][average][flat][insurers][helping][tokyo][market][stabilize][benchmark's][slide][five - month][closing][low][previous])
+v(1 5 6 7 8 9 10 11 13 18 19 20 23): 8.934601783752441, EP: 0.7503336668014526	 ([( reuters )][flat][mid - morning][trade][tuesday,][rise][bank][shares][helping][slide][five - month][closing][day.])
+v(5 13 18 19 20): -0.684868335723877, EP: -0.05751568824052811	 ([flat][helping][slide][five - month][closing])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

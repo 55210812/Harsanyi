@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 19:19:06
+prompt: [CLS] frustrated in a domestic market that offers them little chance to grow, many a canadian bank has ventured south to the us market in a hunt for the prize asset that will vault them into the big time. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:10206 decoded_text: frustrated
+idx:2 input_id:1999 decoded_text: in
+idx:3 input_id:1037 decoded_text: a
+idx:4 input_id:4968 decoded_text: domestic
+idx:5 input_id:3006 decoded_text: market
+idx:6 input_id:2008 decoded_text: that
+idx:7 input_id:4107 decoded_text: offers
+idx:8 input_id:2068 decoded_text: them
+idx:9 input_id:2210 decoded_text: little
+idx:10 input_id:3382 decoded_text: chance
+idx:11 input_id:2000 decoded_text: to
+idx:12 input_id:4982 decoded_text: grow
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:2116 decoded_text: many
+idx:15 input_id:1037 decoded_text: a
+idx:16 input_id:3010 decoded_text: canadian
+idx:17 input_id:2924 decoded_text: bank
+idx:18 input_id:2038 decoded_text: has
+idx:19 input_id:20510 decoded_text: ventured
+idx:20 input_id:2148 decoded_text: south
+idx:21 input_id:2000 decoded_text: to
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:2149 decoded_text: us
+idx:24 input_id:3006 decoded_text: market
+idx:25 input_id:1999 decoded_text: in
+idx:26 input_id:1037 decoded_text: a
+idx:27 input_id:5690 decoded_text: hunt
+idx:28 input_id:2005 decoded_text: for
+idx:29 input_id:1996 decoded_text: the
+idx:30 input_id:3396 decoded_text: prize
+idx:31 input_id:11412 decoded_text: asset
+idx:32 input_id:2008 decoded_text: that
+idx:33 input_id:2097 decoded_text: will
+idx:34 input_id:11632 decoded_text: vault
+idx:35 input_id:2068 decoded_text: them
+idx:36 input_id:2046 decoded_text: into
+idx:37 input_id:1996 decoded_text: the
+idx:38 input_id:2502 decoded_text: big
+idx:39 input_id:2051 decoded_text: time
+idx:40 input_id:1012 decoded_text: .
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.2280123233795166, -4.0616350173950195, 6.656122207641602, -2.430922508239746]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

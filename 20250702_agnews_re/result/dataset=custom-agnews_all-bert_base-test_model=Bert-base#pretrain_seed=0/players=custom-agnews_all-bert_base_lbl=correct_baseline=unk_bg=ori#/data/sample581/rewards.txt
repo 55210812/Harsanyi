@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: us
+Player 1: securities
+Player 2: exchange
+Player 3: commission
+Player 4: filed
+Player 5: civil
+Player 6: suits
+Player 7: wednesday
+Player 8: charging
+Player 9: six
+Player 10: former
+Player 11: top
+Player 12: executives
+Player 13: technology
+Player 14: company
+Player 15: peregrine
+Player 16: systems
+Player 17: committed
+Player 18: massive
+Player 19: accounting
+Player 20: fraud.
+---------- Rewards ----------
+v(): -4.2158732414245605	 ([])
+v(4 5 6): 2.733717203140259	 ([filed][civil][suits])
+v(0 1 7 8 9 11 15 16 17): 7.441379070281982	 ([us][securities][wednesday][charging][six][top][peregrine][systems][committed])
+v(13 19 20): 2.188459873199463	 ([technology][accounting][fraud.])
+v(2 3 10 12 14 18): 6.3064069747924805	 ([exchange][commission][former][executives][company][massive])
+v(0 1 4 5 6 7 8 9 11 15 16 17): 7.823454856872559	 ([us][securities][filed][civil][suits][wednesday][charging][six][top][peregrine][systems][committed])
+v(4 5 6 13 19 20): 0.7232892513275146	 ([filed][civil][suits][technology][accounting][fraud.])
+v(2 3 4 5 6 10 12 14 18): 4.698329448699951	 ([exchange][commission][filed][civil][suits][former][executives][company][massive])
+v(0 1 7 8 9 11 13 15 16 17 19 20): 7.642077922821045	 ([us][securities][wednesday][charging][six][top][technology][peregrine][systems][committed][accounting][fraud.])
+v(0 1 2 3 7 8 9 10 11 12 14 15 16 17 18): 7.918535232543945	 ([us][securities][exchange][commission][wednesday][charging][six][former][top][executives][company][peregrine][systems][committed][massive])
+v(2 3 10 12 13 14 18 19 20): 4.351034641265869	 ([exchange][commission][former][executives][technology][company][massive][accounting][fraud.])
+v(0 1 4 5 6 7 8 9 11 13 15 16 17 19 20): 7.682951927185059	 ([us][securities][filed][civil][suits][wednesday][charging][six][top][technology][peregrine][systems][committed][accounting][fraud.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18): 7.226360321044922	 ([us][securities][exchange][commission][filed][civil][suits][wednesday][charging][six][former][top][executives][company][peregrine][systems][committed][massive])
+v(2 3 4 5 6 10 12 13 14 18 19 20): 2.0724191665649414	 ([exchange][commission][filed][civil][suits][former][executives][technology][company][massive][accounting][fraud.])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.779435634613037	 ([us][securities][exchange][commission][wednesday][charging][six][former][top][executives][technology][company][peregrine][systems][committed][massive][accounting][fraud.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 6.468779563903809	 ([us][securities][exchange][commission][filed][civil][suits][wednesday][charging][six][former][top][executives][technology][company][peregrine][systems][committed][massive][accounting][fraud.])
+---------- Rewards-v() ----------
+v(0 1 2 3 7 8 9 10 11 12 14 15 16 17 18): 12.134408950805664, EP: 1.135685920715332	 ([us][securities][exchange][commission][wednesday][charging][six][former][top][executives][company][peregrine][systems][committed][massive])
+v(0 1 4 5 6 7 8 9 11 15 16 17): 12.039327621459961, EP: 1.1267870664596558	 ([us][securities][filed][civil][suits][wednesday][charging][six][top][peregrine][systems][committed])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 11.995308876037598, EP: 1.1226671934127808	 ([us][securities][exchange][commission][wednesday][charging][six][former][top][executives][technology][company][peregrine][systems][committed][massive][accounting][fraud.])
+v(0 1 4 5 6 7 8 9 11 13 15 16 17 19 20): 11.898824691772461, EP: 1.113637089729309	 ([us][securities][filed][civil][suits][wednesday][charging][six][top][technology][peregrine][systems][committed][accounting][fraud.])
+v(0 1 7 8 9 11 13 15 16 17 19 20): 11.857951164245605, EP: 1.1098116636276245	 ([us][securities][wednesday][charging][six][top][technology][peregrine][systems][committed][accounting][fraud.])
+v(0 1 7 8 9 11 15 16 17): 11.657252311706543, EP: 1.0910277366638184	 ([us][securities][wednesday][charging][six][top][peregrine][systems][committed])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18): 11.44223403930664, EP: 1.0709037780761719	 ([us][securities][exchange][commission][filed][civil][suits][wednesday][charging][six][former][top][executives][company][peregrine][systems][committed][massive])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 10.684652328491211, EP: 1.0	 ([us][securities][exchange][commission][filed][civil][suits][wednesday][charging][six][former][top][executives][technology][company][peregrine][systems][committed][massive][accounting][fraud.])
+v(2 3 10 12 14 18): 10.522279739379883, EP: 0.9848031997680664	 ([exchange][commission][former][executives][company][massive])
+v(2 3 4 5 6 10 12 14 18): 8.914202690124512, EP: 0.8342997431755066	 ([exchange][commission][filed][civil][suits][former][executives][company][massive])
+v(2 3 10 12 13 14 18 19 20): 8.56690788269043, EP: 0.8017956614494324	 ([exchange][commission][former][executives][technology][company][massive][accounting][fraud.])
+v(4 5 6): 6.949590682983398, EP: 0.6504274010658264	 ([filed][civil][suits])
+v(13 19 20): 6.404333114624023, EP: 0.5993955731391907	 ([technology][accounting][fraud.])
+v(2 3 4 5 6 10 12 13 14 18 19 20): 6.288292407989502, EP: 0.5885350704193115	 ([exchange][commission][filed][civil][suits][former][executives][technology][company][massive][accounting][fraud.])
+v(4 5 6 13 19 20): 4.939162254333496, EP: 0.4622670114040375	 ([filed][civil][suits][technology][accounting][fraud.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

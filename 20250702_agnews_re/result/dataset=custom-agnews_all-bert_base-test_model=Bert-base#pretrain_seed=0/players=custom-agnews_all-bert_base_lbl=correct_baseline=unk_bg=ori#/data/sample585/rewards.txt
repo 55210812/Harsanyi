@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: south
+Player 1: korean
+Player 2: memory - chip
+Player 3: maker
+Player 4: hynix
+Player 5: semiconductor
+Player 6: inc.
+Player 7: announced
+Player 8: wednesday
+Player 9: reached
+Player 10: agreement
+Player 11: construct
+Player 12: wafer
+Player 13: fabrication
+Player 14: plant
+Player 15: ( fab )
+Player 16: manufacture
+Player 17: chips
+Player 18: wuxi,
+Player 19: china.
+---------- Rewards ----------
+v(): 5.171505451202393	 ([])
+v(2 5 8 9 12 13 14 15 16 17): 3.3515615463256836	 ([memory - chip][semiconductor][wednesday][reached][wafer][fabrication][plant][( fab )][manufacture][chips])
+v(3 4 6 7 10 11 18 19): -2.511383533477783	 ([maker][hynix][inc.][announced][agreement][construct][wuxi,][china.])
+v(0 1): 3.206808090209961	 ([south][korean])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 4.680736541748047	 ([memory - chip][maker][hynix][semiconductor][inc.][announced][wednesday][reached][agreement][construct][wafer][fabrication][plant][( fab )][manufacture][chips][wuxi,][china.])
+v(0 1 2 5 8 9 12 13 14 15 16 17): 2.8212783336639404	 ([south][korean][memory - chip][semiconductor][wednesday][reached][wafer][fabrication][plant][( fab )][manufacture][chips])
+v(0 1 3 4 6 7 10 11 18 19): -4.255517482757568	 ([south][korean][maker][hynix][inc.][announced][agreement][construct][wuxi,][china.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 3.2557053565979004	 ([south][korean][memory - chip][maker][hynix][semiconductor][inc.][announced][wednesday][reached][agreement][construct][wafer][fabrication][plant][( fab )][manufacture][chips][wuxi,][china.])
+---------- Rewards-v() ----------
+v(0 1 3 4 6 7 10 11 18 19): -9.427022933959961, EP: 4.920671463012695	 ([south][korean][maker][hynix][inc.][announced][agreement][construct][wuxi,][china.])
+v(3 4 6 7 10 11 18 19): -7.682888984680176, EP: 4.010276794433594	 ([maker][hynix][inc.][announced][agreement][construct][wuxi,][china.])
+v(0 1 2 5 8 9 12 13 14 15 16 17): -2.350227117538452, EP: 1.2267601490020752	 ([south][korean][memory - chip][semiconductor][wednesday][reached][wafer][fabrication][plant][( fab )][manufacture][chips])
+v(0 1): -1.9646973609924316, EP: 1.0255231857299805	 ([south][korean])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): -1.9158000946044922, EP: 1.0	 ([south][korean][memory - chip][maker][hynix][semiconductor][inc.][announced][wednesday][reached][agreement][construct][wafer][fabrication][plant][( fab )][manufacture][chips][wuxi,][china.])
+v(2 5 8 9 12 13 14 15 16 17): -1.819943904876709, EP: 0.9499654769897461	 ([memory - chip][semiconductor][wednesday][reached][wafer][fabrication][plant][( fab )][manufacture][chips])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): -0.4907689094543457, EP: 0.2561691701412201	 ([memory - chip][maker][hynix][semiconductor][inc.][announced][wednesday][reached][agreement][construct][wafer][fabrication][plant][( fab )][manufacture][chips][wuxi,][china.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

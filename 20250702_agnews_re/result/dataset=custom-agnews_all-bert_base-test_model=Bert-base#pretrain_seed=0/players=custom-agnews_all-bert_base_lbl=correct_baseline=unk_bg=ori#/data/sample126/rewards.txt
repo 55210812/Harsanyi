@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: arizona
+Player 3: starters
+Player 4: emmitt
+Player 5: smith,
+Player 6: bertrand
+Player 7: berry
+Player 8: karlos
+Player 9: dansby
+Player 10: questionable
+Player 11: sunday's
+Player 12: game
+Player 13: carolina
+Player 14: sitting
+Player 15: cardinals '
+Player 16: practice
+Player 17: thursday.
+---------- Rewards ----------
+v(): -5.30029296875	 ([])
+v(0 3 4 5 7 8 9 11 17): 8.964045524597168	 ([ap][starters][emmitt][smith,][berry][karlos][dansby][sunday's][thursday.])
+v(1 2 10 15): 9.452431678771973	 ([-][arizona][questionable][cardinals '])
+v(6 12 13 14 16): 6.7719950675964355	 ([bertrand][game][carolina][sitting][practice])
+v(0 1 2 3 4 5 7 8 9 10 11 15 17): 9.673059463500977	 ([ap][-][arizona][starters][emmitt][smith,][berry][karlos][dansby][questionable][sunday's][cardinals '][thursday.])
+v(0 3 4 5 6 7 8 9 11 12 13 14 16 17): 9.631367683410645	 ([ap][starters][emmitt][smith,][bertrand][berry][karlos][dansby][sunday's][game][carolina][sitting][practice][thursday.])
+v(1 2 6 10 12 13 14 15 16): 9.592999458312988	 ([-][arizona][bertrand][questionable][game][carolina][sitting][cardinals '][practice])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.523262023925781	 ([ap][-][arizona][starters][emmitt][smith,][bertrand][berry][karlos][dansby][questionable][sunday's][game][carolina][sitting][cardinals '][practice][thursday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 7 8 9 10 11 15 17): 14.973352432250977, EP: 1.0101053714752197	 ([ap][-][arizona][starters][emmitt][smith,][berry][karlos][dansby][questionable][sunday's][cardinals '][thursday.])
+v(0 3 4 5 6 7 8 9 11 12 13 14 16 17): 14.931660652160645, EP: 1.0072928667068481	 ([ap][starters][emmitt][smith,][bertrand][berry][karlos][dansby][sunday's][game][carolina][sitting][practice][thursday.])
+v(1 2 6 10 12 13 14 15 16): 14.893292427062988, EP: 1.004704475402832	 ([-][arizona][bertrand][questionable][game][carolina][sitting][cardinals '][practice])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 14.823554992675781, EP: 1.0	 ([ap][-][arizona][starters][emmitt][smith,][bertrand][berry][karlos][dansby][questionable][sunday's][game][carolina][sitting][cardinals '][practice][thursday.])
+v(1 2 10 15): 14.752724647521973, EP: 0.9952217936515808	 ([-][arizona][questionable][cardinals '])
+v(0 3 4 5 7 8 9 11 17): 14.264338493347168, EP: 0.9622751474380493	 ([ap][starters][emmitt][smith,][berry][karlos][dansby][sunday's][thursday.])
+v(6 12 13 14 16): 12.072288513183594, EP: 0.814399003982544	 ([bertrand][game][carolina][sitting][practice])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: # 39 ; s
+Player 1: report
+Player 2: securities
+Player 3: exchange
+Player 4: commission
+Player 5: time
+Player 6: warner
+Player 7: close
+Player 8: settlement
+Player 9: accounting
+Player 10: questions
+Player 11: media
+Player 12: giant
+Player 13: # 39 ; s
+Player 14: america
+Player 15: online
+Player 16: unit.
+---------- Rewards ----------
+v(): -3.4412944316864014	 ([])
+v(9 10): 6.791016101837158	 ([accounting][questions])
+v(3 4 5 6 8): 8.154046058654785	 ([exchange][commission][time][warner][settlement])
+v(0 1 2 7 11 12 13 14 15 16): 7.866209030151367	 ([# 39 ; s][report][securities][close][media][giant][# 39 ; s][america][online][unit.])
+v(3 4 5 6 8 9 10): 8.199609756469727	 ([exchange][commission][time][warner][settlement][accounting][questions])
+v(0 1 2 7 9 10 11 12 13 14 15 16): 7.864386081695557	 ([# 39 ; s][report][securities][close][accounting][questions][media][giant][# 39 ; s][america][online][unit.])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14 15 16): 7.429703712463379	 ([# 39 ; s][report][securities][exchange][commission][time][warner][close][settlement][media][giant][# 39 ; s][america][online][unit.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 7.597025394439697	 ([# 39 ; s][report][securities][exchange][commission][time][warner][close][settlement][accounting][questions][media][giant][# 39 ; s][america][online][unit.])
+---------- Rewards-v() ----------
+v(3 4 5 6 8 9 10): 11.640904426574707, EP: 1.0545902252197266	 ([exchange][commission][time][warner][settlement][accounting][questions])
+v(3 4 5 6 8): 11.595340728759766, EP: 1.0504624843597412	 ([exchange][commission][time][warner][settlement])
+v(0 1 2 7 11 12 13 14 15 16): 11.307503700256348, EP: 1.0243862867355347	 ([# 39 ; s][report][securities][close][media][giant][# 39 ; s][america][online][unit.])
+v(0 1 2 7 9 10 11 12 13 14 15 16): 11.305680274963379, EP: 1.0242211818695068	 ([# 39 ; s][report][securities][close][accounting][questions][media][giant][# 39 ; s][america][online][unit.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 11.03831958770752, EP: 1.0	 ([# 39 ; s][report][securities][exchange][commission][time][warner][close][settlement][accounting][questions][media][giant][# 39 ; s][america][online][unit.])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14 15 16): 10.87099838256836, EP: 0.9848417639732361	 ([# 39 ; s][report][securities][exchange][commission][time][warner][close][settlement][media][giant][# 39 ; s][america][online][unit.])
+v(9 10): 10.23231029510498, EP: 0.9269807934761047	 ([accounting][questions])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

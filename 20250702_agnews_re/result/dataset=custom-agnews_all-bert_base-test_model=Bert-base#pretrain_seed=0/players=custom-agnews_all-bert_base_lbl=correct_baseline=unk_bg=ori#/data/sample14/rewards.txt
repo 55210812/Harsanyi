@@ -1,0 +1,46 @@
+---------- Players ----------
+Player 0: intel
+Player 1: corp.
+Player 2: chief
+Player 3: executive
+Player 4: officer
+Player 5: craig
+Player 6: barrett
+Player 7: wanted
+Player 8: go
+Player 9: glory
+Player 10: like
+Player 11: old
+Player 12: boss,
+Player 13: andy
+Player 14: grove.
+Player 15: instead,
+Player 16: # 39 ; ll
+Player 17: retire
+Player 18: slumping
+Player 19: sales
+Player 20: growth,
+Player 21: restless
+Player 22: investors
+Player 23: repeated
+Player 24: product
+Player 25: delays.
+---------- Rewards ----------
+v(): -1.4525251388549805	 ([])
+v(0 2 3 4 14 18 19 20 22): 8.135005950927734	 ([intel][chief][executive][officer][grove.][slumping][sales][growth,][investors])
+v(1 5 13 16 23 24 25): 5.5973663330078125	 ([corp.][craig][andy][# 39 ; ll][repeated][product][delays.])
+v(6 7 8 9 10 11 12 15 17 21): -4.378048419952393	 ([barrett][wanted][go][glory][like][old][boss,][instead,][retire][restless])
+v(0 1 2 3 4 5 13 14 16 18 19 20 22 23 24 25): 7.06805419921875	 ([intel][corp.][chief][executive][officer][craig][andy][grove.][# 39 ; ll][slumping][sales][growth,][investors][repeated][product][delays.])
+v(0 2 3 4 6 7 8 9 10 11 12 14 15 17 18 19 20 21 22): 5.684447765350342	 ([intel][chief][executive][officer][barrett][wanted][go][glory][like][old][boss,][grove.][instead,][retire][slumping][sales][growth,][restless][investors])
+v(1 5 6 7 8 9 10 11 12 13 15 16 17 21 23 24 25): 3.3565850257873535	 ([corp.][craig][barrett][wanted][go][glory][like][old][boss,][andy][instead,][# 39 ; ll][retire][restless][repeated][product][delays.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 5.957646369934082	 ([intel][corp.][chief][executive][officer][craig][barrett][wanted][go][glory][like][old][boss,][andy][grove.][instead,][# 39 ; ll][retire][slumping][sales][growth,][restless][investors][repeated][product][delays.])
+---------- Rewards-v() ----------
+v(0 2 3 4 14 18 19 20 22): 9.587531089782715, EP: 1.29383385181427	 ([intel][chief][executive][officer][grove.][slumping][sales][growth,][investors])
+v(0 1 2 3 4 5 13 14 16 18 19 20 22 23 24 25): 8.52057933807373, EP: 1.1498491764068604	 ([intel][corp.][chief][executive][officer][craig][andy][grove.][# 39 ; ll][slumping][sales][growth,][investors][repeated][product][delays.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 7.4101715087890625, EP: 1.0	 ([intel][corp.][chief][executive][officer][craig][barrett][wanted][go][glory][like][old][boss,][andy][grove.][instead,][# 39 ; ll][retire][slumping][sales][growth,][restless][investors][repeated][product][delays.])
+v(0 2 3 4 6 7 8 9 10 11 12 14 15 17 18 19 20 21 22): 7.136972904205322, EP: 0.9631319642066956	 ([intel][chief][executive][officer][barrett][wanted][go][glory][like][old][boss,][grove.][instead,][retire][slumping][sales][growth,][restless][investors])
+v(1 5 13 16 23 24 25): 7.049891471862793, EP: 0.9513803124427795	 ([corp.][craig][andy][# 39 ; ll][repeated][product][delays.])
+v(1 5 6 7 8 9 10 11 12 13 15 16 17 21 23 24 25): 4.809110164642334, EP: 0.6489877104759216	 ([corp.][craig][barrett][wanted][go][glory][like][old][boss,][andy][instead,][# 39 ; ll][retire][restless][repeated][product][delays.])
+v(6 7 8 9 10 11 12 15 17 21): -2.925523281097412, EP: -0.39479830861091614	 ([barrett][wanted][go][glory][like][old][boss,][instead,][retire][restless])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: ( reuters )
+Player 3: -
+Player 4: u. s.
+Player 5: stocks
+Player 6: looked
+Player 7: open
+Player 8: higher
+Player 9: friday,
+Player 10: fourth
+Player 11: quarter
+Player 12: begins
+Player 13: wall
+Player 14: street
+Player 15: oil
+Player 16: prices
+Player 17: holding
+Player 18: \ $ 50
+Player 19: barrel.
+---------- Rewards ----------
+v(): -3.2907896041870117	 ([])
+v(3 4 5 6 15 16 18): 8.0916166305542	 ([-][u. s.][stocks][looked][oil][prices][\ $ 50])
+v(2 7 10 11 12 13): 1.6174877882003784	 ([( reuters )][open][fourth][quarter][begins][wall])
+v(0 1 8 9 14 17 19): 6.289018154144287	 ([new][york][higher][friday,][street][holding][barrel.])
+v(2 3 4 5 6 7 10 11 12 13 15 16 18): 8.352092742919922	 ([( reuters )][-][u. s.][stocks][looked][open][fourth][quarter][begins][wall][oil][prices][\ $ 50])
+v(0 1 3 4 5 6 8 9 14 15 16 17 18 19): 7.923563003540039	 ([new][york][-][u. s.][stocks][looked][higher][friday,][street][oil][prices][holding][\ $ 50][barrel.])
+v(0 1 2 7 8 9 10 11 12 13 14 17 19): 5.143515110015869	 ([new][york][( reuters )][open][higher][friday,][fourth][quarter][begins][wall][street][holding][barrel.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.301408767700195	 ([new][york][( reuters )][-][u. s.][stocks][looked][open][higher][friday,][fourth][quarter][begins][wall][street][oil][prices][holding][\ $ 50][barrel.])
+---------- Rewards-v() ----------
+v(2 3 4 5 6 7 10 11 12 13 15 16 18): 11.642882347106934, EP: 1.004372239112854	 ([( reuters )][-][u. s.][stocks][looked][open][fourth][quarter][begins][wall][oil][prices][\ $ 50])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 11.592198371887207, EP: 1.0	 ([new][york][( reuters )][-][u. s.][stocks][looked][open][higher][friday,][fourth][quarter][begins][wall][street][oil][prices][holding][\ $ 50][barrel.])
+v(3 4 5 6 15 16 18): 11.382406234741211, EP: 0.9819023013114929	 ([-][u. s.][stocks][looked][oil][prices][\ $ 50])
+v(0 1 3 4 5 6 8 9 14 15 16 17 18 19): 11.21435260772705, EP: 0.9674051403999329	 ([new][york][-][u. s.][stocks][looked][higher][friday,][street][oil][prices][holding][\ $ 50][barrel.])
+v(0 1 8 9 14 17 19): 9.57980728149414, EP: 0.8264012336730957	 ([new][york][higher][friday,][street][holding][barrel.])
+v(0 1 2 7 8 9 10 11 12 13 14 17 19): 8.434305191040039, EP: 0.7275846004486084	 ([new][york][( reuters )][open][higher][friday,][fourth][quarter][begins][wall][street][holding][barrel.])
+v(2 7 10 11 12 13): 4.90827751159668, EP: 0.42341214418411255	 ([( reuters )][open][fourth][quarter][begins][wall])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

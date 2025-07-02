@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: u. s.
+Player 3: treasuries
+Player 4: climbed
+Player 5: tuesday \ amid
+Player 6: relentless
+Player 7: rise
+Player 8: oil
+Player 9: costs
+Player 10: hinted
+Player 11: slowdown \ in
+Player 12: consumer
+Player 13: spending
+Player 14: coming
+Player 15: holiday
+Player 16: season.
+---------- Rewards ----------
+v(): -4.210851669311523	 ([])
+v(11 13 14 16): 2.566819667816162	 ([slowdown \ in][spending][coming][season.])
+v(1 4 6 7 9 10): 7.1046295166015625	 ([-][climbed][relentless][rise][costs][hinted])
+v(0 2 3 5 8 12 15): 8.036205291748047	 ([reuters][u. s.][treasuries][tuesday \ amid][oil][consumer][holiday])
+v(1 4 6 7 9 10 11 13 14 16): 6.231383323669434	 ([-][climbed][relentless][rise][costs][hinted][slowdown \ in][spending][coming][season.])
+v(0 2 3 5 8 11 12 13 14 15 16): 8.161465644836426	 ([reuters][u. s.][treasuries][tuesday \ amid][oil][slowdown \ in][consumer][spending][coming][holiday][season.])
+v(0 1 2 3 4 5 6 7 8 9 10 12 15): 8.079739570617676	 ([reuters][-][u. s.][treasuries][climbed][tuesday \ amid][relentless][rise][oil][costs][hinted][consumer][holiday])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 8.359593391418457	 ([reuters][-][u. s.][treasuries][climbed][tuesday \ amid][relentless][rise][oil][costs][hinted][slowdown \ in][consumer][spending][coming][holiday][season.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 12.57044506072998, EP: 1.0	 ([reuters][-][u. s.][treasuries][climbed][tuesday \ amid][relentless][rise][oil][costs][hinted][slowdown \ in][consumer][spending][coming][holiday][season.])
+v(0 2 3 5 8 11 12 13 14 15 16): 12.37231731414795, EP: 0.9842386245727539	 ([reuters][u. s.][treasuries][tuesday \ amid][oil][slowdown \ in][consumer][spending][coming][holiday][season.])
+v(0 1 2 3 4 5 6 7 8 9 10 12 15): 12.2905912399292, EP: 0.9777371883392334	 ([reuters][-][u. s.][treasuries][climbed][tuesday \ amid][relentless][rise][oil][costs][hinted][consumer][holiday])
+v(0 2 3 5 8 12 15): 12.24705696105957, EP: 0.9742739200592041	 ([reuters][u. s.][treasuries][tuesday \ amid][oil][consumer][holiday])
+v(1 4 6 7 9 10): 11.315481185913086, EP: 0.9001654982566833	 ([-][climbed][relentless][rise][costs][hinted])
+v(1 4 6 7 9 10 11 13 14 16): 10.442234992980957, EP: 0.8306972980499268	 ([-][climbed][relentless][rise][costs][hinted][slowdown \ in][spending][coming][season.])
+v(11 13 14 16): 6.7776713371276855, EP: 0.5391751527786255	 ([slowdown \ in][spending][coming][season.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,64 @@
+---------- Players ----------
+Player 0: paris
+Player 1: ( afp )
+Player 2: - -
+Player 3: hopes
+Player 4: dimmed
+Player 5: two
+Player 6: french
+Player 7: journalists
+Player 8: held
+Player 9: captive
+Player 10: iraq
+Player 11: would
+Player 12: freed
+Player 13: soon,
+Player 14: french
+Player 15: president
+Player 16: jacques
+Player 17: chirac
+Player 18: discuss
+Player 19: crisis
+Player 20: sunday
+Player 21: foreign
+Player 22: minister,
+Player 23: returned
+Player 24: mission
+Player 25: middle
+Player 26: east
+Player 27: news
+---------- Rewards ----------
+v(): -3.6701529026031494	 ([])
+v(0 1 2 9 10 14 17 21 22): 8.490912437438965	 ([paris][( afp )][- -][captive][iraq][french][chirac][foreign][minister,])
+v(11 13 15 16): 7.627830505371094	 ([would][soon,][president][jacques])
+v(23 24 26): 2.99771785736084	 ([returned][mission][east])
+v(3 4 5 6 7 8 12 18 19 20 25 27): 6.946052551269531	 ([hopes][dimmed][two][french][journalists][held][freed][discuss][crisis][sunday][middle][news])
+v(0 1 2 9 10 11 13 14 15 16 17 21 22): 8.543858528137207	 ([paris][( afp )][- -][captive][iraq][would][soon,][french][president][jacques][chirac][foreign][minister,])
+v(0 1 2 9 10 14 17 21 22 23 24 26): 8.45167064666748	 ([paris][( afp )][- -][captive][iraq][french][chirac][foreign][minister,][returned][mission][east])
+v(0 1 2 3 4 5 6 7 8 9 10 12 14 17 18 19 20 21 22 25 27): 8.410295486450195	 ([paris][( afp )][- -][hopes][dimmed][two][french][journalists][held][captive][iraq][freed][french][chirac][discuss][crisis][sunday][foreign][minister,][middle][news])
+v(11 13 15 16 23 24 26): 7.99024772644043	 ([would][soon,][president][jacques][returned][mission][east])
+v(3 4 5 6 7 8 11 12 13 15 16 18 19 20 25 27): 8.25676155090332	 ([hopes][dimmed][two][french][journalists][held][would][freed][soon,][president][jacques][discuss][crisis][sunday][middle][news])
+v(3 4 5 6 7 8 12 18 19 20 23 24 25 26 27): 7.197337627410889	 ([hopes][dimmed][two][french][journalists][held][freed][discuss][crisis][sunday][returned][mission][middle][east][news])
+v(0 1 2 9 10 11 13 14 15 16 17 21 22 23 24 26): 8.524425506591797	 ([paris][( afp )][- -][captive][iraq][would][soon,][french][president][jacques][chirac][foreign][minister,][returned][mission][east])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 25 27): 8.427494049072266	 ([paris][( afp )][- -][hopes][dimmed][two][french][journalists][held][captive][iraq][would][freed][soon,][french][president][jacques][chirac][discuss][crisis][sunday][foreign][minister,][middle][news])
+v(0 1 2 3 4 5 6 7 8 9 10 12 14 17 18 19 20 21 22 23 24 25 26 27): 8.400639533996582	 ([paris][( afp )][- -][hopes][dimmed][two][french][journalists][held][captive][iraq][freed][french][chirac][discuss][crisis][sunday][foreign][minister,][returned][mission][middle][east][news])
+v(3 4 5 6 7 8 11 12 13 15 16 18 19 20 23 24 25 26 27): 8.280208587646484	 ([hopes][dimmed][two][french][journalists][held][would][freed][soon,][president][jacques][discuss][crisis][sunday][returned][mission][middle][east][news])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 8.394584655761719	 ([paris][( afp )][- -][hopes][dimmed][two][french][journalists][held][captive][iraq][would][freed][soon,][french][president][jacques][chirac][discuss][crisis][sunday][foreign][minister,][returned][mission][middle][east][news])
+---------- Rewards-v() ----------
+v(0 1 2 9 10 11 13 14 15 16 17 21 22): 12.214011192321777, EP: 1.0123727321624756	 ([paris][( afp )][- -][captive][iraq][would][soon,][french][president][jacques][chirac][foreign][minister,])
+v(0 1 2 9 10 11 13 14 15 16 17 21 22 23 24 26): 12.194578170776367, EP: 1.0107619762420654	 ([paris][( afp )][- -][captive][iraq][would][soon,][french][president][jacques][chirac][foreign][minister,][returned][mission][east])
+v(0 1 2 9 10 14 17 21 22): 12.161065101623535, EP: 1.0079842805862427	 ([paris][( afp )][- -][captive][iraq][french][chirac][foreign][minister,])
+v(0 1 2 9 10 14 17 21 22 23 24 26): 12.12182331085205, EP: 1.0047316551208496	 ([paris][( afp )][- -][captive][iraq][french][chirac][foreign][minister,][returned][mission][east])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 25 27): 12.097646713256836, EP: 1.002727746963501	 ([paris][( afp )][- -][hopes][dimmed][two][french][journalists][held][captive][iraq][would][freed][soon,][french][president][jacques][chirac][discuss][crisis][sunday][foreign][minister,][middle][news])
+v(0 1 2 3 4 5 6 7 8 9 10 12 14 17 18 19 20 21 22 25 27): 12.080448150634766, EP: 1.0013022422790527	 ([paris][( afp )][- -][hopes][dimmed][two][french][journalists][held][captive][iraq][freed][french][chirac][discuss][crisis][sunday][foreign][minister,][middle][news])
+v(0 1 2 3 4 5 6 7 8 9 10 12 14 17 18 19 20 21 22 23 24 25 26 27): 12.070792198181152, EP: 1.0005018711090088	 ([paris][( afp )][- -][hopes][dimmed][two][french][journalists][held][captive][iraq][freed][french][chirac][discuss][crisis][sunday][foreign][minister,][returned][mission][middle][east][news])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 12.064737319946289, EP: 1.0	 ([paris][( afp )][- -][hopes][dimmed][two][french][journalists][held][captive][iraq][would][freed][soon,][french][president][jacques][chirac][discuss][crisis][sunday][foreign][minister,][returned][mission][middle][east][news])
+v(3 4 5 6 7 8 11 12 13 15 16 18 19 20 23 24 25 26 27): 11.950361251831055, EP: 0.9905198216438293	 ([hopes][dimmed][two][french][journalists][held][would][freed][soon,][president][jacques][discuss][crisis][sunday][returned][mission][middle][east][news])
+v(3 4 5 6 7 8 11 12 13 15 16 18 19 20 25 27): 11.92691421508789, EP: 0.988576352596283	 ([hopes][dimmed][two][french][journalists][held][would][freed][soon,][president][jacques][discuss][crisis][sunday][middle][news])
+v(11 13 15 16 23 24 26): 11.660400390625, EP: 0.9664860367774963	 ([would][soon,][president][jacques][returned][mission][east])
+v(11 13 15 16): 11.297983169555664, EP: 0.9364466667175293	 ([would][soon,][president][jacques])
+v(3 4 5 6 7 8 12 18 19 20 23 24 25 26 27): 10.867490768432617, EP: 0.9007648229598999	 ([hopes][dimmed][two][french][journalists][held][freed][discuss][crisis][sunday][returned][mission][middle][east][news])
+v(3 4 5 6 7 8 12 18 19 20 25 27): 10.616205215454102, EP: 0.879936695098877	 ([hopes][dimmed][two][french][journalists][held][freed][discuss][crisis][sunday][middle][news])
+v(23 24 26): 6.66787052154541, EP: 0.5526742935180664	 ([returned][mission][east])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

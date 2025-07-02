@@ -1,0 +1,23 @@
+---------- Players ----------
+Player 0: south
+Player 1: african
+Player 2: trade
+Player 3: union
+Player 4: delegation
+Player 5: allowed
+Player 6: zimbabwe
+Player 7: despite
+Player 8: told
+Player 9: visit
+Player 10: acceptable.
+---------- Rewards ----------
+v(): -7.544557094573975	 ([])
+v(0 1 2 3 6): -1.9690065383911133	 ([south][african][trade][union][zimbabwe])
+v(4 5 7 8 9 10): 6.799920082092285	 ([delegation][allowed][despite][told][visit][acceptable.])
+v(0 1 2 3 4 5 6 7 8 9 10): -1.2335772514343262	 ([south][african][trade][union][delegation][allowed][zimbabwe][despite][told][visit][acceptable.])
+---------- Rewards-v() ----------
+v(4 5 7 8 9 10): 14.344476699829102, EP: 2.272939682006836	 ([delegation][allowed][despite][told][visit][acceptable.])
+v(0 1 2 3 4 5 6 7 8 9 10): 6.310979843139648, EP: 1.0	 ([south][african][trade][union][delegation][allowed][zimbabwe][despite][told][visit][acceptable.])
+v(0 1 2 3 6): 5.575550556182861, EP: 0.8834682703018188	 ([south][african][trade][union][zimbabwe])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

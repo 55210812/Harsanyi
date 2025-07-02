@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: toronto
+Player 1: ( cp )
+Player 2: -
+Player 3: td
+Player 4: bank
+Player 5: confirmed
+Player 6: thursday
+Player 7: buy
+Player 8: mid - sized
+Player 9: new
+Player 10: england
+Player 11: retail
+Player 12: bank
+Player 13: banknorth
+Player 14: \ $ 3. 8
+Player 15: billion
+Player 16: us
+Player 17: cash - and - shares
+Player 18: deal.
+---------- Rewards ----------
+v(): -0.6058404445648193	 ([])
+v(4 5 7 8 11 12 13 17 18): 7.3607072830200195	 ([bank][confirmed][buy][mid - sized][retail][bank][banknorth][cash - and - shares][deal.])
+v(0 3 6 9 10): 0.4171261787414551	 ([toronto][td][thursday][new][england])
+v(1 2 14 15 16): 7.627412796020508	 ([( cp )][-][\ $ 3. 8][billion][us])
+v(0 3 4 5 6 7 8 9 10 11 12 13 17 18): 8.349390983581543	 ([toronto][td][bank][confirmed][thursday][buy][mid - sized][new][england][retail][bank][banknorth][cash - and - shares][deal.])
+v(1 2 4 5 7 8 11 12 13 14 15 16 17 18): 7.991494178771973	 ([( cp )][-][bank][confirmed][buy][mid - sized][retail][bank][banknorth][\ $ 3. 8][billion][us][cash - and - shares][deal.])
+v(0 1 2 3 6 9 10 14 15 16): 5.603604316711426	 ([toronto][( cp )][-][td][thursday][new][england][\ $ 3. 8][billion][us])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.020769119262695	 ([toronto][( cp )][-][td][bank][confirmed][thursday][buy][mid - sized][new][england][retail][bank][banknorth][\ $ 3. 8][billion][us][cash - and - shares][deal.])
+---------- Rewards-v() ----------
+v(0 3 4 5 6 7 8 9 10 11 12 13 17 18): 8.955231666564941, EP: 1.0380939245224	 ([toronto][td][bank][confirmed][thursday][buy][mid - sized][new][england][retail][bank][banknorth][cash - and - shares][deal.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.626609802246094, EP: 1.0	 ([toronto][( cp )][-][td][bank][confirmed][thursday][buy][mid - sized][new][england][retail][bank][banknorth][\ $ 3. 8][billion][us][cash - and - shares][deal.])
+v(1 2 4 5 7 8 11 12 13 14 15 16 17 18): 8.597334861755371, EP: 0.9966064095497131	 ([( cp )][-][bank][confirmed][buy][mid - sized][retail][bank][banknorth][\ $ 3. 8][billion][us][cash - and - shares][deal.])
+v(1 2 14 15 16): 8.233253479003906, EP: 0.954401969909668	 ([( cp )][-][\ $ 3. 8][billion][us])
+v(4 5 7 8 11 12 13 17 18): 7.966547966003418, EP: 0.9234853982925415	 ([bank][confirmed][buy][mid - sized][retail][bank][banknorth][cash - and - shares][deal.])
+v(0 1 2 3 6 9 10 14 15 16): 6.209444999694824, EP: 0.7198013067245483	 ([toronto][( cp )][-][td][thursday][new][england][\ $ 3. 8][billion][us])
+v(0 3 6 9 10): 1.0229666233062744, EP: 0.11858269572257996	 ([toronto][td][thursday][new][england])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

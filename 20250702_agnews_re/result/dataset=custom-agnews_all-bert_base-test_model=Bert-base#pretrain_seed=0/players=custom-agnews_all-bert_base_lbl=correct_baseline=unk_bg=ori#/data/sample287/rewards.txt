@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: foreign
+Player 1: institutional
+Player 2: investor
+Player 3: warburg
+Player 4: pincus
+Player 5: international
+Player 6: pick
+Player 7: 2. 75
+Player 8: per
+Player 9: cent
+Player 10: stake
+Player 11: kotak
+Player 12: mahindra
+Player 13: bank
+Player 14: rs
+Player 15: 75. 9
+Player 16: crore
+Player 17: ( rs
+Player 18: 759
+Player 19: million ),
+Player 20: subject
+Player 21: shareholders
+Player 22: # 39 ;
+Player 23: approval.
+---------- Rewards ----------
+v(): -1.5149229764938354	 ([])
+v(0 1 2 4 5 8 13 21): 8.516345024108887	 ([foreign][institutional][investor][pincus][international][per][bank][shareholders])
+v(3 6 7 11 12 20): -0.30096435546875	 ([warburg][pick][2. 75][kotak][mahindra][subject])
+v(9 10 14 15 16 17 18 19 22 23): 4.200040340423584	 ([cent][stake][rs][75. 9][crore][( rs][759][million ),][# 39 ;][approval.])
+v(0 1 2 3 4 5 6 7 8 11 12 13 20 21): 8.3366060256958	 ([foreign][institutional][investor][warburg][pincus][international][pick][2. 75][per][kotak][mahindra][bank][subject][shareholders])
+v(0 1 2 4 5 8 9 10 13 14 15 16 17 18 19 21 22 23): 8.495348930358887	 ([foreign][institutional][investor][pincus][international][per][cent][stake][bank][rs][75. 9][crore][( rs][759][million ),][shareholders][# 39 ;][approval.])
+v(3 6 7 9 10 11 12 14 15 16 17 18 19 20 22 23): 6.09766960144043	 ([warburg][pick][2. 75][cent][stake][kotak][mahindra][rs][75. 9][crore][( rs][759][million ),][subject][# 39 ;][approval.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.300858497619629	 ([foreign][institutional][investor][warburg][pincus][international][pick][2. 75][per][cent][stake][kotak][mahindra][bank][rs][75. 9][crore][( rs][759][million ),][subject][shareholders][# 39 ;][approval.])
+---------- Rewards-v() ----------
+v(0 1 2 4 5 8 13 21): 10.031268119812012, EP: 1.0219531059265137	 ([foreign][institutional][investor][pincus][international][per][bank][shareholders])
+v(0 1 2 4 5 8 9 10 13 14 15 16 17 18 19 21 22 23): 10.010272026062012, EP: 1.0198140144348145	 ([foreign][institutional][investor][pincus][international][per][cent][stake][bank][rs][75. 9][crore][( rs][759][million ),][shareholders][# 39 ;][approval.])
+v(0 1 2 3 4 5 6 7 8 11 12 13 20 21): 9.851529121398926, EP: 1.0036418437957764	 ([foreign][institutional][investor][warburg][pincus][international][pick][2. 75][per][kotak][mahindra][bank][subject][shareholders])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 9.815781593322754, EP: 1.0	 ([foreign][institutional][investor][warburg][pincus][international][pick][2. 75][per][cent][stake][kotak][mahindra][bank][rs][75. 9][crore][( rs][759][million ),][subject][shareholders][# 39 ;][approval.])
+v(3 6 7 9 10 11 12 14 15 16 17 18 19 20 22 23): 7.612592697143555, EP: 0.7755462527275085	 ([warburg][pick][2. 75][cent][stake][kotak][mahindra][rs][75. 9][crore][( rs][759][million ),][subject][# 39 ;][approval.])
+v(9 10 14 15 16 17 18 19 22 23): 5.714963436126709, EP: 0.5822219252586365	 ([cent][stake][rs][75. 9][crore][( rs][759][million ),][# 39 ;][approval.])
+v(3 6 7 11 12 20): 1.2139586210250854, EP: 0.1236741691827774	 ([warburg][pick][2. 75][kotak][mahindra][subject])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

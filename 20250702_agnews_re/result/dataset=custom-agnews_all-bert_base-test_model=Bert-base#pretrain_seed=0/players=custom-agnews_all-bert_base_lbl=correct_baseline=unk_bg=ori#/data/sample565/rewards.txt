@@ -1,0 +1,21 @@
+---------- Players ----------
+Player 0: flood
+Player 1: foreign
+Player 2: observers
+Player 3: expected
+Player 4: dec.
+Player 5: 26
+Player 6: rerun
+Player 7: presidential
+Player 8: vote.
+---------- Rewards ----------
+v(): -6.937786102294922	 ([])
+v(0 1 2 6 7 8): 5.770829200744629	 ([flood][foreign][observers][rerun][presidential][vote.])
+v(3 4 5): -5.38001012802124	 ([expected][dec.][26])
+v(0 1 2 3 4 5 6 7 8): 1.6653356552124023	 ([flood][foreign][observers][expected][dec.][26][rerun][presidential][vote.])
+---------- Rewards-v() ----------
+v(0 1 2 6 7 8): 12.70861530303955, EP: 1.4772096872329712	 ([flood][foreign][observers][rerun][presidential][vote.])
+v(0 1 2 3 4 5 6 7 8): 8.603121757507324, EP: 1.0	 ([flood][foreign][observers][expected][dec.][26][rerun][presidential][vote.])
+v(3 4 5): 1.5577759742736816, EP: 0.18107101321220398	 ([expected][dec.][26])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

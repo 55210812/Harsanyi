@@ -1,0 +1,82 @@
+---------- Players ----------
+Player 0: beirut,
+Player 1: lebanon
+Player 2: -
+Player 3: three
+Player 4: lebanese
+Player 5: men
+Player 6: iraqi
+Player 7: driver
+Player 8: kidnapped
+Player 9: iraq,
+Player 10: lebanese
+Player 11: foreign
+Player 12: ministry
+Player 13: said
+Player 14: sunday,
+Player 15: iraq's
+Player 16: prime
+Player 17: minister
+Player 18: said
+Player 19: government
+Player 20: working
+Player 21: release
+Player 22: two
+Player 23: americans
+Player 24: briton
+Player 25: also
+Player 26: held
+Player 27: hostage.
+Player 28: gunmen
+Player 29: snatched
+Player 30: three
+Player 31: lebanese,
+Player 32: worked
+Player 33: travel
+Player 34: agency
+Player 35: branch
+Player 36: baghdad,
+Player 37: drove
+Player 38: highway
+Player 39: capital
+Player 40: fallujah
+Player 41: friday
+Player 42: night,
+Player 43: ministry
+Player 44: official
+Player 45: said...
+---------- Rewards ----------
+v(): -4.687102317810059	 ([])
+v(0 5 6 8 9 15 16 17 18 19 24 25 27 31 36): 8.085407257080078	 ([beirut,][men][iraqi][kidnapped][iraq,][iraq's][prime][minister][said][government][briton][also][hostage.][lebanese,][baghdad,])
+v(1 7 14 20 21 22 23 32 33 34 35 37 38 39 40 41 42 43 44 45): 7.016706943511963	 ([lebanon][driver][sunday,][working][release][two][americans][worked][travel][agency][branch][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(2 3 4 26 28 29 30): 6.790186882019043	 ([-][three][lebanese][held][gunmen][snatched][three])
+v(10 11 12 13): 4.338712692260742	 ([lebanese][foreign][ministry][said])
+v(0 1 5 6 7 8 9 14 15 16 17 18 19 20 21 22 23 24 25 27 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45): 7.504848480224609	 ([beirut,][lebanon][men][iraqi][driver][kidnapped][iraq,][sunday,][iraq's][prime][minister][said][government][working][release][two][americans][briton][also][hostage.][lebanese,][worked][travel][agency][branch][baghdad,][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(0 2 3 4 5 6 8 9 15 16 17 18 19 24 25 26 27 28 29 30 31 36): 8.240376472473145	 ([beirut,][-][three][lebanese][men][iraqi][kidnapped][iraq,][iraq's][prime][minister][said][government][briton][also][held][hostage.][gunmen][snatched][three][lebanese,][baghdad,])
+v(0 5 6 8 9 10 11 12 13 15 16 17 18 19 24 25 27 31 36): 7.957972049713135	 ([beirut,][men][iraqi][kidnapped][iraq,][lebanese][foreign][ministry][said][iraq's][prime][minister][said][government][briton][also][hostage.][lebanese,][baghdad,])
+v(1 2 3 4 7 14 20 21 22 23 26 28 29 30 32 33 34 35 37 38 39 40 41 42 43 44 45): 8.077897071838379	 ([lebanon][-][three][lebanese][driver][sunday,][working][release][two][americans][held][gunmen][snatched][three][worked][travel][agency][branch][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(1 7 10 11 12 13 14 20 21 22 23 32 33 34 35 37 38 39 40 41 42 43 44 45): 6.895263195037842	 ([lebanon][driver][lebanese][foreign][ministry][said][sunday,][working][release][two][americans][worked][travel][agency][branch][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(2 3 4 10 11 12 13 26 28 29 30): 7.181249141693115	 ([-][three][lebanese][lebanese][foreign][ministry][said][held][gunmen][snatched][three])
+v(0 1 2 3 4 5 6 7 8 9 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45): 8.421491622924805	 ([beirut,][lebanon][-][three][lebanese][men][iraqi][driver][kidnapped][iraq,][sunday,][iraq's][prime][minister][said][government][working][release][two][americans][briton][also][held][hostage.][gunmen][snatched][three][lebanese,][worked][travel][agency][branch][baghdad,][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(0 1 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 27 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45): 7.277378082275391	 ([beirut,][lebanon][men][iraqi][driver][kidnapped][iraq,][lebanese][foreign][ministry][said][sunday,][iraq's][prime][minister][said][government][working][release][two][americans][briton][also][hostage.][lebanese,][worked][travel][agency][branch][baghdad,][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(0 2 3 4 5 6 8 9 10 11 12 13 15 16 17 18 19 24 25 26 27 28 29 30 31 36): 8.201854705810547	 ([beirut,][-][three][lebanese][men][iraqi][kidnapped][iraq,][lebanese][foreign][ministry][said][iraq's][prime][minister][said][government][briton][also][held][hostage.][gunmen][snatched][three][lebanese,][baghdad,])
+v(1 2 3 4 7 10 11 12 13 14 20 21 22 23 26 28 29 30 32 33 34 35 37 38 39 40 41 42 43 44 45): 8.032228469848633	 ([lebanon][-][three][lebanese][driver][lebanese][foreign][ministry][said][sunday,][working][release][two][americans][held][gunmen][snatched][three][worked][travel][agency][branch][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45): 8.356609344482422	 ([beirut,][lebanon][-][three][lebanese][men][iraqi][driver][kidnapped][iraq,][lebanese][foreign][ministry][said][sunday,][iraq's][prime][minister][said][government][working][release][two][americans][briton][also][held][hostage.][gunmen][snatched][three][lebanese,][worked][travel][agency][branch][baghdad,][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45): 13.108593940734863, EP: 1.0049742460250854	 ([beirut,][lebanon][-][three][lebanese][men][iraqi][driver][kidnapped][iraq,][sunday,][iraq's][prime][minister][said][government][working][release][two][americans][briton][also][held][hostage.][gunmen][snatched][three][lebanese,][worked][travel][agency][branch][baghdad,][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45): 13.04371166229248, EP: 1.0	 ([beirut,][lebanon][-][three][lebanese][men][iraqi][driver][kidnapped][iraq,][lebanese][foreign][ministry][said][sunday,][iraq's][prime][minister][said][government][working][release][two][americans][briton][also][held][hostage.][gunmen][snatched][three][lebanese,][worked][travel][agency][branch][baghdad,][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(0 2 3 4 5 6 8 9 15 16 17 18 19 24 25 26 27 28 29 30 31 36): 12.927478790283203, EP: 0.9910889863967896	 ([beirut,][-][three][lebanese][men][iraqi][kidnapped][iraq,][iraq's][prime][minister][said][government][briton][also][held][hostage.][gunmen][snatched][three][lebanese,][baghdad,])
+v(0 2 3 4 5 6 8 9 10 11 12 13 15 16 17 18 19 24 25 26 27 28 29 30 31 36): 12.888957023620605, EP: 0.9881356954574585	 ([beirut,][-][three][lebanese][men][iraqi][kidnapped][iraq,][lebanese][foreign][ministry][said][iraq's][prime][minister][said][government][briton][also][held][hostage.][gunmen][snatched][three][lebanese,][baghdad,])
+v(0 5 6 8 9 15 16 17 18 19 24 25 27 31 36): 12.772509574890137, EP: 0.97920823097229	 ([beirut,][men][iraqi][kidnapped][iraq,][iraq's][prime][minister][said][government][briton][also][hostage.][lebanese,][baghdad,])
+v(1 2 3 4 7 14 20 21 22 23 26 28 29 30 32 33 34 35 37 38 39 40 41 42 43 44 45): 12.764999389648438, EP: 0.9786324501037598	 ([lebanon][-][three][lebanese][driver][sunday,][working][release][two][americans][held][gunmen][snatched][three][worked][travel][agency][branch][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(1 2 3 4 7 10 11 12 13 14 20 21 22 23 26 28 29 30 32 33 34 35 37 38 39 40 41 42 43 44 45): 12.719330787658691, EP: 0.9751312732696533	 ([lebanon][-][three][lebanese][driver][lebanese][foreign][ministry][said][sunday,][working][release][two][americans][held][gunmen][snatched][three][worked][travel][agency][branch][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(0 5 6 8 9 10 11 12 13 15 16 17 18 19 24 25 27 31 36): 12.645074844360352, EP: 0.969438374042511	 ([beirut,][men][iraqi][kidnapped][iraq,][lebanese][foreign][ministry][said][iraq's][prime][minister][said][government][briton][also][hostage.][lebanese,][baghdad,])
+v(0 1 5 6 7 8 9 14 15 16 17 18 19 20 21 22 23 24 25 27 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45): 12.191950798034668, EP: 0.9346994757652283	 ([beirut,][lebanon][men][iraqi][driver][kidnapped][iraq,][sunday,][iraq's][prime][minister][said][government][working][release][two][americans][briton][also][hostage.][lebanese,][worked][travel][agency][branch][baghdad,][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(0 1 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 27 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45): 11.96448040008545, EP: 0.9172604084014893	 ([beirut,][lebanon][men][iraqi][driver][kidnapped][iraq,][lebanese][foreign][ministry][said][sunday,][iraq's][prime][minister][said][government][working][release][two][americans][briton][also][hostage.][lebanese,][worked][travel][agency][branch][baghdad,][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(2 3 4 10 11 12 13 26 28 29 30): 11.868350982666016, EP: 0.9098906517028809	 ([-][three][lebanese][lebanese][foreign][ministry][said][held][gunmen][snatched][three])
+v(1 7 14 20 21 22 23 32 33 34 35 37 38 39 40 41 42 43 44 45): 11.70380973815918, EP: 0.8972760438919067	 ([lebanon][driver][sunday,][working][release][two][americans][worked][travel][agency][branch][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(1 7 10 11 12 13 14 20 21 22 23 32 33 34 35 37 38 39 40 41 42 43 44 45): 11.582365036010742, EP: 0.8879654407501221	 ([lebanon][driver][lebanese][foreign][ministry][said][sunday,][working][release][two][americans][worked][travel][agency][branch][drove][highway][capital][fallujah][friday][night,][ministry][official][said...])
+v(2 3 4 26 28 29 30): 11.477289199829102, EP: 0.8799097537994385	 ([-][three][lebanese][held][gunmen][snatched][three])
+v(10 11 12 13): 9.0258150100708, EP: 0.6919667720794678	 ([lebanese][foreign][ministry][said])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

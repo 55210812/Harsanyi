@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: update :
+Player 1: oracle
+Player 2: # 39 ; s
+Player 3: ( quote,
+Player 4: chart )
+Player 5: dogged
+Player 6: pursuit
+Player 7: peoplesoft
+Player 8: ( quote,
+Player 9: chart )
+Player 10: rewarded
+Player 11: monday
+Player 12: peoplesoft
+Player 13: # 39 ; s
+Player 14: board
+Player 15: directors
+Player 16: agreed
+Player 17: sell
+Player 18: company
+Player 19: \ $ 10. 3
+Player 20: billion.
+---------- Rewards ----------
+v(): -3.8806395530700684	 ([])
+v(3 6 7 10 11 12 15 16 17 18 19 20): 4.492374420166016	 ([( quote,][pursuit][peoplesoft][rewarded][monday][peoplesoft][directors][agreed][sell][company][\ $ 10. 3][billion.])
+v(0 1 2 4 5 8 9 13 14): 2.197941780090332	 ([update :][oracle][# 39 ; s][chart )][dogged][( quote,][chart )][# 39 ; s][board])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 5.974172115325928	 ([update :][oracle][# 39 ; s][( quote,][chart )][dogged][pursuit][peoplesoft][( quote,][chart )][rewarded][monday][peoplesoft][# 39 ; s][board][directors][agreed][sell][company][\ $ 10. 3][billion.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.854811668395996, EP: 1.0	 ([update :][oracle][# 39 ; s][( quote,][chart )][dogged][pursuit][peoplesoft][( quote,][chart )][rewarded][monday][peoplesoft][# 39 ; s][board][directors][agreed][sell][company][\ $ 10. 3][billion.])
+v(3 6 7 10 11 12 15 16 17 18 19 20): 8.373014450073242, EP: 0.8496372103691101	 ([( quote,][pursuit][peoplesoft][rewarded][monday][peoplesoft][directors][agreed][sell][company][\ $ 10. 3][billion.])
+v(0 1 2 4 5 8 9 13 14): 6.0785813331604, EP: 0.6168135404586792	 ([update :][oracle][# 39 ; s][chart )][dogged][( quote,][chart )][# 39 ; s][board])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

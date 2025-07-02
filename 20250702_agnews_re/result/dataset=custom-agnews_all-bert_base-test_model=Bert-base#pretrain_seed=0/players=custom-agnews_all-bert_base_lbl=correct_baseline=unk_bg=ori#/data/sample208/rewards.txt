@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: us
+Player 1: treasury
+Player 2: notes
+Player 3: fell
+Player 4: measure
+Player 5: durable
+Player 6: goods
+Player 7: orders
+Player 8: rose
+Player 9: forecast
+Player 10: august,
+Player 11: adding
+Player 12: speculation
+Player 13: federal
+Player 14: reserve
+Player 15: raise
+Player 16: interest
+Player 17: rates
+Player 18: least
+Player 19: year.
+---------- Rewards ----------
+v(): -5.490488052368164	 ([])
+v(1 4 5 6 9 13 15 17 18): 6.835715293884277	 ([treasury][measure][durable][goods][forecast][federal][raise][rates][least])
+v(2 3 10 11 12 14 16 19): 7.0679779052734375	 ([notes][fell][august,][adding][speculation][reserve][interest][year.])
+v(0 7 8): 0.7762973308563232	 ([us][orders][rose])
+v(1 2 3 4 5 6 9 10 11 12 13 14 15 16 17 18 19): 7.232702255249023	 ([treasury][notes][fell][measure][durable][goods][forecast][august,][adding][speculation][federal][reserve][raise][interest][rates][least][year.])
+v(0 1 4 5 6 7 8 9 13 15 17 18): 8.058206558227539	 ([us][treasury][measure][durable][goods][orders][rose][forecast][federal][raise][rates][least])
+v(0 2 3 7 8 10 11 12 14 16 19): 7.451833724975586	 ([us][notes][fell][orders][rose][august,][adding][speculation][reserve][interest][year.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 5.992774486541748	 ([us][treasury][notes][fell][measure][durable][goods][orders][rose][forecast][august,][adding][speculation][federal][reserve][raise][interest][rates][least][year.])
+---------- Rewards-v() ----------
+v(0 1 4 5 6 7 8 9 13 15 17 18): 13.548694610595703, EP: 1.179864525794983	 ([us][treasury][measure][durable][goods][orders][rose][forecast][federal][raise][rates][least])
+v(0 2 3 7 8 10 11 12 14 16 19): 12.94232177734375, EP: 1.1270595788955688	 ([us][notes][fell][orders][rose][august,][adding][speculation][reserve][interest][year.])
+v(1 2 3 4 5 6 9 10 11 12 13 14 15 16 17 18 19): 12.723190307617188, EP: 1.1079769134521484	 ([treasury][notes][fell][measure][durable][goods][forecast][august,][adding][speculation][federal][reserve][raise][interest][rates][least][year.])
+v(2 3 10 11 12 14 16 19): 12.558465957641602, EP: 1.0936322212219238	 ([notes][fell][august,][adding][speculation][reserve][interest][year.])
+v(1 4 5 6 9 13 15 17 18): 12.326203346252441, EP: 1.0734059810638428	 ([treasury][measure][durable][goods][forecast][federal][raise][rates][least])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 11.48326301574707, EP: 1.0	 ([us][treasury][notes][fell][measure][durable][goods][orders][rose][forecast][august,][adding][speculation][federal][reserve][raise][interest][rates][least][year.])
+v(0 7 8): 6.266785621643066, EP: 0.5457321405410767	 ([us][orders][rose])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,25 @@
+---------- Players ----------
+Player 0: intelligence
+Player 1: officials
+Player 2: fear
+Player 3: new
+Player 4: generation
+Player 5: disaffected
+Player 6: european
+Player 7: muslims,
+Player 8: iraq
+Player 9: become
+Player 10: new
+Player 11: holy
+Player 12: war.
+---------- Rewards ----------
+v(): -6.470785140991211	 ([])
+v(1 6 7 8): 8.208672523498535	 ([officials][european][muslims,][iraq])
+v(0 2 3 4 5 9 10 11 12): 8.105989456176758	 ([intelligence][fear][new][generation][disaffected][become][new][holy][war.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 8.302284240722656	 ([intelligence][officials][fear][new][generation][disaffected][european][muslims,][iraq][become][new][holy][war.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 14.773069381713867, EP: 1.0	 ([intelligence][officials][fear][new][generation][disaffected][european][muslims,][iraq][become][new][holy][war.])
+v(1 6 7 8): 14.679457664489746, EP: 0.9936633706092834	 ([officials][european][muslims,][iraq])
+v(0 2 3 4 5 9 10 11 12): 14.576774597167969, EP: 0.986712634563446	 ([intelligence][fear][new][generation][disaffected][become][new][holy][war.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

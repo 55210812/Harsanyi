@@ -1,0 +1,95 @@
+---------- Players ----------
+Player 0: rackable
+Player 1: systems
+Player 2: added
+Player 3: line
+Player 4: nas
+Player 5: solutions
+Player 6: new
+Player 7: s3116 - nas
+Player 8: server
+Player 9: appliance.
+Player 10: new
+Player 11: nas
+Player 12: server
+Player 13: designed
+Player 14: datacenters
+Player 15: looking
+Player 16: high - performance
+Player 17: sata
+Player 18: system
+Player 19: affordable
+Player 20: price,
+Player 21: according
+Player 22: geoffrey
+Player 23: noer,
+Player 24: senior
+Player 25: director
+Player 26: storage
+Player 27: products
+Player 28: rackable
+Player 29: systems.
+Player 30: companies
+Player 31: using
+Player 32: expensive
+Player 33: fibre
+Player 34: channel - based
+Player 35: storage
+Player 36: migrate
+Player 37: older
+Player 38: projects
+Player 39: lower - cost
+Player 40: rackable
+Player 41: systems
+Player 42: nas,
+Player 43: noer
+Player 44: said.
+Player 45: uses
+Player 46: include
+Player 47: disk - based
+Player 48: backup,
+Player 49: small
+Player 50: medium
+Player 51: business
+Player 52: workgroups,
+Player 53: applications
+Player 54: seismic
+Player 55: processing
+Player 56: video
+Player 57: rendering,
+Player 58: said.
+---------- Rewards ----------
+v(): 4.215587139129639	 ([])
+v(15 19 20 21 22 23 24 25 26 30 31 33 44 57): 7.6891913414001465	 ([looking][affordable][price,][according][geoffrey][noer,][senior][director][storage][companies][using][fibre][said.][rendering,])
+v(5 7 9 32 38 39 48 49 50 51): -2.1985960006713867	 ([solutions][s3116 - nas][appliance.][expensive][projects][lower - cost][backup,][small][medium][business])
+v(0 1 2 3 6 8 10 12 13 14 18 28 29 34 35 37 41 45 46 47 53 55 58): 6.970944404602051	 ([rackable][systems][added][line][new][server][new][server][designed][datacenters][system][rackable][systems.][channel - based][storage][older][systems][uses][include][disk - based][applications][processing][said.])
+v(4 11 16 17 27 36 40 42 43 52 54 56): 7.215464115142822	 ([nas][nas][high - performance][sata][products][migrate][rackable][nas,][noer][workgroups,][seismic][video])
+v(5 7 9 15 19 20 21 22 23 24 25 26 30 31 32 33 38 39 44 48 49 50 51 57): 8.026616096496582	 ([solutions][s3116 - nas][appliance.][looking][affordable][price,][according][geoffrey][noer,][senior][director][storage][companies][using][expensive][fibre][projects][lower - cost][said.][backup,][small][medium][business][rendering,])
+v(0 1 2 3 6 8 10 12 13 14 15 18 19 20 21 22 23 24 25 26 28 29 30 31 33 34 35 37 41 44 45 46 47 53 55 57 58): 7.244446277618408	 ([rackable][systems][added][line][new][server][new][server][designed][datacenters][looking][system][affordable][price,][according][geoffrey][noer,][senior][director][storage][rackable][systems.][companies][using][fibre][channel - based][storage][older][systems][said.][uses][include][disk - based][applications][processing][rendering,][said.])
+v(4 11 15 16 17 19 20 21 22 23 24 25 26 27 30 31 33 36 40 42 43 44 52 54 56 57): 8.332372665405273	 ([nas][nas][looking][high - performance][sata][affordable][price,][according][geoffrey][noer,][senior][director][storage][products][companies][using][fibre][migrate][rackable][nas,][noer][said.][workgroups,][seismic][video][rendering,])
+v(0 1 2 3 5 6 7 8 9 10 12 13 14 18 28 29 32 34 35 37 38 39 41 45 46 47 48 49 50 51 53 55 58): 6.665833950042725	 ([rackable][systems][added][line][solutions][new][s3116 - nas][server][appliance.][new][server][designed][datacenters][system][rackable][systems.][expensive][channel - based][storage][older][projects][lower - cost][systems][uses][include][disk - based][backup,][small][medium][business][applications][processing][said.])
+v(4 5 7 9 11 16 17 27 32 36 38 39 40 42 43 48 49 50 51 52 54 56): 3.825397491455078	 ([nas][solutions][s3116 - nas][appliance.][nas][high - performance][sata][products][expensive][migrate][projects][lower - cost][rackable][nas,][noer][backup,][small][medium][business][workgroups,][seismic][video])
+v(0 1 2 3 4 6 8 10 11 12 13 14 16 17 18 27 28 29 34 35 36 37 40 41 42 43 45 46 47 52 53 54 55 56 58): 7.132012367248535	 ([rackable][systems][added][line][nas][new][server][new][nas][server][designed][datacenters][high - performance][sata][system][products][rackable][systems.][channel - based][storage][migrate][older][rackable][systems][nas,][noer][uses][include][disk - based][workgroups,][applications][seismic][processing][video][said.])
+v(0 1 2 3 5 6 7 8 9 10 12 13 14 15 18 19 20 21 22 23 24 25 26 28 29 30 31 32 33 34 35 37 38 39 41 44 45 46 47 48 49 50 51 53 55 57 58): 6.747414588928223	 ([rackable][systems][added][line][solutions][new][s3116 - nas][server][appliance.][new][server][designed][datacenters][looking][system][affordable][price,][according][geoffrey][noer,][senior][director][storage][rackable][systems.][companies][using][expensive][fibre][channel - based][storage][older][projects][lower - cost][systems][said.][uses][include][disk - based][backup,][small][medium][business][applications][processing][rendering,][said.])
+v(4 5 7 9 11 15 16 17 19 20 21 22 23 24 25 26 27 30 31 32 33 36 38 39 40 42 43 44 48 49 50 51 52 54 56 57): 8.227418899536133	 ([nas][solutions][s3116 - nas][appliance.][nas][looking][high - performance][sata][affordable][price,][according][geoffrey][noer,][senior][director][storage][products][companies][using][expensive][fibre][migrate][projects][lower - cost][rackable][nas,][noer][said.][backup,][small][medium][business][workgroups,][seismic][video][rendering,])
+v(0 1 2 3 4 6 8 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 33 34 35 36 37 40 41 42 43 44 45 46 47 52 53 54 55 56 57 58): 7.480774879455566	 ([rackable][systems][added][line][nas][new][server][new][nas][server][designed][datacenters][looking][high - performance][sata][system][affordable][price,][according][geoffrey][noer,][senior][director][storage][products][rackable][systems.][companies][using][fibre][channel - based][storage][migrate][older][rackable][systems][nas,][noer][said.][uses][include][disk - based][workgroups,][applications][seismic][processing][video][rendering,][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 16 17 18 27 28 29 32 34 35 36 37 38 39 40 41 42 43 45 46 47 48 49 50 51 52 53 54 55 56 58): 6.776109218597412	 ([rackable][systems][added][line][nas][solutions][new][s3116 - nas][server][appliance.][new][nas][server][designed][datacenters][high - performance][sata][system][products][rackable][systems.][expensive][channel - based][storage][migrate][older][projects][lower - cost][rackable][systems][nas,][noer][uses][include][disk - based][backup,][small][medium][business][workgroups,][applications][seismic][processing][video][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58): 5.7311320304870605	 ([rackable][systems][added][line][nas][solutions][new][s3116 - nas][server][appliance.][new][nas][server][designed][datacenters][looking][high - performance][sata][system][affordable][price,][according][geoffrey][noer,][senior][director][storage][products][rackable][systems.][companies][using][expensive][fibre][channel - based][storage][migrate][older][projects][lower - cost][rackable][systems][nas,][noer][said.][uses][include][disk - based][backup,][small][medium][business][workgroups,][applications][seismic][processing][video][rendering,][said.])
+---------- Rewards-v() ----------
+v(5 7 9 32 38 39 48 49 50 51): -6.414183139801025, EP: -4.232262134552002	 ([solutions][s3116 - nas][appliance.][expensive][projects][lower - cost][backup,][small][medium][business])
+v(4 11 15 16 17 19 20 21 22 23 24 25 26 27 30 31 33 36 40 42 43 44 52 54 56 57): 4.116785526275635, EP: 2.7163732051849365	 ([nas][nas][looking][high - performance][sata][affordable][price,][according][geoffrey][noer,][senior][director][storage][products][companies][using][fibre][migrate][rackable][nas,][noer][said.][workgroups,][seismic][video][rendering,])
+v(4 5 7 9 11 15 16 17 19 20 21 22 23 24 25 26 27 30 31 32 33 36 38 39 40 42 43 44 48 49 50 51 52 54 56 57): 4.011831760406494, EP: 2.6471216678619385	 ([nas][solutions][s3116 - nas][appliance.][nas][looking][high - performance][sata][affordable][price,][according][geoffrey][noer,][senior][director][storage][products][companies][using][expensive][fibre][migrate][projects][lower - cost][rackable][nas,][noer][said.][backup,][small][medium][business][workgroups,][seismic][video][rendering,])
+v(5 7 9 15 19 20 21 22 23 24 25 26 30 31 32 33 38 39 44 48 49 50 51 57): 3.8110289573669434, EP: 2.5146262645721436	 ([solutions][s3116 - nas][appliance.][looking][affordable][price,][according][geoffrey][noer,][senior][director][storage][companies][using][expensive][fibre][projects][lower - cost][said.][backup,][small][medium][business][rendering,])
+v(15 19 20 21 22 23 24 25 26 30 31 33 44 57): 3.473604202270508, EP: 2.2919836044311523	 ([looking][affordable][price,][according][geoffrey][noer,][senior][director][storage][companies][using][fibre][said.][rendering,])
+v(0 1 2 3 4 6 8 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 33 34 35 36 37 40 41 42 43 44 45 46 47 52 53 54 55 56 57 58): 3.2651877403259277, EP: 2.1544644832611084	 ([rackable][systems][added][line][nas][new][server][new][nas][server][designed][datacenters][looking][high - performance][sata][system][affordable][price,][according][geoffrey][noer,][senior][director][storage][products][rackable][systems.][companies][using][fibre][channel - based][storage][migrate][older][rackable][systems][nas,][noer][said.][uses][include][disk - based][workgroups,][applications][seismic][processing][video][rendering,][said.])
+v(0 1 2 3 6 8 10 12 13 14 15 18 19 20 21 22 23 24 25 26 28 29 30 31 33 34 35 37 41 44 45 46 47 53 55 57 58): 3.0288591384887695, EP: 1.9985281229019165	 ([rackable][systems][added][line][new][server][new][server][designed][datacenters][looking][system][affordable][price,][according][geoffrey][noer,][senior][director][storage][rackable][systems.][companies][using][fibre][channel - based][storage][older][systems][said.][uses][include][disk - based][applications][processing][rendering,][said.])
+v(4 11 16 17 27 36 40 42 43 52 54 56): 2.9998769760131836, EP: 1.9794049263000488	 ([nas][nas][high - performance][sata][products][migrate][rackable][nas,][noer][workgroups,][seismic][video])
+v(0 1 2 3 4 6 8 10 11 12 13 14 16 17 18 27 28 29 34 35 36 37 40 41 42 43 45 46 47 52 53 54 55 56 58): 2.9164252281188965, EP: 1.924341082572937	 ([rackable][systems][added][line][nas][new][server][new][nas][server][designed][datacenters][high - performance][sata][system][products][rackable][systems.][channel - based][storage][migrate][older][rackable][systems][nas,][noer][uses][include][disk - based][workgroups,][applications][seismic][processing][video][said.])
+v(0 1 2 3 6 8 10 12 13 14 18 28 29 34 35 37 41 45 46 47 53 55 58): 2.755357265472412, EP: 1.818063735961914	 ([rackable][systems][added][line][new][server][new][server][designed][datacenters][system][rackable][systems.][channel - based][storage][older][systems][uses][include][disk - based][applications][processing][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 16 17 18 27 28 29 32 34 35 36 37 38 39 40 41 42 43 45 46 47 48 49 50 51 52 53 54 55 56 58): 2.5605220794677734, EP: 1.689505934715271	 ([rackable][systems][added][line][nas][solutions][new][s3116 - nas][server][appliance.][new][nas][server][designed][datacenters][high - performance][sata][system][products][rackable][systems.][expensive][channel - based][storage][migrate][older][projects][lower - cost][rackable][systems][nas,][noer][uses][include][disk - based][backup,][small][medium][business][workgroups,][applications][seismic][processing][video][said.])
+v(0 1 2 3 5 6 7 8 9 10 12 13 14 15 18 19 20 21 22 23 24 25 26 28 29 30 31 32 33 34 35 37 38 39 41 44 45 46 47 48 49 50 51 53 55 57 58): 2.531827449798584, EP: 1.6705724000930786	 ([rackable][systems][added][line][solutions][new][s3116 - nas][server][appliance.][new][server][designed][datacenters][looking][system][affordable][price,][according][geoffrey][noer,][senior][director][storage][rackable][systems.][companies][using][expensive][fibre][channel - based][storage][older][projects][lower - cost][systems][said.][uses][include][disk - based][backup,][small][medium][business][applications][processing][rendering,][said.])
+v(0 1 2 3 5 6 7 8 9 10 12 13 14 18 28 29 32 34 35 37 38 39 41 45 46 47 48 49 50 51 53 55 58): 2.450246810913086, EP: 1.6167430877685547	 ([rackable][systems][added][line][solutions][new][s3116 - nas][server][appliance.][new][server][designed][datacenters][system][rackable][systems.][expensive][channel - based][storage][older][projects][lower - cost][systems][uses][include][disk - based][backup,][small][medium][business][applications][processing][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58): 1.5155448913574219, EP: 1.0	 ([rackable][systems][added][line][nas][solutions][new][s3116 - nas][server][appliance.][new][nas][server][designed][datacenters][looking][high - performance][sata][system][affordable][price,][according][geoffrey][noer,][senior][director][storage][products][rackable][systems.][companies][using][expensive][fibre][channel - based][storage][migrate][older][projects][lower - cost][rackable][systems][nas,][noer][said.][uses][include][disk - based][backup,][small][medium][business][workgroups,][applications][seismic][processing][video][rendering,][said.])
+v(4 5 7 9 11 16 17 27 32 36 38 39 40 42 43 48 49 50 51 52 54 56): -0.39018964767456055, EP: -0.25745832920074463	 ([nas][solutions][s3116 - nas][appliance.][nas][high - performance][sata][products][expensive][migrate][projects][lower - cost][rackable][nas,][noer][backup,][small][medium][business][workgroups,][seismic][video])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

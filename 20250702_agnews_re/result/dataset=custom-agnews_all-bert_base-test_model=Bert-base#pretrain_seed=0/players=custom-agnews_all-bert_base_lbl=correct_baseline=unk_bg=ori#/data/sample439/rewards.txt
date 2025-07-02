@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: hoping
+Player 1: accelerate
+Player 2: acceptance
+Player 3: blade
+Player 4: servers,
+Player 5: ibm
+Player 6: intel
+Player 7: thursday
+Player 8: lay
+Player 9: bare
+Player 10: jointly
+Player 11: developed
+Player 12: technical
+Player 13: specifications
+Player 14: bladecenter
+Player 15: platform
+Player 16: allow
+Player 17: developers
+Player 18: customize
+Player 19: add - on
+Player 20: products
+Player 21: solutions.
+---------- Rewards ----------
+v(): 2.1941370964050293	 ([])
+v(0 4 6 15 17 18): 4.883149147033691	 ([hoping][servers,][intel][platform][developers][customize])
+v(3 5 14 16 19 20): 7.655722141265869	 ([blade][ibm][bladecenter][allow][add - on][products])
+v(1 2 7 8 9 10 11 12 13 21): 6.903023719787598	 ([accelerate][acceptance][thursday][lay][bare][jointly][developed][technical][specifications][solutions.])
+v(0 3 4 5 6 14 15 16 17 18 19 20): 8.466907501220703	 ([hoping][blade][servers,][ibm][intel][bladecenter][platform][allow][developers][customize][add - on][products])
+v(0 1 2 4 6 7 8 9 10 11 12 13 15 17 18 21): 5.064337253570557	 ([hoping][accelerate][acceptance][servers,][intel][thursday][lay][bare][jointly][developed][technical][specifications][platform][developers][customize][solutions.])
+v(1 2 3 5 7 8 9 10 11 12 13 14 16 19 20 21): 8.50029182434082	 ([accelerate][acceptance][blade][ibm][thursday][lay][bare][jointly][developed][technical][specifications][bladecenter][allow][add - on][products][solutions.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.410958290100098	 ([hoping][accelerate][acceptance][blade][servers,][ibm][intel][thursday][lay][bare][jointly][developed][technical][specifications][bladecenter][platform][allow][developers][customize][add - on][products][solutions.])
+---------- Rewards-v() ----------
+v(1 2 3 5 7 8 9 10 11 12 13 14 16 19 20 21): 6.306154727935791, EP: 1.0143696069717407	 ([accelerate][acceptance][blade][ibm][thursday][lay][bare][jointly][developed][technical][specifications][bladecenter][allow][add - on][products][solutions.])
+v(0 3 4 5 6 14 15 16 17 18 19 20): 6.272770404815674, EP: 1.0089997053146362	 ([hoping][blade][servers,][ibm][intel][bladecenter][platform][allow][developers][customize][add - on][products])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 6.216821193695068, EP: 1.0	 ([hoping][accelerate][acceptance][blade][servers,][ibm][intel][thursday][lay][bare][jointly][developed][technical][specifications][bladecenter][platform][allow][developers][customize][add - on][products][solutions.])
+v(3 5 14 16 19 20): 5.46158504486084, EP: 0.8785173296928406	 ([blade][ibm][bladecenter][allow][add - on][products])
+v(1 2 7 8 9 10 11 12 13 21): 4.708886623382568, EP: 0.757442831993103	 ([accelerate][acceptance][thursday][lay][bare][jointly][developed][technical][specifications][solutions.])
+v(0 1 2 4 6 7 8 9 10 11 12 13 15 17 18 21): 2.8702001571655273, EP: 0.46168291568756104	 ([hoping][accelerate][acceptance][servers,][intel][thursday][lay][bare][jointly][developed][technical][specifications][platform][developers][customize][solutions.])
+v(0 4 6 15 17 18): 2.689012050628662, EP: 0.43253809213638306	 ([hoping][servers,][intel][platform][developers][customize])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,40 @@
+Execution time: 2025-07-02 19:22:24
+prompt: [CLS] the net's a lonelier place for users of paypal and msn instant messenger. blame a software glitch and a suspected virus. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:5658 decoded_text: net
+idx:3 input_id:1005 decoded_text: '
+idx:4 input_id:1055 decoded_text: s
+idx:5 input_id:1037 decoded_text: a
+idx:6 input_id:10459 decoded_text: lone
+idx:7 input_id:14355 decoded_text: ##lier
+idx:8 input_id:2173 decoded_text: place
+idx:9 input_id:2005 decoded_text: for
+idx:10 input_id:5198 decoded_text: users
+idx:11 input_id:1997 decoded_text: of
+idx:12 input_id:3477 decoded_text: pay
+idx:13 input_id:12952 decoded_text: ##pal
+idx:14 input_id:1998 decoded_text: and
+idx:15 input_id:5796 decoded_text: ms
+idx:16 input_id:2078 decoded_text: ##n
+idx:17 input_id:7107 decoded_text: instant
+idx:18 input_id:11981 decoded_text: messenger
+idx:19 input_id:1012 decoded_text: .
+idx:20 input_id:7499 decoded_text: blame
+idx:21 input_id:1037 decoded_text: a
+idx:22 input_id:4007 decoded_text: software
+idx:23 input_id:1043 decoded_text: g
+idx:24 input_id:15909 decoded_text: ##lit
+idx:25 input_id:2818 decoded_text: ##ch
+idx:26 input_id:1998 decoded_text: and
+idx:27 input_id:1037 decoded_text: a
+idx:28 input_id:6878 decoded_text: suspected
+idx:29 input_id:7865 decoded_text: virus
+idx:30 input_id:1012 decoded_text: .
+idx:31 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.246241569519043, -2.407843589782715, -1.029687762260437, 6.821817398071289]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

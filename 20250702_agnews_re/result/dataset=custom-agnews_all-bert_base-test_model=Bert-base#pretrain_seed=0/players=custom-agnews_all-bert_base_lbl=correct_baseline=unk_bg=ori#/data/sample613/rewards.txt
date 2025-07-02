@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: bucharest
+Player 1: ( afp )
+Player 2: -
+Player 3: romania
+Player 4: # 39 ; s
+Player 5: presidential
+Player 6: election
+Player 7: ended
+Player 8: suspense
+Player 9: exit
+Player 10: polls
+Player 11: disagreed
+Player 12: whether
+Player 13: prime
+Player 14: minister
+Player 15: adrian
+Player 16: nastase
+Player 17: narrowly
+Player 18: tied
+Player 19: centre - right
+Player 20: rival
+Player 21: traian
+Player 22: basescu.
+---------- Rewards ----------
+v(): -0.9212870001792908	 ([])
+v(0 1 6 12 14 16): 8.32965087890625	 ([bucharest][( afp )][election][whether][minister][nastase])
+v(2 3 4 5 8 11 17 18 19 20 21 22): 8.368062973022461	 ([-][romania][# 39 ; s][presidential][suspense][disagreed][narrowly][tied][centre - right][rival][traian][basescu.])
+v(7 9 10 13 15): -0.01691371202468872	 ([ended][exit][polls][prime][adrian])
+v(0 1 2 3 4 5 6 8 11 12 14 16 17 18 19 20 21 22): 8.264923095703125	 ([bucharest][( afp )][-][romania][# 39 ; s][presidential][election][suspense][disagreed][whether][minister][nastase][narrowly][tied][centre - right][rival][traian][basescu.])
+v(0 1 6 7 9 10 12 13 14 15 16): 8.532915115356445	 ([bucharest][( afp )][election][ended][exit][polls][whether][prime][minister][adrian][nastase])
+v(2 3 4 5 7 8 9 10 11 13 15 17 18 19 20 21 22): 8.443790435791016	 ([-][romania][# 39 ; s][presidential][ended][suspense][exit][polls][disagreed][prime][adrian][narrowly][tied][centre - right][rival][traian][basescu.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.300982475280762	 ([bucharest][( afp )][-][romania][# 39 ; s][presidential][election][ended][suspense][exit][polls][disagreed][whether][prime][minister][adrian][nastase][narrowly][tied][centre - right][rival][traian][basescu.])
+---------- Rewards-v() ----------
+v(0 1 6 7 9 10 12 13 14 15 16): 9.454201698303223, EP: 1.0251492261886597	 ([bucharest][( afp )][election][ended][exit][polls][whether][prime][minister][adrian][nastase])
+v(2 3 4 5 7 8 9 10 11 13 15 17 18 19 20 21 22): 9.365077018737793, EP: 1.015485167503357	 ([-][romania][# 39 ; s][presidential][ended][suspense][exit][polls][disagreed][prime][adrian][narrowly][tied][centre - right][rival][traian][basescu.])
+v(2 3 4 5 8 11 17 18 19 20 21 22): 9.289349555969238, EP: 1.00727379322052	 ([-][romania][# 39 ; s][presidential][suspense][disagreed][narrowly][tied][centre - right][rival][traian][basescu.])
+v(0 1 6 12 14 16): 9.250937461853027, EP: 1.0031086206436157	 ([bucharest][( afp )][election][whether][minister][nastase])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 9.222269058227539, EP: 1.0	 ([bucharest][( afp )][-][romania][# 39 ; s][presidential][election][ended][suspense][exit][polls][disagreed][whether][prime][minister][adrian][nastase][narrowly][tied][centre - right][rival][traian][basescu.])
+v(0 1 2 3 4 5 6 8 11 12 14 16 17 18 19 20 21 22): 9.186209678649902, EP: 0.9960899949073792	 ([bucharest][( afp )][-][romania][# 39 ; s][presidential][election][suspense][disagreed][whether][minister][nastase][narrowly][tied][centre - right][rival][traian][basescu.])
+v(7 9 10 13 15): 0.904373288154602, EP: 0.09806407243013382	 ([ended][exit][polls][prime][adrian])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

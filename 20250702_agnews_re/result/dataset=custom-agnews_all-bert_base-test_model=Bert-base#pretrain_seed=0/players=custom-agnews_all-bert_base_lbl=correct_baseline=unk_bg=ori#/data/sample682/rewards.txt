@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: amsterdam
+Player 1: ( reuters )
+Player 2: -
+Player 3: jan
+Player 4: vennegoor
+Player 5: hesselink
+Player 6: scored
+Player 7: seventh
+Player 8: goal
+Player 9: season
+Player 10: give
+Player 11: dutch
+Player 12: league
+Player 13: leader
+Player 14: psv
+Player 15: eindhoven
+Player 16: 1 - 0
+Player 17: win
+Player 18: willem
+Player 19: ii
+Player 20: tilburg
+Player 21: saturday.
+---------- Rewards ----------
+v(): -2.0810189247131348	 ([])
+v(4 5 6 7 8 11 12 13 15 16 17 20 21): 9.466592788696289	 ([vennegoor][hesselink][scored][seventh][goal][dutch][league][leader][eindhoven][1 - 0][win][tilburg][saturday.])
+v(0 1 2 3 9 10 14 18 19): 8.31120777130127	 ([amsterdam][( reuters )][-][jan][season][give][psv][willem][ii])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.387603759765625	 ([amsterdam][( reuters )][-][jan][vennegoor][hesselink][scored][seventh][goal][season][give][dutch][league][leader][psv][eindhoven][1 - 0][win][willem][ii][tilburg][saturday.])
+---------- Rewards-v() ----------
+v(4 5 6 7 8 11 12 13 15 16 17 20 21): 11.547611236572266, EP: 1.006887435913086	 ([vennegoor][hesselink][scored][seventh][goal][dutch][league][leader][eindhoven][1 - 0][win][tilburg][saturday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 11.468622207641602, EP: 1.0	 ([amsterdam][( reuters )][-][jan][vennegoor][hesselink][scored][seventh][goal][season][give][dutch][league][leader][psv][eindhoven][1 - 0][win][willem][ii][tilburg][saturday.])
+v(0 1 2 3 9 10 14 18 19): 10.392227172851562, EP: 0.9061443209648132	 ([amsterdam][( reuters )][-][jan][season][give][psv][willem][ii])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

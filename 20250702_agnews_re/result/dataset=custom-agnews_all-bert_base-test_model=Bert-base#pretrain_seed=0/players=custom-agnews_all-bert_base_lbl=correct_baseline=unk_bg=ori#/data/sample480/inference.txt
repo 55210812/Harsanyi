@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 19:29:13
+prompt: [CLS] afp - suspected muslim rebels shot dead six people in kashmir in an attack a day ahead of indian prime minister manmohan singh's visit to the restive region, police said. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:21358 decoded_text: af
+idx:2 input_id:2361 decoded_text: ##p
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:6878 decoded_text: suspected
+idx:5 input_id:5152 decoded_text: muslim
+idx:6 input_id:8431 decoded_text: rebels
+idx:7 input_id:2915 decoded_text: shot
+idx:8 input_id:2757 decoded_text: dead
+idx:9 input_id:2416 decoded_text: six
+idx:10 input_id:2111 decoded_text: people
+idx:11 input_id:1999 decoded_text: in
+idx:12 input_id:13329 decoded_text: kashmir
+idx:13 input_id:1999 decoded_text: in
+idx:14 input_id:2019 decoded_text: an
+idx:15 input_id:2886 decoded_text: attack
+idx:16 input_id:1037 decoded_text: a
+idx:17 input_id:2154 decoded_text: day
+idx:18 input_id:3805 decoded_text: ahead
+idx:19 input_id:1997 decoded_text: of
+idx:20 input_id:2796 decoded_text: indian
+idx:21 input_id:3539 decoded_text: prime
+idx:22 input_id:2704 decoded_text: minister
+idx:23 input_id:2158 decoded_text: man
+idx:24 input_id:5302 decoded_text: ##mo
+idx:25 input_id:4819 decoded_text: ##han
+idx:26 input_id:5960 decoded_text: singh
+idx:27 input_id:1005 decoded_text: '
+idx:28 input_id:1055 decoded_text: s
+idx:29 input_id:3942 decoded_text: visit
+idx:30 input_id:2000 decoded_text: to
+idx:31 input_id:1996 decoded_text: the
+idx:32 input_id:2717 decoded_text: rest
+idx:33 input_id:3512 decoded_text: ##ive
+idx:34 input_id:2555 decoded_text: region
+idx:35 input_id:1010 decoded_text: ,
+idx:36 input_id:2610 decoded_text: police
+idx:37 input_id:2056 decoded_text: said
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.236219882965088, -1.8688769340515137, -2.6070899963378906, -2.3921823501586914]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

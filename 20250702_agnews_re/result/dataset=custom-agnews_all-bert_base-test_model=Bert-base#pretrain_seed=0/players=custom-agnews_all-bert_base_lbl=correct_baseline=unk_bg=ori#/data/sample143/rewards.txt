@@ -1,0 +1,86 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: tom
+Player 3: lehman
+Player 4: love - hate
+Player 5: relationship
+Player 6: long
+Player 7: putter
+Player 8: sometimes
+Player 9: makes
+Player 10: way
+Player 11: bag.
+Player 12: lately,
+Player 13: finding
+Player 14: lot
+Player 15: love
+Player 16: ever
+Player 17: before.
+---------- Rewards ----------
+v(): -1.2241400480270386	 ([])
+v(0 2 3 16): 1.1093345880508423	 ([ap][tom][lehman][ever])
+v(1 6 7 11 12 17): 4.552575588226318	 ([-][long][putter][bag.][lately,][before.])
+v(8 9 10): -0.727139413356781	 ([sometimes][makes][way])
+v(4 5): -3.4450888633728027	 ([love - hate][relationship])
+v(13 14 15): -3.2042081356048584	 ([finding][lot][love])
+v(0 1 2 3 6 7 11 12 16 17): 8.234635353088379	 ([ap][-][tom][lehman][long][putter][bag.][lately,][ever][before.])
+v(0 2 3 8 9 10 16): 2.5857579708099365	 ([ap][tom][lehman][sometimes][makes][way][ever])
+v(0 2 3 4 5 16): -1.3820059299468994	 ([ap][tom][lehman][love - hate][relationship][ever])
+v(0 2 3 13 14 15 16): -2.6367642879486084	 ([ap][tom][lehman][finding][lot][love][ever])
+v(1 6 7 8 9 10 11 12 17): 5.375147819519043	 ([-][long][putter][sometimes][makes][way][bag.][lately,][before.])
+v(1 4 5 6 7 11 12 17): 1.7309389114379883	 ([-][love - hate][relationship][long][putter][bag.][lately,][before.])
+v(1 6 7 11 12 13 14 15 17): 2.0585248470306396	 ([-][long][putter][bag.][lately,][finding][lot][love][before.])
+v(4 5 8 9 10): -2.5654425621032715	 ([love - hate][relationship][sometimes][makes][way])
+v(8 9 10 13 14 15): -2.0602807998657227	 ([sometimes][makes][way][finding][lot][love])
+v(4 5 13 14 15): -4.330028533935547	 ([love - hate][relationship][finding][lot][love])
+v(0 1 2 3 6 7 8 9 10 11 12 16 17): 9.042442321777344	 ([ap][-][tom][lehman][long][putter][sometimes][makes][way][bag.][lately,][ever][before.])
+v(0 1 2 3 4 5 6 7 11 12 16 17): 6.747249603271484	 ([ap][-][tom][lehman][love - hate][relationship][long][putter][bag.][lately,][ever][before.])
+v(0 1 2 3 6 7 11 12 13 14 15 16 17): 7.813129425048828	 ([ap][-][tom][lehman][long][putter][bag.][lately,][finding][lot][love][ever][before.])
+v(0 2 3 4 5 8 9 10 16): 0.6032638549804688	 ([ap][tom][lehman][love - hate][relationship][sometimes][makes][way][ever])
+v(0 2 3 8 9 10 13 14 15 16): -0.20154905319213867	 ([ap][tom][lehman][sometimes][makes][way][finding][lot][love][ever])
+v(0 2 3 4 5 13 14 15 16): -2.308121919631958	 ([ap][tom][lehman][love - hate][relationship][finding][lot][love][ever])
+v(1 4 5 6 7 8 9 10 11 12 17): 2.7885968685150146	 ([-][love - hate][relationship][long][putter][sometimes][makes][way][bag.][lately,][before.])
+v(1 6 7 8 9 10 11 12 13 14 15 17): 3.971167802810669	 ([-][long][putter][sometimes][makes][way][bag.][lately,][finding][lot][love][before.])
+v(1 4 5 6 7 11 12 13 14 15 17): -1.405948519706726	 ([-][love - hate][relationship][long][putter][bag.][lately,][finding][lot][love][before.])
+v(4 5 8 9 10 13 14 15): -3.031754732131958	 ([love - hate][relationship][sometimes][makes][way][finding][lot][love])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 16 17): 8.569376945495605	 ([ap][-][tom][lehman][love - hate][relationship][long][putter][sometimes][makes][way][bag.][lately,][ever][before.])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17): 9.050342559814453	 ([ap][-][tom][lehman][long][putter][sometimes][makes][way][bag.][lately,][finding][lot][love][ever][before.])
+v(0 1 2 3 4 5 6 7 11 12 13 14 15 16 17): 5.845925807952881	 ([ap][-][tom][lehman][love - hate][relationship][long][putter][bag.][lately,][finding][lot][love][ever][before.])
+v(0 2 3 4 5 8 9 10 13 14 15 16): -0.04833698272705078	 ([ap][tom][lehman][love - hate][relationship][sometimes][makes][way][finding][lot][love][ever])
+v(1 4 5 6 7 8 9 10 11 12 13 14 15 17): 0.33420753479003906	 ([-][love - hate][relationship][long][putter][sometimes][makes][way][bag.][lately,][finding][lot][love][before.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.397705078125	 ([ap][-][tom][lehman][love - hate][relationship][long][putter][sometimes][makes][way][bag.][lately,][finding][lot][love][ever][before.])
+---------- Rewards-v() ----------
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17): 10.274482727050781, EP: 1.0678287744522095	 ([ap][-][tom][lehman][long][putter][sometimes][makes][way][bag.][lately,][finding][lot][love][ever][before.])
+v(0 1 2 3 6 7 8 9 10 11 12 16 17): 10.266582489013672, EP: 1.0670076608657837	 ([ap][-][tom][lehman][long][putter][sometimes][makes][way][bag.][lately,][ever][before.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 16 17): 9.793517112731934, EP: 1.0178419351577759	 ([ap][-][tom][lehman][love - hate][relationship][long][putter][sometimes][makes][way][bag.][lately,][ever][before.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.621845245361328, EP: 1.0	 ([ap][-][tom][lehman][love - hate][relationship][long][putter][sometimes][makes][way][bag.][lately,][finding][lot][love][ever][before.])
+v(0 1 2 3 6 7 11 12 16 17): 9.458775520324707, EP: 0.983052134513855	 ([ap][-][tom][lehman][long][putter][bag.][lately,][ever][before.])
+v(0 1 2 3 6 7 11 12 13 14 15 16 17): 9.037269592285156, EP: 0.9392449259757996	 ([ap][-][tom][lehman][long][putter][bag.][lately,][finding][lot][love][ever][before.])
+v(0 1 2 3 4 5 6 7 11 12 16 17): 7.9713897705078125, EP: 0.8284679055213928	 ([ap][-][tom][lehman][love - hate][relationship][long][putter][bag.][lately,][ever][before.])
+v(0 1 2 3 4 5 6 7 11 12 13 14 15 16 17): 7.070065975189209, EP: 0.7347931265830994	 ([ap][-][tom][lehman][love - hate][relationship][long][putter][bag.][lately,][finding][lot][love][ever][before.])
+v(1 6 7 8 9 10 11 12 17): 6.599287986755371, EP: 0.6858651041984558	 ([-][long][putter][sometimes][makes][way][bag.][lately,][before.])
+v(1 6 7 11 12 17): 5.7767157554626465, EP: 0.6003750562667847	 ([-][long][putter][bag.][lately,][before.])
+v(1 6 7 8 9 10 11 12 13 14 15 17): 5.195307731628418, EP: 0.5399492383003235	 ([-][long][putter][sometimes][makes][way][bag.][lately,][finding][lot][love][before.])
+v(1 4 5 6 7 8 9 10 11 12 17): 4.012736797332764, EP: 0.41704440116882324	 ([-][love - hate][relationship][long][putter][sometimes][makes][way][bag.][lately,][before.])
+v(0 2 3 8 9 10 16): 3.8098978996276855, EP: 0.3959633409976959	 ([ap][tom][lehman][sometimes][makes][way][ever])
+v(1 6 7 11 12 13 14 15 17): 3.2826647758483887, EP: 0.3411678969860077	 ([-][long][putter][bag.][lately,][finding][lot][love][before.])
+v(4 5 13 14 15): -3.1058883666992188, EP: -0.3227955102920532	 ([love - hate][relationship][finding][lot][love])
+v(1 4 5 6 7 11 12 17): 2.9550790786743164, EP: 0.3071218729019165	 ([-][love - hate][relationship][long][putter][bag.][lately,][before.])
+v(0 2 3 16): 2.333474636077881, EP: 0.24251841008663177	 ([ap][tom][lehman][ever])
+v(4 5): -2.2209486961364746, EP: -0.2308235764503479	 ([love - hate][relationship])
+v(13 14 15): -1.9800680875778198, EP: -0.20578880608081818	 ([finding][lot][love])
+v(0 2 3 4 5 8 9 10 16): 1.8274039030075073, EP: 0.18992239236831665	 ([ap][tom][lehman][love - hate][relationship][sometimes][makes][way][ever])
+v(4 5 8 9 10 13 14 15): -1.8076146841049194, EP: -0.1878657042980194	 ([love - hate][relationship][sometimes][makes][way][finding][lot][love])
+v(1 4 5 6 7 8 9 10 11 12 13 14 15 17): 1.5583475828170776, EP: 0.16195932030677795	 ([-][love - hate][relationship][long][putter][sometimes][makes][way][bag.][lately,][finding][lot][love][before.])
+v(0 2 3 13 14 15 16): -1.4126242399215698, EP: -0.1468142718076706	 ([ap][tom][lehman][finding][lot][love][ever])
+v(4 5 8 9 10): -1.341302514076233, EP: -0.13940179347991943	 ([love - hate][relationship][sometimes][makes][way])
+v(0 2 3 4 5 8 9 10 13 14 15 16): 1.1758030652999878, EP: 0.12220141291618347	 ([ap][tom][lehman][love - hate][relationship][sometimes][makes][way][finding][lot][love][ever])
+v(0 2 3 4 5 13 14 15 16): -1.0839818716049194, EP: -0.11265841871500015	 ([ap][tom][lehman][love - hate][relationship][finding][lot][love][ever])
+v(0 2 3 8 9 10 13 14 15 16): 1.0225909948349, EP: 0.10627805441617966	 ([ap][tom][lehman][sometimes][makes][way][finding][lot][love][ever])
+v(8 9 10 13 14 15): -0.8361407518386841, EP: -0.0869002491235733	 ([sometimes][makes][way][finding][lot][love])
+v(8 9 10): 0.49700063467025757, EP: 0.051653359085321426	 ([sometimes][makes][way])
+v(1 4 5 6 7 11 12 13 14 15 17): -0.1818084716796875, EP: -0.018895385786890984	 ([-][love - hate][relationship][long][putter][bag.][lately,][finding][lot][love][before.])
+v(0 2 3 4 5 16): -0.15786588191986084, EP: -0.01640702784061432	 ([ap][tom][lehman][love - hate][relationship][ever])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

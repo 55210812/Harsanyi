@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: pieces
+Player 1: fallen
+Player 2: place
+Player 3: perfectly
+Player 4: yankees.
+Player 5: orlando
+Player 6: hernndez,
+Player 7: perfect
+Player 8: 5 - 0
+Player 9: team,
+Player 10: also
+Player 11: good
+Player 12: enough
+Player 13: yankees
+---------- Rewards ----------
+v(): -4.5788421630859375	 ([])
+v(4 5 8 9 12 13): 9.712263107299805	 ([yankees.][orlando][5 - 0][team,][enough][yankees])
+v(6 10 11): -4.0536699295043945	 ([hernndez,][also][good])
+v(0 1 2 3 7): -1.3934156894683838	 ([pieces][fallen][place][perfectly][perfect])
+v(4 5 6 8 9 10 11 12 13): 9.633384704589844	 ([yankees.][orlando][hernndez,][5 - 0][team,][also][good][enough][yankees])
+v(0 1 2 3 4 5 7 8 9 12 13): 9.641263961791992	 ([pieces][fallen][place][perfectly][yankees.][orlando][perfect][5 - 0][team,][enough][yankees])
+v(0 1 2 3 6 7 10 11): 0.42138636112213135	 ([pieces][fallen][place][perfectly][hernndez,][perfect][also][good])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 9.45076847076416	 ([pieces][fallen][place][perfectly][yankees.][orlando][hernndez,][perfect][5 - 0][team,][also][good][enough][yankees])
+---------- Rewards-v() ----------
+v(4 5 8 9 12 13): 14.291105270385742, EP: 1.0186387300491333	 ([yankees.][orlando][5 - 0][team,][enough][yankees])
+v(0 1 2 3 4 5 7 8 9 12 13): 14.22010612487793, EP: 1.0135780572891235	 ([pieces][fallen][place][perfectly][yankees.][orlando][perfect][5 - 0][team,][enough][yankees])
+v(4 5 6 8 9 10 11 12 13): 14.212226867675781, EP: 1.0130164623260498	 ([yankees.][orlando][hernndez,][5 - 0][team,][also][good][enough][yankees])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 14.029610633850098, EP: 1.0	 ([pieces][fallen][place][perfectly][yankees.][orlando][hernndez,][perfect][5 - 0][team,][also][good][enough][yankees])
+v(0 1 2 3 6 7 10 11): 5.000228404998779, EP: 0.3564053475856781	 ([pieces][fallen][place][perfectly][hernndez,][perfect][also][good])
+v(0 1 2 3 7): 3.1854264736175537, EP: 0.22705024480819702	 ([pieces][fallen][place][perfectly][perfect])
+v(6 10 11): 0.525172233581543, EP: 0.03743312880396843	 ([hernndez,][also][good])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

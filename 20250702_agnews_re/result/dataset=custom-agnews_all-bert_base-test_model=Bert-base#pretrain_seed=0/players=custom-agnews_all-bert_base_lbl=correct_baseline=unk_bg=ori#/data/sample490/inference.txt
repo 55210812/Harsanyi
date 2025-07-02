@@ -1,0 +1,37 @@
+Execution time: 2025-07-02 19:29:28
+prompt: [CLS] ap - the new england patriots signed first - round draft pick benjamin watson on monday, ending the tight end's lengthy holdout. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:1996 decoded_text: the
+idx:4 input_id:2047 decoded_text: new
+idx:5 input_id:2563 decoded_text: england
+idx:6 input_id:11579 decoded_text: patriots
+idx:7 input_id:2772 decoded_text: signed
+idx:8 input_id:2034 decoded_text: first
+idx:9 input_id:1011 decoded_text: -
+idx:10 input_id:2461 decoded_text: round
+idx:11 input_id:4433 decoded_text: draft
+idx:12 input_id:4060 decoded_text: pick
+idx:13 input_id:6425 decoded_text: benjamin
+idx:14 input_id:7908 decoded_text: watson
+idx:15 input_id:2006 decoded_text: on
+idx:16 input_id:6928 decoded_text: monday
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:4566 decoded_text: ending
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:4389 decoded_text: tight
+idx:21 input_id:2203 decoded_text: end
+idx:22 input_id:1005 decoded_text: '
+idx:23 input_id:1055 decoded_text: s
+idx:24 input_id:12401 decoded_text: lengthy
+idx:25 input_id:2907 decoded_text: hold
+idx:26 input_id:5833 decoded_text: ##out
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.3061933517456055, 8.412884712219238, -2.6994004249572754, -1.9556916952133179]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

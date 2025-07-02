@@ -1,0 +1,24 @@
+---------- Players ----------
+Player 0: uk
+Player 1: gas
+Player 2: explorer
+Player 3: producer
+Player 4: bg
+Player 5: group
+Player 6: doubles
+Player 7: 80
+Player 8: interest
+Player 9: offshore
+Player 10: egyptian
+Player 11: project.
+---------- Rewards ----------
+v(): -2.5310587882995605	 ([])
+v(1 2 3 8 9): 7.661486625671387	 ([gas][explorer][producer][interest][offshore])
+v(0 4 5 6 7 10 11): -4.856505393981934	 ([uk][bg][group][doubles][80][egyptian][project.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 3.7727136611938477	 ([uk][gas][explorer][producer][bg][group][doubles][80][interest][offshore][egyptian][project.])
+---------- Rewards-v() ----------
+v(1 2 3 8 9): 10.192544937133789, EP: 1.6168960332870483	 ([gas][explorer][producer][interest][offshore])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 6.303772449493408, EP: 1.0	 ([uk][gas][explorer][producer][bg][group][doubles][80][interest][offshore][egyptian][project.])
+v(0 4 5 6 7 10 11): -2.325446605682373, EP: -0.36889761686325073	 ([uk][bg][group][doubles][80][egyptian][project.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

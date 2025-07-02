@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: say
+Player 1: name
+Player 2: verizon
+Player 3: ,
+Player 4: consumers
+Player 5: america
+Player 6: get
+Player 7: clear
+Player 8: pictures
+Player 9: mind.
+Player 10: phone
+Player 11: company.
+Player 12: bell
+Player 13: system.
+Player 14: wireless
+Player 15: test
+Player 16: guy
+Player 17: asking,
+Player 18: quot ; can
+Player 19: hear
+Player 20: now?
+Player 21: quot ;
+---------- Rewards ----------
+v(): -6.139111518859863	 ([])
+v(2 3 4 14): -0.8287675380706787	 ([verizon][,][consumers][wireless])
+v(5 6 7 8 9 10 11 12 13 15): -5.502424240112305	 ([america][get][clear][pictures][mind.][phone][company.][bell][system.][test])
+v(0 1 20 21): -5.793974876403809	 ([say][name][now?][quot ;])
+v(16 17 18 19): -5.990679740905762	 ([guy][asking,][quot ; can][hear])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15): -2.3034911155700684	 ([verizon][,][consumers][america][get][clear][pictures][mind.][phone][company.][bell][system.][wireless][test])
+v(0 1 2 3 4 14 20 21): 2.025459051132202	 ([say][name][verizon][,][consumers][wireless][now?][quot ;])
+v(2 3 4 14 16 17 18 19): -1.4553394317626953	 ([verizon][,][consumers][wireless][guy][asking,][quot ; can][hear])
+v(0 1 5 6 7 8 9 10 11 12 13 15 20 21): -4.069634914398193	 ([say][name][america][get][clear][pictures][mind.][phone][company.][bell][system.][test][now?][quot ;])
+v(5 6 7 8 9 10 11 12 13 15 16 17 18 19): -5.416154861450195	 ([america][get][clear][pictures][mind.][phone][company.][bell][system.][test][guy][asking,][quot ; can][hear])
+v(0 1 16 17 18 19 20 21): -4.022616863250732	 ([say][name][guy][asking,][quot ; can][hear][now?][quot ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 20 21): 5.137627124786377	 ([say][name][verizon][,][consumers][america][get][clear][pictures][mind.][phone][company.][bell][system.][wireless][test][now?][quot ;])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 0.3768959045410156	 ([verizon][,][consumers][america][get][clear][pictures][mind.][phone][company.][bell][system.][wireless][test][guy][asking,][quot ; can][hear])
+v(0 1 2 3 4 14 16 17 18 19 20 21): 2.583491086959839	 ([say][name][verizon][,][consumers][wireless][guy][asking,][quot ; can][hear][now?][quot ;])
+v(0 1 5 6 7 8 9 10 11 12 13 15 16 17 18 19 20 21): -2.3515515327453613	 ([say][name][america][get][clear][pictures][mind.][phone][company.][bell][system.][test][guy][asking,][quot ; can][hear][now?][quot ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 6.829367160797119	 ([say][name][verizon][,][consumers][america][get][clear][pictures][mind.][phone][company.][bell][system.][wireless][test][guy][asking,][quot ; can][hear][now?][quot ;])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 12.96847915649414, EP: 1.0	 ([say][name][verizon][,][consumers][america][get][clear][pictures][mind.][phone][company.][bell][system.][wireless][test][guy][asking,][quot ; can][hear][now?][quot ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 20 21): 11.276739120483398, EP: 0.8695498704910278	 ([say][name][verizon][,][consumers][america][get][clear][pictures][mind.][phone][company.][bell][system.][wireless][test][now?][quot ;])
+v(0 1 2 3 4 14 16 17 18 19 20 21): 8.722602844238281, EP: 0.672600269317627	 ([say][name][verizon][,][consumers][wireless][guy][asking,][quot ; can][hear][now?][quot ;])
+v(0 1 2 3 4 14 20 21): 8.164570808410645, EP: 0.6295704245567322	 ([say][name][verizon][,][consumers][wireless][now?][quot ;])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 6.516007423400879, EP: 0.502449631690979	 ([verizon][,][consumers][america][get][clear][pictures][mind.][phone][company.][bell][system.][wireless][test][guy][asking,][quot ; can][hear])
+v(2 3 4 14): 5.3103437423706055, EP: 0.40948083996772766	 ([verizon][,][consumers][wireless])
+v(2 3 4 14 16 17 18 19): 4.683772087097168, EP: 0.3611658811569214	 ([verizon][,][consumers][wireless][guy][asking,][quot ; can][hear])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15): 3.835620403289795, EP: 0.29576486349105835	 ([verizon][,][consumers][america][get][clear][pictures][mind.][phone][company.][bell][system.][wireless][test])
+v(0 1 5 6 7 8 9 10 11 12 13 15 16 17 18 19 20 21): 3.787559986114502, EP: 0.29205891489982605	 ([say][name][america][get][clear][pictures][mind.][phone][company.][bell][system.][test][guy][asking,][quot ; can][hear][now?][quot ;])
+v(0 1 16 17 18 19 20 21): 2.116494655609131, EP: 0.16320300102233887	 ([say][name][guy][asking,][quot ; can][hear][now?][quot ;])
+v(0 1 5 6 7 8 9 10 11 12 13 15 20 21): 2.06947660446167, EP: 0.15957742929458618	 ([say][name][america][get][clear][pictures][mind.][phone][company.][bell][system.][test][now?][quot ;])
+v(5 6 7 8 9 10 11 12 13 15 16 17 18 19): 0.722956657409668, EP: 0.05574721843004227	 ([america][get][clear][pictures][mind.][phone][company.][bell][system.][test][guy][asking,][quot ; can][hear])
+v(5 6 7 8 9 10 11 12 13 15): 0.6366872787475586, EP: 0.04909498244524002	 ([america][get][clear][pictures][mind.][phone][company.][bell][system.][test])
+v(0 1 20 21): 0.3451366424560547, EP: 0.026613501831889153	 ([say][name][now?][quot ;])
+v(16 17 18 19): 0.14843177795410156, EP: 0.01144558098167181	 ([guy][asking,][quot ; can][hear])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

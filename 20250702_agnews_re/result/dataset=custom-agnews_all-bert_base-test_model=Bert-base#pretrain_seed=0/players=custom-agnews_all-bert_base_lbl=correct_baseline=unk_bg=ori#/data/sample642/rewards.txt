@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: arsenal
+Player 1: became
+Player 2: first
+Player 3: side
+Player 4: english
+Player 5: football
+Player 6: go
+Player 7: 43
+Player 8: league
+Player 9: matches
+Player 10: unbeaten
+Player 11: beat
+Player 12: blackburn
+Player 13: 3 - 0
+Player 14: highbury
+Player 15: last
+Player 16: night
+Player 17: return
+Player 18: top
+Player 19: premiership.
+---------- Rewards ----------
+v(): -3.848306655883789	 ([])
+v(4 5 6 8 10 11 14 15 16): 9.468783378601074	 ([english][football][go][league][unbeaten][beat][highbury][last][night])
+v(1 7 13): 7.7122802734375	 ([became][43][3 - 0])
+v(0 2 3 9 12 17 18 19): 9.514592170715332	 ([arsenal][first][side][matches][blackburn][return][top][premiership.])
+v(1 4 5 6 7 8 10 11 13 14 15 16): 9.471830368041992	 ([became][english][football][go][43][league][unbeaten][beat][3 - 0][highbury][last][night])
+v(0 2 3 4 5 6 8 9 10 11 12 14 15 16 17 18 19): 9.502151489257812	 ([arsenal][first][side][english][football][go][league][matches][unbeaten][beat][blackburn][highbury][last][night][return][top][premiership.])
+v(0 1 2 3 7 9 12 13 17 18 19): 9.658894538879395	 ([arsenal][became][first][side][43][matches][blackburn][3 - 0][return][top][premiership.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.662184715270996	 ([arsenal][became][first][side][english][football][go][43][league][matches][unbeaten][beat][blackburn][3 - 0][highbury][last][night][return][top][premiership.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.510491371154785, EP: 1.0	 ([arsenal][became][first][side][english][football][go][43][league][matches][unbeaten][beat][blackburn][3 - 0][highbury][last][night][return][top][premiership.])
+v(0 1 2 3 7 9 12 13 17 18 19): 13.507201194763184, EP: 0.9997564554214478	 ([arsenal][became][first][side][43][matches][blackburn][3 - 0][return][top][premiership.])
+v(0 2 3 9 12 17 18 19): 13.362898826599121, EP: 0.9890757203102112	 ([arsenal][first][side][matches][blackburn][return][top][premiership.])
+v(0 2 3 4 5 6 8 9 10 11 12 14 15 16 17 18 19): 13.350458145141602, EP: 0.9881548881530762	 ([arsenal][first][side][english][football][go][league][matches][unbeaten][beat][blackburn][highbury][last][night][return][top][premiership.])
+v(1 4 5 6 7 8 10 11 13 14 15 16): 13.320137023925781, EP: 0.9859106540679932	 ([became][english][football][go][43][league][unbeaten][beat][3 - 0][highbury][last][night])
+v(4 5 6 8 10 11 14 15 16): 13.317090034484863, EP: 0.9856851100921631	 ([english][football][go][league][unbeaten][beat][highbury][last][night])
+v(1 7 13): 11.560586929321289, EP: 0.8556748032569885	 ([became][43][3 - 0])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: belgian
+Player 1: kim
+Player 2: clijsters
+Player 3: website
+Player 4: thursday
+Player 5: announced
+Player 6: relationship
+Player 7: aussie
+Player 8: lleyton
+Player 9: hewitt
+Player 10: come
+Player 11: end.
+Player 12: quot ; kim
+Player 13: lleyton
+Player 14: agreed
+Player 15: end
+Player 16: relationship
+Player 17: private
+Player 18: reasons.
+---------- Rewards ----------
+v(): -5.199256896972656	 ([])
+v(0 2 3 8 9 13 15): 5.8695502281188965	 ([belgian][clijsters][website][lleyton][hewitt][lleyton][end])
+v(1 4 5 6 10 11 12 14): -3.8010027408599854	 ([kim][thursday][announced][relationship][come][end.][quot ; kim][agreed])
+v(7 16 17 18): -2.837869167327881	 ([aussie][relationship][private][reasons.])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 14 15): 9.569604873657227	 ([belgian][kim][clijsters][website][thursday][announced][relationship][lleyton][hewitt][come][end.][quot ; kim][lleyton][agreed][end])
+v(0 2 3 7 8 9 13 15 16 17 18): 8.855414390563965	 ([belgian][clijsters][website][aussie][lleyton][hewitt][lleyton][end][relationship][private][reasons.])
+v(1 4 5 6 7 10 11 12 14 16 17 18): 5.107278823852539	 ([kim][thursday][announced][relationship][aussie][come][end.][quot ; kim][agreed][relationship][private][reasons.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.647733688354492	 ([belgian][kim][clijsters][website][thursday][announced][relationship][aussie][lleyton][hewitt][come][end.][quot ; kim][lleyton][agreed][end][relationship][private][reasons.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.846990585327148, EP: 1.0	 ([belgian][kim][clijsters][website][thursday][announced][relationship][aussie][lleyton][hewitt][come][end.][quot ; kim][lleyton][agreed][end][relationship][private][reasons.])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 14 15): 14.768861770629883, EP: 0.9947377443313599	 ([belgian][kim][clijsters][website][thursday][announced][relationship][lleyton][hewitt][come][end.][quot ; kim][lleyton][agreed][end])
+v(0 2 3 7 8 9 13 15 16 17 18): 14.054671287536621, EP: 0.9466343522071838	 ([belgian][clijsters][website][aussie][lleyton][hewitt][lleyton][end][relationship][private][reasons.])
+v(0 2 3 8 9 13 15): 11.068807601928711, EP: 0.7455253601074219	 ([belgian][clijsters][website][lleyton][hewitt][lleyton][end])
+v(1 4 5 6 7 10 11 12 14 16 17 18): 10.306535720825195, EP: 0.6941834688186646	 ([kim][thursday][announced][relationship][aussie][come][end.][quot ; kim][agreed][relationship][private][reasons.])
+v(7 16 17 18): 2.3613877296447754, EP: 0.15904824435710907	 ([aussie][relationship][private][reasons.])
+v(1 4 5 6 10 11 12 14): 1.398254156112671, EP: 0.09417761117219925	 ([kim][thursday][announced][relationship][come][end.][quot ; kim][agreed])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

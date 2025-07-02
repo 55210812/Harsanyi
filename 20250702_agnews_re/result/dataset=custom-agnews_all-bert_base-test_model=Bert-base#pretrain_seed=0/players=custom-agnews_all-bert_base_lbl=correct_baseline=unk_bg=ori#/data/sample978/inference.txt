@@ -1,0 +1,41 @@
+Execution time: 2025-07-02 19:41:44
+prompt: [CLS] we can forgive ireland that they didn # 39 ; t surpass the 70 points england scored against canada, or the century scotland put past japan last week. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2057 decoded_text: we
+idx:2 input_id:2064 decoded_text: can
+idx:3 input_id:9641 decoded_text: forgive
+idx:4 input_id:3163 decoded_text: ireland
+idx:5 input_id:2008 decoded_text: that
+idx:6 input_id:2027 decoded_text: they
+idx:7 input_id:2134 decoded_text: didn
+idx:8 input_id:1001 decoded_text: #
+idx:9 input_id:4464 decoded_text: 39
+idx:10 input_id:1025 decoded_text: ;
+idx:11 input_id:1056 decoded_text: t
+idx:12 input_id:7505 decoded_text: sur
+idx:13 input_id:15194 decoded_text: ##pass
+idx:14 input_id:1996 decoded_text: the
+idx:15 input_id:3963 decoded_text: 70
+idx:16 input_id:2685 decoded_text: points
+idx:17 input_id:2563 decoded_text: england
+idx:18 input_id:3195 decoded_text: scored
+idx:19 input_id:2114 decoded_text: against
+idx:20 input_id:2710 decoded_text: canada
+idx:21 input_id:1010 decoded_text: ,
+idx:22 input_id:2030 decoded_text: or
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:2301 decoded_text: century
+idx:25 input_id:3885 decoded_text: scotland
+idx:26 input_id:2404 decoded_text: put
+idx:27 input_id:2627 decoded_text: past
+idx:28 input_id:2900 decoded_text: japan
+idx:29 input_id:2197 decoded_text: last
+idx:30 input_id:2733 decoded_text: week
+idx:31 input_id:1012 decoded_text: .
+idx:32 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.634157657623291, 8.339837074279785, -2.328171730041504, -2.1026623249053955]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

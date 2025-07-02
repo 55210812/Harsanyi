@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: atlanta
+Player 1: -
+Player 2: delta
+Player 3: air
+Player 4: lines
+Player 5: inc.
+Player 6: # 39 ; s
+Player 7: tentative
+Player 8: deal
+Player 9: pilots
+Player 10: \ $ 1
+Player 11: billion
+Player 12: concessions
+Player 13: gives
+Player 14: nation
+Player 15: # 39 ; s
+Player 16: third - largest
+Player 17: carrier
+Player 18: much - needed
+Player 19: breathing
+Player 20: room.
+---------- Rewards ----------
+v(): -5.271810531616211	 ([])
+v(0 2 7 8 10 11 18 20): -5.060261249542236	 ([atlanta][delta][tentative][deal][\ $ 1][billion][much - needed][room.])
+v(5 13 16 17 19): -1.9204256534576416	 ([inc.][gives][third - largest][carrier][breathing])
+v(1 3 4 6 9 12 14 15): 8.384788513183594	 ([-][air][lines][# 39 ; s][pilots][concessions][nation][# 39 ; s])
+v(0 2 5 7 8 10 11 13 16 17 18 19 20): 2.9311742782592773	 ([atlanta][delta][inc.][tentative][deal][\ $ 1][billion][gives][third - largest][carrier][much - needed][breathing][room.])
+v(0 1 2 3 4 6 7 8 9 10 11 12 14 15 18 20): 8.427661895751953	 ([atlanta][-][delta][air][lines][# 39 ; s][tentative][deal][pilots][\ $ 1][billion][concessions][nation][# 39 ; s][much - needed][room.])
+v(1 3 4 5 6 9 12 13 14 15 16 17 19): 8.556333541870117	 ([-][air][lines][inc.][# 39 ; s][pilots][concessions][gives][nation][# 39 ; s][third - largest][carrier][breathing])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.479024887084961	 ([atlanta][-][delta][air][lines][inc.][# 39 ; s][tentative][deal][pilots][\ $ 1][billion][concessions][gives][nation][# 39 ; s][third - largest][carrier][much - needed][breathing][room.])
+---------- Rewards-v() ----------
+v(1 3 4 5 6 9 12 13 14 15 16 17 19): 13.828144073486328, EP: 1.005622148513794	 ([-][air][lines][inc.][# 39 ; s][pilots][concessions][gives][nation][# 39 ; s][third - largest][carrier][breathing])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.750835418701172, EP: 1.0	 ([atlanta][-][delta][air][lines][inc.][# 39 ; s][tentative][deal][pilots][\ $ 1][billion][concessions][gives][nation][# 39 ; s][third - largest][carrier][much - needed][breathing][room.])
+v(0 1 2 3 4 6 7 8 9 10 11 12 14 15 18 20): 13.699472427368164, EP: 0.9962647557258606	 ([atlanta][-][delta][air][lines][# 39 ; s][tentative][deal][pilots][\ $ 1][billion][concessions][nation][# 39 ; s][much - needed][room.])
+v(1 3 4 6 9 12 14 15): 13.656599044799805, EP: 0.9931468367576599	 ([-][air][lines][# 39 ; s][pilots][concessions][nation][# 39 ; s])
+v(0 2 5 7 8 10 11 13 16 17 18 19 20): 8.202984809875488, EP: 0.5965444445610046	 ([atlanta][delta][inc.][tentative][deal][\ $ 1][billion][gives][third - largest][carrier][much - needed][breathing][room.])
+v(5 13 16 17 19): 3.3513848781585693, EP: 0.24372227489948273	 ([inc.][gives][third - largest][carrier][breathing])
+v(0 2 7 8 10 11 18 20): 0.2115492820739746, EP: 0.01538446731865406	 ([atlanta][delta][tentative][deal][\ $ 1][billion][much - needed][room.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

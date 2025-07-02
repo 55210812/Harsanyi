@@ -1,0 +1,60 @@
+Execution time: 2025-07-02 19:42:11
+prompt: [CLS] cingular wireless llc, the joint venture between sbc communications inc. and bellsouth corp., has reached an agreement with the us department of justice that will allow the companys proposed acquisition of at amp ; t wireless to proceed on schedule. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:25022 decoded_text: ci
+idx:2 input_id:3070 decoded_text: ##ng
+idx:3 input_id:7934 decoded_text: ##ular
+idx:4 input_id:9949 decoded_text: wireless
+idx:5 input_id:11775 decoded_text: llc
+idx:6 input_id:1010 decoded_text: ,
+idx:7 input_id:1996 decoded_text: the
+idx:8 input_id:4101 decoded_text: joint
+idx:9 input_id:6957 decoded_text: venture
+idx:10 input_id:2090 decoded_text: between
+idx:11 input_id:24829 decoded_text: sb
+idx:12 input_id:2278 decoded_text: ##c
+idx:13 input_id:4806 decoded_text: communications
+idx:14 input_id:4297 decoded_text: inc
+idx:15 input_id:1012 decoded_text: .
+idx:16 input_id:1998 decoded_text: and
+idx:17 input_id:10118 decoded_text: bells
+idx:18 input_id:17167 decoded_text: ##outh
+idx:19 input_id:13058 decoded_text: corp
+idx:20 input_id:1012 decoded_text: .
+idx:21 input_id:1010 decoded_text: ,
+idx:22 input_id:2038 decoded_text: has
+idx:23 input_id:2584 decoded_text: reached
+idx:24 input_id:2019 decoded_text: an
+idx:25 input_id:3820 decoded_text: agreement
+idx:26 input_id:2007 decoded_text: with
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:2149 decoded_text: us
+idx:29 input_id:2533 decoded_text: department
+idx:30 input_id:1997 decoded_text: of
+idx:31 input_id:3425 decoded_text: justice
+idx:32 input_id:2008 decoded_text: that
+idx:33 input_id:2097 decoded_text: will
+idx:34 input_id:3499 decoded_text: allow
+idx:35 input_id:1996 decoded_text: the
+idx:36 input_id:2194 decoded_text: company
+idx:37 input_id:2015 decoded_text: ##s
+idx:38 input_id:3818 decoded_text: proposed
+idx:39 input_id:7654 decoded_text: acquisition
+idx:40 input_id:1997 decoded_text: of
+idx:41 input_id:2012 decoded_text: at
+idx:42 input_id:23713 decoded_text: amp
+idx:43 input_id:1025 decoded_text: ;
+idx:44 input_id:1056 decoded_text: t
+idx:45 input_id:9949 decoded_text: wireless
+idx:46 input_id:2000 decoded_text: to
+idx:47 input_id:10838 decoded_text: proceed
+idx:48 input_id:2006 decoded_text: on
+idx:49 input_id:6134 decoded_text: schedule
+idx:50 input_id:1012 decoded_text: .
+idx:51 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-4.621342658996582, -4.279818534851074, 5.00860595703125, 2.0509936809539795]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

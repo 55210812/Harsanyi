@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: ira
+Player 1: guerrillas
+Player 2: said
+Player 3: thursday
+Player 4: would
+Player 5: never
+Player 6: quot ; humiliated
+Player 7: quot ;
+Player 8: photographing
+Player 9: final
+Player 10: acts
+Player 11: disarmament
+Player 12: - -
+Player 13: last
+Player 14: sticking
+Player 15: point
+Player 16: anglo - irish
+Player 17: drive
+Player 18: northern
+Player 19: ireland
+Player 20: political
+Player 21: settlement.
+---------- Rewards ----------
+v(): -5.160486698150635	 ([])
+v(0 1 4 5 7 8 11 12 13): 6.826738357543945	 ([ira][guerrillas][would][never][quot ;][photographing][disarmament][- -][last])
+v(2 14 15 17 18 19 20 21): 7.264589786529541	 ([said][sticking][point][drive][northern][ireland][political][settlement.])
+v(3 6 9 10 16): 2.9322516918182373	 ([thursday][quot ; humiliated][final][acts][anglo - irish])
+v(0 1 2 4 5 7 8 11 12 13 14 15 17 18 19 20 21): 7.423492908477783	 ([ira][guerrillas][said][would][never][quot ;][photographing][disarmament][- -][last][sticking][point][drive][northern][ireland][political][settlement.])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 16): 6.89122200012207	 ([ira][guerrillas][thursday][would][never][quot ; humiliated][quot ;][photographing][final][acts][disarmament][- -][last][anglo - irish])
+v(2 3 6 9 10 14 15 16 17 18 19 20 21): 8.161443710327148	 ([said][thursday][quot ; humiliated][final][acts][sticking][point][anglo - irish][drive][northern][ireland][political][settlement.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 7.4823126792907715	 ([ira][guerrillas][said][thursday][would][never][quot ; humiliated][quot ;][photographing][final][acts][disarmament][- -][last][sticking][point][anglo - irish][drive][northern][ireland][political][settlement.])
+---------- Rewards-v() ----------
+v(2 3 6 9 10 14 15 16 17 18 19 20 21): 13.321929931640625, EP: 1.053716778755188	 ([said][thursday][quot ; humiliated][final][acts][sticking][point][anglo - irish][drive][northern][ireland][political][settlement.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 12.642799377441406, EP: 1.0	 ([ira][guerrillas][said][thursday][would][never][quot ; humiliated][quot ;][photographing][final][acts][disarmament][- -][last][sticking][point][anglo - irish][drive][northern][ireland][political][settlement.])
+v(0 1 2 4 5 7 8 11 12 13 14 15 17 18 19 20 21): 12.583979606628418, EP: 0.9953475594520569	 ([ira][guerrillas][said][would][never][quot ;][photographing][disarmament][- -][last][sticking][point][drive][northern][ireland][political][settlement.])
+v(2 14 15 17 18 19 20 21): 12.425076484680176, EP: 0.9827789068222046	 ([said][sticking][point][drive][northern][ireland][political][settlement.])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 16): 12.051708221435547, EP: 0.9532468318939209	 ([ira][guerrillas][thursday][would][never][quot ; humiliated][quot ;][photographing][final][acts][disarmament][- -][last][anglo - irish])
+v(0 1 4 5 7 8 11 12 13): 11.987224578857422, EP: 0.948146402835846	 ([ira][guerrillas][would][never][quot ;][photographing][disarmament][- -][last])
+v(3 6 9 10 16): 8.092738151550293, EP: 0.6401064991950989	 ([thursday][quot ; humiliated][final][acts][anglo - irish])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

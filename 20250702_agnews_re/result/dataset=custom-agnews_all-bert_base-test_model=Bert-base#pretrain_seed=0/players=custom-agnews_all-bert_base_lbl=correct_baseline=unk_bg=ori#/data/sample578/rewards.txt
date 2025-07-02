@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: cuba
+Player 1: restores
+Player 2: contacts
+Player 3: eight
+Player 4: eu
+Player 5: embassies
+Player 6: havana,
+Player 7: ending
+Player 8: bitter
+Player 9: row
+Player 10: " dissident
+Player 11: cocktail
+Player 12: wars ".
+---------- Rewards ----------
+v(): -4.0697021484375	 ([])
+v(6 10 12): 6.558981895446777	 ([havana,][" dissident][wars ".])
+v(3 4 5): 2.5906028747558594	 ([eight][eu][embassies])
+v(0 1 2 7 8 9 11): 4.099216461181641	 ([cuba][restores][contacts][ending][bitter][row][cocktail])
+v(3 4 5 6 10 12): 7.66494083404541	 ([eight][eu][embassies][havana,][" dissident][wars ".])
+v(0 1 2 6 7 8 9 10 11 12): 7.452590465545654	 ([cuba][restores][contacts][havana,][ending][bitter][row][" dissident][cocktail][wars ".])
+v(0 1 2 3 4 5 7 8 9 11): 6.269610404968262	 ([cuba][restores][contacts][eight][eu][embassies][ending][bitter][row][cocktail])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 7.708233833312988	 ([cuba][restores][contacts][eight][eu][embassies][havana,][ending][bitter][row][" dissident][cocktail][wars ".])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 11.777935981750488, EP: 1.0	 ([cuba][restores][contacts][eight][eu][embassies][havana,][ending][bitter][row][" dissident][cocktail][wars ".])
+v(3 4 5 6 10 12): 11.73464298248291, EP: 0.9963242411613464	 ([eight][eu][embassies][havana,][" dissident][wars ".])
+v(0 1 2 6 7 8 9 10 11 12): 11.522293090820312, EP: 0.9782947897911072	 ([cuba][restores][contacts][havana,][ending][bitter][row][" dissident][cocktail][wars ".])
+v(6 10 12): 10.628684043884277, EP: 0.9024233222007751	 ([havana,][" dissident][wars ".])
+v(0 1 2 3 4 5 7 8 9 11): 10.339312553405762, EP: 0.8778543472290039	 ([cuba][restores][contacts][eight][eu][embassies][ending][bitter][row][cocktail])
+v(0 1 2 7 8 9 11): 8.16891860961914, EP: 0.6935781240463257	 ([cuba][restores][contacts][ending][bitter][row][cocktail])
+v(3 4 5): 6.660305023193359, EP: 0.5654900074005127	 ([eight][eu][embassies])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 19:26:46
+prompt: [CLS] tampa, fla. - tampa bay's sputtering offense suffered a major blow monday when the team learned receiver joey galloway will miss four to six weeks after aggravating a groin injury... [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9925 decoded_text: tampa
+idx:2 input_id:1010 decoded_text: ,
+idx:3 input_id:13109 decoded_text: fl
+idx:4 input_id:2050 decoded_text: ##a
+idx:5 input_id:1012 decoded_text: .
+idx:6 input_id:1011 decoded_text: -
+idx:7 input_id:9925 decoded_text: tampa
+idx:8 input_id:3016 decoded_text: bay
+idx:9 input_id:1005 decoded_text: '
+idx:10 input_id:1055 decoded_text: s
+idx:11 input_id:11867 decoded_text: sp
+idx:12 input_id:26878 decoded_text: ##utter
+idx:13 input_id:2075 decoded_text: ##ing
+idx:14 input_id:10048 decoded_text: offense
+idx:15 input_id:4265 decoded_text: suffered
+idx:16 input_id:1037 decoded_text: a
+idx:17 input_id:2350 decoded_text: major
+idx:18 input_id:6271 decoded_text: blow
+idx:19 input_id:6928 decoded_text: monday
+idx:20 input_id:2043 decoded_text: when
+idx:21 input_id:1996 decoded_text: the
+idx:22 input_id:2136 decoded_text: team
+idx:23 input_id:4342 decoded_text: learned
+idx:24 input_id:8393 decoded_text: receiver
+idx:25 input_id:9558 decoded_text: joey
+idx:26 input_id:22372 decoded_text: galloway
+idx:27 input_id:2097 decoded_text: will
+idx:28 input_id:3335 decoded_text: miss
+idx:29 input_id:2176 decoded_text: four
+idx:30 input_id:2000 decoded_text: to
+idx:31 input_id:2416 decoded_text: six
+idx:32 input_id:3134 decoded_text: weeks
+idx:33 input_id:2044 decoded_text: after
+idx:34 input_id:12943 decoded_text: ag
+idx:35 input_id:17643 decoded_text: ##gra
+idx:36 input_id:26477 decoded_text: ##vating
+idx:37 input_id:1037 decoded_text: a
+idx:38 input_id:20092 decoded_text: groin
+idx:39 input_id:4544 decoded_text: injury
+idx:40 input_id:1012 decoded_text: .
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.273922920227051, -1.6152058839797974, -2.3587405681610107, -2.8838086128234863]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

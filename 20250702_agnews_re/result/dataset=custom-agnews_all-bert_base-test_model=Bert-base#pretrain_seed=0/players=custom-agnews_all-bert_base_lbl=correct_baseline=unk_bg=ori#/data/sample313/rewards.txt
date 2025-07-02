@@ -1,0 +1,62 @@
+---------- Players ----------
+Player 0: major
+Player 1: league
+Player 2: baseball
+Player 3: # 39 ; s
+Player 4: world
+Player 5: series
+Player 6: defending
+Player 7: champion
+Player 8: florida
+Player 9: marlins
+Player 10: split
+Player 11: double - header
+Player 12: host
+Player 13: chicago
+Player 14: cubs
+Player 15: friday
+Player 16: first
+Player 17: match
+Player 18: since
+Player 19: last
+Player 20: year
+Player 21: # 39 ; s
+Player 22: national
+Player 23: league
+Player 24: title
+Player 25: series.
+---------- Rewards ----------
+v(): -3.5067293643951416	 ([])
+v(11 12 13 14 16 17): 9.189767837524414	 ([double - header][host][chicago][cubs][first][match])
+v(5 7 8 9): 7.4618659019470215	 ([series][champion][florida][marlins])
+v(1 2 3 10 21 22 23 24 25): 9.607925415039062	 ([league][baseball][# 39 ; s][split][# 39 ; s][national][league][title][series.])
+v(0 4 6 15 18 19 20): -4.692560195922852	 ([major][world][defending][friday][since][last][year])
+v(5 7 8 9 11 12 13 14 16 17): 9.30449104309082	 ([series][champion][florida][marlins][double - header][host][chicago][cubs][first][match])
+v(1 2 3 10 11 12 13 14 16 17 21 22 23 24 25): 9.586783409118652	 ([league][baseball][# 39 ; s][split][double - header][host][chicago][cubs][first][match][# 39 ; s][national][league][title][series.])
+v(0 4 6 11 12 13 14 15 16 17 18 19 20): 9.25589370727539	 ([major][world][defending][double - header][host][chicago][cubs][friday][first][match][since][last][year])
+v(1 2 3 5 7 8 9 10 21 22 23 24 25): 9.644455909729004	 ([league][baseball][# 39 ; s][series][champion][florida][marlins][split][# 39 ; s][national][league][title][series.])
+v(0 4 5 6 7 8 9 15 18 19 20): 9.664006233215332	 ([major][world][series][defending][champion][florida][marlins][friday][since][last][year])
+v(0 1 2 3 4 6 10 15 18 19 20 21 22 23 24 25): 9.655787467956543	 ([major][league][baseball][# 39 ; s][world][defending][split][friday][since][last][year][# 39 ; s][national][league][title][series.])
+v(1 2 3 5 7 8 9 10 11 12 13 14 16 17 21 22 23 24 25): 9.611802101135254	 ([league][baseball][# 39 ; s][series][champion][florida][marlins][split][double - header][host][chicago][cubs][first][match][# 39 ; s][national][league][title][series.])
+v(0 4 5 6 7 8 9 11 12 13 14 15 16 17 18 19 20): 9.089937210083008	 ([major][world][series][defending][champion][florida][marlins][double - header][host][chicago][cubs][friday][first][match][since][last][year])
+v(0 1 2 3 4 6 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 9.607994079589844	 ([major][league][baseball][# 39 ; s][world][defending][split][double - header][host][chicago][cubs][friday][first][match][since][last][year][# 39 ; s][national][league][title][series.])
+v(0 1 2 3 4 5 6 7 8 9 10 15 18 19 20 21 22 23 24 25): 9.693304061889648	 ([major][league][baseball][# 39 ; s][world][series][defending][champion][florida][marlins][split][friday][since][last][year][# 39 ; s][national][league][title][series.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 9.642180442810059	 ([major][league][baseball][# 39 ; s][world][series][defending][champion][florida][marlins][split][double - header][host][chicago][cubs][friday][first][match][since][last][year][# 39 ; s][national][league][title][series.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 15 18 19 20 21 22 23 24 25): 13.200033187866211, EP: 1.0038880109786987	 ([major][league][baseball][# 39 ; s][world][series][defending][champion][florida][marlins][split][friday][since][last][year][# 39 ; s][national][league][title][series.])
+v(0 4 5 6 7 8 9 15 18 19 20): 13.170735359191895, EP: 1.001659870147705	 ([major][world][series][defending][champion][florida][marlins][friday][since][last][year])
+v(0 1 2 3 4 6 10 15 18 19 20 21 22 23 24 25): 13.162516593933105, EP: 1.0010348558425903	 ([major][league][baseball][# 39 ; s][world][defending][split][friday][since][last][year][# 39 ; s][national][league][title][series.])
+v(1 2 3 5 7 8 9 10 21 22 23 24 25): 13.151185035705566, EP: 1.0001730918884277	 ([league][baseball][# 39 ; s][series][champion][florida][marlins][split][# 39 ; s][national][league][title][series.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 13.148909568786621, EP: 1.0	 ([major][league][baseball][# 39 ; s][world][series][defending][champion][florida][marlins][split][double - header][host][chicago][cubs][friday][first][match][since][last][year][# 39 ; s][national][league][title][series.])
+v(1 2 3 5 7 8 9 10 11 12 13 14 16 17 21 22 23 24 25): 13.118531227111816, EP: 0.9976896643638611	 ([league][baseball][# 39 ; s][series][champion][florida][marlins][split][double - header][host][chicago][cubs][first][match][# 39 ; s][national][league][title][series.])
+v(0 1 2 3 4 6 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 13.114723205566406, EP: 0.9974000453948975	 ([major][league][baseball][# 39 ; s][world][defending][split][double - header][host][chicago][cubs][friday][first][match][since][last][year][# 39 ; s][national][league][title][series.])
+v(1 2 3 10 21 22 23 24 25): 13.114654541015625, EP: 0.997394859790802	 ([league][baseball][# 39 ; s][split][# 39 ; s][national][league][title][series.])
+v(1 2 3 10 11 12 13 14 16 17 21 22 23 24 25): 13.093512535095215, EP: 0.9957869648933411	 ([league][baseball][# 39 ; s][split][double - header][host][chicago][cubs][first][match][# 39 ; s][national][league][title][series.])
+v(5 7 8 9 11 12 13 14 16 17): 12.811220169067383, EP: 0.9743180871009827	 ([series][champion][florida][marlins][double - header][host][chicago][cubs][first][match])
+v(0 4 6 11 12 13 14 15 16 17 18 19 20): 12.762622833251953, EP: 0.9706221222877502	 ([major][world][defending][double - header][host][chicago][cubs][friday][first][match][since][last][year])
+v(11 12 13 14 16 17): 12.696496963500977, EP: 0.965593159198761	 ([double - header][host][chicago][cubs][first][match])
+v(0 4 5 6 7 8 9 11 12 13 14 15 16 17 18 19 20): 12.59666633605957, EP: 0.9580008387565613	 ([major][world][series][defending][champion][florida][marlins][double - header][host][chicago][cubs][friday][first][match][since][last][year])
+v(5 7 8 9): 10.968595504760742, EP: 0.8341829180717468	 ([series][champion][florida][marlins])
+v(0 4 6 15 18 19 20): -1.18583083152771, EP: -0.09018472582101822	 ([major][world][defending][friday][since][last][year])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

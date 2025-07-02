@@ -1,0 +1,30 @@
+---------- Players ----------
+Player 0: thedeal. com
+Player 1: -
+Player 2: european
+Player 3: commission
+Player 4: likely
+Player 5: follow
+Player 6: opinion
+Player 7: u. s.
+Player 8: merger
+Player 9: suit.
+---------- Rewards ----------
+v(): 3.655585527420044	 ([])
+v(3 8 9): -1.9435186386108398	 ([commission][merger][suit.])
+v(2 5 6 7): -0.08691930770874023	 ([european][follow][opinion][u. s.])
+v(0 1 4): 5.2443647384643555	 ([thedeal. com][-][likely])
+v(2 3 5 6 7 8 9): -7.566355228424072	 ([european][commission][follow][opinion][u. s.][merger][suit.])
+v(0 1 3 4 8 9): -1.3493363857269287	 ([thedeal. com][-][commission][likely][merger][suit.])
+v(0 1 2 4 5 6 7): 2.9171648025512695	 ([thedeal. com][-][european][likely][follow][opinion][u. s.])
+v(0 1 2 3 4 5 6 7 8 9): 3.3295435905456543	 ([thedeal. com][-][european][commission][likely][follow][opinion][u. s.][merger][suit.])
+---------- Rewards-v() ----------
+v(2 3 5 6 7 8 9): -11.221940994262695, EP: 34.418704986572266	 ([european][commission][follow][opinion][u. s.][merger][suit.])
+v(3 8 9): -5.599103927612305, EP: 17.172956466674805	 ([commission][merger][suit.])
+v(0 1 3 4 8 9): -5.004921913146973, EP: 15.350546836853027	 ([thedeal. com][-][commission][likely][merger][suit.])
+v(2 5 6 7): -3.742504835128784, EP: 11.478599548339844	 ([european][follow][opinion][u. s.])
+v(0 1 4): 1.5887792110443115, EP: -4.872929096221924	 ([thedeal. com][-][likely])
+v(0 1 2 4 5 6 7): -0.7384207248687744, EP: 2.264802932739258	 ([thedeal. com][-][european][likely][follow][opinion][u. s.])
+v(0 1 2 3 4 5 6 7 8 9): -0.32604193687438965, EP: 1.0	 ([thedeal. com][-][european][commission][likely][follow][opinion][u. s.][merger][suit.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

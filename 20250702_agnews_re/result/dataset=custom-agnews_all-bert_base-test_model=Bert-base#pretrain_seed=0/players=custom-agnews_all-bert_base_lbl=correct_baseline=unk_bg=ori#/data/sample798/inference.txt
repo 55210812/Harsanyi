@@ -1,0 +1,57 @@
+Execution time: 2025-07-02 19:36:59
+prompt: [CLS] a nonpartisan national group is trying to get a record number of voters to the polls this year. by mark zaloudek. scientists are unlocking some of the mysteries of the universe as planetary exploration forges ahead on several fronts. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:2512 decoded_text: non
+idx:3 input_id:26053 decoded_text: ##partisan
+idx:4 input_id:2120 decoded_text: national
+idx:5 input_id:2177 decoded_text: group
+idx:6 input_id:2003 decoded_text: is
+idx:7 input_id:2667 decoded_text: trying
+idx:8 input_id:2000 decoded_text: to
+idx:9 input_id:2131 decoded_text: get
+idx:10 input_id:1037 decoded_text: a
+idx:11 input_id:2501 decoded_text: record
+idx:12 input_id:2193 decoded_text: number
+idx:13 input_id:1997 decoded_text: of
+idx:14 input_id:7206 decoded_text: voters
+idx:15 input_id:2000 decoded_text: to
+idx:16 input_id:1996 decoded_text: the
+idx:17 input_id:14592 decoded_text: polls
+idx:18 input_id:2023 decoded_text: this
+idx:19 input_id:2095 decoded_text: year
+idx:20 input_id:1012 decoded_text: .
+idx:21 input_id:2011 decoded_text: by
+idx:22 input_id:2928 decoded_text: mark
+idx:23 input_id:23564 decoded_text: za
+idx:24 input_id:23743 decoded_text: ##lou
+idx:25 input_id:24463 decoded_text: ##dek
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:6529 decoded_text: scientists
+idx:28 input_id:2024 decoded_text: are
+idx:29 input_id:19829 decoded_text: unlock
+idx:30 input_id:2075 decoded_text: ##ing
+idx:31 input_id:2070 decoded_text: some
+idx:32 input_id:1997 decoded_text: of
+idx:33 input_id:1996 decoded_text: the
+idx:34 input_id:15572 decoded_text: mysteries
+idx:35 input_id:1997 decoded_text: of
+idx:36 input_id:1996 decoded_text: the
+idx:37 input_id:5304 decoded_text: universe
+idx:38 input_id:2004 decoded_text: as
+idx:39 input_id:17700 decoded_text: planetary
+idx:40 input_id:8993 decoded_text: exploration
+idx:41 input_id:15681 decoded_text: forge
+idx:42 input_id:2015 decoded_text: ##s
+idx:43 input_id:3805 decoded_text: ahead
+idx:44 input_id:2006 decoded_text: on
+idx:45 input_id:2195 decoded_text: several
+idx:46 input_id:21430 decoded_text: fronts
+idx:47 input_id:1012 decoded_text: .
+idx:48 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.6665902137756348, -3.4971635341644287, 1.1099023818969727, 5.284949779510498]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

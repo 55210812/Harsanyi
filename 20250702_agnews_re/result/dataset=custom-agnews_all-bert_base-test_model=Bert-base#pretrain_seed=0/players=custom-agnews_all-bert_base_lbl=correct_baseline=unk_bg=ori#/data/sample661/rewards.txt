@@ -1,0 +1,23 @@
+---------- Players ----------
+Player 0: robert
+Player 1: de
+Player 2: niro
+Player 3: fails
+Player 4: show
+Player 5: awards
+Player 6: ceremony
+Player 7: milan
+Player 8: press
+Player 9: conference
+Player 10: rome.
+---------- Rewards ----------
+v(): -6.006383419036865	 ([])
+v(4 5 6 8 9): 3.8900699615478516	 ([show][awards][ceremony][press][conference])
+v(0 1 2 3 7 10): 5.963946342468262	 ([robert][de][niro][fails][milan][rome.])
+v(0 1 2 3 4 5 6 7 8 9 10): 7.5370097160339355	 ([robert][de][niro][fails][show][awards][ceremony][milan][press][conference][rome.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10): 13.5433931350708, EP: 1.0	 ([robert][de][niro][fails][show][awards][ceremony][milan][press][conference][rome.])
+v(0 1 2 3 7 10): 11.970329284667969, EP: 0.88385009765625	 ([robert][de][niro][fails][milan][rome.])
+v(4 5 6 8 9): 9.896453857421875, EP: 0.7307218909263611	 ([show][awards][ceremony][press][conference])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

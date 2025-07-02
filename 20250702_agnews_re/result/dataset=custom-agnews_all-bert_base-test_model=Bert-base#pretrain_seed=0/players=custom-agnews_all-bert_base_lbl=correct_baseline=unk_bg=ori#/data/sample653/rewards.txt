@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: london :
+Player 1: 21 - year - old
+Player 2: british
+Player 3: soldier
+Player 4: arrested
+Player 5: tuesday
+Player 6: connection
+Player 7: murder
+Player 8: civilian
+Player 9: iraq,
+Player 10: london
+Player 11: # 39 ; s
+Player 12: metropolitan
+Player 13: police
+Player 14: said.
+---------- Rewards ----------
+v(): -6.049297332763672	 ([])
+v(3 4 5 6 7 8 12): 6.992121696472168	 ([soldier][arrested][tuesday][connection][murder][civilian][metropolitan])
+v(0 1 2 9 10): 2.5368034839630127	 ([london :][21 - year - old][british][iraq,][london])
+v(11 13 14): 2.979243755340576	 ([# 39 ; s][police][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 12): 6.986570835113525	 ([london :][21 - year - old][british][soldier][arrested][tuesday][connection][murder][civilian][iraq,][london][metropolitan])
+v(3 4 5 6 7 8 11 12 13 14): 7.0157856941223145	 ([soldier][arrested][tuesday][connection][murder][civilian][# 39 ; s][metropolitan][police][said.])
+v(0 1 2 9 10 11 13 14): 5.538693904876709	 ([london :][21 - year - old][british][iraq,][london][# 39 ; s][police][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 6.349046230316162	 ([london :][21 - year - old][british][soldier][arrested][tuesday][connection][murder][civilian][iraq,][london][# 39 ; s][metropolitan][police][said.])
+---------- Rewards-v() ----------
+v(3 4 5 6 7 8 11 12 13 14): 13.065082550048828, EP: 1.0537763833999634	 ([soldier][arrested][tuesday][connection][murder][civilian][# 39 ; s][metropolitan][police][said.])
+v(3 4 5 6 7 8 12): 13.04141902923584, EP: 1.0518678426742554	 ([soldier][arrested][tuesday][connection][murder][civilian][metropolitan])
+v(0 1 2 3 4 5 6 7 8 9 10 12): 13.035867691040039, EP: 1.0514200925827026	 ([london :][21 - year - old][british][soldier][arrested][tuesday][connection][murder][civilian][iraq,][london][metropolitan])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 12.398344039916992, EP: 1.0	 ([london :][21 - year - old][british][soldier][arrested][tuesday][connection][murder][civilian][iraq,][london][# 39 ; s][metropolitan][police][said.])
+v(0 1 2 9 10 11 13 14): 11.587991714477539, EP: 0.9346402883529663	 ([london :][21 - year - old][british][iraq,][london][# 39 ; s][police][said.])
+v(11 13 14): 9.028541564941406, EP: 0.7282054424285889	 ([# 39 ; s][police][said.])
+v(0 1 2 9 10): 8.586100578308105, EP: 0.6925199627876282	 ([london :][21 - year - old][british][iraq,][london])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,54 @@
+---------- Players ----------
+Player 0: shaquille
+Player 1: # 39 ; neal
+Player 2: swatted
+Player 3: away
+Player 4: boris
+Player 5: diaw
+Player 6: # 39 ; s
+Player 7: layup
+Player 8: preserve
+Player 9: 26 - point
+Player 10: lead,
+Player 11: waved
+Player 12: nearby
+Player 13: television
+Player 14: camera
+Player 15: moment
+Player 16: landed
+Player 17: feet.
+---------- Rewards ----------
+v(): -2.7982749938964844	 ([])
+v(3 4 5): -7.114996433258057	 ([away][boris][diaw])
+v(1 2 6 15): 7.500007152557373	 ([# 39 ; neal][swatted][# 39 ; s][moment])
+v(0 7 8 9 13 17): 0.8365924954414368	 ([shaquille][layup][preserve][26 - point][television][feet.])
+v(10 11 12 14 16): -1.1699976921081543	 ([lead,][waved][nearby][camera][landed])
+v(1 2 3 4 5 6 15): 5.416860580444336	 ([# 39 ; neal][swatted][away][boris][diaw][# 39 ; s][moment])
+v(0 3 4 5 7 8 9 13 17): -0.36213934421539307	 ([shaquille][away][boris][diaw][layup][preserve][26 - point][television][feet.])
+v(3 4 5 10 11 12 14 16): -3.866511106491089	 ([away][boris][diaw][lead,][waved][nearby][camera][landed])
+v(0 1 2 6 7 8 9 13 15 17): 9.512462615966797	 ([shaquille][# 39 ; neal][swatted][# 39 ; s][layup][preserve][26 - point][television][moment][feet.])
+v(1 2 6 10 11 12 14 15 16): 7.042748928070068	 ([# 39 ; neal][swatted][# 39 ; s][lead,][waved][nearby][camera][moment][landed])
+v(0 7 8 9 10 11 12 13 14 16 17): 9.262484550476074	 ([shaquille][layup][preserve][26 - point][lead,][waved][nearby][television][camera][landed][feet.])
+v(0 1 2 3 4 5 6 7 8 9 13 15 17): 9.564030647277832	 ([shaquille][# 39 ; neal][swatted][away][boris][diaw][# 39 ; s][layup][preserve][26 - point][television][moment][feet.])
+v(1 2 3 4 5 6 10 11 12 14 15 16): 6.857402324676514	 ([# 39 ; neal][swatted][away][boris][diaw][# 39 ; s][lead,][waved][nearby][camera][moment][landed])
+v(0 3 4 5 7 8 9 10 11 12 13 14 16 17): 8.582745552062988	 ([shaquille][away][boris][diaw][layup][preserve][26 - point][lead,][waved][nearby][television][camera][landed][feet.])
+v(0 1 2 6 7 8 9 10 11 12 13 14 15 16 17): 9.740478515625	 ([shaquille][# 39 ; neal][swatted][# 39 ; s][layup][preserve][26 - point][lead,][waved][nearby][television][camera][moment][landed][feet.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.740653038024902	 ([shaquille][# 39 ; neal][swatted][away][boris][diaw][# 39 ; s][layup][preserve][26 - point][lead,][waved][nearby][television][camera][moment][landed][feet.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 12.538928031921387, EP: 1.0	 ([shaquille][# 39 ; neal][swatted][away][boris][diaw][# 39 ; s][layup][preserve][26 - point][lead,][waved][nearby][television][camera][moment][landed][feet.])
+v(0 1 2 6 7 8 9 10 11 12 13 14 15 16 17): 12.538753509521484, EP: 0.9999860525131226	 ([shaquille][# 39 ; neal][swatted][# 39 ; s][layup][preserve][26 - point][lead,][waved][nearby][television][camera][moment][landed][feet.])
+v(0 1 2 3 4 5 6 7 8 9 13 15 17): 12.362305641174316, EP: 0.9859140515327454	 ([shaquille][# 39 ; neal][swatted][away][boris][diaw][# 39 ; s][layup][preserve][26 - point][television][moment][feet.])
+v(0 1 2 6 7 8 9 13 15 17): 12.310737609863281, EP: 0.981801450252533	 ([shaquille][# 39 ; neal][swatted][# 39 ; s][layup][preserve][26 - point][television][moment][feet.])
+v(0 7 8 9 10 11 12 13 14 16 17): 12.060759544372559, EP: 0.9618653059005737	 ([shaquille][layup][preserve][26 - point][lead,][waved][nearby][television][camera][landed][feet.])
+v(0 3 4 5 7 8 9 10 11 12 13 14 16 17): 11.381020545959473, EP: 0.9076550006866455	 ([shaquille][away][boris][diaw][layup][preserve][26 - point][lead,][waved][nearby][television][camera][landed][feet.])
+v(1 2 6 15): 10.298282623291016, EP: 0.8213048577308655	 ([# 39 ; neal][swatted][# 39 ; s][moment])
+v(1 2 6 10 11 12 14 15 16): 9.841024398803711, EP: 0.7848377823829651	 ([# 39 ; neal][swatted][# 39 ; s][lead,][waved][nearby][camera][moment][landed])
+v(1 2 3 4 5 6 10 11 12 14 15 16): 9.655677795410156, EP: 0.7700560688972473	 ([# 39 ; neal][swatted][away][boris][diaw][# 39 ; s][lead,][waved][nearby][camera][moment][landed])
+v(1 2 3 4 5 6 15): 8.21513557434082, EP: 0.6551705002784729	 ([# 39 ; neal][swatted][away][boris][diaw][# 39 ; s][moment])
+v(3 4 5): -4.316721439361572, EP: -0.34426558017730713	 ([away][boris][diaw])
+v(0 7 8 9 13 17): 3.6348674297332764, EP: 0.28988662362098694	 ([shaquille][layup][preserve][26 - point][television][feet.])
+v(0 3 4 5 7 8 9 13 17): 2.436135768890381, EP: 0.1942858099937439	 ([shaquille][away][boris][diaw][layup][preserve][26 - point][television][feet.])
+v(10 11 12 14 16): 1.62827730178833, EP: 0.12985777854919434	 ([lead,][waved][nearby][camera][landed])
+v(3 4 5 10 11 12 14 16): -1.0682361125946045, EP: -0.08519357442855835	 ([away][boris][diaw][lead,][waved][nearby][camera][landed])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

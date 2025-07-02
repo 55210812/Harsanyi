@@ -1,0 +1,24 @@
+---------- Players ----------
+Player 0: chipmaker
+Player 1: follows
+Player 2: recent
+Player 3: price
+Player 4: cuts
+Player 5: pentium
+Player 6: line
+Player 7: new
+Player 8: top - of - the - range
+Player 9: model
+Player 10: runs
+Player 11: 2. 10ghz.
+---------- Rewards ----------
+v(): 2.2960262298583984	 ([])
+v(2 5 6 7 8 10 11): 6.957896709442139	 ([recent][pentium][line][new][top - of - the - range][runs][2. 10ghz.])
+v(0 1 3 4 9): 1.9976212978363037	 ([chipmaker][follows][price][cuts][model])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 5.059511184692383	 ([chipmaker][follows][recent][price][cuts][pentium][line][new][top - of - the - range][model][runs][2. 10ghz.])
+---------- Rewards-v() ----------
+v(2 5 6 7 8 10 11): 4.66187047958374, EP: 1.6869534254074097	 ([recent][pentium][line][new][top - of - the - range][runs][2. 10ghz.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 2.7634849548339844, EP: 1.0	 ([chipmaker][follows][recent][price][cuts][pentium][line][new][top - of - the - range][model][runs][2. 10ghz.])
+v(0 1 3 4 9): -0.2984049320220947, EP: -0.10798138380050659	 ([chipmaker][follows][price][cuts][model])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

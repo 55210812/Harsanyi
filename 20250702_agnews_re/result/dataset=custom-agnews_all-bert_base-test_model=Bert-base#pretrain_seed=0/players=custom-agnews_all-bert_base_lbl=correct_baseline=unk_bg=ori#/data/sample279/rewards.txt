@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: december
+Player 1: 8,
+Player 2: 2004.
+Player 3: vitali
+Player 4: klitschko
+Player 5: recognized
+Player 6: ring
+Player 7: magazine
+Player 8: heavyweight
+Player 9: champion
+Player 10: world.
+Player 11: hbo
+Player 12: sports
+Player 13: would
+Player 14: also
+Player 15: like
+Player 16: believe
+Player 17: it.
+---------- Rewards ----------
+v(): -4.886336326599121	 ([])
+v(0 1 2 3 4 11): 1.572391152381897	 ([december][8,][2004.][vitali][klitschko][hbo])
+v(5 7 10 12 13 14 15 17): 5.359075546264648	 ([recognized][magazine][world.][sports][would][also][like][it.])
+v(6 8 9 16): 6.035584926605225	 ([ring][heavyweight][champion][believe])
+v(0 1 2 3 4 5 7 10 11 12 13 14 15 17): 9.339529037475586	 ([december][8,][2004.][vitali][klitschko][recognized][magazine][world.][hbo][sports][would][also][like][it.])
+v(0 1 2 3 4 6 8 9 11 16): 8.698884963989258	 ([december][8,][2004.][vitali][klitschko][ring][heavyweight][champion][hbo][believe])
+v(5 6 7 8 9 10 12 13 14 15 16 17): 8.427990913391113	 ([recognized][ring][magazine][heavyweight][champion][world.][sports][would][also][like][believe][it.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.620190620422363	 ([december][8,][2004.][vitali][klitschko][recognized][ring][magazine][heavyweight][champion][world.][hbo][sports][would][also][like][believe][it.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 14.506526947021484, EP: 1.0	 ([december][8,][2004.][vitali][klitschko][recognized][ring][magazine][heavyweight][champion][world.][hbo][sports][would][also][like][believe][it.])
+v(0 1 2 3 4 5 7 10 11 12 13 14 15 17): 14.225865364074707, EP: 0.9806527495384216	 ([december][8,][2004.][vitali][klitschko][recognized][magazine][world.][hbo][sports][would][also][like][it.])
+v(0 1 2 3 4 6 8 9 11 16): 13.585221290588379, EP: 0.9364902377128601	 ([december][8,][2004.][vitali][klitschko][ring][heavyweight][champion][hbo][believe])
+v(5 6 7 8 9 10 12 13 14 15 16 17): 13.314327239990234, EP: 0.9178163409233093	 ([recognized][ring][magazine][heavyweight][champion][world.][sports][would][also][like][believe][it.])
+v(6 8 9 16): 10.921920776367188, EP: 0.7528970241546631	 ([ring][heavyweight][champion][believe])
+v(5 7 10 12 13 14 15 17): 10.24541187286377, EP: 0.7062622308731079	 ([recognized][magazine][world.][sports][would][also][like][it.])
+v(0 1 2 3 4 11): 6.4587273597717285, EP: 0.44522905349731445	 ([december][8,][2004.][vitali][klitschko][hbo])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

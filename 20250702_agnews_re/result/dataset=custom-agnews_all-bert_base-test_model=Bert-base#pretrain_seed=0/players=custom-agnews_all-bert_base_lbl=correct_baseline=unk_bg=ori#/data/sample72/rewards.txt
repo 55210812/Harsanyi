@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: tim
+Player 3: duncan
+Player 4: 17
+Player 5: points
+Player 6: 10
+Player 7: rebounds,
+Player 8: began
+Player 9: key
+Player 10: third - quarter
+Player 11: burst
+Player 12: helped
+Player 13: san
+Player 14: antonio
+Player 15: spurs
+Player 16: beat
+Player 17: new
+Player 18: york
+Player 19: knicks
+Player 20: 99 - 81
+Player 21: tuesday
+Player 22: night.
+---------- Rewards ----------
+v(): -3.4534969329833984	 ([])
+v(4 5): 1.1744858026504517	 ([17][points])
+v(0 1 2 3 8 9 10 12 15 16 17): 6.405999183654785	 ([ap][-][tim][duncan][began][key][third - quarter][helped][spurs][beat][new])
+v(6 7 11 13 14 18 19 20 21 22): 9.372584342956543	 ([10][rebounds,][burst][san][antonio][york][knicks][99 - 81][tuesday][night.])
+v(0 1 2 3 4 5 8 9 10 12 15 16 17): 9.661945343017578	 ([ap][-][tim][duncan][17][points][began][key][third - quarter][helped][spurs][beat][new])
+v(4 5 6 7 11 13 14 18 19 20 21 22): 9.41879940032959	 ([17][points][10][rebounds,][burst][san][antonio][york][knicks][99 - 81][tuesday][night.])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 9.549686431884766	 ([ap][-][tim][duncan][10][rebounds,][began][key][third - quarter][burst][helped][san][antonio][spurs][beat][new][york][knicks][99 - 81][tuesday][night.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 9.487661361694336	 ([ap][-][tim][duncan][17][points][10][rebounds,][began][key][third - quarter][burst][helped][san][antonio][spurs][beat][new][york][knicks][99 - 81][tuesday][night.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 8 9 10 12 15 16 17): 13.115442276000977, EP: 1.0134674310684204	 ([ap][-][tim][duncan][17][points][began][key][third - quarter][helped][spurs][beat][new])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 13.003183364868164, EP: 1.0047928094863892	 ([ap][-][tim][duncan][10][rebounds,][began][key][third - quarter][burst][helped][san][antonio][spurs][beat][new][york][knicks][99 - 81][tuesday][night.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 12.941158294677734, EP: 1.0	 ([ap][-][tim][duncan][17][points][10][rebounds,][began][key][third - quarter][burst][helped][san][antonio][spurs][beat][new][york][knicks][99 - 81][tuesday][night.])
+v(4 5 6 7 11 13 14 18 19 20 21 22): 12.872296333312988, EP: 0.9946788549423218	 ([17][points][10][rebounds,][burst][san][antonio][york][knicks][99 - 81][tuesday][night.])
+v(6 7 11 13 14 18 19 20 21 22): 12.826081275939941, EP: 0.9911076426506042	 ([10][rebounds,][burst][san][antonio][york][knicks][99 - 81][tuesday][night.])
+v(0 1 2 3 8 9 10 12 15 16 17): 9.859496116638184, EP: 0.7618712186813354	 ([ap][-][tim][duncan][began][key][third - quarter][helped][spurs][beat][new])
+v(4 5): 4.6279826164245605, EP: 0.3576173484325409	 ([17][points])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

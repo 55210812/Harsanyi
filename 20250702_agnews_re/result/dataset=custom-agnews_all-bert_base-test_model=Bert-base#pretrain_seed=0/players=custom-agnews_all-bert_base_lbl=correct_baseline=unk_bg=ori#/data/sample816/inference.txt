@@ -1,0 +1,45 @@
+Execution time: 2025-07-02 19:37:31
+prompt: [CLS] ap - intel corp. unveiled an update to its wireless networking technology thursday, adding simpler software, improved security and support for a more robust, less interference - prone radio standard. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:13420 decoded_text: intel
+idx:4 input_id:13058 decoded_text: corp
+idx:5 input_id:1012 decoded_text: .
+idx:6 input_id:11521 decoded_text: unveiled
+idx:7 input_id:2019 decoded_text: an
+idx:8 input_id:10651 decoded_text: update
+idx:9 input_id:2000 decoded_text: to
+idx:10 input_id:2049 decoded_text: its
+idx:11 input_id:9949 decoded_text: wireless
+idx:12 input_id:14048 decoded_text: networking
+idx:13 input_id:2974 decoded_text: technology
+idx:14 input_id:9432 decoded_text: thursday
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:5815 decoded_text: adding
+idx:17 input_id:16325 decoded_text: simpler
+idx:18 input_id:4007 decoded_text: software
+idx:19 input_id:1010 decoded_text: ,
+idx:20 input_id:5301 decoded_text: improved
+idx:21 input_id:3036 decoded_text: security
+idx:22 input_id:1998 decoded_text: and
+idx:23 input_id:2490 decoded_text: support
+idx:24 input_id:2005 decoded_text: for
+idx:25 input_id:1037 decoded_text: a
+idx:26 input_id:2062 decoded_text: more
+idx:27 input_id:15873 decoded_text: robust
+idx:28 input_id:1010 decoded_text: ,
+idx:29 input_id:2625 decoded_text: less
+idx:30 input_id:11099 decoded_text: interference
+idx:31 input_id:1011 decoded_text: -
+idx:32 input_id:13047 decoded_text: prone
+idx:33 input_id:2557 decoded_text: radio
+idx:34 input_id:3115 decoded_text: standard
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.23313045501709, -2.3981096744537354, -1.5082286596298218, 7.227725982666016]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

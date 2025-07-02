@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: back
+Player 1: obviously
+Player 2: sore,
+Player 3: windy
+Player 4: conditions
+Player 5: easy
+Player 6: opponent
+Player 7: awkward
+Player 8: extreme,
+Player 9: tim
+Player 10: henman
+Player 11: survived
+Player 12: fight
+Player 13: another
+Player 14: day.
+---------- Rewards ----------
+v(): -3.832235097885132	 ([])
+v(0 1 2 3): 6.809520244598389	 ([back][obviously][sore,][windy])
+v(4 5 6 11 12 13 14): 1.5675277709960938	 ([conditions][easy][opponent][survived][fight][another][day.])
+v(7 8 9 10): -0.7432205677032471	 ([awkward][extreme,][tim][henman])
+v(0 1 2 3 4 5 6 11 12 13 14): 6.32738733291626	 ([back][obviously][sore,][windy][conditions][easy][opponent][survived][fight][another][day.])
+v(0 1 2 3 7 8 9 10): 8.160637855529785	 ([back][obviously][sore,][windy][awkward][extreme,][tim][henman])
+v(4 5 6 7 8 9 10 11 12 13 14): 7.238893508911133	 ([conditions][easy][opponent][awkward][extreme,][tim][henman][survived][fight][another][day.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 8.468513488769531	 ([back][obviously][sore,][windy][conditions][easy][opponent][awkward][extreme,][tim][henman][survived][fight][another][day.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 12.300748825073242, EP: 1.0	 ([back][obviously][sore,][windy][conditions][easy][opponent][awkward][extreme,][tim][henman][survived][fight][another][day.])
+v(0 1 2 3 7 8 9 10): 11.992873191833496, EP: 0.9749709963798523	 ([back][obviously][sore,][windy][awkward][extreme,][tim][henman])
+v(4 5 6 7 8 9 10 11 12 13 14): 11.071128845214844, EP: 0.9000369906425476	 ([conditions][easy][opponent][awkward][extreme,][tim][henman][survived][fight][another][day.])
+v(0 1 2 3): 10.641755104064941, EP: 0.8651306629180908	 ([back][obviously][sore,][windy])
+v(0 1 2 3 4 5 6 11 12 13 14): 10.159622192382812, EP: 0.8259352445602417	 ([back][obviously][sore,][windy][conditions][easy][opponent][survived][fight][another][day.])
+v(4 5 6 11 12 13 14): 5.399763107299805, EP: 0.4389784038066864	 ([conditions][easy][opponent][survived][fight][another][day.])
+v(7 8 9 10): 3.0890145301818848, EP: 0.2511241137981415	 ([awkward][extreme,][tim][henman])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

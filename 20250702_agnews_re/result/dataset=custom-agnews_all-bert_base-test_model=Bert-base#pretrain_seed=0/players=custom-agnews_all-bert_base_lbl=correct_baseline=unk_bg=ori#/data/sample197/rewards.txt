@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: david
+Player 1: blunkett
+Player 2: urged
+Player 3: bring
+Player 4: forward
+Player 5: plans
+Player 6: allow
+Player 7: phone - tapping
+Player 8: evidence
+Player 9: uk
+Player 10: courts
+Player 11: trials
+Player 12: foreign
+Player 13: terror
+Player 14: suspects
+Player 15: go
+Player 16: ahead.
+---------- Rewards ----------
+v(): -9.677592277526855	 ([])
+v(3 5 8 9 10 11 15): -6.2551984786987305	 ([bring][plans][evidence][uk][courts][trials][go])
+v(0 1 2 4 6): 5.961812496185303	 ([david][blunkett][urged][forward][allow])
+v(7 12 13 14 16): -6.006536960601807	 ([phone - tapping][foreign][terror][suspects][ahead.])
+v(0 1 2 3 4 5 6 8 9 10 11 15): 6.04668664932251	 ([david][blunkett][urged][bring][forward][plans][allow][evidence][uk][courts][trials][go])
+v(3 5 7 8 9 10 11 12 13 14 15 16): -2.6862101554870605	 ([bring][plans][phone - tapping][evidence][uk][courts][trials][foreign][terror][suspects][go][ahead.])
+v(0 1 2 4 6 7 12 13 14 16): 7.361966609954834	 ([david][blunkett][urged][forward][allow][phone - tapping][foreign][terror][suspects][ahead.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 6.709638595581055	 ([david][blunkett][urged][bring][forward][plans][allow][phone - tapping][evidence][uk][courts][trials][foreign][terror][suspects][go][ahead.])
+---------- Rewards-v() ----------
+v(0 1 2 4 6 7 12 13 14 16): 17.03955841064453, EP: 1.0398070812225342	 ([david][blunkett][urged][forward][allow][phone - tapping][foreign][terror][suspects][ahead.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 16.387229919433594, EP: 1.0	 ([david][blunkett][urged][bring][forward][plans][allow][phone - tapping][evidence][uk][courts][trials][foreign][terror][suspects][go][ahead.])
+v(0 1 2 3 4 5 6 8 9 10 11 15): 15.724279403686523, EP: 0.9595446586608887	 ([david][blunkett][urged][bring][forward][plans][allow][evidence][uk][courts][trials][go])
+v(0 1 2 4 6): 15.639404296875, EP: 0.9543653130531311	 ([david][blunkett][urged][forward][allow])
+v(3 5 7 8 9 10 11 12 13 14 15 16): 6.991382122039795, EP: 0.4266359806060791	 ([bring][plans][phone - tapping][evidence][uk][courts][trials][foreign][terror][suspects][go][ahead.])
+v(7 12 13 14 16): 3.671055316925049, EP: 0.22401927411556244	 ([phone - tapping][foreign][terror][suspects][ahead.])
+v(3 5 8 9 10 11 15): 3.422393798828125, EP: 0.20884516835212708	 ([bring][plans][evidence][uk][courts][trials][go])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

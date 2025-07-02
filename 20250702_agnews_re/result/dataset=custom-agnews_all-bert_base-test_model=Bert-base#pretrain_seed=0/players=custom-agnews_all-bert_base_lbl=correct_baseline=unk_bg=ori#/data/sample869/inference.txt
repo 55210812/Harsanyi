@@ -1,0 +1,57 @@
+Execution time: 2025-07-02 19:38:53
+prompt: [CLS] about three dozen area residents could get an unexpected windfall - - they are owed refunds by the internal revenue service. they are among more than 6, 400 refunds owed to taxpayers in new york that have yet to be claimed. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2055 decoded_text: about
+idx:2 input_id:2093 decoded_text: three
+idx:3 input_id:6474 decoded_text: dozen
+idx:4 input_id:2181 decoded_text: area
+idx:5 input_id:3901 decoded_text: residents
+idx:6 input_id:2071 decoded_text: could
+idx:7 input_id:2131 decoded_text: get
+idx:8 input_id:2019 decoded_text: an
+idx:9 input_id:9223 decoded_text: unexpected
+idx:10 input_id:3612 decoded_text: wind
+idx:11 input_id:13976 decoded_text: ##fall
+idx:12 input_id:1011 decoded_text: -
+idx:13 input_id:1011 decoded_text: -
+idx:14 input_id:2027 decoded_text: they
+idx:15 input_id:2024 decoded_text: are
+idx:16 input_id:12232 decoded_text: owed
+idx:17 input_id:25416 decoded_text: ref
+idx:18 input_id:26698 decoded_text: ##unds
+idx:19 input_id:2011 decoded_text: by
+idx:20 input_id:1996 decoded_text: the
+idx:21 input_id:4722 decoded_text: internal
+idx:22 input_id:6599 decoded_text: revenue
+idx:23 input_id:2326 decoded_text: service
+idx:24 input_id:1012 decoded_text: .
+idx:25 input_id:2027 decoded_text: they
+idx:26 input_id:2024 decoded_text: are
+idx:27 input_id:2426 decoded_text: among
+idx:28 input_id:2062 decoded_text: more
+idx:29 input_id:2084 decoded_text: than
+idx:30 input_id:1020 decoded_text: 6
+idx:31 input_id:1010 decoded_text: ,
+idx:32 input_id:4278 decoded_text: 400
+idx:33 input_id:25416 decoded_text: ref
+idx:34 input_id:26698 decoded_text: ##unds
+idx:35 input_id:12232 decoded_text: owed
+idx:36 input_id:2000 decoded_text: to
+idx:37 input_id:26457 decoded_text: taxpayers
+idx:38 input_id:1999 decoded_text: in
+idx:39 input_id:2047 decoded_text: new
+idx:40 input_id:2259 decoded_text: york
+idx:41 input_id:2008 decoded_text: that
+idx:42 input_id:2031 decoded_text: have
+idx:43 input_id:2664 decoded_text: yet
+idx:44 input_id:2000 decoded_text: to
+idx:45 input_id:2022 decoded_text: be
+idx:46 input_id:3555 decoded_text: claimed
+idx:47 input_id:1012 decoded_text: .
+idx:48 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.8372223377227783, -2.7038815021514893, 6.449776649475098, -2.9308958053588867]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

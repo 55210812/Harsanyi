@@ -1,0 +1,60 @@
+---------- Players ----------
+Player 0: international
+Player 1: business
+Player 2: machines
+Player 3: corp.,
+Player 4: world
+Player 5: # 39 ; s
+Player 6: largest
+Player 7: seller
+Player 8: computers
+Player 9: related
+Player 10: services,
+Player 11: said
+Player 12: agreed
+Player 13: settle
+Player 14: part
+Player 15: lawsuit
+Player 16: claimed
+Player 17: company
+Player 18: # 39 ; s
+Player 19: pension
+Player 20: plan
+Player 21: discriminated
+Player 22: older
+Player 23: workers.
+---------- Rewards ----------
+v(): -3.1618757247924805	 ([])
+v(0 1 6 7 10 15 17): 3.5120930671691895	 ([international][business][largest][seller][services,][lawsuit][company])
+v(18 19 20 21 23): 7.510711669921875	 ([# 39 ; s][pension][plan][discriminated][workers.])
+v(2 3 8 9 12 14 16 22): -5.567782402038574	 ([machines][corp.,][computers][related][agreed][part][claimed][older])
+v(4 5 11 13): 0.39365577697753906	 ([world][# 39 ; s][said][settle])
+v(0 1 6 7 10 15 17 18 19 20 21 23): 8.211845397949219	 ([international][business][largest][seller][services,][lawsuit][company][# 39 ; s][pension][plan][discriminated][workers.])
+v(0 1 2 3 6 7 8 9 10 12 14 15 16 17 22): -0.7327125072479248	 ([international][business][machines][corp.,][largest][seller][computers][related][services,][agreed][part][lawsuit][claimed][company][older])
+v(0 1 4 5 6 7 10 11 13 15 17): 4.256322860717773	 ([international][business][world][# 39 ; s][largest][seller][services,][said][settle][lawsuit][company])
+v(2 3 8 9 12 14 16 18 19 20 21 22 23): 4.666374683380127	 ([machines][corp.,][computers][related][agreed][part][claimed][# 39 ; s][pension][plan][discriminated][older][workers.])
+v(4 5 11 13 18 19 20 21 23): 6.057516098022461	 ([world][# 39 ; s][said][settle][# 39 ; s][pension][plan][discriminated][workers.])
+v(2 3 4 5 8 9 11 12 13 14 16 22): -1.9509968757629395	 ([machines][corp.,][world][# 39 ; s][computers][related][said][agreed][settle][part][claimed][older])
+v(0 1 2 3 6 7 8 9 10 12 14 15 16 17 18 19 20 21 22 23): 4.845705032348633	 ([international][business][machines][corp.,][largest][seller][computers][related][services,][agreed][part][lawsuit][claimed][company][# 39 ; s][pension][plan][discriminated][older][workers.])
+v(0 1 4 5 6 7 10 11 13 15 17 18 19 20 21 23): 8.135692596435547	 ([international][business][world][# 39 ; s][largest][seller][services,][said][settle][lawsuit][company][# 39 ; s][pension][plan][discriminated][workers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 22): 0.4700791835784912	 ([international][business][machines][corp.,][world][# 39 ; s][largest][seller][computers][related][services,][said][agreed][settle][part][lawsuit][claimed][company][older])
+v(2 3 4 5 8 9 11 12 13 14 16 18 19 20 21 22 23): 5.339572429656982	 ([machines][corp.,][world][# 39 ; s][computers][related][said][agreed][settle][part][claimed][# 39 ; s][pension][plan][discriminated][older][workers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 5.74078369140625	 ([international][business][machines][corp.,][world][# 39 ; s][largest][seller][computers][related][services,][said][agreed][settle][part][lawsuit][claimed][company][# 39 ; s][pension][plan][discriminated][older][workers.])
+---------- Rewards-v() ----------
+v(0 1 6 7 10 15 17 18 19 20 21 23): 11.3737211227417, EP: 1.2775644063949585	 ([international][business][largest][seller][services,][lawsuit][company][# 39 ; s][pension][plan][discriminated][workers.])
+v(0 1 4 5 6 7 10 11 13 15 17 18 19 20 21 23): 11.297568321228027, EP: 1.2690105438232422	 ([international][business][world][# 39 ; s][largest][seller][services,][said][settle][lawsuit][company][# 39 ; s][pension][plan][discriminated][workers.])
+v(18 19 20 21 23): 10.672587394714355, EP: 1.1988089084625244	 ([# 39 ; s][pension][plan][discriminated][workers.])
+v(4 5 11 13 18 19 20 21 23): 9.219391822814941, EP: 1.0355772972106934	 ([world][# 39 ; s][said][settle][# 39 ; s][pension][plan][discriminated][workers.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.90265941619873, EP: 1.0	 ([international][business][machines][corp.,][world][# 39 ; s][largest][seller][computers][related][services,][said][agreed][settle][part][lawsuit][claimed][company][# 39 ; s][pension][plan][discriminated][older][workers.])
+v(2 3 4 5 8 9 11 12 13 14 16 18 19 20 21 22 23): 8.501447677612305, EP: 0.9549335241317749	 ([machines][corp.,][world][# 39 ; s][computers][related][said][agreed][settle][part][claimed][# 39 ; s][pension][plan][discriminated][older][workers.])
+v(0 1 2 3 6 7 8 9 10 12 14 15 16 17 18 19 20 21 22 23): 8.007580757141113, EP: 0.8994594216346741	 ([international][business][machines][corp.,][largest][seller][computers][related][services,][agreed][part][lawsuit][claimed][company][# 39 ; s][pension][plan][discriminated][older][workers.])
+v(2 3 8 9 12 14 16 18 19 20 21 22 23): 7.828250408172607, EP: 0.879315972328186	 ([machines][corp.,][computers][related][agreed][part][claimed][# 39 ; s][pension][plan][discriminated][older][workers.])
+v(0 1 4 5 6 7 10 11 13 15 17): 7.418198585510254, EP: 0.8332564830780029	 ([international][business][world][# 39 ; s][largest][seller][services,][said][settle][lawsuit][company])
+v(0 1 6 7 10 15 17): 6.67396879196167, EP: 0.7496601343154907	 ([international][business][largest][seller][services,][lawsuit][company])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 22): 3.6319549083709717, EP: 0.4079629182815552	 ([international][business][machines][corp.,][world][# 39 ; s][largest][seller][computers][related][services,][said][agreed][settle][part][lawsuit][claimed][company][older])
+v(4 5 11 13): 3.5555315017700195, EP: 0.39937859773635864	 ([world][# 39 ; s][said][settle])
+v(0 1 2 3 6 7 8 9 10 12 14 15 16 17 22): 2.4291632175445557, EP: 0.2728581428527832	 ([international][business][machines][corp.,][largest][seller][computers][related][services,][agreed][part][lawsuit][claimed][company][older])
+v(2 3 8 9 12 14 16 22): -2.4059066772460938, EP: -0.27024585008621216	 ([machines][corp.,][computers][related][agreed][part][claimed][older])
+v(2 3 4 5 8 9 11 12 13 14 16 22): 1.210878849029541, EP: 0.13601316511631012	 ([machines][corp.,][world][# 39 ; s][computers][related][said][agreed][settle][part][claimed][older])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: strasbourg :
+Player 1: european
+Player 2: commission
+Player 3: tuesday
+Player 4: approved
+Player 5: oracle
+Player 6: corp.
+Player 7: # 39 ; s
+Player 8: proposed
+Player 9: \ $ 7. 7
+Player 10: billion
+Player 11: hostile
+Player 12: takeover
+Player 13: rival
+Player 14: business
+Player 15: software
+Player 16: company
+Player 17: peoplesoft
+Player 18: inc.
+---------- Rewards ----------
+v(): -4.840717315673828	 ([])
+v(12 13 14 15 16 17 18): 3.288147449493408	 ([takeover][rival][business][software][company][peoplesoft][inc.])
+v(4 5 6 7): 4.836612701416016	 ([approved][oracle][corp.][# 39 ; s])
+v(0 1 2 3 8 9 10 11): 0.3541221618652344	 ([strasbourg :][european][commission][tuesday][proposed][\ $ 7. 7][billion][hostile])
+v(4 5 6 7 12 13 14 15 16 17 18): 5.169326305389404	 ([approved][oracle][corp.][# 39 ; s][takeover][rival][business][software][company][peoplesoft][inc.])
+v(0 1 2 3 8 9 10 11 12 13 14 15 16 17 18): 2.232119560241699	 ([strasbourg :][european][commission][tuesday][proposed][\ $ 7. 7][billion][hostile][takeover][rival][business][software][company][peoplesoft][inc.])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 6.576869487762451	 ([strasbourg :][european][commission][tuesday][approved][oracle][corp.][# 39 ; s][proposed][\ $ 7. 7][billion][hostile])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 5.228906631469727	 ([strasbourg :][european][commission][tuesday][approved][oracle][corp.][# 39 ; s][proposed][\ $ 7. 7][billion][hostile][takeover][rival][business][software][company][peoplesoft][inc.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11): 11.417587280273438, EP: 1.1338642835617065	 ([strasbourg :][european][commission][tuesday][approved][oracle][corp.][# 39 ; s][proposed][\ $ 7. 7][billion][hostile])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 10.069623947143555, EP: 1.0	 ([strasbourg :][european][commission][tuesday][approved][oracle][corp.][# 39 ; s][proposed][\ $ 7. 7][billion][hostile][takeover][rival][business][software][company][peoplesoft][inc.])
+v(4 5 6 7 12 13 14 15 16 17 18): 10.01004409790039, EP: 0.9940832257270813	 ([approved][oracle][corp.][# 39 ; s][takeover][rival][business][software][company][peoplesoft][inc.])
+v(4 5 6 7): 9.677330017089844, EP: 0.9610418677330017	 ([approved][oracle][corp.][# 39 ; s])
+v(12 13 14 15 16 17 18): 8.128864288330078, EP: 0.8072659373283386	 ([takeover][rival][business][software][company][peoplesoft][inc.])
+v(0 1 2 3 8 9 10 11 12 13 14 15 16 17 18): 7.072836875915527, EP: 0.7023933529853821	 ([strasbourg :][european][commission][tuesday][proposed][\ $ 7. 7][billion][hostile][takeover][rival][business][software][company][peoplesoft][inc.])
+v(0 1 2 3 8 9 10 11): 5.1948394775390625, EP: 0.5158920884132385	 ([strasbourg :][european][commission][tuesday][proposed][\ $ 7. 7][billion][hostile])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: oracle
+Player 1: try
+Player 2: prove
+Player 3: peoplesoft's
+Player 4: directors
+Player 5: acted
+Player 6: irresponsibly
+Player 7: rejecting
+Player 8: oracle's
+Player 9: \ $ 7. 7
+Player 10: billion
+Player 11: tender
+Player 12: offer.
+---------- Rewards ----------
+v(): -5.604825496673584	 ([])
+v(10 11 12): 3.6081607341766357	 ([billion][tender][offer.])
+v(5 6 7): -5.121940612792969	 ([acted][irresponsibly][rejecting])
+v(0 1 2 3 4 8 9): -3.0233101844787598	 ([oracle][try][prove][peoplesoft's][directors][oracle's][\ $ 7. 7])
+v(5 6 7 10 11 12): 2.9025068283081055	 ([acted][irresponsibly][rejecting][billion][tender][offer.])
+v(0 1 2 3 4 8 9 10 11 12): -0.7083883285522461	 ([oracle][try][prove][peoplesoft's][directors][oracle's][\ $ 7. 7][billion][tender][offer.])
+v(0 1 2 3 4 5 6 7 8 9): -1.476729393005371	 ([oracle][try][prove][peoplesoft's][directors][acted][irresponsibly][rejecting][oracle's][\ $ 7. 7])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): -0.16335463523864746	 ([oracle][try][prove][peoplesoft's][directors][acted][irresponsibly][rejecting][oracle's][\ $ 7. 7][billion][tender][offer.])
+---------- Rewards-v() ----------
+v(10 11 12): 9.21298599243164, EP: 1.693105697631836	 ([billion][tender][offer.])
+v(5 6 7 10 11 12): 8.507331848144531, EP: 1.5634249448776245	 ([acted][irresponsibly][rejecting][billion][tender][offer.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 5.441471099853516, EP: 1.0	 ([oracle][try][prove][peoplesoft's][directors][acted][irresponsibly][rejecting][oracle's][\ $ 7. 7][billion][tender][offer.])
+v(0 1 2 3 4 8 9 10 11 12): 4.896437168121338, EP: 0.8998370170593262	 ([oracle][try][prove][peoplesoft's][directors][oracle's][\ $ 7. 7][billion][tender][offer.])
+v(0 1 2 3 4 5 6 7 8 9): 4.128096103668213, EP: 0.7586360573768616	 ([oracle][try][prove][peoplesoft's][directors][acted][irresponsibly][rejecting][oracle's][\ $ 7. 7])
+v(0 1 2 3 4 8 9): 2.581515312194824, EP: 0.47441497445106506	 ([oracle][try][prove][peoplesoft's][directors][oracle's][\ $ 7. 7])
+v(5 6 7): 0.48288488388061523, EP: 0.08874160796403885	 ([acted][irresponsibly][rejecting])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

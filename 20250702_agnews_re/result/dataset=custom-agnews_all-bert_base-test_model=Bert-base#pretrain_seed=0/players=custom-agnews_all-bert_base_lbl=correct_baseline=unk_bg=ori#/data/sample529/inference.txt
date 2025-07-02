@@ -1,0 +1,42 @@
+Execution time: 2025-07-02 19:30:14
+prompt: [CLS] ohio state football coach jim tressel and the school # 39 ; s athletics director, andy geiger, defended the besieged program tuesday - eiger delivering a vigorous [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4058 decoded_text: ohio
+idx:2 input_id:2110 decoded_text: state
+idx:3 input_id:2374 decoded_text: football
+idx:4 input_id:2873 decoded_text: coach
+idx:5 input_id:3958 decoded_text: jim
+idx:6 input_id:24403 decoded_text: tres
+idx:7 input_id:11246 decoded_text: ##sel
+idx:8 input_id:1998 decoded_text: and
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:2082 decoded_text: school
+idx:11 input_id:1001 decoded_text: #
+idx:12 input_id:4464 decoded_text: 39
+idx:13 input_id:1025 decoded_text: ;
+idx:14 input_id:1055 decoded_text: s
+idx:15 input_id:6482 decoded_text: athletics
+idx:16 input_id:2472 decoded_text: director
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:5557 decoded_text: andy
+idx:19 input_id:16216 decoded_text: ge
+idx:20 input_id:17071 decoded_text: ##iger
+idx:21 input_id:1010 decoded_text: ,
+idx:22 input_id:8047 decoded_text: defended
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:17923 decoded_text: besieged
+idx:25 input_id:2565 decoded_text: program
+idx:26 input_id:9857 decoded_text: tuesday
+idx:27 input_id:1011 decoded_text: -
+idx:28 input_id:1041 decoded_text: e
+idx:29 input_id:17071 decoded_text: ##iger
+idx:30 input_id:12771 decoded_text: delivering
+idx:31 input_id:1037 decoded_text: a
+idx:32 input_id:21813 decoded_text: vigorous
+idx:33 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.965104579925537, 8.5400390625, -2.573296070098877, -2.553135871887207]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

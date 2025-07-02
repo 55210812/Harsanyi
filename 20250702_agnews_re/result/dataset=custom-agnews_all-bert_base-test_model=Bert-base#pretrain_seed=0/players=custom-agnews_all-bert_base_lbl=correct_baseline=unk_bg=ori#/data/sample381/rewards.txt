@@ -1,0 +1,45 @@
+---------- Players ----------
+Player 0: bombay
+Player 1: :
+Player 2: india
+Player 3: # 39 ; s
+Player 4: bid
+Player 5: secure
+Player 6: face - saving
+Player 7: win
+Player 8: australia
+Player 9: got
+Player 10: wrong
+Player 11: foot
+Player 12: lost
+Player 13: two
+Player 14: quick
+Player 15: wickets
+Player 16: 11
+Player 17: overs
+Player 18: bowled
+Player 19: rain - hit
+Player 20: opening
+Player 21: day
+Player 22: fourth
+Player 23: test
+Player 24: here.
+---------- Rewards ----------
+v(): 0.9449664950370789	 ([])
+v(1 2 6 8 9 10 11 19): 8.01718807220459	 ([:][india][face - saving][australia][got][wrong][foot][rain - hit])
+v(0 3 4 5 7 12 18 20 21): 9.303911209106445	 ([bombay][# 39 ; s][bid][secure][win][lost][bowled][opening][day])
+v(13 14 15 16 17 22 23 24): 9.447644233703613	 ([two][quick][wickets][11][overs][fourth][test][here.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 18 19 20 21): 9.35760498046875	 ([bombay][:][india][# 39 ; s][bid][secure][face - saving][win][australia][got][wrong][foot][lost][bowled][rain - hit][opening][day])
+v(1 2 6 8 9 10 11 13 14 15 16 17 19 22 23 24): 9.568498611450195	 ([:][india][face - saving][australia][got][wrong][foot][two][quick][wickets][11][overs][rain - hit][fourth][test][here.])
+v(0 3 4 5 7 12 13 14 15 16 17 18 20 21 22 23 24): 9.229304313659668	 ([bombay][# 39 ; s][bid][secure][win][lost][two][quick][wickets][11][overs][bowled][opening][day][fourth][test][here.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 9.31586742401123	 ([bombay][:][india][# 39 ; s][bid][secure][face - saving][win][australia][got][wrong][foot][lost][two][quick][wickets][11][overs][bowled][rain - hit][opening][day][fourth][test][here.])
+---------- Rewards-v() ----------
+v(1 2 6 8 9 10 11 13 14 15 16 17 19 22 23 24): 8.62353229522705, EP: 1.030179738998413	 ([:][india][face - saving][australia][got][wrong][foot][two][quick][wickets][11][overs][rain - hit][fourth][test][here.])
+v(13 14 15 16 17 22 23 24): 8.502677917480469, EP: 1.015742301940918	 ([two][quick][wickets][11][overs][fourth][test][here.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 18 19 20 21): 8.412638664245605, EP: 1.004986047744751	 ([bombay][:][india][# 39 ; s][bid][secure][face - saving][win][australia][got][wrong][foot][lost][bowled][rain - hit][opening][day])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 8.370901107788086, EP: 1.0	 ([bombay][:][india][# 39 ; s][bid][secure][face - saving][win][australia][got][wrong][foot][lost][two][quick][wickets][11][overs][bowled][rain - hit][opening][day][fourth][test][here.])
+v(0 3 4 5 7 12 18 20 21): 8.3589448928833, EP: 0.9985716938972473	 ([bombay][# 39 ; s][bid][secure][win][lost][bowled][opening][day])
+v(0 3 4 5 7 12 13 14 15 16 17 18 20 21 22 23 24): 8.284337997436523, EP: 0.9896590709686279	 ([bombay][# 39 ; s][bid][secure][win][lost][two][quick][wickets][11][overs][bowled][opening][day][fourth][test][here.])
+v(1 2 6 8 9 10 11 19): 7.072221755981445, EP: 0.8448578715324402	 ([:][india][face - saving][australia][got][wrong][foot][rain - hit])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: single - elimination
+Player 1: quarterfinals
+Player 2: world
+Player 3: cup
+Player 4: hockey
+Player 5: # 39 ; s
+Player 6: north
+Player 7: american
+Player 8: pool
+Player 9: start
+Player 10: tonight
+Player 11: st.
+Player 12: paul,
+Player 13: minn.
+Player 14: biggest
+Player 15: question
+Player 16: remains
+Player 17: team
+Player 18: usa
+Player 19: show
+---------- Rewards ----------
+v(): -2.027909517288208	 ([])
+v(0 2 3): 8.944418907165527	 ([single - elimination][world][cup])
+v(1 4 5 10 17): 9.609729766845703	 ([quarterfinals][hockey][# 39 ; s][tonight][team])
+v(6 7 8 9 11 12 13 14 15 16 18 19): 4.388919830322266	 ([north][american][pool][start][st.][paul,][minn.][biggest][question][remains][usa][show])
+v(0 1 2 3 4 5 10 17): 9.492515563964844	 ([single - elimination][quarterfinals][world][cup][hockey][# 39 ; s][tonight][team])
+v(0 2 3 6 7 8 9 11 12 13 14 15 16 18 19): 9.286948204040527	 ([single - elimination][world][cup][north][american][pool][start][st.][paul,][minn.][biggest][question][remains][usa][show])
+v(1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.550155639648438	 ([quarterfinals][hockey][# 39 ; s][north][american][pool][start][tonight][st.][paul,][minn.][biggest][question][remains][team][usa][show])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.46932601928711	 ([single - elimination][quarterfinals][world][cup][hockey][# 39 ; s][north][american][pool][start][tonight][st.][paul,][minn.][biggest][question][remains][team][usa][show])
+---------- Rewards-v() ----------
+v(1 4 5 10 17): 11.637639045715332, EP: 1.0122119188308716	 ([quarterfinals][hockey][# 39 ; s][tonight][team])
+v(1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 11.578064918518066, EP: 1.0070303678512573	 ([quarterfinals][hockey][# 39 ; s][north][american][pool][start][tonight][st.][paul,][minn.][biggest][question][remains][team][usa][show])
+v(0 1 2 3 4 5 10 17): 11.520424842834473, EP: 1.0020170211791992	 ([single - elimination][quarterfinals][world][cup][hockey][# 39 ; s][tonight][team])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 11.497235298156738, EP: 1.0	 ([single - elimination][quarterfinals][world][cup][hockey][# 39 ; s][north][american][pool][start][tonight][st.][paul,][minn.][biggest][question][remains][team][usa][show])
+v(0 2 3 6 7 8 9 11 12 13 14 15 16 18 19): 11.314857482910156, EP: 0.984137237071991	 ([single - elimination][world][cup][north][american][pool][start][st.][paul,][minn.][biggest][question][remains][usa][show])
+v(0 2 3): 10.972328186035156, EP: 0.9543449282646179	 ([single - elimination][world][cup])
+v(6 7 8 9 11 12 13 14 15 16 18 19): 6.4168291091918945, EP: 0.5581192970275879	 ([north][american][pool][start][st.][paul,][minn.][biggest][question][remains][usa][show])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

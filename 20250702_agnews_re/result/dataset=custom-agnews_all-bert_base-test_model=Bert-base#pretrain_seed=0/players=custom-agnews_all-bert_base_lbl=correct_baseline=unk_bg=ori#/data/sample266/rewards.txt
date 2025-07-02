@@ -1,0 +1,52 @@
+---------- Players ----------
+Player 0: no.
+Player 1: 1
+Player 2: automaker
+Player 3: outpaced
+Player 4: domestic
+Player 5: rivals,
+Player 6: gm
+Player 7: stock
+Player 8: keep
+Player 9: spinning
+Player 10: wheels?
+Player 11: chris
+Player 12: isidore,
+Player 13: cnn / money
+Player 14: senior
+Player 15: writer.
+---------- Rewards ----------
+v(): -4.277293682098389	 ([])
+v(8 9 10): -8.278766632080078	 ([keep][spinning][wheels?])
+v(2 3): -4.108627796173096	 ([automaker][outpaced])
+v(4 5 6 7 13): 8.003240585327148	 ([domestic][rivals,][gm][stock][cnn / money])
+v(0 1 11 12 14 15): -4.707815647125244	 ([no.][1][chris][isidore,][senior][writer.])
+v(2 3 8 9 10): 4.583086013793945	 ([automaker][outpaced][keep][spinning][wheels?])
+v(4 5 6 7 8 9 10 13): 8.260686874389648	 ([domestic][rivals,][gm][stock][keep][spinning][wheels?][cnn / money])
+v(0 1 8 9 10 11 12 14 15): -5.497562408447266	 ([no.][1][keep][spinning][wheels?][chris][isidore,][senior][writer.])
+v(2 3 4 5 6 7 13): 8.052122116088867	 ([automaker][outpaced][domestic][rivals,][gm][stock][cnn / money])
+v(0 1 2 3 11 12 14 15): 0.14375638961791992	 ([no.][1][automaker][outpaced][chris][isidore,][senior][writer.])
+v(0 1 4 5 6 7 11 12 13 14 15): 8.54574203491211	 ([no.][1][domestic][rivals,][gm][stock][chris][isidore,][cnn / money][senior][writer.])
+v(2 3 4 5 6 7 8 9 10 13): 8.110977172851562	 ([automaker][outpaced][domestic][rivals,][gm][stock][keep][spinning][wheels?][cnn / money])
+v(0 1 2 3 8 9 10 11 12 14 15): 7.062354564666748	 ([no.][1][automaker][outpaced][keep][spinning][wheels?][chris][isidore,][senior][writer.])
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15): 8.551447868347168	 ([no.][1][domestic][rivals,][gm][stock][keep][spinning][wheels?][chris][isidore,][cnn / money][senior][writer.])
+v(0 1 2 3 4 5 6 7 11 12 13 14 15): 8.463051795959473	 ([no.][1][automaker][outpaced][domestic][rivals,][gm][stock][chris][isidore,][cnn / money][senior][writer.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 8.532085418701172	 ([no.][1][automaker][outpaced][domestic][rivals,][gm][stock][keep][spinning][wheels?][chris][isidore,][cnn / money][senior][writer.])
+---------- Rewards-v() ----------
+v(0 1 4 5 6 7 8 9 10 11 12 13 14 15): 12.828741073608398, EP: 1.0015114545822144	 ([no.][1][domestic][rivals,][gm][stock][keep][spinning][wheels?][chris][isidore,][cnn / money][senior][writer.])
+v(0 1 4 5 6 7 11 12 13 14 15): 12.823036193847656, EP: 1.0010660886764526	 ([no.][1][domestic][rivals,][gm][stock][chris][isidore,][cnn / money][senior][writer.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 12.809379577636719, EP: 1.0	 ([no.][1][automaker][outpaced][domestic][rivals,][gm][stock][keep][spinning][wheels?][chris][isidore,][cnn / money][senior][writer.])
+v(0 1 2 3 4 5 6 7 11 12 13 14 15): 12.740345001220703, EP: 0.994610607624054	 ([no.][1][automaker][outpaced][domestic][rivals,][gm][stock][chris][isidore,][cnn / money][senior][writer.])
+v(4 5 6 7 8 9 10 13): 12.537981033325195, EP: 0.9788125157356262	 ([domestic][rivals,][gm][stock][keep][spinning][wheels?][cnn / money])
+v(2 3 4 5 6 7 8 9 10 13): 12.38827133178711, EP: 0.9671249985694885	 ([automaker][outpaced][domestic][rivals,][gm][stock][keep][spinning][wheels?][cnn / money])
+v(2 3 4 5 6 7 13): 12.329416275024414, EP: 0.9625303149223328	 ([automaker][outpaced][domestic][rivals,][gm][stock][cnn / money])
+v(4 5 6 7 13): 12.280534744262695, EP: 0.9587142467498779	 ([domestic][rivals,][gm][stock][cnn / money])
+v(0 1 2 3 8 9 10 11 12 14 15): 11.339648246765137, EP: 0.8852612972259521	 ([no.][1][automaker][outpaced][keep][spinning][wheels?][chris][isidore,][senior][writer.])
+v(2 3 8 9 10): 8.860380172729492, EP: 0.691710352897644	 ([automaker][outpaced][keep][spinning][wheels?])
+v(0 1 2 3 11 12 14 15): 4.421050071716309, EP: 0.34514161944389343	 ([no.][1][automaker][outpaced][chris][isidore,][senior][writer.])
+v(8 9 10): -4.0014729499816895, EP: -0.312386155128479	 ([keep][spinning][wheels?])
+v(0 1 8 9 10 11 12 14 15): -1.220268726348877, EP: -0.09526368975639343	 ([no.][1][keep][spinning][wheels?][chris][isidore,][senior][writer.])
+v(0 1 11 12 14 15): -0.43052196502685547, EP: -0.03360990062355995	 ([no.][1][chris][isidore,][senior][writer.])
+v(2 3): 0.16866588592529297, EP: 0.013167373836040497	 ([automaker][outpaced])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

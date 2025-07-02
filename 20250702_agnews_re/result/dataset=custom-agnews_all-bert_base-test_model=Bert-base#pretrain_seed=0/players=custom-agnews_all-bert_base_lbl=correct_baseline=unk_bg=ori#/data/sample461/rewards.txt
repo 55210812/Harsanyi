@@ -1,0 +1,63 @@
+---------- Players ----------
+Player 0: london
+Player 1: ( afp )
+Player 2: -
+Player 3: euro
+Player 4: drifted
+Player 5: back
+Player 6: another
+Player 7: all - time
+Player 8: high
+Player 9: dollar
+Player 10: dealers
+Player 11: booked
+Player 12: profits
+Player 13: following
+Player 14: sharp
+Player 15: appreciation
+Player 16: currency
+Player 17: wake
+Player 18: comments
+Player 19: european
+Player 20: central
+Player 21: bank
+Player 22: president
+Player 23: jean - claude
+Player 24: trichet
+Player 25: weak
+Player 26: us
+---------- Rewards ----------
+v(): -5.465132713317871	 ([])
+v(3 9 12 16): 4.017517566680908	 ([euro][dollar][profits][currency])
+v(0 1 20 21 22): 1.1707477569580078	 ([london][( afp )][central][bank][president])
+v(4 5 6 7 8 10 11 13 14 15 17 18 19): 4.853302955627441	 ([drifted][back][another][all - time][high][dealers][booked][following][sharp][appreciation][wake][comments][european])
+v(2 23 24 25 26): -2.8081228733062744	 ([-][jean - claude][trichet][weak][us])
+v(0 1 3 9 12 16 20 21 22): 3.3163602352142334	 ([london][( afp )][euro][dollar][profits][currency][central][bank][president])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 4.088248252868652	 ([euro][drifted][back][another][all - time][high][dollar][dealers][booked][profits][following][sharp][appreciation][currency][wake][comments][european])
+v(2 3 9 12 16 23 24 25 26): 6.496893882751465	 ([-][euro][dollar][profits][currency][jean - claude][trichet][weak][us])
+v(0 1 4 5 6 7 8 10 11 13 14 15 17 18 19 20 21 22): 2.144227981567383	 ([london][( afp )][drifted][back][another][all - time][high][dealers][booked][following][sharp][appreciation][wake][comments][european][central][bank][president])
+v(0 1 2 20 21 22 23 24 25 26): 4.637458324432373	 ([london][( afp )][-][central][bank][president][jean - claude][trichet][weak][us])
+v(2 4 5 6 7 8 10 11 13 14 15 17 18 19 23 24 25 26): 5.8104143142700195	 ([-][drifted][back][another][all - time][high][dealers][booked][following][sharp][appreciation][wake][comments][european][jean - claude][trichet][weak][us])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 1.7297656536102295	 ([london][( afp )][euro][drifted][back][another][all - time][high][dollar][dealers][booked][profits][following][sharp][appreciation][currency][wake][comments][european][central][bank][president])
+v(0 1 2 3 9 12 16 20 21 22 23 24 25 26): 6.150420188903809	 ([london][( afp )][-][euro][dollar][profits][currency][central][bank][president][jean - claude][trichet][weak][us])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 23 24 25 26): 4.728419780731201	 ([-][euro][drifted][back][another][all - time][high][dollar][dealers][booked][profits][following][sharp][appreciation][currency][wake][comments][european][jean - claude][trichet][weak][us])
+v(0 1 2 4 5 6 7 8 10 11 13 14 15 17 18 19 20 21 22 23 24 25 26): 6.979866981506348	 ([london][( afp )][-][drifted][back][another][all - time][high][dealers][booked][following][sharp][appreciation][wake][comments][european][central][bank][president][jean - claude][trichet][weak][us])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 6.335481643676758	 ([london][( afp )][-][euro][drifted][back][another][all - time][high][dollar][dealers][booked][profits][following][sharp][appreciation][currency][wake][comments][european][central][bank][president][jean - claude][trichet][weak][us])
+---------- Rewards-v() ----------
+v(0 1 2 4 5 6 7 8 10 11 13 14 15 17 18 19 20 21 22 23 24 25 26): 12.444999694824219, EP: 1.0546060800552368	 ([london][( afp )][-][drifted][back][another][all - time][high][dealers][booked][following][sharp][appreciation][wake][comments][european][central][bank][president][jean - claude][trichet][weak][us])
+v(2 3 9 12 16 23 24 25 26): 11.962026596069336, EP: 1.0136783123016357	 ([-][euro][dollar][profits][currency][jean - claude][trichet][weak][us])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 11.800614356994629, EP: 1.0	 ([london][( afp )][-][euro][drifted][back][another][all - time][high][dollar][dealers][booked][profits][following][sharp][appreciation][currency][wake][comments][european][central][bank][president][jean - claude][trichet][weak][us])
+v(0 1 2 3 9 12 16 20 21 22 23 24 25 26): 11.61555290222168, EP: 0.9843176603317261	 ([london][( afp )][-][euro][dollar][profits][currency][central][bank][president][jean - claude][trichet][weak][us])
+v(2 4 5 6 7 8 10 11 13 14 15 17 18 19 23 24 25 26): 11.27554702758789, EP: 0.9555050730705261	 ([-][drifted][back][another][all - time][high][dealers][booked][following][sharp][appreciation][wake][comments][european][jean - claude][trichet][weak][us])
+v(4 5 6 7 8 10 11 13 14 15 17 18 19): 10.318435668945312, EP: 0.8743981719017029	 ([drifted][back][another][all - time][high][dealers][booked][following][sharp][appreciation][wake][comments][european])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 23 24 25 26): 10.193552017211914, EP: 0.8638153672218323	 ([-][euro][drifted][back][another][all - time][high][dollar][dealers][booked][profits][following][sharp][appreciation][currency][wake][comments][european][jean - claude][trichet][weak][us])
+v(0 1 2 20 21 22 23 24 25 26): 10.102590560913086, EP: 0.8561071753501892	 ([london][( afp )][-][central][bank][president][jean - claude][trichet][weak][us])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.553380966186523, EP: 0.8095663785934448	 ([euro][drifted][back][another][all - time][high][dollar][dealers][booked][profits][following][sharp][appreciation][currency][wake][comments][european])
+v(3 9 12 16): 9.482650756835938, EP: 0.8035726547241211	 ([euro][dollar][profits][currency])
+v(0 1 3 9 12 16 20 21 22): 8.781493186950684, EP: 0.7441555857658386	 ([london][( afp )][euro][dollar][profits][currency][central][bank][president])
+v(0 1 4 5 6 7 8 10 11 13 14 15 17 18 19 20 21 22): 7.609360694885254, EP: 0.6448274850845337	 ([london][( afp )][drifted][back][another][all - time][high][dealers][booked][following][sharp][appreciation][wake][comments][european][central][bank][president])
+v(0 1 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.19489860534668, EP: 0.6097054481506348	 ([london][( afp )][euro][drifted][back][another][all - time][high][dollar][dealers][booked][profits][following][sharp][appreciation][currency][wake][comments][european][central][bank][president])
+v(0 1 20 21 22): 6.635880470275879, EP: 0.5623334646224976	 ([london][( afp )][central][bank][president])
+v(2 23 24 25 26): 2.6570098400115967, EP: 0.22515860199928284	 ([-][jean - claude][trichet][weak][us])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

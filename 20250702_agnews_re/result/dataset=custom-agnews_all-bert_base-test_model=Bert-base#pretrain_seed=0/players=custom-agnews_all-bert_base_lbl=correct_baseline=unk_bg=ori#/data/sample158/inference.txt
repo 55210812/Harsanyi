@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 19:21:14
+prompt: [CLS] reuters - israel's high court said on thursday \ it was upholding a decision by the country's attorney - general \ to drop a bribery case against prime minister ariel sharon. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26665 decoded_text: reuters
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:3956 decoded_text: israel
+idx:4 input_id:1005 decoded_text: '
+idx:5 input_id:1055 decoded_text: s
+idx:6 input_id:2152 decoded_text: high
+idx:7 input_id:2457 decoded_text: court
+idx:8 input_id:2056 decoded_text: said
+idx:9 input_id:2006 decoded_text: on
+idx:10 input_id:9432 decoded_text: thursday
+idx:11 input_id:1032 decoded_text: \
+idx:12 input_id:2009 decoded_text: it
+idx:13 input_id:2001 decoded_text: was
+idx:14 input_id:27329 decoded_text: uphold
+idx:15 input_id:2075 decoded_text: ##ing
+idx:16 input_id:1037 decoded_text: a
+idx:17 input_id:3247 decoded_text: decision
+idx:18 input_id:2011 decoded_text: by
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:2406 decoded_text: country
+idx:21 input_id:1005 decoded_text: '
+idx:22 input_id:1055 decoded_text: s
+idx:23 input_id:4905 decoded_text: attorney
+idx:24 input_id:1011 decoded_text: -
+idx:25 input_id:2236 decoded_text: general
+idx:26 input_id:1032 decoded_text: \
+idx:27 input_id:2000 decoded_text: to
+idx:28 input_id:4530 decoded_text: drop
+idx:29 input_id:1037 decoded_text: a
+idx:30 input_id:27748 decoded_text: bribery
+idx:31 input_id:2553 decoded_text: case
+idx:32 input_id:2114 decoded_text: against
+idx:33 input_id:3539 decoded_text: prime
+idx:34 input_id:2704 decoded_text: minister
+idx:35 input_id:16126 decoded_text: ariel
+idx:36 input_id:10666 decoded_text: sharon
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.322144031524658, -1.9019804000854492, -2.250051736831665, -2.818164110183716]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

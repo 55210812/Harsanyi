@@ -1,0 +1,59 @@
+---------- Players ----------
+Player 0: geneva
+Player 1: -
+Player 2: world
+Player 3: health
+Player 4: organization
+Player 5: says
+Player 6: since
+Player 7: march,
+Player 8: least
+Player 9: 70, 000
+Player 10: people
+Player 11: sudan
+Player 12: # 39 ; s
+Player 13: western
+Player 14: darfur
+Player 15: province
+Player 16: died
+Player 17: poor
+Player 18: conditions
+Player 19: camps
+Player 20: internally
+Player 21: displaced
+Player 22: people.
+---------- Rewards ----------
+v(): -7.163110733032227	 ([])
+v(20 21 22): 6.854691505432129	 ([internally][displaced][people.])
+v(0 1 10 11 12 13 14 15 17 18 19): 7.149245262145996	 ([geneva][-][people][sudan][# 39 ; s][western][darfur][province][poor][conditions][camps])
+v(2 3 4 9): 1.005110740661621	 ([world][health][organization][70, 000])
+v(5 6 7 8 16): -8.209208488464355	 ([says][since][march,][least][died])
+v(0 1 10 11 12 13 14 15 17 18 19 20 21 22): 7.631834506988525	 ([geneva][-][people][sudan][# 39 ; s][western][darfur][province][poor][conditions][camps][internally][displaced][people.])
+v(2 3 4 9 20 21 22): 3.738502025604248	 ([world][health][organization][70, 000][internally][displaced][people.])
+v(5 6 7 8 16 20 21 22): 7.707594871520996	 ([says][since][march,][least][died][internally][displaced][people.])
+v(0 1 2 3 4 9 10 11 12 13 14 15 17 18 19): 7.682432651519775	 ([geneva][-][world][health][organization][70, 000][people][sudan][# 39 ; s][western][darfur][province][poor][conditions][camps])
+v(0 1 5 6 7 8 10 11 12 13 14 15 16 17 18 19): 7.307072162628174	 ([geneva][-][says][since][march,][least][people][sudan][# 39 ; s][western][darfur][province][died][poor][conditions][camps])
+v(2 3 4 5 6 7 8 9 16): 0.20186114311218262	 ([world][health][organization][says][since][march,][least][70, 000][died])
+v(0 1 2 3 4 9 10 11 12 13 14 15 17 18 19 20 21 22): 7.2410688400268555	 ([geneva][-][world][health][organization][70, 000][people][sudan][# 39 ; s][western][darfur][province][poor][conditions][camps][internally][displaced][people.])
+v(0 1 5 6 7 8 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.77452278137207	 ([geneva][-][says][since][march,][least][people][sudan][# 39 ; s][western][darfur][province][died][poor][conditions][camps][internally][displaced][people.])
+v(2 3 4 5 6 7 8 9 16 20 21 22): 3.967972755432129	 ([world][health][organization][says][since][march,][least][70, 000][died][internally][displaced][people.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.08601188659668	 ([geneva][-][world][health][organization][says][since][march,][least][70, 000][people][sudan][# 39 ; s][western][darfur][province][died][poor][conditions][camps])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.131592750549316	 ([geneva][-][world][health][organization][says][since][march,][least][70, 000][people][sudan][# 39 ; s][western][darfur][province][died][poor][conditions][camps][internally][displaced][people.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 15.294703483581543, EP: 1.0	 ([geneva][-][world][health][organization][says][since][march,][least][70, 000][people][sudan][# 39 ; s][western][darfur][province][died][poor][conditions][camps][internally][displaced][people.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 15.249122619628906, EP: 0.9970198273658752	 ([geneva][-][world][health][organization][says][since][march,][least][70, 000][people][sudan][# 39 ; s][western][darfur][province][died][poor][conditions][camps])
+v(0 1 5 6 7 8 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.937633514404297, EP: 0.9766539931297302	 ([geneva][-][says][since][march,][least][people][sudan][# 39 ; s][western][darfur][province][died][poor][conditions][camps][internally][displaced][people.])
+v(5 6 7 8 16 20 21 22): 14.870705604553223, EP: 0.9722781181335449	 ([says][since][march,][least][died][internally][displaced][people.])
+v(0 1 2 3 4 9 10 11 12 13 14 15 17 18 19): 14.845542907714844, EP: 0.9706329107284546	 ([geneva][-][world][health][organization][70, 000][people][sudan][# 39 ; s][western][darfur][province][poor][conditions][camps])
+v(0 1 10 11 12 13 14 15 17 18 19 20 21 22): 14.794944763183594, EP: 0.9673247337341309	 ([geneva][-][people][sudan][# 39 ; s][western][darfur][province][poor][conditions][camps][internally][displaced][people.])
+v(0 1 5 6 7 8 10 11 12 13 14 15 16 17 18 19): 14.470182418823242, EP: 0.9460910558700562	 ([geneva][-][says][since][march,][least][people][sudan][# 39 ; s][western][darfur][province][died][poor][conditions][camps])
+v(0 1 2 3 4 9 10 11 12 13 14 15 17 18 19 20 21 22): 14.404179573059082, EP: 0.9417756795883179	 ([geneva][-][world][health][organization][70, 000][people][sudan][# 39 ; s][western][darfur][province][poor][conditions][camps][internally][displaced][people.])
+v(0 1 10 11 12 13 14 15 17 18 19): 14.312355995178223, EP: 0.9357720613479614	 ([geneva][-][people][sudan][# 39 ; s][western][darfur][province][poor][conditions][camps])
+v(20 21 22): 14.017802238464355, EP: 0.9165135025978088	 ([internally][displaced][people.])
+v(2 3 4 5 6 7 8 9 16 20 21 22): 11.131083488464355, EP: 0.7277737259864807	 ([world][health][organization][says][since][march,][least][70, 000][died][internally][displaced][people.])
+v(2 3 4 9 20 21 22): 10.901613235473633, EP: 0.7127704620361328	 ([world][health][organization][70, 000][internally][displaced][people.])
+v(2 3 4 9): 8.168221473693848, EP: 0.5340555906295776	 ([world][health][organization][70, 000])
+v(2 3 4 5 6 7 8 9 16): 7.364972114562988, EP: 0.48153743147850037	 ([world][health][organization][says][since][march,][least][70, 000][died])
+v(5 6 7 8 16): -1.046097755432129, EP: -0.06839607656002045	 ([says][since][march,][least][died])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

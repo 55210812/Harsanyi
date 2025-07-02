@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: lucent
+Player 3: technologies
+Player 4: inc.
+Player 5: signed
+Player 6: four - year
+Player 7: agreement
+Player 8: supply
+Player 9: equipment
+Player 10: cingular
+Player 11: wireless '
+Player 12: rollout
+Player 13: nationwide
+Player 14: 3g
+Player 15: high - speed
+Player 16: wireless
+Player 17: data
+Player 18: system.
+---------- Rewards ----------
+v(): -2.685560703277588	 ([])
+v(0 3 9 11 12 14 15 16 18): 7.562540531158447	 ([ap][technologies][equipment][wireless '][rollout][3g][high - speed][wireless][system.])
+v(1 2 4 5 6 7 8 10 13 17): -5.420558452606201	 ([-][lucent][inc.][signed][four - year][agreement][supply][cingular][nationwide][data])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 3.908889055252075	 ([ap][-][lucent][technologies][inc.][signed][four - year][agreement][supply][equipment][cingular][wireless '][rollout][nationwide][3g][high - speed][wireless][data][system.])
+---------- Rewards-v() ----------
+v(0 3 9 11 12 14 15 16 18): 10.248101234436035, EP: 1.5540493726730347	 ([ap][technologies][equipment][wireless '][rollout][3g][high - speed][wireless][system.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 6.594449996948242, EP: 1.0	 ([ap][-][lucent][technologies][inc.][signed][four - year][agreement][supply][equipment][cingular][wireless '][rollout][nationwide][3g][high - speed][wireless][data][system.])
+v(1 2 4 5 6 7 8 10 13 17): -2.7349977493286133, EP: -0.4147423505783081	 ([-][lucent][inc.][signed][four - year][agreement][supply][cingular][nationwide][data])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

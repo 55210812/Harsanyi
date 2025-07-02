@@ -1,0 +1,50 @@
+---------- Players ----------
+Player 0: off - season
+Player 1: landscape
+Player 2: changed
+Player 3: bit
+Player 4: friday,
+Player 5: first
+Player 6: day
+Player 7: teams
+Player 8: allowed
+Player 9: present
+Player 10: offers
+Player 11: free
+Player 12: agents
+Player 13: clubs.
+---------- Rewards ----------
+v(): -4.947608947753906	 ([])
+v(3 7 10 13): 5.965140342712402	 ([bit][teams][offers][clubs.])
+v(0 1 2 9): -0.8742120265960693	 ([off - season][landscape][changed][present])
+v(4 8 11 12): 8.30406379699707	 ([friday,][allowed][free][agents])
+v(5 6): -5.515836715698242	 ([first][day])
+v(0 1 2 3 7 9 10 13): 8.3153657913208	 ([off - season][landscape][changed][bit][teams][present][offers][clubs.])
+v(3 4 7 8 10 11 12 13): 9.676456451416016	 ([bit][friday,][teams][allowed][offers][free][agents][clubs.])
+v(3 5 6 7 10 13): 5.188470840454102	 ([bit][first][day][teams][offers][clubs.])
+v(0 1 2 4 8 9 11 12): 9.565195083618164	 ([off - season][landscape][changed][friday,][allowed][present][free][agents])
+v(0 1 2 5 6 9): -0.7561103105545044	 ([off - season][landscape][changed][first][day][present])
+v(4 5 6 8 11 12): 8.054204940795898	 ([friday,][first][day][allowed][free][agents])
+v(0 1 2 3 4 7 8 9 10 11 12 13): 9.68952465057373	 ([off - season][landscape][changed][bit][friday,][teams][allowed][present][offers][free][agents][clubs.])
+v(0 1 2 3 5 6 7 9 10 13): 7.937906265258789	 ([off - season][landscape][changed][bit][first][day][teams][present][offers][clubs.])
+v(3 4 5 6 7 8 10 11 12 13): 9.352127075195312	 ([bit][friday,][first][day][teams][allowed][offers][free][agents][clubs.])
+v(0 1 2 4 5 6 8 9 11 12): 9.37845230102539	 ([off - season][landscape][changed][friday,][first][day][allowed][present][free][agents])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 9.497735023498535	 ([off - season][landscape][changed][bit][friday,][first][day][teams][allowed][present][offers][free][agents][clubs.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 7 8 9 10 11 12 13): 14.637133598327637, EP: 1.0132769346237183	 ([off - season][landscape][changed][bit][friday,][teams][allowed][present][offers][free][agents][clubs.])
+v(3 4 7 8 10 11 12 13): 14.624065399169922, EP: 1.0123722553253174	 ([bit][friday,][teams][allowed][offers][free][agents][clubs.])
+v(0 1 2 4 8 9 11 12): 14.51280403137207, EP: 1.0046700239181519	 ([off - season][landscape][changed][friday,][allowed][present][free][agents])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 14.445343971252441, EP: 1.0	 ([off - season][landscape][changed][bit][friday,][first][day][teams][allowed][present][offers][free][agents][clubs.])
+v(0 1 2 4 5 6 8 9 11 12): 14.326061248779297, EP: 0.9917424917221069	 ([off - season][landscape][changed][friday,][first][day][allowed][present][free][agents])
+v(3 4 5 6 7 8 10 11 12 13): 14.299736022949219, EP: 0.9899200797080994	 ([bit][friday,][first][day][teams][allowed][offers][free][agents][clubs.])
+v(0 1 2 3 7 9 10 13): 13.262974739074707, EP: 0.9181487560272217	 ([off - season][landscape][changed][bit][teams][present][offers][clubs.])
+v(4 8 11 12): 13.251672744750977, EP: 0.9173663854598999	 ([friday,][allowed][free][agents])
+v(4 5 6 8 11 12): 13.001813888549805, EP: 0.900069534778595	 ([friday,][first][day][allowed][free][agents])
+v(0 1 2 3 5 6 7 9 10 13): 12.885515213012695, EP: 0.8920185565948486	 ([off - season][landscape][changed][bit][first][day][teams][present][offers][clubs.])
+v(3 7 10 13): 10.912749290466309, EP: 0.755450963973999	 ([bit][teams][offers][clubs.])
+v(3 5 6 7 10 13): 10.136079788208008, EP: 0.7016848921775818	 ([bit][first][day][teams][offers][clubs.])
+v(0 1 2 5 6 9): 4.191498756408691, EP: 0.2901626229286194	 ([off - season][landscape][changed][first][day][present])
+v(0 1 2 9): 4.073396682739258, EP: 0.2819868326187134	 ([off - season][landscape][changed][present])
+v(5 6): -0.5682277679443359, EP: -0.039336394518613815	 ([first][day])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: cendant
+Player 1: corporation,
+Player 2: travel
+Player 3: property
+Player 4: services
+Player 5: company
+Player 6: owns
+Player 7: avis
+Player 8: budget,
+Player 9: talks
+Player 10: acquire
+Player 11: orbitz. com,
+Player 12: online
+Player 13: travel
+Player 14: company,
+Player 15: deal
+Player 16: valued
+Player 17: around
+Player 18: \ $ 1
+Player 19: billion.
+---------- Rewards ----------
+v(): -4.4698896408081055	 ([])
+v(0 1 5 6 8 12 14 15 18 19): 5.612251281738281	 ([cendant][corporation,][company][owns][budget,][online][company,][deal][\ $ 1][billion.])
+v(2 3 7 9 10): -3.440258502960205	 ([travel][property][avis][talks][acquire])
+v(4 11 13 16 17): 4.6805500984191895	 ([services][orbitz. com,][travel][valued][around])
+v(0 1 2 3 5 6 7 8 9 10 12 14 15 18 19): 4.981317520141602	 ([cendant][corporation,][travel][property][company][owns][avis][budget,][talks][acquire][online][company,][deal][\ $ 1][billion.])
+v(0 1 4 5 6 8 11 12 13 14 15 16 17 18 19): 6.804194927215576	 ([cendant][corporation,][services][company][owns][budget,][orbitz. com,][online][travel][company,][deal][valued][around][\ $ 1][billion.])
+v(2 3 4 7 9 10 11 13 16 17): 7.097873687744141	 ([travel][property][services][avis][talks][acquire][orbitz. com,][travel][valued][around])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.008134365081787	 ([cendant][corporation,][travel][property][services][company][owns][avis][budget,][talks][acquire][orbitz. com,][online][travel][company,][deal][valued][around][\ $ 1][billion.])
+---------- Rewards-v() ----------
+v(2 3 4 7 9 10 11 13 16 17): 11.567763328552246, EP: 1.0078184604644775	 ([travel][property][services][avis][talks][acquire][orbitz. com,][travel][valued][around])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 11.478023529052734, EP: 1.0	 ([cendant][corporation,][travel][property][services][company][owns][avis][budget,][talks][acquire][orbitz. com,][online][travel][company,][deal][valued][around][\ $ 1][billion.])
+v(0 1 4 5 6 8 11 12 13 14 15 16 17 18 19): 11.274084091186523, EP: 0.9822321534156799	 ([cendant][corporation,][services][company][owns][budget,][orbitz. com,][online][travel][company,][deal][valued][around][\ $ 1][billion.])
+v(0 1 5 6 8 12 14 15 18 19): 10.082140922546387, EP: 0.8783864974975586	 ([cendant][corporation,][company][owns][budget,][online][company,][deal][\ $ 1][billion.])
+v(0 1 2 3 5 6 7 8 9 10 12 14 15 18 19): 9.451207160949707, EP: 0.8234176635742188	 ([cendant][corporation,][travel][property][company][owns][avis][budget,][talks][acquire][online][company,][deal][\ $ 1][billion.])
+v(4 11 13 16 17): 9.150440216064453, EP: 0.7972139120101929	 ([services][orbitz. com,][travel][valued][around])
+v(2 3 7 9 10): 1.0296311378479004, EP: 0.08970456570386887	 ([travel][property][avis][talks][acquire])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

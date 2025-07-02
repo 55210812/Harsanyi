@@ -1,0 +1,62 @@
+---------- Players ----------
+Player 0: mountain
+Player 1: view,
+Player 2: calif.
+Player 3: - - ( business
+Player 4: wire ) - -
+Player 5: oct.
+Player 6: 11,
+Player 7: 2004
+Player 8: - -
+Player 9: mobile
+Player 10: digital
+Player 11: media
+Player 12: ( mdm ),
+Player 13: world
+Player 14: leader
+Player 15: providing
+Player 16: high
+Player 17: quality
+Player 18: consumer
+Player 19: software
+Player 20: mobile
+Player 21: devices,
+Player 22: today
+Player 23: announced
+Player 24: next
+Player 25: generation
+---------- Rewards ----------
+v(): 4.730292320251465	 ([])
+v(1 2 9 10 11 13 14 19 20 25): 0.5141561031341553	 ([view,][calif.][mobile][digital][media][world][leader][software][mobile][generation])
+v(3 4 24): 5.462704658508301	 ([- - ( business][wire ) - -][next])
+v(7 15 21 22 23): 5.553747653961182	 ([2004][providing][devices,][today][announced])
+v(0 5 6 8 12 16 17 18): 2.308746814727783	 ([mountain][oct.][11,][- -][( mdm ),][high][quality][consumer])
+v(1 2 3 4 9 10 11 13 14 19 20 24 25): 0.7211325168609619	 ([view,][calif.][- - ( business][wire ) - -][mobile][digital][media][world][leader][software][mobile][next][generation])
+v(1 2 7 9 10 11 13 14 15 19 20 21 22 23 25): 1.6327581405639648	 ([view,][calif.][2004][mobile][digital][media][world][leader][providing][software][mobile][devices,][today][announced][generation])
+v(0 1 2 5 6 8 9 10 11 12 13 14 16 17 18 19 20 25): 0.8889234066009521	 ([mountain][view,][calif.][oct.][11,][- -][mobile][digital][media][( mdm ),][world][leader][high][quality][consumer][software][mobile][generation])
+v(3 4 7 15 21 22 23 24): 5.855538368225098	 ([- - ( business][wire ) - -][2004][providing][devices,][today][announced][next])
+v(0 3 4 5 6 8 12 16 17 18 24): 5.377068519592285	 ([mountain][- - ( business][wire ) - -][oct.][11,][- -][( mdm ),][high][quality][consumer][next])
+v(0 5 6 7 8 12 15 16 17 18 21 22 23): 6.117471218109131	 ([mountain][oct.][11,][2004][- -][( mdm ),][providing][high][quality][consumer][devices,][today][announced])
+v(1 2 3 4 7 9 10 11 13 14 15 19 20 21 22 23 24 25): 2.2818057537078857	 ([view,][calif.][- - ( business][wire ) - -][2004][mobile][digital][media][world][leader][providing][software][mobile][devices,][today][announced][next][generation])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 14 16 17 18 19 20 24 25): 2.225238561630249	 ([mountain][view,][calif.][- - ( business][wire ) - -][oct.][11,][- -][mobile][digital][media][( mdm ),][world][leader][high][quality][consumer][software][mobile][next][generation])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 25): 0.9446172714233398	 ([mountain][view,][calif.][oct.][11,][2004][- -][mobile][digital][media][( mdm ),][world][leader][providing][high][quality][consumer][software][mobile][devices,][today][announced][generation])
+v(0 3 4 5 6 7 8 12 15 16 17 18 21 22 23 24): 6.283782005310059	 ([mountain][- - ( business][wire ) - -][oct.][11,][2004][- -][( mdm ),][providing][high][quality][consumer][devices,][today][announced][next])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 3.6691107749938965	 ([mountain][view,][calif.][- - ( business][wire ) - -][oct.][11,][2004][- -][mobile][digital][media][( mdm ),][world][leader][providing][high][quality][consumer][software][mobile][devices,][today][announced][next][generation])
+---------- Rewards-v() ----------
+v(1 2 9 10 11 13 14 19 20 25): -4.2161359786987305, EP: 3.9730582237243652	 ([view,][calif.][mobile][digital][media][world][leader][software][mobile][generation])
+v(1 2 3 4 9 10 11 13 14 19 20 24 25): -4.009160041809082, EP: 3.77801513671875	 ([view,][calif.][- - ( business][wire ) - -][mobile][digital][media][world][leader][software][mobile][next][generation])
+v(0 1 2 5 6 8 9 10 11 12 13 14 16 17 18 19 20 25): -3.8413689136505127, EP: 3.6198980808258057	 ([mountain][view,][calif.][oct.][11,][- -][mobile][digital][media][( mdm ),][world][leader][high][quality][consumer][software][mobile][generation])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 25): -3.785675048828125, EP: 3.5674149990081787	 ([mountain][view,][calif.][oct.][11,][2004][- -][mobile][digital][media][( mdm ),][world][leader][providing][high][quality][consumer][software][mobile][devices,][today][announced][generation])
+v(1 2 7 9 10 11 13 14 15 19 20 21 22 23 25): -3.0975341796875, EP: 2.9189484119415283	 ([view,][calif.][2004][mobile][digital][media][world][leader][providing][software][mobile][devices,][today][announced][generation])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 14 16 17 18 19 20 24 25): -2.505053758621216, EP: 2.3606269359588623	 ([mountain][view,][calif.][- - ( business][wire ) - -][oct.][11,][- -][mobile][digital][media][( mdm ),][world][leader][high][quality][consumer][software][mobile][next][generation])
+v(1 2 3 4 7 9 10 11 13 14 15 19 20 21 22 23 24 25): -2.448486566543579, EP: 2.307321071624756	 ([view,][calif.][- - ( business][wire ) - -][2004][mobile][digital][media][world][leader][providing][software][mobile][devices,][today][announced][next][generation])
+v(0 5 6 8 12 16 17 18): -2.4215455055236816, EP: 2.281933307647705	 ([mountain][oct.][11,][- -][( mdm ),][high][quality][consumer])
+v(0 3 4 5 6 7 8 12 15 16 17 18 21 22 23 24): 1.5534896850585938, EP: -1.463924527168274	 ([mountain][- - ( business][wire ) - -][oct.][11,][2004][- -][( mdm ),][providing][high][quality][consumer][devices,][today][announced][next])
+v(0 5 6 7 8 12 15 16 17 18 21 22 23): 1.387178897857666, EP: -1.3072022199630737	 ([mountain][oct.][11,][2004][- -][( mdm ),][providing][high][quality][consumer][devices,][today][announced])
+v(3 4 7 15 21 22 23 24): 1.1252460479736328, EP: -1.060370922088623	 ([- - ( business][wire ) - -][2004][providing][devices,][today][announced][next])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): -1.0611815452575684, EP: 1.0	 ([mountain][view,][calif.][- - ( business][wire ) - -][oct.][11,][2004][- -][mobile][digital][media][( mdm ),][world][leader][providing][high][quality][consumer][software][mobile][devices,][today][announced][next][generation])
+v(7 15 21 22 23): 0.8234553337097168, EP: -0.7759796977043152	 ([2004][providing][devices,][today][announced])
+v(3 4 24): 0.7324123382568359, EP: -0.6901857256889343	 ([- - ( business][wire ) - -][next])
+v(0 3 4 5 6 8 12 16 17 18 24): 0.6467761993408203, EP: -0.6094868779182434	 ([mountain][- - ( business][wire ) - -][oct.][11,][- -][( mdm ),][high][quality][consumer][next])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: first,
+Player 1: georgia
+Player 2: # 39 ; s
+Player 3: education
+Player 4: chief
+Player 5: tried
+Player 6: take
+Player 7: word
+Player 8: quot ; evolution
+Player 9: quot ;
+Player 10: state
+Player 11: # 39 ; s
+Player 12: science
+Player 13: curriculum.
+Player 14: suburban
+Player 15: atlanta
+Player 16: county
+Player 17: federal
+Player 18: court
+Player 19: textbook
+Player 20: stickers
+---------- Rewards ----------
+v(): 3.3130476474761963	 ([])
+v(2 3 11 13 14 15 16 20): 0.37256932258605957	 ([# 39 ; s][education][# 39 ; s][curriculum.][suburban][atlanta][county][stickers])
+v(0 1 4 5 6 7 8 9 10 12 17 18 19): 7.498525619506836	 ([first,][georgia][chief][tried][take][word][quot ; evolution][quot ;][state][science][federal][court][textbook])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.337285995483398	 ([first,][georgia][# 39 ; s][education][chief][tried][take][word][quot ; evolution][quot ;][state][# 39 ; s][science][curriculum.][suburban][atlanta][county][federal][court][textbook][stickers])
+---------- Rewards-v() ----------
+v(0 1 4 5 6 7 8 9 10 12 17 18 19): 4.185478210449219, EP: 1.0400670766830444	 ([first,][georgia][chief][tried][take][word][quot ; evolution][quot ;][state][science][federal][court][textbook])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 4.024238586425781, EP: 1.0	 ([first,][georgia][# 39 ; s][education][chief][tried][take][word][quot ; evolution][quot ;][state][# 39 ; s][science][curriculum.][suburban][atlanta][county][federal][court][textbook][stickers])
+v(2 3 11 13 14 15 16 20): -2.9404783248901367, EP: -0.7306918501853943	 ([# 39 ; s][education][# 39 ; s][curriculum.][suburban][atlanta][county][stickers])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

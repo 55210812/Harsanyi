@@ -1,0 +1,30 @@
+---------- Players ----------
+Player 0: experts
+Player 1: sophos
+Player 2: report
+Player 3: virus
+Player 4: currently
+Player 5: accounting
+Player 6: 75
+Player 7: virus
+Player 8: reports
+Player 9: sophos
+Player 10: # 39 ; s
+Player 11: global
+Player 12: network
+Player 13: monitoring
+Player 14: stations
+Player 15: last
+Player 16: 24
+Player 17: hours.
+---------- Rewards ----------
+v(): 5.775373458862305	 ([])
+v(1 3 4 7 9 10 11 13 14): 7.3669352531433105	 ([sophos][virus][currently][virus][sophos][# 39 ; s][global][monitoring][stations])
+v(0 2 5 6 8 12 15 16 17): 7.174231052398682	 ([experts][report][accounting][75][reports][network][last][24][hours.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.286478996276855	 ([experts][sophos][report][virus][currently][accounting][75][virus][reports][sophos][# 39 ; s][global][network][monitoring][stations][last][24][hours.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 2.511105537414551, EP: 1.0	 ([experts][sophos][report][virus][currently][accounting][75][virus][reports][sophos][# 39 ; s][global][network][monitoring][stations][last][24][hours.])
+v(1 3 4 7 9 10 11 13 14): 1.5915617942810059, EP: 0.6338092088699341	 ([sophos][virus][currently][virus][sophos][# 39 ; s][global][monitoring][stations])
+v(0 2 5 6 8 12 15 16 17): 1.398857593536377, EP: 0.557068407535553	 ([experts][report][accounting][75][reports][network][last][24][hours.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

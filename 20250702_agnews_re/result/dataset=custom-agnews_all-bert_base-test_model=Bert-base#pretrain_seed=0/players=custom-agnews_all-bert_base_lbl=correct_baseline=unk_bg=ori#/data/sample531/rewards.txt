@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: battle
+Player 1: microsoft
+Player 2: apple
+Player 3: computer
+Player 4: nascent
+Player 5: digital
+Player 6: media
+Player 7: market
+Player 8: intensifies,
+Player 9: microsoft
+Player 10: # 39 ; s
+Player 11: mac
+Player 12: business
+Player 13: unit
+Player 14: released
+Player 15: significant
+Player 16: update
+Player 17: office
+Player 18: 2004
+Player 19: mac.
+---------- Rewards ----------
+v(): 3.443666934967041	 ([])
+v(0 3 4 5 8 9 13 15 16 18): 5.204474925994873	 ([battle][computer][nascent][digital][intensifies,][microsoft][unit][significant][update][2004])
+v(1 2 6 7 10 11 12 14 17 19): 8.256587028503418	 ([microsoft][apple][media][market][# 39 ; s][mac][business][released][office][mac.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.06342601776123	 ([battle][microsoft][apple][computer][nascent][digital][media][market][intensifies,][microsoft][# 39 ; s][mac][business][unit][released][significant][update][office][2004][mac.])
+---------- Rewards-v() ----------
+v(1 2 6 7 10 11 12 14 17 19): 4.812920093536377, EP: 1.0418119430541992	 ([microsoft][apple][media][market][# 39 ; s][mac][business][released][office][mac.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 4.6197590827941895, EP: 1.0	 ([battle][microsoft][apple][computer][nascent][digital][media][market][intensifies,][microsoft][# 39 ; s][mac][business][unit][released][significant][update][office][2004][mac.])
+v(0 3 4 5 8 9 13 15 16 18): 1.760807991027832, EP: 0.3811471462249756	 ([battle][computer][nascent][digital][intensifies,][microsoft][unit][significant][update][2004])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

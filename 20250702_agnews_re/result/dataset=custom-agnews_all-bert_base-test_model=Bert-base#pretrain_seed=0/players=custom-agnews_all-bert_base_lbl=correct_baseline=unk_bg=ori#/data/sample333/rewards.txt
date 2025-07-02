@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: astronomers
+Player 1: using
+Player 2: telescopes
+Player 3: much
+Player 4: larger
+Player 5: spyglass
+Player 6: galileo
+Player 7: wielded
+Player 8: 400
+Player 9: years
+Player 10: ago
+Player 11: discovered
+Player 12: new
+Player 13: jupiter - sized
+Player 14: planet
+Player 15: orbiting
+Player 16: bright,
+Player 17: distant
+Player 18: star.
+---------- Rewards ----------
+v(): 4.28917121887207	 ([])
+v(0 1 2 4 5 11 13 14 15): 7.94761848449707	 ([astronomers][using][telescopes][larger][spyglass][discovered][jupiter - sized][planet][orbiting])
+v(10 12 18): 1.9143925905227661	 ([ago][new][star.])
+v(3 6 7 8 9 16 17): 7.839549541473389	 ([much][galileo][wielded][400][years][bright,][distant])
+v(0 1 2 4 5 10 11 12 13 14 15 18): 8.038890838623047	 ([astronomers][using][telescopes][larger][spyglass][ago][discovered][new][jupiter - sized][planet][orbiting][star.])
+v(0 1 2 3 4 5 6 7 8 9 11 13 14 15 16 17): 8.136982917785645	 ([astronomers][using][telescopes][much][larger][spyglass][galileo][wielded][400][years][discovered][jupiter - sized][planet][orbiting][bright,][distant])
+v(3 6 7 8 9 10 12 16 17 18): 7.066964626312256	 ([much][galileo][wielded][400][years][ago][new][bright,][distant][star.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 4.398419380187988	 ([astronomers][using][telescopes][much][larger][spyglass][galileo][wielded][400][years][ago][discovered][new][jupiter - sized][planet][orbiting][bright,][distant][star.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 11 13 14 15 16 17): 3.847811698913574, EP: 35.2208366394043	 ([astronomers][using][telescopes][much][larger][spyglass][galileo][wielded][400][years][discovered][jupiter - sized][planet][orbiting][bright,][distant])
+v(0 1 2 4 5 10 11 12 13 14 15 18): 3.7497196197509766, EP: 34.32295227050781	 ([astronomers][using][telescopes][larger][spyglass][ago][discovered][new][jupiter - sized][planet][orbiting][star.])
+v(0 1 2 4 5 11 13 14 15): 3.658447265625, EP: 33.48749542236328	 ([astronomers][using][telescopes][larger][spyglass][discovered][jupiter - sized][planet][orbiting])
+v(3 6 7 8 9 16 17): 3.5503783226013184, EP: 32.498287200927734	 ([much][galileo][wielded][400][years][bright,][distant])
+v(3 6 7 8 9 10 12 16 17 18): 2.7777934074401855, EP: 25.426454544067383	 ([much][galileo][wielded][400][years][ago][new][bright,][distant][star.])
+v(10 12 18): -2.3747787475585938, EP: -21.737470626831055	 ([ago][new][star.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 0.10924816131591797, EP: 1.0	 ([astronomers][using][telescopes][much][larger][spyglass][galileo][wielded][400][years][ago][discovered][new][jupiter - sized][planet][orbiting][bright,][distant][star.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

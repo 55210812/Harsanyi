@@ -1,0 +1,24 @@
+---------- Players ----------
+Player 0: chip
+Player 1: giant
+Player 2: says
+Player 3: move
+Player 4: new
+Player 5: design
+Player 6: next
+Player 7: year,
+Player 8: leaves
+Player 9: many
+Player 10: questions
+Player 11: unanswered.
+---------- Rewards ----------
+v(): 7.01606559753418	 ([])
+v(1 7 9 10 11): 7.263599395751953	 ([giant][year,][many][questions][unanswered.])
+v(0 2 3 4 5 6 8): 6.832457065582275	 ([chip][says][move][new][design][next][leaves])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 6.729175567626953	 ([chip][giant][says][move][new][design][next][year,][leaves][many][questions][unanswered.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11): -0.28689002990722656, EP: 1.0	 ([chip][giant][says][move][new][design][next][year,][leaves][many][questions][unanswered.])
+v(1 7 9 10 11): 0.24753379821777344, EP: -0.8628177046775818	 ([giant][year,][many][questions][unanswered.])
+v(0 2 3 4 5 6 8): -0.1836085319519043, EP: 0.6399962306022644	 ([chip][says][move][new][design][next][leaves])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

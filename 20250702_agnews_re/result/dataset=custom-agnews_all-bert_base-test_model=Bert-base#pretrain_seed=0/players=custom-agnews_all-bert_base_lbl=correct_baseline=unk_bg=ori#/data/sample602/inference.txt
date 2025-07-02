@@ -1,0 +1,39 @@
+Execution time: 2025-07-02 19:32:07
+prompt: [CLS] the new york jets found a winning combination saturday night - - a near - perfect game from chad pennington and an opportunistic defense. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2047 decoded_text: new
+idx:3 input_id:2259 decoded_text: york
+idx:4 input_id:9924 decoded_text: jets
+idx:5 input_id:2179 decoded_text: found
+idx:6 input_id:1037 decoded_text: a
+idx:7 input_id:3045 decoded_text: winning
+idx:8 input_id:5257 decoded_text: combination
+idx:9 input_id:5095 decoded_text: saturday
+idx:10 input_id:2305 decoded_text: night
+idx:11 input_id:1011 decoded_text: -
+idx:12 input_id:1011 decoded_text: -
+idx:13 input_id:1037 decoded_text: a
+idx:14 input_id:2379 decoded_text: near
+idx:15 input_id:1011 decoded_text: -
+idx:16 input_id:3819 decoded_text: perfect
+idx:17 input_id:2208 decoded_text: game
+idx:18 input_id:2013 decoded_text: from
+idx:19 input_id:9796 decoded_text: chad
+idx:20 input_id:9502 decoded_text: penn
+idx:21 input_id:7853 decoded_text: ##ington
+idx:22 input_id:1998 decoded_text: and
+idx:23 input_id:2019 decoded_text: an
+idx:24 input_id:6728 decoded_text: op
+idx:25 input_id:6442 decoded_text: ##port
+idx:26 input_id:19496 decoded_text: ##uni
+idx:27 input_id:10074 decoded_text: ##stic
+idx:28 input_id:3639 decoded_text: defense
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.532593011856079, 8.494233131408691, -2.5183122158050537, -2.957411527633667]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

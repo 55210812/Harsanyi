@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: santander
+Player 1: central
+Player 2: hispano's
+Player 3: 8. 6bn
+Player 4: ( \ $ 15. 3bn )
+Player 5: bid
+Player 6: uk
+Player 7: lender
+Player 8: abbey
+Player 9: help
+Player 10: create
+Player 11: single
+Player 12: regional
+Player 13: financial
+Player 14: market,
+Player 15: european
+Player 16: union's
+Player 17: mario
+Player 18: monti
+Player 19: says.
+---------- Rewards ----------
+v(): 0.14927566051483154	 ([])
+v(1 2 3 12 15 16 17): -4.074182987213135	 ([central][hispano's][8. 6bn][regional][european][union's][mario])
+v(0 4 5 6 7 8 9 10 11 13 14 18 19): 7.1415557861328125	 ([santander][( \ $ 15. 3bn )][bid][uk][lender][abbey][help][create][single][financial][market,][monti][says.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 4.221639633178711	 ([santander][central][hispano's][8. 6bn][( \ $ 15. 3bn )][bid][uk][lender][abbey][help][create][single][regional][financial][market,][european][union's][mario][monti][says.])
+---------- Rewards-v() ----------
+v(0 4 5 6 7 8 9 10 11 13 14 18 19): 6.992280006408691, EP: 1.7170076370239258	 ([santander][( \ $ 15. 3bn )][bid][uk][lender][abbey][help][create][single][financial][market,][monti][says.])
+v(1 2 3 12 15 16 17): -4.223458766937256, EP: -1.037102460861206	 ([central][hispano's][8. 6bn][regional][european][union's][mario])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 4.07236385345459, EP: 1.0	 ([santander][central][hispano's][8. 6bn][( \ $ 15. 3bn )][bid][uk][lender][abbey][help][create][single][regional][financial][market,][european][union's][mario][monti][says.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

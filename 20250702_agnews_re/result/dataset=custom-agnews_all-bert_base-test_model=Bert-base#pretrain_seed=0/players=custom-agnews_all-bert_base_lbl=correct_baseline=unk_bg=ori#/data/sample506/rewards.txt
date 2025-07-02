@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: sooner
+Player 1: weve
+Player 2: got
+Player 3: used
+Player 4: idea
+Player 5: 3g
+Player 6: services
+Player 7: uk,
+Player 8: mm02
+Player 9: teamed
+Player 10: ntt
+Player 11: docomo
+Player 12: allow
+Player 13: 02
+Player 14: launch
+Player 15: i - mode
+Player 16: internet
+Player 17: service
+Player 18: britain,
+Player 19: germany
+Player 20: ireland.
+---------- Rewards ----------
+v(): 2.5553386211395264	 ([])
+v(6 7 9 10 13 14 17 18 19): 4.451251029968262	 ([services][uk,][teamed][ntt][02][launch][service][britain,][germany])
+v(3 4 5 8 11 12 15 16): 6.410536289215088	 ([used][idea][3g][mm02][docomo][allow][i - mode][internet])
+v(0 1 2 20): -0.4415416717529297	 ([sooner][weve][got][ireland.])
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.827228546142578	 ([used][idea][3g][services][uk,][mm02][teamed][ntt][docomo][allow][02][launch][i - mode][internet][service][britain,][germany])
+v(0 1 2 6 7 9 10 13 14 17 18 19 20): 5.251030921936035	 ([sooner][weve][got][services][uk,][teamed][ntt][02][launch][service][britain,][germany][ireland.])
+v(0 1 2 3 4 5 8 11 12 15 16 20): 6.895245552062988	 ([sooner][weve][got][used][idea][3g][mm02][docomo][allow][i - mode][internet][ireland.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.503943920135498	 ([sooner][weve][got][used][idea][3g][services][uk,][mm02][teamed][ntt][docomo][allow][02][launch][i - mode][internet][service][britain,][germany][ireland.])
+---------- Rewards-v() ----------
+v(3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 5.271889686584473, EP: 1.0653283596038818	 ([used][idea][3g][services][uk,][mm02][teamed][ntt][docomo][allow][02][launch][i - mode][internet][service][britain,][germany])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 4.948605537414551, EP: 1.0	 ([sooner][weve][got][used][idea][3g][services][uk,][mm02][teamed][ntt][docomo][allow][02][launch][i - mode][internet][service][britain,][germany][ireland.])
+v(0 1 2 3 4 5 8 11 12 15 16 20): 4.339906692504883, EP: 0.876995861530304	 ([sooner][weve][got][used][idea][3g][mm02][docomo][allow][i - mode][internet][ireland.])
+v(3 4 5 8 11 12 15 16): 3.8551976680755615, EP: 0.7790472507476807	 ([used][idea][3g][mm02][docomo][allow][i - mode][internet])
+v(0 1 2 20): -2.996880292892456, EP: -0.6056009531021118	 ([sooner][weve][got][ireland.])
+v(0 1 2 6 7 9 10 13 14 17 18 19 20): 2.695692300796509, EP: 0.5447377562522888	 ([sooner][weve][got][services][uk,][teamed][ntt][02][launch][service][britain,][germany][ireland.])
+v(6 7 9 10 13 14 17 18 19): 1.8959124088287354, EP: 0.3831205368041992	 ([services][uk,][teamed][ntt][02][launch][service][britain,][germany])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

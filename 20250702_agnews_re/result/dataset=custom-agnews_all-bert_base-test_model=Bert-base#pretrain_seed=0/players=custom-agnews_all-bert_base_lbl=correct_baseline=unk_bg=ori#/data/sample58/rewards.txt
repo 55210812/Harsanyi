@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: nokia,
+Player 1: world
+Player 2: # 39 ; s
+Player 3: largest
+Player 4: mobile
+Player 5: phone
+Player 6: maker,
+Player 7: took
+Player 8: legal
+Player 9: action
+Player 10: earlier
+Player 11: week
+Player 12: two
+Player 13: european
+Player 14: manufacturers
+Player 15: allegedly
+Player 16: infringing
+Player 17: technology
+Player 18: patents
+Player 19: registered
+Player 20: designs.
+---------- Rewards ----------
+v(): 2.1162686347961426	 ([])
+v(8 9 11 14 15 20): 0.5581519603729248	 ([legal][action][week][manufacturers][allegedly][designs.])
+v(0 4 5 7 17 19): 5.274957656860352	 ([nokia,][mobile][phone][took][technology][registered])
+v(1 10 18): 5.072151184082031	 ([world][earlier][patents])
+v(2 3 6 12 13 16): -3.5606417655944824	 ([# 39 ; s][largest][maker,][two][european][infringing])
+v(0 4 5 7 8 9 11 14 15 17 19 20): 4.852843761444092	 ([nokia,][mobile][phone][took][legal][action][week][manufacturers][allegedly][technology][registered][designs.])
+v(1 8 9 10 11 14 15 18 20): 6.793148994445801	 ([world][legal][action][earlier][week][manufacturers][allegedly][patents][designs.])
+v(2 3 6 8 9 11 12 13 14 15 16 20): 0.36058688163757324	 ([# 39 ; s][largest][maker,][legal][action][week][two][european][manufacturers][allegedly][infringing][designs.])
+v(0 1 4 5 7 10 17 18 19): 4.97817325592041	 ([nokia,][world][mobile][phone][took][earlier][technology][patents][registered])
+v(0 2 3 4 5 6 7 12 13 16 17 19): -1.0859289169311523	 ([nokia,][# 39 ; s][largest][mobile][phone][maker,][took][two][european][infringing][technology][registered])
+v(1 2 3 6 10 12 13 16 18): 3.97420072555542	 ([world][# 39 ; s][largest][maker,][earlier][two][european][infringing][patents])
+v(0 1 4 5 7 8 9 10 11 14 15 17 18 19 20): 6.113224029541016	 ([nokia,][world][mobile][phone][took][legal][action][earlier][week][manufacturers][allegedly][technology][patents][registered][designs.])
+v(0 2 3 4 5 6 7 8 9 11 12 13 14 15 16 17 19 20): 4.926066875457764	 ([nokia,][# 39 ; s][largest][mobile][phone][maker,][took][legal][action][week][two][european][manufacturers][allegedly][infringing][technology][registered][designs.])
+v(1 2 3 6 8 9 10 11 12 13 14 15 16 18 20): 5.923340320587158	 ([world][# 39 ; s][largest][maker,][legal][action][earlier][week][two][european][manufacturers][allegedly][infringing][patents][designs.])
+v(0 1 2 3 4 5 6 7 10 12 13 16 17 18 19): -0.24779176712036133	 ([nokia,][world][# 39 ; s][largest][mobile][phone][maker,][took][earlier][two][european][infringing][technology][patents][registered])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 4.477216720581055	 ([nokia,][world][# 39 ; s][largest][mobile][phone][maker,][took][legal][action][earlier][week][two][european][manufacturers][allegedly][infringing][technology][patents][registered][designs.])
+---------- Rewards-v() ----------
+v(2 3 6 12 13 16): -5.676910400390625, EP: -2.4045045375823975	 ([# 39 ; s][largest][maker,][two][european][infringing])
+v(1 8 9 10 11 14 15 18 20): 4.676880359649658, EP: 1.9809331893920898	 ([world][legal][action][earlier][week][manufacturers][allegedly][patents][designs.])
+v(0 1 4 5 7 8 9 10 11 14 15 17 18 19 20): 3.996955394744873, EP: 1.6929450035095215	 ([nokia,][world][mobile][phone][took][legal][action][earlier][week][manufacturers][allegedly][technology][patents][registered][designs.])
+v(1 2 3 6 8 9 10 11 12 13 14 15 16 18 20): 3.8070716857910156, EP: 1.6125181913375854	 ([world][# 39 ; s][largest][maker,][legal][action][earlier][week][two][european][manufacturers][allegedly][infringing][patents][designs.])
+v(0 2 3 4 5 6 7 12 13 16 17 19): -3.202197551727295, EP: -1.356318473815918	 ([nokia,][# 39 ; s][largest][mobile][phone][maker,][took][two][european][infringing][technology][registered])
+v(0 4 5 7 17 19): 3.158689022064209, EP: 1.3378900289535522	 ([nokia,][mobile][phone][took][technology][registered])
+v(1 10 18): 2.9558825492858887, EP: 1.2519896030426025	 ([world][earlier][patents])
+v(0 1 4 5 7 10 17 18 19): 2.8619046211242676, EP: 1.2121844291687012	 ([nokia,][world][mobile][phone][took][earlier][technology][patents][registered])
+v(0 2 3 4 5 6 7 8 9 11 12 13 14 15 16 17 19 20): 2.809798240661621, EP: 1.1901143789291382	 ([nokia,][# 39 ; s][largest][mobile][phone][maker,][took][legal][action][week][two][european][manufacturers][allegedly][infringing][technology][registered][designs.])
+v(0 4 5 7 8 9 11 14 15 17 19 20): 2.736575126647949, EP: 1.15910005569458	 ([nokia,][mobile][phone][took][legal][action][week][manufacturers][allegedly][technology][registered][designs.])
+v(0 1 2 3 4 5 6 7 10 12 13 16 17 18 19): -2.364060401916504, EP: -1.0013182163238525	 ([nokia,][world][# 39 ; s][largest][mobile][phone][maker,][took][earlier][two][european][infringing][technology][patents][registered])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 2.360948085784912, EP: 1.0	 ([nokia,][world][# 39 ; s][largest][mobile][phone][maker,][took][legal][action][earlier][week][two][european][manufacturers][allegedly][infringing][technology][patents][registered][designs.])
+v(1 2 3 6 10 12 13 16 18): 1.8579320907592773, EP: 0.7869431972503662	 ([world][# 39 ; s][largest][maker,][earlier][two][european][infringing][patents])
+v(2 3 6 8 9 11 12 13 14 15 16 20): -1.7556817531585693, EP: -0.7436342239379883	 ([# 39 ; s][largest][maker,][legal][action][week][two][european][manufacturers][allegedly][infringing][designs.])
+v(8 9 11 14 15 20): -1.5581166744232178, EP: -0.6599538326263428	 ([legal][action][week][manufacturers][allegedly][designs.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

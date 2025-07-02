@@ -1,0 +1,29 @@
+Execution time: 2025-07-02 19:31:13
+prompt: [CLS] a flood of foreign observers is expected for the dec. 26 rerun of the presidential vote. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:7186 decoded_text: flood
+idx:3 input_id:1997 decoded_text: of
+idx:4 input_id:3097 decoded_text: foreign
+idx:5 input_id:14009 decoded_text: observers
+idx:6 input_id:2003 decoded_text: is
+idx:7 input_id:3517 decoded_text: expected
+idx:8 input_id:2005 decoded_text: for
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:11703 decoded_text: dec
+idx:11 input_id:1012 decoded_text: .
+idx:12 input_id:2656 decoded_text: 26
+idx:13 input_id:2128 decoded_text: re
+idx:14 input_id:15532 decoded_text: ##run
+idx:15 input_id:1997 decoded_text: of
+idx:16 input_id:1996 decoded_text: the
+idx:17 input_id:4883 decoded_text: presidential
+idx:18 input_id:3789 decoded_text: vote
+idx:19 input_id:1012 decoded_text: .
+idx:20 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[2.4516541957855225, -2.1429340839385986, 0.5921421051025391, -1.3088279962539673]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

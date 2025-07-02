@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: jacksonville,
+Player 1: fla.
+Player 2: ( sportsticker )
+Player 3: -
+Player 4: three - time
+Player 5: pro
+Player 6: bowl
+Player 7: defensive
+Player 8: end
+Player 9: hugh
+Player 10: douglas
+Player 11: admitted
+Player 12: quot ; funk
+Player 13: quot ;
+Player 14: last
+Player 15: season
+Player 16: vowed
+Player 17: make
+Player 18: amends
+Player 19: 2004.
+---------- Rewards ----------
+v(): -0.16068923473358154	 ([])
+v(0 2 9 10 12 14 15): 9.625434875488281	 ([jacksonville,][( sportsticker )][hugh][douglas][quot ; funk][last][season])
+v(3 4 5 6 7 8 13): 9.714313507080078	 ([-][three - time][pro][bowl][defensive][end][quot ;])
+v(1 11 16 17 18 19): 0.08792805671691895	 ([fla.][admitted][vowed][make][amends][2004.])
+v(0 2 3 4 5 6 7 8 9 10 12 13 14 15): 9.765743255615234	 ([jacksonville,][( sportsticker )][-][three - time][pro][bowl][defensive][end][hugh][douglas][quot ; funk][quot ;][last][season])
+v(0 1 2 9 10 11 12 14 15 16 17 18 19): 9.594035148620605	 ([jacksonville,][fla.][( sportsticker )][hugh][douglas][admitted][quot ; funk][last][season][vowed][make][amends][2004.])
+v(1 3 4 5 6 7 8 11 13 16 17 18 19): 9.763809204101562	 ([fla.][-][three - time][pro][bowl][defensive][end][admitted][quot ;][vowed][make][amends][2004.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.761641502380371	 ([jacksonville,][fla.][( sportsticker )][-][three - time][pro][bowl][defensive][end][hugh][douglas][admitted][quot ; funk][quot ;][last][season][vowed][make][amends][2004.])
+---------- Rewards-v() ----------
+v(0 2 3 4 5 6 7 8 9 10 12 13 14 15): 9.926432609558105, EP: 1.000413417816162	 ([jacksonville,][( sportsticker )][-][three - time][pro][bowl][defensive][end][hugh][douglas][quot ; funk][quot ;][last][season])
+v(1 3 4 5 6 7 8 11 13 16 17 18 19): 9.924498558044434, EP: 1.0002185106277466	 ([fla.][-][three - time][pro][bowl][defensive][end][admitted][quot ;][vowed][make][amends][2004.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.922330856323242, EP: 1.0	 ([jacksonville,][fla.][( sportsticker )][-][three - time][pro][bowl][defensive][end][hugh][douglas][admitted][quot ; funk][quot ;][last][season][vowed][make][amends][2004.])
+v(3 4 5 6 7 8 13): 9.87500286102295, EP: 0.9952301383018494	 ([-][three - time][pro][bowl][defensive][end][quot ;])
+v(0 2 9 10 12 14 15): 9.786124229431152, EP: 0.9862726926803589	 ([jacksonville,][( sportsticker )][hugh][douglas][quot ; funk][last][season])
+v(0 1 2 9 10 11 12 14 15 16 17 18 19): 9.754724502563477, EP: 0.9831081628799438	 ([jacksonville,][fla.][( sportsticker )][hugh][douglas][admitted][quot ; funk][last][season][vowed][make][amends][2004.])
+v(1 11 16 17 18 19): 0.2486172914505005, EP: 0.02505633980035782	 ([fla.][admitted][vowed][make][amends][2004.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

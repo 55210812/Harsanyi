@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: european
+Player 1: commission
+Player 2: first
+Player 3: expects
+Player 4: make
+Player 5: decision
+Player 6: next
+Player 7: week
+Player 8: competition
+Player 9: issues
+Player 10: raised
+Player 11: bid
+Player 12: spain
+Player 13: # 39 ; s
+Player 14: santander
+Player 15: central
+Player 16: hispano
+Player 17: abbey
+Player 18: national,
+Player 19: spokeswoman
+Player 20: says.
+---------- Rewards ----------
+v(): -4.945342063903809	 ([])
+v(11 13 14 17): 7.691408634185791	 ([bid][# 39 ; s][santander][abbey])
+v(1 4 15 18 20): -3.0596864223480225	 ([commission][make][central][national,][says.])
+v(2 3 6 7 8): -3.2440185546875	 ([first][expects][next][week][competition])
+v(0 5 9 10 12 16 19): -3.3328351974487305	 ([european][decision][issues][raised][spain][hispano][spokeswoman])
+v(1 4 11 13 14 15 17 18 20): 8.231619834899902	 ([commission][make][bid][# 39 ; s][santander][central][abbey][national,][says.])
+v(2 3 6 7 8 11 13 14 17): 6.567751884460449	 ([first][expects][next][week][competition][bid][# 39 ; s][santander][abbey])
+v(0 5 9 10 11 12 13 14 16 17 19): 7.578994274139404	 ([european][decision][issues][raised][bid][spain][# 39 ; s][santander][hispano][abbey][spokeswoman])
+v(1 2 3 4 6 7 8 15 18 20): -1.3943768739700317	 ([commission][first][expects][make][next][week][competition][central][national,][says.])
+v(0 1 4 5 9 10 12 15 16 18 19 20): -3.2022595405578613	 ([european][commission][make][decision][issues][raised][spain][central][hispano][national,][spokeswoman][says.])
+v(0 2 3 5 6 7 8 9 10 12 16 19): 1.7429900169372559	 ([european][first][expects][decision][next][week][competition][issues][raised][spain][hispano][spokeswoman])
+v(1 2 3 4 6 7 8 11 13 14 15 17 18 20): 7.664675712585449	 ([commission][first][expects][make][next][week][competition][bid][# 39 ; s][santander][central][abbey][national,][says.])
+v(0 1 4 5 9 10 11 12 13 14 15 16 17 18 19 20): 7.805176258087158	 ([european][commission][make][decision][issues][raised][bid][spain][# 39 ; s][santander][central][hispano][abbey][national,][spokeswoman][says.])
+v(0 2 3 5 6 7 8 9 10 11 12 13 14 16 17 19): 7.636600494384766	 ([european][first][expects][decision][next][week][competition][issues][raised][bid][spain][# 39 ; s][santander][hispano][abbey][spokeswoman])
+v(0 1 2 3 4 5 6 7 8 9 10 12 15 16 18 19 20): 5.835521697998047	 ([european][commission][first][expects][make][decision][next][week][competition][issues][raised][spain][central][hispano][national,][spokeswoman][says.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.165952682495117	 ([european][commission][first][expects][make][decision][next][week][competition][issues][raised][bid][spain][# 39 ; s][santander][central][hispano][abbey][national,][spokeswoman][says.])
+---------- Rewards-v() ----------
+v(1 4 11 13 14 15 17 18 20): 13.176961898803711, EP: 1.0050084590911865	 ([commission][make][bid][# 39 ; s][santander][central][abbey][national,][says.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.111294746398926, EP: 1.0	 ([european][commission][first][expects][make][decision][next][week][competition][issues][raised][bid][spain][# 39 ; s][santander][central][hispano][abbey][national,][spokeswoman][says.])
+v(0 1 4 5 9 10 11 12 13 14 15 16 17 18 19 20): 12.750518798828125, EP: 0.9724835753440857	 ([european][commission][make][decision][issues][raised][bid][spain][# 39 ; s][santander][central][hispano][abbey][national,][spokeswoman][says.])
+v(11 13 14 17): 12.636751174926758, EP: 0.9638065099716187	 ([bid][# 39 ; s][santander][abbey])
+v(1 2 3 4 6 7 8 11 13 14 15 17 18 20): 12.610017776489258, EP: 0.9617675542831421	 ([commission][first][expects][make][next][week][competition][bid][# 39 ; s][santander][central][abbey][national,][says.])
+v(0 2 3 5 6 7 8 9 10 11 12 13 14 16 17 19): 12.581942558288574, EP: 0.9596262574195862	 ([european][first][expects][decision][next][week][competition][issues][raised][bid][spain][# 39 ; s][santander][hispano][abbey][spokeswoman])
+v(0 5 9 10 11 12 13 14 16 17 19): 12.524335861206055, EP: 0.955232560634613	 ([european][decision][issues][raised][bid][spain][# 39 ; s][santander][hispano][abbey][spokeswoman])
+v(2 3 6 7 8 11 13 14 17): 11.513093948364258, EP: 0.8781050443649292	 ([first][expects][next][week][competition][bid][# 39 ; s][santander][abbey])
+v(0 1 2 3 4 5 6 7 8 9 10 12 15 16 18 19 20): 10.780863761901855, EP: 0.8222577571868896	 ([european][commission][first][expects][make][decision][next][week][competition][issues][raised][spain][central][hispano][national,][spokeswoman][says.])
+v(0 2 3 5 6 7 8 9 10 12 16 19): 6.6883320808410645, EP: 0.5101198554039001	 ([european][first][expects][decision][next][week][competition][issues][raised][spain][hispano][spokeswoman])
+v(1 2 3 4 6 7 8 15 18 20): 3.5509653091430664, EP: 0.27083253860473633	 ([commission][first][expects][make][next][week][competition][central][national,][says.])
+v(1 4 15 18 20): 1.8856556415557861, EP: 0.1438191831111908	 ([commission][make][central][national,][says.])
+v(0 1 4 5 9 10 12 15 16 18 19 20): 1.7430825233459473, EP: 0.13294510543346405	 ([european][commission][make][decision][issues][raised][spain][central][hispano][national,][spokeswoman][says.])
+v(2 3 6 7 8): 1.7013235092163086, EP: 0.12976014614105225	 ([first][expects][next][week][competition])
+v(0 5 9 10 12 16 19): 1.6125068664550781, EP: 0.1229860857129097	 ([european][decision][issues][raised][spain][hispano][spokeswoman])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

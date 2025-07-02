@@ -1,0 +1,105 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: apparent
+Player 3: front - runner
+Player 4: action
+Player 5: weeks
+Player 6: mysterious
+Player 7: illness.
+Player 8: close
+Player 9: rival
+Player 10: hospitalized
+Player 11: attack
+Player 12: warned
+Player 13: could
+Player 14: assassinated.
+Player 15: ukraine's
+Player 16: presidential
+Player 17: election
+Player 18: three
+Player 19: weeks
+Player 20: away,
+Player 21: democracy
+Player 22: seems
+Player 23: gone
+Player 24: badly
+Player 25: awry
+Player 26: chaos
+Player 27: suspicion
+Player 28: overshadow
+Player 29: campaign
+Player 30: issues
+Player 31: strategically
+Player 32: important
+Player 33: country
+Player 34: sways
+Player 35: west
+Player 36: russia.
+---------- Rewards ----------
+v(): -6.954024314880371	 ([])
+v(0 15 16 17 18 19 36): 5.236066818237305	 ([ap][ukraine's][presidential][election][three][weeks][russia.])
+v(1 20 21 22 23 24 25): 6.724247455596924	 ([-][away,][democracy][seems][gone][badly][awry])
+v(12 13 14 30): -3.3454957008361816	 ([warned][could][assassinated.][issues])
+v(7 26 27 28 29 31 32 33 34 35): 4.217695713043213	 ([illness.][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west])
+v(2 3 4 5 6 8 9 10 11): -4.17007303237915	 ([apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack])
+v(0 1 15 16 17 18 19 20 21 22 23 24 25 36): 6.518316745758057	 ([ap][-][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][russia.])
+v(0 12 13 14 15 16 17 18 19 30 36): 5.054037094116211	 ([ap][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][issues][russia.])
+v(0 7 15 16 17 18 19 26 27 28 29 31 32 33 34 35 36): 4.994027137756348	 ([ap][illness.][ukraine's][presidential][election][three][weeks][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west][russia.])
+v(0 2 3 4 5 6 8 9 10 11 15 16 17 18 19 36): 6.450953960418701	 ([ap][apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack][ukraine's][presidential][election][three][weeks][russia.])
+v(1 12 13 14 20 21 22 23 24 25 30): 6.87729549407959	 ([-][warned][could][assassinated.][away,][democracy][seems][gone][badly][awry][issues])
+v(1 7 20 21 22 23 24 25 26 27 28 29 31 32 33 34 35): 6.874878883361816	 ([-][illness.][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west])
+v(1 2 3 4 5 6 8 9 10 11 20 21 22 23 24 25): 7.006414890289307	 ([-][apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack][away,][democracy][seems][gone][badly][awry])
+v(7 12 13 14 26 27 28 29 30 31 32 33 34 35): 4.532224178314209	 ([illness.][warned][could][assassinated.][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west])
+v(2 3 4 5 6 8 9 10 11 12 13 14 30): -0.4677572250366211	 ([apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack][warned][could][assassinated.][issues])
+v(2 3 4 5 6 7 8 9 10 11 26 27 28 29 31 32 33 34 35): 6.13764762878418	 ([apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west])
+v(0 1 12 13 14 15 16 17 18 19 20 21 22 23 24 25 30 36): 5.704701900482178	 ([ap][-][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][issues][russia.])
+v(0 1 7 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 31 32 33 34 35 36): 6.299673080444336	 ([ap][-][illness.][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west][russia.])
+v(0 1 2 3 4 5 6 8 9 10 11 15 16 17 18 19 20 21 22 23 24 25 36): 6.569169998168945	 ([ap][-][apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][russia.])
+v(0 7 12 13 14 15 16 17 18 19 26 27 28 29 30 31 32 33 34 35 36): 5.122751712799072	 ([ap][illness.][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west][russia.])
+v(0 2 3 4 5 6 8 9 10 11 12 13 14 15 16 17 18 19 30 36): 6.114147663116455	 ([ap][apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][issues][russia.])
+v(0 2 3 4 5 6 7 8 9 10 11 15 16 17 18 19 26 27 28 29 31 32 33 34 35 36): 5.336541175842285	 ([ap][apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][ukraine's][presidential][election][three][weeks][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west][russia.])
+v(1 7 12 13 14 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35): 7.310877323150635	 ([-][illness.][warned][could][assassinated.][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west])
+v(1 2 3 4 5 6 8 9 10 11 12 13 14 20 21 22 23 24 25 30): 7.362077713012695	 ([-][apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack][warned][could][assassinated.][away,][democracy][seems][gone][badly][awry][issues])
+v(1 2 3 4 5 6 7 8 9 10 11 20 21 22 23 24 25 26 27 28 29 31 32 33 34 35): 7.409024715423584	 ([-][apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 26 27 28 29 30 31 32 33 34 35): 5.354119300842285	 ([apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][warned][could][assassinated.][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west])
+v(0 1 7 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36): 6.1214704513549805	 ([ap][-][illness.][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west][russia.])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 30 36): 5.705084800720215	 ([ap][-][apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][issues][russia.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 31 32 33 34 35 36): 6.1602935791015625	 ([ap][-][apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west][russia.])
+v(0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 26 27 28 29 30 31 32 33 34 35 36): 5.168943881988525	 ([ap][apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west][russia.])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35): 7.694769859313965	 ([-][apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][warned][could][assassinated.][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36): 6.532891750335693	 ([ap][-][apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west][russia.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35): 14.648794174194336, EP: 1.0861486196517944	 ([-][apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][warned][could][assassinated.][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west])
+v(1 2 3 4 5 6 7 8 9 10 11 20 21 22 23 24 25 26 27 28 29 31 32 33 34 35): 14.363048553466797, EP: 1.0649616718292236	 ([-][apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west])
+v(1 2 3 4 5 6 8 9 10 11 12 13 14 20 21 22 23 24 25 30): 14.316102027893066, EP: 1.0614807605743408	 ([-][apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack][warned][could][assassinated.][away,][democracy][seems][gone][badly][awry][issues])
+v(1 7 12 13 14 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35): 14.264902114868164, EP: 1.0576845407485962	 ([-][illness.][warned][could][assassinated.][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west])
+v(1 2 3 4 5 6 8 9 10 11 20 21 22 23 24 25): 13.960439682006836, EP: 1.0351098775863647	 ([-][apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack][away,][democracy][seems][gone][badly][awry])
+v(1 12 13 14 20 21 22 23 24 25 30): 13.831319808959961, EP: 1.0255361795425415	 ([-][warned][could][assassinated.][away,][democracy][seems][gone][badly][awry][issues])
+v(1 7 20 21 22 23 24 25 26 27 28 29 31 32 33 34 35): 13.828903198242188, EP: 1.0253570079803467	 ([-][illness.][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west])
+v(1 20 21 22 23 24 25): 13.678272247314453, EP: 1.014188289642334	 ([-][away,][democracy][seems][gone][badly][awry])
+v(0 1 2 3 4 5 6 8 9 10 11 15 16 17 18 19 20 21 22 23 24 25 36): 13.523194313049316, EP: 1.0026899576187134	 ([ap][-][apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][russia.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36): 13.486915588378906, EP: 1.0	 ([ap][-][apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west][russia.])
+v(0 1 15 16 17 18 19 20 21 22 23 24 25 36): 13.472341537475586, EP: 0.9989193677902222	 ([ap][-][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][russia.])
+v(0 2 3 4 5 6 8 9 10 11 15 16 17 18 19 36): 13.404977798461914, EP: 0.993924617767334	 ([ap][apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack][ukraine's][presidential][election][three][weeks][russia.])
+v(0 1 7 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 31 32 33 34 35 36): 13.253697395324707, EP: 0.9827077984809875	 ([ap][-][illness.][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west][russia.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 31 32 33 34 35 36): 13.114317893981934, EP: 0.972373366355896	 ([ap][-][apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west][russia.])
+v(2 3 4 5 6 7 8 9 10 11 26 27 28 29 31 32 33 34 35): 13.09167194366455, EP: 0.9706943035125732	 ([apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west])
+v(0 1 7 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36): 13.075494766235352, EP: 0.9694948196411133	 ([ap][-][illness.][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west][russia.])
+v(0 2 3 4 5 6 8 9 10 11 12 13 14 15 16 17 18 19 30 36): 13.068172454833984, EP: 0.9689518809318542	 ([ap][apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][issues][russia.])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 30 36): 12.659109115600586, EP: 0.9386215209960938	 ([ap][-][apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][issues][russia.])
+v(0 1 12 13 14 15 16 17 18 19 20 21 22 23 24 25 30 36): 12.65872573852539, EP: 0.9385930895805359	 ([ap][-][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][away,][democracy][seems][gone][badly][awry][issues][russia.])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 26 27 28 29 30 31 32 33 34 35): 12.308143615722656, EP: 0.9125988483428955	 ([apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][warned][could][assassinated.][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west])
+v(0 2 3 4 5 6 7 8 9 10 11 15 16 17 18 19 26 27 28 29 31 32 33 34 35 36): 12.290565490722656, EP: 0.911295473575592	 ([ap][apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][ukraine's][presidential][election][three][weeks][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west][russia.])
+v(0 15 16 17 18 19 36): 12.190091133117676, EP: 0.9038457274436951	 ([ap][ukraine's][presidential][election][three][weeks][russia.])
+v(0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 26 27 28 29 30 31 32 33 34 35 36): 12.122968673706055, EP: 0.8988688588142395	 ([ap][apparent][front - runner][action][weeks][mysterious][illness.][close][rival][hospitalized][attack][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west][russia.])
+v(0 7 12 13 14 15 16 17 18 19 26 27 28 29 30 31 32 33 34 35 36): 12.076776504516602, EP: 0.8954439163208008	 ([ap][illness.][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west][russia.])
+v(0 12 13 14 15 16 17 18 19 30 36): 12.008061408996582, EP: 0.8903489708900452	 ([ap][warned][could][assassinated.][ukraine's][presidential][election][three][weeks][issues][russia.])
+v(0 7 15 16 17 18 19 26 27 28 29 31 32 33 34 35 36): 11.948051452636719, EP: 0.8858994841575623	 ([ap][illness.][ukraine's][presidential][election][three][weeks][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west][russia.])
+v(7 12 13 14 26 27 28 29 30 31 32 33 34 35): 11.486248016357422, EP: 0.8516586422920227	 ([illness.][warned][could][assassinated.][chaos][suspicion][overshadow][campaign][issues][strategically][important][country][sways][west])
+v(7 26 27 28 29 31 32 33 34 35): 11.171720504760742, EP: 0.8283376693725586	 ([illness.][chaos][suspicion][overshadow][campaign][strategically][important][country][sways][west])
+v(2 3 4 5 6 8 9 10 11 12 13 14 30): 6.48626708984375, EP: 0.480930358171463	 ([apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack][warned][could][assassinated.][issues])
+v(12 13 14 30): 3.6085286140441895, EP: 0.2675577402114868	 ([warned][could][assassinated.][issues])
+v(2 3 4 5 6 8 9 10 11): 2.7839512825012207, EP: 0.20641867816448212	 ([apparent][front - runner][action][weeks][mysterious][close][rival][hospitalized][attack])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

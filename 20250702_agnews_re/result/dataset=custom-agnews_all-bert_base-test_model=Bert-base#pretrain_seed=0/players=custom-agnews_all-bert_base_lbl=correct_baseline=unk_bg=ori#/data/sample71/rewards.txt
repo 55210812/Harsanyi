@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: soldiers
+Player 1: iraqi
+Player 2: national
+Player 3: guard
+Player 4: show
+Player 5: mortars
+Player 6: militia
+Player 7: members
+Player 8: delivered
+Player 9: sacks
+Player 10: rounds
+Player 11: iraqi
+Player 12: security
+Player 13: forces
+Player 14: sadr
+Player 15: city
+Player 16: neighborhood
+Player 17: baghdad,
+Player 18: iraq,
+Player 19: monday,
+Player 20: oct.
+Player 21: 11,
+Player 22: 2004.
+---------- Rewards ----------
+v(): -6.7434892654418945	 ([])
+v(0 1 11 12 14 15 17 18): 8.251306533813477	 ([soldiers][iraqi][iraqi][security][sadr][city][baghdad,][iraq,])
+v(2 3 4): 4.066845417022705	 ([national][guard][show])
+v(5 6 7 8 9 10 13 16 19 20 21 22): 6.031193733215332	 ([mortars][militia][members][delivered][sacks][rounds][forces][neighborhood][monday,][oct.][11,][2004.])
+v(0 1 2 3 4 11 12 14 15 17 18): 8.197620391845703	 ([soldiers][iraqi][national][guard][show][iraqi][security][sadr][city][baghdad,][iraq,])
+v(0 1 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.999727725982666	 ([soldiers][iraqi][mortars][militia][members][delivered][sacks][rounds][iraqi][security][forces][sadr][city][neighborhood][baghdad,][iraq,][monday,][oct.][11,][2004.])
+v(2 3 4 5 6 7 8 9 10 13 16 19 20 21 22): 6.9583587646484375	 ([national][guard][show][mortars][militia][members][delivered][sacks][rounds][forces][neighborhood][monday,][oct.][11,][2004.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.960543155670166	 ([soldiers][iraqi][national][guard][show][mortars][militia][members][delivered][sacks][rounds][iraqi][security][forces][sadr][city][neighborhood][baghdad,][iraq,][monday,][oct.][11,][2004.])
+---------- Rewards-v() ----------
+v(0 1 11 12 14 15 17 18): 14.994795799255371, EP: 1.019774317741394	 ([soldiers][iraqi][iraqi][security][sadr][city][baghdad,][iraq,])
+v(0 1 2 3 4 11 12 14 15 17 18): 14.941109657287598, EP: 1.0161232948303223	 ([soldiers][iraqi][national][guard][show][iraqi][security][sadr][city][baghdad,][iraq,])
+v(0 1 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.743217468261719, EP: 1.0026649236679077	 ([soldiers][iraqi][mortars][militia][members][delivered][sacks][rounds][iraqi][security][forces][sadr][city][neighborhood][baghdad,][iraq,][monday,][oct.][11,][2004.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.704032897949219, EP: 1.0	 ([soldiers][iraqi][national][guard][show][mortars][militia][members][delivered][sacks][rounds][iraqi][security][forces][sadr][city][neighborhood][baghdad,][iraq,][monday,][oct.][11,][2004.])
+v(2 3 4 5 6 7 8 9 10 13 16 19 20 21 22): 13.701848030090332, EP: 0.9318428635597229	 ([national][guard][show][mortars][militia][members][delivered][sacks][rounds][forces][neighborhood][monday,][oct.][11,][2004.])
+v(5 6 7 8 9 10 13 16 19 20 21 22): 12.774682998657227, EP: 0.8687877058982849	 ([mortars][militia][members][delivered][sacks][rounds][forces][neighborhood][monday,][oct.][11,][2004.])
+v(2 3 4): 10.810335159301758, EP: 0.7351952791213989	 ([national][guard][show])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

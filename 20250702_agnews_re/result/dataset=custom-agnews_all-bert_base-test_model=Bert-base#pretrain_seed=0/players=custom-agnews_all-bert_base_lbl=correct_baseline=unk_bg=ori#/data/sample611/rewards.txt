@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: offering
+Player 1: simple,
+Player 2: " thank
+Player 3: america, "
+Player 4: iraqi
+Player 5: interim
+Player 6: prime
+Player 7: minister
+Player 8: ayad
+Player 9: allawi
+Player 10: addressed
+Player 11: joint
+Player 12: meeting
+Player 13: congress
+Player 14: .
+---------- Rewards ----------
+v(): -6.691634654998779	 ([])
+v(6 7): 7.5502471923828125	 ([prime][minister])
+v(0 1 3 4 5 11 13 14): 8.314811706542969	 ([offering][simple,][america, "][iraqi][interim][joint][congress][.])
+v(2 8 9 10 12): 5.1742095947265625	 ([" thank][ayad][allawi][addressed][meeting])
+v(0 1 3 4 5 6 7 11 13 14): 8.230978012084961	 ([offering][simple,][america, "][iraqi][interim][prime][minister][joint][congress][.])
+v(2 6 7 8 9 10 12): 7.6520466804504395	 ([" thank][prime][minister][ayad][allawi][addressed][meeting])
+v(0 1 2 3 4 5 8 9 10 11 12 13 14): 8.498547554016113	 ([offering][simple,][" thank][america, "][iraqi][interim][ayad][allawi][addressed][joint][meeting][congress][.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 8.499536514282227	 ([offering][simple,][" thank][america, "][iraqi][interim][prime][minister][ayad][allawi][addressed][joint][meeting][congress][.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 15.191171646118164, EP: 1.0	 ([offering][simple,][" thank][america, "][iraqi][interim][prime][minister][ayad][allawi][addressed][joint][meeting][congress][.])
+v(0 1 2 3 4 5 8 9 10 11 12 13 14): 15.190181732177734, EP: 0.9999348521232605	 ([offering][simple,][" thank][america, "][iraqi][interim][ayad][allawi][addressed][joint][meeting][congress][.])
+v(0 1 3 4 5 11 13 14): 15.006446838378906, EP: 0.9878399968147278	 ([offering][simple,][america, "][iraqi][interim][joint][congress][.])
+v(0 1 3 4 5 6 7 11 13 14): 14.922613143920898, EP: 0.9823213815689087	 ([offering][simple,][america, "][iraqi][interim][prime][minister][joint][congress][.])
+v(2 6 7 8 9 10 12): 14.343681335449219, EP: 0.9442116618156433	 ([" thank][prime][minister][ayad][allawi][addressed][meeting])
+v(6 7): 14.24188232421875, EP: 0.9375104308128357	 ([prime][minister])
+v(2 8 9 10 12): 11.8658447265625, EP: 0.7811013460159302	 ([" thank][ayad][allawi][addressed][meeting])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

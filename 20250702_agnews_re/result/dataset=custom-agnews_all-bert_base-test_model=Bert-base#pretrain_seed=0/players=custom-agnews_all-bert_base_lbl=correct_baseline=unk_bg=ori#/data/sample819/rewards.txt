@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: berlin :
+Player 1: communique
+Player 2: g20
+Player 3: group
+Player 4: rich
+Player 5: developing
+Player 6: countries
+Player 7: made
+Player 8: explicit
+Player 9: reference
+Player 10: currency
+Player 11: swings
+Player 12: sunday,
+Player 13: despite
+Player 14: mounting
+Player 15: concern
+Player 16: europe
+Player 17: japan
+Player 18: slide
+Player 19: us
+Player 20: dollar
+Player 21: multi - year
+Player 22: lows.
+---------- Rewards ----------
+v(): -3.3607211112976074	 ([])
+v(4 8 9 10 11 17 19 20): 2.8514063358306885	 ([rich][explicit][reference][currency][swings][japan][us][dollar])
+v(0 3 5 6 7 12): -0.09708929061889648	 ([berlin :][group][developing][countries][made][sunday,])
+v(1 2 13 14 15 16 18 21 22): 5.014643669128418	 ([communique][g20][despite][mounting][concern][europe][slide][multi - year][lows.])
+v(0 3 4 5 6 7 8 9 10 11 12 17 19 20): 2.941772937774658	 ([berlin :][group][rich][developing][countries][made][explicit][reference][currency][swings][sunday,][japan][us][dollar])
+v(1 2 4 8 9 10 11 13 14 15 16 17 18 19 20 21 22): 4.644150733947754	 ([communique][g20][rich][explicit][reference][currency][swings][despite][mounting][concern][europe][japan][slide][us][dollar][multi - year][lows.])
+v(0 1 2 3 5 6 7 12 13 14 15 16 18 21 22): 3.322218418121338	 ([berlin :][communique][g20][group][developing][countries][made][sunday,][despite][mounting][concern][europe][slide][multi - year][lows.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 5.577461242675781	 ([berlin :][communique][g20][group][rich][developing][countries][made][explicit][reference][currency][swings][sunday,][despite][mounting][concern][europe][japan][slide][us][dollar][multi - year][lows.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.938182830810547, EP: 1.0	 ([berlin :][communique][g20][group][rich][developing][countries][made][explicit][reference][currency][swings][sunday,][despite][mounting][concern][europe][japan][slide][us][dollar][multi - year][lows.])
+v(1 2 13 14 15 16 18 21 22): 8.375364303588867, EP: 0.9370321035385132	 ([communique][g20][despite][mounting][concern][europe][slide][multi - year][lows.])
+v(1 2 4 8 9 10 11 13 14 15 16 17 18 19 20 21 22): 8.004871368408203, EP: 0.8955815434455872	 ([communique][g20][rich][explicit][reference][currency][swings][despite][mounting][concern][europe][japan][slide][us][dollar][multi - year][lows.])
+v(0 1 2 3 5 6 7 12 13 14 15 16 18 21 22): 6.682939529418945, EP: 0.7476843595504761	 ([berlin :][communique][g20][group][developing][countries][made][sunday,][despite][mounting][concern][europe][slide][multi - year][lows.])
+v(0 3 4 5 6 7 8 9 10 11 12 17 19 20): 6.302494049072266, EP: 0.7051202654838562	 ([berlin :][group][rich][developing][countries][made][explicit][reference][currency][swings][sunday,][japan][us][dollar])
+v(4 8 9 10 11 17 19 20): 6.212127685546875, EP: 0.6950101256370544	 ([rich][explicit][reference][currency][swings][japan][us][dollar])
+v(0 3 5 6 7 12): 3.263631820678711, EP: 0.36513370275497437	 ([berlin :][group][developing][countries][made][sunday,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

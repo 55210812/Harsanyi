@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: new
+Player 1: york,
+Player 2: december
+Player 3: 8
+Player 4: ( newratings. com )
+Player 5: -
+Player 6: sony
+Player 7: corp
+Player 8: ( sne. nys )
+Player 9: named
+Player 10: nvidia
+Player 11: yesterday
+Player 12: supplier
+Player 13: graphics
+Player 14: chips
+Player 15: required
+Player 16: upcoming
+Player 17: playstation
+Player 18: 3
+Player 19: video
+Player 20: game
+Player 21: console.
+---------- Rewards ----------
+v(): 2.9286224842071533	 ([])
+v(0 2 3 9 10 15 16 19): 6.37753963470459	 ([new][december][8][named][nvidia][required][upcoming][video])
+v(1 6 8 11 12 17 20 21): 2.1687850952148438	 ([york,][sony][( sne. nys )][yesterday][supplier][playstation][game][console.])
+v(4 5 7 13 14 18): 5.314959526062012	 ([( newratings. com )][-][corp][graphics][chips][3])
+v(0 1 2 3 6 8 9 10 11 12 15 16 17 19 20 21): 1.4695467948913574	 ([new][york,][december][8][sony][( sne. nys )][named][nvidia][yesterday][supplier][required][upcoming][playstation][video][game][console.])
+v(0 2 3 4 5 7 9 10 13 14 15 16 18 19): 5.410694599151611	 ([new][december][8][( newratings. com )][-][corp][named][nvidia][graphics][chips][required][upcoming][3][video])
+v(1 4 5 6 7 8 11 12 13 14 17 18 20 21): 2.2486684322357178	 ([york,][( newratings. com )][-][sony][corp][( sne. nys )][yesterday][supplier][graphics][chips][playstation][3][game][console.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 0.23324894905090332	 ([new][york,][december][8][( newratings. com )][-][sony][corp][( sne. nys )][named][nvidia][yesterday][supplier][graphics][chips][required][upcoming][playstation][3][video][game][console.])
+---------- Rewards-v() ----------
+v(0 2 3 9 10 15 16 19): 3.4489171504974365, EP: -1.2795692682266235	 ([new][december][8][named][nvidia][required][upcoming][video])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): -2.69537353515625, EP: 1.0	 ([new][york,][december][8][( newratings. com )][-][sony][corp][( sne. nys )][named][nvidia][yesterday][supplier][graphics][chips][required][upcoming][playstation][3][video][game][console.])
+v(0 2 3 4 5 7 9 10 13 14 15 16 18 19): 2.482072114944458, EP: -0.9208638668060303	 ([new][december][8][( newratings. com )][-][corp][named][nvidia][graphics][chips][required][upcoming][3][video])
+v(4 5 7 13 14 18): 2.3863370418548584, EP: -0.8853455781936646	 ([( newratings. com )][-][corp][graphics][chips][3])
+v(0 1 2 3 6 8 9 10 11 12 15 16 17 19 20 21): -1.459075689315796, EP: 0.5413259863853455	 ([new][york,][december][8][sony][( sne. nys )][named][nvidia][yesterday][supplier][required][upcoming][playstation][video][game][console.])
+v(1 6 8 11 12 17 20 21): -0.7598373889923096, EP: 0.28190430998802185	 ([york,][sony][( sne. nys )][yesterday][supplier][playstation][game][console.])
+v(1 4 5 6 7 8 11 12 13 14 17 18 20 21): -0.6799540519714355, EP: 0.25226709246635437	 ([york,][( newratings. com )][-][sony][corp][( sne. nys )][yesterday][supplier][graphics][chips][playstation][3][game][console.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

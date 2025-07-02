@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 19:31:54
+prompt: [CLS] connecticut sun point guard lindsay whalen drove the baseline and kicked the ball out to nykesha sales at the top of the key. sales let a 3 - pointer [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:6117 decoded_text: connecticut
+idx:2 input_id:3103 decoded_text: sun
+idx:3 input_id:2391 decoded_text: point
+idx:4 input_id:3457 decoded_text: guard
+idx:5 input_id:12110 decoded_text: lindsay
+idx:6 input_id:13156 decoded_text: whale
+idx:7 input_id:2078 decoded_text: ##n
+idx:8 input_id:5225 decoded_text: drove
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:26163 decoded_text: baseline
+idx:11 input_id:1998 decoded_text: and
+idx:12 input_id:6476 decoded_text: kicked
+idx:13 input_id:1996 decoded_text: the
+idx:14 input_id:3608 decoded_text: ball
+idx:15 input_id:2041 decoded_text: out
+idx:16 input_id:2000 decoded_text: to
+idx:17 input_id:6396 decoded_text: ny
+idx:18 input_id:9681 decoded_text: ##kes
+idx:19 input_id:3270 decoded_text: ##ha
+idx:20 input_id:4341 decoded_text: sales
+idx:21 input_id:2012 decoded_text: at
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:2327 decoded_text: top
+idx:24 input_id:1997 decoded_text: of
+idx:25 input_id:1996 decoded_text: the
+idx:26 input_id:3145 decoded_text: key
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:4341 decoded_text: sales
+idx:29 input_id:2292 decoded_text: let
+idx:30 input_id:1037 decoded_text: a
+idx:31 input_id:1017 decoded_text: 3
+idx:32 input_id:1011 decoded_text: -
+idx:33 input_id:20884 decoded_text: pointer
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.3377975225448608, 8.547477722167969, -2.8581442832946777, -2.7364261150360107]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

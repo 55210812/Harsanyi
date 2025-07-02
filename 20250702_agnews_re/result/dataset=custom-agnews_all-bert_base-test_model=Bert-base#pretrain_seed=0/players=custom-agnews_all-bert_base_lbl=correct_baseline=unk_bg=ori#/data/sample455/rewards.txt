@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: ramallah,
+Player 1: west
+Player 2: bank
+Player 3: ( reuters )
+Player 4: -
+Player 5: seriously
+Player 6: ailing
+Player 7: palestinian
+Player 8: leader
+Player 9: yasser
+Player 10: arafat
+Player 11: agreed
+Player 12: thursday
+Player 13: rushed
+Player 14: french
+Player 15: hospital
+Player 16: fears
+Player 17: grew
+Player 18: icon
+Player 19: struggle
+Player 20: palestinian
+Player 21: state.
+---------- Rewards ----------
+v(): -7.55588436126709	 ([])
+v(0 4 5 7 10 14 20): 8.466071128845215	 ([ramallah,][-][seriously][palestinian][arafat][french][palestinian])
+v(3 6 8 9 11 12 13 15 16 18 19 21): 8.392430305480957	 ([( reuters )][ailing][leader][yasser][agreed][thursday][rushed][hospital][fears][icon][struggle][state.])
+v(1 2 17): -1.0268830060958862	 ([west][bank][grew])
+v(0 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 19 20 21): 8.482048988342285	 ([ramallah,][( reuters )][-][seriously][ailing][palestinian][leader][yasser][arafat][agreed][thursday][rushed][french][hospital][fears][icon][struggle][palestinian][state.])
+v(0 1 2 4 5 7 10 14 17 20): 8.44078254699707	 ([ramallah,][west][bank][-][seriously][palestinian][arafat][french][grew][palestinian])
+v(1 2 3 6 8 9 11 12 13 15 16 17 18 19 21): 8.424684524536133	 ([west][bank][( reuters )][ailing][leader][yasser][agreed][thursday][rushed][hospital][fears][grew][icon][struggle][state.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.44424057006836	 ([ramallah,][west][bank][( reuters )][-][seriously][ailing][palestinian][leader][yasser][arafat][agreed][thursday][rushed][french][hospital][fears][grew][icon][struggle][palestinian][state.])
+---------- Rewards-v() ----------
+v(0 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 19 20 21): 16.037933349609375, EP: 1.0023629665374756	 ([ramallah,][( reuters )][-][seriously][ailing][palestinian][leader][yasser][arafat][agreed][thursday][rushed][french][hospital][fears][icon][struggle][palestinian][state.])
+v(0 4 5 7 10 14 20): 16.021955490112305, EP: 1.0013643503189087	 ([ramallah,][-][seriously][palestinian][arafat][french][palestinian])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 16.000125885009766, EP: 1.0	 ([ramallah,][west][bank][( reuters )][-][seriously][ailing][palestinian][leader][yasser][arafat][agreed][thursday][rushed][french][hospital][fears][grew][icon][struggle][palestinian][state.])
+v(0 1 2 4 5 7 10 14 17 20): 15.99666690826416, EP: 0.9997838139533997	 ([ramallah,][west][bank][-][seriously][palestinian][arafat][french][grew][palestinian])
+v(1 2 3 6 8 9 11 12 13 15 16 17 18 19 21): 15.980568885803223, EP: 0.9987776875495911	 ([west][bank][( reuters )][ailing][leader][yasser][agreed][thursday][rushed][hospital][fears][grew][icon][struggle][state.])
+v(3 6 8 9 11 12 13 15 16 18 19 21): 15.948314666748047, EP: 0.9967617988586426	 ([( reuters )][ailing][leader][yasser][agreed][thursday][rushed][hospital][fears][icon][struggle][state.])
+v(1 2 17): 6.529001235961914, EP: 0.40805935859680176	 ([west][bank][grew])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

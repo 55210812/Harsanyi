@@ -1,0 +1,54 @@
+---------- Players ----------
+Player 0: funny
+Player 1: thing
+Player 2: happened
+Player 3: 18
+Player 4: months
+Player 5: since
+Player 6: apple
+Player 7: computer
+Player 8: launched
+Player 9: itunes
+Player 10: music
+Player 11: store,
+Player 12: offering
+Player 13: legal
+Player 14: music
+Player 15: downloads
+Player 16: 99
+Player 17: cents.
+---------- Rewards ----------
+v(): -5.0625081062316895	 ([])
+v(6 7 8 10 11 12 13): -6.479829788208008	 ([apple][computer][launched][music][store,][offering][legal])
+v(0 1 16 17): 1.9820642471313477	 ([funny][thing][99][cents.])
+v(2 5 9 15): -8.159367561340332	 ([happened][since][itunes][downloads])
+v(3 4 14): -5.61618709564209	 ([18][months][music])
+v(0 1 6 7 8 10 11 12 13 16 17): -3.140476703643799	 ([funny][thing][apple][computer][launched][music][store,][offering][legal][99][cents.])
+v(2 5 6 7 8 9 10 11 12 13 15): -7.579063415527344	 ([happened][since][apple][computer][launched][itunes][music][store,][offering][legal][downloads])
+v(3 4 6 7 8 10 11 12 13 14): -6.722486972808838	 ([18][months][apple][computer][launched][music][store,][offering][legal][music])
+v(0 1 2 5 9 15 16 17): -5.0695390701293945	 ([funny][thing][happened][since][itunes][downloads][99][cents.])
+v(0 1 3 4 14 16 17): -3.0066545009613037	 ([funny][thing][18][months][music][99][cents.])
+v(2 3 4 5 9 14 15): -7.625093936920166	 ([happened][18][months][since][itunes][music][downloads])
+v(0 1 2 5 6 7 8 9 10 11 12 13 15 16 17): -2.554382562637329	 ([funny][thing][happened][since][apple][computer][launched][itunes][music][store,][offering][legal][downloads][99][cents.])
+v(0 1 3 4 6 7 8 10 11 12 13 14 16 17): -4.2338457107543945	 ([funny][thing][18][months][apple][computer][launched][music][store,][offering][legal][music][99][cents.])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15): -8.007810592651367	 ([happened][18][months][since][apple][computer][launched][itunes][music][store,][offering][legal][music][downloads])
+v(0 1 2 3 4 5 9 14 15 16 17): -4.191378593444824	 ([funny][thing][happened][18][months][since][itunes][music][downloads][99][cents.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 2.9605495929718018	 ([funny][thing][happened][18][months][since][apple][computer][launched][itunes][music][store,][offering][legal][music][downloads][99][cents.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.02305793762207, EP: 1.0	 ([funny][thing][happened][18][months][since][apple][computer][launched][itunes][music][store,][offering][legal][music][downloads][99][cents.])
+v(0 1 16 17): 7.044572353363037, EP: 0.8780407905578613	 ([funny][thing][99][cents.])
+v(2 5 9 15): -3.0968594551086426, EP: -0.38599491119384766	 ([happened][since][itunes][downloads])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15): -2.9453024864196777, EP: -0.36710473895072937	 ([happened][18][months][since][apple][computer][launched][itunes][music][store,][offering][legal][music][downloads])
+v(2 3 4 5 9 14 15): -2.5625858306884766, EP: -0.31940263509750366	 ([happened][18][months][since][itunes][music][downloads])
+v(2 5 6 7 8 9 10 11 12 13 15): -2.5165553092956543, EP: -0.31366536021232605	 ([happened][since][apple][computer][launched][itunes][music][store,][offering][legal][downloads])
+v(0 1 2 5 6 7 8 9 10 11 12 13 15 16 17): 2.5081255435943604, EP: 0.31261464953422546	 ([funny][thing][happened][since][apple][computer][launched][itunes][music][store,][offering][legal][downloads][99][cents.])
+v(0 1 3 4 14 16 17): 2.0558536052703857, EP: 0.25624313950538635	 ([funny][thing][18][months][music][99][cents.])
+v(0 1 6 7 8 10 11 12 13 16 17): 1.9220314025878906, EP: 0.239563450217247	 ([funny][thing][apple][computer][launched][music][store,][offering][legal][99][cents.])
+v(3 4 6 7 8 10 11 12 13 14): -1.6599788665771484, EP: -0.20690101385116577	 ([18][months][apple][computer][launched][music][store,][offering][legal][music])
+v(6 7 8 10 11 12 13): -1.4173216819763184, EP: -0.17665603756904602	 ([apple][computer][launched][music][store,][offering][legal])
+v(0 1 2 3 4 5 9 14 15 16 17): 0.8711295127868652, EP: 0.10857824236154556	 ([funny][thing][happened][18][months][since][itunes][music][downloads][99][cents.])
+v(0 1 3 4 6 7 8 10 11 12 13 14 16 17): 0.8286623954772949, EP: 0.10328510403633118	 ([funny][thing][18][months][apple][computer][launched][music][store,][offering][legal][music][99][cents.])
+v(3 4 14): -0.5536789894104004, EP: -0.06901096552610397	 ([18][months][music])
+v(0 1 2 5 9 15 16 17): -0.007030963897705078, EP: -0.0008763446239754558	 ([funny][thing][happened][since][itunes][downloads][99][cents.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

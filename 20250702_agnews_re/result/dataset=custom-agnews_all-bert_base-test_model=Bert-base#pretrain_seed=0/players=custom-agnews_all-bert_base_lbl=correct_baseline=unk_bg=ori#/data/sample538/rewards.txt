@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: offshore
+Player 1: gains
+Player 2: drove
+Player 3: share
+Player 4: market
+Player 5: record
+Player 6: levels
+Player 7: today,
+Player 8: albeit
+Player 9: lower
+Player 10: average
+Player 11: volume
+Player 12: little
+Player 13: trade
+Player 14: three
+Player 15: states
+Player 16: public
+Player 17: holidays
+Player 18: today.
+---------- Rewards ----------
+v(): -5.500421524047852	 ([])
+v(1 2 3 4 6 9): 6.133952617645264	 ([gains][drove][share][market][levels][lower])
+v(0 5 7 8 10 18): 1.1395431756973267	 ([offshore][record][today,][albeit][average][today.])
+v(11 12 13 14 15 16 17): 2.1019821166992188	 ([volume][little][trade][three][states][public][holidays])
+v(0 1 2 3 4 5 6 7 8 9 10 18): 6.427914619445801	 ([offshore][gains][drove][share][market][record][levels][today,][albeit][lower][average][today.])
+v(1 2 3 4 6 9 11 12 13 14 15 16 17): 5.798499584197998	 ([gains][drove][share][market][levels][lower][volume][little][trade][three][states][public][holidays])
+v(0 5 7 8 10 11 12 13 14 15 16 17 18): 5.350865840911865	 ([offshore][record][today,][albeit][average][volume][little][trade][three][states][public][holidays][today.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.590282917022705	 ([offshore][gains][drove][share][market][record][levels][today,][albeit][lower][average][volume][little][trade][three][states][public][holidays][today.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 13.090703964233398, EP: 1.0	 ([offshore][gains][drove][share][market][record][levels][today,][albeit][lower][average][volume][little][trade][three][states][public][holidays][today.])
+v(0 1 2 3 4 5 6 7 8 9 10 18): 11.928336143493652, EP: 0.9112066030502319	 ([offshore][gains][drove][share][market][record][levels][today,][albeit][lower][average][today.])
+v(1 2 3 4 6 9): 11.634374618530273, EP: 0.8887508511543274	 ([gains][drove][share][market][levels][lower])
+v(1 2 3 4 6 9 11 12 13 14 15 16 17): 11.298921585083008, EP: 0.8631255626678467	 ([gains][drove][share][market][levels][lower][volume][little][trade][three][states][public][holidays])
+v(0 5 7 8 10 11 12 13 14 15 16 17 18): 10.851287841796875, EP: 0.8289307951927185	 ([offshore][record][today,][albeit][average][volume][little][trade][three][states][public][holidays][today.])
+v(11 12 13 14 15 16 17): 7.60240364074707, EP: 0.5807482600212097	 ([volume][little][trade][three][states][public][holidays])
+v(0 5 7 8 10 18): 6.639964580535889, EP: 0.5072274804115295	 ([offshore][record][today,][albeit][average][today.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: u. s.
+Player 3: industrial
+Player 4: output
+Player 5: advanced
+Player 6: in \ july,
+Player 7: american
+Player 8: factories
+Player 9: operated
+Player 10: highest
+Player 11: capacity \ in
+Player 12: three
+Player 13: years,
+Player 14: federal
+Player 15: reserve
+Player 16: report
+Player 17: tuesday \ showed.
+---------- Rewards ----------
+v(): -1.1228082180023193	 ([])
+v(0 3 4 5 6 8): 7.386569499969482	 ([reuters][industrial][output][advanced][in \ july,][factories])
+v(13 14 15 16 17): 7.858504295349121	 ([years,][federal][reserve][report][tuesday \ showed.])
+v(1 2 7 9 10 11 12): -3.403738021850586	 ([-][u. s.][american][operated][highest][capacity \ in][three])
+v(0 3 4 5 6 8 13 14 15 16 17): 7.950796127319336	 ([reuters][industrial][output][advanced][in \ july,][factories][years,][federal][reserve][report][tuesday \ showed.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 8.30990219116211	 ([reuters][-][u. s.][industrial][output][advanced][in \ july,][american][factories][operated][highest][capacity \ in][three])
+v(1 2 7 9 10 11 12 13 14 15 16 17): 7.107604026794434	 ([-][u. s.][american][operated][highest][capacity \ in][three][years,][federal][reserve][report][tuesday \ showed.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 7.926658630371094	 ([reuters][-][u. s.][industrial][output][advanced][in \ july,][american][factories][operated][highest][capacity \ in][three][years,][federal][reserve][report][tuesday \ showed.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 9.432710647583008, EP: 1.0423498153686523	 ([reuters][-][u. s.][industrial][output][advanced][in \ july,][american][factories][operated][highest][capacity \ in][three])
+v(0 3 4 5 6 8 13 14 15 16 17): 9.073604583740234, EP: 1.0026673078536987	 ([reuters][industrial][output][advanced][in \ july,][factories][years,][federal][reserve][report][tuesday \ showed.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.049467086791992, EP: 1.0	 ([reuters][-][u. s.][industrial][output][advanced][in \ july,][american][factories][operated][highest][capacity \ in][three][years,][federal][reserve][report][tuesday \ showed.])
+v(13 14 15 16 17): 8.98131275177002, EP: 0.9924687147140503	 ([years,][federal][reserve][report][tuesday \ showed.])
+v(0 3 4 5 6 8): 8.509377479553223, EP: 0.9403180480003357	 ([reuters][industrial][output][advanced][in \ july,][factories])
+v(1 2 7 9 10 11 12 13 14 15 16 17): 8.230412483215332, EP: 0.9094914197921753	 ([-][u. s.][american][operated][highest][capacity \ in][three][years,][federal][reserve][report][tuesday \ showed.])
+v(1 2 7 9 10 11 12): -2.2809298038482666, EP: -0.25205129384994507	 ([-][u. s.][american][operated][highest][capacity \ in][three])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

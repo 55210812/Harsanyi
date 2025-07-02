@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: microsoft
+Player 1: started
+Player 2: selling
+Player 3: music
+Player 4: tracks
+Player 5: msn
+Player 6: online
+Player 7: service,
+Player 8: taking
+Player 9: apple
+Player 10: computer
+Player 11: host
+Player 12: others
+Player 13: fast - growing
+Player 14: market
+Player 15: digital
+Player 16: music.
+---------- Rewards ----------
+v(): 2.2554831504821777	 ([])
+v(0 5 6 8 9 10 15): 6.180383682250977	 ([microsoft][msn][online][taking][apple][computer][digital])
+v(1 11 13 14): -1.390392541885376	 ([started][host][fast - growing][market])
+v(2 3 4 7 12 16): 4.261333465576172	 ([selling][music][tracks][service,][others][music.])
+v(0 1 5 6 8 9 10 11 13 14 15): 7.112938404083252	 ([microsoft][started][msn][online][taking][apple][computer][host][fast - growing][market][digital])
+v(0 2 3 4 5 6 7 8 9 10 12 15 16): 5.8744215965271	 ([microsoft][selling][music][tracks][msn][online][service,][taking][apple][computer][others][digital][music.])
+v(1 2 3 4 7 11 12 13 14 16): 1.6394643783569336	 ([started][selling][music][tracks][service,][host][others][fast - growing][market][music.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 3.28920841217041	 ([microsoft][started][selling][music][tracks][msn][online][service,][taking][apple][computer][host][others][fast - growing][market][digital][music.])
+---------- Rewards-v() ----------
+v(0 1 5 6 8 9 10 11 13 14 15): 4.857455253601074, EP: 4.698980808258057	 ([microsoft][started][msn][online][taking][apple][computer][host][fast - growing][market][digital])
+v(0 5 6 8 9 10 15): 3.924900531768799, EP: 3.7968506813049316	 ([microsoft][msn][online][taking][apple][computer][digital])
+v(1 11 13 14): -3.6458756923675537, EP: -3.5269291400909424	 ([started][host][fast - growing][market])
+v(0 2 3 4 5 6 7 8 9 10 12 15 16): 3.618938446044922, EP: 3.500870704650879	 ([microsoft][selling][music][tracks][msn][online][service,][taking][apple][computer][others][digital][music.])
+v(2 3 4 7 12 16): 2.005850315093994, EP: 1.940409541130066	 ([selling][music][tracks][service,][others][music.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 1.0337252616882324, EP: 1.0	 ([microsoft][started][selling][music][tracks][msn][online][service,][taking][apple][computer][host][others][fast - growing][market][digital][music.])
+v(1 2 3 4 7 11 12 13 14 16): -0.6160187721252441, EP: -0.5959211587905884	 ([started][selling][music][tracks][service,][host][others][fast - growing][market][music.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

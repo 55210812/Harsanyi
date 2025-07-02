@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: st.
+Player 1: louis
+Player 2: -
+Player 3: entering
+Player 4: game
+Player 5: 7
+Player 6: national
+Player 7: league
+Player 8: championship
+Player 9: series
+Player 10: thursday
+Player 11: night
+Player 12: busch
+Player 13: stadium,
+Player 14: st.
+Player 15: louis
+Player 16: cardinals
+Player 17: houston
+Player 18: astros
+Player 19: played
+Player 20: six
+Player 21: games
+Player 22: evenly
+Player 23: two
+Player 24: teams
+Player 25: possibly
+Player 26: could
+Player 27: play.
+---------- Rewards ----------
+v(): -3.686535596847534	 ([])
+v(4 7 8 9 13 18 19 20 21 24 27): 9.753276824951172	 ([game][league][championship][series][stadium,][astros][played][six][games][teams][play.])
+v(0 1 2 3 5 6 10 11 12 14 15 16 17 22 23 25 26): 9.567327499389648	 ([st.][louis][-][entering][7][national][thursday][night][busch][st.][louis][cardinals][houston][evenly][two][possibly][could])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 9.398320198059082	 ([st.][louis][-][entering][game][7][national][league][championship][series][thursday][night][busch][stadium,][st.][louis][cardinals][houston][astros][played][six][games][evenly][two][teams][possibly][could][play.])
+---------- Rewards-v() ----------
+v(4 7 8 9 13 18 19 20 21 24 27): 13.439812660217285, EP: 1.0271272659301758	 ([game][league][championship][series][stadium,][astros][played][six][games][teams][play.])
+v(0 1 2 3 5 6 10 11 12 14 15 16 17 22 23 25 26): 13.253863334655762, EP: 1.0129162073135376	 ([st.][louis][-][entering][7][national][thursday][night][busch][st.][louis][cardinals][houston][evenly][two][possibly][could])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 13.084856033325195, EP: 1.0	 ([st.][louis][-][entering][game][7][national][league][championship][series][thursday][night][busch][stadium,][st.][louis][cardinals][houston][astros][played][six][games][evenly][two][teams][possibly][could][play.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

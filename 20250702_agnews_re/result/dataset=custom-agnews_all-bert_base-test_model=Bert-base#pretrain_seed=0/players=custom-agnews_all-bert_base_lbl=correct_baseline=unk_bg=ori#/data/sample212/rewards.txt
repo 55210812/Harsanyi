@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: paris
+Player 1: ( reuters )
+Player 2: -
+Player 3: marat
+Player 4: safin
+Player 5: paris
+Player 6: masters
+Player 7: record - equaling
+Player 8: third
+Player 9: time
+Player 10: beat
+Player 11: czech
+Player 12: qualifier
+Player 13: radek
+Player 14: stepanek
+Player 15: 6 - 3
+Player 16: 7 - 6
+Player 17: 6 - 3
+Player 18: sunday.
+---------- Rewards ----------
+v(): 3.4436299800872803	 ([])
+v(0 3 5 11): 5.5016770362854	 ([paris][marat][paris][czech])
+v(1 2 7 8 9): 3.0741920471191406	 ([( reuters )][-][record - equaling][third][time])
+v(4 6 10 12 13 14 18): 7.880767822265625	 ([safin][masters][beat][qualifier][radek][stepanek][sunday.])
+v(15 16 17): 4.888482093811035	 ([6 - 3][7 - 6][6 - 3])
+v(0 1 2 3 5 7 8 9 11): 6.609355449676514	 ([paris][( reuters )][-][marat][paris][record - equaling][third][time][czech])
+v(0 3 4 5 6 10 11 12 13 14 18): 9.47014331817627	 ([paris][marat][safin][paris][masters][beat][czech][qualifier][radek][stepanek][sunday.])
+v(0 3 5 11 15 16 17): 6.737538814544678	 ([paris][marat][paris][czech][6 - 3][7 - 6][6 - 3])
+v(1 2 4 6 7 8 9 10 12 13 14 18): 9.629854202270508	 ([( reuters )][-][safin][masters][record - equaling][third][time][beat][qualifier][radek][stepanek][sunday.])
+v(1 2 7 8 9 15 16 17): 4.859720230102539	 ([( reuters )][-][record - equaling][third][time][6 - 3][7 - 6][6 - 3])
+v(4 6 10 12 13 14 15 16 17 18): 9.40142822265625	 ([safin][masters][beat][qualifier][radek][stepanek][6 - 3][7 - 6][6 - 3][sunday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 18): 9.651803970336914	 ([paris][( reuters )][-][marat][safin][paris][masters][record - equaling][third][time][beat][czech][qualifier][radek][stepanek][sunday.])
+v(0 1 2 3 5 7 8 9 11 15 16 17): 7.470424652099609	 ([paris][( reuters )][-][marat][paris][record - equaling][third][time][czech][6 - 3][7 - 6][6 - 3])
+v(0 3 4 5 6 10 11 12 13 14 15 16 17 18): 9.591480255126953	 ([paris][marat][safin][paris][masters][beat][czech][qualifier][radek][stepanek][6 - 3][7 - 6][6 - 3][sunday.])
+v(1 2 4 6 7 8 9 10 12 13 14 15 16 17 18): 9.64816665649414	 ([( reuters )][-][safin][masters][record - equaling][third][time][beat][qualifier][radek][stepanek][6 - 3][7 - 6][6 - 3][sunday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.653827667236328	 ([paris][( reuters )][-][marat][safin][paris][masters][record - equaling][third][time][beat][czech][qualifier][radek][stepanek][6 - 3][7 - 6][6 - 3][sunday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 6.210197448730469, EP: 1.0	 ([paris][( reuters )][-][marat][safin][paris][masters][record - equaling][third][time][beat][czech][qualifier][radek][stepanek][6 - 3][7 - 6][6 - 3][sunday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 18): 6.208173751831055, EP: 0.9996741414070129	 ([paris][( reuters )][-][marat][safin][paris][masters][record - equaling][third][time][beat][czech][qualifier][radek][stepanek][sunday.])
+v(1 2 4 6 7 8 9 10 12 13 14 15 16 17 18): 6.204536437988281, EP: 0.9990884065628052	 ([( reuters )][-][safin][masters][record - equaling][third][time][beat][qualifier][radek][stepanek][6 - 3][7 - 6][6 - 3][sunday.])
+v(1 2 4 6 7 8 9 10 12 13 14 18): 6.186223983764648, EP: 0.996139645576477	 ([( reuters )][-][safin][masters][record - equaling][third][time][beat][qualifier][radek][stepanek][sunday.])
+v(0 3 4 5 6 10 11 12 13 14 15 16 17 18): 6.147850036621094, EP: 0.9899604916572571	 ([paris][marat][safin][paris][masters][beat][czech][qualifier][radek][stepanek][6 - 3][7 - 6][6 - 3][sunday.])
+v(0 3 4 5 6 10 11 12 13 14 18): 6.02651309967041, EP: 0.9704221487045288	 ([paris][marat][safin][paris][masters][beat][czech][qualifier][radek][stepanek][sunday.])
+v(4 6 10 12 13 14 15 16 17 18): 5.957798004150391, EP: 0.9593572616577148	 ([safin][masters][beat][qualifier][radek][stepanek][6 - 3][7 - 6][6 - 3][sunday.])
+v(4 6 10 12 13 14 18): 4.437137603759766, EP: 0.7144922018051147	 ([safin][masters][beat][qualifier][radek][stepanek][sunday.])
+v(0 1 2 3 5 7 8 9 11 15 16 17): 4.02679443359375, EP: 0.6484165191650391	 ([paris][( reuters )][-][marat][paris][record - equaling][third][time][czech][6 - 3][7 - 6][6 - 3])
+v(0 3 5 11 15 16 17): 3.2939088344573975, EP: 0.5304032564163208	 ([paris][marat][paris][czech][6 - 3][7 - 6][6 - 3])
+v(0 1 2 3 5 7 8 9 11): 3.1657254695892334, EP: 0.5097624659538269	 ([paris][( reuters )][-][marat][paris][record - equaling][third][time][czech])
+v(0 3 5 11): 2.05804705619812, EP: 0.33139801025390625	 ([paris][marat][paris][czech])
+v(15 16 17): 1.4448521137237549, EP: 0.2326579988002777	 ([6 - 3][7 - 6][6 - 3])
+v(1 2 7 8 9 15 16 17): 1.4160902500152588, EP: 0.2280266135931015	 ([( reuters )][-][record - equaling][third][time][6 - 3][7 - 6][6 - 3])
+v(1 2 7 8 9): -0.36943793296813965, EP: -0.059488918632268906	 ([( reuters )][-][record - equaling][third][time])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

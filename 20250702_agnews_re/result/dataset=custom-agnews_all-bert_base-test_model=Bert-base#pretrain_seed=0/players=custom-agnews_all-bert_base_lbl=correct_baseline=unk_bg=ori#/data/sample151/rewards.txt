@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: sun
+Player 1: microsystems
+Player 2: acquired
+Player 3: enterprise
+Player 4: applications
+Player 5: management
+Player 6: company
+Player 7: sevenspace,
+Player 8: allowing
+Player 9: managed
+Player 10: services
+Player 11: arm
+Player 12: support
+Player 13: hp - ux
+Player 14: ibm
+Player 15: # 39 ; s
+Player 16: aix
+Player 17: systems
+Player 18: first
+Player 19: time.
+---------- Rewards ----------
+v(): 2.8074193000793457	 ([])
+v(3 5 6 8 10 14): 0.38460731506347656	 ([enterprise][management][company][allowing][services][ibm])
+v(1 2 7 12 13 15 16 17 18 19): 6.782653331756592	 ([microsystems][acquired][sevenspace,][support][hp - ux][# 39 ; s][aix][systems][first][time.])
+v(0 4 9 11): 0.836895227432251	 ([sun][applications][managed][arm])
+v(1 2 3 5 6 7 8 10 12 13 14 15 16 17 18 19): 6.625073432922363	 ([microsystems][acquired][enterprise][management][company][sevenspace,][allowing][services][support][hp - ux][ibm][# 39 ; s][aix][systems][first][time.])
+v(0 3 4 5 6 8 9 10 11 14): 5.290334701538086	 ([sun][enterprise][applications][management][company][allowing][managed][services][arm][ibm])
+v(0 1 2 4 7 9 11 12 13 15 16 17 18 19): 6.917428493499756	 ([sun][microsystems][acquired][applications][sevenspace,][managed][arm][support][hp - ux][# 39 ; s][aix][systems][first][time.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 5.417436599731445	 ([sun][microsystems][acquired][enterprise][applications][management][company][sevenspace,][allowing][managed][services][arm][support][hp - ux][ibm][# 39 ; s][aix][systems][first][time.])
+---------- Rewards-v() ----------
+v(0 1 2 4 7 9 11 12 13 15 16 17 18 19): 4.11000919342041, EP: 1.574705719947815	 ([sun][microsystems][acquired][applications][sevenspace,][managed][arm][support][hp - ux][# 39 ; s][aix][systems][first][time.])
+v(1 2 7 12 13 15 16 17 18 19): 3.975234031677246, EP: 1.5230680704116821	 ([microsystems][acquired][sevenspace,][support][hp - ux][# 39 ; s][aix][systems][first][time.])
+v(1 2 3 5 6 7 8 10 12 13 14 15 16 17 18 19): 3.8176541328430176, EP: 1.4626930952072144	 ([microsystems][acquired][enterprise][management][company][sevenspace,][allowing][services][support][hp - ux][ibm][# 39 ; s][aix][systems][first][time.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 2.6100172996520996, EP: 1.0	 ([sun][microsystems][acquired][enterprise][applications][management][company][sevenspace,][allowing][managed][services][arm][support][hp - ux][ibm][# 39 ; s][aix][systems][first][time.])
+v(0 3 4 5 6 8 9 10 11 14): 2.4829154014587402, EP: 0.9513022899627686	 ([sun][enterprise][applications][management][company][allowing][managed][services][arm][ibm])
+v(3 5 6 8 10 14): -2.422811985015869, EP: -0.9282742738723755	 ([enterprise][management][company][allowing][services][ibm])
+v(0 4 9 11): -1.9705240726470947, EP: -0.7549850344657898	 ([sun][applications][managed][arm])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

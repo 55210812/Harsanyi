@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: coach
+Player 1: herman
+Player 2: edward's
+Player 3: first
+Player 4: three
+Player 5: seasons,
+Player 6: jets
+Player 7: went
+Player 8: 4 - 4,
+Player 9: 6 - 2
+Player 10: 5 - 3
+Player 11: halfway
+Player 12: point.
+---------- Rewards ----------
+v(): -4.982673168182373	 ([])
+v(2 4 5 6): -8.836345672607422	 ([edward's][three][seasons,][jets])
+v(0 1 3 7 11): 7.103772163391113	 ([coach][herman][first][went][halfway])
+v(8 9 10 12): -1.8182036876678467	 ([4 - 4,][6 - 2][5 - 3][point.])
+v(0 1 2 3 4 5 6 7 11): 9.321188926696777	 ([coach][herman][edward's][first][three][seasons,][jets][went][halfway])
+v(2 4 5 6 8 9 10 12): 3.9638333320617676	 ([edward's][three][seasons,][jets][4 - 4,][6 - 2][5 - 3][point.])
+v(0 1 3 7 8 9 10 11 12): 6.277215957641602	 ([coach][herman][first][went][4 - 4,][6 - 2][5 - 3][halfway][point.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 5.18294620513916	 ([coach][herman][edward's][first][three][seasons,][jets][went][4 - 4,][6 - 2][5 - 3][halfway][point.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 11): 14.303861618041992, EP: 1.407082200050354	 ([coach][herman][edward's][first][three][seasons,][jets][went][halfway])
+v(0 1 3 7 11): 12.086444854736328, EP: 1.188953161239624	 ([coach][herman][first][went][halfway])
+v(0 1 3 7 8 9 10 11 12): 11.259889602661133, EP: 1.1076443195343018	 ([coach][herman][first][went][4 - 4,][6 - 2][5 - 3][halfway][point.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 10.165618896484375, EP: 1.0	 ([coach][herman][edward's][first][three][seasons,][jets][went][4 - 4,][6 - 2][5 - 3][halfway][point.])
+v(2 4 5 6 8 9 10 12): 8.94650650024414, EP: 0.8800749182701111	 ([edward's][three][seasons,][jets][4 - 4,][6 - 2][5 - 3][point.])
+v(2 4 5 6): -3.853672504425049, EP: -0.379088819026947	 ([edward's][three][seasons,][jets])
+v(8 9 10 12): 3.1644694805145264, EP: 0.311291366815567	 ([4 - 4,][6 - 2][5 - 3][point.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: time
+Player 3: yet
+Player 4: come
+Player 5: impose
+Player 6: international
+Player 7: sanctions
+Player 8: government
+Player 9: sudan,
+Player 10: un
+Player 11: secretary
+Player 12: general
+Player 13: kofi
+Player 14: annan's
+Player 15: envoy
+Player 16: jan
+Player 17: pronk
+Player 18: said
+Player 19: visit
+Player 20: oslo.
+---------- Rewards ----------
+v(): -6.103316307067871	 ([])
+v(0 1 9 13 15 16): 8.4195556640625	 ([afp][-][sudan,][kofi][envoy][jan])
+v(3 5 10 11 12 14 17 20): 7.372280120849609	 ([yet][impose][un][secretary][general][annan's][pronk][oslo.])
+v(2 4 6 7 8 18 19): 2.376347541809082	 ([time][come][international][sanctions][government][said][visit])
+v(0 1 3 5 9 10 11 12 13 14 15 16 17 20): 8.477693557739258	 ([afp][-][yet][impose][sudan,][un][secretary][general][kofi][annan's][envoy][jan][pronk][oslo.])
+v(0 1 2 4 6 7 8 9 13 15 16 18 19): 8.51576042175293	 ([afp][-][time][come][international][sanctions][government][sudan,][kofi][envoy][jan][said][visit])
+v(2 3 4 5 6 7 8 10 11 12 14 17 18 19 20): 8.356942176818848	 ([time][yet][come][impose][international][sanctions][government][un][secretary][general][annan's][pronk][said][visit][oslo.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.539042472839355	 ([afp][-][time][yet][come][impose][international][sanctions][government][sudan,][un][secretary][general][kofi][annan's][envoy][jan][pronk][said][visit][oslo.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 14.642358779907227, EP: 1.0	 ([afp][-][time][yet][come][impose][international][sanctions][government][sudan,][un][secretary][general][kofi][annan's][envoy][jan][pronk][said][visit][oslo.])
+v(0 1 2 4 6 7 8 9 13 15 16 18 19): 14.6190767288208, EP: 0.9984099268913269	 ([afp][-][time][come][international][sanctions][government][sudan,][kofi][envoy][jan][said][visit])
+v(0 1 3 5 9 10 11 12 13 14 15 16 17 20): 14.581009864807129, EP: 0.9958101511001587	 ([afp][-][yet][impose][sudan,][un][secretary][general][kofi][annan's][envoy][jan][pronk][oslo.])
+v(0 1 9 13 15 16): 14.522871971130371, EP: 0.9918396472930908	 ([afp][-][sudan,][kofi][envoy][jan])
+v(2 3 4 5 6 7 8 10 11 12 14 17 18 19 20): 14.460258483886719, EP: 0.98756343126297	 ([time][yet][come][impose][international][sanctions][government][un][secretary][general][annan's][pronk][said][visit][oslo.])
+v(3 5 10 11 12 14 17 20): 13.47559642791748, EP: 0.9203159809112549	 ([yet][impose][un][secretary][general][annan's][pronk][oslo.])
+v(2 4 6 7 8 18 19): 8.479663848876953, EP: 0.5791187286376953	 ([time][come][international][sanctions][government][said][visit])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,60 @@
+---------- Players ----------
+Player 0: vienna
+Player 1: ( reuters )
+Player 2: -
+Player 3: iran's
+Player 4: policymakers
+Player 5: may
+Player 6: decide
+Player 7: extend
+Player 8: partial
+Player 9: freeze
+Player 10: uranium
+Player 11: enrichment,
+Player 12: process
+Player 13: make
+Player 14: fuel
+Player 15: nuclear
+Player 16: power
+Player 17: plants
+Player 18: weapons,
+Player 19: senior
+Player 20: iranian
+Player 21: official
+Player 22: said
+Player 23: friday.
+---------- Rewards ----------
+v(): -6.985922336578369	 ([])
+v(1 2 3 20 21): 5.780970573425293	 ([( reuters )][-][iran's][iranian][official])
+v(0 4 5 8 9 11 19 23): 4.58062219619751	 ([vienna][policymakers][may][partial][freeze][enrichment,][senior][friday.])
+v(10 16 17): -4.11156702041626	 ([uranium][power][plants])
+v(6 7 12 13 14 15 18 22): 1.6740326881408691	 ([decide][extend][process][make][fuel][nuclear][weapons,][said])
+v(0 1 2 3 4 5 8 9 11 19 20 21 23): 7.786904811859131	 ([vienna][( reuters )][-][iran's][policymakers][may][partial][freeze][enrichment,][senior][iranian][official][friday.])
+v(1 2 3 10 16 17 20 21): 4.973985195159912	 ([( reuters )][-][iran's][uranium][power][plants][iranian][official])
+v(1 2 3 6 7 12 13 14 15 18 20 21 22): 7.96013879776001	 ([( reuters )][-][iran's][decide][extend][process][make][fuel][nuclear][weapons,][iranian][official][said])
+v(0 4 5 8 9 10 11 16 17 19 23): 5.725569725036621	 ([vienna][policymakers][may][partial][freeze][uranium][enrichment,][power][plants][senior][friday.])
+v(0 4 5 6 7 8 9 11 12 13 14 15 18 19 22 23): 7.386013507843018	 ([vienna][policymakers][may][decide][extend][partial][freeze][enrichment,][process][make][fuel][nuclear][weapons,][senior][said][friday.])
+v(6 7 10 12 13 14 15 16 17 18 22): 0.47908639907836914	 ([decide][extend][uranium][process][make][fuel][nuclear][power][plants][weapons,][said])
+v(0 1 2 3 4 5 8 9 10 11 16 17 19 20 21 23): 7.966281890869141	 ([vienna][( reuters )][-][iran's][policymakers][may][partial][freeze][uranium][enrichment,][power][plants][senior][iranian][official][friday.])
+v(0 1 2 3 4 5 6 7 8 9 11 12 13 14 15 18 19 20 21 22 23): 8.247455596923828	 ([vienna][( reuters )][-][iran's][policymakers][may][decide][extend][partial][freeze][enrichment,][process][make][fuel][nuclear][weapons,][senior][iranian][official][said][friday.])
+v(1 2 3 6 7 10 12 13 14 15 16 17 18 20 21 22): 7.09486198425293	 ([( reuters )][-][iran's][decide][extend][uranium][process][make][fuel][nuclear][power][plants][weapons,][iranian][official][said])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 22 23): 6.1977643966674805	 ([vienna][policymakers][may][decide][extend][partial][freeze][uranium][enrichment,][process][make][fuel][nuclear][power][plants][weapons,][senior][said][friday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.081296920776367	 ([vienna][( reuters )][-][iran's][policymakers][may][decide][extend][partial][freeze][uranium][enrichment,][process][make][fuel][nuclear][power][plants][weapons,][senior][iranian][official][said][friday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 11 12 13 14 15 18 19 20 21 22 23): 15.233377456665039, EP: 1.0110278129577637	 ([vienna][( reuters )][-][iran's][policymakers][may][decide][extend][partial][freeze][enrichment,][process][make][fuel][nuclear][weapons,][senior][iranian][official][said][friday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 15.067218780517578, EP: 1.0	 ([vienna][( reuters )][-][iran's][policymakers][may][decide][extend][partial][freeze][uranium][enrichment,][process][make][fuel][nuclear][power][plants][weapons,][senior][iranian][official][said][friday.])
+v(0 1 2 3 4 5 8 9 10 11 16 17 19 20 21 23): 14.952203750610352, EP: 0.9923665523529053	 ([vienna][( reuters )][-][iran's][policymakers][may][partial][freeze][uranium][enrichment,][power][plants][senior][iranian][official][friday.])
+v(1 2 3 6 7 12 13 14 15 18 20 21 22): 14.946061134338379, EP: 0.9919588565826416	 ([( reuters )][-][iran's][decide][extend][process][make][fuel][nuclear][weapons,][iranian][official][said])
+v(0 1 2 3 4 5 8 9 11 19 20 21 23): 14.7728271484375, EP: 0.9804614186286926	 ([vienna][( reuters )][-][iran's][policymakers][may][partial][freeze][enrichment,][senior][iranian][official][friday.])
+v(0 4 5 6 7 8 9 11 12 13 14 15 18 19 22 23): 14.371935844421387, EP: 0.9538546204566956	 ([vienna][policymakers][may][decide][extend][partial][freeze][enrichment,][process][make][fuel][nuclear][weapons,][senior][said][friday.])
+v(1 2 3 6 7 10 12 13 14 15 16 17 18 20 21 22): 14.08078384399414, EP: 0.934531033039093	 ([( reuters )][-][iran's][decide][extend][uranium][process][make][fuel][nuclear][power][plants][weapons,][iranian][official][said])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 22 23): 13.183687210083008, EP: 0.8749914169311523	 ([vienna][policymakers][may][decide][extend][partial][freeze][uranium][enrichment,][process][make][fuel][nuclear][power][plants][weapons,][senior][said][friday.])
+v(1 2 3 20 21): 12.76689338684082, EP: 0.8473291397094727	 ([( reuters )][-][iran's][iranian][official])
+v(0 4 5 8 9 10 11 16 17 19 23): 12.711492538452148, EP: 0.8436521887779236	 ([vienna][policymakers][may][partial][freeze][uranium][enrichment,][power][plants][senior][friday.])
+v(1 2 3 10 16 17 20 21): 11.959907531738281, EP: 0.7937700748443604	 ([( reuters )][-][iran's][uranium][power][plants][iranian][official])
+v(0 4 5 8 9 11 19 23): 11.566544532775879, EP: 0.7676628828048706	 ([vienna][policymakers][may][partial][freeze][enrichment,][senior][friday.])
+v(6 7 12 13 14 15 18 22): 8.659955024719238, EP: 0.5747547149658203	 ([decide][extend][process][make][fuel][nuclear][weapons,][said])
+v(6 7 10 12 13 14 15 16 17 18 22): 7.465008735656738, EP: 0.495447039604187	 ([decide][extend][uranium][process][make][fuel][nuclear][power][plants][weapons,][said])
+v(10 16 17): 2.8743553161621094, EP: 0.19076880812644958	 ([uranium][power][plants])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

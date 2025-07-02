@@ -1,0 +1,22 @@
+---------- Players ----------
+Player 0: analysts
+Player 1: speculate
+Player 2: software
+Player 3: giant
+Player 4: focus
+Player 5: low
+Player 6: end
+Player 7: market,
+Player 8: least
+Player 9: initially.
+---------- Rewards ----------
+v(): 4.121880531311035	 ([])
+v(2 3 4 5 6 7): 2.7380542755126953	 ([software][giant][focus][low][end][market,])
+v(0 1 8 9): 1.8845454454421997	 ([analysts][speculate][least][initially.])
+v(0 1 2 3 4 5 6 7 8 9): 3.283521890640259	 ([analysts][speculate][software][giant][focus][low][end][market,][least][initially.])
+---------- Rewards-v() ----------
+v(0 1 8 9): -2.237335205078125, EP: 2.6687090396881104	 ([analysts][speculate][least][initially.])
+v(2 3 4 5 6 7): -1.3838262557983398, EP: 1.6506375074386597	 ([software][giant][focus][low][end][market,])
+v(0 1 2 3 4 5 6 7 8 9): -0.8383586406707764, EP: 1.0	 ([analysts][speculate][software][giant][focus][low][end][market,][least][initially.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

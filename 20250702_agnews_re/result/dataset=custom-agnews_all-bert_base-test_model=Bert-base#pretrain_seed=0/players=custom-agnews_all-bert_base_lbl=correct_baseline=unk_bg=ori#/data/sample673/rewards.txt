@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: older,
+Player 1: somewhat
+Player 2: run - down
+Player 3: little
+Player 4: rust
+Player 5: showing,
+Player 6: allan
+Player 7: houston
+Player 8: like
+Player 9: # 39 ; 57
+Player 10: mustang
+Player 11: collecting
+Player 12: dust
+Player 13: garage.
+Player 14: still
+Player 15: runs.
+---------- Rewards ----------
+v(): -3.8412230014801025	 ([])
+v(0 4 6 7 10 12): 0.07019186019897461	 ([older,][rust][allan][houston][mustang][dust])
+v(3 5 8 9 11 13 14 15): -6.772054672241211	 ([little][showing,][like][# 39 ; 57][collecting][garage.][still][runs.])
+v(1 2): -5.422404766082764	 ([somewhat][run - down])
+v(0 3 4 5 6 7 8 9 10 11 12 13 14 15): 5.176839828491211	 ([older,][little][rust][showing,][allan][houston][like][# 39 ; 57][mustang][collecting][dust][garage.][still][runs.])
+v(0 1 2 4 6 7 10 12): 0.6584856510162354	 ([older,][somewhat][run - down][rust][allan][houston][mustang][dust])
+v(1 2 3 5 8 9 11 13 14 15): -7.509108543395996	 ([somewhat][run - down][little][showing,][like][# 39 ; 57][collecting][garage.][still][runs.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 6.9123077392578125	 ([older,][somewhat][run - down][little][rust][showing,][allan][houston][like][# 39 ; 57][mustang][collecting][dust][garage.][still][runs.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 10.753530502319336, EP: 1.0	 ([older,][somewhat][run - down][little][rust][showing,][allan][houston][like][# 39 ; 57][mustang][collecting][dust][garage.][still][runs.])
+v(0 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.018062591552734, EP: 0.8386141061782837	 ([older,][little][rust][showing,][allan][houston][like][# 39 ; 57][mustang][collecting][dust][garage.][still][runs.])
+v(0 1 2 4 6 7 10 12): 4.499708652496338, EP: 0.4184401333332062	 ([older,][somewhat][run - down][rust][allan][houston][mustang][dust])
+v(0 4 6 7 10 12): 3.911414861679077, EP: 0.36373308300971985	 ([older,][rust][allan][houston][mustang][dust])
+v(1 2 3 5 8 9 11 13 14 15): -3.6678855419158936, EP: -0.34108662605285645	 ([somewhat][run - down][little][showing,][like][# 39 ; 57][collecting][garage.][still][runs.])
+v(3 5 8 9 11 13 14 15): -2.9308316707611084, EP: -0.2725459933280945	 ([little][showing,][like][# 39 ; 57][collecting][garage.][still][runs.])
+v(1 2): -1.5811817646026611, EP: -0.14703838527202606	 ([somewhat][run - down])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,52 @@
+---------- Players ----------
+Player 0: homestead,
+Player 1: fla.
+Player 2: ( sports
+Player 3: network )
+Player 4: -
+Player 5: kevin
+Player 6: harvick
+Player 7: held
+Player 8: fellow
+Player 9: nextel
+Player 10: cup
+Player 11: driver
+Player 12: jamie
+Player 13: mcmurray
+Player 14: three
+Player 15: restarts
+Player 16: final
+Player 17: 20
+Player 18: laps
+Player 19: capture
+Player 20: ford
+Player 21: 300.
+Player 22: no. 29
+Player 23: chevrolet
+Player 24: crossed
+Player 25: finish
+Player 26: line
+Player 27: 0. 218
+Player 28: seconds
+Player 29: ahead
+Player 30: runner - up
+Player 31: mcmurray.
+---------- Rewards ----------
+v(): -3.1361234188079834	 ([])
+v(1 11 17 20 21 22 23 24 27 28): -8.504919052124023	 ([fla.][driver][20][ford][300.][no. 29][chevrolet][crossed][0. 218][seconds])
+v(0 2 3 4 5 6 12 13 25 26 29 30 31): 9.669466018676758	 ([homestead,][( sports][network )][-][kevin][harvick][jamie][mcmurray][finish][line][ahead][runner - up][mcmurray.])
+v(7 8 9 10 14 15 16 18 19): 6.521841049194336	 ([held][fellow][nextel][cup][three][restarts][final][laps][capture])
+v(0 1 2 3 4 5 6 11 12 13 17 20 21 22 23 24 25 26 27 28 29 30 31): 9.690653800964355	 ([homestead,][fla.][( sports][network )][-][kevin][harvick][driver][jamie][mcmurray][20][ford][300.][no. 29][chevrolet][crossed][finish][line][0. 218][seconds][ahead][runner - up][mcmurray.])
+v(1 7 8 9 10 11 14 15 16 17 18 19 20 21 22 23 24 27 28): 9.329916954040527	 ([fla.][held][fellow][nextel][cup][driver][three][restarts][final][20][laps][capture][ford][300.][no. 29][chevrolet][crossed][0. 218][seconds])
+v(0 2 3 4 5 6 7 8 9 10 12 13 14 15 16 18 19 25 26 29 30 31): 9.68867301940918	 ([homestead,][( sports][network )][-][kevin][harvick][held][fellow][nextel][cup][jamie][mcmurray][three][restarts][final][laps][capture][finish][line][ahead][runner - up][mcmurray.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31): 9.71547794342041	 ([homestead,][fla.][( sports][network )][-][kevin][harvick][held][fellow][nextel][cup][driver][jamie][mcmurray][three][restarts][final][20][laps][capture][ford][300.][no. 29][chevrolet][crossed][finish][line][0. 218][seconds][ahead][runner - up][mcmurray.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31): 12.851601600646973, EP: 1.0	 ([homestead,][fla.][( sports][network )][-][kevin][harvick][held][fellow][nextel][cup][driver][jamie][mcmurray][three][restarts][final][20][laps][capture][ford][300.][no. 29][chevrolet][crossed][finish][line][0. 218][seconds][ahead][runner - up][mcmurray.])
+v(0 1 2 3 4 5 6 11 12 13 17 20 21 22 23 24 25 26 27 28 29 30 31): 12.826777458190918, EP: 0.9980683922767639	 ([homestead,][fla.][( sports][network )][-][kevin][harvick][driver][jamie][mcmurray][20][ford][300.][no. 29][chevrolet][crossed][finish][line][0. 218][seconds][ahead][runner - up][mcmurray.])
+v(0 2 3 4 5 6 7 8 9 10 12 13 14 15 16 18 19 25 26 29 30 31): 12.824796676635742, EP: 0.9979142546653748	 ([homestead,][( sports][network )][-][kevin][harvick][held][fellow][nextel][cup][jamie][mcmurray][three][restarts][final][laps][capture][finish][line][ahead][runner - up][mcmurray.])
+v(0 2 3 4 5 6 12 13 25 26 29 30 31): 12.80558967590332, EP: 0.9964197278022766	 ([homestead,][( sports][network )][-][kevin][harvick][jamie][mcmurray][finish][line][ahead][runner - up][mcmurray.])
+v(1 7 8 9 10 11 14 15 16 17 18 19 20 21 22 23 24 27 28): 12.46604061126709, EP: 0.9699990153312683	 ([fla.][held][fellow][nextel][cup][driver][three][restarts][final][20][laps][capture][ford][300.][no. 29][chevrolet][crossed][0. 218][seconds])
+v(7 8 9 10 14 15 16 18 19): 9.657964706420898, EP: 0.7514989376068115	 ([held][fellow][nextel][cup][three][restarts][final][laps][capture])
+v(1 11 17 20 21 22 23 24 27 28): -5.368795394897461, EP: -0.4177530109882355	 ([fla.][driver][20][ford][300.][no. 29][chevrolet][crossed][0. 218][seconds])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

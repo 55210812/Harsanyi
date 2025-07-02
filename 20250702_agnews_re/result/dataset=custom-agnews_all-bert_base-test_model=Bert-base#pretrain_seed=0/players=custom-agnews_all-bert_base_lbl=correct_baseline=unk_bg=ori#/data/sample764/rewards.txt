@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: cairo
+Player 1: - -
+Player 2: osama
+Player 3: bin
+Player 4: laden's
+Player 5: top
+Player 6: deputy
+Player 7: vowed
+Player 8: videotape
+Player 9: aired
+Player 10: yesterday
+Player 11: keep
+Player 12: fighting
+Player 13: united
+Player 14: states
+Player 15: washington
+Player 16: changes
+Player 17: policies.
+---------- Rewards ----------
+v(): -5.932574272155762	 ([])
+v(3 4 5 6): 2.8239970207214355	 ([bin][laden's][top][deputy])
+v(0 1 2 8 10 11 12 15 16): -3.393404960632324	 ([cairo][- -][osama][videotape][yesterday][keep][fighting][washington][changes])
+v(7 9 13 14 17): -2.575486183166504	 ([vowed][aired][united][states][policies.])
+v(0 1 2 3 4 5 6 8 10 11 12 15 16): 8.180000305175781	 ([cairo][- -][osama][bin][laden's][top][deputy][videotape][yesterday][keep][fighting][washington][changes])
+v(3 4 5 6 7 9 13 14 17): 5.131097793579102	 ([bin][laden's][top][deputy][vowed][aired][united][states][policies.])
+v(0 1 2 7 8 9 10 11 12 13 14 15 16 17): 8.001118659973145	 ([cairo][- -][osama][vowed][videotape][aired][yesterday][keep][fighting][united][states][washington][changes][policies.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.236061096191406	 ([cairo][- -][osama][bin][laden's][top][deputy][vowed][videotape][aired][yesterday][keep][fighting][united][states][washington][changes][policies.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 14.168635368347168, EP: 1.0	 ([cairo][- -][osama][bin][laden's][top][deputy][vowed][videotape][aired][yesterday][keep][fighting][united][states][washington][changes][policies.])
+v(0 1 2 3 4 5 6 8 10 11 12 15 16): 14.112574577331543, EP: 0.99604332447052	 ([cairo][- -][osama][bin][laden's][top][deputy][videotape][yesterday][keep][fighting][washington][changes])
+v(0 1 2 7 8 9 10 11 12 13 14 15 16 17): 13.933692932128906, EP: 0.9834181070327759	 ([cairo][- -][osama][vowed][videotape][aired][yesterday][keep][fighting][united][states][washington][changes][policies.])
+v(3 4 5 6 7 9 13 14 17): 11.063672065734863, EP: 0.7808565497398376	 ([bin][laden's][top][deputy][vowed][aired][united][states][policies.])
+v(3 4 5 6): 8.756570816040039, EP: 0.618025004863739	 ([bin][laden's][top][deputy])
+v(7 9 13 14 17): 3.357088088989258, EP: 0.2369379997253418	 ([vowed][aired][united][states][policies.])
+v(0 1 2 8 10 11 12 15 16): 2.5391693115234375, EP: 0.1792105734348297	 ([cairo][- -][osama][videotape][yesterday][keep][fighting][washington][changes])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,20 @@
+---------- Players ----------
+Player 0: real
+Player 1: estate
+Player 2: company
+Player 3: seems
+Player 4: right
+Player 5: results
+Player 6: right
+Player 7: investors.
+---------- Rewards ----------
+v(): -4.05565881729126	 ([])
+v(0 1 2 3 5 7): 7.859374523162842	 ([real][estate][company][seems][results][investors.])
+v(4 6): -5.482633590698242	 ([right][right])
+v(0 1 2 3 4 5 6 7): 8.335721969604492	 ([real][estate][company][seems][right][results][right][investors.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7): 12.391380310058594, EP: 1.0	 ([real][estate][company][seems][right][results][right][investors.])
+v(0 1 2 3 5 7): 11.915033340454102, EP: 0.9615582227706909	 ([real][estate][company][seems][results][investors.])
+v(4 6): -1.4269747734069824, EP: -0.11515866219997406	 ([right][right])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,23 @@
+---------- Players ----------
+Player 0: kerry
+Player 1: wood
+Player 2: homered
+Player 3: allowed
+Player 4: four
+Player 5: hits
+Player 6: eight
+Player 7: innings,
+Player 8: leading
+Player 9: chicago
+Player 10: cubs
+Player 11: visiting
+Player 12: los
+Player 13: angeles
+Player 14: dodgers,
+Player 15: 2 - 0,
+Player 16: yesterday.
+---------- AND Interactions (Pairwise Only) ----------
+I(12 14): 9.22443962097168	 ([los][dodgers,])
+I(4 5): -1.3295378684997559	 ([four][hits])
+Sum: 7.894901752471924
+==================================================

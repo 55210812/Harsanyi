@@ -1,0 +1,54 @@
+---------- Players ----------
+Player 0: opinion :
+Player 1: according
+Player 2: president,
+Player 3: oracle
+Player 4: clear
+Player 5: idea
+Player 6: # 39 ; s
+Player 7: going
+Player 8: slice
+Player 9: peoplesoft
+Player 10: retain
+Player 11: choicest
+Player 12: assets
+Player 13: send
+Player 14: rest
+Player 15: corporate
+Player 16: rendering
+Player 17: yard.
+---------- Rewards ----------
+v(): -2.617921829223633	 ([])
+v(6 7 9 15): 2.23211932182312	 ([# 39 ; s][going][peoplesoft][corporate])
+v(8 10 11 12 13 17): -5.681723594665527	 ([slice][retain][choicest][assets][send][yard.])
+v(2 3 5 14 16): -2.5637006759643555	 ([president,][oracle][idea][rest][rendering])
+v(0 1 4): 0.053804755210876465	 ([opinion :][according][clear])
+v(6 7 8 9 10 11 12 13 15 17): 6.461336612701416	 ([# 39 ; s][going][slice][peoplesoft][retain][choicest][assets][send][corporate][yard.])
+v(2 3 5 6 7 9 14 15 16): 1.6860105991363525	 ([president,][oracle][idea][# 39 ; s][going][peoplesoft][rest][corporate][rendering])
+v(0 1 4 6 7 9 15): 3.074209690093994	 ([opinion :][according][clear][# 39 ; s][going][peoplesoft][corporate])
+v(2 3 5 8 10 11 12 13 14 16 17): -5.469770431518555	 ([president,][oracle][idea][slice][retain][choicest][assets][send][rest][rendering][yard.])
+v(0 1 4 8 10 11 12 13 17): -4.9209794998168945	 ([opinion :][according][clear][slice][retain][choicest][assets][send][yard.])
+v(0 1 2 3 4 5 14 16): -3.043515682220459	 ([opinion :][according][president,][oracle][clear][idea][rest][rendering])
+v(2 3 5 6 7 8 9 10 11 12 13 14 15 16 17): 6.295711040496826	 ([president,][oracle][idea][# 39 ; s][going][slice][peoplesoft][retain][choicest][assets][send][rest][corporate][rendering][yard.])
+v(0 1 4 6 7 8 9 10 11 12 13 15 17): 6.62526798248291	 ([opinion :][according][clear][# 39 ; s][going][slice][peoplesoft][retain][choicest][assets][send][corporate][yard.])
+v(0 1 2 3 4 5 6 7 9 14 15 16): 1.8625540733337402	 ([opinion :][according][president,][oracle][clear][idea][# 39 ; s][going][peoplesoft][rest][corporate][rendering])
+v(0 1 2 3 4 5 8 10 11 12 13 14 16 17): -4.667940139770508	 ([opinion :][according][president,][oracle][clear][idea][slice][retain][choicest][assets][send][rest][rendering][yard.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 6.540586948394775	 ([opinion :][according][president,][oracle][clear][idea][# 39 ; s][going][slice][peoplesoft][retain][choicest][assets][send][rest][corporate][rendering][yard.])
+---------- Rewards-v() ----------
+v(0 1 4 6 7 8 9 10 11 12 13 15 17): 9.243189811706543, EP: 1.0092462301254272	 ([opinion :][according][clear][# 39 ; s][going][slice][peoplesoft][retain][choicest][assets][send][corporate][yard.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.15850830078125, EP: 1.0	 ([opinion :][according][president,][oracle][clear][idea][# 39 ; s][going][slice][peoplesoft][retain][choicest][assets][send][rest][corporate][rendering][yard.])
+v(6 7 8 9 10 11 12 13 15 17): 9.07925796508789, EP: 0.9913468360900879	 ([# 39 ; s][going][slice][peoplesoft][retain][choicest][assets][send][corporate][yard.])
+v(2 3 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.913633346557617, EP: 0.9732625484466553	 ([president,][oracle][idea][# 39 ; s][going][slice][peoplesoft][retain][choicest][assets][send][rest][corporate][rendering][yard.])
+v(0 1 4 6 7 9 15): 5.692131519317627, EP: 0.6215129494667053	 ([opinion :][according][clear][# 39 ; s][going][peoplesoft][corporate])
+v(6 7 9 15): 4.850041389465332, EP: 0.529566764831543	 ([# 39 ; s][going][peoplesoft][corporate])
+v(0 1 2 3 4 5 6 7 9 14 15 16): 4.480475902557373, EP: 0.48921459913253784	 ([opinion :][according][president,][oracle][clear][idea][# 39 ; s][going][peoplesoft][rest][corporate][rendering])
+v(2 3 5 6 7 9 14 15 16): 4.303932189941406, EP: 0.46993812918663025	 ([president,][oracle][idea][# 39 ; s][going][peoplesoft][rest][corporate][rendering])
+v(8 10 11 12 13 17): -3.0638017654418945, EP: -0.33453065156936646	 ([slice][retain][choicest][assets][send][yard.])
+v(2 3 5 8 10 11 12 13 14 16 17): -2.851848602294922, EP: -0.31138789653778076	 ([president,][oracle][idea][slice][retain][choicest][assets][send][rest][rendering][yard.])
+v(0 1 4): 2.671726703643799, EP: 0.2917207181453705	 ([opinion :][according][clear])
+v(0 1 4 8 10 11 12 13 17): -2.3030576705932617, EP: -0.25146645307540894	 ([opinion :][according][clear][slice][retain][choicest][assets][send][yard.])
+v(0 1 2 3 4 5 8 10 11 12 13 14 16 17): -2.050018310546875, EP: -0.22383758425712585	 ([opinion :][according][president,][oracle][clear][idea][slice][retain][choicest][assets][send][rest][rendering][yard.])
+v(0 1 2 3 4 5 14 16): -0.42559385299682617, EP: -0.04646977782249451	 ([opinion :][according][president,][oracle][clear][idea][rest][rendering])
+v(2 3 5 14 16): 0.054221153259277344, EP: 0.005920303985476494	 ([president,][oracle][idea][rest][rendering])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

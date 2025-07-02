@@ -1,0 +1,25 @@
+---------- Players ----------
+Player 0: blackburn
+Player 1: recovered
+Player 2: 3 - 1
+Player 3: draw
+Player 4: 3 - 3
+Player 5: birmingham
+Player 6: english
+Player 7: premier
+Player 8: league
+Player 9: sunday,
+Player 10: stayed
+Player 11: bottom
+Player 12: standings.
+---------- Rewards ----------
+v(): -5.746303081512451	 ([])
+v(3 5 6 8 9 12): 9.312768936157227	 ([draw][birmingham][english][league][sunday,][standings.])
+v(0 1 2 4 7 10 11): 9.434488296508789	 ([blackburn][recovered][3 - 1][3 - 3][premier][stayed][bottom])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 9.667780876159668	 ([blackburn][recovered][3 - 1][draw][3 - 3][birmingham][english][premier][league][sunday,][stayed][bottom][standings.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 15.414083480834961, EP: 1.0	 ([blackburn][recovered][3 - 1][draw][3 - 3][birmingham][english][premier][league][sunday,][stayed][bottom][standings.])
+v(0 1 2 4 7 10 11): 15.180791854858398, EP: 0.9848650097846985	 ([blackburn][recovered][3 - 1][3 - 3][premier][stayed][bottom])
+v(3 5 6 8 9 12): 15.059072494506836, EP: 0.9769684076309204	 ([draw][birmingham][english][league][sunday,][standings.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

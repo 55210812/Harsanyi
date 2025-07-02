@@ -1,0 +1,92 @@
+---------- Players ----------
+Player 0: airbus
+Player 1: sas,
+Player 2: world
+Player 3: # 39 ; s
+Player 4: largest
+Player 5: maker
+Player 6: airplanes,
+Player 7: said
+Player 8: received
+Player 9: firm
+Player 10: orders
+Player 11: china
+Player 12: eastern
+Player 13: airlines
+Player 14: air
+Player 15: china,
+Player 16: two
+Player 17: country
+Player 18: # 39 ; s
+Player 19: main
+Player 20: carriers,
+Player 21: buy
+Player 22: 26
+Player 23: planes.
+---------- Rewards ----------
+v(): -4.077284336090088	 ([])
+v(1 6 13 17 21 22): 7.94536018371582	 ([sas,][airplanes,][airlines][country][buy][26])
+v(8 9 12): -2.850998640060425	 ([received][firm][eastern])
+v(0 2 3 14 15 16 18 23): 7.653066635131836	 ([airbus][world][# 39 ; s][air][china,][two][# 39 ; s][planes.])
+v(4 5): -0.08556342124938965	 ([largest][maker])
+v(7 10 11 19 20): 2.179065227508545	 ([said][orders][china][main][carriers,])
+v(1 6 8 9 12 13 17 21 22): 8.176748275756836	 ([sas,][airplanes,][received][firm][eastern][airlines][country][buy][26])
+v(0 1 2 3 6 13 14 15 16 17 18 21 22 23): 7.9499921798706055	 ([airbus][sas,][world][# 39 ; s][airplanes,][airlines][air][china,][two][country][# 39 ; s][buy][26][planes.])
+v(1 4 5 6 13 17 21 22): 8.397153854370117	 ([sas,][largest][maker][airplanes,][airlines][country][buy][26])
+v(1 6 7 10 11 13 17 19 20 21 22): 7.821825981140137	 ([sas,][airplanes,][said][orders][china][airlines][country][main][carriers,][buy][26])
+v(0 2 3 8 9 12 14 15 16 18 23): 7.49462366104126	 ([airbus][world][# 39 ; s][received][firm][eastern][air][china,][two][# 39 ; s][planes.])
+v(4 5 8 9 12): 3.17607045173645	 ([largest][maker][received][firm][eastern])
+v(7 8 9 10 11 12 19 20): 2.6462247371673584	 ([said][received][firm][orders][china][eastern][main][carriers,])
+v(0 2 3 4 5 14 15 16 18 23): 8.040145874023438	 ([airbus][world][# 39 ; s][largest][maker][air][china,][two][# 39 ; s][planes.])
+v(0 2 3 7 10 11 14 15 16 18 19 20 23): 7.588388919830322	 ([airbus][world][# 39 ; s][said][orders][china][air][china,][two][# 39 ; s][main][carriers,][planes.])
+v(4 5 7 10 11 19 20): 6.240406513214111	 ([largest][maker][said][orders][china][main][carriers,])
+v(0 1 2 3 6 8 9 12 13 14 15 16 17 18 21 22 23): 8.060303688049316	 ([airbus][sas,][world][# 39 ; s][airplanes,][received][firm][eastern][airlines][air][china,][two][country][# 39 ; s][buy][26][planes.])
+v(1 4 5 6 8 9 12 13 17 21 22): 8.328125953674316	 ([sas,][largest][maker][airplanes,][received][firm][eastern][airlines][country][buy][26])
+v(1 6 7 8 9 10 11 12 13 17 19 20 21 22): 7.408941268920898	 ([sas,][airplanes,][said][received][firm][orders][china][eastern][airlines][country][main][carriers,][buy][26])
+v(0 1 2 3 4 5 6 13 14 15 16 17 18 21 22 23): 8.15584945678711	 ([airbus][sas,][world][# 39 ; s][largest][maker][airplanes,][airlines][air][china,][two][country][# 39 ; s][buy][26][planes.])
+v(0 1 2 3 6 7 10 11 13 14 15 16 17 18 19 20 21 22 23): 6.8760762214660645	 ([airbus][sas,][world][# 39 ; s][airplanes,][said][orders][china][airlines][air][china,][two][country][# 39 ; s][main][carriers,][buy][26][planes.])
+v(1 4 5 6 7 10 11 13 17 19 20 21 22): 8.00703239440918	 ([sas,][largest][maker][airplanes,][said][orders][china][airlines][country][main][carriers,][buy][26])
+v(0 2 3 4 5 8 9 12 14 15 16 18 23): 7.903797149658203	 ([airbus][world][# 39 ; s][largest][maker][received][firm][eastern][air][china,][two][# 39 ; s][planes.])
+v(0 2 3 7 8 9 10 11 12 14 15 16 18 19 20 23): 7.188791751861572	 ([airbus][world][# 39 ; s][said][received][firm][orders][china][eastern][air][china,][two][# 39 ; s][main][carriers,][planes.])
+v(4 5 7 8 9 10 11 12 19 20): 6.295094966888428	 ([largest][maker][said][received][firm][orders][china][eastern][main][carriers,])
+v(0 2 3 4 5 7 10 11 14 15 16 18 19 20 23): 8.026222229003906	 ([airbus][world][# 39 ; s][largest][maker][said][orders][china][air][china,][two][# 39 ; s][main][carriers,][planes.])
+v(0 1 2 3 4 5 6 8 9 12 13 14 15 16 17 18 21 22 23): 8.188042640686035	 ([airbus][sas,][world][# 39 ; s][largest][maker][airplanes,][received][firm][eastern][airlines][air][china,][two][country][# 39 ; s][buy][26][planes.])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 6.870208740234375	 ([airbus][sas,][world][# 39 ; s][airplanes,][said][received][firm][orders][china][eastern][airlines][air][china,][two][country][# 39 ; s][main][carriers,][buy][26][planes.])
+v(1 4 5 6 7 8 9 10 11 12 13 17 19 20 21 22): 7.650296211242676	 ([sas,][largest][maker][airplanes,][said][received][firm][orders][china][eastern][airlines][country][main][carriers,][buy][26])
+v(0 1 2 3 4 5 6 7 10 11 13 14 15 16 17 18 19 20 21 22 23): 7.377082347869873	 ([airbus][sas,][world][# 39 ; s][largest][maker][airplanes,][said][orders][china][airlines][air][china,][two][country][# 39 ; s][main][carriers,][buy][26][planes.])
+v(0 2 3 4 5 7 8 9 10 11 12 14 15 16 18 19 20 23): 7.391530990600586	 ([airbus][world][# 39 ; s][largest][maker][said][received][firm][orders][china][eastern][air][china,][two][# 39 ; s][main][carriers,][planes.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 7.153264045715332	 ([airbus][sas,][world][# 39 ; s][largest][maker][airplanes,][said][received][firm][orders][china][eastern][airlines][air][china,][two][country][# 39 ; s][main][carriers,][buy][26][planes.])
+---------- Rewards-v() ----------
+v(1 4 5 6 13 17 21 22): 12.474437713623047, EP: 1.1107593774795532	 ([sas,][largest][maker][airplanes,][airlines][country][buy][26])
+v(1 4 5 6 8 9 12 13 17 21 22): 12.405410766601562, EP: 1.1046130657196045	 ([sas,][largest][maker][airplanes,][received][firm][eastern][airlines][country][buy][26])
+v(0 1 2 3 4 5 6 8 9 12 13 14 15 16 17 18 21 22 23): 12.265327453613281, EP: 1.0921396017074585	 ([airbus][sas,][world][# 39 ; s][largest][maker][airplanes,][received][firm][eastern][airlines][air][china,][two][country][# 39 ; s][buy][26][planes.])
+v(1 6 8 9 12 13 17 21 22): 12.254032135009766, EP: 1.0911338329315186	 ([sas,][airplanes,][received][firm][eastern][airlines][country][buy][26])
+v(0 1 2 3 4 5 6 13 14 15 16 17 18 21 22 23): 12.233133316040039, EP: 1.0892729759216309	 ([airbus][sas,][world][# 39 ; s][largest][maker][airplanes,][airlines][air][china,][two][country][# 39 ; s][buy][26][planes.])
+v(0 1 2 3 6 8 9 12 13 14 15 16 17 18 21 22 23): 12.137588500976562, EP: 1.0807653665542603	 ([airbus][sas,][world][# 39 ; s][airplanes,][received][firm][eastern][airlines][air][china,][two][country][# 39 ; s][buy][26][planes.])
+v(0 2 3 4 5 14 15 16 18 23): 12.117429733276367, EP: 1.0789704322814941	 ([airbus][world][# 39 ; s][largest][maker][air][china,][two][# 39 ; s][planes.])
+v(0 2 3 4 5 7 10 11 14 15 16 18 19 20 23): 12.103506088256836, EP: 1.0777305364608765	 ([airbus][world][# 39 ; s][largest][maker][said][orders][china][air][china,][two][# 39 ; s][main][carriers,][planes.])
+v(1 4 5 6 7 10 11 13 17 19 20 21 22): 12.08431625366211, EP: 1.0760219097137451	 ([sas,][largest][maker][airplanes,][said][orders][china][airlines][country][main][carriers,][buy][26])
+v(0 1 2 3 6 13 14 15 16 17 18 21 22 23): 12.027276992797852, EP: 1.0709428787231445	 ([airbus][sas,][world][# 39 ; s][airplanes,][airlines][air][china,][two][country][# 39 ; s][buy][26][planes.])
+v(1 6 13 17 21 22): 12.02264404296875, EP: 1.0705304145812988	 ([sas,][airplanes,][airlines][country][buy][26])
+v(0 2 3 4 5 8 9 12 14 15 16 18 23): 11.981081008911133, EP: 1.0668295621871948	 ([airbus][world][# 39 ; s][largest][maker][received][firm][eastern][air][china,][two][# 39 ; s][planes.])
+v(1 6 7 10 11 13 17 19 20 21 22): 11.899110794067383, EP: 1.0595306158065796	 ([sas,][airplanes,][said][orders][china][airlines][country][main][carriers,][buy][26])
+v(0 2 3 14 15 16 18 23): 11.730350494384766, EP: 1.0445038080215454	 ([airbus][world][# 39 ; s][air][china,][two][# 39 ; s][planes.])
+v(1 4 5 6 7 8 9 10 11 12 13 17 19 20 21 22): 11.727581024169922, EP: 1.0442571640014648	 ([sas,][largest][maker][airplanes,][said][received][firm][orders][china][eastern][airlines][country][main][carriers,][buy][26])
+v(0 2 3 7 10 11 14 15 16 18 19 20 23): 11.66567325592041, EP: 1.0387446880340576	 ([airbus][world][# 39 ; s][said][orders][china][air][china,][two][# 39 ; s][main][carriers,][planes.])
+v(0 2 3 8 9 12 14 15 16 18 23): 11.571907997131348, EP: 1.0303956270217896	 ([airbus][world][# 39 ; s][received][firm][eastern][air][china,][two][# 39 ; s][planes.])
+v(1 6 7 8 9 10 11 12 13 17 19 20 21 22): 11.486225128173828, EP: 1.02276611328125	 ([sas,][airplanes,][said][received][firm][orders][china][eastern][airlines][country][main][carriers,][buy][26])
+v(0 2 3 4 5 7 8 9 10 11 12 14 15 16 18 19 20 23): 11.468814849853516, EP: 1.0212159156799316	 ([airbus][world][# 39 ; s][largest][maker][said][received][firm][orders][china][eastern][air][china,][two][# 39 ; s][main][carriers,][planes.])
+v(0 1 2 3 4 5 6 7 10 11 13 14 15 16 17 18 19 20 21 22 23): 11.454366683959961, EP: 1.0199294090270996	 ([airbus][sas,][world][# 39 ; s][largest][maker][airplanes,][said][orders][china][airlines][air][china,][two][country][# 39 ; s][main][carriers,][buy][26][planes.])
+v(0 2 3 7 8 9 10 11 12 14 15 16 18 19 20 23): 11.26607608795166, EP: 1.003163456916809	 ([airbus][world][# 39 ; s][said][received][firm][orders][china][eastern][air][china,][two][# 39 ; s][main][carriers,][planes.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 11.230548858642578, EP: 1.0	 ([airbus][sas,][world][# 39 ; s][largest][maker][airplanes,][said][received][firm][orders][china][eastern][airlines][air][china,][two][country][# 39 ; s][main][carriers,][buy][26][planes.])
+v(0 1 2 3 6 7 10 11 13 14 15 16 17 18 19 20 21 22 23): 10.953360557556152, EP: 0.9753183722496033	 ([airbus][sas,][world][# 39 ; s][airplanes,][said][orders][china][airlines][air][china,][two][country][# 39 ; s][main][carriers,][buy][26][planes.])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 10.947492599487305, EP: 0.9747958779335022	 ([airbus][sas,][world][# 39 ; s][airplanes,][said][received][firm][orders][china][eastern][airlines][air][china,][two][country][# 39 ; s][main][carriers,][buy][26][planes.])
+v(4 5 7 8 9 10 11 12 19 20): 10.372379302978516, EP: 0.9235861301422119	 ([largest][maker][said][received][firm][orders][china][eastern][main][carriers,])
+v(4 5 7 10 11 19 20): 10.3176908493042, EP: 0.918716549873352	 ([largest][maker][said][orders][china][main][carriers,])
+v(4 5 8 9 12): 7.253355026245117, EP: 0.6458593606948853	 ([largest][maker][received][firm][eastern])
+v(7 8 9 10 11 12 19 20): 6.723508834838867, EP: 0.598680317401886	 ([said][received][firm][orders][china][eastern][main][carriers,])
+v(7 10 11 19 20): 6.256349563598633, EP: 0.5570831298828125	 ([said][orders][china][main][carriers,])
+v(4 5): 3.9917209148406982, EP: 0.3554341793060303	 ([largest][maker])
+v(8 9 12): 1.226285696029663, EP: 0.10919196158647537	 ([received][firm][eastern])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

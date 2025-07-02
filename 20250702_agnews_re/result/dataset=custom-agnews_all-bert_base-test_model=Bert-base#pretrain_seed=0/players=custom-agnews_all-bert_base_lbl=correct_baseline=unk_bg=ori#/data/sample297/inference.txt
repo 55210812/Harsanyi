@@ -1,0 +1,37 @@
+Execution time: 2025-07-02 19:24:32
+prompt: [CLS] netflix chief executive reed hastings said on friday that blockbuster has more to lose in the war for online dvd renters than emerging foe amazon. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:20907 decoded_text: netflix
+idx:2 input_id:2708 decoded_text: chief
+idx:3 input_id:3237 decoded_text: executive
+idx:4 input_id:7305 decoded_text: reed
+idx:5 input_id:12296 decoded_text: hastings
+idx:6 input_id:2056 decoded_text: said
+idx:7 input_id:2006 decoded_text: on
+idx:8 input_id:5958 decoded_text: friday
+idx:9 input_id:2008 decoded_text: that
+idx:10 input_id:27858 decoded_text: blockbuster
+idx:11 input_id:2038 decoded_text: has
+idx:12 input_id:2062 decoded_text: more
+idx:13 input_id:2000 decoded_text: to
+idx:14 input_id:4558 decoded_text: lose
+idx:15 input_id:1999 decoded_text: in
+idx:16 input_id:1996 decoded_text: the
+idx:17 input_id:2162 decoded_text: war
+idx:18 input_id:2005 decoded_text: for
+idx:19 input_id:3784 decoded_text: online
+idx:20 input_id:4966 decoded_text: dvd
+idx:21 input_id:9278 decoded_text: rent
+idx:22 input_id:2545 decoded_text: ##ers
+idx:23 input_id:2084 decoded_text: than
+idx:24 input_id:8361 decoded_text: emerging
+idx:25 input_id:22277 decoded_text: foe
+idx:26 input_id:9733 decoded_text: amazon
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.753528356552124, -4.274454593658447, 5.5681257247924805, -0.49418944120407104]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

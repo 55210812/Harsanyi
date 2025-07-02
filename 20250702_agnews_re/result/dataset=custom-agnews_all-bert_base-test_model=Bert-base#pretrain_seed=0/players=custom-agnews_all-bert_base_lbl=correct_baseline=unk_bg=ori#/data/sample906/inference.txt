@@ -1,0 +1,39 @@
+Execution time: 2025-07-02 19:39:56
+prompt: [CLS] the clash of the remnants of hurricane ivan and a cold front coming down from canada dumped 2 to 5 inches of rain over southern new england yesterday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:13249 decoded_text: clash
+idx:3 input_id:1997 decoded_text: of
+idx:4 input_id:1996 decoded_text: the
+idx:5 input_id:11270 decoded_text: remnants
+idx:6 input_id:1997 decoded_text: of
+idx:7 input_id:7064 decoded_text: hurricane
+idx:8 input_id:7332 decoded_text: ivan
+idx:9 input_id:1998 decoded_text: and
+idx:10 input_id:1037 decoded_text: a
+idx:11 input_id:3147 decoded_text: cold
+idx:12 input_id:2392 decoded_text: front
+idx:13 input_id:2746 decoded_text: coming
+idx:14 input_id:2091 decoded_text: down
+idx:15 input_id:2013 decoded_text: from
+idx:16 input_id:2710 decoded_text: canada
+idx:17 input_id:14019 decoded_text: dumped
+idx:18 input_id:1016 decoded_text: 2
+idx:19 input_id:2000 decoded_text: to
+idx:20 input_id:1019 decoded_text: 5
+idx:21 input_id:5282 decoded_text: inches
+idx:22 input_id:1997 decoded_text: of
+idx:23 input_id:4542 decoded_text: rain
+idx:24 input_id:2058 decoded_text: over
+idx:25 input_id:2670 decoded_text: southern
+idx:26 input_id:2047 decoded_text: new
+idx:27 input_id:2563 decoded_text: england
+idx:28 input_id:7483 decoded_text: yesterday
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-0.7087586522102356, 1.5738928318023682, -2.650233268737793, 2.101329803466797]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

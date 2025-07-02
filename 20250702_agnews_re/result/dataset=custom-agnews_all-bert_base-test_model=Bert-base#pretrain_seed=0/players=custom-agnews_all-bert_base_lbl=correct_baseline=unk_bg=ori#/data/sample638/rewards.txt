@@ -1,0 +1,87 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: jerome
+Player 3: bettis
+Player 4: often
+Player 5: broken - down
+Player 6: bus
+Player 7: now,
+Player 8: weary
+Player 9: worn
+Player 10: games
+Player 11: 20 - plus
+Player 12: carries
+Player 13: contact
+Player 14: goes
+Player 15: nfl
+Player 16: power
+Player 17: running
+Player 18: back.
+---------- Rewards ----------
+v(): -4.977177619934082	 ([])
+v(11 12 14): 2.907128095626831	 ([20 - plus][carries][goes])
+v(4 7 10 13 15 16): 9.58558177947998	 ([often][now,][games][contact][nfl][power])
+v(17 18): -1.8972097635269165	 ([running][back.])
+v(1 2 3): -0.2802751064300537	 ([-][jerome][bettis])
+v(0 5 6 8 9): -4.448457717895508	 ([ap][broken - down][bus][weary][worn])
+v(4 7 10 11 12 13 14 15 16): 9.561741828918457	 ([often][now,][games][20 - plus][carries][contact][goes][nfl][power])
+v(11 12 14 17 18): 8.92212963104248	 ([20 - plus][carries][goes][running][back.])
+v(1 2 3 11 12 14): 6.6003570556640625	 ([-][jerome][bettis][20 - plus][carries][goes])
+v(0 5 6 8 9 11 12 14): -2.856269121170044	 ([ap][broken - down][bus][weary][worn][20 - plus][carries][goes])
+v(4 7 10 13 15 16 17 18): 9.695233345031738	 ([often][now,][games][contact][nfl][power][running][back.])
+v(1 2 3 4 7 10 13 15 16): 9.70439338684082	 ([-][jerome][bettis][often][now,][games][contact][nfl][power])
+v(0 4 5 6 7 8 9 10 13 15 16): 9.527817726135254	 ([ap][often][broken - down][bus][now,][weary][worn][games][contact][nfl][power])
+v(1 2 3 17 18): 6.5180158615112305	 ([-][jerome][bettis][running][back.])
+v(0 5 6 8 9 17 18): -2.4701149463653564	 ([ap][broken - down][bus][weary][worn][running][back.])
+v(0 1 2 3 5 6 8 9): 1.9024425745010376	 ([ap][-][jerome][bettis][broken - down][bus][weary][worn])
+v(4 7 10 11 12 13 14 15 16 17 18): 9.70009994506836	 ([often][now,][games][20 - plus][carries][contact][goes][nfl][power][running][back.])
+v(1 2 3 4 7 10 11 12 13 14 15 16): 9.6510648727417	 ([-][jerome][bettis][often][now,][games][20 - plus][carries][contact][goes][nfl][power])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.574135780334473	 ([ap][often][broken - down][bus][now,][weary][worn][games][20 - plus][carries][contact][goes][nfl][power])
+v(1 2 3 11 12 14 17 18): 9.46129035949707	 ([-][jerome][bettis][20 - plus][carries][goes][running][back.])
+v(0 5 6 8 9 11 12 14 17 18): 8.521632194519043	 ([ap][broken - down][bus][weary][worn][20 - plus][carries][goes][running][back.])
+v(0 1 2 3 5 6 8 9 11 12 14): 6.427675724029541	 ([ap][-][jerome][bettis][broken - down][bus][weary][worn][20 - plus][carries][goes])
+v(1 2 3 4 7 10 13 15 16 17 18): 9.743330955505371	 ([-][jerome][bettis][often][now,][games][contact][nfl][power][running][back.])
+v(0 4 5 6 7 8 9 10 13 15 16 17 18): 9.683857917785645	 ([ap][often][broken - down][bus][now,][weary][worn][games][contact][nfl][power][running][back.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 15 16): 9.720305442810059	 ([ap][-][jerome][bettis][often][broken - down][bus][now,][weary][worn][games][contact][nfl][power])
+v(0 1 2 3 5 6 8 9 17 18): 6.675285339355469	 ([ap][-][jerome][bettis][broken - down][bus][weary][worn][running][back.])
+v(1 2 3 4 7 10 11 12 13 14 15 16 17 18): 9.718894004821777	 ([-][jerome][bettis][often][now,][games][20 - plus][carries][contact][goes][nfl][power][running][back.])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.705693244934082	 ([ap][often][broken - down][bus][now,][weary][worn][games][20 - plus][carries][contact][goes][nfl][power][running][back.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.710691452026367	 ([ap][-][jerome][bettis][often][broken - down][bus][now,][weary][worn][games][20 - plus][carries][contact][goes][nfl][power])
+v(0 1 2 3 5 6 8 9 11 12 14 17 18): 9.647404670715332	 ([ap][-][jerome][bettis][broken - down][bus][weary][worn][20 - plus][carries][goes][running][back.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 15 16 17 18): 9.744884490966797	 ([ap][-][jerome][bettis][often][broken - down][bus][now,][weary][worn][games][contact][nfl][power][running][back.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.694729804992676	 ([ap][-][jerome][bettis][often][broken - down][bus][now,][weary][worn][games][20 - plus][carries][contact][goes][nfl][power][running][back.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 13 15 16 17 18): 14.722062110900879, EP: 1.0034184455871582	 ([ap][-][jerome][bettis][often][broken - down][bus][now,][weary][worn][games][contact][nfl][power][running][back.])
+v(1 2 3 4 7 10 13 15 16 17 18): 14.720508575439453, EP: 1.003312587738037	 ([-][jerome][bettis][often][now,][games][contact][nfl][power][running][back.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 15 16): 14.69748306274414, EP: 1.001743197441101	 ([ap][-][jerome][bettis][often][broken - down][bus][now,][weary][worn][games][contact][nfl][power])
+v(1 2 3 4 7 10 11 12 13 14 15 16 17 18): 14.69607162475586, EP: 1.0016469955444336	 ([-][jerome][bettis][often][now,][games][20 - plus][carries][contact][goes][nfl][power][running][back.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 14.68786907196045, EP: 1.0010879039764404	 ([ap][-][jerome][bettis][often][broken - down][bus][now,][weary][worn][games][20 - plus][carries][contact][goes][nfl][power])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.682870864868164, EP: 1.0007472038269043	 ([ap][often][broken - down][bus][now,][weary][worn][games][20 - plus][carries][contact][goes][nfl][power][running][back.])
+v(1 2 3 4 7 10 13 15 16): 14.681571006774902, EP: 1.000658631324768	 ([-][jerome][bettis][often][now,][games][contact][nfl][power])
+v(4 7 10 11 12 13 14 15 16 17 18): 14.677277565002441, EP: 1.000365972518921	 ([often][now,][games][20 - plus][carries][contact][goes][nfl][power][running][back.])
+v(4 7 10 13 15 16 17 18): 14.67241096496582, EP: 1.0000343322753906	 ([often][now,][games][contact][nfl][power][running][back.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.671907424926758, EP: 1.0	 ([ap][-][jerome][bettis][often][broken - down][bus][now,][weary][worn][games][20 - plus][carries][contact][goes][nfl][power][running][back.])
+v(0 4 5 6 7 8 9 10 13 15 16 17 18): 14.661035537719727, EP: 0.9992589950561523	 ([ap][often][broken - down][bus][now,][weary][worn][games][contact][nfl][power][running][back.])
+v(1 2 3 4 7 10 11 12 13 14 15 16): 14.628242492675781, EP: 0.99702388048172	 ([-][jerome][bettis][often][now,][games][20 - plus][carries][contact][goes][nfl][power])
+v(0 1 2 3 5 6 8 9 11 12 14 17 18): 14.624582290649414, EP: 0.996774435043335	 ([ap][-][jerome][bettis][broken - down][bus][weary][worn][20 - plus][carries][goes][running][back.])
+v(4 7 10 13 15 16): 14.562759399414062, EP: 0.9925607442855835	 ([often][now,][games][contact][nfl][power])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16): 14.551313400268555, EP: 0.9917806386947632	 ([ap][often][broken - down][bus][now,][weary][worn][games][20 - plus][carries][contact][goes][nfl][power])
+v(4 7 10 11 12 13 14 15 16): 14.538919448852539, EP: 0.9909358620643616	 ([often][now,][games][20 - plus][carries][contact][goes][nfl][power])
+v(0 4 5 6 7 8 9 10 13 15 16): 14.504995346069336, EP: 0.9886236786842346	 ([ap][often][broken - down][bus][now,][weary][worn][games][contact][nfl][power])
+v(1 2 3 11 12 14 17 18): 14.438467979431152, EP: 0.9840893745422363	 ([-][jerome][bettis][20 - plus][carries][goes][running][back.])
+v(11 12 14 17 18): 13.899307250976562, EP: 0.9473415613174438	 ([20 - plus][carries][goes][running][back.])
+v(0 5 6 8 9 11 12 14 17 18): 13.498809814453125, EP: 0.9200446605682373	 ([ap][broken - down][bus][weary][worn][20 - plus][carries][goes][running][back.])
+v(0 1 2 3 5 6 8 9 17 18): 11.65246295928955, EP: 0.7942023277282715	 ([ap][-][jerome][bettis][broken - down][bus][weary][worn][running][back.])
+v(1 2 3 11 12 14): 11.577534675598145, EP: 0.789095401763916	 ([-][jerome][bettis][20 - plus][carries][goes])
+v(1 2 3 17 18): 11.495193481445312, EP: 0.7834832072257996	 ([-][jerome][bettis][running][back.])
+v(0 1 2 3 5 6 8 9 11 12 14): 11.404853820800781, EP: 0.7773259282112122	 ([ap][-][jerome][bettis][broken - down][bus][weary][worn][20 - plus][carries][goes])
+v(11 12 14): 7.884305953979492, EP: 0.5373743176460266	 ([20 - plus][carries][goes])
+v(0 1 2 3 5 6 8 9): 6.87962007522583, EP: 0.4688974618911743	 ([ap][-][jerome][bettis][broken - down][bus][weary][worn])
+v(1 2 3): 4.696902275085449, EP: 0.3201289474964142	 ([-][jerome][bettis])
+v(17 18): 3.079967975616455, EP: 0.20992280542850494	 ([running][back.])
+v(0 5 6 8 9 17 18): 2.5070626735687256, EP: 0.17087502777576447	 ([ap][broken - down][bus][weary][worn][running][back.])
+v(0 5 6 8 9 11 12 14): 2.120908498764038, EP: 0.14455574750900269	 ([ap][broken - down][bus][weary][worn][20 - plus][carries][goes])
+v(0 5 6 8 9): 0.5287199020385742, EP: 0.036036208271980286	 ([ap][broken - down][bus][weary][worn])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

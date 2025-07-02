@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: early
+Player 1: autumn
+Player 2: fine
+Player 3: time
+Player 4: stargazers,
+Player 5: generally
+Player 6: clear
+Player 7: skies,
+Player 8: moderate
+Player 9: temperatures
+Player 10: darkness
+Player 11: falling
+Player 12: earlier
+Player 13: earlier
+Player 14: evenings.
+---------- Rewards ----------
+v(): 4.271677017211914	 ([])
+v(1 3 4): 6.851963520050049	 ([autumn][time][stargazers,])
+v(0 8 9 10 11 12 13): 6.91455602645874	 ([early][moderate][temperatures][darkness][falling][earlier][earlier])
+v(2 5 6 7 14): 1.2853772640228271	 ([fine][generally][clear][skies,][evenings.])
+v(0 1 3 4 8 9 10 11 12 13): 7.45693302154541	 ([early][autumn][time][stargazers,][moderate][temperatures][darkness][falling][earlier][earlier])
+v(1 2 3 4 5 6 7 14): 5.686041831970215	 ([autumn][fine][time][stargazers,][generally][clear][skies,][evenings.])
+v(0 2 5 6 7 8 9 10 11 12 13 14): 3.1982154846191406	 ([early][fine][generally][clear][skies,][moderate][temperatures][darkness][falling][earlier][earlier][evenings.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 6.405367851257324	 ([early][autumn][fine][time][stargazers,][generally][clear][skies,][moderate][temperatures][darkness][falling][earlier][earlier][evenings.])
+---------- Rewards-v() ----------
+v(0 1 3 4 8 9 10 11 12 13): 3.185256004333496, EP: 1.4928386211395264	 ([early][autumn][time][stargazers,][moderate][temperatures][darkness][falling][earlier][earlier])
+v(2 5 6 7 14): -2.986299753189087, EP: -1.399593472480774	 ([fine][generally][clear][skies,][evenings.])
+v(0 8 9 10 11 12 13): 2.642879009246826, EP: 1.2386419773101807	 ([early][moderate][temperatures][darkness][falling][earlier][earlier])
+v(1 3 4): 2.5802865028381348, EP: 1.2093065977096558	 ([autumn][time][stargazers,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 2.13369083404541, EP: 1.0	 ([early][autumn][fine][time][stargazers,][generally][clear][skies,][moderate][temperatures][darkness][falling][earlier][earlier][evenings.])
+v(1 2 3 4 5 6 7 14): 1.4143648147583008, EP: 0.6628724336624146	 ([autumn][fine][time][stargazers,][generally][clear][skies,][evenings.])
+v(0 2 5 6 7 8 9 10 11 12 13 14): -1.0734615325927734, EP: -0.5031008124351501	 ([early][fine][generally][clear][skies,][moderate][temperatures][darkness][falling][earlier][earlier][evenings.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

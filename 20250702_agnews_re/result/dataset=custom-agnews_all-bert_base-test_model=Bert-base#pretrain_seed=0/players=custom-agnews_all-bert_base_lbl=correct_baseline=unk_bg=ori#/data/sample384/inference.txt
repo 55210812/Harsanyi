@@ -1,0 +1,61 @@
+Execution time: 2025-07-02 19:26:46
+prompt: [CLS] tokyo ( reuters ) - the nikkei average rose 0. 24 percent at the open on thursday as a recovery in the dollar helped exporters, though trade was slow as investors awaited key domestic economic data and earnings reports from companies such as rohm co. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:5522 decoded_text: tokyo
+idx:2 input_id:1006 decoded_text: (
+idx:3 input_id:26665 decoded_text: reuters
+idx:4 input_id:1007 decoded_text: )
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:23205 decoded_text: nik
+idx:8 input_id:29501 decoded_text: ##kei
+idx:9 input_id:2779 decoded_text: average
+idx:10 input_id:3123 decoded_text: rose
+idx:11 input_id:1014 decoded_text: 0
+idx:12 input_id:1012 decoded_text: .
+idx:13 input_id:2484 decoded_text: 24
+idx:14 input_id:3867 decoded_text: percent
+idx:15 input_id:2012 decoded_text: at
+idx:16 input_id:1996 decoded_text: the
+idx:17 input_id:2330 decoded_text: open
+idx:18 input_id:2006 decoded_text: on
+idx:19 input_id:9432 decoded_text: thursday
+idx:20 input_id:2004 decoded_text: as
+idx:21 input_id:1037 decoded_text: a
+idx:22 input_id:7233 decoded_text: recovery
+idx:23 input_id:1999 decoded_text: in
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:7922 decoded_text: dollar
+idx:26 input_id:3271 decoded_text: helped
+idx:27 input_id:9167 decoded_text: export
+idx:28 input_id:2545 decoded_text: ##ers
+idx:29 input_id:1010 decoded_text: ,
+idx:30 input_id:2295 decoded_text: though
+idx:31 input_id:3119 decoded_text: trade
+idx:32 input_id:2001 decoded_text: was
+idx:33 input_id:4030 decoded_text: slow
+idx:34 input_id:2004 decoded_text: as
+idx:35 input_id:9387 decoded_text: investors
+idx:36 input_id:19605 decoded_text: awaited
+idx:37 input_id:3145 decoded_text: key
+idx:38 input_id:4968 decoded_text: domestic
+idx:39 input_id:3171 decoded_text: economic
+idx:40 input_id:2951 decoded_text: data
+idx:41 input_id:1998 decoded_text: and
+idx:42 input_id:16565 decoded_text: earnings
+idx:43 input_id:4311 decoded_text: reports
+idx:44 input_id:2013 decoded_text: from
+idx:45 input_id:3316 decoded_text: companies
+idx:46 input_id:2107 decoded_text: such
+idx:47 input_id:2004 decoded_text: as
+idx:48 input_id:20996 decoded_text: ro
+idx:49 input_id:14227 decoded_text: ##hm
+idx:50 input_id:2522 decoded_text: co
+idx:51 input_id:1012 decoded_text: .
+idx:52 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.9832435846328735, -3.1927106380462646, 6.299297332763672, -3.1621651649475098]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

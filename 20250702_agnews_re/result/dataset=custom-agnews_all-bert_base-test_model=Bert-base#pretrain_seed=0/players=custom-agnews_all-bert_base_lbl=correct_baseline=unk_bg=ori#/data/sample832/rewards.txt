@@ -1,0 +1,89 @@
+---------- Players ----------
+Player 0: european
+Player 1: union
+Player 2: monday
+Player 3: ended
+Player 4: 11
+Player 5: years
+Player 6: sanctions
+Player 7: libya
+Player 8: eased
+Player 9: arms
+Player 10: embargo
+Player 11: reward
+Player 12: north
+Player 13: african
+Player 14: country
+Player 15: giving
+Player 16: plans
+Player 17: develop
+Player 18: weapons
+Player 19: mass
+Player 20: destruction.
+---------- Rewards ----------
+v(): -3.7268075942993164	 ([])
+v(0 3 5 6 7 13): 7.595724105834961	 ([european][ended][years][sanctions][libya][african])
+v(9 10): 1.1546111106872559	 ([arms][embargo])
+v(1 2 4 18 19): -0.2982863783836365	 ([union][monday][11][weapons][mass])
+v(11 12 14 20): 2.269697904586792	 ([reward][north][country][destruction.])
+v(8 15 16 17): -6.061627388000488	 ([eased][giving][plans][develop])
+v(0 3 5 6 7 9 10 13): 8.008258819580078	 ([european][ended][years][sanctions][libya][arms][embargo][african])
+v(0 1 2 3 4 5 6 7 13 18 19): 7.8068928718566895	 ([european][union][monday][ended][11][years][sanctions][libya][african][weapons][mass])
+v(0 3 5 6 7 11 12 13 14 20): 7.812379360198975	 ([european][ended][years][sanctions][libya][reward][north][african][country][destruction.])
+v(0 3 5 6 7 8 13 15 16 17): 6.88698673248291	 ([european][ended][years][sanctions][libya][eased][african][giving][plans][develop])
+v(1 2 4 9 10 18 19): 4.322694301605225	 ([union][monday][11][arms][embargo][weapons][mass])
+v(9 10 11 12 14 20): 7.060873031616211	 ([arms][embargo][reward][north][country][destruction.])
+v(8 9 10 15 16 17): -2.0474326610565186	 ([eased][arms][embargo][giving][plans][develop])
+v(1 2 4 11 12 14 18 19 20): 7.024657249450684	 ([union][monday][11][reward][north][country][weapons][mass][destruction.])
+v(1 2 4 8 15 16 17 18 19): -0.29479652643203735	 ([union][monday][11][eased][giving][plans][develop][weapons][mass])
+v(8 11 12 14 15 16 17 20): 1.1845247745513916	 ([eased][reward][north][country][giving][plans][develop][destruction.])
+v(0 1 2 3 4 5 6 7 9 10 13 18 19): 8.051197052001953	 ([european][union][monday][ended][11][years][sanctions][libya][arms][embargo][african][weapons][mass])
+v(0 3 5 6 7 9 10 11 12 13 14 20): 8.17995834350586	 ([european][ended][years][sanctions][libya][arms][embargo][reward][north][african][country][destruction.])
+v(0 3 5 6 7 8 9 10 13 15 16 17): 7.680294990539551	 ([european][ended][years][sanctions][libya][eased][arms][embargo][african][giving][plans][develop])
+v(0 1 2 3 4 5 6 7 11 12 13 14 18 19 20): 7.932295799255371	 ([european][union][monday][ended][11][years][sanctions][libya][reward][north][african][country][weapons][mass][destruction.])
+v(0 1 2 3 4 5 6 7 8 13 15 16 17 18 19): 7.970672607421875	 ([european][union][monday][ended][11][years][sanctions][libya][eased][african][giving][plans][develop][weapons][mass])
+v(0 3 5 6 7 8 11 12 13 14 15 16 17 20): 7.642939567565918	 ([european][ended][years][sanctions][libya][eased][reward][north][african][country][giving][plans][develop][destruction.])
+v(1 2 4 9 10 11 12 14 18 19 20): 8.180424690246582	 ([union][monday][11][arms][embargo][reward][north][country][weapons][mass][destruction.])
+v(1 2 4 8 9 10 15 16 17 18 19): 5.984162330627441	 ([union][monday][11][eased][arms][embargo][giving][plans][develop][weapons][mass])
+v(8 9 10 11 12 14 15 16 17 20): 6.4407806396484375	 ([eased][arms][embargo][reward][north][country][giving][plans][develop][destruction.])
+v(1 2 4 8 11 12 14 15 16 17 18 19 20): 7.9464616775512695	 ([union][monday][11][eased][reward][north][country][giving][plans][develop][weapons][mass][destruction.])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 14 18 19 20): 8.276522636413574	 ([european][union][monday][ended][11][years][sanctions][libya][arms][embargo][reward][north][african][country][weapons][mass][destruction.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 15 16 17 18 19): 7.890317440032959	 ([european][union][monday][ended][11][years][sanctions][libya][eased][arms][embargo][african][giving][plans][develop][weapons][mass])
+v(0 3 5 6 7 8 9 10 11 12 13 14 15 16 17 20): 7.76965856552124	 ([european][ended][years][sanctions][libya][eased][arms][embargo][reward][north][african][country][giving][plans][develop][destruction.])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14 15 16 17 18 19 20): 8.15378475189209	 ([european][union][monday][ended][11][years][sanctions][libya][eased][reward][north][african][country][giving][plans][develop][weapons][mass][destruction.])
+v(1 2 4 8 9 10 11 12 14 15 16 17 18 19 20): 8.33932876586914	 ([union][monday][11][eased][arms][embargo][reward][north][country][giving][plans][develop][weapons][mass][destruction.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.2850341796875	 ([european][union][monday][ended][11][years][sanctions][libya][eased][arms][embargo][reward][north][african][country][giving][plans][develop][weapons][mass][destruction.])
+---------- Rewards-v() ----------
+v(1 2 4 8 9 10 11 12 14 15 16 17 18 19 20): 12.066136360168457, EP: 1.004520058631897	 ([union][monday][11][eased][arms][embargo][reward][north][country][giving][plans][develop][weapons][mass][destruction.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 12.011841773986816, EP: 1.0	 ([european][union][monday][ended][11][years][sanctions][libya][eased][arms][embargo][reward][north][african][country][giving][plans][develop][weapons][mass][destruction.])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 14 18 19 20): 12.00333023071289, EP: 0.9992914199829102	 ([european][union][monday][ended][11][years][sanctions][libya][arms][embargo][reward][north][african][country][weapons][mass][destruction.])
+v(1 2 4 9 10 11 12 14 18 19 20): 11.907232284545898, EP: 0.9912911653518677	 ([union][monday][11][arms][embargo][reward][north][country][weapons][mass][destruction.])
+v(0 3 5 6 7 9 10 11 12 13 14 20): 11.906765937805176, EP: 0.9912523031234741	 ([european][ended][years][sanctions][libya][arms][embargo][reward][north][african][country][destruction.])
+v(0 1 2 3 4 5 6 7 8 11 12 13 14 15 16 17 18 19 20): 11.880592346191406, EP: 0.9890733361244202	 ([european][union][monday][ended][11][years][sanctions][libya][eased][reward][north][african][country][giving][plans][develop][weapons][mass][destruction.])
+v(0 1 2 3 4 5 6 7 9 10 13 18 19): 11.77800464630127, EP: 0.9805327653884888	 ([european][union][monday][ended][11][years][sanctions][libya][arms][embargo][african][weapons][mass])
+v(0 3 5 6 7 9 10 13): 11.735066413879395, EP: 0.9769580960273743	 ([european][ended][years][sanctions][libya][arms][embargo][african])
+v(0 1 2 3 4 5 6 7 8 13 15 16 17 18 19): 11.697480201721191, EP: 0.9738290309906006	 ([european][union][monday][ended][11][years][sanctions][libya][eased][african][giving][plans][develop][weapons][mass])
+v(1 2 4 8 11 12 14 15 16 17 18 19 20): 11.673269271850586, EP: 0.971813440322876	 ([union][monday][11][eased][reward][north][country][giving][plans][develop][weapons][mass][destruction.])
+v(0 1 2 3 4 5 6 7 11 12 13 14 18 19 20): 11.659103393554688, EP: 0.9706341028213501	 ([european][union][monday][ended][11][years][sanctions][libya][reward][north][african][country][weapons][mass][destruction.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 15 16 17 18 19): 11.617124557495117, EP: 0.9671393036842346	 ([european][union][monday][ended][11][years][sanctions][libya][eased][arms][embargo][african][giving][plans][develop][weapons][mass])
+v(0 3 5 6 7 11 12 13 14 20): 11.539186477661133, EP: 0.9606508612632751	 ([european][ended][years][sanctions][libya][reward][north][african][country][destruction.])
+v(0 1 2 3 4 5 6 7 13 18 19): 11.533700942993164, EP: 0.9601942300796509	 ([european][union][monday][ended][11][years][sanctions][libya][african][weapons][mass])
+v(0 3 5 6 7 8 9 10 11 12 13 14 15 16 17 20): 11.496465682983398, EP: 0.9570943117141724	 ([european][ended][years][sanctions][libya][eased][arms][embargo][reward][north][african][country][giving][plans][develop][destruction.])
+v(0 3 5 6 7 8 9 10 13 15 16 17): 11.407102584838867, EP: 0.949654757976532	 ([european][ended][years][sanctions][libya][eased][arms][embargo][african][giving][plans][develop])
+v(0 3 5 6 7 8 11 12 13 14 15 16 17 20): 11.369747161865234, EP: 0.946544885635376	 ([european][ended][years][sanctions][libya][eased][reward][north][african][country][giving][plans][develop][destruction.])
+v(0 3 5 6 7 13): 11.322531700134277, EP: 0.9426141381263733	 ([european][ended][years][sanctions][libya][african])
+v(9 10 11 12 14 20): 10.787680625915527, EP: 0.8980871438980103	 ([arms][embargo][reward][north][country][destruction.])
+v(1 2 4 11 12 14 18 19 20): 10.75146484375, EP: 0.8950721621513367	 ([union][monday][11][reward][north][country][weapons][mass][destruction.])
+v(0 3 5 6 7 8 13 15 16 17): 10.613794326782227, EP: 0.8836109042167664	 ([european][ended][years][sanctions][libya][eased][african][giving][plans][develop])
+v(8 9 10 11 12 14 15 16 17 20): 10.167588233947754, EP: 0.8464637398719788	 ([eased][arms][embargo][reward][north][country][giving][plans][develop][destruction.])
+v(1 2 4 8 9 10 15 16 17 18 19): 9.710969924926758, EP: 0.8084496855735779	 ([union][monday][11][eased][arms][embargo][giving][plans][develop][weapons][mass])
+v(1 2 4 9 10 18 19): 8.049501419067383, EP: 0.6701304912567139	 ([union][monday][11][arms][embargo][weapons][mass])
+v(11 12 14 20): 5.9965057373046875, EP: 0.4992161691188812	 ([reward][north][country][destruction.])
+v(8 11 12 14 15 16 17 20): 4.911332130432129, EP: 0.40887418389320374	 ([eased][reward][north][country][giving][plans][develop][destruction.])
+v(9 10): 4.881418704986572, EP: 0.4063838720321655	 ([arms][embargo])
+v(1 2 4 8 15 16 17 18 19): 3.432011127471924, EP: 0.28571897745132446	 ([union][monday][11][eased][giving][plans][develop][weapons][mass])
+v(1 2 4 18 19): 3.428521156311035, EP: 0.2854284346103668	 ([union][monday][11][weapons][mass])
+v(8 15 16 17): -2.334819793701172, EP: -0.19437649846076965	 ([eased][giving][plans][develop])
+v(8 9 10 15 16 17): 1.6793749332427979, EP: 0.13980995118618011	 ([eased][arms][embargo][giving][plans][develop])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

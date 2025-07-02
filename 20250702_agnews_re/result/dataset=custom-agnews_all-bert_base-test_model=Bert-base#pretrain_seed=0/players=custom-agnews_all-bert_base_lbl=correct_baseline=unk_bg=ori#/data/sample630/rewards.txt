@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: iraqi
+Player 3: labour
+Player 4: unions
+Player 5: making
+Player 6: global
+Player 7: debut
+Player 8: conference
+Player 9: japan
+Player 10: seeking
+Player 11: tips
+Player 12: tough
+Player 13: task
+Player 14: - -
+Player 15: make
+Player 16: workers
+Player 17: aware
+Player 18: rights
+Player 19: suppressed
+Player 20: years
+Player 21: saddam
+Player 22: hussein.
+---------- Rewards ----------
+v(): -7.570184707641602	 ([])
+v(0 1 2 9 15 20 22): 8.219389915466309	 ([afp][-][iraqi][japan][make][years][hussein.])
+v(3 4 5 6 7 8 10 16 18): 0.756521463394165	 ([labour][unions][making][global][debut][conference][seeking][workers][rights])
+v(11 12 13 14 17 19 21): 4.119843482971191	 ([tips][tough][task][- -][aware][suppressed][saddam])
+v(0 1 2 3 4 5 6 7 8 9 10 15 16 18 20 22): 7.267255783081055	 ([afp][-][iraqi][labour][unions][making][global][debut][conference][japan][seeking][make][workers][rights][years][hussein.])
+v(0 1 2 9 11 12 13 14 15 17 19 20 21 22): 8.350727081298828	 ([afp][-][iraqi][japan][tips][tough][task][- -][make][aware][suppressed][years][saddam][hussein.])
+v(3 4 5 6 7 8 10 11 12 13 14 16 17 18 19 21): 7.772346496582031	 ([labour][unions][making][global][debut][conference][seeking][tips][tough][task][- -][workers][aware][rights][suppressed][saddam])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.720049858093262	 ([afp][-][iraqi][labour][unions][making][global][debut][conference][japan][seeking][tips][tough][task][- -][make][workers][aware][rights][suppressed][years][saddam][hussein.])
+---------- Rewards-v() ----------
+v(0 1 2 9 11 12 13 14 15 17 19 20 21 22): 15.92091178894043, EP: 1.041247010231018	 ([afp][-][iraqi][japan][tips][tough][task][- -][make][aware][suppressed][years][saddam][hussein.])
+v(0 1 2 9 15 20 22): 15.78957462310791, EP: 1.032657504081726	 ([afp][-][iraqi][japan][make][years][hussein.])
+v(3 4 5 6 7 8 10 11 12 13 14 16 17 18 19 21): 15.342531204223633, EP: 1.0034202337265015	 ([labour][unions][making][global][debut][conference][seeking][tips][tough][task][- -][workers][aware][rights][suppressed][saddam])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 15.290234565734863, EP: 1.0	 ([afp][-][iraqi][labour][unions][making][global][debut][conference][japan][seeking][tips][tough][task][- -][make][workers][aware][rights][suppressed][years][saddam][hussein.])
+v(0 1 2 3 4 5 6 7 8 9 10 15 16 18 20 22): 14.837440490722656, EP: 0.9703867435455322	 ([afp][-][iraqi][labour][unions][making][global][debut][conference][japan][seeking][make][workers][rights][years][hussein.])
+v(11 12 13 14 17 19 21): 11.690028190612793, EP: 0.7645421028137207	 ([tips][tough][task][- -][aware][suppressed][saddam])
+v(3 4 5 6 7 8 10 16 18): 8.326705932617188, EP: 0.5445767045021057	 ([labour][unions][making][global][debut][conference][seeking][workers][rights])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

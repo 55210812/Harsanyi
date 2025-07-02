@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: illinois
+Player 3: coach
+Player 4: ron
+Player 5: turner
+Player 6: deflected
+Player 7: questions
+Player 8: future
+Player 9: season
+Player 10: long,
+Player 11: wanting
+Player 12: distraction
+Player 13: take
+Player 14: away
+Player 15: players
+Player 16: games
+Player 17: left.
+---------- Rewards ----------
+v(): -3.705897569656372	 ([])
+v(3 12 14 15 16): 7.125473499298096	 ([coach][distraction][away][players][games])
+v(0 1 2 4 5 6 8): 9.541351318359375	 ([ap][-][illinois][ron][turner][deflected][future])
+v(7 9 10 11 13 17): 0.9482533931732178	 ([questions][season][long,][wanting][take][left.])
+v(0 1 2 3 4 5 6 8 12 14 15 16): 9.627155303955078	 ([ap][-][illinois][coach][ron][turner][deflected][future][distraction][away][players][games])
+v(3 7 9 10 11 12 13 14 15 16 17): 6.177910327911377	 ([coach][questions][season][long,][wanting][distraction][take][away][players][games][left.])
+v(0 1 2 4 5 6 7 8 9 10 11 13 17): 9.487975120544434	 ([ap][-][illinois][ron][turner][deflected][questions][future][season][long,][wanting][take][left.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.172611236572266	 ([ap][-][illinois][coach][ron][turner][deflected][questions][future][season][long,][wanting][distraction][take][away][players][games][left.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 8 12 14 15 16): 13.333052635192871, EP: 1.035294771194458	 ([ap][-][illinois][coach][ron][turner][deflected][future][distraction][away][players][games])
+v(0 1 2 4 5 6 8): 13.247248649597168, EP: 1.0286321640014648	 ([ap][-][illinois][ron][turner][deflected][future])
+v(0 1 2 4 5 6 7 8 9 10 11 13 17): 13.193872451782227, EP: 1.0244876146316528	 ([ap][-][illinois][ron][turner][deflected][questions][future][season][long,][wanting][take][left.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 12.878508567810059, EP: 1.0	 ([ap][-][illinois][coach][ron][turner][deflected][questions][future][season][long,][wanting][distraction][take][away][players][games][left.])
+v(3 12 14 15 16): 10.831371307373047, EP: 0.8410423398017883	 ([coach][distraction][away][players][games])
+v(3 7 9 10 11 12 13 14 15 16 17): 9.883808135986328, EP: 0.7674652934074402	 ([coach][questions][season][long,][wanting][distraction][take][away][players][games][left.])
+v(7 9 10 11 13 17): 4.65415096282959, EP: 0.3613889813423157	 ([questions][season][long,][wanting][take][left.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

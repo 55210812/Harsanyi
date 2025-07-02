@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: duke
+Player 3: much
+Player 4: michigan
+Player 5: state,
+Player 6: thanks
+Player 7: almost
+Player 8: entirely
+Player 9: j. j.
+Player 10: redick
+Player 11: daniel
+Player 12: ewing.
+---------- Rewards ----------
+v(): -4.074303150177002	 ([])
+v(4 12): 9.113508224487305	 ([michigan][ewing.])
+v(6 7 8 9 10 11): -1.4422674179077148	 ([thanks][almost][entirely][j. j.][redick][daniel])
+v(0 1 2 3 5): -7.675316333770752	 ([ap][-][duke][much][state,])
+v(4 6 7 8 9 10 11 12): 8.548782348632812	 ([michigan][thanks][almost][entirely][j. j.][redick][daniel][ewing.])
+v(0 1 2 3 4 5 12): 9.72861385345459	 ([ap][-][duke][much][michigan][state,][ewing.])
+v(0 1 2 3 5 6 7 8 9 10 11): 9.454986572265625	 ([ap][-][duke][much][state,][thanks][almost][entirely][j. j.][redick][daniel])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 9.357857704162598	 ([ap][-][duke][much][michigan][state,][thanks][almost][entirely][j. j.][redick][daniel][ewing.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 12): 13.80291748046875, EP: 1.0276020765304565	 ([ap][-][duke][much][michigan][state,][ewing.])
+v(0 1 2 3 5 6 7 8 9 10 11): 13.529289245605469, EP: 1.0072309970855713	 ([ap][-][duke][much][state,][thanks][almost][entirely][j. j.][redick][daniel])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 13.432161331176758, EP: 1.0	 ([ap][-][duke][much][michigan][state,][thanks][almost][entirely][j. j.][redick][daniel][ewing.])
+v(4 12): 13.187810897827148, EP: 0.9818085432052612	 ([michigan][ewing.])
+v(4 6 7 8 9 10 11 12): 12.623085021972656, EP: 0.9397657513618469	 ([michigan][thanks][almost][entirely][j. j.][redick][daniel][ewing.])
+v(0 1 2 3 5): -3.60101318359375, EP: -0.2680888772010803	 ([ap][-][duke][much][state,])
+v(6 7 8 9 10 11): 2.632035732269287, EP: 0.19595026969909668	 ([thanks][almost][entirely][j. j.][redick][daniel])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

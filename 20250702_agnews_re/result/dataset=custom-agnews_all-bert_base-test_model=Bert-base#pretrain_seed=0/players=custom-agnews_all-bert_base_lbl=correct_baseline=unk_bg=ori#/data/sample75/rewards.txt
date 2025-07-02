@@ -1,0 +1,59 @@
+---------- Players ----------
+Player 0: scott
+Player 1: drummond,
+Player 2: meets
+Player 3: defending
+Player 4: champion
+Player 5: ernie
+Player 6: els
+Player 7: tomorrow
+Player 8: first
+Player 9: round
+Player 10: world
+Player 11: match
+Player 12: play
+Player 13: championship,
+Player 14: arrived
+Player 15: wentworth
+Player 16: may
+Player 17: career
+Player 18: earnings
+Player 19: european
+Player 20: tour
+Player 21: less
+Player 22: 40, 000.
+---------- Rewards ----------
+v(): -3.650869131088257	 ([])
+v(5 6 7 10 16 22): 4.148011207580566	 ([ernie][els][tomorrow][world][may][40, 000.])
+v(4 12 13): 3.758173704147339	 ([champion][play][championship,])
+v(0 1 2 8 17 18 19 20): 2.7481870651245117	 ([scott][drummond,][meets][first][career][earnings][european][tour])
+v(3 9 11 14 15 21): 7.844850063323975	 ([defending][round][match][arrived][wentworth][less])
+v(4 5 6 7 10 12 13 16 22): 9.54432487487793	 ([champion][ernie][els][tomorrow][world][play][championship,][may][40, 000.])
+v(0 1 2 5 6 7 8 10 16 17 18 19 20 22): 8.714226722717285	 ([scott][drummond,][meets][ernie][els][tomorrow][first][world][may][career][earnings][european][tour][40, 000.])
+v(3 5 6 7 9 10 11 14 15 16 21 22): 9.344690322875977	 ([defending][ernie][els][tomorrow][round][world][match][arrived][wentworth][may][less][40, 000.])
+v(0 1 2 4 8 12 13 17 18 19 20): 7.359262466430664	 ([scott][drummond,][meets][champion][first][play][championship,][career][earnings][european][tour])
+v(3 4 9 11 12 13 14 15 21): 8.995559692382812	 ([defending][champion][round][match][play][championship,][arrived][wentworth][less])
+v(0 1 2 3 8 9 11 14 15 17 18 19 20 21): 8.170926094055176	 ([scott][drummond,][meets][defending][first][round][match][arrived][wentworth][career][earnings][european][tour][less])
+v(0 1 2 4 5 6 7 8 10 12 13 16 17 18 19 20 22): 9.34791088104248	 ([scott][drummond,][meets][champion][ernie][els][tomorrow][first][world][play][championship,][may][career][earnings][european][tour][40, 000.])
+v(3 4 5 6 7 9 10 11 12 13 14 15 16 21 22): 9.59034538269043	 ([defending][champion][ernie][els][tomorrow][round][world][match][play][championship,][arrived][wentworth][may][less][40, 000.])
+v(0 1 2 3 5 6 7 8 9 10 11 14 15 16 17 18 19 20 21 22): 9.498615264892578	 ([scott][drummond,][meets][defending][ernie][els][tomorrow][first][round][world][match][arrived][wentworth][may][career][earnings][european][tour][less][40, 000.])
+v(0 1 2 3 4 8 9 11 12 13 14 15 17 18 19 20 21): 8.726823806762695	 ([scott][drummond,][meets][defending][champion][first][round][match][play][championship,][arrived][wentworth][career][earnings][european][tour][less])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 9.590641021728516	 ([scott][drummond,][meets][defending][champion][ernie][els][tomorrow][first][round][world][match][play][championship,][arrived][wentworth][may][career][earnings][european][tour][less][40, 000.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 13.241510391235352, EP: 1.0	 ([scott][drummond,][meets][defending][champion][ernie][els][tomorrow][first][round][world][match][play][championship,][arrived][wentworth][may][career][earnings][european][tour][less][40, 000.])
+v(3 4 5 6 7 9 10 11 12 13 14 15 16 21 22): 13.241214752197266, EP: 0.9999776482582092	 ([defending][champion][ernie][els][tomorrow][round][world][match][play][championship,][arrived][wentworth][may][less][40, 000.])
+v(4 5 6 7 10 12 13 16 22): 13.195194244384766, EP: 0.9965022206306458	 ([champion][ernie][els][tomorrow][world][play][championship,][may][40, 000.])
+v(0 1 2 3 5 6 7 8 9 10 11 14 15 16 17 18 19 20 21 22): 13.149484634399414, EP: 0.993050217628479	 ([scott][drummond,][meets][defending][ernie][els][tomorrow][first][round][world][match][arrived][wentworth][may][career][earnings][european][tour][less][40, 000.])
+v(0 1 2 4 5 6 7 8 10 12 13 16 17 18 19 20 22): 12.998780250549316, EP: 0.981669008731842	 ([scott][drummond,][meets][champion][ernie][els][tomorrow][first][world][play][championship,][may][career][earnings][european][tour][40, 000.])
+v(3 5 6 7 9 10 11 14 15 16 21 22): 12.995559692382812, EP: 0.9814257621765137	 ([defending][ernie][els][tomorrow][round][world][match][arrived][wentworth][may][less][40, 000.])
+v(3 4 9 11 12 13 14 15 21): 12.646429061889648, EP: 0.9550594091415405	 ([defending][champion][round][match][play][championship,][arrived][wentworth][less])
+v(0 1 2 3 4 8 9 11 12 13 14 15 17 18 19 20 21): 12.377693176269531, EP: 0.9347644448280334	 ([scott][drummond,][meets][defending][champion][first][round][match][play][championship,][arrived][wentworth][career][earnings][european][tour][less])
+v(0 1 2 5 6 7 8 10 16 17 18 19 20 22): 12.365096092224121, EP: 0.9338130950927734	 ([scott][drummond,][meets][ernie][els][tomorrow][first][world][may][career][earnings][european][tour][40, 000.])
+v(0 1 2 3 8 9 11 14 15 17 18 19 20 21): 11.821795463562012, EP: 0.892782986164093	 ([scott][drummond,][meets][defending][first][round][match][arrived][wentworth][career][earnings][european][tour][less])
+v(3 9 11 14 15 21): 11.495718955993652, EP: 0.868157684803009	 ([defending][round][match][arrived][wentworth][less])
+v(0 1 2 4 8 12 13 17 18 19 20): 11.0101318359375, EP: 0.8314861059188843	 ([scott][drummond,][meets][champion][first][play][championship,][career][earnings][european][tour])
+v(5 6 7 10 16 22): 7.798880577087402, EP: 0.5889721512794495	 ([ernie][els][tomorrow][world][may][40, 000.])
+v(4 12 13): 7.409042835235596, EP: 0.559531569480896	 ([champion][play][championship,])
+v(0 1 2 8 17 18 19 20): 6.399056434631348, EP: 0.4832572937011719	 ([scott][drummond,][meets][first][career][earnings][european][tour])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

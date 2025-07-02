@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 19:29:46
+prompt: [CLS] shareholders in the news corporation, parent company of the times, voted yesterday by more than nine to one to shift the companys legal headquarters and primary listing from australia to the united states. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:15337 decoded_text: shareholders
+idx:2 input_id:1999 decoded_text: in
+idx:3 input_id:1996 decoded_text: the
+idx:4 input_id:2739 decoded_text: news
+idx:5 input_id:3840 decoded_text: corporation
+idx:6 input_id:1010 decoded_text: ,
+idx:7 input_id:6687 decoded_text: parent
+idx:8 input_id:2194 decoded_text: company
+idx:9 input_id:1997 decoded_text: of
+idx:10 input_id:1996 decoded_text: the
+idx:11 input_id:2335 decoded_text: times
+idx:12 input_id:1010 decoded_text: ,
+idx:13 input_id:5444 decoded_text: voted
+idx:14 input_id:7483 decoded_text: yesterday
+idx:15 input_id:2011 decoded_text: by
+idx:16 input_id:2062 decoded_text: more
+idx:17 input_id:2084 decoded_text: than
+idx:18 input_id:3157 decoded_text: nine
+idx:19 input_id:2000 decoded_text: to
+idx:20 input_id:2028 decoded_text: one
+idx:21 input_id:2000 decoded_text: to
+idx:22 input_id:5670 decoded_text: shift
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:2194 decoded_text: company
+idx:25 input_id:2015 decoded_text: ##s
+idx:26 input_id:3423 decoded_text: legal
+idx:27 input_id:4075 decoded_text: headquarters
+idx:28 input_id:1998 decoded_text: and
+idx:29 input_id:3078 decoded_text: primary
+idx:30 input_id:10328 decoded_text: listing
+idx:31 input_id:2013 decoded_text: from
+idx:32 input_id:2660 decoded_text: australia
+idx:33 input_id:2000 decoded_text: to
+idx:34 input_id:1996 decoded_text: the
+idx:35 input_id:2142 decoded_text: united
+idx:36 input_id:2163 decoded_text: states
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.9292480945587158, -2.88252329826355, 6.483246803283691, -3.37105655670166]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

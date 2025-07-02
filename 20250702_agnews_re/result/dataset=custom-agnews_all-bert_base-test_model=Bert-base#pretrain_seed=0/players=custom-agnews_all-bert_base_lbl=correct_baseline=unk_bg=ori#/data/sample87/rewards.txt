@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: us
+Player 1: ruling
+Player 2: block
+Player 3: sale
+Player 4: mainproduction
+Player 5: asset
+Player 6: yukos
+Player 7: injected
+Player 8: fresh
+Player 9: intrigue
+Player 10: demise
+Player 11: russia
+Player 12: # 39 ; s
+Player 13: largest
+Player 14: oil
+Player 15: company.
+---------- Rewards ----------
+v(): -6.0036139488220215	 ([])
+v(0 3 5 8 11 14 15): 6.3483710289001465	 ([us][sale][asset][fresh][russia][oil][company.])
+v(6 9): 5.115639686584473	 ([yukos][intrigue])
+v(1 2 4 7 10 12 13): 7.167934894561768	 ([ruling][block][mainproduction][injected][demise][# 39 ; s][largest])
+v(0 3 5 6 8 9 11 14 15): 5.971982479095459	 ([us][sale][asset][yukos][fresh][intrigue][russia][oil][company.])
+v(0 1 2 3 4 5 7 8 10 11 12 13 14 15): 7.090619087219238	 ([us][ruling][block][sale][mainproduction][asset][injected][fresh][demise][russia][# 39 ; s][largest][oil][company.])
+v(1 2 4 6 7 9 10 12 13): 7.723824501037598	 ([ruling][block][mainproduction][yukos][injected][intrigue][demise][# 39 ; s][largest])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.4255595207214355	 ([us][ruling][block][sale][mainproduction][asset][yukos][injected][fresh][intrigue][demise][russia][# 39 ; s][largest][oil][company.])
+---------- Rewards-v() ----------
+v(1 2 4 6 7 9 10 12 13): 13.727437973022461, EP: 1.0222102403640747	 ([ruling][block][mainproduction][yukos][injected][intrigue][demise][# 39 ; s][largest])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 13.429173469543457, EP: 1.0	 ([us][ruling][block][sale][mainproduction][asset][yukos][injected][fresh][intrigue][demise][russia][# 39 ; s][largest][oil][company.])
+v(1 2 4 7 10 12 13): 13.171548843383789, EP: 0.9808160662651062	 ([ruling][block][mainproduction][injected][demise][# 39 ; s][largest])
+v(0 1 2 3 4 5 7 8 10 11 12 13 14 15): 13.094232559204102, EP: 0.9750587344169617	 ([us][ruling][block][sale][mainproduction][asset][injected][fresh][demise][russia][# 39 ; s][largest][oil][company.])
+v(0 3 5 8 11 14 15): 12.351984977722168, EP: 0.9197874069213867	 ([us][sale][asset][fresh][russia][oil][company.])
+v(0 3 5 6 8 9 11 14 15): 11.97559642791748, EP: 0.8917597532272339	 ([us][sale][asset][yukos][fresh][intrigue][russia][oil][company.])
+v(6 9): 11.119253158569336, EP: 0.8279923796653748	 ([yukos][intrigue])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

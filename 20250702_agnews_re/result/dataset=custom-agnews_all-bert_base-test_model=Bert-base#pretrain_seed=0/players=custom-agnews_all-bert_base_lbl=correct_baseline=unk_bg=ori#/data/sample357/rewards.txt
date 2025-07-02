@@ -1,0 +1,52 @@
+---------- Players ----------
+Player 0: new
+Player 1: fossil
+Player 2: found
+Player 3: spain
+Player 4: may
+Player 5: closest
+Player 6: yet
+Player 7: common
+Player 8: ancestor
+Player 9: great
+Player 10: apes,
+Player 11: perhaps
+Player 12: including
+Player 13: humans,
+Player 14: researchers
+Player 15: say.
+---------- Rewards ----------
+v(): 5.790341854095459	 ([])
+v(11 12): 6.281702041625977	 ([perhaps][including])
+v(3 7 9): 4.6267523765563965	 ([spain][common][great])
+v(1 2 8 10 13 14): 7.871760845184326	 ([fossil][found][ancestor][apes,][humans,][researchers])
+v(0 4 5 6 15): 2.1067261695861816	 ([new][may][closest][yet][say.])
+v(3 7 9 11 12): 5.516908645629883	 ([spain][common][great][perhaps][including])
+v(1 2 8 10 11 12 13 14): 7.9473724365234375	 ([fossil][found][ancestor][apes,][perhaps][including][humans,][researchers])
+v(0 4 5 6 11 12 15): 2.2369613647460938	 ([new][may][closest][yet][perhaps][including][say.])
+v(1 2 3 7 8 9 10 13 14): 7.568001747131348	 ([fossil][found][spain][common][ancestor][great][apes,][humans,][researchers])
+v(0 3 4 5 6 7 9 15): 3.049715042114258	 ([new][spain][may][closest][yet][common][great][say.])
+v(0 1 2 4 5 6 8 10 13 14 15): 7.085315704345703	 ([new][fossil][found][may][closest][yet][ancestor][apes,][humans,][researchers][say.])
+v(1 2 3 7 8 9 10 11 12 13 14): 7.790959358215332	 ([fossil][found][spain][common][ancestor][great][apes,][perhaps][including][humans,][researchers])
+v(0 3 4 5 6 7 9 11 12 15): 3.688730239868164	 ([new][spain][may][closest][yet][common][great][perhaps][including][say.])
+v(0 1 2 4 5 6 8 10 11 12 13 14 15): 7.06882905960083	 ([new][fossil][found][may][closest][yet][ancestor][apes,][perhaps][including][humans,][researchers][say.])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 15): 5.503172874450684	 ([new][fossil][found][spain][may][closest][yet][common][ancestor][great][apes,][humans,][researchers][say.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 4.603065490722656	 ([new][fossil][found][spain][may][closest][yet][common][ancestor][great][apes,][perhaps][including][humans,][researchers][say.])
+---------- Rewards-v() ----------
+v(0 4 5 6 15): -3.6836156845092773, EP: 3.102576494216919	 ([new][may][closest][yet][say.])
+v(0 4 5 6 11 12 15): -3.5533804893493652, EP: 2.9928841590881348	 ([new][may][closest][yet][perhaps][including][say.])
+v(0 3 4 5 6 7 9 15): -2.740626811981201, EP: 2.30833101272583	 ([new][spain][may][closest][yet][common][great][say.])
+v(1 2 8 10 11 12 13 14): 2.1570305824279785, EP: -1.816788911819458	 ([fossil][found][ancestor][apes,][perhaps][including][humans,][researchers])
+v(0 3 4 5 6 7 9 11 12 15): -2.101611614227295, EP: 1.7701115608215332	 ([new][spain][may][closest][yet][common][great][perhaps][including][say.])
+v(1 2 8 10 13 14): 2.081418991088867, EP: -1.7531040906906128	 ([fossil][found][ancestor][apes,][humans,][researchers])
+v(1 2 3 7 8 9 10 11 12 13 14): 2.000617504119873, EP: -1.6850478649139404	 ([fossil][found][spain][common][ancestor][great][apes,][perhaps][including][humans,][researchers])
+v(1 2 3 7 8 9 10 13 14): 1.7776598930358887, EP: -1.4972587823867798	 ([fossil][found][spain][common][ancestor][great][apes,][humans,][researchers])
+v(0 1 2 4 5 6 8 10 13 14 15): 1.2949738502502441, EP: -1.0907096862792969	 ([new][fossil][found][may][closest][yet][ancestor][apes,][humans,][researchers][say.])
+v(0 1 2 4 5 6 8 10 11 12 13 14 15): 1.278487205505371, EP: -1.0768235921859741	 ([new][fossil][found][may][closest][yet][ancestor][apes,][perhaps][including][humans,][researchers][say.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): -1.1872763633728027, EP: 1.0	 ([new][fossil][found][spain][may][closest][yet][common][ancestor][great][apes,][perhaps][including][humans,][researchers][say.])
+v(3 7 9): -1.1635894775390625, EP: 0.9800493717193604	 ([spain][common][great])
+v(11 12): 0.4913601875305176, EP: -0.4138549268245697	 ([perhaps][including])
+v(0 1 2 3 4 5 6 7 8 9 10 13 14 15): -0.2871689796447754, EP: 0.24187205731868744	 ([new][fossil][found][spain][may][closest][yet][common][ancestor][great][apes,][humans,][researchers][say.])
+v(3 7 9 11 12): -0.27343320846557617, EP: 0.23030291497707367	 ([spain][common][great][perhaps][including])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

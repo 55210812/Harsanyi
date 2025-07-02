@@ -1,0 +1,20 @@
+---------- Players ----------
+Player 0: leading
+Player 1: supermarket
+Player 2: chain
+Player 3: still
+Player 4: feeling
+Player 5: impact
+Player 6: labor
+Player 7: dispute.
+---------- Rewards ----------
+v(): -5.462111473083496	 ([])
+v(1 2 7): 5.935602188110352	 ([supermarket][chain][dispute.])
+v(0 3 4 5 6): -1.6729350090026855	 ([leading][still][feeling][impact][labor])
+v(0 1 2 3 4 5 6 7): 5.136385440826416	 ([leading][supermarket][chain][still][feeling][impact][labor][dispute.])
+---------- Rewards-v() ----------
+v(1 2 7): 11.397713661193848, EP: 1.0754084587097168	 ([supermarket][chain][dispute.])
+v(0 1 2 3 4 5 6 7): 10.59849739074707, EP: 1.0	 ([leading][supermarket][chain][still][feeling][impact][labor][dispute.])
+v(0 3 4 5 6): 3.7891764640808105, EP: 0.3575201630592346	 ([leading][still][feeling][impact][labor])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

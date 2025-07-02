@@ -1,0 +1,62 @@
+---------- Players ----------
+Player 0: discussions
+Player 1: possible
+Player 2: acquisition
+Player 3: minneapolis - based
+Player 4: target
+Player 5: corp.
+Player 6: canada
+Player 7: # 39 ; s
+Player 8: hudson
+Player 9: # 39 ; s
+Player 10: bay
+Player 11: co.
+Player 12: ( hbc )
+Player 13: continue,
+Player 14: though
+Player 15: quot ; complicated
+Player 16: quot ;
+Player 17: real
+Player 18: estate
+Player 19: issues
+Player 20: bogging
+Player 21: down,
+Player 22: according
+Player 23: report
+Player 24: published
+Player 25: www.
+---------- Rewards ----------
+v(): -4.006802082061768	 ([])
+v(17 18 19 22 23 24): 5.605135440826416	 ([real][estate][issues][according][report][published])
+v(0 1 8 10 11 12 14 25): -7.604715347290039	 ([discussions][possible][hudson][bay][co.][( hbc )][though][www.])
+v(2 3 4 5 6 7 9 13 20 21): 8.052101135253906	 ([acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][# 39 ; s][continue,][bogging][down,])
+v(15 16): -3.447594165802002	 ([quot ; complicated][quot ;])
+v(0 1 8 10 11 12 14 17 18 19 22 23 24 25): 1.9808008670806885	 ([discussions][possible][hudson][bay][co.][( hbc )][though][real][estate][issues][according][report][published][www.])
+v(2 3 4 5 6 7 9 13 17 18 19 20 21 22 23 24): 8.118022918701172	 ([acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][# 39 ; s][continue,][real][estate][issues][bogging][down,][according][report][published])
+v(15 16 17 18 19 22 23 24): 6.724130153656006	 ([quot ; complicated][quot ;][real][estate][issues][according][report][published])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 20 21 25): 7.784672737121582	 ([discussions][possible][acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][hudson][# 39 ; s][bay][co.][( hbc )][continue,][though][bogging][down,][www.])
+v(0 1 8 10 11 12 14 15 16 25): -7.309597015380859	 ([discussions][possible][hudson][bay][co.][( hbc )][though][quot ; complicated][quot ;][www.])
+v(2 3 4 5 6 7 9 13 15 16 20 21): 7.936229228973389	 ([acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][# 39 ; s][continue,][quot ; complicated][quot ;][bogging][down,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 17 18 19 20 21 22 23 24 25): 8.201339721679688	 ([discussions][possible][acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][hudson][# 39 ; s][bay][co.][( hbc )][continue,][though][real][estate][issues][bogging][down,][according][report][published][www.])
+v(0 1 8 10 11 12 14 15 16 17 18 19 22 23 24 25): 2.6736063957214355	 ([discussions][possible][hudson][bay][co.][( hbc )][though][quot ; complicated][quot ;][real][estate][issues][according][report][published][www.])
+v(2 3 4 5 6 7 9 13 15 16 17 18 19 20 21 22 23 24): 8.047038078308105	 ([acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][# 39 ; s][continue,][quot ; complicated][quot ;][real][estate][issues][bogging][down,][according][report][published])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 25): 7.6934814453125	 ([discussions][possible][acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][hudson][# 39 ; s][bay][co.][( hbc )][continue,][though][quot ; complicated][quot ;][bogging][down,][www.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 8.022931098937988	 ([discussions][possible][acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][hudson][# 39 ; s][bay][co.][( hbc )][continue,][though][quot ; complicated][quot ;][real][estate][issues][bogging][down,][according][report][published][www.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 17 18 19 20 21 22 23 24 25): 12.208141326904297, EP: 1.0148305892944336	 ([discussions][possible][acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][hudson][# 39 ; s][bay][co.][( hbc )][continue,][though][real][estate][issues][bogging][down,][according][report][published][www.])
+v(2 3 4 5 6 7 9 13 17 18 19 20 21 22 23 24): 12.124824523925781, EP: 1.0079046487808228	 ([acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][# 39 ; s][continue,][real][estate][issues][bogging][down,][according][report][published])
+v(2 3 4 5 6 7 9 13 20 21): 12.058902740478516, EP: 1.002424716949463	 ([acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][# 39 ; s][continue,][bogging][down,])
+v(2 3 4 5 6 7 9 13 15 16 17 18 19 20 21 22 23 24): 12.053840637207031, EP: 1.0020039081573486	 ([acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][# 39 ; s][continue,][quot ; complicated][quot ;][real][estate][issues][bogging][down,][according][report][published])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 12.029733657836914, EP: 1.0	 ([discussions][possible][acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][hudson][# 39 ; s][bay][co.][( hbc )][continue,][though][quot ; complicated][quot ;][real][estate][issues][bogging][down,][according][report][published][www.])
+v(2 3 4 5 6 7 9 13 15 16 20 21): 11.943031311035156, EP: 0.9927926659584045	 ([acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][# 39 ; s][continue,][quot ; complicated][quot ;][bogging][down,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 20 21 25): 11.791475296020508, EP: 0.9801942110061646	 ([discussions][possible][acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][hudson][# 39 ; s][bay][co.][( hbc )][continue,][though][bogging][down,][www.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 25): 11.70028305053711, EP: 0.9726136326789856	 ([discussions][possible][acquisition][minneapolis - based][target][corp.][canada][# 39 ; s][hudson][# 39 ; s][bay][co.][( hbc )][continue,][though][quot ; complicated][quot ;][bogging][down,][www.])
+v(15 16 17 18 19 22 23 24): 10.730932235717773, EP: 0.8920340538024902	 ([quot ; complicated][quot ;][real][estate][issues][according][report][published])
+v(17 18 19 22 23 24): 9.611937522888184, EP: 0.7990149855613708	 ([real][estate][issues][according][report][published])
+v(0 1 8 10 11 12 14 15 16 17 18 19 22 23 24 25): 6.680408477783203, EP: 0.5553247332572937	 ([discussions][possible][hudson][bay][co.][( hbc )][though][quot ; complicated][quot ;][real][estate][issues][according][report][published][www.])
+v(0 1 8 10 11 12 14 17 18 19 22 23 24 25): 5.987603187561035, EP: 0.4977336525917053	 ([discussions][possible][hudson][bay][co.][( hbc )][though][real][estate][issues][according][report][published][www.])
+v(0 1 8 10 11 12 14 25): -3.5979132652282715, EP: -0.29908502101898193	 ([discussions][possible][hudson][bay][co.][( hbc )][though][www.])
+v(0 1 8 10 11 12 14 15 16 25): -3.302794933319092, EP: -0.2745526134967804	 ([discussions][possible][hudson][bay][co.][( hbc )][though][quot ; complicated][quot ;][www.])
+v(15 16): 0.5592079162597656, EP: 0.046485476195812225	 ([quot ; complicated][quot ;])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

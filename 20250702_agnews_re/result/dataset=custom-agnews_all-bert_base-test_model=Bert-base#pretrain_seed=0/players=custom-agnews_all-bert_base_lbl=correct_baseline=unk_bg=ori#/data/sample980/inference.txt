@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 19:41:56
+prompt: [CLS] while grid computing vendors sun and ibm are taking the reins of the utility computing market, the competition is collaborating to provide proof - of - concept projects to improve and showcase their services and offerings. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2096 decoded_text: while
+idx:2 input_id:8370 decoded_text: grid
+idx:3 input_id:9798 decoded_text: computing
+idx:4 input_id:17088 decoded_text: vendors
+idx:5 input_id:3103 decoded_text: sun
+idx:6 input_id:1998 decoded_text: and
+idx:7 input_id:9980 decoded_text: ibm
+idx:8 input_id:2024 decoded_text: are
+idx:9 input_id:2635 decoded_text: taking
+idx:10 input_id:1996 decoded_text: the
+idx:11 input_id:19222 decoded_text: reins
+idx:12 input_id:1997 decoded_text: of
+idx:13 input_id:1996 decoded_text: the
+idx:14 input_id:9710 decoded_text: utility
+idx:15 input_id:9798 decoded_text: computing
+idx:16 input_id:3006 decoded_text: market
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:1996 decoded_text: the
+idx:19 input_id:2971 decoded_text: competition
+idx:20 input_id:2003 decoded_text: is
+idx:21 input_id:20295 decoded_text: collaborating
+idx:22 input_id:2000 decoded_text: to
+idx:23 input_id:3073 decoded_text: provide
+idx:24 input_id:6947 decoded_text: proof
+idx:25 input_id:1011 decoded_text: -
+idx:26 input_id:1997 decoded_text: of
+idx:27 input_id:1011 decoded_text: -
+idx:28 input_id:4145 decoded_text: concept
+idx:29 input_id:3934 decoded_text: projects
+idx:30 input_id:2000 decoded_text: to
+idx:31 input_id:5335 decoded_text: improve
+idx:32 input_id:1998 decoded_text: and
+idx:33 input_id:13398 decoded_text: showcase
+idx:34 input_id:2037 decoded_text: their
+idx:35 input_id:2578 decoded_text: services
+idx:36 input_id:1998 decoded_text: and
+idx:37 input_id:14927 decoded_text: offerings
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.4181571006774902, -2.733024835586548, -0.8512321710586548, 6.913287162780762]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

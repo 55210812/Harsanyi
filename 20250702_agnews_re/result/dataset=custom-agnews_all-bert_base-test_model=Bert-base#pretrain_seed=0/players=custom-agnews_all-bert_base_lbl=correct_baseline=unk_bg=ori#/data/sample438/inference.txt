@@ -1,0 +1,64 @@
+Execution time: 2025-07-02 19:27:58
+prompt: [CLS] peoplesoft inc. # 39 ; s board of directors said saturday it will not accept oracle corp. # 39 ; s bid to buy the company for \ $ 24 per share, even after 61 percent of the pleasanton firm # 39 ; s investors endorsed the offer. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:7243 decoded_text: peoples
+idx:2 input_id:15794 decoded_text: ##oft
+idx:3 input_id:4297 decoded_text: inc
+idx:4 input_id:1012 decoded_text: .
+idx:5 input_id:1001 decoded_text: #
+idx:6 input_id:4464 decoded_text: 39
+idx:7 input_id:1025 decoded_text: ;
+idx:8 input_id:1055 decoded_text: s
+idx:9 input_id:2604 decoded_text: board
+idx:10 input_id:1997 decoded_text: of
+idx:11 input_id:5501 decoded_text: directors
+idx:12 input_id:2056 decoded_text: said
+idx:13 input_id:5095 decoded_text: saturday
+idx:14 input_id:2009 decoded_text: it
+idx:15 input_id:2097 decoded_text: will
+idx:16 input_id:2025 decoded_text: not
+idx:17 input_id:5138 decoded_text: accept
+idx:18 input_id:14721 decoded_text: oracle
+idx:19 input_id:13058 decoded_text: corp
+idx:20 input_id:1012 decoded_text: .
+idx:21 input_id:1001 decoded_text: #
+idx:22 input_id:4464 decoded_text: 39
+idx:23 input_id:1025 decoded_text: ;
+idx:24 input_id:1055 decoded_text: s
+idx:25 input_id:7226 decoded_text: bid
+idx:26 input_id:2000 decoded_text: to
+idx:27 input_id:4965 decoded_text: buy
+idx:28 input_id:1996 decoded_text: the
+idx:29 input_id:2194 decoded_text: company
+idx:30 input_id:2005 decoded_text: for
+idx:31 input_id:1032 decoded_text: \
+idx:32 input_id:1002 decoded_text: $
+idx:33 input_id:2484 decoded_text: 24
+idx:34 input_id:2566 decoded_text: per
+idx:35 input_id:3745 decoded_text: share
+idx:36 input_id:1010 decoded_text: ,
+idx:37 input_id:2130 decoded_text: even
+idx:38 input_id:2044 decoded_text: after
+idx:39 input_id:6079 decoded_text: 61
+idx:40 input_id:3867 decoded_text: percent
+idx:41 input_id:1997 decoded_text: of
+idx:42 input_id:1996 decoded_text: the
+idx:43 input_id:8242 decoded_text: pleasant
+idx:44 input_id:2239 decoded_text: ##on
+idx:45 input_id:3813 decoded_text: firm
+idx:46 input_id:1001 decoded_text: #
+idx:47 input_id:4464 decoded_text: 39
+idx:48 input_id:1025 decoded_text: ;
+idx:49 input_id:1055 decoded_text: s
+idx:50 input_id:9387 decoded_text: investors
+idx:51 input_id:11763 decoded_text: endorsed
+idx:52 input_id:1996 decoded_text: the
+idx:53 input_id:3749 decoded_text: offer
+idx:54 input_id:1012 decoded_text: .
+idx:55 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-4.111847877502441, -3.696636915206909, 6.242917060852051, -0.3897666335105896]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

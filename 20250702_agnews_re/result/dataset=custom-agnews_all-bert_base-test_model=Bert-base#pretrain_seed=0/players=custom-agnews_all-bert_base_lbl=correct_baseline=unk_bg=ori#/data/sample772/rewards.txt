@@ -1,0 +1,59 @@
+---------- Players ----------
+Player 0: sabmiller,
+Player 1: worlds
+Player 2: third
+Player 3: biggest
+Player 4: brewer,
+Player 5: poured
+Player 6: strong
+Player 7: interim
+Player 8: trading
+Player 9: performance
+Player 10: yesterday
+Player 11: -
+Player 12: also
+Player 13: said
+Player 14: potential
+Player 15: warchest
+Player 16: \ $ 2
+Player 17: billion
+Player 18: ( 1. 08bn )
+Player 19: major
+Player 20: acquisition
+Player 21: opportunity
+Player 22: occurred.
+---------- Rewards ----------
+v(): -3.5879263877868652	 ([])
+v(4 9 10 15 16 17): 1.5162575244903564	 ([brewer,][performance][yesterday][warchest][\ $ 2][billion])
+v(1 2 3 21 22): 0.8550890684127808	 ([worlds][third][biggest][opportunity][occurred.])
+v(0 5 12 13 14 18 19 20): 4.2523579597473145	 ([sabmiller,][poured][also][said][potential][( 1. 08bn )][major][acquisition])
+v(6 7 8 11): 1.533305287361145	 ([strong][interim][trading][-])
+v(1 2 3 4 9 10 15 16 17 21 22): 7.910722732543945	 ([worlds][third][biggest][brewer,][performance][yesterday][warchest][\ $ 2][billion][opportunity][occurred.])
+v(0 4 5 9 10 12 13 14 15 16 17 18 19 20): 6.404938220977783	 ([sabmiller,][brewer,][poured][performance][yesterday][also][said][potential][warchest][\ $ 2][billion][( 1. 08bn )][major][acquisition])
+v(4 6 7 8 9 10 11 15 16 17): 8.308309555053711	 ([brewer,][strong][interim][trading][performance][yesterday][-][warchest][\ $ 2][billion])
+v(0 1 2 3 5 12 13 14 18 19 20 21 22): 7.250250816345215	 ([sabmiller,][worlds][third][biggest][poured][also][said][potential][( 1. 08bn )][major][acquisition][opportunity][occurred.])
+v(1 2 3 6 7 8 11 21 22): 6.79702091217041	 ([worlds][third][biggest][strong][interim][trading][-][opportunity][occurred.])
+v(0 5 6 7 8 11 12 13 14 18 19 20): 7.814297199249268	 ([sabmiller,][poured][strong][interim][trading][-][also][said][potential][( 1. 08bn )][major][acquisition])
+v(0 1 2 3 4 5 9 10 12 13 14 15 16 17 18 19 20 21 22): 6.938734531402588	 ([sabmiller,][worlds][third][biggest][brewer,][poured][performance][yesterday][also][said][potential][warchest][\ $ 2][billion][( 1. 08bn )][major][acquisition][opportunity][occurred.])
+v(1 2 3 4 6 7 8 9 10 11 15 16 17 21 22): 8.537890434265137	 ([worlds][third][biggest][brewer,][strong][interim][trading][performance][yesterday][-][warchest][\ $ 2][billion][opportunity][occurred.])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.242222309112549	 ([sabmiller,][brewer,][poured][strong][interim][trading][performance][yesterday][-][also][said][potential][warchest][\ $ 2][billion][( 1. 08bn )][major][acquisition])
+v(0 1 2 3 5 6 7 8 11 12 13 14 18 19 20 21 22): 7.852024555206299	 ([sabmiller,][worlds][third][biggest][poured][strong][interim][trading][-][also][said][potential][( 1. 08bn )][major][acquisition][opportunity][occurred.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 7.64616584777832	 ([sabmiller,][worlds][third][biggest][brewer,][poured][strong][interim][trading][performance][yesterday][-][also][said][potential][warchest][\ $ 2][billion][( 1. 08bn )][major][acquisition][opportunity][occurred.])
+---------- Rewards-v() ----------
+v(1 2 3 4 6 7 8 9 10 11 15 16 17 21 22): 12.125816345214844, EP: 1.0793765783309937	 ([worlds][third][biggest][brewer,][strong][interim][trading][performance][yesterday][-][warchest][\ $ 2][billion][opportunity][occurred.])
+v(4 6 7 8 9 10 11 15 16 17): 11.896236419677734, EP: 1.0589405298233032	 ([brewer,][strong][interim][trading][performance][yesterday][-][warchest][\ $ 2][billion])
+v(1 2 3 4 9 10 15 16 17 21 22): 11.498649597167969, EP: 1.0235494375228882	 ([worlds][third][biggest][brewer,][performance][yesterday][warchest][\ $ 2][billion][opportunity][occurred.])
+v(0 1 2 3 5 6 7 8 11 12 13 14 18 19 20 21 22): 11.439950942993164, EP: 1.018324375152588	 ([sabmiller,][worlds][third][biggest][poured][strong][interim][trading][-][also][said][potential][( 1. 08bn )][major][acquisition][opportunity][occurred.])
+v(0 5 6 7 8 11 12 13 14 18 19 20): 11.402223587036133, EP: 1.0149661302566528	 ([sabmiller,][poured][strong][interim][trading][-][also][said][potential][( 1. 08bn )][major][acquisition])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 11.234092712402344, EP: 1.0	 ([sabmiller,][worlds][third][biggest][brewer,][poured][strong][interim][trading][performance][yesterday][-][also][said][potential][warchest][\ $ 2][billion][( 1. 08bn )][major][acquisition][opportunity][occurred.])
+v(0 1 2 3 5 12 13 14 18 19 20 21 22): 10.838176727294922, EP: 0.9647576212882996	 ([sabmiller,][worlds][third][biggest][poured][also][said][potential][( 1. 08bn )][major][acquisition][opportunity][occurred.])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 10.830148696899414, EP: 0.9640430212020874	 ([sabmiller,][brewer,][poured][strong][interim][trading][performance][yesterday][-][also][said][potential][warchest][\ $ 2][billion][( 1. 08bn )][major][acquisition])
+v(0 1 2 3 4 5 9 10 12 13 14 15 16 17 18 19 20 21 22): 10.526660919189453, EP: 0.9370281100273132	 ([sabmiller,][worlds][third][biggest][brewer,][poured][performance][yesterday][also][said][potential][warchest][\ $ 2][billion][( 1. 08bn )][major][acquisition][opportunity][occurred.])
+v(1 2 3 6 7 8 11 21 22): 10.384946823120117, EP: 0.9244135022163391	 ([worlds][third][biggest][strong][interim][trading][-][opportunity][occurred.])
+v(0 4 5 9 10 12 13 14 15 16 17 18 19 20): 9.992864608764648, EP: 0.8895123600959778	 ([sabmiller,][brewer,][poured][performance][yesterday][also][said][potential][warchest][\ $ 2][billion][( 1. 08bn )][major][acquisition])
+v(0 5 12 13 14 18 19 20): 7.84028434753418, EP: 0.6979010105133057	 ([sabmiller,][poured][also][said][potential][( 1. 08bn )][major][acquisition])
+v(6 7 8 11): 5.121231555938721, EP: 0.45586517453193665	 ([strong][interim][trading][-])
+v(4 9 10 15 16 17): 5.104184150695801, EP: 0.4543476998806	 ([brewer,][performance][yesterday][warchest][\ $ 2][billion])
+v(1 2 3 21 22): 4.4430155754089355, EP: 0.39549392461776733	 ([worlds][third][biggest][opportunity][occurred.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

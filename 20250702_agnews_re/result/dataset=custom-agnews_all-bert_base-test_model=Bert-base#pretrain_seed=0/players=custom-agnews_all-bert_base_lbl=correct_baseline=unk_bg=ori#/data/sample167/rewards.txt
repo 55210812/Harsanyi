@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: heavy
+Player 1: rain
+Player 2: wind
+Player 3: hurricane
+Player 4: ivan
+Player 5: assaulted
+Player 6: southern
+Player 7: appalachian
+Player 8: region
+Player 9: friday,
+Player 10: washing
+Player 11: away
+Player 12: homes
+Player 13: killing
+Player 14: least
+Player 15: three
+Player 16: people.
+---------- Rewards ----------
+v(): -4.567227363586426	 ([])
+v(1 6 7 8 15 16): -6.414792060852051	 ([rain][southern][appalachian][region][three][people.])
+v(0 5 10 11): -3.1923012733459473	 ([heavy][assaulted][washing][away])
+v(2 3 4 9 12 13 14): 0.5847370624542236	 ([wind][hurricane][ivan][friday,][homes][killing][least])
+v(0 1 5 6 7 8 10 11 15 16): 1.7811009883880615	 ([heavy][rain][assaulted][southern][appalachian][region][washing][away][three][people.])
+v(1 2 3 4 6 7 8 9 12 13 14 15 16): -0.5101344585418701	 ([rain][wind][hurricane][ivan][southern][appalachian][region][friday,][homes][killing][least][three][people.])
+v(0 2 3 4 5 9 10 11 12 13 14): 2.0910427570343018	 ([heavy][wind][hurricane][ivan][assaulted][friday,][washing][away][homes][killing][least])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 5.446948051452637	 ([heavy][rain][wind][hurricane][ivan][assaulted][southern][appalachian][region][friday,][washing][away][homes][killing][least][three][people.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 10.014175415039062, EP: 1.0	 ([heavy][rain][wind][hurricane][ivan][assaulted][southern][appalachian][region][friday,][washing][away][homes][killing][least][three][people.])
+v(0 2 3 4 5 9 10 11 12 13 14): 6.658269882202148, EP: 0.6648845076560974	 ([heavy][wind][hurricane][ivan][assaulted][friday,][washing][away][homes][killing][least])
+v(0 1 5 6 7 8 10 11 15 16): 6.348328590393066, EP: 0.6339342594146729	 ([heavy][rain][assaulted][southern][appalachian][region][washing][away][three][people.])
+v(2 3 4 9 12 13 14): 5.15196418762207, EP: 0.5144671201705933	 ([wind][hurricane][ivan][friday,][homes][killing][least])
+v(1 2 3 4 6 7 8 9 12 13 14 15 16): 4.057092666625977, EP: 0.40513497591018677	 ([rain][wind][hurricane][ivan][southern][appalachian][region][friday,][homes][killing][least][three][people.])
+v(1 6 7 8 15 16): -1.847564697265625, EP: -0.18449494242668152	 ([rain][southern][appalachian][region][three][people.])
+v(0 5 10 11): 1.3749260902404785, EP: 0.13729798793792725	 ([heavy][assaulted][washing][away])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

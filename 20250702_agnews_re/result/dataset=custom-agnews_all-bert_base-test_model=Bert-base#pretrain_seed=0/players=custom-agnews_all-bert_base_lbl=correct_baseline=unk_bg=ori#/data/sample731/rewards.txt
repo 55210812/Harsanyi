@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: years,
+Player 1: big
+Player 2: game
+Player 3: tradition
+Player 4: only,
+Player 5: die -
+Player 6: hard
+Player 7: alums
+Player 8: stanford
+Player 9: cal
+Player 10: seeing
+Player 11: contest
+Player 12: chance
+Player 13: salvage
+Player 14: so -
+Player 15: seasons.
+---------- Rewards ----------
+v(): -6.593218803405762	 ([])
+v(3 4 7 14 15): -0.8414020538330078	 ([tradition][only,][alums][so -][seasons.])
+v(1 2 11 12 13): -1.1302461624145508	 ([big][game][contest][chance][salvage])
+v(0 5 6 8 9 10): -0.5740954875946045	 ([years,][die -][hard][stanford][cal][seeing])
+v(1 2 3 4 7 11 12 13 14 15): 7.937453269958496	 ([big][game][tradition][only,][alums][contest][chance][salvage][so -][seasons.])
+v(0 3 4 5 6 7 8 9 10 14 15): 9.157424926757812	 ([years,][tradition][only,][die -][hard][alums][stanford][cal][seeing][so -][seasons.])
+v(0 1 2 5 6 8 9 10 11 12 13): 8.069925308227539	 ([years,][big][game][die -][hard][stanford][cal][seeing][contest][chance][salvage])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 6.179520130157471	 ([years,][big][game][tradition][only,][die -][hard][alums][stanford][cal][seeing][contest][chance][salvage][so -][seasons.])
+---------- Rewards-v() ----------
+v(0 3 4 5 6 7 8 9 10 14 15): 15.750643730163574, EP: 1.2331453561782837	 ([years,][tradition][only,][die -][hard][alums][stanford][cal][seeing][so -][seasons.])
+v(0 1 2 5 6 8 9 10 11 12 13): 14.6631441116333, EP: 1.148003101348877	 ([years,][big][game][die -][hard][stanford][cal][seeing][contest][chance][salvage])
+v(1 2 3 4 7 11 12 13 14 15): 14.530672073364258, EP: 1.1376316547393799	 ([big][game][tradition][only,][alums][contest][chance][salvage][so -][seasons.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 12.77273941040039, EP: 1.0	 ([years,][big][game][tradition][only,][die -][hard][alums][stanford][cal][seeing][contest][chance][salvage][so -][seasons.])
+v(0 5 6 8 9 10): 6.019123077392578, EP: 0.4712476134300232	 ([years,][die -][hard][stanford][cal][seeing])
+v(3 4 7 14 15): 5.751816749572754, EP: 0.45031973719596863	 ([tradition][only,][alums][so -][seasons.])
+v(1 2 11 12 13): 5.462972640991211, EP: 0.42770564556121826	 ([big][game][contest][chance][salvage])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

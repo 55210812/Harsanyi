@@ -1,0 +1,28 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: researchers
+Player 3: working
+Player 4: coastal
+Player 5: georgia
+Player 6: discovered
+Player 7: could
+Player 8: three
+Player 9: new
+Player 10: species
+Player 11: bottom - dwelling
+Player 12: creatures
+Player 13: known
+Player 14: sea
+Player 15: squirts.
+---------- Rewards ----------
+v(): 4.371370315551758	 ([])
+v(1 3 4 5 7 8 13 14 15): 7.377914905548096	 ([-][working][coastal][georgia][could][three][known][sea][squirts.])
+v(0 2 6 9 10 11 12): 7.8037943840026855	 ([ap][researchers][discovered][new][species][bottom - dwelling][creatures])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.968936920166016	 ([ap][-][researchers][working][coastal][georgia][discovered][could][three][new][species][bottom - dwelling][creatures][known][sea][squirts.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 3.597566604614258, EP: 1.0	 ([ap][-][researchers][working][coastal][georgia][discovered][could][three][new][species][bottom - dwelling][creatures][known][sea][squirts.])
+v(0 2 6 9 10 11 12): 3.4324240684509277, EP: 0.9540960192680359	 ([ap][researchers][discovered][new][species][bottom - dwelling][creatures])
+v(1 3 4 5 7 8 13 14 15): 3.006544589996338, EP: 0.835716187953949	 ([-][working][coastal][georgia][could][three][known][sea][squirts.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

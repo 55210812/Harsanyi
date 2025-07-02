@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: san
+Player 1: diego
+Player 2: - -
+Player 3: demomobile
+Player 4: 2004
+Player 5: conference,
+Player 6: 40
+Player 7: vendors
+Player 8: six
+Player 9: minutes
+Player 10: demonstrate
+Player 11: wireless
+Player 12: technology
+Player 13: invention
+Player 14: crowd.
+Player 15: products,
+Player 16: although
+Player 17: amazing
+Player 18: description,
+Player 19: translate
+Player 20: well
+Player 21: live
+Player 22: screen
+Player 23: tight
+Player 24: time
+Player 25: constraint.
+Player 26: demonstrations,
+Player 27: however,
+Player 28: entirely
+Player 29: captivate
+Player 30: audience
+Player 31: leave
+Player 32: wake
+Player 33: audible
+Player 34: buzz
+Player 35: excited
+Player 36: voices.
+---------- Rewards ----------
+v(): 4.01291036605835	 ([])
+v(10 17 31 32 33 34 35): 5.635331630706787	 ([demonstrate][amazing][leave][wake][audible][buzz][excited])
+v(2 3 6 7 14 15 16 18 19 20 21 25 26 28 29 30): 6.410068511962891	 ([- -][demomobile][40][vendors][crowd.][products,][although][description,][translate][well][live][constraint.][demonstrations,][entirely][captivate][audience])
+v(0 1 4 5 8 9 11 12 13 22 23 24 27 36): 5.528411388397217	 ([san][diego][2004][conference,][six][minutes][wireless][technology][invention][screen][tight][time][however,][voices.])
+v(2 3 6 7 10 14 15 16 17 18 19 20 21 25 26 28 29 30 31 32 33 34 35): 7.230864524841309	 ([- -][demomobile][40][vendors][demonstrate][crowd.][products,][although][amazing][description,][translate][well][live][constraint.][demonstrations,][entirely][captivate][audience][leave][wake][audible][buzz][excited])
+v(0 1 4 5 8 9 10 11 12 13 17 22 23 24 27 31 32 33 34 35 36): 6.197412490844727	 ([san][diego][2004][conference,][six][minutes][demonstrate][wireless][technology][invention][amazing][screen][tight][time][however,][leave][wake][audible][buzz][excited][voices.])
+v(0 1 2 3 4 5 6 7 8 9 11 12 13 14 15 16 18 19 20 21 22 23 24 25 26 27 28 29 30 36): 3.3623743057250977	 ([san][diego][- -][demomobile][2004][conference,][40][vendors][six][minutes][wireless][technology][invention][crowd.][products,][although][description,][translate][well][live][screen][tight][time][constraint.][demonstrations,][however,][entirely][captivate][audience][voices.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36): 2.880697727203369	 ([san][diego][- -][demomobile][2004][conference,][40][vendors][six][minutes][demonstrate][wireless][technology][invention][crowd.][products,][although][amazing][description,][translate][well][live][screen][tight][time][constraint.][demonstrations,][however,][entirely][captivate][audience][leave][wake][audible][buzz][excited][voices.])
+---------- Rewards-v() ----------
+v(2 3 6 7 10 14 15 16 17 18 19 20 21 25 26 28 29 30 31 32 33 34 35): 3.217954158782959, EP: -2.842181921005249	 ([- -][demomobile][40][vendors][demonstrate][crowd.][products,][although][amazing][description,][translate][well][live][constraint.][demonstrations,][entirely][captivate][audience][leave][wake][audible][buzz][excited])
+v(2 3 6 7 14 15 16 18 19 20 21 25 26 28 29 30): 2.397158145904541, EP: -2.1172332763671875	 ([- -][demomobile][40][vendors][crowd.][products,][although][description,][translate][well][live][constraint.][demonstrations,][entirely][captivate][audience])
+v(0 1 4 5 8 9 10 11 12 13 17 22 23 24 27 31 32 33 34 35 36): 2.184502124786377, EP: -1.9294097423553467	 ([san][diego][2004][conference,][six][minutes][demonstrate][wireless][technology][invention][amazing][screen][tight][time][however,][leave][wake][audible][buzz][excited][voices.])
+v(10 17 31 32 33 34 35): 1.6224212646484375, EP: -1.4329651594161987	 ([demonstrate][amazing][leave][wake][audible][buzz][excited])
+v(0 1 4 5 8 9 11 12 13 22 23 24 27 36): 1.5155010223388672, EP: -1.338530421257019	 ([san][diego][2004][conference,][six][minutes][wireless][technology][invention][screen][tight][time][however,][voices.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36): -1.1322126388549805, EP: 1.0	 ([san][diego][- -][demomobile][2004][conference,][40][vendors][six][minutes][demonstrate][wireless][technology][invention][crowd.][products,][although][amazing][description,][translate][well][live][screen][tight][time][constraint.][demonstrations,][however,][entirely][captivate][audience][leave][wake][audible][buzz][excited][voices.])
+v(0 1 2 3 4 5 6 7 8 9 11 12 13 14 15 16 18 19 20 21 22 23 24 25 26 27 28 29 30 36): -0.650536060333252, EP: 0.5745705962181091	 ([san][diego][- -][demomobile][2004][conference,][40][vendors][six][minutes][wireless][technology][invention][crowd.][products,][although][description,][translate][well][live][screen][tight][time][constraint.][demonstrations,][however,][entirely][captivate][audience][voices.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

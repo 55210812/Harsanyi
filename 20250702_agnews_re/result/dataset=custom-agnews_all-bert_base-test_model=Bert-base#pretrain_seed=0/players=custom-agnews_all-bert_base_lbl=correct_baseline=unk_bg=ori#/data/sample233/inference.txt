@@ -1,0 +1,42 @@
+Execution time: 2025-07-02 19:23:06
+prompt: [CLS] new york ( reuters ) - u. s. stocks opened higher on tuesday, as oil prices eased and insurance stocks extended gains from their rally late on monday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2047 decoded_text: new
+idx:2 input_id:2259 decoded_text: york
+idx:3 input_id:1006 decoded_text: (
+idx:4 input_id:26665 decoded_text: reuters
+idx:5 input_id:1007 decoded_text: )
+idx:6 input_id:1011 decoded_text: -
+idx:7 input_id:1057 decoded_text: u
+idx:8 input_id:1012 decoded_text: .
+idx:9 input_id:1055 decoded_text: s
+idx:10 input_id:1012 decoded_text: .
+idx:11 input_id:15768 decoded_text: stocks
+idx:12 input_id:2441 decoded_text: opened
+idx:13 input_id:3020 decoded_text: higher
+idx:14 input_id:2006 decoded_text: on
+idx:15 input_id:9857 decoded_text: tuesday
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:2004 decoded_text: as
+idx:18 input_id:3514 decoded_text: oil
+idx:19 input_id:7597 decoded_text: prices
+idx:20 input_id:10987 decoded_text: eased
+idx:21 input_id:1998 decoded_text: and
+idx:22 input_id:5427 decoded_text: insurance
+idx:23 input_id:15768 decoded_text: stocks
+idx:24 input_id:3668 decoded_text: extended
+idx:25 input_id:12154 decoded_text: gains
+idx:26 input_id:2013 decoded_text: from
+idx:27 input_id:2037 decoded_text: their
+idx:28 input_id:8320 decoded_text: rally
+idx:29 input_id:2397 decoded_text: late
+idx:30 input_id:2006 decoded_text: on
+idx:31 input_id:6928 decoded_text: monday
+idx:32 input_id:1012 decoded_text: .
+idx:33 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.1572959423065186, -2.7254908084869385, 6.717184543609619, -2.736738681793213]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: kosuke
+Player 1: kitajima
+Player 2: # 39 ; s
+Player 3: technique
+Player 4: may
+Player 5: get
+Player 6: sharper
+Player 7: eye
+Player 8: officials
+Player 9: today
+Player 10: 200 - meter
+Player 11: breaststroke
+Player 12: race.
+---------- Rewards ----------
+v(): -4.798062801361084	 ([])
+v(2 3 4 11 12): 8.874969482421875	 ([# 39 ; s][technique][may][breaststroke][race.])
+v(0 1 5 6 8): -6.551433563232422	 ([kosuke][kitajima][get][sharper][officials])
+v(7 9 10): -5.105258941650391	 ([eye][today][200 - meter])
+v(0 1 2 3 4 5 6 8 11 12): 8.412010192871094	 ([kosuke][kitajima][# 39 ; s][technique][may][get][sharper][officials][breaststroke][race.])
+v(2 3 4 7 9 10 11 12): 8.502547264099121	 ([# 39 ; s][technique][may][eye][today][200 - meter][breaststroke][race.])
+v(0 1 5 6 7 8 9 10): 1.3879332542419434	 ([kosuke][kitajima][get][sharper][eye][officials][today][200 - meter])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 8.689443588256836	 ([kosuke][kitajima][# 39 ; s][technique][may][get][sharper][eye][officials][today][200 - meter][breaststroke][race.])
+---------- Rewards-v() ----------
+v(2 3 4 11 12): 13.673032760620117, EP: 1.013755440711975	 ([# 39 ; s][technique][may][breaststroke][race.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 13.487506866455078, EP: 1.0	 ([kosuke][kitajima][# 39 ; s][technique][may][get][sharper][eye][officials][today][200 - meter][breaststroke][race.])
+v(2 3 4 7 9 10 11 12): 13.300609588623047, EP: 0.9861429333686829	 ([# 39 ; s][technique][may][eye][today][200 - meter][breaststroke][race.])
+v(0 1 2 3 4 5 6 8 11 12): 13.210073471069336, EP: 0.9794303178787231	 ([kosuke][kitajima][# 39 ; s][technique][may][get][sharper][officials][breaststroke][race.])
+v(0 1 5 6 7 8 9 10): 6.185996055603027, EP: 0.45864635705947876	 ([kosuke][kitajima][get][sharper][eye][officials][today][200 - meter])
+v(0 1 5 6 8): -1.753370761871338, EP: -0.12999962270259857	 ([kosuke][kitajima][get][sharper][officials])
+v(7 9 10): -0.30719614028930664, EP: -0.022776346653699875	 ([eye][today][200 - meter])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

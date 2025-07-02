@@ -1,0 +1,28 @@
+---------- Players ----------
+Player 0: \ $ 100
+Player 1: million
+Player 2: supercomputer
+Player 3: built
+Player 4: analyze
+Player 5: nation
+Player 6: # 39 ; s
+Player 7: nuclear
+Player 8: stockpile
+Player 9: set
+Player 10: unofficial
+Player 11: performance
+Player 12: record
+Player 13: -
+Player 14: second
+Player 15: month.
+---------- Rewards ----------
+v(): 2.9943485260009766	 ([])
+v(0 1 2 3 4 7 8): 4.704508304595947	 ([\ $ 100][million][supercomputer][built][analyze][nuclear][stockpile])
+v(5 6 9 10 11 12 13 14 15): -1.5357065200805664	 ([nation][# 39 ; s][set][unofficial][performance][record][-][second][month.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 4.844870090484619	 ([\ $ 100][million][supercomputer][built][analyze][nation][# 39 ; s][nuclear][stockpile][set][unofficial][performance][record][-][second][month.])
+---------- Rewards-v() ----------
+v(5 6 9 10 11 12 13 14 15): -4.530055046081543, EP: -2.447988271713257	 ([nation][# 39 ; s][set][unofficial][performance][record][-][second][month.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 1.8505215644836426, EP: 1.0	 ([\ $ 100][million][supercomputer][built][analyze][nation][# 39 ; s][nuclear][stockpile][set][unofficial][performance][record][-][second][month.])
+v(0 1 2 3 4 7 8): 1.7101597785949707, EP: 0.9241501688957214	 ([\ $ 100][million][supercomputer][built][analyze][nuclear][stockpile])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

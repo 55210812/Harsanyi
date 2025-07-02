@@ -1,0 +1,47 @@
+---------- Players ----------
+Player 0: oakland,
+Player 1: calif.
+Player 2: -
+Player 3: jermaine
+Player 4: dye
+Player 5: hit
+Player 6: tying
+Player 7: two - run
+Player 8: single
+Player 9: sixth
+Player 10: adam
+Player 11: melhuse
+Player 12: followed
+Player 13: go - ahead
+Player 14: single,
+Player 15: leading
+Player 16: oakland
+Player 17: athletics
+Player 18: former
+Player 19: teammate
+Player 20: miguel
+Player 21: tejada
+Player 22: baltimore
+Player 23: orioles
+Player 24: 4 - 3
+Player 25: monday
+Player 26: night...
+---------- Rewards ----------
+v(): -4.953908920288086	 ([])
+v(0 16 18 21 22 23 24): -10.731680870056152	 ([oakland,][oakland][former][tejada][baltimore][orioles][4 - 3])
+v(1 4 5 7 8 11 12 26): 1.3231513500213623	 ([calif.][dye][hit][two - run][single][melhuse][followed][night...])
+v(2 3 6 9 10 13 14 15 17 19 20 25): -10.550108909606934	 ([-][jermaine][tying][sixth][adam][go - ahead][single,][leading][athletics][teammate][miguel][monday])
+v(0 1 4 5 7 8 11 12 16 18 21 22 23 24 26): -4.214931488037109	 ([oakland,][calif.][dye][hit][two - run][single][melhuse][followed][oakland][former][tejada][baltimore][orioles][4 - 3][night...])
+v(0 2 3 6 9 10 13 14 15 16 17 18 19 20 21 22 23 24 25): -10.49339771270752	 ([oakland,][-][jermaine][tying][sixth][adam][go - ahead][single,][leading][oakland][athletics][former][teammate][miguel][tejada][baltimore][orioles][4 - 3][monday])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 19 20 25 26): 8.361270904541016	 ([calif.][-][jermaine][dye][hit][tying][two - run][single][sixth][adam][melhuse][followed][go - ahead][single,][leading][athletics][teammate][miguel][monday][night...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 8.489375114440918	 ([oakland,][calif.][-][jermaine][dye][hit][tying][two - run][single][sixth][adam][melhuse][followed][go - ahead][single,][leading][oakland][athletics][former][teammate][miguel][tejada][baltimore][orioles][4 - 3][monday][night...])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26): 13.443284034729004, EP: 1.0	 ([oakland,][calif.][-][jermaine][dye][hit][tying][two - run][single][sixth][adam][melhuse][followed][go - ahead][single,][leading][oakland][athletics][former][teammate][miguel][tejada][baltimore][orioles][4 - 3][monday][night...])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 19 20 25 26): 13.315179824829102, EP: 0.9904707670211792	 ([calif.][-][jermaine][dye][hit][tying][two - run][single][sixth][adam][melhuse][followed][go - ahead][single,][leading][athletics][teammate][miguel][monday][night...])
+v(1 4 5 7 8 11 12 26): 6.277060508728027, EP: 0.4669291079044342	 ([calif.][dye][hit][two - run][single][melhuse][followed][night...])
+v(0 16 18 21 22 23 24): -5.777771949768066, EP: -0.429788738489151	 ([oakland,][oakland][former][tejada][baltimore][orioles][4 - 3])
+v(2 3 6 9 10 13 14 15 17 19 20 25): -5.596199989318848, EP: -0.41628220677375793	 ([-][jermaine][tying][sixth][adam][go - ahead][single,][leading][athletics][teammate][miguel][monday])
+v(0 2 3 6 9 10 13 14 15 16 17 18 19 20 21 22 23 24 25): -5.539488792419434, EP: -0.4120636582374573	 ([oakland,][-][jermaine][tying][sixth][adam][go - ahead][single,][leading][oakland][athletics][former][teammate][miguel][tejada][baltimore][orioles][4 - 3][monday])
+v(0 1 4 5 7 8 11 12 16 18 21 22 23 24 26): 0.7389774322509766, EP: 0.05497000738978386	 ([oakland,][calif.][dye][hit][two - run][single][melhuse][followed][oakland][former][tejada][baltimore][orioles][4 - 3][night...])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

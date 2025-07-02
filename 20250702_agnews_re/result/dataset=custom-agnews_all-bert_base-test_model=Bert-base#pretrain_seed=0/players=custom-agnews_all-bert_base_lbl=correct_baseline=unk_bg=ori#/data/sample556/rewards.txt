@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: baghdad,
+Player 1: iraq
+Player 2: -
+Player 3: bombs
+Player 4: exploded
+Player 5: near
+Player 6: u. s.
+Player 7: convoy
+Player 8: western
+Player 9: baghdad
+Player 10: thursday,
+Player 11: killing
+Player 12: 35
+Player 13: children
+Player 14: seven
+Player 15: adults,
+Player 16: hospital
+Player 17: official
+Player 18: said...
+---------- Rewards ----------
+v(): -4.708698272705078	 ([])
+v(0 1 2 3 9 13 16): 7.776452541351318	 ([baghdad,][iraq][-][bombs][baghdad][children][hospital])
+v(5 6 7 14 18): 3.026524305343628	 ([near][u. s.][convoy][seven][said...])
+v(4 8 10 11 12 15 17): 6.169775485992432	 ([exploded][western][thursday,][killing][35][adults,][official])
+v(0 1 2 3 5 6 7 9 13 14 16 18): 7.923949241638184	 ([baghdad,][iraq][-][bombs][near][u. s.][convoy][baghdad][children][seven][hospital][said...])
+v(0 1 2 3 4 8 9 10 11 12 13 15 16 17): 7.4783735275268555	 ([baghdad,][iraq][-][bombs][exploded][western][baghdad][thursday,][killing][35][children][adults,][hospital][official])
+v(4 5 6 7 8 10 11 12 14 15 17 18): 7.428935527801514	 ([exploded][near][u. s.][convoy][western][thursday,][killing][35][seven][adults,][official][said...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.618879795074463	 ([baghdad,][iraq][-][bombs][exploded][near][u. s.][convoy][western][baghdad][thursday,][killing][35][children][seven][adults,][hospital][official][said...])
+---------- Rewards-v() ----------
+v(0 1 2 3 5 6 7 9 13 14 16 18): 12.632647514343262, EP: 1.0247468948364258	 ([baghdad,][iraq][-][bombs][near][u. s.][convoy][baghdad][children][seven][hospital][said...])
+v(0 1 2 3 9 13 16): 12.485151290893555, EP: 1.0127822160720825	 ([baghdad,][iraq][-][bombs][baghdad][children][hospital])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 12.327577590942383, EP: 1.0	 ([baghdad,][iraq][-][bombs][exploded][near][u. s.][convoy][western][baghdad][thursday,][killing][35][children][seven][adults,][hospital][official][said...])
+v(0 1 2 3 4 8 9 10 11 12 13 15 16 17): 12.187071800231934, EP: 0.988602340221405	 ([baghdad,][iraq][-][bombs][exploded][western][baghdad][thursday,][killing][35][children][adults,][hospital][official])
+v(4 5 6 7 8 10 11 12 14 15 17 18): 12.13763427734375, EP: 0.9845920205116272	 ([exploded][near][u. s.][convoy][western][thursday,][killing][35][seven][adults,][official][said...])
+v(4 8 10 11 12 15 17): 10.878473281860352, EP: 0.8824502229690552	 ([exploded][western][thursday,][killing][35][adults,][official])
+v(5 6 7 14 18): 7.735222816467285, EP: 0.6274730563163757	 ([near][u. s.][convoy][seven][said...])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

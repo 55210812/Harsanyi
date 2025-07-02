@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: urban
+Player 3: meyer
+Player 4: paused
+Player 5: times
+Player 6: collect
+Player 7: himself.
+Player 8: saying
+Player 9: goodbye
+Player 10: hard
+Player 11: enough.
+Player 12: 12 - 0
+Player 13: season
+Player 14: almost
+Player 15: much.
+Player 16: fifth - ranked
+Player 17: utes
+Player 18: sent
+Player 19: meyer
+Player 20: new
+Player 21: job
+Player 22: florida
+Player 23: one
+Player 24: last
+Player 25: nearly
+Player 26: perfect
+Player 27: performance,
+Player 28: beating
+Player 29: pittsburgh
+Player 30: 35 - 7
+Player 31: saturday
+Player 32: night
+Player 33: fiesta
+Player 34: bowl.
+---------- Rewards ----------
+v(): -1.2695181369781494	 ([])
+v(5 12 13 14 16 19 25 26 27 31): 0.24641811847686768	 ([times][12 - 0][season][almost][fifth - ranked][meyer][nearly][perfect][performance,][saturday])
+v(2 6 7 8 9 15 17 18 20 21 22 24 32): 2.488957405090332	 ([urban][collect][himself.][saying][goodbye][much.][utes][sent][new][job][florida][last][night])
+v(0 1 3 4 10 11 23 28 29 30 33 34): 9.485368728637695	 ([ap][-][meyer][paused][hard][enough.][one][beating][pittsburgh][35 - 7][fiesta][bowl.])
+v(2 5 6 7 8 9 12 13 14 15 16 17 18 19 20 21 22 24 25 26 27 31 32): 9.535029411315918	 ([urban][times][collect][himself.][saying][goodbye][12 - 0][season][almost][much.][fifth - ranked][utes][sent][meyer][new][job][florida][last][nearly][perfect][performance,][saturday][night])
+v(0 1 3 4 5 10 11 12 13 14 16 19 23 25 26 27 28 29 30 31 33 34): 9.685546875	 ([ap][-][meyer][paused][times][hard][enough.][12 - 0][season][almost][fifth - ranked][meyer][one][nearly][perfect][performance,][beating][pittsburgh][35 - 7][saturday][fiesta][bowl.])
+v(0 1 2 3 4 6 7 8 9 10 11 15 17 18 20 21 22 23 24 28 29 30 32 33 34): 9.712506294250488	 ([ap][-][urban][meyer][paused][collect][himself.][saying][goodbye][hard][enough.][much.][utes][sent][new][job][florida][one][last][beating][pittsburgh][35 - 7][night][fiesta][bowl.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34): 9.23847770690918	 ([ap][-][urban][meyer][paused][times][collect][himself.][saying][goodbye][hard][enough.][12 - 0][season][almost][much.][fifth - ranked][utes][sent][meyer][new][job][florida][one][last][nearly][perfect][performance,][beating][pittsburgh][35 - 7][saturday][night][fiesta][bowl.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 6 7 8 9 10 11 15 17 18 20 21 22 23 24 28 29 30 32 33 34): 10.982024192810059, EP: 1.0451111793518066	 ([ap][-][urban][meyer][paused][collect][himself.][saying][goodbye][hard][enough.][much.][utes][sent][new][job][florida][one][last][beating][pittsburgh][35 - 7][night][fiesta][bowl.])
+v(0 1 3 4 5 10 11 12 13 14 16 19 23 25 26 27 28 29 30 31 33 34): 10.95506477355957, EP: 1.0425456762313843	 ([ap][-][meyer][paused][times][hard][enough.][12 - 0][season][almost][fifth - ranked][meyer][one][nearly][perfect][performance,][beating][pittsburgh][35 - 7][saturday][fiesta][bowl.])
+v(2 5 6 7 8 9 12 13 14 15 16 17 18 19 20 21 22 24 25 26 27 31 32): 10.804547309875488, EP: 1.0282214879989624	 ([urban][times][collect][himself.][saying][goodbye][12 - 0][season][almost][much.][fifth - ranked][utes][sent][meyer][new][job][florida][last][nearly][perfect][performance,][saturday][night])
+v(0 1 3 4 10 11 23 28 29 30 33 34): 10.754886627197266, EP: 1.0234955549240112	 ([ap][-][meyer][paused][hard][enough.][one][beating][pittsburgh][35 - 7][fiesta][bowl.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34): 10.50799560546875, EP: 1.0	 ([ap][-][urban][meyer][paused][times][collect][himself.][saying][goodbye][hard][enough.][12 - 0][season][almost][much.][fifth - ranked][utes][sent][meyer][new][job][florida][one][last][nearly][perfect][performance,][beating][pittsburgh][35 - 7][saturday][night][fiesta][bowl.])
+v(2 6 7 8 9 15 17 18 20 21 22 24 32): 3.7584755420684814, EP: 0.357677698135376	 ([urban][collect][himself.][saying][goodbye][much.][utes][sent][new][job][florida][last][night])
+v(5 12 13 14 16 19 25 26 27 31): 1.515936255455017, EP: 0.14426502585411072	 ([times][12 - 0][season][almost][fifth - ranked][meyer][nearly][perfect][performance,][saturday])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

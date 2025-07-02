@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: auburn
+Player 1: football
+Player 2: team
+Player 3: crept
+Player 4: closer
+Player 5: oklahoma
+Player 6: coveted
+Player 7: second
+Player 8: spot
+Player 9: latest
+Player 10: bowl
+Player 11: championship
+Player 12: series
+Player 13: rankings,
+Player 14: released
+Player 15: monday.
+---------- Rewards ----------
+v(): -2.687940835952759	 ([])
+v(1 2 11 13 14): 5.806949138641357	 ([football][team][championship][rankings,][released])
+v(3 5 15): 2.1057028770446777	 ([crept][oklahoma][monday.])
+v(0 4 6 7 8 9 10 12): 9.453781127929688	 ([auburn][closer][coveted][second][spot][latest][bowl][series])
+v(1 2 3 5 11 13 14 15): 8.913527488708496	 ([football][team][crept][oklahoma][championship][rankings,][released][monday.])
+v(0 1 2 4 6 7 8 9 10 11 12 13 14): 9.297761917114258	 ([auburn][football][team][closer][coveted][second][spot][latest][bowl][championship][series][rankings,][released])
+v(0 3 4 5 6 7 8 9 10 12 15): 9.53303050994873	 ([auburn][crept][closer][oklahoma][coveted][second][spot][latest][bowl][series][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 8.470420837402344	 ([auburn][football][team][crept][closer][oklahoma][coveted][second][spot][latest][bowl][championship][series][rankings,][released][monday.])
+---------- Rewards-v() ----------
+v(0 3 4 5 6 7 8 9 10 12 15): 12.22097110748291, EP: 1.0952298641204834	 ([auburn][crept][closer][oklahoma][coveted][second][spot][latest][bowl][series][monday.])
+v(0 4 6 7 8 9 10 12): 12.141721725463867, EP: 1.088127613067627	 ([auburn][closer][coveted][second][spot][latest][bowl][series])
+v(0 1 2 4 6 7 8 9 10 11 12 13 14): 11.985702514648438, EP: 1.0741454362869263	 ([auburn][football][team][closer][coveted][second][spot][latest][bowl][championship][series][rankings,][released])
+v(1 2 3 5 11 13 14 15): 11.601468086242676, EP: 1.0397107601165771	 ([football][team][crept][oklahoma][championship][rankings,][released][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 11.158361434936523, EP: 1.0	 ([auburn][football][team][crept][closer][oklahoma][coveted][second][spot][latest][bowl][championship][series][rankings,][released][monday.])
+v(1 2 11 13 14): 8.494890213012695, EP: 0.761302649974823	 ([football][team][championship][rankings,][released])
+v(3 5 15): 4.793643951416016, EP: 0.4296010732650757	 ([crept][oklahoma][monday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

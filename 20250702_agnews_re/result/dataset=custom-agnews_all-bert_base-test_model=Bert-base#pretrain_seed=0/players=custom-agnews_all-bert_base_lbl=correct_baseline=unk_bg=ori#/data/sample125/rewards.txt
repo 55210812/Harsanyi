@@ -1,0 +1,46 @@
+---------- Players ----------
+Player 0: germany's
+Player 1: sap,
+Player 2: world's
+Player 3: largest
+Player 4: maker
+Player 5: business - management
+Player 6: software,
+Player 7: reported
+Player 8: thursday
+Player 9: third - quarter
+Player 10: rise
+Player 11: revenue
+Player 12: net
+Player 13: income,
+Player 14: boosted
+Player 15: strong
+Player 16: sales
+Player 17: europe,
+Player 18: middle
+Player 19: east
+Player 20: africa
+Player 21: ( emea )
+Player 22: region
+Player 23: continued
+Player 24: growth
+Player 25: u. s.
+---------- Rewards ----------
+v(): 3.5729594230651855	 ([])
+v(0 5 6 8 11 13 17 24): -0.5531280040740967	 ([germany's][business - management][software,][thursday][revenue][income,][europe,][growth])
+v(1 7 9 10 12 14 15 16 18 19 21 22 23 25): -7.436408519744873	 ([sap,][reported][third - quarter][rise][net][boosted][strong][sales][middle][east][( emea )][region][continued][u. s.])
+v(2 3 4 20): 2.229661703109741	 ([world's][largest][maker][africa])
+v(0 1 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 22 23 24 25): 4.570969104766846	 ([germany's][sap,][business - management][software,][reported][thursday][third - quarter][rise][revenue][net][income,][boosted][strong][sales][europe,][middle][east][( emea )][region][continued][growth][u. s.])
+v(0 2 3 4 5 6 8 11 13 17 20 24): -4.229036808013916	 ([germany's][world's][largest][maker][business - management][software,][thursday][revenue][income,][europe,][africa][growth])
+v(1 2 3 4 7 9 10 12 14 15 16 18 19 20 21 22 23 25): -5.919858932495117	 ([sap,][world's][largest][maker][reported][third - quarter][rise][net][boosted][strong][sales][middle][east][africa][( emea )][region][continued][u. s.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 4.683427333831787	 ([germany's][sap,][world's][largest][maker][business - management][software,][reported][thursday][third - quarter][rise][revenue][net][income,][boosted][strong][sales][europe,][middle][east][africa][( emea )][region][continued][growth][u. s.])
+---------- Rewards-v() ----------
+v(1 7 9 10 12 14 15 16 18 19 21 22 23 25): -11.009367942810059, EP: -9.914170265197754	 ([sap,][reported][third - quarter][rise][net][boosted][strong][sales][middle][east][( emea )][region][continued][u. s.])
+v(1 2 3 4 7 9 10 12 14 15 16 18 19 20 21 22 23 25): -9.492818832397461, EP: -8.54848575592041	 ([sap,][world's][largest][maker][reported][third - quarter][rise][net][boosted][strong][sales][middle][east][africa][( emea )][region][continued][u. s.])
+v(0 2 3 4 5 6 8 11 13 17 20 24): -7.801996231079102, EP: -7.0258636474609375	 ([germany's][world's][largest][maker][business - management][software,][thursday][revenue][income,][europe,][africa][growth])
+v(0 5 6 8 11 13 17 24): -4.126087188720703, EP: -3.7156293392181396	 ([germany's][business - management][software,][thursday][revenue][income,][europe,][growth])
+v(2 3 4 20): -1.3432977199554443, EP: -1.2096681594848633	 ([world's][largest][maker][africa])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 1.1104679107666016, EP: 1.0	 ([germany's][sap,][world's][largest][maker][business - management][software,][reported][thursday][third - quarter][rise][revenue][net][income,][boosted][strong][sales][europe,][middle][east][africa][( emea )][region][continued][growth][u. s.])
+v(0 1 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 22 23 24 25): 0.9980096817016602, EP: 0.8987289667129517	 ([germany's][sap,][business - management][software,][reported][thursday][third - quarter][rise][revenue][net][income,][boosted][strong][sales][europe,][middle][east][( emea )][region][continued][growth][u. s.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

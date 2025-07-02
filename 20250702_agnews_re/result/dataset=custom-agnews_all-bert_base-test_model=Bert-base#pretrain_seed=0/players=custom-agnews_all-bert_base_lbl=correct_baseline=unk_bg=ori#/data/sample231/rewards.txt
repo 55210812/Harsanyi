@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: years
+Player 1: debate
+Player 2: among
+Player 3: political
+Player 4: economic
+Player 5: leaders
+Player 6: here,
+Player 7: russian
+Player 8: cabinet
+Player 9: thursday
+Player 10: endorsed
+Player 11: 1997
+Player 12: kyoto
+Player 13: accord
+Player 14: global
+Player 15: climate
+Player 16: change.
+---------- Rewards ----------
+v(): -7.272127151489258	 ([])
+v(3 4 5 9 10 15): 6.1761956214904785	 ([political][economic][leaders][thursday][endorsed][climate])
+v(7 8): -1.863663673400879	 ([russian][cabinet])
+v(0 1 2 6 11 12 13 14 16): -0.4374363422393799	 ([years][debate][among][here,][1997][kyoto][accord][global][change.])
+v(3 4 5 7 8 9 10 15): 6.274441242218018	 ([political][economic][leaders][russian][cabinet][thursday][endorsed][climate])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 15 16): 3.9793598651885986	 ([years][debate][among][political][economic][leaders][here,][thursday][endorsed][1997][kyoto][accord][global][climate][change.])
+v(0 1 2 6 7 8 11 12 13 14 16): -1.4288657903671265	 ([years][debate][among][here,][russian][cabinet][1997][kyoto][accord][global][change.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 4.156296730041504	 ([years][debate][among][political][economic][leaders][here,][russian][cabinet][thursday][endorsed][1997][kyoto][accord][global][climate][change.])
+---------- Rewards-v() ----------
+v(3 4 5 7 8 9 10 15): 13.546567916870117, EP: 1.1853400468826294	 ([political][economic][leaders][russian][cabinet][thursday][endorsed][climate])
+v(3 4 5 9 10 15): 13.448322296142578, EP: 1.1767433881759644	 ([political][economic][leaders][thursday][endorsed][climate])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 11.428423881530762, EP: 1.0	 ([years][debate][among][political][economic][leaders][here,][russian][cabinet][thursday][endorsed][1997][kyoto][accord][global][climate][change.])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 15 16): 11.251486778259277, EP: 0.9845178127288818	 ([years][debate][among][political][economic][leaders][here,][thursday][endorsed][1997][kyoto][accord][global][climate][change.])
+v(0 1 2 6 11 12 13 14 16): 6.834691047668457, EP: 0.5980432033538818	 ([years][debate][among][here,][1997][kyoto][accord][global][change.])
+v(0 1 2 6 7 8 11 12 13 14 16): 5.843261241912842, EP: 0.5112919807434082	 ([years][debate][among][here,][russian][cabinet][1997][kyoto][accord][global][change.])
+v(7 8): 5.408463478088379, EP: 0.47324666380882263	 ([russian][cabinet])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: british
+Player 1: sailors
+Player 2: simon
+Player 3: hiscocks
+Player 4: chris
+Player 5: draper
+Player 6: forced
+Player 7: settle
+Player 8: bronze
+Player 9: 49er
+Player 10: class.
+Player 11: pair
+Player 12: guaranteed
+Player 13: medal
+Player 14: 16th
+Player 15: race
+Player 16: started
+Player 17: day
+Player 18: two
+Player 19: points
+Player 20: behind
+---------- Rewards ----------
+v(): -5.434005260467529	 ([])
+v(4 5 7 11 16): 4.323004722595215	 ([chris][draper][settle][pair][started])
+v(0 1 2 3 6 9 12 13 14 15 17 18 19 20): 7.800041675567627	 ([british][sailors][simon][hiscocks][forced][49er][guaranteed][medal][16th][race][day][two][points][behind])
+v(8 10): -1.2474234104156494	 ([bronze][class.])
+v(0 1 2 3 4 5 6 7 9 11 12 13 14 15 16 17 18 19 20): 8.663507461547852	 ([british][sailors][simon][hiscocks][chris][draper][forced][settle][49er][pair][guaranteed][medal][16th][race][started][day][two][points][behind])
+v(4 5 7 8 10 11 16): 5.751840591430664	 ([chris][draper][settle][bronze][class.][pair][started])
+v(0 1 2 3 6 8 9 10 12 13 14 15 17 18 19 20): 8.230169296264648	 ([british][sailors][simon][hiscocks][forced][bronze][49er][class.][guaranteed][medal][16th][race][day][two][points][behind])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.422680854797363	 ([british][sailors][simon][hiscocks][chris][draper][forced][settle][bronze][49er][class.][pair][guaranteed][medal][16th][race][started][day][two][points][behind])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 9 11 12 13 14 15 16 17 18 19 20): 14.097513198852539, EP: 1.017379879951477	 ([british][sailors][simon][hiscocks][chris][draper][forced][settle][49er][pair][guaranteed][medal][16th][race][started][day][two][points][behind])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.856685638427734, EP: 1.0	 ([british][sailors][simon][hiscocks][chris][draper][forced][settle][bronze][49er][class.][pair][guaranteed][medal][16th][race][started][day][two][points][behind])
+v(0 1 2 3 6 8 9 10 12 13 14 15 17 18 19 20): 13.664175033569336, EP: 0.9861070513725281	 ([british][sailors][simon][hiscocks][forced][bronze][49er][class.][guaranteed][medal][16th][race][day][two][points][behind])
+v(0 1 2 3 6 9 12 13 14 15 17 18 19 20): 13.234046936035156, EP: 0.9550658464431763	 ([british][sailors][simon][hiscocks][forced][49er][guaranteed][medal][16th][race][day][two][points][behind])
+v(4 5 7 8 10 11 16): 11.185846328735352, EP: 0.8072526454925537	 ([chris][draper][settle][bronze][class.][pair][started])
+v(4 5 7 11 16): 9.757009506225586, EP: 0.7041373252868652	 ([chris][draper][settle][pair][started])
+v(8 10): 4.186581611633301, EP: 0.3021344244480133	 ([bronze][class.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: shown
+Player 1: indomitable
+Player 2: spirit
+Player 3: winning
+Player 4: new
+Player 5: york
+Player 6: marathon
+Player 7: ten
+Player 8: days
+Player 9: ago,
+Player 10: 11
+Player 11: weeks
+Player 12: trauma
+Player 13: athens,
+Player 14: paula
+Player 15: radcliffe
+Player 16: yesterday
+Player 17: decided
+Player 18: turn
+Player 19: attention
+Player 20: scaling
+---------- Rewards ----------
+v(): -2.0634028911590576	 ([])
+v(4 12 13 14 15 16): 9.136134147644043	 ([new][trauma][athens,][paula][radcliffe][yesterday])
+v(0 1 2 3 5 6 7 8): 5.618463039398193	 ([shown][indomitable][spirit][winning][york][marathon][ten][days])
+v(9 10 11 17 18 19 20): -1.4380401372909546	 ([ago,][11][weeks][decided][turn][attention][scaling])
+v(0 1 2 3 4 5 6 7 8 12 13 14 15 16): 8.398691177368164	 ([shown][indomitable][spirit][winning][new][york][marathon][ten][days][trauma][athens,][paula][radcliffe][yesterday])
+v(4 9 10 11 12 13 14 15 16 17 18 19 20): 9.135069847106934	 ([new][ago,][11][weeks][trauma][athens,][paula][radcliffe][yesterday][decided][turn][attention][scaling])
+v(0 1 2 3 5 6 7 8 9 10 11 17 18 19 20): 6.31011438369751	 ([shown][indomitable][spirit][winning][york][marathon][ten][days][ago,][11][weeks][decided][turn][attention][scaling])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.926963806152344	 ([shown][indomitable][spirit][winning][new][york][marathon][ten][days][ago,][11][weeks][trauma][athens,][paula][radcliffe][yesterday][decided][turn][attention][scaling])
+---------- Rewards-v() ----------
+v(4 12 13 14 15 16): 11.19953727722168, EP: 1.0190321207046509	 ([new][trauma][athens,][paula][radcliffe][yesterday])
+v(4 9 10 11 12 13 14 15 16 17 18 19 20): 11.19847297668457, EP: 1.0189353227615356	 ([new][ago,][11][weeks][trauma][athens,][paula][radcliffe][yesterday][decided][turn][attention][scaling])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 10.99036693572998, EP: 1.0	 ([shown][indomitable][spirit][winning][new][york][marathon][ten][days][ago,][11][weeks][trauma][athens,][paula][radcliffe][yesterday][decided][turn][attention][scaling])
+v(0 1 2 3 4 5 6 7 8 12 13 14 15 16): 10.4620943069458, EP: 0.9519331455230713	 ([shown][indomitable][spirit][winning][new][york][marathon][ten][days][trauma][athens,][paula][radcliffe][yesterday])
+v(0 1 2 3 5 6 7 8 9 10 11 17 18 19 20): 8.373517036437988, EP: 0.761896014213562	 ([shown][indomitable][spirit][winning][york][marathon][ten][days][ago,][11][weeks][decided][turn][attention][scaling])
+v(0 1 2 3 5 6 7 8): 7.681865692138672, EP: 0.6989635229110718	 ([shown][indomitable][spirit][winning][york][marathon][ten][days])
+v(9 10 11 17 18 19 20): 0.625362753868103, EP: 0.0569009892642498	 ([ago,][11][weeks][decided][turn][attention][scaling])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

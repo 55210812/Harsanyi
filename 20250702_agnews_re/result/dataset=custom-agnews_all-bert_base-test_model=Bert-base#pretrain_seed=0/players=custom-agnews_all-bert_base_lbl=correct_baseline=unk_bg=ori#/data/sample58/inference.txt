@@ -1,0 +1,45 @@
+Execution time: 2025-07-02 19:18:52
+prompt: [CLS] nokia, the world # 39 ; s largest mobile phone maker, took legal action earlier this week against two european manufacturers for allegedly infringing on technology patents and registered designs. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:22098 decoded_text: nokia
+idx:2 input_id:1010 decoded_text: ,
+idx:3 input_id:1996 decoded_text: the
+idx:4 input_id:2088 decoded_text: world
+idx:5 input_id:1001 decoded_text: #
+idx:6 input_id:4464 decoded_text: 39
+idx:7 input_id:1025 decoded_text: ;
+idx:8 input_id:1055 decoded_text: s
+idx:9 input_id:2922 decoded_text: largest
+idx:10 input_id:4684 decoded_text: mobile
+idx:11 input_id:3042 decoded_text: phone
+idx:12 input_id:9338 decoded_text: maker
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:2165 decoded_text: took
+idx:15 input_id:3423 decoded_text: legal
+idx:16 input_id:2895 decoded_text: action
+idx:17 input_id:3041 decoded_text: earlier
+idx:18 input_id:2023 decoded_text: this
+idx:19 input_id:2733 decoded_text: week
+idx:20 input_id:2114 decoded_text: against
+idx:21 input_id:2048 decoded_text: two
+idx:22 input_id:2647 decoded_text: european
+idx:23 input_id:8712 decoded_text: manufacturers
+idx:24 input_id:2005 decoded_text: for
+idx:25 input_id:9382 decoded_text: allegedly
+idx:26 input_id:1999 decoded_text: in
+idx:27 input_id:19699 decoded_text: ##fr
+idx:28 input_id:23180 decoded_text: ##inging
+idx:29 input_id:2006 decoded_text: on
+idx:30 input_id:2974 decoded_text: technology
+idx:31 input_id:13979 decoded_text: patents
+idx:32 input_id:1998 decoded_text: and
+idx:33 input_id:5068 decoded_text: registered
+idx:34 input_id:5617 decoded_text: designs
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.449920654296875, -3.5717222690582275, 1.3999072313308716, 5.886889934539795]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

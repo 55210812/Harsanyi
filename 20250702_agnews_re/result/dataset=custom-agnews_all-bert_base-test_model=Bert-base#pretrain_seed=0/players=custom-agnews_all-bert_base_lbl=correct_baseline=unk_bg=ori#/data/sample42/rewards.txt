@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: speech
+Player 1: republican
+Player 2: convention,
+Player 3: president
+Player 4: bush
+Player 5: put
+Player 6: reform
+Player 7: tax
+Player 8: code
+Player 9: agenda
+Player 10: second
+Player 11: term,
+Player 12: saying
+Player 13: wants
+Player 14: quot ; a
+Player 15: simpler,
+Player 16: fairer,
+Player 17: pro - growth
+Player 18: system.
+---------- Rewards ----------
+v(): -3.1696248054504395	 ([])
+v(0 1 2 3 4 18): -7.025021553039551	 ([speech][republican][convention,][president][bush][system.])
+v(10 11 12): -4.289542198181152	 ([second][term,][saying])
+v(5 6 7 8 9 13 14 15 16 17): 6.17518424987793	 ([put][reform][tax][code][agenda][wants][quot ; a][simpler,][fairer,][pro - growth])
+v(0 1 2 3 4 10 11 12 18): -8.841273307800293	 ([speech][republican][convention,][president][bush][second][term,][saying][system.])
+v(0 1 2 3 4 5 6 7 8 9 13 14 15 16 17 18): 7.806515693664551	 ([speech][republican][convention,][president][bush][put][reform][tax][code][agenda][wants][quot ; a][simpler,][fairer,][pro - growth][system.])
+v(5 6 7 8 9 10 11 12 13 14 15 16 17): 5.093879699707031	 ([put][reform][tax][code][agenda][second][term,][saying][wants][quot ; a][simpler,][fairer,][pro - growth])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.771598815917969	 ([speech][republican][convention,][president][bush][put][reform][tax][code][agenda][second][term,][saying][wants][quot ; a][simpler,][fairer,][pro - growth][system.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 13 14 15 16 17 18): 10.976140975952148, EP: 1.003191351890564	 ([speech][republican][convention,][president][bush][put][reform][tax][code][agenda][wants][quot ; a][simpler,][fairer,][pro - growth][system.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 10.94122314453125, EP: 1.0	 ([speech][republican][convention,][president][bush][put][reform][tax][code][agenda][second][term,][saying][wants][quot ; a][simpler,][fairer,][pro - growth][system.])
+v(5 6 7 8 9 13 14 15 16 17): 9.344808578491211, EP: 0.8540917634963989	 ([put][reform][tax][code][agenda][wants][quot ; a][simpler,][fairer,][pro - growth])
+v(5 6 7 8 9 10 11 12 13 14 15 16 17): 8.263504028320312, EP: 0.7552632689476013	 ([put][reform][tax][code][agenda][second][term,][saying][wants][quot ; a][simpler,][fairer,][pro - growth])
+v(0 1 2 3 4 10 11 12 18): -5.6716485023498535, EP: -0.5183742642402649	 ([speech][republican][convention,][president][bush][second][term,][saying][system.])
+v(0 1 2 3 4 18): -3.8553967475891113, EP: -0.35237348079681396	 ([speech][republican][convention,][president][bush][system.])
+v(10 11 12): -1.119917392730713, EP: -0.10235760360956192	 ([second][term,][saying])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

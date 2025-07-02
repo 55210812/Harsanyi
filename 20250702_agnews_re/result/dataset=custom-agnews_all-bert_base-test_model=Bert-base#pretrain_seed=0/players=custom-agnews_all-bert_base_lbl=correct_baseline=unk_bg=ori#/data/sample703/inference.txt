@@ -1,0 +1,41 @@
+Execution time: 2025-07-02 19:34:35
+prompt: [CLS] microsoft started selling music tracks on its msn online service, taking on apple computer and a host of others in the fast - growing market for digital music. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:7513 decoded_text: microsoft
+idx:2 input_id:2318 decoded_text: started
+idx:3 input_id:4855 decoded_text: selling
+idx:4 input_id:2189 decoded_text: music
+idx:5 input_id:3162 decoded_text: tracks
+idx:6 input_id:2006 decoded_text: on
+idx:7 input_id:2049 decoded_text: its
+idx:8 input_id:5796 decoded_text: ms
+idx:9 input_id:2078 decoded_text: ##n
+idx:10 input_id:3784 decoded_text: online
+idx:11 input_id:2326 decoded_text: service
+idx:12 input_id:1010 decoded_text: ,
+idx:13 input_id:2635 decoded_text: taking
+idx:14 input_id:2006 decoded_text: on
+idx:15 input_id:6207 decoded_text: apple
+idx:16 input_id:3274 decoded_text: computer
+idx:17 input_id:1998 decoded_text: and
+idx:18 input_id:1037 decoded_text: a
+idx:19 input_id:3677 decoded_text: host
+idx:20 input_id:1997 decoded_text: of
+idx:21 input_id:2500 decoded_text: others
+idx:22 input_id:1999 decoded_text: in
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:3435 decoded_text: fast
+idx:25 input_id:1011 decoded_text: -
+idx:26 input_id:3652 decoded_text: growing
+idx:27 input_id:3006 decoded_text: market
+idx:28 input_id:2005 decoded_text: for
+idx:29 input_id:3617 decoded_text: digital
+idx:30 input_id:2189 decoded_text: music
+idx:31 input_id:1012 decoded_text: .
+idx:32 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-0.8359002470970154, -4.775468349456787, 0.6512370109558105, 4.147801399230957]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

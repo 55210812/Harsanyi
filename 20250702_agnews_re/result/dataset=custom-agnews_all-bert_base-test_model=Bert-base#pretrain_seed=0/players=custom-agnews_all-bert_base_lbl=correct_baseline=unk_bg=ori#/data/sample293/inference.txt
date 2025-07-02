@@ -1,0 +1,40 @@
+Execution time: 2025-07-02 19:24:32
+prompt: [CLS] the us is virtually defenceless against another scandal such as vioxx, senators investigating mercks withdrawal of its popular painkiller were told yesterday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2149 decoded_text: us
+idx:3 input_id:2003 decoded_text: is
+idx:4 input_id:8990 decoded_text: virtually
+idx:5 input_id:4721 decoded_text: defence
+idx:6 input_id:3238 decoded_text: ##less
+idx:7 input_id:2114 decoded_text: against
+idx:8 input_id:2178 decoded_text: another
+idx:9 input_id:9446 decoded_text: scandal
+idx:10 input_id:2107 decoded_text: such
+idx:11 input_id:2004 decoded_text: as
+idx:12 input_id:6819 decoded_text: vi
+idx:13 input_id:11636 decoded_text: ##ox
+idx:14 input_id:2595 decoded_text: ##x
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:10153 decoded_text: senators
+idx:17 input_id:11538 decoded_text: investigating
+idx:18 input_id:21442 decoded_text: mer
+idx:19 input_id:10603 decoded_text: ##cks
+idx:20 input_id:10534 decoded_text: withdrawal
+idx:21 input_id:1997 decoded_text: of
+idx:22 input_id:2049 decoded_text: its
+idx:23 input_id:2759 decoded_text: popular
+idx:24 input_id:3255 decoded_text: pain
+idx:25 input_id:15872 decoded_text: ##kill
+idx:26 input_id:2121 decoded_text: ##er
+idx:27 input_id:2020 decoded_text: were
+idx:28 input_id:2409 decoded_text: told
+idx:29 input_id:7483 decoded_text: yesterday
+idx:30 input_id:1012 decoded_text: .
+idx:31 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[0.24050728976726532, -3.490312337875366, 5.447837829589844, -3.8416898250579834]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

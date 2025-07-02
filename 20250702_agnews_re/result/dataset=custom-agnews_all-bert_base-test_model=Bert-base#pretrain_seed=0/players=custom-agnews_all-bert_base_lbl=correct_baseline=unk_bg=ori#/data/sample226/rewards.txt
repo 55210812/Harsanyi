@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: sydney
+Player 1: ( dow
+Player 2: jones ) - - as
+Player 3: australia
+Player 4: consigns
+Player 5: lengthy
+Player 6: federal
+Player 7: election
+Player 8: campaign
+Player 9: history,
+Player 10: outlook
+Player 11: interest
+Player 12: rates
+Player 13: returned
+Player 14: center
+Player 15: stage
+Player 16: monday
+Player 17: housing
+---------- Rewards ----------
+v(): -4.999494552612305	 ([])
+v(0 1 3 6 7 8): -6.372329235076904	 ([sydney][( dow][australia][federal][election][campaign])
+v(9 10 11 12 13 14 15): 6.435272216796875	 ([history,][outlook][interest][rates][returned][center][stage])
+v(2 4 5 16 17): 3.034503698348999	 ([jones ) - - as][consigns][lengthy][monday][housing])
+v(0 1 3 6 7 8 9 10 11 12 13 14 15): 3.346771717071533	 ([sydney][( dow][australia][federal][election][campaign][history,][outlook][interest][rates][returned][center][stage])
+v(0 1 2 3 4 5 6 7 8 16 17): 1.17372465133667	 ([sydney][( dow][jones ) - - as][australia][consigns][lengthy][federal][election][campaign][monday][housing])
+v(2 4 5 9 10 11 12 13 14 15 16 17): 8.090479850769043	 ([jones ) - - as][consigns][lengthy][history,][outlook][interest][rates][returned][center][stage][monday][housing])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 4.8076324462890625	 ([sydney][( dow][jones ) - - as][australia][consigns][lengthy][federal][election][campaign][history,][outlook][interest][rates][returned][center][stage][monday][housing])
+---------- Rewards-v() ----------
+v(2 4 5 9 10 11 12 13 14 15 16 17): 13.089974403381348, EP: 1.3347409963607788	 ([jones ) - - as][consigns][lengthy][history,][outlook][interest][rates][returned][center][stage][monday][housing])
+v(9 10 11 12 13 14 15): 11.43476676940918, EP: 1.165964961051941	 ([history,][outlook][interest][rates][returned][center][stage])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.807126998901367, EP: 1.0	 ([sydney][( dow][jones ) - - as][australia][consigns][lengthy][federal][election][campaign][history,][outlook][interest][rates][returned][center][stage][monday][housing])
+v(0 1 3 6 7 8 9 10 11 12 13 14 15): 8.34626579284668, EP: 0.8510408401489258	 ([sydney][( dow][australia][federal][election][campaign][history,][outlook][interest][rates][returned][center][stage])
+v(2 4 5 16 17): 8.033998489379883, EP: 0.8191999793052673	 ([jones ) - - as][consigns][lengthy][monday][housing])
+v(0 1 2 3 4 5 6 7 8 16 17): 6.173219203948975, EP: 0.6294625401496887	 ([sydney][( dow][jones ) - - as][australia][consigns][lengthy][federal][election][campaign][monday][housing])
+v(0 1 3 6 7 8): -1.3728346824645996, EP: -0.1399833709001541	 ([sydney][( dow][australia][federal][election][campaign])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

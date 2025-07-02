@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: philadelphia
+Player 1: - -
+Player 2: wali
+Player 3: lundy
+Player 4: ran
+Player 5: 104
+Player 6: yards
+Player 7: three
+Player 8: touchdowns,
+Player 9: alvin
+Player 10: pearman
+Player 11: returned
+Player 12: punt
+Player 13: 70
+Player 14: yards
+Player 15: score
+Player 16: lead
+Player 17: no.
+Player 18: 16
+Player 19: virginia
+Player 20: 44 - 14
+Player 21: win
+Player 22: temple
+Player 23: yesterday.
+---------- Rewards ----------
+v(): -1.3706940412521362	 ([])
+v(0 1 2 4 8 21 23): 9.633489608764648	 ([philadelphia][- -][wali][ran][touchdowns,][win][yesterday.])
+v(6 11 12 14 15 22): 3.581900119781494	 ([yards][returned][punt][yards][score][temple])
+v(3 5 7 9 10 13 16 17 18 19 20): 8.832268714904785	 ([lundy][104][three][alvin][pearman][70][lead][no.][16][virginia][44 - 14])
+v(0 1 2 4 6 8 11 12 14 15 21 22 23): 9.667217254638672	 ([philadelphia][- -][wali][ran][yards][touchdowns,][returned][punt][yards][score][win][temple][yesterday.])
+v(0 1 2 3 4 5 7 8 9 10 13 16 17 18 19 20 21 23): 9.796028137207031	 ([philadelphia][- -][wali][lundy][ran][104][three][touchdowns,][alvin][pearman][70][lead][no.][16][virginia][44 - 14][win][yesterday.])
+v(3 5 6 7 9 10 11 12 13 14 15 16 17 18 19 20 22): 8.79050350189209	 ([lundy][104][yards][three][alvin][pearman][returned][punt][70][yards][score][lead][no.][16][virginia][44 - 14][temple])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 9.699361801147461	 ([philadelphia][- -][wali][lundy][ran][104][yards][three][touchdowns,][alvin][pearman][returned][punt][70][yards][score][lead][no.][16][virginia][44 - 14][win][temple][yesterday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 7 8 9 10 13 16 17 18 19 20 21 23): 11.166722297668457, EP: 1.0087321996688843	 ([philadelphia][- -][wali][lundy][ran][104][three][touchdowns,][alvin][pearman][70][lead][no.][16][virginia][44 - 14][win][yesterday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 11.070055961608887, EP: 1.0	 ([philadelphia][- -][wali][lundy][ran][104][yards][three][touchdowns,][alvin][pearman][returned][punt][70][yards][score][lead][no.][16][virginia][44 - 14][win][temple][yesterday.])
+v(0 1 2 4 6 8 11 12 14 15 21 22 23): 11.037911415100098, EP: 0.9970962405204773	 ([philadelphia][- -][wali][ran][yards][touchdowns,][returned][punt][yards][score][win][temple][yesterday.])
+v(0 1 2 4 8 21 23): 11.004183769226074, EP: 0.9940494894981384	 ([philadelphia][- -][wali][ran][touchdowns,][win][yesterday.])
+v(3 5 7 9 10 13 16 17 18 19 20): 10.202962875366211, EP: 0.9216722249984741	 ([lundy][104][three][alvin][pearman][70][lead][no.][16][virginia][44 - 14])
+v(3 5 6 7 9 10 11 12 13 14 15 16 17 18 19 20 22): 10.161197662353516, EP: 0.9178993701934814	 ([lundy][104][yards][three][alvin][pearman][returned][punt][70][yards][score][lead][no.][16][virginia][44 - 14][temple])
+v(6 11 12 14 15 22): 4.95259428024292, EP: 0.44738656282424927	 ([yards][returned][punt][yards][score][temple])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: india
+Player 1: resume
+Player 2: fifth
+Player 3: final
+Player 4: day
+Player 5: second
+Player 6: test
+Player 7: australia
+Player 8: chennai
+Player 9: score
+Player 10: 19
+Player 11: loss.
+Player 12: hosts
+Player 13: need
+Player 14: another
+Player 15: 210
+Player 16: runs
+Player 17: win
+Player 18: test
+Player 19: square
+Player 20: four - match
+Player 21: series
+Player 22: 1 - 1.
+---------- Rewards ----------
+v(): -4.64718770980835	 ([])
+v(7 9 17 18 20 21): 7.774104595184326	 ([australia][score][win][test][four - match][series])
+v(0 1 2 3 4 5 6 8 19): 9.410552978515625	 ([india][resume][fifth][final][day][second][test][chennai][square])
+v(10 11 12 13 14 15 16 22): 7.811133861541748	 ([19][loss.][hosts][need][another][210][runs][1 - 1.])
+v(0 1 2 3 4 5 6 7 8 9 17 18 19 20 21): 8.742620468139648	 ([india][resume][fifth][final][day][second][test][australia][chennai][score][win][test][square][four - match][series])
+v(7 9 10 11 12 13 14 15 16 17 18 20 21 22): 9.559770584106445	 ([australia][score][19][loss.][hosts][need][another][210][runs][win][test][four - match][series][1 - 1.])
+v(0 1 2 3 4 5 6 8 10 11 12 13 14 15 16 19 22): 9.53005599975586	 ([india][resume][fifth][final][day][second][test][chennai][19][loss.][hosts][need][another][210][runs][square][1 - 1.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 9.563203811645508	 ([india][resume][fifth][final][day][second][test][australia][chennai][score][19][loss.][hosts][need][another][210][runs][win][test][square][four - match][series][1 - 1.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.210391998291016, EP: 1.0	 ([india][resume][fifth][final][day][second][test][australia][chennai][score][19][loss.][hosts][need][another][210][runs][win][test][square][four - match][series][1 - 1.])
+v(7 9 10 11 12 13 14 15 16 17 18 20 21 22): 14.206958770751953, EP: 0.9997584223747253	 ([australia][score][19][loss.][hosts][need][another][210][runs][win][test][four - match][series][1 - 1.])
+v(0 1 2 3 4 5 6 8 10 11 12 13 14 15 16 19 22): 14.177244186401367, EP: 0.9976673722267151	 ([india][resume][fifth][final][day][second][test][chennai][19][loss.][hosts][need][another][210][runs][square][1 - 1.])
+v(0 1 2 3 4 5 6 8 19): 14.057741165161133, EP: 0.9892578125	 ([india][resume][fifth][final][day][second][test][chennai][square])
+v(0 1 2 3 4 5 6 7 8 9 17 18 19 20 21): 13.389808654785156, EP: 0.9422547221183777	 ([india][resume][fifth][final][day][second][test][australia][chennai][score][win][test][square][four - match][series])
+v(10 11 12 13 14 15 16 22): 12.458321571350098, EP: 0.8767049908638	 ([19][loss.][hosts][need][another][210][runs][1 - 1.])
+v(7 9 17 18 20 21): 12.421292304992676, EP: 0.8740991950035095	 ([australia][score][win][test][four - match][series])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

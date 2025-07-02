@@ -1,0 +1,35 @@
+Execution time: 2025-07-02 19:41:57
+prompt: [CLS] the oil producing opec cartel monday began reducing its oil output to maintain prices around current levels, the wall street journal reported. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:3514 decoded_text: oil
+idx:3 input_id:5155 decoded_text: producing
+idx:4 input_id:6728 decoded_text: op
+idx:5 input_id:8586 decoded_text: ##ec
+idx:6 input_id:21680 decoded_text: cartel
+idx:7 input_id:6928 decoded_text: monday
+idx:8 input_id:2211 decoded_text: began
+idx:9 input_id:8161 decoded_text: reducing
+idx:10 input_id:2049 decoded_text: its
+idx:11 input_id:3514 decoded_text: oil
+idx:12 input_id:6434 decoded_text: output
+idx:13 input_id:2000 decoded_text: to
+idx:14 input_id:5441 decoded_text: maintain
+idx:15 input_id:7597 decoded_text: prices
+idx:16 input_id:2105 decoded_text: around
+idx:17 input_id:2783 decoded_text: current
+idx:18 input_id:3798 decoded_text: levels
+idx:19 input_id:1010 decoded_text: ,
+idx:20 input_id:1996 decoded_text: the
+idx:21 input_id:2813 decoded_text: wall
+idx:22 input_id:2395 decoded_text: street
+idx:23 input_id:3485 decoded_text: journal
+idx:24 input_id:2988 decoded_text: reported
+idx:25 input_id:1012 decoded_text: .
+idx:26 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[2.5422089099884033, -4.3083343505859375, 4.269912242889404, -3.8634631633758545]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

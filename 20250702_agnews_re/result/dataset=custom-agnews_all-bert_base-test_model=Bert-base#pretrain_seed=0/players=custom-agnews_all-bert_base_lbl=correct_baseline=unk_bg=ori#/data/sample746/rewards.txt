@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: mexico
+Player 1: # 39 ; s
+Player 2: cemex,
+Player 3: one
+Player 4: world
+Player 5: # 39 ; s
+Player 6: largest
+Player 7: makers
+Player 8: concrete
+Player 9: pay
+Player 10: \ $ 4. 1
+Player 11: billion
+Player 12: british
+Player 13: rival
+Player 14: rmc
+Player 15: group,
+Player 16: wall
+Player 17: street
+Player 18: journal
+Player 19: reported
+Player 20: monday.
+---------- Rewards ----------
+v(): -1.499654769897461	 ([])
+v(0 9 10 11 17 18 19 20): 5.859945297241211	 ([mexico][pay][\ $ 4. 1][billion][street][journal][reported][monday.])
+v(2 6 7 8 14 15): 7.691066741943359	 ([cemex,][largest][makers][concrete][rmc][group,])
+v(1 3 4 5 12 13 16): -3.8415367603302	 ([# 39 ; s][one][world][# 39 ; s][british][rival][wall])
+v(0 2 6 7 8 9 10 11 14 15 17 18 19 20): 6.195254802703857	 ([mexico][cemex,][largest][makers][concrete][pay][\ $ 4. 1][billion][rmc][group,][street][journal][reported][monday.])
+v(0 1 3 4 5 9 10 11 12 13 16 17 18 19 20): 5.710015296936035	 ([mexico][# 39 ; s][one][world][# 39 ; s][pay][\ $ 4. 1][billion][british][rival][wall][street][journal][reported][monday.])
+v(1 2 3 4 5 6 7 8 12 13 14 15 16): 6.814447402954102	 ([# 39 ; s][cemex,][one][world][# 39 ; s][largest][makers][concrete][british][rival][rmc][group,][wall])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.128937244415283	 ([mexico][# 39 ; s][cemex,][one][world][# 39 ; s][largest][makers][concrete][pay][\ $ 4. 1][billion][british][rival][rmc][group,][wall][street][journal][reported][monday.])
+---------- Rewards-v() ----------
+v(2 6 7 8 14 15): 9.19072151184082, EP: 1.0651473999023438	 ([cemex,][largest][makers][concrete][rmc][group,])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.628591537475586, EP: 1.0	 ([mexico][# 39 ; s][cemex,][one][world][# 39 ; s][largest][makers][concrete][pay][\ $ 4. 1][billion][british][rival][rmc][group,][wall][street][journal][reported][monday.])
+v(1 2 3 4 5 6 7 8 12 13 14 15 16): 8.314102172851562, EP: 0.9635526537895203	 ([# 39 ; s][cemex,][one][world][# 39 ; s][largest][makers][concrete][british][rival][rmc][group,][wall])
+v(0 2 6 7 8 9 10 11 14 15 17 18 19 20): 7.694909572601318, EP: 0.8917920589447021	 ([mexico][cemex,][largest][makers][concrete][pay][\ $ 4. 1][billion][rmc][group,][street][journal][reported][monday.])
+v(0 9 10 11 17 18 19 20): 7.359600067138672, EP: 0.852931797504425	 ([mexico][pay][\ $ 4. 1][billion][street][journal][reported][monday.])
+v(0 1 3 4 5 9 10 11 12 13 16 17 18 19 20): 7.209670066833496, EP: 0.8355558514595032	 ([mexico][# 39 ; s][one][world][# 39 ; s][pay][\ $ 4. 1][billion][british][rival][wall][street][journal][reported][monday.])
+v(1 3 4 5 12 13 16): -2.3418819904327393, EP: -0.2714095413684845	 ([# 39 ; s][one][world][# 39 ; s][british][rival][wall])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

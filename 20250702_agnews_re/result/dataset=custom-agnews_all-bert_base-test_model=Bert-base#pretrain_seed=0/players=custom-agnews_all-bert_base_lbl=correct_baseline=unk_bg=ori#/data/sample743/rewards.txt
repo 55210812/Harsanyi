@@ -1,0 +1,110 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: walking
+Player 3: barry
+Player 4: bonds
+Player 5: intentionally
+Player 6: load
+Player 7: bases
+Player 8: 10th
+Player 9: inning
+Player 10: turned
+Player 11: wrong
+Player 12: move
+Player 13: florida
+Player 14: # 151 ;
+Player 15: rudy
+Player 16: seanez
+Player 17: walked
+Player 18: pinch - hitter
+Player 19: a. j.
+Player 20: pierzynski
+Player 21: four
+Player 22: pitches.
+Player 23: pierzynski's
+Player 24: walk
+Player 25: forced
+Player 26: home
+Player 27: tiebreaking
+Player 28: run
+Player 29: san
+Player 30: francisco
+Player 31: giants '
+Player 32: 6 - 5
+Player 33: win
+Player 34: marlins
+Player 35: wednesday
+Player 36: night.
+Player 37: 14th
+Player 38: walk
+Player 39: 397
+Player 40: plate
+Player 41: appearances.
+---------- Rewards ----------
+v(): -4.195767879486084	 ([])
+v(1 3 4 5): 6.70719051361084	 ([-][barry][bonds][intentionally])
+v(19 30 31 32 33 39 41): 8.63198184967041	 ([a. j.][francisco][giants '][6 - 5][win][397][appearances.])
+v(8 9 10 13 14 15 16 18 20 23 37): 8.858647346496582	 ([10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][pierzynski][pierzynski's][14th])
+v(0 6 7 21 22): -2.5137035846710205	 ([ap][load][bases][four][pitches.])
+v(2 11 12 17 24 25 26 27 28 29 34 35 36 38 40): 9.164321899414062	 ([walking][wrong][move][walked][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][walk][plate])
+v(1 3 4 5 19 30 31 32 33 39 41): 9.478150367736816	 ([-][barry][bonds][intentionally][a. j.][francisco][giants '][6 - 5][win][397][appearances.])
+v(1 3 4 5 8 9 10 13 14 15 16 18 20 23 37): 8.941797256469727	 ([-][barry][bonds][intentionally][10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][pierzynski][pierzynski's][14th])
+v(0 1 3 4 5 6 7 21 22): 8.771658897399902	 ([ap][-][barry][bonds][intentionally][load][bases][four][pitches.])
+v(1 2 3 4 5 11 12 17 24 25 26 27 28 29 34 35 36 38 40): 9.410738945007324	 ([-][walking][barry][bonds][intentionally][wrong][move][walked][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][walk][plate])
+v(8 9 10 13 14 15 16 18 19 20 23 30 31 32 33 37 39 41): 8.983290672302246	 ([10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][a. j.][pierzynski][pierzynski's][francisco][giants '][6 - 5][win][14th][397][appearances.])
+v(0 6 7 19 21 22 30 31 32 33 39 41): 9.486448287963867	 ([ap][load][bases][a. j.][four][pitches.][francisco][giants '][6 - 5][win][397][appearances.])
+v(2 11 12 17 19 24 25 26 27 28 29 30 31 32 33 34 35 36 38 39 40 41): 9.274888038635254	 ([walking][wrong][move][walked][a. j.][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][walk][397][plate][appearances.])
+v(0 6 7 8 9 10 13 14 15 16 18 20 21 22 23 37): 9.291116714477539	 ([ap][load][bases][10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][pierzynski][four][pitches.][pierzynski's][14th])
+v(2 8 9 10 11 12 13 14 15 16 17 18 20 23 24 25 26 27 28 29 34 35 36 37 38 40): 8.887093544006348	 ([walking][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][pierzynski][pierzynski's][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][14th][walk][plate])
+v(0 2 6 7 11 12 17 21 22 24 25 26 27 28 29 34 35 36 38 40): 9.40326976776123	 ([ap][walking][load][bases][wrong][move][walked][four][pitches.][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][walk][plate])
+v(1 3 4 5 8 9 10 13 14 15 16 18 19 20 23 30 31 32 33 37 39 41): 9.071932792663574	 ([-][barry][bonds][intentionally][10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][a. j.][pierzynski][pierzynski's][francisco][giants '][6 - 5][win][14th][397][appearances.])
+v(0 1 3 4 5 6 7 19 21 22 30 31 32 33 39 41): 9.69009017944336	 ([ap][-][barry][bonds][intentionally][load][bases][a. j.][four][pitches.][francisco][giants '][6 - 5][win][397][appearances.])
+v(1 2 3 4 5 11 12 17 19 24 25 26 27 28 29 30 31 32 33 34 35 36 38 39 40 41): 9.290380477905273	 ([-][walking][barry][bonds][intentionally][wrong][move][walked][a. j.][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][walk][397][plate][appearances.])
+v(0 1 3 4 5 6 7 8 9 10 13 14 15 16 18 20 21 22 23 37): 9.462363243103027	 ([ap][-][barry][bonds][intentionally][load][bases][10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][pierzynski][four][pitches.][pierzynski's][14th])
+v(1 2 3 4 5 8 9 10 11 12 13 14 15 16 17 18 20 23 24 25 26 27 28 29 34 35 36 37 38 40): 8.923772811889648	 ([-][walking][barry][bonds][intentionally][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][pierzynski][pierzynski's][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][14th][walk][plate])
+v(0 1 2 3 4 5 6 7 11 12 17 21 22 24 25 26 27 28 29 34 35 36 38 40): 9.640886306762695	 ([ap][-][walking][barry][bonds][intentionally][load][bases][wrong][move][walked][four][pitches.][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][walk][plate])
+v(0 6 7 8 9 10 13 14 15 16 18 19 20 21 22 23 30 31 32 33 37 39 41): 9.400424003601074	 ([ap][load][bases][10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][a. j.][pierzynski][four][pitches.][pierzynski's][francisco][giants '][6 - 5][win][14th][397][appearances.])
+v(2 8 9 10 11 12 13 14 15 16 17 18 19 20 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41): 7.976192951202393	 ([walking][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][a. j.][pierzynski][pierzynski's][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][14th][walk][397][plate][appearances.])
+v(0 2 6 7 11 12 17 19 21 22 24 25 26 27 28 29 30 31 32 33 34 35 36 38 39 40 41): 9.402155876159668	 ([ap][walking][load][bases][wrong][move][walked][a. j.][four][pitches.][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][walk][397][plate][appearances.])
+v(0 2 6 7 8 9 10 11 12 13 14 15 16 17 18 20 21 22 23 24 25 26 27 28 29 34 35 36 37 38 40): 9.375616073608398	 ([ap][walking][load][bases][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][pierzynski][four][pitches.][pierzynski's][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][14th][walk][plate])
+v(0 1 3 4 5 6 7 8 9 10 13 14 15 16 18 19 20 21 22 23 30 31 32 33 37 39 41): 9.49405574798584	 ([ap][-][barry][bonds][intentionally][load][bases][10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][a. j.][pierzynski][four][pitches.][pierzynski's][francisco][giants '][6 - 5][win][14th][397][appearances.])
+v(1 2 3 4 5 8 9 10 11 12 13 14 15 16 17 18 19 20 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41): 8.081765174865723	 ([-][walking][barry][bonds][intentionally][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][a. j.][pierzynski][pierzynski's][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][14th][walk][397][plate][appearances.])
+v(0 1 2 3 4 5 6 7 11 12 17 19 21 22 24 25 26 27 28 29 30 31 32 33 34 35 36 38 39 40 41): 9.419499397277832	 ([ap][-][walking][barry][bonds][intentionally][load][bases][wrong][move][walked][a. j.][four][pitches.][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][walk][397][plate][appearances.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 20 21 22 23 24 25 26 27 28 29 34 35 36 37 38 40): 9.285493850708008	 ([ap][-][walking][barry][bonds][intentionally][load][bases][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][pierzynski][four][pitches.][pierzynski's][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][14th][walk][plate])
+v(0 2 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41): 8.989826202392578	 ([ap][walking][load][bases][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][a. j.][pierzynski][four][pitches.][pierzynski's][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][14th][walk][397][plate][appearances.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41): 8.160974502563477	 ([ap][-][walking][barry][bonds][intentionally][load][bases][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][a. j.][pierzynski][four][pitches.][pierzynski's][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][14th][walk][397][plate][appearances.])
+---------- Rewards-v() ----------
+v(0 1 3 4 5 6 7 19 21 22 30 31 32 33 39 41): 13.885858535766602, EP: 1.12374746799469	 ([ap][-][barry][bonds][intentionally][load][bases][a. j.][four][pitches.][francisco][giants '][6 - 5][win][397][appearances.])
+v(0 1 2 3 4 5 6 7 11 12 17 21 22 24 25 26 27 28 29 34 35 36 38 40): 13.836654663085938, EP: 1.1197655200958252	 ([ap][-][walking][barry][bonds][intentionally][load][bases][wrong][move][walked][four][pitches.][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][walk][plate])
+v(0 1 3 4 5 6 7 8 9 10 13 14 15 16 18 19 20 21 22 23 30 31 32 33 37 39 41): 13.689823150634766, EP: 1.1078828573226929	 ([ap][-][barry][bonds][intentionally][load][bases][10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][a. j.][pierzynski][four][pitches.][pierzynski's][francisco][giants '][6 - 5][win][14th][397][appearances.])
+v(0 6 7 19 21 22 30 31 32 33 39 41): 13.68221664428711, EP: 1.1072672605514526	 ([ap][load][bases][a. j.][four][pitches.][francisco][giants '][6 - 5][win][397][appearances.])
+v(1 3 4 5 19 30 31 32 33 39 41): 13.673917770385742, EP: 1.1065956354141235	 ([-][barry][bonds][intentionally][a. j.][francisco][giants '][6 - 5][win][397][appearances.])
+v(0 1 3 4 5 6 7 8 9 10 13 14 15 16 18 20 21 22 23 37): 13.658130645751953, EP: 1.1053180694580078	 ([ap][-][barry][bonds][intentionally][load][bases][10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][pierzynski][four][pitches.][pierzynski's][14th])
+v(0 1 2 3 4 5 6 7 11 12 17 19 21 22 24 25 26 27 28 29 30 31 32 33 34 35 36 38 39 40 41): 13.615266799926758, EP: 1.1018491983413696	 ([ap][-][walking][barry][bonds][intentionally][load][bases][wrong][move][walked][a. j.][four][pitches.][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][walk][397][plate][appearances.])
+v(1 2 3 4 5 11 12 17 24 25 26 27 28 29 34 35 36 38 40): 13.60650634765625, EP: 1.1011402606964111	 ([-][walking][barry][bonds][intentionally][wrong][move][walked][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][walk][plate])
+v(0 2 6 7 11 12 17 21 22 24 25 26 27 28 29 34 35 36 38 40): 13.599037170410156, EP: 1.1005357503890991	 ([ap][walking][load][bases][wrong][move][walked][four][pitches.][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][walk][plate])
+v(0 2 6 7 11 12 17 19 21 22 24 25 26 27 28 29 30 31 32 33 34 35 36 38 39 40 41): 13.597923278808594, EP: 1.1004456281661987	 ([ap][walking][load][bases][wrong][move][walked][a. j.][four][pitches.][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][walk][397][plate][appearances.])
+v(0 6 7 8 9 10 13 14 15 16 18 19 20 21 22 23 30 31 32 33 37 39 41): 13.59619140625, EP: 1.100305438041687	 ([ap][load][bases][10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][a. j.][pierzynski][four][pitches.][pierzynski's][francisco][giants '][6 - 5][win][14th][397][appearances.])
+v(0 2 6 7 8 9 10 11 12 13 14 15 16 17 18 20 21 22 23 24 25 26 27 28 29 34 35 36 37 38 40): 13.57138442993164, EP: 1.0982978343963623	 ([ap][walking][load][bases][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][pierzynski][four][pitches.][pierzynski's][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][14th][walk][plate])
+v(0 6 7 8 9 10 13 14 15 16 18 20 21 22 23 37): 13.486885070800781, EP: 1.0914595127105713	 ([ap][load][bases][10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][pierzynski][four][pitches.][pierzynski's][14th])
+v(1 2 3 4 5 11 12 17 19 24 25 26 27 28 29 30 31 32 33 34 35 36 38 39 40 41): 13.486148834228516, EP: 1.0914000272750854	 ([-][walking][barry][bonds][intentionally][wrong][move][walked][a. j.][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][walk][397][plate][appearances.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 20 21 22 23 24 25 26 27 28 29 34 35 36 37 38 40): 13.48126220703125, EP: 1.091004490852356	 ([ap][-][walking][barry][bonds][intentionally][load][bases][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][pierzynski][four][pitches.][pierzynski's][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][14th][walk][plate])
+v(2 11 12 17 19 24 25 26 27 28 29 30 31 32 33 34 35 36 38 39 40 41): 13.47065544128418, EP: 1.0901461839675903	 ([walking][wrong][move][walked][a. j.][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][walk][397][plate][appearances.])
+v(2 11 12 17 24 25 26 27 28 29 34 35 36 38 40): 13.360090255737305, EP: 1.0811983346939087	 ([walking][wrong][move][walked][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][walk][plate])
+v(1 3 4 5 8 9 10 13 14 15 16 18 19 20 23 30 31 32 33 37 39 41): 13.2677001953125, EP: 1.0737215280532837	 ([-][barry][bonds][intentionally][10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][a. j.][pierzynski][pierzynski's][francisco][giants '][6 - 5][win][14th][397][appearances.])
+v(0 2 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41): 13.18559455871582, EP: 1.0670769214630127	 ([ap][walking][load][bases][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][a. j.][pierzynski][four][pitches.][pierzynski's][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][14th][walk][397][plate][appearances.])
+v(8 9 10 13 14 15 16 18 19 20 23 30 31 32 33 37 39 41): 13.179058074951172, EP: 1.0665478706359863	 ([10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][a. j.][pierzynski][pierzynski's][francisco][giants '][6 - 5][win][14th][397][appearances.])
+v(1 3 4 5 8 9 10 13 14 15 16 18 20 23 37): 13.137565612792969, EP: 1.06318998336792	 ([-][barry][bonds][intentionally][10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][pierzynski][pierzynski's][14th])
+v(1 2 3 4 5 8 9 10 11 12 13 14 15 16 17 18 20 23 24 25 26 27 28 29 34 35 36 37 38 40): 13.11954116821289, EP: 1.0617313385009766	 ([-][walking][barry][bonds][intentionally][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][pierzynski][pierzynski's][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][14th][walk][plate])
+v(2 8 9 10 11 12 13 14 15 16 17 18 20 23 24 25 26 27 28 29 34 35 36 37 38 40): 13.082860946655273, EP: 1.0587629079818726	 ([walking][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][pierzynski][pierzynski's][walk][forced][home][tiebreaking][run][san][marlins][wednesday][night.][14th][walk][plate])
+v(8 9 10 13 14 15 16 18 20 23 37): 13.054414749145508, EP: 1.0564608573913574	 ([10th][inning][turned][florida][# 151 ;][rudy][seanez][pinch - hitter][pierzynski][pierzynski's][14th])
+v(0 1 3 4 5 6 7 21 22): 12.967426300048828, EP: 1.0494210720062256	 ([ap][-][barry][bonds][intentionally][load][bases][four][pitches.])
+v(19 30 31 32 33 39 41): 12.827749252319336, EP: 1.0381174087524414	 ([a. j.][francisco][giants '][6 - 5][win][397][appearances.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41): 12.356742858886719, EP: 1.0	 ([ap][-][walking][barry][bonds][intentionally][load][bases][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][a. j.][pierzynski][four][pitches.][pierzynski's][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][14th][walk][397][plate][appearances.])
+v(1 2 3 4 5 8 9 10 11 12 13 14 15 16 17 18 19 20 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41): 12.277532577514648, EP: 0.9935896992683411	 ([-][walking][barry][bonds][intentionally][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][a. j.][pierzynski][pierzynski's][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][14th][walk][397][plate][appearances.])
+v(2 8 9 10 11 12 13 14 15 16 17 18 19 20 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41): 12.171960830688477, EP: 0.9850460290908813	 ([walking][10th][inning][turned][wrong][move][florida][# 151 ;][rudy][seanez][walked][pinch - hitter][a. j.][pierzynski][pierzynski's][walk][forced][home][tiebreaking][run][san][francisco][giants '][6 - 5][win][marlins][wednesday][night.][14th][walk][397][plate][appearances.])
+v(1 3 4 5): 10.902957916259766, EP: 0.8823488354682922	 ([-][barry][bonds][intentionally])
+v(0 6 7 21 22): 1.6820642948150635, EP: 0.13612522184848785	 ([ap][load][bases][four][pitches.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

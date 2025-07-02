@@ -1,0 +1,25 @@
+---------- Players ----------
+Player 0: holiday
+Player 1: leaves
+Player 2: us
+Player 3: short
+Player 4: trading
+Player 5: week
+Player 6: present.
+Player 7: let's
+Player 8: unwrap
+Player 9: see
+Player 10: what's
+Player 11: store
+Player 12: us.
+---------- Rewards ----------
+v(): -2.464773654937744	 ([])
+v(0 4 5 11 12): 3.525644063949585	 ([holiday][trading][week][store][us.])
+v(1 2 3 6 7 8 9 10): -5.288069248199463	 ([leaves][us][short][present.][let's][unwrap][see][what's])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 7.682791709899902	 ([holiday][leaves][us][short][trading][week][present.][let's][unwrap][see][what's][store][us.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 10.147565841674805, EP: 1.0	 ([holiday][leaves][us][short][trading][week][present.][let's][unwrap][see][what's][store][us.])
+v(0 4 5 11 12): 5.99041748046875, EP: 0.5903304815292358	 ([holiday][trading][week][store][us.])
+v(1 2 3 6 7 8 9 10): -2.8232955932617188, EP: -0.2782239317893982	 ([leaves][us][short][present.][let's][unwrap][see][what's])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: michael
+Player 1: owens
+Player 2: second
+Player 3: goal
+Player 4: many
+Player 5: games
+Player 6: real
+Player 7: madrid
+Player 8: supporters
+Player 9: -
+Player 10: justifying
+Player 11: england
+Player 12: strikers
+Player 13: unwavering
+Player 14: belief
+Player 15: success
+Player 16: spain.
+---------- Rewards ----------
+v(): 0.39630818367004395	 ([])
+v(0 1 6 7 11 15 16): 9.345344543457031	 ([michael][owens][real][madrid][england][success][spain.])
+v(8 9 10): 1.116536021232605	 ([supporters][-][justifying])
+v(2 3 4 5 12 13 14): 8.930229187011719	 ([second][goal][many][games][strikers][unwavering][belief])
+v(0 1 6 7 8 9 10 11 15 16): 9.368084907531738	 ([michael][owens][real][madrid][supporters][-][justifying][england][success][spain.])
+v(0 1 2 3 4 5 6 7 11 12 13 14 15 16): 9.681048393249512	 ([michael][owens][second][goal][many][games][real][madrid][england][strikers][unwavering][belief][success][spain.])
+v(2 3 4 5 8 9 10 12 13 14): 9.109089851379395	 ([second][goal][many][games][supporters][-][justifying][strikers][unwavering][belief])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.672386169433594	 ([michael][owens][second][goal][many][games][real][madrid][supporters][-][justifying][england][strikers][unwavering][belief][success][spain.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 11 12 13 14 15 16): 9.284740447998047, EP: 1.0009337663650513	 ([michael][owens][second][goal][many][games][real][madrid][england][strikers][unwavering][belief][success][spain.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 9.276078224182129, EP: 1.0	 ([michael][owens][second][goal][many][games][real][madrid][supporters][-][justifying][england][strikers][unwavering][belief][success][spain.])
+v(0 1 6 7 8 9 10 11 15 16): 8.971776962280273, EP: 0.9671950340270996	 ([michael][owens][real][madrid][supporters][-][justifying][england][success][spain.])
+v(0 1 6 7 11 15 16): 8.949036598205566, EP: 0.9647435545921326	 ([michael][owens][real][madrid][england][success][spain.])
+v(2 3 4 5 8 9 10 12 13 14): 8.71278190612793, EP: 0.9392743110656738	 ([second][goal][many][games][supporters][-][justifying][strikers][unwavering][belief])
+v(2 3 4 5 12 13 14): 8.533921241760254, EP: 0.9199923872947693	 ([second][goal][many][games][strikers][unwavering][belief])
+v(8 9 10): 0.720227837562561, EP: 0.07764357328414917	 ([supporters][-][justifying])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

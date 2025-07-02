@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: least
+Player 1: 21
+Player 2: people
+Player 3: dead
+Player 4: wednesday
+Player 5: massive
+Player 6: typhoon
+Player 7: tokage
+Player 8: churned
+Player 9: north
+Player 10: across
+Player 11: japanese
+Player 12: archipelago
+Player 13: hitting
+Player 14: kochi
+Player 15: prefecture.
+---------- Rewards ----------
+v(): -5.684820175170898	 ([])
+v(1 2 3 6 12 13 15): 7.508918762207031	 ([21][people][dead][typhoon][archipelago][hitting][prefecture.])
+v(4 5 9 10 11 14): 2.8743205070495605	 ([wednesday][massive][north][across][japanese][kochi])
+v(0 7 8): -3.081409215927124	 ([least][tokage][churned])
+v(1 2 3 4 5 6 9 10 11 12 13 14 15): 7.922691345214844	 ([21][people][dead][wednesday][massive][typhoon][north][across][japanese][archipelago][hitting][kochi][prefecture.])
+v(0 1 2 3 6 7 8 12 13 15): 7.797506332397461	 ([least][21][people][dead][typhoon][tokage][churned][archipelago][hitting][prefecture.])
+v(0 4 5 7 8 9 10 11 14): 3.3511459827423096	 ([least][wednesday][massive][tokage][churned][north][across][japanese][kochi])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 8.026281356811523	 ([least][21][people][dead][wednesday][massive][typhoon][tokage][churned][north][across][japanese][archipelago][hitting][kochi][prefecture.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 13.711101531982422, EP: 1.0	 ([least][21][people][dead][wednesday][massive][typhoon][tokage][churned][north][across][japanese][archipelago][hitting][kochi][prefecture.])
+v(1 2 3 4 5 6 9 10 11 12 13 14 15): 13.607511520385742, EP: 0.9924448132514954	 ([21][people][dead][wednesday][massive][typhoon][north][across][japanese][archipelago][hitting][kochi][prefecture.])
+v(0 1 2 3 6 7 8 12 13 15): 13.48232650756836, EP: 0.9833146333694458	 ([least][21][people][dead][typhoon][tokage][churned][archipelago][hitting][prefecture.])
+v(1 2 3 6 12 13 15): 13.19373893737793, EP: 0.9622668623924255	 ([21][people][dead][typhoon][archipelago][hitting][prefecture.])
+v(0 4 5 7 8 9 10 11 14): 9.035965919494629, EP: 0.6590255498886108	 ([least][wednesday][massive][tokage][churned][north][across][japanese][kochi])
+v(4 5 9 10 11 14): 8.559141159057617, EP: 0.6242489814758301	 ([wednesday][massive][north][across][japanese][kochi])
+v(0 7 8): 2.6034109592437744, EP: 0.18987613916397095	 ([least][tokage][churned])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

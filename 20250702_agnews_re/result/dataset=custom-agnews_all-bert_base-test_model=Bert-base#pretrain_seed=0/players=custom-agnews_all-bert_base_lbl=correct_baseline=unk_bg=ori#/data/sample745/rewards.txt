@@ -1,0 +1,62 @@
+---------- Players ----------
+Player 0: aiko
+Player 1: hayashi
+Player 2: tokyo
+Player 3: ( ap )
+Player 4: - -
+Player 5: five
+Player 6: years
+Player 7: ago
+Player 8: japanese
+Player 9: women's
+Player 10: rights
+Player 11: advocates
+Player 12: battle
+Player 13: legalize
+Player 14: birth
+Player 15: control
+Player 16: pill.
+Player 17: waging
+Player 18: even
+Player 19: tougher
+Player 20: fight
+Player 21: -
+Player 22: getting
+Player 23: women
+Player 24: use
+Player 25: it...
+---------- Rewards ----------
+v(): 2.100393533706665	 ([])
+v(18 19 20 21 22 23 24): 4.862024307250977	 ([even][tougher][fight][-][getting][women][use])
+v(8 9): -1.4568350315093994	 ([japanese][women's])
+v(1 11 12 13 14 15 16 17): -0.590120792388916	 ([hayashi][advocates][battle][legalize][birth][control][pill.][waging])
+v(0 2 3 4 5 6 7 10 25): 7.211428642272949	 ([aiko][tokyo][( ap )][- -][five][years][ago][rights][it...])
+v(8 9 18 19 20 21 22 23 24): 3.3266615867614746	 ([japanese][women's][even][tougher][fight][-][getting][women][use])
+v(1 11 12 13 14 15 16 17 18 19 20 21 22 23 24): -0.051486968994140625	 ([hayashi][advocates][battle][legalize][birth][control][pill.][waging][even][tougher][fight][-][getting][women][use])
+v(0 2 3 4 5 6 7 10 18 19 20 21 22 23 24 25): 7.288361072540283	 ([aiko][tokyo][( ap )][- -][five][years][ago][rights][even][tougher][fight][-][getting][women][use][it...])
+v(1 8 9 11 12 13 14 15 16 17): -5.453649520874023	 ([hayashi][japanese][women's][advocates][battle][legalize][birth][control][pill.][waging])
+v(0 2 3 4 5 6 7 8 9 10 25): 5.277053356170654	 ([aiko][tokyo][( ap )][- -][five][years][ago][japanese][women's][rights][it...])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 25): 7.477776050567627	 ([aiko][hayashi][tokyo][( ap )][- -][five][years][ago][rights][advocates][battle][legalize][birth][control][pill.][waging][it...])
+v(1 8 9 11 12 13 14 15 16 17 18 19 20 21 22 23 24): -4.398778438568115	 ([hayashi][japanese][women's][advocates][battle][legalize][birth][control][pill.][waging][even][tougher][fight][-][getting][women][use])
+v(0 2 3 4 5 6 7 8 9 10 18 19 20 21 22 23 24 25): 6.923791885375977	 ([aiko][tokyo][( ap )][- -][five][years][ago][japanese][women's][rights][even][tougher][fight][-][getting][women][use][it...])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 7.105748176574707	 ([aiko][hayashi][tokyo][( ap )][- -][five][years][ago][rights][advocates][battle][legalize][birth][control][pill.][waging][even][tougher][fight][-][getting][women][use][it...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 25): 7.271664619445801	 ([aiko][hayashi][tokyo][( ap )][- -][five][years][ago][japanese][women's][rights][advocates][battle][legalize][birth][control][pill.][waging][it...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 7.186241149902344	 ([aiko][hayashi][tokyo][( ap )][- -][five][years][ago][japanese][women's][rights][advocates][battle][legalize][birth][control][pill.][waging][even][tougher][fight][-][getting][women][use][it...])
+---------- Rewards-v() ----------
+v(1 8 9 11 12 13 14 15 16 17): -7.554042816162109, EP: -1.4853065013885498	 ([hayashi][japanese][women's][advocates][battle][legalize][birth][control][pill.][waging])
+v(1 8 9 11 12 13 14 15 16 17 18 19 20 21 22 23 24): -6.499172210693359, EP: -1.2778935432434082	 ([hayashi][japanese][women's][advocates][battle][legalize][birth][control][pill.][waging][even][tougher][fight][-][getting][women][use])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 25): 5.377382278442383, EP: 1.05732262134552	 ([aiko][hayashi][tokyo][( ap )][- -][five][years][ago][rights][advocates][battle][legalize][birth][control][pill.][waging][it...])
+v(0 2 3 4 5 6 7 10 18 19 20 21 22 23 24 25): 5.187967300415039, EP: 1.0200791358947754	 ([aiko][tokyo][( ap )][- -][five][years][ago][rights][even][tougher][fight][-][getting][women][use][it...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 25): 5.171271324157715, EP: 1.016796350479126	 ([aiko][hayashi][tokyo][( ap )][- -][five][years][ago][japanese][women's][rights][advocates][battle][legalize][birth][control][pill.][waging][it...])
+v(0 2 3 4 5 6 7 10 25): 5.111035346984863, EP: 1.0049524307250977	 ([aiko][tokyo][( ap )][- -][five][years][ago][rights][it...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 5.085847854614258, EP: 1.0	 ([aiko][hayashi][tokyo][( ap )][- -][five][years][ago][japanese][women's][rights][advocates][battle][legalize][birth][control][pill.][waging][even][tougher][fight][-][getting][women][use][it...])
+v(0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 5.005354881286621, EP: 0.9841731190681458	 ([aiko][hayashi][tokyo][( ap )][- -][five][years][ago][rights][advocates][battle][legalize][birth][control][pill.][waging][even][tougher][fight][-][getting][women][use][it...])
+v(0 2 3 4 5 6 7 8 9 10 18 19 20 21 22 23 24 25): 4.823398590087891, EP: 0.9483961462974548	 ([aiko][tokyo][( ap )][- -][five][years][ago][japanese][women's][rights][even][tougher][fight][-][getting][women][use][it...])
+v(8 9): -3.5572285652160645, EP: -0.6994366645812988	 ([japanese][women's])
+v(0 2 3 4 5 6 7 8 9 10 25): 3.1766598224639893, EP: 0.6246077418327332	 ([aiko][tokyo][( ap )][- -][five][years][ago][japanese][women's][rights][it...])
+v(18 19 20 21 22 23 24): 2.7616307735443115, EP: 0.5430030226707458	 ([even][tougher][fight][-][getting][women][use])
+v(1 11 12 13 14 15 16 17): -2.690514326095581, EP: -0.529019832611084	 ([hayashi][advocates][battle][legalize][birth][control][pill.][waging])
+v(1 11 12 13 14 15 16 17 18 19 20 21 22 23 24): -2.1518805027008057, EP: -0.4231114685535431	 ([hayashi][advocates][battle][legalize][birth][control][pill.][waging][even][tougher][fight][-][getting][women][use])
+v(8 9 18 19 20 21 22 23 24): 1.2262680530548096, EP: 0.2411137968301773	 ([japanese][women's][even][tougher][fight][-][getting][women][use])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

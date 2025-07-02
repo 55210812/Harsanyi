@@ -1,0 +1,60 @@
+---------- Players ----------
+Player 0: attacks
+Player 1: came
+Player 2: sept.
+Player 3: 11,
+Player 4: 2001,
+Player 5: tom
+Player 6: o'brien,
+Player 7: moment,
+Player 8: stopped
+Player 9: boston
+Player 10: college's
+Player 11: coach.
+Player 12: day,
+Player 13: world
+Player 14: trade
+Player 15: center
+Player 16: pentagon
+Player 17: smoldered
+Player 18: world
+Player 19: stood
+Player 20: still,
+Player 21: o'brien
+Player 22: navy
+Player 23: man.
+---------- Rewards ----------
+v(): -3.9496009349823	 ([])
+v(5 7 8 9 10 13 17 18): 8.085238456726074	 ([tom][moment,][stopped][boston][college's][world][smoldered][world])
+v(0 11 19 22): -0.6914311647415161	 ([attacks][coach.][stood][navy])
+v(20 21): 2.3536813259124756	 ([still,][o'brien])
+v(1 2 3 4 6 12 14 15 16 23): -0.7064489722251892	 ([came][sept.][11,][2001,][o'brien,][day,][trade][center][pentagon][man.])
+v(0 5 7 8 9 10 11 13 17 18 19 22): 8.286689758300781	 ([attacks][tom][moment,][stopped][boston][college's][coach.][world][smoldered][world][stood][navy])
+v(5 7 8 9 10 13 17 18 20 21): 9.439556121826172	 ([tom][moment,][stopped][boston][college's][world][smoldered][world][still,][o'brien])
+v(1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 23): 6.576938629150391	 ([came][sept.][11,][2001,][tom][o'brien,][moment,][stopped][boston][college's][day,][world][trade][center][pentagon][smoldered][world][man.])
+v(0 11 19 20 21 22): 2.356844186782837	 ([attacks][coach.][stood][still,][o'brien][navy])
+v(0 1 2 3 4 6 11 12 14 15 16 19 22 23): 1.9937562942504883	 ([attacks][came][sept.][11,][2001,][o'brien,][coach.][day,][trade][center][pentagon][stood][navy][man.])
+v(1 2 3 4 6 12 14 15 16 20 21 23): 1.8562575578689575	 ([came][sept.][11,][2001,][o'brien,][day,][trade][center][pentagon][still,][o'brien][man.])
+v(0 5 7 8 9 10 11 13 17 18 19 20 21 22): 8.675888061523438	 ([attacks][tom][moment,][stopped][boston][college's][coach.][world][smoldered][world][stood][still,][o'brien][navy])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 22 23): 5.248127460479736	 ([attacks][came][sept.][11,][2001,][tom][o'brien,][moment,][stopped][boston][college's][coach.][day,][world][trade][center][pentagon][smoldered][world][stood][navy][man.])
+v(1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 20 21 23): 8.121103286743164	 ([came][sept.][11,][2001,][tom][o'brien,][moment,][stopped][boston][college's][day,][world][trade][center][pentagon][smoldered][world][still,][o'brien][man.])
+v(0 1 2 3 4 6 11 12 14 15 16 19 20 21 22 23): 3.720686674118042	 ([attacks][came][sept.][11,][2001,][o'brien,][coach.][day,][trade][center][pentagon][stood][still,][o'brien][navy][man.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 6.373510837554932	 ([attacks][came][sept.][11,][2001,][tom][o'brien,][moment,][stopped][boston][college's][coach.][day,][world][trade][center][pentagon][smoldered][world][stood][still,][o'brien][navy][man.])
+---------- Rewards-v() ----------
+v(5 7 8 9 10 13 17 18 20 21): 13.38915729522705, EP: 1.2970079183578491	 ([tom][moment,][stopped][boston][college's][world][smoldered][world][still,][o'brien])
+v(0 5 7 8 9 10 11 13 17 18 19 20 21 22): 12.625489234924316, EP: 1.2230314016342163	 ([attacks][tom][moment,][stopped][boston][college's][coach.][world][smoldered][world][stood][still,][o'brien][navy])
+v(0 5 7 8 9 10 11 13 17 18 19 22): 12.23629093170166, EP: 1.1853296756744385	 ([attacks][tom][moment,][stopped][boston][college's][coach.][world][smoldered][world][stood][navy])
+v(1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 20 21 23): 12.070704460144043, EP: 1.1692893505096436	 ([came][sept.][11,][2001,][tom][o'brien,][moment,][stopped][boston][college's][day,][world][trade][center][pentagon][smoldered][world][still,][o'brien][man.])
+v(5 7 8 9 10 13 17 18): 12.034839630126953, EP: 1.1658151149749756	 ([tom][moment,][stopped][boston][college's][world][smoldered][world])
+v(1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 23): 10.52653980255127, EP: 1.019706130027771	 ([came][sept.][11,][2001,][tom][o'brien,][moment,][stopped][boston][college's][day,][world][trade][center][pentagon][smoldered][world][man.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 10.323111534118652, EP: 1.0	 ([attacks][came][sept.][11,][2001,][tom][o'brien,][moment,][stopped][boston][college's][coach.][day,][world][trade][center][pentagon][smoldered][world][stood][still,][o'brien][navy][man.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 22 23): 9.197728157043457, EP: 0.8909841179847717	 ([attacks][came][sept.][11,][2001,][tom][o'brien,][moment,][stopped][boston][college's][coach.][day,][world][trade][center][pentagon][smoldered][world][stood][navy][man.])
+v(0 1 2 3 4 6 11 12 14 15 16 19 20 21 22 23): 7.670287609100342, EP: 0.7430208921432495	 ([attacks][came][sept.][11,][2001,][o'brien,][coach.][day,][trade][center][pentagon][stood][still,][o'brien][navy][man.])
+v(0 11 19 20 21 22): 6.306445121765137, EP: 0.6109054684638977	 ([attacks][coach.][stood][still,][o'brien][navy])
+v(20 21): 6.303282260894775, EP: 0.6105990409851074	 ([still,][o'brien])
+v(0 1 2 3 4 6 11 12 14 15 16 19 22 23): 5.943357467651367, EP: 0.5757331252098083	 ([attacks][came][sept.][11,][2001,][o'brien,][coach.][day,][trade][center][pentagon][stood][navy][man.])
+v(1 2 3 4 6 12 14 15 16 20 21 23): 5.805858612060547, EP: 0.5624136328697205	 ([came][sept.][11,][2001,][o'brien,][day,][trade][center][pentagon][still,][o'brien][man.])
+v(0 11 19 22): 3.258169651031494, EP: 0.31561896204948425	 ([attacks][coach.][stood][navy])
+v(1 2 3 4 6 12 14 15 16 23): 3.243151903152466, EP: 0.3141641914844513	 ([came][sept.][11,][2001,][o'brien,][day,][trade][center][pentagon][man.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

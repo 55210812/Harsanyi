@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: analysts
+Player 1: idc
+Player 2: say
+Player 3: market
+Player 4: could
+Player 5: grow
+Player 6: 12. 5
+Player 7: million
+Player 8: units
+Player 9: shipped
+Player 10: last
+Player 11: year,
+Player 12: predicting
+Player 13: compound
+Player 14: growth
+Player 15: rate
+Player 16: 20
+Player 17: per
+Player 18: cent
+Player 19: year.
+---------- Rewards ----------
+v(): 1.911033272743225	 ([])
+v(4 7 9 16 17 18): 5.509411334991455	 ([could][million][shipped][20][per][cent])
+v(1 12 13 14 19): -2.4335010051727295	 ([idc][predicting][compound][growth][year.])
+v(0 2 3 5 6 8 10 11 15): -8.654229164123535	 ([analysts][say][market][grow][12. 5][units][last][year,][rate])
+v(1 4 7 9 12 13 14 16 17 18 19): -0.9276227951049805	 ([idc][could][million][shipped][predicting][compound][growth][20][per][cent][year.])
+v(0 2 3 4 5 6 7 8 9 10 11 15 16 17 18): 4.543243408203125	 ([analysts][say][market][could][grow][12. 5][million][units][shipped][last][year,][rate][20][per][cent])
+v(0 1 2 3 5 6 8 10 11 12 13 14 15 19): -3.883840799331665	 ([analysts][idc][say][market][grow][12. 5][units][last][year,][predicting][compound][growth][rate][year.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 4.117305278778076	 ([analysts][idc][say][market][could][grow][12. 5][million][units][shipped][last][year,][predicting][compound][growth][rate][20][per][cent][year.])
+---------- Rewards-v() ----------
+v(0 2 3 5 6 8 10 11 15): -10.565262794494629, EP: -4.7887396812438965	 ([analysts][say][market][grow][12. 5][units][last][year,][rate])
+v(0 1 2 3 5 6 8 10 11 12 13 14 15 19): -5.79487419128418, EP: -2.6265454292297363	 ([analysts][idc][say][market][grow][12. 5][units][last][year,][predicting][compound][growth][rate][year.])
+v(1 12 13 14 19): -4.344534397125244, EP: -1.9691742658615112	 ([idc][predicting][compound][growth][year.])
+v(4 7 9 16 17 18): 3.5983781814575195, EP: 1.6309765577316284	 ([could][million][shipped][20][per][cent])
+v(1 4 7 9 12 13 14 16 17 18 19): -2.838655948638916, EP: -1.2866300344467163	 ([idc][could][million][shipped][predicting][compound][growth][20][per][cent][year.])
+v(0 2 3 4 5 6 7 8 9 10 11 15 16 17 18): 2.6322102546691895, EP: 1.193057894706726	 ([analysts][say][market][could][grow][12. 5][million][units][shipped][last][year,][rate][20][per][cent])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 2.2062721252441406, EP: 1.0	 ([analysts][idc][say][market][could][grow][12. 5][million][units][shipped][last][year,][predicting][compound][growth][rate][20][per][cent][year.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,88 @@
+---------- Players ----------
+Player 0: european
+Player 1: union
+Player 2: beginning
+Player 3: biggest
+Player 4: ever
+Player 5: military
+Player 6: operation
+Player 7: takes
+Player 8: peacekeeping
+Player 9: duties
+Player 10: bosnia
+Player 11: nato.
+Player 12: 7, 000
+Player 13: soldiers
+Player 14: 30
+Player 15: countries,
+Player 16: including
+Player 17: non - eu
+Player 18: states
+Player 19: canada
+---------- Rewards ----------
+v(): -7.796009063720703	 ([])
+v(2 4 5 12 13 16): 5.458218574523926	 ([beginning][ever][military][7, 000][soldiers][including])
+v(1 6 7 8 9): 8.169132232666016	 ([union][operation][takes][peacekeeping][duties])
+v(0 3 10 11): 0.8126788139343262	 ([european][biggest][bosnia][nato.])
+v(17 18): -5.091345310211182	 ([non - eu][states])
+v(14 15 19): -6.281525611877441	 ([30][countries,][canada])
+v(1 2 4 5 6 7 8 9 12 13 16): 8.356094360351562	 ([union][beginning][ever][military][operation][takes][peacekeeping][duties][7, 000][soldiers][including])
+v(0 2 3 4 5 10 11 12 13 16): 6.784604549407959	 ([european][beginning][biggest][ever][military][bosnia][nato.][7, 000][soldiers][including])
+v(2 4 5 12 13 16 17 18): 6.629579544067383	 ([beginning][ever][military][7, 000][soldiers][including][non - eu][states])
+v(2 4 5 12 13 14 15 16 19): 4.749808311462402	 ([beginning][ever][military][7, 000][soldiers][30][countries,][including][canada])
+v(0 1 3 6 7 8 9 10 11): 8.00473403930664	 ([european][union][biggest][operation][takes][peacekeeping][duties][bosnia][nato.])
+v(1 6 7 8 9 17 18): 8.144747734069824	 ([union][operation][takes][peacekeeping][duties][non - eu][states])
+v(1 6 7 8 9 14 15 19): 8.180152893066406	 ([union][operation][takes][peacekeeping][duties][30][countries,][canada])
+v(0 3 10 11 17 18): 0.615788459777832	 ([european][biggest][bosnia][nato.][non - eu][states])
+v(0 3 10 11 14 15 19): 2.0429701805114746	 ([european][biggest][bosnia][nato.][30][countries,][canada])
+v(14 15 17 18 19): -7.807150840759277	 ([30][countries,][non - eu][states][canada])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 16): 8.182283401489258	 ([european][union][beginning][biggest][ever][military][operation][takes][peacekeeping][duties][bosnia][nato.][7, 000][soldiers][including])
+v(1 2 4 5 6 7 8 9 12 13 16 17 18): 8.300193786621094	 ([union][beginning][ever][military][operation][takes][peacekeeping][duties][7, 000][soldiers][including][non - eu][states])
+v(1 2 4 5 6 7 8 9 12 13 14 15 16 19): 8.298093795776367	 ([union][beginning][ever][military][operation][takes][peacekeeping][duties][7, 000][soldiers][30][countries,][including][canada])
+v(0 2 3 4 5 10 11 12 13 16 17 18): 7.4598469734191895	 ([european][beginning][biggest][ever][military][bosnia][nato.][7, 000][soldiers][including][non - eu][states])
+v(0 2 3 4 5 10 11 12 13 14 15 16 19): 6.407382965087891	 ([european][beginning][biggest][ever][military][bosnia][nato.][7, 000][soldiers][30][countries,][including][canada])
+v(2 4 5 12 13 14 15 16 17 18 19): 5.457072734832764	 ([beginning][ever][military][7, 000][soldiers][30][countries,][including][non - eu][states][canada])
+v(0 1 3 6 7 8 9 10 11 17 18): 8.04348087310791	 ([european][union][biggest][operation][takes][peacekeeping][duties][bosnia][nato.][non - eu][states])
+v(0 1 3 6 7 8 9 10 11 14 15 19): 7.931837558746338	 ([european][union][biggest][operation][takes][peacekeeping][duties][bosnia][nato.][30][countries,][canada])
+v(1 6 7 8 9 14 15 17 18 19): 8.046792030334473	 ([union][operation][takes][peacekeeping][duties][30][countries,][non - eu][states][canada])
+v(0 3 10 11 14 15 17 18 19): 1.446988821029663	 ([european][biggest][bosnia][nato.][30][countries,][non - eu][states][canada])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 16 17 18): 8.19421100616455	 ([european][union][beginning][biggest][ever][military][operation][takes][peacekeeping][duties][bosnia][nato.][7, 000][soldiers][including][non - eu][states])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19): 8.114785194396973	 ([european][union][beginning][biggest][ever][military][operation][takes][peacekeeping][duties][bosnia][nato.][7, 000][soldiers][30][countries,][including][canada])
+v(1 2 4 5 6 7 8 9 12 13 14 15 16 17 18 19): 8.202397346496582	 ([union][beginning][ever][military][operation][takes][peacekeeping][duties][7, 000][soldiers][30][countries,][including][non - eu][states][canada])
+v(0 2 3 4 5 10 11 12 13 14 15 16 17 18 19): 7.021030426025391	 ([european][beginning][biggest][ever][military][bosnia][nato.][7, 000][soldiers][30][countries,][including][non - eu][states][canada])
+v(0 1 3 6 7 8 9 10 11 14 15 17 18 19): 7.831662178039551	 ([european][union][biggest][operation][takes][peacekeeping][duties][bosnia][nato.][30][countries,][non - eu][states][canada])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.004434585571289	 ([european][union][beginning][biggest][ever][military][operation][takes][peacekeeping][duties][bosnia][nato.][7, 000][soldiers][30][countries,][including][non - eu][states][canada])
+---------- Rewards-v() ----------
+v(1 2 4 5 6 7 8 9 12 13 16): 16.152103424072266, EP: 1.0222563743591309	 ([union][beginning][ever][military][operation][takes][peacekeeping][duties][7, 000][soldiers][including])
+v(1 2 4 5 6 7 8 9 12 13 16 17 18): 16.096202850341797, EP: 1.0187183618545532	 ([union][beginning][ever][military][operation][takes][peacekeeping][duties][7, 000][soldiers][including][non - eu][states])
+v(1 2 4 5 6 7 8 9 12 13 14 15 16 19): 16.09410285949707, EP: 1.0185855627059937	 ([union][beginning][ever][military][operation][takes][peacekeeping][duties][7, 000][soldiers][30][countries,][including][canada])
+v(1 2 4 5 6 7 8 9 12 13 14 15 16 17 18 19): 15.998406410217285, EP: 1.012528896331787	 ([union][beginning][ever][military][operation][takes][peacekeeping][duties][7, 000][soldiers][30][countries,][including][non - eu][states][canada])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 16 17 18): 15.990220069885254, EP: 1.0120108127593994	 ([european][union][beginning][biggest][ever][military][operation][takes][peacekeeping][duties][bosnia][nato.][7, 000][soldiers][including][non - eu][states])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 16): 15.978292465209961, EP: 1.0112559795379639	 ([european][union][beginning][biggest][ever][military][operation][takes][peacekeeping][duties][bosnia][nato.][7, 000][soldiers][including])
+v(1 6 7 8 9 14 15 19): 15.97616195678711, EP: 1.011121153831482	 ([union][operation][takes][peacekeeping][duties][30][countries,][canada])
+v(1 6 7 8 9): 15.965141296386719, EP: 1.0104236602783203	 ([union][operation][takes][peacekeeping][duties])
+v(1 6 7 8 9 17 18): 15.940756797790527, EP: 1.008880376815796	 ([union][operation][takes][peacekeeping][duties][non - eu][states])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19): 15.910794258117676, EP: 1.006983995437622	 ([european][union][beginning][biggest][ever][military][operation][takes][peacekeeping][duties][bosnia][nato.][7, 000][soldiers][30][countries,][including][canada])
+v(1 6 7 8 9 14 15 17 18 19): 15.842801094055176, EP: 1.002680778503418	 ([union][operation][takes][peacekeeping][duties][30][countries,][non - eu][states][canada])
+v(0 1 3 6 7 8 9 10 11 17 18): 15.839489936828613, EP: 1.0024712085723877	 ([european][union][biggest][operation][takes][peacekeeping][duties][bosnia][nato.][non - eu][states])
+v(0 1 3 6 7 8 9 10 11): 15.800743103027344, EP: 1.0000189542770386	 ([european][union][biggest][operation][takes][peacekeeping][duties][bosnia][nato.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 15.800443649291992, EP: 1.0	 ([european][union][beginning][biggest][ever][military][operation][takes][peacekeeping][duties][bosnia][nato.][7, 000][soldiers][30][countries,][including][non - eu][states][canada])
+v(0 1 3 6 7 8 9 10 11 14 15 19): 15.727846145629883, EP: 0.995405375957489	 ([european][union][biggest][operation][takes][peacekeeping][duties][bosnia][nato.][30][countries,][canada])
+v(0 1 3 6 7 8 9 10 11 14 15 17 18 19): 15.627671241760254, EP: 0.9890653491020203	 ([european][union][biggest][operation][takes][peacekeeping][duties][bosnia][nato.][30][countries,][non - eu][states][canada])
+v(0 2 3 4 5 10 11 12 13 16 17 18): 15.255855560302734, EP: 0.9655333757400513	 ([european][beginning][biggest][ever][military][bosnia][nato.][7, 000][soldiers][including][non - eu][states])
+v(0 2 3 4 5 10 11 12 13 14 15 16 17 18 19): 14.817039489746094, EP: 0.9377609491348267	 ([european][beginning][biggest][ever][military][bosnia][nato.][7, 000][soldiers][30][countries,][including][non - eu][states][canada])
+v(0 2 3 4 5 10 11 12 13 16): 14.58061408996582, EP: 0.9227977395057678	 ([european][beginning][biggest][ever][military][bosnia][nato.][7, 000][soldiers][including])
+v(2 4 5 12 13 16 17 18): 14.425588607788086, EP: 0.9129862785339355	 ([beginning][ever][military][7, 000][soldiers][including][non - eu][states])
+v(0 2 3 4 5 10 11 12 13 14 15 16 19): 14.203392028808594, EP: 0.8989236354827881	 ([european][beginning][biggest][ever][military][bosnia][nato.][7, 000][soldiers][30][countries,][including][canada])
+v(2 4 5 12 13 16): 13.254227638244629, EP: 0.8388516306877136	 ([beginning][ever][military][7, 000][soldiers][including])
+v(2 4 5 12 13 14 15 16 17 18 19): 13.253082275390625, EP: 0.8387791514396667	 ([beginning][ever][military][7, 000][soldiers][30][countries,][including][non - eu][states][canada])
+v(2 4 5 12 13 14 15 16 19): 12.545817375183105, EP: 0.7940167784690857	 ([beginning][ever][military][7, 000][soldiers][30][countries,][including][canada])
+v(0 3 10 11 14 15 19): 9.838979721069336, EP: 0.6227027773857117	 ([european][biggest][bosnia][nato.][30][countries,][canada])
+v(0 3 10 11 14 15 17 18 19): 9.242998123168945, EP: 0.5849834680557251	 ([european][biggest][bosnia][nato.][30][countries,][non - eu][states][canada])
+v(0 3 10 11): 8.608688354492188, EP: 0.5448383688926697	 ([european][biggest][bosnia][nato.])
+v(0 3 10 11 17 18): 8.411797523498535, EP: 0.532377302646637	 ([european][biggest][bosnia][nato.][non - eu][states])
+v(17 18): 2.7046637535095215, EP: 0.17117644846439362	 ([non - eu][states])
+v(14 15 19): 1.5144834518432617, EP: 0.09585069119930267	 ([30][countries,][canada])
+v(14 15 17 18 19): -0.011141777038574219, EP: -0.000705155951436609	 ([30][countries,][non - eu][states][canada])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

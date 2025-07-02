@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: top
+Player 1: blew
+Player 2: celtic
+Player 3: # 39 ; s
+Player 4: discipline
+Player 5: volcanic
+Player 6: old
+Player 7: firm
+Player 8: derby
+Player 9: lost
+Player 10: proud
+Player 11: record
+Player 12: scoring
+Player 13: every
+Player 14: meeting
+Player 15: rangers
+Player 16: since
+Player 17: martin
+Player 18: # 39 ; neill
+Player 19: took
+Player 20: manager
+Player 21: summer
+Player 22: 2000.
+---------- Rewards ----------
+v(): -3.991908073425293	 ([])
+v(1 9 14 15 16 17 18): 9.452675819396973	 ([blew][lost][meeting][rangers][since][martin][# 39 ; neill])
+v(0 2 3 4 11 12): 9.4990234375	 ([top][celtic][# 39 ; s][discipline][record][scoring])
+v(5 6 7 8 10 13 19 20 21 22): 7.340850830078125	 ([volcanic][old][firm][derby][proud][every][took][manager][summer][2000.])
+v(0 1 2 3 4 9 11 12 14 15 16 17 18): 9.62248420715332	 ([top][blew][celtic][# 39 ; s][discipline][lost][record][scoring][meeting][rangers][since][martin][# 39 ; neill])
+v(1 5 6 7 8 9 10 13 14 15 16 17 18 19 20 21 22): 9.6425142288208	 ([blew][volcanic][old][firm][derby][lost][proud][every][meeting][rangers][since][martin][# 39 ; neill][took][manager][summer][2000.])
+v(0 2 3 4 5 6 7 8 10 11 12 13 19 20 21 22): 9.577877044677734	 ([top][celtic][# 39 ; s][discipline][volcanic][old][firm][derby][proud][record][scoring][every][took][manager][summer][2000.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 9.620619773864746	 ([top][blew][celtic][# 39 ; s][discipline][volcanic][old][firm][derby][lost][proud][record][scoring][every][meeting][rangers][since][martin][# 39 ; neill][took][manager][summer][2000.])
+---------- Rewards-v() ----------
+v(1 5 6 7 8 9 10 13 14 15 16 17 18 19 20 21 22): 13.634422302246094, EP: 1.0016083717346191	 ([blew][volcanic][old][firm][derby][lost][proud][every][meeting][rangers][since][martin][# 39 ; neill][took][manager][summer][2000.])
+v(0 1 2 3 4 9 11 12 14 15 16 17 18): 13.614392280578613, EP: 1.0001369714736938	 ([top][blew][celtic][# 39 ; s][discipline][lost][record][scoring][meeting][rangers][since][martin][# 39 ; neill])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 13.612527847290039, EP: 1.0	 ([top][blew][celtic][# 39 ; s][discipline][volcanic][old][firm][derby][lost][proud][record][scoring][every][meeting][rangers][since][martin][# 39 ; neill][took][manager][summer][2000.])
+v(0 2 3 4 5 6 7 8 10 11 12 13 19 20 21 22): 13.569785118103027, EP: 0.9968600273132324	 ([top][celtic][# 39 ; s][discipline][volcanic][old][firm][derby][proud][record][scoring][every][took][manager][summer][2000.])
+v(0 2 3 4 11 12): 13.490931510925293, EP: 0.9910673499107361	 ([top][celtic][# 39 ; s][discipline][record][scoring])
+v(1 9 14 15 16 17 18): 13.444583892822266, EP: 0.9876625537872314	 ([blew][lost][meeting][rangers][since][martin][# 39 ; neill])
+v(5 6 7 8 10 13 19 20 21 22): 11.332758903503418, EP: 0.8325241804122925	 ([volcanic][old][firm][derby][proud][every][took][manager][summer][2000.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

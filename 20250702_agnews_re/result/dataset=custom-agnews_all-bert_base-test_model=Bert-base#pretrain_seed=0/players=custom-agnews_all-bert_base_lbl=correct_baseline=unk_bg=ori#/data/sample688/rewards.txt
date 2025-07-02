@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: forget
+Player 1: monday
+Player 2: morning
+Player 3: blues.
+Player 4: windows
+Player 5: administrators,
+Player 6: second
+Player 7: tuesday
+Player 8: month
+Player 9: become
+Player 10: day
+Player 11: dread.
+Player 12: # 39 ; s
+Player 13: day
+Player 14: microsoft
+Player 15: releases
+Player 16: monthly
+Player 17: package
+Player 18: patches.
+---------- Rewards ----------
+v(): 3.9785094261169434	 ([])
+v(6 9 12 13 14 15 16 18): 8.052783966064453	 ([second][become][# 39 ; s][day][microsoft][releases][monthly][patches.])
+v(4 5 17): 6.374310493469238	 ([windows][administrators,][package])
+v(1 2 7 8 10): 1.0378248691558838	 ([monday][morning][tuesday][month][day])
+v(0 3 11): 0.008028268814086914	 ([forget][blues.][dread.])
+v(4 5 6 9 12 13 14 15 16 17 18): 8.183713912963867	 ([windows][administrators,][second][become][# 39 ; s][day][microsoft][releases][monthly][package][patches.])
+v(1 2 6 7 8 9 10 12 13 14 15 16 18): 8.165560722351074	 ([monday][morning][second][tuesday][month][become][day][# 39 ; s][day][microsoft][releases][monthly][patches.])
+v(0 3 6 9 11 12 13 14 15 16 18): 7.617956161499023	 ([forget][blues.][second][become][dread.][# 39 ; s][day][microsoft][releases][monthly][patches.])
+v(1 2 4 5 7 8 10 17): 5.074704170227051	 ([monday][morning][windows][administrators,][tuesday][month][day][package])
+v(0 3 4 5 11 17): 4.787849426269531	 ([forget][blues.][windows][administrators,][dread.][package])
+v(0 1 2 3 7 8 10 11): -1.8167587518692017	 ([forget][monday][morning][blues.][tuesday][month][day][dread.])
+v(1 2 4 5 6 7 8 9 10 12 13 14 15 16 17 18): 8.08832836151123	 ([monday][morning][windows][administrators,][second][tuesday][month][become][day][# 39 ; s][day][microsoft][releases][monthly][package][patches.])
+v(0 3 4 5 6 9 11 12 13 14 15 16 17 18): 7.425516605377197	 ([forget][blues.][windows][administrators,][second][become][dread.][# 39 ; s][day][microsoft][releases][monthly][package][patches.])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 18): 7.280003070831299	 ([forget][monday][morning][blues.][second][tuesday][month][become][day][dread.][# 39 ; s][day][microsoft][releases][monthly][patches.])
+v(0 1 2 3 4 5 7 8 10 11 17): 2.922999858856201	 ([forget][monday][morning][blues.][windows][administrators,][tuesday][month][day][dread.][package])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 5.753857612609863	 ([forget][monday][morning][blues.][windows][administrators,][second][tuesday][month][become][day][dread.][# 39 ; s][day][microsoft][releases][monthly][package][patches.])
+---------- Rewards-v() ----------
+v(0 1 2 3 7 8 10 11): -5.7952680587768555, EP: -3.2642993927001953	 ([forget][monday][morning][blues.][tuesday][month][day][dread.])
+v(4 5 6 9 12 13 14 15 16 17 18): 4.205204486846924, EP: 2.3686647415161133	 ([windows][administrators,][second][become][# 39 ; s][day][microsoft][releases][monthly][package][patches.])
+v(1 2 6 7 8 9 10 12 13 14 15 16 18): 4.187051296234131, EP: 2.3584394454956055	 ([monday][morning][second][tuesday][month][become][day][# 39 ; s][day][microsoft][releases][monthly][patches.])
+v(1 2 4 5 6 7 8 9 10 12 13 14 15 16 17 18): 4.109818935394287, EP: 2.314936876296997	 ([monday][morning][windows][administrators,][second][tuesday][month][become][day][# 39 ; s][day][microsoft][releases][monthly][package][patches.])
+v(6 9 12 13 14 15 16 18): 4.07427453994751, EP: 2.2949156761169434	 ([second][become][# 39 ; s][day][microsoft][releases][monthly][patches.])
+v(0 3 11): -3.9704811573028564, EP: -2.236452102661133	 ([forget][blues.][dread.])
+v(0 3 6 9 11 12 13 14 15 16 18): 3.63944673538208, EP: 2.04999041557312	 ([forget][blues.][second][become][dread.][# 39 ; s][day][microsoft][releases][monthly][patches.])
+v(0 3 4 5 6 9 11 12 13 14 15 16 17 18): 3.447007179260254, EP: 1.9415949583053589	 ([forget][blues.][windows][administrators,][second][become][dread.][# 39 ; s][day][microsoft][releases][monthly][package][patches.])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 18): 3.3014936447143555, EP: 1.8596316576004028	 ([forget][monday][morning][blues.][second][tuesday][month][become][day][dread.][# 39 ; s][day][microsoft][releases][monthly][patches.])
+v(1 2 7 8 10): -2.9406845569610596, EP: -1.6563987731933594	 ([monday][morning][tuesday][month][day])
+v(4 5 17): 2.395801067352295, EP: 1.3494824171066284	 ([windows][administrators,][package])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 1.77534818649292, EP: 1.0	 ([forget][monday][morning][blues.][windows][administrators,][second][tuesday][month][become][day][dread.][# 39 ; s][day][microsoft][releases][monthly][package][patches.])
+v(1 2 4 5 7 8 10 17): 1.0961947441101074, EP: 0.617453396320343	 ([monday][morning][windows][administrators,][tuesday][month][day][package])
+v(0 1 2 3 4 5 7 8 10 11 17): -1.0555095672607422, EP: -0.5945366621017456	 ([forget][monday][morning][blues.][windows][administrators,][tuesday][month][day][dread.][package])
+v(0 3 4 5 11 17): 0.8093400001525879, EP: 0.45587676763534546	 ([forget][blues.][windows][administrators,][dread.][package])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

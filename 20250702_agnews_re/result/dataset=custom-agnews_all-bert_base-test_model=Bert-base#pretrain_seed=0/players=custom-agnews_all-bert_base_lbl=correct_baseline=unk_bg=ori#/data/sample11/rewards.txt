@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: dan
+Player 1: cotrone
+Player 2: hanover,
+Player 3: all - new
+Player 4: england
+Player 5: prep
+Player 6: all - american
+Player 7: heavyweight
+Player 8: wrestler
+Player 9: tilton
+Player 10: school
+Player 11: new
+Player 12: hampshire
+Player 13: last
+Player 14: year,
+Player 15: attending
+Player 16: university
+Player 17: oklahoma
+Player 18: vying
+Player 19: spot
+Player 20: sooners's
+Player 21: varsity
+Player 22: wrestling
+Player 23: team.
+---------- Rewards ----------
+v(): -5.02012825012207	 ([])
+v(4 8 15 19 20 21 22 23): 7.8152008056640625	 ([england][wrestler][attending][spot][sooners's][varsity][wrestling][team.])
+v(0 1 2 3 5 9 11 13 14 16 17 18): 0.0574723482131958	 ([dan][cotrone][hanover,][all - new][prep][tilton][new][last][year,][university][oklahoma][vying])
+v(6 7 10 12): 4.458215713500977	 ([all - american][heavyweight][school][hampshire])
+v(0 1 2 3 4 5 8 9 11 13 14 15 16 17 18 19 20 21 22 23): 8.879633903503418	 ([dan][cotrone][hanover,][all - new][england][prep][wrestler][tilton][new][last][year,][attending][university][oklahoma][vying][spot][sooners's][varsity][wrestling][team.])
+v(4 6 7 8 10 12 15 19 20 21 22 23): 7.930713653564453	 ([england][all - american][heavyweight][wrestler][school][hampshire][attending][spot][sooners's][varsity][wrestling][team.])
+v(0 1 2 3 5 6 7 9 10 11 12 13 14 16 17 18): 9.176166534423828	 ([dan][cotrone][hanover,][all - new][prep][all - american][heavyweight][tilton][school][new][hampshire][last][year,][university][oklahoma][vying])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.532565116882324	 ([dan][cotrone][hanover,][all - new][england][prep][all - american][heavyweight][wrestler][tilton][school][new][hampshire][last][year,][attending][university][oklahoma][vying][spot][sooners's][varsity][wrestling][team.])
+---------- Rewards-v() ----------
+v(0 1 2 3 5 6 7 9 10 11 12 13 14 16 17 18): 14.196294784545898, EP: 1.047488808631897	 ([dan][cotrone][hanover,][all - new][prep][all - american][heavyweight][tilton][school][new][hampshire][last][year,][university][oklahoma][vying])
+v(0 1 2 3 4 5 8 9 11 13 14 15 16 17 18 19 20 21 22 23): 13.899762153625488, EP: 1.0256088972091675	 ([dan][cotrone][hanover,][all - new][england][prep][wrestler][tilton][new][last][year,][attending][university][oklahoma][vying][spot][sooners's][varsity][wrestling][team.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 13.552693367004395, EP: 1.0	 ([dan][cotrone][hanover,][all - new][england][prep][all - american][heavyweight][wrestler][tilton][school][new][hampshire][last][year,][attending][university][oklahoma][vying][spot][sooners's][varsity][wrestling][team.])
+v(4 6 7 8 10 12 15 19 20 21 22 23): 12.950841903686523, EP: 0.9555917382240295	 ([england][all - american][heavyweight][wrestler][school][hampshire][attending][spot][sooners's][varsity][wrestling][team.])
+v(4 8 15 19 20 21 22 23): 12.835329055786133, EP: 0.9470685124397278	 ([england][wrestler][attending][spot][sooners's][varsity][wrestling][team.])
+v(6 7 10 12): 9.478343963623047, EP: 0.6993697881698608	 ([all - american][heavyweight][school][hampshire])
+v(0 1 2 3 5 9 11 13 14 16 17 18): 5.077600479125977, EP: 0.37465620040893555	 ([dan][cotrone][hanover,][all - new][prep][tilton][new][last][year,][university][oklahoma][vying])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

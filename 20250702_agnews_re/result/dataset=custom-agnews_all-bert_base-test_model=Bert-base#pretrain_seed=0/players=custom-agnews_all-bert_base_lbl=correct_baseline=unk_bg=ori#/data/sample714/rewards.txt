@@ -1,0 +1,67 @@
+---------- Players ----------
+Player 0: texas
+Player 1: amp ; m
+Player 2: ( 7 - 3 )
+Player 3: vs.
+Player 4: texas
+Player 5: ( 9 - 1 )
+Player 6: when,
+Player 7: where :
+Player 8: today,
+Player 9: 3 : 30
+Player 10: p. m.,
+Player 11: austin,
+Player 12: texas.
+Player 13: tv :
+Player 14: chs.
+Player 15: 5,
+Player 16: 6,
+Player 17: 9.
+Player 18: ap
+Player 19: rankings :
+Player 20: texas
+Player 21: no.
+Player 22: 6,
+Player 23: texas
+Player 24: amp ; m
+Player 25: no.
+Player 26: 22.
+Player 27: last
+Player 28: season :
+Player 29: texas
+Player 30: won,
+Player 31: 46 - 15.
+Player 32: comments :
+Player 33: 10th
+Player 34: time
+Player 35: history
+Player 36: lone
+Player 37: star
+Player 38: shootout,
+Player 39: teams
+Player 40: enter
+Player 41: game
+Player 42: ranked
+Player 43: top
+Player 44: 25.
+Player 45: longhorns
+Player 46: ...
+---------- Rewards ----------
+v(): -5.160966873168945	 ([])
+v(8 14 26 28 34 37 38 39 41 42 43 44 46): 8.788374900817871	 ([today,][chs.][22.][season :][time][star][shootout,][teams][game][ranked][top][25.][...])
+v(0 1 10 11 12 13 18 20 24 32 33 35 36 40 45): -6.800879001617432	 ([texas][amp ; m][p. m.,][austin,][texas.][tv :][ap][texas][amp ; m][comments :][10th][history][lone][enter][longhorns])
+v(2 3 4 5 6 7 9 15 16 17 19 21 22 23 25 27 29 30 31): 7.813438892364502	 ([( 7 - 3 )][vs.][texas][( 9 - 1 )][when,][where :][3 : 30][5,][6,][9.][rankings :][no.][6,][texas][no.][last][texas][won,][46 - 15.])
+v(0 1 8 10 11 12 13 14 18 20 24 26 28 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46): 9.175332069396973	 ([texas][amp ; m][today,][p. m.,][austin,][texas.][tv :][chs.][ap][texas][amp ; m][22.][season :][comments :][10th][time][history][lone][star][shootout,][teams][enter][game][ranked][top][25.][longhorns][...])
+v(2 3 4 5 6 7 8 9 14 15 16 17 19 21 22 23 25 26 27 28 29 30 31 34 37 38 39 41 42 43 44 46): 9.42152214050293	 ([( 7 - 3 )][vs.][texas][( 9 - 1 )][when,][where :][today,][3 : 30][chs.][5,][6,][9.][rankings :][no.][6,][texas][no.][22.][last][season :][texas][won,][46 - 15.][time][star][shootout,][teams][game][ranked][top][25.][...])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 15 16 17 18 19 20 21 22 23 24 25 27 29 30 31 32 33 35 36 40 45): 5.346545219421387	 ([texas][amp ; m][( 7 - 3 )][vs.][texas][( 9 - 1 )][when,][where :][3 : 30][p. m.,][austin,][texas.][tv :][5,][6,][9.][ap][rankings :][texas][no.][6,][texas][amp ; m][no.][last][texas][won,][46 - 15.][comments :][10th][history][lone][enter][longhorns])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46): 9.413071632385254	 ([texas][amp ; m][( 7 - 3 )][vs.][texas][( 9 - 1 )][when,][where :][today,][3 : 30][p. m.,][austin,][texas.][tv :][chs.][5,][6,][9.][ap][rankings :][texas][no.][6,][texas][amp ; m][no.][22.][last][season :][texas][won,][46 - 15.][comments :][10th][time][history][lone][star][shootout,][teams][enter][game][ranked][top][25.][longhorns][...])
+---------- Rewards-v() ----------
+v(2 3 4 5 6 7 8 9 14 15 16 17 19 21 22 23 25 26 27 28 29 30 31 34 37 38 39 41 42 43 44 46): 14.582489013671875, EP: 1.000579833984375	 ([( 7 - 3 )][vs.][texas][( 9 - 1 )][when,][where :][today,][3 : 30][chs.][5,][6,][9.][rankings :][no.][6,][texas][no.][22.][last][season :][texas][won,][46 - 15.][time][star][shootout,][teams][game][ranked][top][25.][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46): 14.5740385055542, EP: 1.0	 ([texas][amp ; m][( 7 - 3 )][vs.][texas][( 9 - 1 )][when,][where :][today,][3 : 30][p. m.,][austin,][texas.][tv :][chs.][5,][6,][9.][ap][rankings :][texas][no.][6,][texas][amp ; m][no.][22.][last][season :][texas][won,][46 - 15.][comments :][10th][time][history][lone][star][shootout,][teams][enter][game][ranked][top][25.][longhorns][...])
+v(0 1 8 10 11 12 13 14 18 20 24 26 28 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46): 14.336298942565918, EP: 0.9836874604225159	 ([texas][amp ; m][today,][p. m.,][austin,][texas.][tv :][chs.][ap][texas][amp ; m][22.][season :][comments :][10th][time][history][lone][star][shootout,][teams][enter][game][ranked][top][25.][longhorns][...])
+v(8 14 26 28 34 37 38 39 41 42 43 44 46): 13.949341773986816, EP: 0.957136332988739	 ([today,][chs.][22.][season :][time][star][shootout,][teams][game][ranked][top][25.][...])
+v(2 3 4 5 6 7 9 15 16 17 19 21 22 23 25 27 29 30 31): 12.974405288696289, EP: 0.8902409076690674	 ([( 7 - 3 )][vs.][texas][( 9 - 1 )][when,][where :][3 : 30][5,][6,][9.][rankings :][no.][6,][texas][no.][last][texas][won,][46 - 15.])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 15 16 17 18 19 20 21 22 23 24 25 27 29 30 31 32 33 35 36 40 45): 10.507512092590332, EP: 0.7209746241569519	 ([texas][amp ; m][( 7 - 3 )][vs.][texas][( 9 - 1 )][when,][where :][3 : 30][p. m.,][austin,][texas.][tv :][5,][6,][9.][ap][rankings :][texas][no.][6,][texas][amp ; m][no.][last][texas][won,][46 - 15.][comments :][10th][history][lone][enter][longhorns])
+v(0 1 10 11 12 13 18 20 24 32 33 35 36 40 45): -1.6399121284484863, EP: -0.11252283304929733	 ([texas][amp ; m][p. m.,][austin,][texas.][tv :][ap][texas][amp ; m][comments :][10th][history][lone][enter][longhorns])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

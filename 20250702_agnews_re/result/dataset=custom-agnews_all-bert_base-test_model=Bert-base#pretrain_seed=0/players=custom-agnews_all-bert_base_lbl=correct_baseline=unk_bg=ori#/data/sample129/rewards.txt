@@ -1,0 +1,25 @@
+---------- Players ----------
+Player 0: cell
+Player 1: phone
+Player 2: executives
+Player 3: say
+Player 4: new
+Player 5: data - oriented
+Player 6: services
+Player 7: tv
+Player 8: help
+Player 9: bolster
+Player 10: industry
+Player 11: precarious
+Player 12: state.
+---------- Rewards ----------
+v(): 5.295601844787598	 ([])
+v(0 1 2 3 5 10 11): 6.240089416503906	 ([cell][phone][executives][say][data - oriented][industry][precarious])
+v(4 6 7 8 9 12): -4.61972713470459	 ([new][services][tv][help][bolster][state.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 2.304079532623291	 ([cell][phone][executives][say][new][data - oriented][services][tv][help][bolster][industry][precarious][state.])
+---------- Rewards-v() ----------
+v(4 6 7 8 9 12): -9.915328979492188, EP: 3.3144760131835938	 ([new][services][tv][help][bolster][state.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): -2.9915223121643066, EP: 1.0	 ([cell][phone][executives][say][new][data - oriented][services][tv][help][bolster][industry][precarious][state.])
+v(0 1 2 3 5 10 11): 0.9444875717163086, EP: -0.31572139263153076	 ([cell][phone][executives][say][data - oriented][industry][precarious])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

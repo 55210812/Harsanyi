@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 19:22:40
+prompt: [CLS] almost two months after defying the curse of the bambino and only one day after saying goodbye to pedro martnez, the boston red sox kept moving on yesterday by welcoming the living embodiment [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2471 decoded_text: almost
+idx:2 input_id:2048 decoded_text: two
+idx:3 input_id:2706 decoded_text: months
+idx:4 input_id:2044 decoded_text: after
+idx:5 input_id:13366 decoded_text: def
+idx:6 input_id:14147 decoded_text: ##ying
+idx:7 input_id:1996 decoded_text: the
+idx:8 input_id:8364 decoded_text: curse
+idx:9 input_id:1997 decoded_text: of
+idx:10 input_id:1996 decoded_text: the
+idx:11 input_id:25307 decoded_text: bam
+idx:12 input_id:21891 decoded_text: ##bino
+idx:13 input_id:1998 decoded_text: and
+idx:14 input_id:2069 decoded_text: only
+idx:15 input_id:2028 decoded_text: one
+idx:16 input_id:2154 decoded_text: day
+idx:17 input_id:2044 decoded_text: after
+idx:18 input_id:3038 decoded_text: saying
+idx:19 input_id:9119 decoded_text: goodbye
+idx:20 input_id:2000 decoded_text: to
+idx:21 input_id:7707 decoded_text: pedro
+idx:22 input_id:20481 decoded_text: mart
+idx:23 input_id:2638 decoded_text: ##ne
+idx:24 input_id:2480 decoded_text: ##z
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:3731 decoded_text: boston
+idx:28 input_id:2417 decoded_text: red
+idx:29 input_id:9175 decoded_text: sox
+idx:30 input_id:2921 decoded_text: kept
+idx:31 input_id:3048 decoded_text: moving
+idx:32 input_id:2006 decoded_text: on
+idx:33 input_id:7483 decoded_text: yesterday
+idx:34 input_id:2011 decoded_text: by
+idx:35 input_id:18066 decoded_text: welcoming
+idx:36 input_id:1996 decoded_text: the
+idx:37 input_id:2542 decoded_text: living
+idx:38 input_id:7861 decoded_text: em
+idx:39 input_id:5092 decoded_text: ##bo
+idx:40 input_id:21341 decoded_text: ##diment
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.602195382118225, 8.528342247009277, -2.7654542922973633, -2.600914716720581]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

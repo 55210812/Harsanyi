@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: ( athens,
+Player 1: greece - ap )
+Player 2: aug.
+Player 3: 23,
+Player 4: 2004
+Player 5: -
+Player 6: appears
+Player 7: court
+Player 8: arbitration
+Player 9: sport
+Player 10: might
+Player 11: hear
+Player 12: south
+Player 13: korea
+Player 14: # 39 ; s
+Player 15: appeal
+Player 16: gymnastics
+Player 17: gold
+Player 18: medal.
+---------- Rewards ----------
+v(): -4.44281005859375	 ([])
+v(2 4 5 9 14 16): 7.160914421081543	 ([aug.][2004][-][sport][# 39 ; s][gymnastics])
+v(6 10 11 17 18): 3.204367160797119	 ([appears][might][hear][gold][medal.])
+v(0 1 3 7 8 12 13 15): -5.7289323806762695	 ([( athens,][greece - ap )][23,][court][arbitration][south][korea][appeal])
+v(2 4 5 6 9 10 11 14 16 17 18): 8.178260803222656	 ([aug.][2004][-][appears][sport][might][hear][# 39 ; s][gymnastics][gold][medal.])
+v(0 1 2 3 4 5 7 8 9 12 13 14 15 16): 9.344344139099121	 ([( athens,][greece - ap )][aug.][23,][2004][-][court][arbitration][sport][south][korea][# 39 ; s][appeal][gymnastics])
+v(0 1 3 6 7 8 10 11 12 13 15 17 18): 2.3002476692199707	 ([( athens,][greece - ap )][23,][appears][court][arbitration][might][hear][south][korea][appeal][gold][medal.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.376440048217773	 ([( athens,][greece - ap )][aug.][23,][2004][-][appears][court][arbitration][sport][might][hear][south][korea][# 39 ; s][appeal][gymnastics][gold][medal.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 13.819250106811523, EP: 1.0	 ([( athens,][greece - ap )][aug.][23,][2004][-][appears][court][arbitration][sport][might][hear][south][korea][# 39 ; s][appeal][gymnastics][gold][medal.])
+v(0 1 2 3 4 5 7 8 9 12 13 14 15 16): 13.787154197692871, EP: 0.9976774454116821	 ([( athens,][greece - ap )][aug.][23,][2004][-][court][arbitration][sport][south][korea][# 39 ; s][appeal][gymnastics])
+v(2 4 5 6 9 10 11 14 16 17 18): 12.621070861816406, EP: 0.9132963418960571	 ([aug.][2004][-][appears][sport][might][hear][# 39 ; s][gymnastics][gold][medal.])
+v(2 4 5 9 14 16): 11.603724479675293, EP: 0.8396782875061035	 ([aug.][2004][-][sport][# 39 ; s][gymnastics])
+v(6 10 11 17 18): 7.647177219390869, EP: 0.5533713698387146	 ([appears][might][hear][gold][medal.])
+v(0 1 3 6 7 8 10 11 12 13 15 17 18): 6.743057727813721, EP: 0.4879467189311981	 ([( athens,][greece - ap )][23,][appears][court][arbitration][might][hear][south][korea][appeal][gold][medal.])
+v(0 1 3 7 8 12 13 15): -1.2861223220825195, EP: -0.09306744486093521	 ([( athens,][greece - ap )][23,][court][arbitration][south][korea][appeal])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

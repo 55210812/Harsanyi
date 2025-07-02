@@ -1,0 +1,34 @@
+---------- Players ----------
+Player 0: qantas
+Player 1: airways
+Player 2: raised
+Player 3: fuel
+Player 4: surcharge
+Player 5: domestic
+Player 6: international
+Player 7: tickets
+Player 8: \ $ 4
+Player 9: \ $ 7,
+Player 10: respectively,
+Player 11: high
+Player 12: price
+Player 13: oil.
+---------- Rewards ----------
+v(): -4.775877952575684	 ([])
+v(0 1 4 5 7 13): 5.476053237915039	 ([qantas][airways][surcharge][domestic][tickets][oil.])
+v(3 6): 1.6002107858657837	 ([fuel][international])
+v(2 8 9 10 11 12): -3.339862585067749	 ([raised][\ $ 4][\ $ 7,][respectively,][high][price])
+v(0 1 3 4 5 6 7 13): 4.785478591918945	 ([qantas][airways][fuel][surcharge][domestic][international][tickets][oil.])
+v(0 1 2 4 5 7 8 9 10 11 12 13): 3.523188591003418	 ([qantas][airways][raised][surcharge][domestic][tickets][\ $ 4][\ $ 7,][respectively,][high][price][oil.])
+v(2 3 6 8 9 10 11 12): -2.133126974105835	 ([raised][fuel][international][\ $ 4][\ $ 7,][respectively,][high][price])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 2.497036933898926	 ([qantas][airways][raised][fuel][surcharge][domestic][international][tickets][\ $ 4][\ $ 7,][respectively,][high][price][oil.])
+---------- Rewards-v() ----------
+v(0 1 4 5 7 13): 10.251931190490723, EP: 1.4096041917800903	 ([qantas][airways][surcharge][domestic][tickets][oil.])
+v(0 1 3 4 5 6 7 13): 9.561356544494629, EP: 1.3146525621414185	 ([qantas][airways][fuel][surcharge][domestic][international][tickets][oil.])
+v(0 1 2 4 5 7 8 9 10 11 12 13): 8.299066543579102, EP: 1.1410921812057495	 ([qantas][airways][raised][surcharge][domestic][tickets][\ $ 4][\ $ 7,][respectively,][high][price][oil.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 7.272914886474609, EP: 1.0	 ([qantas][airways][raised][fuel][surcharge][domestic][international][tickets][\ $ 4][\ $ 7,][respectively,][high][price][oil.])
+v(3 6): 6.376088619232178, EP: 0.8766895532608032	 ([fuel][international])
+v(2 3 6 8 9 10 11 12): 2.6427509784698486, EP: 0.3633688986301422	 ([raised][fuel][international][\ $ 4][\ $ 7,][respectively,][high][price])
+v(2 8 9 10 11 12): 1.4360153675079346, EP: 0.1974470168352127	 ([raised][\ $ 4][\ $ 7,][respectively,][high][price])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

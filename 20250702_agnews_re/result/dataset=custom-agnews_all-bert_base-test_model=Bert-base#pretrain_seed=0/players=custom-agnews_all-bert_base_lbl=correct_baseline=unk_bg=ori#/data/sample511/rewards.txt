@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: us
+Player 1: journalist
+Player 2: micah
+Player 3: garen
+Player 4: sunday
+Player 5: freed
+Player 6: iraqi
+Player 7: group
+Player 8: held
+Player 9: hostage
+Player 10: southern
+Player 11: iraqi
+Player 12: city
+Player 13: nassiriya.
+Player 14: quot ; i
+Player 15: grateful
+Player 16: everyone
+Player 17: worked
+Player 18: protect
+---------- Rewards ----------
+v(): -2.56577730178833	 ([])
+v(6 9 11 12 13 17 18): 6.950318813323975	 ([iraqi][hostage][iraqi][city][nassiriya.][worked][protect])
+v(0 1 2 3 4 5 10 14 16): 4.790329933166504	 ([us][journalist][micah][garen][sunday][freed][southern][quot ; i][everyone])
+v(7 8 15): 1.439395785331726	 ([group][held][grateful])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 16 17 18): 6.785193920135498	 ([us][journalist][micah][garen][sunday][freed][iraqi][hostage][southern][iraqi][city][nassiriya.][quot ; i][everyone][worked][protect])
+v(6 7 8 9 11 12 13 15 17 18): 7.149770736694336	 ([iraqi][group][held][hostage][iraqi][city][nassiriya.][grateful][worked][protect])
+v(0 1 2 3 4 5 7 8 10 14 15 16): 5.1389241218566895	 ([us][journalist][micah][garen][sunday][freed][group][held][southern][quot ; i][grateful][everyone])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 6.833874702453613	 ([us][journalist][micah][garen][sunday][freed][iraqi][group][held][hostage][southern][iraqi][city][nassiriya.][quot ; i][grateful][everyone][worked][protect])
+---------- Rewards-v() ----------
+v(6 7 8 9 11 12 13 15 17 18): 9.715547561645508, EP: 1.0336071252822876	 ([iraqi][group][held][hostage][iraqi][city][nassiriya.][grateful][worked][protect])
+v(6 9 11 12 13 17 18): 9.516096115112305, EP: 1.0123881101608276	 ([iraqi][hostage][iraqi][city][nassiriya.][worked][protect])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.399652481079102, EP: 1.0	 ([us][journalist][micah][garen][sunday][freed][iraqi][group][held][hostage][southern][iraqi][city][nassiriya.][quot ; i][grateful][everyone][worked][protect])
+v(0 1 2 3 4 5 6 9 10 11 12 13 14 16 17 18): 9.350971221923828, EP: 0.9948209524154663	 ([us][journalist][micah][garen][sunday][freed][iraqi][hostage][southern][iraqi][city][nassiriya.][quot ; i][everyone][worked][protect])
+v(0 1 2 3 4 5 7 8 10 14 15 16): 7.7047014236450195, EP: 0.8196793794631958	 ([us][journalist][micah][garen][sunday][freed][group][held][southern][quot ; i][grateful][everyone])
+v(0 1 2 3 4 5 10 14 16): 7.356107234954834, EP: 0.7825935482978821	 ([us][journalist][micah][garen][sunday][freed][southern][quot ; i][everyone])
+v(7 8 15): 4.005173206329346, EP: 0.4260980188846588	 ([group][held][grateful])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: sander
+Player 1: -
+Player 2: sold
+Player 3: fashion
+Player 4: house
+Player 5: prada
+Player 6: four
+Player 7: years
+Player 8: ago,
+Player 9: left
+Player 10: four
+Player 11: months
+Player 12: later,
+Player 13: made
+Player 14: dramatic
+Player 15: comeback
+Player 16: 2003
+Player 17: -
+Player 18: left
+Player 19: company
+Player 20: again.
+---------- Rewards ----------
+v(): -2.5815114974975586	 ([])
+v(4 5 12 13 17 18 19 20): 6.013426303863525	 ([house][prada][later,][made][-][left][company][again.])
+v(0 1 2 3 14 15 16): 0.4142446517944336	 ([sander][-][sold][fashion][dramatic][comeback][2003])
+v(6 7 8 9 10 11): -3.1457433700561523	 ([four][years][ago,][left][four][months])
+v(0 1 2 3 4 5 12 13 14 15 16 17 18 19 20): 6.475183963775635	 ([sander][-][sold][fashion][house][prada][later,][made][dramatic][comeback][2003][-][left][company][again.])
+v(4 5 6 7 8 9 10 11 12 13 17 18 19 20): 4.320451259613037	 ([house][prada][four][years][ago,][left][four][months][later,][made][-][left][company][again.])
+v(0 1 2 3 6 7 8 9 10 11 14 15 16): 0.9803364276885986	 ([sander][-][sold][fashion][four][years][ago,][left][four][months][dramatic][comeback][2003])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 6.574841499328613	 ([sander][-][sold][fashion][house][prada][four][years][ago,][left][four][months][later,][made][dramatic][comeback][2003][-][left][company][again.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.156352996826172, EP: 1.0	 ([sander][-][sold][fashion][house][prada][four][years][ago,][left][four][months][later,][made][dramatic][comeback][2003][-][left][company][again.])
+v(0 1 2 3 4 5 12 13 14 15 16 17 18 19 20): 9.056695938110352, EP: 0.9891160726547241	 ([sander][-][sold][fashion][house][prada][later,][made][dramatic][comeback][2003][-][left][company][again.])
+v(4 5 12 13 17 18 19 20): 8.594938278198242, EP: 0.9386857748031616	 ([house][prada][later,][made][-][left][company][again.])
+v(4 5 6 7 8 9 10 11 12 13 17 18 19 20): 6.901962757110596, EP: 0.753789484500885	 ([house][prada][four][years][ago,][left][four][months][later,][made][-][left][company][again.])
+v(0 1 2 3 6 7 8 9 10 11 14 15 16): 3.5618479251861572, EP: 0.3890029191970825	 ([sander][-][sold][fashion][four][years][ago,][left][four][months][dramatic][comeback][2003])
+v(0 1 2 3 14 15 16): 2.995756149291992, EP: 0.32717788219451904	 ([sander][-][sold][fashion][dramatic][comeback][2003])
+v(6 7 8 9 10 11): -0.5642318725585938, EP: -0.06162190064787865	 ([four][years][ago,][left][four][months])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

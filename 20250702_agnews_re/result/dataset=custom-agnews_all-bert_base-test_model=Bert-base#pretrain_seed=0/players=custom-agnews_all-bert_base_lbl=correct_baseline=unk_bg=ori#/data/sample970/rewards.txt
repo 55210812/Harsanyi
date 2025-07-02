@@ -1,0 +1,23 @@
+---------- Players ----------
+Player 0: enterprise - software
+Player 1: company
+Player 2: looks
+Player 3: better
+Player 4: serve
+Player 5: 4, 200
+Player 6: asia - pacific
+Player 7: customers,
+Player 8: well
+Player 9: customers
+Player 10: worldwide.
+---------- Rewards ----------
+v(): -0.759209394454956	 ([])
+v(0 1 4 7 8 9): 7.354562282562256	 ([enterprise - software][company][serve][customers,][well][customers])
+v(2 3 5 6 10): -0.4305911064147949	 ([looks][better][4, 200][asia - pacific][worldwide.])
+v(0 1 2 3 4 5 6 7 8 9 10): 4.9277801513671875	 ([enterprise - software][company][looks][better][serve][4, 200][asia - pacific][customers,][well][customers][worldwide.])
+---------- Rewards-v() ----------
+v(0 1 4 7 8 9): 8.113771438598633, EP: 1.426725149154663	 ([enterprise - software][company][serve][customers,][well][customers])
+v(0 1 2 3 4 5 6 7 8 9 10): 5.686989784240723, EP: 1.0	 ([enterprise - software][company][looks][better][serve][4, 200][asia - pacific][customers,][well][customers][worldwide.])
+v(2 3 5 6 10): 0.32861828804016113, EP: 0.057784222066402435	 ([looks][better][4, 200][asia - pacific][worldwide.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

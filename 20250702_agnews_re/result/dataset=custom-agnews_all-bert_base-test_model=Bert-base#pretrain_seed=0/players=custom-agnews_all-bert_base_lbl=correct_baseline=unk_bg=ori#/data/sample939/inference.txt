@@ -1,0 +1,36 @@
+Execution time: 2025-07-02 19:40:44
+prompt: [CLS] sun signs up the software company to support its attempt to make useful a version of its solaris operating system for x86 chips. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3103 decoded_text: sun
+idx:2 input_id:5751 decoded_text: signs
+idx:3 input_id:2039 decoded_text: up
+idx:4 input_id:1996 decoded_text: the
+idx:5 input_id:4007 decoded_text: software
+idx:6 input_id:2194 decoded_text: company
+idx:7 input_id:2000 decoded_text: to
+idx:8 input_id:2490 decoded_text: support
+idx:9 input_id:2049 decoded_text: its
+idx:10 input_id:3535 decoded_text: attempt
+idx:11 input_id:2000 decoded_text: to
+idx:12 input_id:2191 decoded_text: make
+idx:13 input_id:6179 decoded_text: useful
+idx:14 input_id:1037 decoded_text: a
+idx:15 input_id:2544 decoded_text: version
+idx:16 input_id:1997 decoded_text: of
+idx:17 input_id:2049 decoded_text: its
+idx:18 input_id:5943 decoded_text: solar
+idx:19 input_id:2483 decoded_text: ##is
+idx:20 input_id:4082 decoded_text: operating
+idx:21 input_id:2291 decoded_text: system
+idx:22 input_id:2005 decoded_text: for
+idx:23 input_id:1060 decoded_text: x
+idx:24 input_id:20842 decoded_text: ##86
+idx:25 input_id:11772 decoded_text: chips
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-2.6796066761016846, -4.007911205291748, -0.42674779891967773, 6.527584075927734]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

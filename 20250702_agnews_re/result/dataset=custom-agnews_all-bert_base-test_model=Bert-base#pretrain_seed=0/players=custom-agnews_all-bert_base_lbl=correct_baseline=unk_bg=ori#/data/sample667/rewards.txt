@@ -1,0 +1,61 @@
+---------- Players ----------
+Player 0: aol
+Player 1: user
+Player 2: logged
+Player 3: check
+Player 4: online
+Player 5: financial
+Player 6: portfolio
+Player 7: given
+Player 8: access
+Player 9: someone
+Player 10: else's
+Player 11: data
+Player 12: calling
+Player 13: aol
+Player 14: correct
+Player 15: sees
+Player 16: security
+Player 17: breach.
+Player 18: aol
+Player 19: acknowledged
+Player 20: " issue, "
+Player 21: said
+Player 22: corrective
+Player 23: action
+Player 24: taken.
+---------- Rewards ----------
+v(): 2.993673086166382	 ([])
+v(4 5 6 18 21): 2.873898506164551	 ([online][financial][portfolio][aol][said])
+v(0 1 2 8 9 22 24): 7.079355239868164	 ([aol][user][logged][access][someone][corrective][taken.])
+v(12 14 15 16 17 19 20): 0.597036600112915	 ([calling][correct][sees][security][breach.][acknowledged][" issue, "])
+v(3 7 10 11 13 23): 7.270224094390869	 ([check][given][else's][data][aol][action])
+v(0 1 2 4 5 6 8 9 18 21 22 24): 4.259768009185791	 ([aol][user][logged][online][financial][portfolio][access][someone][aol][said][corrective][taken.])
+v(4 5 6 12 14 15 16 17 18 19 20 21): 4.600648403167725	 ([online][financial][portfolio][calling][correct][sees][security][breach.][aol][acknowledged][" issue, "][said])
+v(3 4 5 6 7 10 11 13 18 21 23): 3.742272138595581	 ([check][online][financial][portfolio][given][else's][data][aol][aol][said][action])
+v(0 1 2 8 9 12 14 15 16 17 19 20 22 24): 7.422312259674072	 ([aol][user][logged][access][someone][calling][correct][sees][security][breach.][acknowledged][" issue, "][corrective][taken.])
+v(0 1 2 3 7 8 9 10 11 13 22 23 24): 7.812425136566162	 ([aol][user][logged][check][given][access][someone][else's][data][aol][corrective][action][taken.])
+v(3 7 10 11 12 13 14 15 16 17 19 20 23): 8.237167358398438	 ([check][given][else's][data][calling][aol][correct][sees][security][breach.][acknowledged][" issue, "][action])
+v(0 1 2 4 5 6 8 9 12 14 15 16 17 18 19 20 21 22 24): 4.449531555175781	 ([aol][user][logged][online][financial][portfolio][access][someone][calling][correct][sees][security][breach.][aol][acknowledged][" issue, "][said][corrective][taken.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 18 21 22 23 24): 3.1346397399902344	 ([aol][user][logged][check][online][financial][portfolio][given][access][someone][else's][data][aol][aol][said][corrective][action][taken.])
+v(3 4 5 6 7 10 11 12 13 14 15 16 17 18 19 20 21 23): 5.605320930480957	 ([check][online][financial][portfolio][given][else's][data][calling][aol][correct][sees][security][breach.][aol][acknowledged][" issue, "][said][action])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17 19 20 22 23 24): 8.010210037231445	 ([aol][user][logged][check][given][access][someone][else's][data][calling][aol][correct][sees][security][breach.][acknowledged][" issue, "][corrective][action][taken.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 3.6049866676330566	 ([aol][user][logged][check][online][financial][portfolio][given][access][someone][else's][data][calling][aol][correct][sees][security][breach.][aol][acknowledged][" issue, "][said][corrective][action][taken.])
+---------- Rewards-v() ----------
+v(3 7 10 11 12 13 14 15 16 17 19 20 23): 5.243494033813477, EP: 8.577421188354492	 ([check][given][else's][data][calling][aol][correct][sees][security][breach.][acknowledged][" issue, "][action])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 17 19 20 22 23 24): 5.016536712646484, EP: 8.206159591674805	 ([aol][user][logged][check][given][access][someone][else's][data][calling][aol][correct][sees][security][breach.][acknowledged][" issue, "][corrective][action][taken.])
+v(0 1 2 3 7 8 9 10 11 13 22 23 24): 4.818752288818359, EP: 7.882619380950928	 ([aol][user][logged][check][given][access][someone][else's][data][aol][corrective][action][taken.])
+v(0 1 2 8 9 12 14 15 16 17 19 20 22 24): 4.4286394119262695, EP: 7.24446439743042	 ([aol][user][logged][access][someone][calling][correct][sees][security][breach.][acknowledged][" issue, "][corrective][taken.])
+v(3 7 10 11 13 23): 4.276551246643066, EP: 6.995675086975098	 ([check][given][else's][data][aol][action])
+v(0 1 2 8 9 22 24): 4.085681915283203, EP: 6.683446884155273	 ([aol][user][logged][access][someone][corrective][taken.])
+v(3 4 5 6 7 10 11 12 13 14 15 16 17 18 19 20 21 23): 2.611647844314575, EP: 4.272190093994141	 ([check][online][financial][portfolio][given][else's][data][calling][aol][correct][sees][security][breach.][aol][acknowledged][" issue, "][said][action])
+v(12 14 15 16 17 19 20): -2.396636486053467, EP: -3.9204699993133545	 ([calling][correct][sees][security][breach.][acknowledged][" issue, "])
+v(4 5 6 12 14 15 16 17 18 19 20 21): 1.6069753170013428, EP: 2.628725051879883	 ([online][financial][portfolio][calling][correct][sees][security][breach.][aol][acknowledged][" issue, "][said])
+v(0 1 2 4 5 6 8 9 12 14 15 16 17 18 19 20 21 22 24): 1.4558584690093994, EP: 2.3815248012542725	 ([aol][user][logged][online][financial][portfolio][access][someone][calling][correct][sees][security][breach.][aol][acknowledged][" issue, "][said][corrective][taken.])
+v(0 1 2 4 5 6 8 9 18 21 22 24): 1.2660949230194092, EP: 2.071105480194092	 ([aol][user][logged][online][financial][portfolio][access][someone][aol][said][corrective][taken.])
+v(3 4 5 6 7 10 11 13 18 21 23): 0.7485990524291992, EP: 1.2245745658874512	 ([check][online][financial][portfolio][given][else's][data][aol][aol][said][action])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 0.6113135814666748, EP: 1.0	 ([aol][user][logged][check][online][financial][portfolio][given][access][someone][else's][data][calling][aol][correct][sees][security][breach.][aol][acknowledged][" issue, "][said][corrective][action][taken.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 18 21 22 23 24): 0.14096665382385254, EP: 0.23059630393981934	 ([aol][user][logged][check][online][financial][portfolio][given][access][someone][else's][data][aol][aol][said][corrective][action][taken.])
+v(4 5 6 18 21): -0.11977458000183105, EP: -0.1959298551082611	 ([online][financial][portfolio][aol][said])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

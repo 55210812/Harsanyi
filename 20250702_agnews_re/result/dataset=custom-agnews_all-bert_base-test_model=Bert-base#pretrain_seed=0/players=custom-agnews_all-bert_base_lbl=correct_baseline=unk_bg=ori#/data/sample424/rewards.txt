@@ -1,0 +1,50 @@
+---------- Players ----------
+Player 0: description :
+Player 1: lifestyle
+Player 2: maven
+Player 3: martha
+Player 4: stewart
+Player 5: preparing
+Player 6: serve
+Player 7: time
+Player 8: federal
+Player 9: prison
+Player 10: women
+Player 11: alderson,
+Player 12: wv
+Player 13: npr
+Player 14: # 39 ; s
+Player 15: noah
+Player 16: adams
+Player 17: speaks
+Player 18: hillary
+Player 19: john
+Player 20: benish,
+Player 21: proprietors
+Player 22: alderson
+Player 23: hospitality
+Player 24: house
+Player 25: - -
+Player 26: hostel
+Player 27: prison
+Player 28: visitors
+Player 29: - -
+---------- Rewards ----------
+v(): -5.76030969619751	 ([])
+v(0 3 4 5 7 14 15 16 17 18 19 22): 8.501229286193848	 ([description :][martha][stewart][preparing][time][# 39 ; s][noah][adams][speaks][hillary][john][alderson])
+v(1 2 8 9 10 11 12 13 20 21 26): -0.7894567251205444	 ([lifestyle][maven][federal][prison][women][alderson,][wv][npr][benish,][proprietors][hostel])
+v(6 23 24 25 27 28 29): -5.0664262771606445	 ([serve][hospitality][house][- -][prison][visitors][- -])
+v(0 1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 26): 7.95123291015625	 ([description :][lifestyle][maven][martha][stewart][preparing][time][federal][prison][women][alderson,][wv][npr][# 39 ; s][noah][adams][speaks][hillary][john][benish,][proprietors][alderson][hostel])
+v(0 3 4 5 6 7 14 15 16 17 18 19 22 23 24 25 27 28 29): 8.557975769042969	 ([description :][martha][stewart][preparing][serve][time][# 39 ; s][noah][adams][speaks][hillary][john][alderson][hospitality][house][- -][prison][visitors][- -])
+v(1 2 6 8 9 10 11 12 13 20 21 23 24 25 26 27 28 29): -2.5287976264953613	 ([lifestyle][maven][serve][federal][prison][women][alderson,][wv][npr][benish,][proprietors][hospitality][house][- -][hostel][prison][visitors][- -])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29): 7.921463966369629	 ([description :][lifestyle][maven][martha][stewart][preparing][serve][time][federal][prison][women][alderson,][wv][npr][# 39 ; s][noah][adams][speaks][hillary][john][benish,][proprietors][alderson][hospitality][house][- -][hostel][prison][visitors][- -])
+---------- Rewards-v() ----------
+v(0 3 4 5 6 7 14 15 16 17 18 19 22 23 24 25 27 28 29): 14.31828498840332, EP: 1.0465224981307983	 ([description :][martha][stewart][preparing][serve][time][# 39 ; s][noah][adams][speaks][hillary][john][alderson][hospitality][house][- -][prison][visitors][- -])
+v(0 3 4 5 7 14 15 16 17 18 19 22): 14.261539459228516, EP: 1.0423749685287476	 ([description :][martha][stewart][preparing][time][# 39 ; s][noah][adams][speaks][hillary][john][alderson])
+v(0 1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 26): 13.711542129516602, EP: 1.0021756887435913	 ([description :][lifestyle][maven][martha][stewart][preparing][time][federal][prison][women][alderson,][wv][npr][# 39 ; s][noah][adams][speaks][hillary][john][benish,][proprietors][alderson][hostel])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29): 13.681774139404297, EP: 1.0	 ([description :][lifestyle][maven][martha][stewart][preparing][serve][time][federal][prison][women][alderson,][wv][npr][# 39 ; s][noah][adams][speaks][hillary][john][benish,][proprietors][alderson][hospitality][house][- -][hostel][prison][visitors][- -])
+v(1 2 8 9 10 11 12 13 20 21 26): 4.970852851867676, EP: 0.3633193075656891	 ([lifestyle][maven][federal][prison][women][alderson,][wv][npr][benish,][proprietors][hostel])
+v(1 2 6 8 9 10 11 12 13 20 21 23 24 25 26 27 28 29): 3.2315120697021484, EP: 0.2361910045146942	 ([lifestyle][maven][serve][federal][prison][women][alderson,][wv][npr][benish,][proprietors][hospitality][house][- -][hostel][prison][visitors][- -])
+v(6 23 24 25 27 28 29): 0.6938834190368652, EP: 0.050715893507003784	 ([serve][hospitality][house][- -][prison][visitors][- -])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

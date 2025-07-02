@@ -1,0 +1,25 @@
+---------- Players ----------
+Player 0: day
+Player 1: five
+Player 2: games
+Player 3: see
+Player 4: 21
+Player 5: golds
+Player 6: offer
+Player 7: kate
+Player 8: howey
+Player 9: pippa
+Player 10: funnell
+Player 11: aiming
+Player 12: medals.
+---------- Rewards ----------
+v(): -5.535081386566162	 ([])
+v(0 4 5 6 10): -6.345211982727051	 ([day][21][golds][offer][funnell])
+v(1 2 3 7 8 9 11 12): 1.596121072769165	 ([five][games][see][kate][howey][pippa][aiming][medals.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 2.5084245204925537	 ([day][five][games][see][21][golds][offer][kate][howey][pippa][funnell][aiming][medals.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 8.043505668640137, EP: 1.0	 ([day][five][games][see][21][golds][offer][kate][howey][pippa][funnell][aiming][medals.])
+v(1 2 3 7 8 9 11 12): 7.131202697753906, EP: 0.8865789175033569	 ([five][games][see][kate][howey][pippa][aiming][medals.])
+v(0 4 5 6 10): -0.8101305961608887, EP: -0.10071859508752823	 ([day][21][golds][offer][funnell])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

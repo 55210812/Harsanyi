@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: arizona
+Player 3: diamondbacks
+Player 4: made
+Player 5: new
+Player 6: contract
+Player 7: offer
+Player 8: slugger
+Player 9: richie
+Player 10: sexson
+Player 11: tuesday,
+Player 12: planned
+Player 13: interviews
+Player 14: two
+Player 15: three
+Player 16: finalists
+Player 17: become
+Player 18: team's
+Player 19: manager.
+---------- Rewards ----------
+v(): -2.4542343616485596	 ([])
+v(1 2 3 8 9 10 11 14 19): 9.736693382263184	 ([-][arizona][diamondbacks][slugger][richie][sexson][tuesday,][two][manager.])
+v(4 6 7 15): 0.7293045520782471	 ([made][contract][offer][three])
+v(0 5 12 13 16 17 18): 1.9360250234603882	 ([ap][new][planned][interviews][finalists][become][team's])
+v(1 2 3 4 6 7 8 9 10 11 14 15 19): 9.742204666137695	 ([-][arizona][diamondbacks][made][contract][offer][slugger][richie][sexson][tuesday,][two][three][manager.])
+v(0 1 2 3 5 8 9 10 11 12 13 14 16 17 18 19): 9.775285720825195	 ([ap][-][arizona][diamondbacks][new][slugger][richie][sexson][tuesday,][planned][interviews][two][finalists][become][team's][manager.])
+v(0 4 5 6 7 12 13 15 16 17 18): 8.97762680053711	 ([ap][made][new][contract][offer][planned][interviews][three][finalists][become][team's])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.665989875793457	 ([ap][-][arizona][diamondbacks][made][new][contract][offer][slugger][richie][sexson][tuesday,][planned][interviews][two][three][finalists][become][team's][manager.])
+---------- Rewards-v() ----------
+v(0 1 2 3 5 8 9 10 11 12 13 14 16 17 18 19): 12.229519844055176, EP: 1.0090175867080688	 ([ap][-][arizona][diamondbacks][new][slugger][richie][sexson][tuesday,][planned][interviews][two][finalists][become][team's][manager.])
+v(1 2 3 4 6 7 8 9 10 11 14 15 19): 12.196438789367676, EP: 1.0062882900238037	 ([-][arizona][diamondbacks][made][contract][offer][slugger][richie][sexson][tuesday,][two][three][manager.])
+v(1 2 3 8 9 10 11 14 19): 12.190927505493164, EP: 1.0058335065841675	 ([-][arizona][diamondbacks][slugger][richie][sexson][tuesday,][two][manager.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 12.120223999023438, EP: 1.0	 ([ap][-][arizona][diamondbacks][made][new][contract][offer][slugger][richie][sexson][tuesday,][planned][interviews][two][three][finalists][become][team's][manager.])
+v(0 4 5 6 7 12 13 15 16 17 18): 11.43186092376709, EP: 0.9432054162025452	 ([ap][made][new][contract][offer][planned][interviews][three][finalists][become][team's])
+v(0 5 12 13 16 17 18): 4.390259265899658, EP: 0.3622259199619293	 ([ap][new][planned][interviews][finalists][become][team's])
+v(4 6 7 15): 3.1835389137268066, EP: 0.2626633644104004	 ([made][contract][offer][three])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

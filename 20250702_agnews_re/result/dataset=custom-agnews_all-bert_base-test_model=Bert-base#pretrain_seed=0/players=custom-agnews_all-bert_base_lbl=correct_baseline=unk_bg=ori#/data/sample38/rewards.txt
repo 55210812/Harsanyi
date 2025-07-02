@@ -1,0 +1,30 @@
+---------- Players ----------
+Player 0: asian
+Player 1: stock
+Player 2: markets
+Player 3: closed
+Player 4: mixed
+Player 5: monday,
+Player 6: key
+Player 7: indexes
+Player 8: dipping
+Player 9: hong
+Player 10: kong
+Player 11: singapore.
+Player 12: japanese
+Player 13: financial
+Player 14: markets
+Player 15: closed
+Player 16: national
+Player 17: holiday.
+---------- Rewards ----------
+v(): -5.498306751251221	 ([])
+v(2 4 9 10 11 12 13 14 15 17): 1.708353042602539	 ([markets][mixed][hong][kong][singapore.][japanese][financial][markets][closed][holiday.])
+v(0 1 3 5 6 7 8 16): 6.850948810577393	 ([asian][stock][closed][monday,][key][indexes][dipping][national])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 6.589050769805908	 ([asian][stock][markets][closed][mixed][monday,][key][indexes][dipping][hong][kong][singapore.][japanese][financial][markets][closed][national][holiday.])
+---------- Rewards-v() ----------
+v(0 1 3 5 6 7 8 16): 12.349255561828613, EP: 1.0216671228408813	 ([asian][stock][closed][monday,][key][indexes][dipping][national])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 12.087357521057129, EP: 1.0	 ([asian][stock][markets][closed][mixed][monday,][key][indexes][dipping][hong][kong][singapore.][japanese][financial][markets][closed][national][holiday.])
+v(2 4 9 10 11 12 13 14 15 17): 7.20665979385376, EP: 0.5962146520614624	 ([markets][mixed][hong][kong][singapore.][japanese][financial][markets][closed][holiday.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

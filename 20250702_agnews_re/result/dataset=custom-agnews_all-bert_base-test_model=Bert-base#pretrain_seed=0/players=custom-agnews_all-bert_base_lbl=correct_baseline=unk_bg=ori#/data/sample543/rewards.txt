@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: ( reuters )
+Player 3: -
+Player 4: chicago
+Player 5: cubs
+Player 6: registered
+Player 7: important
+Player 8: victory
+Player 9: battle
+Player 10: national
+Player 11: league
+Player 12: wild - card
+Player 13: berth,
+Player 14: edging
+Player 15: expos
+Player 16: 2 - 1
+Player 17: 11
+Player 18: innings
+Player 19: montreal
+Player 20: wednesday.
+---------- Rewards ----------
+v(): -4.214356899261475	 ([])
+v(5 8 9 11 15 17 18): 9.07667350769043	 ([cubs][victory][battle][league][expos][11][innings])
+v(0 1 2 3 4 10 12 13 14 19 20): 8.654013633728027	 ([new][york][( reuters )][-][chicago][national][wild - card][berth,][edging][montreal][wednesday.])
+v(6 7 16): 1.6066131591796875	 ([registered][important][2 - 1])
+v(0 1 2 3 4 5 8 9 10 11 12 13 14 15 17 18 19 20): 9.482840538024902	 ([new][york][( reuters )][-][chicago][cubs][victory][battle][national][league][wild - card][berth,][edging][expos][11][innings][montreal][wednesday.])
+v(5 6 7 8 9 11 15 16 17 18): 8.839432716369629	 ([cubs][registered][important][victory][battle][league][expos][2 - 1][11][innings])
+v(0 1 2 3 4 6 7 10 12 13 14 16 19 20): 9.174629211425781	 ([new][york][( reuters )][-][chicago][registered][important][national][wild - card][berth,][edging][2 - 1][montreal][wednesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.442630767822266	 ([new][york][( reuters )][-][chicago][cubs][registered][important][victory][battle][national][league][wild - card][berth,][edging][expos][2 - 1][11][innings][montreal][wednesday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 8 9 10 11 12 13 14 15 17 18 19 20): 13.697196960449219, EP: 1.0029442310333252	 ([new][york][( reuters )][-][chicago][cubs][victory][battle][national][league][wild - card][berth,][edging][expos][11][innings][montreal][wednesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 13.656988143920898, EP: 1.0	 ([new][york][( reuters )][-][chicago][cubs][registered][important][victory][battle][national][league][wild - card][berth,][edging][expos][2 - 1][11][innings][montreal][wednesday.])
+v(0 1 2 3 4 6 7 10 12 13 14 16 19 20): 13.388986587524414, EP: 0.9803762435913086	 ([new][york][( reuters )][-][chicago][registered][important][national][wild - card][berth,][edging][2 - 1][montreal][wednesday.])
+v(5 8 9 11 15 17 18): 13.291030883789062, EP: 0.9732036590576172	 ([cubs][victory][battle][league][expos][11][innings])
+v(5 6 7 8 9 11 15 16 17 18): 13.053789138793945, EP: 0.9558321833610535	 ([cubs][registered][important][victory][battle][league][expos][2 - 1][11][innings])
+v(0 1 2 3 4 10 12 13 14 19 20): 12.868370056152344, EP: 0.9422553181648254	 ([new][york][( reuters )][-][chicago][national][wild - card][berth,][edging][montreal][wednesday.])
+v(6 7 16): 5.820970058441162, EP: 0.42622649669647217	 ([registered][important][2 - 1])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

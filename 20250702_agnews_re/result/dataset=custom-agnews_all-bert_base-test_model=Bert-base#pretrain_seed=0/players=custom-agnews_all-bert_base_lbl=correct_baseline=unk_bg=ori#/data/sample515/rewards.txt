@@ -1,0 +1,62 @@
+---------- Players ----------
+Player 0: australia
+Player 1: # 39 ; s
+Player 2: michelle
+Player 3: ellis
+Player 4: three
+Player 5: strokes
+Player 6: pace
+Player 7: first
+Player 8: round
+Player 9: lpga
+Player 10: event
+Player 11: portland,
+Player 12: oregon.
+Player 13: ellis
+Player 14: fired
+Player 15: 4 - under - par
+Player 16: 68
+Player 17: two
+Player 18: shots
+Player 19: behind
+Player 20: outright
+Player 21: leader,
+Player 22: american
+Player 23: brandi
+Player 24: jackson
+Player 25: 6 - under.
+---------- Rewards ----------
+v(): -6.137249946594238	 ([])
+v(1 7 9 10 25): 8.726104736328125	 ([# 39 ; s][first][lpga][event][6 - under.])
+v(0 6 8 11 12 15 22): 2.216014862060547	 ([australia][pace][round][portland,][oregon.][4 - under - par][american])
+v(4 5 23 24): 1.606147289276123	 ([three][strokes][brandi][jackson])
+v(2 3 13 14 16 17 18 19 20 21): -0.8477503061294556	 ([michelle][ellis][ellis][fired][68][two][shots][behind][outright][leader,])
+v(0 1 6 7 8 9 10 11 12 15 22 25): 9.464624404907227	 ([australia][# 39 ; s][pace][first][round][lpga][event][portland,][oregon.][4 - under - par][american][6 - under.])
+v(1 4 5 7 9 10 23 24 25): 9.494344711303711	 ([# 39 ; s][three][strokes][first][lpga][event][brandi][jackson][6 - under.])
+v(1 2 3 7 9 10 13 14 16 17 18 19 20 21 25): 9.563776969909668	 ([# 39 ; s][michelle][ellis][first][lpga][event][ellis][fired][68][two][shots][behind][outright][leader,][6 - under.])
+v(0 4 5 6 8 11 12 15 22 23 24): 5.310883045196533	 ([australia][three][strokes][pace][round][portland,][oregon.][4 - under - par][american][brandi][jackson])
+v(0 2 3 6 8 11 12 13 14 15 16 17 18 19 20 21 22): 8.321840286254883	 ([australia][michelle][ellis][pace][round][portland,][oregon.][ellis][fired][4 - under - par][68][two][shots][behind][outright][leader,][american])
+v(2 3 4 5 13 14 16 17 18 19 20 21 23 24): 5.215314865112305	 ([michelle][ellis][three][strokes][ellis][fired][68][two][shots][behind][outright][leader,][brandi][jackson])
+v(0 1 4 5 6 7 8 9 10 11 12 15 22 23 24 25): 9.542912483215332	 ([australia][# 39 ; s][three][strokes][pace][first][round][lpga][event][portland,][oregon.][4 - under - par][american][brandi][jackson][6 - under.])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 25): 9.608031272888184	 ([australia][# 39 ; s][michelle][ellis][pace][first][round][lpga][event][portland,][oregon.][ellis][fired][4 - under - par][68][two][shots][behind][outright][leader,][american][6 - under.])
+v(1 2 3 4 5 7 9 10 13 14 16 17 18 19 20 21 23 24 25): 9.578882217407227	 ([# 39 ; s][michelle][ellis][three][strokes][first][lpga][event][ellis][fired][68][two][shots][behind][outright][leader,][brandi][jackson][6 - under.])
+v(0 2 3 4 5 6 8 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 9.426445960998535	 ([australia][michelle][ellis][three][strokes][pace][round][portland,][oregon.][ellis][fired][4 - under - par][68][two][shots][behind][outright][leader,][american][brandi][jackson])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 9.607240676879883	 ([australia][# 39 ; s][michelle][ellis][three][strokes][pace][first][round][lpga][event][portland,][oregon.][ellis][fired][4 - under - par][68][two][shots][behind][outright][leader,][american][brandi][jackson][6 - under.])
+---------- Rewards-v() ----------
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 25): 15.745281219482422, EP: 1.0000501871109009	 ([australia][# 39 ; s][michelle][ellis][pace][first][round][lpga][event][portland,][oregon.][ellis][fired][4 - under - par][68][two][shots][behind][outright][leader,][american][6 - under.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 15.744490623474121, EP: 1.0	 ([australia][# 39 ; s][michelle][ellis][three][strokes][pace][first][round][lpga][event][portland,][oregon.][ellis][fired][4 - under - par][68][two][shots][behind][outright][leader,][american][brandi][jackson][6 - under.])
+v(1 2 3 4 5 7 9 10 13 14 16 17 18 19 20 21 23 24 25): 15.716132164001465, EP: 0.9981988072395325	 ([# 39 ; s][michelle][ellis][three][strokes][first][lpga][event][ellis][fired][68][two][shots][behind][outright][leader,][brandi][jackson][6 - under.])
+v(1 2 3 7 9 10 13 14 16 17 18 19 20 21 25): 15.701026916503906, EP: 0.9972394108772278	 ([# 39 ; s][michelle][ellis][first][lpga][event][ellis][fired][68][two][shots][behind][outright][leader,][6 - under.])
+v(0 1 4 5 6 7 8 9 10 11 12 15 22 23 24 25): 15.68016242980957, EP: 0.9959142208099365	 ([australia][# 39 ; s][three][strokes][pace][first][round][lpga][event][portland,][oregon.][4 - under - par][american][brandi][jackson][6 - under.])
+v(1 4 5 7 9 10 23 24 25): 15.63159465789795, EP: 0.9928295016288757	 ([# 39 ; s][three][strokes][first][lpga][event][brandi][jackson][6 - under.])
+v(0 1 6 7 8 9 10 11 12 15 22 25): 15.601874351501465, EP: 0.9909418225288391	 ([australia][# 39 ; s][pace][first][round][lpga][event][portland,][oregon.][4 - under - par][american][6 - under.])
+v(0 2 3 4 5 6 8 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 15.563695907592773, EP: 0.9885169267654419	 ([australia][michelle][ellis][three][strokes][pace][round][portland,][oregon.][ellis][fired][4 - under - par][68][two][shots][behind][outright][leader,][american][brandi][jackson])
+v(1 7 9 10 25): 14.863354682922363, EP: 0.9440352916717529	 ([# 39 ; s][first][lpga][event][6 - under.])
+v(0 2 3 6 8 11 12 13 14 15 16 17 18 19 20 21 22): 14.459090232849121, EP: 0.9183587431907654	 ([australia][michelle][ellis][pace][round][portland,][oregon.][ellis][fired][4 - under - par][68][two][shots][behind][outright][leader,][american])
+v(0 4 5 6 8 11 12 15 22 23 24): 11.44813346862793, EP: 0.7271199822425842	 ([australia][three][strokes][pace][round][portland,][oregon.][4 - under - par][american][brandi][jackson])
+v(2 3 4 5 13 14 16 17 18 19 20 21 23 24): 11.352564811706543, EP: 0.721049964427948	 ([michelle][ellis][three][strokes][ellis][fired][68][two][shots][behind][outright][leader,][brandi][jackson])
+v(0 6 8 11 12 15 22): 8.353264808654785, EP: 0.5305516123771667	 ([australia][pace][round][portland,][oregon.][4 - under - par][american])
+v(4 5 23 24): 7.743397235870361, EP: 0.49181631207466125	 ([three][strokes][brandi][jackson])
+v(2 3 13 14 16 17 18 19 20 21): 5.289499759674072, EP: 0.3359587788581848	 ([michelle][ellis][ellis][fired][68][two][shots][behind][outright][leader,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

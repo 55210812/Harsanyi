@@ -1,0 +1,45 @@
+---------- Players ----------
+Player 0: britain
+Player 1: # 39 ; s
+Player 2: prime
+Player 3: minister
+Player 4: tony
+Player 5: blair
+Player 6: holds
+Player 7: biometric
+Player 8: card
+Player 9: passport
+Player 10: office
+Player 11: central
+Player 12: london,
+Player 13: monday
+Player 14: oct.
+Player 15: 25,
+Player 16: 2004.
+Player 17: blair
+Player 18: visited
+Player 19: passport
+Player 20: office
+Player 21: undertaking
+Player 22: biometrics
+Player 23: enrollment
+Player 24: trial
+---------- Rewards ----------
+v(): -2.1332077980041504	 ([])
+v(4 5 8 10 12 16 20 23): 7.94437313079834	 ([tony][blair][card][office][london,][2004.][office][enrollment])
+v(7 11 13 17 22): -8.214237213134766	 ([biometric][central][monday][blair][biometrics])
+v(0 1 2 3 6 9 14 15 18 19 21 24): 6.790478706359863	 ([britain][# 39 ; s][prime][minister][holds][passport][oct.][25,][visited][passport][undertaking][trial])
+v(4 5 7 8 10 11 12 13 16 17 20 22 23): 6.6815996170043945	 ([tony][blair][biometric][card][office][central][london,][monday][2004.][blair][office][biometrics][enrollment])
+v(0 1 2 3 4 5 6 8 9 10 12 14 15 16 18 19 20 21 23 24): 7.784029960632324	 ([britain][# 39 ; s][prime][minister][tony][blair][holds][card][passport][office][london,][oct.][25,][2004.][visited][passport][office][undertaking][enrollment][trial])
+v(0 1 2 3 6 7 9 11 13 14 15 17 18 19 21 22 24): 7.729485988616943	 ([britain][# 39 ; s][prime][minister][holds][biometric][passport][central][monday][oct.][25,][blair][visited][passport][undertaking][biometrics][trial])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 7.824980735778809	 ([britain][# 39 ; s][prime][minister][tony][blair][holds][biometric][card][passport][office][central][london,][monday][oct.][25,][2004.][blair][visited][passport][office][undertaking][biometrics][enrollment][trial])
+---------- Rewards-v() ----------
+v(4 5 8 10 12 16 20 23): 10.077581405639648, EP: 1.0119893550872803	 ([tony][blair][card][office][london,][2004.][office][enrollment])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 9.958189010620117, EP: 1.0	 ([britain][# 39 ; s][prime][minister][tony][blair][holds][biometric][card][passport][office][central][london,][monday][oct.][25,][2004.][blair][visited][passport][office][undertaking][biometrics][enrollment][trial])
+v(0 1 2 3 4 5 6 8 9 10 12 14 15 16 18 19 20 21 23 24): 9.917238235473633, EP: 0.9958877563476562	 ([britain][# 39 ; s][prime][minister][tony][blair][holds][card][passport][office][london,][oct.][25,][2004.][visited][passport][office][undertaking][enrollment][trial])
+v(0 1 2 3 6 7 9 11 13 14 15 17 18 19 21 22 24): 9.862693786621094, EP: 0.9904103875160217	 ([britain][# 39 ; s][prime][minister][holds][biometric][passport][central][monday][oct.][25,][blair][visited][passport][undertaking][biometrics][trial])
+v(0 1 2 3 6 9 14 15 18 19 21 24): 8.923686981201172, EP: 0.8961154222488403	 ([britain][# 39 ; s][prime][minister][holds][passport][oct.][25,][visited][passport][undertaking][trial])
+v(4 5 7 8 10 11 12 13 16 17 20 22 23): 8.814807891845703, EP: 0.8851818442344666	 ([tony][blair][biometric][card][office][central][london,][monday][2004.][blair][office][biometrics][enrollment])
+v(7 11 13 17 22): -6.081029415130615, EP: -0.6106561422348022	 ([biometric][central][monday][blair][biometrics])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

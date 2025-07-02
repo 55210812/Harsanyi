@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: washington
+Player 1: -
+Player 2: new
+Player 3: \ $ 50
+Player 4: bill
+Player 5: touches
+Player 6: red,
+Player 7: blue
+Player 8: yellow
+Player 9: went
+Player 10: circulation
+Player 11: tuesday
+Player 12: soon
+Player 13: showing
+Player 14: banks,
+Player 15: cash
+Player 16: registers
+Player 17: wallets.
+---------- Rewards ----------
+v(): -3.9924607276916504	 ([])
+v(1 2 3 4 10 15 17): 1.21969473361969	 ([-][new][\ $ 50][bill][circulation][cash][wallets.])
+v(0 9 11 12 13 14 16): 5.435789585113525	 ([washington][went][tuesday][soon][showing][banks,][registers])
+v(5 6 7 8): -4.536193370819092	 ([touches][red,][blue][yellow])
+v(0 1 2 3 4 9 10 11 12 13 14 15 16 17): 7.422595500946045	 ([washington][-][new][\ $ 50][bill][went][circulation][tuesday][soon][showing][banks,][cash][registers][wallets.])
+v(1 2 3 4 5 6 7 8 10 15 17): 2.6951560974121094	 ([-][new][\ $ 50][bill][touches][red,][blue][yellow][circulation][cash][wallets.])
+v(0 5 6 7 8 9 11 12 13 14 16): 7.65828800201416	 ([washington][touches][red,][blue][yellow][went][tuesday][soon][showing][banks,][registers])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 7.510465145111084	 ([washington][-][new][\ $ 50][bill][touches][red,][blue][yellow][went][circulation][tuesday][soon][showing][banks,][cash][registers][wallets.])
+---------- Rewards-v() ----------
+v(0 5 6 7 8 9 11 12 13 14 16): 11.650749206542969, EP: 1.0128508806228638	 ([washington][touches][red,][blue][yellow][went][tuesday][soon][showing][banks,][registers])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 11.502925872802734, EP: 1.0	 ([washington][-][new][\ $ 50][bill][touches][red,][blue][yellow][went][circulation][tuesday][soon][showing][banks,][cash][registers][wallets.])
+v(0 1 2 3 4 9 10 11 12 13 14 15 16 17): 11.415056228637695, EP: 0.9923611283302307	 ([washington][-][new][\ $ 50][bill][went][circulation][tuesday][soon][showing][banks,][cash][registers][wallets.])
+v(0 9 11 12 13 14 16): 9.428250312805176, EP: 0.8196393251419067	 ([washington][went][tuesday][soon][showing][banks,][registers])
+v(1 2 3 4 5 6 7 8 10 15 17): 6.68761682510376, EP: 0.581384003162384	 ([-][new][\ $ 50][bill][touches][red,][blue][yellow][circulation][cash][wallets.])
+v(1 2 3 4 10 15 17): 5.212155342102051, EP: 0.4531156122684479	 ([-][new][\ $ 50][bill][circulation][cash][wallets.])
+v(5 6 7 8): -0.5437326431274414, EP: -0.0472690723836422	 ([touches][red,][blue][yellow])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

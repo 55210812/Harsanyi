@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: nervous
+Player 1: world
+Player 2: learned
+Player 3: greek
+Player 4: word
+Player 5: thank
+Player 6: repeated
+Player 7: endlessly
+Player 8: astonishingly
+Player 9: successful
+Player 10: athens
+Player 11: olympics
+Player 12: quelled
+Player 13: fears,
+Player 14: surprised
+Player 15: skeptics
+Player 16: greatly
+Player 17: honored
+Player 18: birthplace
+Player 19: games.
+---------- Rewards ----------
+v(): -2.2969412803649902	 ([])
+v(2 4 10 11 18 19): 3.6736321449279785	 ([learned][word][athens][olympics][birthplace][games.])
+v(0 1 8 9 12): -1.3667830228805542	 ([nervous][world][astonishingly][successful][quelled])
+v(3 5 6 7 13 14 15 16 17): -1.1013944149017334	 ([greek][thank][repeated][endlessly][fears,][surprised][skeptics][greatly][honored])
+v(0 1 2 4 8 9 10 11 12 18 19): 4.962865352630615	 ([nervous][world][learned][word][astonishingly][successful][athens][olympics][quelled][birthplace][games.])
+v(2 3 4 5 6 7 10 11 13 14 15 16 17 18 19): 3.3435375690460205	 ([learned][greek][word][thank][repeated][endlessly][athens][olympics][fears,][surprised][skeptics][greatly][honored][birthplace][games.])
+v(0 1 3 5 6 7 8 9 12 13 14 15 16 17): -0.0682336688041687	 ([nervous][world][greek][thank][repeated][endlessly][astonishingly][successful][quelled][fears,][surprised][skeptics][greatly][honored])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 3.78948974609375	 ([nervous][world][learned][greek][word][thank][repeated][endlessly][astonishingly][successful][athens][olympics][quelled][fears,][surprised][skeptics][greatly][honored][birthplace][games.])
+---------- Rewards-v() ----------
+v(0 1 2 4 8 9 10 11 12 18 19): 7.2598066329956055, EP: 1.1927855014801025	 ([nervous][world][learned][word][astonishingly][successful][athens][olympics][quelled][birthplace][games.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 6.08643102645874, EP: 1.0	 ([nervous][world][learned][greek][word][thank][repeated][endlessly][astonishingly][successful][athens][olympics][quelled][fears,][surprised][skeptics][greatly][honored][birthplace][games.])
+v(2 4 10 11 18 19): 5.970573425292969, EP: 0.9809646010398865	 ([learned][word][athens][olympics][birthplace][games.])
+v(2 3 4 5 6 7 10 11 13 14 15 16 17 18 19): 5.64047908782959, EP: 0.9267301559448242	 ([learned][greek][word][thank][repeated][endlessly][athens][olympics][fears,][surprised][skeptics][greatly][honored][birthplace][games.])
+v(0 1 3 5 6 7 8 9 12 13 14 15 16 17): 2.2287075519561768, EP: 0.36617642641067505	 ([nervous][world][greek][thank][repeated][endlessly][astonishingly][successful][quelled][fears,][surprised][skeptics][greatly][honored])
+v(3 5 6 7 13 14 15 16 17): 1.1955468654632568, EP: 0.19642822444438934	 ([greek][thank][repeated][endlessly][fears,][surprised][skeptics][greatly][honored])
+v(0 1 8 9 12): 0.930158257484436, EP: 0.15282490849494934	 ([nervous][world][astonishingly][successful][quelled])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

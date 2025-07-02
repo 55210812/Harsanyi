@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: russia
+Player 1: successfully
+Player 2: launched
+Player 3: new
+Player 4: model
+Player 5: booster
+Player 6: rocket,
+Player 7: soyuz - 2,
+Player 8: monday
+Player 9: following
+Player 10: two
+Player 11: postponements.
+Player 12: rocket
+Player 13: blasted
+Player 14: 9 : 30
+Player 15: pm
+Player 16: ( 1830
+Player 17: gmt )
+Player 18: plesetsk
+---------- Rewards ----------
+v(): 2.8916401863098145	 ([])
+v(7 12 13 14 15 16): 6.163249969482422	 ([soyuz - 2,][rocket][blasted][9 : 30][pm][( 1830])
+v(0 1 4 5 6 11 17 18): 4.954073905944824	 ([russia][successfully][model][booster][rocket,][postponements.][gmt )][plesetsk])
+v(2 3 8 9 10): 4.461023807525635	 ([launched][new][monday][following][two])
+v(0 1 4 5 6 7 11 12 13 14 15 16 17 18): 5.687178611755371	 ([russia][successfully][model][booster][rocket,][soyuz - 2,][postponements.][rocket][blasted][9 : 30][pm][( 1830][gmt )][plesetsk])
+v(2 3 7 8 9 10 12 13 14 15 16): 6.501824378967285	 ([launched][new][soyuz - 2,][monday][following][two][rocket][blasted][9 : 30][pm][( 1830])
+v(0 1 2 3 4 5 6 8 9 10 11 17 18): 6.231367588043213	 ([russia][successfully][launched][new][model][booster][rocket,][monday][following][two][postponements.][gmt )][plesetsk])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 5.438127040863037	 ([russia][successfully][launched][new][model][booster][rocket,][soyuz - 2,][monday][following][two][postponements.][rocket][blasted][9 : 30][pm][( 1830][gmt )][plesetsk])
+---------- Rewards-v() ----------
+v(2 3 7 8 9 10 12 13 14 15 16): 3.6101841926574707, EP: 1.4177117347717285	 ([launched][new][soyuz - 2,][monday][following][two][rocket][blasted][9 : 30][pm][( 1830])
+v(0 1 2 3 4 5 6 8 9 10 11 17 18): 3.3397274017333984, EP: 1.3115038871765137	 ([russia][successfully][launched][new][model][booster][rocket,][monday][following][two][postponements.][gmt )][plesetsk])
+v(7 12 13 14 15 16): 3.2716097831726074, EP: 1.2847542762756348	 ([soyuz - 2,][rocket][blasted][9 : 30][pm][( 1830])
+v(0 1 4 5 6 7 11 12 13 14 15 16 17 18): 2.7955384254455566, EP: 1.0978020429611206	 ([russia][successfully][model][booster][rocket,][soyuz - 2,][postponements.][rocket][blasted][9 : 30][pm][( 1830][gmt )][plesetsk])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 2.5464868545532227, EP: 1.0	 ([russia][successfully][launched][new][model][booster][rocket,][soyuz - 2,][monday][following][two][postponements.][rocket][blasted][9 : 30][pm][( 1830][gmt )][plesetsk])
+v(0 1 4 5 6 11 17 18): 2.0624337196350098, EP: 0.8099133372306824	 ([russia][successfully][model][booster][rocket,][postponements.][gmt )][plesetsk])
+v(2 3 8 9 10): 1.5693836212158203, EP: 0.6162936091423035	 ([launched][new][monday][following][two])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

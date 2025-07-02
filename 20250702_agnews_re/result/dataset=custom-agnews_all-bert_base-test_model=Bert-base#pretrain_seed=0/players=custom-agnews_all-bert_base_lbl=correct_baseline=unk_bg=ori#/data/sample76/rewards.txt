@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: battle
+Player 1: blu - ray
+Player 2: hd
+Player 3: dvd
+Player 4: define
+Player 5: next
+Player 6: generation
+Player 7: dvd
+Player 8: format
+Player 9: shows
+Player 10: signs
+Player 11: cooling
+Player 12: off.
+Player 13: electronics
+Player 14: computer
+Player 15: companies
+Player 16: sony,
+Player 17: dell
+Player 18: hp
+Player 19: back
+Player 20: blu - ray
+---------- Rewards ----------
+v(): 3.438420057296753	 ([])
+v(1 2 3 7 8 9 10 13 14 15 20): 7.262429714202881	 ([blu - ray][hd][dvd][dvd][format][shows][signs][electronics][computer][companies][blu - ray])
+v(0 16 17 18 19): 4.980052947998047	 ([battle][sony,][dell][hp][back])
+v(4 5 6 11 12): 6.137263298034668	 ([define][next][generation][cooling][off.])
+v(0 1 2 3 7 8 9 10 13 14 15 16 17 18 19 20): 7.104032039642334	 ([battle][blu - ray][hd][dvd][dvd][format][shows][signs][electronics][computer][companies][sony,][dell][hp][back][blu - ray])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 20): 7.171843528747559	 ([blu - ray][hd][dvd][define][next][generation][dvd][format][shows][signs][cooling][off.][electronics][computer][companies][blu - ray])
+v(0 4 5 6 11 12 16 17 18 19): 4.979400157928467	 ([battle][define][next][generation][cooling][off.][sony,][dell][hp][back])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 6.0179924964904785	 ([battle][blu - ray][hd][dvd][define][next][generation][dvd][format][shows][signs][cooling][off.][electronics][computer][companies][sony,][dell][hp][back][blu - ray])
+---------- Rewards-v() ----------
+v(1 2 3 7 8 9 10 13 14 15 20): 3.824009656906128, EP: 1.4824199676513672	 ([blu - ray][hd][dvd][dvd][format][shows][signs][electronics][computer][companies][blu - ray])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 20): 3.7334234714508057, EP: 1.4473031759262085	 ([blu - ray][hd][dvd][define][next][generation][dvd][format][shows][signs][cooling][off.][electronics][computer][companies][blu - ray])
+v(0 1 2 3 7 8 9 10 13 14 15 16 17 18 19 20): 3.665611982345581, EP: 1.4210153818130493	 ([battle][blu - ray][hd][dvd][dvd][format][shows][signs][electronics][computer][companies][sony,][dell][hp][back][blu - ray])
+v(4 5 6 11 12): 2.698843240737915, EP: 1.0462366342544556	 ([define][next][generation][cooling][off.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 2.5795724391937256, EP: 1.0	 ([battle][blu - ray][hd][dvd][define][next][generation][dvd][format][shows][signs][cooling][off.][electronics][computer][companies][sony,][dell][hp][back][blu - ray])
+v(0 16 17 18 19): 1.541632890701294, EP: 0.5976311564445496	 ([battle][sony,][dell][hp][back])
+v(0 4 5 6 11 12 16 17 18 19): 1.5409801006317139, EP: 0.597378134727478	 ([battle][define][next][generation][cooling][off.][sony,][dell][hp][back])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

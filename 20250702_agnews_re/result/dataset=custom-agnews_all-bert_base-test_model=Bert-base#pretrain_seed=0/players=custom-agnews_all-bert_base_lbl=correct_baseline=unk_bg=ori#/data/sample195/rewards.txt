@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: dont
+Player 1: put
+Player 2: fork
+Player 3: green
+Player 4: bay
+Player 5: packers
+Player 6: yet.
+Player 7: team
+Player 8: began
+Player 9: season
+Player 10: whipping
+Player 11: carolina
+Player 12: panthers
+Player 13: road
+Player 14: resurfaced
+Player 15: sunday
+Player 16: ford
+Player 17: field
+Player 18: detroit
+Player 19: lions.
+---------- Rewards ----------
+v(): -4.006759166717529	 ([])
+v(0 1 2 7 9 10 11 15 17): 8.855810165405273	 ([dont][put][fork][team][season][whipping][carolina][sunday][field])
+v(8 12 13 14 16 18 19): 9.67278003692627	 ([began][panthers][road][resurfaced][ford][detroit][lions.])
+v(3 4 5 6): 9.664167404174805	 ([green][bay][packers][yet.])
+v(0 1 2 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.709173202514648	 ([dont][put][fork][team][began][season][whipping][carolina][panthers][road][resurfaced][sunday][ford][field][detroit][lions.])
+v(0 1 2 3 4 5 6 7 9 10 11 15 17): 9.730935096740723	 ([dont][put][fork][green][bay][packers][yet.][team][season][whipping][carolina][sunday][field])
+v(3 4 5 6 8 12 13 14 16 18 19): 9.597734451293945	 ([green][bay][packers][yet.][began][panthers][road][resurfaced][ford][detroit][lions.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 9.723759651184082	 ([dont][put][fork][green][bay][packers][yet.][team][began][season][whipping][carolina][panthers][road][resurfaced][sunday][ford][field][detroit][lions.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 9 10 11 15 17): 13.737693786621094, EP: 1.0005226135253906	 ([dont][put][fork][green][bay][packers][yet.][team][season][whipping][carolina][sunday][field])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.730518341064453, EP: 1.0	 ([dont][put][fork][green][bay][packers][yet.][team][began][season][whipping][carolina][panthers][road][resurfaced][sunday][ford][field][detroit][lions.])
+v(0 1 2 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.715932846069336, EP: 0.998937726020813	 ([dont][put][fork][team][began][season][whipping][carolina][panthers][road][resurfaced][sunday][ford][field][detroit][lions.])
+v(8 12 13 14 16 18 19): 13.67953872680664, EP: 0.9962871074676514	 ([began][panthers][road][resurfaced][ford][detroit][lions.])
+v(3 4 5 6): 13.670927047729492, EP: 0.9956599473953247	 ([green][bay][packers][yet.])
+v(3 4 5 6 8 12 13 14 16 18 19): 13.604494094848633, EP: 0.9908215999603271	 ([green][bay][packers][yet.][began][panthers][road][resurfaced][ford][detroit][lions.])
+v(0 1 2 7 9 10 11 15 17): 12.862569808959961, EP: 0.9367868900299072	 ([dont][put][fork][team][season][whipping][carolina][sunday][field])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

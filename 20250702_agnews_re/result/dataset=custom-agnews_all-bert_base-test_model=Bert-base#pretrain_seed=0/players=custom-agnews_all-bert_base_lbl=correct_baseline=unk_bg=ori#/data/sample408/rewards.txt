@@ -1,0 +1,24 @@
+---------- Players ----------
+Player 0: scientists
+Player 1: reconstruct
+Player 2: sea
+Player 3: spider
+Player 4: faint
+Player 5: imprint
+Player 6: left
+Player 7: fossilised
+Player 8: 425
+Player 9: million
+Player 10: years
+Player 11: ago.
+---------- Rewards ----------
+v(): 4.868374824523926	 ([])
+v(0 1 2 3 5 7 8 9 10 11): 7.469066619873047	 ([scientists][reconstruct][sea][spider][imprint][fossilised][425][million][years][ago.])
+v(4 6): 6.174144744873047	 ([faint][left])
+v(0 1 2 3 4 5 6 7 8 9 10 11): 4.089569091796875	 ([scientists][reconstruct][sea][spider][faint][imprint][left][fossilised][425][million][years][ago.])
+---------- Rewards-v() ----------
+v(0 1 2 3 5 7 8 9 10 11): 2.600691795349121, EP: -3.3393330574035645	 ([scientists][reconstruct][sea][spider][imprint][fossilised][425][million][years][ago.])
+v(4 6): 1.305769920349121, EP: -1.6766310930252075	 ([faint][left])
+v(0 1 2 3 4 5 6 7 8 9 10 11): -0.7788057327270508, EP: 1.0	 ([scientists][reconstruct][sea][spider][faint][imprint][left][fossilised][425][million][years][ago.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: ( reuters )
+Player 3: -
+Player 4: u. s.
+Player 5: stocks
+Player 6: opened
+Player 7: higher
+Player 8: tuesday,
+Player 9: oil
+Player 10: prices
+Player 11: eased
+Player 12: insurance
+Player 13: stocks
+Player 14: extended
+Player 15: gains
+Player 16: rally
+Player 17: late
+Player 18: monday.
+---------- Rewards ----------
+v(): -3.297774076461792	 ([])
+v(1 2 5 9 12 13): 7.715688228607178	 ([york][( reuters )][stocks][oil][insurance][stocks])
+v(3 4 6 7 10 11): 5.229037284851074	 ([-][u. s.][opened][higher][prices][eased])
+v(8 16 17 18): 0.2577909231185913	 ([tuesday,][rally][late][monday.])
+v(0 14 15): -1.4521796703338623	 ([new][extended][gains])
+v(1 2 3 4 5 6 7 9 10 11 12 13): 8.4019775390625	 ([york][( reuters )][-][u. s.][stocks][opened][higher][oil][prices][eased][insurance][stocks])
+v(1 2 5 8 9 12 13 16 17 18): 6.826817512512207	 ([york][( reuters )][stocks][tuesday,][oil][insurance][stocks][rally][late][monday.])
+v(0 1 2 5 9 12 13 14 15): 7.674429416656494	 ([new][york][( reuters )][stocks][oil][insurance][stocks][extended][gains])
+v(3 4 6 7 8 10 11 16 17 18): 4.660523414611816	 ([-][u. s.][opened][higher][tuesday,][prices][eased][rally][late][monday.])
+v(0 3 4 6 7 10 11 14 15): 4.310776710510254	 ([new][-][u. s.][opened][higher][prices][eased][extended][gains])
+v(0 8 14 15 16 17 18): 3.0640311241149902	 ([new][tuesday,][extended][gains][rally][late][monday.])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 16 17 18): 8.382681846618652	 ([york][( reuters )][-][u. s.][stocks][opened][higher][tuesday,][oil][prices][eased][insurance][stocks][rally][late][monday.])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 14 15): 8.403573989868164	 ([new][york][( reuters )][-][u. s.][stocks][opened][higher][oil][prices][eased][insurance][stocks][extended][gains])
+v(0 1 2 5 8 9 12 13 14 15 16 17 18): 7.1410698890686035	 ([new][york][( reuters )][stocks][tuesday,][oil][insurance][stocks][extended][gains][rally][late][monday.])
+v(0 3 4 6 7 8 10 11 14 15 16 17 18): 4.746891975402832	 ([new][-][u. s.][opened][higher][tuesday,][prices][eased][extended][gains][rally][late][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 8.472597122192383	 ([new][york][( reuters )][-][u. s.][stocks][opened][higher][tuesday,][oil][prices][eased][insurance][stocks][extended][gains][rally][late][monday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 11.770371437072754, EP: 1.0	 ([new][york][( reuters )][-][u. s.][stocks][opened][higher][tuesday,][oil][prices][eased][insurance][stocks][extended][gains][rally][late][monday.])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 14 15): 11.701348304748535, EP: 0.994135856628418	 ([new][york][( reuters )][-][u. s.][stocks][opened][higher][oil][prices][eased][insurance][stocks][extended][gains])
+v(1 2 3 4 5 6 7 9 10 11 12 13): 11.699751853942871, EP: 0.9940001964569092	 ([york][( reuters )][-][u. s.][stocks][opened][higher][oil][prices][eased][insurance][stocks])
+v(1 2 3 4 5 6 7 8 9 10 11 12 13 16 17 18): 11.680456161499023, EP: 0.9923608899116516	 ([york][( reuters )][-][u. s.][stocks][opened][higher][tuesday,][oil][prices][eased][insurance][stocks][rally][late][monday.])
+v(1 2 5 9 12 13): 11.01346206665039, EP: 0.9356936812400818	 ([york][( reuters )][stocks][oil][insurance][stocks])
+v(0 1 2 5 9 12 13 14 15): 10.972203254699707, EP: 0.9321883320808411	 ([new][york][( reuters )][stocks][oil][insurance][stocks][extended][gains])
+v(0 1 2 5 8 9 12 13 14 15 16 17 18): 10.438843727111816, EP: 0.8868746161460876	 ([new][york][( reuters )][stocks][tuesday,][oil][insurance][stocks][extended][gains][rally][late][monday.])
+v(1 2 5 8 9 12 13 16 17 18): 10.124591827392578, EP: 0.8601760864257812	 ([york][( reuters )][stocks][tuesday,][oil][insurance][stocks][rally][late][monday.])
+v(3 4 6 7 10 11): 8.526811599731445, EP: 0.7244301438331604	 ([-][u. s.][opened][higher][prices][eased])
+v(0 3 4 6 7 8 10 11 14 15 16 17 18): 8.044666290283203, EP: 0.6834675073623657	 ([new][-][u. s.][opened][higher][tuesday,][prices][eased][extended][gains][rally][late][monday.])
+v(3 4 6 7 8 10 11 16 17 18): 7.9582977294921875, EP: 0.6761296987533569	 ([-][u. s.][opened][higher][tuesday,][prices][eased][rally][late][monday.])
+v(0 3 4 6 7 10 11 14 15): 7.608551025390625, EP: 0.6464155316352844	 ([new][-][u. s.][opened][higher][prices][eased][extended][gains])
+v(0 8 14 15 16 17 18): 6.361804962158203, EP: 0.5404931306838989	 ([new][tuesday,][extended][gains][rally][late][monday.])
+v(8 16 17 18): 3.5555648803710938, EP: 0.3020775318145752	 ([tuesday,][rally][late][monday.])
+v(0 14 15): 1.8455944061279297, EP: 0.1568000167608261	 ([new][extended][gains])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

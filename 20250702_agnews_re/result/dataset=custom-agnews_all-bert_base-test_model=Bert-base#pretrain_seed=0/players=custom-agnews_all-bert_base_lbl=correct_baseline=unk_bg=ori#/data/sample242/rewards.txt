@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: washington :
+Player 1: general
+Player 2: electric
+Player 3: co
+Player 4: ( ge ),
+Player 5: began
+Player 6: business
+Player 7: process
+Player 8: outsourcing
+Player 9: india
+Player 10: long
+Player 11: term
+Player 12: became
+Player 13: familiar
+Player 14: issue
+Player 15: hot
+Player 16: button
+Player 17: one,
+Player 18: planning
+Player 19: sell
+Player 20: india
+Player 21: operation.
+---------- Rewards ----------
+v(): -2.9342424869537354	 ([])
+v(1 2 3): 6.864144802093506	 ([general][electric][co])
+v(9 11 12 15 17 18 20 21): 6.227055549621582	 ([india][term][became][hot][one,][planning][india][operation.])
+v(0 4 5 6 7 8 10 13 14 16 19): -0.8413424491882324	 ([washington :][( ge ),][began][business][process][outsourcing][long][familiar][issue][button][sell])
+v(1 2 3 9 11 12 15 17 18 20 21): 7.007258892059326	 ([general][electric][co][india][term][became][hot][one,][planning][india][operation.])
+v(0 1 2 3 4 5 6 7 8 10 13 14 16 19): 4.632291316986084	 ([washington :][general][electric][co][( ge ),][began][business][process][outsourcing][long][familiar][issue][button][sell])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 3.9543659687042236	 ([washington :][( ge ),][began][business][process][outsourcing][india][long][term][became][familiar][issue][hot][button][one,][planning][sell][india][operation.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 6.651207447052002	 ([washington :][general][electric][co][( ge ),][began][business][process][outsourcing][india][long][term][became][familiar][issue][hot][button][one,][planning][sell][india][operation.])
+---------- Rewards-v() ----------
+v(1 2 3 9 11 12 15 17 18 20 21): 9.94150161743164, EP: 1.0371450185775757	 ([general][electric][co][india][term][became][hot][one,][planning][india][operation.])
+v(1 2 3): 9.79838752746582, EP: 1.022214651107788	 ([general][electric][co])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 9.585450172424316, EP: 1.0	 ([washington :][general][electric][co][( ge ),][began][business][process][outsourcing][india][long][term][became][familiar][issue][hot][button][one,][planning][sell][india][operation.])
+v(9 11 12 15 17 18 20 21): 9.161297798156738, EP: 0.9557504057884216	 ([india][term][became][hot][one,][planning][india][operation.])
+v(0 1 2 3 4 5 6 7 8 10 13 14 16 19): 7.566534042358398, EP: 0.7893770337104797	 ([washington :][general][electric][co][( ge ),][began][business][process][outsourcing][long][familiar][issue][button][sell])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 6.888608455657959, EP: 0.7186525464057922	 ([washington :][( ge ),][began][business][process][outsourcing][india][long][term][became][familiar][issue][hot][button][one,][planning][sell][india][operation.])
+v(0 4 5 6 7 8 10 13 14 16 19): 2.092900037765503, EP: 0.21834133565425873	 ([washington :][( ge ),][began][business][process][outsourcing][long][familiar][issue][button][sell])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

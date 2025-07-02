@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: business
+Player 3: software
+Player 4: maker
+Player 5: peoplesoft
+Player 6: inc.
+Player 7: strengthened
+Player 8: ties
+Player 9: technology
+Player 10: giant
+Player 11: ibm
+Player 12: corp.
+Player 13: tuesday,
+Player 14: hoping
+Player 15: boost
+Player 16: recently
+Player 17: sagging
+Player 18: sales
+Player 19: continues
+Player 20: fight
+Player 21: oracle
+Player 22: corp.'s
+Player 23: # 36 ; 7. 7
+Player 24: billion
+Player 25: hostile
+Player 26: takeover
+Player 27: bid.
+---------- Rewards ----------
+v(): 4.579220771789551	 ([])
+v(0 1 2 3 5 7 8 9 11 12 18 20 22 27): 3.1788392066955566	 ([ap][-][business][software][peoplesoft][strengthened][ties][technology][ibm][corp.][sales][fight][corp.'s][bid.])
+v(4 6 10 13 14 15 16 17 19 21 23 24 25 26): -5.595823764801025	 ([maker][inc.][giant][tuesday,][hoping][boost][recently][sagging][continues][oracle][# 36 ; 7. 7][billion][hostile][takeover])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 3.804394245147705	 ([ap][-][business][software][maker][peoplesoft][inc.][strengthened][ties][technology][giant][ibm][corp.][tuesday,][hoping][boost][recently][sagging][sales][continues][fight][oracle][corp.'s][# 36 ; 7. 7][billion][hostile][takeover][bid.])
+---------- Rewards-v() ----------
+v(4 6 10 13 14 15 16 17 19 21 23 24 25 26): -10.175045013427734, EP: 13.13202953338623	 ([maker][inc.][giant][tuesday,][hoping][boost][recently][sagging][continues][oracle][# 36 ; 7. 7][billion][hostile][takeover])
+v(0 1 2 3 5 7 8 9 11 12 18 20 22 27): -1.4003815650939941, EP: 1.8073484897613525	 ([ap][-][business][software][peoplesoft][strengthened][ties][technology][ibm][corp.][sales][fight][corp.'s][bid.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): -0.7748265266418457, EP: 1.0	 ([ap][-][business][software][maker][peoplesoft][inc.][strengthened][ties][technology][giant][ibm][corp.][tuesday,][hoping][boost][recently][sagging][sales][continues][fight][oracle][corp.'s][# 36 ; 7. 7][billion][hostile][takeover][bid.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

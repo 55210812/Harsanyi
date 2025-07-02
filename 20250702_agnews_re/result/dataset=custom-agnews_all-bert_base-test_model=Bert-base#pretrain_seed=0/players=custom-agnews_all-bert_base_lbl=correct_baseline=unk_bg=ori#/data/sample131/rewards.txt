@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: quot ; this
+Player 1: team
+Player 2: # 39 ; s
+Player 3: going
+Player 4: stray
+Player 5: far
+Player 6: roots.
+Player 7: hopefully,
+Player 8: would
+Player 9: bilingual,
+Player 10: practices
+Player 11: would
+Player 12: conducted
+Player 13: spanish.
+---------- Rewards ----------
+v(): -7.066189765930176	 ([])
+v(0 1 3 5 6 7 9 12 13): 4.443283557891846	 ([quot ; this][team][going][far][roots.][hopefully,][bilingual,][conducted][spanish.])
+v(2 4 8 10 11): -1.5891532897949219	 ([# 39 ; s][stray][would][practices][would])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 8.202628135681152	 ([quot ; this][team][# 39 ; s][going][stray][far][roots.][hopefully,][would][bilingual,][practices][would][conducted][spanish.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 15.268817901611328, EP: 1.0	 ([quot ; this][team][# 39 ; s][going][stray][far][roots.][hopefully,][would][bilingual,][practices][would][conducted][spanish.])
+v(0 1 3 5 6 7 9 12 13): 11.50947380065918, EP: 0.7537894248962402	 ([quot ; this][team][going][far][roots.][hopefully,][bilingual,][conducted][spanish.])
+v(2 4 8 10 11): 5.477036476135254, EP: 0.3587073087692261	 ([# 39 ; s][stray][would][practices][would])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,26 @@
+---------- Players ----------
+Player 0: united
+Player 1: states
+Player 2: confident
+Player 3: coming
+Player 4: away
+Player 5: first
+Player 6: olympic
+Player 7: women
+Player 8: # 39 ; s
+Player 9: wrestling
+Player 10: tournament
+Player 11: maximum
+Player 12: four
+Player 13: medals.
+---------- Rewards ----------
+v(): -5.0648908615112305	 ([])
+v(6 7 8 9 10 13): 7.185929775238037	 ([olympic][women][# 39 ; s][wrestling][tournament][medals.])
+v(0 1 2 3 4 5 11 12): 0.20908915996551514	 ([united][states][confident][coming][away][first][maximum][four])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 8.715472221374512	 ([united][states][confident][coming][away][first][olympic][women][# 39 ; s][wrestling][tournament][maximum][four][medals.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13): 13.780363082885742, EP: 1.0	 ([united][states][confident][coming][away][first][olympic][women][# 39 ; s][wrestling][tournament][maximum][four][medals.])
+v(6 7 8 9 10 13): 12.25082015991211, EP: 0.8890056014060974	 ([olympic][women][# 39 ; s][wrestling][tournament][medals.])
+v(0 1 2 3 4 5 11 12): 5.273980140686035, EP: 0.3827170729637146	 ([united][states][confident][coming][away][first][maximum][four])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

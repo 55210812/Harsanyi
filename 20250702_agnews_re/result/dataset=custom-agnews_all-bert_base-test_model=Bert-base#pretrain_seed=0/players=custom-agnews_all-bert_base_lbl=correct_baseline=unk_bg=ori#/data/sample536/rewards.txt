@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: cambodia
+Player 1: # 39 ; s
+Player 2: national
+Player 3: assembly
+Player 4: president
+Player 5: left
+Player 6: china
+Player 7: saturday
+Player 8: beg
+Player 9: king
+Player 10: norodom
+Player 11: sihanouk
+Player 12: change
+Player 13: mind
+Player 14: abdicating,
+Player 15: left
+Player 16: open
+Player 17: option
+Player 18: new
+Player 19: monarch
+Player 20: appointed.
+---------- Rewards ----------
+v(): -7.5310773849487305	 ([])
+v(2 3 4 5): 7.032120704650879	 ([national][assembly][president][left])
+v(0 6 8 10 11 15 19): 8.380387306213379	 ([cambodia][china][beg][norodom][sihanouk][left][monarch])
+v(7 9 12 13 16 17): -3.577393054962158	 ([saturday][king][change][mind][open][option])
+v(1 14 18 20): 0.5949839353561401	 ([# 39 ; s][abdicating,][new][appointed.])
+v(0 2 3 4 5 6 8 10 11 15 19): 8.533271789550781	 ([cambodia][national][assembly][president][left][china][beg][norodom][sihanouk][left][monarch])
+v(2 3 4 5 7 9 12 13 16 17): 7.973320960998535	 ([national][assembly][president][left][saturday][king][change][mind][open][option])
+v(1 2 3 4 5 14 18 20): 7.595189094543457	 ([# 39 ; s][national][assembly][president][left][abdicating,][new][appointed.])
+v(0 6 7 8 9 10 11 12 13 15 16 17 19): 8.449909210205078	 ([cambodia][china][saturday][beg][king][norodom][sihanouk][change][mind][left][open][option][monarch])
+v(0 1 6 8 10 11 14 15 18 19 20): 8.54068374633789	 ([cambodia][# 39 ; s][china][beg][norodom][sihanouk][abdicating,][left][new][monarch][appointed.])
+v(1 7 9 12 13 14 16 17 18 20): 7.358582973480225	 ([# 39 ; s][saturday][king][change][mind][abdicating,][open][option][new][appointed.])
+v(0 2 3 4 5 6 7 8 9 10 11 12 13 15 16 17 19): 8.503734588623047	 ([cambodia][national][assembly][president][left][china][saturday][beg][king][norodom][sihanouk][change][mind][left][open][option][monarch])
+v(0 1 2 3 4 5 6 8 10 11 14 15 18 19 20): 8.54251480102539	 ([cambodia][# 39 ; s][national][assembly][president][left][china][beg][norodom][sihanouk][abdicating,][left][new][monarch][appointed.])
+v(1 2 3 4 5 7 9 12 13 14 16 17 18 20): 8.107022285461426	 ([# 39 ; s][national][assembly][president][left][saturday][king][change][mind][abdicating,][open][option][new][appointed.])
+v(0 1 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.490981101989746	 ([cambodia][# 39 ; s][china][saturday][beg][king][norodom][sihanouk][change][mind][abdicating,][left][open][option][new][monarch][appointed.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.50070571899414	 ([cambodia][# 39 ; s][national][assembly][president][left][china][saturday][beg][king][norodom][sihanouk][change][mind][abdicating,][left][open][option][new][monarch][appointed.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 8 10 11 14 15 18 19 20): 16.073593139648438, EP: 1.0026079416275024	 ([cambodia][# 39 ; s][national][assembly][president][left][china][beg][norodom][sihanouk][abdicating,][left][new][monarch][appointed.])
+v(0 1 6 8 10 11 14 15 18 19 20): 16.071762084960938, EP: 1.0024936199188232	 ([cambodia][# 39 ; s][china][beg][norodom][sihanouk][abdicating,][left][new][monarch][appointed.])
+v(0 2 3 4 5 6 8 10 11 15 19): 16.064350128173828, EP: 1.0020313262939453	 ([cambodia][national][assembly][president][left][china][beg][norodom][sihanouk][left][monarch])
+v(0 2 3 4 5 6 7 8 9 10 11 12 13 15 16 17 19): 16.034812927246094, EP: 1.000188946723938	 ([cambodia][national][assembly][president][left][china][saturday][beg][king][norodom][sihanouk][change][mind][left][open][option][monarch])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 16.031784057617188, EP: 1.0	 ([cambodia][# 39 ; s][national][assembly][president][left][china][saturday][beg][king][norodom][sihanouk][change][mind][abdicating,][left][open][option][new][monarch][appointed.])
+v(0 1 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 16.022058486938477, EP: 0.9993933439254761	 ([cambodia][# 39 ; s][china][saturday][beg][king][norodom][sihanouk][change][mind][abdicating,][left][open][option][new][monarch][appointed.])
+v(0 6 7 8 9 10 11 12 13 15 16 17 19): 15.980986595153809, EP: 0.996831476688385	 ([cambodia][china][saturday][beg][king][norodom][sihanouk][change][mind][left][open][option][monarch])
+v(0 6 8 10 11 15 19): 15.91146469116211, EP: 0.9924949407577515	 ([cambodia][china][beg][norodom][sihanouk][left][monarch])
+v(1 2 3 4 5 7 9 12 13 14 16 17 18 20): 15.638099670410156, EP: 0.9754434823989868	 ([# 39 ; s][national][assembly][president][left][saturday][king][change][mind][abdicating,][open][option][new][appointed.])
+v(2 3 4 5 7 9 12 13 16 17): 15.504398345947266, EP: 0.9671037197113037	 ([national][assembly][president][left][saturday][king][change][mind][open][option])
+v(1 2 3 4 5 14 18 20): 15.126266479492188, EP: 0.9435173273086548	 ([# 39 ; s][national][assembly][president][left][abdicating,][new][appointed.])
+v(1 7 9 12 13 14 16 17 18 20): 14.889659881591797, EP: 0.9287587404251099	 ([# 39 ; s][saturday][king][change][mind][abdicating,][open][option][new][appointed.])
+v(2 3 4 5): 14.56319808959961, EP: 0.9083953499794006	 ([national][assembly][president][left])
+v(1 14 18 20): 8.12606143951416, EP: 0.5068719387054443	 ([# 39 ; s][abdicating,][new][appointed.])
+v(7 9 12 13 16 17): 3.9536843299865723, EP: 0.24661536514759064	 ([saturday][king][change][mind][open][option])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: government
+Player 1: calls
+Player 2: quot ; operation
+Player 3: web
+Player 4: snare
+Player 5: quot ;,
+Player 6: catching
+Player 7: criminals
+Player 8: business
+Player 9: online.
+Player 10: # 39 ; ve
+Player 11: working
+Player 12: since
+Player 13: june
+Player 14: today
+Player 15: announced
+Player 16: dozens
+Player 17: arrests
+Player 18: crimes
+Player 19: cost
+Player 20: victims
+Player 21: millions
+Player 22: dollars.
+---------- Rewards ----------
+v(): 1.9488232135772705	 ([])
+v(1 2 7 11 12 14 15 16 17 20): -4.044862747192383	 ([calls][quot ; operation][criminals][working][since][today][announced][dozens][arrests][victims])
+v(0 3 6 8 9 10 13 18 19 22): 5.3685078620910645	 ([government][web][catching][business][online.][# 39 ; ve][june][crimes][cost][dollars.])
+v(4 5 21): 1.202770709991455	 ([snare][quot ;,][millions])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 22): 7.268687725067139	 ([government][calls][quot ; operation][web][catching][criminals][business][online.][# 39 ; ve][working][since][june][today][announced][dozens][arrests][crimes][cost][victims][dollars.])
+v(1 2 4 5 7 11 12 14 15 16 17 20 21): -4.647208213806152	 ([calls][quot ; operation][snare][quot ;,][criminals][working][since][today][announced][dozens][arrests][victims][millions])
+v(0 3 4 5 6 8 9 10 13 18 19 21 22): 6.379027843475342	 ([government][web][snare][quot ;,][catching][business][online.][# 39 ; ve][june][crimes][cost][millions][dollars.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 6.464893341064453	 ([government][calls][quot ; operation][web][snare][quot ;,][catching][criminals][business][online.][# 39 ; ve][working][since][june][today][announced][dozens][arrests][crimes][cost][victims][millions][dollars.])
+---------- Rewards-v() ----------
+v(1 2 4 5 7 11 12 14 15 16 17 20 21): -6.596031188964844, EP: -1.4605687856674194	 ([calls][quot ; operation][snare][quot ;,][criminals][working][since][today][announced][dozens][arrests][victims][millions])
+v(1 2 7 11 12 14 15 16 17 20): -5.993685722351074, EP: -1.3271905183792114	 ([calls][quot ; operation][criminals][working][since][today][announced][dozens][arrests][victims])
+v(0 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 22): 5.319864273071289, EP: 1.1779851913452148	 ([government][calls][quot ; operation][web][catching][criminals][business][online.][# 39 ; ve][working][since][june][today][announced][dozens][arrests][crimes][cost][victims][dollars.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 4.516070365905762, EP: 1.0	 ([government][calls][quot ; operation][web][snare][quot ;,][catching][criminals][business][online.][# 39 ; ve][working][since][june][today][announced][dozens][arrests][crimes][cost][victims][millions][dollars.])
+v(0 3 4 5 6 8 9 10 13 18 19 21 22): 4.430204391479492, EP: 0.9809865951538086	 ([government][web][snare][quot ;,][catching][business][online.][# 39 ; ve][june][crimes][cost][millions][dollars.])
+v(0 3 6 8 9 10 13 18 19 22): 3.419684648513794, EP: 0.757225751876831	 ([government][web][catching][business][online.][# 39 ; ve][june][crimes][cost][dollars.])
+v(4 5 21): -0.7460525035858154, EP: -0.16519948840141296	 ([snare][quot ;,][millions])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: yet
+Player 1: another
+Player 2: risky
+Player 3: game
+Player 4: patriots
+Player 5: winning
+Player 6: streak,
+Player 7: 21.
+Player 8: pittsburgh
+Player 9: # 39 ; t
+Player 10: lost
+Player 11: home,
+Player 12: rookie
+Player 13: quarterback
+Player 14: ben
+Player 15: roethlisberger
+Player 16: # 39 ; t
+Player 17: lost,
+Player 18: period.
+---------- Rewards ----------
+v(): -1.9186018705368042	 ([])
+v(12 13 14 15): 9.575139999389648	 ([rookie][quarterback][ben][roethlisberger])
+v(3 6 8 9 11 16): 9.460966110229492	 ([game][streak,][pittsburgh][# 39 ; t][home,][# 39 ; t])
+v(5 10 17 18): 0.9847153425216675	 ([winning][lost][lost,][period.])
+v(0 1 2 4 7): -3.0436975955963135	 ([yet][another][risky][patriots][21.])
+v(3 6 8 9 11 12 13 14 15 16): 9.685159683227539	 ([game][streak,][pittsburgh][# 39 ; t][home,][rookie][quarterback][ben][roethlisberger][# 39 ; t])
+v(5 10 12 13 14 15 17 18): 9.715087890625	 ([winning][lost][rookie][quarterback][ben][roethlisberger][lost,][period.])
+v(0 1 2 4 7 12 13 14 15): 9.687198638916016	 ([yet][another][risky][patriots][21.][rookie][quarterback][ben][roethlisberger])
+v(3 5 6 8 9 10 11 16 17 18): 9.761642456054688	 ([game][winning][streak,][pittsburgh][# 39 ; t][lost][home,][# 39 ; t][lost,][period.])
+v(0 1 2 3 4 6 7 8 9 11 16): 9.748305320739746	 ([yet][another][risky][game][patriots][streak,][21.][pittsburgh][# 39 ; t][home,][# 39 ; t])
+v(0 1 2 4 5 7 10 17 18): 1.983116865158081	 ([yet][another][risky][patriots][winning][21.][lost][lost,][period.])
+v(3 5 6 8 9 10 11 12 13 14 15 16 17 18): 9.670358657836914	 ([game][winning][streak,][pittsburgh][# 39 ; t][lost][home,][rookie][quarterback][ben][roethlisberger][# 39 ; t][lost,][period.])
+v(0 1 2 3 4 6 7 8 9 11 12 13 14 15 16): 9.636713981628418	 ([yet][another][risky][game][patriots][streak,][21.][pittsburgh][# 39 ; t][home,][rookie][quarterback][ben][roethlisberger][# 39 ; t])
+v(0 1 2 4 5 7 10 12 13 14 15 17 18): 9.734517097473145	 ([yet][another][risky][patriots][winning][21.][lost][rookie][quarterback][ben][roethlisberger][lost,][period.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 16 17 18): 9.728570938110352	 ([yet][another][risky][game][patriots][winning][streak,][21.][pittsburgh][# 39 ; t][lost][home,][# 39 ; t][lost,][period.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 9.6547212600708	 ([yet][another][risky][game][patriots][winning][streak,][21.][pittsburgh][# 39 ; t][lost][home,][rookie][quarterback][ben][roethlisberger][# 39 ; t][lost,][period.])
+---------- Rewards-v() ----------
+v(3 5 6 8 9 10 11 16 17 18): 11.680244445800781, EP: 1.009238600730896	 ([game][winning][streak,][pittsburgh][# 39 ; t][lost][home,][# 39 ; t][lost,][period.])
+v(0 1 2 3 4 6 7 8 9 11 16): 11.66690731048584, EP: 1.0080862045288086	 ([yet][another][risky][game][patriots][streak,][21.][pittsburgh][# 39 ; t][home,][# 39 ; t])
+v(0 1 2 4 5 7 10 12 13 14 15 17 18): 11.653119087219238, EP: 1.006894826889038	 ([yet][another][risky][patriots][winning][21.][lost][rookie][quarterback][ben][roethlisberger][lost,][period.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 16 17 18): 11.647172927856445, EP: 1.0063810348510742	 ([yet][another][risky][game][patriots][winning][streak,][21.][pittsburgh][# 39 ; t][lost][home,][# 39 ; t][lost,][period.])
+v(5 10 12 13 14 15 17 18): 11.633689880371094, EP: 1.0052160024642944	 ([winning][lost][rookie][quarterback][ben][roethlisberger][lost,][period.])
+v(0 1 2 4 7 12 13 14 15): 11.60580062866211, EP: 1.0028061866760254	 ([yet][another][risky][patriots][21.][rookie][quarterback][ben][roethlisberger])
+v(3 6 8 9 11 12 13 14 15 16): 11.603761672973633, EP: 1.0026299953460693	 ([game][streak,][pittsburgh][# 39 ; t][home,][rookie][quarterback][ben][roethlisberger][# 39 ; t])
+v(3 5 6 8 9 10 11 12 13 14 15 16 17 18): 11.588960647583008, EP: 1.0013511180877686	 ([game][winning][streak,][pittsburgh][# 39 ; t][lost][home,][rookie][quarterback][ben][roethlisberger][# 39 ; t][lost,][period.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 11.573323249816895, EP: 1.0	 ([yet][another][risky][game][patriots][winning][streak,][21.][pittsburgh][# 39 ; t][lost][home,][rookie][quarterback][ben][roethlisberger][# 39 ; t][lost,][period.])
+v(0 1 2 3 4 6 7 8 9 11 12 13 14 15 16): 11.555315971374512, EP: 0.9984440803527832	 ([yet][another][risky][game][patriots][streak,][21.][pittsburgh][# 39 ; t][home,][rookie][quarterback][ben][roethlisberger][# 39 ; t])
+v(12 13 14 15): 11.493741989135742, EP: 0.9931237101554871	 ([rookie][quarterback][ben][roethlisberger])
+v(3 6 8 9 11 16): 11.379568099975586, EP: 0.9832584857940674	 ([game][streak,][pittsburgh][# 39 ; t][home,][# 39 ; t])
+v(0 1 2 4 5 7 10 17 18): 3.9017186164855957, EP: 0.3371303677558899	 ([yet][another][risky][patriots][winning][21.][lost][lost,][period.])
+v(5 10 17 18): 2.9033172130584717, EP: 0.25086286664009094	 ([winning][lost][lost,][period.])
+v(0 1 2 4 7): -1.1250957250595093, EP: -0.09721457958221436	 ([yet][another][risky][patriots][21.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

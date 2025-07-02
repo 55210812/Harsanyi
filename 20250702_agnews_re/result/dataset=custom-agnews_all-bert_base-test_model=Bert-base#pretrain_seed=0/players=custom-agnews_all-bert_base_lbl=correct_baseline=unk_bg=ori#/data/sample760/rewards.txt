@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: ibmhas
+Player 1: successfully
+Player 2: demonstrated
+Player 3: new
+Player 4: technique
+Player 5: improving
+Player 6: transistor
+Player 7: performance
+Player 8: help
+Player 9: company
+Player 10: build
+Player 11: smaller,
+Player 12: powerful
+Player 13: chips
+Player 14: next
+Player 15: decade,
+Player 16: company
+Player 17: researchers
+Player 18: said
+Player 19: monday.
+---------- Rewards ----------
+v(): 3.876467704772949	 ([])
+v(0 5 6 7 9 13 14 16 18): 7.022225856781006	 ([ibmhas][improving][transistor][performance][company][chips][next][company][said])
+v(1 2 3 4 8 10 11 12 15 17 19): 8.176912307739258	 ([successfully][demonstrated][new][technique][help][build][smaller,][powerful][decade,][researchers][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.4506025314331055	 ([ibmhas][successfully][demonstrated][new][technique][improving][transistor][performance][help][company][build][smaller,][powerful][chips][next][decade,][company][researchers][said][monday.])
+---------- Rewards-v() ----------
+v(1 2 3 4 8 10 11 12 15 17 19): 4.300444602966309, EP: 1.2032127380371094	 ([successfully][demonstrated][new][technique][help][build][smaller,][powerful][decade,][researchers][monday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 3.5741348266601562, EP: 1.0	 ([ibmhas][successfully][demonstrated][new][technique][improving][transistor][performance][help][company][build][smaller,][powerful][chips][next][decade,][company][researchers][said][monday.])
+v(0 5 6 7 9 13 14 16 18): 3.1457581520080566, EP: 0.8801453709602356	 ([ibmhas][improving][transistor][performance][company][chips][next][company][said])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

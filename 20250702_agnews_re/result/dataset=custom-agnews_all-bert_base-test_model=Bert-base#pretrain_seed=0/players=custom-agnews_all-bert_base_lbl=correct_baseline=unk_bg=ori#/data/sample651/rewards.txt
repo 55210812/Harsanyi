@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: chennai :
+Player 1: internet
+Player 2: major
+Player 3: yahoo
+Player 4: inc
+Player 5: 25 - member
+Player 6: high - skilled
+Player 7: software
+Player 8: professional
+Player 9: team
+Player 10: chennai,
+Player 11: acquired
+Player 12: us - based
+Player 13: stata
+Player 14: labs.
+---------- Rewards ----------
+v(): 1.8758152723312378	 ([])
+v(4 7 9): 1.4746053218841553	 ([inc][software][team])
+v(1 3 6 10 13 14): 8.210301399230957	 ([internet][yahoo][high - skilled][chennai,][stata][labs.])
+v(0 2 5 8 11 12): -2.3854904174804688	 ([chennai :][major][25 - member][professional][acquired][us - based])
+v(1 3 4 6 7 9 10 13 14): 7.7843756675720215	 ([internet][yahoo][inc][high - skilled][software][team][chennai,][stata][labs.])
+v(0 2 4 5 7 8 9 11 12): 0.8723134994506836	 ([chennai :][major][inc][25 - member][software][professional][team][acquired][us - based])
+v(0 1 2 3 5 6 8 10 11 12 13 14): 7.764190196990967	 ([chennai :][internet][major][yahoo][25 - member][high - skilled][professional][chennai,][acquired][us - based][stata][labs.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 6.467680931091309	 ([chennai :][internet][major][yahoo][inc][25 - member][high - skilled][software][professional][team][chennai,][acquired][us - based][stata][labs.])
+---------- Rewards-v() ----------
+v(1 3 6 10 13 14): 6.33448600769043, EP: 1.3795015811920166	 ([internet][yahoo][high - skilled][chennai,][stata][labs.])
+v(1 3 4 6 7 9 10 13 14): 5.908560276031494, EP: 1.2867450714111328	 ([internet][yahoo][inc][high - skilled][software][team][chennai,][stata][labs.])
+v(0 1 2 3 5 6 8 10 11 12 13 14): 5.8883748054504395, EP: 1.2823491096496582	 ([chennai :][internet][major][yahoo][25 - member][high - skilled][professional][chennai,][acquired][us - based][stata][labs.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 4.591865539550781, EP: 1.0	 ([chennai :][internet][major][yahoo][inc][25 - member][high - skilled][software][professional][team][chennai,][acquired][us - based][stata][labs.])
+v(0 2 5 8 11 12): -4.261305809020996, EP: -0.9280118942260742	 ([chennai :][major][25 - member][professional][acquired][us - based])
+v(0 2 4 5 7 8 9 11 12): -1.0035017728805542, EP: -0.2185390144586563	 ([chennai :][major][inc][25 - member][software][professional][team][acquired][us - based])
+v(4 7 9): -0.4012099504470825, EP: -0.08737406134605408	 ([inc][software][team])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

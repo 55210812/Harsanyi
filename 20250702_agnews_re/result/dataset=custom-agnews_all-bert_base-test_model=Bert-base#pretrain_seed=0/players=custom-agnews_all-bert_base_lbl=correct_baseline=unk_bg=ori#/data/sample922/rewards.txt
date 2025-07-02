@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: eleanor
+Player 1: hall :
+Player 2: talks
+Player 3: began
+Player 4: today
+Player 5: former
+Player 6: asbestos
+Player 7: maker
+Player 8: james
+Player 9: hardie,
+Player 10: actu
+Player 11: asbestos
+Player 12: support
+Player 13: groups
+Player 14: aimed
+Player 15: reaching
+Player 16: deal
+Player 17: compensate
+Player 18: thousands
+Player 19: future
+Player 20: victims
+Player 21: company
+Player 22: # 39 ; s
+Player 23: products.
+---------- Rewards ----------
+v(): -3.0944316387176514	 ([])
+v(0 1 2 6 8 9 11 21 23): 8.075750350952148	 ([eleanor][hall :][talks][asbestos][james][hardie,][asbestos][company][products.])
+v(3 4 10 13 20): -4.388922691345215	 ([began][today][actu][groups][victims])
+v(5 7 12 14 15 16 17 18 19 22): -2.5194621086120605	 ([former][maker][support][aimed][reaching][deal][compensate][thousands][future][# 39 ; s])
+v(0 1 2 3 4 6 8 9 10 11 13 20 21 23): 7.766585350036621	 ([eleanor][hall :][talks][began][today][asbestos][james][hardie,][actu][asbestos][groups][victims][company][products.])
+v(0 1 2 5 6 7 8 9 11 12 14 15 16 17 18 19 21 22 23): 8.335084915161133	 ([eleanor][hall :][talks][former][asbestos][maker][james][hardie,][asbestos][support][aimed][reaching][deal][compensate][thousands][future][company][# 39 ; s][products.])
+v(3 4 5 7 10 12 13 14 15 16 17 18 19 20 22): -2.610520124435425	 ([began][today][former][maker][actu][support][groups][aimed][reaching][deal][compensate][thousands][future][victims][# 39 ; s])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.215391159057617	 ([eleanor][hall :][talks][began][today][former][asbestos][maker][james][hardie,][actu][asbestos][support][groups][aimed][reaching][deal][compensate][thousands][future][victims][company][# 39 ; s][products.])
+---------- Rewards-v() ----------
+v(0 1 2 5 6 7 8 9 11 12 14 15 16 17 18 19 21 22 23): 11.429516792297363, EP: 1.0105831623077393	 ([eleanor][hall :][talks][former][asbestos][maker][james][hardie,][asbestos][support][aimed][reaching][deal][compensate][thousands][future][company][# 39 ; s][products.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 11.309823036193848, EP: 1.0	 ([eleanor][hall :][talks][began][today][former][asbestos][maker][james][hardie,][actu][asbestos][support][groups][aimed][reaching][deal][compensate][thousands][future][victims][company][# 39 ; s][products.])
+v(0 1 2 6 8 9 11 21 23): 11.170182228088379, EP: 0.9876531362533569	 ([eleanor][hall :][talks][asbestos][james][hardie,][asbestos][company][products.])
+v(0 1 2 3 4 6 8 9 10 11 13 20 21 23): 10.861017227172852, EP: 0.9603171944618225	 ([eleanor][hall :][talks][began][today][asbestos][james][hardie,][actu][asbestos][groups][victims][company][products.])
+v(3 4 10 13 20): -1.2944910526275635, EP: -0.11445723474025726	 ([began][today][actu][groups][victims])
+v(5 7 12 14 15 16 17 18 19 22): 0.5749695301055908, EP: 0.05083806440234184	 ([former][maker][support][aimed][reaching][deal][compensate][thousands][future][# 39 ; s])
+v(3 4 5 7 10 12 13 14 15 16 17 18 19 20 22): 0.48391151428222656, EP: 0.04278683289885521	 ([began][today][former][maker][actu][support][groups][aimed][reaching][deal][compensate][thousands][future][victims][# 39 ; s])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

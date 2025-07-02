@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: explosions
+Player 1: damaged
+Player 2: churches
+Player 3: baghdad
+Player 4: yesterday
+Player 5: us
+Player 6: military
+Player 7: reported
+Player 8: deaths
+Player 9: four
+Player 10: american
+Player 11: troops
+Player 12: bomb
+Player 13: attacks
+Player 14: elsewhere
+Player 15: iraq.
+---------- Rewards ----------
+v(): -7.045435428619385	 ([])
+v(3 6 13 14 15): 7.681087970733643	 ([baghdad][military][attacks][elsewhere][iraq.])
+v(7 8 9 11): 5.715424060821533	 ([reported][deaths][four][troops])
+v(0 1 2 4 5 10 12): 5.309272766113281	 ([explosions][damaged][churches][yesterday][us][american][bomb])
+v(3 6 7 8 9 11 13 14 15): 7.608834266662598	 ([baghdad][military][reported][deaths][four][troops][attacks][elsewhere][iraq.])
+v(0 1 2 3 4 5 6 10 12 13 14 15): 8.140155792236328	 ([explosions][damaged][churches][baghdad][yesterday][us][military][american][bomb][attacks][elsewhere][iraq.])
+v(0 1 2 4 5 7 8 9 10 11 12): 7.379159450531006	 ([explosions][damaged][churches][yesterday][us][reported][deaths][four][american][troops][bomb])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 7.872732639312744	 ([explosions][damaged][churches][baghdad][yesterday][us][military][reported][deaths][four][american][troops][bomb][attacks][elsewhere][iraq.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 10 12 13 14 15): 15.185590744018555, EP: 1.0179259777069092	 ([explosions][damaged][churches][baghdad][yesterday][us][military][american][bomb][attacks][elsewhere][iraq.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 14.918168067932129, EP: 1.0	 ([explosions][damaged][churches][baghdad][yesterday][us][military][reported][deaths][four][american][troops][bomb][attacks][elsewhere][iraq.])
+v(3 6 13 14 15): 14.726523399353027, EP: 0.9871535897254944	 ([baghdad][military][attacks][elsewhere][iraq.])
+v(3 6 7 8 9 11 13 14 15): 14.65427017211914, EP: 0.9823102951049805	 ([baghdad][military][reported][deaths][four][troops][attacks][elsewhere][iraq.])
+v(0 1 2 4 5 7 8 9 10 11 12): 14.42459487915039, EP: 0.9669146537780762	 ([explosions][damaged][churches][yesterday][us][reported][deaths][four][american][troops][bomb])
+v(7 8 9 11): 12.760859489440918, EP: 0.8553904891014099	 ([reported][deaths][four][troops])
+v(0 1 2 4 5 10 12): 12.354707717895508, EP: 0.8281652331352234	 ([explosions][damaged][churches][yesterday][us][american][bomb])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

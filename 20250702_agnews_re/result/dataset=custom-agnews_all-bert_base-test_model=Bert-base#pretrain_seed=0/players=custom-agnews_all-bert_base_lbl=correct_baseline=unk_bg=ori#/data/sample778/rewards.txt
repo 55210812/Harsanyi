@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: microsoft
+Player 1: suspended
+Player 2: beta
+Player 3: testing
+Player 4: next
+Player 5: version
+Player 6: msn
+Player 7: messenger
+Player 8: client
+Player 9: potential
+Player 10: security
+Player 11: problem.
+Player 12: testers
+Player 13: discovered
+Player 14: potential
+Player 15: security
+Player 16: issue
+Player 17: early
+Player 18: version
+Player 19: msn
+Player 20: messenger
+---------- Rewards ----------
+v(): 1.2253021001815796	 ([])
+v(2 3 5 6 13 19 20): 8.179880142211914	 ([beta][testing][version][msn][discovered][msn][messenger])
+v(0 1 4 7 8 9 17): 8.288076400756836	 ([microsoft][suspended][next][messenger][client][potential][early])
+v(10 11 12): 4.4712982177734375	 ([security][problem.][testers])
+v(14 15 16 18): 3.0606448650360107	 ([potential][security][issue][version])
+v(0 1 2 3 4 5 6 7 8 9 13 17 19 20): 8.34770679473877	 ([microsoft][suspended][beta][testing][next][version][msn][messenger][client][potential][discovered][early][msn][messenger])
+v(2 3 5 6 10 11 12 13 19 20): 8.485136032104492	 ([beta][testing][version][msn][security][problem.][testers][discovered][msn][messenger])
+v(2 3 5 6 13 14 15 16 18 19 20): 8.373612403869629	 ([beta][testing][version][msn][discovered][potential][security][issue][version][msn][messenger])
+v(0 1 4 7 8 9 10 11 12 17): 8.410393714904785	 ([microsoft][suspended][next][messenger][client][potential][security][problem.][testers][early])
+v(0 1 4 7 8 9 14 15 16 17 18): 8.474430084228516	 ([microsoft][suspended][next][messenger][client][potential][potential][security][issue][early][version])
+v(10 11 12 14 15 16 18): 7.10859489440918	 ([security][problem.][testers][potential][security][issue][version])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 17 19 20): 8.270469665527344	 ([microsoft][suspended][beta][testing][next][version][msn][messenger][client][potential][security][problem.][testers][discovered][early][msn][messenger])
+v(0 1 2 3 4 5 6 7 8 9 13 14 15 16 17 18 19 20): 8.342693328857422	 ([microsoft][suspended][beta][testing][next][version][msn][messenger][client][potential][discovered][potential][security][issue][early][version][msn][messenger])
+v(2 3 5 6 10 11 12 13 14 15 16 18 19 20): 8.47704029083252	 ([beta][testing][version][msn][security][problem.][testers][discovered][potential][security][issue][version][msn][messenger])
+v(0 1 4 7 8 9 10 11 12 14 15 16 17 18): 8.389233589172363	 ([microsoft][suspended][next][messenger][client][potential][security][problem.][testers][potential][security][issue][early][version])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.261582374572754	 ([microsoft][suspended][beta][testing][next][version][msn][messenger][client][potential][security][problem.][testers][discovered][potential][security][issue][early][version][msn][messenger])
+---------- Rewards-v() ----------
+v(2 3 5 6 10 11 12 13 19 20): 7.259833812713623, EP: 1.0317715406417847	 ([beta][testing][version][msn][security][problem.][testers][discovered][msn][messenger])
+v(2 3 5 6 10 11 12 13 14 15 16 18 19 20): 7.25173807144165, EP: 1.03062105178833	 ([beta][testing][version][msn][security][problem.][testers][discovered][potential][security][issue][version][msn][messenger])
+v(0 1 4 7 8 9 14 15 16 17 18): 7.2491278648376465, EP: 1.030250072479248	 ([microsoft][suspended][next][messenger][client][potential][potential][security][issue][early][version])
+v(0 1 4 7 8 9 10 11 12 17): 7.185091495513916, EP: 1.0211491584777832	 ([microsoft][suspended][next][messenger][client][potential][security][problem.][testers][early])
+v(0 1 4 7 8 9 10 11 12 14 15 16 17 18): 7.163931369781494, EP: 1.0181418657302856	 ([microsoft][suspended][next][messenger][client][potential][security][problem.][testers][potential][security][issue][early][version])
+v(2 3 5 6 13 14 15 16 18 19 20): 7.14831018447876, EP: 1.015921711921692	 ([beta][testing][version][msn][discovered][potential][security][issue][version][msn][messenger])
+v(0 1 2 3 4 5 6 7 8 9 13 17 19 20): 7.1224045753479, EP: 1.0122400522232056	 ([microsoft][suspended][beta][testing][next][version][msn][messenger][client][potential][discovered][early][msn][messenger])
+v(0 1 2 3 4 5 6 7 8 9 13 14 15 16 17 18 19 20): 7.117391109466553, EP: 1.0115275382995605	 ([microsoft][suspended][beta][testing][next][version][msn][messenger][client][potential][discovered][potential][security][issue][early][version][msn][messenger])
+v(0 1 4 7 8 9 17): 7.062774181365967, EP: 1.003765344619751	 ([microsoft][suspended][next][messenger][client][potential][early])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 17 19 20): 7.045167446136475, EP: 1.0012630224227905	 ([microsoft][suspended][beta][testing][next][version][msn][messenger][client][potential][security][problem.][testers][discovered][early][msn][messenger])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.036280155181885, EP: 1.0	 ([microsoft][suspended][beta][testing][next][version][msn][messenger][client][potential][security][problem.][testers][discovered][potential][security][issue][early][version][msn][messenger])
+v(2 3 5 6 13 19 20): 6.954577922821045, EP: 0.9883884191513062	 ([beta][testing][version][msn][discovered][msn][messenger])
+v(10 11 12 14 15 16 18): 5.8832926750183105, EP: 0.8361367583274841	 ([security][problem.][testers][potential][security][issue][version])
+v(10 11 12): 3.2459959983825684, EP: 0.46132272481918335	 ([security][problem.][testers])
+v(14 15 16 18): 1.8353427648544312, EP: 0.26083990931510925	 ([potential][security][issue][version])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

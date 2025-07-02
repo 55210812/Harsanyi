@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: \ if
+Player 1: can't
+Player 2: get
+Player 3: good
+Player 4: night's
+Player 5: sleep
+Player 6: likely
+Player 7: parents
+Player 8: least
+Player 9: partly
+Player 10: blame.
+---------- Rewards ----------
+v(): 4.1847405433654785	 ([])
+v(2 4 5): 5.449769496917725	 ([get][night's][sleep])
+v(0 1 3 6 8 10): 6.989552021026611	 ([\ if][can't][good][likely][least][blame.])
+v(7 9): 3.5484111309051514	 ([parents][partly])
+v(0 1 2 3 4 5 6 8 10): 6.581009387969971	 ([\ if][can't][get][good][night's][sleep][likely][least][blame.])
+v(2 4 5 7 9): 4.870743751525879	 ([get][night's][sleep][parents][partly])
+v(0 1 3 6 7 8 9 10): 6.636752128601074	 ([\ if][can't][good][likely][parents][least][partly][blame.])
+v(0 1 2 3 4 5 6 7 8 9 10): 5.612368583679199	 ([\ if][can't][get][good][night's][sleep][likely][parents][least][partly][blame.])
+---------- Rewards-v() ----------
+v(0 1 3 6 8 10): 2.804811477661133, EP: 1.964665412902832	 ([\ if][can't][good][likely][least][blame.])
+v(0 1 3 6 7 8 9 10): 2.4520115852355957, EP: 1.717542290687561	 ([\ if][can't][good][likely][parents][least][partly][blame.])
+v(0 1 2 3 4 5 6 8 10): 2.396268844604492, EP: 1.6784965991973877	 ([\ if][can't][get][good][night's][sleep][likely][least][blame.])
+v(0 1 2 3 4 5 6 7 8 9 10): 1.4276280403137207, EP: 1.0	 ([\ if][can't][get][good][night's][sleep][likely][parents][least][partly][blame.])
+v(2 4 5): 1.265028953552246, EP: 0.8861054182052612	 ([get][night's][sleep])
+v(2 4 5 7 9): 0.6860032081604004, EP: 0.480519562959671	 ([get][night's][sleep][parents][partly])
+v(7 9): -0.6363294124603271, EP: -0.4457249343395233	 ([parents][partly])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

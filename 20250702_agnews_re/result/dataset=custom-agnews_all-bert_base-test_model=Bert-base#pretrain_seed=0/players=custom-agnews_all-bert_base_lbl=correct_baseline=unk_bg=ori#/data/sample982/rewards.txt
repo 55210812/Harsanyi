@@ -1,0 +1,62 @@
+---------- Players ----------
+Player 0: allen
+Player 1: park,
+Player 2: mich.
+Player 3: -
+Player 4: robert
+Player 5: porcher
+Player 6: finally
+Player 7: # 39 ; t
+Player 8: take
+Player 9: standing
+Player 10: sidelines
+Player 11: more.
+Player 12: porcher,
+Player 13: detroit
+Player 14: lions
+Player 15: # 39 ;
+Player 16: career
+Player 17: sack
+Player 18: leader,
+Player 19: retired
+Player 20: monday,
+Player 21: ending
+Player 22: frustrating
+Player 23: season
+Player 24: 13 - year
+Player 25: career.
+---------- Rewards ----------
+v(): -3.850233554840088	 ([])
+v(13 14 15 18): 9.689568519592285	 ([detroit][lions][# 39 ;][leader,])
+v(0 1 2 5 12 20): -1.7930939197540283	 ([allen][park,][mich.][porcher][porcher,][monday,])
+v(3 4 16 17 19 21 22 23 24 25): -0.5522556900978088	 ([-][robert][career][sack][retired][ending][frustrating][season][13 - year][career.])
+v(6 7 8 9 10 11): 2.0674519538879395	 ([finally][# 39 ; t][take][standing][sidelines][more.])
+v(0 1 2 5 12 13 14 15 18 20): 9.684218406677246	 ([allen][park,][mich.][porcher][porcher,][detroit][lions][# 39 ;][leader,][monday,])
+v(3 4 13 14 15 16 17 18 19 21 22 23 24 25): 9.67053508758545	 ([-][robert][detroit][lions][# 39 ;][career][sack][leader,][retired][ending][frustrating][season][13 - year][career.])
+v(6 7 8 9 10 11 13 14 15 18): 9.724278450012207	 ([finally][# 39 ; t][take][standing][sidelines][more.][detroit][lions][# 39 ;][leader,])
+v(0 1 2 3 4 5 12 16 17 19 20 21 22 23 24 25): 8.653090476989746	 ([allen][park,][mich.][-][robert][porcher][porcher,][career][sack][retired][monday,][ending][frustrating][season][13 - year][career.])
+v(0 1 2 5 6 7 8 9 10 11 12 20): 4.090837001800537	 ([allen][park,][mich.][porcher][finally][# 39 ; t][take][standing][sidelines][more.][porcher,][monday,])
+v(3 4 6 7 8 9 10 11 16 17 19 21 22 23 24 25): 4.299332618713379	 ([-][robert][finally][# 39 ; t][take][standing][sidelines][more.][career][sack][retired][ending][frustrating][season][13 - year][career.])
+v(0 1 2 3 4 5 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 9.699480056762695	 ([allen][park,][mich.][-][robert][porcher][porcher,][detroit][lions][# 39 ;][career][sack][leader,][retired][monday,][ending][frustrating][season][13 - year][career.])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15 18 20): 9.755104064941406	 ([allen][park,][mich.][porcher][finally][# 39 ; t][take][standing][sidelines][more.][porcher,][detroit][lions][# 39 ;][leader,][monday,])
+v(3 4 6 7 8 9 10 11 13 14 15 16 17 18 19 21 22 23 24 25): 9.673959732055664	 ([-][robert][finally][# 39 ; t][take][standing][sidelines][more.][detroit][lions][# 39 ;][career][sack][leader,][retired][ending][frustrating][season][13 - year][career.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 16 17 19 20 21 22 23 24 25): 9.653051376342773	 ([allen][park,][mich.][-][robert][porcher][finally][# 39 ; t][take][standing][sidelines][more.][porcher,][career][sack][retired][monday,][ending][frustrating][season][13 - year][career.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 9.757072448730469	 ([allen][park,][mich.][-][robert][porcher][finally][# 39 ; t][take][standing][sidelines][more.][porcher,][detroit][lions][# 39 ;][career][sack][leader,][retired][monday,][ending][frustrating][season][13 - year][career.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 13.607305526733398, EP: 1.0	 ([allen][park,][mich.][-][robert][porcher][finally][# 39 ; t][take][standing][sidelines][more.][porcher,][detroit][lions][# 39 ;][career][sack][leader,][retired][monday,][ending][frustrating][season][13 - year][career.])
+v(0 1 2 5 6 7 8 9 10 11 12 13 14 15 18 20): 13.605337142944336, EP: 0.9998553395271301	 ([allen][park,][mich.][porcher][finally][# 39 ; t][take][standing][sidelines][more.][porcher,][detroit][lions][# 39 ;][leader,][monday,])
+v(6 7 8 9 10 11 13 14 15 18): 13.574512481689453, EP: 0.9975900650024414	 ([finally][# 39 ; t][take][standing][sidelines][more.][detroit][lions][# 39 ;][leader,])
+v(0 1 2 3 4 5 12 13 14 15 16 17 18 19 20 21 22 23 24 25): 13.549713134765625, EP: 0.9957675337791443	 ([allen][park,][mich.][-][robert][porcher][porcher,][detroit][lions][# 39 ;][career][sack][leader,][retired][monday,][ending][frustrating][season][13 - year][career.])
+v(13 14 15 18): 13.539802551269531, EP: 0.9950392246246338	 ([detroit][lions][# 39 ;][leader,])
+v(0 1 2 5 12 13 14 15 18 20): 13.534452438354492, EP: 0.9946460127830505	 ([allen][park,][mich.][porcher][porcher,][detroit][lions][# 39 ;][leader,][monday,])
+v(3 4 6 7 8 9 10 11 13 14 15 16 17 18 19 21 22 23 24 25): 13.524192810058594, EP: 0.9938920736312866	 ([-][robert][finally][# 39 ; t][take][standing][sidelines][more.][detroit][lions][# 39 ;][career][sack][leader,][retired][ending][frustrating][season][13 - year][career.])
+v(3 4 13 14 15 16 17 18 19 21 22 23 24 25): 13.520769119262695, EP: 0.9936404228210449	 ([-][robert][detroit][lions][# 39 ;][career][sack][leader,][retired][ending][frustrating][season][13 - year][career.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 16 17 19 20 21 22 23 24 25): 13.503284454345703, EP: 0.9923555254936218	 ([allen][park,][mich.][-][robert][porcher][finally][# 39 ; t][take][standing][sidelines][more.][porcher,][career][sack][retired][monday,][ending][frustrating][season][13 - year][career.])
+v(0 1 2 3 4 5 12 16 17 19 20 21 22 23 24 25): 12.503324508666992, EP: 0.9188684821128845	 ([allen][park,][mich.][-][robert][porcher][porcher,][career][sack][retired][monday,][ending][frustrating][season][13 - year][career.])
+v(3 4 6 7 8 9 10 11 16 17 19 21 22 23 24 25): 8.149566650390625, EP: 0.5989111065864563	 ([-][robert][finally][# 39 ; t][take][standing][sidelines][more.][career][sack][retired][ending][frustrating][season][13 - year][career.])
+v(0 1 2 5 6 7 8 9 10 11 12 20): 7.941070556640625, EP: 0.5835887789726257	 ([allen][park,][mich.][porcher][finally][# 39 ; t][take][standing][sidelines][more.][porcher,][monday,])
+v(6 7 8 9 10 11): 5.917685508728027, EP: 0.4348903298377991	 ([finally][# 39 ; t][take][standing][sidelines][more.])
+v(3 4 16 17 19 21 22 23 24 25): 3.297977924346924, EP: 0.2423681765794754	 ([-][robert][career][sack][retired][ending][frustrating][season][13 - year][career.])
+v(0 1 2 5 12 20): 2.0571396350860596, EP: 0.15117906033992767	 ([allen][park,][mich.][porcher][porcher,][monday,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

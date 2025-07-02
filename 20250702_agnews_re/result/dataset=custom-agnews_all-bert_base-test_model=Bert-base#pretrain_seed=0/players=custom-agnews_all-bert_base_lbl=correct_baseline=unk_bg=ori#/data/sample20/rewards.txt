@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: quebec
+Player 1: glass
+Player 2: manufacturer
+Player 3: replace
+Player 4: 100
+Player 5: 4 - by - 8 - foot
+Player 6: windows
+Player 7: new
+Player 8: boston
+Player 9: convention
+Player 10: amp ;
+Player 11: exhibition
+Player 12: center
+Player 13: south
+Player 14: boston
+Player 15: next
+Player 16: several
+Player 17: months,
+Player 18: officials
+Player 19: said
+Player 20: yesterday.
+---------- Rewards ----------
+v(): -4.069537162780762	 ([])
+v(0 1 2 8 10 14 20): 8.187676429748535	 ([quebec][glass][manufacturer][boston][amp ;][boston][yesterday.])
+v(3 5 6 16 17 18 19): -5.465307712554932	 ([replace][4 - by - 8 - foot][windows][several][months,][officials][said])
+v(4 7 9 11 12 13 15): -1.8035691976547241	 ([100][new][convention][exhibition][center][south][next])
+v(0 1 2 3 5 6 8 10 14 16 17 18 19 20): 8.155550956726074	 ([quebec][glass][manufacturer][replace][4 - by - 8 - foot][windows][boston][amp ;][boston][several][months,][officials][said][yesterday.])
+v(0 1 2 4 7 8 9 10 11 12 13 14 15 20): 8.25965404510498	 ([quebec][glass][manufacturer][100][new][boston][convention][amp ;][exhibition][center][south][boston][next][yesterday.])
+v(3 4 5 6 7 9 11 12 13 15 16 17 18 19): -5.320246696472168	 ([replace][100][4 - by - 8 - foot][windows][new][convention][exhibition][center][south][next][several][months,][officials][said])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.3219575881958	 ([quebec][glass][manufacturer][replace][100][4 - by - 8 - foot][windows][new][boston][convention][amp ;][exhibition][center][south][boston][next][several][months,][officials][said][yesterday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 12.391494750976562, EP: 1.0	 ([quebec][glass][manufacturer][replace][100][4 - by - 8 - foot][windows][new][boston][convention][amp ;][exhibition][center][south][boston][next][several][months,][officials][said][yesterday.])
+v(0 1 2 4 7 8 9 10 11 12 13 14 15 20): 12.329191207885742, EP: 0.9949720501899719	 ([quebec][glass][manufacturer][100][new][boston][convention][amp ;][exhibition][center][south][boston][next][yesterday.])
+v(0 1 2 8 10 14 20): 12.257213592529297, EP: 0.9891634583473206	 ([quebec][glass][manufacturer][boston][amp ;][boston][yesterday.])
+v(0 1 2 3 5 6 8 10 14 16 17 18 19 20): 12.225088119506836, EP: 0.9865708947181702	 ([quebec][glass][manufacturer][replace][4 - by - 8 - foot][windows][boston][amp ;][boston][several][months,][officials][said][yesterday.])
+v(4 7 9 11 12 13 15): 2.265967845916748, EP: 0.18286477029323578	 ([100][new][convention][exhibition][center][south][next])
+v(3 5 6 16 17 18 19): -1.39577054977417, EP: -0.1126394048333168	 ([replace][4 - by - 8 - foot][windows][several][months,][officials][said])
+v(3 4 5 6 7 9 11 12 13 15 16 17 18 19): -1.2507095336914062, EP: -0.10093290358781815	 ([replace][100][4 - by - 8 - foot][windows][new][convention][exhibition][center][south][next][several][months,][officials][said])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

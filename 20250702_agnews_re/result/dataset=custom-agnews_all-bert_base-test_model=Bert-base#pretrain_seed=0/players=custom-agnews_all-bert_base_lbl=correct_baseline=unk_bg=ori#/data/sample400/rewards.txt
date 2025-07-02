@@ -1,0 +1,59 @@
+---------- Players ----------
+Player 0: reality
+Player 1: democratic
+Player 2: elections
+Player 3: across
+Player 4: west
+Player 5: bank
+Player 6: gaza
+Player 7: sinking
+Player 8: in,
+Player 9: palestinian
+Player 10: political
+Player 11: leaders
+Player 12: yesterday
+Player 13: began
+Player 14: jockeying
+Player 15: earnest
+Player 16: position
+Player 17: advantage,
+Player 18: new
+Player 19: coalitions
+Player 20: obscure
+Player 21: candidates
+Player 22: emerged.
+---------- Rewards ----------
+v(): -8.449872970581055	 ([])
+v(8 10 11 16 19 20 21): 7.238959789276123	 ([in,][political][leaders][position][coalitions][obscure][candidates])
+v(1 2 7 9 12 22): 7.626046180725098	 ([democratic][elections][sinking][palestinian][yesterday][emerged.])
+v(0 3 4 5 6): 3.638693332672119	 ([reality][across][west][bank][gaza])
+v(13 14 15 17 18): -8.512097358703613	 ([began][jockeying][earnest][advantage,][new])
+v(1 2 7 8 9 10 11 12 16 19 20 21 22): 7.9738030433654785	 ([democratic][elections][sinking][in,][palestinian][political][leaders][yesterday][position][coalitions][obscure][candidates][emerged.])
+v(0 3 4 5 6 8 10 11 16 19 20 21): 8.127496719360352	 ([reality][across][west][bank][gaza][in,][political][leaders][position][coalitions][obscure][candidates])
+v(8 10 11 13 14 15 16 17 18 19 20 21): 8.135092735290527	 ([in,][political][leaders][began][jockeying][earnest][position][advantage,][new][coalitions][obscure][candidates])
+v(0 1 2 3 4 5 6 7 9 12 22): 7.9334282875061035	 ([reality][democratic][elections][across][west][bank][gaza][sinking][palestinian][yesterday][emerged.])
+v(1 2 7 9 12 13 14 15 17 18 22): 7.78246545791626	 ([democratic][elections][sinking][palestinian][yesterday][began][jockeying][earnest][advantage,][new][emerged.])
+v(0 3 4 5 6 13 14 15 17 18): 4.584779262542725	 ([reality][across][west][bank][gaza][began][jockeying][earnest][advantage,][new])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 16 19 20 21 22): 8.095437049865723	 ([reality][democratic][elections][across][west][bank][gaza][sinking][in,][palestinian][political][leaders][yesterday][position][coalitions][obscure][candidates][emerged.])
+v(1 2 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.16689682006836	 ([democratic][elections][sinking][in,][palestinian][political][leaders][yesterday][began][jockeying][earnest][position][advantage,][new][coalitions][obscure][candidates][emerged.])
+v(0 3 4 5 6 8 10 11 13 14 15 16 17 18 19 20 21): 8.236421585083008	 ([reality][across][west][bank][gaza][in,][political][leaders][began][jockeying][earnest][position][advantage,][new][coalitions][obscure][candidates])
+v(0 1 2 3 4 5 6 7 9 12 13 14 15 17 18 22): 7.905612945556641	 ([reality][democratic][elections][across][west][bank][gaza][sinking][palestinian][yesterday][began][jockeying][earnest][advantage,][new][emerged.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.19624137878418	 ([reality][democratic][elections][across][west][bank][gaza][sinking][in,][palestinian][political][leaders][yesterday][began][jockeying][earnest][position][advantage,][new][coalitions][obscure][candidates][emerged.])
+---------- Rewards-v() ----------
+v(0 3 4 5 6 8 10 11 13 14 15 16 17 18 19 20 21): 16.686294555664062, EP: 1.0024137496948242	 ([reality][across][west][bank][gaza][in,][political][leaders][began][jockeying][earnest][position][advantage,][new][coalitions][obscure][candidates])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 16.646114349365234, EP: 1.0	 ([reality][democratic][elections][across][west][bank][gaza][sinking][in,][palestinian][political][leaders][yesterday][began][jockeying][earnest][position][advantage,][new][coalitions][obscure][candidates][emerged.])
+v(1 2 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 16.616769790649414, EP: 0.998237133026123	 ([democratic][elections][sinking][in,][palestinian][political][leaders][yesterday][began][jockeying][earnest][position][advantage,][new][coalitions][obscure][candidates][emerged.])
+v(8 10 11 13 14 15 16 17 18 19 20 21): 16.584964752197266, EP: 0.9963265061378479	 ([in,][political][leaders][began][jockeying][earnest][position][advantage,][new][coalitions][obscure][candidates])
+v(0 3 4 5 6 8 10 11 16 19 20 21): 16.577369689941406, EP: 0.9958702325820923	 ([reality][across][west][bank][gaza][in,][political][leaders][position][coalitions][obscure][candidates])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 16 19 20 21 22): 16.545310974121094, EP: 0.9939443469047546	 ([reality][democratic][elections][across][west][bank][gaza][sinking][in,][palestinian][political][leaders][yesterday][position][coalitions][obscure][candidates][emerged.])
+v(1 2 7 8 9 10 11 12 16 19 20 21 22): 16.423675537109375, EP: 0.9866371750831604	 ([democratic][elections][sinking][in,][palestinian][political][leaders][yesterday][position][coalitions][obscure][candidates][emerged.])
+v(0 1 2 3 4 5 6 7 9 12 22): 16.38330078125, EP: 0.9842117428779602	 ([reality][democratic][elections][across][west][bank][gaza][sinking][palestinian][yesterday][emerged.])
+v(0 1 2 3 4 5 6 7 9 12 13 14 15 17 18 22): 16.355485916137695, EP: 0.9825407862663269	 ([reality][democratic][elections][across][west][bank][gaza][sinking][palestinian][yesterday][began][jockeying][earnest][advantage,][new][emerged.])
+v(1 2 7 9 12 13 14 15 17 18 22): 16.232337951660156, EP: 0.975142776966095	 ([democratic][elections][sinking][palestinian][yesterday][began][jockeying][earnest][advantage,][new][emerged.])
+v(1 2 7 9 12 22): 16.07592010498047, EP: 0.9657461047172546	 ([democratic][elections][sinking][palestinian][yesterday][emerged.])
+v(8 10 11 16 19 20 21): 15.688833236694336, EP: 0.9424922466278076	 ([in,][political][leaders][position][coalitions][obscure][candidates])
+v(0 3 4 5 6 13 14 15 17 18): 13.034652709960938, EP: 0.7830447554588318	 ([reality][across][west][bank][gaza][began][jockeying][earnest][advantage,][new])
+v(0 3 4 5 6): 12.088565826416016, EP: 0.7262094616889954	 ([reality][across][west][bank][gaza])
+v(13 14 15 17 18): -0.062224388122558594, EP: -0.003738072933629155	 ([began][jockeying][earnest][advantage,][new])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,44 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: ( reuters )
+Player 3: -
+Player 4: u. s.
+Player 5: stocks
+Player 6: rallied
+Player 7: tuesday,
+Player 8: giving
+Player 9: dow
+Player 10: best
+Player 11: day
+Player 12: four
+Player 13: months
+Player 14: battered
+Player 15: insurers
+Player 16: rose
+Player 17: confidence
+Player 18: government
+Player 19: probe
+Player 20: industry
+Player 21: would
+Player 22: end
+Player 23: quickly.
+---------- Rewards ----------
+v(): -3.357644557952881	 ([])
+v(0 1 5 9 15 17 20): 8.406625747680664	 ([new][york][stocks][dow][insurers][confidence][industry])
+v(2 3 8 16 18 19 21 23): 4.104044437408447	 ([( reuters )][-][giving][rose][government][probe][would][quickly.])
+v(4 6 7 10 11 12 13 14 22): -1.2116786241531372	 ([u. s.][rallied][tuesday,][best][day][four][months][battered][end])
+v(0 1 2 3 5 8 9 15 16 17 18 19 20 21 23): 8.45197868347168	 ([new][york][( reuters )][-][stocks][giving][dow][insurers][rose][confidence][government][probe][industry][would][quickly.])
+v(0 1 4 5 6 7 9 10 11 12 13 14 15 17 20 22): 8.165053367614746	 ([new][york][u. s.][stocks][rallied][tuesday,][dow][best][day][four][months][battered][insurers][confidence][industry][end])
+v(2 3 4 6 7 8 10 11 12 13 14 16 18 19 21 22 23): -4.660773277282715	 ([( reuters )][-][u. s.][rallied][tuesday,][giving][best][day][four][months][battered][rose][government][probe][would][end][quickly.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.44135570526123	 ([new][york][( reuters )][-][u. s.][stocks][rallied][tuesday,][giving][dow][best][day][four][months][battered][insurers][rose][confidence][government][probe][industry][would][end][quickly.])
+---------- Rewards-v() ----------
+v(0 1 2 3 5 8 9 15 16 17 18 19 20 21 23): 11.809623718261719, EP: 1.000900387763977	 ([new][york][( reuters )][-][stocks][giving][dow][insurers][rose][confidence][government][probe][industry][would][quickly.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 11.798999786376953, EP: 1.0	 ([new][york][( reuters )][-][u. s.][stocks][rallied][tuesday,][giving][dow][best][day][four][months][battered][insurers][rose][confidence][government][probe][industry][would][end][quickly.])
+v(0 1 5 9 15 17 20): 11.764270782470703, EP: 0.9970566034317017	 ([new][york][stocks][dow][insurers][confidence][industry])
+v(0 1 4 5 6 7 9 10 11 12 13 14 15 17 20 22): 11.522697448730469, EP: 0.9765825867652893	 ([new][york][u. s.][stocks][rallied][tuesday,][dow][best][day][four][months][battered][insurers][confidence][industry][end])
+v(2 3 8 16 18 19 21 23): 7.461688995361328, EP: 0.6324001550674438	 ([( reuters )][-][giving][rose][government][probe][would][quickly.])
+v(4 6 7 10 11 12 13 14 22): 2.145966053009033, EP: 0.18187694251537323	 ([u. s.][rallied][tuesday,][best][day][four][months][battered][end])
+v(2 3 4 6 7 8 10 11 12 13 14 16 18 19 21 22 23): -1.303128719329834, EP: -0.11044400185346603	 ([( reuters )][-][u. s.][rallied][tuesday,][giving][best][day][four][months][battered][rose][government][probe][would][end][quickly.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

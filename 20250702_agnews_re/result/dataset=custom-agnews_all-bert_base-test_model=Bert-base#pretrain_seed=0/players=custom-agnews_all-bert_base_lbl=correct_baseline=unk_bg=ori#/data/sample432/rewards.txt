@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: italian
+Player 1: consumer
+Player 2: prices
+Player 3: rose
+Player 4: two
+Player 5: months
+Player 6: august
+Player 7: record
+Player 8: crude
+Player 9: oil
+Player 10: prices
+Player 11: lifted
+Player 12: transportation
+Player 13: costs,
+Player 14: data
+Player 15: italy
+Player 16: # 39 ; s
+Player 17: 13
+Player 18: biggest
+Player 19: cities
+Player 20: showed.
+---------- Rewards ----------
+v(): -6.677258491516113	 ([])
+v(1 2 3 17 18 20): 6.299319267272949	 ([consumer][prices][rose][13][biggest][showed.])
+v(4 5 7 10 11 12 14 16): 5.389751434326172	 ([two][months][record][prices][lifted][transportation][data][# 39 ; s])
+v(0 6 8 9 13 15 19): 5.884119033813477	 ([italian][august][crude][oil][costs,][italy][cities])
+v(1 2 3 4 5 7 10 11 12 14 16 17 18 20): 7.445194244384766	 ([consumer][prices][rose][two][months][record][prices][lifted][transportation][data][# 39 ; s][13][biggest][showed.])
+v(0 1 2 3 6 8 9 13 15 17 18 19 20): 5.679772853851318	 ([italian][consumer][prices][rose][august][crude][oil][costs,][italy][13][biggest][cities][showed.])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 19): 5.83723258972168	 ([italian][two][months][august][record][crude][oil][prices][lifted][transportation][costs,][data][italy][# 39 ; s][cities])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 4.63230037689209	 ([italian][consumer][prices][rose][two][months][august][record][crude][oil][prices][lifted][transportation][costs,][data][italy][# 39 ; s][13][biggest][cities][showed.])
+---------- Rewards-v() ----------
+v(1 2 3 4 5 7 10 11 12 14 16 17 18 20): 14.122452735900879, EP: 1.24871826171875	 ([consumer][prices][rose][two][months][record][prices][lifted][transportation][data][# 39 ; s][13][biggest][showed.])
+v(1 2 3 17 18 20): 12.976577758789062, EP: 1.1473990678787231	 ([consumer][prices][rose][13][biggest][showed.])
+v(0 6 8 9 13 15 19): 12.56137752532959, EP: 1.1106867790222168	 ([italian][august][crude][oil][costs,][italy][cities])
+v(0 4 5 6 7 8 9 10 11 12 13 14 15 16 19): 12.514491081237793, EP: 1.1065410375595093	 ([italian][two][months][august][record][crude][oil][prices][lifted][transportation][costs,][data][italy][# 39 ; s][cities])
+v(0 1 2 3 6 8 9 13 15 17 18 19 20): 12.357030868530273, EP: 1.0926183462142944	 ([italian][consumer][prices][rose][august][crude][oil][costs,][italy][13][biggest][cities][showed.])
+v(4 5 7 10 11 12 14 16): 12.067009925842285, EP: 1.066974401473999	 ([two][months][record][prices][lifted][transportation][data][# 39 ; s])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 11.309558868408203, EP: 1.0	 ([italian][consumer][prices][rose][two][months][august][record][crude][oil][prices][lifted][transportation][costs,][data][italy][# 39 ; s][13][biggest][cities][showed.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

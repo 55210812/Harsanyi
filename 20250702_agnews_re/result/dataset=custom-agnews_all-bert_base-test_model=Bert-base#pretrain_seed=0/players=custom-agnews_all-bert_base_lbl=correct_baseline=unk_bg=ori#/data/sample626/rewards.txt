@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: new
+Player 1: york
+Player 2: - -
+Player 3: corporate
+Player 4: pension
+Player 5: crisis
+Player 6: seems
+Player 7: going
+Player 8: bad
+Player 9: worse.
+Player 10: first,
+Player 11: companies
+Player 12: struggled
+Player 13: come
+Player 14: money
+Player 15: cover
+Player 16: benefit
+Player 17: obligations,
+Player 18: want
+Player 19: ditch
+Player 20: plans
+Player 21: altogether.
+---------- Rewards ----------
+v(): -6.647188663482666	 ([])
+v(3 4 11 13): 5.344549655914307	 ([corporate][pension][companies][come])
+v(2 8 12 17 19 20 21): -4.452021598815918	 ([- -][bad][struggled][obligations,][ditch][plans][altogether.])
+v(0 1 10 14 15 16 18): 3.835761308670044	 ([new][york][first,][money][cover][benefit][want])
+v(5 6 7 9): -3.8190789222717285	 ([crisis][seems][going][worse.])
+v(2 3 4 8 11 12 13 17 19 20 21): 6.101510524749756	 ([- -][corporate][pension][bad][companies][struggled][come][obligations,][ditch][plans][altogether.])
+v(0 1 3 4 10 11 13 14 15 16 18): 8.188446998596191	 ([new][york][corporate][pension][first,][companies][come][money][cover][benefit][want])
+v(3 4 5 6 7 9 11 13): 6.400295734405518	 ([corporate][pension][crisis][seems][going][worse.][companies][come])
+v(0 1 2 8 10 12 14 15 16 17 18 19 20 21): 5.508298873901367	 ([new][york][- -][bad][first,][struggled][money][cover][benefit][obligations,][want][ditch][plans][altogether.])
+v(2 5 6 7 8 9 12 17 19 20 21): -5.237759590148926	 ([- -][crisis][seems][going][bad][worse.][struggled][obligations,][ditch][plans][altogether.])
+v(0 1 5 6 7 9 10 14 15 16 18): 5.042234897613525	 ([new][york][crisis][seems][going][worse.][first,][money][cover][benefit][want])
+v(0 1 2 3 4 8 10 11 12 13 14 15 16 17 18 19 20 21): 8.330255508422852	 ([new][york][- -][corporate][pension][bad][first,][companies][struggled][come][money][cover][benefit][obligations,][want][ditch][plans][altogether.])
+v(2 3 4 5 6 7 8 9 11 12 13 17 19 20 21): 5.8957085609436035	 ([- -][corporate][pension][crisis][seems][going][bad][worse.][companies][struggled][come][obligations,][ditch][plans][altogether.])
+v(0 1 3 4 5 6 7 9 10 11 13 14 15 16 18): 8.380229949951172	 ([new][york][corporate][pension][crisis][seems][going][worse.][first,][companies][come][money][cover][benefit][want])
+v(0 1 2 5 6 7 8 9 10 12 14 15 16 17 18 19 20 21): 7.038819789886475	 ([new][york][- -][crisis][seems][going][bad][worse.][first,][struggled][money][cover][benefit][obligations,][want][ditch][plans][altogether.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.381292343139648	 ([new][york][- -][corporate][pension][crisis][seems][going][bad][worse.][first,][companies][struggled][come][money][cover][benefit][obligations,][want][ditch][plans][altogether.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 15.028480529785156, EP: 1.0	 ([new][york][- -][corporate][pension][crisis][seems][going][bad][worse.][first,][companies][struggled][come][money][cover][benefit][obligations,][want][ditch][plans][altogether.])
+v(0 1 3 4 5 6 7 9 10 11 13 14 15 16 18): 15.02741813659668, EP: 0.9999293088912964	 ([new][york][corporate][pension][crisis][seems][going][worse.][first,][companies][come][money][cover][benefit][want])
+v(0 1 2 3 4 8 10 11 12 13 14 15 16 17 18 19 20 21): 14.97744369506836, EP: 0.9966039657592773	 ([new][york][- -][corporate][pension][bad][first,][companies][struggled][come][money][cover][benefit][obligations,][want][ditch][plans][altogether.])
+v(0 1 3 4 10 11 13 14 15 16 18): 14.835636138916016, EP: 0.9871680736541748	 ([new][york][corporate][pension][first,][companies][come][money][cover][benefit][want])
+v(0 1 2 5 6 7 8 9 10 12 14 15 16 17 18 19 20 21): 13.68600845336914, EP: 0.9106714725494385	 ([new][york][- -][crisis][seems][going][bad][worse.][first,][struggled][money][cover][benefit][obligations,][want][ditch][plans][altogether.])
+v(3 4 5 6 7 9 11 13): 13.047484397888184, EP: 0.8681838512420654	 ([corporate][pension][crisis][seems][going][worse.][companies][come])
+v(2 3 4 8 11 12 13 17 19 20 21): 12.748699188232422, EP: 0.8483026027679443	 ([- -][corporate][pension][bad][companies][struggled][come][obligations,][ditch][plans][altogether.])
+v(2 3 4 5 6 7 8 9 11 12 13 17 19 20 21): 12.54289722442627, EP: 0.8346084952354431	 ([- -][corporate][pension][crisis][seems][going][bad][worse.][companies][struggled][come][obligations,][ditch][plans][altogether.])
+v(0 1 2 8 10 12 14 15 16 17 18 19 20 21): 12.155487060546875, EP: 0.8088300824165344	 ([new][york][- -][bad][first,][struggled][money][cover][benefit][obligations,][want][ditch][plans][altogether.])
+v(3 4 11 13): 11.991738319396973, EP: 0.7979341745376587	 ([corporate][pension][companies][come])
+v(0 1 5 6 7 9 10 14 15 16 18): 11.689423561096191, EP: 0.7778180837631226	 ([new][york][crisis][seems][going][worse.][first,][money][cover][benefit][want])
+v(0 1 10 14 15 16 18): 10.482950210571289, EP: 0.6975389122962952	 ([new][york][first,][money][cover][benefit][want])
+v(5 6 7 9): 2.8281097412109375, EP: 0.18818335235118866	 ([crisis][seems][going][worse.])
+v(2 8 12 17 19 20 21): 2.195167064666748, EP: 0.14606712758541107	 ([- -][bad][struggled][obligations,][ditch][plans][altogether.])
+v(2 5 6 7 8 9 12 17 19 20 21): 1.4094290733337402, EP: 0.09378387033939362	 ([- -][crisis][seems][going][bad][worse.][struggled][obligations,][ditch][plans][altogether.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

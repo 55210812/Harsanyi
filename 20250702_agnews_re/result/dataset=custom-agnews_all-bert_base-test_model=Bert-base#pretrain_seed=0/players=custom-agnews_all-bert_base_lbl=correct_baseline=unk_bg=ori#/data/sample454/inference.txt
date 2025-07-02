@@ -1,0 +1,38 @@
+Execution time: 2025-07-02 19:28:27
+prompt: [CLS] attorneys for us airways hope to convince a bankruptcy court judge in alexandria today that without substantial pay cuts, the airline will go out of business. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:16214 decoded_text: attorneys
+idx:2 input_id:2005 decoded_text: for
+idx:3 input_id:2149 decoded_text: us
+idx:4 input_id:13095 decoded_text: airways
+idx:5 input_id:3246 decoded_text: hope
+idx:6 input_id:2000 decoded_text: to
+idx:7 input_id:8054 decoded_text: convince
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:10528 decoded_text: bankruptcy
+idx:10 input_id:2457 decoded_text: court
+idx:11 input_id:3648 decoded_text: judge
+idx:12 input_id:1999 decoded_text: in
+idx:13 input_id:10297 decoded_text: alexandria
+idx:14 input_id:2651 decoded_text: today
+idx:15 input_id:2008 decoded_text: that
+idx:16 input_id:2302 decoded_text: without
+idx:17 input_id:6937 decoded_text: substantial
+idx:18 input_id:3477 decoded_text: pay
+idx:19 input_id:7659 decoded_text: cuts
+idx:20 input_id:1010 decoded_text: ,
+idx:21 input_id:1996 decoded_text: the
+idx:22 input_id:8582 decoded_text: airline
+idx:23 input_id:2097 decoded_text: will
+idx:24 input_id:2175 decoded_text: go
+idx:25 input_id:2041 decoded_text: out
+idx:26 input_id:1997 decoded_text: of
+idx:27 input_id:2449 decoded_text: business
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.0136780738830566, -2.87471604347229, 6.54844331741333, -2.7361717224121094]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

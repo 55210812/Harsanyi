@@ -1,0 +1,54 @@
+Execution time: 2025-07-02 19:27:01
+prompt: [CLS] the next century definitely will not be for the birds as the changing world takes a toll on many species. by 2100, about 10 percent of all bird species probably will be extinct, killed off by habitat loss, hunting [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2279 decoded_text: next
+idx:3 input_id:2301 decoded_text: century
+idx:4 input_id:5791 decoded_text: definitely
+idx:5 input_id:2097 decoded_text: will
+idx:6 input_id:2025 decoded_text: not
+idx:7 input_id:2022 decoded_text: be
+idx:8 input_id:2005 decoded_text: for
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:5055 decoded_text: birds
+idx:11 input_id:2004 decoded_text: as
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:5278 decoded_text: changing
+idx:14 input_id:2088 decoded_text: world
+idx:15 input_id:3138 decoded_text: takes
+idx:16 input_id:1037 decoded_text: a
+idx:17 input_id:9565 decoded_text: toll
+idx:18 input_id:2006 decoded_text: on
+idx:19 input_id:2116 decoded_text: many
+idx:20 input_id:2427 decoded_text: species
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:2011 decoded_text: by
+idx:23 input_id:12875 decoded_text: 210
+idx:24 input_id:2692 decoded_text: ##0
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:2055 decoded_text: about
+idx:27 input_id:2184 decoded_text: 10
+idx:28 input_id:3867 decoded_text: percent
+idx:29 input_id:1997 decoded_text: of
+idx:30 input_id:2035 decoded_text: all
+idx:31 input_id:4743 decoded_text: bird
+idx:32 input_id:2427 decoded_text: species
+idx:33 input_id:2763 decoded_text: probably
+idx:34 input_id:2097 decoded_text: will
+idx:35 input_id:2022 decoded_text: be
+idx:36 input_id:8548 decoded_text: extinct
+idx:37 input_id:1010 decoded_text: ,
+idx:38 input_id:2730 decoded_text: killed
+idx:39 input_id:2125 decoded_text: off
+idx:40 input_id:2011 decoded_text: by
+idx:41 input_id:6552 decoded_text: habitat
+idx:42 input_id:3279 decoded_text: loss
+idx:43 input_id:1010 decoded_text: ,
+idx:44 input_id:5933 decoded_text: hunting
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-1.8390411138534546, -1.249956727027893, -3.4045095443725586, 6.977088928222656]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

@@ -1,0 +1,30 @@
+---------- Players ----------
+Player 0: november
+Player 1: 3,
+Player 2: 2004.
+Player 3: liverpool
+Player 4: boss
+Player 5: rafa
+Player 6: benitez
+Player 7: confirmed
+Player 8: looking
+Player 9: bring
+Player 10: new
+Player 11: striker
+Player 12: following
+Player 13: injury
+Player 14: summer
+Player 15: recruit
+Player 16: djibril
+Player 17: cisse.
+---------- Rewards ----------
+v(): -4.511346817016602	 ([])
+v(2 7 8 9 12 13 14 17): 7.977725982666016	 ([2004.][confirmed][looking][bring][following][injury][summer][cisse.])
+v(0 1 3 4 5 6 10 11 15 16): 9.568546295166016	 ([november][3,][liverpool][boss][rafa][benitez][new][striker][recruit][djibril])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.714558601379395	 ([november][3,][2004.][liverpool][boss][rafa][benitez][confirmed][looking][bring][new][striker][following][injury][summer][recruit][djibril][cisse.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 14.225905418395996, EP: 1.0	 ([november][3,][2004.][liverpool][boss][rafa][benitez][confirmed][looking][bring][new][striker][following][injury][summer][recruit][djibril][cisse.])
+v(0 1 3 4 5 6 10 11 15 16): 14.079893112182617, EP: 0.9897361397743225	 ([november][3,][liverpool][boss][rafa][benitez][new][striker][recruit][djibril])
+v(2 7 8 9 12 13 14 17): 12.489072799682617, EP: 0.8779105544090271	 ([2004.][confirmed][looking][bring][following][injury][summer][cisse.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

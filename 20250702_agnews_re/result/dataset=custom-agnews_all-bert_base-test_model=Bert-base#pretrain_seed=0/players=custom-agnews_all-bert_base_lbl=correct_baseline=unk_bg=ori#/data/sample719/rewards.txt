@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: mortar
+Player 1: attack
+Player 2: iraqi
+Player 3: national
+Player 4: guard
+Player 5: headquarters
+Player 6: north
+Player 7: baghdad
+Player 8: killed
+Player 9: least
+Player 10: four
+Player 11: national
+Player 12: guards
+Player 13: injured
+Player 14: 80
+Player 15: others,
+Player 16: officials
+Player 17: said
+Player 18: tuesday.
+---------- Rewards ----------
+v(): -6.478599548339844	 ([])
+v(2 7 8): 7.254177570343018	 ([iraqi][baghdad][killed])
+v(0 1 6 13 14 15 16 17): 7.224118232727051	 ([mortar][attack][north][injured][80][others,][officials][said])
+v(3 4 5): 3.8710520267486572	 ([national][guard][headquarters])
+v(9 10 11 12 18): 5.000860691070557	 ([least][four][national][guards][tuesday.])
+v(0 1 2 6 7 8 13 14 15 16 17): 7.643529891967773	 ([mortar][attack][iraqi][north][baghdad][killed][injured][80][others,][officials][said])
+v(2 3 4 5 7 8): 7.426694393157959	 ([iraqi][national][guard][headquarters][baghdad][killed])
+v(2 7 8 9 10 11 12 18): 7.3632354736328125	 ([iraqi][baghdad][killed][least][four][national][guards][tuesday.])
+v(0 1 3 4 5 6 13 14 15 16 17): 7.449656009674072	 ([mortar][attack][national][guard][headquarters][north][injured][80][others,][officials][said])
+v(0 1 6 9 10 11 12 13 14 15 16 17 18): 7.536421775817871	 ([mortar][attack][north][least][four][national][guards][injured][80][others,][officials][said][tuesday.])
+v(3 4 5 9 10 11 12 18): 5.722146987915039	 ([national][guard][headquarters][least][four][national][guards][tuesday.])
+v(0 1 2 3 4 5 6 7 8 13 14 15 16 17): 7.685782432556152	 ([mortar][attack][iraqi][national][guard][headquarters][north][baghdad][killed][injured][80][others,][officials][said])
+v(0 1 2 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.541714668273926	 ([mortar][attack][iraqi][north][baghdad][killed][least][four][national][guards][injured][80][others,][officials][said][tuesday.])
+v(2 3 4 5 7 8 9 10 11 12 18): 7.415011405944824	 ([iraqi][national][guard][headquarters][baghdad][killed][least][four][national][guards][tuesday.])
+v(0 1 3 4 5 6 9 10 11 12 13 14 15 16 17 18): 7.484407424926758	 ([mortar][attack][national][guard][headquarters][north][least][four][national][guards][injured][80][others,][officials][said][tuesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.553093433380127	 ([mortar][attack][iraqi][national][guard][headquarters][north][baghdad][killed][least][four][national][guards][injured][80][others,][officials][said][tuesday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 13 14 15 16 17): 14.164381980895996, EP: 1.0094563961029053	 ([mortar][attack][iraqi][national][guard][headquarters][north][baghdad][killed][injured][80][others,][officials][said])
+v(0 1 2 6 7 8 13 14 15 16 17): 14.122129440307617, EP: 1.0064451694488525	 ([mortar][attack][iraqi][north][baghdad][killed][injured][80][others,][officials][said])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.031692504882812, EP: 1.0	 ([mortar][attack][iraqi][national][guard][headquarters][north][baghdad][killed][least][four][national][guards][injured][80][others,][officials][said][tuesday.])
+v(0 1 2 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.02031421661377, EP: 0.9991890788078308	 ([mortar][attack][iraqi][north][baghdad][killed][least][four][national][guards][injured][80][others,][officials][said][tuesday.])
+v(0 1 6 9 10 11 12 13 14 15 16 17 18): 14.015021324157715, EP: 0.9988119006156921	 ([mortar][attack][north][least][four][national][guards][injured][80][others,][officials][said][tuesday.])
+v(0 1 3 4 5 6 9 10 11 12 13 14 15 16 17 18): 13.963006973266602, EP: 0.995104968547821	 ([mortar][attack][national][guard][headquarters][north][least][four][national][guards][injured][80][others,][officials][said][tuesday.])
+v(0 1 3 4 5 6 13 14 15 16 17): 13.928255081176758, EP: 0.992628276348114	 ([mortar][attack][national][guard][headquarters][north][injured][80][others,][officials][said])
+v(2 3 4 5 7 8): 13.905294418334961, EP: 0.9909919500350952	 ([iraqi][national][guard][headquarters][baghdad][killed])
+v(2 3 4 5 7 8 9 10 11 12 18): 13.893610954284668, EP: 0.9901593327522278	 ([iraqi][national][guard][headquarters][baghdad][killed][least][four][national][guards][tuesday.])
+v(2 7 8 9 10 11 12 18): 13.841835021972656, EP: 0.9864693880081177	 ([iraqi][baghdad][killed][least][four][national][guards][tuesday.])
+v(2 7 8): 13.732776641845703, EP: 0.9786971211433411	 ([iraqi][baghdad][killed])
+v(0 1 6 13 14 15 16 17): 13.702717781066895, EP: 0.9765548706054688	 ([mortar][attack][north][injured][80][others,][officials][said])
+v(3 4 5 9 10 11 12 18): 12.200746536254883, EP: 0.8695135116577148	 ([national][guard][headquarters][least][four][national][guards][tuesday.])
+v(9 10 11 12 18): 11.479459762573242, EP: 0.818109393119812	 ([least][four][national][guards][tuesday.])
+v(3 4 5): 10.349651336669922, EP: 0.7375910878181458	 ([national][guard][headquarters])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: almost
+Player 1: two
+Player 2: months
+Player 3: defying
+Player 4: curse
+Player 5: bambino
+Player 6: one
+Player 7: day
+Player 8: saying
+Player 9: goodbye
+Player 10: pedro
+Player 11: martnez,
+Player 12: boston
+Player 13: red
+Player 14: sox
+Player 15: kept
+Player 16: moving
+Player 17: yesterday
+Player 18: welcoming
+Player 19: living
+Player 20: embodiment
+---------- Rewards ----------
+v(): -4.857505798339844	 ([])
+v(7 9 10 11 12 14 17): 9.394184112548828	 ([day][goodbye][pedro][martnez,][boston][sox][yesterday])
+v(5 6 8 13 19): -3.692046642303467	 ([bambino][one][saying][red][living])
+v(0 1 2 3 4 15 16 18 20): -4.941999435424805	 ([almost][two][months][defying][curse][kept][moving][welcoming][embodiment])
+v(5 6 7 8 9 10 11 12 13 14 17 19): 9.48307991027832	 ([bambino][one][day][saying][goodbye][pedro][martnez,][boston][red][sox][yesterday][living])
+v(0 1 2 3 4 7 9 10 11 12 14 15 16 17 18 20): 9.674064636230469	 ([almost][two][months][defying][curse][day][goodbye][pedro][martnez,][boston][sox][kept][moving][yesterday][welcoming][embodiment])
+v(0 1 2 3 4 5 6 8 13 15 16 18 19 20): 5.30540132522583	 ([almost][two][months][defying][curse][bambino][one][saying][red][kept][moving][welcoming][living][embodiment])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 9.611257553100586	 ([almost][two][months][defying][curse][bambino][one][day][saying][goodbye][pedro][martnez,][boston][red][sox][kept][moving][yesterday][welcoming][living][embodiment])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 7 9 10 11 12 14 15 16 17 18 20): 14.531570434570312, EP: 1.0043408870697021	 ([almost][two][months][defying][curse][day][goodbye][pedro][martnez,][boston][sox][kept][moving][yesterday][welcoming][embodiment])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 14.46876335144043, EP: 1.0	 ([almost][two][months][defying][curse][bambino][one][day][saying][goodbye][pedro][martnez,][boston][red][sox][kept][moving][yesterday][welcoming][living][embodiment])
+v(5 6 7 8 9 10 11 12 13 14 17 19): 14.340585708618164, EP: 0.9911410808563232	 ([bambino][one][day][saying][goodbye][pedro][martnez,][boston][red][sox][yesterday][living])
+v(7 9 10 11 12 14 17): 14.251689910888672, EP: 0.9849970936775208	 ([day][goodbye][pedro][martnez,][boston][sox][yesterday])
+v(0 1 2 3 4 5 6 8 13 15 16 18 19 20): 10.162906646728516, EP: 0.7024032473564148	 ([almost][two][months][defying][curse][bambino][one][saying][red][kept][moving][welcoming][living][embodiment])
+v(5 6 8 13 19): 1.165459156036377, EP: 0.08055001497268677	 ([bambino][one][saying][red][living])
+v(0 1 2 3 4 15 16 18 20): -0.08449363708496094, EP: -0.005839727818965912	 ([almost][two][months][defying][curse][kept][moving][welcoming][embodiment])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

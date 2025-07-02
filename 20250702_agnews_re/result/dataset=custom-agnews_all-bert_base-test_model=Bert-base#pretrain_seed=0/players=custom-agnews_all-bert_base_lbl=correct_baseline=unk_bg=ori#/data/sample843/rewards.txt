@@ -1,0 +1,27 @@
+---------- Players ----------
+Player 0: militants
+Player 1: threatening
+Player 2: kill
+Player 3: three
+Player 4: un
+Player 5: hostages
+Player 6: said
+Player 7: yesterday
+Player 8: talks
+Player 9: afghan
+Player 10: un
+Player 11: officials
+Player 12: postponed
+Player 13: another
+Player 14: day.
+---------- Rewards ----------
+v(): -7.504421234130859	 ([])
+v(0 2 5 8 9 11): 8.27763843536377	 ([militants][kill][hostages][talks][afghan][officials])
+v(1 3 4 6 7 10 12 13 14): 7.421422958374023	 ([threatening][three][un][said][yesterday][un][postponed][another][day.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 8.35693645477295	 ([militants][threatening][kill][three][un][hostages][said][yesterday][talks][afghan][un][officials][postponed][another][day.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 15.861357688903809, EP: 1.0	 ([militants][threatening][kill][three][un][hostages][said][yesterday][talks][afghan][un][officials][postponed][another][day.])
+v(0 2 5 8 9 11): 15.782059669494629, EP: 0.9950005412101746	 ([militants][kill][hostages][talks][afghan][officials])
+v(1 3 4 6 7 10 12 13 14): 14.925844192504883, EP: 0.9410193562507629	 ([threatening][three][un][said][yesterday][un][postponed][another][day.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

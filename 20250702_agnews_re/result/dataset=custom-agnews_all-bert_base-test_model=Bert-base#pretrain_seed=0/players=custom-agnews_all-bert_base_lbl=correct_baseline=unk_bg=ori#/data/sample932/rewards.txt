@@ -1,0 +1,36 @@
+---------- Players ----------
+Player 0: everton
+Player 1: midfielder
+Player 2: tim
+Player 3: cahill
+Player 4: could
+Player 5: win
+Player 6: reprieve
+Player 7: within
+Player 8: next
+Player 9: 48
+Player 10: hours
+Player 11: dramatic
+Player 12: intervention
+Player 13: fifa
+Player 14: controversial
+Player 15: dismissal.
+---------- Rewards ----------
+v(): -4.603235721588135	 ([])
+v(0 1 3 13): 9.374031066894531	 ([everton][midfielder][cahill][fifa])
+v(2 5 6 9 15): -3.1964313983917236	 ([tim][win][reprieve][48][dismissal.])
+v(4 7 8 10 11 12 14): -4.897188663482666	 ([could][within][next][hours][dramatic][intervention][controversial])
+v(0 1 2 3 5 6 9 13 15): 8.52777099609375	 ([everton][midfielder][tim][cahill][win][reprieve][48][fifa][dismissal.])
+v(0 1 3 4 7 8 10 11 12 13 14): 9.533843994140625	 ([everton][midfielder][cahill][could][within][next][hours][dramatic][intervention][fifa][controversial])
+v(2 4 5 6 7 8 9 10 11 12 14 15): -2.9912984371185303	 ([tim][could][win][reprieve][within][next][48][hours][dramatic][intervention][controversial][dismissal.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 9.333477020263672	 ([everton][midfielder][tim][cahill][could][win][reprieve][within][next][48][hours][dramatic][intervention][fifa][controversial][dismissal.])
+---------- Rewards-v() ----------
+v(0 1 3 4 7 8 10 11 12 13 14): 14.137079238891602, EP: 1.0143768787384033	 ([everton][midfielder][cahill][could][within][next][hours][dramatic][intervention][fifa][controversial])
+v(0 1 3 13): 13.977266311645508, EP: 1.0029098987579346	 ([everton][midfielder][cahill][fifa])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15): 13.936712265014648, EP: 1.0	 ([everton][midfielder][tim][cahill][could][win][reprieve][within][next][48][hours][dramatic][intervention][fifa][controversial][dismissal.])
+v(0 1 2 3 5 6 9 13 15): 13.131006240844727, EP: 0.9421882033348083	 ([everton][midfielder][tim][cahill][win][reprieve][48][fifa][dismissal.])
+v(2 4 5 6 7 8 9 10 11 12 14 15): 1.6119372844696045, EP: 0.11566123366355896	 ([tim][could][win][reprieve][within][next][48][hours][dramatic][intervention][controversial][dismissal.])
+v(2 5 6 9 15): 1.4068043231964111, EP: 0.10094233602285385	 ([tim][win][reprieve][48][dismissal.])
+v(4 7 8 10 11 12 14): -0.29395294189453125, EP: -0.021091986447572708	 ([could][within][next][hours][dramatic][intervention][controversial])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

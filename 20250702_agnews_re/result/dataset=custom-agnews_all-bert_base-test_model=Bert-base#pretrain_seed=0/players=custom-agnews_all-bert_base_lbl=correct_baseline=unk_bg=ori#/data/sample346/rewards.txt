@@ -1,0 +1,57 @@
+---------- Players ----------
+Player 0: objectweb,
+Player 1: consortium
+Player 2: focused
+Player 3: delivery
+Player 4: open
+Player 5: source
+Player 6: infrastructure
+Player 7: technologies,
+Player 8: announced
+Player 9: tuesday
+Player 10: exo
+Player 11: platform
+Player 12: sarl
+Player 13: joined
+Player 14: consortium
+Player 15: enterprise
+Player 16: portal
+Player 17: solution
+Player 18: ( eps )
+Player 19: hosted
+Player 20: objectweb.
+---------- Rewards ----------
+v(): 6.057189464569092	 ([])
+v(0 13 15 16 19 20): 6.3085832595825195	 ([objectweb,][joined][enterprise][portal][hosted][objectweb.])
+v(1 7 8 11): 3.757490396499634	 ([consortium][technologies,][announced][platform])
+v(2 3 9 10 12 14 18): 6.780930042266846	 ([focused][delivery][tuesday][exo][sarl][consortium][( eps )])
+v(4 5 6 17): 8.18197250366211	 ([open][source][infrastructure][solution])
+v(0 1 7 8 11 13 15 16 19 20): 6.6252055168151855	 ([objectweb,][consortium][technologies,][announced][platform][joined][enterprise][portal][hosted][objectweb.])
+v(0 2 3 9 10 12 13 14 15 16 18 19 20): 7.639460563659668	 ([objectweb,][focused][delivery][tuesday][exo][sarl][joined][consortium][enterprise][portal][( eps )][hosted][objectweb.])
+v(0 4 5 6 13 15 16 17 19 20): 6.364843368530273	 ([objectweb,][open][source][infrastructure][joined][enterprise][portal][solution][hosted][objectweb.])
+v(1 2 3 7 8 9 10 11 12 14 18): 4.356511116027832	 ([consortium][focused][delivery][technologies,][announced][tuesday][exo][platform][sarl][consortium][( eps )])
+v(1 4 5 6 7 8 11 17): 7.469555377960205	 ([consortium][open][source][infrastructure][technologies,][announced][platform][solution])
+v(2 3 4 5 6 9 10 12 14 17 18): 7.896941661834717	 ([focused][delivery][open][source][infrastructure][tuesday][exo][sarl][consortium][solution][( eps )])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 18 19 20): 7.501502990722656	 ([objectweb,][consortium][focused][delivery][technologies,][announced][tuesday][exo][platform][sarl][joined][consortium][enterprise][portal][( eps )][hosted][objectweb.])
+v(0 1 4 5 6 7 8 11 13 15 16 17 19 20): 6.857722282409668	 ([objectweb,][consortium][open][source][infrastructure][technologies,][announced][platform][joined][enterprise][portal][solution][hosted][objectweb.])
+v(0 2 3 4 5 6 9 10 12 13 14 15 16 17 18 19 20): 7.350429534912109	 ([objectweb,][focused][delivery][open][source][infrastructure][tuesday][exo][sarl][joined][consortium][enterprise][portal][solution][( eps )][hosted][objectweb.])
+v(1 2 3 4 5 6 7 8 9 10 11 12 14 17 18): 7.4798102378845215	 ([consortium][focused][delivery][open][source][infrastructure][technologies,][announced][tuesday][exo][platform][sarl][consortium][solution][( eps )])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 7.413605690002441	 ([objectweb,][consortium][focused][delivery][open][source][infrastructure][technologies,][announced][tuesday][exo][platform][sarl][joined][consortium][enterprise][portal][solution][( eps )][hosted][objectweb.])
+---------- Rewards-v() ----------
+v(1 7 8 11): -2.299699068069458, EP: -1.695422887802124	 ([consortium][technologies,][announced][platform])
+v(4 5 6 17): 2.1247830390930176, EP: 1.566468358039856	 ([open][source][infrastructure][solution])
+v(2 3 4 5 6 9 10 12 14 17 18): 1.839752197265625, EP: 1.3563331365585327	 ([focused][delivery][open][source][infrastructure][tuesday][exo][sarl][consortium][solution][( eps )])
+v(1 2 3 7 8 9 10 11 12 14 18): -1.7006783485412598, EP: -1.25380277633667	 ([consortium][focused][delivery][technologies,][announced][tuesday][exo][platform][sarl][consortium][( eps )])
+v(0 2 3 9 10 12 13 14 15 16 18 19 20): 1.5822710990905762, EP: 1.1665085554122925	 ([objectweb,][focused][delivery][tuesday][exo][sarl][joined][consortium][enterprise][portal][( eps )][hosted][objectweb.])
+v(0 1 2 3 7 8 9 10 11 12 13 14 15 16 18 19 20): 1.4443135261535645, EP: 1.0648010969161987	 ([objectweb,][consortium][focused][delivery][technologies,][announced][tuesday][exo][platform][sarl][joined][consortium][enterprise][portal][( eps )][hosted][objectweb.])
+v(1 2 3 4 5 6 7 8 9 10 11 12 14 17 18): 1.4226207733154297, EP: 1.0488084554672241	 ([consortium][focused][delivery][open][source][infrastructure][technologies,][announced][tuesday][exo][platform][sarl][consortium][solution][( eps )])
+v(1 4 5 6 7 8 11 17): 1.4123659133911133, EP: 1.0412482023239136	 ([consortium][open][source][infrastructure][technologies,][announced][platform][solution])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 1.3564162254333496, EP: 1.0	 ([objectweb,][consortium][focused][delivery][open][source][infrastructure][technologies,][announced][tuesday][exo][platform][sarl][joined][consortium][enterprise][portal][solution][( eps )][hosted][objectweb.])
+v(0 2 3 4 5 6 9 10 12 13 14 15 16 17 18 19 20): 1.2932400703430176, EP: 0.9534242153167725	 ([objectweb,][focused][delivery][open][source][infrastructure][tuesday][exo][sarl][joined][consortium][enterprise][portal][solution][( eps )][hosted][objectweb.])
+v(0 1 4 5 6 7 8 11 13 15 16 17 19 20): 0.8005328178405762, EP: 0.5901823043823242	 ([objectweb,][consortium][open][source][infrastructure][technologies,][announced][platform][joined][enterprise][portal][solution][hosted][objectweb.])
+v(2 3 9 10 12 14 18): 0.7237405776977539, EP: 0.5335682034492493	 ([focused][delivery][tuesday][exo][sarl][consortium][( eps )])
+v(0 1 7 8 11 13 15 16 19 20): 0.5680160522460938, EP: 0.41876235604286194	 ([objectweb,][consortium][technologies,][announced][platform][joined][enterprise][portal][hosted][objectweb.])
+v(0 4 5 6 13 15 16 17 19 20): 0.30765390396118164, EP: 0.22681379318237305	 ([objectweb,][open][source][infrastructure][joined][enterprise][portal][solution][hosted][objectweb.])
+v(0 13 15 16 19 20): 0.25139379501342773, EP: 0.18533676862716675	 ([objectweb,][joined][enterprise][portal][hosted][objectweb.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

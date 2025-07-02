@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 19:34:50
+prompt: [CLS] afp - negotiations between the austrian privatisation agency oeiag and the swiss telecommunications group swisscom for a stake in telekom austria ended without a deal, oeiag said in a statement. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:21358 decoded_text: af
+idx:2 input_id:2361 decoded_text: ##p
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:7776 decoded_text: negotiations
+idx:5 input_id:2090 decoded_text: between
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:6161 decoded_text: austrian
+idx:8 input_id:26927 decoded_text: pri
+idx:9 input_id:20203 decoded_text: ##vati
+idx:10 input_id:26652 decoded_text: ##sation
+idx:11 input_id:4034 decoded_text: agency
+idx:12 input_id:1051 decoded_text: o
+idx:13 input_id:27958 decoded_text: ##eia
+idx:14 input_id:2290 decoded_text: ##g
+idx:15 input_id:1998 decoded_text: and
+idx:16 input_id:1996 decoded_text: the
+idx:17 input_id:5364 decoded_text: swiss
+idx:18 input_id:12108 decoded_text: telecommunications
+idx:19 input_id:2177 decoded_text: group
+idx:20 input_id:5364 decoded_text: swiss
+idx:21 input_id:9006 decoded_text: ##com
+idx:22 input_id:2005 decoded_text: for
+idx:23 input_id:1037 decoded_text: a
+idx:24 input_id:8406 decoded_text: stake
+idx:25 input_id:1999 decoded_text: in
+idx:26 input_id:10093 decoded_text: tel
+idx:27 input_id:5937 decoded_text: ##ek
+idx:28 input_id:5358 decoded_text: ##om
+idx:29 input_id:5118 decoded_text: austria
+idx:30 input_id:3092 decoded_text: ended
+idx:31 input_id:2302 decoded_text: without
+idx:32 input_id:1037 decoded_text: a
+idx:33 input_id:3066 decoded_text: deal
+idx:34 input_id:1010 decoded_text: ,
+idx:35 input_id:1051 decoded_text: o
+idx:36 input_id:27958 decoded_text: ##eia
+idx:37 input_id:2290 decoded_text: ##g
+idx:38 input_id:2056 decoded_text: said
+idx:39 input_id:1999 decoded_text: in
+idx:40 input_id:1037 decoded_text: a
+idx:41 input_id:4861 decoded_text: statement
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.8314998149871826, -5.12925386428833, 3.3662636280059814, 1.9482988119125366]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

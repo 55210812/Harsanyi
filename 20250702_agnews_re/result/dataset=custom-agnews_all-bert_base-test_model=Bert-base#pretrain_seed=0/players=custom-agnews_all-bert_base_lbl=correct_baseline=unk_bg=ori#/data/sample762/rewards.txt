@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: oracle
+Player 1: corp.
+Player 2: ceo
+Player 3: larry
+Player 4: ellison
+Player 5: testified
+Player 6: yesterday
+Player 7: business
+Player 8: software
+Player 9: maker
+Player 10: leaning
+Player 11: toward
+Player 12: lowering
+Player 13: \ $ 7. 7
+Player 14: billion
+Player 15: bid
+Player 16: rival
+Player 17: peoplesoft
+---------- Rewards ----------
+v(): -5.8298821449279785	 ([])
+v(2 3 7 8 17): 0.5450842380523682	 ([ceo][larry][business][software][peoplesoft])
+v(0 1 4 5 9): 7.48297643661499	 ([oracle][corp.][ellison][testified][maker])
+v(6 10 11 12 13 14 15 16): 5.626596450805664	 ([yesterday][leaning][toward][lowering][\ $ 7. 7][billion][bid][rival])
+v(0 1 2 3 4 5 7 8 9 17): 4.167751312255859	 ([oracle][corp.][ceo][larry][ellison][testified][business][software][maker][peoplesoft])
+v(2 3 6 7 8 10 11 12 13 14 15 16 17): 1.7954442501068115	 ([ceo][larry][yesterday][business][software][leaning][toward][lowering][\ $ 7. 7][billion][bid][rival][peoplesoft])
+v(0 1 4 5 6 9 10 11 12 13 14 15 16): 7.7552289962768555	 ([oracle][corp.][ellison][testified][yesterday][maker][leaning][toward][lowering][\ $ 7. 7][billion][bid][rival])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 5.1976776123046875	 ([oracle][corp.][ceo][larry][ellison][testified][yesterday][business][software][maker][leaning][toward][lowering][\ $ 7. 7][billion][bid][rival][peoplesoft])
+---------- Rewards-v() ----------
+v(0 1 4 5 6 9 10 11 12 13 14 15 16): 13.585111618041992, EP: 1.2319236993789673	 ([oracle][corp.][ellison][testified][yesterday][maker][leaning][toward][lowering][\ $ 7. 7][billion][bid][rival])
+v(0 1 4 5 9): 13.312858581542969, EP: 1.207235336303711	 ([oracle][corp.][ellison][testified][maker])
+v(6 10 11 12 13 14 15 16): 11.456478118896484, EP: 1.0388951301574707	 ([yesterday][leaning][toward][lowering][\ $ 7. 7][billion][bid][rival])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 11.027559280395508, EP: 1.0	 ([oracle][corp.][ceo][larry][ellison][testified][yesterday][business][software][maker][leaning][toward][lowering][\ $ 7. 7][billion][bid][rival][peoplesoft])
+v(0 1 2 3 4 5 7 8 9 17): 9.99763298034668, EP: 0.9066043496131897	 ([oracle][corp.][ceo][larry][ellison][testified][business][software][maker][peoplesoft])
+v(2 3 6 7 8 10 11 12 13 14 15 16 17): 7.625326156616211, EP: 0.6914790272712708	 ([ceo][larry][yesterday][business][software][leaning][toward][lowering][\ $ 7. 7][billion][bid][rival][peoplesoft])
+v(2 3 7 8 17): 6.374966621398926, EP: 0.5780940651893616	 ([ceo][larry][business][software][peoplesoft])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,46 @@
+Execution time: 2025-07-02 19:27:44
+prompt: [CLS] within 25 seconds - to 2, 500mph. for no more than five minutes they will float about, 80 miles above planet earth. lavatory and in - flight drinks? [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2306 decoded_text: within
+idx:2 input_id:2423 decoded_text: 25
+idx:3 input_id:3823 decoded_text: seconds
+idx:4 input_id:1011 decoded_text: -
+idx:5 input_id:2000 decoded_text: to
+idx:6 input_id:1016 decoded_text: 2
+idx:7 input_id:1010 decoded_text: ,
+idx:8 input_id:3156 decoded_text: 500
+idx:9 input_id:8737 decoded_text: ##mp
+idx:10 input_id:2232 decoded_text: ##h
+idx:11 input_id:1012 decoded_text: .
+idx:12 input_id:2005 decoded_text: for
+idx:13 input_id:2053 decoded_text: no
+idx:14 input_id:2062 decoded_text: more
+idx:15 input_id:2084 decoded_text: than
+idx:16 input_id:2274 decoded_text: five
+idx:17 input_id:2781 decoded_text: minutes
+idx:18 input_id:2027 decoded_text: they
+idx:19 input_id:2097 decoded_text: will
+idx:20 input_id:14257 decoded_text: float
+idx:21 input_id:2055 decoded_text: about
+idx:22 input_id:1010 decoded_text: ,
+idx:23 input_id:3770 decoded_text: 80
+idx:24 input_id:2661 decoded_text: miles
+idx:25 input_id:2682 decoded_text: above
+idx:26 input_id:4774 decoded_text: planet
+idx:27 input_id:3011 decoded_text: earth
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:13697 decoded_text: lava
+idx:30 input_id:7062 decoded_text: ##tory
+idx:31 input_id:1998 decoded_text: and
+idx:32 input_id:1999 decoded_text: in
+idx:33 input_id:1011 decoded_text: -
+idx:34 input_id:3462 decoded_text: flight
+idx:35 input_id:8974 decoded_text: drinks
+idx:36 input_id:1029 decoded_text: ?
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-2.6315245628356934, -0.7768663167953491, -2.8619587421417236, 6.910935878753662]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

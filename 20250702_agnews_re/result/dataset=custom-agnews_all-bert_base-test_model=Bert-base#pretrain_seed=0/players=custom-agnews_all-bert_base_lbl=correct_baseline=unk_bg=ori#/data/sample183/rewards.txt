@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: sudan
+Player 3: said
+Player 4: wednesday
+Player 5: closed
+Player 6: embassy
+Player 7: washington
+Player 8: unable
+Player 9: find
+Player 10: bank
+Player 11: would
+Player 12: handle
+Player 13: financial
+Player 14: matters.
+---------- Rewards ----------
+v(): -5.779154300689697	 ([])
+v(2 3 6 8 9): 8.130674362182617	 ([sudan][said][embassy][unable][find])
+v(4 5 7 10): -9.76931095123291	 ([wednesday][closed][washington][bank])
+v(0 1 11 12 13 14): 4.957424640655518	 ([ap][-][would][handle][financial][matters.])
+v(2 3 4 5 6 7 8 9 10): 6.732516765594482	 ([sudan][said][wednesday][closed][embassy][washington][unable][find][bank])
+v(0 1 2 3 6 8 9 11 12 13 14): 8.41020393371582	 ([ap][-][sudan][said][embassy][unable][find][would][handle][financial][matters.])
+v(0 1 4 5 7 10 11 12 13 14): -0.4262903332710266	 ([ap][-][wednesday][closed][washington][bank][would][handle][financial][matters.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 8.38923454284668	 ([ap][-][sudan][said][wednesday][closed][embassy][washington][unable][find][bank][would][handle][financial][matters.])
+---------- Rewards-v() ----------
+v(0 1 2 3 6 8 9 11 12 13 14): 14.18935775756836, EP: 1.001479983329773	 ([ap][-][sudan][said][embassy][unable][find][would][handle][financial][matters.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 14.168388366699219, EP: 1.0	 ([ap][-][sudan][said][wednesday][closed][embassy][washington][unable][find][bank][would][handle][financial][matters.])
+v(2 3 6 8 9): 13.909828186035156, EP: 0.9817509055137634	 ([sudan][said][embassy][unable][find])
+v(2 3 4 5 6 7 8 9 10): 12.51167106628418, EP: 0.8830694556236267	 ([sudan][said][wednesday][closed][embassy][washington][unable][find][bank])
+v(0 1 11 12 13 14): 10.736578941345215, EP: 0.7577840685844421	 ([ap][-][would][handle][financial][matters.])
+v(0 1 4 5 7 10 11 12 13 14): 5.352863788604736, EP: 0.3778032958507538	 ([ap][-][wednesday][closed][washington][bank][would][handle][financial][matters.])
+v(4 5 7 10): -3.990156650543213, EP: -0.281623899936676	 ([wednesday][closed][washington][bank])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

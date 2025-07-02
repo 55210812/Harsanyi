@@ -1,0 +1,55 @@
+---------- Players ----------
+Player 0: heart
+Player 1: patients
+Player 2: # 39 ; t
+Player 3: likely
+Player 4: live
+Player 5: long
+Player 6: term
+Player 7: getting
+Player 8: artery - opening
+Player 9: tubes
+Player 10: called
+Player 11: stents,
+Player 12: according
+Player 13: study
+Player 14: released
+Player 15: yesterday
+Player 16: researchers
+Player 17: duke
+Player 18: university.
+---------- Rewards ----------
+v(): -1.5883033275604248	 ([])
+v(12 13 14 16 18): -6.8342766761779785	 ([according][study][released][researchers][university.])
+v(4 5 9 10): -6.424016952514648	 ([live][long][tubes][called])
+v(0 1 2 3 6 7 15): 6.501014232635498	 ([heart][patients][# 39 ; t][likely][term][getting][yesterday])
+v(8 11 17): 4.078317165374756	 ([artery - opening][stents,][duke])
+v(4 5 9 10 12 13 14 16 18): -9.035468101501465	 ([live][long][tubes][called][according][study][released][researchers][university.])
+v(0 1 2 3 6 7 12 13 14 15 16 18): -0.45434510707855225	 ([heart][patients][# 39 ; t][likely][term][getting][according][study][released][yesterday][researchers][university.])
+v(8 11 12 13 14 16 17 18): 1.7244007587432861	 ([artery - opening][stents,][according][study][released][researchers][duke][university.])
+v(0 1 2 3 4 5 6 7 9 10 15): 3.5717313289642334	 ([heart][patients][# 39 ; t][likely][live][long][term][getting][tubes][called][yesterday])
+v(4 5 8 9 10 11 17): -1.6491272449493408	 ([live][long][artery - opening][tubes][called][stents,][duke])
+v(0 1 2 3 6 7 8 11 15 17): 6.089609146118164	 ([heart][patients][# 39 ; t][likely][term][getting][artery - opening][stents,][yesterday][duke])
+v(0 1 2 3 4 5 6 7 9 10 12 13 14 15 16 18): -4.252618789672852	 ([heart][patients][# 39 ; t][likely][live][long][term][getting][tubes][called][according][study][released][yesterday][researchers][university.])
+v(4 5 8 9 10 11 12 13 14 16 17 18): -4.820829391479492	 ([live][long][artery - opening][tubes][called][stents,][according][study][released][researchers][duke][university.])
+v(0 1 2 3 6 7 8 11 12 13 14 15 16 17 18): 6.022724628448486	 ([heart][patients][# 39 ; t][likely][term][getting][artery - opening][stents,][according][study][released][yesterday][researchers][duke][university.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 15 17): 5.493512153625488	 ([heart][patients][# 39 ; t][likely][live][long][term][getting][artery - opening][tubes][called][stents,][yesterday][duke])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 4.595969200134277	 ([heart][patients][# 39 ; t][likely][live][long][term][getting][artery - opening][tubes][called][stents,][according][study][released][yesterday][researchers][duke][university.])
+---------- Rewards-v() ----------
+v(0 1 2 3 6 7 15): 8.089317321777344, EP: 1.3080466985702515	 ([heart][patients][# 39 ; t][likely][term][getting][yesterday])
+v(0 1 2 3 6 7 8 11 15 17): 7.677912712097168, EP: 1.2415223121643066	 ([heart][patients][# 39 ; t][likely][term][getting][artery - opening][stents,][yesterday][duke])
+v(0 1 2 3 6 7 8 11 12 13 14 15 16 17 18): 7.611027717590332, EP: 1.2307069301605225	 ([heart][patients][# 39 ; t][likely][term][getting][artery - opening][stents,][according][study][released][yesterday][researchers][duke][university.])
+v(4 5 9 10 12 13 14 16 18): -7.447164535522461, EP: -1.2042102813720703	 ([live][long][tubes][called][according][study][released][researchers][university.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 15 17): 7.081815719604492, EP: 1.145133137702942	 ([heart][patients][# 39 ; t][likely][live][long][term][getting][artery - opening][tubes][called][stents,][yesterday][duke])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 6.184272766113281, EP: 1.0	 ([heart][patients][# 39 ; t][likely][live][long][term][getting][artery - opening][tubes][called][stents,][according][study][released][yesterday][researchers][duke][university.])
+v(8 11 17): 5.666620254516602, EP: 0.9162953495979309	 ([artery - opening][stents,][duke])
+v(12 13 14 16 18): -5.245973587036133, EP: -0.8482765555381775	 ([according][study][released][researchers][university.])
+v(0 1 2 3 4 5 6 7 9 10 15): 5.160034656524658, EP: 0.8343802094459534	 ([heart][patients][# 39 ; t][likely][live][long][term][getting][tubes][called][yesterday])
+v(4 5 9 10): -4.8357133865356445, EP: -0.781937301158905	 ([live][long][tubes][called])
+v(8 11 12 13 14 16 17 18): 3.312704086303711, EP: 0.5356659293174744	 ([artery - opening][stents,][according][study][released][researchers][duke][university.])
+v(4 5 8 9 10 11 12 13 14 16 17 18): -3.2325260639190674, EP: -0.5227010846138	 ([live][long][artery - opening][tubes][called][stents,][according][study][released][researchers][duke][university.])
+v(0 1 2 3 4 5 6 7 9 10 12 13 14 15 16 18): -2.6643154621124268, EP: -0.43082115054130554	 ([heart][patients][# 39 ; t][likely][live][long][term][getting][tubes][called][according][study][released][yesterday][researchers][university.])
+v(0 1 2 3 6 7 12 13 14 15 16 18): 1.1339582204818726, EP: 0.18336160480976105	 ([heart][patients][# 39 ; t][likely][term][getting][according][study][released][yesterday][researchers][university.])
+v(4 5 8 9 10 11 17): -0.060823917388916016, EP: -0.00983525812625885	 ([live][long][artery - opening][tubes][called][stents,][duke])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

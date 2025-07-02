@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: peugeot
+Player 1: boss
+Player 2: corrado
+Player 3: provera
+Player 4: expects
+Player 5: marcus
+Player 6: gronholm
+Player 7: bounce
+Player 8: back
+Player 9: today
+Player 10: wet
+Player 11: weather
+Player 12: saw
+Player 13: slip
+Player 14: pace
+Player 15: wales
+Player 16: rally
+Player 17: gb.
+---------- Rewards ----------
+v(): -4.491643905639648	 ([])
+v(0 1 2 3 7 15 16 17): 6.024142265319824	 ([peugeot][boss][corrado][provera][bounce][wales][rally][gb.])
+v(8 9 10 11 12): 3.2148427963256836	 ([back][today][wet][weather][saw])
+v(4 5 6 13 14): 6.274509906768799	 ([expects][marcus][gronholm][slip][pace])
+v(0 1 2 3 7 8 9 10 11 12 15 16 17): 8.401930809020996	 ([peugeot][boss][corrado][provera][bounce][back][today][wet][weather][saw][wales][rally][gb.])
+v(0 1 2 3 4 5 6 7 13 14 15 16 17): 7.094020843505859	 ([peugeot][boss][corrado][provera][expects][marcus][gronholm][bounce][slip][pace][wales][rally][gb.])
+v(4 5 6 8 9 10 11 12 13 14): 8.194721221923828	 ([expects][marcus][gronholm][back][today][wet][weather][saw][slip][pace])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.365872383117676	 ([peugeot][boss][corrado][provera][expects][marcus][gronholm][bounce][back][today][wet][weather][saw][slip][pace][wales][rally][gb.])
+---------- Rewards-v() ----------
+v(0 1 2 3 7 8 9 10 11 12 15 16 17): 12.893574714660645, EP: 1.0028045177459717	 ([peugeot][boss][corrado][provera][bounce][back][today][wet][weather][saw][wales][rally][gb.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 12.857516288757324, EP: 1.0	 ([peugeot][boss][corrado][provera][expects][marcus][gronholm][bounce][back][today][wet][weather][saw][slip][pace][wales][rally][gb.])
+v(4 5 6 8 9 10 11 12 13 14): 12.686365127563477, EP: 0.9866886138916016	 ([expects][marcus][gronholm][back][today][wet][weather][saw][slip][pace])
+v(0 1 2 3 4 5 6 7 13 14 15 16 17): 11.585664749145508, EP: 0.9010810852050781	 ([peugeot][boss][corrado][provera][expects][marcus][gronholm][bounce][slip][pace][wales][rally][gb.])
+v(4 5 6 13 14): 10.766153335571289, EP: 0.837343156337738	 ([expects][marcus][gronholm][slip][pace])
+v(0 1 2 3 7 15 16 17): 10.515786170959473, EP: 0.8178707361221313	 ([peugeot][boss][corrado][provera][bounce][wales][rally][gb.])
+v(8 9 10 11 12): 7.706486701965332, EP: 0.5993760228157043	 ([back][today][wet][weather][saw])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

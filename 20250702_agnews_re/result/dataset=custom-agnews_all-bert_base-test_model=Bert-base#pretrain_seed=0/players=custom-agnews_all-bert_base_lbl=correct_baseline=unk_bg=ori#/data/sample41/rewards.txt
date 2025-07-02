@@ -1,0 +1,19 @@
+---------- Players ----------
+Player 0: dangerous
+Player 1: new
+Player 2: ways
+Player 3: try
+Player 4: steal
+Player 5: money
+Player 6: progress.
+---------- Rewards ----------
+v(): 2.8936309814453125	 ([])
+v(3 4 5): 1.0890657901763916	 ([try][steal][money])
+v(0 1 2 6): 5.041894435882568	 ([dangerous][new][ways][progress.])
+v(0 1 2 3 4 5 6): -2.6887805461883545	 ([dangerous][new][ways][try][steal][money][progress.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6): -5.582411766052246, EP: 1.0	 ([dangerous][new][ways][try][steal][money][progress.])
+v(0 1 2 6): 2.148263454437256, EP: -0.3848271369934082	 ([dangerous][new][ways][progress.])
+v(3 4 5): -1.804565191268921, EP: 0.32325905561447144	 ([try][steal][money])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

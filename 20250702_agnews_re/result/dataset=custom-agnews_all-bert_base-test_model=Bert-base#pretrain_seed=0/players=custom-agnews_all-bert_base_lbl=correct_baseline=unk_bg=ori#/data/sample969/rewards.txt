@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: thedeal. com
+Player 1: -
+Player 2: wireless
+Player 3: content
+Player 4: delivery
+Player 5: company
+Player 6: gets
+Player 7: third
+Player 8: institutional
+Player 9: round
+Player 10: funding,
+Player 11: bringing
+Player 12: total
+Player 13: venture
+Player 14: investment
+Player 15: # 36 ; 46
+Player 16: million.
+---------- Rewards ----------
+v(): 2.1047816276550293	 ([])
+v(2 5 8 10 14): -0.3656909465789795	 ([wireless][company][institutional][funding,][investment])
+v(0 12 15 16): 6.82633638381958	 ([thedeal. com][total][# 36 ; 46][million.])
+v(1 3 4 6 7 9 11 13): -2.4821906089782715	 ([-][content][delivery][gets][third][round][bringing][venture])
+v(0 2 5 8 10 12 14 15 16): 2.921826124191284	 ([thedeal. com][wireless][company][institutional][funding,][total][investment][# 36 ; 46][million.])
+v(1 2 3 4 5 6 7 8 9 10 11 13 14): 2.0478038787841797	 ([-][wireless][content][delivery][company][gets][third][institutional][round][funding,][bringing][venture][investment])
+v(0 1 3 4 6 7 9 11 12 13 15 16): 5.1218647956848145	 ([thedeal. com][-][content][delivery][gets][third][round][bringing][total][venture][# 36 ; 46][million.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 4.854311943054199	 ([thedeal. com][-][wireless][content][delivery][company][gets][third][institutional][round][funding,][bringing][total][venture][investment][# 36 ; 46][million.])
+---------- Rewards-v() ----------
+v(0 12 15 16): 4.721554756164551, EP: 1.7172223329544067	 ([thedeal. com][total][# 36 ; 46][million.])
+v(1 3 4 6 7 9 11 13): -4.586972236633301, EP: -1.6682748794555664	 ([-][content][delivery][gets][third][round][bringing][venture])
+v(0 1 3 4 6 7 9 11 12 13 15 16): 3.017083168029785, EP: 1.0973085165023804	 ([thedeal. com][-][content][delivery][gets][third][round][bringing][total][venture][# 36 ; 46][million.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16): 2.74953031539917, EP: 1.0	 ([thedeal. com][-][wireless][content][delivery][company][gets][third][institutional][round][funding,][bringing][total][venture][investment][# 36 ; 46][million.])
+v(2 5 8 10 14): -2.470472574234009, EP: -0.8985071182250977	 ([wireless][company][institutional][funding,][investment])
+v(0 2 5 8 10 12 14 15 16): 0.8170444965362549, EP: 0.2971578538417816	 ([thedeal. com][wireless][company][institutional][funding,][total][investment][# 36 ; 46][million.])
+v(1 2 3 4 5 6 7 8 9 10 11 13 14): -0.05697774887084961, EP: -0.02072272077202797	 ([-][wireless][content][delivery][company][gets][third][institutional][round][funding,][bringing][venture][investment])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

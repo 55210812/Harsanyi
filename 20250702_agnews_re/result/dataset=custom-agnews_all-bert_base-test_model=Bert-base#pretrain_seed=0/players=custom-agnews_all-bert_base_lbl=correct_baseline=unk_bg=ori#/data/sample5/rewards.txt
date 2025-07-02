@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: learn
+Player 1: lot
+Player 2: microbe.
+Player 3: right
+Player 4: now,
+Player 5: tiny
+Player 6: critter
+Player 7: dead
+Player 8: sea
+Player 9: teaching
+Player 10: scientists
+Player 11: new
+Player 12: things
+Player 13: biotechnology,
+Player 14: cancer,
+Player 15: possible
+Player 16: life
+Player 17: worlds.
+Player 18: that's
+Player 19: starters.
+---------- Rewards ----------
+v(): 5.49159049987793	 ([])
+v(8 9 11 13): 6.619386672973633	 ([sea][teaching][new][biotechnology,])
+v(0 1 4 18): 3.254181146621704	 ([learn][lot][now,][that's])
+v(2 3 5 6 7 10 15 16): 7.466407299041748	 ([microbe.][right][tiny][critter][dead][scientists][possible][life])
+v(12 14 17 19): 4.6611552238464355	 ([things][cancer,][worlds.][starters.])
+v(0 1 4 8 9 11 13 18): 4.367403507232666	 ([learn][lot][now,][sea][teaching][new][biotechnology,][that's])
+v(2 3 5 6 7 8 9 10 11 13 15 16): 7.76836633682251	 ([microbe.][right][tiny][critter][dead][sea][teaching][scientists][new][biotechnology,][possible][life])
+v(8 9 11 12 13 14 17 19): 5.803404331207275	 ([sea][teaching][new][things][biotechnology,][cancer,][worlds.][starters.])
+v(0 1 2 3 4 5 6 7 10 15 16 18): 7.737082004547119	 ([learn][lot][microbe.][right][now,][tiny][critter][dead][scientists][possible][life][that's])
+v(0 1 4 12 14 17 18 19): 1.4358198642730713	 ([learn][lot][now,][things][cancer,][worlds.][that's][starters.])
+v(2 3 5 6 7 10 12 14 15 16 17 19): 6.766145706176758	 ([microbe.][right][tiny][critter][dead][scientists][things][cancer,][possible][life][worlds.][starters.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 15 16 18): 8.06643009185791	 ([learn][lot][microbe.][right][now,][tiny][critter][dead][sea][teaching][scientists][new][biotechnology,][possible][life][that's])
+v(0 1 4 8 9 11 12 13 14 17 18 19): 2.922776460647583	 ([learn][lot][now,][sea][teaching][new][things][biotechnology,][cancer,][worlds.][that's][starters.])
+v(2 3 5 6 7 8 9 10 11 12 13 14 15 16 17 19): 6.9216084480285645	 ([microbe.][right][tiny][critter][dead][sea][teaching][scientists][new][things][biotechnology,][cancer,][possible][life][worlds.][starters.])
+v(0 1 2 3 4 5 6 7 10 12 14 15 16 17 18 19): 6.586180686950684	 ([learn][lot][microbe.][right][now,][tiny][critter][dead][scientists][things][cancer,][possible][life][worlds.][that's][starters.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 4.170254707336426	 ([learn][lot][microbe.][right][now,][tiny][critter][dead][sea][teaching][scientists][new][things][biotechnology,][cancer,][possible][life][worlds.][that's][starters.])
+---------- Rewards-v() ----------
+v(0 1 4 12 14 17 18 19): -4.0557708740234375, EP: 3.0694475173950195	 ([learn][lot][now,][things][cancer,][worlds.][that's][starters.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 15 16 18): 2.5748395919799805, EP: -1.9486640691757202	 ([learn][lot][microbe.][right][now,][tiny][critter][dead][sea][teaching][scientists][new][biotechnology,][possible][life][that's])
+v(0 1 4 8 9 11 12 13 14 17 18 19): -2.5688140392303467, EP: 1.9441038370132446	 ([learn][lot][now,][sea][teaching][new][things][biotechnology,][cancer,][worlds.][that's][starters.])
+v(2 3 5 6 7 8 9 10 11 13 15 16): 2.27677583694458, EP: -1.7230864763259888	 ([microbe.][right][tiny][critter][dead][sea][teaching][scientists][new][biotechnology,][possible][life])
+v(0 1 2 3 4 5 6 7 10 15 16 18): 2.2454915046691895, EP: -1.6994102001190186	 ([learn][lot][microbe.][right][now,][tiny][critter][dead][scientists][possible][life][that's])
+v(0 1 4 18): -2.2374093532562256, EP: 1.693293571472168	 ([learn][lot][now,][that's])
+v(2 3 5 6 7 10 15 16): 1.9748167991638184, EP: -1.4945608377456665	 ([microbe.][right][tiny][critter][dead][scientists][possible][life])
+v(2 3 5 6 7 8 9 10 11 12 13 14 15 16 17 19): 1.4300179481506348, EP: -1.082251787185669	 ([microbe.][right][tiny][critter][dead][sea][teaching][scientists][new][things][biotechnology,][cancer,][possible][life][worlds.][starters.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): -1.321335792541504, EP: 1.0	 ([learn][lot][microbe.][right][now,][tiny][critter][dead][sea][teaching][scientists][new][things][biotechnology,][cancer,][possible][life][worlds.][that's][starters.])
+v(2 3 5 6 7 10 12 14 15 16 17 19): 1.2745552062988281, EP: -0.9645959734916687	 ([microbe.][right][tiny][critter][dead][scientists][things][cancer,][possible][life][worlds.][starters.])
+v(8 9 11 13): 1.1277961730957031, EP: -0.853527307510376	 ([sea][teaching][new][biotechnology,])
+v(0 1 4 8 9 11 13 18): -1.1241869926452637, EP: 0.8507958650588989	 ([learn][lot][now,][sea][teaching][new][biotechnology,][that's])
+v(0 1 2 3 4 5 6 7 10 12 14 15 16 17 18 19): 1.094590187072754, EP: -0.8283966779708862	 ([learn][lot][microbe.][right][now,][tiny][critter][dead][scientists][things][cancer,][possible][life][worlds.][that's][starters.])
+v(12 14 17 19): -0.8304352760314941, EP: 0.6284816265106201	 ([things][cancer,][worlds.][starters.])
+v(8 9 11 12 13 14 17 19): 0.3118138313293457, EP: -0.23598378896713257	 ([sea][teaching][new][things][biotechnology,][cancer,][worlds.][starters.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

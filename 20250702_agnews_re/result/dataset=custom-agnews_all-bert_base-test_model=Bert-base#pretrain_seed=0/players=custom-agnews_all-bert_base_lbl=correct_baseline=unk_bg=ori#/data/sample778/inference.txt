@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 19:36:29
+prompt: [CLS] microsoft has suspended the beta testing of the next version of its msn messenger client because of a potential security problem. testers discovered a potential security issue in the early version of msn messenger [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:7513 decoded_text: microsoft
+idx:2 input_id:2038 decoded_text: has
+idx:3 input_id:6731 decoded_text: suspended
+idx:4 input_id:1996 decoded_text: the
+idx:5 input_id:8247 decoded_text: beta
+idx:6 input_id:5604 decoded_text: testing
+idx:7 input_id:1997 decoded_text: of
+idx:8 input_id:1996 decoded_text: the
+idx:9 input_id:2279 decoded_text: next
+idx:10 input_id:2544 decoded_text: version
+idx:11 input_id:1997 decoded_text: of
+idx:12 input_id:2049 decoded_text: its
+idx:13 input_id:5796 decoded_text: ms
+idx:14 input_id:2078 decoded_text: ##n
+idx:15 input_id:11981 decoded_text: messenger
+idx:16 input_id:7396 decoded_text: client
+idx:17 input_id:2138 decoded_text: because
+idx:18 input_id:1997 decoded_text: of
+idx:19 input_id:1037 decoded_text: a
+idx:20 input_id:4022 decoded_text: potential
+idx:21 input_id:3036 decoded_text: security
+idx:22 input_id:3291 decoded_text: problem
+idx:23 input_id:1012 decoded_text: .
+idx:24 input_id:3231 decoded_text: test
+idx:25 input_id:2545 decoded_text: ##ers
+idx:26 input_id:3603 decoded_text: discovered
+idx:27 input_id:1037 decoded_text: a
+idx:28 input_id:4022 decoded_text: potential
+idx:29 input_id:3036 decoded_text: security
+idx:30 input_id:3277 decoded_text: issue
+idx:31 input_id:1999 decoded_text: in
+idx:32 input_id:1996 decoded_text: the
+idx:33 input_id:2220 decoded_text: early
+idx:34 input_id:2544 decoded_text: version
+idx:35 input_id:1997 decoded_text: of
+idx:36 input_id:5796 decoded_text: ms
+idx:37 input_id:2078 decoded_text: ##n
+idx:38 input_id:11981 decoded_text: messenger
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-2.32977032661438, -1.7630189657211304, -2.7429823875427246, 7.162637233734131]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

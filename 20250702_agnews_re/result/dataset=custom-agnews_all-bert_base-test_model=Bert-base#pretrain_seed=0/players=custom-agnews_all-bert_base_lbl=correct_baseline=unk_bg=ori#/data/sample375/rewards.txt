@@ -1,0 +1,25 @@
+---------- Players ----------
+Player 0: staff
+Player 1: three
+Player 2: vw
+Player 3: factories
+Player 4: start
+Player 5: series
+Player 6: warning
+Player 7: strikes,
+Player 8: carmaker
+Player 9: continues
+Player 10: talks
+Player 11: cost - cutting
+Player 12: plans.
+---------- Rewards ----------
+v(): -2.7448790073394775	 ([])
+v(0 2 3 4 5 11): 4.258884429931641	 ([staff][vw][factories][start][series][cost - cutting])
+v(1 6 7 8 9 10 12): 4.349670886993408	 ([three][warning][strikes,][carmaker][continues][talks][plans.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 1.9960412979125977	 ([staff][three][vw][factories][start][series][warning][strikes,][carmaker][continues][talks][cost - cutting][plans.])
+---------- Rewards-v() ----------
+v(1 6 7 8 9 10 12): 7.094550132751465, EP: 1.4964500665664673	 ([three][warning][strikes,][carmaker][continues][talks][plans.])
+v(0 2 3 4 5 11): 7.003763198852539, EP: 1.4773004055023193	 ([staff][vw][factories][start][series][cost - cutting])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 4.740920066833496, EP: 1.0	 ([staff][three][vw][factories][start][series][warning][strikes,][carmaker][continues][talks][cost - cutting][plans.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

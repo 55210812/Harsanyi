@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: outkast
+Player 1: topped
+Player 2: first
+Player 3: us
+Player 4: digital
+Player 5: music
+Player 6: awards,
+Player 7: presented
+Player 8: recording
+Player 9: industry
+Player 10: association
+Player 11: america
+Player 12: ( riaa ).
+Player 13: took
+Player 14: multi - platinum
+Player 15: award
+Player 16: yesterday
+Player 17: recognition
+Player 18: 400, 000
+Player 19: downloads
+Player 20: # 39 ; hey
+Player 21: ya!
+---------- Rewards ----------
+v(): 2.079657554626465	 ([])
+v(0 5 7 8 9 10 11): 3.9594311714172363	 ([outkast][music][presented][recording][industry][association][america])
+v(4 12 18 19): 7.858255386352539	 ([digital][( riaa ).][400, 000][downloads])
+v(1 2 3 6 13 14 15 16 17 20 21): -3.413318395614624	 ([topped][first][us][awards,][took][multi - platinum][award][yesterday][recognition][# 39 ; hey][ya!])
+v(0 4 5 7 8 9 10 11 12 18 19): 7.585568428039551	 ([outkast][digital][music][presented][recording][industry][association][america][( riaa ).][400, 000][downloads])
+v(0 1 2 3 5 6 7 8 9 10 11 13 14 15 16 17 20 21): -0.3587489128112793	 ([outkast][topped][first][us][music][awards,][presented][recording][industry][association][america][took][multi - platinum][award][yesterday][recognition][# 39 ; hey][ya!])
+v(1 2 3 4 6 12 13 14 15 16 17 18 19 20 21): 6.715848922729492	 ([topped][first][us][digital][awards,][( riaa ).][took][multi - platinum][award][yesterday][recognition][400, 000][downloads][# 39 ; hey][ya!])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 5.090590476989746	 ([outkast][topped][first][us][digital][music][awards,][presented][recording][industry][association][america][( riaa ).][took][multi - platinum][award][yesterday][recognition][400, 000][downloads][# 39 ; hey][ya!])
+---------- Rewards-v() ----------
+v(4 12 18 19): 5.778597831726074, EP: 1.9192050695419312	 ([digital][( riaa ).][400, 000][downloads])
+v(0 4 5 7 8 9 10 11 12 18 19): 5.505910873413086, EP: 1.8286395072937012	 ([outkast][digital][music][presented][recording][industry][association][america][( riaa ).][400, 000][downloads])
+v(1 2 3 6 13 14 15 16 17 20 21): -5.492976188659668, EP: -1.8243435621261597	 ([topped][first][us][awards,][took][multi - platinum][award][yesterday][recognition][# 39 ; hey][ya!])
+v(1 2 3 4 6 12 13 14 15 16 17 18 19 20 21): 4.636191368103027, EP: 1.539785623550415	 ([topped][first][us][digital][awards,][( riaa ).][took][multi - platinum][award][yesterday][recognition][400, 000][downloads][# 39 ; hey][ya!])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 3.0109329223632812, EP: 1.0	 ([outkast][topped][first][us][digital][music][awards,][presented][recording][industry][association][america][( riaa ).][took][multi - platinum][award][yesterday][recognition][400, 000][downloads][# 39 ; hey][ya!])
+v(0 1 2 3 5 6 7 8 9 10 11 13 14 15 16 17 20 21): -2.438406467437744, EP: -0.809850811958313	 ([outkast][topped][first][us][music][awards,][presented][recording][industry][association][america][took][multi - platinum][award][yesterday][recognition][# 39 ; hey][ya!])
+v(0 5 7 8 9 10 11): 1.8797736167907715, EP: 0.6243159770965576	 ([outkast][music][presented][recording][industry][association][america])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

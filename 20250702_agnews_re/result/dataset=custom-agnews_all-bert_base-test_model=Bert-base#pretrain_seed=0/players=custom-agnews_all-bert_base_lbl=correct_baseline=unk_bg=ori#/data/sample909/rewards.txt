@@ -1,0 +1,25 @@
+---------- Players ----------
+Player 0: einstein
+Player 1: right
+Player 2: - -
+Player 3: again.
+Player 4: satellites
+Player 5: pulled
+Player 6: slightly
+Player 7: orbits
+Player 8: show
+Player 9: earth
+Player 10: indeed
+Player 11: twisting
+Player 12: fabric
+---------- Rewards ----------
+v(): 4.037496566772461	 ([])
+v(0 4 7 9 10): 7.4253668785095215	 ([einstein][satellites][orbits][earth][indeed])
+v(1 2 3 5 6 8 11 12): 0.5746632814407349	 ([right][- -][again.][pulled][slightly][show][twisting][fabric])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 6.786969184875488	 ([einstein][right][- -][again.][satellites][pulled][slightly][orbits][show][earth][indeed][twisting][fabric])
+---------- Rewards-v() ----------
+v(1 2 3 5 6 8 11 12): -3.4628334045410156, EP: -1.2594536542892456	 ([right][- -][again.][pulled][slightly][show][twisting][fabric])
+v(0 4 7 9 10): 3.3878703117370605, EP: 1.2321891784667969	 ([einstein][satellites][orbits][earth][indeed])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12): 2.7494726181030273, EP: 1.0	 ([einstein][right][- -][again.][satellites][pulled][slightly][orbits][show][earth][indeed][twisting][fabric])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

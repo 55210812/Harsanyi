@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: first
+Player 1: reserve
+Player 2: corp.,
+Player 3: largest
+Player 4: private
+Player 5: buyout
+Player 6: firm
+Player 7: specializing
+Player 8: energy - industry
+Player 9: investments,
+Player 10: agreed
+Player 11: buy
+Player 12: unit
+Player 13: ingersoll - rand
+Player 14: co.
+---------- Rewards ----------
+v(): -6.527895927429199	 ([])
+v(5 6 7 8 9 14): 8.431078910827637	 ([buyout][firm][specializing][energy - industry][investments,][co.])
+v(0 1 2 3 4): 8.285052299499512	 ([first][reserve][corp.,][largest][private])
+v(10 11 12 13): 5.854091167449951	 ([agreed][buy][unit][ingersoll - rand])
+v(0 1 2 3 4 5 6 7 8 9 14): 8.515541076660156	 ([first][reserve][corp.,][largest][private][buyout][firm][specializing][energy - industry][investments,][co.])
+v(5 6 7 8 9 10 11 12 13 14): 7.248124599456787	 ([buyout][firm][specializing][energy - industry][investments,][agreed][buy][unit][ingersoll - rand][co.])
+v(0 1 2 3 4 10 11 12 13): 7.0900492668151855	 ([first][reserve][corp.,][largest][private][agreed][buy][unit][ingersoll - rand])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 7.574682235717773	 ([first][reserve][corp.,][largest][private][buyout][firm][specializing][energy - industry][investments,][agreed][buy][unit][ingersoll - rand][co.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 14): 15.043437004089355, EP: 1.0667153596878052	 ([first][reserve][corp.,][largest][private][buyout][firm][specializing][energy - industry][investments,][co.])
+v(5 6 7 8 9 14): 14.958974838256836, EP: 1.060726284980774	 ([buyout][firm][specializing][energy - industry][investments,][co.])
+v(0 1 2 3 4): 14.812948226928711, EP: 1.0503716468811035	 ([first][reserve][corp.,][largest][private])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14): 14.102578163146973, EP: 1.0	 ([first][reserve][corp.,][largest][private][buyout][firm][specializing][energy - industry][investments,][agreed][buy][unit][ingersoll - rand][co.])
+v(5 6 7 8 9 10 11 12 13 14): 13.776020050048828, EP: 0.976844072341919	 ([buyout][firm][specializing][energy - industry][investments,][agreed][buy][unit][ingersoll - rand][co.])
+v(0 1 2 3 4 10 11 12 13): 13.617944717407227, EP: 0.9656351208686829	 ([first][reserve][corp.,][largest][private][agreed][buy][unit][ingersoll - rand])
+v(10 11 12 13): 12.381986618041992, EP: 0.8779945373535156	 ([agreed][buy][unit][ingersoll - rand])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

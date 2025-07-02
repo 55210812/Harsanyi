@@ -1,0 +1,48 @@
+---------- Players ----------
+Player 0: philadelphia / san
+Player 1: francisco
+Player 2: ( reuters )
+Player 3: -
+Player 4: two
+Player 5: major
+Player 6: peoplesoft
+Player 7: inc. & lt ; a
+Player 8: href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = psft. o
+Player 9: target = / stocks / quickinfo / fullquote " & gt ; psft. o & lt ; / a & gt ;
+Player 10: shareholders
+Player 11: tuesday
+Player 12: indicated
+Player 13: would
+Player 14: split
+Player 15: votes
+Player 16: whether
+Player 17: accept
+Player 18: oracle
+Player 19: corp's
+Player 20: & lt ; a
+Player 21: href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = orcl. o
+Player 22: target = / stocks / quickinfo / fullquote " & gt ; orcl. o & lt ; / a & gt ;
+Player 23: \ $ 8. 8
+Player 24: billion
+Player 25: hostile
+Player 26: takeover
+Player 27: bid.
+---------- Rewards ----------
+v(): -5.304633140563965	 ([])
+v(6 8 9 10 21 22 23): 8.498747825622559	 ([peoplesoft][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = psft. o][target = / stocks / quickinfo / fullquote " & gt ; psft. o & lt ; / a & gt ;][shareholders][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = orcl. o][target = / stocks / quickinfo / fullquote " & gt ; orcl. o & lt ; / a & gt ;][\ $ 8. 8])
+v(0 3 17 18 19 24 25 26 27): 7.590873718261719	 ([philadelphia / san][-][accept][oracle][corp's][billion][hostile][takeover][bid.])
+v(1 2 4 5 7 11 12 13 14 15 16 20): -1.374601125717163	 ([francisco][( reuters )][two][major][inc. & lt ; a][tuesday][indicated][would][split][votes][whether][& lt ; a])
+v(0 3 6 8 9 10 17 18 19 21 22 23 24 25 26 27): 8.52457046508789	 ([philadelphia / san][-][peoplesoft][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = psft. o][target = / stocks / quickinfo / fullquote " & gt ; psft. o & lt ; / a & gt ;][shareholders][accept][oracle][corp's][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = orcl. o][target = / stocks / quickinfo / fullquote " & gt ; orcl. o & lt ; / a & gt ;][\ $ 8. 8][billion][hostile][takeover][bid.])
+v(1 2 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23): 8.484772682189941	 ([francisco][( reuters )][two][major][peoplesoft][inc. & lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = psft. o][target = / stocks / quickinfo / fullquote " & gt ; psft. o & lt ; / a & gt ;][shareholders][tuesday][indicated][would][split][votes][whether][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = orcl. o][target = / stocks / quickinfo / fullquote " & gt ; orcl. o & lt ; / a & gt ;][\ $ 8. 8])
+v(0 1 2 3 4 5 7 11 12 13 14 15 16 17 18 19 20 24 25 26 27): 7.53183126449585	 ([philadelphia / san][francisco][( reuters )][-][two][major][inc. & lt ; a][tuesday][indicated][would][split][votes][whether][accept][oracle][corp's][& lt ; a][billion][hostile][takeover][bid.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 8.416298866271973	 ([philadelphia / san][francisco][( reuters )][-][two][major][peoplesoft][inc. & lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = psft. o][target = / stocks / quickinfo / fullquote " & gt ; psft. o & lt ; / a & gt ;][shareholders][tuesday][indicated][would][split][votes][whether][accept][oracle][corp's][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = orcl. o][target = / stocks / quickinfo / fullquote " & gt ; orcl. o & lt ; / a & gt ;][\ $ 8. 8][billion][hostile][takeover][bid.])
+---------- Rewards-v() ----------
+v(0 3 6 8 9 10 17 18 19 21 22 23 24 25 26 27): 13.829203605651855, EP: 1.0078909397125244	 ([philadelphia / san][-][peoplesoft][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = psft. o][target = / stocks / quickinfo / fullquote " & gt ; psft. o & lt ; / a & gt ;][shareholders][accept][oracle][corp's][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = orcl. o][target = / stocks / quickinfo / fullquote " & gt ; orcl. o & lt ; / a & gt ;][\ $ 8. 8][billion][hostile][takeover][bid.])
+v(6 8 9 10 21 22 23): 13.803380966186523, EP: 1.0060089826583862	 ([peoplesoft][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = psft. o][target = / stocks / quickinfo / fullquote " & gt ; psft. o & lt ; / a & gt ;][shareholders][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = orcl. o][target = / stocks / quickinfo / fullquote " & gt ; orcl. o & lt ; / a & gt ;][\ $ 8. 8])
+v(1 2 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23): 13.789405822753906, EP: 1.0049904584884644	 ([francisco][( reuters )][two][major][peoplesoft][inc. & lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = psft. o][target = / stocks / quickinfo / fullquote " & gt ; psft. o & lt ; / a & gt ;][shareholders][tuesday][indicated][would][split][votes][whether][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = orcl. o][target = / stocks / quickinfo / fullquote " & gt ; orcl. o & lt ; / a & gt ;][\ $ 8. 8])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27): 13.720932006835938, EP: 1.0	 ([philadelphia / san][francisco][( reuters )][-][two][major][peoplesoft][inc. & lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = psft. o][target = / stocks / quickinfo / fullquote " & gt ; psft. o & lt ; / a & gt ;][shareholders][tuesday][indicated][would][split][votes][whether][accept][oracle][corp's][& lt ; a][href = " http : / / www. investor. reuters. com / fullquote. aspx? ticker = orcl. o][target = / stocks / quickinfo / fullquote " & gt ; orcl. o & lt ; / a & gt ;][\ $ 8. 8][billion][hostile][takeover][bid.])
+v(0 3 17 18 19 24 25 26 27): 12.895506858825684, EP: 0.9398419260978699	 ([philadelphia / san][-][accept][oracle][corp's][billion][hostile][takeover][bid.])
+v(0 1 2 3 4 5 7 11 12 13 14 15 16 17 18 19 20 24 25 26 27): 12.836463928222656, EP: 0.9355387687683105	 ([philadelphia / san][francisco][( reuters )][-][two][major][inc. & lt ; a][tuesday][indicated][would][split][votes][whether][accept][oracle][corp's][& lt ; a][billion][hostile][takeover][bid.])
+v(1 2 4 5 7 11 12 13 14 15 16 20): 3.9300320148468018, EP: 0.28642603754997253	 ([francisco][( reuters )][two][major][inc. & lt ; a][tuesday][indicated][would][split][votes][whether][& lt ; a])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

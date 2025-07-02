@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: baghdad
+Player 1: ( reuters )
+Player 2: -
+Player 3: u. s.
+Player 4: warplanes
+Player 5: bombed
+Player 6: targets
+Player 7: iraq's
+Player 8: rebel - held
+Player 9: city
+Player 10: falluja
+Player 11: friday,
+Player 12: marking
+Player 13: violent
+Player 14: start
+Player 15: holy
+Player 16: muslim
+Player 17: fasting
+Player 18: month
+Player 19: ramadan.
+---------- Rewards ----------
+v(): -5.527168273925781	 ([])
+v(0 4 7 8 10 19): 8.383822441101074	 ([baghdad][warplanes][iraq's][rebel - held][falluja][ramadan.])
+v(1 2 3 5 6 9 11 13 14 15): 6.98469352722168	 ([( reuters )][-][u. s.][bombed][targets][city][friday,][violent][start][holy])
+v(12 16 17 18): 5.459272384643555	 ([marking][muslim][fasting][month])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 14 15 19): 8.206201553344727	 ([baghdad][( reuters )][-][u. s.][warplanes][bombed][targets][iraq's][rebel - held][city][falluja][friday,][violent][start][holy][ramadan.])
+v(0 4 7 8 10 12 16 17 18 19): 8.492647171020508	 ([baghdad][warplanes][iraq's][rebel - held][falluja][marking][muslim][fasting][month][ramadan.])
+v(1 2 3 5 6 9 11 12 13 14 15 16 17 18): 7.782325744628906	 ([( reuters )][-][u. s.][bombed][targets][city][friday,][marking][violent][start][holy][muslim][fasting][month])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.2272367477417	 ([baghdad][( reuters )][-][u. s.][warplanes][bombed][targets][iraq's][rebel - held][city][falluja][friday,][marking][violent][start][holy][muslim][fasting][month][ramadan.])
+---------- Rewards-v() ----------
+v(0 4 7 8 10 12 16 17 18 19): 14.019815444946289, EP: 1.019296407699585	 ([baghdad][warplanes][iraq's][rebel - held][falluja][marking][muslim][fasting][month][ramadan.])
+v(0 4 7 8 10 19): 13.910990715026855, EP: 1.01138436794281	 ([baghdad][warplanes][iraq's][rebel - held][falluja][ramadan.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.75440502166748, EP: 1.0	 ([baghdad][( reuters )][-][u. s.][warplanes][bombed][targets][iraq's][rebel - held][city][falluja][friday,][marking][violent][start][holy][muslim][fasting][month][ramadan.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 13 14 15 19): 13.733369827270508, EP: 0.998470664024353	 ([baghdad][( reuters )][-][u. s.][warplanes][bombed][targets][iraq's][rebel - held][city][falluja][friday,][violent][start][holy][ramadan.])
+v(1 2 3 5 6 9 11 12 13 14 15 16 17 18): 13.309494018554688, EP: 0.967653214931488	 ([( reuters )][-][u. s.][bombed][targets][city][friday,][marking][violent][start][holy][muslim][fasting][month])
+v(1 2 3 5 6 9 11 13 14 15): 12.511861801147461, EP: 0.9096621870994568	 ([( reuters )][-][u. s.][bombed][targets][city][friday,][violent][start][holy])
+v(12 16 17 18): 10.986440658569336, EP: 0.7987579703330994	 ([marking][muslim][fasting][month])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

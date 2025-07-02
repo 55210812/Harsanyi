@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: oakland,
+Player 1: calif.
+Player 2: - -
+Player 3: lawsuit
+Player 4: could
+Player 5: works
+Player 6: texas
+Player 7: players
+Player 8: involved
+Player 9: brawl
+Player 10: taunting
+Player 11: fans
+Player 12: oakland
+Player 13: - -
+Player 14: led
+Player 15: arrest
+Player 16: rangers
+Player 17: reliever
+Player 18: frank
+Player 19: francisco.
+---------- Rewards ----------
+v(): -5.714568614959717	 ([])
+v(0 2 4 7 9 15 16 17): 9.50307846069336	 ([oakland,][- -][could][players][brawl][arrest][rangers][reliever])
+v(1 3 5 6 8 10 11 12 13 14): 8.984823226928711	 ([calif.][lawsuit][works][texas][involved][taunting][fans][oakland][- -][led])
+v(18 19): -3.484501361846924	 ([frank][francisco.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 9.419516563415527	 ([oakland,][calif.][- -][lawsuit][could][works][texas][players][involved][brawl][taunting][fans][oakland][- -][led][arrest][rangers][reliever])
+v(0 2 4 7 9 15 16 17 18 19): 9.67109489440918	 ([oakland,][- -][could][players][brawl][arrest][rangers][reliever][frank][francisco.])
+v(1 3 5 6 8 10 11 12 13 14 18 19): 9.114706039428711	 ([calif.][lawsuit][works][texas][involved][taunting][fans][oakland][- -][led][frank][francisco.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 8.966460227966309	 ([oakland,][calif.][- -][lawsuit][could][works][texas][players][involved][brawl][taunting][fans][oakland][- -][led][arrest][rangers][reliever][frank][francisco.])
+---------- Rewards-v() ----------
+v(0 2 4 7 9 15 16 17 18 19): 15.385663986206055, EP: 1.0479962825775146	 ([oakland,][- -][could][players][brawl][arrest][rangers][reliever][frank][francisco.])
+v(0 2 4 7 9 15 16 17): 15.217647552490234, EP: 1.036551833152771	 ([oakland,][- -][could][players][brawl][arrest][rangers][reliever])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 15.134084701538086, EP: 1.0308599472045898	 ([oakland,][calif.][- -][lawsuit][could][works][texas][players][involved][brawl][taunting][fans][oakland][- -][led][arrest][rangers][reliever])
+v(1 3 5 6 8 10 11 12 13 14 18 19): 14.829275131225586, EP: 1.010097861289978	 ([calif.][lawsuit][works][texas][involved][taunting][fans][oakland][- -][led][frank][francisco.])
+v(1 3 5 6 8 10 11 12 13 14): 14.699392318725586, EP: 1.0012508630752563	 ([calif.][lawsuit][works][texas][involved][taunting][fans][oakland][- -][led])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 14.681028366088867, EP: 1.0	 ([oakland,][calif.][- -][lawsuit][could][works][texas][players][involved][brawl][taunting][fans][oakland][- -][led][arrest][rangers][reliever][frank][francisco.])
+v(18 19): 2.230067253112793, EP: 0.15190128982067108	 ([frank][francisco.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

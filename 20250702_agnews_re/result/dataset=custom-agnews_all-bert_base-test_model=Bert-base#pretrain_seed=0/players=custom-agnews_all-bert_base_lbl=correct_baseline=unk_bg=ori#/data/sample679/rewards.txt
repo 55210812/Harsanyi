@@ -1,0 +1,54 @@
+---------- Players ----------
+Player 0: glaxosmithkline
+Player 1: plc
+Player 2: talks
+Player 3: food
+Player 4: drug
+Player 5: administration
+Player 6: selling
+Player 7: fluarix
+Player 8: influenza
+Player 9: vaccine
+Player 10: united
+Player 11: states
+Player 12: season
+Player 13: expected
+Player 14: flu
+Player 15: vaccine
+Player 16: shortage
+Player 17: year.
+---------- Rewards ----------
+v(): -5.689414978027344	 ([])
+v(0 1 3 5 8 12 14): 8.205169677734375	 ([glaxosmithkline][plc][food][administration][influenza][season][flu])
+v(4 6 7 9 15): 4.562072277069092	 ([drug][selling][fluarix][vaccine][vaccine])
+v(13 16 17): 3.2704238891601562	 ([expected][shortage][year.])
+v(2 10 11): -2.4631102085113525	 ([talks][united][states])
+v(0 1 3 4 5 6 7 8 9 12 14 15): 8.019989013671875	 ([glaxosmithkline][plc][food][drug][administration][selling][fluarix][influenza][vaccine][season][flu][vaccine])
+v(0 1 3 5 8 12 13 14 16 17): 8.105924606323242	 ([glaxosmithkline][plc][food][administration][influenza][season][expected][flu][shortage][year.])
+v(0 1 2 3 5 8 10 11 12 14): 8.143157005310059	 ([glaxosmithkline][plc][talks][food][administration][influenza][united][states][season][flu])
+v(4 6 7 9 13 15 16 17): 6.0071258544921875	 ([drug][selling][fluarix][vaccine][expected][vaccine][shortage][year.])
+v(2 4 6 7 9 10 11 15): 4.737688064575195	 ([talks][drug][selling][fluarix][vaccine][united][states][vaccine])
+v(2 10 11 13 16 17): 3.933109760284424	 ([talks][united][states][expected][shortage][year.])
+v(0 1 3 4 5 6 7 8 9 12 13 14 15 16 17): 8.198771476745605	 ([glaxosmithkline][plc][food][drug][administration][selling][fluarix][influenza][vaccine][season][expected][flu][vaccine][shortage][year.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14 15): 8.133356094360352	 ([glaxosmithkline][plc][talks][food][drug][administration][selling][fluarix][influenza][vaccine][united][states][season][flu][vaccine])
+v(0 1 2 3 5 8 10 11 12 13 14 16 17): 8.177017211914062	 ([glaxosmithkline][plc][talks][food][administration][influenza][united][states][season][expected][flu][shortage][year.])
+v(2 4 6 7 9 10 11 13 15 16 17): 6.149716854095459	 ([talks][drug][selling][fluarix][vaccine][united][states][expected][vaccine][shortage][year.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 7.317548751831055	 ([glaxosmithkline][plc][talks][food][drug][administration][selling][fluarix][influenza][vaccine][united][states][season][expected][flu][vaccine][shortage][year.])
+---------- Rewards-v() ----------
+v(0 1 3 5 8 12 14): 13.894584655761719, EP: 1.0682419538497925	 ([glaxosmithkline][plc][food][administration][influenza][season][flu])
+v(0 1 3 4 5 6 7 8 9 12 13 14 15 16 17): 13.88818645477295, EP: 1.067750096321106	 ([glaxosmithkline][plc][food][drug][administration][selling][fluarix][influenza][vaccine][season][expected][flu][vaccine][shortage][year.])
+v(0 1 2 3 5 8 10 11 12 13 14 16 17): 13.866432189941406, EP: 1.0660775899887085	 ([glaxosmithkline][plc][talks][food][administration][influenza][united][states][season][expected][flu][shortage][year.])
+v(0 1 2 3 5 8 10 11 12 14): 13.832571983337402, EP: 1.0634742975234985	 ([glaxosmithkline][plc][talks][food][administration][influenza][united][states][season][flu])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 14 15): 13.822771072387695, EP: 1.062720775604248	 ([glaxosmithkline][plc][talks][food][drug][administration][selling][fluarix][influenza][vaccine][united][states][season][flu][vaccine])
+v(0 1 3 5 8 12 13 14 16 17): 13.795339584350586, EP: 1.0606118440628052	 ([glaxosmithkline][plc][food][administration][influenza][season][expected][flu][shortage][year.])
+v(0 1 3 4 5 6 7 8 9 12 14 15): 13.709403991699219, EP: 1.0540049076080322	 ([glaxosmithkline][plc][food][drug][administration][selling][fluarix][influenza][vaccine][season][flu][vaccine])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 13.006963729858398, EP: 1.0	 ([glaxosmithkline][plc][talks][food][drug][administration][selling][fluarix][influenza][vaccine][united][states][season][expected][flu][vaccine][shortage][year.])
+v(2 4 6 7 9 10 11 13 15 16 17): 11.839132308959961, EP: 0.910214900970459	 ([talks][drug][selling][fluarix][vaccine][united][states][expected][vaccine][shortage][year.])
+v(4 6 7 9 13 15 16 17): 11.696540832519531, EP: 0.8992522358894348	 ([drug][selling][fluarix][vaccine][expected][vaccine][shortage][year.])
+v(2 4 6 7 9 10 11 15): 10.427103042602539, EP: 0.8016554117202759	 ([talks][drug][selling][fluarix][vaccine][united][states][vaccine])
+v(4 6 7 9 15): 10.251487731933594, EP: 0.7881537675857544	 ([drug][selling][fluarix][vaccine][vaccine])
+v(2 10 11 13 16 17): 9.62252426147461, EP: 0.7397978901863098	 ([talks][united][states][expected][shortage][year.])
+v(13 16 17): 8.9598388671875, EP: 0.6888493895530701	 ([expected][shortage][year.])
+v(2 10 11): 3.226304769515991, EP: 0.24804441630840302	 ([talks][united][states])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

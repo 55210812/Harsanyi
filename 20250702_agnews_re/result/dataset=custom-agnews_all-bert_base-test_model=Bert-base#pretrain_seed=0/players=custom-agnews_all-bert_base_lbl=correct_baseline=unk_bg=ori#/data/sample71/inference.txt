@@ -1,0 +1,51 @@
+Execution time: 2025-07-02 19:19:19
+prompt: [CLS] soldiers from the iraqi national guard show off mortars after militia members delivered sacks of the rounds to iraqi security forces in the sadr city neighborhood of baghdad, iraq, monday, oct. 11, 2004. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3548 decoded_text: soldiers
+idx:2 input_id:2013 decoded_text: from
+idx:3 input_id:1996 decoded_text: the
+idx:4 input_id:8956 decoded_text: iraqi
+idx:5 input_id:2120 decoded_text: national
+idx:6 input_id:3457 decoded_text: guard
+idx:7 input_id:2265 decoded_text: show
+idx:8 input_id:2125 decoded_text: off
+idx:9 input_id:14335 decoded_text: mortar
+idx:10 input_id:2015 decoded_text: ##s
+idx:11 input_id:2044 decoded_text: after
+idx:12 input_id:8396 decoded_text: militia
+idx:13 input_id:2372 decoded_text: members
+idx:14 input_id:5359 decoded_text: delivered
+idx:15 input_id:14918 decoded_text: sacks
+idx:16 input_id:1997 decoded_text: of
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:6241 decoded_text: rounds
+idx:19 input_id:2000 decoded_text: to
+idx:20 input_id:8956 decoded_text: iraqi
+idx:21 input_id:3036 decoded_text: security
+idx:22 input_id:2749 decoded_text: forces
+idx:23 input_id:1999 decoded_text: in
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:6517 decoded_text: sad
+idx:26 input_id:2099 decoded_text: ##r
+idx:27 input_id:2103 decoded_text: city
+idx:28 input_id:5101 decoded_text: neighborhood
+idx:29 input_id:1997 decoded_text: of
+idx:30 input_id:13952 decoded_text: baghdad
+idx:31 input_id:1010 decoded_text: ,
+idx:32 input_id:5712 decoded_text: iraq
+idx:33 input_id:1010 decoded_text: ,
+idx:34 input_id:6928 decoded_text: monday
+idx:35 input_id:1010 decoded_text: ,
+idx:36 input_id:13323 decoded_text: oct
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:2340 decoded_text: 11
+idx:39 input_id:1010 decoded_text: ,
+idx:40 input_id:2432 decoded_text: 2004
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.040881156921387, -1.4387011528015137, -2.958054780960083, -2.2118489742279053]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

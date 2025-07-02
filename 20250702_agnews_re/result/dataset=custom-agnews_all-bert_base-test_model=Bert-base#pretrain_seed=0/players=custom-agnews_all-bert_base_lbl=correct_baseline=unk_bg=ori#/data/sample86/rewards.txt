@@ -1,0 +1,79 @@
+---------- Players ----------
+Player 0: saturday
+Player 1: night's
+Player 2: game
+Player 3: 1
+Player 4: world
+Player 5: series
+Player 6: telecast
+Player 7: returned
+Player 8: 13. 7
+Player 9: national
+Player 10: rating
+Player 11: ( 25
+Player 12: share ),
+Player 13: highest
+Player 14: number
+Player 15: game
+Player 16: 1
+Player 17: since
+Player 18: 1999
+Player 19: opener
+Player 20: yankees - braves
+Player 21: series
+Player 22: delivered
+Player 23: 14. 2
+Player 24: ( 26
+Player 25: share )
+Player 26: nbc.
+Player 27: highest - rated
+Player 28: world
+Player 29: series
+Player 30: game
+Player 31: 1
+Player 32: fox
+Player 33: since
+Player 34: began
+Player 35: broadcasting
+Player 36: baseball
+Player 37: 1996
+Player 38: ( nbc
+Player 39: retained
+Player 40: series
+Player 41: 1997
+Player 42: ...
+---------- Rewards ----------
+v(): -3.961385488510132	 ([])
+v(0 1 18 19 20 22 23 24 25 26 36 38 41): 9.541999816894531	 ([saturday][night's][1999][opener][yankees - braves][delivered][14. 2][( 26][share )][nbc.][baseball][( nbc][1997])
+v(2 3 6 14 15 16 27 28 30 31 32 39): 0.7187352180480957	 ([game][1][telecast][number][game][1][highest - rated][world][game][1][fox][retained])
+v(4 7 8 9 10 11 12 13): -2.4276814460754395	 ([world][returned][13. 7][national][rating][( 25][share ),][highest])
+v(5 17 21 29 33 34 35 37 40 42): -4.435000896453857	 ([series][since][series][series][since][began][broadcasting][1996][series][...])
+v(0 1 2 3 6 14 15 16 18 19 20 22 23 24 25 26 27 28 30 31 32 36 38 39 41): 9.68172836303711	 ([saturday][night's][game][1][telecast][number][game][1][1999][opener][yankees - braves][delivered][14. 2][( 26][share )][nbc.][highest - rated][world][game][1][fox][baseball][( nbc][retained][1997])
+v(0 1 4 7 8 9 10 11 12 13 18 19 20 22 23 24 25 26 36 38 41): 9.598100662231445	 ([saturday][night's][world][returned][13. 7][national][rating][( 25][share ),][highest][1999][opener][yankees - braves][delivered][14. 2][( 26][share )][nbc.][baseball][( nbc][1997])
+v(0 1 5 17 18 19 20 21 22 23 24 25 26 29 33 34 35 36 37 38 40 41 42): 9.351152420043945	 ([saturday][night's][series][since][1999][opener][yankees - braves][series][delivered][14. 2][( 26][share )][nbc.][series][since][began][broadcasting][baseball][1996][( nbc][series][1997][...])
+v(2 3 4 6 7 8 9 10 11 12 13 14 15 16 27 28 30 31 32 39): 1.3931671380996704	 ([game][1][world][telecast][returned][13. 7][national][rating][( 25][share ),][highest][number][game][1][highest - rated][world][game][1][fox][retained])
+v(2 3 5 6 14 15 16 17 21 27 28 29 30 31 32 33 34 35 37 39 40 42): 4.104442119598389	 ([game][1][series][telecast][number][game][1][since][series][highest - rated][world][series][game][1][fox][since][began][broadcasting][1996][retained][series][...])
+v(4 5 7 8 9 10 11 12 13 17 21 29 33 34 35 37 40 42): -3.0774097442626953	 ([world][series][returned][13. 7][national][rating][( 25][share ),][highest][since][series][series][since][began][broadcasting][1996][series][...])
+v(0 1 2 3 4 6 7 8 9 10 11 12 13 14 15 16 18 19 20 22 23 24 25 26 27 28 30 31 32 36 38 39 41): 9.486178398132324	 ([saturday][night's][game][1][world][telecast][returned][13. 7][national][rating][( 25][share ),][highest][number][game][1][1999][opener][yankees - braves][delivered][14. 2][( 26][share )][nbc.][highest - rated][world][game][1][fox][baseball][( nbc][retained][1997])
+v(0 1 2 3 5 6 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42): 9.51156997680664	 ([saturday][night's][game][1][series][telecast][number][game][1][since][1999][opener][yankees - braves][series][delivered][14. 2][( 26][share )][nbc.][highest - rated][world][series][game][1][fox][since][began][broadcasting][baseball][1996][( nbc][retained][series][1997][...])
+v(0 1 4 5 7 8 9 10 11 12 13 17 18 19 20 21 22 23 24 25 26 29 33 34 35 36 37 38 40 41 42): 9.159852981567383	 ([saturday][night's][world][series][returned][13. 7][national][rating][( 25][share ),][highest][since][1999][opener][yankees - braves][series][delivered][14. 2][( 26][share )][nbc.][series][since][began][broadcasting][baseball][1996][( nbc][series][1997][...])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 21 27 28 29 30 31 32 33 34 35 37 39 40 42): 5.4222869873046875	 ([game][1][world][series][telecast][returned][13. 7][national][rating][( 25][share ),][highest][number][game][1][since][series][highest - rated][world][series][game][1][fox][since][began][broadcasting][1996][retained][series][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42): 7.3062520027160645	 ([saturday][night's][game][1][world][series][telecast][returned][13. 7][national][rating][( 25][share ),][highest][number][game][1][since][1999][opener][yankees - braves][series][delivered][14. 2][( 26][share )][nbc.][highest - rated][world][series][game][1][fox][since][began][broadcasting][baseball][1996][( nbc][retained][series][1997][...])
+---------- Rewards-v() ----------
+v(0 1 2 3 6 14 15 16 18 19 20 22 23 24 25 26 27 28 30 31 32 36 38 39 41): 13.64311408996582, EP: 1.2108229398727417	 ([saturday][night's][game][1][telecast][number][game][1][1999][opener][yankees - braves][delivered][14. 2][( 26][share )][nbc.][highest - rated][world][game][1][fox][baseball][( nbc][retained][1997])
+v(0 1 4 7 8 9 10 11 12 13 18 19 20 22 23 24 25 26 36 38 41): 13.559486389160156, EP: 1.2034010887145996	 ([saturday][night's][world][returned][13. 7][national][rating][( 25][share ),][highest][1999][opener][yankees - braves][delivered][14. 2][( 26][share )][nbc.][baseball][( nbc][1997])
+v(0 1 18 19 20 22 23 24 25 26 36 38 41): 13.503385543823242, EP: 1.1984220743179321	 ([saturday][night's][1999][opener][yankees - braves][delivered][14. 2][( 26][share )][nbc.][baseball][( nbc][1997])
+v(0 1 2 3 5 6 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42): 13.472955703735352, EP: 1.1957215070724487	 ([saturday][night's][game][1][series][telecast][number][game][1][since][1999][opener][yankees - braves][series][delivered][14. 2][( 26][share )][nbc.][highest - rated][world][series][game][1][fox][since][began][broadcasting][baseball][1996][( nbc][retained][series][1997][...])
+v(0 1 2 3 4 6 7 8 9 10 11 12 13 14 15 16 18 19 20 22 23 24 25 26 27 28 30 31 32 36 38 39 41): 13.447564125061035, EP: 1.1934679746627808	 ([saturday][night's][game][1][world][telecast][returned][13. 7][national][rating][( 25][share ),][highest][number][game][1][1999][opener][yankees - braves][delivered][14. 2][( 26][share )][nbc.][highest - rated][world][game][1][fox][baseball][( nbc][retained][1997])
+v(0 1 5 17 18 19 20 21 22 23 24 25 26 29 33 34 35 36 37 38 40 41 42): 13.312538146972656, EP: 1.1814844608306885	 ([saturday][night's][series][since][1999][opener][yankees - braves][series][delivered][14. 2][( 26][share )][nbc.][series][since][began][broadcasting][baseball][1996][( nbc][series][1997][...])
+v(0 1 4 5 7 8 9 10 11 12 13 17 18 19 20 21 22 23 24 25 26 29 33 34 35 36 37 38 40 41 42): 13.121238708496094, EP: 1.1645066738128662	 ([saturday][night's][world][series][returned][13. 7][national][rating][( 25][share ),][highest][since][1999][opener][yankees - braves][series][delivered][14. 2][( 26][share )][nbc.][series][since][began][broadcasting][baseball][1996][( nbc][series][1997][...])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42): 11.267637252807617, EP: 1.0	 ([saturday][night's][game][1][world][series][telecast][returned][13. 7][national][rating][( 25][share ),][highest][number][game][1][since][1999][opener][yankees - braves][series][delivered][14. 2][( 26][share )][nbc.][highest - rated][world][series][game][1][fox][since][began][broadcasting][baseball][1996][( nbc][retained][series][1997][...])
+v(2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 21 27 28 29 30 31 32 33 34 35 37 39 40 42): 9.383672714233398, EP: 0.8327986001968384	 ([game][1][world][series][telecast][returned][13. 7][national][rating][( 25][share ),][highest][number][game][1][since][series][highest - rated][world][series][game][1][fox][since][began][broadcasting][1996][retained][series][...])
+v(2 3 5 6 14 15 16 17 21 27 28 29 30 31 32 33 34 35 37 39 40 42): 8.065827369689941, EP: 0.7158401608467102	 ([game][1][series][telecast][number][game][1][since][series][highest - rated][world][series][game][1][fox][since][began][broadcasting][1996][retained][series][...])
+v(2 3 4 6 7 8 9 10 11 12 13 14 15 16 27 28 30 31 32 39): 5.354552745819092, EP: 0.47521522641181946	 ([game][1][world][telecast][returned][13. 7][national][rating][( 25][share ),][highest][number][game][1][highest - rated][world][game][1][fox][retained])
+v(2 3 6 14 15 16 27 28 30 31 32 39): 4.680120468139648, EP: 0.4153595268726349	 ([game][1][telecast][number][game][1][highest - rated][world][game][1][fox][retained])
+v(4 7 8 9 10 11 12 13): 1.5337040424346924, EP: 0.13611584901809692	 ([world][returned][13. 7][national][rating][( 25][share ),][highest])
+v(4 5 7 8 9 10 11 12 13 17 21 29 33 34 35 37 40 42): 0.8839757442474365, EP: 0.07845262438058853	 ([world][series][returned][13. 7][national][rating][( 25][share ),][highest][since][series][series][since][began][broadcasting][1996][series][...])
+v(5 17 21 29 33 34 35 37 40 42): -0.4736154079437256, EP: -0.04203324764966965	 ([series][since][series][series][since][began][broadcasting][1996][series][...])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

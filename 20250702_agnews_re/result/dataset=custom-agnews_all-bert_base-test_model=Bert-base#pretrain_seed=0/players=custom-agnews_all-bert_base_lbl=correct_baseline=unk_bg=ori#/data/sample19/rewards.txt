@@ -1,0 +1,60 @@
+---------- Players ----------
+Player 0: ramallah,
+Player 1: west
+Player 2: bank
+Player 3: - -
+Player 4: senior
+Player 5: palestinian
+Player 6: officials
+Player 7: struggled
+Player 8: yesterday
+Player 9: stabilize
+Player 10: financial
+Player 11: operations
+Player 12: palestinian
+Player 13: authority,
+Player 14: yasser
+Player 15: arafat
+Player 16: lingered
+Player 17: envoy
+Player 18: termed
+Player 19: quot ; critical
+Player 20: juncture
+Player 21: life
+Player 22: death.
+Player 23: quot ;
+---------- Rewards ----------
+v(): -5.55802059173584	 ([])
+v(0 5 10 11 12 17 18): 7.774892330169678	 ([ramallah,][palestinian][financial][operations][palestinian][envoy][termed])
+v(4 6 7 9 13): 6.405872344970703	 ([senior][officials][struggled][stabilize][authority,])
+v(15 16 19 22 23): 8.013696670532227	 ([arafat][lingered][quot ; critical][death.][quot ;])
+v(1 2 3 8 14 20 21): -2.163813591003418	 ([west][bank][- -][yesterday][yasser][juncture][life])
+v(0 4 5 6 7 9 10 11 12 13 17 18): 8.439553260803223	 ([ramallah,][senior][palestinian][officials][struggled][stabilize][financial][operations][palestinian][authority,][envoy][termed])
+v(0 5 10 11 12 15 16 17 18 19 22 23): 8.360332489013672	 ([ramallah,][palestinian][financial][operations][palestinian][arafat][lingered][envoy][termed][quot ; critical][death.][quot ;])
+v(0 1 2 3 5 8 10 11 12 14 17 18 20 21): 8.124225616455078	 ([ramallah,][west][bank][- -][palestinian][yesterday][financial][operations][palestinian][yasser][envoy][termed][juncture][life])
+v(4 6 7 9 13 15 16 19 22 23): 8.315335273742676	 ([senior][officials][struggled][stabilize][authority,][arafat][lingered][quot ; critical][death.][quot ;])
+v(1 2 3 4 6 7 8 9 13 14 20 21): 5.841627597808838	 ([west][bank][- -][senior][officials][struggled][yesterday][stabilize][authority,][yasser][juncture][life])
+v(1 2 3 8 14 15 16 19 20 21 22 23): 8.071405410766602	 ([west][bank][- -][yesterday][yasser][arafat][lingered][quot ; critical][juncture][life][death.][quot ;])
+v(0 4 5 6 7 9 10 11 12 13 15 16 17 18 19 22 23): 8.484553337097168	 ([ramallah,][senior][palestinian][officials][struggled][stabilize][financial][operations][palestinian][authority,][arafat][lingered][envoy][termed][quot ; critical][death.][quot ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 17 18 20 21): 8.388559341430664	 ([ramallah,][west][bank][- -][senior][palestinian][officials][struggled][yesterday][stabilize][financial][operations][palestinian][authority,][yasser][envoy][termed][juncture][life])
+v(0 1 2 3 5 8 10 11 12 14 15 16 17 18 19 20 21 22 23): 8.393754959106445	 ([ramallah,][west][bank][- -][palestinian][yesterday][financial][operations][palestinian][yasser][arafat][lingered][envoy][termed][quot ; critical][juncture][life][death.][quot ;])
+v(1 2 3 4 6 7 8 9 13 14 15 16 19 20 21 22 23): 8.430901527404785	 ([west][bank][- -][senior][officials][struggled][yesterday][stabilize][authority,][yasser][arafat][lingered][quot ; critical][juncture][life][death.][quot ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 8.415335655212402	 ([ramallah,][west][bank][- -][senior][palestinian][officials][struggled][yesterday][stabilize][financial][operations][palestinian][authority,][yasser][arafat][lingered][envoy][termed][quot ; critical][juncture][life][death.][quot ;])
+---------- Rewards-v() ----------
+v(0 4 5 6 7 9 10 11 12 13 15 16 17 18 19 22 23): 14.042573928833008, EP: 1.0049535036087036	 ([ramallah,][senior][palestinian][officials][struggled][stabilize][financial][operations][palestinian][authority,][arafat][lingered][envoy][termed][quot ; critical][death.][quot ;])
+v(0 4 5 6 7 9 10 11 12 13 17 18): 13.997573852539062, EP: 1.0017331838607788	 ([ramallah,][senior][palestinian][officials][struggled][stabilize][financial][operations][palestinian][authority,][envoy][termed])
+v(1 2 3 4 6 7 8 9 13 14 15 16 19 20 21 22 23): 13.988922119140625, EP: 1.001114010810852	 ([west][bank][- -][senior][officials][struggled][yesterday][stabilize][authority,][yasser][arafat][lingered][quot ; critical][juncture][life][death.][quot ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23): 13.973356246948242, EP: 1.0	 ([ramallah,][west][bank][- -][senior][palestinian][officials][struggled][yesterday][stabilize][financial][operations][palestinian][authority,][yasser][arafat][lingered][envoy][termed][quot ; critical][juncture][life][death.][quot ;])
+v(0 1 2 3 5 8 10 11 12 14 15 16 17 18 19 20 21 22 23): 13.951775550842285, EP: 0.9984555840492249	 ([ramallah,][west][bank][- -][palestinian][yesterday][financial][operations][palestinian][yasser][arafat][lingered][envoy][termed][quot ; critical][juncture][life][death.][quot ;])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 17 18 20 21): 13.946579933166504, EP: 0.998083770275116	 ([ramallah,][west][bank][- -][senior][palestinian][officials][struggled][yesterday][stabilize][financial][operations][palestinian][authority,][yasser][envoy][termed][juncture][life])
+v(0 5 10 11 12 15 16 17 18 19 22 23): 13.918353080749512, EP: 0.9960637092590332	 ([ramallah,][palestinian][financial][operations][palestinian][arafat][lingered][envoy][termed][quot ; critical][death.][quot ;])
+v(4 6 7 9 13 15 16 19 22 23): 13.873355865478516, EP: 0.992843508720398	 ([senior][officials][struggled][stabilize][authority,][arafat][lingered][quot ; critical][death.][quot ;])
+v(0 1 2 3 5 8 10 11 12 14 17 18 20 21): 13.682246208190918, EP: 0.9791668057441711	 ([ramallah,][west][bank][- -][palestinian][yesterday][financial][operations][palestinian][yasser][envoy][termed][juncture][life])
+v(1 2 3 8 14 15 16 19 20 21 22 23): 13.629426002502441, EP: 0.9753867387771606	 ([west][bank][- -][yesterday][yasser][arafat][lingered][quot ; critical][juncture][life][death.][quot ;])
+v(15 16 19 22 23): 13.571717262268066, EP: 0.9712567925453186	 ([arafat][lingered][quot ; critical][death.][quot ;])
+v(0 5 10 11 12 17 18): 13.33291244506836, EP: 0.9541667699813843	 ([ramallah,][palestinian][financial][operations][palestinian][envoy][termed])
+v(4 6 7 9 13): 11.963892936706543, EP: 0.8561932444572449	 ([senior][officials][struggled][stabilize][authority,])
+v(1 2 3 4 6 7 8 9 13 14 20 21): 11.399648666381836, EP: 0.8158132433891296	 ([west][bank][- -][senior][officials][struggled][yesterday][stabilize][authority,][yasser][juncture][life])
+v(1 2 3 8 14 20 21): 3.394207000732422, EP: 0.2429056316614151	 ([west][bank][- -][yesterday][yasser][juncture][life])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

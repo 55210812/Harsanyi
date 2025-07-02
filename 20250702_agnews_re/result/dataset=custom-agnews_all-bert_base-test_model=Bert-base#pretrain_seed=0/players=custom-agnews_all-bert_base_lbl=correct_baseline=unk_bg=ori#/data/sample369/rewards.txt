@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: wellington
+Player 1: city
+Player 2: council
+Player 3: week
+Player 4: start
+Player 5: replacing
+Player 6: 1300
+Player 7: parking
+Player 8: meters
+Player 9: 300
+Player 10: pay - and - display
+Player 11: machines
+Player 12: accept
+Player 13: payments
+Player 14: mobile
+Player 15: phones
+Player 16: credit
+Player 17: cards.
+---------- Rewards ----------
+v(): 5.684970855712891	 ([])
+v(10 13 15): 4.374304294586182	 ([pay - and - display][payments][phones])
+v(1 4 8 11 14 17): 6.069144248962402	 ([city][start][meters][machines][mobile][cards.])
+v(0 2 3 5 6 7 9 12 16): -5.124112606048584	 ([wellington][council][week][replacing][1300][parking][300][accept][credit])
+v(1 4 8 10 11 13 14 15 17): 4.175261497497559	 ([city][start][meters][pay - and - display][machines][payments][mobile][phones][cards.])
+v(0 2 3 5 6 7 9 10 12 13 15 16): 3.2454917430877686	 ([wellington][council][week][replacing][1300][parking][300][pay - and - display][accept][payments][phones][credit])
+v(0 1 2 3 4 5 6 7 8 9 11 12 14 16 17): 2.569448709487915	 ([wellington][city][council][week][start][replacing][1300][parking][meters][300][machines][accept][mobile][credit][cards.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 2.290818691253662	 ([wellington][city][council][week][start][replacing][1300][parking][meters][300][pay - and - display][machines][accept][payments][mobile][phones][credit][cards.])
+---------- Rewards-v() ----------
+v(0 2 3 5 6 7 9 12 16): -10.809083938598633, EP: 3.184619665145874	 ([wellington][council][week][replacing][1300][parking][300][accept][credit])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): -3.3941521644592285, EP: 1.0	 ([wellington][city][council][week][start][replacing][1300][parking][meters][300][pay - and - display][machines][accept][payments][mobile][phones][credit][cards.])
+v(0 1 2 3 4 5 6 7 8 9 11 12 14 16 17): -3.1155221462249756, EP: 0.917908787727356	 ([wellington][city][council][week][start][replacing][1300][parking][meters][300][machines][accept][mobile][credit][cards.])
+v(0 2 3 5 6 7 9 10 12 13 15 16): -2.439479112625122, EP: 0.7187300324440002	 ([wellington][council][week][replacing][1300][parking][300][pay - and - display][accept][payments][phones][credit])
+v(1 4 8 10 11 13 14 15 17): -1.509709358215332, EP: 0.44479718804359436	 ([city][start][meters][pay - and - display][machines][payments][mobile][phones][cards.])
+v(10 13 15): -1.310666561126709, EP: 0.38615432381629944	 ([pay - and - display][payments][phones])
+v(1 4 8 11 14 17): 0.3841733932495117, EP: -0.11318685114383698	 ([city][start][meters][machines][mobile][cards.])
+v(): 0.0, EP: -0.0	 ([])
+==================================================

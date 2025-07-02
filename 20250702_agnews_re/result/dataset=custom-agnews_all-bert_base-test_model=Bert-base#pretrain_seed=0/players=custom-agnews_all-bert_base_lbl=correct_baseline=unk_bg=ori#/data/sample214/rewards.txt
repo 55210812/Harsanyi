@@ -1,0 +1,29 @@
+---------- Players ----------
+Player 0: america
+Player 1: regained
+Player 2: bragging
+Player 3: rights
+Player 4: world's
+Player 5: powerful
+Player 6: supercomputer,
+Player 7: two - and - a - half - year
+Player 8: hiatus.
+---------- Rewards ----------
+v(): -4.5541863441467285	 ([])
+v(0 5 6): -4.128170013427734	 ([america][powerful][supercomputer,])
+v(1 2 3 4): -6.167506694793701	 ([regained][bragging][rights][world's])
+v(7 8): -3.915956497192383	 ([two - and - a - half - year][hiatus.])
+v(0 1 2 3 4 5 6): -3.2392492294311523	 ([america][regained][bragging][rights][world's][powerful][supercomputer,])
+v(0 5 6 7 8): -3.0209546089172363	 ([america][powerful][supercomputer,][two - and - a - half - year][hiatus.])
+v(1 2 3 4 7 8): -4.152014255523682	 ([regained][bragging][rights][world's][two - and - a - half - year][hiatus.])
+v(0 1 2 3 4 5 6 7 8): 2.343257188796997	 ([america][regained][bragging][rights][world's][powerful][supercomputer,][two - and - a - half - year][hiatus.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8): 6.897443771362305, EP: 1.0	 ([america][regained][bragging][rights][world's][powerful][supercomputer,][two - and - a - half - year][hiatus.])
+v(1 2 3 4): -1.6133203506469727, EP: -0.23390120267868042	 ([regained][bragging][rights][world's])
+v(0 5 6 7 8): 1.5332317352294922, EP: 0.22228984534740448	 ([america][powerful][supercomputer,][two - and - a - half - year][hiatus.])
+v(0 1 2 3 4 5 6): 1.3149371147155762, EP: 0.19064122438430786	 ([america][regained][bragging][rights][world's][powerful][supercomputer,])
+v(7 8): 0.6382298469543457, EP: 0.09253136068582535	 ([two - and - a - half - year][hiatus.])
+v(0 5 6): 0.42601633071899414, EP: 0.06176437810063362	 ([america][powerful][supercomputer,])
+v(1 2 3 4 7 8): 0.4021720886230469, EP: 0.05830740928649902	 ([regained][bragging][rights][world's][two - and - a - half - year][hiatus.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

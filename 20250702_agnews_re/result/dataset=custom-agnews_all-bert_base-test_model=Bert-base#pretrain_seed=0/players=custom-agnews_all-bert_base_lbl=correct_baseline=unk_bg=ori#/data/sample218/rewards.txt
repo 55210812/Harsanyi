@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: united
+Player 1: nations
+Player 2: ( reuters )
+Player 3: -
+Player 4: world
+Player 5: must
+Player 6: neglect
+Player 7: afghanistan
+Player 8: presidential
+Player 9: election
+Player 10: upcoming
+Player 11: parliamentary
+Player 12: local
+Player 13: elections
+Player 14: far
+Player 15: harder
+Player 16: manage,
+Player 17: top
+Player 18: u. n.
+Player 19: official
+Player 20: said
+Player 21: tuesday.
+---------- Rewards ----------
+v(): -8.222925186157227	 ([])
+v(0 1 2 4 5 6 17 19): 6.982649326324463	 ([united][nations][( reuters )][world][must][neglect][top][official])
+v(10 11 12): 4.328362464904785	 ([upcoming][parliamentary][local])
+v(3 7 8 9 13 14 15 16 18 20 21): 8.211566925048828	 ([-][afghanistan][presidential][election][elections][far][harder][manage,][u. n.][said][tuesday.])
+v(0 1 2 4 5 6 10 11 12 17 19): 7.686667442321777	 ([united][nations][( reuters )][world][must][neglect][upcoming][parliamentary][local][top][official])
+v(0 1 2 3 4 5 6 7 8 9 13 14 15 16 17 18 19 20 21): 8.481123924255371	 ([united][nations][( reuters )][-][world][must][neglect][afghanistan][presidential][election][elections][far][harder][manage,][top][u. n.][official][said][tuesday.])
+v(3 7 8 9 10 11 12 13 14 15 16 18 20 21): 8.122366905212402	 ([-][afghanistan][presidential][election][upcoming][parliamentary][local][elections][far][harder][manage,][u. n.][said][tuesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 8.464550018310547	 ([united][nations][( reuters )][-][world][must][neglect][afghanistan][presidential][election][upcoming][parliamentary][local][elections][far][harder][manage,][top][u. n.][official][said][tuesday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 13 14 15 16 17 18 19 20 21): 16.70404815673828, EP: 1.0009931325912476	 ([united][nations][( reuters )][-][world][must][neglect][afghanistan][presidential][election][elections][far][harder][manage,][top][u. n.][official][said][tuesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21): 16.687475204467773, EP: 1.0	 ([united][nations][( reuters )][-][world][must][neglect][afghanistan][presidential][election][upcoming][parliamentary][local][elections][far][harder][manage,][top][u. n.][official][said][tuesday.])
+v(3 7 8 9 13 14 15 16 18 20 21): 16.434492111206055, EP: 0.984839916229248	 ([-][afghanistan][presidential][election][elections][far][harder][manage,][u. n.][said][tuesday.])
+v(3 7 8 9 10 11 12 13 14 15 16 18 20 21): 16.345291137695312, EP: 0.979494571685791	 ([-][afghanistan][presidential][election][upcoming][parliamentary][local][elections][far][harder][manage,][u. n.][said][tuesday.])
+v(0 1 2 4 5 6 10 11 12 17 19): 15.909592628479004, EP: 0.9533852338790894	 ([united][nations][( reuters )][world][must][neglect][upcoming][parliamentary][local][top][official])
+v(0 1 2 4 5 6 17 19): 15.205574035644531, EP: 0.9111968278884888	 ([united][nations][( reuters )][world][must][neglect][top][official])
+v(10 11 12): 12.551287651062012, EP: 0.7521381974220276	 ([upcoming][parliamentary][local])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

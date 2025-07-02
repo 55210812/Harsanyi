@@ -1,0 +1,45 @@
+---------- Players ----------
+Player 0: singapore
+Player 1: ( reuters )
+Player 2: -
+Player 3: asian
+Player 4: share
+Player 5: markets
+Player 6: staged
+Player 7: broad - based
+Player 8: retreat
+Player 9: wednesday,
+Player 10: led
+Player 11: steelmakers
+Player 12: amid
+Player 13: warnings
+Player 14: price
+Player 15: declines,
+Player 16: also
+Player 17: enveloping
+Player 18: technology
+Player 19: financial
+Player 20: stocks
+Player 21: worries
+Player 22: earnings
+Player 23: may
+Player 24: disappoint.
+---------- Rewards ----------
+v(): -4.239523410797119	 ([])
+v(5 7 11 13 14 18 19 20 22): 7.775547504425049	 ([markets][broad - based][steelmakers][warnings][price][technology][financial][stocks][earnings])
+v(8 15 16 17 21 23 24): -3.667677879333496	 ([retreat][declines,][also][enveloping][worries][may][disappoint.])
+v(0 1 2 3 4 6 9 10 12): -0.804445743560791	 ([singapore][( reuters )][-][asian][share][staged][wednesday,][led][amid])
+v(5 7 8 11 13 14 15 16 17 18 19 20 21 22 23 24): 6.566138744354248	 ([markets][broad - based][retreat][steelmakers][warnings][price][declines,][also][enveloping][technology][financial][stocks][worries][earnings][may][disappoint.])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 14 18 19 20 22): 7.54066276550293	 ([singapore][( reuters )][-][asian][share][markets][staged][broad - based][wednesday,][led][steelmakers][amid][warnings][price][technology][financial][stocks][earnings])
+v(0 1 2 3 4 6 8 9 10 12 15 16 17 21 23 24): 1.9002954959869385	 ([singapore][( reuters )][-][asian][share][staged][retreat][wednesday,][led][amid][declines,][also][enveloping][worries][may][disappoint.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 8.22156047821045	 ([singapore][( reuters )][-][asian][share][markets][staged][broad - based][retreat][wednesday,][led][steelmakers][amid][warnings][price][declines,][also][enveloping][technology][financial][stocks][worries][earnings][may][disappoint.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24): 12.461084365844727, EP: 1.0	 ([singapore][( reuters )][-][asian][share][markets][staged][broad - based][retreat][wednesday,][led][steelmakers][amid][warnings][price][declines,][also][enveloping][technology][financial][stocks][worries][earnings][may][disappoint.])
+v(5 7 11 13 14 18 19 20 22): 12.015070915222168, EP: 0.9642074704170227	 ([markets][broad - based][steelmakers][warnings][price][technology][financial][stocks][earnings])
+v(0 1 2 3 4 5 6 7 9 10 11 12 13 14 18 19 20 22): 11.78018569946289, EP: 0.9453579783439636	 ([singapore][( reuters )][-][asian][share][markets][staged][broad - based][wednesday,][led][steelmakers][amid][warnings][price][technology][financial][stocks][earnings])
+v(5 7 8 11 13 14 15 16 17 18 19 20 21 22 23 24): 10.805662155151367, EP: 0.8671526312828064	 ([markets][broad - based][retreat][steelmakers][warnings][price][declines,][also][enveloping][technology][financial][stocks][worries][earnings][may][disappoint.])
+v(0 1 2 3 4 6 8 9 10 12 15 16 17 21 23 24): 6.139819145202637, EP: 0.49271950125694275	 ([singapore][( reuters )][-][asian][share][staged][retreat][wednesday,][led][amid][declines,][also][enveloping][worries][may][disappoint.])
+v(0 1 2 3 4 6 9 10 12): 3.435077667236328, EP: 0.27566441893577576	 ([singapore][( reuters )][-][asian][share][staged][wednesday,][led][amid])
+v(8 15 16 17 21 23 24): 0.571845531463623, EP: 0.04589051008224487	 ([retreat][declines,][also][enveloping][worries][may][disappoint.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

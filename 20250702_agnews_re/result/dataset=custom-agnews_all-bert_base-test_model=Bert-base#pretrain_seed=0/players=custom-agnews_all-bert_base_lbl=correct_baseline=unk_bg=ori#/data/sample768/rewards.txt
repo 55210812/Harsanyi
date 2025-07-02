@@ -1,0 +1,54 @@
+---------- Players ----------
+Player 0: myanmar
+Player 1: # 39 ; s
+Player 2: prime
+Player 3: minister
+Player 4: khin
+Player 5: nyunt
+Player 6: removed
+Player 7: office
+Player 8: tuesday
+Player 9: placed
+Player 10: house
+Player 11: arrest
+Player 12: country
+Player 13: # 39 ; s
+Player 14: military
+Player 15: junta,
+Player 16: bbc
+Player 17: reported.
+---------- Rewards ----------
+v(): -8.06484317779541	 ([])
+v(1 13 14 15 17): 7.615457534790039	 ([# 39 ; s][# 39 ; s][military][junta,][reported.])
+v(2 3 7 8 11 12): 7.170919895172119	 ([prime][minister][office][tuesday][arrest][country])
+v(0 4 5 9 16): -1.3321471214294434	 ([myanmar][khin][nyunt][placed][bbc])
+v(6 10): 1.1939496994018555	 ([removed][house])
+v(1 2 3 7 8 11 12 13 14 15 17): 7.9472503662109375	 ([# 39 ; s][prime][minister][office][tuesday][arrest][country][# 39 ; s][military][junta,][reported.])
+v(0 1 4 5 9 13 14 15 16 17): 8.278732299804688	 ([myanmar][# 39 ; s][khin][nyunt][placed][# 39 ; s][military][junta,][bbc][reported.])
+v(1 6 10 13 14 15 17): 7.892741680145264	 ([# 39 ; s][removed][house][# 39 ; s][military][junta,][reported.])
+v(0 2 3 4 5 7 8 9 11 12 16): 8.544510841369629	 ([myanmar][prime][minister][khin][nyunt][office][tuesday][placed][arrest][country][bbc])
+v(2 3 6 7 8 10 11 12): 7.406219005584717	 ([prime][minister][removed][office][tuesday][house][arrest][country])
+v(0 4 5 6 9 10 16): 5.421912670135498	 ([myanmar][khin][nyunt][removed][placed][house][bbc])
+v(0 1 2 3 4 5 7 8 9 11 12 13 14 15 16 17): 8.560830116271973	 ([myanmar][# 39 ; s][prime][minister][khin][nyunt][office][tuesday][placed][arrest][country][# 39 ; s][military][junta,][bbc][reported.])
+v(1 2 3 6 7 8 10 11 12 13 14 15 17): 8.006814956665039	 ([# 39 ; s][prime][minister][removed][office][tuesday][house][arrest][country][# 39 ; s][military][junta,][reported.])
+v(0 1 4 5 6 9 10 13 14 15 16 17): 8.390508651733398	 ([myanmar][# 39 ; s][khin][nyunt][removed][placed][house][# 39 ; s][military][junta,][bbc][reported.])
+v(0 2 3 4 5 6 7 8 9 10 11 12 16): 8.531963348388672	 ([myanmar][prime][minister][khin][nyunt][removed][office][tuesday][placed][house][arrest][country][bbc])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 8.544060707092285	 ([myanmar][# 39 ; s][prime][minister][khin][nyunt][removed][office][tuesday][placed][house][arrest][country][# 39 ; s][military][junta,][bbc][reported.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 7 8 9 11 12 13 14 15 16 17): 16.625673294067383, EP: 1.0010097026824951	 ([myanmar][# 39 ; s][prime][minister][khin][nyunt][office][tuesday][placed][arrest][country][# 39 ; s][military][junta,][bbc][reported.])
+v(0 2 3 4 5 7 8 9 11 12 16): 16.60935401916504, EP: 1.000027060508728	 ([myanmar][prime][minister][khin][nyunt][office][tuesday][placed][arrest][country][bbc])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17): 16.608903884887695, EP: 1.0	 ([myanmar][# 39 ; s][prime][minister][khin][nyunt][removed][office][tuesday][placed][house][arrest][country][# 39 ; s][military][junta,][bbc][reported.])
+v(0 2 3 4 5 6 7 8 9 10 11 12 16): 16.596805572509766, EP: 0.9992715716362	 ([myanmar][prime][minister][khin][nyunt][removed][office][tuesday][placed][house][arrest][country][bbc])
+v(0 1 4 5 6 9 10 13 14 15 16 17): 16.455352783203125, EP: 0.9907549023628235	 ([myanmar][# 39 ; s][khin][nyunt][removed][placed][house][# 39 ; s][military][junta,][bbc][reported.])
+v(0 1 4 5 9 13 14 15 16 17): 16.34357452392578, EP: 0.9840248823165894	 ([myanmar][# 39 ; s][khin][nyunt][placed][# 39 ; s][military][junta,][bbc][reported.])
+v(1 2 3 6 7 8 10 11 12 13 14 15 17): 16.071659088134766, EP: 0.967653214931488	 ([# 39 ; s][prime][minister][removed][office][tuesday][house][arrest][country][# 39 ; s][military][junta,][reported.])
+v(1 2 3 7 8 11 12 13 14 15 17): 16.01209259033203, EP: 0.9640668034553528	 ([# 39 ; s][prime][minister][office][tuesday][arrest][country][# 39 ; s][military][junta,][reported.])
+v(1 6 10 13 14 15 17): 15.957584381103516, EP: 0.960784912109375	 ([# 39 ; s][removed][house][# 39 ; s][military][junta,][reported.])
+v(1 13 14 15 17): 15.68030071258545, EP: 0.9440900683403015	 ([# 39 ; s][# 39 ; s][military][junta,][reported.])
+v(2 3 6 7 8 10 11 12): 15.471061706542969, EP: 0.931492030620575	 ([prime][minister][removed][office][tuesday][house][arrest][country])
+v(2 3 7 8 11 12): 15.235763549804688, EP: 0.9173250198364258	 ([prime][minister][office][tuesday][arrest][country])
+v(0 4 5 6 9 10 16): 13.48675537109375, EP: 0.8120195865631104	 ([myanmar][khin][nyunt][removed][placed][house][bbc])
+v(6 10): 9.258792877197266, EP: 0.5574595928192139	 ([removed][house])
+v(0 4 5 9 16): 6.732696056365967, EP: 0.4053666591644287	 ([myanmar][khin][nyunt][placed][bbc])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

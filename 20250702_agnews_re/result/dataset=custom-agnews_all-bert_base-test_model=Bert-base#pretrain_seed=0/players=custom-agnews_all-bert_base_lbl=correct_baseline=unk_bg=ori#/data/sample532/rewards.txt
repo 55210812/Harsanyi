@@ -1,0 +1,41 @@
+---------- Players ----------
+Player 0: reuters
+Player 1: -
+Player 2: rwanda
+Player 3: strike
+Player 4: rwandan \ rebels
+Player 5: congo
+Player 6: little
+Player 7: continues
+Player 8: done
+Player 9: disarm
+Player 10: them, \ but
+Player 11: kigali
+Player 12: spoiling
+Player 13: fight,
+Player 14: president
+Player 15: paul
+Player 16: kagame \ said
+Player 17: saturday
+Player 18: meeting
+Player 19: congolese
+Player 20: counterpart.
+---------- Rewards ----------
+v(): -8.817327499389648	 ([])
+v(2 4 5 7 9 14 16 18 19): 8.454023361206055	 ([rwanda][rwandan \ rebels][congo][continues][disarm][president][kagame \ said][meeting][congolese])
+v(0 1 10 11 12 13 15 17 20): 1.113677740097046	 ([reuters][-][them, \ but][kigali][spoiling][fight,][paul][saturday][counterpart.])
+v(3 6 8): -7.55397891998291	 ([strike][little][done])
+v(0 1 2 4 5 7 9 10 11 12 13 14 15 16 17 18 19 20): 8.614974021911621	 ([reuters][-][rwanda][rwandan \ rebels][congo][continues][disarm][them, \ but][kigali][spoiling][fight,][president][paul][kagame \ said][saturday][meeting][congolese][counterpart.])
+v(2 3 4 5 6 7 8 9 14 16 18 19): 8.471600532531738	 ([rwanda][strike][rwandan \ rebels][congo][little][continues][done][disarm][president][kagame \ said][meeting][congolese])
+v(0 1 3 6 8 10 11 12 13 15 17 20): 1.4142744541168213	 ([reuters][-][strike][little][done][them, \ but][kigali][spoiling][fight,][paul][saturday][counterpart.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.629351615905762	 ([reuters][-][rwanda][strike][rwandan \ rebels][congo][little][continues][done][disarm][them, \ but][kigali][spoiling][fight,][president][paul][kagame \ said][saturday][meeting][congolese][counterpart.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 17.446678161621094, EP: 1.0	 ([reuters][-][rwanda][strike][rwandan \ rebels][congo][little][continues][done][disarm][them, \ but][kigali][spoiling][fight,][president][paul][kagame \ said][saturday][meeting][congolese][counterpart.])
+v(0 1 2 4 5 7 9 10 11 12 13 14 15 16 17 18 19 20): 17.432300567626953, EP: 0.9991759061813354	 ([reuters][-][rwanda][rwandan \ rebels][congo][continues][disarm][them, \ but][kigali][spoiling][fight,][president][paul][kagame \ said][saturday][meeting][congolese][counterpart.])
+v(2 3 4 5 6 7 8 9 14 16 18 19): 17.288928985595703, EP: 0.9909582138061523	 ([rwanda][strike][rwandan \ rebels][congo][little][continues][done][disarm][president][kagame \ said][meeting][congolese])
+v(2 4 5 7 9 14 16 18 19): 17.271350860595703, EP: 0.9899506568908691	 ([rwanda][rwandan \ rebels][congo][continues][disarm][president][kagame \ said][meeting][congolese])
+v(0 1 3 6 8 10 11 12 13 15 17 20): 10.23160171508789, EP: 0.5864498615264893	 ([reuters][-][strike][little][done][them, \ but][kigali][spoiling][fight,][paul][saturday][counterpart.])
+v(0 1 10 11 12 13 15 17 20): 9.931005477905273, EP: 0.5692204236984253	 ([reuters][-][them, \ but][kigali][spoiling][fight,][paul][saturday][counterpart.])
+v(3 6 8): 1.2633485794067383, EP: 0.07241198420524597	 ([strike][little][done])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

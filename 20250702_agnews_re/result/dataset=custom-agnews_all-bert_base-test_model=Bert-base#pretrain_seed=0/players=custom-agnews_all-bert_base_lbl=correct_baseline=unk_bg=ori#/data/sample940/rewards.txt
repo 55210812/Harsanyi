@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: rome :
+Player 1: italy
+Player 2: defended
+Player 3: quot ; emergency
+Player 4: measure
+Player 5: quot ;
+Player 6: draconian
+Player 7: new
+Player 8: policy
+Player 9: airlifting
+Player 10: illegal
+Player 11: immigrants
+Player 12: straight
+Player 13: back
+Player 14: libya
+Player 15: moment
+Player 16: set
+Player 17: foot
+Player 18: italian
+Player 19: soil.
+---------- Rewards ----------
+v(): -6.0533294677734375	 ([])
+v(3 4 5 13 16 17): -1.4343783855438232	 ([quot ; emergency][measure][quot ;][back][set][foot])
+v(1 2 9 14 18 19): 7.408832550048828	 ([italy][defended][airlifting][libya][italian][soil.])
+v(0 6): 1.1932752132415771	 ([rome :][draconian])
+v(7 8 10 11 12 15): -0.3881208896636963	 ([new][policy][illegal][immigrants][straight][moment])
+v(1 2 3 4 5 9 13 14 16 17 18 19): 8.161500930786133	 ([italy][defended][quot ; emergency][measure][quot ;][airlifting][back][libya][set][foot][italian][soil.])
+v(0 3 4 5 6 13 16 17): 6.937310695648193	 ([rome :][quot ; emergency][measure][quot ;][draconian][back][set][foot])
+v(3 4 5 7 8 10 11 12 13 15 16 17): 2.8784263134002686	 ([quot ; emergency][measure][quot ;][new][policy][illegal][immigrants][straight][back][moment][set][foot])
+v(0 1 2 6 9 14 18 19): 8.0343017578125	 ([rome :][italy][defended][draconian][airlifting][libya][italian][soil.])
+v(1 2 7 8 9 10 11 12 14 15 18 19): 6.499973773956299	 ([italy][defended][new][policy][airlifting][illegal][immigrants][straight][libya][moment][italian][soil.])
+v(0 6 7 8 10 11 12 15): 6.1682233810424805	 ([rome :][draconian][new][policy][illegal][immigrants][straight][moment])
+v(0 1 2 3 4 5 6 9 13 14 16 17 18 19): 8.340696334838867	 ([rome :][italy][defended][quot ; emergency][measure][quot ;][draconian][airlifting][back][libya][set][foot][italian][soil.])
+v(1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.052628993988037	 ([italy][defended][quot ; emergency][measure][quot ;][new][policy][airlifting][illegal][immigrants][straight][back][libya][moment][set][foot][italian][soil.])
+v(0 3 4 5 6 7 8 10 11 12 13 15 16 17): 6.959998607635498	 ([rome :][quot ; emergency][measure][quot ;][draconian][new][policy][illegal][immigrants][straight][back][moment][set][foot])
+v(0 1 2 6 7 8 9 10 11 12 14 15 18 19): 7.607985496520996	 ([rome :][italy][defended][draconian][new][policy][airlifting][illegal][immigrants][straight][libya][moment][italian][soil.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.7914018630981445	 ([rome :][italy][defended][quot ; emergency][measure][quot ;][draconian][new][policy][airlifting][illegal][immigrants][straight][back][libya][moment][set][foot][italian][soil.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 9 13 14 16 17 18 19): 14.394025802612305, EP: 1.0396753549575806	 ([rome :][italy][defended][quot ; emergency][measure][quot ;][draconian][airlifting][back][libya][set][foot][italian][soil.])
+v(1 2 3 4 5 9 13 14 16 17 18 19): 14.21483039855957, EP: 1.026732087135315	 ([italy][defended][quot ; emergency][measure][quot ;][airlifting][back][libya][set][foot][italian][soil.])
+v(0 1 2 6 9 14 18 19): 14.087631225585938, EP: 1.0175446271896362	 ([rome :][italy][defended][draconian][airlifting][libya][italian][soil.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.844731330871582, EP: 1.0	 ([rome :][italy][defended][quot ; emergency][measure][quot ;][draconian][new][policy][airlifting][illegal][immigrants][straight][back][libya][moment][set][foot][italian][soil.])
+v(0 1 2 6 7 8 9 10 11 12 14 15 18 19): 13.661314964294434, EP: 0.986751914024353	 ([rome :][italy][defended][draconian][new][policy][airlifting][illegal][immigrants][straight][libya][moment][italian][soil.])
+v(1 2 9 14 18 19): 13.462162017822266, EP: 0.9723671674728394	 ([italy][defended][airlifting][libya][italian][soil.])
+v(1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.105958938598633, EP: 0.9466387629508972	 ([italy][defended][quot ; emergency][measure][quot ;][new][policy][airlifting][illegal][immigrants][straight][back][libya][moment][set][foot][italian][soil.])
+v(0 3 4 5 6 7 8 10 11 12 13 15 16 17): 13.013328552246094, EP: 0.9399480819702148	 ([rome :][quot ; emergency][measure][quot ;][draconian][new][policy][illegal][immigrants][straight][back][moment][set][foot])
+v(0 3 4 5 6 13 16 17): 12.990640640258789, EP: 0.9383093118667603	 ([rome :][quot ; emergency][measure][quot ;][draconian][back][set][foot])
+v(1 2 7 8 9 10 11 12 14 15 18 19): 12.553302764892578, EP: 0.9067205786705017	 ([italy][defended][new][policy][airlifting][illegal][immigrants][straight][libya][moment][italian][soil.])
+v(0 6 7 8 10 11 12 15): 12.221552848815918, EP: 0.882758378982544	 ([rome :][draconian][new][policy][illegal][immigrants][straight][moment])
+v(3 4 5 7 8 10 11 12 13 15 16 17): 8.931756019592285, EP: 0.6451375484466553	 ([quot ; emergency][measure][quot ;][new][policy][illegal][immigrants][straight][back][moment][set][foot])
+v(0 6): 7.246604919433594, EP: 0.5234196782112122	 ([rome :][draconian])
+v(7 8 10 11 12 15): 5.66520881652832, EP: 0.40919601917266846	 ([new][policy][illegal][immigrants][straight][moment])
+v(3 4 5 13 16 17): 4.618950843811035, EP: 0.3336251676082611	 ([quot ; emergency][measure][quot ;][back][set][foot])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

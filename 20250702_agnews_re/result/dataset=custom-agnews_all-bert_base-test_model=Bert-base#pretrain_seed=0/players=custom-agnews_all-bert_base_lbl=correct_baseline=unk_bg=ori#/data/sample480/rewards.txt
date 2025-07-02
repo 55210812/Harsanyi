@@ -1,0 +1,43 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: suspected
+Player 3: muslim
+Player 4: rebels
+Player 5: shot
+Player 6: dead
+Player 7: six
+Player 8: people
+Player 9: kashmir
+Player 10: attack
+Player 11: day
+Player 12: ahead
+Player 13: indian
+Player 14: prime
+Player 15: minister
+Player 16: manmohan
+Player 17: singh's
+Player 18: visit
+Player 19: restive
+Player 20: region,
+Player 21: police
+Player 22: said.
+---------- Rewards ----------
+v(): -5.878676414489746	 ([])
+v(0 1 3 6 7 8 9 12 13 14 15 16): 7.965017318725586	 ([afp][-][muslim][dead][six][people][kashmir][ahead][indian][prime][minister][manmohan])
+v(2 4 5 21 22): 6.666979789733887	 ([suspected][rebels][shot][police][said.])
+v(10 11 17 18 19 20): 3.8298776149749756	 ([attack][day][singh's][visit][restive][region,])
+v(0 1 2 3 4 5 6 7 8 9 12 13 14 15 16 21 22): 7.979439735412598	 ([afp][-][suspected][muslim][rebels][shot][dead][six][people][kashmir][ahead][indian][prime][minister][manmohan][police][said.])
+v(0 1 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 8.265168190002441	 ([afp][-][muslim][dead][six][people][kashmir][attack][day][ahead][indian][prime][minister][manmohan][singh's][visit][restive][region,])
+v(2 4 5 10 11 17 18 19 20 21 22): 7.965576648712158	 ([suspected][rebels][shot][attack][day][singh's][visit][restive][region,][police][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 8.377294540405273	 ([afp][-][suspected][muslim][rebels][shot][dead][six][people][kashmir][attack][day][ahead][indian][prime][minister][manmohan][singh's][visit][restive][region,][police][said.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22): 14.25597095489502, EP: 1.0	 ([afp][-][suspected][muslim][rebels][shot][dead][six][people][kashmir][attack][day][ahead][indian][prime][minister][manmohan][singh's][visit][restive][region,][police][said.])
+v(0 1 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 14.143844604492188, EP: 0.9921348094940186	 ([afp][-][muslim][dead][six][people][kashmir][attack][day][ahead][indian][prime][minister][manmohan][singh's][visit][restive][region,])
+v(0 1 2 3 4 5 6 7 8 9 12 13 14 15 16 21 22): 13.858116149902344, EP: 0.9720920324325562	 ([afp][-][suspected][muslim][rebels][shot][dead][six][people][kashmir][ahead][indian][prime][minister][manmohan][police][said.])
+v(2 4 5 10 11 17 18 19 20 21 22): 13.844253540039062, EP: 0.9711196422576904	 ([suspected][rebels][shot][attack][day][singh's][visit][restive][region,][police][said.])
+v(0 1 3 6 7 8 9 12 13 14 15 16): 13.843693733215332, EP: 0.9710803627967834	 ([afp][-][muslim][dead][six][people][kashmir][ahead][indian][prime][minister][manmohan])
+v(2 4 5 21 22): 12.545656204223633, EP: 0.8800281882286072	 ([suspected][rebels][shot][police][said.])
+v(10 11 17 18 19 20): 9.7085542678833, EP: 0.6810166835784912	 ([attack][day][singh's][visit][restive][region,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

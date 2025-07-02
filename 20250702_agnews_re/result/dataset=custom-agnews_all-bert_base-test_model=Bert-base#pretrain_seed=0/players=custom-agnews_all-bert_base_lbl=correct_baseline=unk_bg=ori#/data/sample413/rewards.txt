@@ -1,0 +1,39 @@
+---------- Players ----------
+Player 0: baghdad,
+Player 1: iraq
+Player 2: - -
+Player 3: us
+Player 4: military
+Player 5: official
+Player 6: iraq
+Player 7: said
+Player 8: seven
+Player 9: american
+Player 10: marines
+Player 11: killed
+Player 12: monday
+Player 13: car - bomb
+Player 14: explosion.
+Player 15: several
+Player 16: marines
+Player 17: wounded
+Player 18: attack.
+---------- Rewards ----------
+v(): -6.714089870452881	 ([])
+v(0 1 2 3 4 6 10 16): 7.772231101989746	 ([baghdad,][iraq][- -][us][military][iraq][marines][marines])
+v(5 8 9 11 12 13 14 15 17): 5.422298431396484	 ([official][seven][american][killed][monday][car - bomb][explosion.][several][wounded])
+v(7 18): 0.36093664169311523	 ([said][attack.])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 17): 7.65913200378418	 ([baghdad,][iraq][- -][us][military][official][iraq][seven][american][marines][killed][monday][car - bomb][explosion.][several][marines][wounded])
+v(0 1 2 3 4 6 7 10 16 18): 7.724368095397949	 ([baghdad,][iraq][- -][us][military][iraq][said][marines][marines][attack.])
+v(5 7 8 9 11 12 13 14 15 17 18): 6.630959510803223	 ([official][said][seven][american][killed][monday][car - bomb][explosion.][several][wounded][attack.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 7.491940498352051	 ([baghdad,][iraq][- -][us][military][official][iraq][said][seven][american][marines][killed][monday][car - bomb][explosion.][several][marines][wounded][attack.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 6 10 16): 14.486320495605469, EP: 1.0197304487228394	 ([baghdad,][iraq][- -][us][military][iraq][marines][marines])
+v(0 1 2 3 4 6 7 10 16 18): 14.438457489013672, EP: 1.0163612365722656	 ([baghdad,][iraq][- -][us][military][iraq][said][marines][marines][attack.])
+v(0 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 17): 14.373222351074219, EP: 1.01176917552948	 ([baghdad,][iraq][- -][us][military][official][iraq][seven][american][marines][killed][monday][car - bomb][explosion.][several][marines][wounded])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18): 14.206029891967773, EP: 1.0	 ([baghdad,][iraq][- -][us][military][official][iraq][said][seven][american][marines][killed][monday][car - bomb][explosion.][several][marines][wounded][attack.])
+v(5 7 8 9 11 12 13 14 15 17 18): 13.345048904418945, EP: 0.9393932819366455	 ([official][said][seven][american][killed][monday][car - bomb][explosion.][several][wounded][attack.])
+v(5 8 9 11 12 13 14 15 17): 12.136388778686523, EP: 0.8543124794960022	 ([official][seven][american][killed][monday][car - bomb][explosion.][several][wounded])
+v(7 18): 7.075026512145996, EP: 0.49802982807159424	 ([said][attack.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,40 @@
+---------- Players ----------
+Player 0: beirut
+Player 1: ( reuters )
+Player 2: -
+Player 3: member
+Player 4: palestinian
+Player 5: militant
+Player 6: group
+Player 7: hamas
+Player 8: escaped
+Player 9: unhurt
+Player 10: monday
+Player 11: bomb
+Player 12: blew
+Player 13: car
+Player 14: syrian
+Player 15: capital
+Player 16: damascus,
+Player 17: palestinian
+Player 18: source
+Player 19: said.
+---------- Rewards ----------
+v(): -5.308185577392578	 ([])
+v(0 4 5 14 17): 7.760016441345215	 ([beirut][palestinian][militant][syrian][palestinian])
+v(3 6 7 8 9): 7.7047505378723145	 ([member][group][hamas][escaped][unhurt])
+v(1 2 10 11 12 13 15 16 18 19): 6.987157821655273	 ([( reuters )][-][monday][bomb][blew][car][capital][damascus,][source][said.])
+v(0 3 4 5 6 7 8 9 14 17): 8.022316932678223	 ([beirut][member][palestinian][militant][group][hamas][escaped][unhurt][syrian][palestinian])
+v(0 1 2 4 5 10 11 12 13 14 15 16 17 18 19): 7.678476810455322	 ([beirut][( reuters )][-][palestinian][militant][monday][bomb][blew][car][syrian][capital][damascus,][palestinian][source][said.])
+v(1 2 3 6 7 8 9 10 11 12 13 15 16 18 19): 7.363182067871094	 ([( reuters )][-][member][group][hamas][escaped][unhurt][monday][bomb][blew][car][capital][damascus,][source][said.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 7.8565521240234375	 ([beirut][( reuters )][-][member][palestinian][militant][group][hamas][escaped][unhurt][monday][bomb][blew][car][syrian][capital][damascus,][palestinian][source][said.])
+---------- Rewards-v() ----------
+v(0 3 4 5 6 7 8 9 14 17): 13.3305025100708, EP: 1.0125916004180908	 ([beirut][member][palestinian][militant][group][hamas][escaped][unhurt][syrian][palestinian])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19): 13.164737701416016, EP: 1.0	 ([beirut][( reuters )][-][member][palestinian][militant][group][hamas][escaped][unhurt][monday][bomb][blew][car][syrian][capital][damascus,][palestinian][source][said.])
+v(0 4 5 14 17): 13.068202018737793, EP: 0.9926670789718628	 ([beirut][palestinian][militant][syrian][palestinian])
+v(3 6 7 8 9): 13.012935638427734, EP: 0.9884690642356873	 ([member][group][hamas][escaped][unhurt])
+v(0 1 2 4 5 10 11 12 13 14 15 16 17 18 19): 12.986661911010742, EP: 0.9864732623100281	 ([beirut][( reuters )][-][palestinian][militant][monday][bomb][blew][car][syrian][capital][damascus,][palestinian][source][said.])
+v(1 2 3 6 7 8 9 10 11 12 13 15 16 18 19): 12.671367645263672, EP: 0.962523341178894	 ([( reuters )][-][member][group][hamas][escaped][unhurt][monday][bomb][blew][car][capital][damascus,][source][said.])
+v(1 2 10 11 12 13 15 16 18 19): 12.295343399047852, EP: 0.9339603781700134	 ([( reuters )][-][monday][bomb][blew][car][capital][damascus,][source][said.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

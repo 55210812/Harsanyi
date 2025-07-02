@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: anti - bacterial
+Player 3: agent
+Player 4: commonly
+Player 5: found
+Player 6: soaps
+Player 7: detergents
+Player 8: found
+Player 9: water
+Player 10: streams
+Player 11: wastewater
+Player 12: treatment
+Player 13: plants
+Player 14: baltimore
+Player 15: area,
+Player 16: johns
+Player 17: hopkins
+Player 18: researcher
+Player 19: said
+Player 20: wednesday.
+---------- Rewards ----------
+v(): 3.8084514141082764	 ([])
+v(3 4 6 7 9 10 11 12 13): 3.7351980209350586	 ([agent][commonly][soaps][detergents][water][streams][wastewater][treatment][plants])
+v(0 1 2 5 8 14 15 16 17 18 19 20): 2.626765727996826	 ([ap][-][anti - bacterial][found][found][baltimore][area,][johns][hopkins][researcher][said][wednesday.])
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 5.8345561027526855	 ([ap][-][anti - bacterial][agent][commonly][found][soaps][detergents][found][water][streams][wastewater][treatment][plants][baltimore][area,][johns][hopkins][researcher][said][wednesday.])
+---------- Rewards-v() ----------
+v(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20): 2.026104688644409, EP: 1.0	 ([ap][-][anti - bacterial][agent][commonly][found][soaps][detergents][found][water][streams][wastewater][treatment][plants][baltimore][area,][johns][hopkins][researcher][said][wednesday.])
+v(0 1 2 5 8 14 15 16 17 18 19 20): -1.1816856861114502, EP: -0.5832303166389465	 ([ap][-][anti - bacterial][found][found][baltimore][area,][johns][hopkins][researcher][said][wednesday.])
+v(3 4 6 7 9 10 11 12 13): -0.07325339317321777, EP: -0.036154791712760925	 ([agent][commonly][soaps][detergents][water][streams][wastewater][treatment][plants])
+v(): 0.0, EP: 0.0	 ([])
+==================================================
