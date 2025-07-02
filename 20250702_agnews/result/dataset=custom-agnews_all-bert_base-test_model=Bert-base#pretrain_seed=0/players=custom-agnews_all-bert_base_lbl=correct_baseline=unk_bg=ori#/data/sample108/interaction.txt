@@ -1,0 +1,67 @@
+---------- Players ----------
+Player 0: damage
+Player 1: environment
+Player 2: could
+Player 3: make
+Player 4: existing
+Player 5: tensions
+Player 6: southern
+Player 7: caucasus
+Player 8: even
+Player 9: intractable,
+Player 10: researchers
+Player 11: say.
+---------- AND Interactions (Pairwise Only) ----------
+I(1 5): 8.39775276184082	 ([environment][tensions])
+I(3 5): 5.4775590896606445	 ([make][tensions])
+I(5 10): 4.809394836425781	 ([tensions][researchers])
+I(0 5): 4.410033226013184	 ([damage][tensions])
+I(7 9): 4.218832969665527	 ([caucasus][intractable,])
+I(0 11): -3.6068363189697266	 ([damage][say.])
+I(5 7): 3.114161491394043	 ([tensions][caucasus])
+I(5 8): 2.6029467582702637	 ([tensions][even])
+I(2 7): 2.534006118774414	 ([could][caucasus])
+I(6 7): 2.2458152770996094	 ([southern][caucasus])
+I(1 7): 2.2047882080078125	 ([environment][caucasus])
+I(1 10): -2.0578560829162598	 ([environment][researchers])
+I(4 5): 1.9298219680786133	 ([existing][tensions])
+I(9 10): 1.719428300857544	 ([intractable,][researchers])
+I(5 11): 1.6282901763916016	 ([tensions][say.])
+I(6 9): 1.6211016178131104	 ([southern][intractable,])
+I(1 2): -1.503103256225586	 ([environment][could])
+I(7 10): 1.4924736022949219	 ([caucasus][researchers])
+I(10 11): -1.4806609153747559	 ([researchers][say.])
+I(3 7): 1.3439838886260986	 ([make][caucasus])
+I(8 11): -1.2261688709259033	 ([even][say.])
+I(1 4): -1.1531901359558105	 ([environment][existing])
+I(2 10): -1.1482610702514648	 ([could][researchers])
+I(0 7): 1.0892179012298584	 ([damage][caucasus])
+I(1 9): 1.0888817310333252	 ([environment][intractable,])
+I(1 3): -1.0346312522888184	 ([environment][make])
+I(6 11): -0.9917535781860352	 ([southern][say.])
+I(4 10): -0.8175249099731445	 ([existing][researchers])
+I(2 5): 0.7568569183349609	 ([could][tensions])
+I(0 2): -0.7439699172973633	 ([damage][could])
+I(3 8): 0.7386927604675293	 ([make][even])
+I(5 6): 0.6785812377929688	 ([tensions][southern])
+I(0 8): 0.6571745872497559	 ([damage][even])
+I(0 1): -0.6221222877502441	 ([damage][environment])
+I(2 3): -0.5577611923217773	 ([could][make])
+I(0 3): -0.5441198348999023	 ([damage][make])
+I(6 10): 0.537510871887207	 ([southern][researchers])
+I(0 9): 0.519179105758667	 ([damage][intractable,])
+I(1 8): 0.5166678428649902	 ([environment][even])
+I(3 10): -0.5101752281188965	 ([make][researchers])
+I(4 8): 0.5029935836791992	 ([existing][even])
+I(8 10): 0.4957742691040039	 ([even][researchers])
+I(3 6): 0.47540712356567383	 ([make][southern])
+I(3 9): 0.4522697925567627	 ([make][intractable,])
+I(0 10): 0.43401384353637695	 ([damage][researchers])
+I(1 11): -0.42182350158691406	 ([environment][say.])
+I(4 11): 0.4156208038330078	 ([existing][say.])
+I(2 4): -0.4131202697753906	 ([could][existing])
+I(3 11): -0.40118837356567383	 ([make][say.])
+I(7 11): -0.3335886001586914	 ([caucasus][say.])
+I(7 8): 0.2178797721862793	 ([caucasus][even])
+Sum: 32.0364716053009
+==================================================

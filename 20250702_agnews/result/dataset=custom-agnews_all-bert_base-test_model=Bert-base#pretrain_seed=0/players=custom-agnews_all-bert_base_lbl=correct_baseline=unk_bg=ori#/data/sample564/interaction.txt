@@ -1,0 +1,10 @@
+---------- Players ----------
+Player 0: & lt ; strong & gt ; competition & lt ; / strong & gt ;
+Player 1: get
+Player 2: suggestions
+---------- AND Interactions (Pairwise Only) ----------
+I(1 2): 1.7131547927856445	 ([get][suggestions])
+I(0 2): 1.045405387878418	 ([& lt ; strong & gt ; competition & lt ; / strong & gt ;][suggestions])
+I(0 1): -0.4173893928527832	 ([& lt ; strong & gt ; competition & lt ; / strong & gt ;][get])
+Sum: 4.402555465698242
+==================================================

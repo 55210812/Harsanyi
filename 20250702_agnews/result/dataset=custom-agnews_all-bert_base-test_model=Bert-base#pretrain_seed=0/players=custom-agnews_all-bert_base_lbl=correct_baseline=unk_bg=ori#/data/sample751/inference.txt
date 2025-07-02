@@ -1,0 +1,40 @@
+Execution time: 2025-07-02 17:50:22
+prompt: [CLS] new york knicks guard stephon marbury was asked yesterday if his club had done anything special to try to keep raptors guard vince carter in check. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2047 decoded_text: new
+idx:2 input_id:2259 decoded_text: york
+idx:3 input_id:27817 decoded_text: knicks
+idx:4 input_id:3457 decoded_text: guard
+idx:5 input_id:3357 decoded_text: step
+idx:6 input_id:8747 decoded_text: ##hon
+idx:7 input_id:9388 decoded_text: mar
+idx:8 input_id:4917 decoded_text: ##bury
+idx:9 input_id:2001 decoded_text: was
+idx:10 input_id:2356 decoded_text: asked
+idx:11 input_id:7483 decoded_text: yesterday
+idx:12 input_id:2065 decoded_text: if
+idx:13 input_id:2010 decoded_text: his
+idx:14 input_id:2252 decoded_text: club
+idx:15 input_id:2018 decoded_text: had
+idx:16 input_id:2589 decoded_text: done
+idx:17 input_id:2505 decoded_text: anything
+idx:18 input_id:2569 decoded_text: special
+idx:19 input_id:2000 decoded_text: to
+idx:20 input_id:3046 decoded_text: try
+idx:21 input_id:2000 decoded_text: to
+idx:22 input_id:2562 decoded_text: keep
+idx:23 input_id:9680 decoded_text: rap
+idx:24 input_id:6591 decoded_text: ##tors
+idx:25 input_id:3457 decoded_text: guard
+idx:26 input_id:12159 decoded_text: vince
+idx:27 input_id:5708 decoded_text: carter
+idx:28 input_id:1999 decoded_text: in
+idx:29 input_id:4638 decoded_text: check
+idx:30 input_id:1012 decoded_text: .
+idx:31 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.3588531017303467, 8.496450424194336, -2.4765701293945312, -2.2692532539367676]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

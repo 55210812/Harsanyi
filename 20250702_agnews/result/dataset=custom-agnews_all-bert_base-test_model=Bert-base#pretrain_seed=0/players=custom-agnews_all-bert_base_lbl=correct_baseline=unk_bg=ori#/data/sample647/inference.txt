@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 17:45:54
+prompt: [CLS] ( cbs / ap ) a sophisticated israeli spy satellite plummeted into the mediterranean sea shortly after launch, dealing a blow to israeli efforts to keep an eye on iran # 39 ; s alleged nuclear weapons program. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1006 decoded_text: (
+idx:2 input_id:6568 decoded_text: cbs
+idx:3 input_id:1013 decoded_text: /
+idx:4 input_id:9706 decoded_text: ap
+idx:5 input_id:1007 decoded_text: )
+idx:6 input_id:1037 decoded_text: a
+idx:7 input_id:12138 decoded_text: sophisticated
+idx:8 input_id:5611 decoded_text: israeli
+idx:9 input_id:8645 decoded_text: spy
+idx:10 input_id:5871 decoded_text: satellite
+idx:11 input_id:22088 decoded_text: plum
+idx:12 input_id:11368 decoded_text: ##met
+idx:13 input_id:2098 decoded_text: ##ed
+idx:14 input_id:2046 decoded_text: into
+idx:15 input_id:1996 decoded_text: the
+idx:16 input_id:7095 decoded_text: mediterranean
+idx:17 input_id:2712 decoded_text: sea
+idx:18 input_id:3859 decoded_text: shortly
+idx:19 input_id:2044 decoded_text: after
+idx:20 input_id:4888 decoded_text: launch
+idx:21 input_id:1010 decoded_text: ,
+idx:22 input_id:7149 decoded_text: dealing
+idx:23 input_id:1037 decoded_text: a
+idx:24 input_id:6271 decoded_text: blow
+idx:25 input_id:2000 decoded_text: to
+idx:26 input_id:5611 decoded_text: israeli
+idx:27 input_id:4073 decoded_text: efforts
+idx:28 input_id:2000 decoded_text: to
+idx:29 input_id:2562 decoded_text: keep
+idx:30 input_id:2019 decoded_text: an
+idx:31 input_id:3239 decoded_text: eye
+idx:32 input_id:2006 decoded_text: on
+idx:33 input_id:4238 decoded_text: iran
+idx:34 input_id:1001 decoded_text: #
+idx:35 input_id:4464 decoded_text: 39
+idx:36 input_id:1025 decoded_text: ;
+idx:37 input_id:1055 decoded_text: s
+idx:38 input_id:6884 decoded_text: alleged
+idx:39 input_id:4517 decoded_text: nuclear
+idx:40 input_id:4255 decoded_text: weapons
+idx:41 input_id:2565 decoded_text: program
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.153627872467041, -1.6100430488586426, -3.569675922393799, -0.7393616437911987]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

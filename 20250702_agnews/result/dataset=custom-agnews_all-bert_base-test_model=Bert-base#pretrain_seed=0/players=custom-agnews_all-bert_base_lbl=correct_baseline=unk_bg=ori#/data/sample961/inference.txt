@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 17:58:46
+prompt: [CLS] is apple computer inc. ( aapl. o : quote, profile, research ) fine - tuning an enhanced ipod with roughly 50 percent more storage and a color screen to display photos? [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2003 decoded_text: is
+idx:2 input_id:6207 decoded_text: apple
+idx:3 input_id:3274 decoded_text: computer
+idx:4 input_id:4297 decoded_text: inc
+idx:5 input_id:1012 decoded_text: .
+idx:6 input_id:1006 decoded_text: (
+idx:7 input_id:9779 decoded_text: aa
+idx:8 input_id:24759 decoded_text: ##pl
+idx:9 input_id:1012 decoded_text: .
+idx:10 input_id:1051 decoded_text: o
+idx:11 input_id:1024 decoded_text: :
+idx:12 input_id:14686 decoded_text: quote
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:6337 decoded_text: profile
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:2470 decoded_text: research
+idx:17 input_id:1007 decoded_text: )
+idx:18 input_id:2986 decoded_text: fine
+idx:19 input_id:1011 decoded_text: -
+idx:20 input_id:17372 decoded_text: tuning
+idx:21 input_id:2019 decoded_text: an
+idx:22 input_id:9412 decoded_text: enhanced
+idx:23 input_id:26322 decoded_text: ipod
+idx:24 input_id:2007 decoded_text: with
+idx:25 input_id:5560 decoded_text: roughly
+idx:26 input_id:2753 decoded_text: 50
+idx:27 input_id:3867 decoded_text: percent
+idx:28 input_id:2062 decoded_text: more
+idx:29 input_id:5527 decoded_text: storage
+idx:30 input_id:1998 decoded_text: and
+idx:31 input_id:1037 decoded_text: a
+idx:32 input_id:3609 decoded_text: color
+idx:33 input_id:3898 decoded_text: screen
+idx:34 input_id:2000 decoded_text: to
+idx:35 input_id:4653 decoded_text: display
+idx:36 input_id:7760 decoded_text: photos
+idx:37 input_id:1029 decoded_text: ?
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.89044713973999, -2.8623392581939697, 0.9830673933029175, 6.290340900421143]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

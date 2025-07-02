@@ -1,0 +1,51 @@
+Execution time: 2025-07-02 17:44:13
+prompt: [CLS] frankfurt / tokyo ( reuters ) - german compact disc and dvd equipment company singulus and japan's sony have teamed up to develop a new technology for music and video discs, singulus said on tuesday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9780 decoded_text: frankfurt
+idx:2 input_id:1013 decoded_text: /
+idx:3 input_id:5522 decoded_text: tokyo
+idx:4 input_id:1006 decoded_text: (
+idx:5 input_id:26665 decoded_text: reuters
+idx:6 input_id:1007 decoded_text: )
+idx:7 input_id:1011 decoded_text: -
+idx:8 input_id:2446 decoded_text: german
+idx:9 input_id:9233 decoded_text: compact
+idx:10 input_id:5860 decoded_text: disc
+idx:11 input_id:1998 decoded_text: and
+idx:12 input_id:4966 decoded_text: dvd
+idx:13 input_id:3941 decoded_text: equipment
+idx:14 input_id:2194 decoded_text: company
+idx:15 input_id:6170 decoded_text: sing
+idx:16 input_id:11627 decoded_text: ##ulus
+idx:17 input_id:1998 decoded_text: and
+idx:18 input_id:2900 decoded_text: japan
+idx:19 input_id:1005 decoded_text: '
+idx:20 input_id:1055 decoded_text: s
+idx:21 input_id:8412 decoded_text: sony
+idx:22 input_id:2031 decoded_text: have
+idx:23 input_id:12597 decoded_text: teamed
+idx:24 input_id:2039 decoded_text: up
+idx:25 input_id:2000 decoded_text: to
+idx:26 input_id:4503 decoded_text: develop
+idx:27 input_id:1037 decoded_text: a
+idx:28 input_id:2047 decoded_text: new
+idx:29 input_id:2974 decoded_text: technology
+idx:30 input_id:2005 decoded_text: for
+idx:31 input_id:2189 decoded_text: music
+idx:32 input_id:1998 decoded_text: and
+idx:33 input_id:2678 decoded_text: video
+idx:34 input_id:15303 decoded_text: discs
+idx:35 input_id:1010 decoded_text: ,
+idx:36 input_id:6170 decoded_text: sing
+idx:37 input_id:11627 decoded_text: ##ulus
+idx:38 input_id:2056 decoded_text: said
+idx:39 input_id:2006 decoded_text: on
+idx:40 input_id:9857 decoded_text: tuesday
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.499206066131592, -4.309584617614746, 1.0604960918426514, 5.959869861602783]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

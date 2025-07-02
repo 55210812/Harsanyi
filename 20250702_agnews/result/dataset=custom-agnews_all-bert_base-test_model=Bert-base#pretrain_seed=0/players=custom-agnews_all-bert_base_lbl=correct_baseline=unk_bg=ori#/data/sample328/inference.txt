@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 17:30:13
+prompt: [CLS] bee washington bureau. washington - the economy added 144, 000 jobs in august, the best performance since may, but 6, 000 fewer than economists had forecast, the labor department reported friday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:10506 decoded_text: bee
+idx:2 input_id:2899 decoded_text: washington
+idx:3 input_id:4879 decoded_text: bureau
+idx:4 input_id:1012 decoded_text: .
+idx:5 input_id:2899 decoded_text: washington
+idx:6 input_id:1011 decoded_text: -
+idx:7 input_id:1996 decoded_text: the
+idx:8 input_id:4610 decoded_text: economy
+idx:9 input_id:2794 decoded_text: added
+idx:10 input_id:14748 decoded_text: 144
+idx:11 input_id:1010 decoded_text: ,
+idx:12 input_id:2199 decoded_text: 000
+idx:13 input_id:5841 decoded_text: jobs
+idx:14 input_id:1999 decoded_text: in
+idx:15 input_id:2257 decoded_text: august
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:2190 decoded_text: best
+idx:19 input_id:2836 decoded_text: performance
+idx:20 input_id:2144 decoded_text: since
+idx:21 input_id:2089 decoded_text: may
+idx:22 input_id:1010 decoded_text: ,
+idx:23 input_id:2021 decoded_text: but
+idx:24 input_id:1020 decoded_text: 6
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:2199 decoded_text: 000
+idx:27 input_id:8491 decoded_text: fewer
+idx:28 input_id:2084 decoded_text: than
+idx:29 input_id:22171 decoded_text: economists
+idx:30 input_id:2018 decoded_text: had
+idx:31 input_id:19939 decoded_text: forecast
+idx:32 input_id:1010 decoded_text: ,
+idx:33 input_id:1996 decoded_text: the
+idx:34 input_id:4450 decoded_text: labor
+idx:35 input_id:2533 decoded_text: department
+idx:36 input_id:2988 decoded_text: reported
+idx:37 input_id:5958 decoded_text: friday
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.3016867637634277, -2.733323812484741, 6.60762882232666, -2.5438997745513916]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

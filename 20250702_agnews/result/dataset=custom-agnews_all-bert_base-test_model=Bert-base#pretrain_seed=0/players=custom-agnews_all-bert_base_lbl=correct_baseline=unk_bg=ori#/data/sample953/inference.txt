@@ -1,0 +1,54 @@
+Execution time: 2025-07-02 17:58:27
+prompt: [CLS] reuters - oracle corp. said it would \ report preliminary results of its # 36 ; 8. 8 billion hostile tender \ offer for peoplesoft as soon as practicable after 1 \ a. m. est saturday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26665 decoded_text: reuters
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:14721 decoded_text: oracle
+idx:4 input_id:13058 decoded_text: corp
+idx:5 input_id:1012 decoded_text: .
+idx:6 input_id:2056 decoded_text: said
+idx:7 input_id:2009 decoded_text: it
+idx:8 input_id:2052 decoded_text: would
+idx:9 input_id:1032 decoded_text: \
+idx:10 input_id:3189 decoded_text: report
+idx:11 input_id:8824 decoded_text: preliminary
+idx:12 input_id:3463 decoded_text: results
+idx:13 input_id:1997 decoded_text: of
+idx:14 input_id:2049 decoded_text: its
+idx:15 input_id:1001 decoded_text: #
+idx:16 input_id:4029 decoded_text: 36
+idx:17 input_id:1025 decoded_text: ;
+idx:18 input_id:1022 decoded_text: 8
+idx:19 input_id:1012 decoded_text: .
+idx:20 input_id:1022 decoded_text: 8
+idx:21 input_id:4551 decoded_text: billion
+idx:22 input_id:10420 decoded_text: hostile
+idx:23 input_id:8616 decoded_text: tender
+idx:24 input_id:1032 decoded_text: \
+idx:25 input_id:3749 decoded_text: offer
+idx:26 input_id:2005 decoded_text: for
+idx:27 input_id:7243 decoded_text: peoples
+idx:28 input_id:15794 decoded_text: ##oft
+idx:29 input_id:2004 decoded_text: as
+idx:30 input_id:2574 decoded_text: soon
+idx:31 input_id:2004 decoded_text: as
+idx:32 input_id:10975 decoded_text: pr
+idx:33 input_id:28804 decoded_text: ##actic
+idx:34 input_id:3085 decoded_text: ##able
+idx:35 input_id:2044 decoded_text: after
+idx:36 input_id:1015 decoded_text: 1
+idx:37 input_id:1032 decoded_text: \
+idx:38 input_id:1037 decoded_text: a
+idx:39 input_id:1012 decoded_text: .
+idx:40 input_id:1049 decoded_text: m
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:9765 decoded_text: est
+idx:43 input_id:5095 decoded_text: saturday
+idx:44 input_id:1012 decoded_text: .
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.785334348678589, -4.685873031616211, 5.371376991271973, 1.0886913537979126]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

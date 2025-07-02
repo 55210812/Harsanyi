@@ -1,0 +1,98 @@
+---------- Players ----------
+Player 0: leading
+Player 1: majors
+Player 2: 105
+Player 3: regular - season
+Player 4: victories,
+Player 5: st.
+Player 6: louis
+Player 7: cardinals
+Player 8: entered
+Player 9: playoffs
+Player 10: expecting
+Player 11: win
+Player 12: world
+Player 13: series.
+---------- AND Interactions (Pairwise Only) ----------
+I(12 13): 9.489398956298828	 ([world][series.])
+I(1 9): -7.6759843826293945	 ([majors][playoffs])
+I(4 9): -7.303133010864258	 ([victories,][playoffs])
+I(6 9): -6.833499908447266	 ([louis][playoffs])
+I(4 11): -6.832536220550537	 ([victories,][win])
+I(9 11): -6.357194900512695	 ([playoffs][win])
+I(7 8): 5.282588958740234	 ([cardinals][entered])
+I(4 5): -5.104806900024414	 ([victories,][st.])
+I(3 11): -4.853736400604248	 ([regular - season][win])
+I(11 13): 4.409509658813477	 ([win][series.])
+I(7 11): -4.259837627410889	 ([cardinals][win])
+I(6 11): -4.105527877807617	 ([louis][win])
+I(0 4): -3.984736442565918	 ([leading][victories,])
+I(4 7): -3.7531652450561523	 ([victories,][cardinals])
+I(5 11): -3.6831350326538086	 ([st.][win])
+I(1 5): -3.392971992492676	 ([majors][st.])
+I(3 9): -3.386678695678711	 ([regular - season][playoffs])
+I(0 3): -3.1852774620056152	 ([leading][regular - season])
+I(5 9): -3.149867057800293	 ([st.][playoffs])
+I(1 4): -3.1161394119262695	 ([majors][victories,])
+I(7 9): -3.0762739181518555	 ([cardinals][playoffs])
+I(1 6): -2.8267154693603516	 ([majors][louis])
+I(5 6): -2.781719207763672	 ([st.][louis])
+I(3 5): -2.770443916320801	 ([regular - season][st.])
+I(0 9): -2.766969680786133	 ([leading][playoffs])
+I(4 12): -2.724029302597046	 ([victories,][world])
+I(3 12): -2.63773775100708	 ([regular - season][world])
+I(4 10): -2.536418914794922	 ([victories,][expecting])
+I(1 13): 2.474454879760742	 ([majors][series.])
+I(1 11): -2.4204177856445312	 ([majors][win])
+I(3 13): -2.4071998596191406	 ([regular - season][series.])
+I(6 10): -2.3873300552368164	 ([louis][expecting])
+I(2 3): -2.3476738929748535	 ([105][regular - season])
+I(8 9): 2.2944860458374023	 ([entered][playoffs])
+I(4 6): -2.2858619689941406	 ([victories,][louis])
+I(3 6): -2.0382204055786133	 ([regular - season][louis])
+I(6 7): 1.9339570999145508	 ([louis][cardinals])
+I(5 8): 1.920557975769043	 ([st.][entered])
+I(5 10): -1.8631811141967773	 ([st.][expecting])
+I(7 10): -1.6751372814178467	 ([cardinals][expecting])
+I(10 12): -1.6614294052124023	 ([expecting][world])
+I(6 12): -1.636549472808838	 ([louis][world])
+I(2 4): -1.6312012672424316	 ([105][victories,])
+I(0 2): 1.5891268253326416	 ([leading][105])
+I(4 13): 1.5772876739501953	 ([victories,][series.])
+I(3 7): -1.4729232788085938	 ([regular - season][cardinals])
+I(10 13): 1.381803035736084	 ([expecting][series.])
+I(8 10): 1.3292980194091797	 ([entered][expecting])
+I(0 12): -1.263178825378418	 ([leading][world])
+I(7 12): -1.2254934310913086	 ([cardinals][world])
+I(0 6): -1.1551704406738281	 ([leading][louis])
+I(0 7): -1.1520304679870605	 ([leading][cardinals])
+I(6 13): -1.1511826515197754	 ([louis][series.])
+I(8 11): 1.0797224044799805	 ([entered][win])
+I(0 10): 1.0656180381774902	 ([leading][expecting])
+I(2 9): -1.0604190826416016	 ([105][playoffs])
+I(1 8): -1.016526222229004	 ([majors][entered])
+I(2 11): -0.9915471076965332	 ([105][win])
+I(3 10): -0.9777815341949463	 ([regular - season][expecting])
+I(1 2): -0.9489068984985352	 ([majors][105])
+I(0 11): -0.8685016632080078	 ([leading][win])
+I(0 5): -0.8570442199707031	 ([leading][st.])
+I(5 12): -0.8208310604095459	 ([st.][world])
+I(8 13): 0.7901992797851562	 ([entered][series.])
+I(0 13): -0.7813720703125	 ([leading][series.])
+I(0 1): -0.7116756439208984	 ([leading][majors])
+I(2 5): -0.6898741722106934	 ([105][st.])
+I(7 13): -0.6390049457550049	 ([cardinals][series.])
+I(2 12): -0.5969865322113037	 ([105][world])
+I(9 13): 0.5945100784301758	 ([playoffs][series.])
+I(2 10): 0.572512149810791	 ([105][expecting])
+I(9 12): -0.5453338623046875	 ([playoffs][world])
+I(1 7): 0.5092687606811523	 ([majors][cardinals])
+I(10 11): 0.49094390869140625	 ([expecting][win])
+I(2 6): 0.4848041534423828	 ([105][louis])
+I(3 8): -0.4710841178894043	 ([regular - season][entered])
+I(2 7): -0.4650077819824219	 ([105][cardinals])
+I(0 8): 0.44132494926452637	 ([leading][entered])
+I(5 13): 0.36891627311706543	 ([st.][series.])
+I(2 13): -0.3634450435638428	 ([105][series.])
+Sum: -50.52595925331116
+==================================================

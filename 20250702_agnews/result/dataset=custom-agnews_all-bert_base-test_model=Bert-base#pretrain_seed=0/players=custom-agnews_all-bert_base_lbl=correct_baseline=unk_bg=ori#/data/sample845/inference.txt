@@ -1,0 +1,46 @@
+Execution time: 2025-07-02 17:53:57
+prompt: [CLS] afp - southeast asian leaders completed a series of meetings in laos where renewed embarrassment over military - ruled myanmar threatened to overshadow the signing of an historic trade deal with china. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:21358 decoded_text: af
+idx:2 input_id:2361 decoded_text: ##p
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:4643 decoded_text: southeast
+idx:5 input_id:4004 decoded_text: asian
+idx:6 input_id:4177 decoded_text: leaders
+idx:7 input_id:2949 decoded_text: completed
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:2186 decoded_text: series
+idx:10 input_id:1997 decoded_text: of
+idx:11 input_id:6295 decoded_text: meetings
+idx:12 input_id:1999 decoded_text: in
+idx:13 input_id:15786 decoded_text: laos
+idx:14 input_id:2073 decoded_text: where
+idx:15 input_id:9100 decoded_text: renewed
+idx:16 input_id:14325 decoded_text: embarrassment
+idx:17 input_id:2058 decoded_text: over
+idx:18 input_id:2510 decoded_text: military
+idx:19 input_id:1011 decoded_text: -
+idx:20 input_id:5451 decoded_text: ruled
+idx:21 input_id:12620 decoded_text: myanmar
+idx:22 input_id:5561 decoded_text: threatened
+idx:23 input_id:2000 decoded_text: to
+idx:24 input_id:15849 decoded_text: overs
+idx:25 input_id:16102 decoded_text: ##had
+idx:26 input_id:5004 decoded_text: ##ow
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:6608 decoded_text: signing
+idx:29 input_id:1997 decoded_text: of
+idx:30 input_id:2019 decoded_text: an
+idx:31 input_id:3181 decoded_text: historic
+idx:32 input_id:3119 decoded_text: trade
+idx:33 input_id:3066 decoded_text: deal
+idx:34 input_id:2007 decoded_text: with
+idx:35 input_id:2859 decoded_text: china
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.2170305252075195, -2.619260787963867, -1.6882383823394775, -2.824578046798706]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

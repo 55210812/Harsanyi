@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 17:16:31
+prompt: [CLS] despite a published report to the contrary, the yankees have not come to terms with jaret wright as of tuesday night, but the bronx bombers did move quickly to replace [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2750 decoded_text: despite
+idx:2 input_id:1037 decoded_text: a
+idx:3 input_id:2405 decoded_text: published
+idx:4 input_id:3189 decoded_text: report
+idx:5 input_id:2000 decoded_text: to
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:10043 decoded_text: contrary
+idx:8 input_id:1010 decoded_text: ,
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:11081 decoded_text: yankees
+idx:11 input_id:2031 decoded_text: have
+idx:12 input_id:2025 decoded_text: not
+idx:13 input_id:2272 decoded_text: come
+idx:14 input_id:2000 decoded_text: to
+idx:15 input_id:3408 decoded_text: terms
+idx:16 input_id:2007 decoded_text: with
+idx:17 input_id:15723 decoded_text: jar
+idx:18 input_id:3388 decoded_text: ##et
+idx:19 input_id:6119 decoded_text: wright
+idx:20 input_id:2004 decoded_text: as
+idx:21 input_id:1997 decoded_text: of
+idx:22 input_id:9857 decoded_text: tuesday
+idx:23 input_id:2305 decoded_text: night
+idx:24 input_id:1010 decoded_text: ,
+idx:25 input_id:2021 decoded_text: but
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:14487 decoded_text: bronx
+idx:28 input_id:10544 decoded_text: bombers
+idx:29 input_id:2106 decoded_text: did
+idx:30 input_id:2693 decoded_text: move
+idx:31 input_id:2855 decoded_text: quickly
+idx:32 input_id:2000 decoded_text: to
+idx:33 input_id:5672 decoded_text: replace
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.088308811187744, 8.52502155303955, -2.6284918785095215, -2.3232922554016113]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

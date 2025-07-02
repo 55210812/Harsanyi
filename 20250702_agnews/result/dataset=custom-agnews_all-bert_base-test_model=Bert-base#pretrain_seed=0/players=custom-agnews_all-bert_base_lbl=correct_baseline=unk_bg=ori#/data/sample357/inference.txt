@@ -1,0 +1,37 @@
+Execution time: 2025-07-02 17:31:14
+prompt: [CLS] a new fossil found in spain may be the closest yet to the common ancestor of all great apes, perhaps including humans, researchers say. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:2047 decoded_text: new
+idx:3 input_id:10725 decoded_text: fossil
+idx:4 input_id:2179 decoded_text: found
+idx:5 input_id:1999 decoded_text: in
+idx:6 input_id:3577 decoded_text: spain
+idx:7 input_id:2089 decoded_text: may
+idx:8 input_id:2022 decoded_text: be
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:7541 decoded_text: closest
+idx:11 input_id:2664 decoded_text: yet
+idx:12 input_id:2000 decoded_text: to
+idx:13 input_id:1996 decoded_text: the
+idx:14 input_id:2691 decoded_text: common
+idx:15 input_id:13032 decoded_text: ancestor
+idx:16 input_id:1997 decoded_text: of
+idx:17 input_id:2035 decoded_text: all
+idx:18 input_id:2307 decoded_text: great
+idx:19 input_id:27754 decoded_text: apes
+idx:20 input_id:1010 decoded_text: ,
+idx:21 input_id:3383 decoded_text: perhaps
+idx:22 input_id:2164 decoded_text: including
+idx:23 input_id:4286 decoded_text: humans
+idx:24 input_id:1010 decoded_text: ,
+idx:25 input_id:6950 decoded_text: researchers
+idx:26 input_id:2360 decoded_text: say
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[1.0940107107162476, -3.44337797164917, -3.5436649322509766, 5.717251300811768]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

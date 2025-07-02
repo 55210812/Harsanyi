@@ -1,0 +1,101 @@
+---------- Players ----------
+Player 0: although
+Player 1: sprint - nextel
+Player 2: combination
+Player 3: characterized
+Player 4: \ $ 36
+Player 5: billion
+Player 6: merger
+Player 7: equals,
+Player 8: published
+Player 9: reports
+Player 10: describe
+Player 11: emerging
+Player 12: transaction
+Player 13: purchase
+Player 14: sprint.
+---------- AND Interactions (Pairwise Only) ----------
+I(5 14): -6.014699459075928	 ([billion][sprint.])
+I(13 14): -3.584716320037842	 ([purchase][sprint.])
+I(1 2): 3.4953808784484863	 ([sprint - nextel][combination])
+I(11 12): 3.396183967590332	 ([emerging][transaction])
+I(4 14): -3.376917839050293	 ([\ $ 36][sprint.])
+I(5 8): -3.304899215698242	 ([billion][published])
+I(8 13): -3.2348899841308594	 ([published][purchase])
+I(7 14): -3.014472484588623	 ([equals,][sprint.])
+I(5 12): -2.96014404296875	 ([billion][transaction])
+I(4 5): -2.7423839569091797	 ([\ $ 36][billion])
+I(7 8): -2.7092137336730957	 ([equals,][published])
+I(3 12): 2.681075096130371	 ([characterized][transaction])
+I(3 13): 2.555495262145996	 ([characterized][purchase])
+I(1 4): -2.4035701751708984	 ([sprint - nextel][\ $ 36])
+I(12 13): -2.182034969329834	 ([transaction][purchase])
+I(7 9): 2.151329517364502	 ([equals,][reports])
+I(1 6): 2.023380756378174	 ([sprint - nextel][merger])
+I(5 13): -2.019120693206787	 ([billion][purchase])
+I(4 8): -1.9398980140686035	 ([\ $ 36][published])
+I(3 5): 1.922532081604004	 ([characterized][billion])
+I(1 10): -1.8467702865600586	 ([sprint - nextel][describe])
+I(0 1): -1.811915397644043	 ([although][sprint - nextel])
+I(4 13): -1.751535415649414	 ([\ $ 36][purchase])
+I(6 14): -1.7290892601013184	 ([merger][sprint.])
+I(1 14): -1.710278034210205	 ([sprint - nextel][sprint.])
+I(1 5): -1.706995964050293	 ([sprint - nextel][billion])
+I(12 14): 1.6719040870666504	 ([transaction][sprint.])
+I(11 14): -1.6617236137390137	 ([emerging][sprint.])
+I(1 11): -1.650954246520996	 ([sprint - nextel][emerging])
+I(8 9): 1.6501460075378418	 ([published][reports])
+I(1 3): 1.6220207214355469	 ([sprint - nextel][characterized])
+I(2 4): 1.4826178550720215	 ([combination][\ $ 36])
+I(3 4): 1.4665594100952148	 ([characterized][\ $ 36])
+I(5 9): 1.4337377548217773	 ([billion][reports])
+I(5 7): -1.4209203720092773	 ([billion][equals,])
+I(0 12): 1.378866195678711	 ([although][transaction])
+I(7 11): -1.3030831813812256	 ([equals,][emerging])
+I(4 7): 1.2825450897216797	 ([\ $ 36][equals,])
+I(4 6): -1.264472484588623	 ([\ $ 36][merger])
+I(6 13): -1.2511768341064453	 ([merger][purchase])
+I(8 12): -1.213545799255371	 ([published][transaction])
+I(6 9): 1.182851791381836	 ([merger][reports])
+I(11 13): -1.1659855842590332	 ([emerging][purchase])
+I(9 10): 1.1087827682495117	 ([reports][describe])
+I(6 12): -1.1015701293945312	 ([merger][transaction])
+I(2 14): -1.0356955528259277	 ([combination][sprint.])
+I(6 7): -0.9611868858337402	 ([merger][equals,])
+I(7 13): -0.9045472145080566	 ([equals,][purchase])
+I(0 5): 0.8901252746582031	 ([although][billion])
+I(0 13): 0.8690600395202637	 ([although][purchase])
+I(5 6): 0.8266067504882812	 ([billion][merger])
+I(6 10): 0.8223958015441895	 ([merger][describe])
+I(10 12): -0.7932076454162598	 ([describe][transaction])
+I(3 10): 0.7595596313476562	 ([characterized][describe])
+I(2 8): -0.6982312202453613	 ([combination][published])
+I(4 12): 0.6891317367553711	 ([\ $ 36][transaction])
+I(10 14): -0.6884746551513672	 ([describe][sprint.])
+I(8 10): 0.6833405494689941	 ([published][describe])
+I(0 2): -0.6740832328796387	 ([although][combination])
+I(5 11): -0.6657233238220215	 ([billion][emerging])
+I(3 8): 0.6448626518249512	 ([characterized][published])
+I(9 14): -0.6310920715332031	 ([reports][sprint.])
+I(3 9): 0.6149001121520996	 ([characterized][reports])
+I(1 12): -0.6145315170288086	 ([sprint - nextel][transaction])
+I(4 10): -0.5868353843688965	 ([\ $ 36][describe])
+I(0 10): 0.5705037117004395	 ([although][describe])
+I(2 5): -0.5293712615966797	 ([combination][billion])
+I(9 13): 0.5219817161560059	 ([reports][purchase])
+I(1 7): -0.49543237686157227	 ([sprint - nextel][equals,])
+I(10 13): 0.4917259216308594	 ([describe][purchase])
+I(4 9): 0.44431209564208984	 ([\ $ 36][reports])
+I(0 9): 0.4308452606201172	 ([although][reports])
+I(7 10): -0.4196300506591797	 ([equals,][describe])
+I(5 10): -0.41021299362182617	 ([billion][describe])
+I(1 8): 0.408679723739624	 ([sprint - nextel][published])
+I(2 6): -0.3732481002807617	 ([combination][merger])
+I(2 13): -0.3464508056640625	 ([combination][purchase])
+I(3 14): -0.3397560119628906	 ([characterized][sprint.])
+I(0 6): -0.3317832946777344	 ([although][merger])
+I(4 11): -0.3269033432006836	 ([\ $ 36][emerging])
+I(3 11): 0.30335140228271484	 ([characterized][emerging])
+I(1 9): 0.2739551067352295	 ([sprint - nextel][reports])
+Sum: -0.13562655448913574
+==================================================

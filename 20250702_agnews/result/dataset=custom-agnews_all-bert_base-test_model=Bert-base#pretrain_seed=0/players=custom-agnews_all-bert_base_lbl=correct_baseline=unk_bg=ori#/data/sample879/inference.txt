@@ -1,0 +1,46 @@
+Execution time: 2025-07-02 17:55:32
+prompt: [CLS] st. louis, missouri this was for the believers. for ted williams and for yaz and all the others who spent a career beneath a boulder that kept rolling down a hill. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2358 decoded_text: st
+idx:2 input_id:1012 decoded_text: .
+idx:3 input_id:3434 decoded_text: louis
+idx:4 input_id:1010 decoded_text: ,
+idx:5 input_id:5284 decoded_text: missouri
+idx:6 input_id:2023 decoded_text: this
+idx:7 input_id:2001 decoded_text: was
+idx:8 input_id:2005 decoded_text: for
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:20373 decoded_text: believers
+idx:11 input_id:1012 decoded_text: .
+idx:12 input_id:2005 decoded_text: for
+idx:13 input_id:6945 decoded_text: ted
+idx:14 input_id:3766 decoded_text: williams
+idx:15 input_id:1998 decoded_text: and
+idx:16 input_id:2005 decoded_text: for
+idx:17 input_id:8038 decoded_text: ya
+idx:18 input_id:2480 decoded_text: ##z
+idx:19 input_id:1998 decoded_text: and
+idx:20 input_id:2035 decoded_text: all
+idx:21 input_id:1996 decoded_text: the
+idx:22 input_id:2500 decoded_text: others
+idx:23 input_id:2040 decoded_text: who
+idx:24 input_id:2985 decoded_text: spent
+idx:25 input_id:1037 decoded_text: a
+idx:26 input_id:2476 decoded_text: career
+idx:27 input_id:4218 decoded_text: beneath
+idx:28 input_id:1037 decoded_text: a
+idx:29 input_id:13264 decoded_text: boulder
+idx:30 input_id:2008 decoded_text: that
+idx:31 input_id:2921 decoded_text: kept
+idx:32 input_id:5291 decoded_text: rolling
+idx:33 input_id:2091 decoded_text: down
+idx:34 input_id:1037 decoded_text: a
+idx:35 input_id:2940 decoded_text: hill
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.0238553285598755, 8.19184398651123, -2.5402541160583496, -3.137646198272705]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

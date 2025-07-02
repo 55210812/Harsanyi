@@ -1,0 +1,39 @@
+Execution time: 2025-07-02 17:40:28
+prompt: [CLS] australian rugby league coach wayne bennett yesterday slammed the perception that the kangaroos would have to lose the tri - nations final for the tournament to succeed. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2827 decoded_text: australian
+idx:2 input_id:4043 decoded_text: rugby
+idx:3 input_id:2223 decoded_text: league
+idx:4 input_id:2873 decoded_text: coach
+idx:5 input_id:6159 decoded_text: wayne
+idx:6 input_id:8076 decoded_text: bennett
+idx:7 input_id:7483 decoded_text: yesterday
+idx:8 input_id:7549 decoded_text: slammed
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:10617 decoded_text: perception
+idx:11 input_id:2008 decoded_text: that
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:21652 decoded_text: kangaroo
+idx:14 input_id:2015 decoded_text: ##s
+idx:15 input_id:2052 decoded_text: would
+idx:16 input_id:2031 decoded_text: have
+idx:17 input_id:2000 decoded_text: to
+idx:18 input_id:4558 decoded_text: lose
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:13012 decoded_text: tri
+idx:21 input_id:1011 decoded_text: -
+idx:22 input_id:3741 decoded_text: nations
+idx:23 input_id:2345 decoded_text: final
+idx:24 input_id:2005 decoded_text: for
+idx:25 input_id:1996 decoded_text: the
+idx:26 input_id:2977 decoded_text: tournament
+idx:27 input_id:2000 decoded_text: to
+idx:28 input_id:9510 decoded_text: succeed
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.4888616800308228, 8.380634307861328, -2.78678560256958, -2.6191444396972656]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

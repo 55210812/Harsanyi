@@ -1,0 +1,101 @@
+---------- Players ----------
+Player 0: three - team
+Player 1: trade
+Player 2: would
+Player 3: send
+Player 4: # 39 ; backs
+Player 5: # 39 ;
+Player 6: ace
+Player 7: left - hander
+Player 8: new
+Player 9: york
+Player 10: yankees
+Player 11: close
+Player 12: completion,
+Player 13: pending
+Player 14: physicals.
+---------- AND Interactions (Pairwise Only) ----------
+I(0 10): -8.079787254333496	 ([three - team][yankees])
+I(9 10): -4.081930160522461	 ([york][yankees])
+I(1 10): -3.6454591751098633	 ([trade][yankees])
+I(3 10): 3.268869400024414	 ([send][yankees])
+I(0 4): 3.069629192352295	 ([three - team][# 39 ; backs])
+I(6 10): -3.0032997131347656	 ([ace][yankees])
+I(4 7): 2.9980428218841553	 ([# 39 ; backs][left - hander])
+I(1 9): -2.9813075065612793	 ([trade][york])
+I(7 10): -2.9366531372070312	 ([left - hander][yankees])
+I(0 9): -2.7271299362182617	 ([three - team][york])
+I(0 3): 2.6622118949890137	 ([three - team][send])
+I(1 7): -2.5661990642547607	 ([trade][left - hander])
+I(0 1): 2.535417079925537	 ([three - team][trade])
+I(7 9): -2.38505220413208	 ([left - hander][york])
+I(1 3): 2.208378314971924	 ([trade][send])
+I(1 6): -2.2065200805664062	 ([trade][ace])
+I(7 14): 2.1647539138793945	 ([left - hander][physicals.])
+I(7 13): 2.0954763889312744	 ([left - hander][pending])
+I(0 2): 2.0207605361938477	 ([three - team][would])
+I(3 9): -1.9754538536071777	 ([send][york])
+I(2 10): 1.9704399108886719	 ([would][yankees])
+I(2 3): 1.943878173828125	 ([would][send])
+I(0 8): -1.8682804107666016	 ([three - team][new])
+I(4 14): 1.858879804611206	 ([# 39 ; backs][physicals.])
+I(8 10): 1.7065792083740234	 ([new][yankees])
+I(7 11): 1.6218233108520508	 ([left - hander][close])
+I(3 8): 1.6201705932617188	 ([send][new])
+I(1 4): 1.609828233718872	 ([trade][# 39 ; backs])
+I(1 12): 1.566934585571289	 ([trade][completion,])
+I(6 9): -1.5623161792755127	 ([ace][york])
+I(5 7): 1.4489986896514893	 ([# 39 ;][left - hander])
+I(0 12): -1.4125008583068848	 ([three - team][completion,])
+I(0 13): 1.3954801559448242	 ([three - team][pending])
+I(13 14): -1.2633922100067139	 ([pending][physicals.])
+I(4 9): 1.232635498046875	 ([# 39 ; backs][york])
+I(1 2): 1.161872386932373	 ([trade][would])
+I(10 12): 1.1371493339538574	 ([yankees][completion,])
+I(2 9): -1.129176378250122	 ([would][york])
+I(4 10): 1.1137619018554688	 ([# 39 ; backs][yankees])
+I(0 11): -1.103562831878662	 ([three - team][close])
+I(7 12): 1.0752222537994385	 ([left - hander][completion,])
+I(3 13): 1.0735297203063965	 ([send][pending])
+I(1 8): 1.0501108169555664	 ([trade][new])
+I(10 13): 1.0306892395019531	 ([yankees][pending])
+I(1 13): 1.0167441368103027	 ([trade][pending])
+I(11 14): -0.9778749942779541	 ([close][physicals.])
+I(6 7): 0.9743218421936035	 ([ace][left - hander])
+I(0 6): -0.9583051204681396	 ([three - team][ace])
+I(0 7): -0.948052167892456	 ([three - team][left - hander])
+I(3 4): 0.9383301734924316	 ([send][# 39 ; backs])
+I(10 11): 0.9217205047607422	 ([yankees][close])
+I(9 12): -0.9192299842834473	 ([york][completion,])
+I(11 12): 0.8186917304992676	 ([close][completion,])
+I(3 12): 0.8128018379211426	 ([send][completion,])
+I(0 5): 0.790290355682373	 ([three - team][# 39 ;])
+I(9 11): -0.7842247486114502	 ([york][close])
+I(5 14): 0.7582075595855713	 ([# 39 ;][physicals.])
+I(3 11): 0.7510199546813965	 ([send][close])
+I(2 4): 0.7312636375427246	 ([would][# 39 ; backs])
+I(4 6): 0.7230217456817627	 ([# 39 ; backs][ace])
+I(6 13): -0.7161805629730225	 ([ace][pending])
+I(2 13): 0.703373908996582	 ([would][pending])
+I(3 6): -0.700491189956665	 ([send][ace])
+I(9 14): 0.6865365505218506	 ([york][physicals.])
+I(10 14): -0.6824953556060791	 ([yankees][physicals.])
+I(4 13): 0.6775069236755371	 ([# 39 ; backs][pending])
+I(5 6): -0.6064326763153076	 ([# 39 ;][ace])
+I(12 14): 0.6052505970001221	 ([completion,][physicals.])
+I(8 11): 0.5694694519042969	 ([new][close])
+I(1 14): -0.5670936107635498	 ([trade][physicals.])
+I(4 12): 0.5410447120666504	 ([# 39 ; backs][completion,])
+I(2 6): -0.5117776393890381	 ([would][ace])
+I(0 14): 0.48267245292663574	 ([three - team][physicals.])
+I(3 14): -0.4550588130950928	 ([send][physicals.])
+I(4 5): -0.45222902297973633	 ([# 39 ; backs][# 39 ;])
+I(8 12): 0.44856834411621094	 ([new][completion,])
+I(12 13): -0.44091176986694336	 ([completion,][pending])
+I(1 11): 0.4345822334289551	 ([trade][close])
+I(6 11): -0.42815661430358887	 ([ace][close])
+I(2 8): 0.4113779067993164	 ([would][new])
+I(6 8): -0.38730645179748535	 ([ace][new])
+I(5 10): 0.3663063049316406	 ([# 39 ;][yankees])
+Sum: 25.542622089385986
+==================================================

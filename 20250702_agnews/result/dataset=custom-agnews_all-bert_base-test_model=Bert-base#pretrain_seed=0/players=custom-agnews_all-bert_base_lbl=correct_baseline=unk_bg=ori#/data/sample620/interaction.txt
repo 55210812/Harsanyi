@@ -1,0 +1,38 @@
+---------- Players ----------
+Player 0: leading
+Player 1: supermarket
+Player 2: chain
+Player 3: still
+Player 4: feeling
+Player 5: impact
+Player 6: labor
+Player 7: dispute.
+---------- AND Interactions (Pairwise Only) ----------
+I(1 7): -7.295688629150391	 ([supermarket][dispute.])
+I(0 6): -5.380984306335449	 ([leading][labor])
+I(1 2): -5.130268096923828	 ([supermarket][chain])
+I(2 7): -4.737002372741699	 ([chain][dispute.])
+I(1 6): -4.421108722686768	 ([supermarket][labor])
+I(4 6): -3.784860849380493	 ([feeling][labor])
+I(2 6): -3.3971033096313477	 ([chain][labor])
+I(0 5): 2.737995147705078	 ([leading][impact])
+I(1 5): -2.7194671630859375	 ([supermarket][impact])
+I(5 7): -2.4454355239868164	 ([impact][dispute.])
+I(6 7): -2.165266990661621	 ([labor][dispute.])
+I(1 4): -2.035223960876465	 ([supermarket][feeling])
+I(2 4): -1.5484449863433838	 ([chain][feeling])
+I(0 2): -1.5329461097717285	 ([leading][chain])
+I(0 7): -1.5035324096679688	 ([leading][dispute.])
+I(2 5): -1.1624698638916016	 ([chain][impact])
+I(4 7): 1.1606507301330566	 ([feeling][dispute.])
+I(4 5): -1.0326788425445557	 ([feeling][impact])
+I(5 6): -0.7457423210144043	 ([impact][labor])
+I(2 3): 0.7239499092102051	 ([chain][still])
+I(3 4): 0.6136951446533203	 ([still][feeling])
+I(0 1): 0.5740013122558594	 ([leading][supermarket])
+I(3 5): 0.5663402080535889	 ([still][impact])
+I(0 3): -0.48644208908081055	 ([leading][still])
+I(0 4): 0.44519519805908203	 ([leading][feeling])
+I(1 3): 0.4224853515625	 ([supermarket][still])
+Sum: -15.139365673065186
+==================================================

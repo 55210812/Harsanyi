@@ -1,0 +1,54 @@
+Execution time: 2025-07-02 17:46:41
+prompt: [CLS] london, england - - the us - led coalition must speed up its quot ; exit strategy quot ; from iraq by accelerating the training of local security forces, pakistani president pervez musharraf has said. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2414 decoded_text: london
+idx:2 input_id:1010 decoded_text: ,
+idx:3 input_id:2563 decoded_text: england
+idx:4 input_id:1011 decoded_text: -
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:2149 decoded_text: us
+idx:8 input_id:1011 decoded_text: -
+idx:9 input_id:2419 decoded_text: led
+idx:10 input_id:6056 decoded_text: coalition
+idx:11 input_id:2442 decoded_text: must
+idx:12 input_id:3177 decoded_text: speed
+idx:13 input_id:2039 decoded_text: up
+idx:14 input_id:2049 decoded_text: its
+idx:15 input_id:22035 decoded_text: quo
+idx:16 input_id:2102 decoded_text: ##t
+idx:17 input_id:1025 decoded_text: ;
+idx:18 input_id:6164 decoded_text: exit
+idx:19 input_id:5656 decoded_text: strategy
+idx:20 input_id:22035 decoded_text: quo
+idx:21 input_id:2102 decoded_text: ##t
+idx:22 input_id:1025 decoded_text: ;
+idx:23 input_id:2013 decoded_text: from
+idx:24 input_id:5712 decoded_text: iraq
+idx:25 input_id:2011 decoded_text: by
+idx:26 input_id:29494 decoded_text: accelerating
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:2731 decoded_text: training
+idx:29 input_id:1997 decoded_text: of
+idx:30 input_id:2334 decoded_text: local
+idx:31 input_id:3036 decoded_text: security
+idx:32 input_id:2749 decoded_text: forces
+idx:33 input_id:1010 decoded_text: ,
+idx:34 input_id:9889 decoded_text: pakistani
+idx:35 input_id:2343 decoded_text: president
+idx:36 input_id:2566 decoded_text: per
+idx:37 input_id:26132 decoded_text: ##vez
+idx:38 input_id:14163 decoded_text: mu
+idx:39 input_id:7377 decoded_text: ##sha
+idx:40 input_id:11335 decoded_text: ##rra
+idx:41 input_id:2546 decoded_text: ##f
+idx:42 input_id:2038 decoded_text: has
+idx:43 input_id:2056 decoded_text: said
+idx:44 input_id:1012 decoded_text: .
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.204587936401367, -1.3457850217819214, -2.6857094764709473, -2.7224009037017822]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

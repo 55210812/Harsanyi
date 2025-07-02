@@ -1,0 +1,46 @@
+Execution time: 2025-07-02 17:34:08
+prompt: [CLS] new york ( reuters ) - record crude oil prices, a tidal wave of quarterly earnings reports and anxiety ahead of the presidential election may pin u. s. stocks down this week. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2047 decoded_text: new
+idx:2 input_id:2259 decoded_text: york
+idx:3 input_id:1006 decoded_text: (
+idx:4 input_id:26665 decoded_text: reuters
+idx:5 input_id:1007 decoded_text: )
+idx:6 input_id:1011 decoded_text: -
+idx:7 input_id:2501 decoded_text: record
+idx:8 input_id:13587 decoded_text: crude
+idx:9 input_id:3514 decoded_text: oil
+idx:10 input_id:7597 decoded_text: prices
+idx:11 input_id:1010 decoded_text: ,
+idx:12 input_id:1037 decoded_text: a
+idx:13 input_id:15065 decoded_text: tidal
+idx:14 input_id:4400 decoded_text: wave
+idx:15 input_id:1997 decoded_text: of
+idx:16 input_id:12174 decoded_text: quarterly
+idx:17 input_id:16565 decoded_text: earnings
+idx:18 input_id:4311 decoded_text: reports
+idx:19 input_id:1998 decoded_text: and
+idx:20 input_id:10089 decoded_text: anxiety
+idx:21 input_id:3805 decoded_text: ahead
+idx:22 input_id:1997 decoded_text: of
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:4883 decoded_text: presidential
+idx:25 input_id:2602 decoded_text: election
+idx:26 input_id:2089 decoded_text: may
+idx:27 input_id:9231 decoded_text: pin
+idx:28 input_id:1057 decoded_text: u
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:1055 decoded_text: s
+idx:31 input_id:1012 decoded_text: .
+idx:32 input_id:15768 decoded_text: stocks
+idx:33 input_id:2091 decoded_text: down
+idx:34 input_id:2023 decoded_text: this
+idx:35 input_id:2733 decoded_text: week
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.2542333602905273, -2.3488757610321045, 6.569583892822266, -2.806424140930176]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

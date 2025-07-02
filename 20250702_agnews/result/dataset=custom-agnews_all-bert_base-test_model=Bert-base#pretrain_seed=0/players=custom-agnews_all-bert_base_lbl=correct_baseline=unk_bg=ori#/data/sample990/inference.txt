@@ -1,0 +1,58 @@
+Execution time: 2025-07-02 17:59:47
+prompt: [CLS] boston ( reuters ) - david ortiz's two - run homer in the bottom of the 10th inning gave the boston red sox an 8 - 6 win over the anaheim angels and a three - game sweep of their american league divisional series friday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3731 decoded_text: boston
+idx:2 input_id:1006 decoded_text: (
+idx:3 input_id:26665 decoded_text: reuters
+idx:4 input_id:1007 decoded_text: )
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:2585 decoded_text: david
+idx:7 input_id:19439 decoded_text: ortiz
+idx:8 input_id:1005 decoded_text: '
+idx:9 input_id:1055 decoded_text: s
+idx:10 input_id:2048 decoded_text: two
+idx:11 input_id:1011 decoded_text: -
+idx:12 input_id:2448 decoded_text: run
+idx:13 input_id:11525 decoded_text: homer
+idx:14 input_id:1999 decoded_text: in
+idx:15 input_id:1996 decoded_text: the
+idx:16 input_id:3953 decoded_text: bottom
+idx:17 input_id:1997 decoded_text: of
+idx:18 input_id:1996 decoded_text: the
+idx:19 input_id:6049 decoded_text: 10th
+idx:20 input_id:12994 decoded_text: inning
+idx:21 input_id:2435 decoded_text: gave
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:3731 decoded_text: boston
+idx:24 input_id:2417 decoded_text: red
+idx:25 input_id:9175 decoded_text: sox
+idx:26 input_id:2019 decoded_text: an
+idx:27 input_id:1022 decoded_text: 8
+idx:28 input_id:1011 decoded_text: -
+idx:29 input_id:1020 decoded_text: 6
+idx:30 input_id:2663 decoded_text: win
+idx:31 input_id:2058 decoded_text: over
+idx:32 input_id:1996 decoded_text: the
+idx:33 input_id:20835 decoded_text: anaheim
+idx:34 input_id:7048 decoded_text: angels
+idx:35 input_id:1998 decoded_text: and
+idx:36 input_id:1037 decoded_text: a
+idx:37 input_id:2093 decoded_text: three
+idx:38 input_id:1011 decoded_text: -
+idx:39 input_id:2208 decoded_text: game
+idx:40 input_id:11740 decoded_text: sweep
+idx:41 input_id:1997 decoded_text: of
+idx:42 input_id:2037 decoded_text: their
+idx:43 input_id:2137 decoded_text: american
+idx:44 input_id:2223 decoded_text: league
+idx:45 input_id:14167 decoded_text: divisional
+idx:46 input_id:2186 decoded_text: series
+idx:47 input_id:5958 decoded_text: friday
+idx:48 input_id:1012 decoded_text: .
+idx:49 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.5790915489196777, 8.275185585021973, -2.7016167640686035, -1.587822437286377]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

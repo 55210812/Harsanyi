@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 17:23:12
+prompt: [CLS] ap - tom lehman has a love - hate relationship with the long putter that sometimes makes its way into his bag. lately, he's been finding a lot more to love about it than ever before. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:3419 decoded_text: tom
+idx:4 input_id:28444 decoded_text: lehman
+idx:5 input_id:2038 decoded_text: has
+idx:6 input_id:1037 decoded_text: a
+idx:7 input_id:2293 decoded_text: love
+idx:8 input_id:1011 decoded_text: -
+idx:9 input_id:5223 decoded_text: hate
+idx:10 input_id:3276 decoded_text: relationship
+idx:11 input_id:2007 decoded_text: with
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:2146 decoded_text: long
+idx:14 input_id:2404 decoded_text: put
+idx:15 input_id:3334 decoded_text: ##ter
+idx:16 input_id:2008 decoded_text: that
+idx:17 input_id:2823 decoded_text: sometimes
+idx:18 input_id:3084 decoded_text: makes
+idx:19 input_id:2049 decoded_text: its
+idx:20 input_id:2126 decoded_text: way
+idx:21 input_id:2046 decoded_text: into
+idx:22 input_id:2010 decoded_text: his
+idx:23 input_id:4524 decoded_text: bag
+idx:24 input_id:1012 decoded_text: .
+idx:25 input_id:9906 decoded_text: lately
+idx:26 input_id:1010 decoded_text: ,
+idx:27 input_id:2002 decoded_text: he
+idx:28 input_id:1005 decoded_text: '
+idx:29 input_id:1055 decoded_text: s
+idx:30 input_id:2042 decoded_text: been
+idx:31 input_id:4531 decoded_text: finding
+idx:32 input_id:1037 decoded_text: a
+idx:33 input_id:2843 decoded_text: lot
+idx:34 input_id:2062 decoded_text: more
+idx:35 input_id:2000 decoded_text: to
+idx:36 input_id:2293 decoded_text: love
+idx:37 input_id:2055 decoded_text: about
+idx:38 input_id:2009 decoded_text: it
+idx:39 input_id:2084 decoded_text: than
+idx:40 input_id:2412 decoded_text: ever
+idx:41 input_id:2077 decoded_text: before
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.511080026626587, 7.4435038566589355, -1.4696599245071411, -2.6045823097229004]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

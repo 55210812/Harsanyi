@@ -1,0 +1,51 @@
+Execution time: 2025-07-02 17:47:03
+prompt: [CLS] glaxosmithkline plc is in talks with the food and drug administration about selling its fluarix influenza vaccine in the united states this season because of the expected flu vaccine shortage this year. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1043 decoded_text: g
+idx:2 input_id:2721 decoded_text: ##la
+idx:3 input_id:2595 decoded_text: ##x
+idx:4 input_id:2891 decoded_text: ##os
+idx:5 input_id:19864 decoded_text: ##mith
+idx:6 input_id:2243 decoded_text: ##k
+idx:7 input_id:4179 decoded_text: ##line
+idx:8 input_id:15492 decoded_text: plc
+idx:9 input_id:2003 decoded_text: is
+idx:10 input_id:1999 decoded_text: in
+idx:11 input_id:7566 decoded_text: talks
+idx:12 input_id:2007 decoded_text: with
+idx:13 input_id:1996 decoded_text: the
+idx:14 input_id:2833 decoded_text: food
+idx:15 input_id:1998 decoded_text: and
+idx:16 input_id:4319 decoded_text: drug
+idx:17 input_id:3447 decoded_text: administration
+idx:18 input_id:2055 decoded_text: about
+idx:19 input_id:4855 decoded_text: selling
+idx:20 input_id:2049 decoded_text: its
+idx:21 input_id:19857 decoded_text: flu
+idx:22 input_id:8486 decoded_text: ##ari
+idx:23 input_id:2595 decoded_text: ##x
+idx:24 input_id:24442 decoded_text: influenza
+idx:25 input_id:17404 decoded_text: vaccine
+idx:26 input_id:1999 decoded_text: in
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:2142 decoded_text: united
+idx:29 input_id:2163 decoded_text: states
+idx:30 input_id:2023 decoded_text: this
+idx:31 input_id:2161 decoded_text: season
+idx:32 input_id:2138 decoded_text: because
+idx:33 input_id:1997 decoded_text: of
+idx:34 input_id:1996 decoded_text: the
+idx:35 input_id:3517 decoded_text: expected
+idx:36 input_id:19857 decoded_text: flu
+idx:37 input_id:17404 decoded_text: vaccine
+idx:38 input_id:15843 decoded_text: shortage
+idx:39 input_id:2023 decoded_text: this
+idx:40 input_id:2095 decoded_text: year
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.4267892837524414, -4.088082790374756, 6.177995204925537, -2.7628366947174072]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

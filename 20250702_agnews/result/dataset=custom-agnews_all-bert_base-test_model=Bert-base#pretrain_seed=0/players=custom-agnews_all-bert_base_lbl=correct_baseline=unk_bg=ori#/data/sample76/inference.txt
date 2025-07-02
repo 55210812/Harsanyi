@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 17:18:45
+prompt: [CLS] the battle between blu - ray and hd dvd to define the next generation dvd format shows no signs of cooling off. while electronics and computer companies such as sony, dell and hp back the blu - ray [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2645 decoded_text: battle
+idx:3 input_id:2090 decoded_text: between
+idx:4 input_id:14154 decoded_text: blu
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:4097 decoded_text: ray
+idx:7 input_id:1998 decoded_text: and
+idx:8 input_id:10751 decoded_text: hd
+idx:9 input_id:4966 decoded_text: dvd
+idx:10 input_id:2000 decoded_text: to
+idx:11 input_id:9375 decoded_text: define
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:2279 decoded_text: next
+idx:14 input_id:4245 decoded_text: generation
+idx:15 input_id:4966 decoded_text: dvd
+idx:16 input_id:4289 decoded_text: format
+idx:17 input_id:3065 decoded_text: shows
+idx:18 input_id:2053 decoded_text: no
+idx:19 input_id:5751 decoded_text: signs
+idx:20 input_id:1997 decoded_text: of
+idx:21 input_id:11520 decoded_text: cooling
+idx:22 input_id:2125 decoded_text: off
+idx:23 input_id:1012 decoded_text: .
+idx:24 input_id:2096 decoded_text: while
+idx:25 input_id:8139 decoded_text: electronics
+idx:26 input_id:1998 decoded_text: and
+idx:27 input_id:3274 decoded_text: computer
+idx:28 input_id:3316 decoded_text: companies
+idx:29 input_id:2107 decoded_text: such
+idx:30 input_id:2004 decoded_text: as
+idx:31 input_id:8412 decoded_text: sony
+idx:32 input_id:1010 decoded_text: ,
+idx:33 input_id:12418 decoded_text: dell
+idx:34 input_id:1998 decoded_text: and
+idx:35 input_id:6522 decoded_text: hp
+idx:36 input_id:2067 decoded_text: back
+idx:37 input_id:1996 decoded_text: the
+idx:38 input_id:14154 decoded_text: blu
+idx:39 input_id:1011 decoded_text: -
+idx:40 input_id:4097 decoded_text: ray
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.238616466522217, -3.2335760593414307, 0.5148219466209412, 6.564492225646973]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

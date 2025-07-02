@@ -1,0 +1,23 @@
+Execution time: 2025-07-02 17:19:47
+prompt: [CLS] upcoming gartner study on it spending for offshoring. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9046 decoded_text: upcoming
+idx:2 input_id:11721 decoded_text: ga
+idx:3 input_id:5339 decoded_text: ##rt
+idx:4 input_id:3678 decoded_text: ##ner
+idx:5 input_id:2817 decoded_text: study
+idx:6 input_id:2006 decoded_text: on
+idx:7 input_id:2009 decoded_text: it
+idx:8 input_id:5938 decoded_text: spending
+idx:9 input_id:2005 decoded_text: for
+idx:10 input_id:12446 decoded_text: offs
+idx:11 input_id:16368 decoded_text: ##hor
+idx:12 input_id:2075 decoded_text: ##ing
+idx:13 input_id:1012 decoded_text: .
+idx:14 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.170079231262207, -3.2469217777252197, -0.6945294737815857, 6.901632308959961]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

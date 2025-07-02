@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 17:52:50
+prompt: [CLS] : sudanese authorities accused an opposition party saturday of plotting to abduct and kill more than three dozen senior government officials and blow up key sites in the capital, where the army was out in force. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1024 decoded_text: :
+idx:2 input_id:25603 decoded_text: sudanese
+idx:3 input_id:4614 decoded_text: authorities
+idx:4 input_id:5496 decoded_text: accused
+idx:5 input_id:2019 decoded_text: an
+idx:6 input_id:4559 decoded_text: opposition
+idx:7 input_id:2283 decoded_text: party
+idx:8 input_id:5095 decoded_text: saturday
+idx:9 input_id:1997 decoded_text: of
+idx:10 input_id:20699 decoded_text: plotting
+idx:11 input_id:2000 decoded_text: to
+idx:12 input_id:19935 decoded_text: abd
+idx:13 input_id:14194 decoded_text: ##uc
+idx:14 input_id:2102 decoded_text: ##t
+idx:15 input_id:1998 decoded_text: and
+idx:16 input_id:3102 decoded_text: kill
+idx:17 input_id:2062 decoded_text: more
+idx:18 input_id:2084 decoded_text: than
+idx:19 input_id:2093 decoded_text: three
+idx:20 input_id:6474 decoded_text: dozen
+idx:21 input_id:3026 decoded_text: senior
+idx:22 input_id:2231 decoded_text: government
+idx:23 input_id:4584 decoded_text: officials
+idx:24 input_id:1998 decoded_text: and
+idx:25 input_id:6271 decoded_text: blow
+idx:26 input_id:2039 decoded_text: up
+idx:27 input_id:3145 decoded_text: key
+idx:28 input_id:4573 decoded_text: sites
+idx:29 input_id:1999 decoded_text: in
+idx:30 input_id:1996 decoded_text: the
+idx:31 input_id:3007 decoded_text: capital
+idx:32 input_id:1010 decoded_text: ,
+idx:33 input_id:2073 decoded_text: where
+idx:34 input_id:1996 decoded_text: the
+idx:35 input_id:2390 decoded_text: army
+idx:36 input_id:2001 decoded_text: was
+idx:37 input_id:2041 decoded_text: out
+idx:38 input_id:1999 decoded_text: in
+idx:39 input_id:2486 decoded_text: force
+idx:40 input_id:1012 decoded_text: .
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.132074356079102, -1.506687879562378, -2.7580370903015137, -2.4514529705047607]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

@@ -1,0 +1,37 @@
+Execution time: 2025-07-02 17:48:44
+prompt: [CLS] a mortar attack on an iraqi national guard headquarters north of baghdad killed at least four national guards and injured 80 others, officials said tuesday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:14335 decoded_text: mortar
+idx:3 input_id:2886 decoded_text: attack
+idx:4 input_id:2006 decoded_text: on
+idx:5 input_id:2019 decoded_text: an
+idx:6 input_id:8956 decoded_text: iraqi
+idx:7 input_id:2120 decoded_text: national
+idx:8 input_id:3457 decoded_text: guard
+idx:9 input_id:4075 decoded_text: headquarters
+idx:10 input_id:2167 decoded_text: north
+idx:11 input_id:1997 decoded_text: of
+idx:12 input_id:13952 decoded_text: baghdad
+idx:13 input_id:2730 decoded_text: killed
+idx:14 input_id:2012 decoded_text: at
+idx:15 input_id:2560 decoded_text: least
+idx:16 input_id:2176 decoded_text: four
+idx:17 input_id:2120 decoded_text: national
+idx:18 input_id:4932 decoded_text: guards
+idx:19 input_id:1998 decoded_text: and
+idx:20 input_id:5229 decoded_text: injured
+idx:21 input_id:3770 decoded_text: 80
+idx:22 input_id:2500 decoded_text: others
+idx:23 input_id:1010 decoded_text: ,
+idx:24 input_id:4584 decoded_text: officials
+idx:25 input_id:2056 decoded_text: said
+idx:26 input_id:9857 decoded_text: tuesday
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.810532569885254, -1.1334744691848755, -2.9738874435424805, -2.2742233276367188]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

@@ -1,0 +1,45 @@
+Execution time: 2025-07-02 17:19:23
+prompt: [CLS] the world # 39 ; s longest continually running experiment has revealed traces of plutonium in british soil from nuclear tests in the nevada desert 50 years ago, scientists said on monday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2088 decoded_text: world
+idx:3 input_id:1001 decoded_text: #
+idx:4 input_id:4464 decoded_text: 39
+idx:5 input_id:1025 decoded_text: ;
+idx:6 input_id:1055 decoded_text: s
+idx:7 input_id:6493 decoded_text: longest
+idx:8 input_id:14678 decoded_text: continually
+idx:9 input_id:2770 decoded_text: running
+idx:10 input_id:7551 decoded_text: experiment
+idx:11 input_id:2038 decoded_text: has
+idx:12 input_id:3936 decoded_text: revealed
+idx:13 input_id:10279 decoded_text: traces
+idx:14 input_id:1997 decoded_text: of
+idx:15 input_id:26930 decoded_text: pluto
+idx:16 input_id:14907 decoded_text: ##nium
+idx:17 input_id:1999 decoded_text: in
+idx:18 input_id:2329 decoded_text: british
+idx:19 input_id:5800 decoded_text: soil
+idx:20 input_id:2013 decoded_text: from
+idx:21 input_id:4517 decoded_text: nuclear
+idx:22 input_id:5852 decoded_text: tests
+idx:23 input_id:1999 decoded_text: in
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:7756 decoded_text: nevada
+idx:26 input_id:5532 decoded_text: desert
+idx:27 input_id:2753 decoded_text: 50
+idx:28 input_id:2086 decoded_text: years
+idx:29 input_id:3283 decoded_text: ago
+idx:30 input_id:1010 decoded_text: ,
+idx:31 input_id:6529 decoded_text: scientists
+idx:32 input_id:2056 decoded_text: said
+idx:33 input_id:2006 decoded_text: on
+idx:34 input_id:6928 decoded_text: monday
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[0.17730610072612762, -2.881254196166992, -3.026529312133789, 5.765318870544434]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

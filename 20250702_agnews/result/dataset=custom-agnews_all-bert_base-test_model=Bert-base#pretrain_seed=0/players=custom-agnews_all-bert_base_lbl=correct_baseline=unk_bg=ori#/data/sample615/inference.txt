@@ -1,0 +1,46 @@
+Execution time: 2025-07-02 17:44:55
+prompt: [CLS] president george w. bush, confronted by antiwar protesters in canada, defended his decision to invade iraq and said the us would always act against threats even if opposed by other nations. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2343 decoded_text: president
+idx:2 input_id:2577 decoded_text: george
+idx:3 input_id:1059 decoded_text: w
+idx:4 input_id:1012 decoded_text: .
+idx:5 input_id:5747 decoded_text: bush
+idx:6 input_id:1010 decoded_text: ,
+idx:7 input_id:12892 decoded_text: confronted
+idx:8 input_id:2011 decoded_text: by
+idx:9 input_id:3424 decoded_text: anti
+idx:10 input_id:9028 decoded_text: ##war
+idx:11 input_id:13337 decoded_text: protesters
+idx:12 input_id:1999 decoded_text: in
+idx:13 input_id:2710 decoded_text: canada
+idx:14 input_id:1010 decoded_text: ,
+idx:15 input_id:8047 decoded_text: defended
+idx:16 input_id:2010 decoded_text: his
+idx:17 input_id:3247 decoded_text: decision
+idx:18 input_id:2000 decoded_text: to
+idx:19 input_id:18445 decoded_text: invade
+idx:20 input_id:5712 decoded_text: iraq
+idx:21 input_id:1998 decoded_text: and
+idx:22 input_id:2056 decoded_text: said
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:2149 decoded_text: us
+idx:25 input_id:2052 decoded_text: would
+idx:26 input_id:2467 decoded_text: always
+idx:27 input_id:2552 decoded_text: act
+idx:28 input_id:2114 decoded_text: against
+idx:29 input_id:8767 decoded_text: threats
+idx:30 input_id:2130 decoded_text: even
+idx:31 input_id:2065 decoded_text: if
+idx:32 input_id:4941 decoded_text: opposed
+idx:33 input_id:2011 decoded_text: by
+idx:34 input_id:2060 decoded_text: other
+idx:35 input_id:3741 decoded_text: nations
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.718013286590576, -1.817429542541504, -1.8245244026184082, -2.930091619491577]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

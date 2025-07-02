@@ -1,0 +1,40 @@
+Execution time: 2025-07-02 17:25:03
+prompt: [CLS] david blunkett is being urged to bring forward plans to allow phone - tapping evidence in uk courts so trials of foreign terror suspects can go ahead. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2585 decoded_text: david
+idx:2 input_id:14154 decoded_text: blu
+idx:3 input_id:8950 decoded_text: ##nk
+idx:4 input_id:6582 decoded_text: ##ett
+idx:5 input_id:2003 decoded_text: is
+idx:6 input_id:2108 decoded_text: being
+idx:7 input_id:9720 decoded_text: urged
+idx:8 input_id:2000 decoded_text: to
+idx:9 input_id:3288 decoded_text: bring
+idx:10 input_id:2830 decoded_text: forward
+idx:11 input_id:3488 decoded_text: plans
+idx:12 input_id:2000 decoded_text: to
+idx:13 input_id:3499 decoded_text: allow
+idx:14 input_id:3042 decoded_text: phone
+idx:15 input_id:1011 decoded_text: -
+idx:16 input_id:15135 decoded_text: tapping
+idx:17 input_id:3350 decoded_text: evidence
+idx:18 input_id:1999 decoded_text: in
+idx:19 input_id:2866 decoded_text: uk
+idx:20 input_id:5434 decoded_text: courts
+idx:21 input_id:2061 decoded_text: so
+idx:22 input_id:7012 decoded_text: trials
+idx:23 input_id:1997 decoded_text: of
+idx:24 input_id:3097 decoded_text: foreign
+idx:25 input_id:7404 decoded_text: terror
+idx:26 input_id:13172 decoded_text: suspects
+idx:27 input_id:2064 decoded_text: can
+idx:28 input_id:2175 decoded_text: go
+idx:29 input_id:3805 decoded_text: ahead
+idx:30 input_id:1012 decoded_text: .
+idx:31 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.486472129821777, -2.8088066577911377, -3.050394058227539, -0.367640882730484]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

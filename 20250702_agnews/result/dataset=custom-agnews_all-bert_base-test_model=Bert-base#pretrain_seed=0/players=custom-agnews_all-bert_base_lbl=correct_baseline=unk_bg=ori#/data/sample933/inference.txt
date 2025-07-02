@@ -1,0 +1,42 @@
+Execution time: 2025-07-02 17:57:48
+prompt: [CLS] the average price of heating oil in massachusetts hit \ $ 1. 99 a gallon yesterday, the highest level for this time of year in at least a decade. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2779 decoded_text: average
+idx:3 input_id:3976 decoded_text: price
+idx:4 input_id:1997 decoded_text: of
+idx:5 input_id:10808 decoded_text: heating
+idx:6 input_id:3514 decoded_text: oil
+idx:7 input_id:1999 decoded_text: in
+idx:8 input_id:4404 decoded_text: massachusetts
+idx:9 input_id:2718 decoded_text: hit
+idx:10 input_id:1032 decoded_text: \
+idx:11 input_id:1002 decoded_text: $
+idx:12 input_id:1015 decoded_text: 1
+idx:13 input_id:1012 decoded_text: .
+idx:14 input_id:5585 decoded_text: 99
+idx:15 input_id:1037 decoded_text: a
+idx:16 input_id:25234 decoded_text: gallon
+idx:17 input_id:7483 decoded_text: yesterday
+idx:18 input_id:1010 decoded_text: ,
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:3284 decoded_text: highest
+idx:21 input_id:2504 decoded_text: level
+idx:22 input_id:2005 decoded_text: for
+idx:23 input_id:2023 decoded_text: this
+idx:24 input_id:2051 decoded_text: time
+idx:25 input_id:1997 decoded_text: of
+idx:26 input_id:2095 decoded_text: year
+idx:27 input_id:1999 decoded_text: in
+idx:28 input_id:2012 decoded_text: at
+idx:29 input_id:2560 decoded_text: least
+idx:30 input_id:1037 decoded_text: a
+idx:31 input_id:5476 decoded_text: decade
+idx:32 input_id:1012 decoded_text: .
+idx:33 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.3177878856658936, -2.1753957271575928, 6.278453350067139, -3.5033133029937744]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

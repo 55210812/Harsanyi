@@ -1,0 +1,46 @@
+Execution time: 2025-07-02 17:23:31
+prompt: [CLS] sun microsystems has acquired enterprise applications management company sevenspace, allowing its managed services arm to support hp - ux and ibm # 39 ; s aix systems for the first time. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3103 decoded_text: sun
+idx:2 input_id:12702 decoded_text: micro
+idx:3 input_id:29390 decoded_text: ##systems
+idx:4 input_id:2038 decoded_text: has
+idx:5 input_id:3734 decoded_text: acquired
+idx:6 input_id:6960 decoded_text: enterprise
+idx:7 input_id:5097 decoded_text: applications
+idx:8 input_id:2968 decoded_text: management
+idx:9 input_id:2194 decoded_text: company
+idx:10 input_id:19463 decoded_text: sevens
+idx:11 input_id:15327 decoded_text: ##pace
+idx:12 input_id:1010 decoded_text: ,
+idx:13 input_id:4352 decoded_text: allowing
+idx:14 input_id:2049 decoded_text: its
+idx:15 input_id:3266 decoded_text: managed
+idx:16 input_id:2578 decoded_text: services
+idx:17 input_id:2849 decoded_text: arm
+idx:18 input_id:2000 decoded_text: to
+idx:19 input_id:2490 decoded_text: support
+idx:20 input_id:6522 decoded_text: hp
+idx:21 input_id:1011 decoded_text: -
+idx:22 input_id:1057 decoded_text: u
+idx:23 input_id:2595 decoded_text: ##x
+idx:24 input_id:1998 decoded_text: and
+idx:25 input_id:9980 decoded_text: ibm
+idx:26 input_id:1001 decoded_text: #
+idx:27 input_id:4464 decoded_text: 39
+idx:28 input_id:1025 decoded_text: ;
+idx:29 input_id:1055 decoded_text: s
+idx:30 input_id:28443 decoded_text: aix
+idx:31 input_id:3001 decoded_text: systems
+idx:32 input_id:2005 decoded_text: for
+idx:33 input_id:1996 decoded_text: the
+idx:34 input_id:2034 decoded_text: first
+idx:35 input_id:2051 decoded_text: time
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.752737998962402, -3.0901825428009033, 0.9731992483139038, 6.410879135131836]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

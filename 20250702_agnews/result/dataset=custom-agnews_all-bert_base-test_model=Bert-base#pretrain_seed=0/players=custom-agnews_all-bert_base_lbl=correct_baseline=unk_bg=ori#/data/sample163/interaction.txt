@@ -1,0 +1,73 @@
+---------- Players ----------
+Player 0: pieces
+Player 1: fallen
+Player 2: place
+Player 3: perfectly
+Player 4: yankees.
+Player 5: orlando
+Player 6: hernndez,
+Player 7: perfect
+Player 8: 5 - 0
+Player 9: team,
+Player 10: also
+Player 11: good
+Player 12: enough
+Player 13: yankees
+---------- AND Interactions (Pairwise Only) ----------
+I(4 13): -14.253822326660156	 ([yankees.][yankees])
+I(4 9): -13.526962280273438	 ([yankees.][team,])
+I(9 13): -13.507049560546875	 ([team,][yankees])
+I(8 9): -10.14211654663086	 ([5 - 0][team,])
+I(8 13): -9.954429626464844	 ([5 - 0][yankees])
+I(4 8): -9.93287467956543	 ([yankees.][5 - 0])
+I(0 8): -5.7396745681762695	 ([pieces][5 - 0])
+I(4 5): -3.829488754272461	 ([yankees.][orlando])
+I(5 13): -3.7541630268096924	 ([orlando][yankees])
+I(5 9): -3.4945621490478516	 ([orlando][team,])
+I(1 13): -3.2612667083740234	 ([fallen][yankees])
+I(1 4): -3.242891311645508	 ([fallen][yankees.])
+I(1 9): -3.233661651611328	 ([fallen][team,])
+I(0 9): -3.212151527404785	 ([pieces][team,])
+I(5 8): -2.8346166610717773	 ([orlando][5 - 0])
+I(6 9): -2.1066665649414062	 ([hernndez,][team,])
+I(1 5): -1.9164776802062988	 ([fallen][orlando])
+I(1 8): -1.6762886047363281	 ([fallen][5 - 0])
+I(8 11): -1.6744661331176758	 ([5 - 0][good])
+I(6 8): -1.6443862915039062	 ([hernndez,][5 - 0])
+I(4 6): -1.5369148254394531	 ([yankees.][hernndez,])
+I(1 2): -1.4876134395599365	 ([fallen][place])
+I(6 13): -1.479644775390625	 ([hernndez,][yankees])
+I(0 13): -1.3822221755981445	 ([pieces][yankees])
+I(0 4): -1.3490324020385742	 ([pieces][yankees.])
+I(2 3): 1.254683256149292	 ([place][perfectly])
+I(0 2): -1.1075584888458252	 ([pieces][place])
+I(2 9): -1.0209617614746094	 ([place][team,])
+I(1 7): -1.0155577659606934	 ([fallen][perfect])
+I(7 9): 1.0036487579345703	 ([perfect][team,])
+I(0 1): -0.9029126167297363	 ([pieces][fallen])
+I(1 3): -0.8380987644195557	 ([fallen][perfectly])
+I(4 7): 0.7447147369384766	 ([yankees.][perfect])
+I(7 13): 0.7396183013916016	 ([perfect][yankees])
+I(3 4): 0.7244167327880859	 ([perfectly][yankees.])
+I(3 13): 0.6823806762695312	 ([perfectly][yankees])
+I(2 4): -0.6377906799316406	 ([place][yankees.])
+I(2 13): -0.6195893287658691	 ([place][yankees])
+I(0 3): 0.6186532974243164	 ([pieces][perfectly])
+I(6 11): -0.5974888801574707	 ([hernndez,][good])
+I(1 11): -0.5888240337371826	 ([fallen][good])
+I(7 8): -0.5868816375732422	 ([perfect][5 - 0])
+I(1 6): -0.57550048828125	 ([fallen][hernndez,])
+I(3 9): 0.5416355133056641	 ([perfectly][team,])
+I(0 6): -0.5383696556091309	 ([pieces][hernndez,])
+I(0 7): 0.5080609321594238	 ([pieces][perfect])
+I(3 8): -0.4992103576660156	 ([perfectly][5 - 0])
+I(5 6): 0.4979715347290039	 ([orlando][hernndez,])
+I(10 11): -0.49056434631347656	 ([also][good])
+I(3 7): 0.4846363067626953	 ([perfectly][perfect])
+I(1 10): -0.44850707054138184	 ([fallen][also])
+I(8 12): -0.4203662872314453	 ([5 - 0][enough])
+I(9 10): 0.39991188049316406	 ([team,][also])
+I(6 7): -0.3896341323852539	 ([hernndez,][perfect])
+I(9 11): -0.36081600189208984	 ([team,][good])
+Sum: -62.76807260513306
+==================================================

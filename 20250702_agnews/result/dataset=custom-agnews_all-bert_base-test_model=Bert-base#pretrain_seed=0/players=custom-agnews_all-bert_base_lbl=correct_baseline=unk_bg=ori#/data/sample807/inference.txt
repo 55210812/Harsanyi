@@ -1,0 +1,29 @@
+Execution time: 2025-07-02 17:52:32
+prompt: [CLS] uk gas explorer and producer bg group doubles to 80 its interest in an offshore egyptian project. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2866 decoded_text: uk
+idx:2 input_id:3806 decoded_text: gas
+idx:3 input_id:10566 decoded_text: explorer
+idx:4 input_id:1998 decoded_text: and
+idx:5 input_id:3135 decoded_text: producer
+idx:6 input_id:1038 decoded_text: b
+idx:7 input_id:2290 decoded_text: ##g
+idx:8 input_id:2177 decoded_text: group
+idx:9 input_id:7695 decoded_text: doubles
+idx:10 input_id:2000 decoded_text: to
+idx:11 input_id:3770 decoded_text: 80
+idx:12 input_id:2049 decoded_text: its
+idx:13 input_id:3037 decoded_text: interest
+idx:14 input_id:1999 decoded_text: in
+idx:15 input_id:2019 decoded_text: an
+idx:16 input_id:12195 decoded_text: offshore
+idx:17 input_id:6811 decoded_text: egyptian
+idx:18 input_id:2622 decoded_text: project
+idx:19 input_id:1012 decoded_text: .
+idx:20 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[1.0648677349090576, -3.9452528953552246, 4.854071140289307, -3.545020341873169]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

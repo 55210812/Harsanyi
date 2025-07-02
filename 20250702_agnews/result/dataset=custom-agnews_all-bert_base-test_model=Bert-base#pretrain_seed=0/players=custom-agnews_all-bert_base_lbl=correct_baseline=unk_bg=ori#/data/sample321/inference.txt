@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 17:30:09
+prompt: [CLS] reuters - u. s. industrial output advanced in \ july, as american factories operated at their highest capacity \ in more than three years, a federal reserve report on tuesday \ showed. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26665 decoded_text: reuters
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:1057 decoded_text: u
+idx:4 input_id:1012 decoded_text: .
+idx:5 input_id:1055 decoded_text: s
+idx:6 input_id:1012 decoded_text: .
+idx:7 input_id:3919 decoded_text: industrial
+idx:8 input_id:6434 decoded_text: output
+idx:9 input_id:3935 decoded_text: advanced
+idx:10 input_id:1999 decoded_text: in
+idx:11 input_id:1032 decoded_text: \
+idx:12 input_id:2251 decoded_text: july
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:2004 decoded_text: as
+idx:15 input_id:2137 decoded_text: american
+idx:16 input_id:11123 decoded_text: factories
+idx:17 input_id:3498 decoded_text: operated
+idx:18 input_id:2012 decoded_text: at
+idx:19 input_id:2037 decoded_text: their
+idx:20 input_id:3284 decoded_text: highest
+idx:21 input_id:3977 decoded_text: capacity
+idx:22 input_id:1032 decoded_text: \
+idx:23 input_id:1999 decoded_text: in
+idx:24 input_id:2062 decoded_text: more
+idx:25 input_id:2084 decoded_text: than
+idx:26 input_id:2093 decoded_text: three
+idx:27 input_id:2086 decoded_text: years
+idx:28 input_id:1010 decoded_text: ,
+idx:29 input_id:1037 decoded_text: a
+idx:30 input_id:2976 decoded_text: federal
+idx:31 input_id:3914 decoded_text: reserve
+idx:32 input_id:3189 decoded_text: report
+idx:33 input_id:2006 decoded_text: on
+idx:34 input_id:9857 decoded_text: tuesday
+idx:35 input_id:1032 decoded_text: \
+idx:36 input_id:3662 decoded_text: showed
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.729567050933838, -4.0586957931518555, 6.537318229675293, -2.907585859298706]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

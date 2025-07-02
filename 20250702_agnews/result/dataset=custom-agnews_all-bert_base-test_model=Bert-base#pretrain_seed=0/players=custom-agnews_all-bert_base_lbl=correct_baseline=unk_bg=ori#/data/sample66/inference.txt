@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 17:18:24
+prompt: [CLS] reports that the british grand prix has been dumped from next year # 39 ; s formula 1 world championship are a little premature, although that # 39 ; s not to say it won # 39 ; t happen. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4311 decoded_text: reports
+idx:2 input_id:2008 decoded_text: that
+idx:3 input_id:1996 decoded_text: the
+idx:4 input_id:2329 decoded_text: british
+idx:5 input_id:2882 decoded_text: grand
+idx:6 input_id:5431 decoded_text: prix
+idx:7 input_id:2038 decoded_text: has
+idx:8 input_id:2042 decoded_text: been
+idx:9 input_id:14019 decoded_text: dumped
+idx:10 input_id:2013 decoded_text: from
+idx:11 input_id:2279 decoded_text: next
+idx:12 input_id:2095 decoded_text: year
+idx:13 input_id:1001 decoded_text: #
+idx:14 input_id:4464 decoded_text: 39
+idx:15 input_id:1025 decoded_text: ;
+idx:16 input_id:1055 decoded_text: s
+idx:17 input_id:5675 decoded_text: formula
+idx:18 input_id:1015 decoded_text: 1
+idx:19 input_id:2088 decoded_text: world
+idx:20 input_id:2528 decoded_text: championship
+idx:21 input_id:2024 decoded_text: are
+idx:22 input_id:1037 decoded_text: a
+idx:23 input_id:2210 decoded_text: little
+idx:24 input_id:21371 decoded_text: premature
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:2348 decoded_text: although
+idx:27 input_id:2008 decoded_text: that
+idx:28 input_id:1001 decoded_text: #
+idx:29 input_id:4464 decoded_text: 39
+idx:30 input_id:1025 decoded_text: ;
+idx:31 input_id:1055 decoded_text: s
+idx:32 input_id:2025 decoded_text: not
+idx:33 input_id:2000 decoded_text: to
+idx:34 input_id:2360 decoded_text: say
+idx:35 input_id:2009 decoded_text: it
+idx:36 input_id:2180 decoded_text: won
+idx:37 input_id:1001 decoded_text: #
+idx:38 input_id:4464 decoded_text: 39
+idx:39 input_id:1025 decoded_text: ;
+idx:40 input_id:1056 decoded_text: t
+idx:41 input_id:4148 decoded_text: happen
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.330390214920044, 8.323113441467285, -2.598738193511963, -2.1091413497924805]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

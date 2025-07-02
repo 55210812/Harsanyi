@@ -1,0 +1,65 @@
+---------- Players ----------
+Player 0: belarusian
+Player 1: president
+Player 2: alexander
+Player 3: lukashenko
+Player 4: ask
+Player 5: voters
+Player 6: allow
+Player 7: stand
+Player 8: third
+Player 9: term
+Player 10: 2006.
+---------- AND Interactions (Pairwise Only) ----------
+I(1 5): -6.416593551635742	 ([president][voters])
+I(8 9): 6.03033447265625	 ([third][term])
+I(0 3): -5.810155868530273	 ([belarusian][lukashenko])
+I(3 9): 4.913493633270264	 ([lukashenko][term])
+I(3 10): -4.206471920013428	 ([lukashenko][2006.])
+I(6 7): 3.9699501991271973	 ([allow][stand])
+I(1 10): -3.5019373893737793	 ([president][2006.])
+I(9 10): 3.4632983207702637	 ([term][2006.])
+I(0 5): -3.4107446670532227	 ([belarusian][voters])
+I(3 8): -3.301351547241211	 ([lukashenko][third])
+I(1 3): -2.9452152252197266	 ([president][lukashenko])
+I(8 10): -2.891240119934082	 ([third][2006.])
+I(0 1): -2.8792037963867188	 ([belarusian][president])
+I(4 5): 2.835041046142578	 ([ask][voters])
+I(6 9): 2.807217597961426	 ([allow][term])
+I(7 10): -2.5755834579467773	 ([stand][2006.])
+I(5 9): 2.472839832305908	 ([voters][term])
+I(2 3): -2.4660449028015137	 ([alexander][lukashenko])
+I(1 8): -2.403903007507324	 ([president][third])
+I(2 10): -2.3794546127319336	 ([alexander][2006.])
+I(3 7): -2.352902412414551	 ([lukashenko][stand])
+I(1 9): 2.3068971633911133	 ([president][term])
+I(4 10): 2.216391086578369	 ([ask][2006.])
+I(5 10): -2.110286235809326	 ([voters][2006.])
+I(4 9): 2.025981903076172	 ([ask][term])
+I(1 2): -2.0070056915283203	 ([president][alexander])
+I(3 4): 1.8363947868347168	 ([lukashenko][ask])
+I(3 5): -1.8261070251464844	 ([lukashenko][voters])
+I(4 7): 1.8258147239685059	 ([ask][stand])
+I(0 7): -1.7950658798217773	 ([belarusian][stand])
+I(6 10): 1.7753958702087402	 ([allow][2006.])
+I(0 8): -1.7131314277648926	 ([belarusian][third])
+I(7 8): -1.650235652923584	 ([stand][third])
+I(7 9): 1.5946309566497803	 ([stand][term])
+I(2 8): -1.5923643112182617	 ([alexander][third])
+I(1 7): -1.5811748504638672	 ([president][stand])
+I(3 6): -1.5033807754516602	 ([lukashenko][allow])
+I(4 6): 1.4736199378967285	 ([ask][allow])
+I(5 6): -1.239797592163086	 ([voters][allow])
+I(0 10): -1.2081141471862793	 ([belarusian][2006.])
+I(5 7): -1.0314464569091797	 ([voters][stand])
+I(0 9): 1.0090222358703613	 ([belarusian][term])
+I(0 2): -0.901740550994873	 ([belarusian][alexander])
+I(2 5): -0.8435792922973633	 ([alexander][voters])
+I(1 4): 0.7760372161865234	 ([president][ask])
+I(5 8): -0.7480216026306152	 ([voters][third])
+I(0 4): -0.6104345321655273	 ([belarusian][ask])
+I(2 4): -0.5330162048339844	 ([alexander][ask])
+I(2 7): -0.48296356201171875	 ([alexander][stand])
+I(6 8): -0.3101933002471924	 ([allow][third])
+Sum: 13.984719276428223
+==================================================

@@ -1,0 +1,59 @@
+---------- Players ----------
+Player 0: 3 )
+Player 1: rain
+Player 2: may
+Player 3: postpone
+Player 4: game
+Player 5: 6.
+Player 6: sox
+Player 7: still
+Player 8: chance
+Player 9: rain
+Player 10: breaks
+Player 11: momentum?
+Player 12: yes,
+Player 13: day
+Player 14: rest
+Player 15: would
+Player 16: help
+Player 17: sox,
+Player 18: too.
+---------- AND Interactions (Pairwise Only) ----------
+I(6 17): -16.458885192871094	 ([sox][sox,])
+I(8 17): -3.8540802001953125	 ([chance][sox,])
+I(6 8): -3.7807998657226562	 ([sox][chance])
+I(8 9): -3.7426605224609375	 ([chance][rain])
+I(8 11): -3.5657596588134766	 ([chance][momentum?])
+I(4 6): -2.9967947006225586	 ([game][sox])
+I(4 17): -2.9367189407348633	 ([game][sox,])
+I(4 5): 2.5874271392822266	 ([game][6.])
+I(8 10): -2.0951638221740723	 ([chance][breaks])
+I(4 8): -1.9359378814697266	 ([game][chance])
+I(3 4): 1.6788010597229004	 ([postpone][game])
+I(8 16): -1.3283653259277344	 ([chance][help])
+I(8 15): -1.2539880275726318	 ([chance][would])
+I(9 11): -1.1683173179626465	 ([rain][momentum?])
+I(4 7): -0.9729094505310059	 ([game][still])
+I(1 9): -0.9254703521728516	 ([rain][rain])
+I(3 13): 0.9173526763916016	 ([postpone][day])
+I(6 11): -0.828216552734375	 ([sox][momentum?])
+I(3 11): -0.7197628021240234	 ([postpone][momentum?])
+I(11 15): -0.7071800231933594	 ([momentum?][would])
+I(3 9): -0.6654348373413086	 ([postpone][rain])
+I(11 17): -0.6252946853637695	 ([momentum?][sox,])
+I(0 4): 0.5486059188842773	 ([3 )][game])
+I(13 14): 0.5296950340270996	 ([day][rest])
+I(12 16): -0.527745246887207	 ([yes,][help])
+I(11 12): -0.5217456817626953	 ([momentum?][yes,])
+I(11 14): -0.4974355697631836	 ([momentum?][rest])
+I(12 15): -0.4964938163757324	 ([yes,][would])
+I(8 14): -0.4643702507019043	 ([chance][rest])
+I(14 16): -0.45389699935913086	 ([rest][help])
+I(4 14): -0.44200992584228516	 ([game][rest])
+I(15 17): -0.4357461929321289	 ([would][sox,])
+I(15 16): -0.43540000915527344	 ([would][help])
+I(1 13): -0.42360973358154297	 ([rain][day])
+I(4 18): -0.4230537414550781	 ([game][too.])
+I(6 14): -0.4129171371459961	 ([sox][rest])
+Sum: -11.214083433151245
+==================================================

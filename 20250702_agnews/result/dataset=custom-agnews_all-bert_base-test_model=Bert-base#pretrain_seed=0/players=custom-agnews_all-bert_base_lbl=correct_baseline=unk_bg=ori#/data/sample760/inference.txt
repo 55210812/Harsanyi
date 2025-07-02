@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 17:50:45
+prompt: [CLS] ibmhas successfully demonstrated a new technique for improving transistor performance that will help the company build smaller, more powerful chips in the next decade, company researchers said monday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9980 decoded_text: ibm
+idx:2 input_id:14949 decoded_text: ##has
+idx:3 input_id:5147 decoded_text: successfully
+idx:4 input_id:7645 decoded_text: demonstrated
+idx:5 input_id:1037 decoded_text: a
+idx:6 input_id:2047 decoded_text: new
+idx:7 input_id:6028 decoded_text: technique
+idx:8 input_id:2005 decoded_text: for
+idx:9 input_id:9229 decoded_text: improving
+idx:10 input_id:9099 decoded_text: trans
+idx:11 input_id:20483 decoded_text: ##isto
+idx:12 input_id:2099 decoded_text: ##r
+idx:13 input_id:2836 decoded_text: performance
+idx:14 input_id:2008 decoded_text: that
+idx:15 input_id:2097 decoded_text: will
+idx:16 input_id:2393 decoded_text: help
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:2194 decoded_text: company
+idx:19 input_id:3857 decoded_text: build
+idx:20 input_id:3760 decoded_text: smaller
+idx:21 input_id:1010 decoded_text: ,
+idx:22 input_id:2062 decoded_text: more
+idx:23 input_id:3928 decoded_text: powerful
+idx:24 input_id:11772 decoded_text: chips
+idx:25 input_id:1999 decoded_text: in
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:2279 decoded_text: next
+idx:28 input_id:5476 decoded_text: decade
+idx:29 input_id:1010 decoded_text: ,
+idx:30 input_id:2194 decoded_text: company
+idx:31 input_id:6950 decoded_text: researchers
+idx:32 input_id:2056 decoded_text: said
+idx:33 input_id:6928 decoded_text: monday
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.2711570262908936, -3.360971689224243, -0.6767770051956177, 6.907456398010254]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

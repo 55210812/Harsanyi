@@ -1,0 +1,64 @@
+Execution time: 2025-07-02 17:54:29
+prompt: [CLS] new delhi : the cabinet committee on economic affairs ( ccea ) may consider slashing customs duty on petrol and diesel from 15 per cent to 10 per cent besides exempting kerosene and lpg from excise levy as part of efforts to spare consumers from the impact [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2047 decoded_text: new
+idx:2 input_id:6768 decoded_text: delhi
+idx:3 input_id:1024 decoded_text: :
+idx:4 input_id:1996 decoded_text: the
+idx:5 input_id:5239 decoded_text: cabinet
+idx:6 input_id:2837 decoded_text: committee
+idx:7 input_id:2006 decoded_text: on
+idx:8 input_id:3171 decoded_text: economic
+idx:9 input_id:3821 decoded_text: affairs
+idx:10 input_id:1006 decoded_text: (
+idx:11 input_id:10507 decoded_text: cc
+idx:12 input_id:5243 decoded_text: ##ea
+idx:13 input_id:1007 decoded_text: )
+idx:14 input_id:2089 decoded_text: may
+idx:15 input_id:5136 decoded_text: consider
+idx:16 input_id:18296 decoded_text: slash
+idx:17 input_id:2075 decoded_text: ##ing
+idx:18 input_id:8205 decoded_text: customs
+idx:19 input_id:4611 decoded_text: duty
+idx:20 input_id:2006 decoded_text: on
+idx:21 input_id:17141 decoded_text: petrol
+idx:22 input_id:1998 decoded_text: and
+idx:23 input_id:7937 decoded_text: diesel
+idx:24 input_id:2013 decoded_text: from
+idx:25 input_id:2321 decoded_text: 15
+idx:26 input_id:2566 decoded_text: per
+idx:27 input_id:9358 decoded_text: cent
+idx:28 input_id:2000 decoded_text: to
+idx:29 input_id:2184 decoded_text: 10
+idx:30 input_id:2566 decoded_text: per
+idx:31 input_id:9358 decoded_text: cent
+idx:32 input_id:4661 decoded_text: besides
+idx:33 input_id:11819 decoded_text: exempt
+idx:34 input_id:2075 decoded_text: ##ing
+idx:35 input_id:17710 decoded_text: ke
+idx:36 input_id:13278 decoded_text: ##rose
+idx:37 input_id:2638 decoded_text: ##ne
+idx:38 input_id:1998 decoded_text: and
+idx:39 input_id:6948 decoded_text: lp
+idx:40 input_id:2290 decoded_text: ##g
+idx:41 input_id:2013 decoded_text: from
+idx:42 input_id:4654 decoded_text: ex
+idx:43 input_id:18380 decoded_text: ##cise
+idx:44 input_id:12767 decoded_text: levy
+idx:45 input_id:2004 decoded_text: as
+idx:46 input_id:2112 decoded_text: part
+idx:47 input_id:1997 decoded_text: of
+idx:48 input_id:4073 decoded_text: efforts
+idx:49 input_id:2000 decoded_text: to
+idx:50 input_id:8622 decoded_text: spare
+idx:51 input_id:10390 decoded_text: consumers
+idx:52 input_id:2013 decoded_text: from
+idx:53 input_id:1996 decoded_text: the
+idx:54 input_id:4254 decoded_text: impact
+idx:55 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.0964025259017944, -3.4511168003082275, 6.2479472160339355, -3.4944169521331787]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

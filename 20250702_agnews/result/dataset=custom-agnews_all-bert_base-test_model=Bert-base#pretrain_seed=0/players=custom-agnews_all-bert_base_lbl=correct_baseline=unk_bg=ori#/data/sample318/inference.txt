@@ -1,0 +1,45 @@
+Execution time: 2025-07-02 17:29:53
+prompt: [CLS] alitalia, the italian government - run airline, plans to lay off about 5, 000 of its 21, 000 employees in a move to avoid filing for bankruptcy protection. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4862 decoded_text: ali
+idx:2 input_id:9080 decoded_text: ##tal
+idx:3 input_id:2401 decoded_text: ##ia
+idx:4 input_id:1010 decoded_text: ,
+idx:5 input_id:1996 decoded_text: the
+idx:6 input_id:3059 decoded_text: italian
+idx:7 input_id:2231 decoded_text: government
+idx:8 input_id:1011 decoded_text: -
+idx:9 input_id:2448 decoded_text: run
+idx:10 input_id:8582 decoded_text: airline
+idx:11 input_id:1010 decoded_text: ,
+idx:12 input_id:3488 decoded_text: plans
+idx:13 input_id:2000 decoded_text: to
+idx:14 input_id:3913 decoded_text: lay
+idx:15 input_id:2125 decoded_text: off
+idx:16 input_id:2055 decoded_text: about
+idx:17 input_id:1019 decoded_text: 5
+idx:18 input_id:1010 decoded_text: ,
+idx:19 input_id:2199 decoded_text: 000
+idx:20 input_id:1997 decoded_text: of
+idx:21 input_id:2049 decoded_text: its
+idx:22 input_id:2538 decoded_text: 21
+idx:23 input_id:1010 decoded_text: ,
+idx:24 input_id:2199 decoded_text: 000
+idx:25 input_id:5126 decoded_text: employees
+idx:26 input_id:1999 decoded_text: in
+idx:27 input_id:1037 decoded_text: a
+idx:28 input_id:2693 decoded_text: move
+idx:29 input_id:2000 decoded_text: to
+idx:30 input_id:4468 decoded_text: avoid
+idx:31 input_id:15242 decoded_text: filing
+idx:32 input_id:2005 decoded_text: for
+idx:33 input_id:10528 decoded_text: bankruptcy
+idx:34 input_id:3860 decoded_text: protection
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-0.8070698380470276, -3.254261016845703, 5.345569610595703, -3.12170672416687]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

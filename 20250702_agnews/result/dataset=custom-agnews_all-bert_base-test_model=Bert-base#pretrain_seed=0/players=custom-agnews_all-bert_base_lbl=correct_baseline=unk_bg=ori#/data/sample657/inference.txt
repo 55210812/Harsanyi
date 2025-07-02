@@ -1,0 +1,38 @@
+Execution time: 2025-07-02 17:46:13
+prompt: [CLS] why trawl through a sweaty illegal \ wildlife market in asia when you can shop for rare animals and \ exotic plants on the internet? [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2339 decoded_text: why
+idx:2 input_id:19817 decoded_text: tr
+idx:3 input_id:10376 decoded_text: ##aw
+idx:4 input_id:2140 decoded_text: ##l
+idx:5 input_id:2083 decoded_text: through
+idx:6 input_id:1037 decoded_text: a
+idx:7 input_id:19889 decoded_text: sweaty
+idx:8 input_id:6206 decoded_text: illegal
+idx:9 input_id:1032 decoded_text: \
+idx:10 input_id:6870 decoded_text: wildlife
+idx:11 input_id:3006 decoded_text: market
+idx:12 input_id:1999 decoded_text: in
+idx:13 input_id:4021 decoded_text: asia
+idx:14 input_id:2043 decoded_text: when
+idx:15 input_id:2017 decoded_text: you
+idx:16 input_id:2064 decoded_text: can
+idx:17 input_id:4497 decoded_text: shop
+idx:18 input_id:2005 decoded_text: for
+idx:19 input_id:4678 decoded_text: rare
+idx:20 input_id:4176 decoded_text: animals
+idx:21 input_id:1998 decoded_text: and
+idx:22 input_id:1032 decoded_text: \
+idx:23 input_id:12564 decoded_text: exotic
+idx:24 input_id:4264 decoded_text: plants
+idx:25 input_id:2006 decoded_text: on
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:4274 decoded_text: internet
+idx:28 input_id:1029 decoded_text: ?
+idx:29 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[0.7575932145118713, -3.2915327548980713, -3.3256888389587402, 5.772365570068359]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

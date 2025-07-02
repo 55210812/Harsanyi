@@ -1,0 +1,32 @@
+Execution time: 2025-07-02 17:52:30
+prompt: [CLS] chip giant says it will move to new design by next year, but leaves many questions unanswered. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9090 decoded_text: chip
+idx:2 input_id:5016 decoded_text: giant
+idx:3 input_id:2758 decoded_text: says
+idx:4 input_id:2009 decoded_text: it
+idx:5 input_id:2097 decoded_text: will
+idx:6 input_id:2693 decoded_text: move
+idx:7 input_id:2000 decoded_text: to
+idx:8 input_id:2047 decoded_text: new
+idx:9 input_id:2640 decoded_text: design
+idx:10 input_id:2011 decoded_text: by
+idx:11 input_id:2279 decoded_text: next
+idx:12 input_id:2095 decoded_text: year
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:2021 decoded_text: but
+idx:15 input_id:3727 decoded_text: leaves
+idx:16 input_id:2116 decoded_text: many
+idx:17 input_id:3980 decoded_text: questions
+idx:18 input_id:14477 decoded_text: una
+idx:19 input_id:3619 decoded_text: ##ns
+idx:20 input_id:13777 decoded_text: ##wer
+idx:21 input_id:2098 decoded_text: ##ed
+idx:22 input_id:1012 decoded_text: .
+idx:23 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-2.5157127380371094, -3.9497339725494385, -0.5177338123321533, 6.366677284240723]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

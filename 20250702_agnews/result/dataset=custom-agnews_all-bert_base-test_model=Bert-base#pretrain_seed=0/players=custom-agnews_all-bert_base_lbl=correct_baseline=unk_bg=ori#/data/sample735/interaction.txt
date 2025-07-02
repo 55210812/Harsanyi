@@ -1,0 +1,95 @@
+---------- Players ----------
+Player 0: fatal
+Player 1: traffic
+Player 2: accidents
+Player 3: increase
+Player 4: sharply
+Player 5: israel
+Player 6: third
+Player 7: day
+Player 8: terrorist
+Player 9: attack,
+Player 10: researchers
+Player 11: searching
+Player 12: explanation
+Player 13: why.
+---------- AND Interactions (Pairwise Only) ----------
+I(1 4): -4.475860595703125	 ([traffic][sharply])
+I(5 7): -4.308718204498291	 ([israel][day])
+I(4 5): -3.343947410583496	 ([sharply][israel])
+I(5 9): -3.111818790435791	 ([israel][attack,])
+I(1 9): 3.073742628097534	 ([traffic][attack,])
+I(3 4): 2.785737991333008	 ([increase][sharply])
+I(2 3): 2.6831212043762207	 ([accidents][increase])
+I(3 12): 2.563215732574463	 ([increase][explanation])
+I(1 2): 2.4981157779693604	 ([traffic][accidents])
+I(12 13): -2.472003936767578	 ([explanation][why.])
+I(1 10): 2.313136339187622	 ([traffic][researchers])
+I(3 8): 2.308675765991211	 ([increase][terrorist])
+I(8 11): -2.3072099685668945	 ([terrorist][searching])
+I(1 12): 2.1919047832489014	 ([traffic][explanation])
+I(3 10): 2.1523966789245605	 ([increase][researchers])
+I(5 8): 2.0868911743164062	 ([israel][terrorist])
+I(1 8): 2.0653905868530273	 ([traffic][terrorist])
+I(3 9): 2.0445146560668945	 ([increase][attack,])
+I(5 11): -1.9004244804382324	 ([israel][searching])
+I(4 7): -1.8972396850585938	 ([sharply][day])
+I(5 10): 1.8829021453857422	 ([israel][researchers])
+I(10 12): -1.8667278289794922	 ([researchers][explanation])
+I(2 5): -1.8252878189086914	 ([accidents][israel])
+I(3 7): -1.6724605560302734	 ([increase][day])
+I(1 3): -1.6667060852050781	 ([traffic][increase])
+I(1 7): -1.6305758953094482	 ([traffic][day])
+I(8 9): 1.581606149673462	 ([terrorist][attack,])
+I(5 12): 1.5448544025421143	 ([israel][explanation])
+I(4 10): 1.4256415367126465	 ([sharply][researchers])
+I(2 12): -1.2429099082946777	 ([accidents][explanation])
+I(4 11): -1.218691349029541	 ([sharply][searching])
+I(1 6): -1.0315473079681396	 ([traffic][third])
+I(2 10): -1.0116324424743652	 ([accidents][researchers])
+I(0 10): -0.9898061752319336	 ([fatal][researchers])
+I(0 7): -0.9408860206604004	 ([fatal][day])
+I(11 12): -0.9251255989074707	 ([searching][explanation])
+I(10 11): -0.8597168922424316	 ([researchers][searching])
+I(8 12): 0.8331542015075684	 ([terrorist][explanation])
+I(0 8): -0.8233447074890137	 ([fatal][terrorist])
+I(3 5): -0.7642707824707031	 ([increase][israel])
+I(7 9): 0.7605552673339844	 ([day][attack,])
+I(7 10): 0.7572245597839355	 ([day][researchers])
+I(2 11): -0.7390189170837402	 ([accidents][searching])
+I(0 3): 0.7347874641418457	 ([fatal][increase])
+I(9 13): 0.7280735969543457	 ([attack,][why.])
+I(4 13): -0.7128877639770508	 ([sharply][why.])
+I(6 10): 0.6509718894958496	 ([third][researchers])
+I(6 8): 0.632728099822998	 ([third][terrorist])
+I(4 12): 0.5350360870361328	 ([sharply][explanation])
+I(7 8): -0.531949520111084	 ([day][terrorist])
+I(0 4): 0.4719858169555664	 ([fatal][sharply])
+I(0 12): -0.4632720947265625	 ([fatal][explanation])
+I(0 6): 0.393674373626709	 ([fatal][third])
+I(1 5): 0.3902549743652344	 ([traffic][israel])
+I(9 12): -0.38590383529663086	 ([attack,][explanation])
+I(4 9): 0.3799405097961426	 ([sharply][attack,])
+I(3 13): -0.3738563060760498	 ([increase][why.])
+I(0 5): -0.3652963638305664	 ([fatal][israel])
+I(2 4): 0.3642864227294922	 ([accidents][sharply])
+I(2 9): -0.3602890968322754	 ([accidents][attack,])
+I(10 13): -0.3549160957336426	 ([researchers][why.])
+I(0 9): 0.3515305519104004	 ([fatal][attack,])
+I(1 13): 0.3455202579498291	 ([traffic][why.])
+I(2 7): 0.33080577850341797	 ([accidents][day])
+I(5 13): 0.3207378387451172	 ([israel][why.])
+I(6 12): 0.30681705474853516	 ([third][explanation])
+I(3 11): 0.29235029220581055	 ([increase][searching])
+I(11 13): -0.2641730308532715	 ([searching][why.])
+I(4 6): 0.25652098655700684	 ([sharply][third])
+I(0 13): -0.25638723373413086	 ([fatal][why.])
+I(0 1): 0.21937060356140137	 ([fatal][traffic])
+I(9 11): 0.21501874923706055	 ([attack,][searching])
+I(6 11): -0.20710372924804688	 ([third][searching])
+I(7 11): 0.20253896713256836	 ([day][searching])
+I(7 12): 0.2000565528869629	 ([day][explanation])
+I(2 6): 0.1888742446899414	 ([accidents][third])
+I(8 10): 0.18202686309814453	 ([terrorist][researchers])
+Sum: -13.248514890670776
+==================================================

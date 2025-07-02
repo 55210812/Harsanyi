@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 17:30:52
+prompt: [CLS] most consumers have no firewall protection, their antivirus software is outdated, and dozens of spyware programs secretly run on their computers, america online and the national cyber security alliance found. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2087 decoded_text: most
+idx:2 input_id:10390 decoded_text: consumers
+idx:3 input_id:2031 decoded_text: have
+idx:4 input_id:2053 decoded_text: no
+idx:5 input_id:2543 decoded_text: fire
+idx:6 input_id:9628 decoded_text: ##wall
+idx:7 input_id:3860 decoded_text: protection
+idx:8 input_id:1010 decoded_text: ,
+idx:9 input_id:2037 decoded_text: their
+idx:10 input_id:3424 decoded_text: anti
+idx:11 input_id:23350 decoded_text: ##virus
+idx:12 input_id:4007 decoded_text: software
+idx:13 input_id:2003 decoded_text: is
+idx:14 input_id:25963 decoded_text: outdated
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:1998 decoded_text: and
+idx:17 input_id:9877 decoded_text: dozens
+idx:18 input_id:1997 decoded_text: of
+idx:19 input_id:8645 decoded_text: spy
+idx:20 input_id:8059 decoded_text: ##ware
+idx:21 input_id:3454 decoded_text: programs
+idx:22 input_id:10082 decoded_text: secretly
+idx:23 input_id:2448 decoded_text: run
+idx:24 input_id:2006 decoded_text: on
+idx:25 input_id:2037 decoded_text: their
+idx:26 input_id:7588 decoded_text: computers
+idx:27 input_id:1010 decoded_text: ,
+idx:28 input_id:2637 decoded_text: america
+idx:29 input_id:3784 decoded_text: online
+idx:30 input_id:1998 decoded_text: and
+idx:31 input_id:1996 decoded_text: the
+idx:32 input_id:2120 decoded_text: national
+idx:33 input_id:16941 decoded_text: cyber
+idx:34 input_id:3036 decoded_text: security
+idx:35 input_id:4707 decoded_text: alliance
+idx:36 input_id:2179 decoded_text: found
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.771465301513672, -3.6967179775238037, 2.1763224601745605, 5.410642623901367]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

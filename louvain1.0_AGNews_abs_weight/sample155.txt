@@ -1,0 +1,5 @@
+louvain社区检测结果:
+社区 1: ['4', '5', '1', '21', '22', '23']: ['brands', 'inc.', 'restaurant', 'kmart', 'holding', 'corp.']: 平均边权 3.1502
+社区 2: ['18', '17', '20', '16', '19']: ['president', 'become', 'executive', 'resigned', 'chief']: 平均边权 1.7439
+社区 3: ['10', '8', '11', '12', '3', '9']: ['chief', 'david', 'operating', 'officer,', 'yum', 'deno']: 平均边权 1.4006
+社区 4: ['15', '6', '13', '7', '14', '2', '0']: ['lewis,', 'monday', 'replacing', 'named', 'aylwin', 'operator', 'fast - food']: 平均边权 1.2802

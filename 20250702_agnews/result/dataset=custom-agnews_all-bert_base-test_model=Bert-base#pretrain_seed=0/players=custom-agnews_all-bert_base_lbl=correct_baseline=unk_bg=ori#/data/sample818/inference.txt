@@ -1,0 +1,31 @@
+Execution time: 2025-07-02 17:52:57
+prompt: [CLS] before, it was a nuisance. now, it has become a downright menace to the yankees. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2077 decoded_text: before
+idx:2 input_id:1010 decoded_text: ,
+idx:3 input_id:2009 decoded_text: it
+idx:4 input_id:2001 decoded_text: was
+idx:5 input_id:1037 decoded_text: a
+idx:6 input_id:16371 decoded_text: nu
+idx:7 input_id:28138 decoded_text: ##isance
+idx:8 input_id:1012 decoded_text: .
+idx:9 input_id:2085 decoded_text: now
+idx:10 input_id:1010 decoded_text: ,
+idx:11 input_id:2009 decoded_text: it
+idx:12 input_id:2038 decoded_text: has
+idx:13 input_id:2468 decoded_text: become
+idx:14 input_id:1037 decoded_text: a
+idx:15 input_id:2091 decoded_text: down
+idx:16 input_id:15950 decoded_text: ##right
+idx:17 input_id:19854 decoded_text: menace
+idx:18 input_id:2000 decoded_text: to
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:11081 decoded_text: yankees
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.0320335626602173, 7.4377970695495605, -2.0300893783569336, -3.208225965499878]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

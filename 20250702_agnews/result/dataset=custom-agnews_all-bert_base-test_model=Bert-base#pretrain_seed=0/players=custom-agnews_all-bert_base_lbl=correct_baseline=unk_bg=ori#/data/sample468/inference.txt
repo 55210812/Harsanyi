@@ -1,0 +1,33 @@
+Execution time: 2025-07-02 17:36:19
+prompt: [CLS] the deal with the defense logistics agency could be worth as much as \ $ 290 million for the computing giant. \ [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:3066 decoded_text: deal
+idx:3 input_id:2007 decoded_text: with
+idx:4 input_id:1996 decoded_text: the
+idx:5 input_id:3639 decoded_text: defense
+idx:6 input_id:12708 decoded_text: logistics
+idx:7 input_id:4034 decoded_text: agency
+idx:8 input_id:2071 decoded_text: could
+idx:9 input_id:2022 decoded_text: be
+idx:10 input_id:4276 decoded_text: worth
+idx:11 input_id:2004 decoded_text: as
+idx:12 input_id:2172 decoded_text: much
+idx:13 input_id:2004 decoded_text: as
+idx:14 input_id:1032 decoded_text: \
+idx:15 input_id:1002 decoded_text: $
+idx:16 input_id:17222 decoded_text: 290
+idx:17 input_id:2454 decoded_text: million
+idx:18 input_id:2005 decoded_text: for
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:9798 decoded_text: computing
+idx:21 input_id:5016 decoded_text: giant
+idx:22 input_id:1012 decoded_text: .
+idx:23 input_id:1032 decoded_text: \
+idx:24 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-2.2532994747161865, -1.9253852367401123, -2.74129056930542, 7.242883682250977]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

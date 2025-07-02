@@ -1,0 +1,49 @@
+Execution time: 2025-07-02 17:36:57
+prompt: [CLS] atlanta - delta air lines inc. # 39 ; s tentative deal with pilots for \ $ 1 billion in concessions gives the nation # 39 ; s third - largest carrier much - needed breathing room. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:5865 decoded_text: atlanta
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:7160 decoded_text: delta
+idx:4 input_id:2250 decoded_text: air
+idx:5 input_id:3210 decoded_text: lines
+idx:6 input_id:4297 decoded_text: inc
+idx:7 input_id:1012 decoded_text: .
+idx:8 input_id:1001 decoded_text: #
+idx:9 input_id:4464 decoded_text: 39
+idx:10 input_id:1025 decoded_text: ;
+idx:11 input_id:1055 decoded_text: s
+idx:12 input_id:19943 decoded_text: tentative
+idx:13 input_id:3066 decoded_text: deal
+idx:14 input_id:2007 decoded_text: with
+idx:15 input_id:8221 decoded_text: pilots
+idx:16 input_id:2005 decoded_text: for
+idx:17 input_id:1032 decoded_text: \
+idx:18 input_id:1002 decoded_text: $
+idx:19 input_id:1015 decoded_text: 1
+idx:20 input_id:4551 decoded_text: billion
+idx:21 input_id:1999 decoded_text: in
+idx:22 input_id:20638 decoded_text: concessions
+idx:23 input_id:3957 decoded_text: gives
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:3842 decoded_text: nation
+idx:26 input_id:1001 decoded_text: #
+idx:27 input_id:4464 decoded_text: 39
+idx:28 input_id:1025 decoded_text: ;
+idx:29 input_id:1055 decoded_text: s
+idx:30 input_id:2353 decoded_text: third
+idx:31 input_id:1011 decoded_text: -
+idx:32 input_id:2922 decoded_text: largest
+idx:33 input_id:6839 decoded_text: carrier
+idx:34 input_id:2172 decoded_text: much
+idx:35 input_id:1011 decoded_text: -
+idx:36 input_id:2734 decoded_text: needed
+idx:37 input_id:5505 decoded_text: breathing
+idx:38 input_id:2282 decoded_text: room
+idx:39 input_id:1012 decoded_text: .
+idx:40 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.838467597961426, -2.8304336071014404, 6.727484226226807, -2.882333755493164]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

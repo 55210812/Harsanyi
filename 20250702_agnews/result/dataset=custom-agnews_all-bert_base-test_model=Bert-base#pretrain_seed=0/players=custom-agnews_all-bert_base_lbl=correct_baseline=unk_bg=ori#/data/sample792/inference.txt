@@ -1,0 +1,41 @@
+Execution time: 2025-07-02 17:52:08
+prompt: [CLS] the release of three united nations workers who had been held hostage for more than three weeks took place early tuesday in what appeared to be an orchestrated handover. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2713 decoded_text: release
+idx:3 input_id:1997 decoded_text: of
+idx:4 input_id:2093 decoded_text: three
+idx:5 input_id:2142 decoded_text: united
+idx:6 input_id:3741 decoded_text: nations
+idx:7 input_id:3667 decoded_text: workers
+idx:8 input_id:2040 decoded_text: who
+idx:9 input_id:2018 decoded_text: had
+idx:10 input_id:2042 decoded_text: been
+idx:11 input_id:2218 decoded_text: held
+idx:12 input_id:13446 decoded_text: hostage
+idx:13 input_id:2005 decoded_text: for
+idx:14 input_id:2062 decoded_text: more
+idx:15 input_id:2084 decoded_text: than
+idx:16 input_id:2093 decoded_text: three
+idx:17 input_id:3134 decoded_text: weeks
+idx:18 input_id:2165 decoded_text: took
+idx:19 input_id:2173 decoded_text: place
+idx:20 input_id:2220 decoded_text: early
+idx:21 input_id:9857 decoded_text: tuesday
+idx:22 input_id:1999 decoded_text: in
+idx:23 input_id:2054 decoded_text: what
+idx:24 input_id:2596 decoded_text: appeared
+idx:25 input_id:2000 decoded_text: to
+idx:26 input_id:2022 decoded_text: be
+idx:27 input_id:2019 decoded_text: an
+idx:28 input_id:23339 decoded_text: orchestrated
+idx:29 input_id:2192 decoded_text: hand
+idx:30 input_id:7840 decoded_text: ##over
+idx:31 input_id:1012 decoded_text: .
+idx:32 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.779239177703857, -1.8280130624771118, -3.042344570159912, -1.6206389665603638]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

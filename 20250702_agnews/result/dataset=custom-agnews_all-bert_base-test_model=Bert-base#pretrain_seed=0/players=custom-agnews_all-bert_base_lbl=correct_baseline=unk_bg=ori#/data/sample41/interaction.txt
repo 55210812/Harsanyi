@@ -1,0 +1,30 @@
+---------- Players ----------
+Player 0: dangerous
+Player 1: new
+Player 2: ways
+Player 3: try
+Player 4: steal
+Player 5: money
+Player 6: progress.
+---------- AND Interactions (Pairwise Only) ----------
+I(3 5): 6.821099758148193	 ([try][money])
+I(4 5): 5.794459342956543	 ([steal][money])
+I(0 6): 4.250998497009277	 ([dangerous][progress.])
+I(4 6): 3.7727487087249756	 ([steal][progress.])
+I(2 6): 3.1294307708740234	 ([ways][progress.])
+I(3 6): 2.7778701782226562	 ([try][progress.])
+I(2 5): 2.0400354862213135	 ([ways][money])
+I(1 5): 1.6117043495178223	 ([new][money])
+I(5 6): 1.5157747268676758	 ([money][progress.])
+I(0 5): 1.2215156555175781	 ([dangerous][money])
+I(1 4): 1.0418155193328857	 ([new][steal])
+I(3 4): -0.9227626323699951	 ([try][steal])
+I(1 2): -0.8272089958190918	 ([new][ways])
+I(1 6): 0.8053511381149292	 ([new][progress.])
+I(2 3): -0.5908660888671875	 ([ways][try])
+I(2 4): 0.5444214344024658	 ([ways][steal])
+I(0 1): 0.4789433479309082	 ([dangerous][new])
+I(0 3): 0.28964948654174805	 ([dangerous][try])
+I(0 4): 0.17685151100158691	 ([dangerous][steal])
+Sum: 31.04048454761505
+==================================================

@@ -1,0 +1,37 @@
+Execution time: 2025-07-02 17:44:38
+prompt: [CLS] they gathered under the pink walls of the royal oak inn, then marched here to this gentle vale to claim their slice of new freedom. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2027 decoded_text: they
+idx:2 input_id:5935 decoded_text: gathered
+idx:3 input_id:2104 decoded_text: under
+idx:4 input_id:1996 decoded_text: the
+idx:5 input_id:5061 decoded_text: pink
+idx:6 input_id:3681 decoded_text: walls
+idx:7 input_id:1997 decoded_text: of
+idx:8 input_id:1996 decoded_text: the
+idx:9 input_id:2548 decoded_text: royal
+idx:10 input_id:6116 decoded_text: oak
+idx:11 input_id:7601 decoded_text: inn
+idx:12 input_id:1010 decoded_text: ,
+idx:13 input_id:2059 decoded_text: then
+idx:14 input_id:9847 decoded_text: marched
+idx:15 input_id:2182 decoded_text: here
+idx:16 input_id:2000 decoded_text: to
+idx:17 input_id:2023 decoded_text: this
+idx:18 input_id:7132 decoded_text: gentle
+idx:19 input_id:10380 decoded_text: vale
+idx:20 input_id:2000 decoded_text: to
+idx:21 input_id:4366 decoded_text: claim
+idx:22 input_id:2037 decoded_text: their
+idx:23 input_id:14704 decoded_text: slice
+idx:24 input_id:1997 decoded_text: of
+idx:25 input_id:2047 decoded_text: new
+idx:26 input_id:4071 decoded_text: freedom
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[5.936614036560059, -1.8384956121444702, -2.9668545722961426, -1.0027307271957397]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

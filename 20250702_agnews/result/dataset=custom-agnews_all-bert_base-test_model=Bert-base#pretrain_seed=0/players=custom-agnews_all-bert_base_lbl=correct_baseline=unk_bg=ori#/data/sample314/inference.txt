@@ -1,0 +1,51 @@
+Execution time: 2025-07-02 17:29:51
+prompt: [CLS] opinion : according to its president, oracle has a clear idea of how it # 39 ; s going to slice up peoplesoft to retain the choicest assets and send the rest to the corporate rendering yard. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:5448 decoded_text: opinion
+idx:2 input_id:1024 decoded_text: :
+idx:3 input_id:2429 decoded_text: according
+idx:4 input_id:2000 decoded_text: to
+idx:5 input_id:2049 decoded_text: its
+idx:6 input_id:2343 decoded_text: president
+idx:7 input_id:1010 decoded_text: ,
+idx:8 input_id:14721 decoded_text: oracle
+idx:9 input_id:2038 decoded_text: has
+idx:10 input_id:1037 decoded_text: a
+idx:11 input_id:3154 decoded_text: clear
+idx:12 input_id:2801 decoded_text: idea
+idx:13 input_id:1997 decoded_text: of
+idx:14 input_id:2129 decoded_text: how
+idx:15 input_id:2009 decoded_text: it
+idx:16 input_id:1001 decoded_text: #
+idx:17 input_id:4464 decoded_text: 39
+idx:18 input_id:1025 decoded_text: ;
+idx:19 input_id:1055 decoded_text: s
+idx:20 input_id:2183 decoded_text: going
+idx:21 input_id:2000 decoded_text: to
+idx:22 input_id:14704 decoded_text: slice
+idx:23 input_id:2039 decoded_text: up
+idx:24 input_id:7243 decoded_text: peoples
+idx:25 input_id:15794 decoded_text: ##oft
+idx:26 input_id:2000 decoded_text: to
+idx:27 input_id:9279 decoded_text: retain
+idx:28 input_id:1996 decoded_text: the
+idx:29 input_id:9804 decoded_text: choices
+idx:30 input_id:2102 decoded_text: ##t
+idx:31 input_id:7045 decoded_text: assets
+idx:32 input_id:1998 decoded_text: and
+idx:33 input_id:4604 decoded_text: send
+idx:34 input_id:1996 decoded_text: the
+idx:35 input_id:2717 decoded_text: rest
+idx:36 input_id:2000 decoded_text: to
+idx:37 input_id:1996 decoded_text: the
+idx:38 input_id:5971 decoded_text: corporate
+idx:39 input_id:14259 decoded_text: rendering
+idx:40 input_id:4220 decoded_text: yard
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.6011602878570557, -4.006597518920898, 6.164976596832275, -0.44412827491760254]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

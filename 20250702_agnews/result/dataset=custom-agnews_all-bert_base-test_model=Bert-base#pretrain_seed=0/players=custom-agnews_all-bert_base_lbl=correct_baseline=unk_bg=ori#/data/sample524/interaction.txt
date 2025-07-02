@@ -1,0 +1,83 @@
+---------- Players ----------
+Player 0: off - season
+Player 1: landscape
+Player 2: changed
+Player 3: bit
+Player 4: friday,
+Player 5: first
+Player 6: day
+Player 7: teams
+Player 8: allowed
+Player 9: present
+Player 10: offers
+Player 11: free
+Player 12: agents
+Player 13: clubs.
+---------- AND Interactions (Pairwise Only) ----------
+I(7 13): -9.813779830932617	 ([teams][clubs.])
+I(0 7): -4.877260208129883	 ([off - season][teams])
+I(12 13): -4.363889217376709	 ([agents][clubs.])
+I(11 12): 4.347574234008789	 ([free][agents])
+I(0 13): -4.150534629821777	 ([off - season][clubs.])
+I(10 13): -3.9652762413024902	 ([offers][clubs.])
+I(4 13): -3.3715953826904297	 ([friday,][clubs.])
+I(6 13): -3.1952428817749023	 ([day][clubs.])
+I(7 12): -3.1686325073242188	 ([teams][agents])
+I(4 12): -2.947396993637085	 ([friday,][agents])
+I(4 7): -2.8953466415405273	 ([friday,][teams])
+I(7 10): -2.7750816345214844	 ([teams][offers])
+I(0 1): 2.386375904083252	 ([off - season][landscape])
+I(0 2): -2.375218629837036	 ([off - season][changed])
+I(0 12): -2.3276243209838867	 ([off - season][agents])
+I(6 7): -2.3262996673583984	 ([day][teams])
+I(0 6): -2.0968079566955566	 ([off - season][day])
+I(5 6): -2.0949132442474365	 ([first][day])
+I(10 12): -2.093712329864502	 ([offers][agents])
+I(11 13): -2.0913662910461426	 ([free][clubs.])
+I(0 11): -2.01767897605896	 ([off - season][free])
+I(0 4): -1.9351387023925781	 ([off - season][friday,])
+I(1 11): 1.858090877532959	 ([landscape][free])
+I(4 6): -1.8315203189849854	 ([friday,][day])
+I(8 13): -1.7497386932373047	 ([allowed][clubs.])
+I(2 10): 1.6666536331176758	 ([changed][offers])
+I(1 13): 1.652658462524414	 ([landscape][clubs.])
+I(7 9): 1.361924171447754	 ([teams][present])
+I(4 11): -1.296726942062378	 ([friday,][free])
+I(9 12): -1.100656509399414	 ([present][agents])
+I(7 8): -1.0395984649658203	 ([teams][allowed])
+I(9 11): 0.9984617233276367	 ([present][free])
+I(8 11): 0.9803333282470703	 ([allowed][free])
+I(0 9): -0.9616439342498779	 ([off - season][present])
+I(1 9): 0.9471931457519531	 ([landscape][present])
+I(5 10): 0.9051084518432617	 ([first][offers])
+I(1 2): 0.8246488571166992	 ([landscape][changed])
+I(1 4): -0.8023402690887451	 ([landscape][friday,])
+I(1 6): -0.7761061191558838	 ([landscape][day])
+I(0 5): -0.7425193786621094	 ([off - season][first])
+I(4 5): -0.7347042560577393	 ([friday,][first])
+I(0 10): -0.715644359588623	 ([off - season][offers])
+I(1 7): 0.7126293182373047	 ([landscape][teams])
+I(6 9): -0.699908971786499	 ([day][present])
+I(3 7): 0.6814193725585938	 ([bit][teams])
+I(2 8): 0.6612405776977539	 ([changed][allowed])
+I(2 9): 0.6606802940368652	 ([changed][present])
+I(3 12): -0.644925594329834	 ([bit][agents])
+I(9 10): 0.6117792129516602	 ([present][offers])
+I(2 4): -0.5632274150848389	 ([changed][friday,])
+I(3 13): -0.5627822875976562	 ([bit][clubs.])
+I(1 12): 0.5618185997009277	 ([landscape][agents])
+I(4 8): -0.552802324295044	 ([friday,][allowed])
+I(3 10): -0.5329117774963379	 ([bit][offers])
+I(6 8): -0.5303947925567627	 ([day][allowed])
+I(8 12): -0.5301785469055176	 ([allowed][agents])
+I(3 6): -0.5039503574371338	 ([bit][day])
+I(6 12): -0.4850797653198242	 ([day][agents])
+I(2 11): 0.4455752372741699	 ([changed][free])
+I(6 10): -0.423231840133667	 ([day][offers])
+I(1 3): 0.4095277786254883	 ([landscape][bit])
+I(6 11): -0.388683557510376	 ([day][free])
+I(7 11): 0.36856746673583984	 ([teams][free])
+I(9 13): 0.31695079803466797	 ([present][clubs.])
+I(5 13): -0.31028032302856445	 ([first][clubs.])
+Sum: -30.85792851448059
+==================================================

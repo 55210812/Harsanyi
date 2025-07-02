@@ -1,0 +1,24 @@
+Execution time: 2025-07-02 17:59:51
+prompt: [CLS] pc world - updated antivirus software for businesses adds intrusion prevention features. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:7473 decoded_text: pc
+idx:2 input_id:2088 decoded_text: world
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:7172 decoded_text: updated
+idx:5 input_id:3424 decoded_text: anti
+idx:6 input_id:23350 decoded_text: ##virus
+idx:7 input_id:4007 decoded_text: software
+idx:8 input_id:2005 decoded_text: for
+idx:9 input_id:5661 decoded_text: businesses
+idx:10 input_id:9909 decoded_text: adds
+idx:11 input_id:24554 decoded_text: intrusion
+idx:12 input_id:9740 decoded_text: prevention
+idx:13 input_id:2838 decoded_text: features
+idx:14 input_id:1012 decoded_text: .
+idx:15 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-2.9017648696899414, -3.783311367034912, -0.5475897789001465, 6.827441215515137]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

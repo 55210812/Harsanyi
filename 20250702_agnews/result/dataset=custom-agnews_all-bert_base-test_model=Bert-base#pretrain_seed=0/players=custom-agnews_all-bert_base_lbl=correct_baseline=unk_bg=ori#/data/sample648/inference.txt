@@ -1,0 +1,28 @@
+Execution time: 2025-07-02 17:45:55
+prompt: [CLS] a senior chinese official tells the bbc the country's environmental problems have reached crisis levels. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:3026 decoded_text: senior
+idx:3 input_id:2822 decoded_text: chinese
+idx:4 input_id:2880 decoded_text: official
+idx:5 input_id:4136 decoded_text: tells
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:4035 decoded_text: bbc
+idx:8 input_id:1996 decoded_text: the
+idx:9 input_id:2406 decoded_text: country
+idx:10 input_id:1005 decoded_text: '
+idx:11 input_id:1055 decoded_text: s
+idx:12 input_id:4483 decoded_text: environmental
+idx:13 input_id:3471 decoded_text: problems
+idx:14 input_id:2031 decoded_text: have
+idx:15 input_id:2584 decoded_text: reached
+idx:16 input_id:5325 decoded_text: crisis
+idx:17 input_id:3798 decoded_text: levels
+idx:18 input_id:1012 decoded_text: .
+idx:19 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[3.0734665393829346, -3.747159481048584, -2.846273183822632, 3.455775499343872]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

@@ -1,0 +1,41 @@
+Execution time: 2025-07-02 17:52:11
+prompt: [CLS] pakistani jet fighters and helicopter gunships pounded what the military called a terrorist training camp near the afghan border on thursday, killing at least 50 mostly foreign militants. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9889 decoded_text: pakistani
+idx:2 input_id:6892 decoded_text: jet
+idx:3 input_id:7299 decoded_text: fighters
+idx:4 input_id:1998 decoded_text: and
+idx:5 input_id:7739 decoded_text: helicopter
+idx:6 input_id:4409 decoded_text: guns
+idx:7 input_id:19801 decoded_text: ##hips
+idx:8 input_id:13750 decoded_text: pounded
+idx:9 input_id:2054 decoded_text: what
+idx:10 input_id:1996 decoded_text: the
+idx:11 input_id:2510 decoded_text: military
+idx:12 input_id:2170 decoded_text: called
+idx:13 input_id:1037 decoded_text: a
+idx:14 input_id:9452 decoded_text: terrorist
+idx:15 input_id:2731 decoded_text: training
+idx:16 input_id:3409 decoded_text: camp
+idx:17 input_id:2379 decoded_text: near
+idx:18 input_id:1996 decoded_text: the
+idx:19 input_id:12632 decoded_text: afghan
+idx:20 input_id:3675 decoded_text: border
+idx:21 input_id:2006 decoded_text: on
+idx:22 input_id:9432 decoded_text: thursday
+idx:23 input_id:1010 decoded_text: ,
+idx:24 input_id:4288 decoded_text: killing
+idx:25 input_id:2012 decoded_text: at
+idx:26 input_id:2560 decoded_text: least
+idx:27 input_id:2753 decoded_text: 50
+idx:28 input_id:3262 decoded_text: mostly
+idx:29 input_id:3097 decoded_text: foreign
+idx:30 input_id:17671 decoded_text: militants
+idx:31 input_id:1012 decoded_text: .
+idx:32 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.435801982879639, -1.1102705001831055, -3.1889755725860596, -1.8071743249893188]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

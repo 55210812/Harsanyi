@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 17:19:10
+prompt: [CLS] the us ruling to block the sale of the mainproduction asset of yukos injected fresh intrigue into the demise of russia # 39 ; s largest oil company. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2149 decoded_text: us
+idx:3 input_id:6996 decoded_text: ruling
+idx:4 input_id:2000 decoded_text: to
+idx:5 input_id:3796 decoded_text: block
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:5096 decoded_text: sale
+idx:8 input_id:1997 decoded_text: of
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:2364 decoded_text: main
+idx:11 input_id:21572 decoded_text: ##pro
+idx:12 input_id:16256 decoded_text: ##duction
+idx:13 input_id:11412 decoded_text: asset
+idx:14 input_id:1997 decoded_text: of
+idx:15 input_id:9805 decoded_text: yu
+idx:16 input_id:15710 decoded_text: ##kos
+idx:17 input_id:19737 decoded_text: injected
+idx:18 input_id:4840 decoded_text: fresh
+idx:19 input_id:20014 decoded_text: int
+idx:20 input_id:27611 decoded_text: ##rigue
+idx:21 input_id:2046 decoded_text: into
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:13614 decoded_text: demise
+idx:24 input_id:1997 decoded_text: of
+idx:25 input_id:3607 decoded_text: russia
+idx:26 input_id:1001 decoded_text: #
+idx:27 input_id:4464 decoded_text: 39
+idx:28 input_id:1025 decoded_text: ;
+idx:29 input_id:1055 decoded_text: s
+idx:30 input_id:2922 decoded_text: largest
+idx:31 input_id:3514 decoded_text: oil
+idx:32 input_id:2194 decoded_text: company
+idx:33 input_id:1012 decoded_text: .
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.2416309118270874, -3.2561757564544678, 6.394896507263184, -3.5294101238250732]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

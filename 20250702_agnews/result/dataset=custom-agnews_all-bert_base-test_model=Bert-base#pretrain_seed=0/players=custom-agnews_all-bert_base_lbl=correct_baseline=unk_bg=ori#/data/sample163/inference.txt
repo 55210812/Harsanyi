@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 17:23:54
+prompt: [CLS] the pieces had fallen into place perfectly for the yankees. orlando hernndez, who had not only been a perfect 5 - 0 for the team, but also good enough that the yankees were [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:4109 decoded_text: pieces
+idx:3 input_id:2018 decoded_text: had
+idx:4 input_id:5357 decoded_text: fallen
+idx:5 input_id:2046 decoded_text: into
+idx:6 input_id:2173 decoded_text: place
+idx:7 input_id:6669 decoded_text: perfectly
+idx:8 input_id:2005 decoded_text: for
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:11081 decoded_text: yankees
+idx:11 input_id:1012 decoded_text: .
+idx:12 input_id:10108 decoded_text: orlando
+idx:13 input_id:2014 decoded_text: her
+idx:14 input_id:10695 decoded_text: ##nn
+idx:15 input_id:24601 decoded_text: ##dez
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:2040 decoded_text: who
+idx:18 input_id:2018 decoded_text: had
+idx:19 input_id:2025 decoded_text: not
+idx:20 input_id:2069 decoded_text: only
+idx:21 input_id:2042 decoded_text: been
+idx:22 input_id:1037 decoded_text: a
+idx:23 input_id:3819 decoded_text: perfect
+idx:24 input_id:1019 decoded_text: 5
+idx:25 input_id:1011 decoded_text: -
+idx:26 input_id:1014 decoded_text: 0
+idx:27 input_id:2005 decoded_text: for
+idx:28 input_id:1996 decoded_text: the
+idx:29 input_id:2136 decoded_text: team
+idx:30 input_id:1010 decoded_text: ,
+idx:31 input_id:2021 decoded_text: but
+idx:32 input_id:2036 decoded_text: also
+idx:33 input_id:2204 decoded_text: good
+idx:34 input_id:2438 decoded_text: enough
+idx:35 input_id:2008 decoded_text: that
+idx:36 input_id:1996 decoded_text: the
+idx:37 input_id:11081 decoded_text: yankees
+idx:38 input_id:2020 decoded_text: were
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.2927190065383911, 8.518644332885742, -2.8193299770355225, -2.820983409881592]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

@@ -1,0 +1,85 @@
+---------- Players ----------
+Player 0: years,
+Player 1: big
+Player 2: game
+Player 3: tradition
+Player 4: only,
+Player 5: die -
+Player 6: hard
+Player 7: alums
+Player 8: stanford
+Player 9: cal
+Player 10: seeing
+Player 11: contest
+Player 12: chance
+Player 13: salvage
+Player 14: so -
+Player 15: seasons.
+---------- AND Interactions (Pairwise Only) ----------
+I(7 15): -7.64539909362793	 ([alums][seasons.])
+I(11 15): -6.537506103515625	 ([contest][seasons.])
+I(2 15): -6.490640163421631	 ([game][seasons.])
+I(2 11): -5.257534027099609	 ([game][contest])
+I(11 12): -3.632965326309204	 ([contest][chance])
+I(8 15): -3.604116439819336	 ([stanford][seasons.])
+I(11 13): -3.2134039402008057	 ([contest][salvage])
+I(7 11): -3.11721134185791	 ([alums][contest])
+I(14 15): 2.8625850677490234	 ([so -][seasons.])
+I(3 15): -2.649596691131592	 ([tradition][seasons.])
+I(2 8): -2.528534412384033	 ([game][stanford])
+I(8 10): -2.514885425567627	 ([stanford][seeing])
+I(8 11): -2.449678421020508	 ([stanford][contest])
+I(9 10): 2.026930332183838	 ([cal][seeing])
+I(0 7): -2.0148978233337402	 ([years,][alums])
+I(1 15): -1.940770149230957	 ([big][seasons.])
+I(4 15): 1.8680286407470703	 ([only,][seasons.])
+I(12 15): -1.7343692779541016	 ([chance][seasons.])
+I(0 11): -1.5936670303344727	 ([years,][contest])
+I(1 2): 1.5674457550048828	 ([big][game])
+I(0 5): -1.3794431686401367	 ([years,][die -])
+I(5 11): -1.316514492034912	 ([die -][contest])
+I(3 8): -1.2985162734985352	 ([tradition][stanford])
+I(13 15): -1.2552566528320312	 ([salvage][seasons.])
+I(0 8): -1.2282986640930176	 ([years,][stanford])
+I(1 11): -1.224553108215332	 ([big][contest])
+I(5 15): -1.1902532577514648	 ([die -][seasons.])
+I(2 4): 1.0802438259124756	 ([game][only,])
+I(7 8): -1.0272984504699707	 ([alums][stanford])
+I(6 15): -1.0047874450683594	 ([hard][seasons.])
+I(3 11): -0.9860734939575195	 ([tradition][contest])
+I(9 11): 0.9340629577636719	 ([cal][contest])
+I(0 9): 0.8831424713134766	 ([years,][cal])
+I(6 8): 0.8739724159240723	 ([hard][stanford])
+I(8 9): 0.8224039077758789	 ([stanford][cal])
+I(7 12): -0.792914867401123	 ([alums][chance])
+I(0 15): -0.7641162872314453	 ([years,][seasons.])
+I(5 12): -0.7480926513671875	 ([die -][chance])
+I(3 4): 0.7382369041442871	 ([tradition][only,])
+I(7 13): -0.7288761138916016	 ([alums][salvage])
+I(2 12): -0.7074475288391113	 ([game][chance])
+I(8 12): -0.7032599449157715	 ([stanford][chance])
+I(0 13): -0.6449081897735596	 ([years,][salvage])
+I(0 3): -0.600398063659668	 ([years,][tradition])
+I(0 12): -0.5974485874176025	 ([years,][chance])
+I(0 10): -0.5761623382568359	 ([years,][seeing])
+I(4 8): -0.5046100616455078	 ([only,][stanford])
+I(1 8): -0.48383140563964844	 ([big][stanford])
+I(10 12): -0.4783005714416504	 ([seeing][chance])
+I(0 4): 0.4591801166534424	 ([years,][only,])
+I(6 11): -0.45000743865966797	 ([hard][contest])
+I(10 15): 0.4147920608520508	 ([seeing][seasons.])
+I(5 13): -0.40937185287475586	 ([die -][salvage])
+I(3 7): -0.347811222076416	 ([tradition][alums])
+I(9 15): 0.3363008499145508	 ([cal][seasons.])
+I(6 9): -0.3337821960449219	 ([hard][cal])
+I(8 13): 0.32667064666748047	 ([stanford][salvage])
+I(7 10): 0.3172492980957031	 ([alums][seeing])
+I(4 13): 0.31662988662719727	 ([only,][salvage])
+I(11 14): -0.31511926651000977	 ([contest][so -])
+I(9 13): 0.3118557929992676	 ([cal][salvage])
+I(5 8): 0.3105340003967285	 ([die -][stanford])
+I(2 6): -0.28008270263671875	 ([game][hard])
+I(4 11): -0.2724781036376953	 ([only,][contest])
+I(4 10): 0.23413896560668945	 ([only,][seeing])
+Sum: -36.76882076263428
+==================================================

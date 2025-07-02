@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 17:19:26
+prompt: [CLS] desktop 9 includes novell # 39 ; s edition of openoffice. org office productivity suite, the mozilla firefox web browser, evolution software for collaborating with windows, and zenworks linux management. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:15363 decoded_text: desktop
+idx:2 input_id:1023 decoded_text: 9
+idx:3 input_id:2950 decoded_text: includes
+idx:4 input_id:3117 decoded_text: novel
+idx:5 input_id:2140 decoded_text: ##l
+idx:6 input_id:1001 decoded_text: #
+idx:7 input_id:4464 decoded_text: 39
+idx:8 input_id:1025 decoded_text: ;
+idx:9 input_id:1055 decoded_text: s
+idx:10 input_id:3179 decoded_text: edition
+idx:11 input_id:1997 decoded_text: of
+idx:12 input_id:2330 decoded_text: open
+idx:13 input_id:7245 decoded_text: ##off
+idx:14 input_id:6610 decoded_text: ##ice
+idx:15 input_id:1012 decoded_text: .
+idx:16 input_id:8917 decoded_text: org
+idx:17 input_id:2436 decoded_text: office
+idx:18 input_id:15836 decoded_text: productivity
+idx:19 input_id:7621 decoded_text: suite
+idx:20 input_id:1010 decoded_text: ,
+idx:21 input_id:1996 decoded_text: the
+idx:22 input_id:9587 decoded_text: mo
+idx:23 input_id:5831 decoded_text: ##zi
+idx:24 input_id:4571 decoded_text: ##lla
+idx:25 input_id:2543 decoded_text: fire
+idx:26 input_id:14876 decoded_text: ##fo
+idx:27 input_id:2595 decoded_text: ##x
+idx:28 input_id:4773 decoded_text: web
+idx:29 input_id:16602 decoded_text: browser
+idx:30 input_id:1010 decoded_text: ,
+idx:31 input_id:6622 decoded_text: evolution
+idx:32 input_id:4007 decoded_text: software
+idx:33 input_id:2005 decoded_text: for
+idx:34 input_id:20295 decoded_text: collaborating
+idx:35 input_id:2007 decoded_text: with
+idx:36 input_id:3645 decoded_text: windows
+idx:37 input_id:1010 decoded_text: ,
+idx:38 input_id:1998 decoded_text: and
+idx:39 input_id:16729 decoded_text: zen
+idx:40 input_id:9316 decoded_text: ##works
+idx:41 input_id:11603 decoded_text: linux
+idx:42 input_id:2968 decoded_text: management
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.711817741394043, -3.075709581375122, 0.9069918394088745, 6.436631679534912]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

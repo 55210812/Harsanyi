@@ -1,0 +1,97 @@
+---------- Players ----------
+Player 0: new
+Player 1: delhi
+Player 2: -
+Player 3: fourteen
+Player 4: people
+Player 5: killed
+Player 6: kashmir
+Player 7: increase
+Player 8: violence
+Player 9: since
+Player 10: visit
+Player 11: indian
+Player 12: prime
+Player 13: minister
+Player 14: mid - november.
+---------- AND Interactions (Pairwise Only) ----------
+I(12 13): 7.047052383422852	 ([prime][minister])
+I(1 6): -6.838963508605957	 ([delhi][kashmir])
+I(13 14): 4.644931793212891	 ([minister][mid - november.])
+I(6 11): -3.6763062477111816	 ([kashmir][indian])
+I(10 11): 3.5618467330932617	 ([visit][indian])
+I(5 13): 3.523728847503662	 ([killed][minister])
+I(5 8): -3.2890453338623047	 ([killed][violence])
+I(5 14): 3.1063790321350098	 ([killed][mid - november.])
+I(0 1): -2.9485301971435547	 ([new][delhi])
+I(6 8): -2.820675849914551	 ([kashmir][violence])
+I(4 14): 2.5915417671203613	 ([people][mid - november.])
+I(5 12): 2.5001320838928223	 ([killed][prime])
+I(4 5): 2.393028736114502	 ([people][killed])
+I(3 5): 2.3436241149902344	 ([fourteen][killed])
+I(1 12): -2.283632755279541	 ([delhi][prime])
+I(11 12): 2.229233741760254	 ([indian][prime])
+I(10 14): 2.1733479499816895	 ([visit][mid - november.])
+I(1 11): -2.0709147453308105	 ([delhi][indian])
+I(3 4): -1.938988208770752	 ([fourteen][people])
+I(1 2): 1.9106979370117188	 ([delhi][-])
+I(7 12): 1.8155732154846191	 ([increase][prime])
+I(1 7): -1.777017593383789	 ([delhi][increase])
+I(6 13): -1.7451629638671875	 ([kashmir][minister])
+I(7 14): 1.7314567565917969	 ([increase][mid - november.])
+I(3 6): -1.707712173461914	 ([fourteen][kashmir])
+I(4 11): -1.7029695510864258	 ([people][indian])
+I(7 8): -1.6950740814208984	 ([increase][violence])
+I(1 4): -1.633082389831543	 ([delhi][people])
+I(4 10): -1.5837092399597168	 ([people][visit])
+I(1 3): -1.5614509582519531	 ([delhi][fourteen])
+I(1 13): -1.5376701354980469	 ([delhi][minister])
+I(9 12): 1.4998393058776855	 ([since][prime])
+I(10 13): 1.4685664176940918	 ([visit][minister])
+I(5 10): -1.466456413269043	 ([killed][visit])
+I(6 7): -1.3775858879089355	 ([kashmir][increase])
+I(0 4): 1.3413209915161133	 ([new][people])
+I(9 14): 1.2895984649658203	 ([since][mid - november.])
+I(12 14): 1.22758150100708	 ([prime][mid - november.])
+I(2 13): 1.1282563209533691	 ([-][minister])
+I(11 14): 1.1193699836730957	 ([indian][mid - november.])
+I(4 13): -1.0823354721069336	 ([people][minister])
+I(8 10): -1.041104793548584	 ([violence][visit])
+I(7 9): 0.9838528633117676	 ([increase][since])
+I(5 6): -0.9572677612304688	 ([killed][kashmir])
+I(7 10): 0.8988687992095947	 ([increase][visit])
+I(5 9): -0.8915438652038574	 ([killed][since])
+I(6 9): 0.7760848999023438	 ([kashmir][since])
+I(3 13): -0.7666583061218262	 ([fourteen][minister])
+I(5 11): 0.7611813545227051	 ([killed][indian])
+I(5 7): -0.7404594421386719	 ([killed][increase])
+I(0 9): 0.7397174835205078	 ([new][since])
+I(6 12): 0.7356252670288086	 ([kashmir][prime])
+I(8 12): -0.7070388793945312	 ([violence][prime])
+I(8 14): 0.699681282043457	 ([violence][mid - november.])
+I(0 11): -0.6924786567687988	 ([new][indian])
+I(9 10): -0.6405806541442871	 ([since][visit])
+I(0 10): -0.6361575126647949	 ([new][visit])
+I(6 14): -0.5993795394897461	 ([kashmir][mid - november.])
+I(1 8): -0.5962390899658203	 ([delhi][violence])
+I(0 7): -0.594841480255127	 ([new][increase])
+I(7 11): 0.572721004486084	 ([increase][indian])
+I(3 14): 0.5716762542724609	 ([fourteen][mid - november.])
+I(1 9): -0.549708366394043	 ([delhi][since])
+I(1 5): 0.5116696357727051	 ([delhi][killed])
+I(8 13): -0.5110807418823242	 ([violence][minister])
+I(4 7): 0.5094504356384277	 ([people][increase])
+I(0 5): 0.49181079864501953	 ([new][killed])
+I(0 12): 0.49088478088378906	 ([new][prime])
+I(2 5): 0.47536754608154297	 ([-][killed])
+I(2 10): 0.46635913848876953	 ([-][visit])
+I(2 6): -0.45943737030029297	 ([-][kashmir])
+I(4 9): 0.44295549392700195	 ([people][since])
+I(2 7): -0.3970222473144531	 ([-][increase])
+I(4 8): 0.391998291015625	 ([people][violence])
+I(8 9): -0.3786296844482422	 ([violence][since])
+I(11 13): 0.3323397636413574	 ([indian][minister])
+I(3 8): 0.30548763275146484	 ([fourteen][violence])
+I(8 11): 0.30458831787109375	 ([violence][indian])
+Sum: 44.333619356155396
+==================================================

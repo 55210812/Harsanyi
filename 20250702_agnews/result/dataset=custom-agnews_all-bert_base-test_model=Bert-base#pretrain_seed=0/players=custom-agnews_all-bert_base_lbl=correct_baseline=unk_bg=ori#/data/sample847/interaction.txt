@@ -1,0 +1,82 @@
+---------- Players ----------
+Player 0: australia's
+Player 1: main
+Player 2: political
+Player 3: leaders
+Player 4: clash
+Player 5: country's
+Player 6: role
+Player 7: iraq,
+Player 8: ahead
+Player 9: next
+Player 10: month's
+Player 11: general
+Player 12: election.
+---------- AND Interactions (Pairwise Only) ----------
+I(11 12): 8.801158905029297	 ([general][election.])
+I(10 11): 7.234007835388184	 ([month's][general])
+I(0 7): -6.364011764526367	 ([australia's][iraq,])
+I(5 6): 6.267477512359619	 ([country's][role])
+I(8 10): -5.575303077697754	 ([ahead][month's])
+I(3 7): -5.35417366027832	 ([leaders][iraq,])
+I(5 12): 5.232006072998047	 ([country's][election.])
+I(7 12): -4.577749252319336	 ([iraq,][election.])
+I(2 4): 4.2441086769104	 ([political][clash])
+I(7 10): -3.740605354309082	 ([iraq,][month's])
+I(2 7): -3.603102684020996	 ([political][iraq,])
+I(7 11): 3.426657199859619	 ([iraq,][general])
+I(0 10): -3.144791603088379	 ([australia's][month's])
+I(2 10): 2.922985076904297	 ([political][month's])
+I(3 12): -2.8683862686157227	 ([leaders][election.])
+I(2 5): 2.7074079513549805	 ([political][country's])
+I(9 10): -2.6796040534973145	 ([next][month's])
+I(3 11): 2.645510196685791	 ([leaders][general])
+I(0 9): 2.4943151473999023	 ([australia's][next])
+I(3 5): 2.447648048400879	 ([leaders][country's])
+I(10 12): 2.4473648071289062	 ([month's][election.])
+I(3 9): 2.441267490386963	 ([leaders][next])
+I(2 11): 2.433286666870117	 ([political][general])
+I(3 6): -2.0856847763061523	 ([leaders][role])
+I(8 12): -2.017650604248047	 ([ahead][election.])
+I(6 10): 1.9650864601135254	 ([role][month's])
+I(5 7): -1.9521923065185547	 ([country's][iraq,])
+I(7 9): 1.8149337768554688	 ([iraq,][next])
+I(9 11): 1.6954188346862793	 ([next][general])
+I(8 9): 1.678255558013916	 ([ahead][next])
+I(9 12): 1.634230136871338	 ([next][election.])
+I(3 4): 1.6111016273498535	 ([leaders][clash])
+I(0 12): 1.5896377563476562	 ([australia's][election.])
+I(0 5): -1.5313735008239746	 ([australia's][country's])
+I(2 6): -1.527242660522461	 ([political][role])
+I(4 9): 1.5113563537597656	 ([clash][next])
+I(5 9): 1.496870994567871	 ([country's][next])
+I(6 8): 1.4088268280029297	 ([role][ahead])
+I(2 8): -1.369764804840088	 ([political][ahead])
+I(2 12): -1.309708595275879	 ([political][election.])
+I(4 12): 1.261854648590088	 ([clash][election.])
+I(2 3): -1.2384757995605469	 ([political][leaders])
+I(5 11): 1.2321419715881348	 ([country's][general])
+I(0 4): -1.2180075645446777	 ([australia's][clash])
+I(3 10): 1.2066764831542969	 ([leaders][month's])
+I(7 8): -1.070180892944336	 ([iraq,][ahead])
+I(2 9): 0.9762740135192871	 ([political][next])
+I(4 5): -0.9468541145324707	 ([clash][country's])
+I(3 8): 0.8737955093383789	 ([leaders][ahead])
+I(5 8): 0.8438796997070312	 ([country's][ahead])
+I(4 6): 0.7942924499511719	 ([clash][role])
+I(0 2): 0.7487955093383789	 ([australia's][political])
+I(1 3): 0.7354321479797363	 ([main][leaders])
+I(0 1): 0.6752252578735352	 ([australia's][main])
+I(0 6): 0.6700301170349121	 ([australia's][role])
+I(6 7): 0.646784782409668	 ([role][iraq,])
+I(4 10): 0.583427906036377	 ([clash][month's])
+I(8 11): -0.5761208534240723	 ([ahead][general])
+I(1 2): 0.5332365036010742	 ([main][political])
+I(1 6): 0.453737735748291	 ([main][role])
+I(0 11): 0.438323974609375	 ([australia's][general])
+I(1 4): -0.4249577522277832	 ([main][clash])
+I(1 9): 0.3834519386291504	 ([main][next])
+I(4 7): 0.3765754699707031	 ([clash][iraq,])
+I(6 12): -0.37450599670410156	 ([role][election.])
+Sum: 68.83715343475342
+==================================================

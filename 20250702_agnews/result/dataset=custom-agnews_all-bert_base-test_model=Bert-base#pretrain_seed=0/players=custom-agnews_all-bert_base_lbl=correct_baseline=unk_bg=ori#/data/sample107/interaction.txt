@@ -1,0 +1,19 @@
+---------- Players ----------
+Player 0: upcoming
+Player 1: gartner
+Player 2: study
+Player 3: spending
+Player 4: offshoring.
+---------- AND Interactions (Pairwise Only) ----------
+I(2 3): 3.7899699211120605	 ([study][spending])
+I(1 3): 3.2318599224090576	 ([gartner][spending])
+I(3 4): 2.533339738845825	 ([spending][offshoring.])
+I(0 3): 2.4781525135040283	 ([upcoming][spending])
+I(2 4): -1.970339298248291	 ([study][offshoring.])
+I(1 2): -1.6221494674682617	 ([gartner][study])
+I(1 4): -1.5964727401733398	 ([gartner][offshoring.])
+I(0 2): -1.47300386428833	 ([upcoming][study])
+I(0 4): -1.4363350868225098	 ([upcoming][offshoring.])
+I(0 1): -1.3991098403930664	 ([upcoming][gartner])
+Sum: 6.205076694488525
+==================================================

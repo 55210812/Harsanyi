@@ -1,0 +1,34 @@
+Execution time: 2025-07-02 17:34:36
+prompt: [CLS] afp - a british tourist flight travelling to paris turned back shortly after take - off when the plane struck a bird. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:21358 decoded_text: af
+idx:2 input_id:2361 decoded_text: ##p
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:1037 decoded_text: a
+idx:5 input_id:2329 decoded_text: british
+idx:6 input_id:7538 decoded_text: tourist
+idx:7 input_id:3462 decoded_text: flight
+idx:8 input_id:8932 decoded_text: travelling
+idx:9 input_id:2000 decoded_text: to
+idx:10 input_id:3000 decoded_text: paris
+idx:11 input_id:2357 decoded_text: turned
+idx:12 input_id:2067 decoded_text: back
+idx:13 input_id:3859 decoded_text: shortly
+idx:14 input_id:2044 decoded_text: after
+idx:15 input_id:2202 decoded_text: take
+idx:16 input_id:1011 decoded_text: -
+idx:17 input_id:2125 decoded_text: off
+idx:18 input_id:2043 decoded_text: when
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:4946 decoded_text: plane
+idx:21 input_id:4930 decoded_text: struck
+idx:22 input_id:1037 decoded_text: a
+idx:23 input_id:4743 decoded_text: bird
+idx:24 input_id:1012 decoded_text: .
+idx:25 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.090098857879639, -2.4249658584594727, -2.361415147781372, -2.08788800239563]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

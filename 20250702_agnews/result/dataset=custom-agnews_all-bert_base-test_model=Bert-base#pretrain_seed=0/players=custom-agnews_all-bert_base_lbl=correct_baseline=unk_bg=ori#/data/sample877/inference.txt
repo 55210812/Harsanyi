@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 17:55:30
+prompt: [CLS] baghdad ( reuters ) - u. s. warplanes bombed targets in iraq's rebel - held city of falluja friday, marking a violent start to the holy muslim fasting month of ramadan. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:13952 decoded_text: baghdad
+idx:2 input_id:1006 decoded_text: (
+idx:3 input_id:26665 decoded_text: reuters
+idx:4 input_id:1007 decoded_text: )
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:1057 decoded_text: u
+idx:7 input_id:1012 decoded_text: .
+idx:8 input_id:1055 decoded_text: s
+idx:9 input_id:1012 decoded_text: .
+idx:10 input_id:24136 decoded_text: warp
+idx:11 input_id:20644 decoded_text: ##lane
+idx:12 input_id:2015 decoded_text: ##s
+idx:13 input_id:18897 decoded_text: bombed
+idx:14 input_id:7889 decoded_text: targets
+idx:15 input_id:1999 decoded_text: in
+idx:16 input_id:5712 decoded_text: iraq
+idx:17 input_id:1005 decoded_text: '
+idx:18 input_id:1055 decoded_text: s
+idx:19 input_id:8443 decoded_text: rebel
+idx:20 input_id:1011 decoded_text: -
+idx:21 input_id:2218 decoded_text: held
+idx:22 input_id:2103 decoded_text: city
+idx:23 input_id:1997 decoded_text: of
+idx:24 input_id:2991 decoded_text: fall
+idx:25 input_id:23049 decoded_text: ##uj
+idx:26 input_id:2050 decoded_text: ##a
+idx:27 input_id:5958 decoded_text: friday
+idx:28 input_id:1010 decoded_text: ,
+idx:29 input_id:10060 decoded_text: marking
+idx:30 input_id:1037 decoded_text: a
+idx:31 input_id:6355 decoded_text: violent
+idx:32 input_id:2707 decoded_text: start
+idx:33 input_id:2000 decoded_text: to
+idx:34 input_id:1996 decoded_text: the
+idx:35 input_id:4151 decoded_text: holy
+idx:36 input_id:5152 decoded_text: muslim
+idx:37 input_id:3435 decoded_text: fast
+idx:38 input_id:2075 decoded_text: ##ing
+idx:39 input_id:3204 decoded_text: month
+idx:40 input_id:1997 decoded_text: of
+idx:41 input_id:14115 decoded_text: rama
+idx:42 input_id:7847 decoded_text: ##dan
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.109842777252197, -1.8335322141647339, -2.5366623401641846, -2.4286818504333496]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

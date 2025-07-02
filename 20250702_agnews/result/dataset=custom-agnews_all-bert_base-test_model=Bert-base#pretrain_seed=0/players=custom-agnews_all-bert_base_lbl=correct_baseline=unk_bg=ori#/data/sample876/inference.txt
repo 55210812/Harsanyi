@@ -1,0 +1,42 @@
+Execution time: 2025-07-02 17:55:30
+prompt: [CLS] the main opposition party in bangladesh has called for another nationwide strike to protest a deadly grenade attack at a party rally in the capital, dhaka, eight days ago. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2364 decoded_text: main
+idx:3 input_id:4559 decoded_text: opposition
+idx:4 input_id:2283 decoded_text: party
+idx:5 input_id:1999 decoded_text: in
+idx:6 input_id:7269 decoded_text: bangladesh
+idx:7 input_id:2038 decoded_text: has
+idx:8 input_id:2170 decoded_text: called
+idx:9 input_id:2005 decoded_text: for
+idx:10 input_id:2178 decoded_text: another
+idx:11 input_id:9053 decoded_text: nationwide
+idx:12 input_id:4894 decoded_text: strike
+idx:13 input_id:2000 decoded_text: to
+idx:14 input_id:6186 decoded_text: protest
+idx:15 input_id:1037 decoded_text: a
+idx:16 input_id:9252 decoded_text: deadly
+idx:17 input_id:17038 decoded_text: grenade
+idx:18 input_id:2886 decoded_text: attack
+idx:19 input_id:2012 decoded_text: at
+idx:20 input_id:1037 decoded_text: a
+idx:21 input_id:2283 decoded_text: party
+idx:22 input_id:8320 decoded_text: rally
+idx:23 input_id:1999 decoded_text: in
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:3007 decoded_text: capital
+idx:26 input_id:1010 decoded_text: ,
+idx:27 input_id:16479 decoded_text: dhaka
+idx:28 input_id:1010 decoded_text: ,
+idx:29 input_id:2809 decoded_text: eight
+idx:30 input_id:2420 decoded_text: days
+idx:31 input_id:3283 decoded_text: ago
+idx:32 input_id:1012 decoded_text: .
+idx:33 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.807684421539307, -1.6645994186401367, -2.940535545349121, -1.9262324571609497]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

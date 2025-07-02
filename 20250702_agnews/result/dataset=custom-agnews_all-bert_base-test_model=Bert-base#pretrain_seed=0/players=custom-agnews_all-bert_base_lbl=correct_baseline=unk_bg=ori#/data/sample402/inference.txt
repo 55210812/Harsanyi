@@ -1,0 +1,51 @@
+Execution time: 2025-07-02 17:33:48
+prompt: [CLS] pakistan news, islamabad / karachi : preparations are in full swing across pakistan for the muslim festival of eid - ul - fitr. the festival is expected to fall on november 14 or 15 in pakistan. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4501 decoded_text: pakistan
+idx:2 input_id:2739 decoded_text: news
+idx:3 input_id:1010 decoded_text: ,
+idx:4 input_id:26905 decoded_text: islamabad
+idx:5 input_id:1013 decoded_text: /
+idx:6 input_id:15381 decoded_text: karachi
+idx:7 input_id:1024 decoded_text: :
+idx:8 input_id:12929 decoded_text: preparations
+idx:9 input_id:2024 decoded_text: are
+idx:10 input_id:1999 decoded_text: in
+idx:11 input_id:2440 decoded_text: full
+idx:12 input_id:7370 decoded_text: swing
+idx:13 input_id:2408 decoded_text: across
+idx:14 input_id:4501 decoded_text: pakistan
+idx:15 input_id:2005 decoded_text: for
+idx:16 input_id:1996 decoded_text: the
+idx:17 input_id:5152 decoded_text: muslim
+idx:18 input_id:2782 decoded_text: festival
+idx:19 input_id:1997 decoded_text: of
+idx:20 input_id:1041 decoded_text: e
+idx:21 input_id:3593 decoded_text: ##id
+idx:22 input_id:1011 decoded_text: -
+idx:23 input_id:17359 decoded_text: ul
+idx:24 input_id:1011 decoded_text: -
+idx:25 input_id:4906 decoded_text: fit
+idx:26 input_id:2099 decoded_text: ##r
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:1996 decoded_text: the
+idx:29 input_id:2782 decoded_text: festival
+idx:30 input_id:2003 decoded_text: is
+idx:31 input_id:3517 decoded_text: expected
+idx:32 input_id:2000 decoded_text: to
+idx:33 input_id:2991 decoded_text: fall
+idx:34 input_id:2006 decoded_text: on
+idx:35 input_id:2281 decoded_text: november
+idx:36 input_id:2403 decoded_text: 14
+idx:37 input_id:2030 decoded_text: or
+idx:38 input_id:2321 decoded_text: 15
+idx:39 input_id:1999 decoded_text: in
+idx:40 input_id:4501 decoded_text: pakistan
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.973936080932617, -1.8918620347976685, -2.260634660720825, -2.664989948272705]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

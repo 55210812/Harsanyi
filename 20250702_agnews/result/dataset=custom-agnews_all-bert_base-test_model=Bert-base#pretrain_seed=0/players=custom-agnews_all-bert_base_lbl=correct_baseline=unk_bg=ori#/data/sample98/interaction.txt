@@ -1,0 +1,77 @@
+---------- Players ----------
+Player 0: larry
+Player 1: bowa
+Player 2: fired
+Player 3: manager
+Player 4: philadelphia
+Player 5: phillies
+Player 6: saturday,
+Player 7: day
+Player 8: end
+Player 9: yet
+Player 10: another
+Player 11: disappointing
+Player 12: year.
+---------- AND Interactions (Pairwise Only) ----------
+I(4 5): -9.803142547607422	 ([philadelphia][phillies])
+I(3 5): -6.790498733520508	 ([manager][phillies])
+I(3 4): -5.806846618652344	 ([manager][philadelphia])
+I(2 6): -4.5028181076049805	 ([fired][saturday,])
+I(1 6): -4.24179744720459	 ([bowa][saturday,])
+I(0 1): 4.193782806396484	 ([larry][bowa])
+I(2 7): -4.163801670074463	 ([fired][day])
+I(4 7): -3.6930713653564453	 ([philadelphia][day])
+I(4 12): -3.6414175033569336	 ([philadelphia][year.])
+I(2 12): -3.6355226039886475	 ([fired][year.])
+I(6 7): -2.795821189880371	 ([saturday,][day])
+I(0 5): -2.788543701171875	 ([larry][phillies])
+I(1 4): 2.718221664428711	 ([bowa][philadelphia])
+I(0 6): -2.5876669883728027	 ([larry][saturday,])
+I(1 2): -2.56201434135437	 ([bowa][fired])
+I(2 5): -2.5158157348632812	 ([fired][phillies])
+I(5 6): -2.507478713989258	 ([phillies][saturday,])
+I(6 12): -2.4098424911499023	 ([saturday,][year.])
+I(4 6): -2.2482948303222656	 ([philadelphia][saturday,])
+I(0 4): -2.2363510131835938	 ([larry][philadelphia])
+I(3 7): -2.2311172485351562	 ([manager][day])
+I(10 11): 2.204207420349121	 ([another][disappointing])
+I(2 4): -1.9885368347167969	 ([fired][philadelphia])
+I(4 11): 1.9629087448120117	 ([philadelphia][disappointing])
+I(5 7): -1.9224872589111328	 ([phillies][day])
+I(5 12): -1.9121456146240234	 ([phillies][year.])
+I(1 12): -1.8303313255310059	 ([bowa][year.])
+I(0 3): -1.8124275207519531	 ([larry][manager])
+I(3 6): -1.6675777435302734	 ([manager][saturday,])
+I(9 11): 1.6305599212646484	 ([yet][disappointing])
+I(3 12): -1.5785045623779297	 ([manager][year.])
+I(3 11): 1.4978351593017578	 ([manager][disappointing])
+I(4 8): 1.3968877792358398	 ([philadelphia][end])
+I(7 12): -1.3448517322540283	 ([day][year.])
+I(5 11): 1.325789451599121	 ([phillies][disappointing])
+I(2 3): -1.2911310195922852	 ([fired][manager])
+I(1 7): -1.2387797832489014	 ([bowa][day])
+I(7 10): -1.2156083583831787	 ([day][another])
+I(7 9): -1.14748215675354	 ([day][yet])
+I(5 8): 1.0888938903808594	 ([phillies][end])
+I(6 8): 1.0523591041564941	 ([saturday,][end])
+I(6 11): -0.9705915451049805	 ([saturday,][disappointing])
+I(1 5): 0.9511117935180664	 ([bowa][phillies])
+I(0 7): -0.9325618743896484	 ([larry][day])
+I(9 10): 0.9243311882019043	 ([yet][another])
+I(11 12): 0.8034000396728516	 ([disappointing][year.])
+I(2 11): 0.7100675106048584	 ([fired][disappointing])
+I(2 8): 0.7055947780609131	 ([fired][end])
+I(6 9): 0.6926045417785645	 ([saturday,][yet])
+I(0 11): 0.6473774909973145	 ([larry][disappointing])
+I(3 10): 0.6307058334350586	 ([manager][another])
+I(0 12): -0.5586028099060059	 ([larry][year.])
+I(3 8): 0.5515632629394531	 ([manager][end])
+I(1 10): -0.5504627227783203	 ([bowa][another])
+I(0 10): 0.5039691925048828	 ([larry][another])
+I(1 11): -0.4973130226135254	 ([bowa][disappointing])
+I(2 9): 0.4957275390625	 ([fired][yet])
+I(5 9): 0.48140525817871094	 ([phillies][yet])
+I(5 10): 0.42679405212402344	 ([phillies][another])
+I(4 10): 0.33384132385253906	 ([philadelphia][another])
+Sum: -16.34773588180542
+==================================================

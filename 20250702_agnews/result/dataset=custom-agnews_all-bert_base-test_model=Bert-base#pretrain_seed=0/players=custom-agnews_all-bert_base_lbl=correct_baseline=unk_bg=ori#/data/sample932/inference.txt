@@ -1,0 +1,37 @@
+Execution time: 2025-07-02 17:57:48
+prompt: [CLS] everton midfielder tim cahill could win a reprieve within the next 48 hours after a dramatic intervention from fifa over his controversial dismissal. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:18022 decoded_text: everton
+idx:2 input_id:8850 decoded_text: midfielder
+idx:3 input_id:5199 decoded_text: tim
+idx:4 input_id:6187 decoded_text: ca
+idx:5 input_id:7100 decoded_text: ##hill
+idx:6 input_id:2071 decoded_text: could
+idx:7 input_id:2663 decoded_text: win
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:16360 decoded_text: rep
+idx:10 input_id:7373 decoded_text: ##rie
+idx:11 input_id:3726 decoded_text: ##ve
+idx:12 input_id:2306 decoded_text: within
+idx:13 input_id:1996 decoded_text: the
+idx:14 input_id:2279 decoded_text: next
+idx:15 input_id:4466 decoded_text: 48
+idx:16 input_id:2847 decoded_text: hours
+idx:17 input_id:2044 decoded_text: after
+idx:18 input_id:1037 decoded_text: a
+idx:19 input_id:6918 decoded_text: dramatic
+idx:20 input_id:8830 decoded_text: intervention
+idx:21 input_id:2013 decoded_text: from
+idx:22 input_id:5713 decoded_text: fifa
+idx:23 input_id:2058 decoded_text: over
+idx:24 input_id:2010 decoded_text: his
+idx:25 input_id:6801 decoded_text: controversial
+idx:26 input_id:15322 decoded_text: dismissal
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.2294334173202515, 8.442432403564453, -2.9540934562683105, -2.7235169410705566]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

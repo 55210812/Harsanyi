@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 17:17:34
+prompt: [CLS] the cuban government freed another jailed opponent yesterday, the sixth dissident released this week in a move widely seen as an attempt to repair relations with the european union. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:9642 decoded_text: cuban
+idx:3 input_id:2231 decoded_text: government
+idx:4 input_id:10650 decoded_text: freed
+idx:5 input_id:2178 decoded_text: another
+idx:6 input_id:21278 decoded_text: jailed
+idx:7 input_id:7116 decoded_text: opponent
+idx:8 input_id:7483 decoded_text: yesterday
+idx:9 input_id:1010 decoded_text: ,
+idx:10 input_id:1996 decoded_text: the
+idx:11 input_id:4369 decoded_text: sixth
+idx:12 input_id:4487 decoded_text: di
+idx:13 input_id:18719 decoded_text: ##ssi
+idx:14 input_id:16454 decoded_text: ##dent
+idx:15 input_id:2207 decoded_text: released
+idx:16 input_id:2023 decoded_text: this
+idx:17 input_id:2733 decoded_text: week
+idx:18 input_id:1999 decoded_text: in
+idx:19 input_id:1037 decoded_text: a
+idx:20 input_id:2693 decoded_text: move
+idx:21 input_id:4235 decoded_text: widely
+idx:22 input_id:2464 decoded_text: seen
+idx:23 input_id:2004 decoded_text: as
+idx:24 input_id:2019 decoded_text: an
+idx:25 input_id:3535 decoded_text: attempt
+idx:26 input_id:2000 decoded_text: to
+idx:27 input_id:7192 decoded_text: repair
+idx:28 input_id:4262 decoded_text: relations
+idx:29 input_id:2007 decoded_text: with
+idx:30 input_id:1996 decoded_text: the
+idx:31 input_id:2647 decoded_text: european
+idx:32 input_id:2586 decoded_text: union
+idx:33 input_id:1012 decoded_text: .
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.849708080291748, -2.026120662689209, -3.0519423484802246, -1.4918358325958252]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

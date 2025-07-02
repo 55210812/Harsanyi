@@ -1,0 +1,95 @@
+---------- Players ----------
+Player 0: despite
+Player 1: published
+Player 2: report
+Player 3: contrary,
+Player 4: yankees
+Player 5: come
+Player 6: terms
+Player 7: jaret
+Player 8: wright
+Player 9: tuesday
+Player 10: night,
+Player 11: bronx
+Player 12: bombers
+Player 13: move
+Player 14: quickly
+Player 15: replace
+---------- AND Interactions (Pairwise Only) ----------
+I(4 11): -11.670401573181152	 ([yankees][bronx])
+I(7 8): 9.013611793518066	 ([jaret][wright])
+I(2 12): -5.613153457641602	 ([report][bombers])
+I(2 11): -4.720868110656738	 ([report][bronx])
+I(4 8): -4.2698163986206055	 ([yankees][wright])
+I(10 12): -4.263901233673096	 ([night,][bombers])
+I(6 8): 3.6630382537841797	 ([terms][wright])
+I(12 14): -3.564915418624878	 ([bombers][quickly])
+I(4 12): -3.2733564376831055	 ([yankees][bombers])
+I(6 11): -3.1431732177734375	 ([terms][bronx])
+I(9 12): -3.0751304626464844	 ([tuesday][bombers])
+I(0 12): -2.9793708324432373	 ([despite][bombers])
+I(8 10): 2.9774484634399414	 ([wright][night,])
+I(9 11): -2.7410497665405273	 ([tuesday][bronx])
+I(1 11): -2.7217159271240234	 ([published][bronx])
+I(4 9): -2.7065982818603516	 ([yankees][tuesday])
+I(8 11): -2.341212272644043	 ([wright][bronx])
+I(12 13): -2.3210761547088623	 ([bombers][move])
+I(2 10): -2.1030545234680176	 ([report][night,])
+I(2 8): -1.9800708293914795	 ([report][wright])
+I(0 11): -1.8181228637695312	 ([despite][bronx])
+I(3 11): 1.7660703659057617	 ([contrary,][bronx])
+I(4 7): 1.6091184616088867	 ([yankees][jaret])
+I(4 10): -1.5601158142089844	 ([yankees][night,])
+I(3 8): 1.5547237396240234	 ([contrary,][wright])
+I(2 4): -1.540787696838379	 ([report][yankees])
+I(7 9): -1.4350683689117432	 ([jaret][tuesday])
+I(1 10): -1.4233314990997314	 ([published][night,])
+I(2 9): -1.3821725845336914	 ([report][tuesday])
+I(6 12): -1.3698408603668213	 ([terms][bombers])
+I(3 12): -1.3668577671051025	 ([contrary,][bombers])
+I(0 8): -1.2818078994750977	 ([despite][wright])
+I(1 9): -1.271759271621704	 ([published][tuesday])
+I(7 11): 1.2470426559448242	 ([jaret][bronx])
+I(1 8): -1.1906118392944336	 ([published][wright])
+I(12 15): -1.123974084854126	 ([bombers][replace])
+I(2 5): -1.103370189666748	 ([report][come])
+I(1 2): 1.0656087398529053	 ([published][report])
+I(2 15): -1.0132694244384766	 ([report][replace])
+I(8 13): -0.9960610866546631	 ([wright][move])
+I(8 12): 0.9867124557495117	 ([wright][bombers])
+I(13 15): 0.9746098518371582	 ([move][replace])
+I(2 3): 0.9296925067901611	 ([report][contrary,])
+I(0 4): -0.9065456390380859	 ([despite][yankees])
+I(10 15): -0.8909423351287842	 ([night,][replace])
+I(6 10): -0.8879168033599854	 ([terms][night,])
+I(11 13): 0.8667688369750977	 ([bronx][move])
+I(9 13): -0.8365118503570557	 ([tuesday][move])
+I(5 10): -0.8185532093048096	 ([come][night,])
+I(10 11): -0.807429313659668	 ([night,][bronx])
+I(5 6): -0.792686939239502	 ([come][terms])
+I(4 13): 0.7849512100219727	 ([yankees][move])
+I(2 14): -0.7478733062744141	 ([report][quickly])
+I(2 6): -0.6993217468261719	 ([report][terms])
+I(4 15): 0.6821689605712891	 ([yankees][replace])
+I(9 10): -0.6695659160614014	 ([tuesday][night,])
+I(4 6): -0.6690864562988281	 ([yankees][terms])
+I(9 15): -0.5941693782806396	 ([tuesday][replace])
+I(5 11): -0.5803279876708984	 ([come][bronx])
+I(10 13): -0.564683198928833	 ([night,][move])
+I(2 13): -0.5548100471496582	 ([report][move])
+I(13 14): -0.5342879295349121	 ([move][quickly])
+I(8 9): 0.528468132019043	 ([wright][tuesday])
+I(0 3): -0.5101184844970703	 ([despite][contrary,])
+I(5 14): -0.48558568954467773	 ([come][quickly])
+I(9 14): -0.4727153778076172	 ([tuesday][quickly])
+I(8 15): -0.4547109603881836	 ([wright][replace])
+I(0 5): -0.4464397430419922	 ([despite][come])
+I(0 10): -0.44260239601135254	 ([despite][night,])
+I(10 14): -0.44078731536865234	 ([night,][quickly])
+I(2 7): -0.43726587295532227	 ([report][jaret])
+I(0 9): -0.43363499641418457	 ([despite][tuesday])
+I(1 13): -0.4164118766784668	 ([published][move])
+I(7 13): 0.3804206848144531	 ([jaret][move])
+I(5 9): -0.3692209720611572	 ([come][tuesday])
+Sum: -32.680716037750244
+==================================================

@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 17:51:14
+prompt: [CLS] cisco systems is shaking up its network management with the release of two new switches. aimed at mid - sized enterprises, the switches acknowledge that there are large numbers of people who are not confident [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26408 decoded_text: cisco
+idx:2 input_id:3001 decoded_text: systems
+idx:3 input_id:2003 decoded_text: is
+idx:4 input_id:5513 decoded_text: shaking
+idx:5 input_id:2039 decoded_text: up
+idx:6 input_id:2049 decoded_text: its
+idx:7 input_id:2897 decoded_text: network
+idx:8 input_id:2968 decoded_text: management
+idx:9 input_id:2007 decoded_text: with
+idx:10 input_id:1996 decoded_text: the
+idx:11 input_id:2713 decoded_text: release
+idx:12 input_id:1997 decoded_text: of
+idx:13 input_id:2048 decoded_text: two
+idx:14 input_id:2047 decoded_text: new
+idx:15 input_id:15924 decoded_text: switches
+idx:16 input_id:1012 decoded_text: .
+idx:17 input_id:6461 decoded_text: aimed
+idx:18 input_id:2012 decoded_text: at
+idx:19 input_id:3054 decoded_text: mid
+idx:20 input_id:1011 decoded_text: -
+idx:21 input_id:7451 decoded_text: sized
+idx:22 input_id:9926 decoded_text: enterprises
+idx:23 input_id:1010 decoded_text: ,
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:15924 decoded_text: switches
+idx:26 input_id:13399 decoded_text: acknowledge
+idx:27 input_id:2008 decoded_text: that
+idx:28 input_id:2045 decoded_text: there
+idx:29 input_id:2024 decoded_text: are
+idx:30 input_id:2312 decoded_text: large
+idx:31 input_id:3616 decoded_text: numbers
+idx:32 input_id:1997 decoded_text: of
+idx:33 input_id:2111 decoded_text: people
+idx:34 input_id:2040 decoded_text: who
+idx:35 input_id:2024 decoded_text: are
+idx:36 input_id:2025 decoded_text: not
+idx:37 input_id:9657 decoded_text: confident
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.828307867050171, -3.342829942703247, -0.034017715603113174, 6.8190741539001465]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

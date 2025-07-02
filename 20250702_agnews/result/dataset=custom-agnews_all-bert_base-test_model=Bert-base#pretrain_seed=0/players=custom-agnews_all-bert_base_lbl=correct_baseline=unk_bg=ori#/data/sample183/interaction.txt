@@ -1,0 +1,86 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: sudan
+Player 3: said
+Player 4: wednesday
+Player 5: closed
+Player 6: embassy
+Player 7: washington
+Player 8: unable
+Player 9: find
+Player 10: bank
+Player 11: would
+Player 12: handle
+Player 13: financial
+Player 14: matters.
+---------- AND Interactions (Pairwise Only) ----------
+I(2 6): -6.723757743835449	 ([sudan][embassy])
+I(4 10): -4.152842044830322	 ([wednesday][bank])
+I(0 13): 4.0360636711120605	 ([ap][financial])
+I(4 13): -4.019705295562744	 ([wednesday][financial])
+I(4 6): -3.5793285369873047	 ([wednesday][embassy])
+I(0 6): 3.204024314880371	 ([ap][embassy])
+I(0 10): 3.1491527557373047	 ([ap][bank])
+I(2 3): 3.1347270011901855	 ([sudan][said])
+I(2 7): 3.123699188232422	 ([sudan][washington])
+I(4 7): -3.121734619140625	 ([wednesday][washington])
+I(2 10): 2.1513051986694336	 ([sudan][bank])
+I(7 10): -2.134441375732422	 ([washington][bank])
+I(6 10): -2.007521629333496	 ([embassy][bank])
+I(13 14): 2.006964921951294	 ([financial][matters.])
+I(6 13): -1.9824414253234863	 ([embassy][financial])
+I(4 5): -1.7649312019348145	 ([wednesday][closed])
+I(2 8): 1.6843490600585938	 ([sudan][unable])
+I(3 4): 1.6714096069335938	 ([said][wednesday])
+I(12 13): 1.5084762573242188	 ([handle][financial])
+I(6 12): 1.4852423667907715	 ([embassy][handle])
+I(10 12): 1.4491944313049316	 ([bank][handle])
+I(0 4): -1.4229488372802734	 ([ap][wednesday])
+I(3 13): 1.4033241271972656	 ([said][financial])
+I(7 13): -1.3970742225646973	 ([washington][financial])
+I(3 6): 1.3805732727050781	 ([said][embassy])
+I(2 13): 1.370561122894287	 ([sudan][financial])
+I(3 10): 1.321469783782959	 ([said][bank])
+I(6 9): 1.3123440742492676	 ([embassy][find])
+I(0 7): 1.0815038681030273	 ([ap][washington])
+I(10 14): 0.9910540580749512	 ([bank][matters.])
+I(8 9): 0.935880184173584	 ([unable][find])
+I(5 7): -0.9322066307067871	 ([closed][washington])
+I(0 12): 0.9000792503356934	 ([ap][handle])
+I(0 9): 0.873405933380127	 ([ap][find])
+I(6 7): 0.8092794418334961	 ([embassy][washington])
+I(7 8): 0.8080587387084961	 ([washington][unable])
+I(2 4): 0.7899961471557617	 ([sudan][wednesday])
+I(7 9): 0.7898411750793457	 ([washington][find])
+I(11 13): 0.7856359481811523	 ([would][financial])
+I(12 14): 0.7798094749450684	 ([handle][matters.])
+I(9 10): 0.7657990455627441	 ([find][bank])
+I(2 12): -0.7175741195678711	 ([sudan][handle])
+I(6 8): 0.6879463195800781	 ([embassy][unable])
+I(3 7): 0.643226146697998	 ([said][washington])
+I(1 13): 0.6323871612548828	 ([-][financial])
+I(5 12): -0.6198930740356445	 ([closed][handle])
+I(3 8): 0.5587067604064941	 ([said][unable])
+I(5 6): -0.5557537078857422	 ([closed][embassy])
+I(0 3): 0.5488781929016113	 ([ap][said])
+I(0 5): -0.5430655479431152	 ([ap][closed])
+I(3 9): 0.5335016250610352	 ([said][find])
+I(11 12): 0.5016956329345703	 ([would][handle])
+I(0 2): 0.4721822738647461	 ([ap][sudan])
+I(2 14): -0.4674816131591797	 ([sudan][matters.])
+I(9 11): -0.4628410339355469	 ([find][would])
+I(5 10): -0.4401273727416992	 ([closed][bank])
+I(5 14): -0.43662548065185547	 ([closed][matters.])
+I(9 14): 0.4051227569580078	 ([find][matters.])
+I(5 13): -0.3872828483581543	 ([closed][financial])
+I(1 10): 0.38028860092163086	 ([-][bank])
+I(8 10): 0.3613314628601074	 ([unable][bank])
+I(10 11): 0.3533177375793457	 ([bank][would])
+I(8 14): -0.3494386672973633	 ([unable][matters.])
+I(3 12): 0.33949995040893555	 ([said][handle])
+I(0 8): 0.33701419830322266	 ([ap][unable])
+I(10 13): -0.3348836898803711	 ([bank][financial])
+I(1 3): 0.33182239532470703	 ([-][said])
+Sum: 30.71035933494568
+==================================================

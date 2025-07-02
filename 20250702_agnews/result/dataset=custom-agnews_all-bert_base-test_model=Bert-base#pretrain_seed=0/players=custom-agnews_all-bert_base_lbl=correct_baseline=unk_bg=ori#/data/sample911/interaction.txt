@@ -1,0 +1,94 @@
+---------- Players ----------
+Player 0: house - senate
+Player 1: conference
+Player 2: committee
+Player 3: thursday
+Player 4: agreed
+Player 5: legislation
+Player 6: extend
+Player 7: key
+Player 8: components
+Player 9: bush
+Player 10: tax
+Player 11: cuts
+Player 12: six
+Player 13: years.
+---------- AND Interactions (Pairwise Only) ----------
+I(5 10): -5.009035110473633	 ([legislation][tax])
+I(4 5): -4.83812141418457	 ([agreed][legislation])
+I(4 10): -4.314651012420654	 ([agreed][tax])
+I(0 5): -3.7408103942871094	 ([house - senate][legislation])
+I(4 11): 3.108504295349121	 ([agreed][cuts])
+I(11 13): 2.8956592082977295	 ([cuts][years.])
+I(1 4): -2.8647618293762207	 ([conference][agreed])
+I(5 9): -2.856135845184326	 ([legislation][bush])
+I(3 4): -2.7448673248291016	 ([thursday][agreed])
+I(0 8): 2.6500487327575684	 ([house - senate][components])
+I(2 11): 2.2959203720092773	 ([committee][cuts])
+I(0 6): 2.249788761138916	 ([house - senate][extend])
+I(0 11): 2.245328426361084	 ([house - senate][cuts])
+I(6 10): 2.2124252319335938	 ([extend][tax])
+I(0 3): -2.127295970916748	 ([house - senate][thursday])
+I(0 4): -2.0522637367248535	 ([house - senate][agreed])
+I(1 11): 2.0489449501037598	 ([conference][cuts])
+I(10 11): 2.032864570617676	 ([tax][cuts])
+I(3 10): -1.992966651916504	 ([thursday][tax])
+I(6 9): 1.9820027351379395	 ([extend][bush])
+I(8 10): 1.9414262771606445	 ([components][tax])
+I(3 5): -1.902881145477295	 ([thursday][legislation])
+I(2 4): -1.8546733856201172	 ([committee][agreed])
+I(0 7): 1.816408634185791	 ([house - senate][key])
+I(5 8): 1.7538375854492188	 ([legislation][components])
+I(3 11): 1.723106861114502	 ([thursday][cuts])
+I(1 6): 1.689719796180725	 ([conference][extend])
+I(2 3): -1.6529231071472168	 ([committee][thursday])
+I(5 6): 1.6442911624908447	 ([legislation][extend])
+I(1 3): -1.591123104095459	 ([conference][thursday])
+I(4 6): 1.4103517532348633	 ([agreed][extend])
+I(7 11): 1.3973135948181152	 ([key][cuts])
+I(7 13): 1.3880468606948853	 ([key][years.])
+I(1 5): -1.3841235637664795	 ([conference][legislation])
+I(2 5): -1.374767780303955	 ([committee][legislation])
+I(0 2): 1.289194107055664	 ([house - senate][committee])
+I(1 2): 1.2664685249328613	 ([conference][committee])
+I(0 9): 1.1966652870178223	 ([house - senate][bush])
+I(1 10): -1.1284198760986328	 ([conference][tax])
+I(1 13): 1.108120322227478	 ([conference][years.])
+I(11 12): 1.0942007303237915	 ([cuts][six])
+I(9 10): 1.0837793350219727	 ([bush][tax])
+I(8 11): 0.9875640869140625	 ([components][cuts])
+I(2 6): 0.9247117042541504	 ([committee][extend])
+I(3 13): 0.9214910268783569	 ([thursday][years.])
+I(6 12): 0.7782701253890991	 ([extend][six])
+I(7 12): 0.7512000799179077	 ([key][six])
+I(6 11): 0.7195529937744141	 ([extend][cuts])
+I(12 13): -0.7022055387496948	 ([six][years.])
+I(8 9): 0.6487507820129395	 ([components][bush])
+I(6 13): 0.6154237985610962	 ([extend][years.])
+I(2 7): -0.6007251739501953	 ([committee][key])
+I(4 12): -0.5922815799713135	 ([agreed][six])
+I(10 13): 0.5864439010620117	 ([tax][years.])
+I(3 9): -0.5752638578414917	 ([thursday][bush])
+I(4 8): 0.5698699951171875	 ([agreed][components])
+I(6 8): 0.5465350151062012	 ([extend][components])
+I(4 9): -0.53956139087677	 ([agreed][bush])
+I(3 7): -0.5294398069381714	 ([thursday][key])
+I(7 8): 0.5193827152252197	 ([key][components])
+I(2 13): 0.5162652730941772	 ([committee][years.])
+I(5 13): -0.4989585876464844	 ([legislation][years.])
+I(7 10): 0.4873991012573242	 ([key][tax])
+I(0 13): 0.48685455322265625	 ([house - senate][years.])
+I(1 8): 0.4291565418243408	 ([conference][components])
+I(9 11): 0.4266805648803711	 ([bush][cuts])
+I(2 12): -0.4044400453567505	 ([committee][six])
+I(3 12): -0.4040029048919678	 ([thursday][six])
+I(1 12): -0.39862143993377686	 ([conference][six])
+I(5 12): 0.3537435531616211	 ([legislation][six])
+I(8 12): 0.3439732789993286	 ([components][six])
+I(0 10): 0.31847620010375977	 ([house - senate][tax])
+I(9 13): 0.2784367799758911	 ([bush][years.])
+I(8 13): 0.26187729835510254	 ([components][years.])
+I(3 6): 0.2392517328262329	 ([thursday][extend])
+I(2 8): -0.23915815353393555	 ([committee][components])
+Sum: 9.00279176235199
+==================================================

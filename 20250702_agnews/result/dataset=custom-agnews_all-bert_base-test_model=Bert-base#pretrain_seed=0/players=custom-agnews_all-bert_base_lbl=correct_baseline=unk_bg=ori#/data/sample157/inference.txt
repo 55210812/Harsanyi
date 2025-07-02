@@ -1,0 +1,33 @@
+Execution time: 2025-07-02 17:23:37
+prompt: [CLS] microsoft corp. is planning to launch its own web search engine on thursday, according to several reports published tuesday evening. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:7513 decoded_text: microsoft
+idx:2 input_id:13058 decoded_text: corp
+idx:3 input_id:1012 decoded_text: .
+idx:4 input_id:2003 decoded_text: is
+idx:5 input_id:4041 decoded_text: planning
+idx:6 input_id:2000 decoded_text: to
+idx:7 input_id:4888 decoded_text: launch
+idx:8 input_id:2049 decoded_text: its
+idx:9 input_id:2219 decoded_text: own
+idx:10 input_id:4773 decoded_text: web
+idx:11 input_id:3945 decoded_text: search
+idx:12 input_id:3194 decoded_text: engine
+idx:13 input_id:2006 decoded_text: on
+idx:14 input_id:9432 decoded_text: thursday
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:2429 decoded_text: according
+idx:17 input_id:2000 decoded_text: to
+idx:18 input_id:2195 decoded_text: several
+idx:19 input_id:4311 decoded_text: reports
+idx:20 input_id:2405 decoded_text: published
+idx:21 input_id:9857 decoded_text: tuesday
+idx:22 input_id:3944 decoded_text: evening
+idx:23 input_id:1012 decoded_text: .
+idx:24 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.149258613586426, -3.6345508098602295, 1.8192301988601685, 5.152631759643555]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

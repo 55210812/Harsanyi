@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 17:50:49
+prompt: [CLS] bosnia # 39 ; s main muslim, serb and croat nationalist parties have been leading in an early count for local polls. incomplete results released by the election organisers on sunday indicated a strong backing for [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9562 decoded_text: bosnia
+idx:2 input_id:1001 decoded_text: #
+idx:3 input_id:4464 decoded_text: 39
+idx:4 input_id:1025 decoded_text: ;
+idx:5 input_id:1055 decoded_text: s
+idx:6 input_id:2364 decoded_text: main
+idx:7 input_id:5152 decoded_text: muslim
+idx:8 input_id:1010 decoded_text: ,
+idx:9 input_id:20180 decoded_text: serb
+idx:10 input_id:1998 decoded_text: and
+idx:11 input_id:13675 decoded_text: cr
+idx:12 input_id:16503 decoded_text: ##oat
+idx:13 input_id:8986 decoded_text: nationalist
+idx:14 input_id:4243 decoded_text: parties
+idx:15 input_id:2031 decoded_text: have
+idx:16 input_id:2042 decoded_text: been
+idx:17 input_id:2877 decoded_text: leading
+idx:18 input_id:1999 decoded_text: in
+idx:19 input_id:2019 decoded_text: an
+idx:20 input_id:2220 decoded_text: early
+idx:21 input_id:4175 decoded_text: count
+idx:22 input_id:2005 decoded_text: for
+idx:23 input_id:2334 decoded_text: local
+idx:24 input_id:14592 decoded_text: polls
+idx:25 input_id:1012 decoded_text: .
+idx:26 input_id:12958 decoded_text: incomplete
+idx:27 input_id:3463 decoded_text: results
+idx:28 input_id:2207 decoded_text: released
+idx:29 input_id:2011 decoded_text: by
+idx:30 input_id:1996 decoded_text: the
+idx:31 input_id:2602 decoded_text: election
+idx:32 input_id:22933 decoded_text: organise
+idx:33 input_id:2869 decoded_text: ##rs
+idx:34 input_id:2006 decoded_text: on
+idx:35 input_id:4465 decoded_text: sunday
+idx:36 input_id:5393 decoded_text: indicated
+idx:37 input_id:1037 decoded_text: a
+idx:38 input_id:2844 decoded_text: strong
+idx:39 input_id:5150 decoded_text: backing
+idx:40 input_id:2005 decoded_text: for
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.178179740905762, -2.3260152339935303, -2.3748862743377686, -2.2547638416290283]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

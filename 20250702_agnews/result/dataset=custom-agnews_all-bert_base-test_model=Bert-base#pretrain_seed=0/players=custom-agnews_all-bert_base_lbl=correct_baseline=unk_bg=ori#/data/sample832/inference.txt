@@ -1,0 +1,46 @@
+Execution time: 2025-07-02 17:53:36
+prompt: [CLS] the european union on monday ended 11 years of sanctions against libya and eased an arms embargo to reward the north african country for giving up plans to develop weapons of mass destruction. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2647 decoded_text: european
+idx:3 input_id:2586 decoded_text: union
+idx:4 input_id:2006 decoded_text: on
+idx:5 input_id:6928 decoded_text: monday
+idx:6 input_id:3092 decoded_text: ended
+idx:7 input_id:2340 decoded_text: 11
+idx:8 input_id:2086 decoded_text: years
+idx:9 input_id:1997 decoded_text: of
+idx:10 input_id:17147 decoded_text: sanctions
+idx:11 input_id:2114 decoded_text: against
+idx:12 input_id:12917 decoded_text: libya
+idx:13 input_id:1998 decoded_text: and
+idx:14 input_id:10987 decoded_text: eased
+idx:15 input_id:2019 decoded_text: an
+idx:16 input_id:2608 decoded_text: arms
+idx:17 input_id:7861 decoded_text: em
+idx:18 input_id:8237 decoded_text: ##bar
+idx:19 input_id:3995 decoded_text: ##go
+idx:20 input_id:2000 decoded_text: to
+idx:21 input_id:10377 decoded_text: reward
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:2167 decoded_text: north
+idx:24 input_id:3060 decoded_text: african
+idx:25 input_id:2406 decoded_text: country
+idx:26 input_id:2005 decoded_text: for
+idx:27 input_id:3228 decoded_text: giving
+idx:28 input_id:2039 decoded_text: up
+idx:29 input_id:3488 decoded_text: plans
+idx:30 input_id:2000 decoded_text: to
+idx:31 input_id:4503 decoded_text: develop
+idx:32 input_id:4255 decoded_text: weapons
+idx:33 input_id:1997 decoded_text: of
+idx:34 input_id:3742 decoded_text: mass
+idx:35 input_id:6215 decoded_text: destruction
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.137497901916504, -1.9243054389953613, -2.4259884357452393, -2.4883079528808594]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 17:40:27
+prompt: [CLS] former qwest communications international inc. executive thomas hall agreed friday to plead guilty to end a federal fraud case against him, but neither his lawyer nor prosecutors would disclose what charge he will face. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2280 decoded_text: former
+idx:2 input_id:1053 decoded_text: q
+idx:3 input_id:19650 decoded_text: ##west
+idx:4 input_id:4806 decoded_text: communications
+idx:5 input_id:2248 decoded_text: international
+idx:6 input_id:4297 decoded_text: inc
+idx:7 input_id:1012 decoded_text: .
+idx:8 input_id:3237 decoded_text: executive
+idx:9 input_id:2726 decoded_text: thomas
+idx:10 input_id:2534 decoded_text: hall
+idx:11 input_id:3530 decoded_text: agreed
+idx:12 input_id:5958 decoded_text: friday
+idx:13 input_id:2000 decoded_text: to
+idx:14 input_id:25803 decoded_text: plead
+idx:15 input_id:5905 decoded_text: guilty
+idx:16 input_id:2000 decoded_text: to
+idx:17 input_id:2203 decoded_text: end
+idx:18 input_id:1037 decoded_text: a
+idx:19 input_id:2976 decoded_text: federal
+idx:20 input_id:9861 decoded_text: fraud
+idx:21 input_id:2553 decoded_text: case
+idx:22 input_id:2114 decoded_text: against
+idx:23 input_id:2032 decoded_text: him
+idx:24 input_id:1010 decoded_text: ,
+idx:25 input_id:2021 decoded_text: but
+idx:26 input_id:4445 decoded_text: neither
+idx:27 input_id:2010 decoded_text: his
+idx:28 input_id:5160 decoded_text: lawyer
+idx:29 input_id:4496 decoded_text: nor
+idx:30 input_id:19608 decoded_text: prosecutors
+idx:31 input_id:2052 decoded_text: would
+idx:32 input_id:26056 decoded_text: disclose
+idx:33 input_id:2054 decoded_text: what
+idx:34 input_id:3715 decoded_text: charge
+idx:35 input_id:2002 decoded_text: he
+idx:36 input_id:2097 decoded_text: will
+idx:37 input_id:2227 decoded_text: face
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.8383071422576904, -4.101519584655762, 5.697887420654297, -0.9357778429985046]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

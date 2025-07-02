@@ -1,0 +1,45 @@
+Execution time: 2025-07-02 17:45:52
+prompt: [CLS] arsenal became the first side in english football to go 43 league matches unbeaten when they beat blackburn 3 - 0 at highbury last night to return to the top of the premiership. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9433 decoded_text: arsenal
+idx:2 input_id:2150 decoded_text: became
+idx:3 input_id:1996 decoded_text: the
+idx:4 input_id:2034 decoded_text: first
+idx:5 input_id:2217 decoded_text: side
+idx:6 input_id:1999 decoded_text: in
+idx:7 input_id:2394 decoded_text: english
+idx:8 input_id:2374 decoded_text: football
+idx:9 input_id:2000 decoded_text: to
+idx:10 input_id:2175 decoded_text: go
+idx:11 input_id:4724 decoded_text: 43
+idx:12 input_id:2223 decoded_text: league
+idx:13 input_id:3503 decoded_text: matches
+idx:14 input_id:20458 decoded_text: unbeaten
+idx:15 input_id:2043 decoded_text: when
+idx:16 input_id:2027 decoded_text: they
+idx:17 input_id:3786 decoded_text: beat
+idx:18 input_id:13934 decoded_text: blackburn
+idx:19 input_id:1017 decoded_text: 3
+idx:20 input_id:1011 decoded_text: -
+idx:21 input_id:1014 decoded_text: 0
+idx:22 input_id:2012 decoded_text: at
+idx:23 input_id:2152 decoded_text: high
+idx:24 input_id:4917 decoded_text: ##bury
+idx:25 input_id:2197 decoded_text: last
+idx:26 input_id:2305 decoded_text: night
+idx:27 input_id:2000 decoded_text: to
+idx:28 input_id:2709 decoded_text: return
+idx:29 input_id:2000 decoded_text: to
+idx:30 input_id:1996 decoded_text: the
+idx:31 input_id:2327 decoded_text: top
+idx:32 input_id:1997 decoded_text: of
+idx:33 input_id:1996 decoded_text: the
+idx:34 input_id:11264 decoded_text: premiership
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.3924310207366943, 8.409867286682129, -2.519670009613037, -2.1720082759857178]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

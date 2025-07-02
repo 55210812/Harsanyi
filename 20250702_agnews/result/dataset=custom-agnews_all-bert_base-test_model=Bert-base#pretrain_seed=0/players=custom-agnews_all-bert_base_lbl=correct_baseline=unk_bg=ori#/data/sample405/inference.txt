@@ -1,0 +1,37 @@
+Execution time: 2025-07-02 17:33:49
+prompt: [CLS] the dollar extended its losses on tuesday after the federal reserve raised interest rates as expected but signaled that both inflation and inflation expectations were easing. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:7922 decoded_text: dollar
+idx:3 input_id:3668 decoded_text: extended
+idx:4 input_id:2049 decoded_text: its
+idx:5 input_id:6409 decoded_text: losses
+idx:6 input_id:2006 decoded_text: on
+idx:7 input_id:9857 decoded_text: tuesday
+idx:8 input_id:2044 decoded_text: after
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:2976 decoded_text: federal
+idx:11 input_id:3914 decoded_text: reserve
+idx:12 input_id:2992 decoded_text: raised
+idx:13 input_id:3037 decoded_text: interest
+idx:14 input_id:6165 decoded_text: rates
+idx:15 input_id:2004 decoded_text: as
+idx:16 input_id:3517 decoded_text: expected
+idx:17 input_id:2021 decoded_text: but
+idx:18 input_id:22319 decoded_text: signaled
+idx:19 input_id:2008 decoded_text: that
+idx:20 input_id:2119 decoded_text: both
+idx:21 input_id:14200 decoded_text: inflation
+idx:22 input_id:1998 decoded_text: and
+idx:23 input_id:14200 decoded_text: inflation
+idx:24 input_id:10908 decoded_text: expectations
+idx:25 input_id:2020 decoded_text: were
+idx:26 input_id:24070 decoded_text: easing
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[0.30049827694892883, -3.5266976356506348, 5.337377548217773, -3.722358226776123]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

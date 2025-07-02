@@ -1,0 +1,97 @@
+---------- Players ----------
+Player 0: privately
+Player 1: owned
+Player 2: operated
+Player 3: spaceshipone
+Player 4: spacecraft
+Player 5: \ $ 10
+Player 6: million
+Player 7: ansari
+Player 8: x
+Player 9: prize
+Player 10: successfully
+Player 11: making
+Player 12: second
+Player 13: manned
+Player 14: flight
+Player 15: space.
+---------- AND Interactions (Pairwise Only) ----------
+I(3 15): -10.425857543945312	 ([spaceshipone][space.])
+I(4 15): -10.282684326171875	 ([spacecraft][space.])
+I(3 4): -8.57868480682373	 ([spaceshipone][spacecraft])
+I(5 14): 4.633450508117676	 ([\ $ 10][flight])
+I(10 15): -4.541065216064453	 ([successfully][space.])
+I(9 15): -4.1182661056518555	 ([prize][space.])
+I(3 6): 3.9666318893432617	 ([spaceshipone][million])
+I(8 9): 3.650083065032959	 ([x][prize])
+I(0 1): 3.568337917327881	 ([privately][owned])
+I(5 6): 3.504256248474121	 ([\ $ 10][million])
+I(3 10): -3.452617645263672	 ([spaceshipone][successfully])
+I(4 10): -3.258840560913086	 ([spacecraft][successfully])
+I(7 9): -3.057062864303589	 ([ansari][prize])
+I(4 7): -3.0533065795898438	 ([spacecraft][ansari])
+I(1 3): 3.0225048065185547	 ([owned][spaceshipone])
+I(0 14): -2.9087271690368652	 ([privately][flight])
+I(4 5): 2.622730255126953	 ([spacecraft][\ $ 10])
+I(9 11): 2.599503993988037	 ([prize][making])
+I(3 5): 2.549203872680664	 ([spaceshipone][\ $ 10])
+I(4 9): -2.5372514724731445	 ([spacecraft][prize])
+I(6 15): 2.501633644104004	 ([million][space.])
+I(3 9): -2.471999168395996	 ([spaceshipone][prize])
+I(14 15): -2.154909133911133	 ([flight][space.])
+I(6 10): -1.8559165000915527	 ([million][successfully])
+I(5 10): -1.7737820148468018	 ([\ $ 10][successfully])
+I(1 4): 1.580172061920166	 ([owned][spacecraft])
+I(1 15): 1.5749273300170898	 ([owned][space.])
+I(9 14): 1.4529767036437988	 ([prize][flight])
+I(7 15): -1.3709688186645508	 ([ansari][space.])
+I(4 6): 1.3212532997131348	 ([spacecraft][million])
+I(1 9): 1.3116264343261719	 ([owned][prize])
+I(7 14): -1.3021106719970703	 ([ansari][flight])
+I(11 15): -1.2445039749145508	 ([making][space.])
+I(0 2): 1.2122762203216553	 ([privately][operated])
+I(0 11): 1.1957330703735352	 ([privately][making])
+I(2 3): 1.1696844100952148	 ([operated][spaceshipone])
+I(2 14): -1.1544935703277588	 ([operated][flight])
+I(0 7): -1.135396957397461	 ([privately][ansari])
+I(11 13): 1.1215815544128418	 ([making][manned])
+I(6 14): -1.1070609092712402	 ([million][flight])
+I(1 5): 1.076920509338379	 ([owned][\ $ 10])
+I(1 6): 1.0757155418395996	 ([owned][million])
+I(1 14): -1.066141128540039	 ([owned][flight])
+I(3 14): -1.0255508422851562	 ([spaceshipone][flight])
+I(9 12): -1.0160560607910156	 ([prize][second])
+I(6 7): 0.9676332473754883	 ([million][ansari])
+I(12 15): -0.9227094650268555	 ([second][space.])
+I(1 2): 0.9224190711975098	 ([owned][operated])
+I(2 9): 0.8805844783782959	 ([operated][prize])
+I(7 10): -0.8777284622192383	 ([ansari][successfully])
+I(5 9): 0.8173749446868896	 ([\ $ 10][prize])
+I(10 11): -0.8107280731201172	 ([successfully][making])
+I(0 3): 0.7768735885620117	 ([privately][spaceshipone])
+I(10 13): 0.7447032928466797	 ([successfully][manned])
+I(1 8): 0.731600284576416	 ([owned][x])
+I(5 7): 0.6878700256347656	 ([\ $ 10][ansari])
+I(3 13): 0.6298751831054688	 ([spaceshipone][manned])
+I(1 10): -0.5886828899383545	 ([owned][successfully])
+I(0 10): 0.5845723152160645	 ([privately][successfully])
+I(8 14): 0.5842092037200928	 ([x][flight])
+I(5 11): 0.5831198692321777	 ([\ $ 10][making])
+I(4 12): -0.5790748596191406	 ([spacecraft][second])
+I(2 7): 0.5782122611999512	 ([operated][ansari])
+I(3 11): 0.5752429962158203	 ([spaceshipone][making])
+I(0 5): 0.5575976371765137	 ([privately][\ $ 10])
+I(5 8): 0.5252156257629395	 ([\ $ 10][x])
+I(6 12): -0.4988980293273926	 ([million][second])
+I(8 13): 0.4787631034851074	 ([x][manned])
+I(7 12): -0.408447265625	 ([ansari][second])
+I(10 14): 0.40822792053222656	 ([successfully][flight])
+I(0 15): -0.3794078826904297	 ([privately][space.])
+I(0 9): -0.3604393005371094	 ([privately][prize])
+I(13 15): 0.3571939468383789	 ([manned][space.])
+I(11 12): -0.3488914966583252	 ([making][second])
+I(13 14): 0.3470273017883301	 ([manned][flight])
+I(2 12): 0.3267636299133301	 ([operated][second])
+I(2 8): 0.3191075325012207	 ([operated][x])
+Sum: 16.37678575515747
+==================================================

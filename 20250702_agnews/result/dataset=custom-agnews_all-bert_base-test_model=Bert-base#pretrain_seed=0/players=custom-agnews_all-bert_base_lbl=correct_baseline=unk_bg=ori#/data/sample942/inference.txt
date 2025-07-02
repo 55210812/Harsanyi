@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 17:58:07
+prompt: [CLS] reuters - starbucks corp. on \ wednesday said quarterly net profit rose 47 percent, helped by \ sales of new products like frappuccino light, aggressive store \ expansion, and an extra week. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26665 decoded_text: reuters
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:29500 decoded_text: starbucks
+idx:4 input_id:13058 decoded_text: corp
+idx:5 input_id:1012 decoded_text: .
+idx:6 input_id:2006 decoded_text: on
+idx:7 input_id:1032 decoded_text: \
+idx:8 input_id:9317 decoded_text: wednesday
+idx:9 input_id:2056 decoded_text: said
+idx:10 input_id:12174 decoded_text: quarterly
+idx:11 input_id:5658 decoded_text: net
+idx:12 input_id:5618 decoded_text: profit
+idx:13 input_id:3123 decoded_text: rose
+idx:14 input_id:4700 decoded_text: 47
+idx:15 input_id:3867 decoded_text: percent
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:3271 decoded_text: helped
+idx:18 input_id:2011 decoded_text: by
+idx:19 input_id:1032 decoded_text: \
+idx:20 input_id:4341 decoded_text: sales
+idx:21 input_id:1997 decoded_text: of
+idx:22 input_id:2047 decoded_text: new
+idx:23 input_id:3688 decoded_text: products
+idx:24 input_id:2066 decoded_text: like
+idx:25 input_id:25312 decoded_text: fra
+idx:26 input_id:9397 decoded_text: ##pp
+idx:27 input_id:16835 decoded_text: ##ucci
+idx:28 input_id:3630 decoded_text: ##no
+idx:29 input_id:2422 decoded_text: light
+idx:30 input_id:1010 decoded_text: ,
+idx:31 input_id:9376 decoded_text: aggressive
+idx:32 input_id:3573 decoded_text: store
+idx:33 input_id:1032 decoded_text: \
+idx:34 input_id:4935 decoded_text: expansion
+idx:35 input_id:1010 decoded_text: ,
+idx:36 input_id:1998 decoded_text: and
+idx:37 input_id:2019 decoded_text: an
+idx:38 input_id:4469 decoded_text: extra
+idx:39 input_id:2733 decoded_text: week
+idx:40 input_id:1012 decoded_text: .
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.3246755599975586, -3.7172691822052, 6.764652252197266, -2.7932329177856445]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

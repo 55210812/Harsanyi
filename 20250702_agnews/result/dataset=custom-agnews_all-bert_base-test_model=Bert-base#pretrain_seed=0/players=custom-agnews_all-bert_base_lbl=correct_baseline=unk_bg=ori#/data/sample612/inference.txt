@@ -1,0 +1,42 @@
+Execution time: 2025-07-02 17:44:53
+prompt: [CLS] analysts at idc say the market could grow from the 12. 5 million units shipped last year, predicting a compound growth rate of 20 per cent each year. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:18288 decoded_text: analysts
+idx:2 input_id:2012 decoded_text: at
+idx:3 input_id:8909 decoded_text: id
+idx:4 input_id:2278 decoded_text: ##c
+idx:5 input_id:2360 decoded_text: say
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:3006 decoded_text: market
+idx:8 input_id:2071 decoded_text: could
+idx:9 input_id:4982 decoded_text: grow
+idx:10 input_id:2013 decoded_text: from
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:2260 decoded_text: 12
+idx:13 input_id:1012 decoded_text: .
+idx:14 input_id:1019 decoded_text: 5
+idx:15 input_id:2454 decoded_text: million
+idx:16 input_id:3197 decoded_text: units
+idx:17 input_id:12057 decoded_text: shipped
+idx:18 input_id:2197 decoded_text: last
+idx:19 input_id:2095 decoded_text: year
+idx:20 input_id:1010 decoded_text: ,
+idx:21 input_id:29458 decoded_text: predicting
+idx:22 input_id:1037 decoded_text: a
+idx:23 input_id:7328 decoded_text: compound
+idx:24 input_id:3930 decoded_text: growth
+idx:25 input_id:3446 decoded_text: rate
+idx:26 input_id:1997 decoded_text: of
+idx:27 input_id:2322 decoded_text: 20
+idx:28 input_id:2566 decoded_text: per
+idx:29 input_id:9358 decoded_text: cent
+idx:30 input_id:2169 decoded_text: each
+idx:31 input_id:2095 decoded_text: year
+idx:32 input_id:1012 decoded_text: .
+idx:33 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-2.7478489875793457, -4.417891025543213, 1.091387391090393, 5.233931064605713]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

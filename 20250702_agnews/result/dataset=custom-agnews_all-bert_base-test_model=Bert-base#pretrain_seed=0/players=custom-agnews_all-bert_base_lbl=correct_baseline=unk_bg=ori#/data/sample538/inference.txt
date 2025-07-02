@@ -1,0 +1,41 @@
+Execution time: 2025-07-02 17:42:00
+prompt: [CLS] offshore gains drove the share market to record levels today, albeit on lower than average volume because of little trade in three states which are having public holidays today. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:12195 decoded_text: offshore
+idx:2 input_id:12154 decoded_text: gains
+idx:3 input_id:5225 decoded_text: drove
+idx:4 input_id:1996 decoded_text: the
+idx:5 input_id:3745 decoded_text: share
+idx:6 input_id:3006 decoded_text: market
+idx:7 input_id:2000 decoded_text: to
+idx:8 input_id:2501 decoded_text: record
+idx:9 input_id:3798 decoded_text: levels
+idx:10 input_id:2651 decoded_text: today
+idx:11 input_id:1010 decoded_text: ,
+idx:12 input_id:12167 decoded_text: albeit
+idx:13 input_id:2006 decoded_text: on
+idx:14 input_id:2896 decoded_text: lower
+idx:15 input_id:2084 decoded_text: than
+idx:16 input_id:2779 decoded_text: average
+idx:17 input_id:3872 decoded_text: volume
+idx:18 input_id:2138 decoded_text: because
+idx:19 input_id:1997 decoded_text: of
+idx:20 input_id:2210 decoded_text: little
+idx:21 input_id:3119 decoded_text: trade
+idx:22 input_id:1999 decoded_text: in
+idx:23 input_id:2093 decoded_text: three
+idx:24 input_id:2163 decoded_text: states
+idx:25 input_id:2029 decoded_text: which
+idx:26 input_id:2024 decoded_text: are
+idx:27 input_id:2383 decoded_text: having
+idx:28 input_id:2270 decoded_text: public
+idx:29 input_id:11938 decoded_text: holidays
+idx:30 input_id:2651 decoded_text: today
+idx:31 input_id:1012 decoded_text: .
+idx:32 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.3882778882980347, -4.022524833679199, 6.431636333465576, -3.068337917327881]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

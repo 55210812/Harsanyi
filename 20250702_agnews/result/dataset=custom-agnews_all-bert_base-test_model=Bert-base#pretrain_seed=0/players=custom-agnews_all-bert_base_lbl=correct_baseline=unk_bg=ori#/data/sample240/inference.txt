@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 17:26:40
+prompt: [CLS] new york ( reuters ) - u. s. stocks rallied on tuesday, giving the dow its best day in four months as battered insurers rose on confidence a government probe of the industry would end quickly. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2047 decoded_text: new
+idx:2 input_id:2259 decoded_text: york
+idx:3 input_id:1006 decoded_text: (
+idx:4 input_id:26665 decoded_text: reuters
+idx:5 input_id:1007 decoded_text: )
+idx:6 input_id:1011 decoded_text: -
+idx:7 input_id:1057 decoded_text: u
+idx:8 input_id:1012 decoded_text: .
+idx:9 input_id:1055 decoded_text: s
+idx:10 input_id:1012 decoded_text: .
+idx:11 input_id:15768 decoded_text: stocks
+idx:12 input_id:24356 decoded_text: rallied
+idx:13 input_id:2006 decoded_text: on
+idx:14 input_id:9857 decoded_text: tuesday
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:3228 decoded_text: giving
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:23268 decoded_text: dow
+idx:19 input_id:2049 decoded_text: its
+idx:20 input_id:2190 decoded_text: best
+idx:21 input_id:2154 decoded_text: day
+idx:22 input_id:1999 decoded_text: in
+idx:23 input_id:2176 decoded_text: four
+idx:24 input_id:2706 decoded_text: months
+idx:25 input_id:2004 decoded_text: as
+idx:26 input_id:17548 decoded_text: battered
+idx:27 input_id:16021 decoded_text: ins
+idx:28 input_id:27595 decoded_text: ##urer
+idx:29 input_id:2015 decoded_text: ##s
+idx:30 input_id:3123 decoded_text: rose
+idx:31 input_id:2006 decoded_text: on
+idx:32 input_id:7023 decoded_text: confidence
+idx:33 input_id:1037 decoded_text: a
+idx:34 input_id:2231 decoded_text: government
+idx:35 input_id:15113 decoded_text: probe
+idx:36 input_id:1997 decoded_text: of
+idx:37 input_id:1996 decoded_text: the
+idx:38 input_id:3068 decoded_text: industry
+idx:39 input_id:2052 decoded_text: would
+idx:40 input_id:2203 decoded_text: end
+idx:41 input_id:2855 decoded_text: quickly
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.034121036529541, -2.7129275798797607, 6.680469036102295, -2.8571343421936035]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

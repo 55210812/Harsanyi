@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 17:28:31
+prompt: [CLS] com november 17, 2004, 5 : 02 pm pt. this priority retains its ranking at number five as more and more companies deploy web services to share business logic, data and processes with each other and with clients. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4012 decoded_text: com
+idx:2 input_id:2281 decoded_text: november
+idx:3 input_id:2459 decoded_text: 17
+idx:4 input_id:1010 decoded_text: ,
+idx:5 input_id:2432 decoded_text: 2004
+idx:6 input_id:1010 decoded_text: ,
+idx:7 input_id:1019 decoded_text: 5
+idx:8 input_id:1024 decoded_text: :
+idx:9 input_id:6185 decoded_text: 02
+idx:10 input_id:7610 decoded_text: pm
+idx:11 input_id:13866 decoded_text: pt
+idx:12 input_id:1012 decoded_text: .
+idx:13 input_id:2023 decoded_text: this
+idx:14 input_id:9470 decoded_text: priority
+idx:15 input_id:14567 decoded_text: retains
+idx:16 input_id:2049 decoded_text: its
+idx:17 input_id:5464 decoded_text: ranking
+idx:18 input_id:2012 decoded_text: at
+idx:19 input_id:2193 decoded_text: number
+idx:20 input_id:2274 decoded_text: five
+idx:21 input_id:2004 decoded_text: as
+idx:22 input_id:2062 decoded_text: more
+idx:23 input_id:1998 decoded_text: and
+idx:24 input_id:2062 decoded_text: more
+idx:25 input_id:3316 decoded_text: companies
+idx:26 input_id:21296 decoded_text: deploy
+idx:27 input_id:4773 decoded_text: web
+idx:28 input_id:2578 decoded_text: services
+idx:29 input_id:2000 decoded_text: to
+idx:30 input_id:3745 decoded_text: share
+idx:31 input_id:2449 decoded_text: business
+idx:32 input_id:7961 decoded_text: logic
+idx:33 input_id:1010 decoded_text: ,
+idx:34 input_id:2951 decoded_text: data
+idx:35 input_id:1998 decoded_text: and
+idx:36 input_id:6194 decoded_text: processes
+idx:37 input_id:2007 decoded_text: with
+idx:38 input_id:2169 decoded_text: each
+idx:39 input_id:2060 decoded_text: other
+idx:40 input_id:1998 decoded_text: and
+idx:41 input_id:2007 decoded_text: with
+idx:42 input_id:7846 decoded_text: clients
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.687325477600098, -3.1825897693634033, 1.227992296218872, 6.063838481903076]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

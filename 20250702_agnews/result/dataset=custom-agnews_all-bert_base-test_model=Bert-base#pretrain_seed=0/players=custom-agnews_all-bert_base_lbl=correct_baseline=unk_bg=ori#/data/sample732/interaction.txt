@@ -1,0 +1,63 @@
+---------- Players ----------
+Player 0: south
+Player 1: african
+Player 2: trade
+Player 3: union
+Player 4: delegation
+Player 5: allowed
+Player 6: zimbabwe
+Player 7: despite
+Player 8: told
+Player 9: visit
+Player 10: acceptable.
+---------- AND Interactions (Pairwise Only) ----------
+I(1 6): -5.26804256439209	 ([african][zimbabwe])
+I(0 1): -4.977536678314209	 ([south][african])
+I(0 4): 3.596954345703125	 ([south][delegation])
+I(1 3): 3.461409568786621	 ([african][union])
+I(8 9): -2.9351627826690674	 ([told][visit])
+I(4 5): -2.7974634170532227	 ([delegation][allowed])
+I(3 4): -2.523831367492676	 ([union][delegation])
+I(2 9): -2.049901008605957	 ([trade][visit])
+I(4 8): -2.0332374572753906	 ([delegation][told])
+I(2 6): -2.0204410552978516	 ([trade][zimbabwe])
+I(0 2): 1.9180827140808105	 ([south][trade])
+I(6 8): 1.5769500732421875	 ([zimbabwe][told])
+I(3 6): 1.566427230834961	 ([union][zimbabwe])
+I(2 3): 1.479158878326416	 ([trade][union])
+I(1 9): 1.4110426902770996	 ([african][visit])
+I(0 9): 1.312300682067871	 ([south][visit])
+I(0 3): 1.311521053314209	 ([south][union])
+I(4 9): -1.3039231300354004	 ([delegation][visit])
+I(5 7): 1.2563509941101074	 ([allowed][despite])
+I(6 9): 1.0156559944152832	 ([zimbabwe][visit])
+I(9 10): -0.924680233001709	 ([visit][acceptable.])
+I(1 2): -0.9006648063659668	 ([african][trade])
+I(7 9): 0.8139204978942871	 ([despite][visit])
+I(0 7): 0.8062200546264648	 ([south][despite])
+I(1 10): -0.7769031524658203	 ([african][acceptable.])
+I(5 8): 0.7283568382263184	 ([allowed][told])
+I(7 10): 0.6775774955749512	 ([despite][acceptable.])
+I(1 7): -0.6231107711791992	 ([african][despite])
+I(6 10): -0.5814990997314453	 ([zimbabwe][acceptable.])
+I(4 6): 0.5685882568359375	 ([delegation][zimbabwe])
+I(8 10): 0.5376486778259277	 ([told][acceptable.])
+I(0 5): 0.5194306373596191	 ([south][allowed])
+I(1 8): 0.4955887794494629	 ([african][told])
+I(7 8): -0.4181857109069824	 ([despite][told])
+I(0 6): -0.4096832275390625	 ([south][zimbabwe])
+I(2 5): -0.38944244384765625	 ([trade][allowed])
+I(5 10): 0.3817901611328125	 ([allowed][acceptable.])
+I(0 10): -0.36789369583129883	 ([south][acceptable.])
+I(2 8): 0.3105745315551758	 ([trade][told])
+I(5 6): 0.2836141586303711	 ([allowed][zimbabwe])
+I(0 8): 0.27797460556030273	 ([south][told])
+I(4 10): -0.2626934051513672	 ([delegation][acceptable.])
+I(1 4): -0.25819969177246094	 ([african][delegation])
+I(3 7): 0.25527238845825195	 ([union][despite])
+I(6 7): 0.23131942749023438	 ([zimbabwe][despite])
+I(4 7): 0.2152104377746582	 ([delegation][despite])
+I(1 5): 0.20623207092285156	 ([african][allowed])
+I(3 8): -0.19550132751464844	 ([union][told])
+Sum: 30.112105131149292
+==================================================

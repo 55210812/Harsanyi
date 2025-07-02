@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 17:17:17
+prompt: [CLS] liverpool have denied reports yesterday that they would consider sharing their new stadium with rivals everton. it had been reported that the two clubs would meet with government officials to discuss the controversial subject of sharing a ground. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:6220 decoded_text: liverpool
+idx:2 input_id:2031 decoded_text: have
+idx:3 input_id:6380 decoded_text: denied
+idx:4 input_id:4311 decoded_text: reports
+idx:5 input_id:7483 decoded_text: yesterday
+idx:6 input_id:2008 decoded_text: that
+idx:7 input_id:2027 decoded_text: they
+idx:8 input_id:2052 decoded_text: would
+idx:9 input_id:5136 decoded_text: consider
+idx:10 input_id:6631 decoded_text: sharing
+idx:11 input_id:2037 decoded_text: their
+idx:12 input_id:2047 decoded_text: new
+idx:13 input_id:3346 decoded_text: stadium
+idx:14 input_id:2007 decoded_text: with
+idx:15 input_id:9169 decoded_text: rivals
+idx:16 input_id:18022 decoded_text: everton
+idx:17 input_id:1012 decoded_text: .
+idx:18 input_id:2009 decoded_text: it
+idx:19 input_id:2018 decoded_text: had
+idx:20 input_id:2042 decoded_text: been
+idx:21 input_id:2988 decoded_text: reported
+idx:22 input_id:2008 decoded_text: that
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:2048 decoded_text: two
+idx:25 input_id:4184 decoded_text: clubs
+idx:26 input_id:2052 decoded_text: would
+idx:27 input_id:3113 decoded_text: meet
+idx:28 input_id:2007 decoded_text: with
+idx:29 input_id:2231 decoded_text: government
+idx:30 input_id:4584 decoded_text: officials
+idx:31 input_id:2000 decoded_text: to
+idx:32 input_id:6848 decoded_text: discuss
+idx:33 input_id:1996 decoded_text: the
+idx:34 input_id:6801 decoded_text: controversial
+idx:35 input_id:3395 decoded_text: subject
+idx:36 input_id:1997 decoded_text: of
+idx:37 input_id:6631 decoded_text: sharing
+idx:38 input_id:1037 decoded_text: a
+idx:39 input_id:2598 decoded_text: ground
+idx:40 input_id:1012 decoded_text: .
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.1693363189697266, 8.40153694152832, -2.408499240875244, -2.515462636947632]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

@@ -1,0 +1,25 @@
+Execution time: 2025-07-02 17:55:00
+prompt: [CLS] thumbnail - sized memory card's maximum capacity will be 128mb. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:7639 decoded_text: thumb
+idx:2 input_id:25464 decoded_text: ##nail
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:7451 decoded_text: sized
+idx:5 input_id:3638 decoded_text: memory
+idx:6 input_id:4003 decoded_text: card
+idx:7 input_id:1005 decoded_text: '
+idx:8 input_id:1055 decoded_text: s
+idx:9 input_id:4555 decoded_text: maximum
+idx:10 input_id:3977 decoded_text: capacity
+idx:11 input_id:2097 decoded_text: will
+idx:12 input_id:2022 decoded_text: be
+idx:13 input_id:11899 decoded_text: 128
+idx:14 input_id:14905 decoded_text: ##mb
+idx:15 input_id:1012 decoded_text: .
+idx:16 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-2.13982892036438, -3.570732355117798, -1.3628971576690674, 6.835305690765381]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

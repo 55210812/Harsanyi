@@ -1,0 +1,61 @@
+---------- Players ----------
+Player 0: robert
+Player 1: de
+Player 2: niro
+Player 3: fails
+Player 4: show
+Player 5: awards
+Player 6: ceremony
+Player 7: milan
+Player 8: press
+Player 9: conference
+Player 10: rome.
+---------- AND Interactions (Pairwise Only) ----------
+I(7 10): -5.683472633361816	 ([milan][rome.])
+I(5 8): 4.362485408782959	 ([awards][press])
+I(8 9): 4.116480827331543	 ([press][conference])
+I(6 8): 3.273407459259033	 ([ceremony][press])
+I(4 5): 3.0897459983825684	 ([show][awards])
+I(4 7): 2.88187313079834	 ([show][milan])
+I(2 7): -2.7567906379699707	 ([niro][milan])
+I(9 10): -2.7451839447021484	 ([conference][rome.])
+I(4 8): 2.7262988090515137	 ([show][press])
+I(2 3): 2.635580539703369	 ([niro][fails])
+I(2 10): -2.458704948425293	 ([niro][rome.])
+I(5 10): -2.355928897857666	 ([awards][rome.])
+I(6 10): -2.332218647003174	 ([ceremony][rome.])
+I(6 9): -2.196004629135132	 ([ceremony][conference])
+I(1 2): 2.16841983795166	 ([de][niro])
+I(0 10): -2.006704807281494	 ([robert][rome.])
+I(0 8): 1.939845085144043	 ([robert][press])
+I(1 10): -1.882293701171875	 ([de][rome.])
+I(2 8): 1.7548866271972656	 ([niro][press])
+I(5 7): -1.7438945770263672	 ([awards][milan])
+I(7 9): -1.708282232284546	 ([milan][conference])
+I(2 9): 1.399550199508667	 ([niro][conference])
+I(3 5): 1.3566374778747559	 ([fails][awards])
+I(3 4): 1.2353143692016602	 ([fails][show])
+I(0 9): -1.2352769374847412	 ([robert][conference])
+I(0 3): 1.2349882125854492	 ([robert][fails])
+I(4 6): 1.2327661514282227	 ([show][ceremony])
+I(0 4): 1.2312288284301758	 ([robert][show])
+I(5 6): -1.176706314086914	 ([awards][ceremony])
+I(1 6): 1.0958328247070312	 ([de][ceremony])
+I(6 7): -1.0822067260742188	 ([ceremony][milan])
+I(7 8): 1.0800886154174805	 ([milan][press])
+I(0 2): -0.9582405090332031	 ([robert][niro])
+I(5 9): -0.8642528057098389	 ([awards][conference])
+I(3 6): -0.7815804481506348	 ([fails][ceremony])
+I(3 10): 0.7326340675354004	 ([fails][rome.])
+I(0 7): 0.6913695335388184	 ([robert][milan])
+I(2 4): 0.6236145496368408	 ([niro][show])
+I(3 9): 0.6128394603729248	 ([fails][conference])
+I(3 7): -0.5552997589111328	 ([fails][milan])
+I(2 6): 0.49751949310302734	 ([niro][ceremony])
+I(1 5): 0.48442554473876953	 ([de][awards])
+I(1 9): 0.40383434295654297	 ([de][conference])
+I(4 10): 0.28850555419921875	 ([show][rome.])
+I(1 4): 0.2782754898071289	 ([de][show])
+I(2 5): 0.2611961364746094	 ([niro][awards])
+Sum: 36.45997953414917
+==================================================

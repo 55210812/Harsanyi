@@ -1,0 +1,30 @@
+Execution time: 2025-07-02 17:53:19
+prompt: [CLS] what would it take to get you into a brand new protof 2000 mass spectrometer today? [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2054 decoded_text: what
+idx:2 input_id:2052 decoded_text: would
+idx:3 input_id:2009 decoded_text: it
+idx:4 input_id:2202 decoded_text: take
+idx:5 input_id:2000 decoded_text: to
+idx:6 input_id:2131 decoded_text: get
+idx:7 input_id:2017 decoded_text: you
+idx:8 input_id:2046 decoded_text: into
+idx:9 input_id:1037 decoded_text: a
+idx:10 input_id:4435 decoded_text: brand
+idx:11 input_id:2047 decoded_text: new
+idx:12 input_id:15053 decoded_text: proto
+idx:13 input_id:2546 decoded_text: ##f
+idx:14 input_id:2456 decoded_text: 2000
+idx:15 input_id:3742 decoded_text: mass
+idx:16 input_id:28699 decoded_text: spec
+idx:17 input_id:13887 decoded_text: ##trom
+idx:18 input_id:15141 decoded_text: ##eter
+idx:19 input_id:2651 decoded_text: today
+idx:20 input_id:1029 decoded_text: ?
+idx:21 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.2759547233581543, 0.08871161937713623, 1.9478310346603394, 0.7451464533805847]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

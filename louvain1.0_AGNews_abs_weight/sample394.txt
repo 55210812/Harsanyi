@@ -1,0 +1,4 @@
+louvain社区检测结果:
+社区 1: ['10', '5', '16', '15', '6', '7', '23']: ['allow', 'security', 'users', 'systems.', 'vulnerabilities', 'implementation', 'immediately.']: 平均边权 1.3993
+社区 2: ['1', '8', '17', '11', '3', '22', '9', '18', '21', '2', '0']: ['institute', 'kerberos', 'mit', 'attackers', '( mit )', 'patches', 'could', 'kerberos', 'apply', 'technology', 'massachusetts']: 平均边权 1.6226
+社区 3: ['4', '20', '13', '14', '12', '19']: ['warned', 'urged', 'access', 'protected', 'free', '5']: 平均边权 0.9255

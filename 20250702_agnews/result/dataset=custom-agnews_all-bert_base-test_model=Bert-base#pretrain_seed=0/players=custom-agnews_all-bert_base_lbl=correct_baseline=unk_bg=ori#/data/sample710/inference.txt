@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 17:48:28
+prompt: [CLS] taipei ( reuters ) - taiwan president chen shui - bian said he will make an important policy statement on relations with arch - foe china in his national day address on oct. 10. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:14004 decoded_text: taipei
+idx:2 input_id:1006 decoded_text: (
+idx:3 input_id:26665 decoded_text: reuters
+idx:4 input_id:1007 decoded_text: )
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:6629 decoded_text: taiwan
+idx:7 input_id:2343 decoded_text: president
+idx:8 input_id:8802 decoded_text: chen
+idx:9 input_id:18454 decoded_text: shu
+idx:10 input_id:2072 decoded_text: ##i
+idx:11 input_id:1011 decoded_text: -
+idx:12 input_id:12170 decoded_text: bi
+idx:13 input_id:2319 decoded_text: ##an
+idx:14 input_id:2056 decoded_text: said
+idx:15 input_id:2002 decoded_text: he
+idx:16 input_id:2097 decoded_text: will
+idx:17 input_id:2191 decoded_text: make
+idx:18 input_id:2019 decoded_text: an
+idx:19 input_id:2590 decoded_text: important
+idx:20 input_id:3343 decoded_text: policy
+idx:21 input_id:4861 decoded_text: statement
+idx:22 input_id:2006 decoded_text: on
+idx:23 input_id:4262 decoded_text: relations
+idx:24 input_id:2007 decoded_text: with
+idx:25 input_id:7905 decoded_text: arch
+idx:26 input_id:1011 decoded_text: -
+idx:27 input_id:22277 decoded_text: foe
+idx:28 input_id:2859 decoded_text: china
+idx:29 input_id:1999 decoded_text: in
+idx:30 input_id:2010 decoded_text: his
+idx:31 input_id:2120 decoded_text: national
+idx:32 input_id:2154 decoded_text: day
+idx:33 input_id:4769 decoded_text: address
+idx:34 input_id:2006 decoded_text: on
+idx:35 input_id:13323 decoded_text: oct
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:2184 decoded_text: 10
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[5.486135005950928, -3.2108747959136963, 0.8734261989593506, -3.9092018604278564]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

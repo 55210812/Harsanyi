@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 17:31:53
+prompt: [CLS] cnn said thursday it will shut down its struggling cnnfn financial news network in mid - december, giving up its attempt to compete with cnbc after nine years. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:13229 decoded_text: cnn
+idx:2 input_id:2056 decoded_text: said
+idx:3 input_id:9432 decoded_text: thursday
+idx:4 input_id:2009 decoded_text: it
+idx:5 input_id:2097 decoded_text: will
+idx:6 input_id:3844 decoded_text: shut
+idx:7 input_id:2091 decoded_text: down
+idx:8 input_id:2049 decoded_text: its
+idx:9 input_id:8084 decoded_text: struggling
+idx:10 input_id:13229 decoded_text: cnn
+idx:11 input_id:2546 decoded_text: ##f
+idx:12 input_id:2078 decoded_text: ##n
+idx:13 input_id:3361 decoded_text: financial
+idx:14 input_id:2739 decoded_text: news
+idx:15 input_id:2897 decoded_text: network
+idx:16 input_id:1999 decoded_text: in
+idx:17 input_id:3054 decoded_text: mid
+idx:18 input_id:1011 decoded_text: -
+idx:19 input_id:2285 decoded_text: december
+idx:20 input_id:1010 decoded_text: ,
+idx:21 input_id:3228 decoded_text: giving
+idx:22 input_id:2039 decoded_text: up
+idx:23 input_id:2049 decoded_text: its
+idx:24 input_id:3535 decoded_text: attempt
+idx:25 input_id:2000 decoded_text: to
+idx:26 input_id:5566 decoded_text: compete
+idx:27 input_id:2007 decoded_text: with
+idx:28 input_id:27166 decoded_text: cn
+idx:29 input_id:9818 decoded_text: ##bc
+idx:30 input_id:2044 decoded_text: after
+idx:31 input_id:3157 decoded_text: nine
+idx:32 input_id:2086 decoded_text: years
+idx:33 input_id:1012 decoded_text: .
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.715596079826355, -3.2790298461914062, 6.538485527038574, -3.401977777481079]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

@@ -1,0 +1,45 @@
+Execution time: 2025-07-02 17:51:13
+prompt: [CLS] opinion : whether they realize it or not, many people leave sensitive information out in plain view on web sites. but sooner or later, a google search will dig it up. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:5448 decoded_text: opinion
+idx:2 input_id:1024 decoded_text: :
+idx:3 input_id:3251 decoded_text: whether
+idx:4 input_id:2027 decoded_text: they
+idx:5 input_id:5382 decoded_text: realize
+idx:6 input_id:2009 decoded_text: it
+idx:7 input_id:2030 decoded_text: or
+idx:8 input_id:2025 decoded_text: not
+idx:9 input_id:1010 decoded_text: ,
+idx:10 input_id:2116 decoded_text: many
+idx:11 input_id:2111 decoded_text: people
+idx:12 input_id:2681 decoded_text: leave
+idx:13 input_id:7591 decoded_text: sensitive
+idx:14 input_id:2592 decoded_text: information
+idx:15 input_id:2041 decoded_text: out
+idx:16 input_id:1999 decoded_text: in
+idx:17 input_id:5810 decoded_text: plain
+idx:18 input_id:3193 decoded_text: view
+idx:19 input_id:2006 decoded_text: on
+idx:20 input_id:4773 decoded_text: web
+idx:21 input_id:4573 decoded_text: sites
+idx:22 input_id:1012 decoded_text: .
+idx:23 input_id:2021 decoded_text: but
+idx:24 input_id:10076 decoded_text: sooner
+idx:25 input_id:2030 decoded_text: or
+idx:26 input_id:2101 decoded_text: later
+idx:27 input_id:1010 decoded_text: ,
+idx:28 input_id:1037 decoded_text: a
+idx:29 input_id:8224 decoded_text: google
+idx:30 input_id:3945 decoded_text: search
+idx:31 input_id:2097 decoded_text: will
+idx:32 input_id:10667 decoded_text: dig
+idx:33 input_id:2009 decoded_text: it
+idx:34 input_id:2039 decoded_text: up
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-2.401108741760254, -4.4029221534729, 0.6660259366035461, 5.342963218688965]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

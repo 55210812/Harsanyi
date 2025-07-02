@@ -1,0 +1,55 @@
+Execution time: 2025-07-02 17:37:23
+prompt: [CLS] belgian tennis player kim clijsters has made a successful return from a long injury lay - off, overcoming dogged czech iveta benesova 7 - 6, 6 - 2 in the second round of the belgian open. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:6995 decoded_text: belgian
+idx:2 input_id:5093 decoded_text: tennis
+idx:3 input_id:2447 decoded_text: player
+idx:4 input_id:5035 decoded_text: kim
+idx:5 input_id:18856 decoded_text: cl
+idx:6 input_id:28418 decoded_text: ##ij
+idx:7 input_id:15608 decoded_text: ##sters
+idx:8 input_id:2038 decoded_text: has
+idx:9 input_id:2081 decoded_text: made
+idx:10 input_id:1037 decoded_text: a
+idx:11 input_id:3144 decoded_text: successful
+idx:12 input_id:2709 decoded_text: return
+idx:13 input_id:2013 decoded_text: from
+idx:14 input_id:1037 decoded_text: a
+idx:15 input_id:2146 decoded_text: long
+idx:16 input_id:4544 decoded_text: injury
+idx:17 input_id:3913 decoded_text: lay
+idx:18 input_id:1011 decoded_text: -
+idx:19 input_id:2125 decoded_text: off
+idx:20 input_id:1010 decoded_text: ,
+idx:21 input_id:27363 decoded_text: overcoming
+idx:22 input_id:28844 decoded_text: dogg
+idx:23 input_id:2098 decoded_text: ##ed
+idx:24 input_id:5569 decoded_text: czech
+idx:25 input_id:4921 decoded_text: iv
+idx:26 input_id:12928 decoded_text: ##eta
+idx:27 input_id:3841 decoded_text: ben
+idx:28 input_id:2229 decoded_text: ##es
+idx:29 input_id:7103 decoded_text: ##ova
+idx:30 input_id:1021 decoded_text: 7
+idx:31 input_id:1011 decoded_text: -
+idx:32 input_id:1020 decoded_text: 6
+idx:33 input_id:1010 decoded_text: ,
+idx:34 input_id:1020 decoded_text: 6
+idx:35 input_id:1011 decoded_text: -
+idx:36 input_id:1016 decoded_text: 2
+idx:37 input_id:1999 decoded_text: in
+idx:38 input_id:1996 decoded_text: the
+idx:39 input_id:2117 decoded_text: second
+idx:40 input_id:2461 decoded_text: round
+idx:41 input_id:1997 decoded_text: of
+idx:42 input_id:1996 decoded_text: the
+idx:43 input_id:6995 decoded_text: belgian
+idx:44 input_id:2330 decoded_text: open
+idx:45 input_id:1012 decoded_text: .
+idx:46 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.3669004440307617, 8.474223136901855, -2.8204705715179443, -2.7227065563201904]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

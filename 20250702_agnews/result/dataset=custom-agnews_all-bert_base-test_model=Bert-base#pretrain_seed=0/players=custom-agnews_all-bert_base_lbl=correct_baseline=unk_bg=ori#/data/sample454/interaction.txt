@@ -1,0 +1,112 @@
+---------- Players ----------
+Player 0: attorneys
+Player 1: us
+Player 2: airways
+Player 3: hope
+Player 4: convince
+Player 5: bankruptcy
+Player 6: court
+Player 7: judge
+Player 8: alexandria
+Player 9: today
+Player 10: without
+Player 11: substantial
+Player 12: pay
+Player 13: cuts,
+Player 14: airline
+Player 15: go
+Player 16: business.
+---------- AND Interactions (Pairwise Only) ----------
+I(5 14): -9.924300193786621	 ([bankruptcy][airline])
+I(5 12): -8.804435729980469	 ([bankruptcy][pay])
+I(12 14): -8.57120132446289	 ([pay][airline])
+I(1 2): 7.4563093185424805	 ([us][airways])
+I(14 16): -6.972744941711426	 ([airline][business.])
+I(0 14): -6.536429405212402	 ([attorneys][airline])
+I(5 16): -6.502740859985352	 ([bankruptcy][business.])
+I(12 16): -5.998737335205078	 ([pay][business.])
+I(0 5): -5.749785423278809	 ([attorneys][bankruptcy])
+I(0 12): -5.385662078857422	 ([attorneys][pay])
+I(6 7): 4.906574249267578	 ([court][judge])
+I(2 16): 3.603525161743164	 ([airways][business.])
+I(2 5): 3.29013729095459	 ([airways][bankruptcy])
+I(10 16): -3.0445728302001953	 ([without][business.])
+I(10 12): -2.923945426940918	 ([without][pay])
+I(0 16): -2.92392635345459	 ([attorneys][business.])
+I(7 12): -2.6732711791992188	 ([judge][pay])
+I(8 9): 2.2241811752319336	 ([alexandria][today])
+I(1 7): 2.1494598388671875	 ([us][judge])
+I(7 14): -2.1346473693847656	 ([judge][airline])
+I(5 15): -2.113400459289551	 ([bankruptcy][go])
+I(3 9): 1.8836259841918945	 ([hope][today])
+I(2 12): -1.8472776412963867	 ([airways][pay])
+I(7 11): 1.8350906372070312	 ([judge][substantial])
+I(8 16): 1.8137292861938477	 ([alexandria][business.])
+I(3 5): -1.732008934020996	 ([hope][bankruptcy])
+I(7 9): 1.5793890953063965	 ([judge][today])
+I(1 13): 1.5569167137145996	 ([us][cuts,])
+I(7 8): 1.5430893898010254	 ([judge][alexandria])
+I(0 13): 1.505788803100586	 ([attorneys][cuts,])
+I(5 7): -1.3882265090942383	 ([bankruptcy][judge])
+I(6 9): 1.372075080871582	 ([court][today])
+I(12 13): 1.3220720291137695	 ([pay][cuts,])
+I(5 13): 1.2274341583251953	 ([bankruptcy][cuts,])
+I(3 8): 1.22304368019104	 ([hope][alexandria])
+I(2 14): 1.2163772583007812	 ([airways][airline])
+I(7 16): -1.1736488342285156	 ([judge][business.])
+I(0 2): 1.1226873397827148	 ([attorneys][airways])
+I(1 12): -1.071303367614746	 ([us][pay])
+I(6 11): 1.0570263862609863	 ([court][substantial])
+I(4 7): 1.0147333145141602	 ([convince][judge])
+I(9 13): -0.9690999984741211	 ([today][cuts,])
+I(5 9): -0.9656047821044922	 ([bankruptcy][today])
+I(12 15): -0.9597959518432617	 ([pay][go])
+I(4 13): 0.9428501129150391	 ([convince][cuts,])
+I(0 7): -0.8463287353515625	 ([attorneys][judge])
+I(9 14): -0.8398027420043945	 ([today][airline])
+I(3 7): 0.8325414657592773	 ([hope][judge])
+I(1 3): -0.8229312896728516	 ([us][hope])
+I(6 12): -0.7771396636962891	 ([court][pay])
+I(13 15): -0.7753810882568359	 ([cuts,][go])
+I(15 16): -0.7747135162353516	 ([go][business.])
+I(7 15): -0.7646427154541016	 ([judge][go])
+I(9 16): 0.7549381256103516	 ([today][business.])
+I(4 12): 0.7511405944824219	 ([convince][pay])
+I(13 16): 0.7490596771240234	 ([cuts,][business.])
+I(2 4): -0.7093429565429688	 ([airways][convince])
+I(0 10): -0.698451042175293	 ([attorneys][without])
+I(4 16): 0.6494483947753906	 ([convince][business.])
+I(2 3): 0.6361865997314453	 ([airways][hope])
+I(9 15): 0.6339941024780273	 ([today][go])
+I(3 14): -0.6325912475585938	 ([hope][airline])
+I(9 11): 0.6312618255615234	 ([today][substantial])
+I(8 10): -0.6129822731018066	 ([alexandria][without])
+I(1 15): -0.608332633972168	 ([us][go])
+I(9 12): -0.6051063537597656	 ([today][pay])
+I(10 11): -0.5965232849121094	 ([without][substantial])
+I(4 9): 0.5746762752532959	 ([convince][today])
+I(2 9): 0.5644183158874512	 ([airways][today])
+I(6 16): -0.5439281463623047	 ([court][business.])
+I(1 9): 0.5423173904418945	 ([us][today])
+I(5 6): 0.5411777496337891	 ([bankruptcy][court])
+I(6 8): 0.5327749252319336	 ([court][alexandria])
+I(7 13): 0.5246405601501465	 ([judge][cuts,])
+I(0 4): -0.5083703994750977	 ([attorneys][convince])
+I(9 10): -0.48595333099365234	 ([today][without])
+I(0 9): -0.48548126220703125	 ([attorneys][today])
+I(4 11): 0.4836859703063965	 ([convince][substantial])
+I(6 14): 0.45015621185302734	 ([court][airline])
+I(11 13): 0.4302082061767578	 ([substantial][cuts,])
+I(10 13): -0.40671539306640625	 ([without][cuts,])
+I(11 15): -0.4052615165710449	 ([substantial][go])
+I(10 14): -0.4025306701660156	 ([without][airline])
+I(3 6): 0.4014902114868164	 ([hope][court])
+I(6 13): 0.3849649429321289	 ([court][cuts,])
+I(4 8): 0.3706049919128418	 ([convince][alexandria])
+I(5 11): 0.36244964599609375	 ([bankruptcy][substantial])
+I(1 10): -0.3609471321105957	 ([us][without])
+I(1 6): 0.3486342430114746	 ([us][court])
+I(2 7): 0.3174314498901367	 ([airways][judge])
+I(3 15): -0.3170433044433594	 ([hope][go])
+Sum: 11.980159759521484
+==================================================

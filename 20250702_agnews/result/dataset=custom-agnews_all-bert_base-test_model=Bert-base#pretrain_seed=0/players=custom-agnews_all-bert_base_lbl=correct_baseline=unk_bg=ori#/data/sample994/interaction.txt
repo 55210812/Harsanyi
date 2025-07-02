@@ -1,0 +1,61 @@
+---------- Players ----------
+Player 0: pc
+Player 1: world
+Player 2: -
+Player 3: updated
+Player 4: antivirus
+Player 5: software
+Player 6: businesses
+Player 7: adds
+Player 8: intrusion
+Player 9: prevention
+Player 10: features.
+---------- AND Interactions (Pairwise Only) ----------
+I(4 6): 7.819852828979492	 ([antivirus][businesses])
+I(5 6): 7.096393585205078	 ([software][businesses])
+I(0 6): 6.736429214477539	 ([pc][businesses])
+I(1 9): -6.342792987823486	 ([world][prevention])
+I(6 10): 5.560097694396973	 ([businesses][features.])
+I(7 9): -4.803923606872559	 ([adds][prevention])
+I(6 8): 4.625702857971191	 ([businesses][intrusion])
+I(5 9): 3.3042008876800537	 ([software][prevention])
+I(0 9): 2.9117929935455322	 ([pc][prevention])
+I(8 9): 2.585907220840454	 ([intrusion][prevention])
+I(1 3): -2.254206657409668	 ([world][updated])
+I(1 2): -2.1573314666748047	 ([world][-])
+I(2 9): -2.050506353378296	 ([-][prevention])
+I(1 4): -2.0063061714172363	 ([world][antivirus])
+I(4 9): 1.8387784957885742	 ([antivirus][prevention])
+I(6 7): 1.6461763381958008	 ([businesses][adds])
+I(1 5): 1.3328742980957031	 ([world][software])
+I(4 8): -1.3318719863891602	 ([antivirus][intrusion])
+I(0 1): 1.3279314041137695	 ([pc][world])
+I(6 9): 1.236180067062378	 ([businesses][prevention])
+I(4 10): -1.0428171157836914	 ([antivirus][features.])
+I(0 8): -0.9934248924255371	 ([pc][intrusion])
+I(7 8): 0.9501209259033203	 ([adds][intrusion])
+I(1 10): 0.8730983734130859	 ([world][features.])
+I(0 3): 0.8285932540893555	 ([pc][updated])
+I(3 4): 0.8008623123168945	 ([updated][antivirus])
+I(1 7): 0.7821769714355469	 ([world][adds])
+I(1 8): 0.7507109642028809	 ([world][intrusion])
+I(4 5): -0.7222018241882324	 ([antivirus][software])
+I(5 10): -0.710540771484375	 ([software][features.])
+I(8 10): -0.70751953125	 ([intrusion][features.])
+I(3 5): 0.6361761093139648	 ([updated][software])
+I(3 9): -0.6085000038146973	 ([updated][prevention])
+I(5 7): 0.5878877639770508	 ([software][adds])
+I(4 7): 0.4726238250732422	 ([antivirus][adds])
+I(2 6): 0.4586009979248047	 ([-][businesses])
+I(1 6): -0.4089393615722656	 ([world][businesses])
+I(2 10): 0.4069809913635254	 ([-][features.])
+I(3 6): -0.3809776306152344	 ([updated][businesses])
+I(9 10): -0.3355138301849365	 ([prevention][features.])
+I(3 8): 0.33337974548339844	 ([updated][intrusion])
+I(0 4): -0.29330015182495117	 ([pc][antivirus])
+I(0 5): -0.27776479721069336	 ([pc][software])
+I(7 10): -0.2763638496398926	 ([adds][features.])
+I(0 7): 0.2645730972290039	 ([pc][adds])
+I(3 7): -0.24792051315307617	 ([updated][adds])
+Sum: 21.29607129096985
+==================================================

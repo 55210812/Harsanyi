@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 17:37:40
+prompt: [CLS] finally, and with less fanfare than the release of its sibling application, firefox 1. 0, a few weeks ago, the email client called thunderbird has reached its coming of age. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2633 decoded_text: finally
+idx:2 input_id:1010 decoded_text: ,
+idx:3 input_id:1998 decoded_text: and
+idx:4 input_id:2007 decoded_text: with
+idx:5 input_id:2625 decoded_text: less
+idx:6 input_id:5470 decoded_text: fan
+idx:7 input_id:17883 decoded_text: ##fare
+idx:8 input_id:2084 decoded_text: than
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:2713 decoded_text: release
+idx:11 input_id:1997 decoded_text: of
+idx:12 input_id:2049 decoded_text: its
+idx:13 input_id:22941 decoded_text: sibling
+idx:14 input_id:4646 decoded_text: application
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:2543 decoded_text: fire
+idx:17 input_id:14876 decoded_text: ##fo
+idx:18 input_id:2595 decoded_text: ##x
+idx:19 input_id:1015 decoded_text: 1
+idx:20 input_id:1012 decoded_text: .
+idx:21 input_id:1014 decoded_text: 0
+idx:22 input_id:1010 decoded_text: ,
+idx:23 input_id:1037 decoded_text: a
+idx:24 input_id:2261 decoded_text: few
+idx:25 input_id:3134 decoded_text: weeks
+idx:26 input_id:3283 decoded_text: ago
+idx:27 input_id:1010 decoded_text: ,
+idx:28 input_id:1996 decoded_text: the
+idx:29 input_id:10373 decoded_text: email
+idx:30 input_id:7396 decoded_text: client
+idx:31 input_id:2170 decoded_text: called
+idx:32 input_id:8505 decoded_text: thunder
+idx:33 input_id:9001 decoded_text: ##bird
+idx:34 input_id:2038 decoded_text: has
+idx:35 input_id:2584 decoded_text: reached
+idx:36 input_id:2049 decoded_text: its
+idx:37 input_id:2746 decoded_text: coming
+idx:38 input_id:1997 decoded_text: of
+idx:39 input_id:2287 decoded_text: age
+idx:40 input_id:1012 decoded_text: .
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-2.5506503582000732, -2.5988032817840576, -1.7180495262145996, 6.9092698097229]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

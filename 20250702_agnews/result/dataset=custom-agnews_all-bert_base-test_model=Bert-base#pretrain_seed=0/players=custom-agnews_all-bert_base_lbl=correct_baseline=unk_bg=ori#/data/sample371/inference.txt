@@ -1,0 +1,25 @@
+Execution time: 2025-07-02 17:31:49
+prompt: [CLS] the linux adversary again demands evidence from big blue and cites allegedly contradictory testimony. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:11603 decoded_text: linux
+idx:3 input_id:27248 decoded_text: adversary
+idx:4 input_id:2153 decoded_text: again
+idx:5 input_id:7670 decoded_text: demands
+idx:6 input_id:3350 decoded_text: evidence
+idx:7 input_id:2013 decoded_text: from
+idx:8 input_id:2502 decoded_text: big
+idx:9 input_id:2630 decoded_text: blue
+idx:10 input_id:1998 decoded_text: and
+idx:11 input_id:17248 decoded_text: cites
+idx:12 input_id:9382 decoded_text: allegedly
+idx:13 input_id:27894 decoded_text: contradictory
+idx:14 input_id:10896 decoded_text: testimony
+idx:15 input_id:1012 decoded_text: .
+idx:16 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.10864520072937, -3.08375883102417, -1.0577126741409302, 7.016299724578857]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

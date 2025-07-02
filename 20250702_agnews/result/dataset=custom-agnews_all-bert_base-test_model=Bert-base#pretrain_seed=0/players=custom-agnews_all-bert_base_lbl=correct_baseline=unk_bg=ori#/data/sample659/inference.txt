@@ -1,0 +1,34 @@
+Execution time: 2025-07-02 17:46:19
+prompt: [CLS] two dedicated for pc applications and two for program recording. in extended - play mode, the vaio pc can store 19 [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2048 decoded_text: two
+idx:2 input_id:4056 decoded_text: dedicated
+idx:3 input_id:2005 decoded_text: for
+idx:4 input_id:7473 decoded_text: pc
+idx:5 input_id:5097 decoded_text: applications
+idx:6 input_id:1998 decoded_text: and
+idx:7 input_id:2048 decoded_text: two
+idx:8 input_id:2005 decoded_text: for
+idx:9 input_id:2565 decoded_text: program
+idx:10 input_id:3405 decoded_text: recording
+idx:11 input_id:1012 decoded_text: .
+idx:12 input_id:1999 decoded_text: in
+idx:13 input_id:3668 decoded_text: extended
+idx:14 input_id:1011 decoded_text: -
+idx:15 input_id:2377 decoded_text: play
+idx:16 input_id:5549 decoded_text: mode
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:1996 decoded_text: the
+idx:19 input_id:12436 decoded_text: va
+idx:20 input_id:3695 decoded_text: ##io
+idx:21 input_id:7473 decoded_text: pc
+idx:22 input_id:2064 decoded_text: can
+idx:23 input_id:3573 decoded_text: store
+idx:24 input_id:2539 decoded_text: 19
+idx:25 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.433718681335449, -1.9126427173614502, 0.6397939324378967, 5.760224342346191]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

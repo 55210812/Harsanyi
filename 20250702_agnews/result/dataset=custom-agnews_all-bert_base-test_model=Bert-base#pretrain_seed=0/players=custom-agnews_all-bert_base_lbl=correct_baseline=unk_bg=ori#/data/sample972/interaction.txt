@@ -1,0 +1,62 @@
+---------- Players ----------
+Player 0: afghans
+Player 1: turned
+Player 2: vote
+Player 3: large
+Player 4: numbers
+Player 5: saturday,
+Player 6: hamid
+Player 7: karzai
+Player 8: rivals
+Player 9: disputed
+Player 10: integrity
+Player 11: vote.
+---------- AND Interactions (Pairwise Only) ----------
+I(0 7): -8.106575012207031	 ([afghans][karzai])
+I(0 11): -6.429818153381348	 ([afghans][vote.])
+I(7 11): -5.766227722167969	 ([karzai][vote.])
+I(2 11): -4.170024394989014	 ([vote][vote.])
+I(0 6): -4.105915069580078	 ([afghans][hamid])
+I(5 7): -3.4664926528930664	 ([saturday,][karzai])
+I(5 11): -3.38336181640625	 ([saturday,][vote.])
+I(6 8): 3.218099594116211	 ([hamid][rivals])
+I(6 7): -2.5758209228515625	 ([hamid][karzai])
+I(2 5): -2.5107932090759277	 ([vote][saturday,])
+I(0 2): -2.500882148742676	 ([afghans][vote])
+I(7 9): 2.452299118041992	 ([karzai][disputed])
+I(6 11): -2.362269401550293	 ([hamid][vote.])
+I(2 7): -1.9825048446655273	 ([vote][karzai])
+I(0 9): 1.8220257759094238	 ([afghans][disputed])
+I(6 9): 1.7968640327453613	 ([hamid][disputed])
+I(8 9): 1.6633682250976562	 ([rivals][disputed])
+I(4 11): 1.4991064071655273	 ([numbers][vote.])
+I(2 3): -1.4755377769470215	 ([vote][large])
+I(2 4): -1.4646177291870117	 ([vote][numbers])
+I(5 9): 1.4342541694641113	 ([saturday,][disputed])
+I(7 8): 1.4001264572143555	 ([karzai][rivals])
+I(2 9): 1.2775344848632812	 ([vote][disputed])
+I(4 5): 1.2509469985961914	 ([numbers][saturday,])
+I(1 6): 1.2052383422851562	 ([turned][hamid])
+I(1 9): 0.8866848945617676	 ([turned][disputed])
+I(3 6): 0.8161697387695312	 ([large][hamid])
+I(0 10): 0.7934036254882812	 ([afghans][integrity])
+I(2 8): -0.7493948936462402	 ([vote][rivals])
+I(1 8): 0.7391397953033447	 ([turned][rivals])
+I(1 7): -0.7294063568115234	 ([turned][karzai])
+I(10 11): -0.6598129272460938	 ([integrity][vote.])
+I(9 11): 0.6582870483398438	 ([disputed][vote.])
+I(6 10): 0.6541528701782227	 ([hamid][integrity])
+I(0 4): 0.6470775604248047	 ([afghans][numbers])
+I(1 2): 0.6350159645080566	 ([turned][vote])
+I(8 11): 0.6010570526123047	 ([rivals][vote.])
+I(8 10): -0.5977091789245605	 ([rivals][integrity])
+I(2 6): 0.5631532669067383	 ([vote][hamid])
+I(4 8): 0.48649024963378906	 ([numbers][rivals])
+I(5 6): -0.47985172271728516	 ([saturday,][hamid])
+I(4 9): 0.4202880859375	 ([numbers][disputed])
+I(4 6): -0.4134025573730469	 ([numbers][hamid])
+I(3 4): 0.4120025634765625	 ([large][numbers])
+I(1 3): -0.4021644592285156	 ([turned][large])
+I(3 9): -0.3644442558288574	 ([large][disputed])
+Sum: 16.905569791793823
+==================================================

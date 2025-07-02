@@ -1,0 +1,37 @@
+---------- Players ----------
+Player 0: real
+Player 1: estate
+Player 2: company
+Player 3: seems
+Player 4: right
+Player 5: results
+Player 6: right
+Player 7: investors.
+---------- AND Interactions (Pairwise Only) ----------
+I(5 7): -10.47531509399414	 ([results][investors.])
+I(1 7): -8.438905715942383	 ([estate][investors.])
+I(1 5): -7.172696113586426	 ([estate][results])
+I(2 7): -6.068995475769043	 ([company][investors.])
+I(2 5): -5.368617057800293	 ([company][results])
+I(2 3): 4.487472057342529	 ([company][seems])
+I(3 5): -4.169034957885742	 ([seems][results])
+I(0 1): 4.131814956665039	 ([real][estate])
+I(1 2): -3.6307373046875	 ([estate][company])
+I(4 6): -3.6177451610565186	 ([right][right])
+I(1 3): 2.860886573791504	 ([estate][seems])
+I(3 7): 2.0840306282043457	 ([seems][investors.])
+I(5 6): -2.0500917434692383	 ([results][right])
+I(0 3): 1.760528564453125	 ([real][seems])
+I(0 7): 1.5341873168945312	 ([real][investors.])
+I(3 6): 1.2817931175231934	 ([seems][right])
+I(6 7): -0.9967756271362305	 ([right][investors.])
+I(4 7): -0.8462915420532227	 ([right][investors.])
+I(4 5): -0.6251335144042969	 ([right][results])
+I(0 6): -0.6065616607666016	 ([real][right])
+I(3 4): 0.5717909336090088	 ([seems][right])
+I(1 4): -0.5355463027954102	 ([estate][right])
+I(0 4): 0.49872422218322754	 ([real][right])
+I(2 4): 0.4572172164916992	 ([company][right])
+I(2 6): 0.3325920104980469	 ([company][right])
+Sum: -0.8345379829406738
+==================================================

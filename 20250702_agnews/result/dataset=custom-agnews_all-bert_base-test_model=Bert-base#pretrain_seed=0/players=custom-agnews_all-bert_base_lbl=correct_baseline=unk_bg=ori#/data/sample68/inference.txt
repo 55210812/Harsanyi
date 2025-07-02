@@ -1,0 +1,42 @@
+Execution time: 2025-07-02 17:18:25
+prompt: [CLS] two days ago, before he would add another chapter to his legendary tale, hicham el guerrouj received a message from a friend in france. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2048 decoded_text: two
+idx:2 input_id:2420 decoded_text: days
+idx:3 input_id:3283 decoded_text: ago
+idx:4 input_id:1010 decoded_text: ,
+idx:5 input_id:2077 decoded_text: before
+idx:6 input_id:2002 decoded_text: he
+idx:7 input_id:2052 decoded_text: would
+idx:8 input_id:5587 decoded_text: add
+idx:9 input_id:2178 decoded_text: another
+idx:10 input_id:3127 decoded_text: chapter
+idx:11 input_id:2000 decoded_text: to
+idx:12 input_id:2010 decoded_text: his
+idx:13 input_id:8987 decoded_text: legendary
+idx:14 input_id:6925 decoded_text: tale
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:7632 decoded_text: hi
+idx:17 input_id:7507 decoded_text: ##cha
+idx:18 input_id:2213 decoded_text: ##m
+idx:19 input_id:3449 decoded_text: el
+idx:20 input_id:19739 decoded_text: gu
+idx:21 input_id:2121 decoded_text: ##er
+idx:22 input_id:22494 decoded_text: ##rou
+idx:23 input_id:3501 decoded_text: ##j
+idx:24 input_id:2363 decoded_text: received
+idx:25 input_id:1037 decoded_text: a
+idx:26 input_id:4471 decoded_text: message
+idx:27 input_id:2013 decoded_text: from
+idx:28 input_id:1037 decoded_text: a
+idx:29 input_id:2767 decoded_text: friend
+idx:30 input_id:1999 decoded_text: in
+idx:31 input_id:2605 decoded_text: france
+idx:32 input_id:1012 decoded_text: .
+idx:33 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.624640464782715, 1.0665992498397827, -2.6494693756103516, -2.4530208110809326]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

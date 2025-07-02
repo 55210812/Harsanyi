@@ -1,0 +1,64 @@
+---------- Players ----------
+Player 0: deal
+Player 1: defense
+Player 2: logistics
+Player 3: agency
+Player 4: could
+Player 5: worth
+Player 6: much
+Player 7: \ $ 290
+Player 8: million
+Player 9: computing
+Player 10: giant. \
+---------- AND Interactions (Pairwise Only) ----------
+I(7 8): 13.814413070678711	 ([\ $ 290][million])
+I(8 10): 10.352800369262695	 ([million][giant. \])
+I(5 8): 10.026477813720703	 ([worth][million])
+I(5 7): 9.566621780395508	 ([worth][\ $ 290])
+I(7 10): 9.051088333129883	 ([\ $ 290][giant. \])
+I(5 10): 8.963663101196289	 ([worth][giant. \])
+I(0 8): 7.953812599182129	 ([deal][million])
+I(0 10): 7.912754058837891	 ([deal][giant. \])
+I(0 7): 6.995815277099609	 ([deal][\ $ 290])
+I(0 3): 6.850218772888184	 ([deal][agency])
+I(0 5): 6.673402786254883	 ([deal][worth])
+I(3 8): 6.273599147796631	 ([agency][million])
+I(3 10): 5.428781032562256	 ([agency][giant. \])
+I(2 7): 5.014127731323242	 ([logistics][\ $ 290])
+I(2 10): 4.7116546630859375	 ([logistics][giant. \])
+I(0 2): 4.688655853271484	 ([deal][logistics])
+I(0 9): 4.521681308746338	 ([deal][computing])
+I(2 8): 4.433342933654785	 ([logistics][million])
+I(3 5): 4.263824462890625	 ([agency][worth])
+I(5 9): 3.9843926429748535	 ([worth][computing])
+I(3 9): 3.971315383911133	 ([agency][computing])
+I(3 7): 3.8074111938476562	 ([agency][\ $ 290])
+I(2 3): 3.708953857421875	 ([logistics][agency])
+I(7 9): 3.530673027038574	 ([\ $ 290][computing])
+I(4 5): 3.476771354675293	 ([could][worth])
+I(1 8): 3.2714152336120605	 ([defense][million])
+I(2 5): 3.257815361022949	 ([logistics][worth])
+I(1 5): 3.1978073120117188	 ([defense][worth])
+I(1 7): 2.9848060607910156	 ([defense][\ $ 290])
+I(0 4): -2.665848731994629	 ([deal][could])
+I(4 10): -2.604921817779541	 ([could][giant. \])
+I(9 10): -2.5399370193481445	 ([computing][giant. \])
+I(2 9): 2.2027196884155273	 ([logistics][computing])
+I(4 9): -2.1774916648864746	 ([could][computing])
+I(1 10): 1.9559259414672852	 ([defense][giant. \])
+I(1 9): 1.7795658111572266	 ([defense][computing])
+I(8 9): 1.2045421600341797	 ([million][computing])
+I(4 8): -1.1805505752563477	 ([could][million])
+I(2 6): -1.055016040802002	 ([logistics][much])
+I(1 3): -1.0182485580444336	 ([defense][agency])
+I(5 6): 0.9585056304931641	 ([worth][much])
+I(0 1): 0.9080562591552734	 ([deal][defense])
+I(3 4): 0.878246545791626	 ([agency][could])
+I(6 7): -0.6746406555175781	 ([much][\ $ 290])
+I(2 4): -0.636115550994873	 ([logistics][could])
+I(6 9): -0.5874319076538086	 ([much][computing])
+I(1 4): -0.5693635940551758	 ([defense][could])
+I(6 10): -0.4799346923828125	 ([much][giant. \])
+I(1 2): -0.41210317611694336	 ([defense][logistics])
+Sum: 124.70960402488708
+==================================================

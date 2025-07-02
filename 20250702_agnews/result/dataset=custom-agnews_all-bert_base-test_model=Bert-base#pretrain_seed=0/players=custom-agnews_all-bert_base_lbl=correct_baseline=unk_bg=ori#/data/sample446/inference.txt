@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 17:35:16
+prompt: [CLS] reuters - hurricane ivan ripped off \ roofs and cut power across barbados on tuesday, lashing the \ island with fierce winds but sparing it a direct hit as it \ roared into the eastern caribbean. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26665 decoded_text: reuters
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:7064 decoded_text: hurricane
+idx:4 input_id:7332 decoded_text: ivan
+idx:5 input_id:9157 decoded_text: ripped
+idx:6 input_id:2125 decoded_text: off
+idx:7 input_id:1032 decoded_text: \
+idx:8 input_id:15753 decoded_text: roofs
+idx:9 input_id:1998 decoded_text: and
+idx:10 input_id:3013 decoded_text: cut
+idx:11 input_id:2373 decoded_text: power
+idx:12 input_id:2408 decoded_text: across
+idx:13 input_id:16893 decoded_text: barbados
+idx:14 input_id:2006 decoded_text: on
+idx:15 input_id:9857 decoded_text: tuesday
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:25210 decoded_text: lash
+idx:18 input_id:2075 decoded_text: ##ing
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:1032 decoded_text: \
+idx:21 input_id:2479 decoded_text: island
+idx:22 input_id:2007 decoded_text: with
+idx:23 input_id:9205 decoded_text: fierce
+idx:24 input_id:7266 decoded_text: winds
+idx:25 input_id:2021 decoded_text: but
+idx:26 input_id:12403 decoded_text: spa
+idx:27 input_id:4892 decoded_text: ##ring
+idx:28 input_id:2009 decoded_text: it
+idx:29 input_id:1037 decoded_text: a
+idx:30 input_id:3622 decoded_text: direct
+idx:31 input_id:2718 decoded_text: hit
+idx:32 input_id:2004 decoded_text: as
+idx:33 input_id:2009 decoded_text: it
+idx:34 input_id:1032 decoded_text: \
+idx:35 input_id:14242 decoded_text: roared
+idx:36 input_id:2046 decoded_text: into
+idx:37 input_id:1996 decoded_text: the
+idx:38 input_id:2789 decoded_text: eastern
+idx:39 input_id:7139 decoded_text: caribbean
+idx:40 input_id:1012 decoded_text: .
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[3.198115825653076, -3.8527896404266357, -2.3914196491241455, 2.700507640838623]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

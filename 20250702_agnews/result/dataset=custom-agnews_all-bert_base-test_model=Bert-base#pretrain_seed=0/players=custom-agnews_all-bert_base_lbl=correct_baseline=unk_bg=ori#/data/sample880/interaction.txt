@@ -1,0 +1,95 @@
+---------- Players ----------
+Player 0: vodafone
+Player 1: become
+Player 2: first
+Player 3: uk
+Player 4: mobile
+Player 5: phone
+Player 6: operator
+Player 7: offer
+Player 8: research
+Player 9: motion
+Player 10: # 39 ; s
+Player 11: latest
+Player 12: mobile
+Player 13: device,
+Player 14: blackberry
+Player 15: 7100.
+---------- AND Interactions (Pairwise Only) ----------
+I(0 14): 9.144984245300293	 ([vodafone][blackberry])
+I(0 4): 5.931354522705078	 ([vodafone][mobile])
+I(0 12): 5.373894691467285	 ([vodafone][mobile])
+I(0 5): 4.819389820098877	 ([vodafone][phone])
+I(0 9): 4.51363468170166	 ([vodafone][motion])
+I(6 12): -2.974069118499756	 ([operator][mobile])
+I(4 6): -2.835068702697754	 ([mobile][operator])
+I(4 12): -2.622838020324707	 ([mobile][mobile])
+I(4 5): -2.5351219177246094	 ([mobile][phone])
+I(9 14): 2.3618757724761963	 ([motion][blackberry])
+I(5 12): -2.115605354309082	 ([phone][mobile])
+I(0 15): 2.0842666625976562	 ([vodafone][7100.])
+I(0 13): 2.060171127319336	 ([vodafone][device,])
+I(10 14): -1.8774049282073975	 ([# 39 ; s][blackberry])
+I(0 8): 1.8571176528930664	 ([vodafone][research])
+I(0 7): 1.737452507019043	 ([vodafone][offer])
+I(11 12): -1.7000207901000977	 ([latest][mobile])
+I(13 14): -1.6316206455230713	 ([device,][blackberry])
+I(12 14): 1.6249806880950928	 ([mobile][blackberry])
+I(12 13): -1.5585651397705078	 ([mobile][device,])
+I(8 12): -1.5133981704711914	 ([research][mobile])
+I(4 7): -1.5059771537780762	 ([mobile][offer])
+I(3 14): 1.4003968238830566	 ([uk][blackberry])
+I(6 10): -1.3892388343811035	 ([operator][# 39 ; s])
+I(7 12): -1.3801069259643555	 ([offer][mobile])
+I(1 13): -1.3590669631958008	 ([become][device,])
+I(3 15): 1.3105361461639404	 ([uk][7100.])
+I(4 8): -1.301741600036621	 ([mobile][research])
+I(4 11): -1.2932415008544922	 ([mobile][latest])
+I(7 15): -1.1348590850830078	 ([offer][7100.])
+I(5 10): -1.1231541633605957	 ([phone][# 39 ; s])
+I(5 6): -1.1199727058410645	 ([phone][operator])
+I(0 11): 1.0864181518554688	 ([vodafone][latest])
+I(4 13): -1.0746731758117676	 ([mobile][device,])
+I(7 9): 1.057419776916504	 ([offer][motion])
+I(12 15): -1.0544610023498535	 ([mobile][7100.])
+I(6 14): -1.0386366844177246	 ([operator][blackberry])
+I(14 15): -1.0348215103149414	 ([blackberry][7100.])
+I(4 15): -1.0000381469726562	 ([mobile][7100.])
+I(9 15): 0.9259734153747559	 ([motion][7100.])
+I(10 12): -0.908778190612793	 ([# 39 ; s][mobile])
+I(8 11): -0.9006481170654297	 ([research][latest])
+I(4 10): -0.8657021522521973	 ([mobile][# 39 ; s])
+I(11 14): 0.850531816482544	 ([latest][blackberry])
+I(0 3): 0.8192901611328125	 ([vodafone][uk])
+I(6 15): -0.8021879196166992	 ([operator][7100.])
+I(7 10): -0.7177648544311523	 ([offer][# 39 ; s])
+I(5 8): -0.7031011581420898	 ([phone][research])
+I(0 10): -0.6804847717285156	 ([vodafone][# 39 ; s])
+I(2 3): -0.6786258220672607	 ([first][uk])
+I(0 6): 0.6251668930053711	 ([vodafone][operator])
+I(2 14): -0.6067957878112793	 ([first][blackberry])
+I(2 4): -0.600670337677002	 ([first][mobile])
+I(3 7): 0.5854241847991943	 ([uk][offer])
+I(1 15): 0.571753978729248	 ([become][7100.])
+I(3 12): 0.5712807178497314	 ([uk][mobile])
+I(2 5): -0.5697135925292969	 ([first][phone])
+I(9 11): 0.5484185218811035	 ([motion][latest])
+I(6 13): -0.5459480285644531	 ([operator][device,])
+I(7 8): 0.527501106262207	 ([offer][research])
+I(3 4): 0.5187642574310303	 ([uk][mobile])
+I(1 8): -0.5114102363586426	 ([become][research])
+I(2 15): -0.5075592994689941	 ([first][7100.])
+I(10 15): -0.4829220771789551	 ([# 39 ; s][7100.])
+I(0 1): -0.47783470153808594	 ([vodafone][become])
+I(1 14): 0.46340131759643555	 ([become][blackberry])
+I(10 11): -0.46195173263549805	 ([# 39 ; s][latest])
+I(3 13): 0.4612100124359131	 ([uk][device,])
+I(2 12): -0.4264030456542969	 ([first][mobile])
+I(2 6): -0.40234375	 ([first][operator])
+I(2 9): -0.39713430404663086	 ([first][motion])
+I(4 14): 0.3934342861175537	 ([mobile][blackberry])
+I(2 11): -0.362485408782959	 ([first][latest])
+I(9 13): 0.3200831413269043	 ([motion][device,])
+I(8 10): 0.3188920021057129	 ([research][# 39 ; s])
+Sum: -0.5072464942932129
+==================================================

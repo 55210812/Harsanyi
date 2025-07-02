@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 17:27:27
+prompt: [CLS] berlin - the united states ( us ) treasury secretary john snow has flown into berlin at the weekend on a budget flight - and pledged to cut the us deficit in half. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4068 decoded_text: berlin
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:1996 decoded_text: the
+idx:4 input_id:2142 decoded_text: united
+idx:5 input_id:2163 decoded_text: states
+idx:6 input_id:1006 decoded_text: (
+idx:7 input_id:2149 decoded_text: us
+idx:8 input_id:1007 decoded_text: )
+idx:9 input_id:9837 decoded_text: treasury
+idx:10 input_id:3187 decoded_text: secretary
+idx:11 input_id:2198 decoded_text: john
+idx:12 input_id:4586 decoded_text: snow
+idx:13 input_id:2038 decoded_text: has
+idx:14 input_id:10583 decoded_text: flown
+idx:15 input_id:2046 decoded_text: into
+idx:16 input_id:4068 decoded_text: berlin
+idx:17 input_id:2012 decoded_text: at
+idx:18 input_id:1996 decoded_text: the
+idx:19 input_id:5353 decoded_text: weekend
+idx:20 input_id:2006 decoded_text: on
+idx:21 input_id:1037 decoded_text: a
+idx:22 input_id:5166 decoded_text: budget
+idx:23 input_id:3462 decoded_text: flight
+idx:24 input_id:1011 decoded_text: -
+idx:25 input_id:1998 decoded_text: and
+idx:26 input_id:16970 decoded_text: pledged
+idx:27 input_id:2000 decoded_text: to
+idx:28 input_id:3013 decoded_text: cut
+idx:29 input_id:1996 decoded_text: the
+idx:30 input_id:2149 decoded_text: us
+idx:31 input_id:15074 decoded_text: deficit
+idx:32 input_id:1999 decoded_text: in
+idx:33 input_id:2431 decoded_text: half
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[0.2670350968837738, -3.451704740524292, 5.5526251792907715, -3.905916929244995]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

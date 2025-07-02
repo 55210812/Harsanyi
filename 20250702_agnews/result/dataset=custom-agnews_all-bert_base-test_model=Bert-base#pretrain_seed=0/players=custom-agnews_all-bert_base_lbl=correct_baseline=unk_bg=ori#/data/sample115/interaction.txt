@@ -1,0 +1,69 @@
+---------- Players ----------
+Player 0: wireless
+Player 1: carrier
+Player 2: teams
+Player 3: earthcam
+Player 4: stream
+Player 5: video
+Player 6: personal
+Player 7: public
+Player 8: webcams
+Player 9: camera
+Player 10: phones.
+---------- AND Interactions (Pairwise Only) ----------
+I(2 7): -4.264655113220215	 ([teams][public])
+I(0 2): 4.1222686767578125	 ([wireless][teams])
+I(3 8): -3.250661849975586	 ([earthcam][webcams])
+I(1 2): 3.2075648307800293	 ([carrier][teams])
+I(1 9): 2.974515438079834	 ([carrier][camera])
+I(2 4): 2.9039745330810547	 ([teams][stream])
+I(6 8): -2.8345065116882324	 ([personal][webcams])
+I(3 5): -2.797189712524414	 ([earthcam][video])
+I(2 5): 2.4844722747802734	 ([teams][video])
+I(6 7): -2.4459733963012695	 ([personal][public])
+I(2 8): 2.366030216217041	 ([teams][webcams])
+I(5 8): -2.26279878616333	 ([video][webcams])
+I(7 8): -2.253969669342041	 ([public][webcams])
+I(3 6): -2.2479848861694336	 ([earthcam][personal])
+I(9 10): 2.1548054218292236	 ([camera][phones.])
+I(0 8): -2.1049036979675293	 ([wireless][webcams])
+I(5 6): -1.9878950119018555	 ([video][personal])
+I(2 6): 1.9169273376464844	 ([teams][personal])
+I(2 10): 1.8947217464447021	 ([teams][phones.])
+I(2 3): 1.882248878479004	 ([teams][earthcam])
+I(3 7): -1.8736376762390137	 ([earthcam][public])
+I(2 9): 1.744889259338379	 ([teams][camera])
+I(0 3): -1.7337031364440918	 ([wireless][earthcam])
+I(3 4): -1.7054595947265625	 ([earthcam][stream])
+I(1 4): 1.6871838569641113	 ([carrier][stream])
+I(5 7): -1.6388230323791504	 ([video][public])
+I(5 9): -1.6113147735595703	 ([video][camera])
+I(7 10): -1.5989596843719482	 ([public][phones.])
+I(0 6): -1.540781021118164	 ([wireless][personal])
+I(3 9): -1.4390110969543457	 ([earthcam][camera])
+I(1 3): 1.346703052520752	 ([carrier][earthcam])
+I(0 7): -1.2622394561767578	 ([wireless][public])
+I(1 6): 1.1655993461608887	 ([carrier][personal])
+I(0 1): 1.1492576599121094	 ([wireless][carrier])
+I(8 9): -1.092477798461914	 ([webcams][camera])
+I(4 8): -1.0844874382019043	 ([stream][webcams])
+I(6 9): -1.0025129318237305	 ([personal][camera])
+I(1 5): 0.9167394638061523	 ([carrier][video])
+I(5 10): 0.8843863010406494	 ([video][phones.])
+I(0 10): 0.8698391914367676	 ([wireless][phones.])
+I(4 6): -0.869288444519043	 ([stream][personal])
+I(7 9): -0.8352408409118652	 ([public][camera])
+I(1 8): 0.7480268478393555	 ([carrier][webcams])
+I(1 7): 0.6930575370788574	 ([carrier][public])
+I(8 10): 0.6564037799835205	 ([webcams][phones.])
+I(6 10): -0.5762412548065186	 ([personal][phones.])
+I(0 9): 0.5465865135192871	 ([wireless][camera])
+I(4 9): 0.5425314903259277	 ([stream][camera])
+I(0 5): -0.4779973030090332	 ([wireless][video])
+I(4 7): -0.4376544952392578	 ([stream][public])
+I(3 10): 0.4268174171447754	 ([earthcam][phones.])
+I(4 5): -0.38594532012939453	 ([stream][video])
+I(4 10): 0.3482081890106201	 ([stream][phones.])
+I(0 4): 0.15339422225952148	 ([wireless][stream])
+Sum: 5.59324312210083
+==================================================

@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 17:45:55
+prompt: [CLS] england captain david beckham has revealed that he deliberately got himself booked against wales on saturday. the real madrid star was cautioned for a foul on ben thatcher late in the game, and he will now [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2563 decoded_text: england
+idx:2 input_id:2952 decoded_text: captain
+idx:3 input_id:2585 decoded_text: david
+idx:4 input_id:10272 decoded_text: beck
+idx:5 input_id:3511 decoded_text: ##ham
+idx:6 input_id:2038 decoded_text: has
+idx:7 input_id:3936 decoded_text: revealed
+idx:8 input_id:2008 decoded_text: that
+idx:9 input_id:2002 decoded_text: he
+idx:10 input_id:9969 decoded_text: deliberately
+idx:11 input_id:2288 decoded_text: got
+idx:12 input_id:2370 decoded_text: himself
+idx:13 input_id:17414 decoded_text: booked
+idx:14 input_id:2114 decoded_text: against
+idx:15 input_id:3575 decoded_text: wales
+idx:16 input_id:2006 decoded_text: on
+idx:17 input_id:5095 decoded_text: saturday
+idx:18 input_id:1012 decoded_text: .
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:2613 decoded_text: real
+idx:21 input_id:6921 decoded_text: madrid
+idx:22 input_id:2732 decoded_text: star
+idx:23 input_id:2001 decoded_text: was
+idx:24 input_id:14046 decoded_text: caution
+idx:25 input_id:2098 decoded_text: ##ed
+idx:26 input_id:2005 decoded_text: for
+idx:27 input_id:1037 decoded_text: a
+idx:28 input_id:12487 decoded_text: foul
+idx:29 input_id:2006 decoded_text: on
+idx:30 input_id:3841 decoded_text: ben
+idx:31 input_id:21127 decoded_text: thatcher
+idx:32 input_id:2397 decoded_text: late
+idx:33 input_id:1999 decoded_text: in
+idx:34 input_id:1996 decoded_text: the
+idx:35 input_id:2208 decoded_text: game
+idx:36 input_id:1010 decoded_text: ,
+idx:37 input_id:1998 decoded_text: and
+idx:38 input_id:2002 decoded_text: he
+idx:39 input_id:2097 decoded_text: will
+idx:40 input_id:2085 decoded_text: now
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.4947926998138428, 8.380159378051758, -2.310741424560547, -2.3025362491607666]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

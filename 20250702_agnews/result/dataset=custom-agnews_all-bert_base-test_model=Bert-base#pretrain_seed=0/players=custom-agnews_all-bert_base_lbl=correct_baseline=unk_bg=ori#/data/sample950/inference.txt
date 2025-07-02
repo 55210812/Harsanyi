@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 17:58:25
+prompt: [CLS] radical muslim cleric abu hamza is set to be charged under the terrorism act, legal sources have said. hamza is facing separate extradition proceedings to the us, where officials have accused him of playing [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:7490 decoded_text: radical
+idx:2 input_id:5152 decoded_text: muslim
+idx:3 input_id:29307 decoded_text: cleric
+idx:4 input_id:8273 decoded_text: abu
+idx:5 input_id:10654 decoded_text: ham
+idx:6 input_id:4143 decoded_text: ##za
+idx:7 input_id:2003 decoded_text: is
+idx:8 input_id:2275 decoded_text: set
+idx:9 input_id:2000 decoded_text: to
+idx:10 input_id:2022 decoded_text: be
+idx:11 input_id:5338 decoded_text: charged
+idx:12 input_id:2104 decoded_text: under
+idx:13 input_id:1996 decoded_text: the
+idx:14 input_id:10130 decoded_text: terrorism
+idx:15 input_id:2552 decoded_text: act
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:3423 decoded_text: legal
+idx:18 input_id:4216 decoded_text: sources
+idx:19 input_id:2031 decoded_text: have
+idx:20 input_id:2056 decoded_text: said
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:10654 decoded_text: ham
+idx:23 input_id:4143 decoded_text: ##za
+idx:24 input_id:2003 decoded_text: is
+idx:25 input_id:5307 decoded_text: facing
+idx:26 input_id:3584 decoded_text: separate
+idx:27 input_id:4469 decoded_text: extra
+idx:28 input_id:20562 decoded_text: ##dition
+idx:29 input_id:8931 decoded_text: proceedings
+idx:30 input_id:2000 decoded_text: to
+idx:31 input_id:1996 decoded_text: the
+idx:32 input_id:2149 decoded_text: us
+idx:33 input_id:1010 decoded_text: ,
+idx:34 input_id:2073 decoded_text: where
+idx:35 input_id:4584 decoded_text: officials
+idx:36 input_id:2031 decoded_text: have
+idx:37 input_id:5496 decoded_text: accused
+idx:38 input_id:2032 decoded_text: him
+idx:39 input_id:1997 decoded_text: of
+idx:40 input_id:2652 decoded_text: playing
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.158658981323242, -1.7036054134368896, -2.7039358615875244, -2.395747423171997]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

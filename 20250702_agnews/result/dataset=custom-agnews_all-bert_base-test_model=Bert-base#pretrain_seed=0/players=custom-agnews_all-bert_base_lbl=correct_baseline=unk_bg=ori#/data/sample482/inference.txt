@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 17:36:55
+prompt: [CLS] ( cbs ) when the pharmaceutical giant merck pulled its blockbuster pain medication vioxx off the market in late september, it became the largest prescription drug recall in history. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1006 decoded_text: (
+idx:2 input_id:6568 decoded_text: cbs
+idx:3 input_id:1007 decoded_text: )
+idx:4 input_id:2043 decoded_text: when
+idx:5 input_id:1996 decoded_text: the
+idx:6 input_id:13859 decoded_text: pharmaceutical
+idx:7 input_id:5016 decoded_text: giant
+idx:8 input_id:21442 decoded_text: mer
+idx:9 input_id:3600 decoded_text: ##ck
+idx:10 input_id:2766 decoded_text: pulled
+idx:11 input_id:2049 decoded_text: its
+idx:12 input_id:27858 decoded_text: blockbuster
+idx:13 input_id:3255 decoded_text: pain
+idx:14 input_id:14667 decoded_text: medication
+idx:15 input_id:6819 decoded_text: vi
+idx:16 input_id:11636 decoded_text: ##ox
+idx:17 input_id:2595 decoded_text: ##x
+idx:18 input_id:2125 decoded_text: off
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:3006 decoded_text: market
+idx:21 input_id:1999 decoded_text: in
+idx:22 input_id:2397 decoded_text: late
+idx:23 input_id:2244 decoded_text: september
+idx:24 input_id:1010 decoded_text: ,
+idx:25 input_id:2009 decoded_text: it
+idx:26 input_id:2150 decoded_text: became
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:2922 decoded_text: largest
+idx:29 input_id:20422 decoded_text: prescription
+idx:30 input_id:4319 decoded_text: drug
+idx:31 input_id:9131 decoded_text: recall
+idx:32 input_id:1999 decoded_text: in
+idx:33 input_id:2381 decoded_text: history
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-0.3746803402900696, -3.9083669185638428, 5.843287467956543, -3.2685012817382812]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

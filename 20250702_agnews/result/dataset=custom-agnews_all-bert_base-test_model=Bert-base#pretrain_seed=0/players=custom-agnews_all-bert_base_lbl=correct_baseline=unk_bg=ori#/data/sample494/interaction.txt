@@ -1,0 +1,75 @@
+---------- Players ----------
+Player 0: scientists
+Player 1: united
+Player 2: states
+Player 3: find
+Player 4: way
+Player 5: turn
+Player 6: lazy
+Player 7: monkeys
+Player 8: workaholics
+Player 9: using
+Player 10: gene
+Player 11: therapy.
+---------- AND Interactions (Pairwise Only) ----------
+I(0 11): 3.386535167694092	 ([scientists][therapy.])
+I(0 7): -2.2472963333129883	 ([scientists][monkeys])
+I(5 11): 2.239121913909912	 ([turn][therapy.])
+I(1 2): -2.2111546993255615	 ([united][states])
+I(9 11): 1.9911293983459473	 ([using][therapy.])
+I(7 11): 1.988297939300537	 ([monkeys][therapy.])
+I(7 10): -1.73356294631958	 ([monkeys][gene])
+I(3 7): -1.5316967964172363	 ([find][monkeys])
+I(2 11): 1.4637742042541504	 ([states][therapy.])
+I(0 10): -1.455920696258545	 ([scientists][gene])
+I(8 11): 1.3763272762298584	 ([workaholics][therapy.])
+I(1 11): 1.3190045356750488	 ([united][therapy.])
+I(2 3): -1.314368724822998	 ([states][find])
+I(3 4): -1.2678513526916504	 ([find][way])
+I(4 11): 1.1793999671936035	 ([way][therapy.])
+I(0 3): -1.1282377243041992	 ([scientists][find])
+I(0 8): -1.124849796295166	 ([scientists][workaholics])
+I(0 4): -1.0258703231811523	 ([scientists][way])
+I(4 7): -1.0214920043945312	 ([way][monkeys])
+I(3 8): -0.9995193481445312	 ([find][workaholics])
+I(6 11): 0.8744091987609863	 ([lazy][therapy.])
+I(7 8): -0.8337588310241699	 ([monkeys][workaholics])
+I(3 11): 0.8322792053222656	 ([find][therapy.])
+I(3 10): -0.8181824684143066	 ([find][gene])
+I(8 9): -0.8166332244873047	 ([workaholics][using])
+I(4 9): -0.7991952896118164	 ([way][using])
+I(7 9): -0.6650824546813965	 ([monkeys][using])
+I(1 7): 0.6257314682006836	 ([united][monkeys])
+I(3 9): -0.6256356239318848	 ([find][using])
+I(5 7): -0.6243791580200195	 ([turn][monkeys])
+I(5 6): 0.599665641784668	 ([turn][lazy])
+I(10 11): 0.5948047637939453	 ([gene][therapy.])
+I(1 3): -0.5476999282836914	 ([united][find])
+I(2 4): -0.5417370796203613	 ([states][way])
+I(0 1): 0.5315957069396973	 ([scientists][united])
+I(4 10): -0.46629905700683594	 ([way][gene])
+I(4 5): -0.4642457962036133	 ([way][turn])
+I(3 5): -0.45410585403442383	 ([find][turn])
+I(5 9): -0.4524531364440918	 ([turn][using])
+I(6 10): -0.4252610206604004	 ([lazy][gene])
+I(0 9): -0.42109155654907227	 ([scientists][using])
+I(2 7): -0.37363576889038086	 ([states][monkeys])
+I(6 7): -0.3526434898376465	 ([lazy][monkeys])
+I(1 8): -0.34332275390625	 ([united][workaholics])
+I(1 10): 0.3273487091064453	 ([united][gene])
+I(6 9): -0.3103008270263672	 ([lazy][using])
+I(1 4): -0.29105472564697266	 ([united][way])
+I(5 8): 0.27704286575317383	 ([turn][workaholics])
+I(8 10): -0.27341651916503906	 ([workaholics][gene])
+I(1 6): 0.25608253479003906	 ([united][lazy])
+I(3 6): -0.23485279083251953	 ([find][lazy])
+I(0 5): -0.2160959243774414	 ([scientists][turn])
+I(1 9): 0.18504619598388672	 ([united][using])
+I(2 5): 0.1525402069091797	 ([states][turn])
+I(9 10): -0.14733600616455078	 ([using][gene])
+I(2 9): -0.1365981101989746	 ([states][using])
+I(5 10): -0.1352405548095703	 ([turn][gene])
+I(2 8): -0.11129474639892578	 ([states][workaholics])
+I(0 6): -0.10282325744628906	 ([scientists][lazy])
+Sum: -0.666327953338623
+==================================================

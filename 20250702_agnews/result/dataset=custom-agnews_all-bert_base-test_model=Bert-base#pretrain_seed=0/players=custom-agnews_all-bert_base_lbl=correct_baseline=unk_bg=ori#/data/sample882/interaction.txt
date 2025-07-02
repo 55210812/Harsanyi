@@ -1,0 +1,82 @@
+---------- Players ----------
+Player 0: believe
+Player 1: every
+Player 2: cynic
+Player 3: says
+Player 4: great
+Player 5: players
+Player 6: mercenaries
+Player 7: flit
+Player 8: like
+Player 9: butterflies
+Player 10: big
+Player 11: money
+Player 12: clubs
+Player 13: champions
+Player 14: league.
+---------- AND Interactions (Pairwise Only) ----------
+I(6 14): -11.362154006958008	 ([mercenaries][league.])
+I(5 14): -10.42601490020752	 ([players][league.])
+I(11 12): -10.060478210449219	 ([money][clubs])
+I(5 13): -8.845312118530273	 ([players][champions])
+I(12 14): -8.066356658935547	 ([clubs][league.])
+I(5 12): -7.907990455627441	 ([players][clubs])
+I(6 12): -7.823156833648682	 ([mercenaries][clubs])
+I(6 13): -7.681242942810059	 ([mercenaries][champions])
+I(13 14): -7.5214338302612305	 ([champions][league.])
+I(5 6): -7.090561389923096	 ([players][mercenaries])
+I(4 13): -6.544711589813232	 ([great][champions])
+I(12 13): -5.508271217346191	 ([clubs][champions])
+I(11 14): -5.243104934692383	 ([money][league.])
+I(9 13): -5.1077656745910645	 ([butterflies][champions])
+I(4 12): -4.9527268409729	 ([great][clubs])
+I(9 12): -4.634093761444092	 ([butterflies][clubs])
+I(11 13): -4.56201696395874	 ([money][champions])
+I(5 11): -4.191057205200195	 ([players][money])
+I(7 12): -3.7919445037841797	 ([flit][clubs])
+I(6 11): -3.266558885574341	 ([mercenaries][money])
+I(5 7): -2.052718162536621	 ([players][flit])
+I(2 12): -1.8760905265808105	 ([cynic][clubs])
+I(10 11): -1.8597264289855957	 ([big][money])
+I(7 14): -1.788935661315918	 ([flit][league.])
+I(10 12): -1.5601592063903809	 ([big][clubs])
+I(9 11): -1.5164055824279785	 ([butterflies][money])
+I(10 13): -1.4271717071533203	 ([big][champions])
+I(4 11): -1.4223403930664062	 ([great][money])
+I(8 12): -1.271681785583496	 ([like][clubs])
+I(2 14): -1.2071504592895508	 ([cynic][league.])
+I(5 9): -1.102447509765625	 ([players][butterflies])
+I(4 14): -1.0964651107788086	 ([great][league.])
+I(2 6): -1.0655865669250488	 ([cynic][mercenaries])
+I(9 14): -0.9856538772583008	 ([butterflies][league.])
+I(2 13): -0.9336490631103516	 ([cynic][champions])
+I(7 9): -0.9157314300537109	 ([flit][butterflies])
+I(0 5): 0.8333320617675781	 ([believe][players])
+I(3 12): -0.8125724792480469	 ([says][clubs])
+I(3 14): -0.8109626770019531	 ([says][league.])
+I(7 11): -0.7999711036682129	 ([flit][money])
+I(2 11): -0.7809100151062012	 ([cynic][money])
+I(3 5): -0.7343950271606445	 ([says][players])
+I(2 5): -0.7247037887573242	 ([cynic][players])
+I(6 8): 0.7023091316223145	 ([mercenaries][like])
+I(8 9): 0.6306118965148926	 ([like][butterflies])
+I(8 13): -0.6182937622070312	 ([like][champions])
+I(2 4): -0.6133522987365723	 ([cynic][great])
+I(0 11): 0.612581729888916	 ([believe][money])
+I(1 5): 0.6080703735351562	 ([every][players])
+I(6 9): -0.588951587677002	 ([mercenaries][butterflies])
+I(7 13): -0.5648517608642578	 ([flit][champions])
+I(1 13): 0.5544338226318359	 ([every][champions])
+I(9 10): -0.5070672035217285	 ([butterflies][big])
+I(4 9): 0.4949164390563965	 ([great][butterflies])
+I(0 12): 0.4797172546386719	 ([believe][clubs])
+I(7 8): 0.46976423263549805	 ([flit][like])
+I(0 1): 0.4620323181152344	 ([believe][every])
+I(3 9): -0.4522233009338379	 ([says][butterflies])
+I(5 8): 0.4342460632324219	 ([players][like])
+I(5 10): -0.43309736251831055	 ([players][big])
+I(1 6): -0.40438318252563477	 ([every][mercenaries])
+I(10 14): -0.37696170806884766	 ([big][league.])
+I(0 4): 0.32850122451782227	 ([believe][great])
+Sum: -111.52399277687073
+==================================================

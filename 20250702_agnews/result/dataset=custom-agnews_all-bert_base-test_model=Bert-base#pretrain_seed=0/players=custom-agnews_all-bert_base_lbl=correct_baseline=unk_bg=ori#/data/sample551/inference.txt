@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 17:42:35
+prompt: [CLS] networking and linux vendor novell reported a profit of \ $ 57. 1 million for fiscal 2004 and said its linux offerings are allowing the company to reach new customers. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:14048 decoded_text: networking
+idx:2 input_id:1998 decoded_text: and
+idx:3 input_id:11603 decoded_text: linux
+idx:4 input_id:21431 decoded_text: vendor
+idx:5 input_id:3117 decoded_text: novel
+idx:6 input_id:2140 decoded_text: ##l
+idx:7 input_id:2988 decoded_text: reported
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:5618 decoded_text: profit
+idx:10 input_id:1997 decoded_text: of
+idx:11 input_id:1032 decoded_text: \
+idx:12 input_id:1002 decoded_text: $
+idx:13 input_id:5401 decoded_text: 57
+idx:14 input_id:1012 decoded_text: .
+idx:15 input_id:1015 decoded_text: 1
+idx:16 input_id:2454 decoded_text: million
+idx:17 input_id:2005 decoded_text: for
+idx:18 input_id:10807 decoded_text: fiscal
+idx:19 input_id:2432 decoded_text: 2004
+idx:20 input_id:1998 decoded_text: and
+idx:21 input_id:2056 decoded_text: said
+idx:22 input_id:2049 decoded_text: its
+idx:23 input_id:11603 decoded_text: linux
+idx:24 input_id:14927 decoded_text: offerings
+idx:25 input_id:2024 decoded_text: are
+idx:26 input_id:4352 decoded_text: allowing
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:2194 decoded_text: company
+idx:29 input_id:2000 decoded_text: to
+idx:30 input_id:3362 decoded_text: reach
+idx:31 input_id:2047 decoded_text: new
+idx:32 input_id:6304 decoded_text: customers
+idx:33 input_id:1012 decoded_text: .
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.3946633338928223, -3.939403772354126, 1.6727606058120728, 4.805300235748291]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

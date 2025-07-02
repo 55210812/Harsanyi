@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 17:38:41
+prompt: [CLS] they threw a surprise party for joe nemechek in dover a few weeks ago. there were balloons and cake with strawberry custard filling and soldiers at the back [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2027 decoded_text: they
+idx:2 input_id:4711 decoded_text: threw
+idx:3 input_id:1037 decoded_text: a
+idx:4 input_id:4474 decoded_text: surprise
+idx:5 input_id:2283 decoded_text: party
+idx:6 input_id:2005 decoded_text: for
+idx:7 input_id:3533 decoded_text: joe
+idx:8 input_id:11265 decoded_text: ne
+idx:9 input_id:4168 decoded_text: ##me
+idx:10 input_id:5403 decoded_text: ##che
+idx:11 input_id:2243 decoded_text: ##k
+idx:12 input_id:1999 decoded_text: in
+idx:13 input_id:13985 decoded_text: dover
+idx:14 input_id:1037 decoded_text: a
+idx:15 input_id:2261 decoded_text: few
+idx:16 input_id:3134 decoded_text: weeks
+idx:17 input_id:3283 decoded_text: ago
+idx:18 input_id:1012 decoded_text: .
+idx:19 input_id:2045 decoded_text: there
+idx:20 input_id:2020 decoded_text: were
+idx:21 input_id:22163 decoded_text: balloons
+idx:22 input_id:1998 decoded_text: and
+idx:23 input_id:9850 decoded_text: cake
+idx:24 input_id:2007 decoded_text: with
+idx:25 input_id:16876 decoded_text: strawberry
+idx:26 input_id:12731 decoded_text: cu
+idx:27 input_id:14117 decoded_text: ##star
+idx:28 input_id:2094 decoded_text: ##d
+idx:29 input_id:8110 decoded_text: filling
+idx:30 input_id:1998 decoded_text: and
+idx:31 input_id:3548 decoded_text: soldiers
+idx:32 input_id:2012 decoded_text: at
+idx:33 input_id:1996 decoded_text: the
+idx:34 input_id:2067 decoded_text: back
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-0.6000394821166992, 5.4086432456970215, -0.9539915323257446, -3.173011064529419]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

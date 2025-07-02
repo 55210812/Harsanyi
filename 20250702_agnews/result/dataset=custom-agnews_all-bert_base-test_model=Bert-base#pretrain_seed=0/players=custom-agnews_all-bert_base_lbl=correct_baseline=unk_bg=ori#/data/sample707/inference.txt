@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 17:48:13
+prompt: [CLS] yesterday we reported that the senate judiciary committee would be taking up the induce act once again. they did so this morning, and the bill failed to advance because of strong opposition from the technology [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:7483 decoded_text: yesterday
+idx:2 input_id:2057 decoded_text: we
+idx:3 input_id:2988 decoded_text: reported
+idx:4 input_id:2008 decoded_text: that
+idx:5 input_id:1996 decoded_text: the
+idx:6 input_id:4001 decoded_text: senate
+idx:7 input_id:14814 decoded_text: judiciary
+idx:8 input_id:2837 decoded_text: committee
+idx:9 input_id:2052 decoded_text: would
+idx:10 input_id:2022 decoded_text: be
+idx:11 input_id:2635 decoded_text: taking
+idx:12 input_id:2039 decoded_text: up
+idx:13 input_id:1996 decoded_text: the
+idx:14 input_id:19653 decoded_text: induce
+idx:15 input_id:2552 decoded_text: act
+idx:16 input_id:2320 decoded_text: once
+idx:17 input_id:2153 decoded_text: again
+idx:18 input_id:1012 decoded_text: .
+idx:19 input_id:2027 decoded_text: they
+idx:20 input_id:2106 decoded_text: did
+idx:21 input_id:2061 decoded_text: so
+idx:22 input_id:2023 decoded_text: this
+idx:23 input_id:2851 decoded_text: morning
+idx:24 input_id:1010 decoded_text: ,
+idx:25 input_id:1998 decoded_text: and
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:3021 decoded_text: bill
+idx:28 input_id:3478 decoded_text: failed
+idx:29 input_id:2000 decoded_text: to
+idx:30 input_id:5083 decoded_text: advance
+idx:31 input_id:2138 decoded_text: because
+idx:32 input_id:1997 decoded_text: of
+idx:33 input_id:2844 decoded_text: strong
+idx:34 input_id:4559 decoded_text: opposition
+idx:35 input_id:2013 decoded_text: from
+idx:36 input_id:1996 decoded_text: the
+idx:37 input_id:2974 decoded_text: technology
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.514817237854004, -1.9027252197265625, -0.6919597387313843, 6.048792839050293]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

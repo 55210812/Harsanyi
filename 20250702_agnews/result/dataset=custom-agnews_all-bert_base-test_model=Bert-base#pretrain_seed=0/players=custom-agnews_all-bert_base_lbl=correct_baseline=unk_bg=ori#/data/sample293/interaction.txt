@@ -1,0 +1,98 @@
+---------- Players ----------
+Player 0: us
+Player 1: virtually
+Player 2: defenceless
+Player 3: another
+Player 4: scandal
+Player 5: vioxx,
+Player 6: senators
+Player 7: investigating
+Player 8: mercks
+Player 9: withdrawal
+Player 10: popular
+Player 11: painkiller
+Player 12: told
+Player 13: yesterday.
+---------- AND Interactions (Pairwise Only) ----------
+I(5 8): -7.321938514709473	 ([vioxx,][mercks])
+I(0 5): -7.275063514709473	 ([us][vioxx,])
+I(4 5): -5.304300308227539	 ([scandal][vioxx,])
+I(0 4): -4.832368850708008	 ([us][scandal])
+I(0 8): -4.815534591674805	 ([us][mercks])
+I(9 11): -4.3735809326171875	 ([withdrawal][painkiller])
+I(4 9): -4.3074750900268555	 ([scandal][withdrawal])
+I(4 8): -4.258427143096924	 ([scandal][mercks])
+I(6 8): -4.006378650665283	 ([senators][mercks])
+I(0 13): -3.9979496002197266	 ([us][yesterday.])
+I(7 9): 3.6411919593811035	 ([investigating][withdrawal])
+I(4 6): -3.389592170715332	 ([scandal][senators])
+I(6 11): -3.240703821182251	 ([senators][painkiller])
+I(5 9): -3.2274255752563477	 ([vioxx,][withdrawal])
+I(6 7): -3.1728899478912354	 ([senators][investigating])
+I(8 9): -3.0156307220458984	 ([mercks][withdrawal])
+I(8 13): -2.921356201171875	 ([mercks][yesterday.])
+I(8 11): -2.866067409515381	 ([mercks][painkiller])
+I(2 4): 2.7763211727142334	 ([defenceless][scandal])
+I(4 13): -2.6230053901672363	 ([scandal][yesterday.])
+I(0 9): -2.5507631301879883	 ([us][withdrawal])
+I(5 13): -2.506596565246582	 ([vioxx,][yesterday.])
+I(2 5): -2.4776835441589355	 ([defenceless][vioxx,])
+I(4 7): 2.4496400356292725	 ([scandal][investigating])
+I(5 6): -2.3095664978027344	 ([vioxx,][senators])
+I(7 8): 2.0788629055023193	 ([investigating][mercks])
+I(8 12): -2.077406883239746	 ([mercks][told])
+I(0 11): 2.0498781204223633	 ([us][painkiller])
+I(3 4): 1.996338129043579	 ([another][scandal])
+I(0 12): -1.9855256080627441	 ([us][told])
+I(2 11): 1.982295274734497	 ([defenceless][painkiller])
+I(6 13): -1.9249498844146729	 ([senators][yesterday.])
+I(1 13): 1.9208335876464844	 ([virtually][yesterday.])
+I(4 10): -1.7731549739837646	 ([scandal][popular])
+I(1 6): 1.744964838027954	 ([virtually][senators])
+I(12 13): -1.7298645973205566	 ([told][yesterday.])
+I(2 12): 1.639542818069458	 ([defenceless][told])
+I(9 13): -1.6156327724456787	 ([withdrawal][yesterday.])
+I(2 7): 1.538590431213379	 ([defenceless][investigating])
+I(9 10): -1.5339438915252686	 ([withdrawal][popular])
+I(7 13): 1.383784294128418	 ([investigating][yesterday.])
+I(5 7): 1.3074684143066406	 ([vioxx,][investigating])
+I(0 6): -1.244816780090332	 ([us][senators])
+I(3 11): 1.242685079574585	 ([another][painkiller])
+I(1 4): 1.184312343597412	 ([virtually][scandal])
+I(1 8): 1.1670310497283936	 ([virtually][mercks])
+I(0 10): -1.1595168113708496	 ([us][popular])
+I(0 7): 1.147974967956543	 ([us][investigating])
+I(6 10): 1.0285217761993408	 ([senators][popular])
+I(5 11): -1.022104263305664	 ([vioxx,][painkiller])
+I(7 12): 1.0195786952972412	 ([investigating][told])
+I(11 13): -1.0131313800811768	 ([painkiller][yesterday.])
+I(6 9): -1.009572982788086	 ([senators][withdrawal])
+I(10 13): -0.9914722442626953	 ([popular][yesterday.])
+I(3 6): -0.931330680847168	 ([another][senators])
+I(2 3): 0.9132471084594727	 ([defenceless][another])
+I(5 10): -0.8696699142456055	 ([vioxx,][popular])
+I(3 5): 0.8233985900878906	 ([another][vioxx,])
+I(7 11): 0.7942287921905518	 ([investigating][painkiller])
+I(1 11): 0.7842147350311279	 ([virtually][painkiller])
+I(0 1): 0.7605676651000977	 ([us][virtually])
+I(2 6): -0.7210075855255127	 ([defenceless][senators])
+I(1 12): 0.6979868412017822	 ([virtually][told])
+I(2 13): 0.6659517288208008	 ([defenceless][yesterday.])
+I(3 10): 0.6505923271179199	 ([another][popular])
+I(6 12): -0.6189901828765869	 ([senators][told])
+I(10 11): 0.5827078819274902	 ([popular][painkiller])
+I(0 2): 0.5736324787139893	 ([us][defenceless])
+I(3 13): 0.5561637878417969	 ([another][yesterday.])
+I(10 12): -0.547215461730957	 ([popular][told])
+I(5 12): -0.5384750366210938	 ([vioxx,][told])
+I(1 2): 0.5242624282836914	 ([virtually][defenceless])
+I(8 10): -0.4880399703979492	 ([mercks][popular])
+I(7 10): 0.4796881675720215	 ([investigating][popular])
+I(2 10): 0.47008419036865234	 ([defenceless][popular])
+I(4 12): -0.46457672119140625	 ([scandal][told])
+I(1 7): 0.43021655082702637	 ([virtually][investigating])
+I(4 11): 0.3800504207611084	 ([scandal][painkiller])
+I(3 8): 0.31481337547302246	 ([another][mercks])
+I(3 7): 0.2740476131439209	 ([another][investigating])
+Sum: -38.63940620422363
+==================================================

@@ -1,0 +1,96 @@
+---------- Players ----------
+Player 0: president
+Player 1: bush
+Player 2: said
+Player 3: alberto
+Player 4: r. gonzales
+Player 5: " a
+Player 6: calm
+Player 7: steady
+Player 8: voice
+Player 9: times
+Player 10: crisis "
+Player 11: white
+Player 12: house
+Player 13: counsel.
+---------- AND Interactions (Pairwise Only) ----------
+I(11 12): 3.8053488731384277	 ([white][house])
+I(4 5): 3.598602533340454	 ([r. gonzales][" a])
+I(0 3): -3.492706298828125	 ([president][alberto])
+I(7 8): 3.3412792682647705	 ([steady][voice])
+I(3 8): 3.0626392364501953	 ([alberto][voice])
+I(4 8): 2.4278104305267334	 ([r. gonzales][voice])
+I(6 7): -2.2851290702819824	 ([calm][steady])
+I(2 8): -2.1428637504577637	 ([said][voice])
+I(1 2): 2.114716053009033	 ([bush][said])
+I(0 13): -2.0429553985595703	 ([president][counsel.])
+I(4 7): 2.0010275840759277	 ([r. gonzales][steady])
+I(12 13): 1.9910523891448975	 ([house][counsel.])
+I(0 1): 1.9561614990234375	 ([president][bush])
+I(0 5): 1.8161606788635254	 ([president][" a])
+I(3 7): 1.781308650970459	 ([alberto][steady])
+I(0 4): -1.7573156356811523	 ([president][r. gonzales])
+I(8 12): -1.6866364479064941	 ([voice][house])
+I(1 12): -1.590585708618164	 ([bush][house])
+I(6 13): -1.4306795597076416	 ([calm][counsel.])
+I(3 4): -1.4168109893798828	 ([alberto][r. gonzales])
+I(6 8): -1.3702720403671265	 ([calm][voice])
+I(3 12): -1.3398327827453613	 ([alberto][house])
+I(0 12): -1.3361873626708984	 ([president][house])
+I(0 11): 1.222569465637207	 ([president][white])
+I(6 9): -1.2076572179794312	 ([calm][times])
+I(10 13): 1.070901870727539	 ([crisis "][counsel.])
+I(8 9): 1.0642476081848145	 ([voice][times])
+I(6 10): -1.0376768112182617	 ([calm][crisis "])
+I(3 5): 1.0199170112609863	 ([alberto][" a])
+I(0 8): 0.9730539321899414	 ([president][voice])
+I(3 13): -0.9481146335601807	 ([alberto][counsel.])
+I(10 12): 0.9309391975402832	 ([crisis "][house])
+I(2 10): -0.9222977161407471	 ([said][crisis "])
+I(5 7): 0.8703608512878418	 ([" a][steady])
+I(5 10): -0.8619883060455322	 ([" a][crisis "])
+I(5 12): -0.8487868309020996	 ([" a][house])
+I(4 6): -0.802335262298584	 ([r. gonzales][calm])
+I(10 11): 0.7911248207092285	 ([crisis "][white])
+I(2 3): -0.7827997207641602	 ([said][alberto])
+I(3 11): 0.7553708553314209	 ([alberto][white])
+I(1 3): -0.7481346130371094	 ([bush][alberto])
+I(1 8): -0.7134225368499756	 ([bush][voice])
+I(5 13): 0.6899490356445312	 ([" a][counsel.])
+I(2 11): 0.67331862449646	 ([said][white])
+I(11 13): 0.6650128364562988	 ([white][counsel.])
+I(4 12): -0.6564750671386719	 ([r. gonzales][house])
+I(5 9): 0.6388568878173828	 ([" a][times])
+I(2 12): 0.6384763717651367	 ([said][house])
+I(7 9): -0.6301727294921875	 ([steady][times])
+I(8 10): 0.6131100654602051	 ([voice][crisis "])
+I(0 9): 0.5947451591491699	 ([president][times])
+I(6 12): -0.5832281112670898	 ([calm][house])
+I(2 4): -0.5762543678283691	 ([said][r. gonzales])
+I(0 2): -0.5576648712158203	 ([president][said])
+I(1 9): -0.5485663414001465	 ([bush][times])
+I(5 8): 0.527554988861084	 ([" a][voice])
+I(3 6): -0.5240530967712402	 ([alberto][calm])
+I(2 7): -0.5049175024032593	 ([said][steady])
+I(2 5): -0.4914447069168091	 ([said][" a])
+I(4 10): 0.4850962162017822	 ([r. gonzales][crisis "])
+I(8 11): 0.43469834327697754	 ([voice][white])
+I(0 6): -0.4220247268676758	 ([president][calm])
+I(9 10): 0.41744279861450195	 ([times][crisis "])
+I(0 7): 0.41095972061157227	 ([president][steady])
+I(2 6): 0.40142345428466797	 ([said][calm])
+I(1 11): 0.3989684581756592	 ([bush][white])
+I(2 13): 0.3257490396499634	 ([said][counsel.])
+I(1 7): -0.3240931034088135	 ([bush][steady])
+I(4 11): 0.322345495223999	 ([r. gonzales][white])
+I(4 9): 0.3112618923187256	 ([r. gonzales][times])
+I(9 13): 0.30823683738708496	 ([times][counsel.])
+I(8 13): -0.2838859558105469	 ([voice][counsel.])
+I(9 12): -0.24725127220153809	 ([times][house])
+I(1 13): 0.24483823776245117	 ([bush][counsel.])
+I(7 12): -0.24408674240112305	 ([steady][house])
+I(1 6): -0.2226123809814453	 ([bush][calm])
+I(9 11): 0.2119612693786621	 ([times][white])
+I(7 10): 0.21042943000793457	 ([steady][crisis "])
+Sum: 29.16879141330719
+==================================================

@@ -1,0 +1,5 @@
+louvain社区检测结果:
+社区 1: ['21', '22', '20', '16', '14', '23']: ['banks', 'issuing', 'barring', 'associations', 'credit', 'credit']: 平均边权 3.3127
+社区 2: ['11', '10']: ['mastercard', 'visa']: 平均边权 4.2707
+社区 3: ['17', '8', '3', '9', '18', '25', '4', '2', '0', '19']: ['violated', 'rejected', '-', 'appeals', 'antitrust', 'rival', 'u. s.', '( reuters )', 'new', 'law']: 平均边权 0.8447
+社区 4: ['26', '1', '15', '6', '12', '5', '24', '13', '7']: ['networks.', 'york / washington', 'card', 'court', 'ruling', 'supreme', 'cards', 'two', 'monday']: 平均边权 1.9927

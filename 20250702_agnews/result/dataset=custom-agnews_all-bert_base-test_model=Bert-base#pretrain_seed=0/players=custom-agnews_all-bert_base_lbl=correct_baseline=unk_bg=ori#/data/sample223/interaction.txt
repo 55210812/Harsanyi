@@ -1,0 +1,86 @@
+---------- Players ----------
+Player 0: violence
+Player 1: afghanistan
+Player 2: one
+Player 3: country
+Player 4: # 39 ; s
+Player 5: vice
+Player 6: presidents
+Player 7: narrowly
+Player 8: avoided
+Player 9: assassination.
+Player 10: attacks
+Player 11: escalating
+Player 12: afghanistan
+Player 13: prepares
+---------- AND Interactions (Pairwise Only) ----------
+I(1 12): -10.49789810180664	 ([afghanistan][afghanistan])
+I(5 6): -6.390989303588867	 ([vice][presidents])
+I(8 9): -3.7732276916503906	 ([avoided][assassination.])
+I(1 4): 3.1205644607543945	 ([afghanistan][# 39 ; s])
+I(6 10): -3.0776596069335938	 ([presidents][attacks])
+I(0 9): -2.785670757293701	 ([violence][assassination.])
+I(7 9): -2.763218402862549	 ([narrowly][assassination.])
+I(4 9): 2.757416248321533	 ([# 39 ; s][assassination.])
+I(5 12): -2.567336082458496	 ([vice][afghanistan])
+I(3 12): -2.5508785247802734	 ([country][afghanistan])
+I(0 3): 2.4717254638671875	 ([violence][country])
+I(9 10): -2.3781118392944336	 ([assassination.][attacks])
+I(0 1): 2.1209726333618164	 ([violence][afghanistan])
+I(9 12): -2.095365524291992	 ([assassination.][afghanistan])
+I(7 12): -2.081573486328125	 ([narrowly][afghanistan])
+I(5 10): -2.04484224319458	 ([vice][attacks])
+I(2 3): -1.9777283668518066	 ([one][country])
+I(3 11): 1.9665374755859375	 ([country][escalating])
+I(0 10): -1.9207897186279297	 ([violence][attacks])
+I(0 4): 1.6903438568115234	 ([violence][# 39 ; s])
+I(3 5): -1.5853495597839355	 ([country][vice])
+I(3 6): -1.5794329643249512	 ([country][presidents])
+I(11 12): -1.572988510131836	 ([escalating][afghanistan])
+I(5 13): 1.3951973915100098	 ([vice][prepares])
+I(0 12): -1.3665199279785156	 ([violence][afghanistan])
+I(9 13): 1.335446834564209	 ([assassination.][prepares])
+I(0 13): 1.300013542175293	 ([violence][prepares])
+I(1 13): 1.2936296463012695	 ([afghanistan][prepares])
+I(1 6): 1.2551555633544922	 ([afghanistan][presidents])
+I(10 12): -1.2281827926635742	 ([attacks][afghanistan])
+I(1 3): -1.1722145080566406	 ([afghanistan][country])
+I(3 4): -1.1492552757263184	 ([country][# 39 ; s])
+I(3 9): 1.1396923065185547	 ([country][assassination.])
+I(1 7): -1.132338523864746	 ([afghanistan][narrowly])
+I(1 10): 1.115438461303711	 ([afghanistan][attacks])
+I(1 5): -1.113478660583496	 ([afghanistan][vice])
+I(5 7): -1.089517593383789	 ([vice][narrowly])
+I(2 6): -1.0555996894836426	 ([one][presidents])
+I(7 8): -1.0410699844360352	 ([narrowly][avoided])
+I(0 6): -0.9801902770996094	 ([violence][presidents])
+I(6 9): 0.9675989151000977	 ([presidents][assassination.])
+I(1 2): -0.9218912124633789	 ([afghanistan][one])
+I(12 13): -0.8786859512329102	 ([afghanistan][prepares])
+I(0 5): 0.8705615997314453	 ([violence][vice])
+I(6 12): -0.8302536010742188	 ([presidents][afghanistan])
+I(4 6): -0.8266983032226562	 ([# 39 ; s][presidents])
+I(2 5): -0.8260507583618164	 ([one][vice])
+I(5 8): -0.7913541793823242	 ([vice][avoided])
+I(10 11): 0.7912464141845703	 ([attacks][escalating])
+I(5 11): 0.616546630859375	 ([vice][escalating])
+I(6 8): -0.6002588272094727	 ([presidents][avoided])
+I(0 7): -0.5937390327453613	 ([violence][narrowly])
+I(1 8): -0.5840997695922852	 ([afghanistan][avoided])
+I(0 2): -0.5690736770629883	 ([violence][one])
+I(2 13): 0.5646839141845703	 ([one][prepares])
+I(0 11): 0.5272970199584961	 ([violence][escalating])
+I(8 12): -0.5177640914916992	 ([avoided][afghanistan])
+I(6 13): -0.5124530792236328	 ([presidents][prepares])
+I(1 9): 0.4944143295288086	 ([afghanistan][assassination.])
+I(5 9): -0.46523380279541016	 ([vice][assassination.])
+I(4 12): 0.46318626403808594	 ([# 39 ; s][afghanistan])
+I(2 12): -0.44995880126953125	 ([one][afghanistan])
+I(0 8): -0.4450511932373047	 ([violence][avoided])
+I(3 10): -0.43639230728149414	 ([country][attacks])
+I(9 11): 0.38778257369995117	 ([assassination.][escalating])
+I(10 13): -0.34381532669067383	 ([attacks][prepares])
+I(2 10): -0.31979942321777344	 ([one][attacks])
+I(6 7): -0.3129148483276367	 ([presidents][narrowly])
+Sum: 1.478198528289795
+==================================================

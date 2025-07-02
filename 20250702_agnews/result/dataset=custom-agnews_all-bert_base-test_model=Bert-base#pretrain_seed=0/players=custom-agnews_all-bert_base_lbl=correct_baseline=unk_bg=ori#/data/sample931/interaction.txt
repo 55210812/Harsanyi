@@ -1,0 +1,68 @@
+---------- Players ----------
+Player 0: shift
+Player 1: could
+Player 2: resolve
+Player 3: significant
+Player 4: threat
+Player 5: iraq's
+Player 6: stability
+Player 7: provide
+Player 8: boost
+Player 9: interim
+Player 10: government.
+---------- AND Interactions (Pairwise Only) ----------
+I(5 8): -4.641739368438721	 ([iraq's][boost])
+I(6 10): -4.189280986785889	 ([stability][government.])
+I(1 2): 3.7859368324279785	 ([could][resolve])
+I(8 9): 3.69295334815979	 ([boost][interim])
+I(1 8): 3.381772041320801	 ([could][boost])
+I(2 5): 3.0911312103271484	 ([resolve][iraq's])
+I(9 10): 2.6968026161193848	 ([interim][government.])
+I(8 10): -2.594059944152832	 ([boost][government.])
+I(1 6): 2.321077346801758	 ([could][stability])
+I(5 10): -2.255819797515869	 ([iraq's][government.])
+I(4 8): 2.234161376953125	 ([threat][boost])
+I(4 5): 2.211409568786621	 ([threat][iraq's])
+I(7 8): 2.1676368713378906	 ([provide][boost])
+I(4 10): 2.008362293243408	 ([threat][government.])
+I(1 10): 1.8882460594177246	 ([could][government.])
+I(3 5): -1.8682947158813477	 ([significant][iraq's])
+I(3 4): -1.8464345932006836	 ([significant][threat])
+I(1 4): 1.8436098098754883	 ([could][threat])
+I(2 10): 1.833604335784912	 ([resolve][government.])
+I(3 8): -1.8039155006408691	 ([significant][boost])
+I(1 5): 1.7760848999023438	 ([could][iraq's])
+I(2 7): -1.7135095596313477	 ([resolve][provide])
+I(2 4): 1.6669814586639404	 ([resolve][threat])
+I(4 9): 1.4689111709594727	 ([threat][interim])
+I(7 10): -1.4261760711669922	 ([provide][government.])
+I(1 9): 1.3922882080078125	 ([could][interim])
+I(5 6): -1.3776111602783203	 ([iraq's][stability])
+I(3 10): -1.3752140998840332	 ([significant][government.])
+I(2 9): 1.3457140922546387	 ([resolve][interim])
+I(6 8): -1.268754005432129	 ([stability][boost])
+I(3 6): -1.192922592163086	 ([significant][stability])
+I(4 7): -1.187330722808838	 ([threat][provide])
+I(5 9): 1.1293678283691406	 ([iraq's][interim])
+I(0 1): 1.1244993209838867	 ([shift][could])
+I(7 9): -1.0782699584960938	 ([provide][interim])
+I(1 3): 0.954742431640625	 ([could][significant])
+I(2 8): 0.921656608581543	 ([resolve][boost])
+I(0 7): 0.8591241836547852	 ([shift][provide])
+I(0 5): -0.8510189056396484	 ([shift][iraq's])
+I(0 8): -0.8432197570800781	 ([shift][boost])
+I(4 6): -0.7808465957641602	 ([threat][stability])
+I(2 3): -0.6872334480285645	 ([resolve][significant])
+I(0 6): -0.6848430633544922	 ([shift][stability])
+I(3 7): 0.6520824432373047	 ([significant][provide])
+I(0 3): -0.6460790634155273	 ([shift][significant])
+I(6 9): 0.615269660949707	 ([stability][interim])
+I(0 4): 0.5775957107543945	 ([shift][threat])
+I(6 7): -0.5538492202758789	 ([stability][provide])
+I(2 6): 0.48932647705078125	 ([resolve][stability])
+I(0 10): 0.4488692283630371	 ([shift][government.])
+I(0 9): 0.3600616455078125	 ([shift][interim])
+I(1 7): 0.29200267791748047	 ([could][provide])
+I(3 9): -0.2493572235107422	 ([significant][interim])
+Sum: 28.897347450256348
+==================================================

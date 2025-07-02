@@ -1,0 +1,51 @@
+Execution time: 2025-07-02 17:59:53
+prompt: [CLS] ap - bipartisan political pressure is building for the bush administration to settle a lawsuit by hungarian jews who claim the united states plundered family riches that had been seized by the nazis during world war ii. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:12170 decoded_text: bi
+idx:4 input_id:26053 decoded_text: ##partisan
+idx:5 input_id:2576 decoded_text: political
+idx:6 input_id:3778 decoded_text: pressure
+idx:7 input_id:2003 decoded_text: is
+idx:8 input_id:2311 decoded_text: building
+idx:9 input_id:2005 decoded_text: for
+idx:10 input_id:1996 decoded_text: the
+idx:11 input_id:5747 decoded_text: bush
+idx:12 input_id:3447 decoded_text: administration
+idx:13 input_id:2000 decoded_text: to
+idx:14 input_id:7392 decoded_text: settle
+idx:15 input_id:1037 decoded_text: a
+idx:16 input_id:9870 decoded_text: lawsuit
+idx:17 input_id:2011 decoded_text: by
+idx:18 input_id:5588 decoded_text: hungarian
+idx:19 input_id:5181 decoded_text: jews
+idx:20 input_id:2040 decoded_text: who
+idx:21 input_id:4366 decoded_text: claim
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:2142 decoded_text: united
+idx:24 input_id:2163 decoded_text: states
+idx:25 input_id:20228 decoded_text: pl
+idx:26 input_id:20824 decoded_text: ##under
+idx:27 input_id:2098 decoded_text: ##ed
+idx:28 input_id:2155 decoded_text: family
+idx:29 input_id:26768 decoded_text: riches
+idx:30 input_id:2008 decoded_text: that
+idx:31 input_id:2018 decoded_text: had
+idx:32 input_id:2042 decoded_text: been
+idx:33 input_id:8243 decoded_text: seized
+idx:34 input_id:2011 decoded_text: by
+idx:35 input_id:1996 decoded_text: the
+idx:36 input_id:13157 decoded_text: nazis
+idx:37 input_id:2076 decoded_text: during
+idx:38 input_id:2088 decoded_text: world
+idx:39 input_id:2162 decoded_text: war
+idx:40 input_id:2462 decoded_text: ii
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.694214820861816, -1.4719922542572021, -2.8763608932495117, -1.9945766925811768]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

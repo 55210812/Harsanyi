@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 17:48:08
+prompt: [CLS] vienna ( reuters ) - iran's policymakers may decide to extend its partial freeze on uranium enrichment, a process that can make fuel for nuclear power plants or weapons, a senior iranian official said on friday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:6004 decoded_text: vienna
+idx:2 input_id:1006 decoded_text: (
+idx:3 input_id:26665 decoded_text: reuters
+idx:4 input_id:1007 decoded_text: )
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:4238 decoded_text: iran
+idx:7 input_id:1005 decoded_text: '
+idx:8 input_id:1055 decoded_text: s
+idx:9 input_id:3343 decoded_text: policy
+idx:10 input_id:12088 decoded_text: ##makers
+idx:11 input_id:2089 decoded_text: may
+idx:12 input_id:5630 decoded_text: decide
+idx:13 input_id:2000 decoded_text: to
+idx:14 input_id:7949 decoded_text: extend
+idx:15 input_id:2049 decoded_text: its
+idx:16 input_id:7704 decoded_text: partial
+idx:17 input_id:13184 decoded_text: freeze
+idx:18 input_id:2006 decoded_text: on
+idx:19 input_id:14247 decoded_text: uranium
+idx:20 input_id:27226 decoded_text: enrichment
+idx:21 input_id:1010 decoded_text: ,
+idx:22 input_id:1037 decoded_text: a
+idx:23 input_id:2832 decoded_text: process
+idx:24 input_id:2008 decoded_text: that
+idx:25 input_id:2064 decoded_text: can
+idx:26 input_id:2191 decoded_text: make
+idx:27 input_id:4762 decoded_text: fuel
+idx:28 input_id:2005 decoded_text: for
+idx:29 input_id:4517 decoded_text: nuclear
+idx:30 input_id:2373 decoded_text: power
+idx:31 input_id:4264 decoded_text: plants
+idx:32 input_id:2030 decoded_text: or
+idx:33 input_id:4255 decoded_text: weapons
+idx:34 input_id:1010 decoded_text: ,
+idx:35 input_id:1037 decoded_text: a
+idx:36 input_id:3026 decoded_text: senior
+idx:37 input_id:7726 decoded_text: iranian
+idx:38 input_id:2880 decoded_text: official
+idx:39 input_id:2056 decoded_text: said
+idx:40 input_id:2006 decoded_text: on
+idx:41 input_id:5958 decoded_text: friday
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.975852966308594, -2.8818132877349854, -2.193246364593506, -1.8110847473144531]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

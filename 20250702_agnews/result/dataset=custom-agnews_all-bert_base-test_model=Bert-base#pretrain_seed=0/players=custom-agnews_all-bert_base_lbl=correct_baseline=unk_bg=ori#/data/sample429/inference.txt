@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 17:34:36
+prompt: [CLS] the fastest - swivelling space science observatory rocketed into orbit yesterday to scan the universe for violent celestial explosions, which astronomers believe represent the birth screams of black holes. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:7915 decoded_text: fastest
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:25430 decoded_text: sw
+idx:5 input_id:3512 decoded_text: ##ive
+idx:6 input_id:13112 decoded_text: ##lling
+idx:7 input_id:2686 decoded_text: space
+idx:8 input_id:2671 decoded_text: science
+idx:9 input_id:9970 decoded_text: observatory
+idx:10 input_id:7596 decoded_text: rocket
+idx:11 input_id:2098 decoded_text: ##ed
+idx:12 input_id:2046 decoded_text: into
+idx:13 input_id:8753 decoded_text: orbit
+idx:14 input_id:7483 decoded_text: yesterday
+idx:15 input_id:2000 decoded_text: to
+idx:16 input_id:13594 decoded_text: scan
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:5304 decoded_text: universe
+idx:19 input_id:2005 decoded_text: for
+idx:20 input_id:6355 decoded_text: violent
+idx:21 input_id:17617 decoded_text: celestial
+idx:22 input_id:18217 decoded_text: explosions
+idx:23 input_id:1010 decoded_text: ,
+idx:24 input_id:2029 decoded_text: which
+idx:25 input_id:26357 decoded_text: astronomers
+idx:26 input_id:2903 decoded_text: believe
+idx:27 input_id:5050 decoded_text: represent
+idx:28 input_id:1996 decoded_text: the
+idx:29 input_id:4182 decoded_text: birth
+idx:30 input_id:11652 decoded_text: screams
+idx:31 input_id:1997 decoded_text: of
+idx:32 input_id:2304 decoded_text: black
+idx:33 input_id:8198 decoded_text: holes
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-0.8642209768295288, -2.8054819107055664, -3.0110867023468018, 6.857700824737549]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

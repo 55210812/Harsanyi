@@ -1,0 +1,112 @@
+---------- Players ----------
+Player 0: manchester
+Player 1: united
+Player 2: confident
+Player 3: catch
+Player 4: nine
+Player 5: points
+Player 6: premier
+Player 7: league
+Player 8: leader
+Player 9: chelsea.
+Player 10: first
+Player 11: win
+Player 12: third
+Player 13: match
+Player 14: row
+Player 15: first
+Player 16: time
+Player 17: season.
+---------- AND Interactions (Pairwise Only) ----------
+I(0 9): -11.222127914428711	 ([manchester][chelsea.])
+I(0 7): -10.133569717407227	 ([manchester][league])
+I(7 9): -7.72657585144043	 ([league][chelsea.])
+I(1 2): 7.369328022003174	 ([united][confident])
+I(7 8): -6.426301956176758	 ([league][leader])
+I(0 17): -5.914261817932129	 ([manchester][season.])
+I(6 13): 4.925532341003418	 ([premier][match])
+I(1 6): 4.872933864593506	 ([united][premier])
+I(7 17): -4.596478462219238	 ([league][season.])
+I(1 13): 4.48279333114624	 ([united][match])
+I(11 13): 4.192033767700195	 ([win][match])
+I(12 13): 3.6852951049804688	 ([third][match])
+I(8 17): -3.418257713317871	 ([leader][season.])
+I(9 17): -3.4008264541625977	 ([chelsea.][season.])
+I(13 17): 2.9880919456481934	 ([match][season.])
+I(0 1): -2.9486122131347656	 ([manchester][united])
+I(7 11): -2.944739818572998	 ([league][win])
+I(15 17): -2.738111734390259	 ([first][season.])
+I(2 13): 2.539735794067383	 ([confident][match])
+I(0 8): -2.5139102935791016	 ([manchester][leader])
+I(5 13): 2.395944595336914	 ([points][match])
+I(9 13): 2.2256417274475098	 ([chelsea.][match])
+I(6 7): 2.166027069091797	 ([premier][league])
+I(0 11): -2.1644387245178223	 ([manchester][win])
+I(11 12): 2.1265602111816406	 ([win][third])
+I(6 9): 2.0273818969726562	 ([premier][chelsea.])
+I(10 11): 2.020415782928467	 ([first][win])
+I(8 9): 1.972402572631836	 ([leader][chelsea.])
+I(11 17): -1.8181681632995605	 ([win][season.])
+I(2 17): 1.8171606063842773	 ([confident][season.])
+I(1 17): 1.8024568557739258	 ([united][season.])
+I(9 10): 1.6170082092285156	 ([chelsea.][first])
+I(5 6): 1.568739891052246	 ([points][premier])
+I(1 3): 1.545119285583496	 ([united][catch])
+I(1 14): 1.5402836799621582	 ([united][row])
+I(1 5): -1.5250797271728516	 ([united][points])
+I(5 9): 1.522963523864746	 ([points][chelsea.])
+I(4 9): 1.4256372451782227	 ([nine][chelsea.])
+I(1 8): -1.4180116653442383	 ([united][leader])
+I(13 14): 1.4154713153839111	 ([match][row])
+I(12 17): -1.4152164459228516	 ([third][season.])
+I(5 11): 1.3749504089355469	 ([points][win])
+I(2 11): 1.3606367111206055	 ([confident][win])
+I(2 9): 1.354034423828125	 ([confident][chelsea.])
+I(3 5): 1.3121767044067383	 ([catch][points])
+I(8 11): -1.2770514488220215	 ([leader][win])
+I(5 7): 1.184260368347168	 ([points][league])
+I(4 5): 1.1302742958068848	 ([nine][points])
+I(6 11): 1.095290184020996	 ([premier][win])
+I(1 16): 0.9855461120605469	 ([united][time])
+I(4 6): 0.9786491394042969	 ([nine][premier])
+I(9 14): 0.9260258674621582	 ([chelsea.][row])
+I(2 7): 0.9008054733276367	 ([confident][league])
+I(1 7): -0.8816137313842773	 ([united][league])
+I(6 17): 0.8670744895935059	 ([premier][season.])
+I(10 13): 0.8654816150665283	 ([first][match])
+I(3 13): 0.8254060745239258	 ([catch][match])
+I(5 8): 0.811394214630127	 ([points][leader])
+I(1 11): 0.7978568077087402	 ([united][win])
+I(3 11): -0.7803959846496582	 ([catch][win])
+I(2 12): 0.7513129711151123	 ([confident][third])
+I(0 12): -0.7512454986572266	 ([manchester][third])
+I(0 6): -0.7442188262939453	 ([manchester][premier])
+I(2 8): 0.7341547012329102	 ([confident][leader])
+I(9 15): 0.7099409103393555	 ([chelsea.][first])
+I(6 15): -0.6922340393066406	 ([premier][first])
+I(1 10): 0.6505575180053711	 ([united][first])
+I(1 15): -0.640131950378418	 ([united][first])
+I(14 17): 0.6334428787231445	 ([row][season.])
+I(7 12): -0.6260643005371094	 ([league][third])
+I(2 6): 0.6113677024841309	 ([confident][premier])
+I(6 12): -0.5724143981933594	 ([premier][third])
+I(3 17): 0.5495991706848145	 ([catch][season.])
+I(11 15): -0.5468549728393555	 ([win][first])
+I(15 16): -0.5275788307189941	 ([first][time])
+I(2 16): 0.5273013114929199	 ([confident][time])
+I(9 16): 0.5235886573791504	 ([chelsea.][time])
+I(3 8): 0.5125727653503418	 ([catch][leader])
+I(7 16): 0.5115489959716797	 ([league][time])
+I(2 5): -0.5095181465148926	 ([confident][points])
+I(2 14): 0.5062885284423828	 ([confident][row])
+I(12 14): -0.49896764755249023	 ([third][row])
+I(8 13): -0.4745798110961914	 ([leader][match])
+I(0 15): 0.4378042221069336	 ([manchester][first])
+I(3 9): 0.428436279296875	 ([catch][chelsea.])
+I(0 5): 0.4166240692138672	 ([manchester][points])
+I(12 16): 0.4071483612060547	 ([third][time])
+I(2 10): 0.39004945755004883	 ([confident][first])
+I(5 16): -0.38337230682373047	 ([points][time])
+I(1 9): -0.38255977630615234	 ([united][chelsea.])
+Sum: 61.510422706604004
+==================================================

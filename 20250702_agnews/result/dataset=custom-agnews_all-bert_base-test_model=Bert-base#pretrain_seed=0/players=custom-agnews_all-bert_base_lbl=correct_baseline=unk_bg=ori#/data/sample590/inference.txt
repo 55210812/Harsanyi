@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 17:44:09
+prompt: [CLS] new delhi : the foreign ministers of india and pakistan concluded talks monday, declaring that the south asian rivals had made significant progress in improving relations, despite their inability to agree on the future of divided kashmir. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2047 decoded_text: new
+idx:2 input_id:6768 decoded_text: delhi
+idx:3 input_id:1024 decoded_text: :
+idx:4 input_id:1996 decoded_text: the
+idx:5 input_id:3097 decoded_text: foreign
+idx:6 input_id:7767 decoded_text: ministers
+idx:7 input_id:1997 decoded_text: of
+idx:8 input_id:2634 decoded_text: india
+idx:9 input_id:1998 decoded_text: and
+idx:10 input_id:4501 decoded_text: pakistan
+idx:11 input_id:5531 decoded_text: concluded
+idx:12 input_id:7566 decoded_text: talks
+idx:13 input_id:6928 decoded_text: monday
+idx:14 input_id:1010 decoded_text: ,
+idx:15 input_id:13752 decoded_text: declaring
+idx:16 input_id:2008 decoded_text: that
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:2148 decoded_text: south
+idx:19 input_id:4004 decoded_text: asian
+idx:20 input_id:9169 decoded_text: rivals
+idx:21 input_id:2018 decoded_text: had
+idx:22 input_id:2081 decoded_text: made
+idx:23 input_id:3278 decoded_text: significant
+idx:24 input_id:5082 decoded_text: progress
+idx:25 input_id:1999 decoded_text: in
+idx:26 input_id:9229 decoded_text: improving
+idx:27 input_id:4262 decoded_text: relations
+idx:28 input_id:1010 decoded_text: ,
+idx:29 input_id:2750 decoded_text: despite
+idx:30 input_id:2037 decoded_text: their
+idx:31 input_id:13720 decoded_text: inability
+idx:32 input_id:2000 decoded_text: to
+idx:33 input_id:5993 decoded_text: agree
+idx:34 input_id:2006 decoded_text: on
+idx:35 input_id:1996 decoded_text: the
+idx:36 input_id:2925 decoded_text: future
+idx:37 input_id:1997 decoded_text: of
+idx:38 input_id:4055 decoded_text: divided
+idx:39 input_id:13329 decoded_text: kashmir
+idx:40 input_id:1012 decoded_text: .
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.088330268859863, -2.0722815990448, -1.723931908607483, -3.193035364151001]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

@@ -1,0 +1,49 @@
+Execution time: 2025-07-02 17:43:22
+prompt: [CLS] cable amp ; wireless has agreed to sell its japanese unit to softbank for 72. 4 million pounds. the deal, under which the japanese internet communications company will assume debt worth 9. 5 million [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:5830 decoded_text: cable
+idx:2 input_id:23713 decoded_text: amp
+idx:3 input_id:1025 decoded_text: ;
+idx:4 input_id:9949 decoded_text: wireless
+idx:5 input_id:2038 decoded_text: has
+idx:6 input_id:3530 decoded_text: agreed
+idx:7 input_id:2000 decoded_text: to
+idx:8 input_id:5271 decoded_text: sell
+idx:9 input_id:2049 decoded_text: its
+idx:10 input_id:2887 decoded_text: japanese
+idx:11 input_id:3131 decoded_text: unit
+idx:12 input_id:2000 decoded_text: to
+idx:13 input_id:3730 decoded_text: soft
+idx:14 input_id:9299 decoded_text: ##bank
+idx:15 input_id:2005 decoded_text: for
+idx:16 input_id:5824 decoded_text: 72
+idx:17 input_id:1012 decoded_text: .
+idx:18 input_id:1018 decoded_text: 4
+idx:19 input_id:2454 decoded_text: million
+idx:20 input_id:7038 decoded_text: pounds
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:3066 decoded_text: deal
+idx:24 input_id:1010 decoded_text: ,
+idx:25 input_id:2104 decoded_text: under
+idx:26 input_id:2029 decoded_text: which
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:2887 decoded_text: japanese
+idx:29 input_id:4274 decoded_text: internet
+idx:30 input_id:4806 decoded_text: communications
+idx:31 input_id:2194 decoded_text: company
+idx:32 input_id:2097 decoded_text: will
+idx:33 input_id:7868 decoded_text: assume
+idx:34 input_id:7016 decoded_text: debt
+idx:35 input_id:4276 decoded_text: worth
+idx:36 input_id:1023 decoded_text: 9
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:1019 decoded_text: 5
+idx:39 input_id:2454 decoded_text: million
+idx:40 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.60042142868042, -4.593045234680176, 5.281685829162598, -0.9915778040885925]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

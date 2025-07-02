@@ -1,0 +1,107 @@
+---------- Players ----------
+Player 0: matter
+Player 1: good
+Player 2: bad
+Player 3: year
+Player 4: alex
+Player 5: rodriguez
+Player 6: season
+Player 7: new
+Player 8: york,
+Player 9: first
+Player 10: year
+Player 11: pinstripes
+Player 12: would
+Player 13: ultimately
+Player 14: judged
+Player 15: performed
+Player 16: october.
+---------- AND Interactions (Pairwise Only) ----------
+I(5 15): -4.236555099487305	 ([rodriguez][performed])
+I(5 8): -4.2025957107543945	 ([rodriguez][york,])
+I(8 16): -3.7987594604492188	 ([york,][october.])
+I(6 15): -3.692056179046631	 ([season][performed])
+I(6 8): -3.303664207458496	 ([season][york,])
+I(5 16): -2.914616584777832	 ([rodriguez][october.])
+I(8 15): -2.6889796257019043	 ([york,][performed])
+I(15 16): -2.3751235008239746	 ([performed][october.])
+I(5 6): -2.3715438842773438	 ([rodriguez][season])
+I(4 15): -2.167539119720459	 ([alex][performed])
+I(3 4): 2.0394325256347656	 ([year][alex])
+I(6 16): -1.9261808395385742	 ([season][october.])
+I(4 8): -1.8976192474365234	 ([alex][york,])
+I(3 6): -1.6850671768188477	 ([year][season])
+I(0 6): 1.5898051261901855	 ([matter][season])
+I(8 11): -1.4834623336791992	 ([york,][pinstripes])
+I(7 8): -1.3992938995361328	 ([new][york,])
+I(6 7): -1.3187980651855469	 ([season][new])
+I(8 9): -1.290905237197876	 ([york,][first])
+I(1 2): -1.2820408344268799	 ([good][bad])
+I(1 8): -1.2456412315368652	 ([good][york,])
+I(1 5): -1.2055654525756836	 ([good][rodriguez])
+I(6 9): -1.1748542785644531	 ([season][first])
+I(8 10): -1.0861661434173584	 ([york,][year])
+I(6 10): -1.0411152839660645	 ([season][year])
+I(3 15): -1.0221672058105469	 ([year][performed])
+I(4 13): 1.0070409774780273	 ([alex][ultimately])
+I(1 11): 0.9973950386047363	 ([good][pinstripes])
+I(6 12): 0.9816622734069824	 ([season][would])
+I(1 16): -0.9422965049743652	 ([good][october.])
+I(9 11): -0.9420270919799805	 ([first][pinstripes])
+I(2 4): 0.9211387634277344	 ([bad][alex])
+I(3 8): -0.9130239486694336	 ([year][york,])
+I(4 16): -0.8927412033081055	 ([alex][october.])
+I(4 11): 0.8871297836303711	 ([alex][pinstripes])
+I(4 9): -0.8605184555053711	 ([alex][first])
+I(1 15): -0.8315119743347168	 ([good][performed])
+I(5 12): 0.8306941986083984	 ([rodriguez][would])
+I(5 10): -0.7987060546875	 ([rodriguez][year])
+I(3 10): -0.7949914932250977	 ([year][year])
+I(5 11): -0.7731599807739258	 ([rodriguez][pinstripes])
+I(5 9): -0.7493791580200195	 ([rodriguez][first])
+I(2 6): -0.7403378486633301	 ([bad][season])
+I(10 16): -0.7021238803863525	 ([year][october.])
+I(9 15): -0.6546955108642578	 ([first][performed])
+I(9 10): -0.6324095726013184	 ([first][year])
+I(3 16): -0.6019096374511719	 ([year][october.])
+I(8 12): 0.5975141525268555	 ([york,][would])
+I(14 16): -0.5934064388275146	 ([judged][october.])
+I(7 11): -0.5764598846435547	 ([new][pinstripes])
+I(3 9): -0.5748796463012695	 ([year][first])
+I(0 11): 0.5695500373840332	 ([matter][pinstripes])
+I(1 4): 0.5381708145141602	 ([good][alex])
+I(10 15): -0.5354957580566406	 ([year][performed])
+I(4 10): 0.5343785285949707	 ([alex][year])
+I(5 13): 0.5123987197875977	 ([rodriguez][ultimately])
+I(10 14): 0.507530689239502	 ([year][judged])
+I(1 9): -0.4915037155151367	 ([good][first])
+I(4 6): -0.48421287536621094	 ([alex][season])
+I(4 5): -0.48045921325683594	 ([alex][rodriguez])
+I(13 16): 0.4759378433227539	 ([ultimately][october.])
+I(1 14): -0.4624898433685303	 ([good][judged])
+I(2 11): 0.3994901180267334	 ([bad][pinstripes])
+I(12 15): 0.39159154891967773	 ([would][performed])
+I(0 4): 0.38979434967041016	 ([matter][alex])
+I(8 13): 0.3824319839477539	 ([york,][ultimately])
+I(5 7): -0.381103515625	 ([rodriguez][new])
+I(11 14): 0.3800699710845947	 ([pinstripes][judged])
+I(1 3): -0.3789823055267334	 ([good][year])
+I(3 14): 0.3782963752746582	 ([year][judged])
+I(0 1): -0.37651491165161133	 ([matter][good])
+I(2 8): 0.3623166084289551	 ([bad][york,])
+I(1 10): 0.36204075813293457	 ([good][year])
+I(6 11): -0.3559856414794922	 ([season][pinstripes])
+I(0 16): -0.3398280143737793	 ([matter][october.])
+I(3 11): 0.33915209770202637	 ([year][pinstripes])
+I(0 2): -0.3382682800292969	 ([matter][bad])
+I(11 15): -0.3337688446044922	 ([pinstripes][performed])
+I(0 14): 0.3260636329650879	 ([matter][judged])
+I(11 13): 0.30843424797058105	 ([pinstripes][ultimately])
+I(2 5): 0.29644775390625	 ([bad][rodriguez])
+I(2 9): -0.28400421142578125	 ([bad][first])
+I(2 15): -0.2798733711242676	 ([bad][performed])
+I(11 12): 0.2653164863586426	 ([pinstripes][would])
+I(0 13): 0.2497115135192871	 ([matter][ultimately])
+I(10 12): 0.23323917388916016	 ([year][would])
+Sum: -11.785104274749756
+==================================================

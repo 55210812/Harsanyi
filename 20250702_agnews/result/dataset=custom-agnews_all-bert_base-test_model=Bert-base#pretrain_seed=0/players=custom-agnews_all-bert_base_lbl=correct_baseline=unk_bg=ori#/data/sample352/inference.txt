@@ -1,0 +1,38 @@
+Execution time: 2025-07-02 17:31:12
+prompt: [CLS] black caps coach john bracewell was forced to make some tough decisions in naming his side for the first test against australia in brisbane on thursday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2304 decoded_text: black
+idx:2 input_id:9700 decoded_text: caps
+idx:3 input_id:2873 decoded_text: coach
+idx:4 input_id:2198 decoded_text: john
+idx:5 input_id:17180 decoded_text: brace
+idx:6 input_id:4381 decoded_text: ##well
+idx:7 input_id:2001 decoded_text: was
+idx:8 input_id:3140 decoded_text: forced
+idx:9 input_id:2000 decoded_text: to
+idx:10 input_id:2191 decoded_text: make
+idx:11 input_id:2070 decoded_text: some
+idx:12 input_id:7823 decoded_text: tough
+idx:13 input_id:6567 decoded_text: decisions
+idx:14 input_id:1999 decoded_text: in
+idx:15 input_id:10324 decoded_text: naming
+idx:16 input_id:2010 decoded_text: his
+idx:17 input_id:2217 decoded_text: side
+idx:18 input_id:2005 decoded_text: for
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:2034 decoded_text: first
+idx:21 input_id:3231 decoded_text: test
+idx:22 input_id:2114 decoded_text: against
+idx:23 input_id:2660 decoded_text: australia
+idx:24 input_id:1999 decoded_text: in
+idx:25 input_id:7717 decoded_text: brisbane
+idx:26 input_id:2006 decoded_text: on
+idx:27 input_id:9432 decoded_text: thursday
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.363000512123108, 8.545763969421387, -3.0595967769622803, -2.4493160247802734]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

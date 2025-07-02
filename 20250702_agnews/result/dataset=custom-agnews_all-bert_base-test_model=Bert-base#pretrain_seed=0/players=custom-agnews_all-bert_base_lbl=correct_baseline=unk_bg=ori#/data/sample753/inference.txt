@@ -1,0 +1,62 @@
+Execution time: 2025-07-02 17:50:23
+prompt: [CLS] facing persistent speculation that mci inc. is positioning itself for a sale, the telecommunications company's chief executive, michael d. capellas, insisted yesterday he has'' no intention quot ; of breaking the company into pieces that could attract several buyers. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:5307 decoded_text: facing
+idx:2 input_id:14516 decoded_text: persistent
+idx:3 input_id:12143 decoded_text: speculation
+idx:4 input_id:2008 decoded_text: that
+idx:5 input_id:11338 decoded_text: mc
+idx:6 input_id:2072 decoded_text: ##i
+idx:7 input_id:4297 decoded_text: inc
+idx:8 input_id:1012 decoded_text: .
+idx:9 input_id:2003 decoded_text: is
+idx:10 input_id:19120 decoded_text: positioning
+idx:11 input_id:2993 decoded_text: itself
+idx:12 input_id:2005 decoded_text: for
+idx:13 input_id:1037 decoded_text: a
+idx:14 input_id:5096 decoded_text: sale
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:1996 decoded_text: the
+idx:17 input_id:12108 decoded_text: telecommunications
+idx:18 input_id:2194 decoded_text: company
+idx:19 input_id:1005 decoded_text: '
+idx:20 input_id:1055 decoded_text: s
+idx:21 input_id:2708 decoded_text: chief
+idx:22 input_id:3237 decoded_text: executive
+idx:23 input_id:1010 decoded_text: ,
+idx:24 input_id:2745 decoded_text: michael
+idx:25 input_id:1040 decoded_text: d
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:4880 decoded_text: cape
+idx:28 input_id:25816 decoded_text: ##llas
+idx:29 input_id:1010 decoded_text: ,
+idx:30 input_id:7278 decoded_text: insisted
+idx:31 input_id:7483 decoded_text: yesterday
+idx:32 input_id:2002 decoded_text: he
+idx:33 input_id:2038 decoded_text: has
+idx:34 input_id:1005 decoded_text: '
+idx:35 input_id:1005 decoded_text: '
+idx:36 input_id:2053 decoded_text: no
+idx:37 input_id:6808 decoded_text: intention
+idx:38 input_id:22035 decoded_text: quo
+idx:39 input_id:2102 decoded_text: ##t
+idx:40 input_id:1025 decoded_text: ;
+idx:41 input_id:1997 decoded_text: of
+idx:42 input_id:4911 decoded_text: breaking
+idx:43 input_id:1996 decoded_text: the
+idx:44 input_id:2194 decoded_text: company
+idx:45 input_id:2046 decoded_text: into
+idx:46 input_id:4109 decoded_text: pieces
+idx:47 input_id:2008 decoded_text: that
+idx:48 input_id:2071 decoded_text: could
+idx:49 input_id:9958 decoded_text: attract
+idx:50 input_id:2195 decoded_text: several
+idx:51 input_id:17394 decoded_text: buyers
+idx:52 input_id:1012 decoded_text: .
+idx:53 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.6623916625976562, -4.114531993865967, 4.59677267074585, 1.4046903848648071]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

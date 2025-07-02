@@ -1,0 +1,72 @@
+---------- Players ----------
+Player 0: phil
+Player 1: mickelson
+Player 2: look
+Player 3: comfortable
+Player 4: partner,
+Player 5: golf
+Player 6: clubs
+Player 7: opponents
+Player 8: opening
+Player 9: day
+Player 10: ryder
+Player 11: cup.
+---------- AND Interactions (Pairwise Only) ----------
+I(5 11): -7.015231132507324	 ([golf][cup.])
+I(5 6): -6.824034690856934	 ([golf][clubs])
+I(2 3): 4.707442283630371	 ([look][comfortable])
+I(1 5): -3.932453155517578	 ([mickelson][golf])
+I(6 11): -3.5425877571105957	 ([clubs][cup.])
+I(10 11): 3.499910354614258	 ([ryder][cup.])
+I(1 11): -3.419121742248535	 ([mickelson][cup.])
+I(0 4): 2.801140546798706	 ([phil][partner,])
+I(1 4): 2.6241865158081055	 ([mickelson][partner,])
+I(0 7): 2.1576955318450928	 ([phil][opponents])
+I(1 10): 2.107433319091797	 ([mickelson][ryder])
+I(6 7): -1.9829514026641846	 ([clubs][opponents])
+I(2 5): 1.9420242309570312	 ([look][golf])
+I(0 6): 1.9173965454101562	 ([phil][clubs])
+I(9 11): 1.856825828552246	 ([day][cup.])
+I(4 6): -1.8336825370788574	 ([partner,][clubs])
+I(8 10): 1.8256349563598633	 ([opening][ryder])
+I(2 4): 1.687103033065796	 ([look][partner,])
+I(8 9): 1.632606029510498	 ([opening][day])
+I(7 11): 1.6192200183868408	 ([opponents][cup.])
+I(0 1): 1.5367965698242188	 ([phil][mickelson])
+I(9 10): -1.2351500988006592	 ([day][ryder])
+I(1 3): 1.184638261795044	 ([mickelson][comfortable])
+I(1 6): -1.0668821334838867	 ([mickelson][clubs])
+I(3 9): -1.0234997272491455	 ([comfortable][day])
+I(2 6): -0.9995989799499512	 ([look][clubs])
+I(0 3): 0.930992603302002	 ([phil][comfortable])
+I(6 10): -0.9294137954711914	 ([clubs][ryder])
+I(0 10): 0.9087831974029541	 ([phil][ryder])
+I(5 8): 0.8654193878173828	 ([golf][opening])
+I(3 5): 0.8159608840942383	 ([comfortable][golf])
+I(1 8): 0.7726263999938965	 ([mickelson][opening])
+I(5 9): -0.7722928524017334	 ([golf][day])
+I(0 2): 0.7642114162445068	 ([phil][look])
+I(6 8): 0.7337968349456787	 ([clubs][opening])
+I(0 5): -0.6972332000732422	 ([phil][golf])
+I(0 11): -0.6811394691467285	 ([phil][cup.])
+I(0 8): 0.6391091346740723	 ([phil][opening])
+I(3 10): 0.6190173625946045	 ([comfortable][ryder])
+I(6 9): -0.5688631534576416	 ([clubs][day])
+I(3 8): 0.5419037342071533	 ([comfortable][opening])
+I(2 7): 0.5344293117523193	 ([look][opponents])
+I(4 8): 0.5325915813446045	 ([partner,][opening])
+I(3 7): 0.5226209163665771	 ([comfortable][opponents])
+I(4 10): -0.5112698078155518	 ([partner,][ryder])
+I(4 9): -0.500446081161499	 ([partner,][day])
+I(2 11): 0.4783611297607422	 ([look][cup.])
+I(4 7): 0.4527432918548584	 ([partner,][opponents])
+I(1 9): 0.4375944137573242	 ([mickelson][day])
+I(7 9): 0.4157111644744873	 ([opponents][day])
+I(3 6): 0.4063560962677002	 ([comfortable][clubs])
+I(8 11): 0.37746167182922363	 ([opening][cup.])
+I(2 8): 0.3764188289642334	 ([look][opening])
+I(3 4): 0.31676650047302246	 ([comfortable][partner,])
+I(1 2): 0.28017330169677734	 ([mickelson][look])
+I(4 5): -0.2763080596923828	 ([partner,][golf])
+Sum: 33.30841302871704
+==================================================

@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 17:26:41
+prompt: [CLS] sun microsystems inc. said it agreed to pay \ $ 92 million to eastman kodak co. to settle a patent - infringement lawsuit over sun # 39 ; s java programming language. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3103 decoded_text: sun
+idx:2 input_id:12702 decoded_text: micro
+idx:3 input_id:29390 decoded_text: ##systems
+idx:4 input_id:4297 decoded_text: inc
+idx:5 input_id:1012 decoded_text: .
+idx:6 input_id:2056 decoded_text: said
+idx:7 input_id:2009 decoded_text: it
+idx:8 input_id:3530 decoded_text: agreed
+idx:9 input_id:2000 decoded_text: to
+idx:10 input_id:3477 decoded_text: pay
+idx:11 input_id:1032 decoded_text: \
+idx:12 input_id:1002 decoded_text: $
+idx:13 input_id:6227 decoded_text: 92
+idx:14 input_id:2454 decoded_text: million
+idx:15 input_id:2000 decoded_text: to
+idx:16 input_id:24252 decoded_text: eastman
+idx:17 input_id:12849 decoded_text: ko
+idx:18 input_id:23597 decoded_text: ##dak
+idx:19 input_id:2522 decoded_text: co
+idx:20 input_id:1012 decoded_text: .
+idx:21 input_id:2000 decoded_text: to
+idx:22 input_id:7392 decoded_text: settle
+idx:23 input_id:1037 decoded_text: a
+idx:24 input_id:7353 decoded_text: patent
+idx:25 input_id:1011 decoded_text: -
+idx:26 input_id:20701 decoded_text: infringement
+idx:27 input_id:9870 decoded_text: lawsuit
+idx:28 input_id:2058 decoded_text: over
+idx:29 input_id:3103 decoded_text: sun
+idx:30 input_id:1001 decoded_text: #
+idx:31 input_id:4464 decoded_text: 39
+idx:32 input_id:1025 decoded_text: ;
+idx:33 input_id:1055 decoded_text: s
+idx:34 input_id:9262 decoded_text: java
+idx:35 input_id:4730 decoded_text: programming
+idx:36 input_id:2653 decoded_text: language
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.9029335975646973, -2.570577383041382, -0.7476029396057129, 7.0674333572387695]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

@@ -1,0 +1,23 @@
+Execution time: 2025-07-02 17:17:35
+prompt: [CLS] dangerous new ways to try to steal your money are in progress. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4795 decoded_text: dangerous
+idx:2 input_id:2047 decoded_text: new
+idx:3 input_id:3971 decoded_text: ways
+idx:4 input_id:2000 decoded_text: to
+idx:5 input_id:3046 decoded_text: try
+idx:6 input_id:2000 decoded_text: to
+idx:7 input_id:8954 decoded_text: steal
+idx:8 input_id:2115 decoded_text: your
+idx:9 input_id:2769 decoded_text: money
+idx:10 input_id:2024 decoded_text: are
+idx:11 input_id:1999 decoded_text: in
+idx:12 input_id:5082 decoded_text: progress
+idx:13 input_id:1012 decoded_text: .
+idx:14 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[1.727366328239441, -5.070448875427246, 2.1893887519836426, -0.010379301384091377]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

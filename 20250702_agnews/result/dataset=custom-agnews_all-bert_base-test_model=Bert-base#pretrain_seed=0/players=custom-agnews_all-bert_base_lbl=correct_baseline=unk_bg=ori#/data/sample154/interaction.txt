@@ -1,0 +1,64 @@
+---------- Players ----------
+Player 0: hong
+Player 1: kong's
+Player 2: pro - democracy
+Player 3: parties
+Player 4: course
+Player 5: net
+Player 6: fewer
+Player 7: seats
+Player 8: expected
+Player 9: legislative
+Player 10: elections.
+---------- AND Interactions (Pairwise Only) ----------
+I(2 10): -11.209436416625977	 ([pro - democracy][elections.])
+I(3 5): -6.69101095199585	 ([parties][net])
+I(1 10): -6.523495674133301	 ([kong's][elections.])
+I(1 2): -5.927150726318359	 ([kong's][pro - democracy])
+I(3 10): -5.669638156890869	 ([parties][elections.])
+I(2 3): -5.2032012939453125	 ([pro - democracy][parties])
+I(9 10): -5.076345443725586	 ([legislative][elections.])
+I(2 9): -4.946294784545898	 ([pro - democracy][legislative])
+I(5 9): -4.0129075050354	 ([net][legislative])
+I(0 10): -3.830349922180176	 ([hong][elections.])
+I(1 4): -3.764946937561035	 ([kong's][course])
+I(6 7): 3.5549168586730957	 ([fewer][seats])
+I(1 7): -3.4640445709228516	 ([kong's][seats])
+I(5 10): -3.448038101196289	 ([net][elections.])
+I(7 10): -3.3217263221740723	 ([seats][elections.])
+I(0 2): -3.196660041809082	 ([hong][pro - democracy])
+I(7 9): 3.1125965118408203	 ([seats][legislative])
+I(2 7): -3.0347862243652344	 ([pro - democracy][seats])
+I(1 9): -2.8031625747680664	 ([kong's][legislative])
+I(2 5): -2.6712112426757812	 ([pro - democracy][net])
+I(0 7): -2.611764907836914	 ([hong][seats])
+I(0 4): -2.494642972946167	 ([hong][course])
+I(1 5): -2.3259429931640625	 ([kong's][net])
+I(3 7): 2.126034736633301	 ([parties][seats])
+I(0 1): -2.096470832824707	 ([hong][kong's])
+I(7 8): -2.069762945175171	 ([seats][expected])
+I(4 5): 1.7786908149719238	 ([course][net])
+I(0 5): -1.1697485446929932	 ([hong][net])
+I(1 3): -1.096883773803711	 ([kong's][parties])
+I(4 9): 1.080359935760498	 ([course][legislative])
+I(8 9): 1.0645761489868164	 ([expected][legislative])
+I(1 8): 1.0316076278686523	 ([kong's][expected])
+I(0 9): -1.022486686706543	 ([hong][legislative])
+I(5 7): -1.0216381549835205	 ([net][seats])
+I(3 4): 1.0045580863952637	 ([parties][course])
+I(3 6): 1.0035009384155273	 ([parties][fewer])
+I(5 6): 1.0030336380004883	 ([net][fewer])
+I(6 8): -0.8807511329650879	 ([fewer][expected])
+I(2 8): -0.8721261024475098	 ([pro - democracy][expected])
+I(3 9): 0.8561205863952637	 ([parties][legislative])
+I(5 8): -0.8496885299682617	 ([net][expected])
+I(4 10): 0.7826480865478516	 ([course][elections.])
+I(6 9): 0.7644567489624023	 ([fewer][legislative])
+I(1 6): 0.7245340347290039	 ([kong's][fewer])
+I(0 3): -0.6842794418334961	 ([hong][parties])
+I(2 6): 0.6505794525146484	 ([pro - democracy][fewer])
+I(0 6): -0.6138989925384521	 ([hong][fewer])
+I(0 8): -0.38987231254577637	 ([hong][expected])
+I(2 4): 0.34349632263183594	 ([pro - democracy][course])
+Sum: -30.208822011947632
+==================================================

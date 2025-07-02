@@ -1,0 +1,113 @@
+---------- Players ----------
+Player 0: government
+Player 1: may
+Player 2: caught
+Player 3: flat - footed
+Player 4: australia
+Player 5: # 39 ; s
+Player 6: announcement
+Player 7: 1850km
+Player 8: maritime
+Player 9: security
+Player 10: zone
+Player 11: turns
+Player 12: new
+Player 13: zealand
+Player 14: already
+Player 15: similar
+Player 16: measures.
+---------- AND Interactions (Pairwise Only) ----------
+I(9 10): 9.362001419067383	 ([security][zone])
+I(0 16): -8.396675109863281	 ([government][measures.])
+I(0 7): -6.172886848449707	 ([government][1850km])
+I(8 9): 4.151999473571777	 ([maritime][security])
+I(0 8): -4.07438850402832	 ([government][maritime])
+I(2 16): -3.3969333171844482	 ([caught][measures.])
+I(7 13): -3.371591329574585	 ([1850km][zealand])
+I(7 8): -3.369889736175537	 ([1850km][maritime])
+I(7 16): -3.334212303161621	 ([1850km][measures.])
+I(4 9): 3.239771842956543	 ([australia][security])
+I(3 7): -2.5696520805358887	 ([flat - footed][1850km])
+I(3 16): -2.3611338138580322	 ([flat - footed][measures.])
+I(8 16): -2.238001823425293	 ([maritime][measures.])
+I(2 7): -2.1801795959472656	 ([caught][1850km])
+I(2 4): 2.10493803024292	 ([caught][australia])
+I(0 2): -2.0736827850341797	 ([government][caught])
+I(3 8): -1.959061861038208	 ([flat - footed][maritime])
+I(3 9): 1.9272003173828125	 ([flat - footed][security])
+I(9 11): 1.8751063346862793	 ([security][turns])
+I(9 12): -1.8739914894104004	 ([security][new])
+I(2 9): 1.837822437286377	 ([caught][security])
+I(0 4): -1.8135128021240234	 ([government][australia])
+I(9 16): 1.8043804168701172	 ([security][measures.])
+I(6 9): -1.7751131057739258	 ([announcement][security])
+I(4 7): -1.7511043548583984	 ([australia][1850km])
+I(9 14): -1.7174725532531738	 ([security][already])
+I(0 6): 1.692037582397461	 ([government][announcement])
+I(0 9): -1.6578865051269531	 ([government][security])
+I(8 13): -1.6000566482543945	 ([maritime][zealand])
+I(0 11): 1.5686359405517578	 ([government][turns])
+I(15 16): -1.5648996829986572	 ([similar][measures.])
+I(5 9): -1.5018911361694336	 ([# 39 ; s][security])
+I(5 8): 1.4243557453155518	 ([# 39 ; s][maritime])
+I(4 8): -1.3845458030700684	 ([australia][maritime])
+I(0 1): 1.3521881103515625	 ([government][may])
+I(4 13): -1.3518924713134766	 ([australia][zealand])
+I(1 10): -1.2585349082946777	 ([may][zone])
+I(1 2): -1.1736106872558594	 ([may][caught])
+I(4 10): 1.1379406452178955	 ([australia][zone])
+I(9 15): -1.1121492385864258	 ([security][similar])
+I(0 5): 1.1118431091308594	 ([government][# 39 ; s])
+I(1 16): -1.1075465679168701	 ([may][measures.])
+I(2 11): 1.0684409141540527	 ([caught][turns])
+I(3 4): -1.0381083488464355	 ([flat - footed][australia])
+I(0 12): 1.0323610305786133	 ([government][new])
+I(0 10): -0.952427864074707	 ([government][zone])
+I(11 12): 0.9484939575195312	 ([turns][new])
+I(7 15): -0.9028096199035645	 ([1850km][similar])
+I(7 9): 0.851130485534668	 ([1850km][security])
+I(6 11): 0.8440852165222168	 ([announcement][turns])
+I(12 13): 0.8239684104919434	 ([new][zealand])
+I(10 13): 0.7963871955871582	 ([zone][zealand])
+I(10 16): -0.7742092609405518	 ([zone][measures.])
+I(7 14): 0.7453346252441406	 ([1850km][already])
+I(4 6): 0.7399744987487793	 ([australia][announcement])
+I(3 11): 0.7345747947692871	 ([flat - footed][turns])
+I(5 13): 0.7077350616455078	 ([# 39 ; s][zealand])
+I(2 12): -0.6413359642028809	 ([caught][new])
+I(0 13): -0.6285209655761719	 ([government][zealand])
+I(10 12): 0.6175727844238281	 ([zone][new])
+I(5 16): -0.6119034290313721	 ([# 39 ; s][measures.])
+I(6 16): -0.5897185802459717	 ([announcement][measures.])
+I(5 10): 0.5863547325134277	 ([# 39 ; s][zone])
+I(1 13): 0.5802731513977051	 ([may][zealand])
+I(2 10): -0.5724892616271973	 ([caught][zone])
+I(11 13): 0.5686860084533691	 ([turns][zealand])
+I(1 3): -0.5270705223083496	 ([may][flat - footed])
+I(8 11): 0.51424241065979	 ([maritime][turns])
+I(6 8): 0.5006506443023682	 ([announcement][maritime])
+I(3 10): -0.4830498695373535	 ([flat - footed][zone])
+I(1 9): 0.4643545150756836	 ([may][security])
+I(4 15): -0.45973968505859375	 ([australia][similar])
+I(1 7): 0.4563603401184082	 ([may][1850km])
+I(3 6): 0.44910287857055664	 ([flat - footed][announcement])
+I(11 16): -0.4484703540802002	 ([turns][measures.])
+I(1 12): -0.44045257568359375	 ([may][new])
+I(6 12): 0.4383115768432617	 ([announcement][new])
+I(1 11): 0.421353816986084	 ([may][turns])
+I(1 4): 0.4168546199798584	 ([may][australia])
+I(6 13): 0.3891420364379883	 ([announcement][zealand])
+I(4 14): 0.3713045120239258	 ([australia][already])
+I(5 11): 0.36084699630737305	 ([# 39 ; s][turns])
+I(4 16): -0.353848934173584	 ([australia][measures.])
+I(3 13): -0.34799814224243164	 ([flat - footed][zealand])
+I(14 15): -0.34615135192871094	 ([already][similar])
+I(9 13): 0.34468793869018555	 ([security][zealand])
+I(5 6): 0.32709360122680664	 ([# 39 ; s][announcement])
+I(1 15): -0.3256397247314453	 ([may][similar])
+I(4 12): -0.3232412338256836	 ([australia][new])
+I(13 16): 0.3059051036834717	 ([zealand][measures.])
+I(10 15): -0.3037447929382324	 ([zone][similar])
+I(7 10): -0.299074649810791	 ([1850km][zone])
+Sum: -3.484421730041504
+==================================================

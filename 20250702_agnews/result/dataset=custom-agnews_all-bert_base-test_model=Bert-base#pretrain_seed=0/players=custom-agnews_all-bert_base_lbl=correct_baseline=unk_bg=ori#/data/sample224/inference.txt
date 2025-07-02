@@ -1,0 +1,37 @@
+Execution time: 2025-07-02 17:25:59
+prompt: [CLS] president bush said that alberto r. gonzales had been " a calm and steady voice at times of crisis " as his white house counsel. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2343 decoded_text: president
+idx:2 input_id:5747 decoded_text: bush
+idx:3 input_id:2056 decoded_text: said
+idx:4 input_id:2008 decoded_text: that
+idx:5 input_id:12007 decoded_text: alberto
+idx:6 input_id:1054 decoded_text: r
+idx:7 input_id:1012 decoded_text: .
+idx:8 input_id:24334 decoded_text: gonzales
+idx:9 input_id:2018 decoded_text: had
+idx:10 input_id:2042 decoded_text: been
+idx:11 input_id:1000 decoded_text: "
+idx:12 input_id:1037 decoded_text: a
+idx:13 input_id:5475 decoded_text: calm
+idx:14 input_id:1998 decoded_text: and
+idx:15 input_id:6706 decoded_text: steady
+idx:16 input_id:2376 decoded_text: voice
+idx:17 input_id:2012 decoded_text: at
+idx:18 input_id:2335 decoded_text: times
+idx:19 input_id:1997 decoded_text: of
+idx:20 input_id:5325 decoded_text: crisis
+idx:21 input_id:1000 decoded_text: "
+idx:22 input_id:2004 decoded_text: as
+idx:23 input_id:2010 decoded_text: his
+idx:24 input_id:2317 decoded_text: white
+idx:25 input_id:2160 decoded_text: house
+idx:26 input_id:9517 decoded_text: counsel
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.031544208526611, -1.7514410018920898, -2.082604169845581, -2.922295331954956]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

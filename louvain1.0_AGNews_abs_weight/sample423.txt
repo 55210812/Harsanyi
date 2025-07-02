@@ -1,0 +1,6 @@
+louvain社区检测结果:
+社区 1: ['1', '6', '11', '3', '10', '4', '5', '2', '7']: ['small', 'year,', 'past,', 'holiday', 'restaurant.', 'season', 'every', 'business.', 'invite']: 平均边权 1.3371
+社区 2: ['18', '22', '17', '20', '21', '16', '0']: ['pay )', 'now,', '( with', 'several', 'years', 'early', 'q :']: 平均边权 0.6666
+社区 3: ['13', '14', '12', '15']: ['everyone', 'go', 'let', 'home']: 平均边权 0.5978
+社区 4: ['25', '24', '8', '9']: ['lunch', 'skipped', 'employees', 'lunch']: 平均边权 1.1195
+社区 5: ['30', '26', '32', '34', '29', '31', '23', '27', '33', '28', '35', '19']: ['ill', 'gone', 'employees.', 'option', 'caused', 'among', 'people', 'straight', 'one', 'home.', '...', 'afterward.']: 平均边权 0.5672

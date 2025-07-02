@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 17:30:49
+prompt: [CLS] detectives have been granted more time to question cleric abu hamza on suspicion of being involved in terrorist offences. the muslim cleric was arrested at belmarsh prison under the terrorism act 2000 on suspicion [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:18145 decoded_text: detectives
+idx:2 input_id:2031 decoded_text: have
+idx:3 input_id:2042 decoded_text: been
+idx:4 input_id:4379 decoded_text: granted
+idx:5 input_id:2062 decoded_text: more
+idx:6 input_id:2051 decoded_text: time
+idx:7 input_id:2000 decoded_text: to
+idx:8 input_id:3160 decoded_text: question
+idx:9 input_id:29307 decoded_text: cleric
+idx:10 input_id:8273 decoded_text: abu
+idx:11 input_id:10654 decoded_text: ham
+idx:12 input_id:4143 decoded_text: ##za
+idx:13 input_id:2006 decoded_text: on
+idx:14 input_id:10928 decoded_text: suspicion
+idx:15 input_id:1997 decoded_text: of
+idx:16 input_id:2108 decoded_text: being
+idx:17 input_id:2920 decoded_text: involved
+idx:18 input_id:1999 decoded_text: in
+idx:19 input_id:9452 decoded_text: terrorist
+idx:20 input_id:18421 decoded_text: offences
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:5152 decoded_text: muslim
+idx:24 input_id:29307 decoded_text: cleric
+idx:25 input_id:2001 decoded_text: was
+idx:26 input_id:4727 decoded_text: arrested
+idx:27 input_id:2012 decoded_text: at
+idx:28 input_id:19337 decoded_text: bel
+idx:29 input_id:7849 decoded_text: ##mar
+idx:30 input_id:4095 decoded_text: ##sh
+idx:31 input_id:3827 decoded_text: prison
+idx:32 input_id:2104 decoded_text: under
+idx:33 input_id:1996 decoded_text: the
+idx:34 input_id:10130 decoded_text: terrorism
+idx:35 input_id:2552 decoded_text: act
+idx:36 input_id:2456 decoded_text: 2000
+idx:37 input_id:2006 decoded_text: on
+idx:38 input_id:10928 decoded_text: suspicion
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.158060073852539, -1.678678035736084, -2.808346748352051, -2.2541351318359375]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

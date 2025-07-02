@@ -1,0 +1,58 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: larry
+Player 3: walker
+Player 4: learned
+Player 5: quickly
+Player 6: st.
+Player 7: louis
+Player 8: cardinals '
+Player 9: fans
+Player 10: know
+Player 11: celebrate.
+---------- AND Interactions (Pairwise Only) ----------
+I(8 9): 10.859027862548828	 ([cardinals '][fans])
+I(7 8): 7.616977214813232	 ([louis][cardinals '])
+I(7 11): -5.0174055099487305	 ([louis][celebrate.])
+I(2 11): -4.783187389373779	 ([larry][celebrate.])
+I(3 9): 2.9760499000549316	 ([walker][fans])
+I(6 10): 2.780824661254883	 ([st.][know])
+I(0 7): -2.7537155151367188	 ([ap][louis])
+I(2 7): -2.5061678886413574	 ([larry][louis])
+I(3 8): -2.365781307220459	 ([walker][cardinals '])
+I(8 11): 2.2588367462158203	 ([cardinals '][celebrate.])
+I(0 2): -2.1582159996032715	 ([ap][larry])
+I(2 4): -1.9507989883422852	 ([larry][learned])
+I(4 6): 1.938441276550293	 ([learned][st.])
+I(6 8): 1.7948293685913086	 ([st.][cardinals '])
+I(0 3): -1.7416057586669922	 ([ap][walker])
+I(3 11): 1.6289162635803223	 ([walker][celebrate.])
+I(1 2): -1.6120953559875488	 ([-][larry])
+I(7 10): 1.5931568145751953	 ([louis][know])
+I(7 9): 1.5690789222717285	 ([louis][fans])
+I(9 11): -1.4368867874145508	 ([fans][celebrate.])
+I(5 6): 1.3922815322875977	 ([quickly][st.])
+I(3 5): 1.3520164489746094	 ([walker][quickly])
+I(3 7): -1.3434410095214844	 ([walker][louis])
+I(4 8): -1.1674985885620117	 ([learned][cardinals '])
+I(6 11): -1.163376808166504	 ([st.][celebrate.])
+I(4 11): -1.0500540733337402	 ([learned][celebrate.])
+I(2 9): -0.9541077613830566	 ([larry][fans])
+I(3 10): 0.9199585914611816	 ([walker][know])
+I(3 4): 0.9069199562072754	 ([walker][learned])
+I(2 3): -0.8972263336181641	 ([larry][walker])
+I(1 11): 0.7677974700927734	 ([-][celebrate.])
+I(2 10): 0.7437772750854492	 ([larry][know])
+I(9 10): 0.7371416091918945	 ([fans][know])
+I(5 7): 0.7138867378234863	 ([quickly][louis])
+I(2 8): -0.660888671875	 ([larry][cardinals '])
+I(0 8): -0.6235232353210449	 ([ap][cardinals '])
+I(3 6): -0.5712838172912598	 ([walker][st.])
+I(2 5): -0.5504703521728516	 ([larry][quickly])
+I(5 8): -0.5089569091796875	 ([quickly][cardinals '])
+I(6 7): -0.424410343170166	 ([st.][louis])
+I(0 9): -0.39557743072509766	 ([ap][fans])
+I(5 11): 0.2738165855407715	 ([quickly][celebrate.])
+Sum: 25.34027910232544
+==================================================

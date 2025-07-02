@@ -1,0 +1,103 @@
+---------- Players ----------
+Player 0: construction
+Player 1: spending
+Player 2: august
+Player 3: hit
+Player 4: highest
+Player 5: level
+Player 6: record,
+Player 7: fresh
+Player 8: evidence
+Player 9: housing
+Player 10: market
+Player 11: helping
+Player 12: move
+Player 13: economy
+Player 14: ahead.
+---------- AND Interactions (Pairwise Only) ----------
+I(1 13): -8.598240852355957	 ([spending][economy])
+I(10 13): -8.165624618530273	 ([market][economy])
+I(0 1): 6.268523216247559	 ([construction][spending])
+I(1 9): 5.446449279785156	 ([spending][housing])
+I(2 13): -4.982357025146484	 ([august][economy])
+I(11 14): 4.399570465087891	 ([helping][ahead.])
+I(9 10): 4.208988189697266	 ([housing][market])
+I(1 8): 3.868770122528076	 ([spending][evidence])
+I(1 2): -3.638051986694336	 ([spending][august])
+I(1 10): -3.3952407836914062	 ([spending][market])
+I(2 10): -3.1369848251342773	 ([august][market])
+I(3 10): -3.080930709838867	 ([hit][market])
+I(1 12): -3.011533260345459	 ([spending][move])
+I(2 14): 2.9891269207000732	 ([august][ahead.])
+I(6 11): 2.63067364692688	 ([record,][helping])
+I(13 14): -2.328626871109009	 ([economy][ahead.])
+I(9 11): 2.3216958045959473	 ([housing][helping])
+I(1 4): 2.2570605278015137	 ([spending][highest])
+I(0 9): 2.2555179595947266	 ([construction][housing])
+I(7 11): 2.2028872966766357	 ([fresh][helping])
+I(8 10): 2.175973892211914	 ([evidence][market])
+I(6 10): 2.10520076751709	 ([record,][market])
+I(5 6): -2.0530319213867188	 ([level][record,])
+I(1 11): -2.0394492149353027	 ([spending][helping])
+I(4 5): -2.0222177505493164	 ([highest][level])
+I(0 10): -1.7715983390808105	 ([construction][market])
+I(0 14): -1.7599132061004639	 ([construction][ahead.])
+I(4 13): -1.7520360946655273	 ([highest][economy])
+I(2 8): -1.7302796840667725	 ([august][evidence])
+I(7 10): -1.6953930854797363	 ([fresh][market])
+I(1 6): 1.6475515365600586	 ([spending][record,])
+I(6 9): 1.639164924621582	 ([record,][housing])
+I(2 6): -1.584630012512207	 ([august][record,])
+I(10 14): 1.5585792064666748	 ([market][ahead.])
+I(2 3): 1.5080547332763672	 ([august][hit])
+I(11 13): -1.5001039505004883	 ([helping][economy])
+I(3 9): 1.4225068092346191	 ([hit][housing])
+I(5 13): -1.376129150390625	 ([level][economy])
+I(2 12): -1.351323127746582	 ([august][move])
+I(12 14): -1.3430464267730713	 ([move][ahead.])
+I(3 6): 1.3182578086853027	 ([hit][record,])
+I(8 13): 1.3162870407104492	 ([evidence][economy])
+I(11 12): 1.3117690086364746	 ([helping][move])
+I(0 4): -1.3058834075927734	 ([construction][highest])
+I(2 4): 1.277550220489502	 ([august][highest])
+I(3 7): 1.2452659606933594	 ([hit][fresh])
+I(4 7): 1.1636741161346436	 ([highest][fresh])
+I(5 10): 1.1392831802368164	 ([level][market])
+I(4 6): -1.137047290802002	 ([highest][record,])
+I(4 11): 1.0700294971466064	 ([highest][helping])
+I(10 12): 0.9980320930480957	 ([market][move])
+I(3 5): -0.9785561561584473	 ([hit][level])
+I(5 9): 0.9469561576843262	 ([level][housing])
+I(6 7): -0.9277234077453613	 ([record,][fresh])
+I(8 12): 0.8905272483825684	 ([evidence][move])
+I(5 14): -0.8826923370361328	 ([level][ahead.])
+I(10 11): -0.8802547454833984	 ([market][helping])
+I(5 7): 0.8272449970245361	 ([level][fresh])
+I(9 13): 0.8055400848388672	 ([housing][economy])
+I(2 5): 0.7864694595336914	 ([august][level])
+I(12 13): 0.7799406051635742	 ([move][economy])
+I(2 7): -0.7337160110473633	 ([august][fresh])
+I(3 4): -0.7179794311523438	 ([hit][highest])
+I(9 14): 0.7062506675720215	 ([housing][ahead.])
+I(1 3): -0.6982760429382324	 ([spending][hit])
+I(6 14): 0.6568553447723389	 ([record,][ahead.])
+I(1 7): 0.604154109954834	 ([spending][fresh])
+I(3 13): -0.5770139694213867	 ([hit][economy])
+I(4 14): 0.5761229991912842	 ([highest][ahead.])
+I(2 11): -0.5294713973999023	 ([august][helping])
+I(7 12): 0.5258245468139648	 ([fresh][move])
+I(8 9): -0.5209403038024902	 ([evidence][housing])
+I(7 8): -0.5196552276611328	 ([fresh][evidence])
+I(7 9): -0.5194234848022461	 ([fresh][housing])
+I(6 8): 0.4605832099914551	 ([record,][evidence])
+I(1 14): 0.4069383144378662	 ([spending][ahead.])
+I(0 8): 0.4019918441772461	 ([construction][evidence])
+I(0 12): 0.39527130126953125	 ([construction][move])
+I(0 2): -0.37385129928588867	 ([construction][august])
+I(4 12): -0.3643455505371094	 ([highest][move])
+I(5 8): -0.36427974700927734	 ([level][evidence])
+I(7 13): -0.3590211868286133	 ([fresh][economy])
+I(3 12): 0.35082244873046875	 ([hit][move])
+I(5 11): 0.33037567138671875	 ([level][helping])
+Sum: 30.82024073600769
+==================================================

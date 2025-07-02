@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 17:51:33
+prompt: [CLS] new york just four days after it began, a spam - fighting campaign by web portal lycos europe has been ended on the grounds the cure might be worse than the disease. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2047 decoded_text: new
+idx:2 input_id:2259 decoded_text: york
+idx:3 input_id:2074 decoded_text: just
+idx:4 input_id:2176 decoded_text: four
+idx:5 input_id:2420 decoded_text: days
+idx:6 input_id:2044 decoded_text: after
+idx:7 input_id:2009 decoded_text: it
+idx:8 input_id:2211 decoded_text: began
+idx:9 input_id:1010 decoded_text: ,
+idx:10 input_id:1037 decoded_text: a
+idx:11 input_id:12403 decoded_text: spa
+idx:12 input_id:2213 decoded_text: ##m
+idx:13 input_id:1011 decoded_text: -
+idx:14 input_id:3554 decoded_text: fighting
+idx:15 input_id:3049 decoded_text: campaign
+idx:16 input_id:2011 decoded_text: by
+idx:17 input_id:4773 decoded_text: web
+idx:18 input_id:9445 decoded_text: portal
+idx:19 input_id:1048 decoded_text: l
+idx:20 input_id:2100 decoded_text: ##y
+idx:21 input_id:13186 decoded_text: ##cos
+idx:22 input_id:2885 decoded_text: europe
+idx:23 input_id:2038 decoded_text: has
+idx:24 input_id:2042 decoded_text: been
+idx:25 input_id:3092 decoded_text: ended
+idx:26 input_id:2006 decoded_text: on
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:5286 decoded_text: grounds
+idx:29 input_id:1996 decoded_text: the
+idx:30 input_id:9526 decoded_text: cure
+idx:31 input_id:2453 decoded_text: might
+idx:32 input_id:2022 decoded_text: be
+idx:33 input_id:4788 decoded_text: worse
+idx:34 input_id:2084 decoded_text: than
+idx:35 input_id:1996 decoded_text: the
+idx:36 input_id:4295 decoded_text: disease
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.469147205352783, -2.477107048034668, -0.5962077975273132, 6.516750812530518]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 17:58:30
+prompt: [CLS] microsoft ( msft ) and watch maker swatch are offering a new line of wireless data watches, the companies said wednesday, bringing the era of dick tracy wristwatch radios one step closer. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:7513 decoded_text: microsoft
+idx:2 input_id:1006 decoded_text: (
+idx:3 input_id:5796 decoded_text: ms
+idx:4 input_id:6199 decoded_text: ##ft
+idx:5 input_id:1007 decoded_text: )
+idx:6 input_id:1998 decoded_text: and
+idx:7 input_id:3422 decoded_text: watch
+idx:8 input_id:9338 decoded_text: maker
+idx:9 input_id:25414 decoded_text: swat
+idx:10 input_id:2818 decoded_text: ##ch
+idx:11 input_id:2024 decoded_text: are
+idx:12 input_id:5378 decoded_text: offering
+idx:13 input_id:1037 decoded_text: a
+idx:14 input_id:2047 decoded_text: new
+idx:15 input_id:2240 decoded_text: line
+idx:16 input_id:1997 decoded_text: of
+idx:17 input_id:9949 decoded_text: wireless
+idx:18 input_id:2951 decoded_text: data
+idx:19 input_id:12197 decoded_text: watches
+idx:20 input_id:1010 decoded_text: ,
+idx:21 input_id:1996 decoded_text: the
+idx:22 input_id:3316 decoded_text: companies
+idx:23 input_id:2056 decoded_text: said
+idx:24 input_id:9317 decoded_text: wednesday
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:5026 decoded_text: bringing
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:3690 decoded_text: era
+idx:29 input_id:1997 decoded_text: of
+idx:30 input_id:5980 decoded_text: dick
+idx:31 input_id:10555 decoded_text: tracy
+idx:32 input_id:7223 decoded_text: wrist
+idx:33 input_id:18866 decoded_text: ##watch
+idx:34 input_id:22229 decoded_text: radios
+idx:35 input_id:2028 decoded_text: one
+idx:36 input_id:3357 decoded_text: step
+idx:37 input_id:3553 decoded_text: closer
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.569574356079102, -2.8717517852783203, 0.7781474590301514, 6.394026279449463]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

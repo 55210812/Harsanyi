@@ -1,0 +1,84 @@
+---------- Players ----------
+Player 0: united
+Player 1: states
+Player 2: confident
+Player 3: coming
+Player 4: away
+Player 5: first
+Player 6: olympic
+Player 7: women
+Player 8: # 39 ; s
+Player 9: wrestling
+Player 10: tournament
+Player 11: maximum
+Player 12: four
+Player 13: medals.
+---------- AND Interactions (Pairwise Only) ----------
+I(6 9): -11.2511625289917	 ([olympic][wrestling])
+I(6 10): -10.494344711303711	 ([olympic][tournament])
+I(9 10): -9.746604919433594	 ([wrestling][tournament])
+I(6 13): -6.756503105163574	 ([olympic][medals.])
+I(10 13): -5.084885597229004	 ([tournament][medals.])
+I(9 13): -5.04640007019043	 ([wrestling][medals.])
+I(1 4): -4.99692440032959	 ([states][away])
+I(6 7): -4.681347846984863	 ([olympic][women])
+I(7 9): -4.680444717407227	 ([women][wrestling])
+I(1 11): -4.340015888214111	 ([states][maximum])
+I(1 7): -4.231019020080566	 ([states][women])
+I(1 13): -4.141563415527344	 ([states][medals.])
+I(7 10): -3.904979705810547	 ([women][tournament])
+I(7 13): -3.7024168968200684	 ([women][medals.])
+I(1 9): -3.6342501640319824	 ([states][wrestling])
+I(0 1): 3.3564233779907227	 ([united][states])
+I(6 11): -2.994349479675293	 ([olympic][maximum])
+I(4 13): -2.9796347618103027	 ([away][medals.])
+I(0 2): 2.892367124557495	 ([united][confident])
+I(0 4): 2.1987814903259277	 ([united][away])
+I(10 11): -2.1283035278320312	 ([tournament][maximum])
+I(7 11): -2.0517418384552	 ([women][maximum])
+I(4 6): -2.02022647857666	 ([away][olympic])
+I(4 7): -1.9238710403442383	 ([away][women])
+I(9 11): -1.9190006256103516	 ([wrestling][maximum])
+I(4 9): -1.9052696228027344	 ([away][wrestling])
+I(4 10): -1.8663825988769531	 ([away][tournament])
+I(11 12): -1.8322820663452148	 ([maximum][four])
+I(8 10): 1.8011465072631836	 ([# 39 ; s][tournament])
+I(1 12): -1.7675647735595703	 ([states][four])
+I(2 10): -1.498845100402832	 ([confident][tournament])
+I(1 10): -1.4854698181152344	 ([states][tournament])
+I(3 4): -1.4801902770996094	 ([coming][away])
+I(1 2): -1.3595085144042969	 ([states][confident])
+I(8 13): 1.341740369796753	 ([# 39 ; s][medals.])
+I(0 11): -1.323397159576416	 ([united][maximum])
+I(8 9): 1.2302789688110352	 ([# 39 ; s][wrestling])
+I(3 9): -1.0564908981323242	 ([coming][wrestling])
+I(5 7): -1.0071754455566406	 ([first][women])
+I(4 5): -0.9155364036560059	 ([away][first])
+I(7 8): -0.9005627632141113	 ([women][# 39 ; s])
+I(8 11): -0.8964142799377441	 ([# 39 ; s][maximum])
+I(2 4): -0.7589645385742188	 ([confident][away])
+I(5 11): -0.7577047348022461	 ([first][maximum])
+I(1 6): -0.744959831237793	 ([states][olympic])
+I(5 13): 0.6860110759735107	 ([first][medals.])
+I(0 10): 0.6800937652587891	 ([united][tournament])
+I(3 7): -0.678325891494751	 ([coming][women])
+I(2 12): -0.6573452949523926	 ([confident][four])
+I(2 11): 0.6450786590576172	 ([confident][maximum])
+I(0 7): -0.6209731101989746	 ([united][women])
+I(3 10): -0.5971460342407227	 ([coming][tournament])
+I(1 5): -0.5774846076965332	 ([states][first])
+I(4 12): -0.5603642463684082	 ([away][four])
+I(0 3): 0.5596246719360352	 ([united][coming])
+I(12 13): 0.5284078121185303	 ([four][medals.])
+I(0 12): -0.526738166809082	 ([united][four])
+I(2 9): -0.5198841094970703	 ([confident][wrestling])
+I(6 12): -0.5144996643066406	 ([olympic][four])
+I(2 13): 0.47722554206848145	 ([confident][medals.])
+I(4 8): -0.4282395839691162	 ([away][# 39 ; s])
+I(4 11): 0.4242424964904785	 ([away][maximum])
+I(0 8): -0.40518856048583984	 ([united][# 39 ; s])
+I(11 13): -0.4024770259857178	 ([maximum][medals.])
+I(2 7): 0.38684749603271484	 ([confident][women])
+I(0 13): 0.3727724552154541	 ([united][medals.])
+Sum: -68.63180804252625
+==================================================

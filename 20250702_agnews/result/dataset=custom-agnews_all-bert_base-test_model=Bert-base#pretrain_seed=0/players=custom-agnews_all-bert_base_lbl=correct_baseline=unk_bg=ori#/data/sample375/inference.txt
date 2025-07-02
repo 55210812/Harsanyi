@@ -1,0 +1,35 @@
+Execution time: 2025-07-02 17:31:51
+prompt: [CLS] staff at three vw factories start a series of warning strikes, as the carmaker continues talks over cost - cutting plans. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3095 decoded_text: staff
+idx:2 input_id:2012 decoded_text: at
+idx:3 input_id:2093 decoded_text: three
+idx:4 input_id:1058 decoded_text: v
+idx:5 input_id:2860 decoded_text: ##w
+idx:6 input_id:11123 decoded_text: factories
+idx:7 input_id:2707 decoded_text: start
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:2186 decoded_text: series
+idx:10 input_id:1997 decoded_text: of
+idx:11 input_id:5432 decoded_text: warning
+idx:12 input_id:9326 decoded_text: strikes
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:2004 decoded_text: as
+idx:15 input_id:1996 decoded_text: the
+idx:16 input_id:2482 decoded_text: car
+idx:17 input_id:8571 decoded_text: ##maker
+idx:18 input_id:4247 decoded_text: continues
+idx:19 input_id:7566 decoded_text: talks
+idx:20 input_id:2058 decoded_text: over
+idx:21 input_id:3465 decoded_text: cost
+idx:22 input_id:1011 decoded_text: -
+idx:23 input_id:6276 decoded_text: cutting
+idx:24 input_id:3488 decoded_text: plans
+idx:25 input_id:1012 decoded_text: .
+idx:26 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[1.9621752500534058, -4.496346950531006, 3.9692063331604004, -2.696124315261841]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

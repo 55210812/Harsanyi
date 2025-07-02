@@ -1,0 +1,49 @@
+Execution time: 2025-07-02 17:43:50
+prompt: [CLS] south korean memory - chip maker hynix semiconductor inc. announced wednesday that it reached an agreement to construct a wafer fabrication plant ( fab ) to manufacture chips in wuxi, china. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2148 decoded_text: south
+idx:2 input_id:4759 decoded_text: korean
+idx:3 input_id:3638 decoded_text: memory
+idx:4 input_id:1011 decoded_text: -
+idx:5 input_id:9090 decoded_text: chip
+idx:6 input_id:9338 decoded_text: maker
+idx:7 input_id:1044 decoded_text: h
+idx:8 input_id:6038 decoded_text: ##yn
+idx:9 input_id:7646 decoded_text: ##ix
+idx:10 input_id:20681 decoded_text: semiconductor
+idx:11 input_id:4297 decoded_text: inc
+idx:12 input_id:1012 decoded_text: .
+idx:13 input_id:2623 decoded_text: announced
+idx:14 input_id:9317 decoded_text: wednesday
+idx:15 input_id:2008 decoded_text: that
+idx:16 input_id:2009 decoded_text: it
+idx:17 input_id:2584 decoded_text: reached
+idx:18 input_id:2019 decoded_text: an
+idx:19 input_id:3820 decoded_text: agreement
+idx:20 input_id:2000 decoded_text: to
+idx:21 input_id:9570 decoded_text: construct
+idx:22 input_id:1037 decoded_text: a
+idx:23 input_id:11333 decoded_text: wa
+idx:24 input_id:7512 decoded_text: ##fer
+idx:25 input_id:25884 decoded_text: fabrication
+idx:26 input_id:3269 decoded_text: plant
+idx:27 input_id:1006 decoded_text: (
+idx:28 input_id:6904 decoded_text: fa
+idx:29 input_id:2497 decoded_text: ##b
+idx:30 input_id:1007 decoded_text: )
+idx:31 input_id:2000 decoded_text: to
+idx:32 input_id:9922 decoded_text: manufacture
+idx:33 input_id:11772 decoded_text: chips
+idx:34 input_id:1999 decoded_text: in
+idx:35 input_id:8814 decoded_text: wu
+idx:36 input_id:9048 decoded_text: ##xi
+idx:37 input_id:1010 decoded_text: ,
+idx:38 input_id:2859 decoded_text: china
+idx:39 input_id:1012 decoded_text: .
+idx:40 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.8903496265411377, -4.457364559173584, 1.9817134141921997, 5.241826057434082]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

@@ -1,0 +1,51 @@
+---------- Players ----------
+Player 0: ten
+Player 1: former
+Player 2: turkish
+Player 3: hostages
+Player 4: appear
+Player 5: media
+Player 6: baghdad
+Player 7: released
+Player 8: islamist
+Player 9: group.
+---------- AND Interactions (Pairwise Only) ----------
+I(3 8): -10.474746704101562	 ([hostages][islamist])
+I(3 6): -10.285270690917969	 ([hostages][baghdad])
+I(6 8): -9.479341506958008	 ([baghdad][islamist])
+I(2 8): -5.601072311401367	 ([turkish][islamist])
+I(2 6): -5.452818870544434	 ([turkish][baghdad])
+I(2 3): -5.132350921630859	 ([turkish][hostages])
+I(6 9): -3.168661117553711	 ([baghdad][group.])
+I(3 9): -2.889474868774414	 ([hostages][group.])
+I(4 7): -2.185276508331299	 ([appear][released])
+I(8 9): -2.0528717041015625	 ([islamist][group.])
+I(5 8): -1.888702392578125	 ([media][islamist])
+I(2 9): -1.8354320526123047	 ([turkish][group.])
+I(1 5): 1.6530933380126953	 ([former][media])
+I(3 7): -1.6371498107910156	 ([hostages][released])
+I(1 9): 1.517819881439209	 ([former][group.])
+I(7 9): 1.48445463180542	 ([released][group.])
+I(0 9): -1.4291069507598877	 ([ten][group.])
+I(0 5): 1.4018430709838867	 ([ten][media])
+I(3 5): -1.3282051086425781	 ([hostages][media])
+I(1 3): 1.1781463623046875	 ([former][hostages])
+I(2 4): -1.148585319519043	 ([turkish][appear])
+I(4 5): 1.1075668334960938	 ([appear][media])
+I(7 8): -1.040374755859375	 ([released][islamist])
+I(6 7): -1.0311737060546875	 ([baghdad][released])
+I(4 6): -0.9776973724365234	 ([appear][baghdad])
+I(1 8): 0.9737038612365723	 ([former][islamist])
+I(4 8): -0.8588371276855469	 ([appear][islamist])
+I(5 7): 0.8470087051391602	 ([media][released])
+I(2 5): -0.7936382293701172	 ([turkish][media])
+I(0 1): -0.5398745536804199	 ([ten][former])
+I(1 2): 0.5212368965148926	 ([former][turkish])
+I(4 9): 0.5153441429138184	 ([appear][group.])
+I(1 4): -0.5111966133117676	 ([former][appear])
+I(1 6): 0.5034804344177246	 ([former][baghdad])
+I(0 4): -0.48684120178222656	 ([ten][appear])
+I(0 7): -0.40191030502319336	 ([ten][released])
+I(0 2): -0.3654918670654297	 ([ten][turkish])
+Sum: -6.694401502609253
+==================================================

@@ -1,0 +1,72 @@
+---------- Players ----------
+Player 0: would
+Player 1: pay
+Player 2: \ $ 4
+Player 3: something
+Player 4: that,
+Player 5: best,
+Player 6: worth
+Player 7: dime?
+Player 8: concord
+Player 9: communications
+Player 10: shareholders
+Player 11: would.
+---------- AND Interactions (Pairwise Only) ----------
+I(7 10): -10.652475357055664	 ([dime?][shareholders])
+I(6 7): -9.735363006591797	 ([worth][dime?])
+I(1 7): -8.977252006530762	 ([pay][dime?])
+I(7 9): -8.805145263671875	 ([dime?][communications])
+I(1 6): -8.724578857421875	 ([pay][worth])
+I(2 6): -8.717309951782227	 ([\ $ 4][worth])
+I(1 2): -8.70333480834961	 ([pay][\ $ 4])
+I(1 10): -8.009167671203613	 ([pay][shareholders])
+I(2 7): -7.4650726318359375	 ([\ $ 4][dime?])
+I(6 10): -7.3561601638793945	 ([worth][shareholders])
+I(6 9): -7.349334716796875	 ([worth][communications])
+I(2 10): -7.261981010437012	 ([\ $ 4][shareholders])
+I(9 10): -6.599217414855957	 ([communications][shareholders])
+I(1 9): -4.4726738929748535	 ([pay][communications])
+I(2 9): -3.849059581756592	 ([\ $ 4][communications])
+I(7 11): -3.377873420715332	 ([dime?][would.])
+I(1 11): -3.364503860473633	 ([pay][would.])
+I(10 11): -3.339956283569336	 ([shareholders][would.])
+I(9 11): -3.0262598991394043	 ([communications][would.])
+I(6 11): -2.876323699951172	 ([worth][would.])
+I(8 11): -2.6927812099456787	 ([concord][would.])
+I(7 8): -2.6268463134765625	 ([dime?][concord])
+I(5 6): -2.3929672241210938	 ([best,][worth])
+I(0 1): 2.377108097076416	 ([would][pay])
+I(2 11): -2.320693016052246	 ([\ $ 4][would.])
+I(2 4): 2.319746494293213	 ([\ $ 4][that,])
+I(6 8): -2.0936946868896484	 ([worth][concord])
+I(5 9): -2.017261505126953	 ([best,][communications])
+I(0 6): 1.984703540802002	 ([would][worth])
+I(0 2): 1.9710345268249512	 ([would][\ $ 4])
+I(5 11): 1.8933181762695312	 ([best,][would.])
+I(0 10): 1.547079086303711	 ([would][shareholders])
+I(1 5): -1.4113621711730957	 ([pay][best,])
+I(2 3): 1.4086112976074219	 ([\ $ 4][something])
+I(5 7): -1.401449203491211	 ([best,][dime?])
+I(2 5): 1.218240737915039	 ([\ $ 4][best,])
+I(8 10): -1.2065796852111816	 ([concord][shareholders])
+I(0 11): 1.191596508026123	 ([would][would.])
+I(2 8): 1.1213812828063965	 ([\ $ 4][concord])
+I(4 5): -1.0926647186279297	 ([that,][best,])
+I(3 6): -1.0737199783325195	 ([something][worth])
+I(1 3): -1.0526371002197266	 ([pay][something])
+I(0 3): 0.9014077186584473	 ([would][something])
+I(3 11): -0.842853307723999	 ([something][would.])
+I(8 9): -0.755833625793457	 ([concord][communications])
+I(4 10): -0.705437183380127	 ([that,][shareholders])
+I(0 9): 0.6367230415344238	 ([would][communications])
+I(3 8): -0.6180768013000488	 ([something][concord])
+I(3 9): 0.5903215408325195	 ([something][communications])
+I(4 6): 0.546330451965332	 ([that,][worth])
+I(5 8): 0.54026198387146	 ([best,][concord])
+I(5 10): -0.5281944274902344	 ([best,][shareholders])
+I(1 8): -0.4577937126159668	 ([pay][concord])
+I(4 11): 0.36298561096191406	 ([that,][would.])
+I(1 4): -0.33696603775024414	 ([pay][that,])
+I(3 4): -0.30657339096069336	 ([something][that,])
+Sum: -92.11450266838074
+==================================================

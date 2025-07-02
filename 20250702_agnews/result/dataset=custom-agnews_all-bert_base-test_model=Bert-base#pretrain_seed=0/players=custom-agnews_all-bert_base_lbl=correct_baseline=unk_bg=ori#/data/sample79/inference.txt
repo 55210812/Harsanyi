@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 17:18:47
+prompt: [CLS] havana ( reuters ) - cuba said on monday that it was ending circulation of the u. s. dollar in its territory as of nov. 8 in response to tightened u. s. economic sanctions. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:15278 decoded_text: havana
+idx:2 input_id:1006 decoded_text: (
+idx:3 input_id:26665 decoded_text: reuters
+idx:4 input_id:1007 decoded_text: )
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:7394 decoded_text: cuba
+idx:7 input_id:2056 decoded_text: said
+idx:8 input_id:2006 decoded_text: on
+idx:9 input_id:6928 decoded_text: monday
+idx:10 input_id:2008 decoded_text: that
+idx:11 input_id:2009 decoded_text: it
+idx:12 input_id:2001 decoded_text: was
+idx:13 input_id:4566 decoded_text: ending
+idx:14 input_id:9141 decoded_text: circulation
+idx:15 input_id:1997 decoded_text: of
+idx:16 input_id:1996 decoded_text: the
+idx:17 input_id:1057 decoded_text: u
+idx:18 input_id:1012 decoded_text: .
+idx:19 input_id:1055 decoded_text: s
+idx:20 input_id:1012 decoded_text: .
+idx:21 input_id:7922 decoded_text: dollar
+idx:22 input_id:1999 decoded_text: in
+idx:23 input_id:2049 decoded_text: its
+idx:24 input_id:3700 decoded_text: territory
+idx:25 input_id:2004 decoded_text: as
+idx:26 input_id:1997 decoded_text: of
+idx:27 input_id:13292 decoded_text: nov
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:1022 decoded_text: 8
+idx:30 input_id:1999 decoded_text: in
+idx:31 input_id:3433 decoded_text: response
+idx:32 input_id:2000 decoded_text: to
+idx:33 input_id:8371 decoded_text: tightened
+idx:34 input_id:1057 decoded_text: u
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:1055 decoded_text: s
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:3171 decoded_text: economic
+idx:39 input_id:17147 decoded_text: sanctions
+idx:40 input_id:1012 decoded_text: .
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.541054725646973, -1.7371902465820312, 0.503884494304657, -3.9348063468933105]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

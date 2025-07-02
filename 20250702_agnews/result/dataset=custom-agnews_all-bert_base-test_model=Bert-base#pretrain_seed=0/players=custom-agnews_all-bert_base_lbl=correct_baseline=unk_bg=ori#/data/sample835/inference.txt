@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 17:53:38
+prompt: [CLS] afp - taiwan launched its latest bid to join the united nations in dramatic fashion - - not with a knock on un doors but in a message beamed through outer space. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:21358 decoded_text: af
+idx:2 input_id:2361 decoded_text: ##p
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:6629 decoded_text: taiwan
+idx:5 input_id:3390 decoded_text: launched
+idx:6 input_id:2049 decoded_text: its
+idx:7 input_id:6745 decoded_text: latest
+idx:8 input_id:7226 decoded_text: bid
+idx:9 input_id:2000 decoded_text: to
+idx:10 input_id:3693 decoded_text: join
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:2142 decoded_text: united
+idx:13 input_id:3741 decoded_text: nations
+idx:14 input_id:1999 decoded_text: in
+idx:15 input_id:6918 decoded_text: dramatic
+idx:16 input_id:4827 decoded_text: fashion
+idx:17 input_id:1011 decoded_text: -
+idx:18 input_id:1011 decoded_text: -
+idx:19 input_id:2025 decoded_text: not
+idx:20 input_id:2007 decoded_text: with
+idx:21 input_id:1037 decoded_text: a
+idx:22 input_id:7324 decoded_text: knock
+idx:23 input_id:2006 decoded_text: on
+idx:24 input_id:4895 decoded_text: un
+idx:25 input_id:4303 decoded_text: doors
+idx:26 input_id:2021 decoded_text: but
+idx:27 input_id:1999 decoded_text: in
+idx:28 input_id:1037 decoded_text: a
+idx:29 input_id:4471 decoded_text: message
+idx:30 input_id:22587 decoded_text: beamed
+idx:31 input_id:2083 decoded_text: through
+idx:32 input_id:6058 decoded_text: outer
+idx:33 input_id:2686 decoded_text: space
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.783324718475342, -2.7644264698028564, -1.5707165002822876, -2.6069977283477783]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

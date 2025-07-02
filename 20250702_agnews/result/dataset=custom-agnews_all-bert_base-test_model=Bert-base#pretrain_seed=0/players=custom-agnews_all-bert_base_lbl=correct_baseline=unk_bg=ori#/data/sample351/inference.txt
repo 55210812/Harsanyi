@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 17:31:11
+prompt: [CLS] the future of alitalia is at stake as the italian flagship carrier meets with unions monday to reveal the number of planned job cuts as part of a restructuring plan aimed at averting collapse. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2925 decoded_text: future
+idx:3 input_id:1997 decoded_text: of
+idx:4 input_id:4862 decoded_text: ali
+idx:5 input_id:9080 decoded_text: ##tal
+idx:6 input_id:2401 decoded_text: ##ia
+idx:7 input_id:2003 decoded_text: is
+idx:8 input_id:2012 decoded_text: at
+idx:9 input_id:8406 decoded_text: stake
+idx:10 input_id:2004 decoded_text: as
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:3059 decoded_text: italian
+idx:13 input_id:10565 decoded_text: flagship
+idx:14 input_id:6839 decoded_text: carrier
+idx:15 input_id:6010 decoded_text: meets
+idx:16 input_id:2007 decoded_text: with
+idx:17 input_id:9209 decoded_text: unions
+idx:18 input_id:6928 decoded_text: monday
+idx:19 input_id:2000 decoded_text: to
+idx:20 input_id:7487 decoded_text: reveal
+idx:21 input_id:1996 decoded_text: the
+idx:22 input_id:2193 decoded_text: number
+idx:23 input_id:1997 decoded_text: of
+idx:24 input_id:3740 decoded_text: planned
+idx:25 input_id:3105 decoded_text: job
+idx:26 input_id:7659 decoded_text: cuts
+idx:27 input_id:2004 decoded_text: as
+idx:28 input_id:2112 decoded_text: part
+idx:29 input_id:1997 decoded_text: of
+idx:30 input_id:1037 decoded_text: a
+idx:31 input_id:18322 decoded_text: restructuring
+idx:32 input_id:2933 decoded_text: plan
+idx:33 input_id:6461 decoded_text: aimed
+idx:34 input_id:2012 decoded_text: at
+idx:35 input_id:13642 decoded_text: ave
+idx:36 input_id:24097 decoded_text: ##rting
+idx:37 input_id:7859 decoded_text: collapse
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.1850472688674927, -3.538447618484497, 5.830441951751709, -2.979856014251709]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

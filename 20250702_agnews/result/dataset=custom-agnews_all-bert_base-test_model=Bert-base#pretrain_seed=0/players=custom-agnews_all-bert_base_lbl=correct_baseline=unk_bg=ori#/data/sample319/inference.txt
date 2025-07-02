@@ -1,0 +1,46 @@
+Execution time: 2025-07-02 17:29:53
+prompt: [CLS] oil prices abruptly ended a losing streak on wednesday, jumping nearly \ $ 1 after a us government report showed heating oil stockpiles down 16 percent from last year ahead of winter. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3514 decoded_text: oil
+idx:2 input_id:7597 decoded_text: prices
+idx:3 input_id:9225 decoded_text: abruptly
+idx:4 input_id:3092 decoded_text: ended
+idx:5 input_id:1037 decoded_text: a
+idx:6 input_id:3974 decoded_text: losing
+idx:7 input_id:9039 decoded_text: streak
+idx:8 input_id:2006 decoded_text: on
+idx:9 input_id:9317 decoded_text: wednesday
+idx:10 input_id:1010 decoded_text: ,
+idx:11 input_id:8660 decoded_text: jumping
+idx:12 input_id:3053 decoded_text: nearly
+idx:13 input_id:1032 decoded_text: \
+idx:14 input_id:1002 decoded_text: $
+idx:15 input_id:1015 decoded_text: 1
+idx:16 input_id:2044 decoded_text: after
+idx:17 input_id:1037 decoded_text: a
+idx:18 input_id:2149 decoded_text: us
+idx:19 input_id:2231 decoded_text: government
+idx:20 input_id:3189 decoded_text: report
+idx:21 input_id:3662 decoded_text: showed
+idx:22 input_id:10808 decoded_text: heating
+idx:23 input_id:3514 decoded_text: oil
+idx:24 input_id:4518 decoded_text: stock
+idx:25 input_id:22090 decoded_text: ##pile
+idx:26 input_id:2015 decoded_text: ##s
+idx:27 input_id:2091 decoded_text: down
+idx:28 input_id:2385 decoded_text: 16
+idx:29 input_id:3867 decoded_text: percent
+idx:30 input_id:2013 decoded_text: from
+idx:31 input_id:2197 decoded_text: last
+idx:32 input_id:2095 decoded_text: year
+idx:33 input_id:3805 decoded_text: ahead
+idx:34 input_id:1997 decoded_text: of
+idx:35 input_id:3467 decoded_text: winter
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-0.7957163453102112, -3.5259506702423096, 6.06019401550293, -3.5786635875701904]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

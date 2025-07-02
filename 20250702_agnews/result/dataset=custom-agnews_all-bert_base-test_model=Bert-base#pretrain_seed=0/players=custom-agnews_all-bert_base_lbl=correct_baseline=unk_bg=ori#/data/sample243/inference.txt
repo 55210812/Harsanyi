@@ -1,0 +1,45 @@
+Execution time: 2025-07-02 17:26:42
+prompt: [CLS] qantas airways has raised its fuel surcharge on domestic and international tickets by \ $ 4 and \ $ 7, respectively, because of the high price of oil. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1053 decoded_text: q
+idx:2 input_id:26802 decoded_text: ##anta
+idx:3 input_id:2015 decoded_text: ##s
+idx:4 input_id:13095 decoded_text: airways
+idx:5 input_id:2038 decoded_text: has
+idx:6 input_id:2992 decoded_text: raised
+idx:7 input_id:2049 decoded_text: its
+idx:8 input_id:4762 decoded_text: fuel
+idx:9 input_id:7505 decoded_text: sur
+idx:10 input_id:7507 decoded_text: ##cha
+idx:11 input_id:20800 decoded_text: ##rge
+idx:12 input_id:2006 decoded_text: on
+idx:13 input_id:4968 decoded_text: domestic
+idx:14 input_id:1998 decoded_text: and
+idx:15 input_id:2248 decoded_text: international
+idx:16 input_id:9735 decoded_text: tickets
+idx:17 input_id:2011 decoded_text: by
+idx:18 input_id:1032 decoded_text: \
+idx:19 input_id:1002 decoded_text: $
+idx:20 input_id:1018 decoded_text: 4
+idx:21 input_id:1998 decoded_text: and
+idx:22 input_id:1032 decoded_text: \
+idx:23 input_id:1002 decoded_text: $
+idx:24 input_id:1021 decoded_text: 7
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:4414 decoded_text: respectively
+idx:27 input_id:1010 decoded_text: ,
+idx:28 input_id:2138 decoded_text: because
+idx:29 input_id:1997 decoded_text: of
+idx:30 input_id:1996 decoded_text: the
+idx:31 input_id:2152 decoded_text: high
+idx:32 input_id:3976 decoded_text: price
+idx:33 input_id:1997 decoded_text: of
+idx:34 input_id:3514 decoded_text: oil
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[1.7104135751724243, -3.7046048641204834, 4.216835975646973, -3.5913283824920654]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

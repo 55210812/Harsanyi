@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 17:24:57
+prompt: [CLS] berlin : surging oil costs heighten the risks to the euro zone recovery, european central bank president jean - claude trichet said yesterday in an interview that pushed prospects for a credit tightening further into the background. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4068 decoded_text: berlin
+idx:2 input_id:1024 decoded_text: :
+idx:3 input_id:7505 decoded_text: sur
+idx:4 input_id:4726 decoded_text: ##ging
+idx:5 input_id:3514 decoded_text: oil
+idx:6 input_id:5366 decoded_text: costs
+idx:7 input_id:4578 decoded_text: height
+idx:8 input_id:2368 decoded_text: ##en
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:10831 decoded_text: risks
+idx:11 input_id:2000 decoded_text: to
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:9944 decoded_text: euro
+idx:14 input_id:4224 decoded_text: zone
+idx:15 input_id:7233 decoded_text: recovery
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:2647 decoded_text: european
+idx:18 input_id:2430 decoded_text: central
+idx:19 input_id:2924 decoded_text: bank
+idx:20 input_id:2343 decoded_text: president
+idx:21 input_id:3744 decoded_text: jean
+idx:22 input_id:1011 decoded_text: -
+idx:23 input_id:8149 decoded_text: claude
+idx:24 input_id:13012 decoded_text: tri
+idx:25 input_id:20318 decoded_text: ##chet
+idx:26 input_id:2056 decoded_text: said
+idx:27 input_id:7483 decoded_text: yesterday
+idx:28 input_id:1999 decoded_text: in
+idx:29 input_id:2019 decoded_text: an
+idx:30 input_id:4357 decoded_text: interview
+idx:31 input_id:2008 decoded_text: that
+idx:32 input_id:3724 decoded_text: pushed
+idx:33 input_id:16746 decoded_text: prospects
+idx:34 input_id:2005 decoded_text: for
+idx:35 input_id:1037 decoded_text: a
+idx:36 input_id:4923 decoded_text: credit
+idx:37 input_id:18711 decoded_text: tightening
+idx:38 input_id:2582 decoded_text: further
+idx:39 input_id:2046 decoded_text: into
+idx:40 input_id:1996 decoded_text: the
+idx:41 input_id:4281 decoded_text: background
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-0.21716715395450592, -3.5785462856292725, 5.96432638168335, -3.7159059047698975]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

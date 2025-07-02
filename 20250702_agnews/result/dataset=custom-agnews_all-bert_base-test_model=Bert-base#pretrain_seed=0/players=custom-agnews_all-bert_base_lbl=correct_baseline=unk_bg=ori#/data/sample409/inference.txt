@@ -1,0 +1,64 @@
+Execution time: 2025-07-02 17:33:51
+prompt: [CLS] ( cbs / ap ) juggling between its need to keep prices up without having them explode, opec agreed friday to reduce its daily oil output by 1 million barrels a day - and reserved the right to cut deeper early next year if crude turns much cheaper than now. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1006 decoded_text: (
+idx:2 input_id:6568 decoded_text: cbs
+idx:3 input_id:1013 decoded_text: /
+idx:4 input_id:9706 decoded_text: ap
+idx:5 input_id:1007 decoded_text: )
+idx:6 input_id:26536 decoded_text: jug
+idx:7 input_id:18483 decoded_text: ##gling
+idx:8 input_id:2090 decoded_text: between
+idx:9 input_id:2049 decoded_text: its
+idx:10 input_id:2342 decoded_text: need
+idx:11 input_id:2000 decoded_text: to
+idx:12 input_id:2562 decoded_text: keep
+idx:13 input_id:7597 decoded_text: prices
+idx:14 input_id:2039 decoded_text: up
+idx:15 input_id:2302 decoded_text: without
+idx:16 input_id:2383 decoded_text: having
+idx:17 input_id:2068 decoded_text: them
+idx:18 input_id:15044 decoded_text: explode
+idx:19 input_id:1010 decoded_text: ,
+idx:20 input_id:6728 decoded_text: op
+idx:21 input_id:8586 decoded_text: ##ec
+idx:22 input_id:3530 decoded_text: agreed
+idx:23 input_id:5958 decoded_text: friday
+idx:24 input_id:2000 decoded_text: to
+idx:25 input_id:5547 decoded_text: reduce
+idx:26 input_id:2049 decoded_text: its
+idx:27 input_id:3679 decoded_text: daily
+idx:28 input_id:3514 decoded_text: oil
+idx:29 input_id:6434 decoded_text: output
+idx:30 input_id:2011 decoded_text: by
+idx:31 input_id:1015 decoded_text: 1
+idx:32 input_id:2454 decoded_text: million
+idx:33 input_id:13826 decoded_text: barrels
+idx:34 input_id:1037 decoded_text: a
+idx:35 input_id:2154 decoded_text: day
+idx:36 input_id:1011 decoded_text: -
+idx:37 input_id:1998 decoded_text: and
+idx:38 input_id:9235 decoded_text: reserved
+idx:39 input_id:1996 decoded_text: the
+idx:40 input_id:2157 decoded_text: right
+idx:41 input_id:2000 decoded_text: to
+idx:42 input_id:3013 decoded_text: cut
+idx:43 input_id:6748 decoded_text: deeper
+idx:44 input_id:2220 decoded_text: early
+idx:45 input_id:2279 decoded_text: next
+idx:46 input_id:2095 decoded_text: year
+idx:47 input_id:2065 decoded_text: if
+idx:48 input_id:13587 decoded_text: crude
+idx:49 input_id:4332 decoded_text: turns
+idx:50 input_id:2172 decoded_text: much
+idx:51 input_id:16269 decoded_text: cheaper
+idx:52 input_id:2084 decoded_text: than
+idx:53 input_id:2085 decoded_text: now
+idx:54 input_id:1012 decoded_text: .
+idx:55 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[1.8154464960098267, -3.639019250869751, 4.6056318283081055, -4.229625701904297]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

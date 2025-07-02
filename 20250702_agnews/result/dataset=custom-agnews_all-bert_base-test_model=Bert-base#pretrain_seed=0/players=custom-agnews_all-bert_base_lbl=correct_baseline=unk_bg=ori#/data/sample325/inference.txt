@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 17:30:12
+prompt: [CLS] indonesian police have arrested four suspects, among them a bomb - maker, over a blast outside the australian embassy in jakarta that killed 10 people in september, police chief da # 39 ; i bachtiar said wednesday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9003 decoded_text: indonesian
+idx:2 input_id:2610 decoded_text: police
+idx:3 input_id:2031 decoded_text: have
+idx:4 input_id:4727 decoded_text: arrested
+idx:5 input_id:2176 decoded_text: four
+idx:6 input_id:13172 decoded_text: suspects
+idx:7 input_id:1010 decoded_text: ,
+idx:8 input_id:2426 decoded_text: among
+idx:9 input_id:2068 decoded_text: them
+idx:10 input_id:1037 decoded_text: a
+idx:11 input_id:5968 decoded_text: bomb
+idx:12 input_id:1011 decoded_text: -
+idx:13 input_id:9338 decoded_text: maker
+idx:14 input_id:1010 decoded_text: ,
+idx:15 input_id:2058 decoded_text: over
+idx:16 input_id:1037 decoded_text: a
+idx:17 input_id:8479 decoded_text: blast
+idx:18 input_id:2648 decoded_text: outside
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:2827 decoded_text: australian
+idx:21 input_id:8408 decoded_text: embassy
+idx:22 input_id:1999 decoded_text: in
+idx:23 input_id:14426 decoded_text: jakarta
+idx:24 input_id:2008 decoded_text: that
+idx:25 input_id:2730 decoded_text: killed
+idx:26 input_id:2184 decoded_text: 10
+idx:27 input_id:2111 decoded_text: people
+idx:28 input_id:1999 decoded_text: in
+idx:29 input_id:2244 decoded_text: september
+idx:30 input_id:1010 decoded_text: ,
+idx:31 input_id:2610 decoded_text: police
+idx:32 input_id:2708 decoded_text: chief
+idx:33 input_id:4830 decoded_text: da
+idx:34 input_id:1001 decoded_text: #
+idx:35 input_id:4464 decoded_text: 39
+idx:36 input_id:1025 decoded_text: ;
+idx:37 input_id:1045 decoded_text: i
+idx:38 input_id:10384 decoded_text: bach
+idx:39 input_id:10711 decoded_text: ##tia
+idx:40 input_id:2099 decoded_text: ##r
+idx:41 input_id:2056 decoded_text: said
+idx:42 input_id:9317 decoded_text: wednesday
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.561712265014648, -1.4386061429977417, -3.2546463012695312, -1.5819376707077026]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

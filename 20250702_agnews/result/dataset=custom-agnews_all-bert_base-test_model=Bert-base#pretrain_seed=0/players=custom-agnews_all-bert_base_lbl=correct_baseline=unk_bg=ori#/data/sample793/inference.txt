@@ -1,0 +1,54 @@
+Execution time: 2025-07-02 17:52:09
+prompt: [CLS] the following are comments from stock market analysts and strategists about the us labor department # 39 ; s report that us nonfarm payrolls expanded by a less - than - expected 96, 000 in september. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2206 decoded_text: following
+idx:3 input_id:2024 decoded_text: are
+idx:4 input_id:7928 decoded_text: comments
+idx:5 input_id:2013 decoded_text: from
+idx:6 input_id:4518 decoded_text: stock
+idx:7 input_id:3006 decoded_text: market
+idx:8 input_id:18288 decoded_text: analysts
+idx:9 input_id:1998 decoded_text: and
+idx:10 input_id:2358 decoded_text: st
+idx:11 input_id:11657 decoded_text: ##rate
+idx:12 input_id:24063 decoded_text: ##gist
+idx:13 input_id:2015 decoded_text: ##s
+idx:14 input_id:2055 decoded_text: about
+idx:15 input_id:1996 decoded_text: the
+idx:16 input_id:2149 decoded_text: us
+idx:17 input_id:4450 decoded_text: labor
+idx:18 input_id:2533 decoded_text: department
+idx:19 input_id:1001 decoded_text: #
+idx:20 input_id:4464 decoded_text: 39
+idx:21 input_id:1025 decoded_text: ;
+idx:22 input_id:1055 decoded_text: s
+idx:23 input_id:3189 decoded_text: report
+idx:24 input_id:2008 decoded_text: that
+idx:25 input_id:2149 decoded_text: us
+idx:26 input_id:2512 decoded_text: non
+idx:27 input_id:14971 decoded_text: ##far
+idx:28 input_id:2213 decoded_text: ##m
+idx:29 input_id:26854 decoded_text: payroll
+idx:30 input_id:2015 decoded_text: ##s
+idx:31 input_id:4423 decoded_text: expanded
+idx:32 input_id:2011 decoded_text: by
+idx:33 input_id:1037 decoded_text: a
+idx:34 input_id:2625 decoded_text: less
+idx:35 input_id:1011 decoded_text: -
+idx:36 input_id:2084 decoded_text: than
+idx:37 input_id:1011 decoded_text: -
+idx:38 input_id:3517 decoded_text: expected
+idx:39 input_id:5986 decoded_text: 96
+idx:40 input_id:1010 decoded_text: ,
+idx:41 input_id:2199 decoded_text: 000
+idx:42 input_id:1999 decoded_text: in
+idx:43 input_id:2244 decoded_text: september
+idx:44 input_id:1012 decoded_text: .
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.3117287158966064, -3.4210240840911865, 6.745565891265869, -2.9447691440582275]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 17:16:32
+prompt: [CLS] manchester united is confident they can catch up nine points on premier league leader chelsea. first they have to win their third match in a row for the first time this season. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:5087 decoded_text: manchester
+idx:2 input_id:2142 decoded_text: united
+idx:3 input_id:2003 decoded_text: is
+idx:4 input_id:9657 decoded_text: confident
+idx:5 input_id:2027 decoded_text: they
+idx:6 input_id:2064 decoded_text: can
+idx:7 input_id:4608 decoded_text: catch
+idx:8 input_id:2039 decoded_text: up
+idx:9 input_id:3157 decoded_text: nine
+idx:10 input_id:2685 decoded_text: points
+idx:11 input_id:2006 decoded_text: on
+idx:12 input_id:4239 decoded_text: premier
+idx:13 input_id:2223 decoded_text: league
+idx:14 input_id:3003 decoded_text: leader
+idx:15 input_id:9295 decoded_text: chelsea
+idx:16 input_id:1012 decoded_text: .
+idx:17 input_id:2034 decoded_text: first
+idx:18 input_id:2027 decoded_text: they
+idx:19 input_id:2031 decoded_text: have
+idx:20 input_id:2000 decoded_text: to
+idx:21 input_id:2663 decoded_text: win
+idx:22 input_id:2037 decoded_text: their
+idx:23 input_id:2353 decoded_text: third
+idx:24 input_id:2674 decoded_text: match
+idx:25 input_id:1999 decoded_text: in
+idx:26 input_id:1037 decoded_text: a
+idx:27 input_id:5216 decoded_text: row
+idx:28 input_id:2005 decoded_text: for
+idx:29 input_id:1996 decoded_text: the
+idx:30 input_id:2034 decoded_text: first
+idx:31 input_id:2051 decoded_text: time
+idx:32 input_id:2023 decoded_text: this
+idx:33 input_id:2161 decoded_text: season
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.5705504417419434, 8.45372486114502, -2.7033329010009766, -2.679704189300537]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

@@ -1,0 +1,60 @@
+Execution time: 2025-07-02 17:19:02
+prompt: [CLS] after all the sound and fury about the initial public offering of on - line search kingpin google inc. - a decidedly bumpy process filled with gaffes, and accompanied by oceans of commentary - nvestors are left with two major questions. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2044 decoded_text: after
+idx:2 input_id:2035 decoded_text: all
+idx:3 input_id:1996 decoded_text: the
+idx:4 input_id:2614 decoded_text: sound
+idx:5 input_id:1998 decoded_text: and
+idx:6 input_id:8111 decoded_text: fury
+idx:7 input_id:2055 decoded_text: about
+idx:8 input_id:1996 decoded_text: the
+idx:9 input_id:3988 decoded_text: initial
+idx:10 input_id:2270 decoded_text: public
+idx:11 input_id:5378 decoded_text: offering
+idx:12 input_id:1997 decoded_text: of
+idx:13 input_id:2006 decoded_text: on
+idx:14 input_id:1011 decoded_text: -
+idx:15 input_id:2240 decoded_text: line
+idx:16 input_id:3945 decoded_text: search
+idx:17 input_id:2332 decoded_text: king
+idx:18 input_id:8091 decoded_text: ##pin
+idx:19 input_id:8224 decoded_text: google
+idx:20 input_id:4297 decoded_text: inc
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:1011 decoded_text: -
+idx:23 input_id:1037 decoded_text: a
+idx:24 input_id:27873 decoded_text: decidedly
+idx:25 input_id:16906 decoded_text: bump
+idx:26 input_id:2100 decoded_text: ##y
+idx:27 input_id:2832 decoded_text: process
+idx:28 input_id:3561 decoded_text: filled
+idx:29 input_id:2007 decoded_text: with
+idx:30 input_id:11721 decoded_text: ga
+idx:31 input_id:16020 decoded_text: ##ffe
+idx:32 input_id:2015 decoded_text: ##s
+idx:33 input_id:1010 decoded_text: ,
+idx:34 input_id:1998 decoded_text: and
+idx:35 input_id:5642 decoded_text: accompanied
+idx:36 input_id:2011 decoded_text: by
+idx:37 input_id:17401 decoded_text: oceans
+idx:38 input_id:1997 decoded_text: of
+idx:39 input_id:8570 decoded_text: commentary
+idx:40 input_id:1011 decoded_text: -
+idx:41 input_id:1050 decoded_text: n
+idx:42 input_id:6961 decoded_text: ##ves
+idx:43 input_id:6591 decoded_text: ##tors
+idx:44 input_id:2024 decoded_text: are
+idx:45 input_id:2187 decoded_text: left
+idx:46 input_id:2007 decoded_text: with
+idx:47 input_id:2048 decoded_text: two
+idx:48 input_id:2350 decoded_text: major
+idx:49 input_id:3980 decoded_text: questions
+idx:50 input_id:1012 decoded_text: .
+idx:51 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.906836032867432, -3.420736074447632, 3.2931971549987793, 4.034880638122559]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

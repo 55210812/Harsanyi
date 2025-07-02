@@ -1,0 +1,75 @@
+---------- Players ----------
+Player 0: ucla
+Player 1: football
+Player 2: team
+Player 3: asked
+Player 4: for :
+Player 5: possession
+Player 6: ball
+Player 7: fourth
+Player 8: quarter
+Player 9: opportunity
+Player 10: beat
+Player 11: no.
+Player 12: 1
+Player 13: usc.
+---------- AND Interactions (Pairwise Only) ----------
+I(1 6): -10.908480644226074	 ([football][ball])
+I(1 2): -9.899805068969727	 ([football][team])
+I(2 6): -7.920994758605957	 ([team][ball])
+I(0 1): 4.816728591918945	 ([ucla][football])
+I(0 2): 4.015408515930176	 ([ucla][team])
+I(1 13): -2.784058094024658	 ([football][usc.])
+I(6 10): -2.5112104415893555	 ([ball][beat])
+I(8 13): -2.487713575363159	 ([quarter][usc.])
+I(0 6): 2.2136754989624023	 ([ucla][ball])
+I(8 9): -2.18656587600708	 ([quarter][opportunity])
+I(5 6): 2.11007022857666	 ([possession][ball])
+I(0 13): -2.029966115951538	 ([ucla][usc.])
+I(2 13): -1.9216041564941406	 ([team][usc.])
+I(2 5): -1.8089094161987305	 ([team][possession])
+I(2 3): -1.776127815246582	 ([team][asked])
+I(5 13): -1.505601406097412	 ([possession][usc.])
+I(0 8): -1.4623103141784668	 ([ucla][quarter])
+I(4 8): -1.4254050254821777	 ([for :][quarter])
+I(1 10): -1.3414344787597656	 ([football][beat])
+I(0 9): 1.2826776504516602	 ([ucla][opportunity])
+I(6 9): -1.2725496292114258	 ([ball][opportunity])
+I(2 10): -1.2558794021606445	 ([team][beat])
+I(9 10): 1.2273201942443848	 ([opportunity][beat])
+I(6 8): -1.0476341247558594	 ([ball][quarter])
+I(2 9): -1.0331401824951172	 ([team][opportunity])
+I(6 13): -1.0241999626159668	 ([ball][usc.])
+I(10 13): 1.015151023864746	 ([beat][usc.])
+I(2 7): -1.0109186172485352	 ([team][fourth])
+I(1 7): -0.9695425033569336	 ([football][fourth])
+I(0 5): 0.956392765045166	 ([ucla][possession])
+I(5 8): 0.9541888236999512	 ([possession][quarter])
+I(1 9): -0.9048357009887695	 ([football][opportunity])
+I(1 8): -0.7887516021728516	 ([football][quarter])
+I(0 11): -0.7817578315734863	 ([ucla][no.])
+I(3 10): 0.6320281028747559	 ([asked][beat])
+I(3 4): 0.6240191459655762	 ([asked][for :])
+I(1 5): 0.5905065536499023	 ([football][possession])
+I(5 10): -0.5815877914428711	 ([possession][beat])
+I(0 7): -0.5450916290283203	 ([ucla][fourth])
+I(6 11): -0.5118942260742188	 ([ball][no.])
+I(5 11): -0.5011825561523438	 ([possession][no.])
+I(3 5): 0.47100210189819336	 ([asked][possession])
+I(7 8): -0.46912145614624023	 ([fourth][quarter])
+I(8 11): -0.4540586471557617	 ([quarter][no.])
+I(2 11): 0.45349884033203125	 ([team][no.])
+I(8 12): -0.4513554573059082	 ([quarter][1])
+I(3 8): -0.44834232330322266	 ([asked][quarter])
+I(5 7): -0.4124584197998047	 ([possession][fourth])
+I(3 6): -0.3899517059326172	 ([asked][ball])
+I(1 4): -0.3896169662475586	 ([football][for :])
+I(9 13): -0.37322568893432617	 ([opportunity][usc.])
+I(7 13): -0.37099218368530273	 ([fourth][usc.])
+I(0 12): -0.36163854598999023	 ([ucla][1])
+I(8 10): -0.3559856414794922	 ([quarter][beat])
+I(4 13): 0.34006786346435547	 ([for :][usc.])
+I(9 11): 0.30138731002807617	 ([opportunity][no.])
+I(3 7): 0.2960219383239746	 ([asked][fourth])
+Sum: -5.641046047210693
+==================================================

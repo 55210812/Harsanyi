@@ -1,0 +1,63 @@
+Execution time: 2025-07-02 17:43:53
+prompt: [CLS] jabaliya, gaza stripthe harvest of death in this most dispossessed of refugee camps continued yesterday as the israeli army finished its first week in a grim, open - ended manhunt for palestinian militants, killing 10 people and wounding at least nine. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:14855 decoded_text: ja
+idx:2 input_id:10264 decoded_text: ##bal
+idx:3 input_id:8717 decoded_text: ##iya
+idx:4 input_id:1010 decoded_text: ,
+idx:5 input_id:14474 decoded_text: gaza
+idx:6 input_id:6167 decoded_text: strip
+idx:7 input_id:10760 decoded_text: ##the
+idx:8 input_id:11203 decoded_text: harvest
+idx:9 input_id:1997 decoded_text: of
+idx:10 input_id:2331 decoded_text: death
+idx:11 input_id:1999 decoded_text: in
+idx:12 input_id:2023 decoded_text: this
+idx:13 input_id:2087 decoded_text: most
+idx:14 input_id:4487 decoded_text: di
+idx:15 input_id:13102 decoded_text: ##sp
+idx:16 input_id:15094 decoded_text: ##oss
+idx:17 input_id:23656 decoded_text: ##essed
+idx:18 input_id:1997 decoded_text: of
+idx:19 input_id:13141 decoded_text: refugee
+idx:20 input_id:7958 decoded_text: camps
+idx:21 input_id:2506 decoded_text: continued
+idx:22 input_id:7483 decoded_text: yesterday
+idx:23 input_id:2004 decoded_text: as
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:5611 decoded_text: israeli
+idx:26 input_id:2390 decoded_text: army
+idx:27 input_id:2736 decoded_text: finished
+idx:28 input_id:2049 decoded_text: its
+idx:29 input_id:2034 decoded_text: first
+idx:30 input_id:2733 decoded_text: week
+idx:31 input_id:1999 decoded_text: in
+idx:32 input_id:1037 decoded_text: a
+idx:33 input_id:11844 decoded_text: grim
+idx:34 input_id:1010 decoded_text: ,
+idx:35 input_id:2330 decoded_text: open
+idx:36 input_id:1011 decoded_text: -
+idx:37 input_id:3092 decoded_text: ended
+idx:38 input_id:2158 decoded_text: man
+idx:39 input_id:17157 decoded_text: ##hun
+idx:40 input_id:2102 decoded_text: ##t
+idx:41 input_id:2005 decoded_text: for
+idx:42 input_id:9302 decoded_text: palestinian
+idx:43 input_id:17671 decoded_text: militants
+idx:44 input_id:1010 decoded_text: ,
+idx:45 input_id:4288 decoded_text: killing
+idx:46 input_id:2184 decoded_text: 10
+idx:47 input_id:2111 decoded_text: people
+idx:48 input_id:1998 decoded_text: and
+idx:49 input_id:27285 decoded_text: wounding
+idx:50 input_id:2012 decoded_text: at
+idx:51 input_id:2560 decoded_text: least
+idx:52 input_id:3157 decoded_text: nine
+idx:53 input_id:1012 decoded_text: .
+idx:54 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.8881096839904785, -1.7028474807739258, -3.00508975982666, -1.8613953590393066]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

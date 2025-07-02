@@ -1,0 +1,51 @@
+Execution time: 2025-07-02 17:36:18
+prompt: [CLS] ichiro suzuki is so fast you might wonder why he doesn # 39 ; t bunt more often. only a handful of his 250 - plus hits have been bunts and manager bob melvin explained that opposing [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:22564 decoded_text: ich
+idx:2 input_id:9711 decoded_text: ##iro
+idx:3 input_id:14278 decoded_text: suzuki
+idx:4 input_id:2003 decoded_text: is
+idx:5 input_id:2061 decoded_text: so
+idx:6 input_id:3435 decoded_text: fast
+idx:7 input_id:2017 decoded_text: you
+idx:8 input_id:2453 decoded_text: might
+idx:9 input_id:4687 decoded_text: wonder
+idx:10 input_id:2339 decoded_text: why
+idx:11 input_id:2002 decoded_text: he
+idx:12 input_id:2987 decoded_text: doesn
+idx:13 input_id:1001 decoded_text: #
+idx:14 input_id:4464 decoded_text: 39
+idx:15 input_id:1025 decoded_text: ;
+idx:16 input_id:1056 decoded_text: t
+idx:17 input_id:21122 decoded_text: bun
+idx:18 input_id:2102 decoded_text: ##t
+idx:19 input_id:2062 decoded_text: more
+idx:20 input_id:2411 decoded_text: often
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:2069 decoded_text: only
+idx:23 input_id:1037 decoded_text: a
+idx:24 input_id:9210 decoded_text: handful
+idx:25 input_id:1997 decoded_text: of
+idx:26 input_id:2010 decoded_text: his
+idx:27 input_id:5539 decoded_text: 250
+idx:28 input_id:1011 decoded_text: -
+idx:29 input_id:4606 decoded_text: plus
+idx:30 input_id:4978 decoded_text: hits
+idx:31 input_id:2031 decoded_text: have
+idx:32 input_id:2042 decoded_text: been
+idx:33 input_id:21122 decoded_text: bun
+idx:34 input_id:3215 decoded_text: ##ts
+idx:35 input_id:1998 decoded_text: and
+idx:36 input_id:3208 decoded_text: manager
+idx:37 input_id:3960 decoded_text: bob
+idx:38 input_id:20993 decoded_text: melvin
+idx:39 input_id:4541 decoded_text: explained
+idx:40 input_id:2008 decoded_text: that
+idx:41 input_id:10078 decoded_text: opposing
+idx:42 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.1120572090148926, 8.502884864807129, -2.5634703636169434, -2.4361982345581055]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

@@ -1,0 +1,42 @@
+Execution time: 2025-07-02 17:53:37
+prompt: [CLS] pitcher dustin hermanson and the chicago white sox agreed wednesday on a two - year, \ $ 5. 5 million contract that contains a club option for 2007. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:8070 decoded_text: pitcher
+idx:2 input_id:24337 decoded_text: dustin
+idx:3 input_id:11458 decoded_text: herman
+idx:4 input_id:3385 decoded_text: ##son
+idx:5 input_id:1998 decoded_text: and
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:3190 decoded_text: chicago
+idx:8 input_id:2317 decoded_text: white
+idx:9 input_id:9175 decoded_text: sox
+idx:10 input_id:3530 decoded_text: agreed
+idx:11 input_id:9317 decoded_text: wednesday
+idx:12 input_id:2006 decoded_text: on
+idx:13 input_id:1037 decoded_text: a
+idx:14 input_id:2048 decoded_text: two
+idx:15 input_id:1011 decoded_text: -
+idx:16 input_id:2095 decoded_text: year
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:1032 decoded_text: \
+idx:19 input_id:1002 decoded_text: $
+idx:20 input_id:1019 decoded_text: 5
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:1019 decoded_text: 5
+idx:23 input_id:2454 decoded_text: million
+idx:24 input_id:3206 decoded_text: contract
+idx:25 input_id:2008 decoded_text: that
+idx:26 input_id:3397 decoded_text: contains
+idx:27 input_id:1037 decoded_text: a
+idx:28 input_id:2252 decoded_text: club
+idx:29 input_id:5724 decoded_text: option
+idx:30 input_id:2005 decoded_text: for
+idx:31 input_id:2289 decoded_text: 2007
+idx:32 input_id:1012 decoded_text: .
+idx:33 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-0.8760462403297424, 8.283305168151855, -2.6287097930908203, -3.269915819168091]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

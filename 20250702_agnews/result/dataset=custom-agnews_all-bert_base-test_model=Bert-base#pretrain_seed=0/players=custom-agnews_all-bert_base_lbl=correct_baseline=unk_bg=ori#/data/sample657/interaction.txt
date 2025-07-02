@@ -1,0 +1,67 @@
+---------- Players ----------
+Player 0: trawl
+Player 1: sweaty
+Player 2: illegal \ wildlife
+Player 3: market
+Player 4: asia
+Player 5: shop
+Player 6: rare
+Player 7: animals
+Player 8: and \ exotic
+Player 9: plants
+Player 10: internet?
+---------- AND Interactions (Pairwise Only) ----------
+I(4 9): 5.122305870056152	 ([asia][plants])
+I(2 4): 4.390541076660156	 ([illegal \ wildlife][asia])
+I(4 8): 4.010737419128418	 ([asia][and \ exotic])
+I(4 10): 3.979933261871338	 ([asia][internet?])
+I(1 4): -3.318991184234619	 ([sweaty][asia])
+I(0 4): 3.304238796234131	 ([trawl][asia])
+I(3 9): -2.817659378051758	 ([market][plants])
+I(3 5): 2.0702457427978516	 ([market][shop])
+I(4 7): 2.040210247039795	 ([asia][animals])
+I(1 9): 1.9538207054138184	 ([sweaty][plants])
+I(3 10): 1.4957318305969238	 ([market][internet?])
+I(7 9): 1.4369053840637207	 ([animals][plants])
+I(2 3): 1.4171252250671387	 ([illegal \ wildlife][market])
+I(2 5): 1.3417043685913086	 ([illegal \ wildlife][shop])
+I(0 9): 1.3262434005737305	 ([trawl][plants])
+I(5 9): -1.2139015197753906	 ([shop][plants])
+I(3 7): -1.116922378540039	 ([market][animals])
+I(9 10): 1.0679855346679688	 ([plants][internet?])
+I(3 8): -0.9522814750671387	 ([market][and \ exotic])
+I(3 6): 0.9338560104370117	 ([market][rare])
+I(2 9): 0.9208769798278809	 ([illegal \ wildlife][plants])
+I(0 1): 0.8045339584350586	 ([trawl][sweaty])
+I(1 10): 0.7573819160461426	 ([sweaty][internet?])
+I(5 10): 0.7239980697631836	 ([shop][internet?])
+I(4 5): 0.721611499786377	 ([asia][shop])
+I(8 9): 0.7180113792419434	 ([and \ exotic][plants])
+I(0 7): 0.6627421379089355	 ([trawl][animals])
+I(2 10): -0.6250514984130859	 ([illegal \ wildlife][internet?])
+I(2 8): -0.617469310760498	 ([illegal \ wildlife][and \ exotic])
+I(4 6): 0.6025137901306152	 ([asia][rare])
+I(1 8): 0.5389013290405273	 ([sweaty][and \ exotic])
+I(1 3): 0.5274162292480469	 ([sweaty][market])
+I(0 5): -0.49083614349365234	 ([trawl][shop])
+I(6 7): 0.4637308120727539	 ([rare][animals])
+I(5 8): 0.45209836959838867	 ([shop][and \ exotic])
+I(6 9): -0.4053983688354492	 ([rare][plants])
+I(0 10): -0.40270185470581055	 ([trawl][internet?])
+I(3 4): 0.39473867416381836	 ([market][asia])
+I(0 2): -0.38643598556518555	 ([trawl][illegal \ wildlife])
+I(8 10): -0.38071346282958984	 ([and \ exotic][internet?])
+I(7 10): 0.3669595718383789	 ([animals][internet?])
+I(1 7): 0.36344003677368164	 ([sweaty][animals])
+I(5 7): 0.34619760513305664	 ([shop][animals])
+I(0 6): -0.3382301330566406	 ([trawl][rare])
+I(2 7): -0.33322954177856445	 ([illegal \ wildlife][animals])
+I(0 8): 0.25789594650268555	 ([trawl][and \ exotic])
+I(1 5): -0.2406783103942871	 ([sweaty][shop])
+I(6 8): -0.23897838592529297	 ([rare][and \ exotic])
+I(1 2): 0.1788010597229004	 ([sweaty][illegal \ wildlife])
+I(2 6): -0.15953826904296875	 ([illegal \ wildlife][rare])
+I(1 6): 0.15491151809692383	 ([sweaty][rare])
+I(0 3): 0.1439070701599121	 ([trawl][market])
+Sum: 26.57094383239746
+==================================================

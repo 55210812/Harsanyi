@@ -1,0 +1,37 @@
+Execution time: 2025-07-02 17:23:10
+prompt: [CLS] \ if you can't get a good night's sleep it's likely that your parents are at least partly to blame. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1032 decoded_text: \
+idx:2 input_id:2065 decoded_text: if
+idx:3 input_id:2017 decoded_text: you
+idx:4 input_id:2064 decoded_text: can
+idx:5 input_id:1005 decoded_text: '
+idx:6 input_id:1056 decoded_text: t
+idx:7 input_id:2131 decoded_text: get
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:2204 decoded_text: good
+idx:10 input_id:2305 decoded_text: night
+idx:11 input_id:1005 decoded_text: '
+idx:12 input_id:1055 decoded_text: s
+idx:13 input_id:3637 decoded_text: sleep
+idx:14 input_id:2009 decoded_text: it
+idx:15 input_id:1005 decoded_text: '
+idx:16 input_id:1055 decoded_text: s
+idx:17 input_id:3497 decoded_text: likely
+idx:18 input_id:2008 decoded_text: that
+idx:19 input_id:2115 decoded_text: your
+idx:20 input_id:3008 decoded_text: parents
+idx:21 input_id:2024 decoded_text: are
+idx:22 input_id:2012 decoded_text: at
+idx:23 input_id:2560 decoded_text: least
+idx:24 input_id:6576 decoded_text: partly
+idx:25 input_id:2000 decoded_text: to
+idx:26 input_id:7499 decoded_text: blame
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[0.5505204796791077, -2.4938278198242188, -3.9614312648773193, 6.219839572906494]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

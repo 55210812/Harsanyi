@@ -1,0 +1,37 @@
+Execution time: 2025-07-02 17:35:13
+prompt: [CLS] london : british unemployment fell for the 15th month in a row in august to reach the lowest level for 29 years, official figures showed. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2414 decoded_text: london
+idx:2 input_id:1024 decoded_text: :
+idx:3 input_id:2329 decoded_text: british
+idx:4 input_id:12163 decoded_text: unemployment
+idx:5 input_id:3062 decoded_text: fell
+idx:6 input_id:2005 decoded_text: for
+idx:7 input_id:1996 decoded_text: the
+idx:8 input_id:6286 decoded_text: 15th
+idx:9 input_id:3204 decoded_text: month
+idx:10 input_id:1999 decoded_text: in
+idx:11 input_id:1037 decoded_text: a
+idx:12 input_id:5216 decoded_text: row
+idx:13 input_id:1999 decoded_text: in
+idx:14 input_id:2257 decoded_text: august
+idx:15 input_id:2000 decoded_text: to
+idx:16 input_id:3362 decoded_text: reach
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:7290 decoded_text: lowest
+idx:19 input_id:2504 decoded_text: level
+idx:20 input_id:2005 decoded_text: for
+idx:21 input_id:2756 decoded_text: 29
+idx:22 input_id:2086 decoded_text: years
+idx:23 input_id:1010 decoded_text: ,
+idx:24 input_id:2880 decoded_text: official
+idx:25 input_id:4481 decoded_text: figures
+idx:26 input_id:3662 decoded_text: showed
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[1.5820250511169434, -4.012313365936279, 4.687966346740723, -3.8775699138641357]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

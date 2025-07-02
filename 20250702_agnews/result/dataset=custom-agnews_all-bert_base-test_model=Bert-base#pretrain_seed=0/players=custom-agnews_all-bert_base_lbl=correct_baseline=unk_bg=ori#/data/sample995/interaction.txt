@@ -1,0 +1,50 @@
+---------- Players ----------
+Player 0: motorsport. com.
+Player 1: momentum
+Player 2: funny
+Player 3: thing
+Player 4: racing.
+Player 5: # 39 ; s
+Player 6: something
+Player 7: see
+Player 8: hear.
+Player 9: # 39 ; s
+Player 10: easy
+Player 11: put
+Player 12: finger
+Player 13: exactly
+Player 14: starts.
+---------- AND Interactions (Pairwise Only) ----------
+I(0 4): -8.662201881408691	 ([motorsport. com.][racing.])
+I(0 1): -4.236912727355957	 ([motorsport. com.][momentum])
+I(1 4): -2.0946273803710938	 ([momentum][racing.])
+I(1 11): -1.8742234706878662	 ([momentum][put])
+I(0 3): 1.0917811393737793	 ([motorsport. com.][thing])
+I(1 12): 1.078622579574585	 ([momentum][finger])
+I(4 5): 1.0664010047912598	 ([racing.][# 39 ; s])
+I(5 9): -1.0185770988464355	 ([# 39 ; s][# 39 ; s])
+I(2 3): 0.986391544342041	 ([funny][thing])
+I(4 9): 0.9534397125244141	 ([racing.][# 39 ; s])
+I(2 4): 0.9355678558349609	 ([funny][racing.])
+I(0 11): 0.9066357612609863	 ([motorsport. com.][put])
+I(1 3): -0.9054667949676514	 ([momentum][thing])
+I(0 13): -0.8460221290588379	 ([motorsport. com.][exactly])
+I(4 12): 0.7835268974304199	 ([racing.][finger])
+I(11 13): -0.7583489418029785	 ([put][exactly])
+I(2 14): 0.755098819732666	 ([funny][starts.])
+I(1 2): 0.7207581996917725	 ([momentum][funny])
+I(4 8): 0.5950050354003906	 ([racing.][hear.])
+I(0 12): 0.5875945091247559	 ([motorsport. com.][finger])
+I(11 12): 0.5840458869934082	 ([put][finger])
+I(1 13): 0.5811035633087158	 ([momentum][exactly])
+I(1 14): -0.5615310668945312	 ([momentum][starts.])
+I(3 11): 0.5504212379455566	 ([thing][put])
+I(10 11): 0.49211978912353516	 ([easy][put])
+I(3 13): -0.4353618621826172	 ([thing][exactly])
+I(3 12): 0.4325737953186035	 ([thing][finger])
+I(0 14): -0.40624475479125977	 ([motorsport. com.][starts.])
+I(1 9): -0.4047234058380127	 ([momentum][# 39 ; s])
+I(4 10): -0.3997611999511719	 ([racing.][easy])
+I(9 11): -0.3908376693725586	 ([# 39 ; s][put])
+Sum: 16.882628202438354
+==================================================

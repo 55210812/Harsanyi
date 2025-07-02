@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 17:19:24
+prompt: [CLS] the polish woman held hostage in iraq appeared in a new video, aired on al - jazeera satellite channel, pleading her nation to withdraw troops from the country and the release of women prisoners to save her life. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:3907 decoded_text: polish
+idx:3 input_id:2450 decoded_text: woman
+idx:4 input_id:2218 decoded_text: held
+idx:5 input_id:13446 decoded_text: hostage
+idx:6 input_id:1999 decoded_text: in
+idx:7 input_id:5712 decoded_text: iraq
+idx:8 input_id:2596 decoded_text: appeared
+idx:9 input_id:1999 decoded_text: in
+idx:10 input_id:1037 decoded_text: a
+idx:11 input_id:2047 decoded_text: new
+idx:12 input_id:2678 decoded_text: video
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:4836 decoded_text: aired
+idx:15 input_id:2006 decoded_text: on
+idx:16 input_id:2632 decoded_text: al
+idx:17 input_id:1011 decoded_text: -
+idx:18 input_id:14855 decoded_text: ja
+idx:19 input_id:23940 decoded_text: ##zee
+idx:20 input_id:2527 decoded_text: ##ra
+idx:21 input_id:5871 decoded_text: satellite
+idx:22 input_id:3149 decoded_text: channel
+idx:23 input_id:1010 decoded_text: ,
+idx:24 input_id:16418 decoded_text: pleading
+idx:25 input_id:2014 decoded_text: her
+idx:26 input_id:3842 decoded_text: nation
+idx:27 input_id:2000 decoded_text: to
+idx:28 input_id:10632 decoded_text: withdraw
+idx:29 input_id:3629 decoded_text: troops
+idx:30 input_id:2013 decoded_text: from
+idx:31 input_id:1996 decoded_text: the
+idx:32 input_id:2406 decoded_text: country
+idx:33 input_id:1998 decoded_text: and
+idx:34 input_id:1996 decoded_text: the
+idx:35 input_id:2713 decoded_text: release
+idx:36 input_id:1997 decoded_text: of
+idx:37 input_id:2308 decoded_text: women
+idx:38 input_id:5895 decoded_text: prisoners
+idx:39 input_id:2000 decoded_text: to
+idx:40 input_id:3828 decoded_text: save
+idx:41 input_id:2014 decoded_text: her
+idx:42 input_id:2166 decoded_text: life
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.216256618499756, -2.0536246299743652, -3.3600289821624756, -0.6875262260437012]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

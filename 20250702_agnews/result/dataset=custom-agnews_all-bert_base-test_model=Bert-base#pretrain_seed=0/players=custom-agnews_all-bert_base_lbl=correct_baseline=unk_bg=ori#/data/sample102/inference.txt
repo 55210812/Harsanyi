@@ -1,0 +1,66 @@
+Execution time: 2025-07-02 17:19:42
+prompt: [CLS] forbes. com - the early take on oracle's tender offer for peoplesoft was that it was insincere. oracle boss lawrence ellison just wanted to sabotage peoplesoft's relations with customers. so said various pundits when the takeover was announced a year ago. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:10822 decoded_text: forbes
+idx:2 input_id:1012 decoded_text: .
+idx:3 input_id:4012 decoded_text: com
+idx:4 input_id:1011 decoded_text: -
+idx:5 input_id:1996 decoded_text: the
+idx:6 input_id:2220 decoded_text: early
+idx:7 input_id:2202 decoded_text: take
+idx:8 input_id:2006 decoded_text: on
+idx:9 input_id:14721 decoded_text: oracle
+idx:10 input_id:1005 decoded_text: '
+idx:11 input_id:1055 decoded_text: s
+idx:12 input_id:8616 decoded_text: tender
+idx:13 input_id:3749 decoded_text: offer
+idx:14 input_id:2005 decoded_text: for
+idx:15 input_id:7243 decoded_text: peoples
+idx:16 input_id:15794 decoded_text: ##oft
+idx:17 input_id:2001 decoded_text: was
+idx:18 input_id:2008 decoded_text: that
+idx:19 input_id:2009 decoded_text: it
+idx:20 input_id:2001 decoded_text: was
+idx:21 input_id:16021 decoded_text: ins
+idx:22 input_id:2378 decoded_text: ##in
+idx:23 input_id:17119 decoded_text: ##cer
+idx:24 input_id:2063 decoded_text: ##e
+idx:25 input_id:1012 decoded_text: .
+idx:26 input_id:14721 decoded_text: oracle
+idx:27 input_id:5795 decoded_text: boss
+idx:28 input_id:5623 decoded_text: lawrence
+idx:29 input_id:21513 decoded_text: ellison
+idx:30 input_id:2074 decoded_text: just
+idx:31 input_id:2359 decoded_text: wanted
+idx:32 input_id:2000 decoded_text: to
+idx:33 input_id:20223 decoded_text: sabotage
+idx:34 input_id:7243 decoded_text: peoples
+idx:35 input_id:15794 decoded_text: ##oft
+idx:36 input_id:1005 decoded_text: '
+idx:37 input_id:1055 decoded_text: s
+idx:38 input_id:4262 decoded_text: relations
+idx:39 input_id:2007 decoded_text: with
+idx:40 input_id:6304 decoded_text: customers
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:2061 decoded_text: so
+idx:43 input_id:2056 decoded_text: said
+idx:44 input_id:2536 decoded_text: various
+idx:45 input_id:26136 decoded_text: pun
+idx:46 input_id:23194 decoded_text: ##dit
+idx:47 input_id:2015 decoded_text: ##s
+idx:48 input_id:2043 decoded_text: when
+idx:49 input_id:1996 decoded_text: the
+idx:50 input_id:15336 decoded_text: takeover
+idx:51 input_id:2001 decoded_text: was
+idx:52 input_id:2623 decoded_text: announced
+idx:53 input_id:1037 decoded_text: a
+idx:54 input_id:2095 decoded_text: year
+idx:55 input_id:3283 decoded_text: ago
+idx:56 input_id:1012 decoded_text: .
+idx:57 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-3.5542337894439697, -4.392969131469727, 1.9192099571228027, 4.946054458618164]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

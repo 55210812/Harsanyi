@@ -1,0 +1,31 @@
+Execution time: 2025-07-02 17:30:50
+prompt: [CLS] hollywood actor johnny depp insists that he never called america " dumb " for going to war with iraq. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:5365 decoded_text: hollywood
+idx:2 input_id:3364 decoded_text: actor
+idx:3 input_id:5206 decoded_text: johnny
+idx:4 input_id:2139 decoded_text: de
+idx:5 input_id:9397 decoded_text: ##pp
+idx:6 input_id:16818 decoded_text: insists
+idx:7 input_id:2008 decoded_text: that
+idx:8 input_id:2002 decoded_text: he
+idx:9 input_id:2196 decoded_text: never
+idx:10 input_id:2170 decoded_text: called
+idx:11 input_id:2637 decoded_text: america
+idx:12 input_id:1000 decoded_text: "
+idx:13 input_id:12873 decoded_text: dumb
+idx:14 input_id:1000 decoded_text: "
+idx:15 input_id:2005 decoded_text: for
+idx:16 input_id:2183 decoded_text: going
+idx:17 input_id:2000 decoded_text: to
+idx:18 input_id:2162 decoded_text: war
+idx:19 input_id:2007 decoded_text: with
+idx:20 input_id:5712 decoded_text: iraq
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.710341930389404, -2.2882235050201416, -1.8862929344177246, -2.4072036743164062]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

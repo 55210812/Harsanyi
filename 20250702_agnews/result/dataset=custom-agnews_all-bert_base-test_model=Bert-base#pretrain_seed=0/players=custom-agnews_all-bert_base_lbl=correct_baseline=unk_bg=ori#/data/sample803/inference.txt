@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 17:52:29
+prompt: [CLS] ap - chechnya's new president was to be sworn in on tuesday, nearly five months after its previous leader was assassinated and a day after it was announced the republic would hold parliamentary elections in the spring. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:18178 decoded_text: che
+idx:4 input_id:2818 decoded_text: ##ch
+idx:5 input_id:17238 decoded_text: ##nya
+idx:6 input_id:1005 decoded_text: '
+idx:7 input_id:1055 decoded_text: s
+idx:8 input_id:2047 decoded_text: new
+idx:9 input_id:2343 decoded_text: president
+idx:10 input_id:2001 decoded_text: was
+idx:11 input_id:2000 decoded_text: to
+idx:12 input_id:2022 decoded_text: be
+idx:13 input_id:10741 decoded_text: sworn
+idx:14 input_id:1999 decoded_text: in
+idx:15 input_id:2006 decoded_text: on
+idx:16 input_id:9857 decoded_text: tuesday
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:3053 decoded_text: nearly
+idx:19 input_id:2274 decoded_text: five
+idx:20 input_id:2706 decoded_text: months
+idx:21 input_id:2044 decoded_text: after
+idx:22 input_id:2049 decoded_text: its
+idx:23 input_id:3025 decoded_text: previous
+idx:24 input_id:3003 decoded_text: leader
+idx:25 input_id:2001 decoded_text: was
+idx:26 input_id:16370 decoded_text: assassinated
+idx:27 input_id:1998 decoded_text: and
+idx:28 input_id:1037 decoded_text: a
+idx:29 input_id:2154 decoded_text: day
+idx:30 input_id:2044 decoded_text: after
+idx:31 input_id:2009 decoded_text: it
+idx:32 input_id:2001 decoded_text: was
+idx:33 input_id:2623 decoded_text: announced
+idx:34 input_id:1996 decoded_text: the
+idx:35 input_id:3072 decoded_text: republic
+idx:36 input_id:2052 decoded_text: would
+idx:37 input_id:2907 decoded_text: hold
+idx:38 input_id:5768 decoded_text: parliamentary
+idx:39 input_id:3864 decoded_text: elections
+idx:40 input_id:1999 decoded_text: in
+idx:41 input_id:1996 decoded_text: the
+idx:42 input_id:3500 decoded_text: spring
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.153532981872559, -1.2451562881469727, -3.311323642730713, -2.0261127948760986]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

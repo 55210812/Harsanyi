@@ -1,0 +1,87 @@
+---------- Players ----------
+Player 0: shane
+Player 1: carruth,
+Player 2: director
+Player 3: " primer, "
+Player 4: compares
+Player 5: film
+Player 6: engineers
+Player 7: build
+Player 8: time
+Player 9: machine
+Player 10: favorite
+Player 11: branch
+Player 12: math.
+---------- AND Interactions (Pairwise Only) ----------
+I(6 7): -5.034854888916016	 ([engineers][build])
+I(0 1): 4.634639739990234	 ([shane][carruth,])
+I(3 12): 3.5743584632873535	 ([" primer, "][math.])
+I(2 12): 3.1264114379882812	 ([director][math.])
+I(2 3): 3.0945146083831787	 ([director][" primer, "])
+I(1 3): 2.7697603702545166	 ([carruth,][" primer, "])
+I(3 6): 2.5438318252563477	 ([" primer, "][engineers])
+I(0 5): 2.4602770805358887	 ([shane][film])
+I(5 6): 2.3844525814056396	 ([film][engineers])
+I(1 2): 2.2987146377563477	 ([carruth,][director])
+I(1 6): 2.2569494247436523	 ([carruth,][engineers])
+I(6 11): -2.192415237426758	 ([engineers][branch])
+I(0 2): 2.186721086502075	 ([shane][director])
+I(5 11): -2.135310411453247	 ([film][branch])
+I(4 12): 2.0580801963806152	 ([compares][math.])
+I(5 9): 2.027496099472046	 ([film][machine])
+I(2 6): 1.884437084197998	 ([director][engineers])
+I(3 5): 1.7690837383270264	 ([" primer, "][film])
+I(1 5): 1.7574005126953125	 ([carruth,][film])
+I(7 8): -1.701507329940796	 ([build][time])
+I(1 7): -1.6424603462219238	 ([carruth,][build])
+I(4 5): -1.640312671661377	 ([compares][film])
+I(0 3): 1.6401259899139404	 ([shane][" primer, "])
+I(0 12): 1.597964882850647	 ([shane][math.])
+I(2 5): 1.5212006568908691	 ([director][film])
+I(3 7): 1.4617834091186523	 ([" primer, "][build])
+I(3 4): 1.4461673498153687	 ([" primer, "][compares])
+I(2 9): 1.4175724983215332	 ([director][machine])
+I(6 12): 1.401898980140686	 ([engineers][math.])
+I(11 12): 1.3949064016342163	 ([branch][math.])
+I(4 9): 1.338974952697754	 ([compares][machine])
+I(8 9): 1.3236546516418457	 ([time][machine])
+I(8 12): -1.2536243200302124	 ([time][math.])
+I(7 11): -1.2528681755065918	 ([build][branch])
+I(3 9): -1.2418047189712524	 ([" primer, "][machine])
+I(1 4): -1.189690113067627	 ([carruth,][compares])
+I(1 12): 1.1862907409667969	 ([carruth,][math.])
+I(3 11): 1.1714777946472168	 ([" primer, "][branch])
+I(4 10): -1.1704330444335938	 ([compares][favorite])
+I(9 12): 1.0772385597229004	 ([machine][math.])
+I(1 9): -1.0746190547943115	 ([carruth,][machine])
+I(0 8): -1.0548399686813354	 ([shane][time])
+I(5 8): -0.9650309085845947	 ([film][time])
+I(0 6): 0.9208488464355469	 ([shane][engineers])
+I(2 4): 0.9098951816558838	 ([director][compares])
+I(7 10): -0.888026237487793	 ([build][favorite])
+I(1 10): -0.8441817760467529	 ([carruth,][favorite])
+I(7 9): 0.8210148811340332	 ([build][machine])
+I(5 7): 0.72810959815979	 ([film][build])
+I(9 11): 0.7182621955871582	 ([machine][branch])
+I(3 10): 0.6945621967315674	 ([" primer, "][favorite])
+I(2 11): 0.6801097393035889	 ([director][branch])
+I(8 10): -0.5274312496185303	 ([time][favorite])
+I(2 10): 0.5119485855102539	 ([director][favorite])
+I(10 11): -0.5097610950469971	 ([favorite][branch])
+I(10 12): 0.4997732639312744	 ([favorite][math.])
+I(4 11): 0.49285411834716797	 ([compares][branch])
+I(6 10): -0.438690185546875	 ([engineers][favorite])
+I(6 8): -0.43802547454833984	 ([engineers][time])
+I(5 12): 0.40072715282440186	 ([film][math.])
+I(4 6): 0.39754724502563477	 ([compares][engineers])
+I(7 12): 0.39542877674102783	 ([build][math.])
+I(5 10): -0.36253976821899414	 ([film][favorite])
+I(6 9): -0.3602423667907715	 ([engineers][machine])
+I(8 11): -0.3477816581726074	 ([time][branch])
+I(0 4): 0.299416184425354	 ([shane][compares])
+I(0 7): -0.28820598125457764	 ([shane][build])
+I(4 8): 0.2335953712463379	 ([compares][time])
+I(0 11): -0.22611558437347412	 ([shane][branch])
+I(4 7): 0.15475702285766602	 ([compares][build])
+Sum: 40.21008539199829
+==================================================

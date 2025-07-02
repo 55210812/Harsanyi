@@ -1,0 +1,54 @@
+Execution time: 2025-07-02 17:26:19
+prompt: [CLS] the us space agency has given a green light for the resumption of space shuttle flights in may 2005, more than two years after seven astronauts died in the mid - air disintegration of space shuttle columbia. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2149 decoded_text: us
+idx:3 input_id:2686 decoded_text: space
+idx:4 input_id:4034 decoded_text: agency
+idx:5 input_id:2038 decoded_text: has
+idx:6 input_id:2445 decoded_text: given
+idx:7 input_id:1037 decoded_text: a
+idx:8 input_id:2665 decoded_text: green
+idx:9 input_id:2422 decoded_text: light
+idx:10 input_id:2005 decoded_text: for
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:24501 decoded_text: res
+idx:13 input_id:24237 decoded_text: ##ump
+idx:14 input_id:3508 decoded_text: ##tion
+idx:15 input_id:1997 decoded_text: of
+idx:16 input_id:2686 decoded_text: space
+idx:17 input_id:10382 decoded_text: shuttle
+idx:18 input_id:7599 decoded_text: flights
+idx:19 input_id:1999 decoded_text: in
+idx:20 input_id:2089 decoded_text: may
+idx:21 input_id:2384 decoded_text: 2005
+idx:22 input_id:1010 decoded_text: ,
+idx:23 input_id:2062 decoded_text: more
+idx:24 input_id:2084 decoded_text: than
+idx:25 input_id:2048 decoded_text: two
+idx:26 input_id:2086 decoded_text: years
+idx:27 input_id:2044 decoded_text: after
+idx:28 input_id:2698 decoded_text: seven
+idx:29 input_id:25881 decoded_text: astronauts
+idx:30 input_id:2351 decoded_text: died
+idx:31 input_id:1999 decoded_text: in
+idx:32 input_id:1996 decoded_text: the
+idx:33 input_id:3054 decoded_text: mid
+idx:34 input_id:1011 decoded_text: -
+idx:35 input_id:2250 decoded_text: air
+idx:36 input_id:4487 decoded_text: di
+idx:37 input_id:11493 decoded_text: ##sin
+idx:38 input_id:2618 decoded_text: ##te
+idx:39 input_id:29397 decoded_text: ##gration
+idx:40 input_id:1997 decoded_text: of
+idx:41 input_id:2686 decoded_text: space
+idx:42 input_id:10382 decoded_text: shuttle
+idx:43 input_id:3996 decoded_text: columbia
+idx:44 input_id:1012 decoded_text: .
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-1.4181640148162842, -3.29929518699646, -2.1119370460510254, 6.739004135131836]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

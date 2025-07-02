@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 17:36:55
+prompt: [CLS] reuters - u. s. treasuries climbed on tuesday \ amid a relentless rise in oil costs that hinted at a slowdown \ in consumer spending in the coming holiday season. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26665 decoded_text: reuters
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:1057 decoded_text: u
+idx:4 input_id:1012 decoded_text: .
+idx:5 input_id:1055 decoded_text: s
+idx:6 input_id:1012 decoded_text: .
+idx:7 input_id:29461 decoded_text: tre
+idx:8 input_id:3022 decoded_text: ##as
+idx:9 input_id:9496 decoded_text: ##uri
+idx:10 input_id:2229 decoded_text: ##es
+idx:11 input_id:6589 decoded_text: climbed
+idx:12 input_id:2006 decoded_text: on
+idx:13 input_id:9857 decoded_text: tuesday
+idx:14 input_id:1032 decoded_text: \
+idx:15 input_id:13463 decoded_text: amid
+idx:16 input_id:1037 decoded_text: a
+idx:17 input_id:21660 decoded_text: relentless
+idx:18 input_id:4125 decoded_text: rise
+idx:19 input_id:1999 decoded_text: in
+idx:20 input_id:3514 decoded_text: oil
+idx:21 input_id:5366 decoded_text: costs
+idx:22 input_id:2008 decoded_text: that
+idx:23 input_id:21795 decoded_text: hinted
+idx:24 input_id:2012 decoded_text: at
+idx:25 input_id:1037 decoded_text: a
+idx:26 input_id:4030 decoded_text: slow
+idx:27 input_id:7698 decoded_text: ##down
+idx:28 input_id:1032 decoded_text: \
+idx:29 input_id:1999 decoded_text: in
+idx:30 input_id:7325 decoded_text: consumer
+idx:31 input_id:5938 decoded_text: spending
+idx:32 input_id:1999 decoded_text: in
+idx:33 input_id:1996 decoded_text: the
+idx:34 input_id:2746 decoded_text: coming
+idx:35 input_id:6209 decoded_text: holiday
+idx:36 input_id:2161 decoded_text: season
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.176889657974243, -3.85615611076355, 6.7251129150390625, -2.804929733276367]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

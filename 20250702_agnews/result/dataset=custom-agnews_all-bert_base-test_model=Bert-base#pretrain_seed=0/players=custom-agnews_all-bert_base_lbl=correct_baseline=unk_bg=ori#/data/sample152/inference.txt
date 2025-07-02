@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 17:23:32
+prompt: [CLS] equatorial guinea prosecutors have asked south africa for permission to question mark thatcher, who was arrested in cape town last week on suspicion of bankrolling a failed plan to overthrow [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:21333 decoded_text: equatorial
+idx:2 input_id:7102 decoded_text: guinea
+idx:3 input_id:19608 decoded_text: prosecutors
+idx:4 input_id:2031 decoded_text: have
+idx:5 input_id:2356 decoded_text: asked
+idx:6 input_id:2148 decoded_text: south
+idx:7 input_id:3088 decoded_text: africa
+idx:8 input_id:2005 decoded_text: for
+idx:9 input_id:6656 decoded_text: permission
+idx:10 input_id:2000 decoded_text: to
+idx:11 input_id:3160 decoded_text: question
+idx:12 input_id:2928 decoded_text: mark
+idx:13 input_id:21127 decoded_text: thatcher
+idx:14 input_id:1010 decoded_text: ,
+idx:15 input_id:2040 decoded_text: who
+idx:16 input_id:2001 decoded_text: was
+idx:17 input_id:4727 decoded_text: arrested
+idx:18 input_id:1999 decoded_text: in
+idx:19 input_id:4880 decoded_text: cape
+idx:20 input_id:2237 decoded_text: town
+idx:21 input_id:2197 decoded_text: last
+idx:22 input_id:2733 decoded_text: week
+idx:23 input_id:2006 decoded_text: on
+idx:24 input_id:10928 decoded_text: suspicion
+idx:25 input_id:1997 decoded_text: of
+idx:26 input_id:2924 decoded_text: bank
+idx:27 input_id:28402 decoded_text: ##roll
+idx:28 input_id:2075 decoded_text: ##ing
+idx:29 input_id:1037 decoded_text: a
+idx:30 input_id:3478 decoded_text: failed
+idx:31 input_id:2933 decoded_text: plan
+idx:32 input_id:2000 decoded_text: to
+idx:33 input_id:16857 decoded_text: overthrow
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.286645412445068, -1.7663264274597168, -2.7722878456115723, -2.301722288131714]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

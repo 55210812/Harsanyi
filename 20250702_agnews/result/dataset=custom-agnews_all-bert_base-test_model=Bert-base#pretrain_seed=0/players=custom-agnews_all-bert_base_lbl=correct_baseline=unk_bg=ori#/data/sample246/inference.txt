@@ -1,0 +1,67 @@
+Execution time: 2025-07-02 17:26:46
+prompt: [CLS] discussions about a possible acquisition by minneapolis - based target corp. of canada # 39 ; s hudson # 39 ; s bay co. ( hbc ) continue, though quot ; complicated quot ; real estate issues are bogging them down, according to a report published at www. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:10287 decoded_text: discussions
+idx:2 input_id:2055 decoded_text: about
+idx:3 input_id:1037 decoded_text: a
+idx:4 input_id:2825 decoded_text: possible
+idx:5 input_id:7654 decoded_text: acquisition
+idx:6 input_id:2011 decoded_text: by
+idx:7 input_id:11334 decoded_text: minneapolis
+idx:8 input_id:1011 decoded_text: -
+idx:9 input_id:2241 decoded_text: based
+idx:10 input_id:4539 decoded_text: target
+idx:11 input_id:13058 decoded_text: corp
+idx:12 input_id:1012 decoded_text: .
+idx:13 input_id:1997 decoded_text: of
+idx:14 input_id:2710 decoded_text: canada
+idx:15 input_id:1001 decoded_text: #
+idx:16 input_id:4464 decoded_text: 39
+idx:17 input_id:1025 decoded_text: ;
+idx:18 input_id:1055 decoded_text: s
+idx:19 input_id:6842 decoded_text: hudson
+idx:20 input_id:1001 decoded_text: #
+idx:21 input_id:4464 decoded_text: 39
+idx:22 input_id:1025 decoded_text: ;
+idx:23 input_id:1055 decoded_text: s
+idx:24 input_id:3016 decoded_text: bay
+idx:25 input_id:2522 decoded_text: co
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:1006 decoded_text: (
+idx:28 input_id:1044 decoded_text: h
+idx:29 input_id:9818 decoded_text: ##bc
+idx:30 input_id:1007 decoded_text: )
+idx:31 input_id:3613 decoded_text: continue
+idx:32 input_id:1010 decoded_text: ,
+idx:33 input_id:2295 decoded_text: though
+idx:34 input_id:22035 decoded_text: quo
+idx:35 input_id:2102 decoded_text: ##t
+idx:36 input_id:1025 decoded_text: ;
+idx:37 input_id:8552 decoded_text: complicated
+idx:38 input_id:22035 decoded_text: quo
+idx:39 input_id:2102 decoded_text: ##t
+idx:40 input_id:1025 decoded_text: ;
+idx:41 input_id:2613 decoded_text: real
+idx:42 input_id:3776 decoded_text: estate
+idx:43 input_id:3314 decoded_text: issues
+idx:44 input_id:2024 decoded_text: are
+idx:45 input_id:22132 decoded_text: bog
+idx:46 input_id:4726 decoded_text: ##ging
+idx:47 input_id:2068 decoded_text: them
+idx:48 input_id:2091 decoded_text: down
+idx:49 input_id:1010 decoded_text: ,
+idx:50 input_id:2429 decoded_text: according
+idx:51 input_id:2000 decoded_text: to
+idx:52 input_id:1037 decoded_text: a
+idx:53 input_id:3189 decoded_text: report
+idx:54 input_id:2405 decoded_text: published
+idx:55 input_id:2012 decoded_text: at
+idx:56 input_id:7479 decoded_text: www
+idx:57 input_id:1012 decoded_text: .
+idx:58 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-3.801842451095581, -2.3871986865997314, 6.5851850509643555, -2.093573808670044]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

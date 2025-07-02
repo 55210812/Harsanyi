@@ -1,0 +1,37 @@
+Execution time: 2025-07-02 17:23:57
+prompt: [CLS] heavy rain and wind from what was once hurricane ivan assaulted the southern appalachian region friday, washing away homes and killing at least three people. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3082 decoded_text: heavy
+idx:2 input_id:4542 decoded_text: rain
+idx:3 input_id:1998 decoded_text: and
+idx:4 input_id:3612 decoded_text: wind
+idx:5 input_id:2013 decoded_text: from
+idx:6 input_id:2054 decoded_text: what
+idx:7 input_id:2001 decoded_text: was
+idx:8 input_id:2320 decoded_text: once
+idx:9 input_id:7064 decoded_text: hurricane
+idx:10 input_id:7332 decoded_text: ivan
+idx:11 input_id:17536 decoded_text: assaulted
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:2670 decoded_text: southern
+idx:14 input_id:19682 decoded_text: appalachian
+idx:15 input_id:2555 decoded_text: region
+idx:16 input_id:5958 decoded_text: friday
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:12699 decoded_text: washing
+idx:19 input_id:2185 decoded_text: away
+idx:20 input_id:5014 decoded_text: homes
+idx:21 input_id:1998 decoded_text: and
+idx:22 input_id:4288 decoded_text: killing
+idx:23 input_id:2012 decoded_text: at
+idx:24 input_id:2560 decoded_text: least
+idx:25 input_id:2093 decoded_text: three
+idx:26 input_id:2111 decoded_text: people
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[5.004755020141602, -1.4626212120056152, -2.2554588317871094, -1.1836085319519043]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

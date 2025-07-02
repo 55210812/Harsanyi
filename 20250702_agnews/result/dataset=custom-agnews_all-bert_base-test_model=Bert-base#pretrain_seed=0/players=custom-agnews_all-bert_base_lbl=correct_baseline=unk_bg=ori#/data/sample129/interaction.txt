@@ -1,0 +1,84 @@
+---------- Players ----------
+Player 0: cell
+Player 1: phone
+Player 2: executives
+Player 3: say
+Player 4: new
+Player 5: data - oriented
+Player 6: services
+Player 7: tv
+Player 8: help
+Player 9: bolster
+Player 10: industry
+Player 11: precarious
+Player 12: state.
+---------- AND Interactions (Pairwise Only) ----------
+I(1 10): 8.499412536621094	 ([phone][industry])
+I(0 2): 7.776620864868164	 ([cell][executives])
+I(0 10): 6.947673797607422	 ([cell][industry])
+I(1 2): 6.893069267272949	 ([phone][executives])
+I(2 10): 6.603140830993652	 ([executives][industry])
+I(5 10): 5.402698040008545	 ([data - oriented][industry])
+I(2 5): 4.848454475402832	 ([executives][data - oriented])
+I(2 3): 4.3016276359558105	 ([executives][say])
+I(2 6): 3.454646110534668	 ([executives][services])
+I(8 10): 3.371034622192383	 ([help][industry])
+I(0 6): 3.2026865482330322	 ([cell][services])
+I(6 7): -2.4841952323913574	 ([services][tv])
+I(1 6): 2.4705121517181396	 ([phone][services])
+I(2 8): 2.442636013031006	 ([executives][help])
+I(6 12): -2.37441086769104	 ([services][state.])
+I(8 12): -1.8995447158813477	 ([help][state.])
+I(10 12): -1.7769451141357422	 ([industry][state.])
+I(5 6): 1.6640088558197021	 ([data - oriented][services])
+I(2 12): -1.535715103149414	 ([executives][state.])
+I(6 10): 1.5113506317138672	 ([services][industry])
+I(9 10): 1.498208999633789	 ([bolster][industry])
+I(0 11): -1.4550437927246094	 ([cell][precarious])
+I(1 12): -1.4392199516296387	 ([phone][state.])
+I(9 12): -1.3931808471679688	 ([bolster][state.])
+I(7 12): -1.3396689891815186	 ([tv][state.])
+I(3 12): -1.2985754013061523	 ([say][state.])
+I(0 1): -1.260183334350586	 ([cell][phone])
+I(0 7): 1.068471908569336	 ([cell][tv])
+I(6 9): -1.0469324588775635	 ([services][bolster])
+I(1 8): -1.0347766876220703	 ([phone][help])
+I(1 5): -0.9798979759216309	 ([phone][data - oriented])
+I(5 8): -0.9483146667480469	 ([data - oriented][help])
+I(6 8): 0.9236936569213867	 ([services][help])
+I(1 7): 0.9074978828430176	 ([phone][tv])
+I(11 12): -0.9041213989257812	 ([precarious][state.])
+I(0 8): -0.8944926261901855	 ([cell][help])
+I(4 6): -0.757117748260498	 ([new][services])
+I(1 3): -0.7127237319946289	 ([phone][say])
+I(5 7): 0.7120566368103027	 ([data - oriented][tv])
+I(0 3): -0.6894416809082031	 ([cell][say])
+I(2 9): 0.6887078285217285	 ([executives][bolster])
+I(0 5): -0.6820516586303711	 ([cell][data - oriented])
+I(7 11): 0.6702699661254883	 ([tv][precarious])
+I(2 11): 0.6527614593505859	 ([executives][precarious])
+I(1 11): -0.6419997215270996	 ([phone][precarious])
+I(2 7): 0.6383085250854492	 ([executives][tv])
+I(5 11): -0.6382250785827637	 ([data - oriented][precarious])
+I(3 11): -0.6089324951171875	 ([say][precarious])
+I(4 8): -0.5873494148254395	 ([new][help])
+I(5 9): -0.5735554695129395	 ([data - oriented][bolster])
+I(8 9): -0.5311617851257324	 ([help][bolster])
+I(1 9): -0.5229678153991699	 ([phone][bolster])
+I(7 10): 0.519230842590332	 ([tv][industry])
+I(4 9): -0.5140781402587891	 ([new][bolster])
+I(4 10): 0.507965087890625	 ([new][industry])
+I(0 4): -0.4196610450744629	 ([cell][new])
+I(3 6): -0.41320228576660156	 ([say][services])
+I(1 4): -0.38313722610473633	 ([phone][new])
+I(10 11): 0.3771085739135742	 ([industry][precarious])
+I(3 5): -0.36031341552734375	 ([say][data - oriented])
+I(0 9): -0.35349607467651367	 ([cell][bolster])
+I(2 4): -0.3007621765136719	 ([executives][new])
+I(3 9): -0.29242563247680664	 ([say][bolster])
+I(8 11): -0.2873377799987793	 ([help][precarious])
+I(7 9): 0.2864189147949219	 ([tv][bolster])
+I(4 12): 0.284299373626709	 ([new][state.])
+I(3 8): -0.2798008918762207	 ([say][help])
+Sum: 30.744220495224
+==================================================

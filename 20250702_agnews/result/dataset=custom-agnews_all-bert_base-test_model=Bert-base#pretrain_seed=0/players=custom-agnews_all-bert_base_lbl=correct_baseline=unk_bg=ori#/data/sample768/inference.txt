@@ -1,0 +1,45 @@
+Execution time: 2025-07-02 17:50:51
+prompt: [CLS] myanmar # 39 ; s prime minister khin nyunt was removed from office tuesday and placed under house arrest by the country # 39 ; s military junta, the bbc reported. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:12620 decoded_text: myanmar
+idx:2 input_id:1001 decoded_text: #
+idx:3 input_id:4464 decoded_text: 39
+idx:4 input_id:1025 decoded_text: ;
+idx:5 input_id:1055 decoded_text: s
+idx:6 input_id:3539 decoded_text: prime
+idx:7 input_id:2704 decoded_text: minister
+idx:8 input_id:1047 decoded_text: k
+idx:9 input_id:10606 decoded_text: ##hin
+idx:10 input_id:27935 decoded_text: nyu
+idx:11 input_id:3372 decoded_text: ##nt
+idx:12 input_id:2001 decoded_text: was
+idx:13 input_id:3718 decoded_text: removed
+idx:14 input_id:2013 decoded_text: from
+idx:15 input_id:2436 decoded_text: office
+idx:16 input_id:9857 decoded_text: tuesday
+idx:17 input_id:1998 decoded_text: and
+idx:18 input_id:2872 decoded_text: placed
+idx:19 input_id:2104 decoded_text: under
+idx:20 input_id:2160 decoded_text: house
+idx:21 input_id:6545 decoded_text: arrest
+idx:22 input_id:2011 decoded_text: by
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:2406 decoded_text: country
+idx:25 input_id:1001 decoded_text: #
+idx:26 input_id:4464 decoded_text: 39
+idx:27 input_id:1025 decoded_text: ;
+idx:28 input_id:1055 decoded_text: s
+idx:29 input_id:2510 decoded_text: military
+idx:30 input_id:22450 decoded_text: junta
+idx:31 input_id:1010 decoded_text: ,
+idx:32 input_id:1996 decoded_text: the
+idx:33 input_id:4035 decoded_text: bbc
+idx:34 input_id:2988 decoded_text: reported
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.344667434692383, -1.9695316553115845, -2.495572566986084, -2.5331857204437256]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

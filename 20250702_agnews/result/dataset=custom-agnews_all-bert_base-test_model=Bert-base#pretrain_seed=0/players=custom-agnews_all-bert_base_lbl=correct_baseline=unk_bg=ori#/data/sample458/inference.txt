@@ -1,0 +1,48 @@
+Execution time: 2025-07-02 17:35:43
+prompt: [CLS] london - - wealthy countries are falling billions of dollars short of their promises to help fund reproductive health care and efforts to improve the status of women around the world, the united nations said yesterday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2414 decoded_text: london
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:7272 decoded_text: wealthy
+idx:5 input_id:3032 decoded_text: countries
+idx:6 input_id:2024 decoded_text: are
+idx:7 input_id:4634 decoded_text: falling
+idx:8 input_id:25501 decoded_text: billions
+idx:9 input_id:1997 decoded_text: of
+idx:10 input_id:6363 decoded_text: dollars
+idx:11 input_id:2460 decoded_text: short
+idx:12 input_id:1997 decoded_text: of
+idx:13 input_id:2037 decoded_text: their
+idx:14 input_id:10659 decoded_text: promises
+idx:15 input_id:2000 decoded_text: to
+idx:16 input_id:2393 decoded_text: help
+idx:17 input_id:4636 decoded_text: fund
+idx:18 input_id:15124 decoded_text: reproductive
+idx:19 input_id:2740 decoded_text: health
+idx:20 input_id:2729 decoded_text: care
+idx:21 input_id:1998 decoded_text: and
+idx:22 input_id:4073 decoded_text: efforts
+idx:23 input_id:2000 decoded_text: to
+idx:24 input_id:5335 decoded_text: improve
+idx:25 input_id:1996 decoded_text: the
+idx:26 input_id:3570 decoded_text: status
+idx:27 input_id:1997 decoded_text: of
+idx:28 input_id:2308 decoded_text: women
+idx:29 input_id:2105 decoded_text: around
+idx:30 input_id:1996 decoded_text: the
+idx:31 input_id:2088 decoded_text: world
+idx:32 input_id:1010 decoded_text: ,
+idx:33 input_id:1996 decoded_text: the
+idx:34 input_id:2142 decoded_text: united
+idx:35 input_id:3741 decoded_text: nations
+idx:36 input_id:2056 decoded_text: said
+idx:37 input_id:7483 decoded_text: yesterday
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.611184597015381, -2.7619595527648926, -1.8907051086425781, -1.9733121395111084]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

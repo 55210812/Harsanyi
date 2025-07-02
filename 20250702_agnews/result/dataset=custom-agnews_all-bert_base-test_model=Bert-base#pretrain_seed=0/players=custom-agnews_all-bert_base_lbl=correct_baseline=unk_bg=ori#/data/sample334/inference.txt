@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 17:30:31
+prompt: [CLS] even though he has been china # 39 ; s president for two years, hu jintao wasn # 39 ; t given the powerful position of military commander until sunday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2130 decoded_text: even
+idx:2 input_id:2295 decoded_text: though
+idx:3 input_id:2002 decoded_text: he
+idx:4 input_id:2038 decoded_text: has
+idx:5 input_id:2042 decoded_text: been
+idx:6 input_id:2859 decoded_text: china
+idx:7 input_id:1001 decoded_text: #
+idx:8 input_id:4464 decoded_text: 39
+idx:9 input_id:1025 decoded_text: ;
+idx:10 input_id:1055 decoded_text: s
+idx:11 input_id:2343 decoded_text: president
+idx:12 input_id:2005 decoded_text: for
+idx:13 input_id:2048 decoded_text: two
+idx:14 input_id:2086 decoded_text: years
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:15876 decoded_text: hu
+idx:17 input_id:9743 decoded_text: jin
+idx:18 input_id:28555 decoded_text: ##tao
+idx:19 input_id:2347 decoded_text: wasn
+idx:20 input_id:1001 decoded_text: #
+idx:21 input_id:4464 decoded_text: 39
+idx:22 input_id:1025 decoded_text: ;
+idx:23 input_id:1056 decoded_text: t
+idx:24 input_id:2445 decoded_text: given
+idx:25 input_id:1996 decoded_text: the
+idx:26 input_id:3928 decoded_text: powerful
+idx:27 input_id:2597 decoded_text: position
+idx:28 input_id:1997 decoded_text: of
+idx:29 input_id:2510 decoded_text: military
+idx:30 input_id:3474 decoded_text: commander
+idx:31 input_id:2127 decoded_text: until
+idx:32 input_id:4465 decoded_text: sunday
+idx:33 input_id:1012 decoded_text: .
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.1276655197143555, -2.140575885772705, -2.113156795501709, -2.736037254333496]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

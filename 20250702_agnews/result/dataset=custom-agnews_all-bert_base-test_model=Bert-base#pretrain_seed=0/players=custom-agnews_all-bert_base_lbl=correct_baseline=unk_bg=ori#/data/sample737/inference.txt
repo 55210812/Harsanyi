@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 17:49:32
+prompt: [CLS] washington - the united states did not have enough troops in iraq after ousting saddam hussein and " paid a big price " for it, says the former head of the u. s. occupation there... [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2899 decoded_text: washington
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:1996 decoded_text: the
+idx:4 input_id:2142 decoded_text: united
+idx:5 input_id:2163 decoded_text: states
+idx:6 input_id:2106 decoded_text: did
+idx:7 input_id:2025 decoded_text: not
+idx:8 input_id:2031 decoded_text: have
+idx:9 input_id:2438 decoded_text: enough
+idx:10 input_id:3629 decoded_text: troops
+idx:11 input_id:1999 decoded_text: in
+idx:12 input_id:5712 decoded_text: iraq
+idx:13 input_id:2044 decoded_text: after
+idx:14 input_id:15068 decoded_text: ou
+idx:15 input_id:16643 decoded_text: ##sti
+idx:16 input_id:3070 decoded_text: ##ng
+idx:17 input_id:24111 decoded_text: saddam
+idx:18 input_id:16543 decoded_text: hussein
+idx:19 input_id:1998 decoded_text: and
+idx:20 input_id:1000 decoded_text: "
+idx:21 input_id:3825 decoded_text: paid
+idx:22 input_id:1037 decoded_text: a
+idx:23 input_id:2502 decoded_text: big
+idx:24 input_id:3976 decoded_text: price
+idx:25 input_id:1000 decoded_text: "
+idx:26 input_id:2005 decoded_text: for
+idx:27 input_id:2009 decoded_text: it
+idx:28 input_id:1010 decoded_text: ,
+idx:29 input_id:2758 decoded_text: says
+idx:30 input_id:1996 decoded_text: the
+idx:31 input_id:2280 decoded_text: former
+idx:32 input_id:2132 decoded_text: head
+idx:33 input_id:1997 decoded_text: of
+idx:34 input_id:1996 decoded_text: the
+idx:35 input_id:1057 decoded_text: u
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:1055 decoded_text: s
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:6139 decoded_text: occupation
+idx:40 input_id:2045 decoded_text: there
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.317107200622559, -1.8154807090759277, -2.24625563621521, -2.877899408340454]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

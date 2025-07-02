@@ -1,0 +1,113 @@
+---------- Players ----------
+Player 0: vauxhall
+Player 1: car
+Player 2: workers
+Player 3: today
+Player 4: told
+Player 5: check
+Player 6: arriving
+Player 7: shift
+Player 8: amid
+Player 9: expectations
+Player 10: production
+Player 11: halted
+Player 12: shortage
+Player 13: components
+Player 14: caused
+Player 15: strike
+Player 16: germany.
+---------- AND Interactions (Pairwise Only) ----------
+I(10 11): 6.3737993240356445	 ([production][halted])
+I(2 7): 5.391484260559082	 ([workers][shift])
+I(0 9): -5.137486457824707	 ([vauxhall][expectations])
+I(7 10): 4.963483810424805	 ([shift][production])
+I(8 9): -4.666702747344971	 ([amid][expectations])
+I(0 16): -4.641969680786133	 ([vauxhall][germany.])
+I(2 11): 4.414643287658691	 ([workers][halted])
+I(2 10): 4.00286865234375	 ([workers][production])
+I(2 16): 3.9231457710266113	 ([workers][germany.])
+I(2 12): 3.629617214202881	 ([workers][shortage])
+I(2 3): 3.5159173011779785	 ([workers][today])
+I(0 15): -2.4985132217407227	 ([vauxhall][strike])
+I(0 10): -2.3988685607910156	 ([vauxhall][production])
+I(4 9): -2.174117088317871	 ([told][expectations])
+I(2 13): -2.093015670776367	 ([workers][components])
+I(1 10): 1.9560155868530273	 ([car][production])
+I(9 15): -1.8831052780151367	 ([expectations][strike])
+I(2 14): -1.861701488494873	 ([workers][caused])
+I(1 2): -1.7989425659179688	 ([car][workers])
+I(9 13): -1.7297210693359375	 ([expectations][components])
+I(13 15): -1.640322208404541	 ([components][strike])
+I(5 10): 1.6019392013549805	 ([check][production])
+I(9 12): -1.5764031410217285	 ([expectations][shortage])
+I(2 4): -1.5174446105957031	 ([workers][told])
+I(10 12): 1.3925275802612305	 ([production][shortage])
+I(0 4): -1.3633918762207031	 ([vauxhall][told])
+I(0 2): 1.3398399353027344	 ([vauxhall][workers])
+I(10 15): 1.2657108306884766	 ([production][strike])
+I(8 15): 1.2636299133300781	 ([amid][strike])
+I(1 15): 1.262357234954834	 ([car][strike])
+I(0 11): -1.2312688827514648	 ([vauxhall][halted])
+I(9 16): -1.1319451332092285	 ([expectations][germany.])
+I(3 15): 1.1093716621398926	 ([today][strike])
+I(6 10): 1.0796875953674316	 ([arriving][production])
+I(6 9): -1.0226459503173828	 ([arriving][expectations])
+I(0 6): -1.0196313858032227	 ([vauxhall][arriving])
+I(13 16): -1.0196208953857422	 ([components][germany.])
+I(7 9): -0.949653148651123	 ([shift][expectations])
+I(2 6): 0.897799015045166	 ([workers][arriving])
+I(6 7): 0.8669466972351074	 ([arriving][shift])
+I(11 13): -0.8544082641601562	 ([halted][components])
+I(7 13): 0.850862979888916	 ([shift][components])
+I(3 9): 0.7659273147583008	 ([today][expectations])
+I(3 4): 0.7580046653747559	 ([today][told])
+I(0 13): 0.719240665435791	 ([vauxhall][components])
+I(4 10): 0.6729211807250977	 ([told][production])
+I(6 15): -0.6049494743347168	 ([arriving][strike])
+I(7 16): -0.6031126976013184	 ([shift][germany.])
+I(10 13): 0.5977065563201904	 ([production][components])
+I(1 12): 0.5729155540466309	 ([car][shortage])
+I(2 8): 0.5703377723693848	 ([workers][amid])
+I(0 5): 0.5693655014038086	 ([vauxhall][check])
+I(1 9): 0.560826301574707	 ([car][expectations])
+I(1 16): -0.55816650390625	 ([car][germany.])
+I(10 16): -0.5405607223510742	 ([production][germany.])
+I(6 13): -0.5399284362792969	 ([arriving][components])
+I(7 15): -0.5395126342773438	 ([shift][strike])
+I(1 5): 0.5353684425354004	 ([car][check])
+I(2 9): 0.5209331512451172	 ([workers][expectations])
+I(7 12): 0.509981632232666	 ([shift][shortage])
+I(4 11): -0.4978933334350586	 ([told][halted])
+I(4 5): -0.4732184410095215	 ([told][check])
+I(4 6): -0.4651474952697754	 ([told][arriving])
+I(4 13): -0.4386715888977051	 ([told][components])
+I(5 12): 0.4383702278137207	 ([check][shortage])
+I(2 15): -0.4194478988647461	 ([workers][strike])
+I(1 6): 0.41599225997924805	 ([car][arriving])
+I(5 16): -0.413938045501709	 ([check][germany.])
+I(3 16): -0.40256834030151367	 ([today][germany.])
+I(4 12): -0.4008960723876953	 ([told][shortage])
+I(11 14): -0.3911604881286621	 ([halted][caused])
+I(3 10): 0.3805091381072998	 ([today][production])
+I(1 7): 0.3637356758117676	 ([car][shift])
+I(12 16): -0.3586540222167969	 ([shortage][germany.])
+I(0 14): 0.34900760650634766	 ([vauxhall][caused])
+I(3 6): 0.34453392028808594	 ([today][arriving])
+I(0 7): -0.32446861267089844	 ([vauxhall][shift])
+I(9 11): -0.31789684295654297	 ([expectations][halted])
+I(6 8): -0.30959558486938477	 ([arriving][amid])
+I(10 14): 0.3008153438568115	 ([production][caused])
+I(11 15): 0.2935967445373535	 ([halted][strike])
+I(5 11): -0.28978490829467773	 ([check][halted])
+I(0 8): 0.2789802551269531	 ([vauxhall][amid])
+I(3 11): 0.27765798568725586	 ([today][halted])
+I(12 15): 0.2753300666809082	 ([shortage][strike])
+I(11 16): 0.274808406829834	 ([halted][germany.])
+I(9 10): 0.27259349822998047	 ([expectations][production])
+I(8 11): 0.24845170974731445	 ([amid][halted])
+I(5 7): -0.24587488174438477	 ([check][shift])
+I(0 3): -0.23683881759643555	 ([vauxhall][today])
+I(9 14): -0.21791458129882812	 ([expectations][caused])
+I(7 14): 0.21683263778686523	 ([shift][caused])
+Sum: 37.00948357582092
+==================================================

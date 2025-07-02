@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 17:31:33
+prompt: [CLS] gaza city, 15 november 2004 - palestinian leader mahmoud abbas was at the center of a shootout in gaza yesterday hours after he emerged as fatahs candidate in the presidential election scheduled for jan. 9. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:14474 decoded_text: gaza
+idx:2 input_id:2103 decoded_text: city
+idx:3 input_id:1010 decoded_text: ,
+idx:4 input_id:2321 decoded_text: 15
+idx:5 input_id:2281 decoded_text: november
+idx:6 input_id:2432 decoded_text: 2004
+idx:7 input_id:1011 decoded_text: -
+idx:8 input_id:9302 decoded_text: palestinian
+idx:9 input_id:3003 decoded_text: leader
+idx:10 input_id:27278 decoded_text: mahmoud
+idx:11 input_id:17532 decoded_text: abbas
+idx:12 input_id:2001 decoded_text: was
+idx:13 input_id:2012 decoded_text: at
+idx:14 input_id:1996 decoded_text: the
+idx:15 input_id:2415 decoded_text: center
+idx:16 input_id:1997 decoded_text: of
+idx:17 input_id:1037 decoded_text: a
+idx:18 input_id:18297 decoded_text: shootout
+idx:19 input_id:1999 decoded_text: in
+idx:20 input_id:14474 decoded_text: gaza
+idx:21 input_id:7483 decoded_text: yesterday
+idx:22 input_id:2847 decoded_text: hours
+idx:23 input_id:2044 decoded_text: after
+idx:24 input_id:2002 decoded_text: he
+idx:25 input_id:6003 decoded_text: emerged
+idx:26 input_id:2004 decoded_text: as
+idx:27 input_id:6638 decoded_text: fat
+idx:28 input_id:4430 decoded_text: ##ah
+idx:29 input_id:2015 decoded_text: ##s
+idx:30 input_id:4018 decoded_text: candidate
+idx:31 input_id:1999 decoded_text: in
+idx:32 input_id:1996 decoded_text: the
+idx:33 input_id:4883 decoded_text: presidential
+idx:34 input_id:2602 decoded_text: election
+idx:35 input_id:5115 decoded_text: scheduled
+idx:36 input_id:2005 decoded_text: for
+idx:37 input_id:5553 decoded_text: jan
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:1023 decoded_text: 9
+idx:40 input_id:1012 decoded_text: .
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.101987838745117, -1.5156759023666382, -2.95106840133667, -2.1788570880889893]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

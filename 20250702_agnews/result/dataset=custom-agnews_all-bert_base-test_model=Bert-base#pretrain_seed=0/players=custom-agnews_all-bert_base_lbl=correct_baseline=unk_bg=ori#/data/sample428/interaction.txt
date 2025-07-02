@@ -1,0 +1,79 @@
+---------- Players ----------
+Player 0: afp
+Player 1: -
+Player 2: british
+Player 3: tourist
+Player 4: flight
+Player 5: travelling
+Player 6: paris
+Player 7: turned
+Player 8: back
+Player 9: shortly
+Player 10: take - off
+Player 11: plane
+Player 12: struck
+Player 13: bird.
+---------- AND Interactions (Pairwise Only) ----------
+I(0 6): -7.377245903015137	 ([afp][paris])
+I(5 6): -4.073489665985107	 ([travelling][paris])
+I(2 6): -3.982832431793213	 ([british][paris])
+I(0 2): -3.1945085525512695	 ([afp][british])
+I(5 7): 2.795165538787842	 ([travelling][turned])
+I(5 11): 2.3927106857299805	 ([travelling][plane])
+I(10 13): 2.12269926071167	 ([take - off][bird.])
+I(7 11): 2.0973825454711914	 ([turned][plane])
+I(3 7): 1.9599108695983887	 ([tourist][turned])
+I(6 13): -1.9520750045776367	 ([paris][bird.])
+I(10 11): 1.9514594078063965	 ([take - off][plane])
+I(3 10): 1.9287405014038086	 ([tourist][take - off])
+I(3 5): 1.9187545776367188	 ([tourist][travelling])
+I(6 12): -1.836437702178955	 ([paris][struck])
+I(0 7): 1.7605628967285156	 ([afp][turned])
+I(4 7): 1.7513666152954102	 ([flight][turned])
+I(6 7): 1.655259609222412	 ([paris][turned])
+I(0 13): 1.6199588775634766	 ([afp][bird.])
+I(7 13): 1.5920352935791016	 ([turned][bird.])
+I(7 8): 1.5244784355163574	 ([turned][back])
+I(4 11): 1.4913601875305176	 ([flight][plane])
+I(4 6): -1.455322265625	 ([flight][paris])
+I(0 4): 1.4161491394042969	 ([afp][flight])
+I(3 11): 1.3721919059753418	 ([tourist][plane])
+I(3 13): 1.35542631149292	 ([tourist][bird.])
+I(12 13): 1.2945103645324707	 ([struck][bird.])
+I(2 13): -1.2882237434387207	 ([british][bird.])
+I(2 10): -1.263655185699463	 ([british][take - off])
+I(2 5): -1.2404847145080566	 ([british][travelling])
+I(2 4): -1.1949543952941895	 ([british][flight])
+I(3 9): 1.1749458312988281	 ([tourist][shortly])
+I(9 12): 1.1747097969055176	 ([shortly][struck])
+I(0 12): -1.105525016784668	 ([afp][struck])
+I(7 10): 1.1050214767456055	 ([turned][take - off])
+I(3 12): -1.0305523872375488	 ([tourist][struck])
+I(6 10): -1.0293598175048828	 ([paris][take - off])
+I(2 11): -0.9659881591796875	 ([british][plane])
+I(9 11): 0.9266037940979004	 ([shortly][plane])
+I(11 12): 0.8667840957641602	 ([plane][struck])
+I(0 5): 0.8521709442138672	 ([afp][travelling])
+I(3 6): 0.7849149703979492	 ([tourist][paris])
+I(1 3): 0.7620267868041992	 ([-][tourist])
+I(0 1): 0.7588119506835938	 ([afp][-])
+I(0 11): 0.7191133499145508	 ([afp][plane])
+I(11 13): 0.6807746887207031	 ([plane][bird.])
+I(5 9): 0.6627006530761719	 ([travelling][shortly])
+I(3 4): 0.6525683403015137	 ([tourist][flight])
+I(8 11): 0.6330499649047852	 ([back][plane])
+I(6 11): 0.6282520294189453	 ([paris][plane])
+I(4 10): 0.6160678863525391	 ([flight][take - off])
+I(5 10): 0.5680170059204102	 ([travelling][take - off])
+I(8 10): -0.5648722648620605	 ([back][take - off])
+I(4 13): 0.4843564033508301	 ([flight][bird.])
+I(9 10): 0.4834012985229492	 ([shortly][take - off])
+I(2 12): -0.48166894912719727	 ([british][struck])
+I(7 9): 0.4417233467102051	 ([turned][shortly])
+I(10 12): 0.43709230422973633	 ([take - off][struck])
+I(5 13): 0.3859391212463379	 ([travelling][bird.])
+I(2 8): 0.3831336498260498	 ([british][back])
+I(1 12): 0.3535466194152832	 ([-][struck])
+I(0 9): 0.3347444534301758	 ([afp][shortly])
+Sum: 34.38707375526428
+==================================================

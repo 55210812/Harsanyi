@@ -1,0 +1,78 @@
+---------- Players ----------
+Player 0: according
+Player 1: microsoft
+Player 2: site,
+Player 3: vulnerabilty
+Player 4: wordpad
+Player 5: allows
+Player 6: attacker
+Player 7: take
+Player 8: complete
+Player 9: control
+Player 10: affected
+Player 11: system.
+---------- AND Interactions (Pairwise Only) ----------
+I(10 11): -4.652072906494141	 ([affected][system.])
+I(4 5): -3.0513622760772705	 ([wordpad][allows])
+I(1 4): -2.834523916244507	 ([microsoft][wordpad])
+I(4 11): -2.78564453125	 ([wordpad][system.])
+I(2 4): -2.595362424850464	 ([site,][wordpad])
+I(5 11): -2.5574326515197754	 ([allows][system.])
+I(3 4): 2.4824421405792236	 ([vulnerabilty][wordpad])
+I(1 2): -2.4291298389434814	 ([microsoft][site,])
+I(2 5): -2.402604818344116	 ([site,][allows])
+I(1 11): -2.1566054821014404	 ([microsoft][system.])
+I(2 9): -2.061382532119751	 ([site,][control])
+I(2 11): -2.060253620147705	 ([site,][system.])
+I(3 6): 2.024334192276001	 ([vulnerabilty][attacker])
+I(0 3): -1.8540306091308594	 ([according][vulnerabilty])
+I(1 5): -1.8169639110565186	 ([microsoft][allows])
+I(3 9): -1.7376580238342285	 ([vulnerabilty][control])
+I(4 8): -1.5837504863739014	 ([wordpad][complete])
+I(2 6): -1.5575218200683594	 ([site,][attacker])
+I(3 10): 1.4370746612548828	 ([vulnerabilty][affected])
+I(6 8): -1.4233150482177734	 ([attacker][complete])
+I(8 11): -1.4159107208251953	 ([complete][system.])
+I(1 3): 1.4052488803863525	 ([microsoft][vulnerabilty])
+I(5 8): -1.2615630626678467	 ([allows][complete])
+I(0 10): -1.2561166286468506	 ([according][affected])
+I(1 8): -1.1911346912384033	 ([microsoft][complete])
+I(0 7): 1.1801116466522217	 ([according][take])
+I(8 9): -1.1654455661773682	 ([complete][control])
+I(2 8): -1.1355793476104736	 ([site,][complete])
+I(4 9): -1.1267187595367432	 ([wordpad][control])
+I(2 3): 1.1210253238677979	 ([site,][vulnerabilty])
+I(6 11): -1.0327353477478027	 ([attacker][system.])
+I(0 9): -1.0013463497161865	 ([according][control])
+I(9 11): -0.9862148761749268	 ([control][system.])
+I(0 11): -0.9807021617889404	 ([according][system.])
+I(5 6): -0.9646570682525635	 ([allows][attacker])
+I(7 8): 0.9635562896728516	 ([take][complete])
+I(1 6): 0.9402420520782471	 ([microsoft][attacker])
+I(6 10): -0.8765394687652588	 ([attacker][affected])
+I(2 10): -0.8066854476928711	 ([site,][affected])
+I(0 8): -0.7244970798492432	 ([according][complete])
+I(2 7): -0.7216496467590332	 ([site,][take])
+I(7 9): 0.7065057754516602	 ([take][control])
+I(1 9): -0.7011020183563232	 ([microsoft][control])
+I(5 7): 0.6821131706237793	 ([allows][take])
+I(7 10): 0.6738097667694092	 ([take][affected])
+I(5 9): -0.5814406871795654	 ([allows][control])
+I(0 5): 0.5112683773040771	 ([according][allows])
+I(6 7): -0.4703078269958496	 ([attacker][take])
+I(8 10): -0.4693417549133301	 ([complete][affected])
+I(7 11): -0.45971059799194336	 ([take][system.])
+I(3 5): 0.4304945468902588	 ([vulnerabilty][allows])
+I(4 6): 0.3523578643798828	 ([wordpad][attacker])
+I(6 9): 0.3450183868408203	 ([attacker][control])
+I(3 7): 0.30240845680236816	 ([vulnerabilty][take])
+I(0 6): -0.29558515548706055	 ([according][attacker])
+I(4 10): 0.2839334011077881	 ([wordpad][affected])
+I(5 10): -0.26929664611816406	 ([allows][affected])
+I(3 11): 0.26389312744140625	 ([vulnerabilty][system.])
+I(4 7): 0.1869049072265625	 ([wordpad][take])
+I(0 4): 0.1642601490020752	 ([according][wordpad])
+I(0 2): -0.15426325798034668	 ([according][site,])
+I(3 8): -0.15046191215515137	 ([vulnerabilty][complete])
+Sum: -25.777351140975952
+==================================================

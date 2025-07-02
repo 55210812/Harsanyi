@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 17:53:19
+prompt: [CLS] baghdad - radical shiite cleric muqtada sadrs movement will not participate in the national iraqi elections due on january 30, sadrs senior assistant asserted on friday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:13952 decoded_text: baghdad
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:7490 decoded_text: radical
+idx:4 input_id:11895 decoded_text: shi
+idx:5 input_id:4221 decoded_text: ##ite
+idx:6 input_id:29307 decoded_text: cleric
+idx:7 input_id:14163 decoded_text: mu
+idx:8 input_id:4160 decoded_text: ##q
+idx:9 input_id:17713 decoded_text: ##tad
+idx:10 input_id:2050 decoded_text: ##a
+idx:11 input_id:6517 decoded_text: sad
+idx:12 input_id:2869 decoded_text: ##rs
+idx:13 input_id:2929 decoded_text: movement
+idx:14 input_id:2097 decoded_text: will
+idx:15 input_id:2025 decoded_text: not
+idx:16 input_id:5589 decoded_text: participate
+idx:17 input_id:1999 decoded_text: in
+idx:18 input_id:1996 decoded_text: the
+idx:19 input_id:2120 decoded_text: national
+idx:20 input_id:8956 decoded_text: iraqi
+idx:21 input_id:3864 decoded_text: elections
+idx:22 input_id:2349 decoded_text: due
+idx:23 input_id:2006 decoded_text: on
+idx:24 input_id:2254 decoded_text: january
+idx:25 input_id:2382 decoded_text: 30
+idx:26 input_id:1010 decoded_text: ,
+idx:27 input_id:6517 decoded_text: sad
+idx:28 input_id:2869 decoded_text: ##rs
+idx:29 input_id:3026 decoded_text: senior
+idx:30 input_id:3353 decoded_text: assistant
+idx:31 input_id:13647 decoded_text: asserted
+idx:32 input_id:2006 decoded_text: on
+idx:33 input_id:5958 decoded_text: friday
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.3002400398254395, -1.9790561199188232, -2.231341600418091, -2.8411567211151123]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

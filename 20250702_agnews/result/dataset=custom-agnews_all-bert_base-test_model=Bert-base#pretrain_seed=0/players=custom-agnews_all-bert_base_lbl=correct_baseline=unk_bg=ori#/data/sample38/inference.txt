@@ -1,0 +1,40 @@
+Execution time: 2025-07-02 17:17:20
+prompt: [CLS] asian stock markets closed mixed monday, with the key indexes dipping both in hong kong and singapore. japanese financial markets were closed for a national holiday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4004 decoded_text: asian
+idx:2 input_id:4518 decoded_text: stock
+idx:3 input_id:6089 decoded_text: markets
+idx:4 input_id:2701 decoded_text: closed
+idx:5 input_id:3816 decoded_text: mixed
+idx:6 input_id:6928 decoded_text: monday
+idx:7 input_id:1010 decoded_text: ,
+idx:8 input_id:2007 decoded_text: with
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:3145 decoded_text: key
+idx:11 input_id:5950 decoded_text: index
+idx:12 input_id:2229 decoded_text: ##es
+idx:13 input_id:23427 decoded_text: dipping
+idx:14 input_id:2119 decoded_text: both
+idx:15 input_id:1999 decoded_text: in
+idx:16 input_id:4291 decoded_text: hong
+idx:17 input_id:4290 decoded_text: kong
+idx:18 input_id:1998 decoded_text: and
+idx:19 input_id:5264 decoded_text: singapore
+idx:20 input_id:1012 decoded_text: .
+idx:21 input_id:2887 decoded_text: japanese
+idx:22 input_id:3361 decoded_text: financial
+idx:23 input_id:6089 decoded_text: markets
+idx:24 input_id:2020 decoded_text: were
+idx:25 input_id:2701 decoded_text: closed
+idx:26 input_id:2005 decoded_text: for
+idx:27 input_id:1037 decoded_text: a
+idx:28 input_id:2120 decoded_text: national
+idx:29 input_id:6209 decoded_text: holiday
+idx:30 input_id:1012 decoded_text: .
+idx:31 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-0.6470639109611511, -3.243264675140381, 6.049072742462158, -3.904853582382202]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

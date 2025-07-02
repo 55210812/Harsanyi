@@ -1,0 +1,38 @@
+Execution time: 2025-07-02 17:20:02
+prompt: [CLS] early autumn is a fine time for stargazers, with generally clear skies, moderate temperatures and darkness falling earlier and earlier in the evenings. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2220 decoded_text: early
+idx:2 input_id:7114 decoded_text: autumn
+idx:3 input_id:2003 decoded_text: is
+idx:4 input_id:1037 decoded_text: a
+idx:5 input_id:2986 decoded_text: fine
+idx:6 input_id:2051 decoded_text: time
+idx:7 input_id:2005 decoded_text: for
+idx:8 input_id:2732 decoded_text: star
+idx:9 input_id:3654 decoded_text: ##ga
+idx:10 input_id:16750 decoded_text: ##zers
+idx:11 input_id:1010 decoded_text: ,
+idx:12 input_id:2007 decoded_text: with
+idx:13 input_id:3227 decoded_text: generally
+idx:14 input_id:3154 decoded_text: clear
+idx:15 input_id:15717 decoded_text: skies
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:8777 decoded_text: moderate
+idx:18 input_id:7715 decoded_text: temperatures
+idx:19 input_id:1998 decoded_text: and
+idx:20 input_id:4768 decoded_text: darkness
+idx:21 input_id:4634 decoded_text: falling
+idx:22 input_id:3041 decoded_text: earlier
+idx:23 input_id:1998 decoded_text: and
+idx:24 input_id:3041 decoded_text: earlier
+idx:25 input_id:1999 decoded_text: in
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:16241 decoded_text: evenings
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-0.22022946178913116, -2.5081443786621094, -3.3292808532714844, 6.32151985168457]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

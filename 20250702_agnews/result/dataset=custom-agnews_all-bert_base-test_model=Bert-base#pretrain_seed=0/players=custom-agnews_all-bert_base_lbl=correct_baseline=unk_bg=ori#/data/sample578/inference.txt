@@ -1,0 +1,36 @@
+Execution time: 2025-07-02 17:43:26
+prompt: [CLS] cuba restores contacts with eight eu embassies in havana, ending a bitter row over " dissident cocktail wars ". [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:7394 decoded_text: cuba
+idx:2 input_id:9239 decoded_text: restore
+idx:3 input_id:2015 decoded_text: ##s
+idx:4 input_id:10402 decoded_text: contacts
+idx:5 input_id:2007 decoded_text: with
+idx:6 input_id:2809 decoded_text: eight
+idx:7 input_id:7327 decoded_text: eu
+idx:8 input_id:7861 decoded_text: em
+idx:9 input_id:22083 decoded_text: ##bas
+idx:10 input_id:14625 decoded_text: ##sies
+idx:11 input_id:1999 decoded_text: in
+idx:12 input_id:15278 decoded_text: havana
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:4566 decoded_text: ending
+idx:15 input_id:1037 decoded_text: a
+idx:16 input_id:8618 decoded_text: bitter
+idx:17 input_id:5216 decoded_text: row
+idx:18 input_id:2058 decoded_text: over
+idx:19 input_id:1000 decoded_text: "
+idx:20 input_id:4487 decoded_text: di
+idx:21 input_id:18719 decoded_text: ##ssi
+idx:22 input_id:16454 decoded_text: ##dent
+idx:23 input_id:18901 decoded_text: cocktail
+idx:24 input_id:5233 decoded_text: wars
+idx:25 input_id:1000 decoded_text: "
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.772320747375488, -2.794286012649536, -1.3462371826171875, -2.6471669673919678]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

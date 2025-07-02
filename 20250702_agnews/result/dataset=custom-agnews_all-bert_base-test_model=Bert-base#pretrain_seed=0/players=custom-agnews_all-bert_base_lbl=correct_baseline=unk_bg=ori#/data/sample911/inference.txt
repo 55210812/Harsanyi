@@ -1,0 +1,36 @@
+Execution time: 2025-07-02 17:57:03
+prompt: [CLS] a house - senate conference committee thursday agreed to legislation that will extend key components of the bush tax cuts for up to six years. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:2160 decoded_text: house
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:4001 decoded_text: senate
+idx:5 input_id:3034 decoded_text: conference
+idx:6 input_id:2837 decoded_text: committee
+idx:7 input_id:9432 decoded_text: thursday
+idx:8 input_id:3530 decoded_text: agreed
+idx:9 input_id:2000 decoded_text: to
+idx:10 input_id:6094 decoded_text: legislation
+idx:11 input_id:2008 decoded_text: that
+idx:12 input_id:2097 decoded_text: will
+idx:13 input_id:7949 decoded_text: extend
+idx:14 input_id:3145 decoded_text: key
+idx:15 input_id:6177 decoded_text: components
+idx:16 input_id:1997 decoded_text: of
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:5747 decoded_text: bush
+idx:19 input_id:4171 decoded_text: tax
+idx:20 input_id:7659 decoded_text: cuts
+idx:21 input_id:2005 decoded_text: for
+idx:22 input_id:2039 decoded_text: up
+idx:23 input_id:2000 decoded_text: to
+idx:24 input_id:2416 decoded_text: six
+idx:25 input_id:2086 decoded_text: years
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-0.07008552551269531, -3.3280389308929443, 5.341318130493164, -3.649197816848755]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

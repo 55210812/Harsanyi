@@ -1,0 +1,45 @@
+Execution time: 2025-07-02 17:44:30
+prompt: [CLS] reuters - a german singer who plays snow white has lost her job at dresden's \ christmas market after posing for nude photos in a bathtub, bild newspaper says. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26665 decoded_text: reuters
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:1037 decoded_text: a
+idx:4 input_id:2446 decoded_text: german
+idx:5 input_id:3220 decoded_text: singer
+idx:6 input_id:2040 decoded_text: who
+idx:7 input_id:3248 decoded_text: plays
+idx:8 input_id:4586 decoded_text: snow
+idx:9 input_id:2317 decoded_text: white
+idx:10 input_id:2038 decoded_text: has
+idx:11 input_id:2439 decoded_text: lost
+idx:12 input_id:2014 decoded_text: her
+idx:13 input_id:3105 decoded_text: job
+idx:14 input_id:2012 decoded_text: at
+idx:15 input_id:12983 decoded_text: dresden
+idx:16 input_id:1005 decoded_text: '
+idx:17 input_id:1055 decoded_text: s
+idx:18 input_id:1032 decoded_text: \
+idx:19 input_id:4234 decoded_text: christmas
+idx:20 input_id:3006 decoded_text: market
+idx:21 input_id:2044 decoded_text: after
+idx:22 input_id:20540 decoded_text: posing
+idx:23 input_id:2005 decoded_text: for
+idx:24 input_id:15287 decoded_text: nude
+idx:25 input_id:7760 decoded_text: photos
+idx:26 input_id:1999 decoded_text: in
+idx:27 input_id:1037 decoded_text: a
+idx:28 input_id:7198 decoded_text: bath
+idx:29 input_id:28251 decoded_text: ##tub
+idx:30 input_id:1010 decoded_text: ,
+idx:31 input_id:12170 decoded_text: bi
+idx:32 input_id:6392 decoded_text: ##ld
+idx:33 input_id:3780 decoded_text: newspaper
+idx:34 input_id:2758 decoded_text: says
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.667013645172119, -2.062988758087158, -1.9569393396377563, -2.602465867996216]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

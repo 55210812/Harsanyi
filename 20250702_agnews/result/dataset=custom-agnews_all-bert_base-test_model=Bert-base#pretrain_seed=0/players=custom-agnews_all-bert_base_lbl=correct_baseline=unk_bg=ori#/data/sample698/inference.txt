@@ -1,0 +1,61 @@
+Execution time: 2025-07-02 17:47:51
+prompt: [CLS] rome - as roma hired luigi del neri as coach on wednesday to replace rudi voeller, who resigned last sunday. the 54 - year - old italian coach and roma officials agreed on a two - year contract, but terms were not immediately disclosed. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4199 decoded_text: rome
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:2004 decoded_text: as
+idx:4 input_id:12836 decoded_text: roma
+idx:5 input_id:5086 decoded_text: hired
+idx:6 input_id:15153 decoded_text: luigi
+idx:7 input_id:3972 decoded_text: del
+idx:8 input_id:11265 decoded_text: ne
+idx:9 input_id:3089 decoded_text: ##ri
+idx:10 input_id:2004 decoded_text: as
+idx:11 input_id:2873 decoded_text: coach
+idx:12 input_id:2006 decoded_text: on
+idx:13 input_id:9317 decoded_text: wednesday
+idx:14 input_id:2000 decoded_text: to
+idx:15 input_id:5672 decoded_text: replace
+idx:16 input_id:21766 decoded_text: ru
+idx:17 input_id:4305 decoded_text: ##di
+idx:18 input_id:29536 decoded_text: vo
+idx:19 input_id:24038 decoded_text: ##eller
+idx:20 input_id:1010 decoded_text: ,
+idx:21 input_id:2040 decoded_text: who
+idx:22 input_id:5295 decoded_text: resigned
+idx:23 input_id:2197 decoded_text: last
+idx:24 input_id:4465 decoded_text: sunday
+idx:25 input_id:1012 decoded_text: .
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:5139 decoded_text: 54
+idx:28 input_id:1011 decoded_text: -
+idx:29 input_id:2095 decoded_text: year
+idx:30 input_id:1011 decoded_text: -
+idx:31 input_id:2214 decoded_text: old
+idx:32 input_id:3059 decoded_text: italian
+idx:33 input_id:2873 decoded_text: coach
+idx:34 input_id:1998 decoded_text: and
+idx:35 input_id:12836 decoded_text: roma
+idx:36 input_id:4584 decoded_text: officials
+idx:37 input_id:3530 decoded_text: agreed
+idx:38 input_id:2006 decoded_text: on
+idx:39 input_id:1037 decoded_text: a
+idx:40 input_id:2048 decoded_text: two
+idx:41 input_id:1011 decoded_text: -
+idx:42 input_id:2095 decoded_text: year
+idx:43 input_id:3206 decoded_text: contract
+idx:44 input_id:1010 decoded_text: ,
+idx:45 input_id:2021 decoded_text: but
+idx:46 input_id:3408 decoded_text: terms
+idx:47 input_id:2020 decoded_text: were
+idx:48 input_id:2025 decoded_text: not
+idx:49 input_id:3202 decoded_text: immediately
+idx:50 input_id:21362 decoded_text: disclosed
+idx:51 input_id:1012 decoded_text: .
+idx:52 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.0571166276931763, 8.506975173950195, -3.1377029418945312, -2.5842878818511963]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

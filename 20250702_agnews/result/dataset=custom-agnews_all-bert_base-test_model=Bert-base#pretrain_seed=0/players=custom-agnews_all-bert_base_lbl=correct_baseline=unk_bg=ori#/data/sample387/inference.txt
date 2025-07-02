@@ -1,0 +1,62 @@
+Execution time: 2025-07-02 17:32:13
+prompt: [CLS] the disputed olympic gold medal is wrapped in a pair of white socks in paul hamm # 39 ; s parents # 39 ; house in waukesha, wis. whether that medal stays there is up to the court of arbitration for sport in lausanne, switzerland [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:11621 decoded_text: disputed
+idx:3 input_id:4386 decoded_text: olympic
+idx:4 input_id:2751 decoded_text: gold
+idx:5 input_id:3101 decoded_text: medal
+idx:6 input_id:2003 decoded_text: is
+idx:7 input_id:5058 decoded_text: wrapped
+idx:8 input_id:1999 decoded_text: in
+idx:9 input_id:1037 decoded_text: a
+idx:10 input_id:3940 decoded_text: pair
+idx:11 input_id:1997 decoded_text: of
+idx:12 input_id:2317 decoded_text: white
+idx:13 input_id:14829 decoded_text: socks
+idx:14 input_id:1999 decoded_text: in
+idx:15 input_id:2703 decoded_text: paul
+idx:16 input_id:10654 decoded_text: ham
+idx:17 input_id:2213 decoded_text: ##m
+idx:18 input_id:1001 decoded_text: #
+idx:19 input_id:4464 decoded_text: 39
+idx:20 input_id:1025 decoded_text: ;
+idx:21 input_id:1055 decoded_text: s
+idx:22 input_id:3008 decoded_text: parents
+idx:23 input_id:1001 decoded_text: #
+idx:24 input_id:4464 decoded_text: 39
+idx:25 input_id:1025 decoded_text: ;
+idx:26 input_id:2160 decoded_text: house
+idx:27 input_id:1999 decoded_text: in
+idx:28 input_id:11333 decoded_text: wa
+idx:29 input_id:15851 decoded_text: ##uke
+idx:30 input_id:7377 decoded_text: ##sha
+idx:31 input_id:1010 decoded_text: ,
+idx:32 input_id:15536 decoded_text: wi
+idx:33 input_id:2015 decoded_text: ##s
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:3251 decoded_text: whether
+idx:36 input_id:2008 decoded_text: that
+idx:37 input_id:3101 decoded_text: medal
+idx:38 input_id:12237 decoded_text: stays
+idx:39 input_id:2045 decoded_text: there
+idx:40 input_id:2003 decoded_text: is
+idx:41 input_id:2039 decoded_text: up
+idx:42 input_id:2000 decoded_text: to
+idx:43 input_id:1996 decoded_text: the
+idx:44 input_id:2457 decoded_text: court
+idx:45 input_id:1997 decoded_text: of
+idx:46 input_id:18010 decoded_text: arbitration
+idx:47 input_id:2005 decoded_text: for
+idx:48 input_id:4368 decoded_text: sport
+idx:49 input_id:1999 decoded_text: in
+idx:50 input_id:22256 decoded_text: lausanne
+idx:51 input_id:1010 decoded_text: ,
+idx:52 input_id:5288 decoded_text: switzerland
+idx:53 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.0259759426116943, 8.519012451171875, -2.826978921890259, -2.1550486087799072]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

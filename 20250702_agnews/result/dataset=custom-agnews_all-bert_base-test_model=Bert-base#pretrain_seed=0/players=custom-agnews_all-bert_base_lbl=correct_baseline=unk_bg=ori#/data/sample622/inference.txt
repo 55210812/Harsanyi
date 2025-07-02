@@ -1,0 +1,36 @@
+Execution time: 2025-07-02 17:45:12
+prompt: [CLS] the united states had been confident of coming away from the first olympic women # 39 ; s wrestling tournament with the maximum four medals. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2142 decoded_text: united
+idx:3 input_id:2163 decoded_text: states
+idx:4 input_id:2018 decoded_text: had
+idx:5 input_id:2042 decoded_text: been
+idx:6 input_id:9657 decoded_text: confident
+idx:7 input_id:1997 decoded_text: of
+idx:8 input_id:2746 decoded_text: coming
+idx:9 input_id:2185 decoded_text: away
+idx:10 input_id:2013 decoded_text: from
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:2034 decoded_text: first
+idx:13 input_id:4386 decoded_text: olympic
+idx:14 input_id:2308 decoded_text: women
+idx:15 input_id:1001 decoded_text: #
+idx:16 input_id:4464 decoded_text: 39
+idx:17 input_id:1025 decoded_text: ;
+idx:18 input_id:1055 decoded_text: s
+idx:19 input_id:4843 decoded_text: wrestling
+idx:20 input_id:2977 decoded_text: tournament
+idx:21 input_id:2007 decoded_text: with
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:4555 decoded_text: maximum
+idx:24 input_id:2176 decoded_text: four
+idx:25 input_id:6665 decoded_text: medals
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-0.7401130199432373, 8.178669929504395, -2.7825260162353516, -3.0862371921539307]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

@@ -1,0 +1,39 @@
+Execution time: 2025-07-02 17:46:59
+prompt: [CLS] jakarta : member countries of the association of southeast asian nations ( asean ) announced on saturday they recognize china # 39 ; s full market economy status. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:14426 decoded_text: jakarta
+idx:2 input_id:1024 decoded_text: :
+idx:3 input_id:2266 decoded_text: member
+idx:4 input_id:3032 decoded_text: countries
+idx:5 input_id:1997 decoded_text: of
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:2523 decoded_text: association
+idx:8 input_id:1997 decoded_text: of
+idx:9 input_id:4643 decoded_text: southeast
+idx:10 input_id:4004 decoded_text: asian
+idx:11 input_id:3741 decoded_text: nations
+idx:12 input_id:1006 decoded_text: (
+idx:13 input_id:27974 decoded_text: asean
+idx:14 input_id:1007 decoded_text: )
+idx:15 input_id:2623 decoded_text: announced
+idx:16 input_id:2006 decoded_text: on
+idx:17 input_id:5095 decoded_text: saturday
+idx:18 input_id:2027 decoded_text: they
+idx:19 input_id:6807 decoded_text: recognize
+idx:20 input_id:2859 decoded_text: china
+idx:21 input_id:1001 decoded_text: #
+idx:22 input_id:4464 decoded_text: 39
+idx:23 input_id:1025 decoded_text: ;
+idx:24 input_id:1055 decoded_text: s
+idx:25 input_id:2440 decoded_text: full
+idx:26 input_id:3006 decoded_text: market
+idx:27 input_id:4610 decoded_text: economy
+idx:28 input_id:3570 decoded_text: status
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.014953136444092, -3.9305880069732666, 1.8254761695861816, -2.9400603771209717]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

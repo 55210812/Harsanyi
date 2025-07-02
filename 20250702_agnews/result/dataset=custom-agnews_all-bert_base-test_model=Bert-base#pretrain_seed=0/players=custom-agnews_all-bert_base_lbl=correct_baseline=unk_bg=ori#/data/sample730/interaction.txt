@@ -1,0 +1,96 @@
+---------- Players ----------
+Player 0: consumer
+Player 1: confidence
+Player 2: increased
+Player 3: slightly
+Player 4: across
+Player 5: region
+Player 6: going
+Player 7: christmas
+Player 8: shopping
+Player 9: season,
+Player 10: although
+Player 11: remains
+Player 12: levels
+Player 13: year
+Player 14: before.
+---------- AND Interactions (Pairwise Only) ----------
+I(1 7): -10.07719898223877	 ([confidence][christmas])
+I(1 8): -6.222002029418945	 ([confidence][shopping])
+I(7 8): -5.765663146972656	 ([christmas][shopping])
+I(0 7): -5.6284708976745605	 ([consumer][christmas])
+I(0 8): -4.9705491065979	 ([consumer][shopping])
+I(0 1): -4.804752826690674	 ([consumer][confidence])
+I(7 9): -4.774322509765625	 ([christmas][season,])
+I(1 9): -4.116880893707275	 ([confidence][season,])
+I(13 14): 3.6525075435638428	 ([year][before.])
+I(9 11): -2.7621424198150635	 ([season,][remains])
+I(1 13): 2.48966121673584	 ([confidence][year])
+I(5 6): 2.394911289215088	 ([region][going])
+I(2 7): -2.2914514541625977	 ([increased][christmas])
+I(2 3): -2.1938300132751465	 ([increased][slightly])
+I(9 10): -2.0192909240722656	 ([season,][although])
+I(2 13): 1.7794289588928223	 ([increased][year])
+I(0 13): 1.7594308853149414	 ([consumer][year])
+I(1 2): -1.7014827728271484	 ([confidence][increased])
+I(0 3): -1.6626360416412354	 ([consumer][slightly])
+I(6 9): 1.5604262351989746	 ([going][season,])
+I(7 13): 1.5521697998046875	 ([christmas][year])
+I(2 4): -1.5064425468444824	 ([increased][across])
+I(4 9): 1.5018792152404785	 ([across][season,])
+I(0 4): -1.4402968883514404	 ([consumer][across])
+I(0 11): -1.4273900985717773	 ([consumer][remains])
+I(0 6): -1.3250505924224854	 ([consumer][going])
+I(0 9): -1.258352279663086	 ([consumer][season,])
+I(8 9): -1.2131543159484863	 ([shopping][season,])
+I(3 5): -1.1384549140930176	 ([slightly][region])
+I(1 5): -1.0824694633483887	 ([confidence][region])
+I(9 13): 1.080620288848877	 ([season,][year])
+I(1 6): 1.0796689987182617	 ([confidence][going])
+I(5 14): -1.0627222061157227	 ([region][before.])
+I(0 14): -1.0391077995300293	 ([consumer][before.])
+I(3 9): 1.0096650123596191	 ([slightly][season,])
+I(5 9): 1.0071048736572266	 ([region][season,])
+I(11 14): -0.9676895141601562	 ([remains][before.])
+I(2 5): 0.9083995819091797	 ([increased][region])
+I(9 14): -0.8810176849365234	 ([season,][before.])
+I(4 13): -0.8467962741851807	 ([across][year])
+I(4 6): 0.8193838596343994	 ([across][going])
+I(7 11): -0.8146862983703613	 ([christmas][remains])
+I(5 7): -0.7904758453369141	 ([region][christmas])
+I(5 13): 0.7726359367370605	 ([region][year])
+I(5 8): 0.7362499237060547	 ([region][shopping])
+I(8 13): 0.6980476379394531	 ([shopping][year])
+I(1 11): -0.6928200721740723	 ([confidence][remains])
+I(4 7): -0.6863317489624023	 ([across][christmas])
+I(6 7): 0.6750078201293945	 ([going][christmas])
+I(6 12): -0.6281213760375977	 ([going][levels])
+I(1 3): 0.6243181228637695	 ([confidence][slightly])
+I(1 14): 0.6183810234069824	 ([confidence][before.])
+I(10 11): -0.5611124038696289	 ([although][remains])
+I(2 12): 0.5562636852264404	 ([increased][levels])
+I(0 10): -0.5510702133178711	 ([consumer][although])
+I(7 12): -0.5357894897460938	 ([christmas][levels])
+I(2 10): -0.5159883499145508	 ([increased][although])
+I(1 4): -0.4981043338775635	 ([confidence][across])
+I(0 5): 0.49472856521606445	 ([consumer][region])
+I(4 8): -0.4817333221435547	 ([across][shopping])
+I(10 12): -0.42912817001342773	 ([although][levels])
+I(4 10): -0.419752836227417	 ([across][although])
+I(6 10): 0.4189167022705078	 ([going][although])
+I(0 2): -0.40915894508361816	 ([consumer][increased])
+I(3 8): -0.4073934555053711	 ([slightly][shopping])
+I(8 10): -0.3922572135925293	 ([shopping][although])
+I(5 11): -0.38244199752807617	 ([region][remains])
+I(3 4): -0.3795044422149658	 ([slightly][across])
+I(11 13): -0.37537479400634766	 ([remains][year])
+I(6 14): 0.36134910583496094	 ([going][before.])
+I(8 11): 0.3571906089782715	 ([shopping][remains])
+I(8 12): 0.32454586029052734	 ([shopping][levels])
+I(12 13): 0.32193517684936523	 ([levels][year])
+I(3 6): 0.2977485656738281	 ([slightly][going])
+I(2 8): 0.29172706604003906	 ([increased][shopping])
+I(9 12): 0.2910466194152832	 ([season,][levels])
+I(10 13): 0.28946495056152344	 ([although][year])
+Sum: -12.252359390258789
+==================================================

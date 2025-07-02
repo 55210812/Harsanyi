@@ -1,0 +1,40 @@
+Execution time: 2025-07-02 17:46:41
+prompt: [CLS] for bill belichick, it isn't a preference. in his mind, turning ncaa defensive ends into nfl linebackers is practically a necessity. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2005 decoded_text: for
+idx:2 input_id:3021 decoded_text: bill
+idx:3 input_id:19337 decoded_text: bel
+idx:4 input_id:11319 decoded_text: ##ichi
+idx:5 input_id:3600 decoded_text: ##ck
+idx:6 input_id:1010 decoded_text: ,
+idx:7 input_id:2009 decoded_text: it
+idx:8 input_id:3475 decoded_text: isn
+idx:9 input_id:1005 decoded_text: '
+idx:10 input_id:1056 decoded_text: t
+idx:11 input_id:1037 decoded_text: a
+idx:12 input_id:12157 decoded_text: preference
+idx:13 input_id:1012 decoded_text: .
+idx:14 input_id:1999 decoded_text: in
+idx:15 input_id:2010 decoded_text: his
+idx:16 input_id:2568 decoded_text: mind
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:3810 decoded_text: turning
+idx:19 input_id:5803 decoded_text: ncaa
+idx:20 input_id:5600 decoded_text: defensive
+idx:21 input_id:4515 decoded_text: ends
+idx:22 input_id:2046 decoded_text: into
+idx:23 input_id:5088 decoded_text: nfl
+idx:24 input_id:15674 decoded_text: linebacker
+idx:25 input_id:2015 decoded_text: ##s
+idx:26 input_id:2003 decoded_text: is
+idx:27 input_id:8134 decoded_text: practically
+idx:28 input_id:1037 decoded_text: a
+idx:29 input_id:13185 decoded_text: necessity
+idx:30 input_id:1012 decoded_text: .
+idx:31 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-0.4336788058280945, 8.158122062683105, -2.9903807640075684, -3.067605495452881]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

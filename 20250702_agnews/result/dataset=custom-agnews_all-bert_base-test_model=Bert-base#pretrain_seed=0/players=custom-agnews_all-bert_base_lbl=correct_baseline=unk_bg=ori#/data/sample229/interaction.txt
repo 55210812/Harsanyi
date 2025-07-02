@@ -1,0 +1,88 @@
+---------- Players ----------
+Player 0: two
+Player 1: germany's
+Player 2: biggest
+Player 3: banks,
+Player 4: postbank
+Player 5: deutsche
+Player 6: bank,
+Player 7: targets
+Player 8: coordinated
+Player 9: phishing
+Player 10: attacks
+Player 11: last
+Player 12: week.
+---------- AND Interactions (Pairwise Only) ----------
+I(6 9): 10.726144790649414	 ([bank,][phishing])
+I(6 10): 10.030340194702148	 ([bank,][attacks])
+I(3 6): 7.009076118469238	 ([banks,][bank,])
+I(1 3): 6.589041233062744	 ([germany's][banks,])
+I(4 8): 6.393860340118408	 ([postbank][coordinated])
+I(1 9): 6.32117223739624	 ([germany's][phishing])
+I(11 12): 6.271804332733154	 ([last][week.])
+I(4 7): 6.118550777435303	 ([postbank][targets])
+I(3 9): 5.873757839202881	 ([banks,][phishing])
+I(1 6): 5.662361145019531	 ([germany's][bank,])
+I(3 10): 5.359962463378906	 ([banks,][attacks])
+I(4 10): 5.217738628387451	 ([postbank][attacks])
+I(6 12): 5.0447282791137695	 ([bank,][week.])
+I(5 6): 5.044449806213379	 ([deutsche][bank,])
+I(9 12): 4.849737644195557	 ([phishing][week.])
+I(5 9): 4.394197463989258	 ([deutsche][phishing])
+I(6 7): 4.2716522216796875	 ([bank,][targets])
+I(10 12): 4.2530131340026855	 ([attacks][week.])
+I(2 8): 4.134393692016602	 ([biggest][coordinated])
+I(6 8): 3.9572935104370117	 ([bank,][coordinated])
+I(4 6): 3.9426755905151367	 ([postbank][bank,])
+I(2 6): 3.8665084838867188	 ([biggest][bank,])
+I(4 9): 3.8399252891540527	 ([postbank][phishing])
+I(1 5): 3.8323354721069336	 ([germany's][deutsche])
+I(7 9): 3.5681052207946777	 ([targets][phishing])
+I(2 9): 3.346508026123047	 ([biggest][phishing])
+I(2 4): -3.2618026733398438	 ([biggest][postbank])
+I(1 7): -3.2265048027038574	 ([germany's][targets])
+I(3 8): 3.0336055755615234	 ([banks,][coordinated])
+I(2 10): 3.02245831489563	 ([biggest][attacks])
+I(1 2): 2.808804512023926	 ([germany's][biggest])
+I(7 8): 2.777737855911255	 ([targets][coordinated])
+I(9 10): 2.5780858993530273	 ([phishing][attacks])
+I(3 7): 2.3663840293884277	 ([banks,][targets])
+I(8 9): 2.2969796657562256	 ([coordinated][phishing])
+I(5 10): 2.285095691680908	 ([deutsche][attacks])
+I(7 11): 2.2120742797851562	 ([targets][last])
+I(8 10): 2.183159112930298	 ([coordinated][attacks])
+I(3 12): 1.8528547286987305	 ([banks,][week.])
+I(1 10): 1.6012306213378906	 ([germany's][attacks])
+I(4 5): -1.5351266860961914	 ([postbank][deutsche])
+I(5 8): 1.506734848022461	 ([deutsche][coordinated])
+I(5 7): 1.4546165466308594	 ([deutsche][targets])
+I(4 12): 1.443979263305664	 ([postbank][week.])
+I(4 11): 1.3895750045776367	 ([postbank][last])
+I(5 12): 1.338956356048584	 ([deutsche][week.])
+I(1 8): 1.2948813438415527	 ([germany's][coordinated])
+I(9 11): 1.261601448059082	 ([phishing][last])
+I(1 11): 1.2195324897766113	 ([germany's][last])
+I(0 3): 1.1551947593688965	 ([two][banks,])
+I(1 4): 1.1447086334228516	 ([germany's][postbank])
+I(6 11): 1.1441059112548828	 ([bank,][last])
+I(8 11): 1.1269011497497559	 ([coordinated][last])
+I(2 3): -1.0566720962524414	 ([biggest][banks,])
+I(3 5): 1.026473045349121	 ([banks,][deutsche])
+I(10 11): 1.0215036869049072	 ([attacks][last])
+I(2 12): 1.003636360168457	 ([biggest][week.])
+I(8 12): 0.9929563999176025	 ([coordinated][week.])
+I(2 7): 0.9732723236083984	 ([biggest][targets])
+I(0 4): -0.9209675788879395	 ([two][postbank])
+I(3 11): 0.8557887077331543	 ([banks,][last])
+I(0 6): 0.7695169448852539	 ([two][bank,])
+I(1 12): 0.6894640922546387	 ([germany's][week.])
+I(0 2): 0.6657466888427734	 ([two][biggest])
+I(0 12): 0.5916280746459961	 ([two][week.])
+I(7 12): 0.5897073745727539	 ([targets][week.])
+I(0 7): -0.4648003578186035	 ([two][targets])
+I(2 5): 0.4320220947265625	 ([biggest][deutsche])
+I(0 10): 0.39136648178100586	 ([two][attacks])
+I(2 11): 0.34537553787231445	 ([biggest][last])
+I(5 11): 0.3114151954650879	 ([deutsche][last])
+Sum: 137.8150773048401
+==================================================

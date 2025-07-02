@@ -1,0 +1,104 @@
+---------- Players ----------
+Player 0: david
+Player 1: blunkett
+Player 2: urged
+Player 3: bring
+Player 4: forward
+Player 5: plans
+Player 6: allow
+Player 7: phone - tapping
+Player 8: evidence
+Player 9: uk
+Player 10: courts
+Player 11: trials
+Player 12: foreign
+Player 13: terror
+Player 14: suspects
+Player 15: go
+Player 16: ahead.
+---------- AND Interactions (Pairwise Only) ----------
+I(10 11): -8.407821655273438	 ([courts][trials])
+I(0 1): 8.33039665222168	 ([david][blunkett])
+I(9 10): -8.298721313476562	 ([uk][courts])
+I(8 10): -7.72403621673584	 ([evidence][courts])
+I(10 14): -6.66151237487793	 ([courts][suspects])
+I(3 10): -4.751089096069336	 ([bring][courts])
+I(13 14): -4.580766201019287	 ([terror][suspects])
+I(1 11): -3.9517717361450195	 ([blunkett][trials])
+I(12 14): -3.8718223571777344	 ([foreign][suspects])
+I(1 2): 3.732090950012207	 ([blunkett][urged])
+I(10 13): -3.682140350341797	 ([courts][terror])
+I(10 15): -3.163668632507324	 ([courts][go])
+I(7 14): -3.0604162216186523	 ([phone - tapping][suspects])
+I(2 10): -2.907965660095215	 ([urged][courts])
+I(6 10): -2.8572206497192383	 ([allow][courts])
+I(7 10): -2.783203125	 ([phone - tapping][courts])
+I(0 2): 2.7239232063293457	 ([david][urged])
+I(9 14): 2.706202983856201	 ([uk][suspects])
+I(5 10): -2.178752899169922	 ([plans][courts])
+I(6 14): -1.9662365913391113	 ([allow][suspects])
+I(10 12): -1.9557981491088867	 ([courts][foreign])
+I(1 10): -1.9267940521240234	 ([blunkett][courts])
+I(1 15): -1.763491153717041	 ([blunkett][go])
+I(14 16): 1.7050166130065918	 ([suspects][ahead.])
+I(13 16): -1.6805429458618164	 ([terror][ahead.])
+I(9 11): -1.6671972274780273	 ([uk][trials])
+I(2 11): -1.5219354629516602	 ([urged][trials])
+I(2 7): -1.4823884963989258	 ([urged][phone - tapping])
+I(1 13): -1.4769701957702637	 ([blunkett][terror])
+I(3 14): -1.4630985260009766	 ([bring][suspects])
+I(15 16): -1.3701705932617188	 ([go][ahead.])
+I(11 12): -1.2837185859680176	 ([trials][foreign])
+I(9 16): 1.255936622619629	 ([uk][ahead.])
+I(0 11): -1.212411880493164	 ([david][trials])
+I(9 13): -1.140730381011963	 ([uk][terror])
+I(1 7): -1.088883876800537	 ([blunkett][phone - tapping])
+I(8 13): 1.0746345520019531	 ([evidence][terror])
+I(2 12): -1.0647964477539062	 ([urged][foreign])
+I(10 16): -1.0501947402954102	 ([courts][ahead.])
+I(1 9): 1.0289654731750488	 ([blunkett][uk])
+I(2 8): -1.0177898406982422	 ([urged][evidence])
+I(8 14): -0.9999690055847168	 ([evidence][suspects])
+I(1 6): -0.9959707260131836	 ([blunkett][allow])
+I(3 9): -0.9844179153442383	 ([bring][uk])
+I(2 6): -0.9413576126098633	 ([urged][allow])
+I(6 12): -0.9179778099060059	 ([allow][foreign])
+I(1 4): 0.9139976501464844	 ([blunkett][forward])
+I(1 16): 0.9042882919311523	 ([blunkett][ahead.])
+I(12 15): -0.8955941200256348	 ([foreign][go])
+I(2 16): -0.8766059875488281	 ([urged][ahead.])
+I(8 16): -0.8460903167724609	 ([evidence][ahead.])
+I(2 4): -0.8356237411499023	 ([urged][forward])
+I(9 15): -0.810422420501709	 ([uk][go])
+I(2 3): -0.8060693740844727	 ([urged][bring])
+I(5 14): 0.7748942375183105	 ([plans][suspects])
+I(0 10): 0.7716617584228516	 ([david][courts])
+I(2 15): 0.7575440406799316	 ([urged][go])
+I(3 5): 0.7445964813232422	 ([bring][plans])
+I(12 13): 0.7316875457763672	 ([foreign][terror])
+I(7 12): -0.7001185417175293	 ([phone - tapping][foreign])
+I(11 14): -0.693474292755127	 ([trials][suspects])
+I(0 6): -0.685267448425293	 ([david][allow])
+I(3 12): -0.6779828071594238	 ([bring][foreign])
+I(5 15): 0.6614551544189453	 ([plans][go])
+I(1 12): -0.6494526863098145	 ([blunkett][foreign])
+I(2 9): -0.5532512664794922	 ([urged][uk])
+I(0 9): 0.5489106178283691	 ([david][uk])
+I(0 3): -0.4901123046875	 ([david][bring])
+I(0 13): -0.4710655212402344	 ([david][terror])
+I(4 13): 0.4693489074707031	 ([forward][terror])
+I(8 12): -0.4665369987487793	 ([evidence][foreign])
+I(8 11): 0.4541187286376953	 ([evidence][trials])
+I(7 8): -0.4411783218383789	 ([phone - tapping][evidence])
+I(7 11): -0.4114561080932617	 ([phone - tapping][trials])
+I(5 13): 0.3919248580932617	 ([plans][terror])
+I(1 5): 0.379150390625	 ([blunkett][plans])
+I(8 15): -0.3624124526977539	 ([evidence][go])
+I(0 15): -0.3582019805908203	 ([david][go])
+I(5 16): -0.35466575622558594	 ([plans][ahead.])
+I(14 15): 0.35324811935424805	 ([suspects][go])
+I(9 12): 0.3509182929992676	 ([uk][foreign])
+I(1 14): 0.33893299102783203	 ([blunkett][suspects])
+I(11 16): -0.3368873596191406	 ([trials][ahead.])
+Sum: -46.98991823196411
+==================================================

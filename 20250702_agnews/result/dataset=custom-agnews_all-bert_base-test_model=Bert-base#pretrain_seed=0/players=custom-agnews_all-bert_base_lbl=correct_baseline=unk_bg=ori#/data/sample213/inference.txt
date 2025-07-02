@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 17:25:36
+prompt: [CLS] taiwan condemned china # 39 ; s plan to draft an anti - secession law, describing it saturday as a move to establish a legal basis to attack the self - ruling, democratic island that beijing claims as a province. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:6629 decoded_text: taiwan
+idx:2 input_id:10033 decoded_text: condemned
+idx:3 input_id:2859 decoded_text: china
+idx:4 input_id:1001 decoded_text: #
+idx:5 input_id:4464 decoded_text: 39
+idx:6 input_id:1025 decoded_text: ;
+idx:7 input_id:1055 decoded_text: s
+idx:8 input_id:2933 decoded_text: plan
+idx:9 input_id:2000 decoded_text: to
+idx:10 input_id:4433 decoded_text: draft
+idx:11 input_id:2019 decoded_text: an
+idx:12 input_id:3424 decoded_text: anti
+idx:13 input_id:1011 decoded_text: -
+idx:14 input_id:22965 decoded_text: secession
+idx:15 input_id:2375 decoded_text: law
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:7851 decoded_text: describing
+idx:18 input_id:2009 decoded_text: it
+idx:19 input_id:5095 decoded_text: saturday
+idx:20 input_id:2004 decoded_text: as
+idx:21 input_id:1037 decoded_text: a
+idx:22 input_id:2693 decoded_text: move
+idx:23 input_id:2000 decoded_text: to
+idx:24 input_id:5323 decoded_text: establish
+idx:25 input_id:1037 decoded_text: a
+idx:26 input_id:3423 decoded_text: legal
+idx:27 input_id:3978 decoded_text: basis
+idx:28 input_id:2000 decoded_text: to
+idx:29 input_id:2886 decoded_text: attack
+idx:30 input_id:1996 decoded_text: the
+idx:31 input_id:2969 decoded_text: self
+idx:32 input_id:1011 decoded_text: -
+idx:33 input_id:6996 decoded_text: ruling
+idx:34 input_id:1010 decoded_text: ,
+idx:35 input_id:3537 decoded_text: democratic
+idx:36 input_id:2479 decoded_text: island
+idx:37 input_id:2008 decoded_text: that
+idx:38 input_id:7211 decoded_text: beijing
+idx:39 input_id:4447 decoded_text: claims
+idx:40 input_id:2004 decoded_text: as
+idx:41 input_id:1037 decoded_text: a
+idx:42 input_id:2874 decoded_text: province
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.19708776473999, -2.299318552017212, -2.256171226501465, -2.513336658477783]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

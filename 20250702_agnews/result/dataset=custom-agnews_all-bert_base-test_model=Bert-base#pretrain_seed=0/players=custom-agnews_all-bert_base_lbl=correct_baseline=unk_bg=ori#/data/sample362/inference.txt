@@ -1,0 +1,34 @@
+Execution time: 2025-07-02 17:31:30
+prompt: [CLS] intelligence officials fear that for a new generation of disaffected european muslims, iraq has become a new holy war. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4454 decoded_text: intelligence
+idx:2 input_id:4584 decoded_text: officials
+idx:3 input_id:3571 decoded_text: fear
+idx:4 input_id:2008 decoded_text: that
+idx:5 input_id:2005 decoded_text: for
+idx:6 input_id:1037 decoded_text: a
+idx:7 input_id:2047 decoded_text: new
+idx:8 input_id:4245 decoded_text: generation
+idx:9 input_id:1997 decoded_text: of
+idx:10 input_id:4487 decoded_text: di
+idx:11 input_id:3736 decoded_text: ##sa
+idx:12 input_id:16020 decoded_text: ##ffe
+idx:13 input_id:10985 decoded_text: ##cted
+idx:14 input_id:2647 decoded_text: european
+idx:15 input_id:7486 decoded_text: muslims
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:5712 decoded_text: iraq
+idx:18 input_id:2038 decoded_text: has
+idx:19 input_id:2468 decoded_text: become
+idx:20 input_id:1037 decoded_text: a
+idx:21 input_id:2047 decoded_text: new
+idx:22 input_id:4151 decoded_text: holy
+idx:23 input_id:2162 decoded_text: war
+idx:24 input_id:1012 decoded_text: .
+idx:25 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.160528182983398, -1.9532722234725952, -2.1590828895568848, -2.780333995819092]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

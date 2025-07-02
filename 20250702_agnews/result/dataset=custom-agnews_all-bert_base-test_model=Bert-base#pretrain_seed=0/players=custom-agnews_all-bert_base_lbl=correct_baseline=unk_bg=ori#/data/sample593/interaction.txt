@@ -1,0 +1,112 @@
+---------- Players ----------
+Player 0: government
+Player 1: officials
+Player 2: trying
+Player 3: convince
+Player 4: chief
+Player 5: organizer
+Player 6: 2006
+Player 7: turin
+Player 8: olympics
+Player 9: quit,
+Player 10: valentino
+Player 11: castellani
+Player 12: says
+Player 13: quot ; no
+Player 14: room
+Player 15: second
+Player 16: thoughts.
+---------- AND Interactions (Pairwise Only) ----------
+I(1 3): 4.4152703285217285	 ([officials][convince])
+I(1 16): 3.794098377227783	 ([officials][thoughts.])
+I(1 2): 3.753310203552246	 ([officials][trying])
+I(2 3): 3.436129093170166	 ([trying][convince])
+I(0 10): -3.3513636589050293	 ([government][valentino])
+I(7 8): 3.1939449310302734	 ([turin][olympics])
+I(3 10): 2.947892189025879	 ([convince][valentino])
+I(1 5): 2.6661438941955566	 ([officials][organizer])
+I(1 7): 2.5040149688720703	 ([officials][turin])
+I(9 10): 2.408287525177002	 ([quit,][valentino])
+I(3 9): 2.148301601409912	 ([convince][quit,])
+I(3 4): 1.7382597923278809	 ([convince][chief])
+I(8 13): 1.6253852844238281	 ([olympics][quot ; no])
+I(8 11): -1.477839469909668	 ([olympics][castellani])
+I(5 8): -1.4641304016113281	 ([organizer][olympics])
+I(15 16): 1.4198179244995117	 ([second][thoughts.])
+I(0 2): 1.3854384422302246	 ([government][trying])
+I(1 12): 1.3772354125976562	 ([officials][says])
+I(0 3): 1.3524346351623535	 ([government][convince])
+I(3 5): 1.3375353813171387	 ([convince][organizer])
+I(0 4): -1.3198719024658203	 ([government][chief])
+I(8 10): -1.2961158752441406	 ([olympics][valentino])
+I(2 16): 1.2818307876586914	 ([trying][thoughts.])
+I(2 10): 1.2645785808563232	 ([trying][valentino])
+I(3 6): 1.2333331108093262	 ([convince][2006])
+I(8 16): 1.1811695098876953	 ([olympics][thoughts.])
+I(8 9): 1.17230224609375	 ([olympics][quit,])
+I(4 8): -1.0878791809082031	 ([chief][olympics])
+I(3 16): 1.0646986961364746	 ([convince][thoughts.])
+I(3 8): 1.0573444366455078	 ([convince][olympics])
+I(0 8): -1.051239013671875	 ([government][olympics])
+I(1 10): -1.0307574272155762	 ([officials][valentino])
+I(1 4): -0.9936385154724121	 ([officials][chief])
+I(6 14): -0.9776463508605957	 ([2006][room])
+I(10 11): 0.9524073600769043	 ([valentino][castellani])
+I(11 12): 0.9381504058837891	 ([castellani][says])
+I(8 14): 0.9314060211181641	 ([olympics][room])
+I(2 8): 0.9105968475341797	 ([trying][olympics])
+I(3 11): 0.893420934677124	 ([convince][castellani])
+I(1 6): -0.8777008056640625	 ([officials][2006])
+I(2 4): 0.8533501625061035	 ([trying][chief])
+I(13 16): 0.7963457107543945	 ([quot ; no][thoughts.])
+I(2 11): 0.7797338962554932	 ([trying][castellani])
+I(4 9): 0.7743635177612305	 ([chief][quit,])
+I(0 11): 0.7716231346130371	 ([government][castellani])
+I(6 8): -0.7674427032470703	 ([2006][olympics])
+I(2 7): 0.7586660385131836	 ([trying][turin])
+I(9 11): 0.7518360614776611	 ([quit,][castellani])
+I(13 14): 0.7337760925292969	 ([quot ; no][room])
+I(2 5): 0.7218966484069824	 ([trying][organizer])
+I(1 8): 0.7173576354980469	 ([officials][olympics])
+I(0 6): -0.6851820945739746	 ([government][2006])
+I(8 15): -0.6522855758666992	 ([olympics][second])
+I(3 7): 0.6489853858947754	 ([convince][turin])
+I(6 7): -0.6417584419250488	 ([2006][turin])
+I(4 12): 0.6339192390441895	 ([chief][says])
+I(4 11): 0.6295139789581299	 ([chief][castellani])
+I(2 13): 0.622370719909668	 ([trying][quot ; no])
+I(11 14): 0.6196212768554688	 ([castellani][room])
+I(0 9): 0.6193380355834961	 ([government][quit,])
+I(7 16): 0.5790839195251465	 ([turin][thoughts.])
+I(7 14): 0.5724949836730957	 ([turin][room])
+I(5 7): 0.5661745071411133	 ([organizer][turin])
+I(1 14): 0.5417556762695312	 ([officials][room])
+I(10 12): 0.527381181716919	 ([valentino][says])
+I(6 10): -0.5068848133087158	 ([2006][valentino])
+I(7 13): 0.49029064178466797	 ([turin][quot ; no])
+I(5 6): -0.48663997650146484	 ([organizer][2006])
+I(0 1): 0.475161075592041	 ([government][officials])
+I(5 12): -0.4689350128173828	 ([organizer][says])
+I(14 16): 0.4592580795288086	 ([room][thoughts.])
+I(11 13): 0.45812344551086426	 ([castellani][quot ; no])
+I(10 13): 0.457566499710083	 ([valentino][quot ; no])
+I(6 12): -0.44565677642822266	 ([2006][says])
+I(10 16): -0.4391922950744629	 ([valentino][thoughts.])
+I(3 14): 0.42525243759155273	 ([convince][room])
+I(1 15): -0.42505741119384766	 ([officials][second])
+I(6 9): -0.42345571517944336	 ([2006][quit,])
+I(10 14): 0.4132542610168457	 ([valentino][room])
+I(5 11): 0.40593814849853516	 ([organizer][castellani])
+I(0 14): 0.4056282043457031	 ([government][room])
+I(4 16): 0.4051628112792969	 ([chief][thoughts.])
+I(6 16): -0.3979640007019043	 ([2006][thoughts.])
+I(2 14): 0.36170053482055664	 ([trying][room])
+I(3 13): 0.35886573791503906	 ([convince][quot ; no])
+I(5 9): 0.3588128089904785	 ([organizer][quit,])
+I(9 16): 0.3408050537109375	 ([quit,][thoughts.])
+I(9 12): 0.33872127532958984	 ([quit,][says])
+I(1 9): 0.3293294906616211	 ([officials][quit,])
+I(11 16): 0.3073141574859619	 ([castellani][thoughts.])
+I(2 9): 0.2935061454772949	 ([trying][quit,])
+Sum: 61.85038161277771
+==================================================

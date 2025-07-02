@@ -1,0 +1,54 @@
+Execution time: 2025-07-02 17:47:39
+prompt: [CLS] new york ( reuters ) - sara lee coffee tea said wednesday it was raising its retail coffee prices to keep pace with 14 percent hikes by other major roasters as global bean supply next year shifts from surplus to deficit. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2047 decoded_text: new
+idx:2 input_id:2259 decoded_text: york
+idx:3 input_id:1006 decoded_text: (
+idx:4 input_id:26665 decoded_text: reuters
+idx:5 input_id:1007 decoded_text: )
+idx:6 input_id:1011 decoded_text: -
+idx:7 input_id:7354 decoded_text: sara
+idx:8 input_id:3389 decoded_text: lee
+idx:9 input_id:4157 decoded_text: coffee
+idx:10 input_id:5572 decoded_text: tea
+idx:11 input_id:2056 decoded_text: said
+idx:12 input_id:9317 decoded_text: wednesday
+idx:13 input_id:2009 decoded_text: it
+idx:14 input_id:2001 decoded_text: was
+idx:15 input_id:6274 decoded_text: raising
+idx:16 input_id:2049 decoded_text: its
+idx:17 input_id:7027 decoded_text: retail
+idx:18 input_id:4157 decoded_text: coffee
+idx:19 input_id:7597 decoded_text: prices
+idx:20 input_id:2000 decoded_text: to
+idx:21 input_id:2562 decoded_text: keep
+idx:22 input_id:6393 decoded_text: pace
+idx:23 input_id:2007 decoded_text: with
+idx:24 input_id:2403 decoded_text: 14
+idx:25 input_id:3867 decoded_text: percent
+idx:26 input_id:21857 decoded_text: hike
+idx:27 input_id:2015 decoded_text: ##s
+idx:28 input_id:2011 decoded_text: by
+idx:29 input_id:2060 decoded_text: other
+idx:30 input_id:2350 decoded_text: major
+idx:31 input_id:25043 decoded_text: roast
+idx:32 input_id:2545 decoded_text: ##ers
+idx:33 input_id:2004 decoded_text: as
+idx:34 input_id:3795 decoded_text: global
+idx:35 input_id:14068 decoded_text: bean
+idx:36 input_id:4425 decoded_text: supply
+idx:37 input_id:2279 decoded_text: next
+idx:38 input_id:2095 decoded_text: year
+idx:39 input_id:12363 decoded_text: shifts
+idx:40 input_id:2013 decoded_text: from
+idx:41 input_id:15726 decoded_text: surplus
+idx:42 input_id:2000 decoded_text: to
+idx:43 input_id:15074 decoded_text: deficit
+idx:44 input_id:1012 decoded_text: .
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.831150531768799, -2.5470633506774902, 6.566318988800049, -3.041508436203003]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

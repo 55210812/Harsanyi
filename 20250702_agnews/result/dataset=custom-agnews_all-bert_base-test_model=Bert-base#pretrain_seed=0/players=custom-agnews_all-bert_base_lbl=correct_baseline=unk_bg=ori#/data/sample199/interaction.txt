@@ -1,0 +1,77 @@
+---------- Players ----------
+Player 0: ap
+Player 1: -
+Player 2: tennessee
+Player 3: titans
+Player 4: released
+Player 5: jason
+Player 6: gesser,
+Player 7: third
+Player 8: quarterback,
+Player 9: sunday
+Player 10: plan
+Player 11: replace
+Player 12: veteran.
+---------- AND Interactions (Pairwise Only) ----------
+I(2 3): 5.263994216918945	 ([tennessee][titans])
+I(3 5): 4.67093563079834	 ([titans][jason])
+I(3 8): -4.045086860656738	 ([titans][quarterback,])
+I(0 2): 3.3330016136169434	 ([ap][tennessee])
+I(2 8): -3.325253486633301	 ([tennessee][quarterback,])
+I(8 9): -3.1869029998779297	 ([quarterback,][sunday])
+I(10 11): 2.8864665031433105	 ([plan][replace])
+I(9 11): 2.8427770137786865	 ([sunday][replace])
+I(3 9): 2.795635223388672	 ([titans][sunday])
+I(0 9): 2.711413621902466	 ([ap][sunday])
+I(2 11): 2.3282370567321777	 ([tennessee][replace])
+I(3 11): 2.2900028228759766	 ([titans][replace])
+I(5 9): 2.2583258152008057	 ([jason][sunday])
+I(5 6): 2.225095510482788	 ([jason][gesser,])
+I(6 9): -2.1650142669677734	 ([gesser,][sunday])
+I(8 12): -2.0068044662475586	 ([quarterback,][veteran.])
+I(1 2): 1.9556517601013184	 ([-][tennessee])
+I(0 8): 1.9517412185668945	 ([ap][quarterback,])
+I(6 11): 1.820314645767212	 ([gesser,][replace])
+I(10 12): 1.76652193069458	 ([plan][veteran.])
+I(2 6): -1.7454898357391357	 ([tennessee][gesser,])
+I(1 3): 1.7229924201965332	 ([-][titans])
+I(2 5): 1.6762900352478027	 ([tennessee][jason])
+I(3 12): 1.6706023216247559	 ([titans][veteran.])
+I(9 10): 1.6545474529266357	 ([sunday][plan])
+I(8 10): 1.5979423522949219	 ([quarterback,][plan])
+I(5 8): 1.5748662948608398	 ([jason][quarterback,])
+I(4 9): -1.5298995971679688	 ([released][sunday])
+I(8 11): 1.4878597259521484	 ([quarterback,][replace])
+I(3 6): 1.4045295715332031	 ([titans][gesser,])
+I(0 6): 1.3554489612579346	 ([ap][gesser,])
+I(1 8): 1.280710220336914	 ([-][quarterback,])
+I(2 9): -1.2779388427734375	 ([tennessee][sunday])
+I(11 12): 1.2540431022644043	 ([replace][veteran.])
+I(6 8): -1.1865472793579102	 ([gesser,][quarterback,])
+I(6 10): 1.1437034606933594	 ([gesser,][plan])
+I(4 11): 1.1219167709350586	 ([released][replace])
+I(3 10): -1.0520720481872559	 ([titans][plan])
+I(9 12): -1.0384044647216797	 ([sunday][veteran.])
+I(0 10): 0.997927188873291	 ([ap][plan])
+I(1 6): 0.997169017791748	 ([-][gesser,])
+I(0 11): 0.9607224464416504	 ([ap][replace])
+I(3 4): -0.9557316303253174	 ([titans][released])
+I(0 1): 0.8595643043518066	 ([ap][-])
+I(4 10): 0.8293380737304688	 ([released][plan])
+I(0 3): -0.8283872604370117	 ([ap][titans])
+I(5 11): 0.8106722831726074	 ([jason][replace])
+I(4 7): -0.7931194305419922	 ([released][third])
+I(0 12): 0.7274575233459473	 ([ap][veteran.])
+I(2 10): 0.7182009220123291	 ([tennessee][plan])
+I(4 5): 0.6278200149536133	 ([released][jason])
+I(1 10): 0.59002685546875	 ([-][plan])
+I(0 5): 0.5588011741638184	 ([ap][jason])
+I(1 9): 0.53094482421875	 ([-][sunday])
+I(1 12): 0.5263738632202148	 ([-][veteran.])
+I(1 11): 0.5210943222045898	 ([-][replace])
+I(6 7): 0.5129637718200684	 ([gesser,][third])
+I(0 4): 0.5006871223449707	 ([ap][released])
+I(6 12): -0.4549095630645752	 ([gesser,][veteran.])
+I(7 11): 0.37417173385620117	 ([third][replace])
+Sum: 67.68103837966919
+==================================================

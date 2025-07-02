@@ -1,0 +1,46 @@
+Execution time: 2025-07-02 17:44:54
+prompt: [CLS] oil prices surged 5 percent on friday as frigid weather lingered in the mammoth us northeast heating oil market and militant osama bin laden urged renewed attacks on middle east oil installations. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3514 decoded_text: oil
+idx:2 input_id:7597 decoded_text: prices
+idx:3 input_id:18852 decoded_text: surged
+idx:4 input_id:1019 decoded_text: 5
+idx:5 input_id:3867 decoded_text: percent
+idx:6 input_id:2006 decoded_text: on
+idx:7 input_id:5958 decoded_text: friday
+idx:8 input_id:2004 decoded_text: as
+idx:9 input_id:10424 decoded_text: fr
+idx:10 input_id:8004 decoded_text: ##ig
+idx:11 input_id:3593 decoded_text: ##id
+idx:12 input_id:4633 decoded_text: weather
+idx:13 input_id:17645 decoded_text: lingered
+idx:14 input_id:1999 decoded_text: in
+idx:15 input_id:1996 decoded_text: the
+idx:16 input_id:23714 decoded_text: mammoth
+idx:17 input_id:2149 decoded_text: us
+idx:18 input_id:4794 decoded_text: northeast
+idx:19 input_id:10808 decoded_text: heating
+idx:20 input_id:3514 decoded_text: oil
+idx:21 input_id:3006 decoded_text: market
+idx:22 input_id:1998 decoded_text: and
+idx:23 input_id:16830 decoded_text: militant
+idx:24 input_id:9808 decoded_text: os
+idx:25 input_id:8067 decoded_text: ##ama
+idx:26 input_id:8026 decoded_text: bin
+idx:27 input_id:14887 decoded_text: laden
+idx:28 input_id:9720 decoded_text: urged
+idx:29 input_id:9100 decoded_text: renewed
+idx:30 input_id:4491 decoded_text: attacks
+idx:31 input_id:2006 decoded_text: on
+idx:32 input_id:2690 decoded_text: middle
+idx:33 input_id:2264 decoded_text: east
+idx:34 input_id:3514 decoded_text: oil
+idx:35 input_id:14111 decoded_text: installations
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-0.9617354273796082, -4.284515857696533, 6.161463260650635, -2.872563123703003]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

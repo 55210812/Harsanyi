@@ -1,0 +1,21 @@
+---------- Players ----------
+Player 0: & lt ; strong & gt ; competition & lt ; / strong & gt ;
+Player 1: get
+Player 2: suggestions
+---------- Rewards ----------
+v(): 5.306805610656738	 ([])
+v(0): 8.20997142791748	 ([& lt ; strong & gt ; competition & lt ; / strong & gt ;])
+v(1): 5.841231822967529	 ([get])
+v(2): 3.930598258972168	 ([suggestions])
+v(0 1): 8.327008247375488	 ([& lt ; strong & gt ; competition & lt ; / strong & gt ;][get])
+v(0 2): 7.879169464111328	 ([& lt ; strong & gt ; competition & lt ; / strong & gt ;][suggestions])
+v(1 2): 6.1781792640686035	 ([get][suggestions])
+---------- Rewards-v() ----------
+v(0 1): 3.02020263671875, EP: 3.46602463722229	 ([& lt ; strong & gt ; competition & lt ; / strong & gt ;][get])
+v(0): 2.903165817260742, EP: 3.331711769104004	 ([& lt ; strong & gt ; competition & lt ; / strong & gt ;])
+v(0 2): 2.57236385345459, EP: 2.9520790576934814	 ([& lt ; strong & gt ; competition & lt ; / strong & gt ;][suggestions])
+v(2): -1.3762073516845703, EP: -1.579353928565979	 ([suggestions])
+v(1 2): 0.8713736534118652, EP: 1.0	 ([get][suggestions])
+v(1): 0.534426212310791, EP: 0.6133146286010742	 ([get])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

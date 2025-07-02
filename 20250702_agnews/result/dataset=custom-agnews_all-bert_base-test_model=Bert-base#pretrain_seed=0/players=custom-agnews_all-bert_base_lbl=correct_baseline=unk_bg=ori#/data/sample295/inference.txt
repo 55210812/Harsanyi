@@ -1,0 +1,38 @@
+Execution time: 2025-07-02 17:28:32
+prompt: [CLS] hitachi data systems on tuesday launched a new high - end storage hardware device whose motto could essentially be quot ; everyone into the pool. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2718 decoded_text: hit
+idx:2 input_id:21046 decoded_text: ##achi
+idx:3 input_id:2951 decoded_text: data
+idx:4 input_id:3001 decoded_text: systems
+idx:5 input_id:2006 decoded_text: on
+idx:6 input_id:9857 decoded_text: tuesday
+idx:7 input_id:3390 decoded_text: launched
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:2047 decoded_text: new
+idx:10 input_id:2152 decoded_text: high
+idx:11 input_id:1011 decoded_text: -
+idx:12 input_id:2203 decoded_text: end
+idx:13 input_id:5527 decoded_text: storage
+idx:14 input_id:8051 decoded_text: hardware
+idx:15 input_id:5080 decoded_text: device
+idx:16 input_id:3005 decoded_text: whose
+idx:17 input_id:12652 decoded_text: motto
+idx:18 input_id:2071 decoded_text: could
+idx:19 input_id:7687 decoded_text: essentially
+idx:20 input_id:2022 decoded_text: be
+idx:21 input_id:22035 decoded_text: quo
+idx:22 input_id:2102 decoded_text: ##t
+idx:23 input_id:1025 decoded_text: ;
+idx:24 input_id:3071 decoded_text: everyone
+idx:25 input_id:2046 decoded_text: into
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:4770 decoded_text: pool
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.4292120933532715, -3.062500238418579, 0.6048002243041992, 6.455317497253418]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

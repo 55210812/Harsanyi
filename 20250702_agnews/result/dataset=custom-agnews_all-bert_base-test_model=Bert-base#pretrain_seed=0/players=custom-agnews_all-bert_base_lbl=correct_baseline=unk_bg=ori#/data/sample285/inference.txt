@@ -1,0 +1,52 @@
+Execution time: 2025-07-02 17:28:14
+prompt: [CLS] a brawl erupted between fans and texas rangers players in a game on monday, september 13 against the oakland athletics at the coliseum, which resulted in rangers rookie pitcher frank francisco being arrested and charged with aggravated battery for heaving [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:23244 decoded_text: brawl
+idx:3 input_id:12591 decoded_text: erupted
+idx:4 input_id:2090 decoded_text: between
+idx:5 input_id:4599 decoded_text: fans
+idx:6 input_id:1998 decoded_text: and
+idx:7 input_id:3146 decoded_text: texas
+idx:8 input_id:7181 decoded_text: rangers
+idx:9 input_id:2867 decoded_text: players
+idx:10 input_id:1999 decoded_text: in
+idx:11 input_id:1037 decoded_text: a
+idx:12 input_id:2208 decoded_text: game
+idx:13 input_id:2006 decoded_text: on
+idx:14 input_id:6928 decoded_text: monday
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:2244 decoded_text: september
+idx:17 input_id:2410 decoded_text: 13
+idx:18 input_id:2114 decoded_text: against
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:9182 decoded_text: oakland
+idx:21 input_id:6482 decoded_text: athletics
+idx:22 input_id:2012 decoded_text: at
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:18338 decoded_text: coliseum
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:2029 decoded_text: which
+idx:27 input_id:4504 decoded_text: resulted
+idx:28 input_id:1999 decoded_text: in
+idx:29 input_id:7181 decoded_text: rangers
+idx:30 input_id:8305 decoded_text: rookie
+idx:31 input_id:8070 decoded_text: pitcher
+idx:32 input_id:3581 decoded_text: frank
+idx:33 input_id:3799 decoded_text: francisco
+idx:34 input_id:2108 decoded_text: being
+idx:35 input_id:4727 decoded_text: arrested
+idx:36 input_id:1998 decoded_text: and
+idx:37 input_id:5338 decoded_text: charged
+idx:38 input_id:2007 decoded_text: with
+idx:39 input_id:25817 decoded_text: aggravated
+idx:40 input_id:6046 decoded_text: battery
+idx:41 input_id:2005 decoded_text: for
+idx:42 input_id:23907 decoded_text: heaving
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.2979241609573364, 8.525266647338867, -2.9486145973205566, -2.625206232070923]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

@@ -1,0 +1,50 @@
+Execution time: 2025-07-02 17:52:10
+prompt: [CLS] ap - lindsay davenport rallied for a 3 - 6, 7 - 5, 6 - 1 victory over serena williams in the wta championships on saturday, although her no. 1 ranking remained in peril. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:12110 decoded_text: lindsay
+idx:4 input_id:16273 decoded_text: davenport
+idx:5 input_id:24356 decoded_text: rallied
+idx:6 input_id:2005 decoded_text: for
+idx:7 input_id:1037 decoded_text: a
+idx:8 input_id:1017 decoded_text: 3
+idx:9 input_id:1011 decoded_text: -
+idx:10 input_id:1020 decoded_text: 6
+idx:11 input_id:1010 decoded_text: ,
+idx:12 input_id:1021 decoded_text: 7
+idx:13 input_id:1011 decoded_text: -
+idx:14 input_id:1019 decoded_text: 5
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:1020 decoded_text: 6
+idx:17 input_id:1011 decoded_text: -
+idx:18 input_id:1015 decoded_text: 1
+idx:19 input_id:3377 decoded_text: victory
+idx:20 input_id:2058 decoded_text: over
+idx:21 input_id:14419 decoded_text: serena
+idx:22 input_id:3766 decoded_text: williams
+idx:23 input_id:1999 decoded_text: in
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:21925 decoded_text: wta
+idx:26 input_id:3219 decoded_text: championships
+idx:27 input_id:2006 decoded_text: on
+idx:28 input_id:5095 decoded_text: saturday
+idx:29 input_id:1010 decoded_text: ,
+idx:30 input_id:2348 decoded_text: although
+idx:31 input_id:2014 decoded_text: her
+idx:32 input_id:2053 decoded_text: no
+idx:33 input_id:1012 decoded_text: .
+idx:34 input_id:1015 decoded_text: 1
+idx:35 input_id:5464 decoded_text: ranking
+idx:36 input_id:2815 decoded_text: remained
+idx:37 input_id:1999 decoded_text: in
+idx:38 input_id:2566 decoded_text: per
+idx:39 input_id:4014 decoded_text: ##il
+idx:40 input_id:1012 decoded_text: .
+idx:41 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.553849220275879, 8.3681640625, -2.281975746154785, -2.269348621368408]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

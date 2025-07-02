@@ -1,0 +1,25 @@
+---------- Players ----------
+Player 0: & lt ; strong & gt ; idf
+Player 1: fall
+Player 2: ' 04 & lt ; / strong & gt ;
+Player 3: really
+Player 4: mean
+Player 5: time
+---------- AND Interactions (Pairwise Only) ----------
+I(2 4): 4.63327169418335	 ([' 04 & lt ; / strong & gt ;][mean])
+I(0 4): 4.431995868682861	 ([& lt ; strong & gt ; idf][mean])
+I(2 5): 3.1876111030578613	 ([' 04 & lt ; / strong & gt ;][time])
+I(0 5): 3.167879581451416	 ([& lt ; strong & gt ; idf][time])
+I(0 3): 2.476104736328125	 ([& lt ; strong & gt ; idf][really])
+I(2 3): 2.3789925575256348	 ([' 04 & lt ; / strong & gt ;][really])
+I(4 5): 1.6769094467163086	 ([mean][time])
+I(1 2): 1.228987216949463	 ([fall][' 04 & lt ; / strong & gt ;])
+I(0 1): 1.2013459205627441	 ([& lt ; strong & gt ; idf][fall])
+I(0 2): -1.1651654243469238	 ([& lt ; strong & gt ; idf][' 04 & lt ; / strong & gt ;])
+I(3 5): 1.0069913864135742	 ([really][time])
+I(1 4): -0.8677120208740234	 ([fall][mean])
+I(3 4): -0.7023606300354004	 ([really][mean])
+I(1 5): 0.21929597854614258	 ([fall][time])
+I(1 3): -0.19138574600219727	 ([fall][really])
+Sum: 13.97333574295044
+==================================================

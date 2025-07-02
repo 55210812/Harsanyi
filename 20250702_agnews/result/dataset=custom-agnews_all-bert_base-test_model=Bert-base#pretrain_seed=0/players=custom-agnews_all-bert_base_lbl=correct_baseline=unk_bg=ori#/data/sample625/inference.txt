@@ -1,0 +1,49 @@
+Execution time: 2025-07-02 17:45:13
+prompt: [CLS] hewlett - packard has developed a software program that could slow the spread of computer viruses and worms by acting as a quot ; throttle quot ; on unauthroized network activity. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2002 decoded_text: he
+idx:2 input_id:13668 decoded_text: ##wl
+idx:3 input_id:6582 decoded_text: ##ett
+idx:4 input_id:1011 decoded_text: -
+idx:5 input_id:24100 decoded_text: packard
+idx:6 input_id:2038 decoded_text: has
+idx:7 input_id:2764 decoded_text: developed
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:4007 decoded_text: software
+idx:10 input_id:2565 decoded_text: program
+idx:11 input_id:2008 decoded_text: that
+idx:12 input_id:2071 decoded_text: could
+idx:13 input_id:4030 decoded_text: slow
+idx:14 input_id:1996 decoded_text: the
+idx:15 input_id:3659 decoded_text: spread
+idx:16 input_id:1997 decoded_text: of
+idx:17 input_id:3274 decoded_text: computer
+idx:18 input_id:18191 decoded_text: viruses
+idx:19 input_id:1998 decoded_text: and
+idx:20 input_id:16253 decoded_text: worms
+idx:21 input_id:2011 decoded_text: by
+idx:22 input_id:3772 decoded_text: acting
+idx:23 input_id:2004 decoded_text: as
+idx:24 input_id:1037 decoded_text: a
+idx:25 input_id:22035 decoded_text: quo
+idx:26 input_id:2102 decoded_text: ##t
+idx:27 input_id:1025 decoded_text: ;
+idx:28 input_id:24420 decoded_text: throttle
+idx:29 input_id:22035 decoded_text: quo
+idx:30 input_id:2102 decoded_text: ##t
+idx:31 input_id:1025 decoded_text: ;
+idx:32 input_id:2006 decoded_text: on
+idx:33 input_id:14477 decoded_text: una
+idx:34 input_id:14317 decoded_text: ##uth
+idx:35 input_id:26692 decoded_text: ##roi
+idx:36 input_id:5422 decoded_text: ##zed
+idx:37 input_id:2897 decoded_text: network
+idx:38 input_id:4023 decoded_text: activity
+idx:39 input_id:1012 decoded_text: .
+idx:40 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.724584102630615, -3.269299268722534, 1.1981431245803833, 6.19900369644165]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

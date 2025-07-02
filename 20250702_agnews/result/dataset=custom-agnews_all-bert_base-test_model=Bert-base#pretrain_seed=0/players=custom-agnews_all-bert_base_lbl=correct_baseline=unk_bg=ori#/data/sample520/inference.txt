@@ -1,0 +1,49 @@
+Execution time: 2025-07-02 17:40:19
+prompt: [CLS] toronto ( cp ) - td bank confirmed thursday it will buy mid - sized new england retail bank banknorth for \ $ 3. 8 billion us in a cash - and - shares deal. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4361 decoded_text: toronto
+idx:2 input_id:1006 decoded_text: (
+idx:3 input_id:18133 decoded_text: cp
+idx:4 input_id:1007 decoded_text: )
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:14595 decoded_text: td
+idx:7 input_id:2924 decoded_text: bank
+idx:8 input_id:4484 decoded_text: confirmed
+idx:9 input_id:9432 decoded_text: thursday
+idx:10 input_id:2009 decoded_text: it
+idx:11 input_id:2097 decoded_text: will
+idx:12 input_id:4965 decoded_text: buy
+idx:13 input_id:3054 decoded_text: mid
+idx:14 input_id:1011 decoded_text: -
+idx:15 input_id:7451 decoded_text: sized
+idx:16 input_id:2047 decoded_text: new
+idx:17 input_id:2563 decoded_text: england
+idx:18 input_id:7027 decoded_text: retail
+idx:19 input_id:2924 decoded_text: bank
+idx:20 input_id:2924 decoded_text: bank
+idx:21 input_id:12131 decoded_text: ##nor
+idx:22 input_id:2705 decoded_text: ##th
+idx:23 input_id:2005 decoded_text: for
+idx:24 input_id:1032 decoded_text: \
+idx:25 input_id:1002 decoded_text: $
+idx:26 input_id:1017 decoded_text: 3
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:1022 decoded_text: 8
+idx:29 input_id:4551 decoded_text: billion
+idx:30 input_id:2149 decoded_text: us
+idx:31 input_id:1999 decoded_text: in
+idx:32 input_id:1037 decoded_text: a
+idx:33 input_id:5356 decoded_text: cash
+idx:34 input_id:1011 decoded_text: -
+idx:35 input_id:1998 decoded_text: and
+idx:36 input_id:1011 decoded_text: -
+idx:37 input_id:6661 decoded_text: shares
+idx:38 input_id:3066 decoded_text: deal
+idx:39 input_id:1012 decoded_text: .
+idx:40 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.9467419385910034, -2.7502999305725098, 6.582758903503418, -3.481773853302002]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

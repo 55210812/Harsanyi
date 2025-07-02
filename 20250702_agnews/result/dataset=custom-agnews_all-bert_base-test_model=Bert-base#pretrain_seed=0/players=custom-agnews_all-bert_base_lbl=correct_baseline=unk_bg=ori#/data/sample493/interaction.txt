@@ -1,0 +1,77 @@
+---------- Players ----------
+Player 0: china
+Player 1: planning
+Player 2: extend
+Player 3: official
+Player 4: policies
+Player 5: clamping
+Player 6: credit
+Player 7: 2005,
+Player 8: try
+Player 9: keep
+Player 10: economy
+Player 11: boiling
+Player 12: over.
+---------- AND Interactions (Pairwise Only) ----------
+I(6 10): -11.71908950805664	 ([credit][economy])
+I(4 10): -8.512031555175781	 ([policies][economy])
+I(4 6): -7.934279441833496	 ([policies][credit])
+I(0 4): -4.108640670776367	 ([china][policies])
+I(0 6): -3.705325126647949	 ([china][credit])
+I(6 8): -3.446290969848633	 ([credit][try])
+I(3 4): -3.3138632774353027	 ([official][policies])
+I(7 10): -3.2708206176757812	 ([2005,][economy])
+I(0 10): -3.035097122192383	 ([china][economy])
+I(3 6): -2.9284210205078125	 ([official][credit])
+I(1 10): -2.843984603881836	 ([planning][economy])
+I(0 1): 2.811063289642334	 ([china][planning])
+I(4 5): -2.7658581733703613	 ([policies][clamping])
+I(4 7): -2.6518330574035645	 ([policies][2005,])
+I(4 8): -2.2393410205841064	 ([policies][try])
+I(6 9): -2.1653194427490234	 ([credit][keep])
+I(6 7): -1.7281856536865234	 ([credit][2005,])
+I(7 12): 1.7014389038085938	 ([2005,][over.])
+I(1 6): -1.6883792877197266	 ([planning][credit])
+I(10 12): -1.6866140365600586	 ([economy][over.])
+I(4 9): -1.6461732387542725	 ([policies][keep])
+I(7 11): 1.5300178527832031	 ([2005,][boiling])
+I(0 11): -1.422536849975586	 ([china][boiling])
+I(5 6): 1.321751594543457	 ([clamping][credit])
+I(3 10): -1.3033990859985352	 ([official][economy])
+I(10 11): -1.3001375198364258	 ([economy][boiling])
+I(9 11): -1.2818641662597656	 ([keep][boiling])
+I(1 7): 1.2574987411499023	 ([planning][2005,])
+I(11 12): 1.1341447830200195	 ([boiling][over.])
+I(1 11): -1.035231590270996	 ([planning][boiling])
+I(6 11): -0.9550080299377441	 ([credit][boiling])
+I(1 4): -0.8905620574951172	 ([planning][policies])
+I(4 12): -0.8802280426025391	 ([policies][over.])
+I(8 11): -0.8789591789245605	 ([try][boiling])
+I(7 9): 0.8594059944152832	 ([2005,][keep])
+I(2 3): 0.8504149913787842	 ([extend][official])
+I(5 7): 0.832099437713623	 ([clamping][2005,])
+I(0 12): -0.8307337760925293	 ([china][over.])
+I(1 5): 0.7784571647644043	 ([planning][clamping])
+I(5 11): -0.6982235908508301	 ([clamping][boiling])
+I(3 7): -0.6405954360961914	 ([official][2005,])
+I(0 8): -0.6242270469665527	 ([china][try])
+I(4 11): -0.5956320762634277	 ([policies][boiling])
+I(0 5): -0.5695958137512207	 ([china][clamping])
+I(1 3): -0.533790111541748	 ([planning][official])
+I(9 10): -0.5179929733276367	 ([keep][economy])
+I(5 12): -0.5123915672302246	 ([clamping][over.])
+I(2 4): -0.5108189582824707	 ([extend][policies])
+I(3 8): -0.5032901763916016	 ([official][try])
+I(1 8): -0.4983797073364258	 ([planning][try])
+I(5 9): -0.47052621841430664	 ([clamping][keep])
+I(5 10): 0.4507884979248047	 ([clamping][economy])
+I(6 12): -0.41907167434692383	 ([credit][over.])
+I(0 7): 0.40790796279907227	 ([china][2005,])
+I(1 12): 0.39797496795654297	 ([planning][over.])
+I(3 12): 0.3812541961669922	 ([official][over.])
+I(7 8): -0.3715043067932129	 ([2005,][try])
+I(0 9): 0.34950780868530273	 ([china][keep])
+I(1 2): 0.3480095863342285	 ([planning][extend])
+I(2 8): -0.32946157455444336	 ([extend][try])
+Sum: -40.705317735672
+==================================================

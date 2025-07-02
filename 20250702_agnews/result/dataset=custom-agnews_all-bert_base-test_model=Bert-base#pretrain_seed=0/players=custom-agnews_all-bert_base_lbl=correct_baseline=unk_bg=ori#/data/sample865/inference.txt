@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 17:55:04
+prompt: [CLS] 10 september 2004 - - a us jet fired missiles at an insurgent stronghold in al - fallujah today, the fourth straight day of attacks in the sunni city west of baghdad. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2184 decoded_text: 10
+idx:2 input_id:2244 decoded_text: september
+idx:3 input_id:2432 decoded_text: 2004
+idx:4 input_id:1011 decoded_text: -
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:1037 decoded_text: a
+idx:7 input_id:2149 decoded_text: us
+idx:8 input_id:6892 decoded_text: jet
+idx:9 input_id:5045 decoded_text: fired
+idx:10 input_id:10815 decoded_text: missiles
+idx:11 input_id:2012 decoded_text: at
+idx:12 input_id:2019 decoded_text: an
+idx:13 input_id:16021 decoded_text: ins
+idx:14 input_id:27176 decoded_text: ##urgent
+idx:15 input_id:16995 decoded_text: stronghold
+idx:16 input_id:1999 decoded_text: in
+idx:17 input_id:2632 decoded_text: al
+idx:18 input_id:1011 decoded_text: -
+idx:19 input_id:2991 decoded_text: fall
+idx:20 input_id:23049 decoded_text: ##uj
+idx:21 input_id:4430 decoded_text: ##ah
+idx:22 input_id:2651 decoded_text: today
+idx:23 input_id:1010 decoded_text: ,
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:2959 decoded_text: fourth
+idx:26 input_id:3442 decoded_text: straight
+idx:27 input_id:2154 decoded_text: day
+idx:28 input_id:1997 decoded_text: of
+idx:29 input_id:4491 decoded_text: attacks
+idx:30 input_id:1999 decoded_text: in
+idx:31 input_id:1996 decoded_text: the
+idx:32 input_id:18883 decoded_text: sunni
+idx:33 input_id:2103 decoded_text: city
+idx:34 input_id:2225 decoded_text: west
+idx:35 input_id:1997 decoded_text: of
+idx:36 input_id:13952 decoded_text: baghdad
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.029374599456787, -1.6258543729782104, -2.8994221687316895, -2.1286587715148926]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

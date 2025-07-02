@@ -1,0 +1,45 @@
+Execution time: 2025-07-02 17:42:42
+prompt: [CLS] the bush administration yesterday said chinese and vietnamese shrimp are sold at unfairly low prices in the united states, siding with us fishermen as they try to fend off overseas competition. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:5747 decoded_text: bush
+idx:3 input_id:3447 decoded_text: administration
+idx:4 input_id:7483 decoded_text: yesterday
+idx:5 input_id:2056 decoded_text: said
+idx:6 input_id:2822 decoded_text: chinese
+idx:7 input_id:1998 decoded_text: and
+idx:8 input_id:9101 decoded_text: vietnamese
+idx:9 input_id:20130 decoded_text: shrimp
+idx:10 input_id:2024 decoded_text: are
+idx:11 input_id:2853 decoded_text: sold
+idx:12 input_id:2012 decoded_text: at
+idx:13 input_id:15571 decoded_text: unfair
+idx:14 input_id:2135 decoded_text: ##ly
+idx:15 input_id:2659 decoded_text: low
+idx:16 input_id:7597 decoded_text: prices
+idx:17 input_id:1999 decoded_text: in
+idx:18 input_id:1996 decoded_text: the
+idx:19 input_id:2142 decoded_text: united
+idx:20 input_id:2163 decoded_text: states
+idx:21 input_id:1010 decoded_text: ,
+idx:22 input_id:17326 decoded_text: siding
+idx:23 input_id:2007 decoded_text: with
+idx:24 input_id:2149 decoded_text: us
+idx:25 input_id:16532 decoded_text: fishermen
+idx:26 input_id:2004 decoded_text: as
+idx:27 input_id:2027 decoded_text: they
+idx:28 input_id:3046 decoded_text: try
+idx:29 input_id:2000 decoded_text: to
+idx:30 input_id:21713 decoded_text: fen
+idx:31 input_id:2094 decoded_text: ##d
+idx:32 input_id:2125 decoded_text: off
+idx:33 input_id:6931 decoded_text: overseas
+idx:34 input_id:2971 decoded_text: competition
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.3447576761245728, -3.619762420654297, 6.033327579498291, -3.081775426864624]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

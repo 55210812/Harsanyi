@@ -1,0 +1,38 @@
+Execution time: 2025-07-02 17:51:09
+prompt: [CLS] virgin boss sir richard branson has said the group is in talks with a chinese company over setting up a mobile phone service in mainland china. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:6261 decoded_text: virgin
+idx:2 input_id:5795 decoded_text: boss
+idx:3 input_id:2909 decoded_text: sir
+idx:4 input_id:2957 decoded_text: richard
+idx:5 input_id:24905 decoded_text: bran
+idx:6 input_id:3385 decoded_text: ##son
+idx:7 input_id:2038 decoded_text: has
+idx:8 input_id:2056 decoded_text: said
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:2177 decoded_text: group
+idx:11 input_id:2003 decoded_text: is
+idx:12 input_id:1999 decoded_text: in
+idx:13 input_id:7566 decoded_text: talks
+idx:14 input_id:2007 decoded_text: with
+idx:15 input_id:1037 decoded_text: a
+idx:16 input_id:2822 decoded_text: chinese
+idx:17 input_id:2194 decoded_text: company
+idx:18 input_id:2058 decoded_text: over
+idx:19 input_id:4292 decoded_text: setting
+idx:20 input_id:2039 decoded_text: up
+idx:21 input_id:1037 decoded_text: a
+idx:22 input_id:4684 decoded_text: mobile
+idx:23 input_id:3042 decoded_text: phone
+idx:24 input_id:2326 decoded_text: service
+idx:25 input_id:1999 decoded_text: in
+idx:26 input_id:8240 decoded_text: mainland
+idx:27 input_id:2859 decoded_text: china
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.2923426628112793, -4.405299663543701, 2.558981418609619, 2.0475387573242188]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

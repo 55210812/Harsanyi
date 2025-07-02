@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 17:25:18
+prompt: [CLS] for the first time, americans # 39 ; use of credit cards, debit cards and other electronic bill paying has eclipsed paper checks. the number of electronic payment transactions last year totaled [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2005 decoded_text: for
+idx:2 input_id:1996 decoded_text: the
+idx:3 input_id:2034 decoded_text: first
+idx:4 input_id:2051 decoded_text: time
+idx:5 input_id:1010 decoded_text: ,
+idx:6 input_id:4841 decoded_text: americans
+idx:7 input_id:1001 decoded_text: #
+idx:8 input_id:4464 decoded_text: 39
+idx:9 input_id:1025 decoded_text: ;
+idx:10 input_id:2224 decoded_text: use
+idx:11 input_id:1997 decoded_text: of
+idx:12 input_id:4923 decoded_text: credit
+idx:13 input_id:5329 decoded_text: cards
+idx:14 input_id:1010 decoded_text: ,
+idx:15 input_id:2139 decoded_text: de
+idx:16 input_id:16313 decoded_text: ##bit
+idx:17 input_id:5329 decoded_text: cards
+idx:18 input_id:1998 decoded_text: and
+idx:19 input_id:2060 decoded_text: other
+idx:20 input_id:4816 decoded_text: electronic
+idx:21 input_id:3021 decoded_text: bill
+idx:22 input_id:7079 decoded_text: paying
+idx:23 input_id:2038 decoded_text: has
+idx:24 input_id:13232 decoded_text: eclipse
+idx:25 input_id:2094 decoded_text: ##d
+idx:26 input_id:3259 decoded_text: paper
+idx:27 input_id:14148 decoded_text: checks
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:1996 decoded_text: the
+idx:30 input_id:2193 decoded_text: number
+idx:31 input_id:1997 decoded_text: of
+idx:32 input_id:4816 decoded_text: electronic
+idx:33 input_id:7909 decoded_text: payment
+idx:34 input_id:11817 decoded_text: transactions
+idx:35 input_id:2197 decoded_text: last
+idx:36 input_id:2095 decoded_text: year
+idx:37 input_id:23596 decoded_text: totaled
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-4.3843183517456055, -4.050771236419678, 5.059601783752441, 1.4804569482803345]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

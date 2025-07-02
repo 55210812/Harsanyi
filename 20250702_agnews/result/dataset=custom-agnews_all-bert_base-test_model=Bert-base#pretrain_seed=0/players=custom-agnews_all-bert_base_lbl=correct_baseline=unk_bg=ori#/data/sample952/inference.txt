@@ -1,0 +1,45 @@
+Execution time: 2025-07-02 17:58:26
+prompt: [CLS] vauxhall car workers were today told to check before arriving for their shift amid expectations that production will be halted because of a shortage of components caused by a strike in germany. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:12436 decoded_text: va
+idx:2 input_id:5602 decoded_text: ##ux
+idx:3 input_id:9892 decoded_text: ##hall
+idx:4 input_id:2482 decoded_text: car
+idx:5 input_id:3667 decoded_text: workers
+idx:6 input_id:2020 decoded_text: were
+idx:7 input_id:2651 decoded_text: today
+idx:8 input_id:2409 decoded_text: told
+idx:9 input_id:2000 decoded_text: to
+idx:10 input_id:4638 decoded_text: check
+idx:11 input_id:2077 decoded_text: before
+idx:12 input_id:7194 decoded_text: arriving
+idx:13 input_id:2005 decoded_text: for
+idx:14 input_id:2037 decoded_text: their
+idx:15 input_id:5670 decoded_text: shift
+idx:16 input_id:13463 decoded_text: amid
+idx:17 input_id:10908 decoded_text: expectations
+idx:18 input_id:2008 decoded_text: that
+idx:19 input_id:2537 decoded_text: production
+idx:20 input_id:2097 decoded_text: will
+idx:21 input_id:2022 decoded_text: be
+idx:22 input_id:12705 decoded_text: halted
+idx:23 input_id:2138 decoded_text: because
+idx:24 input_id:1997 decoded_text: of
+idx:25 input_id:1037 decoded_text: a
+idx:26 input_id:15843 decoded_text: shortage
+idx:27 input_id:1997 decoded_text: of
+idx:28 input_id:6177 decoded_text: components
+idx:29 input_id:3303 decoded_text: caused
+idx:30 input_id:2011 decoded_text: by
+idx:31 input_id:1037 decoded_text: a
+idx:32 input_id:4894 decoded_text: strike
+idx:33 input_id:1999 decoded_text: in
+idx:34 input_id:2762 decoded_text: germany
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.43976092338562, -3.1503419876098633, 6.58629035949707, -2.9644460678100586]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

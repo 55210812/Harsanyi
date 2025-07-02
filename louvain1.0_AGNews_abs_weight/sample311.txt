@@ -1,0 +1,5 @@
+louvain社区检测结果:
+社区 1: ['18', '10', '4', '1', '2', '22']: ['crew', 'hoax,', 'atlantic', 'threat', 'forced', 'forced']: 平均边权 2.7171
+社区 2: ['8', '6', '15', '11', '23', '5', '13', '16']: ['airport', 'land', '215', 'police', 'land', 'flight', 'airbus,', 'passengers']: 平均边权 2.5335
+社区 3: ['24', '7', '0']: ['stansted', 'stansted', 'bomb']: 平均边权 4.2381
+社区 4: ['17', '20', '3', '14', '12', '9', '25', '21', '19']: ['18', 'kong', 'virgin', 'carrying', 'confirmed.', 'yesterday', '5. 25am.', 'heathrow,', 'hong']: 平均边权 1.1850

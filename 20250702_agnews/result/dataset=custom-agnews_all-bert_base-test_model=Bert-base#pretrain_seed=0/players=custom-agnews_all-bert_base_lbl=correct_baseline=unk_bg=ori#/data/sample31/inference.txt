@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 17:17:16
+prompt: [CLS] michael owens second goal in as many games won over the real madrid supporters - justifying the england strikers unwavering belief that he can be a success in spain. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2745 decoded_text: michael
+idx:2 input_id:14824 decoded_text: owens
+idx:3 input_id:2117 decoded_text: second
+idx:4 input_id:3125 decoded_text: goal
+idx:5 input_id:1999 decoded_text: in
+idx:6 input_id:2004 decoded_text: as
+idx:7 input_id:2116 decoded_text: many
+idx:8 input_id:2399 decoded_text: games
+idx:9 input_id:2180 decoded_text: won
+idx:10 input_id:2058 decoded_text: over
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:2613 decoded_text: real
+idx:13 input_id:6921 decoded_text: madrid
+idx:14 input_id:6793 decoded_text: supporters
+idx:15 input_id:1011 decoded_text: -
+idx:16 input_id:16114 decoded_text: justify
+idx:17 input_id:2075 decoded_text: ##ing
+idx:18 input_id:1996 decoded_text: the
+idx:19 input_id:2563 decoded_text: england
+idx:20 input_id:26049 decoded_text: strikers
+idx:21 input_id:4895 decoded_text: un
+idx:22 input_id:16535 decoded_text: ##wave
+idx:23 input_id:4892 decoded_text: ##ring
+idx:24 input_id:6772 decoded_text: belief
+idx:25 input_id:2008 decoded_text: that
+idx:26 input_id:2002 decoded_text: he
+idx:27 input_id:2064 decoded_text: can
+idx:28 input_id:2022 decoded_text: be
+idx:29 input_id:1037 decoded_text: a
+idx:30 input_id:3112 decoded_text: success
+idx:31 input_id:1999 decoded_text: in
+idx:32 input_id:3577 decoded_text: spain
+idx:33 input_id:1012 decoded_text: .
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.179699659347534, 8.431342124938965, -2.5582680702209473, -2.317004442214966]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

@@ -1,0 +1,47 @@
+Execution time: 2025-07-02 17:58:28
+prompt: [CLS] when japanese prime minister junichiro koizumi traveled to new york early this week to address the united nations general assembly, his objective was clear : to pitch for un reforms that would [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2043 decoded_text: when
+idx:2 input_id:2887 decoded_text: japanese
+idx:3 input_id:3539 decoded_text: prime
+idx:4 input_id:2704 decoded_text: minister
+idx:5 input_id:12022 decoded_text: jun
+idx:6 input_id:11319 decoded_text: ##ichi
+idx:7 input_id:3217 decoded_text: ##ro
+idx:8 input_id:12849 decoded_text: ko
+idx:9 input_id:10993 decoded_text: ##iz
+idx:10 input_id:12717 decoded_text: ##umi
+idx:11 input_id:6158 decoded_text: traveled
+idx:12 input_id:2000 decoded_text: to
+idx:13 input_id:2047 decoded_text: new
+idx:14 input_id:2259 decoded_text: york
+idx:15 input_id:2220 decoded_text: early
+idx:16 input_id:2023 decoded_text: this
+idx:17 input_id:2733 decoded_text: week
+idx:18 input_id:2000 decoded_text: to
+idx:19 input_id:4769 decoded_text: address
+idx:20 input_id:1996 decoded_text: the
+idx:21 input_id:2142 decoded_text: united
+idx:22 input_id:3741 decoded_text: nations
+idx:23 input_id:2236 decoded_text: general
+idx:24 input_id:3320 decoded_text: assembly
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:2010 decoded_text: his
+idx:27 input_id:7863 decoded_text: objective
+idx:28 input_id:2001 decoded_text: was
+idx:29 input_id:3154 decoded_text: clear
+idx:30 input_id:1024 decoded_text: :
+idx:31 input_id:2000 decoded_text: to
+idx:32 input_id:6510 decoded_text: pitch
+idx:33 input_id:2005 decoded_text: for
+idx:34 input_id:4895 decoded_text: un
+idx:35 input_id:8818 decoded_text: reforms
+idx:36 input_id:2008 decoded_text: that
+idx:37 input_id:2052 decoded_text: would
+idx:38 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.043466567993164, -2.3676600456237793, -1.6523109674453735, -3.0340874195098877]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

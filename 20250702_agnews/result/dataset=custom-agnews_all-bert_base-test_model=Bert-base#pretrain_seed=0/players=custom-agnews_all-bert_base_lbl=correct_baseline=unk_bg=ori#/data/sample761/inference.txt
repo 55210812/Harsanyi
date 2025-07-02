@@ -1,0 +1,54 @@
+Execution time: 2025-07-02 17:50:46
+prompt: [CLS] only days after mocking a call for a new presidential runoff vote, president vladimir v. putin said today that he would work with whoever is elected by the people of ukraine to lead the country, a russian news agency reported. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2069 decoded_text: only
+idx:2 input_id:2420 decoded_text: days
+idx:3 input_id:2044 decoded_text: after
+idx:4 input_id:19545 decoded_text: mocking
+idx:5 input_id:1037 decoded_text: a
+idx:6 input_id:2655 decoded_text: call
+idx:7 input_id:2005 decoded_text: for
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:2047 decoded_text: new
+idx:10 input_id:4883 decoded_text: presidential
+idx:11 input_id:19550 decoded_text: runoff
+idx:12 input_id:3789 decoded_text: vote
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:2343 decoded_text: president
+idx:15 input_id:8748 decoded_text: vladimir
+idx:16 input_id:1058 decoded_text: v
+idx:17 input_id:1012 decoded_text: .
+idx:18 input_id:22072 decoded_text: putin
+idx:19 input_id:2056 decoded_text: said
+idx:20 input_id:2651 decoded_text: today
+idx:21 input_id:2008 decoded_text: that
+idx:22 input_id:2002 decoded_text: he
+idx:23 input_id:2052 decoded_text: would
+idx:24 input_id:2147 decoded_text: work
+idx:25 input_id:2007 decoded_text: with
+idx:26 input_id:9444 decoded_text: whoever
+idx:27 input_id:2003 decoded_text: is
+idx:28 input_id:2700 decoded_text: elected
+idx:29 input_id:2011 decoded_text: by
+idx:30 input_id:1996 decoded_text: the
+idx:31 input_id:2111 decoded_text: people
+idx:32 input_id:1997 decoded_text: of
+idx:33 input_id:5924 decoded_text: ukraine
+idx:34 input_id:2000 decoded_text: to
+idx:35 input_id:2599 decoded_text: lead
+idx:36 input_id:1996 decoded_text: the
+idx:37 input_id:2406 decoded_text: country
+idx:38 input_id:1010 decoded_text: ,
+idx:39 input_id:1037 decoded_text: a
+idx:40 input_id:2845 decoded_text: russian
+idx:41 input_id:2739 decoded_text: news
+idx:42 input_id:4034 decoded_text: agency
+idx:43 input_id:2988 decoded_text: reported
+idx:44 input_id:1012 decoded_text: .
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.192996501922607, -2.3449976444244385, -2.489495038986206, -2.1369969844818115]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

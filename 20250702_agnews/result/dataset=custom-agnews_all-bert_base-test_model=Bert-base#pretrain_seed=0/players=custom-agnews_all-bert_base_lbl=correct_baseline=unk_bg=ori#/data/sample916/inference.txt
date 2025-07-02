@@ -1,0 +1,37 @@
+Execution time: 2025-07-02 17:57:07
+prompt: [CLS] the munch museum in oslo, where thieves stole the scream last month, is to upgrade its security in the wake of the raid. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:14163 decoded_text: mu
+idx:3 input_id:12680 decoded_text: ##nch
+idx:4 input_id:2688 decoded_text: museum
+idx:5 input_id:1999 decoded_text: in
+idx:6 input_id:9977 decoded_text: oslo
+idx:7 input_id:1010 decoded_text: ,
+idx:8 input_id:2073 decoded_text: where
+idx:9 input_id:15862 decoded_text: thieves
+idx:10 input_id:10312 decoded_text: stole
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:6978 decoded_text: scream
+idx:13 input_id:2197 decoded_text: last
+idx:14 input_id:3204 decoded_text: month
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:2003 decoded_text: is
+idx:17 input_id:2000 decoded_text: to
+idx:18 input_id:12200 decoded_text: upgrade
+idx:19 input_id:2049 decoded_text: its
+idx:20 input_id:3036 decoded_text: security
+idx:21 input_id:1999 decoded_text: in
+idx:22 input_id:1996 decoded_text: the
+idx:23 input_id:5256 decoded_text: wake
+idx:24 input_id:1997 decoded_text: of
+idx:25 input_id:1996 decoded_text: the
+idx:26 input_id:8118 decoded_text: raid
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[5.561041831970215, -2.573517084121704, -3.4598538875579834, 0.740973711013794]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

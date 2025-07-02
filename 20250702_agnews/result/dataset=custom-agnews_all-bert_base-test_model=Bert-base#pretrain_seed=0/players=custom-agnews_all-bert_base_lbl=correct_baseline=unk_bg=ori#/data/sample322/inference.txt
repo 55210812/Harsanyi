@@ -1,0 +1,39 @@
+Execution time: 2025-07-02 17:30:09
+prompt: [CLS] ap - senate democrats are changing management, their ranks reduced to a 74 - year low and their longtime leader defeated for re - election back home. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:4001 decoded_text: senate
+idx:4 input_id:8037 decoded_text: democrats
+idx:5 input_id:2024 decoded_text: are
+idx:6 input_id:5278 decoded_text: changing
+idx:7 input_id:2968 decoded_text: management
+idx:8 input_id:1010 decoded_text: ,
+idx:9 input_id:2037 decoded_text: their
+idx:10 input_id:6938 decoded_text: ranks
+idx:11 input_id:4359 decoded_text: reduced
+idx:12 input_id:2000 decoded_text: to
+idx:13 input_id:1037 decoded_text: a
+idx:14 input_id:6356 decoded_text: 74
+idx:15 input_id:1011 decoded_text: -
+idx:16 input_id:2095 decoded_text: year
+idx:17 input_id:2659 decoded_text: low
+idx:18 input_id:1998 decoded_text: and
+idx:19 input_id:2037 decoded_text: their
+idx:20 input_id:11155 decoded_text: longtime
+idx:21 input_id:3003 decoded_text: leader
+idx:22 input_id:3249 decoded_text: defeated
+idx:23 input_id:2005 decoded_text: for
+idx:24 input_id:2128 decoded_text: re
+idx:25 input_id:1011 decoded_text: -
+idx:26 input_id:2602 decoded_text: election
+idx:27 input_id:2067 decoded_text: back
+idx:28 input_id:2188 decoded_text: home
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.222830772399902, -1.6941068172454834, -2.760040521621704, -2.300321578979492]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

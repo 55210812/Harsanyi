@@ -1,0 +1,45 @@
+Execution time: 2025-07-02 17:46:43
+prompt: [CLS] washington - a new \ $ 50 bill with touches of red, blue and yellow went into circulation tuesday and soon will be showing up at banks, cash registers and wallets. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2899 decoded_text: washington
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:1037 decoded_text: a
+idx:4 input_id:2047 decoded_text: new
+idx:5 input_id:1032 decoded_text: \
+idx:6 input_id:1002 decoded_text: $
+idx:7 input_id:2753 decoded_text: 50
+idx:8 input_id:3021 decoded_text: bill
+idx:9 input_id:2007 decoded_text: with
+idx:10 input_id:12817 decoded_text: touches
+idx:11 input_id:1997 decoded_text: of
+idx:12 input_id:2417 decoded_text: red
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:2630 decoded_text: blue
+idx:15 input_id:1998 decoded_text: and
+idx:16 input_id:3756 decoded_text: yellow
+idx:17 input_id:2253 decoded_text: went
+idx:18 input_id:2046 decoded_text: into
+idx:19 input_id:9141 decoded_text: circulation
+idx:20 input_id:9857 decoded_text: tuesday
+idx:21 input_id:1998 decoded_text: and
+idx:22 input_id:2574 decoded_text: soon
+idx:23 input_id:2097 decoded_text: will
+idx:24 input_id:2022 decoded_text: be
+idx:25 input_id:4760 decoded_text: showing
+idx:26 input_id:2039 decoded_text: up
+idx:27 input_id:2012 decoded_text: at
+idx:28 input_id:5085 decoded_text: banks
+idx:29 input_id:1010 decoded_text: ,
+idx:30 input_id:5356 decoded_text: cash
+idx:31 input_id:18687 decoded_text: registers
+idx:32 input_id:1998 decoded_text: and
+idx:33 input_id:15882 decoded_text: wallet
+idx:34 input_id:2015 decoded_text: ##s
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.666257619857788, -3.2942488193511963, 6.192111015319824, -3.1814212799072266]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

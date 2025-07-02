@@ -1,0 +1,36 @@
+Execution time: 2025-07-02 17:40:26
+prompt: [CLS] the off - season landscape changed a bit friday, the first day teams were allowed to present offers to free agents from other clubs. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2125 decoded_text: off
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:2161 decoded_text: season
+idx:5 input_id:5957 decoded_text: landscape
+idx:6 input_id:2904 decoded_text: changed
+idx:7 input_id:1037 decoded_text: a
+idx:8 input_id:2978 decoded_text: bit
+idx:9 input_id:5958 decoded_text: friday
+idx:10 input_id:1010 decoded_text: ,
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:2034 decoded_text: first
+idx:13 input_id:2154 decoded_text: day
+idx:14 input_id:2780 decoded_text: teams
+idx:15 input_id:2020 decoded_text: were
+idx:16 input_id:3039 decoded_text: allowed
+idx:17 input_id:2000 decoded_text: to
+idx:18 input_id:2556 decoded_text: present
+idx:19 input_id:4107 decoded_text: offers
+idx:20 input_id:2000 decoded_text: to
+idx:21 input_id:2489 decoded_text: free
+idx:22 input_id:6074 decoded_text: agents
+idx:23 input_id:2013 decoded_text: from
+idx:24 input_id:2060 decoded_text: other
+idx:25 input_id:4184 decoded_text: clubs
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.6435626745224, 8.426931381225586, -2.7728495597839355, -2.4423158168792725]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

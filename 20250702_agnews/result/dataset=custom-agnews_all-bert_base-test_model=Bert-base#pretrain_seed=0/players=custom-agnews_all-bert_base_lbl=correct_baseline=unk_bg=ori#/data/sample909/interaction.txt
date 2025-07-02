@@ -1,0 +1,82 @@
+---------- Players ----------
+Player 0: einstein
+Player 1: right
+Player 2: - -
+Player 3: again.
+Player 4: satellites
+Player 5: pulled
+Player 6: slightly
+Player 7: orbits
+Player 8: show
+Player 9: earth
+Player 10: indeed
+Player 11: twisting
+Player 12: fabric
+---------- AND Interactions (Pairwise Only) ----------
+I(0 7): -3.47157621383667	 ([einstein][orbits])
+I(0 9): -2.7109436988830566	 ([einstein][earth])
+I(0 4): -2.348200798034668	 ([einstein][satellites])
+I(7 9): -2.2529702186584473	 ([orbits][earth])
+I(5 12): -2.0907528400421143	 ([pulled][fabric])
+I(11 12): -1.7991349697113037	 ([twisting][fabric])
+I(7 12): -1.4958667755126953	 ([orbits][fabric])
+I(0 12): -1.438286304473877	 ([einstein][fabric])
+I(4 7): -1.4371581077575684	 ([satellites][orbits])
+I(0 10): -1.3885822296142578	 ([einstein][indeed])
+I(7 10): -1.2293119430541992	 ([orbits][indeed])
+I(1 3): -1.182560682296753	 ([right][again.])
+I(9 12): -1.1666932106018066	 ([earth][fabric])
+I(3 12): -1.038485050201416	 ([again.][fabric])
+I(4 12): -1.0105948448181152	 ([satellites][fabric])
+I(4 9): -0.9376788139343262	 ([satellites][earth])
+I(9 10): -0.9342737197875977	 ([earth][indeed])
+I(4 10): -0.9339303970336914	 ([satellites][indeed])
+I(1 12): -0.8178296089172363	 ([right][fabric])
+I(8 11): 0.7951207160949707	 ([show][twisting])
+I(0 8): -0.7663240432739258	 ([einstein][show])
+I(4 5): 0.7456958293914795	 ([satellites][pulled])
+I(4 11): -0.6432375907897949	 ([satellites][twisting])
+I(8 12): -0.6375994682312012	 ([show][fabric])
+I(1 6): -0.5228357315063477	 ([right][slightly])
+I(7 11): 0.46127986907958984	 ([orbits][twisting])
+I(1 5): 0.4552924633026123	 ([right][pulled])
+I(7 8): -0.4441242218017578	 ([orbits][show])
+I(10 12): -0.4155240058898926	 ([indeed][fabric])
+I(5 9): -0.4137389659881592	 ([pulled][earth])
+I(3 8): 0.40734195709228516	 ([again.][show])
+I(2 12): -0.40427446365356445	 ([- -][fabric])
+I(1 2): 0.4023871421813965	 ([right][- -])
+I(5 7): 0.3950765132904053	 ([pulled][orbits])
+I(0 5): 0.3870551586151123	 ([einstein][pulled])
+I(6 10): -0.37436389923095703	 ([slightly][indeed])
+I(6 7): -0.3630027770996094	 ([slightly][orbits])
+I(0 11): 0.3502020835876465	 ([einstein][twisting])
+I(2 3): -0.3444504737854004	 ([- -][again.])
+I(0 2): -0.33252620697021484	 ([einstein][- -])
+I(0 6): -0.32067155838012695	 ([einstein][slightly])
+I(3 5): -0.31081104278564453	 ([again.][pulled])
+I(3 9): -0.28697633743286133	 ([again.][earth])
+I(0 3): -0.28377485275268555	 ([einstein][again.])
+I(6 9): -0.28271484375	 ([slightly][earth])
+I(6 8): -0.27962350845336914	 ([slightly][show])
+I(9 11): -0.2785797119140625	 ([earth][twisting])
+I(1 4): -0.2698235511779785	 ([right][satellites])
+I(3 4): -0.25806188583374023	 ([again.][satellites])
+I(5 10): 0.2546727657318115	 ([pulled][indeed])
+I(2 9): -0.24481487274169922	 ([- -][earth])
+I(3 6): 0.24036931991577148	 ([again.][slightly])
+I(8 10): -0.2394700050354004	 ([show][indeed])
+I(4 6): -0.219635009765625	 ([satellites][slightly])
+I(2 4): -0.2122330665588379	 ([- -][satellites])
+I(3 10): -0.2060990333557129	 ([again.][indeed])
+I(5 6): -0.18000197410583496	 ([pulled][slightly])
+I(2 5): -0.18000006675720215	 ([- -][pulled])
+I(0 1): -0.17740821838378906	 ([einstein][right])
+I(3 7): -0.16952133178710938	 ([again.][orbits])
+I(1 10): 0.1596698760986328	 ([right][indeed])
+I(2 7): -0.10866117477416992	 ([- -][orbits])
+I(5 8): -0.09947085380554199	 ([pulled][show])
+I(3 11): 0.0988168716430664	 ([again.][twisting])
+I(6 12): -0.08920907974243164	 ([slightly][fabric])
+Sum: -20.62386965751648
+==================================================

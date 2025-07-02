@@ -1,0 +1,41 @@
+Execution time: 2025-07-02 17:45:54
+prompt: [CLS] scientists say one thing has remained constant since dr. alfred c. kinsey's work : americans'ambivalence about the study of sexuality. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:6529 decoded_text: scientists
+idx:2 input_id:2360 decoded_text: say
+idx:3 input_id:2028 decoded_text: one
+idx:4 input_id:2518 decoded_text: thing
+idx:5 input_id:2038 decoded_text: has
+idx:6 input_id:2815 decoded_text: remained
+idx:7 input_id:5377 decoded_text: constant
+idx:8 input_id:2144 decoded_text: since
+idx:9 input_id:2852 decoded_text: dr
+idx:10 input_id:1012 decoded_text: .
+idx:11 input_id:6152 decoded_text: alfred
+idx:12 input_id:1039 decoded_text: c
+idx:13 input_id:1012 decoded_text: .
+idx:14 input_id:12631 decoded_text: kin
+idx:15 input_id:7952 decoded_text: ##sey
+idx:16 input_id:1005 decoded_text: '
+idx:17 input_id:1055 decoded_text: s
+idx:18 input_id:2147 decoded_text: work
+idx:19 input_id:1024 decoded_text: :
+idx:20 input_id:4841 decoded_text: americans
+idx:21 input_id:1005 decoded_text: '
+idx:22 input_id:2572 decoded_text: am
+idx:23 input_id:5638 decoded_text: ##bi
+idx:24 input_id:17479 decoded_text: ##vale
+idx:25 input_id:5897 decoded_text: ##nce
+idx:26 input_id:2055 decoded_text: about
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:2817 decoded_text: study
+idx:29 input_id:1997 decoded_text: of
+idx:30 input_id:13798 decoded_text: sexuality
+idx:31 input_id:1012 decoded_text: .
+idx:32 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[2.040487766265869, -2.8073322772979736, -4.147974491119385, 4.881590366363525]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

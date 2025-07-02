@@ -1,0 +1,54 @@
+Execution time: 2025-07-02 17:24:34
+prompt: [CLS] pakistan # 39 ; s president pervez musharraf called on monday for debate over the possibility of removing arms and troops from regions of kashmir as part of efforts to resolve more than 50 years of dispute with india. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:4501 decoded_text: pakistan
+idx:2 input_id:1001 decoded_text: #
+idx:3 input_id:4464 decoded_text: 39
+idx:4 input_id:1025 decoded_text: ;
+idx:5 input_id:1055 decoded_text: s
+idx:6 input_id:2343 decoded_text: president
+idx:7 input_id:2566 decoded_text: per
+idx:8 input_id:26132 decoded_text: ##vez
+idx:9 input_id:14163 decoded_text: mu
+idx:10 input_id:7377 decoded_text: ##sha
+idx:11 input_id:11335 decoded_text: ##rra
+idx:12 input_id:2546 decoded_text: ##f
+idx:13 input_id:2170 decoded_text: called
+idx:14 input_id:2006 decoded_text: on
+idx:15 input_id:6928 decoded_text: monday
+idx:16 input_id:2005 decoded_text: for
+idx:17 input_id:5981 decoded_text: debate
+idx:18 input_id:2058 decoded_text: over
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:6061 decoded_text: possibility
+idx:21 input_id:1997 decoded_text: of
+idx:22 input_id:9268 decoded_text: removing
+idx:23 input_id:2608 decoded_text: arms
+idx:24 input_id:1998 decoded_text: and
+idx:25 input_id:3629 decoded_text: troops
+idx:26 input_id:2013 decoded_text: from
+idx:27 input_id:4655 decoded_text: regions
+idx:28 input_id:1997 decoded_text: of
+idx:29 input_id:13329 decoded_text: kashmir
+idx:30 input_id:2004 decoded_text: as
+idx:31 input_id:2112 decoded_text: part
+idx:32 input_id:1997 decoded_text: of
+idx:33 input_id:4073 decoded_text: efforts
+idx:34 input_id:2000 decoded_text: to
+idx:35 input_id:10663 decoded_text: resolve
+idx:36 input_id:2062 decoded_text: more
+idx:37 input_id:2084 decoded_text: than
+idx:38 input_id:2753 decoded_text: 50
+idx:39 input_id:2086 decoded_text: years
+idx:40 input_id:1997 decoded_text: of
+idx:41 input_id:7593 decoded_text: dispute
+idx:42 input_id:2007 decoded_text: with
+idx:43 input_id:2634 decoded_text: india
+idx:44 input_id:1012 decoded_text: .
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.286971092224121, -1.9006661176681519, -2.4598846435546875, -2.5880229473114014]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

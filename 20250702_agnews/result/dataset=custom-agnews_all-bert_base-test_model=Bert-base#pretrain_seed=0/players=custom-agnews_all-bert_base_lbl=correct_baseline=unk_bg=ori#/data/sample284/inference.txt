@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 17:28:13
+prompt: [CLS] san jose, calif. - - san jose has a reputation as one of the safest large cities in the nation, with the fewest police officers per capita. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2624 decoded_text: san
+idx:2 input_id:4560 decoded_text: jose
+idx:3 input_id:1010 decoded_text: ,
+idx:4 input_id:10250 decoded_text: cal
+idx:5 input_id:10128 decoded_text: ##if
+idx:6 input_id:1012 decoded_text: .
+idx:7 input_id:1011 decoded_text: -
+idx:8 input_id:1011 decoded_text: -
+idx:9 input_id:2624 decoded_text: san
+idx:10 input_id:4560 decoded_text: jose
+idx:11 input_id:2038 decoded_text: has
+idx:12 input_id:1037 decoded_text: a
+idx:13 input_id:5891 decoded_text: reputation
+idx:14 input_id:2004 decoded_text: as
+idx:15 input_id:2028 decoded_text: one
+idx:16 input_id:1997 decoded_text: of
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:3647 decoded_text: safe
+idx:19 input_id:3367 decoded_text: ##st
+idx:20 input_id:2312 decoded_text: large
+idx:21 input_id:3655 decoded_text: cities
+idx:22 input_id:1999 decoded_text: in
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:3842 decoded_text: nation
+idx:25 input_id:1010 decoded_text: ,
+idx:26 input_id:2007 decoded_text: with
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:2261 decoded_text: few
+idx:29 input_id:4355 decoded_text: ##est
+idx:30 input_id:2610 decoded_text: police
+idx:31 input_id:3738 decoded_text: officers
+idx:32 input_id:2566 decoded_text: per
+idx:33 input_id:8353 decoded_text: capita
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.195988416671753, -3.532907724380493, 2.7956783771514893, 1.6063454151153564]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

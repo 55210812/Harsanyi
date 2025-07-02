@@ -1,0 +1,33 @@
+Execution time: 2025-07-02 17:53:19
+prompt: [CLS] the chicago board options exchange said tuesday its directors approved steps to reduce its financial ties to two other exchanges in town. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:3190 decoded_text: chicago
+idx:3 input_id:2604 decoded_text: board
+idx:4 input_id:7047 decoded_text: options
+idx:5 input_id:3863 decoded_text: exchange
+idx:6 input_id:2056 decoded_text: said
+idx:7 input_id:9857 decoded_text: tuesday
+idx:8 input_id:2049 decoded_text: its
+idx:9 input_id:5501 decoded_text: directors
+idx:10 input_id:4844 decoded_text: approved
+idx:11 input_id:4084 decoded_text: steps
+idx:12 input_id:2000 decoded_text: to
+idx:13 input_id:5547 decoded_text: reduce
+idx:14 input_id:2049 decoded_text: its
+idx:15 input_id:3361 decoded_text: financial
+idx:16 input_id:7208 decoded_text: ties
+idx:17 input_id:2000 decoded_text: to
+idx:18 input_id:2048 decoded_text: two
+idx:19 input_id:2060 decoded_text: other
+idx:20 input_id:15800 decoded_text: exchanges
+idx:21 input_id:1999 decoded_text: in
+idx:22 input_id:2237 decoded_text: town
+idx:23 input_id:1012 decoded_text: .
+idx:24 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.7468605041503906, -3.001708984375, 6.700925350189209, -2.8479621410369873]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

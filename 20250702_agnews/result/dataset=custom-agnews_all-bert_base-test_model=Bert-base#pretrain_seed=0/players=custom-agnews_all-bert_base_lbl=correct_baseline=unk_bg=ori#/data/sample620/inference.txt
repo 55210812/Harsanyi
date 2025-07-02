@@ -1,0 +1,24 @@
+Execution time: 2025-07-02 17:45:11
+prompt: [CLS] the leading supermarket chain is still feeling the impact of its labor dispute. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2877 decoded_text: leading
+idx:3 input_id:17006 decoded_text: supermarket
+idx:4 input_id:4677 decoded_text: chain
+idx:5 input_id:2003 decoded_text: is
+idx:6 input_id:2145 decoded_text: still
+idx:7 input_id:3110 decoded_text: feeling
+idx:8 input_id:1996 decoded_text: the
+idx:9 input_id:4254 decoded_text: impact
+idx:10 input_id:1997 decoded_text: of
+idx:11 input_id:2049 decoded_text: its
+idx:12 input_id:4450 decoded_text: labor
+idx:13 input_id:7593 decoded_text: dispute
+idx:14 input_id:1012 decoded_text: .
+idx:15 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[0.2266770452260971, -3.9252021312713623, 5.406476020812988, -3.32641339302063]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 17:49:59
+prompt: [CLS] mexico # 39 ; s cemex, one of the world # 39 ; s largest makers of concrete will pay \ $ 4. 1 billion for british rival rmc group, the wall street journal reported monday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3290 decoded_text: mexico
+idx:2 input_id:1001 decoded_text: #
+idx:3 input_id:4464 decoded_text: 39
+idx:4 input_id:1025 decoded_text: ;
+idx:5 input_id:1055 decoded_text: s
+idx:6 input_id:8292 decoded_text: ce
+idx:7 input_id:4168 decoded_text: ##me
+idx:8 input_id:2595 decoded_text: ##x
+idx:9 input_id:1010 decoded_text: ,
+idx:10 input_id:2028 decoded_text: one
+idx:11 input_id:1997 decoded_text: of
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:2088 decoded_text: world
+idx:14 input_id:1001 decoded_text: #
+idx:15 input_id:4464 decoded_text: 39
+idx:16 input_id:1025 decoded_text: ;
+idx:17 input_id:1055 decoded_text: s
+idx:18 input_id:2922 decoded_text: largest
+idx:19 input_id:11153 decoded_text: makers
+idx:20 input_id:1997 decoded_text: of
+idx:21 input_id:5509 decoded_text: concrete
+idx:22 input_id:2097 decoded_text: will
+idx:23 input_id:3477 decoded_text: pay
+idx:24 input_id:1032 decoded_text: \
+idx:25 input_id:1002 decoded_text: $
+idx:26 input_id:1018 decoded_text: 4
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:1015 decoded_text: 1
+idx:29 input_id:4551 decoded_text: billion
+idx:30 input_id:2005 decoded_text: for
+idx:31 input_id:2329 decoded_text: british
+idx:32 input_id:6538 decoded_text: rival
+idx:33 input_id:28549 decoded_text: rm
+idx:34 input_id:2278 decoded_text: ##c
+idx:35 input_id:2177 decoded_text: group
+idx:36 input_id:1010 decoded_text: ,
+idx:37 input_id:1996 decoded_text: the
+idx:38 input_id:2813 decoded_text: wall
+idx:39 input_id:2395 decoded_text: street
+idx:40 input_id:3485 decoded_text: journal
+idx:41 input_id:2988 decoded_text: reported
+idx:42 input_id:6928 decoded_text: monday
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-1.2457300424575806, -3.1654093265533447, 6.114242076873779, -3.423882246017456]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

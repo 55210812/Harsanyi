@@ -1,0 +1,46 @@
+Execution time: 2025-07-02 17:44:13
+prompt: [CLS] government officials are trying to convince the chief organizer of the 2006 turin olympics not to quit, but valentino castellani says there is quot ; no room for second thoughts. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2231 decoded_text: government
+idx:2 input_id:4584 decoded_text: officials
+idx:3 input_id:2024 decoded_text: are
+idx:4 input_id:2667 decoded_text: trying
+idx:5 input_id:2000 decoded_text: to
+idx:6 input_id:8054 decoded_text: convince
+idx:7 input_id:1996 decoded_text: the
+idx:8 input_id:2708 decoded_text: chief
+idx:9 input_id:19012 decoded_text: organizer
+idx:10 input_id:1997 decoded_text: of
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:2294 decoded_text: 2006
+idx:13 input_id:13667 decoded_text: turin
+idx:14 input_id:3783 decoded_text: olympics
+idx:15 input_id:2025 decoded_text: not
+idx:16 input_id:2000 decoded_text: to
+idx:17 input_id:8046 decoded_text: quit
+idx:18 input_id:1010 decoded_text: ,
+idx:19 input_id:2021 decoded_text: but
+idx:20 input_id:24632 decoded_text: valentin
+idx:21 input_id:2080 decoded_text: ##o
+idx:22 input_id:14542 decoded_text: caste
+idx:23 input_id:19036 decoded_text: ##llan
+idx:24 input_id:2072 decoded_text: ##i
+idx:25 input_id:2758 decoded_text: says
+idx:26 input_id:2045 decoded_text: there
+idx:27 input_id:2003 decoded_text: is
+idx:28 input_id:22035 decoded_text: quo
+idx:29 input_id:2102 decoded_text: ##t
+idx:30 input_id:1025 decoded_text: ;
+idx:31 input_id:2053 decoded_text: no
+idx:32 input_id:2282 decoded_text: room
+idx:33 input_id:2005 decoded_text: for
+idx:34 input_id:2117 decoded_text: second
+idx:35 input_id:4301 decoded_text: thoughts
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.1361417770385742, 8.325897216796875, -2.863884210586548, -2.7778170108795166]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

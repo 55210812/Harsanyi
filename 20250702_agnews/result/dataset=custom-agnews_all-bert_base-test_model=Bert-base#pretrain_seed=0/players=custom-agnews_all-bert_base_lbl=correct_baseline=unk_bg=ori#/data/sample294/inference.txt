@@ -1,0 +1,35 @@
+Execution time: 2025-07-02 17:28:32
+prompt: [CLS] at least 21 people were dead wednesday as massive typhoon tokage churned north across the japanese archipelago after hitting kochi prefecture. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2012 decoded_text: at
+idx:2 input_id:2560 decoded_text: least
+idx:3 input_id:2538 decoded_text: 21
+idx:4 input_id:2111 decoded_text: people
+idx:5 input_id:2020 decoded_text: were
+idx:6 input_id:2757 decoded_text: dead
+idx:7 input_id:9317 decoded_text: wednesday
+idx:8 input_id:2004 decoded_text: as
+idx:9 input_id:5294 decoded_text: massive
+idx:10 input_id:15393 decoded_text: typhoon
+idx:11 input_id:2000 decoded_text: to
+idx:12 input_id:2912 decoded_text: ##ka
+idx:13 input_id:3351 decoded_text: ##ge
+idx:14 input_id:14684 decoded_text: chu
+idx:15 input_id:21119 decoded_text: ##rned
+idx:16 input_id:2167 decoded_text: north
+idx:17 input_id:2408 decoded_text: across
+idx:18 input_id:1996 decoded_text: the
+idx:19 input_id:2887 decoded_text: japanese
+idx:20 input_id:13888 decoded_text: archipelago
+idx:21 input_id:2044 decoded_text: after
+idx:22 input_id:7294 decoded_text: hitting
+idx:23 input_id:27603 decoded_text: kochi
+idx:24 input_id:7498 decoded_text: prefecture
+idx:25 input_id:1012 decoded_text: .
+idx:26 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.987178802490234, -1.759995460510254, -2.703458070755005, -2.164973020553589]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

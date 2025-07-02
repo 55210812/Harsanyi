@@ -1,0 +1,51 @@
+Execution time: 2025-07-02 17:53:16
+prompt: [CLS] los angeles - defense contractor northrop grumman corp. and aerospace giant boeing co. said tuesday that theyll bid as a team to compete for nasas planned manned and robotic space - exploration program. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3050 decoded_text: los
+idx:2 input_id:3349 decoded_text: angeles
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:3639 decoded_text: defense
+idx:5 input_id:13666 decoded_text: contractor
+idx:6 input_id:2167 decoded_text: north
+idx:7 input_id:18981 decoded_text: ##rop
+idx:8 input_id:24665 decoded_text: gr
+idx:9 input_id:2819 decoded_text: ##um
+idx:10 input_id:2386 decoded_text: ##man
+idx:11 input_id:13058 decoded_text: corp
+idx:12 input_id:1012 decoded_text: .
+idx:13 input_id:1998 decoded_text: and
+idx:14 input_id:13395 decoded_text: aerospace
+idx:15 input_id:5016 decoded_text: giant
+idx:16 input_id:10321 decoded_text: boeing
+idx:17 input_id:2522 decoded_text: co
+idx:18 input_id:1012 decoded_text: .
+idx:19 input_id:2056 decoded_text: said
+idx:20 input_id:9857 decoded_text: tuesday
+idx:21 input_id:2008 decoded_text: that
+idx:22 input_id:2027 decoded_text: they
+idx:23 input_id:3363 decoded_text: ##ll
+idx:24 input_id:7226 decoded_text: bid
+idx:25 input_id:2004 decoded_text: as
+idx:26 input_id:1037 decoded_text: a
+idx:27 input_id:2136 decoded_text: team
+idx:28 input_id:2000 decoded_text: to
+idx:29 input_id:5566 decoded_text: compete
+idx:30 input_id:2005 decoded_text: for
+idx:31 input_id:9274 decoded_text: nasa
+idx:32 input_id:2015 decoded_text: ##s
+idx:33 input_id:3740 decoded_text: planned
+idx:34 input_id:15371 decoded_text: manned
+idx:35 input_id:1998 decoded_text: and
+idx:36 input_id:20478 decoded_text: robotic
+idx:37 input_id:2686 decoded_text: space
+idx:38 input_id:1011 decoded_text: -
+idx:39 input_id:8993 decoded_text: exploration
+idx:40 input_id:2565 decoded_text: program
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[-4.460597038269043, -4.180504322052002, 2.916567802429199, 4.660511016845703]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 17:30:32
+prompt: [CLS] ap - the montreal expos and florida marlins will play games monday and tuesday at the chicago white sox's stadium after the marlins were forced to adjust their schedule for the second time this month because of a hurricane. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:9706 decoded_text: ap
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:1996 decoded_text: the
+idx:4 input_id:5548 decoded_text: montreal
+idx:5 input_id:16258 decoded_text: expo
+idx:6 input_id:2015 decoded_text: ##s
+idx:7 input_id:1998 decoded_text: and
+idx:8 input_id:3516 decoded_text: florida
+idx:9 input_id:27055 decoded_text: marlins
+idx:10 input_id:2097 decoded_text: will
+idx:11 input_id:2377 decoded_text: play
+idx:12 input_id:2399 decoded_text: games
+idx:13 input_id:6928 decoded_text: monday
+idx:14 input_id:1998 decoded_text: and
+idx:15 input_id:9857 decoded_text: tuesday
+idx:16 input_id:2012 decoded_text: at
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:3190 decoded_text: chicago
+idx:19 input_id:2317 decoded_text: white
+idx:20 input_id:9175 decoded_text: sox
+idx:21 input_id:1005 decoded_text: '
+idx:22 input_id:1055 decoded_text: s
+idx:23 input_id:3346 decoded_text: stadium
+idx:24 input_id:2044 decoded_text: after
+idx:25 input_id:1996 decoded_text: the
+idx:26 input_id:27055 decoded_text: marlins
+idx:27 input_id:2020 decoded_text: were
+idx:28 input_id:3140 decoded_text: forced
+idx:29 input_id:2000 decoded_text: to
+idx:30 input_id:14171 decoded_text: adjust
+idx:31 input_id:2037 decoded_text: their
+idx:32 input_id:6134 decoded_text: schedule
+idx:33 input_id:2005 decoded_text: for
+idx:34 input_id:1996 decoded_text: the
+idx:35 input_id:2117 decoded_text: second
+idx:36 input_id:2051 decoded_text: time
+idx:37 input_id:2023 decoded_text: this
+idx:38 input_id:3204 decoded_text: month
+idx:39 input_id:2138 decoded_text: because
+idx:40 input_id:1997 decoded_text: of
+idx:41 input_id:1037 decoded_text: a
+idx:42 input_id:7064 decoded_text: hurricane
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-1.6519168615341187, 8.551682472229004, -3.054868459701538, -2.184370994567871]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

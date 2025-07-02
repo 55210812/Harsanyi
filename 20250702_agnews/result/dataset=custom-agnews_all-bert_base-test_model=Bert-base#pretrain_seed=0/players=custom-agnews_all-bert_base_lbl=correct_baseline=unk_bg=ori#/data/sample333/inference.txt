@@ -1,0 +1,42 @@
+Execution time: 2025-07-02 17:30:30
+prompt: [CLS] astronomers using telescopes not much larger than the spyglass galileo wielded 400 years ago have discovered a new jupiter - sized planet orbiting a bright, distant star. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26357 decoded_text: astronomers
+idx:2 input_id:2478 decoded_text: using
+idx:3 input_id:28026 decoded_text: telescopes
+idx:4 input_id:2025 decoded_text: not
+idx:5 input_id:2172 decoded_text: much
+idx:6 input_id:3469 decoded_text: larger
+idx:7 input_id:2084 decoded_text: than
+idx:8 input_id:1996 decoded_text: the
+idx:9 input_id:8645 decoded_text: spy
+idx:10 input_id:15621 decoded_text: ##glass
+idx:11 input_id:21514 decoded_text: galileo
+idx:12 input_id:15536 decoded_text: wi
+idx:13 input_id:14273 decoded_text: ##eld
+idx:14 input_id:2098 decoded_text: ##ed
+idx:15 input_id:4278 decoded_text: 400
+idx:16 input_id:2086 decoded_text: years
+idx:17 input_id:3283 decoded_text: ago
+idx:18 input_id:2031 decoded_text: have
+idx:19 input_id:3603 decoded_text: discovered
+idx:20 input_id:1037 decoded_text: a
+idx:21 input_id:2047 decoded_text: new
+idx:22 input_id:13035 decoded_text: jupiter
+idx:23 input_id:1011 decoded_text: -
+idx:24 input_id:7451 decoded_text: sized
+idx:25 input_id:4774 decoded_text: planet
+idx:26 input_id:26472 decoded_text: orbiting
+idx:27 input_id:1037 decoded_text: a
+idx:28 input_id:4408 decoded_text: bright
+idx:29 input_id:1010 decoded_text: ,
+idx:30 input_id:6802 decoded_text: distant
+idx:31 input_id:2732 decoded_text: star
+idx:32 input_id:1012 decoded_text: .
+idx:33 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:3
+pred_scores:[[1.2663662433624268, -3.27046275138855, -3.7456188201904297, 5.682002067565918]]
+decoded_pred_text (only for generation task): [unused2]
+==================================================

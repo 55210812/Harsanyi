@@ -1,0 +1,36 @@
+Execution time: 2025-07-02 17:47:52
+prompt: [CLS] reuters - yemen has received information that \ foreign terrorists are planning to attack its sea ports, a \ security source said on wednesday. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:26665 decoded_text: reuters
+idx:2 input_id:1011 decoded_text: -
+idx:3 input_id:13968 decoded_text: yemen
+idx:4 input_id:2038 decoded_text: has
+idx:5 input_id:2363 decoded_text: received
+idx:6 input_id:2592 decoded_text: information
+idx:7 input_id:2008 decoded_text: that
+idx:8 input_id:1032 decoded_text: \
+idx:9 input_id:3097 decoded_text: foreign
+idx:10 input_id:15554 decoded_text: terrorists
+idx:11 input_id:2024 decoded_text: are
+idx:12 input_id:4041 decoded_text: planning
+idx:13 input_id:2000 decoded_text: to
+idx:14 input_id:2886 decoded_text: attack
+idx:15 input_id:2049 decoded_text: its
+idx:16 input_id:2712 decoded_text: sea
+idx:17 input_id:8831 decoded_text: ports
+idx:18 input_id:1010 decoded_text: ,
+idx:19 input_id:1037 decoded_text: a
+idx:20 input_id:1032 decoded_text: \
+idx:21 input_id:3036 decoded_text: security
+idx:22 input_id:3120 decoded_text: source
+idx:23 input_id:2056 decoded_text: said
+idx:24 input_id:2006 decoded_text: on
+idx:25 input_id:9317 decoded_text: wednesday
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[7.1098737716674805, -2.8441011905670166, -1.8916820287704468, -2.280874490737915]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

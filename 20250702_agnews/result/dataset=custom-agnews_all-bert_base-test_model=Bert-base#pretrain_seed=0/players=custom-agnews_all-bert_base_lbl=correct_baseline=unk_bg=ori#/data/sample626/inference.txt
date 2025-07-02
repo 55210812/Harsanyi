@@ -1,0 +1,53 @@
+Execution time: 2025-07-02 17:45:13
+prompt: [CLS] new york - - the corporate pension crisis seems to be going from bad to worse. first, companies struggled to come up with the money to cover their benefit obligations, and now they want to ditch their plans altogether. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2047 decoded_text: new
+idx:2 input_id:2259 decoded_text: york
+idx:3 input_id:1011 decoded_text: -
+idx:4 input_id:1011 decoded_text: -
+idx:5 input_id:1996 decoded_text: the
+idx:6 input_id:5971 decoded_text: corporate
+idx:7 input_id:11550 decoded_text: pension
+idx:8 input_id:5325 decoded_text: crisis
+idx:9 input_id:3849 decoded_text: seems
+idx:10 input_id:2000 decoded_text: to
+idx:11 input_id:2022 decoded_text: be
+idx:12 input_id:2183 decoded_text: going
+idx:13 input_id:2013 decoded_text: from
+idx:14 input_id:2919 decoded_text: bad
+idx:15 input_id:2000 decoded_text: to
+idx:16 input_id:4788 decoded_text: worse
+idx:17 input_id:1012 decoded_text: .
+idx:18 input_id:2034 decoded_text: first
+idx:19 input_id:1010 decoded_text: ,
+idx:20 input_id:3316 decoded_text: companies
+idx:21 input_id:6915 decoded_text: struggled
+idx:22 input_id:2000 decoded_text: to
+idx:23 input_id:2272 decoded_text: come
+idx:24 input_id:2039 decoded_text: up
+idx:25 input_id:2007 decoded_text: with
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:2769 decoded_text: money
+idx:28 input_id:2000 decoded_text: to
+idx:29 input_id:3104 decoded_text: cover
+idx:30 input_id:2037 decoded_text: their
+idx:31 input_id:5770 decoded_text: benefit
+idx:32 input_id:14422 decoded_text: obligations
+idx:33 input_id:1010 decoded_text: ,
+idx:34 input_id:1998 decoded_text: and
+idx:35 input_id:2085 decoded_text: now
+idx:36 input_id:2027 decoded_text: they
+idx:37 input_id:2215 decoded_text: want
+idx:38 input_id:2000 decoded_text: to
+idx:39 input_id:14033 decoded_text: ditch
+idx:40 input_id:2037 decoded_text: their
+idx:41 input_id:3488 decoded_text: plans
+idx:42 input_id:10462 decoded_text: altogether
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:2
+pred_scores:[[-2.7626490592956543, -3.602353572845459, 6.624804496765137, -2.497793197631836]]
+decoded_pred_text (only for generation task): [unused1]
+==================================================

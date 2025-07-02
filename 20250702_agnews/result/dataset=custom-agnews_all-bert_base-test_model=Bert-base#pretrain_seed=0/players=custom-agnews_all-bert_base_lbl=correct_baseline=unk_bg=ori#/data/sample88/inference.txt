@@ -1,0 +1,44 @@
+Execution time: 2025-07-02 17:19:10
+prompt: [CLS] the government may have been caught flat - footed by australia # 39 ; s announcement of a 1850km maritime security zone but it turns out new zealand already has similar measures. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2231 decoded_text: government
+idx:3 input_id:2089 decoded_text: may
+idx:4 input_id:2031 decoded_text: have
+idx:5 input_id:2042 decoded_text: been
+idx:6 input_id:3236 decoded_text: caught
+idx:7 input_id:4257 decoded_text: flat
+idx:8 input_id:1011 decoded_text: -
+idx:9 input_id:28856 decoded_text: footed
+idx:10 input_id:2011 decoded_text: by
+idx:11 input_id:2660 decoded_text: australia
+idx:12 input_id:1001 decoded_text: #
+idx:13 input_id:4464 decoded_text: 39
+idx:14 input_id:1025 decoded_text: ;
+idx:15 input_id:1055 decoded_text: s
+idx:16 input_id:8874 decoded_text: announcement
+idx:17 input_id:1997 decoded_text: of
+idx:18 input_id:1037 decoded_text: a
+idx:19 input_id:7973 decoded_text: 1850
+idx:20 input_id:22287 decoded_text: ##km
+idx:21 input_id:7803 decoded_text: maritime
+idx:22 input_id:3036 decoded_text: security
+idx:23 input_id:4224 decoded_text: zone
+idx:24 input_id:2021 decoded_text: but
+idx:25 input_id:2009 decoded_text: it
+idx:26 input_id:4332 decoded_text: turns
+idx:27 input_id:2041 decoded_text: out
+idx:28 input_id:2047 decoded_text: new
+idx:29 input_id:3414 decoded_text: zealand
+idx:30 input_id:2525 decoded_text: already
+idx:31 input_id:2038 decoded_text: has
+idx:32 input_id:2714 decoded_text: similar
+idx:33 input_id:5761 decoded_text: measures
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[6.5009260177612305, -2.0207691192626953, -2.651506185531616, -1.6523157358169556]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================
