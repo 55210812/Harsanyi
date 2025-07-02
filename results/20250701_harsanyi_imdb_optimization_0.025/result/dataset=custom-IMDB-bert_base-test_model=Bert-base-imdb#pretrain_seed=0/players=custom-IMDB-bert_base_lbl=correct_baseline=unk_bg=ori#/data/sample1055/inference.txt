@@ -1,0 +1,57 @@
+Execution time: 2025-07-02 14:41:17
+prompt: [CLS] farrah fawcett gives the best performance by an actress on film in this gritty real life attempted rape thriller where she turns the tables & gives james russo a taste of his own medicine. a must see for any movie fan. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2521 decoded_text: far
+idx:2 input_id:10404 decoded_text: ##rah
+idx:3 input_id:6904 decoded_text: fa
+idx:4 input_id:16526 decoded_text: ##wc
+idx:5 input_id:6582 decoded_text: ##ett
+idx:6 input_id:3957 decoded_text: gives
+idx:7 input_id:1996 decoded_text: the
+idx:8 input_id:2190 decoded_text: best
+idx:9 input_id:2836 decoded_text: performance
+idx:10 input_id:2011 decoded_text: by
+idx:11 input_id:2019 decoded_text: an
+idx:12 input_id:3883 decoded_text: actress
+idx:13 input_id:2006 decoded_text: on
+idx:14 input_id:2143 decoded_text: film
+idx:15 input_id:1999 decoded_text: in
+idx:16 input_id:2023 decoded_text: this
+idx:17 input_id:24842 decoded_text: grit
+idx:18 input_id:3723 decoded_text: ##ty
+idx:19 input_id:2613 decoded_text: real
+idx:20 input_id:2166 decoded_text: life
+idx:21 input_id:4692 decoded_text: attempted
+idx:22 input_id:9040 decoded_text: rape
+idx:23 input_id:10874 decoded_text: thriller
+idx:24 input_id:2073 decoded_text: where
+idx:25 input_id:2016 decoded_text: she
+idx:26 input_id:4332 decoded_text: turns
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:7251 decoded_text: tables
+idx:29 input_id:1004 decoded_text: &
+idx:30 input_id:3957 decoded_text: gives
+idx:31 input_id:2508 decoded_text: james
+idx:32 input_id:17023 decoded_text: russo
+idx:33 input_id:1037 decoded_text: a
+idx:34 input_id:5510 decoded_text: taste
+idx:35 input_id:1997 decoded_text: of
+idx:36 input_id:2010 decoded_text: his
+idx:37 input_id:2219 decoded_text: own
+idx:38 input_id:4200 decoded_text: medicine
+idx:39 input_id:1012 decoded_text: .
+idx:40 input_id:1037 decoded_text: a
+idx:41 input_id:2442 decoded_text: must
+idx:42 input_id:2156 decoded_text: see
+idx:43 input_id:2005 decoded_text: for
+idx:44 input_id:2151 decoded_text: any
+idx:45 input_id:3185 decoded_text: movie
+idx:46 input_id:5470 decoded_text: fan
+idx:47 input_id:1012 decoded_text: .
+idx:48 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-4.039572715759277, 4.374542236328125]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

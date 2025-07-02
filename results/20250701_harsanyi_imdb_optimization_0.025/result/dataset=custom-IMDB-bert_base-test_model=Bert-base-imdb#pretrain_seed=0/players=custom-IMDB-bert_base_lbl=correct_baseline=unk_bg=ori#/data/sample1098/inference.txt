@@ -1,0 +1,72 @@
+Execution time: 2025-07-02 14:46:09
+prompt: [CLS] such energy and vitality. you just can't go wrong with busby berkley films and this certainly must be his best. of course the choreography is wonderful, but also the banter between cagney and blondell is so colorful and such a delight. don't miss this one. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2107 decoded_text: such
+idx:2 input_id:2943 decoded_text: energy
+idx:3 input_id:1998 decoded_text: and
+idx:4 input_id:8995 decoded_text: vital
+idx:5 input_id:3012 decoded_text: ##ity
+idx:6 input_id:1012 decoded_text: .
+idx:7 input_id:2017 decoded_text: you
+idx:8 input_id:2074 decoded_text: just
+idx:9 input_id:2064 decoded_text: can
+idx:10 input_id:1005 decoded_text: '
+idx:11 input_id:1056 decoded_text: t
+idx:12 input_id:2175 decoded_text: go
+idx:13 input_id:3308 decoded_text: wrong
+idx:14 input_id:2007 decoded_text: with
+idx:15 input_id:3902 decoded_text: bus
+idx:16 input_id:3762 decoded_text: ##by
+idx:17 input_id:2022 decoded_text: be
+idx:18 input_id:8024 decoded_text: ##rk
+idx:19 input_id:3051 decoded_text: ##ley
+idx:20 input_id:3152 decoded_text: films
+idx:21 input_id:1998 decoded_text: and
+idx:22 input_id:2023 decoded_text: this
+idx:23 input_id:5121 decoded_text: certainly
+idx:24 input_id:2442 decoded_text: must
+idx:25 input_id:2022 decoded_text: be
+idx:26 input_id:2010 decoded_text: his
+idx:27 input_id:2190 decoded_text: best
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:1997 decoded_text: of
+idx:30 input_id:2607 decoded_text: course
+idx:31 input_id:1996 decoded_text: the
+idx:32 input_id:16967 decoded_text: choreography
+idx:33 input_id:2003 decoded_text: is
+idx:34 input_id:6919 decoded_text: wonderful
+idx:35 input_id:1010 decoded_text: ,
+idx:36 input_id:2021 decoded_text: but
+idx:37 input_id:2036 decoded_text: also
+idx:38 input_id:1996 decoded_text: the
+idx:39 input_id:7221 decoded_text: ban
+idx:40 input_id:3334 decoded_text: ##ter
+idx:41 input_id:2090 decoded_text: between
+idx:42 input_id:6187 decoded_text: ca
+idx:43 input_id:10177 decoded_text: ##gne
+idx:44 input_id:2100 decoded_text: ##y
+idx:45 input_id:1998 decoded_text: and
+idx:46 input_id:9081 decoded_text: blonde
+idx:47 input_id:3363 decoded_text: ##ll
+idx:48 input_id:2003 decoded_text: is
+idx:49 input_id:2061 decoded_text: so
+idx:50 input_id:14231 decoded_text: colorful
+idx:51 input_id:1998 decoded_text: and
+idx:52 input_id:2107 decoded_text: such
+idx:53 input_id:1037 decoded_text: a
+idx:54 input_id:12208 decoded_text: delight
+idx:55 input_id:1012 decoded_text: .
+idx:56 input_id:2123 decoded_text: don
+idx:57 input_id:1005 decoded_text: '
+idx:58 input_id:1056 decoded_text: t
+idx:59 input_id:3335 decoded_text: miss
+idx:60 input_id:2023 decoded_text: this
+idx:61 input_id:2028 decoded_text: one
+idx:62 input_id:1012 decoded_text: .
+idx:63 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-4.061789035797119, 4.33729887008667]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

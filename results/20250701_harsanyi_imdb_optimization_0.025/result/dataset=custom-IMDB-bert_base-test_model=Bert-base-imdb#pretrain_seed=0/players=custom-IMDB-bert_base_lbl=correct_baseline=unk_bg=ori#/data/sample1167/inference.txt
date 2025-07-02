@@ -1,0 +1,76 @@
+Execution time: 2025-07-02 14:53:31
+prompt: [CLS] its not braveheart ( thankfully ), but it is fine entertainment with engaging characters and good acting all around. i enjoyed this film when it was released and upon viewing it again last week, find it has held up well over time. not a classic film, but a very fine and watchable movie to enjoy as great entertainment. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2049 decoded_text: its
+idx:2 input_id:2025 decoded_text: not
+idx:3 input_id:9191 decoded_text: brave
+idx:4 input_id:22375 decoded_text: ##heart
+idx:5 input_id:1006 decoded_text: (
+idx:6 input_id:16047 decoded_text: thankfully
+idx:7 input_id:1007 decoded_text: )
+idx:8 input_id:1010 decoded_text: ,
+idx:9 input_id:2021 decoded_text: but
+idx:10 input_id:2009 decoded_text: it
+idx:11 input_id:2003 decoded_text: is
+idx:12 input_id:2986 decoded_text: fine
+idx:13 input_id:4024 decoded_text: entertainment
+idx:14 input_id:2007 decoded_text: with
+idx:15 input_id:11973 decoded_text: engaging
+idx:16 input_id:3494 decoded_text: characters
+idx:17 input_id:1998 decoded_text: and
+idx:18 input_id:2204 decoded_text: good
+idx:19 input_id:3772 decoded_text: acting
+idx:20 input_id:2035 decoded_text: all
+idx:21 input_id:2105 decoded_text: around
+idx:22 input_id:1012 decoded_text: .
+idx:23 input_id:1045 decoded_text: i
+idx:24 input_id:5632 decoded_text: enjoyed
+idx:25 input_id:2023 decoded_text: this
+idx:26 input_id:2143 decoded_text: film
+idx:27 input_id:2043 decoded_text: when
+idx:28 input_id:2009 decoded_text: it
+idx:29 input_id:2001 decoded_text: was
+idx:30 input_id:2207 decoded_text: released
+idx:31 input_id:1998 decoded_text: and
+idx:32 input_id:2588 decoded_text: upon
+idx:33 input_id:10523 decoded_text: viewing
+idx:34 input_id:2009 decoded_text: it
+idx:35 input_id:2153 decoded_text: again
+idx:36 input_id:2197 decoded_text: last
+idx:37 input_id:2733 decoded_text: week
+idx:38 input_id:1010 decoded_text: ,
+idx:39 input_id:2424 decoded_text: find
+idx:40 input_id:2009 decoded_text: it
+idx:41 input_id:2038 decoded_text: has
+idx:42 input_id:2218 decoded_text: held
+idx:43 input_id:2039 decoded_text: up
+idx:44 input_id:2092 decoded_text: well
+idx:45 input_id:2058 decoded_text: over
+idx:46 input_id:2051 decoded_text: time
+idx:47 input_id:1012 decoded_text: .
+idx:48 input_id:2025 decoded_text: not
+idx:49 input_id:1037 decoded_text: a
+idx:50 input_id:4438 decoded_text: classic
+idx:51 input_id:2143 decoded_text: film
+idx:52 input_id:1010 decoded_text: ,
+idx:53 input_id:2021 decoded_text: but
+idx:54 input_id:1037 decoded_text: a
+idx:55 input_id:2200 decoded_text: very
+idx:56 input_id:2986 decoded_text: fine
+idx:57 input_id:1998 decoded_text: and
+idx:58 input_id:3422 decoded_text: watch
+idx:59 input_id:3085 decoded_text: ##able
+idx:60 input_id:3185 decoded_text: movie
+idx:61 input_id:2000 decoded_text: to
+idx:62 input_id:5959 decoded_text: enjoy
+idx:63 input_id:2004 decoded_text: as
+idx:64 input_id:2307 decoded_text: great
+idx:65 input_id:4024 decoded_text: entertainment
+idx:66 input_id:1012 decoded_text: .
+idx:67 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-4.0005035400390625, 4.312788963317871]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

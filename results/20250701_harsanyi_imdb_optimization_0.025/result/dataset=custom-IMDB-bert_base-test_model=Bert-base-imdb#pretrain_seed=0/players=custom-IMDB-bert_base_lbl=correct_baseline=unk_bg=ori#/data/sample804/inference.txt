@@ -1,0 +1,58 @@
+Execution time: 2025-07-02 14:17:31
+prompt: [CLS] predictable plot. simple dialogue. shockingly unemotional performances. but robert downey, jr. is so cute, i gave this poor man's afternoon special " a 3 instead of the 1 or 2 it so richly deserved. " [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:21425 decoded_text: predictable
+idx:2 input_id:5436 decoded_text: plot
+idx:3 input_id:1012 decoded_text: .
+idx:4 input_id:3722 decoded_text: simple
+idx:5 input_id:7982 decoded_text: dialogue
+idx:6 input_id:1012 decoded_text: .
+idx:7 input_id:16880 decoded_text: shocking
+idx:8 input_id:2135 decoded_text: ##ly
+idx:9 input_id:16655 decoded_text: une
+idx:10 input_id:18938 decoded_text: ##mot
+idx:11 input_id:19301 decoded_text: ##ional
+idx:12 input_id:4616 decoded_text: performances
+idx:13 input_id:1012 decoded_text: .
+idx:14 input_id:2021 decoded_text: but
+idx:15 input_id:2728 decoded_text: robert
+idx:16 input_id:2091 decoded_text: down
+idx:17 input_id:3240 decoded_text: ##ey
+idx:18 input_id:1010 decoded_text: ,
+idx:19 input_id:3781 decoded_text: jr
+idx:20 input_id:1012 decoded_text: .
+idx:21 input_id:2003 decoded_text: is
+idx:22 input_id:2061 decoded_text: so
+idx:23 input_id:10140 decoded_text: cute
+idx:24 input_id:1010 decoded_text: ,
+idx:25 input_id:1045 decoded_text: i
+idx:26 input_id:2435 decoded_text: gave
+idx:27 input_id:2023 decoded_text: this
+idx:28 input_id:3532 decoded_text: poor
+idx:29 input_id:2158 decoded_text: man
+idx:30 input_id:1005 decoded_text: '
+idx:31 input_id:1055 decoded_text: s
+idx:32 input_id:5027 decoded_text: afternoon
+idx:33 input_id:2569 decoded_text: special
+idx:34 input_id:1000 decoded_text: "
+idx:35 input_id:1037 decoded_text: a
+idx:36 input_id:1017 decoded_text: 3
+idx:37 input_id:2612 decoded_text: instead
+idx:38 input_id:1997 decoded_text: of
+idx:39 input_id:1996 decoded_text: the
+idx:40 input_id:1015 decoded_text: 1
+idx:41 input_id:2030 decoded_text: or
+idx:42 input_id:1016 decoded_text: 2
+idx:43 input_id:2009 decoded_text: it
+idx:44 input_id:2061 decoded_text: so
+idx:45 input_id:26502 decoded_text: richly
+idx:46 input_id:10849 decoded_text: deserved
+idx:47 input_id:1012 decoded_text: .
+idx:48 input_id:1000 decoded_text: "
+idx:49 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.177741050720215, -3.737894058227539]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

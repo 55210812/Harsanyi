@@ -1,0 +1,14 @@
+---------- Players ----------
+Player A: movie
+Player B: terrible
+Player C: good
+Player D: effects.
+---------- AND Interactions (Pairwise Only) ----------
+I(AB): 1.0845098495483398	 ([movie][terrible])
+I(AC): -0.6526055335998535	 ([movie][good])
+I(BD): 0.6011149883270264	 ([terrible][effects.])
+I(BC): -0.5800409317016602	 ([terrible][good])
+I(CD): 0.49638688564300537	 ([good][effects.])
+I(AD): 0.07863724231719971	 ([movie][effects.])
+Sum: 6.71115505695343
+==================================================

@@ -1,0 +1,72 @@
+Execution time: 2025-07-02 13:31:29
+prompt: [CLS] this movie is so good i could watch it all day long! mary - kate and ashley were robbed at oscar time!! if i got to be one of the actors i would be so excited!!! i can't wait for the new charlie's angels movie starring mary - kate and ashley. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2023 decoded_text: this
+idx:2 input_id:3185 decoded_text: movie
+idx:3 input_id:2003 decoded_text: is
+idx:4 input_id:2061 decoded_text: so
+idx:5 input_id:2204 decoded_text: good
+idx:6 input_id:1045 decoded_text: i
+idx:7 input_id:2071 decoded_text: could
+idx:8 input_id:3422 decoded_text: watch
+idx:9 input_id:2009 decoded_text: it
+idx:10 input_id:2035 decoded_text: all
+idx:11 input_id:2154 decoded_text: day
+idx:12 input_id:2146 decoded_text: long
+idx:13 input_id:999 decoded_text: !
+idx:14 input_id:2984 decoded_text: mary
+idx:15 input_id:1011 decoded_text: -
+idx:16 input_id:5736 decoded_text: kate
+idx:17 input_id:1998 decoded_text: and
+idx:18 input_id:9321 decoded_text: ashley
+idx:19 input_id:2020 decoded_text: were
+idx:20 input_id:20114 decoded_text: robbed
+idx:21 input_id:2012 decoded_text: at
+idx:22 input_id:7436 decoded_text: oscar
+idx:23 input_id:2051 decoded_text: time
+idx:24 input_id:999 decoded_text: !
+idx:25 input_id:999 decoded_text: !
+idx:26 input_id:2065 decoded_text: if
+idx:27 input_id:1045 decoded_text: i
+idx:28 input_id:2288 decoded_text: got
+idx:29 input_id:2000 decoded_text: to
+idx:30 input_id:2022 decoded_text: be
+idx:31 input_id:2028 decoded_text: one
+idx:32 input_id:1997 decoded_text: of
+idx:33 input_id:1996 decoded_text: the
+idx:34 input_id:5889 decoded_text: actors
+idx:35 input_id:1045 decoded_text: i
+idx:36 input_id:2052 decoded_text: would
+idx:37 input_id:2022 decoded_text: be
+idx:38 input_id:2061 decoded_text: so
+idx:39 input_id:7568 decoded_text: excited
+idx:40 input_id:999 decoded_text: !
+idx:41 input_id:999 decoded_text: !
+idx:42 input_id:999 decoded_text: !
+idx:43 input_id:1045 decoded_text: i
+idx:44 input_id:2064 decoded_text: can
+idx:45 input_id:1005 decoded_text: '
+idx:46 input_id:1056 decoded_text: t
+idx:47 input_id:3524 decoded_text: wait
+idx:48 input_id:2005 decoded_text: for
+idx:49 input_id:1996 decoded_text: the
+idx:50 input_id:2047 decoded_text: new
+idx:51 input_id:4918 decoded_text: charlie
+idx:52 input_id:1005 decoded_text: '
+idx:53 input_id:1055 decoded_text: s
+idx:54 input_id:7048 decoded_text: angels
+idx:55 input_id:3185 decoded_text: movie
+idx:56 input_id:4626 decoded_text: starring
+idx:57 input_id:2984 decoded_text: mary
+idx:58 input_id:1011 decoded_text: -
+idx:59 input_id:5736 decoded_text: kate
+idx:60 input_id:1998 decoded_text: and
+idx:61 input_id:9321 decoded_text: ashley
+idx:62 input_id:1012 decoded_text: .
+idx:63 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.574390411376953, 3.2470104694366455]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

@@ -1,0 +1,287 @@
+Execution time: 2025-07-02 13:07:37
+--------------- args ---------------
+save_root : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025
+gpu_id : 2
+seed : 0
+data_type_name : auto
+model : Bert-base-imdb#pretrain
+dataset : custom-IMDB-bert_base
+data_path : datasets/custom-IMDB-bert_base
+batch_size : 1
+data_split : test
+interaction_type : harsanyi
+selected_dim : gt-log-odds
+gt_type : correct
+player_path : players/custom-IMDB-bert_base
+baseline_type : unk
+baseline_path : 
+background_type : ori
+sort_type : order
+cal_batch_size : 1024
+verbose : 1
+device : cuda:2
+dataset_model : dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0
+save_path : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#
+save_path_result : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#/data
+save_path_log : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#/log
+arch : Bert-base-imdb
+model_kwargs : {'num_labels': 2}
+tokenizer_kwargs : {}
+ModelClass : <class 'transformers.models.auto.modeling_auto.AutoModelForSequenceClassification'>
+TokenizerClass : <class 'transformers.models.auto.tokenization_auto.AutoTokenizer'>
+config_path : src/models/nlp/configs/bert-base-imdb_config.json
+task : nlp-seq-cls
+data_type_actual : torch.float32
+------------------------------
+Numpy: 1.24.4
+Pytorch: 2.1.0+cu121
+torchvision: 0.16.0+cu121
+Cuda: 12.1
+hostname: zqs10048
+==================================================
+Execution time: 2025-07-02 15:47:50
+--------------- args ---------------
+save_root : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025
+gpu_id : 2
+seed : 0
+data_type_name : auto
+model : Bert-base-imdb#pretrain
+dataset : custom-IMDB-bert_base
+data_path : datasets/custom-IMDB-bert_base
+batch_size : 1
+data_split : test
+interaction_type : harsanyi
+selected_dim : gt-log-odds
+gt_type : correct
+player_path : players/custom-IMDB-bert_base
+baseline_type : unk
+baseline_path : 
+background_type : ori
+sort_type : order
+cal_batch_size : 1024
+verbose : 1
+device : cuda:2
+dataset_model : dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0
+save_path : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#
+save_path_result : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#/data
+save_path_log : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#/log
+arch : Bert-base-imdb
+model_kwargs : {'num_labels': 2}
+tokenizer_kwargs : {}
+ModelClass : <class 'transformers.models.auto.modeling_auto.AutoModelForSequenceClassification'>
+TokenizerClass : <class 'transformers.models.auto.tokenization_auto.AutoTokenizer'>
+config_path : src/models/nlp/configs/bert-base-imdb_config.json
+task : nlp-seq-cls
+data_type_actual : torch.float32
+------------------------------
+Numpy: 1.24.4
+Pytorch: 2.1.0+cu121
+torchvision: 0.16.0+cu121
+Cuda: 12.1
+hostname: zqs10048
+==================================================
+Execution time: 2025-07-02 16:02:14
+--------------- args ---------------
+save_root : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025
+gpu_id : 2
+seed : 0
+data_type_name : auto
+model : Bert-base-imdb#pretrain
+dataset : custom-IMDB-bert_base
+data_path : datasets/custom-IMDB-bert_base
+batch_size : 1
+data_split : test
+interaction_type : harsanyi
+selected_dim : gt-log-odds
+gt_type : correct
+player_path : players/custom-IMDB-bert_base
+baseline_type : unk
+baseline_path : 
+background_type : ori
+sort_type : order
+cal_batch_size : 1024
+verbose : 1
+device : cuda:2
+dataset_model : dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0
+save_path : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#
+save_path_result : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#/data
+save_path_log : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#/log
+arch : Bert-base-imdb
+model_kwargs : {'num_labels': 2}
+tokenizer_kwargs : {}
+ModelClass : <class 'transformers.models.auto.modeling_auto.AutoModelForSequenceClassification'>
+TokenizerClass : <class 'transformers.models.auto.tokenization_auto.AutoTokenizer'>
+config_path : src/models/nlp/configs/bert-base-imdb_config.json
+task : nlp-seq-cls
+data_type_actual : torch.float32
+------------------------------
+Numpy: 1.24.4
+Pytorch: 2.1.0+cu121
+torchvision: 0.16.0+cu121
+Cuda: 12.1
+hostname: zqs10048
+==================================================
+Execution time: 2025-07-02 16:06:58
+--------------- args ---------------
+save_root : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025
+gpu_id : 2
+seed : 0
+data_type_name : auto
+model : Bert-base-imdb#pretrain
+dataset : custom-IMDB-bert_base
+data_path : datasets/custom-IMDB-bert_base
+batch_size : 1
+data_split : test
+interaction_type : harsanyi
+selected_dim : gt-log-odds
+gt_type : correct
+player_path : players/custom-IMDB-bert_base
+baseline_type : unk
+baseline_path : 
+background_type : ori
+sort_type : order
+cal_batch_size : 1024
+verbose : 1
+device : cuda:2
+dataset_model : dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0
+save_path : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#
+save_path_result : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#/data
+save_path_log : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#/log
+arch : Bert-base-imdb
+model_kwargs : {'num_labels': 2}
+tokenizer_kwargs : {}
+ModelClass : <class 'transformers.models.auto.modeling_auto.AutoModelForSequenceClassification'>
+TokenizerClass : <class 'transformers.models.auto.tokenization_auto.AutoTokenizer'>
+config_path : src/models/nlp/configs/bert-base-imdb_config.json
+task : nlp-seq-cls
+data_type_actual : torch.float32
+------------------------------
+Numpy: 1.24.4
+Pytorch: 2.1.0+cu121
+torchvision: 0.16.0+cu121
+Cuda: 12.1
+hostname: zqs10048
+==================================================
+Execution time: 2025-07-02 16:12:57
+--------------- args ---------------
+save_root : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025
+gpu_id : 2
+seed : 0
+data_type_name : auto
+model : Bert-base-imdb#pretrain
+dataset : custom-IMDB-bert_base
+data_path : datasets/custom-IMDB-bert_base
+batch_size : 1
+data_split : test
+interaction_type : harsanyi
+selected_dim : gt-log-odds
+gt_type : correct
+player_path : players/custom-IMDB-bert_base
+baseline_type : unk
+baseline_path : 
+background_type : ori
+sort_type : order
+cal_batch_size : 1024
+verbose : 1
+device : cuda:2
+dataset_model : dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0
+save_path : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#
+save_path_result : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#/data
+save_path_log : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#/log
+arch : Bert-base-imdb
+model_kwargs : {'num_labels': 2}
+tokenizer_kwargs : {}
+ModelClass : <class 'transformers.models.auto.modeling_auto.AutoModelForSequenceClassification'>
+TokenizerClass : <class 'transformers.models.auto.tokenization_auto.AutoTokenizer'>
+config_path : src/models/nlp/configs/bert-base-imdb_config.json
+task : nlp-seq-cls
+data_type_actual : torch.float32
+------------------------------
+Numpy: 1.24.4
+Pytorch: 2.1.0+cu121
+torchvision: 0.16.0+cu121
+Cuda: 12.1
+hostname: zqs10048
+==================================================
+Execution time: 2025-07-02 16:26:17
+--------------- args ---------------
+save_root : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025
+gpu_id : 5
+seed : 0
+data_type_name : auto
+model : Bert-base-imdb#pretrain
+dataset : custom-IMDB-bert_base
+data_path : datasets/custom-IMDB-bert_base
+batch_size : 1
+data_split : test
+interaction_type : harsanyi
+selected_dim : gt-log-odds
+gt_type : correct
+player_path : players/custom-IMDB-bert_base
+baseline_type : unk
+baseline_path : 
+background_type : ori
+sort_type : order
+cal_batch_size : 1024
+verbose : 1
+device : cuda:5
+dataset_model : dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0
+save_path : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#
+save_path_result : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#/data
+save_path_log : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#/log
+arch : Bert-base-imdb
+model_kwargs : {'num_labels': 2}
+tokenizer_kwargs : {}
+ModelClass : <class 'transformers.models.auto.modeling_auto.AutoModelForSequenceClassification'>
+TokenizerClass : <class 'transformers.models.auto.tokenization_auto.AutoTokenizer'>
+config_path : src/models/nlp/configs/bert-base-imdb_config.json
+task : nlp-seq-cls
+data_type_actual : torch.float32
+------------------------------
+Numpy: 1.24.4
+Pytorch: 2.1.0+cu121
+torchvision: 0.16.0+cu121
+Cuda: 12.1
+hostname: zqs10048
+==================================================
+Execution time: 2025-07-02 16:37:34
+--------------- args ---------------
+save_root : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025
+gpu_id : 5
+seed : 0
+data_type_name : auto
+model : Bert-base-imdb#pretrain
+dataset : custom-IMDB-bert_base
+data_path : datasets/custom-IMDB-bert_base
+batch_size : 1
+data_split : test
+interaction_type : harsanyi
+selected_dim : gt-log-odds
+gt_type : correct
+player_path : players/custom-IMDB-bert_base
+baseline_type : unk
+baseline_path : 
+background_type : ori
+sort_type : order
+cal_batch_size : 1024
+verbose : 1
+device : cuda:5
+dataset_model : dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0
+save_path : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#
+save_path_result : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#/data
+save_path_log : /mnt/data2/hqdeng7/CSCIENCE/interaction_nlp_harsanyi/results/20250701_harsanyi_imdb_optimization_0.025/result/dataset=custom-IMDB-bert_base-test_model=Bert-base-imdb#pretrain_seed=0/players=custom-IMDB-bert_base_lbl=correct_baseline=unk_bg=ori#/log
+arch : Bert-base-imdb
+model_kwargs : {'num_labels': 2}
+tokenizer_kwargs : {}
+ModelClass : <class 'transformers.models.auto.modeling_auto.AutoModelForSequenceClassification'>
+TokenizerClass : <class 'transformers.models.auto.tokenization_auto.AutoTokenizer'>
+config_path : src/models/nlp/configs/bert-base-imdb_config.json
+task : nlp-seq-cls
+data_type_actual : torch.float32
+------------------------------
+Numpy: 1.24.4
+Pytorch: 2.1.0+cu121
+torchvision: 0.16.0+cu121
+Cuda: 12.1
+hostname: zqs10048
+==================================================
