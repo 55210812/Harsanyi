@@ -1,0 +1,87 @@
+---------- Players ----------
+Player 0: please
+Player 1: avoid
+Player 2: movie
+Player 3: costs.
+Player 4: without
+Player 5: doubt,
+Player 6: worst
+Player 7: movie
+Player 8: i've
+Player 9: ever
+Player 10: seen.
+Player 11: movies
+Player 12: least
+Player 13: one
+Player 14: redeeming
+Player 15: value.
+Player 16: none.
+Player 17: totally
+Player 18: horrible!
+---------- Rewards ----------
+v(): -0.6270524859428406	 ([])
+v(5,6,8,9,12): 5.302592754364014	 ([doubt,][worst][i've][ever][least])
+v(0,1,2): 2.3015670776367188	 ([please][avoid][movie])
+v(3,4,15): -1.4428974390029907	 ([costs.][without][value.])
+v(11,13,14,16,17): 2.0104198455810547	 ([movies][one][redeeming][none.][totally])
+v(7,10,18): 5.9588494300842285	 ([movie][seen.][horrible!])
+v(0,1,2,5,6,8,9,12): 6.60418701171875	 ([please][avoid][movie][doubt,][worst][i've][ever][least])
+v(3,4,5,6,8,9,12,15): 6.739620208740234	 ([costs.][without][doubt,][worst][i've][ever][least][value.])
+v(5,6,8,9,11,12,13,14,16,17): 7.406124114990234	 ([doubt,][worst][i've][ever][movies][least][one][redeeming][none.][totally])
+v(5,6,7,8,9,10,12,18): 7.5606489181518555	 ([doubt,][worst][movie][i've][ever][seen.][least][horrible!])
+v(0,1,2,3,4,15): 5.008991241455078	 ([please][avoid][movie][costs.][without][value.])
+v(0,1,2,11,13,14,16,17): 4.941440105438232	 ([please][avoid][movie][movies][one][redeeming][none.][totally])
+v(0,1,2,7,10,18): 6.144716739654541	 ([please][avoid][movie][movie][seen.][horrible!])
+v(3,4,11,13,14,15,16,17): 3.928093194961548	 ([costs.][without][movies][one][redeeming][value.][none.][totally])
+v(3,4,7,10,15,18): 5.7170891761779785	 ([costs.][without][movie][seen.][value.][horrible!])
+v(7,10,11,13,14,16,17,18): 6.711207389831543	 ([movie][seen.][movies][one][redeeming][none.][totally][horrible!])
+v(0,1,2,3,4,5,6,8,9,12,15): 7.185266494750977	 ([please][avoid][movie][costs.][without][doubt,][worst][i've][ever][least][value.])
+v(0,1,2,5,6,8,9,11,12,13,14,16,17): 7.62645149230957	 ([please][avoid][movie][doubt,][worst][i've][ever][movies][least][one][redeeming][none.][totally])
+v(0,1,2,5,6,7,8,9,10,12,18): 7.699120044708252	 ([please][avoid][movie][doubt,][worst][movie][i've][ever][seen.][least][horrible!])
+v(3,4,5,6,8,9,11,12,13,14,15,16,17): 8.047423362731934	 ([costs.][without][doubt,][worst][i've][ever][movies][least][one][redeeming][value.][none.][totally])
+v(3,4,5,6,7,8,9,10,12,15,18): 7.879537105560303	 ([costs.][without][doubt,][worst][movie][i've][ever][seen.][least][value.][horrible!])
+v(5,6,7,8,9,10,11,12,13,14,16,17,18): 8.103352546691895	 ([doubt,][worst][movie][i've][ever][seen.][movies][least][one][redeeming][none.][totally][horrible!])
+v(0,1,2,3,4,11,13,14,15,16,17): 6.899196624755859	 ([please][avoid][movie][costs.][without][movies][one][redeeming][value.][none.][totally])
+v(0,1,2,3,4,7,10,15,18): 7.051203727722168	 ([please][avoid][movie][costs.][without][movie][seen.][value.][horrible!])
+v(0,1,2,7,10,11,13,14,16,17,18): 6.815816879272461	 ([please][avoid][movie][movie][seen.][movies][one][redeeming][none.][totally][horrible!])
+v(3,4,7,10,11,13,14,15,16,17,18): 7.511519432067871	 ([costs.][without][movie][seen.][movies][one][redeeming][value.][none.][totally][horrible!])
+v(0,1,2,3,4,5,6,8,9,11,12,13,14,15,16,17): 7.902040481567383	 ([please][avoid][movie][costs.][without][doubt,][worst][i've][ever][movies][least][one][redeeming][value.][none.][totally])
+v(0,1,2,3,4,5,6,7,8,9,10,12,15,18): 7.948122024536133	 ([please][avoid][movie][costs.][without][doubt,][worst][movie][i've][ever][seen.][least][value.][horrible!])
+v(0,1,2,5,6,7,8,9,10,11,12,13,14,16,17,18): 8.051515579223633	 ([please][avoid][movie][doubt,][worst][movie][i've][ever][seen.][movies][least][one][redeeming][none.][totally][horrible!])
+v(3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18): 8.197461128234863	 ([costs.][without][doubt,][worst][movie][i've][ever][seen.][movies][least][one][redeeming][value.][none.][totally][horrible!])
+v(0,1,2,3,4,7,10,11,13,14,15,16,17,18): 7.689142227172852	 ([please][avoid][movie][costs.][without][movie][seen.][movies][one][redeeming][value.][none.][totally][horrible!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18): 7.958313941955566	 ([please][avoid][movie][costs.][without][doubt,][worst][movie][i've][ever][seen.][movies][least][one][redeeming][value.][none.][totally][horrible!])
+---------- Rewards-v() ----------
+v(3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18): 8.82451343536377, EP: 1.0278551578521729	 ([costs.][without][doubt,][worst][movie][i've][ever][seen.][movies][least][one][redeeming][value.][none.][totally][horrible!])
+v(5,6,7,8,9,10,11,12,13,14,16,17,18): 8.7304048538208, EP: 1.016893744468689	 ([doubt,][worst][movie][i've][ever][seen.][movies][least][one][redeeming][none.][totally][horrible!])
+v(0,1,2,5,6,7,8,9,10,11,12,13,14,16,17,18): 8.678567886352539, EP: 1.0108559131622314	 ([please][avoid][movie][doubt,][worst][movie][i've][ever][seen.][movies][least][one][redeeming][none.][totally][horrible!])
+v(3,4,5,6,8,9,11,12,13,14,15,16,17): 8.67447566986084, EP: 1.0103791952133179	 ([costs.][without][doubt,][worst][i've][ever][movies][least][one][redeeming][value.][none.][totally])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18): 8.585366249084473, EP: 1.0	 ([please][avoid][movie][costs.][without][doubt,][worst][movie][i've][ever][seen.][movies][least][one][redeeming][value.][none.][totally][horrible!])
+v(0,1,2,3,4,5,6,7,8,9,10,12,15,18): 8.575174331665039, EP: 0.9988128542900085	 ([please][avoid][movie][costs.][without][doubt,][worst][movie][i've][ever][seen.][least][value.][horrible!])
+v(0,1,2,3,4,5,6,8,9,11,12,13,14,15,16,17): 8.529092788696289, EP: 0.9934453964233398	 ([please][avoid][movie][costs.][without][doubt,][worst][i've][ever][movies][least][one][redeeming][value.][none.][totally])
+v(3,4,5,6,7,8,9,10,12,15,18): 8.506589889526367, EP: 0.9908243417739868	 ([costs.][without][doubt,][worst][movie][i've][ever][seen.][least][value.][horrible!])
+v(0,1,2,5,6,7,8,9,10,12,18): 8.326172828674316, EP: 0.9698098301887512	 ([please][avoid][movie][doubt,][worst][movie][i've][ever][seen.][least][horrible!])
+v(0,1,2,3,4,7,10,11,13,14,15,16,17,18): 8.316194534301758, EP: 0.9686475992202759	 ([please][avoid][movie][costs.][without][movie][seen.][movies][one][redeeming][value.][none.][totally][horrible!])
+v(0,1,2,5,6,8,9,11,12,13,14,16,17): 8.253503799438477, EP: 0.9613455533981323	 ([please][avoid][movie][doubt,][worst][i've][ever][movies][least][one][redeeming][none.][totally])
+v(5,6,7,8,9,10,12,18): 8.187701225280762, EP: 0.9536810517311096	 ([doubt,][worst][movie][i've][ever][seen.][least][horrible!])
+v(3,4,7,10,11,13,14,15,16,17,18): 8.138571739196777, EP: 0.9479585886001587	 ([costs.][without][movie][seen.][movies][one][redeeming][value.][none.][totally][horrible!])
+v(5,6,8,9,11,12,13,14,16,17): 8.03317642211914, EP: 0.9356824159622192	 ([doubt,][worst][i've][ever][movies][least][one][redeeming][none.][totally])
+v(0,1,2,3,4,5,6,8,9,12,15): 7.812318801879883, EP: 0.9099575281143188	 ([please][avoid][movie][costs.][without][doubt,][worst][i've][ever][least][value.])
+v(0,1,2,3,4,7,10,15,18): 7.678256034851074, EP: 0.894342303276062	 ([please][avoid][movie][costs.][without][movie][seen.][value.][horrible!])
+v(0,1,2,3,4,11,13,14,15,16,17): 7.526248931884766, EP: 0.8766369223594666	 ([please][avoid][movie][costs.][without][movies][one][redeeming][value.][none.][totally])
+v(0,1,2,7,10,11,13,14,16,17,18): 7.442869186401367, EP: 0.866925060749054	 ([please][avoid][movie][movie][seen.][movies][one][redeeming][none.][totally][horrible!])
+v(3,4,5,6,8,9,12,15): 7.366672515869141, EP: 0.8580498695373535	 ([costs.][without][doubt,][worst][i've][ever][least][value.])
+v(7,10,11,13,14,16,17,18): 7.338259696960449, EP: 0.8547404408454895	 ([movie][seen.][movies][one][redeeming][none.][totally][horrible!])
+v(0,1,2,5,6,8,9,12): 7.231239318847656, EP: 0.8422750234603882	 ([please][avoid][movie][doubt,][worst][i've][ever][least])
+v(0,1,2,7,10,18): 6.771769046783447, EP: 0.7887571454048157	 ([please][avoid][movie][movie][seen.][horrible!])
+v(7,10,18): 6.585901737213135, EP: 0.7671078443527222	 ([movie][seen.][horrible!])
+v(3,4,7,10,15,18): 6.344141483306885, EP: 0.7389482855796814	 ([costs.][without][movie][seen.][value.][horrible!])
+v(5,6,8,9,12): 5.92964506149292, EP: 0.6906688809394836	 ([doubt,][worst][i've][ever][least])
+v(0,1,2,3,4,15): 5.636043548583984, EP: 0.6564709544181824	 ([please][avoid][movie][costs.][without][value.])
+v(0,1,2,11,13,14,16,17): 5.568492412567139, EP: 0.6486027836799622	 ([please][avoid][movie][movies][one][redeeming][none.][totally])
+v(3,4,11,13,14,15,16,17): 4.555145740509033, EP: 0.530570924282074	 ([costs.][without][movies][one][redeeming][value.][none.][totally])
+v(0,1,2): 2.928619623184204, EP: 0.34111762046813965	 ([please][avoid][movie])
+v(11,13,14,16,17): 2.63747239112854, EP: 0.30720558762550354	 ([movies][one][redeeming][none.][totally])
+v(3,4,15): -0.8158449530601501, EP: -0.0950273871421814	 ([costs.][without][value.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

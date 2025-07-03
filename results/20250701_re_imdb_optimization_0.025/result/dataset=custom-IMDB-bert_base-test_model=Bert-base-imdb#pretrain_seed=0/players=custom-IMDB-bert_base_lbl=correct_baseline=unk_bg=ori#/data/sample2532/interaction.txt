@@ -1,0 +1,27 @@
+---------- Players ----------
+Player 0: without
+Player 1: question,
+Player 2: worst
+Player 3: elvis
+Player 4: film
+Player 5: ever
+Player 6: made.
+Player 7: movie
+Player 8: portrays
+Player 9: indians
+Player 10: drunk,
+Player 11: stupid,
+Player 12: lazy.
+Player 13: watch
+Player 14: elvis's
+Player 15: skin
+Player 16: change
+Player 17: color
+Player 18: throughout
+Player 19: film.
+---------- AND Interactions (Pairwise Only) ----------
+I(0,19): 2.5977301597595215	 ([without][film.])
+I(6,9): -1.8008472919464111	 ([made.][indians])
+I(3,8): 0.9996803998947144	 ([elvis][portrays])
+Sum: 1.7965632677078247
+==================================================

@@ -1,0 +1,52 @@
+---------- Players ----------
+Player 0: wonderful
+Player 1: film
+Player 2: mixes
+Player 3: documentary
+Player 4: fiction
+Player 5: way
+Player 6: makes
+Player 7: spectator
+Player 8: question :
+Player 9: extent
+Player 10: truth
+Player 11: documentary
+Player 12: films
+Player 13: thing
+Player 14: objective
+Player 15: documentary.
+---------- Rewards ----------
+v(): 0.16133031249046326	 ([])
+v(0,1,7,15): 6.920454978942871	 ([wonderful][film][spectator][documentary.])
+v(4,5,6): 2.736313581466675	 ([fiction][way][makes])
+v(2,3,8,9,10,14): -0.03816041350364685	 ([mixes][documentary][question :][extent][truth][objective])
+v(11,12,13): -0.5331334471702576	 ([documentary][films][thing])
+v(0,1,4,5,6,7,15): 7.573066711425781	 ([wonderful][film][fiction][way][makes][spectator][documentary.])
+v(0,1,2,3,7,8,9,10,14,15): 7.8984375	 ([wonderful][film][mixes][documentary][spectator][question :][extent][truth][objective][documentary.])
+v(0,1,7,11,12,13,15): 7.437491416931152	 ([wonderful][film][spectator][documentary][films][thing][documentary.])
+v(2,3,4,5,6,8,9,10,14): 7.6370697021484375	 ([mixes][documentary][fiction][way][makes][question :][extent][truth][objective])
+v(4,5,6,11,12,13): 2.754444122314453	 ([fiction][way][makes][documentary][films][thing])
+v(2,3,8,9,10,11,12,13,14): -0.9893597364425659	 ([mixes][documentary][question :][extent][truth][documentary][films][thing][objective])
+v(0,1,2,3,4,5,6,7,8,9,10,14,15): 7.959629058837891	 ([wonderful][film][mixes][documentary][fiction][way][makes][spectator][question :][extent][truth][objective][documentary.])
+v(0,1,4,5,6,7,11,12,13,15): 7.656280517578125	 ([wonderful][film][fiction][way][makes][spectator][documentary][films][thing][documentary.])
+v(0,1,2,3,7,8,9,10,11,12,13,14,15): 8.056906700134277	 ([wonderful][film][mixes][documentary][spectator][question :][extent][truth][documentary][films][thing][objective][documentary.])
+v(2,3,4,5,6,8,9,10,11,12,13,14): 7.459789276123047	 ([mixes][documentary][fiction][way][makes][question :][extent][truth][documentary][films][thing][objective])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15): 8.00549602508545	 ([wonderful][film][mixes][documentary][fiction][way][makes][spectator][question :][extent][truth][documentary][films][thing][objective][documentary.])
+---------- Rewards-v() ----------
+v(0,1,2,3,7,8,9,10,11,12,13,14,15): 7.895576477050781, EP: 1.0065540075302124	 ([wonderful][film][mixes][documentary][spectator][question :][extent][truth][documentary][films][thing][objective][documentary.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15): 7.844165802001953, EP: 1.0	 ([wonderful][film][mixes][documentary][fiction][way][makes][spectator][question :][extent][truth][documentary][films][thing][objective][documentary.])
+v(0,1,2,3,4,5,6,7,8,9,10,14,15): 7.7982988357543945, EP: 0.9941527247428894	 ([wonderful][film][mixes][documentary][fiction][way][makes][spectator][question :][extent][truth][objective][documentary.])
+v(0,1,2,3,7,8,9,10,14,15): 7.737107276916504, EP: 0.9863518476486206	 ([wonderful][film][mixes][documentary][spectator][question :][extent][truth][objective][documentary.])
+v(0,1,4,5,6,7,11,12,13,15): 7.494950294494629, EP: 0.9554808735847473	 ([wonderful][film][fiction][way][makes][spectator][documentary][films][thing][documentary.])
+v(2,3,4,5,6,8,9,10,14): 7.475739479064941, EP: 0.9530317783355713	 ([mixes][documentary][fiction][way][makes][question :][extent][truth][objective])
+v(0,1,4,5,6,7,15): 7.411736488342285, EP: 0.9448724985122681	 ([wonderful][film][fiction][way][makes][spectator][documentary.])
+v(2,3,4,5,6,8,9,10,11,12,13,14): 7.298459053039551, EP: 0.9304314851760864	 ([mixes][documentary][fiction][way][makes][question :][extent][truth][documentary][films][thing][objective])
+v(0,1,7,11,12,13,15): 7.276161193847656, EP: 0.9275888800621033	 ([wonderful][film][spectator][documentary][films][thing][documentary.])
+v(0,1,7,15): 6.759124755859375, EP: 0.8616753816604614	 ([wonderful][film][spectator][documentary.])
+v(4,5,6,11,12,13): 2.593113899230957, EP: 0.33057868480682373	 ([fiction][way][makes][documentary][films][thing])
+v(4,5,6): 2.5749833583831787, EP: 0.32826733589172363	 ([fiction][way][makes])
+v(2,3,8,9,10,11,12,13,14): -1.1506900787353516, EP: -0.14669375121593475	 ([mixes][documentary][question :][extent][truth][documentary][films][thing][objective])
+v(11,12,13): -0.6944637298583984, EP: -0.08853251487016678	 ([documentary][films][thing])
+v(2,3,8,9,10,14): -0.1994907259941101, EP: -0.025431731715798378	 ([mixes][documentary][question :][extent][truth][objective])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

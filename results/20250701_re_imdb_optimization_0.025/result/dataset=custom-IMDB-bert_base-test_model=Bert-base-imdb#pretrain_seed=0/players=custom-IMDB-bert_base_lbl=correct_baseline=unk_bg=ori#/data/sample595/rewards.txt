@@ -1,0 +1,83 @@
+---------- Players ----------
+Player 0: almost
+Player 1: ideal
+Player 2: romantic
+Player 3: anime!
+Player 4: must
+Player 5: see
+Player 6: ages!
+Player 7: english
+Player 8: dubbed
+Player 9: version
+Player 10: good.
+Player 11: perhaps
+Player 12: 1999
+Player 13: version
+Player 14: better.
+---------- Rewards ----------
+v(): 0.8748449087142944	 ([])
+v(2,3,4): 6.236758708953857	 ([romantic][anime!][must])
+v(6,7,9): 4.744630813598633	 ([ages!][english][version])
+v(0,1,14): 1.2813242673873901	 ([almost][ideal][better.])
+v(5,10,13): -1.4931799173355103	 ([see][good.][version])
+v(8,11,12): 0.13926488161087036	 ([dubbed][perhaps][1999])
+v(2,3,4,6,7,9): 7.722557067871094	 ([romantic][anime!][must][ages!][english][version])
+v(0,1,2,3,4,14): 6.723082542419434	 ([almost][ideal][romantic][anime!][must][better.])
+v(2,3,4,5,10,13): 5.911624908447266	 ([romantic][anime!][must][see][good.][version])
+v(2,3,4,8,11,12): 7.54230260848999	 ([romantic][anime!][must][dubbed][perhaps][1999])
+v(0,1,6,7,9,14): 5.576447486877441	 ([almost][ideal][ages!][english][version][better.])
+v(5,6,7,9,10,13): 4.913423538208008	 ([see][ages!][english][version][good.][version])
+v(6,7,8,9,11,12): 6.055992126464844	 ([ages!][english][dubbed][version][perhaps][1999])
+v(0,1,5,10,13,14): -0.42086172103881836	 ([almost][ideal][see][good.][version][better.])
+v(0,1,8,11,12,14): 0.20465923845767975	 ([almost][ideal][dubbed][perhaps][1999][better.])
+v(5,8,10,11,12,13): -0.8666976690292358	 ([see][dubbed][good.][perhaps][1999][version])
+v(0,1,2,3,4,6,7,9,14): 7.76188850402832	 ([almost][ideal][romantic][anime!][must][ages!][english][version][better.])
+v(2,3,4,5,6,7,9,10,13): 6.841153144836426	 ([romantic][anime!][must][see][ages!][english][version][good.][version])
+v(2,3,4,6,7,8,9,11,12): 7.892647743225098	 ([romantic][anime!][must][ages!][english][dubbed][version][perhaps][1999])
+v(0,1,2,3,4,5,10,13,14): 6.471558570861816	 ([almost][ideal][romantic][anime!][must][see][good.][version][better.])
+v(0,1,2,3,4,8,11,12,14): 6.840949058532715	 ([almost][ideal][romantic][anime!][must][dubbed][perhaps][1999][better.])
+v(2,3,4,5,8,10,11,12,13): 7.1741943359375	 ([romantic][anime!][must][see][dubbed][good.][perhaps][1999][version])
+v(0,1,5,6,7,9,10,13,14): 5.675807952880859	 ([almost][ideal][see][ages!][english][version][good.][version][better.])
+v(0,1,6,7,8,9,11,12,14): 6.470799446105957	 ([almost][ideal][ages!][english][dubbed][version][perhaps][1999][better.])
+v(5,6,7,8,9,10,11,12,13): 6.982792854309082	 ([see][ages!][english][dubbed][version][good.][perhaps][1999][version])
+v(0,1,5,8,10,11,12,13,14): -0.8596097230911255	 ([almost][ideal][see][dubbed][good.][perhaps][1999][version][better.])
+v(0,1,2,3,4,5,6,7,9,10,13,14): 7.2796220779418945	 ([almost][ideal][romantic][anime!][must][see][ages!][english][version][good.][version][better.])
+v(0,1,2,3,4,6,7,8,9,11,12,14): 7.635768413543701	 ([almost][ideal][romantic][anime!][must][ages!][english][dubbed][version][perhaps][1999][better.])
+v(2,3,4,5,6,7,8,9,10,11,12,13): 7.537299156188965	 ([romantic][anime!][must][see][ages!][english][dubbed][version][good.][perhaps][1999][version])
+v(0,1,2,3,4,5,8,10,11,12,13,14): 6.572882652282715	 ([almost][ideal][romantic][anime!][must][see][dubbed][good.][perhaps][1999][version][better.])
+v(0,1,5,6,7,8,9,10,11,12,13,14): 6.060476779937744	 ([almost][ideal][see][ages!][english][dubbed][version][good.][perhaps][1999][version][better.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14): 7.241083145141602	 ([almost][ideal][romantic][anime!][must][see][ages!][english][dubbed][version][good.][perhaps][1999][version][better.])
+---------- Rewards-v() ----------
+v(2,3,4,6,7,8,9,11,12): 7.017802715301514, EP: 1.1023468971252441	 ([romantic][anime!][must][ages!][english][dubbed][version][perhaps][1999])
+v(0,1,2,3,4,6,7,9,14): 6.887043476104736, EP: 1.0818073749542236	 ([almost][ideal][romantic][anime!][must][ages!][english][version][better.])
+v(2,3,4,6,7,9): 6.84771203994751, EP: 1.0756292343139648	 ([romantic][anime!][must][ages!][english][version])
+v(0,1,2,3,4,6,7,8,9,11,12,14): 6.760923385620117, EP: 1.061996579170227	 ([almost][ideal][romantic][anime!][must][ages!][english][dubbed][version][perhaps][1999][better.])
+v(2,3,4,8,11,12): 6.667457580566406, EP: 1.0473151206970215	 ([romantic][anime!][must][dubbed][perhaps][1999])
+v(2,3,4,5,6,7,8,9,10,11,12,13): 6.662454128265381, EP: 1.0465291738510132	 ([romantic][anime!][must][see][ages!][english][dubbed][version][good.][perhaps][1999][version])
+v(0,1,2,3,4,5,6,7,9,10,13,14): 6.4047770500183105, EP: 1.0060536861419678	 ([almost][ideal][romantic][anime!][must][see][ages!][english][version][good.][version][better.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14): 6.366238117218018, EP: 1.0	 ([almost][ideal][romantic][anime!][must][see][ages!][english][dubbed][version][good.][perhaps][1999][version][better.])
+v(2,3,4,5,8,10,11,12,13): 6.299349308013916, EP: 0.989493191242218	 ([romantic][anime!][must][see][dubbed][good.][perhaps][1999][version])
+v(5,6,7,8,9,10,11,12,13): 6.107947826385498, EP: 0.9594281315803528	 ([see][ages!][english][dubbed][version][good.][perhaps][1999][version])
+v(2,3,4,5,6,7,9,10,13): 5.966308116912842, EP: 0.9371795654296875	 ([romantic][anime!][must][see][ages!][english][version][good.][version])
+v(0,1,2,3,4,8,11,12,14): 5.966104030609131, EP: 0.9371474981307983	 ([almost][ideal][romantic][anime!][must][dubbed][perhaps][1999][better.])
+v(0,1,2,3,4,14): 5.84823751449585, EP: 0.9186331629753113	 ([almost][ideal][romantic][anime!][must][better.])
+v(0,1,2,3,4,5,8,10,11,12,13,14): 5.698037624359131, EP: 0.895039975643158	 ([almost][ideal][romantic][anime!][must][see][dubbed][good.][perhaps][1999][version][better.])
+v(0,1,2,3,4,5,10,13,14): 5.596713542938232, EP: 0.879124104976654	 ([almost][ideal][romantic][anime!][must][see][good.][version][better.])
+v(0,1,6,7,8,9,11,12,14): 5.595954418182373, EP: 0.8790048956871033	 ([almost][ideal][ages!][english][dubbed][version][perhaps][1999][better.])
+v(2,3,4): 5.361913681030273, EP: 0.8422420620918274	 ([romantic][anime!][must])
+v(0,1,5,6,7,8,9,10,11,12,13,14): 5.18563175201416, EP: 0.8145519495010376	 ([almost][ideal][see][ages!][english][dubbed][version][good.][perhaps][1999][version][better.])
+v(6,7,8,9,11,12): 5.18114709854126, EP: 0.813847541809082	 ([ages!][english][dubbed][version][perhaps][1999])
+v(2,3,4,5,10,13): 5.036779880523682, EP: 0.7911705374717712	 ([romantic][anime!][must][see][good.][version])
+v(0,1,5,6,7,9,10,13,14): 4.800962924957275, EP: 0.7541286945343018	 ([almost][ideal][see][ages!][english][version][good.][version][better.])
+v(0,1,6,7,9,14): 4.701602458953857, EP: 0.7385212779045105	 ([almost][ideal][ages!][english][version][better.])
+v(5,6,7,9,10,13): 4.038578510284424, EP: 0.6343743801116943	 ([see][ages!][english][version][good.][version])
+v(6,7,9): 3.869785785675049, EP: 0.6078606843948364	 ([ages!][english][version])
+v(5,10,13): -2.3680248260498047, EP: -0.3719661235809326	 ([see][good.][version])
+v(5,8,10,11,12,13): -1.7415425777435303, EP: -0.2735591232776642	 ([see][dubbed][good.][perhaps][1999][version])
+v(0,1,5,8,10,11,12,13,14): -1.73445463180542, EP: -0.27244576811790466	 ([almost][ideal][see][dubbed][good.][perhaps][1999][version][better.])
+v(0,1,5,10,13,14): -1.2957066297531128, EP: -0.20352782309055328	 ([almost][ideal][see][good.][version][better.])
+v(8,11,12): -0.7355800271034241, EP: -0.1155439093708992	 ([dubbed][perhaps][1999])
+v(0,1,8,11,12,14): -0.6701856851577759, EP: -0.1052718535065651	 ([almost][ideal][dubbed][perhaps][1999][better.])
+v(0,1,14): 0.4064793586730957, EP: 0.06384922564029694	 ([almost][ideal][better.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['32', '29', '34', '21', '31']: ['advanced', 'generated', 'sales', 'lot', 'publicity']: 平均边权 0.9573
+社区 2: ['30', '48', '49', '46', '40', '47']: ['good', 'quite', 'good.', 'film', 'given', 'surprisingly']: 平均边权 0.7380
+社区 3: ['35', '25', '43', '11', '23', '24', '51', '10']: ['film', 'film', 'film', 'directors.', 'due', 'financing', 'plot', 'film']: 平均边权 0.5750
+社区 4: ['50', '41', '42', '44', '36', '45']: ['main', 'suspense', 'thriller.', 'released', 'around', '2001']: 平均边权 0.4984
+社区 5: ['39', '26']: ['information', 'really']: 平均边权 0.5326
+社区 6: ['4', '5', '22', '27', '52', '6']: ['indian', 'films', 'contraversy', 'knowing', 'surrogacy', 'due']: 平均边权 0.4170
+社区 7: ['16', '17', '15', '19', '14', '18']: ['hai', 'nothing', 'pyaar', 'out.', 'naa', 'stood']: 平均边权 0.6317
+社区 8: ['2', '12', '56', '38', '20', '0', '13', '3', '37', '1', '33', '28']: ['bad', 'mohabbatein', 'preiti', 'abroad.', 'cccc', 'year', 'kaho', 'year', 'india', '2000', 'ticket', 'film']: 平均边权 0.4126
+社区 9: ['7', '8', '9']: ['lack', 'quality', 'imagination']: 平均边权 1.0508
+社区 10: ['55', '57', '53', '59', '58', '54']: ['salman', 'give', 'well', 'performance', 'good', 'handled.']: 平均边权 0.3869

@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['12', '19', '13', '18', '16', '15', '9', '17', '7']: ['dialog,', 'sense.', 'flow', 'make', 'done.', 'poorly', 'comedy', 'much', 'disappointment,']: 平均边权 1.2387
+社区 2: ['6', '10', '53', '47']: ['horror.', 'horror.', 'gruesome', 'scary']: 平均边权 1.6679
+社区 3: ['50', '37', '51', '49', '26']: ['hard', 'threatening', 'make', 'trying', 'terrified']: 平均边权 1.3644
+社区 4: ['8', '5', '0', '21', '4', '3', '23', '42', '1']: ['turned', 'watch', 'attracted', "there's", 'desire', 'plot', '30', 'maybe', 'seeing']: 平均边权 0.4871
+社区 5: ['20', '27', '35', '32', '29', '34', '43', '30', '22', '24', '28']: ['example,', 'one', 'adults', 'healthy', 'despite', 'young', 'parody', 'secret', 'party', 'people', 'person']: 平均边权 0.4493
+社区 6: ['2', '36', '45', '46', '11', '48', '44', '14', '31']: ['movie', 'guy', 'movie', 'like', 'acting,', 'movie,', 'another', 'movie', 'location']: 平均边权 0.5686
+社区 7: ['39', '38', '41', '40']: ['haggard.', 'sounds', 'thinking,', 'kept']: 平均边权 0.7070
+社区 8: ['55', '33', '25', '52', '54']: ['emphasis', 'looking', "they're", 'look', '-']: 平均边权 0.3758

@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['46', '42', '44', '43', '45']: ['stuff.', "' movie", 'good', "stuff '", 'movie']: 平均边权 1.1184
+社区 2: ['5', '49', '6', '7']: ['director,', 'elite', 'james', 'cameron,']: 平均边权 0.7955
+社区 3: ['39', '23', '20', '21']: ['jack', 'jack', 'family', 'friends']: 平均边权 0.7161
+社区 4: ['2', '8', '18', '4', '16', '11', '15', '3', '9', '1', '14', '17']: ['sunk', "' the", 'scene,', "didn't!!!", 'dinner', 'picture.', "' the", 'movie', "terminator '", 'may', 'scenes', "table '"]: 平均边权 0.5519
+社区 5: ['33', '32']: ["one '... i", "' the"]: 平均边权 1.1638
+社区 6: ['56', '57', '58', '52', '47', '50', '53', '51', '54']: ['almost', 'commits', 'suicide', 'live', 'greedy', 'stuck', 'husbands', 'associates', 'wealth.']: 平均边权 0.4729
+社区 7: ['55', '30', '19', '26', '40']: ['rose', 'woman', "rose's", 'rose', 'rose']: 平均边权 1.1237
+社区 8: ['12', '38', '0', '27', '36', '48', '37', '24', '28']: ['one', 'husband.', 'ship', 'look', 'room', 'mom', 'future', 'saves', 'face']: 平均边权 0.4380
+社区 9: ['35', '13', '25', '34', '29', '41', '22', '10', '31']: ['look', 'favorite', 'her.', 'hope', 'every', 'connection', 'meet', 'amazing', 'meet']: 平均边权 0.6303

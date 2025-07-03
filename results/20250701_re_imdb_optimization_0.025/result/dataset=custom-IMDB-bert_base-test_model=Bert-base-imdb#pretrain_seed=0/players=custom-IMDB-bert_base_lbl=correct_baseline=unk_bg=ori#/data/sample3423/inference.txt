@@ -1,0 +1,75 @@
+Execution time: 2025-07-03 20:16:33
+prompt: [CLS] the plot is tight. the acting is flawless. the directing, script, scenery, casting are all well done. i watch this movie frequently, though i don't know what it is about the whole thing that grabs me. see it and drop me a line if you can figure out why i like it so much. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:5436 decoded_text: plot
+idx:3 input_id:2003 decoded_text: is
+idx:4 input_id:4389 decoded_text: tight
+idx:5 input_id:1012 decoded_text: .
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:3772 decoded_text: acting
+idx:8 input_id:2003 decoded_text: is
+idx:9 input_id:27503 decoded_text: flawless
+idx:10 input_id:1012 decoded_text: .
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:9855 decoded_text: directing
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:5896 decoded_text: script
+idx:15 input_id:1010 decoded_text: ,
+idx:16 input_id:17363 decoded_text: scenery
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:9179 decoded_text: casting
+idx:19 input_id:2024 decoded_text: are
+idx:20 input_id:2035 decoded_text: all
+idx:21 input_id:2092 decoded_text: well
+idx:22 input_id:2589 decoded_text: done
+idx:23 input_id:1012 decoded_text: .
+idx:24 input_id:1045 decoded_text: i
+idx:25 input_id:3422 decoded_text: watch
+idx:26 input_id:2023 decoded_text: this
+idx:27 input_id:3185 decoded_text: movie
+idx:28 input_id:4703 decoded_text: frequently
+idx:29 input_id:1010 decoded_text: ,
+idx:30 input_id:2295 decoded_text: though
+idx:31 input_id:1045 decoded_text: i
+idx:32 input_id:2123 decoded_text: don
+idx:33 input_id:1005 decoded_text: '
+idx:34 input_id:1056 decoded_text: t
+idx:35 input_id:2113 decoded_text: know
+idx:36 input_id:2054 decoded_text: what
+idx:37 input_id:2009 decoded_text: it
+idx:38 input_id:2003 decoded_text: is
+idx:39 input_id:2055 decoded_text: about
+idx:40 input_id:1996 decoded_text: the
+idx:41 input_id:2878 decoded_text: whole
+idx:42 input_id:2518 decoded_text: thing
+idx:43 input_id:2008 decoded_text: that
+idx:44 input_id:13273 decoded_text: grabs
+idx:45 input_id:2033 decoded_text: me
+idx:46 input_id:1012 decoded_text: .
+idx:47 input_id:2156 decoded_text: see
+idx:48 input_id:2009 decoded_text: it
+idx:49 input_id:1998 decoded_text: and
+idx:50 input_id:4530 decoded_text: drop
+idx:51 input_id:2033 decoded_text: me
+idx:52 input_id:1037 decoded_text: a
+idx:53 input_id:2240 decoded_text: line
+idx:54 input_id:2065 decoded_text: if
+idx:55 input_id:2017 decoded_text: you
+idx:56 input_id:2064 decoded_text: can
+idx:57 input_id:3275 decoded_text: figure
+idx:58 input_id:2041 decoded_text: out
+idx:59 input_id:2339 decoded_text: why
+idx:60 input_id:1045 decoded_text: i
+idx:61 input_id:2066 decoded_text: like
+idx:62 input_id:2009 decoded_text: it
+idx:63 input_id:2061 decoded_text: so
+idx:64 input_id:2172 decoded_text: much
+idx:65 input_id:1012 decoded_text: .
+idx:66 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-3.8756213188171387, 4.30251932144165]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

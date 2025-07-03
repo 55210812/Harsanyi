@@ -1,0 +1,85 @@
+---------- Players ----------
+Player 0: agree
+Player 1: comments.
+Player 2: saw
+Player 3: movie
+Player 4: years
+Player 5: ago.
+Player 6: christopher
+Player 7: plummer
+Player 8: hilarious
+Player 9: dandy.
+Player 10: ribaldry
+Player 11: unsurpassed.
+Player 12: comes
+Player 13: video,
+Player 14: definitely
+Player 15: buy
+Player 16: it.
+---------- Rewards ----------
+v(): -0.762582540512085	 ([])
+v(0,2,7,8): 0.32056912779808044	 ([agree][saw][plummer][hilarious])
+v(13,14,15): 0.2717326283454895	 ([video,][definitely][buy])
+v(11): -0.13021180033683777	 ([unsurpassed.])
+v(3,6,9,10,12): 0.5308117866516113	 ([movie][christopher][dandy.][ribaldry][comes])
+v(1,4,5,16): 0.2068699300289154	 ([comments.][years][ago.][it.])
+v(0,2,7,8,13,14,15): 3.9319205284118652	 ([agree][saw][plummer][hilarious][video,][definitely][buy])
+v(0,2,7,8,11): 1.202489972114563	 ([agree][saw][plummer][hilarious][unsurpassed.])
+v(0,2,3,6,7,8,9,10,12): 4.6974992752075195	 ([agree][saw][movie][christopher][plummer][hilarious][dandy.][ribaldry][comes])
+v(0,1,2,4,5,7,8,16): 2.7003836631774902	 ([agree][comments.][saw][years][ago.][plummer][hilarious][it.])
+v(11,13,14,15): 3.7479605674743652	 ([unsurpassed.][video,][definitely][buy])
+v(3,6,9,10,12,13,14,15): 3.821500539779663	 ([movie][christopher][dandy.][ribaldry][comes][video,][definitely][buy])
+v(1,4,5,13,14,15,16): 5.337179660797119	 ([comments.][years][ago.][video,][definitely][buy][it.])
+v(3,6,9,10,11,12): 3.692288875579834	 ([movie][christopher][dandy.][ribaldry][unsurpassed.][comes])
+v(1,4,5,11,16): 0.5182757377624512	 ([comments.][years][ago.][unsurpassed.][it.])
+v(1,3,4,5,6,9,10,12,16): 1.1468364000320435	 ([comments.][movie][years][ago.][christopher][dandy.][ribaldry][comes][it.])
+v(0,2,7,8,11,13,14,15): 5.03730583190918	 ([agree][saw][plummer][hilarious][unsurpassed.][video,][definitely][buy])
+v(0,2,3,6,7,8,9,10,12,13,14,15): 7.397737979888916	 ([agree][saw][movie][christopher][plummer][hilarious][dandy.][ribaldry][comes][video,][definitely][buy])
+v(0,1,2,4,5,7,8,13,14,15,16): 7.531211853027344	 ([agree][comments.][saw][years][ago.][plummer][hilarious][video,][definitely][buy][it.])
+v(0,2,3,6,7,8,9,10,11,12): 7.362464904785156	 ([agree][saw][movie][christopher][plummer][hilarious][dandy.][ribaldry][unsurpassed.][comes])
+v(0,1,2,4,5,7,8,11,16): 3.7311811447143555	 ([agree][comments.][saw][years][ago.][plummer][hilarious][unsurpassed.][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,16): 6.072360038757324	 ([agree][comments.][saw][movie][years][ago.][christopher][plummer][hilarious][dandy.][ribaldry][comes][it.])
+v(3,6,9,10,11,12,13,14,15): 7.119198799133301	 ([movie][christopher][dandy.][ribaldry][unsurpassed.][comes][video,][definitely][buy])
+v(1,4,5,11,13,14,15,16): 6.13032865524292	 ([comments.][years][ago.][unsurpassed.][video,][definitely][buy][it.])
+v(1,3,4,5,6,9,10,12,13,14,15,16): 6.0785088539123535	 ([comments.][movie][years][ago.][christopher][dandy.][ribaldry][comes][video,][definitely][buy][it.])
+v(1,3,4,5,6,9,10,11,12,16): 5.077495574951172	 ([comments.][movie][years][ago.][christopher][dandy.][ribaldry][unsurpassed.][comes][it.])
+v(0,2,3,6,7,8,9,10,11,12,13,14,15): 8.518354415893555	 ([agree][saw][movie][christopher][plummer][hilarious][dandy.][ribaldry][unsurpassed.][comes][video,][definitely][buy])
+v(0,1,2,4,5,7,8,11,13,14,15,16): 7.896487712860107	 ([agree][comments.][saw][years][ago.][plummer][hilarious][unsurpassed.][video,][definitely][buy][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16): 8.338552474975586	 ([agree][comments.][saw][movie][years][ago.][christopher][plummer][hilarious][dandy.][ribaldry][comes][video,][definitely][buy][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,16): 7.731014251708984	 ([agree][comments.][saw][movie][years][ago.][christopher][plummer][hilarious][dandy.][ribaldry][unsurpassed.][comes][it.])
+v(1,3,4,5,6,9,10,11,12,13,14,15,16): 8.039779663085938	 ([comments.][movie][years][ago.][christopher][dandy.][ribaldry][unsurpassed.][comes][video,][definitely][buy][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16): 8.842175483703613	 ([agree][comments.][saw][movie][years][ago.][christopher][plummer][hilarious][dandy.][ribaldry][unsurpassed.][comes][video,][definitely][buy][it.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16): 9.604758262634277, EP: 1.0	 ([agree][comments.][saw][movie][years][ago.][christopher][plummer][hilarious][dandy.][ribaldry][unsurpassed.][comes][video,][definitely][buy][it.])
+v(0,2,3,6,7,8,9,10,11,12,13,14,15): 9.280937194824219, EP: 0.9662853479385376	 ([agree][saw][movie][christopher][plummer][hilarious][dandy.][ribaldry][unsurpassed.][comes][video,][definitely][buy])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16): 9.10113525390625, EP: 0.9475652575492859	 ([agree][comments.][saw][movie][years][ago.][christopher][plummer][hilarious][dandy.][ribaldry][comes][video,][definitely][buy][it.])
+v(1,3,4,5,6,9,10,11,12,13,14,15,16): 8.802362442016602, EP: 0.9164584875106812	 ([comments.][movie][years][ago.][christopher][dandy.][ribaldry][unsurpassed.][comes][video,][definitely][buy][it.])
+v(0,1,2,4,5,7,8,11,13,14,15,16): 8.659070014953613, EP: 0.9015396237373352	 ([agree][comments.][saw][years][ago.][plummer][hilarious][unsurpassed.][video,][definitely][buy][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,16): 8.493597030639648, EP: 0.8843113780021667	 ([agree][comments.][saw][movie][years][ago.][christopher][plummer][hilarious][dandy.][ribaldry][unsurpassed.][comes][it.])
+v(0,1,2,4,5,7,8,13,14,15,16): 8.293794631958008, EP: 0.863508939743042	 ([agree][comments.][saw][years][ago.][plummer][hilarious][video,][definitely][buy][it.])
+v(0,2,3,6,7,8,9,10,12,13,14,15): 8.160320281982422, EP: 0.8496122360229492	 ([agree][saw][movie][christopher][plummer][hilarious][dandy.][ribaldry][comes][video,][definitely][buy])
+v(0,2,3,6,7,8,9,10,11,12): 8.12504768371582, EP: 0.8459398150444031	 ([agree][saw][movie][christopher][plummer][hilarious][dandy.][ribaldry][unsurpassed.][comes])
+v(3,6,9,10,11,12,13,14,15): 7.881781578063965, EP: 0.8206121921539307	 ([movie][christopher][dandy.][ribaldry][unsurpassed.][comes][video,][definitely][buy])
+v(1,4,5,11,13,14,15,16): 6.892910957336426, EP: 0.7176558375358582	 ([comments.][years][ago.][unsurpassed.][video,][definitely][buy][it.])
+v(1,3,4,5,6,9,10,12,13,14,15,16): 6.841091156005859, EP: 0.7122606039047241	 ([comments.][movie][years][ago.][christopher][dandy.][ribaldry][comes][video,][definitely][buy][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,16): 6.834942817687988, EP: 0.7116205096244812	 ([agree][comments.][saw][movie][years][ago.][christopher][plummer][hilarious][dandy.][ribaldry][comes][it.])
+v(1,4,5,13,14,15,16): 6.099761962890625, EP: 0.6350771188735962	 ([comments.][years][ago.][video,][definitely][buy][it.])
+v(1,3,4,5,6,9,10,11,12,16): 5.840078353881836, EP: 0.6080400943756104	 ([comments.][movie][years][ago.][christopher][dandy.][ribaldry][unsurpassed.][comes][it.])
+v(0,2,7,8,11,13,14,15): 5.799888610839844, EP: 0.6038557887077332	 ([agree][saw][plummer][hilarious][unsurpassed.][video,][definitely][buy])
+v(0,2,3,6,7,8,9,10,12): 5.460082054138184, EP: 0.5684767961502075	 ([agree][saw][movie][christopher][plummer][hilarious][dandy.][ribaldry][comes])
+v(0,2,7,8,13,14,15): 4.694502830505371, EP: 0.48876845836639404	 ([agree][saw][plummer][hilarious][video,][definitely][buy])
+v(3,6,9,10,12,13,14,15): 4.584083080291748, EP: 0.477272093296051	 ([movie][christopher][dandy.][ribaldry][comes][video,][definitely][buy])
+v(11,13,14,15): 4.510542869567871, EP: 0.46961545944213867	 ([unsurpassed.][video,][definitely][buy])
+v(0,1,2,4,5,7,8,11,16): 4.4937639236450195, EP: 0.46786850690841675	 ([agree][comments.][saw][years][ago.][plummer][hilarious][unsurpassed.][it.])
+v(3,6,9,10,11,12): 4.45487117767334, EP: 0.4638191759586334	 ([movie][christopher][dandy.][ribaldry][unsurpassed.][comes])
+v(0,1,2,4,5,7,8,16): 3.462966203689575, EP: 0.36054694652557373	 ([agree][comments.][saw][years][ago.][plummer][hilarious][it.])
+v(0,2,7,8,11): 1.965072512626648, EP: 0.20459364354610443	 ([agree][saw][plummer][hilarious][unsurpassed.])
+v(1,3,4,5,6,9,10,12,16): 1.9094189405441284, EP: 0.198799267411232	 ([comments.][movie][years][ago.][christopher][dandy.][ribaldry][comes][it.])
+v(3,6,9,10,12): 1.2933943271636963, EP: 0.13466182351112366	 ([movie][christopher][dandy.][ribaldry][comes])
+v(1,4,5,11,16): 1.2808582782745361, EP: 0.13335664570331573	 ([comments.][years][ago.][unsurpassed.][it.])
+v(0,2,7,8): 1.0831516981124878, EP: 0.11277240514755249	 ([agree][saw][plummer][hilarious])
+v(13,14,15): 1.0343151092529297, EP: 0.10768777877092361	 ([video,][definitely][buy])
+v(1,4,5,16): 0.9694525003433228, EP: 0.10093460977077484	 ([comments.][years][ago.][it.])
+v(11): 0.6323707103729248, EP: 0.06583931297063828	 ([unsurpassed.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

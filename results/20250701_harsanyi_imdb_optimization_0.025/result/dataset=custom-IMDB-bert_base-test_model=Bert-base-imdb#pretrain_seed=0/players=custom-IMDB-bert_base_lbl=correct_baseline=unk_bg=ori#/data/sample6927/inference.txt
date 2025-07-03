@@ -1,0 +1,40 @@
+Execution time: 2025-07-03 23:31:02
+prompt: [CLS] as usual, sean connery does a great job. lawrence fishburn is good, but i have a hard time not seeing him as ike turner. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2004 decoded_text: as
+idx:2 input_id:5156 decoded_text: usual
+idx:3 input_id:1010 decoded_text: ,
+idx:4 input_id:5977 decoded_text: sean
+idx:5 input_id:17639 decoded_text: conner
+idx:6 input_id:2100 decoded_text: ##y
+idx:7 input_id:2515 decoded_text: does
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:2307 decoded_text: great
+idx:10 input_id:3105 decoded_text: job
+idx:11 input_id:1012 decoded_text: .
+idx:12 input_id:5623 decoded_text: lawrence
+idx:13 input_id:3869 decoded_text: fish
+idx:14 input_id:8022 decoded_text: ##burn
+idx:15 input_id:2003 decoded_text: is
+idx:16 input_id:2204 decoded_text: good
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:2021 decoded_text: but
+idx:19 input_id:1045 decoded_text: i
+idx:20 input_id:2031 decoded_text: have
+idx:21 input_id:1037 decoded_text: a
+idx:22 input_id:2524 decoded_text: hard
+idx:23 input_id:2051 decoded_text: time
+idx:24 input_id:2025 decoded_text: not
+idx:25 input_id:3773 decoded_text: seeing
+idx:26 input_id:2032 decoded_text: him
+idx:27 input_id:2004 decoded_text: as
+idx:28 input_id:25209 decoded_text: ike
+idx:29 input_id:6769 decoded_text: turner
+idx:30 input_id:1012 decoded_text: .
+idx:31 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.729513645172119, 3.49233341217041]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

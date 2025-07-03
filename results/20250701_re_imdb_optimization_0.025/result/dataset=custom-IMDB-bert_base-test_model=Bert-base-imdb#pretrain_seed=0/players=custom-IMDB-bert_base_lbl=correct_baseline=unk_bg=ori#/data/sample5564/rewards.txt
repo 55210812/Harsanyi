@@ -1,0 +1,89 @@
+---------- Players ----------
+Player 0: mix
+Player 1: ninja
+Player 2: stuff
+Player 3: mixed
+Player 4: sub - james
+Player 5: bond
+Player 6: storyline.
+Player 7: result
+Player 8: incredibly
+Player 9: awful
+Player 10: boring,
+Player 11: stage
+Player 12: endless
+Player 13: gun
+Player 14: battles.
+Player 15: can't
+Player 16: believe
+Player 17: released
+Player 18: theaters.
+Player 19: terminate
+Player 20: movie.
+---------- Rewards ----------
+v(): 0.11193189024925232	 ([])
+v(0,16,17,18,19): 6.066139221191406	 ([mix][believe][released][theaters.][terminate])
+v(7,8,9,10,11): 6.451747417449951	 ([result][incredibly][awful][boring,][stage])
+v(1,3,4,5): 1.4138842821121216	 ([ninja][mixed][sub - james][bond])
+v(12,13,14,15): 3.2421064376831055	 ([endless][gun][battles.][can't])
+v(2,6,20): 1.6666600704193115	 ([stuff][storyline.][movie.])
+v(0,7,8,9,10,11,16,17,18,19): 8.053655624389648	 ([mix][result][incredibly][awful][boring,][stage][believe][released][theaters.][terminate])
+v(0,1,3,4,5,16,17,18,19): 2.9720096588134766	 ([mix][ninja][mixed][sub - james][bond][believe][released][theaters.][terminate])
+v(0,12,13,14,15,16,17,18,19): 6.519015312194824	 ([mix][endless][gun][battles.][can't][believe][released][theaters.][terminate])
+v(0,2,6,16,17,18,19,20): 7.900026321411133	 ([mix][stuff][storyline.][believe][released][theaters.][terminate][movie.])
+v(1,3,4,5,7,8,9,10,11): 7.929980278015137	 ([ninja][mixed][sub - james][bond][result][incredibly][awful][boring,][stage])
+v(7,8,9,10,11,12,13,14,15): 7.766984462738037	 ([result][incredibly][awful][boring,][stage][endless][gun][battles.][can't])
+v(2,6,7,8,9,10,11,20): 7.720058441162109	 ([stuff][storyline.][result][incredibly][awful][boring,][stage][movie.])
+v(1,3,4,5,12,13,14,15): 4.356575965881348	 ([ninja][mixed][sub - james][bond][endless][gun][battles.][can't])
+v(1,2,3,4,5,6,20): 0.8376822471618652	 ([ninja][stuff][mixed][sub - james][bond][storyline.][movie.])
+v(2,6,12,13,14,15,20): 3.8665859699249268	 ([stuff][storyline.][endless][gun][battles.][can't][movie.])
+v(0,1,3,4,5,7,8,9,10,11,16,17,18,19): 8.276763916015625	 ([mix][ninja][mixed][sub - james][bond][result][incredibly][awful][boring,][stage][believe][released][theaters.][terminate])
+v(0,7,8,9,10,11,12,13,14,15,16,17,18,19): 8.298544883728027	 ([mix][result][incredibly][awful][boring,][stage][endless][gun][battles.][can't][believe][released][theaters.][terminate])
+v(0,2,6,7,8,9,10,11,16,17,18,19,20): 8.26905345916748	 ([mix][stuff][storyline.][result][incredibly][awful][boring,][stage][believe][released][theaters.][terminate][movie.])
+v(0,1,3,4,5,12,13,14,15,16,17,18,19): 6.420269012451172	 ([mix][ninja][mixed][sub - james][bond][endless][gun][battles.][can't][believe][released][theaters.][terminate])
+v(0,1,2,3,4,5,6,16,17,18,19,20): 7.374218463897705	 ([mix][ninja][stuff][mixed][sub - james][bond][storyline.][believe][released][theaters.][terminate][movie.])
+v(0,2,6,12,13,14,15,16,17,18,19,20): 7.929961204528809	 ([mix][stuff][storyline.][endless][gun][battles.][can't][believe][released][theaters.][terminate][movie.])
+v(1,3,4,5,7,8,9,10,11,12,13,14,15): 8.269428253173828	 ([ninja][mixed][sub - james][bond][result][incredibly][awful][boring,][stage][endless][gun][battles.][can't])
+v(1,2,3,4,5,6,7,8,9,10,11,20): 8.130203247070312	 ([ninja][stuff][mixed][sub - james][bond][storyline.][result][incredibly][awful][boring,][stage][movie.])
+v(2,6,7,8,9,10,11,12,13,14,15,20): 8.04100513458252	 ([stuff][storyline.][result][incredibly][awful][boring,][stage][endless][gun][battles.][can't][movie.])
+v(1,2,3,4,5,6,12,13,14,15,20): 2.999765157699585	 ([ninja][stuff][mixed][sub - james][bond][storyline.][endless][gun][battles.][can't][movie.])
+v(0,1,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19): 8.398666381835938	 ([mix][ninja][mixed][sub - james][bond][result][incredibly][awful][boring,][stage][endless][gun][battles.][can't][believe][released][theaters.][terminate])
+v(0,1,2,3,4,5,6,7,8,9,10,11,16,17,18,19,20): 8.462697982788086	 ([mix][ninja][stuff][mixed][sub - james][bond][storyline.][result][incredibly][awful][boring,][stage][believe][released][theaters.][terminate][movie.])
+v(0,2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 8.395425796508789	 ([mix][stuff][storyline.][result][incredibly][awful][boring,][stage][endless][gun][battles.][can't][believe][released][theaters.][terminate][movie.])
+v(0,1,2,3,4,5,6,12,13,14,15,16,17,18,19,20): 7.58812952041626	 ([mix][ninja][stuff][mixed][sub - james][bond][storyline.][endless][gun][battles.][can't][believe][released][theaters.][terminate][movie.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,20): 8.347916603088379	 ([ninja][stuff][mixed][sub - james][bond][storyline.][result][incredibly][awful][boring,][stage][endless][gun][battles.][can't][movie.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 8.592538833618164	 ([mix][ninja][stuff][mixed][sub - james][bond][storyline.][result][incredibly][awful][boring,][stage][endless][gun][battles.][can't][believe][released][theaters.][terminate][movie.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 8.480607032775879, EP: 1.0	 ([mix][ninja][stuff][mixed][sub - james][bond][storyline.][result][incredibly][awful][boring,][stage][endless][gun][battles.][can't][believe][released][theaters.][terminate][movie.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,16,17,18,19,20): 8.3507661819458, EP: 0.9846896529197693	 ([mix][ninja][stuff][mixed][sub - james][bond][storyline.][result][incredibly][awful][boring,][stage][believe][released][theaters.][terminate][movie.])
+v(0,1,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19): 8.286734580993652, EP: 0.9771392941474915	 ([mix][ninja][mixed][sub - james][bond][result][incredibly][awful][boring,][stage][endless][gun][battles.][can't][believe][released][theaters.][terminate])
+v(0,2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 8.283493995666504, EP: 0.9767572283744812	 ([mix][stuff][storyline.][result][incredibly][awful][boring,][stage][endless][gun][battles.][can't][believe][released][theaters.][terminate][movie.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,20): 8.235984802246094, EP: 0.9711551070213318	 ([ninja][stuff][mixed][sub - james][bond][storyline.][result][incredibly][awful][boring,][stage][endless][gun][battles.][can't][movie.])
+v(0,7,8,9,10,11,12,13,14,15,16,17,18,19): 8.186613082885742, EP: 0.9653334021568298	 ([mix][result][incredibly][awful][boring,][stage][endless][gun][battles.][can't][believe][released][theaters.][terminate])
+v(0,1,3,4,5,7,8,9,10,11,16,17,18,19): 8.16483211517334, EP: 0.9627650380134583	 ([mix][ninja][mixed][sub - james][bond][result][incredibly][awful][boring,][stage][believe][released][theaters.][terminate])
+v(1,3,4,5,7,8,9,10,11,12,13,14,15): 8.157496452331543, EP: 0.9619000554084778	 ([ninja][mixed][sub - james][bond][result][incredibly][awful][boring,][stage][endless][gun][battles.][can't])
+v(0,2,6,7,8,9,10,11,16,17,18,19,20): 8.157121658325195, EP: 0.9618558883666992	 ([mix][stuff][storyline.][result][incredibly][awful][boring,][stage][believe][released][theaters.][terminate][movie.])
+v(1,2,3,4,5,6,7,8,9,10,11,20): 8.018271446228027, EP: 0.9454832077026367	 ([ninja][stuff][mixed][sub - james][bond][storyline.][result][incredibly][awful][boring,][stage][movie.])
+v(0,7,8,9,10,11,16,17,18,19): 7.941723823547363, EP: 0.9364569783210754	 ([mix][result][incredibly][awful][boring,][stage][believe][released][theaters.][terminate])
+v(2,6,7,8,9,10,11,12,13,14,15,20): 7.929073333740234, EP: 0.9349653124809265	 ([stuff][storyline.][result][incredibly][awful][boring,][stage][endless][gun][battles.][can't][movie.])
+v(1,3,4,5,7,8,9,10,11): 7.818048477172852, EP: 0.9218736886978149	 ([ninja][mixed][sub - james][bond][result][incredibly][awful][boring,][stage])
+v(0,2,6,12,13,14,15,16,17,18,19,20): 7.818029403686523, EP: 0.9218714237213135	 ([mix][stuff][storyline.][endless][gun][battles.][can't][believe][released][theaters.][terminate][movie.])
+v(0,2,6,16,17,18,19,20): 7.788094520568848, EP: 0.9183416366577148	 ([mix][stuff][storyline.][believe][released][theaters.][terminate][movie.])
+v(7,8,9,10,11,12,13,14,15): 7.655052661895752, EP: 0.9026538729667664	 ([result][incredibly][awful][boring,][stage][endless][gun][battles.][can't])
+v(2,6,7,8,9,10,11,20): 7.608126640319824, EP: 0.8971205353736877	 ([stuff][storyline.][result][incredibly][awful][boring,][stage][movie.])
+v(0,1,2,3,4,5,6,12,13,14,15,16,17,18,19,20): 7.476197719573975, EP: 0.8815639615058899	 ([mix][ninja][stuff][mixed][sub - james][bond][storyline.][endless][gun][battles.][can't][believe][released][theaters.][terminate][movie.])
+v(0,1,2,3,4,5,6,16,17,18,19,20): 7.26228666305542, EP: 0.8563404083251953	 ([mix][ninja][stuff][mixed][sub - james][bond][storyline.][believe][released][theaters.][terminate][movie.])
+v(0,12,13,14,15,16,17,18,19): 6.407083511352539, EP: 0.7554982304573059	 ([mix][endless][gun][battles.][can't][believe][released][theaters.][terminate])
+v(7,8,9,10,11): 6.339815616607666, EP: 0.7475662231445312	 ([result][incredibly][awful][boring,][stage])
+v(0,1,3,4,5,12,13,14,15,16,17,18,19): 6.308337211608887, EP: 0.7438544631004333	 ([mix][ninja][mixed][sub - james][bond][endless][gun][battles.][can't][believe][released][theaters.][terminate])
+v(0,16,17,18,19): 5.954207420349121, EP: 0.7020968198776245	 ([mix][believe][released][theaters.][terminate])
+v(1,3,4,5,12,13,14,15): 4.2446441650390625, EP: 0.5005118250846863	 ([ninja][mixed][sub - james][bond][endless][gun][battles.][can't])
+v(2,6,12,13,14,15,20): 3.7546541690826416, EP: 0.44273412227630615	 ([stuff][storyline.][endless][gun][battles.][can't][movie.])
+v(12,13,14,15): 3.1301746368408203, EP: 0.3690979480743408	 ([endless][gun][battles.][can't])
+v(1,2,3,4,5,6,12,13,14,15,20): 2.8878333568573, EP: 0.34052202105522156	 ([ninja][stuff][mixed][sub - james][bond][storyline.][endless][gun][battles.][can't][movie.])
+v(0,1,3,4,5,16,17,18,19): 2.8600778579711914, EP: 0.33724918961524963	 ([mix][ninja][mixed][sub - james][bond][believe][released][theaters.][terminate])
+v(2,6,20): 1.5547281503677368, EP: 0.18332746624946594	 ([stuff][storyline.][movie.])
+v(1,3,4,5): 1.3019523620605469, EP: 0.15352113544940948	 ([ninja][mixed][sub - james][bond])
+v(1,2,3,4,5,6,20): 0.7257503271102905, EP: 0.08557763695716858	 ([ninja][stuff][mixed][sub - james][bond][storyline.][movie.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

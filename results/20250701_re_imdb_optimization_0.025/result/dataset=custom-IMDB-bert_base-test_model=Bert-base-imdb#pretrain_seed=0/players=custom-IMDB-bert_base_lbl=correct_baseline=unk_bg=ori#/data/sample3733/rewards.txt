@@ -1,0 +1,82 @@
+---------- Players ----------
+Player 0: think
+Player 1: one
+Player 2: greatest
+Player 3: movies
+Player 4: ever
+Player 5: made,
+Player 6: i've
+Player 7: seen
+Player 8: many...
+Player 9: book
+Player 10: better,
+Player 11: still
+Player 12: good
+Player 13: movie!
+---------- Rewards ----------
+v(): 2.24129056930542	 ([])
+v(1,11,12): 5.382112503051758	 ([one][still][good])
+v(0,2,3,4): 5.677520751953125	 ([think][greatest][movies][ever])
+v(8,9,10): -0.681682825088501	 ([many...][book][better,])
+v(13): 7.188331604003906	 ([movie!])
+v(5,6,7): 2.9591615200042725	 ([made,][i've][seen])
+v(0,1,2,3,4,11,12): 5.914773941040039	 ([think][one][greatest][movies][ever][still][good])
+v(1,8,9,10,11,12): 4.6021833419799805	 ([one][many...][book][better,][still][good])
+v(1,11,12,13): 5.545339584350586	 ([one][still][good][movie!])
+v(1,5,6,7,11,12): 5.950090408325195	 ([one][made,][i've][seen][still][good])
+v(0,2,3,4,8,9,10): 4.946014881134033	 ([think][greatest][movies][ever][many...][book][better,])
+v(0,2,3,4,13): 5.494433403015137	 ([think][greatest][movies][ever][movie!])
+v(0,2,3,4,5,6,7): 5.178976535797119	 ([think][greatest][movies][ever][made,][i've][seen])
+v(8,9,10,13): 6.3666229248046875	 ([many...][book][better,][movie!])
+v(5,6,7,8,9,10): -0.14247414469718933	 ([made,][i've][seen][many...][book][better,])
+v(5,6,7,13): 7.464335918426514	 ([made,][i've][seen][movie!])
+v(0,1,2,3,4,8,9,10,11,12): 5.264423847198486	 ([think][one][greatest][movies][ever][many...][book][better,][still][good])
+v(0,1,2,3,4,11,12,13): 5.40406608581543	 ([think][one][greatest][movies][ever][still][good][movie!])
+v(0,1,2,3,4,5,6,7,11,12): 5.92459774017334	 ([think][one][greatest][movies][ever][made,][i've][seen][still][good])
+v(1,8,9,10,11,12,13): 6.60267448425293	 ([one][many...][book][better,][still][good][movie!])
+v(1,5,6,7,8,9,10,11,12): 4.580397129058838	 ([one][made,][i've][seen][many...][book][better,][still][good])
+v(1,5,6,7,11,12,13): 6.326620101928711	 ([one][made,][i've][seen][still][good][movie!])
+v(0,2,3,4,8,9,10,13): 5.10021448135376	 ([think][greatest][movies][ever][many...][book][better,][movie!])
+v(0,2,3,4,5,6,7,8,9,10): 5.723870277404785	 ([think][greatest][movies][ever][made,][i've][seen][many...][book][better,])
+v(0,2,3,4,5,6,7,13): 5.190399646759033	 ([think][greatest][movies][ever][made,][i've][seen][movie!])
+v(5,6,7,8,9,10,13): 6.451976776123047	 ([made,][i've][seen][many...][book][better,][movie!])
+v(0,1,2,3,4,8,9,10,11,12,13): 5.204902172088623	 ([think][one][greatest][movies][ever][many...][book][better,][still][good][movie!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12): 5.725034713745117	 ([think][one][greatest][movies][ever][made,][i've][seen][many...][book][better,][still][good])
+v(0,1,2,3,4,5,6,7,11,12,13): 5.439812660217285	 ([think][one][greatest][movies][ever][made,][i've][seen][still][good][movie!])
+v(1,5,6,7,8,9,10,11,12,13): 7.193334579467773	 ([one][made,][i've][seen][many...][book][better,][still][good][movie!])
+v(0,2,3,4,5,6,7,8,9,10,13): 5.729475021362305	 ([think][greatest][movies][ever][made,][i've][seen][many...][book][better,][movie!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13): 5.586987018585205	 ([think][one][greatest][movies][ever][made,][i've][seen][many...][book][better,][still][good][movie!])
+---------- Rewards-v() ----------
+v(5,6,7,13): 5.223045349121094, EP: 1.5611234903335571	 ([made,][i've][seen][movie!])
+v(1,5,6,7,8,9,10,11,12,13): 4.9520440101623535, EP: 1.480123519897461	 ([one][made,][i've][seen][many...][book][better,][still][good][movie!])
+v(13): 4.947041034698486, EP: 1.478628158569336	 ([movie!])
+v(1,8,9,10,11,12,13): 4.36138391494751, EP: 1.3035802841186523	 ([one][many...][book][better,][still][good][movie!])
+v(5,6,7,8,9,10,13): 4.210686206817627, EP: 1.258538007736206	 ([made,][i've][seen][many...][book][better,][movie!])
+v(8,9,10,13): 4.125332355499268, EP: 1.2330265045166016	 ([many...][book][better,][movie!])
+v(1,5,6,7,11,12,13): 4.085329532623291, EP: 1.2210699319839478	 ([one][made,][i've][seen][still][good][movie!])
+v(1,5,6,7,11,12): 3.7087998390197754, EP: 1.1085284948349	 ([one][made,][i've][seen][still][good])
+v(0,1,2,3,4,5,6,7,11,12): 3.68330717086792, EP: 1.1009089946746826	 ([think][one][greatest][movies][ever][made,][i've][seen][still][good])
+v(0,1,2,3,4,11,12): 3.673483371734619, EP: 1.0979727506637573	 ([think][one][greatest][movies][ever][still][good])
+v(0,2,3,4,5,6,7,8,9,10,13): 3.4881844520568848, EP: 1.042588472366333	 ([think][greatest][movies][ever][made,][i've][seen][many...][book][better,][movie!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12): 3.4837441444396973, EP: 1.0412613153457642	 ([think][one][greatest][movies][ever][made,][i've][seen][many...][book][better,][still][good])
+v(0,2,3,4,5,6,7,8,9,10): 3.4825797080993652, EP: 1.0409132242202759	 ([think][greatest][movies][ever][made,][i've][seen][many...][book][better,])
+v(0,2,3,4): 3.436230182647705, EP: 1.02705979347229	 ([think][greatest][movies][ever])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13): 3.345696449279785, EP: 1.0	 ([think][one][greatest][movies][ever][made,][i've][seen][many...][book][better,][still][good][movie!])
+v(1,11,12,13): 3.304049015045166, EP: 0.9875519275665283	 ([one][still][good][movie!])
+v(0,2,3,4,13): 3.253142833709717, EP: 0.9723365306854248	 ([think][greatest][movies][ever][movie!])
+v(0,1,2,3,4,5,6,7,11,12,13): 3.1985220909118652, EP: 0.9560108184814453	 ([think][one][greatest][movies][ever][made,][i've][seen][still][good][movie!])
+v(0,1,2,3,4,11,12,13): 3.1627755165100098, EP: 0.9453265070915222	 ([think][one][greatest][movies][ever][still][good][movie!])
+v(1,11,12): 3.140821933746338, EP: 0.938764750957489	 ([one][still][good])
+v(0,1,2,3,4,8,9,10,11,12): 3.0231332778930664, EP: 0.9035886526107788	 ([think][one][greatest][movies][ever][many...][book][better,][still][good])
+v(0,1,2,3,4,8,9,10,11,12,13): 2.963611602783203, EP: 0.8857980966567993	 ([think][one][greatest][movies][ever][many...][book][better,][still][good][movie!])
+v(0,2,3,4,5,6,7,13): 2.9491090774536133, EP: 0.8814634084701538	 ([think][greatest][movies][ever][made,][i've][seen][movie!])
+v(0,2,3,4,5,6,7): 2.937685966491699, EP: 0.8780491352081299	 ([think][greatest][movies][ever][made,][i've][seen])
+v(8,9,10): -2.922973394393921, EP: -0.8736516833305359	 ([many...][book][better,])
+v(0,2,3,4,8,9,10,13): 2.85892391204834, EP: 0.8545078635215759	 ([think][greatest][movies][ever][many...][book][better,][movie!])
+v(0,2,3,4,8,9,10): 2.7047243118286133, EP: 0.8084189295768738	 ([think][greatest][movies][ever][many...][book][better,])
+v(5,6,7,8,9,10): -2.3837647438049316, EP: -0.7124868631362915	 ([made,][i've][seen][many...][book][better,])
+v(1,8,9,10,11,12): 2.3608927726745605, EP: 0.7056506276130676	 ([one][many...][book][better,][still][good])
+v(1,5,6,7,8,9,10,11,12): 2.339106559753418, EP: 0.699138879776001	 ([one][made,][i've][seen][many...][book][better,][still][good])
+v(5,6,7): 0.7178709506988525, EP: 0.2145654708147049	 ([made,][i've][seen])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

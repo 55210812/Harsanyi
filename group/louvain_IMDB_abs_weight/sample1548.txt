@@ -1,0 +1,8 @@
+louvain社区检测结果:
+社区 1: ['16', '11', '15', '13', '62', '14', '17']: ['gameplay,', 'superhero', 'graphics', 'lame', 'levels', 'weak', 'spiderman']: 平均边权 1.1441
+社区 2: ['12', '27', '9', '21', '6']: ['games', 'comics.', 'comics.', 'features', 'tribute']: 平均边权 0.6150
+社区 3: ['2', '4', '5', '1', '10']: ['superhero', 'pays', 'proper', 'marvel', 'marvel']: 平均边权 0.8530
+社区 4: ['46', '34', '40', '49', '39', '50', '53', '43', '33', '38', '45', '47', '48', '41', '42', '44', '37', '51']: ['spidey', 'webs.', 'using', 'battles', "he's", 'venom,', 'scorpion,', 'punches', 'spin', 'shields.', 'well.', 'hands', 'full', 'web', 'combat,', 'kicks', 'weapons', 'rhino,']: 平均边权 0.3369
+社区 5: ['8', '61', '57', '3', '19', '58', '7']: ['true', 'cameo.', 'few.', 'game', 'departments.', 'look', 'staying']: 平均边权 0.4723
+社区 6: ['20', '0', '36', '35', '18', '23', '22', '24', '28']: ['also', 'cool', 'uses', 'fact,', 'improves', 'stan', 'voice', 'lee,', 'expect']: 平均边权 0.5020
+社区 7: ['60', '56', '32', '25', '52', '29', '55', '30', '59', '26', '54', '31']: ['america', 'name', 'can.', 'creator', 'mysterio,', 'spiderman', 'octopus', 'whatever', 'captain', 'spiderman', 'dr.', 'spider']: 平均边权 0.3316

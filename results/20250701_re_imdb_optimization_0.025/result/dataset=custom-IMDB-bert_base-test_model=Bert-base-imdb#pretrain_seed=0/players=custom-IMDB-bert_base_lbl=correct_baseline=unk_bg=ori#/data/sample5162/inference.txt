@@ -1,0 +1,46 @@
+Execution time: 2025-07-03 21:18:36
+prompt: [CLS] wonderful film that mixes documentary and fiction in a way that makes the spectator question : what is the extent of truth in documentary films or is there such a thing as an objective documentary. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:6919 decoded_text: wonderful
+idx:2 input_id:2143 decoded_text: film
+idx:3 input_id:2008 decoded_text: that
+idx:4 input_id:21109 decoded_text: mixes
+idx:5 input_id:4516 decoded_text: documentary
+idx:6 input_id:1998 decoded_text: and
+idx:7 input_id:4349 decoded_text: fiction
+idx:8 input_id:1999 decoded_text: in
+idx:9 input_id:1037 decoded_text: a
+idx:10 input_id:2126 decoded_text: way
+idx:11 input_id:2008 decoded_text: that
+idx:12 input_id:3084 decoded_text: makes
+idx:13 input_id:1996 decoded_text: the
+idx:14 input_id:21027 decoded_text: spectator
+idx:15 input_id:3160 decoded_text: question
+idx:16 input_id:1024 decoded_text: :
+idx:17 input_id:2054 decoded_text: what
+idx:18 input_id:2003 decoded_text: is
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:6698 decoded_text: extent
+idx:21 input_id:1997 decoded_text: of
+idx:22 input_id:3606 decoded_text: truth
+idx:23 input_id:1999 decoded_text: in
+idx:24 input_id:4516 decoded_text: documentary
+idx:25 input_id:3152 decoded_text: films
+idx:26 input_id:2030 decoded_text: or
+idx:27 input_id:2003 decoded_text: is
+idx:28 input_id:2045 decoded_text: there
+idx:29 input_id:2107 decoded_text: such
+idx:30 input_id:1037 decoded_text: a
+idx:31 input_id:2518 decoded_text: thing
+idx:32 input_id:2004 decoded_text: as
+idx:33 input_id:2019 decoded_text: an
+idx:34 input_id:7863 decoded_text: objective
+idx:35 input_id:4516 decoded_text: documentary
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-3.864238977432251, 4.141258239746094]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

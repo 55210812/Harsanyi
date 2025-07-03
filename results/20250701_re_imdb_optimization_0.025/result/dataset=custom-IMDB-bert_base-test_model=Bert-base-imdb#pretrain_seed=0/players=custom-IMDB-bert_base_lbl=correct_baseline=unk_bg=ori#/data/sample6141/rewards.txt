@@ -1,0 +1,176 @@
+---------- Players ----------
+Player 0: saw
+Player 1: movie
+Player 2: new
+Player 3: york
+Player 4: city.
+Player 5: waiting
+Player 6: bus
+Player 7: next
+Player 8: morning,
+Player 9: 2
+Player 10: 3
+Player 11: morning.
+Player 12: raining,
+Player 13: want
+Player 14: wait
+Player 15: port
+Player 16: authorty.
+Player 17: went
+Player 18: across
+Player 19: street
+Player 20: saw
+Player 21: worst
+Player 22: film
+Player 23: life.
+Player 24: bad,
+Player 25: chose
+Player 26: stay
+Player 27: see
+Player 28: whole
+Player 29: movie, i
+Player 30: yet
+Player 31: see
+Player 32: anything
+Player 33: else
+Player 34: bad
+Player 35: since.
+Player 36: year
+Player 37: 69, so
+Player 38: call
+Player 39: crazy.
+Player 40: stayed
+Player 41: could
+Player 42: belive
+Player 43: it.........
+---------- Rewards ----------
+v(): -0.3671305775642395	 ([])
+v(11,17,18,19,20,21,22): 6.896327018737793	 ([morning.][went][across][street][saw][worst][film])
+v(4,5,6,14,37,38,40): -3.156477928161621	 ([city.][waiting][bus][wait][69, so][call][stayed])
+v(16,25,26,27,28,29,30,31,32,34,39,41): 7.280981063842773	 ([authorty.][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could])
+v(12,13,24,43): 5.750378608703613	 ([raining,][want][bad,][it.........])
+v(23,33,35,36,42): -2.459493637084961	 ([life.][else][since.][year][belive])
+v(0,1,2,3,7,10,15): -3.1552815437316895	 ([saw][movie][new][york][next][3][port])
+v(4,5,6,11,14,17,18,19,20,21,22,37,38,40): 6.453732967376709	 ([city.][waiting][bus][morning.][wait][went][across][street][saw][worst][film][69, so][call][stayed])
+v(11,16,17,18,19,20,21,22,25,26,27,28,29,30,31,32,34,39,41): 7.476863861083984	 ([morning.][authorty.][went][across][street][saw][worst][film][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could])
+v(11,12,13,17,18,19,20,21,22,24,43): 6.932409763336182	 ([morning.][raining,][want][went][across][street][saw][worst][film][bad,][it.........])
+v(11,17,18,19,20,21,22,23,33,35,36,42): 6.801483154296875	 ([morning.][went][across][street][saw][worst][film][life.][else][since.][year][belive])
+v(0,1,2,3,7,10,11,15,17,18,19,20,21,22): 6.704821586608887	 ([saw][movie][new][york][next][3][morning.][port][went][across][street][saw][worst][film])
+v(4,5,6,14,16,25,26,27,28,29,30,31,32,34,37,38,39,40,41): 6.701028823852539	 ([city.][waiting][bus][wait][authorty.][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could])
+v(4,5,6,12,13,14,24,37,38,40,43): 5.347139358520508	 ([city.][waiting][bus][raining,][want][wait][bad,][69, so][call][stayed][it.........])
+v(4,5,6,14,23,33,35,36,37,38,40,42): -4.1261138916015625	 ([city.][waiting][bus][wait][life.][else][since.][year][69, so][call][stayed][belive])
+v(0,1,2,3,4,5,6,7,10,14,15,37,38,40): -5.893402099609375	 ([saw][movie][new][york][city.][waiting][bus][next][3][wait][port][69, so][call][stayed])
+v(12,13,16,24,25,26,27,28,29,30,31,32,34,39,41,43): 7.526004791259766	 ([raining,][want][authorty.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could][it.........])
+v(16,23,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42): 7.510764122009277	 ([authorty.][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive])
+v(0,1,2,3,7,10,15,16,25,26,27,28,29,30,31,32,34,39,41): 7.0711259841918945	 ([saw][movie][new][york][next][3][port][authorty.][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could])
+v(12,13,23,24,33,35,36,42,43): 5.175303936004639	 ([raining,][want][life.][bad,][else][since.][year][belive][it.........])
+v(0,1,2,3,7,10,12,13,15,24,43): 6.415879249572754	 ([saw][movie][new][york][next][3][raining,][want][port][bad,][it.........])
+v(0,1,2,3,7,10,15,23,33,35,36,42): -4.848657131195068	 ([saw][movie][new][york][next][3][port][life.][else][since.][year][belive])
+v(4,5,6,11,14,16,17,18,19,20,21,22,25,26,27,28,29,30,31,32,34,37,38,39,40,41): 7.68433952331543	 ([city.][waiting][bus][morning.][wait][authorty.][went][across][street][saw][worst][film][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could])
+v(4,5,6,11,12,13,14,17,18,19,20,21,22,24,37,38,40,43): 6.708308219909668	 ([city.][waiting][bus][morning.][raining,][want][wait][went][across][street][saw][worst][film][bad,][69, so][call][stayed][it.........])
+v(4,5,6,11,14,17,18,19,20,21,22,23,33,35,36,37,38,40,42): 6.990445137023926	 ([city.][waiting][bus][morning.][wait][went][across][street][saw][worst][film][life.][else][since.][year][69, so][call][stayed][belive])
+v(0,1,2,3,4,5,6,7,10,11,14,15,17,18,19,20,21,22,37,38,40): 5.986639022827148	 ([saw][movie][new][york][city.][waiting][bus][next][3][morning.][wait][port][went][across][street][saw][worst][film][69, so][call][stayed])
+v(11,12,13,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,34,39,41,43): 7.237065315246582	 ([morning.][raining,][want][authorty.][went][across][street][saw][worst][film][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could][it.........])
+v(11,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42): 7.838838577270508	 ([morning.][authorty.][went][across][street][saw][worst][film][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive])
+v(0,1,2,3,7,10,11,15,16,17,18,19,20,21,22,25,26,27,28,29,30,31,32,34,39,41): 7.539833068847656	 ([saw][movie][new][york][next][3][morning.][port][authorty.][went][across][street][saw][worst][film][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could])
+v(11,12,13,17,18,19,20,21,22,23,24,33,35,36,42,43): 7.253209590911865	 ([morning.][raining,][want][went][across][street][saw][worst][film][life.][bad,][else][since.][year][belive][it.........])
+v(0,1,2,3,7,10,11,12,13,15,17,18,19,20,21,22,24,43): 6.801241397857666	 ([saw][movie][new][york][next][3][morning.][raining,][want][port][went][across][street][saw][worst][film][bad,][it.........])
+v(0,1,2,3,7,10,11,15,17,18,19,20,21,22,23,33,35,36,42): 6.763761520385742	 ([saw][movie][new][york][next][3][morning.][port][went][across][street][saw][worst][film][life.][else][since.][year][belive])
+v(4,5,6,12,13,14,16,24,25,26,27,28,29,30,31,32,34,37,38,39,40,41,43): 7.365978240966797	 ([city.][waiting][bus][raining,][want][wait][authorty.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could][it.........])
+v(4,5,6,14,16,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42): 7.694432258605957	 ([city.][waiting][bus][wait][authorty.][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive])
+v(0,1,2,3,4,5,6,7,10,14,15,16,25,26,27,28,29,30,31,32,34,37,38,39,40,41): 6.308969497680664	 ([saw][movie][new][york][city.][waiting][bus][next][3][wait][port][authorty.][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could])
+v(4,5,6,12,13,14,23,24,33,35,36,37,38,40,42,43): 4.54705810546875	 ([city.][waiting][bus][raining,][want][wait][life.][bad,][else][since.][year][69, so][call][stayed][belive][it.........])
+v(0,1,2,3,4,5,6,7,10,12,13,14,15,24,37,38,40,43): 5.968838214874268	 ([saw][movie][new][york][city.][waiting][bus][next][3][raining,][want][wait][port][bad,][69, so][call][stayed][it.........])
+v(0,1,2,3,4,5,6,7,10,14,15,23,33,35,36,37,38,40,42): -6.743858337402344	 ([saw][movie][new][york][city.][waiting][bus][next][3][wait][port][life.][else][since.][year][69, so][call][stayed][belive])
+v(12,13,16,23,24,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42,43): 7.508306980133057	 ([raining,][want][authorty.][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive][it.........])
+v(0,1,2,3,7,10,12,13,15,16,24,25,26,27,28,29,30,31,32,34,39,41,43): 7.4457244873046875	 ([saw][movie][new][york][next][3][raining,][want][port][authorty.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could][it.........])
+v(0,1,2,3,7,10,15,16,23,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42): 7.253787517547607	 ([saw][movie][new][york][next][3][port][authorty.][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive])
+v(0,1,2,3,7,10,12,13,15,23,24,33,35,36,42,43): 6.028404712677002	 ([saw][movie][new][york][next][3][raining,][want][port][life.][bad,][else][since.][year][belive][it.........])
+v(4,5,6,11,12,13,14,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,34,37,38,39,40,41,43): 7.53765869140625	 ([city.][waiting][bus][morning.][raining,][want][wait][authorty.][went][across][street][saw][worst][film][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could][it.........])
+v(4,5,6,11,14,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42): 8.027360916137695	 ([city.][waiting][bus][morning.][wait][authorty.][went][across][street][saw][worst][film][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive])
+v(0,1,2,3,4,5,6,7,10,11,14,15,16,17,18,19,20,21,22,25,26,27,28,29,30,31,32,34,37,38,39,40,41): 7.4429121017456055	 ([saw][movie][new][york][city.][waiting][bus][next][3][morning.][wait][port][authorty.][went][across][street][saw][worst][film][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could])
+v(4,5,6,11,12,13,14,17,18,19,20,21,22,23,24,33,35,36,37,38,40,42,43): 7.376402378082275	 ([city.][waiting][bus][morning.][raining,][want][wait][went][across][street][saw][worst][film][life.][bad,][else][since.][year][69, so][call][stayed][belive][it.........])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,17,18,19,20,21,22,24,37,38,40,43): 6.373974800109863	 ([saw][movie][new][york][city.][waiting][bus][next][3][morning.][raining,][want][wait][port][went][across][street][saw][worst][film][bad,][69, so][call][stayed][it.........])
+v(0,1,2,3,4,5,6,7,10,11,14,15,17,18,19,20,21,22,23,33,35,36,37,38,40,42): 6.784162521362305	 ([saw][movie][new][york][city.][waiting][bus][next][3][morning.][wait][port][went][across][street][saw][worst][film][life.][else][since.][year][69, so][call][stayed][belive])
+v(11,12,13,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42,43): 7.901925086975098	 ([morning.][raining,][want][authorty.][went][across][street][saw][worst][film][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive][it.........])
+v(0,1,2,3,7,10,11,12,13,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,34,39,41,43): 7.255051612854004	 ([saw][movie][new][york][next][3][morning.][raining,][want][port][authorty.][went][across][street][saw][worst][film][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could][it.........])
+v(0,1,2,3,7,10,11,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42): 7.774245262145996	 ([saw][movie][new][york][next][3][morning.][port][authorty.][went][across][street][saw][worst][film][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive])
+v(0,1,2,3,7,10,11,12,13,15,17,18,19,20,21,22,23,24,33,35,36,42,43): 7.051420211791992	 ([saw][movie][new][york][next][3][morning.][raining,][want][port][went][across][street][saw][worst][film][life.][bad,][else][since.][year][belive][it.........])
+v(4,5,6,12,13,14,16,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43): 7.525741100311279	 ([city.][waiting][bus][raining,][want][wait][authorty.][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive][it.........])
+v(0,1,2,3,4,5,6,7,10,12,13,14,15,16,24,25,26,27,28,29,30,31,32,34,37,38,39,40,41,43): 7.199538230895996	 ([saw][movie][new][york][city.][waiting][bus][next][3][raining,][want][wait][port][authorty.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could][it.........])
+v(0,1,2,3,4,5,6,7,10,14,15,16,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42): 7.3498125076293945	 ([saw][movie][new][york][city.][waiting][bus][next][3][wait][port][authorty.][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive])
+v(0,1,2,3,4,5,6,7,10,12,13,14,15,23,24,33,35,36,37,38,40,42,43): 5.69448184967041	 ([saw][movie][new][york][city.][waiting][bus][next][3][raining,][want][wait][port][life.][bad,][else][since.][year][69, so][call][stayed][belive][it.........])
+v(0,1,2,3,7,10,12,13,15,16,23,24,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42,43): 7.42416524887085	 ([saw][movie][new][york][next][3][raining,][want][port][authorty.][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive][it.........])
+v(4,5,6,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43): 8.041589736938477	 ([city.][waiting][bus][morning.][raining,][want][wait][authorty.][went][across][street][saw][worst][film][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive][it.........])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,34,37,38,39,40,41,43): 7.335597038269043	 ([saw][movie][new][york][city.][waiting][bus][next][3][morning.][raining,][want][wait][port][authorty.][went][across][street][saw][worst][film][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could][it.........])
+v(0,1,2,3,4,5,6,7,10,11,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42): 7.980635166168213	 ([saw][movie][new][york][city.][waiting][bus][next][3][morning.][wait][port][authorty.][went][across][street][saw][worst][film][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,17,18,19,20,21,22,23,24,33,35,36,37,38,40,42,43): 6.994291305541992	 ([saw][movie][new][york][city.][waiting][bus][next][3][morning.][raining,][want][wait][port][went][across][street][saw][worst][film][life.][bad,][else][since.][year][69, so][call][stayed][belive][it.........])
+v(0,1,2,3,7,10,11,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42,43): 7.714697360992432	 ([saw][movie][new][york][next][3][morning.][raining,][want][port][authorty.][went][across][street][saw][worst][film][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive][it.........])
+v(0,1,2,3,4,5,6,7,10,12,13,14,15,16,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43): 7.207455158233643	 ([saw][movie][new][york][city.][waiting][bus][next][3][raining,][want][wait][port][authorty.][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive][it.........])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43): 7.663081169128418	 ([saw][movie][new][york][city.][waiting][bus][next][morning,][2][3][morning.][raining,][want][wait][port][authorty.][went][across][street][saw][worst][film][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive][it.........])
+---------- Rewards-v() ----------
+v(4,5,6,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43): 8.408720016479492, EP: 1.047135591506958	 ([city.][waiting][bus][morning.][raining,][want][wait][authorty.][went][across][street][saw][worst][film][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive][it.........])
+v(4,5,6,11,14,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42): 8.394491195678711, EP: 1.0453636646270752	 ([city.][waiting][bus][morning.][wait][authorty.][went][across][street][saw][worst][film][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive])
+v(0,1,2,3,4,5,6,7,10,11,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42): 8.347765922546387, EP: 1.039544939994812	 ([saw][movie][new][york][city.][waiting][bus][next][3][morning.][wait][port][authorty.][went][across][street][saw][worst][film][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive])
+v(11,12,13,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42,43): 8.269055366516113, EP: 1.0297431945800781	 ([morning.][raining,][want][authorty.][went][across][street][saw][worst][film][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive][it.........])
+v(11,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42): 8.205968856811523, EP: 1.0218870639801025	 ([morning.][authorty.][went][across][street][saw][worst][film][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive])
+v(0,1,2,3,7,10,11,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42): 8.141375541687012, EP: 1.0138431787490845	 ([saw][movie][new][york][next][3][morning.][port][authorty.][went][across][street][saw][worst][film][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive])
+v(0,1,2,3,7,10,11,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42,43): 8.081828117370605, EP: 1.0064277648925781	 ([saw][movie][new][york][next][3][morning.][raining,][want][port][authorty.][went][across][street][saw][worst][film][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive][it.........])
+v(4,5,6,14,16,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42): 8.061562538146973, EP: 1.003904104232788	 ([city.][waiting][bus][wait][authorty.][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive])
+v(4,5,6,11,14,16,17,18,19,20,21,22,25,26,27,28,29,30,31,32,34,37,38,39,40,41): 8.051469802856445, EP: 1.0026472806930542	 ([city.][waiting][bus][morning.][wait][authorty.][went][across][street][saw][worst][film][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43): 8.030211448669434, EP: 1.0	 ([saw][movie][new][york][city.][waiting][bus][next][morning,][2][3][morning.][raining,][want][wait][port][authorty.][went][across][street][saw][worst][film][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive][it.........])
+v(0,1,2,3,7,10,11,15,16,17,18,19,20,21,22,25,26,27,28,29,30,31,32,34,39,41): 7.90696382522583, EP: 0.9846519827842712	 ([saw][movie][new][york][next][3][morning.][port][authorty.][went][across][street][saw][worst][film][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could])
+v(4,5,6,11,12,13,14,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,34,37,38,39,40,41,43): 7.904789447784424, EP: 0.9843812584877014	 ([city.][waiting][bus][morning.][raining,][want][wait][authorty.][went][across][street][saw][worst][film][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could][it.........])
+v(12,13,16,24,25,26,27,28,29,30,31,32,34,39,41,43): 7.8931355476379395, EP: 0.9829300045967102	 ([raining,][want][authorty.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could][it.........])
+v(4,5,6,12,13,14,16,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43): 7.892871856689453, EP: 0.982897162437439	 ([city.][waiting][bus][raining,][want][wait][authorty.][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive][it.........])
+v(16,23,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42): 7.877894878387451, EP: 0.9810320734977722	 ([authorty.][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive])
+v(12,13,16,23,24,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42,43): 7.8754377365112305, EP: 0.9807260632514954	 ([raining,][want][authorty.][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive][it.........])
+v(11,16,17,18,19,20,21,22,25,26,27,28,29,30,31,32,34,39,41): 7.843994617462158, EP: 0.9768104553222656	 ([morning.][authorty.][went][across][street][saw][worst][film][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could])
+v(0,1,2,3,7,10,12,13,15,16,24,25,26,27,28,29,30,31,32,34,39,41,43): 7.812855243682861, EP: 0.9729326963424683	 ([saw][movie][new][york][next][3][raining,][want][port][authorty.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could][it.........])
+v(0,1,2,3,4,5,6,7,10,11,14,15,16,17,18,19,20,21,22,25,26,27,28,29,30,31,32,34,37,38,39,40,41): 7.810042858123779, EP: 0.9725824594497681	 ([saw][movie][new][york][city.][waiting][bus][next][3][morning.][wait][port][authorty.][went][across][street][saw][worst][film][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could])
+v(0,1,2,3,7,10,12,13,15,16,23,24,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42,43): 7.791296005249023, EP: 0.9702479243278503	 ([saw][movie][new][york][next][3][raining,][want][port][authorty.][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive][it.........])
+v(4,5,6,11,12,13,14,17,18,19,20,21,22,23,24,33,35,36,37,38,40,42,43): 7.743533134460449, EP: 0.9643000364303589	 ([city.][waiting][bus][morning.][raining,][want][wait][went][across][street][saw][worst][film][life.][bad,][else][since.][year][69, so][call][stayed][belive][it.........])
+v(4,5,6,12,13,14,16,24,25,26,27,28,29,30,31,32,34,37,38,39,40,41,43): 7.733108997344971, EP: 0.9630019068717957	 ([city.][waiting][bus][raining,][want][wait][authorty.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could][it.........])
+v(0,1,2,3,4,5,6,7,10,14,15,16,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42): 7.716943264007568, EP: 0.9609888195991516	 ([saw][movie][new][york][city.][waiting][bus][next][3][wait][port][authorty.][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,34,37,38,39,40,41,43): 7.702727794647217, EP: 0.9592185616493225	 ([saw][movie][new][york][city.][waiting][bus][next][3][morning.][raining,][want][wait][port][authorty.][went][across][street][saw][worst][film][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could][it.........])
+v(16,25,26,27,28,29,30,31,32,34,39,41): 7.648111820220947, EP: 0.952417254447937	 ([authorty.][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could])
+v(0,1,2,3,7,10,11,12,13,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,34,39,41,43): 7.622182369232178, EP: 0.949188232421875	 ([saw][movie][new][york][next][3][morning.][raining,][want][port][authorty.][went][across][street][saw][worst][film][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could][it.........])
+v(0,1,2,3,7,10,15,16,23,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42): 7.620918273925781, EP: 0.9490308165550232	 ([saw][movie][new][york][next][3][port][authorty.][life.][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][crazy.][could][belive])
+v(11,12,13,17,18,19,20,21,22,23,24,33,35,36,42,43): 7.620340347290039, EP: 0.9489588737487793	 ([morning.][raining,][want][went][across][street][saw][worst][film][life.][bad,][else][since.][year][belive][it.........])
+v(11,12,13,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,34,39,41,43): 7.604196071624756, EP: 0.9469484090805054	 ([morning.][raining,][want][authorty.][went][across][street][saw][worst][film][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could][it.........])
+v(0,1,2,3,4,5,6,7,10,12,13,14,15,16,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43): 7.574585914611816, EP: 0.9432610869407654	 ([saw][movie][new][york][city.][waiting][bus][next][3][raining,][want][wait][port][authorty.][life.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][else][bad][since.][year][69, so][call][crazy.][stayed][could][belive][it.........])
+v(0,1,2,3,4,5,6,7,10,12,13,14,15,16,24,25,26,27,28,29,30,31,32,34,37,38,39,40,41,43): 7.56666898727417, EP: 0.9422751665115356	 ([saw][movie][new][york][city.][waiting][bus][next][3][raining,][want][wait][port][authorty.][bad,][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could][it.........])
+v(0,1,2,3,7,10,15,16,25,26,27,28,29,30,31,32,34,39,41): 7.438256740570068, EP: 0.9262840151786804	 ([saw][movie][new][york][next][3][port][authorty.][chose][stay][see][whole][movie, i][yet][see][anything][bad][crazy.][could])
+v(0,1,2,3,7,10,11,12,13,15,17,18,19,20,21,22,23,24,33,35,36,42,43): 7.418550968170166, EP: 0.9238300919532776	 ([saw][movie][new][york][next][3][morning.][raining,][want][port][went][across][street][saw][worst][film][life.][bad,][else][since.][year][belive][it.........])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,17,18,19,20,21,22,23,24,33,35,36,37,38,40,42,43): 7.361422061920166, EP: 0.9167158603668213	 ([saw][movie][new][york][city.][waiting][bus][next][3][morning.][raining,][want][wait][port][went][across][street][saw][worst][film][life.][bad,][else][since.][year][69, so][call][stayed][belive][it.........])
+v(4,5,6,11,14,17,18,19,20,21,22,23,33,35,36,37,38,40,42): 7.3575758934021, EP: 0.9162368774414062	 ([city.][waiting][bus][morning.][wait][went][across][street][saw][worst][film][life.][else][since.][year][69, so][call][stayed][belive])
+v(11,12,13,17,18,19,20,21,22,24,43): 7.2995405197143555, EP: 0.9090097546577454	 ([morning.][raining,][want][went][across][street][saw][worst][film][bad,][it.........])
+v(11,17,18,19,20,21,22): 7.263457775115967, EP: 0.9045163989067078	 ([morning.][went][across][street][saw][worst][film])
+v(11,17,18,19,20,21,22,23,33,35,36,42): 7.168613910675049, EP: 0.892705500125885	 ([morning.][went][across][street][saw][worst][film][life.][else][since.][year][belive])
+v(0,1,2,3,7,10,11,12,13,15,17,18,19,20,21,22,24,43): 7.16837215423584, EP: 0.8926753997802734	 ([saw][movie][new][york][next][3][morning.][raining,][want][port][went][across][street][saw][worst][film][bad,][it.........])
+v(0,1,2,3,4,5,6,7,10,11,14,15,17,18,19,20,21,22,23,33,35,36,37,38,40,42): 7.1512932777404785, EP: 0.890548586845398	 ([saw][movie][new][york][city.][waiting][bus][next][3][morning.][wait][port][went][across][street][saw][worst][film][life.][else][since.][year][69, so][call][stayed][belive])
+v(0,1,2,3,7,10,11,15,17,18,19,20,21,22,23,33,35,36,42): 7.130892276763916, EP: 0.8880080580711365	 ([saw][movie][new][york][next][3][morning.][port][went][across][street][saw][worst][film][life.][else][since.][year][belive])
+v(4,5,6,11,12,13,14,17,18,19,20,21,22,24,37,38,40,43): 7.075438976287842, EP: 0.881102442741394	 ([city.][waiting][bus][morning.][raining,][want][wait][went][across][street][saw][worst][film][bad,][69, so][call][stayed][it.........])
+v(0,1,2,3,7,10,11,15,17,18,19,20,21,22): 7.0719523429870605, EP: 0.8806682825088501	 ([saw][movie][new][york][next][3][morning.][port][went][across][street][saw][worst][film])
+v(4,5,6,14,16,25,26,27,28,29,30,31,32,34,37,38,39,40,41): 7.068159580230713, EP: 0.8801959753036499	 ([city.][waiting][bus][wait][authorty.][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could])
+v(4,5,6,11,14,17,18,19,20,21,22,37,38,40): 6.820863723754883, EP: 0.8494002819061279	 ([city.][waiting][bus][morning.][wait][went][across][street][saw][worst][film][69, so][call][stayed])
+v(0,1,2,3,7,10,12,13,15,24,43): 6.783010005950928, EP: 0.8446863293647766	 ([saw][movie][new][york][next][3][raining,][want][port][bad,][it.........])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,17,18,19,20,21,22,24,37,38,40,43): 6.741105556488037, EP: 0.8394680023193359	 ([saw][movie][new][york][city.][waiting][bus][next][3][morning.][raining,][want][wait][port][went][across][street][saw][worst][film][bad,][69, so][call][stayed][it.........])
+v(0,1,2,3,4,5,6,7,10,14,15,16,25,26,27,28,29,30,31,32,34,37,38,39,40,41): 6.676100254058838, EP: 0.8313729166984558	 ([saw][movie][new][york][city.][waiting][bus][next][3][wait][port][authorty.][chose][stay][see][whole][movie, i][yet][see][anything][bad][69, so][call][crazy.][stayed][could])
+v(0,1,2,3,7,10,12,13,15,23,24,33,35,36,42,43): 6.395535469055176, EP: 0.7964342832565308	 ([saw][movie][new][york][next][3][raining,][want][port][life.][bad,][else][since.][year][belive][it.........])
+v(0,1,2,3,4,5,6,7,10,14,15,23,33,35,36,37,38,40,42): -6.37672758102417, EP: -0.7940921187400818	 ([saw][movie][new][york][city.][waiting][bus][next][3][wait][port][life.][else][since.][year][69, so][call][stayed][belive])
+v(0,1,2,3,4,5,6,7,10,11,14,15,17,18,19,20,21,22,37,38,40): 6.353769779205322, EP: 0.7912331819534302	 ([saw][movie][new][york][city.][waiting][bus][next][3][morning.][wait][port][went][across][street][saw][worst][film][69, so][call][stayed])
+v(0,1,2,3,4,5,6,7,10,12,13,14,15,24,37,38,40,43): 6.335968971252441, EP: 0.7890164256095886	 ([saw][movie][new][york][city.][waiting][bus][next][3][raining,][want][wait][port][bad,][69, so][call][stayed][it.........])
+v(12,13,24,43): 6.117509365081787, EP: 0.7618117332458496	 ([raining,][want][bad,][it.........])
+v(0,1,2,3,4,5,6,7,10,12,13,14,15,23,24,33,35,36,37,38,40,42,43): 6.061612606048584, EP: 0.7548509240150452	 ([saw][movie][new][york][city.][waiting][bus][next][3][raining,][want][wait][port][life.][bad,][else][since.][year][69, so][call][stayed][belive][it.........])
+v(4,5,6,12,13,14,24,37,38,40,43): 5.714270114898682, EP: 0.7115964889526367	 ([city.][waiting][bus][raining,][want][wait][bad,][69, so][call][stayed][it.........])
+v(12,13,23,24,33,35,36,42,43): 5.5424346923828125, EP: 0.6901978254318237	 ([raining,][want][life.][bad,][else][since.][year][belive][it.........])
+v(0,1,2,3,4,5,6,7,10,14,15,37,38,40): -5.526271343231201, EP: -0.6881850361824036	 ([saw][movie][new][york][city.][waiting][bus][next][3][wait][port][69, so][call][stayed])
+v(4,5,6,12,13,14,23,24,33,35,36,37,38,40,42,43): 4.914188861846924, EP: 0.6119625568389893	 ([city.][waiting][bus][raining,][want][wait][life.][bad,][else][since.][year][69, so][call][stayed][belive][it.........])
+v(0,1,2,3,7,10,15,23,33,35,36,42): -4.4815263748168945, EP: -0.5580832362174988	 ([saw][movie][new][york][next][3][port][life.][else][since.][year][belive])
+v(4,5,6,14,23,33,35,36,37,38,40,42): -3.7589833736419678, EP: -0.46810516715049744	 ([city.][waiting][bus][wait][life.][else][since.][year][69, so][call][stayed][belive])
+v(4,5,6,14,37,38,40): -2.7893474102020264, EP: -0.3473566472530365	 ([city.][waiting][bus][wait][69, so][call][stayed])
+v(0,1,2,3,7,10,15): -2.7881510257720947, EP: -0.3472076654434204	 ([saw][movie][new][york][next][3][port])
+v(23,33,35,36,42): -2.092363119125366, EP: -0.26056140661239624	 ([life.][else][since.][year][belive])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

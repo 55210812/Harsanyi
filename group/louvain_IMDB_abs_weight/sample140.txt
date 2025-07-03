@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['45', '46']: ['sean', 'connery']: 平均边权 6.4046
+社区 2: ['8', '38', '57', '32', '58', '55', '44', '37', '59', '24', '7']: ['favorite', 'fun', 'like', 'awesome', 'sean', 'cool', 'cool', 'really', 'connery', 'lots', 'life']: 平均边权 1.0229
+社区 3: ['2', '12', '5', '41', '3', '13']: ['game', 'far', 'game', 'actors', 'best', 'because :']: 平均边权 0.5189
+社区 4: ['0', '35', '36', '49', '52', '21', '47', '4', '50', '48', '22', '9', '1', '10', '54']: ['james', 'lots', 'action', 'bond', 'bond', 'fun', 'voice', 'bond', 'also', 'james', 'play', 'james', 'bond', 'bond', 'really']: 平均边权 0.5491
+社区 5: ['25', '34', '39', '11', '30', '15', '23', '33', '14', '26', '6', '31']: ['actions', 'missions', 'play.', 'game', 'cars', 'game', 'missions', 'car', 'missions', 'weapons', 'played', 'game']: 平均边权 0.3492
+社区 6: ['51', '56', '53', '27']: ['way', 'looks', 'looks', 'use']: 平均边权 0.4315
+社区 7: ['42', '43', '40', '28', '29']: ['really', 'good', 'voice', 'really', 'good.']: 平均边权 0.7314
+社区 8: ['16', '20', '19', '18', '17']: ['really', 'makes', 'hard', 'really', 'fun']: 平均边权 0.5074

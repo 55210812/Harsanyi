@@ -1,0 +1,8 @@
+louvain社区检测结果:
+社区 1: ['12', '5', '11', '9', '1', '10', '6', '7']: ['one.', 'clever.', 'first', 'film', 'underrated.', 'tops', 'plain', 'fun']: 平均边权 1.1256
+社区 2: ['38', '56', '36', '35', '32', '45', '34', '53', '37', '24', '33', '17', '31']: ['hit', 'even', 'pretty', 'one', 'office,', 'couple', 'first', '" so', 'good', '&', 'whereas', 'out,', 'box']: 平均边权 0.7990
+社区 3: ['19', '29', '18', '30', '16', '65', '59', '64']: ['even', 'also', 'became', 'bombed', 'came', 'music', 'couple', 'landscape']: 平均边权 0.7594
+社区 4: ['51', '27', '25', '49', '52', '50', '22', '44', '23', '26', '28']: ['already', 'journey', "ted's", 'bill', 'seemed', 'ted', 'passed.', 'released', 'bill', 'bogus', '"']: 平均边权 0.5691
+社区 5: ['39', '41', '42', '57', '40']: ['popular.', 'problem', 'may', 'though', 'think']: 平均边权 0.8333
+社区 6: ['2', '8', '20', '0', '13', '4', '3', '15', '14']: ['highly', 'opinion', 'overlooked', 'movie', 'film', 'creative', 'imaginative,', 'first', 'forgotten']: 平均边权 0.6351
+社区 7: ['61', '62', '63', '46', '58', '21', '47', '55', '48', '43', '60', '54']: ['ago', 'back', 'time,', 'years', "' 80s", 'years', 'late.', '".', '1991,', 'film', 'years', "' 80s"]: 平均边权 0.3713

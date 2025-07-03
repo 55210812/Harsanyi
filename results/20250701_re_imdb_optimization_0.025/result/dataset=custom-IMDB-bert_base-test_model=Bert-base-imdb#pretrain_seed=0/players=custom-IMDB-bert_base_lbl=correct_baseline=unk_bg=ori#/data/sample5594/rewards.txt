@@ -1,0 +1,169 @@
+---------- Players ----------
+Player 0: busy
+Player 1: phillips
+Player 2: put
+Player 3: one
+Player 4: hell
+Player 5: performance,
+Player 6: comedic
+Player 7: dramatic.
+Player 8: erika
+Player 9: christensen
+Player 10: good
+Player 11: busy
+Player 12: stole
+Player 13: show.
+Player 14: nice
+Player 15: touch
+Player 16: smokers,
+Player 17: movie
+Player 18: starring
+Player 19: busy,
+Player 20: wasnt
+Player 21: great.
+Player 22: busy
+Player 23: doesnt
+Player 24: get
+Player 25: nomination
+Player 26: kind
+Player 27: film
+Player 28: would
+Player 29: disaster.
+Player 30: forget
+Player 31: mona
+Player 32: lisa
+Player 33: smile,
+Player 34: see
+Player 35: home
+Player 36: room.
+---------- Rewards ----------
+v(): -0.5404565334320068	 ([])
+v(9,10,11,12,13,14,23): 3.2746944427490234	 ([christensen][good][busy][stole][show.][nice][doesnt])
+v(0,1,2,3,4,5,6,28): -0.11218365281820297	 ([busy][phillips][put][one][hell][performance,][comedic][would])
+v(7,8): 0.24518513679504395	 ([dramatic.][erika])
+v(33,34,35): 1.4712789058685303	 ([smile,][see][home])
+v(15,16,17,19,20,21,22,24,25,26,27): 2.3865647315979004	 ([touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film])
+v(18,29,30,31,32,36): -7.495765686035156	 ([starring][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,23,28): 6.011090278625488	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][doesnt][would])
+v(7,8,9,10,11,12,13,14,23): 5.899127006530762	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][doesnt])
+v(9,10,11,12,13,14,23,33,34,35): 4.591243743896484	 ([christensen][good][busy][stole][show.][nice][doesnt][smile,][see][home])
+v(9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27): 5.868988990783691	 ([christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film])
+v(9,10,11,12,13,14,18,23,29,30,31,32,36): -5.770799160003662	 ([christensen][good][busy][stole][show.][nice][starring][doesnt][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,7,8,28): 4.799643516540527	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][would])
+v(0,1,2,3,4,5,6,28,33,34,35): 0.4846109449863434	 ([busy][phillips][put][one][hell][performance,][comedic][would][smile,][see][home])
+v(0,1,2,3,4,5,6,15,16,17,19,20,21,22,24,25,26,27,28): 3.7772836685180664	 ([busy][phillips][put][one][hell][performance,][comedic][touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film][would])
+v(0,1,2,3,4,5,6,18,28,29,30,31,32,36): -7.677676200866699	 ([busy][phillips][put][one][hell][performance,][comedic][starring][would][disaster.][forget][mona][lisa][room.])
+v(7,8,33,34,35): 2.2969186305999756	 ([dramatic.][erika][smile,][see][home])
+v(7,8,15,16,17,19,20,21,22,24,25,26,27): 4.19320821762085	 ([dramatic.][erika][touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film])
+v(7,8,18,29,30,31,32,36): -8.064923286437988	 ([dramatic.][erika][starring][disaster.][forget][mona][lisa][room.])
+v(15,16,17,19,20,21,22,24,25,26,27,33,34,35): 3.5834388732910156	 ([touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film][smile,][see][home])
+v(18,29,30,31,32,33,34,35,36): -7.5510759353637695	 ([starring][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(15,16,17,18,19,20,21,22,24,25,26,27,29,30,31,32,36): -7.775357246398926	 ([touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,23,28): 6.776679992675781	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][doesnt][would])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,23,28,33,34,35): 6.42600154876709	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][doesnt][would][smile,][see][home])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28): 7.273013591766357	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,18,23,28,29,30,31,32,36): 4.338199615478516	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][starring][doesnt][would][disaster.][forget][mona][lisa][room.])
+v(7,8,9,10,11,12,13,14,23,33,34,35): 6.606130599975586	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][doesnt][smile,][see][home])
+v(7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27): 6.905002593994141	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film])
+v(7,8,9,10,11,12,13,14,18,23,29,30,31,32,36): -3.476637840270996	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][starring][doesnt][disaster.][forget][mona][lisa][room.])
+v(9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,33,34,35): 6.130663871765137	 ([christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][smile,][see][home])
+v(9,10,11,12,13,14,18,23,29,30,31,32,33,34,35,36): -5.015109062194824	 ([christensen][good][busy][stole][show.][nice][starring][doesnt][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,36): 3.082430601119995	 ([christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,7,8,28,33,34,35): 5.459595203399658	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][would][smile,][see][home])
+v(0,1,2,3,4,5,6,7,8,15,16,17,19,20,21,22,24,25,26,27,28): 6.5227789878845215	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film][would])
+v(0,1,2,3,4,5,6,7,8,18,28,29,30,31,32,36): -3.8070874214172363	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][starring][would][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,15,16,17,19,20,21,22,24,25,26,27,28,33,34,35): 4.635967254638672	 ([busy][phillips][put][one][hell][performance,][comedic][touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film][would][smile,][see][home])
+v(0,1,2,3,4,5,6,18,28,29,30,31,32,33,34,35,36): -7.581888675689697	 ([busy][phillips][put][one][hell][performance,][comedic][starring][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(0,1,2,3,4,5,6,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,36): -1.7173988819122314	 ([busy][phillips][put][one][hell][performance,][comedic][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][would][disaster.][forget][mona][lisa][room.])
+v(7,8,15,16,17,19,20,21,22,24,25,26,27,33,34,35): 5.031768798828125	 ([dramatic.][erika][touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film][smile,][see][home])
+v(7,8,18,29,30,31,32,33,34,35,36): -8.017324447631836	 ([dramatic.][erika][starring][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(7,8,15,16,17,18,19,20,21,22,24,25,26,27,29,30,31,32,36): -7.729557037353516	 ([dramatic.][erika][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][disaster.][forget][mona][lisa][room.])
+v(15,16,17,18,19,20,21,22,24,25,26,27,29,30,31,32,33,34,35,36): -7.502529144287109	 ([touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,23,28,33,34,35): 6.997944355010986	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][doesnt][would][smile,][see][home])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28): 7.487982749938965	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,18,23,28,29,30,31,32,36): 5.6588850021362305	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][starring][doesnt][would][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,33,34,35): 7.184703350067139	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would][smile,][see][home])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,18,23,28,29,30,31,32,33,34,35,36): 4.899505138397217	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][starring][doesnt][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,36): 6.463322162628174	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would][disaster.][forget][mona][lisa][room.])
+v(7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,33,34,35): 7.067279815673828	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][smile,][see][home])
+v(7,8,9,10,11,12,13,14,18,23,29,30,31,32,33,34,35,36): -2.2362735271453857	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][starring][doesnt][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,36): 4.34459114074707	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][disaster.][forget][mona][lisa][room.])
+v(9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,35,36): 4.390534400939941	 ([christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(0,1,2,3,4,5,6,7,8,15,16,17,19,20,21,22,24,25,26,27,28,33,34,35): 6.783365726470947	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film][would][smile,][see][home])
+v(0,1,2,3,4,5,6,7,8,18,28,29,30,31,32,33,34,35,36): -2.9281511306762695	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][starring][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(0,1,2,3,4,5,6,7,8,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,36): 4.300939559936523	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][would][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,34,35,36): -0.7428348064422607	 ([busy][phillips][put][one][hell][performance,][comedic][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(7,8,15,16,17,18,19,20,21,22,24,25,26,27,29,30,31,32,33,34,35,36): -7.54317569732666	 ([dramatic.][erika][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,33,34,35): 7.453214645385742	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would][smile,][see][home])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,18,23,28,29,30,31,32,33,34,35,36): 6.00056266784668	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][starring][doesnt][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,36): 6.8497395515441895	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 6.761417388916016	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,35,36): 5.341012001037598	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(0,1,2,3,4,5,6,7,8,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,34,35,36): 4.535269737243652	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 7.090693473815918	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28): 8.02843952178955, EP: 1.0520615577697754	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,33,34,35): 7.993671417236328, EP: 1.047505497932434	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would][smile,][see][home])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28): 7.813469886779785, EP: 1.0238914489746094	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,33,34,35): 7.725159645080566, EP: 1.0123192071914673	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would][smile,][see][home])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 7.631150245666504, EP: 1.0	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,33,34,35): 7.607736587524414, EP: 0.9969318509101868	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][smile,][see][home])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,23,28,33,34,35): 7.538400650024414, EP: 0.9878458976745605	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][doesnt][would][smile,][see][home])
+v(7,8,18,29,30,31,32,36): -7.524466514587402, EP: -0.9860199689865112	 ([dramatic.][erika][starring][disaster.][forget][mona][lisa][room.])
+v(7,8,18,29,30,31,32,33,34,35,36): -7.47686767578125, EP: -0.9797825217247009	 ([dramatic.][erika][starring][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27): 7.445459365844727, EP: 0.9756667017936707	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,36): 7.390195846557617, EP: 0.968424916267395	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,7,8,15,16,17,19,20,21,22,24,25,26,27,28,33,34,35): 7.323822021484375, EP: 0.9597271680831909	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film][would][smile,][see][home])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,23,28): 7.317136764526367, EP: 0.9588510990142822	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][doesnt][would])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 7.301874160766602, EP: 0.956851065158844	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(15,16,17,18,19,20,21,22,24,25,26,27,29,30,31,32,36): -7.23490047454834, EP: -0.9480746984481812	 ([touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][disaster.][forget][mona][lisa][room.])
+v(7,8,15,16,17,18,19,20,21,22,24,25,26,27,29,30,31,32,36): -7.18910026550293, EP: -0.9420729279518127	 ([dramatic.][erika][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][disaster.][forget][mona][lisa][room.])
+v(7,8,9,10,11,12,13,14,23,33,34,35): 7.146587371826172, EP: 0.9365019798278809	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][doesnt][smile,][see][home])
+v(0,1,2,3,4,5,6,18,28,29,30,31,32,36): -7.137219429016113, EP: -0.9352744221687317	 ([busy][phillips][put][one][hell][performance,][comedic][starring][would][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,7,8,15,16,17,19,20,21,22,24,25,26,27,28): 7.063235282897949, EP: 0.9255793690681458	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film][would])
+v(0,1,2,3,4,5,6,18,28,29,30,31,32,33,34,35,36): -7.0414323806762695, EP: -0.9227222800254822	 ([busy][phillips][put][one][hell][performance,][comedic][starring][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(18,29,30,31,32,33,34,35,36): -7.010619163513184, EP: -0.9186844825744629	 ([starring][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,36): 7.003778457641602, EP: 0.917788028717041	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][would][disaster.][forget][mona][lisa][room.])
+v(7,8,15,16,17,18,19,20,21,22,24,25,26,27,29,30,31,32,33,34,35,36): -7.002718925476074, EP: -0.9176492094993591	 ([dramatic.][erika][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,23,28,33,34,35): 6.966458320617676, EP: 0.912897527217865	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][doesnt][would][smile,][see][home])
+v(15,16,17,18,19,20,21,22,24,25,26,27,29,30,31,32,33,34,35,36): -6.962072372436523, EP: -0.9123228192329407	 ([touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(18,29,30,31,32,36): -6.95530891418457, EP: -0.9114364981651306	 ([starring][disaster.][forget][mona][lisa][room.])
+v(9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,33,34,35): 6.671120643615723, EP: 0.87419593334198	 ([christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][smile,][see][home])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,23,28): 6.551547050476074, EP: 0.8585268259048462	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][doesnt][would])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,18,23,28,29,30,31,32,33,34,35,36): 6.541019439697266, EP: 0.8571472764015198	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][starring][doesnt][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(7,8,9,10,11,12,13,14,23): 6.439583778381348, EP: 0.8438549041748047	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][doesnt])
+v(9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27): 6.409445762634277, EP: 0.8399056196212769	 ([christensen][good][busy][stole][show.][nice][touch][smokers,][movie][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,18,23,28,29,30,31,32,36): 6.199341773986816, EP: 0.812373161315918	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][christensen][good][busy][stole][show.][nice][starring][doesnt][would][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,7,8,28,33,34,35): 6.000051498413086, EP: 0.786257803440094	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][would][smile,][see][home])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,35,36): 5.881468772888184, EP: 0.770718514919281	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(7,8,15,16,17,19,20,21,22,24,25,26,27,33,34,35): 5.572225570678711, EP: 0.7301946878433228	 ([dramatic.][erika][touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film][smile,][see][home])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,18,23,28,29,30,31,32,33,34,35,36): 5.4399614334106445, EP: 0.7128625512123108	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][starring][doesnt][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(0,1,2,3,4,5,6,7,8,28): 5.340100288391113, EP: 0.6997765898704529	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][would])
+v(9,10,11,12,13,14,18,23,29,30,31,32,36): -5.230342864990234, EP: -0.685393750667572	 ([christensen][good][busy][stole][show.][nice][starring][doesnt][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,15,16,17,19,20,21,22,24,25,26,27,28,33,34,35): 5.176424026489258, EP: 0.6783281564712524	 ([busy][phillips][put][one][hell][performance,][comedic][touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film][would][smile,][see][home])
+v(9,10,11,12,13,14,23,33,34,35): 5.13170051574707, EP: 0.6724674701690674	 ([christensen][good][busy][stole][show.][nice][doesnt][smile,][see][home])
+v(0,1,2,3,4,5,6,7,8,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,34,35,36): 5.075726509094238, EP: 0.6651325821876526	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,35,36): 4.930991172790527, EP: 0.646166205406189	 ([christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,36): 4.885047912597656, EP: 0.6401456594467163	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,18,23,28,29,30,31,32,36): 4.878656387329102, EP: 0.6393081545829773	 ([busy][phillips][put][one][hell][performance,][comedic][christensen][good][busy][stole][show.][nice][starring][doesnt][would][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,7,8,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,36): 4.841396331787109, EP: 0.6344255208969116	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][would][disaster.][forget][mona][lisa][room.])
+v(7,8,15,16,17,19,20,21,22,24,25,26,27): 4.733664512634277, EP: 0.6203081011772156	 ([dramatic.][erika][touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film])
+v(9,10,11,12,13,14,18,23,29,30,31,32,33,34,35,36): -4.474652290344238, EP: -0.5863667130470276	 ([christensen][good][busy][stole][show.][nice][starring][doesnt][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(0,1,2,3,4,5,6,15,16,17,19,20,21,22,24,25,26,27,28): 4.317740440368652, EP: 0.565804660320282	 ([busy][phillips][put][one][hell][performance,][comedic][touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film][would])
+v(15,16,17,19,20,21,22,24,25,26,27,33,34,35): 4.123895645141602, EP: 0.540402889251709	 ([touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film][smile,][see][home])
+v(9,10,11,12,13,14,23): 3.8151509761810303, EP: 0.49994441866874695	 ([christensen][good][busy][stole][show.][nice][doesnt])
+v(9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,36): 3.622887134552002, EP: 0.4747498035430908	 ([christensen][good][busy][stole][show.][nice][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][doesnt][get][nomination][kind][film][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,7,8,18,28,29,30,31,32,36): -3.2666308879852295, EP: -0.42806532979011536	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][starring][would][disaster.][forget][mona][lisa][room.])
+v(7,8,9,10,11,12,13,14,18,23,29,30,31,32,36): -2.9361813068389893, EP: -0.38476261496543884	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][starring][doesnt][disaster.][forget][mona][lisa][room.])
+v(15,16,17,19,20,21,22,24,25,26,27): 2.9270212650299072, EP: 0.38356226682662964	 ([touch][smokers,][movie][busy,][wasnt][great.][busy][get][nomination][kind][film])
+v(7,8,33,34,35): 2.8373751640319824, EP: 0.37181487679481506	 ([dramatic.][erika][smile,][see][home])
+v(0,1,2,3,4,5,6,7,8,18,28,29,30,31,32,33,34,35,36): -2.3876945972442627, EP: -0.31288790702819824	 ([busy][phillips][put][one][hell][performance,][comedic][dramatic.][erika][starring][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(33,34,35): 2.011735439300537, EP: 0.2636215090751648	 ([smile,][see][home])
+v(7,8,9,10,11,12,13,14,18,23,29,30,31,32,33,34,35,36): -1.695816993713379, EP: -0.22222298383712769	 ([dramatic.][erika][christensen][good][busy][stole][show.][nice][starring][doesnt][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(0,1,2,3,4,5,6,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,36): -1.1769423484802246, EP: -0.15422870218753815	 ([busy][phillips][put][one][hell][performance,][comedic][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][would][disaster.][forget][mona][lisa][room.])
+v(0,1,2,3,4,5,6,28,33,34,35): 1.0250674486160278, EP: 0.1343267261981964	 ([busy][phillips][put][one][hell][performance,][comedic][would][smile,][see][home])
+v(7,8): 0.7856416702270508, EP: 0.10295193642377853	 ([dramatic.][erika])
+v(0,1,2,3,4,5,6,28): 0.42827287316322327, EP: 0.056121665984392166	 ([busy][phillips][put][one][hell][performance,][comedic][would])
+v(0,1,2,3,4,5,6,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,34,35,36): -0.2023782730102539, EP: -0.0265200212597847	 ([busy][phillips][put][one][hell][performance,][comedic][touch][smokers,][movie][starring][busy,][wasnt][great.][busy][get][nomination][kind][film][would][disaster.][forget][mona][lisa][smile,][see][home][room.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

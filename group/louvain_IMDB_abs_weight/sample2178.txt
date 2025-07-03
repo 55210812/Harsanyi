@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['48', '46', '44', '45', '47', '31']: ['fact', 'film', 'really', 'causes', 'suffer', 'time']: 平均边权 1.0378
+社区 2: ['39', '38', '37', '36', '43', '34', '40']: ['suffer,', 'pacing', 'causes', 'dialogue.', 'specific,', 'script', 'jokes']: 平均边权 0.5424
+社区 3: ['2', '4', '5', '3', '0', '1', '6']: ['( aka', "lampoon's", 'european', 'national', 'european', 'vacation', 'vacation )']: 平均边权 0.7012
+社区 4: ['33', '41', '42', '35']: ['weaker', 'funny', 'all.', 'bad']: 平均边权 1.1224
+社区 5: ['56', '61', '57', '59', '58', '54']: ['rather', 'vacation', 'serving', 'plot', 'central', 'cobbled - together']: 平均边权 0.2730
+社区 6: ['12', '8', '14', '20', '13', '11', '15', '9', '62', '60', '10', '17', '7']: ['third', 'vacation', 'superior', 'return', 'one', 'first', 'films ).', 'films', 'films', '3', '( the', 'chase', 'weakest']: 平均边权 0.3139
+社区 7: ['32', '25', '49', '52', '55', '50', '53', '51']: ['given', 'new', 'jokes', 'pasted', 'script ),', '"', 'together', 'are,']: 平均边权 0.2932
+社区 8: ['19', '27', '29', '18', '21', '30', '16', '23', '22', '24', '26', '28']: ["d'angelo", 'roles', 'audrey', 'beverly', 'clark', 'griswold ),', 'chevy', 'griswold', 'ellen', '( with', 'actors', 'russ']: 平均边权 0.3156

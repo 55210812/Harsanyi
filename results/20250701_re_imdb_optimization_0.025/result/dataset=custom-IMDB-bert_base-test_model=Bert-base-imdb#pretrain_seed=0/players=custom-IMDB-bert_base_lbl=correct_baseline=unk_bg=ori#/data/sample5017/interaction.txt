@@ -1,0 +1,30 @@
+---------- Players ----------
+Player 0: aside
+Player 1: classic
+Player 2: aspect
+Player 3: cheesy
+Player 4: lines
+Player 5: terrible
+Player 6: acting,
+Player 7: film
+Player 8: never
+Player 9: watched
+Player 10: unless
+Player 11: looking
+Player 12: good
+Player 13: cure
+Player 14: insomnia.
+Player 15: can't
+Player 16: imagine
+Player 17: anyone
+Player 18: actually
+Player 19: thinking
+Player 20: good
+Player 21: movie.
+Player 22: " "
+---------- AND Interactions (Pairwise Only) ----------
+I(6,20): -7.633854866027832	 ([acting,][good])
+I(11,21): 6.1224799156188965	 ([looking][movie.])
+I(16,17): 1.3698619604110718	 ([imagine][anyone])
+Sum: -0.14151298999786377
+==================================================

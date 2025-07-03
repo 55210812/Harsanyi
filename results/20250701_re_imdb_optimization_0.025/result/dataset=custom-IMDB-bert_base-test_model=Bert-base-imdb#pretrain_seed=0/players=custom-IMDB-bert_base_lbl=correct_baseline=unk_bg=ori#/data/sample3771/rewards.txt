@@ -1,0 +1,79 @@
+---------- Players ----------
+Player 0: overtaken
+Player 1: emotion.
+Player 2: unforgettable
+Player 3: rendering
+Player 4: wartime
+Player 5: story
+Player 6: unknown
+Player 7: people.
+Player 8: performances
+Player 9: faultless
+Player 10: outstanding.
+---------- Rewards ----------
+v(): 0.056542545557022095	 ([])
+v(0,4,10): -0.08690258860588074	 ([overtaken][wartime][outstanding.])
+v(7,8): -0.25963276624679565	 ([people.][performances])
+v(1,6): 2.8100173473358154	 ([emotion.][unknown])
+v(3,5): -0.17582803964614868	 ([rendering][story])
+v(2,9): 0.8429009914398193	 ([unforgettable][faultless])
+v(0,4,7,8,10): 4.138845443725586	 ([overtaken][wartime][people.][performances][outstanding.])
+v(0,1,4,6,10): 6.845462799072266	 ([overtaken][emotion.][wartime][unknown][outstanding.])
+v(0,3,4,5,10): 0.6846672296524048	 ([overtaken][rendering][wartime][story][outstanding.])
+v(0,2,4,9,10): 2.185852527618408	 ([overtaken][unforgettable][wartime][faultless][outstanding.])
+v(1,6,7,8): 3.5378479957580566	 ([emotion.][unknown][people.][performances])
+v(3,5,7,8): -0.6900736093521118	 ([rendering][story][people.][performances])
+v(2,7,8,9): -1.575102686882019	 ([unforgettable][people.][performances][faultless])
+v(1,3,5,6): 3.800541400909424	 ([emotion.][rendering][story][unknown])
+v(1,2,6,9): 6.308840274810791	 ([emotion.][unforgettable][unknown][faultless])
+v(2,3,5,9): 3.1423017978668213	 ([unforgettable][rendering][story][faultless])
+v(0,1,4,6,7,8,10): 7.4302520751953125	 ([overtaken][emotion.][wartime][unknown][people.][performances][outstanding.])
+v(0,3,4,5,7,8,10): 1.535552740097046	 ([overtaken][rendering][wartime][story][people.][performances][outstanding.])
+v(0,2,4,7,8,9,10): 4.667749881744385	 ([overtaken][unforgettable][wartime][people.][performances][faultless][outstanding.])
+v(0,1,3,4,5,6,10): 7.101403713226318	 ([overtaken][emotion.][rendering][wartime][story][unknown][outstanding.])
+v(0,1,2,4,6,9,10): 7.081201553344727	 ([overtaken][emotion.][unforgettable][wartime][unknown][faultless][outstanding.])
+v(0,2,3,4,5,9,10): 3.558450698852539	 ([overtaken][unforgettable][rendering][wartime][story][faultless][outstanding.])
+v(1,3,5,6,7,8): 4.054309368133545	 ([emotion.][rendering][story][unknown][people.][performances])
+v(1,2,6,7,8,9): 7.085574150085449	 ([emotion.][unforgettable][unknown][people.][performances][faultless])
+v(2,3,5,7,8,9): 3.8696341514587402	 ([unforgettable][rendering][story][people.][performances][faultless])
+v(1,2,3,5,6,9): 8.128426551818848	 ([emotion.][unforgettable][rendering][story][unknown][faultless])
+v(0,1,3,4,5,6,7,8,10): 7.181424140930176	 ([overtaken][emotion.][rendering][wartime][story][unknown][people.][performances][outstanding.])
+v(0,1,2,4,6,7,8,9,10): 7.626803874969482	 ([overtaken][emotion.][unforgettable][wartime][unknown][people.][performances][faultless][outstanding.])
+v(0,2,3,4,5,7,8,9,10): 6.114090919494629	 ([overtaken][unforgettable][rendering][wartime][story][people.][performances][faultless][outstanding.])
+v(0,1,2,3,4,5,6,9,10): 7.916879653930664	 ([overtaken][emotion.][unforgettable][rendering][wartime][story][unknown][faultless][outstanding.])
+v(1,2,3,5,6,7,8,9): 8.014304161071777	 ([emotion.][unforgettable][rendering][story][unknown][people.][performances][faultless])
+v(0,1,2,3,4,5,6,7,8,9,10): 7.934264659881592	 ([overtaken][emotion.][unforgettable][rendering][wartime][story][unknown][people.][performances][faultless][outstanding.])
+---------- Rewards-v() ----------
+v(1,2,3,5,6,9): 8.071884155273438, EP: 1.0246469974517822	 ([emotion.][unforgettable][rendering][story][unknown][faultless])
+v(1,2,3,5,6,7,8,9): 7.957761764526367, EP: 1.010160207748413	 ([emotion.][unforgettable][rendering][story][unknown][people.][performances][faultless])
+v(0,1,2,3,4,5,6,7,8,9,10): 7.877722263336182, EP: 1.0	 ([overtaken][emotion.][unforgettable][rendering][wartime][story][unknown][people.][performances][faultless][outstanding.])
+v(0,1,2,3,4,5,6,9,10): 7.860337257385254, EP: 0.9977931380271912	 ([overtaken][emotion.][unforgettable][rendering][wartime][story][unknown][faultless][outstanding.])
+v(0,1,2,4,6,7,8,9,10): 7.570261478424072, EP: 0.9609708786010742	 ([overtaken][emotion.][unforgettable][wartime][unknown][people.][performances][faultless][outstanding.])
+v(0,1,4,6,7,8,10): 7.373709678649902, EP: 0.9360204935073853	 ([overtaken][emotion.][wartime][unknown][people.][performances][outstanding.])
+v(0,1,3,4,5,6,7,8,10): 7.124881744384766, EP: 0.9044342637062073	 ([overtaken][emotion.][rendering][wartime][story][unknown][people.][performances][outstanding.])
+v(0,1,3,4,5,6,10): 7.044861316680908, EP: 0.8942764401435852	 ([overtaken][emotion.][rendering][wartime][story][unknown][outstanding.])
+v(1,2,6,7,8,9): 7.029031753540039, EP: 0.8922669887542725	 ([emotion.][unforgettable][unknown][people.][performances][faultless])
+v(0,1,2,4,6,9,10): 7.024659156799316, EP: 0.891711950302124	 ([overtaken][emotion.][unforgettable][wartime][unknown][faultless][outstanding.])
+v(0,1,4,6,10): 6.7889204025268555, EP: 0.8617871999740601	 ([overtaken][emotion.][wartime][unknown][outstanding.])
+v(1,2,6,9): 6.252297878265381, EP: 0.7936682105064392	 ([emotion.][unforgettable][unknown][faultless])
+v(0,2,3,4,5,7,8,9,10): 6.057548522949219, EP: 0.7689467072486877	 ([overtaken][unforgettable][rendering][wartime][story][people.][performances][faultless][outstanding.])
+v(0,2,4,7,8,9,10): 4.611207485198975, EP: 0.5853478312492371	 ([overtaken][unforgettable][wartime][people.][performances][faultless][outstanding.])
+v(0,4,7,8,10): 4.082303047180176, EP: 0.5182085633277893	 ([overtaken][wartime][people.][performances][outstanding.])
+v(1,3,5,6,7,8): 3.9977667331695557, EP: 0.5074774622917175	 ([emotion.][rendering][story][unknown][people.][performances])
+v(2,3,5,7,8,9): 3.813091516494751, EP: 0.48403477668762207	 ([unforgettable][rendering][story][people.][performances][faultless])
+v(1,3,5,6): 3.7439987659454346, EP: 0.47526413202285767	 ([emotion.][rendering][story][unknown])
+v(0,2,3,4,5,9,10): 3.50190806388855, EP: 0.4445330798625946	 ([overtaken][unforgettable][rendering][wartime][story][faultless][outstanding.])
+v(1,6,7,8): 3.4813053607940674, EP: 0.44191774725914	 ([emotion.][unknown][people.][performances])
+v(2,3,5,9): 3.085759162902832, EP: 0.39170703291893005	 ([unforgettable][rendering][story][faultless])
+v(1,6): 2.753474712371826, EP: 0.3495267629623413	 ([emotion.][unknown])
+v(0,2,4,9,10): 2.129309892654419, EP: 0.270295113325119	 ([overtaken][unforgettable][wartime][faultless][outstanding.])
+v(2,7,8,9): -1.6316452026367188, EP: -0.20712144672870636	 ([unforgettable][people.][performances][faultless])
+v(0,3,4,5,7,8,10): 1.4790102243423462, EP: 0.18774592876434326	 ([overtaken][rendering][wartime][story][people.][performances][outstanding.])
+v(2,9): 0.7863584756851196, EP: 0.09982053935527802	 ([unforgettable][faultless])
+v(3,5,7,8): -0.7466161251068115, EP: -0.09477563202381134	 ([rendering][story][people.][performances])
+v(0,3,4,5,10): 0.6281247138977051, EP: 0.07973430305719376	 ([overtaken][rendering][wartime][story][outstanding.])
+v(7,8): -0.31617531180381775, EP: -0.040135372430086136	 ([people.][performances])
+v(3,5): -0.23237058520317078, EP: -0.02949717827141285	 ([rendering][story])
+v(0,4,10): -0.14344513416290283, EP: -0.018208960071206093	 ([overtaken][wartime][outstanding.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

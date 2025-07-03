@@ -1,0 +1,160 @@
+---------- Players ----------
+Player 0: movie
+Player 1: another
+Player 2: list
+Player 3: want
+Player 4: see.
+Player 5: talked
+Player 6: dragged
+Player 7: theater,
+Player 8: boy
+Player 9: glad
+Player 10: that.
+Player 11: thought
+Player 12: going
+Player 13: another
+Player 14: love
+Player 15: story,
+Player 16: turns
+Player 17: sooo
+Player 18: much
+Player 19: that.
+Player 20: definatly
+Player 21: intellectual
+Player 22: flick,
+Player 23: one
+Player 24: movies
+Player 25: pay
+Player 26: attention
+Player 27: to.
+---------- Rewards ----------
+v(): 1.73111891746521	 ([])
+v(19,20,21,22,23): 4.5666184425354	 ([that.][definatly][intellectual][flick,][one])
+v(24,25,26): 1.6377294063568115	 ([movies][pay][attention])
+v(2,8,12,13,14): 4.082857608795166	 ([list][boy][going][another][love])
+v(16,17): 1.5315382480621338	 ([turns][sooo])
+v(4,5,6,7,9,10,11,15): 7.332477569580078	 ([see.][talked][dragged][theater,][glad][that.][thought][story,])
+v(0,1,3,18,27): 0.4945712983608246	 ([movie][another][want][much][to.])
+v(19,20,21,22,23,24,25,26): 6.334166526794434	 ([that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(2,8,12,13,14,19,20,21,22,23): 5.51052713394165	 ([list][boy][going][another][love][that.][definatly][intellectual][flick,][one])
+v(16,17,19,20,21,22,23): 6.350165367126465	 ([turns][sooo][that.][definatly][intellectual][flick,][one])
+v(4,5,6,7,9,10,11,15,19,20,21,22,23): 8.419243812561035	 ([see.][talked][dragged][theater,][glad][that.][thought][story,][that.][definatly][intellectual][flick,][one])
+v(0,1,3,18,19,20,21,22,23,27): 6.134708404541016	 ([movie][another][want][much][that.][definatly][intellectual][flick,][one][to.])
+v(2,8,12,13,14,24,25,26): 2.974519968032837	 ([list][boy][going][another][love][movies][pay][attention])
+v(16,17,24,25,26): 1.3240619897842407	 ([turns][sooo][movies][pay][attention])
+v(4,5,6,7,9,10,11,15,24,25,26): 7.432319641113281	 ([see.][talked][dragged][theater,][glad][that.][thought][story,][movies][pay][attention])
+v(0,1,3,18,24,25,26,27): 2.88187313079834	 ([movie][another][want][much][movies][pay][attention][to.])
+v(2,8,12,13,14,16,17): 3.4234204292297363	 ([list][boy][going][another][love][turns][sooo])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15): 7.925972938537598	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,])
+v(0,1,2,3,8,12,13,14,18,27): 5.3966064453125	 ([movie][another][list][want][boy][going][another][love][much][to.])
+v(4,5,6,7,9,10,11,15,16,17): 7.660876274108887	 ([see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo])
+v(0,1,3,16,17,18,27): 6.6185526847839355	 ([movie][another][want][turns][sooo][much][to.])
+v(0,1,3,4,5,6,7,9,10,11,15,18,27): 7.517040729522705	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][much][to.])
+v(2,8,12,13,14,19,20,21,22,23,24,25,26): 6.234825134277344	 ([list][boy][going][another][love][that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(16,17,19,20,21,22,23,24,25,26): 6.711421489715576	 ([turns][sooo][that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(4,5,6,7,9,10,11,15,19,20,21,22,23,24,25,26): 8.423141479492188	 ([see.][talked][dragged][theater,][glad][that.][thought][story,][that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(0,1,3,18,19,20,21,22,23,24,25,26,27): 7.727597236633301	 ([movie][another][want][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(2,8,12,13,14,16,17,19,20,21,22,23): 7.522947311401367	 ([list][boy][going][another][love][turns][sooo][that.][definatly][intellectual][flick,][one])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,19,20,21,22,23): 8.324494361877441	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][that.][definatly][intellectual][flick,][one])
+v(0,1,2,3,8,12,13,14,18,19,20,21,22,23,27): 7.937126159667969	 ([movie][another][list][want][boy][going][another][love][much][that.][definatly][intellectual][flick,][one][to.])
+v(4,5,6,7,9,10,11,15,16,17,19,20,21,22,23): 8.637131690979004	 ([see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo][that.][definatly][intellectual][flick,][one])
+v(0,1,3,16,17,18,19,20,21,22,23,27): 8.856249809265137	 ([movie][another][want][turns][sooo][much][that.][definatly][intellectual][flick,][one][to.])
+v(0,1,3,4,5,6,7,9,10,11,15,18,19,20,21,22,23,27): 8.353528022766113	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][much][that.][definatly][intellectual][flick,][one][to.])
+v(2,8,12,13,14,16,17,24,25,26): 2.90280818939209	 ([list][boy][going][another][love][turns][sooo][movies][pay][attention])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,24,25,26): 7.595395088195801	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][movies][pay][attention])
+v(0,1,2,3,8,12,13,14,18,24,25,26,27): 6.54301118850708	 ([movie][another][list][want][boy][going][another][love][much][movies][pay][attention][to.])
+v(4,5,6,7,9,10,11,15,16,17,24,25,26): 7.991218566894531	 ([see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo][movies][pay][attention])
+v(0,1,3,16,17,18,24,25,26,27): 8.385501861572266	 ([movie][another][want][turns][sooo][much][movies][pay][attention][to.])
+v(0,1,3,4,5,6,7,9,10,11,15,18,24,25,26,27): 8.088502883911133	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][much][movies][pay][attention][to.])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,16,17): 8.145384788513184	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo])
+v(0,1,2,3,8,12,13,14,16,17,18,27): 8.45859146118164	 ([movie][another][list][want][boy][going][another][love][turns][sooo][much][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,27): 8.368141174316406	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][much][to.])
+v(0,1,3,4,5,6,7,9,10,11,15,16,17,18,27): 8.642562866210938	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo][much][to.])
+v(2,8,12,13,14,16,17,19,20,21,22,23,24,25,26): 7.75321626663208	 ([list][boy][going][another][love][turns][sooo][that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,19,20,21,22,23,24,25,26): 8.336246490478516	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(0,1,2,3,8,12,13,14,18,19,20,21,22,23,24,25,26,27): 8.503445625305176	 ([movie][another][list][want][boy][going][another][love][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(4,5,6,7,9,10,11,15,16,17,19,20,21,22,23,24,25,26): 8.651958465576172	 ([see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo][that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(0,1,3,16,17,18,19,20,21,22,23,24,25,26,27): 8.980472564697266	 ([movie][another][want][turns][sooo][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(0,1,3,4,5,6,7,9,10,11,15,18,19,20,21,22,23,24,25,26,27): 8.691795349121094	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23): 8.682777404785156	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo][that.][definatly][intellectual][flick,][one])
+v(0,1,2,3,8,12,13,14,16,17,18,19,20,21,22,23,27): 8.96280288696289	 ([movie][another][list][want][boy][going][another][love][turns][sooo][much][that.][definatly][intellectual][flick,][one][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,19,20,21,22,23,27): 8.757665634155273	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][much][that.][definatly][intellectual][flick,][one][to.])
+v(0,1,3,4,5,6,7,9,10,11,15,16,17,18,19,20,21,22,23,27): 8.793451309204102	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo][much][that.][definatly][intellectual][flick,][one][to.])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,24,25,26): 8.074660301208496	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo][movies][pay][attention])
+v(0,1,2,3,8,12,13,14,16,17,18,24,25,26,27): 8.88752269744873	 ([movie][another][list][want][boy][going][another][love][turns][sooo][much][movies][pay][attention][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,24,25,26,27): 8.717403411865234	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][much][movies][pay][attention][to.])
+v(0,1,3,4,5,6,7,9,10,11,15,16,17,18,24,25,26,27): 8.818129539489746	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo][much][movies][pay][attention][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,27): 8.93056869506836	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo][much][to.])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26): 8.607830047607422	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo][that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(0,1,2,3,8,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27): 9.01309871673584	 ([movie][another][list][want][boy][going][another][love][turns][sooo][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25,26,27): 8.890497207641602	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(0,1,3,4,5,6,7,9,10,11,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.976364135742188	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,27): 8.830056190490723	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo][much][that.][definatly][intellectual][flick,][one][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,24,25,26,27): 8.930900573730469	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo][much][movies][pay][attention][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.890450477600098	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+---------- Rewards-v() ----------
+v(0,1,2,3,8,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27): 7.281979560852051, EP: 1.0171312093734741	 ([movie][another][list][want][boy][going][another][love][turns][sooo][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(0,1,3,16,17,18,19,20,21,22,23,24,25,26,27): 7.249353408813477, EP: 1.0125740766525269	 ([movie][another][want][turns][sooo][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(0,1,3,4,5,6,7,9,10,11,15,16,17,18,19,20,21,22,23,24,25,26,27): 7.245244979858398, EP: 1.0120002031326294	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(0,1,2,3,8,12,13,14,16,17,18,19,20,21,22,23,27): 7.231683731079102, EP: 1.010106086730957	 ([movie][another][list][want][boy][going][another][love][turns][sooo][much][that.][definatly][intellectual][flick,][one][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,24,25,26,27): 7.19978141784668, EP: 1.0056499242782593	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo][much][movies][pay][attention][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,27): 7.19944953918457, EP: 1.0056036710739136	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo][much][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25,26,27): 7.1593780517578125, EP: 1.0000065565109253	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 7.159331321716309, EP: 1.0	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(0,1,2,3,8,12,13,14,16,17,18,24,25,26,27): 7.156403541564941, EP: 0.999591052532196	 ([movie][another][list][want][boy][going][another][love][turns][sooo][much][movies][pay][attention][to.])
+v(0,1,3,16,17,18,19,20,21,22,23,27): 7.125130653381348, EP: 0.9952229261398315	 ([movie][another][want][turns][sooo][much][that.][definatly][intellectual][flick,][one][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,27): 7.098937034606934, EP: 0.9915642738342285	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo][much][that.][definatly][intellectual][flick,][one][to.])
+v(0,1,3,4,5,6,7,9,10,11,15,16,17,18,24,25,26,27): 7.087010383605957, EP: 0.9898983836174011	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo][much][movies][pay][attention][to.])
+v(0,1,3,4,5,6,7,9,10,11,15,16,17,18,19,20,21,22,23,27): 7.0623321533203125, EP: 0.9864513874053955	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo][much][that.][definatly][intellectual][flick,][one][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,19,20,21,22,23,27): 7.026546478271484, EP: 0.9814528822898865	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][much][that.][definatly][intellectual][flick,][one][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,24,25,26,27): 6.986284255981445, EP: 0.9758291840553284	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][much][movies][pay][attention][to.])
+v(0,1,3,4,5,6,7,9,10,11,15,18,19,20,21,22,23,24,25,26,27): 6.960676193237305, EP: 0.9722522497177124	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23): 6.951658248901367, EP: 0.9709926843643188	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo][that.][definatly][intellectual][flick,][one])
+v(4,5,6,7,9,10,11,15,16,17,19,20,21,22,23,24,25,26): 6.920839309692383, EP: 0.9666879773139954	 ([see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo][that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(0,1,3,4,5,6,7,9,10,11,15,16,17,18,27): 6.911443710327148, EP: 0.9653756022453308	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo][much][to.])
+v(4,5,6,7,9,10,11,15,16,17,19,20,21,22,23): 6.906012535095215, EP: 0.9646169543266296	 ([see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo][that.][definatly][intellectual][flick,][one])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26): 6.876710891723633, EP: 0.9605242013931274	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo][that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(0,1,2,3,8,12,13,14,18,19,20,21,22,23,24,25,26,27): 6.772326469421387, EP: 0.9459440112113953	 ([movie][another][list][want][boy][going][another][love][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(0,1,2,3,8,12,13,14,16,17,18,27): 6.727472305297852, EP: 0.9396788477897644	 ([movie][another][list][want][boy][going][another][love][turns][sooo][much][to.])
+v(4,5,6,7,9,10,11,15,19,20,21,22,23,24,25,26): 6.692022323608398, EP: 0.9347273111343384	 ([see.][talked][dragged][theater,][glad][that.][thought][story,][that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(4,5,6,7,9,10,11,15,19,20,21,22,23): 6.688124656677246, EP: 0.93418288230896	 ([see.][talked][dragged][theater,][glad][that.][thought][story,][that.][definatly][intellectual][flick,][one])
+v(0,1,3,16,17,18,24,25,26,27): 6.654382705688477, EP: 0.929469883441925	 ([movie][another][want][turns][sooo][much][movies][pay][attention][to.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,27): 6.637022018432617, EP: 0.9270449876785278	 ([movie][another][list][want][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][much][to.])
+v(0,1,3,4,5,6,7,9,10,11,15,18,19,20,21,22,23,27): 6.622408866882324, EP: 0.9250038266181946	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][much][that.][definatly][intellectual][flick,][one][to.])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,19,20,21,22,23,24,25,26): 6.605127334594727, EP: 0.9225899577140808	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,19,20,21,22,23): 6.593375205993652, EP: 0.9209484457969666	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][that.][definatly][intellectual][flick,][one])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,16,17): 6.4142656326293945, EP: 0.895930826663971	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo])
+v(0,1,3,4,5,6,7,9,10,11,15,18,24,25,26,27): 6.357383728027344, EP: 0.8879857063293457	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][much][movies][pay][attention][to.])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,24,25,26): 6.343541145324707, EP: 0.8860521912574768	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][turns][sooo][movies][pay][attention])
+v(4,5,6,7,9,10,11,15,16,17,24,25,26): 6.260099411010742, EP: 0.8743972182273865	 ([see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo][movies][pay][attention])
+v(0,1,2,3,8,12,13,14,18,19,20,21,22,23,27): 6.20600700378418, EP: 0.866841733455658	 ([movie][another][list][want][boy][going][another][love][much][that.][definatly][intellectual][flick,][one][to.])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15): 6.194853782653809, EP: 0.8652838468551636	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,])
+v(2,8,12,13,14,16,17,19,20,21,22,23,24,25,26): 6.022097587585449, EP: 0.841153621673584	 ([list][boy][going][another][love][turns][sooo][that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(0,1,3,18,19,20,21,22,23,24,25,26,27): 5.996478080749512, EP: 0.8375751376152039	 ([movie][another][want][much][that.][definatly][intellectual][flick,][one][movies][pay][attention][to.])
+v(4,5,6,7,9,10,11,15,16,17): 5.929757118225098, EP: 0.8282557129859924	 ([see.][talked][dragged][theater,][glad][that.][thought][story,][turns][sooo])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,24,25,26): 5.864275932312012, EP: 0.8191094398498535	 ([list][see.][talked][dragged][theater,][boy][glad][that.][thought][going][another][love][story,][movies][pay][attention])
+v(2,8,12,13,14,16,17,19,20,21,22,23): 5.791828155517578, EP: 0.8089901208877563	 ([list][boy][going][another][love][turns][sooo][that.][definatly][intellectual][flick,][one])
+v(0,1,3,4,5,6,7,9,10,11,15,18,27): 5.785922050476074, EP: 0.8081651329994202	 ([movie][another][want][see.][talked][dragged][theater,][glad][that.][thought][story,][much][to.])
+v(4,5,6,7,9,10,11,15,24,25,26): 5.701200485229492, EP: 0.7963314056396484	 ([see.][talked][dragged][theater,][glad][that.][thought][story,][movies][pay][attention])
+v(4,5,6,7,9,10,11,15): 5.601358413696289, EP: 0.7823857069015503	 ([see.][talked][dragged][theater,][glad][that.][thought][story,])
+v(16,17,19,20,21,22,23,24,25,26): 4.980302810668945, EP: 0.6956380009651184	 ([turns][sooo][that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(0,1,3,16,17,18,27): 4.887434005737305, EP: 0.6826662421226501	 ([movie][another][want][turns][sooo][much][to.])
+v(0,1,2,3,8,12,13,14,18,24,25,26,27): 4.811892509460449, EP: 0.6721147894859314	 ([movie][another][list][want][boy][going][another][love][much][movies][pay][attention][to.])
+v(16,17,19,20,21,22,23): 4.619046211242676, EP: 0.6451784372329712	 ([turns][sooo][that.][definatly][intellectual][flick,][one])
+v(19,20,21,22,23,24,25,26): 4.6030473709106445, EP: 0.6429437398910522	 ([that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(2,8,12,13,14,19,20,21,22,23,24,25,26): 4.503705978393555, EP: 0.6290679574012756	 ([list][boy][going][another][love][that.][definatly][intellectual][flick,][one][movies][pay][attention])
+v(0,1,3,18,19,20,21,22,23,27): 4.403589248657227, EP: 0.6150838732719421	 ([movie][another][want][much][that.][definatly][intellectual][flick,][one][to.])
+v(2,8,12,13,14,19,20,21,22,23): 3.7794082164764404, EP: 0.5278996229171753	 ([list][boy][going][another][love][that.][definatly][intellectual][flick,][one])
+v(0,1,2,3,8,12,13,14,18,27): 3.66548752784729, EP: 0.5119873881340027	 ([movie][another][list][want][boy][going][another][love][much][to.])
+v(19,20,21,22,23): 2.8354995250701904, EP: 0.39605647325515747	 ([that.][definatly][intellectual][flick,][one])
+v(2,8,12,13,14): 2.351738691329956, EP: 0.3284858167171478	 ([list][boy][going][another][love])
+v(2,8,12,13,14,16,17): 1.6923015117645264, EP: 0.2363770306110382	 ([list][boy][going][another][love][turns][sooo])
+v(2,8,12,13,14,24,25,26): 1.243401050567627, EP: 0.17367558181285858	 ([list][boy][going][another][love][movies][pay][attention])
+v(0,1,3,18,27): -1.236547589302063, EP: -0.17271830141544342	 ([movie][another][want][much][to.])
+v(2,8,12,13,14,16,17,24,25,26): 1.1716892719268799, EP: 0.16365903615951538	 ([list][boy][going][another][love][turns][sooo][movies][pay][attention])
+v(0,1,3,18,24,25,26,27): 1.1507542133331299, EP: 0.1607348769903183	 ([movie][another][want][much][movies][pay][attention][to.])
+v(16,17,24,25,26): -0.40705692768096924, EP: -0.05685683712363243	 ([turns][sooo][movies][pay][attention])
+v(16,17): -0.19958066940307617, EP: -0.027876999229192734	 ([turns][sooo])
+v(24,25,26): -0.09338951110839844, EP: -0.013044445775449276	 ([movies][pay][attention])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

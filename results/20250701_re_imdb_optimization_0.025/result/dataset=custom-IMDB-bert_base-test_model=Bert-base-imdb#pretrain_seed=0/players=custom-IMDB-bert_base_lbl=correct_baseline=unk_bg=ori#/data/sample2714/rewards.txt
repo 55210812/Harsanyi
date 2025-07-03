@@ -1,0 +1,89 @@
+---------- Players ----------
+Player 0: love
+Player 1: lord
+Player 2: rings
+Player 3: love
+Player 4: special
+Player 5: effects,
+Player 6: watch
+Player 7: movie!
+Player 8: sure
+Player 9: keep
+Player 10: glued
+Player 11: screen.
+Player 12: probably
+Player 13: even
+Player 14: like
+Player 15: like
+Player 16: watching
+Player 17: people
+Player 18: fight
+Player 19: magical
+Player 20: stuff.
+---------- Rewards ----------
+v(): 1.9854466915130615	 ([])
+v(0,1,2,16,18,20): 4.393158435821533	 ([love][lord][rings][watching][fight][stuff.])
+v(10,14,15,17,19): 4.222499847412109	 ([glued][like][like][people][magical])
+v(3,4,7,8,9): 6.961088180541992	 ([love][special][movie!][sure][keep])
+v(5,6,13): 2.3105132579803467	 ([effects,][watch][even])
+v(11,12): 1.1312735080718994	 ([screen.][probably])
+v(0,1,2,10,14,15,16,17,18,19,20): 6.178941249847412	 ([love][lord][rings][glued][like][like][watching][people][fight][magical][stuff.])
+v(0,1,2,3,4,7,8,9,16,18,20): 6.9817399978637695	 ([love][lord][rings][love][special][movie!][sure][keep][watching][fight][stuff.])
+v(0,1,2,5,6,13,16,18,20): 4.970199108123779	 ([love][lord][rings][effects,][watch][even][watching][fight][stuff.])
+v(0,1,2,11,12,16,18,20): 4.456612586975098	 ([love][lord][rings][screen.][probably][watching][fight][stuff.])
+v(3,4,7,8,9,10,14,15,17,19): 6.319892883300781	 ([love][special][movie!][sure][keep][glued][like][like][people][magical])
+v(5,6,10,13,14,15,17,19): 3.50404953956604	 ([effects,][watch][glued][even][like][like][people][magical])
+v(10,11,12,14,15,17,19): 3.96750545501709	 ([glued][screen.][probably][like][like][people][magical])
+v(3,4,5,6,7,8,9,13): 5.332387924194336	 ([love][special][effects,][watch][movie!][sure][keep][even])
+v(3,4,7,8,9,11,12): 6.860852241516113	 ([love][special][movie!][sure][keep][screen.][probably])
+v(5,6,11,12,13): 1.5898481607437134	 ([effects,][watch][screen.][probably][even])
+v(0,1,2,3,4,7,8,9,10,14,15,16,17,18,19,20): 6.634554862976074	 ([love][lord][rings][love][special][movie!][sure][keep][glued][like][like][watching][people][fight][magical][stuff.])
+v(0,1,2,5,6,10,13,14,15,16,17,18,19,20): 5.385126113891602	 ([love][lord][rings][effects,][watch][glued][even][like][like][watching][people][fight][magical][stuff.])
+v(0,1,2,10,11,12,14,15,16,17,18,19,20): 6.2022905349731445	 ([love][lord][rings][glued][screen.][probably][like][like][watching][people][fight][magical][stuff.])
+v(0,1,2,3,4,5,6,7,8,9,13,16,18,20): 6.534633636474609	 ([love][lord][rings][love][special][effects,][watch][movie!][sure][keep][even][watching][fight][stuff.])
+v(0,1,2,3,4,7,8,9,11,12,16,18,20): 7.018087387084961	 ([love][lord][rings][love][special][movie!][sure][keep][screen.][probably][watching][fight][stuff.])
+v(0,1,2,5,6,11,12,13,16,18,20): 4.745452404022217	 ([love][lord][rings][effects,][watch][screen.][probably][even][watching][fight][stuff.])
+v(3,4,5,6,7,8,9,10,13,14,15,17,19): 4.7528791427612305	 ([love][special][effects,][watch][movie!][sure][keep][glued][even][like][like][people][magical])
+v(3,4,7,8,9,10,11,12,14,15,17,19): 6.410678863525391	 ([love][special][movie!][sure][keep][glued][screen.][probably][like][like][people][magical])
+v(5,6,10,11,12,13,14,15,17,19): 2.8879075050354004	 ([effects,][watch][glued][screen.][probably][even][like][like][people][magical])
+v(3,4,5,6,7,8,9,11,12,13): 5.479750156402588	 ([love][special][effects,][watch][movie!][sure][keep][screen.][probably][even])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,19,20): 5.851273536682129	 ([love][lord][rings][love][special][effects,][watch][movie!][sure][keep][glued][even][like][like][watching][people][fight][magical][stuff.])
+v(0,1,2,3,4,7,8,9,10,11,12,14,15,16,17,18,19,20): 7.093254089355469	 ([love][lord][rings][love][special][movie!][sure][keep][glued][screen.][probably][like][like][watching][people][fight][magical][stuff.])
+v(0,1,2,5,6,10,11,12,13,14,15,16,17,18,19,20): 5.638154029846191	 ([love][lord][rings][effects,][watch][glued][screen.][probably][even][like][like][watching][people][fight][magical][stuff.])
+v(0,1,2,3,4,5,6,7,8,9,11,12,13,16,18,20): 6.673187255859375	 ([love][lord][rings][love][special][effects,][watch][movie!][sure][keep][screen.][probably][even][watching][fight][stuff.])
+v(3,4,5,6,7,8,9,10,11,12,13,14,15,17,19): 5.173545837402344	 ([love][special][effects,][watch][movie!][sure][keep][glued][screen.][probably][even][like][like][people][magical])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 6.6658830642700195	 ([love][lord][rings][love][special][effects,][watch][movie!][sure][keep][glued][screen.][probably][even][like][like][watching][people][fight][magical][stuff.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,7,8,9,10,11,12,14,15,16,17,18,19,20): 5.107807159423828, EP: 1.0913101434707642	 ([love][lord][rings][love][special][movie!][sure][keep][glued][screen.][probably][like][like][watching][people][fight][magical][stuff.])
+v(0,1,2,3,4,7,8,9,11,12,16,18,20): 5.03264045715332, EP: 1.075250267982483	 ([love][lord][rings][love][special][movie!][sure][keep][screen.][probably][watching][fight][stuff.])
+v(0,1,2,3,4,7,8,9,16,18,20): 4.996293067932129, EP: 1.0674844980239868	 ([love][lord][rings][love][special][movie!][sure][keep][watching][fight][stuff.])
+v(3,4,7,8,9): 4.975641250610352, EP: 1.0630720853805542	 ([love][special][movie!][sure][keep])
+v(3,4,7,8,9,11,12): 4.875405311584473, EP: 1.041656255722046	 ([love][special][movie!][sure][keep][screen.][probably])
+v(0,1,2,3,4,5,6,7,8,9,11,12,13,16,18,20): 4.687740325927734, EP: 1.0015605688095093	 ([love][lord][rings][love][special][effects,][watch][movie!][sure][keep][screen.][probably][even][watching][fight][stuff.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 4.680436134338379, EP: 1.0	 ([love][lord][rings][love][special][effects,][watch][movie!][sure][keep][glued][screen.][probably][even][like][like][watching][people][fight][magical][stuff.])
+v(0,1,2,3,4,7,8,9,10,14,15,16,17,18,19,20): 4.649107933044434, EP: 0.993306577205658	 ([love][lord][rings][love][special][movie!][sure][keep][glued][like][like][watching][people][fight][magical][stuff.])
+v(0,1,2,3,4,5,6,7,8,9,13,16,18,20): 4.549186706542969, EP: 0.9719578623771667	 ([love][lord][rings][love][special][effects,][watch][movie!][sure][keep][even][watching][fight][stuff.])
+v(3,4,7,8,9,10,11,12,14,15,17,19): 4.42523193359375, EP: 0.9454742670059204	 ([love][special][movie!][sure][keep][glued][screen.][probably][like][like][people][magical])
+v(3,4,7,8,9,10,14,15,17,19): 4.334445953369141, EP: 0.9260773658752441	 ([love][special][movie!][sure][keep][glued][like][like][people][magical])
+v(0,1,2,10,11,12,14,15,16,17,18,19,20): 4.216843605041504, EP: 0.9009509682655334	 ([love][lord][rings][glued][screen.][probably][like][like][watching][people][fight][magical][stuff.])
+v(0,1,2,10,14,15,16,17,18,19,20): 4.19349479675293, EP: 0.8959624171257019	 ([love][lord][rings][glued][like][like][watching][people][fight][magical][stuff.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,19,20): 3.8658268451690674, EP: 0.8259543776512146	 ([love][lord][rings][love][special][effects,][watch][movie!][sure][keep][glued][even][like][like][watching][people][fight][magical][stuff.])
+v(0,1,2,5,6,10,11,12,13,14,15,16,17,18,19,20): 3.65270733833313, EP: 0.7804203033447266	 ([love][lord][rings][effects,][watch][glued][screen.][probably][even][like][like][watching][people][fight][magical][stuff.])
+v(3,4,5,6,7,8,9,11,12,13): 3.4943034648895264, EP: 0.7465764880180359	 ([love][special][effects,][watch][movie!][sure][keep][screen.][probably][even])
+v(0,1,2,5,6,10,13,14,15,16,17,18,19,20): 3.39967942237854, EP: 0.7263595461845398	 ([love][lord][rings][effects,][watch][glued][even][like][like][watching][people][fight][magical][stuff.])
+v(3,4,5,6,7,8,9,13): 3.3469412326812744, EP: 0.7150917649269104	 ([love][special][effects,][watch][movie!][sure][keep][even])
+v(3,4,5,6,7,8,9,10,11,12,13,14,15,17,19): 3.1880991458892822, EP: 0.6811543107032776	 ([love][special][effects,][watch][movie!][sure][keep][glued][screen.][probably][even][like][like][people][magical])
+v(0,1,2,5,6,13,16,18,20): 2.9847524166107178, EP: 0.6377081871032715	 ([love][lord][rings][effects,][watch][even][watching][fight][stuff.])
+v(3,4,5,6,7,8,9,10,13,14,15,17,19): 2.767432451248169, EP: 0.5912766456604004	 ([love][special][effects,][watch][movie!][sure][keep][glued][even][like][like][people][magical])
+v(0,1,2,5,6,11,12,13,16,18,20): 2.7600057125091553, EP: 0.5896898508071899	 ([love][lord][rings][effects,][watch][screen.][probably][even][watching][fight][stuff.])
+v(0,1,2,11,12,16,18,20): 2.471165895462036, EP: 0.527977705001831	 ([love][lord][rings][screen.][probably][watching][fight][stuff.])
+v(0,1,2,16,18,20): 2.4077117443084717, EP: 0.5144203901290894	 ([love][lord][rings][watching][fight][stuff.])
+v(10,14,15,17,19): 2.237053155899048, EP: 0.4779582619667053	 ([glued][like][like][people][magical])
+v(10,11,12,14,15,17,19): 1.9820587635040283, EP: 0.4234773516654968	 ([glued][screen.][probably][like][like][people][magical])
+v(5,6,10,13,14,15,17,19): 1.5186028480529785, EP: 0.3244575560092926	 ([effects,][watch][glued][even][like][like][people][magical])
+v(5,6,10,11,12,13,14,15,17,19): 0.9024608135223389, EP: 0.19281554222106934	 ([effects,][watch][glued][screen.][probably][even][like][like][people][magical])
+v(11,12): -0.8541731834411621, EP: -0.18249863386154175	 ([screen.][probably])
+v(5,6,11,12,13): -0.39559853076934814, EP: -0.08452172577381134	 ([effects,][watch][screen.][probably][even])
+v(5,6,13): 0.32506656646728516, EP: 0.0694521963596344	 ([effects,][watch][even])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

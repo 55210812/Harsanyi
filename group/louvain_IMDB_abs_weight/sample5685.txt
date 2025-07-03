@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['35', '36', '49', '45', '18', '30', '23', '44', '37']: ['something', 'named', 'secret', 'secret', 'bad', 'got', 'something,', 'something', 'tree']: 平均边权 0.4816
+社区 2: ['27', '24', '25', '29', '28', '26']: ['lot', 'plot', 'make', 'based', 'sense.', 'whole']: 平均边权 0.8811
+社区 3: ['32', '34', '47', '55', '50', '48', '43', '33', '54', '31']: ['mess,', 'thief', "world's", 'stop', 'agent,', 'dullest', 'steal', 'terrorist', 'thinnes ),', 'muddled']: 平均边权 0.6001
+社区 4: ['39', '38', '53', '51', '52', '40']: ['( ian', '"', '( roy', 'johnny', 'paul', 'mcshane )']: 平均边权 0.6749
+社区 5: ['61', '63', '13', '11', '16', '15', '62', '64']: ['matter', 'action', 'movie', 'tv', 'credits', 'past', 'anyway.', 'movies']: 平均边权 0.4539
+社区 6: ['56', '20', '19', '46', '58', '21', '22', '59', '60']: ['him.', 'be.', 'going', 'weapon.', 'more,', 'maybe', 'missed', 'trust', 'really']: 平均边权 0.4157
+社区 7: ['2', '12', '8', '14', '5', '0', '4', '3', '9', '1', '10', '17', '6', '7']: ['see', 'pilot', 'onto', 'get', 'diamond', 'take', 'name :', 'code', 'network', 'long', 'schedules.', 'obvious', 'head', 'make']: 平均边权 0.2685
+社区 8: ['41', '42', '57']: ['goes', 'hawaii', 'might']: 平均边权 0.3257

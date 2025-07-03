@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['12', '11', '10']: ['movie.', 'funny', 'funny,']: 平均边权 7.5641
+社区 2: ['22', '37', '9', '49', '40', '36']: ['munster', 'museum', 'star', 'town', 'dedicated', 'wax']: 平均边权 0.7603
+社区 3: ['41', '15', '19', '1', '18']: ['munster', 'gwynne', 'munster', 'gwynne,', 'herman']: 平均边权 0.8191
+社区 4: ['2', '3', '23', '24', '46', '21']: ['al', 'lewis,', '( al', 'lewis ),', 'grandpa', 'grandpa']: 平均边权 1.0964
+社区 5: ['7', '8', '27', '52', '6', '29']: ['de', 'carlo', '( yvonne', 'two.', 'yvonne', 'carlo ),']: 平均边权 0.4858
+社区 6: ['4', '5', '0', '33', '32', '14', '34']: ['sid', 'caesar,', 'fred', 'caesar', 'sid', 'fred', 'hilarious']: 平均边权 0.6735
+社区 7: ['38', '56', '57', '20', '58', '47', '39', '16', '48', '53', '59', '51', '17', '60']: ['whole', 'late.', 'laugh', 'lives', 'loud', 'begin', 'section', 'truly', 'terrorize', 'two', 'like', 'blames', 'wonderful', 'did.']: 平均边权 0.7180
+社区 8: ['55', '54']: ['names', 'clear']: 平均边权 0.8770
+社区 9: ['35', '13', '25', '45', '30', '42', '44', '43', '26', '31']: ['owner', 'late', 'wife', 'herman', 'son', 'family.', 'figures', 'wax', 'lily', 'daughter.']: 平均边权 0.4088

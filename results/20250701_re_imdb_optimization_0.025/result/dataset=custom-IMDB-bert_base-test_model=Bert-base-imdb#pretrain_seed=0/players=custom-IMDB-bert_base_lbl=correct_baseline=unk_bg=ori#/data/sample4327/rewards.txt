@@ -1,0 +1,161 @@
+---------- Players ----------
+Player 0: long
+Player 1: time
+Player 2: seen
+Player 3: good
+Player 4: fantasy
+Player 5: movie,
+Player 6: magic
+Player 7: fights
+Player 8: even
+Player 9: better
+Player 10: lotr,
+Player 11: even
+Player 12: considering
+Player 13: 1987
+Player 14: movie
+Player 15: computer
+Player 16: special
+Player 17: effects.
+Player 18: movie
+Player 19: good
+Player 20: plot,
+Player 21: good
+Player 22: acting
+Player 23: interesting
+Player 24: ideas.
+Player 25: recommend
+Player 26: everybody
+Player 27: see
+Player 28: it.
+---------- Rewards ----------
+v(): -1.6171369552612305	 ([])
+v(17,18,19,25): 2.4694159030914307	 ([effects.][movie][good][recommend])
+v(2,3,7,10,12): -3.3099825382232666	 ([seen][good][fights][lotr,][considering])
+v(1,14,15,16): -2.659438133239746	 ([time][movie][computer][special])
+v(0,6,8,11,23,24,28): 2.1373257637023926	 ([long][magic][even][even][interesting][ideas.][it.])
+v(20,21,22,26,27): -3.0223026275634766	 ([plot,][good][acting][everybody][see])
+v(4,5,9,13): -0.29459869861602783	 ([fantasy][movie,][better][1987])
+v(2,3,7,10,12,17,18,19,25): 5.745967864990234	 ([seen][good][fights][lotr,][considering][effects.][movie][good][recommend])
+v(1,14,15,16,17,18,19,25): 2.412611961364746	 ([time][movie][computer][special][effects.][movie][good][recommend])
+v(0,6,8,11,17,18,19,23,24,25,28): 5.049474239349365	 ([long][magic][even][even][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(17,18,19,20,21,22,25,26,27): 2.215428352355957	 ([effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(4,5,9,13,17,18,19,25): 3.5088586807250977	 ([fantasy][movie,][better][1987][effects.][movie][good][recommend])
+v(1,2,3,7,10,12,14,15,16): 0.7155515551567078	 ([time][seen][good][fights][lotr,][considering][movie][computer][special])
+v(0,2,3,6,7,8,10,11,12,23,24,28): 3.8832082748413086	 ([long][seen][good][magic][fights][even][lotr,][even][considering][interesting][ideas.][it.])
+v(2,3,7,10,12,20,21,22,26,27): -1.2304258346557617	 ([seen][good][fights][lotr,][considering][plot,][good][acting][everybody][see])
+v(2,3,4,5,7,9,10,12,13): -0.15208347141742706	 ([seen][good][fantasy][movie,][fights][better][lotr,][considering][1987])
+v(0,1,6,8,11,14,15,16,23,24,28): 3.534581184387207	 ([long][time][magic][even][even][movie][computer][special][interesting][ideas.][it.])
+v(1,14,15,16,20,21,22,26,27): -2.885460376739502	 ([time][movie][computer][special][plot,][good][acting][everybody][see])
+v(1,4,5,9,13,14,15,16): -0.037967175245285034	 ([time][fantasy][movie,][better][1987][movie][computer][special])
+v(0,6,8,11,20,21,22,23,24,26,27,28): 4.8920135498046875	 ([long][magic][even][even][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(0,4,5,6,8,9,11,13,23,24,28): 4.3826422691345215	 ([long][fantasy][movie,][magic][even][better][even][1987][interesting][ideas.][it.])
+v(4,5,9,13,20,21,22,26,27): -0.20408466458320618	 ([fantasy][movie,][better][1987][plot,][good][acting][everybody][see])
+v(1,2,3,7,10,12,14,15,16,17,18,19,25): 6.705223560333252	 ([time][seen][good][fights][lotr,][considering][movie][computer][special][effects.][movie][good][recommend])
+v(0,2,3,6,7,8,10,11,12,17,18,19,23,24,25,28): 6.368341445922852	 ([long][seen][good][magic][fights][even][lotr,][even][considering][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(2,3,7,10,12,17,18,19,20,21,22,25,26,27): 4.5813398361206055	 ([seen][good][fights][lotr,][considering][effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(2,3,4,5,7,9,10,12,13,17,18,19,25): 7.146062850952148	 ([seen][good][fantasy][movie,][fights][better][lotr,][considering][1987][effects.][movie][good][recommend])
+v(0,1,6,8,11,14,15,16,17,18,19,23,24,25,28): 5.531369209289551	 ([long][time][magic][even][even][movie][computer][special][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(1,14,15,16,17,18,19,20,21,22,25,26,27): 2.453521728515625	 ([time][movie][computer][special][effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(1,4,5,9,13,14,15,16,17,18,19,25): 5.946630477905273	 ([time][fantasy][movie,][better][1987][movie][computer][special][effects.][movie][good][recommend])
+v(0,6,8,11,17,18,19,20,21,22,23,24,25,26,27,28): 7.298933029174805	 ([long][magic][even][even][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(0,4,5,6,8,9,11,13,17,18,19,23,24,25,28): 5.852849960327148	 ([long][fantasy][movie,][magic][even][better][even][1987][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(4,5,9,13,17,18,19,20,21,22,25,26,27): 2.8286654949188232	 ([fantasy][movie,][better][1987][effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(0,1,2,3,6,7,8,10,11,12,14,15,16,23,24,28): 5.806140899658203	 ([long][time][seen][good][magic][fights][even][lotr,][even][considering][movie][computer][special][interesting][ideas.][it.])
+v(1,2,3,7,10,12,14,15,16,20,21,22,26,27): 3.907404899597168	 ([time][seen][good][fights][lotr,][considering][movie][computer][special][plot,][good][acting][everybody][see])
+v(1,2,3,4,5,7,9,10,12,13,14,15,16): 5.539744853973389	 ([time][seen][good][fantasy][movie,][fights][better][lotr,][considering][1987][movie][computer][special])
+v(0,2,3,6,7,8,10,11,12,20,21,22,23,24,26,27,28): 5.747053623199463	 ([long][seen][good][magic][fights][even][lotr,][even][considering][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,23,24,28): 5.025232315063477	 ([long][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][interesting][ideas.][it.])
+v(2,3,4,5,7,9,10,12,13,20,21,22,26,27): 3.469588279724121	 ([seen][good][fantasy][movie,][fights][better][lotr,][considering][1987][plot,][good][acting][everybody][see])
+v(0,1,6,8,11,14,15,16,20,21,22,23,24,26,27,28): 6.317425727844238	 ([long][time][magic][even][even][movie][computer][special][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(0,1,4,5,6,8,9,11,13,14,15,16,23,24,28): 5.949294090270996	 ([long][time][fantasy][movie,][magic][even][better][even][1987][movie][computer][special][interesting][ideas.][it.])
+v(1,4,5,9,13,14,15,16,20,21,22,26,27): 1.1144177913665771	 ([time][fantasy][movie,][better][1987][movie][computer][special][plot,][good][acting][everybody][see])
+v(0,4,5,6,8,9,11,13,20,21,22,23,24,26,27,28): 5.922651290893555	 ([long][fantasy][movie,][magic][even][better][even][1987][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(0,1,2,3,6,7,8,10,11,12,14,15,16,17,18,19,23,24,25,28): 6.691290855407715	 ([long][time][seen][good][magic][fights][even][lotr,][even][considering][movie][computer][special][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(1,2,3,7,10,12,14,15,16,17,18,19,20,21,22,25,26,27): 6.689785003662109	 ([time][seen][good][fights][lotr,][considering][movie][computer][special][effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(1,2,3,4,5,7,9,10,12,13,14,15,16,17,18,19,25): 7.7555999755859375	 ([time][seen][good][fantasy][movie,][fights][better][lotr,][considering][1987][movie][computer][special][effects.][movie][good][recommend])
+v(0,2,3,6,7,8,10,11,12,17,18,19,20,21,22,23,24,25,26,27,28): 7.335542678833008	 ([long][seen][good][magic][fights][even][lotr,][even][considering][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,17,18,19,23,24,25,28): 7.120100021362305	 ([long][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(2,3,4,5,7,9,10,12,13,17,18,19,20,21,22,25,26,27): 6.765356063842773	 ([seen][good][fantasy][movie,][fights][better][lotr,][considering][1987][effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(0,1,6,8,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 7.189573287963867	 ([long][time][magic][even][even][movie][computer][special][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(0,1,4,5,6,8,9,11,13,14,15,16,17,18,19,23,24,25,28): 6.957825183868408	 ([long][time][fantasy][movie,][magic][even][better][even][1987][movie][computer][special][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(1,4,5,9,13,14,15,16,17,18,19,20,21,22,25,26,27): 5.9790358543396	 ([time][fantasy][movie,][better][1987][movie][computer][special][effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(0,4,5,6,8,9,11,13,17,18,19,20,21,22,23,24,25,26,27,28): 7.331417560577393	 ([long][fantasy][movie,][magic][even][better][even][1987][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(0,1,2,3,6,7,8,10,11,12,14,15,16,20,21,22,23,24,26,27,28): 7.356385707855225	 ([long][time][seen][good][magic][fights][even][lotr,][even][considering][movie][computer][special][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,23,24,28): 6.752965450286865	 ([long][time][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][movie][computer][special][interesting][ideas.][it.])
+v(1,2,3,4,5,7,9,10,12,13,14,15,16,20,21,22,26,27): 6.877482891082764	 ([time][seen][good][fantasy][movie,][fights][better][lotr,][considering][1987][movie][computer][special][plot,][good][acting][everybody][see])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,20,21,22,23,24,26,27,28): 6.125881195068359	 ([long][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(0,1,4,5,6,8,9,11,13,14,15,16,20,21,22,23,24,26,27,28): 7.324308395385742	 ([long][time][fantasy][movie,][magic][even][better][even][1987][movie][computer][special][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(0,1,2,3,6,7,8,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 7.367176055908203	 ([long][time][seen][good][magic][fights][even][lotr,][even][considering][movie][computer][special][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,23,24,25,28): 7.283295631408691	 ([long][time][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][movie][computer][special][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(1,2,3,4,5,7,9,10,12,13,14,15,16,17,18,19,20,21,22,25,26,27): 7.948420524597168	 ([time][seen][good][fantasy][movie,][fights][better][lotr,][considering][1987][movie][computer][special][effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,17,18,19,20,21,22,23,24,25,26,27,28): 7.792897701263428	 ([long][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(0,1,4,5,6,8,9,11,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 7.778292655944824	 ([long][time][fantasy][movie,][magic][even][better][even][1987][movie][computer][special][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,20,21,22,23,24,26,27,28): 7.604704856872559	 ([long][time][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][movie][computer][special][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 7.809365272521973	 ([long][time][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][movie][computer][special][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+---------- Rewards-v() ----------
+v(1,2,3,4,5,7,9,10,12,13,14,15,16,17,18,19,20,21,22,25,26,27): 9.565557479858398, EP: 1.0147515535354614	 ([time][seen][good][fantasy][movie,][fights][better][lotr,][considering][1987][movie][computer][special][effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 9.426502227783203, EP: 1.0	 ([long][time][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][movie][computer][special][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,17,18,19,20,21,22,23,24,25,26,27,28): 9.4100341796875, EP: 0.9982529878616333	 ([long][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(0,1,4,5,6,8,9,11,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 9.395429611206055, EP: 0.9967036843299866	 ([long][time][fantasy][movie,][magic][even][better][even][1987][movie][computer][special][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(1,2,3,4,5,7,9,10,12,13,14,15,16,17,18,19,25): 9.372736930847168, EP: 0.9942963719367981	 ([time][seen][good][fantasy][movie,][fights][better][lotr,][considering][1987][movie][computer][special][effects.][movie][good][recommend])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,20,21,22,23,24,26,27,28): 9.221841812133789, EP: 0.9782888293266296	 ([long][time][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][movie][computer][special][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(0,1,2,3,6,7,8,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.984313011169434, EP: 0.9530908465385437	 ([long][time][seen][good][magic][fights][even][lotr,][even][considering][movie][computer][special][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(0,1,2,3,6,7,8,10,11,12,14,15,16,20,21,22,23,24,26,27,28): 8.973522186279297, EP: 0.9519461393356323	 ([long][time][seen][good][magic][fights][even][lotr,][even][considering][movie][computer][special][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(0,2,3,6,7,8,10,11,12,17,18,19,20,21,22,23,24,25,26,27,28): 8.952679634094238, EP: 0.9497350454330444	 ([long][seen][good][magic][fights][even][lotr,][even][considering][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(0,4,5,6,8,9,11,13,17,18,19,20,21,22,23,24,25,26,27,28): 8.948554992675781, EP: 0.9492974877357483	 ([long][fantasy][movie,][magic][even][better][even][1987][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(0,1,4,5,6,8,9,11,13,14,15,16,20,21,22,23,24,26,27,28): 8.941445350646973, EP: 0.9485433101654053	 ([long][time][fantasy][movie,][magic][even][better][even][1987][movie][computer][special][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(0,6,8,11,17,18,19,20,21,22,23,24,25,26,27,28): 8.916069984436035, EP: 0.9458513855934143	 ([long][magic][even][even][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,23,24,25,28): 8.900432586669922, EP: 0.9441924691200256	 ([long][time][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][movie][computer][special][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(0,1,6,8,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.806710243225098, EP: 0.9342500567436218	 ([long][time][magic][even][even][movie][computer][special][effects.][movie][good][plot,][good][acting][interesting][ideas.][recommend][everybody][see][it.])
+v(2,3,4,5,7,9,10,12,13,17,18,19,25): 8.763199806213379, EP: 0.9296342730522156	 ([seen][good][fantasy][movie,][fights][better][lotr,][considering][1987][effects.][movie][good][recommend])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,17,18,19,23,24,25,28): 8.737236976623535, EP: 0.9268800616264343	 ([long][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(0,1,4,5,6,8,9,11,13,14,15,16,17,18,19,23,24,25,28): 8.574962615966797, EP: 0.9096653461456299	 ([long][time][fantasy][movie,][magic][even][better][even][1987][movie][computer][special][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(1,2,3,4,5,7,9,10,12,13,14,15,16,20,21,22,26,27): 8.494619369506836, EP: 0.9011422395706177	 ([time][seen][good][fantasy][movie,][fights][better][lotr,][considering][1987][movie][computer][special][plot,][good][acting][everybody][see])
+v(2,3,4,5,7,9,10,12,13,17,18,19,20,21,22,25,26,27): 8.382493019104004, EP: 0.8892474174499512	 ([seen][good][fantasy][movie,][fights][better][lotr,][considering][1987][effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,23,24,28): 8.370101928710938, EP: 0.8879329562187195	 ([long][time][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][movie][computer][special][interesting][ideas.][it.])
+v(1,2,3,7,10,12,14,15,16,17,18,19,25): 8.32236099243164, EP: 0.8828684091567993	 ([time][seen][good][fights][lotr,][considering][movie][computer][special][effects.][movie][good][recommend])
+v(0,1,2,3,6,7,8,10,11,12,14,15,16,17,18,19,23,24,25,28): 8.308427810668945, EP: 0.8813903331756592	 ([long][time][seen][good][magic][fights][even][lotr,][even][considering][movie][computer][special][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(1,2,3,7,10,12,14,15,16,17,18,19,20,21,22,25,26,27): 8.30692195892334, EP: 0.8812305927276611	 ([time][seen][good][fights][lotr,][considering][movie][computer][special][effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(0,2,3,6,7,8,10,11,12,17,18,19,23,24,25,28): 7.985478401184082, EP: 0.8471305966377258	 ([long][seen][good][magic][fights][even][lotr,][even][considering][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(0,1,6,8,11,14,15,16,20,21,22,23,24,26,27,28): 7.934562683105469, EP: 0.8417292237281799	 ([long][time][magic][even][even][movie][computer][special][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,20,21,22,23,24,26,27,28): 7.74301815032959, EP: 0.8214094638824463	 ([long][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(1,4,5,9,13,14,15,16,17,18,19,20,21,22,25,26,27): 7.59617280960083, EP: 0.8058315515518188	 ([time][fantasy][movie,][better][1987][movie][computer][special][effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(0,1,4,5,6,8,9,11,13,14,15,16,23,24,28): 7.566431045532227, EP: 0.8026764392852783	 ([long][time][fantasy][movie,][magic][even][better][even][1987][movie][computer][special][interesting][ideas.][it.])
+v(1,4,5,9,13,14,15,16,17,18,19,25): 7.563767433166504, EP: 0.8023938536643982	 ([time][fantasy][movie,][better][1987][movie][computer][special][effects.][movie][good][recommend])
+v(0,4,5,6,8,9,11,13,20,21,22,23,24,26,27,28): 7.539788246154785, EP: 0.7998500466346741	 ([long][fantasy][movie,][magic][even][better][even][1987][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(0,4,5,6,8,9,11,13,17,18,19,23,24,25,28): 7.469986915588379, EP: 0.7924452424049377	 ([long][fantasy][movie,][magic][even][better][even][1987][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(0,1,2,3,6,7,8,10,11,12,14,15,16,23,24,28): 7.423277854919434, EP: 0.78749018907547	 ([long][time][seen][good][magic][fights][even][lotr,][even][considering][movie][computer][special][interesting][ideas.][it.])
+v(0,2,3,6,7,8,10,11,12,20,21,22,23,24,26,27,28): 7.364190578460693, EP: 0.7812219858169556	 ([long][seen][good][magic][fights][even][lotr,][even][considering][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(2,3,7,10,12,17,18,19,25): 7.363104820251465, EP: 0.7811067700386047	 ([seen][good][fights][lotr,][considering][effects.][movie][good][recommend])
+v(1,2,3,4,5,7,9,10,12,13,14,15,16): 7.156881809234619, EP: 0.759229838848114	 ([time][seen][good][fantasy][movie,][fights][better][lotr,][considering][1987][movie][computer][special])
+v(0,1,6,8,11,14,15,16,17,18,19,23,24,25,28): 7.148506164550781, EP: 0.7583413124084473	 ([long][time][magic][even][even][movie][computer][special][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(0,6,8,11,17,18,19,23,24,25,28): 6.666611194610596, EP: 0.7072200179100037	 ([long][magic][even][even][effects.][movie][good][interesting][ideas.][recommend][it.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,23,24,28): 6.642369270324707, EP: 0.7046483755111694	 ([long][seen][good][fantasy][movie,][magic][fights][even][better][lotr,][even][considering][1987][interesting][ideas.][it.])
+v(0,6,8,11,20,21,22,23,24,26,27,28): 6.509150505065918, EP: 0.6905159950256348	 ([long][magic][even][even][plot,][good][acting][interesting][ideas.][everybody][see][it.])
+v(2,3,7,10,12,17,18,19,20,21,22,25,26,27): 6.198476791381836, EP: 0.6575585007667542	 ([seen][good][fights][lotr,][considering][effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(0,4,5,6,8,9,11,13,23,24,28): 5.999779224395752, EP: 0.636479914188385	 ([long][fantasy][movie,][magic][even][better][even][1987][interesting][ideas.][it.])
+v(1,2,3,7,10,12,14,15,16,20,21,22,26,27): 5.524541854858398, EP: 0.586064875125885	 ([time][seen][good][fights][lotr,][considering][movie][computer][special][plot,][good][acting][everybody][see])
+v(0,2,3,6,7,8,10,11,12,23,24,28): 5.500345230102539, EP: 0.5834980010986328	 ([long][seen][good][magic][fights][even][lotr,][even][considering][interesting][ideas.][it.])
+v(0,1,6,8,11,14,15,16,23,24,28): 5.1517181396484375, EP: 0.5465142726898193	 ([long][time][magic][even][even][movie][computer][special][interesting][ideas.][it.])
+v(4,5,9,13,17,18,19,25): 5.125995635986328, EP: 0.543785572052002	 ([fantasy][movie,][better][1987][effects.][movie][good][recommend])
+v(2,3,4,5,7,9,10,12,13,20,21,22,26,27): 5.086725234985352, EP: 0.5396195650100708	 ([seen][good][fantasy][movie,][fights][better][lotr,][considering][1987][plot,][good][acting][everybody][see])
+v(4,5,9,13,17,18,19,20,21,22,25,26,27): 4.445802688598633, EP: 0.4716280400753021	 ([fantasy][movie,][better][1987][effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(17,18,19,25): 4.086552619934082, EP: 0.4335173964500427	 ([effects.][movie][good][recommend])
+v(1,14,15,16,17,18,19,20,21,22,25,26,27): 4.0706586837768555, EP: 0.4318313002586365	 ([time][movie][computer][special][effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(1,14,15,16,17,18,19,25): 4.029748916625977, EP: 0.4274914264678955	 ([time][movie][computer][special][effects.][movie][good][recommend])
+v(17,18,19,20,21,22,25,26,27): 3.8325653076171875, EP: 0.40657341480255127	 ([effects.][movie][good][plot,][good][acting][recommend][everybody][see])
+v(0,6,8,11,23,24,28): 3.754462718963623, EP: 0.3982880115509033	 ([long][magic][even][even][interesting][ideas.][it.])
+v(1,4,5,9,13,14,15,16,20,21,22,26,27): 2.7315547466278076, EP: 0.28977394104003906	 ([time][fantasy][movie,][better][1987][movie][computer][special][plot,][good][acting][everybody][see])
+v(1,2,3,7,10,12,14,15,16): 2.332688570022583, EP: 0.24746067821979523	 ([time][seen][good][fights][lotr,][considering][movie][computer][special])
+v(2,3,7,10,12): -1.6928455829620361, EP: -0.17958363890647888	 ([seen][good][fights][lotr,][considering])
+v(1,4,5,9,13,14,15,16): 1.579169750213623, EP: 0.16752447187900543	 ([time][fantasy][movie,][better][1987][movie][computer][special])
+v(2,3,4,5,7,9,10,12,13): 1.4650534391403198, EP: 0.15541855990886688	 ([seen][good][fantasy][movie,][fights][better][lotr,][considering][1987])
+v(4,5,9,13,20,21,22,26,27): 1.4130523204803467, EP: 0.1499020904302597	 ([fantasy][movie,][better][1987][plot,][good][acting][everybody][see])
+v(20,21,22,26,27): -1.405165672302246, EP: -0.14906543493270874	 ([plot,][good][acting][everybody][see])
+v(4,5,9,13): 1.3225382566452026, EP: 0.14030000567436218	 ([fantasy][movie,][better][1987])
+v(1,14,15,16,20,21,22,26,27): -1.2683234214782715, EP: -0.13454867899417877	 ([time][movie][computer][special][plot,][good][acting][everybody][see])
+v(1,14,15,16): -1.0423011779785156, EP: -0.11057136207818985	 ([time][movie][computer][special])
+v(2,3,7,10,12,20,21,22,26,27): 0.38671112060546875, EP: 0.041023820638656616	 ([seen][good][fights][lotr,][considering][plot,][good][acting][everybody][see])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

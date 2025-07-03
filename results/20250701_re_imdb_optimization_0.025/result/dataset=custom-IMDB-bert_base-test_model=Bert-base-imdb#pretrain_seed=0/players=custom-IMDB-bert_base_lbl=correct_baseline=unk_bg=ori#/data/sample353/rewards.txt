@@ -1,0 +1,160 @@
+---------- Players ----------
+Player 0: movie
+Player 1: amazingly
+Player 2: bad.
+Player 3: think
+Player 4: i've
+Player 5: ever
+Player 6: seen
+Player 7: movie
+Player 8: every
+Player 9: attempt
+Player 10: humor
+Player 11: failed
+Player 12: miserably.
+Player 13: let's
+Player 14: see... the
+Player 15: acting
+Player 16: pathetic,
+Player 17: special
+Player 18: effects
+Player 19: "
+Player 20: horrible,
+Player 21: plot
+Player 22: non - existant... that
+Player 23: pretty
+Player 24: much
+Player 25: sums
+Player 26: movie.
+Player 27: "
+---------- Rewards ----------
+v(): 1.9134881496429443	 ([])
+v(14,15,16,17,18): 7.977099895477295	 ([see... the][acting][pathetic,][special][effects])
+v(3,4,9,11): 2.863727569580078	 ([think][i've][attempt][failed])
+v(1,5,6,7,19): 1.677128553390503	 ([amazingly][ever][seen][movie]["])
+v(12,13,21,23,24,26): 7.217084884643555	 ([miserably.][let's][plot][pretty][much][movie.])
+v(8,10,20): 3.166130781173706	 ([every][humor][horrible,])
+v(0,2,22,25,27): 7.62217378616333	 ([movie][bad.][non - existant... that][sums]["])
+v(3,4,9,11,14,15,16,17,18): 8.0700044631958	 ([think][i've][attempt][failed][see... the][acting][pathetic,][special][effects])
+v(1,5,6,7,14,15,16,17,18,19): 8.05099868774414	 ([amazingly][ever][seen][movie][see... the][acting][pathetic,][special][effects]["])
+v(12,13,14,15,16,17,18,21,23,24,26): 8.246438980102539	 ([miserably.][let's][see... the][acting][pathetic,][special][effects][plot][pretty][much][movie.])
+v(8,10,14,15,16,17,18,20): 7.690657138824463	 ([every][humor][see... the][acting][pathetic,][special][effects][horrible,])
+v(0,2,14,15,16,17,18,22,25,27): 8.157841682434082	 ([movie][bad.][see... the][acting][pathetic,][special][effects][non - existant... that][sums]["])
+v(1,3,4,5,6,7,9,11,19): 3.8728742599487305	 ([amazingly][think][i've][ever][seen][movie][attempt][failed]["])
+v(3,4,9,11,12,13,21,23,24,26): 6.947612762451172	 ([think][i've][attempt][failed][miserably.][let's][plot][pretty][much][movie.])
+v(3,4,8,9,10,11,20): 5.486403465270996	 ([think][i've][every][attempt][humor][failed][horrible,])
+v(0,2,3,4,9,11,22,25,27): 7.765380859375	 ([movie][bad.][think][i've][attempt][failed][non - existant... that][sums]["])
+v(1,5,6,7,12,13,19,21,23,24,26): 7.194808006286621	 ([amazingly][ever][seen][movie][miserably.][let's]["][plot][pretty][much][movie.])
+v(1,5,6,7,8,10,19,20): 2.327747344970703	 ([amazingly][ever][seen][movie][every][humor]["][horrible,])
+v(0,1,2,5,6,7,19,22,25,27): 7.858012676239014	 ([movie][amazingly][bad.][ever][seen][movie]["][non - existant... that][sums]["])
+v(8,10,12,13,20,21,23,24,26): 7.523946285247803	 ([every][humor][miserably.][let's][horrible,][plot][pretty][much][movie.])
+v(0,2,12,13,21,22,23,24,25,26,27): 7.831276893615723	 ([movie][bad.][miserably.][let's][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,2,8,10,20,22,25,27): 7.574286937713623	 ([movie][bad.][every][humor][horrible,][non - existant... that][sums]["])
+v(1,3,4,5,6,7,9,11,14,15,16,17,18,19): 8.240421295166016	 ([amazingly][think][i've][ever][seen][movie][attempt][failed][see... the][acting][pathetic,][special][effects]["])
+v(3,4,9,11,12,13,14,15,16,17,18,21,23,24,26): 8.28091049194336	 ([think][i've][attempt][failed][miserably.][let's][see... the][acting][pathetic,][special][effects][plot][pretty][much][movie.])
+v(3,4,8,9,10,11,14,15,16,17,18,20): 8.12757396697998	 ([think][i've][every][attempt][humor][failed][see... the][acting][pathetic,][special][effects][horrible,])
+v(0,2,3,4,9,11,14,15,16,17,18,22,25,27): 8.24744987487793	 ([movie][bad.][think][i've][attempt][failed][see... the][acting][pathetic,][special][effects][non - existant... that][sums]["])
+v(1,5,6,7,12,13,14,15,16,17,18,19,21,23,24,26): 8.286775588989258	 ([amazingly][ever][seen][movie][miserably.][let's][see... the][acting][pathetic,][special][effects]["][plot][pretty][much][movie.])
+v(1,5,6,7,8,10,14,15,16,17,18,19,20): 7.62440299987793	 ([amazingly][ever][seen][movie][every][humor][see... the][acting][pathetic,][special][effects]["][horrible,])
+v(0,1,2,5,6,7,14,15,16,17,18,19,22,25,27): 8.401695251464844	 ([movie][amazingly][bad.][ever][seen][movie][see... the][acting][pathetic,][special][effects]["][non - existant... that][sums]["])
+v(8,10,12,13,14,15,16,17,18,20,21,23,24,26): 8.181239128112793	 ([every][humor][miserably.][let's][see... the][acting][pathetic,][special][effects][horrible,][plot][pretty][much][movie.])
+v(0,2,12,13,14,15,16,17,18,21,22,23,24,25,26,27): 8.258848190307617	 ([movie][bad.][miserably.][let's][see... the][acting][pathetic,][special][effects][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,2,8,10,14,15,16,17,18,20,22,25,27): 7.993015289306641	 ([movie][bad.][every][humor][see... the][acting][pathetic,][special][effects][horrible,][non - existant... that][sums]["])
+v(1,3,4,5,6,7,9,11,12,13,19,21,23,24,26): 7.1506028175354	 ([amazingly][think][i've][ever][seen][movie][attempt][failed][miserably.][let's]["][plot][pretty][much][movie.])
+v(1,3,4,5,6,7,8,9,10,11,19,20): 6.3410797119140625	 ([amazingly][think][i've][ever][seen][movie][every][attempt][humor][failed]["][horrible,])
+v(0,1,2,3,4,5,6,7,9,11,19,22,25,27): 8.089000701904297	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][attempt][failed]["][non - existant... that][sums]["])
+v(3,4,8,9,10,11,12,13,20,21,23,24,26): 7.751951694488525	 ([think][i've][every][attempt][humor][failed][miserably.][let's][horrible,][plot][pretty][much][movie.])
+v(0,2,3,4,9,11,12,13,21,22,23,24,25,26,27): 7.925631523132324	 ([movie][bad.][think][i've][attempt][failed][miserably.][let's][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,2,3,4,8,9,10,11,20,22,25,27): 7.684205532073975	 ([movie][bad.][think][i've][every][attempt][humor][failed][horrible,][non - existant... that][sums]["])
+v(1,5,6,7,8,10,12,13,19,20,21,23,24,26): 7.38730525970459	 ([amazingly][ever][seen][movie][every][humor][miserably.][let's]["][horrible,][plot][pretty][much][movie.])
+v(0,1,2,5,6,7,12,13,19,21,22,23,24,25,26,27): 8.162704467773438	 ([movie][amazingly][bad.][ever][seen][movie][miserably.][let's]["][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,1,2,5,6,7,8,10,19,20,22,25,27): 7.877087116241455	 ([movie][amazingly][bad.][ever][seen][movie][every][humor]["][horrible,][non - existant... that][sums]["])
+v(0,2,8,10,12,13,20,21,22,23,24,25,26,27): 7.737569808959961	 ([movie][bad.][every][humor][miserably.][let's][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(1,3,4,5,6,7,9,11,12,13,14,15,16,17,18,19,21,23,24,26): 8.30023193359375	 ([amazingly][think][i've][ever][seen][movie][attempt][failed][miserably.][let's][see... the][acting][pathetic,][special][effects]["][plot][pretty][much][movie.])
+v(1,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20): 8.236981391906738	 ([amazingly][think][i've][ever][seen][movie][every][attempt][humor][failed][see... the][acting][pathetic,][special][effects]["][horrible,])
+v(0,1,2,3,4,5,6,7,9,11,14,15,16,17,18,19,22,25,27): 8.473636627197266	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][attempt][failed][see... the][acting][pathetic,][special][effects]["][non - existant... that][sums]["])
+v(3,4,8,9,10,11,12,13,14,15,16,17,18,20,21,23,24,26): 8.281484603881836	 ([think][i've][every][attempt][humor][failed][miserably.][let's][see... the][acting][pathetic,][special][effects][horrible,][plot][pretty][much][movie.])
+v(0,2,3,4,9,11,12,13,14,15,16,17,18,21,22,23,24,25,26,27): 8.301982879638672	 ([movie][bad.][think][i've][attempt][failed][miserably.][let's][see... the][acting][pathetic,][special][effects][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,2,3,4,8,9,10,11,14,15,16,17,18,20,22,25,27): 8.19239330291748	 ([movie][bad.][think][i've][every][attempt][humor][failed][see... the][acting][pathetic,][special][effects][horrible,][non - existant... that][sums]["])
+v(1,5,6,7,8,10,12,13,14,15,16,17,18,19,20,21,23,24,26): 8.252729415893555	 ([amazingly][ever][seen][movie][every][humor][miserably.][let's][see... the][acting][pathetic,][special][effects]["][horrible,][plot][pretty][much][movie.])
+v(0,1,2,5,6,7,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27): 8.451717376708984	 ([movie][amazingly][bad.][ever][seen][movie][miserably.][let's][see... the][acting][pathetic,][special][effects]["][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,1,2,5,6,7,8,10,14,15,16,17,18,19,20,22,25,27): 8.23676872253418	 ([movie][amazingly][bad.][ever][seen][movie][every][humor][see... the][acting][pathetic,][special][effects]["][horrible,][non - existant... that][sums]["])
+v(0,2,8,10,12,13,14,15,16,17,18,20,21,22,23,24,25,26,27): 8.203414916992188	 ([movie][bad.][every][humor][miserably.][let's][see... the][acting][pathetic,][special][effects][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(1,3,4,5,6,7,8,9,10,11,12,13,19,20,21,23,24,26): 8.07263469696045	 ([amazingly][think][i've][ever][seen][movie][every][attempt][humor][failed][miserably.][let's]["][horrible,][plot][pretty][much][movie.])
+v(0,1,2,3,4,5,6,7,9,11,12,13,19,21,22,23,24,25,26,27): 8.251523971557617	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][attempt][failed][miserably.][let's]["][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,19,20,22,25,27): 7.955629348754883	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][every][attempt][humor][failed]["][horrible,][non - existant... that][sums]["])
+v(0,2,3,4,8,9,10,11,12,13,20,21,22,23,24,25,26,27): 7.940303802490234	 ([movie][bad.][think][i've][every][attempt][humor][failed][miserably.][let's][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,1,2,5,6,7,8,10,12,13,19,20,21,22,23,24,25,26,27): 8.121652603149414	 ([movie][amazingly][bad.][ever][seen][movie][every][humor][miserably.][let's]["][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23,24,26): 8.380566596984863	 ([amazingly][think][i've][ever][seen][movie][every][attempt][humor][failed][miserably.][let's][see... the][acting][pathetic,][special][effects]["][horrible,][plot][pretty][much][movie.])
+v(0,1,2,3,4,5,6,7,9,11,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27): 8.451919555664062	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][attempt][failed][miserably.][let's][see... the][acting][pathetic,][special][effects]["][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,22,25,27): 8.376387596130371	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][every][attempt][humor][failed][see... the][acting][pathetic,][special][effects]["][horrible,][non - existant... that][sums]["])
+v(0,2,3,4,8,9,10,11,12,13,14,15,16,17,18,20,21,22,23,24,25,26,27): 8.297931671142578	 ([movie][bad.][think][i've][every][attempt][humor][failed][miserably.][let's][see... the][acting][pathetic,][special][effects][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,1,2,5,6,7,8,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.434404373168945	 ([movie][amazingly][bad.][ever][seen][movie][every][humor][miserably.][let's][see... the][acting][pathetic,][special][effects]["][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,19,20,21,22,23,24,25,26,27): 8.246969223022461	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][every][attempt][humor][failed][miserably.][let's]["][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.324675559997559	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][every][attempt][humor][failed][miserably.][let's][see... the][acting][pathetic,][special][effects]["][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,9,11,14,15,16,17,18,19,22,25,27): 6.560148239135742, EP: 1.0232346057891846	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][attempt][failed][see... the][acting][pathetic,][special][effects]["][non - existant... that][sums]["])
+v(0,1,2,3,4,5,6,7,9,11,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27): 6.538431167602539, EP: 1.0198471546173096	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][attempt][failed][miserably.][let's][see... the][acting][pathetic,][special][effects]["][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,1,2,5,6,7,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27): 6.538228988647461, EP: 1.0198156833648682	 ([movie][amazingly][bad.][ever][seen][movie][miserably.][let's][see... the][acting][pathetic,][special][effects]["][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,1,2,5,6,7,8,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 6.520915985107422, EP: 1.0171152353286743	 ([movie][amazingly][bad.][ever][seen][movie][every][humor][miserably.][let's][see... the][acting][pathetic,][special][effects]["][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,1,2,5,6,7,14,15,16,17,18,19,22,25,27): 6.48820686340332, EP: 1.01201331615448	 ([movie][amazingly][bad.][ever][seen][movie][see... the][acting][pathetic,][special][effects]["][non - existant... that][sums]["])
+v(1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23,24,26): 6.46707820892334, EP: 1.0087177753448486	 ([amazingly][think][i've][ever][seen][movie][every][attempt][humor][failed][miserably.][let's][see... the][acting][pathetic,][special][effects]["][horrible,][plot][pretty][much][movie.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,22,25,27): 6.462899208068848, EP: 1.008065938949585	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][every][attempt][humor][failed][see... the][acting][pathetic,][special][effects]["][horrible,][non - existant... that][sums]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 6.411187171936035, EP: 1.0	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][every][attempt][humor][failed][miserably.][let's][see... the][acting][pathetic,][special][effects]["][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,2,3,4,9,11,12,13,14,15,16,17,18,21,22,23,24,25,26,27): 6.388494491577148, EP: 0.9964604377746582	 ([movie][bad.][think][i've][attempt][failed][miserably.][let's][see... the][acting][pathetic,][special][effects][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(1,3,4,5,6,7,9,11,12,13,14,15,16,17,18,19,21,23,24,26): 6.386743545532227, EP: 0.9961873292922974	 ([amazingly][think][i've][ever][seen][movie][attempt][failed][miserably.][let's][see... the][acting][pathetic,][special][effects]["][plot][pretty][much][movie.])
+v(0,2,3,4,8,9,10,11,12,13,14,15,16,17,18,20,21,22,23,24,25,26,27): 6.384443283081055, EP: 0.9958285689353943	 ([movie][bad.][think][i've][every][attempt][humor][failed][miserably.][let's][see... the][acting][pathetic,][special][effects][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(1,5,6,7,12,13,14,15,16,17,18,19,21,23,24,26): 6.373287200927734, EP: 0.9940884709358215	 ([amazingly][ever][seen][movie][miserably.][let's][see... the][acting][pathetic,][special][effects]["][plot][pretty][much][movie.])
+v(3,4,8,9,10,11,12,13,14,15,16,17,18,20,21,23,24,26): 6.3679962158203125, EP: 0.9932631850242615	 ([think][i've][every][attempt][humor][failed][miserably.][let's][see... the][acting][pathetic,][special][effects][horrible,][plot][pretty][much][movie.])
+v(3,4,9,11,12,13,14,15,16,17,18,21,23,24,26): 6.367422103881836, EP: 0.9931736588478088	 ([think][i've][attempt][failed][miserably.][let's][see... the][acting][pathetic,][special][effects][plot][pretty][much][movie.])
+v(0,2,12,13,14,15,16,17,18,21,22,23,24,25,26,27): 6.345359802246094, EP: 0.9897324442863464	 ([movie][bad.][miserably.][let's][see... the][acting][pathetic,][special][effects][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(1,5,6,7,8,10,12,13,14,15,16,17,18,19,20,21,23,24,26): 6.339241027832031, EP: 0.9887780547142029	 ([amazingly][ever][seen][movie][every][humor][miserably.][let's][see... the][acting][pathetic,][special][effects]["][horrible,][plot][pretty][much][movie.])
+v(0,1,2,3,4,5,6,7,9,11,12,13,19,21,22,23,24,25,26,27): 6.338035583496094, EP: 0.9885900020599365	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][attempt][failed][miserably.][let's]["][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,2,3,4,9,11,14,15,16,17,18,22,25,27): 6.333961486816406, EP: 0.9879545569419861	 ([movie][bad.][think][i've][attempt][failed][see... the][acting][pathetic,][special][effects][non - existant... that][sums]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,19,20,21,22,23,24,25,26,27): 6.3334808349609375, EP: 0.9878795742988586	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][every][attempt][humor][failed][miserably.][let's]["][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(12,13,14,15,16,17,18,21,23,24,26): 6.332950592041016, EP: 0.9877968430519104	 ([miserably.][let's][see... the][acting][pathetic,][special][effects][plot][pretty][much][movie.])
+v(1,3,4,5,6,7,9,11,14,15,16,17,18,19): 6.326932907104492, EP: 0.9868582487106323	 ([amazingly][think][i've][ever][seen][movie][attempt][failed][see... the][acting][pathetic,][special][effects]["])
+v(1,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20): 6.323493003845215, EP: 0.9863216876983643	 ([amazingly][think][i've][ever][seen][movie][every][attempt][humor][failed][see... the][acting][pathetic,][special][effects]["][horrible,])
+v(0,1,2,5,6,7,8,10,14,15,16,17,18,19,20,22,25,27): 6.323280334472656, EP: 0.9862885475158691	 ([movie][amazingly][bad.][ever][seen][movie][every][humor][see... the][acting][pathetic,][special][effects]["][horrible,][non - existant... that][sums]["])
+v(0,2,8,10,12,13,14,15,16,17,18,20,21,22,23,24,25,26,27): 6.289926528930664, EP: 0.9810860753059387	 ([movie][bad.][every][humor][miserably.][let's][see... the][acting][pathetic,][special][effects][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,2,3,4,8,9,10,11,14,15,16,17,18,20,22,25,27): 6.278904914855957, EP: 0.9793669581413269	 ([movie][bad.][think][i've][every][attempt][humor][failed][see... the][acting][pathetic,][special][effects][horrible,][non - existant... that][sums]["])
+v(8,10,12,13,14,15,16,17,18,20,21,23,24,26): 6.2677507400512695, EP: 0.977627158164978	 ([every][humor][miserably.][let's][see... the][acting][pathetic,][special][effects][horrible,][plot][pretty][much][movie.])
+v(0,1,2,5,6,7,12,13,19,21,22,23,24,25,26,27): 6.249216079711914, EP: 0.9747361540794373	 ([movie][amazingly][bad.][ever][seen][movie][miserably.][let's]["][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,2,14,15,16,17,18,22,25,27): 6.244353294372559, EP: 0.9739776849746704	 ([movie][bad.][see... the][acting][pathetic,][special][effects][non - existant... that][sums]["])
+v(3,4,8,9,10,11,14,15,16,17,18,20): 6.214085578918457, EP: 0.9692566394805908	 ([think][i've][every][attempt][humor][failed][see... the][acting][pathetic,][special][effects][horrible,])
+v(0,1,2,5,6,7,8,10,12,13,19,20,21,22,23,24,25,26,27): 6.208164215087891, EP: 0.9683330059051514	 ([movie][amazingly][bad.][ever][seen][movie][every][humor][miserably.][let's]["][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,1,2,3,4,5,6,7,9,11,19,22,25,27): 6.175512313842773, EP: 0.9632400870323181	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][attempt][failed]["][non - existant... that][sums]["])
+v(1,3,4,5,6,7,8,9,10,11,12,13,19,20,21,23,24,26): 6.159146308898926, EP: 0.9606873393058777	 ([amazingly][think][i've][ever][seen][movie][every][attempt][humor][failed][miserably.][let's]["][horrible,][plot][pretty][much][movie.])
+v(3,4,9,11,14,15,16,17,18): 6.156516075134277, EP: 0.9602770805358887	 ([think][i've][attempt][failed][see... the][acting][pathetic,][special][effects])
+v(1,5,6,7,14,15,16,17,18,19): 6.137510299682617, EP: 0.9573125839233398	 ([amazingly][ever][seen][movie][see... the][acting][pathetic,][special][effects]["])
+v(0,2,8,10,14,15,16,17,18,20,22,25,27): 6.079526901245117, EP: 0.9482685327529907	 ([movie][bad.][every][humor][see... the][acting][pathetic,][special][effects][horrible,][non - existant... that][sums]["])
+v(14,15,16,17,18): 6.06361198425293, EP: 0.9457861185073853	 ([see... the][acting][pathetic,][special][effects])
+v(0,1,2,3,4,5,6,7,8,9,10,11,19,20,22,25,27): 6.042140960693359, EP: 0.9424371719360352	 ([movie][amazingly][bad.][think][i've][ever][seen][movie][every][attempt][humor][failed]["][horrible,][non - existant... that][sums]["])
+v(0,2,3,4,8,9,10,11,12,13,20,21,22,23,24,25,26,27): 6.026815414428711, EP: 0.9400467276573181	 ([movie][bad.][think][i've][every][attempt][humor][failed][miserably.][let's][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,2,3,4,9,11,12,13,21,22,23,24,25,26,27): 6.012143135070801, EP: 0.9377581477165222	 ([movie][bad.][think][i've][attempt][failed][miserably.][let's][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,1,2,5,6,7,8,10,19,20,22,25,27): 5.96359920501709, EP: 0.93018639087677	 ([movie][amazingly][bad.][ever][seen][movie][every][humor]["][horrible,][non - existant... that][sums]["])
+v(0,1,2,5,6,7,19,22,25,27): 5.944524765014648, EP: 0.9272112250328064	 ([movie][amazingly][bad.][ever][seen][movie]["][non - existant... that][sums]["])
+v(0,2,12,13,21,22,23,24,25,26,27): 5.917788505554199, EP: 0.9230409860610962	 ([movie][bad.][miserably.][let's][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(0,2,3,4,9,11,22,25,27): 5.851892471313477, EP: 0.9127627015113831	 ([movie][bad.][think][i've][attempt][failed][non - existant... that][sums]["])
+v(3,4,8,9,10,11,12,13,20,21,23,24,26): 5.83846378326416, EP: 0.910668134689331	 ([think][i've][every][attempt][humor][failed][miserably.][let's][horrible,][plot][pretty][much][movie.])
+v(0,2,8,10,12,13,20,21,22,23,24,25,26,27): 5.8240814208984375, EP: 0.9084247946739197	 ([movie][bad.][every][humor][miserably.][let's][horrible,][plot][non - existant... that][pretty][much][sums][movie.]["])
+v(8,10,14,15,16,17,18,20): 5.777169227600098, EP: 0.9011075496673584	 ([every][humor][see... the][acting][pathetic,][special][effects][horrible,])
+v(0,2,3,4,8,9,10,11,20,22,25,27): 5.770717620849609, EP: 0.9001012444496155	 ([movie][bad.][think][i've][every][attempt][humor][failed][horrible,][non - existant... that][sums]["])
+v(1,5,6,7,8,10,14,15,16,17,18,19,20): 5.710914611816406, EP: 0.890773355960846	 ([amazingly][ever][seen][movie][every][humor][see... the][acting][pathetic,][special][effects]["][horrible,])
+v(0,2,22,25,27): 5.708685874938965, EP: 0.8904256820678711	 ([movie][bad.][non - existant... that][sums]["])
+v(0,2,8,10,20,22,25,27): 5.660799026489258, EP: 0.8829564452171326	 ([movie][bad.][every][humor][horrible,][non - existant... that][sums]["])
+v(8,10,12,13,20,21,23,24,26): 5.6104583740234375, EP: 0.8751044273376465	 ([every][humor][miserably.][let's][horrible,][plot][pretty][much][movie.])
+v(1,5,6,7,8,10,12,13,19,20,21,23,24,26): 5.473816871643066, EP: 0.8537914752960205	 ([amazingly][ever][seen][movie][every][humor][miserably.][let's]["][horrible,][plot][pretty][much][movie.])
+v(12,13,21,23,24,26): 5.303596496582031, EP: 0.8272409439086914	 ([miserably.][let's][plot][pretty][much][movie.])
+v(1,5,6,7,12,13,19,21,23,24,26): 5.281319618225098, EP: 0.8237662315368652	 ([amazingly][ever][seen][movie][miserably.][let's]["][plot][pretty][much][movie.])
+v(1,3,4,5,6,7,9,11,12,13,19,21,23,24,26): 5.237114906311035, EP: 0.8168713450431824	 ([amazingly][think][i've][ever][seen][movie][attempt][failed][miserably.][let's]["][plot][pretty][much][movie.])
+v(3,4,9,11,12,13,21,23,24,26): 5.034124374389648, EP: 0.7852094173431396	 ([think][i've][attempt][failed][miserably.][let's][plot][pretty][much][movie.])
+v(1,3,4,5,6,7,8,9,10,11,19,20): 4.427591323852539, EP: 0.6906039714813232	 ([amazingly][think][i've][ever][seen][movie][every][attempt][humor][failed]["][horrible,])
+v(3,4,8,9,10,11,20): 3.5729153156280518, EP: 0.5572938919067383	 ([think][i've][every][attempt][humor][failed][horrible,])
+v(1,3,4,5,6,7,9,11,19): 1.9593861103057861, EP: 0.30561986565589905	 ([amazingly][think][i've][ever][seen][movie][attempt][failed]["])
+v(8,10,20): 1.2526426315307617, EP: 0.19538387656211853	 ([every][humor][horrible,])
+v(3,4,9,11): 0.9502394199371338, EP: 0.14821583032608032	 ([think][i've][attempt][failed])
+v(1,5,6,7,8,10,19,20): 0.4142591953277588, EP: 0.06461505591869354	 ([amazingly][ever][seen][movie][every][humor]["][horrible,])
+v(1,5,6,7,19): -0.2363595962524414, EP: -0.03686674311757088	 ([amazingly][ever][seen][movie]["])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

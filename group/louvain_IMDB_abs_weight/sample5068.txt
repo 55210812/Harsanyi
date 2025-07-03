@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['39', '35', '34', '21', '36']: ['sequel', 'exciting', 'entertaining,', 'first', 'surprising']: 平均边权 1.4287
+社区 2: ['2', '4', '8', '3', '59', '1', '10']: ['opportunity', 'happened', 'shown', 'see', 'argument', 'fabulous', 'lot!']: 平均边权 0.6764
+社区 3: ['56', '5', '57', '54', '49', '58', '55', '50', '15', '6']: ['control ),', 'timon', 'timon', '( with', 'timon', 'pumbaa', 'remote', 'pumbaa', 'simba', 'pumbaa']: 平均边权 0.5383
+社区 4: ['38', '53', '51', '52', '60']: ['( or', 'cinema', 'watching', 'film', 'point']: 平均边权 0.5017
+社区 5: ['27', '32', '25', '29', '30', '23', '24', '33', '26', '28']: ['( or', '"', '1', 'king', '3', 'lion', 'king', 'funny,', '2', 'lion']: 平均边权 0.2942
+社区 6: ['7', '11', '0', '22', '37', '31']: ['film', 'film', 'film', 'film,', 'film', 'places )']: 平均边权 0.3126
+社区 7: ['41', '42', '43', '45', '40']: ['want', 'call', 'it ).', 'surprises', "that's"]: 平均边权 0.4089
+社区 8: ['47', '48', '46', '44']: ['await', 'you!', 'hilarity', 'bundle']: 平均边权 0.4496
+社区 9: ['12', '20', '19', '13', '18', '16', '14', '17']: ['even', 'true', 'quite', 'goes', 'kiara.', '( presumbably )', 'back', 'birth']: 平均边权 0.2383

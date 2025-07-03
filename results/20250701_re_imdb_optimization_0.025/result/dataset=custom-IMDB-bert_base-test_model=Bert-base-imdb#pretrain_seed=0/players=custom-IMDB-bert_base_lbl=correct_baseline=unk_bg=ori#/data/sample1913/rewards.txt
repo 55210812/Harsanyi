@@ -1,0 +1,83 @@
+---------- Players ----------
+Player 0: film
+Player 1: made
+Player 2: john
+Player 3: glover
+Player 4: star.
+Player 5: alan
+Player 6: raimy
+Player 7: one
+Player 8: compelling
+Player 9: character
+Player 10: ever
+Player 11: seen
+Player 12: film.
+Player 13: mean
+Player 14: sport.
+---------- Rewards ----------
+v(): 1.5725886821746826	 ([])
+v(12): 4.542792797088623	 ([film.])
+v(7,11,13): 5.159771919250488	 ([one][seen][mean])
+v(3,6,9,10): 5.098921298980713	 ([glover][raimy][character][ever])
+v(1,2): 2.533362627029419	 ([made][john])
+v(0,4,5,8,14): 7.982269763946533	 ([film][star.][alan][compelling][sport.])
+v(7,11,12,13): 6.4911088943481445	 ([one][seen][film.][mean])
+v(3,6,9,10,12): 6.838750839233398	 ([glover][raimy][character][ever][film.])
+v(1,2,12): 4.62029504776001	 ([made][john][film.])
+v(0,4,5,8,12,14): 8.083463668823242	 ([film][star.][alan][compelling][film.][sport.])
+v(3,6,7,9,10,11,13): 6.984624862670898	 ([glover][raimy][one][character][ever][seen][mean])
+v(1,2,7,11,13): 4.5683488845825195	 ([made][john][one][seen][mean])
+v(0,4,5,7,8,11,13,14): 8.018402099609375	 ([film][star.][alan][one][compelling][seen][mean][sport.])
+v(1,2,3,6,9,10): 5.310962677001953	 ([made][john][glover][raimy][character][ever])
+v(0,3,4,5,6,8,9,10,14): 8.268932342529297	 ([film][glover][star.][alan][raimy][compelling][character][ever][sport.])
+v(0,1,2,4,5,8,14): 7.915172100067139	 ([film][made][john][star.][alan][compelling][sport.])
+v(3,6,7,9,10,11,12,13): 7.314299583435059	 ([glover][raimy][one][character][ever][seen][film.][mean])
+v(1,2,7,11,12,13): 5.9589972496032715	 ([made][john][one][seen][film.][mean])
+v(0,4,5,7,8,11,12,13,14): 8.015186309814453	 ([film][star.][alan][one][compelling][seen][film.][mean][sport.])
+v(1,2,3,6,9,10,12): 6.716109275817871	 ([made][john][glover][raimy][character][ever][film.])
+v(0,3,4,5,6,8,9,10,12,14): 8.359780311584473	 ([film][glover][star.][alan][raimy][compelling][character][ever][film.][sport.])
+v(0,1,2,4,5,8,12,14): 8.220203399658203	 ([film][made][john][star.][alan][compelling][film.][sport.])
+v(1,2,3,6,7,9,10,11,13): 6.1593828201293945	 ([made][john][glover][raimy][one][character][ever][seen][mean])
+v(0,3,4,5,6,7,8,9,10,11,13,14): 8.49273681640625	 ([film][glover][star.][alan][raimy][one][compelling][character][ever][seen][mean][sport.])
+v(0,1,2,4,5,7,8,11,13,14): 8.274494171142578	 ([film][made][john][star.][alan][one][compelling][seen][mean][sport.])
+v(0,1,2,3,4,5,6,8,9,10,14): 8.13887882232666	 ([film][made][john][glover][star.][alan][raimy][compelling][character][ever][sport.])
+v(1,2,3,6,7,9,10,11,12,13): 6.556845664978027	 ([made][john][glover][raimy][one][character][ever][seen][film.][mean])
+v(0,3,4,5,6,7,8,9,10,11,12,13,14): 8.57978630065918	 ([film][glover][star.][alan][raimy][one][compelling][character][ever][seen][film.][mean][sport.])
+v(0,1,2,4,5,7,8,11,12,13,14): 8.142035484313965	 ([film][made][john][star.][alan][one][compelling][seen][film.][mean][sport.])
+v(0,1,2,3,4,5,6,8,9,10,12,14): 8.158785820007324	 ([film][made][john][glover][star.][alan][raimy][compelling][character][ever][film.][sport.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14): 8.337831497192383	 ([film][made][john][glover][star.][alan][raimy][one][compelling][character][ever][seen][mean][sport.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14): 8.064896583557129	 ([film][made][john][glover][star.][alan][raimy][one][compelling][character][ever][seen][film.][mean][sport.])
+---------- Rewards-v() ----------
+v(0,3,4,5,6,7,8,9,10,11,12,13,14): 7.007197380065918, EP: 1.0793076753616333	 ([film][glover][star.][alan][raimy][one][compelling][character][ever][seen][film.][mean][sport.])
+v(0,3,4,5,6,7,8,9,10,11,13,14): 6.920147895812988, EP: 1.0658996105194092	 ([film][glover][star.][alan][raimy][one][compelling][character][ever][seen][mean][sport.])
+v(0,3,4,5,6,8,9,10,12,14): 6.787191390991211, EP: 1.045420527458191	 ([film][glover][star.][alan][raimy][compelling][character][ever][film.][sport.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14): 6.765242576599121, EP: 1.0420397520065308	 ([film][made][john][glover][star.][alan][raimy][one][compelling][character][ever][seen][mean][sport.])
+v(0,1,2,4,5,7,8,11,13,14): 6.701905250549316, EP: 1.0322840213775635	 ([film][made][john][star.][alan][one][compelling][seen][mean][sport.])
+v(0,3,4,5,6,8,9,10,14): 6.696343421936035, EP: 1.031427264213562	 ([film][glover][star.][alan][raimy][compelling][character][ever][sport.])
+v(0,1,2,4,5,8,12,14): 6.647614479064941, EP: 1.0239216089248657	 ([film][made][john][star.][alan][compelling][film.][sport.])
+v(0,1,2,3,4,5,6,8,9,10,12,14): 6.5861968994140625, EP: 1.014461636543274	 ([film][made][john][glover][star.][alan][raimy][compelling][character][ever][film.][sport.])
+v(0,1,2,4,5,7,8,11,12,13,14): 6.569446563720703, EP: 1.0118815898895264	 ([film][made][john][star.][alan][one][compelling][seen][film.][mean][sport.])
+v(0,1,2,3,4,5,6,8,9,10,14): 6.566289901733398, EP: 1.0113953351974487	 ([film][made][john][glover][star.][alan][raimy][compelling][character][ever][sport.])
+v(0,4,5,8,12,14): 6.5108747482299805, EP: 1.0028598308563232	 ([film][star.][alan][compelling][film.][sport.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14): 6.492307662963867, EP: 1.0	 ([film][made][john][glover][star.][alan][raimy][one][compelling][character][ever][seen][film.][mean][sport.])
+v(0,4,5,7,8,11,13,14): 6.445813179016113, EP: 0.9928385019302368	 ([film][star.][alan][one][compelling][seen][mean][sport.])
+v(0,4,5,7,8,11,12,13,14): 6.442597389221191, EP: 0.9923431873321533	 ([film][star.][alan][one][compelling][seen][film.][mean][sport.])
+v(0,4,5,8,14): 6.40968132019043, EP: 0.9872732162475586	 ([film][star.][alan][compelling][sport.])
+v(0,1,2,4,5,8,14): 6.342583656311035, EP: 0.9769382476806641	 ([film][made][john][star.][alan][compelling][sport.])
+v(3,6,7,9,10,11,12,13): 5.741710662841797, EP: 0.8843867182731628	 ([glover][raimy][one][character][ever][seen][film.][mean])
+v(3,6,7,9,10,11,13): 5.412035942077637, EP: 0.8336074352264404	 ([glover][raimy][one][character][ever][seen][mean])
+v(3,6,9,10,12): 5.266161918640137, EP: 0.8111386895179749	 ([glover][raimy][character][ever][film.])
+v(1,2,3,6,9,10,12): 5.143520355224609, EP: 0.7922484278678894	 ([made][john][glover][raimy][character][ever][film.])
+v(1,2,3,6,7,9,10,11,12,13): 4.984256744384766, EP: 0.7677173018455505	 ([made][john][glover][raimy][one][character][ever][seen][film.][mean])
+v(7,11,12,13): 4.918519973754883, EP: 0.757591962814331	 ([one][seen][film.][mean])
+v(1,2,3,6,7,9,10,11,13): 4.586793899536133, EP: 0.7064967155456543	 ([made][john][glover][raimy][one][character][ever][seen][mean])
+v(1,2,7,11,12,13): 4.386408805847168, EP: 0.6756317019462585	 ([made][john][one][seen][film.][mean])
+v(1,2,3,6,9,10): 3.7383739948272705, EP: 0.5758159160614014	 ([made][john][glover][raimy][character][ever])
+v(7,11,13): 3.5871832370758057, EP: 0.5525282025337219	 ([one][seen][mean])
+v(3,6,9,10): 3.5263326168060303, EP: 0.5431554913520813	 ([glover][raimy][character][ever])
+v(1,2,12): 3.047706365585327, EP: 0.469433456659317	 ([made][john][film.])
+v(1,2,7,11,13): 2.995760202407837, EP: 0.46143224835395813	 ([made][john][one][seen][mean])
+v(12): 2.9702041149139404, EP: 0.45749589800834656	 ([film.])
+v(1,2): 0.9607739448547363, EP: 0.147986501455307	 ([made][john])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

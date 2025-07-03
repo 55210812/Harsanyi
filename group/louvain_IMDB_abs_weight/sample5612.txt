@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['1', '56', '0', '21']: ['known, anthology', 'anthology,', 'generally', 'anthology']: 平均边权 1.4610
+社区 2: ['2', '57', '46', '40', '58', '47', '41', '42', '22', '59', '60']: ['films', 'directed', 'segment', 'directed', 'several', 'directed', 'different', 'director', 'films', 'different', 'directors']: 平均边权 0.9655
+社区 3: ['16', '14', '15', '17']: ['love', 'new', 'york, i', 'you,']: 平均边权 1.5404
+社区 4: ['38', '20', '19', '35', '36', '34', '18', '39', '30', '23', '37', '33']: ['segments, each', 'series', 'phase', 'film', 'made', 'enjoyed.', 'second', 'written', 'them.', 'dealing', 'several', 'really']: 平均边权 0.5837
+社区 5: ['61', '5', '63', '49', '48', '3', '65', '62', '64', '6']: ['( fatih', 'american', 'nair, natalie', '&', 'joel', 'fare', 'kapur, etc. ), and', 'akin, mira', 'portman, shakher', 'audiences']: 平均边权 0.7023
+社区 6: ['66', '32', '25', '67', '53', '68', '24', '69']: ['also', "' paris, j'taime ',", '&', 'like', "' paris ',", "' paris'deals", 'cities', 'new']: 平均边权 0.7363
+社区 7: ['71', '12', '8', '70', '27', '13', '29', '4', '55', '11', '9', '26', '10', '31', '7']: ['love', 'plot', 'guess', 'yorkers, and', 'live', 'line ).', 'love', 'well', 'also', 'standard', 'prefer', 'people', 'one', 'first', '( i']: 平均边权 0.4371
+社区 8: ['50', '44', '43', '51', '45', '52', '54']: ['ethan', 'french, but', '( most', 'coen ).', 'funny', 'like', 'one']: 平均边权 0.8051

@@ -1,0 +1,81 @@
+---------- Players ----------
+Player 0: favorite
+Player 1: movie.
+Player 2: great
+Player 3: story
+Player 4: really
+Player 5: was.
+Player 6: i'd
+Player 7: like
+Player 8: able
+Player 9: buy
+Player 10: copy
+Player 11: seem
+Player 12: possible.
+---------- Rewards ----------
+v(): -1.0190573930740356	 ([])
+v(0,1,12): 3.188943862915039	 ([favorite][movie.][possible.])
+v(2,3,4): 6.6046037673950195	 ([great][story][really])
+v(10,11): -2.482004404067993	 ([copy][seem])
+v(8,9): -3.81577730178833	 ([able][buy])
+v(5,6,7): -5.559055328369141	 ([was.][i'd][like])
+v(0,1,2,3,4,12): 4.822345733642578	 ([favorite][movie.][great][story][really][possible.])
+v(0,1,10,11,12): 3.382143497467041	 ([favorite][movie.][copy][seem][possible.])
+v(0,1,8,9,12): 2.82612681388855	 ([favorite][movie.][able][buy][possible.])
+v(0,1,5,6,7,12): 2.125786304473877	 ([favorite][movie.][was.][i'd][like][possible.])
+v(2,3,4,10,11): 6.538190841674805	 ([great][story][really][copy][seem])
+v(2,3,4,8,9): 5.511787414550781	 ([great][story][really][able][buy])
+v(2,3,4,5,6,7): 8.046551704406738	 ([great][story][really][was.][i'd][like])
+v(8,9,10,11): -4.241299152374268	 ([able][buy][copy][seem])
+v(5,6,7,10,11): -5.782382011413574	 ([was.][i'd][like][copy][seem])
+v(5,6,7,8,9): -7.308512210845947	 ([was.][i'd][like][able][buy])
+v(0,1,2,3,4,10,11,12): 4.1938157081604	 ([favorite][movie.][great][story][really][copy][seem][possible.])
+v(0,1,2,3,4,8,9,12): 4.394070625305176	 ([favorite][movie.][great][story][really][able][buy][possible.])
+v(0,1,2,3,4,5,6,7,12): 6.4017558097839355	 ([favorite][movie.][great][story][really][was.][i'd][like][possible.])
+v(0,1,8,9,10,11,12): 3.2246108055114746	 ([favorite][movie.][able][buy][copy][seem][possible.])
+v(0,1,5,6,7,10,11,12): 4.481057643890381	 ([favorite][movie.][was.][i'd][like][copy][seem][possible.])
+v(0,1,5,6,7,8,9,12): 1.3959636688232422	 ([favorite][movie.][was.][i'd][like][able][buy][possible.])
+v(2,3,4,8,9,10,11): 6.655317783355713	 ([great][story][really][able][buy][copy][seem])
+v(2,3,4,5,6,7,10,11): 8.05908203125	 ([great][story][really][was.][i'd][like][copy][seem])
+v(2,3,4,5,6,7,8,9): 7.475065231323242	 ([great][story][really][was.][i'd][like][able][buy])
+v(5,6,7,8,9,10,11): -6.064725875854492	 ([was.][i'd][like][able][buy][copy][seem])
+v(0,1,2,3,4,8,9,10,11,12): 4.48585319519043	 ([favorite][movie.][great][story][really][able][buy][copy][seem][possible.])
+v(0,1,2,3,4,5,6,7,10,11,12): 6.133943557739258	 ([favorite][movie.][great][story][really][was.][i'd][like][copy][seem][possible.])
+v(0,1,2,3,4,5,6,7,8,9,12): 5.786334991455078	 ([favorite][movie.][great][story][really][was.][i'd][like][able][buy][possible.])
+v(0,1,5,6,7,8,9,10,11,12): 5.037993431091309	 ([favorite][movie.][was.][i'd][like][able][buy][copy][seem][possible.])
+v(2,3,4,5,6,7,8,9,10,11): 7.839666843414307	 ([great][story][really][was.][i'd][like][able][buy][copy][seem])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12): 5.883255958557129	 ([favorite][movie.][great][story][really][was.][i'd][like][able][buy][copy][seem][possible.])
+---------- Rewards-v() ----------
+v(2,3,4,5,6,7,10,11): 9.078139305114746, EP: 1.315231442451477	 ([great][story][really][was.][i'd][like][copy][seem])
+v(2,3,4,5,6,7): 9.065608978271484, EP: 1.3134160041809082	 ([great][story][really][was.][i'd][like])
+v(2,3,4,5,6,7,8,9,10,11): 8.858724594116211, EP: 1.2834428548812866	 ([great][story][really][was.][i'd][like][able][buy][copy][seem])
+v(2,3,4,5,6,7,8,9): 8.494122505187988, EP: 1.2306196689605713	 ([great][story][really][was.][i'd][like][able][buy])
+v(2,3,4,8,9,10,11): 7.674375057220459, EP: 1.1118555068969727	 ([great][story][really][able][buy][copy][seem])
+v(2,3,4): 7.623661041259766, EP: 1.1045081615447998	 ([great][story][really])
+v(2,3,4,10,11): 7.557248115539551, EP: 1.094886302947998	 ([great][story][really][copy][seem])
+v(0,1,2,3,4,5,6,7,12): 7.420813083648682, EP: 1.0751197338104248	 ([favorite][movie.][great][story][really][was.][i'd][like][possible.])
+v(0,1,2,3,4,5,6,7,10,11,12): 7.153000831604004, EP: 1.036319375038147	 ([favorite][movie.][great][story][really][was.][i'd][like][copy][seem][possible.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12): 6.902313232421875, EP: 1.0	 ([favorite][movie.][great][story][really][was.][i'd][like][able][buy][copy][seem][possible.])
+v(0,1,2,3,4,5,6,7,8,9,12): 6.805392265319824, EP: 0.9859582185745239	 ([favorite][movie.][great][story][really][was.][i'd][like][able][buy][possible.])
+v(2,3,4,8,9): 6.530844688415527, EP: 0.9461820125579834	 ([great][story][really][able][buy])
+v(5,6,7,8,9): -6.289454936981201, EP: -0.9112097024917603	 ([was.][i'd][like][able][buy])
+v(0,1,5,6,7,8,9,10,11,12): 6.057050704956055, EP: 0.8775392174720764	 ([favorite][movie.][was.][i'd][like][able][buy][copy][seem][possible.])
+v(0,1,2,3,4,12): 5.841403007507324, EP: 0.8462964296340942	 ([favorite][movie.][great][story][really][possible.])
+v(0,1,2,3,4,8,9,10,11,12): 5.504910469055176, EP: 0.7975457310676575	 ([favorite][movie.][great][story][really][able][buy][copy][seem][possible.])
+v(0,1,5,6,7,10,11,12): 5.500114917755127, EP: 0.7968509793281555	 ([favorite][movie.][was.][i'd][like][copy][seem][possible.])
+v(0,1,2,3,4,8,9,12): 5.413127899169922, EP: 0.7842483520507812	 ([favorite][movie.][great][story][really][able][buy][possible.])
+v(0,1,2,3,4,10,11,12): 5.2128729820251465, EP: 0.7552356719970703	 ([favorite][movie.][great][story][really][copy][seem][possible.])
+v(5,6,7,8,9,10,11): -5.045668601989746, EP: -0.7310112714767456	 ([was.][i'd][like][able][buy][copy][seem])
+v(5,6,7,10,11): -4.763324737548828, EP: -0.6901055574417114	 ([was.][i'd][like][copy][seem])
+v(5,6,7): -4.5399980545043945, EP: -0.6577502489089966	 ([was.][i'd][like])
+v(0,1,10,11,12): 4.401200771331787, EP: 0.637641429901123	 ([favorite][movie.][copy][seem][possible.])
+v(0,1,8,9,10,11,12): 4.243668079376221, EP: 0.6148182153701782	 ([favorite][movie.][able][buy][copy][seem][possible.])
+v(0,1,12): 4.208001136779785, EP: 0.6096508502960205	 ([favorite][movie.][possible.])
+v(0,1,8,9,12): 3.845184326171875, EP: 0.5570863485336304	 ([favorite][movie.][able][buy][possible.])
+v(8,9,10,11): -3.2222418785095215, EP: -0.466835081577301	 ([able][buy][copy][seem])
+v(0,1,5,6,7,12): 3.144843578338623, EP: 0.4556216895580292	 ([favorite][movie.][was.][i'd][like][possible.])
+v(8,9): -2.796720027923584, EP: -0.40518590807914734	 ([able][buy])
+v(0,1,5,6,7,8,9,12): 2.4150209426879883, EP: 0.3498857319355011	 ([favorite][movie.][was.][i'd][like][able][buy][possible.])
+v(10,11): -1.4629470109939575, EP: -0.21195024251937866	 ([copy][seem])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

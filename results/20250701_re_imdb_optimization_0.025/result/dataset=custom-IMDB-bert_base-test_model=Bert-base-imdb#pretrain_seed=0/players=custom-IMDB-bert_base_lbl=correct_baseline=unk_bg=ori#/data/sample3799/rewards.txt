@@ -1,0 +1,163 @@
+---------- Players ----------
+Player 0: what's
+Player 1: robert
+Player 2: pretentious
+Player 3: "
+Player 4: altman?
+Player 5: saving
+Player 6: lighting?
+Player 7: everything
+Player 8: dark
+Player 9: boring
+Player 10: movie
+Player 11: laughable.
+Player 12: mean,
+Player 13: ever
+Player 14: seen
+Player 15: lawyer's
+Player 16: office
+Player 17: everyone
+Player 18: works
+Player 19: candlelight?
+Player 20: waste
+Player 21: time.
+Player 22: fact,
+Player 23: waste
+Player 24: time
+Player 25: anything
+Player 26: altman
+Player 27: makes :
+Player 28: pretentious
+Player 29: waste
+Player 30: film. "
+---------- Rewards ----------
+v(): 1.9817579984664917	 ([])
+v(1,2,8,10,27,28): 7.368867874145508	 ([robert][pretentious][dark][movie][makes :][pretentious])
+v(19,20,22,23): -0.5747964382171631	 ([candlelight?][waste][fact,][waste])
+v(4,5,6,7,9,15,29): 8.323946952819824	 ([altman?][saving][lighting?][everything][boring][lawyer's][waste])
+v(0,3,30): 4.677171230316162	 ([what's]["][film. "])
+v(24,25,26): 0.7575209736824036	 ([time][anything][altman])
+v(11,12,13,14,16,17,18,21): 8.274117469787598	 ([laughable.][mean,][ever][seen][office][everyone][works][time.])
+v(1,2,8,10,19,20,22,23,27,28): 7.121474266052246	 ([robert][pretentious][dark][movie][candlelight?][waste][fact,][waste][makes :][pretentious])
+v(1,2,4,5,6,7,8,9,10,15,27,28,29): 8.376253128051758	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][makes :][pretentious][waste])
+v(0,1,2,3,8,10,27,28,30): 7.696903228759766	 ([what's][robert][pretentious]["][dark][movie][makes :][pretentious][film. "])
+v(1,2,8,10,24,25,26,27,28): 6.68076229095459	 ([robert][pretentious][dark][movie][time][anything][altman][makes :][pretentious])
+v(1,2,8,10,11,12,13,14,16,17,18,21,27,28): 8.323625564575195	 ([robert][pretentious][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][time.][makes :][pretentious])
+v(4,5,6,7,9,15,19,20,22,23,29): 8.260719299316406	 ([altman?][saving][lighting?][everything][boring][lawyer's][candlelight?][waste][fact,][waste][waste])
+v(0,3,19,20,22,23,30): 3.653367519378662	 ([what's]["][candlelight?][waste][fact,][waste][film. "])
+v(19,20,22,23,24,25,26): 0.048314064741134644	 ([candlelight?][waste][fact,][waste][time][anything][altman])
+v(11,12,13,14,16,17,18,19,20,21,22,23): 8.165594100952148	 ([laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste])
+v(0,3,4,5,6,7,9,15,29,30): 8.384465217590332	 ([what's]["][altman?][saving][lighting?][everything][boring][lawyer's][waste][film. "])
+v(4,5,6,7,9,15,24,25,26,29): 8.340782165527344	 ([altman?][saving][lighting?][everything][boring][lawyer's][time][anything][altman][waste])
+v(4,5,6,7,9,11,12,13,14,15,16,17,18,21,29): 8.430414199829102	 ([altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][waste])
+v(0,3,24,25,26,30): 3.4978272914886475	 ([what's]["][time][anything][altman][film. "])
+v(0,3,11,12,13,14,16,17,18,21,30): 8.117929458618164	 ([what's]["][laughable.][mean,][ever][seen][office][everyone][works][time.][film. "])
+v(11,12,13,14,16,17,18,21,24,25,26): 8.316773414611816	 ([laughable.][mean,][ever][seen][office][everyone][works][time.][time][anything][altman])
+v(1,2,4,5,6,7,8,9,10,15,19,20,22,23,27,28,29): 8.3634672164917	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][candlelight?][waste][fact,][waste][makes :][pretentious][waste])
+v(0,1,2,3,8,10,19,20,22,23,27,28,30): 7.616504192352295	 ([what's][robert][pretentious]["][dark][movie][candlelight?][waste][fact,][waste][makes :][pretentious][film. "])
+v(1,2,8,10,19,20,22,23,24,25,26,27,28): 7.052868366241455	 ([robert][pretentious][dark][movie][candlelight?][waste][fact,][waste][time][anything][altman][makes :][pretentious])
+v(1,2,8,10,11,12,13,14,16,17,18,19,20,21,22,23,27,28): 8.37394905090332	 ([robert][pretentious][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste][makes :][pretentious])
+v(0,1,2,3,4,5,6,7,8,9,10,15,27,28,29,30): 8.441930770874023	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][makes :][pretentious][waste][film. "])
+v(1,2,4,5,6,7,8,9,10,15,24,25,26,27,28,29): 8.380760192871094	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][time][anything][altman][makes :][pretentious][waste])
+v(1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,27,28,29): 8.459423065185547	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][makes :][pretentious][waste])
+v(0,1,2,3,8,10,24,25,26,27,28,30): 7.543952941894531	 ([what's][robert][pretentious]["][dark][movie][time][anything][altman][makes :][pretentious][film. "])
+v(0,1,2,3,8,10,11,12,13,14,16,17,18,21,27,28,30): 8.295093536376953	 ([what's][robert][pretentious]["][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][time.][makes :][pretentious][film. "])
+v(1,2,8,10,11,12,13,14,16,17,18,21,24,25,26,27,28): 8.37454605102539	 ([robert][pretentious][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][time.][time][anything][altman][makes :][pretentious])
+v(0,3,4,5,6,7,9,15,19,20,22,23,29,30): 8.265323638916016	 ([what's]["][altman?][saving][lighting?][everything][boring][lawyer's][candlelight?][waste][fact,][waste][waste][film. "])
+v(4,5,6,7,9,15,19,20,22,23,24,25,26,29): 8.293410301208496	 ([altman?][saving][lighting?][everything][boring][lawyer's][candlelight?][waste][fact,][waste][time][anything][altman][waste])
+v(4,5,6,7,9,11,12,13,14,15,16,17,18,19,20,21,22,23,29): 8.378772735595703	 ([altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][waste])
+v(0,3,19,20,22,23,24,25,26,30): 3.641563892364502	 ([what's]["][candlelight?][waste][fact,][waste][time][anything][altman][film. "])
+v(0,3,11,12,13,14,16,17,18,19,20,21,22,23,30): 8.036203384399414	 ([what's]["][laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste][film. "])
+v(11,12,13,14,16,17,18,19,20,21,22,23,24,25,26): 8.23447322845459	 ([laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman])
+v(0,3,4,5,6,7,9,15,24,25,26,29,30): 8.391684532165527	 ([what's]["][altman?][saving][lighting?][everything][boring][lawyer's][time][anything][altman][waste][film. "])
+v(0,3,4,5,6,7,9,11,12,13,14,15,16,17,18,21,29,30): 8.429359436035156	 ([what's]["][altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][waste][film. "])
+v(4,5,6,7,9,11,12,13,14,15,16,17,18,21,24,25,26,29): 8.433545112609863	 ([altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][time][anything][altman][waste])
+v(0,3,11,12,13,14,16,17,18,21,24,25,26,30): 8.188297271728516	 ([what's]["][laughable.][mean,][ever][seen][office][everyone][works][time.][time][anything][altman][film. "])
+v(0,1,2,3,4,5,6,7,8,9,10,15,19,20,22,23,27,28,29,30): 8.371606826782227	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][candlelight?][waste][fact,][waste][makes :][pretentious][waste][film. "])
+v(1,2,4,5,6,7,8,9,10,15,19,20,22,23,24,25,26,27,28,29): 8.384088516235352	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][candlelight?][waste][fact,][waste][time][anything][altman][makes :][pretentious][waste])
+v(1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,27,28,29): 8.39890193939209	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][makes :][pretentious][waste])
+v(0,1,2,3,8,10,19,20,22,23,24,25,26,27,28,30): 7.074113845825195	 ([what's][robert][pretentious]["][dark][movie][candlelight?][waste][fact,][waste][time][anything][altman][makes :][pretentious][film. "])
+v(0,1,2,3,8,10,11,12,13,14,16,17,18,19,20,21,22,23,27,28,30): 8.253972053527832	 ([what's][robert][pretentious]["][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste][makes :][pretentious][film. "])
+v(1,2,8,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.402824401855469	 ([robert][pretentious][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman][makes :][pretentious])
+v(0,1,2,3,4,5,6,7,8,9,10,15,24,25,26,27,28,29,30): 8.437871932983398	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][time][anything][altman][makes :][pretentious][waste][film. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,27,28,29,30): 8.472177505493164	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][makes :][pretentious][waste][film. "])
+v(1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,24,25,26,27,28,29): 8.422032356262207	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][time][anything][altman][makes :][pretentious][waste])
+v(0,1,2,3,8,10,11,12,13,14,16,17,18,21,24,25,26,27,28,30): 8.296955108642578	 ([what's][robert][pretentious]["][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][time.][time][anything][altman][makes :][pretentious][film. "])
+v(0,3,4,5,6,7,9,15,19,20,22,23,24,25,26,29,30): 8.259803771972656	 ([what's]["][altman?][saving][lighting?][everything][boring][lawyer's][candlelight?][waste][fact,][waste][time][anything][altman][waste][film. "])
+v(0,3,4,5,6,7,9,11,12,13,14,15,16,17,18,19,20,21,22,23,29,30): 8.347908020019531	 ([what's]["][altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][waste][film. "])
+v(4,5,6,7,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,29): 8.372215270996094	 ([altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman][waste])
+v(0,3,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,30): 8.058176040649414	 ([what's]["][laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman][film. "])
+v(0,3,4,5,6,7,9,11,12,13,14,15,16,17,18,21,24,25,26,29,30): 8.424068450927734	 ([what's]["][altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][time][anything][altman][waste][film. "])
+v(0,1,2,3,4,5,6,7,8,9,10,15,19,20,22,23,24,25,26,27,28,29,30): 8.369712829589844	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][candlelight?][waste][fact,][waste][time][anything][altman][makes :][pretentious][waste][film. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,27,28,29,30): 8.392814636230469	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][makes :][pretentious][waste][film. "])
+v(1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 8.370321273803711	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman][makes :][pretentious][waste])
+v(0,1,2,3,8,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28,30): 8.217411041259766	 ([what's][robert][pretentious]["][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman][makes :][pretentious][film. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,24,25,26,27,28,29,30): 8.427506446838379	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][time][anything][altman][makes :][pretentious][waste][film. "])
+v(0,3,4,5,6,7,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,29,30): 8.344377517700195	 ([what's]["][altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman][waste][film. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 8.428079605102539	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman][makes :][pretentious][waste][film. "])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,27,28,29,30): 6.490419387817383, EP: 1.0068408250808716	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][makes :][pretentious][waste][film. "])
+v(1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,27,28,29): 6.477664947509766, EP: 1.0048621892929077	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][makes :][pretentious][waste])
+v(0,1,2,3,4,5,6,7,8,9,10,15,27,28,29,30): 6.460172653198242, EP: 1.0021487474441528	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][makes :][pretentious][waste][film. "])
+v(0,1,2,3,4,5,6,7,8,9,10,15,24,25,26,27,28,29,30): 6.456113815307617, EP: 1.0015190839767456	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][time][anything][altman][makes :][pretentious][waste][film. "])
+v(4,5,6,7,9,11,12,13,14,15,16,17,18,21,24,25,26,29): 6.451786994934082, EP: 1.0008478164672852	 ([altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][time][anything][altman][waste])
+v(4,5,6,7,9,11,12,13,14,15,16,17,18,21,29): 6.44865608215332, EP: 1.0003621578216553	 ([altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][waste])
+v(0,3,4,5,6,7,9,11,12,13,14,15,16,17,18,21,29,30): 6.447601318359375, EP: 1.000198483467102	 ([what's]["][altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][waste][film. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 6.446321487426758, EP: 1.0	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman][makes :][pretentious][waste][film. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,24,25,26,27,28,29,30): 6.445748329162598, EP: 0.9999110698699951	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][time][anything][altman][makes :][pretentious][waste][film. "])
+v(0,3,4,5,6,7,9,11,12,13,14,15,16,17,18,21,24,25,26,29,30): 6.442310333251953, EP: 0.9993777871131897	 ([what's]["][altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][time][anything][altman][waste][film. "])
+v(1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,24,25,26,27,28,29): 6.440274238586426, EP: 0.9990618824958801	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][time.][time][anything][altman][makes :][pretentious][waste])
+v(1,2,8,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28): 6.4210662841796875, EP: 0.9960822463035583	 ([robert][pretentious][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman][makes :][pretentious])
+v(1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,27,28,29): 6.417143821716309, EP: 0.9954737424850464	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][makes :][pretentious][waste])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,27,28,29,30): 6.4110565185546875, EP: 0.9945294260978699	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][makes :][pretentious][waste][film. "])
+v(0,3,4,5,6,7,9,15,24,25,26,29,30): 6.409926414489746, EP: 0.9943541288375854	 ([what's]["][altman?][saving][lighting?][everything][boring][lawyer's][time][anything][altman][waste][film. "])
+v(0,3,4,5,6,7,9,15,29,30): 6.402707099914551, EP: 0.9932342171669006	 ([what's]["][altman?][saving][lighting?][everything][boring][lawyer's][waste][film. "])
+v(1,2,4,5,6,7,8,9,10,15,19,20,22,23,24,25,26,27,28,29): 6.40233039855957, EP: 0.9931758046150208	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][candlelight?][waste][fact,][waste][time][anything][altman][makes :][pretentious][waste])
+v(1,2,4,5,6,7,8,9,10,15,24,25,26,27,28,29): 6.3990020751953125, EP: 0.9926594495773315	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][time][anything][altman][makes :][pretentious][waste])
+v(4,5,6,7,9,11,12,13,14,15,16,17,18,19,20,21,22,23,29): 6.397014617919922, EP: 0.9923511743545532	 ([altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][waste])
+v(1,2,4,5,6,7,8,9,10,15,27,28,29): 6.394495010375977, EP: 0.9919602870941162	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][makes :][pretentious][waste])
+v(1,2,8,10,11,12,13,14,16,17,18,21,24,25,26,27,28): 6.392787933349609, EP: 0.9916954636573792	 ([robert][pretentious][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][time.][time][anything][altman][makes :][pretentious])
+v(1,2,8,10,11,12,13,14,16,17,18,19,20,21,22,23,27,28): 6.392190933227539, EP: 0.991602897644043	 ([robert][pretentious][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste][makes :][pretentious])
+v(4,5,6,7,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,29): 6.3904571533203125, EP: 0.9913339018821716	 ([altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman][waste])
+v(0,1,2,3,4,5,6,7,8,9,10,15,19,20,22,23,27,28,29,30): 6.389848709106445, EP: 0.9912395477294922	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][candlelight?][waste][fact,][waste][makes :][pretentious][waste][film. "])
+v(1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 6.38856315612793, EP: 0.9910401105880737	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman][makes :][pretentious][waste])
+v(0,1,2,3,4,5,6,7,8,9,10,15,19,20,22,23,24,25,26,27,28,29,30): 6.3879547119140625, EP: 0.9909456968307495	 ([what's][robert][pretentious]["][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][candlelight?][waste][fact,][waste][time][anything][altman][makes :][pretentious][waste][film. "])
+v(1,2,4,5,6,7,8,9,10,15,19,20,22,23,27,28,29): 6.381709098815918, EP: 0.9899768829345703	 ([robert][pretentious][altman?][saving][lighting?][everything][dark][boring][movie][lawyer's][candlelight?][waste][fact,][waste][makes :][pretentious][waste])
+v(0,3,4,5,6,7,9,11,12,13,14,15,16,17,18,19,20,21,22,23,29,30): 6.36614990234375, EP: 0.9875631928443909	 ([what's]["][altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][waste][film. "])
+v(0,3,4,5,6,7,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,29,30): 6.362619400024414, EP: 0.9870155453681946	 ([what's]["][altman?][saving][lighting?][everything][boring][laughable.][mean,][ever][seen][lawyer's][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman][waste][film. "])
+v(4,5,6,7,9,15,24,25,26,29): 6.3590240478515625, EP: 0.9864577651023865	 ([altman?][saving][lighting?][everything][boring][lawyer's][time][anything][altman][waste])
+v(4,5,6,7,9,15,29): 6.342188835144043, EP: 0.9838461875915527	 ([altman?][saving][lighting?][everything][boring][lawyer's][waste])
+v(1,2,8,10,11,12,13,14,16,17,18,21,27,28): 6.341867446899414, EP: 0.9837963581085205	 ([robert][pretentious][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][time.][makes :][pretentious])
+v(11,12,13,14,16,17,18,21,24,25,26): 6.335015296936035, EP: 0.9827333688735962	 ([laughable.][mean,][ever][seen][office][everyone][works][time.][time][anything][altman])
+v(0,1,2,3,8,10,11,12,13,14,16,17,18,21,24,25,26,27,28,30): 6.315196990966797, EP: 0.9796590209007263	 ([what's][robert][pretentious]["][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][time.][time][anything][altman][makes :][pretentious][film. "])
+v(0,1,2,3,8,10,11,12,13,14,16,17,18,21,27,28,30): 6.313335418701172, EP: 0.9793702363967896	 ([what's][robert][pretentious]["][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][time.][makes :][pretentious][film. "])
+v(4,5,6,7,9,15,19,20,22,23,24,25,26,29): 6.311652183532715, EP: 0.9791091084480286	 ([altman?][saving][lighting?][everything][boring][lawyer's][candlelight?][waste][fact,][waste][time][anything][altman][waste])
+v(11,12,13,14,16,17,18,21): 6.292359352111816, EP: 0.9761162996292114	 ([laughable.][mean,][ever][seen][office][everyone][works][time.])
+v(0,3,4,5,6,7,9,15,19,20,22,23,29,30): 6.283565521240234, EP: 0.9747521281242371	 ([what's]["][altman?][saving][lighting?][everything][boring][lawyer's][candlelight?][waste][fact,][waste][waste][film. "])
+v(4,5,6,7,9,15,19,20,22,23,29): 6.278961181640625, EP: 0.9740378856658936	 ([altman?][saving][lighting?][everything][boring][lawyer's][candlelight?][waste][fact,][waste][waste])
+v(0,3,4,5,6,7,9,15,19,20,22,23,24,25,26,29,30): 6.278045654296875, EP: 0.9738958477973938	 ([what's]["][altman?][saving][lighting?][everything][boring][lawyer's][candlelight?][waste][fact,][waste][time][anything][altman][waste][film. "])
+v(0,1,2,3,8,10,11,12,13,14,16,17,18,19,20,21,22,23,27,28,30): 6.272213935852051, EP: 0.9729911684989929	 ([what's][robert][pretentious]["][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste][makes :][pretentious][film. "])
+v(11,12,13,14,16,17,18,19,20,21,22,23,24,25,26): 6.252715110778809, EP: 0.9699663519859314	 ([laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman])
+v(0,1,2,3,8,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28,30): 6.235652923583984, EP: 0.9673195481300354	 ([what's][robert][pretentious]["][dark][movie][laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman][makes :][pretentious][film. "])
+v(0,3,11,12,13,14,16,17,18,21,24,25,26,30): 6.206539154052734, EP: 0.9628032445907593	 ([what's]["][laughable.][mean,][ever][seen][office][everyone][works][time.][time][anything][altman][film. "])
+v(11,12,13,14,16,17,18,19,20,21,22,23): 6.183835983276367, EP: 0.959281325340271	 ([laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste])
+v(0,3,11,12,13,14,16,17,18,21,30): 6.136171340942383, EP: 0.9518872499465942	 ([what's]["][laughable.][mean,][ever][seen][office][everyone][works][time.][film. "])
+v(0,3,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,30): 6.076417922973633, EP: 0.9426178932189941	 ([what's]["][laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste][time][anything][altman][film. "])
+v(0,3,11,12,13,14,16,17,18,19,20,21,22,23,30): 6.054445266723633, EP: 0.9392093420028687	 ([what's]["][laughable.][mean,][ever][seen][office][everyone][works][candlelight?][waste][time.][fact,][waste][film. "])
+v(0,1,2,3,8,10,27,28,30): 5.715145111083984, EP: 0.8865746259689331	 ([what's][robert][pretentious]["][dark][movie][makes :][pretentious][film. "])
+v(0,1,2,3,8,10,19,20,22,23,27,28,30): 5.634746074676514, EP: 0.8741025328636169	 ([what's][robert][pretentious]["][dark][movie][candlelight?][waste][fact,][waste][makes :][pretentious][film. "])
+v(0,1,2,3,8,10,24,25,26,27,28,30): 5.56219482421875, EP: 0.8628478646278381	 ([what's][robert][pretentious]["][dark][movie][time][anything][altman][makes :][pretentious][film. "])
+v(1,2,8,10,27,28): 5.387109756469727, EP: 0.8356873989105225	 ([robert][pretentious][dark][movie][makes :][pretentious])
+v(1,2,8,10,19,20,22,23,27,28): 5.139716148376465, EP: 0.797309935092926	 ([robert][pretentious][dark][movie][candlelight?][waste][fact,][waste][makes :][pretentious])
+v(0,1,2,3,8,10,19,20,22,23,24,25,26,27,28,30): 5.092355728149414, EP: 0.7899630665779114	 ([what's][robert][pretentious]["][dark][movie][candlelight?][waste][fact,][waste][time][anything][altman][makes :][pretentious][film. "])
+v(1,2,8,10,19,20,22,23,24,25,26,27,28): 5.071110248565674, EP: 0.7866672873497009	 ([robert][pretentious][dark][movie][candlelight?][waste][fact,][waste][time][anything][altman][makes :][pretentious])
+v(1,2,8,10,24,25,26,27,28): 4.699004173278809, EP: 0.7289435267448425	 ([robert][pretentious][dark][movie][time][anything][altman][makes :][pretentious])
+v(0,3,30): 2.695413112640381, EP: 0.4181319773197174	 ([what's]["][film. "])
+v(19,20,22,23): -2.5565543174743652, EP: -0.3965911865234375	 ([candlelight?][waste][fact,][waste])
+v(19,20,22,23,24,25,26): -1.9334439039230347, EP: -0.29992979764938354	 ([candlelight?][waste][fact,][waste][time][anything][altman])
+v(0,3,19,20,22,23,30): 1.6716095209121704, EP: 0.25931215286254883	 ([what's]["][candlelight?][waste][fact,][waste][film. "])
+v(0,3,19,20,22,23,24,25,26,30): 1.6598058938980103, EP: 0.25748109817504883	 ([what's]["][candlelight?][waste][fact,][waste][time][anything][altman][film. "])
+v(0,3,24,25,26,30): 1.5160692930221558, EP: 0.23518362641334534	 ([what's]["][time][anything][altman][film. "])
+v(24,25,26): -1.2242369651794434, EP: -0.18991248309612274	 ([time][anything][altman])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

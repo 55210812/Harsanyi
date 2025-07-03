@@ -1,0 +1,32 @@
+---------- Players ----------
+Player 0: plot
+Player 1: tight.
+Player 2: acting
+Player 3: flawless.
+Player 4: directing,
+Player 5: script,
+Player 6: scenery,
+Player 7: casting
+Player 8: well
+Player 9: done.
+Player 10: watch
+Player 11: movie
+Player 12: frequently,
+Player 13: though
+Player 14: know
+Player 15: whole
+Player 16: thing
+Player 17: grabs
+Player 18: me.
+Player 19: see
+Player 20: drop
+Player 21: line
+Player 22: figure
+Player 23: like
+Player 24: much.
+---------- AND Interactions (Pairwise Only) ----------
+I(3,14): 4.227724075317383	 ([flawless.][know])
+I(10,11): 2.655801296234131	 ([watch][movie])
+I(16,17): 1.3922778367996216	 ([thing][grabs])
+Sum: 8.275803208351135
+==================================================

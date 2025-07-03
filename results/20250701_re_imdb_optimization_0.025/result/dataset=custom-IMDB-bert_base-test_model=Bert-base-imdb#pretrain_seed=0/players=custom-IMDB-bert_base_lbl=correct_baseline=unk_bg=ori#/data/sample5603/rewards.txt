@@ -1,0 +1,177 @@
+---------- Players ----------
+Player 0: overall
+Player 1: movie
+Player 2: dreadful,
+Player 3: never
+Player 4: made.
+Player 5: one
+Player 6: problems
+Player 7: movie
+Player 8: link
+Player 9: audience
+Player 10: characters,
+Player 11: example,
+Player 12: attacked,
+Player 13: want
+Player 14: feel,
+Player 15: oh
+Player 16: god,
+Player 17: no!
+Player 18: ",
+Player 19: case,
+Player 20: care
+Player 21: link
+Player 22: made
+Player 23: know
+Player 24: character.
+Player 25: trailer,
+Player 26: seemed
+Player 27: though
+Player 28: movie
+Player 29: would
+Player 30: great,
+Player 31: yet
+Player 32: suspense
+Player 33: ever
+Player 34: really.
+Player 35: could
+Player 36: maybe
+Player 37: mystery
+Player 38: not.
+Player 39: " all
+Player 40: toolbox.
+Player 41: "
+Player 42: said
+Player 43: dvd's
+Player 44: back,
+---------- Rewards ----------
+v(): -0.7143993377685547	 ([])
+v(10,11,12,13,14,15,16): 1.2470591068267822	 ([characters,][example,][attacked,][want][feel,][oh][god,])
+v(0,2,3,6,36,44): 6.773783206939697	 ([overall][dreadful,][never][problems][maybe][back,])
+v(7,8,17,20,21,22,40,41): 2.0107555389404297	 ([movie][link][no!][care][link][made][toolbox.]["])
+v(1,4,5,9,19,23,35,38): 3.886110305786133	 ([movie][made.][one][audience][case,][know][could][not.])
+v(24,30,31,34,37,39,42,43): -1.041497826576233	 ([character.][great,][yet][really.][mystery][" all][said][dvd's])
+v(18,25,26,27,28,29,32,33): 6.327268600463867	 ([",][trailer,][seemed][though][movie][would][suspense][ever])
+v(0,2,3,6,10,11,12,13,14,15,16,36,44): 7.525168418884277	 ([overall][dreadful,][never][problems][characters,][example,][attacked,][want][feel,][oh][god,][maybe][back,])
+v(7,8,10,11,12,13,14,15,16,17,20,21,22,40,41): 3.4860639572143555	 ([movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][care][link][made][toolbox.]["])
+v(1,4,5,9,10,11,12,13,14,15,16,19,23,35,38): 5.606250762939453	 ([movie][made.][one][audience][characters,][example,][attacked,][want][feel,][oh][god,][case,][know][could][not.])
+v(10,11,12,13,14,15,16,24,30,31,34,37,39,42,43): 1.436132788658142	 ([characters,][example,][attacked,][want][feel,][oh][god,][character.][great,][yet][really.][mystery][" all][said][dvd's])
+v(10,11,12,13,14,15,16,18,25,26,27,28,29,32,33): 7.328368186950684	 ([characters,][example,][attacked,][want][feel,][oh][god,][",][trailer,][seemed][though][movie][would][suspense][ever])
+v(0,2,3,6,7,8,17,20,21,22,36,40,41,44): 7.564182758331299	 ([overall][dreadful,][never][problems][movie][link][no!][care][link][made][maybe][toolbox.]["][back,])
+v(0,1,2,3,4,5,6,9,19,23,35,36,38,44): 8.168325424194336	 ([overall][movie][dreadful,][never][made.][one][problems][audience][case,][know][could][maybe][not.][back,])
+v(0,2,3,6,24,30,31,34,36,37,39,42,43,44): 7.589056491851807	 ([overall][dreadful,][never][problems][character.][great,][yet][really.][maybe][mystery][" all][said][dvd's][back,])
+v(0,2,3,6,18,25,26,27,28,29,32,33,36,44): 7.815626621246338	 ([overall][dreadful,][never][problems][",][trailer,][seemed][though][movie][would][suspense][ever][maybe][back,])
+v(1,4,5,7,8,9,17,19,20,21,22,23,35,38,40,41): 4.670837879180908	 ([movie][made.][one][movie][link][audience][no!][case,][care][link][made][know][could][not.][toolbox.]["])
+v(7,8,17,20,21,22,24,30,31,34,37,39,40,41,42,43): 0.38426750898361206	 ([movie][link][no!][care][link][made][character.][great,][yet][really.][mystery][" all][toolbox.]["][said][dvd's])
+v(7,8,17,18,20,21,22,25,26,27,28,29,32,33,40,41): 6.89063024520874	 ([movie][link][no!][",][care][link][made][trailer,][seemed][though][movie][would][suspense][ever][toolbox.]["])
+v(1,4,5,9,19,23,24,30,31,34,35,37,38,39,42,43): 1.6989303827285767	 ([movie][made.][one][audience][case,][know][character.][great,][yet][really.][could][mystery][not.][" all][said][dvd's])
+v(1,4,5,9,18,19,23,25,26,27,28,29,32,33,35,38): 6.680364608764648	 ([movie][made.][one][audience][",][case,][know][trailer,][seemed][though][movie][would][suspense][ever][could][not.])
+v(18,24,25,26,27,28,29,30,31,32,33,34,37,39,42,43): 7.506413459777832	 ([",][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][mystery][" all][said][dvd's])
+v(0,2,3,6,7,8,10,11,12,13,14,15,16,17,20,21,22,36,40,41,44): 7.988188743591309	 ([overall][dreadful,][never][problems][movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][care][link][made][maybe][toolbox.]["][back,])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,19,23,35,36,38,44): 8.36566162109375	 ([overall][movie][dreadful,][never][made.][one][problems][audience][characters,][example,][attacked,][want][feel,][oh][god,][case,][know][could][maybe][not.][back,])
+v(0,2,3,6,10,11,12,13,14,15,16,24,30,31,34,36,37,39,42,43,44): 7.969108581542969	 ([overall][dreadful,][never][problems][characters,][example,][attacked,][want][feel,][oh][god,][character.][great,][yet][really.][maybe][mystery][" all][said][dvd's][back,])
+v(0,2,3,6,10,11,12,13,14,15,16,18,25,26,27,28,29,32,33,36,44): 8.129871368408203	 ([overall][dreadful,][never][problems][characters,][example,][attacked,][want][feel,][oh][god,][",][trailer,][seemed][though][movie][would][suspense][ever][maybe][back,])
+v(1,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,35,38,40,41): 5.392889976501465	 ([movie][made.][one][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][case,][care][link][made][know][could][not.][toolbox.]["])
+v(7,8,10,11,12,13,14,15,16,17,20,21,22,24,30,31,34,37,39,40,41,42,43): 1.6435960531234741	 ([movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][care][link][made][character.][great,][yet][really.][mystery][" all][toolbox.]["][said][dvd's])
+v(7,8,10,11,12,13,14,15,16,17,18,20,21,22,25,26,27,28,29,32,33,40,41): 7.405614852905273	 ([movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][care][link][made][trailer,][seemed][though][movie][would][suspense][ever][toolbox.]["])
+v(1,4,5,9,10,11,12,13,14,15,16,19,23,24,30,31,34,35,37,38,39,42,43): 4.481821060180664	 ([movie][made.][one][audience][characters,][example,][attacked,][want][feel,][oh][god,][case,][know][character.][great,][yet][really.][could][mystery][not.][" all][said][dvd's])
+v(1,4,5,9,10,11,12,13,14,15,16,18,19,23,25,26,27,28,29,32,33,35,38): 7.435479164123535	 ([movie][made.][one][audience][characters,][example,][attacked,][want][feel,][oh][god,][",][case,][know][trailer,][seemed][though][movie][would][suspense][ever][could][not.])
+v(10,11,12,13,14,15,16,18,24,25,26,27,28,29,30,31,32,33,34,37,39,42,43): 7.909049987792969	 ([characters,][example,][attacked,][want][feel,][oh][god,][",][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][mystery][" all][said][dvd's])
+v(0,1,2,3,4,5,6,7,8,9,17,19,20,21,22,23,35,36,38,40,41,44): 8.284278869628906	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][no!][case,][care][link][made][know][could][maybe][not.][toolbox.]["][back,])
+v(0,2,3,6,7,8,17,20,21,22,24,30,31,34,36,37,39,40,41,42,43,44): 7.8924360275268555	 ([overall][dreadful,][never][problems][movie][link][no!][care][link][made][character.][great,][yet][really.][maybe][mystery][" all][toolbox.]["][said][dvd's][back,])
+v(0,2,3,6,7,8,17,18,20,21,22,25,26,27,28,29,32,33,36,40,41,44): 7.988847732543945	 ([overall][dreadful,][never][problems][movie][link][no!][",][care][link][made][trailer,][seemed][though][movie][would][suspense][ever][maybe][toolbox.]["][back,])
+v(0,1,2,3,4,5,6,9,19,23,24,30,31,34,35,36,37,38,39,42,43,44): 8.3480863571167	 ([overall][movie][dreadful,][never][made.][one][problems][audience][case,][know][character.][great,][yet][really.][could][maybe][mystery][not.][" all][said][dvd's][back,])
+v(0,1,2,3,4,5,6,9,18,19,23,25,26,27,28,29,32,33,35,36,38,44): 8.316205978393555	 ([overall][movie][dreadful,][never][made.][one][problems][audience][",][case,][know][trailer,][seemed][though][movie][would][suspense][ever][could][maybe][not.][back,])
+v(0,2,3,6,18,24,25,26,27,28,29,30,31,32,33,34,36,37,39,42,43,44): 8.274919509887695	 ([overall][dreadful,][never][problems][",][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][maybe][mystery][" all][said][dvd's][back,])
+v(1,4,5,7,8,9,17,19,20,21,22,23,24,30,31,34,35,37,38,39,40,41,42,43): 0.8033252358436584	 ([movie][made.][one][movie][link][audience][no!][case,][care][link][made][know][character.][great,][yet][really.][could][mystery][not.][" all][toolbox.]["][said][dvd's])
+v(1,4,5,7,8,9,17,18,19,20,21,22,23,25,26,27,28,29,32,33,35,38,40,41): 6.821254730224609	 ([movie][made.][one][movie][link][audience][no!][",][case,][care][link][made][know][trailer,][seemed][though][movie][would][suspense][ever][could][not.][toolbox.]["])
+v(7,8,17,18,20,21,22,24,25,26,27,28,29,30,31,32,33,34,37,39,40,41,42,43): 7.618855953216553	 ([movie][link][no!][",][care][link][made][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][mystery][" all][toolbox.]["][said][dvd's])
+v(1,4,5,9,18,19,23,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,42,43): 7.525475025177002	 ([movie][made.][one][audience][",][case,][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][mystery][not.][" all][said][dvd's])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,35,36,38,40,41,44): 8.416582107543945	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][case,][care][link][made][know][could][maybe][not.][toolbox.]["][back,])
+v(0,2,3,6,7,8,10,11,12,13,14,15,16,17,20,21,22,24,30,31,34,36,37,39,40,41,42,43,44): 8.131702423095703	 ([overall][dreadful,][never][problems][movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][care][link][made][character.][great,][yet][really.][maybe][mystery][" all][toolbox.]["][said][dvd's][back,])
+v(0,2,3,6,7,8,10,11,12,13,14,15,16,17,18,20,21,22,25,26,27,28,29,32,33,36,40,41,44): 8.227599143981934	 ([overall][dreadful,][never][problems][movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][care][link][made][trailer,][seemed][though][movie][would][suspense][ever][maybe][toolbox.]["][back,])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,19,23,24,30,31,34,35,36,37,38,39,42,43,44): 8.471090316772461	 ([overall][movie][dreadful,][never][made.][one][problems][audience][characters,][example,][attacked,][want][feel,][oh][god,][case,][know][character.][great,][yet][really.][could][maybe][mystery][not.][" all][said][dvd's][back,])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,18,19,23,25,26,27,28,29,32,33,35,36,38,44): 8.440442085266113	 ([overall][movie][dreadful,][never][made.][one][problems][audience][characters,][example,][attacked,][want][feel,][oh][god,][",][case,][know][trailer,][seemed][though][movie][would][suspense][ever][could][maybe][not.][back,])
+v(0,2,3,6,10,11,12,13,14,15,16,18,24,25,26,27,28,29,30,31,32,33,34,36,37,39,42,43,44): 8.42905044555664	 ([overall][dreadful,][never][problems][characters,][example,][attacked,][want][feel,][oh][god,][",][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][maybe][mystery][" all][said][dvd's][back,])
+v(1,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,30,31,34,35,37,38,39,40,41,42,43): 2.9167585372924805	 ([movie][made.][one][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][case,][care][link][made][know][character.][great,][yet][really.][could][mystery][not.][" all][toolbox.]["][said][dvd's])
+v(1,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,32,33,35,38,40,41): 7.2599358558654785	 ([movie][made.][one][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][case,][care][link][made][know][trailer,][seemed][though][movie][would][suspense][ever][could][not.][toolbox.]["])
+v(7,8,10,11,12,13,14,15,16,17,18,20,21,22,24,25,26,27,28,29,30,31,32,33,34,37,39,40,41,42,43): 7.75199556350708	 ([movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][care][link][made][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][mystery][" all][toolbox.]["][said][dvd's])
+v(1,4,5,9,10,11,12,13,14,15,16,18,19,23,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,42,43): 7.830931663513184	 ([movie][made.][one][audience][characters,][example,][attacked,][want][feel,][oh][god,][",][case,][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][mystery][not.][" all][said][dvd's])
+v(0,1,2,3,4,5,6,7,8,9,17,19,20,21,22,23,24,30,31,34,35,36,37,38,39,40,41,42,43,44): 8.306472778320312	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][no!][case,][care][link][made][know][character.][great,][yet][really.][could][maybe][mystery][not.][" all][toolbox.]["][said][dvd's][back,])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,20,21,22,23,25,26,27,28,29,32,33,35,36,38,40,41,44): 8.353166580200195	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][no!][",][case,][care][link][made][know][trailer,][seemed][though][movie][would][suspense][ever][could][maybe][not.][toolbox.]["][back,])
+v(0,2,3,6,7,8,17,18,20,21,22,24,25,26,27,28,29,30,31,32,33,34,36,37,39,40,41,42,43,44): 8.359662055969238	 ([overall][dreadful,][never][problems][movie][link][no!][",][care][link][made][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][maybe][mystery][" all][toolbox.]["][said][dvd's][back,])
+v(0,1,2,3,4,5,6,9,18,19,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,42,43,44): 8.535083770751953	 ([overall][movie][dreadful,][never][made.][one][problems][audience][",][case,][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][maybe][mystery][not.][" all][said][dvd's][back,])
+v(1,4,5,7,8,9,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,40,41,42,43): 7.518294334411621	 ([movie][made.][one][movie][link][audience][no!][",][case,][care][link][made][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][mystery][not.][" all][toolbox.]["][said][dvd's])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,30,31,34,35,36,37,38,39,40,41,42,43,44): 8.381110191345215	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][case,][care][link][made][know][character.][great,][yet][really.][could][maybe][mystery][not.][" all][toolbox.]["][said][dvd's][back,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,32,33,35,36,38,40,41,44): 8.452590942382812	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][case,][care][link][made][know][trailer,][seemed][though][movie][would][suspense][ever][could][maybe][not.][toolbox.]["][back,])
+v(0,2,3,6,7,8,10,11,12,13,14,15,16,17,18,20,21,22,24,25,26,27,28,29,30,31,32,33,34,36,37,39,40,41,42,43,44): 8.433053016662598	 ([overall][dreadful,][never][problems][movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][care][link][made][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][maybe][mystery][" all][toolbox.]["][said][dvd's][back,])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,18,19,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,42,43,44): 8.594846725463867	 ([overall][movie][dreadful,][never][made.][one][problems][audience][characters,][example,][attacked,][want][feel,][oh][god,][",][case,][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][maybe][mystery][not.][" all][said][dvd's][back,])
+v(1,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,40,41,42,43): 7.583381652832031	 ([movie][made.][one][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][case,][care][link][made][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][mystery][not.][" all][toolbox.]["][said][dvd's])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44): 8.509431838989258	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][no!][",][case,][care][link][made][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][maybe][mystery][not.][" all][toolbox.]["][said][dvd's][back,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44): 8.561967849731445	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][case,][care][link][made][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][maybe][mystery][not.][" all][toolbox.]["][said][dvd's][back,])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,18,19,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,42,43,44): 9.309246063232422, EP: 1.0035443305969238	 ([overall][movie][dreadful,][never][made.][one][problems][audience][characters,][example,][attacked,][want][feel,][oh][god,][",][case,][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][maybe][mystery][not.][" all][said][dvd's][back,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44): 9.2763671875, EP: 1.0	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][case,][care][link][made][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][maybe][mystery][not.][" all][toolbox.]["][said][dvd's][back,])
+v(0,1,2,3,4,5,6,9,18,19,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,42,43,44): 9.249483108520508, EP: 0.997101902961731	 ([overall][movie][dreadful,][never][made.][one][problems][audience][",][case,][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][maybe][mystery][not.][" all][said][dvd's][back,])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44): 9.223831176757812, EP: 0.9943365454673767	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][no!][",][case,][care][link][made][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][maybe][mystery][not.][" all][toolbox.]["][said][dvd's][back,])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,19,23,24,30,31,34,35,36,37,38,39,42,43,44): 9.185489654541016, EP: 0.990203320980072	 ([overall][movie][dreadful,][never][made.][one][problems][audience][characters,][example,][attacked,][want][feel,][oh][god,][case,][know][character.][great,][yet][really.][could][maybe][mystery][not.][" all][said][dvd's][back,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,32,33,35,36,38,40,41,44): 9.166990280151367, EP: 0.988209068775177	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][case,][care][link][made][know][trailer,][seemed][though][movie][would][suspense][ever][could][maybe][not.][toolbox.]["][back,])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,18,19,23,25,26,27,28,29,32,33,35,36,38,44): 9.154841423034668, EP: 0.9868994355201721	 ([overall][movie][dreadful,][never][made.][one][problems][audience][characters,][example,][attacked,][want][feel,][oh][god,][",][case,][know][trailer,][seemed][though][movie][would][suspense][ever][could][maybe][not.][back,])
+v(0,2,3,6,7,8,10,11,12,13,14,15,16,17,18,20,21,22,24,25,26,27,28,29,30,31,32,33,34,36,37,39,40,41,42,43,44): 9.147452354431152, EP: 0.9861028790473938	 ([overall][dreadful,][never][problems][movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][care][link][made][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][maybe][mystery][" all][toolbox.]["][said][dvd's][back,])
+v(0,2,3,6,10,11,12,13,14,15,16,18,24,25,26,27,28,29,30,31,32,33,34,36,37,39,42,43,44): 9.143449783325195, EP: 0.9856714010238647	 ([overall][dreadful,][never][problems][characters,][example,][attacked,][want][feel,][oh][god,][",][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][maybe][mystery][" all][said][dvd's][back,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,35,36,38,40,41,44): 9.1309814453125, EP: 0.9843273162841797	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][case,][care][link][made][know][could][maybe][not.][toolbox.]["][back,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,30,31,34,35,36,37,38,39,40,41,42,43,44): 9.09550952911377, EP: 0.9805033802986145	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][case,][care][link][made][know][character.][great,][yet][really.][could][maybe][mystery][not.][" all][toolbox.]["][said][dvd's][back,])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,19,23,35,36,38,44): 9.080060958862305, EP: 0.9788380265235901	 ([overall][movie][dreadful,][never][made.][one][problems][audience][characters,][example,][attacked,][want][feel,][oh][god,][case,][know][could][maybe][not.][back,])
+v(0,2,3,6,7,8,17,18,20,21,22,24,25,26,27,28,29,30,31,32,33,34,36,37,39,40,41,42,43,44): 9.074061393737793, EP: 0.9781912565231323	 ([overall][dreadful,][never][problems][movie][link][no!][",][care][link][made][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][maybe][mystery][" all][toolbox.]["][said][dvd's][back,])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,20,21,22,23,25,26,27,28,29,32,33,35,36,38,40,41,44): 9.06756591796875, EP: 0.9774910807609558	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][no!][",][case,][care][link][made][know][trailer,][seemed][though][movie][would][suspense][ever][could][maybe][not.][toolbox.]["][back,])
+v(0,1,2,3,4,5,6,9,19,23,24,30,31,34,35,36,37,38,39,42,43,44): 9.062485694885254, EP: 0.9769433736801147	 ([overall][movie][dreadful,][never][made.][one][problems][audience][case,][know][character.][great,][yet][really.][could][maybe][mystery][not.][" all][said][dvd's][back,])
+v(0,1,2,3,4,5,6,9,18,19,23,25,26,27,28,29,32,33,35,36,38,44): 9.03060531616211, EP: 0.9735066890716553	 ([overall][movie][dreadful,][never][made.][one][problems][audience][",][case,][know][trailer,][seemed][though][movie][would][suspense][ever][could][maybe][not.][back,])
+v(0,1,2,3,4,5,6,7,8,9,17,19,20,21,22,23,24,30,31,34,35,36,37,38,39,40,41,42,43,44): 9.020872116088867, EP: 0.9724574089050293	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][no!][case,][care][link][made][know][character.][great,][yet][really.][could][maybe][mystery][not.][" all][toolbox.]["][said][dvd's][back,])
+v(0,1,2,3,4,5,6,7,8,9,17,19,20,21,22,23,35,36,38,40,41,44): 8.998678207397461, EP: 0.9700648784637451	 ([overall][movie][dreadful,][never][made.][one][problems][movie][link][audience][no!][case,][care][link][made][know][could][maybe][not.][toolbox.]["][back,])
+v(0,2,3,6,18,24,25,26,27,28,29,30,31,32,33,34,36,37,39,42,43,44): 8.98931884765625, EP: 0.9690559506416321	 ([overall][dreadful,][never][problems][",][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][maybe][mystery][" all][said][dvd's][back,])
+v(0,2,3,6,7,8,10,11,12,13,14,15,16,17,18,20,21,22,25,26,27,28,29,32,33,36,40,41,44): 8.941998481750488, EP: 0.9639548063278198	 ([overall][dreadful,][never][problems][movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][care][link][made][trailer,][seemed][though][movie][would][suspense][ever][maybe][toolbox.]["][back,])
+v(0,1,2,3,4,5,6,9,19,23,35,36,38,44): 8.88272476196289, EP: 0.9575650095939636	 ([overall][movie][dreadful,][never][made.][one][problems][audience][case,][know][could][maybe][not.][back,])
+v(0,2,3,6,7,8,10,11,12,13,14,15,16,17,20,21,22,24,30,31,34,36,37,39,40,41,42,43,44): 8.846101760864258, EP: 0.9536170363426208	 ([overall][dreadful,][never][problems][movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][care][link][made][character.][great,][yet][really.][maybe][mystery][" all][toolbox.]["][said][dvd's][back,])
+v(0,2,3,6,10,11,12,13,14,15,16,18,25,26,27,28,29,32,33,36,44): 8.844270706176758, EP: 0.9534196257591248	 ([overall][dreadful,][never][problems][characters,][example,][attacked,][want][feel,][oh][god,][",][trailer,][seemed][though][movie][would][suspense][ever][maybe][back,])
+v(0,2,3,6,7,8,17,18,20,21,22,25,26,27,28,29,32,33,36,40,41,44): 8.7032470703125, EP: 0.9382171630859375	 ([overall][dreadful,][never][problems][movie][link][no!][",][care][link][made][trailer,][seemed][though][movie][would][suspense][ever][maybe][toolbox.]["][back,])
+v(0,2,3,6,7,8,10,11,12,13,14,15,16,17,20,21,22,36,40,41,44): 8.702588081359863, EP: 0.9381461143493652	 ([overall][dreadful,][never][problems][movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][care][link][made][maybe][toolbox.]["][back,])
+v(0,2,3,6,10,11,12,13,14,15,16,24,30,31,34,36,37,39,42,43,44): 8.683507919311523, EP: 0.936089277267456	 ([overall][dreadful,][never][problems][characters,][example,][attacked,][want][feel,][oh][god,][character.][great,][yet][really.][maybe][mystery][" all][said][dvd's][back,])
+v(10,11,12,13,14,15,16,18,24,25,26,27,28,29,30,31,32,33,34,37,39,42,43): 8.623449325561523, EP: 0.9296149015426636	 ([characters,][example,][attacked,][want][feel,][oh][god,][",][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][mystery][" all][said][dvd's])
+v(0,2,3,6,7,8,17,20,21,22,24,30,31,34,36,37,39,40,41,42,43,44): 8.60683536529541, EP: 0.9278239011764526	 ([overall][dreadful,][never][problems][movie][link][no!][care][link][made][character.][great,][yet][really.][maybe][mystery][" all][toolbox.]["][said][dvd's][back,])
+v(1,4,5,9,10,11,12,13,14,15,16,18,19,23,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,42,43): 8.545331001281738, EP: 0.9211937189102173	 ([movie][made.][one][audience][characters,][example,][attacked,][want][feel,][oh][god,][",][case,][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][mystery][not.][" all][said][dvd's])
+v(0,2,3,6,18,25,26,27,28,29,32,33,36,44): 8.530025482177734, EP: 0.9195437431335449	 ([overall][dreadful,][never][problems][",][trailer,][seemed][though][movie][would][suspense][ever][maybe][back,])
+v(7,8,10,11,12,13,14,15,16,17,18,20,21,22,24,25,26,27,28,29,30,31,32,33,34,37,39,40,41,42,43): 8.466394424438477, EP: 0.9126842617988586	 ([movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][care][link][made][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][mystery][" all][toolbox.]["][said][dvd's])
+v(7,8,17,18,20,21,22,24,25,26,27,28,29,30,31,32,33,34,37,39,40,41,42,43): 8.333255767822266, EP: 0.8983318209648132	 ([movie][link][no!][",][care][link][made][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][mystery][" all][toolbox.]["][said][dvd's])
+v(0,2,3,6,24,30,31,34,36,37,39,42,43,44): 8.303455352783203, EP: 0.895119309425354	 ([overall][dreadful,][never][problems][character.][great,][yet][really.][maybe][mystery][" all][said][dvd's][back,])
+v(1,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,40,41,42,43): 8.297780990600586, EP: 0.8945075869560242	 ([movie][made.][one][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][case,][care][link][made][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][mystery][not.][" all][toolbox.]["][said][dvd's])
+v(0,2,3,6,7,8,17,20,21,22,36,40,41,44): 8.278581619262695, EP: 0.8924378752708435	 ([overall][dreadful,][never][problems][movie][link][no!][care][link][made][maybe][toolbox.]["][back,])
+v(1,4,5,9,18,19,23,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,42,43): 8.239873886108398, EP: 0.8882651925086975	 ([movie][made.][one][audience][",][case,][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][mystery][not.][" all][said][dvd's])
+v(0,2,3,6,10,11,12,13,14,15,16,36,44): 8.239567756652832, EP: 0.8882321715354919	 ([overall][dreadful,][never][problems][characters,][example,][attacked,][want][feel,][oh][god,][maybe][back,])
+v(1,4,5,7,8,9,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,40,41,42,43): 8.232693672180176, EP: 0.8874911665916443	 ([movie][made.][one][movie][link][audience][no!][",][case,][care][link][made][know][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][could][mystery][not.][" all][toolbox.]["][said][dvd's])
+v(18,24,25,26,27,28,29,30,31,32,33,34,37,39,42,43): 8.220812797546387, EP: 0.8862103819847107	 ([",][character.][trailer,][seemed][though][movie][would][great,][yet][suspense][ever][really.][mystery][" all][said][dvd's])
+v(1,4,5,9,10,11,12,13,14,15,16,18,19,23,25,26,27,28,29,32,33,35,38): 8.14987850189209, EP: 0.8785635828971863	 ([movie][made.][one][audience][characters,][example,][attacked,][want][feel,][oh][god,][",][case,][know][trailer,][seemed][though][movie][would][suspense][ever][could][not.])
+v(7,8,10,11,12,13,14,15,16,17,18,20,21,22,25,26,27,28,29,32,33,40,41): 8.120014190673828, EP: 0.8753442168235779	 ([movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][care][link][made][trailer,][seemed][though][movie][would][suspense][ever][toolbox.]["])
+v(10,11,12,13,14,15,16,18,25,26,27,28,29,32,33): 8.042767524719238, EP: 0.8670169711112976	 ([characters,][example,][attacked,][want][feel,][oh][god,][",][trailer,][seemed][though][movie][would][suspense][ever])
+v(1,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,32,33,35,38,40,41): 7.974335193634033, EP: 0.8596398830413818	 ([movie][made.][one][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][",][case,][care][link][made][know][trailer,][seemed][though][movie][would][suspense][ever][could][not.][toolbox.]["])
+v(7,8,17,18,20,21,22,25,26,27,28,29,32,33,40,41): 7.605029582977295, EP: 0.819828450679779	 ([movie][link][no!][",][care][link][made][trailer,][seemed][though][movie][would][suspense][ever][toolbox.]["])
+v(1,4,5,7,8,9,17,18,19,20,21,22,23,25,26,27,28,29,32,33,35,38,40,41): 7.535654067993164, EP: 0.8123496770858765	 ([movie][made.][one][movie][link][audience][no!][",][case,][care][link][made][know][trailer,][seemed][though][movie][would][suspense][ever][could][not.][toolbox.]["])
+v(0,2,3,6,36,44): 7.488182544708252, EP: 0.8072322010993958	 ([overall][dreadful,][never][problems][maybe][back,])
+v(1,4,5,9,18,19,23,25,26,27,28,29,32,33,35,38): 7.394763946533203, EP: 0.7971616387367249	 ([movie][made.][one][audience][",][case,][know][trailer,][seemed][though][movie][would][suspense][ever][could][not.])
+v(18,25,26,27,28,29,32,33): 7.041667938232422, EP: 0.7590975761413574	 ([",][trailer,][seemed][though][movie][would][suspense][ever])
+v(1,4,5,9,10,11,12,13,14,15,16,19,23,35,38): 6.320650100708008, EP: 0.68137127161026	 ([movie][made.][one][audience][characters,][example,][attacked,][want][feel,][oh][god,][case,][know][could][not.])
+v(1,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,35,38,40,41): 6.1072893142700195, EP: 0.6583707928657532	 ([movie][made.][one][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][case,][care][link][made][know][could][not.][toolbox.]["])
+v(1,4,5,7,8,9,17,19,20,21,22,23,35,38,40,41): 5.385237216949463, EP: 0.580532968044281	 ([movie][made.][one][movie][link][audience][no!][case,][care][link][made][know][could][not.][toolbox.]["])
+v(1,4,5,9,10,11,12,13,14,15,16,19,23,24,30,31,34,35,37,38,39,42,43): 5.196220397949219, EP: 0.5601568222045898	 ([movie][made.][one][audience][characters,][example,][attacked,][want][feel,][oh][god,][case,][know][character.][great,][yet][really.][could][mystery][not.][" all][said][dvd's])
+v(1,4,5,9,19,23,35,38): 4.6005096435546875, EP: 0.4959387183189392	 ([movie][made.][one][audience][case,][know][could][not.])
+v(7,8,10,11,12,13,14,15,16,17,20,21,22,40,41): 4.20046329498291, EP: 0.45281338691711426	 ([movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][care][link][made][toolbox.]["])
+v(1,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,30,31,34,35,37,38,39,40,41,42,43): 3.631157875061035, EP: 0.39144179224967957	 ([movie][made.][one][movie][link][audience][characters,][example,][attacked,][want][feel,][oh][god,][no!][case,][care][link][made][know][character.][great,][yet][really.][could][mystery][not.][" all][toolbox.]["][said][dvd's])
+v(7,8,17,20,21,22,40,41): 2.7251548767089844, EP: 0.29377391934394836	 ([movie][link][no!][care][link][made][toolbox.]["])
+v(1,4,5,9,19,23,24,30,31,34,35,37,38,39,42,43): 2.413329601287842, EP: 0.2601589262485504	 ([movie][made.][one][audience][case,][know][character.][great,][yet][really.][could][mystery][not.][" all][said][dvd's])
+v(7,8,10,11,12,13,14,15,16,17,20,21,22,24,30,31,34,37,39,40,41,42,43): 2.3579955101013184, EP: 0.25419384241104126	 ([movie][link][characters,][example,][attacked,][want][feel,][oh][god,][no!][care][link][made][character.][great,][yet][really.][mystery][" all][toolbox.]["][said][dvd's])
+v(10,11,12,13,14,15,16,24,30,31,34,37,39,42,43): 2.1505322456359863, EP: 0.23182913661003113	 ([characters,][example,][attacked,][want][feel,][oh][god,][character.][great,][yet][really.][mystery][" all][said][dvd's])
+v(10,11,12,13,14,15,16): 1.961458444595337, EP: 0.2114468365907669	 ([characters,][example,][attacked,][want][feel,][oh][god,])
+v(1,4,5,7,8,9,17,19,20,21,22,23,24,30,31,34,35,37,38,39,40,41,42,43): 1.5177245140075684, EP: 0.16361194849014282	 ([movie][made.][one][movie][link][audience][no!][case,][care][link][made][know][character.][great,][yet][really.][could][mystery][not.][" all][toolbox.]["][said][dvd's])
+v(7,8,17,20,21,22,24,30,31,34,37,39,40,41,42,43): 1.0986669063568115, EP: 0.11843719333410263	 ([movie][link][no!][care][link][made][character.][great,][yet][really.][mystery][" all][toolbox.]["][said][dvd's])
+v(24,30,31,34,37,39,42,43): -0.3270984888076782, EP: -0.03526148572564125	 ([character.][great,][yet][really.][mystery][" all][said][dvd's])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

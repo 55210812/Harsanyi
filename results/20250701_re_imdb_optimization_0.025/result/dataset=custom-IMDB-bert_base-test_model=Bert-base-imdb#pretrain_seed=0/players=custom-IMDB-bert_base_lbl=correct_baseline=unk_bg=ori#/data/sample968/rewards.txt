@@ -1,0 +1,95 @@
+---------- Players ----------
+Player 0: john
+Player 1: candy's
+Player 2: performance
+Player 3: upon
+Player 4: crime
+Player 5: possibly
+Player 6: best
+Player 7: ever.
+Player 8: favourite
+Player 9: movie
+Player 10: since
+Player 11: came
+Player 12: out.
+Player 13: spent
+Player 14: 5
+Player 15: years
+Player 16: searching
+Player 17: it.
+Player 18: that's
+Player 19: good
+Player 20: is.
+Player 21: disagree,
+Player 22: well,
+Player 23: that's
+Player 24: opinion.
+Player 25: enjoy
+Player 26: movie.
+---------- Rewards ----------
+v(): 2.374892473220825	 ([])
+v(3,5,7,18): 6.380616188049316	 ([upon][possibly][ever.][that's])
+v(2,4,6,8,9): 5.393165588378906	 ([performance][crime][best][favourite][movie])
+v(10,11,12,13,14,15,16): 3.057868003845215	 ([since][came][out.][spent][5][years][searching])
+v(20,21,22,23,24,25): 7.482911109924316	 ([is.][disagree,][well,][that's][opinion.][enjoy])
+v(0,1,17,19,26): 6.794503211975098	 ([john][candy's][it.][good][movie.])
+v(2,3,4,5,6,7,8,9,18): 6.478573799133301	 ([performance][upon][crime][possibly][best][ever.][favourite][movie][that's])
+v(3,5,7,10,11,12,13,14,15,16,18): 6.005067825317383	 ([upon][possibly][ever.][since][came][out.][spent][5][years][searching][that's])
+v(3,5,7,18,20,21,22,23,24,25): 7.850366115570068	 ([upon][possibly][ever.][that's][is.][disagree,][well,][that's][opinion.][enjoy])
+v(0,1,3,5,7,17,18,19,26): 6.822818279266357	 ([john][candy's][upon][possibly][ever.][it.][that's][good][movie.])
+v(2,4,6,8,9,10,11,12,13,14,15,16): 5.153305530548096	 ([performance][crime][best][favourite][movie][since][came][out.][spent][5][years][searching])
+v(2,4,6,8,9,20,21,22,23,24,25): 6.172213554382324	 ([performance][crime][best][favourite][movie][is.][disagree,][well,][that's][opinion.][enjoy])
+v(0,1,2,4,6,8,9,17,19,26): 5.176995277404785	 ([john][candy's][performance][crime][best][favourite][movie][it.][good][movie.])
+v(10,11,12,13,14,15,16,20,21,22,23,24,25): 6.952369689941406	 ([since][came][out.][spent][5][years][searching][is.][disagree,][well,][that's][opinion.][enjoy])
+v(0,1,10,11,12,13,14,15,16,17,19,26): 5.86128568649292	 ([john][candy's][since][came][out.][spent][5][years][searching][it.][good][movie.])
+v(0,1,17,19,20,21,22,23,24,25,26): 7.530114650726318	 ([john][candy's][it.][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18): 5.724184989929199	 ([performance][upon][crime][possibly][best][ever.][favourite][movie][since][came][out.][spent][5][years][searching][that's])
+v(2,3,4,5,6,7,8,9,18,20,21,22,23,24,25): 6.710722923278809	 ([performance][upon][crime][possibly][best][ever.][favourite][movie][that's][is.][disagree,][well,][that's][opinion.][enjoy])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,26): 5.544649124145508	 ([john][candy's][performance][upon][crime][possibly][best][ever.][favourite][movie][it.][that's][good][movie.])
+v(3,5,7,10,11,12,13,14,15,16,18,20,21,22,23,24,25): 7.8881611824035645	 ([upon][possibly][ever.][since][came][out.][spent][5][years][searching][that's][is.][disagree,][well,][that's][opinion.][enjoy])
+v(0,1,3,5,7,10,11,12,13,14,15,16,17,18,19,26): 6.672603607177734	 ([john][candy's][upon][possibly][ever.][since][came][out.][spent][5][years][searching][it.][that's][good][movie.])
+v(0,1,3,5,7,17,18,19,20,21,22,23,24,25,26): 7.682287693023682	 ([john][candy's][upon][possibly][ever.][it.][that's][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(2,4,6,8,9,10,11,12,13,14,15,16,20,21,22,23,24,25): 6.196490287780762	 ([performance][crime][best][favourite][movie][since][came][out.][spent][5][years][searching][is.][disagree,][well,][that's][opinion.][enjoy])
+v(0,1,2,4,6,8,9,10,11,12,13,14,15,16,17,19,26): 4.636163711547852	 ([john][candy's][performance][crime][best][favourite][movie][since][came][out.][spent][5][years][searching][it.][good][movie.])
+v(0,1,2,4,6,8,9,17,19,20,21,22,23,24,25,26): 4.6029276847839355	 ([john][candy's][performance][crime][best][favourite][movie][it.][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(0,1,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26): 7.199321269989014	 ([john][candy's][since][came][out.][spent][5][years][searching][it.][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,20,21,22,23,24,25): 6.564579486846924	 ([performance][upon][crime][possibly][best][ever.][favourite][movie][since][came][out.][spent][5][years][searching][that's][is.][disagree,][well,][that's][opinion.][enjoy])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,26): 5.850409984588623	 ([john][candy's][performance][upon][crime][possibly][best][ever.][favourite][movie][since][came][out.][spent][5][years][searching][it.][that's][good][movie.])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,20,21,22,23,24,25,26): 7.3811354637146	 ([john][candy's][performance][upon][crime][possibly][best][ever.][favourite][movie][it.][that's][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(0,1,3,5,7,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 7.599856376647949	 ([john][candy's][upon][possibly][ever.][since][came][out.][spent][5][years][searching][it.][that's][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(0,1,2,4,6,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26): 5.130218982696533	 ([john][candy's][performance][crime][best][favourite][movie][since][came][out.][spent][5][years][searching][it.][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 7.043823719024658	 ([john][candy's][performance][upon][crime][possibly][best][ever.][favourite][movie][since][came][out.][spent][5][years][searching][it.][that's][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+---------- Rewards-v() ----------
+v(3,5,7,10,11,12,13,14,15,16,18,20,21,22,23,24,25): 5.51326847076416, EP: 1.1808416843414307	 ([upon][possibly][ever.][since][came][out.][spent][5][years][searching][that's][is.][disagree,][well,][that's][opinion.][enjoy])
+v(3,5,7,18,20,21,22,23,24,25): 5.475473403930664, EP: 1.1727466583251953	 ([upon][possibly][ever.][that's][is.][disagree,][well,][that's][opinion.][enjoy])
+v(0,1,3,5,7,17,18,19,20,21,22,23,24,25,26): 5.307394981384277, EP: 1.1367473602294922	 ([john][candy's][upon][possibly][ever.][it.][that's][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(0,1,3,5,7,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 5.224964141845703, EP: 1.1190922260284424	 ([john][candy's][upon][possibly][ever.][since][came][out.][spent][5][years][searching][it.][that's][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(0,1,17,19,20,21,22,23,24,25,26): 5.155221939086914, EP: 1.1041547060012817	 ([john][candy's][it.][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(20,21,22,23,24,25): 5.10801887512207, EP: 1.09404456615448	 ([is.][disagree,][well,][that's][opinion.][enjoy])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,20,21,22,23,24,25,26): 5.006242752075195, EP: 1.0722460746765137	 ([john][candy's][performance][upon][crime][possibly][best][ever.][favourite][movie][it.][that's][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(0,1,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26): 4.824428558349609, EP: 1.0333046913146973	 ([john][candy's][since][came][out.][spent][5][years][searching][it.][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 4.668931007385254, EP: 1.0	 ([john][candy's][performance][upon][crime][possibly][best][ever.][favourite][movie][since][came][out.][spent][5][years][searching][it.][that's][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(10,11,12,13,14,15,16,20,21,22,23,24,25): 4.57747745513916, EP: 0.9804123044013977	 ([since][came][out.][spent][5][years][searching][is.][disagree,][well,][that's][opinion.][enjoy])
+v(0,1,3,5,7,17,18,19,26): 4.447925567626953, EP: 0.9526646733283997	 ([john][candy's][upon][possibly][ever.][it.][that's][good][movie.])
+v(0,1,17,19,26): 4.419610977172852, EP: 0.9466001987457275	 ([john][candy's][it.][good][movie.])
+v(2,3,4,5,6,7,8,9,18,20,21,22,23,24,25): 4.3358306884765625, EP: 0.9286559820175171	 ([performance][upon][crime][possibly][best][ever.][favourite][movie][that's][is.][disagree,][well,][that's][opinion.][enjoy])
+v(0,1,3,5,7,10,11,12,13,14,15,16,17,18,19,26): 4.297711372375488, EP: 0.9204915165901184	 ([john][candy's][upon][possibly][ever.][since][came][out.][spent][5][years][searching][it.][that's][good][movie.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,20,21,22,23,24,25): 4.1896867752075195, EP: 0.8973546028137207	 ([performance][upon][crime][possibly][best][ever.][favourite][movie][since][came][out.][spent][5][years][searching][that's][is.][disagree,][well,][that's][opinion.][enjoy])
+v(2,3,4,5,6,7,8,9,18): 4.103681564331055, EP: 0.878933846950531	 ([performance][upon][crime][possibly][best][ever.][favourite][movie][that's])
+v(3,5,7,18): 4.00572395324707, EP: 0.8579531311988831	 ([upon][possibly][ever.][that's])
+v(2,4,6,8,9,10,11,12,13,14,15,16,20,21,22,23,24,25): 3.8215978145599365, EP: 0.8185166716575623	 ([performance][crime][best][favourite][movie][since][came][out.][spent][5][years][searching][is.][disagree,][well,][that's][opinion.][enjoy])
+v(2,4,6,8,9,20,21,22,23,24,25): 3.797321081161499, EP: 0.8133170008659363	 ([performance][crime][best][favourite][movie][is.][disagree,][well,][that's][opinion.][enjoy])
+v(3,5,7,10,11,12,13,14,15,16,18): 3.6301753520965576, EP: 0.7775174379348755	 ([upon][possibly][ever.][since][came][out.][spent][5][years][searching][that's])
+v(0,1,10,11,12,13,14,15,16,17,19,26): 3.4863932132720947, EP: 0.7467219233512878	 ([john][candy's][since][came][out.][spent][5][years][searching][it.][good][movie.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,26): 3.475517511367798, EP: 0.7443925738334656	 ([john][candy's][performance][upon][crime][possibly][best][ever.][favourite][movie][since][came][out.][spent][5][years][searching][it.][that's][good][movie.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18): 3.349292516708374, EP: 0.7173574566841125	 ([performance][upon][crime][possibly][best][ever.][favourite][movie][since][came][out.][spent][5][years][searching][that's])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,26): 3.1697566509246826, EP: 0.6789041757583618	 ([john][candy's][performance][upon][crime][possibly][best][ever.][favourite][movie][it.][that's][good][movie.])
+v(2,4,6,8,9): 3.018273115158081, EP: 0.64645916223526	 ([performance][crime][best][favourite][movie])
+v(0,1,2,4,6,8,9,17,19,26): 2.80210280418396, EP: 0.6001594066619873	 ([john][candy's][performance][crime][best][favourite][movie][it.][good][movie.])
+v(2,4,6,8,9,10,11,12,13,14,15,16): 2.7784130573272705, EP: 0.5950855016708374	 ([performance][crime][best][favourite][movie][since][came][out.][spent][5][years][searching])
+v(0,1,2,4,6,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26): 2.755326509475708, EP: 0.5901407599449158	 ([john][candy's][performance][crime][best][favourite][movie][since][came][out.][spent][5][years][searching][it.][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(0,1,2,4,6,8,9,10,11,12,13,14,15,16,17,19,26): 2.2612712383270264, EP: 0.484323114156723	 ([john][candy's][performance][crime][best][favourite][movie][since][came][out.][spent][5][years][searching][it.][good][movie.])
+v(0,1,2,4,6,8,9,17,19,20,21,22,23,24,25,26): 2.2280352115631104, EP: 0.4772045612335205	 ([john][candy's][performance][crime][best][favourite][movie][it.][good][is.][disagree,][well,][that's][opinion.][enjoy][movie.])
+v(10,11,12,13,14,15,16): 0.6829755306243896, EP: 0.1462809145450592	 ([since][came][out.][spent][5][years][searching])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

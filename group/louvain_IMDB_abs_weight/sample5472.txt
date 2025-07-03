@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['27', '25', '32', '29', '30', '33', '24', '26', '28', '31']: ["can't", 'even', 'movie.', 'someone', 'really', 'even', 'value', 'thriller.', 'believe', 'made']: 平均边权 0.6477
+社区 2: ['12', '48', '46', '49', '47']: ['director', 'movie', 'director.', 'making,', 'sense']: 平均边权 0.9614
+社区 3: ['39', '11', '50', '41', '51', '40']: ['feeling', 'sucks.', 'utter', 'awful.', 'disappointment', 'leaves']: 平均边权 1.0109
+社区 4: ['56', '61', '58', '55', '53', '42', '59', '60']: ['psychopath', 'scenes', 'reels', 'scenes', 'moments.', 'sure,', 'badly', 'shot']: 平均边权 0.5666
+社区 5: ['57', '0', '15', '62', '52', '54']: ['wasting', 'seen', 'happened', 'showing', 'thriller', 'showing']: 平均边权 0.5388
+社区 6: ['38', '20', '37', '35', '34', '21', '36']: ['line', 'movie', 'story', 'acting', 'though', 'lacks', 'ok,']: 平均边权 0.4360
+社区 7: ['2', '8', '5', '19', '13', '18', '4', '3', '9', '1', '10', '6', '7']: ['good', 'darker', 'including', 'junk.', 'seems', 'produce', 'movies', 'korean', 'overtone,', 'many', 'one', 'thrillers', 'movies']: 平均边权 0.4009
+社区 8: ['45', '16', '23', '22', '44', '43', '14', '17']: ['movies', 'get', 'entertainment', 'sort', 'see', 'going', 'sadist,', 'someone']: 平均边权 0.3551

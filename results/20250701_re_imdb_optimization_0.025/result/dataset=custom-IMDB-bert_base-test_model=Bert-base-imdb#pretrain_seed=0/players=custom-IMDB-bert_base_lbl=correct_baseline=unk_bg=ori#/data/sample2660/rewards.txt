@@ -1,0 +1,158 @@
+---------- Players ----------
+Player 0: good
+Player 1: movie.
+Player 2: one
+Player 3: would
+Player 4: rent
+Player 5: again.
+Player 6: like
+Player 7: normal
+Player 8: superhero
+Player 9: movie.
+Player 10: movie
+Player 11: blends
+Player 12: comedy,
+Player 13: action
+Player 14: great
+Player 15: special
+Player 16: effects.
+Player 17: even
+Player 18: person
+Player 19: lot
+Player 20: voices
+Player 21: simpsons.
+Player 22: william
+Player 23: h.
+Player 24: macy
+Player 25: bomb.
+---------- Rewards ----------
+v(): 0.6988658308982849	 ([])
+v(12,13): 1.942657470703125	 ([comedy,][action])
+v(0,2,3,20,25): 5.298187732696533	 ([good][one][would][voices][bomb.])
+v(1,4,5,10,11,18): 4.458412170410156	 ([movie.][rent][again.][movie][blends][person])
+v(14,15): 3.932149887084961	 ([great][special])
+v(6,8,16): 2.0002894401550293	 ([like][superhero][effects.])
+v(7,9,17,19,21,22,23,24): 5.053353309631348	 ([normal][movie.][even][lot][simpsons.][william][h.][macy])
+v(0,2,3,12,13,20,25): 6.680477142333984	 ([good][one][would][comedy,][action][voices][bomb.])
+v(1,4,5,10,11,12,13,18): 6.084803581237793	 ([movie.][rent][again.][movie][blends][comedy,][action][person])
+v(12,13,14,15): 3.6885173320770264	 ([comedy,][action][great][special])
+v(6,8,12,13,16): 3.6934103965759277	 ([like][superhero][comedy,][action][effects.])
+v(7,9,12,13,17,19,21,22,23,24): 7.316450119018555	 ([normal][movie.][comedy,][action][even][lot][simpsons.][william][h.][macy])
+v(0,1,2,3,4,5,10,11,18,20,25): 6.435201644897461	 ([good][movie.][one][would][rent][again.][movie][blends][person][voices][bomb.])
+v(0,2,3,14,15,20,25): 6.610620498657227	 ([good][one][would][great][special][voices][bomb.])
+v(0,2,3,6,8,16,20,25): 6.982738018035889	 ([good][one][would][like][superhero][effects.][voices][bomb.])
+v(0,2,3,7,9,17,19,20,21,22,23,24,25): 7.456549644470215	 ([good][one][would][normal][movie.][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(1,4,5,10,11,14,15,18): 6.408719062805176	 ([movie.][rent][again.][movie][blends][great][special][person])
+v(1,4,5,6,8,10,11,16,18): 7.014669895172119	 ([movie.][rent][again.][like][superhero][movie][blends][effects.][person])
+v(1,4,5,7,9,10,11,17,18,19,21,22,23,24): 6.574810028076172	 ([movie.][rent][again.][normal][movie.][movie][blends][even][person][lot][simpsons.][william][h.][macy])
+v(6,8,14,15,16): 3.4233572483062744	 ([like][superhero][great][special][effects.])
+v(7,9,14,15,17,19,21,22,23,24): 5.939815521240234	 ([normal][movie.][great][special][even][lot][simpsons.][william][h.][macy])
+v(6,7,8,9,16,17,19,21,22,23,24): 5.659167289733887	 ([like][normal][superhero][movie.][effects.][even][lot][simpsons.][william][h.][macy])
+v(0,1,2,3,4,5,10,11,12,13,18,20,25): 7.581721305847168	 ([good][movie.][one][would][rent][again.][movie][blends][comedy,][action][person][voices][bomb.])
+v(0,2,3,12,13,14,15,20,25): 6.341479301452637	 ([good][one][would][comedy,][action][great][special][voices][bomb.])
+v(0,2,3,6,8,12,13,16,20,25): 7.45613956451416	 ([good][one][would][like][superhero][comedy,][action][effects.][voices][bomb.])
+v(0,2,3,7,9,12,13,17,19,20,21,22,23,24,25): 7.847833633422852	 ([good][one][would][normal][movie.][comedy,][action][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(1,4,5,10,11,12,13,14,15,18): 6.446938991546631	 ([movie.][rent][again.][movie][blends][comedy,][action][great][special][person])
+v(1,4,5,6,8,10,11,12,13,16,18): 7.644530296325684	 ([movie.][rent][again.][like][superhero][movie][blends][comedy,][action][effects.][person])
+v(1,4,5,7,9,10,11,12,13,17,18,19,21,22,23,24): 7.416845321655273	 ([movie.][rent][again.][normal][movie.][movie][blends][comedy,][action][even][person][lot][simpsons.][william][h.][macy])
+v(6,8,12,13,14,15,16): 5.237505912780762	 ([like][superhero][comedy,][action][great][special][effects.])
+v(7,9,12,13,14,15,17,19,21,22,23,24): 6.7531890869140625	 ([normal][movie.][comedy,][action][great][special][even][lot][simpsons.][william][h.][macy])
+v(6,7,8,9,12,13,16,17,19,21,22,23,24): 7.598843574523926	 ([like][normal][superhero][movie.][comedy,][action][effects.][even][lot][simpsons.][william][h.][macy])
+v(0,1,2,3,4,5,10,11,14,15,18,20,25): 6.340109348297119	 ([good][movie.][one][would][rent][again.][movie][blends][great][special][person][voices][bomb.])
+v(0,1,2,3,4,5,6,8,10,11,16,18,20,25): 7.703507423400879	 ([good][movie.][one][would][rent][again.][like][superhero][movie][blends][effects.][person][voices][bomb.])
+v(0,1,2,3,4,5,7,9,10,11,17,18,19,20,21,22,23,24,25): 7.361188888549805	 ([good][movie.][one][would][rent][again.][normal][movie.][movie][blends][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,2,3,6,8,14,15,16,20,25): 6.908495903015137	 ([good][one][would][like][superhero][great][special][effects.][voices][bomb.])
+v(0,2,3,7,9,14,15,17,19,20,21,22,23,24,25): 7.078854560852051	 ([good][one][would][normal][movie.][great][special][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,2,3,6,7,8,9,16,17,19,20,21,22,23,24,25): 7.526581764221191	 ([good][one][would][like][normal][superhero][movie.][effects.][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(1,4,5,6,8,10,11,14,15,16,18): 6.968411445617676	 ([movie.][rent][again.][like][superhero][movie][blends][great][special][effects.][person])
+v(1,4,5,7,9,10,11,14,15,17,18,19,21,22,23,24): 6.205709457397461	 ([movie.][rent][again.][normal][movie.][movie][blends][great][special][even][person][lot][simpsons.][william][h.][macy])
+v(1,4,5,6,7,8,9,10,11,16,17,18,19,21,22,23,24): 6.87359619140625	 ([movie.][rent][again.][like][normal][superhero][movie.][movie][blends][effects.][even][person][lot][simpsons.][william][h.][macy])
+v(6,7,8,9,14,15,16,17,19,21,22,23,24): 6.671377182006836	 ([like][normal][superhero][movie.][great][special][effects.][even][lot][simpsons.][william][h.][macy])
+v(0,1,2,3,4,5,10,11,12,13,14,15,18,20,25): 7.123167991638184	 ([good][movie.][one][would][rent][again.][movie][blends][comedy,][action][great][special][person][voices][bomb.])
+v(0,1,2,3,4,5,6,8,10,11,12,13,16,18,20,25): 7.928598880767822	 ([good][movie.][one][would][rent][again.][like][superhero][movie][blends][comedy,][action][effects.][person][voices][bomb.])
+v(0,1,2,3,4,5,7,9,10,11,12,13,17,18,19,20,21,22,23,24,25): 7.690338611602783	 ([good][movie.][one][would][rent][again.][normal][movie.][movie][blends][comedy,][action][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,2,3,6,8,12,13,14,15,16,20,25): 7.3916449546813965	 ([good][one][would][like][superhero][comedy,][action][great][special][effects.][voices][bomb.])
+v(0,2,3,7,9,12,13,14,15,17,19,20,21,22,23,24,25): 7.6149001121521	 ([good][one][would][normal][movie.][comedy,][action][great][special][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,2,3,6,7,8,9,12,13,16,17,19,20,21,22,23,24,25): 7.966230869293213	 ([good][one][would][like][normal][superhero][movie.][comedy,][action][effects.][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(1,4,5,6,8,10,11,12,13,14,15,16,18): 7.494046688079834	 ([movie.][rent][again.][like][superhero][movie][blends][comedy,][action][great][special][effects.][person])
+v(1,4,5,7,9,10,11,12,13,14,15,17,18,19,21,22,23,24): 6.7939910888671875	 ([movie.][rent][again.][normal][movie.][movie][blends][comedy,][action][great][special][even][person][lot][simpsons.][william][h.][macy])
+v(1,4,5,6,7,8,9,10,11,12,13,16,17,18,19,21,22,23,24): 7.606250762939453	 ([movie.][rent][again.][like][normal][superhero][movie.][movie][blends][comedy,][action][effects.][even][person][lot][simpsons.][william][h.][macy])
+v(6,7,8,9,12,13,14,15,16,17,19,21,22,23,24): 7.741810321807861	 ([like][normal][superhero][movie.][comedy,][action][great][special][effects.][even][lot][simpsons.][william][h.][macy])
+v(0,1,2,3,4,5,6,8,10,11,14,15,16,18,20,25): 7.566156387329102	 ([good][movie.][one][would][rent][again.][like][superhero][movie][blends][great][special][effects.][person][voices][bomb.])
+v(0,1,2,3,4,5,7,9,10,11,14,15,17,18,19,20,21,22,23,24,25): 6.94399356842041	 ([good][movie.][one][would][rent][again.][normal][movie.][movie][blends][great][special][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,16,17,18,19,20,21,22,23,24,25): 7.690008640289307	 ([good][movie.][one][would][rent][again.][like][normal][superhero][movie.][movie][blends][effects.][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,2,3,6,7,8,9,14,15,16,17,19,20,21,22,23,24,25): 7.487942695617676	 ([good][one][would][like][normal][superhero][movie.][great][special][effects.][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(1,4,5,6,7,8,9,10,11,14,15,16,17,18,19,21,22,23,24): 6.787336826324463	 ([movie.][rent][again.][like][normal][superhero][movie.][movie][blends][great][special][effects.][even][person][lot][simpsons.][william][h.][macy])
+v(0,1,2,3,4,5,6,8,10,11,12,13,14,15,16,18,20,25): 7.773409366607666	 ([good][movie.][one][would][rent][again.][like][superhero][movie][blends][comedy,][action][great][special][effects.][person][voices][bomb.])
+v(0,1,2,3,4,5,7,9,10,11,12,13,14,15,17,18,19,20,21,22,23,24,25): 7.402295112609863	 ([good][movie.][one][would][rent][again.][normal][movie.][movie][blends][comedy,][action][great][special][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,16,17,18,19,20,21,22,23,24,25): 7.845053672790527	 ([good][movie.][one][would][rent][again.][like][normal][superhero][movie.][movie][blends][comedy,][action][effects.][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,2,3,6,7,8,9,12,13,14,15,16,17,19,20,21,22,23,24,25): 7.866900444030762	 ([good][one][would][like][normal][superhero][movie.][comedy,][action][great][special][effects.][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24): 7.402335166931152	 ([movie.][rent][again.][like][normal][superhero][movie.][movie][blends][comedy,][action][great][special][effects.][even][person][lot][simpsons.][william][h.][macy])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25): 7.481738090515137	 ([good][movie.][one][would][rent][again.][like][normal][superhero][movie.][movie][blends][great][special][effects.][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.746237754821777	 ([good][movie.][one][would][rent][again.][like][normal][superhero][movie.][movie][blends][comedy,][action][great][special][effects.][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+---------- Rewards-v() ----------
+v(0,2,3,6,7,8,9,12,13,16,17,19,20,21,22,23,24,25): 7.267364978790283, EP: 1.0312163829803467	 ([good][one][would][like][normal][superhero][movie.][comedy,][action][effects.][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,1,2,3,4,5,6,8,10,11,12,13,16,18,20,25): 7.229732990264893, EP: 1.025876522064209	 ([good][movie.][one][would][rent][again.][like][superhero][movie][blends][comedy,][action][effects.][person][voices][bomb.])
+v(0,2,3,6,7,8,9,12,13,14,15,16,17,19,20,21,22,23,24,25): 7.168034553527832, EP: 1.01712167263031	 ([good][one][would][like][normal][superhero][movie.][comedy,][action][great][special][effects.][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,2,3,7,9,12,13,17,19,20,21,22,23,24,25): 7.148967742919922, EP: 1.0144160985946655	 ([good][one][would][normal][movie.][comedy,][action][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,16,17,18,19,20,21,22,23,24,25): 7.146187782287598, EP: 1.014021635055542	 ([good][movie.][one][would][rent][again.][like][normal][superhero][movie.][movie][blends][comedy,][action][effects.][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,1,2,3,4,5,6,8,10,11,12,13,14,15,16,18,20,25): 7.074543476104736, EP: 1.003855586051941	 ([good][movie.][one][would][rent][again.][like][superhero][movie][blends][comedy,][action][great][special][effects.][person][voices][bomb.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.047371864318848, EP: 1.0	 ([good][movie.][one][would][rent][again.][like][normal][superhero][movie.][movie][blends][comedy,][action][great][special][effects.][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(6,7,8,9,12,13,14,15,16,17,19,21,22,23,24): 7.042944431304932, EP: 0.9993717670440674	 ([like][normal][superhero][movie.][comedy,][action][great][special][effects.][even][lot][simpsons.][william][h.][macy])
+v(0,1,2,3,4,5,6,8,10,11,16,18,20,25): 7.004641532897949, EP: 0.9939367175102234	 ([good][movie.][one][would][rent][again.][like][superhero][movie][blends][effects.][person][voices][bomb.])
+v(0,1,2,3,4,5,7,9,10,11,12,13,17,18,19,20,21,22,23,24,25): 6.9914727210998535, EP: 0.9920681118965149	 ([good][movie.][one][would][rent][again.][normal][movie.][movie][blends][comedy,][action][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,16,17,18,19,20,21,22,23,24,25): 6.991142749786377, EP: 0.9920212626457214	 ([good][movie.][one][would][rent][again.][like][normal][superhero][movie.][movie][blends][effects.][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(1,4,5,6,8,10,11,12,13,16,18): 6.945664405822754, EP: 0.9855680465698242	 ([movie.][rent][again.][like][superhero][movie][blends][comedy,][action][effects.][person])
+v(0,2,3,7,9,12,13,14,15,17,19,20,21,22,23,24,25): 6.91603422164917, EP: 0.9813635945320129	 ([good][one][would][normal][movie.][comedy,][action][great][special][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(1,4,5,6,7,8,9,10,11,12,13,16,17,18,19,21,22,23,24): 6.907384872436523, EP: 0.9801362752914429	 ([movie.][rent][again.][like][normal][superhero][movie.][movie][blends][comedy,][action][effects.][even][person][lot][simpsons.][william][h.][macy])
+v(6,7,8,9,12,13,16,17,19,21,22,23,24): 6.899977684020996, EP: 0.9790852069854736	 ([like][normal][superhero][movie.][comedy,][action][effects.][even][lot][simpsons.][william][h.][macy])
+v(0,1,2,3,4,5,10,11,12,13,18,20,25): 6.882855415344238, EP: 0.9766556024551392	 ([good][movie.][one][would][rent][again.][movie][blends][comedy,][action][person][voices][bomb.])
+v(0,1,2,3,4,5,6,8,10,11,14,15,16,18,20,25): 6.867290496826172, EP: 0.9744470119476318	 ([good][movie.][one][would][rent][again.][like][superhero][movie][blends][great][special][effects.][person][voices][bomb.])
+v(0,2,3,6,7,8,9,16,17,19,20,21,22,23,24,25): 6.827715873718262, EP: 0.968831479549408	 ([good][one][would][like][normal][superhero][movie.][effects.][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(1,4,5,6,8,10,11,12,13,14,15,16,18): 6.795180797576904, EP: 0.9642148613929749	 ([movie.][rent][again.][like][superhero][movie][blends][comedy,][action][great][special][effects.][person])
+v(0,2,3,6,7,8,9,14,15,16,17,19,20,21,22,23,24,25): 6.789076805114746, EP: 0.9633487462997437	 ([good][one][would][like][normal][superhero][movie.][great][special][effects.][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25): 6.782872200012207, EP: 0.9624683260917664	 ([good][movie.][one][would][rent][again.][like][normal][superhero][movie.][movie][blends][great][special][effects.][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,2,3,7,9,17,19,20,21,22,23,24,25): 6.757683753967285, EP: 0.9588941931724548	 ([good][one][would][normal][movie.][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,2,3,6,8,12,13,16,20,25): 6.7572736740112305, EP: 0.9588359594345093	 ([good][one][would][like][superhero][comedy,][action][effects.][voices][bomb.])
+v(1,4,5,7,9,10,11,12,13,17,18,19,21,22,23,24): 6.717979431152344, EP: 0.9532602429389954	 ([movie.][rent][again.][normal][movie.][movie][blends][comedy,][action][even][person][lot][simpsons.][william][h.][macy])
+v(1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24): 6.703469276428223, EP: 0.951201319694519	 ([movie.][rent][again.][like][normal][superhero][movie.][movie][blends][comedy,][action][great][special][effects.][even][person][lot][simpsons.][william][h.][macy])
+v(0,1,2,3,4,5,7,9,10,11,12,13,14,15,17,18,19,20,21,22,23,24,25): 6.703429222106934, EP: 0.9511955976486206	 ([good][movie.][one][would][rent][again.][normal][movie.][movie][blends][comedy,][action][great][special][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,2,3,6,8,12,13,14,15,16,20,25): 6.692779064178467, EP: 0.9496843814849854	 ([good][one][would][like][superhero][comedy,][action][great][special][effects.][voices][bomb.])
+v(0,1,2,3,4,5,7,9,10,11,17,18,19,20,21,22,23,24,25): 6.662322998046875, EP: 0.9453627467155457	 ([good][movie.][one][would][rent][again.][normal][movie.][movie][blends][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(7,9,12,13,17,19,21,22,23,24): 6.617584228515625, EP: 0.9390144944190979	 ([normal][movie.][comedy,][action][even][lot][simpsons.][william][h.][macy])
+v(0,1,2,3,4,5,10,11,12,13,14,15,18,20,25): 6.424302101135254, EP: 0.9115883708000183	 ([good][movie.][one][would][rent][again.][movie][blends][comedy,][action][great][special][person][voices][bomb.])
+v(0,2,3,7,9,14,15,17,19,20,21,22,23,24,25): 6.379988670349121, EP: 0.9053004384040833	 ([good][one][would][normal][movie.][great][special][even][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(1,4,5,6,8,10,11,16,18): 6.3158040046691895, EP: 0.8961927890777588	 ([movie.][rent][again.][like][superhero][movie][blends][effects.][person])
+v(0,2,3,6,8,16,20,25): 6.283872127532959, EP: 0.8916617631912231	 ([good][one][would][like][superhero][effects.][voices][bomb.])
+v(1,4,5,6,8,10,11,14,15,16,18): 6.269545555114746, EP: 0.8896288871765137	 ([movie.][rent][again.][like][superhero][movie][blends][great][special][effects.][person])
+v(0,1,2,3,4,5,7,9,10,11,14,15,17,18,19,20,21,22,23,24,25): 6.2451276779174805, EP: 0.8861640691757202	 ([good][movie.][one][would][rent][again.][normal][movie.][movie][blends][great][special][even][person][lot][voices][simpsons.][william][h.][macy][bomb.])
+v(0,2,3,6,8,14,15,16,20,25): 6.209630012512207, EP: 0.8811270594596863	 ([good][one][would][like][superhero][great][special][effects.][voices][bomb.])
+v(1,4,5,6,7,8,9,10,11,16,17,18,19,21,22,23,24): 6.17473030090332, EP: 0.8761748671531677	 ([movie.][rent][again.][like][normal][superhero][movie.][movie][blends][effects.][even][person][lot][simpsons.][william][h.][macy])
+v(1,4,5,7,9,10,11,12,13,14,15,17,18,19,21,22,23,24): 6.095125198364258, EP: 0.8648791909217834	 ([movie.][rent][again.][normal][movie.][movie][blends][comedy,][action][great][special][even][person][lot][simpsons.][william][h.][macy])
+v(1,4,5,6,7,8,9,10,11,14,15,16,17,18,19,21,22,23,24): 6.088470935821533, EP: 0.8639349341392517	 ([movie.][rent][again.][like][normal][superhero][movie.][movie][blends][great][special][effects.][even][person][lot][simpsons.][william][h.][macy])
+v(7,9,12,13,14,15,17,19,21,22,23,24): 6.054323196411133, EP: 0.8590894937515259	 ([normal][movie.][comedy,][action][great][special][even][lot][simpsons.][william][h.][macy])
+v(0,2,3,12,13,20,25): 5.981611251831055, EP: 0.8487719297409058	 ([good][one][would][comedy,][action][voices][bomb.])
+v(6,7,8,9,14,15,16,17,19,21,22,23,24): 5.972511291503906, EP: 0.8474806547164917	 ([like][normal][superhero][movie.][great][special][effects.][even][lot][simpsons.][william][h.][macy])
+v(0,2,3,14,15,20,25): 5.911754608154297, EP: 0.8388594388961792	 ([good][one][would][great][special][voices][bomb.])
+v(1,4,5,7,9,10,11,17,18,19,21,22,23,24): 5.875944137573242, EP: 0.8337780833244324	 ([movie.][rent][again.][normal][movie.][movie][blends][even][person][lot][simpsons.][william][h.][macy])
+v(1,4,5,10,11,12,13,14,15,18): 5.748073101043701, EP: 0.8156335949897766	 ([movie.][rent][again.][movie][blends][comedy,][action][great][special][person])
+v(0,1,2,3,4,5,10,11,18,20,25): 5.736335754394531, EP: 0.8139680624008179	 ([good][movie.][one][would][rent][again.][movie][blends][person][voices][bomb.])
+v(1,4,5,10,11,14,15,18): 5.709853172302246, EP: 0.8102102875709534	 ([movie.][rent][again.][movie][blends][great][special][person])
+v(0,2,3,12,13,14,15,20,25): 5.642613410949707, EP: 0.8006691932678223	 ([good][one][would][comedy,][action][great][special][voices][bomb.])
+v(0,1,2,3,4,5,10,11,14,15,18,20,25): 5.6412434577941895, EP: 0.8004747629165649	 ([good][movie.][one][would][rent][again.][movie][blends][great][special][person][voices][bomb.])
+v(1,4,5,7,9,10,11,14,15,17,18,19,21,22,23,24): 5.506843566894531, EP: 0.7814038395881653	 ([movie.][rent][again.][normal][movie.][movie][blends][great][special][even][person][lot][simpsons.][william][h.][macy])
+v(1,4,5,10,11,12,13,18): 5.385937690734863, EP: 0.764247715473175	 ([movie.][rent][again.][movie][blends][comedy,][action][person])
+v(7,9,14,15,17,19,21,22,23,24): 5.240949630737305, EP: 0.7436743378639221	 ([normal][movie.][great][special][even][lot][simpsons.][william][h.][macy])
+v(6,7,8,9,16,17,19,21,22,23,24): 4.960301399230957, EP: 0.7038512229919434	 ([like][normal][superhero][movie.][effects.][even][lot][simpsons.][william][h.][macy])
+v(0,2,3,20,25): 4.5993218421936035, EP: 0.6526293754577637	 ([good][one][would][voices][bomb.])
+v(6,8,12,13,14,15,16): 4.538640022277832, EP: 0.644018828868866	 ([like][superhero][comedy,][action][great][special][effects.])
+v(7,9,17,19,21,22,23,24): 4.354487419128418, EP: 0.6178881525993347	 ([normal][movie.][even][lot][simpsons.][william][h.][macy])
+v(1,4,5,10,11,18): 3.7595462799072266, EP: 0.5334678292274475	 ([movie.][rent][again.][movie][blends][person])
+v(14,15): 3.2332839965820312, EP: 0.45879286527633667	 ([great][special])
+v(6,8,12,13,16): 2.994544506072998, EP: 0.42491647601127625	 ([like][superhero][comedy,][action][effects.])
+v(12,13,14,15): 2.9896514415740967, EP: 0.4242221713066101	 ([comedy,][action][great][special])
+v(6,8,14,15,16): 2.7244913578033447, EP: 0.38659679889678955	 ([like][superhero][great][special][effects.])
+v(6,8,16): 1.3014235496520996, EP: 0.1846679300069809	 ([like][superhero][effects.])
+v(12,13): 1.2437915802001953, EP: 0.17649012804031372	 ([comedy,][action])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

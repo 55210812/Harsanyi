@@ -1,0 +1,90 @@
+---------- Players ----------
+Player 0: energy
+Player 1: vitality.
+Player 2: can't
+Player 3: go
+Player 4: wrong
+Player 5: busby
+Player 6: berkley
+Player 7: films
+Player 8: certainly
+Player 9: must
+Player 10: best.
+Player 11: course
+Player 12: choreography
+Player 13: wonderful,
+Player 14: also
+Player 15: banter
+Player 16: cagney
+Player 17: blondell
+Player 18: colorful
+Player 19: delight.
+Player 20: miss
+Player 21: one.
+---------- Rewards ----------
+v(): -0.024026483297348022	 ([])
+v(0,4,5,9,18,21): 3.7002034187316895	 ([energy][wrong][busby][must][colorful][one.])
+v(1,2,3): 3.9893033504486084	 ([vitality.][can't][go])
+v(10,12,13,14): 6.3938140869140625	 ([best.][choreography][wonderful,][also])
+v(7,8,17,19,20): 8.098664283752441	 ([films][certainly][blondell][delight.][miss])
+v(6,11,15,16): 1.2745933532714844	 ([berkley][course][banter][cagney])
+v(0,1,2,3,4,5,9,18,21): 7.476206302642822	 ([energy][vitality.][can't][go][wrong][busby][must][colorful][one.])
+v(0,4,5,9,10,12,13,14,18,21): 8.259960174560547	 ([energy][wrong][busby][must][best.][choreography][wonderful,][also][colorful][one.])
+v(0,4,5,7,8,9,17,18,19,20,21): 8.276163101196289	 ([energy][wrong][busby][films][certainly][must][blondell][colorful][delight.][miss][one.])
+v(0,4,5,6,9,11,15,16,18,21): 6.445455074310303	 ([energy][wrong][busby][berkley][must][course][banter][cagney][colorful][one.])
+v(1,2,3,10,12,13,14): 7.472780704498291	 ([vitality.][can't][go][best.][choreography][wonderful,][also])
+v(1,2,3,7,8,17,19,20): 8.26537036895752	 ([vitality.][can't][go][films][certainly][blondell][delight.][miss])
+v(1,2,3,6,11,15,16): 5.969937324523926	 ([vitality.][can't][go][berkley][course][banter][cagney])
+v(7,8,10,12,13,14,17,19,20): 8.437690734863281	 ([films][certainly][best.][choreography][wonderful,][also][blondell][delight.][miss])
+v(6,10,11,12,13,14,15,16): 7.449343681335449	 ([berkley][best.][course][choreography][wonderful,][also][banter][cagney])
+v(6,7,8,11,15,16,17,19,20): 8.193634033203125	 ([berkley][films][certainly][course][banter][cagney][blondell][delight.][miss])
+v(0,1,2,3,4,5,9,10,12,13,14,18,21): 8.394500732421875	 ([energy][vitality.][can't][go][wrong][busby][must][best.][choreography][wonderful,][also][colorful][one.])
+v(0,1,2,3,4,5,7,8,9,17,18,19,20,21): 8.368292808532715	 ([energy][vitality.][can't][go][wrong][busby][films][certainly][must][blondell][colorful][delight.][miss][one.])
+v(0,1,2,3,4,5,6,9,11,15,16,18,21): 8.17951774597168	 ([energy][vitality.][can't][go][wrong][busby][berkley][must][course][banter][cagney][colorful][one.])
+v(0,4,5,7,8,9,10,12,13,14,17,18,19,20,21): 8.30122184753418	 ([energy][wrong][busby][films][certainly][must][best.][choreography][wonderful,][also][blondell][colorful][delight.][miss][one.])
+v(0,4,5,6,9,10,11,12,13,14,15,16,18,21): 8.423431396484375	 ([energy][wrong][busby][berkley][must][best.][course][choreography][wonderful,][also][banter][cagney][colorful][one.])
+v(0,4,5,6,7,8,9,11,15,16,17,18,19,20,21): 8.461421966552734	 ([energy][wrong][busby][berkley][films][certainly][must][course][banter][cagney][blondell][colorful][delight.][miss][one.])
+v(1,2,3,7,8,10,12,13,14,17,19,20): 8.3826904296875	 ([vitality.][can't][go][films][certainly][best.][choreography][wonderful,][also][blondell][delight.][miss])
+v(1,2,3,6,10,11,12,13,14,15,16): 7.861632823944092	 ([vitality.][can't][go][berkley][best.][course][choreography][wonderful,][also][banter][cagney])
+v(1,2,3,6,7,8,11,15,16,17,19,20): 8.334906578063965	 ([vitality.][can't][go][berkley][films][certainly][course][banter][cagney][blondell][delight.][miss])
+v(6,7,8,10,11,12,13,14,15,16,17,19,20): 8.472005844116211	 ([berkley][films][certainly][best.][course][choreography][wonderful,][also][banter][cagney][blondell][delight.][miss])
+v(0,1,2,3,4,5,7,8,9,10,12,13,14,17,18,19,20,21): 8.323863983154297	 ([energy][vitality.][can't][go][wrong][busby][films][certainly][must][best.][choreography][wonderful,][also][blondell][colorful][delight.][miss][one.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,18,21): 8.4236478805542	 ([energy][vitality.][can't][go][wrong][busby][berkley][must][best.][course][choreography][wonderful,][also][banter][cagney][colorful][one.])
+v(0,1,2,3,4,5,6,7,8,9,11,15,16,17,18,19,20,21): 8.427244186401367	 ([energy][vitality.][can't][go][wrong][busby][berkley][films][certainly][must][course][banter][cagney][blondell][colorful][delight.][miss][one.])
+v(0,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 8.447958946228027	 ([energy][wrong][busby][berkley][films][certainly][must][best.][course][choreography][wonderful,][also][banter][cagney][blondell][colorful][delight.][miss][one.])
+v(1,2,3,6,7,8,10,11,12,13,14,15,16,17,19,20): 8.407224655151367	 ([vitality.][can't][go][berkley][films][certainly][best.][course][choreography][wonderful,][also][banter][cagney][blondell][delight.][miss])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 8.399088859558105	 ([energy][vitality.][can't][go][wrong][busby][berkley][films][certainly][must][best.][course][choreography][wonderful,][also][banter][cagney][blondell][colorful][delight.][miss][one.])
+---------- Rewards-v() ----------
+v(6,7,8,10,11,12,13,14,15,16,17,19,20): 8.49603271484375, EP: 1.0086567401885986	 ([berkley][films][certainly][best.][course][choreography][wonderful,][also][banter][cagney][blondell][delight.][miss])
+v(0,4,5,6,7,8,9,11,15,16,17,18,19,20,21): 8.485448837280273, EP: 1.0074002742767334	 ([energy][wrong][busby][berkley][films][certainly][must][course][banter][cagney][blondell][colorful][delight.][miss][one.])
+v(0,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 8.471985816955566, EP: 1.0058019161224365	 ([energy][wrong][busby][berkley][films][certainly][must][best.][course][choreography][wonderful,][also][banter][cagney][blondell][colorful][delight.][miss][one.])
+v(7,8,10,12,13,14,17,19,20): 8.46171760559082, EP: 1.0045828819274902	 ([films][certainly][best.][choreography][wonderful,][also][blondell][delight.][miss])
+v(0,1,2,3,4,5,6,7,8,9,11,15,16,17,18,19,20,21): 8.451271057128906, EP: 1.003342628479004	 ([energy][vitality.][can't][go][wrong][busby][berkley][films][certainly][must][course][banter][cagney][blondell][colorful][delight.][miss][one.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,18,21): 8.447674751281738, EP: 1.002915620803833	 ([energy][vitality.][can't][go][wrong][busby][berkley][must][best.][course][choreography][wonderful,][also][banter][cagney][colorful][one.])
+v(0,4,5,6,9,10,11,12,13,14,15,16,18,21): 8.447458267211914, EP: 1.0028899908065796	 ([energy][wrong][busby][berkley][must][best.][course][choreography][wonderful,][also][banter][cagney][colorful][one.])
+v(1,2,3,6,7,8,10,11,12,13,14,15,16,17,19,20): 8.431251525878906, EP: 1.0009658336639404	 ([vitality.][can't][go][berkley][films][certainly][best.][course][choreography][wonderful,][also][banter][cagney][blondell][delight.][miss])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 8.423115730285645, EP: 1.0	 ([energy][vitality.][can't][go][wrong][busby][berkley][films][certainly][must][best.][course][choreography][wonderful,][also][banter][cagney][blondell][colorful][delight.][miss][one.])
+v(0,1,2,3,4,5,9,10,12,13,14,18,21): 8.418527603149414, EP: 0.9994552731513977	 ([energy][vitality.][can't][go][wrong][busby][must][best.][choreography][wonderful,][also][colorful][one.])
+v(1,2,3,7,8,10,12,13,14,17,19,20): 8.406717300415039, EP: 0.9980531930923462	 ([vitality.][can't][go][films][certainly][best.][choreography][wonderful,][also][blondell][delight.][miss])
+v(0,1,2,3,4,5,7,8,9,17,18,19,20,21): 8.392319679260254, EP: 0.9963438510894775	 ([energy][vitality.][can't][go][wrong][busby][films][certainly][must][blondell][colorful][delight.][miss][one.])
+v(1,2,3,6,7,8,11,15,16,17,19,20): 8.358933448791504, EP: 0.9923802018165588	 ([vitality.][can't][go][berkley][films][certainly][course][banter][cagney][blondell][delight.][miss])
+v(0,1,2,3,4,5,7,8,9,10,12,13,14,17,18,19,20,21): 8.347890853881836, EP: 0.9910692572593689	 ([energy][vitality.][can't][go][wrong][busby][films][certainly][must][best.][choreography][wonderful,][also][blondell][colorful][delight.][miss][one.])
+v(0,4,5,7,8,9,10,12,13,14,17,18,19,20,21): 8.325248718261719, EP: 0.9883811473846436	 ([energy][wrong][busby][films][certainly][must][best.][choreography][wonderful,][also][blondell][colorful][delight.][miss][one.])
+v(0,4,5,7,8,9,17,18,19,20,21): 8.300189971923828, EP: 0.9854061603546143	 ([energy][wrong][busby][films][certainly][must][blondell][colorful][delight.][miss][one.])
+v(1,2,3,7,8,17,19,20): 8.289397239685059, EP: 0.9841248393058777	 ([vitality.][can't][go][films][certainly][blondell][delight.][miss])
+v(0,4,5,9,10,12,13,14,18,21): 8.283987045288086, EP: 0.9834825396537781	 ([energy][wrong][busby][must][best.][choreography][wonderful,][also][colorful][one.])
+v(6,7,8,11,15,16,17,19,20): 8.217660903930664, EP: 0.975608229637146	 ([berkley][films][certainly][course][banter][cagney][blondell][delight.][miss])
+v(0,1,2,3,4,5,6,9,11,15,16,18,21): 8.203544616699219, EP: 0.9739323258399963	 ([energy][vitality.][can't][go][wrong][busby][berkley][must][course][banter][cagney][colorful][one.])
+v(7,8,17,19,20): 8.12269115447998, EP: 0.9643332958221436	 ([films][certainly][blondell][delight.][miss])
+v(1,2,3,6,10,11,12,13,14,15,16): 7.885659217834473, EP: 0.9361926913261414	 ([vitality.][can't][go][berkley][best.][course][choreography][wonderful,][also][banter][cagney])
+v(0,1,2,3,4,5,9,18,21): 7.500232696533203, EP: 0.8904345035552979	 ([energy][vitality.][can't][go][wrong][busby][must][colorful][one.])
+v(1,2,3,10,12,13,14): 7.496807098388672, EP: 0.8900278210639954	 ([vitality.][can't][go][best.][choreography][wonderful,][also])
+v(6,10,11,12,13,14,15,16): 7.47337007522583, EP: 0.8872453570365906	 ([berkley][best.][course][choreography][wonderful,][also][banter][cagney])
+v(0,4,5,6,9,11,15,16,18,21): 6.469481468200684, EP: 0.7680627703666687	 ([energy][wrong][busby][berkley][must][course][banter][cagney][colorful][one.])
+v(10,12,13,14): 6.417840480804443, EP: 0.7619318962097168	 ([best.][choreography][wonderful,][also])
+v(1,2,3,6,11,15,16): 5.993963718414307, EP: 0.7116088271141052	 ([vitality.][can't][go][berkley][course][banter][cagney])
+v(1,2,3): 4.013329982757568, EP: 0.47646620869636536	 ([vitality.][can't][go])
+v(0,4,5,9,18,21): 3.7242298126220703, EP: 0.442143976688385	 ([energy][wrong][busby][must][colorful][one.])
+v(6,11,15,16): 1.2986198663711548, EP: 0.154173344373703	 ([berkley][course][banter][cagney])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

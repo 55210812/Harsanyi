@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['30', '33', '34', '32', '29', '31', '28']: ['funny,', 'strange', 'nice', 'becoming', 'incredibly', 'without', 'still']: 平均边权 0.7742
+社区 2: ['12', '8', '20', '19', '21', '11', '22', '17', '6', '7']: ['drugs,', 'drugs,', 'surprisingly', 'comedy,', 'drugs', 'even', 'space', 'laundry,', 'drugs,', 'singing,']: 平均边权 0.6698
+社区 3: ['55', '56', '53', '49', '54']: ['notable', 'scene', 'song.', 'song', 'another']: 平均边权 0.6702
+社区 4: ['61', '65', '63', '62', '60', '64']: ['( human', 'academy', 'machine ),', 'noise', 'jones', 'police']: 平均边权 0.6781
+社区 5: ['57', '58', '52', '18', '50', '3', '48', '59', '51']: ['welfare', 'office', 'follow', 'stand', '( mexican - americans )', "chong's", "cheech's", 'scene', "chong's"]: 平均边权 0.6732
+社区 6: ['10', '27', '13', '43', '16', '15', '23', '9', '24', '14']: ['driving,', 'smoke', 'pee', 'car', 'gasoline,', 'aliens,', 'coke', 'cars', '!!.', 'wee,']: 平均边权 0.3530
+社区 7: ['1', '4', '0', '5']: ['romp', 'reality', 'typical', 'includes']: 平均边权 0.6618
+社区 8: ['2', '38', '35', '66', '36', '25', '67', '68', '26']: ['cheech', 'include', 'dreams.', 'series,', 'classic', 'coherent', 'old', 'laughing', 'plausible']: 平均边权 0.4721
+社区 9: ['46', '45', '40', '47', '39', '41', '42', '44', '37']: ['also', 'work.', 'scene', 'funny', 'opening', 'get', 'gas', 'drive', 'scenes,']: 平均边权 0.4011

@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['35', '46', '34', '45', '55', '44', '43', '33']: ['murdered', 'dead', 'murdering', 'framed', 'assassinations.', 'clear', 'avenge', 'urbane,']: 平均边权 0.6878
+社区 2: ['5', '20', '19', '18', '21', '16', '15', '17', '6', '7']: ['hale,', 'holmes', 'blackie,', 'falcon,', 'saint', 'chan,', 'charlie', 'moto,', 'cowen,', 'hamilton,']: 平均边权 0.3625
+社区 3: ['39', '4', '3', '40']: ['book.', 'barrie,', 'sanders,', "barrie's"]: 平均边权 1.0844
+社区 4: ['38', '30', '42', '36', '47', '31']: ['pleasure', 'old', 'dame', '-', 'father,', 'friends,']: 平均边权 0.4733
+社区 5: ['2', '12', '8', '13', '11', '9', '1', '10']: ['movie,', 'best', 'gargan,', 'could', 'willie', 'fitzgerald', 'b', 'even']: 平均边权 0.4199
+社区 6: ['27', '25', '32', '29', '22', '23', '37', '24', '26', '14', '28']: ['another', 'chance', 'plain', 'company', 'etc.', 'words', 'always', 'get', 'spend', 'either', 'hour']: 平均边权 0.3000
+社区 7: ['49', '52', '50', '41', '53', '48', '51', '54']: ['detective', 'coterie', 'planning', 'hard - boiled', 'string', 'police', 'carrying', 'underworld']: 平均边权 0.3711
+社区 8: ['56', '61', '57', '0', '63', '58', '59', '62', '60', '64']: ['would', 'joins', 'surely', 'bad', 'simply', 'opposite', 'effect!', 'fun', 'sanders', 'dancing']: 平均边权 0.3489

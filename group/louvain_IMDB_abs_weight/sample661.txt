@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['12', '5', '20', '10', '19', '13', '11', '9', '14', '17']: ['realistic', 'relevant', 'back', 'chilling', 'far - fetched', 'tale', 'surprisingly', 'man.', 'reality', 'mad.']: 平均边权 0.6397
+社区 2: ['55', '56', '57', '40']: ['much', 'satire', 'intelligence', 'long']: 平均边权 1.4772
+社区 3: ['8', '46', '42', '43', '45', '47']: ['running', 'man?', 'see', 'shows', 'running', 'long']: 平均边权 0.4569
+社区 4: ['51', '52']: ['entertainment', 'division']: 平均边权 0.6097
+社区 5: ['27', '25', '32', '34', '29', '30', '24', '33', '28']: ['shows', 'reality', 'desperate', 'bar.', 'scraping', 'bottom', 'currently,', 'raise', 'either']: 平均边权 0.3137
+社区 6: ['16', '15', '23', '22', '1', '26', '18']: ['gone', 'tv', 'it.', 'think', "mid -'80s", 'tv', 'may']: 平均边权 0.3301
+社区 7: ['2', '49', '39', '50', '41', '53', '44', '48', '54', '31']: ['movies', 'theatrical', 'dud.', "attorneys '", 'really', 'justice', 'like', "' court - appointed", 'department?', 'barrel']: 平均边权 0.5414
+社区 8: ['38', '0', '36', '35', '21', '4', '3', '37', '6', '7']: ['last,', "arnold's", 'one', 'next', 'now.', 'thought', 'would', 'controversial', 'today', 'would']: 平均边权 0.2604

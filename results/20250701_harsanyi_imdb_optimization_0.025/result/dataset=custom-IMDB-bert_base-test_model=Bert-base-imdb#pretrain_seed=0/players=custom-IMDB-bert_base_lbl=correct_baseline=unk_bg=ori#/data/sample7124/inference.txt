@@ -1,0 +1,70 @@
+Execution time: 2025-07-04 00:08:11
+prompt: [CLS] in black mask, jet li plays a bio - engineered super - killer turned pacifist, who has to fight against other super - killers. bad plot, bad sfx ( 60 million dollar budget ), but the fighting scenes were excellent! jet li is the greatest martial - arts star alive! [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1999 decoded_text: in
+idx:2 input_id:2304 decoded_text: black
+idx:3 input_id:7308 decoded_text: mask
+idx:4 input_id:1010 decoded_text: ,
+idx:5 input_id:6892 decoded_text: jet
+idx:6 input_id:5622 decoded_text: li
+idx:7 input_id:3248 decoded_text: plays
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:16012 decoded_text: bio
+idx:10 input_id:1011 decoded_text: -
+idx:11 input_id:13685 decoded_text: engineered
+idx:12 input_id:3565 decoded_text: super
+idx:13 input_id:1011 decoded_text: -
+idx:14 input_id:6359 decoded_text: killer
+idx:15 input_id:2357 decoded_text: turned
+idx:16 input_id:14397 decoded_text: pac
+idx:17 input_id:10128 decoded_text: ##if
+idx:18 input_id:2923 decoded_text: ##ist
+idx:19 input_id:1010 decoded_text: ,
+idx:20 input_id:2040 decoded_text: who
+idx:21 input_id:2038 decoded_text: has
+idx:22 input_id:2000 decoded_text: to
+idx:23 input_id:2954 decoded_text: fight
+idx:24 input_id:2114 decoded_text: against
+idx:25 input_id:2060 decoded_text: other
+idx:26 input_id:3565 decoded_text: super
+idx:27 input_id:1011 decoded_text: -
+idx:28 input_id:15978 decoded_text: killers
+idx:29 input_id:1012 decoded_text: .
+idx:30 input_id:2919 decoded_text: bad
+idx:31 input_id:5436 decoded_text: plot
+idx:32 input_id:1010 decoded_text: ,
+idx:33 input_id:2919 decoded_text: bad
+idx:34 input_id:16420 decoded_text: sf
+idx:35 input_id:2595 decoded_text: ##x
+idx:36 input_id:1006 decoded_text: (
+idx:37 input_id:3438 decoded_text: 60
+idx:38 input_id:2454 decoded_text: million
+idx:39 input_id:7922 decoded_text: dollar
+idx:40 input_id:5166 decoded_text: budget
+idx:41 input_id:1007 decoded_text: )
+idx:42 input_id:1010 decoded_text: ,
+idx:43 input_id:2021 decoded_text: but
+idx:44 input_id:1996 decoded_text: the
+idx:45 input_id:3554 decoded_text: fighting
+idx:46 input_id:5019 decoded_text: scenes
+idx:47 input_id:2020 decoded_text: were
+idx:48 input_id:6581 decoded_text: excellent
+idx:49 input_id:999 decoded_text: !
+idx:50 input_id:6892 decoded_text: jet
+idx:51 input_id:5622 decoded_text: li
+idx:52 input_id:2003 decoded_text: is
+idx:53 input_id:1996 decoded_text: the
+idx:54 input_id:4602 decoded_text: greatest
+idx:55 input_id:7761 decoded_text: martial
+idx:56 input_id:1011 decoded_text: -
+idx:57 input_id:2840 decoded_text: arts
+idx:58 input_id:2732 decoded_text: star
+idx:59 input_id:4142 decoded_text: alive
+idx:60 input_id:999 decoded_text: !
+idx:61 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-3.0062904357910156, 3.741290807723999]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

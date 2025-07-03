@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['20', '27', '36', '32', '25', '21', '37', '24', '26']: ['actors', '"', 'one', 'play.', 'that.', 'appear', 'aforementioned', 'well', 'actors']: 平均边权 0.4632
+社区 2: ['41', '42', '44', '43', '40']: ["convoluted... it's", 'simple', 'person', 'dumb,', 'really']: 平均边权 0.6703
+社区 3: ['50', '49', '15', '51', '45', '52', '47']: ['convoluted.', 'think', 'on?', 'nope', 'thinks', 'not,', 'missing']: 平均边权 0.4347
+社区 4: ['2', '8', '5', '0', '58', '4', '11', '3', '9', '1', '10', '6', '7']: ['plot,', 'cinematography,', 'acting,', 'absence', '" film', 'decent', 'looking', 'absence', 'absence', 'good', 'decent', 'absence', 'good']: 平均边权 0.4409
+社区 5: ['38', '35', '29', '39', '30', '33', '28', '31']: ['second', 'written', 'like', "graders... it's", 'second', 'story', 'acting', 'grade']: 平均边权 0.2634
+社区 6: ['56', '57', '19', '18', '55', '16', '53', '23', '59', '60', '17', '54']: ['is.', 'understood', 'spoilers.', 'contain', 'think', 'review', 'exactly', 'lines,', '",', "that's", 'may', 'simple']: 平均边权 0.2527
+社区 7: ['13', '12', '61', '14']: ['effects... need', 'special', 'know', 'go']: 平均边权 0.4899
+社区 8: ['46', '34', '48', '22']: ['must', 'appeared', 'something', 'reading']: 平均边权 0.1547

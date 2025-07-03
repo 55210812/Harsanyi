@@ -1,0 +1,25 @@
+---------- Players ----------
+Player 0: great
+Player 1: film!!
+Player 2: first
+Player 3: time
+Player 4: saw
+Player 5: thought
+Player 6: absorbing
+Player 7: start
+Player 8: finish
+Player 9: still
+Player 10: now.
+Player 11: may
+Player 12: seen
+Player 13: play,
+Player 14: even
+Player 15: stop
+Player 16: thinking
+Player 17: film
+Player 18: good.
+---------- AND Interactions (Pairwise Only) ----------
+I(0,1): 4.380496978759766	 ([great][film!!])
+I(5,13): 1.5536160469055176	 ([thought][play,])
+Sum: 5.934113025665283
+==================================================

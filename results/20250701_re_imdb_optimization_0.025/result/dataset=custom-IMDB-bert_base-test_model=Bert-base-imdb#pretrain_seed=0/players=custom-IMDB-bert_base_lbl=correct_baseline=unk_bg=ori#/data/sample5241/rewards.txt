@@ -1,0 +1,162 @@
+---------- Players ----------
+Player 0: strange
+Player 1: mix
+Player 2: traditional - 80s,
+Player 3: smartassy,
+Player 4: chevy
+Player 5: chase - type,
+Player 6: every - ten - lines - you - get - a - funny - one
+Player 7: "
+Player 8: farce
+Player 9: sickie
+Player 10: black
+Player 11: comedy.
+Player 12: mildly
+Player 13: amusing
+Player 14: spots,
+Player 15: utterly
+Player 16: tasteless.
+Player 17: skiing
+Player 18: sequence
+Player 19: includes
+Player 20: fakest - looking
+Player 21: back - projections
+Player 22: since
+Player 23: " on
+Player 24: majesty's
+Player 25: secret
+Player 26: service
+Player 27: ".
+Player 28: (
+Player 29: ) "
+---------- Rewards ----------
+v(): 1.8024156093597412	 ([])
+v(8,9,10,11,27): 2.930990219116211	 ([farce][sickie][black][comedy.][".])
+v(13,18,29): 1.8662662506103516	 ([amusing][sequence][) "])
+v(23,24,25): 0.6806601285934448	 ([" on][majesty's][secret])
+v(0,1,2,3,4,5,7): -2.0712413787841797	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["])
+v(12,14,15,20,28): 4.702352523803711	 ([mildly][spots,][utterly][fakest - looking][(])
+v(6,16,17,19,21,22,26): 0.30043017864227295	 ([every - ten - lines - you - get - a - funny - one][tasteless.][skiing][includes][back - projections][since][service])
+v(8,9,10,11,13,18,27,29): 4.095887184143066	 ([farce][sickie][black][comedy.][amusing][sequence][".][) "])
+v(8,9,10,11,23,24,25,27): 1.9312851428985596	 ([farce][sickie][black][comedy.][" on][majesty's][secret][".])
+v(0,1,2,3,4,5,7,8,9,10,11,27): -5.393343925476074	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][".])
+v(8,9,10,11,12,14,15,20,27,28): 5.172419548034668	 ([farce][sickie][black][comedy.][mildly][spots,][utterly][fakest - looking][".][(])
+v(6,8,9,10,11,16,17,19,21,22,26,27): 3.256096363067627	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][tasteless.][skiing][includes][back - projections][since][service][".])
+v(13,18,23,24,25,29): 2.6720311641693115	 ([amusing][sequence][" on][majesty's][secret][) "])
+v(0,1,2,3,4,5,7,13,18,29): -1.437868356704712	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][amusing][sequence][) "])
+v(12,13,14,15,18,20,28,29): 5.345948696136475	 ([mildly][amusing][spots,][utterly][sequence][fakest - looking][(][) "])
+v(6,13,16,17,18,19,21,22,26,29): 2.357426881790161	 ([every - ten - lines - you - get - a - funny - one][amusing][tasteless.][skiing][sequence][includes][back - projections][since][service][) "])
+v(0,1,2,3,4,5,7,23,24,25): -3.215066432952881	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][" on][majesty's][secret])
+v(12,14,15,20,23,24,25,28): 4.3018598556518555	 ([mildly][spots,][utterly][fakest - looking][" on][majesty's][secret][(])
+v(6,16,17,19,21,22,23,24,25,26): -1.095924735069275	 ([every - ten - lines - you - get - a - funny - one][tasteless.][skiing][includes][back - projections][since][" on][majesty's][secret][service])
+v(0,1,2,3,4,5,7,12,14,15,20,28): 3.513395309448242	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][mildly][spots,][utterly][fakest - looking][(])
+v(0,1,2,3,4,5,6,7,16,17,19,21,22,26): -3.95703125	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][tasteless.][skiing][includes][back - projections][since][service])
+v(6,12,14,15,16,17,19,20,21,22,26,28): 6.325494289398193	 ([every - ten - lines - you - get - a - funny - one][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][service][(])
+v(8,9,10,11,13,18,23,24,25,27,29): 3.9840660095214844	 ([farce][sickie][black][comedy.][amusing][sequence][" on][majesty's][secret][".][) "])
+v(0,1,2,3,4,5,7,8,9,10,11,13,18,27,29): -1.5980077981948853	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][amusing][sequence][".][) "])
+v(8,9,10,11,12,13,14,15,18,20,27,28,29): 6.917397499084473	 ([farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][sequence][fakest - looking][".][(][) "])
+v(6,8,9,10,11,13,16,17,18,19,21,22,26,27,29): 5.401324272155762	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][amusing][tasteless.][skiing][sequence][includes][back - projections][since][service][".][) "])
+v(0,1,2,3,4,5,7,8,9,10,11,23,24,25,27): -5.060094833374023	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][" on][majesty's][secret][".])
+v(8,9,10,11,12,14,15,20,23,24,25,27,28): 5.395036220550537	 ([farce][sickie][black][comedy.][mildly][spots,][utterly][fakest - looking][" on][majesty's][secret][".][(])
+v(6,8,9,10,11,16,17,19,21,22,23,24,25,26,27): 1.7023367881774902	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][tasteless.][skiing][includes][back - projections][since][" on][majesty's][secret][service][".])
+v(0,1,2,3,4,5,7,8,9,10,11,12,14,15,20,27,28): -0.6896167993545532	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][mildly][spots,][utterly][fakest - looking][".][(])
+v(0,1,2,3,4,5,6,7,8,9,10,11,16,17,19,21,22,26,27): -4.5397748947143555	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][tasteless.][skiing][includes][back - projections][since][service][".])
+v(6,8,9,10,11,12,14,15,16,17,19,20,21,22,26,27,28): 7.635619163513184	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][service][".][(])
+v(0,1,2,3,4,5,7,13,18,23,24,25,29): -0.14225026965141296	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][amusing][sequence][" on][majesty's][secret][) "])
+v(12,13,14,15,18,20,23,24,25,28,29): 6.152478218078613	 ([mildly][amusing][spots,][utterly][sequence][fakest - looking][" on][majesty's][secret][(][) "])
+v(6,13,16,17,18,19,21,22,23,24,25,26,29): 2.13370418548584	 ([every - ten - lines - you - get - a - funny - one][amusing][tasteless.][skiing][sequence][includes][back - projections][since][" on][majesty's][secret][service][) "])
+v(0,1,2,3,4,5,7,12,13,14,15,18,20,28,29): 6.293679237365723	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][mildly][amusing][spots,][utterly][sequence][fakest - looking][(][) "])
+v(0,1,2,3,4,5,6,7,13,16,17,18,19,21,22,26,29): -3.912196636199951	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][amusing][tasteless.][skiing][sequence][includes][back - projections][since][service][) "])
+v(6,12,13,14,15,16,17,18,19,20,21,22,26,28,29): 7.742466926574707	 ([every - ten - lines - you - get - a - funny - one][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][service][(][) "])
+v(0,1,2,3,4,5,7,12,14,15,20,23,24,25,28): 1.062203049659729	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][mildly][spots,][utterly][fakest - looking][" on][majesty's][secret][(])
+v(0,1,2,3,4,5,6,7,16,17,19,21,22,23,24,25,26): -4.795931339263916	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][tasteless.][skiing][includes][back - projections][since][" on][majesty's][secret][service])
+v(6,12,14,15,16,17,19,20,21,22,23,24,25,26,28): 6.8657331466674805	 ([every - ten - lines - you - get - a - funny - one][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][(])
+v(0,1,2,3,4,5,6,7,12,14,15,16,17,19,20,21,22,26,28): 6.579852104187012	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][service][(])
+v(0,1,2,3,4,5,7,8,9,10,11,13,18,23,24,25,27,29): -2.202073812484741	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][amusing][sequence][" on][majesty's][secret][".][) "])
+v(8,9,10,11,12,13,14,15,18,20,23,24,25,27,28,29): 7.139111042022705	 ([farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][sequence][fakest - looking][" on][majesty's][secret][".][(][) "])
+v(6,8,9,10,11,13,16,17,18,19,21,22,23,24,25,26,27,29): 5.2276411056518555	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][amusing][tasteless.][skiing][sequence][includes][back - projections][since][" on][majesty's][secret][service][".][) "])
+v(0,1,2,3,4,5,7,8,9,10,11,12,13,14,15,18,20,27,28,29): 6.380472183227539	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][sequence][fakest - looking][".][(][) "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,16,17,18,19,21,22,26,27,29): -4.178574085235596	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][amusing][tasteless.][skiing][sequence][includes][back - projections][since][service][".][) "])
+v(6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,26,27,28,29): 8.307186126708984	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][service][".][(][) "])
+v(0,1,2,3,4,5,7,8,9,10,11,12,14,15,20,23,24,25,27,28): 0.5526058673858643	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][mildly][spots,][utterly][fakest - looking][" on][majesty's][secret][".][(])
+v(0,1,2,3,4,5,6,7,8,9,10,11,16,17,19,21,22,23,24,25,26,27): -3.8730900287628174	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][tasteless.][skiing][includes][back - projections][since][" on][majesty's][secret][service][".])
+v(6,8,9,10,11,12,14,15,16,17,19,20,21,22,23,24,25,26,27,28): 7.609324932098389	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][".][(])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,19,20,21,22,26,27,28): 6.770163536071777	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][service][".][(])
+v(0,1,2,3,4,5,7,12,13,14,15,18,20,23,24,25,28,29): 6.645771026611328	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][mildly][amusing][spots,][utterly][sequence][fakest - looking][" on][majesty's][secret][(][) "])
+v(0,1,2,3,4,5,6,7,13,16,17,18,19,21,22,23,24,25,26,29): -3.0800232887268066	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][amusing][tasteless.][skiing][sequence][includes][back - projections][since][" on][majesty's][secret][service][) "])
+v(6,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,29): 8.015100479125977	 ([every - ten - lines - you - get - a - funny - one][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][(][) "])
+v(0,1,2,3,4,5,6,7,12,13,14,15,16,17,18,19,20,21,22,26,28,29): 7.774147987365723	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][service][(][) "])
+v(0,1,2,3,4,5,6,7,12,14,15,16,17,19,20,21,22,23,24,25,26,28): 7.127188205718994	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][(])
+v(0,1,2,3,4,5,7,8,9,10,11,12,13,14,15,18,20,23,24,25,27,28,29): 6.4004011154174805	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][sequence][fakest - looking][" on][majesty's][secret][".][(][) "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,16,17,18,19,21,22,23,24,25,26,27,29): -3.3066225051879883	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][amusing][tasteless.][skiing][sequence][includes][back - projections][since][" on][majesty's][secret][service][".][) "])
+v(6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 8.235121726989746	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][".][(][) "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,26,27,28,29): 8.193037986755371	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][service][".][(][) "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,19,20,21,22,23,24,25,26,27,28): 6.914836883544922	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][".][(])
+v(0,1,2,3,4,5,6,7,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,29): 8.051847457885742	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][(][) "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 8.090593338012695	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][".][(][) "])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,7,8,9,10,11,27): -7.1957597732543945, EP: -1.1443315744400024	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][".])
+v(0,1,2,3,4,5,7,8,9,10,11,23,24,25,27): -6.862510681152344, EP: -1.091335415840149	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][" on][majesty's][secret][".])
+v(0,1,2,3,4,5,6,7,16,17,19,21,22,23,24,25,26): -6.598346710205078, EP: -1.0493258237838745	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][tasteless.][skiing][includes][back - projections][since][" on][majesty's][secret][service])
+v(6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,26,27,28,29): 6.504770278930664, EP: 1.0344444513320923	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][service][".][(][) "])
+v(6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 6.432705879211426, EP: 1.0229841470718384	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][".][(][) "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,26,27,28,29): 6.390622138977051, EP: 1.016291618347168	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][service][".][(][) "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,16,17,19,21,22,26,27): -6.342190742492676, EP: -1.0085896253585815	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][tasteless.][skiing][includes][back - projections][since][service][".])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 6.288177490234375, EP: 1.0	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][".][(][) "])
+v(0,1,2,3,4,5,6,7,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,29): 6.249431610107422, EP: 0.9938383102416992	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][(][) "])
+v(6,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,29): 6.212684631347656, EP: 0.9879944920539856	 ([every - ten - lines - you - get - a - funny - one][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][(][) "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,16,17,18,19,21,22,26,27,29): -5.980989456176758, EP: -0.9511483311653137	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][amusing][tasteless.][skiing][sequence][includes][back - projections][since][service][".][) "])
+v(0,1,2,3,4,5,6,7,12,13,14,15,16,17,18,19,20,21,22,26,28,29): 5.971732139587402, EP: 0.9496761560440063	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][service][(][) "])
+v(6,12,13,14,15,16,17,18,19,20,21,22,26,28,29): 5.940051078796387, EP: 0.9446379542350769	 ([every - ten - lines - you - get - a - funny - one][mildly][amusing][spots,][utterly][tasteless.][skiing][sequence][includes][fakest - looking][back - projections][since][service][(][) "])
+v(6,8,9,10,11,12,14,15,16,17,19,20,21,22,26,27,28): 5.833203315734863, EP: 0.9276461005210876	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][service][".][(])
+v(6,8,9,10,11,12,14,15,16,17,19,20,21,22,23,24,25,26,27,28): 5.806909561157227, EP: 0.9234646558761597	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][".][(])
+v(0,1,2,3,4,5,6,7,16,17,19,21,22,26): -5.75944709777832, EP: -0.9159167408943176	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][tasteless.][skiing][includes][back - projections][since][service])
+v(0,1,2,3,4,5,6,7,13,16,17,18,19,21,22,26,29): -5.714612007141113, EP: -0.9087867140769958	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][amusing][tasteless.][skiing][sequence][includes][back - projections][since][service][) "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,16,17,19,21,22,23,24,25,26,27): -5.675505638122559, EP: -0.9025676846504211	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][tasteless.][skiing][includes][back - projections][since][" on][majesty's][secret][service][".])
+v(8,9,10,11,12,13,14,15,18,20,23,24,25,27,28,29): 5.336695671081543, EP: 0.8486871719360352	 ([farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][sequence][fakest - looking][" on][majesty's][secret][".][(][) "])
+v(0,1,2,3,4,5,6,7,12,14,15,16,17,19,20,21,22,23,24,25,26,28): 5.324772834777832, EP: 0.8467910885810852	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][(])
+v(8,9,10,11,12,13,14,15,18,20,27,28,29): 5.114981651306152, EP: 0.8134283423423767	 ([farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][sequence][fakest - looking][".][(][) "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,19,20,21,22,23,24,25,26,27,28): 5.112421035766602, EP: 0.8130211234092712	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][".][(])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,16,17,18,19,21,22,23,24,25,26,27,29): -5.109038352966309, EP: -0.8124831914901733	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][amusing][tasteless.][skiing][sequence][includes][back - projections][since][" on][majesty's][secret][service][".][) "])
+v(6,12,14,15,16,17,19,20,21,22,23,24,25,26,28): 5.06331729888916, EP: 0.8052121996879578	 ([every - ten - lines - you - get - a - funny - one][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][" on][majesty's][secret][service][(])
+v(0,1,2,3,4,5,7,23,24,25): -5.017481803894043, EP: -0.7979230284690857	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][" on][majesty's][secret])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,19,20,21,22,26,27,28): 4.967747688293457, EP: 0.7900139093399048	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][farce][sickie][black][comedy.][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][service][".][(])
+v(0,1,2,3,4,5,6,7,13,16,17,18,19,21,22,23,24,25,26,29): -4.882438659667969, EP: -0.7764473557472229	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][amusing][tasteless.][skiing][sequence][includes][back - projections][since][" on][majesty's][secret][service][) "])
+v(0,1,2,3,4,5,7,12,13,14,15,18,20,23,24,25,28,29): 4.843355178833008, EP: 0.7702319622039795	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][mildly][amusing][spots,][utterly][sequence][fakest - looking][" on][majesty's][secret][(][) "])
+v(0,1,2,3,4,5,6,7,12,14,15,16,17,19,20,21,22,26,28): 4.777436256408691, EP: 0.7597489356994629	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,][every - ten - lines - you - get - a - funny - one]["][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][service][(])
+v(0,1,2,3,4,5,7,8,9,10,11,12,13,14,15,18,20,23,24,25,27,28,29): 4.59798526763916, EP: 0.7312111258506775	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][sequence][fakest - looking][" on][majesty's][secret][".][(][) "])
+v(0,1,2,3,4,5,7,8,9,10,11,12,13,14,15,18,20,27,28,29): 4.578056335449219, EP: 0.7280418276786804	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][mildly][amusing][spots,][utterly][sequence][fakest - looking][".][(][) "])
+v(6,12,14,15,16,17,19,20,21,22,26,28): 4.523078918457031, EP: 0.7192988395690918	 ([every - ten - lines - you - get - a - funny - one][mildly][spots,][utterly][tasteless.][skiing][includes][fakest - looking][back - projections][since][service][(])
+v(0,1,2,3,4,5,7,12,13,14,15,18,20,28,29): 4.491263389587402, EP: 0.7142392992973328	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][mildly][amusing][spots,][utterly][sequence][fakest - looking][(][) "])
+v(12,13,14,15,18,20,23,24,25,28,29): 4.350062370300293, EP: 0.6917842626571655	 ([mildly][amusing][spots,][utterly][sequence][fakest - looking][" on][majesty's][secret][(][) "])
+v(0,1,2,3,4,5,7,8,9,10,11,13,18,23,24,25,27,29): -4.004489421844482, EP: -0.6368283033370972	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][amusing][sequence][" on][majesty's][secret][".][) "])
+v(0,1,2,3,4,5,7): -3.873656988143921, EP: -0.6160222291946411	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["])
+v(6,8,9,10,11,13,16,17,18,19,21,22,26,27,29): 3.5989086627960205, EP: 0.5723293423652649	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][amusing][tasteless.][skiing][sequence][includes][back - projections][since][service][".][) "])
+v(8,9,10,11,12,14,15,20,23,24,25,27,28): 3.592620611190796, EP: 0.5713294148445129	 ([farce][sickie][black][comedy.][mildly][spots,][utterly][fakest - looking][" on][majesty's][secret][".][(])
+v(12,13,14,15,18,20,28,29): 3.5435330867767334, EP: 0.5635230541229248	 ([mildly][amusing][spots,][utterly][sequence][fakest - looking][(][) "])
+v(6,8,9,10,11,13,16,17,18,19,21,22,23,24,25,26,27,29): 3.4252254962921143, EP: 0.544708788394928	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][amusing][tasteless.][skiing][sequence][includes][back - projections][since][" on][majesty's][secret][service][".][) "])
+v(0,1,2,3,4,5,7,8,9,10,11,13,18,27,29): -3.400423526763916, EP: -0.540764570236206	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][amusing][sequence][".][) "])
+v(8,9,10,11,12,14,15,20,27,28): 3.3700039386749268, EP: 0.5359269976615906	 ([farce][sickie][black][comedy.][mildly][spots,][utterly][fakest - looking][".][(])
+v(0,1,2,3,4,5,7,13,18,29): -3.240283966064453, EP: -0.5152977705001831	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][amusing][sequence][) "])
+v(12,14,15,20,28): 2.8999369144439697, EP: 0.461172878742218	 ([mildly][spots,][utterly][fakest - looking][(])
+v(6,16,17,19,21,22,23,24,25,26): -2.8983402252197266, EP: -0.46091896295547485	 ([every - ten - lines - you - get - a - funny - one][tasteless.][skiing][includes][back - projections][since][" on][majesty's][secret][service])
+v(12,14,15,20,23,24,25,28): 2.4994442462921143, EP: 0.39748308062553406	 ([mildly][spots,][utterly][fakest - looking][" on][majesty's][secret][(])
+v(0,1,2,3,4,5,7,8,9,10,11,12,14,15,20,27,28): -2.492032527923584, EP: -0.3963044285774231	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][mildly][spots,][utterly][fakest - looking][".][(])
+v(8,9,10,11,13,18,27,29): 2.293471574783325, EP: 0.36472755670547485	 ([farce][sickie][black][comedy.][amusing][sequence][".][) "])
+v(8,9,10,11,13,18,23,24,25,27,29): 2.181650400161743, EP: 0.34694477915763855	 ([farce][sickie][black][comedy.][amusing][sequence][" on][majesty's][secret][".][) "])
+v(0,1,2,3,4,5,7,13,18,23,24,25,29): -1.9446659088134766, EP: -0.30925747752189636	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][amusing][sequence][" on][majesty's][secret][) "])
+v(0,1,2,3,4,5,7,12,14,15,20,28): 1.710979700088501, EP: 0.2720946967601776	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][mildly][spots,][utterly][fakest - looking][(])
+v(6,16,17,19,21,22,26): -1.5019854307174683, EP: -0.23885862529277802	 ([every - ten - lines - you - get - a - funny - one][tasteless.][skiing][includes][back - projections][since][service])
+v(6,8,9,10,11,16,17,19,21,22,26,27): 1.4536807537078857, EP: 0.23117679357528687	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][tasteless.][skiing][includes][back - projections][since][service][".])
+v(0,1,2,3,4,5,7,8,9,10,11,12,14,15,20,23,24,25,27,28): -1.249809741973877, EP: -0.19875548779964447	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][farce][sickie][black][comedy.][mildly][spots,][utterly][fakest - looking][" on][majesty's][secret][".][(])
+v(8,9,10,11,27): 1.1285746097564697, EP: 0.17947563529014587	 ([farce][sickie][black][comedy.][".])
+v(23,24,25): -1.1217554807662964, EP: -0.17839118838310242	 ([" on][majesty's][secret])
+v(13,18,23,24,25,29): 0.8696155548095703, EP: 0.13829372823238373	 ([amusing][sequence][" on][majesty's][secret][) "])
+v(0,1,2,3,4,5,7,12,14,15,20,23,24,25,28): -0.7402125597000122, EP: -0.11771495640277863	 ([strange][mix][traditional - 80s,][smartassy,][chevy][chase - type,]["][mildly][spots,][utterly][fakest - looking][" on][majesty's][secret][(])
+v(6,13,16,17,18,19,21,22,26,29): 0.5550112724304199, EP: 0.0882626622915268	 ([every - ten - lines - you - get - a - funny - one][amusing][tasteless.][skiing][sequence][includes][back - projections][since][service][) "])
+v(6,13,16,17,18,19,21,22,23,24,25,26,29): 0.33128857612609863, EP: 0.05268435552716255	 ([every - ten - lines - you - get - a - funny - one][amusing][tasteless.][skiing][sequence][includes][back - projections][since][" on][majesty's][secret][service][) "])
+v(8,9,10,11,23,24,25,27): 0.12886953353881836, EP: 0.020493939518928528	 ([farce][sickie][black][comedy.][" on][majesty's][secret][".])
+v(6,8,9,10,11,16,17,19,21,22,23,24,25,26,27): -0.10007882118225098, EP: -0.015915393829345703	 ([every - ten - lines - you - get - a - funny - one][farce][sickie][black][comedy.][tasteless.][skiing][includes][back - projections][since][" on][majesty's][secret][service][".])
+v(13,18,29): 0.06385064125061035, EP: 0.010154077783226967	 ([amusing][sequence][) "])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

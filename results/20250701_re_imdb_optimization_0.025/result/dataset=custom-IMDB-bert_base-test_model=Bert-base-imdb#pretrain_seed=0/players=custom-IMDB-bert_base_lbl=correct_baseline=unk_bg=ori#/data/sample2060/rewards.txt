@@ -1,0 +1,100 @@
+---------- Players ----------
+Player 0: love
+Player 1: actors,
+Player 2: wasted
+Player 3: flick.
+Player 4: wonder,
+Player 5: thinking
+Player 6: agreeing
+Player 7: crap???
+Player 8: debra
+Player 9: winger
+Player 10: phoned
+Player 11: in ;
+Player 12: dennis
+Player 13: quaid
+Player 14: arliss
+Player 15: howard
+Player 16: caricatures.
+Player 17: people
+Player 18: thought
+Player 19: deep.
+Player 20: well,
+Player 21: liked
+Player 22: breaking
+Player 23: waves
+Player 24: ",
+Player 25: probably
+Player 26: like
+Player 27: too.
+Player 28: hated
+Player 29: both.
+Player 30: 3
+Player 31: 10 "
+---------- Rewards ----------
+v(): 2.135800361633301	 ([])
+v(6,16,17,30,31): 3.268270969390869	 ([agreeing][caricatures.][people][3][10 "])
+v(0,2): -2.4170475006103516	 ([love][wasted])
+v(1,3,4,11,23,26,27,28,29): 8.03549575805664	 ([actors,][flick.][wonder,][in ;][waves][like][too.][hated][both.])
+v(5,8,9,10,18,19,20,21,22,24,25): 2.3802688121795654	 ([thinking][debra][winger][phoned][thought][deep.][well,][liked][breaking][",][probably])
+v(12,13,14,15): 1.7603082656860352	 ([dennis][quaid][arliss][howard])
+v(0,2,6,16,17,30,31): 2.4926490783691406	 ([love][wasted][agreeing][caricatures.][people][3][10 "])
+v(1,3,4,6,11,16,17,23,26,27,28,29,30,31): 8.225151062011719	 ([actors,][flick.][wonder,][agreeing][in ;][caricatures.][people][waves][like][too.][hated][both.][3][10 "])
+v(5,6,8,9,10,16,17,18,19,20,21,22,24,25,30,31): 2.9296908378601074	 ([thinking][agreeing][debra][winger][phoned][caricatures.][people][thought][deep.][well,][liked][breaking][",][probably][3][10 "])
+v(6,12,13,14,15,16,17,30,31): 3.314692258834839	 ([agreeing][dennis][quaid][arliss][howard][caricatures.][people][3][10 "])
+v(0,1,2,3,4,11,23,26,27,28,29): 8.263745307922363	 ([love][actors,][wasted][flick.][wonder,][in ;][waves][like][too.][hated][both.])
+v(0,2,5,8,9,10,18,19,20,21,22,24,25): 1.022139549255371	 ([love][wasted][thinking][debra][winger][phoned][thought][deep.][well,][liked][breaking][",][probably])
+v(0,2,12,13,14,15): -2.0224289894104004	 ([love][wasted][dennis][quaid][arliss][howard])
+v(1,3,4,5,8,9,10,11,18,19,20,21,22,23,24,25,26,27,28,29): 8.377884864807129	 ([actors,][flick.][wonder,][thinking][debra][winger][phoned][in ;][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.])
+v(1,3,4,11,12,13,14,15,23,26,27,28,29): 8.11949348449707	 ([actors,][flick.][wonder,][in ;][dennis][quaid][arliss][howard][waves][like][too.][hated][both.])
+v(5,8,9,10,12,13,14,15,18,19,20,21,22,24,25): 2.7054800987243652	 ([thinking][debra][winger][phoned][dennis][quaid][arliss][howard][thought][deep.][well,][liked][breaking][",][probably])
+v(0,1,2,3,4,6,11,16,17,23,26,27,28,29,30,31): 8.449708938598633	 ([love][actors,][wasted][flick.][wonder,][agreeing][in ;][caricatures.][people][waves][like][too.][hated][both.][3][10 "])
+v(0,2,5,6,8,9,10,16,17,18,19,20,21,22,24,25,30,31): 3.35811710357666	 ([love][wasted][thinking][agreeing][debra][winger][phoned][caricatures.][people][thought][deep.][well,][liked][breaking][",][probably][3][10 "])
+v(0,2,6,12,13,14,15,16,17,30,31): 1.8973817825317383	 ([love][wasted][agreeing][dennis][quaid][arliss][howard][caricatures.][people][3][10 "])
+v(1,3,4,5,6,8,9,10,11,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 8.48106575012207	 ([actors,][flick.][wonder,][thinking][agreeing][debra][winger][phoned][in ;][caricatures.][people][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.][3][10 "])
+v(1,3,4,6,11,12,13,14,15,16,17,23,26,27,28,29,30,31): 8.219371795654297	 ([actors,][flick.][wonder,][agreeing][in ;][dennis][quaid][arliss][howard][caricatures.][people][waves][like][too.][hated][both.][3][10 "])
+v(5,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,24,25,30,31): 3.843380928039551	 ([thinking][agreeing][debra][winger][phoned][dennis][quaid][arliss][howard][caricatures.][people][thought][deep.][well,][liked][breaking][",][probably][3][10 "])
+v(0,1,2,3,4,5,8,9,10,11,18,19,20,21,22,23,24,25,26,27,28,29): 8.372274398803711	 ([love][actors,][wasted][flick.][wonder,][thinking][debra][winger][phoned][in ;][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.])
+v(0,1,2,3,4,11,12,13,14,15,23,26,27,28,29): 8.296782493591309	 ([love][actors,][wasted][flick.][wonder,][in ;][dennis][quaid][arliss][howard][waves][like][too.][hated][both.])
+v(0,2,5,8,9,10,12,13,14,15,18,19,20,21,22,24,25): 1.7230361700057983	 ([love][wasted][thinking][debra][winger][phoned][dennis][quaid][arliss][howard][thought][deep.][well,][liked][breaking][",][probably])
+v(1,3,4,5,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25,26,27,28,29): 8.372068405151367	 ([actors,][flick.][wonder,][thinking][debra][winger][phoned][in ;][dennis][quaid][arliss][howard][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.])
+v(0,1,2,3,4,5,6,8,9,10,11,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 8.361892700195312	 ([love][actors,][wasted][flick.][wonder,][thinking][agreeing][debra][winger][phoned][in ;][caricatures.][people][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.][3][10 "])
+v(0,1,2,3,4,6,11,12,13,14,15,16,17,23,26,27,28,29,30,31): 8.377022743225098	 ([love][actors,][wasted][flick.][wonder,][agreeing][in ;][dennis][quaid][arliss][howard][caricatures.][people][waves][like][too.][hated][both.][3][10 "])
+v(0,2,5,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,24,25,30,31): 4.119131088256836	 ([love][wasted][thinking][agreeing][debra][winger][phoned][dennis][quaid][arliss][howard][caricatures.][people][thought][deep.][well,][liked][breaking][",][probably][3][10 "])
+v(1,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 8.453934669494629	 ([actors,][flick.][wonder,][thinking][agreeing][debra][winger][phoned][in ;][dennis][quaid][arliss][howard][caricatures.][people][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.][3][10 "])
+v(0,1,2,3,4,5,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25,26,27,28,29): 8.320131301879883	 ([love][actors,][wasted][flick.][wonder,][thinking][debra][winger][phoned][in ;][dennis][quaid][arliss][howard][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 8.454582214355469	 ([love][actors,][wasted][flick.][wonder,][thinking][agreeing][crap???][debra][winger][phoned][in ;][dennis][quaid][arliss][howard][caricatures.][people][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.][3][10 "])
+---------- Rewards-v() ----------
+v(1,3,4,5,6,8,9,10,11,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 6.3452653884887695, EP: 1.004191279411316	 ([actors,][flick.][wonder,][thinking][agreeing][debra][winger][phoned][in ;][caricatures.][people][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.][3][10 "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 6.318781852722168, EP: 1.0	 ([love][actors,][wasted][flick.][wonder,][thinking][agreeing][crap???][debra][winger][phoned][in ;][dennis][quaid][arliss][howard][caricatures.][people][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.][3][10 "])
+v(1,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 6.318134307861328, EP: 0.9998975396156311	 ([actors,][flick.][wonder,][thinking][agreeing][debra][winger][phoned][in ;][dennis][quaid][arliss][howard][caricatures.][people][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.][3][10 "])
+v(0,1,2,3,4,6,11,16,17,23,26,27,28,29,30,31): 6.313908576965332, EP: 0.9992287755012512	 ([love][actors,][wasted][flick.][wonder,][agreeing][in ;][caricatures.][people][waves][like][too.][hated][both.][3][10 "])
+v(1,3,4,5,8,9,10,11,18,19,20,21,22,23,24,25,26,27,28,29): 6.242084503173828, EP: 0.9878619909286499	 ([actors,][flick.][wonder,][thinking][debra][winger][phoned][in ;][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.])
+v(0,1,2,3,4,6,11,12,13,14,15,16,17,23,26,27,28,29,30,31): 6.241222381591797, EP: 0.987725555896759	 ([love][actors,][wasted][flick.][wonder,][agreeing][in ;][dennis][quaid][arliss][howard][caricatures.][people][waves][like][too.][hated][both.][3][10 "])
+v(0,1,2,3,4,5,8,9,10,11,18,19,20,21,22,23,24,25,26,27,28,29): 6.23647403717041, EP: 0.9869741201400757	 ([love][actors,][wasted][flick.][wonder,][thinking][debra][winger][phoned][in ;][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.])
+v(1,3,4,5,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25,26,27,28,29): 6.236268043518066, EP: 0.9869415163993835	 ([actors,][flick.][wonder,][thinking][debra][winger][phoned][in ;][dennis][quaid][arliss][howard][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.])
+v(0,1,2,3,4,5,6,8,9,10,11,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 6.226092338562012, EP: 0.985331118106842	 ([love][actors,][wasted][flick.][wonder,][thinking][agreeing][debra][winger][phoned][in ;][caricatures.][people][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.][3][10 "])
+v(0,1,2,3,4,5,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25,26,27,28,29): 6.184330940246582, EP: 0.9787220358848572	 ([love][actors,][wasted][flick.][wonder,][thinking][debra][winger][phoned][in ;][dennis][quaid][arliss][howard][thought][deep.][well,][liked][breaking][waves][",][probably][like][too.][hated][both.])
+v(0,1,2,3,4,11,12,13,14,15,23,26,27,28,29): 6.160982131958008, EP: 0.9750269055366516	 ([love][actors,][wasted][flick.][wonder,][in ;][dennis][quaid][arliss][howard][waves][like][too.][hated][both.])
+v(0,1,2,3,4,11,23,26,27,28,29): 6.1279449462890625, EP: 0.9697984457015991	 ([love][actors,][wasted][flick.][wonder,][in ;][waves][like][too.][hated][both.])
+v(1,3,4,6,11,16,17,23,26,27,28,29,30,31): 6.089350700378418, EP: 0.9636905789375305	 ([actors,][flick.][wonder,][agreeing][in ;][caricatures.][people][waves][like][too.][hated][both.][3][10 "])
+v(1,3,4,6,11,12,13,14,15,16,17,23,26,27,28,29,30,31): 6.083571434020996, EP: 0.9627760052680969	 ([actors,][flick.][wonder,][agreeing][in ;][dennis][quaid][arliss][howard][caricatures.][people][waves][like][too.][hated][both.][3][10 "])
+v(1,3,4,11,12,13,14,15,23,26,27,28,29): 5.9836931228637695, EP: 0.9469693899154663	 ([actors,][flick.][wonder,][in ;][dennis][quaid][arliss][howard][waves][like][too.][hated][both.])
+v(1,3,4,11,23,26,27,28,29): 5.89969539642334, EP: 0.9336760640144348	 ([actors,][flick.][wonder,][in ;][waves][like][too.][hated][both.])
+v(0,2): -4.552847862243652, EP: -0.7205262184143066	 ([love][wasted])
+v(0,2,12,13,14,15): -4.158229351043701, EP: -0.6580744981765747	 ([love][wasted][dennis][quaid][arliss][howard])
+v(0,2,5,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,24,25,30,31): 1.9833307266235352, EP: 0.3138786554336548	 ([love][wasted][thinking][agreeing][debra][winger][phoned][dennis][quaid][arliss][howard][caricatures.][people][thought][deep.][well,][liked][breaking][",][probably][3][10 "])
+v(5,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,24,25,30,31): 1.70758056640625, EP: 0.27023887634277344	 ([thinking][agreeing][debra][winger][phoned][dennis][quaid][arliss][howard][caricatures.][people][thought][deep.][well,][liked][breaking][",][probably][3][10 "])
+v(0,2,5,6,8,9,10,16,17,18,19,20,21,22,24,25,30,31): 1.2223167419433594, EP: 0.19344183802604675	 ([love][wasted][thinking][agreeing][debra][winger][phoned][caricatures.][people][thought][deep.][well,][liked][breaking][",][probably][3][10 "])
+v(6,12,13,14,15,16,17,30,31): 1.178891897201538, EP: 0.186569482088089	 ([agreeing][dennis][quaid][arliss][howard][caricatures.][people][3][10 "])
+v(6,16,17,30,31): 1.1324706077575684, EP: 0.1792229264974594	 ([agreeing][caricatures.][people][3][10 "])
+v(0,2,5,8,9,10,18,19,20,21,22,24,25): -1.1136608123779297, EP: -0.17624612152576447	 ([love][wasted][thinking][debra][winger][phoned][thought][deep.][well,][liked][breaking][",][probably])
+v(5,6,8,9,10,16,17,18,19,20,21,22,24,25,30,31): 0.7938904762268066, EP: 0.12563979625701904	 ([thinking][agreeing][debra][winger][phoned][caricatures.][people][thought][deep.][well,][liked][breaking][",][probably][3][10 "])
+v(5,8,9,10,12,13,14,15,18,19,20,21,22,24,25): 0.5696797370910645, EP: 0.09015657752752304	 ([thinking][debra][winger][phoned][dennis][quaid][arliss][howard][thought][deep.][well,][liked][breaking][",][probably])
+v(0,2,5,8,9,10,12,13,14,15,18,19,20,21,22,24,25): -0.41276419162750244, EP: -0.06532338261604309	 ([love][wasted][thinking][debra][winger][phoned][dennis][quaid][arliss][howard][thought][deep.][well,][liked][breaking][",][probably])
+v(12,13,14,15): -0.3754920959472656, EP: -0.059424761682748795	 ([dennis][quaid][arliss][howard])
+v(0,2,6,16,17,30,31): 0.35684871673583984, EP: 0.056474290788173676	 ([love][wasted][agreeing][caricatures.][people][3][10 "])
+v(5,8,9,10,18,19,20,21,22,24,25): 0.24446845054626465, EP: 0.03868917375802994	 ([thinking][debra][winger][phoned][thought][deep.][well,][liked][breaking][",][probably])
+v(0,2,6,12,13,14,15,16,17,30,31): -0.2384185791015625, EP: -0.03773173317313194	 ([love][wasted][agreeing][dennis][quaid][arliss][howard][caricatures.][people][3][10 "])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,8 @@
+louvain社区检测结果:
+社区 1: ['12', '11', '10', '0']: ['serialized', 'magazine', 'pulp', 'serials']: 平均边权 0.8625
+社区 2: ['2', '13', '18', '4', '3', '9', '1', '14']: ['subjects', 'fiction.', 'extended', 'shown', 'originally', 'related', 'short', 'known']: 平均边权 0.2141
+社区 3: ['61', '38', '57', '58', '40', '39', '55', '42', '37', '59', '62', '54']: ['serials', 'cliffhanger,', 'escape', 'battle', 'heroine', 'hero', 'heroine', 'find', 'end', 'villain', 'especially', 'hero']: 平均边权 0.3502
+社区 4: ['8', '5', '20', '32', '31', '48', '6', '7']: ['film', 'theaters', 'pictures', 'theater', 'screened', 'audience', 'conjunction', 'feature']: 平均边权 0.6352
+社区 5: ['51', '56', '63', '49', '52', '50', '53', '60', '64']: ['next', 'would', 'popular', 'would', 'week', 'return', 'find', 'again.', 'children,']: 平均边权 0.3103
+社区 6: ['35', '36', '45', '34', '47', '30', '41', '44', '43', '33']: ['serial', 'would', 'situation', 'week.', 'escape.', 'would', 'would', 'perilous', 'latest', 'one']: 平均边权 0.2863
+社区 7: ['19', '27', '25', '46', '29', '21', '16', '15', '23', '22', '24', '26', '17', '28']: ['motion', '" episodes.', '" chapters', 'could', 'chapter', 'broken', 'plays,', 'chapter', 'segments', 'number', 'called', '"', '"', '"']: 平均边权 0.2639

@@ -1,0 +1,173 @@
+---------- Players ----------
+Player 0: people
+Player 1: seen
+Player 2: movie
+Player 3: thinks
+Player 4: best
+Player 5: movie
+Player 6: ever
+Player 7: made.
+Player 8: disagree
+Player 9: movie
+Player 10: good.
+Player 11: tony
+Player 12: bad
+Player 13: ass
+Player 14: guy
+Player 15: knows
+Player 16: he's
+Player 17: intimidating
+Player 18: uses
+Player 19: get
+Player 20: ahead.
+Player 21: goes
+Player 22: washing
+Player 23: dishes
+Player 24: huge
+Player 25: house
+Player 26: office
+Player 27: cocaine
+Player 28: desk.
+Player 29: want
+Player 30: family
+Player 31: movie
+Player 32: way
+Player 33: go
+Player 34: want
+Player 35: mobsters
+Player 36: vengeance
+Player 37: stuff
+Player 38: like
+Player 39: like
+Player 40: it.
+---------- Rewards ----------
+v(): 7.8539018630981445	 ([])
+v(6,10,11,12,15,16,20,28,30,31,32,33): 8.817367553710938	 ([ever][good.][tony][bad][knows][he's][ahead.][desk.][family][movie][way][go])
+v(0,1,2,4): 8.355141639709473	 ([people][seen][movie][best])
+v(14,18,19,29,34,38,39,40): 6.363132476806641	 ([guy][uses][get][want][want][like][like][it.])
+v(23,24,25,26): 7.590285778045654	 ([dishes][huge][house][office])
+v(3,5,7,8,13,17,21,22,27): 7.640383243560791	 ([thinks][movie][made.][disagree][ass][intimidating][goes][washing][cocaine])
+v(9,35,36,37): 7.928265571594238	 ([movie][mobsters][vengeance][stuff])
+v(0,1,2,4,6,10,11,12,15,16,20,28,30,31,32,33): 8.748700141906738	 ([people][seen][movie][best][ever][good.][tony][bad][knows][he's][ahead.][desk.][family][movie][way][go])
+v(6,10,11,12,14,15,16,18,19,20,28,29,30,31,32,33,34,38,39,40): 8.718582153320312	 ([ever][good.][tony][bad][guy][knows][he's][uses][get][ahead.][desk.][want][family][movie][way][go][want][like][like][it.])
+v(6,10,11,12,15,16,20,23,24,25,26,28,30,31,32,33): 8.856916427612305	 ([ever][good.][tony][bad][knows][he's][ahead.][dishes][huge][house][office][desk.][family][movie][way][go])
+v(3,5,6,7,8,10,11,12,13,15,16,17,20,21,22,27,28,30,31,32,33): 8.57286548614502	 ([thinks][movie][ever][made.][disagree][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][cocaine][desk.][family][movie][way][go])
+v(6,9,10,11,12,15,16,20,28,30,31,32,33,35,36,37): 8.825576782226562	 ([ever][movie][good.][tony][bad][knows][he's][ahead.][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(0,1,2,4,14,18,19,29,34,38,39,40): 7.346750736236572	 ([people][seen][movie][best][guy][uses][get][want][want][like][like][it.])
+v(0,1,2,4,23,24,25,26): 8.268064498901367	 ([people][seen][movie][best][dishes][huge][house][office])
+v(0,1,2,3,4,5,7,8,13,17,21,22,27): 8.37704086303711	 ([people][seen][movie][thinks][best][movie][made.][disagree][ass][intimidating][goes][washing][cocaine])
+v(0,1,2,4,9,35,36,37): 8.084495544433594	 ([people][seen][movie][best][movie][mobsters][vengeance][stuff])
+v(14,18,19,23,24,25,26,29,34,38,39,40): 5.3065876960754395	 ([guy][uses][get][dishes][huge][house][office][want][want][like][like][it.])
+v(3,5,7,8,13,14,17,18,19,21,22,27,29,34,38,39,40): 5.048680305480957	 ([thinks][movie][made.][disagree][ass][guy][intimidating][uses][get][goes][washing][cocaine][want][want][like][like][it.])
+v(9,14,18,19,29,34,35,36,37,38,39,40): 7.491779804229736	 ([movie][guy][uses][get][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(3,5,7,8,13,17,21,22,23,24,25,26,27): 7.5329389572143555	 ([thinks][movie][made.][disagree][ass][intimidating][goes][washing][dishes][huge][house][office][cocaine])
+v(9,23,24,25,26,35,36,37): 7.612923622131348	 ([movie][dishes][huge][house][office][mobsters][vengeance][stuff])
+v(3,5,7,8,9,13,17,21,22,27,35,36,37): 7.8639984130859375	 ([thinks][movie][made.][disagree][movie][ass][intimidating][goes][washing][cocaine][mobsters][vengeance][stuff])
+v(0,1,2,4,6,10,11,12,14,15,16,18,19,20,28,29,30,31,32,33,34,38,39,40): 8.655754089355469	 ([people][seen][movie][best][ever][good.][tony][bad][guy][knows][he's][uses][get][ahead.][desk.][want][family][movie][way][go][want][like][like][it.])
+v(0,1,2,4,6,10,11,12,15,16,20,23,24,25,26,28,30,31,32,33): 8.812204360961914	 ([people][seen][movie][best][ever][good.][tony][bad][knows][he's][ahead.][dishes][huge][house][office][desk.][family][movie][way][go])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,15,16,17,20,21,22,27,28,30,31,32,33): 8.689092636108398	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][cocaine][desk.][family][movie][way][go])
+v(0,1,2,4,6,9,10,11,12,15,16,20,28,30,31,32,33,35,36,37): 8.779150009155273	 ([people][seen][movie][best][ever][movie][good.][tony][bad][knows][he's][ahead.][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(6,10,11,12,14,15,16,18,19,20,23,24,25,26,28,29,30,31,32,33,34,38,39,40): 8.756118774414062	 ([ever][good.][tony][bad][guy][knows][he's][uses][get][ahead.][dishes][huge][house][office][desk.][want][family][movie][way][go][want][like][like][it.])
+v(3,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,27,28,29,30,31,32,33,34,38,39,40): 8.641611099243164	 ([thinks][movie][ever][made.][disagree][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][cocaine][desk.][want][family][movie][way][go][want][like][like][it.])
+v(6,9,10,11,12,14,15,16,18,19,20,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.785643577575684	 ([ever][movie][good.][tony][bad][guy][knows][he's][uses][get][ahead.][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(3,5,6,7,8,10,11,12,13,15,16,17,20,21,22,23,24,25,26,27,28,30,31,32,33): 8.536067962646484	 ([thinks][movie][ever][made.][disagree][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][family][movie][way][go])
+v(6,9,10,11,12,15,16,20,23,24,25,26,28,30,31,32,33,35,36,37): 8.880892753601074	 ([ever][movie][good.][tony][bad][knows][he's][ahead.][dishes][huge][house][office][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(3,5,6,7,8,9,10,11,12,13,15,16,17,20,21,22,27,28,30,31,32,33,35,36,37): 8.733874320983887	 ([thinks][movie][ever][made.][disagree][movie][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][cocaine][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(0,1,2,4,14,18,19,23,24,25,26,29,34,38,39,40): 6.876822471618652	 ([people][seen][movie][best][guy][uses][get][dishes][huge][house][office][want][want][like][like][it.])
+v(0,1,2,3,4,5,7,8,13,14,17,18,19,21,22,27,29,34,38,39,40): 6.65449333190918	 ([people][seen][movie][thinks][best][movie][made.][disagree][ass][guy][intimidating][uses][get][goes][washing][cocaine][want][want][like][like][it.])
+v(0,1,2,4,9,14,18,19,29,34,35,36,37,38,39,40): 7.673348903656006	 ([people][seen][movie][best][movie][guy][uses][get][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,3,4,5,7,8,13,17,21,22,23,24,25,26,27): 8.397905349731445	 ([people][seen][movie][thinks][best][movie][made.][disagree][ass][intimidating][goes][washing][dishes][huge][house][office][cocaine])
+v(0,1,2,4,9,23,24,25,26,35,36,37): 8.005011558532715	 ([people][seen][movie][best][movie][dishes][huge][house][office][mobsters][vengeance][stuff])
+v(0,1,2,3,4,5,7,8,9,13,17,21,22,27,35,36,37): 8.348897933959961	 ([people][seen][movie][thinks][best][movie][made.][disagree][movie][ass][intimidating][goes][washing][cocaine][mobsters][vengeance][stuff])
+v(3,5,7,8,13,14,17,18,19,21,22,23,24,25,26,27,29,34,38,39,40): 5.432926654815674	 ([thinks][movie][made.][disagree][ass][guy][intimidating][uses][get][goes][washing][dishes][huge][house][office][cocaine][want][want][like][like][it.])
+v(9,14,18,19,23,24,25,26,29,34,35,36,37,38,39,40): 6.599277496337891	 ([movie][guy][uses][get][dishes][huge][house][office][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(3,5,7,8,9,13,14,17,18,19,21,22,27,29,34,35,36,37,38,39,40): 6.845456600189209	 ([thinks][movie][made.][disagree][movie][ass][guy][intimidating][uses][get][goes][washing][cocaine][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(3,5,7,8,9,13,17,21,22,23,24,25,26,27,35,36,37): 7.749850273132324	 ([thinks][movie][made.][disagree][movie][ass][intimidating][goes][washing][dishes][huge][house][office][cocaine][mobsters][vengeance][stuff])
+v(0,1,2,4,6,10,11,12,14,15,16,18,19,20,23,24,25,26,28,29,30,31,32,33,34,38,39,40): 8.740564346313477	 ([people][seen][movie][best][ever][good.][tony][bad][guy][knows][he's][uses][get][ahead.][dishes][huge][house][office][desk.][want][family][movie][way][go][want][like][like][it.])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,27,28,29,30,31,32,33,34,38,39,40): 8.692962646484375	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][cocaine][desk.][want][family][movie][way][go][want][like][like][it.])
+v(0,1,2,4,6,9,10,11,12,14,15,16,18,19,20,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.754098892211914	 ([people][seen][movie][best][ever][movie][good.][tony][bad][guy][knows][he's][uses][get][ahead.][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,15,16,17,20,21,22,23,24,25,26,27,28,30,31,32,33): 8.672195434570312	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][family][movie][way][go])
+v(0,1,2,4,6,9,10,11,12,15,16,20,23,24,25,26,28,30,31,32,33,35,36,37): 8.818940162658691	 ([people][seen][movie][best][ever][movie][good.][tony][bad][knows][he's][ahead.][dishes][huge][house][office][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,20,21,22,27,28,30,31,32,33,35,36,37): 8.83382511138916	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][movie][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][cocaine][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(3,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,38,39,40): 8.637636184692383	 ([thinks][movie][ever][made.][disagree][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][want][family][movie][way][go][want][like][like][it.])
+v(6,9,10,11,12,14,15,16,18,19,20,23,24,25,26,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.860299110412598	 ([ever][movie][good.][tony][bad][guy][knows][he's][uses][get][ahead.][dishes][huge][house][office][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.787520408630371	 ([thinks][movie][ever][made.][disagree][movie][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][cocaine][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(3,5,6,7,8,9,10,11,12,13,15,16,17,20,21,22,23,24,25,26,27,28,30,31,32,33,35,36,37): 8.706855773925781	 ([thinks][movie][ever][made.][disagree][movie][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(0,1,2,3,4,5,7,8,13,14,17,18,19,21,22,23,24,25,26,27,29,34,38,39,40): 6.985569000244141	 ([people][seen][movie][thinks][best][movie][made.][disagree][ass][guy][intimidating][uses][get][goes][washing][dishes][huge][house][office][cocaine][want][want][like][like][it.])
+v(0,1,2,4,9,14,18,19,23,24,25,26,29,34,35,36,37,38,39,40): 7.334232330322266	 ([people][seen][movie][best][movie][guy][uses][get][dishes][huge][house][office][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,3,4,5,7,8,9,13,14,17,18,19,21,22,27,29,34,35,36,37,38,39,40): 7.547407627105713	 ([people][seen][movie][thinks][best][movie][made.][disagree][movie][ass][guy][intimidating][uses][get][goes][washing][cocaine][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,3,4,5,7,8,9,13,17,21,22,23,24,25,26,27,35,36,37): 8.348134994506836	 ([people][seen][movie][thinks][best][movie][made.][disagree][movie][ass][intimidating][goes][washing][dishes][huge][house][office][cocaine][mobsters][vengeance][stuff])
+v(3,5,7,8,9,13,14,17,18,19,21,22,23,24,25,26,27,29,34,35,36,37,38,39,40): 7.04327392578125	 ([thinks][movie][made.][disagree][movie][ass][guy][intimidating][uses][get][goes][washing][dishes][huge][house][office][cocaine][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,38,39,40): 8.690069198608398	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][want][family][movie][way][go][want][like][like][it.])
+v(0,1,2,4,6,9,10,11,12,14,15,16,18,19,20,23,24,25,26,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.82477855682373	 ([people][seen][movie][best][ever][movie][good.][tony][bad][guy][knows][he's][uses][get][ahead.][dishes][huge][house][office][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.885578155517578	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][movie][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][cocaine][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,20,21,22,23,24,25,26,27,28,30,31,32,33,35,36,37): 8.818724632263184	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][movie][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.791379928588867	 ([thinks][movie][ever][made.][disagree][movie][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,3,4,5,7,8,9,13,14,17,18,19,21,22,23,24,25,26,27,29,34,35,36,37,38,39,40): 7.738880157470703	 ([people][seen][movie][thinks][best][movie][made.][disagree][movie][ass][guy][intimidating][uses][get][goes][washing][dishes][huge][house][office][cocaine][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.875226974487305	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][movie][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+---------- Rewards-v() ----------
+v(3,5,7,8,13,14,17,18,19,21,22,27,29,34,38,39,40): -2.8052215576171875, EP: -2.7466490268707275	 ([thinks][movie][made.][disagree][ass][guy][intimidating][uses][get][goes][washing][cocaine][want][want][like][like][it.])
+v(14,18,19,23,24,25,26,29,34,38,39,40): -2.547314167022705, EP: -2.494126558303833	 ([guy][uses][get][dishes][huge][house][office][want][want][like][like][it.])
+v(3,5,7,8,13,14,17,18,19,21,22,23,24,25,26,27,29,34,38,39,40): -2.4209752082824707, EP: -2.3704257011413574	 ([thinks][movie][made.][disagree][ass][guy][intimidating][uses][get][goes][washing][dishes][huge][house][office][cocaine][want][want][like][like][it.])
+v(14,18,19,29,34,38,39,40): -1.490769386291504, EP: -1.4596422910690308	 ([guy][uses][get][want][want][like][like][it.])
+v(9,14,18,19,23,24,25,26,29,34,35,36,37,38,39,40): -1.254624366760254, EP: -1.2284280061721802	 ([movie][guy][uses][get][dishes][huge][house][office][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,3,4,5,7,8,13,14,17,18,19,21,22,27,29,34,38,39,40): -1.1994085311889648, EP: -1.1743650436401367	 ([people][seen][movie][thinks][best][movie][made.][disagree][ass][guy][intimidating][uses][get][goes][washing][cocaine][want][want][like][like][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 1.0316762924194336, EP: 1.0101350545883179	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][movie][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][cocaine][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(6,9,10,11,12,15,16,20,23,24,25,26,28,30,31,32,33,35,36,37): 1.0269908905029297, EP: 1.0055475234985352	 ([ever][movie][good.][tony][bad][knows][he's][ahead.][dishes][huge][house][office][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 1.0213251113891602, EP: 1.0	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][movie][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(3,5,7,8,9,13,14,17,18,19,21,22,27,29,34,35,36,37,38,39,40): -1.0084452629089355, EP: -0.987389087677002	 ([thinks][movie][made.][disagree][movie][ass][guy][intimidating][uses][get][goes][washing][cocaine][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(6,9,10,11,12,14,15,16,18,19,20,23,24,25,26,28,29,30,31,32,33,34,35,36,37,38,39,40): 1.0063972473144531, EP: 0.9853838086128235	 ([ever][movie][good.][tony][bad][guy][knows][he's][uses][get][ahead.][dishes][huge][house][office][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(6,10,11,12,15,16,20,23,24,25,26,28,30,31,32,33): 1.0030145645141602, EP: 0.9820717573165894	 ([ever][good.][tony][bad][knows][he's][ahead.][dishes][huge][house][office][desk.][family][movie][way][go])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,20,21,22,27,28,30,31,32,33,35,36,37): 0.9799232482910156, EP: 0.959462583065033	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][movie][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][cocaine][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(0,1,2,4,14,18,19,23,24,25,26,29,34,38,39,40): -0.9770793914794922, EP: -0.9566781520843506	 ([people][seen][movie][best][guy][uses][get][dishes][huge][house][office][want][want][like][like][it.])
+v(6,9,10,11,12,15,16,20,28,30,31,32,33,35,36,37): 0.971674919128418, EP: 0.9513865113258362	 ([ever][movie][good.][tony][bad][knows][he's][ahead.][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(0,1,2,4,6,9,10,11,12,14,15,16,18,19,20,23,24,25,26,28,29,30,31,32,33,34,35,36,37,38,39,40): 0.9708766937255859, EP: 0.9506049156188965	 ([people][seen][movie][best][ever][movie][good.][tony][bad][guy][knows][he's][uses][get][ahead.][dishes][huge][house][office][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,4,6,9,10,11,12,15,16,20,23,24,25,26,28,30,31,32,33,35,36,37): 0.9650382995605469, EP: 0.9448884725570679	 ([people][seen][movie][best][ever][movie][good.][tony][bad][knows][he's][ahead.][dishes][huge][house][office][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,20,21,22,23,24,25,26,27,28,30,31,32,33,35,36,37): 0.9648227691650391, EP: 0.9446774125099182	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][movie][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(6,10,11,12,15,16,20,28,30,31,32,33): 0.963465690612793, EP: 0.9433486461639404	 ([ever][good.][tony][bad][knows][he's][ahead.][desk.][family][movie][way][go])
+v(0,1,2,4,6,10,11,12,15,16,20,23,24,25,26,28,30,31,32,33): 0.9583024978637695, EP: 0.9382932782173157	 ([people][seen][movie][best][ever][good.][tony][bad][knows][he's][ahead.][dishes][huge][house][office][desk.][family][movie][way][go])
+v(3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 0.9374780654907227, EP: 0.9179036617279053	 ([thinks][movie][ever][made.][disagree][movie][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 0.9336185455322266, EP: 0.9141247272491455	 ([thinks][movie][ever][made.][disagree][movie][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][cocaine][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(6,9,10,11,12,14,15,16,18,19,20,28,29,30,31,32,33,34,35,36,37,38,39,40): 0.9317417144775391, EP: 0.9122871160507202	 ([ever][movie][good.][tony][bad][guy][knows][he's][uses][get][ahead.][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,4,6,9,10,11,12,15,16,20,28,30,31,32,33,35,36,37): 0.9252481460571289, EP: 0.9059290885925293	 ([people][seen][movie][best][ever][movie][good.][tony][bad][knows][he's][ahead.][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(6,10,11,12,14,15,16,18,19,20,23,24,25,26,28,29,30,31,32,33,34,38,39,40): 0.902216911315918, EP: 0.8833787441253662	 ([ever][good.][tony][bad][guy][knows][he's][uses][get][ahead.][dishes][huge][house][office][desk.][want][family][movie][way][go][want][like][like][it.])
+v(0,1,2,4,6,9,10,11,12,14,15,16,18,19,20,28,29,30,31,32,33,34,35,36,37,38,39,40): 0.9001970291137695, EP: 0.8814010620117188	 ([people][seen][movie][best][ever][movie][good.][tony][bad][guy][knows][he's][uses][get][ahead.][desk.][want][family][movie][way][go][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,4,6,10,11,12,15,16,20,28,30,31,32,33): 0.8947982788085938, EP: 0.8761150240898132	 ([people][seen][movie][best][ever][good.][tony][bad][knows][he's][ahead.][desk.][family][movie][way][go])
+v(0,1,2,4,6,10,11,12,14,15,16,18,19,20,23,24,25,26,28,29,30,31,32,33,34,38,39,40): 0.886662483215332, EP: 0.8681491017341614	 ([people][seen][movie][best][ever][good.][tony][bad][guy][knows][he's][uses][get][ahead.][dishes][huge][house][office][desk.][want][family][movie][way][go][want][like][like][it.])
+v(3,5,6,7,8,9,10,11,12,13,15,16,17,20,21,22,27,28,30,31,32,33,35,36,37): 0.8799724578857422, EP: 0.861598789691925	 ([thinks][movie][ever][made.][disagree][movie][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][cocaine][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(0,1,2,3,4,5,7,8,13,14,17,18,19,21,22,23,24,25,26,27,29,34,38,39,40): -0.8683328628540039, EP: -0.850202202796936	 ([people][seen][movie][thinks][best][movie][made.][disagree][ass][guy][intimidating][uses][get][goes][washing][dishes][huge][house][office][cocaine][want][want][like][like][it.])
+v(6,10,11,12,14,15,16,18,19,20,28,29,30,31,32,33,34,38,39,40): 0.864680290222168, EP: 0.8466259241104126	 ([ever][good.][tony][bad][guy][knows][he's][uses][get][ahead.][desk.][want][family][movie][way][go][want][like][like][it.])
+v(3,5,6,7,8,9,10,11,12,13,15,16,17,20,21,22,23,24,25,26,27,28,30,31,32,33,35,36,37): 0.8529539108276367, EP: 0.8351443409919739	 ([thinks][movie][ever][made.][disagree][movie][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][family][movie][way][go][mobsters][vengeance][stuff])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,27,28,29,30,31,32,33,34,38,39,40): 0.8390607833862305, EP: 0.8215413093566895	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][cocaine][desk.][want][family][movie][way][go][want][like][like][it.])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,38,39,40): 0.8361673355102539, EP: 0.8187083005905151	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][want][family][movie][way][go][want][like][like][it.])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,15,16,17,20,21,22,27,28,30,31,32,33): 0.8351907730102539, EP: 0.8177521228790283	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][cocaine][desk.][family][movie][way][go])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,15,16,17,20,21,22,23,24,25,26,27,28,30,31,32,33): 0.818293571472168, EP: 0.8012077212333679	 ([people][seen][movie][thinks][best][movie][ever][made.][disagree][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][family][movie][way][go])
+v(3,5,7,8,9,13,14,17,18,19,21,22,23,24,25,26,27,29,34,35,36,37,38,39,40): -0.8106279373168945, EP: -0.7937021255493164	 ([thinks][movie][made.][disagree][movie][ass][guy][intimidating][uses][get][goes][washing][dishes][huge][house][office][cocaine][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,4,6,10,11,12,14,15,16,18,19,20,28,29,30,31,32,33,34,38,39,40): 0.8018522262573242, EP: 0.7851096987724304	 ([people][seen][movie][best][ever][good.][tony][bad][guy][knows][he's][uses][get][ahead.][desk.][want][family][movie][way][go][want][like][like][it.])
+v(3,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,27,28,29,30,31,32,33,34,38,39,40): 0.7877092361450195, EP: 0.771261990070343	 ([thinks][movie][ever][made.][disagree][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][cocaine][desk.][want][family][movie][way][go][want][like][like][it.])
+v(3,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,38,39,40): 0.7837343215942383, EP: 0.7673700451850891	 ([thinks][movie][ever][made.][disagree][good.][tony][bad][ass][guy][knows][he's][intimidating][uses][get][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][want][family][movie][way][go][want][like][like][it.])
+v(3,5,6,7,8,10,11,12,13,15,16,17,20,21,22,27,28,30,31,32,33): 0.718963623046875, EP: 0.7039517760276794	 ([thinks][movie][ever][made.][disagree][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][cocaine][desk.][family][movie][way][go])
+v(3,5,6,7,8,10,11,12,13,15,16,17,20,21,22,23,24,25,26,27,28,30,31,32,33): 0.6821660995483398, EP: 0.6679225564002991	 ([thinks][movie][ever][made.][disagree][good.][tony][bad][ass][knows][he's][intimidating][ahead.][goes][washing][dishes][huge][house][office][cocaine][desk.][family][movie][way][go])
+v(0,1,2,3,4,5,7,8,13,17,21,22,23,24,25,26,27): 0.5440034866333008, EP: 0.5326447486877441	 ([people][seen][movie][thinks][best][movie][made.][disagree][ass][intimidating][goes][washing][dishes][huge][house][office][cocaine])
+v(0,1,2,3,4,5,7,8,13,17,21,22,27): 0.5231389999389648, EP: 0.5122159123420715	 ([people][seen][movie][thinks][best][movie][made.][disagree][ass][intimidating][goes][washing][cocaine])
+v(0,1,2,4,9,14,18,19,23,24,25,26,29,34,35,36,37,38,39,40): -0.5196695327758789, EP: -0.5088189244270325	 ([people][seen][movie][best][movie][guy][uses][get][dishes][huge][house][office][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,4,14,18,19,29,34,38,39,40): -0.5071511268615723, EP: -0.4965618848800659	 ([people][seen][movie][best][guy][uses][get][want][want][like][like][it.])
+v(0,1,2,4): 0.5012397766113281, EP: 0.4907739758491516	 ([people][seen][movie][best])
+v(0,1,2,3,4,5,7,8,9,13,17,21,22,27,35,36,37): 0.4949960708618164, EP: 0.48466062545776367	 ([people][seen][movie][thinks][best][movie][made.][disagree][movie][ass][intimidating][goes][washing][cocaine][mobsters][vengeance][stuff])
+v(0,1,2,3,4,5,7,8,9,13,17,21,22,23,24,25,26,27,35,36,37): 0.4942331314086914, EP: 0.4839136302471161	 ([people][seen][movie][thinks][best][movie][made.][disagree][movie][ass][intimidating][goes][washing][dishes][huge][house][office][cocaine][mobsters][vengeance][stuff])
+v(0,1,2,4,23,24,25,26): 0.41416263580322266, EP: 0.40551498532295227	 ([people][seen][movie][best][dishes][huge][house][office])
+v(9,14,18,19,29,34,35,36,37,38,39,40): -0.3621220588684082, EP: -0.3545610010623932	 ([movie][guy][uses][get][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(3,5,7,8,13,17,21,22,23,24,25,26,27): -0.32096290588378906, EP: -0.314261257648468	 ([thinks][movie][made.][disagree][ass][intimidating][goes][washing][dishes][huge][house][office][cocaine])
+v(0,1,2,3,4,5,7,8,9,13,14,17,18,19,21,22,27,29,34,35,36,37,38,39,40): -0.30649423599243164, EP: -0.30009469389915466	 ([people][seen][movie][thinks][best][movie][made.][disagree][movie][ass][guy][intimidating][uses][get][goes][washing][cocaine][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(23,24,25,26): -0.26361608505249023, EP: -0.258111834526062	 ([dishes][huge][house][office])
+v(9,23,24,25,26,35,36,37): -0.24097824096679688, EP: -0.2359466552734375	 ([movie][dishes][huge][house][office][mobsters][vengeance][stuff])
+v(0,1,2,4,9,35,36,37): 0.23059368133544922, EP: 0.22577892243862152	 ([people][seen][movie][best][movie][mobsters][vengeance][stuff])
+v(3,5,7,8,13,17,21,22,27): -0.21351861953735352, EP: -0.20906038582324982	 ([thinks][movie][made.][disagree][ass][intimidating][goes][washing][cocaine])
+v(0,1,2,4,9,14,18,19,29,34,35,36,37,38,39,40): -0.18055295944213867, EP: -0.17678304016590118	 ([people][seen][movie][best][movie][guy][uses][get][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(0,1,2,4,9,23,24,25,26,35,36,37): 0.1511096954345703, EP: 0.1479545533657074	 ([people][seen][movie][best][movie][dishes][huge][house][office][mobsters][vengeance][stuff])
+v(0,1,2,3,4,5,7,8,9,13,14,17,18,19,21,22,23,24,25,26,27,29,34,35,36,37,38,39,40): -0.1150217056274414, EP: -0.11262007057666779	 ([people][seen][movie][thinks][best][movie][made.][disagree][movie][ass][guy][intimidating][uses][get][goes][washing][dishes][huge][house][office][cocaine][want][want][mobsters][vengeance][stuff][like][like][it.])
+v(3,5,7,8,9,13,17,21,22,23,24,25,26,27,35,36,37): -0.10405158996582031, EP: -0.10187900811433792	 ([thinks][movie][made.][disagree][movie][ass][intimidating][goes][washing][dishes][huge][house][office][cocaine][mobsters][vengeance][stuff])
+v(9,35,36,37): 0.07436370849609375, EP: 0.07281100749969482	 ([movie][mobsters][vengeance][stuff])
+v(3,5,7,8,9,13,17,21,22,27,35,36,37): 0.010096549987792969, EP: 0.009885735809803009	 ([thinks][movie][made.][disagree][movie][ass][intimidating][goes][washing][cocaine][mobsters][vengeance][stuff])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

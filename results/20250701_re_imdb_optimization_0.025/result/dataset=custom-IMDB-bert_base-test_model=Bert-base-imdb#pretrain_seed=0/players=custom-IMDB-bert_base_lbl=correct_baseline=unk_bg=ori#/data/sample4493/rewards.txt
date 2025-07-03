@@ -1,0 +1,164 @@
+---------- Players ----------
+Player 0: one
+Player 1: moving
+Player 2: movies
+Player 3: ever
+Player 4: seen.
+Player 5: 12
+Player 6: years
+Player 7: old
+Player 8: watched
+Player 9: first
+Player 10: time
+Player 11: whenever
+Player 12: tv
+Player 13: eyes
+Player 14: glued
+Player 15: it.
+Player 16: acting
+Player 17: plot
+Player 18: amazing.
+Player 19: seems
+Player 20: true
+Player 21: reality
+Player 22: touches
+Player 23: many
+Player 24: controversial
+Player 25: topics.
+Player 26: recommend
+Player 27: movie
+Player 28: anyone
+Player 29: interested
+Player 30: good
+Player 31: drama.
+---------- Rewards ----------
+v(): 1.458461880683899	 ([])
+v(21,22,23,24): 7.615508079528809	 ([reality][touches][many][controversial])
+v(0,15,16,17,25,27): 4.714480876922607	 ([one][it.][acting][plot][topics.][movie])
+v(2,3,4,6,10,12,31): 8.43250846862793	 ([movies][ever][seen.][years][time][tv][drama.])
+v(11,28,29,30): 2.8368659019470215	 ([whenever][anyone][interested][good])
+v(1,5,7,8,9): 8.03470230102539	 ([moving][12][old][watched][first])
+v(13,14,18,19,20,26): 6.894840240478516	 ([eyes][glued][amazing.][seems][true][recommend])
+v(0,15,16,17,21,22,23,24,25,27): 8.440868377685547	 ([one][it.][acting][plot][reality][touches][many][controversial][topics.][movie])
+v(2,3,4,6,10,12,21,22,23,24,31): 8.814715385437012	 ([movies][ever][seen.][years][time][tv][reality][touches][many][controversial][drama.])
+v(11,21,22,23,24,28,29,30): 6.700892925262451	 ([whenever][reality][touches][many][controversial][anyone][interested][good])
+v(1,5,7,8,9,21,22,23,24): 8.586019515991211	 ([moving][12][old][watched][first][reality][touches][many][controversial])
+v(13,14,18,19,20,21,22,23,24,26): 8.163907051086426	 ([eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend])
+v(0,2,3,4,6,10,12,15,16,17,25,27,31): 8.399637222290039	 ([one][movies][ever][seen.][years][time][tv][it.][acting][plot][topics.][movie][drama.])
+v(0,11,15,16,17,25,27,28,29,30): 5.831164360046387	 ([one][whenever][it.][acting][plot][topics.][movie][anyone][interested][good])
+v(0,1,5,7,8,9,15,16,17,25,27): 8.43696403503418	 ([one][moving][12][old][watched][first][it.][acting][plot][topics.][movie])
+v(0,13,14,15,16,17,18,19,20,25,26,27): 7.677542209625244	 ([one][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie])
+v(2,3,4,6,10,11,12,28,29,30,31): 8.305620193481445	 ([movies][ever][seen.][years][time][whenever][tv][anyone][interested][good][drama.])
+v(1,2,3,4,5,6,7,8,9,10,12,31): 8.10274887084961	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][tv][drama.])
+v(2,3,4,6,10,12,13,14,18,19,20,26,31): 8.005644798278809	 ([movies][ever][seen.][years][time][tv][eyes][glued][amazing.][seems][true][recommend][drama.])
+v(1,5,7,8,9,11,28,29,30): 8.055704116821289	 ([moving][12][old][watched][first][whenever][anyone][interested][good])
+v(11,13,14,18,19,20,26,28,29,30): 7.026978492736816	 ([whenever][eyes][glued][amazing.][seems][true][recommend][anyone][interested][good])
+v(1,5,7,8,9,13,14,18,19,20,26): 7.897797107696533	 ([moving][12][old][watched][first][eyes][glued][amazing.][seems][true][recommend])
+v(0,2,3,4,6,10,12,15,16,17,21,22,23,24,25,27,31): 8.705236434936523	 ([one][movies][ever][seen.][years][time][tv][it.][acting][plot][reality][touches][many][controversial][topics.][movie][drama.])
+v(0,11,15,16,17,21,22,23,24,25,27,28,29,30): 8.49831485748291	 ([one][whenever][it.][acting][plot][reality][touches][many][controversial][topics.][movie][anyone][interested][good])
+v(0,1,5,7,8,9,15,16,17,21,22,23,24,25,27): 8.654617309570312	 ([one][moving][12][old][watched][first][it.][acting][plot][reality][touches][many][controversial][topics.][movie])
+v(0,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.054986953735352	 ([one][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie])
+v(2,3,4,6,10,11,12,21,22,23,24,28,29,30,31): 8.592369079589844	 ([movies][ever][seen.][years][time][whenever][tv][reality][touches][many][controversial][anyone][interested][good][drama.])
+v(1,2,3,4,5,6,7,8,9,10,12,21,22,23,24,31): 8.332892417907715	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][tv][reality][touches][many][controversial][drama.])
+v(2,3,4,6,10,12,13,14,18,19,20,21,22,23,24,26,31): 8.332045555114746	 ([movies][ever][seen.][years][time][tv][eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend][drama.])
+v(1,5,7,8,9,11,21,22,23,24,28,29,30): 8.401719093322754	 ([moving][12][old][watched][first][whenever][reality][touches][many][controversial][anyone][interested][good])
+v(11,13,14,18,19,20,21,22,23,24,26,28,29,30): 7.968816757202148	 ([whenever][eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend][anyone][interested][good])
+v(1,5,7,8,9,13,14,18,19,20,21,22,23,24,26): 8.256407737731934	 ([moving][12][old][watched][first][eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend])
+v(0,2,3,4,6,10,11,12,15,16,17,25,27,28,29,30,31): 8.411490440368652	 ([one][movies][ever][seen.][years][time][whenever][tv][it.][acting][plot][topics.][movie][anyone][interested][good][drama.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,15,16,17,25,27,31): 8.363459587097168	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][tv][it.][acting][plot][topics.][movie][drama.])
+v(0,2,3,4,6,10,12,13,14,15,16,17,18,19,20,25,26,27,31): 8.110306739807129	 ([one][movies][ever][seen.][years][time][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie][drama.])
+v(0,1,5,7,8,9,11,15,16,17,25,27,28,29,30): 8.310647964477539	 ([one][moving][12][old][watched][first][whenever][it.][acting][plot][topics.][movie][anyone][interested][good])
+v(0,11,13,14,15,16,17,18,19,20,25,26,27,28,29,30): 7.706386566162109	 ([one][whenever][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie][anyone][interested][good])
+v(0,1,5,7,8,9,13,14,15,16,17,18,19,20,25,26,27): 8.040346145629883	 ([one][moving][12][old][watched][first][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie])
+v(1,2,3,4,5,6,7,8,9,10,11,12,28,29,30,31): 8.155961990356445	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][anyone][interested][good][drama.])
+v(2,3,4,6,10,11,12,13,14,18,19,20,26,28,29,30,31): 8.285069465637207	 ([movies][ever][seen.][years][time][whenever][tv][eyes][glued][amazing.][seems][true][recommend][anyone][interested][good][drama.])
+v(1,2,3,4,5,6,7,8,9,10,12,13,14,18,19,20,26,31): 7.911464691162109	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][tv][eyes][glued][amazing.][seems][true][recommend][drama.])
+v(1,5,7,8,9,11,13,14,18,19,20,26,28,29,30): 8.091841697692871	 ([moving][12][old][watched][first][whenever][eyes][glued][amazing.][seems][true][recommend][anyone][interested][good])
+v(0,2,3,4,6,10,11,12,15,16,17,21,22,23,24,25,27,28,29,30,31): 8.65988540649414	 ([one][movies][ever][seen.][years][time][whenever][tv][it.][acting][plot][reality][touches][many][controversial][topics.][movie][anyone][interested][good][drama.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,15,16,17,21,22,23,24,25,27,31): 8.448795318603516	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][tv][it.][acting][plot][reality][touches][many][controversial][topics.][movie][drama.])
+v(0,2,3,4,6,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,31): 8.194254875183105	 ([one][movies][ever][seen.][years][time][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie][drama.])
+v(0,1,5,7,8,9,11,15,16,17,21,22,23,24,25,27,28,29,30): 8.554627418518066	 ([one][moving][12][old][watched][first][whenever][it.][acting][plot][reality][touches][many][controversial][topics.][movie][anyone][interested][good])
+v(0,11,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 8.16868782043457	 ([one][whenever][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie][anyone][interested][good])
+v(0,1,5,7,8,9,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.159623146057129	 ([one][moving][12][old][watched][first][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie])
+v(1,2,3,4,5,6,7,8,9,10,11,12,21,22,23,24,28,29,30,31): 8.319219589233398	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][reality][touches][many][controversial][anyone][interested][good][drama.])
+v(2,3,4,6,10,11,12,13,14,18,19,20,21,22,23,24,26,28,29,30,31): 8.383464813232422	 ([movies][ever][seen.][years][time][whenever][tv][eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend][anyone][interested][good][drama.])
+v(1,2,3,4,5,6,7,8,9,10,12,13,14,18,19,20,21,22,23,24,26,31): 8.108377456665039	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][tv][eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend][drama.])
+v(1,5,7,8,9,11,13,14,18,19,20,21,22,23,24,26,28,29,30): 8.255949020385742	 ([moving][12][old][watched][first][whenever][eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend][anyone][interested][good])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,15,16,17,25,27,28,29,30,31): 8.377253532409668	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][it.][acting][plot][topics.][movie][anyone][interested][good][drama.])
+v(0,2,3,4,6,10,11,12,13,14,15,16,17,18,19,20,25,26,27,28,29,30,31): 8.272109031677246	 ([one][movies][ever][seen.][years][time][whenever][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie][anyone][interested][good][drama.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,25,26,27,31): 7.997358322143555	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie][drama.])
+v(0,1,5,7,8,9,11,13,14,15,16,17,18,19,20,25,26,27,28,29,30): 8.17530632019043	 ([one][moving][12][old][watched][first][whenever][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie][anyone][interested][good])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,18,19,20,26,28,29,30,31): 8.181845664978027	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][eyes][glued][amazing.][seems][true][recommend][anyone][interested][good][drama.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,15,16,17,21,22,23,24,25,27,28,29,30,31): 8.496061325073242	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][it.][acting][plot][reality][touches][many][controversial][topics.][movie][anyone][interested][good][drama.])
+v(0,2,3,4,6,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 8.424497604370117	 ([one][movies][ever][seen.][years][time][whenever][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie][anyone][interested][good][drama.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,31): 8.020580291748047	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie][drama.])
+v(0,1,5,7,8,9,11,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 8.2778902053833	 ([one][moving][12][old][watched][first][whenever][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie][anyone][interested][good])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,18,19,20,21,22,23,24,26,28,29,30,31): 8.243484497070312	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend][anyone][interested][good][drama.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,25,26,27,28,29,30,31): 8.223639488220215	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie][anyone][interested][good][drama.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 8.358134269714355	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie][anyone][interested][good][drama.])
+---------- Rewards-v() ----------
+v(2,3,4,6,10,12,21,22,23,24,31): 7.356253623962402, EP: 1.0661742687225342	 ([movies][ever][seen.][years][time][tv][reality][touches][many][controversial][drama.])
+v(0,2,3,4,6,10,12,15,16,17,21,22,23,24,25,27,31): 7.246774673461914, EP: 1.050307035446167	 ([one][movies][ever][seen.][years][time][tv][it.][acting][plot][reality][touches][many][controversial][topics.][movie][drama.])
+v(0,2,3,4,6,10,11,12,15,16,17,21,22,23,24,25,27,28,29,30,31): 7.201423645019531, EP: 1.043734073638916	 ([one][movies][ever][seen.][years][time][whenever][tv][it.][acting][plot][reality][touches][many][controversial][topics.][movie][anyone][interested][good][drama.])
+v(0,1,5,7,8,9,15,16,17,21,22,23,24,25,27): 7.196155548095703, EP: 1.0429705381393433	 ([one][moving][12][old][watched][first][it.][acting][plot][reality][touches][many][controversial][topics.][movie])
+v(2,3,4,6,10,11,12,21,22,23,24,28,29,30,31): 7.133907318115234, EP: 1.0339486598968506	 ([movies][ever][seen.][years][time][whenever][tv][reality][touches][many][controversial][anyone][interested][good][drama.])
+v(1,5,7,8,9,21,22,23,24): 7.127557754516602, EP: 1.0330283641815186	 ([moving][12][old][watched][first][reality][touches][many][controversial])
+v(0,1,5,7,8,9,11,15,16,17,21,22,23,24,25,27,28,29,30): 7.096165657043457, EP: 1.0284786224365234	 ([one][moving][12][old][watched][first][whenever][it.][acting][plot][reality][touches][many][controversial][topics.][movie][anyone][interested][good])
+v(0,11,15,16,17,21,22,23,24,25,27,28,29,30): 7.039853096008301, EP: 1.0203169584274292	 ([one][whenever][it.][acting][plot][reality][touches][many][controversial][topics.][movie][anyone][interested][good])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,15,16,17,21,22,23,24,25,27,28,29,30,31): 7.037599563598633, EP: 1.01999032497406	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][it.][acting][plot][reality][touches][many][controversial][topics.][movie][anyone][interested][good][drama.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,15,16,17,21,22,23,24,25,27,31): 6.990333557128906, EP: 1.0131399631500244	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][tv][it.][acting][plot][reality][touches][many][controversial][topics.][movie][drama.])
+v(0,15,16,17,21,22,23,24,25,27): 6.9824066162109375, EP: 1.011991024017334	 ([one][it.][acting][plot][reality][touches][many][controversial][topics.][movie])
+v(0,1,5,7,8,9,15,16,17,25,27): 6.97850227355957, EP: 1.0114251375198364	 ([one][moving][12][old][watched][first][it.][acting][plot][topics.][movie])
+v(2,3,4,6,10,12,31): 6.97404670715332, EP: 1.0107793807983398	 ([movies][ever][seen.][years][time][tv][drama.])
+v(0,2,3,4,6,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 6.966035842895508, EP: 1.0096182823181152	 ([one][movies][ever][seen.][years][time][whenever][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie][anyone][interested][good][drama.])
+v(0,2,3,4,6,10,11,12,15,16,17,25,27,28,29,30,31): 6.953028678894043, EP: 1.0077331066131592	 ([one][movies][ever][seen.][years][time][whenever][tv][it.][acting][plot][topics.][movie][anyone][interested][good][drama.])
+v(1,5,7,8,9,11,21,22,23,24,28,29,30): 6.9432573318481445, EP: 1.006316900253296	 ([moving][12][old][watched][first][whenever][reality][touches][many][controversial][anyone][interested][good])
+v(0,2,3,4,6,10,12,15,16,17,25,27,31): 6.94117546081543, EP: 1.0060151815414429	 ([one][movies][ever][seen.][years][time][tv][it.][acting][plot][topics.][movie][drama.])
+v(2,3,4,6,10,11,12,13,14,18,19,20,21,22,23,24,26,28,29,30,31): 6.9250030517578125, EP: 1.0036712884902954	 ([movies][ever][seen.][years][time][whenever][tv][eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend][anyone][interested][good][drama.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,15,16,17,25,27,28,29,30,31): 6.918791770935059, EP: 1.002771019935608	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][it.][acting][plot][topics.][movie][anyone][interested][good][drama.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,15,16,17,25,27,31): 6.904997825622559, EP: 1.0007718801498413	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][tv][it.][acting][plot][topics.][movie][drama.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 6.899672508239746, EP: 1.0	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie][anyone][interested][good][drama.])
+v(1,2,3,4,5,6,7,8,9,10,12,21,22,23,24,31): 6.8744306564331055, EP: 0.9963415861129761	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][tv][reality][touches][many][controversial][drama.])
+v(2,3,4,6,10,12,13,14,18,19,20,21,22,23,24,26,31): 6.873583793640137, EP: 0.9962188601493835	 ([movies][ever][seen.][years][time][tv][eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend][drama.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,21,22,23,24,28,29,30,31): 6.860757827758789, EP: 0.9943599104881287	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][reality][touches][many][controversial][anyone][interested][good][drama.])
+v(0,1,5,7,8,9,11,15,16,17,25,27,28,29,30): 6.85218620300293, EP: 0.9931175708770752	 ([one][moving][12][old][watched][first][whenever][it.][acting][plot][topics.][movie][anyone][interested][good])
+v(2,3,4,6,10,11,12,28,29,30,31): 6.847158432006836, EP: 0.992388904094696	 ([movies][ever][seen.][years][time][whenever][tv][anyone][interested][good][drama.])
+v(2,3,4,6,10,11,12,13,14,18,19,20,26,28,29,30,31): 6.826607704162598, EP: 0.989410400390625	 ([movies][ever][seen.][years][time][whenever][tv][eyes][glued][amazing.][seems][true][recommend][anyone][interested][good][drama.])
+v(0,1,5,7,8,9,11,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 6.819428443908691, EP: 0.988369882106781	 ([one][moving][12][old][watched][first][whenever][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie][anyone][interested][good])
+v(0,2,3,4,6,10,11,12,13,14,15,16,17,18,19,20,25,26,27,28,29,30,31): 6.813647270202637, EP: 0.9875319600105286	 ([one][movies][ever][seen.][years][time][whenever][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie][anyone][interested][good][drama.])
+v(1,5,7,8,9,13,14,18,19,20,21,22,23,24,26): 6.797945976257324, EP: 0.9852563142776489	 ([moving][12][old][watched][first][eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend])
+v(1,5,7,8,9,11,13,14,18,19,20,21,22,23,24,26,28,29,30): 6.797487258911133, EP: 0.9851898550987244	 ([moving][12][old][watched][first][whenever][eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend][anyone][interested][good])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,18,19,20,21,22,23,24,26,28,29,30,31): 6.785022735595703, EP: 0.983383297920227	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend][anyone][interested][good][drama.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,25,26,27,28,29,30,31): 6.7651777267456055, EP: 0.9805070757865906	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie][anyone][interested][good][drama.])
+v(0,2,3,4,6,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,31): 6.735793113708496, EP: 0.9762482643127441	 ([one][movies][ever][seen.][years][time][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie][drama.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,18,19,20,26,28,29,30,31): 6.723383903503418, EP: 0.9744496941566467	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][eyes][glued][amazing.][seems][true][recommend][anyone][interested][good][drama.])
+v(0,1,5,7,8,9,11,13,14,15,16,17,18,19,20,25,26,27,28,29,30): 6.71684455871582, EP: 0.9735019207000732	 ([one][moving][12][old][watched][first][whenever][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie][anyone][interested][good])
+v(0,11,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 6.710226058959961, EP: 0.9725427031517029	 ([one][whenever][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie][anyone][interested][good])
+v(13,14,18,19,20,21,22,23,24,26): 6.705445289611816, EP: 0.971849799156189	 ([eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend])
+v(0,1,5,7,8,9,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 6.7011613845825195, EP: 0.9712288975715637	 ([one][moving][12][old][watched][first][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie])
+v(1,2,3,4,5,6,7,8,9,10,11,12,28,29,30,31): 6.697500228881836, EP: 0.9706982970237732	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][whenever][tv][anyone][interested][good][drama.])
+v(0,2,3,4,6,10,12,13,14,15,16,17,18,19,20,25,26,27,31): 6.6518449783325195, EP: 0.9640812873840332	 ([one][movies][ever][seen.][years][time][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie][drama.])
+v(1,2,3,4,5,6,7,8,9,10,12,13,14,18,19,20,21,22,23,24,26,31): 6.64991569519043, EP: 0.9638016223907471	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][tv][eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend][drama.])
+v(1,2,3,4,5,6,7,8,9,10,12,31): 6.644287109375, EP: 0.9629858732223511	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][tv][drama.])
+v(1,5,7,8,9,11,13,14,18,19,20,26,28,29,30): 6.633379936218262, EP: 0.9614050388336182	 ([moving][12][old][watched][first][whenever][eyes][glued][amazing.][seems][true][recommend][anyone][interested][good])
+v(1,5,7,8,9,11,28,29,30): 6.59724235534668, EP: 0.956167459487915	 ([moving][12][old][watched][first][whenever][anyone][interested][good])
+v(0,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 6.596525192260742, EP: 0.9560635089874268	 ([one][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie])
+v(0,1,5,7,8,9,13,14,15,16,17,18,19,20,25,26,27): 6.581884384155273, EP: 0.9539415836334229	 ([one][moving][12][old][watched][first][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie])
+v(1,5,7,8,9): 6.576240539550781, EP: 0.9531235694885254	 ([moving][12][old][watched][first])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,31): 6.5621185302734375, EP: 0.9510768055915833	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][reality][touches][many][controversial][topics.][recommend][movie][drama.])
+v(2,3,4,6,10,12,13,14,18,19,20,26,31): 6.547183036804199, EP: 0.9489121437072754	 ([movies][ever][seen.][years][time][tv][eyes][glued][amazing.][seems][true][recommend][drama.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,25,26,27,31): 6.538896560668945, EP: 0.947711169719696	 ([one][moving][movies][ever][seen.][12][years][old][watched][first][time][tv][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie][drama.])
+v(11,13,14,18,19,20,21,22,23,24,26,28,29,30): 6.510354995727539, EP: 0.9435744881629944	 ([whenever][eyes][glued][amazing.][seems][true][reality][touches][many][controversial][recommend][anyone][interested][good])
+v(1,2,3,4,5,6,7,8,9,10,12,13,14,18,19,20,26,31): 6.4530029296875, EP: 0.9352622032165527	 ([moving][movies][ever][seen.][12][years][old][watched][first][time][tv][eyes][glued][amazing.][seems][true][recommend][drama.])
+v(1,5,7,8,9,13,14,18,19,20,26): 6.439335346221924, EP: 0.9332813024520874	 ([moving][12][old][watched][first][eyes][glued][amazing.][seems][true][recommend])
+v(0,11,13,14,15,16,17,18,19,20,25,26,27,28,29,30): 6.2479248046875, EP: 0.905539333820343	 ([one][whenever][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie][anyone][interested][good])
+v(0,13,14,15,16,17,18,19,20,25,26,27): 6.219080448150635, EP: 0.9013587832450867	 ([one][eyes][glued][it.][acting][plot][amazing.][seems][true][topics.][recommend][movie])
+v(21,22,23,24): 6.157046318054199, EP: 0.8923678994178772	 ([reality][touches][many][controversial])
+v(11,13,14,18,19,20,26,28,29,30): 5.568516731262207, EP: 0.807069718837738	 ([whenever][eyes][glued][amazing.][seems][true][recommend][anyone][interested][good])
+v(13,14,18,19,20,26): 5.436378479003906, EP: 0.7879183292388916	 ([eyes][glued][amazing.][seems][true][recommend])
+v(11,21,22,23,24,28,29,30): 5.242431163787842, EP: 0.7598087191581726	 ([whenever][reality][touches][many][controversial][anyone][interested][good])
+v(0,11,15,16,17,25,27,28,29,30): 4.372702598571777, EP: 0.633755087852478	 ([one][whenever][it.][acting][plot][topics.][movie][anyone][interested][good])
+v(0,15,16,17,25,27): 3.256019115447998, EP: 0.47190922498703003	 ([one][it.][acting][plot][topics.][movie])
+v(11,28,29,30): 1.3784040212631226, EP: 0.19977818429470062	 ([whenever][anyone][interested][good])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

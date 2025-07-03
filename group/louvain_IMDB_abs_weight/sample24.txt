@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['30', '24', '25', '26', '28', '29']: ['actor', 'much', 'donald', 'sutherland', 'cannot', 'main']: 平均边权 0.4930
+社区 2: ['38', '35', '52', '39', '41', '53', '44', '33', '51', '54']: ['15', 'excellent', 'park', 'minutes.', 'say', '10', 'excellent', 'short.', 'bench', 'minutes']: 平均边权 0.6734
+社区 3: ['36', '46', '49', '45', '47', '34', '40', '50', '48', '42', '37', '43']: ['movie', 'oliver', 'kevin', 'jfk', 'stone', 'sutherland', 'would', 'costner', 'talked', 'instance', 'appears', 'sutherland']: 平均边权 0.2585
+社区 4: ['2', '8', '5', '0', '4', '3', '15', '9', '1', '10', '6', '7']: ['movie', 'director.', 'excellent', 'make', 'need', 'either', 'none.', 'need', 'good', 'least', 'actors', 'excellent']: 平均边权 0.5229
+社区 5: ['12', '16', '11', '17', '19', '32', '18']: ['two.', 'even', 'one', 'remember', 'director.', 'falls', 'name']: 平均边权 0.4158
+社区 6: ['55', '56', '57']: ['non - stop', 'without', 'even']: 平均边权 0.4511
+社区 7: ['20', '23', '27', '22', '21', '31']: ['done', 'like', 'absolutely', 'career.', 'much', 'movie.']: 平均边权 0.2877
+社区 8: ['13', '14']: ['eye', 'needle']: 平均边权 0.5761

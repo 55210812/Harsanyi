@@ -1,0 +1,33 @@
+---------- Players ----------
+Player 0: fault.
+Player 1: girlfriend
+Player 2: made
+Player 3: watch
+Player 4: it.
+Player 5: nothing
+Player 6: positive
+Player 7: say
+Player 8: film.
+Player 9: many
+Player 10: years
+Player 11: idea
+Player 12: madonna
+Player 13: could
+Player 14: act
+Player 15: can't.
+Player 16: idea
+Player 17: years
+Player 18: guy
+Player 19: ritchie
+Player 20: great
+Player 21: director
+Player 22: middling.
+Player 23: embarrassment
+Player 24: round.
+---------- AND Interactions (Pairwise Only) ----------
+I(14,19): 4.084646224975586	 ([act][ritchie])
+I(8,9): -2.205747127532959	 ([film.][many])
+I(4,5): 1.7259902954101562	 ([it.][nothing])
+I(10,15): 0.4766109585762024	 ([years][can't.])
+Sum: 4.081500351428986
+==================================================

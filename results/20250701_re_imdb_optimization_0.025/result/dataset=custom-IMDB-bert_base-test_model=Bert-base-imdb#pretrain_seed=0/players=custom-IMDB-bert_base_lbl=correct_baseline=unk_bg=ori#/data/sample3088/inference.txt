@@ -1,0 +1,44 @@
+Execution time: 2025-07-03 20:05:10
+prompt: [CLS] brilliant execution in displaying once and for all, this time in the venue of politics, of how good intentions do actually pave the road to hell ". excellent! " [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:8235 decoded_text: brilliant
+idx:2 input_id:7781 decoded_text: execution
+idx:3 input_id:1999 decoded_text: in
+idx:4 input_id:14962 decoded_text: displaying
+idx:5 input_id:2320 decoded_text: once
+idx:6 input_id:1998 decoded_text: and
+idx:7 input_id:2005 decoded_text: for
+idx:8 input_id:2035 decoded_text: all
+idx:9 input_id:1010 decoded_text: ,
+idx:10 input_id:2023 decoded_text: this
+idx:11 input_id:2051 decoded_text: time
+idx:12 input_id:1999 decoded_text: in
+idx:13 input_id:1996 decoded_text: the
+idx:14 input_id:6891 decoded_text: venue
+idx:15 input_id:1997 decoded_text: of
+idx:16 input_id:4331 decoded_text: politics
+idx:17 input_id:1010 decoded_text: ,
+idx:18 input_id:1997 decoded_text: of
+idx:19 input_id:2129 decoded_text: how
+idx:20 input_id:2204 decoded_text: good
+idx:21 input_id:11174 decoded_text: intentions
+idx:22 input_id:2079 decoded_text: do
+idx:23 input_id:2941 decoded_text: actually
+idx:24 input_id:6643 decoded_text: pa
+idx:25 input_id:3726 decoded_text: ##ve
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:2346 decoded_text: road
+idx:28 input_id:2000 decoded_text: to
+idx:29 input_id:3109 decoded_text: hell
+idx:30 input_id:1000 decoded_text: "
+idx:31 input_id:1012 decoded_text: .
+idx:32 input_id:6581 decoded_text: excellent
+idx:33 input_id:999 decoded_text: !
+idx:34 input_id:1000 decoded_text: "
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-3.842578887939453, 4.229945182800293]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

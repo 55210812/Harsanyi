@@ -1,0 +1,74 @@
+Execution time: 2025-07-03 07:43:40
+prompt: [CLS] hobgoblins is a very cheap and badly done gremlins rip - off. that's the best thing one can say about this stinkpile. pretty much everyone in the cast was chosen for their looks and not their acting ability. it was very painful to watch. avoid this one at all costs. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:7570 decoded_text: ho
+idx:2 input_id:2497 decoded_text: ##b
+idx:3 input_id:3995 decoded_text: ##go
+idx:4 input_id:16558 decoded_text: ##bl
+idx:5 input_id:7076 decoded_text: ##ins
+idx:6 input_id:2003 decoded_text: is
+idx:7 input_id:1037 decoded_text: a
+idx:8 input_id:2200 decoded_text: very
+idx:9 input_id:10036 decoded_text: cheap
+idx:10 input_id:1998 decoded_text: and
+idx:11 input_id:6649 decoded_text: badly
+idx:12 input_id:2589 decoded_text: done
+idx:13 input_id:24665 decoded_text: gr
+idx:14 input_id:6633 decoded_text: ##em
+idx:15 input_id:24412 decoded_text: ##lins
+idx:16 input_id:10973 decoded_text: rip
+idx:17 input_id:1011 decoded_text: -
+idx:18 input_id:2125 decoded_text: off
+idx:19 input_id:1012 decoded_text: .
+idx:20 input_id:2008 decoded_text: that
+idx:21 input_id:1005 decoded_text: '
+idx:22 input_id:1055 decoded_text: s
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:2190 decoded_text: best
+idx:25 input_id:2518 decoded_text: thing
+idx:26 input_id:2028 decoded_text: one
+idx:27 input_id:2064 decoded_text: can
+idx:28 input_id:2360 decoded_text: say
+idx:29 input_id:2055 decoded_text: about
+idx:30 input_id:2023 decoded_text: this
+idx:31 input_id:27136 decoded_text: stink
+idx:32 input_id:22090 decoded_text: ##pile
+idx:33 input_id:1012 decoded_text: .
+idx:34 input_id:3492 decoded_text: pretty
+idx:35 input_id:2172 decoded_text: much
+idx:36 input_id:3071 decoded_text: everyone
+idx:37 input_id:1999 decoded_text: in
+idx:38 input_id:1996 decoded_text: the
+idx:39 input_id:3459 decoded_text: cast
+idx:40 input_id:2001 decoded_text: was
+idx:41 input_id:4217 decoded_text: chosen
+idx:42 input_id:2005 decoded_text: for
+idx:43 input_id:2037 decoded_text: their
+idx:44 input_id:3504 decoded_text: looks
+idx:45 input_id:1998 decoded_text: and
+idx:46 input_id:2025 decoded_text: not
+idx:47 input_id:2037 decoded_text: their
+idx:48 input_id:3772 decoded_text: acting
+idx:49 input_id:3754 decoded_text: ability
+idx:50 input_id:1012 decoded_text: .
+idx:51 input_id:2009 decoded_text: it
+idx:52 input_id:2001 decoded_text: was
+idx:53 input_id:2200 decoded_text: very
+idx:54 input_id:9145 decoded_text: painful
+idx:55 input_id:2000 decoded_text: to
+idx:56 input_id:3422 decoded_text: watch
+idx:57 input_id:1012 decoded_text: .
+idx:58 input_id:4468 decoded_text: avoid
+idx:59 input_id:2023 decoded_text: this
+idx:60 input_id:2028 decoded_text: one
+idx:61 input_id:2012 decoded_text: at
+idx:62 input_id:2035 decoded_text: all
+idx:63 input_id:5366 decoded_text: costs
+idx:64 input_id:1012 decoded_text: .
+idx:65 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.304687023162842, -4.0914998054504395]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

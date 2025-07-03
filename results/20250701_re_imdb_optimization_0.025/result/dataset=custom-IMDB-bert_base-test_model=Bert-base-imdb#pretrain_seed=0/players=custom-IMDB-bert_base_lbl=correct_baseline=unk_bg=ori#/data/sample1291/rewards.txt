@@ -1,0 +1,160 @@
+---------- Players ----------
+Player 0: ok
+Player 1: sum
+Player 2: movie...
+Player 3: bunch
+Player 4: skanky
+Player 5: british
+Player 6: women
+Player 7: disease
+Player 8: basically
+Player 9: turning
+Player 10: zombies.
+Player 11: whole
+Player 12: movie
+Player 13: consists
+Player 14: women
+Player 15: talking,
+Player 16: smoking,
+Player 17: rarely
+Player 18: going
+Player 19: meat
+Player 20: "
+Player 21: humans
+Player 22: eat.
+Player 23: swear
+Player 24: make
+Player 25: watch
+Player 26: movie...
+Player 27: ugh "
+---------- Rewards ----------
+v(): 3.112861156463623	 ([])
+v(11,24,25): 6.24684476852417	 ([whole][make][watch])
+v(0,1,5): 3.7617225646972656	 ([ok][sum][british])
+v(16,17,18,19): 2.7878456115722656	 ([smoking,][rarely][going][meat])
+v(2,3,4,8,9,26,27): 6.675863742828369	 ([movie...][bunch][skanky][basically][turning][movie...][ugh "])
+v(6,7): 3.550191879272461	 ([women][disease])
+v(10,12,13,14,15,20,21,22,23): 7.267582893371582	 ([zombies.][movie][consists][women][talking,]["][humans][eat.][swear])
+v(0,1,5,11,24,25): 7.219302177429199	 ([ok][sum][british][whole][make][watch])
+v(11,16,17,18,19,24,25): 6.655739784240723	 ([whole][smoking,][rarely][going][meat][make][watch])
+v(2,3,4,8,9,11,24,25,26,27): 7.040689945220947	 ([movie...][bunch][skanky][basically][turning][whole][make][watch][movie...][ugh "])
+v(6,7,11,24,25): 7.079366683959961	 ([women][disease][whole][make][watch])
+v(10,11,12,13,14,15,20,21,22,23,24,25): 8.060667037963867	 ([zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch])
+v(0,1,5,16,17,18,19): 3.1437630653381348	 ([ok][sum][british][smoking,][rarely][going][meat])
+v(0,1,2,3,4,5,8,9,26,27): 5.99298095703125	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][movie...][ugh "])
+v(0,1,5,6,7): 4.191140651702881	 ([ok][sum][british][women][disease])
+v(0,1,5,10,12,13,14,15,20,21,22,23): 6.9050493240356445	 ([ok][sum][british][zombies.][movie][consists][women][talking,]["][humans][eat.][swear])
+v(2,3,4,8,9,16,17,18,19,26,27): 7.176557540893555	 ([movie...][bunch][skanky][basically][turning][smoking,][rarely][going][meat][movie...][ugh "])
+v(6,7,16,17,18,19): 3.1063289642333984	 ([women][disease][smoking,][rarely][going][meat])
+v(10,12,13,14,15,16,17,18,19,20,21,22,23): 7.187813758850098	 ([zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear])
+v(2,3,4,6,7,8,9,26,27): 7.553836822509766	 ([movie...][bunch][skanky][women][disease][basically][turning][movie...][ugh "])
+v(2,3,4,8,9,10,12,13,14,15,20,21,22,23,26,27): 7.32040548324585	 ([movie...][bunch][skanky][basically][turning][zombies.][movie][consists][women][talking,]["][humans][eat.][swear][movie...][ugh "])
+v(6,7,10,12,13,14,15,20,21,22,23): 7.378165245056152	 ([women][disease][zombies.][movie][consists][women][talking,]["][humans][eat.][swear])
+v(0,1,5,11,16,17,18,19,24,25): 7.542722702026367	 ([ok][sum][british][whole][smoking,][rarely][going][meat][make][watch])
+v(0,1,2,3,4,5,8,9,11,24,25,26,27): 6.620256423950195	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][whole][make][watch][movie...][ugh "])
+v(0,1,5,6,7,11,24,25): 7.5935869216918945	 ([ok][sum][british][women][disease][whole][make][watch])
+v(0,1,5,10,11,12,13,14,15,20,21,22,23,24,25): 7.9701619148254395	 ([ok][sum][british][zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch])
+v(2,3,4,8,9,11,16,17,18,19,24,25,26,27): 7.594290733337402	 ([movie...][bunch][skanky][basically][turning][whole][smoking,][rarely][going][meat][make][watch][movie...][ugh "])
+v(6,7,11,16,17,18,19,24,25): 7.227961540222168	 ([women][disease][whole][smoking,][rarely][going][meat][make][watch])
+v(10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.055778503417969	 ([zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch])
+v(2,3,4,6,7,8,9,11,24,25,26,27): 7.693202972412109	 ([movie...][bunch][skanky][women][disease][basically][turning][whole][make][watch][movie...][ugh "])
+v(2,3,4,8,9,10,11,12,13,14,15,20,21,22,23,24,25,26,27): 7.574554920196533	 ([movie...][bunch][skanky][basically][turning][zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(6,7,10,11,12,13,14,15,20,21,22,23,24,25): 8.067312240600586	 ([women][disease][zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch])
+v(0,1,2,3,4,5,8,9,16,17,18,19,26,27): 6.318880558013916	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][smoking,][rarely][going][meat][movie...][ugh "])
+v(0,1,5,6,7,16,17,18,19): 3.8699769973754883	 ([ok][sum][british][women][disease][smoking,][rarely][going][meat])
+v(0,1,5,10,12,13,14,15,16,17,18,19,20,21,22,23): 6.908440589904785	 ([ok][sum][british][zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear])
+v(0,1,2,3,4,5,6,7,8,9,26,27): 6.985123634338379	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][movie...][ugh "])
+v(0,1,2,3,4,5,8,9,10,12,13,14,15,20,21,22,23,26,27): 7.06235408782959	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][zombies.][movie][consists][women][talking,]["][humans][eat.][swear][movie...][ugh "])
+v(0,1,5,6,7,10,12,13,14,15,20,21,22,23): 7.584609031677246	 ([ok][sum][british][women][disease][zombies.][movie][consists][women][talking,]["][humans][eat.][swear])
+v(2,3,4,6,7,8,9,16,17,18,19,26,27): 7.745670318603516	 ([movie...][bunch][skanky][women][disease][basically][turning][smoking,][rarely][going][meat][movie...][ugh "])
+v(2,3,4,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,26,27): 7.640377998352051	 ([movie...][bunch][skanky][basically][turning][zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][movie...][ugh "])
+v(6,7,10,12,13,14,15,16,17,18,19,20,21,22,23): 7.310258865356445	 ([women][disease][zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear])
+v(2,3,4,6,7,8,9,10,12,13,14,15,20,21,22,23,26,27): 7.506089210510254	 ([movie...][bunch][skanky][women][disease][basically][turning][zombies.][movie][consists][women][talking,]["][humans][eat.][swear][movie...][ugh "])
+v(0,1,2,3,4,5,8,9,11,16,17,18,19,24,25,26,27): 7.107422828674316	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][whole][smoking,][rarely][going][meat][make][watch][movie...][ugh "])
+v(0,1,5,6,7,11,16,17,18,19,24,25): 7.780754089355469	 ([ok][sum][british][women][disease][whole][smoking,][rarely][going][meat][make][watch])
+v(0,1,5,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.974815845489502	 ([ok][sum][british][zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch])
+v(0,1,2,3,4,5,6,7,8,9,11,24,25,26,27): 7.407743453979492	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][whole][make][watch][movie...][ugh "])
+v(0,1,2,3,4,5,8,9,10,11,12,13,14,15,20,21,22,23,24,25,26,27): 7.2829484939575195	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(0,1,5,6,7,10,11,12,13,14,15,20,21,22,23,24,25): 8.083125114440918	 ([ok][sum][british][women][disease][zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch])
+v(2,3,4,6,7,8,9,11,16,17,18,19,24,25,26,27): 7.855030536651611	 ([movie...][bunch][skanky][women][disease][basically][turning][whole][smoking,][rarely][going][meat][make][watch][movie...][ugh "])
+v(2,3,4,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 7.896465301513672	 ([movie...][bunch][skanky][basically][turning][zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(6,7,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.043177604675293	 ([women][disease][zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch])
+v(2,3,4,6,7,8,9,10,11,12,13,14,15,20,21,22,23,24,25,26,27): 7.686023712158203	 ([movie...][bunch][skanky][women][disease][basically][turning][zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(0,1,2,3,4,5,6,7,8,9,16,17,18,19,26,27): 7.219648361206055	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][smoking,][rarely][going][meat][movie...][ugh "])
+v(0,1,2,3,4,5,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,26,27): 7.378298282623291	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][movie...][ugh "])
+v(0,1,5,6,7,10,12,13,14,15,16,17,18,19,20,21,22,23): 7.496672630310059	 ([ok][sum][british][women][disease][zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,20,21,22,23,26,27): 7.357028961181641	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][zombies.][movie][consists][women][talking,]["][humans][eat.][swear][movie...][ugh "])
+v(2,3,4,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,26,27): 7.684958457946777	 ([movie...][bunch][skanky][women][disease][basically][turning][zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][movie...][ugh "])
+v(0,1,2,3,4,5,6,7,8,9,11,16,17,18,19,24,25,26,27): 7.588136672973633	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][whole][smoking,][rarely][going][meat][make][watch][movie...][ugh "])
+v(0,1,2,3,4,5,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 7.597718715667725	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(0,1,5,6,7,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.048730850219727	 ([ok][sum][british][women][disease][zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,20,21,22,23,24,25,26,27): 7.444397926330566	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 7.864974021911621	 ([movie...][bunch][skanky][women][disease][basically][turning][zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,26,27): 7.546198844909668	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][movie...][ugh "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 7.5784759521484375	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch][movie...][ugh "])
+---------- Rewards-v() ----------
+v(0,1,5,6,7,10,11,12,13,14,15,20,21,22,23,24,25): 4.970263957977295, EP: 1.1130077838897705	 ([ok][sum][british][women][disease][zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch])
+v(6,7,10,11,12,13,14,15,20,21,22,23,24,25): 4.954451084136963, EP: 1.109466791152954	 ([women][disease][zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch])
+v(10,11,12,13,14,15,20,21,22,23,24,25): 4.947805881500244, EP: 1.1079787015914917	 ([zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch])
+v(10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 4.942917346954346, EP: 1.1068840026855469	 ([zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch])
+v(0,1,5,6,7,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 4.9358696937561035, EP: 1.105305790901184	 ([ok][sum][british][women][disease][zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch])
+v(6,7,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 4.93031644821167, EP: 1.1040621995925903	 ([women][disease][zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch])
+v(0,1,5,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 4.861954689025879, EP: 1.0887537002563477	 ([ok][sum][british][zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch])
+v(0,1,5,10,11,12,13,14,15,20,21,22,23,24,25): 4.857300758361816, EP: 1.0877115726470947	 ([ok][sum][british][zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch])
+v(2,3,4,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 4.783604145050049, EP: 1.0712083578109741	 ([movie...][bunch][skanky][basically][turning][zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 4.752112865447998, EP: 1.064156413078308	 ([movie...][bunch][skanky][women][disease][basically][turning][zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(2,3,4,6,7,8,9,11,16,17,18,19,24,25,26,27): 4.742169380187988, EP: 1.0619298219680786	 ([movie...][bunch][skanky][women][disease][basically][turning][whole][smoking,][rarely][going][meat][make][watch][movie...][ugh "])
+v(0,1,5,6,7,11,16,17,18,19,24,25): 4.667892932891846, EP: 1.0452967882156372	 ([ok][sum][british][women][disease][whole][smoking,][rarely][going][meat][make][watch])
+v(2,3,4,6,7,8,9,16,17,18,19,26,27): 4.632809162139893, EP: 1.0374404191970825	 ([movie...][bunch][skanky][women][disease][basically][turning][smoking,][rarely][going][meat][movie...][ugh "])
+v(2,3,4,6,7,8,9,11,24,25,26,27): 4.580341815948486, EP: 1.0256911516189575	 ([movie...][bunch][skanky][women][disease][basically][turning][whole][make][watch][movie...][ugh "])
+v(2,3,4,6,7,8,9,10,11,12,13,14,15,20,21,22,23,24,25,26,27): 4.57316255569458, EP: 1.0240834951400757	 ([movie...][bunch][skanky][women][disease][basically][turning][zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(2,3,4,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,26,27): 4.572097301483154, EP: 1.0238449573516846	 ([movie...][bunch][skanky][women][disease][basically][turning][zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][movie...][ugh "])
+v(2,3,4,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,26,27): 4.527516841888428, EP: 1.013861894607544	 ([movie...][bunch][skanky][basically][turning][zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][movie...][ugh "])
+v(0,1,2,3,4,5,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 4.484857559204102, EP: 1.004309058189392	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(2,3,4,8,9,11,16,17,18,19,24,25,26,27): 4.481429576873779, EP: 1.0035414695739746	 ([movie...][bunch][skanky][basically][turning][whole][smoking,][rarely][going][meat][make][watch][movie...][ugh "])
+v(0,1,5,6,7,11,24,25): 4.4807257652282715, EP: 1.0033838748931885	 ([ok][sum][british][women][disease][whole][make][watch])
+v(0,1,2,3,4,5,6,7,8,9,11,16,17,18,19,24,25,26,27): 4.47527551651001, EP: 1.0021634101867676	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][whole][smoking,][rarely][going][meat][make][watch][movie...][ugh "])
+v(0,1,5,6,7,10,12,13,14,15,20,21,22,23): 4.471747875213623, EP: 1.0013734102249146	 ([ok][sum][british][women][disease][zombies.][movie][consists][women][talking,]["][humans][eat.][swear])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 4.4656147956848145, EP: 1.0	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][zombies.][whole][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(2,3,4,8,9,10,11,12,13,14,15,20,21,22,23,24,25,26,27): 4.46169376373291, EP: 0.9991219639778137	 ([movie...][bunch][skanky][basically][turning][zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(2,3,4,6,7,8,9,26,27): 4.440975666046143, EP: 0.9944824576377869	 ([movie...][bunch][skanky][women][disease][basically][turning][movie...][ugh "])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,26,27): 4.433337688446045, EP: 0.992772102355957	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][movie...][ugh "])
+v(0,1,5,11,16,17,18,19,24,25): 4.429861545562744, EP: 0.9919936656951904	 ([ok][sum][british][whole][smoking,][rarely][going][meat][make][watch])
+v(2,3,4,6,7,8,9,10,12,13,14,15,20,21,22,23,26,27): 4.393228054046631, EP: 0.9837902188301086	 ([movie...][bunch][skanky][women][disease][basically][turning][zombies.][movie][consists][women][talking,]["][humans][eat.][swear][movie...][ugh "])
+v(0,1,5,6,7,10,12,13,14,15,16,17,18,19,20,21,22,23): 4.3838114738464355, EP: 0.9816815257072449	 ([ok][sum][british][women][disease][zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,20,21,22,23,24,25,26,27): 4.331536769866943, EP: 0.969975471496582	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(0,1,2,3,4,5,6,7,8,9,11,24,25,26,27): 4.294882297515869, EP: 0.961767315864563	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][whole][make][watch][movie...][ugh "])
+v(0,1,2,3,4,5,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,26,27): 4.265437126159668, EP: 0.9551735520362854	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear][movie...][ugh "])
+v(6,7,10,12,13,14,15,20,21,22,23): 4.265304088592529, EP: 0.9551437497138977	 ([women][disease][zombies.][movie][consists][women][talking,]["][humans][eat.][swear])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,20,21,22,23,26,27): 4.244167804718018, EP: 0.9504106640815735	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][zombies.][movie][consists][women][talking,]["][humans][eat.][swear][movie...][ugh "])
+v(2,3,4,8,9,10,12,13,14,15,20,21,22,23,26,27): 4.207544326782227, EP: 0.9422094225883484	 ([movie...][bunch][skanky][basically][turning][zombies.][movie][consists][women][talking,]["][humans][eat.][swear][movie...][ugh "])
+v(6,7,10,12,13,14,15,16,17,18,19,20,21,22,23): 4.197397708892822, EP: 0.9399372339248657	 ([women][disease][zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear])
+v(0,1,2,3,4,5,8,9,10,11,12,13,14,15,20,21,22,23,24,25,26,27): 4.1700873374938965, EP: 0.9338215589523315	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][zombies.][whole][movie][consists][women][talking,]["][humans][eat.][swear][make][watch][movie...][ugh "])
+v(10,12,13,14,15,20,21,22,23): 4.154721736907959, EP: 0.9303807020187378	 ([zombies.][movie][consists][women][talking,]["][humans][eat.][swear])
+v(6,7,11,16,17,18,19,24,25): 4.115100383758545, EP: 0.9215081334114075	 ([women][disease][whole][smoking,][rarely][going][meat][make][watch])
+v(0,1,2,3,4,5,6,7,8,9,16,17,18,19,26,27): 4.106787204742432, EP: 0.9196465611457825	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][smoking,][rarely][going][meat][movie...][ugh "])
+v(0,1,5,11,24,25): 4.106441020965576, EP: 0.9195690155029297	 ([ok][sum][british][whole][make][watch])
+v(10,12,13,14,15,16,17,18,19,20,21,22,23): 4.074952602386475, EP: 0.9125177264213562	 ([zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear])
+v(2,3,4,8,9,16,17,18,19,26,27): 4.063696384429932, EP: 0.9099970459938049	 ([movie...][bunch][skanky][basically][turning][smoking,][rarely][going][meat][movie...][ugh "])
+v(0,1,2,3,4,5,8,9,11,16,17,18,19,24,25,26,27): 3.9945616722106934, EP: 0.8945155143737793	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][whole][smoking,][rarely][going][meat][make][watch][movie...][ugh "])
+v(6,7,11,24,25): 3.966505527496338, EP: 0.8882328271865845	 ([women][disease][whole][make][watch])
+v(0,1,2,3,4,5,8,9,10,12,13,14,15,20,21,22,23,26,27): 3.949492931365967, EP: 0.8844231367111206	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][zombies.][movie][consists][women][talking,]["][humans][eat.][swear][movie...][ugh "])
+v(2,3,4,8,9,11,24,25,26,27): 3.927828788757324, EP: 0.879571795463562	 ([movie...][bunch][skanky][basically][turning][whole][make][watch][movie...][ugh "])
+v(0,1,2,3,4,5,6,7,8,9,26,27): 3.872262477874756, EP: 0.8671286106109619	 ([ok][sum][movie...][bunch][skanky][british][women][disease][basically][turning][movie...][ugh "])
+v(0,1,5,10,12,13,14,15,16,17,18,19,20,21,22,23): 3.795579433441162, EP: 0.849956750869751	 ([ok][sum][british][zombies.][movie][consists][women][talking,][smoking,][rarely][going][meat]["][humans][eat.][swear])
+v(0,1,5,10,12,13,14,15,20,21,22,23): 3.7921881675720215, EP: 0.8491973280906677	 ([ok][sum][british][zombies.][movie][consists][women][talking,]["][humans][eat.][swear])
+v(2,3,4,8,9,26,27): 3.563002586364746, EP: 0.7978750467300415	 ([movie...][bunch][skanky][basically][turning][movie...][ugh "])
+v(11,16,17,18,19,24,25): 3.5428786277770996, EP: 0.7933686375617981	 ([whole][smoking,][rarely][going][meat][make][watch])
+v(0,1,2,3,4,5,8,9,11,24,25,26,27): 3.5073952674865723, EP: 0.785422682762146	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][whole][make][watch][movie...][ugh "])
+v(0,1,2,3,4,5,8,9,16,17,18,19,26,27): 3.206019401550293, EP: 0.7179346084594727	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][smoking,][rarely][going][meat][movie...][ugh "])
+v(11,24,25): 3.133983612060547, EP: 0.7018033862113953	 ([whole][make][watch])
+v(0,1,2,3,4,5,8,9,26,27): 2.880119800567627, EP: 0.6449548006057739	 ([ok][sum][movie...][bunch][skanky][british][basically][turning][movie...][ugh "])
+v(0,1,5,6,7): 1.0782794952392578, EP: 0.24146272242069244	 ([ok][sum][british][women][disease])
+v(0,1,5,6,7,16,17,18,19): 0.7571158409118652, EP: 0.16954347491264343	 ([ok][sum][british][women][disease][smoking,][rarely][going][meat])
+v(0,1,5): 0.6488614082336426, EP: 0.1453016996383667	 ([ok][sum][british])
+v(6,7): 0.4373307228088379, EP: 0.09793292731046677	 ([women][disease])
+v(16,17,18,19): -0.3250155448913574, EP: -0.07278181612491608	 ([smoking,][rarely][going][meat])
+v(0,1,5,16,17,18,19): 0.03090190887451172, EP: 0.0069199674762785435	 ([ok][sum][british][smoking,][rarely][going][meat])
+v(6,7,16,17,18,19): -0.006532192230224609, EP: -0.0014627755153924227	 ([women][disease][smoking,][rarely][going][meat])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,161 @@
+---------- Players ----------
+Player 0: apparent
+Player 1: attempt
+Player 2: avoid
+Player 3: remaking
+Player 4: original
+Player 5: movie
+Player 6: excellent
+Player 7: cast
+Player 8: made
+Player 9: inherently
+Player 10: funny,
+Player 11: classic
+Player 12: neil
+Player 13: simon
+Player 14: material
+Player 15: better
+Player 16: original
+Player 17: failed
+Player 18: every
+Player 19: level.
+Player 20: chemistry
+Player 21: goldie
+Player 22: hawn
+Player 23: steve
+Player 24: martin
+Player 25: magic
+Player 26: housesitter '
+Player 27: nonexistent
+Player 28: effort.
+---------- Rewards ----------
+v(): 2.4841179847717285	 ([])
+v(6,9,10): -0.8481884002685547	 ([excellent][inherently][funny,])
+v(19,24,26,27): 3.8737387657165527	 ([level.][martin][housesitter '][nonexistent])
+v(11,12,20,21,22,23,25): -5.293912410736084	 ([classic][neil][chemistry][goldie][hawn][steve][magic])
+v(4,5,15): 2.781515598297119	 ([original][movie][better])
+v(7,13,14,16,17,18): 6.836425304412842	 ([cast][simon][material][original][failed][every])
+v(0,1,2,3,8,28): 5.219508647918701	 ([apparent][attempt][avoid][remaking][made][effort.])
+v(6,9,10,19,24,26,27): 5.483935356140137	 ([excellent][inherently][funny,][level.][martin][housesitter '][nonexistent])
+v(6,9,10,11,12,20,21,22,23,25): -7.461597442626953	 ([excellent][inherently][funny,][classic][neil][chemistry][goldie][hawn][steve][magic])
+v(4,5,6,9,10,15): -1.8870383501052856	 ([original][movie][excellent][inherently][funny,][better])
+v(6,7,9,10,13,14,16,17,18): 6.967759609222412	 ([excellent][cast][inherently][funny,][simon][material][original][failed][every])
+v(0,1,2,3,6,8,9,10,28): 6.940097808837891	 ([apparent][attempt][avoid][remaking][excellent][made][inherently][funny,][effort.])
+v(11,12,19,20,21,22,23,24,25,26,27): 7.2417755126953125	 ([classic][neil][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(4,5,15,19,24,26,27): 4.124177932739258	 ([original][movie][better][level.][martin][housesitter '][nonexistent])
+v(7,13,14,16,17,18,19,24,26,27): 8.529054641723633	 ([cast][simon][material][original][failed][every][level.][martin][housesitter '][nonexistent])
+v(0,1,2,3,8,19,24,26,27,28): 5.586866855621338	 ([apparent][attempt][avoid][remaking][made][level.][martin][housesitter '][nonexistent][effort.])
+v(4,5,11,12,15,20,21,22,23,25): -4.7507805824279785	 ([original][movie][classic][neil][better][chemistry][goldie][hawn][steve][magic])
+v(7,11,12,13,14,16,17,18,20,21,22,23,25): 6.104874610900879	 ([cast][classic][neil][simon][material][original][failed][every][chemistry][goldie][hawn][steve][magic])
+v(0,1,2,3,8,11,12,20,21,22,23,25,28): 0.3376125991344452	 ([apparent][attempt][avoid][remaking][made][classic][neil][chemistry][goldie][hawn][steve][magic][effort.])
+v(4,5,7,13,14,15,16,17,18): 7.227477550506592	 ([original][movie][cast][simon][material][better][original][failed][every])
+v(0,1,2,3,4,5,8,15,28): 6.902504920959473	 ([apparent][attempt][avoid][remaking][original][movie][made][better][effort.])
+v(0,1,2,3,7,8,13,14,16,17,18,28): 7.032044887542725	 ([apparent][attempt][avoid][remaking][cast][made][simon][material][original][failed][every][effort.])
+v(6,9,10,11,12,19,20,21,22,23,24,25,26,27): 7.598934650421143	 ([excellent][inherently][funny,][classic][neil][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(4,5,6,9,10,15,19,24,26,27): 5.450165748596191	 ([original][movie][excellent][inherently][funny,][better][level.][martin][housesitter '][nonexistent])
+v(6,7,9,10,13,14,16,17,18,19,24,26,27): 8.35605239868164	 ([excellent][cast][inherently][funny,][simon][material][original][failed][every][level.][martin][housesitter '][nonexistent])
+v(0,1,2,3,6,8,9,10,19,24,26,27,28): 7.734277725219727	 ([apparent][attempt][avoid][remaking][excellent][made][inherently][funny,][level.][martin][housesitter '][nonexistent][effort.])
+v(4,5,6,9,10,11,12,15,20,21,22,23,25): -6.71882963180542	 ([original][movie][excellent][inherently][funny,][classic][neil][better][chemistry][goldie][hawn][steve][magic])
+v(6,7,9,10,11,12,13,14,16,17,18,20,21,22,23,25): 4.27186918258667	 ([excellent][cast][inherently][funny,][classic][neil][simon][material][original][failed][every][chemistry][goldie][hawn][steve][magic])
+v(0,1,2,3,6,8,9,10,11,12,20,21,22,23,25,28): 1.8455597162246704	 ([apparent][attempt][avoid][remaking][excellent][made][inherently][funny,][classic][neil][chemistry][goldie][hawn][steve][magic][effort.])
+v(4,5,6,7,9,10,13,14,15,16,17,18): 7.435138702392578	 ([original][movie][excellent][cast][inherently][funny,][simon][material][better][original][failed][every])
+v(0,1,2,3,4,5,6,8,9,10,15,28): 6.821569919586182	 ([apparent][attempt][avoid][remaking][original][movie][excellent][made][inherently][funny,][better][effort.])
+v(0,1,2,3,6,7,8,9,10,13,14,16,17,18,28): 7.852705955505371	 ([apparent][attempt][avoid][remaking][excellent][cast][made][inherently][funny,][simon][material][original][failed][every][effort.])
+v(4,5,11,12,15,19,20,21,22,23,24,25,26,27): 7.250010967254639	 ([original][movie][classic][neil][better][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(7,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27): 8.70020866394043	 ([cast][classic][neil][simon][material][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(0,1,2,3,8,11,12,19,20,21,22,23,24,25,26,27,28): 8.128284454345703	 ([apparent][attempt][avoid][remaking][made][classic][neil][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(4,5,7,13,14,15,16,17,18,19,24,26,27): 8.50589370727539	 ([original][movie][cast][simon][material][better][original][failed][every][level.][martin][housesitter '][nonexistent])
+v(0,1,2,3,4,5,8,15,19,24,26,27,28): 7.428821563720703	 ([apparent][attempt][avoid][remaking][original][movie][made][better][level.][martin][housesitter '][nonexistent][effort.])
+v(0,1,2,3,7,8,13,14,16,17,18,19,24,26,27,28): 7.813315391540527	 ([apparent][attempt][avoid][remaking][cast][made][simon][material][original][failed][every][level.][martin][housesitter '][nonexistent][effort.])
+v(4,5,7,11,12,13,14,15,16,17,18,20,21,22,23,25): 6.186187267303467	 ([original][movie][cast][classic][neil][simon][material][better][original][failed][every][chemistry][goldie][hawn][steve][magic])
+v(0,1,2,3,4,5,8,11,12,15,20,21,22,23,25,28): 4.691075325012207	 ([apparent][attempt][avoid][remaking][original][movie][made][classic][neil][better][chemistry][goldie][hawn][steve][magic][effort.])
+v(0,1,2,3,7,8,11,12,13,14,16,17,18,20,21,22,23,25,28): 6.733523368835449	 ([apparent][attempt][avoid][remaking][cast][made][classic][neil][simon][material][original][failed][every][chemistry][goldie][hawn][steve][magic][effort.])
+v(0,1,2,3,4,5,7,8,13,14,15,16,17,18,28): 7.582788944244385	 ([apparent][attempt][avoid][remaking][original][movie][cast][made][simon][material][better][original][failed][every][effort.])
+v(4,5,6,9,10,11,12,15,19,20,21,22,23,24,25,26,27): 7.798506736755371	 ([original][movie][excellent][inherently][funny,][classic][neil][better][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(6,7,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27): 8.35792350769043	 ([excellent][cast][inherently][funny,][classic][neil][simon][material][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(0,1,2,3,6,8,9,10,11,12,19,20,21,22,23,24,25,26,27,28): 8.413287162780762	 ([apparent][attempt][avoid][remaking][excellent][made][inherently][funny,][classic][neil][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(4,5,6,7,9,10,13,14,15,16,17,18,19,24,26,27): 8.484760284423828	 ([original][movie][excellent][cast][inherently][funny,][simon][material][better][original][failed][every][level.][martin][housesitter '][nonexistent])
+v(0,1,2,3,4,5,6,8,9,10,15,19,24,26,27,28): 8.026717185974121	 ([apparent][attempt][avoid][remaking][original][movie][excellent][made][inherently][funny,][better][level.][martin][housesitter '][nonexistent][effort.])
+v(0,1,2,3,6,7,8,9,10,13,14,16,17,18,19,24,26,27,28): 8.677595138549805	 ([apparent][attempt][avoid][remaking][excellent][cast][made][inherently][funny,][simon][material][original][failed][every][level.][martin][housesitter '][nonexistent][effort.])
+v(4,5,6,7,9,10,11,12,13,14,15,16,17,18,20,21,22,23,25): 6.870683670043945	 ([original][movie][excellent][cast][inherently][funny,][classic][neil][simon][material][better][original][failed][every][chemistry][goldie][hawn][steve][magic])
+v(0,1,2,3,4,5,6,8,9,10,11,12,15,20,21,22,23,25,28): 3.3890669345855713	 ([apparent][attempt][avoid][remaking][original][movie][excellent][made][inherently][funny,][classic][neil][better][chemistry][goldie][hawn][steve][magic][effort.])
+v(0,1,2,3,6,7,8,9,10,11,12,13,14,16,17,18,20,21,22,23,25,28): 7.520936489105225	 ([apparent][attempt][avoid][remaking][excellent][cast][made][inherently][funny,][classic][neil][simon][material][original][failed][every][chemistry][goldie][hawn][steve][magic][effort.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,28): 8.02706527709961	 ([apparent][attempt][avoid][remaking][original][movie][excellent][cast][made][inherently][funny,][simon][material][better][original][failed][every][effort.])
+v(4,5,7,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.640363693237305	 ([original][movie][cast][classic][neil][simon][material][better][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(0,1,2,3,4,5,8,11,12,15,19,20,21,22,23,24,25,26,27,28): 8.472017288208008	 ([apparent][attempt][avoid][remaking][original][movie][made][classic][neil][better][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(0,1,2,3,7,8,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.664413452148438	 ([apparent][attempt][avoid][remaking][cast][made][classic][neil][simon][material][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(0,1,2,3,4,5,7,8,13,14,15,16,17,18,19,24,26,27,28): 8.35856819152832	 ([apparent][attempt][avoid][remaking][original][movie][cast][made][simon][material][better][original][failed][every][level.][martin][housesitter '][nonexistent][effort.])
+v(0,1,2,3,4,5,7,8,11,12,13,14,15,16,17,18,20,21,22,23,25,28): 7.188985824584961	 ([apparent][attempt][avoid][remaking][original][movie][cast][made][classic][neil][simon][material][better][original][failed][every][chemistry][goldie][hawn][steve][magic][effort.])
+v(4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.531206130981445	 ([original][movie][excellent][cast][inherently][funny,][classic][neil][simon][material][better][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(0,1,2,3,4,5,6,8,9,10,11,12,15,19,20,21,22,23,24,25,26,27,28): 8.545506477355957	 ([apparent][attempt][avoid][remaking][original][movie][excellent][made][inherently][funny,][classic][neil][better][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(0,1,2,3,6,7,8,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.843792915344238	 ([apparent][attempt][avoid][remaking][excellent][cast][made][inherently][funny,][classic][neil][simon][material][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,19,24,26,27,28): 8.776987075805664	 ([apparent][attempt][avoid][remaking][original][movie][excellent][cast][made][inherently][funny,][simon][material][better][original][failed][every][level.][martin][housesitter '][nonexistent][effort.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,23,25,28): 8.006247520446777	 ([apparent][attempt][avoid][remaking][original][movie][excellent][cast][made][inherently][funny,][classic][neil][simon][material][better][original][failed][every][chemistry][goldie][hawn][steve][magic][effort.])
+v(0,1,2,3,4,5,7,8,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.761049270629883	 ([apparent][attempt][avoid][remaking][original][movie][cast][made][classic][neil][simon][material][better][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.842935562133789	 ([apparent][attempt][avoid][remaking][original][movie][excellent][cast][made][inherently][funny,][classic][neil][simon][material][better][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+---------- Rewards-v() ----------
+v(6,9,10,11,12,20,21,22,23,25): -9.945714950561523, EP: -1.5640825033187866	 ([excellent][inherently][funny,][classic][neil][chemistry][goldie][hawn][steve][magic])
+v(4,5,6,9,10,11,12,15,20,21,22,23,25): -9.202947616577148, EP: -1.4472733736038208	 ([original][movie][excellent][inherently][funny,][classic][neil][better][chemistry][goldie][hawn][steve][magic])
+v(11,12,20,21,22,23,25): -7.7780303955078125, EP: -1.2231881618499756	 ([classic][neil][chemistry][goldie][hawn][steve][magic])
+v(4,5,11,12,15,20,21,22,23,25): -7.234898567199707, EP: -1.1377742290496826	 ([original][movie][classic][neil][better][chemistry][goldie][hawn][steve][magic])
+v(0,1,2,3,6,7,8,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28): 6.35967493057251, EP: 1.000134825706482	 ([apparent][attempt][avoid][remaking][excellent][cast][made][inherently][funny,][classic][neil][simon][material][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 6.3588175773620605, EP: 1.0	 ([apparent][attempt][avoid][remaking][original][movie][excellent][cast][made][inherently][funny,][classic][neil][simon][material][better][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,19,24,26,27,28): 6.2928690910339355, EP: 0.989628791809082	 ([apparent][attempt][avoid][remaking][original][movie][excellent][cast][made][inherently][funny,][simon][material][better][original][failed][every][level.][martin][housesitter '][nonexistent][effort.])
+v(0,1,2,3,4,5,7,8,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 6.276931285858154, EP: 0.9871224164962769	 ([apparent][attempt][avoid][remaking][original][movie][cast][made][classic][neil][simon][material][better][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(7,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27): 6.216090679168701, EP: 0.9775545001029968	 ([cast][classic][neil][simon][material][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(0,1,2,3,6,7,8,9,10,13,14,16,17,18,19,24,26,27,28): 6.193477153778076, EP: 0.9739982485771179	 ([apparent][attempt][avoid][remaking][excellent][cast][made][inherently][funny,][simon][material][original][failed][every][level.][martin][housesitter '][nonexistent][effort.])
+v(0,1,2,3,7,8,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28): 6.180295467376709, EP: 0.9719252586364746	 ([apparent][attempt][avoid][remaking][cast][made][classic][neil][simon][material][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(4,5,7,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 6.156245708465576, EP: 0.9681431651115417	 ([original][movie][cast][classic][neil][simon][material][better][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(0,1,2,3,4,5,6,8,9,10,11,12,15,19,20,21,22,23,24,25,26,27,28): 6.0613884925842285, EP: 0.9532257318496704	 ([apparent][attempt][avoid][remaking][original][movie][excellent][made][inherently][funny,][classic][neil][better][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 6.047088146209717, EP: 0.9509768486022949	 ([original][movie][excellent][cast][inherently][funny,][classic][neil][simon][material][better][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(7,13,14,16,17,18,19,24,26,27): 6.044936656951904, EP: 0.950638473033905	 ([cast][simon][material][original][failed][every][level.][martin][housesitter '][nonexistent])
+v(4,5,7,13,14,15,16,17,18,19,24,26,27): 6.021775722503662, EP: 0.9469961524009705	 ([original][movie][cast][simon][material][better][original][failed][every][level.][martin][housesitter '][nonexistent])
+v(4,5,6,7,9,10,13,14,15,16,17,18,19,24,26,27): 6.0006422996521, EP: 0.9436726570129395	 ([original][movie][excellent][cast][inherently][funny,][simon][material][better][original][failed][every][level.][martin][housesitter '][nonexistent])
+v(0,1,2,3,4,5,8,11,12,15,19,20,21,22,23,24,25,26,27,28): 5.987899303436279, EP: 0.941668689250946	 ([apparent][attempt][avoid][remaking][original][movie][made][classic][neil][better][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(0,1,2,3,6,8,9,10,11,12,19,20,21,22,23,24,25,26,27,28): 5.929169178009033, EP: 0.9324326515197754	 ([apparent][attempt][avoid][remaking][excellent][made][inherently][funny,][classic][neil][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(0,1,2,3,4,5,7,8,13,14,15,16,17,18,19,24,26,27,28): 5.874450206756592, EP: 0.9238274693489075	 ([apparent][attempt][avoid][remaking][original][movie][cast][made][simon][material][better][original][failed][every][level.][martin][housesitter '][nonexistent][effort.])
+v(6,7,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27): 5.873805522918701, EP: 0.9237260818481445	 ([excellent][cast][inherently][funny,][classic][neil][simon][material][original][failed][every][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(6,7,9,10,13,14,16,17,18,19,24,26,27): 5.871934413909912, EP: 0.9234318137168884	 ([excellent][cast][inherently][funny,][simon][material][original][failed][every][level.][martin][housesitter '][nonexistent])
+v(0,1,2,3,8,11,12,19,20,21,22,23,24,25,26,27,28): 5.644166469573975, EP: 0.8876125812530518	 ([apparent][attempt][avoid][remaking][made][classic][neil][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent][effort.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,28): 5.542947292327881, EP: 0.8716946840286255	 ([apparent][attempt][avoid][remaking][original][movie][excellent][cast][made][inherently][funny,][simon][material][better][original][failed][every][effort.])
+v(0,1,2,3,4,5,6,8,9,10,15,19,24,26,27,28): 5.542599201202393, EP: 0.8716399073600769	 ([apparent][attempt][avoid][remaking][original][movie][excellent][made][inherently][funny,][better][level.][martin][housesitter '][nonexistent][effort.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,23,25,28): 5.522129535675049, EP: 0.8684208393096924	 ([apparent][attempt][avoid][remaking][original][movie][excellent][cast][made][inherently][funny,][classic][neil][simon][material][better][original][failed][every][chemistry][goldie][hawn][steve][magic][effort.])
+v(0,1,2,3,6,7,8,9,10,13,14,16,17,18,28): 5.368587970733643, EP: 0.8442745804786682	 ([apparent][attempt][avoid][remaking][excellent][cast][made][inherently][funny,][simon][material][original][failed][every][effort.])
+v(0,1,2,3,7,8,13,14,16,17,18,19,24,26,27,28): 5.329197406768799, EP: 0.8380799293518066	 ([apparent][attempt][avoid][remaking][cast][made][simon][material][original][failed][every][level.][martin][housesitter '][nonexistent][effort.])
+v(4,5,6,9,10,11,12,15,19,20,21,22,23,24,25,26,27): 5.314388751983643, EP: 0.8357511162757874	 ([original][movie][excellent][inherently][funny,][classic][neil][better][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(0,1,2,3,6,8,9,10,19,24,26,27,28): 5.250159740447998, EP: 0.8256503343582153	 ([apparent][attempt][avoid][remaking][excellent][made][inherently][funny,][level.][martin][housesitter '][nonexistent][effort.])
+v(6,9,10,11,12,19,20,21,22,23,24,25,26,27): 5.114816665649414, EP: 0.8043659925460815	 ([excellent][inherently][funny,][classic][neil][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(0,1,2,3,4,5,7,8,13,14,15,16,17,18,28): 5.098670959472656, EP: 0.8018268942832947	 ([apparent][attempt][avoid][remaking][original][movie][cast][made][simon][material][better][original][failed][every][effort.])
+v(0,1,2,3,6,7,8,9,10,11,12,13,14,16,17,18,20,21,22,23,25,28): 5.036818504333496, EP: 0.7920998334884644	 ([apparent][attempt][avoid][remaking][excellent][cast][made][inherently][funny,][classic][neil][simon][material][original][failed][every][chemistry][goldie][hawn][steve][magic][effort.])
+v(4,5,6,7,9,10,13,14,15,16,17,18): 4.95102071762085, EP: 0.7786071300506592	 ([original][movie][excellent][cast][inherently][funny,][simon][material][better][original][failed][every])
+v(0,1,2,3,4,5,8,15,19,24,26,27,28): 4.944703578948975, EP: 0.7776136994361877	 ([apparent][attempt][avoid][remaking][original][movie][made][better][level.][martin][housesitter '][nonexistent][effort.])
+v(4,5,11,12,15,19,20,21,22,23,24,25,26,27): 4.76589298248291, EP: 0.7494935989379883	 ([original][movie][classic][neil][better][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(11,12,19,20,21,22,23,24,25,26,27): 4.757657527923584, EP: 0.7481984496116638	 ([classic][neil][level.][chemistry][goldie][hawn][steve][martin][magic][housesitter '][nonexistent])
+v(4,5,7,13,14,15,16,17,18): 4.743359565734863, EP: 0.745949923992157	 ([original][movie][cast][simon][material][better][original][failed][every])
+v(0,1,2,3,4,5,7,8,11,12,13,14,15,16,17,18,20,21,22,23,25,28): 4.704867839813232, EP: 0.7398966550827026	 ([apparent][attempt][avoid][remaking][original][movie][cast][made][classic][neil][simon][material][better][original][failed][every][chemistry][goldie][hawn][steve][magic][effort.])
+v(0,1,2,3,7,8,13,14,16,17,18,28): 4.547926902770996, EP: 0.715215802192688	 ([apparent][attempt][avoid][remaking][cast][made][simon][material][original][failed][every][effort.])
+v(6,7,9,10,13,14,16,17,18): 4.483641624450684, EP: 0.7051061987876892	 ([excellent][cast][inherently][funny,][simon][material][original][failed][every])
+v(0,1,2,3,6,8,9,10,28): 4.455979824066162, EP: 0.7007560133934021	 ([apparent][attempt][avoid][remaking][excellent][made][inherently][funny,][effort.])
+v(0,1,2,3,4,5,8,15,28): 4.418386936187744, EP: 0.694844126701355	 ([apparent][attempt][avoid][remaking][original][movie][made][better][effort.])
+v(4,5,6,7,9,10,11,12,13,14,15,16,17,18,20,21,22,23,25): 4.386565685272217, EP: 0.6898398399353027	 ([original][movie][excellent][cast][inherently][funny,][classic][neil][simon][material][better][original][failed][every][chemistry][goldie][hawn][steve][magic])
+v(4,5,6,9,10,15): -4.371156215667725, EP: -0.6874164938926697	 ([original][movie][excellent][inherently][funny,][better])
+v(7,13,14,16,17,18): 4.352307319641113, EP: 0.6844522953033447	 ([cast][simon][material][original][failed][every])
+v(0,1,2,3,4,5,6,8,9,10,15,28): 4.337451934814453, EP: 0.6821160912513733	 ([apparent][attempt][avoid][remaking][original][movie][excellent][made][inherently][funny,][better][effort.])
+v(0,1,2,3,7,8,11,12,13,14,16,17,18,20,21,22,23,25,28): 4.249405384063721, EP: 0.6682697534561157	 ([apparent][attempt][avoid][remaking][cast][made][classic][neil][simon][material][original][failed][every][chemistry][goldie][hawn][steve][magic][effort.])
+v(4,5,7,11,12,13,14,15,16,17,18,20,21,22,23,25): 3.7020692825317383, EP: 0.5821946263313293	 ([original][movie][cast][classic][neil][simon][material][better][original][failed][every][chemistry][goldie][hawn][steve][magic])
+v(7,11,12,13,14,16,17,18,20,21,22,23,25): 3.6207566261291504, EP: 0.5694072246551514	 ([cast][classic][neil][simon][material][original][failed][every][chemistry][goldie][hawn][steve][magic])
+v(6,9,10): -3.332306385040283, EP: -0.5240449905395508	 ([excellent][inherently][funny,])
+v(0,1,2,3,8,19,24,26,27,28): 3.1027488708496094, EP: 0.4879443049430847	 ([apparent][attempt][avoid][remaking][made][level.][martin][housesitter '][nonexistent][effort.])
+v(6,9,10,19,24,26,27): 2.999817371368408, EP: 0.47175711393356323	 ([excellent][inherently][funny,][level.][martin][housesitter '][nonexistent])
+v(4,5,6,9,10,15,19,24,26,27): 2.966047763824463, EP: 0.4664464294910431	 ([original][movie][excellent][inherently][funny,][better][level.][martin][housesitter '][nonexistent])
+v(0,1,2,3,8,28): 2.7353906631469727, EP: 0.430172860622406	 ([apparent][attempt][avoid][remaking][made][effort.])
+v(0,1,2,3,4,5,8,11,12,15,20,21,22,23,25,28): 2.2069573402404785, EP: 0.3470703959465027	 ([apparent][attempt][avoid][remaking][original][movie][made][classic][neil][better][chemistry][goldie][hawn][steve][magic][effort.])
+v(0,1,2,3,8,11,12,20,21,22,23,25,28): -2.146505355834961, EP: -0.3375636041164398	 ([apparent][attempt][avoid][remaking][made][classic][neil][chemistry][goldie][hawn][steve][magic][effort.])
+v(6,7,9,10,11,12,13,14,16,17,18,20,21,22,23,25): 1.7877511978149414, EP: 0.28114521503448486	 ([excellent][cast][inherently][funny,][classic][neil][simon][material][original][failed][every][chemistry][goldie][hawn][steve][magic])
+v(4,5,15,19,24,26,27): 1.6400599479675293, EP: 0.2579190135002136	 ([original][movie][better][level.][martin][housesitter '][nonexistent])
+v(19,24,26,27): 1.3896207809448242, EP: 0.2185344696044922	 ([level.][martin][housesitter '][nonexistent])
+v(0,1,2,3,4,5,6,8,9,10,11,12,15,20,21,22,23,25,28): 0.9049489498138428, EP: 0.14231403172016144	 ([apparent][attempt][avoid][remaking][original][movie][excellent][made][inherently][funny,][classic][neil][better][chemistry][goldie][hawn][steve][magic][effort.])
+v(0,1,2,3,6,8,9,10,11,12,20,21,22,23,25,28): -0.6385582685470581, EP: -0.10042091459035873	 ([apparent][attempt][avoid][remaking][excellent][made][inherently][funny,][classic][neil][chemistry][goldie][hawn][steve][magic][effort.])
+v(4,5,15): 0.2973976135253906, EP: 0.04676932469010353	 ([original][movie][better])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

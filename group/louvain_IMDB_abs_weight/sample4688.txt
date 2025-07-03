@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['12', '5', '18', '30', '11', '15', '9', '10', '17', '6', '7']: ['note,', 'video,', 'landing', 'airport', 'sloppy.', 'couple', 'production', 'amazingly', 'ostensibly', 'film.', 'story']: 平均边权 0.3487
+社区 2: ['2', '8', '3', '65', '0', '1']: ['cheesy', 'convoluted,', 'movie', 'afford', 'first', 'clue']: 平均边权 0.3879
+社区 3: ['60', '14', '16', '27']: ['plane', 'title', 'plane', 'plane']: 平均边权 0.6780
+社区 4: ['4', '56', '55', '57', '28']: ['shot', 'shot', 'establishing', 'depicts', 'shown']: 平均边权 0.4736
+社区 5: ['32', '29', '52', '40', '50', '42', '44', '53', '33', '31']: ['palm', 'coming', 'another', 'garden', 'climate.', 'plants,', 'palms,', 'airplane', 'trees.', 'surrounded']: 平均边权 0.3124
+社区 6: ['49', '46', '45', '21', '47', '48', '51', '64', '54']: ['england', 'five', 'last', 'gone', 'minutes', 'new', 'yet', 'could', 'trip,']: 平均边权 0.3448
+社区 7: ['63', '13', '24', '25', '34', '41', '22', '23', '43', '26']: ['presumably', 'example,', 'civil', 'union', 'ceremony', 'tropical', 'celebrate', 'relationship', 'including', 'ceremony,']: 平均边权 0.2836
+社区 8: ['35', '37', '36']: ['-', '-', 'vermont']: 平均边权 0.4388
+社区 9: ['39', '38', '61', '20', '19', '62']: ['place', 'takes', 'taking', "they've", 'vermont,', 'off.']: 平均边权 0.1948
+社区 10: ['59', '58']: ['cargo', 'fedex']: 平均边权 0.2468

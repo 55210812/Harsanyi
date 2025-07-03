@@ -1,0 +1,22 @@
+---------- Players ----------
+Player 0: brilliant
+Player 1: execution
+Player 2: displaying
+Player 3: all,
+Player 4: time
+Player 5: venue
+Player 6: politics,
+Player 7: good
+Player 8: intentions
+Player 9: actually
+Player 10: pave
+Player 11: road
+Player 12: hell
+Player 13: ".
+Player 14: excellent! "
+---------- AND Interactions (Pairwise Only) ----------
+I(0,4): 8.59272575378418	 ([brilliant][time])
+I(3,14): 7.9287824630737305	 ([all,][excellent! "])
+I(6,7): 7.415881633758545	 ([politics,][good])
+Sum: 23.937389850616455
+==================================================

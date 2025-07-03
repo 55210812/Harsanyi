@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['21', '24', '23', '22']: ['one', 'noticed', 'things', 'first']: 平均边权 0.8723
+社区 2: ['12', '20', '19', '10', '13', '18', '4', '16', '11', '15', '14', '17']: ['latter.', 'details.', 'important', 'one.', 'first', 'yet', 'finishing', 'many', 'think', 'inaccurate', 'all,', 'small,']: 平均边权 0.4710
+社区 3: ['2', '8', '5', '0', '3', '9', '1', '6', '7']: ['literally', 'idea', 'book,', 'saw', 'directly', 'stupid', 'movie', 'maybe', 'neutral']: 平均边权 0.4146
+社区 4: ['27', '25', '49', '34', '29', '30', '26', '28', '31']: ['day', 'was,', 'book,', 'etc.', 'life', 'work,', "winston's", 'day', 'conversations,']: 平均边权 0.5575
+社区 5: ['48', '46', '47']: ['parts', 'one', 'important']: 平均边权 1.3381
+社区 6: ['60', '56', '57', '58', '52', '55', '50', '53', '59', '62', '51', '54']: ['emotions', 'show', 'even', 'hint', 'activities', 'safely', 'even', 'virtually', 'true', 'moment.', 'small', 'impossible']: 平均边权 0.4152
+社区 7: ['61', '38', '36', '35', '32', '39', '37', '33']: ['face', 'unhappy', 'free', 'feels', 'eating', 'make', 'look', 'cafeteria,']: 平均边权 0.3412
+社区 8: ['41', '42', '44', '43', '45', '40']: ['glances', 'people', 'immense', 'without', 'fear.', 'suggestive']: 平均边权 0.5597

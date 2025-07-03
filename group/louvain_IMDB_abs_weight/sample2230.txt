@@ -1,0 +1,7 @@
+louvain社区检测结果:
+社区 1: ['31', '30', '35', '33', '34', '28', '32']: ['seen', 'ever', 'time.', 'bad', 'movies', 'worst', 'seen']: 平均边权 0.7755
+社区 2: ['38', '36', '46', '45', '40', '47', '39', '48', '41', '42', '44', '37', '43']: ['movie', 'comment', 'like', 'unless', 'actually', 'waste', 'imdb', 'cash!', 'people', 'made', 'believe', 'praises', 'film.']: 平均边权 0.3451
+社区 3: ['2', '4', '5', '0', '1', '29']: ['bargain', 'due', 'impressive', 'buying', 'dvd', 'thing']: 平均边权 0.2456
+社区 4: ['16', '15', '23', '21', '14', '17']: ['nice', 'good.', 'played', 'extra', 'looked', 'animated']: 平均边权 0.3484
+社区 5: ['12', '20', '19', '27', '13', '25', '18', '11', '22', '24', '26']: ['player', 'lot', 'whole', 'down.', 'everything', 'itself,', 'menus', 'dvd', 'features... but', 'movie', 'let']: 平均边权 0.5295
+社区 6: ['8', '9', '10', '6', '7']: ['listed', 'cover,', 'popped', 'amount', 'features']: 平均边权 0.2606

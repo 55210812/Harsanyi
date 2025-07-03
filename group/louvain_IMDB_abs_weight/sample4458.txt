@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['32', '25', '46', '29', '18', '30', '53', '33', '28']: ['detective,', 'novel', 'published', 'memoir', 'write', '"', 'novel )', 'written', 'novel.']: 平均边权 0.6257
+社区 2: ['9', '44', '35', '37', '43', '45', '47']: ['adventure', 'empty', 'greater', 'public', 'adventure', 'house,', '1905.']: 平均边权 0.6440
+社区 3: ['56', '61', '57', '54', '49', '52', '58', '55', '50', '48', '59', '51', '60']: ['maybe', 'even', 'three', 'really', 'short', 'last', 'stories', 'bad.', 'stories', 'new', 'really', '( and', 'terrible,']: 平均边权 0.6638
+社区 4: ['23', '26', '22', '27']: ['best', 'possibly', 'considered', 'best']: 平均边权 0.8688
+社区 5: ['38', '8', '0', '36', '40', '39', '4', '3', '41', '42', '24', '7']: ['led', 'moriarty', 'doyle', 'outcry', 'fully', 'doyle', 'holmes', 'resurrect', 'resurrect', 'holmes', "holmes '", 'professor']: 平均边权 0.4898
+社区 6: ['2', '12', '13', '16', '15', '1', '14', '17']: ['wanted', 'however, financial', 'considerations', '( in', 'willing', 'never', 'made', '1901 )']: 平均边权 0.4347
+社区 7: ['11', '5', '63', '62', '10']: ['problem.', 'joint', 'ones', 'terrible', 'final']: 平均边权 0.7062
+社区 8: ['20', '19', '34', '21', '6', '31']: ['baskervilles,', 'hound', 'death.', 'still', 'death', 'great']: 平均边权 0.2997

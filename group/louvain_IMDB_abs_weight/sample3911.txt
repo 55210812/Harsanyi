@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['2', '56', '45', '49', '48', '15', '53', '59']: ['psychopath', 'lunatic', 'psychopath', "' annoying '", 'annoying.', 'ludicrously', 'would', 'frightening,']: 平均边权 1.8072
+社区 2: ['46', '20', '27', '26', '10', '28']: ['movie', 'star.', 'budget', 'presumably', 'breaks', 'film']: 平均边权 0.7996
+社区 3: ['55', '58', '57']: ['describe', 'unhinged,', '-']: 平均边权 0.3521
+社区 4: ['4', '8', '11', '44', '9']: ['execution', 'fellow', 'prison', 'baddies.', 'inmates']: 平均边权 0.8887
+社区 5: ['16', '3', '23', '37', '36', '35', '21']: ['enormous', 'saved', 'populated', 'short,', 'story', 'long', 'massive']: 平均边权 0.6737
+社区 6: ['12', '19', '13', '18', '22', '14', '17', '6', '7']: ['spaceship.', 'supernova', 'dock', 'orbiting', 'craft', 'onto', 'spacecraft', 'monk.', 'releases']: 平均边权 0.4097
+社区 7: ['51', '32', '52', '34', '29', '47', '30', '50', '33', '54', '31']: ['term', 'actors.', 'one', 'cut', 'extend', 'curious', 'hiring', 'generally', 'anyway,', 'use', 'many']: 平均边权 0.4126
+社区 8: ['38', '5', '0', '1', '40', '39', '41', '42', '43']: ['three', 'space', 'distant', 'planet', 'end', 'goodies', 'game', 'cat', 'mouse']: 平均边权 0.2658
+社区 9: ['24', '25']: ['three', 'people,']: 平均边权 0.5220

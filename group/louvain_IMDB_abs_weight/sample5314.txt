@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['38', '35', '36', '32', '34', '39', '41', '44', '37']: ['movies', 'tired', 'dark', 'remember', 'class.', 'keep', 'made.', 'watch', 'edgy']: 平均边权 0.6492
+社区 2: ['20', '23', '19', '22', '24']: ['actors', 'sterling', 'character', 'mindy', 'good.']: 平均边权 0.7806
+社区 3: ['2', '5', '0']: ['film', 'surprise.', 'saw']: 平均边权 0.6423
+社区 4: ['48', '47']: ['checking', 'keep']: 平均边权 1.1232
+社区 5: ['30', '8', '27', '25', '26']: ['also', 'smile', 'powers.', 'loved', 'austin']: 平均边权 0.6652
+社区 6: ['29', '40', '31', '28']: ['hesseman', 'getting', 'terrific.', 'howard']: 平均边权 0.8183
+社区 7: ['46', '45', '4', '3', '1', '33', '6', '7']: ['embarrassed.', 'family', 'pleasant', 'philadelphia', 'independent', 'head', 'left', 'theater']: 平均边权 0.3521
+社区 8: ['12', '11', '42', '9', '13', '43', '10']: ['made', 'things', 'fun', 'face.', 'funny', 'light,', 'one']: 平均边权 0.3761
+社区 9: ['17', '16', '15', '18', '14', '21']: ['- hilarious!', 'story', 'true', 'great', 'based', 'too.']: 平均边权 0.2857

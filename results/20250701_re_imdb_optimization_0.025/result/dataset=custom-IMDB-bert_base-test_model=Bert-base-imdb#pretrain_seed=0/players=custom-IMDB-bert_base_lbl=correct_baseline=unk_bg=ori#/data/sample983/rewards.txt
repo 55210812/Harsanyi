@@ -1,0 +1,90 @@
+---------- Players ----------
+Player 0: acting
+Player 1: may
+Player 2: okay,
+Player 3: u
+Player 4: watch
+Player 5: movie,
+Player 6: u
+Player 7: wish
+Player 8: weren't,
+Player 9: movie
+Player 10: horrible,
+Player 11: could
+Player 12: get
+Player 13: hold
+Player 14: every
+Player 15: copy,
+Player 16: would
+Player 17: burn
+Player 18: look
+Player 19: back,
+Player 20: movie
+Player 21: terrible!!
+---------- Rewards ----------
+v(): -0.7370243668556213	 ([])
+v(6,7,9,10,20): 6.6508026123046875	 ([u][wish][movie][horrible,][movie])
+v(15,16,17,18): -0.7460973858833313	 ([copy,][would][burn][look])
+v(4,8,13,19,21): 6.755433082580566	 ([watch][weren't,][hold][back,][terrible!!])
+v(11,12,14): -0.9668599963188171	 ([could][get][every])
+v(0,1,2,3,5): 4.007210731506348	 ([acting][may][okay,][u][movie,])
+v(6,7,9,10,15,16,17,18,20): 6.957891941070557	 ([u][wish][movie][horrible,][copy,][would][burn][look][movie])
+v(4,6,7,8,9,10,13,19,20,21): 7.1104841232299805	 ([watch][u][wish][weren't,][movie][horrible,][hold][back,][movie][terrible!!])
+v(6,7,9,10,11,12,14,20): 6.624136924743652	 ([u][wish][movie][horrible,][could][get][every][movie])
+v(0,1,2,3,5,6,7,9,10,20): 7.147906303405762	 ([acting][may][okay,][u][movie,][u][wish][movie][horrible,][movie])
+v(4,8,13,15,16,17,18,19,21): 7.032369136810303	 ([watch][weren't,][hold][copy,][would][burn][look][back,][terrible!!])
+v(11,12,14,15,16,17,18): -0.6283323764801025	 ([could][get][every][copy,][would][burn][look])
+v(0,1,2,3,5,15,16,17,18): 3.5512681007385254	 ([acting][may][okay,][u][movie,][copy,][would][burn][look])
+v(4,8,11,12,13,14,19,21): 7.34273624420166	 ([watch][weren't,][could][get][hold][every][back,][terrible!!])
+v(0,1,2,3,4,5,8,13,19,21): 7.25435733795166	 ([acting][may][okay,][u][watch][movie,][weren't,][hold][back,][terrible!!])
+v(0,1,2,3,5,11,12,14): 3.6743297576904297	 ([acting][may][okay,][u][movie,][could][get][every])
+v(4,6,7,8,9,10,13,15,16,17,18,19,20,21): 6.988368034362793	 ([watch][u][wish][weren't,][movie][horrible,][hold][copy,][would][burn][look][back,][movie][terrible!!])
+v(6,7,9,10,11,12,14,15,16,17,18,20): 6.959004878997803	 ([u][wish][movie][horrible,][could][get][every][copy,][would][burn][look][movie])
+v(0,1,2,3,5,6,7,9,10,15,16,17,18,20): 7.393657684326172	 ([acting][may][okay,][u][movie,][u][wish][movie][horrible,][copy,][would][burn][look][movie])
+v(4,6,7,8,9,10,11,12,13,14,19,20,21): 7.075719833374023	 ([watch][u][wish][weren't,][movie][horrible,][could][get][hold][every][back,][movie][terrible!!])
+v(0,1,2,3,4,5,6,7,8,9,10,13,19,20,21): 7.274702072143555	 ([acting][may][okay,][u][watch][movie,][u][wish][weren't,][movie][horrible,][hold][back,][movie][terrible!!])
+v(0,1,2,3,5,6,7,9,10,11,12,14,20): 7.194250106811523	 ([acting][may][okay,][u][movie,][u][wish][movie][horrible,][could][get][every][movie])
+v(4,8,11,12,13,14,15,16,17,18,19,21): 7.153703689575195	 ([watch][weren't,][could][get][hold][every][copy,][would][burn][look][back,][terrible!!])
+v(0,1,2,3,4,5,8,13,15,16,17,18,19,21): 7.452975273132324	 ([acting][may][okay,][u][watch][movie,][weren't,][hold][copy,][would][burn][look][back,][terrible!!])
+v(0,1,2,3,5,11,12,14,15,16,17,18): 3.8669357299804688	 ([acting][may][okay,][u][movie,][could][get][every][copy,][would][burn][look])
+v(0,1,2,3,4,5,8,11,12,13,14,19,21): 7.531267166137695	 ([acting][may][okay,][u][watch][movie,][weren't,][could][get][hold][every][back,][terrible!!])
+v(4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 6.859292030334473	 ([watch][u][wish][weren't,][movie][horrible,][could][get][hold][every][copy,][would][burn][look][back,][movie][terrible!!])
+v(0,1,2,3,4,5,6,7,8,9,10,13,15,16,17,18,19,20,21): 7.379337787628174	 ([acting][may][okay,][u][watch][movie,][u][wish][weren't,][movie][horrible,][hold][copy,][would][burn][look][back,][movie][terrible!!])
+v(0,1,2,3,5,6,7,9,10,11,12,14,15,16,17,18,20): 7.486277103424072	 ([acting][may][okay,][u][movie,][u][wish][movie][horrible,][could][get][every][copy,][would][burn][look][movie])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,19,20,21): 7.366666793823242	 ([acting][may][okay,][u][watch][movie,][u][wish][weren't,][movie][horrible,][could][get][hold][every][back,][movie][terrible!!])
+v(0,1,2,3,4,5,8,11,12,13,14,15,16,17,18,19,21): 7.545903205871582	 ([acting][may][okay,][u][watch][movie,][weren't,][could][get][hold][every][copy,][would][burn][look][back,][terrible!!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 7.396068096160889	 ([acting][may][okay,][u][watch][movie,][u][wish][weren't,][movie][horrible,][could][get][hold][every][copy,][would][burn][look][back,][movie][terrible!!])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,8,11,12,13,14,15,16,17,18,19,21): 8.282927513122559, EP: 1.0184228420257568	 ([acting][may][okay,][u][watch][movie,][weren't,][could][get][hold][every][copy,][would][burn][look][back,][terrible!!])
+v(0,1,2,3,4,5,8,11,12,13,14,19,21): 8.268291473388672, EP: 1.0166232585906982	 ([acting][may][okay,][u][watch][movie,][weren't,][could][get][hold][every][back,][terrible!!])
+v(0,1,2,3,5,6,7,9,10,11,12,14,15,16,17,18,20): 8.223301887512207, EP: 1.0110915899276733	 ([acting][may][okay,][u][movie,][u][wish][movie][horrible,][could][get][every][copy,][would][burn][look][movie])
+v(0,1,2,3,4,5,8,13,15,16,17,18,19,21): 8.1899995803833, EP: 1.006996989250183	 ([acting][may][okay,][u][watch][movie,][weren't,][hold][copy,][would][burn][look][back,][terrible!!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 8.133092880249023, EP: 1.0	 ([acting][may][okay,][u][watch][movie,][u][wish][weren't,][movie][horrible,][could][get][hold][every][copy,][would][burn][look][back,][movie][terrible!!])
+v(0,1,2,3,5,6,7,9,10,15,16,17,18,20): 8.130681991577148, EP: 0.999703586101532	 ([acting][may][okay,][u][movie,][u][wish][movie][horrible,][copy,][would][burn][look][movie])
+v(0,1,2,3,4,5,6,7,8,9,10,13,15,16,17,18,19,20,21): 8.116362571716309, EP: 0.9979429244995117	 ([acting][may][okay,][u][watch][movie,][u][wish][weren't,][movie][horrible,][hold][copy,][would][burn][look][back,][movie][terrible!!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,19,20,21): 8.103691101074219, EP: 0.9963849186897278	 ([acting][may][okay,][u][watch][movie,][u][wish][weren't,][movie][horrible,][could][get][hold][every][back,][movie][terrible!!])
+v(4,8,11,12,13,14,19,21): 8.079760551452637, EP: 0.9934425354003906	 ([watch][weren't,][could][get][hold][every][back,][terrible!!])
+v(0,1,2,3,4,5,6,7,8,9,10,13,19,20,21): 8.011726379394531, EP: 0.985077440738678	 ([acting][may][okay,][u][watch][movie,][u][wish][weren't,][movie][horrible,][hold][back,][movie][terrible!!])
+v(0,1,2,3,4,5,8,13,19,21): 7.991381645202637, EP: 0.9825759530067444	 ([acting][may][okay,][u][watch][movie,][weren't,][hold][back,][terrible!!])
+v(0,1,2,3,5,6,7,9,10,11,12,14,20): 7.9312744140625, EP: 0.9751855134963989	 ([acting][may][okay,][u][movie,][u][wish][movie][horrible,][could][get][every][movie])
+v(4,8,11,12,13,14,15,16,17,18,19,21): 7.890727996826172, EP: 0.9702001810073853	 ([watch][weren't,][could][get][hold][every][copy,][would][burn][look][back,][terrible!!])
+v(0,1,2,3,5,6,7,9,10,20): 7.884930610656738, EP: 0.9694873690605164	 ([acting][may][okay,][u][movie,][u][wish][movie][horrible,][movie])
+v(4,6,7,8,9,10,13,19,20,21): 7.847508430480957, EP: 0.9648861289024353	 ([watch][u][wish][weren't,][movie][horrible,][hold][back,][movie][terrible!!])
+v(4,6,7,8,9,10,11,12,13,14,19,20,21): 7.812744140625, EP: 0.9606117010116577	 ([watch][u][wish][weren't,][movie][horrible,][could][get][hold][every][back,][movie][terrible!!])
+v(4,8,13,15,16,17,18,19,21): 7.769393444061279, EP: 0.9552815556526184	 ([watch][weren't,][hold][copy,][would][burn][look][back,][terrible!!])
+v(4,6,7,8,9,10,13,15,16,17,18,19,20,21): 7.7253923416137695, EP: 0.9498714208602905	 ([watch][u][wish][weren't,][movie][horrible,][hold][copy,][would][burn][look][back,][movie][terrible!!])
+v(6,7,9,10,11,12,14,15,16,17,18,20): 7.696029186248779, EP: 0.9462610483169556	 ([u][wish][movie][horrible,][could][get][every][copy,][would][burn][look][movie])
+v(6,7,9,10,15,16,17,18,20): 7.694916248321533, EP: 0.946124255657196	 ([u][wish][movie][horrible,][copy,][would][burn][look][movie])
+v(4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 7.596316337585449, EP: 0.9340009093284607	 ([watch][u][wish][weren't,][movie][horrible,][could][get][hold][every][copy,][would][burn][look][back,][movie][terrible!!])
+v(4,8,13,19,21): 7.492457389831543, EP: 0.9212310314178467	 ([watch][weren't,][hold][back,][terrible!!])
+v(6,7,9,10,20): 7.387826919555664, EP: 0.9083662033081055	 ([u][wish][movie][horrible,][movie])
+v(6,7,9,10,11,12,14,20): 7.361161231994629, EP: 0.9050875902175903	 ([u][wish][movie][horrible,][could][get][every][movie])
+v(0,1,2,3,5): 4.744235038757324, EP: 0.5833248496055603	 ([acting][may][okay,][u][movie,])
+v(0,1,2,3,5,11,12,14,15,16,17,18): 4.603960037231445, EP: 0.5660774111747742	 ([acting][may][okay,][u][movie,][could][get][every][copy,][would][burn][look])
+v(0,1,2,3,5,11,12,14): 4.411354064941406, EP: 0.5423956513404846	 ([acting][may][okay,][u][movie,][could][get][every])
+v(0,1,2,3,5,15,16,17,18): 4.288292407989502, EP: 0.5272646546363831	 ([acting][may][okay,][u][movie,][copy,][would][burn][look])
+v(11,12,14): -0.2298356294631958, EP: -0.028259314596652985	 ([could][get][every])
+v(11,12,14,15,16,17,18): 0.1086919903755188, EP: 0.013364164158701897	 ([could][get][every][copy,][would][burn][look])
+v(15,16,17,18): -0.009073019027709961, EP: -0.0011155680986121297	 ([copy,][would][burn][look])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

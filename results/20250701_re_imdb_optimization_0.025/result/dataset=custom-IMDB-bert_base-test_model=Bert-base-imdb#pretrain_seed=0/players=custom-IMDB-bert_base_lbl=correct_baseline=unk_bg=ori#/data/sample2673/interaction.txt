@@ -1,0 +1,48 @@
+---------- Players ----------
+Player 0: caught
+Player 1: toronto
+Player 2: international
+Player 3: film
+Player 4: festival.
+Player 5: good
+Player 6: story,
+Player 7: told
+Player 8: compelling
+Player 9: way.
+Player 10: handheld
+Player 11: camera
+Player 12: approach
+Player 13: action
+Player 14: scenes
+Player 15: added
+Player 16: intensity
+Player 17: scenes
+Player 18: ( in
+Player 19: documentary
+Player 20: style,
+Player 21: blair
+Player 22: witch
+Player 23: style ).
+Player 24: joel
+Player 25: schumacher
+Player 26: shows
+Player 27: need
+Player 28: big
+Player 29: budget
+Player 30: produce
+Player 31: gripping
+Player 32: film.
+Player 33: actors
+Player 34: strong,
+Player 35: particularly
+Player 36: actor
+Player 37: playing
+Player 38: focus
+Player 39: events
+Player 40: film,
+Player 41: boz.
+---------- AND Interactions (Pairwise Only) ----------
+I(30,31): -1.3983182907104492	 ([produce][gripping])
+I(23,24): -0.3421921133995056	 ([style ).][joel])
+Sum: -1.7405104041099548
+==================================================

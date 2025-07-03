@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['41', '42', '37', '36', '10', '46']: ['cast', 'person', 'cast', 'casting.', 'movie', 'role']: 平均边权 0.5184
+社区 2: ['12', '20', '19', '18', '21', '11', '16', '17']: ['argento,', 'hooper.', 'tobe', 'romero', 'basically', 'dario', 'george', 'a.']: 平均边权 0.3207
+社区 3: ['61', '56', '0', '63', '58', '52', '55', '3', '53', '59', '62', '64', '54']: ['people', 'school', 'director', 'boyfriends', 'years.', "that's", 'high', 'feature', 'right,', 'reactions', 'watch', 'get', "he's"]: 平均边权 0.1795
+社区 4: ['4', '8', '5', '1', '6', '7']: ['loves', 'much', 'horror', 'states', 'movies.', 'loves']: 平均边权 0.4301
+社区 5: ['2', '38', '57', '32', '40', '9', '24', '28', '31']: ['behind - the - scenes', 'people', '22', 'day.', 'also,', 'dedicated', 'great', 'mother', "mother's"]: 平均边权 0.2525
+社区 6: ['45', '49', '47', '50', '48', '44', '43', '51']: ['old', 'year', 'misunderstood,', 'old', '18', 'years', '40', 'recluse.']: 平均边权 0.2040
+社区 7: ['39', '15', '35', '33', '14', '34', '60']: ['act.', 'directors', 'wrong', 'first', 'notable', 'thing', 'made']: 平均边权 0.2772
+社区 8: ['27', '13', '25', '29', '30', '23', '22', '26']: ['giving', 'well', 'directors', 'piece', 'sh', 'movie', 'dedicating', 'like']: 平均边权 0.2241

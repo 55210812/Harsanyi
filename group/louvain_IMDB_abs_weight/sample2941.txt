@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['48', '50', '49', '52', '47']: ['interesting', 'make', 'even', 'sense.', 'ceases']: 平均边权 0.6366
+社区 2: ['32', '29', '39', '55', '30', '28', '54', '31']: ['past,', 'childhood', 'filmmakers', 'dull,', 'sleazy', 'abused', 'lame,', 'recent']: 平均边权 0.7095
+社区 3: ['2', '4', '5', '3', '0', '1', '6']: ['naive', 'ranger', '( colin', 'park', 'interesting', 'first.', 'firth )']: 平均边权 0.5489
+社区 4: ['56', '58', '57']: ['devoid', 'intelligence,', 'excitement']: 平均边权 1.1923
+社区 5: ['45', '46', '15', '42', '44', '53', '22', '43', '51', '23']: ['least', 'watchable.', 'short', 'beginning,', 'sounds,', 'ending', 'searches', 'suspenseful', 'much', 'and,']: 平均边权 0.4557
+社区 6: ['38', '36', '35', '34', '40', '41', '37', '33']: ['seems', 'activity.', 'criminal', 'include', 'know', 'story.', 'then,', 'may']: 平均边权 0.3227
+社区 7: ['17', '18']: ['seem', 'happy,']: 平均边权 0.7026
+社区 8: ['20', '19', '27', '24', '25', '26', '21']: ['without', 'disappears', 'upon', 'dead', 'ends,', 'stumbles', 'warning.']: 平均边权 0.3460
+社区 9: ['12', '8', '14', '13', '11', '16', '9', '10', '7']: ['zane )', 'pretty,', 'known', "he's", '( lisa', 'time.', 'mysterious', 'woman', 'marries']: 平均边权 0.3245

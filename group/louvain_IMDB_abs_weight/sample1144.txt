@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['61', '56', '57', '63', '66', '58', '55', '59', '62', '60', '64']: ['predictable.', 'pretty', 'good.', 'watchable', 'shows.', 'rest', 'job', 'bearable', 'whole', 'though', 'better']: 平均边权 0.5007
+社区 2: ['2', '5', '20', '0', '13', '24', '18', '4', '11', '3', '1', '14', '6']: ['discussion', 'corruption,', 'slow', 'plot', 'interesting', 'ceremony.', 'nevertheless.', 'hints', 'topics.', 'even', 'worth', 'though', 'murder,']: 平均边权 0.3400
+社区 3: ['16', '15', '17']: ['realistic', 'sometimes.', 'interesting']: 平均边权 0.9467
+社区 4: ['41', '53', '42', '44', '43', '54']: ['much,', 'plot', 'nothing', 'movie', 'overexciting.', 'inadequacy']: 平均边权 0.4980
+社区 5: ['30', '33', '29', '31']: ['eye', 'movie', 'ease', 'strain.']: 平均边权 0.5505
+社区 6: ['12', '8', '9', '25', '10', '7']: ['characters', 'rest', 'thriller', 'visuals', 'related', 'power']: 平均边权 0.3273
+社区 7: ['46', '45', '49', '47', '50', '48', '23', '51', '26']: ['style.', 'sitcom', '-', 'liked', 'excellent', 'woody', 'drinking', 'performance.', 'stunning,']: 平均边权 0.3816
+社区 8: ['52', '65']: ['fight', 'tv']: 平均边权 0.7608
+社区 9: ['38', '27', '35', '32', '34', '40', '39', '37', '28']: ['-', 'good', 'dinner', 'good', 'watch', 'shocking', 'nothing', 'bed', 'enough']: 平均边权 0.2585
+社区 10: ['22', '21', '19', '36']: ['tea', 'like', 'development', 'going']: 平均边权 0.1851

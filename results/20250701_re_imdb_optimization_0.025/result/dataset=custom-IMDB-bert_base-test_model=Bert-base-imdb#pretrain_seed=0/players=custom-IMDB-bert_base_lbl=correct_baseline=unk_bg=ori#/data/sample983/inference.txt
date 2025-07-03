@@ -1,0 +1,65 @@
+Execution time: 2025-07-03 18:03:18
+prompt: [CLS] the acting may be okay, the more u watch this movie, the more u wish you weren't, this movie is so horrible, that if i could get a hold of every copy, i would burn them all and not look back, this movie is terrible!! [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:3772 decoded_text: acting
+idx:3 input_id:2089 decoded_text: may
+idx:4 input_id:2022 decoded_text: be
+idx:5 input_id:3100 decoded_text: okay
+idx:6 input_id:1010 decoded_text: ,
+idx:7 input_id:1996 decoded_text: the
+idx:8 input_id:2062 decoded_text: more
+idx:9 input_id:1057 decoded_text: u
+idx:10 input_id:3422 decoded_text: watch
+idx:11 input_id:2023 decoded_text: this
+idx:12 input_id:3185 decoded_text: movie
+idx:13 input_id:1010 decoded_text: ,
+idx:14 input_id:1996 decoded_text: the
+idx:15 input_id:2062 decoded_text: more
+idx:16 input_id:1057 decoded_text: u
+idx:17 input_id:4299 decoded_text: wish
+idx:18 input_id:2017 decoded_text: you
+idx:19 input_id:4694 decoded_text: weren
+idx:20 input_id:1005 decoded_text: '
+idx:21 input_id:1056 decoded_text: t
+idx:22 input_id:1010 decoded_text: ,
+idx:23 input_id:2023 decoded_text: this
+idx:24 input_id:3185 decoded_text: movie
+idx:25 input_id:2003 decoded_text: is
+idx:26 input_id:2061 decoded_text: so
+idx:27 input_id:9202 decoded_text: horrible
+idx:28 input_id:1010 decoded_text: ,
+idx:29 input_id:2008 decoded_text: that
+idx:30 input_id:2065 decoded_text: if
+idx:31 input_id:1045 decoded_text: i
+idx:32 input_id:2071 decoded_text: could
+idx:33 input_id:2131 decoded_text: get
+idx:34 input_id:1037 decoded_text: a
+idx:35 input_id:2907 decoded_text: hold
+idx:36 input_id:1997 decoded_text: of
+idx:37 input_id:2296 decoded_text: every
+idx:38 input_id:6100 decoded_text: copy
+idx:39 input_id:1010 decoded_text: ,
+idx:40 input_id:1045 decoded_text: i
+idx:41 input_id:2052 decoded_text: would
+idx:42 input_id:6402 decoded_text: burn
+idx:43 input_id:2068 decoded_text: them
+idx:44 input_id:2035 decoded_text: all
+idx:45 input_id:1998 decoded_text: and
+idx:46 input_id:2025 decoded_text: not
+idx:47 input_id:2298 decoded_text: look
+idx:48 input_id:2067 decoded_text: back
+idx:49 input_id:1010 decoded_text: ,
+idx:50 input_id:2023 decoded_text: this
+idx:51 input_id:3185 decoded_text: movie
+idx:52 input_id:2003 decoded_text: is
+idx:53 input_id:6659 decoded_text: terrible
+idx:54 input_id:999 decoded_text: !
+idx:55 input_id:999 decoded_text: !
+idx:56 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.022572994232178, -3.373495578765869]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

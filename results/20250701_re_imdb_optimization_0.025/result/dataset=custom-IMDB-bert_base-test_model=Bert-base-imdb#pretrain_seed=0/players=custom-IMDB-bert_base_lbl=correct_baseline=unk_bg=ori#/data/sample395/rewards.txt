@@ -1,0 +1,88 @@
+---------- Players ----------
+Player 0: conventional
+Player 1: wisdom
+Player 2: sequel
+Player 3: seldom
+Player 4: good
+Player 5: original
+Player 6: movie.
+Player 7: occasional
+Player 8: exceptions,
+Player 9: one
+Player 10: them.
+Player 11: disney
+Player 12: quit
+Player 13: ahead.
+Player 14: real
+Player 15: disappointment
+Player 16: reasonably
+Player 17: entertaining
+Player 18: 101
+Player 19: dalmatians.
+---------- Rewards ----------
+v(): 0.9717773199081421	 ([])
+v(13,14,17): 0.18670600652694702	 ([ahead.][real][entertaining])
+v(2,3,5,6,7): 2.608037233352661	 ([sequel][seldom][original][movie.][occasional])
+v(0,19): 0.659703254699707	 ([conventional][dalmatians.])
+v(1,12,15,16,18): 6.949576377868652	 ([wisdom][quit][disappointment][reasonably][101])
+v(4,8,9,10,11): -1.2730234861373901	 ([good][exceptions,][one][them.][disney])
+v(2,3,5,6,7,13,14,17): -3.0234341621398926	 ([sequel][seldom][original][movie.][occasional][ahead.][real][entertaining])
+v(0,13,14,17,19): 1.908184289932251	 ([conventional][ahead.][real][entertaining][dalmatians.])
+v(1,12,13,14,15,16,17,18): 8.008341789245605	 ([wisdom][quit][ahead.][real][disappointment][reasonably][entertaining][101])
+v(4,8,9,10,11,13,14,17): 0.14593780040740967	 ([good][exceptions,][one][them.][disney][ahead.][real][entertaining])
+v(0,2,3,5,6,7,19): 2.83050537109375	 ([conventional][sequel][seldom][original][movie.][occasional][dalmatians.])
+v(1,2,3,5,6,7,12,15,16,18): 7.706594467163086	 ([wisdom][sequel][seldom][original][movie.][occasional][quit][disappointment][reasonably][101])
+v(2,3,4,5,6,7,8,9,10,11): 2.031621217727661	 ([sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney])
+v(0,1,12,15,16,18,19): 7.462353229522705	 ([conventional][wisdom][quit][disappointment][reasonably][101][dalmatians.])
+v(0,4,8,9,10,11,19): -0.3898831605911255	 ([conventional][good][exceptions,][one][them.][disney][dalmatians.])
+v(1,4,8,9,10,11,12,15,16,18): 7.879782676696777	 ([wisdom][good][exceptions,][one][them.][disney][quit][disappointment][reasonably][101])
+v(0,2,3,5,6,7,13,14,17,19): -1.0832102298736572	 ([conventional][sequel][seldom][original][movie.][occasional][ahead.][real][entertaining][dalmatians.])
+v(1,2,3,5,6,7,12,13,14,15,16,17,18): 8.23846435546875	 ([wisdom][sequel][seldom][original][movie.][occasional][quit][ahead.][real][disappointment][reasonably][entertaining][101])
+v(2,3,4,5,6,7,8,9,10,11,13,14,17): 1.748238444328308	 ([sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney][ahead.][real][entertaining])
+v(0,1,12,13,14,15,16,17,18,19): 8.148279190063477	 ([conventional][wisdom][quit][ahead.][real][disappointment][reasonably][entertaining][101][dalmatians.])
+v(0,4,8,9,10,11,13,14,17,19): 2.0559215545654297	 ([conventional][good][exceptions,][one][them.][disney][ahead.][real][entertaining][dalmatians.])
+v(1,4,8,9,10,11,12,13,14,15,16,17,18): 8.438302040100098	 ([wisdom][good][exceptions,][one][them.][disney][quit][ahead.][real][disappointment][reasonably][entertaining][101])
+v(0,1,2,3,5,6,7,12,15,16,18,19): 8.023740768432617	 ([conventional][wisdom][sequel][seldom][original][movie.][occasional][quit][disappointment][reasonably][101][dalmatians.])
+v(0,2,3,4,5,6,7,8,9,10,11,19): 2.341092824935913	 ([conventional][sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney][dalmatians.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,15,16,18): 8.009574890136719	 ([wisdom][sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney][quit][disappointment][reasonably][101])
+v(0,1,4,8,9,10,11,12,15,16,18,19): 8.114164352416992	 ([conventional][wisdom][good][exceptions,][one][them.][disney][quit][disappointment][reasonably][101][dalmatians.])
+v(0,1,2,3,5,6,7,12,13,14,15,16,17,18,19): 8.370601654052734	 ([conventional][wisdom][sequel][seldom][original][movie.][occasional][quit][ahead.][real][disappointment][reasonably][entertaining][101][dalmatians.])
+v(0,2,3,4,5,6,7,8,9,10,11,13,14,17,19): 2.9147887229919434	 ([conventional][sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney][ahead.][real][entertaining][dalmatians.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18): 8.467225074768066	 ([wisdom][sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney][quit][ahead.][real][disappointment][reasonably][entertaining][101])
+v(0,1,4,8,9,10,11,12,13,14,15,16,17,18,19): 8.440330505371094	 ([conventional][wisdom][good][exceptions,][one][them.][disney][quit][ahead.][real][disappointment][reasonably][entertaining][101][dalmatians.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,15,16,18,19): 8.275421142578125	 ([conventional][wisdom][sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney][quit][disappointment][reasonably][101][dalmatians.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19): 8.471635818481445	 ([conventional][wisdom][sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney][quit][ahead.][real][disappointment][reasonably][entertaining][101][dalmatians.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19): 7.499858379364014, EP: 1.0	 ([conventional][wisdom][sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney][quit][ahead.][real][disappointment][reasonably][entertaining][101][dalmatians.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18): 7.495447635650635, EP: 0.9994118809700012	 ([wisdom][sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney][quit][ahead.][real][disappointment][reasonably][entertaining][101])
+v(0,1,4,8,9,10,11,12,13,14,15,16,17,18,19): 7.468553066253662, EP: 0.9958258867263794	 ([conventional][wisdom][good][exceptions,][one][them.][disney][quit][ahead.][real][disappointment][reasonably][entertaining][101][dalmatians.])
+v(1,4,8,9,10,11,12,13,14,15,16,17,18): 7.466524600982666, EP: 0.9955554008483887	 ([wisdom][good][exceptions,][one][them.][disney][quit][ahead.][real][disappointment][reasonably][entertaining][101])
+v(0,1,2,3,5,6,7,12,13,14,15,16,17,18,19): 7.398824214935303, EP: 0.9865285158157349	 ([conventional][wisdom][sequel][seldom][original][movie.][occasional][quit][ahead.][real][disappointment][reasonably][entertaining][101][dalmatians.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,15,16,18,19): 7.303643703460693, EP: 0.9738375544548035	 ([conventional][wisdom][sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney][quit][disappointment][reasonably][101][dalmatians.])
+v(1,2,3,5,6,7,12,13,14,15,16,17,18): 7.266686916351318, EP: 0.9689098596572876	 ([wisdom][sequel][seldom][original][movie.][occasional][quit][ahead.][real][disappointment][reasonably][entertaining][101])
+v(0,1,12,13,14,15,16,17,18,19): 7.176501750946045, EP: 0.9568849802017212	 ([conventional][wisdom][quit][ahead.][real][disappointment][reasonably][entertaining][101][dalmatians.])
+v(0,1,4,8,9,10,11,12,15,16,18,19): 7.1423869132995605, EP: 0.9523362517356873	 ([conventional][wisdom][good][exceptions,][one][them.][disney][quit][disappointment][reasonably][101][dalmatians.])
+v(0,1,2,3,5,6,7,12,15,16,18,19): 7.0519633293151855, EP: 0.9402795433998108	 ([conventional][wisdom][sequel][seldom][original][movie.][occasional][quit][disappointment][reasonably][101][dalmatians.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,15,16,18): 7.037797451019287, EP: 0.9383907318115234	 ([wisdom][sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney][quit][disappointment][reasonably][101])
+v(1,12,13,14,15,16,17,18): 7.036564350128174, EP: 0.9382262825965881	 ([wisdom][quit][ahead.][real][disappointment][reasonably][entertaining][101])
+v(1,4,8,9,10,11,12,15,16,18): 6.908005237579346, EP: 0.9210847616195679	 ([wisdom][good][exceptions,][one][them.][disney][quit][disappointment][reasonably][101])
+v(1,2,3,5,6,7,12,15,16,18): 6.734817028045654, EP: 0.8979925513267517	 ([wisdom][sequel][seldom][original][movie.][occasional][quit][disappointment][reasonably][101])
+v(0,1,12,15,16,18,19): 6.490575790405273, EP: 0.8654264211654663	 ([conventional][wisdom][quit][disappointment][reasonably][101][dalmatians.])
+v(1,12,15,16,18): 5.977798938751221, EP: 0.7970548868179321	 ([wisdom][quit][disappointment][reasonably][101])
+v(2,3,5,6,7,13,14,17): -3.995211601257324, EP: -0.5327049493789673	 ([sequel][seldom][original][movie.][occasional][ahead.][real][entertaining])
+v(4,8,9,10,11): -2.2448008060455322, EP: -0.29931241273880005	 ([good][exceptions,][one][them.][disney])
+v(0,2,3,5,6,7,13,14,17,19): -2.0549874305725098, EP: -0.2740035057067871	 ([conventional][sequel][seldom][original][movie.][occasional][ahead.][real][entertaining][dalmatians.])
+v(0,2,3,4,5,6,7,8,9,10,11,13,14,17,19): 1.9430114030838013, EP: 0.25907307863235474	 ([conventional][sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney][ahead.][real][entertaining][dalmatians.])
+v(0,2,3,5,6,7,19): 1.858728051185608, EP: 0.24783508479595184	 ([conventional][sequel][seldom][original][movie.][occasional][dalmatians.])
+v(2,3,5,6,7): 1.636259913444519, EP: 0.2181721031665802	 ([sequel][seldom][original][movie.][occasional])
+v(0,2,3,4,5,6,7,8,9,10,11,19): 1.369315505027771, EP: 0.18257884681224823	 ([conventional][sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney][dalmatians.])
+v(0,4,8,9,10,11,19): -1.3616604804992676, EP: -0.18155816197395325	 ([conventional][good][exceptions,][one][them.][disney][dalmatians.])
+v(0,4,8,9,10,11,13,14,17,19): 1.0841442346572876, EP: 0.14455530047416687	 ([conventional][good][exceptions,][one][them.][disney][ahead.][real][entertaining][dalmatians.])
+v(2,3,4,5,6,7,8,9,10,11): 1.059843897819519, EP: 0.14131519198417664	 ([sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney])
+v(0,13,14,17,19): 0.9364069700241089, EP: 0.1248566210269928	 ([conventional][ahead.][real][entertaining][dalmatians.])
+v(4,8,9,10,11,13,14,17): -0.8258395195007324, EP: -0.11011401563882828	 ([good][exceptions,][one][them.][disney][ahead.][real][entertaining])
+v(13,14,17): -0.7850713133811951, EP: -0.10467815399169922	 ([ahead.][real][entertaining])
+v(2,3,4,5,6,7,8,9,10,11,13,14,17): 0.776461124420166, EP: 0.10353010147809982	 ([sequel][seldom][good][original][movie.][occasional][exceptions,][one][them.][disney][ahead.][real][entertaining])
+v(0,19): -0.31207406520843506, EP: -0.04161066189408302	 ([conventional][dalmatians.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

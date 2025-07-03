@@ -1,0 +1,93 @@
+---------- Players ----------
+Player 0: pleasant,
+Player 1: diverting
+Player 2: charming.
+Player 3: best
+Player 4: part
+Player 5: swing
+Player 6: numbers,
+Player 7: especially
+Player 8: rendition
+Player 9: buddy,
+Player 10: partial
+Player 11: though
+Player 12: may
+Player 13: been.
+Player 14: acting
+Player 15: bit
+Player 16: top
+Player 17: areas
+Player 18: mood
+Player 19: set
+Player 20: wilder
+Player 21: pleasant
+Player 22: hard
+Player 23: enjoy
+Player 24: film.
+---------- Rewards ----------
+v(): 1.0268892049789429	 ([])
+v(0,1,18,24): 6.475519180297852	 ([pleasant,][diverting][mood][film.])
+v(3,13,16,19,23): -2.1565968990325928	 ([best][been.][top][set][enjoy])
+v(4,17,20,21,22): 3.4995665550231934	 ([part][areas][wilder][pleasant][hard])
+v(2,5,6,9,10,11,12): 3.821117401123047	 ([charming.][swing][numbers,][buddy,][partial][though][may])
+v(7,8,14,15): -0.9841769933700562	 ([especially][rendition][acting][bit])
+v(0,1,3,13,16,18,19,23,24): 2.576430082321167	 ([pleasant,][diverting][best][been.][top][mood][set][enjoy][film.])
+v(0,1,4,17,18,20,21,22,24): 8.424266815185547	 ([pleasant,][diverting][part][areas][mood][wilder][pleasant][hard][film.])
+v(0,1,2,5,6,9,10,11,12,18,24): 8.442459106445312	 ([pleasant,][diverting][charming.][swing][numbers,][buddy,][partial][though][may][mood][film.])
+v(0,1,7,8,14,15,18,24): 7.834476470947266	 ([pleasant,][diverting][especially][rendition][acting][bit][mood][film.])
+v(3,4,13,16,17,19,20,21,22,23): 5.330700874328613	 ([best][part][been.][top][areas][set][wilder][pleasant][hard][enjoy])
+v(2,3,5,6,9,10,11,12,13,16,19,23): 2.0112106800079346	 ([charming.][best][swing][numbers,][buddy,][partial][though][may][been.][top][set][enjoy])
+v(3,7,8,13,14,15,16,19,23): -1.250363826751709	 ([best][especially][rendition][been.][acting][bit][top][set][enjoy])
+v(2,4,5,6,9,10,11,12,17,20,21,22): 7.7978291511535645	 ([charming.][part][swing][numbers,][buddy,][partial][though][may][areas][wilder][pleasant][hard])
+v(4,7,8,14,15,17,20,21,22): 5.755859375	 ([part][especially][rendition][acting][bit][areas][wilder][pleasant][hard])
+v(2,5,6,7,8,9,10,11,12,14,15): -3.225249767303467	 ([charming.][swing][numbers,][especially][rendition][buddy,][partial][though][may][acting][bit])
+v(0,1,3,4,13,16,17,18,19,20,21,22,23,24): 8.328359603881836	 ([pleasant,][diverting][best][part][been.][top][areas][mood][set][wilder][pleasant][hard][enjoy][film.])
+v(0,1,2,3,5,6,9,10,11,12,13,16,18,19,23,24): 6.279776573181152	 ([pleasant,][diverting][charming.][best][swing][numbers,][buddy,][partial][though][may][been.][top][mood][set][enjoy][film.])
+v(0,1,3,7,8,13,14,15,16,18,19,23,24): 6.259438514709473	 ([pleasant,][diverting][best][especially][rendition][been.][acting][bit][top][mood][set][enjoy][film.])
+v(0,1,2,4,5,6,9,10,11,12,17,18,20,21,22,24): 8.321842193603516	 ([pleasant,][diverting][charming.][part][swing][numbers,][buddy,][partial][though][may][areas][mood][wilder][pleasant][hard][film.])
+v(0,1,4,7,8,14,15,17,18,20,21,22,24): 8.426530838012695	 ([pleasant,][diverting][part][especially][rendition][acting][bit][areas][mood][wilder][pleasant][hard][film.])
+v(0,1,2,5,6,7,8,9,10,11,12,14,15,18,24): 8.433801651000977	 ([pleasant,][diverting][charming.][swing][numbers,][especially][rendition][buddy,][partial][though][may][acting][bit][mood][film.])
+v(2,3,4,5,6,9,10,11,12,13,16,17,19,20,21,22,23): 5.556234359741211	 ([charming.][best][part][swing][numbers,][buddy,][partial][though][may][been.][top][areas][set][wilder][pleasant][hard][enjoy])
+v(3,4,7,8,13,14,15,16,17,19,20,21,22,23): 4.902252674102783	 ([best][part][especially][rendition][been.][acting][bit][top][areas][set][wilder][pleasant][hard][enjoy])
+v(2,3,5,6,7,8,9,10,11,12,13,14,15,16,19,23): 0.8257162570953369	 ([charming.][best][swing][numbers,][especially][rendition][buddy,][partial][though][may][been.][acting][bit][top][set][enjoy])
+v(2,4,5,6,7,8,9,10,11,12,14,15,17,20,21,22): 6.475686073303223	 ([charming.][part][swing][numbers,][especially][rendition][buddy,][partial][though][may][acting][bit][areas][wilder][pleasant][hard])
+v(0,1,2,3,4,5,6,9,10,11,12,13,16,17,18,19,20,21,22,23,24): 7.894092559814453	 ([pleasant,][diverting][charming.][best][part][swing][numbers,][buddy,][partial][though][may][been.][top][areas][mood][set][wilder][pleasant][hard][enjoy][film.])
+v(0,1,3,4,7,8,13,14,15,16,17,18,19,20,21,22,23,24): 8.19589900970459	 ([pleasant,][diverting][best][part][especially][rendition][been.][acting][bit][top][areas][mood][set][wilder][pleasant][hard][enjoy][film.])
+v(0,1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,18,19,23,24): 7.405714988708496	 ([pleasant,][diverting][charming.][best][swing][numbers,][especially][rendition][buddy,][partial][though][may][been.][acting][bit][top][mood][set][enjoy][film.])
+v(0,1,2,4,5,6,7,8,9,10,11,12,14,15,17,18,20,21,22,24): 8.362754821777344	 ([pleasant,][diverting][charming.][part][swing][numbers,][especially][rendition][buddy,][partial][though][may][acting][bit][areas][mood][wilder][pleasant][hard][film.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23): 4.006621360778809	 ([charming.][best][part][swing][numbers,][especially][rendition][buddy,][partial][though][may][been.][acting][bit][top][areas][set][wilder][pleasant][hard][enjoy])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 7.753986358642578	 ([pleasant,][diverting][charming.][best][part][swing][numbers,][especially][rendition][buddy,][partial][though][may][been.][acting][bit][top][areas][mood][set][wilder][pleasant][hard][enjoy][film.])
+---------- Rewards-v() ----------
+v(0,1,2,5,6,9,10,11,12,18,24): 7.41556978225708, EP: 1.102343201637268	 ([pleasant,][diverting][charming.][swing][numbers,][buddy,][partial][though][may][mood][film.])
+v(0,1,2,5,6,7,8,9,10,11,12,14,15,18,24): 7.406912326812744, EP: 1.1010562181472778	 ([pleasant,][diverting][charming.][swing][numbers,][especially][rendition][buddy,][partial][though][may][acting][bit][mood][film.])
+v(0,1,4,7,8,14,15,17,18,20,21,22,24): 7.399641513824463, EP: 1.0999754667282104	 ([pleasant,][diverting][part][especially][rendition][acting][bit][areas][mood][wilder][pleasant][hard][film.])
+v(0,1,4,17,18,20,21,22,24): 7.3973774909973145, EP: 1.0996389389038086	 ([pleasant,][diverting][part][areas][mood][wilder][pleasant][hard][film.])
+v(0,1,2,4,5,6,7,8,9,10,11,12,14,15,17,18,20,21,22,24): 7.335865497589111, EP: 1.090494990348816	 ([pleasant,][diverting][charming.][part][swing][numbers,][especially][rendition][buddy,][partial][though][may][acting][bit][areas][mood][wilder][pleasant][hard][film.])
+v(0,1,3,4,13,16,17,18,19,20,21,22,23,24): 7.3014702796936035, EP: 1.0853819847106934	 ([pleasant,][diverting][best][part][been.][top][areas][mood][set][wilder][pleasant][hard][enjoy][film.])
+v(0,1,2,4,5,6,9,10,11,12,17,18,20,21,22,24): 7.294952869415283, EP: 1.0844131708145142	 ([pleasant,][diverting][charming.][part][swing][numbers,][buddy,][partial][though][may][areas][mood][wilder][pleasant][hard][film.])
+v(0,1,3,4,7,8,13,14,15,16,17,18,19,20,21,22,23,24): 7.169009685516357, EP: 1.0656914710998535	 ([pleasant,][diverting][best][part][especially][rendition][been.][acting][bit][top][areas][mood][set][wilder][pleasant][hard][enjoy][film.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,16,17,18,19,20,21,22,23,24): 6.867203235626221, EP: 1.0208271741867065	 ([pleasant,][diverting][charming.][best][part][swing][numbers,][buddy,][partial][though][may][been.][top][areas][mood][set][wilder][pleasant][hard][enjoy][film.])
+v(0,1,7,8,14,15,18,24): 6.807587146759033, EP: 1.011965036392212	 ([pleasant,][diverting][especially][rendition][acting][bit][mood][film.])
+v(2,4,5,6,9,10,11,12,17,20,21,22): 6.770939826965332, EP: 1.0065172910690308	 ([charming.][part][swing][numbers,][buddy,][partial][though][may][areas][wilder][pleasant][hard])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 6.727097034454346, EP: 1.0	 ([pleasant,][diverting][charming.][best][part][swing][numbers,][especially][rendition][buddy,][partial][though][may][been.][acting][bit][top][areas][mood][set][wilder][pleasant][hard][enjoy][film.])
+v(0,1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,18,19,23,24): 6.378825664520264, EP: 0.9482285976409912	 ([pleasant,][diverting][charming.][best][swing][numbers,][especially][rendition][buddy,][partial][though][may][been.][acting][bit][top][mood][set][enjoy][film.])
+v(2,4,5,6,7,8,9,10,11,12,14,15,17,20,21,22): 5.44879674911499, EP: 0.8099774122238159	 ([charming.][part][swing][numbers,][especially][rendition][buddy,][partial][though][may][acting][bit][areas][wilder][pleasant][hard])
+v(0,1,18,24): 5.448629856109619, EP: 0.8099526166915894	 ([pleasant,][diverting][mood][film.])
+v(0,1,2,3,5,6,9,10,11,12,13,16,18,19,23,24): 5.25288724899292, EP: 0.7808550000190735	 ([pleasant,][diverting][charming.][best][swing][numbers,][buddy,][partial][though][may][been.][top][mood][set][enjoy][film.])
+v(0,1,3,7,8,13,14,15,16,18,19,23,24): 5.23254919052124, EP: 0.7778316736221313	 ([pleasant,][diverting][best][especially][rendition][been.][acting][bit][top][mood][set][enjoy][film.])
+v(4,7,8,14,15,17,20,21,22): 4.728970050811768, EP: 0.7029733657836914	 ([part][especially][rendition][acting][bit][areas][wilder][pleasant][hard])
+v(2,3,4,5,6,9,10,11,12,13,16,17,19,20,21,22,23): 4.5293450355529785, EP: 0.6732985973358154	 ([charming.][best][part][swing][numbers,][buddy,][partial][though][may][been.][top][areas][set][wilder][pleasant][hard][enjoy])
+v(3,4,13,16,17,19,20,21,22,23): 4.303811550140381, EP: 0.6397724747657776	 ([best][part][been.][top][areas][set][wilder][pleasant][hard][enjoy])
+v(2,5,6,7,8,9,10,11,12,14,15): -4.252139091491699, EP: -0.632091224193573	 ([charming.][swing][numbers,][especially][rendition][buddy,][partial][though][may][acting][bit])
+v(3,4,7,8,13,14,15,16,17,19,20,21,22,23): 3.875363349914551, EP: 0.5760825872421265	 ([best][part][especially][rendition][been.][acting][bit][top][areas][set][wilder][pleasant][hard][enjoy])
+v(3,13,16,19,23): -3.183485984802246, EP: -0.47323325276374817	 ([best][been.][top][set][enjoy])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23): 2.979732036590576, EP: 0.4429447054862976	 ([charming.][best][part][swing][numbers,][especially][rendition][buddy,][partial][though][may][been.][acting][bit][top][areas][set][wilder][pleasant][hard][enjoy])
+v(2,5,6,9,10,11,12): 2.7942280769348145, EP: 0.41536906361579895	 ([charming.][swing][numbers,][buddy,][partial][though][may])
+v(4,17,20,21,22): 2.472677230834961, EP: 0.3675697147846222	 ([part][areas][wilder][pleasant][hard])
+v(3,7,8,13,14,15,16,19,23): -2.2772531509399414, EP: -0.33851945400238037	 ([best][especially][rendition][been.][acting][bit][top][set][enjoy])
+v(7,8,14,15): -2.011066198348999, EP: -0.29895007610321045	 ([especially][rendition][acting][bit])
+v(0,1,3,13,16,18,19,23,24): 1.5495408773422241, EP: 0.23034317791461945	 ([pleasant,][diverting][best][been.][top][mood][set][enjoy][film.])
+v(2,3,5,6,9,10,11,12,13,16,19,23): 0.9843214750289917, EP: 0.1463218778371811	 ([charming.][best][swing][numbers,][buddy,][partial][though][may][been.][top][set][enjoy])
+v(2,3,5,6,7,8,9,10,11,12,13,14,15,16,19,23): -0.20117294788360596, EP: -0.029904868453741074	 ([charming.][best][swing][numbers,][especially][rendition][buddy,][partial][though][may][been.][acting][bit][top][set][enjoy])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,89 @@
+---------- Players ----------
+Player 0: admit
+Player 1: silly,
+Player 2: i've
+Player 3: practically
+Player 4: memorized
+Player 5: damn
+Player 6: thing!
+Player 7: holds
+Player 8: lot
+Player 9: good
+Player 10: childhood
+Player 11: memories
+Player 12: ( my
+Player 13: brother
+Player 14: saw
+Player 15: opening
+Player 16: day )
+Player 17: respect
+Player 18: movie
+Player 19: fnm
+Player 20: soundtrack.
+---------- Rewards ----------
+v(): 1.2000473737716675	 ([])
+v(6,7,8,9,10): 4.831659317016602	 ([thing!][holds][lot][good][childhood])
+v(17,18,19): 2.0765933990478516	 ([respect][movie][fnm])
+v(1,12,15): 1.3181848526000977	 ([silly,][( my][opening])
+v(2,3,4): 1.8872442245483398	 ([i've][practically][memorized])
+v(0,5,11,13,14,16,20): 6.008138656616211	 ([admit][damn][memories][brother][saw][day )][soundtrack.])
+v(6,7,8,9,10,17,18,19): 6.3075361251831055	 ([thing!][holds][lot][good][childhood][respect][movie][fnm])
+v(1,6,7,8,9,10,12,15): 4.924685001373291	 ([silly,][thing!][holds][lot][good][childhood][( my][opening])
+v(2,3,4,6,7,8,9,10): 3.3730459213256836	 ([i've][practically][memorized][thing!][holds][lot][good][childhood])
+v(0,5,6,7,8,9,10,11,13,14,16,20): 5.701484680175781	 ([admit][damn][thing!][holds][lot][good][childhood][memories][brother][saw][day )][soundtrack.])
+v(1,12,15,17,18,19): 0.9502500295639038	 ([silly,][( my][opening][respect][movie][fnm])
+v(2,3,4,17,18,19): 2.087880849838257	 ([i've][practically][memorized][respect][movie][fnm])
+v(0,5,11,13,14,16,17,18,19,20): 7.267643928527832	 ([admit][damn][memories][brother][saw][day )][respect][movie][fnm][soundtrack.])
+v(1,2,3,4,12,15): 1.359194278717041	 ([silly,][i've][practically][memorized][( my][opening])
+v(0,1,5,11,12,13,14,15,16,20): 6.732131004333496	 ([admit][silly,][damn][memories][( my][brother][saw][opening][day )][soundtrack.])
+v(0,2,3,4,5,11,13,14,16,20): 4.555368900299072	 ([admit][i've][practically][memorized][damn][memories][brother][saw][day )][soundtrack.])
+v(1,6,7,8,9,10,12,15,17,18,19): 5.234428405761719	 ([silly,][thing!][holds][lot][good][childhood][( my][opening][respect][movie][fnm])
+v(2,3,4,6,7,8,9,10,17,18,19): 4.277200222015381	 ([i've][practically][memorized][thing!][holds][lot][good][childhood][respect][movie][fnm])
+v(0,5,6,7,8,9,10,11,13,14,16,17,18,19,20): 6.057957172393799	 ([admit][damn][thing!][holds][lot][good][childhood][memories][brother][saw][day )][respect][movie][fnm][soundtrack.])
+v(1,2,3,4,6,7,8,9,10,12,15): 4.014739990234375	 ([silly,][i've][practically][memorized][thing!][holds][lot][good][childhood][( my][opening])
+v(0,1,5,6,7,8,9,10,11,12,13,14,15,16,20): 6.873460292816162	 ([admit][silly,][damn][thing!][holds][lot][good][childhood][memories][( my][brother][saw][opening][day )][soundtrack.])
+v(0,2,3,4,5,6,7,8,9,10,11,13,14,16,20): 5.540998935699463	 ([admit][i've][practically][memorized][damn][thing!][holds][lot][good][childhood][memories][brother][saw][day )][soundtrack.])
+v(1,2,3,4,12,15,17,18,19): 0.6513997912406921	 ([silly,][i've][practically][memorized][( my][opening][respect][movie][fnm])
+v(0,1,5,11,12,13,14,15,16,17,18,19,20): 7.86217737197876	 ([admit][silly,][damn][memories][( my][brother][saw][opening][day )][respect][movie][fnm][soundtrack.])
+v(0,2,3,4,5,11,13,14,16,17,18,19,20): 5.587104797363281	 ([admit][i've][practically][memorized][damn][memories][brother][saw][day )][respect][movie][fnm][soundtrack.])
+v(0,1,2,3,4,5,11,12,13,14,15,16,20): 4.633405685424805	 ([admit][silly,][i've][practically][memorized][damn][memories][( my][brother][saw][opening][day )][soundtrack.])
+v(1,2,3,4,6,7,8,9,10,12,15,17,18,19): 3.831277370452881	 ([silly,][i've][practically][memorized][thing!][holds][lot][good][childhood][( my][opening][respect][movie][fnm])
+v(0,1,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 7.140146732330322	 ([admit][silly,][damn][thing!][holds][lot][good][childhood][memories][( my][brother][saw][opening][day )][respect][movie][fnm][soundtrack.])
+v(0,2,3,4,5,6,7,8,9,10,11,13,14,16,17,18,19,20): 5.776304721832275	 ([admit][i've][practically][memorized][damn][thing!][holds][lot][good][childhood][memories][brother][saw][day )][respect][movie][fnm][soundtrack.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,20): 6.725085735321045	 ([admit][silly,][i've][practically][memorized][damn][thing!][holds][lot][good][childhood][memories][( my][brother][saw][opening][day )][soundtrack.])
+v(0,1,2,3,4,5,11,12,13,14,15,16,17,18,19,20): 5.072338104248047	 ([admit][silly,][i've][practically][memorized][damn][memories][( my][brother][saw][opening][day )][respect][movie][fnm][soundtrack.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 6.635674953460693	 ([admit][silly,][i've][practically][memorized][damn][thing!][holds][lot][good][childhood][memories][( my][brother][saw][opening][day )][respect][movie][fnm][soundtrack.])
+---------- Rewards-v() ----------
+v(0,1,5,11,12,13,14,15,16,17,18,19,20): 6.662129878997803, EP: 1.2256413698196411	 ([admit][silly,][damn][memories][( my][brother][saw][opening][day )][respect][movie][fnm][soundtrack.])
+v(0,5,11,13,14,16,17,18,19,20): 6.067596435546875, EP: 1.1162642240524292	 ([admit][damn][memories][brother][saw][day )][respect][movie][fnm][soundtrack.])
+v(0,1,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 5.940099239349365, EP: 1.0928083658218384	 ([admit][silly,][damn][thing!][holds][lot][good][childhood][memories][( my][brother][saw][opening][day )][respect][movie][fnm][soundtrack.])
+v(0,1,5,6,7,8,9,10,11,12,13,14,15,16,20): 5.673412799835205, EP: 1.043745756149292	 ([admit][silly,][damn][thing!][holds][lot][good][childhood][memories][( my][brother][saw][opening][day )][soundtrack.])
+v(0,1,5,11,12,13,14,15,16,20): 5.532083511352539, EP: 1.0177451372146606	 ([admit][silly,][damn][memories][( my][brother][saw][opening][day )][soundtrack.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,20): 5.525038242340088, EP: 1.016448974609375	 ([admit][silly,][i've][practically][memorized][damn][thing!][holds][lot][good][childhood][memories][( my][brother][saw][opening][day )][soundtrack.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 5.435627460479736, EP: 1.0	 ([admit][silly,][i've][practically][memorized][damn][thing!][holds][lot][good][childhood][memories][( my][brother][saw][opening][day )][respect][movie][fnm][soundtrack.])
+v(6,7,8,9,10,17,18,19): 5.107488632202148, EP: 0.9396318197250366	 ([thing!][holds][lot][good][childhood][respect][movie][fnm])
+v(0,5,6,7,8,9,10,11,13,14,16,17,18,19,20): 4.857909679412842, EP: 0.8937164545059204	 ([admit][damn][thing!][holds][lot][good][childhood][memories][brother][saw][day )][respect][movie][fnm][soundtrack.])
+v(0,5,11,13,14,16,20): 4.808091163635254, EP: 0.8845512866973877	 ([admit][damn][memories][brother][saw][day )][soundtrack.])
+v(0,2,3,4,5,6,7,8,9,10,11,13,14,16,17,18,19,20): 4.576257228851318, EP: 0.8419004678726196	 ([admit][i've][practically][memorized][damn][thing!][holds][lot][good][childhood][memories][brother][saw][day )][respect][movie][fnm][soundtrack.])
+v(0,5,6,7,8,9,10,11,13,14,16,20): 4.501437187194824, EP: 0.8281357288360596	 ([admit][damn][thing!][holds][lot][good][childhood][memories][brother][saw][day )][soundtrack.])
+v(0,2,3,4,5,11,13,14,16,17,18,19,20): 4.387057304382324, EP: 0.80709308385849	 ([admit][i've][practically][memorized][damn][memories][brother][saw][day )][respect][movie][fnm][soundtrack.])
+v(0,2,3,4,5,6,7,8,9,10,11,13,14,16,20): 4.340951442718506, EP: 0.7986109256744385	 ([admit][i've][practically][memorized][damn][thing!][holds][lot][good][childhood][memories][brother][saw][day )][soundtrack.])
+v(1,6,7,8,9,10,12,15,17,18,19): 4.034380912780762, EP: 0.7422106862068176	 ([silly,][thing!][holds][lot][good][childhood][( my][opening][respect][movie][fnm])
+v(0,1,2,3,4,5,11,12,13,14,15,16,17,18,19,20): 3.87229061126709, EP: 0.7123907208442688	 ([admit][silly,][i've][practically][memorized][damn][memories][( my][brother][saw][opening][day )][respect][movie][fnm][soundtrack.])
+v(1,6,7,8,9,10,12,15): 3.724637508392334, EP: 0.6852267980575562	 ([silly,][thing!][holds][lot][good][childhood][( my][opening])
+v(6,7,8,9,10): 3.6316118240356445, EP: 0.6681126952171326	 ([thing!][holds][lot][good][childhood])
+v(0,1,2,3,4,5,11,12,13,14,15,16,20): 3.4333581924438477, EP: 0.6316397190093994	 ([admit][silly,][i've][practically][memorized][damn][memories][( my][brother][saw][opening][day )][soundtrack.])
+v(0,2,3,4,5,11,13,14,16,20): 3.3553214073181152, EP: 0.6172831654548645	 ([admit][i've][practically][memorized][damn][memories][brother][saw][day )][soundtrack.])
+v(2,3,4,6,7,8,9,10,17,18,19): 3.077152729034424, EP: 0.5661081075668335	 ([i've][practically][memorized][thing!][holds][lot][good][childhood][respect][movie][fnm])
+v(1,2,3,4,6,7,8,9,10,12,15): 2.814692497253418, EP: 0.5178229212760925	 ([silly,][i've][practically][memorized][thing!][holds][lot][good][childhood][( my][opening])
+v(1,2,3,4,6,7,8,9,10,12,15,17,18,19): 2.631229877471924, EP: 0.4840710461139679	 ([silly,][i've][practically][memorized][thing!][holds][lot][good][childhood][( my][opening][respect][movie][fnm])
+v(2,3,4,6,7,8,9,10): 2.1729984283447266, EP: 0.3997695744037628	 ([i've][practically][memorized][thing!][holds][lot][good][childhood])
+v(2,3,4,17,18,19): 0.8878334760665894, EP: 0.16333596408367157	 ([i've][practically][memorized][respect][movie][fnm])
+v(17,18,19): 0.8765460252761841, EP: 0.16125939786434174	 ([respect][movie][fnm])
+v(2,3,4): 0.6871968507766724, EP: 0.12642456591129303	 ([i've][practically][memorized])
+v(1,2,3,4,12,15,17,18,19): -0.5486475825309753, EP: -0.10093546658754349	 ([silly,][i've][practically][memorized][( my][opening][respect][movie][fnm])
+v(1,12,15,17,18,19): -0.24979734420776367, EP: -0.04595556855201721	 ([silly,][( my][opening][respect][movie][fnm])
+v(1,2,3,4,12,15): 0.15914690494537354, EP: 0.029278479516506195	 ([silly,][i've][practically][memorized][( my][opening])
+v(1,12,15): 0.11813747882843018, EP: 0.02173391729593277	 ([silly,][( my][opening])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

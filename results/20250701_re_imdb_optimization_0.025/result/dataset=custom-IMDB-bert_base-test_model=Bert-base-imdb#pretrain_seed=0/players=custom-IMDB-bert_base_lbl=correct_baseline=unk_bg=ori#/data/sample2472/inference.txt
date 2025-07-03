@@ -1,0 +1,52 @@
+Execution time: 2025-07-03 19:17:41
+prompt: [CLS] this is one of the worst movies i have ever seen! i saw it at the toronto film festival and totally regret wasting my time. completely unwatchable with no redeeming qualities whatsoever. steer clear. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2023 decoded_text: this
+idx:2 input_id:2003 decoded_text: is
+idx:3 input_id:2028 decoded_text: one
+idx:4 input_id:1997 decoded_text: of
+idx:5 input_id:1996 decoded_text: the
+idx:6 input_id:5409 decoded_text: worst
+idx:7 input_id:5691 decoded_text: movies
+idx:8 input_id:1045 decoded_text: i
+idx:9 input_id:2031 decoded_text: have
+idx:10 input_id:2412 decoded_text: ever
+idx:11 input_id:2464 decoded_text: seen
+idx:12 input_id:999 decoded_text: !
+idx:13 input_id:1045 decoded_text: i
+idx:14 input_id:2387 decoded_text: saw
+idx:15 input_id:2009 decoded_text: it
+idx:16 input_id:2012 decoded_text: at
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:4361 decoded_text: toronto
+idx:19 input_id:2143 decoded_text: film
+idx:20 input_id:2782 decoded_text: festival
+idx:21 input_id:1998 decoded_text: and
+idx:22 input_id:6135 decoded_text: totally
+idx:23 input_id:9038 decoded_text: regret
+idx:24 input_id:18313 decoded_text: wasting
+idx:25 input_id:2026 decoded_text: my
+idx:26 input_id:2051 decoded_text: time
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:3294 decoded_text: completely
+idx:29 input_id:4895 decoded_text: un
+idx:30 input_id:18866 decoded_text: ##watch
+idx:31 input_id:3085 decoded_text: ##able
+idx:32 input_id:2007 decoded_text: with
+idx:33 input_id:2053 decoded_text: no
+idx:34 input_id:2417 decoded_text: red
+idx:35 input_id:21564 decoded_text: ##eem
+idx:36 input_id:2075 decoded_text: ##ing
+idx:37 input_id:11647 decoded_text: qualities
+idx:38 input_id:18971 decoded_text: whatsoever
+idx:39 input_id:1012 decoded_text: .
+idx:40 input_id:20634 decoded_text: steer
+idx:41 input_id:3154 decoded_text: clear
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.3850555419921875, -3.9337430000305176]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

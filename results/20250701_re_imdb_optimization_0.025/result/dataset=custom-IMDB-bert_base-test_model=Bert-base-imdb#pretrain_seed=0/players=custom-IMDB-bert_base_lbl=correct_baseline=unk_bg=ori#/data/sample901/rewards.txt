@@ -1,0 +1,84 @@
+---------- Players ----------
+Player 0: movie
+Player 1: called
+Player 2: perfect
+Player 3: it.
+Player 4: bad
+Player 5: intended
+Player 6: way.
+Player 7: superb
+Player 8: anyway...
+Player 9: go
+Player 10: find
+Player 11: somewhere.
+Player 12: whatever
+Player 13: do...
+Player 14: miss
+Player 15: it!!!
+---------- Rewards ----------
+v(): -0.9341475367546082	 ([])
+v(6,7): -1.8111608028411865	 ([way.][superb])
+v(10,11,12): 0.5536279082298279	 ([find][somewhere.][whatever])
+v(1,2,3,4,15): -2.975804567337036	 ([called][perfect][it.][bad][it!!!])
+v(5,8,9): -0.28849124908447266	 ([intended][anyway...][go])
+v(0,13,14): 3.1609275341033936	 ([movie][do...][miss])
+v(6,7,10,11,12): 0.49045687913894653	 ([way.][superb][find][somewhere.][whatever])
+v(1,2,3,4,6,7,15): -1.4643464088439941	 ([called][perfect][it.][bad][way.][superb][it!!!])
+v(5,6,7,8,9): 6.747190952301025	 ([intended][way.][superb][anyway...][go])
+v(0,6,7,13,14): 4.588379383087158	 ([movie][way.][superb][do...][miss])
+v(1,2,3,4,10,11,12,15): -1.3795161247253418	 ([called][perfect][it.][bad][find][somewhere.][whatever][it!!!])
+v(5,8,9,10,11,12): -1.237841010093689	 ([intended][anyway...][go][find][somewhere.][whatever])
+v(0,10,11,12,13,14): 3.8356781005859375	 ([movie][find][somewhere.][whatever][do...][miss])
+v(1,2,3,4,5,8,9,15): -3.7222790718078613	 ([called][perfect][it.][bad][intended][anyway...][go][it!!!])
+v(0,1,2,3,4,13,14,15): 5.065807342529297	 ([movie][called][perfect][it.][bad][do...][miss][it!!!])
+v(0,5,8,9,13,14): 2.783777952194214	 ([movie][intended][anyway...][go][do...][miss])
+v(1,2,3,4,6,7,10,11,12,15): -0.18002472817897797	 ([called][perfect][it.][bad][way.][superb][find][somewhere.][whatever][it!!!])
+v(5,6,7,8,9,10,11,12): 3.633631706237793	 ([intended][way.][superb][anyway...][go][find][somewhere.][whatever])
+v(0,6,7,10,11,12,13,14): 4.464483261108398	 ([movie][way.][superb][find][somewhere.][whatever][do...][miss])
+v(1,2,3,4,5,6,7,8,9,15): 5.095714569091797	 ([called][perfect][it.][bad][intended][way.][superb][anyway...][go][it!!!])
+v(0,1,2,3,4,6,7,13,14,15): 6.559109687805176	 ([movie][called][perfect][it.][bad][way.][superb][do...][miss][it!!!])
+v(0,5,6,7,8,9,13,14): 7.758084297180176	 ([movie][intended][way.][superb][anyway...][go][do...][miss])
+v(1,2,3,4,5,8,9,10,11,12,15): -3.0515642166137695	 ([called][perfect][it.][bad][intended][anyway...][go][find][somewhere.][whatever][it!!!])
+v(0,1,2,3,4,10,11,12,13,14,15): 5.8741559982299805	 ([movie][called][perfect][it.][bad][find][somewhere.][whatever][do...][miss][it!!!])
+v(0,5,8,9,10,11,12,13,14): 2.588513135910034	 ([movie][intended][anyway...][go][find][somewhere.][whatever][do...][miss])
+v(0,1,2,3,4,5,8,9,13,14,15): 3.6757354736328125	 ([movie][called][perfect][it.][bad][intended][anyway...][go][do...][miss][it!!!])
+v(1,2,3,4,5,6,7,8,9,10,11,12,15): 3.604907751083374	 ([called][perfect][it.][bad][intended][way.][superb][anyway...][go][find][somewhere.][whatever][it!!!])
+v(0,1,2,3,4,6,7,10,11,12,13,14,15): 6.560661315917969	 ([movie][called][perfect][it.][bad][way.][superb][find][somewhere.][whatever][do...][miss][it!!!])
+v(0,5,6,7,8,9,10,11,12,13,14): 5.139248371124268	 ([movie][intended][way.][superb][anyway...][go][find][somewhere.][whatever][do...][miss])
+v(0,1,2,3,4,5,6,7,8,9,13,14,15): 7.190926551818848	 ([movie][called][perfect][it.][bad][intended][way.][superb][anyway...][go][do...][miss][it!!!])
+v(0,1,2,3,4,5,8,9,10,11,12,13,14,15): 5.14805793762207	 ([movie][called][perfect][it.][bad][intended][anyway...][go][find][somewhere.][whatever][do...][miss][it!!!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15): 6.706583499908447	 ([movie][called][perfect][it.][bad][intended][way.][superb][anyway...][go][find][somewhere.][whatever][do...][miss][it!!!])
+---------- Rewards-v() ----------
+v(0,5,6,7,8,9,13,14): 8.692232131958008, EP: 1.1376179456710815	 ([movie][intended][way.][superb][anyway...][go][do...][miss])
+v(0,1,2,3,4,5,6,7,8,9,13,14,15): 8.12507438659668, EP: 1.0633896589279175	 ([movie][called][perfect][it.][bad][intended][way.][superb][anyway...][go][do...][miss][it!!!])
+v(5,6,7,8,9): 7.681338310241699, EP: 1.005314588546753	 ([intended][way.][superb][anyway...][go])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15): 7.640730857849121, EP: 1.0	 ([movie][called][perfect][it.][bad][intended][way.][superb][anyway...][go][find][somewhere.][whatever][do...][miss][it!!!])
+v(0,1,2,3,4,6,7,10,11,12,13,14,15): 7.494808673858643, EP: 0.9809020757675171	 ([movie][called][perfect][it.][bad][way.][superb][find][somewhere.][whatever][do...][miss][it!!!])
+v(0,1,2,3,4,6,7,13,14,15): 7.49325704574585, EP: 0.9806990027427673	 ([movie][called][perfect][it.][bad][way.][superb][do...][miss][it!!!])
+v(0,1,2,3,4,10,11,12,13,14,15): 6.808303356170654, EP: 0.8910539150238037	 ([movie][called][perfect][it.][bad][find][somewhere.][whatever][do...][miss][it!!!])
+v(0,1,2,3,4,5,8,9,10,11,12,13,14,15): 6.082205295562744, EP: 0.7960240244865417	 ([movie][called][perfect][it.][bad][intended][anyway...][go][find][somewhere.][whatever][do...][miss][it!!!])
+v(0,5,6,7,8,9,10,11,12,13,14): 6.073395729064941, EP: 0.7948710322380066	 ([movie][intended][way.][superb][anyway...][go][find][somewhere.][whatever][do...][miss])
+v(1,2,3,4,5,6,7,8,9,15): 6.029861927032471, EP: 0.789173424243927	 ([called][perfect][it.][bad][intended][way.][superb][anyway...][go][it!!!])
+v(0,1,2,3,4,13,14,15): 5.999954700469971, EP: 0.7852592468261719	 ([movie][called][perfect][it.][bad][do...][miss][it!!!])
+v(0,6,7,13,14): 5.522526741027832, EP: 0.7227746844291687	 ([movie][way.][superb][do...][miss])
+v(0,6,7,10,11,12,13,14): 5.398630619049072, EP: 0.7065594792366028	 ([movie][way.][superb][find][somewhere.][whatever][do...][miss])
+v(0,10,11,12,13,14): 4.769825458526611, EP: 0.6242629885673523	 ([movie][find][somewhere.][whatever][do...][miss])
+v(0,1,2,3,4,5,8,9,13,14,15): 4.609882831573486, EP: 0.6033300757408142	 ([movie][called][perfect][it.][bad][intended][anyway...][go][do...][miss][it!!!])
+v(5,6,7,8,9,10,11,12): 4.567779064178467, EP: 0.5978196263313293	 ([intended][way.][superb][anyway...][go][find][somewhere.][whatever])
+v(1,2,3,4,5,6,7,8,9,10,11,12,15): 4.539055347442627, EP: 0.5940603613853455	 ([called][perfect][it.][bad][intended][way.][superb][anyway...][go][find][somewhere.][whatever][it!!!])
+v(0,13,14): 4.0950751304626465, EP: 0.5359533429145813	 ([movie][do...][miss])
+v(0,5,8,9,13,14): 3.717925548553467, EP: 0.4865929186344147	 ([movie][intended][anyway...][go][do...][miss])
+v(0,5,8,9,10,11,12,13,14): 3.522660732269287, EP: 0.46103712916374207	 ([movie][intended][anyway...][go][find][somewhere.][whatever][do...][miss])
+v(1,2,3,4,5,8,9,15): -2.7881314754486084, EP: -0.3649037778377533	 ([called][perfect][it.][bad][intended][anyway...][go][it!!!])
+v(1,2,3,4,5,8,9,10,11,12,15): -2.1174166202545166, EP: -0.27712225914001465	 ([called][perfect][it.][bad][intended][anyway...][go][find][somewhere.][whatever][it!!!])
+v(1,2,3,4,15): -2.041656970977783, EP: -0.2672070264816284	 ([called][perfect][it.][bad][it!!!])
+v(10,11,12): 1.487775444984436, EP: 0.19471637904644012	 ([find][somewhere.][whatever])
+v(6,7,10,11,12): 1.4246044158935547, EP: 0.18644870817661285	 ([way.][superb][find][somewhere.][whatever])
+v(6,7): -0.8770132660865784, EP: -0.11478133499622345	 ([way.][superb])
+v(1,2,3,4,6,7,10,11,12,15): 0.754122793674469, EP: 0.098697729408741	 ([called][perfect][it.][bad][way.][superb][find][somewhere.][whatever][it!!!])
+v(5,8,9): 0.6456562876701355, EP: 0.08450189977884293	 ([intended][anyway...][go])
+v(1,2,3,4,6,7,15): -0.530198872089386, EP: -0.06939111649990082	 ([called][perfect][it.][bad][way.][superb][it!!!])
+v(1,2,3,4,10,11,12,15): -0.44536858797073364, EP: -0.05828874185681343	 ([called][perfect][it.][bad][find][somewhere.][whatever][it!!!])
+v(5,8,9,10,11,12): -0.3036934733390808, EP: -0.03974665328860283	 ([intended][anyway...][go][find][somewhere.][whatever])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

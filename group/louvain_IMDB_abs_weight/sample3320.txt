@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['38', '35', '13', '36', '34', '29', '30', '37']: ['melodramas', 'dance', 'prefer', 'numbers', 'slower', 'shirley', 'temple', 'soapy']: 平均边权 0.4087
+社区 2: ['20', '22', '32', '45', '28', '31']: ['rogers,', 'powell,', 'songs', 'song', 'cagney,', 'forth']: 平均边权 0.4633
+社区 3: ['12', '61', '10', '11']: ['personally,', 'think', 'love', 'this.']: 平均边权 0.6023
+社区 4: ['51', '49', '46', '50', '53', '43', '52', '47', '55', '48', '42', '44', '9', '59', '60', '54']: ['then,', 'nothing', 'okay', 'me.', 'much', 'case - in - point.', 'story', 'next', 'either.', 'three', 'film', 'first', 'do,', 'another', 'minus.', 'appeal,']: 平均边权 0.3203
+社区 5: ['2', '8', '5', '0', '4', '3', '1', '6', '7']: ['thing,', "don't.", 'like', 'kind', 'either', 'meaning', 'genre', '1950s', 'musicals']: 平均边权 0.3185
+社区 6: ['56', '57', '27', '25', '58', '21', '23', '24', '26']: ['presence', 'deborah', 'james', 'ruby', 'kerr', 'eleanor', 'bill', 'robinson,', 'keeler,']: 平均边权 0.3763
+社区 7: ['19', '40', '39', '16', '41', '15', '33', '14']: ['astaire', 'turn', 'decade', 'musicals', 'off.', "' 40s", "' 50s,", '1930s']: 平均边权 0.5232
+社区 8: ['17', '18']: ['dancing', 'talents']: 平均边权 1.1081

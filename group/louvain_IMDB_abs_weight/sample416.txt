@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['43', '36', '3', '7']: ["director's", 'actors', 'actors,', 'director']: 平均边权 0.8787
+社区 2: ['16', '15']: ['allen', 'woody']: 平均边权 1.7712
+社区 3: ['45', '0', '13', '1', '33', '49']: ['hollywood', 'cast.', 'film,', 'finer', 'movie', 'set.']: 平均边权 0.8403
+社区 4: ['11', '10', '9']: ['city,', 'york', 'new']: 平均边权 0.9682
+社区 5: ['8', '38', '23', '27', '24', '25', '26']: ['love', 'love', 'going', 'love,', 'fall', 'love,', 'find']: 平均边权 0.4950
+社区 6: ['2', '20', '19', '29', '52', '50', '51', '28']: ['group', 'bogdonovich', 'upon', 'place', 'peers,', 'reality', 'him,', 'manhattan']: 平均边权 0.3649
+社区 7: ['12', '5', '21', '18', '4', '30', '22', '14', '17', '6', '31']: ['end', 'find.', 'done', 'improve', 'could', 'go.', 'here.', 'all!', 'could', 'setting.', 'no,']: 平均边权 0.3237
+社区 8: ['32', '34', '44', '35']: ['problem', 'script.', 'experience', 'none.']: 平均边权 0.4425
+社区 9: ['46', '40', '47', '39', '48', '41', '42', '37']: ['happens', 'sight,', 'go', 'first', 'work', 'words', 'unnecessary.', 'fall']: 平均边权 0.2318

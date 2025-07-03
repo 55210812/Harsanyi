@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['41', '36', '35', '59', '58', '40', '31']: ['murder - suicide', 'impersonate', 'attempt', 'terrible', 'infamous', 'committed', 'guy']: 平均边权 0.6367
+社区 2: ['8', '0', '4', '11', '3', '15', '9', '1', '26', '10', '7']: ['caused', 'bought', 'used', 'bought', 'discount', 'use', 'laugh', 'movie', 'mention', 'uncontrollably', 'cover']: 平均边权 0.3086
+社区 3: ['38', '27', '32', '29', '34', '39', '37', '33', '28']: ['director', 'use', 'costume', 'double', 'desperate', 'likely', 'monkey.', 'making', 'stunt']: 平均边权 0.2879
+社区 4: ['2', '12', '50', '5', '43', '45', '6']: ["gamestop's", '99cents.', 'film', 'movie', 'movie', 'preview', 'bin']: 平均边权 0.4174
+社区 5: ['54', '51', '42', '44']: ['studio.', 'ended', 'chimpanzees', 'debuted']: 平均边权 0.3972
+社区 6: ['13', '14', '20', '22']: ['movie', 'retarded', 'throughout', 'film']: 平均边权 0.8290
+社区 7: ['57', '49', '46', '52', '47', '30', '48', '53']: ['even', 'bros.', 'low', 'owing', 'rent', 'short', 'warner', 'money']: 平均边权 0.3052
+社区 8: ['55', '56']: ['also', 'help']: 平均边权 0.6724
+社区 9: ['19', '25', '18', '21', '16', '23', '24', '17']: ['monkeys', 'alike.', 'different', 'whole', 'like', 'hardly', 'look', 'ten']: 平均边权 0.2414

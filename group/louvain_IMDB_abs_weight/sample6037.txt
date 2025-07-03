@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['30', '29', '32', '31']: ['first', 'one', 'must', 'things']: 平均边权 0.8131
+社区 2: ['12', '38', '14', '13', '58', '11', '60', '10', '6']: ['budget', 'movie.', 'listed', 'independents', 'insight', 'low', 'soul.', 'many', 'come']: 平均边权 0.3846
+社区 3: ['56', '15', '53']: ['believes', 'imdb,', 'plot,']: 平均边权 0.7336
+社区 4: ['51', '27', '25', '34', '21', '23', '24', '26', '28']: ['auteur,', 'see', 'rent', 'catch', 'accurate', 'eventually', 'go', 'flick', 'yourself.']: 平均边权 0.2882
+社区 5: ['36', '35', '40', '39', '41', '42', '37', '43', '33']: ['camouflage', 'phrases', 'term', 'case', 'dark', 'psychological', 'reality', 'thriller.', 'understand']: 平均边权 0.3994
+社区 6: ['8', '61', '20', '57', '54', '7']: ['relatives', 'great', 'reviews', 'deep', 'story,', 'friends']: 平均边权 0.7118
+社区 7: ['55', '50', '48', '59', '49', '52', '47']: ['action,', "he's", 'director', 'human', 'thinks', 'replaces', 'writer']: 平均边权 0.4148
+社区 8: ['45', '46', '44']: ['read :', '" hack', '"']: 平均边权 0.3683
+社区 9: ['2', '5', '0', '19', '18', '4', '16', '3', '22', '9', '1', '17']: ['many', 'obviously', 'casting', 'using', 'comes', 'comments', 'one', 'favorable', 'gauge.', 'pepper', 'aside', 'lost']: 平均边权 0.1974

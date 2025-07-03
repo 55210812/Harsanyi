@@ -1,0 +1,165 @@
+---------- Players ----------
+Player 0: film
+Player 1: gets
+Player 2: stamp
+Player 3: approval.
+Player 4: scene
+Player 5: museum
+Player 6: demands
+Player 7: acting
+Player 8: without
+Player 9: dialogue.
+Player 10: one
+Player 11: interesting
+Player 12: unique
+Player 13: scenes
+Player 14: history
+Player 15: film.
+Player 16: dickinson's
+Player 17: character
+Player 18: kate
+Player 19: well
+Player 20: developed
+Player 21: performance
+Player 22: felt
+Player 23: throughout
+Player 24: entire
+Player 25: film.
+Player 26: best
+Player 27: work
+Player 28: angie
+Player 29: dickinson
+Player 30: since
+Player 31: point
+Player 32: blank!
+---------- Rewards ----------
+v(): 1.1440348625183105	 ([])
+v(13,15,16,17,18,19): 6.6753129959106445	 ([scenes][film.][dickinson's][character][kate][well])
+v(23,24,25,26,27,28,29,30,31): 7.346080303192139	 ([throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(20,21,22): 5.881284713745117	 ([developed][performance][felt])
+v(4,5,7,8,9,12,14): 7.738406181335449	 ([scene][museum][acting][without][dialogue.][unique][history])
+v(0,1,2,10,11,32): 7.334559440612793	 ([film][gets][stamp][one][interesting][blank!])
+v(3,6): 1.8298211097717285	 ([approval.][demands])
+v(13,15,16,17,18,19,23,24,25,26,27,28,29,30,31): 8.230887413024902	 ([scenes][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(13,15,16,17,18,19,20,21,22): 7.766956329345703	 ([scenes][film.][dickinson's][character][kate][well][developed][performance][felt])
+v(4,5,7,8,9,12,13,14,15,16,17,18,19): 8.530694961547852	 ([scene][museum][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well])
+v(0,1,2,10,11,13,15,16,17,18,19,32): 8.714848518371582	 ([film][gets][stamp][one][interesting][scenes][film.][dickinson's][character][kate][well][blank!])
+v(3,6,13,15,16,17,18,19): 5.536746501922607	 ([approval.][demands][scenes][film.][dickinson's][character][kate][well])
+v(20,21,22,23,24,25,26,27,28,29,30,31): 8.502408981323242	 ([developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(4,5,7,8,9,12,14,23,24,25,26,27,28,29,30,31): 8.234314918518066	 ([scene][museum][acting][without][dialogue.][unique][history][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,10,11,23,24,25,26,27,28,29,30,31,32): 7.877101421356201	 ([film][gets][stamp][one][interesting][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(3,6,23,24,25,26,27,28,29,30,31): 7.250721454620361	 ([approval.][demands][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(4,5,7,8,9,12,14,20,21,22): 8.386974334716797	 ([scene][museum][acting][without][dialogue.][unique][history][developed][performance][felt])
+v(0,1,2,10,11,20,21,22,32): 7.666285037994385	 ([film][gets][stamp][one][interesting][developed][performance][felt][blank!])
+v(3,6,20,21,22): 5.958444595336914	 ([approval.][demands][developed][performance][felt])
+v(0,1,2,4,5,7,8,9,10,11,12,14,32): 8.056535720825195	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][history][blank!])
+v(3,4,5,6,7,8,9,12,14): 6.268564224243164	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][history])
+v(0,1,2,3,6,10,11,32): 8.387054443359375	 ([film][gets][stamp][approval.][demands][one][interesting][blank!])
+v(13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 8.661407470703125	 ([scenes][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(4,5,7,8,9,12,13,14,15,16,17,18,19,23,24,25,26,27,28,29,30,31): 8.442854881286621	 ([scene][museum][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,10,11,13,15,16,17,18,19,23,24,25,26,27,28,29,30,31,32): 8.254008293151855	 ([film][gets][stamp][one][interesting][scenes][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(3,6,13,15,16,17,18,19,23,24,25,26,27,28,29,30,31): 8.000143051147461	 ([approval.][demands][scenes][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(4,5,7,8,9,12,13,14,15,16,17,18,19,20,21,22): 8.87785530090332	 ([scene][museum][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt])
+v(0,1,2,10,11,13,15,16,17,18,19,20,21,22,32): 8.742953300476074	 ([film][gets][stamp][one][interesting][scenes][film.][dickinson's][character][kate][well][developed][performance][felt][blank!])
+v(3,6,13,15,16,17,18,19,20,21,22): 7.489227294921875	 ([approval.][demands][scenes][film.][dickinson's][character][kate][well][developed][performance][felt])
+v(0,1,2,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,32): 8.521074295043945	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][blank!])
+v(3,4,5,6,7,8,9,12,13,14,15,16,17,18,19): 8.431574821472168	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well])
+v(0,1,2,3,6,10,11,13,15,16,17,18,19,32): 8.597476959228516	 ([film][gets][stamp][approval.][demands][one][interesting][scenes][film.][dickinson's][character][kate][well][blank!])
+v(4,5,7,8,9,12,14,20,21,22,23,24,25,26,27,28,29,30,31): 8.651937484741211	 ([scene][museum][acting][without][dialogue.][unique][history][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,10,11,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.507168769836426	 ([film][gets][stamp][one][interesting][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(3,6,20,21,22,23,24,25,26,27,28,29,30,31): 8.211109161376953	 ([approval.][demands][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,4,5,7,8,9,10,11,12,14,23,24,25,26,27,28,29,30,31,32): 8.358501434326172	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][history][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(3,4,5,6,7,8,9,12,14,23,24,25,26,27,28,29,30,31): 8.024530410766602	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][history][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,3,6,10,11,23,24,25,26,27,28,29,30,31,32): 8.16062068939209	 ([film][gets][stamp][approval.][demands][one][interesting][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,4,5,7,8,9,10,11,12,14,20,21,22,32): 8.146096229553223	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][history][developed][performance][felt][blank!])
+v(3,4,5,6,7,8,9,12,14,20,21,22): 7.408125877380371	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][history][developed][performance][felt])
+v(0,1,2,3,6,10,11,20,21,22,32): 7.8094048500061035	 ([film][gets][stamp][approval.][demands][one][interesting][developed][performance][felt][blank!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,32): 8.309008598327637	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][history][blank!])
+v(4,5,7,8,9,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 8.631559371948242	 ([scene][museum][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,10,11,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.77285385131836	 ([film][gets][stamp][one][interesting][scenes][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(3,6,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 8.40091323852539	 ([approval.][demands][scenes][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,23,24,25,26,27,28,29,30,31,32): 8.464437484741211	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,23,24,25,26,27,28,29,30,31): 8.332283973693848	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,3,6,10,11,13,15,16,17,18,19,23,24,25,26,27,28,29,30,31,32): 8.42509651184082	 ([film][gets][stamp][approval.][demands][one][interesting][scenes][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,32): 8.711557388305664	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt][blank!])
+v(3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20,21,22): 8.812566757202148	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt])
+v(0,1,2,3,6,10,11,13,15,16,17,18,19,20,21,22,32): 8.563362121582031	 ([film][gets][stamp][approval.][demands][one][interesting][scenes][film.][dickinson's][character][kate][well][developed][performance][felt][blank!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,32): 8.588632583618164	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][blank!])
+v(0,1,2,4,5,7,8,9,10,11,12,14,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.64246940612793	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][history][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(3,4,5,6,7,8,9,12,14,20,21,22,23,24,25,26,27,28,29,30,31): 8.516531944274902	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][history][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,3,6,10,11,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.534528732299805	 ([film][gets][stamp][approval.][demands][one][interesting][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,23,24,25,26,27,28,29,30,31,32): 8.536896705627441	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][history][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,20,21,22,32): 8.134149551391602	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][history][developed][performance][felt][blank!])
+v(0,1,2,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.659348487854004	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 8.456878662109375	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,3,6,10,11,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.733884811401367	 ([film][gets][stamp][approval.][demands][one][interesting][scenes][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,23,24,25,26,27,28,29,30,31,32): 8.560394287109375	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,32): 8.763425827026367	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt][blank!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.734804153442383	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][history][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.615102767944336	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+---------- Rewards-v() ----------
+v(4,5,7,8,9,12,13,14,15,16,17,18,19,20,21,22): 7.73382043838501, EP: 1.0351693630218506	 ([scene][museum][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt])
+v(3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20,21,22): 7.668531894683838, EP: 1.0264304876327515	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt])
+v(0,1,2,10,11,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 7.628818988800049, EP: 1.0211149454116821	 ([film][gets][stamp][one][interesting][scenes][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,32): 7.619390964508057, EP: 1.0198529958724976	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt][blank!])
+v(0,1,2,10,11,13,15,16,17,18,19,20,21,22,32): 7.598918437957764, EP: 1.0171127319335938	 ([film][gets][stamp][one][interesting][scenes][film.][dickinson's][character][kate][well][developed][performance][felt][blank!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,20,21,22,23,24,25,26,27,28,29,30,31,32): 7.590769290924072, EP: 1.016021966934204	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][history][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,3,6,10,11,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 7.589849948883057, EP: 1.0158989429473877	 ([film][gets][stamp][approval.][demands][one][interesting][scenes][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,10,11,13,15,16,17,18,19,32): 7.5708136558532715, EP: 1.0133509635925293	 ([film][gets][stamp][one][interesting][scenes][film.][dickinson's][character][kate][well][blank!])
+v(0,1,2,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,32): 7.5675225257873535, EP: 1.0129103660583496	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt][blank!])
+v(13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 7.5173726081848145, EP: 1.0061978101730347	 ([scenes][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 7.515313625335693, EP: 1.0059223175048828	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(4,5,7,8,9,12,14,20,21,22,23,24,25,26,27,28,29,30,31): 7.5079026222229, EP: 1.0049302577972412	 ([scene][museum][acting][without][dialogue.][unique][history][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,4,5,7,8,9,10,11,12,14,20,21,22,23,24,25,26,27,28,29,30,31,32): 7.498434543609619, EP: 1.0036630630493164	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][history][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(4,5,7,8,9,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 7.487524509429932, EP: 1.0022027492523193	 ([scene][museum][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 7.471067905426025, EP: 1.0	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,3,6,10,11,13,15,16,17,18,19,32): 7.453442096710205, EP: 0.9976407885551453	 ([film][gets][stamp][approval.][demands][one][interesting][scenes][film.][dickinson's][character][kate][well][blank!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,32): 7.4445977210998535, EP: 0.9964569807052612	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][blank!])
+v(0,1,2,3,6,10,11,13,15,16,17,18,19,20,21,22,32): 7.419327259063721, EP: 0.9930745363235474	 ([film][gets][stamp][approval.][demands][one][interesting][scenes][film.][dickinson's][character][kate][well][developed][performance][felt][blank!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,23,24,25,26,27,28,29,30,31,32): 7.4163594245910645, EP: 0.9926772713661194	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,23,24,25,26,27,28,29,30,31,32): 7.392861843109131, EP: 0.9895321726799011	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][history][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,3,6,10,11,20,21,22,23,24,25,26,27,28,29,30,31,32): 7.390493869781494, EP: 0.9892151951789856	 ([film][gets][stamp][approval.][demands][one][interesting][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(4,5,7,8,9,12,13,14,15,16,17,18,19): 7.386660099029541, EP: 0.9887020587921143	 ([scene][museum][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well])
+v(0,1,2,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,32): 7.377039432525635, EP: 0.9874143004417419	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][blank!])
+v(3,4,5,6,7,8,9,12,14,20,21,22,23,24,25,26,27,28,29,30,31): 7.372497081756592, EP: 0.986806333065033	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][history][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,10,11,20,21,22,23,24,25,26,27,28,29,30,31,32): 7.363133907318115, EP: 0.9855530858039856	 ([film][gets][stamp][one][interesting][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(20,21,22,23,24,25,26,27,28,29,30,31): 7.358374118804932, EP: 0.9849159717559814	 ([developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,23,24,25,26,27,28,29,30,31,32): 7.3204026222229, EP: 0.9798334836959839	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][scenes][history][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 7.3128437995910645, EP: 0.9788217544555664	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(4,5,7,8,9,12,13,14,15,16,17,18,19,23,24,25,26,27,28,29,30,31): 7.2988200187683105, EP: 0.9769446849822998	 ([scene][museum][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(3,4,5,6,7,8,9,12,13,14,15,16,17,18,19): 7.287539958953857, EP: 0.9754348397254944	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well])
+v(0,1,2,3,6,10,11,13,15,16,17,18,19,23,24,25,26,27,28,29,30,31,32): 7.28106164932251, EP: 0.974567711353302	 ([film][gets][stamp][approval.][demands][one][interesting][scenes][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(3,6,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 7.25687837600708, EP: 0.9713308215141296	 ([approval.][demands][scenes][film.][dickinson's][character][kate][well][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,3,6,10,11,32): 7.2430195808410645, EP: 0.9694758057594299	 ([film][gets][stamp][approval.][demands][one][interesting][blank!])
+v(4,5,7,8,9,12,14,20,21,22): 7.242939472198486, EP: 0.9694650769233704	 ([scene][museum][acting][without][dialogue.][unique][history][developed][performance][felt])
+v(0,1,2,4,5,7,8,9,10,11,12,14,23,24,25,26,27,28,29,30,31,32): 7.214466571807861, EP: 0.9656540155410767	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][history][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,23,24,25,26,27,28,29,30,31): 7.188249111175537, EP: 0.9621447920799255	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][scenes][history][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,32): 7.164973735809326, EP: 0.9590293765068054	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][history][blank!])
+v(0,1,2,10,11,13,15,16,17,18,19,23,24,25,26,27,28,29,30,31,32): 7.109973430633545, EP: 0.9516676068305969	 ([film][gets][stamp][one][interesting][scenes][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(4,5,7,8,9,12,14,23,24,25,26,27,28,29,30,31): 7.090280055999756, EP: 0.94903165102005	 ([scene][museum][acting][without][dialogue.][unique][history][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(13,15,16,17,18,19,23,24,25,26,27,28,29,30,31): 7.086852550506592, EP: 0.9485728740692139	 ([scenes][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(3,6,20,21,22,23,24,25,26,27,28,29,30,31): 7.067074298858643, EP: 0.9459255933761597	 ([approval.][demands][developed][performance][felt][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,3,6,10,11,23,24,25,26,27,28,29,30,31,32): 7.016585826873779, EP: 0.9391677379608154	 ([film][gets][stamp][approval.][demands][one][interesting][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,4,5,7,8,9,10,11,12,14,20,21,22,32): 7.002061367034912, EP: 0.9372236132621765	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][history][developed][performance][felt][blank!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,20,21,22,32): 6.990114688873291, EP: 0.9356245398521423	 ([film][gets][stamp][approval.][scene][museum][demands][acting][without][dialogue.][one][interesting][unique][history][developed][performance][felt][blank!])
+v(0,1,2,4,5,7,8,9,10,11,12,14,32): 6.912500858306885, EP: 0.9252359867095947	 ([film][gets][stamp][scene][museum][acting][without][dialogue.][one][interesting][unique][history][blank!])
+v(3,4,5,6,7,8,9,12,14,23,24,25,26,27,28,29,30,31): 6.880495548248291, EP: 0.9209520816802979	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][history][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(3,6,13,15,16,17,18,19,23,24,25,26,27,28,29,30,31): 6.85610818862915, EP: 0.9176878333091736	 ([approval.][demands][scenes][film.][dickinson's][character][kate][well][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,10,11,23,24,25,26,27,28,29,30,31,32): 6.733066558837891, EP: 0.9012187719345093	 ([film][gets][stamp][one][interesting][throughout][entire][film.][best][work][angie][dickinson][since][point][blank!])
+v(0,1,2,3,6,10,11,20,21,22,32): 6.665369987487793, EP: 0.8921576142311096	 ([film][gets][stamp][approval.][demands][one][interesting][developed][performance][felt][blank!])
+v(13,15,16,17,18,19,20,21,22): 6.622921466827393, EP: 0.8864758610725403	 ([scenes][film.][dickinson's][character][kate][well][developed][performance][felt])
+v(4,5,7,8,9,12,14): 6.594371318817139, EP: 0.8826544284820557	 ([scene][museum][acting][without][dialogue.][unique][history])
+v(0,1,2,10,11,20,21,22,32): 6.522250175476074, EP: 0.8730010390281677	 ([film][gets][stamp][one][interesting][developed][performance][felt][blank!])
+v(3,6,13,15,16,17,18,19,20,21,22): 6.3451924324035645, EP: 0.8493019342422485	 ([approval.][demands][scenes][film.][dickinson's][character][kate][well][developed][performance][felt])
+v(3,4,5,6,7,8,9,12,14,20,21,22): 6.2640910148620605, EP: 0.8384465575218201	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][history][developed][performance][felt])
+v(23,24,25,26,27,28,29,30,31): 6.202045440673828, EP: 0.8301417827606201	 ([throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(0,1,2,10,11,32): 6.190524578094482, EP: 0.8285996913909912	 ([film][gets][stamp][one][interesting][blank!])
+v(3,6,23,24,25,26,27,28,29,30,31): 6.106686592102051, EP: 0.8173779845237732	 ([approval.][demands][throughout][entire][film.][best][work][angie][dickinson][since][point])
+v(13,15,16,17,18,19): 5.531278133392334, EP: 0.7403597831726074	 ([scenes][film.][dickinson's][character][kate][well])
+v(3,4,5,6,7,8,9,12,14): 5.1245293617248535, EP: 0.6859166026115417	 ([approval.][scene][museum][demands][acting][without][dialogue.][unique][history])
+v(3,6,20,21,22): 4.8144097328186035, EP: 0.6444071531295776	 ([approval.][demands][developed][performance][felt])
+v(20,21,22): 4.737249851226807, EP: 0.6340793371200562	 ([developed][performance][felt])
+v(3,6,13,15,16,17,18,19): 4.392711639404297, EP: 0.5879630446434021	 ([approval.][demands][scenes][film.][dickinson's][character][kate][well])
+v(3,6): 0.685786247253418, EP: 0.0917922630906105	 ([approval.][demands])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

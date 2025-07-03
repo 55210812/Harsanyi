@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['46', '45', '43', '4', '3', '42', '44', '1', '60']: ['sad,', 'touching,', 'sweet,', 'movie', 'good!', 'movie', 'funny,', 'loved', 'touching.']: 平均边权 1.0885
+社区 2: ['50', '48', '47']: ['movie,', 'first', 'more.']: 平均边权 0.2893
+社区 3: ['61', '62', '25', '34', '28']: ['must', 'say', 'tells', 'begins.', 'falls']: 平均边权 0.3456
+社区 4: ['12', '5', '19', '13', '30', '11', '15', '23', '17']: ['little', 'told', 'learn', 'girl', 'sent', 'given', 'present.', 'friends.', 'helps']: 平均边权 0.3112
+社区 5: ['27', '52', '29', '55', '53', '51', '6', '54']: ['fly,', 'cry.', 'bird', 'urge', 'birds', 'made', 'parrot,', 'courage']: 平均边权 0.4680
+社区 6: ['35', '32', '18', '21', '16', '22', '59', '24', '33', '10', '31', '7']: ['paulie', "that's", 'marie', 'become', 'paulie', 'best', 'time,', 'paulie', 'adventure', 'paulie', 'away.', "paulie's"]: 平均边权 0.3895
+社区 7: ['2', '8', '20', '0', '9', '36']: ['movie!', 'point', 'talk', 'absolutely', 'view.', 'goes']: 平均边权 0.2888
+社区 8: ['56', '57', '58', '49', '40', '41', '26', '14']: ['go', 'find', 'marie', 'watched', 'back', 'marie.', 'marie', 'marie,']: 平均边权 0.3854
+社区 9: ['39', '38', '37']: ['way', 'find', 'much']: 平均边权 0.2692

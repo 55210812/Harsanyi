@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['30', '0', '44', '29', '6', '28']: ['unique', 'love', 'joy', 'fun', 'blast', 'show']: 平均边权 2.5066
+社区 2: ['56', '5', '57', '40', '41', '53', '42', '43', '51', '54']: ['television', 'witches', 'series', 'show', 'many', 'would', 'great', 'qualities', '"', 'recommend']: 平均边权 0.7460
+社区 3: ['4', '9', '17', '19', '35', '18']: ['modern', 'love,', 'classical,', 'modern', 'modern', 'medieval']: 平均边权 0.3415
+社区 4: ['2', '12', '8', '10', '16', '3', '15', '1', '14']: ['follows', 'literature', 'everyday', 'humor', 'ideas', 'lives', 'portraying', 'show', 'diverse,']: 平均边权 0.8822
+社区 5: ['11', '20', '36', '13', '60', '7']: ['adventure.', 'wizardry,', 'wizardry,', 'magic', 'adventurous.', 'experience']: 平均边权 0.8504
+社区 6: ['39', '38', '37', '32', '33', '34', '31']: ['worth!', 'seasons', 'seven', 'us', 'experience', 'lot', 'lets']: 平均边权 0.5886
+社区 7: ['59', '58']: ['funny', 'clean,']: 平均边权 2.9074
+社区 8: ['55', '48', '50', '45', '49', '52', '47']: ['family', 'daily', 'mortal', 'watch', 'life', 'realm.', 'live']: 平均边权 0.5834
+社区 9: ['27', '25', '46', '21', '23', '22', '24', '26']: ['witch,', 'sabrina', 'sabrina', 'like', 'potter', 'harry', 'sabrina.', 'teenage']: 平均边权 0.4466

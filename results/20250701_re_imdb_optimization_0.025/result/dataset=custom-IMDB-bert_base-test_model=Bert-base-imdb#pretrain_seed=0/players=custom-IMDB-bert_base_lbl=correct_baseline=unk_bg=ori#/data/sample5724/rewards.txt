@@ -1,0 +1,161 @@
+---------- Players ----------
+Player 0: time
+Player 1: ever
+Player 2: walked
+Player 3: movie.
+Player 4: years
+Player 5: later,
+Player 6: saw
+Player 7: cable
+Player 8: listings
+Player 9: thought,
+Player 10: maybe
+Player 11: give
+Player 12: another
+Player 13: try.
+Player 14: "
+Player 15: suffice
+Player 16: say
+Player 17: right
+Player 18: first
+Player 19: time.
+Player 20: ranks
+Player 21: second
+Player 22: godzilla
+Player 23: 1998
+Player 24: worst
+Player 25: movie
+Player 26: i've
+Player 27: ever
+Player 28: seen. "
+---------- Rewards ----------
+v(): -0.7589309215545654	 ([])
+v(0,1,2,6): 1.6073448657989502	 ([time][ever][walked][saw])
+v(18,21,23,24,26): 5.360237121582031	 ([first][second][1998][worst][i've])
+v(3,4,8,11,12,28): -0.8765150308609009	 ([movie.][years][listings][give][another][seen. "])
+v(10,19,20,22,25,27): 2.287438154220581	 ([maybe][time.][ranks][godzilla][movie][ever])
+v(9,13,14,16,17): 0.7290170192718506	 ([thought,][try.]["][say][right])
+v(5,7,15): -0.33526068925857544	 ([later,][cable][suffice])
+v(0,1,2,6,18,21,23,24,26): 6.027542591094971	 ([time][ever][walked][saw][first][second][1998][worst][i've])
+v(0,1,2,3,4,6,8,11,12,28): 4.656991958618164	 ([time][ever][walked][movie.][years][saw][listings][give][another][seen. "])
+v(0,1,2,6,10,19,20,22,25,27): 4.901487350463867	 ([time][ever][walked][saw][maybe][time.][ranks][godzilla][movie][ever])
+v(0,1,2,6,9,13,14,16,17): 2.5365991592407227	 ([time][ever][walked][saw][thought,][try.]["][say][right])
+v(0,1,2,5,6,7,15): 1.9596962928771973	 ([time][ever][walked][later,][saw][cable][suffice])
+v(3,4,8,11,12,18,21,23,24,26,28): 6.424131393432617	 ([movie.][years][listings][give][another][first][second][1998][worst][i've][seen. "])
+v(10,18,19,20,21,22,23,24,25,26,27): 7.474084854125977	 ([maybe][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(9,13,14,16,17,18,21,23,24,26): 6.198716163635254	 ([thought,][try.]["][say][right][first][second][1998][worst][i've])
+v(5,7,15,18,21,23,24,26): 6.022014617919922	 ([later,][cable][suffice][first][second][1998][worst][i've])
+v(3,4,8,10,11,12,19,20,22,25,27,28): 3.92648983001709	 ([movie.][years][listings][maybe][give][another][time.][ranks][godzilla][movie][ever][seen. "])
+v(3,4,8,9,11,12,13,14,16,17,28): -0.044872477650642395	 ([movie.][years][listings][thought,][give][another][try.]["][say][right][seen. "])
+v(3,4,5,7,8,11,12,15,28): -0.4063591957092285	 ([movie.][years][later,][cable][listings][give][another][suffice][seen. "])
+v(9,10,13,14,16,17,19,20,22,25,27): 2.567673921585083	 ([thought,][maybe][try.]["][say][right][time.][ranks][godzilla][movie][ever])
+v(5,7,10,15,19,20,22,25,27): 3.6766440868377686	 ([later,][cable][maybe][suffice][time.][ranks][godzilla][movie][ever])
+v(5,7,9,13,14,15,16,17): 2.7755351066589355	 ([later,][cable][thought,][try.]["][suffice][say][right])
+v(0,1,2,3,4,6,8,11,12,18,21,23,24,26,28): 6.744715690612793	 ([time][ever][walked][movie.][years][saw][listings][give][another][first][second][1998][worst][i've][seen. "])
+v(0,1,2,6,10,18,19,20,21,22,23,24,25,26,27): 7.865459442138672	 ([time][ever][walked][saw][maybe][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(0,1,2,6,9,13,14,16,17,18,21,23,24,26): 6.744029998779297	 ([time][ever][walked][saw][thought,][try.]["][say][right][first][second][1998][worst][i've])
+v(0,1,2,5,6,7,15,18,21,23,24,26): 6.4807305335998535	 ([time][ever][walked][later,][saw][cable][suffice][first][second][1998][worst][i've])
+v(0,1,2,3,4,6,8,10,11,12,19,20,22,25,27,28): 6.040151596069336	 ([time][ever][walked][movie.][years][saw][listings][maybe][give][another][time.][ranks][godzilla][movie][ever][seen. "])
+v(0,1,2,3,4,6,8,9,11,12,13,14,16,17,28): 3.110196590423584	 ([time][ever][walked][movie.][years][saw][listings][thought,][give][another][try.]["][say][right][seen. "])
+v(0,1,2,3,4,5,6,7,8,11,12,15,28): 4.839654922485352	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][give][another][suffice][seen. "])
+v(0,1,2,6,9,10,13,14,16,17,19,20,22,25,27): 4.312934875488281	 ([time][ever][walked][saw][thought,][maybe][try.]["][say][right][time.][ranks][godzilla][movie][ever])
+v(0,1,2,5,6,7,10,15,19,20,22,25,27): 5.3154296875	 ([time][ever][walked][later,][saw][cable][maybe][suffice][time.][ranks][godzilla][movie][ever])
+v(0,1,2,5,6,7,9,13,14,15,16,17): 3.442065954208374	 ([time][ever][walked][later,][saw][cable][thought,][try.]["][suffice][say][right])
+v(3,4,8,10,11,12,18,19,20,21,22,23,24,25,26,27,28): 7.510437965393066	 ([movie.][years][listings][maybe][give][another][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(3,4,8,9,11,12,13,14,16,17,18,21,23,24,26,28): 6.932724475860596	 ([movie.][years][listings][thought,][give][another][try.]["][say][right][first][second][1998][worst][i've][seen. "])
+v(3,4,5,7,8,11,12,15,18,21,23,24,26,28): 7.092538833618164	 ([movie.][years][later,][cable][listings][give][another][suffice][first][second][1998][worst][i've][seen. "])
+v(9,10,13,14,16,17,18,19,20,21,22,23,24,25,26,27): 7.864371299743652	 ([thought,][maybe][try.]["][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(5,7,10,15,18,19,20,21,22,23,24,25,26,27): 7.808341026306152	 ([later,][cable][maybe][suffice][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(5,7,9,13,14,15,16,17,18,21,23,24,26): 6.771749019622803	 ([later,][cable][thought,][try.]["][suffice][say][right][first][second][1998][worst][i've])
+v(3,4,8,9,10,11,12,13,14,16,17,19,20,22,25,27,28): 4.457655906677246	 ([movie.][years][listings][thought,][maybe][give][another][try.]["][say][right][time.][ranks][godzilla][movie][ever][seen. "])
+v(3,4,5,7,8,10,11,12,15,19,20,22,25,27,28): 3.4160499572753906	 ([movie.][years][later,][cable][listings][maybe][give][another][suffice][time.][ranks][godzilla][movie][ever][seen. "])
+v(3,4,5,7,8,9,11,12,13,14,15,16,17,28): -0.29561924934387207	 ([movie.][years][later,][cable][listings][thought,][give][another][try.]["][suffice][say][right][seen. "])
+v(5,7,9,10,13,14,15,16,17,19,20,22,25,27): 3.9990477561950684	 ([later,][cable][thought,][maybe][try.]["][suffice][say][right][time.][ranks][godzilla][movie][ever])
+v(0,1,2,3,4,6,8,10,11,12,18,19,20,21,22,23,24,25,26,27,28): 7.701930999755859	 ([time][ever][walked][movie.][years][saw][listings][maybe][give][another][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(0,1,2,3,4,6,8,9,11,12,13,14,16,17,18,21,23,24,26,28): 7.282362937927246	 ([time][ever][walked][movie.][years][saw][listings][thought,][give][another][try.]["][say][right][first][second][1998][worst][i've][seen. "])
+v(0,1,2,3,4,5,6,7,8,11,12,15,18,21,23,24,26,28): 7.168724060058594	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][give][another][suffice][first][second][1998][worst][i've][seen. "])
+v(0,1,2,6,9,10,13,14,16,17,18,19,20,21,22,23,24,25,26,27): 8.077681541442871	 ([time][ever][walked][saw][thought,][maybe][try.]["][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(0,1,2,5,6,7,10,15,18,19,20,21,22,23,24,25,26,27): 8.057746887207031	 ([time][ever][walked][later,][saw][cable][maybe][suffice][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(0,1,2,5,6,7,9,13,14,15,16,17,18,21,23,24,26): 7.068647384643555	 ([time][ever][walked][later,][saw][cable][thought,][try.]["][suffice][say][right][first][second][1998][worst][i've])
+v(0,1,2,3,4,6,8,9,10,11,12,13,14,16,17,19,20,22,25,27,28): 5.226283073425293	 ([time][ever][walked][movie.][years][saw][listings][thought,][maybe][give][another][try.]["][say][right][time.][ranks][godzilla][movie][ever][seen. "])
+v(0,1,2,3,4,5,6,7,8,10,11,12,15,19,20,22,25,27,28): 5.755946159362793	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][maybe][give][another][suffice][time.][ranks][godzilla][movie][ever][seen. "])
+v(0,1,2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,28): 3.581185817718506	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][thought,][give][another][try.]["][suffice][say][right][seen. "])
+v(0,1,2,5,6,7,9,10,13,14,15,16,17,19,20,22,25,27): 5.058813095092773	 ([time][ever][walked][later,][saw][cable][thought,][maybe][try.]["][suffice][say][right][time.][ranks][godzilla][movie][ever])
+v(3,4,8,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28): 7.8448309898376465	 ([movie.][years][listings][thought,][maybe][give][another][try.]["][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(3,4,5,7,8,10,11,12,15,18,19,20,21,22,23,24,25,26,27,28): 7.9528703689575195	 ([movie.][years][later,][cable][listings][maybe][give][another][suffice][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(3,4,5,7,8,9,11,12,13,14,15,16,17,18,21,23,24,26,28): 7.505430221557617	 ([movie.][years][later,][cable][listings][thought,][give][another][try.]["][suffice][say][right][first][second][1998][worst][i've][seen. "])
+v(5,7,9,10,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.114706039428711	 ([later,][cable][thought,][maybe][try.]["][suffice][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(3,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20,22,25,27,28): 3.089282512664795	 ([movie.][years][later,][cable][listings][thought,][maybe][give][another][try.]["][suffice][say][right][time.][ranks][godzilla][movie][ever][seen. "])
+v(0,1,2,3,4,6,8,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28): 7.8719282150268555	 ([time][ever][walked][movie.][years][saw][listings][thought,][maybe][give][another][try.]["][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(0,1,2,3,4,5,6,7,8,10,11,12,15,18,19,20,21,22,23,24,25,26,27,28): 7.94361686706543	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][maybe][give][another][suffice][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(0,1,2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,21,23,24,26,28): 7.719097137451172	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][thought,][give][another][try.]["][suffice][say][right][first][second][1998][worst][i've][seen. "])
+v(0,1,2,5,6,7,9,10,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.228547096252441	 ([time][ever][walked][later,][saw][cable][thought,][maybe][try.]["][suffice][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,22,25,27,28): 5.419140815734863	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][thought,][maybe][give][another][try.]["][suffice][say][right][time.][ranks][godzilla][movie][ever][seen. "])
+v(3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.098624229431152	 ([movie.][years][later,][cable][listings][thought,][maybe][give][another][try.]["][suffice][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.052943229675293	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][thought,][maybe][give][another][try.]["][suffice][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+---------- Rewards-v() ----------
+v(0,1,2,5,6,7,9,10,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.987478256225586, EP: 1.0199280977249146	 ([time][ever][walked][later,][saw][cable][thought,][maybe][try.]["][suffice][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(5,7,9,10,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.873637199401855, EP: 1.0070090293884277	 ([later,][cable][thought,][maybe][try.]["][suffice][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.857555389404297, EP: 1.0051840543746948	 ([movie.][years][later,][cable][listings][thought,][maybe][give][another][try.]["][suffice][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(0,1,2,6,9,10,13,14,16,17,18,19,20,21,22,23,24,25,26,27): 8.836612701416016, EP: 1.002807378768921	 ([time][ever][walked][saw][thought,][maybe][try.]["][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(0,1,2,5,6,7,10,15,18,19,20,21,22,23,24,25,26,27): 8.816678047180176, EP: 1.0005451440811157	 ([time][ever][walked][later,][saw][cable][maybe][suffice][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.811874389648438, EP: 1.0	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][thought,][maybe][give][another][try.]["][suffice][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(3,4,5,7,8,10,11,12,15,18,19,20,21,22,23,24,25,26,27,28): 8.711801528930664, EP: 0.9886434078216553	 ([movie.][years][later,][cable][listings][maybe][give][another][suffice][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(0,1,2,3,4,5,6,7,8,10,11,12,15,18,19,20,21,22,23,24,25,26,27,28): 8.702548027038574, EP: 0.9875932931900024	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][maybe][give][another][suffice][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(0,1,2,3,4,6,8,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.630859375, EP: 0.9794578552246094	 ([time][ever][walked][movie.][years][saw][listings][thought,][maybe][give][another][try.]["][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(0,1,2,6,10,18,19,20,21,22,23,24,25,26,27): 8.624390602111816, EP: 0.9787237048149109	 ([time][ever][walked][saw][maybe][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(9,10,13,14,16,17,18,19,20,21,22,23,24,25,26,27): 8.623302459716797, EP: 0.978600263595581	 ([thought,][maybe][try.]["][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(3,4,8,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.603761672973633, EP: 0.9763826727867126	 ([movie.][years][listings][thought,][maybe][give][another][try.]["][say][right][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(5,7,10,15,18,19,20,21,22,23,24,25,26,27): 8.567272186279297, EP: 0.9722417593002319	 ([later,][cable][maybe][suffice][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(0,1,2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,21,23,24,26,28): 8.478028297424316, EP: 0.9621140956878662	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][thought,][give][another][try.]["][suffice][say][right][first][second][1998][worst][i've][seen. "])
+v(0,1,2,3,4,6,8,10,11,12,18,19,20,21,22,23,24,25,26,27,28): 8.460862159729004, EP: 0.9601659774780273	 ([time][ever][walked][movie.][years][saw][listings][maybe][give][another][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(3,4,8,10,11,12,18,19,20,21,22,23,24,25,26,27,28): 8.269369125366211, EP: 0.9384347200393677	 ([movie.][years][listings][maybe][give][another][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever][seen. "])
+v(3,4,5,7,8,9,11,12,13,14,15,16,17,18,21,23,24,26,28): 8.264361381530762, EP: 0.9378664493560791	 ([movie.][years][later,][cable][listings][thought,][give][another][try.]["][suffice][say][right][first][second][1998][worst][i've][seen. "])
+v(10,18,19,20,21,22,23,24,25,26,27): 8.233016014099121, EP: 0.9343093037605286	 ([maybe][first][time.][ranks][second][godzilla][1998][worst][movie][i've][ever])
+v(0,1,2,3,4,6,8,9,11,12,13,14,16,17,18,21,23,24,26,28): 8.04129409790039, EP: 0.9125520586967468	 ([time][ever][walked][movie.][years][saw][listings][thought,][give][another][try.]["][say][right][first][second][1998][worst][i've][seen. "])
+v(0,1,2,3,4,5,6,7,8,11,12,15,18,21,23,24,26,28): 7.927655220031738, EP: 0.8996559381484985	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][give][another][suffice][first][second][1998][worst][i've][seen. "])
+v(3,4,5,7,8,11,12,15,18,21,23,24,26,28): 7.851469993591309, EP: 0.8910102248191833	 ([movie.][years][later,][cable][listings][give][another][suffice][first][second][1998][worst][i've][seen. "])
+v(0,1,2,5,6,7,9,13,14,15,16,17,18,21,23,24,26): 7.827578544616699, EP: 0.8882989287376404	 ([time][ever][walked][later,][saw][cable][thought,][try.]["][suffice][say][right][first][second][1998][worst][i've])
+v(3,4,8,9,11,12,13,14,16,17,18,21,23,24,26,28): 7.691655158996582, EP: 0.8728739023208618	 ([movie.][years][listings][thought,][give][another][try.]["][say][right][first][second][1998][worst][i've][seen. "])
+v(5,7,9,13,14,15,16,17,18,21,23,24,26): 7.530679702758789, EP: 0.8546059131622314	 ([later,][cable][thought,][try.]["][suffice][say][right][first][second][1998][worst][i've])
+v(0,1,2,3,4,6,8,11,12,18,21,23,24,26,28): 7.5036468505859375, EP: 0.8515381217002869	 ([time][ever][walked][movie.][years][saw][listings][give][another][first][second][1998][worst][i've][seen. "])
+v(0,1,2,6,9,13,14,16,17,18,21,23,24,26): 7.502961158752441, EP: 0.8514602780342102	 ([time][ever][walked][saw][thought,][try.]["][say][right][first][second][1998][worst][i've])
+v(0,1,2,5,6,7,15,18,21,23,24,26): 7.23966121673584, EP: 0.821580171585083	 ([time][ever][walked][later,][saw][cable][suffice][first][second][1998][worst][i've])
+v(3,4,8,11,12,18,21,23,24,26,28): 7.183062553405762, EP: 0.8151571750640869	 ([movie.][years][listings][give][another][first][second][1998][worst][i've][seen. "])
+v(9,13,14,16,17,18,21,23,24,26): 6.957647323608398, EP: 0.7895762920379639	 ([thought,][try.]["][say][right][first][second][1998][worst][i've])
+v(0,1,2,3,4,6,8,10,11,12,19,20,22,25,27,28): 6.7990827560424805, EP: 0.7715818881988525	 ([time][ever][walked][movie.][years][saw][listings][maybe][give][another][time.][ranks][godzilla][movie][ever][seen. "])
+v(0,1,2,6,18,21,23,24,26): 6.786473274230957, EP: 0.7701509594917297	 ([time][ever][walked][saw][first][second][1998][worst][i've])
+v(5,7,15,18,21,23,24,26): 6.780945777893066, EP: 0.7695236802101135	 ([later,][cable][suffice][first][second][1998][worst][i've])
+v(0,1,2,3,4,5,6,7,8,10,11,12,15,19,20,22,25,27,28): 6.5148773193359375, EP: 0.7393293380737305	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][maybe][give][another][suffice][time.][ranks][godzilla][movie][ever][seen. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,22,25,27,28): 6.178071975708008, EP: 0.7011075615882874	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][thought,][maybe][give][another][try.]["][suffice][say][right][time.][ranks][godzilla][movie][ever][seen. "])
+v(18,21,23,24,26): 6.119168281555176, EP: 0.6944230198860168	 ([first][second][1998][worst][i've])
+v(0,1,2,5,6,7,10,15,19,20,22,25,27): 6.0743608474731445, EP: 0.6893380880355835	 ([time][ever][walked][later,][saw][cable][maybe][suffice][time.][ranks][godzilla][movie][ever])
+v(0,1,2,3,4,6,8,9,10,11,12,13,14,16,17,19,20,22,25,27,28): 5.9852142333984375, EP: 0.6792214512825012	 ([time][ever][walked][movie.][years][saw][listings][thought,][maybe][give][another][try.]["][say][right][time.][ranks][godzilla][movie][ever][seen. "])
+v(0,1,2,5,6,7,9,10,13,14,15,16,17,19,20,22,25,27): 5.817744255065918, EP: 0.6602164506912231	 ([time][ever][walked][later,][saw][cable][thought,][maybe][try.]["][suffice][say][right][time.][ranks][godzilla][movie][ever])
+v(0,1,2,6,10,19,20,22,25,27): 5.660418510437012, EP: 0.6423625946044922	 ([time][ever][walked][saw][maybe][time.][ranks][godzilla][movie][ever])
+v(0,1,2,3,4,5,6,7,8,11,12,15,28): 5.598586082458496, EP: 0.6353456377983093	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][give][another][suffice][seen. "])
+v(0,1,2,3,4,6,8,11,12,28): 5.415923118591309, EP: 0.6146164536476135	 ([time][ever][walked][movie.][years][saw][listings][give][another][seen. "])
+v(3,4,8,9,10,11,12,13,14,16,17,19,20,22,25,27,28): 5.216587066650391, EP: 0.5919951796531677	 ([movie.][years][listings][thought,][maybe][give][another][try.]["][say][right][time.][ranks][godzilla][movie][ever][seen. "])
+v(0,1,2,6,9,10,13,14,16,17,19,20,22,25,27): 5.071866035461426, EP: 0.5755717754364014	 ([time][ever][walked][saw][thought,][maybe][try.]["][say][right][time.][ranks][godzilla][movie][ever])
+v(5,7,9,10,13,14,15,16,17,19,20,22,25,27): 4.757978439331055, EP: 0.5399507880210876	 ([later,][cable][thought,][maybe][try.]["][suffice][say][right][time.][ranks][godzilla][movie][ever])
+v(3,4,8,10,11,12,19,20,22,25,27,28): 4.685420989990234, EP: 0.5317167043685913	 ([movie.][years][listings][maybe][give][another][time.][ranks][godzilla][movie][ever][seen. "])
+v(5,7,10,15,19,20,22,25,27): 4.435575008392334, EP: 0.5033633708953857	 ([later,][cable][maybe][suffice][time.][ranks][godzilla][movie][ever])
+v(0,1,2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,28): 4.340116500854492, EP: 0.4925304651260376	 ([time][ever][walked][movie.][years][later,][saw][cable][listings][thought,][give][another][try.]["][suffice][say][right][seen. "])
+v(0,1,2,5,6,7,9,13,14,15,16,17): 4.2009968757629395, EP: 0.4767427146434784	 ([time][ever][walked][later,][saw][cable][thought,][try.]["][suffice][say][right])
+v(3,4,5,7,8,10,11,12,15,19,20,22,25,27,28): 4.174981117248535, EP: 0.47379034757614136	 ([movie.][years][later,][cable][listings][maybe][give][another][suffice][time.][ranks][godzilla][movie][ever][seen. "])
+v(0,1,2,3,4,6,8,9,11,12,13,14,16,17,28): 3.8691275119781494, EP: 0.4390811026096344	 ([time][ever][walked][movie.][years][saw][listings][thought,][give][another][try.]["][say][right][seen. "])
+v(3,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20,22,25,27,28): 3.8482134342193604, EP: 0.4367077052593231	 ([movie.][years][later,][cable][listings][thought,][maybe][give][another][try.]["][suffice][say][right][time.][ranks][godzilla][movie][ever][seen. "])
+v(5,7,9,13,14,15,16,17): 3.534466028213501, EP: 0.40110263228416443	 ([later,][cable][thought,][try.]["][suffice][say][right])
+v(9,10,13,14,16,17,19,20,22,25,27): 3.3266048431396484, EP: 0.3775138854980469	 ([thought,][maybe][try.]["][say][right][time.][ranks][godzilla][movie][ever])
+v(0,1,2,6,9,13,14,16,17): 3.295530080795288, EP: 0.3739874064922333	 ([time][ever][walked][saw][thought,][try.]["][say][right])
+v(10,19,20,22,25,27): 3.0463690757751465, EP: 0.3457118272781372	 ([maybe][time.][ranks][godzilla][movie][ever])
+v(0,1,2,5,6,7,15): 2.7186272144317627, EP: 0.3085186183452606	 ([time][ever][walked][later,][saw][cable][suffice])
+v(0,1,2,6): 2.3662757873535156, EP: 0.2685326337814331	 ([time][ever][walked][saw])
+v(9,13,14,16,17): 1.487947940826416, EP: 0.168857142329216	 ([thought,][try.]["][say][right])
+v(3,4,8,9,11,12,13,14,16,17,28): 0.7140584588050842, EP: 0.08103366196155548	 ([movie.][years][listings][thought,][give][another][try.]["][say][right][seen. "])
+v(3,4,5,7,8,9,11,12,13,14,15,16,17,28): 0.46331167221069336, EP: 0.05257810652256012	 ([movie.][years][later,][cable][listings][thought,][give][another][try.]["][suffice][say][right][seen. "])
+v(5,7,15): 0.42367023229599, EP: 0.0480794683098793	 ([later,][cable][suffice])
+v(3,4,5,7,8,11,12,15,28): 0.3525717258453369, EP: 0.040010981261730194	 ([movie.][years][later,][cable][listings][give][another][suffice][seen. "])
+v(3,4,8,11,12,28): -0.11758410930633545, EP: -0.01334382500499487	 ([movie.][years][listings][give][another][seen. "])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['41', '42', '44', '43', '40', '17']: ['main', 'strength.', 'sequence', 'opening', 'film', '( compare']: 平均边权 0.8683
+社区 2: ['38', '35', '36', '52', '34', '39', '37', '51']: ['actors', 'run.', 'winning', 'scene', 'child', 'give', 'performances', 'closing']: 平均边权 0.5993
+社区 3: ['49', '45', '47', '55', '50', '48', '53', '54']: ['creation', 'excellent', 'relates', 'created', 'world', 'theory', 'discover', 'god']: 平均边权 0.7816
+社区 4: ['8', '63', '27', '25', '46', '29', '18', '28']: ['person', 'georges', 'psychology', 'expert', 'georges', 'georges', '" rainmaker', 'meets']: 平均边权 0.4375
+社区 5: ['20', '24', '21', '30', '22', '62', '26', '31']: ['film', 'businessman', 'harry', '( pascal', '( daniel', 'example,', 'sales', 'duquenne ),']: 平均边权 0.4380
+社区 6: ['13', '14', '57', '15']: ['day', '"', 'day.', 'takes']: 平均边权 0.5837
+社区 7: ['12', '56', '61', '23', '59', '60', '58']: ['eighth', 'eighth', 'harry.', 'auteuil )', 'story', 'frustrating', 'moments']: 平均边权 0.4001
+社区 8: ['2', '5', '0', '19', '32', '4', '16', '11', '3', '9', '1', '33', '10', '6', '7']: ['influences', 'ways,', 'everyone', '" ).', "down's", 'modifies', 'theme', 'us.', 'thinking,', 'rubs', 'meet', 'syndrome', 'onto', 'little', 'bit']: 平均边权 0.4279

@@ -1,0 +1,66 @@
+Execution time: 2025-07-03 23:51:51
+prompt: [CLS] another wonderful patterson book made into an incredibly awful movie. if the big budget movies don't work then why make a low budget made for t. v. movie that's 10 times worse! i am desperate for a good movie that will do one of his books justice! [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2178 decoded_text: another
+idx:2 input_id:6919 decoded_text: wonderful
+idx:3 input_id:12424 decoded_text: patterson
+idx:4 input_id:2338 decoded_text: book
+idx:5 input_id:2081 decoded_text: made
+idx:6 input_id:2046 decoded_text: into
+idx:7 input_id:2019 decoded_text: an
+idx:8 input_id:11757 decoded_text: incredibly
+idx:9 input_id:9643 decoded_text: awful
+idx:10 input_id:3185 decoded_text: movie
+idx:11 input_id:1012 decoded_text: .
+idx:12 input_id:2065 decoded_text: if
+idx:13 input_id:1996 decoded_text: the
+idx:14 input_id:2502 decoded_text: big
+idx:15 input_id:5166 decoded_text: budget
+idx:16 input_id:5691 decoded_text: movies
+idx:17 input_id:2123 decoded_text: don
+idx:18 input_id:1005 decoded_text: '
+idx:19 input_id:1056 decoded_text: t
+idx:20 input_id:2147 decoded_text: work
+idx:21 input_id:2059 decoded_text: then
+idx:22 input_id:2339 decoded_text: why
+idx:23 input_id:2191 decoded_text: make
+idx:24 input_id:1037 decoded_text: a
+idx:25 input_id:2659 decoded_text: low
+idx:26 input_id:5166 decoded_text: budget
+idx:27 input_id:2081 decoded_text: made
+idx:28 input_id:2005 decoded_text: for
+idx:29 input_id:1056 decoded_text: t
+idx:30 input_id:1012 decoded_text: .
+idx:31 input_id:1058 decoded_text: v
+idx:32 input_id:1012 decoded_text: .
+idx:33 input_id:3185 decoded_text: movie
+idx:34 input_id:2008 decoded_text: that
+idx:35 input_id:1005 decoded_text: '
+idx:36 input_id:1055 decoded_text: s
+idx:37 input_id:2184 decoded_text: 10
+idx:38 input_id:2335 decoded_text: times
+idx:39 input_id:4788 decoded_text: worse
+idx:40 input_id:999 decoded_text: !
+idx:41 input_id:1045 decoded_text: i
+idx:42 input_id:2572 decoded_text: am
+idx:43 input_id:7143 decoded_text: desperate
+idx:44 input_id:2005 decoded_text: for
+idx:45 input_id:1037 decoded_text: a
+idx:46 input_id:2204 decoded_text: good
+idx:47 input_id:3185 decoded_text: movie
+idx:48 input_id:2008 decoded_text: that
+idx:49 input_id:2097 decoded_text: will
+idx:50 input_id:2079 decoded_text: do
+idx:51 input_id:2028 decoded_text: one
+idx:52 input_id:1997 decoded_text: of
+idx:53 input_id:2010 decoded_text: his
+idx:54 input_id:2808 decoded_text: books
+idx:55 input_id:3425 decoded_text: justice
+idx:56 input_id:999 decoded_text: !
+idx:57 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[3.9711766242980957, -3.601071834564209]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

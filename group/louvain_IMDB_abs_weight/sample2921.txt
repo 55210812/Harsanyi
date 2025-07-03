@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['8', '5', '11', '16', '65', '44', '9', '43', '69', '10', '6']: ['panic,', 'wonderful', '2000,', 'h.', '( dorfman )', '"', '"', '" panic', 'unhappy', 'year', 'job']: 平均边权 0.5600
+社区 2: ['19', '25', '49', '18', '15', '23', '24', '17']: ['ullman,', 'sutherland,', '( macy )', 'tracy', 'william', 'campbell,', 'donald', 'macy,']: 平均边权 0.3708
+社区 3: ['20', '36', '35', '32', '46', '34', '21', '47', '22', '33']: ['john', 'roles,', 'un - funny', 'ullman', 'hit', 'decidedly', 'ritter,', 'man,', 'neve', 'ritter']: 平均边权 0.4721
+社区 4: ['39', '30', '40']: ['welcome', 'brommel', 'change']: 平均边权 0.5091
+社区 5: ['4', '41', '37', '45', '72', '7']: ['done', 'normally', 'offbeat', 'story', 'seeks', 'film,']: 平均边权 0.4173
+社区 6: ['2', '62', '3', '0', '1']: ['henry', '( ullman )', 'brommel', 'writer', 'director']: 平均边权 0.5694
+社区 7: ['71', '61', '70', '63', '66', '67', '48', '68']: ['alex', 'wife', 'life,', 'son', 'typical', 'suburban', 'alex', 'family.']: 平均边权 0.4298
+社区 8: ['26', '29', '27', '28']: ['barbara', 'dorfman.', 'bain,', 'david']: 平均边权 0.4824
+社区 9: ['51', '56', '57', '52', '55', '50', '53', '59', '60', '54']: ['works', 'profession', 'mail', 'father', 'true', 'actually', '( sutherland ).', 'work ;', 'appearances,', 'covers']: 平均边权 0.2790
+社区 10: ['12', '38', '13', '58', '42', '14', '64', '31']: ['includes', 'casting', 'choice', 'order', 'see.', 'cast :', 'sammy', 'cast']: 平均边权 0.5031

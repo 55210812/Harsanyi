@@ -1,0 +1,173 @@
+---------- Players ----------
+Player 0: this?!
+Player 1: comedy,
+Player 2: horror
+Player 3: movie
+Player 4: nothing??
+Player 5: far
+Player 6: worst
+Player 7: movie
+Player 8: ever
+Player 9: seen.
+Player 10: especially
+Player 11: scene
+Player 12: romania
+Player 13: becomes
+Player 14: werewolf,
+Player 15: must
+Player 16: worst
+Player 17: scene
+Player 18: ever
+Player 19: made.
+Player 20: movie
+Player 21: funny,
+Player 22: scary
+Player 23: entertaining
+Player 24: all.
+Player 25: please
+Player 26: ( and
+Player 27: me,
+Player 28: think
+Player 29: anyone
+Player 30: suffer
+Player 31: movie )
+Player 32: favour
+Player 33: watch
+Player 34: movie!!
+Player 35: get
+Player 36: present,
+Player 37: throw
+Player 38: away
+Player 39: chop
+Player 40: pieces.
+---------- Rewards ----------
+v(): 0.11498212814331055	 ([])
+v(4,5,6,7,8,9): 7.749722480773926	 ([nothing??][far][worst][movie][ever][seen.])
+v(1,12,13,21,22,23,32,34,36,37,38): 7.408254623413086	 ([comedy,][romania][becomes][funny,][scary][entertaining][favour][movie!!][present,][throw][away])
+v(14,15,16,17,18): 7.0995283126831055	 ([werewolf,][must][worst][scene][ever])
+v(11,28,29,39): 2.1034364700317383	 ([scene][think][anyone][chop])
+v(24,25,26,27,30,31,33,35): 3.503444194793701	 ([all.][please][( and][me,][suffer][movie )][watch][get])
+v(0,2,3,10,19,20,40): 5.855072021484375	 ([this?!][horror][movie][especially][made.][movie][pieces.])
+v(1,4,5,6,7,8,9,12,13,21,22,23,32,34,36,37,38): 8.234088897705078	 ([comedy,][nothing??][far][worst][movie][ever][seen.][romania][becomes][funny,][scary][entertaining][favour][movie!!][present,][throw][away])
+v(4,5,6,7,8,9,14,15,16,17,18): 8.029693603515625	 ([nothing??][far][worst][movie][ever][seen.][werewolf,][must][worst][scene][ever])
+v(4,5,6,7,8,9,11,28,29,39): 8.042863845825195	 ([nothing??][far][worst][movie][ever][seen.][scene][think][anyone][chop])
+v(4,5,6,7,8,9,24,25,26,27,30,31,33,35): 7.806761741638184	 ([nothing??][far][worst][movie][ever][seen.][all.][please][( and][me,][suffer][movie )][watch][get])
+v(0,2,3,4,5,6,7,8,9,10,19,20,40): 8.22783088684082	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][made.][movie][pieces.])
+v(1,12,13,14,15,16,17,18,21,22,23,32,34,36,37,38): 7.850464820861816	 ([comedy,][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][favour][movie!!][present,][throw][away])
+v(1,11,12,13,21,22,23,28,29,32,34,36,37,38,39): 7.874200820922852	 ([comedy,][scene][romania][becomes][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop])
+v(1,12,13,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38): 7.936351776123047	 ([comedy,][romania][becomes][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away])
+v(0,1,2,3,10,12,13,19,20,21,22,23,32,34,36,37,38,40): 8.161931991577148	 ([this?!][comedy,][horror][movie][especially][romania][becomes][made.][movie][funny,][scary][entertaining][favour][movie!!][present,][throw][away][pieces.])
+v(11,14,15,16,17,18,28,29,39): 7.329380035400391	 ([scene][werewolf,][must][worst][scene][ever][think][anyone][chop])
+v(14,15,16,17,18,24,25,26,27,30,31,33,35): 7.221227645874023	 ([werewolf,][must][worst][scene][ever][all.][please][( and][me,][suffer][movie )][watch][get])
+v(0,2,3,10,14,15,16,17,18,19,20,40): 7.818557262420654	 ([this?!][horror][movie][especially][werewolf,][must][worst][scene][ever][made.][movie][pieces.])
+v(11,24,25,26,27,28,29,30,31,33,35,39): 3.3831350803375244	 ([scene][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop])
+v(0,2,3,10,11,19,20,28,29,39,40): 5.959843635559082	 ([this?!][horror][movie][especially][scene][made.][movie][think][anyone][chop][pieces.])
+v(0,2,3,10,19,20,24,25,26,27,30,31,33,35,40): 6.146989822387695	 ([this?!][horror][movie][especially][made.][movie][all.][please][( and][me,][suffer][movie )][watch][get][pieces.])
+v(1,4,5,6,7,8,9,12,13,14,15,16,17,18,21,22,23,32,34,36,37,38): 8.29229736328125	 ([comedy,][nothing??][far][worst][movie][ever][seen.][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][favour][movie!!][present,][throw][away])
+v(1,4,5,6,7,8,9,11,12,13,21,22,23,28,29,32,34,36,37,38,39): 8.335960388183594	 ([comedy,][nothing??][far][worst][movie][ever][seen.][scene][romania][becomes][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop])
+v(1,4,5,6,7,8,9,12,13,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38): 8.340767860412598	 ([comedy,][nothing??][far][worst][movie][ever][seen.][romania][becomes][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,19,20,21,22,23,32,34,36,37,38,40): 8.396261215209961	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][romania][becomes][made.][movie][funny,][scary][entertaining][favour][movie!!][present,][throw][away][pieces.])
+v(4,5,6,7,8,9,11,14,15,16,17,18,28,29,39): 8.204608917236328	 ([nothing??][far][worst][movie][ever][seen.][scene][werewolf,][must][worst][scene][ever][think][anyone][chop])
+v(4,5,6,7,8,9,14,15,16,17,18,24,25,26,27,30,31,33,35): 8.028285026550293	 ([nothing??][far][worst][movie][ever][seen.][werewolf,][must][worst][scene][ever][all.][please][( and][me,][suffer][movie )][watch][get])
+v(0,2,3,4,5,6,7,8,9,10,14,15,16,17,18,19,20,40): 8.27962875366211	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][werewolf,][must][worst][scene][ever][made.][movie][pieces.])
+v(4,5,6,7,8,9,11,24,25,26,27,28,29,30,31,33,35,39): 8.079571723937988	 ([nothing??][far][worst][movie][ever][seen.][scene][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop])
+v(0,2,3,4,5,6,7,8,9,10,11,19,20,28,29,39,40): 8.309904098510742	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][made.][movie][think][anyone][chop][pieces.])
+v(0,2,3,4,5,6,7,8,9,10,19,20,24,25,26,27,30,31,33,35,40): 8.14864730834961	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][made.][movie][all.][please][( and][me,][suffer][movie )][watch][get][pieces.])
+v(1,11,12,13,14,15,16,17,18,21,22,23,28,29,32,34,36,37,38,39): 7.976868629455566	 ([comedy,][scene][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop])
+v(1,12,13,14,15,16,17,18,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38): 7.9855427742004395	 ([comedy,][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away])
+v(0,1,2,3,10,12,13,14,15,16,17,18,19,20,21,22,23,32,34,36,37,38,40): 8.14352798461914	 ([this?!][comedy,][horror][movie][especially][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][favour][movie!!][present,][throw][away][pieces.])
+v(1,11,12,13,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 8.127037048339844	 ([comedy,][scene][romania][becomes][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop])
+v(0,1,2,3,10,11,12,13,19,20,21,22,23,28,29,32,34,36,37,38,39,40): 8.27098560333252	 ([this?!][comedy,][horror][movie][especially][scene][romania][becomes][made.][movie][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop][pieces.])
+v(0,1,2,3,10,12,13,19,20,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38,40): 8.195232391357422	 ([this?!][comedy,][horror][movie][especially][romania][becomes][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][pieces.])
+v(11,14,15,16,17,18,24,25,26,27,28,29,30,31,33,35,39): 7.282215595245361	 ([scene][werewolf,][must][worst][scene][ever][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop])
+v(0,2,3,10,11,14,15,16,17,18,19,20,28,29,39,40): 7.85972261428833	 ([this?!][horror][movie][especially][scene][werewolf,][must][worst][scene][ever][made.][movie][think][anyone][chop][pieces.])
+v(0,2,3,10,14,15,16,17,18,19,20,24,25,26,27,30,31,33,35,40): 7.712606430053711	 ([this?!][horror][movie][especially][werewolf,][must][worst][scene][ever][made.][movie][all.][please][( and][me,][suffer][movie )][watch][get][pieces.])
+v(0,2,3,10,11,19,20,24,25,26,27,28,29,30,31,33,35,39,40): 5.881959915161133	 ([this?!][horror][movie][especially][scene][made.][movie][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop][pieces.])
+v(1,4,5,6,7,8,9,11,12,13,14,15,16,17,18,21,22,23,28,29,32,34,36,37,38,39): 8.358194351196289	 ([comedy,][nothing??][far][worst][movie][ever][seen.][scene][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop])
+v(1,4,5,6,7,8,9,12,13,14,15,16,17,18,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38): 8.333841323852539	 ([comedy,][nothing??][far][worst][movie][ever][seen.][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,32,34,36,37,38,40): 8.404382705688477	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][favour][movie!!][present,][throw][away][pieces.])
+v(1,4,5,6,7,8,9,11,12,13,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 8.377347946166992	 ([comedy,][nothing??][far][worst][movie][ever][seen.][scene][romania][becomes][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,19,20,21,22,23,28,29,32,34,36,37,38,39,40): 8.449581146240234	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][romania][becomes][made.][movie][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop][pieces.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,19,20,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38,40): 8.394171714782715	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][romania][becomes][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][pieces.])
+v(4,5,6,7,8,9,11,14,15,16,17,18,24,25,26,27,28,29,30,31,33,35,39): 8.18115520477295	 ([nothing??][far][worst][movie][ever][seen.][scene][werewolf,][must][worst][scene][ever][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop])
+v(0,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,28,29,39,40): 8.342340469360352	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][werewolf,][must][worst][scene][ever][made.][movie][think][anyone][chop][pieces.])
+v(0,2,3,4,5,6,7,8,9,10,14,15,16,17,18,19,20,24,25,26,27,30,31,33,35,40): 8.19719409942627	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][werewolf,][must][worst][scene][ever][made.][movie][all.][please][( and][me,][suffer][movie )][watch][get][pieces.])
+v(0,2,3,4,5,6,7,8,9,10,11,19,20,24,25,26,27,28,29,30,31,33,35,39,40): 8.208856582641602	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][made.][movie][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop][pieces.])
+v(1,11,12,13,14,15,16,17,18,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 7.989083290100098	 ([comedy,][scene][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop])
+v(0,1,2,3,10,11,12,13,14,15,16,17,18,19,20,21,22,23,28,29,32,34,36,37,38,39,40): 8.19658088684082	 ([this?!][comedy,][horror][movie][especially][scene][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop][pieces.])
+v(0,1,2,3,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38,40): 8.121894836425781	 ([this?!][comedy,][horror][movie][especially][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][pieces.])
+v(0,1,2,3,10,11,12,13,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.226602554321289	 ([this?!][comedy,][horror][movie][especially][scene][romania][becomes][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop][pieces.])
+v(0,2,3,10,11,14,15,16,17,18,19,20,24,25,26,27,28,29,30,31,33,35,39,40): 7.705007553100586	 ([this?!][horror][movie][especially][scene][werewolf,][must][worst][scene][ever][made.][movie][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop][pieces.])
+v(1,4,5,6,7,8,9,11,12,13,14,15,16,17,18,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 8.359062194824219	 ([comedy,][nothing??][far][worst][movie][ever][seen.][scene][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,28,29,32,34,36,37,38,39,40): 8.438608169555664	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop][pieces.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38,40): 8.391524314880371	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][pieces.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.409004211425781	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][romania][becomes][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop][pieces.])
+v(0,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,24,25,26,27,28,29,30,31,33,35,39,40): 8.243345260620117	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][werewolf,][must][worst][scene][ever][made.][movie][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop][pieces.])
+v(0,1,2,3,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.092727661132812	 ([this?!][comedy,][horror][movie][especially][scene][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop][pieces.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.375984191894531	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop][pieces.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,19,20,21,22,23,28,29,32,34,36,37,38,39,40): 8.334598541259766, EP: 1.008908987045288	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][romania][becomes][made.][movie][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop][pieces.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,28,29,32,34,36,37,38,39,40): 8.323625564575195, EP: 1.0075806379318237	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop][pieces.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.294021606445312, EP: 1.0039970874786377	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][romania][becomes][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop][pieces.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,32,34,36,37,38,40): 8.289400100708008, EP: 1.0034376382827759	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][favour][movie!!][present,][throw][away][pieces.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,19,20,21,22,23,32,34,36,37,38,40): 8.281278610229492, EP: 1.0024545192718506	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][romania][becomes][made.][movie][funny,][scary][entertaining][favour][movie!!][present,][throw][away][pieces.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,19,20,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38,40): 8.279190063476562, EP: 1.0022016763687134	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][romania][becomes][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][pieces.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38,40): 8.276542663574219, EP: 1.0018812417984009	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][pieces.])
+v(1,4,5,6,7,8,9,11,12,13,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 8.262365341186523, EP: 1.0001651048660278	 ([comedy,][nothing??][far][worst][movie][ever][seen.][scene][romania][becomes][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.261001586914062, EP: 1.0	 ([this?!][comedy,][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop][pieces.])
+v(1,4,5,6,7,8,9,11,12,13,14,15,16,17,18,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 8.24407958984375, EP: 0.9979515671730042	 ([comedy,][nothing??][far][worst][movie][ever][seen.][scene][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop])
+v(1,4,5,6,7,8,9,11,12,13,14,15,16,17,18,21,22,23,28,29,32,34,36,37,38,39): 8.24321174621582, EP: 0.9978465437889099	 ([comedy,][nothing??][far][worst][movie][ever][seen.][scene][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop])
+v(0,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,28,29,39,40): 8.227357864379883, EP: 0.9959273934364319	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][werewolf,][must][worst][scene][ever][made.][movie][think][anyone][chop][pieces.])
+v(1,4,5,6,7,8,9,12,13,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38): 8.225786209106445, EP: 0.9957371354103088	 ([comedy,][nothing??][far][worst][movie][ever][seen.][romania][becomes][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away])
+v(1,4,5,6,7,8,9,11,12,13,21,22,23,28,29,32,34,36,37,38,39): 8.220977783203125, EP: 0.9951550960540771	 ([comedy,][nothing??][far][worst][movie][ever][seen.][scene][romania][becomes][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop])
+v(1,4,5,6,7,8,9,12,13,14,15,16,17,18,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38): 8.21885871887207, EP: 0.9948985576629639	 ([comedy,][nothing??][far][worst][movie][ever][seen.][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away])
+v(0,2,3,4,5,6,7,8,9,10,11,19,20,28,29,39,40): 8.194921493530273, EP: 0.992000937461853	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][made.][movie][think][anyone][chop][pieces.])
+v(1,4,5,6,7,8,9,12,13,14,15,16,17,18,21,22,23,32,34,36,37,38): 8.177314758300781, EP: 0.9898696541786194	 ([comedy,][nothing??][far][worst][movie][ever][seen.][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][favour][movie!!][present,][throw][away])
+v(0,2,3,4,5,6,7,8,9,10,14,15,16,17,18,19,20,40): 8.16464614868164, EP: 0.9883360862731934	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][werewolf,][must][worst][scene][ever][made.][movie][pieces.])
+v(0,1,2,3,10,11,12,13,19,20,21,22,23,28,29,32,34,36,37,38,39,40): 8.156003952026367, EP: 0.9872899651527405	 ([this?!][comedy,][horror][movie][especially][scene][romania][becomes][made.][movie][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop][pieces.])
+v(0,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,24,25,26,27,28,29,30,31,33,35,39,40): 8.128362655639648, EP: 0.9839439392089844	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][werewolf,][must][worst][scene][ever][made.][movie][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop][pieces.])
+v(1,4,5,6,7,8,9,12,13,21,22,23,32,34,36,37,38): 8.11910629272461, EP: 0.9828234910964966	 ([comedy,][nothing??][far][worst][movie][ever][seen.][romania][becomes][funny,][scary][entertaining][favour][movie!!][present,][throw][away])
+v(0,2,3,4,5,6,7,8,9,10,19,20,40): 8.112848281860352, EP: 0.9820659160614014	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][made.][movie][pieces.])
+v(0,1,2,3,10,11,12,13,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.11161994934082, EP: 0.9819172620773315	 ([this?!][comedy,][horror][movie][especially][scene][romania][becomes][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop][pieces.])
+v(0,2,3,4,5,6,7,8,9,10,11,19,20,24,25,26,27,28,29,30,31,33,35,39,40): 8.093873977661133, EP: 0.9797691106796265	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][scene][made.][movie][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop][pieces.])
+v(4,5,6,7,8,9,11,14,15,16,17,18,28,29,39): 8.08962631225586, EP: 0.9792549014091492	 ([nothing??][far][worst][movie][ever][seen.][scene][werewolf,][must][worst][scene][ever][think][anyone][chop])
+v(0,2,3,4,5,6,7,8,9,10,14,15,16,17,18,19,20,24,25,26,27,30,31,33,35,40): 8.082212448120117, EP: 0.9783574342727661	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][werewolf,][must][worst][scene][ever][made.][movie][all.][please][( and][me,][suffer][movie )][watch][get][pieces.])
+v(0,1,2,3,10,11,12,13,14,15,16,17,18,19,20,21,22,23,28,29,32,34,36,37,38,39,40): 8.081598281860352, EP: 0.9782831072807312	 ([this?!][comedy,][horror][movie][especially][scene][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop][pieces.])
+v(0,1,2,3,10,12,13,19,20,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38,40): 8.080249786376953, EP: 0.9781198501586914	 ([this?!][comedy,][horror][movie][especially][romania][becomes][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][pieces.])
+v(4,5,6,7,8,9,11,14,15,16,17,18,24,25,26,27,28,29,30,31,33,35,39): 8.066173553466797, EP: 0.9764159321784973	 ([nothing??][far][worst][movie][ever][seen.][scene][werewolf,][must][worst][scene][ever][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop])
+v(0,1,2,3,10,12,13,19,20,21,22,23,32,34,36,37,38,40): 8.04694938659668, EP: 0.9740888476371765	 ([this?!][comedy,][horror][movie][especially][romania][becomes][made.][movie][funny,][scary][entertaining][favour][movie!!][present,][throw][away][pieces.])
+v(0,2,3,4,5,6,7,8,9,10,19,20,24,25,26,27,30,31,33,35,40): 8.03366470336914, EP: 0.9724807143211365	 ([this?!][horror][movie][nothing??][far][worst][movie][ever][seen.][especially][made.][movie][all.][please][( and][me,][suffer][movie )][watch][get][pieces.])
+v(0,1,2,3,10,12,13,14,15,16,17,18,19,20,21,22,23,32,34,36,37,38,40): 8.028545379638672, EP: 0.9718610048294067	 ([this?!][comedy,][horror][movie][especially][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][favour][movie!!][present,][throw][away][pieces.])
+v(1,11,12,13,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 8.012054443359375, EP: 0.9698647856712341	 ([comedy,][scene][romania][becomes][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop])
+v(0,1,2,3,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38,40): 8.006912231445312, EP: 0.9692423343658447	 ([this?!][comedy,][horror][movie][especially][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][pieces.])
+v(0,1,2,3,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 7.977745532989502, EP: 0.9657116532325745	 ([this?!][comedy,][horror][movie][especially][scene][romania][becomes][werewolf,][must][worst][scene][ever][made.][movie][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop][pieces.])
+v(4,5,6,7,8,9,11,24,25,26,27,28,29,30,31,33,35,39): 7.964589595794678, EP: 0.9641191363334656	 ([nothing??][far][worst][movie][ever][seen.][scene][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop])
+v(4,5,6,7,8,9,11,28,29,39): 7.927881717681885, EP: 0.9596756100654602	 ([nothing??][far][worst][movie][ever][seen.][scene][think][anyone][chop])
+v(4,5,6,7,8,9,14,15,16,17,18): 7.9147114753723145, EP: 0.9580813646316528	 ([nothing??][far][worst][movie][ever][seen.][werewolf,][must][worst][scene][ever])
+v(4,5,6,7,8,9,14,15,16,17,18,24,25,26,27,30,31,33,35): 7.913302898406982, EP: 0.9579108357429504	 ([nothing??][far][worst][movie][ever][seen.][werewolf,][must][worst][scene][ever][all.][please][( and][me,][suffer][movie )][watch][get])
+v(1,11,12,13,14,15,16,17,18,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 7.874101161956787, EP: 0.9531654119491577	 ([comedy,][scene][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][all.][please][( and][me,][think][anyone][suffer][movie )][favour][watch][movie!!][get][present,][throw][away][chop])
+v(1,12,13,14,15,16,17,18,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38): 7.870560646057129, EP: 0.9527368545532227	 ([comedy,][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away])
+v(1,11,12,13,14,15,16,17,18,21,22,23,28,29,32,34,36,37,38,39): 7.861886501312256, EP: 0.9516868591308594	 ([comedy,][scene][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop])
+v(1,12,13,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38): 7.821369647979736, EP: 0.9467822313308716	 ([comedy,][romania][becomes][funny,][scary][entertaining][all.][please][( and][me,][suffer][movie )][favour][watch][movie!!][get][present,][throw][away])
+v(1,11,12,13,21,22,23,28,29,32,34,36,37,38,39): 7.759218692779541, EP: 0.9392588138580322	 ([comedy,][scene][romania][becomes][funny,][scary][entertaining][think][anyone][favour][movie!!][present,][throw][away][chop])
+v(0,2,3,10,11,14,15,16,17,18,19,20,28,29,39,40): 7.7447404861450195, EP: 0.9375062584877014	 ([this?!][horror][movie][especially][scene][werewolf,][must][worst][scene][ever][made.][movie][think][anyone][chop][pieces.])
+v(1,12,13,14,15,16,17,18,21,22,23,32,34,36,37,38): 7.735482692718506, EP: 0.9363855719566345	 ([comedy,][romania][becomes][werewolf,][must][worst][scene][ever][funny,][scary][entertaining][favour][movie!!][present,][throw][away])
+v(0,2,3,10,14,15,16,17,18,19,20,40): 7.703575134277344, EP: 0.9325231313705444	 ([this?!][horror][movie][especially][werewolf,][must][worst][scene][ever][made.][movie][pieces.])
+v(4,5,6,7,8,9,24,25,26,27,30,31,33,35): 7.691779613494873, EP: 0.93109530210495	 ([nothing??][far][worst][movie][ever][seen.][all.][please][( and][me,][suffer][movie )][watch][get])
+v(4,5,6,7,8,9): 7.634740352630615, EP: 0.9241906404495239	 ([nothing??][far][worst][movie][ever][seen.])
+v(0,2,3,10,14,15,16,17,18,19,20,24,25,26,27,30,31,33,35,40): 7.5976243019104, EP: 0.9196977019309998	 ([this?!][horror][movie][especially][werewolf,][must][worst][scene][ever][made.][movie][all.][please][( and][me,][suffer][movie )][watch][get][pieces.])
+v(0,2,3,10,11,14,15,16,17,18,19,20,24,25,26,27,28,29,30,31,33,35,39,40): 7.590025424957275, EP: 0.9187778830528259	 ([this?!][horror][movie][especially][scene][werewolf,][must][worst][scene][ever][made.][movie][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop][pieces.])
+v(1,12,13,21,22,23,32,34,36,37,38): 7.293272495269775, EP: 0.8828557133674622	 ([comedy,][romania][becomes][funny,][scary][entertaining][favour][movie!!][present,][throw][away])
+v(11,14,15,16,17,18,28,29,39): 7.21439790725708, EP: 0.8733078837394714	 ([scene][werewolf,][must][worst][scene][ever][think][anyone][chop])
+v(11,14,15,16,17,18,24,25,26,27,28,29,30,31,33,35,39): 7.167233467102051, EP: 0.8675985932350159	 ([scene][werewolf,][must][worst][scene][ever][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop])
+v(14,15,16,17,18,24,25,26,27,30,31,33,35): 7.106245517730713, EP: 0.860215961933136	 ([werewolf,][must][worst][scene][ever][all.][please][( and][me,][suffer][movie )][watch][get])
+v(14,15,16,17,18): 6.984546184539795, EP: 0.84548419713974	 ([werewolf,][must][worst][scene][ever])
+v(0,2,3,10,19,20,24,25,26,27,30,31,33,35,40): 6.032007694244385, EP: 0.730178713798523	 ([this?!][horror][movie][especially][made.][movie][all.][please][( and][me,][suffer][movie )][watch][get][pieces.])
+v(0,2,3,10,11,19,20,28,29,39,40): 5.8448615074157715, EP: 0.7075245380401611	 ([this?!][horror][movie][especially][scene][made.][movie][think][anyone][chop][pieces.])
+v(0,2,3,10,11,19,20,24,25,26,27,28,29,30,31,33,35,39,40): 5.766977787017822, EP: 0.6980966925621033	 ([this?!][horror][movie][especially][scene][made.][movie][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop][pieces.])
+v(0,2,3,10,19,20,40): 5.7400898933410645, EP: 0.6948418617248535	 ([this?!][horror][movie][especially][made.][movie][pieces.])
+v(24,25,26,27,30,31,33,35): 3.3884620666503906, EP: 0.4101756811141968	 ([all.][please][( and][me,][suffer][movie )][watch][get])
+v(11,24,25,26,27,28,29,30,31,33,35,39): 3.268152952194214, EP: 0.3956121802330017	 ([scene][all.][please][( and][me,][think][anyone][suffer][movie )][watch][get][chop])
+v(11,28,29,39): 1.9884543418884277, EP: 0.2407037913799286	 ([scene][think][anyone][chop])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

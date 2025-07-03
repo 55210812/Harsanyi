@@ -1,0 +1,88 @@
+---------- Players ----------
+Player 0: creators
+Player 1: south
+Player 2: park
+Player 3: film
+Player 4: here,
+Player 5: brilliant
+Player 6: film
+Player 7: huge
+Player 8: entertainment
+Player 9: factor.
+Player 10: like
+Player 11: naked
+Player 12: gun
+Player 13: films
+Player 14: young
+Player 15: mature
+Player 16: serious
+Player 17: humor,
+Player 18: love
+Player 19: this.
+---------- Rewards ----------
+v(): 1.1614657640457153	 ([])
+v(6,7,8): 6.321602821350098	 ([film][huge][entertainment])
+v(0,1,4,11): 1.2154346704483032	 ([creators][south][here,][naked])
+v(3,16,17,18): 2.3905773162841797	 ([film][serious][humor,][love])
+v(5,10,12,19): 7.73429536819458	 ([brilliant][like][gun][this.])
+v(2,9,13,14,15): 4.200729846954346	 ([park][factor.][films][young][mature])
+v(0,1,4,6,7,8,11): 5.448654651641846	 ([creators][south][here,][film][huge][entertainment][naked])
+v(3,6,7,8,16,17,18): 7.158575057983398	 ([film][film][huge][entertainment][serious][humor,][love])
+v(5,6,7,8,10,12,19): 7.544741630554199	 ([brilliant][film][huge][entertainment][like][gun][this.])
+v(2,6,7,8,9,13,14,15): 8.012235641479492	 ([park][film][huge][entertainment][factor.][films][young][mature])
+v(0,1,3,4,11,16,17,18): 1.109984040260315	 ([creators][south][film][here,][naked][serious][humor,][love])
+v(0,1,4,5,10,11,12,19): 6.293212890625	 ([creators][south][here,][brilliant][like][naked][gun][this.])
+v(0,1,2,4,9,11,13,14,15): 2.979456901550293	 ([creators][south][park][here,][factor.][naked][films][young][mature])
+v(3,5,10,12,16,17,18,19): 7.842487812042236	 ([film][brilliant][like][gun][serious][humor,][love][this.])
+v(2,3,9,13,14,15,16,17,18): 6.425997734069824	 ([park][film][factor.][films][young][mature][serious][humor,][love])
+v(2,5,9,10,12,13,14,15,19): 8.014199256896973	 ([park][brilliant][factor.][like][gun][films][young][mature][this.])
+v(0,1,3,4,6,7,8,11,16,17,18): 6.334769248962402	 ([creators][south][film][here,][film][huge][entertainment][naked][serious][humor,][love])
+v(0,1,4,5,6,7,8,10,11,12,19): 6.7077250480651855	 ([creators][south][here,][brilliant][film][huge][entertainment][like][naked][gun][this.])
+v(0,1,2,4,6,7,8,9,11,13,14,15): 8.129631042480469	 ([creators][south][park][here,][film][huge][entertainment][factor.][naked][films][young][mature])
+v(3,5,6,7,8,10,12,16,17,18,19): 7.60549259185791	 ([film][brilliant][film][huge][entertainment][like][gun][serious][humor,][love][this.])
+v(2,3,6,7,8,9,13,14,15,16,17,18): 8.418441772460938	 ([park][film][film][huge][entertainment][factor.][films][young][mature][serious][humor,][love])
+v(2,5,6,7,8,9,10,12,13,14,15,19): 7.5725860595703125	 ([park][brilliant][film][huge][entertainment][factor.][like][gun][films][young][mature][this.])
+v(0,1,3,4,5,10,11,12,16,17,18,19): 6.526698112487793	 ([creators][south][film][here,][brilliant][like][naked][gun][serious][humor,][love][this.])
+v(0,1,2,3,4,9,11,13,14,15,16,17,18): 5.570040225982666	 ([creators][south][park][film][here,][factor.][naked][films][young][mature][serious][humor,][love])
+v(0,1,2,4,5,9,10,11,12,13,14,15,19): 7.633130073547363	 ([creators][south][park][here,][brilliant][factor.][like][naked][gun][films][young][mature][this.])
+v(2,3,5,9,10,12,13,14,15,16,17,18,19): 8.129887580871582	 ([park][film][brilliant][factor.][like][gun][films][young][mature][serious][humor,][love][this.])
+v(0,1,3,4,5,6,7,8,10,11,12,16,17,18,19): 7.027453899383545	 ([creators][south][film][here,][brilliant][film][huge][entertainment][like][naked][gun][serious][humor,][love][this.])
+v(0,1,2,3,4,6,7,8,9,11,13,14,15,16,17,18): 8.233194351196289	 ([creators][south][park][film][here,][film][huge][entertainment][factor.][naked][films][young][mature][serious][humor,][love])
+v(0,1,2,4,5,6,7,8,9,10,11,12,13,14,15,19): 7.364311218261719	 ([creators][south][park][here,][brilliant][film][huge][entertainment][factor.][like][naked][gun][films][young][mature][this.])
+v(2,3,5,6,7,8,9,10,12,13,14,15,16,17,18,19): 7.700535774230957	 ([park][film][brilliant][film][huge][entertainment][factor.][like][gun][films][young][mature][serious][humor,][love][this.])
+v(0,1,2,3,4,5,9,10,11,12,13,14,15,16,17,18,19): 7.8357391357421875	 ([creators][south][park][film][here,][brilliant][factor.][like][naked][gun][films][young][mature][serious][humor,][love][this.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19): 7.708427429199219	 ([creators][south][park][film][here,][brilliant][film][huge][entertainment][factor.][like][naked][gun][films][young][mature][serious][humor,][love][this.])
+---------- Rewards-v() ----------
+v(2,3,6,7,8,9,13,14,15,16,17,18): 7.256976127624512, EP: 1.1084494590759277	 ([park][film][film][huge][entertainment][factor.][films][young][mature][serious][humor,][love])
+v(0,1,2,3,4,6,7,8,9,11,13,14,15,16,17,18): 7.071728706359863, EP: 1.080154299736023	 ([creators][south][park][film][here,][film][huge][entertainment][factor.][naked][films][young][mature][serious][humor,][love])
+v(2,3,5,9,10,12,13,14,15,16,17,18,19): 6.968421936035156, EP: 1.0643749237060547	 ([park][film][brilliant][factor.][like][gun][films][young][mature][serious][humor,][love][this.])
+v(0,1,2,4,6,7,8,9,11,13,14,15): 6.968165397644043, EP: 1.0643357038497925	 ([creators][south][park][here,][film][huge][entertainment][factor.][naked][films][young][mature])
+v(2,5,9,10,12,13,14,15,19): 6.852733612060547, EP: 1.0467044115066528	 ([park][brilliant][factor.][like][gun][films][young][mature][this.])
+v(2,6,7,8,9,13,14,15): 6.850769996643066, EP: 1.046404480934143	 ([park][film][huge][entertainment][factor.][films][young][mature])
+v(3,5,10,12,16,17,18,19): 6.6810221672058105, EP: 1.0204766988754272	 ([film][brilliant][like][gun][serious][humor,][love][this.])
+v(0,1,2,3,4,5,9,10,11,12,13,14,15,16,17,18,19): 6.674273490905762, EP: 1.0194458961486816	 ([creators][south][park][film][here,][brilliant][factor.][like][naked][gun][films][young][mature][serious][humor,][love][this.])
+v(5,10,12,19): 6.572829723358154, EP: 1.0039511919021606	 ([brilliant][like][gun][this.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19): 6.546961784362793, EP: 1.0	 ([creators][south][park][film][here,][brilliant][film][huge][entertainment][factor.][like][naked][gun][films][young][mature][serious][humor,][love][this.])
+v(2,3,5,6,7,8,9,10,12,13,14,15,16,17,18,19): 6.539070129394531, EP: 0.9987946152687073	 ([park][film][brilliant][film][huge][entertainment][factor.][like][gun][films][young][mature][serious][humor,][love][this.])
+v(0,1,2,4,5,9,10,11,12,13,14,15,19): 6.4716644287109375, EP: 0.988498866558075	 ([creators][south][park][here,][brilliant][factor.][like][naked][gun][films][young][mature][this.])
+v(3,5,6,7,8,10,12,16,17,18,19): 6.444026947021484, EP: 0.9842774868011475	 ([film][brilliant][film][huge][entertainment][like][gun][serious][humor,][love][this.])
+v(2,5,6,7,8,9,10,12,13,14,15,19): 6.411120414733887, EP: 0.9792512059211731	 ([park][brilliant][film][huge][entertainment][factor.][like][gun][films][young][mature][this.])
+v(5,6,7,8,10,12,19): 6.383275985717773, EP: 0.9749981760978699	 ([brilliant][film][huge][entertainment][like][gun][this.])
+v(0,1,2,4,5,6,7,8,9,10,11,12,13,14,15,19): 6.202845573425293, EP: 0.9474387764930725	 ([creators][south][park][here,][brilliant][film][huge][entertainment][factor.][like][naked][gun][films][young][mature][this.])
+v(3,6,7,8,16,17,18): 5.997109413146973, EP: 0.9160141348838806	 ([film][film][huge][entertainment][serious][humor,][love])
+v(0,1,3,4,5,6,7,8,10,11,12,16,17,18,19): 5.865988254547119, EP: 0.8959863185882568	 ([creators][south][film][here,][brilliant][film][huge][entertainment][like][naked][gun][serious][humor,][love][this.])
+v(0,1,4,5,6,7,8,10,11,12,19): 5.54625940322876, EP: 0.8471500873565674	 ([creators][south][here,][brilliant][film][huge][entertainment][like][naked][gun][this.])
+v(0,1,3,4,5,10,11,12,16,17,18,19): 5.365232467651367, EP: 0.8194996118545532	 ([creators][south][film][here,][brilliant][like][naked][gun][serious][humor,][love][this.])
+v(2,3,9,13,14,15,16,17,18): 5.264532089233398, EP: 0.8041183352470398	 ([park][film][factor.][films][young][mature][serious][humor,][love])
+v(0,1,3,4,6,7,8,11,16,17,18): 5.173303604125977, EP: 0.7901838421821594	 ([creators][south][film][here,][film][huge][entertainment][naked][serious][humor,][love])
+v(6,7,8): 5.160137176513672, EP: 0.7881727814674377	 ([film][huge][entertainment])
+v(0,1,4,5,10,11,12,19): 5.131747245788574, EP: 0.7838364243507385	 ([creators][south][here,][brilliant][like][naked][gun][this.])
+v(0,1,2,3,4,9,11,13,14,15,16,17,18): 4.40857458114624, EP: 0.6733771562576294	 ([creators][south][park][film][here,][factor.][naked][films][young][mature][serious][humor,][love])
+v(0,1,4,6,7,8,11): 4.28718900680542, EP: 0.6548364162445068	 ([creators][south][here,][film][huge][entertainment][naked])
+v(2,9,13,14,15): 3.03926420211792, EP: 0.4642251431941986	 ([park][factor.][films][young][mature])
+v(0,1,2,4,9,11,13,14,15): 1.8179911375045776, EP: 0.27768468856811523	 ([creators][south][park][here,][factor.][naked][films][young][mature])
+v(3,16,17,18): 1.2291115522384644, EP: 0.18773770332336426	 ([film][serious][humor,][love])
+v(0,1,4,11): 0.05396890640258789, EP: 0.008243351243436337	 ([creators][south][here,][naked])
+v(0,1,3,4,11,16,17,18): -0.05148172378540039, EP: -0.007863452658057213	 ([creators][south][film][here,][naked][serious][humor,][love])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

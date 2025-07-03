@@ -1,0 +1,161 @@
+---------- Players ----------
+Player 0: bad,
+Player 1: bad
+Player 2: movie.
+Player 3: i'm
+Player 4: actual
+Player 5: fencer :
+Player 6: trust
+Player 7: say
+Player 8: film's
+Player 9: pretension
+Player 10: accuracy
+Player 11: that.
+Player 12: especially
+Player 13: true
+Player 14: vile
+Player 15: little
+Player 16: scene
+Player 17: fencers
+Player 18: combining
+Player 19: footwork
+Player 20: 80's
+Player 21: pop.
+Player 22: ending
+Player 23: predictable,
+Player 24: movie
+Player 25: bore
+Player 26: start
+Player 27: finish.
+Player 28: horrible.
+---------- Rewards ----------
+v(): 0.6169325113296509	 ([])
+v(0,13,26,27,28): 6.731701850891113	 ([bad,][true][start][finish.][horrible.])
+v(1,7,21,23,24,25): 6.957090377807617	 ([bad][say][pop.][predictable,][movie][bore])
+v(3,5,6): -0.46495383977890015	 ([i'm][fencer :][trust])
+v(2,4,10,16,19,20,22): 1.4154832363128662	 ([movie.][actual][accuracy][scene][footwork][80's][ending])
+v(11,12,14,15): 3.9326815605163574	 ([that.][especially][vile][little])
+v(8,9,17,18): 0.21965351700782776	 ([film's][pretension][fencers][combining])
+v(0,1,7,13,21,23,24,25,26,27,28): 8.16763687133789	 ([bad,][bad][say][true][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,3,5,6,13,26,27,28): 7.0867085456848145	 ([bad,][i'm][fencer :][trust][true][start][finish.][horrible.])
+v(0,2,4,10,13,16,19,20,22,26,27,28): 7.528141498565674	 ([bad,][movie.][actual][accuracy][true][scene][footwork][80's][ending][start][finish.][horrible.])
+v(0,11,12,13,14,15,26,27,28): 6.9932861328125	 ([bad,][that.][especially][true][vile][little][start][finish.][horrible.])
+v(0,8,9,13,17,18,26,27,28): 6.62611198425293	 ([bad,][film's][pretension][true][fencers][combining][start][finish.][horrible.])
+v(1,3,5,6,7,21,23,24,25): 7.191405296325684	 ([bad][i'm][fencer :][trust][say][pop.][predictable,][movie][bore])
+v(1,2,4,7,10,16,19,20,21,22,23,24,25): 7.951415538787842	 ([bad][movie.][actual][say][accuracy][scene][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(1,7,11,12,14,15,21,23,24,25): 7.213747501373291	 ([bad][say][that.][especially][vile][little][pop.][predictable,][movie][bore])
+v(1,7,8,9,17,18,21,23,24,25): 7.375151634216309	 ([bad][say][film's][pretension][fencers][combining][pop.][predictable,][movie][bore])
+v(2,3,4,5,6,10,16,19,20,22): 1.3955211639404297	 ([movie.][i'm][actual][fencer :][trust][accuracy][scene][footwork][80's][ending])
+v(3,5,6,11,12,14,15): 3.8757717609405518	 ([i'm][fencer :][trust][that.][especially][vile][little])
+v(3,5,6,8,9,17,18): 2.4460198879241943	 ([i'm][fencer :][trust][film's][pretension][fencers][combining])
+v(2,4,10,11,12,14,15,16,19,20,22): 2.5921852588653564	 ([movie.][actual][accuracy][that.][especially][vile][little][scene][footwork][80's][ending])
+v(2,4,8,9,10,16,17,18,19,20,22): 3.0339438915252686	 ([movie.][actual][film's][pretension][accuracy][scene][fencers][combining][footwork][80's][ending])
+v(8,9,11,12,14,15,17,18): 2.595799684524536	 ([film's][pretension][that.][especially][vile][little][fencers][combining])
+v(0,1,3,5,6,7,13,21,23,24,25,26,27,28): 8.342742919921875	 ([bad,][bad][i'm][fencer :][trust][say][true][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,2,4,7,10,13,16,19,20,21,22,23,24,25,26,27,28): 8.359457969665527	 ([bad,][bad][movie.][actual][say][accuracy][true][scene][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,7,11,12,13,14,15,21,23,24,25,26,27,28): 8.063848495483398	 ([bad,][bad][say][that.][especially][true][vile][little][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,7,8,9,13,17,18,21,23,24,25,26,27,28): 8.203466415405273	 ([bad,][bad][say][film's][pretension][true][fencers][combining][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,2,3,4,5,6,10,13,16,19,20,22,26,27,28): 7.808163642883301	 ([bad,][movie.][i'm][actual][fencer :][trust][accuracy][true][scene][footwork][80's][ending][start][finish.][horrible.])
+v(0,3,5,6,11,12,13,14,15,26,27,28): 7.481586456298828	 ([bad,][i'm][fencer :][trust][that.][especially][true][vile][little][start][finish.][horrible.])
+v(0,3,5,6,8,9,13,17,18,26,27,28): 7.560395240783691	 ([bad,][i'm][fencer :][trust][film's][pretension][true][fencers][combining][start][finish.][horrible.])
+v(0,2,4,10,11,12,13,14,15,16,19,20,22,26,27,28): 7.585267066955566	 ([bad,][movie.][actual][accuracy][that.][especially][true][vile][little][scene][footwork][80's][ending][start][finish.][horrible.])
+v(0,2,4,8,9,10,13,16,17,18,19,20,22,26,27,28): 7.71160888671875	 ([bad,][movie.][actual][film's][pretension][accuracy][true][scene][fencers][combining][footwork][80's][ending][start][finish.][horrible.])
+v(0,8,9,11,12,13,14,15,17,18,26,27,28): 6.563825607299805	 ([bad,][film's][pretension][that.][especially][true][vile][little][fencers][combining][start][finish.][horrible.])
+v(1,2,3,4,5,6,7,10,16,19,20,21,22,23,24,25): 8.092063903808594	 ([bad][movie.][i'm][actual][fencer :][trust][say][accuracy][scene][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(1,3,5,6,7,11,12,14,15,21,23,24,25): 7.544377326965332	 ([bad][i'm][fencer :][trust][say][that.][especially][vile][little][pop.][predictable,][movie][bore])
+v(1,3,5,6,7,8,9,17,18,21,23,24,25): 7.750983238220215	 ([bad][i'm][fencer :][trust][say][film's][pretension][fencers][combining][pop.][predictable,][movie][bore])
+v(1,2,4,7,10,11,12,14,15,16,19,20,21,22,23,24,25): 7.860674858093262	 ([bad][movie.][actual][say][accuracy][that.][especially][vile][little][scene][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(1,2,4,7,8,9,10,16,17,18,19,20,21,22,23,24,25): 8.164902687072754	 ([bad][movie.][actual][say][film's][pretension][accuracy][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(1,7,8,9,11,12,14,15,17,18,21,23,24,25): 7.367508888244629	 ([bad][say][film's][pretension][that.][especially][vile][little][fencers][combining][pop.][predictable,][movie][bore])
+v(2,3,4,5,6,10,11,12,14,15,16,19,20,22): 0.6976434588432312	 ([movie.][i'm][actual][fencer :][trust][accuracy][that.][especially][vile][little][scene][footwork][80's][ending])
+v(2,3,4,5,6,8,9,10,16,17,18,19,20,22): 5.256131172180176	 ([movie.][i'm][actual][fencer :][trust][film's][pretension][accuracy][scene][fencers][combining][footwork][80's][ending])
+v(3,5,6,8,9,11,12,14,15,17,18): 6.4508891105651855	 ([i'm][fencer :][trust][film's][pretension][that.][especially][vile][little][fencers][combining])
+v(2,4,8,9,10,11,12,14,15,16,17,18,19,20,22): 6.162784576416016	 ([movie.][actual][film's][pretension][accuracy][that.][especially][vile][little][scene][fencers][combining][footwork][80's][ending])
+v(0,1,2,3,4,5,6,7,10,13,16,19,20,21,22,23,24,25,26,27,28): 8.458205223083496	 ([bad,][bad][movie.][i'm][actual][fencer :][trust][say][accuracy][true][scene][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,3,5,6,7,11,12,13,14,15,21,23,24,25,26,27,28): 8.341591835021973	 ([bad,][bad][i'm][fencer :][trust][say][that.][especially][true][vile][little][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,3,5,6,7,8,9,13,17,18,21,23,24,25,26,27,28): 8.42529296875	 ([bad,][bad][i'm][fencer :][trust][say][film's][pretension][true][fencers][combining][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,2,4,7,10,11,12,13,14,15,16,19,20,21,22,23,24,25,26,27,28): 8.293180465698242	 ([bad,][bad][movie.][actual][say][accuracy][that.][especially][true][vile][little][scene][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,2,4,7,8,9,10,13,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.4271879196167	 ([bad,][bad][movie.][actual][say][film's][pretension][accuracy][true][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,7,8,9,11,12,13,14,15,17,18,21,23,24,25,26,27,28): 8.107552528381348	 ([bad,][bad][say][film's][pretension][that.][especially][true][vile][little][fencers][combining][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,2,3,4,5,6,10,11,12,13,14,15,16,19,20,22,26,27,28): 7.819516181945801	 ([bad,][movie.][i'm][actual][fencer :][trust][accuracy][that.][especially][true][vile][little][scene][footwork][80's][ending][start][finish.][horrible.])
+v(0,2,3,4,5,6,8,9,10,13,16,17,18,19,20,22,26,27,28): 8.045141220092773	 ([bad,][movie.][i'm][actual][fencer :][trust][film's][pretension][accuracy][true][scene][fencers][combining][footwork][80's][ending][start][finish.][horrible.])
+v(0,3,5,6,8,9,11,12,13,14,15,17,18,26,27,28): 7.700326919555664	 ([bad,][i'm][fencer :][trust][film's][pretension][that.][especially][true][vile][little][fencers][combining][start][finish.][horrible.])
+v(0,2,4,8,9,10,11,12,13,14,15,16,17,18,19,20,22,26,27,28): 7.914663314819336	 ([bad,][movie.][actual][film's][pretension][accuracy][that.][especially][true][vile][little][scene][fencers][combining][footwork][80's][ending][start][finish.][horrible.])
+v(1,2,3,4,5,6,7,10,11,12,14,15,16,19,20,21,22,23,24,25): 8.006328582763672	 ([bad][movie.][i'm][actual][fencer :][trust][say][accuracy][that.][especially][vile][little][scene][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(1,2,3,4,5,6,7,8,9,10,16,17,18,19,20,21,22,23,24,25): 8.24319839477539	 ([bad][movie.][i'm][actual][fencer :][trust][say][film's][pretension][accuracy][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(1,3,5,6,7,8,9,11,12,14,15,17,18,21,23,24,25): 7.885188579559326	 ([bad][i'm][fencer :][trust][say][film's][pretension][that.][especially][vile][little][fencers][combining][pop.][predictable,][movie][bore])
+v(1,2,4,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25): 8.159405708312988	 ([bad][movie.][actual][say][film's][pretension][accuracy][that.][especially][vile][little][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(2,3,4,5,6,8,9,10,11,12,14,15,16,17,18,19,20,22): 7.61666202545166	 ([movie.][i'm][actual][fencer :][trust][film's][pretension][accuracy][that.][especially][vile][little][scene][fencers][combining][footwork][80's][ending])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,19,20,21,22,23,24,25,26,27,28): 8.445028305053711	 ([bad,][bad][movie.][i'm][actual][fencer :][trust][say][accuracy][that.][especially][true][vile][little][scene][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.523273468017578	 ([bad,][bad][movie.][i'm][actual][fencer :][trust][say][film's][pretension][accuracy][true][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,3,5,6,7,8,9,11,12,13,14,15,17,18,21,23,24,25,26,27,28): 8.379438400268555	 ([bad,][bad][i'm][fencer :][trust][say][film's][pretension][that.][especially][true][vile][little][fencers][combining][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,2,4,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.436979293823242	 ([bad,][bad][movie.][actual][say][film's][pretension][accuracy][that.][especially][true][vile][little][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(0,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,22,26,27,28): 8.165943145751953	 ([bad,][movie.][i'm][actual][fencer :][trust][film's][pretension][accuracy][that.][especially][true][vile][little][scene][fencers][combining][footwork][80's][ending][start][finish.][horrible.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25): 8.22498893737793	 ([bad][movie.][i'm][actual][fencer :][trust][say][film's][pretension][accuracy][that.][especially][vile][little][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.536703109741211	 ([bad,][bad][movie.][i'm][actual][fencer :][trust][say][film's][pretension][accuracy][that.][especially][true][vile][little][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 7.91977071762085, EP: 1.0	 ([bad,][bad][movie.][i'm][actual][fencer :][trust][say][film's][pretension][accuracy][that.][especially][true][vile][little][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,16,17,18,19,20,21,22,23,24,25,26,27,28): 7.906341075897217, EP: 0.9983043074607849	 ([bad,][bad][movie.][i'm][actual][fencer :][trust][say][film's][pretension][accuracy][true][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,2,3,4,5,6,7,10,13,16,19,20,21,22,23,24,25,26,27,28): 7.841272830963135, EP: 0.9900883436203003	 ([bad,][bad][movie.][i'm][actual][fencer :][trust][say][accuracy][true][scene][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,19,20,21,22,23,24,25,26,27,28): 7.82809591293335, EP: 0.98842453956604	 ([bad,][bad][movie.][i'm][actual][fencer :][trust][say][accuracy][that.][especially][true][vile][little][scene][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,2,4,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 7.820046901702881, EP: 0.9874082207679749	 ([bad,][bad][movie.][actual][say][film's][pretension][accuracy][that.][especially][true][vile][little][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,2,4,7,8,9,10,13,16,17,18,19,20,21,22,23,24,25,26,27,28): 7.810255527496338, EP: 0.9861719012260437	 ([bad,][bad][movie.][actual][say][film's][pretension][accuracy][true][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,3,5,6,7,8,9,13,17,18,21,23,24,25,26,27,28): 7.808360576629639, EP: 0.9859326481819153	 ([bad,][bad][i'm][fencer :][trust][say][film's][pretension][true][fencers][combining][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,3,5,6,7,8,9,11,12,13,14,15,17,18,21,23,24,25,26,27,28): 7.762506008148193, EP: 0.9801427721977234	 ([bad,][bad][i'm][fencer :][trust][say][film's][pretension][that.][especially][true][vile][little][fencers][combining][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,2,4,7,10,13,16,19,20,21,22,23,24,25,26,27,28): 7.742525577545166, EP: 0.9776198863983154	 ([bad,][bad][movie.][actual][say][accuracy][true][scene][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,3,5,6,7,13,21,23,24,25,26,27,28): 7.725810527801514, EP: 0.9755093455314636	 ([bad,][bad][i'm][fencer :][trust][say][true][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,3,5,6,7,11,12,13,14,15,21,23,24,25,26,27,28): 7.724659442901611, EP: 0.9753640294075012	 ([bad,][bad][i'm][fencer :][trust][say][that.][especially][true][vile][little][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,2,4,7,10,11,12,13,14,15,16,19,20,21,22,23,24,25,26,27,28): 7.676248073577881, EP: 0.969251275062561	 ([bad,][bad][movie.][actual][say][accuracy][that.][especially][true][vile][little][scene][footwork][80's][pop.][ending][predictable,][movie][bore][start][finish.][horrible.])
+v(1,2,3,4,5,6,7,8,9,10,16,17,18,19,20,21,22,23,24,25): 7.626266002655029, EP: 0.9629402756690979	 ([bad][movie.][i'm][actual][fencer :][trust][say][film's][pretension][accuracy][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25): 7.608056545257568, EP: 0.9606410264968872	 ([bad][movie.][i'm][actual][fencer :][trust][say][film's][pretension][accuracy][that.][especially][vile][little][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(0,1,7,8,9,13,17,18,21,23,24,25,26,27,28): 7.586534023284912, EP: 0.957923412322998	 ([bad,][bad][say][film's][pretension][true][fencers][combining][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,1,7,13,21,23,24,25,26,27,28): 7.550704479217529, EP: 0.9533993601799011	 ([bad,][bad][say][true][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,22,26,27,28): 7.549010753631592, EP: 0.953185498714447	 ([bad,][movie.][i'm][actual][fencer :][trust][film's][pretension][accuracy][that.][especially][true][vile][little][scene][fencers][combining][footwork][80's][ending][start][finish.][horrible.])
+v(1,2,4,7,8,9,10,16,17,18,19,20,21,22,23,24,25): 7.547970294952393, EP: 0.9530541300773621	 ([bad][movie.][actual][say][film's][pretension][accuracy][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(1,2,4,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25): 7.542473316192627, EP: 0.9523600339889526	 ([bad][movie.][actual][say][film's][pretension][accuracy][that.][especially][vile][little][scene][fencers][combining][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(0,1,7,8,9,11,12,13,14,15,17,18,21,23,24,25,26,27,28): 7.490620136260986, EP: 0.9458127617835999	 ([bad,][bad][say][film's][pretension][that.][especially][true][vile][little][fencers][combining][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(1,2,3,4,5,6,7,10,16,19,20,21,22,23,24,25): 7.475131511688232, EP: 0.9438570737838745	 ([bad][movie.][i'm][actual][fencer :][trust][say][accuracy][scene][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(0,1,7,11,12,13,14,15,21,23,24,25,26,27,28): 7.446916103363037, EP: 0.9402943849563599	 ([bad,][bad][say][that.][especially][true][vile][little][pop.][predictable,][movie][bore][start][finish.][horrible.])
+v(0,2,3,4,5,6,8,9,10,13,16,17,18,19,20,22,26,27,28): 7.428208827972412, EP: 0.9379323124885559	 ([bad,][movie.][i'm][actual][fencer :][trust][film's][pretension][accuracy][true][scene][fencers][combining][footwork][80's][ending][start][finish.][horrible.])
+v(1,2,3,4,5,6,7,10,11,12,14,15,16,19,20,21,22,23,24,25): 7.3893961906433105, EP: 0.9330315589904785	 ([bad][movie.][i'm][actual][fencer :][trust][say][accuracy][that.][especially][vile][little][scene][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(1,2,4,7,10,16,19,20,21,22,23,24,25): 7.3344831466674805, EP: 0.9260979294776917	 ([bad][movie.][actual][say][accuracy][scene][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(0,2,4,8,9,10,11,12,13,14,15,16,17,18,19,20,22,26,27,28): 7.297730922698975, EP: 0.9214573502540588	 ([bad,][movie.][actual][film's][pretension][accuracy][that.][especially][true][vile][little][scene][fencers][combining][footwork][80's][ending][start][finish.][horrible.])
+v(1,3,5,6,7,8,9,11,12,14,15,17,18,21,23,24,25): 7.268256187438965, EP: 0.9177356958389282	 ([bad][i'm][fencer :][trust][say][film's][pretension][that.][especially][vile][little][fencers][combining][pop.][predictable,][movie][bore])
+v(1,2,4,7,10,11,12,14,15,16,19,20,21,22,23,24,25): 7.2437424659729, EP: 0.9146404266357422	 ([bad][movie.][actual][say][accuracy][that.][especially][vile][little][scene][footwork][80's][pop.][ending][predictable,][movie][bore])
+v(0,2,3,4,5,6,10,11,12,13,14,15,16,19,20,22,26,27,28): 7.2025837898254395, EP: 0.9094434976577759	 ([bad,][movie.][i'm][actual][fencer :][trust][accuracy][that.][especially][true][vile][little][scene][footwork][80's][ending][start][finish.][horrible.])
+v(0,2,3,4,5,6,10,13,16,19,20,22,26,27,28): 7.1912312507629395, EP: 0.9080100059509277	 ([bad,][movie.][i'm][actual][fencer :][trust][accuracy][true][scene][footwork][80's][ending][start][finish.][horrible.])
+v(1,3,5,6,7,8,9,17,18,21,23,24,25): 7.1340508460998535, EP: 0.9007900953292847	 ([bad][i'm][fencer :][trust][say][film's][pretension][fencers][combining][pop.][predictable,][movie][bore])
+v(0,2,4,8,9,10,13,16,17,18,19,20,22,26,27,28): 7.094676494598389, EP: 0.8958184123039246	 ([bad,][movie.][actual][film's][pretension][accuracy][true][scene][fencers][combining][footwork][80's][ending][start][finish.][horrible.])
+v(0,3,5,6,8,9,11,12,13,14,15,17,18,26,27,28): 7.083394527435303, EP: 0.8943938612937927	 ([bad,][i'm][fencer :][trust][film's][pretension][that.][especially][true][vile][little][fencers][combining][start][finish.][horrible.])
+v(2,3,4,5,6,8,9,10,11,12,14,15,16,17,18,19,20,22): 6.999729633331299, EP: 0.8838298320770264	 ([movie.][i'm][actual][fencer :][trust][film's][pretension][accuracy][that.][especially][vile][little][scene][fencers][combining][footwork][80's][ending])
+v(0,2,4,10,11,12,13,14,15,16,19,20,22,26,27,28): 6.968334674835205, EP: 0.8798657059669495	 ([bad,][movie.][actual][accuracy][that.][especially][true][vile][little][scene][footwork][80's][ending][start][finish.][horrible.])
+v(0,3,5,6,8,9,13,17,18,26,27,28): 6.94346284866333, EP: 0.8767252564430237	 ([bad,][i'm][fencer :][trust][film's][pretension][true][fencers][combining][start][finish.][horrible.])
+v(1,3,5,6,7,11,12,14,15,21,23,24,25): 6.927444934844971, EP: 0.8747026920318604	 ([bad][i'm][fencer :][trust][say][that.][especially][vile][little][pop.][predictable,][movie][bore])
+v(0,2,4,10,13,16,19,20,22,26,27,28): 6.9112091064453125, EP: 0.8726526498794556	 ([bad,][movie.][actual][accuracy][true][scene][footwork][80's][ending][start][finish.][horrible.])
+v(0,3,5,6,11,12,13,14,15,26,27,28): 6.864654064178467, EP: 0.866774320602417	 ([bad,][i'm][fencer :][trust][that.][especially][true][vile][little][start][finish.][horrible.])
+v(1,7,8,9,17,18,21,23,24,25): 6.758219242095947, EP: 0.8533352017402649	 ([bad][say][film's][pretension][fencers][combining][pop.][predictable,][movie][bore])
+v(1,7,8,9,11,12,14,15,17,18,21,23,24,25): 6.750576496124268, EP: 0.8523702025413513	 ([bad][say][film's][pretension][that.][especially][vile][little][fencers][combining][pop.][predictable,][movie][bore])
+v(1,7,11,12,14,15,21,23,24,25): 6.59681510925293, EP: 0.8329553008079529	 ([bad][say][that.][especially][vile][little][pop.][predictable,][movie][bore])
+v(1,3,5,6,7,21,23,24,25): 6.574472904205322, EP: 0.8301342725753784	 ([bad][i'm][fencer :][trust][say][pop.][predictable,][movie][bore])
+v(0,3,5,6,13,26,27,28): 6.469776153564453, EP: 0.8169145584106445	 ([bad,][i'm][fencer :][trust][true][start][finish.][horrible.])
+v(0,11,12,13,14,15,26,27,28): 6.376353740692139, EP: 0.8051185011863708	 ([bad,][that.][especially][true][vile][little][start][finish.][horrible.])
+v(1,7,21,23,24,25): 6.340157985687256, EP: 0.8005481958389282	 ([bad][say][pop.][predictable,][movie][bore])
+v(0,13,26,27,28): 6.114769458770752, EP: 0.7720891833305359	 ([bad,][true][start][finish.][horrible.])
+v(0,8,9,13,17,18,26,27,28): 6.009179592132568, EP: 0.7587567567825317	 ([bad,][film's][pretension][true][fencers][combining][start][finish.][horrible.])
+v(0,8,9,11,12,13,14,15,17,18,26,27,28): 5.946893215179443, EP: 0.7508921027183533	 ([bad,][film's][pretension][that.][especially][true][vile][little][fencers][combining][start][finish.][horrible.])
+v(3,5,6,8,9,11,12,14,15,17,18): 5.833956718444824, EP: 0.7366320490837097	 ([i'm][fencer :][trust][film's][pretension][that.][especially][vile][little][fencers][combining])
+v(2,4,8,9,10,11,12,14,15,16,17,18,19,20,22): 5.545852184295654, EP: 0.7002541422843933	 ([movie.][actual][film's][pretension][accuracy][that.][especially][vile][little][scene][fencers][combining][footwork][80's][ending])
+v(2,3,4,5,6,8,9,10,16,17,18,19,20,22): 4.6391987800598145, EP: 0.5857743620872498	 ([movie.][i'm][actual][fencer :][trust][film's][pretension][accuracy][scene][fencers][combining][footwork][80's][ending])
+v(11,12,14,15): 3.315749168395996, EP: 0.4186673164367676	 ([that.][especially][vile][little])
+v(3,5,6,11,12,14,15): 3.2588391304016113, EP: 0.41148149967193604	 ([i'm][fencer :][trust][that.][especially][vile][little])
+v(2,4,8,9,10,16,17,18,19,20,22): 2.417011260986328, EP: 0.30518701672554016	 ([movie.][actual][film's][pretension][accuracy][scene][fencers][combining][footwork][80's][ending])
+v(8,9,11,12,14,15,17,18): 1.9788671731948853, EP: 0.24986420571804047	 ([film's][pretension][that.][especially][vile][little][fencers][combining])
+v(2,4,10,11,12,14,15,16,19,20,22): 1.9752527475357056, EP: 0.2494078129529953	 ([movie.][actual][accuracy][that.][especially][vile][little][scene][footwork][80's][ending])
+v(3,5,6,8,9,17,18): 1.8290873765945435, EP: 0.23095206916332245	 ([i'm][fencer :][trust][film's][pretension][fencers][combining])
+v(3,5,6): -1.0818862915039062, EP: -0.13660575449466705	 ([i'm][fencer :][trust])
+v(2,4,10,16,19,20,22): 0.7985507249832153, EP: 0.10083003342151642	 ([movie.][actual][accuracy][scene][footwork][80's][ending])
+v(2,3,4,5,6,10,16,19,20,22): 0.7785886526107788, EP: 0.09830949455499649	 ([movie.][i'm][actual][fencer :][trust][accuracy][scene][footwork][80's][ending])
+v(8,9,17,18): -0.3972789943218231, EP: -0.050162941217422485	 ([film's][pretension][fencers][combining])
+v(2,3,4,5,6,10,11,12,14,15,16,19,20,22): 0.08071094751358032, EP: 0.010191070847213268	 ([movie.][i'm][actual][fencer :][trust][accuracy][that.][especially][vile][little][scene][footwork][80's][ending])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

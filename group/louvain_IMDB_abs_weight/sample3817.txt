@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['12', '19', '13', '11', '41', '53', '42', '10']: ['admit', 'time.', 'it.', 'hate', 'movies.', '1940s.', 'fell', 'though']: 平均边权 0.9801
+社区 2: ['50', '51', '49', '52', '54']: ['adventures', 'grand', 'dopey', 'canyon', 'script']: 平均边权 0.8346
+社区 3: ['2', '4', '1', '6']: ['man!', 'crummy', 'oh', 'guilty']: 平均边权 1.0865
+社区 4: ['55', '56', '5', '57', '58']: ['makes', 'almost', 'film - making!', 'sense,', 'direction']: 平均边权 1.1633
+社区 5: ['48', '46', '44', '43', '45', '40', '47']: ['loved', 'brooke', 'love', 'lust', 'young', 'one', 'shields']: 平均边权 0.6927
+社区 6: ['0', '25', '34', '29', '18', '16', '3', '33', '14', '7']: ['man', 'border', 'showed', 'g', 'system', 'basic', 'piece', 'basically', 'showed', 'pleasure']: 平均边权 0.7799
+社区 7: ['8', '20', '21', '39', '15', '23', '22', '9', '24', '26']: ['childhood', 'grew', 'san', 'nevada', 'movie', 'california', 'jose,', 'even', '( right', 'cupertino )']: 平均边权 0.4256
+社区 8: ['35', '38', '37', '36']: ['one', 'wanda', 'again.', 'movie']: 平均边权 0.3713
+社区 9: ['30', '27', '32', '17', '31', '28']: ['channel', 'thing', 'system.', 'cable', 'cable', 'called']: 平均边权 0.4025

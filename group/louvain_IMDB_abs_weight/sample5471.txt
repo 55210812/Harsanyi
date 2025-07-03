@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['17', '18', '19']: ['kirk,', 'spock', 'mccoy']: 平均边权 2.4935
+社区 2: ['2', '4', '3', '23', '0', '1']: ['compelling', 'believable', 'strangely', 'seem', "there's", 'something']: 平均边权 0.9665
+社区 3: ['38', '36', '45', '43', '37', '44', '24', '10']: ['crisis', 'gone', 'hurled', 'find', 'interrupted', 'unexpectedly', 'left', 'knowledge']: 平均边权 0.5736
+社区 4: ['12', '11', '48', '8', '9', '60', '7']: ['planet', 'certain', "planet's", 'tension', 'created', 'stranded', 'atmosphere']: 平均边权 0.5805
+社区 5: ['39', '41', '40', '42']: ['three', 'crew', 'enterprise', 'members']: 平均边权 0.8336
+社区 6: ['56', '57', '46', '49', '58', '47', '52', '55', '50', '53', '59', '51', '54']: ['century', 'england,', 'different', 'past.', 'spock', 'eras', 'time', '17th', 'kirk', 'period', 'mccoy', 'finds', 'resembling']: 平均边权 0.5014
+社区 7: ['13', '16', '15']: ['going', 'hours.', 'within']: 平均边权 1.0348
+社区 8: ['30', '5', '6', '14']: ['librarian.', 'episode.', 'beginning,', 'explode']: 平均边权 0.7752
+社区 9: ['25', '26', '27']: ['already', 'parts', 'unknown,']: 平均边权 0.4191
+社区 10: ['20', '35', '32', '29', '21', '34', '22', '33', '28', '31']: ['beamed', 'citizens', 'polite', 'elderly', 'evacuate', 'advice', 'inhabitants,', 'cryptic', 'except', "librarian's"]: 平均边权 0.2764

@@ -1,0 +1,168 @@
+---------- Players ----------
+Player 0: mess!!
+Player 1: movie
+Player 2: made?
+Player 3: this,
+Player 4: movies
+Player 5: caliber
+Player 6: "
+Player 7: teaching
+Player 8: tools
+Player 9: make
+Player 10: movie.
+Player 11: children
+Player 12: may
+Player 13: like
+Player 14: it,
+Player 15: anyone
+Player 16: 10
+Player 17: may
+Player 18: disapprove.
+Player 19: make
+Player 20: matters
+Player 21: worse
+Player 22: fact
+Player 23: great
+Player 24: talent
+Player 25: like
+Player 26: whoopi
+Player 27: goldberg
+Player 28: armin
+Player 29: mueller
+Player 30: stahl
+Player 31: entirely
+Player 32: wasted
+Player 33: film
+Player 34: unworthy
+Player 35: notice. "
+---------- Rewards ----------
+v(): 3.5751686096191406	 ([])
+v(0,3,9,10,32): 6.904099464416504	 ([mess!!][this,][make][movie.][wasted])
+v(5,30,31,33,34): 5.033509254455566	 ([caliber][stahl][entirely][film][unworthy])
+v(2,4,22,23): 5.669970512390137	 ([made?][movies][fact][great])
+v(8,14,16,17,18,19,20,21,35): 6.3258771896362305	 ([tools][it,][10][may][disapprove.][make][matters][worse][notice. "])
+v(6,7,12,13,15): 4.935334205627441	 (["][teaching][may][like][anyone])
+v(1,11,24,25,26,27,28,29): 2.7578797340393066	 ([movie][children][talent][like][whoopi][goldberg][armin][mueller])
+v(0,3,5,9,10,30,31,32,33,34): 7.135834693908691	 ([mess!!][this,][caliber][make][movie.][stahl][entirely][wasted][film][unworthy])
+v(0,2,3,4,9,10,22,23,32): 7.608188629150391	 ([mess!!][made?][this,][movies][make][movie.][fact][great][wasted])
+v(0,3,8,9,10,14,16,17,18,19,20,21,32,35): 7.724494934082031	 ([mess!!][this,][tools][make][movie.][it,][10][may][disapprove.][make][matters][worse][wasted][notice. "])
+v(0,3,6,7,9,10,12,13,15,32): 7.635361194610596	 ([mess!!][this,]["][teaching][make][movie.][may][like][anyone][wasted])
+v(0,1,3,9,10,11,24,25,26,27,28,29,32): 7.2696614265441895	 ([mess!!][movie][this,][make][movie.][children][talent][like][whoopi][goldberg][armin][mueller][wasted])
+v(2,4,5,22,23,30,31,33,34): 6.709286689758301	 ([made?][movies][caliber][fact][great][stahl][entirely][film][unworthy])
+v(5,8,14,16,17,18,19,20,21,30,31,33,34,35): 7.027467727661133	 ([caliber][tools][it,][10][may][disapprove.][make][matters][worse][stahl][entirely][film][unworthy][notice. "])
+v(5,6,7,12,13,15,30,31,33,34): 6.183934211730957	 ([caliber]["][teaching][may][like][anyone][stahl][entirely][film][unworthy])
+v(1,5,11,24,25,26,27,28,29,30,31,33,34): 4.668734550476074	 ([movie][caliber][children][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy])
+v(2,4,8,14,16,17,18,19,20,21,22,23,35): 7.9037089347839355	 ([made?][movies][tools][it,][10][may][disapprove.][make][matters][worse][fact][great][notice. "])
+v(2,4,6,7,12,13,15,22,23): 6.447555065155029	 ([made?][movies]["][teaching][may][like][anyone][fact][great])
+v(1,2,4,11,22,23,24,25,26,27,28,29): 6.432196617126465	 ([movie][made?][movies][children][fact][great][talent][like][whoopi][goldberg][armin][mueller])
+v(6,7,8,12,13,14,15,16,17,18,19,20,21,35): 7.546815872192383	 (["][teaching][tools][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][notice. "])
+v(1,8,11,14,16,17,18,19,20,21,24,25,26,27,28,29,35): 7.26453971862793	 ([movie][tools][children][it,][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][notice. "])
+v(1,6,7,11,12,13,15,24,25,26,27,28,29): 5.549089431762695	 ([movie]["][teaching][children][may][like][anyone][talent][like][whoopi][goldberg][armin][mueller])
+v(0,2,3,4,5,9,10,22,23,30,31,32,33,34): 7.70758056640625	 ([mess!!][made?][this,][movies][caliber][make][movie.][fact][great][stahl][entirely][wasted][film][unworthy])
+v(0,3,5,8,9,10,14,16,17,18,19,20,21,30,31,32,33,34,35): 7.661251068115234	 ([mess!!][this,][caliber][tools][make][movie.][it,][10][may][disapprove.][make][matters][worse][stahl][entirely][wasted][film][unworthy][notice. "])
+v(0,3,5,6,7,9,10,12,13,15,30,31,32,33,34): 7.78057861328125	 ([mess!!][this,][caliber]["][teaching][make][movie.][may][like][anyone][stahl][entirely][wasted][film][unworthy])
+v(0,1,3,5,9,10,11,24,25,26,27,28,29,30,31,32,33,34): 7.378707408905029	 ([mess!!][movie][this,][caliber][make][movie.][children][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy])
+v(0,2,3,4,8,9,10,14,16,17,18,19,20,21,22,23,32,35): 7.947300910949707	 ([mess!!][made?][this,][movies][tools][make][movie.][it,][10][may][disapprove.][make][matters][worse][fact][great][wasted][notice. "])
+v(0,2,3,4,6,7,9,10,12,13,15,22,23,32): 7.954095840454102	 ([mess!!][made?][this,][movies]["][teaching][make][movie.][may][like][anyone][fact][great][wasted])
+v(0,1,2,3,4,9,10,11,22,23,24,25,26,27,28,29,32): 7.73203182220459	 ([mess!!][movie][made?][this,][movies][make][movie.][children][fact][great][talent][like][whoopi][goldberg][armin][mueller][wasted])
+v(0,3,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,32,35): 8.059839248657227	 ([mess!!][this,]["][teaching][tools][make][movie.][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][wasted][notice. "])
+v(0,1,3,8,9,10,11,14,16,17,18,19,20,21,24,25,26,27,28,29,32,35): 7.99395227432251	 ([mess!!][movie][this,][tools][make][movie.][children][it,][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][wasted][notice. "])
+v(0,1,3,6,7,9,10,11,12,13,15,24,25,26,27,28,29,32): 7.884532928466797	 ([mess!!][movie][this,]["][teaching][make][movie.][children][may][like][anyone][talent][like][whoopi][goldberg][armin][mueller][wasted])
+v(2,4,5,8,14,16,17,18,19,20,21,22,23,30,31,33,34,35): 8.141206741333008	 ([made?][movies][caliber][tools][it,][10][may][disapprove.][make][matters][worse][fact][great][stahl][entirely][film][unworthy][notice. "])
+v(2,4,5,6,7,12,13,15,22,23,30,31,33,34): 6.604340076446533	 ([made?][movies][caliber]["][teaching][may][like][anyone][fact][great][stahl][entirely][film][unworthy])
+v(1,2,4,5,11,22,23,24,25,26,27,28,29,30,31,33,34): 7.245212078094482	 ([movie][made?][movies][caliber][children][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy])
+v(5,6,7,8,12,13,14,15,16,17,18,19,20,21,30,31,33,34,35): 7.934136867523193	 ([caliber]["][teaching][tools][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][stahl][entirely][film][unworthy][notice. "])
+v(1,5,8,11,14,16,17,18,19,20,21,24,25,26,27,28,29,30,31,33,34,35): 7.63938045501709	 ([movie][caliber][tools][children][it,][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy][notice. "])
+v(1,5,6,7,11,12,13,15,24,25,26,27,28,29,30,31,33,34): 6.521674633026123	 ([movie][caliber]["][teaching][children][may][like][anyone][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy])
+v(2,4,6,7,8,12,13,14,15,16,17,18,19,20,21,22,23,35): 8.148749351501465	 ([made?][movies]["][teaching][tools][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][notice. "])
+v(1,2,4,8,11,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,35): 8.111531257629395	 ([movie][made?][movies][tools][children][it,][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][notice. "])
+v(1,2,4,6,7,11,12,13,15,22,23,24,25,26,27,28,29): 7.300464630126953	 ([movie][made?][movies]["][teaching][children][may][like][anyone][fact][great][talent][like][whoopi][goldberg][armin][mueller])
+v(1,6,7,8,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27,28,29,35): 7.8959760665893555	 ([movie]["][teaching][tools][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][notice. "])
+v(0,2,3,4,5,8,9,10,14,16,17,18,19,20,21,22,23,30,31,32,33,34,35): 7.975176811218262	 ([mess!!][made?][this,][movies][caliber][tools][make][movie.][it,][10][may][disapprove.][make][matters][worse][fact][great][stahl][entirely][wasted][film][unworthy][notice. "])
+v(0,2,3,4,5,6,7,9,10,12,13,15,22,23,30,31,32,33,34): 7.988009452819824	 ([mess!!][made?][this,][movies][caliber]["][teaching][make][movie.][may][like][anyone][fact][great][stahl][entirely][wasted][film][unworthy])
+v(0,1,2,3,4,5,9,10,11,22,23,24,25,26,27,28,29,30,31,32,33,34): 7.809994697570801	 ([mess!!][movie][made?][this,][movies][caliber][make][movie.][children][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy])
+v(0,3,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,30,31,32,33,34,35): 8.10529899597168	 ([mess!!][this,][caliber]["][teaching][tools][make][movie.][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][stahl][entirely][wasted][film][unworthy][notice. "])
+v(0,1,3,5,8,9,10,11,14,16,17,18,19,20,21,24,25,26,27,28,29,30,31,32,33,34,35): 7.909620761871338	 ([mess!!][movie][this,][caliber][tools][make][movie.][children][it,][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy][notice. "])
+v(0,1,3,5,6,7,9,10,11,12,13,15,24,25,26,27,28,29,30,31,32,33,34): 7.9192214012146	 ([mess!!][movie][this,][caliber]["][teaching][make][movie.][children][may][like][anyone][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy])
+v(0,2,3,4,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,32,35): 8.169342994689941	 ([mess!!][made?][this,][movies]["][teaching][tools][make][movie.][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][wasted][notice. "])
+v(0,1,2,3,4,8,9,10,11,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,32,35): 8.057461738586426	 ([mess!!][movie][made?][this,][movies][tools][make][movie.][children][it,][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][wasted][notice. "])
+v(0,1,2,3,4,6,7,9,10,11,12,13,15,22,23,24,25,26,27,28,29,32): 8.089649200439453	 ([mess!!][movie][made?][this,][movies]["][teaching][make][movie.][children][may][like][anyone][fact][great][talent][like][whoopi][goldberg][armin][mueller][wasted])
+v(0,1,3,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27,28,29,32,35): 8.25517463684082	 ([mess!!][movie][this,]["][teaching][tools][make][movie.][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][wasted][notice. "])
+v(2,4,5,6,7,8,12,13,14,15,16,17,18,19,20,21,22,23,30,31,33,34,35): 8.232471466064453	 ([made?][movies][caliber]["][teaching][tools][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][stahl][entirely][film][unworthy][notice. "])
+v(1,2,4,5,8,11,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,34,35): 8.264982223510742	 ([movie][made?][movies][caliber][tools][children][it,][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy][notice. "])
+v(1,2,4,5,6,7,11,12,13,15,22,23,24,25,26,27,28,29,30,31,33,34): 7.465068817138672	 ([movie][made?][movies][caliber]["][teaching][children][may][like][anyone][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy])
+v(1,5,6,7,8,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27,28,29,30,31,33,34,35): 8.192720413208008	 ([movie][caliber]["][teaching][tools][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy][notice. "])
+v(1,2,4,6,7,8,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,35): 8.260934829711914	 ([movie][made?][movies]["][teaching][tools][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][notice. "])
+v(0,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,30,31,32,33,34,35): 8.17379093170166	 ([mess!!][made?][this,][movies][caliber]["][teaching][tools][make][movie.][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][stahl][entirely][wasted][film][unworthy][notice. "])
+v(0,1,2,3,4,5,8,9,10,11,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 7.956973552703857	 ([mess!!][movie][made?][this,][movies][caliber][tools][make][movie.][children][it,][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy][notice. "])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,15,22,23,24,25,26,27,28,29,30,31,32,33,34): 8.075384140014648	 ([mess!!][movie][made?][this,][movies][caliber]["][teaching][make][movie.][children][may][like][anyone][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy])
+v(0,1,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27,28,29,30,31,32,33,34,35): 8.277636528015137	 ([mess!!][movie][this,][caliber]["][teaching][tools][make][movie.][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy][notice. "])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,32,35): 8.222986221313477	 ([mess!!][movie][made?][this,][movies]["][teaching][tools][make][movie.][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][wasted][notice. "])
+v(1,2,4,5,6,7,8,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,34,35): 8.39615535736084	 ([movie][made?][movies][caliber]["][teaching][tools][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy][notice. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 8.215629577636719	 ([mess!!][movie][made?][this,][movies][caliber]["][teaching][tools][make][movie.][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy][notice. "])
+---------- Rewards-v() ----------
+v(1,2,4,5,6,7,8,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,34,35): 4.820986747741699, EP: 1.0389025211334229	 ([movie][made?][movies][caliber]["][teaching][tools][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy][notice. "])
+v(0,1,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27,28,29,30,31,32,33,34,35): 4.702467918395996, EP: 1.0133622884750366	 ([mess!!][movie][this,][caliber]["][teaching][tools][make][movie.][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy][notice. "])
+v(1,2,4,5,8,11,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,34,35): 4.689813613891602, EP: 1.010635256767273	 ([movie][made?][movies][caliber][tools][children][it,][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy][notice. "])
+v(1,2,4,6,7,8,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,35): 4.685766220092773, EP: 1.0097631216049194	 ([movie][made?][movies]["][teaching][tools][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][notice. "])
+v(0,1,3,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27,28,29,32,35): 4.68000602722168, EP: 1.0085217952728271	 ([mess!!][movie][this,]["][teaching][tools][make][movie.][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][wasted][notice. "])
+v(2,4,5,6,7,8,12,13,14,15,16,17,18,19,20,21,22,23,30,31,33,34,35): 4.6573028564453125, EP: 1.0036293268203735	 ([made?][movies][caliber]["][teaching][tools][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][stahl][entirely][film][unworthy][notice. "])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,32,35): 4.647817611694336, EP: 1.0015853643417358	 ([mess!!][movie][made?][this,][movies]["][teaching][tools][make][movie.][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][wasted][notice. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 4.640460968017578, EP: 1.0	 ([mess!!][movie][made?][this,][movies][caliber]["][teaching][tools][make][movie.][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy][notice. "])
+v(1,5,6,7,8,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27,28,29,30,31,33,34,35): 4.617551803588867, EP: 0.9950631856918335	 ([movie][caliber]["][teaching][tools][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy][notice. "])
+v(0,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,30,31,32,33,34,35): 4.5986223220825195, EP: 0.9909839630126953	 ([mess!!][made?][this,][movies][caliber]["][teaching][tools][make][movie.][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][stahl][entirely][wasted][film][unworthy][notice. "])
+v(0,2,3,4,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,32,35): 4.594174385070801, EP: 0.9900254607200623	 ([mess!!][made?][this,][movies]["][teaching][tools][make][movie.][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][wasted][notice. "])
+v(2,4,6,7,8,12,13,14,15,16,17,18,19,20,21,22,23,35): 4.573580741882324, EP: 0.9855875968933105	 ([made?][movies]["][teaching][tools][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][fact][great][notice. "])
+v(2,4,5,8,14,16,17,18,19,20,21,22,23,30,31,33,34,35): 4.566038131713867, EP: 0.9839621782302856	 ([made?][movies][caliber][tools][it,][10][may][disapprove.][make][matters][worse][fact][great][stahl][entirely][film][unworthy][notice. "])
+v(1,2,4,8,11,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,35): 4.536362648010254, EP: 0.9775672554969788	 ([movie][made?][movies][tools][children][it,][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][notice. "])
+v(0,3,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,30,31,32,33,34,35): 4.530130386352539, EP: 0.9762242436408997	 ([mess!!][this,][caliber]["][teaching][tools][make][movie.][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][stahl][entirely][wasted][film][unworthy][notice. "])
+v(0,1,2,3,4,6,7,9,10,11,12,13,15,22,23,24,25,26,27,28,29,32): 4.5144805908203125, EP: 0.9728517532348633	 ([mess!!][movie][made?][this,][movies]["][teaching][make][movie.][children][may][like][anyone][fact][great][talent][like][whoopi][goldberg][armin][mueller][wasted])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,15,22,23,24,25,26,27,28,29,30,31,32,33,34): 4.500215530395508, EP: 0.9697777032852173	 ([mess!!][movie][made?][this,][movies][caliber]["][teaching][make][movie.][children][may][like][anyone][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy])
+v(0,3,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,32,35): 4.484670639038086, EP: 0.9664278626441956	 ([mess!!][this,]["][teaching][tools][make][movie.][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][wasted][notice. "])
+v(0,1,2,3,4,8,9,10,11,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,32,35): 4.482293128967285, EP: 0.9659155011177063	 ([mess!!][movie][made?][this,][movies][tools][make][movie.][children][it,][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][wasted][notice. "])
+v(0,1,3,8,9,10,11,14,16,17,18,19,20,21,24,25,26,27,28,29,32,35): 4.418783664703369, EP: 0.9522294402122498	 ([mess!!][movie][this,][tools][make][movie.][children][it,][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][wasted][notice. "])
+v(0,2,3,4,5,6,7,9,10,12,13,15,22,23,30,31,32,33,34): 4.412840843200684, EP: 0.9509488344192505	 ([mess!!][made?][this,][movies][caliber]["][teaching][make][movie.][may][like][anyone][fact][great][stahl][entirely][wasted][film][unworthy])
+v(0,2,3,4,5,8,9,10,14,16,17,18,19,20,21,22,23,30,31,32,33,34,35): 4.400008201599121, EP: 0.9481834173202515	 ([mess!!][made?][this,][movies][caliber][tools][make][movie.][it,][10][may][disapprove.][make][matters][worse][fact][great][stahl][entirely][wasted][film][unworthy][notice. "])
+v(0,1,2,3,4,5,8,9,10,11,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 4.381804943084717, EP: 0.9442607164382935	 ([mess!!][movie][made?][this,][movies][caliber][tools][make][movie.][children][it,][10][may][disapprove.][make][matters][worse][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy][notice. "])
+v(0,2,3,4,6,7,9,10,12,13,15,22,23,32): 4.378927230834961, EP: 0.9436405897140503	 ([mess!!][made?][this,][movies]["][teaching][make][movie.][may][like][anyone][fact][great][wasted])
+v(0,2,3,4,8,9,10,14,16,17,18,19,20,21,22,23,32,35): 4.372132301330566, EP: 0.9421762824058533	 ([mess!!][made?][this,][movies][tools][make][movie.][it,][10][may][disapprove.][make][matters][worse][fact][great][wasted][notice. "])
+v(5,6,7,8,12,13,14,15,16,17,18,19,20,21,30,31,33,34,35): 4.358968257904053, EP: 0.9393395185470581	 ([caliber]["][teaching][tools][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][stahl][entirely][film][unworthy][notice. "])
+v(0,1,3,5,6,7,9,10,11,12,13,15,24,25,26,27,28,29,30,31,32,33,34): 4.344052791595459, EP: 0.9361252784729004	 ([mess!!][movie][this,][caliber]["][teaching][make][movie.][children][may][like][anyone][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy])
+v(0,1,3,5,8,9,10,11,14,16,17,18,19,20,21,24,25,26,27,28,29,30,31,32,33,34,35): 4.334452152252197, EP: 0.9340564012527466	 ([mess!!][movie][this,][caliber][tools][make][movie.][children][it,][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy][notice. "])
+v(2,4,8,14,16,17,18,19,20,21,22,23,35): 4.328540325164795, EP: 0.9327824115753174	 ([made?][movies][tools][it,][10][may][disapprove.][make][matters][worse][fact][great][notice. "])
+v(1,6,7,8,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27,28,29,35): 4.320807456970215, EP: 0.931115984916687	 ([movie]["][teaching][tools][children][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][notice. "])
+v(0,1,3,6,7,9,10,11,12,13,15,24,25,26,27,28,29,32): 4.309364318847656, EP: 0.9286500811576843	 ([mess!!][movie][this,]["][teaching][make][movie.][children][may][like][anyone][talent][like][whoopi][goldberg][armin][mueller][wasted])
+v(0,1,2,3,4,5,9,10,11,22,23,24,25,26,27,28,29,30,31,32,33,34): 4.23482608795166, EP: 0.9125873446464539	 ([mess!!][movie][made?][this,][movies][caliber][make][movie.][children][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy])
+v(0,3,5,6,7,9,10,12,13,15,30,31,32,33,34): 4.205410003662109, EP: 0.9062483310699463	 ([mess!!][this,][caliber]["][teaching][make][movie.][may][like][anyone][stahl][entirely][wasted][film][unworthy])
+v(0,1,2,3,4,9,10,11,22,23,24,25,26,27,28,29,32): 4.156863212585449, EP: 0.895786702632904	 ([mess!!][movie][made?][this,][movies][make][movie.][children][fact][great][talent][like][whoopi][goldberg][armin][mueller][wasted])
+v(0,3,8,9,10,14,16,17,18,19,20,21,32,35): 4.149326324462891, EP: 0.8941625356674194	 ([mess!!][this,][tools][make][movie.][it,][10][may][disapprove.][make][matters][worse][wasted][notice. "])
+v(0,2,3,4,5,9,10,22,23,30,31,32,33,34): 4.132411956787109, EP: 0.89051753282547	 ([mess!!][made?][this,][movies][caliber][make][movie.][fact][great][stahl][entirely][wasted][film][unworthy])
+v(0,3,5,8,9,10,14,16,17,18,19,20,21,30,31,32,33,34,35): 4.086082458496094, EP: 0.880533754825592	 ([mess!!][this,][caliber][tools][make][movie.][it,][10][may][disapprove.][make][matters][worse][stahl][entirely][wasted][film][unworthy][notice. "])
+v(1,5,8,11,14,16,17,18,19,20,21,24,25,26,27,28,29,30,31,33,34,35): 4.064211845397949, EP: 0.8758206963539124	 ([movie][caliber][tools][children][it,][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy][notice. "])
+v(0,3,6,7,9,10,12,13,15,32): 4.060192584991455, EP: 0.8749545812606812	 ([mess!!][this,]["][teaching][make][movie.][may][like][anyone][wasted])
+v(0,2,3,4,9,10,22,23,32): 4.03302001953125, EP: 0.8690990209579468	 ([mess!!][made?][this,][movies][make][movie.][fact][great][wasted])
+v(6,7,8,12,13,14,15,16,17,18,19,20,21,35): 3.971647262573242, EP: 0.8558734059333801	 (["][teaching][tools][may][like][it,][anyone][10][may][disapprove.][make][matters][worse][notice. "])
+v(1,2,4,5,6,7,11,12,13,15,22,23,24,25,26,27,28,29,30,31,33,34): 3.8899002075195312, EP: 0.8382573127746582	 ([movie][made?][movies][caliber]["][teaching][children][may][like][anyone][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy])
+v(0,1,3,5,9,10,11,24,25,26,27,28,29,30,31,32,33,34): 3.8035387992858887, EP: 0.8196467757225037	 ([mess!!][movie][this,][caliber][make][movie.][children][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][wasted][film][unworthy])
+v(1,2,4,6,7,11,12,13,15,22,23,24,25,26,27,28,29): 3.7252960205078125, EP: 0.8027857542037964	 ([movie][made?][movies]["][teaching][children][may][like][anyone][fact][great][talent][like][whoopi][goldberg][armin][mueller])
+v(0,1,3,9,10,11,24,25,26,27,28,29,32): 3.694492816925049, EP: 0.7961478233337402	 ([mess!!][movie][this,][make][movie.][children][talent][like][whoopi][goldberg][armin][mueller][wasted])
+v(1,8,11,14,16,17,18,19,20,21,24,25,26,27,28,29,35): 3.689371109008789, EP: 0.7950441241264343	 ([movie][tools][children][it,][10][may][disapprove.][make][matters][worse][talent][like][whoopi][goldberg][armin][mueller][notice. "])
+v(1,2,4,5,11,22,23,24,25,26,27,28,29,30,31,33,34): 3.670043468475342, EP: 0.7908790707588196	 ([movie][made?][movies][caliber][children][fact][great][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy])
+v(0,3,5,9,10,30,31,32,33,34): 3.560666084289551, EP: 0.7673087120056152	 ([mess!!][this,][caliber][make][movie.][stahl][entirely][wasted][film][unworthy])
+v(5,8,14,16,17,18,19,20,21,30,31,33,34,35): 3.452299118041992, EP: 0.7439560890197754	 ([caliber][tools][it,][10][may][disapprove.][make][matters][worse][stahl][entirely][film][unworthy][notice. "])
+v(0,3,9,10,32): 3.3289308547973633, EP: 0.7173707485198975	 ([mess!!][this,][make][movie.][wasted])
+v(2,4,5,22,23,30,31,33,34): 3.13411808013916, EP: 0.6753894090652466	 ([made?][movies][caliber][fact][great][stahl][entirely][film][unworthy])
+v(2,4,5,6,7,12,13,15,22,23,30,31,33,34): 3.0291714668273926, EP: 0.6527738571166992	 ([made?][movies][caliber]["][teaching][may][like][anyone][fact][great][stahl][entirely][film][unworthy])
+v(1,5,6,7,11,12,13,15,24,25,26,27,28,29,30,31,33,34): 2.9465060234069824, EP: 0.6349597573280334	 ([movie][caliber]["][teaching][children][may][like][anyone][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy])
+v(2,4,6,7,12,13,15,22,23): 2.8723864555358887, EP: 0.6189873218536377	 ([made?][movies]["][teaching][may][like][anyone][fact][great])
+v(1,2,4,11,22,23,24,25,26,27,28,29): 2.857028007507324, EP: 0.6156776547431946	 ([movie][made?][movies][children][fact][great][talent][like][whoopi][goldberg][armin][mueller])
+v(8,14,16,17,18,19,20,21,35): 2.75070858001709, EP: 0.5927662253379822	 ([tools][it,][10][may][disapprove.][make][matters][worse][notice. "])
+v(5,6,7,12,13,15,30,31,33,34): 2.6087656021118164, EP: 0.5621781349182129	 ([caliber]["][teaching][may][like][anyone][stahl][entirely][film][unworthy])
+v(2,4,22,23): 2.094801902770996, EP: 0.4514210820198059	 ([made?][movies][fact][great])
+v(1,6,7,11,12,13,15,24,25,26,27,28,29): 1.9739208221435547, EP: 0.4253717064857483	 ([movie]["][teaching][children][may][like][anyone][talent][like][whoopi][goldberg][armin][mueller])
+v(5,30,31,33,34): 1.4583406448364258, EP: 0.3142663240432739	 ([caliber][stahl][entirely][film][unworthy])
+v(6,7,12,13,15): 1.3601655960083008, EP: 0.2931100130081177	 (["][teaching][may][like][anyone])
+v(1,5,11,24,25,26,27,28,29,30,31,33,34): 1.0935659408569336, EP: 0.2356588989496231	 ([movie][caliber][children][talent][like][whoopi][goldberg][armin][mueller][stahl][entirely][film][unworthy])
+v(1,11,24,25,26,27,28,29): -0.817288875579834, EP: -0.17612235248088837	 ([movie][children][talent][like][whoopi][goldberg][armin][mueller])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

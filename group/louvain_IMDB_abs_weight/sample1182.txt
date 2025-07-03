@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['2', '20', '0', '19', '18', '23', '22', '17', '7']: ['time.', 'twists,', 'complete', 'contains', 'story', 'plain', 'surprises', 'ridiculous', 'series,']: 平均边权 0.7189
+社区 2: ['30', '27', '32', '25', '29', '31', '26']: ['tied', 'characters', 'end.', 'ending.', 'everything', 'together', 'liked']: 平均边权 0.3237
+社区 3: ['56', '57', '49', '58', '52', '55', '50', '53', '51', '54']: ['connected', 'forces', 'people', 'figure', 'guy', 'people', 'put', 'mask', 'it.', 'kidnaps']: 平均边权 0.4684
+社区 4: ['39', '38', '41', '40']: ['good', 'none', "can't", 'acting.']: 平均边权 0.9478
+社区 5: ['48', '47']: ['"', '" fun']: 平均边权 1.1488
+社区 6: ['33', '21', '28']: ['happen.', 'plot', 'hoping']: 平均边权 0.6873
+社区 7: ['8', '5', '24', '11', '15', '9', '1', '10']: ['even', 'clone', 'bad', 'melissa', 'horrible.', 'worse', 'waste', 'acting.']: 平均边权 0.7856
+社区 8: ['4', '16', '3']: ['starts', 'ending', 'movie']: 平均边权 0.4942
+社区 9: ['13', '12', '14', '6']: ['hart', 'joan', 'absolutely', 'saw']: 平均边权 0.2975
+社区 10: ['35', '36', '46', '34', '45', '42', '37', '44', '43']: ['wrestler', '"', 'this.', 'total', 'watching', 'believe', 'ending', 'time', 'spent']: 平均边权 0.3503

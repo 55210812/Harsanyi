@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['21', '55', '53', '24', '26', '14', '54', '7']: ['bad.', 'all.', 'music', 'begin', 'bad', 'cheesy,', 'tops', 'think']: 平均边权 0.9762
+社区 2: ['56', '50', '57', '48', '51', '49', '52']: ['monkey', 'insanely', 'could', 'joke,', 'slow.', 'pace', 'though,']: 平均边权 0.6757
+社区 3: ['12', '5', '19', '27', '13', '25', '18', '16', '15', '17']: ['it.', 'movie,', 'fiction', 'is.', 'no,', 'tell', 'science', 'ed', 'poorly - done,', 'wood - style']: 平均边权 0.4961
+社区 4: ['45', '34', '40', '46', '47', '4', '41', '42', '44', '43']: ['retarded,', 'movie', 'actors', 'special', 'effects', 'bimbo', 'either', 'friends', 'mentally', 'producer']: 平均边权 0.4774
+社区 5: ['39', '38', '37', '35', '33', '36']: ['all.', 'us', 'insult', 'ever', 'fact', 'released']: 平均边权 0.7675
+社区 6: ['32', '31', '28']: ['shock.', 'cable,', 'saw']: 平均边权 0.5608
+社区 7: ['2', '8', '3', '0', '23', '22', '1']: ['about.', 'one', 'definitely', 'review', 'even', "can't", 'talking']: 平均边权 0.4959
+社区 8: ['30', '29']: ['night', 'late']: 平均边权 0.8681
+社区 9: ['11', '20', '10', '9', '58', '6']: ['girl', 'schlock.', 'looking', 'decent', 'write', 'fact,']: 平均边权 0.3459

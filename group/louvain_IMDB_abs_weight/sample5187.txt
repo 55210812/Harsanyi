@@ -1,0 +1,8 @@
+louvain社区检测结果:
+社区 1: ['27', '25', '49', '52', '30', '50', '53', '51', '26', '31']: ['part', 'adam', 'usually', 'sandler', 'adam', 'enjoy', 'films', 'adam', 'sandler', 'sandler']: 平均边权 0.4432
+社区 2: ['38', '36', '35', '40', '34', '48', '41', '42', '37', '43', '33']: ['even', 'whole', 'parts', 'last', 'funny', 'film.', '5', 'minutes.', 'movie.', 'getting', 'two']: 平均边权 0.2971
+社区 3: ['39', '55', '57', '44', '1', '64', '28']: ['finish', 'trying', 'impress.', 'bored.', 'loser.', 'people', 'life.']: 平均边权 0.5946
+社区 4: ['45', '54', '59', '46', '47']: ['animal', 'plot.', 'old.', '"', 'alright']: 平均边权 0.3211
+社区 5: ['56', '61', '62', '60', '58']: ['hard', 'trust', 'me.', 'so,', 'jokes']: 平均边权 0.3904
+社区 6: ['20', '19', '13', '32', '29', '18', '21', '16', '15', '23', '22', '24', '14', '17']: ['say', "i'd", 'seen', 'plots.', 'get', 'on.', 'rob', 'it,', 'saw', 'move', 'needs', 'past', 'it,', 'moved']: 平均边权 0.2510
+社区 7: ['2', '12', '8', '5', '0', '63', '4', '11', '3', '9', '10', '6', '7']: ["can't", 'etc.', 'picked', 'needs', 'guy', 'film', 'girls,', 'guys,', 'get', 'stronger', 'successful', 'build', 'up,']: 平均边权 0.2118

@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['27', '13', '18', '16', '11', '15', '14', '17']: ['unknown', 'must', 'knew', 'wrong', 'closing', 'right?', 'good,', 'was.']: 平均边权 0.6881
+社区 2: ['8', '5', '0', '4', '9', '1', '10', '6', '7']: ['movie', 'fairly', 'saw', 'festival', 'great', 'movie', 'cast', 'solid', 'expectations.']: 平均边权 0.6215
+社区 3: ['50', '42', '44', '43', '46']: ['homeless', 'writer', 'must', 'edison', 'pictures']: 平均边权 0.6557
+社区 4: ['12', '41', '23', '19', '33', '34', '21']: ['festival', 'director', 'directing', 'trouble', 'director', 'writer', 'director']: 平均边权 1.0396
+社区 5: ['2', '56', '20', '3', '57', '59', '58']: ['toronto', 'film )', 'film', 'film', 'would', 'agree', 'ever']: 平均边权 0.3987
+社区 6: ['39', '38', '37', '35', '32', '29', '36']: ['blah )...', 'debut', 'feature', 'wiseguy', '( a', 'named', 'making']: 平均边权 0.5151
+社区 7: ['51', '48', '24', '25', '45', '26', '31']: ['man,', 'spacey', 'episode', 'wiseguy', 'incriminating', 'met', 'spacey']: 平均边权 0.3926
+社区 8: ['53', '22', '49', '52', '40']: ['see', 'talking', 'killing', 'cannot', 'well']: 平均边权 0.3768
+社区 9: ['55', '30', '54', '47', '28']: ['actors', 'kevin', '( along', 'kevin', 'actor']: 平均边权 0.5178

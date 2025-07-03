@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['38', '45', '40', '39', '48', '41', '42', '44', '37']: ['come', 'slow - moving', 'many', 'across', 'are,', 'people', 'thought', 'films', 'work.']: 平均边权 0.3993
+社区 2: ['52', '53', '6']: ["director's", 'wonderful', 'cinema']: 平均边权 1.3136
+社区 3: ['20', '19', '27', '21', '29', '18', '28']: ['ran', 'imagination', 'well, now', 'amok,', 'put', 'course,', 'imagination']: 平均边权 0.3865
+社区 4: ['25', '30', '16', '15', '22', '23', '24', '26', '14', '17']: ['piece', 'rest.', 'cinema', 'tear', 'trying', 'conjure', 'contents', 'work.', 'preceded', 'seats.']: 平均边权 0.3889
+社区 5: ['2', '56', '57', '58', '55', '50', '59', '51', '54']: ['art - house', 'meaning,', 'beautiful', 'compositions,', 'wrought', 'true', 'complex', 'late', 'works,']: 平均边权 0.4344
+社区 6: ['1', '0']: ['told', 'friend']: 平均边权 0.9047
+社区 7: ['36', '35', '32', '49', '34', '31']: ['admirer', 'ardent', 'andrei', 'found', 'fan', 'lifelong']: 平均边权 0.3036
+社区 8: ['43', '33', '46', '47']: ["tarkovsky's", 'tarkovky', 'inert.', 'opinions']: 平均边权 0.6297
+社区 9: ['12', '8', '5', '13', '4', '11', '3', '9', '10', '7']: ['audiences', 'upon', 'ran', 'enraged', 'film', '-', 'independent', 'closing', 'film', 'when -']: 平均边权 0.3246

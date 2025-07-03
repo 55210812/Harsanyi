@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['9', '5', '58', '4', '11', '50', '37', '68', '62', '69', '10', '26']: ['john', 'classic', 'better', 'literary', 'captain', 'barrymore', 'win', 'john', 'silents', 'barrymore', 'barrymore', 'barrymore']: 平均边权 0.9479
+社区 2: ['71', '8', '38', '70', '74', '73', '23', '78', '6', '7']: ['bennett', '".', 'bennett', 'joan', 'dick', 'moby', "bennett's", 'lloyd', 'moby', 'dick']: 平均边权 0.6157
+社区 3: ['12', '76', '13', '18', '21', '77', '16', '75', '15', '22', '24', '14', '17']: ['ahab,', '14', 'falls', 'bennett.', 'rival', '30 )', 'daughter,', '( 8', "pastor's", 'ms.', 'affections.', 'love', 'joan']: 平均边权 0.4353
+社区 4: ['56', '61', '57', '63', '35', '55', '53', '59', '60', '64', '54']: ['however ;', '1920s', 'much', '1930s', 'slay', 'well,', 'film', 'films', 'time,', 'talkies.', 'aged']: 平均边权 0.6888
+社区 5: ['67', '65', '72', '66']: ['attractions,', 'two', 'best.', 'name']: 平均边权 0.9255
+社区 6: ['2', '39', '3', '0', '1']: ['film', 'back...', 'version', 'necessarily', 'ridiculous']: 平均边权 0.9446
+社区 7: ['45', '46', '40', '47', '52', '49', '48', '41', '42', '44', '43', '51']: ['theater', 'audiences ;', 'several', 'particularly', 'leg.', 'involving', 'scenes', 'scenes', 'may', '1930', 'thrilled', 'losing']: 平均边权 0.3670
+社区 8: ['20', '19', '27', '36', '32', '25', '34', '29', '30', '33', '31', '28']: ['derek', 'brother', 'loses', 'whale', 'rejects', 'mr.', 'must', 'whaling', 'accident,', 'him.', 'bennett', 'leg']: 平均边权 0.4179

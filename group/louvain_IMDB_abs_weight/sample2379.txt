@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['12', '11', '15', '13', '10']: ['dull', 'core.', 'films', 'like', 'film']: 平均边权 0.7938
+社区 2: ['8', '19', '35', '18', '4', '16', '9', '14', '7']: ['scare.', 'gore.', 'haunted', 'ghosts', 'scary', 'haunted', 'horror', 'horror', 'scare']: 平均边权 0.9201
+社区 3: ['2', '5', '3', '0', '1', '6']: ['expecting', 'film.', 'artsy', 'went', 'movie', 'got']: 平均边权 0.6571
+社区 4: ['27', '25', '32', '29', '39', '30', '23', '24', '26', '28', '31']: ['characters.', 'shows', 'concept', 'one', 'become', 'best', 'majority', 'deaths', 'fear', 'think', 'things']: 平均边权 0.4097
+社区 5: ['56', '57', '49', '34', '55', '48', '50', '53', '51', '54']: ['like', 'film.', 'etc.', 'thats', 'critics', 'rooms...', 'reading', 'really', 'external', 'surprised']: 平均边权 0.4513
+社区 6: ['38', '37', '36', '33', '40', '17']: ['house.', 'goes', 'whoever', 'house', 'haunted', 'house']: 平均边权 0.2255
+社区 7: ['21', '20', '22']: ['even', 'film', 'show']: 平均边权 2.0619
+社区 8: ['46', '45', '52', '47', '41', '42', '44', '43']: ['stations,', 'police', 'reviews', 'hotel', 'matter', 'are.', 'buildings,', 'office']: 平均边权 0.2357

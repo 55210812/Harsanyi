@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['30', '27', '26', '29', '28', '31']: ['( and', 'smacking', 'still', 'liking', 'guilt', 'recommending )']: 平均边权 0.8325
+社区 2: ['71', '60', '66', '67', '65', '68', '69', '72']: ['actually', 'includes', 'possibly', 'go', 'could', 'wrong?', 'well,', 'misses']: 平均边权 0.4007
+社区 3: ['12', '70', '13', '73', '11', '9', '14', '6']: ["they're", 'surprise,', "stupid... they're", 'mark... not', 'provide.', 'made - for - television', 'silly... but', 'appreciate']: 平均边权 1.0964
+社区 4: ['55', '56', '48', '58', '49', '54']: ['creating', 'b - movie', 'terrorizing', 'features', 'people', 'recipe']: 平均边权 0.5887
+社区 5: ['20', '19', '25', '21', '18', '16', '15', '22', '23', '24', '17']: ['bad,', '" so', 'so,', 'good', 'fun', 'still', "they're", '"', 'kind', 'way.', 'pretty']: 平均边权 0.5151
+社区 6: ['2', '0', '36', '52', '50', '42', '44', '37', '43', '51', '10', '7']: ["syfy's", 'read', 'sat', "channel's", 'island.', 'syfy', 'movie', 'watch', 'original', 'syfy', 'movies', 'low - budget']: 平均边权 0.4481
+社区 7: ['38', '41', '35', '1', '46', '64']: ['" hammerhead :', '",', '",', 'review', 'half - hammerhead', 'tylo,']: 平均边权 0.4920
+社区 8: ['39', '61', '57', '63', '62', '40', '47']: ['shark', 'william', 'creature', 'hunter', 'forsythe', 'frenzy', 'monster']: 平均边权 0.4940
+社区 9: ['8', '5', '32', '45', '34', '4', '3', '53', '59', '33']: ['schlock', 'know', 'undeniably', 'half - man,', '" dinoshark', '",', 'dinoshark', 'sure - fire', 'cast', 'hokey']: 平均边权 0.4158

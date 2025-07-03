@@ -1,0 +1,61 @@
+Execution time: 2025-07-03 04:51:49
+prompt: [CLS] i thought this was one of those really great films to see with a bunch of close friends. i laughed and cried and laughed and cried at the same time. it was just really touching. although not a new concept this was a very well made film. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1045 decoded_text: i
+idx:2 input_id:2245 decoded_text: thought
+idx:3 input_id:2023 decoded_text: this
+idx:4 input_id:2001 decoded_text: was
+idx:5 input_id:2028 decoded_text: one
+idx:6 input_id:1997 decoded_text: of
+idx:7 input_id:2216 decoded_text: those
+idx:8 input_id:2428 decoded_text: really
+idx:9 input_id:2307 decoded_text: great
+idx:10 input_id:3152 decoded_text: films
+idx:11 input_id:2000 decoded_text: to
+idx:12 input_id:2156 decoded_text: see
+idx:13 input_id:2007 decoded_text: with
+idx:14 input_id:1037 decoded_text: a
+idx:15 input_id:9129 decoded_text: bunch
+idx:16 input_id:1997 decoded_text: of
+idx:17 input_id:2485 decoded_text: close
+idx:18 input_id:2814 decoded_text: friends
+idx:19 input_id:1012 decoded_text: .
+idx:20 input_id:1045 decoded_text: i
+idx:21 input_id:4191 decoded_text: laughed
+idx:22 input_id:1998 decoded_text: and
+idx:23 input_id:6639 decoded_text: cried
+idx:24 input_id:1998 decoded_text: and
+idx:25 input_id:4191 decoded_text: laughed
+idx:26 input_id:1998 decoded_text: and
+idx:27 input_id:6639 decoded_text: cried
+idx:28 input_id:2012 decoded_text: at
+idx:29 input_id:1996 decoded_text: the
+idx:30 input_id:2168 decoded_text: same
+idx:31 input_id:2051 decoded_text: time
+idx:32 input_id:1012 decoded_text: .
+idx:33 input_id:2009 decoded_text: it
+idx:34 input_id:2001 decoded_text: was
+idx:35 input_id:2074 decoded_text: just
+idx:36 input_id:2428 decoded_text: really
+idx:37 input_id:7244 decoded_text: touching
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:2348 decoded_text: although
+idx:40 input_id:2025 decoded_text: not
+idx:41 input_id:1037 decoded_text: a
+idx:42 input_id:2047 decoded_text: new
+idx:43 input_id:4145 decoded_text: concept
+idx:44 input_id:2023 decoded_text: this
+idx:45 input_id:2001 decoded_text: was
+idx:46 input_id:1037 decoded_text: a
+idx:47 input_id:2200 decoded_text: very
+idx:48 input_id:2092 decoded_text: well
+idx:49 input_id:2081 decoded_text: made
+idx:50 input_id:2143 decoded_text: film
+idx:51 input_id:1012 decoded_text: .
+idx:52 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.7200777530670166, 3.4585137367248535]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

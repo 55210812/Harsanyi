@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['12', '5', '10', '13', '4', '11', '15', '14', '6']: ['want', 'real', 'would', 'see', 'like', 'really', 'thing? ),', 'real', 'thing']: 平均边权 0.3867
+社区 2: ['35', '46', '45', '47', '50', '48', '42', '53', '44', '43']: ['book', 'fact', 'book', '100', 'story.', 'true', 'novel', 'location', "truman's", '".']: 平均边权 0.5264
+社区 3: ['38', '36', '32', '52', '34', '39', '55', '37', '51', '54']: ['truman', 'cold', 'stuff', 'canadian', 'original.', 'capote', 'kansas', 'blood', 'thought', 'sufficed']: 平均边权 0.3663
+社区 4: ['2', '8', '0', '27', '25', '58', '3', '9', '1', '7']: ['blood', '( think', '1967', 'television.', 'opportunity', 'tv', 'perhaps', 'it :', 'cold', '"']: 平均边权 0.4216
+社区 5: ['20', '23', '22', '24', '21']: ['lot', 'know', 'even', 'was,', 'people']: 平均边权 0.5445
+社区 6: ['30', '29']: ['it,', 'remake']: 平均边权 0.7095
+社区 7: ['56', '57', '40', '41', '59', '33', '60', '31']: ['pretty', 'much', 'first', '" nonfiction', 'movie.', 'shown', 'look', 'show']: 平均边权 0.3069
+社区 8: ['61', '19', '49', '18', '16', '26', '17', '28']: ['elements', 'world,', 'real', 'color', 'black', 'remake', 'white', 'plus,']: 平均边权 0.2612

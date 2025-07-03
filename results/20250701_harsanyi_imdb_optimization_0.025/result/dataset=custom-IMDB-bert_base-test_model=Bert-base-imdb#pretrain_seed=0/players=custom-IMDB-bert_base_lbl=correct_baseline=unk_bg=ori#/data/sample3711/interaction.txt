@@ -1,0 +1,268 @@
+---------- Players ----------
+Player 0: possible
+Player 1: spoilers.
+Player 2: although
+Player 3: good
+Player 4: acting
+Player 5: -
+Player 6: particularly
+Player 7: chloe
+Player 8: sevigny,
+Player 9: radha
+Player 10: mitchell
+Player 11: comedy
+Player 12: half
+Player 13: -
+Player 14: simply
+Player 15: engaging
+Player 16: film.
+Player 17: segues
+Player 18: comedy
+Player 19: part
+Player 20: tragedy
+Player 21: part
+Player 22: awkward
+Player 23: sometimes
+Player 24: obvious.
+Player 25: viewer
+Player 26: initially
+Player 27: confused
+Player 28: fact
+Player 29: supporting
+Player 30: cast
+Player 31: differs
+Player 32: two
+Player 33: halves ;
+Player 34: thought
+Player 35: way
+Player 36: things
+Player 37: laid
+Player 38: opening
+Player 39: scene
+Player 40: people
+Player 41: surrounding
+Player 42: melinda
+Player 43: would
+Player 44: people,
+Player 45: reacting
+Player 46: differently
+Player 47: ( more
+Player 48: said,
+Player 49: said
+Player 50: "
+Player 51: premise ).
+Player 52: however,
+Player 53: two
+Player 54: totally
+Player 55: different
+Player 56: stories
+Player 57: two
+Player 58: totally
+Player 59: different
+Player 60: women,
+Player 61: happen
+---------- AND Interactions (Pairwise Only) ----------
+I(15,16): 11.054762840270996	 ([engaging][film.])
+I(26,27): -3.8169498443603516	 ([initially][confused])
+I(27,52): -2.6782283782958984	 ([confused][however,])
+I(25,27): -2.6009950637817383	 ([viewer][confused])
+I(52,56): -2.2798233032226562	 ([however,][stories])
+I(9,10): -2.150465965270996	 ([radha][mitchell])
+I(54,55): -2.0226407051086426	 ([totally][different])
+I(49,52): -1.8515346050262451	 ([said][however,])
+I(27,39): 1.8052623271942139	 ([confused][scene])
+I(40,52): -1.7371594905853271	 ([people][however,])
+I(27,61): 1.7069380283355713	 ([confused][happen])
+I(48,52): -1.555481195449829	 ([said,][however,])
+I(27,28): 1.424910306930542	 ([confused][fact])
+I(51,52): 1.259077548980713	 ([premise ).][however,])
+I(11,27): 1.2080767154693604	 ([comedy][confused])
+I(7,27): 1.1840403079986572	 ([chloe][confused])
+I(3,52): 1.167731761932373	 ([good][however,])
+I(44,52): -1.1314492225646973	 ([people,][however,])
+I(49,51): -1.055288553237915	 ([said][premise ).])
+I(57,60): -1.0058345794677734	 ([two][women,])
+I(3,15): 0.9976813793182373	 ([good][engaging])
+I(38,39): 0.9716291427612305	 ([opening][scene])
+I(56,57): -0.939368486404419	 ([stories][two])
+I(11,15): 0.900601863861084	 ([comedy][engaging])
+I(15,18): 0.9000787734985352	 ([engaging][comedy])
+I(1,52): -0.8722026348114014	 ([spoilers.][however,])
+I(14,27): 0.8548667430877686	 ([simply][confused])
+I(36,52): -0.8533011674880981	 ([things][however,])
+I(27,31): 0.8288791179656982	 ([confused][differs])
+I(30,39): 0.8280127048492432	 ([cast][scene])
+I(17,52): -0.823084831237793	 ([segues][however,])
+I(26,52): -0.8110289573669434	 ([initially][however,])
+I(11,39): 0.8100194931030273	 ([comedy][scene])
+I(14,15): 0.801830530166626	 ([simply][engaging])
+I(18,27): 0.780297040939331	 ([comedy][confused])
+I(47,51): 0.7753095626831055	 ([( more][premise ).])
+I(58,59): -0.7752032279968262	 ([totally][different])
+I(26,28): 0.7747042179107666	 ([initially][fact])
+I(27,56): -0.7513895034790039	 ([confused][stories])
+I(20,21): -0.7486486434936523	 ([tragedy][part])
+I(52,61): -0.7239346504211426	 ([however,][happen])
+I(20,30): 0.7084908485412598	 ([tragedy][cast])
+I(51,57): 0.7030298709869385	 ([premise ).][two])
+I(7,15): 0.6926438808441162	 ([chloe][engaging])
+I(11,52): -0.6853342056274414	 ([comedy][however,])
+I(7,30): 0.6823313236236572	 ([chloe][cast])
+I(18,39): 0.6758556365966797	 ([comedy][scene])
+I(47,52): 0.671973705291748	 ([( more][however,])
+I(27,43): -0.670027494430542	 ([confused][would])
+I(27,55): -0.663867712020874	 ([confused][different])
+I(3,4): 0.6571561098098755	 ([good][acting])
+I(54,58): -0.6394248008728027	 ([totally][totally])
+I(52,60): -0.6338191032409668	 ([however,][women,])
+I(27,30): 0.6265175342559814	 ([confused][cast])
+I(42,43): 0.6261019706726074	 ([melinda][would])
+I(51,55): 0.6224045753479004	 ([premise ).][different])
+I(11,12): 0.6173446178436279	 ([comedy][half])
+I(8,11): -0.610938549041748	 ([sevigny,][comedy])
+I(7,45): 0.6066677570343018	 ([chloe][reacting])
+I(55,60): -0.5984611511230469	 ([different][women,])
+I(18,52): -0.5892784595489502	 ([comedy][however,])
+I(50,51): 0.5832123756408691	 (["][premise ).])
+I(51,54): 0.5827429294586182	 ([premise ).][totally])
+I(52,54): 0.57867431640625	 ([however,][totally])
+I(52,57): 0.5767433643341064	 ([however,][two])
+I(2,52): -0.5696954727172852	 ([although][however,])
+I(53,56): -0.5686607360839844	 ([two][stories])
+I(7,8): -0.5572628974914551	 ([chloe][sevigny,])
+I(45,46): 0.5552365779876709	 ([reacting][differently])
+I(11,18): 0.5442919731140137	 ([comedy][comedy])
+I(27,57): 0.5442891120910645	 ([confused][two])
+I(9,27): 0.5419375896453857	 ([radha][confused])
+I(16,27): 0.5394737720489502	 ([film.][confused])
+I(0,27): -0.5360081195831299	 ([possible][confused])
+I(7,51): 0.5343849658966064	 ([chloe][premise ).])
+I(1,56): -0.5294961929321289	 ([spoilers.][stories])
+I(55,56): -0.526092529296875	 ([different][stories])
+I(40,45): -0.5196142196655273	 ([people][reacting])
+I(15,20): 0.515180230140686	 ([engaging][tragedy])
+I(4,7): 0.5053784847259521	 ([acting][chloe])
+I(11,26): 0.4985334873199463	 ([comedy][initially])
+I(3,30): 0.4969503879547119	 ([good][cast])
+I(39,52): -0.49119746685028076	 ([scene][however,])
+I(18,20): -0.48847293853759766	 ([comedy][tragedy])
+I(28,52): 0.4829084873199463	 ([fact][however,])
+I(27,48): 0.47536301612854004	 ([confused][said,])
+I(3,45): 0.4667370319366455	 ([good][reacting])
+I(14,16): 0.46639394760131836	 ([simply][film.])
+I(47,57): 0.4620976448059082	 ([( more][two])
+I(7,57): 0.4620344638824463	 ([chloe][two])
+I(18,19): 0.45891785621643066	 ([comedy][part])
+I(56,60): -0.45519423484802246	 ([stories][women,])
+I(49,50): 0.44833338260650635	 ([said]["])
+I(3,51): 0.44502782821655273	 ([good][premise ).])
+I(7,56): -0.44361448287963867	 ([chloe][stories])
+I(18,30): 0.4343085289001465	 ([comedy][cast])
+I(27,36): 0.4321253299713135	 ([confused][things])
+I(43,52): 0.43000102043151855	 ([would][however,])
+I(30,61): 0.4298593997955322	 ([cast][happen])
+I(7,61): 0.4293394088745117	 ([chloe][happen])
+I(27,33): -0.4285423755645752	 ([confused][halves ;])
+I(17,27): 0.42627382278442383	 ([segues][confused])
+I(18,60): 0.4223299026489258	 ([comedy][women,])
+I(4,8): -0.42183351516723633	 ([acting][sevigny,])
+I(10,30): 0.42109203338623047	 ([mitchell][cast])
+I(20,48): 0.4200000762939453	 ([tragedy][said,])
+I(1,30): 0.41623246669769287	 ([spoilers.][cast])
+I(3,39): 0.4160189628601074	 ([good][scene])
+I(37,45): -0.41217994689941406	 ([laid][reacting])
+I(20,39): 0.41104841232299805	 ([tragedy][scene])
+I(48,49): -0.40941882133483887	 ([said,][said])
+I(27,29): 0.40846896171569824	 ([confused][supporting])
+I(48,51): -0.4009208679199219	 ([said,][premise ).])
+I(25,52): -0.40078186988830566	 ([viewer][however,])
+I(3,40): -0.39791417121887207	 ([good][people])
+I(27,53): -0.39618468284606934	 ([confused][two])
+I(52,55): 0.39478468894958496	 ([however,][different])
+I(26,48): 0.3884556293487549	 ([initially][said,])
+I(22,52): -0.3864877223968506	 ([awkward][however,])
+I(4,30): 0.383617639541626	 ([acting][cast])
+I(51,58): 0.38322901725769043	 ([premise ).][totally])
+I(4,11): 0.38307809829711914	 ([acting][comedy])
+I(54,57): 0.38100624084472656	 ([totally][two])
+I(1,47): 0.3794283866882324	 ([spoilers.][( more])
+I(8,18): -0.3786349296569824	 ([sevigny,][comedy])
+I(8,16): -0.37858104705810547	 ([sevigny,][film.])
+I(27,45): 0.37277698516845703	 ([confused][reacting])
+I(1,55): -0.3712654113769531	 ([spoilers.][different])
+I(47,54): 0.3707127571105957	 ([( more][totally])
+I(57,59): -0.3657376766204834	 ([two][different])
+I(28,49): 0.36482930183410645	 ([fact][said])
+I(20,61): 0.36343812942504883	 ([tragedy][happen])
+I(20,57): 0.36153364181518555	 ([tragedy][two])
+I(39,45): 0.3579981327056885	 ([scene][reacting])
+I(3,57): 0.35743772983551025	 ([good][two])
+I(11,61): 0.35648012161254883	 ([comedy][happen])
+I(15,27): 0.3564109802246094	 ([engaging][confused])
+I(10,27): 0.35364508628845215	 ([mitchell][confused])
+I(27,58): 0.3529224395751953	 ([confused][totally])
+I(45,47): 0.35074734687805176	 ([reacting][( more])
+I(59,60): -0.3448679447174072	 ([different][women,])
+I(10,45): 0.34326720237731934	 ([mitchell][reacting])
+I(30,45): 0.3431105613708496	 ([cast][reacting])
+I(26,61): 0.3402383327484131	 ([initially][happen])
+I(30,57): 0.33912181854248047	 ([cast][two])
+I(0,51): 0.33901047706604004	 ([possible][premise ).])
+I(47,60): 0.33896946907043457	 ([( more][women,])
+I(3,53): 0.3388413190841675	 ([good][two])
+I(47,53): 0.3375058174133301	 ([( more][two])
+I(56,59): -0.33611559867858887	 ([stories][different])
+I(52,58): 0.3360459804534912	 ([however,][totally])
+I(33,35): 0.3357064723968506	 ([halves ;][way])
+I(15,61): 0.33556580543518066	 ([engaging][happen])
+I(35,36): -0.33406805992126465	 ([way][things])
+I(7,49): 0.3322012424468994	 ([chloe][said])
+I(1,39): 0.3319990634918213	 ([spoilers.][scene])
+I(24,27): 0.3314392566680908	 ([obvious.][confused])
+I(10,51): 0.330883264541626	 ([mitchell][premise ).])
+I(20,51): 0.330672025680542	 ([tragedy][premise ).])
+I(20,26): 0.3301351070404053	 ([tragedy][initially])
+I(55,59): -0.32726144790649414	 ([different][different])
+I(15,30): 0.3256056308746338	 ([engaging][cast])
+I(36,49): -0.3248257637023926	 ([things][said])
+I(34,52): -0.32355761528015137	 ([thought][however,])
+I(53,60): -0.3208353519439697	 ([two][women,])
+I(3,56): -0.3207736015319824	 ([good][stories])
+I(27,44): -0.3205728530883789	 ([confused][people,])
+I(49,56): -0.3199458122253418	 ([said][stories])
+I(25,34): -0.31783390045166016	 ([viewer][thought])
+I(11,60): 0.31745409965515137	 ([comedy][women,])
+I(7,40): -0.31743621826171875	 ([chloe][people])
+I(1,4): 0.31698083877563477	 ([spoilers.][acting])
+I(11,16): 0.31688642501831055	 ([comedy][film.])
+I(8,27): 0.31376123428344727	 ([sevigny,][confused])
+I(4,39): 0.31136393547058105	 ([acting][scene])
+I(47,61): 0.31084537506103516	 ([( more][happen])
+I(15,48): 0.309525728225708	 ([engaging][said,])
+I(6,7): -0.30500125885009766	 ([particularly][chloe])
+I(45,56): -0.3043837547302246	 ([reacting][stories])
+I(20,24): -0.30420780181884766	 ([tragedy][obvious.])
+I(38,52): -0.30304384231567383	 ([opening][however,])
+I(0,47): 0.30292272567749023	 ([possible][( more])
+I(7,39): 0.3026700019836426	 ([chloe][scene])
+I(0,52): 0.3003513813018799	 ([possible][however,])
+I(25,26): 0.2994651794433594	 ([viewer][initially])
+I(7,48): 0.2985506057739258	 ([chloe][said,])
+I(1,40): -0.2965376377105713	 ([spoilers.][people])
+I(26,43): -0.2953636646270752	 ([initially][would])
+I(20,33): -0.29256629943847656	 ([tragedy][halves ;])
+I(18,26): 0.2883894443511963	 ([comedy][initially])
+I(4,16): 0.28786492347717285	 ([acting][film.])
+I(45,61): 0.2859659194946289	 ([reacting][happen])
+I(16,51): 0.28530406951904297	 ([film.][premise ).])
+I(7,52): 0.2839393615722656	 ([chloe][however,])
+I(10,15): 0.2838292121887207	 ([mitchell][engaging])
+I(27,40): 0.28324055671691895	 ([confused][people])
+I(16,30): 0.2829420566558838	 ([film.][cast])
+I(41,56): -0.2823977470397949	 ([surrounding][stories])
+I(20,56): -0.27860593795776367	 ([tragedy][stories])
+I(3,28): 0.2784891128540039	 ([good][fact])
+I(4,48): 0.27764010429382324	 ([acting][said,])
+I(7,26): 0.27669763565063477	 ([chloe][initially])
+Sum: 40.29999017715454
+==================================================

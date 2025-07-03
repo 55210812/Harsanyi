@@ -1,0 +1,74 @@
+Execution time: 2025-07-03 15:09:26
+prompt: [CLS] what a horrible comedy. totally lame. the supposed humor " was simple and stupid. stanly tucci ( a great actor ) had the only parts worth chuckling at. and he was tied up and gagged at the time. don't waste your time with this one. it deserves a 0 10. " [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2054 decoded_text: what
+idx:2 input_id:1037 decoded_text: a
+idx:3 input_id:9202 decoded_text: horrible
+idx:4 input_id:4038 decoded_text: comedy
+idx:5 input_id:1012 decoded_text: .
+idx:6 input_id:6135 decoded_text: totally
+idx:7 input_id:20342 decoded_text: lame
+idx:8 input_id:1012 decoded_text: .
+idx:9 input_id:1996 decoded_text: the
+idx:10 input_id:4011 decoded_text: supposed
+idx:11 input_id:8562 decoded_text: humor
+idx:12 input_id:1000 decoded_text: "
+idx:13 input_id:2001 decoded_text: was
+idx:14 input_id:3722 decoded_text: simple
+idx:15 input_id:1998 decoded_text: and
+idx:16 input_id:5236 decoded_text: stupid
+idx:17 input_id:1012 decoded_text: .
+idx:18 input_id:9761 decoded_text: stan
+idx:19 input_id:2135 decoded_text: ##ly
+idx:20 input_id:10722 decoded_text: tu
+idx:21 input_id:14693 decoded_text: ##cci
+idx:22 input_id:1006 decoded_text: (
+idx:23 input_id:1037 decoded_text: a
+idx:24 input_id:2307 decoded_text: great
+idx:25 input_id:3364 decoded_text: actor
+idx:26 input_id:1007 decoded_text: )
+idx:27 input_id:2018 decoded_text: had
+idx:28 input_id:1996 decoded_text: the
+idx:29 input_id:2069 decoded_text: only
+idx:30 input_id:3033 decoded_text: parts
+idx:31 input_id:4276 decoded_text: worth
+idx:32 input_id:8057 decoded_text: chuck
+idx:33 input_id:2989 decoded_text: ##ling
+idx:34 input_id:2012 decoded_text: at
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:1998 decoded_text: and
+idx:37 input_id:2002 decoded_text: he
+idx:38 input_id:2001 decoded_text: was
+idx:39 input_id:5079 decoded_text: tied
+idx:40 input_id:2039 decoded_text: up
+idx:41 input_id:1998 decoded_text: and
+idx:42 input_id:18201 decoded_text: gag
+idx:43 input_id:5999 decoded_text: ##ged
+idx:44 input_id:2012 decoded_text: at
+idx:45 input_id:1996 decoded_text: the
+idx:46 input_id:2051 decoded_text: time
+idx:47 input_id:1012 decoded_text: .
+idx:48 input_id:2123 decoded_text: don
+idx:49 input_id:1005 decoded_text: '
+idx:50 input_id:1056 decoded_text: t
+idx:51 input_id:5949 decoded_text: waste
+idx:52 input_id:2115 decoded_text: your
+idx:53 input_id:2051 decoded_text: time
+idx:54 input_id:2007 decoded_text: with
+idx:55 input_id:2023 decoded_text: this
+idx:56 input_id:2028 decoded_text: one
+idx:57 input_id:1012 decoded_text: .
+idx:58 input_id:2009 decoded_text: it
+idx:59 input_id:17210 decoded_text: deserves
+idx:60 input_id:1037 decoded_text: a
+idx:61 input_id:1014 decoded_text: 0
+idx:62 input_id:2184 decoded_text: 10
+idx:63 input_id:1012 decoded_text: .
+idx:64 input_id:1000 decoded_text: "
+idx:65 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[3.9335803985595703, -3.546804428100586]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

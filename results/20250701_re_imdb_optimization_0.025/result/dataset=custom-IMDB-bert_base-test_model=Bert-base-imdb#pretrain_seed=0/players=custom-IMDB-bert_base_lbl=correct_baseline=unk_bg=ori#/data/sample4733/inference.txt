@@ -1,0 +1,58 @@
+Execution time: 2025-07-03 21:01:54
+prompt: [CLS] the creators of south park in their own film here, this is a brilliant film with a huge entertainment factor. if you like naked gun films and are not young and not too mature or serious on your humor, you'll love this. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:17277 decoded_text: creators
+idx:3 input_id:1997 decoded_text: of
+idx:4 input_id:2148 decoded_text: south
+idx:5 input_id:2380 decoded_text: park
+idx:6 input_id:1999 decoded_text: in
+idx:7 input_id:2037 decoded_text: their
+idx:8 input_id:2219 decoded_text: own
+idx:9 input_id:2143 decoded_text: film
+idx:10 input_id:2182 decoded_text: here
+idx:11 input_id:1010 decoded_text: ,
+idx:12 input_id:2023 decoded_text: this
+idx:13 input_id:2003 decoded_text: is
+idx:14 input_id:1037 decoded_text: a
+idx:15 input_id:8235 decoded_text: brilliant
+idx:16 input_id:2143 decoded_text: film
+idx:17 input_id:2007 decoded_text: with
+idx:18 input_id:1037 decoded_text: a
+idx:19 input_id:4121 decoded_text: huge
+idx:20 input_id:4024 decoded_text: entertainment
+idx:21 input_id:5387 decoded_text: factor
+idx:22 input_id:1012 decoded_text: .
+idx:23 input_id:2065 decoded_text: if
+idx:24 input_id:2017 decoded_text: you
+idx:25 input_id:2066 decoded_text: like
+idx:26 input_id:6248 decoded_text: naked
+idx:27 input_id:3282 decoded_text: gun
+idx:28 input_id:3152 decoded_text: films
+idx:29 input_id:1998 decoded_text: and
+idx:30 input_id:2024 decoded_text: are
+idx:31 input_id:2025 decoded_text: not
+idx:32 input_id:2402 decoded_text: young
+idx:33 input_id:1998 decoded_text: and
+idx:34 input_id:2025 decoded_text: not
+idx:35 input_id:2205 decoded_text: too
+idx:36 input_id:9677 decoded_text: mature
+idx:37 input_id:2030 decoded_text: or
+idx:38 input_id:3809 decoded_text: serious
+idx:39 input_id:2006 decoded_text: on
+idx:40 input_id:2115 decoded_text: your
+idx:41 input_id:8562 decoded_text: humor
+idx:42 input_id:1010 decoded_text: ,
+idx:43 input_id:2017 decoded_text: you
+idx:44 input_id:1005 decoded_text: '
+idx:45 input_id:2222 decoded_text: ll
+idx:46 input_id:2293 decoded_text: love
+idx:47 input_id:2023 decoded_text: this
+idx:48 input_id:1012 decoded_text: .
+idx:49 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-3.668541431427002, 4.0398850440979]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

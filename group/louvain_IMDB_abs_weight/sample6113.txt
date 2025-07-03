@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['12', '11', '20', '10', '13', '14', '21']: ['theatre', 'owner', 'night', 'started', 'got', 'told', 'before,']: 平均边权 0.3506
+社区 2: ['27', '32', '29', '34', '30', '24', '33', '26', '31']: ['anyone', 'going', 'understood', 'understood', 'bad', 'premiere.', 'point.', 'think', 'movie']: 平均边权 0.6854
+社区 3: ['46', '42', '44', '49', '25', '45']: ['homage', 'angel', 'biography', 'half', '"', 'misguided']: 平均边权 1.0834
+社区 4: ['43', '38', '41', '40']: ['bad', 'sort', 'dark', 'one.']: 平均边权 0.3821
+社区 5: ['2', '4', '3', '23', '1', '7']: ['beyond', 'saw', 'belief.', 'world', 'bad', 'francisco']: 平均边权 0.7352
+社区 6: ['39', '16', '15', '37', '35', '17', '36']: ['sold', 'half', 'us', 'though', 'end.', 'audience', 'documentary']: 平均边权 0.3836
+社区 7: ['55', '5', '48', '53', '9', '47']: ['paige', '2004', 'paige,', 'old', 'festival.', 'bettie']: 平均边权 0.3238
+社区 8: ['8', '56', '57', '0', '19', '52', '18', '50', '51', '6', '54']: ['film', 'movies.', 'movie', 'movie', 'theatre', 'remakes', 'left', 'movie', 'actually', 'san', 'bettie']: 平均边权 0.4274
+社区 9: ['22', '28']: ['happened', 'theatre']: 平均边权 0.2576

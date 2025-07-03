@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['10', '57', '6', '9']: ['bad.', 'living,', 'get', 'think']: 平均边权 1.3735
+社区 2: ['12', '11']: ['seen', "i've"]: 平均边权 1.5078
+社区 3: ['20', '19', '18', '21', '17']: ['ghost', '"', 'dwells', 'story', 'evil']: 平均边权 0.7928
+社区 4: ['56', '36', '46', '52', '55', '50', '53', '51', '54']: ['bodies', 'ninja', 'sword.', 'previous', 'possess', 'house,', 'residents', 'ghosts', 'begin']: 平均边权 0.2623
+社区 5: ['48', '49', '47']: ['things', 'happen', 'strange']: 平均边权 0.5530
+社区 6: ['4', '16', '33', '29', '31']: ['movie', 'house', 'little', 'move', 'house']: 平均边权 0.2890
+社区 7: ['0', '35', '32', '45', '58', '22', '59', '28']: ['reading', 'japanese', 'japan.', 'samurai', 'plan', 'husband', 're - enacting', 'amy,']: 平均边权 0.2496
+社区 8: ['2', '8', '5', '38', '39', '3', '41', '1', '7']: ['posted', 'lot,', 'seems', 'murdered', 'wife', 'imdb,', 'killed', 'comments', 'ragged']: 平均边权 0.3524
+社区 9: ['27', '13', '25', '34', '40', '15', '23', '24', '26', '14']: ['daughter,', 'much', 'laura', 'know,', 'lover,', 'actually.', 'wife,', 'ted', 'fletcher,', 'worse,']: 平均边权 0.4754
+社区 10: ['43', '30', '42', '44']: ['years', 'old', '100', 'earlier']: 平均边权 0.3023

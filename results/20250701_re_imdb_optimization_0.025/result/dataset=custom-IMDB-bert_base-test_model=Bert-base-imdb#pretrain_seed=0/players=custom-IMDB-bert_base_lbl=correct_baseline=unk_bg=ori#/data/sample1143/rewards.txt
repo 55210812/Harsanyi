@@ -1,0 +1,159 @@
+---------- Players ----------
+Player 0: impressed
+Player 1: could
+Player 2: take
+Player 3: 5
+Player 4: year
+Player 5: old
+Player 6: son
+Player 7: movie
+Player 8: without
+Player 9: cover
+Player 10: ears
+Player 11: eyes.
+Player 12: sex
+Player 13: scenes,
+Player 14: profanity,
+Player 15: even
+Player 16: violence.
+Player 17: good
+Player 18: entertainment,
+Player 19: enjoyable
+Player 20: beginning
+Player 21: end.
+Player 22: dennis
+Player 23: quaid
+Player 24: pulls
+Player 25: movie
+Player 26: well.
+---------- Rewards ----------
+v(): -4.0354132652282715	 ([])
+v(16,17): 2.8252692222595215	 ([violence.][good])
+v(10,14,25): -5.949172496795654	 ([ears][profanity,][movie])
+v(6,12,24,26): 8.261822700500488	 ([son][sex][pulls][well.])
+v(13,15,18,21,22): -6.662291049957275	 ([scenes,][even][entertainment,][end.][dennis])
+v(0,1,2,3,4,5): 2.584649085998535	 ([impressed][could][take][5][year][old])
+v(7,8,9,11,19,20,23): 6.15794563293457	 ([movie][without][cover][eyes.][enjoyable][beginning][quaid])
+v(10,14,16,17,25): 2.8390374183654785	 ([ears][profanity,][violence.][good][movie])
+v(6,12,16,17,24,26): 8.311111450195312	 ([son][sex][violence.][good][pulls][well.])
+v(13,15,16,17,18,21,22): 1.0835719108581543	 ([scenes,][even][violence.][good][entertainment,][end.][dennis])
+v(0,1,2,3,4,5,16,17): 5.339798927307129	 ([impressed][could][take][5][year][old][violence.][good])
+v(7,8,9,11,16,17,19,20,23): 7.066042900085449	 ([movie][without][cover][eyes.][violence.][good][enjoyable][beginning][quaid])
+v(6,10,12,14,24,25,26): 8.66688346862793	 ([son][ears][sex][profanity,][pulls][movie][well.])
+v(10,13,14,15,18,21,22,25): -7.142218112945557	 ([ears][scenes,][profanity,][even][entertainment,][end.][dennis][movie])
+v(0,1,2,3,4,5,10,14,25): 3.2633702754974365	 ([impressed][could][take][5][year][old][ears][profanity,][movie])
+v(7,8,9,10,11,14,19,20,23,25): 7.433181285858154	 ([movie][without][cover][ears][eyes.][profanity,][enjoyable][beginning][quaid][movie])
+v(6,12,13,15,18,21,22,24,26): 7.823884963989258	 ([son][sex][scenes,][even][entertainment,][end.][dennis][pulls][well.])
+v(0,1,2,3,4,5,6,12,24,26): 7.445070266723633	 ([impressed][could][take][5][year][old][son][sex][pulls][well.])
+v(6,7,8,9,11,12,19,20,23,24,26): 8.599268913269043	 ([son][movie][without][cover][eyes.][sex][enjoyable][beginning][quaid][pulls][well.])
+v(0,1,2,3,4,5,13,15,18,21,22): -4.570076942443848	 ([impressed][could][take][5][year][old][scenes,][even][entertainment,][end.][dennis])
+v(7,8,9,11,13,15,18,19,20,21,22,23): 1.7728867530822754	 ([movie][without][cover][eyes.][scenes,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid])
+v(0,1,2,3,4,5,7,8,9,11,19,20,23): 7.461872100830078	 ([impressed][could][take][5][year][old][movie][without][cover][eyes.][enjoyable][beginning][quaid])
+v(6,10,12,14,16,17,24,25,26): 8.472305297851562	 ([son][ears][sex][profanity,][violence.][good][pulls][movie][well.])
+v(10,13,14,15,16,17,18,21,22,25): 1.5253068208694458	 ([ears][scenes,][profanity,][even][violence.][good][entertainment,][end.][dennis][movie])
+v(0,1,2,3,4,5,10,14,16,17,25): 5.550965309143066	 ([impressed][could][take][5][year][old][ears][profanity,][violence.][good][movie])
+v(7,8,9,10,11,14,16,17,19,20,23,25): 7.769861221313477	 ([movie][without][cover][ears][eyes.][profanity,][violence.][good][enjoyable][beginning][quaid][movie])
+v(6,12,13,15,16,17,18,21,22,24,26): 7.829678535461426	 ([son][sex][scenes,][even][violence.][good][entertainment,][end.][dennis][pulls][well.])
+v(0,1,2,3,4,5,6,12,16,17,24,26): 7.595359802246094	 ([impressed][could][take][5][year][old][son][sex][violence.][good][pulls][well.])
+v(6,7,8,9,11,12,16,17,19,20,23,24,26): 8.063394546508789	 ([son][movie][without][cover][eyes.][sex][violence.][good][enjoyable][beginning][quaid][pulls][well.])
+v(0,1,2,3,4,5,13,15,16,17,18,21,22): 4.870576858520508	 ([impressed][could][take][5][year][old][scenes,][even][violence.][good][entertainment,][end.][dennis])
+v(7,8,9,11,13,15,16,17,18,19,20,21,22,23): 6.701701641082764	 ([movie][without][cover][eyes.][scenes,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid])
+v(0,1,2,3,4,5,7,8,9,11,16,17,19,20,23): 7.439848899841309	 ([impressed][could][take][5][year][old][movie][without][cover][eyes.][violence.][good][enjoyable][beginning][quaid])
+v(6,10,12,13,14,15,18,21,22,24,25,26): 7.514837741851807	 ([son][ears][sex][scenes,][profanity,][even][entertainment,][end.][dennis][pulls][movie][well.])
+v(0,1,2,3,4,5,6,10,12,14,24,25,26): 7.810387134552002	 ([impressed][could][take][5][year][old][son][ears][sex][profanity,][pulls][movie][well.])
+v(6,7,8,9,10,11,12,14,19,20,23,24,25,26): 8.53561782836914	 ([son][movie][without][cover][ears][eyes.][sex][profanity,][enjoyable][beginning][quaid][pulls][movie][well.])
+v(0,1,2,3,4,5,10,13,14,15,18,21,22,25): -1.498594045639038	 ([impressed][could][take][5][year][old][ears][scenes,][profanity,][even][entertainment,][end.][dennis][movie])
+v(7,8,9,10,11,13,14,15,18,19,20,21,22,23,25): 5.589672088623047	 ([movie][without][cover][ears][eyes.][scenes,][profanity,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid][movie])
+v(0,1,2,3,4,5,7,8,9,10,11,14,19,20,23,25): 7.379602432250977	 ([impressed][could][take][5][year][old][movie][without][cover][ears][eyes.][profanity,][enjoyable][beginning][quaid][movie])
+v(0,1,2,3,4,5,6,12,13,15,18,21,22,24,26): 7.004528045654297	 ([impressed][could][take][5][year][old][son][sex][scenes,][even][entertainment,][end.][dennis][pulls][well.])
+v(6,7,8,9,11,12,13,15,18,19,20,21,22,23,24,26): 8.176492691040039	 ([son][movie][without][cover][eyes.][sex][scenes,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][well.])
+v(0,1,2,3,4,5,6,7,8,9,11,12,19,20,23,24,26): 7.997127532958984	 ([impressed][could][take][5][year][old][son][movie][without][cover][eyes.][sex][enjoyable][beginning][quaid][pulls][well.])
+v(0,1,2,3,4,5,7,8,9,11,13,15,18,19,20,21,22,23): 6.832961082458496	 ([impressed][could][take][5][year][old][movie][without][cover][eyes.][scenes,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid])
+v(6,10,12,13,14,15,16,17,18,21,22,24,25,26): 7.943397045135498	 ([son][ears][sex][scenes,][profanity,][even][violence.][good][entertainment,][end.][dennis][pulls][movie][well.])
+v(0,1,2,3,4,5,6,10,12,14,16,17,24,25,26): 7.722896575927734	 ([impressed][could][take][5][year][old][son][ears][sex][profanity,][violence.][good][pulls][movie][well.])
+v(6,7,8,9,10,11,12,14,16,17,19,20,23,24,25,26): 8.112040519714355	 ([son][movie][without][cover][ears][eyes.][sex][profanity,][violence.][good][enjoyable][beginning][quaid][pulls][movie][well.])
+v(0,1,2,3,4,5,10,13,14,15,16,17,18,21,22,25): 5.881096839904785	 ([impressed][could][take][5][year][old][ears][scenes,][profanity,][even][violence.][good][entertainment,][end.][dennis][movie])
+v(7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,25): 7.352222442626953	 ([movie][without][cover][ears][eyes.][scenes,][profanity,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid][movie])
+v(0,1,2,3,4,5,7,8,9,10,11,14,16,17,19,20,23,25): 7.545820236206055	 ([impressed][could][take][5][year][old][movie][without][cover][ears][eyes.][profanity,][violence.][good][enjoyable][beginning][quaid][movie])
+v(0,1,2,3,4,5,6,12,13,15,16,17,18,21,22,24,26): 6.994778633117676	 ([impressed][could][take][5][year][old][son][sex][scenes,][even][violence.][good][entertainment,][end.][dennis][pulls][well.])
+v(6,7,8,9,11,12,13,15,16,17,18,19,20,21,22,23,24,26): 8.304201126098633	 ([son][movie][without][cover][eyes.][sex][scenes,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][well.])
+v(0,1,2,3,4,5,6,7,8,9,11,12,16,17,19,20,23,24,26): 7.818774700164795	 ([impressed][could][take][5][year][old][son][movie][without][cover][eyes.][sex][violence.][good][enjoyable][beginning][quaid][pulls][well.])
+v(0,1,2,3,4,5,7,8,9,11,13,15,16,17,18,19,20,21,22,23): 7.216377258300781	 ([impressed][could][take][5][year][old][movie][without][cover][eyes.][scenes,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid])
+v(0,1,2,3,4,5,6,10,12,13,14,15,18,21,22,24,25,26): 6.97144889831543	 ([impressed][could][take][5][year][old][son][ears][sex][scenes,][profanity,][even][entertainment,][end.][dennis][pulls][movie][well.])
+v(6,7,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25,26): 8.551234245300293	 ([son][movie][without][cover][ears][eyes.][sex][scenes,][profanity,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][movie][well.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,19,20,23,24,25,26): 7.977034091949463	 ([impressed][could][take][5][year][old][son][movie][without][cover][ears][eyes.][sex][profanity,][enjoyable][beginning][quaid][pulls][movie][well.])
+v(0,1,2,3,4,5,7,8,9,10,11,13,14,15,18,19,20,21,22,23,25): 7.578681468963623	 ([impressed][could][take][5][year][old][movie][without][cover][ears][eyes.][scenes,][profanity,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid][movie])
+v(0,1,2,3,4,5,6,7,8,9,11,12,13,15,18,19,20,21,22,23,24,26): 8.088542938232422	 ([impressed][could][take][5][year][old][son][movie][without][cover][eyes.][sex][scenes,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][well.])
+v(0,1,2,3,4,5,6,10,12,13,14,15,16,17,18,21,22,24,25,26): 7.070295810699463	 ([impressed][could][take][5][year][old][son][ears][sex][scenes,][profanity,][even][violence.][good][entertainment,][end.][dennis][pulls][movie][well.])
+v(6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.470232009887695	 ([son][movie][without][cover][ears][eyes.][sex][scenes,][profanity,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][movie][well.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,16,17,19,20,23,24,25,26): 7.838382720947266	 ([impressed][could][take][5][year][old][son][movie][without][cover][ears][eyes.][sex][profanity,][violence.][good][enjoyable][beginning][quaid][pulls][movie][well.])
+v(0,1,2,3,4,5,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,25): 7.509520530700684	 ([impressed][could][take][5][year][old][movie][without][cover][ears][eyes.][scenes,][profanity,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid][movie])
+v(0,1,2,3,4,5,6,7,8,9,11,12,13,15,16,17,18,19,20,21,22,23,24,26): 7.771728992462158	 ([impressed][could][take][5][year][old][son][movie][without][cover][eyes.][sex][scenes,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][well.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25,26): 8.158798217773438	 ([impressed][could][take][5][year][old][son][movie][without][cover][ears][eyes.][sex][scenes,][profanity,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][movie][well.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 7.962752342224121	 ([impressed][could][take][5][year][old][son][movie][without][cover][ears][eyes.][sex][scenes,][profanity,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][movie][well.])
+---------- Rewards-v() ----------
+v(6,10,12,14,24,25,26): 12.70229721069336, EP: 1.05868661403656	 ([son][ears][sex][profanity,][pulls][movie][well.])
+v(6,7,8,9,11,12,19,20,23,24,26): 12.634681701660156, EP: 1.0530511140823364	 ([son][movie][without][cover][eyes.][sex][enjoyable][beginning][quaid][pulls][well.])
+v(6,7,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25,26): 12.586647033691406, EP: 1.0490477085113525	 ([son][movie][without][cover][ears][eyes.][sex][scenes,][profanity,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][movie][well.])
+v(6,7,8,9,10,11,12,14,19,20,23,24,25,26): 12.57103157043457, EP: 1.047746181488037	 ([son][movie][without][cover][ears][eyes.][sex][profanity,][enjoyable][beginning][quaid][pulls][movie][well.])
+v(6,10,12,14,16,17,24,25,26): 12.507719039916992, EP: 1.0424692630767822	 ([son][ears][sex][profanity,][violence.][good][pulls][movie][well.])
+v(6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 12.505645751953125, EP: 1.0422965288162231	 ([son][movie][without][cover][ears][eyes.][sex][scenes,][profanity,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][movie][well.])
+v(6,12,16,17,24,26): 12.346525192260742, EP: 1.0290344953536987	 ([son][sex][violence.][good][pulls][well.])
+v(6,7,8,9,11,12,13,15,16,17,18,19,20,21,22,23,24,26): 12.339614868164062, EP: 1.0284584760665894	 ([son][movie][without][cover][eyes.][sex][scenes,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][well.])
+v(6,12,24,26): 12.297235488891602, EP: 1.0249263048171997	 ([son][sex][pulls][well.])
+v(6,7,8,9,11,12,13,15,18,19,20,21,22,23,24,26): 12.211906433105469, EP: 1.0178145170211792	 ([son][movie][without][cover][eyes.][sex][scenes,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][well.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25,26): 12.194211959838867, EP: 1.0163397789001465	 ([impressed][could][take][5][year][old][son][movie][without][cover][ears][eyes.][sex][scenes,][profanity,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][movie][well.])
+v(6,7,8,9,10,11,12,14,16,17,19,20,23,24,25,26): 12.147453308105469, EP: 1.0124425888061523	 ([son][movie][without][cover][ears][eyes.][sex][profanity,][violence.][good][enjoyable][beginning][quaid][pulls][movie][well.])
+v(0,1,2,3,4,5,6,7,8,9,11,12,13,15,18,19,20,21,22,23,24,26): 12.123956680297852, EP: 1.010484218597412	 ([impressed][could][take][5][year][old][son][movie][without][cover][eyes.][sex][scenes,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][well.])
+v(6,7,8,9,11,12,16,17,19,20,23,24,26): 12.098808288574219, EP: 1.0083881616592407	 ([son][movie][without][cover][eyes.][sex][violence.][good][enjoyable][beginning][quaid][pulls][well.])
+v(0,1,2,3,4,5,6,7,8,9,11,12,19,20,23,24,26): 12.032541275024414, EP: 1.0028650760650635	 ([impressed][could][take][5][year][old][son][movie][without][cover][eyes.][sex][enjoyable][beginning][quaid][pulls][well.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,19,20,23,24,25,26): 12.012447357177734, EP: 1.001190423965454	 ([impressed][could][take][5][year][old][son][movie][without][cover][ears][eyes.][sex][profanity,][enjoyable][beginning][quaid][pulls][movie][well.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 11.998165130615234, EP: 1.0	 ([impressed][could][take][5][year][old][son][movie][without][cover][ears][eyes.][sex][scenes,][profanity,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][movie][well.])
+v(6,10,12,13,14,15,16,17,18,21,22,24,25,26): 11.97881031036377, EP: 0.9983868598937988	 ([son][ears][sex][scenes,][profanity,][even][violence.][good][entertainment,][end.][dennis][pulls][movie][well.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,16,17,19,20,23,24,25,26): 11.873796463012695, EP: 0.9896343350410461	 ([impressed][could][take][5][year][old][son][movie][without][cover][ears][eyes.][sex][profanity,][violence.][good][enjoyable][beginning][quaid][pulls][movie][well.])
+v(6,12,13,15,16,17,18,21,22,24,26): 11.865091323852539, EP: 0.9889088273048401	 ([son][sex][scenes,][even][violence.][good][entertainment,][end.][dennis][pulls][well.])
+v(6,12,13,15,18,21,22,24,26): 11.859298706054688, EP: 0.9884260296821594	 ([son][sex][scenes,][even][entertainment,][end.][dennis][pulls][well.])
+v(0,1,2,3,4,5,6,7,8,9,11,12,16,17,19,20,23,24,26): 11.854187965393066, EP: 0.9880000948905945	 ([impressed][could][take][5][year][old][son][movie][without][cover][eyes.][sex][violence.][good][enjoyable][beginning][quaid][pulls][well.])
+v(0,1,2,3,4,5,6,10,12,14,24,25,26): 11.845800399780273, EP: 0.9873009920120239	 ([impressed][could][take][5][year][old][son][ears][sex][profanity,][pulls][movie][well.])
+v(0,1,2,3,4,5,6,7,8,9,11,12,13,15,16,17,18,19,20,21,22,23,24,26): 11.80714225769043, EP: 0.9840790033340454	 ([impressed][could][take][5][year][old][son][movie][without][cover][eyes.][sex][scenes,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid][pulls][well.])
+v(7,8,9,10,11,14,16,17,19,20,23,25): 11.805274963378906, EP: 0.9839233756065369	 ([movie][without][cover][ears][eyes.][profanity,][violence.][good][enjoyable][beginning][quaid][movie])
+v(0,1,2,3,4,5,6,10,12,14,16,17,24,25,26): 11.758310317993164, EP: 0.9800090193748474	 ([impressed][could][take][5][year][old][son][ears][sex][profanity,][violence.][good][pulls][movie][well.])
+v(0,1,2,3,4,5,6,12,16,17,24,26): 11.630773544311523, EP: 0.9693793654441833	 ([impressed][could][take][5][year][old][son][sex][violence.][good][pulls][well.])
+v(0,1,2,3,4,5,7,8,9,10,11,13,14,15,18,19,20,21,22,23,25): 11.614094734191895, EP: 0.9679892659187317	 ([impressed][could][take][5][year][old][movie][without][cover][ears][eyes.][scenes,][profanity,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid][movie])
+v(0,1,2,3,4,5,7,8,9,10,11,14,16,17,19,20,23,25): 11.581233978271484, EP: 0.9652504324913025	 ([impressed][could][take][5][year][old][movie][without][cover][ears][eyes.][profanity,][violence.][good][enjoyable][beginning][quaid][movie])
+v(6,10,12,13,14,15,18,21,22,24,25,26): 11.550251007080078, EP: 0.9626681208610535	 ([son][ears][sex][scenes,][profanity,][even][entertainment,][end.][dennis][pulls][movie][well.])
+v(0,1,2,3,4,5,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,25): 11.544933319091797, EP: 0.9622249007225037	 ([impressed][could][take][5][year][old][movie][without][cover][ears][eyes.][scenes,][profanity,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid][movie])
+v(0,1,2,3,4,5,7,8,9,11,19,20,23): 11.497285842895508, EP: 0.9582536816596985	 ([impressed][could][take][5][year][old][movie][without][cover][eyes.][enjoyable][beginning][quaid])
+v(0,1,2,3,4,5,6,12,24,26): 11.480484008789062, EP: 0.9568533301353455	 ([impressed][could][take][5][year][old][son][sex][pulls][well.])
+v(0,1,2,3,4,5,7,8,9,11,16,17,19,20,23): 11.475261688232422, EP: 0.9564180374145508	 ([impressed][could][take][5][year][old][movie][without][cover][eyes.][violence.][good][enjoyable][beginning][quaid])
+v(7,8,9,10,11,14,19,20,23,25): 11.468594551086426, EP: 0.9558623433113098	 ([movie][without][cover][ears][eyes.][profanity,][enjoyable][beginning][quaid][movie])
+v(0,1,2,3,4,5,7,8,9,10,11,14,19,20,23,25): 11.415016174316406, EP: 0.9513968229293823	 ([impressed][could][take][5][year][old][movie][without][cover][ears][eyes.][profanity,][enjoyable][beginning][quaid][movie])
+v(7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,25): 11.387636184692383, EP: 0.9491147994995117	 ([movie][without][cover][ears][eyes.][scenes,][profanity,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid][movie])
+v(0,1,2,3,4,5,7,8,9,11,13,15,16,17,18,19,20,21,22,23): 11.251791000366211, EP: 0.9377926588058472	 ([impressed][could][take][5][year][old][movie][without][cover][eyes.][scenes,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid])
+v(0,1,2,3,4,5,6,10,12,13,14,15,16,17,18,21,22,24,25,26): 11.105709075927734, EP: 0.9256172776222229	 ([impressed][could][take][5][year][old][son][ears][sex][scenes,][profanity,][even][violence.][good][entertainment,][end.][dennis][pulls][movie][well.])
+v(7,8,9,11,16,17,19,20,23): 11.101455688476562, EP: 0.9252628087997437	 ([movie][without][cover][eyes.][violence.][good][enjoyable][beginning][quaid])
+v(0,1,2,3,4,5,6,12,13,15,18,21,22,24,26): 11.039941787719727, EP: 0.9201358556747437	 ([impressed][could][take][5][year][old][son][sex][scenes,][even][entertainment,][end.][dennis][pulls][well.])
+v(0,1,2,3,4,5,6,12,13,15,16,17,18,21,22,24,26): 11.030191421508789, EP: 0.919323205947876	 ([impressed][could][take][5][year][old][son][sex][scenes,][even][violence.][good][entertainment,][end.][dennis][pulls][well.])
+v(0,1,2,3,4,5,6,10,12,13,14,15,18,21,22,24,25,26): 11.00686264038086, EP: 0.917378842830658	 ([impressed][could][take][5][year][old][son][ears][sex][scenes,][profanity,][even][entertainment,][end.][dennis][pulls][movie][well.])
+v(0,1,2,3,4,5,7,8,9,11,13,15,18,19,20,21,22,23): 10.86837387084961, EP: 0.9058363437652588	 ([impressed][could][take][5][year][old][movie][without][cover][eyes.][scenes,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid])
+v(7,8,9,11,13,15,16,17,18,19,20,21,22,23): 10.737114906311035, EP: 0.894896388053894	 ([movie][without][cover][eyes.][scenes,][even][violence.][good][entertainment,][enjoyable][beginning][end.][dennis][quaid])
+v(7,8,9,11,19,20,23): 10.193359375, EP: 0.8495765328407288	 ([movie][without][cover][eyes.][enjoyable][beginning][quaid])
+v(0,1,2,3,4,5,10,13,14,15,16,17,18,21,22,25): 9.916509628295898, EP: 0.8265022039413452	 ([impressed][could][take][5][year][old][ears][scenes,][profanity,][even][violence.][good][entertainment,][end.][dennis][movie])
+v(7,8,9,10,11,13,14,15,18,19,20,21,22,23,25): 9.625085830688477, EP: 0.8022131323814392	 ([movie][without][cover][ears][eyes.][scenes,][profanity,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid][movie])
+v(0,1,2,3,4,5,10,14,16,17,25): 9.58637809753418, EP: 0.7989870309829712	 ([impressed][could][take][5][year][old][ears][profanity,][violence.][good][movie])
+v(0,1,2,3,4,5,16,17): 9.375211715698242, EP: 0.7813871502876282	 ([impressed][could][take][5][year][old][violence.][good])
+v(0,1,2,3,4,5,13,15,16,17,18,21,22): 8.905990600585938, EP: 0.7422794103622437	 ([impressed][could][take][5][year][old][scenes,][even][violence.][good][entertainment,][end.][dennis])
+v(0,1,2,3,4,5,10,14,25): 7.298783302307129, EP: 0.6083249449729919	 ([impressed][could][take][5][year][old][ears][profanity,][movie])
+v(10,14,16,17,25): 6.87445068359375, EP: 0.5729584693908691	 ([ears][profanity,][violence.][good][movie])
+v(16,17): 6.860682487487793, EP: 0.5718109607696533	 ([violence.][good])
+v(0,1,2,3,4,5): 6.620062351226807, EP: 0.5517562031745911	 ([impressed][could][take][5][year][old])
+v(7,8,9,11,13,15,18,19,20,21,22,23): 5.808300018310547, EP: 0.48409903049468994	 ([movie][without][cover][eyes.][scenes,][even][entertainment,][enjoyable][beginning][end.][dennis][quaid])
+v(10,13,14,15,16,17,18,21,22,25): 5.560719966888428, EP: 0.4634642004966736	 ([ears][scenes,][profanity,][even][violence.][good][entertainment,][end.][dennis][movie])
+v(13,15,16,17,18,21,22): 5.118985176086426, EP: 0.4266473352909088	 ([scenes,][even][violence.][good][entertainment,][end.][dennis])
+v(10,13,14,15,18,21,22,25): -3.106804847717285, EP: -0.2589400112628937	 ([ears][scenes,][profanity,][even][entertainment,][end.][dennis][movie])
+v(13,15,18,21,22): -2.626877784729004, EP: -0.21893996000289917	 ([scenes,][even][entertainment,][end.][dennis])
+v(0,1,2,3,4,5,10,13,14,15,18,21,22,25): 2.5368192195892334, EP: 0.21143393218517303	 ([impressed][could][take][5][year][old][ears][scenes,][profanity,][even][entertainment,][end.][dennis][movie])
+v(10,14,25): -1.9137592315673828, EP: -0.15950432419776917	 ([ears][profanity,][movie])
+v(0,1,2,3,4,5,13,15,18,21,22): -0.5346636772155762, EP: -0.044562119990587234	 ([impressed][could][take][5][year][old][scenes,][even][entertainment,][end.][dennis])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

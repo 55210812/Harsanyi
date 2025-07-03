@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['56', '57', '49', '52', '55', '50', '53', '59', '54']: ['art', 'gallery.', "i'm", "i'm", 'job', 'art', 'looking', 'ok,', 'get']: 平均边权 0.4041
+社区 2: ['15', '27', '33', '26', '28']: ['film', 'woody', 'least', 'care', 'allen,']: 平均边权 0.3874
+社区 3: ['12', '8', '5', '13', '25', '47', '11', '9', '62', '10', '6', '7']: ['however', 'maybe', 'form', 'laugh', 'are.', 'example :', 'not,', 'laugh.', 'honestly,', 'would', 'would', 'read']: 平均边权 0.3621
+社区 4: ['2', '0', '1', '21', '22', '23', '24', '17']: ['across', 'accidentally', 'stumbled', 'although', 'still', 'altogether', 'sure', 'would']: 平均边权 0.2613
+社区 5: ['20', '19']: ['laugh.', 'want']: 平均边权 0.5396
+社区 6: ['63', '35', '36', '32', '29', '34', '30', '31']: ['know', 'knowingly', 'write', 'dialogue,', 'writer', 'cannot', 'cannot', 'write']: 平均边权 0.3116
+社区 7: ['58', '16', '46', '51', '45', '40']: ['"', 'director', 'clowns.', 'historian,', 'ticklish', 'actors']: 平均边权 0.5922
+社区 8: ['39', '38', '41', '42', '44', '37', '43']: ['performances', 'draw', 'capable', 'drawing', 'even', 'dialogue', 'laughter']: 平均边权 0.5170
+社区 9: ['4', '61', '48', '3', '60', '14', '18']: ['textual', 'fact', '( paraphrase )', 'script', 'states', 'points', 'seem']: 平均边权 0.2907

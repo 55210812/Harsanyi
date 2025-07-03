@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['39', '41', '3', '44', '43', '40']: ['film', 'film', 'columbine', 'film', 'watching', 'well']: 平均边权 0.9259
+社区 2: ['15', '37', '36', '35', '24', '14']: ['happen', 'movie.', 'say', 'lot', 'going', 'going']: 平均边权 0.5207
+社区 3: ['50', '48', '46', '49', '47']: ['made.', 'two', 'real', 'boys', 'video']: 平均边权 0.5912
+社区 4: ['7', '8', '10', '9']: ['video', 'diary', 'boys.', 'two']: 平均边权 0.8951
+社区 5: ['25', '26', '5']: ['quite', 'school.', 'school']: 平均边权 0.5797
+社区 6: ['2', '20', '0', '27', '18', '4', '16', '22', '1', '17', '6']: ['based', 'start', 'zero', 'start', 'student', 'high', 'think', 'horrible', 'day', 'bad', 'massacre.']: 平均边权 0.5262
+社区 7: ['56', '45', '52', '21', '55', '23', '53', '51', '54']: ['cult.', 'watching', 'boys', 'talking', 'weird', 'things', 'act', 'two', 'like']: 平均边权 0.4860
+社区 8: ['12', '38', '58', '57', '42', '13', '59']: ['know', 'know', 'stuff.', 'burn', 'forget', 'whats', 'like']: 平均边权 0.4111
+社区 9: ['11', '19']: ['first', 'film.']: 平均边权 1.1858
+社区 10: ['30', '34', '32', '33', '29', '31', '28']: ['bombs', 'woods.', 'going', 'shooting', 'pipe', 'guns', 'talking']: 平均边权 0.3034

@@ -1,0 +1,103 @@
+---------- Players ----------
+Player 0: worst
+Player 1: movie
+Player 2: seen
+Player 3: years!
+Player 4: starts
+Player 5: ridicoulus
+Player 6: continues
+Player 7: way.
+Player 8: thnik
+Player 9: something
+Player 10: going
+Player 11: happen
+Player 12: film,,,,
+Player 13: acting
+Player 14: worse.
+Player 15: ending
+Player 16: lifts
+Player 17: bit
+Player 18: saves
+Player 19: movie
+Player 20: total
+Player 21: flop.
+Player 22: mark
+Player 23: wahlberg
+Player 24: bad
+Player 25: actor
+Player 26: bad
+Player 27: movie.
+Player 28: sorry
+Player 29: tim
+Player 30: burton
+Player 31: batman
+Player 32: good
+Player 33: one
+Player 34: sucks.
+---------- Rewards ----------
+v(): -0.1480693817138672	 ([])
+v(11,12,28,29,30): -3.8882555961608887	 ([happen][film,,,,][sorry][tim][burton])
+v(1,13,22,23,33,34): 5.910243511199951	 ([movie][acting][mark][wahlberg][one][sucks.])
+v(5,6,14,25,26,27,31,32): 6.299454689025879	 ([ridicoulus][continues][worse.][actor][bad][movie.][batman][good])
+v(8,9,10,15,16,17,18,19,20,21,24): 6.875578880310059	 ([thnik][something][going][ending][lifts][bit][saves][movie][total][flop.][bad])
+v(0,2,3,4,7): 7.078594207763672	 ([worst][seen][years!][starts][way.])
+v(1,11,12,13,22,23,28,29,30,33,34): 4.5938720703125	 ([movie][happen][film,,,,][acting][mark][wahlberg][sorry][tim][burton][one][sucks.])
+v(5,6,11,12,14,25,26,27,28,29,30,31,32): 5.467062950134277	 ([ridicoulus][continues][happen][film,,,,][worse.][actor][bad][movie.][sorry][tim][burton][batman][good])
+v(8,9,10,11,12,15,16,17,18,19,20,21,24,28,29,30): -1.067704439163208	 ([thnik][something][going][happen][film,,,,][ending][lifts][bit][saves][movie][total][flop.][bad][sorry][tim][burton])
+v(0,2,3,4,7,11,12,28,29,30): 7.58480978012085	 ([worst][seen][years!][starts][way.][happen][film,,,,][sorry][tim][burton])
+v(1,5,6,13,14,22,23,25,26,27,31,32,33,34): 8.111242294311523	 ([movie][ridicoulus][continues][acting][worse.][mark][wahlberg][actor][bad][movie.][batman][good][one][sucks.])
+v(1,8,9,10,13,15,16,17,18,19,20,21,22,23,24,33,34): 7.666956901550293	 ([movie][thnik][something][going][acting][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][one][sucks.])
+v(0,1,2,3,4,7,13,22,23,33,34): 7.970606803894043	 ([worst][movie][seen][years!][starts][way.][acting][mark][wahlberg][one][sucks.])
+v(5,6,8,9,10,14,15,16,17,18,19,20,21,24,25,26,27,31,32): 7.789708137512207	 ([ridicoulus][continues][thnik][something][going][worse.][ending][lifts][bit][saves][movie][total][flop.][bad][actor][bad][movie.][batman][good])
+v(0,2,3,4,5,6,7,14,25,26,27,31,32): 7.9033002853393555	 ([worst][seen][years!][starts][ridicoulus][continues][way.][worse.][actor][bad][movie.][batman][good])
+v(0,2,3,4,7,8,9,10,15,16,17,18,19,20,21,24): 8.13387393951416	 ([worst][seen][years!][starts][way.][thnik][something][going][ending][lifts][bit][saves][movie][total][flop.][bad])
+v(1,5,6,11,12,13,14,22,23,25,26,27,28,29,30,31,32,33,34): 7.937132835388184	 ([movie][ridicoulus][continues][happen][film,,,,][acting][worse.][mark][wahlberg][actor][bad][movie.][sorry][tim][burton][batman][good][one][sucks.])
+v(1,8,9,10,11,12,13,15,16,17,18,19,20,21,22,23,24,28,29,30,33,34): 5.886875152587891	 ([movie][thnik][something][going][happen][film,,,,][acting][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][sorry][tim][burton][one][sucks.])
+v(0,1,2,3,4,7,11,12,13,22,23,28,29,30,33,34): 8.025680541992188	 ([worst][movie][seen][years!][starts][way.][happen][film,,,,][acting][mark][wahlberg][sorry][tim][burton][one][sucks.])
+v(5,6,8,9,10,11,12,14,15,16,17,18,19,20,21,24,25,26,27,28,29,30,31,32): 6.580898761749268	 ([ridicoulus][continues][thnik][something][going][happen][film,,,,][worse.][ending][lifts][bit][saves][movie][total][flop.][bad][actor][bad][movie.][sorry][tim][burton][batman][good])
+v(0,2,3,4,5,6,7,11,12,14,25,26,27,28,29,30,31,32): 8.006113052368164	 ([worst][seen][years!][starts][ridicoulus][continues][way.][happen][film,,,,][worse.][actor][bad][movie.][sorry][tim][burton][batman][good])
+v(0,2,3,4,7,8,9,10,11,12,15,16,17,18,19,20,21,24,28,29,30): 8.10307502746582	 ([worst][seen][years!][starts][way.][thnik][something][going][happen][film,,,,][ending][lifts][bit][saves][movie][total][flop.][bad][sorry][tim][burton])
+v(1,5,6,8,9,10,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,31,32,33,34): 8.30251407623291	 ([movie][ridicoulus][continues][thnik][something][going][acting][worse.][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][actor][bad][movie.][batman][good][one][sucks.])
+v(0,1,2,3,4,5,6,7,13,14,22,23,25,26,27,31,32,33,34): 8.229744911193848	 ([worst][movie][seen][years!][starts][ridicoulus][continues][way.][acting][worse.][mark][wahlberg][actor][bad][movie.][batman][good][one][sucks.])
+v(0,1,2,3,4,7,8,9,10,13,15,16,17,18,19,20,21,22,23,24,33,34): 8.326807022094727	 ([worst][movie][seen][years!][starts][way.][thnik][something][going][acting][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][one][sucks.])
+v(0,2,3,4,5,6,7,8,9,10,14,15,16,17,18,19,20,21,24,25,26,27,31,32): 8.266077041625977	 ([worst][seen][years!][starts][ridicoulus][continues][way.][thnik][something][going][worse.][ending][lifts][bit][saves][movie][total][flop.][bad][actor][bad][movie.][batman][good])
+v(1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34): 8.130664825439453	 ([movie][ridicoulus][continues][thnik][something][going][happen][film,,,,][acting][worse.][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][actor][bad][movie.][sorry][tim][burton][batman][good][one][sucks.])
+v(0,1,2,3,4,5,6,7,11,12,13,14,22,23,25,26,27,28,29,30,31,32,33,34): 8.214591979980469	 ([worst][movie][seen][years!][starts][ridicoulus][continues][way.][happen][film,,,,][acting][worse.][mark][wahlberg][actor][bad][movie.][sorry][tim][burton][batman][good][one][sucks.])
+v(0,1,2,3,4,7,8,9,10,11,12,13,15,16,17,18,19,20,21,22,23,24,28,29,30,33,34): 8.27983283996582	 ([worst][movie][seen][years!][starts][way.][thnik][something][going][happen][film,,,,][acting][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][sorry][tim][burton][one][sucks.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,24,25,26,27,28,29,30,31,32): 8.22937297821045	 ([worst][seen][years!][starts][ridicoulus][continues][way.][thnik][something][going][happen][film,,,,][worse.][ending][lifts][bit][saves][movie][total][flop.][bad][actor][bad][movie.][sorry][tim][burton][batman][good])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,31,32,33,34): 8.423395156860352	 ([worst][movie][seen][years!][starts][ridicoulus][continues][way.][thnik][something][going][acting][worse.][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][actor][bad][movie.][batman][good][one][sucks.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34): 8.351225852966309	 ([worst][movie][seen][years!][starts][ridicoulus][continues][way.][thnik][something][going][happen][film,,,,][acting][worse.][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][actor][bad][movie.][sorry][tim][burton][batman][good][one][sucks.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,31,32,33,34): 8.571464538574219, EP: 1.0084911584854126	 ([worst][movie][seen][years!][starts][ridicoulus][continues][way.][thnik][something][going][acting][worse.][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][actor][bad][movie.][batman][good][one][sucks.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34): 8.499295234680176, EP: 1.0	 ([worst][movie][seen][years!][starts][ridicoulus][continues][way.][thnik][something][going][happen][film,,,,][acting][worse.][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][actor][bad][movie.][sorry][tim][burton][batman][good][one][sucks.])
+v(0,1,2,3,4,7,8,9,10,13,15,16,17,18,19,20,21,22,23,24,33,34): 8.474876403808594, EP: 0.9971269369125366	 ([worst][movie][seen][years!][starts][way.][thnik][something][going][acting][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][one][sucks.])
+v(1,5,6,8,9,10,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,31,32,33,34): 8.450583457946777, EP: 0.9942687153816223	 ([movie][ridicoulus][continues][thnik][something][going][acting][worse.][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][actor][bad][movie.][batman][good][one][sucks.])
+v(0,1,2,3,4,7,8,9,10,11,12,13,15,16,17,18,19,20,21,22,23,24,28,29,30,33,34): 8.427902221679688, EP: 0.9916000962257385	 ([worst][movie][seen][years!][starts][way.][thnik][something][going][happen][film,,,,][acting][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][sorry][tim][burton][one][sucks.])
+v(0,2,3,4,5,6,7,8,9,10,14,15,16,17,18,19,20,21,24,25,26,27,31,32): 8.414146423339844, EP: 0.9899816513061523	 ([worst][seen][years!][starts][ridicoulus][continues][way.][thnik][something][going][worse.][ending][lifts][bit][saves][movie][total][flop.][bad][actor][bad][movie.][batman][good])
+v(0,1,2,3,4,5,6,7,13,14,22,23,25,26,27,31,32,33,34): 8.377814292907715, EP: 0.9857069253921509	 ([worst][movie][seen][years!][starts][ridicoulus][continues][way.][acting][worse.][mark][wahlberg][actor][bad][movie.][batman][good][one][sucks.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,24,25,26,27,28,29,30,31,32): 8.377442359924316, EP: 0.9856631755828857	 ([worst][seen][years!][starts][ridicoulus][continues][way.][thnik][something][going][happen][film,,,,][worse.][ending][lifts][bit][saves][movie][total][flop.][bad][actor][bad][movie.][sorry][tim][burton][batman][good])
+v(0,1,2,3,4,5,6,7,11,12,13,14,22,23,25,26,27,28,29,30,31,32,33,34): 8.362661361694336, EP: 0.9839240908622742	 ([worst][movie][seen][years!][starts][ridicoulus][continues][way.][happen][film,,,,][acting][worse.][mark][wahlberg][actor][bad][movie.][sorry][tim][burton][batman][good][one][sucks.])
+v(0,2,3,4,7,8,9,10,15,16,17,18,19,20,21,24): 8.281943321228027, EP: 0.9744270443916321	 ([worst][seen][years!][starts][way.][thnik][something][going][ending][lifts][bit][saves][movie][total][flop.][bad])
+v(1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34): 8.27873420715332, EP: 0.9740495085716248	 ([movie][ridicoulus][continues][thnik][something][going][happen][film,,,,][acting][worse.][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][actor][bad][movie.][sorry][tim][burton][batman][good][one][sucks.])
+v(1,5,6,13,14,22,23,25,26,27,31,32,33,34): 8.25931167602539, EP: 0.971764326095581	 ([movie][ridicoulus][continues][acting][worse.][mark][wahlberg][actor][bad][movie.][batman][good][one][sucks.])
+v(0,2,3,4,7,8,9,10,11,12,15,16,17,18,19,20,21,24,28,29,30): 8.251144409179688, EP: 0.9708033800125122	 ([worst][seen][years!][starts][way.][thnik][something][going][happen][film,,,,][ending][lifts][bit][saves][movie][total][flop.][bad][sorry][tim][burton])
+v(0,1,2,3,4,7,11,12,13,22,23,28,29,30,33,34): 8.173749923706055, EP: 0.9616973996162415	 ([worst][movie][seen][years!][starts][way.][happen][film,,,,][acting][mark][wahlberg][sorry][tim][burton][one][sucks.])
+v(0,2,3,4,5,6,7,11,12,14,25,26,27,28,29,30,31,32): 8.154182434082031, EP: 0.9593951106071472	 ([worst][seen][years!][starts][ridicoulus][continues][way.][happen][film,,,,][worse.][actor][bad][movie.][sorry][tim][burton][batman][good])
+v(0,1,2,3,4,7,13,22,23,33,34): 8.11867618560791, EP: 0.9552175998687744	 ([worst][movie][seen][years!][starts][way.][acting][mark][wahlberg][one][sucks.])
+v(1,5,6,11,12,13,14,22,23,25,26,27,28,29,30,31,32,33,34): 8.08520221710205, EP: 0.9512791633605957	 ([movie][ridicoulus][continues][happen][film,,,,][acting][worse.][mark][wahlberg][actor][bad][movie.][sorry][tim][burton][batman][good][one][sucks.])
+v(0,2,3,4,5,6,7,14,25,26,27,31,32): 8.051369667053223, EP: 0.947298526763916	 ([worst][seen][years!][starts][ridicoulus][continues][way.][worse.][actor][bad][movie.][batman][good])
+v(5,6,8,9,10,14,15,16,17,18,19,20,21,24,25,26,27,31,32): 7.937777519226074, EP: 0.9339336156845093	 ([ridicoulus][continues][thnik][something][going][worse.][ending][lifts][bit][saves][movie][total][flop.][bad][actor][bad][movie.][batman][good])
+v(1,8,9,10,13,15,16,17,18,19,20,21,22,23,24,33,34): 7.81502628326416, EP: 0.9194911122322083	 ([movie][thnik][something][going][acting][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][one][sucks.])
+v(0,2,3,4,7,11,12,28,29,30): 7.732879161834717, EP: 0.9098259210586548	 ([worst][seen][years!][starts][way.][happen][film,,,,][sorry][tim][burton])
+v(0,2,3,4,7): 7.226663589477539, EP: 0.8502662181854248	 ([worst][seen][years!][starts][way.])
+v(8,9,10,15,16,17,18,19,20,21,24): 7.023648262023926, EP: 0.8263800740242004	 ([thnik][something][going][ending][lifts][bit][saves][movie][total][flop.][bad])
+v(5,6,8,9,10,11,12,14,15,16,17,18,19,20,21,24,25,26,27,28,29,30,31,32): 6.728968143463135, EP: 0.7917089462280273	 ([ridicoulus][continues][thnik][something][going][happen][film,,,,][worse.][ending][lifts][bit][saves][movie][total][flop.][bad][actor][bad][movie.][sorry][tim][burton][batman][good])
+v(5,6,14,25,26,27,31,32): 6.447524070739746, EP: 0.7585951685905457	 ([ridicoulus][continues][worse.][actor][bad][movie.][batman][good])
+v(1,13,22,23,33,34): 6.058312892913818, EP: 0.7128018140792847	 ([movie][acting][mark][wahlberg][one][sucks.])
+v(1,8,9,10,11,12,13,15,16,17,18,19,20,21,22,23,24,28,29,30,33,34): 6.034944534301758, EP: 0.7100523710250854	 ([movie][thnik][something][going][happen][film,,,,][acting][ending][lifts][bit][saves][movie][total][flop.][mark][wahlberg][bad][sorry][tim][burton][one][sucks.])
+v(5,6,11,12,14,25,26,27,28,29,30,31,32): 5.6151323318481445, EP: 0.660658597946167	 ([ridicoulus][continues][happen][film,,,,][worse.][actor][bad][movie.][sorry][tim][burton][batman][good])
+v(1,11,12,13,22,23,28,29,30,33,34): 4.741941452026367, EP: 0.5579217076301575	 ([movie][happen][film,,,,][acting][mark][wahlberg][sorry][tim][burton][one][sucks.])
+v(11,12,28,29,30): -3.7401862144470215, EP: -0.4400583803653717	 ([happen][film,,,,][sorry][tim][burton])
+v(8,9,10,11,12,15,16,17,18,19,20,21,24,28,29,30): -0.9196350574493408, EP: -0.10820133239030838	 ([thnik][something][going][happen][film,,,,][ending][lifts][bit][saves][movie][total][flop.][bad][sorry][tim][burton])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

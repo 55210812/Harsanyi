@@ -1,0 +1,109 @@
+---------- Players ----------
+Player 0: words
+Player 1: fail
+Player 2: me.
+Player 3: film
+Player 4: extremely
+Player 5: difficult
+Player 6: watch
+Player 7: hindsight
+Player 8: really
+Player 9: wish
+Player 10: done
+Player 11: it.
+Player 12: although
+Player 13: attempted
+Player 14: sit
+Player 15: end
+Player 16: credits
+Player 17: admit
+Player 18: last
+Player 19: hour,
+Player 20: opinion
+Player 21: could
+Player 22: unfair.
+Player 23: however,
+Player 24: film
+Player 25: would
+Player 26: require
+Player 27: impressive
+Player 28: final
+Player 29: third
+Player 30: history
+Player 31: film - making
+Player 32: order
+Player 33: given
+Player 34: review
+Player 35: anything
+Player 36: vicious.
+Player 37: please
+Player 38: watch
+Player 39: part
+Player 40: film.
+---------- Rewards ----------
+v(): -0.33714839816093445	 ([])
+v(22,23,24,25,26,28,29,31,32): 3.5370287895202637	 ([unfair.][however,][film][would][require][final][third][film - making][order])
+v(27,30,33,34,35,36,37,38,39): -3.2188286781311035	 ([impressive][history][given][review][anything][vicious.][please][watch][part])
+v(2,3,4,5,6,7,8,9,10,11,12,13): 6.460463523864746	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted])
+v(0,1,40): 1.403748869895935	 ([words][fail][film.])
+v(14,15,16,17,18,19,20,21): 3.8595988750457764	 ([sit][end][credits][admit][last][hour,][opinion][could])
+v(22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 6.163068771362305	 ([unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part])
+v(2,3,4,5,6,7,8,9,10,11,12,13,22,23,24,25,26,28,29,31,32): 7.4709792137146	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][unfair.][however,][film][would][require][final][third][film - making][order])
+v(0,1,22,23,24,25,26,28,29,31,32,40): 2.367354393005371	 ([words][fail][unfair.][however,][film][would][require][final][third][film - making][order][film.])
+v(14,15,16,17,18,19,20,21,22,23,24,25,26,28,29,31,32): 6.27618932723999	 ([sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][final][third][film - making][order])
+v(2,3,4,5,6,7,8,9,10,11,12,13,27,30,33,34,35,36,37,38,39): 4.307400226593018	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][impressive][history][given][review][anything][vicious.][please][watch][part])
+v(0,1,27,30,33,34,35,36,37,38,39,40): -3.0502891540527344	 ([words][fail][impressive][history][given][review][anything][vicious.][please][watch][part][film.])
+v(14,15,16,17,18,19,20,21,27,30,33,34,35,36,37,38,39): 2.4468038082122803	 ([sit][end][credits][admit][last][hour,][opinion][could][impressive][history][given][review][anything][vicious.][please][watch][part])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,40): 7.0575456619262695	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][film.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 7.62013053894043	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could])
+v(0,1,14,15,16,17,18,19,20,21,40): 4.91999626159668	 ([words][fail][sit][end][credits][admit][last][hour,][opinion][could][film.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 7.829254627227783	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part])
+v(0,1,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 6.132580757141113	 ([words][fail][unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part][film.])
+v(14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 7.123486518859863	 ([sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,22,23,24,25,26,28,29,31,32,40): 7.710880279541016	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][unfair.][however,][film][would][require][final][third][film - making][order][film.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,29,31,32): 7.780345439910889	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][final][third][film - making][order])
+v(0,1,14,15,16,17,18,19,20,21,22,23,24,25,26,28,29,31,32,40): 5.870934009552002	 ([words][fail][sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][final][third][film - making][order][film.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,27,30,33,34,35,36,37,38,39,40): 6.00531530380249	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][impressive][history][given][review][anything][vicious.][please][watch][part][film.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,27,30,33,34,35,36,37,38,39): 6.787958145141602	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could][impressive][history][given][review][anything][vicious.][please][watch][part])
+v(0,1,14,15,16,17,18,19,20,21,27,30,33,34,35,36,37,38,39,40): 2.928530693054199	 ([words][fail][sit][end][credits][admit][last][hour,][opinion][could][impressive][history][given][review][anything][vicious.][please][watch][part][film.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,40): 7.882641315460205	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could][film.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.12183952331543	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part][film.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 7.9396185874938965	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part])
+v(0,1,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 7.168355941772461	 ([words][fail][sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part][film.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,29,31,32,40): 7.893973350524902	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][final][third][film - making][order][film.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,27,30,33,34,35,36,37,38,39,40): 7.700085639953613	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could][impressive][history][given][review][anything][vicious.][please][watch][part][film.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.36330509185791	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part][film.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.700453758239746, EP: 1.0	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part][film.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.458988189697266, EP: 0.9722467660903931	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part][film.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 8.276766777038574, EP: 0.9513028860092163	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,29,31,32,40): 8.231122016906738, EP: 0.9460566639900208	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][final][third][film - making][order][film.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,40): 8.219789505004883, EP: 0.9447541236877441	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could][film.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 8.166402816772461, EP: 0.9386180639266968	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,29,31,32): 8.117493629455566, EP: 0.9329965710639954	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][final][third][film - making][order])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,22,23,24,25,26,28,29,31,32,40): 8.048028945922852, EP: 0.9250125288963318	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][unfair.][however,][film][would][require][final][third][film - making][order][film.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,27,30,33,34,35,36,37,38,39,40): 8.03723430633545, EP: 0.923771858215332	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could][impressive][history][given][review][anything][vicious.][please][watch][part][film.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 7.957278728485107, EP: 0.9145820140838623	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could])
+v(2,3,4,5,6,7,8,9,10,11,12,13,22,23,24,25,26,28,29,31,32): 7.808127403259277, EP: 0.8974391222000122	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][unfair.][however,][film][would][require][final][third][film - making][order])
+v(0,1,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 7.505504131317139, EP: 0.8626566529273987	 ([words][fail][sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part][film.])
+v(14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 7.460634708404541, EP: 0.8574994802474976	 ([sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,40): 7.394693851470947, EP: 0.8499205112457275	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][film.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,27,30,33,34,35,36,37,38,39): 7.125106334686279, EP: 0.8189350366592407	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][sit][end][credits][admit][last][hour,][opinion][could][impressive][history][given][review][anything][vicious.][please][watch][part])
+v(2,3,4,5,6,7,8,9,10,11,12,13): 6.797611713409424, EP: 0.7812939286231995	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted])
+v(14,15,16,17,18,19,20,21,22,23,24,25,26,28,29,31,32): 6.613337516784668, EP: 0.7601140737533569	 ([sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][final][third][film - making][order])
+v(22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39): 6.500216960906982, EP: 0.7471123933792114	 ([unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part])
+v(0,1,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 6.469728946685791, EP: 0.7436082363128662	 ([words][fail][unfair.][however,][film][would][require][impressive][final][third][history][film - making][order][given][review][anything][vicious.][please][watch][part][film.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,27,30,33,34,35,36,37,38,39,40): 6.342463493347168, EP: 0.7289807796478271	 ([words][fail][me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][impressive][history][given][review][anything][vicious.][please][watch][part][film.])
+v(0,1,14,15,16,17,18,19,20,21,22,23,24,25,26,28,29,31,32,40): 6.20808219909668, EP: 0.7135354280471802	 ([words][fail][sit][end][credits][admit][last][hour,][opinion][could][unfair.][however,][film][would][require][final][third][film - making][order][film.])
+v(0,1,14,15,16,17,18,19,20,21,40): 5.257144451141357, EP: 0.604237973690033	 ([words][fail][sit][end][credits][admit][last][hour,][opinion][could][film.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,27,30,33,34,35,36,37,38,39): 4.644548416137695, EP: 0.5338283181190491	 ([me.][film][extremely][difficult][watch][hindsight][really][wish][done][it.][although][attempted][impressive][history][given][review][anything][vicious.][please][watch][part])
+v(14,15,16,17,18,19,20,21): 4.196747303009033, EP: 0.4823595881462097	 ([sit][end][credits][admit][last][hour,][opinion][could])
+v(22,23,24,25,26,28,29,31,32): 3.8741772174835205, EP: 0.44528451561927795	 ([unfair.][however,][film][would][require][final][third][film - making][order])
+v(0,1,14,15,16,17,18,19,20,21,27,30,33,34,35,36,37,38,39,40): 3.265679121017456, EP: 0.3753458261489868	 ([words][fail][sit][end][credits][admit][last][hour,][opinion][could][impressive][history][given][review][anything][vicious.][please][watch][part][film.])
+v(27,30,33,34,35,36,37,38,39): -2.8816802501678467, EP: -0.33121034502983093	 ([impressive][history][given][review][anything][vicious.][please][watch][part])
+v(14,15,16,17,18,19,20,21,27,30,33,34,35,36,37,38,39): 2.783952236175537, EP: 0.3199778199195862	 ([sit][end][credits][admit][last][hour,][opinion][could][impressive][history][given][review][anything][vicious.][please][watch][part])
+v(0,1,27,30,33,34,35,36,37,38,39,40): -2.7131407260894775, EP: -0.3118389844894409	 ([words][fail][impressive][history][given][review][anything][vicious.][please][watch][part][film.])
+v(0,1,22,23,24,25,26,28,29,31,32,40): 2.704502820968628, EP: 0.3108461797237396	 ([words][fail][unfair.][however,][film][would][require][final][third][film - making][order][film.])
+v(0,1,40): 1.740897297859192, EP: 0.20009270310401917	 ([words][fail][film.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

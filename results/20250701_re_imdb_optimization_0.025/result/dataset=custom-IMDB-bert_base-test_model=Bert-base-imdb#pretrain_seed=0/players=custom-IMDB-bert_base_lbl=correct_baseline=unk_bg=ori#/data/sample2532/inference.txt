@@ -1,0 +1,44 @@
+Execution time: 2025-07-03 19:20:01
+prompt: [CLS] without question, the worst elvis film ever made. the movie portrays all indians as drunk, stupid, and lazy. watch elvis's skin change color throughout the film. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2302 decoded_text: without
+idx:2 input_id:3160 decoded_text: question
+idx:3 input_id:1010 decoded_text: ,
+idx:4 input_id:1996 decoded_text: the
+idx:5 input_id:5409 decoded_text: worst
+idx:6 input_id:12280 decoded_text: elvis
+idx:7 input_id:2143 decoded_text: film
+idx:8 input_id:2412 decoded_text: ever
+idx:9 input_id:2081 decoded_text: made
+idx:10 input_id:1012 decoded_text: .
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:3185 decoded_text: movie
+idx:13 input_id:17509 decoded_text: portrays
+idx:14 input_id:2035 decoded_text: all
+idx:15 input_id:6505 decoded_text: indians
+idx:16 input_id:2004 decoded_text: as
+idx:17 input_id:7144 decoded_text: drunk
+idx:18 input_id:1010 decoded_text: ,
+idx:19 input_id:5236 decoded_text: stupid
+idx:20 input_id:1010 decoded_text: ,
+idx:21 input_id:1998 decoded_text: and
+idx:22 input_id:13971 decoded_text: lazy
+idx:23 input_id:1012 decoded_text: .
+idx:24 input_id:3422 decoded_text: watch
+idx:25 input_id:12280 decoded_text: elvis
+idx:26 input_id:1005 decoded_text: '
+idx:27 input_id:1055 decoded_text: s
+idx:28 input_id:3096 decoded_text: skin
+idx:29 input_id:2689 decoded_text: change
+idx:30 input_id:3609 decoded_text: color
+idx:31 input_id:2802 decoded_text: throughout
+idx:32 input_id:1996 decoded_text: the
+idx:33 input_id:2143 decoded_text: film
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.037928104400635, -3.7313148975372314]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

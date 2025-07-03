@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['23', '22', '36', '35', '26', '34', '21']: ['directed', 'brilliantly', 'played', 'role', 'stars', 'title', 'film']: 平均边权 0.9086
+社区 2: ['2', '8', '5', '0', '3', '9', '6', '7']: ['acted', 'hundreds', 'soldier,', 'story', 'like', 'thousands,', 'saving', 'lives']: 平均边权 0.4634
+社区 3: ['12', '20', '19', '10', '18', '16', '15', '14', '17']: ['film', 'poem,', 'kipling', 'told', 'rudyard', 'based', '"', 'din.', 'loosely']: 平均边权 0.4547
+社区 4: ['27', '46', '68', '43', '33', '71', '38', '70', '66', '13', '55', '42', '37', '69', '72', '28']: ['cary', 'zorba,', 'three', "casey's", 'mclagen.', 'two', 'jaffe,', '-', 'british', 'gunga', 'zorba', 'ben', 'sam', 'soldiers', 'romantic,', 'grant,']: 平均边权 0.3108
+社区 5: ['25', '30', '24', '32', '29', '31']: ['stevens', 'fairbanks', 'george', 'victor', 'douglas', 'jr.']: 平均边权 0.4422
+社区 6: ['56', '61', '57', '63', '58', '52', '67', '65', '53', '59', '62', '60', '64']: ['hair', 'talking', '"', 'set', 'anyone', 'hair.', 'occupation,', 'time', 'say', 'generation,', 'about.', 'know', 'india']: 平均边权 0.2398
+社区 7: ['50', '48', '51', '49', '47']: ['big,', 'became', 'control', 'synonymous', 'name']: 平均边权 0.2786
+社区 8: ['39', '11', '41', '40']: ['well', '1939', 'era', 'known']: 平均边权 0.2995
+社区 9: ['4', '44', '1', '45', '54']: ['great', 'boss,', 'untouchable', 'dr.', '" dr.']: 平均边权 0.2892

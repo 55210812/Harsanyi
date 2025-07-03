@@ -1,0 +1,93 @@
+---------- Players ----------
+Player 0: hobgoblins
+Player 1: cheap
+Player 2: badly
+Player 3: done
+Player 4: gremlins
+Player 5: rip - off.
+Player 6: that's
+Player 7: best
+Player 8: thing
+Player 9: one
+Player 10: say
+Player 11: stinkpile.
+Player 12: pretty
+Player 13: much
+Player 14: everyone
+Player 15: cast
+Player 16: chosen
+Player 17: looks
+Player 18: acting
+Player 19: ability.
+Player 20: painful
+Player 21: watch.
+Player 22: avoid
+Player 23: one
+Player 24: costs.
+---------- Rewards ----------
+v(): -2.1968226432800293	 ([])
+v(1,3,4,10,11,13,24): 7.221151828765869	 ([cheap][done][gremlins][say][stinkpile.][much][costs.])
+v(12,15,19,21,22,23): 3.909402370452881	 ([pretty][cast][ability.][watch.][avoid][one])
+v(14,17,18,20): 2.4083211421966553	 ([everyone][looks][acting][painful])
+v(5,6,7,8,9): 7.186972618103027	 ([rip - off.][that's][best][thing][one])
+v(0,2,16): 4.566352844238281	 ([hobgoblins][badly][chosen])
+v(1,3,4,10,11,12,13,15,19,21,22,23,24): 7.911897659301758	 ([cheap][done][gremlins][say][stinkpile.][pretty][much][cast][ability.][watch.][avoid][one][costs.])
+v(1,3,4,10,11,13,14,17,18,20,24): 7.663200378417969	 ([cheap][done][gremlins][say][stinkpile.][much][everyone][looks][acting][painful][costs.])
+v(1,3,4,5,6,7,8,9,10,11,13,24): 7.962272644042969	 ([cheap][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][much][costs.])
+v(0,1,2,3,4,10,11,13,16,24): 7.384617805480957	 ([hobgoblins][cheap][badly][done][gremlins][say][stinkpile.][much][chosen][costs.])
+v(12,14,15,17,18,19,20,21,22,23): 6.47493839263916	 ([pretty][everyone][cast][looks][acting][ability.][painful][watch.][avoid][one])
+v(5,6,7,8,9,12,15,19,21,22,23): 7.836620807647705	 ([rip - off.][that's][best][thing][one][pretty][cast][ability.][watch.][avoid][one])
+v(0,2,12,15,16,19,21,22,23): 7.204636573791504	 ([hobgoblins][badly][pretty][cast][chosen][ability.][watch.][avoid][one])
+v(5,6,7,8,9,14,17,18,20): 7.658080577850342	 ([rip - off.][that's][best][thing][one][everyone][looks][acting][painful])
+v(0,2,14,16,17,18,20): 6.28338623046875	 ([hobgoblins][badly][everyone][chosen][looks][acting][painful])
+v(0,2,5,6,7,8,9,16): 7.217126846313477	 ([hobgoblins][badly][rip - off.][that's][best][thing][one][chosen])
+v(1,3,4,10,11,12,13,14,15,17,18,19,20,21,22,23,24): 8.130144119262695	 ([cheap][done][gremlins][say][stinkpile.][pretty][much][everyone][cast][looks][acting][ability.][painful][watch.][avoid][one][costs.])
+v(1,3,4,5,6,7,8,9,10,11,12,13,15,19,21,22,23,24): 8.276690483093262	 ([cheap][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][pretty][much][cast][ability.][watch.][avoid][one][costs.])
+v(0,1,2,3,4,10,11,12,13,15,16,19,21,22,23,24): 8.068702697753906	 ([hobgoblins][cheap][badly][done][gremlins][say][stinkpile.][pretty][much][cast][chosen][ability.][watch.][avoid][one][costs.])
+v(1,3,4,5,6,7,8,9,10,11,13,14,17,18,20,24): 8.220176696777344	 ([cheap][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][much][everyone][looks][acting][painful][costs.])
+v(0,1,2,3,4,10,11,13,14,16,17,18,20,24): 7.864242076873779	 ([hobgoblins][cheap][badly][done][gremlins][say][stinkpile.][much][everyone][chosen][looks][acting][painful][costs.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,16,24): 7.872889518737793	 ([hobgoblins][cheap][badly][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][much][chosen][costs.])
+v(5,6,7,8,9,12,14,15,17,18,19,20,21,22,23): 8.112141609191895	 ([rip - off.][that's][best][thing][one][pretty][everyone][cast][looks][acting][ability.][painful][watch.][avoid][one])
+v(0,2,12,14,15,16,17,18,19,20,21,22,23): 7.444478511810303	 ([hobgoblins][badly][pretty][everyone][cast][chosen][looks][acting][ability.][painful][watch.][avoid][one])
+v(0,2,5,6,7,8,9,12,15,16,19,21,22,23): 8.008392333984375	 ([hobgoblins][badly][rip - off.][that's][best][thing][one][pretty][cast][chosen][ability.][watch.][avoid][one])
+v(0,2,5,6,7,8,9,14,16,17,18,20): 7.821990966796875	 ([hobgoblins][badly][rip - off.][that's][best][thing][one][everyone][chosen][looks][acting][painful])
+v(1,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18,19,20,21,22,23,24): 8.425397872924805	 ([cheap][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][pretty][much][everyone][cast][looks][acting][ability.][painful][watch.][avoid][one][costs.])
+v(0,1,2,3,4,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 8.206193923950195	 ([hobgoblins][cheap][badly][done][gremlins][say][stinkpile.][pretty][much][everyone][cast][chosen][looks][acting][ability.][painful][watch.][avoid][one][costs.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,19,21,22,23,24): 8.277831077575684	 ([hobgoblins][cheap][badly][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][pretty][much][cast][chosen][ability.][watch.][avoid][one][costs.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,16,17,18,20,24): 8.247915267944336	 ([hobgoblins][cheap][badly][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][much][everyone][chosen][looks][acting][painful][costs.])
+v(0,2,5,6,7,8,9,12,14,15,16,17,18,19,20,21,22,23): 8.208174705505371	 ([hobgoblins][badly][rip - off.][that's][best][thing][one][pretty][everyone][cast][chosen][looks][acting][ability.][painful][watch.][avoid][one])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 8.396186828613281	 ([hobgoblins][cheap][badly][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][pretty][much][everyone][cast][chosen][looks][acting][ability.][painful][watch.][avoid][one][costs.])
+---------- Rewards-v() ----------
+v(1,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18,19,20,21,22,23,24): 10.622220993041992, EP: 1.0027575492858887	 ([cheap][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][pretty][much][everyone][cast][looks][acting][ability.][painful][watch.][avoid][one][costs.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 10.593009948730469, EP: 1.0	 ([hobgoblins][cheap][badly][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][pretty][much][everyone][cast][chosen][looks][acting][ability.][painful][watch.][avoid][one][costs.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,19,21,22,23,24): 10.474653244018555, EP: 0.9888269305229187	 ([hobgoblins][cheap][badly][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][pretty][much][cast][chosen][ability.][watch.][avoid][one][costs.])
+v(1,3,4,5,6,7,8,9,10,11,12,13,15,19,21,22,23,24): 10.473512649536133, EP: 0.9887192249298096	 ([cheap][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][pretty][much][cast][ability.][watch.][avoid][one][costs.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,16,17,18,20,24): 10.444738388061523, EP: 0.9860028624534607	 ([hobgoblins][cheap][badly][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][much][everyone][chosen][looks][acting][painful][costs.])
+v(1,3,4,5,6,7,8,9,10,11,13,14,17,18,20,24): 10.416999816894531, EP: 0.9833843111991882	 ([cheap][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][much][everyone][looks][acting][painful][costs.])
+v(0,2,5,6,7,8,9,12,14,15,16,17,18,19,20,21,22,23): 10.404996871948242, EP: 0.9822512269020081	 ([hobgoblins][badly][rip - off.][that's][best][thing][one][pretty][everyone][cast][chosen][looks][acting][ability.][painful][watch.][avoid][one])
+v(0,1,2,3,4,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 10.403017044067383, EP: 0.9820643067359924	 ([hobgoblins][cheap][badly][done][gremlins][say][stinkpile.][pretty][much][everyone][cast][chosen][looks][acting][ability.][painful][watch.][avoid][one][costs.])
+v(1,3,4,10,11,12,13,14,15,17,18,19,20,21,22,23,24): 10.326967239379883, EP: 0.9748850464820862	 ([cheap][done][gremlins][say][stinkpile.][pretty][much][everyone][cast][looks][acting][ability.][painful][watch.][avoid][one][costs.])
+v(5,6,7,8,9,12,14,15,17,18,19,20,21,22,23): 10.308963775634766, EP: 0.9731854796409607	 ([rip - off.][that's][best][thing][one][pretty][everyone][cast][looks][acting][ability.][painful][watch.][avoid][one])
+v(0,1,2,3,4,10,11,12,13,15,16,19,21,22,23,24): 10.265525817871094, EP: 0.9690848588943481	 ([hobgoblins][cheap][badly][done][gremlins][say][stinkpile.][pretty][much][cast][chosen][ability.][watch.][avoid][one][costs.])
+v(0,2,5,6,7,8,9,12,15,16,19,21,22,23): 10.205215454101562, EP: 0.9633914828300476	 ([hobgoblins][badly][rip - off.][that's][best][thing][one][pretty][cast][chosen][ability.][watch.][avoid][one])
+v(1,3,4,5,6,7,8,9,10,11,13,24): 10.159095764160156, EP: 0.9590376615524292	 ([cheap][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][much][costs.])
+v(1,3,4,10,11,12,13,15,19,21,22,23,24): 10.108720779418945, EP: 0.9542822241783142	 ([cheap][done][gremlins][say][stinkpile.][pretty][much][cast][ability.][watch.][avoid][one][costs.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,16,24): 10.069711685180664, EP: 0.9505996704101562	 ([hobgoblins][cheap][badly][done][gremlins][rip - off.][that's][best][thing][one][say][stinkpile.][much][chosen][costs.])
+v(0,1,2,3,4,10,11,13,14,16,17,18,20,24): 10.061064720153809, EP: 0.9497833847999573	 ([hobgoblins][cheap][badly][done][gremlins][say][stinkpile.][much][everyone][chosen][looks][acting][painful][costs.])
+v(5,6,7,8,9,12,15,19,21,22,23): 10.033443450927734, EP: 0.9471758604049683	 ([rip - off.][that's][best][thing][one][pretty][cast][ability.][watch.][avoid][one])
+v(0,2,5,6,7,8,9,14,16,17,18,20): 10.018814086914062, EP: 0.9457948207855225	 ([hobgoblins][badly][rip - off.][that's][best][thing][one][everyone][chosen][looks][acting][painful])
+v(1,3,4,10,11,13,14,17,18,20,24): 9.860023498535156, EP: 0.9308047294616699	 ([cheap][done][gremlins][say][stinkpile.][much][everyone][looks][acting][painful][costs.])
+v(5,6,7,8,9,14,17,18,20): 9.854903221130371, EP: 0.9303213357925415	 ([rip - off.][that's][best][thing][one][everyone][looks][acting][painful])
+v(0,2,12,14,15,16,17,18,19,20,21,22,23): 9.641301155090332, EP: 0.9101569056510925	 ([hobgoblins][badly][pretty][everyone][cast][chosen][looks][acting][ability.][painful][watch.][avoid][one])
+v(0,1,2,3,4,10,11,13,16,24): 9.581439971923828, EP: 0.9045059084892273	 ([hobgoblins][cheap][badly][done][gremlins][say][stinkpile.][much][chosen][costs.])
+v(1,3,4,10,11,13,24): 9.417974472045898, EP: 0.889074444770813	 ([cheap][done][gremlins][say][stinkpile.][much][costs.])
+v(0,2,5,6,7,8,9,16): 9.413949966430664, EP: 0.8886945247650146	 ([hobgoblins][badly][rip - off.][that's][best][thing][one][chosen])
+v(0,2,12,15,16,19,21,22,23): 9.401458740234375, EP: 0.8875153064727783	 ([hobgoblins][badly][pretty][cast][chosen][ability.][watch.][avoid][one])
+v(5,6,7,8,9): 9.383794784545898, EP: 0.885847806930542	 ([rip - off.][that's][best][thing][one])
+v(12,14,15,17,18,19,20,21,22,23): 8.671760559082031, EP: 0.8186304569244385	 ([pretty][everyone][cast][looks][acting][ability.][painful][watch.][avoid][one])
+v(0,2,14,16,17,18,20): 8.480209350585938, EP: 0.8005476593971252	 ([hobgoblins][badly][everyone][chosen][looks][acting][painful])
+v(0,2,16): 6.7631754875183105, EP: 0.6384564638137817	 ([hobgoblins][badly][chosen])
+v(12,15,19,21,22,23): 6.10622501373291, EP: 0.5764390826225281	 ([pretty][cast][ability.][watch.][avoid][one])
+v(14,17,18,20): 4.6051435470581055, EP: 0.43473419547080994	 ([everyone][looks][acting][painful])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

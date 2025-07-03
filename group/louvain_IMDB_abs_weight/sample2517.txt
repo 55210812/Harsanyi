@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['56', '57', '58', '52', '49', '50', '48', '53', '59', '51']: ['original', 'host', 'new', 'movie', 'excorsist.', 'plot', 'spoof', '2', 'characters', 'scary']: 平均边权 0.5874
+社区 2: ['38', '41', '37', '35', '33', '40']: ['butler', 'always', 'creepy, weird', 'recurring', 'one', 'hand']: 平均边权 0.5392
+社区 3: ['12', '15', '9', '13', '14']: ['pretty', 'cheesy', ',', 'tedious', 'really']: 平均边权 0.9247
+社区 4: ['4', '5', '3', '6']: ['worst', '4', 'definitely', 'films,']: 平均边权 0.8840
+社区 5: ['2', '1', '0']: ['2', 'movie', 'scary']: 平均边权 1.2231
+社区 6: ['36', '45', '39', '55', '42', '44', '43', '26']: ['joke', 'things.', 'disgusting', 'characters', 'cringey', 'worthy', 'laugh', 'joke,']: 平均边权 0.8766
+社区 7: ['61', '63', '62', '60', '64', '54']: ['way', 'stay', 'invited', 'along', 'night', 'main']: 平均边权 0.4898
+社区 8: ['8', '20', '19', '18', '21', '16', '17', '7']: ['plot', 'one', 'but,', 'big', 'good', 'jokes.', 'but.', 'much']: 平均边权 0.4434
+社区 9: ['30', '11', '22', '27', '25', '28']: ['actor', 'acting,', 'actor,', 'good', 'recurring', 'beginning.']: 平均边权 0.4416
+社区 10: ['32', '46', '34', '29', '47', '23', '24', '10', '31']: ['curry,', 'good', 'good', 'good', 'beginning', 'one', 'good', 'bad', 'tim']: 平均边权 0.3832

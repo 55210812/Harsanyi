@@ -1,0 +1,163 @@
+---------- Players ----------
+Player 0: find
+Player 1: sad
+Player 2: christians
+Player 3: ( and
+Player 4: one )
+Player 5: feel
+Player 6: must
+Player 7: make
+Player 8: movies
+Player 9: like
+Player 10: left
+Player 11: behind.
+Player 12: "
+Player 13: much
+Player 14: better
+Player 15: stories
+Player 16: tell
+Player 17: preachy.
+Player 18: disappointed
+Player 19: film.
+Player 20: aspiring
+Player 21: filmmaker
+Player 22: believes
+Player 23: christ,
+Player 24: see
+Player 25: film
+Player 26: perfect
+Player 27: example
+Player 28: going
+Player 29: career
+Player 30: film. "
+---------- Rewards ----------
+v(): -4.093398571014404	 ([])
+v(21,22): -5.135897636413574	 ([filmmaker][believes])
+v(19,20,27,28,29): -2.858912229537964	 ([film.][aspiring][example][going][career])
+v(23,24,25,26): -7.727315902709961	 ([christ,][see][film][perfect])
+v(1,12,13,14,15,16): -4.2971510887146	 ([sad]["][much][better][stories][tell])
+v(5,6,7,8,9,10): -4.6806840896606445	 ([feel][must][make][movies][like][left])
+v(0,3,4,11,17,18,30): 7.587235927581787	 ([find][( and][one )][behind.][preachy.][disappointed][film. "])
+v(19,20,21,22,27,28,29): -3.278747797012329	 ([film.][aspiring][filmmaker][believes][example][going][career])
+v(21,22,23,24,25,26): -7.704311370849609	 ([filmmaker][believes][christ,][see][film][perfect])
+v(1,12,13,14,15,16,21,22): -5.348466873168945	 ([sad]["][much][better][stories][tell][filmmaker][believes])
+v(5,6,7,8,9,10,21,22): -5.3574724197387695	 ([feel][must][make][movies][like][left][filmmaker][believes])
+v(0,3,4,11,17,18,21,22,30): 7.611449241638184	 ([find][( and][one )][behind.][preachy.][disappointed][filmmaker][believes][film. "])
+v(19,20,23,24,25,26,27,28,29): -1.6968035697937012	 ([film.][aspiring][christ,][see][film][perfect][example][going][career])
+v(1,12,13,14,15,16,19,20,27,28,29): -5.476364612579346	 ([sad]["][much][better][stories][tell][film.][aspiring][example][going][career])
+v(5,6,7,8,9,10,19,20,27,28,29): -4.5152997970581055	 ([feel][must][make][movies][like][left][film.][aspiring][example][going][career])
+v(0,3,4,11,17,18,19,20,27,28,29,30): 8.432249069213867	 ([find][( and][one )][behind.][preachy.][disappointed][film.][aspiring][example][going][career][film. "])
+v(1,12,13,14,15,16,23,24,25,26): -7.943737983703613	 ([sad]["][much][better][stories][tell][christ,][see][film][perfect])
+v(5,6,7,8,9,10,23,24,25,26): -7.638547897338867	 ([feel][must][make][movies][like][left][christ,][see][film][perfect])
+v(0,3,4,11,17,18,23,24,25,26,30): 7.765496253967285	 ([find][( and][one )][behind.][preachy.][disappointed][christ,][see][film][perfect][film. "])
+v(1,5,6,7,8,9,10,12,13,14,15,16): -3.9450082778930664	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell])
+v(0,1,3,4,11,12,13,14,15,16,17,18,30): 7.702865123748779	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,30): 7.766448020935059	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][film. "])
+v(19,20,21,22,23,24,25,26,27,28,29): -2.9529528617858887	 ([film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career])
+v(1,12,13,14,15,16,19,20,21,22,27,28,29): -5.968193531036377	 ([sad]["][much][better][stories][tell][film.][aspiring][filmmaker][believes][example][going][career])
+v(5,6,7,8,9,10,19,20,21,22,27,28,29): -4.871548175811768	 ([feel][must][make][movies][like][left][film.][aspiring][filmmaker][believes][example][going][career])
+v(0,3,4,11,17,18,19,20,21,22,27,28,29,30): 8.466174125671387	 ([find][( and][one )][behind.][preachy.][disappointed][film.][aspiring][filmmaker][believes][example][going][career][film. "])
+v(1,12,13,14,15,16,21,22,23,24,25,26): -8.003405570983887	 ([sad]["][much][better][stories][tell][filmmaker][believes][christ,][see][film][perfect])
+v(5,6,7,8,9,10,21,22,23,24,25,26): -7.7147417068481445	 ([feel][must][make][movies][like][left][filmmaker][believes][christ,][see][film][perfect])
+v(0,3,4,11,17,18,21,22,23,24,25,26,30): 7.853166580200195	 ([find][( and][one )][behind.][preachy.][disappointed][filmmaker][believes][christ,][see][film][perfect][film. "])
+v(1,5,6,7,8,9,10,12,13,14,15,16,21,22): -4.909788131713867	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell][filmmaker][believes])
+v(0,1,3,4,11,12,13,14,15,16,17,18,21,22,30): 7.653861999511719	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][filmmaker][believes][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,21,22,30): 7.764972686767578	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][filmmaker][believes][film. "])
+v(1,12,13,14,15,16,19,20,23,24,25,26,27,28,29): -4.953486442565918	 ([sad]["][much][better][stories][tell][film.][aspiring][christ,][see][film][perfect][example][going][career])
+v(5,6,7,8,9,10,19,20,23,24,25,26,27,28,29): -3.5722970962524414	 ([feel][must][make][movies][like][left][film.][aspiring][christ,][see][film][perfect][example][going][career])
+v(0,3,4,11,17,18,19,20,23,24,25,26,27,28,29,30): 8.502523422241211	 ([find][( and][one )][behind.][preachy.][disappointed][film.][aspiring][christ,][see][film][perfect][example][going][career][film. "])
+v(1,5,6,7,8,9,10,12,13,14,15,16,19,20,27,28,29): -6.2200775146484375	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell][film.][aspiring][example][going][career])
+v(0,1,3,4,11,12,13,14,15,16,17,18,19,20,27,28,29,30): 8.385169982910156	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][example][going][career][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,19,20,27,28,29,30): 8.428160667419434	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][film.][aspiring][example][going][career][film. "])
+v(1,5,6,7,8,9,10,12,13,14,15,16,23,24,25,26): -7.704387187957764	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell][christ,][see][film][perfect])
+v(0,1,3,4,11,12,13,14,15,16,17,18,23,24,25,26,30): 7.785392761230469	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][christ,][see][film][perfect][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,23,24,25,26,30): 7.947763442993164	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][christ,][see][film][perfect][film. "])
+v(0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,30): 8.029375076293945	 ([find][sad][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][film. "])
+v(1,12,13,14,15,16,19,20,21,22,23,24,25,26,27,28,29): -6.102707862854004	 ([sad]["][much][better][stories][tell][film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career])
+v(5,6,7,8,9,10,19,20,21,22,23,24,25,26,27,28,29): -4.7973480224609375	 ([feel][must][make][movies][like][left][film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career])
+v(0,3,4,11,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 8.5245943069458	 ([find][( and][one )][behind.][preachy.][disappointed][film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career][film. "])
+v(1,5,6,7,8,9,10,12,13,14,15,16,19,20,21,22,27,28,29): -6.550502777099609	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell][film.][aspiring][filmmaker][believes][example][going][career])
+v(0,1,3,4,11,12,13,14,15,16,17,18,19,20,21,22,27,28,29,30): 8.425576210021973	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][filmmaker][believes][example][going][career][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,19,20,21,22,27,28,29,30): 8.470001220703125	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][film.][aspiring][filmmaker][believes][example][going][career][film. "])
+v(1,5,6,7,8,9,10,12,13,14,15,16,21,22,23,24,25,26): -7.733173370361328	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell][filmmaker][believes][christ,][see][film][perfect])
+v(0,1,3,4,11,12,13,14,15,16,17,18,21,22,23,24,25,26,30): 7.810556411743164	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][filmmaker][believes][christ,][see][film][perfect][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,21,22,23,24,25,26,30): 7.932282447814941	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][filmmaker][believes][christ,][see][film][perfect][film. "])
+v(0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,22,30): 7.940006732940674	 ([find][sad][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][filmmaker][believes][film. "])
+v(1,5,6,7,8,9,10,12,13,14,15,16,19,20,23,24,25,26,27,28,29): -5.565482139587402	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell][film.][aspiring][christ,][see][film][perfect][example][going][career])
+v(0,1,3,4,11,12,13,14,15,16,17,18,19,20,23,24,25,26,27,28,29,30): 8.473905563354492	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][christ,][see][film][perfect][example][going][career][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,19,20,23,24,25,26,27,28,29,30): 8.514798164367676	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][film.][aspiring][christ,][see][film][perfect][example][going][career][film. "])
+v(0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,27,28,29,30): 8.408147811889648	 ([find][sad][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][example][going][career][film. "])
+v(0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,23,24,25,26,30): 8.079471588134766	 ([find][sad][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][christ,][see][film][perfect][film. "])
+v(1,5,6,7,8,9,10,12,13,14,15,16,19,20,21,22,23,24,25,26,27,28,29): -6.393312454223633	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell][film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career])
+v(0,1,3,4,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 8.460090637207031	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 8.53016471862793	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career][film. "])
+v(0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,27,28,29,30): 8.470039367675781	 ([find][sad][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][filmmaker][believes][example][going][career][film. "])
+v(0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,22,23,24,25,26,30): 7.9621901512146	 ([find][sad][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][filmmaker][believes][christ,][see][film][perfect][film. "])
+v(0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,23,24,25,26,27,28,29,30): 8.50473403930664	 ([find][sad][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][christ,][see][film][perfect][example][going][career][film. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 8.6312255859375	 ([find][sad][christians][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career][film. "])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 12.724624633789062, EP: 1.0	 ([find][sad][christians][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 12.623563766479492, EP: 0.9920578598976135	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career][film. "])
+v(0,3,4,11,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 12.617992401123047, EP: 0.9916200041770935	 ([find][( and][one )][behind.][preachy.][disappointed][film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,19,20,23,24,25,26,27,28,29,30): 12.608196258544922, EP: 0.9908501505851746	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][film.][aspiring][christ,][see][film][perfect][example][going][career][film. "])
+v(0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,23,24,25,26,27,28,29,30): 12.598133087158203, EP: 0.9900593161582947	 ([find][sad][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][christ,][see][film][perfect][example][going][career][film. "])
+v(0,3,4,11,17,18,19,20,23,24,25,26,27,28,29,30): 12.595922470092773, EP: 0.9898855686187744	 ([find][( and][one )][behind.][preachy.][disappointed][film.][aspiring][christ,][see][film][perfect][example][going][career][film. "])
+v(0,1,3,4,11,12,13,14,15,16,17,18,19,20,23,24,25,26,27,28,29,30): 12.567304611206055, EP: 0.9876365661621094	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][christ,][see][film][perfect][example][going][career][film. "])
+v(0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,27,28,29,30): 12.563438415527344, EP: 0.9873327612876892	 ([find][sad][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][filmmaker][believes][example][going][career][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,19,20,21,22,27,28,29,30): 12.563400268554688, EP: 0.9873297214508057	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][film.][aspiring][filmmaker][believes][example][going][career][film. "])
+v(0,3,4,11,17,18,19,20,21,22,27,28,29,30): 12.559572219848633, EP: 0.9870288968086243	 ([find][( and][one )][behind.][preachy.][disappointed][film.][aspiring][filmmaker][believes][example][going][career][film. "])
+v(0,1,3,4,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 12.553489685058594, EP: 0.9865508675575256	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career][film. "])
+v(0,3,4,11,17,18,19,20,27,28,29,30): 12.52564811706543, EP: 0.9843629002571106	 ([find][( and][one )][behind.][preachy.][disappointed][film.][aspiring][example][going][career][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,19,20,27,28,29,30): 12.52155876159668, EP: 0.9840415120124817	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][film.][aspiring][example][going][career][film. "])
+v(0,1,3,4,11,12,13,14,15,16,17,18,19,20,21,22,27,28,29,30): 12.518974304199219, EP: 0.9838383793830872	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][filmmaker][believes][example][going][career][film. "])
+v(0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,27,28,29,30): 12.501546859741211, EP: 0.9824687838554382	 ([find][sad][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][example][going][career][film. "])
+v(0,1,3,4,11,12,13,14,15,16,17,18,19,20,27,28,29,30): 12.478569030761719, EP: 0.9806630611419678	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][film.][aspiring][example][going][career][film. "])
+v(0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,23,24,25,26,30): 12.172870635986328, EP: 0.9566388726234436	 ([find][sad][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][christ,][see][film][perfect][film. "])
+v(0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,30): 12.122774124145508, EP: 0.9527019262313843	 ([find][sad][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][film. "])
+v(0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,22,23,24,25,26,30): 12.055588722229004, EP: 0.9474219679832458	 ([find][sad][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][filmmaker][believes][christ,][see][film][perfect][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,23,24,25,26,30): 12.041162490844727, EP: 0.9462882280349731	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][christ,][see][film][perfect][film. "])
+v(0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,22,30): 12.033405303955078, EP: 0.9456785917282104	 ([find][sad][( and][one )][feel][must][make][movies][like][left][behind.]["][much][better][stories][tell][preachy.][disappointed][filmmaker][believes][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,21,22,23,24,25,26,30): 12.025680541992188, EP: 0.9450715184211731	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][filmmaker][believes][christ,][see][film][perfect][film. "])
+v(0,3,4,11,17,18,21,22,23,24,25,26,30): 11.946565628051758, EP: 0.9388540983200073	 ([find][( and][one )][behind.][preachy.][disappointed][filmmaker][believes][christ,][see][film][perfect][film. "])
+v(0,1,3,4,11,12,13,14,15,16,17,18,21,22,23,24,25,26,30): 11.903955459594727, EP: 0.9355054497718811	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][filmmaker][believes][christ,][see][film][perfect][film. "])
+v(0,1,3,4,11,12,13,14,15,16,17,18,23,24,25,26,30): 11.878791809082031, EP: 0.9335278868675232	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][christ,][see][film][perfect][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,30): 11.859846115112305, EP: 0.9320389628410339	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][film. "])
+v(0,3,4,11,17,18,23,24,25,26,30): 11.858894348144531, EP: 0.9319641590118408	 ([find][( and][one )][behind.][preachy.][disappointed][christ,][see][film][perfect][film. "])
+v(0,3,4,5,6,7,8,9,10,11,17,18,21,22,30): 11.85837173461914, EP: 0.9319230914115906	 ([find][( and][one )][feel][must][make][movies][like][left][behind.][preachy.][disappointed][filmmaker][believes][film. "])
+v(0,1,3,4,11,12,13,14,15,16,17,18,30): 11.796263694763184, EP: 0.9270421862602234	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][film. "])
+v(0,1,3,4,11,12,13,14,15,16,17,18,21,22,30): 11.747261047363281, EP: 0.9231911897659302	 ([find][sad][( and][one )][behind.]["][much][better][stories][tell][preachy.][disappointed][filmmaker][believes][film. "])
+v(0,3,4,11,17,18,21,22,30): 11.70484733581543, EP: 0.9198579788208008	 ([find][( and][one )][behind.][preachy.][disappointed][filmmaker][believes][film. "])
+v(0,3,4,11,17,18,30): 11.680634498596191, EP: 0.9179551601409912	 ([find][( and][one )][behind.][preachy.][disappointed][film. "])
+v(1,12,13,14,15,16,21,22,23,24,25,26): -3.9100069999694824, EP: -0.3072787821292877	 ([sad]["][much][better][stories][tell][filmmaker][believes][christ,][see][film][perfect])
+v(1,12,13,14,15,16,23,24,25,26): -3.850339412689209, EP: -0.30258962512016296	 ([sad]["][much][better][stories][tell][christ,][see][film][perfect])
+v(1,5,6,7,8,9,10,12,13,14,15,16,21,22,23,24,25,26): -3.639774799346924, EP: -0.28604182600975037	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell][filmmaker][believes][christ,][see][film][perfect])
+v(23,24,25,26): -3.6339173316955566, EP: -0.28558149933815	 ([christ,][see][film][perfect])
+v(5,6,7,8,9,10,21,22,23,24,25,26): -3.6213431358337402, EP: -0.2845933139324188	 ([feel][must][make][movies][like][left][filmmaker][believes][christ,][see][film][perfect])
+v(1,5,6,7,8,9,10,12,13,14,15,16,23,24,25,26): -3.6109886169433594, EP: -0.2837795913219452	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell][christ,][see][film][perfect])
+v(21,22,23,24,25,26): -3.610912799835205, EP: -0.28377363085746765	 ([filmmaker][believes][christ,][see][film][perfect])
+v(5,6,7,8,9,10,23,24,25,26): -3.545149326324463, EP: -0.2786054015159607	 ([feel][must][make][movies][like][left][christ,][see][film][perfect])
+v(1,5,6,7,8,9,10,12,13,14,15,16,19,20,21,22,27,28,29): -2.457104206085205, EP: -0.19309836626052856	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell][film.][aspiring][filmmaker][believes][example][going][career])
+v(19,20,23,24,25,26,27,28,29): 2.396595001220703, EP: 0.1883430778980255	 ([film.][aspiring][christ,][see][film][perfect][example][going][career])
+v(1,5,6,7,8,9,10,12,13,14,15,16,19,20,21,22,23,24,25,26,27,28,29): -2.2999138832092285, EP: -0.18074512481689453	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell][film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career])
+v(1,5,6,7,8,9,10,12,13,14,15,16,19,20,27,28,29): -2.126678943634033, EP: -0.1671309769153595	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell][film.][aspiring][example][going][career])
+v(1,12,13,14,15,16,19,20,21,22,23,24,25,26,27,28,29): -2.0093092918395996, EP: -0.1579071581363678	 ([sad]["][much][better][stories][tell][film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career])
+v(1,12,13,14,15,16,19,20,21,22,27,28,29): -1.8747949600219727, EP: -0.1473359763622284	 ([sad]["][much][better][stories][tell][film.][aspiring][filmmaker][believes][example][going][career])
+v(1,5,6,7,8,9,10,12,13,14,15,16,19,20,23,24,25,26,27,28,29): -1.472083568572998, EP: -0.1156877800822258	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell][film.][aspiring][christ,][see][film][perfect][example][going][career])
+v(1,12,13,14,15,16,19,20,27,28,29): -1.3829660415649414, EP: -0.1086842343211174	 ([sad]["][much][better][stories][tell][film.][aspiring][example][going][career])
+v(5,6,7,8,9,10,21,22): -1.2640738487243652, EP: -0.0993407592177391	 ([feel][must][make][movies][like][left][filmmaker][believes])
+v(1,12,13,14,15,16,21,22): -1.255068302154541, EP: -0.09863302856683731	 ([sad]["][much][better][stories][tell][filmmaker][believes])
+v(19,20,27,28,29): 1.2344863414764404, EP: 0.09701553732156754	 ([film.][aspiring][example][going][career])
+v(19,20,21,22,23,24,25,26,27,28,29): 1.1404457092285156, EP: 0.08962509781122208	 ([film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career])
+v(21,22): -1.04249906539917, EP: -0.08192768692970276	 ([filmmaker][believes])
+v(1,12,13,14,15,16,19,20,23,24,25,26,27,28,29): -0.8600878715515137, EP: -0.06759239733219147	 ([sad]["][much][better][stories][tell][film.][aspiring][christ,][see][film][perfect][example][going][career])
+v(1,5,6,7,8,9,10,12,13,14,15,16,21,22): -0.8163895606994629, EP: -0.06415824592113495	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell][filmmaker][believes])
+v(19,20,21,22,27,28,29): 0.8146507740020752, EP: 0.06402159482240677	 ([film.][aspiring][filmmaker][believes][example][going][career])
+v(5,6,7,8,9,10,19,20,21,22,27,28,29): -0.7781496047973633, EP: -0.061153050512075424	 ([feel][must][make][movies][like][left][film.][aspiring][filmmaker][believes][example][going][career])
+v(5,6,7,8,9,10,19,20,21,22,23,24,25,26,27,28,29): -0.7039494514465332, EP: -0.0553218238055706	 ([feel][must][make][movies][like][left][film.][aspiring][filmmaker][believes][christ,][see][film][perfect][example][going][career])
+v(5,6,7,8,9,10): -0.5872855186462402, EP: -0.046153463423252106	 ([feel][must][make][movies][like][left])
+v(5,6,7,8,9,10,19,20,23,24,25,26,27,28,29): 0.5211014747619629, EP: 0.04095220938324928	 ([feel][must][make][movies][like][left][film.][aspiring][christ,][see][film][perfect][example][going][career])
+v(5,6,7,8,9,10,19,20,27,28,29): -0.42190122604370117, EP: -0.03315627947449684	 ([feel][must][make][movies][like][left][film.][aspiring][example][going][career])
+v(1,12,13,14,15,16): -0.2037525177001953, EP: -0.016012458130717278	 ([sad]["][much][better][stories][tell])
+v(1,5,6,7,8,9,10,12,13,14,15,16): 0.1483902931213379, EP: 0.01166166365146637	 ([sad][feel][must][make][movies][like][left]["][much][better][stories][tell])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

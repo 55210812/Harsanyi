@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['20', '35', '32', '18', '3', '23', '53', '68', '59', '33', '26']: ['theaters', 'films', 'actors.', 'theaters.', 'movie', 'audiences', 'film', 'actors', 'film', 'many', 'films']: 平均边权 0.9828
+社区 2: ['56', '24', '49', '52', '47', '50', '65', '1', '51', '64', '54']: ['resources', 'wanted', 'values.', 'fault', 'horrid', 'really', 'less - - including', 'film - - especially', "can't", 'lot', 'makers - - they']: 平均边权 0.5500
+社区 3: ['61', '57', '0', '19', '46', '45', '34', '21', '55', '41', '7']: ['result,', 'available', 'fascinating', 'result,', 'usually', 'budget - - and', 'cases,', 'catering', 'money', 'fare,', 'both ).']: 平均边权 0.5814
+社区 4: ['27', '13', '25', '29', '16', '30', '22', '14', '17', '31', '28']: ['reflecting', 'black', 'show', 'experience', 'allowed', 'showing', 'black', 'americans', 'white', 'black', 'black']: 平均边权 0.3579
+社区 5: ['58', '60', '48']: ['average', 'company.', 'production']: 平均边权 0.7385
+社区 6: ['62', '67', '63', '66']: ['make', 'stock', 'due', 'over - reliance']: 平均边权 0.6892
+社区 7: ['38', '36', '40', '39', '15', '42', '37', '44', '43']: ['plot - wise', 'essentially', 'hollywood', 'standard', 'usually', 'much,', 'similar', 'lower', 'much']: 平均边权 0.2989
+社区 8: ['2', '12', '8', '5', '4', '11', '9', '10', '6']: ['old', 'sadly,', 'first', 'historians', 'buffs', 'century,', 'half', 'twentieth', '( i']: 平均边权 0.4166

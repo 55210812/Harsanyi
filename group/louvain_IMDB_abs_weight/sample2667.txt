@@ -1,0 +1,8 @@
+louvain社区检测结果:
+社区 1: ['2', '5', '0', '4', '3', '42', '9', '1', '10', '6', '7']: ['almost', 'handle', 'difficult', 'get', 'impossible', 'finally,', 'first', 'movie,', 'seems', "what's", 'going']: 平均边权 0.4549
+社区 2: ['36', '32', '45', '34', '30', '23', '33', '24', '26', '31']: ["tenant's", 'trying', 'tenant.', 'him?', 'start.', 'tenant', 'kill', '( a', 'commits', 'neighbors']: 平均边权 0.3347
+社区 3: ['20', '19', '27', '13', '25', '21', '18', '16', '22', '17']: ['invites', 'crassly', 'suicide.', 'movie', 'woman )', 'one', 'rather', 'needs', 'current', 'apartment']: 平均边权 0.3492
+社区 4: ['55', '56', '15', '53', '43', '52', '54']: ['pulls', 'us', '( trelkovsky )', 'tricks', 'trelkovksy', 'one', 'polanski']: 平均边权 0.4600
+社区 5: ['12', '8', '61', '57', '63', '58', '59', '62', '60', '14', '28']: ['pedestrian', 'on.', 'things', 'lie', 'view', 'us.', 'assume', 'point', 'see', 'guy', 'twists']: 平均边权 0.2335
+社区 6: ['41', '40']: ['wonders,', 'one']: 平均边权 0.6404
+社区 7: ['38', '35', '46', '49', '29', '47', '39', '11', '50', '48', '37', '44', '51']: ['turning', 'dead', 'spoiler', 'spoiler', 'turns', 'spoiler', 'apartment?', 'rather', 'spoiler', 'spoiler', 'clothes', 'prior', 'spoiler']: 平均边权 0.1669

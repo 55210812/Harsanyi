@@ -1,0 +1,69 @@
+Execution time: 2025-07-03 05:15:45
+prompt: [CLS] this is the definite lars von trier movie, my favorite, i rank it higher than breaking the waves " or the latest " dancer in the dark "... i simply love the beauty of the picture... the framing is so original ; acting is wonderful, a must see. " [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2023 decoded_text: this
+idx:2 input_id:2003 decoded_text: is
+idx:3 input_id:1996 decoded_text: the
+idx:4 input_id:15298 decoded_text: definite
+idx:5 input_id:16357 decoded_text: lars
+idx:6 input_id:3854 decoded_text: von
+idx:7 input_id:25487 decoded_text: trier
+idx:8 input_id:3185 decoded_text: movie
+idx:9 input_id:1010 decoded_text: ,
+idx:10 input_id:2026 decoded_text: my
+idx:11 input_id:5440 decoded_text: favorite
+idx:12 input_id:1010 decoded_text: ,
+idx:13 input_id:1045 decoded_text: i
+idx:14 input_id:4635 decoded_text: rank
+idx:15 input_id:2009 decoded_text: it
+idx:16 input_id:3020 decoded_text: higher
+idx:17 input_id:2084 decoded_text: than
+idx:18 input_id:4911 decoded_text: breaking
+idx:19 input_id:1996 decoded_text: the
+idx:20 input_id:5975 decoded_text: waves
+idx:21 input_id:1000 decoded_text: "
+idx:22 input_id:2030 decoded_text: or
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:6745 decoded_text: latest
+idx:25 input_id:1000 decoded_text: "
+idx:26 input_id:8033 decoded_text: dancer
+idx:27 input_id:1999 decoded_text: in
+idx:28 input_id:1996 decoded_text: the
+idx:29 input_id:2601 decoded_text: dark
+idx:30 input_id:1000 decoded_text: "
+idx:31 input_id:1012 decoded_text: .
+idx:32 input_id:1012 decoded_text: .
+idx:33 input_id:1012 decoded_text: .
+idx:34 input_id:1045 decoded_text: i
+idx:35 input_id:3432 decoded_text: simply
+idx:36 input_id:2293 decoded_text: love
+idx:37 input_id:1996 decoded_text: the
+idx:38 input_id:5053 decoded_text: beauty
+idx:39 input_id:1997 decoded_text: of
+idx:40 input_id:1996 decoded_text: the
+idx:41 input_id:3861 decoded_text: picture
+idx:42 input_id:1012 decoded_text: .
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:1012 decoded_text: .
+idx:45 input_id:1996 decoded_text: the
+idx:46 input_id:20241 decoded_text: framing
+idx:47 input_id:2003 decoded_text: is
+idx:48 input_id:2061 decoded_text: so
+idx:49 input_id:2434 decoded_text: original
+idx:50 input_id:1025 decoded_text: ;
+idx:51 input_id:3772 decoded_text: acting
+idx:52 input_id:2003 decoded_text: is
+idx:53 input_id:6919 decoded_text: wonderful
+idx:54 input_id:1010 decoded_text: ,
+idx:55 input_id:1037 decoded_text: a
+idx:56 input_id:2442 decoded_text: must
+idx:57 input_id:2156 decoded_text: see
+idx:58 input_id:1012 decoded_text: .
+idx:59 input_id:1000 decoded_text: "
+idx:60 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-3.93363094329834, 4.306310176849365]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

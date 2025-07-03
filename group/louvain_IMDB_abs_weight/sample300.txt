@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['35', '32', '34', '40', '47', '39', '11', '31']: ['bogart', 'stewart', 'humphrey', 'trenchcoat.', "bogey's", 'fedora', 'captain', 'patrick']: 平均边权 0.7835
+社区 2: ['38', '57', '52', '55', '50', '53', '59', '51', '54']: ['complete', 'insect', 'also', 'us', '"', 'briefly', 'called', 'episode', 'introduces']: 平均边权 0.7391
+社区 3: ['8', '10', '9', '69', '14']: ['holodeck', 'traps', 'malfunction', 'difficult,', 'data,']: 平均边权 0.8721
+社区 4: ['56', '61', '0', '23', '68', '62', '43', '71', '12', '70', '63', '66', '41', '42', '65', '44', '1']: ['mysterious', 'communicate', 'peabody', 'setting.', 'race', 'mostly', 'exact', 'communicate', 'picard,', 'picard', 'high - pitched', 'communication', 'office', 'almost', 'sound.', 'replica', 'award']: 平均边权 0.3947
+社区 5: ['45', '4', '5', '46']: ['one', 'one', 'highlights', 'featured']: 平均边权 0.6037
+社区 6: ['25', '27', '13', '26', '28']: ['homage', "chandler's", 'beverly,', 'raymond', 'maltese']: 平均边权 0.5989
+社区 7: ['16', '15', '20', '18', '22', '21', '17']: ['historian', 'starfleet', "1930's", 'waylan', 'francisco', 'san', 'named']: 平均边权 0.3494
+社区 8: ['2', '36', '58', '67', '3', '37', '24', '33', '6', '7']: ['winning', 'role', 'race', 'alien', 'episode', '-', 'episode', 'assumes', '1st', 'season']: 平均边权 0.5718
+社区 9: ['30', '48', '60', '49', '29', '64']: ['"', '" maltese', 'jarada', 'falcon.', 'falcon', 'buzzing']: 平均边权 0.3437

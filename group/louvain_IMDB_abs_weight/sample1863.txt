@@ -1,0 +1,8 @@
+louvain社区检测结果:
+社区 1: ['17', '20', '22', '19', '24', '21']: ['go', 'hey,', 'burton,', 'this.', 'big', 'tim']: 平均边权 0.9304
+社区 2: ['12', '13', '46', '45', '18', '39', '15', '14', '6']: ['nothing', 'frustration', 'decisions', 'actions', 'see', 'vague', 'await', 'disappointment', '"']: 平均边权 0.7145
+社区 3: ['2', '61', '5', '0', '35', '25', '34', '4', '16', '3', '1', '33']: ['seen', 'think', 'killed', 'worst', 'giving', 'fan', 'without', 'know', 'choose', 'since', 'movie', 'k?']: 平均边权 0.5193
+社区 4: ['11', '8', '9', '10', '47', '7']: ['assure', 'lohan.', 'watching', 'movie', 'irrelevant...', 'lindsey']: 平均边权 0.9676
+社区 5: ['27', '29', '30', '53', '44', '26', '28', '31']: ['even', 'movie?', 'mean', 'spoiler...', 'stuff,', 'yours...', 'screen', 'seriously,']: 平均边权 0.5395
+社区 6: ['56', '57', '32', '58', '55', '59', '60', '54']: ['spoiler', 'alert!', 'f', 'end', 'alert!', 'movie....', 'rains.', 'spoiler']: 平均边权 0.3295
+社区 7: ['38', '49', '40', '52', '50', '48', '23', '37', '41', '42', '43', '51']: ['story', 'ends.', 'nutshell...', 'comes', 'oh', 'movie', 'used', 'away,', 'nine', 'wakes', 'up,', 'wait...']: 平均边权 0.3526

@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['11', '20', '0', '9', '13', '10']: ['worse', 'anything', 'horrible', 'never', 'life,', 'seen']: 平均边权 1.1925
+社区 2: ['2', '4', '16', '3', '1', '58']: ['bad', 'line,', 'decided', 'story', 'acting,', 'dialog..']: 平均边权 0.8229
+社区 3: ['8', '57', '35', '54', '46', '52', '6']: ['iceberg.', "actor's", 'used', 'apartment,', '"', 'office', 'makeup,']: 平均边权 0.9372
+社区 4: ['19', '25', '21', '18', '30', '22', '23', '24', '26', '17']: ['see', '( aside', 'redeeming', 'forward', 'apparently', 'would', 'happen...', "didn't.", 'nice', 'fast']: 平均边权 0.3882
+社区 5: ['38', '27', '32', '49', '29', '53', '31', '28']: ['sets.', 'breast', 'furniture', 'film', 'movie', 'building', 'filmed', 'shot )']: 平均边权 0.4711
+社区 6: ['5', '50', '48', '37', '36', '59']: ['cheesy', 'least', 'make', '90', 'least', '( note']: 平均边权 0.3009
+社区 7: ['12', '14', '15']: ['movie', '5', 'minutes']: 平均边权 0.7356
+社区 8: ['60', '55', '61', '33', '51', '34', '47']: ['producers )', 'warehouse', 'renting', 'warehouse,', 'rent', 'warehouse', 'going']: 平均边权 0.3939
+社区 9: ['56', '45', '40', '39', '41', '42', '44', '43', '7']: ['echo', 'locations', 'see', 'even', 'red', 'chair', 'different', 'several', 'tip']: 平均边权 0.2238

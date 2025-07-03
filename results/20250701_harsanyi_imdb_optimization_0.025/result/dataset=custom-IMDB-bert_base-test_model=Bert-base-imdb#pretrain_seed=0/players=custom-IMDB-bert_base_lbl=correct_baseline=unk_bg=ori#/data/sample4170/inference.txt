@@ -1,0 +1,70 @@
+Execution time: 2025-07-03 11:31:49
+prompt: [CLS] olivier gruner stars as jacques a foreign exchange college student who takes on and single handedly wipes out a mexican street gang in this obnoxious and racist film which is so horrible that it's laughable. bad acting, bad plot and bad fight choreography make angel town a turkey. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:14439 decoded_text: olivier
+idx:2 input_id:24665 decoded_text: gr
+idx:3 input_id:9816 decoded_text: ##une
+idx:4 input_id:2099 decoded_text: ##r
+idx:5 input_id:3340 decoded_text: stars
+idx:6 input_id:2004 decoded_text: as
+idx:7 input_id:7445 decoded_text: jacques
+idx:8 input_id:1037 decoded_text: a
+idx:9 input_id:3097 decoded_text: foreign
+idx:10 input_id:3863 decoded_text: exchange
+idx:11 input_id:2267 decoded_text: college
+idx:12 input_id:3076 decoded_text: student
+idx:13 input_id:2040 decoded_text: who
+idx:14 input_id:3138 decoded_text: takes
+idx:15 input_id:2006 decoded_text: on
+idx:16 input_id:1998 decoded_text: and
+idx:17 input_id:2309 decoded_text: single
+idx:18 input_id:4375 decoded_text: handed
+idx:19 input_id:2135 decoded_text: ##ly
+idx:20 input_id:13387 decoded_text: wipe
+idx:21 input_id:2015 decoded_text: ##s
+idx:22 input_id:2041 decoded_text: out
+idx:23 input_id:1037 decoded_text: a
+idx:24 input_id:4916 decoded_text: mexican
+idx:25 input_id:2395 decoded_text: street
+idx:26 input_id:6080 decoded_text: gang
+idx:27 input_id:1999 decoded_text: in
+idx:28 input_id:2023 decoded_text: this
+idx:29 input_id:27885 decoded_text: ob
+idx:30 input_id:3630 decoded_text: ##no
+idx:31 input_id:25171 decoded_text: ##xious
+idx:32 input_id:1998 decoded_text: and
+idx:33 input_id:16939 decoded_text: racist
+idx:34 input_id:2143 decoded_text: film
+idx:35 input_id:2029 decoded_text: which
+idx:36 input_id:2003 decoded_text: is
+idx:37 input_id:2061 decoded_text: so
+idx:38 input_id:9202 decoded_text: horrible
+idx:39 input_id:2008 decoded_text: that
+idx:40 input_id:2009 decoded_text: it
+idx:41 input_id:1005 decoded_text: '
+idx:42 input_id:1055 decoded_text: s
+idx:43 input_id:4756 decoded_text: laugh
+idx:44 input_id:3085 decoded_text: ##able
+idx:45 input_id:1012 decoded_text: .
+idx:46 input_id:2919 decoded_text: bad
+idx:47 input_id:3772 decoded_text: acting
+idx:48 input_id:1010 decoded_text: ,
+idx:49 input_id:2919 decoded_text: bad
+idx:50 input_id:5436 decoded_text: plot
+idx:51 input_id:1998 decoded_text: and
+idx:52 input_id:2919 decoded_text: bad
+idx:53 input_id:2954 decoded_text: fight
+idx:54 input_id:16967 decoded_text: choreography
+idx:55 input_id:2191 decoded_text: make
+idx:56 input_id:4850 decoded_text: angel
+idx:57 input_id:2237 decoded_text: town
+idx:58 input_id:1037 decoded_text: a
+idx:59 input_id:4977 decoded_text: turkey
+idx:60 input_id:1012 decoded_text: .
+idx:61 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.403066635131836, -4.08817195892334]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

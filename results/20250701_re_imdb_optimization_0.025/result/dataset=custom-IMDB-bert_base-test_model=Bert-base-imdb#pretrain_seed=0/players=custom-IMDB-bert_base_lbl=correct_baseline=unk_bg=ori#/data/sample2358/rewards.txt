@@ -1,0 +1,94 @@
+---------- Players ----------
+Player 0: movie
+Player 1: confuse
+Player 2: death.
+Player 3: furthermore,
+Player 4: denise
+Player 5: richards '
+Player 6: fan,
+Player 7: even
+Player 8: think
+Player 9: renting
+Player 10: movie.
+Player 11: besides
+Player 12: getting
+Player 13: top
+Player 14: billing
+Player 15: cover
+Player 16: 10
+Player 17: minutes
+Player 18: air
+Player 19: time
+Player 20: that,
+Player 21: nothing
+Player 22: movie
+Player 23: many
+Player 24: messed
+Player 25: plots.
+---------- Rewards ----------
+v(): 0.4238796830177307	 ([])
+v(0,1,6,14,25): 5.638256072998047	 ([movie][confuse][fan,][billing][plots.])
+v(2,10,11,12,13): 5.488158226013184	 ([death.][movie.][besides][getting][top])
+v(3,19,21,22,23,24): 2.9552695751190186	 ([furthermore,][time][nothing][movie][many][messed])
+v(4,15,16,17,18,20): 1.5885059833526611	 ([denise][cover][10][minutes][air][that,])
+v(5,7,8,9): 1.7126083374023438	 ([richards '][even][think][renting])
+v(0,1,2,6,10,11,12,13,14,25): 7.400839328765869	 ([movie][confuse][death.][fan,][movie.][besides][getting][top][billing][plots.])
+v(0,1,3,6,14,19,21,22,23,24,25): 7.878361225128174	 ([movie][confuse][furthermore,][fan,][billing][time][nothing][movie][many][messed][plots.])
+v(0,1,4,6,14,15,16,17,18,20,25): 6.482425212860107	 ([movie][confuse][denise][fan,][billing][cover][10][minutes][air][that,][plots.])
+v(0,1,5,6,7,8,9,14,25): 7.103694915771484	 ([movie][confuse][richards '][fan,][even][think][renting][billing][plots.])
+v(2,3,10,11,12,13,19,21,22,23,24): 6.684126853942871	 ([death.][furthermore,][movie.][besides][getting][top][time][nothing][movie][many][messed])
+v(2,4,10,11,12,13,15,16,17,18,20): 6.493946075439453	 ([death.][denise][movie.][besides][getting][top][cover][10][minutes][air][that,])
+v(2,5,7,8,9,10,11,12,13): 5.999512672424316	 ([death.][richards '][even][think][renting][movie.][besides][getting][top])
+v(3,4,15,16,17,18,19,20,21,22,23,24): 4.982218265533447	 ([furthermore,][denise][cover][10][minutes][air][time][that,][nothing][movie][many][messed])
+v(3,5,7,8,9,19,21,22,23,24): 5.430347442626953	 ([furthermore,][richards '][even][think][renting][time][nothing][movie][many][messed])
+v(4,5,7,8,9,15,16,17,18,20): 1.5763922929763794	 ([denise][richards '][even][think][renting][cover][10][minutes][air][that,])
+v(0,1,2,3,6,10,11,12,13,14,19,21,22,23,24,25): 8.176400184631348	 ([movie][confuse][death.][furthermore,][fan,][movie.][besides][getting][top][billing][time][nothing][movie][many][messed][plots.])
+v(0,1,2,4,6,10,11,12,13,14,15,16,17,18,20,25): 7.6537861824035645	 ([movie][confuse][death.][denise][fan,][movie.][besides][getting][top][billing][cover][10][minutes][air][that,][plots.])
+v(0,1,2,5,6,7,8,9,10,11,12,13,14,25): 7.644760608673096	 ([movie][confuse][death.][richards '][fan,][even][think][renting][movie.][besides][getting][top][billing][plots.])
+v(0,1,3,4,6,14,15,16,17,18,19,20,21,22,23,24,25): 7.8388190269470215	 ([movie][confuse][furthermore,][denise][fan,][billing][cover][10][minutes][air][time][that,][nothing][movie][many][messed][plots.])
+v(0,1,3,5,6,7,8,9,14,19,21,22,23,24,25): 8.368453979492188	 ([movie][confuse][furthermore,][richards '][fan,][even][think][renting][billing][time][nothing][movie][many][messed][plots.])
+v(0,1,4,5,6,7,8,9,14,15,16,17,18,20,25): 7.339454650878906	 ([movie][confuse][denise][richards '][fan,][even][think][renting][billing][cover][10][minutes][air][that,][plots.])
+v(2,3,4,10,11,12,13,15,16,17,18,19,20,21,22,23,24): 7.251190185546875	 ([death.][furthermore,][denise][movie.][besides][getting][top][cover][10][minutes][air][time][that,][nothing][movie][many][messed])
+v(2,3,5,7,8,9,10,11,12,13,19,21,22,23,24): 7.1605048179626465	 ([death.][furthermore,][richards '][even][think][renting][movie.][besides][getting][top][time][nothing][movie][many][messed])
+v(2,4,5,7,8,9,10,11,12,13,15,16,17,18,20): 6.926039695739746	 ([death.][denise][richards '][even][think][renting][movie.][besides][getting][top][cover][10][minutes][air][that,])
+v(3,4,5,7,8,9,15,16,17,18,19,20,21,22,23,24): 6.323866844177246	 ([furthermore,][denise][richards '][even][think][renting][cover][10][minutes][air][time][that,][nothing][movie][many][messed])
+v(0,1,2,3,4,6,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.221582412719727	 ([movie][confuse][death.][furthermore,][denise][fan,][movie.][besides][getting][top][billing][cover][10][minutes][air][time][that,][nothing][movie][many][messed][plots.])
+v(0,1,2,3,5,6,7,8,9,10,11,12,13,14,19,21,22,23,24,25): 8.399178504943848	 ([movie][confuse][death.][furthermore,][richards '][fan,][even][think][renting][movie.][besides][getting][top][billing][time][nothing][movie][many][messed][plots.])
+v(0,1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,25): 7.765827178955078	 ([movie][confuse][death.][denise][richards '][fan,][even][think][renting][movie.][besides][getting][top][billing][cover][10][minutes][air][that,][plots.])
+v(0,1,3,4,5,6,7,8,9,14,15,16,17,18,19,20,21,22,23,24,25): 8.371614456176758	 ([movie][confuse][furthermore,][denise][richards '][fan,][even][think][renting][billing][cover][10][minutes][air][time][that,][nothing][movie][many][messed][plots.])
+v(2,3,4,5,7,8,9,10,11,12,13,15,16,17,18,19,20,21,22,23,24): 7.7148518562316895	 ([death.][furthermore,][denise][richards '][even][think][renting][movie.][besides][getting][top][cover][10][minutes][air][time][that,][nothing][movie][many][messed])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.331384658813477	 ([movie][confuse][death.][furthermore,][denise][richards '][fan,][even][think][renting][movie.][besides][getting][top][billing][cover][10][minutes][air][time][that,][nothing][movie][many][messed][plots.])
+---------- Rewards-v() ----------
+v(0,1,2,3,5,6,7,8,9,10,11,12,13,14,19,21,22,23,24,25): 7.975298881530762, EP: 1.0085734128952026	 ([movie][confuse][death.][furthermore,][richards '][fan,][even][think][renting][movie.][besides][getting][top][billing][time][nothing][movie][many][messed][plots.])
+v(0,1,3,4,5,6,7,8,9,14,15,16,17,18,19,20,21,22,23,24,25): 7.947734832763672, EP: 1.0050874948501587	 ([movie][confuse][furthermore,][denise][richards '][fan,][even][think][renting][billing][cover][10][minutes][air][time][that,][nothing][movie][many][messed][plots.])
+v(0,1,3,5,6,7,8,9,14,19,21,22,23,24,25): 7.944574356079102, EP: 1.0046879053115845	 ([movie][confuse][furthermore,][richards '][fan,][even][think][renting][billing][time][nothing][movie][many][messed][plots.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.907505035400391, EP: 1.0	 ([movie][confuse][death.][furthermore,][denise][richards '][fan,][even][think][renting][movie.][besides][getting][top][billing][cover][10][minutes][air][time][that,][nothing][movie][many][messed][plots.])
+v(0,1,2,3,4,6,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.797702789306641, EP: 0.9861141443252563	 ([movie][confuse][death.][furthermore,][denise][fan,][movie.][besides][getting][top][billing][cover][10][minutes][air][time][that,][nothing][movie][many][messed][plots.])
+v(0,1,2,3,6,10,11,12,13,14,19,21,22,23,24,25): 7.752520561218262, EP: 0.9804003238677979	 ([movie][confuse][death.][furthermore,][fan,][movie.][besides][getting][top][billing][time][nothing][movie][many][messed][plots.])
+v(0,1,3,6,14,19,21,22,23,24,25): 7.454481601715088, EP: 0.9427096843719482	 ([movie][confuse][furthermore,][fan,][billing][time][nothing][movie][many][messed][plots.])
+v(0,1,3,4,6,14,15,16,17,18,19,20,21,22,23,24,25): 7.4149394035339355, EP: 0.9377090930938721	 ([movie][confuse][furthermore,][denise][fan,][billing][cover][10][minutes][air][time][that,][nothing][movie][many][messed][plots.])
+v(0,1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,25): 7.341947555541992, EP: 0.9284784197807312	 ([movie][confuse][death.][denise][richards '][fan,][even][think][renting][movie.][besides][getting][top][billing][cover][10][minutes][air][that,][plots.])
+v(2,3,4,5,7,8,9,10,11,12,13,15,16,17,18,19,20,21,22,23,24): 7.2909722328186035, EP: 0.9220319390296936	 ([death.][furthermore,][denise][richards '][even][think][renting][movie.][besides][getting][top][cover][10][minutes][air][time][that,][nothing][movie][many][messed])
+v(0,1,2,4,6,10,11,12,13,14,15,16,17,18,20,25): 7.2299065589904785, EP: 0.9143094420433044	 ([movie][confuse][death.][denise][fan,][movie.][besides][getting][top][billing][cover][10][minutes][air][that,][plots.])
+v(0,1,2,5,6,7,8,9,10,11,12,13,14,25): 7.22088098526001, EP: 0.9131680727005005	 ([movie][confuse][death.][richards '][fan,][even][think][renting][movie.][besides][getting][top][billing][plots.])
+v(0,1,2,6,10,11,12,13,14,25): 6.976959705352783, EP: 0.8823212385177612	 ([movie][confuse][death.][fan,][movie.][besides][getting][top][billing][plots.])
+v(0,1,4,5,6,7,8,9,14,15,16,17,18,20,25): 6.91557502746582, EP: 0.8745583891868591	 ([movie][confuse][denise][richards '][fan,][even][think][renting][billing][cover][10][minutes][air][that,][plots.])
+v(2,3,4,10,11,12,13,15,16,17,18,19,20,21,22,23,24): 6.827310562133789, EP: 0.8633962869644165	 ([death.][furthermore,][denise][movie.][besides][getting][top][cover][10][minutes][air][time][that,][nothing][movie][many][messed])
+v(2,3,5,7,8,9,10,11,12,13,19,21,22,23,24): 6.7366251945495605, EP: 0.8519280552864075	 ([death.][furthermore,][richards '][even][think][renting][movie.][besides][getting][top][time][nothing][movie][many][messed])
+v(0,1,5,6,7,8,9,14,25): 6.679815292358398, EP: 0.8447437286376953	 ([movie][confuse][richards '][fan,][even][think][renting][billing][plots.])
+v(2,4,5,7,8,9,10,11,12,13,15,16,17,18,20): 6.50216007232666, EP: 0.8222770690917969	 ([death.][denise][richards '][even][think][renting][movie.][besides][getting][top][cover][10][minutes][air][that,])
+v(2,3,10,11,12,13,19,21,22,23,24): 6.260247230529785, EP: 0.7916842699050903	 ([death.][furthermore,][movie.][besides][getting][top][time][nothing][movie][many][messed])
+v(2,4,10,11,12,13,15,16,17,18,20): 6.070066452026367, EP: 0.7676335573196411	 ([death.][denise][movie.][besides][getting][top][cover][10][minutes][air][that,])
+v(0,1,4,6,14,15,16,17,18,20,25): 6.0585455894470215, EP: 0.7661766409873962	 ([movie][confuse][denise][fan,][billing][cover][10][minutes][air][that,][plots.])
+v(3,4,5,7,8,9,15,16,17,18,19,20,21,22,23,24): 5.89998722076416, EP: 0.7461249828338623	 ([furthermore,][denise][richards '][even][think][renting][cover][10][minutes][air][time][that,][nothing][movie][many][messed])
+v(2,5,7,8,9,10,11,12,13): 5.5756330490112305, EP: 0.7051064968109131	 ([death.][richards '][even][think][renting][movie.][besides][getting][top])
+v(0,1,6,14,25): 5.214376449584961, EP: 0.6594212055206299	 ([movie][confuse][fan,][billing][plots.])
+v(2,10,11,12,13): 5.064278602600098, EP: 0.640439510345459	 ([death.][movie.][besides][getting][top])
+v(3,5,7,8,9,19,21,22,23,24): 5.006467819213867, EP: 0.6331286430358887	 ([furthermore,][richards '][even][think][renting][time][nothing][movie][many][messed])
+v(3,4,15,16,17,18,19,20,21,22,23,24): 4.558338642120361, EP: 0.5764572620391846	 ([furthermore,][denise][cover][10][minutes][air][time][that,][nothing][movie][many][messed])
+v(3,19,21,22,23,24): 2.5313899517059326, EP: 0.3201249837875366	 ([furthermore,][time][nothing][movie][many][messed])
+v(5,7,8,9): 1.2887287139892578, EP: 0.16297538578510284	 ([richards '][even][think][renting])
+v(4,15,16,17,18,20): 1.1646263599395752, EP: 0.14728114008903503	 ([denise][cover][10][minutes][air][that,])
+v(4,5,7,8,9,15,16,17,18,20): 1.152512550354004, EP: 0.14574919641017914	 ([denise][richards '][even][think][renting][cover][10][minutes][air][that,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

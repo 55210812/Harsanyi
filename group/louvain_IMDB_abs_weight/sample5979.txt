@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['2', '5', '57', '58', '4', '16', '3', '15', '1', '14', '6', '7']: ['movies', 'long', 'story', 'part', 'seen', 'news.', "i've", 'reading', 'worst', 'someone', 'time.', 'story,']: 平均边权 0.7620
+社区 2: ['12', '11', '0', '13', '10', '34']: ['sounds', 'dialog', 'one', 'like', 'bad.', 'see']: 平均边权 0.6100
+社区 3: ['38', '35', '45', '46', '40', '18', '39', '44', '37', '59', '43']: ['would', 'feel', 'choose', 'look', 'all.', 'comedy', 'recommend', 'else', 'you.', 'predictable.', 'anything']: 平均边权 0.6131
+社区 4: ['30', '42', '27', '32', '29', '31', '28']: ['drama', 'much', "there's", 'went', 'comedy', 'all.', 'really']: 平均边权 0.8702
+社区 5: ['8', '9']: ['acting', 'shockingly']: 平均边权 2.3586
+社区 6: ['23', '22', '24', '25', '26', '21']: ['little', '!', 'action,', "that's", 'it.', 'things']: 平均边权 0.6903
+社区 7: ['51', '56', '36', '49', '52', '47', '55', '50', '41', '48', '53', '33', '54']: ['crime', 'crime', 'sorry', 'much', 'movie.', 'better.', 'sucked,', 'action', 'pretty', 'pretty', 'actions', 'cinema', 'scenes']: 平均边权 0.7143
+社区 8: ['20', '17', '19']: ['romance,', 'rated', 'drama']: 平均边权 0.6135

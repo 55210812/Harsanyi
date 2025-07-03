@@ -1,0 +1,31 @@
+---------- Players ----------
+Player 0: comes
+Player 1: movies,
+Player 2: generally
+Player 3: easily
+Player 4: entertained
+Player 5: critical,
+Player 6: must
+Player 7: say
+Player 8: movie
+Player 9: one
+Player 10: big
+Player 11: flop
+Player 12: start.
+Player 13: gave
+Player 14: 30
+Player 15: minutes
+Player 16: rewound
+Player 17: it.
+Player 18: waste
+Player 19: great
+Player 20: talent!
+Player 21: disappointed
+Player 22: movie,
+Player 23: expected.
+---------- AND Interactions (Pairwise Only) ----------
+I(8,9): 2.861090898513794	 ([movie][one])
+I(16,19): -1.1442445516586304	 ([rewound][great])
+I(5,6): 0.6348665356636047	 ([critical,][must])
+Sum: 2.3517128825187683
+==================================================

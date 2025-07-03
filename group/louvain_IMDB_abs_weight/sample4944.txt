@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['2', '20', '0', '19', '21', '39', '22', '26', '10']: ['gem', 'moving', 'first', 'film', 'bit', 'film', 'slower', 'film,', 'seeing']: 平均边权 0.6839
+社区 2: ['12', '13', '18', '16', '11', '23', '24', '14', '17']: ['could', 'never', 'thought', 'welles.', 'it,', 'would', 'expect', 'forget', 'first']: 平均边权 0.4315
+社区 3: ['55', '56', '53', '51', '54']: ['jennifer', 'welles,', 'starring', 'films,', 'featuring']: 平均边权 1.1653
+社区 4: ['38', '46', '45', '34', '40', '47', '48', '41', '42', '44', '43']: ['presence', 'in.', 'involved', 'anywhere,', 'hard', "i've", 'seen', 'avoid,', 'spices', 'scene', 'every']: 平均边权 0.4207
+社区 5: ['63', '27', '25', '4', '50', '15', '3', '59', '60']: ["sarno's", 'jennifer', 'sarno', 'sarno', "sarno's", 'jennifer', 'joe', 'sarno', 'jennifer']: 平均边权 0.7388
+社区 6: ['8', '5', '57', '58', '9', '1', '6', '7']: ['must', 'way', 'must', 'say', 'say', 'saw', 'back', 'when,']: 平均边权 0.4988
+社区 7: ['61', '62', '49', '52', '29']: ['collective', 'best.', 'rest', 'films', 'entrance,']: 平均边权 0.6578
+社区 8: ['35', '36', '32', '30', '37', '33', '31', '28']: ['sat', 'took', 'ever', 'first', 'notice.', 'saw', 'time', 'made']: 平均边权 0.3631

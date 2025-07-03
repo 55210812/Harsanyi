@@ -1,0 +1,75 @@
+Execution time: 2025-07-03 07:45:03
+prompt: [CLS] maybe it's because i saw the movie before reading the book, but i really love this movie. i've seen it many many times and will be watching it many times more. it's a compelling story, that's interesting from the beginning to the end. it has everything : action, romance etc. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2672 decoded_text: maybe
+idx:2 input_id:2009 decoded_text: it
+idx:3 input_id:1005 decoded_text: '
+idx:4 input_id:1055 decoded_text: s
+idx:5 input_id:2138 decoded_text: because
+idx:6 input_id:1045 decoded_text: i
+idx:7 input_id:2387 decoded_text: saw
+idx:8 input_id:1996 decoded_text: the
+idx:9 input_id:3185 decoded_text: movie
+idx:10 input_id:2077 decoded_text: before
+idx:11 input_id:3752 decoded_text: reading
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:2338 decoded_text: book
+idx:14 input_id:1010 decoded_text: ,
+idx:15 input_id:2021 decoded_text: but
+idx:16 input_id:1045 decoded_text: i
+idx:17 input_id:2428 decoded_text: really
+idx:18 input_id:2293 decoded_text: love
+idx:19 input_id:2023 decoded_text: this
+idx:20 input_id:3185 decoded_text: movie
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:1045 decoded_text: i
+idx:23 input_id:1005 decoded_text: '
+idx:24 input_id:2310 decoded_text: ve
+idx:25 input_id:2464 decoded_text: seen
+idx:26 input_id:2009 decoded_text: it
+idx:27 input_id:2116 decoded_text: many
+idx:28 input_id:2116 decoded_text: many
+idx:29 input_id:2335 decoded_text: times
+idx:30 input_id:1998 decoded_text: and
+idx:31 input_id:2097 decoded_text: will
+idx:32 input_id:2022 decoded_text: be
+idx:33 input_id:3666 decoded_text: watching
+idx:34 input_id:2009 decoded_text: it
+idx:35 input_id:2116 decoded_text: many
+idx:36 input_id:2335 decoded_text: times
+idx:37 input_id:2062 decoded_text: more
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:2009 decoded_text: it
+idx:40 input_id:1005 decoded_text: '
+idx:41 input_id:1055 decoded_text: s
+idx:42 input_id:1037 decoded_text: a
+idx:43 input_id:17075 decoded_text: compelling
+idx:44 input_id:2466 decoded_text: story
+idx:45 input_id:1010 decoded_text: ,
+idx:46 input_id:2008 decoded_text: that
+idx:47 input_id:1005 decoded_text: '
+idx:48 input_id:1055 decoded_text: s
+idx:49 input_id:5875 decoded_text: interesting
+idx:50 input_id:2013 decoded_text: from
+idx:51 input_id:1996 decoded_text: the
+idx:52 input_id:2927 decoded_text: beginning
+idx:53 input_id:2000 decoded_text: to
+idx:54 input_id:1996 decoded_text: the
+idx:55 input_id:2203 decoded_text: end
+idx:56 input_id:1012 decoded_text: .
+idx:57 input_id:2009 decoded_text: it
+idx:58 input_id:2038 decoded_text: has
+idx:59 input_id:2673 decoded_text: everything
+idx:60 input_id:1024 decoded_text: :
+idx:61 input_id:2895 decoded_text: action
+idx:62 input_id:1010 decoded_text: ,
+idx:63 input_id:7472 decoded_text: romance
+idx:64 input_id:4385 decoded_text: etc
+idx:65 input_id:1012 decoded_text: .
+idx:66 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-3.88354754447937, 4.312410354614258]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

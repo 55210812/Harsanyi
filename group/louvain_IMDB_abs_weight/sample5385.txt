@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['12', '11', '27', '13', '10', '7']: ['actors', 'cast', 'collections', 'directors', 'stellar', 'season']: 平均边权 1.5751
+社区 2: ['4', '22', '37', '32', '33', '21', '36']: ['amazing', 'series', 'generally', 'however,', 'sci - fi', 'remarkable', 're - runs,']: 平均边权 0.8373
+社区 3: ['2', '56', '57', '0', '45', '58', '55', '3', '53', '44', '54']: ['see', 'top', 'imdb', 'delighted', 'mission', 'thought', '1987', 'release', 'says', 'like', '1985']: 平均边权 0.4640
+社区 4: ['35', '25', '46', '52', '40', '49', '47', '39', '48', '41', '51', '26', '31']: ['host', '3', 'repeat.', 'ran?', 'outstanding', 'exactly', 'anyone', 'episodes.', 'know', 'episodes', 'series', 'episode', 'episodes.']: 平均边权 0.4686
+社区 5: ['8', '50', '5', '1', '6']: ['dvd.', 'long', 'stories', 'finally', 'first']: 平均边权 0.6126
+社区 6: ['20', '15', '19', '9', '14', '34', '18']: ['see', 'series.', 'got', 'forgotten', 'worked', 'would', 'way']: 平均边权 0.6543
+社区 7: ['30', '16', '23', '24', '29', '17', '28']: ['re - run', 'longest', 'vhs', '2', 'would', 'time', 'sci - fi']: 平均边权 0.4376
+社区 8: ['43', '38', '42']: ['one', 'stuck', 'season']: 平均边权 0.2769

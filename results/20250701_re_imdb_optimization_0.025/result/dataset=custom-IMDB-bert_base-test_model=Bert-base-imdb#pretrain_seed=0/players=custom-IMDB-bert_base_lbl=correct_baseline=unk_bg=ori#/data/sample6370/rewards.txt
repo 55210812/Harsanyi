@@ -1,0 +1,166 @@
+---------- Players ----------
+Player 0: although
+Player 1: obviously
+Player 2: low - budget
+Player 3: production,
+Player 4: performances
+Player 5: songs
+Player 6: movie
+Player 7: worth
+Player 8: seeing.
+Player 9: one
+Player 10: walken's
+Player 11: musical
+Player 12: roles
+Player 13: date.
+Player 14: ( he
+Player 15: marvelous
+Player 16: dancer
+Player 17: singer
+Player 18: demonstrates
+Player 19: acrobatic
+Player 20: skills
+Player 21: well
+Player 22: -
+Player 23: watch
+Player 24: cartwheel! )
+Player 25: also
+Player 26: starring
+Player 27: jason
+Player 28: connery.
+Player 29: great
+Player 30: children's
+Player 31: story
+Player 32: likable
+Player 33: characters.
+---------- Rewards ----------
+v(): -0.1495753526687622	 ([])
+v(1,2,13,14,15,33): -0.14636191725730896	 ([obviously][low - budget][date.][( he][marvelous][characters.])
+v(24,25,26,27,28,29,30,31): 8.200240135192871	 ([cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(8,9,10,11,12): 6.521718978881836	 ([seeing.][one][walken's][musical][roles])
+v(3,4,7,18,20,32): 7.436398506164551	 ([production,][performances][worth][demonstrates][skills][likable])
+v(0,5,6): -1.1191976070404053	 ([although][songs][movie])
+v(16,17,19,21,22,23): -0.12470367550849915	 ([dancer][singer][acrobatic][well][-][watch])
+v(1,2,13,14,15,24,25,26,27,28,29,30,31,33): 8.81810188293457	 ([obviously][low - budget][date.][( he][marvelous][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(1,2,8,9,10,11,12,13,14,15,33): 8.49496078491211	 ([obviously][low - budget][seeing.][one][walken's][musical][roles][date.][( he][marvelous][characters.])
+v(1,2,3,4,7,13,14,15,18,20,32,33): 7.073952674865723	 ([obviously][low - budget][production,][performances][worth][date.][( he][marvelous][demonstrates][skills][likable][characters.])
+v(0,1,2,5,6,13,14,15,33): 3.854114532470703	 ([although][obviously][low - budget][songs][movie][date.][( he][marvelous][characters.])
+v(1,2,13,14,15,16,17,19,21,22,23,33): -2.496269464492798	 ([obviously][low - budget][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][characters.])
+v(8,9,10,11,12,24,25,26,27,28,29,30,31): 8.671483993530273	 ([seeing.][one][walken's][musical][roles][cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(3,4,7,18,20,24,25,26,27,28,29,30,31,32): 8.635069847106934	 ([production,][performances][worth][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(0,5,6,24,25,26,27,28,29,30,31): 8.576770782470703	 ([although][songs][movie][cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(16,17,19,21,22,23,24,25,26,27,28,29,30,31): 8.23472785949707	 ([dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(3,4,7,8,9,10,11,12,18,20,32): 8.625662803649902	 ([production,][performances][worth][seeing.][one][walken's][musical][roles][demonstrates][skills][likable])
+v(0,5,6,8,9,10,11,12): 5.50245475769043	 ([although][songs][movie][seeing.][one][walken's][musical][roles])
+v(8,9,10,11,12,16,17,19,21,22,23): 5.794994831085205	 ([seeing.][one][walken's][musical][roles][dancer][singer][acrobatic][well][-][watch])
+v(0,3,4,5,6,7,18,20,32): 7.6811418533325195	 ([although][production,][performances][songs][movie][worth][demonstrates][skills][likable])
+v(3,4,7,16,17,18,19,20,21,22,23,32): 5.964280128479004	 ([production,][performances][worth][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable])
+v(0,5,6,16,17,19,21,22,23): -1.7847251892089844	 ([although][songs][movie][dancer][singer][acrobatic][well][-][watch])
+v(1,2,8,9,10,11,12,13,14,15,24,25,26,27,28,29,30,31,33): 9.140076637268066	 ([obviously][low - budget][seeing.][one][walken's][musical][roles][date.][( he][marvelous][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(1,2,3,4,7,13,14,15,18,20,24,25,26,27,28,29,30,31,32,33): 8.937433242797852	 ([obviously][low - budget][production,][performances][worth][date.][( he][marvelous][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(0,1,2,5,6,13,14,15,24,25,26,27,28,29,30,31,33): 9.05277156829834	 ([although][obviously][low - budget][songs][movie][date.][( he][marvelous][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(1,2,13,14,15,16,17,19,21,22,23,24,25,26,27,28,29,30,31,33): 8.848711013793945	 ([obviously][low - budget][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(1,2,3,4,7,8,9,10,11,12,13,14,15,18,20,32,33): 8.755026817321777	 ([obviously][low - budget][production,][performances][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][demonstrates][skills][likable][characters.])
+v(0,1,2,5,6,8,9,10,11,12,13,14,15,33): 8.754364013671875	 ([although][obviously][low - budget][songs][movie][seeing.][one][walken's][musical][roles][date.][( he][marvelous][characters.])
+v(1,2,8,9,10,11,12,13,14,15,16,17,19,21,22,23,33): 8.197635650634766	 ([obviously][low - budget][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][characters.])
+v(0,1,2,3,4,5,6,7,13,14,15,18,20,32,33): 6.964038848876953	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][date.][( he][marvelous][demonstrates][skills][likable][characters.])
+v(1,2,3,4,7,13,14,15,16,17,18,19,20,21,22,23,32,33): 6.03696870803833	 ([obviously][low - budget][production,][performances][worth][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable][characters.])
+v(0,1,2,5,6,13,14,15,16,17,19,21,22,23,33): -0.09254451096057892	 ([although][obviously][low - budget][songs][movie][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][characters.])
+v(3,4,7,8,9,10,11,12,18,20,24,25,26,27,28,29,30,31,32): 8.67453384399414	 ([production,][performances][worth][seeing.][one][walken's][musical][roles][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(0,5,6,8,9,10,11,12,24,25,26,27,28,29,30,31): 8.838716506958008	 ([although][songs][movie][seeing.][one][walken's][musical][roles][cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(8,9,10,11,12,16,17,19,21,22,23,24,25,26,27,28,29,30,31): 8.52836799621582	 ([seeing.][one][walken's][musical][roles][dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(0,3,4,5,6,7,18,20,24,25,26,27,28,29,30,31,32): 8.781909942626953	 ([although][production,][performances][songs][movie][worth][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(3,4,7,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.526418685913086	 ([production,][performances][worth][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(0,5,6,16,17,19,21,22,23,24,25,26,27,28,29,30,31): 8.669565200805664	 ([although][songs][movie][dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(0,3,4,5,6,7,8,9,10,11,12,18,20,32): 8.715694427490234	 ([although][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][demonstrates][skills][likable])
+v(3,4,7,8,9,10,11,12,16,17,18,19,20,21,22,23,32): 8.313095092773438	 ([production,][performances][worth][seeing.][one][walken's][musical][roles][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable])
+v(0,5,6,8,9,10,11,12,16,17,19,21,22,23): 4.155008316040039	 ([although][songs][movie][seeing.][one][walken's][musical][roles][dancer][singer][acrobatic][well][-][watch])
+v(0,3,4,5,6,7,16,17,18,19,20,21,22,23,32): 5.209857940673828	 ([although][production,][performances][songs][movie][worth][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable])
+v(1,2,3,4,7,8,9,10,11,12,13,14,15,18,20,24,25,26,27,28,29,30,31,32,33): 8.925689697265625	 ([obviously][low - budget][production,][performances][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(0,1,2,5,6,8,9,10,11,12,13,14,15,24,25,26,27,28,29,30,31,33): 9.131010055541992	 ([although][obviously][low - budget][songs][movie][seeing.][one][walken's][musical][roles][date.][( he][marvelous][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(1,2,8,9,10,11,12,13,14,15,16,17,19,21,22,23,24,25,26,27,28,29,30,31,33): 9.122730255126953	 ([obviously][low - budget][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(0,1,2,3,4,5,6,7,13,14,15,18,20,24,25,26,27,28,29,30,31,32,33): 9.027915954589844	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][date.][( he][marvelous][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(1,2,3,4,7,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 9.015958786010742	 ([obviously][low - budget][production,][performances][worth][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(0,1,2,5,6,13,14,15,16,17,19,21,22,23,24,25,26,27,28,29,30,31,33): 9.134746551513672	 ([although][obviously][low - budget][songs][movie][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,20,32,33): 8.879711151123047	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][demonstrates][skills][likable][characters.])
+v(1,2,3,4,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,32,33): 8.747261047363281	 ([obviously][low - budget][production,][performances][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable][characters.])
+v(0,1,2,5,6,8,9,10,11,12,13,14,15,16,17,19,21,22,23,33): 8.334297180175781	 ([although][obviously][low - budget][songs][movie][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][characters.])
+v(0,1,2,3,4,5,6,7,13,14,15,16,17,18,19,20,21,22,23,32,33): 5.901450157165527	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable][characters.])
+v(0,3,4,5,6,7,8,9,10,11,12,18,20,24,25,26,27,28,29,30,31,32): 8.906778335571289	 ([although][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(3,4,7,8,9,10,11,12,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.621758460998535	 ([production,][performances][worth][seeing.][one][walken's][musical][roles][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(0,5,6,8,9,10,11,12,16,17,19,21,22,23,24,25,26,27,28,29,30,31): 8.764890670776367	 ([although][songs][movie][seeing.][one][walken's][musical][roles][dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(0,3,4,5,6,7,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.742582321166992	 ([although][production,][performances][songs][movie][worth][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(0,3,4,5,6,7,8,9,10,11,12,16,17,18,19,20,21,22,23,32): 8.576355934143066	 ([although][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,20,24,25,26,27,28,29,30,31,32,33): 8.993657112121582	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(1,2,3,4,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 9.004362106323242	 ([obviously][low - budget][production,][performances][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(0,1,2,5,6,8,9,10,11,12,13,14,15,16,17,19,21,22,23,24,25,26,27,28,29,30,31,33): 9.14825439453125	 ([although][obviously][low - budget][songs][movie][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(0,1,2,3,4,5,6,7,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 9.133727073669434	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,32,33): 8.882488250732422	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable][characters.])
+v(0,3,4,5,6,7,8,9,10,11,12,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.910928726196289	 ([although][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 9.02471923828125	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+---------- Rewards-v() ----------
+v(0,1,2,5,6,8,9,10,11,12,13,14,15,16,17,19,21,22,23,24,25,26,27,28,29,30,31,33): 9.297829627990723, EP: 1.013465404510498	 ([although][obviously][low - budget][songs][movie][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(1,2,8,9,10,11,12,13,14,15,24,25,26,27,28,29,30,31,33): 9.289651870727539, EP: 1.0125739574432373	 ([obviously][low - budget][seeing.][one][walken's][musical][roles][date.][( he][marvelous][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(0,1,2,5,6,13,14,15,16,17,19,21,22,23,24,25,26,27,28,29,30,31,33): 9.284321784973145, EP: 1.0119930505752563	 ([although][obviously][low - budget][songs][movie][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(0,1,2,3,4,5,6,7,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 9.283302307128906, EP: 1.0118818283081055	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(0,1,2,5,6,8,9,10,11,12,13,14,15,24,25,26,27,28,29,30,31,33): 9.280585289001465, EP: 1.0115857124328613	 ([although][obviously][low - budget][songs][movie][seeing.][one][walken's][musical][roles][date.][( he][marvelous][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(1,2,8,9,10,11,12,13,14,15,16,17,19,21,22,23,24,25,26,27,28,29,30,31,33): 9.272305488586426, EP: 1.0106831789016724	 ([obviously][low - budget][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(0,1,2,5,6,13,14,15,24,25,26,27,28,29,30,31,33): 9.202346801757812, EP: 1.0030577182769775	 ([although][obviously][low - budget][songs][movie][date.][( he][marvelous][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(0,1,2,3,4,5,6,7,13,14,15,18,20,24,25,26,27,28,29,30,31,32,33): 9.177491188049316, EP: 1.000348448753357	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][date.][( he][marvelous][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 9.174294471740723, EP: 1.0	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(1,2,3,4,7,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 9.165534019470215, EP: 0.9990451335906982	 ([obviously][low - budget][production,][performances][worth][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(1,2,3,4,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 9.153937339782715, EP: 0.9977810978889465	 ([obviously][low - budget][production,][performances][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,20,24,25,26,27,28,29,30,31,32,33): 9.143232345581055, EP: 0.9966142177581787	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(1,2,3,4,7,13,14,15,18,20,24,25,26,27,28,29,30,31,32,33): 9.087008476257324, EP: 0.9904857873916626	 ([obviously][low - budget][production,][performances][worth][date.][( he][marvelous][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(1,2,3,4,7,8,9,10,11,12,13,14,15,18,20,24,25,26,27,28,29,30,31,32,33): 9.075264930725098, EP: 0.9892057776451111	 ([obviously][low - budget][production,][performances][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable][characters.])
+v(0,3,4,5,6,7,8,9,10,11,12,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 9.060503959655762, EP: 0.9875968098640442	 ([although][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(0,3,4,5,6,7,8,9,10,11,12,18,20,24,25,26,27,28,29,30,31,32): 9.056353569030762, EP: 0.987144410610199	 ([although][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,32,33): 9.032063484191895, EP: 0.9844967722892761	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable][characters.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,20,32,33): 9.02928638458252, EP: 0.9841940999031067	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][demonstrates][skills][likable][characters.])
+v(1,2,13,14,15,16,17,19,21,22,23,24,25,26,27,28,29,30,31,33): 8.998286247253418, EP: 0.980815052986145	 ([obviously][low - budget][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(0,5,6,8,9,10,11,12,24,25,26,27,28,29,30,31): 8.98829174041748, EP: 0.9797256588935852	 ([although][songs][movie][seeing.][one][walken's][musical][roles][cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(1,2,13,14,15,24,25,26,27,28,29,30,31,33): 8.967677116394043, EP: 0.9774786829948425	 ([obviously][low - budget][date.][( he][marvelous][cartwheel! )][also][starring][jason][connery.][great][children's][story][characters.])
+v(0,3,4,5,6,7,18,20,24,25,26,27,28,29,30,31,32): 8.931485176086426, EP: 0.9735337495803833	 ([although][production,][performances][songs][movie][worth][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(0,5,6,8,9,10,11,12,16,17,19,21,22,23,24,25,26,27,28,29,30,31): 8.91446590423584, EP: 0.971678614616394	 ([although][songs][movie][seeing.][one][walken's][musical][roles][dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(1,2,3,4,7,8,9,10,11,12,13,14,15,18,20,32,33): 8.90460205078125, EP: 0.9706034660339355	 ([obviously][low - budget][production,][performances][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][demonstrates][skills][likable][characters.])
+v(0,1,2,5,6,8,9,10,11,12,13,14,15,33): 8.903939247131348, EP: 0.9705312252044678	 ([although][obviously][low - budget][songs][movie][seeing.][one][walken's][musical][roles][date.][( he][marvelous][characters.])
+v(1,2,3,4,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,32,33): 8.896836280822754, EP: 0.9697570204734802	 ([obviously][low - budget][production,][performances][worth][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable][characters.])
+v(0,3,4,5,6,7,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.892157554626465, EP: 0.969247043132782	 ([although][production,][performances][songs][movie][worth][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(0,3,4,5,6,7,8,9,10,11,12,18,20,32): 8.865269660949707, EP: 0.9663162231445312	 ([although][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][demonstrates][skills][likable])
+v(3,4,7,8,9,10,11,12,18,20,24,25,26,27,28,29,30,31,32): 8.824109077453613, EP: 0.9618297219276428	 ([production,][performances][worth][seeing.][one][walken's][musical][roles][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(8,9,10,11,12,24,25,26,27,28,29,30,31): 8.821059226989746, EP: 0.9614973068237305	 ([seeing.][one][walken's][musical][roles][cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(0,5,6,16,17,19,21,22,23,24,25,26,27,28,29,30,31): 8.819140434265137, EP: 0.9612881541252136	 ([although][songs][movie][dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(3,4,7,18,20,24,25,26,27,28,29,30,31,32): 8.784645080566406, EP: 0.9575281143188477	 ([production,][performances][worth][demonstrates][skills][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(3,4,7,8,9,10,11,12,18,20,32): 8.775238037109375, EP: 0.9565027952194214	 ([production,][performances][worth][seeing.][one][walken's][musical][roles][demonstrates][skills][likable])
+v(3,4,7,8,9,10,11,12,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.771333694458008, EP: 0.9560772180557251	 ([production,][performances][worth][seeing.][one][walken's][musical][roles][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(0,5,6,24,25,26,27,28,29,30,31): 8.726346015930176, EP: 0.9511735439300537	 ([although][songs][movie][cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(0,3,4,5,6,7,8,9,10,11,12,16,17,18,19,20,21,22,23,32): 8.725931167602539, EP: 0.9511283040046692	 ([although][production,][performances][songs][movie][worth][seeing.][one][walken's][musical][roles][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable])
+v(8,9,10,11,12,16,17,19,21,22,23,24,25,26,27,28,29,30,31): 8.677943229675293, EP: 0.94589763879776	 ([seeing.][one][walken's][musical][roles][dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(3,4,7,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.675993919372559, EP: 0.9456851482391357	 ([production,][performances][worth][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story][likable])
+v(1,2,8,9,10,11,12,13,14,15,33): 8.644536018371582, EP: 0.9422562122344971	 ([obviously][low - budget][seeing.][one][walken's][musical][roles][date.][( he][marvelous][characters.])
+v(0,1,2,5,6,8,9,10,11,12,13,14,15,16,17,19,21,22,23,33): 8.483872413635254, EP: 0.9247438311576843	 ([although][obviously][low - budget][songs][movie][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][characters.])
+v(3,4,7,8,9,10,11,12,16,17,18,19,20,21,22,23,32): 8.46267032623291, EP: 0.9224328398704529	 ([production,][performances][worth][seeing.][one][walken's][musical][roles][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable])
+v(16,17,19,21,22,23,24,25,26,27,28,29,30,31): 8.384303092956543, EP: 0.9138907790184021	 ([dancer][singer][acrobatic][well][-][watch][cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(24,25,26,27,28,29,30,31): 8.349815368652344, EP: 0.9101316332817078	 ([cartwheel! )][also][starring][jason][connery.][great][children's][story])
+v(1,2,8,9,10,11,12,13,14,15,16,17,19,21,22,23,33): 8.347210884094238, EP: 0.9098477363586426	 ([obviously][low - budget][seeing.][one][walken's][musical][roles][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][characters.])
+v(0,3,4,5,6,7,18,20,32): 7.830717086791992, EP: 0.8535497784614563	 ([although][production,][performances][songs][movie][worth][demonstrates][skills][likable])
+v(3,4,7,18,20,32): 7.585973739624023, EP: 0.826872706413269	 ([production,][performances][worth][demonstrates][skills][likable])
+v(1,2,3,4,7,13,14,15,18,20,32,33): 7.223527908325195, EP: 0.7873660326004028	 ([obviously][low - budget][production,][performances][worth][date.][( he][marvelous][demonstrates][skills][likable][characters.])
+v(0,1,2,3,4,5,6,7,13,14,15,18,20,32,33): 7.113614082336426, EP: 0.7753854393959045	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][date.][( he][marvelous][demonstrates][skills][likable][characters.])
+v(8,9,10,11,12): 6.671294212341309, EP: 0.7271724343299866	 ([seeing.][one][walken's][musical][roles])
+v(1,2,3,4,7,13,14,15,16,17,18,19,20,21,22,23,32,33): 6.186543941497803, EP: 0.6743345856666565	 ([obviously][low - budget][production,][performances][worth][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable][characters.])
+v(3,4,7,16,17,18,19,20,21,22,23,32): 6.113855361938477, EP: 0.6664115190505981	 ([production,][performances][worth][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable])
+v(0,1,2,3,4,5,6,7,13,14,15,16,17,18,19,20,21,22,23,32,33): 6.051025390625, EP: 0.6595630049705505	 ([although][obviously][low - budget][production,][performances][songs][movie][worth][date.][( he][marvelous][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable][characters.])
+v(8,9,10,11,12,16,17,19,21,22,23): 5.944570064544678, EP: 0.6479593515396118	 ([seeing.][one][walken's][musical][roles][dancer][singer][acrobatic][well][-][watch])
+v(0,5,6,8,9,10,11,12): 5.652029991149902, EP: 0.616072416305542	 ([although][songs][movie][seeing.][one][walken's][musical][roles])
+v(0,3,4,5,6,7,16,17,18,19,20,21,22,23,32): 5.359433174133301, EP: 0.5841793417930603	 ([although][production,][performances][songs][movie][worth][dancer][singer][demonstrates][acrobatic][skills][well][-][watch][likable])
+v(0,5,6,8,9,10,11,12,16,17,19,21,22,23): 4.304583549499512, EP: 0.4692004919052124	 ([although][songs][movie][seeing.][one][walken's][musical][roles][dancer][singer][acrobatic][well][-][watch])
+v(0,1,2,5,6,13,14,15,33): 4.003689765930176, EP: 0.4364030063152313	 ([although][obviously][low - budget][songs][movie][date.][( he][marvelous][characters.])
+v(1,2,13,14,15,16,17,19,21,22,23,33): -2.346693992614746, EP: -0.2557901442050934	 ([obviously][low - budget][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][characters.])
+v(0,5,6,16,17,19,21,22,23): -1.6351498365402222, EP: -0.17823167145252228	 ([although][songs][movie][dancer][singer][acrobatic][well][-][watch])
+v(0,5,6): -0.9696222543716431, EP: -0.10568902641534805	 ([although][songs][movie])
+v(0,1,2,5,6,13,14,15,16,17,19,21,22,23,33): 0.05703084170818329, EP: 0.006216373760253191	 ([although][obviously][low - budget][songs][movie][date.][( he][marvelous][dancer][singer][acrobatic][well][-][watch][characters.])
+v(16,17,19,21,22,23): 0.02487167716026306, EP: 0.002711018081754446	 ([dancer][singer][acrobatic][well][-][watch])
+v(1,2,13,14,15,33): 0.003213435411453247, EP: 0.00035026512341573834	 ([obviously][low - budget][date.][( he][marvelous][characters.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

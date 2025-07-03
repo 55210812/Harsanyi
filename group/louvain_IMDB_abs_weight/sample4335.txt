@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['20', '23', '22', '19', '21']: ['movie', 'book,', 'adaptation', 'maybe', 'bad']: 平均边权 0.8166
+社区 2: ['38', '35', '24', '45', '40', '41', '42', '44', '43']: ['lots', 'much', 'lost', 'deficient.', 'derivative,', 'sloppy,', 'poorly', 'otherwise', 'dramatized,']: 平均边权 0.5458
+社区 3: ['2', '46', '27', '1', '26', '14']: ['version', 'examples :', 'version.', 'dubbed - english', 'dubbed', 'mostly']: 平均边权 0.3972
+社区 4: ['12', '5', '0', '13', '47', '4', '11', '15', '3', '9', '10', '6', '7']: ['substance', 'since', 'rented', 'movie,', 'opening', 'hoping', 'hints', 'rise', 'lensman,', 'would', 'substance.', 'came', 'well - known']: 平均边权 0.3421
+社区 5: ['61', '48', '8', '62', '60', '31']: ['harvester', 'scenes', 'novels', 'looked', 'robot', 'novels']: 平均边权 0.5003
+社区 6: ['49', '18', '55', '16', '50', '53', '51', '17', '54']: ['looked', 'cartoon.', 'scene', 'level', 'borrowed', 'gate', '2001', 'kiddie', '"']: 平均边权 0.3435
+社区 7: ['36', '32', '25', '29', '34', '39', '30', '37', '33', '28']: ['there.', 'lightweight.', 'lot', 'even', 'reason,', 'details', 'source', 'noticed', 'whatever', 'maybe']: 平均边权 0.2866
+社区 8: ['56', '57', '59', '58', '52']: ['star', 'wars', 'hyperspace.', 'image', 'star']: 平均边权 0.6831

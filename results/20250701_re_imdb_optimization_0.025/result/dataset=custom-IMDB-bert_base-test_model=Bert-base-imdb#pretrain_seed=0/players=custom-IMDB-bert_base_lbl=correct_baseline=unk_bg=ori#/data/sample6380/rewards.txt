@@ -1,0 +1,95 @@
+---------- Players ----------
+Player 0: loved
+Player 1: film!
+Player 2: first
+Player 3: glimpse
+Player 4: reese
+Player 5: witherspoon
+Player 6: jason
+Player 7: london,
+Player 8: two
+Player 9: favorites.
+Player 10: must
+Player 11: say
+Player 12: matter
+Player 13: many
+Player 14: times
+Player 15: i've
+Player 16: seen
+Player 17: movie
+Player 18: can't
+Player 19: help
+Player 20: tear
+Player 21: up.
+Player 22: one
+Player 23: movies
+Player 24: become
+Player 25: classic
+Player 26: all.
+---------- Rewards ----------
+v(): -0.21268250048160553	 ([])
+v(1,2,3,5,7): 7.499590873718262	 ([film!][first][glimpse][witherspoon][london,])
+v(0,4,6,8): 5.880937576293945	 ([loved][reese][jason][two])
+v(9,10,16,17,18): 4.70865535736084	 ([favorites.][must][seen][movie][can't])
+v(12,14,15,24,26): 3.591320037841797	 ([matter][times][i've][become][all.])
+v(11,13,19,20,21,22,23,25): 6.124682426452637	 ([say][many][help][tear][up.][one][movies][classic])
+v(0,1,2,3,4,5,6,7,8): 7.503769397735596	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two])
+v(1,2,3,5,7,9,10,16,17,18): 8.054500579833984	 ([film!][first][glimpse][witherspoon][london,][favorites.][must][seen][movie][can't])
+v(1,2,3,5,7,12,14,15,24,26): 8.056982040405273	 ([film!][first][glimpse][witherspoon][london,][matter][times][i've][become][all.])
+v(1,2,3,5,7,11,13,19,20,21,22,23,25): 8.305364608764648	 ([film!][first][glimpse][witherspoon][london,][say][many][help][tear][up.][one][movies][classic])
+v(0,4,6,8,9,10,16,17,18): 7.081691265106201	 ([loved][reese][jason][two][favorites.][must][seen][movie][can't])
+v(0,4,6,8,12,14,15,24,26): 6.187324523925781	 ([loved][reese][jason][two][matter][times][i've][become][all.])
+v(0,4,6,8,11,13,19,20,21,22,23,25): 6.93851375579834	 ([loved][reese][jason][two][say][many][help][tear][up.][one][movies][classic])
+v(9,10,12,14,15,16,17,18,24,26): 6.539297103881836	 ([favorites.][must][matter][times][i've][seen][movie][can't][become][all.])
+v(9,10,11,13,16,17,18,19,20,21,22,23,25): 7.4165544509887695	 ([favorites.][must][say][many][seen][movie][can't][help][tear][up.][one][movies][classic])
+v(11,12,13,14,15,19,20,21,22,23,24,25,26): 6.952559471130371	 ([say][matter][many][times][i've][help][tear][up.][one][movies][become][classic][all.])
+v(0,1,2,3,4,5,6,7,8,9,10,16,17,18): 7.791416168212891	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two][favorites.][must][seen][movie][can't])
+v(0,1,2,3,4,5,6,7,8,12,14,15,24,26): 7.100717544555664	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two][matter][times][i've][become][all.])
+v(0,1,2,3,4,5,6,7,8,11,13,19,20,21,22,23,25): 7.532364845275879	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two][say][many][help][tear][up.][one][movies][classic])
+v(1,2,3,5,7,9,10,12,14,15,16,17,18,24,26): 8.374606132507324	 ([film!][first][glimpse][witherspoon][london,][favorites.][must][matter][times][i've][seen][movie][can't][become][all.])
+v(1,2,3,5,7,9,10,11,13,16,17,18,19,20,21,22,23,25): 8.133913040161133	 ([film!][first][glimpse][witherspoon][london,][favorites.][must][say][many][seen][movie][can't][help][tear][up.][one][movies][classic])
+v(1,2,3,5,7,11,12,13,14,15,19,20,21,22,23,24,25,26): 8.17590045928955	 ([film!][first][glimpse][witherspoon][london,][say][matter][many][times][i've][help][tear][up.][one][movies][become][classic][all.])
+v(0,4,6,8,9,10,12,14,15,16,17,18,24,26): 6.690800666809082	 ([loved][reese][jason][two][favorites.][must][matter][times][i've][seen][movie][can't][become][all.])
+v(0,4,6,8,9,10,11,13,16,17,18,19,20,21,22,23,25): 6.6383819580078125	 ([loved][reese][jason][two][favorites.][must][say][many][seen][movie][can't][help][tear][up.][one][movies][classic])
+v(0,4,6,8,11,12,13,14,15,19,20,21,22,23,24,25,26): 6.448190689086914	 ([loved][reese][jason][two][say][matter][many][times][i've][help][tear][up.][one][movies][become][classic][all.])
+v(9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.140971183776855	 ([favorites.][must][say][matter][many][times][i've][seen][movie][can't][help][tear][up.][one][movies][become][classic][all.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,14,15,16,17,18,24,26): 7.202404975891113	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two][favorites.][must][matter][times][i've][seen][movie][can't][become][all.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,16,17,18,19,20,21,22,23,25): 7.480450630187988	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two][favorites.][must][say][many][seen][movie][can't][help][tear][up.][one][movies][classic])
+v(0,1,2,3,4,5,6,7,8,11,12,13,14,15,19,20,21,22,23,24,25,26): 7.017704963684082	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two][say][matter][many][times][i've][help][tear][up.][one][movies][become][classic][all.])
+v(1,2,3,5,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.305078506469727	 ([film!][first][glimpse][witherspoon][london,][favorites.][must][say][matter][many][times][i've][seen][movie][can't][help][tear][up.][one][movies][become][classic][all.])
+v(0,4,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 7.150716781616211	 ([loved][reese][jason][two][favorites.][must][say][matter][many][times][i've][seen][movie][can't][help][tear][up.][one][movies][become][classic][all.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 7.479986667633057	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two][favorites.][must][say][matter][many][times][i've][seen][movie][can't][help][tear][up.][one][movies][become][classic][all.])
+---------- Rewards-v() ----------
+v(1,2,3,5,7,9,10,12,14,15,16,17,18,24,26): 8.587288856506348, EP: 1.1162950992584229	 ([film!][first][glimpse][witherspoon][london,][favorites.][must][matter][times][i've][seen][movie][can't][become][all.])
+v(1,2,3,5,7,11,13,19,20,21,22,23,25): 8.518047332763672, EP: 1.1072940826416016	 ([film!][first][glimpse][witherspoon][london,][say][many][help][tear][up.][one][movies][classic])
+v(1,2,3,5,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.51776123046875, EP: 1.1072568893432617	 ([film!][first][glimpse][witherspoon][london,][favorites.][must][say][matter][many][times][i've][seen][movie][can't][help][tear][up.][one][movies][become][classic][all.])
+v(1,2,3,5,7,11,12,13,14,15,19,20,21,22,23,24,25,26): 8.388583183288574, EP: 1.0904645919799805	 ([film!][first][glimpse][witherspoon][london,][say][matter][many][times][i've][help][tear][up.][one][movies][become][classic][all.])
+v(9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.353653907775879, EP: 1.0859239101409912	 ([favorites.][must][say][matter][many][times][i've][seen][movie][can't][help][tear][up.][one][movies][become][classic][all.])
+v(1,2,3,5,7,9,10,11,13,16,17,18,19,20,21,22,23,25): 8.346595764160156, EP: 1.0850064754486084	 ([film!][first][glimpse][witherspoon][london,][favorites.][must][say][many][seen][movie][can't][help][tear][up.][one][movies][classic])
+v(1,2,3,5,7,12,14,15,24,26): 8.269664764404297, EP: 1.0750058889389038	 ([film!][first][glimpse][witherspoon][london,][matter][times][i've][become][all.])
+v(1,2,3,5,7,9,10,16,17,18): 8.267183303833008, EP: 1.0746833086013794	 ([film!][first][glimpse][witherspoon][london,][favorites.][must][seen][movie][can't])
+v(0,1,2,3,4,5,6,7,8,9,10,16,17,18): 8.004098892211914, EP: 1.0404839515686035	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two][favorites.][must][seen][movie][can't])
+v(0,1,2,3,4,5,6,7,8,11,13,19,20,21,22,23,25): 7.745047569274902, EP: 1.006808876991272	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two][say][many][help][tear][up.][one][movies][classic])
+v(0,1,2,3,4,5,6,7,8): 7.716452121734619, EP: 1.00309157371521	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two])
+v(1,2,3,5,7): 7.712273597717285, EP: 1.0025484561920166	 ([film!][first][glimpse][witherspoon][london,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,16,17,18,19,20,21,22,23,25): 7.693133354187012, EP: 1.0000603199005127	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two][favorites.][must][say][many][seen][movie][can't][help][tear][up.][one][movies][classic])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 7.69266939163208, EP: 1.0	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two][favorites.][must][say][matter][many][times][i've][seen][movie][can't][help][tear][up.][one][movies][become][classic][all.])
+v(9,10,11,13,16,17,18,19,20,21,22,23,25): 7.629237174987793, EP: 0.9917541742324829	 ([favorites.][must][say][many][seen][movie][can't][help][tear][up.][one][movies][classic])
+v(0,1,2,3,4,5,6,7,8,9,10,12,14,15,16,17,18,24,26): 7.415087699890137, EP: 0.9639160633087158	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two][favorites.][must][matter][times][i've][seen][movie][can't][become][all.])
+v(0,4,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 7.363399505615234, EP: 0.9571969509124756	 ([loved][reese][jason][two][favorites.][must][say][matter][many][times][i've][seen][movie][can't][help][tear][up.][one][movies][become][classic][all.])
+v(0,1,2,3,4,5,6,7,8,12,14,15,24,26): 7.3134002685546875, EP: 0.9506973028182983	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two][matter][times][i've][become][all.])
+v(0,4,6,8,9,10,16,17,18): 7.294373989105225, EP: 0.9482240080833435	 ([loved][reese][jason][two][favorites.][must][seen][movie][can't])
+v(0,1,2,3,4,5,6,7,8,11,12,13,14,15,19,20,21,22,23,24,25,26): 7.2303876876831055, EP: 0.9399061799049377	 ([loved][film!][first][glimpse][reese][witherspoon][jason][london,][two][say][matter][many][times][i've][help][tear][up.][one][movies][become][classic][all.])
+v(11,12,13,14,15,19,20,21,22,23,24,25,26): 7.1652421951293945, EP: 0.9314376711845398	 ([say][matter][many][times][i've][help][tear][up.][one][movies][become][classic][all.])
+v(0,4,6,8,11,13,19,20,21,22,23,25): 7.151196479797363, EP: 0.9296118021011353	 ([loved][reese][jason][two][say][many][help][tear][up.][one][movies][classic])
+v(0,4,6,8,9,10,12,14,15,16,17,18,24,26): 6.9034833908081055, EP: 0.8974106311798096	 ([loved][reese][jason][two][favorites.][must][matter][times][i've][seen][movie][can't][become][all.])
+v(0,4,6,8,9,10,11,13,16,17,18,19,20,21,22,23,25): 6.851064682006836, EP: 0.8905965089797974	 ([loved][reese][jason][two][favorites.][must][say][many][seen][movie][can't][help][tear][up.][one][movies][classic])
+v(9,10,12,14,15,16,17,18,24,26): 6.751979827880859, EP: 0.8777161240577698	 ([favorites.][must][matter][times][i've][seen][movie][can't][become][all.])
+v(0,4,6,8,11,12,13,14,15,19,20,21,22,23,24,25,26): 6.6608734130859375, EP: 0.8658728003501892	 ([loved][reese][jason][two][say][matter][many][times][i've][help][tear][up.][one][movies][become][classic][all.])
+v(0,4,6,8,12,14,15,24,26): 6.400007247924805, EP: 0.8319618105888367	 ([loved][reese][jason][two][matter][times][i've][become][all.])
+v(11,13,19,20,21,22,23,25): 6.33736515045166, EP: 0.8238187432289124	 ([say][many][help][tear][up.][one][movies][classic])
+v(0,4,6,8): 6.093620300292969, EP: 0.7921333909034729	 ([loved][reese][jason][two])
+v(9,10,16,17,18): 4.921338081359863, EP: 0.6397438645362854	 ([favorites.][must][seen][movie][can't])
+v(12,14,15,24,26): 3.804002523422241, EP: 0.4944970905780792	 ([matter][times][i've][become][all.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

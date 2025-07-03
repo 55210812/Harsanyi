@@ -1,0 +1,91 @@
+---------- Players ----------
+Player 0: think
+Player 1: weighted
+Player 2: average
+Player 3: film
+Player 4: low.
+Player 5: give
+Player 6: 7.
+Player 7: entertaining,
+Player 8: although
+Player 9: top
+Player 10: places.
+Player 11: wife
+Player 12: says
+Player 13: passes
+Player 14: danielle
+Player 15: steele
+Player 16: test.
+Player 17: superb
+Player 18: performances
+Player 19: throughout,
+Player 20: particularly
+Player 21: andie
+Player 22: macdowell.
+---------- Rewards ----------
+v(): -0.23608483374118805	 ([])
+v(3,9,16,17): -2.410426616668701	 ([film][top][test.][superb])
+v(4,5,6,7,11,22): 8.373199462890625	 ([low.][give][7.][entertaining,][wife][macdowell.])
+v(10,13,14,18,20,21): 5.514405727386475	 ([places.][passes][danielle][performances][particularly][andie])
+v(0,1,2,8,15): 1.3350321054458618	 ([think][weighted][average][although][steele])
+v(12,19): 1.0527443885803223	 ([says][throughout,])
+v(3,4,5,6,7,9,11,16,17,22): 8.492511749267578	 ([film][low.][give][7.][entertaining,][top][wife][test.][superb][macdowell.])
+v(3,9,10,13,14,16,17,18,20,21): 6.522547721862793	 ([film][top][places.][passes][danielle][test.][superb][performances][particularly][andie])
+v(0,1,2,3,8,9,15,16,17): 2.63240647315979	 ([think][weighted][average][film][although][top][steele][test.][superb])
+v(3,9,12,16,17,19): 2.14579701423645	 ([film][top][says][test.][superb][throughout,])
+v(4,5,6,7,10,11,13,14,18,20,21,22): 8.486327171325684	 ([low.][give][7.][entertaining,][places.][wife][passes][danielle][performances][particularly][andie][macdowell.])
+v(0,1,2,4,5,6,7,8,11,15,22): 8.204634666442871	 ([think][weighted][average][low.][give][7.][entertaining,][although][wife][steele][macdowell.])
+v(4,5,6,7,11,12,19,22): 8.17210578918457	 ([low.][give][7.][entertaining,][wife][says][throughout,][macdowell.])
+v(0,1,2,8,10,13,14,15,18,20,21): 5.688789367675781	 ([think][weighted][average][although][places.][passes][danielle][steele][performances][particularly][andie])
+v(10,12,13,14,18,19,20,21): 3.699526309967041	 ([places.][says][passes][danielle][performances][throughout,][particularly][andie])
+v(0,1,2,8,12,15,19): 2.806749105453491	 ([think][weighted][average][although][says][steele][throughout,])
+v(3,4,5,6,7,9,10,11,13,14,16,17,18,20,21,22): 8.48733901977539	 ([film][low.][give][7.][entertaining,][top][places.][wife][passes][danielle][test.][superb][performances][particularly][andie][macdowell.])
+v(0,1,2,3,4,5,6,7,8,9,11,15,16,17,22): 8.23897933959961	 ([think][weighted][average][film][low.][give][7.][entertaining,][although][top][wife][steele][test.][superb][macdowell.])
+v(3,4,5,6,7,9,11,12,16,17,19,22): 8.136956214904785	 ([film][low.][give][7.][entertaining,][top][wife][says][test.][superb][throughout,][macdowell.])
+v(0,1,2,3,8,9,10,13,14,15,16,17,18,20,21): 8.246252059936523	 ([think][weighted][average][film][although][top][places.][passes][danielle][steele][test.][superb][performances][particularly][andie])
+v(3,9,10,12,13,14,16,17,18,19,20,21): 5.425961017608643	 ([film][top][places.][says][passes][danielle][test.][superb][performances][throughout,][particularly][andie])
+v(0,1,2,3,8,9,12,15,16,17,19): 5.747693061828613	 ([think][weighted][average][film][although][top][says][steele][test.][superb][throughout,])
+v(0,1,2,4,5,6,7,8,10,11,13,14,15,18,20,21,22): 8.574612617492676	 ([think][weighted][average][low.][give][7.][entertaining,][although][places.][wife][passes][danielle][steele][performances][particularly][andie][macdowell.])
+v(4,5,6,7,10,11,12,13,14,18,19,20,21,22): 8.316627502441406	 ([low.][give][7.][entertaining,][places.][wife][says][passes][danielle][performances][throughout,][particularly][andie][macdowell.])
+v(0,1,2,4,5,6,7,8,11,12,15,19,22): 8.243061065673828	 ([think][weighted][average][low.][give][7.][entertaining,][although][wife][says][steele][throughout,][macdowell.])
+v(0,1,2,8,10,12,13,14,15,18,19,20,21): 5.045149326324463	 ([think][weighted][average][although][places.][says][passes][danielle][steele][performances][throughout,][particularly][andie])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,20,21,22): 8.519981384277344	 ([think][weighted][average][film][low.][give][7.][entertaining,][although][top][places.][wife][passes][danielle][steele][test.][superb][performances][particularly][andie][macdowell.])
+v(3,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21,22): 8.326330184936523	 ([film][low.][give][7.][entertaining,][top][places.][wife][says][passes][danielle][test.][superb][performances][throughout,][particularly][andie][macdowell.])
+v(0,1,2,3,4,5,6,7,8,9,11,12,15,16,17,19,22): 8.368219375610352	 ([think][weighted][average][film][low.][give][7.][entertaining,][although][top][wife][says][steele][test.][superb][throughout,][macdowell.])
+v(0,1,2,3,8,9,10,12,13,14,15,16,17,18,19,20,21): 8.179800033569336	 ([think][weighted][average][film][although][top][places.][says][passes][danielle][steele][test.][superb][performances][throughout,][particularly][andie])
+v(0,1,2,4,5,6,7,8,10,11,12,13,14,15,18,19,20,21,22): 8.501751899719238	 ([think][weighted][average][low.][give][7.][entertaining,][although][places.][wife][says][passes][danielle][steele][performances][throughout,][particularly][andie][macdowell.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22): 8.544904708862305	 ([think][weighted][average][film][low.][give][7.][entertaining,][although][top][places.][wife][says][passes][danielle][steele][test.][superb][performances][throughout,][particularly][andie][macdowell.])
+---------- Rewards-v() ----------
+v(0,1,2,4,5,6,7,8,10,11,13,14,15,18,20,21,22): 8.810697555541992, EP: 1.0033831596374512	 ([think][weighted][average][low.][give][7.][entertaining,][although][places.][wife][passes][danielle][steele][performances][particularly][andie][macdowell.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22): 8.780989646911621, EP: 1.0	 ([think][weighted][average][film][low.][give][7.][entertaining,][although][top][places.][wife][says][passes][danielle][steele][test.][superb][performances][throughout,][particularly][andie][macdowell.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,20,21,22): 8.75606632232666, EP: 0.9971616864204407	 ([think][weighted][average][film][low.][give][7.][entertaining,][although][top][places.][wife][passes][danielle][steele][test.][superb][performances][particularly][andie][macdowell.])
+v(0,1,2,4,5,6,7,8,10,11,12,13,14,15,18,19,20,21,22): 8.737836837768555, EP: 0.9950856566429138	 ([think][weighted][average][low.][give][7.][entertaining,][although][places.][wife][says][passes][danielle][steele][performances][throughout,][particularly][andie][macdowell.])
+v(3,4,5,6,7,9,11,16,17,22): 8.728596687316895, EP: 0.9940333366394043	 ([film][low.][give][7.][entertaining,][top][wife][test.][superb][macdowell.])
+v(3,4,5,6,7,9,10,11,13,14,16,17,18,20,21,22): 8.723423957824707, EP: 0.9934442639350891	 ([film][low.][give][7.][entertaining,][top][places.][wife][passes][danielle][test.][superb][performances][particularly][andie][macdowell.])
+v(4,5,6,7,10,11,13,14,18,20,21,22): 8.722412109375, EP: 0.9933290481567383	 ([low.][give][7.][entertaining,][places.][wife][passes][danielle][performances][particularly][andie][macdowell.])
+v(4,5,6,7,11,22): 8.609284400939941, EP: 0.9804458022117615	 ([low.][give][7.][entertaining,][wife][macdowell.])
+v(0,1,2,3,4,5,6,7,8,9,11,12,15,16,17,19,22): 8.604304313659668, EP: 0.9798786640167236	 ([think][weighted][average][film][low.][give][7.][entertaining,][although][top][wife][says][steele][test.][superb][throughout,][macdowell.])
+v(3,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21,22): 8.56241512298584, EP: 0.9751082062721252	 ([film][low.][give][7.][entertaining,][top][places.][wife][says][passes][danielle][test.][superb][performances][throughout,][particularly][andie][macdowell.])
+v(4,5,6,7,10,11,12,13,14,18,19,20,21,22): 8.552712440490723, EP: 0.974003255367279	 ([low.][give][7.][entertaining,][places.][wife][says][passes][danielle][performances][throughout,][particularly][andie][macdowell.])
+v(0,1,2,3,8,9,10,13,14,15,16,17,18,20,21): 8.48233699798584, EP: 0.9659887552261353	 ([think][weighted][average][film][although][top][places.][passes][danielle][steele][test.][superb][performances][particularly][andie])
+v(0,1,2,4,5,6,7,8,11,12,15,19,22): 8.479146003723145, EP: 0.9656253457069397	 ([think][weighted][average][low.][give][7.][entertaining,][although][wife][says][steele][throughout,][macdowell.])
+v(0,1,2,3,4,5,6,7,8,9,11,15,16,17,22): 8.475064277648926, EP: 0.9651604890823364	 ([think][weighted][average][film][low.][give][7.][entertaining,][although][top][wife][steele][test.][superb][macdowell.])
+v(0,1,2,4,5,6,7,8,11,15,22): 8.440719604492188, EP: 0.9612492322921753	 ([think][weighted][average][low.][give][7.][entertaining,][although][wife][steele][macdowell.])
+v(0,1,2,3,8,9,10,12,13,14,15,16,17,18,19,20,21): 8.415884971618652, EP: 0.958420991897583	 ([think][weighted][average][film][although][top][places.][says][passes][danielle][steele][test.][superb][performances][throughout,][particularly][andie])
+v(4,5,6,7,11,12,19,22): 8.408190727233887, EP: 0.95754474401474	 ([low.][give][7.][entertaining,][wife][says][throughout,][macdowell.])
+v(3,4,5,6,7,9,11,12,16,17,19,22): 8.373041152954102, EP: 0.9535418748855591	 ([film][low.][give][7.][entertaining,][top][wife][says][test.][superb][throughout,][macdowell.])
+v(3,9,10,13,14,16,17,18,20,21): 6.758632659912109, EP: 0.7696892023086548	 ([film][top][places.][passes][danielle][test.][superb][performances][particularly][andie])
+v(0,1,2,3,8,9,12,15,16,17,19): 5.98377799987793, EP: 0.68144690990448	 ([think][weighted][average][film][although][top][says][steele][test.][superb][throughout,])
+v(0,1,2,8,10,13,14,15,18,20,21): 5.924874305725098, EP: 0.6747387647628784	 ([think][weighted][average][although][places.][passes][danielle][steele][performances][particularly][andie])
+v(10,13,14,18,20,21): 5.750490665435791, EP: 0.6548795700073242	 ([places.][passes][danielle][performances][particularly][andie])
+v(3,9,10,12,13,14,16,17,18,19,20,21): 5.662045955657959, EP: 0.6448072791099548	 ([film][top][places.][says][passes][danielle][test.][superb][performances][throughout,][particularly][andie])
+v(0,1,2,8,10,12,13,14,15,18,19,20,21): 5.281234264373779, EP: 0.6014395356178284	 ([think][weighted][average][although][places.][says][passes][danielle][steele][performances][throughout,][particularly][andie])
+v(10,12,13,14,18,19,20,21): 3.9356112480163574, EP: 0.44819676876068115	 ([places.][says][passes][danielle][performances][throughout,][particularly][andie])
+v(0,1,2,8,12,15,19): 3.0428340435028076, EP: 0.3465251922607422	 ([think][weighted][average][although][says][steele][throughout,])
+v(0,1,2,3,8,9,15,16,17): 2.8684914112091064, EP: 0.3266706168651581	 ([think][weighted][average][film][although][top][steele][test.][superb])
+v(3,9,12,16,17,19): 2.3818819522857666, EP: 0.27125439047813416	 ([film][top][says][test.][superb][throughout,])
+v(3,9,16,17): -2.1743416786193848, EP: -0.24761921167373657	 ([film][top][test.][superb])
+v(0,1,2,8,15): 1.5711169242858887, EP: 0.17892253398895264	 ([think][weighted][average][although][steele])
+v(12,19): 1.2888292074203491, EP: 0.14677493274211884	 ([says][throughout,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

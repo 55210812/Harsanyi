@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['11', '5', '6', '7']: ['time', 'nice', 'family', 'movie.']: 平均边权 2.1151
+社区 2: ['12', '8', '9', '10', '54']: ['travel.', 'fun', 'fantasy', 'aspect', 'reminds']: 平均边权 0.6679
+社区 3: ['45', '46']: ['many', 'ways.']: 平均边权 2.1339
+社区 4: ['49', '52', '43', '50', '53', '42', '44', '1', '51']: ['help', 'long', "girl's", 'relationship', 'run.', 'help', 'family', 'much', 'father']: 平均边权 0.3965
+社区 5: ['27', '32', '34', '29', '40', '21', '39', '33', '31', '38', '20', '35', '36', '30', '41', '37', '26', '28']: ['elevator', 'believes', 'explain', 'building.', 'age', 'finds', 'girl', 'tries', 'one', 'friends', 'accidentally', 'disappearances.', 'finds', 'course,', 'able', 'makes', 'old', 'apartment']: 平均边权 0.2679
+社区 6: ['18', '16', '17', '19']: ['old', '14', 'year', 'girl']: 平均边权 0.4925
+社区 7: ['24', '25', '23', '22']: ['back', 'time', 'travel', 'way']: 平均边权 0.4940
+社区 8: ['55', '56', '58', '57']: ['hallmark', 'movie', 'chance', 'give']: 平均边权 0.5495
+社区 9: ['2', '4', '3', '15', '0', '13', '14']: ['better', 'stated.', 'reviewer', 'around', 'movie', 'story', 'revolves']: 平均边权 0.7033
+社区 10: ['48', '47']: ['able', 'also']: 平均边权 0.4641

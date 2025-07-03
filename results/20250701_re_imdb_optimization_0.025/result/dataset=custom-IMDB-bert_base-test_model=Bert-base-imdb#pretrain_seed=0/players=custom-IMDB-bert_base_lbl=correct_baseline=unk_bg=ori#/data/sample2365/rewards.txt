@@ -1,0 +1,159 @@
+---------- Players ----------
+Player 0: movie
+Player 1: terrible.
+Player 2: suspense
+Player 3: spent
+Player 4: waiting
+Player 5: point.
+Player 6: much
+Player 7: one.
+Player 8: aside
+Player 9: great
+Player 10: lines
+Player 11: (
+Player 12: found
+Player 13: tooth
+Player 14: apartment
+Player 15: "
+Player 16: ),
+Player 17: main
+Player 18: characters
+Player 19: dedication
+Player 20: killing
+Player 21: himself,
+Player 22: collection
+Player 23: supposedly
+Player 24: eerie
+Player 25: sounds.
+Player 26: "
+---------- Rewards ----------
+v(): 0.11748650670051575	 ([])
+v(9,10,11,17,18,19,20,24): -1.0292370319366455	 ([great][lines][(][main][characters][dedication][killing][eerie])
+v(0,15,16,21,22): -5.966221809387207	 ([movie]["][),][himself,][collection])
+v(12,13,14): 0.08777278661727905	 ([found][tooth][apartment])
+v(1,2,3,4,5,7,26): 6.927125930786133	 ([terrible.][suspense][spent][waiting][point.][one.]["])
+v(6,8): 0.3882431983947754	 ([much][aside])
+v(23,25): 1.377053141593933	 ([supposedly][sounds.])
+v(0,9,10,11,15,16,17,18,19,20,21,22,24): -3.8446173667907715	 ([movie][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][eerie])
+v(9,10,11,12,13,14,17,18,19,20,24): -0.6263265609741211	 ([great][lines][(][found][tooth][apartment][main][characters][dedication][killing][eerie])
+v(1,2,3,4,5,7,9,10,11,17,18,19,20,24,26): 7.402035236358643	 ([terrible.][suspense][spent][waiting][point.][one.][great][lines][(][main][characters][dedication][killing][eerie]["])
+v(6,8,9,10,11,17,18,19,20,24): 0.5600800514221191	 ([much][aside][great][lines][(][main][characters][dedication][killing][eerie])
+v(9,10,11,17,18,19,20,23,24,25): -1.6557484865188599	 ([great][lines][(][main][characters][dedication][killing][supposedly][eerie][sounds.])
+v(0,12,13,14,15,16,21,22): -4.662139892578125	 ([movie][found][tooth][apartment]["][),][himself,][collection])
+v(0,1,2,3,4,5,7,15,16,21,22,26): 7.600813865661621	 ([movie][terrible.][suspense][spent][waiting][point.][one.]["][),][himself,][collection]["])
+v(0,6,8,15,16,21,22): -6.125548362731934	 ([movie][much][aside]["][),][himself,][collection])
+v(0,15,16,21,22,23,25): -1.1016241312026978	 ([movie]["][),][himself,][collection][supposedly][sounds.])
+v(1,2,3,4,5,7,12,13,14,26): 6.963888645172119	 ([terrible.][suspense][spent][waiting][point.][one.][found][tooth][apartment]["])
+v(6,8,12,13,14): -0.011139094829559326	 ([much][aside][found][tooth][apartment])
+v(12,13,14,23,25): 1.3263320922851562	 ([found][tooth][apartment][supposedly][sounds.])
+v(1,2,3,4,5,6,7,8,26): 7.462821006774902	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside]["])
+v(1,2,3,4,5,7,23,25,26): 6.868318557739258	 ([terrible.][suspense][spent][waiting][point.][one.][supposedly][sounds.]["])
+v(6,8,23,25): 1.98430597782135	 ([much][aside][supposedly][sounds.])
+v(0,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24): -2.825791835784912	 ([movie][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][eerie])
+v(0,1,2,3,4,5,7,9,10,11,15,16,17,18,19,20,21,22,24,26): 7.833833694458008	 ([movie][terrible.][suspense][spent][waiting][point.][one.][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][eerie]["])
+v(0,6,8,9,10,11,15,16,17,18,19,20,21,22,24): -3.2426743507385254	 ([movie][much][aside][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][eerie])
+v(0,9,10,11,15,16,17,18,19,20,21,22,23,24,25): -4.754614353179932	 ([movie][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.])
+v(1,2,3,4,5,7,9,10,11,12,13,14,17,18,19,20,24,26): 7.578542709350586	 ([terrible.][suspense][spent][waiting][point.][one.][great][lines][(][found][tooth][apartment][main][characters][dedication][killing][eerie]["])
+v(6,8,9,10,11,12,13,14,17,18,19,20,24): 2.65608549118042	 ([much][aside][great][lines][(][found][tooth][apartment][main][characters][dedication][killing][eerie])
+v(9,10,11,12,13,14,17,18,19,20,23,24,25): -1.5506216287612915	 ([great][lines][(][found][tooth][apartment][main][characters][dedication][killing][supposedly][eerie][sounds.])
+v(1,2,3,4,5,6,7,8,9,10,11,17,18,19,20,24,26): 8.016790390014648	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(][main][characters][dedication][killing][eerie]["])
+v(1,2,3,4,5,7,9,10,11,17,18,19,20,23,24,25,26): 7.413552284240723	 ([terrible.][suspense][spent][waiting][point.][one.][great][lines][(][main][characters][dedication][killing][supposedly][eerie][sounds.]["])
+v(6,8,9,10,11,17,18,19,20,23,24,25): -1.6296212673187256	 ([much][aside][great][lines][(][main][characters][dedication][killing][supposedly][eerie][sounds.])
+v(0,1,2,3,4,5,7,12,13,14,15,16,21,22,26): 7.638919830322266	 ([movie][terrible.][suspense][spent][waiting][point.][one.][found][tooth][apartment]["][),][himself,][collection]["])
+v(0,6,8,12,13,14,15,16,21,22): -5.1668195724487305	 ([movie][much][aside][found][tooth][apartment]["][),][himself,][collection])
+v(0,12,13,14,15,16,21,22,23,25): -0.2623695731163025	 ([movie][found][tooth][apartment]["][),][himself,][collection][supposedly][sounds.])
+v(0,1,2,3,4,5,6,7,8,15,16,21,22,26): 7.753215789794922	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside]["][),][himself,][collection]["])
+v(0,1,2,3,4,5,7,15,16,21,22,23,25,26): 7.735041618347168	 ([movie][terrible.][suspense][spent][waiting][point.][one.]["][),][himself,][collection][supposedly][sounds.]["])
+v(0,6,8,15,16,21,22,23,25): -0.07069617509841919	 ([movie][much][aside]["][),][himself,][collection][supposedly][sounds.])
+v(1,2,3,4,5,6,7,8,12,13,14,26): 7.527016639709473	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside][found][tooth][apartment]["])
+v(1,2,3,4,5,7,12,13,14,23,25,26): 7.037851333618164	 ([terrible.][suspense][spent][waiting][point.][one.][found][tooth][apartment][supposedly][sounds.]["])
+v(6,8,12,13,14,23,25): 1.527275562286377	 ([much][aside][found][tooth][apartment][supposedly][sounds.])
+v(1,2,3,4,5,6,7,8,23,25,26): 7.360930442810059	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside][supposedly][sounds.]["])
+v(0,1,2,3,4,5,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,26): 7.982242584228516	 ([movie][terrible.][suspense][spent][waiting][point.][one.][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][eerie]["])
+v(0,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24): -1.169546365737915	 ([movie][much][aside][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][eerie])
+v(0,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): -3.5943894386291504	 ([movie][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,15,16,17,18,19,20,21,22,24,26): 7.968647480010986	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][eerie]["])
+v(0,1,2,3,4,5,7,9,10,11,15,16,17,18,19,20,21,22,23,24,25,26): 8.010529518127441	 ([movie][terrible.][suspense][spent][waiting][point.][one.][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.]["])
+v(0,6,8,9,10,11,15,16,17,18,19,20,21,22,23,24,25): -3.305983543395996	 ([movie][much][aside][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,17,18,19,20,24,26): 8.118003845214844	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(][found][tooth][apartment][main][characters][dedication][killing][eerie]["])
+v(1,2,3,4,5,7,9,10,11,12,13,14,17,18,19,20,23,24,25,26): 7.57383918762207	 ([terrible.][suspense][spent][waiting][point.][one.][great][lines][(][found][tooth][apartment][main][characters][dedication][killing][supposedly][eerie][sounds.]["])
+v(6,8,9,10,11,12,13,14,17,18,19,20,23,24,25): 0.02187323570251465	 ([much][aside][great][lines][(][found][tooth][apartment][main][characters][dedication][killing][supposedly][eerie][sounds.])
+v(1,2,3,4,5,6,7,8,9,10,11,17,18,19,20,23,24,25,26): 7.84616756439209	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(][main][characters][dedication][killing][supposedly][eerie][sounds.]["])
+v(0,1,2,3,4,5,6,7,8,12,13,14,15,16,21,22,26): 7.84503173828125	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside][found][tooth][apartment]["][),][himself,][collection]["])
+v(0,1,2,3,4,5,7,12,13,14,15,16,21,22,23,25,26): 7.810676574707031	 ([movie][terrible.][suspense][spent][waiting][point.][one.][found][tooth][apartment]["][),][himself,][collection][supposedly][sounds.]["])
+v(0,6,8,12,13,14,15,16,21,22,23,25): -0.4664704501628876	 ([movie][much][aside][found][tooth][apartment]["][),][himself,][collection][supposedly][sounds.])
+v(0,1,2,3,4,5,6,7,8,15,16,21,22,23,25,26): 8.02656364440918	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside]["][),][himself,][collection][supposedly][sounds.]["])
+v(1,2,3,4,5,6,7,8,12,13,14,23,25,26): 7.551301002502441	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside][found][tooth][apartment][supposedly][sounds.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,26): 8.04202651977539	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][eerie]["])
+v(0,1,2,3,4,5,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.137158393859863	 ([movie][terrible.][suspense][spent][waiting][point.][one.][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.]["])
+v(0,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): -0.3550568222999573	 ([movie][much][aside][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,15,16,17,18,19,20,21,22,23,24,25,26): 8.024967193603516	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.]["])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,17,18,19,20,23,24,25,26): 7.933760166168213	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(][found][tooth][apartment][main][characters][dedication][killing][supposedly][eerie][sounds.]["])
+v(0,1,2,3,4,5,6,7,8,12,13,14,15,16,21,22,23,25,26): 8.121725082397461	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside][found][tooth][apartment]["][),][himself,][collection][supposedly][sounds.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.222819328308105	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.]["])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.105332374572754, EP: 1.0	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.]["])
+v(0,1,2,3,4,5,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.019671440124512, EP: 0.9894315600395203	 ([movie][terrible.][suspense][spent][waiting][point.][one.][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.]["])
+v(0,1,2,3,4,5,6,7,8,12,13,14,15,16,21,22,23,25,26): 8.00423812866211, EP: 0.9875274300575256	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside][found][tooth][apartment]["][),][himself,][collection][supposedly][sounds.]["])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,17,18,19,20,24,26): 8.000516891479492, EP: 0.9870683550834656	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(][found][tooth][apartment][main][characters][dedication][killing][eerie]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,26): 7.924540042877197, EP: 0.9776946306228638	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][eerie]["])
+v(0,1,2,3,4,5,6,7,8,15,16,21,22,23,25,26): 7.909077167510986, EP: 0.9757869243621826	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside]["][),][himself,][collection][supposedly][sounds.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,15,16,17,18,19,20,21,22,23,24,25,26): 7.907480716705322, EP: 0.9755899310112	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.]["])
+v(1,2,3,4,5,6,7,8,9,10,11,17,18,19,20,24,26): 7.899303913116455, EP: 0.9745811223983765	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(][main][characters][dedication][killing][eerie]["])
+v(0,1,2,3,4,5,7,9,10,11,15,16,17,18,19,20,21,22,23,24,25,26): 7.893043041229248, EP: 0.9738087058067322	 ([movie][terrible.][suspense][spent][waiting][point.][one.][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.]["])
+v(0,1,2,3,4,5,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,26): 7.864756107330322, EP: 0.9703187942504883	 ([movie][terrible.][suspense][spent][waiting][point.][one.][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][eerie]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,15,16,17,18,19,20,21,22,24,26): 7.851161003112793, EP: 0.968641459941864	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][eerie]["])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,17,18,19,20,23,24,25,26): 7.8162736892700195, EP: 0.9643372297286987	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(][found][tooth][apartment][main][characters][dedication][killing][supposedly][eerie][sounds.]["])
+v(1,2,3,4,5,6,7,8,9,10,11,17,18,19,20,23,24,25,26): 7.7286810874938965, EP: 0.9535304307937622	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside][great][lines][(][main][characters][dedication][killing][supposedly][eerie][sounds.]["])
+v(0,1,2,3,4,5,6,7,8,12,13,14,15,16,21,22,26): 7.727545261383057, EP: 0.9533903002738953	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside][found][tooth][apartment]["][),][himself,][collection]["])
+v(0,1,2,3,4,5,7,9,10,11,15,16,17,18,19,20,21,22,24,26): 7.7163472175598145, EP: 0.9520087242126465	 ([movie][terrible.][suspense][spent][waiting][point.][one.][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][eerie]["])
+v(0,1,2,3,4,5,7,12,13,14,15,16,21,22,23,25,26): 7.693190097808838, EP: 0.9491516947746277	 ([movie][terrible.][suspense][spent][waiting][point.][one.][found][tooth][apartment]["][),][himself,][collection][supposedly][sounds.]["])
+v(0,1,2,3,4,5,6,7,8,15,16,21,22,26): 7.6357293128967285, EP: 0.9420624375343323	 ([movie][terrible.][suspense][spent][waiting][point.][much][one.][aside]["][),][himself,][collection]["])
+v(0,1,2,3,4,5,7,15,16,21,22,23,25,26): 7.617555141448975, EP: 0.9398202300071716	 ([movie][terrible.][suspense][spent][waiting][point.][one.]["][),][himself,][collection][supposedly][sounds.]["])
+v(0,1,2,3,4,5,7,12,13,14,15,16,21,22,26): 7.521433353424072, EP: 0.9279611110687256	 ([movie][terrible.][suspense][spent][waiting][point.][one.][found][tooth][apartment]["][),][himself,][collection]["])
+v(0,1,2,3,4,5,7,15,16,21,22,26): 7.483327388763428, EP: 0.9232597947120667	 ([movie][terrible.][suspense][spent][waiting][point.][one.]["][),][himself,][collection]["])
+v(1,2,3,4,5,7,9,10,11,12,13,14,17,18,19,20,24,26): 7.461056232452393, EP: 0.9205120801925659	 ([terrible.][suspense][spent][waiting][point.][one.][great][lines][(][found][tooth][apartment][main][characters][dedication][killing][eerie]["])
+v(1,2,3,4,5,7,9,10,11,12,13,14,17,18,19,20,23,24,25,26): 7.456352710723877, EP: 0.9199317693710327	 ([terrible.][suspense][spent][waiting][point.][one.][great][lines][(][found][tooth][apartment][main][characters][dedication][killing][supposedly][eerie][sounds.]["])
+v(1,2,3,4,5,6,7,8,12,13,14,23,25,26): 7.433814525604248, EP: 0.9171510934829712	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside][found][tooth][apartment][supposedly][sounds.]["])
+v(1,2,3,4,5,6,7,8,12,13,14,26): 7.409530162811279, EP: 0.9141550064086914	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside][found][tooth][apartment]["])
+v(1,2,3,4,5,6,7,8,26): 7.345334529876709, EP: 0.906234860420227	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside]["])
+v(1,2,3,4,5,7,9,10,11,17,18,19,20,23,24,25,26): 7.296065807342529, EP: 0.9001562595367432	 ([terrible.][suspense][spent][waiting][point.][one.][great][lines][(][main][characters][dedication][killing][supposedly][eerie][sounds.]["])
+v(1,2,3,4,5,7,9,10,11,17,18,19,20,24,26): 7.284548759460449, EP: 0.8987353444099426	 ([terrible.][suspense][spent][waiting][point.][one.][great][lines][(][main][characters][dedication][killing][eerie]["])
+v(1,2,3,4,5,6,7,8,23,25,26): 7.243443965911865, EP: 0.8936640024185181	 ([terrible.][suspense][spent][waiting][point.][much][one.][aside][supposedly][sounds.]["])
+v(1,2,3,4,5,7,12,13,14,23,25,26): 6.920364856719971, EP: 0.8538039326667786	 ([terrible.][suspense][spent][waiting][point.][one.][found][tooth][apartment][supposedly][sounds.]["])
+v(1,2,3,4,5,7,12,13,14,26): 6.846402168273926, EP: 0.8446787595748901	 ([terrible.][suspense][spent][waiting][point.][one.][found][tooth][apartment]["])
+v(1,2,3,4,5,7,26): 6.8096394538879395, EP: 0.8401431441307068	 ([terrible.][suspense][spent][waiting][point.][one.]["])
+v(1,2,3,4,5,7,23,25,26): 6.7508320808410645, EP: 0.8328877687454224	 ([terrible.][suspense][spent][waiting][point.][one.][supposedly][sounds.]["])
+v(0,6,8,15,16,21,22): -6.243034839630127, EP: -0.7702379822731018	 ([movie][much][aside]["][),][himself,][collection])
+v(0,15,16,21,22): -6.0837082862854, EP: -0.7505809664726257	 ([movie]["][),][himself,][collection])
+v(0,6,8,12,13,14,15,16,21,22): -5.284306049346924, EP: -0.6519542932510376	 ([movie][much][aside][found][tooth][apartment]["][),][himself,][collection])
+v(0,9,10,11,15,16,17,18,19,20,21,22,23,24,25): -4.872100830078125, EP: -0.6010982394218445	 ([movie][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.])
+v(0,12,13,14,15,16,21,22): -4.779626369476318, EP: -0.5896891355514526	 ([movie][found][tooth][apartment]["][),][himself,][collection])
+v(0,9,10,11,15,16,17,18,19,20,21,22,24): -3.962103843688965, EP: -0.48882681131362915	 ([movie][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][eerie])
+v(0,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): -3.7118759155273438, EP: -0.4579547941684723	 ([movie][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.])
+v(0,6,8,9,10,11,15,16,17,18,19,20,21,22,23,24,25): -3.4234700202941895, EP: -0.4223725497722626	 ([movie][much][aside][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.])
+v(0,6,8,9,10,11,15,16,17,18,19,20,21,22,24): -3.3601608276367188, EP: -0.41456174850463867	 ([movie][much][aside][great][lines][(]["][),][main][characters][dedication][killing][himself,][collection][eerie])
+v(0,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24): -2.9432783126831055, EP: -0.3631286323070526	 ([movie][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][eerie])
+v(6,8,9,10,11,12,13,14,17,18,19,20,24): 2.5385990142822266, EP: 0.31320109963417053	 ([much][aside][great][lines][(][found][tooth][apartment][main][characters][dedication][killing][eerie])
+v(6,8,23,25): 1.8668195009231567, EP: 0.23031991720199585	 ([much][aside][supposedly][sounds.])
+v(9,10,11,17,18,19,20,23,24,25): -1.7732349634170532, EP: -0.21877387166023254	 ([great][lines][(][main][characters][dedication][killing][supposedly][eerie][sounds.])
+v(6,8,9,10,11,17,18,19,20,23,24,25): -1.747107744216919, EP: -0.21555040776729584	 ([much][aside][great][lines][(][main][characters][dedication][killing][supposedly][eerie][sounds.])
+v(9,10,11,12,13,14,17,18,19,20,23,24,25): -1.6681081056594849, EP: -0.205803781747818	 ([great][lines][(][found][tooth][apartment][main][characters][dedication][killing][supposedly][eerie][sounds.])
+v(6,8,12,13,14,23,25): 1.4097890853881836, EP: 0.17393353581428528	 ([much][aside][found][tooth][apartment][supposedly][sounds.])
+v(0,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24): -1.2870328426361084, EP: -0.15878841280937195	 ([movie][much][aside][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][eerie])
+v(23,25): 1.2595666646957397, EP: 0.15539975464344025	 ([supposedly][sounds.])
+v(0,15,16,21,22,23,25): -1.2191106081008911, EP: -0.15040846168994904	 ([movie]["][),][himself,][collection][supposedly][sounds.])
+v(12,13,14,23,25): 1.208845615386963, EP: 0.14914201200008392	 ([found][tooth][apartment][supposedly][sounds.])
+v(9,10,11,17,18,19,20,24): -1.1467235088348389, EP: -0.14147765934467316	 ([great][lines][(][main][characters][dedication][killing][eerie])
+v(9,10,11,12,13,14,17,18,19,20,24): -0.7438130378723145, EP: -0.09176835417747498	 ([great][lines][(][found][tooth][apartment][main][characters][dedication][killing][eerie])
+v(0,6,8,12,13,14,15,16,21,22,23,25): -0.5839569568634033, EP: -0.07204601913690567	 ([movie][much][aside][found][tooth][apartment]["][),][himself,][collection][supposedly][sounds.])
+v(0,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): -0.472543329000473, EP: -0.05830030143260956	 ([movie][much][aside][great][lines][(][found][tooth][apartment]["][),][main][characters][dedication][killing][himself,][collection][supposedly][eerie][sounds.])
+v(6,8,9,10,11,17,18,19,20,24): 0.4425935447216034, EP: 0.05460523068904877	 ([much][aside][great][lines][(][main][characters][dedication][killing][eerie])
+v(0,12,13,14,15,16,21,22,23,25): -0.37985607981681824, EP: -0.046864960342645645	 ([movie][found][tooth][apartment]["][),][himself,][collection][supposedly][sounds.])
+v(6,8): 0.27075669169425964, EP: 0.03340476006269455	 ([much][aside])
+v(0,6,8,15,16,21,22,23,25): -0.18818268179893494, EP: -0.02321714535355568	 ([movie][much][aside]["][),][himself,][collection][supposedly][sounds.])
+v(6,8,12,13,14): -0.12862560153007507, EP: -0.015869256108999252	 ([much][aside][found][tooth][apartment])
+v(6,8,9,10,11,12,13,14,17,18,19,20,23,24,25): -0.0956132709980011, EP: -0.011796342208981514	 ([much][aside][great][lines][(][found][tooth][apartment][main][characters][dedication][killing][supposedly][eerie][sounds.])
+v(12,13,14): -0.029713720083236694, EP: -0.0036659471224993467	 ([found][tooth][apartment])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

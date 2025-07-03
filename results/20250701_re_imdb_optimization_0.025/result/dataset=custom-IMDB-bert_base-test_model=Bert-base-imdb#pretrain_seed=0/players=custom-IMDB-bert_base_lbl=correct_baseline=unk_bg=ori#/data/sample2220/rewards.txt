@@ -1,0 +1,166 @@
+---------- Players ----------
+Player 0: movie
+Player 1: inspiring
+Player 2: anyone
+Player 3: tough
+Player 4: jam,
+Player 5: whether
+Player 6: financially
+Player 7: emotionally.
+Player 8: definitely
+Player 9: laugh,
+Player 10: best
+Player 11: medicine!
+Player 12: : )
+Player 13: left
+Player 14: bad
+Player 15: financial
+Player 16: situation
+Player 17: husband
+Player 18: dies,
+Player 19: grace
+Player 20: find
+Player 21: new
+Player 22: way
+Player 23: make
+Player 24: money
+Player 25: exactly
+Player 26: legal
+Player 27: adds
+Player 28: humour.
+Player 29: even
+Player 30: boyfriend
+Player 31: liked
+Player 32: think
+Player 33: chick - flic.
+---------- Rewards ----------
+v(): -0.11676585674285889	 ([])
+v(23,26,27,31): 0.6267519593238831	 ([make][legal][adds][liked])
+v(19,20,22,28,29,30): -0.2414434254169464	 ([grace][find][way][humour.][even][boyfriend])
+v(6,7,8,9,10,11,15): -2.0612142086029053	 ([financially][emotionally.][definitely][laugh,][best][medicine!][financial])
+v(0,1,21,33): 1.7037522792816162	 ([movie][inspiring][new][chick - flic.])
+v(2,3,4,5,13,14): 2.02437686920166	 ([anyone][tough][jam,][whether][left][bad])
+v(12,16,17,18,24,25,32): 0.39110299944877625	 ([: )][situation][husband][dies,][money][exactly][think])
+v(19,20,22,23,26,27,28,29,30,31): 3.7284326553344727	 ([grace][find][way][make][legal][adds][humour.][even][boyfriend][liked])
+v(6,7,8,9,10,11,15,23,26,27,31): -0.45157963037490845	 ([financially][emotionally.][definitely][laugh,][best][medicine!][financial][make][legal][adds][liked])
+v(0,1,21,23,26,27,31,33): 2.9994454383850098	 ([movie][inspiring][new][make][legal][adds][liked][chick - flic.])
+v(2,3,4,5,13,14,23,26,27,31): 2.015904188156128	 ([anyone][tough][jam,][whether][left][bad][make][legal][adds][liked])
+v(12,16,17,18,23,24,25,26,27,31,32): 2.6368248462677	 ([: )][situation][husband][dies,][make][money][exactly][legal][adds][liked][think])
+v(6,7,8,9,10,11,15,19,20,22,28,29,30): -2.302281379699707	 ([financially][emotionally.][definitely][laugh,][best][medicine!][financial][grace][find][way][humour.][even][boyfriend])
+v(0,1,19,20,21,22,28,29,30,33): 2.937307119369507	 ([movie][inspiring][grace][find][new][way][humour.][even][boyfriend][chick - flic.])
+v(2,3,4,5,13,14,19,20,22,28,29,30): 2.100446939468384	 ([anyone][tough][jam,][whether][left][bad][grace][find][way][humour.][even][boyfriend])
+v(12,16,17,18,19,20,22,24,25,28,29,30,32): 1.0740735530853271	 ([: )][situation][husband][dies,][grace][find][way][money][exactly][humour.][even][boyfriend][think])
+v(0,1,6,7,8,9,10,11,15,21,33): 4.123338222503662	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][financial][new][chick - flic.])
+v(2,3,4,5,6,7,8,9,10,11,13,14,15): 2.5632243156433105	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial])
+v(6,7,8,9,10,11,12,15,16,17,18,24,25,32): -0.06063792109489441	 ([financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][money][exactly][think])
+v(0,1,2,3,4,5,13,14,21,33): 4.589985370635986	 ([movie][inspiring][anyone][tough][jam,][whether][left][bad][new][chick - flic.])
+v(0,1,12,16,17,18,21,24,25,32,33): 6.05617618560791	 ([movie][inspiring][: )][situation][husband][dies,][new][money][exactly][think][chick - flic.])
+v(2,3,4,5,12,13,14,16,17,18,24,25,32): 2.9220869541168213	 ([anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][money][exactly][think])
+v(6,7,8,9,10,11,15,19,20,22,23,26,27,28,29,30,31): 1.0661267042160034	 ([financially][emotionally.][definitely][laugh,][best][medicine!][financial][grace][find][way][make][legal][adds][humour.][even][boyfriend][liked])
+v(0,1,19,20,21,22,23,26,27,28,29,30,31,33): 7.1492695808410645	 ([movie][inspiring][grace][find][new][way][make][legal][adds][humour.][even][boyfriend][liked][chick - flic.])
+v(2,3,4,5,13,14,19,20,22,23,26,27,28,29,30,31): 5.538422584533691	 ([anyone][tough][jam,][whether][left][bad][grace][find][way][make][legal][adds][humour.][even][boyfriend][liked])
+v(12,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32): 7.198307991027832	 ([: )][situation][husband][dies,][grace][find][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think])
+v(0,1,6,7,8,9,10,11,15,21,23,26,27,31,33): 5.068520545959473	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][financial][new][make][legal][adds][liked][chick - flic.])
+v(2,3,4,5,6,7,8,9,10,11,13,14,15,23,26,27,31): 3.46213436126709	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial][make][legal][adds][liked])
+v(6,7,8,9,10,11,12,15,16,17,18,23,24,25,26,27,31,32): 3.7226052284240723	 ([financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][make][money][exactly][legal][adds][liked][think])
+v(0,1,2,3,4,5,13,14,21,23,26,27,31,33): 5.45482063293457	 ([movie][inspiring][anyone][tough][jam,][whether][left][bad][new][make][legal][adds][liked][chick - flic.])
+v(0,1,12,16,17,18,21,23,24,25,26,27,31,32,33): 6.790921688079834	 ([movie][inspiring][: )][situation][husband][dies,][new][make][money][exactly][legal][adds][liked][think][chick - flic.])
+v(2,3,4,5,12,13,14,16,17,18,23,24,25,26,27,31,32): 4.574469566345215	 ([anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][make][money][exactly][legal][adds][liked][think])
+v(0,1,6,7,8,9,10,11,15,19,20,21,22,28,29,30,33): 4.884918212890625	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][financial][grace][find][new][way][humour.][even][boyfriend][chick - flic.])
+v(2,3,4,5,6,7,8,9,10,11,13,14,15,19,20,22,28,29,30): 1.0448147058486938	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial][grace][find][way][humour.][even][boyfriend])
+v(6,7,8,9,10,11,12,15,16,17,18,19,20,22,24,25,28,29,30,32): 0.9450908303260803	 ([financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][grace][find][way][money][exactly][humour.][even][boyfriend][think])
+v(0,1,2,3,4,5,13,14,19,20,21,22,28,29,30,33): 5.002755165100098	 ([movie][inspiring][anyone][tough][jam,][whether][left][bad][grace][find][new][way][humour.][even][boyfriend][chick - flic.])
+v(0,1,12,16,17,18,19,20,21,22,24,25,28,29,30,32,33): 7.503080368041992	 ([movie][inspiring][: )][situation][husband][dies,][grace][find][new][way][money][exactly][humour.][even][boyfriend][think][chick - flic.])
+v(2,3,4,5,12,13,14,16,17,18,19,20,22,24,25,28,29,30,32): 3.567397117614746	 ([anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][grace][find][way][money][exactly][humour.][even][boyfriend][think])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,15,21,33): 5.197348594665527	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial][new][chick - flic.])
+v(0,1,6,7,8,9,10,11,12,15,16,17,18,21,24,25,32,33): 7.573175430297852	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][new][money][exactly][think][chick - flic.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,24,25,32): 4.694920539855957	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][money][exactly][think])
+v(0,1,2,3,4,5,12,13,14,16,17,18,21,24,25,32,33): 7.482489585876465	 ([movie][inspiring][anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][new][money][exactly][think][chick - flic.])
+v(0,1,6,7,8,9,10,11,15,19,20,21,22,23,26,27,28,29,30,31,33): 7.934659957885742	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][financial][grace][find][new][way][make][legal][adds][humour.][even][boyfriend][liked][chick - flic.])
+v(2,3,4,5,6,7,8,9,10,11,13,14,15,19,20,22,23,26,27,28,29,30,31): 6.044756889343262	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial][grace][find][way][make][legal][adds][humour.][even][boyfriend][liked])
+v(6,7,8,9,10,11,12,15,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32): 7.022385597229004	 ([financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][grace][find][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think])
+v(0,1,2,3,4,5,13,14,19,20,21,22,23,26,27,28,29,30,31,33): 8.353199005126953	 ([movie][inspiring][anyone][tough][jam,][whether][left][bad][grace][find][new][way][make][legal][adds][humour.][even][boyfriend][liked][chick - flic.])
+v(0,1,12,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 8.1912260055542	 ([movie][inspiring][: )][situation][husband][dies,][grace][find][new][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think][chick - flic.])
+v(2,3,4,5,12,13,14,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32): 8.283538818359375	 ([anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][grace][find][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,15,21,23,26,27,31,33): 7.006084442138672	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial][new][make][legal][adds][liked][chick - flic.])
+v(0,1,6,7,8,9,10,11,12,15,16,17,18,21,23,24,25,26,27,31,32,33): 7.89586877822876	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][new][make][money][exactly][legal][adds][liked][think][chick - flic.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,23,24,25,26,27,31,32): 6.494475364685059	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][make][money][exactly][legal][adds][liked][think])
+v(0,1,2,3,4,5,12,13,14,16,17,18,21,23,24,25,26,27,31,32,33): 8.106773376464844	 ([movie][inspiring][anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][new][make][money][exactly][legal][adds][liked][think][chick - flic.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,15,19,20,21,22,28,29,30,33): 5.975371360778809	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial][grace][find][new][way][humour.][even][boyfriend][chick - flic.])
+v(0,1,6,7,8,9,10,11,12,15,16,17,18,19,20,21,22,24,25,28,29,30,32,33): 8.025266647338867	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][grace][find][new][way][money][exactly][humour.][even][boyfriend][think][chick - flic.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,24,25,28,29,30,32): 4.8167877197265625	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][grace][find][way][money][exactly][humour.][even][boyfriend][think])
+v(0,1,2,3,4,5,12,13,14,16,17,18,19,20,21,22,24,25,28,29,30,32,33): 8.186599731445312	 ([movie][inspiring][anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][grace][find][new][way][money][exactly][humour.][even][boyfriend][think][chick - flic.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,24,25,32,33): 8.163302421569824	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][new][money][exactly][think][chick - flic.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,15,19,20,21,22,23,26,27,28,29,30,31,33): 8.62940788269043	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial][grace][find][new][way][make][legal][adds][humour.][even][boyfriend][liked][chick - flic.])
+v(0,1,6,7,8,9,10,11,12,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 8.563264846801758	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][grace][find][new][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think][chick - flic.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32): 8.589132308959961	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][grace][find][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think])
+v(0,1,2,3,4,5,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 8.797819137573242	 ([movie][inspiring][anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][grace][find][new][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think][chick - flic.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,23,24,25,26,27,31,32,33): 8.386526107788086	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][new][make][money][exactly][legal][adds][liked][think][chick - flic.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,28,29,30,32,33): 8.39604377746582	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][grace][find][new][way][money][exactly][humour.][even][boyfriend][think][chick - flic.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 8.968074798583984	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][grace][find][new][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think][chick - flic.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 9.084840774536133, EP: 1.0	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][grace][find][new][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think][chick - flic.])
+v(0,1,2,3,4,5,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 8.91458511352539, EP: 0.9812593460083008	 ([movie][inspiring][anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][grace][find][new][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think][chick - flic.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,15,19,20,21,22,23,26,27,28,29,30,31,33): 8.746173858642578, EP: 0.9627217650413513	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial][grace][find][new][way][make][legal][adds][humour.][even][boyfriend][liked][chick - flic.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32): 8.70589828491211, EP: 0.9582884907722473	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][grace][find][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think])
+v(0,1,6,7,8,9,10,11,12,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 8.680030822753906, EP: 0.9554411768913269	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][grace][find][new][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think][chick - flic.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,28,29,30,32,33): 8.512809753417969, EP: 0.937034547328949	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][grace][find][new][way][money][exactly][humour.][even][boyfriend][think][chick - flic.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,23,24,25,26,27,31,32,33): 8.503292083740234, EP: 0.9359869360923767	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][new][make][money][exactly][legal][adds][liked][think][chick - flic.])
+v(0,1,2,3,4,5,13,14,19,20,21,22,23,26,27,28,29,30,31,33): 8.469964981079102, EP: 0.9323185086250305	 ([movie][inspiring][anyone][tough][jam,][whether][left][bad][grace][find][new][way][make][legal][adds][humour.][even][boyfriend][liked][chick - flic.])
+v(2,3,4,5,12,13,14,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32): 8.400304794311523, EP: 0.9246507287025452	 ([anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][grace][find][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think])
+v(0,1,12,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33): 8.307991981506348, EP: 0.9144895672798157	 ([movie][inspiring][: )][situation][husband][dies,][grace][find][new][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think][chick - flic.])
+v(0,1,2,3,4,5,12,13,14,16,17,18,19,20,21,22,24,25,28,29,30,32,33): 8.303365707397461, EP: 0.9139803051948547	 ([movie][inspiring][anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][grace][find][new][way][money][exactly][humour.][even][boyfriend][think][chick - flic.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,24,25,32,33): 8.280068397521973, EP: 0.9114159345626831	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][new][money][exactly][think][chick - flic.])
+v(0,1,2,3,4,5,12,13,14,16,17,18,21,23,24,25,26,27,31,32,33): 8.223539352416992, EP: 0.905193567276001	 ([movie][inspiring][anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][new][make][money][exactly][legal][adds][liked][think][chick - flic.])
+v(0,1,6,7,8,9,10,11,12,15,16,17,18,19,20,21,22,24,25,28,29,30,32,33): 8.142032623291016, EP: 0.8962218165397644	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][grace][find][new][way][money][exactly][humour.][even][boyfriend][think][chick - flic.])
+v(0,1,6,7,8,9,10,11,15,19,20,21,22,23,26,27,28,29,30,31,33): 8.05142593383789, EP: 0.8862484097480774	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][financial][grace][find][new][way][make][legal][adds][humour.][even][boyfriend][liked][chick - flic.])
+v(0,1,6,7,8,9,10,11,12,15,16,17,18,21,23,24,25,26,27,31,32,33): 8.01263427734375, EP: 0.8819785118103027	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][new][make][money][exactly][legal][adds][liked][think][chick - flic.])
+v(0,1,6,7,8,9,10,11,12,15,16,17,18,21,24,25,32,33): 7.68994140625, EP: 0.8464585542678833	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][new][money][exactly][think][chick - flic.])
+v(0,1,12,16,17,18,19,20,21,22,24,25,28,29,30,32,33): 7.619846343994141, EP: 0.8387429714202881	 ([movie][inspiring][: )][situation][husband][dies,][grace][find][new][way][money][exactly][humour.][even][boyfriend][think][chick - flic.])
+v(0,1,2,3,4,5,12,13,14,16,17,18,21,24,25,32,33): 7.599255561828613, EP: 0.8364764451980591	 ([movie][inspiring][anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][new][money][exactly][think][chick - flic.])
+v(12,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32): 7.3150739669799805, EP: 0.8051956295967102	 ([: )][situation][husband][dies,][grace][find][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think])
+v(0,1,19,20,21,22,23,26,27,28,29,30,31,33): 7.266035556793213, EP: 0.799797773361206	 ([movie][inspiring][grace][find][new][way][make][legal][adds][humour.][even][boyfriend][liked][chick - flic.])
+v(6,7,8,9,10,11,12,15,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32): 7.139151573181152, EP: 0.7858312129974365	 ([financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][grace][find][way][make][money][exactly][legal][adds][humour.][even][boyfriend][liked][think])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,15,21,23,26,27,31,33): 7.12285041809082, EP: 0.7840368747711182	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial][new][make][legal][adds][liked][chick - flic.])
+v(0,1,12,16,17,18,21,23,24,25,26,27,31,32,33): 6.907687664031982, EP: 0.7603532075881958	 ([movie][inspiring][: )][situation][husband][dies,][new][make][money][exactly][legal][adds][liked][think][chick - flic.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,23,24,25,26,27,31,32): 6.611241340637207, EP: 0.7277222871780396	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][make][money][exactly][legal][adds][liked][think])
+v(0,1,12,16,17,18,21,24,25,32,33): 6.172942161560059, EP: 0.6794772148132324	 ([movie][inspiring][: )][situation][husband][dies,][new][money][exactly][think][chick - flic.])
+v(2,3,4,5,6,7,8,9,10,11,13,14,15,19,20,22,23,26,27,28,29,30,31): 6.16152286529541, EP: 0.6782202124595642	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial][grace][find][way][make][legal][adds][humour.][even][boyfriend][liked])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,15,19,20,21,22,28,29,30,33): 6.092137336730957, EP: 0.6705827116966248	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial][grace][find][new][way][humour.][even][boyfriend][chick - flic.])
+v(2,3,4,5,13,14,19,20,22,23,26,27,28,29,30,31): 5.65518856048584, EP: 0.6224862337112427	 ([anyone][tough][jam,][whether][left][bad][grace][find][way][make][legal][adds][humour.][even][boyfriend][liked])
+v(0,1,2,3,4,5,13,14,21,23,26,27,31,33): 5.571586608886719, EP: 0.6132839322090149	 ([movie][inspiring][anyone][tough][jam,][whether][left][bad][new][make][legal][adds][liked][chick - flic.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,15,21,33): 5.314114570617676, EP: 0.5849430561065674	 ([movie][inspiring][anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial][new][chick - flic.])
+v(0,1,6,7,8,9,10,11,15,21,23,26,27,31,33): 5.185286521911621, EP: 0.5707625150680542	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][financial][new][make][legal][adds][liked][chick - flic.])
+v(0,1,2,3,4,5,13,14,19,20,21,22,28,29,30,33): 5.119521141052246, EP: 0.5635234713554382	 ([movie][inspiring][anyone][tough][jam,][whether][left][bad][grace][find][new][way][humour.][even][boyfriend][chick - flic.])
+v(0,1,6,7,8,9,10,11,15,19,20,21,22,28,29,30,33): 5.001684188842773, EP: 0.5505527853965759	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][financial][grace][find][new][way][humour.][even][boyfriend][chick - flic.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,24,25,28,29,30,32): 4.933553695678711, EP: 0.543053388595581	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][grace][find][way][money][exactly][humour.][even][boyfriend][think])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,24,25,32): 4.8116865158081055, EP: 0.5296390652656555	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][: )][left][bad][financial][situation][husband][dies,][money][exactly][think])
+v(0,1,2,3,4,5,13,14,21,33): 4.706751346588135, EP: 0.5180884599685669	 ([movie][inspiring][anyone][tough][jam,][whether][left][bad][new][chick - flic.])
+v(2,3,4,5,12,13,14,16,17,18,23,24,25,26,27,31,32): 4.691235542297363, EP: 0.5163806080818176	 ([anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][make][money][exactly][legal][adds][liked][think])
+v(0,1,6,7,8,9,10,11,15,21,33): 4.2401041984558105, EP: 0.4667229950428009	 ([movie][inspiring][financially][emotionally.][definitely][laugh,][best][medicine!][financial][new][chick - flic.])
+v(19,20,22,23,26,27,28,29,30,31): 3.845198631286621, EP: 0.4232543706893921	 ([grace][find][way][make][legal][adds][humour.][even][boyfriend][liked])
+v(6,7,8,9,10,11,12,15,16,17,18,23,24,25,26,27,31,32): 3.8393712043762207, EP: 0.4226129353046417	 ([financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][make][money][exactly][legal][adds][liked][think])
+v(2,3,4,5,12,13,14,16,17,18,19,20,22,24,25,28,29,30,32): 3.6841630935668945, EP: 0.40552863478660583	 ([anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][grace][find][way][money][exactly][humour.][even][boyfriend][think])
+v(2,3,4,5,6,7,8,9,10,11,13,14,15,23,26,27,31): 3.5789003372192383, EP: 0.3939419984817505	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial][make][legal][adds][liked])
+v(0,1,21,23,26,27,31,33): 3.116211414337158, EP: 0.3430122137069702	 ([movie][inspiring][new][make][legal][adds][liked][chick - flic.])
+v(0,1,19,20,21,22,28,29,30,33): 3.054072856903076, EP: 0.3361724019050598	 ([movie][inspiring][grace][find][new][way][humour.][even][boyfriend][chick - flic.])
+v(2,3,4,5,12,13,14,16,17,18,24,25,32): 3.0388526916503906, EP: 0.3344970643520355	 ([anyone][tough][jam,][whether][: )][left][bad][situation][husband][dies,][money][exactly][think])
+v(12,16,17,18,23,24,25,26,27,31,32): 2.7535905838012695, EP: 0.30309727787971497	 ([: )][situation][husband][dies,][make][money][exactly][legal][adds][liked][think])
+v(2,3,4,5,6,7,8,9,10,11,13,14,15): 2.679990291595459, EP: 0.29499584436416626	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial])
+v(2,3,4,5,13,14,19,20,22,28,29,30): 2.217212677001953, EP: 0.24405629932880402	 ([anyone][tough][jam,][whether][left][bad][grace][find][way][humour.][even][boyfriend])
+v(6,7,8,9,10,11,15,19,20,22,28,29,30): -2.1855154037475586, EP: -0.24056728184223175	 ([financially][emotionally.][definitely][laugh,][best][medicine!][financial][grace][find][way][humour.][even][boyfriend])
+v(2,3,4,5,13,14): 2.1411428451538086, EP: 0.23568303883075714	 ([anyone][tough][jam,][whether][left][bad])
+v(2,3,4,5,13,14,23,26,27,31): 2.1326699256896973, EP: 0.2347503900527954	 ([anyone][tough][jam,][whether][left][bad][make][legal][adds][liked])
+v(6,7,8,9,10,11,15): -1.9444483518600464, EP: -0.21403218805789948	 ([financially][emotionally.][definitely][laugh,][best][medicine!][financial])
+v(0,1,21,33): 1.820518136024475, EP: 0.2003907561302185	 ([movie][inspiring][new][chick - flic.])
+v(12,16,17,18,19,20,22,24,25,28,29,30,32): 1.190839409828186, EP: 0.13107983767986298	 ([: )][situation][husband][dies,][grace][find][way][money][exactly][humour.][even][boyfriend][think])
+v(6,7,8,9,10,11,15,19,20,22,23,26,27,28,29,30,31): 1.1828925609588623, EP: 0.13020509481430054	 ([financially][emotionally.][definitely][laugh,][best][medicine!][financial][grace][find][way][make][legal][adds][humour.][even][boyfriend][liked])
+v(2,3,4,5,6,7,8,9,10,11,13,14,15,19,20,22,28,29,30): 1.1615805625915527, EP: 0.1278592050075531	 ([anyone][tough][jam,][whether][financially][emotionally.][definitely][laugh,][best][medicine!][left][bad][financial][grace][find][way][humour.][even][boyfriend])
+v(6,7,8,9,10,11,12,15,16,17,18,19,20,22,24,25,28,29,30,32): 1.061856746673584, EP: 0.11688226461410522	 ([financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][grace][find][way][money][exactly][humour.][even][boyfriend][think])
+v(23,26,27,31): 0.7435178160667419, EP: 0.08184158802032471	 ([make][legal][adds][liked])
+v(12,16,17,18,24,25,32): 0.5078688859939575, EP: 0.05590289458632469	 ([: )][situation][husband][dies,][money][exactly][think])
+v(6,7,8,9,10,11,15,23,26,27,31): -0.33481377363204956, EP: -0.03685411438345909	 ([financially][emotionally.][definitely][laugh,][best][medicine!][financial][make][legal][adds][liked])
+v(19,20,22,28,29,30): -0.12467756867408752, EP: -0.013723693788051605	 ([grace][find][way][humour.][even][boyfriend])
+v(6,7,8,9,10,11,12,15,16,17,18,24,25,32): 0.05612793564796448, EP: 0.006178196985274553	 ([financially][emotionally.][definitely][laugh,][best][medicine!][: )][financial][situation][husband][dies,][money][exactly][think])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

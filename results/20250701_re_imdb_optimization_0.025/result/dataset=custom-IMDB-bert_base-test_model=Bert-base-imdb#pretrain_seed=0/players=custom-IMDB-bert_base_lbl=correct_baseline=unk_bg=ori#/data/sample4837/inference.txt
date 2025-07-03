@@ -1,0 +1,68 @@
+Execution time: 2025-07-03 21:05:48
+prompt: [CLS] i'd never heard of this movie, but boy was i surprised when i caught it on tv. great cast, great acting. excellent movie! how can a movie with william h macy, neve campbell and donald sutherland go wrong? i wonder why i never heard of it before. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1045 decoded_text: i
+idx:2 input_id:1005 decoded_text: '
+idx:3 input_id:1040 decoded_text: d
+idx:4 input_id:2196 decoded_text: never
+idx:5 input_id:2657 decoded_text: heard
+idx:6 input_id:1997 decoded_text: of
+idx:7 input_id:2023 decoded_text: this
+idx:8 input_id:3185 decoded_text: movie
+idx:9 input_id:1010 decoded_text: ,
+idx:10 input_id:2021 decoded_text: but
+idx:11 input_id:2879 decoded_text: boy
+idx:12 input_id:2001 decoded_text: was
+idx:13 input_id:1045 decoded_text: i
+idx:14 input_id:4527 decoded_text: surprised
+idx:15 input_id:2043 decoded_text: when
+idx:16 input_id:1045 decoded_text: i
+idx:17 input_id:3236 decoded_text: caught
+idx:18 input_id:2009 decoded_text: it
+idx:19 input_id:2006 decoded_text: on
+idx:20 input_id:2694 decoded_text: tv
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:2307 decoded_text: great
+idx:23 input_id:3459 decoded_text: cast
+idx:24 input_id:1010 decoded_text: ,
+idx:25 input_id:2307 decoded_text: great
+idx:26 input_id:3772 decoded_text: acting
+idx:27 input_id:1012 decoded_text: .
+idx:28 input_id:6581 decoded_text: excellent
+idx:29 input_id:3185 decoded_text: movie
+idx:30 input_id:999 decoded_text: !
+idx:31 input_id:2129 decoded_text: how
+idx:32 input_id:2064 decoded_text: can
+idx:33 input_id:1037 decoded_text: a
+idx:34 input_id:3185 decoded_text: movie
+idx:35 input_id:2007 decoded_text: with
+idx:36 input_id:2520 decoded_text: william
+idx:37 input_id:1044 decoded_text: h
+idx:38 input_id:20914 decoded_text: macy
+idx:39 input_id:1010 decoded_text: ,
+idx:40 input_id:11265 decoded_text: ne
+idx:41 input_id:3726 decoded_text: ##ve
+idx:42 input_id:6063 decoded_text: campbell
+idx:43 input_id:1998 decoded_text: and
+idx:44 input_id:6221 decoded_text: donald
+idx:45 input_id:14274 decoded_text: sutherland
+idx:46 input_id:2175 decoded_text: go
+idx:47 input_id:3308 decoded_text: wrong
+idx:48 input_id:1029 decoded_text: ?
+idx:49 input_id:1045 decoded_text: i
+idx:50 input_id:4687 decoded_text: wonder
+idx:51 input_id:2339 decoded_text: why
+idx:52 input_id:1045 decoded_text: i
+idx:53 input_id:2196 decoded_text: never
+idx:54 input_id:2657 decoded_text: heard
+idx:55 input_id:1997 decoded_text: of
+idx:56 input_id:2009 decoded_text: it
+idx:57 input_id:2077 decoded_text: before
+idx:58 input_id:1012 decoded_text: .
+idx:59 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-3.6689186096191406, 4.089684009552002]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

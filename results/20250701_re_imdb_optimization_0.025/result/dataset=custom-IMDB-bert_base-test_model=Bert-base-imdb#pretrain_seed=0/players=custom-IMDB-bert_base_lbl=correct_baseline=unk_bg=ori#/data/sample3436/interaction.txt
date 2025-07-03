@@ -1,0 +1,65 @@
+---------- Players ----------
+Player 0: news
+Player 1: reporters
+Player 2: military
+Player 3: escorts
+Player 4: try
+Player 5: tell
+Player 6: truth
+Player 7: epidemic
+Player 8: zombies,
+Player 9: despite
+Player 10: ' government
+Player 11: controlling
+Player 12: media '.
+Player 13: makings
+Player 14: film
+Player 15: understand
+Player 16: george
+Player 17: romero
+Player 18: zombie
+Player 19: films
+Player 20: worked
+Player 21: kept
+Player 22: politics
+Player 23: subtly
+Player 24: background
+Player 25: films
+Player 26: (
+Player 27: land
+Player 28: dead
+Player 29: "
+Player 30: withstanding ).
+Player 31: satire
+Player 32: subtle
+Player 33: brick
+Player 34: face
+Player 35: bullet
+Player 36: head
+Player 37: apropos
+Player 38: scenario.
+Player 39: what's
+Player 40: subversive
+Player 41: subtle
+Player 42: seeing
+Player 43: military
+Player 44: guy
+Player 45: masturbating
+Player 46: death
+Player 47: destruction?
+Player 48: anything
+Player 49: nuanced
+Player 50: various
+Player 51: commercials
+Player 52: inter - cut
+Player 53: film?
+Player 54: nope.
+Player 55: furthermore
+Player 56: acting
+Player 57: uniformly
+---------- AND Interactions (Pairwise Only) ----------
+I(31,32): 0.802571177482605	 ([satire][subtle])
+I(0,57): -0.7338460683822632	 ([news][uniformly])
+I(15,16): -0.3254244327545166	 ([understand][george])
+Sum: -0.2566993236541748
+==================================================

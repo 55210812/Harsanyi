@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['69', '52', '40', '50', '41', '42', '53', '33', '43', '51']: ['peter', '( jon', 'john', 'paul', 'reid', '( christopher', 'pertwee ),', '( peter', 'lee ),', 'henderson']: 平均边权 0.3931
+社区 2: ['71', '63', '66', '47', '73', '67', '65', '68', '64', '72']: ['christopher', 'actually', '( well', 'apparently', 'aside', 'duh ;', 'seeing', 'stars', 'worth', 'lee ).']: 平均边权 0.4021
+社区 3: ['2', '8', '5', '0', '4', '3', '9', '1', '7']: ['movies', 'making', 'figure', 'given', 'gotta', 'are,', 'them.', 'corny', 'fun']: 平均边权 0.4343
+社区 4: ['16', '15', '17', '19']: ['lives', 'whomever', 'there.', 'were :']: 平均边权 0.5018
+社区 5: ['12', '11', '13', '59', '14', '29', '18']: ['house', 'focuses', 'strangely', 'house', 'accommodates', 'one', 'inhabitants']: 平均边权 0.3121
+社区 6: ['25', '21', '30', '23', '22', '24', '26', '31', '28']: ['( with', 'charles', 'creations ;', '( denholm', 'hillyer', 'elliott', 'hair! ) ),', 'philip', 'haunted']: 平均边权 0.3195
+社区 7: ['56', '61', '57', '36', '45', '46', '58', '48', '44', '37', '62', '60']: ['little', 'blood', 'much', 'little', "daughter's", 'cuteness', 'character.', 'facade ;', 'whose', 'close', '"', 'dripped']: 平均边权 0.2370
+社区 8: ['20', '27', '35', '54', '74', '55', '10', '6']: ['author', 'gets', 'gets', 'verge', 'neat,', 'getting', 'movie', 'must']: 平均边权 0.3766
+社区 9: ['39', '38', '70', '32', '49', '34']: ['statue ;', 'wax', 'cushing', 'grayson', 'actor', 'cushing ),']: 平均边权 0.5318

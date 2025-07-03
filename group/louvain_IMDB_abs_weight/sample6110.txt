@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['8', '20', '29', '16', '3', '22', '9', '51', '28']: ['walter', 'joe', 'matthau', 'vaudeville', 'albertson', 'charles', 'matthau', 'richard', 'walter']: 平均边权 0.7136
+社区 2: ['66', '32', '58', '30', '67', '65', '44', '59', '43', '64', '31']: ['decided', 'working,', 'hurt', "can't", 'retire', 'burns', 'cuss', 'badly', 'old', 'george', 'stop']: 平均边权 0.4729
+社区 3: ['2', '12', '11', '13', '10']: ['jack', 'play', 'burns', 'couple', 'george']: 平均边权 0.6898
+社区 4: ['26', '27']: ['outlook', 'life.']: 平均边权 1.4345
+社区 5: ['70', '49', '52', '47', '48', '53', '68', '33']: ['family.', 'nephew', 'benjamin', 'days', 'behind', 'finding', 'spend', 'man']: 平均边权 0.3050
+社区 6: ['61', '46', '62', '60', '45']: ['years', 'best', 'earlier', '15', 'whose']: 平均边权 0.4367
+社区 7: ['5', '0', '24', '25', '4', '23', '1', '17', '7']: ['levene', 'taking', 'seem', 'differing', 'sam', 'dale', 'roles', 'comics,', 'broadway,']: 平均边权 0.4344
+社区 8: ['56', '38', '57', '35', '36', '34', '40', '39', '55', '42', '37', '54']: ['work', 'time', 'him.', 'learned', 'relax,', 'never', 'roses.', 'smell', 'less', 'crotchety', 'take', 'less']: 平均边权 0.3716
+社区 9: ['63', '19', '21', '18', '50', '15', '41', '69', '14', '6']: ['partner', 'tradition', 'smith', 'team', 'agent', 'time', "he's", 'time', 'old', 'played']: 平均边权 0.3104

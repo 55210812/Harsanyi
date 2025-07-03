@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['2', '4', '5', '3', '1', '7']: ['out,', 'looks', 'handsome', 'film', 'came', 'great.']: 平均边权 0.7135
+社区 2: ['20', '35', '32', '34', '21', '29', '30', '22', '33', '6', '31']: ['moving', 'takes', 'off -', 'slow', 'central', 'jump', 'around', 'performance', 'long', 'sounds', 'show']: 平均边权 0.3991
+社区 3: ['39', '41', '40', '42']: ['graham', 'script', "greene's", 'condenses']: 平均边权 0.9522
+社区 4: ['8', '10', '11']: ['feast', 'thoughtful', 'acting,']: 平均边权 1.0287
+社区 5: ['12', '9', '19', '27', '13', '18', '16', '15', '68', '69', '14', '17']: ['gielgud,', 'intelligent', 'walbrook, and', 'seberg.', 'kenneth', 'anton', 'andrews', 'harry', 'mel', 'gibson', 'haigh,', 'especially']: 平均边权 0.4981
+社区 6: ['61', '56', '38', '0', '36', '45', '73', '47', '55', '37', '44', '43', '72']: ["' historical '", 'worse', 'reflect,', 'savaged', 'encourage', 'sacrificing', 'drooling', 'piece', 'none', 'listen', 'without', 'shaw', 'many']: 平均边权 0.5202
+社区 7: ['57', '65', '63', '66', '58', '64']: ['that.', 'dumbing', 'cannot', 'down.', 'many', 'resist']: 平均边权 0.5801
+社区 8: ['24', '25', '26', '23']: ['incredibly', 'young', 'jean', 'beautiful']: 平均边权 0.6313
+社区 9: ['60', '52', '50', '48', '53', '59', '51', '54', '28']: ['movies', 'certainly', 'tv', 'look', 'studio', 'contemporary', 'movie,', 'bound', 'preminger']: 平均边权 0.4338
+社区 10: ['71', '67', '46', '70', '62', '74', '49']: ['maid?', 'would', 'complexity. the', 'made', 'themes', 'shots', 'made']: 平均边权 0.4095

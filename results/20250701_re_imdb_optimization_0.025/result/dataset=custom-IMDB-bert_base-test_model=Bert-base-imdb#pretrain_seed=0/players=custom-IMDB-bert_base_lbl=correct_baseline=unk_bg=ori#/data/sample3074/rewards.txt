@@ -1,0 +1,164 @@
+---------- Players ----------
+Player 0: video
+Player 1: rocked!
+Player 2: eddie
+Player 3: one
+Player 4: funniest
+Player 5: comics
+Player 6: ever
+Player 7: seen.
+Player 8: class,
+Player 9: makes
+Player 10: funniest
+Player 11: observations
+Player 12: history
+Player 13: culture
+Player 14: ever
+Player 15: seen.
+Player 16: eddie
+Player 17: original
+Player 18: intelligent
+Player 19: comic
+Player 20: i've
+Player 21: seen
+Player 22: long
+Player 23: time.
+Player 24: tell
+Player 25: stand - ups
+Player 26: get
+Player 27: stage
+Player 28: let
+Player 29: executive
+Player 30: "
+Player 31: reign! "
+---------- Rewards ----------
+v(): 2.4275128841400146	 ([])
+v(0,3,9,16,18,19,27,29): 8.066835403442383	 ([video][one][makes][eddie][intelligent][comic][stage][executive])
+v(10,11,12): 7.77278470993042	 ([funniest][observations][history])
+v(17,20,21,22,23,26,30): 7.534550189971924	 ([original][i've][seen][long][time.][get]["])
+v(1,2,4,5,6,14,15,31): 7.223840713500977	 ([rocked!][eddie][funniest][comics][ever][ever][seen.][reign! "])
+v(7,8,13): 5.461234092712402	 ([seen.][class,][culture])
+v(24,25,28): 1.948529839515686	 ([tell][stand - ups][let])
+v(0,3,9,10,11,12,16,18,19,27,29): 8.235725402832031	 ([video][one][makes][funniest][observations][history][eddie][intelligent][comic][stage][executive])
+v(0,3,9,16,17,18,19,20,21,22,23,26,27,29,30): 8.102916717529297	 ([video][one][makes][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["])
+v(0,1,2,3,4,5,6,9,14,15,16,18,19,27,29,31): 7.1228108406066895	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][ever][seen.][eddie][intelligent][comic][stage][executive][reign! "])
+v(0,3,7,8,9,13,16,18,19,27,29): 8.826976776123047	 ([video][one][seen.][class,][makes][culture][eddie][intelligent][comic][stage][executive])
+v(0,3,9,16,18,19,24,25,27,28,29): 7.897176742553711	 ([video][one][makes][eddie][intelligent][comic][tell][stand - ups][stage][let][executive])
+v(10,11,12,17,20,21,22,23,26,30): 8.087409973144531	 ([funniest][observations][history][original][i've][seen][long][time.][get]["])
+v(1,2,4,5,6,10,11,12,14,15,31): 7.698821544647217	 ([rocked!][eddie][funniest][comics][ever][funniest][observations][history][ever][seen.][reign! "])
+v(7,8,10,11,12,13): 8.208240509033203	 ([seen.][class,][funniest][observations][history][culture])
+v(10,11,12,24,25,28): 8.080613136291504	 ([funniest][observations][history][tell][stand - ups][let])
+v(1,2,4,5,6,14,15,17,20,21,22,23,26,30,31): 7.14080810546875	 ([rocked!][eddie][funniest][comics][ever][ever][seen.][original][i've][seen][long][time.][get]["][reign! "])
+v(7,8,13,17,20,21,22,23,26,30): 8.29665756225586	 ([seen.][class,][culture][original][i've][seen][long][time.][get]["])
+v(17,20,21,22,23,24,25,26,28,30): 8.079297065734863	 ([original][i've][seen][long][time.][tell][stand - ups][get][let]["])
+v(1,2,4,5,6,7,8,13,14,15,31): 7.3748064041137695	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][culture][ever][seen.][reign! "])
+v(1,2,4,5,6,14,15,24,25,28,31): 7.454381942749023	 ([rocked!][eddie][funniest][comics][ever][ever][seen.][tell][stand - ups][let][reign! "])
+v(7,8,13,24,25,28): 3.740917682647705	 ([seen.][class,][culture][tell][stand - ups][let])
+v(0,3,9,10,11,12,16,17,18,19,20,21,22,23,26,27,29,30): 8.101297378540039	 ([video][one][makes][funniest][observations][history][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["])
+v(0,1,2,3,4,5,6,9,10,11,12,14,15,16,18,19,27,29,31): 7.432254314422607	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][funniest][observations][history][ever][seen.][eddie][intelligent][comic][stage][executive][reign! "])
+v(0,3,7,8,9,10,11,12,13,16,18,19,27,29): 8.792196273803711	 ([video][one][seen.][class,][makes][funniest][observations][history][culture][eddie][intelligent][comic][stage][executive])
+v(0,3,9,10,11,12,16,18,19,24,25,27,28,29): 8.182636260986328	 ([video][one][makes][funniest][observations][history][eddie][intelligent][comic][tell][stand - ups][stage][let][executive])
+v(0,1,2,3,4,5,6,9,14,15,16,17,18,19,20,21,22,23,26,27,29,30,31): 6.791975975036621	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["][reign! "])
+v(0,3,7,8,9,13,16,17,18,19,20,21,22,23,26,27,29,30): 8.570730209350586	 ([video][one][seen.][class,][makes][culture][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["])
+v(0,3,9,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 8.278829574584961	 ([video][one][makes][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["])
+v(0,1,2,3,4,5,6,7,8,9,13,14,15,16,18,19,27,29,31): 6.86261510848999	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][culture][ever][seen.][eddie][intelligent][comic][stage][executive][reign! "])
+v(0,1,2,3,4,5,6,9,14,15,16,18,19,24,25,27,28,29,31): 7.051651477813721	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][ever][seen.][eddie][intelligent][comic][tell][stand - ups][stage][let][executive][reign! "])
+v(0,3,7,8,9,13,16,18,19,24,25,27,28,29): 8.453781127929688	 ([video][one][seen.][class,][makes][culture][eddie][intelligent][comic][tell][stand - ups][stage][let][executive])
+v(1,2,4,5,6,10,11,12,14,15,17,20,21,22,23,26,30,31): 7.569464206695557	 ([rocked!][eddie][funniest][comics][ever][funniest][observations][history][ever][seen.][original][i've][seen][long][time.][get]["][reign! "])
+v(7,8,10,11,12,13,17,20,21,22,23,26,30): 8.40015697479248	 ([seen.][class,][funniest][observations][history][culture][original][i've][seen][long][time.][get]["])
+v(10,11,12,17,20,21,22,23,24,25,26,28,30): 8.30322551727295	 ([funniest][observations][history][original][i've][seen][long][time.][tell][stand - ups][get][let]["])
+v(1,2,4,5,6,7,8,10,11,12,13,14,15,31): 7.595878601074219	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][funniest][observations][history][culture][ever][seen.][reign! "])
+v(1,2,4,5,6,10,11,12,14,15,24,25,28,31): 7.861483573913574	 ([rocked!][eddie][funniest][comics][ever][funniest][observations][history][ever][seen.][tell][stand - ups][let][reign! "])
+v(7,8,10,11,12,13,24,25,28): 8.361062049865723	 ([seen.][class,][funniest][observations][history][culture][tell][stand - ups][let])
+v(1,2,4,5,6,7,8,13,14,15,17,20,21,22,23,26,30,31): 7.349787712097168	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][culture][ever][seen.][original][i've][seen][long][time.][get]["][reign! "])
+v(1,2,4,5,6,14,15,17,20,21,22,23,24,25,26,28,30,31): 7.733580112457275	 ([rocked!][eddie][funniest][comics][ever][ever][seen.][original][i've][seen][long][time.][tell][stand - ups][get][let]["][reign! "])
+v(7,8,13,17,20,21,22,23,24,25,26,28,30): 8.406394958496094	 ([seen.][class,][culture][original][i've][seen][long][time.][tell][stand - ups][get][let]["])
+v(1,2,4,5,6,7,8,13,14,15,24,25,28,31): 7.582787036895752	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][culture][ever][seen.][tell][stand - ups][let][reign! "])
+v(0,1,2,3,4,5,6,9,10,11,12,14,15,16,17,18,19,20,21,22,23,26,27,29,30,31): 6.931615829467773	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][funniest][observations][history][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["][reign! "])
+v(0,3,7,8,9,10,11,12,13,16,17,18,19,20,21,22,23,26,27,29,30): 8.58028793334961	 ([video][one][seen.][class,][makes][funniest][observations][history][culture][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["])
+v(0,3,9,10,11,12,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 8.23422622680664	 ([video][one][makes][funniest][observations][history][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,27,29,31): 7.190155982971191	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][funniest][observations][history][culture][ever][seen.][eddie][intelligent][comic][stage][executive][reign! "])
+v(0,1,2,3,4,5,6,9,10,11,12,14,15,16,18,19,24,25,27,28,29,31): 7.254901885986328	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][funniest][observations][history][ever][seen.][eddie][intelligent][comic][tell][stand - ups][stage][let][executive][reign! "])
+v(0,3,7,8,9,10,11,12,13,16,18,19,24,25,27,28,29): 8.65444564819336	 ([video][one][seen.][class,][makes][funniest][observations][history][culture][eddie][intelligent][comic][tell][stand - ups][stage][let][executive])
+v(0,1,2,3,4,5,6,7,8,9,13,14,15,16,17,18,19,20,21,22,23,26,27,29,30,31): 6.512886047363281	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][culture][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["][reign! "])
+v(0,1,2,3,4,5,6,9,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 6.896310329437256	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["][reign! "])
+v(0,3,7,8,9,13,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 8.529745101928711	 ([video][one][seen.][class,][makes][culture][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["])
+v(0,1,2,3,4,5,6,7,8,9,13,14,15,16,18,19,24,25,27,28,29,31): 6.901798725128174	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][culture][ever][seen.][eddie][intelligent][comic][tell][stand - ups][stage][let][executive][reign! "])
+v(1,2,4,5,6,7,8,10,11,12,13,14,15,17,20,21,22,23,26,30,31): 7.5267205238342285	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][funniest][observations][history][culture][ever][seen.][original][i've][seen][long][time.][get]["][reign! "])
+v(1,2,4,5,6,10,11,12,14,15,17,20,21,22,23,24,25,26,28,30,31): 7.888339519500732	 ([rocked!][eddie][funniest][comics][ever][funniest][observations][history][ever][seen.][original][i've][seen][long][time.][tell][stand - ups][get][let]["][reign! "])
+v(7,8,10,11,12,13,17,20,21,22,23,24,25,26,28,30): 8.405192375183105	 ([seen.][class,][funniest][observations][history][culture][original][i've][seen][long][time.][tell][stand - ups][get][let]["])
+v(1,2,4,5,6,7,8,10,11,12,13,14,15,24,25,28,31): 7.716569423675537	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][funniest][observations][history][culture][ever][seen.][tell][stand - ups][let][reign! "])
+v(1,2,4,5,6,7,8,13,14,15,17,20,21,22,23,24,25,26,28,30,31): 7.678060531616211	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][culture][ever][seen.][original][i've][seen][long][time.][tell][stand - ups][get][let]["][reign! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,26,27,29,30,31): 6.787637710571289	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][funniest][observations][history][culture][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["][reign! "])
+v(0,1,2,3,4,5,6,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 7.13930606842041	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][funniest][observations][history][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["][reign! "])
+v(0,3,7,8,9,10,11,12,13,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 8.489995956420898	 ([video][one][seen.][class,][makes][funniest][observations][history][culture][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,24,25,27,28,29,31): 7.080044269561768	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][funniest][observations][history][culture][ever][seen.][eddie][intelligent][comic][tell][stand - ups][stage][let][executive][reign! "])
+v(0,1,2,3,4,5,6,7,8,9,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 6.729377269744873	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][culture][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["][reign! "])
+v(1,2,4,5,6,7,8,10,11,12,13,14,15,17,20,21,22,23,24,25,26,28,30,31): 7.735747337341309	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][funniest][observations][history][culture][ever][seen.][original][i've][seen][long][time.][tell][stand - ups][get][let]["][reign! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 6.745893478393555	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][funniest][observations][history][culture][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["][reign! "])
+---------- Rewards-v() ----------
+v(0,3,7,8,9,13,16,18,19,27,29): 6.399463653564453, EP: 1.4819129705429077	 ([video][one][seen.][class,][makes][culture][eddie][intelligent][comic][stage][executive])
+v(0,3,7,8,9,10,11,12,13,16,18,19,27,29): 6.364683151245117, EP: 1.4738588333129883	 ([video][one][seen.][class,][makes][funniest][observations][history][culture][eddie][intelligent][comic][stage][executive])
+v(0,3,7,8,9,10,11,12,13,16,18,19,24,25,27,28,29): 6.226932525634766, EP: 1.4419602155685425	 ([video][one][seen.][class,][makes][funniest][observations][history][culture][eddie][intelligent][comic][tell][stand - ups][stage][let][executive])
+v(0,3,7,8,9,10,11,12,13,16,17,18,19,20,21,22,23,26,27,29,30): 6.152774810791016, EP: 1.4247876405715942	 ([video][one][seen.][class,][makes][funniest][observations][history][culture][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["])
+v(0,3,7,8,9,13,16,17,18,19,20,21,22,23,26,27,29,30): 6.143217086791992, EP: 1.4225742816925049	 ([video][one][seen.][class,][makes][culture][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["])
+v(0,3,7,8,9,13,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 6.102231979370117, EP: 1.4130834341049194	 ([video][one][seen.][class,][makes][culture][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["])
+v(0,3,7,8,9,10,11,12,13,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 6.062482833862305, EP: 1.4038788080215454	 ([video][one][seen.][class,][makes][funniest][observations][history][culture][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["])
+v(0,3,7,8,9,13,16,18,19,24,25,27,28,29): 6.026268005371094, EP: 1.395492672920227	 ([video][one][seen.][class,][makes][culture][eddie][intelligent][comic][tell][stand - ups][stage][let][executive])
+v(7,8,13,17,20,21,22,23,24,25,26,28,30): 5.9788818359375, EP: 1.3845194578170776	 ([seen.][class,][culture][original][i've][seen][long][time.][tell][stand - ups][get][let]["])
+v(7,8,10,11,12,13,17,20,21,22,23,24,25,26,28,30): 5.977679252624512, EP: 1.384240984916687	 ([seen.][class,][funniest][observations][history][culture][original][i've][seen][long][time.][tell][stand - ups][get][let]["])
+v(7,8,10,11,12,13,17,20,21,22,23,26,30): 5.972643852233887, EP: 1.3830749988555908	 ([seen.][class,][funniest][observations][history][culture][original][i've][seen][long][time.][get]["])
+v(7,8,10,11,12,13,24,25,28): 5.933548927307129, EP: 1.3740218877792358	 ([seen.][class,][funniest][observations][history][culture][tell][stand - ups][let])
+v(10,11,12,17,20,21,22,23,24,25,26,28,30): 5.8757123947143555, EP: 1.3606287240982056	 ([funniest][observations][history][original][i've][seen][long][time.][tell][stand - ups][get][let]["])
+v(7,8,13,17,20,21,22,23,26,30): 5.869144439697266, EP: 1.3591078519821167	 ([seen.][class,][culture][original][i've][seen][long][time.][get]["])
+v(0,3,9,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 5.851316452026367, EP: 1.354979395866394	 ([video][one][makes][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["])
+v(0,3,9,10,11,12,16,18,19,27,29): 5.8082122802734375, EP: 1.3449978828430176	 ([video][one][makes][funniest][observations][history][eddie][intelligent][comic][stage][executive])
+v(0,3,9,10,11,12,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 5.806713104248047, EP: 1.3446506261825562	 ([video][one][makes][funniest][observations][history][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["])
+v(7,8,10,11,12,13): 5.780727386474609, EP: 1.3386331796646118	 ([seen.][class,][funniest][observations][history][culture])
+v(0,3,9,10,11,12,16,18,19,24,25,27,28,29): 5.755123138427734, EP: 1.3327040672302246	 ([video][one][makes][funniest][observations][history][eddie][intelligent][comic][tell][stand - ups][stage][let][executive])
+v(0,3,9,16,17,18,19,20,21,22,23,26,27,29,30): 5.675403594970703, EP: 1.3142435550689697	 ([video][one][makes][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["])
+v(0,3,9,10,11,12,16,17,18,19,20,21,22,23,26,27,29,30): 5.673784255981445, EP: 1.313868522644043	 ([video][one][makes][funniest][observations][history][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["])
+v(10,11,12,17,20,21,22,23,26,30): 5.6598968505859375, EP: 1.310652732849121	 ([funniest][observations][history][original][i've][seen][long][time.][get]["])
+v(10,11,12,24,25,28): 5.65310001373291, EP: 1.3090788125991821	 ([funniest][observations][history][tell][stand - ups][let])
+v(17,20,21,22,23,24,25,26,28,30): 5.6517839431762695, EP: 1.3087739944458008	 ([original][i've][seen][long][time.][tell][stand - ups][get][let]["])
+v(0,3,9,16,18,19,27,29): 5.639322280883789, EP: 1.305888295173645	 ([video][one][makes][eddie][intelligent][comic][stage][executive])
+v(0,3,9,16,18,19,24,25,27,28,29): 5.469663619995117, EP: 1.2666007280349731	 ([video][one][makes][eddie][intelligent][comic][tell][stand - ups][stage][let][executive])
+v(1,2,4,5,6,10,11,12,14,15,17,20,21,22,23,24,25,26,28,30,31): 5.460826873779297, EP: 1.2645543813705444	 ([rocked!][eddie][funniest][comics][ever][funniest][observations][history][ever][seen.][original][i've][seen][long][time.][tell][stand - ups][get][let]["][reign! "])
+v(1,2,4,5,6,10,11,12,14,15,24,25,28,31): 5.4339704513549805, EP: 1.2583353519439697	 ([rocked!][eddie][funniest][comics][ever][funniest][observations][history][ever][seen.][tell][stand - ups][let][reign! "])
+v(10,11,12): 5.345272064208984, EP: 1.2377955913543701	 ([funniest][observations][history])
+v(1,2,4,5,6,7,8,10,11,12,13,14,15,17,20,21,22,23,24,25,26,28,30,31): 5.308234214782715, EP: 1.2292187213897705	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][funniest][observations][history][culture][ever][seen.][original][i've][seen][long][time.][tell][stand - ups][get][let]["][reign! "])
+v(1,2,4,5,6,14,15,17,20,21,22,23,24,25,26,28,30,31): 5.30606746673584, EP: 1.2287169694900513	 ([rocked!][eddie][funniest][comics][ever][ever][seen.][original][i've][seen][long][time.][tell][stand - ups][get][let]["][reign! "])
+v(1,2,4,5,6,7,8,10,11,12,13,14,15,24,25,28,31): 5.289056777954102, EP: 1.2247779369354248	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][funniest][observations][history][culture][ever][seen.][tell][stand - ups][let][reign! "])
+v(1,2,4,5,6,10,11,12,14,15,31): 5.271308898925781, EP: 1.220668077468872	 ([rocked!][eddie][funniest][comics][ever][funniest][observations][history][ever][seen.][reign! "])
+v(1,2,4,5,6,7,8,13,14,15,17,20,21,22,23,24,25,26,28,30,31): 5.250547409057617, EP: 1.215860366821289	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][culture][ever][seen.][original][i've][seen][long][time.][tell][stand - ups][get][let]["][reign! "])
+v(1,2,4,5,6,7,8,10,11,12,13,14,15,31): 5.168365478515625, EP: 1.1968295574188232	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][funniest][observations][history][culture][ever][seen.][reign! "])
+v(1,2,4,5,6,7,8,13,14,15,24,25,28,31): 5.155274391174316, EP: 1.1937981843948364	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][culture][ever][seen.][tell][stand - ups][let][reign! "])
+v(1,2,4,5,6,10,11,12,14,15,17,20,21,22,23,26,30,31): 5.141951560974121, EP: 1.1907129287719727	 ([rocked!][eddie][funniest][comics][ever][funniest][observations][history][ever][seen.][original][i've][seen][long][time.][get]["][reign! "])
+v(17,20,21,22,23,26,30): 5.107037544250488, EP: 1.1826280355453491	 ([original][i've][seen][long][time.][get]["])
+v(1,2,4,5,6,7,8,10,11,12,13,14,15,17,20,21,22,23,26,30,31): 5.099207878112793, EP: 1.1808148622512817	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][funniest][observations][history][culture][ever][seen.][original][i've][seen][long][time.][get]["][reign! "])
+v(1,2,4,5,6,14,15,24,25,28,31): 5.02686882019043, EP: 1.1640634536743164	 ([rocked!][eddie][funniest][comics][ever][ever][seen.][tell][stand - ups][let][reign! "])
+v(0,1,2,3,4,5,6,9,10,11,12,14,15,16,18,19,27,29,31): 5.004741668701172, EP: 1.1589394807815552	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][funniest][observations][history][ever][seen.][eddie][intelligent][comic][stage][executive][reign! "])
+v(1,2,4,5,6,7,8,13,14,15,31): 4.947293281555176, EP: 1.1456363201141357	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][culture][ever][seen.][reign! "])
+v(1,2,4,5,6,7,8,13,14,15,17,20,21,22,23,26,30,31): 4.922274589538574, EP: 1.1398427486419678	 ([rocked!][eddie][funniest][comics][ever][seen.][class,][culture][ever][seen.][original][i've][seen][long][time.][get]["][reign! "])
+v(0,1,2,3,4,5,6,9,10,11,12,14,15,16,18,19,24,25,27,28,29,31): 4.827388763427734, EP: 1.1178702116012573	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][funniest][observations][history][ever][seen.][eddie][intelligent][comic][tell][stand - ups][stage][let][executive][reign! "])
+v(1,2,4,5,6,14,15,31): 4.796327590942383, EP: 1.1106774806976318	 ([rocked!][eddie][funniest][comics][ever][ever][seen.][reign! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,27,29,31): 4.762642860412598, EP: 1.102877140045166	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][funniest][observations][history][culture][ever][seen.][eddie][intelligent][comic][stage][executive][reign! "])
+v(1,2,4,5,6,14,15,17,20,21,22,23,26,30,31): 4.713294982910156, EP: 1.0914497375488281	 ([rocked!][eddie][funniest][comics][ever][ever][seen.][original][i've][seen][long][time.][get]["][reign! "])
+v(0,1,2,3,4,5,6,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 4.711792945861816, EP: 1.091101884841919	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][funniest][observations][history][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["][reign! "])
+v(0,1,2,3,4,5,6,9,14,15,16,18,19,27,29,31): 4.695298194885254, EP: 1.0872821807861328	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][ever][seen.][eddie][intelligent][comic][stage][executive][reign! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,24,25,27,28,29,31): 4.652531623840332, EP: 1.0773788690567017	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][funniest][observations][history][culture][ever][seen.][eddie][intelligent][comic][tell][stand - ups][stage][let][executive][reign! "])
+v(0,1,2,3,4,5,6,9,14,15,16,18,19,24,25,27,28,29,31): 4.624138832092285, EP: 1.0708039999008179	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][ever][seen.][eddie][intelligent][comic][tell][stand - ups][stage][let][executive][reign! "])
+v(0,1,2,3,4,5,6,9,10,11,12,14,15,16,17,18,19,20,21,22,23,26,27,29,30,31): 4.50410270690918, EP: 1.0430073738098145	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][funniest][observations][history][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["][reign! "])
+v(0,1,2,3,4,5,6,7,8,9,13,14,15,16,18,19,24,25,27,28,29,31): 4.474286079406738, EP: 1.0361027717590332	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][culture][ever][seen.][eddie][intelligent][comic][tell][stand - ups][stage][let][executive][reign! "])
+v(0,1,2,3,4,5,6,9,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 4.46879768371582, EP: 1.0348318815231323	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["][reign! "])
+v(0,1,2,3,4,5,6,7,8,9,13,14,15,16,18,19,27,29,31): 4.435102462768555, EP: 1.0270291566848755	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][culture][ever][seen.][eddie][intelligent][comic][stage][executive][reign! "])
+v(0,1,2,3,4,5,6,9,14,15,16,17,18,19,20,21,22,23,26,27,29,30,31): 4.364462852478027, EP: 1.0106712579727173	 ([video][rocked!][eddie][one][funniest][comics][ever][makes][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["][reign! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,26,27,29,30,31): 4.360124588012695, EP: 1.0096666812896729	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][funniest][observations][history][culture][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["][reign! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 4.318380355834961, EP: 1.0	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][funniest][observations][history][culture][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["][reign! "])
+v(0,1,2,3,4,5,6,7,8,9,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 4.3018646240234375, EP: 0.9961754679679871	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][culture][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][tell][stand - ups][get][stage][let][executive]["][reign! "])
+v(0,1,2,3,4,5,6,7,8,9,13,14,15,16,17,18,19,20,21,22,23,26,27,29,30,31): 4.0853729248046875, EP: 0.9460428357124329	 ([video][rocked!][eddie][one][funniest][comics][ever][seen.][class,][makes][culture][ever][seen.][eddie][original][intelligent][comic][i've][seen][long][time.][get][stage][executive]["][reign! "])
+v(7,8,13): 3.0337212085723877, EP: 0.7025136351585388	 ([seen.][class,][culture])
+v(7,8,13,24,25,28): 1.3134047985076904, EP: 0.30414292216300964	 ([seen.][class,][culture][tell][stand - ups][let])
+v(24,25,28): -0.4789830446243286, EP: -0.11091729253530502	 ([tell][stand - ups][let])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

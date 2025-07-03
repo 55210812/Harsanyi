@@ -1,0 +1,158 @@
+---------- Players ----------
+Player 0: enjoyed
+Player 1: every
+Player 2: moment
+Player 3: movie,
+Player 4: even
+Player 5: though
+Player 6: knew
+Player 7: could
+Player 8: never
+Player 9: really
+Player 10: together.
+Player 11: life
+Player 12: expectancy
+Player 13: bomber
+Player 14: pilot
+Player 15: six
+Player 16: weeks,
+Player 17: made
+Player 18: feel
+Player 19: women
+Player 20: men
+Player 21: back
+Player 22: 1940's
+Player 23: must
+Player 24: lived
+Player 25: story.
+---------- Rewards ----------
+v(): 1.2455495595932007	 ([])
+v(3,14,15,16,17,19,25): 7.970589637756348	 ([movie,][pilot][six][weeks,][made][women][story.])
+v(0,1): 6.98265266418457	 ([enjoyed][every])
+v(4,5,6,7,8,9): 4.448489189147949	 ([even][though][knew][could][never][really])
+v(10,11): 5.682716369628906	 ([together.][life])
+v(20,21,22,23,24): 2.8482022285461426	 ([men][back][1940's][must][lived])
+v(2,12,13,18): 5.8827362060546875	 ([moment][expectancy][bomber][feel])
+v(0,1,3,14,15,16,17,19,25): 7.610651016235352	 ([enjoyed][every][movie,][pilot][six][weeks,][made][women][story.])
+v(3,4,5,6,7,8,9,14,15,16,17,19,25): 8.074854850769043	 ([movie,][even][though][knew][could][never][really][pilot][six][weeks,][made][women][story.])
+v(3,10,11,14,15,16,17,19,25): 8.297639846801758	 ([movie,][together.][life][pilot][six][weeks,][made][women][story.])
+v(3,14,15,16,17,19,20,21,22,23,24,25): 8.362685203552246	 ([movie,][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(2,3,12,13,14,15,16,17,18,19,25): 8.46330451965332	 ([moment][movie,][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(0,1,4,5,6,7,8,9): 7.547173023223877	 ([enjoyed][every][even][though][knew][could][never][really])
+v(0,1,10,11): 7.559976100921631	 ([enjoyed][every][together.][life])
+v(0,1,20,21,22,23,24): 7.328244209289551	 ([enjoyed][every][men][back][1940's][must][lived])
+v(0,1,2,12,13,18): 7.179877758026123	 ([enjoyed][every][moment][expectancy][bomber][feel])
+v(4,5,6,7,8,9,10,11): 6.543176651000977	 ([even][though][knew][could][never][really][together.][life])
+v(4,5,6,7,8,9,20,21,22,23,24): 6.095273971557617	 ([even][though][knew][could][never][really][men][back][1940's][must][lived])
+v(2,4,5,6,7,8,9,12,13,18): 5.433816432952881	 ([moment][even][though][knew][could][never][really][expectancy][bomber][feel])
+v(10,11,20,21,22,23,24): 7.66144323348999	 ([together.][life][men][back][1940's][must][lived])
+v(2,10,11,12,13,18): 7.904080390930176	 ([moment][together.][life][expectancy][bomber][feel])
+v(2,12,13,18,20,21,22,23,24): 6.265805244445801	 ([moment][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(0,1,3,4,5,6,7,8,9,14,15,16,17,19,25): 7.564184188842773	 ([enjoyed][every][movie,][even][though][knew][could][never][really][pilot][six][weeks,][made][women][story.])
+v(0,1,3,10,11,14,15,16,17,19,25): 7.948783874511719	 ([enjoyed][every][movie,][together.][life][pilot][six][weeks,][made][women][story.])
+v(0,1,3,14,15,16,17,19,20,21,22,23,24,25): 8.233197212219238	 ([enjoyed][every][movie,][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(0,1,2,3,12,13,14,15,16,17,18,19,25): 8.051830291748047	 ([enjoyed][every][moment][movie,][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(3,4,5,6,7,8,9,10,11,14,15,16,17,19,25): 7.954385280609131	 ([movie,][even][though][knew][could][never][really][together.][life][pilot][six][weeks,][made][women][story.])
+v(3,4,5,6,7,8,9,14,15,16,17,19,20,21,22,23,24,25): 8.241016387939453	 ([movie,][even][though][knew][could][never][really][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,25): 8.333635330200195	 ([moment][movie,][even][though][knew][could][never][really][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(3,10,11,14,15,16,17,19,20,21,22,23,24,25): 8.296761512756348	 ([movie,][together.][life][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(2,3,10,11,12,13,14,15,16,17,18,19,25): 8.514055252075195	 ([moment][movie,][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(2,3,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.484274864196777	 ([moment][movie,][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(0,1,4,5,6,7,8,9,10,11): 8.026666641235352	 ([enjoyed][every][even][though][knew][could][never][really][together.][life])
+v(0,1,4,5,6,7,8,9,20,21,22,23,24): 7.532196998596191	 ([enjoyed][every][even][though][knew][could][never][really][men][back][1940's][must][lived])
+v(0,1,2,4,5,6,7,8,9,12,13,18): 7.281822681427002	 ([enjoyed][every][moment][even][though][knew][could][never][really][expectancy][bomber][feel])
+v(0,1,10,11,20,21,22,23,24): 7.864655017852783	 ([enjoyed][every][together.][life][men][back][1940's][must][lived])
+v(0,1,2,10,11,12,13,18): 7.66890287399292	 ([enjoyed][every][moment][together.][life][expectancy][bomber][feel])
+v(0,1,2,12,13,18,20,21,22,23,24): 7.434661865234375	 ([enjoyed][every][moment][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(4,5,6,7,8,9,10,11,20,21,22,23,24): 7.434207916259766	 ([even][though][knew][could][never][really][together.][life][men][back][1940's][must][lived])
+v(2,4,5,6,7,8,9,10,11,12,13,18): 6.78938102722168	 ([moment][even][though][knew][could][never][really][together.][life][expectancy][bomber][feel])
+v(2,4,5,6,7,8,9,12,13,18,20,21,22,23,24): 6.34637451171875	 ([moment][even][though][knew][could][never][really][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(2,10,11,12,13,18,20,21,22,23,24): 8.183738708496094	 ([moment][together.][life][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(0,1,3,4,5,6,7,8,9,10,11,14,15,16,17,19,25): 7.817865371704102	 ([enjoyed][every][movie,][even][though][knew][could][never][really][together.][life][pilot][six][weeks,][made][women][story.])
+v(0,1,3,4,5,6,7,8,9,14,15,16,17,19,20,21,22,23,24,25): 7.92411994934082	 ([enjoyed][every][movie,][even][though][knew][could][never][really][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(0,1,2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,25): 7.987879276275635	 ([enjoyed][every][moment][movie,][even][though][knew][could][never][really][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(0,1,3,10,11,14,15,16,17,19,20,21,22,23,24,25): 8.128538131713867	 ([enjoyed][every][movie,][together.][life][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(0,1,2,3,10,11,12,13,14,15,16,17,18,19,25): 8.158424377441406	 ([enjoyed][every][moment][movie,][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(0,1,2,3,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.318143844604492	 ([enjoyed][every][moment][movie,][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(3,4,5,6,7,8,9,10,11,14,15,16,17,19,20,21,22,23,24,25): 8.063207626342773	 ([movie,][even][though][knew][could][never][really][together.][life][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,25): 8.216178894042969	 ([moment][movie,][even][though][knew][could][never][really][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.333552360534668	 ([moment][movie,][even][though][knew][could][never][really][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(2,3,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.41390323638916	 ([moment][movie,][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(0,1,4,5,6,7,8,9,10,11,20,21,22,23,24): 8.106852531433105	 ([enjoyed][every][even][though][knew][could][never][really][together.][life][men][back][1940's][must][lived])
+v(0,1,2,4,5,6,7,8,9,10,11,12,13,18): 7.580831527709961	 ([enjoyed][every][moment][even][though][knew][could][never][really][together.][life][expectancy][bomber][feel])
+v(0,1,2,4,5,6,7,8,9,12,13,18,20,21,22,23,24): 7.528111934661865	 ([enjoyed][every][moment][even][though][knew][could][never][really][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(0,1,2,10,11,12,13,18,20,21,22,23,24): 7.741405487060547	 ([enjoyed][every][moment][together.][life][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(2,4,5,6,7,8,9,10,11,12,13,18,20,21,22,23,24): 7.302525520324707	 ([moment][even][though][knew][could][never][really][together.][life][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(0,1,3,4,5,6,7,8,9,10,11,14,15,16,17,19,20,21,22,23,24,25): 8.01945972442627	 ([enjoyed][every][movie,][even][though][knew][could][never][really][together.][life][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,25): 7.8863301277160645	 ([enjoyed][every][moment][movie,][even][though][knew][could][never][really][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(0,1,2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.068361282348633	 ([enjoyed][every][moment][movie,][even][though][knew][could][never][really][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(0,1,2,3,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.125418663024902	 ([enjoyed][every][moment][movie,][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.047355651855469	 ([moment][movie,][even][though][knew][could][never][really][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(0,1,2,4,5,6,7,8,9,10,11,12,13,18,20,21,22,23,24): 7.7154340744018555	 ([enjoyed][every][moment][even][though][knew][could][never][really][together.][life][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.708697319030762	 ([enjoyed][every][moment][movie,][even][though][knew][could][never][really][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+---------- Rewards-v() ----------
+v(2,3,10,11,12,13,14,15,16,17,18,19,25): 7.268505573272705, EP: 1.1246076822280884	 ([moment][movie,][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(2,3,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.238725185394287, EP: 1.1200000047683716	 ([moment][movie,][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(2,3,12,13,14,15,16,17,18,19,25): 7.21775484085083, EP: 1.1167553663253784	 ([moment][movie,][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(2,3,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.16835355758667, EP: 1.1091117858886719	 ([moment][movie,][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(3,14,15,16,17,19,20,21,22,23,24,25): 7.117135524749756, EP: 1.1011872291564941	 ([movie,][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,25): 7.088085651397705, EP: 1.0966925621032715	 ([moment][movie,][even][though][knew][could][never][really][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.088002681732178, EP: 1.0966796875	 ([moment][movie,][even][though][knew][could][never][really][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(0,1,2,3,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.072594165802002, EP: 1.094295620918274	 ([enjoyed][every][moment][movie,][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(3,10,11,14,15,16,17,19,25): 7.052090167999268, EP: 1.0911232233047485	 ([movie,][together.][life][pilot][six][weeks,][made][women][story.])
+v(3,10,11,14,15,16,17,19,20,21,22,23,24,25): 7.051211833953857, EP: 1.0909873247146606	 ([movie,][together.][life][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(3,4,5,6,7,8,9,14,15,16,17,19,20,21,22,23,24,25): 6.995466709136963, EP: 1.082362174987793	 ([movie,][even][though][knew][could][never][really][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(0,1,3,14,15,16,17,19,20,21,22,23,24,25): 6.987647533416748, EP: 1.0811524391174316	 ([enjoyed][every][movie,][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,25): 6.9706292152404785, EP: 1.0785192251205444	 ([moment][movie,][even][though][knew][could][never][really][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(2,10,11,12,13,18,20,21,22,23,24): 6.9381890296936035, EP: 1.0735000371932983	 ([moment][together.][life][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(0,1,2,3,10,11,12,13,14,15,16,17,18,19,25): 6.912874698638916, EP: 1.0695832967758179	 ([enjoyed][every][moment][movie,][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(0,1,3,10,11,14,15,16,17,19,20,21,22,23,24,25): 6.882988452911377, EP: 1.064959168434143	 ([enjoyed][every][movie,][together.][life][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(0,1,2,3,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 6.879868984222412, EP: 1.064476490020752	 ([enjoyed][every][moment][movie,][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(0,1,4,5,6,7,8,9,10,11,20,21,22,23,24): 6.861302852630615, EP: 1.0616039037704468	 ([enjoyed][every][even][though][knew][could][never][really][together.][life][men][back][1940's][must][lived])
+v(3,4,5,6,7,8,9,14,15,16,17,19,25): 6.829305171966553, EP: 1.0566531419754028	 ([movie,][even][though][knew][could][never][really][pilot][six][weeks,][made][women][story.])
+v(0,1,2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 6.822811603546143, EP: 1.0556484460830688	 ([enjoyed][every][moment][movie,][even][though][knew][could][never][really][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(3,4,5,6,7,8,9,10,11,14,15,16,17,19,20,21,22,23,24,25): 6.817657947540283, EP: 1.0548510551452637	 ([movie,][even][though][knew][could][never][really][together.][life][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(0,1,2,3,12,13,14,15,16,17,18,19,25): 6.806280612945557, EP: 1.0530906915664673	 ([enjoyed][every][moment][movie,][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 6.8018059730529785, EP: 1.0523983240127563	 ([moment][movie,][even][though][knew][could][never][really][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(0,1,4,5,6,7,8,9,10,11): 6.781116962432861, EP: 1.0491973161697388	 ([enjoyed][every][even][though][knew][could][never][really][together.][life])
+v(0,1,3,4,5,6,7,8,9,10,11,14,15,16,17,19,20,21,22,23,24,25): 6.773910045623779, EP: 1.0480822324752808	 ([enjoyed][every][movie,][even][though][knew][could][never][really][together.][life][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(0,1,2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,25): 6.7423295974731445, EP: 1.0431959629058838	 ([enjoyed][every][moment][movie,][even][though][knew][could][never][really][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(3,14,15,16,17,19,25): 6.725039958953857, EP: 1.0405209064483643	 ([movie,][pilot][six][weeks,][made][women][story.])
+v(3,4,5,6,7,8,9,10,11,14,15,16,17,19,25): 6.708835601806641, EP: 1.0380136966705322	 ([movie,][even][though][knew][could][never][really][together.][life][pilot][six][weeks,][made][women][story.])
+v(0,1,3,10,11,14,15,16,17,19,25): 6.7032341957092285, EP: 1.037147045135498	 ([enjoyed][every][movie,][together.][life][pilot][six][weeks,][made][women][story.])
+v(0,1,3,4,5,6,7,8,9,14,15,16,17,19,20,21,22,23,24,25): 6.67857027053833, EP: 1.0333309173583984	 ([enjoyed][every][movie,][even][though][knew][could][never][really][pilot][six][weeks,][made][women][men][back][1940's][must][lived][story.])
+v(2,10,11,12,13,18): 6.6585307121276855, EP: 1.0302302837371826	 ([moment][together.][life][expectancy][bomber][feel])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,25): 6.640780448913574, EP: 1.0274839401245117	 ([enjoyed][every][moment][movie,][even][though][knew][could][never][really][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][story.])
+v(0,1,10,11,20,21,22,23,24): 6.619105339050293, EP: 1.0241303443908691	 ([enjoyed][every][together.][life][men][back][1940's][must][lived])
+v(0,1,3,4,5,6,7,8,9,10,11,14,15,16,17,19,25): 6.572315692901611, EP: 1.0168908834457397	 ([enjoyed][every][movie,][even][though][knew][could][never][really][together.][life][pilot][six][weeks,][made][women][story.])
+v(0,1,2,10,11,12,13,18,20,21,22,23,24): 6.495855808258057, EP: 1.0050606727600098	 ([enjoyed][every][moment][together.][life][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(0,1,2,4,5,6,7,8,9,10,11,12,13,18,20,21,22,23,24): 6.469884395599365, EP: 1.001042366027832	 ([enjoyed][every][moment][even][though][knew][could][never][really][together.][life][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 6.4631476402282715, EP: 1.0	 ([enjoyed][every][moment][movie,][even][though][knew][could][never][really][together.][life][expectancy][bomber][pilot][six][weeks,][made][feel][women][men][back][1940's][must][lived][story.])
+v(0,1,2,10,11,12,13,18): 6.42335319519043, EP: 0.9938428401947021	 ([enjoyed][every][moment][together.][life][expectancy][bomber][feel])
+v(10,11,20,21,22,23,24): 6.4158935546875, EP: 0.9926887154579163	 ([together.][life][men][back][1940's][must][lived])
+v(0,1,3,14,15,16,17,19,25): 6.365101337432861, EP: 0.9848299622535706	 ([enjoyed][every][movie,][pilot][six][weeks,][made][women][story.])
+v(0,1,2,4,5,6,7,8,9,10,11,12,13,18): 6.335281848907471, EP: 0.9802161455154419	 ([enjoyed][every][moment][even][though][knew][could][never][really][together.][life][expectancy][bomber][feel])
+v(0,1,3,4,5,6,7,8,9,14,15,16,17,19,25): 6.318634510040283, EP: 0.9776404500007629	 ([enjoyed][every][movie,][even][though][knew][could][never][really][pilot][six][weeks,][made][women][story.])
+v(0,1,10,11): 6.314426422119141, EP: 0.9769893288612366	 ([enjoyed][every][together.][life])
+v(0,1,4,5,6,7,8,9): 6.301623344421387, EP: 0.9750084280967712	 ([enjoyed][every][even][though][knew][could][never][really])
+v(0,1,4,5,6,7,8,9,20,21,22,23,24): 6.286647319793701, EP: 0.9726912975311279	 ([enjoyed][every][even][though][knew][could][never][really][men][back][1940's][must][lived])
+v(0,1,2,4,5,6,7,8,9,12,13,18,20,21,22,23,24): 6.282562255859375, EP: 0.9720592498779297	 ([enjoyed][every][moment][even][though][knew][could][never][really][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(0,1,2,12,13,18,20,21,22,23,24): 6.189112186431885, EP: 0.9576002955436707	 ([enjoyed][every][moment][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(4,5,6,7,8,9,10,11,20,21,22,23,24): 6.188658237457275, EP: 0.9575300812721252	 ([even][though][knew][could][never][really][together.][life][men][back][1940's][must][lived])
+v(0,1,20,21,22,23,24): 6.0826945304870605, EP: 0.9411349892616272	 ([enjoyed][every][men][back][1940's][must][lived])
+v(2,4,5,6,7,8,9,10,11,12,13,18,20,21,22,23,24): 6.056975841522217, EP: 0.9371557235717773	 ([moment][even][though][knew][could][never][really][together.][life][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(0,1,2,4,5,6,7,8,9,12,13,18): 6.036273002624512, EP: 0.9339525103569031	 ([enjoyed][every][moment][even][though][knew][could][never][really][expectancy][bomber][feel])
+v(0,1,2,12,13,18): 5.934328079223633, EP: 0.9181792736053467	 ([enjoyed][every][moment][expectancy][bomber][feel])
+v(0,1): 5.73710298538208, EP: 0.8876639008522034	 ([enjoyed][every])
+v(2,4,5,6,7,8,9,10,11,12,13,18): 5.5438313484191895, EP: 0.8577603101730347	 ([moment][even][though][knew][could][never][really][together.][life][expectancy][bomber][feel])
+v(4,5,6,7,8,9,10,11): 5.297626972198486, EP: 0.8196666836738586	 ([even][though][knew][could][never][really][together.][life])
+v(2,4,5,6,7,8,9,12,13,18,20,21,22,23,24): 5.10082483291626, EP: 0.7892168164253235	 ([moment][even][though][knew][could][never][really][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(2,12,13,18,20,21,22,23,24): 5.0202555656433105, EP: 0.7767508625984192	 ([moment][expectancy][bomber][feel][men][back][1940's][must][lived])
+v(4,5,6,7,8,9,20,21,22,23,24): 4.849724292755127, EP: 0.750365674495697	 ([even][though][knew][could][never][really][men][back][1940's][must][lived])
+v(2,12,13,18): 4.637186527252197, EP: 0.7174811363220215	 ([moment][expectancy][bomber][feel])
+v(10,11): 4.437166690826416, EP: 0.6865333914756775	 ([together.][life])
+v(2,4,5,6,7,8,9,12,13,18): 4.188266754150391, EP: 0.6480227708816528	 ([moment][even][though][knew][could][never][really][expectancy][bomber][feel])
+v(4,5,6,7,8,9): 3.202939510345459, EP: 0.4955696165561676	 ([even][though][knew][could][never][really])
+v(20,21,22,23,24): 1.602652668952942, EP: 0.24796782433986664	 ([men][back][1940's][must][lived])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

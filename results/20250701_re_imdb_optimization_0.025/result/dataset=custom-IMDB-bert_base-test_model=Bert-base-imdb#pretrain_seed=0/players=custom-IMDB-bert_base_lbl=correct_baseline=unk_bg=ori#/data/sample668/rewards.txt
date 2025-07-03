@@ -1,0 +1,98 @@
+---------- Players ----------
+Player 0: find
+Player 1: bit
+Player 2: overrated.
+Player 3: maybe
+Player 4: i've
+Player 5: never
+Player 6: seen
+Player 7: subtitled
+Player 8: version
+Player 9: ( dubbing
+Player 10: stinks! ),
+Player 11: get
+Player 12: like
+Player 13: lot
+Player 14: people
+Player 15: do.
+Player 16: finale
+Player 17: really
+Player 18: great
+Player 19: though
+Player 20: jackie
+Player 21: trashes
+Player 22: mall,
+Player 23: scene
+Player 24: plays
+Player 25: head
+Player 26: every
+Player 27: time
+Player 28: go
+Player 29: shopping!
+---------- Rewards ----------
+v(): -0.9139717817306519	 ([])
+v(16,17,20): 1.419700026512146	 ([finale][really][jackie])
+v(2,10,11,15,19,21,23): -4.809194087982178	 ([overrated.][stinks! ),][get][do.][though][trashes][scene])
+v(0,1,3,5,9,13,14,24,29): 1.1293916702270508	 ([find][bit][maybe][never][( dubbing][lot][people][plays][shopping!])
+v(22,25,26,27,28): -0.1641533076763153	 ([mall,][head][every][time][go])
+v(4,6,7,8,12,18): 3.1815600395202637	 ([i've][seen][subtitled][version][like][great])
+v(2,10,11,15,16,17,19,20,21,23): -4.998665809631348	 ([overrated.][stinks! ),][get][do.][finale][really][though][jackie][trashes][scene])
+v(0,1,3,5,9,13,14,16,17,20,24,29): 4.616825103759766	 ([find][bit][maybe][never][( dubbing][lot][people][finale][really][jackie][plays][shopping!])
+v(16,17,20,22,25,26,27,28): 1.7853200435638428	 ([finale][really][jackie][mall,][head][every][time][go])
+v(4,6,7,8,12,16,17,18,20): 7.617280960083008	 ([i've][seen][subtitled][version][like][finale][really][great][jackie])
+v(0,1,2,3,5,9,10,11,13,14,15,19,21,23,24,29): -3.0194716453552246	 ([find][bit][overrated.][maybe][never][( dubbing][stinks! ),][get][lot][people][do.][though][trashes][scene][plays][shopping!])
+v(2,10,11,15,19,21,22,23,25,26,27,28): -4.629036903381348	 ([overrated.][stinks! ),][get][do.][though][trashes][mall,][scene][head][every][time][go])
+v(2,4,6,7,8,10,11,12,15,18,19,21,23): -0.8357182741165161	 ([overrated.][i've][seen][subtitled][version][stinks! ),][get][like][do.][great][though][trashes][scene])
+v(0,1,3,5,9,13,14,22,24,25,26,27,28,29): 1.6791996955871582	 ([find][bit][maybe][never][( dubbing][lot][people][mall,][plays][head][every][time][go][shopping!])
+v(0,1,3,4,5,6,7,8,9,12,13,14,18,24,29): 6.301124572753906	 ([find][bit][maybe][i've][never][seen][subtitled][version][( dubbing][like][lot][people][great][plays][shopping!])
+v(4,6,7,8,12,18,22,25,26,27,28): 4.466700553894043	 ([i've][seen][subtitled][version][like][great][mall,][head][every][time][go])
+v(0,1,2,3,5,9,10,11,13,14,15,16,17,19,20,21,23,24,29): -2.32900333404541	 ([find][bit][overrated.][maybe][never][( dubbing][stinks! ),][get][lot][people][do.][finale][really][though][jackie][trashes][scene][plays][shopping!])
+v(2,10,11,15,16,17,19,20,21,22,23,25,26,27,28): -3.1747519969940186	 ([overrated.][stinks! ),][get][do.][finale][really][though][jackie][trashes][mall,][scene][head][every][time][go])
+v(2,4,6,7,8,10,11,12,15,16,17,18,19,20,21,23): 5.556430816650391	 ([overrated.][i've][seen][subtitled][version][stinks! ),][get][like][do.][finale][really][great][though][jackie][trashes][scene])
+v(0,1,3,5,9,13,14,16,17,20,22,24,25,26,27,28,29): 6.003152847290039	 ([find][bit][maybe][never][( dubbing][lot][people][finale][really][jackie][mall,][plays][head][every][time][go][shopping!])
+v(0,1,3,4,5,6,7,8,9,12,13,14,16,17,18,20,24,29): 7.193831443786621	 ([find][bit][maybe][i've][never][seen][subtitled][version][( dubbing][like][lot][people][finale][really][great][jackie][plays][shopping!])
+v(4,6,7,8,12,16,17,18,20,22,25,26,27,28): 7.254199028015137	 ([i've][seen][subtitled][version][like][finale][really][great][jackie][mall,][head][every][time][go])
+v(0,1,2,3,5,9,10,11,13,14,15,19,21,22,23,24,25,26,27,28,29): -4.281985282897949	 ([find][bit][overrated.][maybe][never][( dubbing][stinks! ),][get][lot][people][do.][though][trashes][mall,][scene][plays][head][every][time][go][shopping!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,19,21,23,24,29): 1.8705360889434814	 ([find][bit][overrated.][maybe][i've][never][seen][subtitled][version][( dubbing][stinks! ),][get][like][lot][people][do.][great][though][trashes][scene][plays][shopping!])
+v(2,4,6,7,8,10,11,12,15,18,19,21,22,23,25,26,27,28): -0.009938210248947144	 ([overrated.][i've][seen][subtitled][version][stinks! ),][get][like][do.][great][though][trashes][mall,][scene][head][every][time][go])
+v(0,1,3,4,5,6,7,8,9,12,13,14,18,22,24,25,26,27,28,29): 7.561342716217041	 ([find][bit][maybe][i've][never][seen][subtitled][version][( dubbing][like][lot][people][great][mall,][plays][head][every][time][go][shopping!])
+v(0,1,2,3,5,9,10,11,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,29): 0.2182195484638214	 ([find][bit][overrated.][maybe][never][( dubbing][stinks! ),][get][lot][people][do.][finale][really][though][jackie][trashes][mall,][scene][plays][head][every][time][go][shopping!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23,24,29): 7.476809024810791	 ([find][bit][overrated.][maybe][i've][never][seen][subtitled][version][( dubbing][stinks! ),][get][like][lot][people][do.][finale][really][great][though][jackie][trashes][scene][plays][shopping!])
+v(2,4,6,7,8,10,11,12,15,16,17,18,19,20,21,22,23,25,26,27,28): 5.4438066482543945	 ([overrated.][i've][seen][subtitled][version][stinks! ),][get][like][do.][finale][really][great][though][jackie][trashes][mall,][scene][head][every][time][go])
+v(0,1,3,4,5,6,7,8,9,12,13,14,16,17,18,20,22,24,25,26,27,28,29): 7.385645389556885	 ([find][bit][maybe][i've][never][seen][subtitled][version][( dubbing][like][lot][people][finale][really][great][jackie][mall,][plays][head][every][time][go][shopping!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,19,21,22,23,24,25,26,27,28,29): 3.7336416244506836	 ([find][bit][overrated.][maybe][i've][never][seen][subtitled][version][( dubbing][stinks! ),][get][like][lot][people][do.][great][though][trashes][mall,][scene][plays][head][every][time][go][shopping!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 7.880836009979248	 ([find][bit][overrated.][maybe][i've][never][seen][subtitled][version][( dubbing][stinks! ),][get][like][lot][people][do.][finale][really][great][though][jackie][trashes][mall,][scene][plays][head][every][time][go][shopping!])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 8.794807434082031, EP: 1.0	 ([find][bit][overrated.][maybe][i've][never][seen][subtitled][version][( dubbing][stinks! ),][get][like][lot][people][do.][finale][really][great][though][jackie][trashes][mall,][scene][plays][head][every][time][go][shopping!])
+v(4,6,7,8,12,16,17,18,20): 8.53125286102295, EP: 0.9700329303741455	 ([i've][seen][subtitled][version][like][finale][really][great][jackie])
+v(0,1,3,4,5,6,7,8,9,12,13,14,18,22,24,25,26,27,28,29): 8.475314140319824, EP: 0.9636725187301636	 ([find][bit][maybe][i've][never][seen][subtitled][version][( dubbing][like][lot][people][great][mall,][plays][head][every][time][go][shopping!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23,24,29): 8.390780448913574, EP: 0.9540607333183289	 ([find][bit][overrated.][maybe][i've][never][seen][subtitled][version][( dubbing][stinks! ),][get][like][lot][people][do.][finale][really][great][though][jackie][trashes][scene][plays][shopping!])
+v(0,1,3,4,5,6,7,8,9,12,13,14,16,17,18,20,22,24,25,26,27,28,29): 8.299616813659668, EP: 0.9436951279640198	 ([find][bit][maybe][i've][never][seen][subtitled][version][( dubbing][like][lot][people][finale][really][great][jackie][mall,][plays][head][every][time][go][shopping!])
+v(4,6,7,8,12,16,17,18,20,22,25,26,27,28): 8.168170928955078, EP: 0.9287492632865906	 ([i've][seen][subtitled][version][like][finale][really][great][jackie][mall,][head][every][time][go])
+v(0,1,3,4,5,6,7,8,9,12,13,14,16,17,18,20,24,29): 8.107803344726562, EP: 0.9218852519989014	 ([find][bit][maybe][i've][never][seen][subtitled][version][( dubbing][like][lot][people][finale][really][great][jackie][plays][shopping!])
+v(0,1,3,4,5,6,7,8,9,12,13,14,18,24,29): 7.215096473693848, EP: 0.8203814029693604	 ([find][bit][maybe][i've][never][seen][subtitled][version][( dubbing][like][lot][people][great][plays][shopping!])
+v(0,1,3,5,9,13,14,16,17,20,22,24,25,26,27,28,29): 6.9171247482299805, EP: 0.7865009903907776	 ([find][bit][maybe][never][( dubbing][lot][people][finale][really][jackie][mall,][plays][head][every][time][go][shopping!])
+v(2,4,6,7,8,10,11,12,15,16,17,18,19,20,21,23): 6.470402717590332, EP: 0.73570716381073	 ([overrated.][i've][seen][subtitled][version][stinks! ),][get][like][do.][finale][really][great][though][jackie][trashes][scene])
+v(2,4,6,7,8,10,11,12,15,16,17,18,19,20,21,22,23,25,26,27,28): 6.357778549194336, EP: 0.7229014039039612	 ([overrated.][i've][seen][subtitled][version][stinks! ),][get][like][do.][finale][really][great][though][jackie][trashes][mall,][scene][head][every][time][go])
+v(0,1,3,5,9,13,14,16,17,20,24,29): 5.530797004699707, EP: 0.6288707256317139	 ([find][bit][maybe][never][( dubbing][lot][people][finale][really][jackie][plays][shopping!])
+v(4,6,7,8,12,18,22,25,26,27,28): 5.380672454833984, EP: 0.611801028251648	 ([i've][seen][subtitled][version][like][great][mall,][head][every][time][go])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,19,21,22,23,24,25,26,27,28,29): 4.647613525390625, EP: 0.5284497141838074	 ([find][bit][overrated.][maybe][i've][never][seen][subtitled][version][( dubbing][stinks! ),][get][like][lot][people][do.][great][though][trashes][mall,][scene][plays][head][every][time][go][shopping!])
+v(4,6,7,8,12,18): 4.095531940460205, EP: 0.46567612886428833	 ([i've][seen][subtitled][version][like][great])
+v(2,10,11,15,16,17,19,20,21,23): -4.084693908691406, EP: -0.46444380283355713	 ([overrated.][stinks! ),][get][do.][finale][really][though][jackie][trashes][scene])
+v(2,10,11,15,19,21,23): -3.8952221870422363, EP: -0.4429002106189728	 ([overrated.][stinks! ),][get][do.][though][trashes][scene])
+v(2,10,11,15,19,21,22,23,25,26,27,28): -3.7150650024414062, EP: -0.42241573333740234	 ([overrated.][stinks! ),][get][do.][though][trashes][mall,][scene][head][every][time][go])
+v(0,1,2,3,5,9,10,11,13,14,15,19,21,22,23,24,25,26,27,28,29): -3.368013381958008, EP: -0.38295474648475647	 ([find][bit][overrated.][maybe][never][( dubbing][stinks! ),][get][lot][people][do.][though][trashes][mall,][scene][plays][head][every][time][go][shopping!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,19,21,23,24,29): 2.7845077514648438, EP: 0.31660816073417664	 ([find][bit][overrated.][maybe][i've][never][seen][subtitled][version][( dubbing][stinks! ),][get][like][lot][people][do.][great][though][trashes][scene][plays][shopping!])
+v(16,17,20,22,25,26,27,28): 2.699291706085205, EP: 0.30691879987716675	 ([finale][really][jackie][mall,][head][every][time][go])
+v(0,1,3,5,9,13,14,22,24,25,26,27,28,29): 2.5931715965270996, EP: 0.2948525846004486	 ([find][bit][maybe][never][( dubbing][lot][people][mall,][plays][head][every][time][go][shopping!])
+v(16,17,20): 2.333671808242798, EP: 0.26534655690193176	 ([finale][really][jackie])
+v(2,10,11,15,16,17,19,20,21,22,23,25,26,27,28): -2.2607803344726562, EP: -0.2570585310459137	 ([overrated.][stinks! ),][get][do.][finale][really][though][jackie][trashes][mall,][scene][head][every][time][go])
+v(0,1,2,3,5,9,10,11,13,14,15,19,21,23,24,29): -2.105499744415283, EP: -0.23940259218215942	 ([find][bit][overrated.][maybe][never][( dubbing][stinks! ),][get][lot][people][do.][though][trashes][scene][plays][shopping!])
+v(0,1,3,5,9,13,14,24,29): 2.043363571166992, EP: 0.23233750462532043	 ([find][bit][maybe][never][( dubbing][lot][people][plays][shopping!])
+v(0,1,2,3,5,9,10,11,13,14,15,16,17,19,20,21,23,24,29): -1.4150315523147583, EP: -0.160893976688385	 ([find][bit][overrated.][maybe][never][( dubbing][stinks! ),][get][lot][people][do.][finale][really][though][jackie][trashes][scene][plays][shopping!])
+v(0,1,2,3,5,9,10,11,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,29): 1.1321913003921509, EP: 0.1287340670824051	 ([find][bit][overrated.][maybe][never][( dubbing][stinks! ),][get][lot][people][do.][finale][really][though][jackie][trashes][mall,][scene][plays][head][every][time][go][shopping!])
+v(2,4,6,7,8,10,11,12,15,18,19,21,22,23,25,26,27,28): 0.9040335416793823, EP: 0.10279174149036407	 ([overrated.][i've][seen][subtitled][version][stinks! ),][get][like][do.][great][though][trashes][mall,][scene][head][every][time][go])
+v(22,25,26,27,28): 0.7498184442520142, EP: 0.08525694906711578	 ([mall,][head][every][time][go])
+v(2,4,6,7,8,10,11,12,15,18,19,21,23): 0.07825350761413574, EP: 0.008897693827748299	 ([overrated.][i've][seen][subtitled][version][stinks! ),][get][like][do.][great][though][trashes][scene])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

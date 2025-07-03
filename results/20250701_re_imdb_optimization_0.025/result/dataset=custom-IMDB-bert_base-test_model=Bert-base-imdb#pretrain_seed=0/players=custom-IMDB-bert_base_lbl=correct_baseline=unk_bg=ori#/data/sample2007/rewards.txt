@@ -1,0 +1,162 @@
+---------- Players ----------
+Player 0: huge
+Player 1: fan
+Player 2: original
+Player 3: cartoon
+Player 4: series,
+Player 5: looking
+Player 6: forward
+Player 7: finally
+Player 8: seeing
+Player 9: gadget
+Player 10: big
+Player 11: screen
+Player 12: - -
+Player 13: never
+Player 14: wildest
+Player 15: dreams
+Player 16: expected
+Player 17: something
+Player 18: extremely
+Player 19: extremely
+Player 20: terrible.
+Player 21: pace
+Player 22: way
+Player 23: fast,
+Player 24: plot,
+Player 25: ' wowser! '
+Player 26: -
+Player 27: hell
+Player 28: that??
+Player 29: ' wowsers!! '.
+---------- Rewards ----------
+v(): 0.7262090444564819	 ([])
+v(19,26,27): 5.063905715942383	 ([extremely][-][hell])
+v(11,17,18,25): 1.2838157415390015	 ([screen][something][extremely][' wowser! '])
+v(20,21,22): 6.610603332519531	 ([terrible.][pace][way])
+v(12,13,14,15,16): 0.300742506980896	 ([- -][never][wildest][dreams][expected])
+v(3,8,23,24,28): 6.175768852233887	 ([cartoon][seeing][fast,][plot,][that??])
+v(0,1,2,4,5,6,7,9,10,29): 4.484516143798828	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][' wowsers!! '.])
+v(11,17,18,19,25,26,27): 4.0115203857421875	 ([screen][something][extremely][extremely][' wowser! '][-][hell])
+v(19,20,21,22,26,27): 7.134735107421875	 ([extremely][terrible.][pace][way][-][hell])
+v(12,13,14,15,16,19,26,27): 6.394687652587891	 ([- -][never][wildest][dreams][expected][extremely][-][hell])
+v(3,8,19,23,24,26,27,28): 6.82716178894043	 ([cartoon][seeing][extremely][fast,][plot,][-][hell][that??])
+v(0,1,2,4,5,6,7,9,10,19,26,27,29): 6.141791343688965	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][extremely][-][hell][' wowsers!! '.])
+v(11,17,18,20,21,22,25): 7.465369701385498	 ([screen][something][extremely][terrible.][pace][way][' wowser! '])
+v(11,12,13,14,15,16,17,18,25): 4.161103248596191	 ([screen][- -][never][wildest][dreams][expected][something][extremely][' wowser! '])
+v(3,8,11,17,18,23,24,25,28): 6.059003829956055	 ([cartoon][seeing][screen][something][extremely][fast,][plot,][' wowser! '][that??])
+v(0,1,2,4,5,6,7,9,10,11,17,18,25,29): 3.7244110107421875	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][something][extremely][' wowser! '][' wowsers!! '.])
+v(12,13,14,15,16,20,21,22): 7.607595443725586	 ([- -][never][wildest][dreams][expected][terrible.][pace][way])
+v(3,8,20,21,22,23,24,28): 8.00149154663086	 ([cartoon][seeing][terrible.][pace][way][fast,][plot,][that??])
+v(0,1,2,4,5,6,7,9,10,20,21,22,29): 8.202256202697754	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][terrible.][pace][way][' wowsers!! '.])
+v(3,8,12,13,14,15,16,23,24,28): 6.9114556312561035	 ([cartoon][seeing][- -][never][wildest][dreams][expected][fast,][plot,][that??])
+v(0,1,2,4,5,6,7,9,10,12,13,14,15,16,29): 5.1805219650268555	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][- -][never][wildest][dreams][expected][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,23,24,28,29): 7.776193618774414	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][fast,][plot,][that??][' wowsers!! '.])
+v(11,17,18,19,20,21,22,25,26,27): 7.645956516265869	 ([screen][something][extremely][extremely][terrible.][pace][way][' wowser! '][-][hell])
+v(11,12,13,14,15,16,17,18,19,25,26,27): 6.947253227233887	 ([screen][- -][never][wildest][dreams][expected][something][extremely][extremely][' wowser! '][-][hell])
+v(3,8,11,17,18,19,23,24,25,26,27,28): 5.923431873321533	 ([cartoon][seeing][screen][something][extremely][extremely][fast,][plot,][' wowser! '][-][hell][that??])
+v(0,1,2,4,5,6,7,9,10,11,17,18,19,25,26,27,29): 5.863214015960693	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][something][extremely][extremely][' wowser! '][-][hell][' wowsers!! '.])
+v(12,13,14,15,16,19,20,21,22,26,27): 7.718264579772949	 ([- -][never][wildest][dreams][expected][extremely][terrible.][pace][way][-][hell])
+v(3,8,19,20,21,22,23,24,26,27,28): 8.15247917175293	 ([cartoon][seeing][extremely][terrible.][pace][way][fast,][plot,][-][hell][that??])
+v(0,1,2,4,5,6,7,9,10,19,20,21,22,26,27,29): 8.250774383544922	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][extremely][terrible.][pace][way][-][hell][' wowsers!! '.])
+v(3,8,12,13,14,15,16,19,23,24,26,27,28): 7.36037540435791	 ([cartoon][seeing][- -][never][wildest][dreams][expected][extremely][fast,][plot,][-][hell][that??])
+v(0,1,2,4,5,6,7,9,10,12,13,14,15,16,19,26,27,29): 7.277716159820557	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][- -][never][wildest][dreams][expected][extremely][-][hell][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,19,23,24,26,27,28,29): 7.776246547698975	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][extremely][fast,][plot,][-][hell][that??][' wowsers!! '.])
+v(11,12,13,14,15,16,17,18,20,21,22,25): 8.18741512298584	 ([screen][- -][never][wildest][dreams][expected][something][extremely][terrible.][pace][way][' wowser! '])
+v(3,8,11,17,18,20,21,22,23,24,25,28): 8.193525314331055	 ([cartoon][seeing][screen][something][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][that??])
+v(0,1,2,4,5,6,7,9,10,11,17,18,20,21,22,25,29): 8.35092544555664	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][something][extremely][terrible.][pace][way][' wowser! '][' wowsers!! '.])
+v(3,8,11,12,13,14,15,16,17,18,23,24,25,28): 7.370319366455078	 ([cartoon][seeing][screen][- -][never][wildest][dreams][expected][something][extremely][fast,][plot,][' wowser! '][that??])
+v(0,1,2,4,5,6,7,9,10,11,12,13,14,15,16,17,18,25,29): 6.725567817687988	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][' wowser! '][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,17,18,23,24,25,28,29): 7.967086315155029	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][something][extremely][fast,][plot,][' wowser! '][that??][' wowsers!! '.])
+v(3,8,12,13,14,15,16,20,21,22,23,24,28): 8.295026779174805	 ([cartoon][seeing][- -][never][wildest][dreams][expected][terrible.][pace][way][fast,][plot,][that??])
+v(0,1,2,4,5,6,7,9,10,12,13,14,15,16,20,21,22,29): 8.35098648071289	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][- -][never][wildest][dreams][expected][terrible.][pace][way][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,20,21,22,23,24,28,29): 8.451656341552734	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][terrible.][pace][way][fast,][plot,][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,23,24,28,29): 7.837742805480957	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][- -][never][wildest][dreams][expected][fast,][plot,][that??][' wowsers!! '.])
+v(11,12,13,14,15,16,17,18,19,20,21,22,25,26,27): 8.184730529785156	 ([screen][- -][never][wildest][dreams][expected][something][extremely][extremely][terrible.][pace][way][' wowser! '][-][hell])
+v(3,8,11,17,18,19,20,21,22,23,24,25,26,27,28): 8.25185775756836	 ([cartoon][seeing][screen][something][extremely][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][-][hell][that??])
+v(0,1,2,4,5,6,7,9,10,11,17,18,19,20,21,22,25,26,27,29): 8.392570495605469	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][something][extremely][extremely][terrible.][pace][way][' wowser! '][-][hell][' wowsers!! '.])
+v(3,8,11,12,13,14,15,16,17,18,19,23,24,25,26,27,28): 7.522828102111816	 ([cartoon][seeing][screen][- -][never][wildest][dreams][expected][something][extremely][extremely][fast,][plot,][' wowser! '][-][hell][that??])
+v(0,1,2,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,25,26,27,29): 7.54542350769043	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][extremely][' wowser! '][-][hell][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,17,18,19,23,24,25,26,27,28,29): 7.951406002044678	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][something][extremely][extremely][fast,][plot,][' wowser! '][-][hell][that??][' wowsers!! '.])
+v(3,8,12,13,14,15,16,19,20,21,22,23,24,26,27,28): 8.425562858581543	 ([cartoon][seeing][- -][never][wildest][dreams][expected][extremely][terrible.][pace][way][fast,][plot,][-][hell][that??])
+v(0,1,2,4,5,6,7,9,10,12,13,14,15,16,19,20,21,22,26,27,29): 8.422552108764648	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][- -][never][wildest][dreams][expected][extremely][terrible.][pace][way][-][hell][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,19,20,21,22,23,24,26,27,28,29): 8.520147323608398	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][extremely][terrible.][pace][way][fast,][plot,][-][hell][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,19,23,24,26,27,28,29): 8.029685020446777	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][- -][never][wildest][dreams][expected][extremely][fast,][plot,][-][hell][that??][' wowsers!! '.])
+v(3,8,11,12,13,14,15,16,17,18,20,21,22,23,24,25,28): 8.437505722045898	 ([cartoon][seeing][screen][- -][never][wildest][dreams][expected][something][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][that??])
+v(0,1,2,4,5,6,7,9,10,11,12,13,14,15,16,17,18,20,21,22,25,29): 8.474721908569336	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][terrible.][pace][way][' wowser! '][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,17,18,20,21,22,23,24,25,28,29): 8.522398948669434	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][something][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,23,24,25,28,29): 8.294635772705078	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][fast,][plot,][' wowser! '][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,20,21,22,23,24,28,29): 8.520256996154785	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][- -][never][wildest][dreams][expected][terrible.][pace][way][fast,][plot,][that??][' wowsers!! '.])
+v(3,8,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.426900863647461	 ([cartoon][seeing][screen][- -][never][wildest][dreams][expected][something][extremely][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][-][hell][that??])
+v(0,1,2,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,25,26,27,29): 8.505485534667969	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][extremely][terrible.][pace][way][' wowser! '][-][hell][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,17,18,19,20,21,22,23,24,25,26,27,28,29): 8.538238525390625	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][something][extremely][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][-][hell][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,23,24,25,26,27,28,29): 8.3838472366333	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][extremely][fast,][plot,][' wowser! '][-][hell][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,19,20,21,22,23,24,26,27,28,29): 8.606505393981934	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][- -][never][wildest][dreams][expected][extremely][terrible.][pace][way][fast,][plot,][-][hell][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,23,24,25,28,29): 8.598793029785156	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 8.59811782836914	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][-][hell][that??][' wowsers!! '.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,19,20,21,22,23,24,26,27,28,29): 7.880296230316162, EP: 1.0010654926300049	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][- -][never][wildest][dreams][expected][extremely][terrible.][pace][way][fast,][plot,][-][hell][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,23,24,25,28,29): 7.872583866119385, EP: 1.0000858306884766	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 7.871908664703369, EP: 1.0	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][-][hell][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,17,18,19,20,21,22,23,24,25,26,27,28,29): 7.8120293617248535, EP: 0.9923933148384094	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][something][extremely][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][-][hell][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,17,18,20,21,22,23,24,25,28,29): 7.796189785003662, EP: 0.990381121635437	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][something][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,20,21,22,23,24,28,29): 7.794047832489014, EP: 0.9901090264320374	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][- -][never][wildest][dreams][expected][terrible.][pace][way][fast,][plot,][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,19,20,21,22,23,24,26,27,28,29): 7.793938159942627, EP: 0.9900950789451599	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][extremely][terrible.][pace][way][fast,][plot,][-][hell][that??][' wowsers!! '.])
+v(0,1,2,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,25,26,27,29): 7.779276371002197, EP: 0.9882325530052185	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][extremely][terrible.][pace][way][' wowser! '][-][hell][' wowsers!! '.])
+v(0,1,2,4,5,6,7,9,10,11,12,13,14,15,16,17,18,20,21,22,25,29): 7.7485127449035645, EP: 0.9843245148658752	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][terrible.][pace][way][' wowser! '][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,20,21,22,23,24,28,29): 7.725447177886963, EP: 0.9813944101333618	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][terrible.][pace][way][fast,][plot,][that??][' wowsers!! '.])
+v(3,8,11,12,13,14,15,16,17,18,20,21,22,23,24,25,28): 7.711296558380127, EP: 0.9795967936515808	 ([cartoon][seeing][screen][- -][never][wildest][dreams][expected][something][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][that??])
+v(3,8,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 7.7006916999816895, EP: 0.9782496094703674	 ([cartoon][seeing][screen][- -][never][wildest][dreams][expected][something][extremely][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][-][hell][that??])
+v(3,8,12,13,14,15,16,19,20,21,22,23,24,26,27,28): 7.6993536949157715, EP: 0.9780796766281128	 ([cartoon][seeing][- -][never][wildest][dreams][expected][extremely][terrible.][pace][way][fast,][plot,][-][hell][that??])
+v(0,1,2,4,5,6,7,9,10,12,13,14,15,16,19,20,21,22,26,27,29): 7.696342945098877, EP: 0.9776971936225891	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][- -][never][wildest][dreams][expected][extremely][terrible.][pace][way][-][hell][' wowsers!! '.])
+v(0,1,2,4,5,6,7,9,10,11,17,18,19,20,21,22,25,26,27,29): 7.666361331939697, EP: 0.9738885164260864	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][something][extremely][extremely][terrible.][pace][way][' wowser! '][-][hell][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,23,24,25,26,27,28,29): 7.657638072967529, EP: 0.9727803468704224	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][extremely][fast,][plot,][' wowser! '][-][hell][that??][' wowsers!! '.])
+v(0,1,2,4,5,6,7,9,10,12,13,14,15,16,20,21,22,29): 7.624777317047119, EP: 0.9686059355735779	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][- -][never][wildest][dreams][expected][terrible.][pace][way][' wowsers!! '.])
+v(0,1,2,4,5,6,7,9,10,11,17,18,20,21,22,25,29): 7.624716281890869, EP: 0.9685981869697571	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][something][extremely][terrible.][pace][way][' wowser! '][' wowsers!! '.])
+v(3,8,12,13,14,15,16,20,21,22,23,24,28): 7.568817615509033, EP: 0.9614971280097961	 ([cartoon][seeing][- -][never][wildest][dreams][expected][terrible.][pace][way][fast,][plot,][that??])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,23,24,25,28,29): 7.568426609039307, EP: 0.9614474773406982	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][fast,][plot,][' wowser! '][that??][' wowsers!! '.])
+v(3,8,11,17,18,19,20,21,22,23,24,25,26,27,28): 7.525648593902588, EP: 0.9560132026672363	 ([cartoon][seeing][screen][something][extremely][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][-][hell][that??])
+v(0,1,2,4,5,6,7,9,10,19,20,21,22,26,27,29): 7.52456521987915, EP: 0.95587557554245	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][extremely][terrible.][pace][way][-][hell][' wowsers!! '.])
+v(0,1,2,4,5,6,7,9,10,20,21,22,29): 7.476047039031982, EP: 0.9497120976448059	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][terrible.][pace][way][' wowsers!! '.])
+v(3,8,11,17,18,20,21,22,23,24,25,28): 7.467316150665283, EP: 0.9486029744148254	 ([cartoon][seeing][screen][something][extremely][terrible.][pace][way][fast,][plot,][' wowser! '][that??])
+v(11,12,13,14,15,16,17,18,20,21,22,25): 7.461205959320068, EP: 0.9478268027305603	 ([screen][- -][never][wildest][dreams][expected][something][extremely][terrible.][pace][way][' wowser! '])
+v(11,12,13,14,15,16,17,18,19,20,21,22,25,26,27): 7.458521366119385, EP: 0.9474857449531555	 ([screen][- -][never][wildest][dreams][expected][something][extremely][extremely][terrible.][pace][way][' wowser! '][-][hell])
+v(3,8,19,20,21,22,23,24,26,27,28): 7.426270008087158, EP: 0.9433887600898743	 ([cartoon][seeing][extremely][terrible.][pace][way][fast,][plot,][-][hell][that??])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,19,23,24,26,27,28,29): 7.303475856781006, EP: 0.9277896881103516	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][- -][never][wildest][dreams][expected][extremely][fast,][plot,][-][hell][that??][' wowsers!! '.])
+v(3,8,20,21,22,23,24,28): 7.275282382965088, EP: 0.9242081642150879	 ([cartoon][seeing][terrible.][pace][way][fast,][plot,][that??])
+v(0,1,2,3,4,5,6,7,8,9,10,11,17,18,23,24,25,28,29): 7.240877151489258, EP: 0.9198375344276428	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][something][extremely][fast,][plot,][' wowser! '][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,17,18,19,23,24,25,26,27,28,29): 7.225196838378906, EP: 0.917845606803894	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][screen][something][extremely][extremely][fast,][plot,][' wowser! '][-][hell][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,23,24,28,29): 7.1115336418151855, EP: 0.9034065008163452	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][- -][never][wildest][dreams][expected][fast,][plot,][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,19,23,24,26,27,28,29): 7.050037384033203, EP: 0.8955944180488586	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][extremely][fast,][plot,][-][hell][that??][' wowsers!! '.])
+v(0,1,2,3,4,5,6,7,8,9,10,23,24,28,29): 7.049984455108643, EP: 0.895587682723999	 ([huge][fan][original][cartoon][series,][looking][forward][finally][seeing][gadget][big][fast,][plot,][that??][' wowsers!! '.])
+v(12,13,14,15,16,19,20,21,22,26,27): 6.992055416107178, EP: 0.888228714466095	 ([- -][never][wildest][dreams][expected][extremely][terrible.][pace][way][-][hell])
+v(11,17,18,19,20,21,22,25,26,27): 6.919747352600098, EP: 0.8790431618690491	 ([screen][something][extremely][extremely][terrible.][pace][way][' wowser! '][-][hell])
+v(12,13,14,15,16,20,21,22): 6.8813862800598145, EP: 0.8741700053215027	 ([- -][never][wildest][dreams][expected][terrible.][pace][way])
+v(0,1,2,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,25,26,27,29): 6.819214344024658, EP: 0.8662720322608948	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][extremely][' wowser! '][-][hell][' wowsers!! '.])
+v(3,8,11,12,13,14,15,16,17,18,19,23,24,25,26,27,28): 6.796618938446045, EP: 0.8634016513824463	 ([cartoon][seeing][screen][- -][never][wildest][dreams][expected][something][extremely][extremely][fast,][plot,][' wowser! '][-][hell][that??])
+v(11,17,18,20,21,22,25): 6.739160537719727, EP: 0.856102466583252	 ([screen][something][extremely][terrible.][pace][way][' wowser! '])
+v(3,8,11,12,13,14,15,16,17,18,23,24,25,28): 6.644110202789307, EP: 0.8440278768539429	 ([cartoon][seeing][screen][- -][never][wildest][dreams][expected][something][extremely][fast,][plot,][' wowser! '][that??])
+v(3,8,12,13,14,15,16,19,23,24,26,27,28): 6.634166240692139, EP: 0.8427646160125732	 ([cartoon][seeing][- -][never][wildest][dreams][expected][extremely][fast,][plot,][-][hell][that??])
+v(0,1,2,4,5,6,7,9,10,12,13,14,15,16,19,26,27,29): 6.551506996154785, EP: 0.8322641253471375	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][- -][never][wildest][dreams][expected][extremely][-][hell][' wowsers!! '.])
+v(19,20,21,22,26,27): 6.4085259437561035, EP: 0.8141006231307983	 ([extremely][terrible.][pace][way][-][hell])
+v(11,12,13,14,15,16,17,18,19,25,26,27): 6.221044063568115, EP: 0.7902840971946716	 ([screen][- -][never][wildest][dreams][expected][something][extremely][extremely][' wowser! '][-][hell])
+v(3,8,12,13,14,15,16,23,24,28): 6.185246467590332, EP: 0.7857365608215332	 ([cartoon][seeing][- -][never][wildest][dreams][expected][fast,][plot,][that??])
+v(3,8,19,23,24,26,27,28): 6.100952625274658, EP: 0.7750284075737	 ([cartoon][seeing][extremely][fast,][plot,][-][hell][that??])
+v(0,1,2,4,5,6,7,9,10,11,12,13,14,15,16,17,18,25,29): 5.999358654022217, EP: 0.7621225118637085	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][- -][never][wildest][dreams][expected][something][extremely][' wowser! '][' wowsers!! '.])
+v(20,21,22): 5.88439416885376, EP: 0.7475181221961975	 ([terrible.][pace][way])
+v(12,13,14,15,16,19,26,27): 5.668478488922119, EP: 0.7200894355773926	 ([- -][never][wildest][dreams][expected][extremely][-][hell])
+v(3,8,23,24,28): 5.449559688568115, EP: 0.6922793388366699	 ([cartoon][seeing][fast,][plot,][that??])
+v(0,1,2,4,5,6,7,9,10,19,26,27,29): 5.415582180023193, EP: 0.6879630088806152	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][extremely][-][hell][' wowsers!! '.])
+v(3,8,11,17,18,23,24,25,28): 5.332794666290283, EP: 0.677446186542511	 ([cartoon][seeing][screen][something][extremely][fast,][plot,][' wowser! '][that??])
+v(3,8,11,17,18,19,23,24,25,26,27,28): 5.197222709655762, EP: 0.6602239608764648	 ([cartoon][seeing][screen][something][extremely][extremely][fast,][plot,][' wowser! '][-][hell][that??])
+v(0,1,2,4,5,6,7,9,10,11,17,18,19,25,26,27,29): 5.137004852294922, EP: 0.6525742411613464	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][something][extremely][extremely][' wowser! '][-][hell][' wowsers!! '.])
+v(0,1,2,4,5,6,7,9,10,12,13,14,15,16,29): 4.454312801361084, EP: 0.5658491253852844	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][- -][never][wildest][dreams][expected][' wowsers!! '.])
+v(19,26,27): 4.337696552276611, EP: 0.5510349273681641	 ([extremely][-][hell])
+v(0,1,2,4,5,6,7,9,10,29): 3.7583069801330566, EP: 0.4774327576160431	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][' wowsers!! '.])
+v(11,12,13,14,15,16,17,18,25): 3.43489408493042, EP: 0.4363483190536499	 ([screen][- -][never][wildest][dreams][expected][something][extremely][' wowser! '])
+v(11,17,18,19,25,26,27): 3.285311222076416, EP: 0.41734620928764343	 ([screen][something][extremely][extremely][' wowser! '][-][hell])
+v(0,1,2,4,5,6,7,9,10,11,17,18,25,29): 2.998201847076416, EP: 0.38087356090545654	 ([huge][fan][original][series,][looking][forward][finally][gadget][big][screen][something][extremely][' wowser! '][' wowsers!! '.])
+v(11,17,18,25): 0.5576066970825195, EP: 0.07083500921726227	 ([screen][something][extremely][' wowser! '])
+v(12,13,14,15,16): -0.42546653747558594, EP: -0.05404871329665184	 ([- -][never][wildest][dreams][expected])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,106 @@
+---------- Players ----------
+Player 0: film
+Player 1: advertised
+Player 2: clever
+Player 3: romantic
+Player 4: comedy.
+Player 5: neither
+Player 6: clever
+Player 7: romantic
+Player 8: definitely
+Player 9: effective
+Player 10: comedy.
+Player 11: fortunes
+Player 12: well
+Player 13: meaning
+Player 14: yet
+Player 15: pathetic
+Player 16: character,
+Player 17: tom
+Player 18: ",
+Player 19: oscillate
+Player 20: one
+Player 21: extremely
+Player 22: embarrassing
+Player 23: disaster
+Player 24: another.
+Player 25: saving
+Player 26: graces
+Player 27: competent
+Player 28: performance
+Player 29: toni
+Player 30: collete
+Player 31: frequency
+Player 32: glimpse
+Player 33: paltrow's
+Player 34: pleasant
+Player 35: face.
+Player 36: overall,
+Player 37: avoided! "
+---------- Rewards ----------
+v(): -2.620136022567749	 ([])
+v(1,2,3,4,5,6,7,8,37): 5.224048614501953	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][avoided! "])
+v(9,18,24): 2.9941296577453613	 ([effective][",][another.])
+v(10,11,12,13,14,15,16,17,19,20,21,22,23): 3.4649369716644287	 ([comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster])
+v(25,30,31,32,33,34,35,36): -2.6741409301757812	 ([saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(0,26,27,28,29): 4.707184791564941	 ([film][graces][competent][performance][toni])
+v(1,2,3,4,5,6,7,8,9,18,24,37): 7.69511604309082	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][",][another.][avoided! "])
+v(1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,19,20,21,22,23,37): 7.630120277404785	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster][avoided! "])
+v(1,2,3,4,5,6,7,8,25,30,31,32,33,34,35,36,37): 7.608442783355713	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(0,1,2,3,4,5,6,7,8,26,27,28,29,37): 7.9354352951049805	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][graces][competent][performance][toni][avoided! "])
+v(9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 7.613155364990234	 ([effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.])
+v(9,18,24,25,30,31,32,33,34,35,36): 6.373159885406494	 ([effective][",][another.][saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(0,9,18,24,26,27,28,29): 7.677742958068848	 ([film][effective][",][another.][graces][competent][performance][toni])
+v(10,11,12,13,14,15,16,17,19,20,21,22,23,25,30,31,32,33,34,35,36): 6.642685890197754	 ([comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster][saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(0,10,11,12,13,14,15,16,17,19,20,21,22,23,26,27,28,29): 8.1156644821167	 ([film][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster][graces][competent][performance][toni])
+v(0,25,26,27,28,29,30,31,32,33,34,35,36): 7.700133323669434	 ([film][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,37): 8.259109497070312	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.][avoided! "])
+v(1,2,3,4,5,6,7,8,9,18,24,25,30,31,32,33,34,35,36,37): 8.436441421508789	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][",][another.][saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(0,1,2,3,4,5,6,7,8,9,18,24,26,27,28,29,37): 8.257122993469238	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][",][another.][graces][competent][performance][toni][avoided! "])
+v(1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,19,20,21,22,23,25,30,31,32,33,34,35,36,37): 8.52117919921875	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster][saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,19,20,21,22,23,26,27,28,29,37): 8.518463134765625	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster][graces][competent][performance][toni][avoided! "])
+v(0,1,2,3,4,5,6,7,8,25,26,27,28,29,30,31,32,33,34,35,36,37): 8.512770652770996	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,30,31,32,33,34,35,36): 8.09717082977295	 ([effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.][saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(0,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29): 8.153299331665039	 ([film][effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.][graces][competent][performance][toni])
+v(0,9,18,24,25,26,27,28,29,30,31,32,33,34,35,36): 8.441957473754883	 ([film][effective][",][another.][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(0,10,11,12,13,14,15,16,17,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36): 8.580572128295898	 ([film][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,30,31,32,33,34,35,36,37): 8.654748916625977	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.][saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,37): 8.547074317932129	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.][graces][competent][performance][toni][avoided! "])
+v(0,1,2,3,4,5,6,7,8,9,18,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 8.632261276245117	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][",][another.][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37): 8.81271743774414	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(0,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 8.32380485534668	 ([film][effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 8.729354858398438	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37): 11.432853698730469, EP: 1.0073450803756714	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 11.349491119384766, EP: 1.0	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,30,31,32,33,34,35,36,37): 11.274885177612305, EP: 0.993426501750946	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.][saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(0,1,2,3,4,5,6,7,8,9,18,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 11.252397537231445, EP: 0.9914451241493225	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][",][another.][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(0,10,11,12,13,14,15,16,17,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36): 11.200708389282227, EP: 0.9868907928466797	 ([film][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,37): 11.167210578918457, EP: 0.9839393496513367	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.][graces][competent][performance][toni][avoided! "])
+v(1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,19,20,21,22,23,25,30,31,32,33,34,35,36,37): 11.141315460205078, EP: 0.9816576838493347	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster][saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,19,20,21,22,23,26,27,28,29,37): 11.138599395751953, EP: 0.9814183712005615	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster][graces][competent][performance][toni][avoided! "])
+v(0,1,2,3,4,5,6,7,8,25,26,27,28,29,30,31,32,33,34,35,36,37): 11.132906913757324, EP: 0.9809168577194214	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(0,9,18,24,25,26,27,28,29,30,31,32,33,34,35,36): 11.062093734741211, EP: 0.9746775031089783	 ([film][effective][",][another.][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(1,2,3,4,5,6,7,8,9,18,24,25,30,31,32,33,34,35,36,37): 11.056577682495117, EP: 0.9741914868354797	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][",][another.][saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(0,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 10.943941116333008, EP: 0.9642671346664429	 ([film][effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,37): 10.87924575805664, EP: 0.9585668444633484	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.][avoided! "])
+v(0,1,2,3,4,5,6,7,8,9,18,24,26,27,28,29,37): 10.877259254455566, EP: 0.9583917856216431	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][",][another.][graces][competent][performance][toni][avoided! "])
+v(0,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29): 10.773435592651367, EP: 0.94924396276474	 ([film][effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.][graces][competent][performance][toni])
+v(0,10,11,12,13,14,15,16,17,19,20,21,22,23,26,27,28,29): 10.735800743103027, EP: 0.9459279179573059	 ([film][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster][graces][competent][performance][toni])
+v(9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,30,31,32,33,34,35,36): 10.717307090759277, EP: 0.9442984461784363	 ([effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.][saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(0,1,2,3,4,5,6,7,8,26,27,28,29,37): 10.555571556091309, EP: 0.9300479888916016	 ([film][advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][graces][competent][performance][toni][avoided! "])
+v(0,25,26,27,28,29,30,31,32,33,34,35,36): 10.320269584655762, EP: 0.9093156456947327	 ([film][saving][graces][competent][performance][toni][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(1,2,3,4,5,6,7,8,9,18,24,37): 10.315252304077148, EP: 0.9088735580444336	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][effective][",][another.][avoided! "])
+v(0,9,18,24,26,27,28,29): 10.297879219055176, EP: 0.907342791557312	 ([film][effective][",][another.][graces][competent][performance][toni])
+v(1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,19,20,21,22,23,37): 10.250256538391113, EP: 0.9031468033790588	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster][avoided! "])
+v(9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 10.233291625976562, EP: 0.9016520380973816	 ([effective][comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][",][oscillate][one][extremely][embarrassing][disaster][another.])
+v(1,2,3,4,5,6,7,8,25,30,31,32,33,34,35,36,37): 10.228578567504883, EP: 0.9012367725372314	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,][avoided! "])
+v(10,11,12,13,14,15,16,17,19,20,21,22,23,25,30,31,32,33,34,35,36): 9.262822151184082, EP: 0.8161442875862122	 ([comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster][saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(9,18,24,25,30,31,32,33,34,35,36): 8.993295669555664, EP: 0.7923963665962219	 ([effective][",][another.][saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(1,2,3,4,5,6,7,8,37): 7.844184875488281, EP: 0.691148579120636	 ([advertised][clever][romantic][comedy.][neither][clever][romantic][definitely][avoided! "])
+v(0,26,27,28,29): 7.3273210525512695, EP: 0.6456078886985779	 ([film][graces][competent][performance][toni])
+v(10,11,12,13,14,15,16,17,19,20,21,22,23): 6.085072994232178, EP: 0.5361537933349609	 ([comedy.][fortunes][well][meaning][yet][pathetic][character,][tom][oscillate][one][extremely][embarrassing][disaster])
+v(9,18,24): 5.614265441894531, EP: 0.494671106338501	 ([effective][",][another.])
+v(25,30,31,32,33,34,35,36): -0.05400490760803223, EP: -0.0047583552077412605	 ([saving][collete][frequency][glimpse][paltrow's][pleasant][face.][overall,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

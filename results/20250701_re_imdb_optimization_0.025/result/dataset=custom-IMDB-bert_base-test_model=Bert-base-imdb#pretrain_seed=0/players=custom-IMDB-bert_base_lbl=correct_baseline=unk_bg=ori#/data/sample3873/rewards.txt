@@ -1,0 +1,93 @@
+---------- Players ----------
+Player 0: ronald
+Player 1: colman
+Player 2: gives
+Player 3: terrific
+Player 4: performance
+Player 5: stage
+Player 6: actor
+Player 7: really
+Player 8: gets
+Player 9: work.
+Player 10: plays
+Player 11: othello
+Player 12: stage
+Player 13: takes
+Player 14: persona
+Player 15: dire
+Player 16: results.
+Player 17: good
+Player 18: film
+Player 19: great
+Player 20: supporting
+Player 21: cast.
+Player 22: well
+Player 23: worth
+Player 24: watching.
+---------- Rewards ----------
+v(): -0.5206091403961182	 ([])
+v(0,7,24): -1.5517756938934326	 ([ronald][really][watching.])
+v(18,19,20,21,22,23): 5.110624313354492	 ([film][great][supporting][cast.][well][worth])
+v(1,2,5,6,8): -1.2485777139663696	 ([colman][gives][stage][actor][gets])
+v(12,14,15,16,17): -6.120763301849365	 ([stage][persona][dire][results.][good])
+v(3,4,9,10,11,13): 7.910290718078613	 ([terrific][performance][work.][plays][othello][takes])
+v(0,7,18,19,20,21,22,23,24): 5.87837028503418	 ([ronald][really][film][great][supporting][cast.][well][worth][watching.])
+v(0,1,2,5,6,7,8,24): 1.0052427053451538	 ([ronald][colman][gives][stage][actor][really][gets][watching.])
+v(0,7,12,14,15,16,17,24): -6.220730304718018	 ([ronald][really][stage][persona][dire][results.][good][watching.])
+v(0,3,4,7,9,10,11,13,24): 8.0714693069458	 ([ronald][terrific][performance][really][work.][plays][othello][takes][watching.])
+v(1,2,5,6,8,18,19,20,21,22,23): 3.000521183013916	 ([colman][gives][stage][actor][gets][film][great][supporting][cast.][well][worth])
+v(12,14,15,16,17,18,19,20,21,22,23): 1.2054516077041626	 ([stage][persona][dire][results.][good][film][great][supporting][cast.][well][worth])
+v(3,4,9,10,11,13,18,19,20,21,22,23): 7.613430023193359	 ([terrific][performance][work.][plays][othello][takes][film][great][supporting][cast.][well][worth])
+v(1,2,5,6,8,12,14,15,16,17): -5.668341636657715	 ([colman][gives][stage][actor][gets][stage][persona][dire][results.][good])
+v(1,2,3,4,5,6,8,9,10,11,13): 6.361206531524658	 ([colman][gives][terrific][performance][stage][actor][gets][work.][plays][othello][takes])
+v(3,4,9,10,11,12,13,14,15,16,17): 6.005687713623047	 ([terrific][performance][work.][plays][othello][stage][takes][persona][dire][results.][good])
+v(0,1,2,5,6,7,8,18,19,20,21,22,23,24): 5.247428894042969	 ([ronald][colman][gives][stage][actor][really][gets][film][great][supporting][cast.][well][worth][watching.])
+v(0,7,12,14,15,16,17,18,19,20,21,22,23,24): 5.5305094718933105	 ([ronald][really][stage][persona][dire][results.][good][film][great][supporting][cast.][well][worth][watching.])
+v(0,3,4,7,9,10,11,13,18,19,20,21,22,23,24): 7.621435642242432	 ([ronald][terrific][performance][really][work.][plays][othello][takes][film][great][supporting][cast.][well][worth][watching.])
+v(0,1,2,5,6,7,8,12,14,15,16,17,24): -2.042280673980713	 ([ronald][colman][gives][stage][actor][really][gets][stage][persona][dire][results.][good][watching.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,24): 8.188079833984375	 ([ronald][colman][gives][terrific][performance][stage][actor][really][gets][work.][plays][othello][takes][watching.])
+v(0,3,4,7,9,10,11,12,13,14,15,16,17,24): 6.560741424560547	 ([ronald][terrific][performance][really][work.][plays][othello][stage][takes][persona][dire][results.][good][watching.])
+v(1,2,5,6,8,12,14,15,16,17,18,19,20,21,22,23): 3.849280834197998	 ([colman][gives][stage][actor][gets][stage][persona][dire][results.][good][film][great][supporting][cast.][well][worth])
+v(1,2,3,4,5,6,8,9,10,11,13,18,19,20,21,22,23): 5.881772518157959	 ([colman][gives][terrific][performance][stage][actor][gets][work.][plays][othello][takes][film][great][supporting][cast.][well][worth])
+v(3,4,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23): 6.5985212326049805	 ([terrific][performance][work.][plays][othello][stage][takes][persona][dire][results.][good][film][great][supporting][cast.][well][worth])
+v(1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17): 0.6699653267860413	 ([colman][gives][terrific][performance][stage][actor][gets][work.][plays][othello][stage][takes][persona][dire][results.][good])
+v(0,1,2,5,6,7,8,12,14,15,16,17,18,19,20,21,22,23,24): 6.756129264831543	 ([ronald][colman][gives][stage][actor][really][gets][stage][persona][dire][results.][good][film][great][supporting][cast.][well][worth][watching.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,18,19,20,21,22,23,24): 7.7027812004089355	 ([ronald][colman][gives][terrific][performance][stage][actor][really][gets][work.][plays][othello][takes][film][great][supporting][cast.][well][worth][watching.])
+v(0,3,4,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 6.876007556915283	 ([ronald][terrific][performance][really][work.][plays][othello][stage][takes][persona][dire][results.][good][film][great][supporting][cast.][well][worth][watching.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,24): 6.755656719207764	 ([ronald][colman][gives][terrific][performance][stage][actor][really][gets][work.][plays][othello][stage][takes][persona][dire][results.][good][watching.])
+v(1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23): 6.009552955627441	 ([colman][gives][terrific][performance][stage][actor][gets][work.][plays][othello][stage][takes][persona][dire][results.][good][film][great][supporting][cast.][well][worth])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 7.552460193634033	 ([ronald][colman][gives][terrific][performance][stage][actor][really][gets][work.][plays][othello][stage][takes][persona][dire][results.][good][film][great][supporting][cast.][well][worth][watching.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,24): 8.708688735961914, EP: 1.0787333250045776	 ([ronald][colman][gives][terrific][performance][stage][actor][really][gets][work.][plays][othello][takes][watching.])
+v(0,3,4,7,9,10,11,13,24): 8.59207820892334, EP: 1.064288854598999	 ([ronald][terrific][performance][really][work.][plays][othello][takes][watching.])
+v(3,4,9,10,11,13): 8.430899620056152, EP: 1.0443239212036133	 ([terrific][performance][work.][plays][othello][takes])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,18,19,20,21,22,23,24): 8.223390579223633, EP: 1.0186200141906738	 ([ronald][colman][gives][terrific][performance][stage][actor][really][gets][work.][plays][othello][takes][film][great][supporting][cast.][well][worth][watching.])
+v(0,3,4,7,9,10,11,13,18,19,20,21,22,23,24): 8.142045021057129, EP: 1.008543848991394	 ([ronald][terrific][performance][really][work.][plays][othello][takes][film][great][supporting][cast.][well][worth][watching.])
+v(3,4,9,10,11,13,18,19,20,21,22,23): 8.134038925170898, EP: 1.007552146911621	 ([terrific][performance][work.][plays][othello][takes][film][great][supporting][cast.][well][worth])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 8.07306957244873, EP: 1.0	 ([ronald][colman][gives][terrific][performance][stage][actor][really][gets][work.][plays][othello][stage][takes][persona][dire][results.][good][film][great][supporting][cast.][well][worth][watching.])
+v(0,3,4,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 7.3966169357299805, EP: 0.9162087440490723	 ([ronald][terrific][performance][really][work.][plays][othello][stage][takes][persona][dire][results.][good][film][great][supporting][cast.][well][worth][watching.])
+v(0,1,2,5,6,7,8,12,14,15,16,17,18,19,20,21,22,23,24): 7.276738166809082, EP: 0.901359498500824	 ([ronald][colman][gives][stage][actor][really][gets][stage][persona][dire][results.][good][film][great][supporting][cast.][well][worth][watching.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,24): 7.276266098022461, EP: 0.9013010263442993	 ([ronald][colman][gives][terrific][performance][stage][actor][really][gets][work.][plays][othello][stage][takes][persona][dire][results.][good][watching.])
+v(3,4,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23): 7.1191301345825195, EP: 0.8818368315696716	 ([terrific][performance][work.][plays][othello][stage][takes][persona][dire][results.][good][film][great][supporting][cast.][well][worth])
+v(0,3,4,7,9,10,11,12,13,14,15,16,17,24): 7.081350326538086, EP: 0.8771570920944214	 ([ronald][terrific][performance][really][work.][plays][othello][stage][takes][persona][dire][results.][good][watching.])
+v(1,2,3,4,5,6,8,9,10,11,13): 6.8818159103393555, EP: 0.8524410724639893	 ([colman][gives][terrific][performance][stage][actor][gets][work.][plays][othello][takes])
+v(1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23): 6.5301618576049805, EP: 0.8088821768760681	 ([colman][gives][terrific][performance][stage][actor][gets][work.][plays][othello][stage][takes][persona][dire][results.][good][film][great][supporting][cast.][well][worth])
+v(3,4,9,10,11,12,13,14,15,16,17): 6.526296615600586, EP: 0.8084033727645874	 ([terrific][performance][work.][plays][othello][stage][takes][persona][dire][results.][good])
+v(1,2,3,4,5,6,8,9,10,11,13,18,19,20,21,22,23): 6.402381896972656, EP: 0.7930542230606079	 ([colman][gives][terrific][performance][stage][actor][gets][work.][plays][othello][takes][film][great][supporting][cast.][well][worth])
+v(0,7,18,19,20,21,22,23,24): 6.398979187011719, EP: 0.7926327586174011	 ([ronald][really][film][great][supporting][cast.][well][worth][watching.])
+v(0,7,12,14,15,16,17,18,19,20,21,22,23,24): 6.051118850708008, EP: 0.7495437264442444	 ([ronald][really][stage][persona][dire][results.][good][film][great][supporting][cast.][well][worth][watching.])
+v(0,1,2,5,6,7,8,18,19,20,21,22,23,24): 5.768037796020508, EP: 0.7144789099693298	 ([ronald][colman][gives][stage][actor][really][gets][film][great][supporting][cast.][well][worth][watching.])
+v(0,7,12,14,15,16,17,24): -5.70012092590332, EP: -0.7060661315917969	 ([ronald][really][stage][persona][dire][results.][good][watching.])
+v(18,19,20,21,22,23): 5.631233215332031, EP: 0.6975330710411072	 ([film][great][supporting][cast.][well][worth])
+v(12,14,15,16,17): -5.600153923034668, EP: -0.6936833262443542	 ([stage][persona][dire][results.][good])
+v(1,2,5,6,8,12,14,15,16,17): -5.147732734680176, EP: -0.6376425623893738	 ([colman][gives][stage][actor][gets][stage][persona][dire][results.][good])
+v(1,2,5,6,8,12,14,15,16,17,18,19,20,21,22,23): 4.369890213012695, EP: 0.5412922501564026	 ([colman][gives][stage][actor][gets][stage][persona][dire][results.][good][film][great][supporting][cast.][well][worth])
+v(1,2,5,6,8,18,19,20,21,22,23): 3.521130323410034, EP: 0.43615755438804626	 ([colman][gives][stage][actor][gets][film][great][supporting][cast.][well][worth])
+v(12,14,15,16,17,18,19,20,21,22,23): 1.7260607481002808, EP: 0.21380476653575897	 ([stage][persona][dire][results.][good][film][great][supporting][cast.][well][worth])
+v(0,1,2,5,6,7,8,24): 1.525851845741272, EP: 0.18900516629219055	 ([ronald][colman][gives][stage][actor][really][gets][watching.])
+v(0,1,2,5,6,7,8,12,14,15,16,17,24): -1.5216715335845947, EP: -0.18848735094070435	 ([ronald][colman][gives][stage][actor][really][gets][stage][persona][dire][results.][good][watching.])
+v(1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17): 1.1905744075775146, EP: 0.14747481048107147	 ([colman][gives][terrific][performance][stage][actor][gets][work.][plays][othello][stage][takes][persona][dire][results.][good])
+v(0,7,24): -1.0311665534973145, EP: -0.12772917747497559	 ([ronald][really][watching.])
+v(1,2,5,6,8): -0.7279685735702515, EP: -0.09017246216535568	 ([colman][gives][stage][actor][gets])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

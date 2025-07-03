@@ -1,0 +1,154 @@
+---------- Players ----------
+Player 0: ... had
+Player 1: watched
+Player 2: teenage
+Player 3: years.
+Player 4: movie
+Player 5: mildly
+Player 6: entertaining.
+Player 7: liked
+Player 8: soul
+Player 9: survivors
+Player 10: gothic
+Player 11: atmosphere
+Player 12: party
+Player 13: scenes,
+Player 14: constant
+Player 15: flips
+Player 16: ' dream '
+Player 17: ' reality.
+Player 18: movies
+Player 19: like
+Player 20: ' the
+Player 21: 6th
+Player 22: sense '
+Player 23: ' don't
+Player 24: look
+Player 25: now '
+Player 26: would
+Player 27: surprised
+Player 28: ending.
+---------- AND Interactions (Pairwise Only) ----------
+I(5,6): 11.222878456115723	 ([mildly][entertaining.])
+I(4,5): 2.6774115562438965	 ([movie][mildly])
+I(23,27): 1.9748607873916626	 ([' don't][surprised])
+I(6,27): 1.953183889389038	 ([entertaining.][surprised])
+I(6,7): 1.9399604797363281	 ([entertaining.][liked])
+I(26,27): 1.914509654045105	 ([would][surprised])
+I(1,5): 1.72737455368042	 ([watched][mildly])
+I(7,27): 1.2687346935272217	 ([liked][surprised])
+I(27,28): -1.2548677921295166	 ([surprised][ending.])
+I(4,6): -1.0406785011291504	 ([movie][entertaining.])
+I(4,7): -1.0390819311141968	 ([movie][liked])
+I(3,4): -1.0370229482650757	 ([years.][movie])
+I(6,24): -1.000291347503662	 ([entertaining.][look])
+I(12,13): 0.9709363579750061	 ([party][scenes,])
+I(5,9): 0.9551968574523926	 ([mildly][survivors])
+I(7,25): 0.9240927696228027	 ([liked][now '])
+I(3,5): -0.9225621223449707	 ([years.][mildly])
+I(6,26): 0.8936923742294312	 ([entertaining.][would])
+I(7,13): 0.8667739629745483	 ([liked][scenes,])
+I(24,25): -0.8587039113044739	 ([look][now '])
+I(7,8): 0.8467705249786377	 ([liked][soul])
+I(7,11): -0.8132184743881226	 ([liked][atmosphere])
+I(7,9): 0.8120286464691162	 ([liked][survivors])
+I(0,6): 0.798102855682373	 ([... had][entertaining.])
+I(7,26): 0.7970155477523804	 ([liked][would])
+I(7,14): 0.7932549715042114	 ([liked][constant])
+I(0,5): -0.7656168937683105	 ([... had][mildly])
+I(3,27): 0.753669023513794	 ([years.][surprised])
+I(7,23): 0.7052501440048218	 ([liked][' don't])
+I(1,3): -0.6960617303848267	 ([watched][years.])
+I(6,11): -0.6640253067016602	 ([entertaining.][atmosphere])
+I(0,27): 0.6504696607589722	 ([... had][surprised])
+I(2,27): 0.6431128978729248	 ([teenage][surprised])
+I(8,11): -0.6404370069503784	 ([soul][atmosphere])
+I(5,16): 0.6376984119415283	 ([mildly][' dream '])
+I(6,15): -0.6321067810058594	 ([entertaining.][flips])
+I(3,6): -0.5997323989868164	 ([years.][entertaining.])
+I(5,12): 0.5996339321136475	 ([mildly][party])
+I(11,27): -0.5946104526519775	 ([atmosphere][surprised])
+I(11,18): 0.5815749168395996	 ([atmosphere][movies])
+I(18,19): -0.5654047727584839	 ([movies][like])
+I(1,6): 0.5630383491516113	 ([watched][entertaining.])
+I(9,10): 0.5573518872261047	 ([survivors][gothic])
+I(7,17): 0.5489968061447144	 ([liked][' reality.])
+I(2,3): 0.5464824438095093	 ([teenage][years.])
+I(6,23): -0.5378581285476685	 ([entertaining.][' don't])
+I(5,28): -0.5296401977539062	 ([mildly][ending.])
+I(12,27): 0.5244755744934082	 ([party][surprised])
+I(10,12): 0.5237476229667664	 ([gothic][party])
+I(1,9): -0.5072818994522095	 ([watched][survivors])
+I(6,9): 0.5067939758300781	 ([entertaining.][survivors])
+I(2,6): -0.5021052360534668	 ([teenage][entertaining.])
+I(2,9): 0.4969702959060669	 ([teenage][survivors])
+I(2,7): 0.4951655864715576	 ([teenage][liked])
+I(6,16): 0.4910097122192383	 ([entertaining.][' dream '])
+I(6,10): -0.4835066795349121	 ([entertaining.][gothic])
+I(8,27): 0.4827427864074707	 ([soul][surprised])
+I(7,12): 0.47922539710998535	 ([liked][party])
+I(3,9): 0.47467565536499023	 ([years.][survivors])
+I(5,18): 0.47290027141571045	 ([mildly][movies])
+I(23,24): -0.47017204761505127	 ([' don't][look])
+I(17,27): -0.4666783809661865	 ([' reality.][surprised])
+I(3,15): -0.45163828134536743	 ([years.][flips])
+I(0,9): 0.4383052587509155	 ([... had][survivors])
+I(5,14): -0.4362682104110718	 ([mildly][constant])
+I(16,23): -0.4291483163833618	 ([' dream '][' don't])
+I(5,10): -0.42348670959472656	 ([mildly][gothic])
+I(3,11): -0.41981685161590576	 ([years.][atmosphere])
+I(4,9): -0.41595685482025146	 ([movie][survivors])
+I(5,15): -0.4079921841621399	 ([mildly][flips])
+I(10,24): -0.40718209743499756	 ([gothic][look])
+I(9,13): 0.40397465229034424	 ([survivors][scenes,])
+I(3,18): -0.40087151527404785	 ([years.][movies])
+I(3,24): -0.3948436379432678	 ([years.][look])
+I(7,22): 0.39452385902404785	 ([liked][sense '])
+I(7,19): 0.3943060636520386	 ([liked][like])
+I(18,27): -0.3938610553741455	 ([movies][surprised])
+I(17,24): -0.3791804909706116	 ([' reality.][look])
+I(4,13): 0.37771880626678467	 ([movie][scenes,])
+I(2,12): 0.37767350673675537	 ([teenage][party])
+I(0,3): -0.37333405017852783	 ([... had][years.])
+I(11,17): -0.36648595333099365	 ([atmosphere][' reality.])
+I(11,25): -0.3660682439804077	 ([atmosphere][now '])
+I(23,25): -0.36389124393463135	 ([' don't][now '])
+I(0,23): 0.3598599433898926	 ([... had][' don't])
+I(8,16): 0.35648536682128906	 ([soul][' dream '])
+I(7,15): 0.35503220558166504	 ([liked][flips])
+I(0,10): -0.353710412979126	 ([... had][gothic])
+I(2,28): -0.3493272066116333	 ([teenage][ending.])
+I(3,28): -0.34795820713043213	 ([years.][ending.])
+I(15,27): -0.34657931327819824	 ([flips][surprised])
+I(8,18): -0.3445180654525757	 ([soul][movies])
+I(1,2): -0.3429548740386963	 ([watched][teenage])
+I(0,13): -0.3416767716407776	 ([... had][scenes,])
+I(9,15): -0.3405873775482178	 ([survivors][flips])
+I(7,28): -0.3401073217391968	 ([liked][ending.])
+I(1,12): 0.3384004831314087	 ([watched][party])
+I(5,26): 0.33523595333099365	 ([mildly][would])
+I(6,13): 0.33178091049194336	 ([entertaining.][scenes,])
+I(6,28): -0.3317394256591797	 ([entertaining.][ending.])
+I(16,17): 0.32986319065093994	 ([' dream '][' reality.])
+I(0,15): -0.32790476083755493	 ([... had][flips])
+I(1,10): -0.32730573415756226	 ([watched][gothic])
+I(24,26): 0.321649968624115	 ([look][would])
+I(4,17): 0.3186485767364502	 ([movie][' reality.])
+I(2,18): -0.31427323818206787	 ([teenage][movies])
+I(18,26): -0.3122364282608032	 ([movies][would])
+I(20,24): -0.31220102310180664	 ([' the][look])
+I(19,20): 0.3099026679992676	 ([like][' the])
+I(0,4): 0.3074052333831787	 ([... had][movie])
+I(9,24): -0.30561238527297974	 ([survivors][look])
+I(8,9): 0.30541205406188965	 ([soul][survivors])
+I(13,23): 0.29550230503082275	 ([scenes,][' don't])
+I(1,28): -0.2895015478134155	 ([watched][ending.])
+I(10,15): -0.2863236665725708	 ([gothic][flips])
+I(0,2): -0.2844187021255493	 ([... had][teenage])
+I(10,18): 0.283236563205719	 ([gothic][movies])
+I(18,20): -0.28322136402130127	 ([movies][' the])
+I(9,23): -0.2822149991989136	 ([survivors][' don't])
+I(8,10): -0.2818318009376526	 ([soul][gothic])
+I(20,26): 0.2807508707046509	 ([' the][would])
+Sum: 15.761746287345886
+==================================================

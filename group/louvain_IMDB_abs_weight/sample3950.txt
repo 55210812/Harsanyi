@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['38', '36', '45', '46', '40', '39', '42', '44', '37', '43']: ['deals', 'group.', 'affluent', 'neighborhood.', 'adventures', 'various', 'complicated', 'scene', 'film', 'drug']: 平均边权 0.4507
+社区 2: ['2', '1', '5']: ['dysfunctional', 'jewish', 'divorced']: 平均边权 1.9974
+社区 3: ['8', '0', '28', '6', '7']: ['back', 'story', 'become', 'mom', 'remains']: 平均边权 0.4273
+社区 4: ['12', '57', '13', '32', '58', '52', '30', '65', '31']: ['murray', 'carl', 'abromowitz,', "murray's", 'reiner', 'murray', 'marisa', "murray's", 'tomei,']: 平均边权 0.4993
+社区 5: ['66', '21', '4', '11', '67', '15', '33', '64']: ['brother', 'children', 'parents', 'father,', 'sister - in - law', 'children', 'niece,', 'play']: 平均边权 0.4686
+社区 6: ['22', '23', '27', '24', '25', '29', '26']: ['get', 'best', 'really', 'education', 'possible.', 'funny', 'things']: 平均边权 0.5194
+社区 7: ['56', '61', '63', '35', '34', '50', '53', '62', '10', '54']: ['companion.', 'come', 'end.', 'lives', 'comes', 'woman', 'move', 'towards', 'house.', 'since']: 平均边权 0.2326
+社区 8: ['49', '47', '48', '41', '3', '9', '59', '60', '14']: ['costars', 'jessica', 'walter', 'family', 'family.', 'east', 'rita', 'moreno', 'moves']: 平均边权 0.5147
+社区 9: ['17', '20', '18', '19']: ['moves', 'hills', 'around', 'beverly']: 平均边权 0.2140
+社区 10: ['55', '51', '16']: ['wants', 'wants', 'california,']: 平均边权 0.4741

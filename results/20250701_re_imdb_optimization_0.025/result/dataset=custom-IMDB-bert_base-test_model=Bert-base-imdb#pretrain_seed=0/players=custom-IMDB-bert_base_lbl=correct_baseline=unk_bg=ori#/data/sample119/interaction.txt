@@ -1,0 +1,27 @@
+---------- Players ----------
+Player 0: hilarious
+Player 1: movie.
+Player 2: one
+Player 3: best
+Player 4: things
+Player 5: quality
+Player 6: performance
+Player 7: actor.
+Player 8: largest
+Player 9: role
+Player 10: smallest,
+Player 11: character
+Player 12: vivid,
+Player 13: unforgettable
+Player 14: understandable.
+Player 15: also
+Player 16: make
+Player 17: laugh
+Player 18: hard
+Player 19: health
+Player 20: improve.
+---------- AND Interactions (Pairwise Only) ----------
+I(2,20): 3.6305131912231445	 ([one][improve.])
+I(7,9): 2.838646411895752	 ([actor.][role])
+Sum: 6.4691596031188965
+==================================================

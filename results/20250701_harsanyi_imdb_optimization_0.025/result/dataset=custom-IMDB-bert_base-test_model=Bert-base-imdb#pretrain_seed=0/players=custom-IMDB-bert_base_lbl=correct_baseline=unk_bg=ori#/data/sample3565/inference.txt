@@ -1,0 +1,73 @@
+Execution time: 2025-07-03 08:05:00
+prompt: [CLS] this movie is about as underrated as police acadmey mission to moscow. this movie is never funny. it's maybe the worst comedy spoof ever made. very boring, and dumb beyond belief. for those people that think this movie is underrated god help you. i give this movie out of [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2023 decoded_text: this
+idx:2 input_id:3185 decoded_text: movie
+idx:3 input_id:2003 decoded_text: is
+idx:4 input_id:2055 decoded_text: about
+idx:5 input_id:2004 decoded_text: as
+idx:6 input_id:2104 decoded_text: under
+idx:7 input_id:9250 decoded_text: ##rated
+idx:8 input_id:2004 decoded_text: as
+idx:9 input_id:2610 decoded_text: police
+idx:10 input_id:9353 decoded_text: ac
+idx:11 input_id:4215 decoded_text: ##ad
+idx:12 input_id:4168 decoded_text: ##me
+idx:13 input_id:2100 decoded_text: ##y
+idx:14 input_id:3260 decoded_text: mission
+idx:15 input_id:2000 decoded_text: to
+idx:16 input_id:4924 decoded_text: moscow
+idx:17 input_id:1012 decoded_text: .
+idx:18 input_id:2023 decoded_text: this
+idx:19 input_id:3185 decoded_text: movie
+idx:20 input_id:2003 decoded_text: is
+idx:21 input_id:2196 decoded_text: never
+idx:22 input_id:6057 decoded_text: funny
+idx:23 input_id:1012 decoded_text: .
+idx:24 input_id:2009 decoded_text: it
+idx:25 input_id:1005 decoded_text: '
+idx:26 input_id:1055 decoded_text: s
+idx:27 input_id:2672 decoded_text: maybe
+idx:28 input_id:1996 decoded_text: the
+idx:29 input_id:5409 decoded_text: worst
+idx:30 input_id:4038 decoded_text: comedy
+idx:31 input_id:11867 decoded_text: sp
+idx:32 input_id:21511 decoded_text: ##oof
+idx:33 input_id:2412 decoded_text: ever
+idx:34 input_id:2081 decoded_text: made
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:2200 decoded_text: very
+idx:37 input_id:11771 decoded_text: boring
+idx:38 input_id:1010 decoded_text: ,
+idx:39 input_id:1998 decoded_text: and
+idx:40 input_id:12873 decoded_text: dumb
+idx:41 input_id:3458 decoded_text: beyond
+idx:42 input_id:6772 decoded_text: belief
+idx:43 input_id:1012 decoded_text: .
+idx:44 input_id:2005 decoded_text: for
+idx:45 input_id:2216 decoded_text: those
+idx:46 input_id:2111 decoded_text: people
+idx:47 input_id:2008 decoded_text: that
+idx:48 input_id:2228 decoded_text: think
+idx:49 input_id:2023 decoded_text: this
+idx:50 input_id:3185 decoded_text: movie
+idx:51 input_id:2003 decoded_text: is
+idx:52 input_id:2104 decoded_text: under
+idx:53 input_id:9250 decoded_text: ##rated
+idx:54 input_id:2643 decoded_text: god
+idx:55 input_id:2393 decoded_text: help
+idx:56 input_id:2017 decoded_text: you
+idx:57 input_id:1012 decoded_text: .
+idx:58 input_id:1045 decoded_text: i
+idx:59 input_id:2507 decoded_text: give
+idx:60 input_id:2023 decoded_text: this
+idx:61 input_id:3185 decoded_text: movie
+idx:62 input_id:2041 decoded_text: out
+idx:63 input_id:1997 decoded_text: of
+idx:64 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.0808024406433105, -3.6337525844573975]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

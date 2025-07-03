@@ -1,0 +1,260 @@
+---------- Players ----------
+Player 0: definitely
+Player 1: ' must
+Player 2: see '
+Player 3: occasionally
+Player 4: smoke
+Player 5: reefer
+Player 6: secret
+Player 7: hide - out,
+Player 8: trying
+Player 9: avoid
+Player 10: caught
+Player 11: parents,
+Player 12: teachers,
+Player 13: police,
+Player 14: etc...
+Player 15: protagonist
+Player 16: lady
+Player 17: forties,
+Player 18: living
+Player 19: mansion,
+Player 20: breeding
+Player 21: orchids,
+Player 22: absolutely
+Player 23: unaware
+Player 24: fact
+Player 25: so - called
+Player 26: rich
+Player 27: truthful
+Player 28: husband
+Player 29: actually
+Player 30: broke
+Player 31: cheating
+Player 32: her.
+Player 33: sudden
+Player 34: dies,
+Player 35: confronted
+Player 36: truth.
+Player 37: bailiff
+Player 38: comes
+Player 39: tell
+Player 40: huge
+Player 41: debt.
+Player 42: know
+Player 43: do,
+Player 44: gardener
+Player 45: tells
+Player 46: recent
+Player 47: success
+Player 48: marijuana
+Player 49: britain.
+Player 50: decides
+Player 51: long
+Player 52: thinking
+---------- AND Interactions (Pairwise Only) ----------
+I(1,2): 5.364573955535889	 ([' must][see '])
+I(0,1): 4.651496410369873	 ([definitely][' must])
+I(6,7): -1.0166734457015991	 ([secret][hide - out,])
+I(51,52): 1.0070253610610962	 ([long][thinking])
+I(1,7): 0.5761117339134216	 ([' must][hide - out,])
+I(16,17): -0.5508911609649658	 ([lady][forties,])
+I(4,6): -0.531011164188385	 ([smoke][secret])
+I(1,6): 0.523134708404541	 ([' must][secret])
+I(8,9): 0.4809725880622864	 ([trying][avoid])
+I(1,12): 0.4390449523925781	 ([' must][teachers,])
+I(6,11): -0.43769901990890503	 ([secret][parents,])
+I(6,51): -0.4359808564186096	 ([secret][long])
+I(0,6): 0.4276048541069031	 ([definitely][secret])
+I(1,48): 0.4218664765357971	 ([' must][marijuana])
+I(1,11): 0.4159654974937439	 ([' must][parents,])
+I(5,6): -0.4075779914855957	 ([reefer][secret])
+I(3,6): -0.39773303270339966	 ([occasionally][secret])
+I(0,2): 0.39395207166671753	 ([definitely][see '])
+I(0,13): 0.38812553882598877	 ([definitely][police,])
+I(15,16): -0.3686422109603882	 ([protagonist][lady])
+I(15,17): -0.3578382730484009	 ([protagonist][forties,])
+I(45,49): -0.35615402460098267	 ([tells][britain.])
+I(6,36): -0.35233259201049805	 ([secret][truth.])
+I(6,13): -0.34822797775268555	 ([secret][police,])
+I(1,19): 0.3444882035255432	 ([' must][mansion,])
+I(34,50): 0.3396357595920563	 ([dies,][decides])
+I(6,12): -0.338808536529541	 ([secret][teachers,])
+I(50,52): 0.3343380093574524	 ([decides][thinking])
+I(34,52): 0.3282139301300049	 ([dies,][thinking])
+I(1,36): 0.32156461477279663	 ([' must][truth.])
+I(33,36): 0.3158301115036011	 ([sudden][truth.])
+I(0,50): 0.314511775970459	 ([definitely][decides])
+I(1,49): 0.31188786029815674	 ([' must][britain.])
+I(6,34): -0.3104780912399292	 ([secret][dies,])
+I(45,52): 0.30572134256362915	 ([tells][thinking])
+I(27,28): -0.2961679697036743	 ([truthful][husband])
+I(48,49): 0.29584503173828125	 ([marijuana][britain.])
+I(41,50): 0.29328685998916626	 ([debt.][decides])
+I(17,18): -0.2872011065483093	 ([forties,][living])
+I(1,17): 0.2871873378753662	 ([' must][forties,])
+I(1,47): 0.2842941880226135	 ([' must][success])
+I(18,19): -0.283638596534729	 ([living][mansion,])
+I(44,48): 0.28013062477111816	 ([gardener][marijuana])
+I(1,15): 0.2797384262084961	 ([' must][protagonist])
+I(12,48): 0.2756369709968567	 ([teachers,][marijuana])
+I(31,50): 0.2736967206001282	 ([cheating][decides])
+I(1,13): 0.27222830057144165	 ([' must][police,])
+I(0,11): 0.27090805768966675	 ([definitely][parents,])
+I(15,34): -0.2673110365867615	 ([protagonist][dies,])
+I(22,23): -0.2667306661605835	 ([absolutely][unaware])
+I(9,12): -0.26316070556640625	 ([avoid][teachers,])
+I(6,18): -0.26264917850494385	 ([secret][living])
+I(35,50): 0.2621923089027405	 ([confronted][decides])
+I(1,41): 0.2604956030845642	 ([' must][debt.])
+I(26,27): 0.2595307230949402	 ([rich][truthful])
+I(6,41): -0.25891393423080444	 ([secret][debt.])
+I(6,19): -0.25811439752578735	 ([secret][mansion,])
+I(0,3): -0.25523465871810913	 ([definitely][occasionally])
+I(35,52): 0.2520960569381714	 ([confronted][thinking])
+I(35,36): -0.2518847584724426	 ([confronted][truth.])
+I(6,48): 0.24594122171401978	 ([secret][marijuana])
+I(8,17): -0.2421804666519165	 ([trying][forties,])
+I(30,34): -0.24184256792068481	 ([broke][dies,])
+I(10,17): -0.2416466474533081	 ([caught][forties,])
+I(30,41): -0.23979419469833374	 ([broke][debt.])
+I(0,15): 0.239651620388031	 ([definitely][protagonist])
+I(0,12): 0.2378859519958496	 ([definitely][teachers,])
+I(6,8): -0.2373453974723816	 ([secret][trying])
+I(41,47): 0.23481285572052002	 ([debt.][success])
+I(15,19): -0.23285901546478271	 ([protagonist][mansion,])
+I(15,18): -0.22802507877349854	 ([protagonist][living])
+I(4,48): 0.22767257690429688	 ([smoke][marijuana])
+I(6,20): -0.22601956129074097	 ([secret][breeding])
+I(15,48): 0.22598952054977417	 ([protagonist][marijuana])
+I(1,30): 0.2241300344467163	 ([' must][broke])
+I(20,44): 0.22393566370010376	 ([breeding][gardener])
+I(10,13): 0.22083908319473267	 ([caught][police,])
+I(11,52): 0.2208181619644165	 ([parents,][thinking])
+I(1,5): 0.2186267375946045	 ([' must][reefer])
+I(38,39): -0.2174549102783203	 ([comes][tell])
+I(0,7): 0.21616262197494507	 ([definitely][hide - out,])
+I(49,51): -0.2154117226600647	 ([britain.][long])
+I(23,24): -0.2141931653022766	 ([unaware][fact])
+I(34,36): -0.21190771460533142	 ([dies,][truth.])
+I(11,12): -0.20877552032470703	 ([parents,][teachers,])
+I(11,51): 0.2083950638771057	 ([parents,][long])
+I(13,51): 0.20688217878341675	 ([police,][long])
+I(9,10): -0.20641762018203735	 ([avoid][caught])
+I(1,32): 0.20505714416503906	 ([' must][her.])
+I(30,31): -0.2049490213394165	 ([broke][cheating])
+I(45,46): -0.20408284664154053	 ([tells][recent])
+I(0,44): 0.20304256677627563	 ([definitely][gardener])
+I(11,15): -0.20196682214736938	 ([parents,][protagonist])
+I(11,17): -0.20126068592071533	 ([parents,][forties,])
+I(44,47): 0.20058542490005493	 ([gardener][success])
+I(0,32): 0.19991636276245117	 ([definitely][her.])
+I(34,47): 0.1964322328567505	 ([dies,][success])
+I(7,8): 0.19635695219039917	 ([hide - out,][trying])
+I(45,50): 0.1952558159828186	 ([tells][decides])
+I(6,17): -0.1928631067276001	 ([secret][forties,])
+I(12,50): 0.19098198413848877	 ([teachers,][decides])
+I(30,46): 0.19078773260116577	 ([broke][recent])
+I(20,48): 0.18992328643798828	 ([breeding][marijuana])
+I(19,30): -0.18937337398529053	 ([mansion,][broke])
+I(0,51): -0.18913286924362183	 ([definitely][long])
+I(46,51): 0.18902581930160522	 ([recent][long])
+I(0,8): 0.1882825493812561	 ([definitely][trying])
+I(39,45): 0.18822604417800903	 ([tell][tells])
+I(46,47): 0.18788021802902222	 ([recent][success])
+I(12,14): 0.18779653310775757	 ([teachers,][etc...])
+I(6,47): 0.18722373247146606	 ([secret][success])
+I(23,52): 0.1871374249458313	 ([unaware][thinking])
+I(0,36): 0.1856015920639038	 ([definitely][truth.])
+I(7,17): -0.18525302410125732	 ([hide - out,][forties,])
+I(46,48): 0.18509125709533691	 ([recent][marijuana])
+I(48,50): 0.1850738525390625	 ([marijuana][decides])
+I(28,30): -0.18441444635391235	 ([husband][broke])
+I(41,46): 0.18397128582000732	 ([debt.][recent])
+I(8,13): 0.18282216787338257	 ([trying][police,])
+I(6,9): -0.1819661259651184	 ([secret][avoid])
+I(1,34): 0.18188613653182983	 ([' must][dies,])
+I(0,33): 0.18159270286560059	 ([definitely][sudden])
+I(0,35): 0.18051964044570923	 ([definitely][confronted])
+I(35,41): 0.18034440279006958	 ([confronted][debt.])
+I(11,47): 0.18033671379089355	 ([parents,][success])
+I(29,30): -0.18025141954421997	 ([actually][broke])
+I(5,20): 0.17863374948501587	 ([reefer][breeding])
+I(41,49): 0.17564064264297485	 ([debt.][britain.])
+I(15,50): 0.17504197359085083	 ([protagonist][decides])
+I(7,11): -0.17495876550674438	 ([hide - out,][parents,])
+I(7,10): 0.17411351203918457	 ([hide - out,][caught])
+I(24,52): 0.17197906970977783	 ([fact][thinking])
+I(1,50): 0.17182207107543945	 ([' must][decides])
+I(10,35): 0.17078596353530884	 ([caught][confronted])
+I(2,11): 0.16965222358703613	 ([see '][parents,])
+I(1,18): 0.1694706678390503	 ([' must][living])
+I(11,20): 0.1688525676727295	 ([parents,][breeding])
+I(28,48): -0.1682288646697998	 ([husband][marijuana])
+I(1,21): 0.16820502281188965	 ([' must][orchids,])
+I(14,15): -0.16820478439331055	 ([etc...][protagonist])
+I(20,26): 0.16773372888565063	 ([breeding][rich])
+I(23,35): 0.16766375303268433	 ([unaware][confronted])
+I(15,31): -0.1675269603729248	 ([protagonist][cheating])
+I(31,34): -0.16752249002456665	 ([cheating][dies,])
+I(9,11): -0.1671653389930725	 ([avoid][parents,])
+I(12,47): 0.1665027141571045	 ([teachers,][success])
+I(5,17): -0.1662055253982544	 ([reefer][forties,])
+I(8,35): 0.1661638617515564	 ([trying][confronted])
+I(19,20): 0.16543883085250854	 ([mansion,][breeding])
+I(14,35): 0.16439670324325562	 ([etc...][confronted])
+I(6,46): 0.16327041387557983	 ([secret][recent])
+I(41,52): 0.1626741886138916	 ([debt.][thinking])
+I(40,44): 0.16261249780654907	 ([huge][gardener])
+I(0,52): 0.1623903512954712	 ([definitely][thinking])
+I(4,12): -0.16067206859588623	 ([smoke][teachers,])
+I(3,48): 0.16061824560165405	 ([occasionally][marijuana])
+I(15,27): -0.15805131196975708	 ([protagonist][truthful])
+I(24,28): -0.15802675485610962	 ([fact][husband])
+I(1,44): 0.15792256593704224	 ([' must][gardener])
+I(8,10): 0.1576511263847351	 ([trying][caught])
+I(34,46): 0.15693438053131104	 ([dies,][recent])
+I(15,33): -0.15689778327941895	 ([protagonist][sudden])
+I(8,18): -0.15671586990356445	 ([trying][living])
+I(0,16): 0.15591835975646973	 ([definitely][lady])
+I(7,48): 0.15512150526046753	 ([hide - out,][marijuana])
+I(46,49): 0.15486234426498413	 ([recent][britain.])
+I(3,17): -0.15462756156921387	 ([occasionally][forties,])
+I(1,16): 0.15307313203811646	 ([' must][lady])
+I(47,49): -0.15303415060043335	 ([success][britain.])
+I(30,48): 0.15253764390945435	 ([broke][marijuana])
+I(49,52): -0.1506059765815735	 ([britain.][thinking])
+I(31,52): 0.15058767795562744	 ([cheating][thinking])
+I(35,51): 0.150326669216156	 ([confronted][long])
+I(2,12): 0.1497291922569275	 ([see '][teachers,])
+I(15,36): -0.14966213703155518	 ([protagonist][truth.])
+I(43,50): 0.14962846040725708	 ([do,][decides])
+I(7,34): -0.1494796872138977	 ([hide - out,][dies,])
+I(1,23): 0.14877885580062866	 ([' must][unaware])
+I(19,21): 0.147649884223938	 ([mansion,][orchids,])
+I(0,34): -0.14736610651016235	 ([definitely][dies,])
+I(44,45): -0.14725381135940552	 ([gardener][tells])
+I(13,48): 0.14627432823181152	 ([police,][marijuana])
+I(4,50): -0.14624148607254028	 ([smoke][decides])
+I(31,49): -0.14588063955307007	 ([cheating][britain.])
+I(20,49): 0.14557033777236938	 ([breeding][britain.])
+I(8,20): 0.1452232003211975	 ([trying][breeding])
+I(0,20): 0.144819438457489	 ([definitely][breeding])
+I(7,50): 0.14431232213974	 ([hide - out,][decides])
+I(40,47): 0.1435278058052063	 ([huge][success])
+I(12,46): 0.14293241500854492	 ([teachers,][recent])
+I(34,49): 0.14142006635665894	 ([dies,][britain.])
+I(37,38): -0.1408083438873291	 ([bailiff][comes])
+I(37,49): 0.14064961671829224	 ([bailiff][britain.])
+I(35,49): -0.1398434042930603	 ([confronted][britain.])
+I(10,47): -0.13909012079238892	 ([caught][success])
+I(1,46): 0.13829708099365234	 ([' must][recent])
+I(36,52): 0.13731402158737183	 ([truth.][thinking])
+I(10,45): 0.13666397333145142	 ([caught][tells])
+I(8,50): 0.13607090711593628	 ([trying][decides])
+I(31,36): -0.13441377878189087	 ([cheating][truth.])
+I(13,49): 0.1343863606452942	 ([police,][britain.])
+I(7,9): 0.13438522815704346	 ([hide - out,][avoid])
+I(14,20): 0.1343209147453308	 ([etc...][breeding])
+Sum: 16.536537051200867
+==================================================

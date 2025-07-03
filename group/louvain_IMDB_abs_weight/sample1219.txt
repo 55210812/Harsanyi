@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['55', '53', '42', '51', '52']: ['except', 'guessed', 'supposed', 'known', 'sequel']: 平均边权 0.8101
+社区 2: ['5', '20', '23', '35', '25', '26', '21']: ['classic', 'classic', 'donned', 'wanted', 'instance', 'classic', 'character']: 平均边权 0.5247
+社区 3: ['17', '0', '19', '43', '18']: ['batman,', 'funny', 'batman', 'forget', 'instance']: 平均边权 0.4779
+社区 4: ['2', '12', '8', '4', '11', '3', '9', '1', '10', '7']: ['thinks', 'float.', 'entirely', 'sequel', 'expect', 'make', 'new', 'studio', 'cast', 'story']: 平均边权 0.4165
+社区 5: ['13', '54', '29', '16', '15', '22', '14', '6']: ['sure', 'cast...', 'headed', 'actors', 'various', 'actor', 'used', 'christmas']: 平均边权 0.4070
+社区 6: ['48', '41', '27', '24', '49']: ['share', 'somehow', 'character', 'cape.', 'resemblance']: 平均边权 0.1809
+社区 7: ['38', '36', '32', '34', '47', '39', '30', '50', '37', '33', '31', '28']: ['bb', 'red', 'glasses', 'ralphy', 'boy', 'gun', 'horn', 'original...', 'ryder', 'wearing', 'rimmed', 'blond']: 平均边权 0.1918
+社区 8: ['45', '46', '40', '44']: ['another', 'little', 'christmas...', 'accept']: 平均边权 0.2140

@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['8', '5', '0', '32', '30', '15', '33', '14', '6', '7']: ['movie', 'apt', 'others', 'soap', 'nothing', 'singing..... not', 'opera.', 'stick', 'title', 'response']: 平均边权 0.5887
+社区 2: ['27', '19', '25', '24', '29', '21', '23', '22', '1', '26', '28']: ['family', 'movie', '-', 'fine', '-', 'first', 'minutes', '25', 'said,', 'nice', 'movie,']: 平均边权 0.5161
+社区 3: ['57', '36', '13', '35', '58', '40', '52', '34', '41', '42', '53']: ['falls', 'singer,', 'singer', 'playing', 'singer,', '"', 'singer', 'appropriately', 'loses', 'voice', 'falls']: 平均边权 0.4431
+社区 4: ['39', '12', '38']: ['fini,', 'opera', '" giorgio']: 平均边权 0.8258
+社区 5: ['2', '4', '3']: ['no,', '"', 'luciano']: 平均边权 0.6830
+社区 6: ['11', '10', '9']: ['great', 'entertainment,', 'title.']: 平均边权 0.3067
+社区 7: ['55', '61', '48', '44', '43', '49', '54']: ['doctor', 'time', '( kathryn', 'doctor,', 'times', 'harrold )', 'doctor,']: 平均边权 0.3237
+社区 8: ['50', '46', '51', '45', '47']: ['comes', 'taylor', 'rescue.', '" pamela', '"']: 平均边权 0.5591
+社区 9: ['20', '18', '16', '37', '59', '60', '17', '31']: ['stinks.', 'actor.', "he's", 'pavarotti,', 'two', 'argue', 'terrible', 'boring']: 平均边权 1.0352

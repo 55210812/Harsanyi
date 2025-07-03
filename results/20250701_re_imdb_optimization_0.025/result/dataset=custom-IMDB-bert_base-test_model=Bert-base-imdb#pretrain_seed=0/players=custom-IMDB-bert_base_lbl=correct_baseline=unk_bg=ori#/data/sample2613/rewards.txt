@@ -1,0 +1,158 @@
+---------- Players ----------
+Player 0: brian
+Player 1: de
+Player 2: palma's
+Player 3: undeniable
+Player 4: virtuosity
+Player 5: can't
+Player 6: really
+Player 7: camouflage
+Player 8: fact
+Player 9: plot
+Player 10: thinly
+Player 11: disguised
+Player 12: psycho
+Player 13: "
+Player 14: carbon
+Player 15: copy,
+Player 16: provide
+Player 17: genuinely
+Player 18: terrifying
+Player 19: climax.
+Player 20: " blow
+Player 21: ",
+Player 22: made
+Player 23: next
+Player 24: year,
+Player 25: improvement. "
+---------- Rewards ----------
+v(): -1.9206743240356445	 ([])
+v(16,17): -0.8211795091629028	 ([provide][genuinely])
+v(0,1,3,4,15): 4.462367057800293	 ([brian][de][undeniable][virtuosity][copy,])
+v(11,12,13,18,20,23): -4.826324939727783	 ([disguised][psycho]["][terrifying][" blow][next])
+v(5,6,14,25): 0.0702858716249466	 ([can't][really][carbon][improvement. "])
+v(2,7,8,24): 1.2640565633773804	 ([palma's][camouflage][fact][year,])
+v(9,10,19,21,22): -2.762274742126465	 ([plot][thinly][climax.][",][made])
+v(0,1,3,4,15,16,17): 4.489798069000244	 ([brian][de][undeniable][virtuosity][copy,][provide][genuinely])
+v(11,12,13,16,17,18,20,23): -0.03457552194595337	 ([disguised][psycho]["][provide][genuinely][terrifying][" blow][next])
+v(5,6,14,16,17,25): 1.1448466777801514	 ([can't][really][carbon][provide][genuinely][improvement. "])
+v(2,7,8,16,17,24): 1.0055322647094727	 ([palma's][camouflage][fact][provide][genuinely][year,])
+v(9,10,16,17,19,21,22): -0.6252131462097168	 ([plot][thinly][provide][genuinely][climax.][",][made])
+v(0,1,3,4,11,12,13,15,18,20,23): -0.25178244709968567	 ([brian][de][undeniable][virtuosity][disguised][psycho]["][copy,][terrifying][" blow][next])
+v(0,1,3,4,5,6,14,15,25): 3.9210944175720215	 ([brian][de][undeniable][virtuosity][can't][really][carbon][copy,][improvement. "])
+v(0,1,2,3,4,7,8,15,24): 7.871039390563965	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][copy,][year,])
+v(0,1,3,4,9,10,15,19,21,22): 4.623880386352539	 ([brian][de][undeniable][virtuosity][plot][thinly][copy,][climax.][",][made])
+v(5,6,11,12,13,14,18,20,23,25): -3.6370785236358643	 ([can't][really][disguised][psycho]["][carbon][terrifying][" blow][next][improvement. "])
+v(2,7,8,11,12,13,18,20,23,24): -4.317643642425537	 ([palma's][camouflage][fact][disguised][psycho]["][terrifying][" blow][next][year,])
+v(9,10,11,12,13,18,19,20,21,22,23): -4.101289749145508	 ([plot][thinly][disguised][psycho]["][terrifying][climax.][" blow][",][made][next])
+v(2,5,6,7,8,14,24,25): -0.053818508982658386	 ([palma's][can't][really][camouflage][fact][carbon][year,][improvement. "])
+v(5,6,9,10,14,19,21,22,25): -1.0774095058441162	 ([can't][really][plot][thinly][carbon][climax.][",][made][improvement. "])
+v(2,7,8,9,10,19,21,22,24): 0.5313247442245483	 ([palma's][camouflage][fact][plot][thinly][climax.][",][made][year,])
+v(0,1,3,4,11,12,13,15,16,17,18,20,23): 2.6936264038085938	 ([brian][de][undeniable][virtuosity][disguised][psycho]["][copy,][provide][genuinely][terrifying][" blow][next])
+v(0,1,3,4,5,6,14,15,16,17,25): 4.547487258911133	 ([brian][de][undeniable][virtuosity][can't][really][carbon][copy,][provide][genuinely][improvement. "])
+v(0,1,2,3,4,7,8,15,16,17,24): 7.929186820983887	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][copy,][provide][genuinely][year,])
+v(0,1,3,4,9,10,15,16,17,19,21,22): 5.2484660148620605	 ([brian][de][undeniable][virtuosity][plot][thinly][copy,][provide][genuinely][climax.][",][made])
+v(5,6,11,12,13,14,16,17,18,20,23,25): 3.4213972091674805	 ([can't][really][disguised][psycho]["][carbon][provide][genuinely][terrifying][" blow][next][improvement. "])
+v(2,7,8,11,12,13,16,17,18,20,23,24): 1.369720458984375	 ([palma's][camouflage][fact][disguised][psycho]["][provide][genuinely][terrifying][" blow][next][year,])
+v(9,10,11,12,13,16,17,18,19,20,21,22,23): -1.0777547359466553	 ([plot][thinly][disguised][psycho]["][provide][genuinely][terrifying][climax.][" blow][",][made][next])
+v(2,5,6,7,8,14,16,17,24,25): 0.3051868677139282	 ([palma's][can't][really][camouflage][fact][carbon][provide][genuinely][year,][improvement. "])
+v(5,6,9,10,14,16,17,19,21,22,25): 0.5251524448394775	 ([can't][really][plot][thinly][carbon][provide][genuinely][climax.][",][made][improvement. "])
+v(2,7,8,9,10,16,17,19,21,22,24): 1.8132877349853516	 ([palma's][camouflage][fact][plot][thinly][provide][genuinely][climax.][",][made][year,])
+v(0,1,3,4,5,6,11,12,13,14,15,18,20,23,25): 0.634735643863678	 ([brian][de][undeniable][virtuosity][can't][really][disguised][psycho]["][carbon][copy,][terrifying][" blow][next][improvement. "])
+v(0,1,2,3,4,7,8,11,12,13,15,18,20,23,24): 7.40212345123291	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][disguised][psycho]["][copy,][terrifying][" blow][next][year,])
+v(0,1,3,4,9,10,11,12,13,15,18,19,20,21,22,23): 1.0306047201156616	 ([brian][de][undeniable][virtuosity][plot][thinly][disguised][psycho]["][copy,][terrifying][climax.][" blow][",][made][next])
+v(0,1,2,3,4,5,6,7,8,14,15,24,25): 8.400897979736328	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][carbon][copy,][year,][improvement. "])
+v(0,1,3,4,5,6,9,10,14,15,19,21,22,25): 3.7808480262756348	 ([brian][de][undeniable][virtuosity][can't][really][plot][thinly][carbon][copy,][climax.][",][made][improvement. "])
+v(0,1,2,3,4,7,8,9,10,15,19,21,22,24): 7.792174339294434	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][plot][thinly][copy,][climax.][",][made][year,])
+v(2,5,6,7,8,11,12,13,14,18,20,23,24,25): -4.5638933181762695	 ([palma's][can't][really][camouflage][fact][disguised][psycho]["][carbon][terrifying][" blow][next][year,][improvement. "])
+v(5,6,9,10,11,12,13,14,18,19,20,21,22,23,25): -1.8440425395965576	 ([can't][really][plot][thinly][disguised][psycho]["][carbon][terrifying][climax.][" blow][",][made][next][improvement. "])
+v(2,7,8,9,10,11,12,13,18,19,20,21,22,23,24): -1.199809193611145	 ([palma's][camouflage][fact][plot][thinly][disguised][psycho]["][terrifying][climax.][" blow][",][made][next][year,])
+v(2,5,6,7,8,9,10,14,19,21,22,24,25): -1.0440915822982788	 ([palma's][can't][really][camouflage][fact][plot][thinly][carbon][climax.][",][made][year,][improvement. "])
+v(0,1,3,4,5,6,11,12,13,14,15,16,17,18,20,23,25): 6.077698707580566	 ([brian][de][undeniable][virtuosity][can't][really][disguised][psycho]["][carbon][copy,][provide][genuinely][terrifying][" blow][next][improvement. "])
+v(0,1,2,3,4,7,8,11,12,13,15,16,17,18,20,23,24): 8.049235343933105	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][disguised][psycho]["][copy,][provide][genuinely][terrifying][" blow][next][year,])
+v(0,1,3,4,9,10,11,12,13,15,16,17,18,19,20,21,22,23): 3.236595630645752	 ([brian][de][undeniable][virtuosity][plot][thinly][disguised][psycho]["][copy,][provide][genuinely][terrifying][climax.][" blow][",][made][next])
+v(0,1,2,3,4,5,6,7,8,14,15,16,17,24,25): 8.33687973022461	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][carbon][copy,][provide][genuinely][year,][improvement. "])
+v(0,1,3,4,5,6,9,10,14,15,16,17,19,21,22,25): 4.932857036590576	 ([brian][de][undeniable][virtuosity][can't][really][plot][thinly][carbon][copy,][provide][genuinely][climax.][",][made][improvement. "])
+v(0,1,2,3,4,7,8,9,10,15,16,17,19,21,22,24): 7.9492998123168945	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][plot][thinly][copy,][provide][genuinely][climax.][",][made][year,])
+v(2,5,6,7,8,11,12,13,14,16,17,18,20,23,24,25): 3.0270004272460938	 ([palma's][can't][really][camouflage][fact][disguised][psycho]["][carbon][provide][genuinely][terrifying][" blow][next][year,][improvement. "])
+v(5,6,9,10,11,12,13,14,16,17,18,19,20,21,22,23,25): 0.2188141793012619	 ([can't][really][plot][thinly][disguised][psycho]["][carbon][provide][genuinely][terrifying][climax.][" blow][",][made][next][improvement. "])
+v(2,7,8,9,10,11,12,13,16,17,18,19,20,21,22,23,24): 3.2688181400299072	 ([palma's][camouflage][fact][plot][thinly][disguised][psycho]["][provide][genuinely][terrifying][climax.][" blow][",][made][next][year,])
+v(2,5,6,7,8,9,10,14,16,17,19,21,22,24,25): 1.3536057472229004	 ([palma's][can't][really][camouflage][fact][plot][thinly][carbon][provide][genuinely][climax.][",][made][year,][improvement. "])
+v(0,1,2,3,4,5,6,7,8,11,12,13,14,15,18,20,23,24,25): 7.536812782287598	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][disguised][psycho]["][carbon][copy,][terrifying][" blow][next][year,][improvement. "])
+v(0,1,3,4,5,6,9,10,11,12,13,14,15,18,19,20,21,22,23,25): 3.7963666915893555	 ([brian][de][undeniable][virtuosity][can't][really][plot][thinly][disguised][psycho]["][carbon][copy,][terrifying][climax.][" blow][",][made][next][improvement. "])
+v(0,1,2,3,4,7,8,9,10,11,12,13,15,18,19,20,21,22,23,24): 7.511991500854492	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][plot][thinly][disguised][psycho]["][copy,][terrifying][climax.][" blow][",][made][next][year,])
+v(0,1,2,3,4,5,6,7,8,9,10,14,15,19,21,22,24,25): 8.015289306640625	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][plot][thinly][carbon][copy,][climax.][",][made][year,][improvement. "])
+v(2,5,6,7,8,9,10,11,12,13,14,18,19,20,21,22,23,24,25): -1.1686123609542847	 ([palma's][can't][really][camouflage][fact][plot][thinly][disguised][psycho]["][carbon][terrifying][climax.][" blow][",][made][next][year,][improvement. "])
+v(0,1,2,3,4,5,6,7,8,11,12,13,14,15,16,17,18,20,23,24,25): 7.954141616821289	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][disguised][psycho]["][carbon][copy,][provide][genuinely][terrifying][" blow][next][year,][improvement. "])
+v(0,1,3,4,5,6,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25): 4.632298469543457	 ([brian][de][undeniable][virtuosity][can't][really][plot][thinly][disguised][psycho]["][carbon][copy,][provide][genuinely][terrifying][climax.][" blow][",][made][next][improvement. "])
+v(0,1,2,3,4,7,8,9,10,11,12,13,15,16,17,18,19,20,21,22,23,24): 8.188602447509766	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][plot][thinly][disguised][psycho]["][copy,][provide][genuinely][terrifying][climax.][" blow][",][made][next][year,])
+v(0,1,2,3,4,5,6,7,8,9,10,14,15,16,17,19,21,22,24,25): 7.988919258117676	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][plot][thinly][carbon][copy,][provide][genuinely][climax.][",][made][year,][improvement. "])
+v(2,5,6,7,8,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25): 2.0882534980773926	 ([palma's][can't][really][camouflage][fact][plot][thinly][disguised][psycho]["][carbon][provide][genuinely][terrifying][climax.][" blow][",][made][next][year,][improvement. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25): 7.492698669433594	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][plot][thinly][disguised][psycho]["][carbon][copy,][terrifying][climax.][" blow][",][made][next][year,][improvement. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.872459411621094	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][plot][thinly][disguised][psycho]["][carbon][copy,][provide][genuinely][terrifying][climax.][" blow][",][made][next][year,][improvement. "])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,14,15,24,25): 10.321572303771973, EP: 1.0539600849151611	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][carbon][copy,][year,][improvement. "])
+v(0,1,2,3,4,5,6,7,8,14,15,16,17,24,25): 10.257554054260254, EP: 1.047423005104065	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][carbon][copy,][provide][genuinely][year,][improvement. "])
+v(0,1,2,3,4,7,8,9,10,11,12,13,15,16,17,18,19,20,21,22,23,24): 10.10927677154541, EP: 1.0322821140289307	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][plot][thinly][disguised][psycho]["][copy,][provide][genuinely][terrifying][climax.][" blow][",][made][next][year,])
+v(0,1,2,3,4,7,8,11,12,13,15,16,17,18,20,23,24): 9.96990966796875, EP: 1.018051028251648	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][disguised][psycho]["][copy,][provide][genuinely][terrifying][" blow][next][year,])
+v(0,1,2,3,4,5,6,7,8,9,10,14,15,19,21,22,24,25): 9.93596363067627, EP: 1.0145846605300903	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][plot][thinly][carbon][copy,][climax.][",][made][year,][improvement. "])
+v(0,1,2,3,4,5,6,7,8,9,10,14,15,16,17,19,21,22,24,25): 9.90959358215332, EP: 1.0118919610977173	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][plot][thinly][carbon][copy,][provide][genuinely][climax.][",][made][year,][improvement. "])
+v(0,1,2,3,4,5,6,7,8,11,12,13,14,15,16,17,18,20,23,24,25): 9.874815940856934, EP: 1.0083407163619995	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][disguised][psycho]["][carbon][copy,][provide][genuinely][terrifying][" blow][next][year,][improvement. "])
+v(0,1,2,3,4,7,8,9,10,15,16,17,19,21,22,24): 9.869974136352539, EP: 1.0078463554382324	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][plot][thinly][copy,][provide][genuinely][climax.][",][made][year,])
+v(0,1,2,3,4,7,8,15,16,17,24): 9.849861145019531, EP: 1.0057926177978516	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][copy,][provide][genuinely][year,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 9.793133735656738, EP: 1.0	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][plot][thinly][disguised][psycho]["][carbon][copy,][provide][genuinely][terrifying][climax.][" blow][",][made][next][year,][improvement. "])
+v(0,1,2,3,4,7,8,15,24): 9.79171371459961, EP: 0.9998549818992615	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][copy,][year,])
+v(0,1,2,3,4,7,8,9,10,15,19,21,22,24): 9.712848663330078, EP: 0.991801917552948	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][plot][thinly][copy,][climax.][",][made][year,])
+v(0,1,2,3,4,5,6,7,8,11,12,13,14,15,18,20,23,24,25): 9.457487106323242, EP: 0.9657263159751892	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][disguised][psycho]["][carbon][copy,][terrifying][" blow][next][year,][improvement. "])
+v(0,1,2,3,4,7,8,9,10,11,12,13,15,18,19,20,21,22,23,24): 9.432665824890137, EP: 0.9631917476654053	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][plot][thinly][disguised][psycho]["][copy,][terrifying][climax.][" blow][",][made][next][year,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25): 9.413372993469238, EP: 0.9612217545509338	 ([brian][de][palma's][undeniable][virtuosity][can't][really][camouflage][fact][plot][thinly][disguised][psycho]["][carbon][copy,][terrifying][climax.][" blow][",][made][next][year,][improvement. "])
+v(0,1,2,3,4,7,8,11,12,13,15,18,20,23,24): 9.322797775268555, EP: 0.9519729018211365	 ([brian][de][palma's][undeniable][virtuosity][camouflage][fact][disguised][psycho]["][copy,][terrifying][" blow][next][year,])
+v(0,1,3,4,5,6,11,12,13,14,15,16,17,18,20,23,25): 7.998373031616211, EP: 0.8167327642440796	 ([brian][de][undeniable][virtuosity][can't][really][disguised][psycho]["][carbon][copy,][provide][genuinely][terrifying][" blow][next][improvement. "])
+v(0,1,3,4,9,10,15,16,17,19,21,22): 7.169140338897705, EP: 0.7320578694343567	 ([brian][de][undeniable][virtuosity][plot][thinly][copy,][provide][genuinely][climax.][",][made])
+v(0,1,3,4,5,6,9,10,14,15,16,17,19,21,22,25): 6.853531360626221, EP: 0.6998302340507507	 ([brian][de][undeniable][virtuosity][can't][really][plot][thinly][carbon][copy,][provide][genuinely][climax.][",][made][improvement. "])
+v(0,1,3,4,5,6,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25): 6.552972793579102, EP: 0.6691395044326782	 ([brian][de][undeniable][virtuosity][can't][really][plot][thinly][disguised][psycho]["][carbon][copy,][provide][genuinely][terrifying][climax.][" blow][",][made][next][improvement. "])
+v(0,1,3,4,9,10,15,19,21,22): 6.544554710388184, EP: 0.6682799458503723	 ([brian][de][undeniable][virtuosity][plot][thinly][copy,][climax.][",][made])
+v(0,1,3,4,5,6,14,15,16,17,25): 6.468161582946777, EP: 0.6604792475700378	 ([brian][de][undeniable][virtuosity][can't][really][carbon][copy,][provide][genuinely][improvement. "])
+v(0,1,3,4,15,16,17): 6.410472393035889, EP: 0.6545884609222412	 ([brian][de][undeniable][virtuosity][copy,][provide][genuinely])
+v(0,1,3,4,15): 6.3830413818359375, EP: 0.6517874002456665	 ([brian][de][undeniable][virtuosity][copy,])
+v(0,1,3,4,5,6,14,15,25): 5.841768741607666, EP: 0.5965167880058289	 ([brian][de][undeniable][virtuosity][can't][really][carbon][copy,][improvement. "])
+v(0,1,3,4,5,6,9,10,11,12,13,14,15,18,19,20,21,22,23,25): 5.717041015625, EP: 0.5837805271148682	 ([brian][de][undeniable][virtuosity][can't][really][plot][thinly][disguised][psycho]["][carbon][copy,][terrifying][climax.][" blow][",][made][next][improvement. "])
+v(0,1,3,4,5,6,9,10,14,15,19,21,22,25): 5.701522350311279, EP: 0.5821958780288696	 ([brian][de][undeniable][virtuosity][can't][really][plot][thinly][carbon][copy,][climax.][",][made][improvement. "])
+v(5,6,11,12,13,14,16,17,18,20,23,25): 5.342071533203125, EP: 0.5454915165901184	 ([can't][really][disguised][psycho]["][carbon][provide][genuinely][terrifying][" blow][next][improvement. "])
+v(2,7,8,9,10,11,12,13,16,17,18,19,20,21,22,23,24): 5.189492225646973, EP: 0.5299112796783447	 ([palma's][camouflage][fact][plot][thinly][disguised][psycho]["][provide][genuinely][terrifying][climax.][" blow][",][made][next][year,])
+v(0,1,3,4,9,10,11,12,13,15,16,17,18,19,20,21,22,23): 5.1572699546813965, EP: 0.5266209840774536	 ([brian][de][undeniable][virtuosity][plot][thinly][disguised][psycho]["][copy,][provide][genuinely][terrifying][climax.][" blow][",][made][next])
+v(2,5,6,7,8,11,12,13,14,16,17,18,20,23,24,25): 4.947674751281738, EP: 0.5052187442779541	 ([palma's][can't][really][camouflage][fact][disguised][psycho]["][carbon][provide][genuinely][terrifying][" blow][next][year,][improvement. "])
+v(0,1,3,4,11,12,13,15,16,17,18,20,23): 4.614300727844238, EP: 0.4711771309375763	 ([brian][de][undeniable][virtuosity][disguised][psycho]["][copy,][provide][genuinely][terrifying][" blow][next])
+v(2,5,6,7,8,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25): 4.008927822113037, EP: 0.4093610942363739	 ([palma's][can't][really][camouflage][fact][plot][thinly][disguised][psycho]["][carbon][provide][genuinely][terrifying][climax.][" blow][",][made][next][year,][improvement. "])
+v(2,7,8,9,10,16,17,19,21,22,24): 3.733962059020996, EP: 0.3812836706638336	 ([palma's][camouflage][fact][plot][thinly][provide][genuinely][climax.][",][made][year,])
+v(2,7,8,11,12,13,16,17,18,20,23,24): 3.2903947830200195, EP: 0.33598998188972473	 ([palma's][camouflage][fact][disguised][psycho]["][provide][genuinely][terrifying][" blow][next][year,])
+v(2,5,6,7,8,9,10,14,16,17,19,21,22,24,25): 3.274280071258545, EP: 0.3343444764614105	 ([palma's][can't][really][camouflage][fact][plot][thinly][carbon][provide][genuinely][climax.][",][made][year,][improvement. "])
+v(2,7,8,24): 3.1847310066223145, EP: 0.3252004086971283	 ([palma's][camouflage][fact][year,])
+v(5,6,14,16,17,25): 3.065521001815796, EP: 0.31302759051322937	 ([can't][really][carbon][provide][genuinely][improvement. "])
+v(0,1,3,4,9,10,11,12,13,15,18,19,20,21,22,23): 2.9512791633605957, EP: 0.3013620674610138	 ([brian][de][undeniable][virtuosity][plot][thinly][disguised][psycho]["][copy,][terrifying][climax.][" blow][",][made][next])
+v(2,7,8,16,17,24): 2.926206588745117, EP: 0.29880186915397644	 ([palma's][camouflage][fact][provide][genuinely][year,])
+v(11,12,13,18,20,23): -2.9056506156921387, EP: -0.2967028319835663	 ([disguised][psycho]["][terrifying][" blow][next])
+v(2,5,6,7,8,11,12,13,14,18,20,23,24,25): -2.643218994140625, EP: -0.26990532875061035	 ([palma's][can't][really][camouflage][fact][disguised][psycho]["][carbon][terrifying][" blow][next][year,][improvement. "])
+v(0,1,3,4,5,6,11,12,13,14,15,18,20,23,25): 2.5554099082946777, EP: 0.26093894243240356	 ([brian][de][undeniable][virtuosity][can't][really][disguised][psycho]["][carbon][copy,][terrifying][" blow][next][improvement. "])
+v(2,7,8,9,10,19,21,22,24): 2.4519991874694824, EP: 0.25037941336631775	 ([palma's][camouflage][fact][plot][thinly][climax.][",][made][year,])
+v(5,6,9,10,14,16,17,19,21,22,25): 2.445826768875122, EP: 0.24974913895130157	 ([can't][really][plot][thinly][carbon][provide][genuinely][climax.][",][made][improvement. "])
+v(2,7,8,11,12,13,18,20,23,24): -2.3969693183898926, EP: -0.244760200381279	 ([palma's][camouflage][fact][disguised][psycho]["][terrifying][" blow][next][year,])
+v(2,5,6,7,8,14,16,17,24,25): 2.225861072540283, EP: 0.22728793323040009	 ([palma's][can't][really][camouflage][fact][carbon][provide][genuinely][year,][improvement. "])
+v(9,10,11,12,13,18,19,20,21,22,23): -2.1806154251098633, EP: -0.22266778349876404	 ([plot][thinly][disguised][psycho]["][terrifying][climax.][" blow][",][made][next])
+v(5,6,9,10,11,12,13,14,16,17,18,19,20,21,22,23,25): 2.139488458633423, EP: 0.21846821904182434	 ([can't][really][plot][thinly][disguised][psycho]["][carbon][provide][genuinely][terrifying][climax.][" blow][",][made][next][improvement. "])
+v(5,6,14,25): 1.9909602403640747, EP: 0.20330165326595306	 ([can't][really][carbon][improvement. "])
+v(11,12,13,16,17,18,20,23): 1.886098861694336, EP: 0.1925940066576004	 ([disguised][psycho]["][provide][genuinely][terrifying][" blow][next])
+v(2,5,6,7,8,14,24,25): 1.8668558597564697, EP: 0.19062906503677368	 ([palma's][can't][really][camouflage][fact][carbon][year,][improvement. "])
+v(5,6,11,12,13,14,18,20,23,25): -1.7164041996002197, EP: -0.1752660870552063	 ([can't][really][disguised][psycho]["][carbon][terrifying][" blow][next][improvement. "])
+v(0,1,3,4,11,12,13,15,18,20,23): 1.6688919067382812, EP: 0.1704144924879074	 ([brian][de][undeniable][virtuosity][disguised][psycho]["][copy,][terrifying][" blow][next])
+v(9,10,16,17,19,21,22): 1.2954611778259277, EP: 0.13228259980678558	 ([plot][thinly][provide][genuinely][climax.][",][made])
+v(16,17): 1.0994948148727417, EP: 0.11227200925350189	 ([provide][genuinely])
+v(2,5,6,7,8,9,10,14,19,21,22,24,25): 0.8765827417373657, EP: 0.08950993418693542	 ([palma's][can't][really][camouflage][fact][plot][thinly][carbon][climax.][",][made][year,][improvement. "])
+v(5,6,9,10,14,19,21,22,25): 0.8432648181915283, EP: 0.0861077606678009	 ([can't][really][plot][thinly][carbon][climax.][",][made][improvement. "])
+v(9,10,11,12,13,16,17,18,19,20,21,22,23): 0.8429195880889893, EP: 0.08607251197099686	 ([plot][thinly][disguised][psycho]["][provide][genuinely][terrifying][climax.][" blow][",][made][next])
+v(9,10,19,21,22): -0.8416004180908203, EP: -0.08593780547380447	 ([plot][thinly][climax.][",][made])
+v(2,5,6,7,8,9,10,11,12,13,14,18,19,20,21,22,23,24,25): 0.7520619630813599, EP: 0.0767948254942894	 ([palma's][can't][really][camouflage][fact][plot][thinly][disguised][psycho]["][carbon][terrifying][climax.][" blow][",][made][next][year,][improvement. "])
+v(2,7,8,9,10,11,12,13,18,19,20,21,22,23,24): 0.7208651304244995, EP: 0.07360924035310745	 ([palma's][camouflage][fact][plot][thinly][disguised][psycho]["][terrifying][climax.][" blow][",][made][next][year,])
+v(5,6,9,10,11,12,13,14,18,19,20,21,22,23,25): 0.07663178443908691, EP: 0.007825052365660667	 ([can't][really][plot][thinly][disguised][psycho]["][carbon][terrifying][climax.][" blow][",][made][next][improvement. "])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

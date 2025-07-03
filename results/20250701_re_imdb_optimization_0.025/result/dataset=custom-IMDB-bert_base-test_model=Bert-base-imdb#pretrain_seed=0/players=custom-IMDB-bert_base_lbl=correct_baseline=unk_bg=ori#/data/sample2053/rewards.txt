@@ -1,0 +1,168 @@
+---------- Players ----------
+Player 0: pile
+Player 1: sh! t
+Player 2: tied
+Player 3: book
+Player 4: worst
+Player 5: thing
+Player 6: ever
+Player 7: made.
+Player 8: can't
+Player 9: believe
+Player 10: someone
+Player 11: actually
+Player 12: relased
+Player 13: crap,
+Player 14: let
+Player 15: alone
+Player 16: acually
+Player 17: made
+Player 18: it.
+Player 19: horrible,
+Player 20: horrible,
+Player 21: horrible.
+Player 22: even
+Player 23: worth
+Player 24: mentioning
+Player 25: damn
+Player 26: story
+Player 27: details
+Player 28: it.
+Player 29: that's
+Player 30: bad
+Player 31: actually
+Player 32: is.
+Player 33: avoid
+Player 34: like
+Player 35: sars!
+---------- Rewards ----------
+v(): -0.7299240231513977	 ([])
+v(12,25,29,31,32,33): 2.242831230163574	 ([relased][damn][that's][actually][is.][avoid])
+v(3,4,5,6,13): 7.474795341491699	 ([book][worst][thing][ever][crap,])
+v(10,14,15,16,17,18,19,20,27,30): 6.057827949523926	 ([someone][let][alone][acually][made][it.][horrible,][horrible,][details][bad])
+v(21,22,23,24,26): 5.9740118980407715	 ([horrible.][even][worth][mentioning][story])
+v(0,35): 1.0980349779129028	 ([pile][sars!])
+v(1,2,7,8,9,11,28,34): -1.6245315074920654	 ([sh! t][tied][made.][can't][believe][actually][it.][like])
+v(3,4,5,6,12,13,25,29,31,32,33): 7.405338287353516	 ([book][worst][thing][ever][relased][crap,][damn][that's][actually][is.][avoid])
+v(10,12,14,15,16,17,18,19,20,25,27,29,30,31,32,33): 6.564425945281982	 ([someone][relased][let][alone][acually][made][it.][horrible,][horrible,][damn][details][that's][bad][actually][is.][avoid])
+v(12,21,22,23,24,25,26,29,31,32,33): 6.940290927886963	 ([relased][horrible.][even][worth][mentioning][damn][story][that's][actually][is.][avoid])
+v(0,12,25,29,31,32,33,35): 3.36348295211792	 ([pile][relased][damn][that's][actually][is.][avoid][sars!])
+v(1,2,7,8,9,11,12,25,28,29,31,32,33,34): 4.571078777313232	 ([sh! t][tied][made.][can't][believe][actually][relased][damn][it.][that's][actually][is.][avoid][like])
+v(3,4,5,6,10,13,14,15,16,17,18,19,20,27,30): 7.415663719177246	 ([book][worst][thing][ever][someone][crap,][let][alone][acually][made][it.][horrible,][horrible,][details][bad])
+v(3,4,5,6,13,21,22,23,24,26): 7.844667434692383	 ([book][worst][thing][ever][crap,][horrible.][even][worth][mentioning][story])
+v(0,3,4,5,6,13,35): 7.503612518310547	 ([pile][book][worst][thing][ever][crap,][sars!])
+v(1,2,3,4,5,6,7,8,9,11,13,28,34): 8.087834358215332	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][crap,][it.][like])
+v(10,14,15,16,17,18,19,20,21,22,23,24,26,27,30): 7.315479278564453	 ([someone][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][bad])
+v(0,10,14,15,16,17,18,19,20,27,30,35): 6.50820779800415	 ([pile][someone][let][alone][acually][made][it.][horrible,][horrible,][details][bad][sars!])
+v(1,2,7,8,9,10,11,14,15,16,17,18,19,20,27,28,30,34): 7.134850978851318	 ([sh! t][tied][made.][can't][believe][someone][actually][let][alone][acually][made][it.][horrible,][horrible,][details][it.][bad][like])
+v(0,21,22,23,24,26,35): 6.654155254364014	 ([pile][horrible.][even][worth][mentioning][story][sars!])
+v(1,2,7,8,9,11,21,22,23,24,26,28,34): 7.441717147827148	 ([sh! t][tied][made.][can't][believe][actually][horrible.][even][worth][mentioning][story][it.][like])
+v(0,1,2,7,8,9,11,28,34,35): 5.9466023445129395	 ([pile][sh! t][tied][made.][can't][believe][actually][it.][like][sars!])
+v(3,4,5,6,10,12,13,14,15,16,17,18,19,20,25,27,29,30,31,32,33): 7.439661979675293	 ([book][worst][thing][ever][someone][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][damn][details][that's][bad][actually][is.][avoid])
+v(3,4,5,6,12,13,21,22,23,24,25,26,29,31,32,33): 7.656086444854736	 ([book][worst][thing][ever][relased][crap,][horrible.][even][worth][mentioning][damn][story][that's][actually][is.][avoid])
+v(0,3,4,5,6,12,13,25,29,31,32,33,35): 7.2903618812561035	 ([pile][book][worst][thing][ever][relased][crap,][damn][that's][actually][is.][avoid][sars!])
+v(1,2,3,4,5,6,7,8,9,11,12,13,25,28,29,31,32,33,34): 8.077615737915039	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][relased][crap,][damn][it.][that's][actually][is.][avoid][like])
+v(10,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33): 7.460512161254883	 ([someone][relased][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][that's][bad][actually][is.][avoid])
+v(0,10,12,14,15,16,17,18,19,20,25,27,29,30,31,32,33,35): 6.796347618103027	 ([pile][someone][relased][let][alone][acually][made][it.][horrible,][horrible,][damn][details][that's][bad][actually][is.][avoid][sars!])
+v(1,2,7,8,9,10,11,12,14,15,16,17,18,19,20,25,27,28,29,30,31,32,33,34): 7.037948131561279	 ([sh! t][tied][made.][can't][believe][someone][actually][relased][let][alone][acually][made][it.][horrible,][horrible,][damn][details][it.][that's][bad][actually][is.][avoid][like])
+v(0,12,21,22,23,24,25,26,29,31,32,33,35): 7.013506889343262	 ([pile][relased][horrible.][even][worth][mentioning][damn][story][that's][actually][is.][avoid][sars!])
+v(1,2,7,8,9,11,12,21,22,23,24,25,26,28,29,31,32,33,34): 7.396324634552002	 ([sh! t][tied][made.][can't][believe][actually][relased][horrible.][even][worth][mentioning][damn][story][it.][that's][actually][is.][avoid][like])
+v(0,1,2,7,8,9,11,12,25,28,29,31,32,33,34,35): 6.93541145324707	 ([pile][sh! t][tied][made.][can't][believe][actually][relased][damn][it.][that's][actually][is.][avoid][like][sars!])
+v(3,4,5,6,10,13,14,15,16,17,18,19,20,21,22,23,24,26,27,30): 7.811351776123047	 ([book][worst][thing][ever][someone][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][bad])
+v(0,3,4,5,6,10,13,14,15,16,17,18,19,20,27,30,35): 7.459754943847656	 ([pile][book][worst][thing][ever][someone][crap,][let][alone][acually][made][it.][horrible,][horrible,][details][bad][sars!])
+v(1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,27,28,30,34): 7.909827709197998	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][crap,][let][alone][acually][made][it.][horrible,][horrible,][details][it.][bad][like])
+v(0,3,4,5,6,13,21,22,23,24,26,35): 7.836716651916504	 ([pile][book][worst][thing][ever][crap,][horrible.][even][worth][mentioning][story][sars!])
+v(1,2,3,4,5,6,7,8,9,11,13,21,22,23,24,26,28,34): 8.1607666015625	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][crap,][horrible.][even][worth][mentioning][story][it.][like])
+v(0,1,2,3,4,5,6,7,8,9,11,13,28,34,35): 8.052438735961914	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][crap,][it.][like][sars!])
+v(0,10,14,15,16,17,18,19,20,21,22,23,24,26,27,30,35): 7.497754096984863	 ([pile][someone][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][bad][sars!])
+v(1,2,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,26,27,28,30,34): 7.628435134887695	 ([sh! t][tied][made.][can't][believe][someone][actually][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][it.][bad][like])
+v(0,1,2,7,8,9,10,11,14,15,16,17,18,19,20,27,28,30,34,35): 7.506036281585693	 ([pile][sh! t][tied][made.][can't][believe][someone][actually][let][alone][acually][made][it.][horrible,][horrible,][details][it.][bad][like][sars!])
+v(0,1,2,7,8,9,11,21,22,23,24,26,28,34,35): 7.838038444519043	 ([pile][sh! t][tied][made.][can't][believe][actually][horrible.][even][worth][mentioning][story][it.][like][sars!])
+v(3,4,5,6,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33): 7.695345878601074	 ([book][worst][thing][ever][someone][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][that's][bad][actually][is.][avoid])
+v(0,3,4,5,6,10,12,13,14,15,16,17,18,19,20,25,27,29,30,31,32,33,35): 7.366170883178711	 ([pile][book][worst][thing][ever][someone][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][damn][details][that's][bad][actually][is.][avoid][sars!])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,25,27,28,29,30,31,32,33,34): 7.798276901245117	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][damn][details][it.][that's][bad][actually][is.][avoid][like])
+v(0,3,4,5,6,12,13,21,22,23,24,25,26,29,31,32,33,35): 7.562766075134277	 ([pile][book][worst][thing][ever][relased][crap,][horrible.][even][worth][mentioning][damn][story][that's][actually][is.][avoid][sars!])
+v(1,2,3,4,5,6,7,8,9,11,12,13,21,22,23,24,25,26,28,29,31,32,33,34): 8.00912094116211	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][relased][crap,][horrible.][even][worth][mentioning][damn][story][it.][that's][actually][is.][avoid][like])
+v(0,1,2,3,4,5,6,7,8,9,11,12,13,25,28,29,31,32,33,34,35): 8.111743927001953	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][relased][crap,][damn][it.][that's][actually][is.][avoid][like][sars!])
+v(0,10,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,35): 7.540388107299805	 ([pile][someone][relased][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][that's][bad][actually][is.][avoid][sars!])
+v(1,2,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34): 7.485915660858154	 ([sh! t][tied][made.][can't][believe][someone][actually][relased][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][it.][that's][bad][actually][is.][avoid][like])
+v(0,1,2,7,8,9,10,11,12,14,15,16,17,18,19,20,25,27,28,29,30,31,32,33,34,35): 7.441644668579102	 ([pile][sh! t][tied][made.][can't][believe][someone][actually][relased][let][alone][acually][made][it.][horrible,][horrible,][damn][details][it.][that's][bad][actually][is.][avoid][like][sars!])
+v(0,1,2,7,8,9,11,12,21,22,23,24,25,26,28,29,31,32,33,34,35): 7.7533674240112305	 ([pile][sh! t][tied][made.][can't][believe][actually][relased][horrible.][even][worth][mentioning][damn][story][it.][that's][actually][is.][avoid][like][sars!])
+v(0,3,4,5,6,10,13,14,15,16,17,18,19,20,21,22,23,24,26,27,30,35): 7.817488670349121	 ([pile][book][worst][thing][ever][someone][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][bad][sars!])
+v(1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,30,34): 8.091017723083496	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][it.][bad][like])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,27,28,30,34,35): 7.842082500457764	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][crap,][let][alone][acually][made][it.][horrible,][horrible,][details][it.][bad][like][sars!])
+v(0,1,2,3,4,5,6,7,8,9,11,13,21,22,23,24,26,28,34,35): 8.113637924194336	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][crap,][horrible.][even][worth][mentioning][story][it.][like][sars!])
+v(0,1,2,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,26,27,28,30,34,35): 7.865753650665283	 ([pile][sh! t][tied][made.][can't][believe][someone][actually][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][it.][bad][like][sars!])
+v(0,3,4,5,6,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,35): 7.657201766967773	 ([pile][book][worst][thing][ever][someone][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][that's][bad][actually][is.][avoid][sars!])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34): 7.942954063415527	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][it.][that's][bad][actually][is.][avoid][like])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,25,27,28,29,30,31,32,33,34,35): 7.845065593719482	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][damn][details][it.][that's][bad][actually][is.][avoid][like][sars!])
+v(0,1,2,3,4,5,6,7,8,9,11,12,13,21,22,23,24,25,26,28,29,31,32,33,34,35): 8.050435066223145	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][relased][crap,][horrible.][even][worth][mentioning][damn][story][it.][that's][actually][is.][avoid][like][sars!])
+v(0,1,2,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 7.779571533203125	 ([pile][sh! t][tied][made.][can't][believe][someone][actually][relased][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][it.][that's][bad][actually][is.][avoid][like][sars!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,30,34,35): 8.08778190612793	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][it.][bad][like][sars!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 7.98362922668457	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][it.][that's][bad][actually][is.][avoid][like][sars!])
+---------- Rewards-v() ----------
+v(1,2,3,4,5,6,7,8,9,11,13,21,22,23,24,26,28,34): 8.890690803527832, EP: 1.0203289985656738	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][crap,][horrible.][even][worth][mentioning][story][it.][like])
+v(0,1,2,3,4,5,6,7,8,9,11,13,21,22,23,24,26,28,34,35): 8.843562126159668, EP: 1.0149202346801758	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][crap,][horrible.][even][worth][mentioning][story][it.][like][sars!])
+v(0,1,2,3,4,5,6,7,8,9,11,12,13,25,28,29,31,32,33,34,35): 8.841668128967285, EP: 1.0147029161453247	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][relased][crap,][damn][it.][that's][actually][is.][avoid][like][sars!])
+v(1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,30,34): 8.820941925048828, EP: 1.012324333190918	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][it.][bad][like])
+v(1,2,3,4,5,6,7,8,9,11,13,28,34): 8.817758560180664, EP: 1.0119589567184448	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][crap,][it.][like])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,30,34,35): 8.817706108093262, EP: 1.0119529962539673	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][it.][bad][like][sars!])
+v(1,2,3,4,5,6,7,8,9,11,12,13,25,28,29,31,32,33,34): 8.807539939880371, EP: 1.0107862949371338	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][relased][crap,][damn][it.][that's][actually][is.][avoid][like])
+v(0,1,2,3,4,5,6,7,8,9,11,13,28,34,35): 8.782362937927246, EP: 1.0078967809677124	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][crap,][it.][like][sars!])
+v(0,1,2,3,4,5,6,7,8,9,11,12,13,21,22,23,24,25,26,28,29,31,32,33,34,35): 8.780359268188477, EP: 1.0076669454574585	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][relased][crap,][horrible.][even][worth][mentioning][damn][story][it.][that's][actually][is.][avoid][like][sars!])
+v(1,2,3,4,5,6,7,8,9,11,12,13,21,22,23,24,25,26,28,29,31,32,33,34): 8.739045143127441, EP: 1.0029255151748657	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][actually][relased][crap,][horrible.][even][worth][mentioning][damn][story][it.][that's][actually][is.][avoid][like])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 8.713553428649902, EP: 1.0	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][it.][that's][bad][actually][is.][avoid][like][sars!])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34): 8.67287826538086, EP: 0.9953319430351257	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][it.][that's][bad][actually][is.][avoid][like])
+v(1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,27,28,30,34): 8.639751434326172, EP: 0.991530179977417	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][crap,][let][alone][acually][made][it.][horrible,][horrible,][details][it.][bad][like])
+v(0,1,2,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,26,27,28,30,34,35): 8.595677375793457, EP: 0.9864721298217773	 ([pile][sh! t][tied][made.][can't][believe][someone][actually][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][it.][bad][like][sars!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,25,27,28,29,30,31,32,33,34,35): 8.574989318847656, EP: 0.9840978384017944	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][damn][details][it.][that's][bad][actually][is.][avoid][like][sars!])
+v(3,4,5,6,13,21,22,23,24,26): 8.574591636657715, EP: 0.9840522408485413	 ([book][worst][thing][ever][crap,][horrible.][even][worth][mentioning][story])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,27,28,30,34,35): 8.572006225585938, EP: 0.9837555289268494	 ([pile][sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][crap,][let][alone][acually][made][it.][horrible,][horrible,][details][it.][bad][like][sars!])
+v(0,1,2,7,8,9,11,21,22,23,24,26,28,34,35): 8.567962646484375, EP: 0.9832914471626282	 ([pile][sh! t][tied][made.][can't][believe][actually][horrible.][even][worth][mentioning][story][it.][like][sars!])
+v(0,3,4,5,6,13,21,22,23,24,26,35): 8.566640853881836, EP: 0.9831397533416748	 ([pile][book][worst][thing][ever][crap,][horrible.][even][worth][mentioning][story][sars!])
+v(0,3,4,5,6,10,13,14,15,16,17,18,19,20,21,22,23,24,26,27,30,35): 8.547412872314453, EP: 0.9809330701828003	 ([pile][book][worst][thing][ever][someone][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][bad][sars!])
+v(3,4,5,6,10,13,14,15,16,17,18,19,20,21,22,23,24,26,27,30): 8.541275978088379, EP: 0.9802287817001343	 ([book][worst][thing][ever][someone][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][bad])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,25,27,28,29,30,31,32,33,34): 8.52820110321045, EP: 0.9787282943725586	 ([sh! t][tied][book][worst][thing][ever][made.][can't][believe][someone][actually][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][damn][details][it.][that's][bad][actually][is.][avoid][like])
+v(0,1,2,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 8.509495735168457, EP: 0.9765815734863281	 ([pile][sh! t][tied][made.][can't][believe][someone][actually][relased][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][it.][that's][bad][actually][is.][avoid][like][sars!])
+v(0,1,2,7,8,9,11,12,21,22,23,24,25,26,28,29,31,32,33,34,35): 8.483291625976562, EP: 0.9735742807388306	 ([pile][sh! t][tied][made.][can't][believe][actually][relased][horrible.][even][worth][mentioning][damn][story][it.][that's][actually][is.][avoid][like][sars!])
+v(3,4,5,6,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33): 8.425270080566406, EP: 0.9669155478477478	 ([book][worst][thing][ever][someone][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][that's][bad][actually][is.][avoid])
+v(0,3,4,5,6,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,35): 8.387125968933105, EP: 0.962537944316864	 ([pile][book][worst][thing][ever][someone][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][that's][bad][actually][is.][avoid][sars!])
+v(3,4,5,6,12,13,21,22,23,24,25,26,29,31,32,33): 8.38601016998291, EP: 0.9624099135398865	 ([book][worst][thing][ever][relased][crap,][horrible.][even][worth][mentioning][damn][story][that's][actually][is.][avoid])
+v(1,2,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,26,27,28,30,34): 8.358359336853027, EP: 0.9592366218566895	 ([sh! t][tied][made.][can't][believe][someone][actually][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][it.][bad][like])
+v(0,3,4,5,6,12,13,21,22,23,24,25,26,29,31,32,33,35): 8.29269027709961, EP: 0.9517001509666443	 ([pile][book][worst][thing][ever][relased][crap,][horrible.][even][worth][mentioning][damn][story][that's][actually][is.][avoid][sars!])
+v(0,10,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,35): 8.270312309265137, EP: 0.949131965637207	 ([pile][someone][relased][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][that's][bad][actually][is.][avoid][sars!])
+v(0,1,2,7,8,9,10,11,14,15,16,17,18,19,20,27,28,30,34,35): 8.235960006713867, EP: 0.9451895952224731	 ([pile][sh! t][tied][made.][can't][believe][someone][actually][let][alone][acually][made][it.][horrible,][horrible,][details][it.][bad][like][sars!])
+v(0,3,4,5,6,13,35): 8.233536720275879, EP: 0.9449114799499512	 ([pile][book][worst][thing][ever][crap,][sars!])
+v(0,10,14,15,16,17,18,19,20,21,22,23,24,26,27,30,35): 8.227678298950195, EP: 0.9442391395568848	 ([pile][someone][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][bad][sars!])
+v(1,2,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34): 8.215839385986328, EP: 0.9428804516792297	 ([sh! t][tied][made.][can't][believe][someone][actually][relased][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][it.][that's][bad][actually][is.][avoid][like])
+v(3,4,5,6,13): 8.204719543457031, EP: 0.9416043162345886	 ([book][worst][thing][ever][crap,])
+v(10,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33): 8.190436363220215, EP: 0.9399651288986206	 ([someone][relased][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][damn][story][details][that's][bad][actually][is.][avoid])
+v(0,3,4,5,6,10,13,14,15,16,17,18,19,20,27,30,35): 8.189679145812988, EP: 0.9398782253265381	 ([pile][book][worst][thing][ever][someone][crap,][let][alone][acually][made][it.][horrible,][horrible,][details][bad][sars!])
+v(1,2,7,8,9,11,21,22,23,24,26,28,34): 8.17164134979248, EP: 0.9378081560134888	 ([sh! t][tied][made.][can't][believe][actually][horrible.][even][worth][mentioning][story][it.][like])
+v(0,1,2,7,8,9,10,11,12,14,15,16,17,18,19,20,25,27,28,29,30,31,32,33,34,35): 8.171568870544434, EP: 0.9377998113632202	 ([pile][sh! t][tied][made.][can't][believe][someone][actually][relased][let][alone][acually][made][it.][horrible,][horrible,][damn][details][it.][that's][bad][actually][is.][avoid][like][sars!])
+v(3,4,5,6,10,12,13,14,15,16,17,18,19,20,25,27,29,30,31,32,33): 8.169586181640625, EP: 0.9375723004341125	 ([book][worst][thing][ever][someone][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][damn][details][that's][bad][actually][is.][avoid])
+v(3,4,5,6,10,13,14,15,16,17,18,19,20,27,30): 8.145587921142578, EP: 0.9348181486129761	 ([book][worst][thing][ever][someone][crap,][let][alone][acually][made][it.][horrible,][horrible,][details][bad])
+v(3,4,5,6,12,13,25,29,31,32,33): 8.135262489318848, EP: 0.9336331486701965	 ([book][worst][thing][ever][relased][crap,][damn][that's][actually][is.][avoid])
+v(1,2,7,8,9,11,12,21,22,23,24,25,26,28,29,31,32,33,34): 8.126248359680176, EP: 0.9325986504554749	 ([sh! t][tied][made.][can't][believe][actually][relased][horrible.][even][worth][mentioning][damn][story][it.][that's][actually][is.][avoid][like])
+v(0,3,4,5,6,10,12,13,14,15,16,17,18,19,20,25,27,29,30,31,32,33,35): 8.096095085144043, EP: 0.92913818359375	 ([pile][book][worst][thing][ever][someone][relased][crap,][let][alone][acually][made][it.][horrible,][horrible,][damn][details][that's][bad][actually][is.][avoid][sars!])
+v(10,14,15,16,17,18,19,20,21,22,23,24,26,27,30): 8.045403480529785, EP: 0.9233205914497375	 ([someone][let][alone][acually][made][it.][horrible,][horrible,][horrible.][even][worth][mentioning][story][details][bad])
+v(0,3,4,5,6,12,13,25,29,31,32,33,35): 8.020285606384277, EP: 0.9204379916191101	 ([pile][book][worst][thing][ever][relased][crap,][damn][that's][actually][is.][avoid][sars!])
+v(1,2,7,8,9,10,11,14,15,16,17,18,19,20,27,28,30,34): 7.86477518081665, EP: 0.9025910496711731	 ([sh! t][tied][made.][can't][believe][someone][actually][let][alone][acually][made][it.][horrible,][horrible,][details][it.][bad][like])
+v(1,2,7,8,9,10,11,12,14,15,16,17,18,19,20,25,27,28,29,30,31,32,33,34): 7.767872333526611, EP: 0.8914700746536255	 ([sh! t][tied][made.][can't][believe][someone][actually][relased][let][alone][acually][made][it.][horrible,][horrible,][damn][details][it.][that's][bad][actually][is.][avoid][like])
+v(0,12,21,22,23,24,25,26,29,31,32,33,35): 7.743431091308594, EP: 0.8886651396751404	 ([pile][relased][horrible.][even][worth][mentioning][damn][story][that's][actually][is.][avoid][sars!])
+v(12,21,22,23,24,25,26,29,31,32,33): 7.670215129852295, EP: 0.8802626132965088	 ([relased][horrible.][even][worth][mentioning][damn][story][that's][actually][is.][avoid])
+v(0,1,2,7,8,9,11,12,25,28,29,31,32,33,34,35): 7.665335655212402, EP: 0.879702627658844	 ([pile][sh! t][tied][made.][can't][believe][actually][relased][damn][it.][that's][actually][is.][avoid][like][sars!])
+v(0,10,12,14,15,16,17,18,19,20,25,27,29,30,31,32,33,35): 7.526271820068359, EP: 0.8637431263923645	 ([pile][someone][relased][let][alone][acually][made][it.][horrible,][horrible,][damn][details][that's][bad][actually][is.][avoid][sars!])
+v(0,21,22,23,24,26,35): 7.384079456329346, EP: 0.8474245667457581	 ([pile][horrible.][even][worth][mentioning][story][sars!])
+v(10,12,14,15,16,17,18,19,20,25,27,29,30,31,32,33): 7.2943501472473145, EP: 0.8371269106864929	 ([someone][relased][let][alone][acually][made][it.][horrible,][horrible,][damn][details][that's][bad][actually][is.][avoid])
+v(0,10,14,15,16,17,18,19,20,27,30,35): 7.238131999969482, EP: 0.8306751251220703	 ([pile][someone][let][alone][acually][made][it.][horrible,][horrible,][details][bad][sars!])
+v(10,14,15,16,17,18,19,20,27,30): 6.787752151489258, EP: 0.7789878249168396	 ([someone][let][alone][acually][made][it.][horrible,][horrible,][details][bad])
+v(21,22,23,24,26): 6.7039361000061035, EP: 0.7693687677383423	 ([horrible.][even][worth][mentioning][story])
+v(0,1,2,7,8,9,11,28,34,35): 6.6765265464782715, EP: 0.7662231922149658	 ([pile][sh! t][tied][made.][can't][believe][actually][it.][like][sars!])
+v(1,2,7,8,9,11,12,25,28,29,31,32,33,34): 5.3010029792785645, EP: 0.6083629131317139	 ([sh! t][tied][made.][can't][believe][actually][relased][damn][it.][that's][actually][is.][avoid][like])
+v(0,12,25,29,31,32,33,35): 4.093407154083252, EP: 0.4697747230529785	 ([pile][relased][damn][that's][actually][is.][avoid][sars!])
+v(12,25,29,31,32,33): 2.972755193710327, EP: 0.3411644995212555	 ([relased][damn][that's][actually][is.][avoid])
+v(0,35): 1.8279590606689453, EP: 0.2097834199666977	 ([pile][sars!])
+v(1,2,7,8,9,11,28,34): -0.8946074843406677, EP: -0.10266850143671036	 ([sh! t][tied][made.][can't][believe][actually][it.][like])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,173 @@
+---------- Players ----------
+Player 0: oh
+Player 1: dear,
+Player 2: oh
+Player 3: dear.
+Player 4: started
+Player 5: watching
+Player 6: knowing
+Player 7: expect.
+Player 8: believe
+Player 9: seeing.
+Player 10: times
+Player 11: thought
+Player 12: comedy.
+Player 13: loved
+Player 14: government's
+Player 15: plan
+Player 16: capture
+Player 17: terrorist
+Player 18: leader
+Player 19: air
+Player 20: drop
+Player 21: one
+Player 22: man,
+Player 23: unarmed,
+Player 24: expect
+Player 25: capture
+Player 26: escape
+Player 27: rocket
+Player 28: pack.
+Player 29: really
+Player 30: easy.
+Player 31: i've
+Player 32: finally
+Player 33: found
+Player 34: movie
+Player 35: worse
+Player 36: plan
+Player 37: 9
+Player 38: outer
+Player 39: space
+Player 40: ". "
+---------- Rewards ----------
+v(): -0.40259915590286255	 ([])
+v(3,8,9,10,11,17,22): 0.818348228931427	 ([dear.][believe][seeing.][times][thought][terrorist][man,])
+v(1,2,4,5,6,7): 2.1426656246185303	 ([dear,][oh][started][watching][knowing][expect.])
+v(0,12,16,28,40): -4.226468086242676	 ([oh][comedy.][capture][pack.][". "])
+v(13,14,15,18,19,20,21,23,24,29,32): -3.2343859672546387	 ([loved][government's][plan][leader][air][drop][one][unarmed,][expect][really][finally])
+v(25,26,27,37,38,39): -0.6701247096061707	 ([capture][escape][rocket][9][outer][space])
+v(30,31,33,34,35,36): 3.1355631351470947	 ([easy.][i've][found][movie][worse][plan])
+v(1,2,3,4,5,6,7,8,9,10,11,17,22): 3.376004219055176	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][terrorist][man,])
+v(0,3,8,9,10,11,12,16,17,22,28,40): -1.7199509143829346	 ([oh][dear.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][pack.][". "])
+v(3,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,29,32): 2.301218032836914	 ([dear.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][really][finally])
+v(3,8,9,10,11,17,22,25,26,27,37,38,39): 0.9098079800605774	 ([dear.][believe][seeing.][times][thought][terrorist][man,][capture][escape][rocket][9][outer][space])
+v(3,8,9,10,11,17,22,30,31,33,34,35,36): 5.139877796173096	 ([dear.][believe][seeing.][times][thought][terrorist][man,][easy.][i've][found][movie][worse][plan])
+v(0,1,2,4,5,6,7,12,16,28,40): 0.6827220320701599	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][capture][pack.][". "])
+v(1,2,4,5,6,7,13,14,15,18,19,20,21,23,24,29,32): -2.730623722076416	 ([dear,][oh][started][watching][knowing][expect.][loved][government's][plan][leader][air][drop][one][unarmed,][expect][really][finally])
+v(1,2,4,5,6,7,25,26,27,37,38,39): 2.1458704471588135	 ([dear,][oh][started][watching][knowing][expect.][capture][escape][rocket][9][outer][space])
+v(1,2,4,5,6,7,30,31,33,34,35,36): 5.6209635734558105	 ([dear,][oh][started][watching][knowing][expect.][easy.][i've][found][movie][worse][plan])
+v(0,12,13,14,15,16,18,19,20,21,23,24,28,29,32,40): -7.09434700012207	 ([oh][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][pack.][really][finally][". "])
+v(0,12,16,25,26,27,28,37,38,39,40): -7.222360610961914	 ([oh][comedy.][capture][capture][escape][rocket][pack.][9][outer][space][". "])
+v(0,12,16,28,30,31,33,34,35,36,40): 3.546603202819824	 ([oh][comedy.][capture][pack.][easy.][i've][found][movie][worse][plan][". "])
+v(13,14,15,18,19,20,21,23,24,25,26,27,29,32,37,38,39): -3.6225666999816895	 ([loved][government's][plan][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][really][finally][9][outer][space])
+v(13,14,15,18,19,20,21,23,24,29,30,31,32,33,34,35,36): 3.873859167098999	 ([loved][government's][plan][leader][air][drop][one][unarmed,][expect][really][easy.][i've][finally][found][movie][worse][plan])
+v(25,26,27,30,31,33,34,35,36,37,38,39): 6.489048004150391	 ([capture][escape][rocket][easy.][i've][found][movie][worse][plan][9][outer][space])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,16,17,22,28,40): 0.5255106091499329	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][pack.][". "])
+v(1,2,3,4,5,6,7,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,29,32): 4.120118141174316	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][really][finally])
+v(1,2,3,4,5,6,7,8,9,10,11,17,22,25,26,27,37,38,39): 2.8894739151000977	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][terrorist][man,][capture][escape][rocket][9][outer][space])
+v(1,2,3,4,5,6,7,8,9,10,11,17,22,30,31,33,34,35,36): 6.798030853271484	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][terrorist][man,][easy.][i've][found][movie][worse][plan])
+v(0,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,28,29,32,40): 1.4552925825119019	 ([oh][dear.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][pack.][really][finally][". "])
+v(0,3,8,9,10,11,12,16,17,22,25,26,27,28,37,38,39,40): -0.7589151263237	 ([oh][dear.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][capture][escape][rocket][pack.][9][outer][space][". "])
+v(0,3,8,9,10,11,12,16,17,22,28,30,31,33,34,35,36,40): 6.273109436035156	 ([oh][dear.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][pack.][easy.][i've][found][movie][worse][plan][". "])
+v(3,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,25,26,27,29,32,37,38,39): 1.9988254308700562	 ([dear.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][really][finally][9][outer][space])
+v(3,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,29,30,31,32,33,34,35,36): 7.007564544677734	 ([dear.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][really][easy.][i've][finally][found][movie][worse][plan])
+v(3,8,9,10,11,17,22,25,26,27,30,31,33,34,35,36,37,38,39): 6.963911056518555	 ([dear.][believe][seeing.][times][thought][terrorist][man,][capture][escape][rocket][easy.][i've][found][movie][worse][plan][9][outer][space])
+v(0,1,2,4,5,6,7,12,13,14,15,16,18,19,20,21,23,24,28,29,32,40): -6.082651138305664	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][pack.][really][finally][". "])
+v(0,1,2,4,5,6,7,12,16,25,26,27,28,37,38,39,40): 1.4064161777496338	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][capture][capture][escape][rocket][pack.][9][outer][space][". "])
+v(0,1,2,4,5,6,7,12,16,28,30,31,33,34,35,36,40): 7.146149635314941	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][capture][pack.][easy.][i've][found][movie][worse][plan][". "])
+v(1,2,4,5,6,7,13,14,15,18,19,20,21,23,24,25,26,27,29,32,37,38,39): -2.6255598068237305	 ([dear,][oh][started][watching][knowing][expect.][loved][government's][plan][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][really][finally][9][outer][space])
+v(1,2,4,5,6,7,13,14,15,18,19,20,21,23,24,29,30,31,32,33,34,35,36): 6.945383071899414	 ([dear,][oh][started][watching][knowing][expect.][loved][government's][plan][leader][air][drop][one][unarmed,][expect][really][easy.][i've][finally][found][movie][worse][plan])
+v(1,2,4,5,6,7,25,26,27,30,31,33,34,35,36,37,38,39): 7.471632957458496	 ([dear,][oh][started][watching][knowing][expect.][capture][escape][rocket][easy.][i've][found][movie][worse][plan][9][outer][space])
+v(0,12,13,14,15,16,18,19,20,21,23,24,25,26,27,28,29,32,37,38,39,40): -7.219390392303467	 ([oh][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][pack.][really][finally][9][outer][space][". "])
+v(0,12,13,14,15,16,18,19,20,21,23,24,28,29,30,31,32,33,34,35,36,40): 4.662635803222656	 ([oh][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][pack.][really][easy.][i've][finally][found][movie][worse][plan][". "])
+v(0,12,16,25,26,27,28,30,31,33,34,35,36,37,38,39,40): 3.8432774543762207	 ([oh][comedy.][capture][capture][escape][rocket][pack.][easy.][i've][found][movie][worse][plan][9][outer][space][". "])
+v(13,14,15,18,19,20,21,23,24,25,26,27,29,30,31,32,33,34,35,36,37,38,39): 5.590615749359131	 ([loved][government's][plan][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,28,29,32,40): 2.2528598308563232	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][pack.][really][finally][". "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,16,17,22,25,26,27,28,37,38,39,40): 1.1801974773406982	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][capture][escape][rocket][pack.][9][outer][space][". "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,16,17,22,28,30,31,33,34,35,36,40): 7.080856800079346	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][pack.][easy.][i've][found][movie][worse][plan][". "])
+v(1,2,3,4,5,6,7,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,25,26,27,29,32,37,38,39): 3.704576015472412	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][really][finally][9][outer][space])
+v(1,2,3,4,5,6,7,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,29,30,31,32,33,34,35,36): 7.730578899383545	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][really][easy.][i've][finally][found][movie][worse][plan])
+v(1,2,3,4,5,6,7,8,9,10,11,17,22,25,26,27,30,31,33,34,35,36,37,38,39): 7.4946489334106445	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][terrorist][man,][capture][escape][rocket][easy.][i've][found][movie][worse][plan][9][outer][space])
+v(0,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,32,37,38,39,40): 1.8601188659667969	 ([oh][dear.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][pack.][really][finally][9][outer][space][". "])
+v(0,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,28,29,30,31,32,33,34,35,36,40): 7.748170375823975	 ([oh][dear.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][pack.][really][easy.][i've][finally][found][movie][worse][plan][". "])
+v(0,3,8,9,10,11,12,16,17,22,25,26,27,28,30,31,33,34,35,36,37,38,39,40): 7.2593584060668945	 ([oh][dear.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][capture][escape][rocket][pack.][easy.][i've][found][movie][worse][plan][9][outer][space][". "])
+v(3,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,35,36,37,38,39): 7.621550559997559	 ([dear.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space])
+v(0,1,2,4,5,6,7,12,13,14,15,16,18,19,20,21,23,24,25,26,27,28,29,32,37,38,39,40): -5.415474891662598	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][pack.][really][finally][9][outer][space][". "])
+v(0,1,2,4,5,6,7,12,13,14,15,16,18,19,20,21,23,24,28,29,30,31,32,33,34,35,36,40): 7.245471477508545	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][pack.][really][easy.][i've][finally][found][movie][worse][plan][". "])
+v(0,1,2,4,5,6,7,12,16,25,26,27,28,30,31,33,34,35,36,37,38,39,40): 7.762197494506836	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][capture][capture][escape][rocket][pack.][easy.][i've][found][movie][worse][plan][9][outer][space][". "])
+v(1,2,4,5,6,7,13,14,15,18,19,20,21,23,24,25,26,27,29,30,31,32,33,34,35,36,37,38,39): 7.5137763023376465	 ([dear,][oh][started][watching][knowing][expect.][loved][government's][plan][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space])
+v(0,12,13,14,15,16,18,19,20,21,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 2.8678548336029053	 ([oh][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][pack.][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space][". "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,32,37,38,39,40): 2.659597873687744	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][pack.][really][finally][9][outer][space][". "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,28,29,30,31,32,33,34,35,36,40): 7.793790817260742	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][pack.][really][easy.][i've][finally][found][movie][worse][plan][". "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,16,17,22,25,26,27,28,30,31,33,34,35,36,37,38,39,40): 7.596055030822754	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][capture][escape][rocket][pack.][easy.][i've][found][movie][worse][plan][9][outer][space][". "])
+v(1,2,3,4,5,6,7,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,35,36,37,38,39): 7.70175838470459	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space])
+v(0,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 7.725224018096924	 ([oh][dear.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][pack.][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space][". "])
+v(0,1,2,4,5,6,7,12,13,14,15,16,18,19,20,21,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 7.281096458435059	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][pack.][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space][". "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.12249755859375	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][pack.][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space][". "])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.525096893310547, EP: 1.0	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][pack.][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space][". "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,28,29,30,31,32,33,34,35,36,40): 8.196390151977539, EP: 0.9614424705505371	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][pack.][really][easy.][i've][finally][found][movie][worse][plan][". "])
+v(0,1,2,4,5,6,7,12,16,25,26,27,28,30,31,33,34,35,36,37,38,39,40): 8.164796829223633, EP: 0.9577365517616272	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][capture][capture][escape][rocket][pack.][easy.][i've][found][movie][worse][plan][9][outer][space][". "])
+v(0,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,28,29,30,31,32,33,34,35,36,40): 8.150769233703613, EP: 0.9560911059379578	 ([oh][dear.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][pack.][really][easy.][i've][finally][found][movie][worse][plan][". "])
+v(1,2,3,4,5,6,7,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,29,30,31,32,33,34,35,36): 8.133177757263184, EP: 0.9540275931358337	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][really][easy.][i've][finally][found][movie][worse][plan])
+v(0,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.127822875976562, EP: 0.9533994793891907	 ([oh][dear.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][pack.][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space][". "])
+v(1,2,3,4,5,6,7,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,35,36,37,38,39): 8.104357719421387, EP: 0.9506469964981079	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space])
+v(3,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,35,36,37,38,39): 8.024149894714355, EP: 0.9412385821342468	 ([dear.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,16,17,22,25,26,27,28,30,31,33,34,35,36,37,38,39,40): 7.998654365539551, EP: 0.9382479190826416	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][capture][escape][rocket][pack.][easy.][i've][found][movie][worse][plan][9][outer][space][". "])
+v(1,2,4,5,6,7,13,14,15,18,19,20,21,23,24,25,26,27,29,30,31,32,33,34,35,36,37,38,39): 7.916375637054443, EP: 0.928596556186676	 ([dear,][oh][started][watching][knowing][expect.][loved][government's][plan][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space])
+v(1,2,3,4,5,6,7,8,9,10,11,17,22,25,26,27,30,31,33,34,35,36,37,38,39): 7.897248268127441, EP: 0.9263529181480408	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][terrorist][man,][capture][escape][rocket][easy.][i've][found][movie][worse][plan][9][outer][space])
+v(1,2,4,5,6,7,25,26,27,30,31,33,34,35,36,37,38,39): 7.874232292175293, EP: 0.9236531257629395	 ([dear,][oh][started][watching][knowing][expect.][capture][escape][rocket][easy.][i've][found][movie][worse][plan][9][outer][space])
+v(0,1,2,4,5,6,7,12,13,14,15,16,18,19,20,21,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 7.6836957931518555, EP: 0.9013030529022217	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][pack.][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space][". "])
+v(0,3,8,9,10,11,12,16,17,22,25,26,27,28,30,31,33,34,35,36,37,38,39,40): 7.661957740783691, EP: 0.8987531661987305	 ([oh][dear.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][capture][escape][rocket][pack.][easy.][i've][found][movie][worse][plan][9][outer][space][". "])
+v(0,1,2,4,5,6,7,12,13,14,15,16,18,19,20,21,23,24,28,29,30,31,32,33,34,35,36,40): 7.648070812225342, EP: 0.8971242308616638	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][pack.][really][easy.][i've][finally][found][movie][worse][plan][". "])
+v(0,1,2,4,5,6,7,12,16,28,30,31,33,34,35,36,40): 7.548748970031738, EP: 0.8854736685752869	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][capture][pack.][easy.][i've][found][movie][worse][plan][". "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,16,17,22,28,30,31,33,34,35,36,40): 7.483456134796143, EP: 0.877814769744873	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][pack.][easy.][i've][found][movie][worse][plan][". "])
+v(3,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,29,30,31,32,33,34,35,36): 7.410163879394531, EP: 0.869217574596405	 ([dear.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][really][easy.][i've][finally][found][movie][worse][plan])
+v(3,8,9,10,11,17,22,25,26,27,30,31,33,34,35,36,37,38,39): 7.366510391235352, EP: 0.864096999168396	 ([dear.][believe][seeing.][times][thought][terrorist][man,][capture][escape][rocket][easy.][i've][found][movie][worse][plan][9][outer][space])
+v(1,2,4,5,6,7,13,14,15,18,19,20,21,23,24,29,30,31,32,33,34,35,36): 7.347982406616211, EP: 0.8619236350059509	 ([dear,][oh][started][watching][knowing][expect.][loved][government's][plan][leader][air][drop][one][unarmed,][expect][really][easy.][i've][finally][found][movie][worse][plan])
+v(1,2,3,4,5,6,7,8,9,10,11,17,22,30,31,33,34,35,36): 7.200630187988281, EP: 0.8446391224861145	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][terrorist][man,][easy.][i've][found][movie][worse][plan])
+v(25,26,27,30,31,33,34,35,36,37,38,39): 6.8916473388671875, EP: 0.8083952069282532	 ([capture][escape][rocket][easy.][i've][found][movie][worse][plan][9][outer][space])
+v(0,12,16,25,26,27,28,37,38,39,40): -6.819761276245117, EP: -0.7999628782272339	 ([oh][comedy.][capture][capture][escape][rocket][pack.][9][outer][space][". "])
+v(0,12,13,14,15,16,18,19,20,21,23,24,25,26,27,28,29,32,37,38,39,40): -6.81679105758667, EP: -0.7996144890785217	 ([oh][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][pack.][really][finally][9][outer][space][". "])
+v(0,12,13,14,15,16,18,19,20,21,23,24,28,29,32,40): -6.691747665405273, EP: -0.7849467992782593	 ([oh][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][pack.][really][finally][". "])
+v(0,3,8,9,10,11,12,16,17,22,28,30,31,33,34,35,36,40): 6.675708770751953, EP: 0.7830654382705688	 ([oh][dear.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][pack.][easy.][i've][found][movie][worse][plan][". "])
+v(1,2,4,5,6,7,30,31,33,34,35,36): 6.023562908172607, EP: 0.7065682411193848	 ([dear,][oh][started][watching][knowing][expect.][easy.][i've][found][movie][worse][plan])
+v(13,14,15,18,19,20,21,23,24,25,26,27,29,30,31,32,33,34,35,36,37,38,39): 5.993215084075928, EP: 0.7030084133148193	 ([loved][government's][plan][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space])
+v(0,1,2,4,5,6,7,12,13,14,15,16,18,19,20,21,23,24,28,29,32,40): -5.680051803588867, EP: -0.6662741899490356	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][pack.][really][finally][". "])
+v(3,8,9,10,11,17,22,30,31,33,34,35,36): 5.542477130889893, EP: 0.6501365303993225	 ([dear.][believe][seeing.][times][thought][terrorist][man,][easy.][i've][found][movie][worse][plan])
+v(0,12,13,14,15,16,18,19,20,21,23,24,28,29,30,31,32,33,34,35,36,40): 5.065235137939453, EP: 0.5941557288169861	 ([oh][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][pack.][really][easy.][i've][finally][found][movie][worse][plan][". "])
+v(0,1,2,4,5,6,7,12,13,14,15,16,18,19,20,21,23,24,25,26,27,28,29,32,37,38,39,40): -5.012875556945801, EP: -0.5880138874053955	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][pack.][really][finally][9][outer][space][". "])
+v(1,2,3,4,5,6,7,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,29,32): 4.522717475891113, EP: 0.5305179953575134	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][really][finally])
+v(13,14,15,18,19,20,21,23,24,29,30,31,32,33,34,35,36): 4.276458263397217, EP: 0.5016316175460815	 ([loved][government's][plan][leader][air][drop][one][unarmed,][expect][really][easy.][i've][finally][found][movie][worse][plan])
+v(0,12,16,25,26,27,28,30,31,33,34,35,36,37,38,39,40): 4.245876789093018, EP: 0.4980444014072418	 ([oh][comedy.][capture][capture][escape][rocket][pack.][easy.][i've][found][movie][worse][plan][9][outer][space][". "])
+v(1,2,3,4,5,6,7,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,25,26,27,29,32,37,38,39): 4.107175350189209, EP: 0.48177462816238403	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][really][finally][9][outer][space])
+v(0,12,16,28,30,31,33,34,35,36,40): 3.949202299118042, EP: 0.4632442593574524	 ([oh][comedy.][capture][pack.][easy.][i've][found][movie][worse][plan][". "])
+v(0,12,16,28,40): -3.823868989944458, EP: -0.44854259490966797	 ([oh][comedy.][capture][pack.][". "])
+v(1,2,3,4,5,6,7,8,9,10,11,17,22): 3.7786033153533936, EP: 0.4432328939437866	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][terrorist][man,])
+v(30,31,33,34,35,36): 3.5381622314453125, EP: 0.41502898931503296	 ([easy.][i've][found][movie][worse][plan])
+v(1,2,3,4,5,6,7,8,9,10,11,17,22,25,26,27,37,38,39): 3.2920730113983154, EP: 0.38616251945495605	 ([dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][terrorist][man,][capture][escape][rocket][9][outer][space])
+v(0,12,13,14,15,16,18,19,20,21,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 3.270453929901123, EP: 0.3836266100406647	 ([oh][comedy.][loved][government's][plan][capture][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][pack.][really][easy.][i've][finally][found][movie][worse][plan][9][outer][space][". "])
+v(13,14,15,18,19,20,21,23,24,25,26,27,29,32,37,38,39): -3.2199676036834717, EP: -0.37770453095436096	 ([loved][government's][plan][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][really][finally][9][outer][space])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,32,37,38,39,40): 3.062196969985962, EP: 0.3591979146003723	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][pack.][really][finally][9][outer][space][". "])
+v(13,14,15,18,19,20,21,23,24,29,32): -2.831786870956421, EP: -0.33217063546180725	 ([loved][government's][plan][leader][air][drop][one][unarmed,][expect][really][finally])
+v(3,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,29,32): 2.703817129135132, EP: 0.3171596825122833	 ([dear.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][really][finally])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,28,29,32,40): 2.655458927154541, EP: 0.31148725748062134	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][pack.][really][finally][". "])
+v(1,2,4,5,6,7,25,26,27,37,38,39): 2.5484695434570312, EP: 0.2989373207092285	 ([dear,][oh][started][watching][knowing][expect.][capture][escape][rocket][9][outer][space])
+v(1,2,4,5,6,7): 2.545264720916748, EP: 0.2985613942146301	 ([dear,][oh][started][watching][knowing][expect.])
+v(3,8,9,10,11,13,14,15,17,18,19,20,21,22,23,24,25,26,27,29,32,37,38,39): 2.4014246463775635, EP: 0.2816888391971588	 ([dear.][believe][seeing.][times][thought][loved][government's][plan][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][really][finally][9][outer][space])
+v(1,2,4,5,6,7,13,14,15,18,19,20,21,23,24,29,32): -2.3280246257781982, EP: -0.273078978061676	 ([dear,][oh][started][watching][knowing][expect.][loved][government's][plan][leader][air][drop][one][unarmed,][expect][really][finally])
+v(0,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,32,37,38,39,40): 2.2627179622650146, EP: 0.2654184401035309	 ([oh][dear.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][capture][escape][rocket][pack.][really][finally][9][outer][space][". "])
+v(1,2,4,5,6,7,13,14,15,18,19,20,21,23,24,25,26,27,29,32,37,38,39): -2.2229607105255127, EP: -0.26075488328933716	 ([dear,][oh][started][watching][knowing][expect.][loved][government's][plan][leader][air][drop][one][unarmed,][expect][capture][escape][rocket][really][finally][9][outer][space])
+v(0,3,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,28,29,32,40): 1.8578917980194092, EP: 0.21793204545974731	 ([oh][dear.][believe][seeing.][times][thought][comedy.][loved][government's][plan][capture][terrorist][leader][air][drop][one][man,][unarmed,][expect][pack.][really][finally][". "])
+v(0,1,2,4,5,6,7,12,16,25,26,27,28,37,38,39,40): 1.8090152740478516, EP: 0.21219879388809204	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][capture][capture][escape][rocket][pack.][9][outer][space][". "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,16,17,22,25,26,27,28,37,38,39,40): 1.582796573638916, EP: 0.18566317856311798	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][capture][escape][rocket][pack.][9][outer][space][". "])
+v(0,3,8,9,10,11,12,16,17,22,28,40): -1.3173518180847168, EP: -0.15452632308006287	 ([oh][dear.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][pack.][". "])
+v(3,8,9,10,11,17,22,25,26,27,37,38,39): 1.31240713596344, EP: 0.15394629538059235	 ([dear.][believe][seeing.][times][thought][terrorist][man,][capture][escape][rocket][9][outer][space])
+v(3,8,9,10,11,17,22): 1.2209473848342896, EP: 0.1432180106639862	 ([dear.][believe][seeing.][times][thought][terrorist][man,])
+v(0,1,2,4,5,6,7,12,16,28,40): 1.0853211879730225, EP: 0.1273089498281479	 ([oh][dear,][oh][started][watching][knowing][expect.][comedy.][capture][pack.][". "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,16,17,22,28,40): 0.9281097650527954, EP: 0.10886794328689575	 ([oh][dear,][oh][dear.][started][watching][knowing][expect.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][pack.][". "])
+v(0,3,8,9,10,11,12,16,17,22,25,26,27,28,37,38,39,40): -0.3563159704208374, EP: -0.04179611802101135	 ([oh][dear.][believe][seeing.][times][thought][comedy.][capture][terrorist][man,][capture][escape][rocket][pack.][9][outer][space][". "])
+v(25,26,27,37,38,39): -0.2675255537033081, EP: -0.03138094022870064	 ([capture][escape][rocket][9][outer][space])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

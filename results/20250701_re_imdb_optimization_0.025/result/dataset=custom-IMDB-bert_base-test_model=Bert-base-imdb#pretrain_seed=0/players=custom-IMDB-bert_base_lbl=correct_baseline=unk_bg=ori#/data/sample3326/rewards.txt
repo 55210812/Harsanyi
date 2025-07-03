@@ -1,0 +1,159 @@
+---------- Players ----------
+Player 0: opinion
+Player 1: several
+Player 2: friends
+Player 3: family
+Player 4: members,
+Player 5: including
+Player 6: myself,
+Player 7: finest
+Player 8: entire
+Player 9: gamut
+Player 10: tarzan
+Player 11: movies.
+Player 12: johnny
+Player 13: weissmuller
+Player 14: never
+Player 15: played
+Player 16: part
+Player 17: well
+Player 18: following
+Player 19: issues
+Player 20: series.
+Player 21: definitely
+Player 22: rates
+Player 23: 10
+Player 24: "
+Player 25: collection
+Player 26: films. "
+---------- Rewards ----------
+v(): 1.9907221794128418	 ([])
+v(6,21,26): 3.9845376014709473	 ([myself,][definitely][films. "])
+v(0,1,2,3,4,5): 1.9607136249542236	 ([opinion][several][friends][family][members,][including])
+v(11,12,13,14,17,19): -0.9221056699752808	 ([movies.][johnny][weissmuller][never][well][issues])
+v(20,22,23,25): 2.5735890865325928	 ([series.][rates][10][collection])
+v(9,15,16,18,24): 2.2272891998291016	 ([gamut][played][part][following]["])
+v(7,8,10): 6.763806343078613	 ([finest][entire][tarzan])
+v(0,1,2,3,4,5,6,21,26): 7.806365013122559	 ([opinion][several][friends][family][members,][including][myself,][definitely][films. "])
+v(6,11,12,13,14,17,19,21,26): 0.867622971534729	 ([myself,][movies.][johnny][weissmuller][never][well][issues][definitely][films. "])
+v(6,20,21,22,23,25,26): 6.684715270996094	 ([myself,][series.][definitely][rates][10][collection][films. "])
+v(6,9,15,16,18,21,24,26): 3.891707420349121	 ([myself,][gamut][played][part][following][definitely]["][films. "])
+v(6,7,8,10,21,26): 7.809500694274902	 ([myself,][finest][entire][tarzan][definitely][films. "])
+v(0,1,2,3,4,5,11,12,13,14,17,19): -0.10740496218204498	 ([opinion][several][friends][family][members,][including][movies.][johnny][weissmuller][never][well][issues])
+v(0,1,2,3,4,5,20,22,23,25): 3.935352325439453	 ([opinion][several][friends][family][members,][including][series.][rates][10][collection])
+v(0,1,2,3,4,5,9,15,16,18,24): 2.6087334156036377	 ([opinion][several][friends][family][members,][including][gamut][played][part][following]["])
+v(0,1,2,3,4,5,7,8,10): 8.2153902053833	 ([opinion][several][friends][family][members,][including][finest][entire][tarzan])
+v(11,12,13,14,17,19,20,22,23,25): 0.6734617352485657	 ([movies.][johnny][weissmuller][never][well][issues][series.][rates][10][collection])
+v(9,11,12,13,14,15,16,17,18,19,24): -4.587940216064453	 ([gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues]["])
+v(7,8,10,11,12,13,14,17,19): 7.744729995727539	 ([finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues])
+v(9,15,16,18,20,22,23,24,25): 3.773015022277832	 ([gamut][played][part][following][series.][rates][10]["][collection])
+v(7,8,10,20,22,23,25): 6.888345241546631	 ([finest][entire][tarzan][series.][rates][10][collection])
+v(7,8,9,10,15,16,18,24): 7.601361274719238	 ([finest][entire][gamut][tarzan][played][part][following]["])
+v(0,1,2,3,4,5,6,11,12,13,14,17,19,21,26): 3.231459140777588	 ([opinion][several][friends][family][members,][including][myself,][movies.][johnny][weissmuller][never][well][issues][definitely][films. "])
+v(0,1,2,3,4,5,6,20,21,22,23,25,26): 8.074188232421875	 ([opinion][several][friends][family][members,][including][myself,][series.][definitely][rates][10][collection][films. "])
+v(0,1,2,3,4,5,6,9,15,16,18,21,24,26): 6.920259952545166	 ([opinion][several][friends][family][members,][including][myself,][gamut][played][part][following][definitely]["][films. "])
+v(0,1,2,3,4,5,6,7,8,10,21,26): 8.182219505310059	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][tarzan][definitely][films. "])
+v(6,11,12,13,14,17,19,20,21,22,23,25,26): 5.911686897277832	 ([myself,][movies.][johnny][weissmuller][never][well][issues][series.][definitely][rates][10][collection][films. "])
+v(6,9,11,12,13,14,15,16,17,18,19,21,24,26): -3.973487377166748	 ([myself,][gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues][definitely]["][films. "])
+v(6,7,8,10,11,12,13,14,17,19,21,26): 8.217489242553711	 ([myself,][finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues][definitely][films. "])
+v(6,9,15,16,18,20,21,22,23,24,25,26): 8.31130599975586	 ([myself,][gamut][played][part][following][series.][definitely][rates][10]["][collection][films. "])
+v(6,7,8,10,20,21,22,23,25,26): 8.220728874206543	 ([myself,][finest][entire][tarzan][series.][definitely][rates][10][collection][films. "])
+v(6,7,8,9,10,15,16,18,21,24,26): 8.276981353759766	 ([myself,][finest][entire][gamut][tarzan][played][part][following][definitely]["][films. "])
+v(0,1,2,3,4,5,11,12,13,14,17,19,20,22,23,25): 2.348433494567871	 ([opinion][several][friends][family][members,][including][movies.][johnny][weissmuller][never][well][issues][series.][rates][10][collection])
+v(0,1,2,3,4,5,9,11,12,13,14,15,16,17,18,19,24): -5.937320709228516	 ([opinion][several][friends][family][members,][including][gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues]["])
+v(0,1,2,3,4,5,7,8,10,11,12,13,14,17,19): 8.224257469177246	 ([opinion][several][friends][family][members,][including][finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues])
+v(0,1,2,3,4,5,9,15,16,18,20,22,23,24,25): 5.267551422119141	 ([opinion][several][friends][family][members,][including][gamut][played][part][following][series.][rates][10]["][collection])
+v(0,1,2,3,4,5,7,8,10,20,22,23,25): 8.060879707336426	 ([opinion][several][friends][family][members,][including][finest][entire][tarzan][series.][rates][10][collection])
+v(0,1,2,3,4,5,7,8,9,10,15,16,18,24): 8.249770164489746	 ([opinion][several][friends][family][members,][including][finest][entire][gamut][tarzan][played][part][following]["])
+v(9,11,12,13,14,15,16,17,18,19,20,22,23,24,25): -0.45489174127578735	 ([gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][rates][10]["][collection])
+v(7,8,10,11,12,13,14,17,19,20,22,23,25): 7.458567142486572	 ([finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues][series.][rates][10][collection])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19,24): 8.084920883178711	 ([finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues]["])
+v(7,8,9,10,15,16,18,20,22,23,24,25): 7.8493547439575195	 ([finest][entire][gamut][tarzan][played][part][following][series.][rates][10]["][collection])
+v(0,1,2,3,4,5,6,11,12,13,14,17,19,20,21,22,23,25,26): 7.5253143310546875	 ([opinion][several][friends][family][members,][including][myself,][movies.][johnny][weissmuller][never][well][issues][series.][definitely][rates][10][collection][films. "])
+v(0,1,2,3,4,5,6,9,11,12,13,14,15,16,17,18,19,21,24,26): -4.786716461181641	 ([opinion][several][friends][family][members,][including][myself,][gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues][definitely]["][films. "])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,14,17,19,21,26): 8.249139785766602	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues][definitely][films. "])
+v(0,1,2,3,4,5,6,9,15,16,18,20,21,22,23,24,25,26): 8.71628189086914	 ([opinion][several][friends][family][members,][including][myself,][gamut][played][part][following][series.][definitely][rates][10]["][collection][films. "])
+v(0,1,2,3,4,5,6,7,8,10,20,21,22,23,25,26): 8.295524597167969	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][tarzan][series.][definitely][rates][10][collection][films. "])
+v(0,1,2,3,4,5,6,7,8,9,10,15,16,18,21,24,26): 8.412046432495117	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][gamut][tarzan][played][part][following][definitely]["][films. "])
+v(6,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 5.188507556915283	 ([myself,][gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][definitely][rates][10]["][collection][films. "])
+v(6,7,8,10,11,12,13,14,17,19,20,21,22,23,25,26): 8.354583740234375	 ([myself,][finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues][series.][definitely][rates][10][collection][films. "])
+v(6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,24,26): 8.486154556274414	 ([myself,][finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues][definitely]["][films. "])
+v(6,7,8,9,10,15,16,18,20,21,22,23,24,25,26): 8.430015563964844	 ([myself,][finest][entire][gamut][tarzan][played][part][following][series.][definitely][rates][10]["][collection][films. "])
+v(0,1,2,3,4,5,9,11,12,13,14,15,16,17,18,19,20,22,23,24,25): -1.570483922958374	 ([opinion][several][friends][family][members,][including][gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][rates][10]["][collection])
+v(0,1,2,3,4,5,7,8,10,11,12,13,14,17,19,20,22,23,25): 7.989865779876709	 ([opinion][several][friends][family][members,][including][finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues][series.][rates][10][collection])
+v(0,1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,24): 8.384116172790527	 ([opinion][several][friends][family][members,][including][finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues]["])
+v(0,1,2,3,4,5,7,8,9,10,15,16,18,20,22,23,24,25): 8.212268829345703	 ([opinion][several][friends][family][members,][including][finest][entire][gamut][tarzan][played][part][following][series.][rates][10]["][collection])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,25): 8.231130599975586	 ([finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][rates][10]["][collection])
+v(0,1,2,3,4,5,6,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 6.13509464263916	 ([opinion][several][friends][family][members,][including][myself,][gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][definitely][rates][10]["][collection][films. "])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,14,17,19,20,21,22,23,25,26): 8.240903854370117	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues][series.][definitely][rates][10][collection][films. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,24,26): 8.654952049255371	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues][definitely]["][films. "])
+v(0,1,2,3,4,5,6,7,8,9,10,15,16,18,20,21,22,23,24,25,26): 8.449554443359375	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][gamut][tarzan][played][part][following][series.][definitely][rates][10]["][collection][films. "])
+v(6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.654830932617188	 ([myself,][finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][definitely][rates][10]["][collection][films. "])
+v(0,1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,25): 8.306157112121582	 ([opinion][several][friends][family][members,][including][finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][rates][10]["][collection])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.630814552307129	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][definitely][rates][10]["][collection][films. "])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,9,11,12,13,14,15,16,17,18,19,24): -7.928042888641357, EP: -1.1939657926559448	 ([opinion][several][friends][family][members,][including][gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues]["])
+v(0,1,2,3,4,5,6,9,11,12,13,14,15,16,17,18,19,21,24,26): -6.777438640594482, EP: -1.0206843614578247	 ([opinion][several][friends][family][members,][including][myself,][gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues][definitely]["][films. "])
+v(0,1,2,3,4,5,6,9,15,16,18,20,21,22,23,24,25,26): 6.725559711456299, EP: 1.0128713846206665	 ([opinion][several][friends][family][members,][including][myself,][gamut][played][part][following][series.][definitely][rates][10]["][collection][films. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,24,26): 6.664229869842529, EP: 1.0036351680755615	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues][definitely]["][films. "])
+v(6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 6.664108753204346, EP: 1.0036169290542603	 ([myself,][finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][definitely][rates][10]["][collection][films. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 6.640092372894287, EP: 1.0	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][definitely][rates][10]["][collection][films. "])
+v(9,11,12,13,14,15,16,17,18,19,24): -6.578662395477295, EP: -0.9907486438751221	 ([gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues]["])
+v(6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,24,26): 6.495432376861572, EP: 0.9782141447067261	 ([myself,][finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues][definitely]["][films. "])
+v(0,1,2,3,4,5,6,7,8,9,10,15,16,18,20,21,22,23,24,25,26): 6.458832263946533, EP: 0.972702145576477	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][gamut][tarzan][played][part][following][series.][definitely][rates][10]["][collection][films. "])
+v(6,7,8,9,10,15,16,18,20,21,22,23,24,25,26): 6.439293384552002, EP: 0.9697595834732056	 ([myself,][finest][entire][gamut][tarzan][played][part][following][series.][definitely][rates][10]["][collection][films. "])
+v(0,1,2,3,4,5,6,7,8,9,10,15,16,18,21,24,26): 6.421324253082275, EP: 0.9670534729957581	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][gamut][tarzan][played][part][following][definitely]["][films. "])
+v(0,1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,24): 6.3933939933776855, EP: 0.9628471732139587	 ([opinion][several][friends][family][members,][including][finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues]["])
+v(6,7,8,10,11,12,13,14,17,19,20,21,22,23,25,26): 6.363861560821533, EP: 0.9583995342254639	 ([myself,][finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues][series.][definitely][rates][10][collection][films. "])
+v(6,9,15,16,18,20,21,22,23,24,25,26): 6.320583820343018, EP: 0.9518818855285645	 ([myself,][gamut][played][part][following][series.][definitely][rates][10]["][collection][films. "])
+v(0,1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,25): 6.31543493270874, EP: 0.9511064887046814	 ([opinion][several][friends][family][members,][including][finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][rates][10]["][collection])
+v(0,1,2,3,4,5,6,7,8,10,20,21,22,23,25,26): 6.304802417755127, EP: 0.9495052099227905	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][tarzan][series.][definitely][rates][10][collection][films. "])
+v(6,7,8,9,10,15,16,18,21,24,26): 6.286259174346924, EP: 0.9467126131057739	 ([myself,][finest][entire][gamut][tarzan][played][part][following][definitely]["][films. "])
+v(0,1,2,3,4,5,7,8,9,10,15,16,18,24): 6.259047985076904, EP: 0.9426146149635315	 ([opinion][several][friends][family][members,][including][finest][entire][gamut][tarzan][played][part][following]["])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,14,17,19,21,26): 6.25841760635376, EP: 0.9425196647644043	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues][definitely][films. "])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,14,17,19,20,21,22,23,25,26): 6.250181674957275, EP: 0.9412793517112732	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues][series.][definitely][rates][10][collection][films. "])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,25): 6.240408420562744, EP: 0.9398074746131897	 ([finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][rates][10]["][collection])
+v(0,1,2,3,4,5,7,8,10,11,12,13,14,17,19): 6.233535289764404, EP: 0.9387723803520203	 ([opinion][several][friends][family][members,][including][finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues])
+v(6,7,8,10,20,21,22,23,25,26): 6.230006694793701, EP: 0.9382409453392029	 ([myself,][finest][entire][tarzan][series.][definitely][rates][10][collection][films. "])
+v(6,7,8,10,11,12,13,14,17,19,21,26): 6.226767063140869, EP: 0.9377530813217163	 ([myself,][finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues][definitely][films. "])
+v(0,1,2,3,4,5,7,8,10): 6.224668025970459, EP: 0.9374369382858276	 ([opinion][several][friends][family][members,][including][finest][entire][tarzan])
+v(0,1,2,3,4,5,7,8,9,10,15,16,18,20,22,23,24,25): 6.221546649932861, EP: 0.9369668960571289	 ([opinion][several][friends][family][members,][including][finest][entire][gamut][tarzan][played][part][following][series.][rates][10]["][collection])
+v(0,1,2,3,4,5,6,7,8,10,21,26): 6.191497325897217, EP: 0.9324414730072021	 ([opinion][several][friends][family][members,][including][myself,][finest][entire][tarzan][definitely][films. "])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19,24): 6.094198703765869, EP: 0.9177882671356201	 ([finest][entire][gamut][tarzan][movies.][johnny][weissmuller][never][played][part][well][following][issues]["])
+v(0,1,2,3,4,5,6,20,21,22,23,25,26): 6.083466053009033, EP: 0.9161719083786011	 ([opinion][several][friends][family][members,][including][myself,][series.][definitely][rates][10][collection][films. "])
+v(0,1,2,3,4,5,7,8,10,20,22,23,25): 6.070157527923584, EP: 0.9141676425933838	 ([opinion][several][friends][family][members,][including][finest][entire][tarzan][series.][rates][10][collection])
+v(0,1,2,3,4,5,7,8,10,11,12,13,14,17,19,20,22,23,25): 5.999143600463867, EP: 0.903472900390625	 ([opinion][several][friends][family][members,][including][finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues][series.][rates][10][collection])
+v(6,9,11,12,13,14,15,16,17,18,19,21,24,26): -5.96420955657959, EP: -0.8982118368148804	 ([myself,][gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues][definitely]["][films. "])
+v(7,8,9,10,15,16,18,20,22,23,24,25): 5.858632564544678, EP: 0.8823118805885315	 ([finest][entire][gamut][tarzan][played][part][following][series.][rates][10]["][collection])
+v(6,7,8,10,21,26): 5.8187785148620605, EP: 0.876309871673584	 ([myself,][finest][entire][tarzan][definitely][films. "])
+v(0,1,2,3,4,5,6,21,26): 5.815642833709717, EP: 0.8758376240730286	 ([opinion][several][friends][family][members,][including][myself,][definitely][films. "])
+v(7,8,10,11,12,13,14,17,19): 5.754007816314697, EP: 0.866555392742157	 ([finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues])
+v(7,8,9,10,15,16,18,24): 5.6106390953063965, EP: 0.8449640274047852	 ([finest][entire][gamut][tarzan][played][part][following]["])
+v(0,1,2,3,4,5,6,11,12,13,14,17,19,20,21,22,23,25,26): 5.534592151641846, EP: 0.8335112929344177	 ([opinion][several][friends][family][members,][including][myself,][movies.][johnny][weissmuller][never][well][issues][series.][definitely][rates][10][collection][films. "])
+v(7,8,10,11,12,13,14,17,19,20,22,23,25): 5.4678449630737305, EP: 0.8234591484069824	 ([finest][entire][tarzan][movies.][johnny][weissmuller][never][well][issues][series.][rates][10][collection])
+v(0,1,2,3,4,5,6,9,15,16,18,21,24,26): 4.929537773132324, EP: 0.7423899173736572	 ([opinion][several][friends][family][members,][including][myself,][gamut][played][part][following][definitely]["][films. "])
+v(7,8,10,20,22,23,25): 4.897623062133789, EP: 0.737583577632904	 ([finest][entire][tarzan][series.][rates][10][collection])
+v(7,8,10): 4.7730841636657715, EP: 0.7188279628753662	 ([finest][entire][tarzan])
+v(6,20,21,22,23,25,26): 4.693993091583252, EP: 0.7069168090820312	 ([myself,][series.][definitely][rates][10][collection][films. "])
+v(0,1,2,3,4,5,6,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 4.144372463226318, EP: 0.6241437792778015	 ([opinion][several][friends][family][members,][including][myself,][gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][definitely][rates][10]["][collection][films. "])
+v(6,11,12,13,14,17,19,20,21,22,23,25,26): 3.9209647178649902, EP: 0.5904985070228577	 ([myself,][movies.][johnny][weissmuller][never][well][issues][series.][definitely][rates][10][collection][films. "])
+v(0,1,2,3,4,5,9,11,12,13,14,15,16,17,18,19,20,22,23,24,25): -3.561206102371216, EP: -0.5363187789916992	 ([opinion][several][friends][family][members,][including][gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][rates][10]["][collection])
+v(0,1,2,3,4,5,9,15,16,18,20,22,23,24,25): 3.276829242706299, EP: 0.4934915006160736	 ([opinion][several][friends][family][members,][including][gamut][played][part][following][series.][rates][10]["][collection])
+v(6,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 3.1977853775024414, EP: 0.4815874695777893	 ([myself,][gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][definitely][rates][10]["][collection][films. "])
+v(11,12,13,14,17,19): -2.912827968597412, EP: -0.438672810792923	 ([movies.][johnny][weissmuller][never][well][issues])
+v(9,11,12,13,14,15,16,17,18,19,20,22,23,24,25): -2.4456138610839844, EP: -0.36831021308898926	 ([gamut][movies.][johnny][weissmuller][never][played][part][well][following][issues][series.][rates][10]["][collection])
+v(0,1,2,3,4,5,11,12,13,14,17,19): -2.0981271266937256, EP: -0.31597861647605896	 ([opinion][several][friends][family][members,][including][movies.][johnny][weissmuller][never][well][issues])
+v(6,21,26): 1.9938154220581055, EP: 0.300269216299057	 ([myself,][definitely][films. "])
+v(0,1,2,3,4,5,20,22,23,25): 1.9446301460266113, EP: 0.2928619086742401	 ([opinion][several][friends][family][members,][including][series.][rates][10][collection])
+v(6,9,15,16,18,21,24,26): 1.9009852409362793, EP: 0.2862889766693115	 ([myself,][gamut][played][part][following][definitely]["][films. "])
+v(9,15,16,18,20,22,23,24,25): 1.7822928428649902, EP: 0.26841387152671814	 ([gamut][played][part][following][series.][rates][10]["][collection])
+v(11,12,13,14,17,19,20,22,23,25): -1.317260503768921, EP: -0.19837984442710876	 ([movies.][johnny][weissmuller][never][well][issues][series.][rates][10][collection])
+v(0,1,2,3,4,5,6,11,12,13,14,17,19,21,26): 1.240736961364746, EP: 0.18685537576675415	 ([opinion][several][friends][family][members,][including][myself,][movies.][johnny][weissmuller][never][well][issues][definitely][films. "])
+v(6,11,12,13,14,17,19,21,26): -1.1230992078781128, EP: -0.1691390872001648	 ([myself,][movies.][johnny][weissmuller][never][well][issues][definitely][films. "])
+v(0,1,2,3,4,5,9,15,16,18,24): 0.6180112361907959, EP: 0.09307269006967545	 ([opinion][several][friends][family][members,][including][gamut][played][part][following]["])
+v(20,22,23,25): 0.582866907119751, EP: 0.0877799391746521	 ([series.][rates][10][collection])
+v(0,1,2,3,4,5,11,12,13,14,17,19,20,22,23,25): 0.3577113151550293, EP: 0.05387143790721893	 ([opinion][several][friends][family][members,][including][movies.][johnny][weissmuller][never][well][issues][series.][rates][10][collection])
+v(9,15,16,18,24): 0.23656702041625977, EP: 0.03562706708908081	 ([gamut][played][part][following]["])
+v(0,1,2,3,4,5): -0.030008554458618164, EP: -0.004519297741353512	 ([opinion][several][friends][family][members,][including])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

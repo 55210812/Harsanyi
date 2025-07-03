@@ -1,0 +1,89 @@
+---------- Players ----------
+Player 0: excellent
+Player 1: film.
+Player 2: cried
+Player 3: cried,
+Player 4: loved
+Player 5: loved
+Player 6: ,
+Player 7: frustrated
+Player 8: were.
+Player 9: film
+Player 10: touched
+Player 11: heart.
+Player 12: reality
+Player 13: check
+Player 14: since
+Player 15: reality
+Player 16: me,
+Player 17: 19
+Player 18: year
+Player 19: old
+Player 20: soldier
+---------- Rewards ----------
+v(): 0.6225491166114807	 ([])
+v(11,12): 5.327683925628662	 ([heart.][reality])
+v(1,2,5,7,10,17): 5.4876275062561035	 ([film.][cried][loved][frustrated][touched][19])
+v(0,6,8,9,20): 6.120059967041016	 ([excellent][,][were.][film][soldier])
+v(3,4,18): 3.906965732574463	 ([cried,][loved][year])
+v(13,14,15,16,19): 2.4244585037231445	 ([check][since][reality][me,][old])
+v(1,2,5,7,10,11,12,17): 7.658402442932129	 ([film.][cried][loved][frustrated][touched][heart.][reality][19])
+v(0,6,8,9,11,12,20): 8.452461242675781	 ([excellent][,][were.][film][heart.][reality][soldier])
+v(3,4,11,12,18): 5.498819351196289	 ([cried,][loved][heart.][reality][year])
+v(11,12,13,14,15,16,19): 4.661504745483398	 ([heart.][reality][check][since][reality][me,][old])
+v(0,1,2,5,6,7,8,9,10,17,20): 7.948197364807129	 ([excellent][film.][cried][loved][,][frustrated][were.][film][touched][19][soldier])
+v(1,2,3,4,5,7,10,17,18): 6.673342227935791	 ([film.][cried][cried,][loved][loved][frustrated][touched][19][year])
+v(1,2,5,7,10,13,14,15,16,17,19): 6.459372520446777	 ([film.][cried][loved][frustrated][touched][check][since][reality][me,][19][old])
+v(0,3,4,6,8,9,18,20): 7.616200923919678	 ([excellent][cried,][loved][,][were.][film][year][soldier])
+v(0,6,8,9,13,14,15,16,19,20): 7.682918548583984	 ([excellent][,][were.][film][check][since][reality][me,][old][soldier])
+v(3,4,13,14,15,16,18,19): 4.916347503662109	 ([cried,][loved][check][since][reality][me,][year][old])
+v(0,1,2,5,6,7,8,9,10,11,12,17,20): 7.308294296264648	 ([excellent][film.][cried][loved][,][frustrated][were.][film][touched][heart.][reality][19][soldier])
+v(1,2,3,4,5,7,10,11,12,17,18): 7.848268985748291	 ([film.][cried][cried,][loved][loved][frustrated][touched][heart.][reality][19][year])
+v(1,2,5,7,10,11,12,13,14,15,16,17,19): 8.059366226196289	 ([film.][cried][loved][frustrated][touched][heart.][reality][check][since][reality][me,][19][old])
+v(0,3,4,6,8,9,11,12,18,20): 8.395057678222656	 ([excellent][cried,][loved][,][were.][film][heart.][reality][year][soldier])
+v(0,6,8,9,11,12,13,14,15,16,19,20): 8.378228187561035	 ([excellent][,][were.][film][heart.][reality][check][since][reality][me,][old][soldier])
+v(3,4,11,12,13,14,15,16,18,19): 5.7085113525390625	 ([cried,][loved][heart.][reality][check][since][reality][me,][year][old])
+v(0,1,2,3,4,5,6,7,8,9,10,17,18,20): 7.798325538635254	 ([excellent][film.][cried][cried,][loved][loved][,][frustrated][were.][film][touched][19][year][soldier])
+v(0,1,2,5,6,7,8,9,10,13,14,15,16,17,19,20): 7.625670433044434	 ([excellent][film.][cried][loved][,][frustrated][were.][film][touched][check][since][reality][me,][19][old][soldier])
+v(1,2,3,4,5,7,10,13,14,15,16,17,18,19): 7.293341636657715	 ([film.][cried][cried,][loved][loved][frustrated][touched][check][since][reality][me,][19][year][old])
+v(0,3,4,6,8,9,13,14,15,16,18,19,20): 8.062650680541992	 ([excellent][cried,][loved][,][were.][film][check][since][reality][me,][year][old][soldier])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,17,18,20): 7.462869644165039	 ([excellent][film.][cried][cried,][loved][loved][,][frustrated][were.][film][touched][heart.][reality][19][year][soldier])
+v(0,1,2,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20): 7.254920959472656	 ([excellent][film.][cried][loved][,][frustrated][were.][film][touched][heart.][reality][check][since][reality][me,][19][old][soldier])
+v(1,2,3,4,5,7,10,11,12,13,14,15,16,17,18,19): 7.90604305267334	 ([film.][cried][cried,][loved][loved][frustrated][touched][heart.][reality][check][since][reality][me,][19][year][old])
+v(0,3,4,6,8,9,11,12,13,14,15,16,18,19,20): 8.116252899169922	 ([excellent][cried,][loved][,][were.][film][heart.][reality][check][since][reality][me,][year][old][soldier])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,19,20): 7.789012908935547	 ([excellent][film.][cried][cried,][loved][loved][,][frustrated][were.][film][touched][check][since][reality][me,][19][year][old][soldier])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 7.42872428894043	 ([excellent][film.][cried][cried,][loved][loved][,][frustrated][were.][film][touched][heart.][reality][check][since][reality][me,][19][year][old][soldier])
+---------- Rewards-v() ----------
+v(0,6,8,9,11,12,20): 7.829912185668945, EP: 1.150412917137146	 ([excellent][,][were.][film][heart.][reality][soldier])
+v(0,3,4,6,8,9,11,12,18,20): 7.77250862121582, EP: 1.1419788599014282	 ([excellent][cried,][loved][,][were.][film][heart.][reality][year][soldier])
+v(0,6,8,9,11,12,13,14,15,16,19,20): 7.755679130554199, EP: 1.139506220817566	 ([excellent][,][were.][film][heart.][reality][check][since][reality][me,][old][soldier])
+v(0,3,4,6,8,9,11,12,13,14,15,16,18,19,20): 7.493703842163086, EP: 1.1010154485702515	 ([excellent][cried,][loved][,][were.][film][heart.][reality][check][since][reality][me,][year][old][soldier])
+v(0,3,4,6,8,9,13,14,15,16,18,19,20): 7.440101623535156, EP: 1.093139886856079	 ([excellent][cried,][loved][,][were.][film][check][since][reality][me,][year][old][soldier])
+v(1,2,5,7,10,11,12,13,14,15,16,17,19): 7.436817169189453, EP: 1.0926573276519775	 ([film.][cried][loved][frustrated][touched][heart.][reality][check][since][reality][me,][19][old])
+v(0,1,2,5,6,7,8,9,10,17,20): 7.325648307800293, EP: 1.0763237476348877	 ([excellent][film.][cried][loved][,][frustrated][were.][film][touched][19][soldier])
+v(1,2,3,4,5,7,10,11,12,13,14,15,16,17,18,19): 7.283493995666504, EP: 1.0701302289962769	 ([film.][cried][cried,][loved][loved][frustrated][touched][heart.][reality][check][since][reality][me,][19][year][old])
+v(1,2,3,4,5,7,10,11,12,17,18): 7.225719928741455, EP: 1.061641812324524	 ([film.][cried][cried,][loved][loved][frustrated][touched][heart.][reality][19][year])
+v(0,1,2,3,4,5,6,7,8,9,10,17,18,20): 7.175776481628418, EP: 1.054303765296936	 ([excellent][film.][cried][cried,][loved][loved][,][frustrated][were.][film][touched][19][year][soldier])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,19,20): 7.166463851928711, EP: 1.0529356002807617	 ([excellent][film.][cried][cried,][loved][loved][,][frustrated][were.][film][touched][check][since][reality][me,][19][year][old][soldier])
+v(0,6,8,9,13,14,15,16,19,20): 7.060369491577148, EP: 1.0373475551605225	 ([excellent][,][were.][film][check][since][reality][me,][old][soldier])
+v(1,2,5,7,10,11,12,17): 7.035853385925293, EP: 1.033745527267456	 ([film.][cried][loved][frustrated][touched][heart.][reality][19])
+v(0,1,2,5,6,7,8,9,10,13,14,15,16,17,19,20): 7.003121376037598, EP: 1.0289363861083984	 ([excellent][film.][cried][loved][,][frustrated][were.][film][touched][check][since][reality][me,][19][old][soldier])
+v(0,3,4,6,8,9,18,20): 6.993651866912842, EP: 1.0275450944900513	 ([excellent][cried,][loved][,][were.][film][year][soldier])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,17,18,20): 6.840320587158203, EP: 1.005016803741455	 ([excellent][film.][cried][cried,][loved][loved][,][frustrated][were.][film][touched][heart.][reality][19][year][soldier])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 6.806175231933594, EP: 1.0	 ([excellent][film.][cried][cried,][loved][loved][,][frustrated][were.][film][touched][heart.][reality][check][since][reality][me,][19][year][old][soldier])
+v(0,1,2,5,6,7,8,9,10,11,12,17,20): 6.6857452392578125, EP: 0.9823057651519775	 ([excellent][film.][cried][loved][,][frustrated][were.][film][touched][heart.][reality][19][soldier])
+v(1,2,3,4,5,7,10,13,14,15,16,17,18,19): 6.670792579650879, EP: 0.9801088571548462	 ([film.][cried][cried,][loved][loved][frustrated][touched][check][since][reality][me,][19][year][old])
+v(0,1,2,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20): 6.63237190246582, EP: 0.9744638800621033	 ([excellent][film.][cried][loved][,][frustrated][were.][film][touched][heart.][reality][check][since][reality][me,][19][old][soldier])
+v(1,2,3,4,5,7,10,17,18): 6.050793170928955, EP: 0.8890151977539062	 ([film.][cried][cried,][loved][loved][frustrated][touched][19][year])
+v(1,2,5,7,10,13,14,15,16,17,19): 5.836823463439941, EP: 0.8575776219367981	 ([film.][cried][loved][frustrated][touched][check][since][reality][me,][19][old])
+v(0,6,8,9,20): 5.49751091003418, EP: 0.8077239990234375	 ([excellent][,][were.][film][soldier])
+v(3,4,11,12,13,14,15,16,18,19): 5.085962295532227, EP: 0.7472570538520813	 ([cried,][loved][heart.][reality][check][since][reality][me,][year][old])
+v(3,4,11,12,18): 4.876270294189453, EP: 0.7164479494094849	 ([cried,][loved][heart.][reality][year])
+v(1,2,5,7,10,17): 4.865078449249268, EP: 0.7148035764694214	 ([film.][cried][loved][frustrated][touched][19])
+v(11,12): 4.705134868621826, EP: 0.6913037896156311	 ([heart.][reality])
+v(3,4,13,14,15,16,18,19): 4.293798446655273, EP: 0.6308680176734924	 ([cried,][loved][check][since][reality][me,][year][old])
+v(11,12,13,14,15,16,19): 4.0389556884765625, EP: 0.5934251546859741	 ([heart.][reality][check][since][reality][me,][old])
+v(3,4,18): 3.284416675567627, EP: 0.48256421089172363	 ([cried,][loved][year])
+v(13,14,15,16,19): 1.8019094467163086, EP: 0.2647462487220764	 ([check][since][reality][me,][old])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

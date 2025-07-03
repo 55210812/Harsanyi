@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['23', '22', '24', '25', '26', '21', '31']: ['1944', 'compare', 'billy', 'wilder', 'film', 'possibly', 'mind']: 平均边权 0.6602
+社区 2: ['2', '11', '0', '1', '58']: ['fraud', 'vulgar', 'murder', 'insurance', 'forgettable.']: 平均边权 1.4192
+社区 3: ['37', '18', '19', '36']: ['update', 'hurt', 'eyes.', 'mean']: 平均边权 0.6485
+社区 4: ['51', '9', '70', '27', '16', '68', '59', '69', '10', '17']: ["director's", 'tv', 'back', 'noir', 'made - for - tv', 'movies', 'rare', 'tv', 'visually', 'knock - off']: 平均边权 0.6304
+社区 5: ['56', '8', '57', '52', '55', '53', '60', '54']: ['left', '"...', 'imminently', 'bland', "what's", 'indifference', 'exception,', 'makes']: 平均边权 0.5816
+社区 6: ['45', '46', '49', '47', '50', '48', '44', '43']: ['paramount', 'screenplay,', 'hour', "there's", 'cut', 'half', 'original', 'based']: 平均边权 0.4919
+社区 7: ['20', '15']: ["can't", 'truncated,']: 平均边权 1.1499
+社区 8: ['12', '5', '13', '4', '3', '14', '28', '6', '7']: ['back', 'couple', 'early', 'adulterous', 'take', '1970s', 'classic', 'end', 'line']: 平均边权 0.5236
+社区 9: ['38', '35', '32', '40', '34', '29', '39', '30', '41', '42', '33']: ['seen', 'unseen -', 'ought', 'entity,', '- sight', 'anyone', 'separate', 'right', 'either.', 'although', 'know']: 平均边权 0.3135
+社区 10: ['71', '61', '63', '66', '73', '67', '65', '62', '64', '72']: ['1973', 'younger', 'interested', 'black', 'true', 'white', 'old', 'generation', 'watching', '( still']: 平均边权 0.3377

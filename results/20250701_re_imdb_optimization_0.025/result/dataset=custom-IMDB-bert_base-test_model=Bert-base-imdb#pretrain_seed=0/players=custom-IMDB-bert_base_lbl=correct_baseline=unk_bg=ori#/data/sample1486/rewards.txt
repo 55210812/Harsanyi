@@ -1,0 +1,162 @@
+---------- Players ----------
+Player 0: movie
+Player 1: piper
+Player 2: perabo's
+Player 3: character
+Player 4: less
+Player 5: bar,
+Player 6: might
+Player 7: halfway
+Player 8: decent.
+Player 9: piper's
+Player 10: violet
+Player 11: stanford
+Player 12: karen
+Player 13: friendly
+Player 14: ( adventures
+Player 15: rocky
+Player 16: bullwinkle )
+Player 17: virgin
+Player 18: kindegarden
+Player 19: teacher
+Player 20: quality
+Player 21: that's
+Player 22: endearing.
+Player 23: here's
+Player 24: hoping
+Player 25: she'll
+Player 26: find
+Player 27: better
+Player 28: movie
+Player 29: in.
+---------- Rewards ----------
+v(): -0.015271991491317749	 ([])
+v(5,6,7,13): 1.0951957702636719	 ([bar,][might][halfway][friendly])
+v(0,4,29): 0.15913242101669312	 ([movie][less][in.])
+v(2,10,12,15,16,17): -0.7298712134361267	 ([perabo's][violet][karen][rocky][bullwinkle )][virgin])
+v(18,19): -1.2769668102264404	 ([kindegarden][teacher])
+v(20,21,22,23,24,25,26,27,28): 1.6368862390518188	 ([quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,3,8,9,11,14): 0.3399161100387573	 ([piper][character][decent.][piper's][stanford][( adventures])
+v(0,4,5,6,7,13,29): 3.5546867847442627	 ([movie][less][bar,][might][halfway][friendly][in.])
+v(2,5,6,7,10,12,13,15,16,17): 1.803678035736084	 ([perabo's][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin])
+v(5,6,7,13,18,19): 0.5022993087768555	 ([bar,][might][halfway][friendly][kindegarden][teacher])
+v(5,6,7,13,20,21,22,23,24,25,26,27,28): 5.423925399780273	 ([bar,][might][halfway][friendly][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,3,5,6,7,8,9,11,13,14): 5.711430549621582	 ([piper][character][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures])
+v(0,2,4,10,12,15,16,17,29): 0.7986819744110107	 ([movie][perabo's][less][violet][karen][rocky][bullwinkle )][virgin][in.])
+v(0,4,18,19,29): -0.6746116280555725	 ([movie][less][kindegarden][teacher][in.])
+v(0,4,20,21,22,23,24,25,26,27,28,29): 0.7277220487594604	 ([movie][less][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,1,3,4,8,9,11,14,29): -0.49727705121040344	 ([movie][piper][character][less][decent.][piper's][stanford][( adventures][in.])
+v(2,10,12,15,16,17,18,19): -0.8039673566818237	 ([perabo's][violet][karen][rocky][bullwinkle )][virgin][kindegarden][teacher])
+v(2,10,12,15,16,17,20,21,22,23,24,25,26,27,28): 3.456204891204834	 ([perabo's][violet][karen][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,2,3,8,9,10,11,12,14,15,16,17): 1.8369277715682983	 ([piper][perabo's][character][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin])
+v(18,19,20,21,22,23,24,25,26,27,28): 2.1872408390045166	 ([kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,3,8,9,11,14,18,19): 1.998844861984253	 ([piper][character][decent.][piper's][stanford][( adventures][kindegarden][teacher])
+v(1,3,8,9,11,14,20,21,22,23,24,25,26,27,28): 1.1725237369537354	 ([piper][character][decent.][piper's][stanford][( adventures][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(0,2,4,5,6,7,10,12,13,15,16,17,29): 4.9684953689575195	 ([movie][perabo's][less][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin][in.])
+v(0,4,5,6,7,13,18,19,29): 2.742805004119873	 ([movie][less][bar,][might][halfway][friendly][kindegarden][teacher][in.])
+v(0,4,5,6,7,13,20,21,22,23,24,25,26,27,28,29): 5.772188186645508	 ([movie][less][bar,][might][halfway][friendly][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,1,3,4,5,6,7,8,9,11,13,14,29): 6.986212730407715	 ([movie][piper][character][less][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures][in.])
+v(2,5,6,7,10,12,13,15,16,17,18,19): 1.7357404232025146	 ([perabo's][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin][kindegarden][teacher])
+v(2,5,6,7,10,12,13,15,16,17,20,21,22,23,24,25,26,27,28): 6.830921649932861	 ([perabo's][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17): 7.101454734802246	 ([piper][perabo's][character][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin])
+v(5,6,7,13,18,19,20,21,22,23,24,25,26,27,28): 5.252702236175537	 ([bar,][might][halfway][friendly][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,3,5,6,7,8,9,11,13,14,18,19): 5.782155990600586	 ([piper][character][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures][kindegarden][teacher])
+v(1,3,5,6,7,8,9,11,13,14,20,21,22,23,24,25,26,27,28): 7.218230247497559	 ([piper][character][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(0,2,4,10,12,15,16,17,18,19,29): 0.915835976600647	 ([movie][perabo's][less][violet][karen][rocky][bullwinkle )][virgin][kindegarden][teacher][in.])
+v(0,2,4,10,12,15,16,17,20,21,22,23,24,25,26,27,28,29): 3.0503506660461426	 ([movie][perabo's][less][violet][karen][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,1,2,3,4,8,9,10,11,12,14,15,16,17,29): 0.8294870257377625	 ([movie][piper][perabo's][character][less][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin][in.])
+v(0,4,18,19,20,21,22,23,24,25,26,27,28,29): 2.2210826873779297	 ([movie][less][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,1,3,4,8,9,11,14,18,19,29): 1.831998348236084	 ([movie][piper][character][less][decent.][piper's][stanford][( adventures][kindegarden][teacher][in.])
+v(0,1,3,4,8,9,11,14,20,21,22,23,24,25,26,27,28,29): 0.23721003532409668	 ([movie][piper][character][less][decent.][piper's][stanford][( adventures][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(2,10,12,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 4.255363941192627	 ([perabo's][violet][karen][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,2,3,8,9,10,11,12,14,15,16,17,18,19): 2.6949586868286133	 ([piper][perabo's][character][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher])
+v(1,2,3,8,9,10,11,12,14,15,16,17,20,21,22,23,24,25,26,27,28): 1.6357604265213013	 ([piper][perabo's][character][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,3,8,9,11,14,18,19,20,21,22,23,24,25,26,27,28): 3.4682769775390625	 ([piper][character][decent.][piper's][stanford][( adventures][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(0,2,4,5,6,7,10,12,13,15,16,17,18,19,29): 4.69072961807251	 ([movie][perabo's][less][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin][kindegarden][teacher][in.])
+v(0,2,4,5,6,7,10,12,13,15,16,17,20,21,22,23,24,25,26,27,28,29): 7.448917388916016	 ([movie][perabo's][less][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,29): 7.644835948944092	 ([movie][piper][perabo's][character][less][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin][in.])
+v(0,4,5,6,7,13,18,19,20,21,22,23,24,25,26,27,28,29): 6.206114768981934	 ([movie][less][bar,][might][halfway][friendly][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,1,3,4,5,6,7,8,9,11,13,14,18,19,29): 6.984072685241699	 ([movie][piper][character][less][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures][kindegarden][teacher][in.])
+v(0,1,3,4,5,6,7,8,9,11,13,14,20,21,22,23,24,25,26,27,28,29): 7.794904708862305	 ([movie][piper][character][less][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(2,5,6,7,10,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 6.798874378204346	 ([perabo's][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19): 7.066715240478516	 ([piper][perabo's][character][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher])
+v(1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,20,21,22,23,24,25,26,27,28): 7.844489097595215	 ([piper][perabo's][character][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,3,5,6,7,8,9,11,13,14,18,19,20,21,22,23,24,25,26,27,28): 7.361647605895996	 ([piper][character][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(0,2,4,10,12,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 4.863892555236816	 ([movie][perabo's][less][violet][karen][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,1,2,3,4,8,9,10,11,12,14,15,16,17,18,19,29): 2.2359166145324707	 ([movie][piper][perabo's][character][less][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher][in.])
+v(0,1,2,3,4,8,9,10,11,12,14,15,16,17,20,21,22,23,24,25,26,27,28,29): 1.2159663438796997	 ([movie][piper][perabo's][character][less][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,1,3,4,8,9,11,14,18,19,20,21,22,23,24,25,26,27,28,29): 3.084150791168213	 ([movie][piper][character][less][decent.][piper's][stanford][( adventures][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(1,2,3,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 3.027904987335205	 ([piper][perabo's][character][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(0,2,4,5,6,7,10,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 7.555315971374512	 ([movie][perabo's][less][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,29): 7.613704204559326	 ([movie][piper][perabo's][character][less][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher][in.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,20,21,22,23,24,25,26,27,28,29): 8.153463363647461	 ([movie][piper][perabo's][character][less][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,1,3,4,5,6,7,8,9,11,13,14,18,19,20,21,22,23,24,25,26,27,28,29): 7.926587104797363	 ([movie][piper][character][less][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 7.889479160308838	 ([piper][perabo's][character][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(0,1,2,3,4,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 1.8158611059188843	 ([movie][piper][perabo's][character][less][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 8.163542747497559	 ([movie][piper][perabo's][character][less][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 8.178814888000488, EP: 1.0	 ([movie][piper][perabo's][character][less][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,20,21,22,23,24,25,26,27,28,29): 8.16873550415039, EP: 0.998767614364624	 ([movie][piper][perabo's][character][less][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,1,3,4,5,6,7,8,9,11,13,14,18,19,20,21,22,23,24,25,26,27,28,29): 7.941859245300293, EP: 0.9710281491279602	 ([movie][piper][character][less][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 7.904751300811768, EP: 0.9664910435676575	 ([piper][perabo's][character][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,20,21,22,23,24,25,26,27,28): 7.8597612380981445, EP: 0.9609902501106262	 ([piper][perabo's][character][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(0,1,3,4,5,6,7,8,9,11,13,14,20,21,22,23,24,25,26,27,28,29): 7.810176849365234, EP: 0.9549276828765869	 ([movie][piper][character][less][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,29): 7.6601080894470215, EP: 0.9365792274475098	 ([movie][piper][perabo's][character][less][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin][in.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,29): 7.628976345062256, EP: 0.9327728152275085	 ([movie][piper][perabo's][character][less][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher][in.])
+v(0,2,4,5,6,7,10,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 7.570588111877441, EP: 0.9256338477134705	 ([movie][perabo's][less][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,2,4,5,6,7,10,12,13,15,16,17,20,21,22,23,24,25,26,27,28,29): 7.464189529418945, EP: 0.9126248359680176	 ([movie][perabo's][less][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(1,3,5,6,7,8,9,11,13,14,18,19,20,21,22,23,24,25,26,27,28): 7.376919746398926, EP: 0.9019545912742615	 ([piper][character][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,3,5,6,7,8,9,11,13,14,20,21,22,23,24,25,26,27,28): 7.233502388000488, EP: 0.8844193816184998	 ([piper][character][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17): 7.116726875305176, EP: 0.8701415657997131	 ([piper][perabo's][character][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin])
+v(1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19): 7.081987380981445, EP: 0.865894079208374	 ([piper][perabo's][character][bar,][might][halfway][decent.][piper's][violet][stanford][karen][friendly][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher])
+v(0,1,3,4,5,6,7,8,9,11,13,14,29): 7.0014848709106445, EP: 0.8560512661933899	 ([movie][piper][character][less][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures][in.])
+v(0,1,3,4,5,6,7,8,9,11,13,14,18,19,29): 6.999344825744629, EP: 0.8557896018028259	 ([movie][piper][character][less][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures][kindegarden][teacher][in.])
+v(2,5,6,7,10,12,13,15,16,17,20,21,22,23,24,25,26,27,28): 6.846193790435791, EP: 0.837064266204834	 ([perabo's][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(2,5,6,7,10,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 6.814146518707275, EP: 0.8331459760665894	 ([perabo's][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(0,4,5,6,7,13,18,19,20,21,22,23,24,25,26,27,28,29): 6.221386909484863, EP: 0.7606709599494934	 ([movie][less][bar,][might][halfway][friendly][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(1,3,5,6,7,8,9,11,13,14,18,19): 5.797428131103516, EP: 0.7088347673416138	 ([piper][character][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures][kindegarden][teacher])
+v(0,4,5,6,7,13,20,21,22,23,24,25,26,27,28,29): 5.7874603271484375, EP: 0.7076160311698914	 ([movie][less][bar,][might][halfway][friendly][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(1,3,5,6,7,8,9,11,13,14): 5.726702690124512, EP: 0.7001873254776001	 ([piper][character][bar,][might][halfway][decent.][piper's][stanford][friendly][( adventures])
+v(5,6,7,13,20,21,22,23,24,25,26,27,28): 5.439197540283203, EP: 0.6650349497795105	 ([bar,][might][halfway][friendly][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(5,6,7,13,18,19,20,21,22,23,24,25,26,27,28): 5.267974376678467, EP: 0.6440999507904053	 ([bar,][might][halfway][friendly][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(0,2,4,5,6,7,10,12,13,15,16,17,29): 4.983767509460449, EP: 0.6093508005142212	 ([movie][perabo's][less][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin][in.])
+v(0,2,4,10,12,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 4.879164695739746, EP: 0.5965613126754761	 ([movie][perabo's][less][violet][karen][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,2,4,5,6,7,10,12,13,15,16,17,18,19,29): 4.7060017585754395, EP: 0.5753892064094543	 ([movie][perabo's][less][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin][kindegarden][teacher][in.])
+v(2,10,12,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 4.270636081695557, EP: 0.5221583247184753	 ([perabo's][violet][karen][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(0,4,5,6,7,13,29): 3.5699586868286133, EP: 0.4364885091781616	 ([movie][less][bar,][might][halfway][friendly][in.])
+v(1,3,8,9,11,14,18,19,20,21,22,23,24,25,26,27,28): 3.483548879623413, EP: 0.4259234368801117	 ([piper][character][decent.][piper's][stanford][( adventures][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(2,10,12,15,16,17,20,21,22,23,24,25,26,27,28): 3.4714767932891846, EP: 0.4244474172592163	 ([perabo's][violet][karen][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(0,1,3,4,8,9,11,14,18,19,20,21,22,23,24,25,26,27,28,29): 3.0994226932525635, EP: 0.3789574205875397	 ([movie][piper][character][less][decent.][piper's][stanford][( adventures][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,2,4,10,12,15,16,17,20,21,22,23,24,25,26,27,28,29): 3.065622568130493, EP: 0.37482479214668274	 ([movie][perabo's][less][violet][karen][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(1,2,3,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 3.0431768894195557, EP: 0.37208041548728943	 ([piper][perabo's][character][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(0,4,5,6,7,13,18,19,29): 2.7580769062042236, EP: 0.33722206950187683	 ([movie][less][bar,][might][halfway][friendly][kindegarden][teacher][in.])
+v(1,2,3,8,9,10,11,12,14,15,16,17,18,19): 2.710230588912964, EP: 0.33137205243110657	 ([piper][perabo's][character][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher])
+v(0,1,2,3,4,8,9,10,11,12,14,15,16,17,18,19,29): 2.2511885166168213, EP: 0.2752462923526764	 ([movie][piper][perabo's][character][less][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher][in.])
+v(0,4,18,19,20,21,22,23,24,25,26,27,28,29): 2.2363545894622803, EP: 0.27343258261680603	 ([movie][less][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(18,19,20,21,22,23,24,25,26,27,28): 2.202512741088867, EP: 0.2692948579788208	 ([kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,3,8,9,11,14,18,19): 2.0141167640686035, EP: 0.24626022577285767	 ([piper][character][decent.][piper's][stanford][( adventures][kindegarden][teacher])
+v(1,2,3,8,9,10,11,12,14,15,16,17): 1.8521997928619385, EP: 0.22646310925483704	 ([piper][perabo's][character][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin])
+v(0,1,3,4,8,9,11,14,18,19,29): 1.8472703695297241, EP: 0.22586040198802948	 ([movie][piper][character][less][decent.][piper's][stanford][( adventures][kindegarden][teacher][in.])
+v(0,1,2,3,4,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 1.8311331272125244, EP: 0.2238873392343521	 ([movie][piper][perabo's][character][less][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin][kindegarden][teacher][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(2,5,6,7,10,12,13,15,16,17): 1.8189500570297241, EP: 0.22239775955677032	 ([perabo's][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin])
+v(2,5,6,7,10,12,13,15,16,17,18,19): 1.7510124444961548, EP: 0.2140912115573883	 ([perabo's][bar,][might][halfway][violet][karen][friendly][rocky][bullwinkle )][virgin][kindegarden][teacher])
+v(20,21,22,23,24,25,26,27,28): 1.652158260345459, EP: 0.2020045965909958	 ([quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(1,2,3,8,9,10,11,12,14,15,16,17,20,21,22,23,24,25,26,27,28): 1.6510324478149414, EP: 0.20186695456504822	 ([piper][perabo's][character][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(18,19): -1.2616947889328003, EP: -0.15426376461982727	 ([kindegarden][teacher])
+v(0,1,2,3,4,8,9,10,11,12,14,15,16,17,20,21,22,23,24,25,26,27,28,29): 1.2312383651733398, EP: 0.15053994953632355	 ([movie][piper][perabo's][character][less][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(1,3,8,9,11,14,20,21,22,23,24,25,26,27,28): 1.1877957582473755, EP: 0.1452283412218094	 ([piper][character][decent.][piper's][stanford][( adventures][quality][that's][endearing.][here's][hoping][she'll][find][better][movie])
+v(5,6,7,13): 1.110467791557312, EP: 0.1357736736536026	 ([bar,][might][halfway][friendly])
+v(0,2,4,10,12,15,16,17,18,19,29): 0.9311079978942871, EP: 0.1138438805937767	 ([movie][perabo's][less][violet][karen][rocky][bullwinkle )][virgin][kindegarden][teacher][in.])
+v(0,1,2,3,4,8,9,10,11,12,14,15,16,17,29): 0.8447589874267578, EP: 0.10328623652458191	 ([movie][piper][perabo's][character][less][decent.][piper's][violet][stanford][karen][( adventures][rocky][bullwinkle )][virgin][in.])
+v(0,2,4,10,12,15,16,17,29): 0.8139539957046509, EP: 0.09951979666948318	 ([movie][perabo's][less][violet][karen][rocky][bullwinkle )][virgin][in.])
+v(2,10,12,15,16,17,18,19): -0.7886953353881836, EP: -0.09643149375915527	 ([perabo's][violet][karen][rocky][bullwinkle )][virgin][kindegarden][teacher])
+v(0,4,20,21,22,23,24,25,26,27,28,29): 0.7429940700531006, EP: 0.09084372967481613	 ([movie][less][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(2,10,12,15,16,17): -0.7145992517471313, EP: -0.08737198263406754	 ([perabo's][violet][karen][rocky][bullwinkle )][virgin])
+v(0,4,18,19,29): -0.6593396663665771, EP: -0.08061555027961731	 ([movie][less][kindegarden][teacher][in.])
+v(5,6,7,13,18,19): 0.5175713300704956, EP: 0.06328194588422775	 ([bar,][might][halfway][friendly][kindegarden][teacher])
+v(0,1,3,4,8,9,11,14,29): -0.4820050597190857, EP: -0.05893336236476898	 ([movie][piper][character][less][decent.][piper's][stanford][( adventures][in.])
+v(1,3,8,9,11,14): 0.3551881015300751, EP: 0.04342782124876976	 ([piper][character][decent.][piper's][stanford][( adventures])
+v(0,1,3,4,8,9,11,14,20,21,22,23,24,25,26,27,28,29): 0.25248202681541443, EP: 0.03087024576961994	 ([movie][piper][character][less][decent.][piper's][stanford][( adventures][quality][that's][endearing.][here's][hoping][she'll][find][better][movie][in.])
+v(0,4,29): 0.17440441250801086, EP: 0.021323923021554947	 ([movie][less][in.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

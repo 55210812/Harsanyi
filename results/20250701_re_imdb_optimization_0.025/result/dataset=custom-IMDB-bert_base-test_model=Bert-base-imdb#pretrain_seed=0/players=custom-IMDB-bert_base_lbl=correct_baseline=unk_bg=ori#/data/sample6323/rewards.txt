@@ -1,0 +1,92 @@
+---------- Players ----------
+Player 0: movie
+Player 1: labeled
+Player 2: disney
+Player 3: picture,
+Player 4: probably
+Player 5: would
+Player 6: disappointed.
+Player 7: nudity
+Player 8: unnecessary
+Player 9: add
+Player 10: anything.
+Player 11: said
+Player 12: toilet
+Player 13: bowl
+Player 14: scene.
+Player 15: one
+Player 16: disney
+Player 17: film
+Player 18: let
+Player 19: four
+Player 20: year
+Player 21: old
+Player 22: nephew
+Player 23: watch.
+---------- Rewards ----------
+v(): -0.6837573051452637	 ([])
+v(0,5,6,8,23): 6.286597728729248	 ([movie][would][disappointed.][unnecessary][watch.])
+v(11,12,18,20): -1.1666553020477295	 ([said][toilet][let][year])
+v(7,9,10,16,19,21): 4.512731552124023	 ([nudity][add][anything.][disney][four][old])
+v(1,4,13,14,15,22): -0.46424567699432373	 ([labeled][probably][bowl][scene.][one][nephew])
+v(2,3,17): -1.198586106300354	 ([disney][picture,][film])
+v(0,5,6,8,11,12,18,20,23): 5.0962090492248535	 ([movie][would][disappointed.][unnecessary][said][toilet][let][year][watch.])
+v(0,5,6,7,8,9,10,16,19,21,23): 7.5629119873046875	 ([movie][would][disappointed.][nudity][unnecessary][add][anything.][disney][four][old][watch.])
+v(0,1,4,5,6,8,13,14,15,22,23): 6.474736213684082	 ([movie][labeled][probably][would][disappointed.][unnecessary][bowl][scene.][one][nephew][watch.])
+v(0,2,3,5,6,8,17,23): 5.042047500610352	 ([movie][disney][picture,][would][disappointed.][unnecessary][film][watch.])
+v(7,9,10,11,12,16,18,19,20,21): 5.060988903045654	 ([nudity][add][anything.][said][toilet][disney][let][four][year][old])
+v(1,4,11,12,13,14,15,18,20,22): -0.7395949959754944	 ([labeled][probably][said][toilet][bowl][scene.][one][let][year][nephew])
+v(2,3,11,12,17,18,20): -2.454202651977539	 ([disney][picture,][said][toilet][film][let][year])
+v(1,4,7,9,10,13,14,15,16,19,21,22): 6.50096321105957	 ([labeled][probably][nudity][add][anything.][bowl][scene.][one][disney][four][old][nephew])
+v(2,3,7,9,10,16,17,19,21): 6.160496234893799	 ([disney][picture,][nudity][add][anything.][disney][film][four][old])
+v(1,2,3,4,13,14,15,17,22): 2.8170998096466064	 ([labeled][disney][picture,][probably][bowl][scene.][one][film][nephew])
+v(0,5,6,7,8,9,10,11,12,16,18,19,20,21,23): 7.540001392364502	 ([movie][would][disappointed.][nudity][unnecessary][add][anything.][said][toilet][disney][let][four][year][old][watch.])
+v(0,1,4,5,6,8,11,12,13,14,15,18,20,22,23): 7.057315826416016	 ([movie][labeled][probably][would][disappointed.][unnecessary][said][toilet][bowl][scene.][one][let][year][nephew][watch.])
+v(0,2,3,5,6,8,11,12,17,18,20,23): 5.499531269073486	 ([movie][disney][picture,][would][disappointed.][unnecessary][said][toilet][film][let][year][watch.])
+v(0,1,4,5,6,7,8,9,10,13,14,15,16,19,21,22,23): 7.615180015563965	 ([movie][labeled][probably][would][disappointed.][nudity][unnecessary][add][anything.][bowl][scene.][one][disney][four][old][nephew][watch.])
+v(0,2,3,5,6,7,8,9,10,16,17,19,21,23): 7.195790767669678	 ([movie][disney][picture,][would][disappointed.][nudity][unnecessary][add][anything.][disney][film][four][old][watch.])
+v(0,1,2,3,4,5,6,8,13,14,15,17,22,23): 6.652985572814941	 ([movie][labeled][disney][picture,][probably][would][disappointed.][unnecessary][bowl][scene.][one][film][nephew][watch.])
+v(1,4,7,9,10,11,12,13,14,15,16,18,19,20,21,22): 6.408445358276367	 ([labeled][probably][nudity][add][anything.][said][toilet][bowl][scene.][one][disney][let][four][year][old][nephew])
+v(2,3,7,9,10,11,12,16,17,18,19,20,21): 7.007905960083008	 ([disney][picture,][nudity][add][anything.][said][toilet][disney][film][let][four][year][old])
+v(1,2,3,4,11,12,13,14,15,17,18,20,22): 2.539764404296875	 ([labeled][disney][picture,][probably][said][toilet][bowl][scene.][one][film][let][year][nephew])
+v(1,2,3,4,7,9,10,13,14,15,16,17,19,21,22): 7.72115421295166	 ([labeled][disney][picture,][probably][nudity][add][anything.][bowl][scene.][one][disney][film][four][old][nephew])
+v(0,1,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,20,21,22,23): 7.660140037536621	 ([movie][labeled][probably][would][disappointed.][nudity][unnecessary][add][anything.][said][toilet][bowl][scene.][one][disney][let][four][year][old][nephew][watch.])
+v(0,2,3,5,6,7,8,9,10,11,12,16,17,18,19,20,21,23): 7.786264419555664	 ([movie][disney][picture,][would][disappointed.][nudity][unnecessary][add][anything.][said][toilet][disney][film][let][four][year][old][watch.])
+v(0,1,2,3,4,5,6,8,11,12,13,14,15,17,18,20,22,23): 7.177457332611084	 ([movie][labeled][disney][picture,][probably][would][disappointed.][unnecessary][said][toilet][bowl][scene.][one][film][let][year][nephew][watch.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,19,21,22,23): 7.832155704498291	 ([movie][labeled][disney][picture,][probably][would][disappointed.][nudity][unnecessary][add][anything.][bowl][scene.][one][disney][film][four][old][nephew][watch.])
+v(1,2,3,4,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22): 6.770142555236816	 ([labeled][disney][picture,][probably][nudity][add][anything.][said][toilet][bowl][scene.][one][disney][film][let][four][year][old][nephew])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23): 8.032506942749023	 ([movie][labeled][disney][picture,][probably][would][disappointed.][nudity][unnecessary][add][anything.][said][toilet][bowl][scene.][one][disney][film][let][four][year][old][nephew][watch.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23): 8.716264724731445, EP: 1.0	 ([movie][labeled][disney][picture,][probably][would][disappointed.][nudity][unnecessary][add][anything.][said][toilet][bowl][scene.][one][disney][film][let][four][year][old][nephew][watch.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,19,21,22,23): 8.515913009643555, EP: 0.9770140647888184	 ([movie][labeled][disney][picture,][probably][would][disappointed.][nudity][unnecessary][add][anything.][bowl][scene.][one][disney][film][four][old][nephew][watch.])
+v(0,2,3,5,6,7,8,9,10,11,12,16,17,18,19,20,21,23): 8.470022201538086, EP: 0.9717490673065186	 ([movie][disney][picture,][would][disappointed.][nudity][unnecessary][add][anything.][said][toilet][disney][film][let][four][year][old][watch.])
+v(1,2,3,4,7,9,10,13,14,15,16,17,19,21,22): 8.404911041259766, EP: 0.9642789959907532	 ([labeled][disney][picture,][probably][nudity][add][anything.][bowl][scene.][one][disney][film][four][old][nephew])
+v(0,1,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,20,21,22,23): 8.343896865844727, EP: 0.9572789669036865	 ([movie][labeled][probably][would][disappointed.][nudity][unnecessary][add][anything.][said][toilet][bowl][scene.][one][disney][let][four][year][old][nephew][watch.])
+v(0,1,4,5,6,7,8,9,10,13,14,15,16,19,21,22,23): 8.29893684387207, EP: 0.9521207809448242	 ([movie][labeled][probably][would][disappointed.][nudity][unnecessary][add][anything.][bowl][scene.][one][disney][four][old][nephew][watch.])
+v(0,5,6,7,8,9,10,16,19,21,23): 8.24666976928711, EP: 0.9461243152618408	 ([movie][would][disappointed.][nudity][unnecessary][add][anything.][disney][four][old][watch.])
+v(0,5,6,7,8,9,10,11,12,16,18,19,20,21,23): 8.223758697509766, EP: 0.9434957504272461	 ([movie][would][disappointed.][nudity][unnecessary][add][anything.][said][toilet][disney][let][four][year][old][watch.])
+v(0,2,3,5,6,7,8,9,10,16,17,19,21,23): 7.879548072814941, EP: 0.9040051102638245	 ([movie][disney][picture,][would][disappointed.][nudity][unnecessary][add][anything.][disney][film][four][old][watch.])
+v(0,1,2,3,4,5,6,8,11,12,13,14,15,17,18,20,22,23): 7.861214637756348, EP: 0.9019017815589905	 ([movie][labeled][disney][picture,][probably][would][disappointed.][unnecessary][said][toilet][bowl][scene.][one][film][let][year][nephew][watch.])
+v(0,1,4,5,6,8,11,12,13,14,15,18,20,22,23): 7.741073131561279, EP: 0.8881181478500366	 ([movie][labeled][probably][would][disappointed.][unnecessary][said][toilet][bowl][scene.][one][let][year][nephew][watch.])
+v(2,3,7,9,10,11,12,16,17,18,19,20,21): 7.6916632652282715, EP: 0.8824495077133179	 ([disney][picture,][nudity][add][anything.][said][toilet][disney][film][let][four][year][old])
+v(1,2,3,4,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22): 7.45389986038208, EP: 0.8551713228225708	 ([labeled][disney][picture,][probably][nudity][add][anything.][said][toilet][bowl][scene.][one][disney][film][let][four][year][old][nephew])
+v(0,1,2,3,4,5,6,8,13,14,15,17,22,23): 7.336742877960205, EP: 0.8417301774024963	 ([movie][labeled][disney][picture,][probably][would][disappointed.][unnecessary][bowl][scene.][one][film][nephew][watch.])
+v(1,4,7,9,10,13,14,15,16,19,21,22): 7.184720516204834, EP: 0.8242889046669006	 ([labeled][probably][nudity][add][anything.][bowl][scene.][one][disney][four][old][nephew])
+v(0,1,4,5,6,8,13,14,15,22,23): 7.158493518829346, EP: 0.8212799429893494	 ([movie][labeled][probably][would][disappointed.][unnecessary][bowl][scene.][one][nephew][watch.])
+v(1,4,7,9,10,11,12,13,14,15,16,18,19,20,21,22): 7.092202663421631, EP: 0.8136745095252991	 ([labeled][probably][nudity][add][anything.][said][toilet][bowl][scene.][one][disney][let][four][year][old][nephew])
+v(0,5,6,8,23): 6.970355033874512, EP: 0.7996951937675476	 ([movie][would][disappointed.][unnecessary][watch.])
+v(2,3,7,9,10,16,17,19,21): 6.8442535400390625, EP: 0.7852278351783752	 ([disney][picture,][nudity][add][anything.][disney][film][four][old])
+v(0,2,3,5,6,8,11,12,17,18,20,23): 6.18328857421875, EP: 0.7093966007232666	 ([movie][disney][picture,][would][disappointed.][unnecessary][said][toilet][film][let][year][watch.])
+v(0,5,6,8,11,12,18,20,23): 5.779966354370117, EP: 0.6631242036819458	 ([movie][would][disappointed.][unnecessary][said][toilet][let][year][watch.])
+v(7,9,10,11,12,16,18,19,20,21): 5.744746208190918, EP: 0.6590834856033325	 ([nudity][add][anything.][said][toilet][disney][let][four][year][old])
+v(0,2,3,5,6,8,17,23): 5.725804805755615, EP: 0.6569103598594666	 ([movie][disney][picture,][would][disappointed.][unnecessary][film][watch.])
+v(7,9,10,16,19,21): 5.196488857269287, EP: 0.5961830019950867	 ([nudity][add][anything.][disney][four][old])
+v(1,2,3,4,13,14,15,17,22): 3.50085711479187, EP: 0.4016464948654175	 ([labeled][disney][picture,][probably][bowl][scene.][one][film][nephew])
+v(1,2,3,4,11,12,13,14,15,17,18,20,22): 3.2235217094421387, EP: 0.36982834339141846	 ([labeled][disney][picture,][probably][said][toilet][bowl][scene.][one][film][let][year][nephew])
+v(2,3,11,12,17,18,20): -1.7704453468322754, EP: -0.20311972498893738	 ([disney][picture,][said][toilet][film][let][year])
+v(2,3,17): -0.5148288011550903, EP: -0.05906530097126961	 ([disney][picture,][film])
+v(11,12,18,20): -0.4828979969024658, EP: -0.05540194362401962	 ([said][toilet][let][year])
+v(1,4,13,14,15,22): 0.21951162815093994, EP: 0.025184139609336853	 ([labeled][probably][bowl][scene.][one][nephew])
+v(1,4,11,12,13,14,15,18,20,22): -0.05583769083023071, EP: -0.0064061488956213	 ([labeled][probably][said][toilet][bowl][scene.][one][let][year][nephew])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

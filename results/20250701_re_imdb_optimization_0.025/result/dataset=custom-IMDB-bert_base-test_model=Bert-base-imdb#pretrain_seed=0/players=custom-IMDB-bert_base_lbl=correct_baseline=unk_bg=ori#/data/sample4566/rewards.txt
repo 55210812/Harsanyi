@@ -1,0 +1,171 @@
+---------- Players ----------
+Player 0: great
+Player 1: movie
+Player 2: call
+Player 3: anna
+Player 4: "
+Player 5: shows
+Player 6: person
+Player 7: suffered
+Player 8: long
+Player 9: without
+Player 10: knowing
+Player 11: wrong
+Player 12: her.
+Player 13: patty
+Player 14: duke
+Player 15: come
+Player 16: publics
+Player 17: eye
+Player 18: tell
+Player 19: story
+Player 20: inspiration
+Player 21: suffer
+Player 22: disease.
+Player 23: lot
+Player 24: respect
+Player 25: person.
+Player 26: thing
+Player 27: like
+Player 28: can't
+Player 29: get
+Player 30: tape,
+Player 31: i've
+Player 32: tried
+Player 33: looking
+Player 34: success.
+Player 35: one
+Player 36: know
+Player 37: get
+Player 38: it? "
+---------- Rewards ----------
+v(): 1.0210425853729248	 ([])
+v(30,31,32,33,34,35,36,37): 4.511199474334717	 ([tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,17): 7.383691310882568	 ([great][movie][call][anna]["][shows][person][suffered][eye])
+v(15,16,20,21,22,23): 0.32043159008026123	 ([come][publics][inspiration][suffer][disease.][lot])
+v(8,9,18,19,24,26,38): 3.15999698638916	 ([long][without][tell][story][respect][thing][it? "])
+v(25,27,28,29): 2.9552321434020996	 ([person.][like][can't][get])
+v(10,11,12,13,14): 2.838014841079712	 ([knowing][wrong][her.][patty][duke])
+v(0,1,2,3,4,5,6,7,17,30,31,32,33,34,35,36,37): 7.766124248504639	 ([great][movie][call][anna]["][shows][person][suffered][eye][tape,][i've][tried][looking][success.][one][know][get])
+v(15,16,20,21,22,23,30,31,32,33,34,35,36,37): 5.942330837249756	 ([come][publics][inspiration][suffer][disease.][lot][tape,][i've][tried][looking][success.][one][know][get])
+v(8,9,18,19,24,26,30,31,32,33,34,35,36,37,38): 7.384185314178467	 ([long][without][tell][story][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(25,27,28,29,30,31,32,33,34,35,36,37): 5.834443092346191	 ([person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(10,11,12,13,14,30,31,32,33,34,35,36,37): 5.813243865966797	 ([knowing][wrong][her.][patty][duke][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,15,16,17,20,21,22,23): 7.014989852905273	 ([great][movie][call][anna]["][shows][person][suffered][come][publics][eye][inspiration][suffer][disease.][lot])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,24,26,38): 7.454063415527344	 ([great][movie][call][anna]["][shows][person][suffered][long][without][eye][tell][story][respect][thing][it? "])
+v(0,1,2,3,4,5,6,7,17,25,27,28,29): 7.821616172790527	 ([great][movie][call][anna]["][shows][person][suffered][eye][person.][like][can't][get])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,17): 8.231061935424805	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][eye])
+v(8,9,15,16,18,19,20,21,22,23,24,26,38): 0.6820685267448425	 ([long][without][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][thing][it? "])
+v(15,16,20,21,22,23,25,27,28,29): 3.181159496307373	 ([come][publics][inspiration][suffer][disease.][lot][person.][like][can't][get])
+v(10,11,12,13,14,15,16,20,21,22,23): 3.2253589630126953	 ([knowing][wrong][her.][patty][duke][come][publics][inspiration][suffer][disease.][lot])
+v(8,9,18,19,24,25,26,27,28,29,38): 5.179856777191162	 ([long][without][tell][story][respect][person.][thing][like][can't][get][it? "])
+v(8,9,10,11,12,13,14,18,19,24,26,38): 3.1540894508361816	 ([long][without][knowing][wrong][her.][patty][duke][tell][story][respect][thing][it? "])
+v(10,11,12,13,14,25,27,28,29): 4.201348304748535	 ([knowing][wrong][her.][patty][duke][person.][like][can't][get])
+v(0,1,2,3,4,5,6,7,15,16,17,20,21,22,23,30,31,32,33,34,35,36,37): 7.634705543518066	 ([great][movie][call][anna]["][shows][person][suffered][come][publics][eye][inspiration][suffer][disease.][lot][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,24,26,30,31,32,33,34,35,36,37,38): 8.315885543823242	 ([great][movie][call][anna]["][shows][person][suffered][long][without][eye][tell][story][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,17,25,27,28,29,30,31,32,33,34,35,36,37): 7.837523937225342	 ([great][movie][call][anna]["][shows][person][suffered][eye][person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,17,30,31,32,33,34,35,36,37): 8.257675170898438	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][eye][tape,][i've][tried][looking][success.][one][know][get])
+v(8,9,15,16,18,19,20,21,22,23,24,26,30,31,32,33,34,35,36,37,38): 7.769622325897217	 ([long][without][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(15,16,20,21,22,23,25,27,28,29,30,31,32,33,34,35,36,37): 7.060424327850342	 ([come][publics][inspiration][suffer][disease.][lot][person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(10,11,12,13,14,15,16,20,21,22,23,30,31,32,33,34,35,36,37): 7.497801780700684	 ([knowing][wrong][her.][patty][duke][come][publics][inspiration][suffer][disease.][lot][tape,][i've][tried][looking][success.][one][know][get])
+v(8,9,18,19,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.172666549682617	 ([long][without][tell][story][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(8,9,10,11,12,13,14,18,19,24,26,30,31,32,33,34,35,36,37,38): 7.725728988647461	 ([long][without][knowing][wrong][her.][patty][duke][tell][story][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(10,11,12,13,14,25,27,28,29,30,31,32,33,34,35,36,37): 7.003252029418945	 ([knowing][wrong][her.][patty][duke][person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,8,9,15,16,17,18,19,20,21,22,23,24,26,38): 7.247166633605957	 ([great][movie][call][anna]["][shows][person][suffered][long][without][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][thing][it? "])
+v(0,1,2,3,4,5,6,7,15,16,17,20,21,22,23,25,27,28,29): 7.4186625480651855	 ([great][movie][call][anna]["][shows][person][suffered][come][publics][eye][inspiration][suffer][disease.][lot][person.][like][can't][get])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,20,21,22,23): 7.9973015785217285	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][come][publics][eye][inspiration][suffer][disease.][lot])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,24,25,26,27,28,29,38): 8.007920265197754	 ([great][movie][call][anna]["][shows][person][suffered][long][without][eye][tell][story][respect][person.][thing][like][can't][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,17,18,19,24,26,38): 8.281377792358398	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][eye][tell][story][respect][thing][it? "])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,17,25,27,28,29): 8.352587699890137	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][eye][person.][like][can't][get])
+v(8,9,15,16,18,19,20,21,22,23,24,25,26,27,28,29,38): 3.7148728370666504	 ([long][without][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][it? "])
+v(8,9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,26,38): 2.4132180213928223	 ([long][without][knowing][wrong][her.][patty][duke][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][thing][it? "])
+v(10,11,12,13,14,15,16,20,21,22,23,25,27,28,29): 5.974802494049072	 ([knowing][wrong][her.][patty][duke][come][publics][inspiration][suffer][disease.][lot][person.][like][can't][get])
+v(8,9,10,11,12,13,14,18,19,24,25,26,27,28,29,38): 5.696258544921875	 ([long][without][knowing][wrong][her.][patty][duke][tell][story][respect][person.][thing][like][can't][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,15,16,17,18,19,20,21,22,23,24,26,30,31,32,33,34,35,36,37,38): 8.09841537475586	 ([great][movie][call][anna]["][shows][person][suffered][long][without][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,15,16,17,20,21,22,23,25,27,28,29,30,31,32,33,34,35,36,37): 7.60553503036499	 ([great][movie][call][anna]["][shows][person][suffered][come][publics][eye][inspiration][suffer][disease.][lot][person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,20,21,22,23,30,31,32,33,34,35,36,37): 8.152669906616211	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][come][publics][eye][inspiration][suffer][disease.][lot][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.308684349060059	 ([great][movie][call][anna]["][shows][person][suffered][long][without][eye][tell][story][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,17,18,19,24,26,30,31,32,33,34,35,36,37,38): 8.829885482788086	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][eye][tell][story][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,17,25,27,28,29,30,31,32,33,34,35,36,37): 8.275215148925781	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][eye][person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(8,9,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.172290802001953	 ([long][without][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(8,9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,26,30,31,32,33,34,35,36,37,38): 8.100508689880371	 ([long][without][knowing][wrong][her.][patty][duke][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(10,11,12,13,14,15,16,20,21,22,23,25,27,28,29,30,31,32,33,34,35,36,37): 8.068328857421875	 ([knowing][wrong][her.][patty][duke][come][publics][inspiration][suffer][disease.][lot][person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(8,9,10,11,12,13,14,18,19,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.39643383026123	 ([long][without][knowing][wrong][her.][patty][duke][tell][story][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,38): 7.604407787322998	 ([great][movie][call][anna]["][shows][person][suffered][long][without][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,38): 8.315544128417969	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][thing][it? "])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,20,21,22,23,25,27,28,29): 8.160723686218262	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][come][publics][eye][inspiration][suffer][disease.][lot][person.][like][can't][get])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,17,18,19,24,25,26,27,28,29,38): 8.682636260986328	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][eye][tell][story][respect][person.][thing][like][can't][get][it? "])
+v(8,9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,25,26,27,28,29,38): 5.90715217590332	 ([long][without][knowing][wrong][her.][patty][duke][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.02981948852539	 ([great][movie][call][anna]["][shows][person][suffered][long][without][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,30,31,32,33,34,35,36,37,38): 8.506166458129883	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,20,21,22,23,25,27,28,29,30,31,32,33,34,35,36,37): 7.989407539367676	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][come][publics][eye][inspiration][suffer][disease.][lot][person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,17,18,19,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.790903091430664	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][eye][tell][story][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(8,9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.352201461791992	 ([long][without][knowing][wrong][her.][patty][duke][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,38): 8.47447395324707	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.312057495117188	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,17,18,19,24,26,30,31,32,33,34,35,36,37,38): 7.808842658996582, EP: 1.0710227489471436	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][eye][tell][story][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,17,18,19,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.76986026763916, EP: 1.0656760931015015	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][eye][tell][story][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,17,18,19,24,25,26,27,28,29,38): 7.661593437194824, EP: 1.0508267879486084	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][eye][tell][story][respect][person.][thing][like][can't][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,30,31,32,33,34,35,36,37,38): 7.485123634338379, EP: 1.026623010635376	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,38): 7.453431129455566, EP: 1.0222762823104858	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][it? "])
+v(8,9,10,11,12,13,14,18,19,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.375391006469727, EP: 1.0115725994110107	 ([long][without][knowing][wrong][her.][patty][duke][tell][story][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,17,25,27,28,29): 7.331544876098633, EP: 1.005558967590332	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][eye][person.][like][can't][get])
+v(8,9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.331158638000488, EP: 1.005505919456482	 ([long][without][knowing][wrong][her.][patty][duke][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,24,26,30,31,32,33,34,35,36,37,38): 7.294842720031738, EP: 1.0005249977111816	 ([great][movie][call][anna]["][shows][person][suffered][long][without][eye][tell][story][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,38): 7.294501304626465, EP: 1.0004782676696777	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][thing][it? "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.291014671325684, EP: 1.0	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.287641525268555, EP: 0.9995373487472534	 ([great][movie][call][anna]["][shows][person][suffered][long][without][eye][tell][story][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,17,18,19,24,26,38): 7.2603349685668945, EP: 0.9957921504974365	 ([great][movie][call][anna]["][shows][person][suffered][long][without][knowing][wrong][her.][patty][duke][eye][tell][story][respect][thing][it? "])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,17,25,27,28,29,30,31,32,33,34,35,36,37): 7.254172325134277, EP: 0.9949468970298767	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][eye][person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,17,30,31,32,33,34,35,36,37): 7.236632347106934, EP: 0.9925411939620972	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][eye][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,17): 7.210019111633301, EP: 0.988891065120697	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][eye])
+v(8,9,18,19,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.151623725891113, EP: 0.9808818101882935	 ([long][without][tell][story][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(8,9,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.151247978210449, EP: 0.9808303117752075	 ([long][without][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,20,21,22,23,25,27,28,29): 7.139680862426758, EP: 0.979243814945221	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][come][publics][eye][inspiration][suffer][disease.][lot][person.][like][can't][get])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,20,21,22,23,30,31,32,33,34,35,36,37): 7.131627082824707, EP: 0.9781391620635986	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][come][publics][eye][inspiration][suffer][disease.][lot][tape,][i've][tried][looking][success.][one][know][get])
+v(8,9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,26,30,31,32,33,34,35,36,37,38): 7.079465866088867, EP: 0.9709849953651428	 ([long][without][knowing][wrong][her.][patty][duke][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,15,16,17,18,19,20,21,22,23,24,26,30,31,32,33,34,35,36,37,38): 7.0773725509643555, EP: 0.9706978797912598	 ([great][movie][call][anna]["][shows][person][suffered][long][without][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(10,11,12,13,14,15,16,20,21,22,23,25,27,28,29,30,31,32,33,34,35,36,37): 7.047286033630371, EP: 0.9665713906288147	 ([knowing][wrong][her.][patty][duke][come][publics][inspiration][suffer][disease.][lot][person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,8,9,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.008776664733887, EP: 0.9612895846366882	 ([great][movie][call][anna]["][shows][person][suffered][long][without][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,24,25,26,27,28,29,38): 6.98687744140625, EP: 0.9582860469818115	 ([great][movie][call][anna]["][shows][person][suffered][long][without][eye][tell][story][respect][person.][thing][like][can't][get][it? "])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,20,21,22,23): 6.976259231567383, EP: 0.9568296670913696	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][come][publics][eye][inspiration][suffer][disease.][lot])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,20,21,22,23,25,27,28,29,30,31,32,33,34,35,36,37): 6.968364715576172, EP: 0.9557468891143799	 ([great][movie][call][anna]["][shows][person][suffered][knowing][wrong][her.][patty][duke][come][publics][eye][inspiration][suffer][disease.][lot][person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,17,25,27,28,29,30,31,32,33,34,35,36,37): 6.816481590270996, EP: 0.9349153637886047	 ([great][movie][call][anna]["][shows][person][suffered][eye][person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,17,25,27,28,29): 6.800573348999023, EP: 0.9327334761619568	 ([great][movie][call][anna]["][shows][person][suffered][eye][person.][like][can't][get])
+v(8,9,15,16,18,19,20,21,22,23,24,26,30,31,32,33,34,35,36,37,38): 6.748579978942871, EP: 0.9256023168563843	 ([long][without][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,17,30,31,32,33,34,35,36,37): 6.745081901550293, EP: 0.9251224994659424	 ([great][movie][call][anna]["][shows][person][suffered][eye][tape,][i've][tried][looking][success.][one][know][get])
+v(8,9,10,11,12,13,14,18,19,24,26,30,31,32,33,34,35,36,37,38): 6.704686164855957, EP: 0.9195820689201355	 ([long][without][knowing][wrong][her.][patty][duke][tell][story][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,15,16,17,20,21,22,23,30,31,32,33,34,35,36,37): 6.6136627197265625, EP: 0.9070976972579956	 ([great][movie][call][anna]["][shows][person][suffered][come][publics][eye][inspiration][suffer][disease.][lot][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,15,16,17,20,21,22,23,25,27,28,29,30,31,32,33,34,35,36,37): 6.5844926834106445, EP: 0.9030969142913818	 ([great][movie][call][anna]["][shows][person][suffered][come][publics][eye][inspiration][suffer][disease.][lot][person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,8,9,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,38): 6.583365440368652, EP: 0.9029422998428345	 ([great][movie][call][anna]["][shows][person][suffered][long][without][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][it? "])
+v(10,11,12,13,14,15,16,20,21,22,23,30,31,32,33,34,35,36,37): 6.47675895690918, EP: 0.8883206844329834	 ([knowing][wrong][her.][patty][duke][come][publics][inspiration][suffer][disease.][lot][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,8,9,17,18,19,24,26,38): 6.43302059173584, EP: 0.8823217153549194	 ([great][movie][call][anna]["][shows][person][suffered][long][without][eye][tell][story][respect][thing][it? "])
+v(0,1,2,3,4,5,6,7,15,16,17,20,21,22,23,25,27,28,29): 6.39762020111084, EP: 0.8774663805961609	 ([great][movie][call][anna]["][shows][person][suffered][come][publics][eye][inspiration][suffer][disease.][lot][person.][like][can't][get])
+v(8,9,18,19,24,26,30,31,32,33,34,35,36,37,38): 6.363142967224121, EP: 0.8727376461029053	 ([long][without][tell][story][respect][thing][tape,][i've][tried][looking][success.][one][know][get][it? "])
+v(0,1,2,3,4,5,6,7,17): 6.362648963928223, EP: 0.8726698756217957	 ([great][movie][call][anna]["][shows][person][suffered][eye])
+v(0,1,2,3,4,5,6,7,8,9,15,16,17,18,19,20,21,22,23,24,26,38): 6.226123809814453, EP: 0.8539447784423828	 ([great][movie][call][anna]["][shows][person][suffered][long][without][come][publics][eye][tell][story][inspiration][suffer][disease.][lot][respect][thing][it? "])
+v(15,16,20,21,22,23,25,27,28,29,30,31,32,33,34,35,36,37): 6.039381980895996, EP: 0.8283321857452393	 ([come][publics][inspiration][suffer][disease.][lot][person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(0,1,2,3,4,5,6,7,15,16,17,20,21,22,23): 5.9939470291137695, EP: 0.8221005201339722	 ([great][movie][call][anna]["][shows][person][suffered][come][publics][eye][inspiration][suffer][disease.][lot])
+v(10,11,12,13,14,25,27,28,29,30,31,32,33,34,35,36,37): 5.982209205627441, EP: 0.8204905986785889	 ([knowing][wrong][her.][patty][duke][person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(10,11,12,13,14,15,16,20,21,22,23,25,27,28,29): 4.953760147094727, EP: 0.6794335842132568	 ([knowing][wrong][her.][patty][duke][come][publics][inspiration][suffer][disease.][lot][person.][like][can't][get])
+v(15,16,20,21,22,23,30,31,32,33,34,35,36,37): 4.92128849029541, EP: 0.6749799251556396	 ([come][publics][inspiration][suffer][disease.][lot][tape,][i've][tried][looking][success.][one][know][get])
+v(8,9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,25,26,27,28,29,38): 4.886109352111816, EP: 0.6701549291610718	 ([long][without][knowing][wrong][her.][patty][duke][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][it? "])
+v(25,27,28,29,30,31,32,33,34,35,36,37): 4.8134002685546875, EP: 0.6601824760437012	 ([person.][like][can't][get][tape,][i've][tried][looking][success.][one][know][get])
+v(10,11,12,13,14,30,31,32,33,34,35,36,37): 4.792201042175293, EP: 0.6572749018669128	 ([knowing][wrong][her.][patty][duke][tape,][i've][tried][looking][success.][one][know][get])
+v(8,9,10,11,12,13,14,18,19,24,25,26,27,28,29,38): 4.675215721130371, EP: 0.6412297487258911	 ([long][without][knowing][wrong][her.][patty][duke][tell][story][respect][person.][thing][like][can't][get][it? "])
+v(8,9,18,19,24,25,26,27,28,29,38): 4.158814430236816, EP: 0.5704026818275452	 ([long][without][tell][story][respect][person.][thing][like][can't][get][it? "])
+v(30,31,32,33,34,35,36,37): 3.490156888961792, EP: 0.478692889213562	 ([tape,][i've][tried][looking][success.][one][know][get])
+v(10,11,12,13,14,25,27,28,29): 3.1803057193756104, EP: 0.4361952245235443	 ([knowing][wrong][her.][patty][duke][person.][like][can't][get])
+v(8,9,15,16,18,19,20,21,22,23,24,25,26,27,28,29,38): 2.6938302516937256, EP: 0.3694726228713989	 ([long][without][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][person.][thing][like][can't][get][it? "])
+v(10,11,12,13,14,15,16,20,21,22,23): 2.2043163776397705, EP: 0.302333265542984	 ([knowing][wrong][her.][patty][duke][come][publics][inspiration][suffer][disease.][lot])
+v(15,16,20,21,22,23,25,27,28,29): 2.1601169109344482, EP: 0.29627108573913574	 ([come][publics][inspiration][suffer][disease.][lot][person.][like][can't][get])
+v(8,9,18,19,24,26,38): 2.1389544010162354, EP: 0.29336854815483093	 ([long][without][tell][story][respect][thing][it? "])
+v(8,9,10,11,12,13,14,18,19,24,26,38): 2.133046865463257, EP: 0.29255831241607666	 ([long][without][knowing][wrong][her.][patty][duke][tell][story][respect][thing][it? "])
+v(25,27,28,29): 1.9341895580291748, EP: 0.26528400182724	 ([person.][like][can't][get])
+v(10,11,12,13,14): 1.816972255706787, EP: 0.2492070496082306	 ([knowing][wrong][her.][patty][duke])
+v(8,9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,26,38): 1.3921754360198975, EP: 0.19094398617744446	 ([long][without][knowing][wrong][her.][patty][duke][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][thing][it? "])
+v(15,16,20,21,22,23): -0.7006109952926636, EP: -0.09609238803386688	 ([come][publics][inspiration][suffer][disease.][lot])
+v(8,9,15,16,18,19,20,21,22,23,24,26,38): -0.3389740586280823, EP: -0.04649202898144722	 ([long][without][come][publics][tell][story][inspiration][suffer][disease.][lot][respect][thing][it? "])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

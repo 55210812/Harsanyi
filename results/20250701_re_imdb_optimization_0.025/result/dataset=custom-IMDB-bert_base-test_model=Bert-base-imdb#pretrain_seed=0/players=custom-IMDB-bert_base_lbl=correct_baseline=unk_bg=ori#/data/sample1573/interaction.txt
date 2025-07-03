@@ -1,0 +1,24 @@
+---------- Players ----------
+Player 0: feels
+Player 1: like
+Player 2: swedish
+Player 3: movies
+Player 4: trying
+Player 5: become
+Player 6: american
+Player 7: get
+Player 8: it.
+Player 9: movie
+Player 10: performance
+Player 11: actors
+Player 12: horrible
+Player 13: script
+Player 14: nothing
+Player 15: special.
+Player 16: waste
+Player 17: time!
+---------- AND Interactions (Pairwise Only) ----------
+I(11,12): 6.806779861450195	 ([actors][horrible])
+I(0,17): 1.835526466369629	 ([feels][time!])
+Sum: 8.642306327819824
+==================================================

@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['2', '8', '3', '0', '1', '6', '7']: ['movie', 'funny.', 'came', 'first', 'saw', 'recently', 'still']: 平均边权 0.5402
+社区 2: ['13', '32', '45', '49', '50', '48', '44', '14']: ['helps', 'also', 'music', 'makes', 'fun', 'movie', 'c & c', 'do.']: 平均边权 0.3524
+社区 3: ['59', '58', '57']: ['interviewer', 'plays', 'lemmons']: 平均边权 1.0192
+社区 4: ['55', '53', '51', '52', '54']: ['documentary.', 'like', 'way', 'seems', 'actually']: 平均边权 0.8501
+社区 5: ['56', '20', '25', '21', '16', '22', '23', '24', '26', '17']: ['kasi', 'internal', 'separated', 'strife', 'nwa', 'within', 'groups', 'members', 'ways', 'public']: 平均边权 0.2461
+社区 6: ['12', '34', '29', '30', '15', '9', '33', '31']: ["90's,", "b's,", 'easy', 'e,', "90's", 'know', 'wanna', 'etc ).']: 平均边权 0.1896
+社区 7: ['27', '35', '46', '40', '47', '39', '41', '42', '43', '28']: ['( ice', 'accessible', 'factory,', '( vanilla', 'etc ).', 'scene', 'ice,', 'freedom', 'williams', 'cube,']: 平均边权 0.2271
+社区 8: ['4', '11', '5', '19', '10', '18']: ['1994', 'hiphop', 'watched', 'top,', 'understand', 'enemy']: 平均边权 0.2714
+社区 9: ['38', '37', '36']: ['making', 'start', 'rappers']: 平均边权 0.5554

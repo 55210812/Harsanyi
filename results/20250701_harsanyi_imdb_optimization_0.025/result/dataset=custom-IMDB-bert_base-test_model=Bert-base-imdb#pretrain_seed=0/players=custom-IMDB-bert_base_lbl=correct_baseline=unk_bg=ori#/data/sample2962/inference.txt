@@ -1,0 +1,74 @@
+Execution time: 2025-07-03 05:27:20
+prompt: [CLS] the storyplot was okay by itself, but the film felt very bubbly and fake. it also had the worst ending. they were probably going for a surprise ending, but all it did was leave me the question of what the whole point of the story was. all other teen movies are better than this one. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:2466 decoded_text: story
+idx:3 input_id:24759 decoded_text: ##pl
+idx:4 input_id:4140 decoded_text: ##ot
+idx:5 input_id:2001 decoded_text: was
+idx:6 input_id:3100 decoded_text: okay
+idx:7 input_id:2011 decoded_text: by
+idx:8 input_id:2993 decoded_text: itself
+idx:9 input_id:1010 decoded_text: ,
+idx:10 input_id:2021 decoded_text: but
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:2143 decoded_text: film
+idx:13 input_id:2371 decoded_text: felt
+idx:14 input_id:2200 decoded_text: very
+idx:15 input_id:20934 decoded_text: bu
+idx:16 input_id:24200 decoded_text: ##bbly
+idx:17 input_id:1998 decoded_text: and
+idx:18 input_id:8275 decoded_text: fake
+idx:19 input_id:1012 decoded_text: .
+idx:20 input_id:2009 decoded_text: it
+idx:21 input_id:2036 decoded_text: also
+idx:22 input_id:2018 decoded_text: had
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:5409 decoded_text: worst
+idx:25 input_id:4566 decoded_text: ending
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:2027 decoded_text: they
+idx:28 input_id:2020 decoded_text: were
+idx:29 input_id:2763 decoded_text: probably
+idx:30 input_id:2183 decoded_text: going
+idx:31 input_id:2005 decoded_text: for
+idx:32 input_id:1037 decoded_text: a
+idx:33 input_id:4474 decoded_text: surprise
+idx:34 input_id:4566 decoded_text: ending
+idx:35 input_id:1010 decoded_text: ,
+idx:36 input_id:2021 decoded_text: but
+idx:37 input_id:2035 decoded_text: all
+idx:38 input_id:2009 decoded_text: it
+idx:39 input_id:2106 decoded_text: did
+idx:40 input_id:2001 decoded_text: was
+idx:41 input_id:2681 decoded_text: leave
+idx:42 input_id:2033 decoded_text: me
+idx:43 input_id:1996 decoded_text: the
+idx:44 input_id:3160 decoded_text: question
+idx:45 input_id:1997 decoded_text: of
+idx:46 input_id:2054 decoded_text: what
+idx:47 input_id:1996 decoded_text: the
+idx:48 input_id:2878 decoded_text: whole
+idx:49 input_id:2391 decoded_text: point
+idx:50 input_id:1997 decoded_text: of
+idx:51 input_id:1996 decoded_text: the
+idx:52 input_id:2466 decoded_text: story
+idx:53 input_id:2001 decoded_text: was
+idx:54 input_id:1012 decoded_text: .
+idx:55 input_id:2035 decoded_text: all
+idx:56 input_id:2060 decoded_text: other
+idx:57 input_id:9458 decoded_text: teen
+idx:58 input_id:5691 decoded_text: movies
+idx:59 input_id:2024 decoded_text: are
+idx:60 input_id:2488 decoded_text: better
+idx:61 input_id:2084 decoded_text: than
+idx:62 input_id:2023 decoded_text: this
+idx:63 input_id:2028 decoded_text: one
+idx:64 input_id:1012 decoded_text: .
+idx:65 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[3.877889633178711, -3.241640567779541]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

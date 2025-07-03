@@ -1,0 +1,88 @@
+---------- Players ----------
+Player 0: one
+Player 1: worst
+Player 2: movies
+Player 3: ever
+Player 4: seen!
+Player 5: saw
+Player 6: toronto
+Player 7: film
+Player 8: festival
+Player 9: totally
+Player 10: regret
+Player 11: wasting
+Player 12: time.
+Player 13: completely
+Player 14: unwatchable
+Player 15: redeeming
+Player 16: qualities
+Player 17: whatsoever.
+Player 18: steer
+Player 19: clear.
+---------- Rewards ----------
+v(): 0.5064029097557068	 ([])
+v(8,9,10,11): -0.3383023738861084	 ([festival][totally][regret][wasting])
+v(0,1,3): 6.632391452789307	 ([one][worst][ever])
+v(5,6,17): -1.2669329643249512	 ([saw][toronto][whatsoever.])
+v(7,12,13,16,18): -1.6339879035949707	 ([film][time.][completely][qualities][steer])
+v(2,4,14,15,19): -2.3754701614379883	 ([movies][seen!][unwatchable][redeeming][clear.])
+v(0,1,3,8,9,10,11): 6.771008491516113	 ([one][worst][ever][festival][totally][regret][wasting])
+v(5,6,8,9,10,11,17): -2.440375566482544	 ([saw][toronto][festival][totally][regret][wasting][whatsoever.])
+v(7,8,9,10,11,12,13,16,18): 3.5083513259887695	 ([film][festival][totally][regret][wasting][time.][completely][qualities][steer])
+v(2,4,8,9,10,11,14,15,19): -1.412226676940918	 ([movies][seen!][festival][totally][regret][wasting][unwatchable][redeeming][clear.])
+v(0,1,3,5,6,17): 7.606039047241211	 ([one][worst][ever][saw][toronto][whatsoever.])
+v(0,1,3,7,12,13,16,18): 7.287425994873047	 ([one][worst][ever][film][time.][completely][qualities][steer])
+v(0,1,2,3,4,14,15,19): 7.741242408752441	 ([one][worst][movies][ever][seen!][unwatchable][redeeming][clear.])
+v(5,6,7,12,13,16,17,18): -0.2582661509513855	 ([saw][toronto][film][time.][completely][qualities][whatsoever.][steer])
+v(2,4,5,6,14,15,17,19): -3.1759090423583984	 ([movies][seen!][saw][toronto][unwatchable][redeeming][whatsoever.][clear.])
+v(2,4,7,12,13,14,15,16,18,19): 7.335379123687744	 ([movies][seen!][film][time.][completely][unwatchable][redeeming][qualities][steer][clear.])
+v(0,1,3,5,6,8,9,10,11,17): 7.766054153442383	 ([one][worst][ever][saw][toronto][festival][totally][regret][wasting][whatsoever.])
+v(0,1,3,7,8,9,10,11,12,13,16,18): 7.550501346588135	 ([one][worst][ever][film][festival][totally][regret][wasting][time.][completely][qualities][steer])
+v(0,1,2,3,4,8,9,10,11,14,15,19): 7.702144145965576	 ([one][worst][movies][ever][seen!][festival][totally][regret][wasting][unwatchable][redeeming][clear.])
+v(5,6,7,8,9,10,11,12,13,16,17,18): 6.241266250610352	 ([saw][toronto][film][festival][totally][regret][wasting][time.][completely][qualities][whatsoever.][steer])
+v(2,4,5,6,8,9,10,11,14,15,17,19): -1.1051249504089355	 ([movies][seen!][saw][toronto][festival][totally][regret][wasting][unwatchable][redeeming][whatsoever.][clear.])
+v(2,4,7,8,9,10,11,12,13,14,15,16,18,19): 6.806723117828369	 ([movies][seen!][film][festival][totally][regret][wasting][time.][completely][unwatchable][redeeming][qualities][steer][clear.])
+v(0,1,3,5,6,7,12,13,16,17,18): 7.929616928100586	 ([one][worst][ever][saw][toronto][film][time.][completely][qualities][whatsoever.][steer])
+v(0,1,2,3,4,5,6,14,15,17,19): 8.066115379333496	 ([one][worst][movies][ever][seen!][saw][toronto][unwatchable][redeeming][whatsoever.][clear.])
+v(0,1,2,3,4,7,12,13,14,15,16,18,19): 8.008573532104492	 ([one][worst][movies][ever][seen!][film][time.][completely][unwatchable][redeeming][qualities][steer][clear.])
+v(2,4,5,6,7,12,13,14,15,16,17,18,19): 7.665477752685547	 ([movies][seen!][saw][toronto][film][time.][completely][unwatchable][redeeming][qualities][whatsoever.][steer][clear.])
+v(0,1,3,5,6,7,8,9,10,11,12,13,16,17,18): 8.25478744506836	 ([one][worst][ever][saw][toronto][film][festival][totally][regret][wasting][time.][completely][qualities][whatsoever.][steer])
+v(0,1,2,3,4,5,6,8,9,10,11,14,15,17,19): 8.187301635742188	 ([one][worst][movies][ever][seen!][saw][toronto][festival][totally][regret][wasting][unwatchable][redeeming][whatsoever.][clear.])
+v(0,1,2,3,4,7,8,9,10,11,12,13,14,15,16,18,19): 7.806498050689697	 ([one][worst][movies][ever][seen!][film][festival][totally][regret][wasting][time.][completely][unwatchable][redeeming][qualities][steer][clear.])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19): 7.71614933013916	 ([movies][seen!][saw][toronto][film][festival][totally][regret][wasting][time.][completely][unwatchable][redeeming][qualities][whatsoever.][steer][clear.])
+v(0,1,2,3,4,5,6,7,12,13,14,15,16,17,18,19): 8.293590545654297	 ([one][worst][movies][ever][seen!][saw][toronto][film][time.][completely][unwatchable][redeeming][qualities][whatsoever.][steer][clear.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19): 8.31879997253418	 ([one][worst][movies][ever][seen!][saw][toronto][film][festival][totally][regret][wasting][time.][completely][unwatchable][redeeming][qualities][whatsoever.][steer][clear.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19): 7.812397003173828, EP: 1.0	 ([one][worst][movies][ever][seen!][saw][toronto][film][festival][totally][regret][wasting][time.][completely][unwatchable][redeeming][qualities][whatsoever.][steer][clear.])
+v(0,1,2,3,4,5,6,7,12,13,14,15,16,17,18,19): 7.787187576293945, EP: 0.9967731237411499	 ([one][worst][movies][ever][seen!][saw][toronto][film][time.][completely][unwatchable][redeeming][qualities][whatsoever.][steer][clear.])
+v(0,1,3,5,6,7,8,9,10,11,12,13,16,17,18): 7.748384475708008, EP: 0.9918062686920166	 ([one][worst][ever][saw][toronto][film][festival][totally][regret][wasting][time.][completely][qualities][whatsoever.][steer])
+v(0,1,2,3,4,5,6,8,9,10,11,14,15,17,19): 7.680898666381836, EP: 0.9831680059432983	 ([one][worst][movies][ever][seen!][saw][toronto][festival][totally][regret][wasting][unwatchable][redeeming][whatsoever.][clear.])
+v(0,1,2,3,4,5,6,14,15,17,19): 7.5597124099731445, EP: 0.9676559567451477	 ([one][worst][movies][ever][seen!][saw][toronto][unwatchable][redeeming][whatsoever.][clear.])
+v(0,1,2,3,4,7,12,13,14,15,16,18,19): 7.502170562744141, EP: 0.9602904915809631	 ([one][worst][movies][ever][seen!][film][time.][completely][unwatchable][redeeming][qualities][steer][clear.])
+v(0,1,3,5,6,7,12,13,16,17,18): 7.423213958740234, EP: 0.9501839280128479	 ([one][worst][ever][saw][toronto][film][time.][completely][qualities][whatsoever.][steer])
+v(0,1,2,3,4,7,8,9,10,11,12,13,14,15,16,18,19): 7.300095081329346, EP: 0.9344244599342346	 ([one][worst][movies][ever][seen!][film][festival][totally][regret][wasting][time.][completely][unwatchable][redeeming][qualities][steer][clear.])
+v(0,1,3,5,6,8,9,10,11,17): 7.259651184082031, EP: 0.9292476177215576	 ([one][worst][ever][saw][toronto][festival][totally][regret][wasting][whatsoever.])
+v(0,1,2,3,4,14,15,19): 7.23483943939209, EP: 0.9260716438293457	 ([one][worst][movies][ever][seen!][unwatchable][redeeming][clear.])
+v(2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19): 7.209746360778809, EP: 0.9228597283363342	 ([movies][seen!][saw][toronto][film][festival][totally][regret][wasting][time.][completely][unwatchable][redeeming][qualities][whatsoever.][steer][clear.])
+v(0,1,2,3,4,8,9,10,11,14,15,19): 7.195741176605225, EP: 0.9210669994354248	 ([one][worst][movies][ever][seen!][festival][totally][regret][wasting][unwatchable][redeeming][clear.])
+v(2,4,5,6,7,12,13,14,15,16,17,18,19): 7.159074783325195, EP: 0.9163736701011658	 ([movies][seen!][saw][toronto][film][time.][completely][unwatchable][redeeming][qualities][whatsoever.][steer][clear.])
+v(0,1,3,5,6,17): 7.099636077880859, EP: 0.9087653756141663	 ([one][worst][ever][saw][toronto][whatsoever.])
+v(0,1,3,7,8,9,10,11,12,13,16,18): 7.044098377227783, EP: 0.9016565084457397	 ([one][worst][ever][film][festival][totally][regret][wasting][time.][completely][qualities][steer])
+v(2,4,7,12,13,14,15,16,18,19): 6.828976154327393, EP: 0.8741204738616943	 ([movies][seen!][film][time.][completely][unwatchable][redeeming][qualities][steer][clear.])
+v(0,1,3,7,12,13,16,18): 6.781023025512695, EP: 0.8679823875427246	 ([one][worst][ever][film][time.][completely][qualities][steer])
+v(2,4,7,8,9,10,11,12,13,14,15,16,18,19): 6.300320148468018, EP: 0.8064516186714172	 ([movies][seen!][film][festival][totally][regret][wasting][time.][completely][unwatchable][redeeming][qualities][steer][clear.])
+v(0,1,3,8,9,10,11): 6.264605522155762, EP: 0.8018800616264343	 ([one][worst][ever][festival][totally][regret][wasting])
+v(0,1,3): 6.125988483428955, EP: 0.7841368913650513	 ([one][worst][ever])
+v(5,6,7,8,9,10,11,12,13,16,17,18): 5.73486328125, EP: 0.7340721487998962	 ([saw][toronto][film][festival][totally][regret][wasting][time.][completely][qualities][whatsoever.][steer])
+v(2,4,5,6,14,15,17,19): -3.68231201171875, EP: -0.47134214639663696	 ([movies][seen!][saw][toronto][unwatchable][redeeming][whatsoever.][clear.])
+v(7,8,9,10,11,12,13,16,18): 3.001948356628418, EP: 0.38425445556640625	 ([film][festival][totally][regret][wasting][time.][completely][qualities][steer])
+v(5,6,8,9,10,11,17): -2.9467785358428955, EP: -0.3771926164627075	 ([saw][toronto][festival][totally][regret][wasting][whatsoever.])
+v(2,4,14,15,19): -2.88187313079834, EP: -0.3688846230506897	 ([movies][seen!][unwatchable][redeeming][clear.])
+v(7,12,13,16,18): -2.1403908729553223, EP: -0.27397364377975464	 ([film][time.][completely][qualities][steer])
+v(2,4,8,9,10,11,14,15,19): -1.9186296463012695, EP: -0.24558782577514648	 ([movies][seen!][festival][totally][regret][wasting][unwatchable][redeeming][clear.])
+v(5,6,17): -1.7733359336853027, EP: -0.2269899994134903	 ([saw][toronto][whatsoever.])
+v(2,4,5,6,8,9,10,11,14,15,17,19): -1.611527919769287, EP: -0.20627829432487488	 ([movies][seen!][saw][toronto][festival][totally][regret][wasting][unwatchable][redeeming][whatsoever.][clear.])
+v(8,9,10,11): -0.8447052836418152, EP: -0.10812370479106903	 ([festival][totally][regret][wasting])
+v(5,6,7,12,13,16,17,18): -0.7646690607070923, EP: -0.09787893295288086	 ([saw][toronto][film][time.][completely][qualities][whatsoever.][steer])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

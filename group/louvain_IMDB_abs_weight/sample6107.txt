@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['2', '8', '5', '3', '0', '1', '7']: ['reunion', 'taken', 'kind', 'shows.', 'many', 'kinds', 'actors']: 平均边权 0.3404
+社区 2: ['30', '29', '28']: ['used', 'albert', '( eddie']: 平均边权 0.9350
+社区 3: ['33', '36', '31', '35']: ['repeat', 'stink ) ;', 'word', 'movie']: 平均边权 0.5114
+社区 4: ['38', '49', '46', '45', '47', '48', '50', '51']: ["gilligan's", "gilligan's", 'show', 'though', 'silly', 'even', "island '", 'viewpoint.']: 平均边权 0.4120
+社区 5: ['52', '41', '42', '44', '43', '40']: ['cases,', 'necessary', 'gap', 'castaways,', 'story', 'filled']: 平均边权 0.3191
+社区 6: ['14', '19', '18', '4', '16', '15', '10', '6']: ['twenty', 'return', 'results.', 'one', 'years.', 'thirty', 'set', 'old']: 平均边权 0.2229
+社区 7: ['12', '53', '9', '59', '32', '58']: ['characters', 'scripts', 'mothballs', 'knowing', 'script', 'scripts']: 平均边权 0.3924
+社区 8: ['20', '27', '25', '34', '39', '23', '37', '24', '26']: ["mayberry ',", 'execrable', 'green', 'here,', "island '", 'okay ;', 'rescue', 'return', "acres '"]: 平均边权 0.1851
+社区 9: ['56', '57', '13', '21', '55', '11', '22', '17', '54']: ['silliness', 'appears', 'played', 'despite', 'sometimes', 'recreate', 'silliness,', 'mixed', 'weak ;']: 平均边权 0.2826

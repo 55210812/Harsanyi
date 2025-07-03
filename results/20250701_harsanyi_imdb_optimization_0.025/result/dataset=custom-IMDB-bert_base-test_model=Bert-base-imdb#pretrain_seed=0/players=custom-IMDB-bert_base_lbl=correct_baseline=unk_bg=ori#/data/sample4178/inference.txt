@@ -1,0 +1,64 @@
+Execution time: 2025-07-03 11:32:39
+prompt: [CLS] imagine the worst a - team episode add even more bad taste remove humor and you might get an idea of how despicable this movie is! looks like a teenager stole daddy's camcorder and filmed the explosion of his little sister barbie model house. pathetic. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:5674 decoded_text: imagine
+idx:2 input_id:1996 decoded_text: the
+idx:3 input_id:5409 decoded_text: worst
+idx:4 input_id:1037 decoded_text: a
+idx:5 input_id:1011 decoded_text: -
+idx:6 input_id:2136 decoded_text: team
+idx:7 input_id:2792 decoded_text: episode
+idx:8 input_id:5587 decoded_text: add
+idx:9 input_id:2130 decoded_text: even
+idx:10 input_id:2062 decoded_text: more
+idx:11 input_id:2919 decoded_text: bad
+idx:12 input_id:5510 decoded_text: taste
+idx:13 input_id:6366 decoded_text: remove
+idx:14 input_id:8562 decoded_text: humor
+idx:15 input_id:1998 decoded_text: and
+idx:16 input_id:2017 decoded_text: you
+idx:17 input_id:2453 decoded_text: might
+idx:18 input_id:2131 decoded_text: get
+idx:19 input_id:2019 decoded_text: an
+idx:20 input_id:2801 decoded_text: idea
+idx:21 input_id:1997 decoded_text: of
+idx:22 input_id:2129 decoded_text: how
+idx:23 input_id:4078 decoded_text: des
+idx:24 input_id:24330 decoded_text: ##pic
+idx:25 input_id:3085 decoded_text: ##able
+idx:26 input_id:2023 decoded_text: this
+idx:27 input_id:3185 decoded_text: movie
+idx:28 input_id:2003 decoded_text: is
+idx:29 input_id:999 decoded_text: !
+idx:30 input_id:3504 decoded_text: looks
+idx:31 input_id:2066 decoded_text: like
+idx:32 input_id:1037 decoded_text: a
+idx:33 input_id:10563 decoded_text: teenager
+idx:34 input_id:10312 decoded_text: stole
+idx:35 input_id:8600 decoded_text: daddy
+idx:36 input_id:1005 decoded_text: '
+idx:37 input_id:1055 decoded_text: s
+idx:38 input_id:11503 decoded_text: cam
+idx:39 input_id:27108 decoded_text: ##cor
+idx:40 input_id:4063 decoded_text: ##der
+idx:41 input_id:1998 decoded_text: and
+idx:42 input_id:6361 decoded_text: filmed
+idx:43 input_id:1996 decoded_text: the
+idx:44 input_id:7738 decoded_text: explosion
+idx:45 input_id:1997 decoded_text: of
+idx:46 input_id:2010 decoded_text: his
+idx:47 input_id:2210 decoded_text: little
+idx:48 input_id:2905 decoded_text: sister
+idx:49 input_id:22635 decoded_text: barbie
+idx:50 input_id:2944 decoded_text: model
+idx:51 input_id:2160 decoded_text: house
+idx:52 input_id:1012 decoded_text: .
+idx:53 input_id:17203 decoded_text: pathetic
+idx:54 input_id:1012 decoded_text: .
+idx:55 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.3213324546813965, -3.8834688663482666]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

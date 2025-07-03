@@ -1,0 +1,160 @@
+---------- Players ----------
+Player 0: never
+Player 1: seen
+Player 2: movie
+Player 3: bad
+Player 4: this.
+Player 5: meant
+Player 6: fun
+Player 7: "
+Player 8: movie,
+Player 9: joke
+Player 10: start,
+Player 11: funny.
+Player 12: like
+Player 13: sort
+Player 14: movie,
+Player 15: may
+Player 16: able
+Player 17: give
+Player 18: vote
+Player 19: 2.
+Player 20: necessary
+Player 21: votes,
+Player 22: would
+Player 23: truly
+Player 24: belong
+Player 25: bottom
+Player 26: 100.
+Player 27: "
+---------- Rewards ----------
+v(): -0.6707398295402527	 ([])
+v(1,2,3,4,10,26,27): 7.172304630279541	 ([seen][movie][bad][this.][start,][100.]["])
+v(22,23): -1.198534369468689	 ([would][truly])
+v(8,12,20,21): -2.9495959281921387	 ([movie,][like][necessary][votes,])
+v(11,13,14,15,16,17,18): 7.052281379699707	 ([funny.][sort][movie,][may][able][give][vote])
+v(19,24,25): -0.6419579982757568	 ([2.][belong][bottom])
+v(0,5,6,7,9): 0.28486621379852295	 ([never][meant][fun]["][joke])
+v(1,2,3,4,10,22,23,26,27): 7.139972686767578	 ([seen][movie][bad][this.][start,][would][truly][100.]["])
+v(1,2,3,4,8,10,12,20,21,26,27): 7.170939922332764	 ([seen][movie][bad][this.][movie,][start,][like][necessary][votes,][100.]["])
+v(1,2,3,4,10,11,13,14,15,16,17,18,26,27): 7.644705772399902	 ([seen][movie][bad][this.][start,][funny.][sort][movie,][may][able][give][vote][100.]["])
+v(1,2,3,4,10,19,24,25,26,27): 7.059908866882324	 ([seen][movie][bad][this.][start,][2.][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,9,10,26,27): 7.491479873657227	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][100.]["])
+v(8,12,20,21,22,23): -2.709728956222534	 ([movie,][like][necessary][votes,][would][truly])
+v(11,13,14,15,16,17,18,22,23): 7.245852470397949	 ([funny.][sort][movie,][may][able][give][vote][would][truly])
+v(19,22,23,24,25): -1.5459556579589844	 ([2.][would][truly][belong][bottom])
+v(0,5,6,7,9,22,23): -0.5943678021430969	 ([never][meant][fun]["][joke][would][truly])
+v(8,11,12,13,14,15,16,17,18,20,21): 6.067869186401367	 ([movie,][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,])
+v(8,12,19,20,21,24,25): -1.8902413845062256	 ([movie,][like][2.][necessary][votes,][belong][bottom])
+v(0,5,6,7,8,9,12,20,21): -3.3032748699188232	 ([never][meant][fun]["][movie,][joke][like][necessary][votes,])
+v(11,13,14,15,16,17,18,19,24,25): 7.011233329772949	 ([funny.][sort][movie,][may][able][give][vote][2.][belong][bottom])
+v(0,5,6,7,9,11,13,14,15,16,17,18): 6.945658206939697	 ([never][meant][fun]["][joke][funny.][sort][movie,][may][able][give][vote])
+v(0,5,6,7,9,19,24,25): -0.4839412569999695	 ([never][meant][fun]["][joke][2.][belong][bottom])
+v(1,2,3,4,8,10,12,20,21,22,23,26,27): 7.222446441650391	 ([seen][movie][bad][this.][movie,][start,][like][necessary][votes,][would][truly][100.]["])
+v(1,2,3,4,10,11,13,14,15,16,17,18,22,23,26,27): 7.671079635620117	 ([seen][movie][bad][this.][start,][funny.][sort][movie,][may][able][give][vote][would][truly][100.]["])
+v(1,2,3,4,10,19,22,23,24,25,26,27): 7.117569923400879	 ([seen][movie][bad][this.][start,][2.][would][truly][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,9,10,22,23,26,27): 7.399322509765625	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][would][truly][100.]["])
+v(1,2,3,4,8,10,11,12,13,14,15,16,17,18,20,21,26,27): 7.738709926605225	 ([seen][movie][bad][this.][movie,][start,][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,][100.]["])
+v(1,2,3,4,8,10,12,19,20,21,24,25,26,27): 7.330397605895996	 ([seen][movie][bad][this.][movie,][start,][like][2.][necessary][votes,][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,12,20,21,26,27): 6.8417487144470215	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][like][necessary][votes,][100.]["])
+v(1,2,3,4,10,11,13,14,15,16,17,18,19,24,25,26,27): 7.751264572143555	 ([seen][movie][bad][this.][start,][funny.][sort][movie,][may][able][give][vote][2.][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,9,10,11,13,14,15,16,17,18,26,27): 7.9282755851745605	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][funny.][sort][movie,][may][able][give][vote][100.]["])
+v(0,1,2,3,4,5,6,7,9,10,19,24,25,26,27): 7.244863510131836	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][2.][belong][bottom][100.]["])
+v(8,11,12,13,14,15,16,17,18,20,21,22,23): 6.570818901062012	 ([movie,][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,][would][truly])
+v(8,12,19,20,21,22,23,24,25): -2.8658242225646973	 ([movie,][like][2.][necessary][votes,][would][truly][belong][bottom])
+v(0,5,6,7,8,9,12,20,21,22,23): -3.5478243827819824	 ([never][meant][fun]["][movie,][joke][like][necessary][votes,][would][truly])
+v(11,13,14,15,16,17,18,19,22,23,24,25): 7.227113246917725	 ([funny.][sort][movie,][may][able][give][vote][2.][would][truly][belong][bottom])
+v(0,5,6,7,9,11,13,14,15,16,17,18,22,23): 7.033573150634766	 ([never][meant][fun]["][joke][funny.][sort][movie,][may][able][give][vote][would][truly])
+v(0,5,6,7,9,19,22,23,24,25): -1.540074110031128	 ([never][meant][fun]["][joke][2.][would][truly][belong][bottom])
+v(8,11,12,13,14,15,16,17,18,19,20,21,24,25): 6.145837783813477	 ([movie,][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][belong][bottom])
+v(0,5,6,7,8,9,11,12,13,14,15,16,17,18,20,21): 2.4764046669006348	 ([never][meant][fun]["][movie,][joke][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,])
+v(0,5,6,7,8,9,12,19,20,21,24,25): -2.67522931098938	 ([never][meant][fun]["][movie,][joke][like][2.][necessary][votes,][belong][bottom])
+v(0,5,6,7,9,11,13,14,15,16,17,18,19,24,25): 6.762727737426758	 ([never][meant][fun]["][joke][funny.][sort][movie,][may][able][give][vote][2.][belong][bottom])
+v(1,2,3,4,8,10,11,12,13,14,15,16,17,18,20,21,22,23,26,27): 7.804152965545654	 ([seen][movie][bad][this.][movie,][start,][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,][would][truly][100.]["])
+v(1,2,3,4,8,10,12,19,20,21,22,23,24,25,26,27): 7.351773262023926	 ([seen][movie][bad][this.][movie,][start,][like][2.][necessary][votes,][would][truly][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,12,20,21,22,23,26,27): 6.841879367828369	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][like][necessary][votes,][would][truly][100.]["])
+v(1,2,3,4,10,11,13,14,15,16,17,18,19,22,23,24,25,26,27): 7.802163600921631	 ([seen][movie][bad][this.][start,][funny.][sort][movie,][may][able][give][vote][2.][would][truly][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,9,10,11,13,14,15,16,17,18,22,23,26,27): 7.91594934463501	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][funny.][sort][movie,][may][able][give][vote][would][truly][100.]["])
+v(0,1,2,3,4,5,6,7,9,10,19,22,23,24,25,26,27): 7.279409408569336	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][2.][would][truly][belong][bottom][100.]["])
+v(1,2,3,4,8,10,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27): 7.829847812652588	 ([seen][movie][bad][this.][movie,][start,][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,26,27): 7.559978485107422	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,][100.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,12,19,20,21,24,25,26,27): 6.910914421081543	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][like][2.][necessary][votes,][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,9,10,11,13,14,15,16,17,18,19,24,25,26,27): 7.957983016967773	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][funny.][sort][movie,][may][able][give][vote][2.][belong][bottom][100.]["])
+v(8,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 6.650139808654785	 ([movie,][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][would][truly][belong][bottom])
+v(0,5,6,7,8,9,11,12,13,14,15,16,17,18,20,21,22,23): 4.105762958526611	 ([never][meant][fun]["][movie,][joke][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,][would][truly])
+v(0,5,6,7,8,9,12,19,20,21,22,23,24,25): -3.697498321533203	 ([never][meant][fun]["][movie,][joke][like][2.][necessary][votes,][would][truly][belong][bottom])
+v(0,5,6,7,9,11,13,14,15,16,17,18,19,22,23,24,25): 6.820304870605469	 ([never][meant][fun]["][joke][funny.][sort][movie,][may][able][give][vote][2.][would][truly][belong][bottom])
+v(0,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,24,25): 4.486124515533447	 ([never][meant][fun]["][movie,][joke][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][belong][bottom])
+v(1,2,3,4,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 7.791053295135498	 ([seen][movie][bad][this.][movie,][start,][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][would][truly][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,23,26,27): 7.628836631774902	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,][would][truly][100.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,12,19,20,21,22,23,24,25,26,27): 6.842907905578613	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][like][2.][necessary][votes,][would][truly][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,9,10,11,13,14,15,16,17,18,19,22,23,24,25,26,27): 7.966553688049316	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][funny.][sort][movie,][may][able][give][vote][2.][would][truly][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27): 7.724806785583496	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][belong][bottom][100.]["])
+v(0,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 5.073992729187012	 ([never][meant][fun]["][movie,][joke][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][would][truly][belong][bottom])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 7.7808942794799805	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][would][truly][belong][bottom][100.]["])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,9,10,11,13,14,15,16,17,18,19,22,23,24,25,26,27): 8.637293815612793, EP: 1.0219672918319702	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][funny.][sort][movie,][may][able][give][vote][2.][would][truly][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,9,10,11,13,14,15,16,17,18,19,24,25,26,27): 8.62872314453125, EP: 1.0209531784057617	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][funny.][sort][movie,][may][able][give][vote][2.][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,9,10,11,13,14,15,16,17,18,26,27): 8.599015235900879, EP: 1.0174381732940674	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][funny.][sort][movie,][may][able][give][vote][100.]["])
+v(0,1,2,3,4,5,6,7,9,10,11,13,14,15,16,17,18,22,23,26,27): 8.586688995361328, EP: 1.0159796476364136	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][funny.][sort][movie,][may][able][give][vote][would][truly][100.]["])
+v(1,2,3,4,8,10,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27): 8.500587463378906, EP: 1.0057921409606934	 ([seen][movie][bad][this.][movie,][start,][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][belong][bottom][100.]["])
+v(1,2,3,4,8,10,11,12,13,14,15,16,17,18,20,21,22,23,26,27): 8.474892616271973, EP: 1.0027519464492798	 ([seen][movie][bad][this.][movie,][start,][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,][would][truly][100.]["])
+v(1,2,3,4,10,11,13,14,15,16,17,18,19,22,23,24,25,26,27): 8.47290325164795, EP: 1.002516508102417	 ([seen][movie][bad][this.][start,][funny.][sort][movie,][may][able][give][vote][2.][would][truly][belong][bottom][100.]["])
+v(1,2,3,4,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.461792945861816, EP: 1.0012019872665405	 ([seen][movie][bad][this.][movie,][start,][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][would][truly][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.451634407043457, EP: 1.0	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][would][truly][belong][bottom][100.]["])
+v(1,2,3,4,10,11,13,14,15,16,17,18,19,24,25,26,27): 8.422004699707031, EP: 0.9964942336082458	 ([seen][movie][bad][this.][start,][funny.][sort][movie,][may][able][give][vote][2.][belong][bottom][100.]["])
+v(1,2,3,4,8,10,11,12,13,14,15,16,17,18,20,21,26,27): 8.409449577331543, EP: 0.9950087070465088	 ([seen][movie][bad][this.][movie,][start,][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,][100.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27): 8.395546913146973, EP: 0.9933637380599976	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][belong][bottom][100.]["])
+v(1,2,3,4,10,11,13,14,15,16,17,18,22,23,26,27): 8.341819763183594, EP: 0.9870067238807678	 ([seen][movie][bad][this.][start,][funny.][sort][movie,][may][able][give][vote][would][truly][100.]["])
+v(1,2,3,4,10,11,13,14,15,16,17,18,26,27): 8.315445899963379, EP: 0.9838861227035522	 ([seen][movie][bad][this.][start,][funny.][sort][movie,][may][able][give][vote][100.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,23,26,27): 8.299576759338379, EP: 0.9820085167884827	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,][would][truly][100.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,26,27): 8.230718612670898, EP: 0.9738611578941345	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,][100.]["])
+v(0,1,2,3,4,5,6,7,9,10,26,27): 8.162220001220703, EP: 0.9657564163208008	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][100.]["])
+v(0,1,2,3,4,5,6,7,9,10,22,23,26,27): 8.070062637329102, EP: 0.954852283000946	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][would][truly][100.]["])
+v(1,2,3,4,8,10,12,19,20,21,22,23,24,25,26,27): 8.022513389587402, EP: 0.9492262601852417	 ([seen][movie][bad][this.][movie,][start,][like][2.][necessary][votes,][would][truly][belong][bottom][100.]["])
+v(1,2,3,4,8,10,12,19,20,21,24,25,26,27): 8.001137733459473, EP: 0.9466971158981323	 ([seen][movie][bad][this.][movie,][start,][like][2.][necessary][votes,][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,9,10,19,22,23,24,25,26,27): 7.950149059295654, EP: 0.9406641125679016	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][2.][would][truly][belong][bottom][100.]["])
+v(11,13,14,15,16,17,18,22,23): 7.916592121124268, EP: 0.9366936087608337	 ([funny.][sort][movie,][may][able][give][vote][would][truly])
+v(0,1,2,3,4,5,6,7,9,10,19,24,25,26,27): 7.915603160858154, EP: 0.9365766048431396	 ([never][seen][movie][bad][this.][meant][fun]["][joke][start,][2.][belong][bottom][100.]["])
+v(11,13,14,15,16,17,18,19,22,23,24,25): 7.897852897644043, EP: 0.934476375579834	 ([funny.][sort][movie,][may][able][give][vote][2.][would][truly][belong][bottom])
+v(1,2,3,4,8,10,12,20,21,22,23,26,27): 7.893186092376709, EP: 0.9339241981506348	 ([seen][movie][bad][this.][movie,][start,][like][necessary][votes,][would][truly][100.]["])
+v(1,2,3,4,10,26,27): 7.843044281005859, EP: 0.9279914498329163	 ([seen][movie][bad][this.][start,][100.]["])
+v(1,2,3,4,8,10,12,20,21,26,27): 7.841679573059082, EP: 0.9278299808502197	 ([seen][movie][bad][this.][movie,][start,][like][necessary][votes,][100.]["])
+v(1,2,3,4,10,22,23,26,27): 7.8107123374938965, EP: 0.9241659045219421	 ([seen][movie][bad][this.][start,][would][truly][100.]["])
+v(1,2,3,4,10,19,22,23,24,25,26,27): 7.788309574127197, EP: 0.9215152263641357	 ([seen][movie][bad][this.][start,][2.][would][truly][belong][bottom][100.]["])
+v(1,2,3,4,10,19,24,25,26,27): 7.730648517608643, EP: 0.9146926999092102	 ([seen][movie][bad][this.][start,][2.][belong][bottom][100.]["])
+v(11,13,14,15,16,17,18): 7.723021030426025, EP: 0.913790225982666	 ([funny.][sort][movie,][may][able][give][vote])
+v(0,5,6,7,9,11,13,14,15,16,17,18,22,23): 7.704312801361084, EP: 0.9115766882896423	 ([never][meant][fun]["][joke][funny.][sort][movie,][may][able][give][vote][would][truly])
+v(11,13,14,15,16,17,18,19,24,25): 7.681972980499268, EP: 0.9089334011077881	 ([funny.][sort][movie,][may][able][give][vote][2.][belong][bottom])
+v(0,5,6,7,9,11,13,14,15,16,17,18): 7.616397857666016, EP: 0.9011745452880859	 ([never][meant][fun]["][joke][funny.][sort][movie,][may][able][give][vote])
+v(0,1,2,3,4,5,6,7,8,9,10,12,19,20,21,24,25,26,27): 7.581654071807861, EP: 0.897063672542572	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][like][2.][necessary][votes,][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,12,19,20,21,22,23,24,25,26,27): 7.513647556304932, EP: 0.8890171051025391	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][like][2.][necessary][votes,][would][truly][belong][bottom][100.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,12,20,21,22,23,26,27): 7.5126190185546875, EP: 0.8888953924179077	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][like][necessary][votes,][would][truly][100.]["])
+v(0,1,2,3,4,5,6,7,8,9,10,12,20,21,26,27): 7.51248836517334, EP: 0.8888799548149109	 ([never][seen][movie][bad][this.][meant][fun]["][movie,][joke][start,][like][necessary][votes,][100.]["])
+v(0,5,6,7,9,11,13,14,15,16,17,18,19,22,23,24,25): 7.491044521331787, EP: 0.8863427042961121	 ([never][meant][fun]["][joke][funny.][sort][movie,][may][able][give][vote][2.][would][truly][belong][bottom])
+v(0,5,6,7,9,11,13,14,15,16,17,18,19,24,25): 7.433467388153076, EP: 0.8795301914215088	 ([never][meant][fun]["][joke][funny.][sort][movie,][may][able][give][vote][2.][belong][bottom])
+v(8,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.3208794593811035, EP: 0.8662087321281433	 ([movie,][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][would][truly][belong][bottom])
+v(8,11,12,13,14,15,16,17,18,20,21,22,23): 7.24155855178833, EP: 0.8568234443664551	 ([movie,][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,][would][truly])
+v(8,11,12,13,14,15,16,17,18,19,20,21,24,25): 6.816577434539795, EP: 0.8065395355224609	 ([movie,][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][belong][bottom])
+v(8,11,12,13,14,15,16,17,18,20,21): 6.7386088371276855, EP: 0.7973142862319946	 ([movie,][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,])
+v(0,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 5.74473237991333, EP: 0.6797184944152832	 ([never][meant][fun]["][movie,][joke][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][would][truly][belong][bottom])
+v(0,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,24,25): 5.156864166259766, EP: 0.6101617813110352	 ([never][meant][fun]["][movie,][joke][funny.][like][sort][movie,][may][able][give][vote][2.][necessary][votes,][belong][bottom])
+v(0,5,6,7,8,9,11,12,13,14,15,16,17,18,20,21,22,23): 4.77650260925293, EP: 0.5651572942733765	 ([never][meant][fun]["][movie,][joke][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,][would][truly])
+v(0,5,6,7,8,9,11,12,13,14,15,16,17,18,20,21): 3.1471445560455322, EP: 0.372371107339859	 ([never][meant][fun]["][movie,][joke][funny.][like][sort][movie,][may][able][give][vote][necessary][votes,])
+v(0,5,6,7,8,9,12,19,20,21,22,23,24,25): -3.0267584323883057, EP: -0.35812699794769287	 ([never][meant][fun]["][movie,][joke][like][2.][necessary][votes,][would][truly][belong][bottom])
+v(0,5,6,7,8,9,12,20,21,22,23): -2.877084493637085, EP: -0.3404175341129303	 ([never][meant][fun]["][movie,][joke][like][necessary][votes,][would][truly])
+v(0,5,6,7,8,9,12,20,21): -2.632534980773926, EP: -0.31148234009742737	 ([never][meant][fun]["][movie,][joke][like][necessary][votes,])
+v(8,12,20,21): -2.278856039047241, EP: -0.2696349620819092	 ([movie,][like][necessary][votes,])
+v(8,12,19,20,21,22,23,24,25): -2.1950843334198, EP: -0.25972306728363037	 ([movie,][like][2.][necessary][votes,][would][truly][belong][bottom])
+v(8,12,20,21,22,23): -2.0389890670776367, EP: -0.2412538230419159	 ([movie,][like][necessary][votes,][would][truly])
+v(0,5,6,7,8,9,12,19,20,21,24,25): -2.0044894218444824, EP: -0.23717181384563446	 ([never][meant][fun]["][movie,][joke][like][2.][necessary][votes,][belong][bottom])
+v(8,12,19,20,21,24,25): -1.2195014953613281, EP: -0.14429178833961487	 ([movie,][like][2.][necessary][votes,][belong][bottom])
+v(0,5,6,7,9): 0.9556060433387756, EP: 0.11306760460138321	 ([never][meant][fun]["][joke])
+v(19,22,23,24,25): -0.8752158284187317, EP: -0.10355580598115921	 ([2.][would][truly][belong][bottom])
+v(0,5,6,7,9,19,22,23,24,25): -0.8693342804908752, EP: -0.10285989940166473	 ([never][meant][fun]["][joke][2.][would][truly][belong][bottom])
+v(22,23): -0.5277945399284363, EP: -0.06244881451129913	 ([would][truly])
+v(0,5,6,7,9,19,24,25): 0.1867985725402832, EP: 0.02210206538438797	 ([never][meant][fun]["][joke][2.][belong][bottom])
+v(0,5,6,7,9,22,23): 0.07637202739715576, EP: 0.009036362171173096	 ([never][meant][fun]["][joke][would][truly])
+v(19,24,25): 0.02878183126449585, EP: 0.003405475290492177	 ([2.][belong][bottom])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

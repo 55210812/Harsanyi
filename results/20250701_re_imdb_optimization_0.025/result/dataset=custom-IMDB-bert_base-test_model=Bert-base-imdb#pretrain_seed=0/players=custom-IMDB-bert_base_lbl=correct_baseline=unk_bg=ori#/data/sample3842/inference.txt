@@ -1,0 +1,56 @@
+Execution time: 2025-07-03 20:30:21
+prompt: [CLS] a fine western, following the fate of those who possess the prize winning gun, a winchester'73. it has a great cast who give superb cliche characterisations with help from the usual effective story telling direction from mann. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:2986 decoded_text: fine
+idx:3 input_id:2530 decoded_text: western
+idx:4 input_id:1010 decoded_text: ,
+idx:5 input_id:2206 decoded_text: following
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:6580 decoded_text: fate
+idx:8 input_id:1997 decoded_text: of
+idx:9 input_id:2216 decoded_text: those
+idx:10 input_id:2040 decoded_text: who
+idx:11 input_id:10295 decoded_text: possess
+idx:12 input_id:1996 decoded_text: the
+idx:13 input_id:3396 decoded_text: prize
+idx:14 input_id:3045 decoded_text: winning
+idx:15 input_id:3282 decoded_text: gun
+idx:16 input_id:1010 decoded_text: ,
+idx:17 input_id:1037 decoded_text: a
+idx:18 input_id:12841 decoded_text: winchester
+idx:19 input_id:1005 decoded_text: '
+idx:20 input_id:6421 decoded_text: 73
+idx:21 input_id:1012 decoded_text: .
+idx:22 input_id:2009 decoded_text: it
+idx:23 input_id:2038 decoded_text: has
+idx:24 input_id:1037 decoded_text: a
+idx:25 input_id:2307 decoded_text: great
+idx:26 input_id:3459 decoded_text: cast
+idx:27 input_id:2040 decoded_text: who
+idx:28 input_id:2507 decoded_text: give
+idx:29 input_id:21688 decoded_text: superb
+idx:30 input_id:18856 decoded_text: cl
+idx:31 input_id:17322 decoded_text: ##iche
+idx:32 input_id:2839 decoded_text: character
+idx:33 input_id:6648 decoded_text: ##isation
+idx:34 input_id:2015 decoded_text: ##s
+idx:35 input_id:2007 decoded_text: with
+idx:36 input_id:2393 decoded_text: help
+idx:37 input_id:2013 decoded_text: from
+idx:38 input_id:1996 decoded_text: the
+idx:39 input_id:5156 decoded_text: usual
+idx:40 input_id:4621 decoded_text: effective
+idx:41 input_id:2466 decoded_text: story
+idx:42 input_id:4129 decoded_text: telling
+idx:43 input_id:3257 decoded_text: direction
+idx:44 input_id:2013 decoded_text: from
+idx:45 input_id:10856 decoded_text: mann
+idx:46 input_id:1012 decoded_text: .
+idx:47 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-4.066045761108398, 4.246448040008545]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

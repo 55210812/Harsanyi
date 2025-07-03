@@ -1,0 +1,170 @@
+---------- Players ----------
+Player 0: i've
+Player 1: written
+Player 2: least
+Player 3: half
+Player 4: dozen
+Player 5: scathing
+Player 6: reviews
+Player 7: abysmal
+Player 8: little
+Player 9: flick
+Player 10: none
+Player 11: get
+Player 12: published,
+Player 13: must
+Player 14: opine
+Player 15: someone
+Player 16: imdb. com
+Player 17: really
+Player 18: likes
+Player 19: awful
+Player 20: movie.
+Player 21: idea
+Player 22: bunch
+Player 23: oilmen
+Player 24: resurrect
+Player 25: military
+Player 26: tank
+Player 27: set
+Player 28: desert
+Player 29: decade,
+Player 30: make
+Player 31: fighting
+Player 32: machine
+Player 33: ludicrous.
+Player 34: acting
+Player 35: direction.
+Player 36: pass
+Player 37: it.
+---------- Rewards ----------
+v(): -0.6223524212837219	 ([])
+v(6,10,11,18,21,28): -4.141051292419434	 ([reviews][none][get][likes][idea][desert])
+v(0,1,3,4,9,15): 3.234283924102783	 ([i've][written][half][dozen][flick][someone])
+v(12,13,14,16,17,19,37): 7.988646984100342	 ([published,][must][opine][imdb. com][really][awful][it.])
+v(20,32): -0.34124451875686646	 ([movie.][machine])
+v(2,5,33,34,35,36): 6.236517906188965	 ([least][scathing][ludicrous.][acting][direction.][pass])
+v(7,8,22,23,24,25,26,27,29,30,31): 8.124889373779297	 ([abysmal][little][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting])
+v(0,1,3,4,6,9,10,11,15,18,21,28): -2.7315101623535156	 ([i've][written][half][dozen][reviews][flick][none][get][someone][likes][idea][desert])
+v(6,10,11,12,13,14,16,17,18,19,21,28,37): 7.773286819458008	 ([reviews][none][get][published,][must][opine][imdb. com][really][likes][awful][idea][desert][it.])
+v(6,10,11,18,20,21,28,32): -5.042747497558594	 ([reviews][none][get][likes][movie.][idea][desert][machine])
+v(2,5,6,10,11,18,21,28,33,34,35,36): -2.4366207122802734	 ([least][scathing][reviews][none][get][likes][idea][desert][ludicrous.][acting][direction.][pass])
+v(6,7,8,10,11,18,21,22,23,24,25,26,27,28,29,30,31): 7.61374044418335	 ([reviews][abysmal][little][none][get][likes][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting])
+v(0,1,3,4,9,12,13,14,15,16,17,19,37): 8.211179733276367	 ([i've][written][half][dozen][flick][published,][must][opine][someone][imdb. com][really][awful][it.])
+v(0,1,3,4,9,15,20,32): 2.989478588104248	 ([i've][written][half][dozen][flick][someone][movie.][machine])
+v(0,1,2,3,4,5,9,15,33,34,35,36): 8.149744033813477	 ([i've][written][least][half][dozen][scathing][flick][someone][ludicrous.][acting][direction.][pass])
+v(0,1,3,4,7,8,9,15,22,23,24,25,26,27,29,30,31): 8.495195388793945	 ([i've][written][half][dozen][abysmal][little][flick][someone][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting])
+v(12,13,14,16,17,19,20,32,37): 8.265798568725586	 ([published,][must][opine][imdb. com][really][awful][movie.][machine][it.])
+v(2,5,12,13,14,16,17,19,33,34,35,36,37): 8.283073425292969	 ([least][scathing][published,][must][opine][imdb. com][really][awful][ludicrous.][acting][direction.][pass][it.])
+v(7,8,12,13,14,16,17,19,22,23,24,25,26,27,29,30,31,37): 8.461088180541992	 ([abysmal][little][published,][must][opine][imdb. com][really][awful][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][it.])
+v(2,5,20,32,33,34,35,36): 7.371511936187744	 ([least][scathing][movie.][machine][ludicrous.][acting][direction.][pass])
+v(7,8,20,22,23,24,25,26,27,29,30,31,32): 8.437295913696289	 ([abysmal][little][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine])
+v(2,5,7,8,22,23,24,25,26,27,29,30,31,33,34,35,36): 8.42164421081543	 ([least][scathing][abysmal][little][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][ludicrous.][acting][direction.][pass])
+v(0,1,3,4,6,9,10,11,12,13,14,15,16,17,18,19,21,28,37): 8.430967330932617	 ([i've][written][half][dozen][reviews][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][idea][desert][it.])
+v(0,1,3,4,6,9,10,11,15,18,20,21,28,32): -2.7127301692962646	 ([i've][written][half][dozen][reviews][flick][none][get][someone][likes][movie.][idea][desert][machine])
+v(0,1,2,3,4,5,6,9,10,11,15,18,21,28,33,34,35,36): 5.745235443115234	 ([i've][written][least][half][dozen][scathing][reviews][flick][none][get][someone][likes][idea][desert][ludicrous.][acting][direction.][pass])
+v(0,1,3,4,6,7,8,9,10,11,15,18,21,22,23,24,25,26,27,28,29,30,31): 8.29273796081543	 ([i've][written][half][dozen][reviews][abysmal][little][flick][none][get][someone][likes][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting])
+v(6,10,11,12,13,14,16,17,18,19,20,21,28,32,37): 7.517815113067627	 ([reviews][none][get][published,][must][opine][imdb. com][really][likes][awful][movie.][idea][desert][machine][it.])
+v(2,5,6,10,11,12,13,14,16,17,18,19,21,28,33,34,35,36,37): 8.315240859985352	 ([least][scathing][reviews][none][get][published,][must][opine][imdb. com][really][likes][awful][idea][desert][ludicrous.][acting][direction.][pass][it.])
+v(6,7,8,10,11,12,13,14,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31,37): 8.34478759765625	 ([reviews][abysmal][little][none][get][published,][must][opine][imdb. com][really][likes][awful][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][it.])
+v(2,5,6,10,11,18,20,21,28,32,33,34,35,36): -4.304656982421875	 ([least][scathing][reviews][none][get][likes][movie.][idea][desert][machine][ludicrous.][acting][direction.][pass])
+v(6,7,8,10,11,18,20,21,22,23,24,25,26,27,28,29,30,31,32): 4.54748010635376	 ([reviews][abysmal][little][none][get][likes][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine])
+v(2,5,6,7,8,10,11,18,21,22,23,24,25,26,27,28,29,30,31,33,34,35,36): 8.093132019042969	 ([least][scathing][reviews][abysmal][little][none][get][likes][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][ludicrous.][acting][direction.][pass])
+v(0,1,3,4,9,12,13,14,15,16,17,19,20,32,37): 8.34881591796875	 ([i've][written][half][dozen][flick][published,][must][opine][someone][imdb. com][really][awful][movie.][machine][it.])
+v(0,1,2,3,4,5,9,12,13,14,15,16,17,19,33,34,35,36,37): 8.352291107177734	 ([i've][written][least][half][dozen][scathing][flick][published,][must][opine][someone][imdb. com][really][awful][ludicrous.][acting][direction.][pass][it.])
+v(0,1,3,4,7,8,9,12,13,14,15,16,17,19,22,23,24,25,26,27,29,30,31,37): 8.516035079956055	 ([i've][written][half][dozen][abysmal][little][flick][published,][must][opine][someone][imdb. com][really][awful][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][it.])
+v(0,1,2,3,4,5,9,15,20,32,33,34,35,36): 8.173609733581543	 ([i've][written][least][half][dozen][scathing][flick][someone][movie.][machine][ludicrous.][acting][direction.][pass])
+v(0,1,3,4,7,8,9,15,20,22,23,24,25,26,27,29,30,31,32): 8.551488876342773	 ([i've][written][half][dozen][abysmal][little][flick][someone][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine])
+v(0,1,2,3,4,5,7,8,9,15,22,23,24,25,26,27,29,30,31,33,34,35,36): 8.538583755493164	 ([i've][written][least][half][dozen][scathing][abysmal][little][flick][someone][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][ludicrous.][acting][direction.][pass])
+v(2,5,12,13,14,16,17,19,20,32,33,34,35,36,37): 8.447734832763672	 ([least][scathing][published,][must][opine][imdb. com][really][awful][movie.][machine][ludicrous.][acting][direction.][pass][it.])
+v(7,8,12,13,14,16,17,19,20,22,23,24,25,26,27,29,30,31,32,37): 8.590517044067383	 ([abysmal][little][published,][must][opine][imdb. com][really][awful][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine][it.])
+v(2,5,7,8,12,13,14,16,17,19,22,23,24,25,26,27,29,30,31,33,34,35,36,37): 8.62106704711914	 ([least][scathing][abysmal][little][published,][must][opine][imdb. com][really][awful][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][ludicrous.][acting][direction.][pass][it.])
+v(2,5,7,8,20,22,23,24,25,26,27,29,30,31,32,33,34,35,36): 8.543299674987793	 ([least][scathing][abysmal][little][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass])
+v(0,1,3,4,6,9,10,11,12,13,14,15,16,17,18,19,20,21,28,32,37): 8.461145401000977	 ([i've][written][half][dozen][reviews][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][movie.][idea][desert][machine][it.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,18,19,21,28,33,34,35,36,37): 8.53299331665039	 ([i've][written][least][half][dozen][scathing][reviews][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][idea][desert][ludicrous.][acting][direction.][pass][it.])
+v(0,1,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31,37): 8.538658142089844	 ([i've][written][half][dozen][reviews][abysmal][little][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][it.])
+v(0,1,2,3,4,5,6,9,10,11,15,18,20,21,28,32,33,34,35,36): 5.582319736480713	 ([i've][written][least][half][dozen][scathing][reviews][flick][none][get][someone][likes][movie.][idea][desert][machine][ludicrous.][acting][direction.][pass])
+v(0,1,3,4,6,7,8,9,10,11,15,18,20,21,22,23,24,25,26,27,28,29,30,31,32): 7.722119331359863	 ([i've][written][half][dozen][reviews][abysmal][little][flick][none][get][someone][likes][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine])
+v(0,1,2,3,4,5,6,7,8,9,10,11,15,18,21,22,23,24,25,26,27,28,29,30,31,33,34,35,36): 8.506794929504395	 ([i've][written][least][half][dozen][scathing][reviews][abysmal][little][flick][none][get][someone][likes][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][ludicrous.][acting][direction.][pass])
+v(2,5,6,10,11,12,13,14,16,17,18,19,20,21,28,32,33,34,35,36,37): 8.28046703338623	 ([least][scathing][reviews][none][get][published,][must][opine][imdb. com][really][likes][awful][movie.][idea][desert][machine][ludicrous.][acting][direction.][pass][it.])
+v(6,7,8,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,37): 8.344407081604004	 ([reviews][abysmal][little][none][get][published,][must][opine][imdb. com][really][likes][awful][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine][it.])
+v(2,5,6,7,8,10,11,12,13,14,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31,33,34,35,36,37): 8.571121215820312	 ([least][scathing][reviews][abysmal][little][none][get][published,][must][opine][imdb. com][really][likes][awful][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][ludicrous.][acting][direction.][pass][it.])
+v(2,5,6,7,8,10,11,18,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 4.470700263977051	 ([least][scathing][reviews][abysmal][little][none][get][likes][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass])
+v(0,1,2,3,4,5,9,12,13,14,15,16,17,19,20,32,33,34,35,36,37): 8.450324058532715	 ([i've][written][least][half][dozen][scathing][flick][published,][must][opine][someone][imdb. com][really][awful][movie.][machine][ludicrous.][acting][direction.][pass][it.])
+v(0,1,3,4,7,8,9,12,13,14,15,16,17,19,20,22,23,24,25,26,27,29,30,31,32,37): 8.603204727172852	 ([i've][written][half][dozen][abysmal][little][flick][published,][must][opine][someone][imdb. com][really][awful][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine][it.])
+v(0,1,2,3,4,5,7,8,9,12,13,14,15,16,17,19,22,23,24,25,26,27,29,30,31,33,34,35,36,37): 8.532828330993652	 ([i've][written][least][half][dozen][scathing][abysmal][little][flick][published,][must][opine][someone][imdb. com][really][awful][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][ludicrous.][acting][direction.][pass][it.])
+v(0,1,2,3,4,5,7,8,9,15,20,22,23,24,25,26,27,29,30,31,32,33,34,35,36): 8.527154922485352	 ([i've][written][least][half][dozen][scathing][abysmal][little][flick][someone][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass])
+v(2,5,7,8,12,13,14,16,17,19,20,22,23,24,25,26,27,29,30,31,32,33,34,35,36,37): 8.608888626098633	 ([least][scathing][abysmal][little][published,][must][opine][imdb. com][really][awful][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass][it.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,18,19,20,21,28,32,33,34,35,36,37): 8.556099891662598	 ([i've][written][least][half][dozen][scathing][reviews][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][movie.][idea][desert][machine][ludicrous.][acting][direction.][pass][it.])
+v(0,1,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,37): 8.572186470031738	 ([i've][written][half][dozen][reviews][abysmal][little][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31,33,34,35,36,37): 8.53515625	 ([i've][written][least][half][dozen][scathing][reviews][abysmal][little][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][ludicrous.][acting][direction.][pass][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,15,18,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 8.259246826171875	 ([i've][written][least][half][dozen][scathing][reviews][abysmal][little][flick][none][get][someone][likes][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass])
+v(2,5,6,7,8,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 8.535331726074219	 ([least][scathing][reviews][abysmal][little][none][get][published,][must][opine][imdb. com][really][likes][awful][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass][it.])
+v(0,1,2,3,4,5,7,8,9,12,13,14,15,16,17,19,20,22,23,24,25,26,27,29,30,31,32,33,34,35,36,37): 8.57284164428711	 ([i've][written][least][half][dozen][scathing][abysmal][little][flick][published,][must][opine][someone][imdb. com][really][awful][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 8.641060829162598	 ([i've][written][least][half][dozen][scathing][reviews][abysmal][little][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass][it.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 9.263413429260254, EP: 1.0	 ([i've][written][least][half][dozen][scathing][reviews][abysmal][little][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass][it.])
+v(2,5,7,8,12,13,14,16,17,19,22,23,24,25,26,27,29,30,31,33,34,35,36,37): 9.243419647216797, EP: 0.9978416562080383	 ([least][scathing][abysmal][little][published,][must][opine][imdb. com][really][awful][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][ludicrous.][acting][direction.][pass][it.])
+v(2,5,7,8,12,13,14,16,17,19,20,22,23,24,25,26,27,29,30,31,32,33,34,35,36,37): 9.231241226196289, EP: 0.9965269565582275	 ([least][scathing][abysmal][little][published,][must][opine][imdb. com][really][awful][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass][it.])
+v(0,1,3,4,7,8,9,12,13,14,15,16,17,19,20,22,23,24,25,26,27,29,30,31,32,37): 9.225557327270508, EP: 0.9959133863449097	 ([i've][written][half][dozen][abysmal][little][flick][published,][must][opine][someone][imdb. com][really][awful][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine][it.])
+v(7,8,12,13,14,16,17,19,20,22,23,24,25,26,27,29,30,31,32,37): 9.212869644165039, EP: 0.994543731212616	 ([abysmal][little][published,][must][opine][imdb. com][really][awful][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine][it.])
+v(0,1,2,3,4,5,7,8,9,12,13,14,15,16,17,19,20,22,23,24,25,26,27,29,30,31,32,33,34,35,36,37): 9.195194244384766, EP: 0.9926356077194214	 ([i've][written][least][half][dozen][scathing][abysmal][little][flick][published,][must][opine][someone][imdb. com][really][awful][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass][it.])
+v(0,1,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,37): 9.194539070129395, EP: 0.9925649166107178	 ([i've][written][half][dozen][reviews][abysmal][little][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine][it.])
+v(2,5,6,7,8,10,11,12,13,14,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31,33,34,35,36,37): 9.193473815917969, EP: 0.9924498796463013	 ([least][scathing][reviews][abysmal][little][none][get][published,][must][opine][imdb. com][really][likes][awful][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][ludicrous.][acting][direction.][pass][it.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,18,19,20,21,28,32,33,34,35,36,37): 9.178452491760254, EP: 0.9908283352851868	 ([i've][written][least][half][dozen][scathing][reviews][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][movie.][idea][desert][machine][ludicrous.][acting][direction.][pass][it.])
+v(0,1,3,4,7,8,9,15,20,22,23,24,25,26,27,29,30,31,32): 9.17384147644043, EP: 0.9903305768966675	 ([i've][written][half][dozen][abysmal][little][flick][someone][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine])
+v(2,5,7,8,20,22,23,24,25,26,27,29,30,31,32,33,34,35,36): 9.16565227508545, EP: 0.9894465208053589	 ([least][scathing][abysmal][little][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass])
+v(0,1,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31,37): 9.1610107421875, EP: 0.988945484161377	 ([i've][written][half][dozen][reviews][abysmal][little][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][it.])
+v(0,1,2,3,4,5,7,8,9,15,22,23,24,25,26,27,29,30,31,33,34,35,36): 9.16093635559082, EP: 0.9889374375343323	 ([i've][written][least][half][dozen][scathing][abysmal][little][flick][someone][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][ludicrous.][acting][direction.][pass])
+v(2,5,6,7,8,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 9.157684326171875, EP: 0.9885863661766052	 ([least][scathing][reviews][abysmal][little][none][get][published,][must][opine][imdb. com][really][likes][awful][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31,33,34,35,36,37): 9.157508850097656, EP: 0.9885674118995667	 ([i've][written][least][half][dozen][scathing][reviews][abysmal][little][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][ludicrous.][acting][direction.][pass][it.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,18,19,21,28,33,34,35,36,37): 9.155345916748047, EP: 0.9883339405059814	 ([i've][written][least][half][dozen][scathing][reviews][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][idea][desert][ludicrous.][acting][direction.][pass][it.])
+v(0,1,2,3,4,5,7,8,9,12,13,14,15,16,17,19,22,23,24,25,26,27,29,30,31,33,34,35,36,37): 9.155180931091309, EP: 0.9883161187171936	 ([i've][written][least][half][dozen][scathing][abysmal][little][flick][published,][must][opine][someone][imdb. com][really][awful][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][ludicrous.][acting][direction.][pass][it.])
+v(0,1,2,3,4,5,7,8,9,15,20,22,23,24,25,26,27,29,30,31,32,33,34,35,36): 9.149507522583008, EP: 0.9877036809921265	 ([i've][written][least][half][dozen][scathing][abysmal][little][flick][someone][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass])
+v(0,1,3,4,7,8,9,12,13,14,15,16,17,19,22,23,24,25,26,27,29,30,31,37): 9.138387680053711, EP: 0.9865033030509949	 ([i've][written][half][dozen][abysmal][little][flick][published,][must][opine][someone][imdb. com][really][awful][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,15,18,21,22,23,24,25,26,27,28,29,30,31,33,34,35,36): 9.12914752960205, EP: 0.9855057597160339	 ([i've][written][least][half][dozen][scathing][reviews][abysmal][little][flick][none][get][someone][likes][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][ludicrous.][acting][direction.][pass])
+v(0,1,3,4,7,8,9,15,22,23,24,25,26,27,29,30,31): 9.117547988891602, EP: 0.9842535853385925	 ([i've][written][half][dozen][abysmal][little][flick][someone][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting])
+v(0,1,3,4,6,9,10,11,12,13,14,15,16,17,18,19,20,21,28,32,37): 9.083498001098633, EP: 0.980577826499939	 ([i've][written][half][dozen][reviews][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][movie.][idea][desert][machine][it.])
+v(7,8,12,13,14,16,17,19,22,23,24,25,26,27,29,30,31,37): 9.083440780639648, EP: 0.9805716872215271	 ([abysmal][little][published,][must][opine][imdb. com][really][awful][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][it.])
+v(0,1,2,3,4,5,9,12,13,14,15,16,17,19,20,32,33,34,35,36,37): 9.072676658630371, EP: 0.9794096946716309	 ([i've][written][least][half][dozen][scathing][flick][published,][must][opine][someone][imdb. com][really][awful][movie.][machine][ludicrous.][acting][direction.][pass][it.])
+v(2,5,12,13,14,16,17,19,20,32,33,34,35,36,37): 9.070087432861328, EP: 0.9791301488876343	 ([least][scathing][published,][must][opine][imdb. com][really][awful][movie.][machine][ludicrous.][acting][direction.][pass][it.])
+v(7,8,20,22,23,24,25,26,27,29,30,31,32): 9.059648513793945, EP: 0.9780032634735107	 ([abysmal][little][movie.][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][machine])
+v(0,1,3,4,6,9,10,11,12,13,14,15,16,17,18,19,21,28,37): 9.053319931030273, EP: 0.9773200750350952	 ([i've][written][half][dozen][reviews][flick][none][get][published,][must][opine][someone][imdb. com][really][likes][awful][idea][desert][it.])
+v(2,5,7,8,22,23,24,25,26,27,29,30,31,33,34,35,36): 9.043996810913086, EP: 0.9763136506080627	 ([least][scathing][abysmal][little][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting][ludicrous.][acting][direction.][pass])
+v(0,1,2,3,4,5,9,12,13,14,15,16,17,19,33,34,35,36,37): 8.97464370727539, EP: 0.9688268303871155	 ([i've][written][least][half][dozen][scathing][flick][published,][must][opine][someone][imdb. com][really][awful][ludicrous.][acting][direction.][pass][it.])
+v(0,1,3,4,9,12,13,14,15,16,17,19,20,32,37): 8.971168518066406, EP: 0.9684516787528992	 ([i've][written][half][dozen][flick][published,][must][opine][someone][imdb. com][really][awful][movie.][machine][it.])
+v(6,7,8,10,11,12,13,14,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31,37): 8.967140197753906, EP: 0.9680168628692627	 ([reviews][abysmal][little][none][get][published,][must][opine][imdb. com][really][likes][awful][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][it.])
+v(6,7,8,10,11,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,37): 8.96675968170166, EP: 0.9679757356643677	 ([reviews][abysmal][little][none][get][published,][must][opine][imdb. com][really][likes][awful][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine][it.])
+v(2,5,6,10,11,12,13,14,16,17,18,19,21,28,33,34,35,36,37): 8.937593460083008, EP: 0.9648272395133972	 ([least][scathing][reviews][none][get][published,][must][opine][imdb. com][really][likes][awful][idea][desert][ludicrous.][acting][direction.][pass][it.])
+v(0,1,3,4,6,7,8,9,10,11,15,18,21,22,23,24,25,26,27,28,29,30,31): 8.915090560913086, EP: 0.9623979926109314	 ([i've][written][half][dozen][reviews][abysmal][little][flick][none][get][someone][likes][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting])
+v(2,5,12,13,14,16,17,19,33,34,35,36,37): 8.905426025390625, EP: 0.961354672908783	 ([least][scathing][published,][must][opine][imdb. com][really][awful][ludicrous.][acting][direction.][pass][it.])
+v(2,5,6,10,11,12,13,14,16,17,18,19,20,21,28,32,33,34,35,36,37): 8.902819633483887, EP: 0.9610733389854431	 ([least][scathing][reviews][none][get][published,][must][opine][imdb. com][really][likes][awful][movie.][idea][desert][machine][ludicrous.][acting][direction.][pass][it.])
+v(12,13,14,16,17,19,20,32,37): 8.888151168823242, EP: 0.9594898223876953	 ([published,][must][opine][imdb. com][really][awful][movie.][machine][it.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,15,18,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 8.881599426269531, EP: 0.9587825536727905	 ([i've][written][least][half][dozen][scathing][reviews][abysmal][little][flick][none][get][someone][likes][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass])
+v(0,1,3,4,9,12,13,14,15,16,17,19,37): 8.833532333374023, EP: 0.9535936713218689	 ([i've][written][half][dozen][flick][published,][must][opine][someone][imdb. com][really][awful][it.])
+v(0,1,2,3,4,5,9,15,20,32,33,34,35,36): 8.7959623336792, EP: 0.9495379328727722	 ([i've][written][least][half][dozen][scathing][flick][someone][movie.][machine][ludicrous.][acting][direction.][pass])
+v(0,1,2,3,4,5,9,15,33,34,35,36): 8.772096633911133, EP: 0.9469615817070007	 ([i've][written][least][half][dozen][scathing][flick][someone][ludicrous.][acting][direction.][pass])
+v(7,8,22,23,24,25,26,27,29,30,31): 8.747241973876953, EP: 0.9442784786224365	 ([abysmal][little][bunch][oilmen][resurrect][military][tank][set][decade,][make][fighting])
+v(2,5,6,7,8,10,11,18,21,22,23,24,25,26,27,28,29,30,31,33,34,35,36): 8.715484619140625, EP: 0.9408501982688904	 ([least][scathing][reviews][abysmal][little][none][get][likes][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][ludicrous.][acting][direction.][pass])
+v(12,13,14,16,17,19,37): 8.61099910736084, EP: 0.9295708537101746	 ([published,][must][opine][imdb. com][really][awful][it.])
+v(6,10,11,12,13,14,16,17,18,19,21,28,37): 8.395639419555664, EP: 0.9063224196434021	 ([reviews][none][get][published,][must][opine][imdb. com][really][likes][awful][idea][desert][it.])
+v(0,1,3,4,6,7,8,9,10,11,15,18,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.34447193145752, EP: 0.9007987976074219	 ([i've][written][half][dozen][reviews][abysmal][little][flick][none][get][someone][likes][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine])
+v(6,7,8,10,11,18,21,22,23,24,25,26,27,28,29,30,31): 8.236092567443848, EP: 0.88909912109375	 ([reviews][abysmal][little][none][get][likes][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting])
+v(6,10,11,12,13,14,16,17,18,19,20,21,28,32,37): 8.140167236328125, EP: 0.8787438273429871	 ([reviews][none][get][published,][must][opine][imdb. com][really][likes][awful][movie.][idea][desert][machine][it.])
+v(2,5,20,32,33,34,35,36): 7.9938645362854, EP: 0.8629502058029175	 ([least][scathing][movie.][machine][ludicrous.][acting][direction.][pass])
+v(2,5,33,34,35,36): 6.858870506286621, EP: 0.7404258251190186	 ([least][scathing][ludicrous.][acting][direction.][pass])
+v(0,1,2,3,4,5,6,9,10,11,15,18,21,28,33,34,35,36): 6.367588043212891, EP: 0.6873911023139954	 ([i've][written][least][half][dozen][scathing][reviews][flick][none][get][someone][likes][idea][desert][ludicrous.][acting][direction.][pass])
+v(0,1,2,3,4,5,6,9,10,11,15,18,20,21,28,32,33,34,35,36): 6.204672336578369, EP: 0.6698040962219238	 ([i've][written][least][half][dozen][scathing][reviews][flick][none][get][someone][likes][movie.][idea][desert][machine][ludicrous.][acting][direction.][pass])
+v(6,7,8,10,11,18,20,21,22,23,24,25,26,27,28,29,30,31,32): 5.169832706451416, EP: 0.5580915212631226	 ([reviews][abysmal][little][none][get][likes][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine])
+v(2,5,6,7,8,10,11,18,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 5.093052864074707, EP: 0.5498030185699463	 ([least][scathing][reviews][abysmal][little][none][get][likes][movie.][idea][bunch][oilmen][resurrect][military][tank][set][desert][decade,][make][fighting][machine][ludicrous.][acting][direction.][pass])
+v(6,10,11,18,20,21,28,32): -4.4203948974609375, EP: -0.4771885573863983	 ([reviews][none][get][likes][movie.][idea][desert][machine])
+v(0,1,3,4,9,15): 3.8566362857818604, EP: 0.41632992029190063	 ([i've][written][half][dozen][flick][someone])
+v(2,5,6,10,11,18,20,21,28,32,33,34,35,36): -3.682304620742798, EP: -0.3975105583667755	 ([least][scathing][reviews][none][get][likes][movie.][idea][desert][machine][ludicrous.][acting][direction.][pass])
+v(0,1,3,4,9,15,20,32): 3.611830949783325, EP: 0.389902800321579	 ([i've][written][half][dozen][flick][someone][movie.][machine])
+v(6,10,11,18,21,28): -3.5186989307403564, EP: -0.37984907627105713	 ([reviews][none][get][likes][idea][desert])
+v(0,1,3,4,6,9,10,11,15,18,21,28): -2.1091578006744385, EP: -0.22768689692020416	 ([i've][written][half][dozen][reviews][flick][none][get][someone][likes][idea][desert])
+v(0,1,3,4,6,9,10,11,15,18,20,21,28,32): -2.0903778076171875, EP: -0.2256595641374588	 ([i've][written][half][dozen][reviews][flick][none][get][someone][likes][movie.][idea][desert][machine])
+v(2,5,6,10,11,18,21,28,33,34,35,36): -1.8142683506011963, EP: -0.1958531141281128	 ([least][scathing][reviews][none][get][likes][idea][desert][ludicrous.][acting][direction.][pass])
+v(20,32): 0.28110790252685547, EP: 0.030346037819981575	 ([movie.][machine])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['20', '36', '13', '35', '21', '47', '4', '14']: ['find', 'famous', 'knowing', 'retelling', 'enthralling', 'legend', 'favourite', 'little']: 平均边权 0.5644
+社区 2: ['39', '50', '48', '42', '43']: ['benkei', 'benkei', 'yoshitsune', 'yoshitsune', 'gojo']: 平均边权 0.8319
+社区 3: ['2', '8', '5', '0', '3', '9', '1', '10', '6', '7']: ['one', 'many', 'top', 'movie', 'time', 'people', 'rates', 'seeing', '10', 'movies.']: 平均边权 0.3885
+社区 4: ['27', '25', '32', '29', '30', '22', '23', '24', '33', '31', '28']: ['detail', 'rich', 'completely', 'insights,', 'minor', 'try', 'explain...', 'movie', 'forgivable.', 'anachronisms,', 'cultural']: 平均边权 0.4151
+社区 5: ['38', '49', '46', '45', '52', '40', '55', '44', '51', '54']: ['monk', 'bests', 'according', 'fight', 'becomes', 'young', 'retainer.', 'bridge.', 'monk', 'loyal']: 平均边权 0.3006
+社区 6: ['56', '57', '17', '18']: ['movie', 'revision', 'movie', 'probably']: 平均边权 0.3339
+社区 7: ['12', '11', '15', '37', '19', '34']: ['time', 'first', 'many', 'duel', 'understand', 'story']: 平均边权 0.2264
+社区 8: ['16', '41', '53', '26']: ['themes', 'prince', "prince's", 'historical']: 平均边权 0.3950

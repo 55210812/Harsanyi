@@ -1,0 +1,85 @@
+---------- Players ----------
+Player 0: regret
+Player 1: i've
+Player 2: seen
+Player 3: movie.
+Player 4: can't
+Player 5: believe
+Player 6: creator
+Player 7: best
+Player 8: intentions
+Player 9: pelle
+Player 10: conqueror
+Player 11: could
+Player 12: make
+Player 13: bleak
+Player 14: boring
+Player 15: film.
+Player 16: waste!
+---------- Rewards ----------
+v(): 1.5013786554336548	 ([])
+v(13,15,16): 6.472461223602295	 ([bleak][film.][waste!])
+v(3,4,5): 4.607745170593262	 ([movie.][can't][believe])
+v(1,2,6,9,14): 5.70742130279541	 ([i've][seen][creator][pelle][boring])
+v(10,12): 0.07540565729141235	 ([conqueror][make])
+v(0,7,8,11): 4.357050895690918	 ([regret][best][intentions][could])
+v(3,4,5,13,15,16): 5.997199535369873	 ([movie.][can't][believe][bleak][film.][waste!])
+v(1,2,6,9,13,14,15,16): 7.77324104309082	 ([i've][seen][creator][pelle][bleak][boring][film.][waste!])
+v(10,12,13,15,16): 4.148459434509277	 ([conqueror][make][bleak][film.][waste!])
+v(0,7,8,11,13,15,16): 5.695874214172363	 ([regret][best][intentions][could][bleak][film.][waste!])
+v(1,2,3,4,5,6,9,14): 6.2910003662109375	 ([i've][seen][movie.][can't][believe][creator][pelle][boring])
+v(3,4,5,10,12): 2.0371391773223877	 ([movie.][can't][believe][conqueror][make])
+v(0,3,4,5,7,8,11): 7.337500095367432	 ([regret][movie.][can't][believe][best][intentions][could])
+v(1,2,6,9,10,12,14): 5.494617462158203	 ([i've][seen][creator][pelle][conqueror][make][boring])
+v(0,1,2,6,7,8,9,11,14): 7.191826343536377	 ([regret][i've][seen][creator][best][intentions][pelle][could][boring])
+v(0,7,8,10,11,12): 4.159399032592773	 ([regret][best][intentions][conqueror][could][make])
+v(1,2,3,4,5,6,9,13,14,15,16): 7.546939849853516	 ([i've][seen][movie.][can't][believe][creator][pelle][bleak][boring][film.][waste!])
+v(3,4,5,10,12,13,15,16): 4.310060977935791	 ([movie.][can't][believe][conqueror][make][bleak][film.][waste!])
+v(0,3,4,5,7,8,11,13,15,16): 6.698421478271484	 ([regret][movie.][can't][believe][best][intentions][could][bleak][film.][waste!])
+v(1,2,6,9,10,12,13,14,15,16): 7.75870418548584	 ([i've][seen][creator][pelle][conqueror][make][bleak][boring][film.][waste!])
+v(0,1,2,6,7,8,9,11,13,14,15,16): 8.1159086227417	 ([regret][i've][seen][creator][best][intentions][pelle][could][bleak][boring][film.][waste!])
+v(0,7,8,10,11,12,13,15,16): 6.310753345489502	 ([regret][best][intentions][conqueror][could][make][bleak][film.][waste!])
+v(1,2,3,4,5,6,9,10,12,14): 6.453884124755859	 ([i've][seen][movie.][can't][believe][creator][pelle][conqueror][make][boring])
+v(0,1,2,3,4,5,6,7,8,9,11,14): 7.851022720336914	 ([regret][i've][seen][movie.][can't][believe][creator][best][intentions][pelle][could][boring])
+v(0,3,4,5,7,8,10,11,12): 7.512787818908691	 ([regret][movie.][can't][believe][best][intentions][conqueror][could][make])
+v(0,1,2,6,7,8,9,10,11,12,14): 7.612277030944824	 ([regret][i've][seen][creator][best][intentions][pelle][conqueror][could][make][boring])
+v(1,2,3,4,5,6,9,10,12,13,14,15,16): 7.403012752532959	 ([i've][seen][movie.][can't][believe][creator][pelle][conqueror][make][bleak][boring][film.][waste!])
+v(0,1,2,3,4,5,6,7,8,9,11,13,14,15,16): 8.206110000610352	 ([regret][i've][seen][movie.][can't][believe][creator][best][intentions][pelle][could][bleak][boring][film.][waste!])
+v(0,3,4,5,7,8,10,11,12,13,15,16): 6.876892566680908	 ([regret][movie.][can't][believe][best][intentions][conqueror][could][make][bleak][film.][waste!])
+v(0,1,2,6,7,8,9,10,11,12,13,14,15,16): 8.129819869995117	 ([regret][i've][seen][creator][best][intentions][pelle][conqueror][could][make][bleak][boring][film.][waste!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14): 8.017570495605469	 ([regret][i've][seen][movie.][can't][believe][creator][best][intentions][pelle][conqueror][could][make][boring])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16): 8.082513809204102	 ([regret][i've][seen][movie.][can't][believe][creator][best][intentions][pelle][conqueror][could][make][bleak][boring][film.][waste!])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,11,13,14,15,16): 6.704731464385986, EP: 1.0187803506851196	 ([regret][i've][seen][movie.][can't][believe][creator][best][intentions][pelle][could][bleak][boring][film.][waste!])
+v(0,1,2,6,7,8,9,10,11,12,13,14,15,16): 6.628441333770752, EP: 1.007188081741333	 ([regret][i've][seen][creator][best][intentions][pelle][conqueror][could][make][bleak][boring][film.][waste!])
+v(0,1,2,6,7,8,9,11,13,14,15,16): 6.614530086517334, EP: 1.005074381828308	 ([regret][i've][seen][creator][best][intentions][pelle][could][bleak][boring][film.][waste!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16): 6.581135272979736, EP: 1.0	 ([regret][i've][seen][movie.][can't][believe][creator][best][intentions][pelle][conqueror][could][make][bleak][boring][film.][waste!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14): 6.5161919593811035, EP: 0.9901319146156311	 ([regret][i've][seen][movie.][can't][believe][creator][best][intentions][pelle][conqueror][could][make][boring])
+v(0,1,2,3,4,5,6,7,8,9,11,14): 6.349644184112549, EP: 0.9648250341415405	 ([regret][i've][seen][movie.][can't][believe][creator][best][intentions][pelle][could][boring])
+v(1,2,6,9,13,14,15,16): 6.271862506866455, EP: 0.9530061483383179	 ([i've][seen][creator][pelle][bleak][boring][film.][waste!])
+v(1,2,6,9,10,12,13,14,15,16): 6.257325649261475, EP: 0.9507973194122314	 ([i've][seen][creator][pelle][conqueror][make][bleak][boring][film.][waste!])
+v(0,1,2,6,7,8,9,10,11,12,14): 6.110898494720459, EP: 0.9285477995872498	 ([regret][i've][seen][creator][best][intentions][pelle][conqueror][could][make][boring])
+v(1,2,3,4,5,6,9,13,14,15,16): 6.04556131362915, EP: 0.9186198115348816	 ([i've][seen][movie.][can't][believe][creator][pelle][bleak][boring][film.][waste!])
+v(0,3,4,5,7,8,10,11,12): 6.011409282684326, EP: 0.9134304523468018	 ([regret][movie.][can't][believe][best][intentions][conqueror][could][make])
+v(1,2,3,4,5,6,9,10,12,13,14,15,16): 5.901634216308594, EP: 0.8967501521110535	 ([i've][seen][movie.][can't][believe][creator][pelle][conqueror][make][bleak][boring][film.][waste!])
+v(0,3,4,5,7,8,11): 5.836121559143066, EP: 0.8867955803871155	 ([regret][movie.][can't][believe][best][intentions][could])
+v(0,1,2,6,7,8,9,11,14): 5.690447807312012, EP: 0.8646605014801025	 ([regret][i've][seen][creator][best][intentions][pelle][could][boring])
+v(0,3,4,5,7,8,10,11,12,13,15,16): 5.375514030456543, EP: 0.8168064951896667	 ([regret][movie.][can't][believe][best][intentions][conqueror][could][make][bleak][film.][waste!])
+v(0,3,4,5,7,8,11,13,15,16): 5.197042942047119, EP: 0.7896879315376282	 ([regret][movie.][can't][believe][best][intentions][could][bleak][film.][waste!])
+v(13,15,16): 4.97108268737793, EP: 0.7553533911705017	 ([bleak][film.][waste!])
+v(1,2,3,4,5,6,9,10,12,14): 4.952505588531494, EP: 0.752530574798584	 ([i've][seen][movie.][can't][believe][creator][pelle][conqueror][make][boring])
+v(0,7,8,10,11,12,13,15,16): 4.809374809265137, EP: 0.7307819128036499	 ([regret][best][intentions][conqueror][could][make][bleak][film.][waste!])
+v(1,2,3,4,5,6,9,14): 4.789621829986572, EP: 0.7277804613113403	 ([i've][seen][movie.][can't][believe][creator][pelle][boring])
+v(3,4,5,13,15,16): 4.495820999145508, EP: 0.6831375956535339	 ([movie.][can't][believe][bleak][film.][waste!])
+v(1,2,6,9,14): 4.206042766571045, EP: 0.6391059756278992	 ([i've][seen][creator][pelle][boring])
+v(0,7,8,11,13,15,16): 4.194495677947998, EP: 0.637351393699646	 ([regret][best][intentions][could][bleak][film.][waste!])
+v(1,2,6,9,10,12,14): 3.993238925933838, EP: 0.6067705154418945	 ([i've][seen][creator][pelle][conqueror][make][boring])
+v(3,4,5): 3.1063666343688965, EP: 0.4720107614994049	 ([movie.][can't][believe])
+v(0,7,8,11): 2.8556723594665527, EP: 0.4339178800582886	 ([regret][best][intentions][could])
+v(3,4,5,10,12,13,15,16): 2.808682441711426, EP: 0.42677780985832214	 ([movie.][can't][believe][conqueror][make][bleak][film.][waste!])
+v(0,7,8,10,11,12): 2.658020496368408, EP: 0.40388479828834534	 ([regret][best][intentions][conqueror][could][make])
+v(10,12,13,15,16): 2.647080898284912, EP: 0.40222254395484924	 ([conqueror][make][bleak][film.][waste!])
+v(10,12): -1.4259729385375977, EP: -0.21667583286762238	 ([conqueror][make])
+v(3,4,5,10,12): 0.5357605218887329, EP: 0.08140852302312851	 ([movie.][can't][believe][conqueror][make])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

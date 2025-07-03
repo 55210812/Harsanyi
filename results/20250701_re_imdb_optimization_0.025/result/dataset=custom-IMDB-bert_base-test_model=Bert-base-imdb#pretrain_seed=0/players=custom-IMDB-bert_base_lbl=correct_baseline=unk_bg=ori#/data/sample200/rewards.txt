@@ -1,0 +1,94 @@
+---------- Players ----------
+Player 0: loved
+Player 1: film.
+Player 2: real
+Player 3: people,
+Player 4: great
+Player 5: acting,
+Player 6: humour,
+Player 7: unpredictable.
+Player 8: characters
+Player 9: believable
+Player 10: really
+Player 11: connected
+Player 12: them.
+Player 13: looking
+Player 14: film
+Player 15: slightly
+Player 16: offbeat
+Player 17: characters
+Player 18: outside
+Player 19: mainstream
+Player 20: society
+Player 21: help
+Player 22: other,
+Player 23: would
+Player 24: good
+Player 25: choice.
+---------- Rewards ----------
+v(): 0.37755197286605835	 ([])
+v(2,3,5,6): 1.3523602485656738	 ([real][people,][acting,][humour,])
+v(22,23,24,25): -0.036244213581085205	 ([other,][would][good][choice.])
+v(0,1,4): 6.167047500610352	 ([loved][film.][great])
+v(7,8,9,10,11,12): 7.1951904296875	 ([unpredictable.][characters][believable][really][connected][them.])
+v(13,14,15,16,17,18,19,20,21): -2.618285894393921	 ([looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(2,3,5,6,22,23,24,25): -0.3024542033672333	 ([real][people,][acting,][humour,][other,][would][good][choice.])
+v(0,1,2,3,4,5,6): 7.9043660163879395	 ([loved][film.][real][people,][great][acting,][humour,])
+v(2,3,5,6,7,8,9,10,11,12): 8.122846603393555	 ([real][people,][acting,][humour,][unpredictable.][characters][believable][really][connected][them.])
+v(2,3,5,6,13,14,15,16,17,18,19,20,21): -1.1141949892044067	 ([real][people,][acting,][humour,][looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(0,1,4,22,23,24,25): 5.489112854003906	 ([loved][film.][great][other,][would][good][choice.])
+v(7,8,9,10,11,12,22,23,24,25): 6.748633861541748	 ([unpredictable.][characters][believable][really][connected][them.][other,][would][good][choice.])
+v(13,14,15,16,17,18,19,20,21,22,23,24,25): -2.4020884037017822	 ([looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(0,1,4,7,8,9,10,11,12): 7.331160545349121	 ([loved][film.][great][unpredictable.][characters][believable][really][connected][them.])
+v(0,1,4,13,14,15,16,17,18,19,20,21): 6.654963493347168	 ([loved][film.][great][looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 8.204575538635254	 ([unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(0,1,2,3,4,5,6,22,23,24,25): 7.778935432434082	 ([loved][film.][real][people,][great][acting,][humour,][other,][would][good][choice.])
+v(2,3,5,6,7,8,9,10,11,12,22,23,24,25): 7.865029335021973	 ([real][people,][acting,][humour,][unpredictable.][characters][believable][really][connected][them.][other,][would][good][choice.])
+v(2,3,5,6,13,14,15,16,17,18,19,20,21,22,23,24,25): -0.8734487295150757	 ([real][people,][acting,][humour,][looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12): 8.194060325622559	 ([loved][film.][real][people,][great][acting,][humour,][unpredictable.][characters][believable][really][connected][them.])
+v(0,1,2,3,4,5,6,13,14,15,16,17,18,19,20,21): 8.098703384399414	 ([loved][film.][real][people,][great][acting,][humour,][looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 8.49727725982666	 ([real][people,][acting,][humour,][unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(0,1,4,7,8,9,10,11,12,22,23,24,25): 7.348018646240234	 ([loved][film.][great][unpredictable.][characters][believable][really][connected][them.][other,][would][good][choice.])
+v(0,1,4,13,14,15,16,17,18,19,20,21,22,23,24,25): 6.534497261047363	 ([loved][film.][great][looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.5062255859375	 ([unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(0,1,4,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 7.893986701965332	 ([loved][film.][great][unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,22,23,24,25): 8.178521156311035	 ([loved][film.][real][people,][great][acting,][humour,][unpredictable.][characters][believable][really][connected][them.][other,][would][good][choice.])
+v(0,1,2,3,4,5,6,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.167132377624512	 ([loved][film.][real][people,][great][acting,][humour,][looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.367301940917969	 ([real][people,][acting,][humour,][unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 8.389725685119629	 ([loved][film.][real][people,][great][acting,][humour,][unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(0,1,4,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.019998550415039	 ([loved][film.][great][unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.232242584228516	 ([loved][film.][real][people,][great][acting,][humour,][unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+---------- Rewards-v() ----------
+v(7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.128673553466797, EP: 1.0348814725875854	 ([unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 8.119725227355957, EP: 1.0337421894073486	 ([real][people,][acting,][humour,][unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 8.012173652648926, EP: 1.0200495719909668	 ([loved][film.][real][people,][great][acting,][humour,][unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.989749908447266, EP: 1.0171947479248047	 ([real][people,][acting,][humour,][unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.8546905517578125, EP: 1.0	 ([loved][film.][real][people,][great][acting,][humour,][unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 7.827023506164551, EP: 0.9964776635169983	 ([unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12): 7.8165082931518555, EP: 0.995138943195343	 ([loved][film.][real][people,][great][acting,][humour,][unpredictable.][characters][believable][really][connected][them.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,22,23,24,25): 7.800969123840332, EP: 0.993160605430603	 ([loved][film.][real][people,][great][acting,][humour,][unpredictable.][characters][believable][really][connected][them.][other,][would][good][choice.])
+v(0,1,2,3,4,5,6,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.789580345153809, EP: 0.9917106628417969	 ([loved][film.][real][people,][great][acting,][humour,][looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(2,3,5,6,7,8,9,10,11,12): 7.745294570922852, EP: 0.9860725402832031	 ([real][people,][acting,][humour,][unpredictable.][characters][believable][really][connected][them.])
+v(0,1,2,3,4,5,6,13,14,15,16,17,18,19,20,21): 7.721151351928711, EP: 0.982998788356781	 ([loved][film.][real][people,][great][acting,][humour,][looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(0,1,4,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.642446517944336, EP: 0.9729787111282349	 ([loved][film.][great][unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(0,1,2,3,4,5,6): 7.526813983917236, EP: 0.9582571983337402	 ([loved][film.][real][people,][great][acting,][humour,])
+v(0,1,4,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 7.516434669494629, EP: 0.9569358229637146	 ([loved][film.][great][unpredictable.][characters][believable][really][connected][them.][looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(2,3,5,6,7,8,9,10,11,12,22,23,24,25): 7.4874773025512695, EP: 0.9532491564750671	 ([real][people,][acting,][humour,][unpredictable.][characters][believable][really][connected][them.][other,][would][good][choice.])
+v(0,1,2,3,4,5,6,22,23,24,25): 7.401383399963379, EP: 0.942288339138031	 ([loved][film.][real][people,][great][acting,][humour,][other,][would][good][choice.])
+v(0,1,4,7,8,9,10,11,12,22,23,24,25): 6.970466613769531, EP: 0.8874272704124451	 ([loved][film.][great][unpredictable.][characters][believable][really][connected][them.][other,][would][good][choice.])
+v(0,1,4,7,8,9,10,11,12): 6.953608512878418, EP: 0.8852810263633728	 ([loved][film.][great][unpredictable.][characters][believable][really][connected][them.])
+v(7,8,9,10,11,12): 6.817638397216797, EP: 0.86797034740448	 ([unpredictable.][characters][believable][really][connected][them.])
+v(7,8,9,10,11,12,22,23,24,25): 6.371081829071045, EP: 0.8111181259155273	 ([unpredictable.][characters][believable][really][connected][them.][other,][would][good][choice.])
+v(0,1,4,13,14,15,16,17,18,19,20,21): 6.277411460876465, EP: 0.7991927266120911	 ([loved][film.][great][looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(0,1,4,13,14,15,16,17,18,19,20,21,22,23,24,25): 6.15694522857666, EP: 0.7838558554649353	 ([loved][film.][great][looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(0,1,4): 5.789495468139648, EP: 0.7370749115943909	 ([loved][film.][great])
+v(0,1,4,22,23,24,25): 5.111560821533203, EP: 0.6507654190063477	 ([loved][film.][great][other,][would][good][choice.])
+v(13,14,15,16,17,18,19,20,21): -2.995837926864624, EP: -0.3814074993133545	 ([looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(13,14,15,16,17,18,19,20,21,22,23,24,25): -2.7796404361724854, EP: -0.35388287901878357	 ([looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(2,3,5,6,13,14,15,16,17,18,19,20,21): -1.4917469024658203, EP: -0.18991796672344208	 ([real][people,][acting,][humour,][looking][film][slightly][offbeat][characters][outside][mainstream][society][help])
+v(2,3,5,6,13,14,15,16,17,18,19,20,21,22,23,24,25): -1.2510006427764893, EP: -0.15926797688007355	 ([real][people,][acting,][humour,][looking][film][slightly][offbeat][characters][outside][mainstream][society][help][other,][would][good][choice.])
+v(2,3,5,6): 0.9748082756996155, EP: 0.12410524487495422	 ([real][people,][acting,][humour,])
+v(2,3,5,6,22,23,24,25): -0.6800061464309692, EP: -0.08657325804233551	 ([real][people,][acting,][humour,][other,][would][good][choice.])
+v(22,23,24,25): -0.41379618644714355, EP: -0.05268141254782677	 ([other,][would][good][choice.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

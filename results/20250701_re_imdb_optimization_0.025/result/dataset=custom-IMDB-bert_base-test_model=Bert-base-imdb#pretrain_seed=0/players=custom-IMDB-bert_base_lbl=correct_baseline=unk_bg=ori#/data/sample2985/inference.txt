@@ -1,0 +1,56 @@
+Execution time: 2025-07-03 20:01:38
+prompt: [CLS] the movie was disappointing. the book was powerful. the views and the learning of little tree were powerfully portrayed in the book. the movie just coasted along and finally dribbled away. still a nice tale for kids. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:3185 decoded_text: movie
+idx:3 input_id:2001 decoded_text: was
+idx:4 input_id:15640 decoded_text: disappointing
+idx:5 input_id:1012 decoded_text: .
+idx:6 input_id:1996 decoded_text: the
+idx:7 input_id:2338 decoded_text: book
+idx:8 input_id:2001 decoded_text: was
+idx:9 input_id:3928 decoded_text: powerful
+idx:10 input_id:1012 decoded_text: .
+idx:11 input_id:1996 decoded_text: the
+idx:12 input_id:5328 decoded_text: views
+idx:13 input_id:1998 decoded_text: and
+idx:14 input_id:1996 decoded_text: the
+idx:15 input_id:4083 decoded_text: learning
+idx:16 input_id:1997 decoded_text: of
+idx:17 input_id:2210 decoded_text: little
+idx:18 input_id:3392 decoded_text: tree
+idx:19 input_id:2020 decoded_text: were
+idx:20 input_id:3928 decoded_text: powerful
+idx:21 input_id:2135 decoded_text: ##ly
+idx:22 input_id:6791 decoded_text: portrayed
+idx:23 input_id:1999 decoded_text: in
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:2338 decoded_text: book
+idx:26 input_id:1012 decoded_text: .
+idx:27 input_id:1996 decoded_text: the
+idx:28 input_id:3185 decoded_text: movie
+idx:29 input_id:2074 decoded_text: just
+idx:30 input_id:3023 decoded_text: coast
+idx:31 input_id:2098 decoded_text: ##ed
+idx:32 input_id:2247 decoded_text: along
+idx:33 input_id:1998 decoded_text: and
+idx:34 input_id:2633 decoded_text: finally
+idx:35 input_id:2852 decoded_text: dr
+idx:36 input_id:12322 decoded_text: ##ib
+idx:37 input_id:23242 decoded_text: ##bled
+idx:38 input_id:2185 decoded_text: away
+idx:39 input_id:1012 decoded_text: .
+idx:40 input_id:2145 decoded_text: still
+idx:41 input_id:1037 decoded_text: a
+idx:42 input_id:3835 decoded_text: nice
+idx:43 input_id:6925 decoded_text: tale
+idx:44 input_id:2005 decoded_text: for
+idx:45 input_id:4268 decoded_text: kids
+idx:46 input_id:1012 decoded_text: .
+idx:47 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.160419464111328, -3.6514058113098145]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

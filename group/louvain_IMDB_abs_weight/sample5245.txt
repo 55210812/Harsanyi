@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['2', '1', '0']: ['directs', 'kramer', 'stanley']: 平均边权 1.9836
+社区 2: ['4', '3', '23', '65', '27', '24', '26']: ['thriller', 'action', 'richard', 'boredom.', 'eli', 'widmark,', 'albert,']: 平均边权 0.6017
+社区 3: ['8', '5', '9', '10', '6', '7']: ['things :', 'leaves', 'action', 'thrills.', 'two', 'key']: 平均边权 0.7960
+社区 4: ['12', '57', '30', '11', '16', '15', '60', '14', '28']: ['principle', 'parallax', '- - -', 'domino', 'convict', 'hackman', 'principle', 'gene', 'wallach']: 平均边权 0.4857
+社区 5: ['71', '61', '70', '63', '67', '68', '62', '69', '64', '31']: ['works', 'mixes', 'even', 'mystery', 'extremely', 'well', 'ambiguity', 'photographed', 'confusion', 'presumably']: 平均边权 0.5049
+社区 6: ['46', '52', '40', '47', '39', '50', '41', '44', '51']: ['never', 'nowhere.', 'made', 'get', 'never', 'goes', 'clear.', 'lot', 'absolutely']: 平均边权 0.4623
+社区 7: ['38', '35', '66', '36', '49', '53', '37', '33']: ['line,', 'like', 'film', "movie's", 'film', 'strives', 'plot', 'government,']: 平均边权 0.5783
+社区 8: ['25', '42', '43', '32', '29']: ['edward', 'hackman', 'asks', 'work', 'operatives']: 平均边权 0.5495
+社区 9: ['20', '19', '13', '34', '21', '18', '22', '17']: ['perform', 'order', 'features', 'that,', 'mysterious', 'prison', 'task.', 'sprung']: 平均边权 0.4996
+社区 10: ['55', '56', '48', '58', '59', '45', '54']: ['night', 'moves', 'answered', 'view,', 'domino', 'questions', 'like']: 平均边权 0.3734

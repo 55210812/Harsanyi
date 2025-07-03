@@ -1,0 +1,6 @@
+louvain社区检测结果:
+社区 1: ['29', '34', '40', '39', '43', '33', '38', '35', '36', '45', '47', '41', '42', '44', '37', '28']: ['actors', 'excellent', 'really', 'thrills', 'movie', 'really', 'good.', 'film.', 'thought', 'good.', 'good.', 'good', 'surprising.', 'filmed', 'performed', 'acting']: 平均边权 0.5844
+社区 2: ['2', '5', '0', '49', '4', '30', '3', '1']: ['good', 'cast', 'contaminated', 'quite', 'good', 'good.', 'film', 'man']: 平均边权 0.6061
+社区 3: ['27', '19', '18', '21', '11', '23', '22', '24', '62', '10', '17', '7', '12', '20', '63', '66', '13', '25', '16', '65', '9', '26', '14', '64']: ['cazenove. the', 'hendrick', 'barabas,', 'sir', 'peter', 'nosbusch,', 'e', 'arthur', 'natascha', 'mcelhone,', 'nikolett', 'william', 'weller,', 'haese,', 'mcelhone,', 'katja', 'katja', 'brauss,', 'brandon,', 'weller,', 'natascha', 'christopher', 'woywood,', 'peter']: 平均边权 0.3107
+社区 4: ['8', '61', '32', '15', '59', '60', '6', '31']: ['hurt,', 'hurt,', 'weller', 'michael', 'like', 'william', 'includes', 'hurt']: 平均边权 0.5129
+社区 5: ['56', '57', '46', '52', '58', '55', '50', '48', '53', '51', '54']: ['good', 'thrilling', 'music', 'really', 'film.', 'end.', 'interesting', 'film', 'keeps', 'movie', 'going']: 平均边权 0.7935

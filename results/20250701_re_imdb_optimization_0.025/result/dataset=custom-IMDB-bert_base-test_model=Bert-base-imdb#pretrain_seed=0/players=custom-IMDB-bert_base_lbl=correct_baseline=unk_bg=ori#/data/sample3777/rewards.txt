@@ -1,0 +1,163 @@
+---------- Players ----------
+Player 0: movie
+Player 1: starts
+Player 2: fine.
+Player 3: widower
+Player 4: new
+Player 5: girlfriend
+Player 6: children.
+Player 7: movie
+Player 8: filled
+Player 9: stupid
+Player 10: director's
+Player 11: choices.
+Player 12: like
+Player 13: lets
+Player 14: separate.
+Player 15: "
+Player 16: " i
+Player 17: coming
+Player 18: to....
+Player 19: "
+Player 20: what?
+Player 21: stupid
+Player 22: stupid
+Player 23: stupid.
+Player 24: please
+Player 25: waste
+Player 26: time
+Player 27: hoping
+Player 28: get
+Player 29: better..............
+Player 30: hardly. "
+---------- Rewards ----------
+v(): 1.071784496307373	 ([])
+v(8,15,16,20,21,22,24,25): 0.8211360573768616	 ([filled]["][" i][what?][stupid][stupid][please][waste])
+v(4,5): 1.466699481010437	 ([new][girlfriend])
+v(19,23,26,27,28): 3.511265754699707	 (["][stupid.][time][hoping][get])
+v(1,2,6,7,9,29,30): 3.4153239727020264	 ([starts][fine.][children.][movie][stupid][better..............][hardly. "])
+v(10,11,12,13,14,17): -0.561671257019043	 ([director's][choices.][like][lets][separate.][coming])
+v(0,3,18): 1.6628347635269165	 ([movie][widower][to....])
+v(4,5,8,15,16,20,21,22,24,25): 1.0087165832519531	 ([new][girlfriend][filled]["][" i][what?][stupid][stupid][please][waste])
+v(8,15,16,19,20,21,22,23,24,25,26,27,28): 3.370025157928467	 ([filled]["][" i]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(1,2,6,7,8,9,15,16,20,21,22,24,25,29,30): 5.629532337188721	 ([starts][fine.][children.][movie][filled][stupid]["][" i][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(8,10,11,12,13,14,15,16,17,20,21,22,24,25): 1.6081687211990356	 ([filled][director's][choices.][like][lets][separate.]["][" i][coming][what?][stupid][stupid][please][waste])
+v(0,3,8,15,16,18,20,21,22,24,25): 0.36248302459716797	 ([movie][widower][filled]["][" i][to....][what?][stupid][stupid][please][waste])
+v(4,5,19,23,26,27,28): 4.029056072235107	 ([new][girlfriend]["][stupid.][time][hoping][get])
+v(1,2,4,5,6,7,9,29,30): 4.865278244018555	 ([starts][fine.][new][girlfriend][children.][movie][stupid][better..............][hardly. "])
+v(4,5,10,11,12,13,14,17): 0.9519872665405273	 ([new][girlfriend][director's][choices.][like][lets][separate.][coming])
+v(0,3,4,5,18): 2.292546272277832	 ([movie][widower][new][girlfriend][to....])
+v(1,2,6,7,9,19,23,26,27,28,29,30): 5.3089447021484375	 ([starts][fine.][children.][movie][stupid]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(10,11,12,13,14,17,19,23,26,27,28): 3.277467727661133	 ([director's][choices.][like][lets][separate.][coming]["][stupid.][time][hoping][get])
+v(0,3,18,19,23,26,27,28): 4.938325881958008	 ([movie][widower][to....]["][stupid.][time][hoping][get])
+v(1,2,6,7,9,10,11,12,13,14,17,29,30): 7.6328582763671875	 ([starts][fine.][children.][movie][stupid][director's][choices.][like][lets][separate.][coming][better..............][hardly. "])
+v(0,1,2,3,6,7,9,18,29,30): 5.359879493713379	 ([movie][starts][fine.][widower][children.][movie][stupid][to....][better..............][hardly. "])
+v(0,3,10,11,12,13,14,17,18): 1.3177869319915771	 ([movie][widower][director's][choices.][like][lets][separate.][coming][to....])
+v(4,5,8,15,16,19,20,21,22,23,24,25,26,27,28): 3.833552360534668	 ([new][girlfriend][filled]["][" i]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(1,2,4,5,6,7,8,9,15,16,20,21,22,24,25,29,30): 6.463499069213867	 ([starts][fine.][new][girlfriend][children.][movie][filled][stupid]["][" i][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(4,5,8,10,11,12,13,14,15,16,17,20,21,22,24,25): 3.067113161087036	 ([new][girlfriend][filled][director's][choices.][like][lets][separate.]["][" i][coming][what?][stupid][stupid][please][waste])
+v(0,3,4,5,8,15,16,18,20,21,22,24,25): 0.8328624367713928	 ([movie][widower][new][girlfriend][filled]["][" i][to....][what?][stupid][stupid][please][waste])
+v(1,2,6,7,8,9,15,16,19,20,21,22,23,24,25,26,27,28,29,30): 6.197854518890381	 ([starts][fine.][children.][movie][filled][stupid]["][" i]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(8,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28): 5.007410049438477	 ([filled][director's][choices.][like][lets][separate.]["][" i][coming]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(0,3,8,15,16,18,19,20,21,22,23,24,25,26,27,28): 5.1829729080200195	 ([movie][widower][filled]["][" i][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(1,2,6,7,8,9,10,11,12,13,14,15,16,17,20,21,22,24,25,29,30): 7.792465686798096	 ([starts][fine.][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(0,1,2,3,6,7,8,9,15,16,18,20,21,22,24,25,29,30): 6.891563415527344	 ([movie][starts][fine.][widower][children.][movie][filled][stupid]["][" i][to....][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(0,3,8,10,11,12,13,14,15,16,17,18,20,21,22,24,25): 4.2989325523376465	 ([movie][widower][filled][director's][choices.][like][lets][separate.]["][" i][coming][to....][what?][stupid][stupid][please][waste])
+v(1,2,4,5,6,7,9,19,23,26,27,28,29,30): 6.465261936187744	 ([starts][fine.][new][girlfriend][children.][movie][stupid]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(4,5,10,11,12,13,14,17,19,23,26,27,28): 4.22609806060791	 ([new][girlfriend][director's][choices.][like][lets][separate.][coming]["][stupid.][time][hoping][get])
+v(0,3,4,5,18,19,23,26,27,28): 5.236651420593262	 ([movie][widower][new][girlfriend][to....]["][stupid.][time][hoping][get])
+v(1,2,4,5,6,7,9,10,11,12,13,14,17,29,30): 7.712563514709473	 ([starts][fine.][new][girlfriend][children.][movie][stupid][director's][choices.][like][lets][separate.][coming][better..............][hardly. "])
+v(0,1,2,3,4,5,6,7,9,18,29,30): 6.104448318481445	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][stupid][to....][better..............][hardly. "])
+v(0,3,4,5,10,11,12,13,14,17,18): 3.0197603702545166	 ([movie][widower][new][girlfriend][director's][choices.][like][lets][separate.][coming][to....])
+v(1,2,6,7,9,10,11,12,13,14,17,19,23,26,27,28,29,30): 8.106755256652832	 ([starts][fine.][children.][movie][stupid][director's][choices.][like][lets][separate.][coming]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(0,1,2,3,6,7,9,18,19,23,26,27,28,29,30): 5.726841926574707	 ([movie][starts][fine.][widower][children.][movie][stupid][to....]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(0,3,10,11,12,13,14,17,18,19,23,26,27,28): 5.040441513061523	 ([movie][widower][director's][choices.][like][lets][separate.][coming][to....]["][stupid.][time][hoping][get])
+v(0,1,2,3,6,7,9,10,11,12,13,14,17,18,29,30): 7.8090596199035645	 ([movie][starts][fine.][widower][children.][movie][stupid][director's][choices.][like][lets][separate.][coming][to....][better..............][hardly. "])
+v(1,2,4,5,6,7,8,9,15,16,19,20,21,22,23,24,25,26,27,28,29,30): 7.077162742614746	 ([starts][fine.][new][girlfriend][children.][movie][filled][stupid]["][" i]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(4,5,8,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28): 6.075948715209961	 ([new][girlfriend][filled][director's][choices.][like][lets][separate.]["][" i][coming]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(0,3,4,5,8,15,16,18,19,20,21,22,23,24,25,26,27,28): 4.946706771850586	 ([movie][widower][new][girlfriend][filled]["][" i][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,20,21,22,24,25,29,30): 7.80198860168457	 ([starts][fine.][new][girlfriend][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(0,1,2,3,4,5,6,7,8,9,15,16,18,20,21,22,24,25,29,30): 6.921419620513916	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][filled][stupid]["][" i][to....][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(0,3,4,5,8,10,11,12,13,14,15,16,17,18,20,21,22,24,25): 5.34120512008667	 ([movie][widower][new][girlfriend][filled][director's][choices.][like][lets][separate.]["][" i][coming][to....][what?][stupid][stupid][please][waste])
+v(1,2,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,29,30): 8.026653289794922	 ([starts][fine.][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(0,1,2,3,6,7,8,9,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30): 6.922190189361572	 ([movie][starts][fine.][widower][children.][movie][filled][stupid]["][" i][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(0,3,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 6.333688259124756	 ([movie][widower][filled][director's][choices.][like][lets][separate.]["][" i][coming][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(0,1,2,3,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,24,25,29,30): 7.8576812744140625	 ([movie][starts][fine.][widower][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming][to....][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(1,2,4,5,6,7,9,10,11,12,13,14,17,19,23,26,27,28,29,30): 8.107412338256836	 ([starts][fine.][new][girlfriend][children.][movie][stupid][director's][choices.][like][lets][separate.][coming]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(0,1,2,3,4,5,6,7,9,18,19,23,26,27,28,29,30): 6.445233345031738	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][stupid][to....]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(0,3,4,5,10,11,12,13,14,17,18,19,23,26,27,28): 5.716341972351074	 ([movie][widower][new][girlfriend][director's][choices.][like][lets][separate.][coming][to....]["][stupid.][time][hoping][get])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,17,18,29,30): 7.821413040161133	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][stupid][director's][choices.][like][lets][separate.][coming][to....][better..............][hardly. "])
+v(0,1,2,3,6,7,9,10,11,12,13,14,17,18,19,23,26,27,28,29,30): 8.094771385192871	 ([movie][starts][fine.][widower][children.][movie][stupid][director's][choices.][like][lets][separate.][coming][to....]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,29,30): 8.00149917602539	 ([starts][fine.][new][girlfriend][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(0,1,2,3,4,5,6,7,8,9,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30): 6.87166690826416	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][filled][stupid]["][" i][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(0,3,4,5,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 6.830783367156982	 ([movie][widower][new][girlfriend][filled][director's][choices.][like][lets][separate.]["][" i][coming][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,24,25,29,30): 7.8739542961120605	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming][to....][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(0,1,2,3,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 7.721025466918945	 ([movie][starts][fine.][widower][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,17,18,19,23,26,27,28,29,30): 8.048882484436035	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][stupid][director's][choices.][like][lets][separate.][coming][to....]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 7.845221996307373	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+---------- Rewards-v() ----------
+v(1,2,4,5,6,7,9,10,11,12,13,14,17,19,23,26,27,28,29,30): 7.035627841949463, EP: 1.0387085676193237	 ([starts][fine.][new][girlfriend][children.][movie][stupid][director's][choices.][like][lets][separate.][coming]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(1,2,6,7,9,10,11,12,13,14,17,19,23,26,27,28,29,30): 7.034970760345459, EP: 1.038611650466919	 ([starts][fine.][children.][movie][stupid][director's][choices.][like][lets][separate.][coming]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(0,1,2,3,6,7,9,10,11,12,13,14,17,18,19,23,26,27,28,29,30): 7.022986888885498, EP: 1.0368423461914062	 ([movie][starts][fine.][widower][children.][movie][stupid][director's][choices.][like][lets][separate.][coming][to....]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,17,18,19,23,26,27,28,29,30): 6.977097988128662, EP: 1.0300675630569458	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][stupid][director's][choices.][like][lets][separate.][coming][to....]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(1,2,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,29,30): 6.954868793487549, EP: 1.0267857313156128	 ([starts][fine.][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,29,30): 6.929714679718018, EP: 1.0230720043182373	 ([starts][fine.][new][girlfriend][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,24,25,29,30): 6.8021697998046875, EP: 1.004241943359375	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming][to....][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(0,1,2,3,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,24,25,29,30): 6.7858967781066895, EP: 1.0018393993377686	 ([movie][starts][fine.][widower][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming][to....][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 6.7734375, EP: 1.0	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,17,18,29,30): 6.74962854385376, EP: 0.9964849352836609	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][stupid][director's][choices.][like][lets][separate.][coming][to....][better..............][hardly. "])
+v(0,1,2,3,6,7,9,10,11,12,13,14,17,18,29,30): 6.737275123596191, EP: 0.9946611523628235	 ([movie][starts][fine.][widower][children.][movie][stupid][director's][choices.][like][lets][separate.][coming][to....][better..............][hardly. "])
+v(1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,20,21,22,24,25,29,30): 6.730204105377197, EP: 0.9936172366142273	 ([starts][fine.][new][girlfriend][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(1,2,6,7,8,9,10,11,12,13,14,15,16,17,20,21,22,24,25,29,30): 6.720681190490723, EP: 0.9922112822532654	 ([starts][fine.][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(0,1,2,3,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 6.649240970611572, EP: 0.9816641807556152	 ([movie][starts][fine.][widower][children.][movie][filled][stupid][director's][choices.][like][lets][separate.]["][" i][coming][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(1,2,4,5,6,7,9,10,11,12,13,14,17,29,30): 6.6407790184021, EP: 0.980414867401123	 ([starts][fine.][new][girlfriend][children.][movie][stupid][director's][choices.][like][lets][separate.][coming][better..............][hardly. "])
+v(1,2,6,7,9,10,11,12,13,14,17,29,30): 6.5610737800598145, EP: 0.9686475992202759	 ([starts][fine.][children.][movie][stupid][director's][choices.][like][lets][separate.][coming][better..............][hardly. "])
+v(1,2,4,5,6,7,8,9,15,16,19,20,21,22,23,24,25,26,27,28,29,30): 6.005378246307373, EP: 0.8866071701049805	 ([starts][fine.][new][girlfriend][children.][movie][filled][stupid]["][" i]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(0,1,2,3,6,7,8,9,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30): 5.850405693054199, EP: 0.8637276887893677	 ([movie][starts][fine.][widower][children.][movie][filled][stupid]["][" i][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(0,1,2,3,4,5,6,7,8,9,15,16,18,20,21,22,24,25,29,30): 5.849635124206543, EP: 0.8636139631271362	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][filled][stupid]["][" i][to....][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(0,1,2,3,6,7,8,9,15,16,18,20,21,22,24,25,29,30): 5.819778919219971, EP: 0.8592061400413513	 ([movie][starts][fine.][widower][children.][movie][filled][stupid]["][" i][to....][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(0,1,2,3,4,5,6,7,8,9,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30): 5.799882411956787, EP: 0.8562687039375305	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][filled][stupid]["][" i][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(0,3,4,5,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 5.758998870849609, EP: 0.8502328395843506	 ([movie][widower][new][girlfriend][filled][director's][choices.][like][lets][separate.]["][" i][coming][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(1,2,4,5,6,7,9,19,23,26,27,28,29,30): 5.393477439880371, EP: 0.796268880367279	 ([starts][fine.][new][girlfriend][children.][movie][stupid]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(1,2,4,5,6,7,8,9,15,16,20,21,22,24,25,29,30): 5.391714572906494, EP: 0.7960085868835449	 ([starts][fine.][new][girlfriend][children.][movie][filled][stupid]["][" i][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(0,1,2,3,4,5,6,7,9,18,19,23,26,27,28,29,30): 5.373448848724365, EP: 0.7933119535446167	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][stupid][to....]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(0,3,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 5.261903762817383, EP: 0.7768439054489136	 ([movie][widower][filled][director's][choices.][like][lets][separate.]["][" i][coming][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(1,2,6,7,8,9,15,16,19,20,21,22,23,24,25,26,27,28,29,30): 5.126070022583008, EP: 0.756790041923523	 ([starts][fine.][children.][movie][filled][stupid]["][" i]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get][better..............][hardly. "])
+v(0,1,2,3,4,5,6,7,9,18,29,30): 5.032663822174072, EP: 0.7429999709129333	 ([movie][starts][fine.][widower][new][girlfriend][children.][movie][stupid][to....][better..............][hardly. "])
+v(4,5,8,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28): 5.004164218902588, EP: 0.7387924194335938	 ([new][girlfriend][filled][director's][choices.][like][lets][separate.]["][" i][coming]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(0,1,2,3,6,7,9,18,19,23,26,27,28,29,30): 4.655057430267334, EP: 0.6872518658638	 ([movie][starts][fine.][widower][children.][movie][stupid][to....]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(0,3,4,5,10,11,12,13,14,17,18,19,23,26,27,28): 4.644557476043701, EP: 0.6857016682624817	 ([movie][widower][new][girlfriend][director's][choices.][like][lets][separate.][coming][to....]["][stupid.][time][hoping][get])
+v(1,2,6,7,8,9,15,16,20,21,22,24,25,29,30): 4.557747840881348, EP: 0.6728854775428772	 ([starts][fine.][children.][movie][filled][stupid]["][" i][what?][stupid][stupid][please][waste][better..............][hardly. "])
+v(0,1,2,3,6,7,9,18,29,30): 4.288094997406006, EP: 0.6330751776695251	 ([movie][starts][fine.][widower][children.][movie][stupid][to....][better..............][hardly. "])
+v(0,3,4,5,8,10,11,12,13,14,15,16,17,18,20,21,22,24,25): 4.269420623779297, EP: 0.6303181648254395	 ([movie][widower][new][girlfriend][filled][director's][choices.][like][lets][separate.]["][" i][coming][to....][what?][stupid][stupid][please][waste])
+v(1,2,6,7,9,19,23,26,27,28,29,30): 4.2371602058410645, EP: 0.6255553960800171	 ([starts][fine.][children.][movie][stupid]["][stupid.][time][hoping][get][better..............][hardly. "])
+v(0,3,4,5,18,19,23,26,27,28): 4.164866924285889, EP: 0.6148822903633118	 ([movie][widower][new][girlfriend][to....]["][stupid.][time][hoping][get])
+v(0,3,8,15,16,18,19,20,21,22,23,24,25,26,27,28): 4.1111884117126465, EP: 0.6069574356079102	 ([movie][widower][filled]["][" i][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(0,3,10,11,12,13,14,17,18,19,23,26,27,28): 3.9686570167541504, EP: 0.5859147906303406	 ([movie][widower][director's][choices.][like][lets][separate.][coming][to....]["][stupid.][time][hoping][get])
+v(8,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28): 3.9356255531311035, EP: 0.5810381174087524	 ([filled][director's][choices.][like][lets][separate.]["][" i][coming]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(0,3,4,5,8,15,16,18,19,20,21,22,23,24,25,26,27,28): 3.874922275543213, EP: 0.5720762014389038	 ([movie][widower][new][girlfriend][filled]["][" i][to....]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(0,3,18,19,23,26,27,28): 3.8665413856506348, EP: 0.5708388686180115	 ([movie][widower][to....]["][stupid.][time][hoping][get])
+v(1,2,4,5,6,7,9,29,30): 3.7934937477111816, EP: 0.5600544214248657	 ([starts][fine.][new][girlfriend][children.][movie][stupid][better..............][hardly. "])
+v(0,3,8,10,11,12,13,14,15,16,17,18,20,21,22,24,25): 3.2271480560302734, EP: 0.47644171118736267	 ([movie][widower][filled][director's][choices.][like][lets][separate.]["][" i][coming][to....][what?][stupid][stupid][please][waste])
+v(4,5,10,11,12,13,14,17,19,23,26,27,28): 3.154313564300537, EP: 0.4656887352466583	 ([new][girlfriend][director's][choices.][like][lets][separate.][coming]["][stupid.][time][hoping][get])
+v(4,5,19,23,26,27,28): 2.9572715759277344, EP: 0.4365983307361603	 ([new][girlfriend]["][stupid.][time][hoping][get])
+v(4,5,8,15,16,19,20,21,22,23,24,25,26,27,28): 2.761767864227295, EP: 0.40773504972457886	 ([new][girlfriend][filled]["][" i]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(19,23,26,27,28): 2.439481258392334, EP: 0.36015409231185913	 (["][stupid.][time][hoping][get])
+v(1,2,6,7,9,29,30): 2.3435394763946533, EP: 0.3459896743297577	 ([starts][fine.][children.][movie][stupid][better..............][hardly. "])
+v(8,15,16,19,20,21,22,23,24,25,26,27,28): 2.2982406616210938, EP: 0.3393019735813141	 ([filled]["][" i]["][what?][stupid][stupid][stupid.][please][waste][time][hoping][get])
+v(10,11,12,13,14,17,19,23,26,27,28): 2.2056832313537598, EP: 0.32563719153404236	 ([director's][choices.][like][lets][separate.][coming]["][stupid.][time][hoping][get])
+v(4,5,8,10,11,12,13,14,15,16,17,20,21,22,24,25): 1.995328664779663, EP: 0.2945813834667206	 ([new][girlfriend][filled][director's][choices.][like][lets][separate.]["][" i][coming][what?][stupid][stupid][please][waste])
+v(0,3,4,5,10,11,12,13,14,17,18): 1.9479758739471436, EP: 0.2875904440879822	 ([movie][widower][new][girlfriend][director's][choices.][like][lets][separate.][coming][to....])
+v(10,11,12,13,14,17): -1.633455753326416, EP: -0.24115610122680664	 ([director's][choices.][like][lets][separate.][coming])
+v(0,3,4,5,18): 1.220761775970459, EP: 0.18022780120372772	 ([movie][widower][new][girlfriend][to....])
+v(0,3,8,15,16,18,20,21,22,24,25): -0.7093014717102051, EP: -0.10471809655427933	 ([movie][widower][filled]["][" i][to....][what?][stupid][stupid][please][waste])
+v(0,3,18): 0.5910502672195435, EP: 0.08726001530885696	 ([movie][widower][to....])
+v(8,10,11,12,13,14,15,16,17,20,21,22,24,25): 0.5363842248916626, EP: 0.07918936759233475	 ([filled][director's][choices.][like][lets][separate.]["][" i][coming][what?][stupid][stupid][please][waste])
+v(4,5): 0.39491498470306396, EP: 0.058303482830524445	 ([new][girlfriend])
+v(8,15,16,20,21,22,24,25): -0.2506484389305115, EP: -0.037004612386226654	 ([filled]["][" i][what?][stupid][stupid][please][waste])
+v(0,3,10,11,12,13,14,17,18): 0.2460024356842041, EP: 0.03631869703531265	 ([movie][widower][director's][choices.][like][lets][separate.][coming][to....])
+v(0,3,4,5,8,15,16,18,20,21,22,24,25): -0.23892205953598022, EP: -0.03527338430285454	 ([movie][widower][new][girlfriend][filled]["][" i][to....][what?][stupid][stupid][please][waste])
+v(4,5,10,11,12,13,14,17): -0.1197972297668457, EP: -0.017686326056718826	 ([new][girlfriend][director's][choices.][like][lets][separate.][coming])
+v(4,5,8,15,16,20,21,22,24,25): -0.06306791305541992, EP: -0.009311064146459103	 ([new][girlfriend][filled]["][" i][what?][stupid][stupid][please][waste])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

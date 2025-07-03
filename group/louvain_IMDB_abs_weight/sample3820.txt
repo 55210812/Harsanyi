@@ -1,0 +1,8 @@
+louvain社区检测结果:
+社区 1: ['2', '4', '5', '3', '0', '1']: ['great', 'artist,', 'film', 'martial', 'bruce', 'lee']: 平均边权 1.3854
+社区 2: ['13', '14']: ['bruce', 'lee']: 平均边权 2.9840
+社区 3: ['47', '43', '39', '16', '48', '15', '23', '22', '9', '24', '17']: ['idea', 'cheap', 'absurd', 'result', 'rotten', 'die', 'back', 'knife', 'worst', 'neck', 'falling']: 平均边权 0.6815
+社区 4: ['25', '38', '40', '37']: ['explain', 'downright', 'then,', 'gets']: 平均边权 0.6869
+社区 5: ['20', '19', '27', '32', '21', '18', '26', '31']: ['kind', 'hit', 'helicopter', 'helicopter', 'ninja', 'helicopter', 'came', 'near']: 平均边权 0.4894
+社区 6: ['12', '8', '36', '35', '29', '34', '11', '30', '33', '10', '28', '6', '7']: ['made.', 'one', 'air.', 'feet', 'prior', '200', 'ever', 'scene', 'already', 'films', 'since', 'still', 'probably']: 平均边权 0.2741
+社区 7: ['45', '46', '49', '52', '50', '41', '42', '53', '44', '51']: ['book.', 'maybe', 'done', 'film', 'degree', 'like', 'something', 'making', 'comic', 'artistry']: 平均边权 0.4269

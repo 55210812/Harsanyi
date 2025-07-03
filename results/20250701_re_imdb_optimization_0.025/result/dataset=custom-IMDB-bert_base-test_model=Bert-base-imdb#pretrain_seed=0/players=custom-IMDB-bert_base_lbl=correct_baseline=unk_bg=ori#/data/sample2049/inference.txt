@@ -1,0 +1,69 @@
+Execution time: 2025-07-03 19:00:53
+prompt: [CLS] i could only get through about 25 mins of it. not one laugh in the 25 minutes i gave it, one of the most painful films i've ever had to endure. chris kattan is so nervous on screen that it made me nervous to watch him. just a horrible movie. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1045 decoded_text: i
+idx:2 input_id:2071 decoded_text: could
+idx:3 input_id:2069 decoded_text: only
+idx:4 input_id:2131 decoded_text: get
+idx:5 input_id:2083 decoded_text: through
+idx:6 input_id:2055 decoded_text: about
+idx:7 input_id:2423 decoded_text: 25
+idx:8 input_id:8117 decoded_text: min
+idx:9 input_id:2015 decoded_text: ##s
+idx:10 input_id:1997 decoded_text: of
+idx:11 input_id:2009 decoded_text: it
+idx:12 input_id:1012 decoded_text: .
+idx:13 input_id:2025 decoded_text: not
+idx:14 input_id:2028 decoded_text: one
+idx:15 input_id:4756 decoded_text: laugh
+idx:16 input_id:1999 decoded_text: in
+idx:17 input_id:1996 decoded_text: the
+idx:18 input_id:2423 decoded_text: 25
+idx:19 input_id:2781 decoded_text: minutes
+idx:20 input_id:1045 decoded_text: i
+idx:21 input_id:2435 decoded_text: gave
+idx:22 input_id:2009 decoded_text: it
+idx:23 input_id:1010 decoded_text: ,
+idx:24 input_id:2028 decoded_text: one
+idx:25 input_id:1997 decoded_text: of
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:2087 decoded_text: most
+idx:28 input_id:9145 decoded_text: painful
+idx:29 input_id:3152 decoded_text: films
+idx:30 input_id:1045 decoded_text: i
+idx:31 input_id:1005 decoded_text: '
+idx:32 input_id:2310 decoded_text: ve
+idx:33 input_id:2412 decoded_text: ever
+idx:34 input_id:2018 decoded_text: had
+idx:35 input_id:2000 decoded_text: to
+idx:36 input_id:18094 decoded_text: endure
+idx:37 input_id:1012 decoded_text: .
+idx:38 input_id:3782 decoded_text: chris
+idx:39 input_id:10645 decoded_text: kat
+idx:40 input_id:5794 decoded_text: ##tan
+idx:41 input_id:2003 decoded_text: is
+idx:42 input_id:2061 decoded_text: so
+idx:43 input_id:6091 decoded_text: nervous
+idx:44 input_id:2006 decoded_text: on
+idx:45 input_id:3898 decoded_text: screen
+idx:46 input_id:2008 decoded_text: that
+idx:47 input_id:2009 decoded_text: it
+idx:48 input_id:2081 decoded_text: made
+idx:49 input_id:2033 decoded_text: me
+idx:50 input_id:6091 decoded_text: nervous
+idx:51 input_id:2000 decoded_text: to
+idx:52 input_id:3422 decoded_text: watch
+idx:53 input_id:2032 decoded_text: him
+idx:54 input_id:1012 decoded_text: .
+idx:55 input_id:2074 decoded_text: just
+idx:56 input_id:1037 decoded_text: a
+idx:57 input_id:9202 decoded_text: horrible
+idx:58 input_id:3185 decoded_text: movie
+idx:59 input_id:1012 decoded_text: .
+idx:60 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.351761341094971, -3.8152358531951904]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

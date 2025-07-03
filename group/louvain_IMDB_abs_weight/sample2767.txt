@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['38', '35', '40', '39', '30', '22', '53', '33', '26', '54']: ['context', 'snippets', 'animal', 'given', '" creature', '" creature', 'liar?', 'slice - of - life', 'short', '"']: 平均边权 0.8024
+社区 2: ['16', '17', '20', '19', '18']: ['introducing', 'us', 'humor', 'twisted', 'bit']: 平均边权 0.8339
+社区 3: ['61', '48', '44', '62', '46', '47']: ['answers,', 'people', 'went', 'seeming', 'country', 'interviewing']: 平均边权 0.7028
+社区 4: ['27', '36', '32', '25', '34', '45', '49', '29', '21', '23', '37', '24', '28', '31']: ['done', 'conversation', '"', 'derived', 'show', 'across', 'innocuous', 'careers,', 'form', 'comforts', 'removed', '".', 'early', 'comforts']: 平均边权 0.6244
+社区 5: ['56', '57', '58', '52', '55', '50', '59', '51', '60']: ['things', 'bit', 'asking', '" are', 'speed', 'questions', 'sex', 'as,', 'lives.']: 平均边权 0.7045
+社区 6: ['43', '41', '42']: ['animation', 'sort.', 'aardman']: 平均边权 1.3109
+社区 7: ['12', '11', '14', '0', '9', '13', '10']: ['side', 'people', 'aardman', 'films', 'belt,', 'pond,', 'good']: 平均边权 0.5217
+社区 8: ['2', '8', '5', '63', '4', '15', '3', '1', '6', '7']: ['wallace', '"', '"', 'boring', 'gromit', 'animation,', '&', 'like', '" chicken', 'run']: 平均边权 0.3961

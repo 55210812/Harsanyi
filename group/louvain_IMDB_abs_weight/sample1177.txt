@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['2', '4', '3', '1']: ['shouting,', 'cheering,', 'screaming,', 'lots']: 平均边权 1.0208
+社区 2: ['5', '0', '21', '6', '7']: ['arguing,', 'yep,', 'would', 'celebrating,', 'fist']: 平均边权 0.4573
+社区 3: ['51', '41', '42', '43', '25', '40']: ['get', 'pretty', 'early', 'on.', 'probably', 'peg']: 平均边权 0.1995
+社区 4: ['52', '53']: ['&', 'argue,']: 平均边权 0.7213
+社区 5: ['30', '20', '27', '29', '28', '31']: ['film', 'knowledge', 'many', 'awful', 'flaws.', '&']: 平均边权 0.3820
+社区 6: ['39', '55', '56', '57', '54']: ['could', 'film.', '4', '10', 'probably']: 平均边权 0.2725
+社区 7: ['12', '8', '11', '15', '9', '10', '17']: ['fighting.', 'clinching,', '&', 'why,', 'high', 'fiving', '100']: 平均边权 0.2522
+社区 8: ['36', '35', '34', '18', '16', '50', '48', '37', '33']: ['brilliant,', 'usual', 'washington', 'certain.', 'never', 'people', 'submarine', 'plot', '&']: 平均边权 0.2731
+社区 9: ['22', '23', '19', '13', '24', '14']: ['advantage', 'finer', 'naval', 'general', 'points,', 'idea']: 平均边权 0.1653
+社区 10: ['38', '32', '46', '49', '45', '47', '44', '26']: ['one', 'hackman', 'waiting', 'film', 'still', 'see', "i'm", 'spot']: 平均边权 0.1571

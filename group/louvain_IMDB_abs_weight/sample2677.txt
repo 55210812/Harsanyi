@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['48', '35', '33', '34', '47']: ['statham', 'ritchie', 'director', 'guy', 'jason']: 平均边权 0.6539
+社区 2: ['2', '8', '20', '19', '18', '21', '4', '16', '3', '9', '1', '10', '17', '7']: ['serve', 'films', 'death', 'done', 'hand', 'm.', 'knell', 'cinematic', 'death', 'borne', 'film', '1990s.', 'slight', '"']: 平均边权 0.4586
+社区 3: ['71', '56', '61', '62', '0', '30', '67', '59', '43', '60', '28']: ['gold', 'green', 'may', 'may', 'let', 'mind.', 'gold.', 'green.', 'motif', '" )', 'variation']: 平均边权 0.3487
+社区 4: ['45', '15', '65', '46', '64']: ['obsequious', 'syndrome,', 'mastermind', 'manner.', 'criminal']: 平均边权 0.5711
+社区 5: ['38', '57', '70', '63', '66', '49', '40', '58', '39', '55', '11', '68', '69', '31']: ['" mr.', '( known', 'mr.', 'also', 'mr.', '( with', '" ),', '" mr.', 'madonna', 'jack', 'known', 'or,', 'perhaps', 'however,']: 平均边权 0.2608
+社区 6: ['12', '22', '24', '25', '26']: ['circles', 'night', 'even', 'ron', 'howard']: 平均边权 0.3157
+社区 7: ['50', '53', '36', '51', '52', '54']: ['highly', 'hair )', '( known', 'questionable', 'head', 'stars']: 平均边权 0.5906
+社区 8: ['13', '14', '23', '42']: ['kyser', 'soze', 'shayamalan', 'soze']: 平均边权 0.3759
+社区 9: ['5', '27', '32', '29', '41', '37', '44', '6']: ['big', 'used', 'revolver,', 'beautiful', 'utilizes', 'circles', 'far', 'twist']: 平均边权 0.4932

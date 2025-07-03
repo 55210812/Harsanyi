@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['12', '20', '19', '34', '18', '21', '11', '16', '15', '37', '14', '17']: ['hollywood', 'tv', 'plot', 'reserved', 'crossed', 'movie.', '"', 'grisham', 'john', 'sam', 'lightweight', 'material,']: 平均边权 0.6633
+社区 2: ['38', '48', '65', '22', '36', '25', '26']: ['kennedy,', '( gosling', 'bullock', 'bullock', 'partner', 'feisty', 'independent']: 平均边权 0.8864
+社区 3: ['27', '35', '45', '46', '49', '47', '44', '28', '31']: ['crime', 'police', 'unbalanced', 'college', 'pitt )', 'maladriots', 'two', 'investigator', 'killers.']: 平均边权 0.8762
+社区 4: ['66', '32', '4', '67', '3', '23', '24', '33']: ['chaplin', 'ben', 'schroeder', 'fail', 'barbet', 'cass', 'mayweather,', 'chaplin']: 平均边权 0.6930
+社区 5: ['39', '41', '42', '43', '40']: ['together', 'uncomfortable', 'duo.', 'good,', 'make']: 平均边权 1.3146
+社区 6: ['56', '58', '57', '10']: ['planting', 'misleading', 'clever', 'numbers']: 平均边权 0.6335
+社区 7: ['55', '8', '53', '51', '52', '54']: ['-', '( 1976 ),', 'goose', 'send', 'wild', 'chase']: 平均边权 0.3947
+社区 8: ['61', '50', '63', '62', '60', '64']: ['crime', 'decide', 'fair', 'scene.', 'evidence', 'enough,']: 平均边权 0.7452
+社区 9: ['5', '0', '9', '13', '68', '6', '7']: ['majestic', 'hard', 'seems', 'thrillers.', 'create', 'funny', 'maitresse']: 平均边权 0.3252
+社区 10: ['2', '30', '59', '1', '29']: ['director', 'serial', 'forensic', 'believe', 'specialising']: 平均边权 0.4756

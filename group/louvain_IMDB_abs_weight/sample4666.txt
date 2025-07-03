@@ -1,0 +1,8 @@
+louvain社区检测结果:
+社区 1: ['12', '48', '15', '42', '44', '1', '43']: ['movie.', 'movie,', 'movie', 'big', 'boyle,', 'movie', 'fan']: 平均边权 0.7119
+社区 2: ['4', '5', '3', '0', '41', '40', '47']: ['halloween,', 'excited.', 'night', 'heard', "i'm", 'col.', 'mood']: 平均边权 0.5390
+社区 3: ['2', '25', '45', '46', '34', '16', '22', '33', '24', '26']: ['coming', 'staying', 'seems', 'matter', 'thing', 'would', 'actually', 'think', 'job', 'true']: 平均边权 0.2394
+社区 4: ['38', '37', '36']: ['playing', 'boyle', 'movie']: 平均边权 1.3409
+社区 5: ['8', '20', '19', '27', '29', '21', '9', '10', '28', '6', '7']: ['written', 'book.', 'read', 'main', 'book,', 'writers', '1978,', 'read', 'plot', 'found', 'book,']: 平均边权 0.2876
+社区 6: ['39', '11', '23', '35', '13', '32', '14']: ['role', 'seeing', 'good', 'disappointed', "i'm", 'naturally.', 'sure']: 平均边权 0.3694
+社区 7: ['30', '17', '18', '31']: ['minor', 'much', 'different', 'differences,']: 平均边权 0.3715

@@ -1,0 +1,43 @@
+Execution time: 2025-07-02 23:09:02
+prompt: [CLS] my favorite movie. what a great story this really was. i'd just like to be able to buy a copy of it but this does not seem possible. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2026 decoded_text: my
+idx:2 input_id:5440 decoded_text: favorite
+idx:3 input_id:3185 decoded_text: movie
+idx:4 input_id:1012 decoded_text: .
+idx:5 input_id:2054 decoded_text: what
+idx:6 input_id:1037 decoded_text: a
+idx:7 input_id:2307 decoded_text: great
+idx:8 input_id:2466 decoded_text: story
+idx:9 input_id:2023 decoded_text: this
+idx:10 input_id:2428 decoded_text: really
+idx:11 input_id:2001 decoded_text: was
+idx:12 input_id:1012 decoded_text: .
+idx:13 input_id:1045 decoded_text: i
+idx:14 input_id:1005 decoded_text: '
+idx:15 input_id:1040 decoded_text: d
+idx:16 input_id:2074 decoded_text: just
+idx:17 input_id:2066 decoded_text: like
+idx:18 input_id:2000 decoded_text: to
+idx:19 input_id:2022 decoded_text: be
+idx:20 input_id:2583 decoded_text: able
+idx:21 input_id:2000 decoded_text: to
+idx:22 input_id:4965 decoded_text: buy
+idx:23 input_id:1037 decoded_text: a
+idx:24 input_id:6100 decoded_text: copy
+idx:25 input_id:1997 decoded_text: of
+idx:26 input_id:2009 decoded_text: it
+idx:27 input_id:2021 decoded_text: but
+idx:28 input_id:2023 decoded_text: this
+idx:29 input_id:2515 decoded_text: does
+idx:30 input_id:2025 decoded_text: not
+idx:31 input_id:4025 decoded_text: seem
+idx:32 input_id:2825 decoded_text: possible
+idx:33 input_id:1012 decoded_text: .
+idx:34 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.5538201332092285, 3.3294386863708496]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

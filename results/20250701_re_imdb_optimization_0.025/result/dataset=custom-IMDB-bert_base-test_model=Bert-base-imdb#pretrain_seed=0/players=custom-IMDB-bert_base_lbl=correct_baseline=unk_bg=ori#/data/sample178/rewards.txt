@@ -1,0 +1,168 @@
+---------- Players ----------
+Player 0: movie
+Player 1: incredible. with
+Player 2: great
+Player 3: characters, specially
+Player 4: old
+Player 5: swordsman
+Player 6: fly
+Player 7: shape
+Player 8: fireball
+Player 9: jump
+Player 10: across
+Player 11: trees, this
+Player 12: film
+Player 13: tells
+Player 14: classic
+Player 15: story
+Player 16: battle
+Player 17: good
+Player 18: forces
+Player 19: evil. the
+Player 20: final
+Player 21: showdown
+Player 22: specially
+Player 23: breathtaking
+Player 24: music
+Player 25: score
+Player 26: kinda
+Player 27: cool.
+Player 28: very, very
+Player 29: recommendable. not
+Player 30: smallest
+Player 31: children
+Player 32: though. this
+Player 33: one
+Player 34: deserves
+Player 35: 10.
+---------- Rewards ----------
+v(): 0.9669579863548279	 ([])
+v(28,29,30,31,32,34): 4.75255012512207	 ([very, very][recommendable. not][smallest][children][though. this][deserves])
+v(11,12,13,14,15,18): 5.883564472198486	 ([trees, this][film][tells][classic][story][forces])
+v(0,1,2,3,19,21,35): 7.14309549331665	 ([movie][incredible. with][great][characters, specially][evil. the][showdown][10.])
+v(23,24,25,26,27): 2.5562057495117188	 ([breathtaking][music][score][kinda][cool.])
+v(4,17,20,22,33): 1.5628458261489868	 ([old][good][final][specially][one])
+v(5,6,7,8,9,10,16): -0.12092956900596619	 ([swordsman][fly][shape][fireball][jump][across][battle])
+v(11,12,13,14,15,18,28,29,30,31,32,34): 8.009441375732422	 ([trees, this][film][tells][classic][story][forces][very, very][recommendable. not][smallest][children][though. this][deserves])
+v(0,1,2,3,19,21,28,29,30,31,32,34,35): 7.677204132080078	 ([movie][incredible. with][great][characters, specially][evil. the][showdown][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(23,24,25,26,27,28,29,30,31,32,34): 5.815131187438965	 ([breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves])
+v(4,17,20,22,28,29,30,31,32,33,34): 5.556976318359375	 ([old][good][final][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(5,6,7,8,9,10,16,28,29,30,31,32,34): 4.061643123626709	 ([swordsman][fly][shape][fireball][jump][across][battle][very, very][recommendable. not][smallest][children][though. this][deserves])
+v(0,1,2,3,11,12,13,14,15,18,19,21,35): 7.678469181060791	 ([movie][incredible. with][great][characters, specially][trees, this][film][tells][classic][story][forces][evil. the][showdown][10.])
+v(11,12,13,14,15,18,23,24,25,26,27): 3.824777364730835	 ([trees, this][film][tells][classic][story][forces][breathtaking][music][score][kinda][cool.])
+v(4,11,12,13,14,15,17,18,20,22,33): 6.692903518676758	 ([old][trees, this][film][tells][classic][story][good][forces][final][specially][one])
+v(5,6,7,8,9,10,11,12,13,14,15,16,18): 4.311448574066162	 ([swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces])
+v(0,1,2,3,19,21,23,24,25,26,27,35): 6.813812255859375	 ([movie][incredible. with][great][characters, specially][evil. the][showdown][breathtaking][music][score][kinda][cool.][10.])
+v(0,1,2,3,4,17,19,20,21,22,33,35): 7.442896842956543	 ([movie][incredible. with][great][characters, specially][old][good][evil. the][final][showdown][specially][one][10.])
+v(0,1,2,3,5,6,7,8,9,10,16,19,21,35): 7.3906965255737305	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][battle][evil. the][showdown][10.])
+v(4,17,20,22,23,24,25,26,27,33): 3.2695741653442383	 ([old][good][final][specially][breathtaking][music][score][kinda][cool.][one])
+v(5,6,7,8,9,10,16,23,24,25,26,27): -0.11114606261253357	 ([swordsman][fly][shape][fireball][jump][across][battle][breathtaking][music][score][kinda][cool.])
+v(4,5,6,7,8,9,10,16,17,20,22,33): 0.36756739020347595	 ([old][swordsman][fly][shape][fireball][jump][across][battle][good][final][specially][one])
+v(0,1,2,3,11,12,13,14,15,18,19,21,28,29,30,31,32,34,35): 8.018036842346191	 ([movie][incredible. with][great][characters, specially][trees, this][film][tells][classic][story][forces][evil. the][showdown][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(11,12,13,14,15,18,23,24,25,26,27,28,29,30,31,32,34): 7.745532989501953	 ([trees, this][film][tells][classic][story][forces][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves])
+v(4,11,12,13,14,15,17,18,20,22,28,29,30,31,32,33,34): 8.386481285095215	 ([old][trees, this][film][tells][classic][story][good][forces][final][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(5,6,7,8,9,10,11,12,13,14,15,16,18,28,29,30,31,32,34): 7.125828742980957	 ([swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces][very, very][recommendable. not][smallest][children][though. this][deserves])
+v(0,1,2,3,19,21,23,24,25,26,27,28,29,30,31,32,34,35): 7.585114002227783	 ([movie][incredible. with][great][characters, specially][evil. the][showdown][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(0,1,2,3,4,17,19,20,21,22,28,29,30,31,32,33,34,35): 7.939077854156494	 ([movie][incredible. with][great][characters, specially][old][good][evil. the][final][showdown][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(0,1,2,3,5,6,7,8,9,10,16,19,21,28,29,30,31,32,34,35): 7.731834411621094	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][battle][evil. the][showdown][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(4,17,20,22,23,24,25,26,27,28,29,30,31,32,33,34): 6.795528411865234	 ([old][good][final][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(5,6,7,8,9,10,16,23,24,25,26,27,28,29,30,31,32,34): 4.818907737731934	 ([swordsman][fly][shape][fireball][jump][across][battle][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves])
+v(4,5,6,7,8,9,10,16,17,20,22,28,29,30,31,32,33,34): 4.656036376953125	 ([old][swordsman][fly][shape][fireball][jump][across][battle][good][final][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(0,1,2,3,11,12,13,14,15,18,19,21,23,24,25,26,27,35): 7.6807403564453125	 ([movie][incredible. with][great][characters, specially][trees, this][film][tells][classic][story][forces][evil. the][showdown][breathtaking][music][score][kinda][cool.][10.])
+v(0,1,2,3,4,11,12,13,14,15,17,18,19,20,21,22,33,35): 7.753246307373047	 ([movie][incredible. with][great][characters, specially][old][trees, this][film][tells][classic][story][good][forces][evil. the][final][showdown][specially][one][10.])
+v(0,1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,18,19,21,35): 7.87001895904541	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces][evil. the][showdown][10.])
+v(4,11,12,13,14,15,17,18,20,22,23,24,25,26,27,33): 6.339215278625488	 ([old][trees, this][film][tells][classic][story][good][forces][final][specially][breathtaking][music][score][kinda][cool.][one])
+v(5,6,7,8,9,10,11,12,13,14,15,16,18,23,24,25,26,27): 2.1504292488098145	 ([swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces][breathtaking][music][score][kinda][cool.])
+v(4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,33): 5.293447494506836	 ([old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][final][specially][one])
+v(0,1,2,3,4,17,19,20,21,22,23,24,25,26,27,33,35): 7.555685043334961	 ([movie][incredible. with][great][characters, specially][old][good][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][one][10.])
+v(0,1,2,3,5,6,7,8,9,10,16,19,21,23,24,25,26,27,35): 7.179745197296143	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][battle][evil. the][showdown][breathtaking][music][score][kinda][cool.][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,16,17,19,20,21,22,33,35): 7.599607467651367	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][battle][good][evil. the][final][showdown][specially][one][10.])
+v(4,5,6,7,8,9,10,16,17,20,22,23,24,25,26,27,33): 3.235619306564331	 ([old][swordsman][fly][shape][fireball][jump][across][battle][good][final][specially][breathtaking][music][score][kinda][cool.][one])
+v(0,1,2,3,11,12,13,14,15,18,19,21,23,24,25,26,27,28,29,30,31,32,34,35): 7.912888526916504	 ([movie][incredible. with][great][characters, specially][trees, this][film][tells][classic][story][forces][evil. the][showdown][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(0,1,2,3,4,11,12,13,14,15,17,18,19,20,21,22,28,29,30,31,32,33,34,35): 8.24412727355957	 ([movie][incredible. with][great][characters, specially][old][trees, this][film][tells][classic][story][good][forces][evil. the][final][showdown][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(0,1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,18,19,21,28,29,30,31,32,34,35): 8.012738227844238	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces][evil. the][showdown][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(4,11,12,13,14,15,17,18,20,22,23,24,25,26,27,28,29,30,31,32,33,34): 8.37230110168457	 ([old][trees, this][film][tells][classic][story][good][forces][final][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(5,6,7,8,9,10,11,12,13,14,15,16,18,23,24,25,26,27,28,29,30,31,32,34): 6.883332252502441	 ([swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves])
+v(4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,28,29,30,31,32,33,34): 7.998429298400879	 ([old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][final][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(0,1,2,3,4,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 7.930878639221191	 ([movie][incredible. with][great][characters, specially][old][good][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(0,1,2,3,5,6,7,8,9,10,16,19,21,23,24,25,26,27,28,29,30,31,32,34,35): 7.569602966308594	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][battle][evil. the][showdown][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,16,17,19,20,21,22,28,29,30,31,32,33,34,35): 8.011987686157227	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][battle][good][evil. the][final][showdown][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(4,5,6,7,8,9,10,16,17,20,22,23,24,25,26,27,28,29,30,31,32,33,34): 6.296864032745361	 ([old][swordsman][fly][shape][fireball][jump][across][battle][good][final][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(0,1,2,3,4,11,12,13,14,15,17,18,19,20,21,22,23,24,25,26,27,33,35): 7.973293304443359	 ([movie][incredible. with][great][characters, specially][old][trees, this][film][tells][classic][story][good][forces][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][one][10.])
+v(0,1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,18,19,21,23,24,25,26,27,35): 7.775018692016602	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces][evil. the][showdown][breathtaking][music][score][kinda][cool.][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,33,35): 8.107778549194336	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][evil. the][final][showdown][specially][one][10.])
+v(4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,26,27,33): 4.481225967407227	 ([old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][final][specially][breathtaking][music][score][kinda][cool.][one])
+v(0,1,2,3,4,5,6,7,8,9,10,16,17,19,20,21,22,23,24,25,26,27,33,35): 7.61600399017334	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][battle][good][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][one][10.])
+v(0,1,2,3,4,11,12,13,14,15,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 8.18867015838623	 ([movie][incredible. with][great][characters, specially][old][trees, this][film][tells][classic][story][good][forces][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(0,1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,18,19,21,23,24,25,26,27,28,29,30,31,32,34,35): 7.7734527587890625	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces][evil. the][showdown][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,28,29,30,31,32,33,34,35): 8.413858413696289	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][evil. the][final][showdown][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,26,27,28,29,30,31,32,33,34): 7.659006118774414	 ([old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][final][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(0,1,2,3,4,5,6,7,8,9,10,16,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 7.961469650268555	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][battle][good][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,33,35): 8.14793586730957	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][one][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 8.232465744018555	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,28,29,30,31,32,33,34,35): 7.446900367736816, EP: 1.0249662399291992	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][evil. the][final][showdown][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(4,11,12,13,14,15,17,18,20,22,28,29,30,31,32,33,34): 7.419523239135742, EP: 1.0211981534957886	 ([old][trees, this][film][tells][classic][story][good][forces][final][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(4,11,12,13,14,15,17,18,20,22,23,24,25,26,27,28,29,30,31,32,33,34): 7.405343055725098, EP: 1.0192464590072632	 ([old][trees, this][film][tells][classic][story][good][forces][final][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(0,1,2,3,4,11,12,13,14,15,17,18,19,20,21,22,28,29,30,31,32,33,34,35): 7.277169227600098, EP: 1.0016050338745117	 ([movie][incredible. with][great][characters, specially][old][trees, this][film][tells][classic][story][good][forces][evil. the][final][showdown][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 7.265507698059082, EP: 1.0	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(0,1,2,3,4,11,12,13,14,15,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 7.221712112426758, EP: 0.99397212266922	 ([movie][incredible. with][great][characters, specially][old][trees, this][film][tells][classic][story][good][forces][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,33,35): 7.180977821350098, EP: 0.9883655905723572	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][one][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,33,35): 7.140820503234863, EP: 0.9828384518623352	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][evil. the][final][showdown][specially][one][10.])
+v(0,1,2,3,11,12,13,14,15,18,19,21,28,29,30,31,32,34,35): 7.051078796386719, EP: 0.9704867005348206	 ([movie][incredible. with][great][characters, specially][trees, this][film][tells][classic][story][forces][evil. the][showdown][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(0,1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,18,19,21,28,29,30,31,32,34,35): 7.045780181884766, EP: 0.9697574377059937	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces][evil. the][showdown][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,16,17,19,20,21,22,28,29,30,31,32,33,34,35): 7.045029640197754, EP: 0.9696541428565979	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][battle][good][evil. the][final][showdown][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(11,12,13,14,15,18,28,29,30,31,32,34): 7.042483329772949, EP: 0.9693036675453186	 ([trees, this][film][tells][classic][story][forces][very, very][recommendable. not][smallest][children][though. this][deserves])
+v(4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,28,29,30,31,32,33,34): 7.031471252441406, EP: 0.96778804063797	 ([old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][final][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(0,1,2,3,4,11,12,13,14,15,17,18,19,20,21,22,23,24,25,26,27,33,35): 7.006335258483887, EP: 0.964328408241272	 ([movie][incredible. with][great][characters, specially][old][trees, this][film][tells][classic][story][good][forces][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][one][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,16,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 6.994511604309082, EP: 0.9627010226249695	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][battle][good][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(0,1,2,3,4,17,19,20,21,22,28,29,30,31,32,33,34,35): 6.9721198081970215, EP: 0.9596191048622131	 ([movie][incredible. with][great][characters, specially][old][good][evil. the][final][showdown][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(0,1,2,3,4,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35): 6.963920593261719, EP: 0.9584905505180359	 ([movie][incredible. with][great][characters, specially][old][good][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves][10.])
+v(0,1,2,3,11,12,13,14,15,18,19,21,23,24,25,26,27,28,29,30,31,32,34,35): 6.945930480957031, EP: 0.9560144543647766	 ([movie][incredible. with][great][characters, specially][trees, this][film][tells][classic][story][forces][evil. the][showdown][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(0,1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,18,19,21,35): 6.9030609130859375, EP: 0.9501140713691711	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces][evil. the][showdown][10.])
+v(0,1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,18,19,21,23,24,25,26,27,35): 6.808060646057129, EP: 0.9370385408401489	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces][evil. the][showdown][breathtaking][music][score][kinda][cool.][10.])
+v(0,1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,18,19,21,23,24,25,26,27,28,29,30,31,32,34,35): 6.80649471282959, EP: 0.9368230104446411	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces][evil. the][showdown][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(0,1,2,3,4,11,12,13,14,15,17,18,19,20,21,22,33,35): 6.786288261413574, EP: 0.9340418577194214	 ([movie][incredible. with][great][characters, specially][old][trees, this][film][tells][classic][story][good][forces][evil. the][final][showdown][specially][one][10.])
+v(11,12,13,14,15,18,23,24,25,26,27,28,29,30,31,32,34): 6.7785749435424805, EP: 0.9329802393913269	 ([trees, this][film][tells][classic][story][forces][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves])
+v(0,1,2,3,5,6,7,8,9,10,16,19,21,28,29,30,31,32,34,35): 6.764876365661621, EP: 0.931094765663147	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][battle][evil. the][showdown][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(0,1,2,3,11,12,13,14,15,18,19,21,23,24,25,26,27,35): 6.71378231048584, EP: 0.9240623712539673	 ([movie][incredible. with][great][characters, specially][trees, this][film][tells][classic][story][forces][evil. the][showdown][breathtaking][music][score][kinda][cool.][10.])
+v(0,1,2,3,11,12,13,14,15,18,19,21,35): 6.711511135101318, EP: 0.9237498044967651	 ([movie][incredible. with][great][characters, specially][trees, this][film][tells][classic][story][forces][evil. the][showdown][10.])
+v(0,1,2,3,19,21,28,29,30,31,32,34,35): 6.7102460861206055, EP: 0.9235756397247314	 ([movie][incredible. with][great][characters, specially][evil. the][showdown][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,26,27,28,29,30,31,32,33,34): 6.692048072814941, EP: 0.92107093334198	 ([old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][final][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(0,1,2,3,4,5,6,7,8,9,10,16,17,19,20,21,22,23,24,25,26,27,33,35): 6.649045944213867, EP: 0.9151522517204285	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][battle][good][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][one][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,16,17,19,20,21,22,33,35): 6.6326494216918945, EP: 0.9128955006599426	 ([movie][incredible. with][great][characters, specially][old][swordsman][fly][shape][fireball][jump][across][battle][good][evil. the][final][showdown][specially][one][10.])
+v(0,1,2,3,19,21,23,24,25,26,27,28,29,30,31,32,34,35): 6.6181559562683105, EP: 0.9109007120132446	 ([movie][incredible. with][great][characters, specially][evil. the][showdown][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(0,1,2,3,5,6,7,8,9,10,16,19,21,23,24,25,26,27,28,29,30,31,32,34,35): 6.602644920349121, EP: 0.9087657928466797	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][battle][evil. the][showdown][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves][10.])
+v(0,1,2,3,4,17,19,20,21,22,23,24,25,26,27,33,35): 6.588726997375488, EP: 0.9068501591682434	 ([movie][incredible. with][great][characters, specially][old][good][evil. the][final][showdown][specially][breathtaking][music][score][kinda][cool.][one][10.])
+v(0,1,2,3,4,17,19,20,21,22,33,35): 6.47593879699707, EP: 0.891326367855072	 ([movie][incredible. with][great][characters, specially][old][good][evil. the][final][showdown][specially][one][10.])
+v(0,1,2,3,5,6,7,8,9,10,16,19,21,35): 6.423738479614258, EP: 0.884141743183136	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][battle][evil. the][showdown][10.])
+v(0,1,2,3,5,6,7,8,9,10,16,19,21,23,24,25,26,27,35): 6.21278715133667, EP: 0.8551070690155029	 ([movie][incredible. with][great][characters, specially][swordsman][fly][shape][fireball][jump][across][battle][evil. the][showdown][breathtaking][music][score][kinda][cool.][10.])
+v(0,1,2,3,19,21,35): 6.176137447357178, EP: 0.8500627279281616	 ([movie][incredible. with][great][characters, specially][evil. the][showdown][10.])
+v(5,6,7,8,9,10,11,12,13,14,15,16,18,28,29,30,31,32,34): 6.158870697021484, EP: 0.847686231136322	 ([swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces][very, very][recommendable. not][smallest][children][though. this][deserves])
+v(5,6,7,8,9,10,11,12,13,14,15,16,18,23,24,25,26,27,28,29,30,31,32,34): 5.916374206542969, EP: 0.81430983543396	 ([swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves])
+v(0,1,2,3,19,21,23,24,25,26,27,35): 5.846854209899902, EP: 0.8047413229942322	 ([movie][incredible. with][great][characters, specially][evil. the][showdown][breathtaking][music][score][kinda][cool.][10.])
+v(4,17,20,22,23,24,25,26,27,28,29,30,31,32,33,34): 5.828570365905762, EP: 0.8022248148918152	 ([old][good][final][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(4,11,12,13,14,15,17,18,20,22,33): 5.725945472717285, EP: 0.7880998253822327	 ([old][trees, this][film][tells][classic][story][good][forces][final][specially][one])
+v(4,11,12,13,14,15,17,18,20,22,23,24,25,26,27,33): 5.372257232666016, EP: 0.7394194006919861	 ([old][trees, this][film][tells][classic][story][good][forces][final][specially][breathtaking][music][score][kinda][cool.][one])
+v(4,5,6,7,8,9,10,16,17,20,22,23,24,25,26,27,28,29,30,31,32,33,34): 5.329905986785889, EP: 0.733590304851532	 ([old][swordsman][fly][shape][fireball][jump][across][battle][good][final][specially][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(11,12,13,14,15,18): 4.916606426239014, EP: 0.6767051219940186	 ([trees, this][film][tells][classic][story][forces])
+v(23,24,25,26,27,28,29,30,31,32,34): 4.848173141479492, EP: 0.667286217212677	 ([breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves])
+v(4,17,20,22,28,29,30,31,32,33,34): 4.590018272399902, EP: 0.6317546367645264	 ([old][good][final][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,33): 4.326489448547363, EP: 0.5954834222793579	 ([old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][final][specially][one])
+v(5,6,7,8,9,10,16,23,24,25,26,27,28,29,30,31,32,34): 3.851949691772461, EP: 0.5301693677902222	 ([swordsman][fly][shape][fireball][jump][across][battle][breathtaking][music][score][kinda][cool.][very, very][recommendable. not][smallest][children][though. this][deserves])
+v(28,29,30,31,32,34): 3.7855920791625977, EP: 0.5210361480712891	 ([very, very][recommendable. not][smallest][children][though. this][deserves])
+v(4,5,6,7,8,9,10,16,17,20,22,28,29,30,31,32,33,34): 3.6890783309936523, EP: 0.5077522993087769	 ([old][swordsman][fly][shape][fireball][jump][across][battle][good][final][specially][very, very][recommendable. not][smallest][children][though. this][one][deserves])
+v(4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,26,27,33): 3.514267921447754, EP: 0.4836919903755188	 ([old][swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][good][forces][final][specially][breathtaking][music][score][kinda][cool.][one])
+v(5,6,7,8,9,10,11,12,13,14,15,16,18): 3.3444905281066895, EP: 0.46032440662384033	 ([swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces])
+v(5,6,7,8,9,10,16,28,29,30,31,32,34): 3.0946850776672363, EP: 0.4259420335292816	 ([swordsman][fly][shape][fireball][jump][across][battle][very, very][recommendable. not][smallest][children][though. this][deserves])
+v(11,12,13,14,15,18,23,24,25,26,27): 2.8578193187713623, EP: 0.3933406174182892	 ([trees, this][film][tells][classic][story][forces][breathtaking][music][score][kinda][cool.])
+v(4,17,20,22,23,24,25,26,27,33): 2.3026161193847656, EP: 0.3169243335723877	 ([old][good][final][specially][breathtaking][music][score][kinda][cool.][one])
+v(4,5,6,7,8,9,10,16,17,20,22,23,24,25,26,27,33): 2.2686612606048584, EP: 0.31225088238716125	 ([old][swordsman][fly][shape][fireball][jump][across][battle][good][final][specially][breathtaking][music][score][kinda][cool.][one])
+v(23,24,25,26,27): 1.589247703552246, EP: 0.21873870491981506	 ([breathtaking][music][score][kinda][cool.])
+v(5,6,7,8,9,10,11,12,13,14,15,16,18,23,24,25,26,27): 1.1834712028503418, EP: 0.16288898885250092	 ([swordsman][fly][shape][fireball][jump][across][trees, this][film][tells][classic][story][battle][forces][breathtaking][music][score][kinda][cool.])
+v(5,6,7,8,9,10,16): -1.0878875255584717, EP: -0.14973317086696625	 ([swordsman][fly][shape][fireball][jump][across][battle])
+v(5,6,7,8,9,10,16,23,24,25,26,27): -1.078104019165039, EP: -0.14838659763336182	 ([swordsman][fly][shape][fireball][jump][across][battle][breathtaking][music][score][kinda][cool.])
+v(4,5,6,7,8,9,10,16,17,20,22,33): -0.5993906259536743, EP: -0.08249810338020325	 ([old][swordsman][fly][shape][fireball][jump][across][battle][good][final][specially][one])
+v(4,17,20,22,33): 0.5958878397941589, EP: 0.0820159912109375	 ([old][good][final][specially][one])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

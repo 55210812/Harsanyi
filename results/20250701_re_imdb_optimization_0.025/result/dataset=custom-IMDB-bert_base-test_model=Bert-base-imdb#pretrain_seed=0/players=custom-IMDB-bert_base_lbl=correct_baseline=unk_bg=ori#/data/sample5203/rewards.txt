@@ -1,0 +1,95 @@
+---------- Players ----------
+Player 0: started
+Player 1: watch
+Player 2: movie
+Player 3: vh - 1
+Player 4: cringed.
+Player 5: mtv
+Player 6: movies
+Player 7: bad
+Player 8: wasnt
+Player 9: expecting
+Player 10: much.
+Player 11: movie
+Player 12: really
+Player 13: good.
+Player 14: liked
+Player 15: lot.
+Player 16: even
+Player 17: twist
+Player 18: end.
+Player 19: see
+Player 20: movie
+Player 21: shows
+Player 22: made
+Player 23: tv
+Player 24: movies
+Player 25: good
+Player 26: exist.
+---------- Rewards ----------
+v(): -0.0008669197559356689	 ([])
+v(1,3,4,5,6,9): -4.799665451049805	 ([watch][vh - 1][cringed.][mtv][movies][expecting])
+v(7,8,10,11,12): -2.027736186981201	 ([bad][wasnt][much.][movie][really])
+v(0,2,13,14,15,16): 6.217364311218262	 ([started][movie][good.][liked][lot.][even])
+v(18,20,21,22,23,24,25): 0.42739737033843994	 ([end.][movie][shows][made][tv][movies][good])
+v(17,19,26): 0.6026479601860046	 ([twist][see][exist.])
+v(1,3,4,5,6,7,8,9,10,11,12): -3.0355124473571777	 ([watch][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really])
+v(0,1,2,3,4,5,6,9,13,14,15,16): 5.618281364440918	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][expecting][good.][liked][lot.][even])
+v(1,3,4,5,6,9,18,20,21,22,23,24,25): -4.785248756408691	 ([watch][vh - 1][cringed.][mtv][movies][expecting][end.][movie][shows][made][tv][movies][good])
+v(1,3,4,5,6,9,17,19,26): -4.39223575592041	 ([watch][vh - 1][cringed.][mtv][movies][expecting][twist][see][exist.])
+v(0,2,7,8,10,11,12,13,14,15,16): 7.175782680511475	 ([started][movie][bad][wasnt][much.][movie][really][good.][liked][lot.][even])
+v(7,8,10,11,12,18,20,21,22,23,24,25): -1.3875519037246704	 ([bad][wasnt][much.][movie][really][end.][movie][shows][made][tv][movies][good])
+v(7,8,10,11,12,17,19,26): -0.8499209880828857	 ([bad][wasnt][much.][movie][really][twist][see][exist.])
+v(0,2,13,14,15,16,18,20,21,22,23,24,25): 5.245896339416504	 ([started][movie][good.][liked][lot.][even][end.][movie][shows][made][tv][movies][good])
+v(0,2,13,14,15,16,17,19,26): 6.719961166381836	 ([started][movie][good.][liked][lot.][even][twist][see][exist.])
+v(17,18,19,20,21,22,23,24,25,26): 1.8486186265945435	 ([twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16): 6.409668922424316	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really][good.][liked][lot.][even])
+v(1,3,4,5,6,7,8,9,10,11,12,18,20,21,22,23,24,25): -3.2862517833709717	 ([watch][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really][end.][movie][shows][made][tv][movies][good])
+v(1,3,4,5,6,7,8,9,10,11,12,17,19,26): -1.6520599126815796	 ([watch][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really][twist][see][exist.])
+v(0,1,2,3,4,5,6,9,13,14,15,16,18,20,21,22,23,24,25): 4.435495853424072	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][expecting][good.][liked][lot.][even][end.][movie][shows][made][tv][movies][good])
+v(0,1,2,3,4,5,6,9,13,14,15,16,17,19,26): 5.930346488952637	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][expecting][good.][liked][lot.][even][twist][see][exist.])
+v(1,3,4,5,6,9,17,18,19,20,21,22,23,24,25,26): -3.4942619800567627	 ([watch][vh - 1][cringed.][mtv][movies][expecting][twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(0,2,7,8,10,11,12,13,14,15,16,18,20,21,22,23,24,25): 5.741470813751221	 ([started][movie][bad][wasnt][much.][movie][really][good.][liked][lot.][even][end.][movie][shows][made][tv][movies][good])
+v(0,2,7,8,10,11,12,13,14,15,16,17,19,26): 7.263045310974121	 ([started][movie][bad][wasnt][much.][movie][really][good.][liked][lot.][even][twist][see][exist.])
+v(7,8,10,11,12,17,18,19,20,21,22,23,24,25,26): 0.35018643736839294	 ([bad][wasnt][much.][movie][really][twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(0,2,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 5.982566833496094	 ([started][movie][good.][liked][lot.][even][twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,20,21,22,23,24,25): 5.1428375244140625	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really][good.][liked][lot.][even][end.][movie][shows][made][tv][movies][good])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,26): 6.460840225219727	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really][good.][liked][lot.][even][twist][see][exist.])
+v(1,3,4,5,6,7,8,9,10,11,12,17,18,19,20,21,22,23,24,25,26): -1.7531874179840088	 ([watch][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really][twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(0,1,2,3,4,5,6,9,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 5.477673530578613	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][expecting][good.][liked][lot.][even][twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(0,2,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 6.464459419250488	 ([started][movie][bad][wasnt][much.][movie][really][good.][liked][lot.][even][twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 5.967700481414795	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really][good.][liked][lot.][even][twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+---------- Rewards-v() ----------
+v(0,2,7,8,10,11,12,13,14,15,16,17,19,26): 7.263912200927734, EP: 1.2170277833938599	 ([started][movie][bad][wasnt][much.][movie][really][good.][liked][lot.][even][twist][see][exist.])
+v(0,2,7,8,10,11,12,13,14,15,16): 7.176649570465088, EP: 1.2024073600769043	 ([started][movie][bad][wasnt][much.][movie][really][good.][liked][lot.][even])
+v(0,2,13,14,15,16,17,19,26): 6.720828056335449, EP: 1.1260370016098022	 ([started][movie][good.][liked][lot.][even][twist][see][exist.])
+v(0,2,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 6.465326309204102, EP: 1.0832291841506958	 ([started][movie][bad][wasnt][much.][movie][really][good.][liked][lot.][even][twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,26): 6.46170711517334, EP: 1.082622766494751	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really][good.][liked][lot.][even][twist][see][exist.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16): 6.41053581237793, EP: 1.0740493535995483	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really][good.][liked][lot.][even])
+v(0,2,13,14,15,16): 6.218231201171875, EP: 1.0418298244476318	 ([started][movie][good.][liked][lot.][even])
+v(0,2,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 5.983433723449707, EP: 1.002490758895874	 ([started][movie][good.][liked][lot.][even][twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 5.968567371368408, EP: 1.0	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really][good.][liked][lot.][even][twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(0,1,2,3,4,5,6,9,13,14,15,16,17,19,26): 5.93121337890625, EP: 0.9937415719032288	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][expecting][good.][liked][lot.][even][twist][see][exist.])
+v(0,2,7,8,10,11,12,13,14,15,16,18,20,21,22,23,24,25): 5.742337703704834, EP: 0.9620965123176575	 ([started][movie][bad][wasnt][much.][movie][really][good.][liked][lot.][even][end.][movie][shows][made][tv][movies][good])
+v(0,1,2,3,4,5,6,9,13,14,15,16): 5.619148254394531, EP: 0.9414567947387695	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][expecting][good.][liked][lot.][even])
+v(0,1,2,3,4,5,6,9,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 5.478540420532227, EP: 0.9178987145423889	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][expecting][good.][liked][lot.][even][twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(0,2,13,14,15,16,18,20,21,22,23,24,25): 5.246763229370117, EP: 0.879065752029419	 ([started][movie][good.][liked][lot.][even][end.][movie][shows][made][tv][movies][good])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,20,21,22,23,24,25): 5.143704414367676, EP: 0.8617988228797913	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really][good.][liked][lot.][even][end.][movie][shows][made][tv][movies][good])
+v(1,3,4,5,6,9): -4.798798561096191, EP: -0.8040118217468262	 ([watch][vh - 1][cringed.][mtv][movies][expecting])
+v(1,3,4,5,6,9,18,20,21,22,23,24,25): -4.784381866455078, EP: -0.8015963435173035	 ([watch][vh - 1][cringed.][mtv][movies][expecting][end.][movie][shows][made][tv][movies][good])
+v(0,1,2,3,4,5,6,9,13,14,15,16,18,20,21,22,23,24,25): 4.4363627433776855, EP: 0.7432876825332642	 ([started][watch][movie][vh - 1][cringed.][mtv][movies][expecting][good.][liked][lot.][even][end.][movie][shows][made][tv][movies][good])
+v(1,3,4,5,6,9,17,19,26): -4.391368865966797, EP: -0.7357492446899414	 ([watch][vh - 1][cringed.][mtv][movies][expecting][twist][see][exist.])
+v(1,3,4,5,6,9,17,18,19,20,21,22,23,24,25,26): -3.4933950901031494, EP: -0.5852987766265869	 ([watch][vh - 1][cringed.][mtv][movies][expecting][twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(1,3,4,5,6,7,8,9,10,11,12,18,20,21,22,23,24,25): -3.2853848934173584, EP: -0.5504478216171265	 ([watch][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really][end.][movie][shows][made][tv][movies][good])
+v(1,3,4,5,6,7,8,9,10,11,12): -3.0346455574035645, EP: -0.5084378719329834	 ([watch][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really])
+v(7,8,10,11,12): -2.026869297027588, EP: -0.33959057927131653	 ([bad][wasnt][much.][movie][really])
+v(17,18,19,20,21,22,23,24,25,26): 1.8494855165481567, EP: 0.3098709285259247	 ([twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(1,3,4,5,6,7,8,9,10,11,12,17,18,19,20,21,22,23,24,25,26): -1.7523205280303955, EP: -0.2935914695262909	 ([watch][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really][twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(1,3,4,5,6,7,8,9,10,11,12,17,19,26): -1.6511930227279663, EP: -0.2766481339931488	 ([watch][vh - 1][cringed.][mtv][movies][bad][wasnt][expecting][much.][movie][really][twist][see][exist.])
+v(7,8,10,11,12,18,20,21,22,23,24,25): -1.3866850137710571, EP: -0.2323313057422638	 ([bad][wasnt][much.][movie][really][end.][movie][shows][made][tv][movies][good])
+v(7,8,10,11,12,17,19,26): -0.8490540981292725, EP: -0.14225424826145172	 ([bad][wasnt][much.][movie][really][twist][see][exist.])
+v(17,19,26): 0.6035149097442627, EP: 0.10111553966999054	 ([twist][see][exist.])
+v(18,20,21,22,23,24,25): 0.4282642900943756, EP: 0.07175327837467194	 ([end.][movie][shows][made][tv][movies][good])
+v(7,8,10,11,12,17,18,19,20,21,22,23,24,25,26): 0.3510533571243286, EP: 0.058817021548748016	 ([bad][wasnt][much.][movie][really][twist][end.][see][movie][shows][made][tv][movies][good][exist.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

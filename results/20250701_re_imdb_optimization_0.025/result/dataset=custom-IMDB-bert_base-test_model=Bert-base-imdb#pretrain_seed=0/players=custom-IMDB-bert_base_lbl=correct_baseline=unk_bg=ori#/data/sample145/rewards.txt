@@ -1,0 +1,159 @@
+---------- Players ----------
+Player 0: perhaps
+Player 1: love
+Player 2: william
+Player 3: holden
+Player 4: -
+Player 5: kim
+Player 6: novak
+Player 7: version,
+Player 8: i'm
+Player 9: gen - x'er,
+Player 10: absolutely
+Player 11: worst
+Player 12: remake
+Player 13: ever
+Player 14: seen.
+Player 15: without
+Player 16: original's
+Player 17: soundtrack,
+Player 18: seemed
+Player 19: like
+Player 20: another
+Player 21: typical
+Player 22: tv
+Player 23: movie... yes,
+Player 24: bland
+Player 25: kraft
+Player 26: cheese.
+---------- Rewards ----------
+v(): -1.1024583578109741	 ([])
+v(0,10,13,23,25): -7.612760066986084	 ([perhaps][absolutely][ever][movie... yes,][kraft])
+v(7,9,12,22): -1.0452216863632202	 ([version,][gen - x'er,][remake][tv])
+v(1,2,3,4,5,6): -5.354135036468506	 ([love][william][holden][-][kim][novak])
+v(14,16,17,18,19,21,26): 4.376723289489746	 ([seen.][original's][soundtrack,][seemed][like][typical][cheese.])
+v(8): -0.7112336158752441	 ([i'm])
+v(11,15,20,24): 7.279809951782227	 ([worst][without][another][bland])
+v(0,7,9,10,12,13,22,23,25): -7.482538223266602	 ([perhaps][version,][gen - x'er,][absolutely][remake][ever][tv][movie... yes,][kraft])
+v(0,1,2,3,4,5,6,10,13,23,25): -8.451454162597656	 ([perhaps][love][william][holden][-][kim][novak][absolutely][ever][movie... yes,][kraft])
+v(0,10,13,14,16,17,18,19,21,23,25,26): -4.515350818634033	 ([perhaps][absolutely][ever][seen.][original's][soundtrack,][seemed][like][typical][movie... yes,][kraft][cheese.])
+v(0,8,10,13,23,25): -7.359210014343262	 ([perhaps][i'm][absolutely][ever][movie... yes,][kraft])
+v(0,10,11,13,15,20,23,24,25): 8.166938781738281	 ([perhaps][absolutely][worst][ever][without][another][movie... yes,][bland][kraft])
+v(1,2,3,4,5,6,7,9,12,22): -3.200644016265869	 ([love][william][holden][-][kim][novak][version,][gen - x'er,][remake][tv])
+v(7,9,12,14,16,17,18,19,21,22,26): 6.229578971862793	 ([version,][gen - x'er,][remake][seen.][original's][soundtrack,][seemed][like][typical][tv][cheese.])
+v(7,8,9,12,22): -0.566418468952179	 ([version,][i'm][gen - x'er,][remake][tv])
+v(7,9,11,12,15,20,22,24): 8.092031478881836	 ([version,][gen - x'er,][worst][remake][without][another][tv][bland])
+v(1,2,3,4,5,6,14,16,17,18,19,21,26): -3.8167619705200195	 ([love][william][holden][-][kim][novak][seen.][original's][soundtrack,][seemed][like][typical][cheese.])
+v(1,2,3,4,5,6,8): -5.403982162475586	 ([love][william][holden][-][kim][novak][i'm])
+v(1,2,3,4,5,6,11,15,20,24): 7.801964282989502	 ([love][william][holden][-][kim][novak][worst][without][another][bland])
+v(8,14,16,17,18,19,21,26): 4.226061820983887	 ([i'm][seen.][original's][soundtrack,][seemed][like][typical][cheese.])
+v(11,14,15,16,17,18,19,20,21,24,26): 8.452922821044922	 ([worst][seen.][without][original's][soundtrack,][seemed][like][another][typical][bland][cheese.])
+v(8,11,15,20,24): 7.4745988845825195	 ([i'm][worst][without][another][bland])
+v(0,1,2,3,4,5,6,7,9,10,12,13,22,23,25): -8.34658432006836	 ([perhaps][love][william][holden][-][kim][novak][version,][gen - x'er,][absolutely][remake][ever][tv][movie... yes,][kraft])
+v(0,7,9,10,12,13,14,16,17,18,19,21,22,23,25,26): -2.7756481170654297	 ([perhaps][version,][gen - x'er,][absolutely][remake][ever][seen.][original's][soundtrack,][seemed][like][typical][tv][movie... yes,][kraft][cheese.])
+v(0,7,8,9,10,12,13,22,23,25): -7.550425052642822	 ([perhaps][version,][i'm][gen - x'er,][absolutely][remake][ever][tv][movie... yes,][kraft])
+v(0,7,9,10,11,12,13,15,20,22,23,24,25): 8.477365493774414	 ([perhaps][version,][gen - x'er,][absolutely][worst][remake][ever][without][another][tv][movie... yes,][bland][kraft])
+v(0,1,2,3,4,5,6,10,13,14,16,17,18,19,21,23,25,26): -7.968591690063477	 ([perhaps][love][william][holden][-][kim][novak][absolutely][ever][seen.][original's][soundtrack,][seemed][like][typical][movie... yes,][kraft][cheese.])
+v(0,1,2,3,4,5,6,8,10,13,23,25): -8.145792007446289	 ([perhaps][love][william][holden][-][kim][novak][i'm][absolutely][ever][movie... yes,][kraft])
+v(0,1,2,3,4,5,6,10,11,13,15,20,23,24,25): 8.35385513305664	 ([perhaps][love][william][holden][-][kim][novak][absolutely][worst][ever][without][another][movie... yes,][bland][kraft])
+v(0,8,10,13,14,16,17,18,19,21,23,25,26): -4.722657203674316	 ([perhaps][i'm][absolutely][ever][seen.][original's][soundtrack,][seemed][like][typical][movie... yes,][kraft][cheese.])
+v(0,10,11,13,14,15,16,17,18,19,20,21,23,24,25,26): 8.599302291870117	 ([perhaps][absolutely][worst][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][movie... yes,][bland][kraft][cheese.])
+v(0,8,10,11,13,15,20,23,24,25): 8.212251663208008	 ([perhaps][i'm][absolutely][worst][ever][without][another][movie... yes,][bland][kraft])
+v(1,2,3,4,5,6,7,9,12,14,16,17,18,19,21,22,26): 2.8290562629699707	 ([love][william][holden][-][kim][novak][version,][gen - x'er,][remake][seen.][original's][soundtrack,][seemed][like][typical][tv][cheese.])
+v(1,2,3,4,5,6,7,8,9,12,22): -2.84523868560791	 ([love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][remake][tv])
+v(1,2,3,4,5,6,7,9,11,12,15,20,22,24): 8.320184707641602	 ([love][william][holden][-][kim][novak][version,][gen - x'er,][worst][remake][without][another][tv][bland])
+v(7,8,9,12,14,16,17,18,19,21,22,26): 6.2586798667907715	 ([version,][i'm][gen - x'er,][remake][seen.][original's][soundtrack,][seemed][like][typical][tv][cheese.])
+v(7,9,11,12,14,15,16,17,18,19,20,21,22,24,26): 8.627164840698242	 ([version,][gen - x'er,][worst][remake][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][bland][cheese.])
+v(7,8,9,11,12,15,20,22,24): 8.184304237365723	 ([version,][i'm][gen - x'er,][worst][remake][without][another][tv][bland])
+v(1,2,3,4,5,6,8,14,16,17,18,19,21,26): -3.538595676422119	 ([love][william][holden][-][kim][novak][i'm][seen.][original's][soundtrack,][seemed][like][typical][cheese.])
+v(1,2,3,4,5,6,11,14,15,16,17,18,19,20,21,24,26): 8.51718521118164	 ([love][william][holden][-][kim][novak][worst][seen.][without][original's][soundtrack,][seemed][like][another][typical][bland][cheese.])
+v(1,2,3,4,5,6,8,11,15,20,24): 7.957912921905518	 ([love][william][holden][-][kim][novak][i'm][worst][without][another][bland])
+v(8,11,14,15,16,17,18,19,20,21,24,26): 8.484373092651367	 ([i'm][worst][seen.][without][original's][soundtrack,][seemed][like][another][typical][bland][cheese.])
+v(0,1,2,3,4,5,6,7,9,10,12,13,14,16,17,18,19,21,22,23,25,26): -4.925185680389404	 ([perhaps][love][william][holden][-][kim][novak][version,][gen - x'er,][absolutely][remake][ever][seen.][original's][soundtrack,][seemed][like][typical][tv][movie... yes,][kraft][cheese.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,22,23,25): -8.23360824584961	 ([perhaps][love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][absolutely][remake][ever][tv][movie... yes,][kraft])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,15,20,22,23,24,25): 8.598297119140625	 ([perhaps][love][william][holden][-][kim][novak][version,][gen - x'er,][absolutely][worst][remake][ever][without][another][tv][movie... yes,][bland][kraft])
+v(0,7,8,9,10,12,13,14,16,17,18,19,21,22,23,25,26): -3.5428171157836914	 ([perhaps][version,][i'm][gen - x'er,][absolutely][remake][ever][seen.][original's][soundtrack,][seemed][like][typical][tv][movie... yes,][kraft][cheese.])
+v(0,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.704440116882324	 ([perhaps][version,][gen - x'er,][absolutely][worst][remake][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][movie... yes,][bland][kraft][cheese.])
+v(0,7,8,9,10,11,12,13,15,20,22,23,24,25): 8.52833366394043	 ([perhaps][version,][i'm][gen - x'er,][absolutely][worst][remake][ever][without][another][tv][movie... yes,][bland][kraft])
+v(0,1,2,3,4,5,6,8,10,13,14,16,17,18,19,21,23,25,26): -7.557699680328369	 ([perhaps][love][william][holden][-][kim][novak][i'm][absolutely][ever][seen.][original's][soundtrack,][seemed][like][typical][movie... yes,][kraft][cheese.])
+v(0,1,2,3,4,5,6,10,11,13,14,15,16,17,18,19,20,21,23,24,25,26): 8.663991928100586	 ([perhaps][love][william][holden][-][kim][novak][absolutely][worst][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][movie... yes,][bland][kraft][cheese.])
+v(0,1,2,3,4,5,6,8,10,11,13,15,20,23,24,25): 8.395483016967773	 ([perhaps][love][william][holden][-][kim][novak][i'm][absolutely][worst][ever][without][another][movie... yes,][bland][kraft])
+v(0,8,10,11,13,14,15,16,17,18,19,20,21,23,24,25,26): 8.627775192260742	 ([perhaps][i'm][absolutely][worst][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][movie... yes,][bland][kraft][cheese.])
+v(1,2,3,4,5,6,7,8,9,12,14,16,17,18,19,21,22,26): 3.5535778999328613	 ([love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][remake][seen.][original's][soundtrack,][seemed][like][typical][tv][cheese.])
+v(1,2,3,4,5,6,7,9,11,12,14,15,16,17,18,19,20,21,22,24,26): 8.696819305419922	 ([love][william][holden][-][kim][novak][version,][gen - x'er,][worst][remake][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][bland][cheese.])
+v(1,2,3,4,5,6,7,8,9,11,12,15,20,22,24): 8.394618034362793	 ([love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][worst][remake][without][another][tv][bland])
+v(7,8,9,11,12,14,15,16,17,18,19,20,21,22,24,26): 8.650433540344238	 ([version,][i'm][gen - x'er,][worst][remake][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][bland][cheese.])
+v(1,2,3,4,5,6,8,11,14,15,16,17,18,19,20,21,24,26): 8.572938919067383	 ([love][william][holden][-][kim][novak][i'm][worst][seen.][without][original's][soundtrack,][seemed][like][another][typical][bland][cheese.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,21,22,23,25,26): -5.500633239746094	 ([perhaps][love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][absolutely][remake][ever][seen.][original's][soundtrack,][seemed][like][typical][tv][movie... yes,][kraft][cheese.])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.75010871887207	 ([perhaps][love][william][holden][-][kim][novak][version,][gen - x'er,][absolutely][worst][remake][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][movie... yes,][bland][kraft][cheese.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,20,22,23,24,25): 8.622566223144531	 ([perhaps][love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][absolutely][worst][remake][ever][without][another][tv][movie... yes,][bland][kraft])
+v(0,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.726295471191406	 ([perhaps][version,][i'm][gen - x'er,][absolutely][worst][remake][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][movie... yes,][bland][kraft][cheese.])
+v(0,1,2,3,4,5,6,8,10,11,13,14,15,16,17,18,19,20,21,23,24,25,26): 8.690034866333008	 ([perhaps][love][william][holden][-][kim][novak][i'm][absolutely][worst][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][movie... yes,][bland][kraft][cheese.])
+v(1,2,3,4,5,6,7,8,9,11,12,14,15,16,17,18,19,20,21,22,24,26): 8.726862907409668	 ([love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][worst][remake][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][bland][cheese.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.760257720947266	 ([perhaps][love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][absolutely][worst][remake][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][movie... yes,][bland][kraft][cheese.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 9.862715721130371, EP: 1.0	 ([perhaps][love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][absolutely][worst][remake][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][movie... yes,][bland][kraft][cheese.])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 9.852566719055176, EP: 0.9989709854125977	 ([perhaps][love][william][holden][-][kim][novak][version,][gen - x'er,][absolutely][worst][remake][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][movie... yes,][bland][kraft][cheese.])
+v(1,2,3,4,5,6,7,8,9,11,12,14,15,16,17,18,19,20,21,22,24,26): 9.829320907592773, EP: 0.9966140389442444	 ([love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][worst][remake][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][bland][cheese.])
+v(0,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 9.828753471374512, EP: 0.9965565204620361	 ([perhaps][version,][i'm][gen - x'er,][absolutely][worst][remake][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][movie... yes,][bland][kraft][cheese.])
+v(0,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 9.80689811706543, EP: 0.9943405389785767	 ([perhaps][version,][gen - x'er,][absolutely][worst][remake][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][movie... yes,][bland][kraft][cheese.])
+v(1,2,3,4,5,6,7,9,11,12,14,15,16,17,18,19,20,21,22,24,26): 9.799277305603027, EP: 0.9935678839683533	 ([love][william][holden][-][kim][novak][version,][gen - x'er,][worst][remake][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][bland][cheese.])
+v(0,1,2,3,4,5,6,8,10,11,13,14,15,16,17,18,19,20,21,23,24,25,26): 9.792492866516113, EP: 0.9928799867630005	 ([perhaps][love][william][holden][-][kim][novak][i'm][absolutely][worst][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][movie... yes,][bland][kraft][cheese.])
+v(0,1,2,3,4,5,6,10,11,13,14,15,16,17,18,19,20,21,23,24,25,26): 9.766449928283691, EP: 0.9902394413948059	 ([perhaps][love][william][holden][-][kim][novak][absolutely][worst][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][movie... yes,][bland][kraft][cheese.])
+v(7,8,9,11,12,14,15,16,17,18,19,20,21,22,24,26): 9.752891540527344, EP: 0.9888647198677063	 ([version,][i'm][gen - x'er,][worst][remake][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][bland][cheese.])
+v(0,8,10,11,13,14,15,16,17,18,19,20,21,23,24,25,26): 9.730233192443848, EP: 0.9865673184394836	 ([perhaps][i'm][absolutely][worst][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][movie... yes,][bland][kraft][cheese.])
+v(7,9,11,12,14,15,16,17,18,19,20,21,22,24,26): 9.729622840881348, EP: 0.9865054488182068	 ([version,][gen - x'er,][worst][remake][seen.][without][original's][soundtrack,][seemed][like][another][typical][tv][bland][cheese.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,20,22,23,24,25): 9.725024223327637, EP: 0.9860391616821289	 ([perhaps][love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][absolutely][worst][remake][ever][without][another][tv][movie... yes,][bland][kraft])
+v(0,10,11,13,14,15,16,17,18,19,20,21,23,24,25,26): 9.701760292053223, EP: 0.9836804270744324	 ([perhaps][absolutely][worst][ever][seen.][without][original's][soundtrack,][seemed][like][another][typical][movie... yes,][bland][kraft][cheese.])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,15,20,22,23,24,25): 9.70075511932373, EP: 0.9835785031318665	 ([perhaps][love][william][holden][-][kim][novak][version,][gen - x'er,][absolutely][worst][remake][ever][without][another][tv][movie... yes,][bland][kraft])
+v(1,2,3,4,5,6,8,11,14,15,16,17,18,19,20,21,24,26): 9.675396919250488, EP: 0.9810073971748352	 ([love][william][holden][-][kim][novak][i'm][worst][seen.][without][original's][soundtrack,][seemed][like][another][typical][bland][cheese.])
+v(0,7,8,9,10,11,12,13,15,20,22,23,24,25): 9.630791664123535, EP: 0.9764847755432129	 ([perhaps][version,][i'm][gen - x'er,][absolutely][worst][remake][ever][without][another][tv][movie... yes,][bland][kraft])
+v(1,2,3,4,5,6,11,14,15,16,17,18,19,20,21,24,26): 9.619643211364746, EP: 0.9753544330596924	 ([love][william][holden][-][kim][novak][worst][seen.][without][original's][soundtrack,][seemed][like][another][typical][bland][cheese.])
+v(8,11,14,15,16,17,18,19,20,21,24,26): 9.586831092834473, EP: 0.9720275402069092	 ([i'm][worst][seen.][without][original's][soundtrack,][seemed][like][another][typical][bland][cheese.])
+v(0,7,9,10,11,12,13,15,20,22,23,24,25): 9.57982349395752, EP: 0.9713169932365417	 ([perhaps][version,][gen - x'er,][absolutely][worst][remake][ever][without][another][tv][movie... yes,][bland][kraft])
+v(11,14,15,16,17,18,19,20,21,24,26): 9.555380821228027, EP: 0.9688386917114258	 ([worst][seen.][without][original's][soundtrack,][seemed][like][another][typical][bland][cheese.])
+v(0,1,2,3,4,5,6,8,10,11,13,15,20,23,24,25): 9.497941017150879, EP: 0.9630147814750671	 ([perhaps][love][william][holden][-][kim][novak][i'm][absolutely][worst][ever][without][another][movie... yes,][bland][kraft])
+v(1,2,3,4,5,6,7,8,9,11,12,15,20,22,24): 9.497076034545898, EP: 0.9629271030426025	 ([love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][worst][remake][without][another][tv][bland])
+v(0,1,2,3,4,5,6,10,11,13,15,20,23,24,25): 9.456313133239746, EP: 0.9587940573692322	 ([perhaps][love][william][holden][-][kim][novak][absolutely][worst][ever][without][another][movie... yes,][bland][kraft])
+v(1,2,3,4,5,6,7,9,11,12,15,20,22,24): 9.422642707824707, EP: 0.9553801417350769	 ([love][william][holden][-][kim][novak][version,][gen - x'er,][worst][remake][without][another][tv][bland])
+v(0,8,10,11,13,15,20,23,24,25): 9.314709663391113, EP: 0.9444366097450256	 ([perhaps][i'm][absolutely][worst][ever][without][another][movie... yes,][bland][kraft])
+v(7,8,9,11,12,15,20,22,24): 9.286762237548828, EP: 0.9416029453277588	 ([version,][i'm][gen - x'er,][worst][remake][without][another][tv][bland])
+v(0,10,11,13,15,20,23,24,25): 9.269396781921387, EP: 0.9398422241210938	 ([perhaps][absolutely][worst][ever][without][another][movie... yes,][bland][kraft])
+v(7,9,11,12,15,20,22,24): 9.194489479064941, EP: 0.9322472214698792	 ([version,][gen - x'er,][worst][remake][without][another][tv][bland])
+v(1,2,3,4,5,6,8,11,15,20,24): 9.060371398925781, EP: 0.9186487197875977	 ([love][william][holden][-][kim][novak][i'm][worst][without][another][bland])
+v(1,2,3,4,5,6,11,15,20,24): 8.904422760009766, EP: 0.902836799621582	 ([love][william][holden][-][kim][novak][worst][without][another][bland])
+v(8,11,15,20,24): 8.577056884765625, EP: 0.8696445226669312	 ([i'm][worst][without][another][bland])
+v(11,15,20,24): 8.382267951965332, EP: 0.8498945236206055	 ([worst][without][another][bland])
+v(7,8,9,12,14,16,17,18,19,21,22,26): 7.361138343811035, EP: 0.746360182762146	 ([version,][i'm][gen - x'er,][remake][seen.][original's][soundtrack,][seemed][like][typical][tv][cheese.])
+v(0,1,2,3,4,5,6,10,13,23,25): -7.348995685577393, EP: -0.7451289892196655	 ([perhaps][love][william][holden][-][kim][novak][absolutely][ever][movie... yes,][kraft])
+v(7,9,12,14,16,17,18,19,21,22,26): 7.332037448883057, EP: 0.7434095740318298	 ([version,][gen - x'er,][remake][seen.][original's][soundtrack,][seemed][like][typical][tv][cheese.])
+v(0,1,2,3,4,5,6,7,9,10,12,13,22,23,25): -7.244125843048096, EP: -0.7344960570335388	 ([perhaps][love][william][holden][-][kim][novak][version,][gen - x'er,][absolutely][remake][ever][tv][movie... yes,][kraft])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,22,23,25): -7.131149768829346, EP: -0.7230411767959595	 ([perhaps][love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][absolutely][remake][ever][tv][movie... yes,][kraft])
+v(0,1,2,3,4,5,6,8,10,13,23,25): -7.043333530426025, EP: -0.7141373157501221	 ([perhaps][love][william][holden][-][kim][novak][i'm][absolutely][ever][movie... yes,][kraft])
+v(0,1,2,3,4,5,6,10,13,14,16,17,18,19,21,23,25,26): -6.866133213043213, EP: -0.6961706280708313	 ([perhaps][love][william][holden][-][kim][novak][absolutely][ever][seen.][original's][soundtrack,][seemed][like][typical][movie... yes,][kraft][cheese.])
+v(0,10,13,23,25): -6.51030158996582, EP: -0.6600921750068665	 ([perhaps][absolutely][ever][movie... yes,][kraft])
+v(0,1,2,3,4,5,6,8,10,13,14,16,17,18,19,21,23,25,26): -6.4552412033081055, EP: -0.6545094847679138	 ([perhaps][love][william][holden][-][kim][novak][i'm][absolutely][ever][seen.][original's][soundtrack,][seemed][like][typical][movie... yes,][kraft][cheese.])
+v(0,7,8,9,10,12,13,22,23,25): -6.447966575622559, EP: -0.6537719368934631	 ([perhaps][version,][i'm][gen - x'er,][absolutely][remake][ever][tv][movie... yes,][kraft])
+v(0,7,9,10,12,13,22,23,25): -6.380079746246338, EP: -0.6468887329101562	 ([perhaps][version,][gen - x'er,][absolutely][remake][ever][tv][movie... yes,][kraft])
+v(0,8,10,13,23,25): -6.256751537322998, EP: -0.634384274482727	 ([perhaps][i'm][absolutely][ever][movie... yes,][kraft])
+v(14,16,17,18,19,21,26): 5.47918176651001, EP: 0.555544912815094	 ([seen.][original's][soundtrack,][seemed][like][typical][cheese.])
+v(8,14,16,17,18,19,21,26): 5.32852029800415, EP: 0.5402690768241882	 ([i'm][seen.][original's][soundtrack,][seemed][like][typical][cheese.])
+v(1,2,3,4,5,6,7,8,9,12,14,16,17,18,19,21,22,26): 4.656036376953125, EP: 0.4720846116542816	 ([love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][remake][seen.][original's][soundtrack,][seemed][like][typical][tv][cheese.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,21,22,23,25,26): -4.39817476272583, EP: -0.4459395110607147	 ([perhaps][love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][absolutely][remake][ever][seen.][original's][soundtrack,][seemed][like][typical][tv][movie... yes,][kraft][cheese.])
+v(1,2,3,4,5,6,8): -4.301523685455322, EP: -0.43613988161087036	 ([love][william][holden][-][kim][novak][i'm])
+v(1,2,3,4,5,6): -4.251676559448242, EP: -0.4310857951641083	 ([love][william][holden][-][kim][novak])
+v(1,2,3,4,5,6,7,9,12,14,16,17,18,19,21,22,26): 3.9315147399902344, EP: 0.3986239433288574	 ([love][william][holden][-][kim][novak][version,][gen - x'er,][remake][seen.][original's][soundtrack,][seemed][like][typical][tv][cheese.])
+v(0,1,2,3,4,5,6,7,9,10,12,13,14,16,17,18,19,21,22,23,25,26): -3.8227272033691406, EP: -0.3875937759876251	 ([perhaps][love][william][holden][-][kim][novak][version,][gen - x'er,][absolutely][remake][ever][seen.][original's][soundtrack,][seemed][like][typical][tv][movie... yes,][kraft][cheese.])
+v(0,8,10,13,14,16,17,18,19,21,23,25,26): -3.6201987266540527, EP: -0.36705902218818665	 ([perhaps][i'm][absolutely][ever][seen.][original's][soundtrack,][seemed][like][typical][movie... yes,][kraft][cheese.])
+v(0,10,13,14,16,17,18,19,21,23,25,26): -3.4128923416137695, EP: -0.3460398316383362	 ([perhaps][absolutely][ever][seen.][original's][soundtrack,][seemed][like][typical][movie... yes,][kraft][cheese.])
+v(1,2,3,4,5,6,14,16,17,18,19,21,26): -2.714303493499756, EP: -0.2752085328102112	 ([love][william][holden][-][kim][novak][seen.][original's][soundtrack,][seemed][like][typical][cheese.])
+v(0,7,8,9,10,12,13,14,16,17,18,19,21,22,23,25,26): -2.4403586387634277, EP: -0.24743272364139557	 ([perhaps][version,][i'm][gen - x'er,][absolutely][remake][ever][seen.][original's][soundtrack,][seemed][like][typical][tv][movie... yes,][kraft][cheese.])
+v(1,2,3,4,5,6,8,14,16,17,18,19,21,26): -2.4361371994018555, EP: -0.2470047026872635	 ([love][william][holden][-][kim][novak][i'm][seen.][original's][soundtrack,][seemed][like][typical][cheese.])
+v(1,2,3,4,5,6,7,9,12,22): -2.0981855392456055, EP: -0.21273912489414215	 ([love][william][holden][-][kim][novak][version,][gen - x'er,][remake][tv])
+v(1,2,3,4,5,6,7,8,9,12,22): -1.742780327796936, EP: -0.17670390009880066	 ([love][william][holden][-][kim][novak][version,][i'm][gen - x'er,][remake][tv])
+v(0,7,9,10,12,13,14,16,17,18,19,21,22,23,25,26): -1.6731897592544556, EP: -0.1696479767560959	 ([perhaps][version,][gen - x'er,][absolutely][remake][ever][seen.][original's][soundtrack,][seemed][like][typical][tv][movie... yes,][kraft][cheese.])
+v(7,8,9,12,22): 0.5360398888587952, EP: 0.05435013025999069	 ([version,][i'm][gen - x'er,][remake][tv])
+v(8): 0.39122474193573, EP: 0.0396670401096344	 ([i'm])
+v(7,9,12,22): 0.057236671447753906, EP: 0.005803337786346674	 ([version,][gen - x'er,][remake][tv])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

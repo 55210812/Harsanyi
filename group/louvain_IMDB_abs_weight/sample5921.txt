@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['0', '36', '35', '32', '34', '40', '47', '39', '41']: ['movie', 'comes', 'cassi ( phillips )', 'end,', 'jennifer', 'stays', 'named', 'funeral.', 'house']: 平均边权 1.0534
+社区 2: ['27', '24', '25', '26', '18', '28', '31']: ['faye', 'way', 'better.', 'anyway,', 'also', 'dunaway', 'creeped']: 平均边权 0.6722
+社区 3: ['38', '45', '46', '58', '55', '42', '44', '37', '43', '54']: ['sisters', 'lives', 'aunt', 'live,', 'alive', 'sister', 'grandmother ( dunaway )', 'twin', 'owns', 'stay']: 平均边权 0.5484
+社区 4: ['16', '20', '15', '19', '13', '29']: ['rosie,', 'good', 'around', 'one', 'movie', 'good.']: 平均边权 0.8532
+社区 5: ['12', '56', '57', '52', '30', '53', '59', '51', '10']: ['like', 'long', 'wants', 'sacrificing', 'totally', 'relations', "can't", 'kinda', 'bad']: 平均边权 0.8004
+社区 6: ['17', '8', '23', '22', '33', '21']: ['one', 'one', 'creepers', 'jeepers', 'crazy.', 'movies.']: 平均边权 0.7792
+社区 7: ['2', '5', '4', '11', '3', '9', '1', '14', '6', '7']: ['confusing', 'like', 'usually', 'choice', 'first.', 'say', 'littttle', 'ring', 'gina', 'phillips,']: 平均边权 0.5126
+社区 8: ['50', '49', '48']: ['ellen ( dunaway )', 'mary', 'emma.']: 平均边权 0.6594

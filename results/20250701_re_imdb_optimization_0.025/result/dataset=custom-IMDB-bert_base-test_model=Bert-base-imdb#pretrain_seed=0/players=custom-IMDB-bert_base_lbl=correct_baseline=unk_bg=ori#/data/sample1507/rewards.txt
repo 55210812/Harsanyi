@@ -1,0 +1,89 @@
+---------- Players ----------
+Player 0: first
+Player 1: saw
+Player 2: film
+Player 3: impressive
+Player 4: one.
+Player 5: seen
+Player 6: friends
+Player 7: dvd
+Player 8: (
+Player 9: viewed
+Player 10: silver
+Player 11: screen
+Player 12: ),
+Player 13: opinion
+Player 14: remains
+Player 15: same.
+Player 16: subject
+Player 17: matter
+Player 18: puerile
+Player 19: performances
+Player 20: weak.
+---------- Rewards ----------
+v(): -1.1020134687423706	 ([])
+v(17,18,19): -1.5911059379577637	 ([matter][puerile][performances])
+v(0,1,2): -1.5733903646469116	 ([first][saw][film])
+v(5,9,10,16): -1.8320657014846802	 ([seen][viewed][silver][subject])
+v(3,6,7,8,11,20): 2.1703875064849854	 ([impressive][friends][dvd][(][screen][weak.])
+v(4,12,13,14,15): -1.6253230571746826	 ([one.][),][opinion][remains][same.])
+v(0,1,2,17,18,19): -2.284242630004883	 ([first][saw][film][matter][puerile][performances])
+v(5,9,10,16,17,18,19): -0.9074344635009766	 ([seen][viewed][silver][subject][matter][puerile][performances])
+v(3,6,7,8,11,17,18,19,20): 7.197688579559326	 ([impressive][friends][dvd][(][screen][matter][puerile][performances][weak.])
+v(4,12,13,14,15,17,18,19): -1.1487926244735718	 ([one.][),][opinion][remains][same.][matter][puerile][performances])
+v(0,1,2,5,9,10,16): -3.794135570526123	 ([first][saw][film][seen][viewed][silver][subject])
+v(0,1,2,3,6,7,8,11,20): -0.6097245812416077	 ([first][saw][film][impressive][friends][dvd][(][screen][weak.])
+v(0,1,2,4,12,13,14,15): -4.0095391273498535	 ([first][saw][film][one.][),][opinion][remains][same.])
+v(3,5,6,7,8,9,10,11,16,20): 5.171958923339844	 ([impressive][seen][friends][dvd][(][viewed][silver][screen][subject][weak.])
+v(4,5,9,10,12,13,14,15,16): -3.550692081451416	 ([one.][seen][viewed][silver][),][opinion][remains][same.][subject])
+v(3,4,6,7,8,11,12,13,14,15,20): 2.008246898651123	 ([impressive][one.][friends][dvd][(][screen][),][opinion][remains][same.][weak.])
+v(0,1,2,5,9,10,16,17,18,19): -1.7581955194473267	 ([first][saw][film][seen][viewed][silver][subject][matter][puerile][performances])
+v(0,1,2,3,6,7,8,11,17,18,19,20): 7.2410993576049805	 ([first][saw][film][impressive][friends][dvd][(][screen][matter][puerile][performances][weak.])
+v(0,1,2,4,12,13,14,15,17,18,19): -4.310441017150879	 ([first][saw][film][one.][),][opinion][remains][same.][matter][puerile][performances])
+v(3,5,6,7,8,9,10,11,16,17,18,19,20): 8.273670196533203	 ([impressive][seen][friends][dvd][(][viewed][silver][screen][subject][matter][puerile][performances][weak.])
+v(4,5,9,10,12,13,14,15,16,17,18,19): -1.3756718635559082	 ([one.][seen][viewed][silver][),][opinion][remains][same.][subject][matter][puerile][performances])
+v(3,4,6,7,8,11,12,13,14,15,17,18,19,20): 8.319076538085938	 ([impressive][one.][friends][dvd][(][screen][),][opinion][remains][same.][matter][puerile][performances][weak.])
+v(0,1,2,3,5,6,7,8,9,10,11,16,20): 0.29063642024993896	 ([first][saw][film][impressive][seen][friends][dvd][(][viewed][silver][screen][subject][weak.])
+v(0,1,2,4,5,9,10,12,13,14,15,16): -5.875843048095703	 ([first][saw][film][one.][seen][viewed][silver][),][opinion][remains][same.][subject])
+v(0,1,2,3,4,6,7,8,11,12,13,14,15,20): -0.8584537506103516	 ([first][saw][film][impressive][one.][friends][dvd][(][screen][),][opinion][remains][same.][weak.])
+v(3,4,5,6,7,8,9,10,11,12,13,14,15,16,20): 2.331388473510742	 ([impressive][one.][seen][friends][dvd][(][viewed][silver][screen][),][opinion][remains][same.][subject][weak.])
+v(0,1,2,3,5,6,7,8,9,10,11,16,17,18,19,20): 8.011373519897461	 ([first][saw][film][impressive][seen][friends][dvd][(][viewed][silver][screen][subject][matter][puerile][performances][weak.])
+v(0,1,2,4,5,9,10,12,13,14,15,16,17,18,19): -3.0254836082458496	 ([first][saw][film][one.][seen][viewed][silver][),][opinion][remains][same.][subject][matter][puerile][performances])
+v(0,1,2,3,4,6,7,8,11,12,13,14,15,17,18,19,20): 8.051679611206055	 ([first][saw][film][impressive][one.][friends][dvd][(][screen][),][opinion][remains][same.][matter][puerile][performances][weak.])
+v(3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 8.210904121398926	 ([impressive][one.][seen][friends][dvd][(][viewed][silver][screen][),][opinion][remains][same.][subject][matter][puerile][performances][weak.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,20): -3.4254331588745117	 ([first][saw][film][impressive][one.][seen][friends][dvd][(][viewed][silver][screen][),][opinion][remains][same.][subject][weak.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 7.834868431091309	 ([first][saw][film][impressive][one.][seen][friends][dvd][(][viewed][silver][screen][),][opinion][remains][same.][subject][matter][puerile][performances][weak.])
+---------- Rewards-v() ----------
+v(3,4,6,7,8,11,12,13,14,15,17,18,19,20): 9.421090126037598, EP: 1.0541808605194092	 ([impressive][one.][friends][dvd][(][screen][),][opinion][remains][same.][matter][puerile][performances][weak.])
+v(3,5,6,7,8,9,10,11,16,17,18,19,20): 9.375683784484863, EP: 1.0491000413894653	 ([impressive][seen][friends][dvd][(][viewed][silver][screen][subject][matter][puerile][performances][weak.])
+v(3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 9.312917709350586, EP: 1.042076826095581	 ([impressive][one.][seen][friends][dvd][(][viewed][silver][screen][),][opinion][remains][same.][subject][matter][puerile][performances][weak.])
+v(0,1,2,3,4,6,7,8,11,12,13,14,15,17,18,19,20): 9.153693199157715, EP: 1.0242602825164795	 ([first][saw][film][impressive][one.][friends][dvd][(][screen][),][opinion][remains][same.][matter][puerile][performances][weak.])
+v(0,1,2,3,5,6,7,8,9,10,11,16,17,18,19,20): 9.113387107849121, EP: 1.0197502374649048	 ([first][saw][film][impressive][seen][friends][dvd][(][viewed][silver][screen][subject][matter][puerile][performances][weak.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 8.936882019042969, EP: 1.0	 ([first][saw][film][impressive][one.][seen][friends][dvd][(][viewed][silver][screen][),][opinion][remains][same.][subject][matter][puerile][performances][weak.])
+v(0,1,2,3,6,7,8,11,17,18,19,20): 8.34311294555664, EP: 0.9335597157478333	 ([first][saw][film][impressive][friends][dvd][(][screen][matter][puerile][performances][weak.])
+v(3,6,7,8,11,17,18,19,20): 8.299701690673828, EP: 0.928702175617218	 ([impressive][friends][dvd][(][screen][matter][puerile][performances][weak.])
+v(3,5,6,7,8,9,10,11,16,20): 6.273972511291504, EP: 0.7020314931869507	 ([impressive][seen][friends][dvd][(][viewed][silver][screen][subject][weak.])
+v(0,1,2,4,5,9,10,12,13,14,15,16): -4.773829460144043, EP: -0.5341717004776001	 ([first][saw][film][one.][seen][viewed][silver][),][opinion][remains][same.][subject])
+v(3,4,5,6,7,8,9,10,11,12,13,14,15,16,20): 3.4334020614624023, EP: 0.38418343663215637	 ([impressive][one.][seen][friends][dvd][(][viewed][silver][screen][),][opinion][remains][same.][subject][weak.])
+v(3,6,7,8,11,20): 3.2724008560180664, EP: 0.3661680817604065	 ([impressive][friends][dvd][(][screen][weak.])
+v(0,1,2,4,12,13,14,15,17,18,19): -3.2084274291992188, EP: -0.359009712934494	 ([first][saw][film][one.][),][opinion][remains][same.][matter][puerile][performances])
+v(3,4,6,7,8,11,12,13,14,15,20): 3.110260486602783, EP: 0.34802523255348206	 ([impressive][one.][friends][dvd][(][screen][),][opinion][remains][same.][weak.])
+v(0,1,2,4,12,13,14,15): -2.9075255393981934, EP: -0.32534003257751465	 ([first][saw][film][one.][),][opinion][remains][same.])
+v(0,1,2,5,9,10,16): -2.692121982574463, EP: -0.3012372851371765	 ([first][saw][film][seen][viewed][silver][subject])
+v(4,5,9,10,12,13,14,15,16): -2.448678493499756, EP: -0.2739969491958618	 ([one.][seen][viewed][silver][),][opinion][remains][same.][subject])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,20): -2.3234195709228516, EP: -0.2599810063838959	 ([first][saw][film][impressive][one.][seen][friends][dvd][(][viewed][silver][screen][),][opinion][remains][same.][subject][weak.])
+v(0,1,2,4,5,9,10,12,13,14,15,16,17,18,19): -1.923470139503479, EP: -0.21522831916809082	 ([first][saw][film][one.][seen][viewed][silver][),][opinion][remains][same.][subject][matter][puerile][performances])
+v(0,1,2,3,5,6,7,8,9,10,11,16,20): 1.3926498889923096, EP: 0.1558317393064499	 ([first][saw][film][impressive][seen][friends][dvd][(][viewed][silver][screen][subject][weak.])
+v(0,1,2,17,18,19): -1.1822291612625122, EP: -0.13228653371334076	 ([first][saw][film][matter][puerile][performances])
+v(5,9,10,16): -0.7300522327423096, EP: -0.08168981224298477	 ([seen][viewed][silver][subject])
+v(0,1,2,5,9,10,16,17,18,19): -0.656182050704956, EP: -0.07342404872179031	 ([first][saw][film][seen][viewed][silver][subject][matter][puerile][performances])
+v(4,12,13,14,15): -0.523309588432312, EP: -0.058556169271469116	 ([one.][),][opinion][remains][same.])
+v(0,1,2,3,6,7,8,11,20): 0.49228888750076294, EP: 0.05508508160710335	 ([first][saw][film][impressive][friends][dvd][(][screen][weak.])
+v(17,18,19): -0.48909246921539307, EP: -0.05472741648554802	 ([matter][puerile][performances])
+v(0,1,2): -0.471376895904541, EP: -0.052745118737220764	 ([first][saw][film])
+v(4,5,9,10,12,13,14,15,16,17,18,19): -0.2736583948135376, EP: -0.030621238052845	 ([one.][seen][viewed][silver][),][opinion][remains][same.][subject][matter][puerile][performances])
+v(0,1,2,3,4,6,7,8,11,12,13,14,15,20): 0.24355971813201904, EP: 0.027253322303295135	 ([first][saw][film][impressive][one.][friends][dvd][(][screen][),][opinion][remains][same.][weak.])
+v(5,9,10,16,17,18,19): 0.19457900524139404, EP: 0.021772582083940506	 ([seen][viewed][silver][subject][matter][puerile][performances])
+v(4,12,13,14,15,17,18,19): -0.04677915573120117, EP: -0.0052343932911753654	 ([one.][),][opinion][remains][same.][matter][puerile][performances])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

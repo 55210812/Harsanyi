@@ -1,0 +1,8 @@
+louvain社区检测结果:
+社区 1: ['38', '36', '35', '32', '34', '29', '33', '31']: ['shakespeare.', 'complete', 'type', 'keyboard,', 'eventually', 'monkeys,', 'would', 'proddings']: 平均边权 0.4638
+社区 2: ['48', '41', '42', '49', '46', '58', '47']: ['single', 'doubt', 'given', 'one', 'could', 'foolishly', 'find']: 平均边权 0.2104
+社区 3: ['56', '57', '52', '55', '50', '53', '59', '54']: ['first', 'half,', 'rating', 'watched', 'give', '10.', 'assuming', 'patiently']: 平均边权 0.3271
+社区 4: ['0', '24', '45', '30', '23', '44', '22', '43', '26', '28']: ['time', 'monkeys', 'time,', 'random', 'enough', 'monkeys', 'given', 'number', 'time', 'typewriters,']: 平均边权 0.2916
+社区 5: ['2', '5', '3', '1', '14', '21', '6']: ['review', '50', 'would', 'writing', 'surmise', 'say', 'imdb']: 平均边权 0.2078
+社区 6: ['39', '37', '27', '25', '40']: ['however,', 'works', 'enough', 'enough', 'seriously']: 平均边权 0.2012
+社区 7: ['8', '61', '19', '18', '11', '15', '10', '17', '60', '7', '12', '20', '13', '4', '16', '9', '51']: ['given', 'would,', 'crew', 'cast', 'either', 'giving', 'rating', 'either', 'film', 'voters', '10', 'members.', '1.', 'seem', '10', 'film', 'movie']: 平均边权 0.1998

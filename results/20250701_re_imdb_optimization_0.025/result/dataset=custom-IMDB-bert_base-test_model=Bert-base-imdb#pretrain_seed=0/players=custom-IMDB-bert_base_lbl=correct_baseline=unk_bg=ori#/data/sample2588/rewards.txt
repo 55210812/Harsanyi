@@ -1,0 +1,165 @@
+---------- Players ----------
+Player 0: sogo
+Player 1: ishii
+Player 2: taken
+Player 3: old
+Player 4: myth
+Player 5: musashibo
+Player 6: benkei
+Player 7: stood
+Player 8: head
+Player 9: produce
+Player 10: dark,
+Player 11: gory,
+Player 12: spellbinding
+Player 13: terrific - looking
+Player 14: movie.
+Player 15: unfamiliar
+Player 16: legend
+Player 17: need
+Player 18: be ;
+Player 19: story
+Player 20: explains
+Player 21: nicely
+Player 22: goes
+Player 23: along.
+Player 24: well
+Player 25: worth
+Player 26: seeking
+Player 27: even
+Player 28: though
+Player 29: english - language
+Player 30: home
+Player 31: video
+Player 32: versions.
+---------- Rewards ----------
+v(): -1.1252319812774658	 ([])
+v(16,18,20,21,22): 1.1582887172698975	 ([legend][be ;][explains][nicely][goes])
+v(8,11,12,13): 0.801738977432251	 ([head][gory,][spellbinding][terrific - looking])
+v(24,27,30): -0.1076606810092926	 ([well][even][home])
+v(14,15): -0.6978031396865845	 ([movie.][unfamiliar])
+v(19,23,25,26,28,29,31): 4.254074573516846	 ([story][along.][worth][seeking][though][english - language][video])
+v(0,1,2,3,4,5,6,7,9,10,17,32): 2.863887071609497	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][need][versions.])
+v(8,11,12,13,16,18,20,21,22): 2.1574952602386475	 ([head][gory,][spellbinding][terrific - looking][legend][be ;][explains][nicely][goes])
+v(16,18,20,21,22,24,27,30): 3.60830020904541	 ([legend][be ;][explains][nicely][goes][well][even][home])
+v(14,15,16,18,20,21,22): 1.8229281902313232	 ([movie.][unfamiliar][legend][be ;][explains][nicely][goes])
+v(16,18,19,20,21,22,23,25,26,28,29,31): 8.54275131225586	 ([legend][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video])
+v(0,1,2,3,4,5,6,7,9,10,16,17,18,20,21,22,32): 5.281394004821777	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][legend][need][be ;][explains][nicely][goes][versions.])
+v(8,11,12,13,24,27,30): 3.1743788719177246	 ([head][gory,][spellbinding][terrific - looking][well][even][home])
+v(8,11,12,13,14,15): 5.654129981994629	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar])
+v(8,11,12,13,19,23,25,26,28,29,31): 6.484844207763672	 ([head][gory,][spellbinding][terrific - looking][story][along.][worth][seeking][though][english - language][video])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,17,32): 7.20045804977417	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][need][versions.])
+v(14,15,24,27,30): 0.07767263054847717	 ([movie.][unfamiliar][well][even][home])
+v(19,23,24,25,26,27,28,29,30,31): 7.212347984313965	 ([story][along.][well][worth][seeking][even][though][english - language][home][video])
+v(0,1,2,3,4,5,6,7,9,10,17,24,27,30,32): 2.961538314819336	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][need][well][even][home][versions.])
+v(14,15,19,23,25,26,28,29,31): 5.219233512878418	 ([movie.][unfamiliar][story][along.][worth][seeking][though][english - language][video])
+v(0,1,2,3,4,5,6,7,9,10,14,15,17,32): 5.123212814331055	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][need][versions.])
+v(0,1,2,3,4,5,6,7,9,10,17,19,23,25,26,28,29,31,32): 7.6407246589660645	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][need][story][along.][worth][seeking][though][english - language][video][versions.])
+v(8,11,12,13,16,18,20,21,22,24,27,30): 5.281518936157227	 ([head][gory,][spellbinding][terrific - looking][legend][be ;][explains][nicely][goes][well][even][home])
+v(8,11,12,13,14,15,16,18,20,21,22): 6.902650833129883	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][be ;][explains][nicely][goes])
+v(8,11,12,13,16,18,19,20,21,22,23,25,26,28,29,31): 8.610700607299805	 ([head][gory,][spellbinding][terrific - looking][legend][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,16,17,18,20,21,22,32): 7.435767650604248	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][legend][need][be ;][explains][nicely][goes][versions.])
+v(14,15,16,18,20,21,22,24,27,30): 4.989765167236328	 ([movie.][unfamiliar][legend][be ;][explains][nicely][goes][well][even][home])
+v(16,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 8.815563201904297	 ([legend][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video])
+v(0,1,2,3,4,5,6,7,9,10,16,17,18,20,21,22,24,27,30,32): 5.596336364746094	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][legend][need][be ;][explains][nicely][goes][well][even][home][versions.])
+v(14,15,16,18,19,20,21,22,23,25,26,28,29,31): 8.6402587890625	 ([movie.][unfamiliar][legend][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video])
+v(0,1,2,3,4,5,6,7,9,10,14,15,16,17,18,20,21,22,32): 5.605057716369629	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][legend][need][be ;][explains][nicely][goes][versions.])
+v(0,1,2,3,4,5,6,7,9,10,16,17,18,19,20,21,22,23,25,26,28,29,31,32): 8.754507064819336	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][legend][need][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video][versions.])
+v(8,11,12,13,14,15,24,27,30): 7.645491123199463	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar][well][even][home])
+v(8,11,12,13,19,23,24,25,26,27,28,29,30,31): 8.162919998168945	 ([head][gory,][spellbinding][terrific - looking][story][along.][well][worth][seeking][even][though][english - language][home][video])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,17,24,27,30,32): 7.539538860321045	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][need][well][even][home][versions.])
+v(8,11,12,13,14,15,19,23,25,26,28,29,31): 8.407015800476074	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar][story][along.][worth][seeking][though][english - language][video])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,32): 8.253000259399414	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][need][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,17,19,23,25,26,28,29,31,32): 8.23988151550293	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][need][story][along.][worth][seeking][though][english - language][video][versions.])
+v(14,15,19,23,24,25,26,27,28,29,30,31): 7.907393455505371	 ([movie.][unfamiliar][story][along.][well][worth][seeking][even][though][english - language][home][video])
+v(0,1,2,3,4,5,6,7,9,10,14,15,17,24,27,30,32): 5.402859687805176	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][need][well][even][home][versions.])
+v(0,1,2,3,4,5,6,7,9,10,17,19,23,24,25,26,27,28,29,30,31,32): 8.56269645690918	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][need][story][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(0,1,2,3,4,5,6,7,9,10,14,15,17,19,23,25,26,28,29,31,32): 7.85684871673584	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][need][story][along.][worth][seeking][though][english - language][video][versions.])
+v(8,11,12,13,14,15,16,18,20,21,22,24,27,30): 8.215089797973633	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][be ;][explains][nicely][goes][well][even][home])
+v(8,11,12,13,16,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 8.731766700744629	 ([head][gory,][spellbinding][terrific - looking][legend][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,16,17,18,20,21,22,24,27,30,32): 7.622086048126221	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][legend][need][be ;][explains][nicely][goes][well][even][home][versions.])
+v(8,11,12,13,14,15,16,18,19,20,21,22,23,25,26,28,29,31): 8.784915924072266	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,32): 8.30746841430664	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][need][be ;][explains][nicely][goes][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,16,17,18,19,20,21,22,23,25,26,28,29,31,32): 8.477020263671875	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][legend][need][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video][versions.])
+v(14,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 8.783075332641602	 ([movie.][unfamiliar][legend][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video])
+v(0,1,2,3,4,5,6,7,9,10,14,15,16,17,18,20,21,22,24,27,30,32): 6.278210639953613	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][legend][need][be ;][explains][nicely][goes][well][even][home][versions.])
+v(0,1,2,3,4,5,6,7,9,10,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.916017532348633	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][legend][need][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(0,1,2,3,4,5,6,7,9,10,14,15,16,17,18,19,20,21,22,23,25,26,28,29,31,32): 8.688993453979492	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][legend][need][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video][versions.])
+v(8,11,12,13,14,15,19,23,24,25,26,27,28,29,30,31): 8.443931579589844	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar][story][along.][well][worth][seeking][even][though][english - language][home][video])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,24,27,30,32): 8.213570594787598	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][need][well][even][home][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,17,19,23,24,25,26,27,28,29,30,31,32): 8.426042556762695	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][need][story][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,23,25,26,28,29,31,32): 8.399627685546875	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][need][story][along.][worth][seeking][though][english - language][video][versions.])
+v(0,1,2,3,4,5,6,7,9,10,14,15,17,19,23,24,25,26,27,28,29,30,31,32): 8.570188522338867	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][need][story][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(8,11,12,13,14,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 8.672576904296875	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,24,27,30,32): 8.312795639038086	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][need][be ;][explains][nicely][goes][well][even][home][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.598445892333984	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][legend][need][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,28,29,31,32): 8.478744506835938	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][need][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video][versions.])
+v(0,1,2,3,4,5,6,7,9,10,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.809704780578613	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][legend][need][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,23,24,25,26,27,28,29,30,31,32): 8.38608455657959	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][need][story][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.472787857055664	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][need][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,9,10,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 10.04124927520752, EP: 1.0461792945861816	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][legend][need][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(16,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 9.940794944763184, EP: 1.0357130765914917	 ([legend][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video])
+v(0,1,2,3,4,5,6,7,9,10,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 9.9349365234375, EP: 1.0351027250289917	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][legend][need][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(8,11,12,13,14,15,16,18,19,20,21,22,23,25,26,28,29,31): 9.910147666931152, EP: 1.032520055770874	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video])
+v(14,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 9.908307075500488, EP: 1.0323282480239868	 ([movie.][unfamiliar][legend][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video])
+v(0,1,2,3,4,5,6,7,9,10,16,17,18,19,20,21,22,23,25,26,28,29,31,32): 9.879738807678223, EP: 1.029351830482483	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][legend][need][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video][versions.])
+v(8,11,12,13,16,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 9.856998443603516, EP: 1.0269825458526611	 ([head][gory,][spellbinding][terrific - looking][legend][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video])
+v(0,1,2,3,4,5,6,7,9,10,14,15,16,17,18,19,20,21,22,23,25,26,28,29,31,32): 9.814225196838379, EP: 1.0225260257720947	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][legend][need][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video][versions.])
+v(8,11,12,13,14,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 9.797808647155762, EP: 1.0208156108856201	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video])
+v(14,15,16,18,19,20,21,22,23,25,26,28,29,31): 9.765490531921387, EP: 1.0174485445022583	 ([movie.][unfamiliar][legend][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video])
+v(8,11,12,13,16,18,19,20,21,22,23,25,26,28,29,31): 9.735932350158691, EP: 1.0143688917160034	 ([head][gory,][spellbinding][terrific - looking][legend][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 9.723677635192871, EP: 1.013092041015625	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][legend][need][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(0,1,2,3,4,5,6,7,9,10,14,15,17,19,23,24,25,26,27,28,29,30,31,32): 9.695420265197754, EP: 1.010148048400879	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][need][story][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(0,1,2,3,4,5,6,7,9,10,17,19,23,24,25,26,27,28,29,30,31,32): 9.687928199768066, EP: 1.0093674659729004	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][need][story][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(16,18,19,20,21,22,23,25,26,28,29,31): 9.667983055114746, EP: 1.0072894096374512	 ([legend][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,28,29,31,32): 9.603976249694824, EP: 1.0006206035614014	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][need][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,16,17,18,19,20,21,22,23,25,26,28,29,31,32): 9.602252006530762, EP: 1.0004409551620483	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][legend][need][be ;][story][explains][nicely][goes][along.][worth][seeking][though][english - language][video][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 9.59801959991455, EP: 1.0	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][need][be ;][story][explains][nicely][goes][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(8,11,12,13,14,15,19,23,24,25,26,27,28,29,30,31): 9.56916332244873, EP: 0.9969935417175293	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar][story][along.][well][worth][seeking][even][though][english - language][home][video])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,17,19,23,24,25,26,27,28,29,30,31,32): 9.551274299621582, EP: 0.9951297044754028	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][need][story][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(8,11,12,13,14,15,19,23,25,26,28,29,31): 9.532247543334961, EP: 0.9931473135948181	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar][story][along.][worth][seeking][though][english - language][video])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,23,25,26,28,29,31,32): 9.524859428405762, EP: 0.9923775792121887	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][need][story][along.][worth][seeking][though][english - language][video][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,23,24,25,26,27,28,29,30,31,32): 9.511316299438477, EP: 0.9909665584564209	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][need][story][along.][well][worth][seeking][even][though][english - language][home][video][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,24,27,30,32): 9.438027381896973, EP: 0.9833307266235352	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][need][be ;][explains][nicely][goes][well][even][home][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,32): 9.432700157165527, EP: 0.9827756881713867	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][need][be ;][explains][nicely][goes][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,32): 9.3782320022583, EP: 0.9771007299423218	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][need][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,17,19,23,25,26,28,29,31,32): 9.365113258361816, EP: 0.9757339358329773	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][need][story][along.][worth][seeking][though][english - language][video][versions.])
+v(8,11,12,13,14,15,16,18,20,21,22,24,27,30): 9.34032154083252, EP: 0.973150908946991	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][be ;][explains][nicely][goes][well][even][home])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,24,27,30,32): 9.338802337646484, EP: 0.9729926586151123	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][movie.][unfamiliar][need][well][even][home][versions.])
+v(8,11,12,13,19,23,24,25,26,27,28,29,30,31): 9.288151741027832, EP: 0.9677154421806335	 ([head][gory,][spellbinding][terrific - looking][story][along.][well][worth][seeking][even][though][english - language][home][video])
+v(14,15,19,23,24,25,26,27,28,29,30,31): 9.032625198364258, EP: 0.9410926103591919	 ([movie.][unfamiliar][story][along.][well][worth][seeking][even][though][english - language][home][video])
+v(0,1,2,3,4,5,6,7,9,10,14,15,17,19,23,25,26,28,29,31,32): 8.982080459594727, EP: 0.9358264207839966	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][need][story][along.][worth][seeking][though][english - language][video][versions.])
+v(8,11,12,13,14,15,24,27,30): 8.770723342895508, EP: 0.9138055443763733	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar][well][even][home])
+v(0,1,2,3,4,5,6,7,9,10,17,19,23,25,26,28,29,31,32): 8.76595687866211, EP: 0.9133089184761047	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][need][story][along.][worth][seeking][though][english - language][video][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,16,17,18,20,21,22,24,27,30,32): 8.747318267822266, EP: 0.9113669991493225	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][legend][need][be ;][explains][nicely][goes][well][even][home][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,17,24,27,30,32): 8.66477108001709, EP: 0.9027665257453918	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][need][well][even][home][versions.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,16,17,18,20,21,22,32): 8.560999870300293, EP: 0.8919548392295837	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][legend][need][be ;][explains][nicely][goes][versions.])
+v(19,23,24,25,26,27,28,29,30,31): 8.337579727172852, EP: 0.8686770796775818	 ([story][along.][well][worth][seeking][even][though][english - language][home][video])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,17,32): 8.325690269470215, EP: 0.8674383759498596	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][head][produce][dark,][gory,][spellbinding][terrific - looking][need][versions.])
+v(8,11,12,13,14,15,16,18,20,21,22): 8.02788257598877, EP: 0.8364102840423584	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar][legend][be ;][explains][nicely][goes])
+v(8,11,12,13,19,23,25,26,28,29,31): 7.610075950622559, EP: 0.7928798198699951	 ([head][gory,][spellbinding][terrific - looking][story][along.][worth][seeking][though][english - language][video])
+v(0,1,2,3,4,5,6,7,9,10,14,15,16,17,18,20,21,22,24,27,30,32): 7.4034423828125, EP: 0.7713510394096375	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][legend][need][be ;][explains][nicely][goes][well][even][home][versions.])
+v(8,11,12,13,14,15): 6.779361724853516, EP: 0.7063292264938354	 ([head][gory,][spellbinding][terrific - looking][movie.][unfamiliar])
+v(0,1,2,3,4,5,6,7,9,10,14,15,16,17,18,20,21,22,32): 6.730289459228516, EP: 0.701216459274292	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][legend][need][be ;][explains][nicely][goes][versions.])
+v(0,1,2,3,4,5,6,7,9,10,16,17,18,20,21,22,24,27,30,32): 6.7215681076049805, EP: 0.7003077864646912	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][legend][need][be ;][explains][nicely][goes][well][even][home][versions.])
+v(0,1,2,3,4,5,6,7,9,10,14,15,17,24,27,30,32): 6.5280914306640625, EP: 0.6801498532295227	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][need][well][even][home][versions.])
+v(8,11,12,13,16,18,20,21,22,24,27,30): 6.406750679016113, EP: 0.6675075888633728	 ([head][gory,][spellbinding][terrific - looking][legend][be ;][explains][nicely][goes][well][even][home])
+v(0,1,2,3,4,5,6,7,9,10,16,17,18,20,21,22,32): 6.406625747680664, EP: 0.667494535446167	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][legend][need][be ;][explains][nicely][goes][versions.])
+v(14,15,19,23,25,26,28,29,31): 6.344465255737305, EP: 0.6610181331634521	 ([movie.][unfamiliar][story][along.][worth][seeking][though][english - language][video])
+v(0,1,2,3,4,5,6,7,9,10,14,15,17,32): 6.248444557189941, EP: 0.6510139107704163	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][movie.][unfamiliar][need][versions.])
+v(14,15,16,18,20,21,22,24,27,30): 6.114996910095215, EP: 0.6371102929115295	 ([movie.][unfamiliar][legend][be ;][explains][nicely][goes][well][even][home])
+v(19,23,25,26,28,29,31): 5.379306793212891, EP: 0.560460090637207	 ([story][along.][worth][seeking][though][english - language][video])
+v(16,18,20,21,22,24,27,30): 4.733531951904297, EP: 0.49317798018455505	 ([legend][be ;][explains][nicely][goes][well][even][home])
+v(8,11,12,13,24,27,30): 4.2996110916137695, EP: 0.44796857237815857	 ([head][gory,][spellbinding][terrific - looking][well][even][home])
+v(0,1,2,3,4,5,6,7,9,10,17,24,27,30,32): 4.086770057678223, EP: 0.4257930517196655	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][need][well][even][home][versions.])
+v(0,1,2,3,4,5,6,7,9,10,17,32): 3.989119052886963, EP: 0.41561898589134216	 ([sogo][ishii][taken][old][myth][musashibo][benkei][stood][produce][dark,][need][versions.])
+v(8,11,12,13,16,18,20,21,22): 3.2827272415161133, EP: 0.34202131628990173	 ([head][gory,][spellbinding][terrific - looking][legend][be ;][explains][nicely][goes])
+v(14,15,16,18,20,21,22): 2.948160171508789, EP: 0.30716338753700256	 ([movie.][unfamiliar][legend][be ;][explains][nicely][goes])
+v(16,18,20,21,22): 2.2835206985473633, EP: 0.23791581392288208	 ([legend][be ;][explains][nicely][goes])
+v(8,11,12,13): 1.9269709587097168, EP: 0.20076756179332733	 ([head][gory,][spellbinding][terrific - looking])
+v(14,15,24,27,30): 1.2029045820236206, EP: 0.1253284215927124	 ([movie.][unfamiliar][well][even][home])
+v(24,27,30): 1.0175713300704956, EP: 0.10601888597011566	 ([well][even][home])
+v(14,15): 0.42742884159088135, EP: 0.04453302547335625	 ([movie.][unfamiliar])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

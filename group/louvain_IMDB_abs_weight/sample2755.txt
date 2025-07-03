@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['23', '44', '24', '32', '52']: ['world', 'war', 'war', 'war', 'german']: 平均边权 0.8112
+社区 2: ['12', '11', '56', '53', '59']: ['nazi', 'suffer', 'turn', 'happy', 'either.']: 平均边权 0.2953
+社区 3: ['16', '8', '20', '17', '18', '21']: ['like', 'poland', 'example :', 'many', 'european', 'norway.']: 平均边权 0.3161
+社区 4: ['13', '6']: ['occupation', 'story']: 平均边权 1.1165
+社区 5: ['2', '5', '3', '0', '9', '1', '10']: ['film', 'found', 'recently', 'never', 'small', 'viewed', 'town']: 平均边权 0.3553
+社区 6: ['38', '35', '36', '34', '40', '39', '41', '42', '37', '43', '33', '54', '7']: ['wilhelm', 'alexander', 'knox,', 'creates.', 'gorky', 'gimm )', 'park', '"', '(', 'returns', 'always', 'polish', 'concerning']: 平均边权 0.2150
+社区 7: ['25', '22', '31']: ['people', 'first', 'wounded']: 平均边权 0.5012
+社区 8: ['4', '30']: ['tcm', 'soldiers']: 平均边权 0.6473
+社区 9: ['57', '27', '45', '46', '29', '49', '47', '48', '51', '28']: ['fully', 'still', 'lost', 'leg', 'lost', 'teacher', 'former', 'school', 'brought', 'suffering']: 平均边权 0.2683
+社区 10: ['55', '58', '50', '15', '19', '26', '14']: ['people', 'accept', 'town.', 'towns', 'cities', 'town', 'local']: 平均边权 0.3748

@@ -1,0 +1,96 @@
+---------- Players ----------
+Player 0: movie
+Player 1: underrated
+Player 2: police
+Player 3: acadmey
+Player 4: mission
+Player 5: moscow.
+Player 6: movie
+Player 7: never
+Player 8: funny.
+Player 9: maybe
+Player 10: worst
+Player 11: comedy
+Player 12: spoof
+Player 13: ever
+Player 14: made.
+Player 15: boring, and
+Player 16: dumb
+Player 17: beyond
+Player 18: belief.
+Player 19: people
+Player 20: think
+Player 21: movie
+Player 22: underrated
+Player 23: god
+Player 24: help
+Player 25: you.
+Player 26: give
+Player 27: movie
+---------- Rewards ----------
+v(): -0.7249447107315063	 ([])
+v(6,7,11): -2.1435282230377197	 ([movie][never][comedy])
+v(3,4,8,14,16): -0.21549801528453827	 ([acadmey][mission][funny.][made.][dumb])
+v(0,5,19,23,25,26,27): -5.687873363494873	 ([movie][moscow.][people][god][you.][give][movie])
+v(9,10,12,13,15,17,18): 6.65833854675293	 ([maybe][worst][spoof][ever][boring, and][beyond][belief.])
+v(1,2,20,21,22,24): -1.2841105461120605	 ([underrated][police][think][movie][underrated][help])
+v(3,4,6,7,8,11,14,16): 7.311643600463867	 ([acadmey][mission][movie][never][funny.][comedy][made.][dumb])
+v(0,5,6,7,11,19,23,25,26,27): -6.998398780822754	 ([movie][moscow.][movie][never][comedy][people][god][you.][give][movie])
+v(6,7,9,10,11,12,13,15,17,18): 7.228656768798828	 ([movie][never][maybe][worst][comedy][spoof][ever][boring, and][beyond][belief.])
+v(1,2,6,7,11,20,21,22,24): -2.372264862060547	 ([underrated][police][movie][never][comedy][think][movie][underrated][help])
+v(0,3,4,5,8,14,16,19,23,25,26,27): -3.901303291320801	 ([movie][acadmey][mission][moscow.][funny.][made.][dumb][people][god][you.][give][movie])
+v(3,4,8,9,10,12,13,14,15,16,17,18): 7.313399314880371	 ([acadmey][mission][funny.][maybe][worst][spoof][ever][made.][boring, and][dumb][beyond][belief.])
+v(1,2,3,4,8,14,16,20,21,22,24): -1.6222100257873535	 ([underrated][police][acadmey][mission][funny.][made.][dumb][think][movie][underrated][help])
+v(0,5,9,10,12,13,15,17,18,19,23,25,26,27): 6.914603233337402	 ([movie][moscow.][maybe][worst][spoof][ever][boring, and][beyond][belief.][people][god][you.][give][movie])
+v(0,1,2,5,19,20,21,22,23,24,25,26,27): -5.709040641784668	 ([movie][underrated][police][moscow.][people][think][movie][underrated][god][help][you.][give][movie])
+v(1,2,9,10,12,13,15,17,18,20,21,22,24): 7.254383087158203	 ([underrated][police][maybe][worst][spoof][ever][boring, and][beyond][belief.][think][movie][underrated][help])
+v(0,3,4,5,6,7,8,11,14,16,19,23,25,26,27): 7.0065131187438965	 ([movie][acadmey][mission][moscow.][movie][never][funny.][comedy][made.][dumb][people][god][you.][give][movie])
+v(3,4,6,7,8,9,10,11,12,13,14,15,16,17,18): 7.662387371063232	 ([acadmey][mission][movie][never][funny.][maybe][worst][comedy][spoof][ever][made.][boring, and][dumb][beyond][belief.])
+v(1,2,3,4,6,7,8,11,14,16,20,21,22,24): 7.259485244750977	 ([underrated][police][acadmey][mission][movie][never][funny.][comedy][made.][dumb][think][movie][underrated][help])
+v(0,5,6,7,9,10,11,12,13,15,17,18,19,23,25,26,27): 7.472200393676758	 ([movie][moscow.][movie][never][maybe][worst][comedy][spoof][ever][boring, and][beyond][belief.][people][god][you.][give][movie])
+v(0,1,2,5,6,7,11,19,20,21,22,23,24,25,26,27): -6.8978071212768555	 ([movie][underrated][police][moscow.][movie][never][comedy][people][think][movie][underrated][god][help][you.][give][movie])
+v(1,2,6,7,9,10,11,12,13,15,17,18,20,21,22,24): 7.64512825012207	 ([underrated][police][movie][never][maybe][worst][comedy][spoof][ever][boring, and][beyond][belief.][think][movie][underrated][help])
+v(0,3,4,5,8,9,10,12,13,14,15,16,17,18,19,23,25,26,27): 7.377287864685059	 ([movie][acadmey][mission][moscow.][funny.][maybe][worst][spoof][ever][made.][boring, and][dumb][beyond][belief.][people][god][you.][give][movie])
+v(0,1,2,3,4,5,8,14,16,19,20,21,22,23,24,25,26,27): -5.080024242401123	 ([movie][underrated][police][acadmey][mission][moscow.][funny.][made.][dumb][people][think][movie][underrated][god][help][you.][give][movie])
+v(1,2,3,4,8,9,10,12,13,14,15,16,17,18,20,21,22,24): 7.4909162521362305	 ([underrated][police][acadmey][mission][funny.][maybe][worst][spoof][ever][made.][boring, and][dumb][beyond][belief.][think][movie][underrated][help])
+v(0,1,2,5,9,10,12,13,15,17,18,19,20,21,22,23,24,25,26,27): 7.530128479003906	 ([movie][underrated][police][moscow.][maybe][worst][spoof][ever][boring, and][beyond][belief.][people][think][movie][underrated][god][help][you.][give][movie])
+v(0,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,23,25,26,27): 7.726197242736816	 ([movie][acadmey][mission][moscow.][movie][never][funny.][maybe][worst][comedy][spoof][ever][made.][boring, and][dumb][beyond][belief.][people][god][you.][give][movie])
+v(0,1,2,3,4,5,6,7,8,11,14,16,19,20,21,22,23,24,25,26,27): 6.534208297729492	 ([movie][underrated][police][acadmey][mission][moscow.][movie][never][funny.][comedy][made.][dumb][people][think][movie][underrated][god][help][you.][give][movie])
+v(1,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,24): 7.875782012939453	 ([underrated][police][acadmey][mission][movie][never][funny.][maybe][worst][comedy][spoof][ever][made.][boring, and][dumb][beyond][belief.][think][movie][underrated][help])
+v(0,1,2,5,6,7,9,10,11,12,13,15,17,18,19,20,21,22,23,24,25,26,27): 7.66798210144043	 ([movie][underrated][police][moscow.][movie][never][maybe][worst][comedy][spoof][ever][boring, and][beyond][belief.][people][think][movie][underrated][god][help][you.][give][movie])
+v(0,1,2,3,4,5,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 7.322031497955322	 ([movie][underrated][police][acadmey][mission][moscow.][funny.][maybe][worst][spoof][ever][made.][boring, and][dumb][beyond][belief.][people][think][movie][underrated][god][help][you.][give][movie])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 7.714554786682129	 ([movie][underrated][police][acadmey][mission][moscow.][movie][never][funny.][maybe][worst][comedy][spoof][ever][made.][boring, and][dumb][beyond][belief.][people][think][movie][underrated][god][help][you.][give][movie])
+---------- Rewards-v() ----------
+v(1,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,24): 8.600727081298828, EP: 1.0191038846969604	 ([underrated][police][acadmey][mission][movie][never][funny.][maybe][worst][comedy][spoof][ever][made.][boring, and][dumb][beyond][belief.][think][movie][underrated][help])
+v(0,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,23,25,26,27): 8.451142311096191, EP: 1.0013794898986816	 ([movie][acadmey][mission][moscow.][movie][never][funny.][maybe][worst][comedy][spoof][ever][made.][boring, and][dumb][beyond][belief.][people][god][you.][give][movie])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.439499855041504, EP: 1.0	 ([movie][underrated][police][acadmey][mission][moscow.][movie][never][funny.][maybe][worst][comedy][spoof][ever][made.][boring, and][dumb][beyond][belief.][people][think][movie][underrated][god][help][you.][give][movie])
+v(0,1,2,5,6,7,9,10,11,12,13,15,17,18,19,20,21,22,23,24,25,26,27): 8.392927169799805, EP: 0.9944815635681152	 ([movie][underrated][police][moscow.][movie][never][maybe][worst][comedy][spoof][ever][boring, and][beyond][belief.][people][think][movie][underrated][god][help][you.][give][movie])
+v(3,4,6,7,8,9,10,11,12,13,14,15,16,17,18): 8.38733196258545, EP: 0.9938185811042786	 ([acadmey][mission][movie][never][funny.][maybe][worst][comedy][spoof][ever][made.][boring, and][dumb][beyond][belief.])
+v(1,2,6,7,9,10,11,12,13,15,17,18,20,21,22,24): 8.370073318481445, EP: 0.9917736053466797	 ([underrated][police][movie][never][maybe][worst][comedy][spoof][ever][boring, and][beyond][belief.][think][movie][underrated][help])
+v(0,1,2,5,9,10,12,13,15,17,18,19,20,21,22,23,24,25,26,27): 8.255073547363281, EP: 0.9781472682952881	 ([movie][underrated][police][moscow.][maybe][worst][spoof][ever][boring, and][beyond][belief.][people][think][movie][underrated][god][help][you.][give][movie])
+v(1,2,3,4,8,9,10,12,13,14,15,16,17,18,20,21,22,24): 8.215861320495605, EP: 0.9735009670257568	 ([underrated][police][acadmey][mission][funny.][maybe][worst][spoof][ever][made.][boring, and][dumb][beyond][belief.][think][movie][underrated][help])
+v(0,5,6,7,9,10,11,12,13,15,17,18,19,23,25,26,27): 8.197145462036133, EP: 0.9712833166122437	 ([movie][moscow.][movie][never][maybe][worst][comedy][spoof][ever][boring, and][beyond][belief.][people][god][you.][give][movie])
+v(0,3,4,5,8,9,10,12,13,14,15,16,17,18,19,23,25,26,27): 8.102232933044434, EP: 0.960037112236023	 ([movie][acadmey][mission][moscow.][funny.][maybe][worst][spoof][ever][made.][boring, and][dumb][beyond][belief.][people][god][you.][give][movie])
+v(0,1,2,3,4,5,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.046976089477539, EP: 0.9534896612167358	 ([movie][underrated][police][acadmey][mission][moscow.][funny.][maybe][worst][spoof][ever][made.][boring, and][dumb][beyond][belief.][people][think][movie][underrated][god][help][you.][give][movie])
+v(3,4,8,9,10,12,13,14,15,16,17,18): 8.038344383239746, EP: 0.9524669051170349	 ([acadmey][mission][funny.][maybe][worst][spoof][ever][made.][boring, and][dumb][beyond][belief.])
+v(3,4,6,7,8,11,14,16): 8.036588668823242, EP: 0.9522588849067688	 ([acadmey][mission][movie][never][funny.][comedy][made.][dumb])
+v(1,2,3,4,6,7,8,11,14,16,20,21,22,24): 7.984429836273193, EP: 0.9460785388946533	 ([underrated][police][acadmey][mission][movie][never][funny.][comedy][made.][dumb][think][movie][underrated][help])
+v(1,2,9,10,12,13,15,17,18,20,21,22,24): 7.97932767868042, EP: 0.9454740285873413	 ([underrated][police][maybe][worst][spoof][ever][boring, and][beyond][belief.][think][movie][underrated][help])
+v(6,7,9,10,11,12,13,15,17,18): 7.953601360321045, EP: 0.9424256682395935	 ([movie][never][maybe][worst][comedy][spoof][ever][boring, and][beyond][belief.])
+v(0,3,4,5,6,7,8,11,14,16,19,23,25,26,27): 7.731457710266113, EP: 0.9161037802696228	 ([movie][acadmey][mission][moscow.][movie][never][funny.][comedy][made.][dumb][people][god][you.][give][movie])
+v(0,5,9,10,12,13,15,17,18,19,23,25,26,27): 7.639547824859619, EP: 0.9052133560180664	 ([movie][moscow.][maybe][worst][spoof][ever][boring, and][beyond][belief.][people][god][you.][give][movie])
+v(9,10,12,13,15,17,18): 7.3832831382751465, EP: 0.8748484253883362	 ([maybe][worst][spoof][ever][boring, and][beyond][belief.])
+v(0,1,2,3,4,5,6,7,8,11,14,16,19,20,21,22,23,24,25,26,27): 7.259152889251709, EP: 0.8601402044296265	 ([movie][underrated][police][acadmey][mission][moscow.][movie][never][funny.][comedy][made.][dumb][people][think][movie][underrated][god][help][you.][give][movie])
+v(0,5,6,7,11,19,23,25,26,27): -6.273454189300537, EP: -0.7433443069458008	 ([movie][moscow.][movie][never][comedy][people][god][you.][give][movie])
+v(0,1,2,5,6,7,11,19,20,21,22,23,24,25,26,27): -6.172862529754639, EP: -0.7314251661300659	 ([movie][underrated][police][moscow.][movie][never][comedy][people][think][movie][underrated][god][help][you.][give][movie])
+v(0,1,2,5,19,20,21,22,23,24,25,26,27): -4.984096050262451, EP: -0.5905677080154419	 ([movie][underrated][police][moscow.][people][think][movie][underrated][god][help][you.][give][movie])
+v(0,5,19,23,25,26,27): -4.962928771972656, EP: -0.5880596041679382	 ([movie][moscow.][people][god][you.][give][movie])
+v(0,1,2,3,4,5,8,14,16,19,20,21,22,23,24,25,26,27): -4.355079650878906, EP: -0.516035258769989	 ([movie][underrated][police][acadmey][mission][moscow.][funny.][made.][dumb][people][think][movie][underrated][god][help][you.][give][movie])
+v(0,3,4,5,8,14,16,19,23,25,26,27): -3.176358699798584, EP: -0.37636813521385193	 ([movie][acadmey][mission][moscow.][funny.][made.][dumb][people][god][you.][give][movie])
+v(1,2,6,7,11,20,21,22,24): -1.6473201513290405, EP: -0.19519168138504028	 ([underrated][police][movie][never][comedy][think][movie][underrated][help])
+v(6,7,11): -1.4185835123062134, EP: -0.16808857023715973	 ([movie][never][comedy])
+v(1,2,3,4,8,14,16,20,21,22,24): -0.8972653150558472, EP: -0.10631735622882843	 ([underrated][police][acadmey][mission][funny.][made.][dumb][think][movie][underrated][help])
+v(1,2,20,21,22,24): -0.5591658353805542, EP: -0.06625580042600632	 ([underrated][police][think][movie][underrated][help])
+v(3,4,8,14,16): 0.5094466805458069, EP: 0.060364559292793274	 ([acadmey][mission][funny.][made.][dumb])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

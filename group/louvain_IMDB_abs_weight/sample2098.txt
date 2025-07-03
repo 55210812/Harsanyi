@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['39', '38', '41', '42', '46', '40', '47']: ['amongst', 'stories', 'spielberg', 'likes', 'budget', 'others', 'adventure']: 平均边权 0.8781
+社区 2: ['56', '57', '59', '1', '58', '64', '28']: ['examples', 'include', 'welles', 'schumacher,', 'kubrick', 'schumacher', 'horror']: 平均边权 1.4250
+社区 3: ['24', '25', '26', '27']: ['auteur.', 'hitchcock', 'liked', 'suspense']: 平均边权 1.0024
+社区 4: ['32', '30', '29', '31']: ['comedy ;', 'chaplin', 'thriller ;', 'liked']: 平均边权 1.1877
+社区 5: ['20', '19', '35', '36', '34', '18', '21', '16', '15', '23', '22', '37', '33', '17']: ['certain', 'sort', 'crime', 'driven', 'likes', 'develop', 'style', 'time,', 'whilst', 'label', 'might', 'mafia', 'scorsese', 'failing']: 平均边权 0.4206
+社区 6: ['43', '45', '53', '44']: ['large', 'big', 'fun', 'scale,']: 平均边权 0.1934
+社区 7: ['13', '12', '0']: ['genres', 'array', 'joel']: 平均边权 0.4841
+社区 8: ['2', '8', '5', '52', '4', '11', '3', '9', '10', '6', '54', '7']: ['one', 'knowledge ;', 'makers', 'adults', 'film', 'problem', 'inconsistent', 'think', 'main', 'time.', 'kids.', 'common']: 平均边权 0.4333
+社区 9: ['51', '61', '63', '49', '55', '50', '48', '62', '60', '14']: ['violence', 'much', 'here.', 'combine', 'obscure', 'enough', 'films', 'write', 'covered', 'covers']: 平均边权 0.3506

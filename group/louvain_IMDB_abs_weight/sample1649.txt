@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['0', '27', '25', '34', '23', '22', '24', '26']: ['jerome', 'verhoeven', 'films.', 'showgirls.', "verhoeven's", 'paul', 'dutch', 'paul']: 平均边权 0.3985
+社区 2: ['61', '48', '59', '60', '58']: ['never', 'jerry', 'jerry', 'goldsmith', 'wish']: 平均边权 0.8286
+社区 3: ['36', '37', '31', '35']: ['like', 'much', 'seen', 'mom']: 平均边权 0.8015
+社区 4: ['2', '4', '12', '50', '3', '1', '6']: ['lead', 'movie.', 'movie', 'movies', 'role', 'crabbe', 'movie']: 平均边权 0.4756
+社区 5: ['39', '30', '41', '32', '40', '28']: ['think', 'directors.', 'ride', 'movies', 'films', 'one']: 平均边权 0.4292
+社区 6: ['55', '56', '57']: ['instinct', 'hollow', 'man.']: 平均边权 0.5253
+社区 7: ['38', '11', '5', '8', '9', '10', '7']: ['disagree.', 'it.', 'saw', 'times', 'still', 'tired', '6']: 平均边权 0.2652
+社区 8: ['13', '14', '15']: ['similar', 'flesh', 'blood']: 平均边权 0.4938
+社区 9: ['46', '45', '52', '47', '53', '42', '44', '43', '51', '54']: ['basic', 'recall', 'total', 'instinct.', 'recall,', 'watch', 'total', 'especially', 'include', 'basic']: 平均边权 0.2818
+社区 10: ['20', '19', '49', '29', '18', '21', '16', '33', '17']: ['writer.', 'great', 'goldsmith', 'greatest', 'soetman', 'wrote', 'ways.', 'except', 'gerald']: 平均边权 0.3864

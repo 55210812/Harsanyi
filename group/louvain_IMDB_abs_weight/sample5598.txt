@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['55', '56', '57', '41', '42', '52', '54']: ['dialog', 'little', 'action.', 'joanna', 'going.', 'delivers', 'meaningless']: 平均边权 1.1161
+社区 2: ['2', '20', '0', '19', '18', '4', '3', '6', '7']: ['quentin', 'michael', 'director', 'welles,', 'orson', 'screenwriters', 'tarantino,', 'tennessee', 'williams,']: 平均边权 0.8122
+社区 3: ['5', '35', '47', '11', '48', '22', '1', '17', '28']: ['try', 'tries', 'try', 'tries', 'conceal', 'tries', 'tries', 'tries', 'tries']: 平均边权 1.8415
+社区 4: ['61', '63', '36', '49', '40', '50', '37', '60', '64']: ['elevator', 'art', 'get', 'embarrassment', 'ask', 'crappy', 'frame', 'beautiful', 'deco']: 平均边权 0.9478
+社区 5: ['51', '62', '67', '65', '23', '68', '59', '24', '69', '53']: ['stuff.', 'lobbies,', 'goff', 'church', 'gene', 'lovely,', 'town', 'hackman,', 'sprawling', 'endless,']: 平均边权 0.4717
+社区 6: ['8', '27', '32', '34', '29', '21', '15', '33', '31', '25', '58', '30', '16', '9', '26', '14']: ['deborah', 'moore', 'version ),', 'diaz', 'faye', 'rooker', 'james', 'cameron', '( older', 'mary', 'tulsa', 'dunaway', 'coburn', 'kara', 'tyler', 'late']: 平均边权 0.4135
+社区 7: ['71', '70', '66', '45', '46', '73', '44', '43', '10', '72']: ['frank', 'mansion', 'bruce', 'james', 'spader', 'wright.', 'stoltz', 'eric', 'unger', 'lloyd']: 平均边权 0.4994
+社区 8: ['39', '12', '38', '13']: ['( successfully ),', 'faye', 'quickly', 'dunaway,']: 平均边权 1.1304

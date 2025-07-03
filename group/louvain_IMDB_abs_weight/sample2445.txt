@@ -1,0 +1,8 @@
+louvain社区检测结果:
+社区 1: ['0', '52', '15', '44', '37', '62', '10', '31']: ['zombie', 'zombie', 'camp', 'zombie', 'gore', 'zombie', 'b - movie', 'zombie']: 平均边权 2.3704
+社区 2: ['39', '38', '41', '40']: ['great', 'also', 'film', 'gross,']: 平均边权 0.8138
+社区 3: ['12', '11', '5', '16', '13', '14']: ['brad', 'directed', 'obvious', 'blood', 'sykes', 'directed']: 平均边权 0.6150
+社区 4: ['19', '45', '21', '47', '18', '30', '3', '9', '17', '28']: ['low', 'version', 'flick.', 'crypt', 'entertaining', 'entertaining,', 'shout', 'entertaining', 'another', "that's"]: 平均边权 0.6832
+社区 5: ['51', '2', '56', '61', '46', '49', '29', '50', '53', '43', '57', '63', '58', '55', '4', '48', '65', '42', '59', '1', '60', '54']: ['tales', 'something', 'fun', 'tale.', 'tales', 'get', 'makes', 'two', 'encounters', 'like', 'leave', 'chronicles', 'guessing', 'stories', 'about,', 'since', 'better', 'sort', 'especially', 'chronicles', 'first', 'woods,']: 平均边权 0.3529
+社区 6: ['33', '34', '35']: ['cool', 'effective', 'especially']: 平均边权 0.9981
+社区 7: ['8', '20', '27', '36', '25', '32', '23', '22', '24', '26', '64', '6', '7']: ['movie', 'budget', 'movies', 'budget,', 'cheaply', 'make - up', 'bad', 'acting', 'like', 'made', 'lot', 'award', 'winning']: 平均边权 0.4773

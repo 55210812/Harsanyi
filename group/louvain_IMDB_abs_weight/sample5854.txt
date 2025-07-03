@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['39', '40', '41', '42']: ['believe', "dickens '", 'london', 'looked,']: 平均边权 1.4948
+社区 2: ['11', '33', '32', '34', '31']: ['six', 'series', 'classic', 'like', 'bbc']: 平均边权 0.4217
+社区 3: ['38', '37', '36', '35', '52']: ['holmes.', 'sherlock', 'morse', 'inspector', 'sportsman']: 平均边权 0.8870
+社区 4: ['8', '5', '57', '61', '59', '60', '58']: ['book,', 'novel,', '1840', 'place.', 'whenever', 'took', '1820']: 平均边权 0.4035
+社区 5: ['2', '12', '0', '13', '4', '3', '9', '1', '10', '6', '7']: ['closely', 'half', "can't", 'hours', 'follows', 'film', 'since', 'say', 'clocks', 'never', 'read']: 平均边权 0.2746
+社区 6: ['27', '26', '45', '17', '28']: ['values', 'production', 'lot', 'covered', 'high,']: 平均边权 0.2864
+社区 7: ['55', '53', '54']: ['percussion', 'firing', 'pistol']: 平均边权 0.5933
+社区 8: ['20', '19', '25', '21', '18', '16', '15', '23', '22', '24', '51', '14']: ['say', 'least,', 'version.', 'certainty', 'or,', 'base', 'bet', 'digest', "reader's", 'condensed', '- -', 'good']: 平均边权 0.2428
+社区 9: ['56', '46', '29', '49', '47', '30', '50', '48', '44', '43']: ['cap', 'like', 'well', 'minor', 'this.', 'standards', 'lapses', 'occasional', 'thought', 'sounded,']: 平均边权 0.1681

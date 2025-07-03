@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['4', '14', '15', '0', '5', '3', '45']: ['great', 'great', 'actor', 'great', 'film', 'truly', 'great']: 平均边权 1.3883
+社区 2: ['46', '44']: ['example', 'movie']: 平均边权 1.8073
+社区 3: ['43', '41', '52', '42']: ['off.', 'need', 'production', 'pull']: 平均边权 1.0803
+社区 4: ['50', '48', '49', '47']: ['early', 'decision,', 'even', 'every']: 平均边权 0.9817
+社区 5: ['25', '26', '27']: ['jeff', 'daniels', 'would']: 平均边权 0.7095
+社区 6: ['22', '24', '21', '31', '28']: ['needed', 'role.', 'characteristics', 'griffiths', 'choice.']: 平均边权 0.5179
+社区 7: ['55', '16', '53', '23', '1', '51', '54']: ['file.', 'sure,', 'make', 'lead', 'book', 'movie', 'break']: 平均边权 0.3744
+社区 8: ['39', '38', '37', '40', '6']: ['depth', 'portray', 'again,', 'ambivalence,', 'definitely']: 平均边权 0.5524
+社区 9: ['2', '12', '8', '13', '11', '9', '10', '7']: ['possibilities', 'movie.', 'casting', 'hanks', 'wrecked', 'decisions', 'completely', 'there.']: 平均边权 0.4071
+社区 10: ['20', '19', '36', '35', '32', '29', '34', '18', '30', '33', '17']: ['ambivalent', 'morally', 'understandable,', 'reasons,', 'in,', 'putting', 'candy', 'smarmy,', 'melanie', 'eye', 'lacks']: 平均边权 0.2998

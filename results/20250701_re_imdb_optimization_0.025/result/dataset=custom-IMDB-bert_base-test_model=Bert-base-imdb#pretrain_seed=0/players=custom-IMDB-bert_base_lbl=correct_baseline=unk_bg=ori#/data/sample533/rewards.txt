@@ -1,0 +1,174 @@
+---------- Players ----------
+Player 0: plot
+Player 1: death
+Player 2: little
+Player 3: children.
+Player 4: hopper
+Player 5: one
+Player 6: investigate
+Player 7: killings.
+Player 8: movie
+Player 9: appears
+Player 10: troubles
+Player 11: daughter.
+Player 12: end
+Player 13: serial
+Player 14: killer
+Player 15: get
+Player 16: caught.
+Player 17: that's
+Player 18: it.
+Player 19: find
+Player 20: dunnit,
+Player 21: see
+Player 22: terrible
+Player 23: acting
+Player 24: actors.
+Player 25: unbelievable
+Player 26: bad
+Player 27: actors
+Player 28: are,
+Player 29: including
+Player 30: hopper.
+Player 31: could
+Player 32: go
+Player 33: like
+Player 34: much
+Player 35: waste
+Player 36: time.
+Player 37: watch
+Player 38: movie.
+Player 39: i've
+Player 40: warned
+Player 41: you.
+---------- Rewards ----------
+v(): 0.6732884049415588	 ([])
+v(0,2,6,10,11,15,41): 4.056576728820801	 ([plot][little][investigate][troubles][daughter.][get][you.])
+v(12,13,14,25): 2.2806320190429688	 ([end][serial][killer][unbelievable])
+v(8,9,18,19,20,21,22,24,27,28): 6.749570846557617	 ([movie][appears][it.][find][dunnit,][see][terrible][actors.][actors][are,])
+v(4,5,7,23,26,36,37): 7.4537272453308105	 ([hopper][one][killings.][acting][bad][time.][watch])
+v(1,33,34,35,38,39,40): 6.054690837860107	 ([death][like][much][waste][movie.][i've][warned])
+v(3,16,17,29,30,31,32): -0.06565088033676147	 ([children.][caught.][that's][including][hopper.][could][go])
+v(0,2,6,10,11,12,13,14,15,25,41): 4.459726333618164	 ([plot][little][investigate][troubles][daughter.][end][serial][killer][get][unbelievable][you.])
+v(0,2,6,8,9,10,11,15,18,19,20,21,22,24,27,28,41): 7.213483810424805	 ([plot][little][investigate][movie][appears][troubles][daughter.][get][it.][find][dunnit,][see][terrible][actors.][actors][are,][you.])
+v(0,2,4,5,6,7,10,11,15,23,26,36,37,41): 7.87281608581543	 ([plot][little][hopper][one][investigate][killings.][troubles][daughter.][get][acting][bad][time.][watch][you.])
+v(0,1,2,6,10,11,15,33,34,35,38,39,40,41): 7.846045017242432	 ([plot][death][little][investigate][troubles][daughter.][get][like][much][waste][movie.][i've][warned][you.])
+v(0,2,3,6,10,11,15,16,17,29,30,31,32,41): 5.796877861022949	 ([plot][little][children.][investigate][troubles][daughter.][get][caught.][that's][including][hopper.][could][go][you.])
+v(8,9,12,13,14,18,19,20,21,22,24,25,27,28): 7.167922019958496	 ([movie][appears][end][serial][killer][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,])
+v(4,5,7,12,13,14,23,25,26,36,37): 7.248638153076172	 ([hopper][one][killings.][end][serial][killer][acting][unbelievable][bad][time.][watch])
+v(1,12,13,14,25,33,34,35,38,39,40): 6.861349105834961	 ([death][end][serial][killer][unbelievable][like][much][waste][movie.][i've][warned])
+v(3,12,13,14,16,17,25,29,30,31,32): 1.4804377555847168	 ([children.][end][serial][killer][caught.][that's][unbelievable][including][hopper.][could][go])
+v(4,5,7,8,9,18,19,20,21,22,23,24,26,27,28,36,37): 7.692482948303223	 ([hopper][one][killings.][movie][appears][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][time.][watch])
+v(1,8,9,18,19,20,21,22,24,27,28,33,34,35,38,39,40): 7.796257019042969	 ([death][movie][appears][it.][find][dunnit,][see][terrible][actors.][actors][are,][like][much][waste][movie.][i've][warned])
+v(3,8,9,16,17,18,19,20,21,22,24,27,28,29,30,31,32): 7.269461154937744	 ([children.][movie][appears][caught.][that's][it.][find][dunnit,][see][terrible][actors.][actors][are,][including][hopper.][could][go])
+v(1,4,5,7,23,26,33,34,35,36,37,38,39,40): 8.087762832641602	 ([death][hopper][one][killings.][acting][bad][like][much][waste][time.][watch][movie.][i've][warned])
+v(3,4,5,7,16,17,23,26,29,30,31,32,36,37): 7.651935577392578	 ([children.][hopper][one][killings.][caught.][that's][acting][bad][including][hopper.][could][go][time.][watch])
+v(1,3,16,17,29,30,31,32,33,34,35,38,39,40): 7.515227317810059	 ([death][children.][caught.][that's][including][hopper.][could][go][like][much][waste][movie.][i've][warned])
+v(0,2,6,8,9,10,11,12,13,14,15,18,19,20,21,22,24,25,27,28,41): 7.541679859161377	 ([plot][little][investigate][movie][appears][troubles][daughter.][end][serial][killer][get][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,][you.])
+v(0,2,4,5,6,7,10,11,12,13,14,15,23,25,26,36,37,41): 7.857789516448975	 ([plot][little][hopper][one][investigate][killings.][troubles][daughter.][end][serial][killer][get][acting][unbelievable][bad][time.][watch][you.])
+v(0,1,2,6,10,11,12,13,14,15,25,33,34,35,38,39,40,41): 7.944097518920898	 ([plot][death][little][investigate][troubles][daughter.][end][serial][killer][get][unbelievable][like][much][waste][movie.][i've][warned][you.])
+v(0,2,3,6,10,11,12,13,14,15,16,17,25,29,30,31,32,41): 6.282042503356934	 ([plot][little][children.][investigate][troubles][daughter.][end][serial][killer][get][caught.][that's][unbelievable][including][hopper.][could][go][you.])
+v(0,2,4,5,6,7,8,9,10,11,15,18,19,20,21,22,23,24,26,27,28,36,37,41): 7.951871871948242	 ([plot][little][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][get][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][time.][watch][you.])
+v(0,1,2,6,8,9,10,11,15,18,19,20,21,22,24,27,28,33,34,35,38,39,40,41): 8.084493637084961	 ([plot][death][little][investigate][movie][appears][troubles][daughter.][get][it.][find][dunnit,][see][terrible][actors.][actors][are,][like][much][waste][movie.][i've][warned][you.])
+v(0,2,3,6,8,9,10,11,15,16,17,18,19,20,21,22,24,27,28,29,30,31,32,41): 7.910244941711426	 ([plot][little][children.][investigate][movie][appears][troubles][daughter.][get][caught.][that's][it.][find][dunnit,][see][terrible][actors.][actors][are,][including][hopper.][could][go][you.])
+v(0,1,2,4,5,6,7,10,11,15,23,26,33,34,35,36,37,38,39,40,41): 8.259193420410156	 ([plot][death][little][hopper][one][investigate][killings.][troubles][daughter.][get][acting][bad][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(0,2,3,4,5,6,7,10,11,15,16,17,23,26,29,30,31,32,36,37,41): 7.841931343078613	 ([plot][little][children.][hopper][one][investigate][killings.][troubles][daughter.][get][caught.][that's][acting][bad][including][hopper.][could][go][time.][watch][you.])
+v(0,1,2,3,6,10,11,15,16,17,29,30,31,32,33,34,35,38,39,40,41): 8.160451889038086	 ([plot][death][little][children.][investigate][troubles][daughter.][get][caught.][that's][including][hopper.][could][go][like][much][waste][movie.][i've][warned][you.])
+v(4,5,7,8,9,12,13,14,18,19,20,21,22,23,24,25,26,27,28,36,37): 7.8120198249816895	 ([hopper][one][killings.][movie][appears][end][serial][killer][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][time.][watch])
+v(1,8,9,12,13,14,18,19,20,21,22,24,25,27,28,33,34,35,38,39,40): 7.953758239746094	 ([death][movie][appears][end][serial][killer][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,][like][much][waste][movie.][i've][warned])
+v(3,8,9,12,13,14,16,17,18,19,20,21,22,24,25,27,28,29,30,31,32): 7.685108184814453	 ([children.][movie][appears][end][serial][killer][caught.][that's][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,][including][hopper.][could][go])
+v(1,4,5,7,12,13,14,23,25,26,33,34,35,36,37,38,39,40): 8.206268310546875	 ([death][hopper][one][killings.][end][serial][killer][acting][unbelievable][bad][like][much][waste][time.][watch][movie.][i've][warned])
+v(3,4,5,7,12,13,14,16,17,23,25,26,29,30,31,32,36,37): 7.683690547943115	 ([children.][hopper][one][killings.][end][serial][killer][caught.][that's][acting][unbelievable][bad][including][hopper.][could][go][time.][watch])
+v(1,3,12,13,14,16,17,25,29,30,31,32,33,34,35,38,39,40): 7.7352752685546875	 ([death][children.][end][serial][killer][caught.][that's][unbelievable][including][hopper.][could][go][like][much][waste][movie.][i've][warned])
+v(1,4,5,7,8,9,18,19,20,21,22,23,24,26,27,28,33,34,35,36,37,38,39,40): 8.162668228149414	 ([death][hopper][one][killings.][movie][appears][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][like][much][waste][time.][watch][movie.][i've][warned])
+v(3,4,5,7,8,9,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,36,37): 8.090930938720703	 ([children.][hopper][one][killings.][movie][appears][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][including][hopper.][could][go][time.][watch])
+v(1,3,8,9,16,17,18,19,20,21,22,24,27,28,29,30,31,32,33,34,35,38,39,40): 8.145820617675781	 ([death][children.][movie][appears][caught.][that's][it.][find][dunnit,][see][terrible][actors.][actors][are,][including][hopper.][could][go][like][much][waste][movie.][i've][warned])
+v(1,3,4,5,7,16,17,23,26,29,30,31,32,33,34,35,36,37,38,39,40): 8.164165496826172	 ([death][children.][hopper][one][killings.][caught.][that's][acting][bad][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned])
+v(0,2,4,5,6,7,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25,26,27,28,36,37,41): 8.063192367553711	 ([plot][little][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][end][serial][killer][get][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][time.][watch][you.])
+v(0,1,2,6,8,9,10,11,12,13,14,15,18,19,20,21,22,24,25,27,28,33,34,35,38,39,40,41): 8.15450382232666	 ([plot][death][little][investigate][movie][appears][troubles][daughter.][end][serial][killer][get][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,][like][much][waste][movie.][i've][warned][you.])
+v(0,2,3,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,27,28,29,30,31,32,41): 8.025592803955078	 ([plot][little][children.][investigate][movie][appears][troubles][daughter.][end][serial][killer][get][caught.][that's][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,][including][hopper.][could][go][you.])
+v(0,1,2,4,5,6,7,10,11,12,13,14,15,23,25,26,33,34,35,36,37,38,39,40,41): 8.359737396240234	 ([plot][death][little][hopper][one][investigate][killings.][troubles][daughter.][end][serial][killer][get][acting][unbelievable][bad][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(0,2,3,4,5,6,7,10,11,12,13,14,15,16,17,23,25,26,29,30,31,32,36,37,41): 7.9940643310546875	 ([plot][little][children.][hopper][one][investigate][killings.][troubles][daughter.][end][serial][killer][get][caught.][that's][acting][unbelievable][bad][including][hopper.][could][go][time.][watch][you.])
+v(0,1,2,3,6,10,11,12,13,14,15,16,17,25,29,30,31,32,33,34,35,38,39,40,41): 8.159740447998047	 ([plot][death][little][children.][investigate][troubles][daughter.][end][serial][killer][get][caught.][that's][unbelievable][including][hopper.][could][go][like][much][waste][movie.][i've][warned][you.])
+v(0,1,2,4,5,6,7,8,9,10,11,15,18,19,20,21,22,23,24,26,27,28,33,34,35,36,37,38,39,40,41): 8.29988956451416	 ([plot][death][little][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][get][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(0,2,3,4,5,6,7,8,9,10,11,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,36,37,41): 8.168665885925293	 ([plot][little][children.][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][get][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][including][hopper.][could][go][time.][watch][you.])
+v(0,1,2,3,6,8,9,10,11,15,16,17,18,19,20,21,22,24,27,28,29,30,31,32,33,34,35,38,39,40,41): 8.304458618164062	 ([plot][death][little][children.][investigate][movie][appears][troubles][daughter.][get][caught.][that's][it.][find][dunnit,][see][terrible][actors.][actors][are,][including][hopper.][could][go][like][much][waste][movie.][i've][warned][you.])
+v(0,1,2,3,4,5,6,7,10,11,15,16,17,23,26,29,30,31,32,33,34,35,36,37,38,39,40,41): 8.291269302368164	 ([plot][death][little][children.][hopper][one][investigate][killings.][troubles][daughter.][get][caught.][that's][acting][bad][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(1,4,5,7,8,9,12,13,14,18,19,20,21,22,23,24,25,26,27,28,33,34,35,36,37,38,39,40): 8.249841690063477	 ([death][hopper][one][killings.][movie][appears][end][serial][killer][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][like][much][waste][time.][watch][movie.][i've][warned])
+v(3,4,5,7,8,9,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,36,37): 8.201473236083984	 ([children.][hopper][one][killings.][movie][appears][end][serial][killer][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][including][hopper.][could][go][time.][watch])
+v(1,3,8,9,12,13,14,16,17,18,19,20,21,22,24,25,27,28,29,30,31,32,33,34,35,38,39,40): 8.238426208496094	 ([death][children.][movie][appears][end][serial][killer][caught.][that's][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,][including][hopper.][could][go][like][much][waste][movie.][i've][warned])
+v(1,3,4,5,7,12,13,14,16,17,23,25,26,29,30,31,32,33,34,35,36,37,38,39,40): 8.20240592956543	 ([death][children.][hopper][one][killings.][end][serial][killer][caught.][that's][acting][unbelievable][bad][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned])
+v(1,3,4,5,7,8,9,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.252762794494629	 ([death][children.][hopper][one][killings.][movie][appears][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned])
+v(0,1,2,4,5,6,7,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25,26,27,28,33,34,35,36,37,38,39,40,41): 8.368505477905273	 ([plot][death][little][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][end][serial][killer][get][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,36,37,41): 8.343827247619629	 ([plot][little][children.][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][end][serial][killer][get][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][including][hopper.][could][go][time.][watch][you.])
+v(0,1,2,3,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,27,28,29,30,31,32,33,34,35,38,39,40,41): 8.351327896118164	 ([plot][death][little][children.][investigate][movie][appears][troubles][daughter.][end][serial][killer][get][caught.][that's][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,][including][hopper.][could][go][like][much][waste][movie.][i've][warned][you.])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,23,25,26,29,30,31,32,33,34,35,36,37,38,39,40,41): 8.346175193786621	 ([plot][death][little][children.][hopper][one][investigate][killings.][troubles][daughter.][end][serial][killer][get][caught.][that's][acting][unbelievable][bad][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41): 8.417003631591797	 ([plot][death][little][children.][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][get][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(1,3,4,5,7,8,9,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 8.354976654052734	 ([death][children.][hopper][one][killings.][movie][appears][end][serial][killer][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41): 8.497774124145508	 ([plot][death][little][children.][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][end][serial][killer][get][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned][you.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41): 7.824485778808594, EP: 1.0	 ([plot][death][little][children.][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][end][serial][killer][get][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41): 7.743715286254883, EP: 0.9896771907806396	 ([plot][death][little][children.][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][get][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(0,1,2,4,5,6,7,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25,26,27,28,33,34,35,36,37,38,39,40,41): 7.695217132568359, EP: 0.9834789633750916	 ([plot][death][little][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][end][serial][killer][get][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(0,1,2,4,5,6,7,10,11,12,13,14,15,23,25,26,33,34,35,36,37,38,39,40,41): 7.68644905090332, EP: 0.9823583364486694	 ([plot][death][little][hopper][one][investigate][killings.][troubles][daughter.][end][serial][killer][get][acting][unbelievable][bad][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(1,3,4,5,7,8,9,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 7.68168830871582, EP: 0.981749951839447	 ([death][children.][hopper][one][killings.][movie][appears][end][serial][killer][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned])
+v(0,1,2,3,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,27,28,29,30,31,32,33,34,35,38,39,40,41): 7.67803955078125, EP: 0.9812836050987244	 ([plot][death][little][children.][investigate][movie][appears][troubles][daughter.][end][serial][killer][get][caught.][that's][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,][including][hopper.][could][go][like][much][waste][movie.][i've][warned][you.])
+v(0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,23,25,26,29,30,31,32,33,34,35,36,37,38,39,40,41): 7.672886848449707, EP: 0.9806250333786011	 ([plot][death][little][children.][hopper][one][investigate][killings.][troubles][daughter.][end][serial][killer][get][caught.][that's][acting][unbelievable][bad][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,36,37,41): 7.670538902282715, EP: 0.9803249835968018	 ([plot][little][children.][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][end][serial][killer][get][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][including][hopper.][could][go][time.][watch][you.])
+v(0,1,2,3,6,8,9,10,11,15,16,17,18,19,20,21,22,24,27,28,29,30,31,32,33,34,35,38,39,40,41): 7.631170272827148, EP: 0.9752935171127319	 ([plot][death][little][children.][investigate][movie][appears][troubles][daughter.][get][caught.][that's][it.][find][dunnit,][see][terrible][actors.][actors][are,][including][hopper.][could][go][like][much][waste][movie.][i've][warned][you.])
+v(0,1,2,4,5,6,7,8,9,10,11,15,18,19,20,21,22,23,24,26,27,28,33,34,35,36,37,38,39,40,41): 7.626601219177246, EP: 0.9747095704078674	 ([plot][death][little][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][get][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(0,1,2,3,4,5,6,7,10,11,15,16,17,23,26,29,30,31,32,33,34,35,36,37,38,39,40,41): 7.61798095703125, EP: 0.9736078977584839	 ([plot][death][little][children.][hopper][one][investigate][killings.][troubles][daughter.][get][caught.][that's][acting][bad][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(0,1,2,4,5,6,7,10,11,15,23,26,33,34,35,36,37,38,39,40,41): 7.585905075073242, EP: 0.9695084691047668	 ([plot][death][little][hopper][one][investigate][killings.][troubles][daughter.][get][acting][bad][like][much][waste][time.][watch][movie.][i've][warned][you.])
+v(1,3,4,5,7,8,9,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 7.579474449157715, EP: 0.968686580657959	 ([death][children.][hopper][one][killings.][movie][appears][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned])
+v(1,4,5,7,8,9,12,13,14,18,19,20,21,22,23,24,25,26,27,28,33,34,35,36,37,38,39,40): 7.5765533447265625, EP: 0.9683132767677307	 ([death][hopper][one][killings.][movie][appears][end][serial][killer][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][like][much][waste][time.][watch][movie.][i've][warned])
+v(1,3,8,9,12,13,14,16,17,18,19,20,21,22,24,25,27,28,29,30,31,32,33,34,35,38,39,40): 7.56513786315918, EP: 0.9668543338775635	 ([death][children.][movie][appears][end][serial][killer][caught.][that's][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,][including][hopper.][could][go][like][much][waste][movie.][i've][warned])
+v(1,4,5,7,12,13,14,23,25,26,33,34,35,36,37,38,39,40): 7.532979965209961, EP: 0.962744414806366	 ([death][hopper][one][killings.][end][serial][killer][acting][unbelievable][bad][like][much][waste][time.][watch][movie.][i've][warned])
+v(1,3,4,5,7,12,13,14,16,17,23,25,26,29,30,31,32,33,34,35,36,37,38,39,40): 7.529117584228516, EP: 0.9622507691383362	 ([death][children.][hopper][one][killings.][end][serial][killer][caught.][that's][acting][unbelievable][bad][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned])
+v(3,4,5,7,8,9,12,13,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,36,37): 7.52818489074707, EP: 0.9621315598487854	 ([children.][hopper][one][killings.][movie][appears][end][serial][killer][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][including][hopper.][could][go][time.][watch])
+v(0,2,3,4,5,6,7,8,9,10,11,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,36,37,41): 7.495377540588379, EP: 0.9579386711120605	 ([plot][little][children.][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][get][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][including][hopper.][could][go][time.][watch][you.])
+v(1,3,4,5,7,16,17,23,26,29,30,31,32,33,34,35,36,37,38,39,40): 7.490877151489258, EP: 0.957363486289978	 ([death][children.][hopper][one][killings.][caught.][that's][acting][bad][including][hopper.][could][go][like][much][waste][time.][watch][movie.][i've][warned])
+v(1,4,5,7,8,9,18,19,20,21,22,23,24,26,27,28,33,34,35,36,37,38,39,40): 7.4893798828125, EP: 0.957172155380249	 ([death][hopper][one][killings.][movie][appears][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][like][much][waste][time.][watch][movie.][i've][warned])
+v(0,1,2,3,6,10,11,15,16,17,29,30,31,32,33,34,35,38,39,40,41): 7.487163543701172, EP: 0.9568889141082764	 ([plot][death][little][children.][investigate][troubles][daughter.][get][caught.][that's][including][hopper.][could][go][like][much][waste][movie.][i've][warned][you.])
+v(0,1,2,3,6,10,11,12,13,14,15,16,17,25,29,30,31,32,33,34,35,38,39,40,41): 7.486452102661133, EP: 0.9567979574203491	 ([plot][death][little][children.][investigate][troubles][daughter.][end][serial][killer][get][caught.][that's][unbelievable][including][hopper.][could][go][like][much][waste][movie.][i've][warned][you.])
+v(0,1,2,6,8,9,10,11,12,13,14,15,18,19,20,21,22,24,25,27,28,33,34,35,38,39,40,41): 7.481215476989746, EP: 0.956128716468811	 ([plot][death][little][investigate][movie][appears][troubles][daughter.][end][serial][killer][get][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,][like][much][waste][movie.][i've][warned][you.])
+v(1,3,8,9,16,17,18,19,20,21,22,24,27,28,29,30,31,32,33,34,35,38,39,40): 7.472532272338867, EP: 0.955018937587738	 ([death][children.][movie][appears][caught.][that's][it.][find][dunnit,][see][terrible][actors.][actors][are,][including][hopper.][could][go][like][much][waste][movie.][i've][warned])
+v(3,4,5,7,8,9,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,36,37): 7.417642593383789, EP: 0.9480038285255432	 ([children.][hopper][one][killings.][movie][appears][caught.][that's][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][including][hopper.][could][go][time.][watch])
+v(1,4,5,7,23,26,33,34,35,36,37,38,39,40): 7.4144744873046875, EP: 0.947598934173584	 ([death][hopper][one][killings.][acting][bad][like][much][waste][time.][watch][movie.][i've][warned])
+v(0,1,2,6,8,9,10,11,15,18,19,20,21,22,24,27,28,33,34,35,38,39,40,41): 7.411205291748047, EP: 0.9471811056137085	 ([plot][death][little][investigate][movie][appears][troubles][daughter.][get][it.][find][dunnit,][see][terrible][actors.][actors][are,][like][much][waste][movie.][i've][warned][you.])
+v(0,2,4,5,6,7,8,9,10,11,12,13,14,15,18,19,20,21,22,23,24,25,26,27,28,36,37,41): 7.389904022216797, EP: 0.9444587230682373	 ([plot][little][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][end][serial][killer][get][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][time.][watch][you.])
+v(0,2,3,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,27,28,29,30,31,32,41): 7.352304458618164, EP: 0.9396533966064453	 ([plot][little][children.][investigate][movie][appears][troubles][daughter.][end][serial][killer][get][caught.][that's][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,][including][hopper.][could][go][you.])
+v(0,2,3,4,5,6,7,10,11,12,13,14,15,16,17,23,25,26,29,30,31,32,36,37,41): 7.320775985717773, EP: 0.9356238842010498	 ([plot][little][children.][hopper][one][investigate][killings.][troubles][daughter.][end][serial][killer][get][caught.][that's][acting][unbelievable][bad][including][hopper.][could][go][time.][watch][you.])
+v(1,8,9,12,13,14,18,19,20,21,22,24,25,27,28,33,34,35,38,39,40): 7.28046989440918, EP: 0.9304726123809814	 ([death][movie][appears][end][serial][killer][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,][like][much][waste][movie.][i've][warned])
+v(0,2,4,5,6,7,8,9,10,11,15,18,19,20,21,22,23,24,26,27,28,36,37,41): 7.278583526611328, EP: 0.9302315711975098	 ([plot][little][hopper][one][investigate][killings.][movie][appears][troubles][daughter.][get][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][time.][watch][you.])
+v(0,1,2,6,10,11,12,13,14,15,25,33,34,35,38,39,40,41): 7.270809173583984, EP: 0.929237961769104	 ([plot][death][little][investigate][troubles][daughter.][end][serial][killer][get][unbelievable][like][much][waste][movie.][i've][warned][you.])
+v(0,2,3,6,8,9,10,11,15,16,17,18,19,20,21,22,24,27,28,29,30,31,32,41): 7.236956596374512, EP: 0.9249114394187927	 ([plot][little][children.][investigate][movie][appears][troubles][daughter.][get][caught.][that's][it.][find][dunnit,][see][terrible][actors.][actors][are,][including][hopper.][could][go][you.])
+v(0,2,4,5,6,7,10,11,15,23,26,36,37,41): 7.199527740478516, EP: 0.9201279282569885	 ([plot][little][hopper][one][investigate][killings.][troubles][daughter.][get][acting][bad][time.][watch][you.])
+v(0,2,4,5,6,7,10,11,12,13,14,15,23,25,26,36,37,41): 7.1845011711120605, EP: 0.9182074666023254	 ([plot][little][hopper][one][investigate][killings.][troubles][daughter.][end][serial][killer][get][acting][unbelievable][bad][time.][watch][you.])
+v(0,1,2,6,10,11,15,33,34,35,38,39,40,41): 7.172756671905518, EP: 0.9167064428329468	 ([plot][death][little][investigate][troubles][daughter.][get][like][much][waste][movie.][i've][warned][you.])
+v(0,2,3,4,5,6,7,10,11,15,16,17,23,26,29,30,31,32,36,37,41): 7.168642997741699, EP: 0.9161807298660278	 ([plot][little][children.][hopper][one][investigate][killings.][troubles][daughter.][get][caught.][that's][acting][bad][including][hopper.][could][go][time.][watch][you.])
+v(4,5,7,8,9,12,13,14,18,19,20,21,22,23,24,25,26,27,28,36,37): 7.138731479644775, EP: 0.9123579263687134	 ([hopper][one][killings.][movie][appears][end][serial][killer][it.][find][dunnit,][see][terrible][acting][actors.][unbelievable][bad][actors][are,][time.][watch])
+v(1,8,9,18,19,20,21,22,24,27,28,33,34,35,38,39,40): 7.122968673706055, EP: 0.91034334897995	 ([death][movie][appears][it.][find][dunnit,][see][terrible][actors.][actors][are,][like][much][waste][movie.][i've][warned])
+v(1,3,12,13,14,16,17,25,29,30,31,32,33,34,35,38,39,40): 7.061986923217773, EP: 0.9025496244430542	 ([death][children.][end][serial][killer][caught.][that's][unbelievable][including][hopper.][could][go][like][much][waste][movie.][i've][warned])
+v(4,5,7,8,9,18,19,20,21,22,23,24,26,27,28,36,37): 7.019194602966309, EP: 0.8970806002616882	 ([hopper][one][killings.][movie][appears][it.][find][dunnit,][see][terrible][acting][actors.][bad][actors][are,][time.][watch])
+v(3,8,9,12,13,14,16,17,18,19,20,21,22,24,25,27,28,29,30,31,32): 7.011819839477539, EP: 0.8961381316184998	 ([children.][movie][appears][end][serial][killer][caught.][that's][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,][including][hopper.][could][go])
+v(3,4,5,7,12,13,14,16,17,23,25,26,29,30,31,32,36,37): 7.010402202606201, EP: 0.8959569334983826	 ([children.][hopper][one][killings.][end][serial][killer][caught.][that's][acting][unbelievable][bad][including][hopper.][could][go][time.][watch])
+v(3,4,5,7,16,17,23,26,29,30,31,32,36,37): 6.978647232055664, EP: 0.891898512840271	 ([children.][hopper][one][killings.][caught.][that's][acting][bad][including][hopper.][could][go][time.][watch])
+v(0,2,6,8,9,10,11,12,13,14,15,18,19,20,21,22,24,25,27,28,41): 6.868391513824463, EP: 0.8778073787689209	 ([plot][little][investigate][movie][appears][troubles][daughter.][end][serial][killer][get][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,][you.])
+v(1,3,16,17,29,30,31,32,33,34,35,38,39,40): 6.8419389724731445, EP: 0.8744266629219055	 ([death][children.][caught.][that's][including][hopper.][could][go][like][much][waste][movie.][i've][warned])
+v(4,5,7,23,26,36,37): 6.7804388999938965, EP: 0.8665667176246643	 ([hopper][one][killings.][acting][bad][time.][watch])
+v(3,8,9,16,17,18,19,20,21,22,24,27,28,29,30,31,32): 6.59617280960083, EP: 0.8430168032646179	 ([children.][movie][appears][caught.][that's][it.][find][dunnit,][see][terrible][actors.][actors][are,][including][hopper.][could][go])
+v(4,5,7,12,13,14,23,25,26,36,37): 6.575349807739258, EP: 0.8403555154800415	 ([hopper][one][killings.][end][serial][killer][acting][unbelievable][bad][time.][watch])
+v(0,2,6,8,9,10,11,15,18,19,20,21,22,24,27,28,41): 6.540195465087891, EP: 0.8358626365661621	 ([plot][little][investigate][movie][appears][troubles][daughter.][get][it.][find][dunnit,][see][terrible][actors.][actors][are,][you.])
+v(8,9,12,13,14,18,19,20,21,22,24,25,27,28): 6.494633674621582, EP: 0.8300396800041199	 ([movie][appears][end][serial][killer][it.][find][dunnit,][see][terrible][actors.][unbelievable][actors][are,])
+v(1,12,13,14,25,33,34,35,38,39,40): 6.188060760498047, EP: 0.7908584475517273	 ([death][end][serial][killer][unbelievable][like][much][waste][movie.][i've][warned])
+v(8,9,18,19,20,21,22,24,27,28): 6.076282501220703, EP: 0.7765727639198303	 ([movie][appears][it.][find][dunnit,][see][terrible][actors.][actors][are,])
+v(0,2,3,6,10,11,12,13,14,15,16,17,25,29,30,31,32,41): 5.6087541580200195, EP: 0.7168207764625549	 ([plot][little][children.][investigate][troubles][daughter.][end][serial][killer][get][caught.][that's][unbelievable][including][hopper.][could][go][you.])
+v(1,33,34,35,38,39,40): 5.381402492523193, EP: 0.6877643465995789	 ([death][like][much][waste][movie.][i've][warned])
+v(0,2,3,6,10,11,15,16,17,29,30,31,32,41): 5.123589515686035, EP: 0.6548148393630981	 ([plot][little][children.][investigate][troubles][daughter.][get][caught.][that's][including][hopper.][could][go][you.])
+v(0,2,6,10,11,12,13,14,15,25,41): 3.78643798828125, EP: 0.4839216470718384	 ([plot][little][investigate][troubles][daughter.][end][serial][killer][get][unbelievable][you.])
+v(0,2,6,10,11,15,41): 3.3832883834838867, EP: 0.4323975443840027	 ([plot][little][investigate][troubles][daughter.][get][you.])
+v(12,13,14,25): 1.6073436737060547, EP: 0.20542483031749725	 ([end][serial][killer][unbelievable])
+v(3,12,13,14,16,17,25,29,30,31,32): 0.807149350643158, EP: 0.10315685719251633	 ([children.][end][serial][killer][caught.][that's][unbelievable][including][hopper.][could][go])
+v(3,16,17,29,30,31,32): -0.7389392852783203, EP: -0.09443934261798859	 ([children.][caught.][that's][including][hopper.][could][go])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

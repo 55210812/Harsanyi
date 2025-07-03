@@ -1,0 +1,163 @@
+---------- Players ----------
+Player 0: tom
+Player 1: butch
+Player 2: cat
+Player 3: fight
+Player 4: capture
+Player 5: jerry
+Player 6: mouse
+Player 7: one
+Player 8: catch
+Player 9: jerry
+Player 10: gets
+Player 11: kicked
+Player 12: out.
+Player 13: two
+Player 14: cats
+Player 15: dress
+Player 16: master's
+Player 17: clothing
+Player 18: disguise
+Player 19: lets
+Player 20: it!
+Player 21: confused,
+Player 22: tom
+Player 23: butch
+Player 24: whack
+Player 25: master's
+Player 26: rear
+Player 27: three
+Player 28: get
+Player 29: kicked
+Player 30: out.
+---------- Rewards ----------
+v(): 0.9424194097518921	 ([])
+v(15,18,19,20,24,27): -0.3491300642490387	 ([dress][disguise][lets][it!][whack][three])
+v(0,2,21,30): 1.4159530401229858	 ([tom][cat][confused,][out.])
+v(10,11,17,26,28,29): -1.0000745058059692	 ([gets][kicked][clothing][rear][get][kicked])
+v(7,8,9,25): 1.8045544624328613	 ([one][catch][jerry][master's])
+v(4,6,14,16): 1.132413387298584	 ([capture][mouse][cats][master's])
+v(1,3,5,12,13,22,23): 1.7430930137634277	 ([butch][fight][jerry][out.][two][tom][butch])
+v(0,2,15,18,19,20,21,24,27,30): 2.37773060798645	 ([tom][cat][dress][disguise][lets][it!][confused,][whack][three][out.])
+v(10,11,15,17,18,19,20,24,26,27,28,29): -1.1805225610733032	 ([gets][kicked][dress][clothing][disguise][lets][it!][whack][rear][three][get][kicked])
+v(7,8,9,15,18,19,20,24,25,27): 0.7216454744338989	 ([one][catch][jerry][dress][disguise][lets][it!][whack][master's][three])
+v(4,6,14,15,16,18,19,20,24,27): 0.9147498607635498	 ([capture][mouse][cats][dress][master's][disguise][lets][it!][whack][three])
+v(1,3,5,12,13,15,18,19,20,22,23,24,27): 2.047679901123047	 ([butch][fight][jerry][out.][two][dress][disguise][lets][it!][tom][butch][whack][three])
+v(0,2,10,11,17,21,26,28,29,30): 0.6628568768501282	 ([tom][cat][gets][kicked][clothing][confused,][rear][get][kicked][out.])
+v(0,2,7,8,9,21,25,30): 1.6125359535217285	 ([tom][cat][one][catch][jerry][confused,][master's][out.])
+v(0,2,4,6,14,16,21,30): 2.1606338024139404	 ([tom][cat][capture][mouse][cats][master's][confused,][out.])
+v(0,1,2,3,5,12,13,21,22,23,30): 2.6966958045959473	 ([tom][butch][cat][fight][jerry][out.][two][confused,][tom][butch][out.])
+v(7,8,9,10,11,17,25,26,28,29): 0.2431194931268692	 ([one][catch][jerry][gets][kicked][clothing][master's][rear][get][kicked])
+v(4,6,10,11,14,16,17,26,28,29): -0.2622416019439697	 ([capture][mouse][gets][kicked][cats][master's][clothing][rear][get][kicked])
+v(1,3,5,10,11,12,13,17,22,23,26,28,29): 0.288154661655426	 ([butch][fight][jerry][gets][kicked][out.][two][clothing][tom][butch][rear][get][kicked])
+v(4,6,7,8,9,14,16,25): 1.3439027070999146	 ([capture][mouse][one][catch][jerry][cats][master's][master's])
+v(1,3,5,7,8,9,12,13,22,23,25): 2.8644418716430664	 ([butch][fight][jerry][one][catch][jerry][out.][two][tom][butch][master's])
+v(1,3,4,5,6,12,13,14,16,22,23): 3.365051746368408	 ([butch][fight][capture][jerry][mouse][out.][two][cats][master's][tom][butch])
+v(0,2,10,11,15,17,18,19,20,21,24,26,27,28,29,30): 2.136807680130005	 ([tom][cat][gets][kicked][dress][clothing][disguise][lets][it!][confused,][whack][rear][three][get][kicked][out.])
+v(0,2,7,8,9,15,18,19,20,21,24,25,27,30): 2.598857879638672	 ([tom][cat][one][catch][jerry][dress][disguise][lets][it!][confused,][whack][master's][three][out.])
+v(0,2,4,6,14,15,16,18,19,20,21,24,27,30): 3.2867608070373535	 ([tom][cat][capture][mouse][cats][dress][master's][disguise][lets][it!][confused,][whack][three][out.])
+v(0,1,2,3,5,12,13,15,18,19,20,21,22,23,24,27,30): 3.502272129058838	 ([tom][butch][cat][fight][jerry][out.][two][dress][disguise][lets][it!][confused,][tom][butch][whack][three][out.])
+v(7,8,9,10,11,15,17,18,19,20,24,25,26,27,28,29): 0.034599438309669495	 ([one][catch][jerry][gets][kicked][dress][clothing][disguise][lets][it!][whack][master's][rear][three][get][kicked])
+v(4,6,10,11,14,15,16,17,18,19,20,24,26,27,28,29): 0.0934140682220459	 ([capture][mouse][gets][kicked][cats][dress][master's][clothing][disguise][lets][it!][whack][rear][three][get][kicked])
+v(1,3,5,10,11,12,13,15,17,18,19,20,22,23,24,26,27,28,29): 1.4948867559432983	 ([butch][fight][jerry][gets][kicked][out.][two][dress][clothing][disguise][lets][it!][tom][butch][whack][rear][three][get][kicked])
+v(4,6,7,8,9,14,15,16,18,19,20,24,25,27): 0.7229557037353516	 ([capture][mouse][one][catch][jerry][cats][dress][master's][disguise][lets][it!][whack][master's][three])
+v(1,3,5,7,8,9,12,13,15,18,19,20,22,23,24,25,27): 2.6601109504699707	 ([butch][fight][jerry][one][catch][jerry][out.][two][dress][disguise][lets][it!][tom][butch][whack][master's][three])
+v(1,3,4,5,6,12,13,14,15,16,18,19,20,22,23,24,27): 3.1994762420654297	 ([butch][fight][capture][jerry][mouse][out.][two][cats][dress][master's][disguise][lets][it!][tom][butch][whack][three])
+v(0,2,7,8,9,10,11,17,21,25,26,28,29,30): 0.7246991395950317	 ([tom][cat][one][catch][jerry][gets][kicked][clothing][confused,][master's][rear][get][kicked][out.])
+v(0,2,4,6,10,11,14,16,17,21,26,28,29,30): 1.9835331439971924	 ([tom][cat][capture][mouse][gets][kicked][cats][master's][clothing][confused,][rear][get][kicked][out.])
+v(0,1,2,3,5,10,11,12,13,17,21,22,23,26,28,29,30): 2.7398719787597656	 ([tom][butch][cat][fight][jerry][gets][kicked][out.][two][clothing][confused,][tom][butch][rear][get][kicked][out.])
+v(0,2,4,6,7,8,9,14,16,21,25,30): 2.0930233001708984	 ([tom][cat][capture][mouse][one][catch][jerry][cats][master's][confused,][master's][out.])
+v(0,1,2,3,5,7,8,9,12,13,21,22,23,25,30): 3.923381805419922	 ([tom][butch][cat][fight][jerry][one][catch][jerry][out.][two][confused,][tom][butch][master's][out.])
+v(0,1,2,3,4,5,6,12,13,14,16,21,22,23,30): 3.388225555419922	 ([tom][butch][cat][fight][capture][jerry][mouse][out.][two][cats][master's][confused,][tom][butch][out.])
+v(4,6,7,8,9,10,11,14,16,17,25,26,28,29): 0.26828405261039734	 ([capture][mouse][one][catch][jerry][gets][kicked][cats][master's][clothing][master's][rear][get][kicked])
+v(1,3,5,7,8,9,10,11,12,13,17,22,23,25,26,28,29): 1.3544155359268188	 ([butch][fight][jerry][one][catch][jerry][gets][kicked][out.][two][clothing][tom][butch][master's][rear][get][kicked])
+v(1,3,4,5,6,10,11,12,13,14,16,17,22,23,26,28,29): 2.175680160522461	 ([butch][fight][capture][jerry][mouse][gets][kicked][out.][two][cats][master's][clothing][tom][butch][rear][get][kicked])
+v(1,3,4,5,6,7,8,9,12,13,14,16,22,23,25): 3.3717384338378906	 ([butch][fight][capture][jerry][mouse][one][catch][jerry][out.][two][cats][master's][tom][butch][master's])
+v(0,2,7,8,9,10,11,15,17,18,19,20,21,24,25,26,27,28,29,30): 2.6781840324401855	 ([tom][cat][one][catch][jerry][gets][kicked][dress][clothing][disguise][lets][it!][confused,][whack][master's][rear][three][get][kicked][out.])
+v(0,2,4,6,10,11,14,15,16,17,18,19,20,21,24,26,27,28,29,30): 3.294558048248291	 ([tom][cat][capture][mouse][gets][kicked][cats][dress][master's][clothing][disguise][lets][it!][confused,][whack][rear][three][get][kicked][out.])
+v(0,1,2,3,5,10,11,12,13,15,17,18,19,20,21,22,23,24,26,27,28,29,30): 3.478321075439453	 ([tom][butch][cat][fight][jerry][gets][kicked][out.][two][dress][clothing][disguise][lets][it!][confused,][tom][butch][whack][rear][three][get][kicked][out.])
+v(0,2,4,6,7,8,9,14,15,16,18,19,20,21,24,25,27,30): 2.899519681930542	 ([tom][cat][capture][mouse][one][catch][jerry][cats][dress][master's][disguise][lets][it!][confused,][whack][master's][three][out.])
+v(0,1,2,3,5,7,8,9,12,13,15,18,19,20,21,22,23,24,25,27,30): 4.024216651916504	 ([tom][butch][cat][fight][jerry][one][catch][jerry][out.][two][dress][disguise][lets][it!][confused,][tom][butch][whack][master's][three][out.])
+v(0,1,2,3,4,5,6,12,13,14,15,16,18,19,20,21,22,23,24,27,30): 3.6633553504943848	 ([tom][butch][cat][fight][capture][jerry][mouse][out.][two][cats][dress][master's][disguise][lets][it!][confused,][tom][butch][whack][three][out.])
+v(4,6,7,8,9,10,11,14,15,16,17,18,19,20,24,25,26,27,28,29): 0.2619020938873291	 ([capture][mouse][one][catch][jerry][gets][kicked][cats][dress][master's][clothing][disguise][lets][it!][whack][master's][rear][three][get][kicked])
+v(1,3,5,7,8,9,10,11,12,13,15,17,18,19,20,22,23,24,25,26,27,28,29): 1.7790553569793701	 ([butch][fight][jerry][one][catch][jerry][gets][kicked][out.][two][dress][clothing][disguise][lets][it!][tom][butch][whack][master's][rear][three][get][kicked])
+v(1,3,4,5,6,10,11,12,13,14,15,16,17,18,19,20,22,23,24,26,27,28,29): 2.8680436611175537	 ([butch][fight][capture][jerry][mouse][gets][kicked][out.][two][cats][dress][master's][clothing][disguise][lets][it!][tom][butch][whack][rear][three][get][kicked])
+v(1,3,4,5,6,7,8,9,12,13,14,15,16,18,19,20,22,23,24,25,27): 3.254411220550537	 ([butch][fight][capture][jerry][mouse][one][catch][jerry][out.][two][cats][dress][master's][disguise][lets][it!][tom][butch][whack][master's][three])
+v(0,2,4,6,7,8,9,10,11,14,16,17,21,25,26,28,29,30): 1.7944517135620117	 ([tom][cat][capture][mouse][one][catch][jerry][gets][kicked][cats][master's][clothing][confused,][master's][rear][get][kicked][out.])
+v(0,1,2,3,5,7,8,9,10,11,12,13,17,21,22,23,25,26,28,29,30): 3.4791064262390137	 ([tom][butch][cat][fight][jerry][one][catch][jerry][gets][kicked][out.][two][clothing][confused,][tom][butch][master's][rear][get][kicked][out.])
+v(0,1,2,3,4,5,6,10,11,12,13,14,16,17,21,22,23,26,28,29,30): 3.580526828765869	 ([tom][butch][cat][fight][capture][jerry][mouse][gets][kicked][out.][two][cats][master's][clothing][confused,][tom][butch][rear][get][kicked][out.])
+v(0,1,2,3,4,5,6,7,8,9,12,13,14,16,21,22,23,25,30): 3.5930585861206055	 ([tom][butch][cat][fight][capture][jerry][mouse][one][catch][jerry][out.][two][cats][master's][confused,][tom][butch][master's][out.])
+v(1,3,4,5,6,7,8,9,10,11,12,13,14,16,17,22,23,25,26,28,29): 2.5450220108032227	 ([butch][fight][capture][jerry][mouse][one][catch][jerry][gets][kicked][out.][two][cats][master's][clothing][tom][butch][master's][rear][get][kicked])
+v(0,2,4,6,7,8,9,10,11,14,15,16,17,18,19,20,21,24,25,26,27,28,29,30): 3.2069013118743896	 ([tom][cat][capture][mouse][one][catch][jerry][gets][kicked][cats][dress][master's][clothing][disguise][lets][it!][confused,][whack][master's][rear][three][get][kicked][out.])
+v(0,1,2,3,5,7,8,9,10,11,12,13,15,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 4.0217108726501465	 ([tom][butch][cat][fight][jerry][one][catch][jerry][gets][kicked][out.][two][dress][clothing][disguise][lets][it!][confused,][tom][butch][whack][master's][rear][three][get][kicked][out.])
+v(0,1,2,3,4,5,6,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30): 3.8759098052978516	 ([tom][butch][cat][fight][capture][jerry][mouse][gets][kicked][out.][two][cats][dress][master's][clothing][disguise][lets][it!][confused,][tom][butch][whack][rear][three][get][kicked][out.])
+v(0,1,2,3,4,5,6,7,8,9,12,13,14,15,16,18,19,20,21,22,23,24,25,27,30): 3.7208404541015625	 ([tom][butch][cat][fight][capture][jerry][mouse][one][catch][jerry][out.][two][cats][dress][master's][disguise][lets][it!][confused,][tom][butch][whack][master's][three][out.])
+v(1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,25,26,27,28,29): 2.841439723968506	 ([butch][fight][capture][jerry][mouse][one][catch][jerry][gets][kicked][out.][two][cats][dress][master's][clothing][disguise][lets][it!][tom][butch][whack][master's][rear][three][get][kicked])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,17,21,22,23,25,26,28,29,30): 3.5989699363708496	 ([tom][butch][cat][fight][capture][jerry][mouse][one][catch][jerry][gets][kicked][out.][two][cats][master's][clothing][confused,][tom][butch][master's][rear][get][kicked][out.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 4.010202407836914	 ([tom][butch][cat][fight][capture][jerry][mouse][one][catch][jerry][gets][kicked][out.][two][cats][dress][master's][clothing][disguise][lets][it!][confused,][tom][butch][whack][master's][rear][three][get][kicked][out.])
+---------- Rewards-v() ----------
+v(0,1,2,3,5,7,8,9,12,13,15,18,19,20,21,22,23,24,25,27,30): 3.0817971229553223, EP: 1.0045682191848755	 ([tom][butch][cat][fight][jerry][one][catch][jerry][out.][two][dress][disguise][lets][it!][confused,][tom][butch][whack][master's][three][out.])
+v(0,1,2,3,5,7,8,9,10,11,12,13,15,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 3.079291343688965, EP: 1.0037513971328735	 ([tom][butch][cat][fight][jerry][one][catch][jerry][gets][kicked][out.][two][dress][clothing][disguise][lets][it!][confused,][tom][butch][whack][master's][rear][three][get][kicked][out.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30): 3.0677828788757324, EP: 1.0	 ([tom][butch][cat][fight][capture][jerry][mouse][one][catch][jerry][gets][kicked][out.][two][cats][dress][master's][clothing][disguise][lets][it!][confused,][tom][butch][whack][master's][rear][three][get][kicked][out.])
+v(0,1,2,3,5,7,8,9,12,13,21,22,23,25,30): 2.9809622764587402, EP: 0.9716992378234863	 ([tom][butch][cat][fight][jerry][one][catch][jerry][out.][two][confused,][tom][butch][master's][out.])
+v(0,1,2,3,4,5,6,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30): 2.93349027633667, EP: 0.9562248587608337	 ([tom][butch][cat][fight][capture][jerry][mouse][gets][kicked][out.][two][cats][dress][master's][clothing][disguise][lets][it!][confused,][tom][butch][whack][rear][three][get][kicked][out.])
+v(0,1,2,3,4,5,6,7,8,9,12,13,14,15,16,18,19,20,21,22,23,24,25,27,30): 2.778420925140381, EP: 0.9056771993637085	 ([tom][butch][cat][fight][capture][jerry][mouse][one][catch][jerry][out.][two][cats][dress][master's][disguise][lets][it!][confused,][tom][butch][whack][master's][three][out.])
+v(0,1,2,3,4,5,6,12,13,14,15,16,18,19,20,21,22,23,24,27,30): 2.720935821533203, EP: 0.8869388699531555	 ([tom][butch][cat][fight][capture][jerry][mouse][out.][two][cats][dress][master's][disguise][lets][it!][confused,][tom][butch][whack][three][out.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,17,21,22,23,25,26,28,29,30): 2.656550407409668, EP: 0.8659512400627136	 ([tom][butch][cat][fight][capture][jerry][mouse][one][catch][jerry][gets][kicked][out.][two][cats][master's][clothing][confused,][tom][butch][master's][rear][get][kicked][out.])
+v(0,1,2,3,4,5,6,7,8,9,12,13,14,16,21,22,23,25,30): 2.650639057159424, EP: 0.8640243411064148	 ([tom][butch][cat][fight][capture][jerry][mouse][one][catch][jerry][out.][two][cats][master's][confused,][tom][butch][master's][out.])
+v(0,1,2,3,4,5,6,10,11,12,13,14,16,17,21,22,23,26,28,29,30): 2.6381072998046875, EP: 0.8599393963813782	 ([tom][butch][cat][fight][capture][jerry][mouse][gets][kicked][out.][two][cats][master's][clothing][confused,][tom][butch][rear][get][kicked][out.])
+v(0,1,2,3,5,12,13,15,18,19,20,21,22,23,24,27,30): 2.5598526000976562, EP: 0.8344308137893677	 ([tom][butch][cat][fight][jerry][out.][two][dress][disguise][lets][it!][confused,][tom][butch][whack][three][out.])
+v(0,1,2,3,5,7,8,9,10,11,12,13,17,21,22,23,25,26,28,29,30): 2.536686897277832, EP: 0.8268795609474182	 ([tom][butch][cat][fight][jerry][one][catch][jerry][gets][kicked][out.][two][clothing][confused,][tom][butch][master's][rear][get][kicked][out.])
+v(0,1,2,3,5,10,11,12,13,15,17,18,19,20,21,22,23,24,26,27,28,29,30): 2.5359015464782715, EP: 0.8266235589981079	 ([tom][butch][cat][fight][jerry][gets][kicked][out.][two][dress][clothing][disguise][lets][it!][confused,][tom][butch][whack][rear][three][get][kicked][out.])
+v(0,1,2,3,4,5,6,12,13,14,16,21,22,23,30): 2.4458060264587402, EP: 0.797255277633667	 ([tom][butch][cat][fight][capture][jerry][mouse][out.][two][cats][master's][confused,][tom][butch][out.])
+v(1,3,4,5,6,7,8,9,12,13,14,16,22,23,25): 2.429318904876709, EP: 0.7918809652328491	 ([butch][fight][capture][jerry][mouse][one][catch][jerry][out.][two][cats][master's][tom][butch][master's])
+v(1,3,4,5,6,12,13,14,16,22,23): 2.4226322174072266, EP: 0.7897013425827026	 ([butch][fight][capture][jerry][mouse][out.][two][cats][master's][tom][butch])
+v(0,2,4,6,10,11,14,15,16,17,18,19,20,21,24,26,27,28,29,30): 2.3521385192871094, EP: 0.7667226195335388	 ([tom][cat][capture][mouse][gets][kicked][cats][dress][master's][clothing][disguise][lets][it!][confused,][whack][rear][three][get][kicked][out.])
+v(0,2,4,6,14,15,16,18,19,20,21,24,27,30): 2.344341278076172, EP: 0.7641809582710266	 ([tom][cat][capture][mouse][cats][dress][master's][disguise][lets][it!][confused,][whack][three][out.])
+v(1,3,4,5,6,7,8,9,12,13,14,15,16,18,19,20,22,23,24,25,27): 2.3119916915893555, EP: 0.7536360025405884	 ([butch][fight][capture][jerry][mouse][one][catch][jerry][out.][two][cats][dress][master's][disguise][lets][it!][tom][butch][whack][master's][three])
+v(0,2,4,6,7,8,9,10,11,14,15,16,17,18,19,20,21,24,25,26,27,28,29,30): 2.264482021331787, EP: 0.7381494045257568	 ([tom][cat][capture][mouse][one][catch][jerry][gets][kicked][cats][dress][master's][clothing][disguise][lets][it!][confused,][whack][master's][rear][three][get][kicked][out.])
+v(1,3,4,5,6,12,13,14,15,16,18,19,20,22,23,24,27): 2.257056713104248, EP: 0.7357289791107178	 ([butch][fight][capture][jerry][mouse][out.][two][cats][dress][master's][disguise][lets][it!][tom][butch][whack][three])
+v(10,11,15,17,18,19,20,24,26,27,28,29): -2.1229419708251953, EP: -0.692011833190918	 ([gets][kicked][dress][clothing][disguise][lets][it!][whack][rear][three][get][kicked])
+v(0,2,4,6,7,8,9,14,15,16,18,19,20,21,24,25,27,30): 1.95710027217865, EP: 0.6379526853561401	 ([tom][cat][capture][mouse][one][catch][jerry][cats][dress][master's][disguise][lets][it!][confused,][whack][master's][three][out.])
+v(10,11,17,26,28,29): -1.9424939155578613, EP: -0.6331914663314819	 ([gets][kicked][clothing][rear][get][kicked])
+v(1,3,4,5,6,10,11,12,13,14,15,16,17,18,19,20,22,23,24,26,27,28,29): 1.9256242513656616, EP: 0.627692461013794	 ([butch][fight][capture][jerry][mouse][gets][kicked][out.][two][cats][dress][master's][clothing][disguise][lets][it!][tom][butch][whack][rear][three][get][kicked])
+v(1,3,5,7,8,9,12,13,22,23,25): 1.9220224618911743, EP: 0.6265184283256531	 ([butch][fight][jerry][one][catch][jerry][out.][two][tom][butch][master's])
+v(1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,25,26,27,28,29): 1.8990203142166138, EP: 0.6190204620361328	 ([butch][fight][capture][jerry][mouse][one][catch][jerry][gets][kicked][out.][two][cats][dress][master's][clothing][disguise][lets][it!][tom][butch][whack][master's][rear][three][get][kicked])
+v(0,1,2,3,5,10,11,12,13,17,21,22,23,26,28,29,30): 1.7974525690078735, EP: 0.5859125852584839	 ([tom][butch][cat][fight][jerry][gets][kicked][out.][two][clothing][confused,][tom][butch][rear][get][kicked][out.])
+v(0,1,2,3,5,12,13,21,22,23,30): 1.7542763948440552, EP: 0.5718384981155396	 ([tom][butch][cat][fight][jerry][out.][two][confused,][tom][butch][out.])
+v(0,2,7,8,9,10,11,15,17,18,19,20,21,24,25,26,27,28,29,30): 1.7357646226882935, EP: 0.5658042430877686	 ([tom][cat][one][catch][jerry][gets][kicked][dress][clothing][disguise][lets][it!][confused,][whack][master's][rear][three][get][kicked][out.])
+v(1,3,5,7,8,9,12,13,15,18,19,20,22,23,24,25,27): 1.7176915407180786, EP: 0.5599129796028137	 ([butch][fight][jerry][one][catch][jerry][out.][two][dress][disguise][lets][it!][tom][butch][whack][master's][three])
+v(0,2,7,8,9,15,18,19,20,21,24,25,27,30): 1.6564384698867798, EP: 0.539946436882019	 ([tom][cat][one][catch][jerry][dress][disguise][lets][it!][confused,][whack][master's][three][out.])
+v(1,3,4,5,6,7,8,9,10,11,12,13,14,16,17,22,23,25,26,28,29): 1.6026026010513306, EP: 0.5223976373672485	 ([butch][fight][capture][jerry][mouse][one][catch][jerry][gets][kicked][out.][two][cats][master's][clothing][tom][butch][master's][rear][get][kicked])
+v(0,2,15,18,19,20,21,24,27,30): 1.435311198234558, EP: 0.4678659737110138	 ([tom][cat][dress][disguise][lets][it!][confused,][whack][three][out.])
+v(15,18,19,20,24,27): -1.2915494441986084, EP: -0.42100417613983154	 ([dress][disguise][lets][it!][whack][three])
+v(1,3,4,5,6,10,11,12,13,14,16,17,22,23,26,28,29): 1.2332607507705688, EP: 0.4020039141178131	 ([butch][fight][capture][jerry][mouse][gets][kicked][out.][two][cats][master's][clothing][tom][butch][rear][get][kicked])
+v(0,2,4,6,14,16,21,30): 1.2182143926620483, EP: 0.3970992863178253	 ([tom][cat][capture][mouse][cats][master's][confused,][out.])
+v(4,6,10,11,14,16,17,26,28,29): -1.2046610116958618, EP: -0.3926813006401062	 ([capture][mouse][gets][kicked][cats][master's][clothing][rear][get][kicked])
+v(0,2,10,11,15,17,18,19,20,21,24,26,27,28,29,30): 1.1943882703781128, EP: 0.38933271169662476	 ([tom][cat][gets][kicked][dress][clothing][disguise][lets][it!][confused,][whack][rear][three][get][kicked][out.])
+v(0,2,4,6,7,8,9,14,16,21,25,30): 1.1506038904190063, EP: 0.37506040930747986	 ([tom][cat][capture][mouse][one][catch][jerry][cats][master's][confused,][master's][out.])
+v(1,3,5,12,13,15,18,19,20,22,23,24,27): 1.1052604913711548, EP: 0.3602798879146576	 ([butch][fight][jerry][out.][two][dress][disguise][lets][it!][tom][butch][whack][three])
+v(0,2,4,6,10,11,14,16,17,21,26,28,29,30): 1.0411137342453003, EP: 0.33937007188796997	 ([tom][cat][capture][mouse][gets][kicked][cats][master's][clothing][confused,][rear][get][kicked][out.])
+v(7,8,9,10,11,15,17,18,19,20,24,25,26,27,28,29): -0.9078199863433838, EP: -0.29592055082321167	 ([one][catch][jerry][gets][kicked][dress][clothing][disguise][lets][it!][whack][master's][rear][three][get][kicked])
+v(7,8,9,25): 0.8621350526809692, EP: 0.28102871775627136	 ([one][catch][jerry][master's])
+v(0,2,4,6,7,8,9,10,11,14,16,17,21,25,26,28,29,30): 0.8520323038101196, EP: 0.27773553133010864	 ([tom][cat][capture][mouse][one][catch][jerry][gets][kicked][cats][master's][clothing][confused,][master's][rear][get][kicked][out.])
+v(4,6,10,11,14,15,16,17,18,19,20,24,26,27,28,29): -0.8490053415298462, EP: -0.2767488360404968	 ([capture][mouse][gets][kicked][cats][dress][master's][clothing][disguise][lets][it!][whack][rear][three][get][kicked])
+v(1,3,5,7,8,9,10,11,12,13,15,17,18,19,20,22,23,24,25,26,27,28,29): 0.836635947227478, EP: 0.27271682024002075	 ([butch][fight][jerry][one][catch][jerry][gets][kicked][out.][two][dress][clothing][disguise][lets][it!][tom][butch][whack][master's][rear][three][get][kicked])
+v(1,3,5,12,13,22,23): 0.8006736040115356, EP: 0.26099422574043274	 ([butch][fight][jerry][out.][two][tom][butch])
+v(7,8,9,10,11,17,25,26,28,29): -0.6992999315261841, EP: -0.2279496192932129	 ([one][catch][jerry][gets][kicked][clothing][master's][rear][get][kicked])
+v(4,6,7,8,9,10,11,14,15,16,17,18,19,20,24,25,26,27,28,29): -0.680517315864563, EP: -0.22182707488536835	 ([capture][mouse][one][catch][jerry][gets][kicked][cats][dress][master's][clothing][disguise][lets][it!][whack][master's][rear][three][get][kicked])
+v(4,6,7,8,9,10,11,14,16,17,25,26,28,29): -0.6741353273391724, EP: -0.21974675357341766	 ([capture][mouse][one][catch][jerry][gets][kicked][cats][master's][clothing][master's][rear][get][kicked])
+v(0,2,7,8,9,21,25,30): 0.6701165437698364, EP: 0.21843676269054413	 ([tom][cat][one][catch][jerry][confused,][master's][out.])
+v(1,3,5,10,11,12,13,17,22,23,26,28,29): -0.6542647480964661, EP: -0.21326957643032074	 ([butch][fight][jerry][gets][kicked][out.][two][clothing][tom][butch][rear][get][kicked])
+v(1,3,5,10,11,12,13,15,17,18,19,20,22,23,24,26,27,28,29): 0.5524673461914062, EP: 0.18008685111999512	 ([butch][fight][jerry][gets][kicked][out.][two][dress][clothing][disguise][lets][it!][tom][butch][whack][rear][three][get][kicked])
+v(0,2,21,30): 0.47353363037109375, EP: 0.1543569564819336	 ([tom][cat][confused,][out.])
+v(1,3,5,7,8,9,10,11,12,13,17,22,23,25,26,28,29): 0.41199612617492676, EP: 0.1342976838350296	 ([butch][fight][jerry][one][catch][jerry][gets][kicked][out.][two][clothing][tom][butch][master's][rear][get][kicked])
+v(4,6,7,8,9,14,16,25): 0.40148329734802246, EP: 0.13087083399295807	 ([capture][mouse][one][catch][jerry][cats][master's][master's])
+v(0,2,10,11,17,21,26,28,29,30): -0.2795625329017639, EP: -0.09112852811813354	 ([tom][cat][gets][kicked][clothing][confused,][rear][get][kicked][out.])
+v(7,8,9,15,18,19,20,24,25,27): -0.22077393531799316, EP: -0.0719653069972992	 ([one][catch][jerry][dress][disguise][lets][it!][whack][master's][three])
+v(4,6,7,8,9,14,15,16,18,19,20,24,25,27): -0.21946370601654053, EP: -0.07153820991516113	 ([capture][mouse][one][catch][jerry][cats][dress][master's][disguise][lets][it!][whack][master's][three])
+v(0,2,7,8,9,10,11,17,21,25,26,28,29,30): -0.21772027015686035, EP: -0.07096990942955017	 ([tom][cat][one][catch][jerry][gets][kicked][clothing][confused,][master's][rear][get][kicked][out.])
+v(4,6,14,16): 0.1899939775466919, EP: 0.06193201616406441	 ([capture][mouse][cats][master's])
+v(4,6,14,15,16,18,19,20,24,27): -0.027669548988342285, EP: -0.009019396267831326	 ([capture][mouse][cats][dress][master's][disguise][lets][it!][whack][three])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

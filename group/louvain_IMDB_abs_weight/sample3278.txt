@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['35', '25', '29', '34', '30', '33', '28', '31']: ['better', 'failed', 'terrible,', 'something', 'felt', 'find', 'acting', 'sorry']: 平均边权 0.6782
+社区 2: ['2', '8', '5', '0', '19', '4', '3', '1', '6']: ['movies', 'money', 'thought', 'one', 'attempt', 'saw.', 'ever', 'worst', 'was :']: 平均边权 0.6181
+社区 3: ['26', '27', '36']: ['miserably', 'this.', 'time.']: 平均边权 1.9273
+社区 4: ['24', '32', '42']: ['movies,', 'actors', 'actors,']: 平均边权 1.6927
+社区 5: ['38', '48', '53', '37', '43', '17']: ['ridiculous.', 'insultingly', 'it. "', 'story', 'predictable.', 'dollars.']: 平均边权 1.1663
+社区 6: ['12', '16', '15', '13', '14', '18', '7']: ['".', 'dollars,', 'four', 'way', 'worth', 'think', 'get']: 平均边权 0.3632
+社区 7: ['11', '10', '23', '9']: ['video', 'hollywood', "diesel's", 'back']: 平均边权 0.4939
+社区 8: ['50', '49', '51', '45', '52']: ['worse', 'exaggerated,', 'cartoon.', 'accent', 'skip']: 平均边权 0.6788
+社区 9: ['20', '46', '40', '21', '47', '39', '41', '22', '44']: ['rip', 'leading', 'lines', 'mexican,', 'lady', 'calling', 'ahead', 'vin', 'mexican']: 平均边权 0.2968

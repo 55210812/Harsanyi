@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['56', '0', '28']: ['realistic', 'realistic', 'realistic']: 平均边权 5.1297
+社区 2: ['47', '19']: ['zombie', 'zombie']: 平均边权 4.9275
+社区 3: ['2', '35', '25', '34', '52', '21', '30', '23', '37', '9', '53', '24', '51']: ['broken', 'between.', 'old', 'caught', 'tired', 'thought', 'broken', "i'm", 'divorced', 'divorced', 'old', 'tired', "i'm"]: 平均边权 0.7565
+社区 4: ['20', '27', '46', '45', '18', '55', '16', '48', '41', '44', '17']: ['twist', 'movies.', 'cool', 'really', 'cool', 'movies.', '-', 'twist', 'events', '-', 'really']: 平均边权 0.6669
+社区 5: ['39', '12', '11', '40']: ['totally', 'relating', 'totally', 'relating']: 平均边权 1.2886
+社区 6: ['3', '31']: ['family', 'family']: 平均边权 1.4711
+社区 7: ['4', '5', '13', '32', '6', '7']: ['effect', 'kid', 'events', 'effect', 'caught', 'between.']: 平均边权 0.9312
+社区 8: ['49', '29', '43', '50', '15', '42', '22', '1', '14']: ['thought', 'portrait', 'also', 'original.', 'also', 'film.', 'original.', 'portrait', 'film.']: 平均边权 1.1083
+社区 9: ['38', '8', '33', '36', '26', '10', '54']: ['parents', 'child', 'kid', 'child', 'stuff', 'parents', 'stuff']: 平均边权 0.6985

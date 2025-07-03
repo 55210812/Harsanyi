@@ -1,0 +1,56 @@
+---------- Players ----------
+Player 0: think
+Player 1: great
+Player 2: movie!!
+Player 3: fun,
+Player 4: maybe
+Player 5: little
+Player 6: unrealistic,
+Player 7: fun
+Player 8: dramatic!!
+Player 9: would
+Player 10: like
+Player 11: see
+Player 12: again,
+Player 13: showing
+Player 14: tv!!
+Player 15: 1
+Player 16: question :
+Player 17: still
+Player 18: talking
+Player 19: movie???
+---------- Rewards ----------
+v(): -0.2777498960494995	 ([])
+v(3,4,5,6,7): -2.571192741394043	 ([fun,][maybe][little][unrealistic,][fun])
+v(1,2,19): 0.7226278781890869	 ([great][movie!!][movie???])
+v(12,14,15,17,18): 1.4493720531463623	 ([again,][tv!!][1][still][talking])
+v(0,8,9,10,11,13,16): 0.3441106677055359	 ([think][dramatic!!][would][like][see][showing][question :])
+v(1,2,3,4,5,6,7,19): 0.7269442677497864	 ([great][movie!!][fun,][maybe][little][unrealistic,][fun][movie???])
+v(3,4,5,6,7,12,14,15,17,18): -0.117222860455513	 ([fun,][maybe][little][unrealistic,][fun][again,][tv!!][1][still][talking])
+v(0,3,4,5,6,7,8,9,10,11,13,16): -0.7633083462715149	 ([think][fun,][maybe][little][unrealistic,][fun][dramatic!!][would][like][see][showing][question :])
+v(1,2,12,14,15,17,18,19): 0.8500252962112427	 ([great][movie!!][again,][tv!!][1][still][talking][movie???])
+v(0,1,2,8,9,10,11,13,16,19): -0.26377764344215393	 ([think][great][movie!!][dramatic!!][would][like][see][showing][question :][movie???])
+v(0,8,9,10,11,12,13,14,15,16,17,18): 2.4121789932250977	 ([think][dramatic!!][would][like][see][again,][showing][tv!!][1][question :][still][talking])
+v(1,2,3,4,5,6,7,12,14,15,17,18,19): 0.9422761797904968	 ([great][movie!!][fun,][maybe][little][unrealistic,][fun][again,][tv!!][1][still][talking][movie???])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,16,19): 0.509548544883728	 ([think][great][movie!!][fun,][maybe][little][unrealistic,][fun][dramatic!!][would][like][see][showing][question :][movie???])
+v(0,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18): 1.8793177604675293	 ([think][fun,][maybe][little][unrealistic,][fun][dramatic!!][would][like][see][again,][showing][tv!!][1][question :][still][talking])
+v(0,1,2,8,9,10,11,12,13,14,15,16,17,18,19): 0.2740444839000702	 ([think][great][movie!!][dramatic!!][would][like][see][again,][showing][tv!!][1][question :][still][talking][movie???])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19): 1.9420599937438965	 ([think][great][movie!!][fun,][maybe][little][unrealistic,][fun][dramatic!!][would][like][see][again,][showing][tv!!][1][question :][still][talking][movie???])
+---------- Rewards-v() ----------
+v(0,8,9,10,11,12,13,14,15,16,17,18): 2.6899290084838867, EP: 1.2117834091186523	 ([think][dramatic!!][would][like][see][again,][showing][tv!!][1][question :][still][talking])
+v(3,4,5,6,7): -2.293442726135254, EP: -1.0331707000732422	 ([fun,][maybe][little][unrealistic,][fun])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19): 2.2198100090026855, EP: 1.0	 ([think][great][movie!!][fun,][maybe][little][unrealistic,][fun][dramatic!!][would][like][see][again,][showing][tv!!][1][question :][still][talking][movie???])
+v(0,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18): 2.1570677757263184, EP: 0.9717352986335754	 ([think][fun,][maybe][little][unrealistic,][fun][dramatic!!][would][like][see][again,][showing][tv!!][1][question :][still][talking])
+v(12,14,15,17,18): 1.7271219491958618, EP: 0.7780494689941406	 ([again,][tv!!][1][still][talking])
+v(1,2,3,4,5,6,7,12,14,15,17,18,19): 1.2200260162353516, EP: 0.5496082901954651	 ([great][movie!!][fun,][maybe][little][unrealistic,][fun][again,][tv!!][1][still][talking][movie???])
+v(1,2,12,14,15,17,18,19): 1.1277751922607422, EP: 0.5080503225326538	 ([great][movie!!][again,][tv!!][1][still][talking][movie???])
+v(1,2,3,4,5,6,7,19): 1.0046942234039307, EP: 0.45260369777679443	 ([great][movie!!][fun,][maybe][little][unrealistic,][fun][movie???])
+v(1,2,19): 1.0003777742385864, EP: 0.4506591856479645	 ([great][movie!!][movie???])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,16,19): 0.7872984409332275, EP: 0.3546693027019501	 ([think][great][movie!!][fun,][maybe][little][unrealistic,][fun][dramatic!!][would][like][see][showing][question :][movie???])
+v(0,8,9,10,11,13,16): 0.6218605637550354, EP: 0.28014135360717773	 ([think][dramatic!!][would][like][see][showing][question :])
+v(0,1,2,8,9,10,11,12,13,14,15,16,17,18,19): 0.5517944097518921, EP: 0.2485773116350174	 ([think][great][movie!!][dramatic!!][would][like][see][again,][showing][tv!!][1][question :][still][talking][movie???])
+v(0,3,4,5,6,7,8,9,10,11,13,16): -0.4855584502220154, EP: -0.21873874962329865	 ([think][fun,][maybe][little][unrealistic,][fun][dramatic!!][would][like][see][showing][question :])
+v(3,4,5,6,7,12,14,15,17,18): 0.1605270355939865, EP: 0.07231566309928894	 ([fun,][maybe][little][unrealistic,][fun][again,][tv!!][1][still][talking])
+v(0,1,2,8,9,10,11,13,16,19): 0.013972252607345581, EP: 0.006294345948845148	 ([think][great][movie!!][dramatic!!][would][like][see][showing][question :][movie???])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

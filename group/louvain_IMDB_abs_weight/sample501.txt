@@ -1,0 +1,11 @@
+louvain社区检测结果:
+社区 1: ['39', '15', '22', '27', '36', '43', '28']: ['onstage', 'star', 'ballet', 'first', 'ballet,', 'readers', 'ballet']: 平均边权 0.7058
+社区 2: ['8', '52', '60', '9']: ['george', 'dancing', 'culkin ;', 'balanchine']: 平均边权 0.8392
+社区 3: ['33', '34', '35']: ['new', 'york', 'city']: 平均边权 0.9420
+社区 4: ['55', '48', '57', '42', '32', '10', '29']: ['role', 'production,', 'stunt', 'assure', 'production', 'production', 'company']: 平均边权 0.4226
+社区 5: ['12', '38', '5', '13', '40', '11', '41', '37', '6']: ['onstage,', 'live', 'never', 'letting', 'several', 'live', 'times.', 'seen', 'seen']: 平均边权 0.2199
+社区 6: ['16', '3', '31']: ['casting', 'rating', 'stage']: 平均边权 0.5469
+社区 7: ['4', '30', '23', '24', '25', '21']: ['probably', 'authorized', 'fortunate', 'enough,', "1960's", 'atlanta']: 平均边权 0.3061
+社区 8: ['20', '18', '19', '26', '14', '17', '7']: ['judgement.', 'culkin', 'influence', "1980's,", 'disdain', 'macaulay', 'celebrated']: 平均边权 0.2185
+社区 9: ['2', '1', '0']: ['low', 'production', 'given']: 平均边权 0.3078
+社区 10: ['56', '49', '58', '45', '47', '46', '50', '53', '44', '59', '51', '54']: ['cheap', 'use', 'dreamed', 'quite', 'rendering', 'accurate', 'child', 'abilities', 'film', 'showcase', 'limited', 'title']: 平均边权 0.2800

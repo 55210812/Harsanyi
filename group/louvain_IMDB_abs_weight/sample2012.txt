@@ -1,0 +1,12 @@
+louvain社区检测结果:
+社区 1: ['8', '48', '3', '40']: ['ustinov', 'ustinov', 'tcm', 'dvd']: 平均边权 1.3772
+社区 2: ['55', '52', '53', '54']: ['appearances', 'bob', 'newhart,', 'cameo']: 平均边权 0.8000
+社区 3: ['4', '38', '5', '41', '37', '43', '46']: ['let', 'trying', 'run', 'watch', 'problem', 'also', 'performances']: 平均边权 0.6731
+社区 4: ['30', '29', '28', '31']: ['insight', 'humour', 'subtle', 'life']: 平均边权 1.1856
+社区 5: ['36', '35', '33', '34', '32']: ['ago.', 'years', 'almost', 'forty', 'lifestyle']: 平均边权 0.5144
+社区 6: ['16', '17', '15', '20', '19', '18']: ['movie', 'found', 'liked', 'course,', 'exceptional.', 'quite']: 平均边权 0.6758
+社区 7: ['25', '26', '27']: ['well', 'worth', 'watching']: 平均边权 0.9635
+社区 8: ['12', '11', '14', '0', '44', '13', '45']: ['surprised', 'delightfully', 'really', 'saw', 'quite', 'find', 'taken']: 平均边权 0.5490
+社区 9: ['24', '23']: ['piece', 'period']: 平均边权 0.8268
+社区 10: ['2', '49', '21', '39', '22', '42', '1', '51']: ['movie', 'leads,', 'seriously', 'find', 'dated,', 'often.', 'description', 'malden,']: 平均边权 0.3997
+社区 11: ['50', '9', '47', '10', '6', '7']: ['karl', 'maggie', 'smith', 'smith,', 'like', 'peter']: 平均边权 0.2543

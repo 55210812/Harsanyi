@@ -1,0 +1,158 @@
+---------- Players ----------
+Player 0: without
+Player 1: doubt
+Player 2: funniest
+Player 3: comedy
+Player 4: year.
+Player 5: everybody
+Player 6: brilliant.
+Player 7: acting
+Player 8: superb.
+Player 9: see
+Player 10: actors
+Player 11: enjoyed
+Player 12: making
+Player 13: film.
+Player 14: shame
+Player 15: spoil
+Player 16: film
+Player 17: give
+Player 18: aways,
+Player 19: rent
+Player 20: laugh
+Player 21: ass
+Player 22: off.
+Player 23: 9
+Player 24: -
+Player 25: 10.
+---------- Rewards ----------
+v(): 0.7255629301071167	 ([])
+v(0,2,3,4,5,6,25): 7.70037317276001	 ([without][funniest][comedy][year.][everybody][brilliant.][10.])
+v(11,13,14,15,16,17): 2.653362989425659	 ([enjoyed][film.][shame][spoil][film][give])
+v(1,9): 0.28162598609924316	 ([doubt][see])
+v(7,8,18): 4.708414554595947	 ([acting][superb.][aways,])
+v(19,20,21,22,23,24): -0.24931743741035461	 ([rent][laugh][ass][off.][9][-])
+v(10,12): -0.14678528904914856	 ([actors][making])
+v(0,2,3,4,5,6,11,13,14,15,16,17,25): 7.4498772621154785	 ([without][funniest][comedy][year.][everybody][brilliant.][enjoyed][film.][shame][spoil][film][give][10.])
+v(0,1,2,3,4,5,6,9,25): 7.9723005294799805	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][10.])
+v(0,2,3,4,5,6,7,8,18,25): 7.961308479309082	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][aways,][10.])
+v(0,2,3,4,5,6,19,20,21,22,23,24,25): 7.93407678604126	 ([without][funniest][comedy][year.][everybody][brilliant.][rent][laugh][ass][off.][9][-][10.])
+v(0,2,3,4,5,6,10,12,25): 7.870821952819824	 ([without][funniest][comedy][year.][everybody][brilliant.][actors][making][10.])
+v(1,9,11,13,14,15,16,17): 3.153390884399414	 ([doubt][see][enjoyed][film.][shame][spoil][film][give])
+v(7,8,11,13,14,15,16,17,18): 5.434578895568848	 ([acting][superb.][enjoyed][film.][shame][spoil][film][give][aways,])
+v(11,13,14,15,16,17,19,20,21,22,23,24): 2.045433759689331	 ([enjoyed][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-])
+v(10,11,12,13,14,15,16,17): 5.002877235412598	 ([actors][enjoyed][making][film.][shame][spoil][film][give])
+v(1,7,8,9,18): 5.23562479019165	 ([doubt][acting][superb.][see][aways,])
+v(1,9,19,20,21,22,23,24): 0.03269881010055542	 ([doubt][see][rent][laugh][ass][off.][9][-])
+v(1,9,10,12): -0.8827148675918579	 ([doubt][see][actors][making])
+v(7,8,18,19,20,21,22,23,24): 6.307634353637695	 ([acting][superb.][aways,][rent][laugh][ass][off.][9][-])
+v(7,8,10,12,18): 5.022178649902344	 ([acting][superb.][actors][making][aways,])
+v(10,12,19,20,21,22,23,24): -2.8968429565429688	 ([actors][making][rent][laugh][ass][off.][9][-])
+v(0,1,2,3,4,5,6,9,11,13,14,15,16,17,25): 7.51480770111084	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][enjoyed][film.][shame][spoil][film][give][10.])
+v(0,2,3,4,5,6,7,8,11,13,14,15,16,17,18,25): 7.780919075012207	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][enjoyed][film.][shame][spoil][film][give][aways,][10.])
+v(0,2,3,4,5,6,11,13,14,15,16,17,19,20,21,22,23,24,25): 7.613640785217285	 ([without][funniest][comedy][year.][everybody][brilliant.][enjoyed][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-][10.])
+v(0,2,3,4,5,6,10,11,12,13,14,15,16,17,25): 6.977407455444336	 ([without][funniest][comedy][year.][everybody][brilliant.][actors][enjoyed][making][film.][shame][spoil][film][give][10.])
+v(0,1,2,3,4,5,6,7,8,9,18,25): 8.093080520629883	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][aways,][10.])
+v(0,1,2,3,4,5,6,9,19,20,21,22,23,24,25): 7.910246849060059	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][rent][laugh][ass][off.][9][-][10.])
+v(0,1,2,3,4,5,6,9,10,12,25): 8.066354751586914	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][actors][making][10.])
+v(0,2,3,4,5,6,7,8,18,19,20,21,22,23,24,25): 8.022089004516602	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][aways,][rent][laugh][ass][off.][9][-][10.])
+v(0,2,3,4,5,6,7,8,10,12,18,25): 7.918845176696777	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][actors][making][aways,][10.])
+v(0,2,3,4,5,6,10,12,19,20,21,22,23,24,25): 7.997478485107422	 ([without][funniest][comedy][year.][everybody][brilliant.][actors][making][rent][laugh][ass][off.][9][-][10.])
+v(1,7,8,9,11,13,14,15,16,17,18): 5.975529193878174	 ([doubt][acting][superb.][see][enjoyed][film.][shame][spoil][film][give][aways,])
+v(1,9,11,13,14,15,16,17,19,20,21,22,23,24): 3.303370952606201	 ([doubt][see][enjoyed][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-])
+v(1,9,10,11,12,13,14,15,16,17): 6.531803131103516	 ([doubt][see][actors][enjoyed][making][film.][shame][spoil][film][give])
+v(7,8,11,13,14,15,16,17,18,19,20,21,22,23,24): 5.78696346282959	 ([acting][superb.][enjoyed][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-])
+v(7,8,10,11,12,13,14,15,16,17,18): 6.3469743728637695	 ([acting][superb.][actors][enjoyed][making][film.][shame][spoil][film][give][aways,])
+v(10,11,12,13,14,15,16,17,19,20,21,22,23,24): 4.745331764221191	 ([actors][enjoyed][making][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-])
+v(1,7,8,9,18,19,20,21,22,23,24): 6.257246971130371	 ([doubt][acting][superb.][see][aways,][rent][laugh][ass][off.][9][-])
+v(1,7,8,9,10,12,18): 4.946830749511719	 ([doubt][acting][superb.][see][actors][making][aways,])
+v(1,9,10,12,19,20,21,22,23,24): -3.4500465393066406	 ([doubt][see][actors][making][rent][laugh][ass][off.][9][-])
+v(7,8,10,12,18,19,20,21,22,23,24): 5.465202331542969	 ([acting][superb.][actors][making][aways,][rent][laugh][ass][off.][9][-])
+v(0,1,2,3,4,5,6,7,8,9,11,13,14,15,16,17,18,25): 7.789462089538574	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][enjoyed][film.][shame][spoil][film][give][aways,][10.])
+v(0,1,2,3,4,5,6,9,11,13,14,15,16,17,19,20,21,22,23,24,25): 7.521283149719238	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][enjoyed][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-][10.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,25): 7.310667514801025	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][actors][enjoyed][making][film.][shame][spoil][film][give][10.])
+v(0,2,3,4,5,6,7,8,11,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.8085222244262695	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][enjoyed][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-][10.])
+v(0,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,25): 7.629209041595459	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][actors][enjoyed][making][film.][shame][spoil][film][give][aways,][10.])
+v(0,2,3,4,5,6,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25): 7.347622871398926	 ([without][funniest][comedy][year.][everybody][brilliant.][actors][enjoyed][making][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-][10.])
+v(0,1,2,3,4,5,6,7,8,9,18,19,20,21,22,23,24,25): 7.988984107971191	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][aways,][rent][laugh][ass][off.][9][-][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,18,25): 8.003898620605469	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][actors][making][aways,][10.])
+v(0,1,2,3,4,5,6,9,10,12,19,20,21,22,23,24,25): 7.837085247039795	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][actors][making][rent][laugh][ass][off.][9][-][10.])
+v(0,2,3,4,5,6,7,8,10,12,18,19,20,21,22,23,24,25): 7.908683776855469	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][actors][making][aways,][rent][laugh][ass][off.][9][-][10.])
+v(1,7,8,9,11,13,14,15,16,17,18,19,20,21,22,23,24): 6.481166839599609	 ([doubt][acting][superb.][see][enjoyed][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-])
+v(1,7,8,9,10,11,12,13,14,15,16,17,18): 7.107732772827148	 ([doubt][acting][superb.][see][actors][enjoyed][making][film.][shame][spoil][film][give][aways,])
+v(1,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24): 6.756296634674072	 ([doubt][see][actors][enjoyed][making][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-])
+v(7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 6.758208274841309	 ([acting][superb.][actors][enjoyed][making][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-])
+v(1,7,8,9,10,12,18,19,20,21,22,23,24): 5.384429931640625	 ([doubt][acting][superb.][see][actors][making][aways,][rent][laugh][ass][off.][9][-])
+v(0,1,2,3,4,5,6,7,8,9,11,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.665219306945801	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][enjoyed][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,25): 7.730583190917969	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][actors][enjoyed][making][film.][shame][spoil][film][give][aways,][10.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25): 7.400511264801025	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][actors][enjoyed][making][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-][10.])
+v(0,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.713399887084961	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][actors][enjoyed][making][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,18,19,20,21,22,23,24,25): 7.6169257164001465	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][actors][making][aways,][rent][laugh][ass][off.][9][-][10.])
+v(1,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 7.575824737548828	 ([doubt][acting][superb.][see][actors][enjoyed][making][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.614508628845215	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][actors][enjoyed][making][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-][10.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,18,25): 7.367517471313477, EP: 1.0694695711135864	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][aways,][10.])
+v(0,1,2,3,4,5,6,9,10,12,25): 7.340791702270508, EP: 1.0655900239944458	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][actors][making][10.])
+v(0,2,3,4,5,6,7,8,18,19,20,21,22,23,24,25): 7.296525955200195, EP: 1.0591644048690796	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][aways,][rent][laugh][ass][off.][9][-][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,18,25): 7.2783355712890625, EP: 1.0565239191055298	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][actors][making][aways,][10.])
+v(0,2,3,4,5,6,10,12,19,20,21,22,23,24,25): 7.271915435791016, EP: 1.0555919408798218	 ([without][funniest][comedy][year.][everybody][brilliant.][actors][making][rent][laugh][ass][off.][9][-][10.])
+v(0,1,2,3,4,5,6,7,8,9,18,19,20,21,22,23,24,25): 7.263421058654785, EP: 1.0543588399887085	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][aways,][rent][laugh][ass][off.][9][-][10.])
+v(0,1,2,3,4,5,6,9,25): 7.246737480163574, EP: 1.0519371032714844	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][10.])
+v(0,2,3,4,5,6,7,8,18,25): 7.235745429992676, EP: 1.0503414869308472	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][aways,][10.])
+v(0,2,3,4,5,6,19,20,21,22,23,24,25): 7.2085137367248535, EP: 1.0463885068893433	 ([without][funniest][comedy][year.][everybody][brilliant.][rent][laugh][ass][off.][9][-][10.])
+v(0,2,3,4,5,6,7,8,10,12,18,25): 7.193282127380371, EP: 1.044177532196045	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][actors][making][aways,][10.])
+v(0,1,2,3,4,5,6,9,19,20,21,22,23,24,25): 7.184683799743652, EP: 1.0429294109344482	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][rent][laugh][ass][off.][9][-][10.])
+v(0,2,3,4,5,6,7,8,10,12,18,19,20,21,22,23,24,25): 7.1831207275390625, EP: 1.0427024364471436	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][actors][making][aways,][rent][laugh][ass][off.][9][-][10.])
+v(0,2,3,4,5,6,10,12,25): 7.145258903503418, EP: 1.0372064113616943	 ([without][funniest][comedy][year.][everybody][brilliant.][actors][making][10.])
+v(0,1,2,3,4,5,6,9,10,12,19,20,21,22,23,24,25): 7.111522197723389, EP: 1.0323092937469482	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][actors][making][rent][laugh][ass][off.][9][-][10.])
+v(0,2,3,4,5,6,7,8,11,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.082959175109863, EP: 1.0281630754470825	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][enjoyed][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-][10.])
+v(0,1,2,3,4,5,6,7,8,9,11,13,14,15,16,17,18,25): 7.063899040222168, EP: 1.0253962278366089	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][enjoyed][film.][shame][spoil][film][give][aways,][10.])
+v(0,2,3,4,5,6,7,8,11,13,14,15,16,17,18,25): 7.055356025695801, EP: 1.0241562128067017	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][enjoyed][film.][shame][spoil][film][give][aways,][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,25): 7.0050201416015625, EP: 1.016849398612976	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][actors][enjoyed][making][film.][shame][spoil][film][give][aways,][10.])
+v(0,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 6.987836837768555, EP: 1.0143550634384155	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][actors][enjoyed][making][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-][10.])
+v(0,2,3,4,5,6,25): 6.9748101234436035, EP: 1.0124640464782715	 ([without][funniest][comedy][year.][everybody][brilliant.][10.])
+v(0,1,2,3,4,5,6,7,8,9,11,13,14,15,16,17,18,19,20,21,22,23,24,25): 6.9396562576293945, EP: 1.0073611736297607	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][enjoyed][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-][10.])
+v(0,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,25): 6.903645992279053, EP: 1.0021339654922485	 ([without][funniest][comedy][year.][everybody][brilliant.][acting][superb.][actors][enjoyed][making][film.][shame][spoil][film][give][aways,][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,12,18,19,20,21,22,23,24,25): 6.89136266708374, EP: 1.000350832939148	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][actors][making][aways,][rent][laugh][ass][off.][9][-][10.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 6.888945579528809, EP: 1.0	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][acting][superb.][see][actors][enjoyed][making][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-][10.])
+v(0,2,3,4,5,6,11,13,14,15,16,17,19,20,21,22,23,24,25): 6.888077735900879, EP: 0.9998739957809448	 ([without][funniest][comedy][year.][everybody][brilliant.][enjoyed][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-][10.])
+v(1,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 6.850261688232422, EP: 0.9943846464157104	 ([doubt][acting][superb.][see][actors][enjoyed][making][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-])
+v(0,1,2,3,4,5,6,9,11,13,14,15,16,17,19,20,21,22,23,24,25): 6.795720100402832, EP: 0.9864673614501953	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][enjoyed][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-][10.])
+v(0,1,2,3,4,5,6,9,11,13,14,15,16,17,25): 6.789244651794434, EP: 0.9855273962020874	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][enjoyed][film.][shame][spoil][film][give][10.])
+v(0,2,3,4,5,6,11,13,14,15,16,17,25): 6.724314212799072, EP: 0.9761021137237549	 ([without][funniest][comedy][year.][everybody][brilliant.][enjoyed][film.][shame][spoil][film][give][10.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25): 6.674948215484619, EP: 0.9689361453056335	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][actors][enjoyed][making][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-][10.])
+v(0,2,3,4,5,6,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25): 6.6220598220825195, EP: 0.9612588286399841	 ([without][funniest][comedy][year.][everybody][brilliant.][actors][enjoyed][making][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-][10.])
+v(0,1,2,3,4,5,6,9,10,11,12,13,14,15,16,17,25): 6.585104465484619, EP: 0.955894410610199	 ([without][doubt][funniest][comedy][year.][everybody][brilliant.][see][actors][enjoyed][making][film.][shame][spoil][film][give][10.])
+v(1,7,8,9,10,11,12,13,14,15,16,17,18): 6.382169723510742, EP: 0.9264363646507263	 ([doubt][acting][superb.][see][actors][enjoyed][making][film.][shame][spoil][film][give][aways,])
+v(0,2,3,4,5,6,10,11,12,13,14,15,16,17,25): 6.25184440612793, EP: 0.9075183272361755	 ([without][funniest][comedy][year.][everybody][brilliant.][actors][enjoyed][making][film.][shame][spoil][film][give][10.])
+v(7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24): 6.032645225524902, EP: 0.8756993412971497	 ([acting][superb.][actors][enjoyed][making][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-])
+v(1,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24): 6.030733585357666, EP: 0.8754218816757202	 ([doubt][see][actors][enjoyed][making][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-])
+v(1,9,10,11,12,13,14,15,16,17): 5.806240081787109, EP: 0.8428343534469604	 ([doubt][see][actors][enjoyed][making][film.][shame][spoil][film][give])
+v(1,7,8,9,11,13,14,15,16,17,18,19,20,21,22,23,24): 5.755603790283203, EP: 0.835483968257904	 ([doubt][acting][superb.][see][enjoyed][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-])
+v(7,8,10,11,12,13,14,15,16,17,18): 5.621411323547363, EP: 0.8160046339035034	 ([acting][superb.][actors][enjoyed][making][film.][shame][spoil][film][give][aways,])
+v(7,8,18,19,20,21,22,23,24): 5.582071304321289, EP: 0.8102940320968628	 ([acting][superb.][aways,][rent][laugh][ass][off.][9][-])
+v(1,7,8,9,18,19,20,21,22,23,24): 5.531683921813965, EP: 0.8029797673225403	 ([doubt][acting][superb.][see][aways,][rent][laugh][ass][off.][9][-])
+v(1,7,8,9,11,13,14,15,16,17,18): 5.249966144561768, EP: 0.7620856165885925	 ([doubt][acting][superb.][see][enjoyed][film.][shame][spoil][film][give][aways,])
+v(7,8,11,13,14,15,16,17,18,19,20,21,22,23,24): 5.061400413513184, EP: 0.7347133755683899	 ([acting][superb.][enjoyed][film.][shame][spoil][film][give][aways,][rent][laugh][ass][off.][9][-])
+v(7,8,10,12,18,19,20,21,22,23,24): 4.7396392822265625, EP: 0.6880065202713013	 ([acting][superb.][actors][making][aways,][rent][laugh][ass][off.][9][-])
+v(7,8,11,13,14,15,16,17,18): 4.709015846252441, EP: 0.6835612058639526	 ([acting][superb.][enjoyed][film.][shame][spoil][film][give][aways,])
+v(1,7,8,9,10,12,18,19,20,21,22,23,24): 4.658866882324219, EP: 0.6762815713882446	 ([doubt][acting][superb.][see][actors][making][aways,][rent][laugh][ass][off.][9][-])
+v(1,7,8,9,18): 4.510061740875244, EP: 0.6546809673309326	 ([doubt][acting][superb.][see][aways,])
+v(7,8,10,12,18): 4.2966156005859375, EP: 0.6236971616744995	 ([acting][superb.][actors][making][aways,])
+v(10,11,12,13,14,15,16,17): 4.277314186096191, EP: 0.6208953261375427	 ([actors][enjoyed][making][film.][shame][spoil][film][give])
+v(1,7,8,9,10,12,18): 4.2212677001953125, EP: 0.6127596497535706	 ([doubt][acting][superb.][see][actors][making][aways,])
+v(1,9,10,12,19,20,21,22,23,24): -4.175609588623047, EP: -0.606131911277771	 ([doubt][see][actors][making][rent][laugh][ass][off.][9][-])
+v(10,11,12,13,14,15,16,17,19,20,21,22,23,24): 4.019768714904785, EP: 0.5835100412368774	 ([actors][enjoyed][making][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-])
+v(7,8,18): 3.982851505279541, EP: 0.5781511068344116	 ([acting][superb.][aways,])
+v(10,12,19,20,21,22,23,24): -3.622406005859375, EP: -0.5258287787437439	 ([actors][making][rent][laugh][ass][off.][9][-])
+v(1,9,11,13,14,15,16,17,19,20,21,22,23,24): 2.577807903289795, EP: 0.37419483065605164	 ([doubt][see][enjoyed][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-])
+v(1,9,11,13,14,15,16,17): 2.427827835083008, EP: 0.3524237275123596	 ([doubt][see][enjoyed][film.][shame][spoil][film][give])
+v(11,13,14,15,16,17): 1.9278000593185425, EP: 0.2798396348953247	 ([enjoyed][film.][shame][spoil][film][give])
+v(1,9,10,12): -1.6082777976989746, EP: -0.2334577590227127	 ([doubt][see][actors][making])
+v(11,13,14,15,16,17,19,20,21,22,23,24): 1.3198708295822144, EP: 0.19159257411956787	 ([enjoyed][film.][shame][spoil][film][give][rent][laugh][ass][off.][9][-])
+v(19,20,21,22,23,24): -0.9748803377151489, EP: -0.14151372015476227	 ([rent][laugh][ass][off.][9][-])
+v(10,12): -0.8723481893539429, EP: -0.12663014233112335	 ([actors][making])
+v(1,9,19,20,21,22,23,24): -0.6928641200065613, EP: -0.10057622194290161	 ([doubt][see][rent][laugh][ass][off.][9][-])
+v(1,9): -0.44393694400787354, EP: -0.06444192677736282	 ([doubt][see])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

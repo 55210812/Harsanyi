@@ -1,0 +1,107 @@
+---------- Players ----------
+Player 0: excellent
+Player 1: documentary,
+Player 2: packed
+Player 3: racing
+Player 4: action
+Player 5: beautiful
+Player 6: pictures
+Player 7: great
+Player 8: story.
+Player 9: imax
+Player 10: cameras
+Player 11: give
+Player 12: wide
+Player 13: perspective,
+Player 14: dvd
+Player 15: movie
+Player 16: perfect.
+Player 17: hear
+Player 18: every
+Player 19: speaker
+Player 20: working
+Player 21: almost
+Player 22: time,
+Player 23: film
+Player 24: speeded
+Player 25: gives
+Player 26: natural
+Player 27: feel
+Player 28: 230mph.
+Player 29: course
+Player 30: sound
+Player 31: effects
+Player 32: added
+Player 33: think
+Player 34: good,
+Player 35: give
+Player 36: depth
+Player 37: driving
+Player 38: scenes...
+---------- Rewards ----------
+v(): 0.3177390694618225	 ([])
+v(15,25,26,27,38): 5.646307945251465	 ([movie][gives][natural][feel][scenes...])
+v(0,1,2,3,4,5,6,7,32): 7.292835235595703	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][added])
+v(13,22,28,29,30,31,33,34,35,36,37): -2.0608553886413574	 ([perspective,][time,][230mph.][course][sound][effects][think][good,][give][depth][driving])
+v(8,9,14,18,19,20,21,23): 3.3258724212646484	 ([story.][imax][dvd][every][speaker][working][almost][film])
+v(10,11,12,16,17,24): 5.612850189208984	 ([cameras][give][wide][perfect.][hear][speeded])
+v(0,1,2,3,4,5,6,7,15,25,26,27,32,38): 7.13199520111084	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][movie][gives][natural][feel][added][scenes...])
+v(13,15,22,25,26,27,28,29,30,31,33,34,35,36,37,38): 2.087674140930176	 ([perspective,][movie][time,][gives][natural][feel][230mph.][course][sound][effects][think][good,][give][depth][driving][scenes...])
+v(8,9,14,15,18,19,20,21,23,25,26,27,38): 6.886487007141113	 ([story.][imax][dvd][movie][every][speaker][working][almost][film][gives][natural][feel][scenes...])
+v(10,11,12,15,16,17,24,25,26,27,38): 6.864684104919434	 ([cameras][give][wide][movie][perfect.][hear][speeded][gives][natural][feel][scenes...])
+v(0,1,2,3,4,5,6,7,13,22,28,29,30,31,32,33,34,35,36,37): 7.292428016662598	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][perspective,][time,][230mph.][course][sound][effects][added][think][good,][give][depth][driving])
+v(0,1,2,3,4,5,6,7,8,9,14,18,19,20,21,23,32): 7.714510917663574	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][dvd][every][speaker][working][almost][film][added])
+v(0,1,2,3,4,5,6,7,10,11,12,16,17,24,32): 7.1243510246276855	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][cameras][give][wide][perfect.][hear][speeded][added])
+v(8,9,13,14,18,19,20,21,22,23,28,29,30,31,33,34,35,36,37): 3.268061399459839	 ([story.][imax][perspective,][dvd][every][speaker][working][almost][time,][film][230mph.][course][sound][effects][think][good,][give][depth][driving])
+v(10,11,12,13,16,17,22,24,28,29,30,31,33,34,35,36,37): 6.03000020980835	 ([cameras][give][wide][perspective,][perfect.][hear][time,][speeded][230mph.][course][sound][effects][think][good,][give][depth][driving])
+v(8,9,10,11,12,14,16,17,18,19,20,21,23,24): 7.786218643188477	 ([story.][imax][cameras][give][wide][dvd][perfect.][hear][every][speaker][working][almost][film][speeded])
+v(0,1,2,3,4,5,6,7,13,15,22,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.388311386108398	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][perspective,][movie][time,][gives][natural][feel][230mph.][course][sound][effects][added][think][good,][give][depth][driving][scenes...])
+v(0,1,2,3,4,5,6,7,8,9,14,15,18,19,20,21,23,25,26,27,32,38): 7.703896999359131	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][dvd][movie][every][speaker][working][almost][film][gives][natural][feel][added][scenes...])
+v(0,1,2,3,4,5,6,7,10,11,12,15,16,17,24,25,26,27,32,38): 7.229322910308838	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][cameras][give][wide][movie][perfect.][hear][speeded][gives][natural][feel][added][scenes...])
+v(8,9,13,14,15,18,19,20,21,22,23,25,26,27,28,29,30,31,33,34,35,36,37,38): 6.366055965423584	 ([story.][imax][perspective,][dvd][movie][every][speaker][working][almost][time,][film][gives][natural][feel][230mph.][course][sound][effects][think][good,][give][depth][driving][scenes...])
+v(10,11,12,13,15,16,17,22,24,25,26,27,28,29,30,31,33,34,35,36,37,38): 7.441277980804443	 ([cameras][give][wide][perspective,][movie][perfect.][hear][time,][speeded][gives][natural][feel][230mph.][course][sound][effects][think][good,][give][depth][driving][scenes...])
+v(8,9,10,11,12,14,15,16,17,18,19,20,21,23,24,25,26,27,38): 7.9318366050720215	 ([story.][imax][cameras][give][wide][dvd][movie][perfect.][hear][every][speaker][working][almost][film][speeded][gives][natural][feel][scenes...])
+v(0,1,2,3,4,5,6,7,8,9,13,14,18,19,20,21,22,23,28,29,30,31,32,33,34,35,36,37): 7.689016342163086	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][perspective,][dvd][every][speaker][working][almost][time,][film][230mph.][course][sound][effects][added][think][good,][give][depth][driving])
+v(0,1,2,3,4,5,6,7,10,11,12,13,16,17,22,24,28,29,30,31,32,33,34,35,36,37): 7.422564506530762	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][cameras][give][wide][perspective,][perfect.][hear][time,][speeded][230mph.][course][sound][effects][added][think][good,][give][depth][driving])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,16,17,18,19,20,21,23,24,32): 7.6664652824401855	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][cameras][give][wide][dvd][perfect.][hear][every][speaker][working][almost][film][speeded][added])
+v(8,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,28,29,30,31,33,34,35,36,37): 7.361356735229492	 ([story.][imax][cameras][give][wide][perspective,][dvd][perfect.][hear][every][speaker][working][almost][time,][film][speeded][230mph.][course][sound][effects][think][good,][give][depth][driving])
+v(0,1,2,3,4,5,6,7,8,9,13,14,15,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.577400207519531	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][perspective,][dvd][movie][every][speaker][working][almost][time,][film][gives][natural][feel][230mph.][course][sound][effects][added][think][good,][give][depth][driving][scenes...])
+v(0,1,2,3,4,5,6,7,10,11,12,13,15,16,17,22,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.449762344360352	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][cameras][give][wide][perspective,][movie][perfect.][hear][time,][speeded][gives][natural][feel][230mph.][course][sound][effects][added][think][good,][give][depth][driving][scenes...])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,23,24,25,26,27,32,38): 7.641645908355713	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][cameras][give][wide][dvd][movie][perfect.][hear][every][speaker][working][almost][film][speeded][gives][natural][feel][added][scenes...])
+v(8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,34,35,36,37,38): 7.846573829650879	 ([story.][imax][cameras][give][wide][perspective,][dvd][movie][perfect.][hear][every][speaker][working][almost][time,][film][speeded][gives][natural][feel][230mph.][course][sound][effects][think][good,][give][depth][driving][scenes...])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,28,29,30,31,32,33,34,35,36,37): 7.71893835067749	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][cameras][give][wide][perspective,][dvd][perfect.][hear][every][speaker][working][almost][time,][film][speeded][230mph.][course][sound][effects][added][think][good,][give][depth][driving])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.685256004333496	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][cameras][give][wide][perspective,][dvd][movie][perfect.][hear][every][speaker][working][almost][time,][film][speeded][gives][natural][feel][230mph.][course][sound][effects][added][think][good,][give][depth][driving][scenes...])
+---------- Rewards-v() ----------
+v(8,9,10,11,12,14,15,16,17,18,19,20,21,23,24,25,26,27,38): 7.614097595214844, EP: 1.0334686040878296	 ([story.][imax][cameras][give][wide][dvd][movie][perfect.][hear][every][speaker][working][almost][film][speeded][gives][natural][feel][scenes...])
+v(8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,34,35,36,37,38): 7.528834819793701, EP: 1.0218957662582397	 ([story.][imax][cameras][give][wide][perspective,][dvd][movie][perfect.][hear][every][speaker][working][almost][time,][film][speeded][gives][natural][feel][230mph.][course][sound][effects][think][good,][give][depth][driving][scenes...])
+v(8,9,10,11,12,14,16,17,18,19,20,21,23,24): 7.468479633331299, EP: 1.01370370388031	 ([story.][imax][cameras][give][wide][dvd][perfect.][hear][every][speaker][working][almost][film][speeded])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,28,29,30,31,32,33,34,35,36,37): 7.4011993408203125, EP: 1.004571795463562	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][cameras][give][wide][perspective,][dvd][perfect.][hear][every][speaker][working][almost][time,][film][speeded][230mph.][course][sound][effects][added][think][good,][give][depth][driving])
+v(0,1,2,3,4,5,6,7,8,9,14,18,19,20,21,23,32): 7.3967719078063965, EP: 1.003970742225647	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][dvd][every][speaker][working][almost][film][added])
+v(0,1,2,3,4,5,6,7,8,9,14,15,18,19,20,21,23,25,26,27,32,38): 7.386157989501953, EP: 1.0025302171707153	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][dvd][movie][every][speaker][working][almost][film][gives][natural][feel][added][scenes...])
+v(0,1,2,3,4,5,6,7,8,9,13,14,18,19,20,21,22,23,28,29,30,31,32,33,34,35,36,37): 7.371277332305908, EP: 1.000510334968567	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][perspective,][dvd][every][speaker][working][almost][time,][film][230mph.][course][sound][effects][added][think][good,][give][depth][driving])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.367516994476318, EP: 1.0	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][cameras][give][wide][perspective,][dvd][movie][perfect.][hear][every][speaker][working][almost][time,][film][speeded][gives][natural][feel][230mph.][course][sound][effects][added][think][good,][give][depth][driving][scenes...])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,16,17,18,19,20,21,23,24,32): 7.348726272583008, EP: 0.997449517250061	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][cameras][give][wide][dvd][perfect.][hear][every][speaker][working][almost][film][speeded][added])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,23,24,25,26,27,32,38): 7.323906898498535, EP: 0.9940807819366455	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][cameras][give][wide][dvd][movie][perfect.][hear][every][speaker][working][almost][film][speeded][gives][natural][feel][added][scenes...])
+v(0,1,2,3,4,5,6,7,8,9,13,14,15,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.2596611976623535, EP: 0.9853606224060059	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][story.][imax][perspective,][dvd][movie][every][speaker][working][almost][time,][film][gives][natural][feel][230mph.][course][sound][effects][added][think][good,][give][depth][driving][scenes...])
+v(0,1,2,3,4,5,6,7,10,11,12,13,15,16,17,22,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.132023334503174, EP: 0.9680362343788147	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][cameras][give][wide][perspective,][movie][perfect.][hear][time,][speeded][gives][natural][feel][230mph.][course][sound][effects][added][think][good,][give][depth][driving][scenes...])
+v(10,11,12,13,15,16,17,22,24,25,26,27,28,29,30,31,33,34,35,36,37,38): 7.123538970947266, EP: 0.9668846130371094	 ([cameras][give][wide][perspective,][movie][perfect.][hear][time,][speeded][gives][natural][feel][230mph.][course][sound][effects][think][good,][give][depth][driving][scenes...])
+v(0,1,2,3,4,5,6,7,10,11,12,13,16,17,22,24,28,29,30,31,32,33,34,35,36,37): 7.104825496673584, EP: 0.9643446207046509	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][cameras][give][wide][perspective,][perfect.][hear][time,][speeded][230mph.][course][sound][effects][added][think][good,][give][depth][driving])
+v(0,1,2,3,4,5,6,7,13,15,22,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.070572376251221, EP: 0.9596953988075256	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][perspective,][movie][time,][gives][natural][feel][230mph.][course][sound][effects][added][think][good,][give][depth][driving][scenes...])
+v(8,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24,28,29,30,31,33,34,35,36,37): 7.0436177253723145, EP: 0.9560368657112122	 ([story.][imax][cameras][give][wide][perspective,][dvd][perfect.][hear][every][speaker][working][almost][time,][film][speeded][230mph.][course][sound][effects][think][good,][give][depth][driving])
+v(0,1,2,3,4,5,6,7,32): 6.975096225738525, EP: 0.9467363357543945	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][added])
+v(0,1,2,3,4,5,6,7,13,22,28,29,30,31,32,33,34,35,36,37): 6.97468900680542, EP: 0.9466810822486877	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][perspective,][time,][230mph.][course][sound][effects][added][think][good,][give][depth][driving])
+v(0,1,2,3,4,5,6,7,10,11,12,15,16,17,24,25,26,27,32,38): 6.91158390045166, EP: 0.9381157755851746	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][cameras][give][wide][movie][perfect.][hear][speeded][gives][natural][feel][added][scenes...])
+v(0,1,2,3,4,5,6,7,15,25,26,27,32,38): 6.814256191253662, EP: 0.9249054193496704	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][movie][gives][natural][feel][added][scenes...])
+v(0,1,2,3,4,5,6,7,10,11,12,16,17,24,32): 6.806612014770508, EP: 0.9238678216934204	 ([excellent][documentary,][packed][racing][action][beautiful][pictures][great][cameras][give][wide][perfect.][hear][speeded][added])
+v(8,9,14,15,18,19,20,21,23,25,26,27,38): 6.5687479972839355, EP: 0.8915823101997375	 ([story.][imax][dvd][movie][every][speaker][working][almost][film][gives][natural][feel][scenes...])
+v(10,11,12,15,16,17,24,25,26,27,38): 6.546945095062256, EP: 0.8886229991912842	 ([cameras][give][wide][movie][perfect.][hear][speeded][gives][natural][feel][scenes...])
+v(8,9,13,14,15,18,19,20,21,22,23,25,26,27,28,29,30,31,33,34,35,36,37,38): 6.048316955566406, EP: 0.8209437131881714	 ([story.][imax][perspective,][dvd][movie][every][speaker][working][almost][time,][film][gives][natural][feel][230mph.][course][sound][effects][think][good,][give][depth][driving][scenes...])
+v(10,11,12,13,16,17,22,24,28,29,30,31,33,34,35,36,37): 5.712261199951172, EP: 0.7753306031227112	 ([cameras][give][wide][perspective,][perfect.][hear][time,][speeded][230mph.][course][sound][effects][think][good,][give][depth][driving])
+v(15,25,26,27,38): 5.328568935394287, EP: 0.7232516407966614	 ([movie][gives][natural][feel][scenes...])
+v(10,11,12,16,17,24): 5.295111179351807, EP: 0.7187104225158691	 ([cameras][give][wide][perfect.][hear][speeded])
+v(8,9,14,18,19,20,21,23): 3.0081334114074707, EP: 0.40829676389694214	 ([story.][imax][dvd][every][speaker][working][almost][film])
+v(8,9,13,14,18,19,20,21,22,23,28,29,30,31,33,34,35,36,37): 2.950322389602661, EP: 0.4004500210285187	 ([story.][imax][perspective,][dvd][every][speaker][working][almost][time,][film][230mph.][course][sound][effects][think][good,][give][depth][driving])
+v(13,22,28,29,30,31,33,34,35,36,37): -2.378594398498535, EP: -0.3228488564491272	 ([perspective,][time,][230mph.][course][sound][effects][think][good,][give][depth][driving])
+v(13,15,22,25,26,27,28,29,30,31,33,34,35,36,37,38): 1.769935131072998, EP: 0.24023495614528656	 ([perspective,][movie][time,][gives][natural][feel][230mph.][course][sound][effects][think][good,][give][depth][driving][scenes...])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['51', '38', '48', '50', '25', '52']: ['lake', 'fake', 'fake', 'watch', 'fake', 'placid.']: 平均边权 0.5178
+社区 2: ['2', '4', '5', '1']: ['movie,', 'bad', 'movie.', 'bad']: 平均边权 1.8149
+社区 3: ['8', '29', '30', '22', '37', '9', '10', '28']: ['worst', 'wise', 'show', 'big', 'worst', 'fantasy', 'bad', 'spielberg']: 平均边权 1.2759
+社区 4: ['12', '13', '47', '16', '11', '15', '14', '17']: ['was.', 'even', 'good', 'explain', 'movie', 'try', 'want', 'blood']: 平均边权 0.4406
+社区 5: ['27', '49', '39', '23', '44', '43', '33', '26', '31']: ['jaws,', 'crocodile', 'crocodile', 'crocodile.', 'it.', 'hide', 'crocodile', 'shark', 'shark']: 平均边权 0.4824
+社区 6: ['20', '0', '19', '18', '21', '3', '24', '6', '7']: ['blood', 'expected', 'about.', 'surf', 'surfing,', 'got', 'complaining', 'really', 'imagine']: 平均边权 0.3251
+社区 7: ['55', '56']: ['make', 'decent']: 平均边权 0.6306
+社区 8: ['35', '36', '32', '45', '34', '40', '46', '41', '42', '53', '54']: ['lot', 'times,', 'end.', 'want', 'shown', 'ever', 'see', 'seen,', 'try', 'director', 'opportunity']: 平均边权 0.2606

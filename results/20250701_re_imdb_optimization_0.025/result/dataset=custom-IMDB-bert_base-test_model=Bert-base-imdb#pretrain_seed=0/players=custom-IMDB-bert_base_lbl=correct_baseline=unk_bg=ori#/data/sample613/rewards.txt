@@ -1,0 +1,50 @@
+---------- Players ----------
+Player 0: thought
+Player 1: film
+Player 2: perfect.
+Player 3: descriptions
+Player 4: summaries
+Player 5: read
+Player 6: movie
+Player 7: justice.
+Player 8: plot
+Player 9: sound
+Player 10: interesting,
+Player 11: is.
+Player 12: rent
+Player 13: sorry!!
+---------- Rewards ----------
+v(): -1.8868358135223389	 ([])
+v(8,9,10,12): -5.7810797691345215	 ([plot][sound][interesting,][rent])
+v(1,7): -6.944666862487793	 ([film][justice.])
+v(0,5,13): 0.7914589047431946	 ([thought][read][sorry!!])
+v(2,3,4,6,11): 7.0735883712768555	 ([perfect.][descriptions][summaries][movie][is.])
+v(1,7,8,9,10,12): -7.981100082397461	 ([film][justice.][plot][sound][interesting,][rent])
+v(0,5,8,9,10,12,13): -1.7271453142166138	 ([thought][read][plot][sound][interesting,][rent][sorry!!])
+v(2,3,4,6,8,9,10,11,12): 6.785106182098389	 ([perfect.][descriptions][summaries][movie][plot][sound][interesting,][is.][rent])
+v(0,1,5,7,13): -1.4563252925872803	 ([thought][film][read][justice.][sorry!!])
+v(1,2,3,4,6,7,11): 6.946605205535889	 ([film][perfect.][descriptions][summaries][movie][justice.][is.])
+v(0,2,3,4,5,6,11,13): 7.346380233764648	 ([thought][perfect.][descriptions][summaries][read][movie][is.][sorry!!])
+v(0,1,5,7,8,9,10,12,13): -5.7708845138549805	 ([thought][film][read][justice.][plot][sound][interesting,][rent][sorry!!])
+v(1,2,3,4,6,7,8,9,10,11,12): 6.668888568878174	 ([film][perfect.][descriptions][summaries][movie][justice.][plot][sound][interesting,][is.][rent])
+v(0,2,3,4,5,6,8,9,10,11,12,13): 6.974640846252441	 ([thought][perfect.][descriptions][summaries][read][movie][plot][sound][interesting,][is.][rent][sorry!!])
+v(0,1,2,3,4,5,6,7,11,13): 7.069128513336182	 ([thought][film][perfect.][descriptions][summaries][read][movie][justice.][is.][sorry!!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13): 6.878547668457031	 ([thought][film][perfect.][descriptions][summaries][read][movie][justice.][plot][sound][interesting,][is.][rent][sorry!!])
+---------- Rewards-v() ----------
+v(0,2,3,4,5,6,11,13): 9.233216285705566, EP: 1.0533727407455444	 ([thought][perfect.][descriptions][summaries][read][movie][is.][sorry!!])
+v(2,3,4,6,11): 8.960424423217773, EP: 1.0222512483596802	 ([perfect.][descriptions][summaries][movie][is.])
+v(0,1,2,3,4,5,6,7,11,13): 8.955964088439941, EP: 1.021742343902588	 ([thought][film][perfect.][descriptions][summaries][read][movie][justice.][is.][sorry!!])
+v(0,2,3,4,5,6,8,9,10,11,12,13): 8.86147689819336, EP: 1.0109628438949585	 ([thought][perfect.][descriptions][summaries][read][movie][plot][sound][interesting,][is.][rent][sorry!!])
+v(1,2,3,4,6,7,11): 8.833440780639648, EP: 1.0077643394470215	 ([film][perfect.][descriptions][summaries][movie][justice.][is.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13): 8.76538372039795, EP: 1.0	 ([thought][film][perfect.][descriptions][summaries][read][movie][justice.][plot][sound][interesting,][is.][rent][sorry!!])
+v(2,3,4,6,8,9,10,11,12): 8.671941757202148, EP: 0.9893396496772766	 ([perfect.][descriptions][summaries][movie][plot][sound][interesting,][is.][rent])
+v(1,2,3,4,6,7,8,9,10,11,12): 8.555724143981934, EP: 0.9760809540748596	 ([film][perfect.][descriptions][summaries][movie][justice.][plot][sound][interesting,][is.][rent])
+v(1,7,8,9,10,12): -6.094264030456543, EP: -0.6952649354934692	 ([film][justice.][plot][sound][interesting,][rent])
+v(1,7): -5.057830810546875, EP: -0.5770233273506165	 ([film][justice.])
+v(8,9,10,12): -3.8942439556121826, EP: -0.4442753493785858	 ([plot][sound][interesting,][rent])
+v(0,1,5,7,8,9,10,12,13): -3.8840487003326416, EP: -0.44311222434043884	 ([thought][film][read][justice.][plot][sound][interesting,][rent][sorry!!])
+v(0,5,13): 2.6782946586608887, EP: 0.3055536150932312	 ([thought][read][sorry!!])
+v(0,1,5,7,13): 0.4305105209350586, EP: 0.04911485314369202	 ([thought][film][read][justice.][sorry!!])
+v(0,5,8,9,10,12,13): 0.1596904993057251, EP: 0.01821831241250038	 ([thought][read][plot][sound][interesting,][rent][sorry!!])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

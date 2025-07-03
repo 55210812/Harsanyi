@@ -1,0 +1,171 @@
+---------- Players ----------
+Player 0: story
+Player 1: ireland
+Player 2: 70
+Player 3: s.
+Player 4: film
+Player 5: beautiful
+Player 6: reconstruction
+Player 7: small
+Player 8: time
+Player 9: ireland
+Player 10: 1970
+Player 11: s.
+Player 12: gang
+Player 13: see
+Player 14: below.
+Player 15: master
+Player 16: boyle
+Player 17: ,
+Player 18: boys
+Player 19: ,
+Player 20: cannon
+Player 21: ,
+Player 22: sp
+Player 23: o'donnell
+Player 24: ,
+Player 25: senator
+Player 26: doogan's
+Player 27: daugter
+Player 28: ,
+Player 29: rose
+Player 30: ,
+Player 31: agnes
+Player 32: ,
+Player 33: maura
+Player 34: una.
+Player 35: see
+Player 36: film. feel
+Player 37: ireland
+Player 38: was.
+---------- Rewards ----------
+v(): 0.36084431409835815	 ([])
+v(16,18,20,23,27,29,30,31,34,35,36,37): 6.005876064300537	 ([boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland])
+v(0,5,6,7,38): 7.329000949859619	 ([story][beautiful][reconstruction][small][was.])
+v(1,2,8,9,10): 1.9055285453796387	 ([ireland][70][time][ireland][1970])
+v(32,33): 1.478967308998108	 ([,][maura])
+v(12,13): 1.3729674816131592	 ([gang][see])
+v(3,4,11,14,15,17,19,21,22,24,25,26,28): 0.35376662015914917	 ([s.][film][s.][below.][master][,][,][,][sp][,][senator][doogan's][,])
+v(0,5,6,7,16,18,20,23,27,29,30,31,34,35,36,37,38): 8.689997673034668	 ([story][beautiful][reconstruction][small][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(1,2,8,9,10,16,18,20,23,27,29,30,31,34,35,36,37): 7.025601387023926	 ([ireland][70][time][ireland][1970][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland])
+v(16,18,20,23,27,29,30,31,32,33,34,35,36,37): 6.153221130371094	 ([boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(12,13,16,18,20,23,27,29,30,31,34,35,36,37): 6.125755786895752	 ([gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland])
+v(3,4,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37): 6.589313507080078	 ([s.][film][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland])
+v(0,1,2,5,6,7,8,9,10,38): 8.551152229309082	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][was.])
+v(0,5,6,7,32,33,38): 7.855011463165283	 ([story][beautiful][reconstruction][small][,][maura][was.])
+v(0,5,6,7,12,13,38): 8.111108779907227	 ([story][beautiful][reconstruction][small][gang][see][was.])
+v(0,3,4,5,6,7,11,14,15,17,19,21,22,24,25,26,28,38): 7.8181586265563965	 ([story][s.][film][beautiful][reconstruction][small][s.][below.][master][,][,][,][sp][,][senator][doogan's][,][was.])
+v(1,2,8,9,10,32,33): 2.080319404602051	 ([ireland][70][time][ireland][1970][,][maura])
+v(1,2,8,9,10,12,13): 2.103832721710205	 ([ireland][70][time][ireland][1970][gang][see])
+v(1,2,3,4,8,9,10,11,14,15,17,19,21,22,24,25,26,28): 2.5384795665740967	 ([ireland][70][s.][film][time][ireland][1970][s.][below.][master][,][,][,][sp][,][senator][doogan's][,])
+v(12,13,32,33): 2.0895657539367676	 ([gang][see][,][maura])
+v(3,4,11,14,15,17,19,21,22,24,25,26,28,32,33): 0.5099048614501953	 ([s.][film][s.][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura])
+v(3,4,11,12,13,14,15,17,19,21,22,24,25,26,28): 0.705204427242279	 ([s.][film][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,])
+v(0,1,2,5,6,7,8,9,10,16,18,20,23,27,29,30,31,34,35,36,37,38): 8.901049613952637	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(0,5,6,7,16,18,20,23,27,29,30,31,32,33,34,35,36,37,38): 8.753301620483398	 ([story][beautiful][reconstruction][small][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(0,5,6,7,12,13,16,18,20,23,27,29,30,31,34,35,36,37,38): 8.808185577392578	 ([story][beautiful][reconstruction][small][gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(0,3,4,5,6,7,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37,38): 8.597400665283203	 ([story][s.][film][beautiful][reconstruction][small][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(1,2,8,9,10,16,18,20,23,27,29,30,31,32,33,34,35,36,37): 7.078980922698975	 ([ireland][70][time][ireland][1970][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(1,2,8,9,10,12,13,16,18,20,23,27,29,30,31,34,35,36,37): 6.953874111175537	 ([ireland][70][time][ireland][1970][gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland])
+v(1,2,3,4,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37): 7.135395050048828	 ([ireland][70][s.][film][time][ireland][1970][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland])
+v(12,13,16,18,20,23,27,29,30,31,32,33,34,35,36,37): 6.194399356842041	 ([gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(3,4,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 6.607852458953857	 ([s.][film][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(3,4,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37): 6.169552803039551	 ([s.][film][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland])
+v(0,1,2,5,6,7,8,9,10,32,33,38): 8.630573272705078	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][,][maura][was.])
+v(0,1,2,5,6,7,8,9,10,12,13,38): 8.698469161987305	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][gang][see][was.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,15,17,19,21,22,24,25,26,28,38): 8.819755554199219	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][below.][master][,][,][,][sp][,][senator][doogan's][,][was.])
+v(0,5,6,7,12,13,32,33,38): 8.303356170654297	 ([story][beautiful][reconstruction][small][gang][see][,][maura][was.])
+v(0,3,4,5,6,7,11,14,15,17,19,21,22,24,25,26,28,32,33,38): 8.018877029418945	 ([story][s.][film][beautiful][reconstruction][small][s.][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura][was.])
+v(0,3,4,5,6,7,11,12,13,14,15,17,19,21,22,24,25,26,28,38): 6.787242889404297	 ([story][s.][film][beautiful][reconstruction][small][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,][was.])
+v(1,2,8,9,10,12,13,32,33): 2.321521043777466	 ([ireland][70][time][ireland][1970][gang][see][,][maura])
+v(1,2,3,4,8,9,10,11,14,15,17,19,21,22,24,25,26,28,32,33): 2.7076973915100098	 ([ireland][70][s.][film][time][ireland][1970][s.][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura])
+v(1,2,3,4,8,9,10,11,12,13,14,15,17,19,21,22,24,25,26,28): 2.4357690811157227	 ([ireland][70][s.][film][time][ireland][1970][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,])
+v(3,4,11,12,13,14,15,17,19,21,22,24,25,26,28,32,33): 0.626083254814148	 ([s.][film][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura])
+v(0,1,2,5,6,7,8,9,10,16,18,20,23,27,29,30,31,32,33,34,35,36,37,38): 8.922870635986328	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(0,1,2,5,6,7,8,9,10,12,13,16,18,20,23,27,29,30,31,34,35,36,37,38): 8.91573715209961	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37,38): 8.855428695678711	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(0,5,6,7,12,13,16,18,20,23,27,29,30,31,32,33,34,35,36,37,38): 8.840821266174316	 ([story][beautiful][reconstruction][small][gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(0,3,4,5,6,7,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.699920654296875	 ([story][s.][film][beautiful][reconstruction][small][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(0,3,4,5,6,7,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37,38): 8.574324607849121	 ([story][s.][film][beautiful][reconstruction][small][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(1,2,8,9,10,12,13,16,18,20,23,27,29,30,31,32,33,34,35,36,37): 6.992430210113525	 ([ireland][70][time][ireland][1970][gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(1,2,3,4,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 7.080240249633789	 ([ireland][70][s.][film][time][ireland][1970][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(1,2,3,4,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37): 6.965838432312012	 ([ireland][70][s.][film][time][ireland][1970][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland])
+v(3,4,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 5.950593948364258	 ([s.][film][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(0,1,2,5,6,7,8,9,10,12,13,32,33,38): 8.750747680664062	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][gang][see][,][maura][was.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,15,17,19,21,22,24,25,26,28,32,33,38): 8.861199378967285	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura][was.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,21,22,24,25,26,28,38): 8.751516342163086	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,][was.])
+v(0,3,4,5,6,7,11,12,13,14,15,17,19,21,22,24,25,26,28,32,33,38): 7.0333404541015625	 ([story][s.][film][beautiful][reconstruction][small][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura][was.])
+v(1,2,3,4,8,9,10,11,12,13,14,15,17,19,21,22,24,25,26,28,32,33): 2.4366230964660645	 ([ireland][70][s.][film][time][ireland][1970][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura])
+v(0,1,2,5,6,7,8,9,10,12,13,16,18,20,23,27,29,30,31,32,33,34,35,36,37,38): 8.935236930847168	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.906713485717773	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37,38): 8.936792373657227	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(0,3,4,5,6,7,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.664072036743164	 ([story][s.][film][beautiful][reconstruction][small][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(1,2,3,4,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 6.839239120483398	 ([ireland][70][s.][film][time][ireland][1970][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,21,22,24,25,26,28,32,33,38): 8.804971694946289	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura][was.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.951240539550781	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.5903959274292, EP: 1.0	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37,38): 8.575947761535645, EP: 0.998318076133728	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(0,1,2,5,6,7,8,9,10,12,13,16,18,20,23,27,29,30,31,32,33,34,35,36,37,38): 8.574392318725586, EP: 0.9981370568275452	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(0,1,2,5,6,7,8,9,10,16,18,20,23,27,29,30,31,32,33,34,35,36,37,38): 8.562026023864746, EP: 0.9966974854469299	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(0,1,2,5,6,7,8,9,10,12,13,16,18,20,23,27,29,30,31,34,35,36,37,38): 8.554892539978027, EP: 0.9958670735359192	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.545868873596191, EP: 0.9948166608810425	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(0,1,2,5,6,7,8,9,10,16,18,20,23,27,29,30,31,34,35,36,37,38): 8.540205001831055, EP: 0.9941573143005371	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,15,17,19,21,22,24,25,26,28,32,33,38): 8.500354766845703, EP: 0.989518404006958	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura][was.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37,38): 8.494584083557129, EP: 0.9888466596603394	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(0,5,6,7,12,13,16,18,20,23,27,29,30,31,32,33,34,35,36,37,38): 8.479976654052734, EP: 0.9871461987495422	 ([story][beautiful][reconstruction][small][gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,15,17,19,21,22,24,25,26,28,38): 8.458910942077637, EP: 0.9846939444541931	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][below.][master][,][,][,][sp][,][senator][doogan's][,][was.])
+v(0,5,6,7,12,13,16,18,20,23,27,29,30,31,34,35,36,37,38): 8.447340965270996, EP: 0.9833471179008484	 ([story][beautiful][reconstruction][small][gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,21,22,24,25,26,28,32,33,38): 8.444127082824707, EP: 0.9829729795455933	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura][was.])
+v(0,5,6,7,16,18,20,23,27,29,30,31,32,33,34,35,36,37,38): 8.392457008361816, EP: 0.9769580960273743	 ([story][beautiful][reconstruction][small][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,21,22,24,25,26,28,38): 8.390671730041504, EP: 0.9767503142356873	 ([story][ireland][70][s.][film][beautiful][reconstruction][small][time][ireland][1970][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,][was.])
+v(0,1,2,5,6,7,8,9,10,12,13,32,33,38): 8.38990306854248, EP: 0.9766607880592346	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][gang][see][,][maura][was.])
+v(0,3,4,5,6,7,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.339076042175293, EP: 0.9707440733909607	 ([story][s.][film][beautiful][reconstruction][small][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(0,1,2,5,6,7,8,9,10,12,13,38): 8.337624549865723, EP: 0.9705750942230225	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][gang][see][was.])
+v(0,5,6,7,16,18,20,23,27,29,30,31,34,35,36,37,38): 8.329153060913086, EP: 0.9695889353752136	 ([story][beautiful][reconstruction][small][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(0,3,4,5,6,7,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 8.303227424621582, EP: 0.9665709733963013	 ([story][s.][film][beautiful][reconstruction][small][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland][was.])
+v(0,1,2,5,6,7,8,9,10,32,33,38): 8.269728660583496, EP: 0.9626713991165161	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][,][maura][was.])
+v(0,3,4,5,6,7,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37,38): 8.236556053161621, EP: 0.9588098526000977	 ([story][s.][film][beautiful][reconstruction][small][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(0,3,4,5,6,7,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37,38): 8.213479995727539, EP: 0.9561235904693604	 ([story][s.][film][beautiful][reconstruction][small][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland][was.])
+v(0,1,2,5,6,7,8,9,10,38): 8.1903076171875, EP: 0.9534260630607605	 ([story][ireland][70][beautiful][reconstruction][small][time][ireland][1970][was.])
+v(0,5,6,7,12,13,32,33,38): 7.942512035369873, EP: 0.924580454826355	 ([story][beautiful][reconstruction][small][gang][see][,][maura][was.])
+v(0,5,6,7,12,13,38): 7.750264644622803, EP: 0.9022011160850525	 ([story][beautiful][reconstruction][small][gang][see][was.])
+v(0,3,4,5,6,7,11,14,15,17,19,21,22,24,25,26,28,32,33,38): 7.6580328941345215, EP: 0.8914644718170166	 ([story][s.][film][beautiful][reconstruction][small][s.][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura][was.])
+v(0,5,6,7,32,33,38): 7.494167327880859, EP: 0.872389018535614	 ([story][beautiful][reconstruction][small][,][maura][was.])
+v(0,3,4,5,6,7,11,14,15,17,19,21,22,24,25,26,28,38): 7.457314491271973, EP: 0.86809903383255	 ([story][s.][film][beautiful][reconstruction][small][s.][below.][master][,][,][,][sp][,][senator][doogan's][,][was.])
+v(0,5,6,7,38): 6.968156814575195, EP: 0.8111566305160522	 ([story][beautiful][reconstruction][small][was.])
+v(1,2,3,4,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37): 6.774550914764404, EP: 0.7886191606521606	 ([ireland][70][s.][film][time][ireland][1970][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland])
+v(1,2,3,4,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 6.719396114349365, EP: 0.7821986675262451	 ([ireland][70][s.][film][time][ireland][1970][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(1,2,8,9,10,16,18,20,23,27,29,30,31,32,33,34,35,36,37): 6.718136787414551, EP: 0.7820520401000977	 ([ireland][70][time][ireland][1970][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(0,3,4,5,6,7,11,12,13,14,15,17,19,21,22,24,25,26,28,32,33,38): 6.672496318817139, EP: 0.7767390608787537	 ([story][s.][film][beautiful][reconstruction][small][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura][was.])
+v(1,2,8,9,10,16,18,20,23,27,29,30,31,34,35,36,37): 6.664757251739502, EP: 0.7758381962776184	 ([ireland][70][time][ireland][1970][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland])
+v(1,2,8,9,10,12,13,16,18,20,23,27,29,30,31,32,33,34,35,36,37): 6.631586074829102, EP: 0.7719767689704895	 ([ireland][70][time][ireland][1970][gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(1,2,3,4,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37): 6.604994297027588, EP: 0.7688812613487244	 ([ireland][70][s.][film][time][ireland][1970][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland])
+v(1,2,8,9,10,12,13,16,18,20,23,27,29,30,31,34,35,36,37): 6.593029975891113, EP: 0.7674884796142578	 ([ireland][70][time][ireland][1970][gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland])
+v(1,2,3,4,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 6.478394985198975, EP: 0.7541439533233643	 ([ireland][70][s.][film][time][ireland][1970][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(0,3,4,5,6,7,11,12,13,14,15,17,19,21,22,24,25,26,28,38): 6.426398754119873, EP: 0.7480911016464233	 ([story][s.][film][beautiful][reconstruction][small][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,][was.])
+v(3,4,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 6.247008323669434, EP: 0.7272084355354309	 ([s.][film][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(3,4,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37): 6.228469371795654, EP: 0.7250503301620483	 ([s.][film][s.][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland])
+v(12,13,16,18,20,23,27,29,30,31,32,33,34,35,36,37): 5.833555221557617, EP: 0.6790787577629089	 ([gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(3,4,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,34,35,36,37): 5.808708667755127, EP: 0.6761863827705383	 ([s.][film][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][una.][see][film. feel][ireland])
+v(16,18,20,23,27,29,30,31,32,33,34,35,36,37): 5.79237699508667, EP: 0.6742852330207825	 ([boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(12,13,16,18,20,23,27,29,30,31,34,35,36,37): 5.764911651611328, EP: 0.6710879802703857	 ([gang][see][boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland])
+v(16,18,20,23,27,29,30,31,34,35,36,37): 5.645031929016113, EP: 0.6571329236030579	 ([boyle][boys][cannon][o'donnell][daugter][rose][,][agnes][una.][see][film. feel][ireland])
+v(3,4,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 5.589749813079834, EP: 0.6506975889205933	 ([s.][film][s.][gang][see][below.][master][boyle][,][boys][,][cannon][,][sp][o'donnell][,][senator][doogan's][daugter][,][rose][,][agnes][,][maura][una.][see][film. feel][ireland])
+v(1,2,3,4,8,9,10,11,14,15,17,19,21,22,24,25,26,28,32,33): 2.346853017807007, EP: 0.27319496870040894	 ([ireland][70][s.][film][time][ireland][1970][s.][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura])
+v(1,2,3,4,8,9,10,11,14,15,17,19,21,22,24,25,26,28): 2.1776351928710938, EP: 0.2534964978694916	 ([ireland][70][s.][film][time][ireland][1970][s.][below.][master][,][,][,][sp][,][senator][doogan's][,])
+v(1,2,3,4,8,9,10,11,12,13,14,15,17,19,21,22,24,25,26,28,32,33): 2.0757787227630615, EP: 0.24163946509361267	 ([ireland][70][s.][film][time][ireland][1970][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura])
+v(1,2,3,4,8,9,10,11,12,13,14,15,17,19,21,22,24,25,26,28): 2.0749247074127197, EP: 0.2415400594472885	 ([ireland][70][s.][film][time][ireland][1970][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,])
+v(1,2,8,9,10,12,13,32,33): 1.960676670074463, EP: 0.22824054956436157	 ([ireland][70][time][ireland][1970][gang][see][,][maura])
+v(1,2,8,9,10,12,13): 1.7429883480072021, EP: 0.20289964973926544	 ([ireland][70][time][ireland][1970][gang][see])
+v(12,13,32,33): 1.7287213802337646, EP: 0.20123884081840515	 ([gang][see][,][maura])
+v(1,2,8,9,10,32,33): 1.7194750308990479, EP: 0.20016248524188995	 ([ireland][70][time][ireland][1970][,][maura])
+v(1,2,8,9,10): 1.5446841716766357, EP: 0.17981524765491486	 ([ireland][70][time][ireland][1970])
+v(32,33): 1.1181230545043945, EP: 0.1301596611738205	 ([,][maura])
+v(12,13): 1.0121231079101562, EP: 0.11782030761241913	 ([gang][see])
+v(3,4,11,12,13,14,15,17,19,21,22,24,25,26,28): 0.3443601131439209, EP: 0.040086641907691956	 ([s.][film][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,])
+v(3,4,11,12,13,14,15,17,19,21,22,24,25,26,28,32,33): 0.2652389407157898, EP: 0.030876219272613525	 ([s.][film][s.][gang][see][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura])
+v(3,4,11,14,15,17,19,21,22,24,25,26,28,32,33): 0.14906054735183716, EP: 0.017351999878883362	 ([s.][film][s.][below.][master][,][,][,][sp][,][senator][doogan's][,][,][maura])
+v(3,4,11,14,15,17,19,21,22,24,25,26,28): -0.007077693939208984, EP: -0.0008239077869802713	 ([s.][film][s.][below.][master][,][,][,][sp][,][senator][doogan's][,])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

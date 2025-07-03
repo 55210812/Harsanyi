@@ -1,0 +1,19 @@
+---------- Players ----------
+Player 0: favorite
+Player 1: movie.
+Player 2: great
+Player 3: story
+Player 4: really
+Player 5: was.
+Player 6: i'd
+Player 7: like
+Player 8: able
+Player 9: buy
+Player 10: copy
+Player 11: seem
+Player 12: possible.
+---------- AND Interactions (Pairwise Only) ----------
+I(8,9): -3.81577730178833	 ([able][buy])
+I(10,11): -2.482004404067993	 ([copy][seem])
+Sum: -6.297781705856323
+==================================================

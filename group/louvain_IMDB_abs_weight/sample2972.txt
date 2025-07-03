@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['55', '56', '53', '58', '52', '54']: ['pointless', 'lecture', 'boring', 'outings', 'got', 'dialogue,']: 平均边权 1.0070
+社区 2: ['61', '45', '40', '42', '65', '62', '60', '64']: ['fun', 'expected', 'put', 'screenplay.', 'scene', 'away', 'seemed', 'closing']: 平均边权 0.4269
+社区 3: ['38', '36', '35', '30', '37', '59', '24', '31']: ['dassin', 'director', 'promise.', 'circle', 'jules', 'sarah', 'relationship', 'two,']: 平均边权 0.5113
+社区 4: ['5', '27', '32', '25', '21', '4', '3', '23', '22', '26', '6']: ['forbidden', "society's", 'however,', 'acceptable', "o'neill ) ;", 'one.', 'intriguing', 'whether', 'question', 'given', 'love']: 平均边权 0.4077
+社区 5: ['2', '8', '0', '18', '7', '16', '15', '9', '1', '14', '17', '28']: ['two', 'year', 'premise', 'sarah', 'sixty', 'old', 'year', 'old', 'circle', 'fifteen', 'girl', 'standards.']: 平均边权 0.3836
+社区 6: ['57', '46', '49', '29', '34', '47', '50', '41', '33', '48', '51']: ['art,', 'learn', 'love', 'problem', 'live', 'something', 'sexuality.', 'thought', 'fails', 'new', 'instead,']: 平均边权 0.6459
+社区 7: ['43', '10', '44']: ['watched', 'painter', 'film,']: 平均边权 0.9853
+社区 8: ['39', '12', '11', '20', '19', '63', '13']: ['hedley', '( richard', 'ashleigh', '( tatum', 'norton', 'ashleigh,', 'burton )']: 平均边权 0.5826

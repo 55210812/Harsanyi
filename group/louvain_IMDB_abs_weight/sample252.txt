@@ -1,0 +1,8 @@
+louvain社区检测结果:
+社区 1: ['2', '5', '0', '47', '4', '3', '9', '1', '10']: ['man', 'bachman', 'read', 'john', 'books', 'kings', 'john', 'running', 'family.']: 平均边权 0.7827
+社区 2: ['12', '15', '13', '26', '14', '6']: ['could', 'trouble?', 'much', 'felt', 'more.', 'felt']: 平均边权 0.7665
+社区 3: ['20', '19', '27', '52', '18', '39', '11', '22', '51', '54']: ['craze.', 'movie', 'nothing', 'movie', 'action', 'movie', 'movie', 'movie', 'give', 'number.']: 平均边权 0.6371
+社区 4: ['36', '32', '25', '29', '40', '21', '30', '23', '37', '24', '31']: ['though', 'funny', 'thing.', 'less', 'eyes.', 'watched', 'cause.', 'pain', 'think', 'whole', 'yes']: 平均边权 0.5549
+社区 5: ['7', '38', '16', '50', '8', '17', '28']: ['main', 'save', 'set', 'revenge.', 'character', 'big', 'character']: 平均边权 0.3651
+社区 6: ['41', '42', '43', '33', '34']: ['read', 'book', 'feel', 'scenes', '( or']: 平均边权 0.5548
+社区 7: ['48', '45', '53', '46', '44', '35', '49']: ['gets', 'fire', 'low', 'heart', 'climax', 'laughable )', 'final']: 平均边权 0.5024

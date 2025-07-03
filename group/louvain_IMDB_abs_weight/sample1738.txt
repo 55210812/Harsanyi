@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['53', '51', '14', '52', '54']: ['interest', 'movie', 'falling', 'kept', 'much']: 平均边权 0.6042
+社区 2: ['39', '26', '36']: ['movie,', 'started', 'bit,']: 平均边权 0.9707
+社区 3: ['2', '5', '0', '1', '24', '10', '6']: ['one', 'real', 'watching', 'movie', "movie's", 'movie', 'real']: 平均边权 0.3742
+社区 4: ['33', '34', '35']: ['character', 'long', 'time.']: 平均边权 0.4577
+社区 5: ['44', '27', '43', '25', '29', '28']: ['telling.', 'slow,', 'story', 'pacing', 'fact', 'along']: 平均边权 0.3480
+社区 6: ['49', '40', '46', '45', '47', '50', '41', '42', '48']: ['whole', 'revealed', 'feel', 'end,', 'like', 'life.', 'main', 'character', 'known']: 平均边权 0.3333
+社区 7: ['4', '16', '11', '15', '30', '32', '17']: ['time,', 'raid', 'interest', 'asleep', 'shots', 'linger', 'fridge']: 平均边权 0.2263
+社区 8: ['12', '8', '19', '18', '3', '23', '9', '31', '7']: ['me,', 'night.', 'awake.', 'stay', 'usual', 'since', 'usually', 'tended', 'late']: 平均边权 0.1968
+社区 9: ['38', '20', '22', '37', '13', '21']: ['getting', 'first', "that's", 'start', 'start', 'thought']: 平均边权 0.5113

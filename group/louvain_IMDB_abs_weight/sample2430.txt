@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['2', '1', '0']: ['movies,', 'columbo', 'relative']: 平均边权 1.2296
+社区 2: ['11', '48', '19', '13', '10', '21', '47']: ['train - crash', 'murder', 'bizarre', 'morbid', 'appalling', 'decision', 'wonder']: 平均边权 1.0829
+社区 3: ['38', '20', '36', '32', '34', '39', '42', '23', '37']: ['reason', 'inept', 'think', 'interfered', 'role.', 'lies', 'must', 'would', 'real']: 平均边权 0.5282
+社区 4: ['31', '29', '6', '7']: ['outing', "falk's", 'seriously', 'understand']: 平均边权 0.8165
+社区 5: ['43', '8', '12', '9']: ['horrified', 'reviewers', 'film.', 'seen']: 平均边权 0.7023
+社区 6: ['4', '5', '3', '27', '35', '49', '28']: ['1', '( awful ).', 'rated', 'reviewer', 'fact,', 'him.', 'suggested']: 平均边权 0.6381
+社区 7: ['45', '46', '40', '30', '41', '22', '44', '33']: ['done', 'money.', 'studio', 'directorial', 'bosses,', 'director', 'saw', 'acting']: 平均边权 0.4513
+社区 8: ['25', '18', '16', '15', '24', '26', '14', '17']: ['next.', 'see', 'watch', 'continued', 'make', 'another', 'fascination', '-']: 平均边权 0.4192

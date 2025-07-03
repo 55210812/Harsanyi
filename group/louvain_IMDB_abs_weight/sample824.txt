@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['2', '8', '0', '18', '4', '16', '44', '1', '17']: ['film', 'chemistry', 'recommend', 'screen.', 'planning', 'could', 'imagination', 'watching', 'fog']: 平均边权 0.4248
+社区 2: ['27', '35', '33', '36', '29', '31']: ['other.', 'covers', 'protest', 'visitors', 'skimpy', 'wear']: 平均边权 0.6714
+社区 3: ['12', '13', '32', '58', '30', '50', '11', '23', '51', '26']: ["o'sullivan", 'tarzan', "tarzan's", 'tarzan', 'jungle', 'tarzan', 'maureen', 'tarzan', '&', 'jungle']: 平均边权 0.7133
+社区 4: ['48', '15', '37', '43', '46', '47']: ['love', 'steamy', 'illuminates', "one's", 'constant', 'touching']: 平均边权 0.3787
+社区 5: ['56', '57', '53', '59', '60', '49', '54']: ['actually', 'teaching', 'portray', 'love', 'emotionally,', 'talk', 'much']: 平均边权 0.5144
+社区 6: ['14', '34', '52', '55', '9', '24', '10', '28']: ['jane', 'jane', 'jane', 'jane', 'johnny', 'jane', 'weissmuller', "jane's"]: 平均边权 0.4059
+社区 7: ['20', '22', '19', '25', '45', '21']: ['film,', 'see', 'original', 'adapted', 'supplement', 'begin']: 平均边权 0.3208
+社区 8: ['38', '5', '61', '40', '39', '3', '41', '42', '6', '7']: ['romantically,', 'romantic', 'romantically', 'quite', 'also', 'significant', 'sexually', 'love.', 'evening', 'her.']: 平均边权 0.5121

@@ -1,0 +1,77 @@
+Execution time: 2025-07-03 20:23:14
+prompt: [CLS] a very well made film set in early'60s communist yugoslavia. the five young actors who are the teenagers at the center of the story give strong, sincere and emotionally deep performances. a clear depiction of how the natural trust and naivete inherent in teens can be easily manipulated and how that impacted the rest of their lives. highly recommended. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1037 decoded_text: a
+idx:2 input_id:2200 decoded_text: very
+idx:3 input_id:2092 decoded_text: well
+idx:4 input_id:2081 decoded_text: made
+idx:5 input_id:2143 decoded_text: film
+idx:6 input_id:2275 decoded_text: set
+idx:7 input_id:1999 decoded_text: in
+idx:8 input_id:2220 decoded_text: early
+idx:9 input_id:1005 decoded_text: '
+idx:10 input_id:20341 decoded_text: 60s
+idx:11 input_id:4750 decoded_text: communist
+idx:12 input_id:8936 decoded_text: yugoslavia
+idx:13 input_id:1012 decoded_text: .
+idx:14 input_id:1996 decoded_text: the
+idx:15 input_id:2274 decoded_text: five
+idx:16 input_id:2402 decoded_text: young
+idx:17 input_id:5889 decoded_text: actors
+idx:18 input_id:2040 decoded_text: who
+idx:19 input_id:2024 decoded_text: are
+idx:20 input_id:1996 decoded_text: the
+idx:21 input_id:12908 decoded_text: teenagers
+idx:22 input_id:2012 decoded_text: at
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:2415 decoded_text: center
+idx:25 input_id:1997 decoded_text: of
+idx:26 input_id:1996 decoded_text: the
+idx:27 input_id:2466 decoded_text: story
+idx:28 input_id:2507 decoded_text: give
+idx:29 input_id:2844 decoded_text: strong
+idx:30 input_id:1010 decoded_text: ,
+idx:31 input_id:18006 decoded_text: sincere
+idx:32 input_id:1998 decoded_text: and
+idx:33 input_id:14868 decoded_text: emotionally
+idx:34 input_id:2784 decoded_text: deep
+idx:35 input_id:4616 decoded_text: performances
+idx:36 input_id:1012 decoded_text: .
+idx:37 input_id:1037 decoded_text: a
+idx:38 input_id:3154 decoded_text: clear
+idx:39 input_id:15921 decoded_text: depiction
+idx:40 input_id:1997 decoded_text: of
+idx:41 input_id:2129 decoded_text: how
+idx:42 input_id:1996 decoded_text: the
+idx:43 input_id:3019 decoded_text: natural
+idx:44 input_id:3404 decoded_text: trust
+idx:45 input_id:1998 decoded_text: and
+idx:46 input_id:15743 decoded_text: naive
+idx:47 input_id:2618 decoded_text: ##te
+idx:48 input_id:16112 decoded_text: inherent
+idx:49 input_id:1999 decoded_text: in
+idx:50 input_id:13496 decoded_text: teens
+idx:51 input_id:2064 decoded_text: can
+idx:52 input_id:2022 decoded_text: be
+idx:53 input_id:4089 decoded_text: easily
+idx:54 input_id:20063 decoded_text: manipulated
+idx:55 input_id:1998 decoded_text: and
+idx:56 input_id:2129 decoded_text: how
+idx:57 input_id:2008 decoded_text: that
+idx:58 input_id:19209 decoded_text: impacted
+idx:59 input_id:1996 decoded_text: the
+idx:60 input_id:2717 decoded_text: rest
+idx:61 input_id:1997 decoded_text: of
+idx:62 input_id:2037 decoded_text: their
+idx:63 input_id:3268 decoded_text: lives
+idx:64 input_id:1012 decoded_text: .
+idx:65 input_id:3811 decoded_text: highly
+idx:66 input_id:6749 decoded_text: recommended
+idx:67 input_id:1012 decoded_text: .
+idx:68 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-4.421754360198975, 4.290942668914795]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

@@ -1,0 +1,51 @@
+Execution time: 2025-07-03 11:26:05
+prompt: [CLS] please avoid this movie at all costs. this is without a doubt, the worst movie i've ever seen. most movies have at least one redeeming value. this has none. totally horrible! [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:3531 decoded_text: please
+idx:2 input_id:4468 decoded_text: avoid
+idx:3 input_id:2023 decoded_text: this
+idx:4 input_id:3185 decoded_text: movie
+idx:5 input_id:2012 decoded_text: at
+idx:6 input_id:2035 decoded_text: all
+idx:7 input_id:5366 decoded_text: costs
+idx:8 input_id:1012 decoded_text: .
+idx:9 input_id:2023 decoded_text: this
+idx:10 input_id:2003 decoded_text: is
+idx:11 input_id:2302 decoded_text: without
+idx:12 input_id:1037 decoded_text: a
+idx:13 input_id:4797 decoded_text: doubt
+idx:14 input_id:1010 decoded_text: ,
+idx:15 input_id:1996 decoded_text: the
+idx:16 input_id:5409 decoded_text: worst
+idx:17 input_id:3185 decoded_text: movie
+idx:18 input_id:1045 decoded_text: i
+idx:19 input_id:1005 decoded_text: '
+idx:20 input_id:2310 decoded_text: ve
+idx:21 input_id:2412 decoded_text: ever
+idx:22 input_id:2464 decoded_text: seen
+idx:23 input_id:1012 decoded_text: .
+idx:24 input_id:2087 decoded_text: most
+idx:25 input_id:5691 decoded_text: movies
+idx:26 input_id:2031 decoded_text: have
+idx:27 input_id:2012 decoded_text: at
+idx:28 input_id:2560 decoded_text: least
+idx:29 input_id:2028 decoded_text: one
+idx:30 input_id:2417 decoded_text: red
+idx:31 input_id:21564 decoded_text: ##eem
+idx:32 input_id:2075 decoded_text: ##ing
+idx:33 input_id:3643 decoded_text: value
+idx:34 input_id:1012 decoded_text: .
+idx:35 input_id:2023 decoded_text: this
+idx:36 input_id:2038 decoded_text: has
+idx:37 input_id:3904 decoded_text: none
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:6135 decoded_text: totally
+idx:40 input_id:9202 decoded_text: horrible
+idx:41 input_id:999 decoded_text: !
+idx:42 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.228596210479736, -3.729717254638672]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

@@ -1,0 +1,170 @@
+---------- Players ----------
+Player 0: like
+Player 1: silent
+Player 2: films,
+Player 3: little
+Player 4: moronic.
+Player 5: much
+Player 6: wish
+Player 7: could
+Player 8: say
+Player 9: worth
+Player 10: hour
+Player 11: stood
+Player 12: can't.
+Player 13: think
+Player 14: version
+Player 15: movie
+Player 16: even
+Player 17: comes
+Player 18: close
+Player 19: book.
+Player 20: try
+Player 21: kids,
+Player 22: might
+Player 23: freak.
+Player 24: lady
+Player 25: played
+Player 26: pollyanna,
+Player 27: old
+Player 28: she?
+Player 29: 38?
+Player 30: know
+Player 31: labor
+Player 32: laws
+Player 33: different
+Player 34: back
+Player 35: then...
+Player 36: come
+Player 37: people.
+---------- Rewards ----------
+v(): 0.7221542000770569	 ([])
+v(2,5,7,8,9,10): -0.8688130378723145	 ([films,][much][could][say][worth][hour])
+v(11,12,19,20,21,37): 3.3885157108306885	 ([stood][can't.][book.][try][kids,][people.])
+v(3,4,6): 2.667106866836548	 ([little][moronic.][wish])
+v(22,23,24,25,26,27,28,32,33,34): 1.810408353805542	 ([might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(0,1,13,14,15,16,17,18): 1.5647038221359253	 ([like][silent][think][version][movie][even][comes][close])
+v(29,30,31,35,36): 1.3206084966659546	 ([38?][know][labor][then...][come])
+v(2,5,7,8,9,10,11,12,19,20,21,37): 7.372884750366211	 ([films,][much][could][say][worth][hour][stood][can't.][book.][try][kids,][people.])
+v(2,3,4,5,6,7,8,9,10): 4.032398223876953	 ([films,][little][moronic.][much][wish][could][say][worth][hour])
+v(2,5,7,8,9,10,22,23,24,25,26,27,28,32,33,34): 0.6442528367042542	 ([films,][much][could][say][worth][hour][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(0,1,2,5,7,8,9,10,13,14,15,16,17,18): 0.7886884808540344	 ([like][silent][films,][much][could][say][worth][hour][think][version][movie][even][comes][close])
+v(2,5,7,8,9,10,29,30,31,35,36): 0.35762402415275574	 ([films,][much][could][say][worth][hour][38?][know][labor][then...][come])
+v(3,4,6,11,12,19,20,21,37): 5.956165790557861	 ([little][moronic.][wish][stood][can't.][book.][try][kids,][people.])
+v(11,12,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 4.31677770614624	 ([stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(0,1,11,12,13,14,15,16,17,18,19,20,21,37): 5.577474117279053	 ([like][silent][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][people.])
+v(11,12,19,20,21,29,30,31,35,36,37): 4.118788719177246	 ([stood][can't.][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(3,4,6,22,23,24,25,26,27,28,32,33,34): 4.604052543640137	 ([little][moronic.][wish][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(0,1,3,4,6,13,14,15,16,17,18): 4.363134860992432	 ([like][silent][little][moronic.][wish][think][version][movie][even][comes][close])
+v(3,4,6,29,30,31,35,36): 4.0409722328186035	 ([little][moronic.][wish][38?][know][labor][then...][come])
+v(0,1,13,14,15,16,17,18,22,23,24,25,26,27,28,32,33,34): 3.42484188079834	 ([like][silent][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 4.037137985229492	 ([might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(0,1,13,14,15,16,17,18,29,30,31,35,36): 2.7788286209106445	 ([like][silent][think][version][movie][even][comes][close][38?][know][labor][then...][come])
+v(2,3,4,5,6,7,8,9,10,11,12,19,20,21,37): 7.910630226135254	 ([films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][book.][try][kids,][people.])
+v(2,5,7,8,9,10,11,12,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 7.920729637145996	 ([films,][much][could][say][worth][hour][stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(0,1,2,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,37): 8.114044189453125	 ([like][silent][films,][much][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][people.])
+v(2,5,7,8,9,10,11,12,19,20,21,29,30,31,35,36,37): 7.698566436767578	 ([films,][much][could][say][worth][hour][stood][can't.][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(2,3,4,5,6,7,8,9,10,22,23,24,25,26,27,28,32,33,34): 5.87831974029541	 ([films,][little][moronic.][much][wish][could][say][worth][hour][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18): 6.044632434844971	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][think][version][movie][even][comes][close])
+v(2,3,4,5,6,7,8,9,10,29,30,31,35,36): 5.312732696533203	 ([films,][little][moronic.][much][wish][could][say][worth][hour][38?][know][labor][then...][come])
+v(0,1,2,5,7,8,9,10,13,14,15,16,17,18,22,23,24,25,26,27,28,32,33,34): 4.350731372833252	 ([like][silent][films,][much][could][say][worth][hour][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(2,5,7,8,9,10,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 2.5057945251464844	 ([films,][much][could][say][worth][hour][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(0,1,2,5,7,8,9,10,13,14,15,16,17,18,29,30,31,35,36): 2.2275328636169434	 ([like][silent][films,][much][could][say][worth][hour][think][version][movie][even][comes][close][38?][know][labor][then...][come])
+v(3,4,6,11,12,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 6.874972820281982	 ([little][moronic.][wish][stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(0,1,3,4,6,11,12,13,14,15,16,17,18,19,20,21,37): 7.64462423324585	 ([like][silent][little][moronic.][wish][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][people.])
+v(3,4,6,11,12,19,20,21,29,30,31,35,36,37): 6.974172592163086	 ([little][moronic.][wish][stood][can't.][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(0,1,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 6.272372245788574	 ([like][silent][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(11,12,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 5.190621852874756	 ([stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(0,1,11,12,13,14,15,16,17,18,19,20,21,29,30,31,35,36,37): 6.210716724395752	 ([like][silent][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(0,1,3,4,6,13,14,15,16,17,18,22,23,24,25,26,27,28,32,33,34): 5.868504524230957	 ([like][silent][little][moronic.][wish][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(3,4,6,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 6.317723751068115	 ([little][moronic.][wish][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(0,1,3,4,6,13,14,15,16,17,18,29,30,31,35,36): 5.834503173828125	 ([like][silent][little][moronic.][wish][think][version][movie][even][comes][close][38?][know][labor][then...][come])
+v(0,1,13,14,15,16,17,18,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 5.6141180992126465	 ([like][silent][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(2,3,4,5,6,7,8,9,10,11,12,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 8.065868377685547	 ([films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,37): 8.240131378173828	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][people.])
+v(2,3,4,5,6,7,8,9,10,11,12,19,20,21,29,30,31,35,36,37): 8.069698333740234	 ([films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(0,1,2,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 8.353569030761719	 ([like][silent][films,][much][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(2,5,7,8,9,10,11,12,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 8.203035354614258	 ([films,][much][could][say][worth][hour][stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(0,1,2,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,29,30,31,35,36,37): 8.15870475769043	 ([like][silent][films,][much][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,22,23,24,25,26,27,28,32,33,34): 6.994265556335449	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(2,3,4,5,6,7,8,9,10,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 6.93118143081665	 ([films,][little][moronic.][much][wish][could][say][worth][hour][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,29,30,31,35,36): 6.8062591552734375	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][think][version][movie][even][comes][close][38?][know][labor][then...][come])
+v(0,1,2,5,7,8,9,10,13,14,15,16,17,18,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 5.683555603027344	 ([like][silent][films,][much][could][say][worth][hour][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(0,1,3,4,6,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 7.7892656326293945	 ([like][silent][little][moronic.][wish][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(3,4,6,11,12,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 7.20098352432251	 ([little][moronic.][wish][stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(0,1,3,4,6,11,12,13,14,15,16,17,18,19,20,21,29,30,31,35,36,37): 7.901702404022217	 ([like][silent][little][moronic.][wish][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(0,1,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 6.996696472167969	 ([like][silent][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(0,1,3,4,6,13,14,15,16,17,18,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 7.104058265686035	 ([like][silent][little][moronic.][wish][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 8.190303802490234	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(2,3,4,5,6,7,8,9,10,11,12,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 8.157155990600586	 ([films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,29,30,31,35,36,37): 8.140204429626465	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(0,1,2,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 8.41290283203125	 ([like][silent][films,][much][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 7.483449935913086	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(0,1,3,4,6,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 7.9407758712768555	 ([like][silent][little][moronic.][wish][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 8.235231399536133	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+---------- Rewards-v() ----------
+v(0,1,2,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 7.690748691558838, EP: 1.0236482620239258	 ([like][silent][films,][much][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(0,1,2,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 7.631414890289307, EP: 1.0157508850097656	 ([like][silent][films,][much][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,37): 7.517977237701416, EP: 1.0006521940231323	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][people.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 7.513077259063721, EP: 1.0	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(2,5,7,8,9,10,11,12,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 7.480881214141846, EP: 0.9957146644592285	 ([films,][much][could][say][worth][hour][stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 7.468149662017822, EP: 0.9940201044082642	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(0,1,2,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,29,30,31,35,36,37): 7.436550617218018, EP: 0.9898142218589783	 ([like][silent][films,][much][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(2,3,4,5,6,7,8,9,10,11,12,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 7.435001850128174, EP: 0.9896080493927002	 ([films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,29,30,31,35,36,37): 7.418050289154053, EP: 0.9873517751693726	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(0,1,2,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,37): 7.391890048980713, EP: 0.9838698506355286	 ([like][silent][films,][much][could][say][worth][hour][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][people.])
+v(2,3,4,5,6,7,8,9,10,11,12,19,20,21,29,30,31,35,36,37): 7.347544193267822, EP: 0.9779673218727112	 ([films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(2,3,4,5,6,7,8,9,10,11,12,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 7.343714237213135, EP: 0.977457582950592	 ([films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(0,1,3,4,6,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 7.218621730804443, EP: 0.9608076214790344	 ([like][silent][little][moronic.][wish][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(2,5,7,8,9,10,11,12,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 7.198575496673584, EP: 0.9581394195556641	 ([films,][much][could][say][worth][hour][stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(2,3,4,5,6,7,8,9,10,11,12,19,20,21,37): 7.188476085662842, EP: 0.9567951560020447	 ([films,][little][moronic.][much][wish][could][say][worth][hour][stood][can't.][book.][try][kids,][people.])
+v(0,1,3,4,6,11,12,13,14,15,16,17,18,19,20,21,29,30,31,35,36,37): 7.179548263549805, EP: 0.9556068778038025	 ([like][silent][little][moronic.][wish][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(0,1,3,4,6,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 7.067111492156982, EP: 0.9406414031982422	 ([like][silent][little][moronic.][wish][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(2,5,7,8,9,10,11,12,19,20,21,29,30,31,35,36,37): 6.976412296295166, EP: 0.9285691976547241	 ([films,][much][could][say][worth][hour][stood][can't.][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(0,1,3,4,6,11,12,13,14,15,16,17,18,19,20,21,37): 6.9224700927734375, EP: 0.9213894605636597	 ([like][silent][little][moronic.][wish][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][people.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 6.761295795440674, EP: 0.8999369740486145	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(2,5,7,8,9,10,11,12,19,20,21,37): 6.650730609893799, EP: 0.8852205872535706	 ([films,][much][could][say][worth][hour][stood][can't.][book.][try][kids,][people.])
+v(3,4,6,11,12,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 6.478829383850098, EP: 0.8623403310775757	 ([little][moronic.][wish][stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(0,1,3,4,6,13,14,15,16,17,18,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 6.381904125213623, EP: 0.8494394421577454	 ([like][silent][little][moronic.][wish][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(0,1,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 6.274542331695557, EP: 0.8351494669914246	 ([like][silent][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,22,23,24,25,26,27,28,32,33,34): 6.272111415863037, EP: 0.834825873374939	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(3,4,6,11,12,19,20,21,29,30,31,35,36,37): 6.252018451690674, EP: 0.832151472568512	 ([little][moronic.][wish][stood][can't.][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(2,3,4,5,6,7,8,9,10,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 6.209027290344238, EP: 0.8264293074607849	 ([films,][little][moronic.][much][wish][could][say][worth][hour][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(3,4,6,11,12,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 6.15281867980957, EP: 0.8189478516578674	 ([little][moronic.][wish][stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,29,30,31,35,36): 6.084105014801025, EP: 0.8098019957542419	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][think][version][movie][even][comes][close][38?][know][labor][then...][come])
+v(3,4,6,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 5.595569610595703, EP: 0.7447773218154907	 ([little][moronic.][wish][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(0,1,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 5.550218105316162, EP: 0.7387409806251526	 ([like][silent][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(0,1,11,12,13,14,15,16,17,18,19,20,21,29,30,31,35,36,37): 5.48856258392334, EP: 0.730534553527832	 ([like][silent][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18): 5.322478294372559, EP: 0.7084285616874695	 ([like][silent][films,][little][moronic.][much][wish][could][say][worth][hour][think][version][movie][even][comes][close])
+v(3,4,6,11,12,19,20,21,37): 5.234011650085449, EP: 0.6966534852981567	 ([little][moronic.][wish][stood][can't.][book.][try][kids,][people.])
+v(2,3,4,5,6,7,8,9,10,22,23,24,25,26,27,28,32,33,34): 5.156165599822998, EP: 0.6862921118736267	 ([films,][little][moronic.][much][wish][could][say][worth][hour][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(0,1,3,4,6,13,14,15,16,17,18,22,23,24,25,26,27,28,32,33,34): 5.146350383758545, EP: 0.6849856972694397	 ([like][silent][little][moronic.][wish][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(0,1,3,4,6,13,14,15,16,17,18,29,30,31,35,36): 5.112349033355713, EP: 0.6804600358009338	 ([like][silent][little][moronic.][wish][think][version][movie][even][comes][close][38?][know][labor][then...][come])
+v(0,1,2,5,7,8,9,10,13,14,15,16,17,18,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 4.961401462554932, EP: 0.6603687405586243	 ([like][silent][films,][much][could][say][worth][hour][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(0,1,13,14,15,16,17,18,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 4.891963958740234, EP: 0.6511265635490417	 ([like][silent][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(0,1,11,12,13,14,15,16,17,18,19,20,21,37): 4.855319976806641, EP: 0.6462491750717163	 ([like][silent][stood][can't.][think][version][movie][even][comes][close][book.][try][kids,][people.])
+v(2,3,4,5,6,7,8,9,10,29,30,31,35,36): 4.590578556060791, EP: 0.6110117435455322	 ([films,][little][moronic.][much][wish][could][say][worth][hour][38?][know][labor][then...][come])
+v(11,12,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 4.468467712402344, EP: 0.5947586297988892	 ([stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come][people.])
+v(3,4,6,22,23,24,25,26,27,28,32,33,34): 3.8818984031677246, EP: 0.5166855454444885	 ([little][moronic.][wish][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(0,1,3,4,6,13,14,15,16,17,18): 3.6409807205200195, EP: 0.4846191108226776	 ([like][silent][little][moronic.][wish][think][version][movie][even][comes][close])
+v(0,1,2,5,7,8,9,10,13,14,15,16,17,18,22,23,24,25,26,27,28,32,33,34): 3.62857723236084, EP: 0.48296818137168884	 ([like][silent][films,][much][could][say][worth][hour][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(11,12,19,20,21,22,23,24,25,26,27,28,32,33,34,37): 3.594623565673828, EP: 0.47844889760017395	 ([stood][can't.][book.][try][kids,][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back][people.])
+v(11,12,19,20,21,29,30,31,35,36,37): 3.396634578704834, EP: 0.4520963132381439	 ([stood][can't.][book.][try][kids,][38?][know][labor][then...][come][people.])
+v(3,4,6,29,30,31,35,36): 3.3188180923461914, EP: 0.4417388439178467	 ([little][moronic.][wish][38?][know][labor][then...][come])
+v(22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 3.31498384475708, EP: 0.4412285089492798	 ([might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(2,3,4,5,6,7,8,9,10): 3.310244083404541, EP: 0.44059762358665466	 ([films,][little][moronic.][much][wish][could][say][worth][hour])
+v(0,1,13,14,15,16,17,18,22,23,24,25,26,27,28,32,33,34): 2.7026877403259277, EP: 0.35973113775253296	 ([like][silent][think][version][movie][even][comes][close][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(11,12,19,20,21,37): 2.6663615703582764, EP: 0.35489606857299805	 ([stood][can't.][book.][try][kids,][people.])
+v(0,1,13,14,15,16,17,18,29,30,31,35,36): 2.0566744804382324, EP: 0.27374595403671265	 ([like][silent][think][version][movie][even][comes][close][38?][know][labor][then...][come])
+v(3,4,6): 1.9449527263641357, EP: 0.25887563824653625	 ([little][moronic.][wish])
+v(2,5,7,8,9,10,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36): 1.7836403846740723, EP: 0.23740476369857788	 ([films,][much][could][say][worth][hour][might][freak.][lady][played][pollyanna,][old][she?][38?][know][labor][laws][different][back][then...][come])
+v(2,5,7,8,9,10): -1.5909671783447266, EP: -0.21175973117351532	 ([films,][much][could][say][worth][hour])
+v(0,1,2,5,7,8,9,10,13,14,15,16,17,18,29,30,31,35,36): 1.5053787231445312, EP: 0.2003677934408188	 ([like][silent][films,][much][could][say][worth][hour][think][version][movie][even][comes][close][38?][know][labor][then...][come])
+v(22,23,24,25,26,27,28,32,33,34): 1.0882542133331299, EP: 0.14484800398349762	 ([might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(0,1,13,14,15,16,17,18): 0.8425496220588684, EP: 0.11214441061019897	 ([like][silent][think][version][movie][even][comes][close])
+v(29,30,31,35,36): 0.5984542965888977, EP: 0.07965501397848129	 ([38?][know][labor][then...][come])
+v(2,5,7,8,9,10,29,30,31,35,36): -0.36453017592430115, EP: -0.048519425094127655	 ([films,][much][could][say][worth][hour][38?][know][labor][then...][come])
+v(2,5,7,8,9,10,22,23,24,25,26,27,28,32,33,34): -0.07790136337280273, EP: -0.01036876905709505	 ([films,][much][could][say][worth][hour][might][freak.][lady][played][pollyanna,][old][she?][laws][different][back])
+v(0,1,2,5,7,8,9,10,13,14,15,16,17,18): 0.06653428077697754, EP: 0.008855796419084072	 ([like][silent][films,][much][could][say][worth][hour][think][version][movie][even][comes][close])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,76 @@
+Execution time: 2025-07-03 17:23:24
+prompt: [CLS] the plot had some wretched, unbelievable twists. however, the chemistry between mel brooks and leslie ann warren was excellent. the insight that she comes to, there are just moments, " provides a philosophical handle by which anyone could pick up, and embrace, life. that was one of several moments that were wonderfully memorable. " [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1996 decoded_text: the
+idx:2 input_id:5436 decoded_text: plot
+idx:3 input_id:2018 decoded_text: had
+idx:4 input_id:2070 decoded_text: some
+idx:5 input_id:23277 decoded_text: wr
+idx:6 input_id:29574 decoded_text: ##etched
+idx:7 input_id:1010 decoded_text: ,
+idx:8 input_id:23653 decoded_text: unbelievable
+idx:9 input_id:21438 decoded_text: twists
+idx:10 input_id:1012 decoded_text: .
+idx:11 input_id:2174 decoded_text: however
+idx:12 input_id:1010 decoded_text: ,
+idx:13 input_id:1996 decoded_text: the
+idx:14 input_id:6370 decoded_text: chemistry
+idx:15 input_id:2090 decoded_text: between
+idx:16 input_id:11463 decoded_text: mel
+idx:17 input_id:8379 decoded_text: brooks
+idx:18 input_id:1998 decoded_text: and
+idx:19 input_id:8886 decoded_text: leslie
+idx:20 input_id:5754 decoded_text: ann
+idx:21 input_id:6031 decoded_text: warren
+idx:22 input_id:2001 decoded_text: was
+idx:23 input_id:6581 decoded_text: excellent
+idx:24 input_id:1012 decoded_text: .
+idx:25 input_id:1996 decoded_text: the
+idx:26 input_id:12369 decoded_text: insight
+idx:27 input_id:2008 decoded_text: that
+idx:28 input_id:2016 decoded_text: she
+idx:29 input_id:3310 decoded_text: comes
+idx:30 input_id:2000 decoded_text: to
+idx:31 input_id:1010 decoded_text: ,
+idx:32 input_id:2045 decoded_text: there
+idx:33 input_id:2024 decoded_text: are
+idx:34 input_id:2074 decoded_text: just
+idx:35 input_id:5312 decoded_text: moments
+idx:36 input_id:1010 decoded_text: ,
+idx:37 input_id:1000 decoded_text: "
+idx:38 input_id:3640 decoded_text: provides
+idx:39 input_id:1037 decoded_text: a
+idx:40 input_id:9569 decoded_text: philosophical
+idx:41 input_id:5047 decoded_text: handle
+idx:42 input_id:2011 decoded_text: by
+idx:43 input_id:2029 decoded_text: which
+idx:44 input_id:3087 decoded_text: anyone
+idx:45 input_id:2071 decoded_text: could
+idx:46 input_id:4060 decoded_text: pick
+idx:47 input_id:2039 decoded_text: up
+idx:48 input_id:1010 decoded_text: ,
+idx:49 input_id:1998 decoded_text: and
+idx:50 input_id:9979 decoded_text: embrace
+idx:51 input_id:1010 decoded_text: ,
+idx:52 input_id:2166 decoded_text: life
+idx:53 input_id:1012 decoded_text: .
+idx:54 input_id:2008 decoded_text: that
+idx:55 input_id:2001 decoded_text: was
+idx:56 input_id:2028 decoded_text: one
+idx:57 input_id:1997 decoded_text: of
+idx:58 input_id:2195 decoded_text: several
+idx:59 input_id:5312 decoded_text: moments
+idx:60 input_id:2008 decoded_text: that
+idx:61 input_id:2020 decoded_text: were
+idx:62 input_id:6919 decoded_text: wonderful
+idx:63 input_id:2135 decoded_text: ##ly
+idx:64 input_id:13432 decoded_text: memorable
+idx:65 input_id:1012 decoded_text: .
+idx:66 input_id:1000 decoded_text: "
+idx:67 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-4.265531539916992, 4.602152347564697]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

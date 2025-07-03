@@ -1,0 +1,8 @@
+louvain社区检测结果:
+社区 1: ['27', '32', '29', '30', '41', '24', '33', '26', '31', '28']: ['back', 'known', 'one', 'probably', 'year,', 'quite', 'one.', 'together', 'best', 'days,']: 平均边权 0.5216
+社区 2: ['12', '20', '19', '13', '25', '18', '21', '16', '15', '23', '22', '14', '17']: ['movie', 'gene', 'stars', 'got', 'movies', 'minnelli', 'kelly', 'expert', 'genre', 'lead.', 'main', 'directed', 'vincente']: 平均边权 0.5204
+社区 3: ['39', '38', '37', '36', '35', '40']: ['picture', 'best', 'win', 'managed', 'actually', 'oscar']: 平均边权 0.6765
+社区 4: ['8', '11', '0', '9', '1', '10', '7']: ['better', 'there.', 'typical', 'ones', 'cheerful', 'watch', 'definitely']: 平均边权 0.5172
+社区 5: ['2', '4', '5', '3', '42', '44', '34']: ['colorful', 'musical', 'early', 'mgm', 'meant', 'movies', 'movie']: 平均边权 0.6092
+社区 6: ['56', '49', '52', '47', '55', '50', '48', '53', '51', '54']: ['",', 'streetcar', '",', '",', 'queen', 'named', '" a', '" the', 'desire', 'african']: 平均边权 0.3141
+社区 7: ['61', '57', '63', '66', '58', '45', '46', '43', '67', '65', '59', '62', '60', '64', '6']: ['blue', '" quo', '",', '"', 'vadis', 'place', 'sun', 'beat', 'year.', 'salesman', '",', 'veil', '" the', '" death', "' 50's"]: 平均边权 0.2392

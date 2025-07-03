@@ -1,0 +1,8 @@
+louvain社区检测结果:
+社区 1: ['55', '61', '57', '54', '62', '51', '60']: ['country', 'staff', 'house,', "family's", 'laying', 'aunt.', 'house']: 平均边权 0.3936
+社区 2: ['5', '20', '19', '36', '32', '45', '34', '33']: ['fred', 'halliday,', 'jerry', 'english', '( 19 - year - old', 'jerry', 'fontaine ),', 'joan']: 平均边权 0.4351
+社区 3: ['12', '8', '13', '58', '4', '11', '15', '3', '9', '14', '7']: ['films', 'musicals.', 'always', 'soon', 'one', 'bad', 'moments.', 'definitely', 'even', 'good', 'better']: 平均边权 0.5634
+社区 4: ['23', '22', '24', '21', '31']: ['star', 'musical', 'london', 'american', 'marshmorton']: 平均边权 0.6728
+社区 5: ['2', '56', '0', '66', '29', '18', '47', '16', '30', '65', '1', '10', '17', '6']: ['"', 'manor', 'damsel', 'alice', 'lady', 'astaire', 'alice', '" damsel,', 'alice', 'lady', 'distress', "astaire's", '"', "astaire's"]: 平均边权 0.7537
+社区 6: ['63', '35', '46', '52', '50', '41', '42', '48', '44', '59', '43']: ['bets', 'beautiful', 'believes', 'tries', 'rich', 'taking', 'escape', 'forced', 'admirers.', 'discovers', 'mob']: 平均边权 0.3504
+社区 7: ['38', '27', '25', '49', '40', '39', '67', '53', '37', '26', '64', '28']: ['hops', 'tour.', 'personal', 'marriage', 'cab', 'back', 'marry.', 'rescue', 'heiress,', 'appearance', 'suitor', 'meets']: 平均边权 0.2903

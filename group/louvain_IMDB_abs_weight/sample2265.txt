@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['56', '5', '57', '32', '16', '15', '14', '31']: ['exactly', 'movie,', 'paid', 'punchline', 'bad.', 'pretty', 'dead', 'one']: 平均边权 0.7200
+社区 2: ['2', '61', '1', '40', '18', '42', '23', '44', '43', '17', '7']: ['awful.', 'certain', 'simply', 'poorly', 'bad', 'looked', 'rod', 'high', 'like', 'nothing', 'sat']: 平均边权 1.0307
+社区 3: ['50', '48', '53', '46', '51', '49', '52']: ['actors,', 'series.', 'call', 'productions', 'really', 'poor', 'want']: 平均边权 0.9255
+社区 4: ['11', '41', '35', '33', '45', '47']: ['improvement.', 'made,', 'movies', 'another,', 'school', 'horror']: 平均边权 0.5817
+社区 5: ['8', '20', '0', '4', '3', '9', '10', '6']: ['part', 'nightmares.', 'wow.', 'original', 'fan', '2,', '3', 'begrudgingly']: 平均边权 0.4656
+社区 6: ['55', '22', '27', '25', '26', '54']: ['obviously', 'acts', 'series.', 'host', 'anthology', 'show']: 平均边权 0.5569
+社区 7: ['12', '19', '13', '58', '29', '21', '30', '37', '24', '60', '28']: ['4, 5', "freddy's", "freddy's", 'for.', 'freddy', 'freddy', 'became', 'freddy', 'serlingesq', 'nearly', 'accept']: 平均边权 0.5596
+社区 8: ['39', '38', '36', '59', '34']: ['movies,', 'carried', 'appeal', "i'm", 'least']: 平均边权 0.5039

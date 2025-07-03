@@ -1,0 +1,82 @@
+---------- Players ----------
+Player 0: movie
+Player 1: best
+Player 2: summed
+Player 3: scene
+Player 4: victim
+Player 5: simulates
+Player 6: disembowelment
+Player 7: pulling
+Player 8: poor
+Player 9: animal's
+Player 10: intestines
+Player 11: t - shirt.
+Player 12: terrible
+Player 13: words.
+---------- Rewards ----------
+v(): 4.873457908630371	 ([])
+v(0,5,11): 4.611845016479492	 ([movie][simulates][t - shirt.])
+v(10,12): 5.961973190307617	 ([intestines][terrible])
+v(1,2,6,13): 3.022171974182129	 ([best][summed][disembowelment][words.])
+v(3,4): 4.277521133422852	 ([scene][victim])
+v(7,8,9): 5.5942511558532715	 ([pulling][poor][animal's])
+v(0,5,10,11,12): 7.1177978515625	 ([movie][simulates][intestines][t - shirt.][terrible])
+v(0,1,2,5,6,11,13): 4.745936393737793	 ([movie][best][summed][simulates][disembowelment][t - shirt.][words.])
+v(0,3,4,5,11): 5.7156500816345215	 ([movie][scene][victim][simulates][t - shirt.])
+v(0,5,7,8,9,11): 4.9735493659973145	 ([movie][simulates][pulling][poor][animal's][t - shirt.])
+v(1,2,6,10,12,13): 3.758150577545166	 ([best][summed][disembowelment][intestines][terrible][words.])
+v(3,4,10,12): 4.9438276290893555	 ([scene][victim][intestines][terrible])
+v(7,8,9,10,12): 6.296892166137695	 ([pulling][poor][animal's][intestines][terrible])
+v(1,2,3,4,6,13): 2.8052690029144287	 ([best][summed][scene][victim][disembowelment][words.])
+v(1,2,6,7,8,9,13): 2.7570056915283203	 ([best][summed][disembowelment][pulling][poor][animal's][words.])
+v(3,4,7,8,9): 5.023647308349609	 ([scene][victim][pulling][poor][animal's])
+v(0,1,2,5,6,10,11,12,13): 7.006482124328613	 ([movie][best][summed][simulates][disembowelment][intestines][t - shirt.][terrible][words.])
+v(0,3,4,5,10,11,12): 7.213748455047607	 ([movie][scene][victim][simulates][intestines][t - shirt.][terrible])
+v(0,5,7,8,9,10,11,12): 7.286023139953613	 ([movie][simulates][pulling][poor][animal's][intestines][t - shirt.][terrible])
+v(0,1,2,3,4,5,6,11,13): 4.493001937866211	 ([movie][best][summed][scene][victim][simulates][disembowelment][t - shirt.][words.])
+v(0,1,2,5,6,7,8,9,11,13): 6.078848361968994	 ([movie][best][summed][simulates][disembowelment][pulling][poor][animal's][t - shirt.][words.])
+v(0,3,4,5,7,8,9,11): 5.7228899002075195	 ([movie][scene][victim][simulates][pulling][poor][animal's][t - shirt.])
+v(1,2,3,4,6,10,12,13): 3.230703830718994	 ([best][summed][scene][victim][disembowelment][intestines][terrible][words.])
+v(1,2,6,7,8,9,10,12,13): 4.218238830566406	 ([best][summed][disembowelment][pulling][poor][animal's][intestines][terrible][words.])
+v(3,4,7,8,9,10,12): 5.55659294128418	 ([scene][victim][pulling][poor][animal's][intestines][terrible])
+v(1,2,3,4,6,7,8,9,13): 3.3309195041656494	 ([best][summed][scene][victim][disembowelment][pulling][poor][animal's][words.])
+v(0,1,2,3,4,5,6,10,11,12,13): 6.85402774810791	 ([movie][best][summed][scene][victim][simulates][disembowelment][intestines][t - shirt.][terrible][words.])
+v(0,1,2,5,6,7,8,9,10,11,12,13): 7.309610366821289	 ([movie][best][summed][simulates][disembowelment][pulling][poor][animal's][intestines][t - shirt.][terrible][words.])
+v(0,3,4,5,7,8,9,10,11,12): 7.261627674102783	 ([movie][scene][victim][simulates][pulling][poor][animal's][intestines][t - shirt.][terrible])
+v(0,1,2,3,4,5,6,7,8,9,11,13): 5.395441055297852	 ([movie][best][summed][scene][victim][simulates][disembowelment][pulling][poor][animal's][t - shirt.][words.])
+v(1,2,3,4,6,7,8,9,10,12,13): 4.062093257904053	 ([best][summed][scene][victim][disembowelment][pulling][poor][animal's][intestines][terrible][words.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13): 7.12955379486084	 ([movie][best][summed][scene][victim][simulates][disembowelment][pulling][poor][animal's][intestines][t - shirt.][terrible][words.])
+---------- Rewards-v() ----------
+v(0,1,2,5,6,7,8,9,10,11,12,13): 2.436152458190918, EP: 1.0798089504241943	 ([movie][best][summed][simulates][disembowelment][pulling][poor][animal's][intestines][t - shirt.][terrible][words.])
+v(0,5,7,8,9,10,11,12): 2.412565231323242, EP: 1.0693540573120117	 ([movie][simulates][pulling][poor][animal's][intestines][t - shirt.][terrible])
+v(0,3,4,5,7,8,9,10,11,12): 2.388169765472412, EP: 1.058540940284729	 ([movie][scene][victim][simulates][pulling][poor][animal's][intestines][t - shirt.][terrible])
+v(0,3,4,5,10,11,12): 2.3402905464172363, EP: 1.0373187065124512	 ([movie][scene][victim][simulates][intestines][t - shirt.][terrible])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13): 2.2560958862304688, EP: 1.0	 ([movie][best][summed][scene][victim][simulates][disembowelment][pulling][poor][animal's][intestines][t - shirt.][terrible][words.])
+v(0,5,10,11,12): 2.244339942932129, EP: 0.9947892427444458	 ([movie][simulates][intestines][t - shirt.][terrible])
+v(0,1,2,5,6,10,11,12,13): 2.133024215698242, EP: 0.9454492926597595	 ([movie][best][summed][simulates][disembowelment][intestines][t - shirt.][terrible][words.])
+v(1,2,6,7,8,9,13): -2.116452217102051, EP: -0.9381038546562195	 ([best][summed][disembowelment][pulling][poor][animal's][words.])
+v(1,2,3,4,6,13): -2.0681889057159424, EP: -0.9167114496231079	 ([best][summed][scene][victim][disembowelment][words.])
+v(0,1,2,3,4,5,6,10,11,12,13): 1.980569839477539, EP: 0.8778748512268066	 ([movie][best][summed][scene][victim][simulates][disembowelment][intestines][t - shirt.][terrible][words.])
+v(1,2,6,13): -1.8512859344482422, EP: -0.8205705881118774	 ([best][summed][disembowelment][words.])
+v(1,2,3,4,6,10,12,13): -1.642754077911377, EP: -0.7281401753425598	 ([best][summed][scene][victim][disembowelment][intestines][terrible][words.])
+v(1,2,3,4,6,7,8,9,13): -1.5425384044647217, EP: -0.6837202310562134	 ([best][summed][scene][victim][disembowelment][pulling][poor][animal's][words.])
+v(7,8,9,10,12): 1.4234342575073242, EP: 0.630928099155426	 ([pulling][poor][animal's][intestines][terrible])
+v(0,1,2,5,6,7,8,9,11,13): 1.205390453338623, EP: 0.5342815518379211	 ([movie][best][summed][simulates][disembowelment][pulling][poor][animal's][t - shirt.][words.])
+v(1,2,6,10,12,13): -1.115307331085205, EP: -0.4943528175354004	 ([best][summed][disembowelment][intestines][terrible][words.])
+v(10,12): 1.088515281677246, EP: 0.4824773967266083	 ([intestines][terrible])
+v(0,3,4,5,7,8,9,11): 0.8494319915771484, EP: 0.3765052556991577	 ([movie][scene][victim][simulates][pulling][poor][animal's][t - shirt.])
+v(0,3,4,5,11): 0.8421921730041504, EP: 0.37329626083374023	 ([movie][scene][victim][simulates][t - shirt.])
+v(1,2,3,4,6,7,8,9,10,12,13): -0.8113646507263184, EP: -0.3596321642398834	 ([best][summed][scene][victim][disembowelment][pulling][poor][animal's][intestines][terrible][words.])
+v(7,8,9): 0.7207932472229004, EP: 0.31948697566986084	 ([pulling][poor][animal's])
+v(3,4,7,8,9,10,12): 0.6831350326538086, EP: 0.3027952015399933	 ([scene][victim][pulling][poor][animal's][intestines][terrible])
+v(1,2,6,7,8,9,10,12,13): -0.6552190780639648, EP: -0.29042163491249084	 ([best][summed][disembowelment][pulling][poor][animal's][intestines][terrible][words.])
+v(3,4): -0.5959367752075195, EP: -0.2641451358795166	 ([scene][victim])
+v(0,1,2,3,4,5,6,7,8,9,11,13): 0.5219831466674805, EP: 0.23136568069458008	 ([movie][best][summed][scene][victim][simulates][disembowelment][pulling][poor][animal's][t - shirt.][words.])
+v(0,1,2,3,4,5,6,11,13): -0.38045597076416016, EP: -0.16863466799259186	 ([movie][best][summed][scene][victim][simulates][disembowelment][t - shirt.][words.])
+v(0,5,11): -0.2616128921508789, EP: -0.11595823615789413	 ([movie][simulates][t - shirt.])
+v(3,4,7,8,9): 0.15018939971923828, EP: 0.06657048314809799	 ([scene][victim][pulling][poor][animal's])
+v(0,1,2,5,6,11,13): -0.12752151489257812, EP: -0.05652309209108353	 ([movie][best][summed][simulates][disembowelment][t - shirt.][words.])
+v(0,5,7,8,9,11): 0.10009145736694336, EP: 0.044364895671606064	 ([movie][simulates][pulling][poor][animal's][t - shirt.])
+v(3,4,10,12): 0.07036972045898438, EP: 0.03119092620909214	 ([scene][victim][intestines][terrible])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

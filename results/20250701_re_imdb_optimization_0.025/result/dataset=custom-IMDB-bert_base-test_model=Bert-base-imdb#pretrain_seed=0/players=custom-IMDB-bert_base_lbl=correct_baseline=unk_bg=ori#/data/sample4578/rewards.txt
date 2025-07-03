@@ -1,0 +1,158 @@
+---------- Players ----------
+Player 0: first
+Player 1: jack
+Player 2: ripper,
+Player 3: alan
+Player 4: feinstone.
+Player 5: crazy
+Player 6: dentist
+Player 7: tortures
+Player 8: people
+Player 9: horrific
+Player 10: ways.
+Player 11: quite
+Player 12: realistic
+Player 13: times
+Player 14: acting
+Player 15: abysmal
+Player 16: comical.
+Player 17: especially
+Player 18: corbin
+Player 19: bernson.
+Player 20: scenes
+Player 21: dental
+Player 22: torture
+Player 23: really
+Player 24: make
+Player 25: cringe.
+---------- Rewards ----------
+v(): 0.15347251296043396	 ([])
+v(17,18): 0.3469182550907135	 ([especially][corbin])
+v(6,7,8,9): -3.024479627609253	 ([dentist][tortures][people][horrific])
+v(2,10,11,12,13,19): 4.6285858154296875	 ([ripper,][ways.][quite][realistic][times][bernson.])
+v(0,14,15,16,20): -7.347341537475586	 ([first][acting][abysmal][comical.][scenes])
+v(1,21,22,23,24,25): -0.24123802781105042	 ([jack][dental][torture][really][make][cringe.])
+v(3,4,5): -0.45437660813331604	 ([alan][feinstone.][crazy])
+v(6,7,8,9,17,18): -3.204848289489746	 ([dentist][tortures][people][horrific][especially][corbin])
+v(2,10,11,12,13,17,18,19): 7.187873840332031	 ([ripper,][ways.][quite][realistic][times][especially][corbin][bernson.])
+v(0,14,15,16,17,18,20): -7.364859104156494	 ([first][acting][abysmal][comical.][especially][corbin][scenes])
+v(1,17,18,21,22,23,24,25): 0.15813611447811127	 ([jack][especially][corbin][dental][torture][really][make][cringe.])
+v(3,4,5,17,18): 1.0174983739852905	 ([alan][feinstone.][crazy][especially][corbin])
+v(2,6,7,8,9,10,11,12,13,19): -0.5096448659896851	 ([ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][bernson.])
+v(0,6,7,8,9,14,15,16,20): -7.631923675537109	 ([first][dentist][tortures][people][horrific][acting][abysmal][comical.][scenes])
+v(1,6,7,8,9,21,22,23,24,25): -3.8466506004333496	 ([jack][dentist][tortures][people][horrific][dental][torture][really][make][cringe.])
+v(3,4,5,6,7,8,9): -3.7259182929992676	 ([alan][feinstone.][crazy][dentist][tortures][people][horrific])
+v(0,2,10,11,12,13,14,15,16,19,20): 6.581934452056885	 ([first][ripper,][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes])
+v(1,2,10,11,12,13,19,21,22,23,24,25): 6.534741401672363	 ([jack][ripper,][ways.][quite][realistic][times][bernson.][dental][torture][really][make][cringe.])
+v(2,3,4,5,10,11,12,13,19): 6.896735191345215	 ([ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][bernson.])
+v(0,1,14,15,16,20,21,22,23,24,25): -7.9510111808776855	 ([first][jack][acting][abysmal][comical.][scenes][dental][torture][really][make][cringe.])
+v(0,3,4,5,14,15,16,20): -7.408025741577148	 ([first][alan][feinstone.][crazy][acting][abysmal][comical.][scenes])
+v(1,3,4,5,21,22,23,24,25): -2.092724084854126	 ([jack][alan][feinstone.][crazy][dental][torture][really][make][cringe.])
+v(2,6,7,8,9,10,11,12,13,17,18,19): 4.282740116119385	 ([ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][especially][corbin][bernson.])
+v(0,6,7,8,9,14,15,16,17,18,20): -7.565372467041016	 ([first][dentist][tortures][people][horrific][acting][abysmal][comical.][especially][corbin][scenes])
+v(1,6,7,8,9,17,18,21,22,23,24,25): -3.1636781692504883	 ([jack][dentist][tortures][people][horrific][especially][corbin][dental][torture][really][make][cringe.])
+v(3,4,5,6,7,8,9,17,18): -3.136638641357422	 ([alan][feinstone.][crazy][dentist][tortures][people][horrific][especially][corbin])
+v(0,2,10,11,12,13,14,15,16,17,18,19,20): 8.312122344970703	 ([first][ripper,][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes])
+v(1,2,10,11,12,13,17,18,19,21,22,23,24,25): 7.700039386749268	 ([jack][ripper,][ways.][quite][realistic][times][especially][corbin][bernson.][dental][torture][really][make][cringe.])
+v(2,3,4,5,10,11,12,13,17,18,19): 8.15768814086914	 ([ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][especially][corbin][bernson.])
+v(0,1,14,15,16,17,18,20,21,22,23,24,25): -7.745145320892334	 ([first][jack][acting][abysmal][comical.][especially][corbin][scenes][dental][torture][really][make][cringe.])
+v(0,3,4,5,14,15,16,17,18,20): -7.224910259246826	 ([first][alan][feinstone.][crazy][acting][abysmal][comical.][especially][corbin][scenes])
+v(1,3,4,5,17,18,21,22,23,24,25): -0.806387186050415	 ([jack][alan][feinstone.][crazy][especially][corbin][dental][torture][really][make][cringe.])
+v(0,2,6,7,8,9,10,11,12,13,14,15,16,19,20): 1.6574490070343018	 ([first][ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes])
+v(1,2,6,7,8,9,10,11,12,13,19,21,22,23,24,25): 2.514686107635498	 ([jack][ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][bernson.][dental][torture][really][make][cringe.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,19): 1.9559330940246582	 ([ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][bernson.])
+v(0,1,6,7,8,9,14,15,16,20,21,22,23,24,25): -7.7234907150268555	 ([first][jack][dentist][tortures][people][horrific][acting][abysmal][comical.][scenes][dental][torture][really][make][cringe.])
+v(0,3,4,5,6,7,8,9,14,15,16,20): -6.472121238708496	 ([first][alan][feinstone.][crazy][dentist][tortures][people][horrific][acting][abysmal][comical.][scenes])
+v(1,3,4,5,6,7,8,9,21,22,23,24,25): -3.9275076389312744	 ([jack][alan][feinstone.][crazy][dentist][tortures][people][horrific][dental][torture][really][make][cringe.])
+v(0,1,2,10,11,12,13,14,15,16,19,20,21,22,23,24,25): 7.534228324890137	 ([first][jack][ripper,][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes][dental][torture][really][make][cringe.])
+v(0,2,3,4,5,10,11,12,13,14,15,16,19,20): 7.409291744232178	 ([first][ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes])
+v(1,2,3,4,5,10,11,12,13,19,21,22,23,24,25): 7.405754089355469	 ([jack][ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][bernson.][dental][torture][really][make][cringe.])
+v(0,1,3,4,5,14,15,16,20,21,22,23,24,25): -7.740367412567139	 ([first][jack][alan][feinstone.][crazy][acting][abysmal][comical.][scenes][dental][torture][really][make][cringe.])
+v(0,2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 6.925772190093994	 ([first][ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes])
+v(1,2,6,7,8,9,10,11,12,13,17,18,19,21,22,23,24,25): 5.503475189208984	 ([jack][ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][especially][corbin][bernson.][dental][torture][really][make][cringe.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,17,18,19): 6.21528959274292	 ([ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][especially][corbin][bernson.])
+v(0,1,6,7,8,9,14,15,16,17,18,20,21,22,23,24,25): -7.109066963195801	 ([first][jack][dentist][tortures][people][horrific][acting][abysmal][comical.][especially][corbin][scenes][dental][torture][really][make][cringe.])
+v(0,3,4,5,6,7,8,9,14,15,16,17,18,20): -6.181707382202148	 ([first][alan][feinstone.][crazy][dentist][tortures][people][horrific][acting][abysmal][comical.][especially][corbin][scenes])
+v(1,3,4,5,6,7,8,9,17,18,21,22,23,24,25): -3.3703596591949463	 ([jack][alan][feinstone.][crazy][dentist][tortures][people][horrific][especially][corbin][dental][torture][really][make][cringe.])
+v(0,1,2,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.524068832397461	 ([first][jack][ripper,][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes][dental][torture][really][make][cringe.])
+v(0,2,3,4,5,10,11,12,13,14,15,16,17,18,19,20): 8.505558013916016	 ([first][ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes])
+v(1,2,3,4,5,10,11,12,13,17,18,19,21,22,23,24,25): 8.167255401611328	 ([jack][ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][especially][corbin][bernson.][dental][torture][really][make][cringe.])
+v(0,1,3,4,5,14,15,16,17,18,20,21,22,23,24,25): -7.1367645263671875	 ([first][jack][alan][feinstone.][crazy][acting][abysmal][comical.][especially][corbin][scenes][dental][torture][really][make][cringe.])
+v(0,1,2,6,7,8,9,10,11,12,13,14,15,16,19,20,21,22,23,24,25): 5.726217269897461	 ([first][jack][ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes][dental][torture][really][make][cringe.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,19,20): 5.446280479431152	 ([first][ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,19,21,22,23,24,25): 4.0269598960876465	 ([jack][ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][bernson.][dental][torture][really][make][cringe.])
+v(0,1,3,4,5,6,7,8,9,14,15,16,20,21,22,23,24,25): -6.506139278411865	 ([first][jack][alan][feinstone.][crazy][dentist][tortures][people][horrific][acting][abysmal][comical.][scenes][dental][torture][really][make][cringe.])
+v(0,1,2,3,4,5,10,11,12,13,14,15,16,19,20,21,22,23,24,25): 7.809966564178467	 ([first][jack][ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes][dental][torture][really][make][cringe.])
+v(0,1,2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.486699104309082	 ([first][jack][ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes][dental][torture][really][make][cringe.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 8.015018463134766	 ([first][ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,17,18,19,21,22,23,24,25): 6.556835174560547	 ([jack][ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][especially][corbin][bernson.][dental][torture][really][make][cringe.])
+v(0,1,3,4,5,6,7,8,9,14,15,16,17,18,20,21,22,23,24,25): -5.536411285400391	 ([first][jack][alan][feinstone.][crazy][dentist][tortures][people][horrific][acting][abysmal][comical.][especially][corbin][scenes][dental][torture][really][make][cringe.])
+v(0,1,2,3,4,5,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.441423416137695	 ([first][jack][ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes][dental][torture][really][make][cringe.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,19,20,21,22,23,24,25): 7.358586311340332	 ([first][jack][ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes][dental][torture][really][make][cringe.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.264187812805176	 ([first][jack][ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes][dental][torture][really][make][cringe.])
+---------- Rewards-v() ----------
+v(0,1,2,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.370595932006836, EP: 1.0320416688919067	 ([first][jack][ripper,][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes][dental][torture][really][make][cringe.])
+v(0,2,3,4,5,10,11,12,13,14,15,16,17,18,19,20): 8.35208511352539, EP: 1.029759407043457	 ([first][ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes])
+v(0,1,2,3,4,5,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.28795051574707, EP: 1.0218520164489746	 ([first][jack][ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes][dental][torture][really][make][cringe.])
+v(0,2,10,11,12,13,14,15,16,17,18,19,20): 8.158649444580078, EP: 1.005910038948059	 ([first][ripper,][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 8.11071491241455, EP: 1.0	 ([first][jack][ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes][dental][torture][really][make][cringe.])
+v(0,1,14,15,16,20,21,22,23,24,25): -8.104483604431152, EP: -0.9992316961288452	 ([first][jack][acting][abysmal][comical.][scenes][dental][torture][really][make][cringe.])
+v(1,2,3,4,5,10,11,12,13,17,18,19,21,22,23,24,25): 8.013782501220703, EP: 0.9880488514900208	 ([jack][ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][especially][corbin][bernson.][dental][torture][really][make][cringe.])
+v(2,3,4,5,10,11,12,13,17,18,19): 8.004215240478516, EP: 0.9868692755699158	 ([ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][especially][corbin][bernson.])
+v(0,1,14,15,16,17,18,20,21,22,23,24,25): -7.898617744445801, EP: -0.9738497734069824	 ([first][jack][acting][abysmal][comical.][especially][corbin][scenes][dental][torture][really][make][cringe.])
+v(0,1,3,4,5,14,15,16,20,21,22,23,24,25): -7.8938398361206055, EP: -0.9732606410980225	 ([first][jack][alan][feinstone.][crazy][acting][abysmal][comical.][scenes][dental][torture][really][make][cringe.])
+v(0,1,6,7,8,9,14,15,16,20,21,22,23,24,25): -7.876963138580322, EP: -0.9711799025535583	 ([first][jack][dentist][tortures][people][horrific][acting][abysmal][comical.][scenes][dental][torture][really][make][cringe.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 7.861546039581299, EP: 0.9692790508270264	 ([first][ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes])
+v(0,6,7,8,9,14,15,16,20): -7.785396099090576, EP: -0.9598902463912964	 ([first][dentist][tortures][people][horrific][acting][abysmal][comical.][scenes])
+v(0,6,7,8,9,14,15,16,17,18,20): -7.718844890594482, EP: -0.9516848921775818	 ([first][dentist][tortures][people][horrific][acting][abysmal][comical.][especially][corbin][scenes])
+v(0,1,2,3,4,5,10,11,12,13,14,15,16,19,20,21,22,23,24,25): 7.656494140625, EP: 0.9439974427223206	 ([first][jack][ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes][dental][torture][really][make][cringe.])
+v(0,3,4,5,14,15,16,20): -7.561498165130615, EP: -0.9322850108146667	 ([first][alan][feinstone.][crazy][acting][abysmal][comical.][scenes])
+v(1,2,10,11,12,13,17,18,19,21,22,23,24,25): 7.546566963195801, EP: 0.9304441213607788	 ([jack][ripper,][ways.][quite][realistic][times][especially][corbin][bernson.][dental][torture][really][make][cringe.])
+v(0,14,15,16,17,18,20): -7.518331527709961, EP: -0.9269628524780273	 ([first][acting][abysmal][comical.][especially][corbin][scenes])
+v(0,14,15,16,20): -7.500813961029053, EP: -0.9248030781745911	 ([first][acting][abysmal][comical.][scenes])
+v(0,1,2,10,11,12,13,14,15,16,19,20,21,22,23,24,25): 7.38075590133667, EP: 0.9100006818771362	 ([first][jack][ripper,][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes][dental][torture][really][make][cringe.])
+v(0,3,4,5,14,15,16,17,18,20): -7.378382682800293, EP: -0.9097080826759338	 ([first][alan][feinstone.][crazy][acting][abysmal][comical.][especially][corbin][scenes])
+v(0,1,2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.333226680755615, EP: 0.9041405916213989	 ([first][jack][ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes][dental][torture][really][make][cringe.])
+v(0,1,3,4,5,14,15,16,17,18,20,21,22,23,24,25): -7.290236949920654, EP: -0.8988402485847473	 ([first][jack][alan][feinstone.][crazy][acting][abysmal][comical.][especially][corbin][scenes][dental][torture][really][make][cringe.])
+v(0,1,6,7,8,9,14,15,16,17,18,20,21,22,23,24,25): -7.262539386749268, EP: -0.8954253196716309	 ([first][jack][dentist][tortures][people][horrific][acting][abysmal][comical.][especially][corbin][scenes][dental][torture][really][make][cringe.])
+v(0,2,3,4,5,10,11,12,13,14,15,16,19,20): 7.255819320678711, EP: 0.8945967555046082	 ([first][ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes])
+v(1,2,3,4,5,10,11,12,13,19,21,22,23,24,25): 7.252281665802002, EP: 0.8941605687141418	 ([jack][ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][bernson.][dental][torture][really][make][cringe.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,19,20,21,22,23,24,25): 7.205113887786865, EP: 0.8883451223373413	 ([first][jack][ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes][dental][torture][really][make][cringe.])
+v(2,10,11,12,13,17,18,19): 7.0344014167785645, EP: 0.867297351360321	 ([ripper,][ways.][quite][realistic][times][especially][corbin][bernson.])
+v(0,2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 6.772299766540527, EP: 0.8349818587303162	 ([first][ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][especially][corbin][bernson.][scenes])
+v(2,3,4,5,10,11,12,13,19): 6.743262767791748, EP: 0.8314017653465271	 ([ripper,][alan][feinstone.][crazy][ways.][quite][realistic][times][bernson.])
+v(0,1,3,4,5,6,7,8,9,14,15,16,20,21,22,23,24,25): -6.659611701965332, EP: -0.8210881352424622	 ([first][jack][alan][feinstone.][crazy][dentist][tortures][people][horrific][acting][abysmal][comical.][scenes][dental][torture][really][make][cringe.])
+v(0,3,4,5,6,7,8,9,14,15,16,20): -6.625593662261963, EP: -0.8168939352035522	 ([first][alan][feinstone.][crazy][dentist][tortures][people][horrific][acting][abysmal][comical.][scenes])
+v(0,2,10,11,12,13,14,15,16,19,20): 6.428462028503418, EP: 0.7925888299942017	 ([first][ripper,][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,17,18,19,21,22,23,24,25): 6.40336275100708, EP: 0.7894942164421082	 ([jack][ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][especially][corbin][bernson.][dental][torture][really][make][cringe.])
+v(1,2,10,11,12,13,19,21,22,23,24,25): 6.3812689781188965, EP: 0.786770224571228	 ([jack][ripper,][ways.][quite][realistic][times][bernson.][dental][torture][really][make][cringe.])
+v(0,3,4,5,6,7,8,9,14,15,16,17,18,20): -6.335179805755615, EP: -0.7810876965522766	 ([first][alan][feinstone.][crazy][dentist][tortures][people][horrific][acting][abysmal][comical.][especially][corbin][scenes])
+v(2,3,4,5,6,7,8,9,10,11,12,13,17,18,19): 6.061817169189453, EP: 0.7473838329315186	 ([ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][especially][corbin][bernson.])
+v(0,1,3,4,5,6,7,8,9,14,15,16,17,18,20,21,22,23,24,25): -5.689883708953857, EP: -0.7015267610549927	 ([first][jack][alan][feinstone.][crazy][dentist][tortures][people][horrific][acting][abysmal][comical.][especially][corbin][scenes][dental][torture][really][make][cringe.])
+v(0,1,2,6,7,8,9,10,11,12,13,14,15,16,19,20,21,22,23,24,25): 5.572744846343994, EP: 0.6870843172073364	 ([first][jack][ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes][dental][torture][really][make][cringe.])
+v(1,2,6,7,8,9,10,11,12,13,17,18,19,21,22,23,24,25): 5.350002765655518, EP: 0.6596215963363647	 ([jack][ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][especially][corbin][bernson.][dental][torture][really][make][cringe.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,19,20): 5.2928080558776855, EP: 0.6525698304176331	 ([first][ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes])
+v(2,10,11,12,13,19): 4.475113391876221, EP: 0.5517532825469971	 ([ripper,][ways.][quite][realistic][times][bernson.])
+v(2,6,7,8,9,10,11,12,13,17,18,19): 4.129267692565918, EP: 0.5091126561164856	 ([ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][especially][corbin][bernson.])
+v(1,3,4,5,6,7,8,9,21,22,23,24,25): -4.08098030090332, EP: -0.5031591057777405	 ([jack][alan][feinstone.][crazy][dentist][tortures][people][horrific][dental][torture][really][make][cringe.])
+v(1,6,7,8,9,21,22,23,24,25): -4.000123023986816, EP: -0.4931899309158325	 ([jack][dentist][tortures][people][horrific][dental][torture][really][make][cringe.])
+v(3,4,5,6,7,8,9): -3.8793907165527344, EP: -0.4783044159412384	 ([alan][feinstone.][crazy][dentist][tortures][people][horrific])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,19,21,22,23,24,25): 3.8734874725341797, EP: 0.4775765836238861	 ([jack][ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][bernson.][dental][torture][really][make][cringe.])
+v(1,3,4,5,6,7,8,9,17,18,21,22,23,24,25): -3.523832082748413, EP: -0.43446627259254456	 ([jack][alan][feinstone.][crazy][dentist][tortures][people][horrific][especially][corbin][dental][torture][really][make][cringe.])
+v(6,7,8,9,17,18): -3.358320713043213, EP: -0.41405975818634033	 ([dentist][tortures][people][horrific][especially][corbin])
+v(1,6,7,8,9,17,18,21,22,23,24,25): -3.317150592803955, EP: -0.4089837372303009	 ([jack][dentist][tortures][people][horrific][especially][corbin][dental][torture][really][make][cringe.])
+v(3,4,5,6,7,8,9,17,18): -3.2901110649108887, EP: -0.40564996004104614	 ([alan][feinstone.][crazy][dentist][tortures][people][horrific][especially][corbin])
+v(6,7,8,9): -3.1779520511627197, EP: -0.3918214440345764	 ([dentist][tortures][people][horrific])
+v(1,2,6,7,8,9,10,11,12,13,19,21,22,23,24,25): 2.3612136840820312, EP: 0.29112276434898376	 ([jack][ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][bernson.][dental][torture][really][make][cringe.])
+v(1,3,4,5,21,22,23,24,25): -2.2461965084075928, EP: -0.27694186568260193	 ([jack][alan][feinstone.][crazy][dental][torture][really][make][cringe.])
+v(2,3,4,5,6,7,8,9,10,11,12,13,19): 1.8024605512619019, EP: 0.22223201394081116	 ([ripper,][alan][feinstone.][crazy][dentist][tortures][people][horrific][ways.][quite][realistic][times][bernson.])
+v(0,2,6,7,8,9,10,11,12,13,14,15,16,19,20): 1.5039764642715454, EP: 0.18543080985546112	 ([first][ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][acting][abysmal][comical.][bernson.][scenes])
+v(1,3,4,5,17,18,21,22,23,24,25): -0.9598597288131714, EP: -0.11834464967250824	 ([jack][alan][feinstone.][crazy][especially][corbin][dental][torture][really][make][cringe.])
+v(3,4,5,17,18): 0.8640258312225342, EP: 0.10652893781661987	 ([alan][feinstone.][crazy][especially][corbin])
+v(2,6,7,8,9,10,11,12,13,19): -0.6631174087524414, EP: -0.08175819367170334	 ([ripper,][dentist][tortures][people][horrific][ways.][quite][realistic][times][bernson.])
+v(3,4,5): -0.60784912109375, EP: -0.07494395971298218	 ([alan][feinstone.][crazy])
+v(1,21,22,23,24,25): -0.3947105407714844, EP: -0.04866532236337662	 ([jack][dental][torture][really][make][cringe.])
+v(17,18): 0.19344574213027954, EP: 0.023850640282034874	 ([especially][corbin])
+v(1,17,18,21,22,23,24,25): 0.004663601517677307, EP: 0.0005749926785938442	 ([jack][especially][corbin][dental][torture][really][make][cringe.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

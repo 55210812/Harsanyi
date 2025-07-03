@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['23', '22', '42', '24', '25', '26']: ['puts', 'farnsworth', 'stroke.', 'compelling', 'performance', 'gentle']: 平均边权 1.5778
+社区 2: ['30', '14', '15', '31']: ['true', 'go', 'along', 'story']: 平均边权 1.2105
+社区 3: ['18', '17', '19']: ['straight', 'check', 'story.']: 平均边权 1.4370
+社区 4: ['12', '11', '5', '4', '13', '6']: ['good', 'want', 'advised', 'best', 'movie', 'look']: 平均边权 0.5986
+社区 5: ['8', '57', '54', '46', '49', '58', '47', '52', '39', '55', '50', '53', '59', '51', '60']: ['hand,', 'advice', 'lots', 'travels', 'road,', 'family', 'long', 'strangers', 'see', 'grandfatherly', 'making', 'doling', 'along', 'friends', 'way.']: 平均边权 0.4465
+社区 6: ['38', '36', '45', '29', '16', '48', '3', '44', '37', '43']: ['states', 'across', 'role,', 'straight,', 'mood,', 'winding', 'movie,', 'perfect', 'three', 'farnsworth']: 平均边权 0.4971
+社区 7: ['2', '56', '0', '35', '34', '9', '1', '33', '10', '7']: ['want', 'type', 'action', 'mower', 'riding', 'lazy', 'adventure', 'journey', 'day', 'elsewhere.']: 平均边权 0.5378
+社区 8: ['41', '20', '27', '32', '40', '21', '28']: ['brother', '"', 'gentlemanly', "alvin's", 'estranged', 'richard', 'alvin']: 平均边权 0.3646

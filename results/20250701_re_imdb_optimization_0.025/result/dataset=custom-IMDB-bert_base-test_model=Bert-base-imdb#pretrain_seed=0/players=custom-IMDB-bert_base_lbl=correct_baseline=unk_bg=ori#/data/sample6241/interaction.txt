@@ -1,0 +1,29 @@
+---------- Players ----------
+Player 0: wonderful
+Player 1: movie!
+Player 2: anyone
+Player 3: growing
+Player 4: italian
+Player 5: family
+Player 6: definitely
+Player 7: see
+Player 8: characters.
+Player 9: good
+Player 10: family
+Player 11: movie
+Player 12: sadness,
+Player 13: humor,
+Player 14: good
+Player 15: acting
+Player 16: all.
+Player 17: enjoy
+Player 18: movie!!
+Player 19: need
+Player 20: like
+Player 21: it.
+---------- AND Interactions (Pairwise Only) ----------
+I(0,14): 6.1188507080078125	 ([wonderful][good])
+I(17,18): 5.185229301452637	 ([enjoy][movie!!])
+I(19,20): -1.2220468521118164	 ([need][like])
+Sum: 10.082033157348633
+==================================================

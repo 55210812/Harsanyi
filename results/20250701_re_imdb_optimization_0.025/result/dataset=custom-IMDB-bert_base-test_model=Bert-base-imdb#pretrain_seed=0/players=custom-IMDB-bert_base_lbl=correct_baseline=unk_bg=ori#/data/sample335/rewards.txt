@@ -1,0 +1,165 @@
+---------- Players ----------
+Player 0: hoping
+Player 1: film
+Player 2: going
+Player 3: least
+Player 4: watchable.
+Player 5: plot
+Player 6: weak
+Player 7: say
+Player 8: least.
+Player 9: expecting
+Player 10: lot
+Player 11: considering
+Player 12: cast
+Player 13: line
+Player 14: ( i
+Player 15: wonder
+Player 16: include
+Player 17: cvs? ).
+Player 18: least
+Player 19: pay
+Player 20: rent
+Player 21: it.
+Player 22: best
+Player 23: part
+Player 24: film
+Player 25: definitely
+Player 26: dani
+Player 27: behr,
+Player 28: rest
+Player 29: film
+Player 30: complete
+Player 31: utter
+Player 32: pants.
+---------- Rewards ----------
+v(): 2.8271846771240234	 ([])
+v(1,2,3,8,32): 6.125702381134033	 ([film][going][least][least.][pants.])
+v(0,21,23,27,28): 4.072414875030518	 ([hoping][it.][part][behr,][rest])
+v(9,10,11,12,13,20): 5.066867351531982	 ([expecting][lot][considering][cast][line][rent])
+v(14,22,25,26,29,30,31): -1.1579625606536865	 ([( i][best][definitely][dani][film][complete][utter])
+v(15,17,18,24): 4.716371536254883	 ([wonder][cvs? ).][least][film])
+v(4,5,6,7,16,19): 5.22123384475708	 ([watchable.][plot][weak][say][include][pay])
+v(0,1,2,3,8,21,23,27,28,32): 6.495578765869141	 ([hoping][film][going][least][least.][it.][part][behr,][rest][pants.])
+v(1,2,3,8,9,10,11,12,13,20,32): 6.87215518951416	 ([film][going][least][least.][expecting][lot][considering][cast][line][rent][pants.])
+v(1,2,3,8,14,22,25,26,29,30,31,32): 7.4265313148498535	 ([film][going][least][least.][( i][best][definitely][dani][film][complete][utter][pants.])
+v(1,2,3,8,15,17,18,24,32): 6.254406929016113	 ([film][going][least][least.][wonder][cvs? ).][least][film][pants.])
+v(1,2,3,4,5,6,7,8,16,19,32): 8.022454261779785	 ([film][going][least][watchable.][plot][weak][say][least.][include][pay][pants.])
+v(0,9,10,11,12,13,20,21,23,27,28): 4.274726390838623	 ([hoping][expecting][lot][considering][cast][line][rent][it.][part][behr,][rest])
+v(0,14,21,22,23,25,26,27,28,29,30,31): 4.750558853149414	 ([hoping][( i][it.][best][part][definitely][dani][behr,][rest][film][complete][utter])
+v(0,15,17,18,21,23,24,27,28): 5.305845737457275	 ([hoping][wonder][cvs? ).][least][it.][part][film][behr,][rest])
+v(0,4,5,6,7,16,19,21,23,27,28): 5.994014739990234	 ([hoping][watchable.][plot][weak][say][include][pay][it.][part][behr,][rest])
+v(9,10,11,12,13,14,20,22,25,26,29,30,31): -0.9488749504089355	 ([expecting][lot][considering][cast][line][( i][rent][best][definitely][dani][film][complete][utter])
+v(9,10,11,12,13,15,17,18,20,24): 5.912939071655273	 ([expecting][lot][considering][cast][line][wonder][cvs? ).][least][rent][film])
+v(4,5,6,7,9,10,11,12,13,16,19,20): 6.723877906799316	 ([watchable.][plot][weak][say][expecting][lot][considering][cast][line][include][pay][rent])
+v(14,15,17,18,22,24,25,26,29,30,31): -1.7807048559188843	 ([( i][wonder][cvs? ).][least][best][film][definitely][dani][film][complete][utter])
+v(4,5,6,7,14,16,19,22,25,26,29,30,31): 6.064507484436035	 ([watchable.][plot][weak][say][( i][include][pay][best][definitely][dani][film][complete][utter])
+v(4,5,6,7,15,16,17,18,19,24): 7.417421340942383	 ([watchable.][plot][weak][say][wonder][include][cvs? ).][least][pay][film])
+v(0,1,2,3,8,9,10,11,12,13,20,21,23,27,28,32): 6.400211334228516	 ([hoping][film][going][least][least.][expecting][lot][considering][cast][line][rent][it.][part][behr,][rest][pants.])
+v(0,1,2,3,8,14,21,22,23,25,26,27,28,29,30,31,32): 8.14106559753418	 ([hoping][film][going][least][least.][( i][it.][best][part][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(0,1,2,3,8,15,17,18,21,23,24,27,28,32): 6.5802998542785645	 ([hoping][film][going][least][least.][wonder][cvs? ).][least][it.][part][film][behr,][rest][pants.])
+v(0,1,2,3,4,5,6,7,8,16,19,21,23,27,28,32): 8.164966583251953	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][include][pay][it.][part][behr,][rest][pants.])
+v(1,2,3,8,9,10,11,12,13,14,20,22,25,26,29,30,31,32): 8.136865615844727	 ([film][going][least][least.][expecting][lot][considering][cast][line][( i][rent][best][definitely][dani][film][complete][utter][pants.])
+v(1,2,3,8,9,10,11,12,13,15,17,18,20,24,32): 6.779890537261963	 ([film][going][least][least.][expecting][lot][considering][cast][line][wonder][cvs? ).][least][rent][film][pants.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,16,19,20,32): 8.076594352722168	 ([film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][include][pay][rent][pants.])
+v(1,2,3,8,14,15,17,18,22,24,25,26,29,30,31,32): 7.734773635864258	 ([film][going][least][least.][( i][wonder][cvs? ).][least][best][film][definitely][dani][film][complete][utter][pants.])
+v(1,2,3,4,5,6,7,8,14,16,19,22,25,26,29,30,31,32): 8.36355972290039	 ([film][going][least][watchable.][plot][weak][say][least.][( i][include][pay][best][definitely][dani][film][complete][utter][pants.])
+v(1,2,3,4,5,6,7,8,15,16,17,18,19,24,32): 7.816506862640381	 ([film][going][least][watchable.][plot][weak][say][least.][wonder][include][cvs? ).][least][pay][film][pants.])
+v(0,9,10,11,12,13,14,20,21,22,23,25,26,27,28,29,30,31): 4.430639266967773	 ([hoping][expecting][lot][considering][cast][line][( i][rent][it.][best][part][definitely][dani][behr,][rest][film][complete][utter])
+v(0,9,10,11,12,13,15,17,18,20,21,23,24,27,28): 5.1790289878845215	 ([hoping][expecting][lot][considering][cast][line][wonder][cvs? ).][least][rent][it.][part][film][behr,][rest])
+v(0,4,5,6,7,9,10,11,12,13,16,19,20,21,23,27,28): 6.924337387084961	 ([hoping][watchable.][plot][weak][say][expecting][lot][considering][cast][line][include][pay][rent][it.][part][behr,][rest])
+v(0,14,15,17,18,21,22,23,24,25,26,27,28,29,30,31): 5.6547746658325195	 ([hoping][( i][wonder][cvs? ).][least][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter])
+v(0,4,5,6,7,14,16,19,21,22,23,25,26,27,28,29,30,31): 7.771241188049316	 ([hoping][watchable.][plot][weak][say][( i][include][pay][it.][best][part][definitely][dani][behr,][rest][film][complete][utter])
+v(0,4,5,6,7,15,16,17,18,19,21,23,24,27,28): 7.289727210998535	 ([hoping][watchable.][plot][weak][say][wonder][include][cvs? ).][least][pay][it.][part][film][behr,][rest])
+v(9,10,11,12,13,14,15,17,18,20,22,24,25,26,29,30,31): 0.5059647560119629	 ([expecting][lot][considering][cast][line][( i][wonder][cvs? ).][least][rent][best][film][definitely][dani][film][complete][utter])
+v(4,5,6,7,9,10,11,12,13,14,16,19,20,22,25,26,29,30,31): 5.046147346496582	 ([watchable.][plot][weak][say][expecting][lot][considering][cast][line][( i][include][pay][rent][best][definitely][dani][film][complete][utter])
+v(4,5,6,7,9,10,11,12,13,15,16,17,18,19,20,24): 7.214226722717285	 ([watchable.][plot][weak][say][expecting][lot][considering][cast][line][wonder][include][cvs? ).][least][pay][rent][film])
+v(4,5,6,7,14,15,16,17,18,19,22,24,25,26,29,30,31): 6.554971694946289	 ([watchable.][plot][weak][say][( i][wonder][include][cvs? ).][least][pay][best][film][definitely][dani][film][complete][utter])
+v(0,1,2,3,8,9,10,11,12,13,14,20,21,22,23,25,26,27,28,29,30,31,32): 8.456104278564453	 ([hoping][film][going][least][least.][expecting][lot][considering][cast][line][( i][rent][it.][best][part][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(0,1,2,3,8,9,10,11,12,13,15,17,18,20,21,23,24,27,28,32): 6.381915092468262	 ([hoping][film][going][least][least.][expecting][lot][considering][cast][line][wonder][cvs? ).][least][rent][it.][part][film][behr,][rest][pants.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,16,19,20,21,23,27,28,32): 8.00183391571045	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][include][pay][rent][it.][part][behr,][rest][pants.])
+v(0,1,2,3,8,14,15,17,18,21,22,23,24,25,26,27,28,29,30,31,32): 8.257741928100586	 ([hoping][film][going][least][least.][( i][wonder][cvs? ).][least][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(0,1,2,3,4,5,6,7,8,14,16,19,21,22,23,25,26,27,28,29,30,31,32): 8.549713134765625	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][( i][include][pay][it.][best][part][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(0,1,2,3,4,5,6,7,8,15,16,17,18,19,21,23,24,27,28,32): 8.089218139648438	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][wonder][include][cvs? ).][least][pay][it.][part][film][behr,][rest][pants.])
+v(1,2,3,8,9,10,11,12,13,14,15,17,18,20,22,24,25,26,29,30,31,32): 8.193696975708008	 ([film][going][least][least.][expecting][lot][considering][cast][line][( i][wonder][cvs? ).][least][rent][best][film][definitely][dani][film][complete][utter][pants.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,19,20,22,25,26,29,30,31,32): 8.492319107055664	 ([film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][( i][include][pay][rent][best][definitely][dani][film][complete][utter][pants.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,18,19,20,24,32): 7.952942848205566	 ([film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][wonder][include][cvs? ).][least][pay][rent][film][pants.])
+v(1,2,3,4,5,6,7,8,14,15,16,17,18,19,22,24,25,26,29,30,31,32): 8.340204238891602	 ([film][going][least][watchable.][plot][weak][say][least.][( i][wonder][include][cvs? ).][least][pay][best][film][definitely][dani][film][complete][utter][pants.])
+v(0,9,10,11,12,13,14,15,17,18,20,21,22,23,24,25,26,27,28,29,30,31): 6.188998222351074	 ([hoping][expecting][lot][considering][cast][line][( i][wonder][cvs? ).][least][rent][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter])
+v(0,4,5,6,7,9,10,11,12,13,14,16,19,20,21,22,23,25,26,27,28,29,30,31): 7.527318000793457	 ([hoping][watchable.][plot][weak][say][expecting][lot][considering][cast][line][( i][include][pay][rent][it.][best][part][definitely][dani][behr,][rest][film][complete][utter])
+v(0,4,5,6,7,9,10,11,12,13,15,16,17,18,19,20,21,23,24,27,28): 6.964692115783691	 ([hoping][watchable.][plot][weak][say][expecting][lot][considering][cast][line][wonder][include][cvs? ).][least][pay][rent][it.][part][film][behr,][rest])
+v(0,4,5,6,7,14,15,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31): 7.996212005615234	 ([hoping][watchable.][plot][weak][say][( i][wonder][include][cvs? ).][least][pay][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter])
+v(4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,22,24,25,26,29,30,31): 6.282104015350342	 ([watchable.][plot][weak][say][expecting][lot][considering][cast][line][( i][wonder][include][cvs? ).][least][pay][rent][best][film][definitely][dani][film][complete][utter])
+v(0,1,2,3,8,9,10,11,12,13,14,15,17,18,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.459287643432617	 ([hoping][film][going][least][least.][expecting][lot][considering][cast][line][( i][wonder][cvs? ).][least][rent][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,19,20,21,22,23,25,26,27,28,29,30,31,32): 8.579476356506348	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][( i][include][pay][rent][it.][best][part][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,18,19,20,21,23,24,27,28,32): 7.938056945800781	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][wonder][include][cvs? ).][least][pay][rent][it.][part][film][behr,][rest][pants.])
+v(0,1,2,3,4,5,6,7,8,14,15,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31,32): 8.54436206817627	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][( i][wonder][include][cvs? ).][least][pay][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,24,25,26,29,30,31,32): 8.475475311279297	 ([film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][( i][wonder][include][cvs? ).][least][pay][rent][best][film][definitely][dani][film][complete][utter][pants.])
+v(0,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 7.98553466796875	 ([hoping][watchable.][plot][weak][say][expecting][lot][considering][cast][line][( i][wonder][include][cvs? ).][least][pay][rent][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 8.471940994262695	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][( i][wonder][include][cvs? ).][least][pay][rent][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter][pants.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,19,20,21,22,23,25,26,27,28,29,30,31,32): 5.752291679382324, EP: 1.0190504789352417	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][( i][include][pay][rent][it.][best][part][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(0,1,2,3,4,5,6,7,8,14,16,19,21,22,23,25,26,27,28,29,30,31,32): 5.722528457641602, EP: 1.013777732849121	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][( i][include][pay][it.][best][part][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(0,1,2,3,4,5,6,7,8,14,15,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31,32): 5.717177391052246, EP: 1.0128297805786133	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][( i][wonder][include][cvs? ).][least][pay][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,19,20,22,25,26,29,30,31,32): 5.665134429931641, EP: 1.0036101341247559	 ([film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][( i][include][pay][rent][best][definitely][dani][film][complete][utter][pants.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,24,25,26,29,30,31,32): 5.648290634155273, EP: 1.0006260871887207	 ([film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][( i][wonder][include][cvs? ).][least][pay][rent][best][film][definitely][dani][film][complete][utter][pants.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 5.644756317138672, EP: 1.0	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][( i][wonder][include][cvs? ).][least][pay][rent][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(0,1,2,3,8,9,10,11,12,13,14,15,17,18,20,21,22,23,24,25,26,27,28,29,30,31,32): 5.632102966308594, EP: 0.9977583885192871	 ([hoping][film][going][least][least.][expecting][lot][considering][cast][line][( i][wonder][cvs? ).][least][rent][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(0,1,2,3,8,9,10,11,12,13,14,20,21,22,23,25,26,27,28,29,30,31,32): 5.62891960144043, EP: 0.9971944093704224	 ([hoping][film][going][least][least.][expecting][lot][considering][cast][line][( i][rent][it.][best][part][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(1,2,3,4,5,6,7,8,14,16,19,22,25,26,29,30,31,32): 5.536375045776367, EP: 0.980799674987793	 ([film][going][least][watchable.][plot][weak][say][least.][( i][include][pay][best][definitely][dani][film][complete][utter][pants.])
+v(1,2,3,4,5,6,7,8,14,15,16,17,18,19,22,24,25,26,29,30,31,32): 5.513019561767578, EP: 0.9766620993614197	 ([film][going][least][watchable.][plot][weak][say][least.][( i][wonder][include][cvs? ).][least][pay][best][film][definitely][dani][film][complete][utter][pants.])
+v(0,1,2,3,8,14,15,17,18,21,22,23,24,25,26,27,28,29,30,31,32): 5.4305572509765625, EP: 0.9620534181594849	 ([hoping][film][going][least][least.][( i][wonder][cvs? ).][least][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(1,2,3,8,9,10,11,12,13,14,15,17,18,20,22,24,25,26,29,30,31,32): 5.366512298583984, EP: 0.9507074952125549	 ([film][going][least][least.][expecting][lot][considering][cast][line][( i][wonder][cvs? ).][least][rent][best][film][definitely][dani][film][complete][utter][pants.])
+v(0,1,2,3,4,5,6,7,8,16,19,21,23,27,28,32): 5.33778190612793, EP: 0.9456177949905396	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][include][pay][it.][part][behr,][rest][pants.])
+v(0,1,2,3,8,14,21,22,23,25,26,27,28,29,30,31,32): 5.313880920410156, EP: 0.9413836002349854	 ([hoping][film][going][least][least.][( i][it.][best][part][definitely][dani][behr,][rest][film][complete][utter][pants.])
+v(1,2,3,8,9,10,11,12,13,14,20,22,25,26,29,30,31,32): 5.309680938720703, EP: 0.9406395554542542	 ([film][going][least][least.][expecting][lot][considering][cast][line][( i][rent][best][definitely][dani][film][complete][utter][pants.])
+v(0,1,2,3,4,5,6,7,8,15,16,17,18,19,21,23,24,27,28,32): 5.262033462524414, EP: 0.9321985244750977	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][wonder][include][cvs? ).][least][pay][it.][part][film][behr,][rest][pants.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,16,19,20,32): 5.2494096755981445, EP: 0.929962158203125	 ([film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][include][pay][rent][pants.])
+v(1,2,3,4,5,6,7,8,16,19,32): 5.195269584655762, EP: 0.9203709363937378	 ([film][going][least][watchable.][plot][weak][say][least.][include][pay][pants.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,16,19,20,21,23,27,28,32): 5.174649238586426, EP: 0.9167178869247437	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][include][pay][rent][it.][part][behr,][rest][pants.])
+v(0,4,5,6,7,14,15,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31): 5.169027328491211, EP: 0.9157219529151917	 ([hoping][watchable.][plot][weak][say][( i][wonder][include][cvs? ).][least][pay][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter])
+v(0,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31): 5.158349990844727, EP: 0.9138303995132446	 ([hoping][watchable.][plot][weak][say][expecting][lot][considering][cast][line][( i][wonder][include][cvs? ).][least][pay][rent][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,18,19,20,24,32): 5.125758171081543, EP: 0.9080566167831421	 ([film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][wonder][include][cvs? ).][least][pay][rent][film][pants.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,18,19,20,21,23,24,27,28,32): 5.110872268676758, EP: 0.9054194688796997	 ([hoping][film][going][least][watchable.][plot][weak][say][least.][expecting][lot][considering][cast][line][wonder][include][cvs? ).][least][pay][rent][it.][part][film][behr,][rest][pants.])
+v(1,2,3,4,5,6,7,8,15,16,17,18,19,24,32): 4.989322185516357, EP: 0.8838862180709839	 ([film][going][least][watchable.][plot][weak][say][least.][wonder][include][cvs? ).][least][pay][film][pants.])
+v(0,4,5,6,7,14,16,19,21,22,23,25,26,27,28,29,30,31): 4.944056510925293, EP: 0.8758671283721924	 ([hoping][watchable.][plot][weak][say][( i][include][pay][it.][best][part][definitely][dani][behr,][rest][film][complete][utter])
+v(1,2,3,8,14,15,17,18,22,24,25,26,29,30,31,32): 4.907588958740234, EP: 0.8694067001342773	 ([film][going][least][least.][( i][wonder][cvs? ).][least][best][film][definitely][dani][film][complete][utter][pants.])
+v(0,4,5,6,7,9,10,11,12,13,14,16,19,20,21,22,23,25,26,27,28,29,30,31): 4.700133323669434, EP: 0.8326547741889954	 ([hoping][watchable.][plot][weak][say][expecting][lot][considering][cast][line][( i][include][pay][rent][it.][best][part][definitely][dani][behr,][rest][film][complete][utter])
+v(14,15,17,18,22,24,25,26,29,30,31): -4.607889652252197, EP: -0.8163133263587952	 ([( i][wonder][cvs? ).][least][best][film][definitely][dani][film][complete][utter])
+v(1,2,3,8,14,22,25,26,29,30,31,32): 4.59934663772583, EP: 0.8147998452186584	 ([film][going][least][least.][( i][best][definitely][dani][film][complete][utter][pants.])
+v(4,5,6,7,15,16,17,18,19,24): 4.590236663818359, EP: 0.81318598985672	 ([watchable.][plot][weak][say][wonder][include][cvs? ).][least][pay][film])
+v(0,4,5,6,7,15,16,17,18,19,21,23,24,27,28): 4.462542533874512, EP: 0.790564239025116	 ([hoping][watchable.][plot][weak][say][wonder][include][cvs? ).][least][pay][it.][part][film][behr,][rest])
+v(4,5,6,7,9,10,11,12,13,15,16,17,18,19,20,24): 4.387042045593262, EP: 0.7771888971328735	 ([watchable.][plot][weak][say][expecting][lot][considering][cast][line][wonder][include][cvs? ).][least][pay][rent][film])
+v(0,4,5,6,7,9,10,11,12,13,15,16,17,18,19,20,21,23,24,27,28): 4.137507438659668, EP: 0.7329824566841125	 ([hoping][watchable.][plot][weak][say][expecting][lot][considering][cast][line][wonder][include][cvs? ).][least][pay][rent][it.][part][film][behr,][rest])
+v(0,4,5,6,7,9,10,11,12,13,16,19,20,21,23,27,28): 4.0971527099609375, EP: 0.7258334159851074	 ([hoping][watchable.][plot][weak][say][expecting][lot][considering][cast][line][include][pay][rent][it.][part][behr,][rest])
+v(1,2,3,8,9,10,11,12,13,20,32): 4.044970512390137, EP: 0.7165890336036682	 ([film][going][least][least.][expecting][lot][considering][cast][line][rent][pants.])
+v(14,22,25,26,29,30,31): -3.98514723777771, EP: -0.7059910297393799	 ([( i][best][definitely][dani][film][complete][utter])
+v(1,2,3,8,9,10,11,12,13,15,17,18,20,24,32): 3.9527058601379395, EP: 0.7002438306808472	 ([film][going][least][least.][expecting][lot][considering][cast][line][wonder][cvs? ).][least][rent][film][pants.])
+v(4,5,6,7,9,10,11,12,13,16,19,20): 3.896693229675293, EP: 0.6903209090232849	 ([watchable.][plot][weak][say][expecting][lot][considering][cast][line][include][pay][rent])
+v(9,10,11,12,13,14,20,22,25,26,29,30,31): -3.776059627532959, EP: -0.6689499616622925	 ([expecting][lot][considering][cast][line][( i][rent][best][definitely][dani][film][complete][utter])
+v(0,1,2,3,8,15,17,18,21,23,24,27,28,32): 3.753115177154541, EP: 0.6648852229118347	 ([hoping][film][going][least][least.][wonder][cvs? ).][least][it.][part][film][behr,][rest][pants.])
+v(4,5,6,7,14,15,16,17,18,19,22,24,25,26,29,30,31): 3.7277870178222656, EP: 0.6603982448577881	 ([watchable.][plot][weak][say][( i][wonder][include][cvs? ).][least][pay][best][film][definitely][dani][film][complete][utter])
+v(0,1,2,3,8,21,23,27,28,32): 3.668394088745117, EP: 0.6498764157295227	 ([hoping][film][going][least][least.][it.][part][behr,][rest][pants.])
+v(0,1,2,3,8,9,10,11,12,13,20,21,23,27,28,32): 3.573026657104492, EP: 0.632981538772583	 ([hoping][film][going][least][least.][expecting][lot][considering][cast][line][rent][it.][part][behr,][rest][pants.])
+v(0,1,2,3,8,9,10,11,12,13,15,17,18,20,21,23,24,27,28,32): 3.5547304153442383, EP: 0.629740297794342	 ([hoping][film][going][least][least.][expecting][lot][considering][cast][line][wonder][cvs? ).][least][rent][it.][part][film][behr,][rest][pants.])
+v(4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,22,24,25,26,29,30,31): 3.4549193382263184, EP: 0.612058162689209	 ([watchable.][plot][weak][say][expecting][lot][considering][cast][line][( i][wonder][include][cvs? ).][least][pay][rent][best][film][definitely][dani][film][complete][utter])
+v(1,2,3,8,15,17,18,24,32): 3.42722225189209, EP: 0.6071515083312988	 ([film][going][least][least.][wonder][cvs? ).][least][film][pants.])
+v(0,9,10,11,12,13,14,15,17,18,20,21,22,23,24,25,26,27,28,29,30,31): 3.361813545227051, EP: 0.5955640077590942	 ([hoping][expecting][lot][considering][cast][line][( i][wonder][cvs? ).][least][rent][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter])
+v(1,2,3,8,32): 3.2985177040100098, EP: 0.5843507647514343	 ([film][going][least][least.][pants.])
+v(4,5,6,7,14,16,19,22,25,26,29,30,31): 3.2373228073120117, EP: 0.5735097527503967	 ([watchable.][plot][weak][say][( i][include][pay][best][definitely][dani][film][complete][utter])
+v(0,4,5,6,7,16,19,21,23,27,28): 3.166830062866211, EP: 0.5610215663909912	 ([hoping][watchable.][plot][weak][say][include][pay][it.][part][behr,][rest])
+v(9,10,11,12,13,15,17,18,20,24): 3.08575439453125, EP: 0.5466585755348206	 ([expecting][lot][considering][cast][line][wonder][cvs? ).][least][rent][film])
+v(0,14,15,17,18,21,22,23,24,25,26,27,28,29,30,31): 2.827589988708496, EP: 0.5009232759475708	 ([hoping][( i][wonder][cvs? ).][least][it.][best][part][film][definitely][dani][behr,][rest][film][complete][utter])
+v(0,15,17,18,21,23,24,27,28): 2.478661060333252, EP: 0.43910861015319824	 ([hoping][wonder][cvs? ).][least][it.][part][film][behr,][rest])
+v(4,5,6,7,16,19): 2.3940491676330566, EP: 0.42411914467811584	 ([watchable.][plot][weak][say][include][pay])
+v(0,9,10,11,12,13,15,17,18,20,21,23,24,27,28): 2.351844310760498, EP: 0.41664230823516846	 ([hoping][expecting][lot][considering][cast][line][wonder][cvs? ).][least][rent][it.][part][film][behr,][rest])
+v(9,10,11,12,13,14,15,17,18,20,22,24,25,26,29,30,31): -2.3212199211120605, EP: -0.4112170338630676	 ([expecting][lot][considering][cast][line][( i][wonder][cvs? ).][least][rent][best][film][definitely][dani][film][complete][utter])
+v(9,10,11,12,13,20): 2.239682674407959, EP: 0.39677226543426514	 ([expecting][lot][considering][cast][line][rent])
+v(4,5,6,7,9,10,11,12,13,14,16,19,20,22,25,26,29,30,31): 2.2189626693725586, EP: 0.3931015729904175	 ([watchable.][plot][weak][say][expecting][lot][considering][cast][line][( i][include][pay][rent][best][definitely][dani][film][complete][utter])
+v(0,14,21,22,23,25,26,27,28,29,30,31): 1.9233741760253906, EP: 0.340736448764801	 ([hoping][( i][it.][best][part][definitely][dani][behr,][rest][film][complete][utter])
+v(15,17,18,24): 1.8891868591308594, EP: 0.3346799612045288	 ([wonder][cvs? ).][least][film])
+v(0,9,10,11,12,13,14,20,21,22,23,25,26,27,28,29,30,31): 1.60345458984375, EP: 0.28406089544296265	 ([hoping][expecting][lot][considering][cast][line][( i][rent][it.][best][part][definitely][dani][behr,][rest][film][complete][utter])
+v(0,9,10,11,12,13,20,21,23,27,28): 1.4475417137145996, EP: 0.25644007325172424	 ([hoping][expecting][lot][considering][cast][line][rent][it.][part][behr,][rest])
+v(0,21,23,27,28): 1.2452301979064941, EP: 0.2205994576215744	 ([hoping][it.][part][behr,][rest])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

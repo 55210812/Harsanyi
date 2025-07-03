@@ -1,0 +1,77 @@
+Execution time: 2025-07-03 21:19:47
+prompt: [CLS] when i started to watch this movie on vh - 1 i cringed. the mtv movies were all bad so i wasnt expecting much. but this movie was really good. i liked it a lot. and it even had a twist at the end. see this movie because it shows that made for tv movies that are good exist. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2043 decoded_text: when
+idx:2 input_id:1045 decoded_text: i
+idx:3 input_id:2318 decoded_text: started
+idx:4 input_id:2000 decoded_text: to
+idx:5 input_id:3422 decoded_text: watch
+idx:6 input_id:2023 decoded_text: this
+idx:7 input_id:3185 decoded_text: movie
+idx:8 input_id:2006 decoded_text: on
+idx:9 input_id:1058 decoded_text: v
+idx:10 input_id:2232 decoded_text: ##h
+idx:11 input_id:1011 decoded_text: -
+idx:12 input_id:1015 decoded_text: 1
+idx:13 input_id:1045 decoded_text: i
+idx:14 input_id:23952 decoded_text: cringed
+idx:15 input_id:1012 decoded_text: .
+idx:16 input_id:1996 decoded_text: the
+idx:17 input_id:8692 decoded_text: mtv
+idx:18 input_id:5691 decoded_text: movies
+idx:19 input_id:2020 decoded_text: were
+idx:20 input_id:2035 decoded_text: all
+idx:21 input_id:2919 decoded_text: bad
+idx:22 input_id:2061 decoded_text: so
+idx:23 input_id:1045 decoded_text: i
+idx:24 input_id:2347 decoded_text: wasn
+idx:25 input_id:2102 decoded_text: ##t
+idx:26 input_id:8074 decoded_text: expecting
+idx:27 input_id:2172 decoded_text: much
+idx:28 input_id:1012 decoded_text: .
+idx:29 input_id:2021 decoded_text: but
+idx:30 input_id:2023 decoded_text: this
+idx:31 input_id:3185 decoded_text: movie
+idx:32 input_id:2001 decoded_text: was
+idx:33 input_id:2428 decoded_text: really
+idx:34 input_id:2204 decoded_text: good
+idx:35 input_id:1012 decoded_text: .
+idx:36 input_id:1045 decoded_text: i
+idx:37 input_id:4669 decoded_text: liked
+idx:38 input_id:2009 decoded_text: it
+idx:39 input_id:1037 decoded_text: a
+idx:40 input_id:2843 decoded_text: lot
+idx:41 input_id:1012 decoded_text: .
+idx:42 input_id:1998 decoded_text: and
+idx:43 input_id:2009 decoded_text: it
+idx:44 input_id:2130 decoded_text: even
+idx:45 input_id:2018 decoded_text: had
+idx:46 input_id:1037 decoded_text: a
+idx:47 input_id:9792 decoded_text: twist
+idx:48 input_id:2012 decoded_text: at
+idx:49 input_id:1996 decoded_text: the
+idx:50 input_id:2203 decoded_text: end
+idx:51 input_id:1012 decoded_text: .
+idx:52 input_id:2156 decoded_text: see
+idx:53 input_id:2023 decoded_text: this
+idx:54 input_id:3185 decoded_text: movie
+idx:55 input_id:2138 decoded_text: because
+idx:56 input_id:2009 decoded_text: it
+idx:57 input_id:3065 decoded_text: shows
+idx:58 input_id:2008 decoded_text: that
+idx:59 input_id:2081 decoded_text: made
+idx:60 input_id:2005 decoded_text: for
+idx:61 input_id:2694 decoded_text: tv
+idx:62 input_id:5691 decoded_text: movies
+idx:63 input_id:2008 decoded_text: that
+idx:64 input_id:2024 decoded_text: are
+idx:65 input_id:2204 decoded_text: good
+idx:66 input_id:4839 decoded_text: exist
+idx:67 input_id:1012 decoded_text: .
+idx:68 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-2.68011736869812, 3.2875800132751465]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

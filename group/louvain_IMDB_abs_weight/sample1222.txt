@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['2', '38', '25', '32', '23', '37', '24', '33', '26']: ['mouse', 'pat', 'stupid', 'story.', 'movie.', 'deal', 'film', 'problem', 'even']: 平均边权 0.7472
+社区 2: ['48', '41', '27', '35', '34', '10', '52']: ['kiss', 'kiss', 'campy', 'made', 'hollywood', 'spy,', 'build']: 平均边权 0.3122
+社区 3: ['49', '46', '50', '53', '42', '44', '43', '54']: ['shirley', 'audience', 'jones', 'anticipation', 'woman', 'screen', 'wife', 'screen']: 平均边权 0.5168
+社区 4: ['55', '57', '3', '59', '60', '58', '6']: ['consummation', 'love.', 'new', 'like', 'watching', 'sort', 'pimp,']: 平均边权 0.4796
+社区 5: ['17', '18', '19', '9']: ["uncle's", 'farm', 'kentucky', 'communist']: 平均边权 0.3591
+社区 6: ['31', '30', '36', '45', '40', '28', '29']: ['love', 'sexless', 'big', 'release', 'refusal', 'mid', '1950s']: 平均边权 0.3084
+社区 7: ['12', '8', '5', '13', '39', '4', '14', '7']: ['believe', 'wayne', 'street', 'pat', "boone's", 'york', 'boone', 'john']: 平均边权 0.7219
+社区 8: ['56', '20', '21', '47', '11', '16', '15', '22', '51']: ['"', 'could', 'conceivably', 'knows', 'might', 'delinquent', 'juvenile', 'enjoy', 'cannot']: 平均边权 0.4814
+社区 9: ['1', '0']: ['mickey', 'imagine']: 平均边权 0.4793

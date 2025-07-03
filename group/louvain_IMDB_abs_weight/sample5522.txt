@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['26', '29', '27', '31']: ['sentinel', 'thriller', 'tasteless', 'see,']: 平均边权 2.2016
+社区 2: ['2', '23', '19', '44', '18', '24', '1']: ['film', 'douglas', 'movies,', 'genre.', 'fugitive', 'sutherland.', 'trailer']: 平均边权 0.8247
+社区 3: ['42', '35', '36', '43', '46', '47']: ['tv', 'like', 'tv', 'movies', 'tv', 'movies']: 平均边权 0.9789
+社区 4: ['12', '5', '0', '4', '3', '15', '59', '14', '6']: ['like', 'theater', 'saw', 'times', 'several', "1990's.", 'tone', 'made', 'excited.']: 平均边权 0.4978
+社区 5: ['8', '13', '16', '11', '9', '10', '17', '7']: ['like', 'ones', 'recalled', 'thriller', 'classic', 'action', 'also', 'looked']: 平均边权 0.7852
+社区 6: ['38', '32', '49', '34', '50', '48', '37', '33']: ['exactly.', 'many', 'fun', 'say', 'sometimes,', 'might', 'movie.', 'people']: 平均边权 0.5995
+社区 7: ['56', '57', '25', '58', '52', '45', '40', '39', '55', '30', '41', '53', '51', '54']: ['stylish', 'visually', 'however,', 'important,', 'exact', 'secondly,', 'much', 'firstly,', 'time.', 'time.', 'better', 'opposite', 'film', 'good']: 平均边权 0.4743
+社区 8: ['21', '20', '22', '28']: ['mouse', 'cat', 'chase', 'action']: 平均边权 0.4152

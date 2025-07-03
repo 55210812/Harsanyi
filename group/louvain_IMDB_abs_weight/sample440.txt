@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['56', '57', '46', '52', '47', '55', '48', '53', '51', '54']: ['time.', 'bad', 'news.', 'movie', 'well', 'long', 'acted', "i've", 'uninvolving', 'seen']: 平均边权 0.4934
+社区 2: ['12', '50', '14', '22', '24', '49', '40']: ['cops', 'look', 'close', 'police', 'make', 'great', 'cops,']: 平均边权 0.5554
+社区 3: ['2', '8', '5', '20', '0', '19', '4', '3', '15', '9', '1', '10', '7']: ['stars', 'wu', 'undercover', 'begins', 'andy', 'movie', 'cop', 'another', 'top', 'plays', 'lau', 'nick', 'daniel']: 平均边权 0.4585
+社区 4: ['39', '44', '13', '43', '45', '31']: ['cronies', 'movie', 'also', 'shut', 'put', 'young']: 平均边权 0.6352
+社区 5: ['30', '26', '23', '33', '29', '21', '28']: ['introduced', 'bust', 'try', 'addicted', 'pieces.', 'watch', 'go']: 平均边权 0.3686
+社区 6: ['16', '18', '32', '25', '17', '6']: ['drug', 'gang ( lau ).', 'drug', 'drug', 'dealing', 'tale.']: 平均边权 0.4538
+社区 7: ['38', '11', '27', '35', '37', '34', '36']: ['nick', 'working', 'see', 'daughter', 'near', 'mother', 'living']: 平均边权 0.2701
+社区 8: ['41', '42']: ['45', 'minutes']: 平均边权 0.4928

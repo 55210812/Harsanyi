@@ -1,0 +1,178 @@
+---------- Players ----------
+Player 0: simply
+Player 1: put,
+Player 2: worst
+Player 3: movie
+Player 4: since
+Player 5: police
+Player 6: academy :
+Player 7: mission
+Player 8: moscow
+Player 9: "
+Player 10: ( if
+Player 11: liked
+Player 12: movie
+Player 13: probably
+Player 14: like
+Player 15: one ).
+Player 16: thinking
+Player 17: ?
+Player 18: ideas
+Player 19: stay
+Player 20: that,
+Player 21: idea.
+Player 22: fact
+Player 23: idea
+Player 24: could
+Player 25: film
+Player 26: criminal
+Player 27: offense.
+Player 28: bad
+Player 29: hear
+Player 30: ask.
+Player 31: one
+Player 32: word
+Player 33: ...
+Player 34: everything.
+Player 35: cost
+Player 36: hire :
+Player 37: 4. 50
+Player 38: cost
+Player 39: time
+Player 40: watch :
+Player 41: 89
+Player 42: minutes
+Player 43: want
+Player 44: refund
+Player 45: both! "
+---------- Rewards ----------
+v(): 1.530438780784607	 ([])
+v(8,9,10,11,12,13,14,26,32): 1.9557523727416992	 ([moscow]["][( if][liked][movie][probably][like][criminal][word])
+v(0,1,2,3,4,6,7,27,45): 7.8088226318359375	 ([simply][put,][worst][movie][since][academy :][mission][offense.][both! "])
+v(17,18,19,20,21,22): 2.1510837078094482	 ([?][ideas][stay][that,][idea.][fact])
+v(24,34,36,37,38,39,40,41,42,43): 6.488165378570557	 ([could][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(5,15,16,28,29,44): 5.168413162231445	 ([police][one ).][thinking][bad][hear][refund])
+v(23,25,30,31,33,35): 4.014222145080566	 ([idea][film][ask.][one][...][cost])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,26,27,32,45): 7.651067733764648	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][criminal][offense.][word][both! "])
+v(8,9,10,11,12,13,14,17,18,19,20,21,22,26,32): 3.2324788570404053	 ([moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][criminal][word])
+v(8,9,10,11,12,13,14,24,26,32,34,36,37,38,39,40,41,42,43): 6.319214820861816	 ([moscow]["][( if][liked][movie][probably][like][could][criminal][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(5,8,9,10,11,12,13,14,15,16,26,28,29,32,44): 6.332635879516602	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][criminal][bad][hear][word][refund])
+v(8,9,10,11,12,13,14,23,25,26,30,31,32,33,35): 4.64636754989624	 ([moscow]["][( if][liked][movie][probably][like][idea][film][criminal][ask.][one][word][...][cost])
+v(0,1,2,3,4,6,7,17,18,19,20,21,22,27,45): 7.824530124664307	 ([simply][put,][worst][movie][since][academy :][mission][?][ideas][stay][that,][idea.][fact][offense.][both! "])
+v(0,1,2,3,4,6,7,24,27,34,36,37,38,39,40,41,42,43,45): 8.134284019470215	 ([simply][put,][worst][movie][since][academy :][mission][could][offense.][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,5,6,7,15,16,27,28,29,44,45): 8.041507720947266	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][offense.][bad][hear][refund][both! "])
+v(0,1,2,3,4,6,7,23,25,27,30,31,33,35,45): 7.975315570831299	 ([simply][put,][worst][movie][since][academy :][mission][idea][film][offense.][ask.][one][...][cost][both! "])
+v(17,18,19,20,21,22,24,34,36,37,38,39,40,41,42,43): 6.512655735015869	 ([?][ideas][stay][that,][idea.][fact][could][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(5,15,16,17,18,19,20,21,22,28,29,44): 6.790462493896484	 ([police][one ).][thinking][?][ideas][stay][that,][idea.][fact][bad][hear][refund])
+v(17,18,19,20,21,22,23,25,30,31,33,35): 4.068662166595459	 ([?][ideas][stay][that,][idea.][fact][idea][film][ask.][one][...][cost])
+v(5,15,16,24,28,29,34,36,37,38,39,40,41,42,43,44): 7.173754692077637	 ([police][one ).][thinking][could][bad][hear][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(23,24,25,30,31,33,34,35,36,37,38,39,40,41,42,43): 6.415358543395996	 ([idea][could][film][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(5,15,16,23,25,28,29,30,31,33,35,44): 6.399715423583984	 ([police][one ).][thinking][idea][film][bad][hear][ask.][one][...][cost][refund])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,17,18,19,20,21,22,26,27,32,45): 7.737784385681152	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][criminal][offense.][word][both! "])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,24,26,27,32,34,36,37,38,39,40,41,42,43,45): 8.016019821166992	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][could][criminal][offense.][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,26,27,28,29,32,44,45): 7.982950210571289	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][criminal][offense.][bad][hear][word][refund][both! "])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,23,25,26,27,30,31,32,33,35,45): 7.915951728820801	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][idea][film][criminal][offense.][ask.][one][word][...][cost][both! "])
+v(8,9,10,11,12,13,14,17,18,19,20,21,22,24,26,32,34,36,37,38,39,40,41,42,43): 6.529801368713379	 ([moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][could][criminal][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(5,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,26,28,29,32,44): 7.289864540100098	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][criminal][bad][hear][word][refund])
+v(8,9,10,11,12,13,14,17,18,19,20,21,22,23,25,26,30,31,32,33,35): 5.166072845458984	 ([moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][idea][film][criminal][ask.][one][word][...][cost])
+v(5,8,9,10,11,12,13,14,15,16,24,26,28,29,32,34,36,37,38,39,40,41,42,43,44): 7.636460304260254	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][could][criminal][bad][hear][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(8,9,10,11,12,13,14,23,24,25,26,30,31,32,33,34,35,36,37,38,39,40,41,42,43): 6.724013328552246	 ([moscow]["][( if][liked][movie][probably][like][idea][could][film][criminal][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(5,8,9,10,11,12,13,14,15,16,23,25,26,28,29,30,31,32,33,35,44): 6.620065689086914	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][idea][film][criminal][bad][hear][ask.][one][word][...][cost][refund])
+v(0,1,2,3,4,6,7,17,18,19,20,21,22,24,27,34,36,37,38,39,40,41,42,43,45): 8.123794555664062	 ([simply][put,][worst][movie][since][academy :][mission][?][ideas][stay][that,][idea.][fact][could][offense.][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,5,6,7,15,16,17,18,19,20,21,22,27,28,29,44,45): 8.143263816833496	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][?][ideas][stay][that,][idea.][fact][offense.][bad][hear][refund][both! "])
+v(0,1,2,3,4,6,7,17,18,19,20,21,22,23,25,27,30,31,33,35,45): 8.029664039611816	 ([simply][put,][worst][movie][since][academy :][mission][?][ideas][stay][that,][idea.][fact][idea][film][offense.][ask.][one][...][cost][both! "])
+v(0,1,2,3,4,5,6,7,15,16,24,27,28,29,34,36,37,38,39,40,41,42,43,44,45): 8.209774017333984	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][could][offense.][bad][hear][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(0,1,2,3,4,6,7,23,24,25,27,30,31,33,34,35,36,37,38,39,40,41,42,43,45): 8.235739707946777	 ([simply][put,][worst][movie][since][academy :][mission][idea][could][film][offense.][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,5,6,7,15,16,23,25,27,28,29,30,31,33,35,44,45): 8.127531051635742	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][idea][film][offense.][bad][hear][ask.][one][...][cost][refund][both! "])
+v(5,15,16,17,18,19,20,21,22,24,28,29,34,36,37,38,39,40,41,42,43,44): 7.649806499481201	 ([police][one ).][thinking][?][ideas][stay][that,][idea.][fact][could][bad][hear][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(17,18,19,20,21,22,23,24,25,30,31,33,34,35,36,37,38,39,40,41,42,43): 6.320685386657715	 ([?][ideas][stay][that,][idea.][fact][idea][could][film][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(5,15,16,17,18,19,20,21,22,23,25,28,29,30,31,33,35,44): 7.277004241943359	 ([police][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][film][bad][hear][ask.][one][...][cost][refund])
+v(5,15,16,23,24,25,28,29,30,31,33,34,35,36,37,38,39,40,41,42,43,44): 7.785154819488525	 ([police][one ).][thinking][idea][could][film][bad][hear][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,17,18,19,20,21,22,24,26,27,32,34,36,37,38,39,40,41,42,43,45): 8.101041793823242	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][could][criminal][offense.][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,26,27,28,29,32,44,45): 8.116151809692383	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][criminal][offense.][bad][hear][word][refund][both! "])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,17,18,19,20,21,22,23,25,26,27,30,31,32,33,35,45): 7.9932756423950195	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][idea][film][criminal][offense.][ask.][one][word][...][cost][both! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,24,26,27,28,29,32,34,36,37,38,39,40,41,42,43,44,45): 8.25963020324707	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][could][criminal][offense.][bad][hear][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,23,24,25,26,27,30,31,32,33,34,35,36,37,38,39,40,41,42,43,45): 8.20685863494873	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][idea][could][film][criminal][offense.][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,23,25,26,27,28,29,30,31,32,33,35,44,45): 8.13560962677002	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][idea][film][criminal][offense.][bad][hear][ask.][one][word][...][cost][refund][both! "])
+v(5,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,26,28,29,32,34,36,37,38,39,40,41,42,43,44): 7.873363494873047	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][could][criminal][bad][hear][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(8,9,10,11,12,13,14,17,18,19,20,21,22,23,24,25,26,30,31,32,33,34,35,36,37,38,39,40,41,42,43): 6.847090244293213	 ([moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][idea][could][film][criminal][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(5,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,28,29,30,31,32,33,35,44): 7.2289934158325195	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][film][criminal][bad][hear][ask.][one][word][...][cost][refund])
+v(5,8,9,10,11,12,13,14,15,16,23,24,25,26,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44): 7.876531600952148	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][idea][could][film][criminal][bad][hear][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(0,1,2,3,4,5,6,7,15,16,17,18,19,20,21,22,24,27,28,29,34,36,37,38,39,40,41,42,43,44,45): 8.333160400390625	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][?][ideas][stay][that,][idea.][fact][could][offense.][bad][hear][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(0,1,2,3,4,6,7,17,18,19,20,21,22,23,24,25,27,30,31,33,34,35,36,37,38,39,40,41,42,43,45): 8.306404113769531	 ([simply][put,][worst][movie][since][academy :][mission][?][ideas][stay][that,][idea.][fact][idea][could][film][offense.][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,5,6,7,15,16,17,18,19,20,21,22,23,25,27,28,29,30,31,33,35,44,45): 8.163352966308594	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][film][offense.][bad][hear][ask.][one][...][cost][refund][both! "])
+v(0,1,2,3,4,5,6,7,15,16,23,24,25,27,28,29,30,31,33,34,35,36,37,38,39,40,41,42,43,44,45): 8.337471008300781	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][idea][could][film][offense.][bad][hear][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(5,15,16,17,18,19,20,21,22,23,24,25,28,29,30,31,33,34,35,36,37,38,39,40,41,42,43,44): 8.017929077148438	 ([police][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][could][film][bad][hear][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,26,27,28,29,32,34,36,37,38,39,40,41,42,43,44,45): 8.350605010986328	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][could][criminal][offense.][bad][hear][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,17,18,19,20,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38,39,40,41,42,43,45): 8.303354263305664	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][idea][could][film][criminal][offense.][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,35,44,45): 8.140738487243652	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][film][criminal][offense.][bad][hear][ask.][one][word][...][cost][refund][both! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45): 8.419706344604492	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][idea][could][film][criminal][offense.][bad][hear][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(5,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44): 8.000092506408691	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][could][film][criminal][bad][hear][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(0,1,2,3,4,5,6,7,15,16,17,18,19,20,21,22,23,24,25,27,28,29,30,31,33,34,35,36,37,38,39,40,41,42,43,44,45): 8.428884506225586	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][could][film][offense.][bad][hear][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45): 8.472216606140137	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][could][film][criminal][offense.][bad][hear][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45): 6.94177770614624, EP: 1.0	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][could][film][criminal][offense.][bad][hear][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(0,1,2,3,4,5,6,7,15,16,17,18,19,20,21,22,23,24,25,27,28,29,30,31,33,34,35,36,37,38,39,40,41,42,43,44,45): 6.8984456062316895, EP: 0.9937577843666077	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][could][film][offense.][bad][hear][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45): 6.889267444610596, EP: 0.9924356341362	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][idea][could][film][criminal][offense.][bad][hear][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,26,27,28,29,32,34,36,37,38,39,40,41,42,43,44,45): 6.820166110992432, EP: 0.9824811816215515	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][could][criminal][offense.][bad][hear][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(0,1,2,3,4,5,6,7,15,16,23,24,25,27,28,29,30,31,33,34,35,36,37,38,39,40,41,42,43,44,45): 6.807032108306885, EP: 0.9805891513824463	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][idea][could][film][offense.][bad][hear][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(0,1,2,3,4,5,6,7,15,16,17,18,19,20,21,22,24,27,28,29,34,36,37,38,39,40,41,42,43,44,45): 6.8027215003967285, EP: 0.9799681901931763	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][?][ideas][stay][that,][idea.][fact][could][offense.][bad][hear][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(0,1,2,3,4,6,7,17,18,19,20,21,22,23,24,25,27,30,31,33,34,35,36,37,38,39,40,41,42,43,45): 6.775965213775635, EP: 0.9761138558387756	 ([simply][put,][worst][movie][since][academy :][mission][?][ideas][stay][that,][idea.][fact][idea][could][film][offense.][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,17,18,19,20,21,22,23,24,25,26,27,30,31,32,33,34,35,36,37,38,39,40,41,42,43,45): 6.772915363311768, EP: 0.9756745100021362	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][idea][could][film][criminal][offense.][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,24,26,27,28,29,32,34,36,37,38,39,40,41,42,43,44,45): 6.729191303253174, EP: 0.9693757891654968	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][could][criminal][offense.][bad][hear][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(0,1,2,3,4,6,7,23,24,25,27,30,31,33,34,35,36,37,38,39,40,41,42,43,45): 6.705300807952881, EP: 0.9659342169761658	 ([simply][put,][worst][movie][since][academy :][mission][idea][could][film][offense.][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,5,6,7,15,16,24,27,28,29,34,36,37,38,39,40,41,42,43,44,45): 6.679335117340088, EP: 0.9621937274932861	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][could][offense.][bad][hear][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund][both! "])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,23,24,25,26,27,30,31,32,33,34,35,36,37,38,39,40,41,42,43,45): 6.676419734954834, EP: 0.9617737531661987	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][idea][could][film][criminal][offense.][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,5,6,7,15,16,17,18,19,20,21,22,23,25,27,28,29,30,31,33,35,44,45): 6.632914066314697, EP: 0.9555065631866455	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][film][offense.][bad][hear][ask.][one][...][cost][refund][both! "])
+v(0,1,2,3,4,5,6,7,15,16,17,18,19,20,21,22,27,28,29,44,45): 6.6128249168396, EP: 0.952612578868866	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][?][ideas][stay][that,][idea.][fact][offense.][bad][hear][refund][both! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,35,44,45): 6.610299587249756, EP: 0.9522488117218018	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][film][criminal][offense.][bad][hear][ask.][one][word][...][cost][refund][both! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,23,25,26,27,28,29,30,31,32,33,35,44,45): 6.605170726776123, EP: 0.951509952545166	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][idea][film][criminal][offense.][bad][hear][ask.][one][word][...][cost][refund][both! "])
+v(0,1,2,3,4,6,7,24,27,34,36,37,38,39,40,41,42,43,45): 6.603845119476318, EP: 0.9513190388679504	 ([simply][put,][worst][movie][since][academy :][mission][could][offense.][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,5,6,7,15,16,23,25,27,28,29,30,31,33,35,44,45): 6.597092151641846, EP: 0.9503462314605713	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][idea][film][offense.][bad][hear][ask.][one][...][cost][refund][both! "])
+v(0,1,2,3,4,6,7,17,18,19,20,21,22,24,27,34,36,37,38,39,40,41,42,43,45): 6.593355655670166, EP: 0.9498079419136047	 ([simply][put,][worst][movie][since][academy :][mission][?][ideas][stay][that,][idea.][fact][could][offense.][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,26,27,28,29,32,44,45): 6.585712909698486, EP: 0.9487069845199585	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][criminal][offense.][bad][hear][word][refund][both! "])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,17,18,19,20,21,22,24,26,27,32,34,36,37,38,39,40,41,42,43,45): 6.570602893829346, EP: 0.946530282497406	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][could][criminal][offense.][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(0,1,2,3,4,5,6,7,15,16,27,28,29,44,45): 6.511068820953369, EP: 0.9379540681838989	 ([simply][put,][worst][movie][since][police][academy :][mission][one ).][thinking][offense.][bad][hear][refund][both! "])
+v(0,1,2,3,4,6,7,17,18,19,20,21,22,23,25,27,30,31,33,35,45): 6.49922513961792, EP: 0.9362479448318481	 ([simply][put,][worst][movie][since][academy :][mission][?][ideas][stay][that,][idea.][fact][idea][film][offense.][ask.][one][...][cost][both! "])
+v(5,15,16,17,18,19,20,21,22,23,24,25,28,29,30,31,33,34,35,36,37,38,39,40,41,42,43,44): 6.487490177154541, EP: 0.9345574378967285	 ([police][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][could][film][bad][hear][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,24,26,27,32,34,36,37,38,39,40,41,42,43,45): 6.485580921173096, EP: 0.9342824220657349	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][could][criminal][offense.][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][both! "])
+v(5,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44): 6.469653606414795, EP: 0.931988000869751	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][could][film][criminal][bad][hear][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,17,18,19,20,21,22,23,25,26,27,30,31,32,33,35,45): 6.462836742401123, EP: 0.9310060143470764	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][idea][film][criminal][offense.][ask.][one][word][...][cost][both! "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,26,27,28,29,32,44,45): 6.452511310577393, EP: 0.9295185804367065	 ([simply][put,][worst][movie][since][police][academy :][mission][moscow]["][( if][liked][movie][probably][like][one ).][thinking][criminal][offense.][bad][hear][word][refund][both! "])
+v(0,1,2,3,4,6,7,23,25,27,30,31,33,35,45): 6.444876670837402, EP: 0.928418755531311	 ([simply][put,][worst][movie][since][academy :][mission][idea][film][offense.][ask.][one][...][cost][both! "])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,23,25,26,27,30,31,32,33,35,45): 6.385512828826904, EP: 0.9198670983314514	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][idea][film][criminal][offense.][ask.][one][word][...][cost][both! "])
+v(5,8,9,10,11,12,13,14,15,16,23,24,25,26,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44): 6.346092700958252, EP: 0.9141883850097656	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][idea][could][film][criminal][bad][hear][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(5,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,26,28,29,32,34,36,37,38,39,40,41,42,43,44): 6.34292459487915, EP: 0.9137320518493652	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][could][criminal][bad][hear][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(0,1,2,3,4,6,7,17,18,19,20,21,22,27,45): 6.29409122467041, EP: 0.9066973328590393	 ([simply][put,][worst][movie][since][academy :][mission][?][ideas][stay][that,][idea.][fact][offense.][both! "])
+v(0,1,2,3,4,6,7,27,45): 6.278383731842041, EP: 0.9044345617294312	 ([simply][put,][worst][movie][since][academy :][mission][offense.][both! "])
+v(5,15,16,23,24,25,28,29,30,31,33,34,35,36,37,38,39,40,41,42,43,44): 6.254715919494629, EP: 0.901025116443634	 ([police][one ).][thinking][idea][could][film][bad][hear][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,17,18,19,20,21,22,26,27,32,45): 6.207345485687256, EP: 0.8942011594772339	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][criminal][offense.][word][both! "])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,26,27,32,45): 6.120628833770752, EP: 0.8817091584205627	 ([simply][put,][worst][movie][since][academy :][mission][moscow]["][( if][liked][movie][probably][like][criminal][offense.][word][both! "])
+v(5,15,16,17,18,19,20,21,22,24,28,29,34,36,37,38,39,40,41,42,43,44): 6.119367599487305, EP: 0.8815274238586426	 ([police][one ).][thinking][?][ideas][stay][that,][idea.][fact][could][bad][hear][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(5,8,9,10,11,12,13,14,15,16,24,26,28,29,32,34,36,37,38,39,40,41,42,43,44): 6.106021404266357, EP: 0.8796048760414124	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][could][criminal][bad][hear][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(5,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,26,28,29,32,44): 5.759425640106201, EP: 0.8296759128570557	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][criminal][bad][hear][word][refund])
+v(5,15,16,17,18,19,20,21,22,23,25,28,29,30,31,33,35,44): 5.746565341949463, EP: 0.827823281288147	 ([police][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][film][bad][hear][ask.][one][...][cost][refund])
+v(5,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,28,29,30,31,32,33,35,44): 5.698554515838623, EP: 0.8209071159362793	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][?][ideas][stay][that,][idea.][fact][idea][film][criminal][bad][hear][ask.][one][word][...][cost][refund])
+v(5,15,16,24,28,29,34,36,37,38,39,40,41,42,43,44): 5.64331579208374, EP: 0.8129496574401855	 ([police][one ).][thinking][could][bad][hear][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want][refund])
+v(8,9,10,11,12,13,14,17,18,19,20,21,22,23,24,25,26,30,31,32,33,34,35,36,37,38,39,40,41,42,43): 5.316651344299316, EP: 0.7658919095993042	 ([moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][idea][could][film][criminal][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(5,15,16,17,18,19,20,21,22,28,29,44): 5.260023593902588, EP: 0.7577343583106995	 ([police][one ).][thinking][?][ideas][stay][that,][idea.][fact][bad][hear][refund])
+v(8,9,10,11,12,13,14,23,24,25,26,30,31,32,33,34,35,36,37,38,39,40,41,42,43): 5.19357442855835, EP: 0.748162031173706	 ([moscow]["][( if][liked][movie][probably][like][idea][could][film][criminal][ask.][one][word][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(5,8,9,10,11,12,13,14,15,16,23,25,26,28,29,30,31,32,33,35,44): 5.089626789093018, EP: 0.7331877946853638	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][idea][film][criminal][bad][hear][ask.][one][word][...][cost][refund])
+v(8,9,10,11,12,13,14,17,18,19,20,21,22,24,26,32,34,36,37,38,39,40,41,42,43): 4.999362468719482, EP: 0.7201847434043884	 ([moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][could][criminal][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(17,18,19,20,21,22,24,34,36,37,38,39,40,41,42,43): 4.982216835021973, EP: 0.7177148461341858	 ([?][ideas][stay][that,][idea.][fact][could][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(24,34,36,37,38,39,40,41,42,43): 4.95772647857666, EP: 0.7141868472099304	 ([could][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(23,24,25,30,31,33,34,35,36,37,38,39,40,41,42,43): 4.8849196434021, EP: 0.7036986351013184	 ([idea][could][film][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(5,15,16,23,25,28,29,30,31,33,35,44): 4.869276523590088, EP: 0.7014451622962952	 ([police][one ).][thinking][idea][film][bad][hear][ask.][one][...][cost][refund])
+v(5,8,9,10,11,12,13,14,15,16,26,28,29,32,44): 4.802196979522705, EP: 0.6917819976806641	 ([police][moscow]["][( if][liked][movie][probably][like][one ).][thinking][criminal][bad][hear][word][refund])
+v(17,18,19,20,21,22,23,24,25,30,31,33,34,35,36,37,38,39,40,41,42,43): 4.790246486663818, EP: 0.6900604963302612	 ([?][ideas][stay][that,][idea.][fact][idea][could][film][ask.][one][...][everything.][cost][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(8,9,10,11,12,13,14,24,26,32,34,36,37,38,39,40,41,42,43): 4.78877592086792, EP: 0.6898486614227295	 ([moscow]["][( if][liked][movie][probably][like][could][criminal][word][everything.][hire :][4. 50][cost][time][watch :][89][minutes][want])
+v(5,15,16,28,29,44): 3.637974262237549, EP: 0.5240695476531982	 ([police][one ).][thinking][bad][hear][refund])
+v(8,9,10,11,12,13,14,17,18,19,20,21,22,23,25,26,30,31,32,33,35): 3.635633945465088, EP: 0.5237324237823486	 ([moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][idea][film][criminal][ask.][one][word][...][cost])
+v(8,9,10,11,12,13,14,23,25,26,30,31,32,33,35): 3.1159286499023438, EP: 0.4488660991191864	 ([moscow]["][( if][liked][movie][probably][like][idea][film][criminal][ask.][one][word][...][cost])
+v(17,18,19,20,21,22,23,25,30,31,33,35): 2.5382232666015625, EP: 0.36564457416534424	 ([?][ideas][stay][that,][idea.][fact][idea][film][ask.][one][...][cost])
+v(23,25,30,31,33,35): 2.48378324508667, EP: 0.3578021824359894	 ([idea][film][ask.][one][...][cost])
+v(8,9,10,11,12,13,14,17,18,19,20,21,22,26,32): 1.7020400762557983, EP: 0.2451879233121872	 ([moscow]["][( if][liked][movie][probably][like][?][ideas][stay][that,][idea.][fact][criminal][word])
+v(17,18,19,20,21,22): 0.6206449270248413, EP: 0.08940720558166504	 ([?][ideas][stay][that,][idea.][fact])
+v(8,9,10,11,12,13,14,26,32): 0.4253135919570923, EP: 0.06126868352293968	 ([moscow]["][( if][liked][movie][probably][like][criminal][word])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

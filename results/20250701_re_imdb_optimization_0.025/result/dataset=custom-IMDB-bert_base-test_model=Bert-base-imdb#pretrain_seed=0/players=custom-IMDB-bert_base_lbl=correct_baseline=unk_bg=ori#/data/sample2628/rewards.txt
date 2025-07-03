@@ -1,0 +1,160 @@
+---------- Players ----------
+Player 0: growing
+Player 1: multi
+Player 2: racial
+Player 3: neighborhood
+Player 4: back
+Player 5: 20's
+Player 6: 30's,
+Player 7: grew
+Player 8: close
+Player 9: italian
+Player 10: families
+Player 11: living
+Player 12: there.
+Player 13: move
+Player 14: brought
+Player 15: back
+Player 16: many
+Player 17: pleasant
+Player 18: memories.
+Player 19: movie
+Player 20: people
+Player 21: would
+Player 22: like
+Player 23: enjoy
+Player 24: seeing
+Player 25: true
+Player 26: life
+Player 27: movies.
+---------- Rewards ----------
+v(): -0.03721410036087036	 ([])
+v(11,14,15,16,17): 5.424248695373535	 ([living][brought][back][many][pleasant])
+v(6,10,12,27): 2.5266685485839844	 ([30's,][families][there.][movies.])
+v(2,3,4,5,18): 4.31410026550293	 ([racial][neighborhood][back][20's][memories.])
+v(8,19,21,22,23): 7.948173522949219	 ([close][movie][would][like][enjoy])
+v(1,24,25,26): 3.3395886421203613	 ([multi][seeing][true][life])
+v(0,7,9,13,20): 1.3803434371948242	 ([growing][grew][italian][move][people])
+v(6,10,11,12,14,15,16,17,27): 7.432498931884766	 ([30's,][families][living][there.][brought][back][many][pleasant][movies.])
+v(2,3,4,5,11,14,15,16,17,18): 8.267816543579102	 ([racial][neighborhood][back][20's][living][brought][back][many][pleasant][memories.])
+v(8,11,14,15,16,17,19,21,22,23): 8.5594482421875	 ([close][living][brought][back][many][pleasant][movie][would][like][enjoy])
+v(1,11,14,15,16,17,24,25,26): 7.240148544311523	 ([multi][living][brought][back][many][pleasant][seeing][true][life])
+v(0,7,9,11,13,14,15,16,17,20): 6.993575572967529	 ([growing][grew][italian][living][move][brought][back][many][pleasant][people])
+v(2,3,4,5,6,10,12,18,27): 6.5590925216674805	 ([racial][neighborhood][back][20's][30's,][families][there.][memories.][movies.])
+v(6,8,10,12,19,21,22,23,27): 8.39799690246582	 ([30's,][close][families][there.][movie][would][like][enjoy][movies.])
+v(1,6,10,12,24,25,26,27): 7.192939281463623	 ([multi][30's,][families][there.][seeing][true][life][movies.])
+v(0,6,7,9,10,12,13,20,27): 1.9224026203155518	 ([growing][30's,][grew][italian][families][there.][move][people][movies.])
+v(2,3,4,5,8,18,19,21,22,23): 8.671646118164062	 ([racial][neighborhood][back][20's][close][memories.][movie][would][like][enjoy])
+v(1,2,3,4,5,18,24,25,26): 6.7802653312683105	 ([multi][racial][neighborhood][back][20's][memories.][seeing][true][life])
+v(0,2,3,4,5,7,9,13,18,20): 5.591788291931152	 ([growing][racial][neighborhood][back][20's][grew][italian][move][memories.][people])
+v(1,8,19,21,22,23,24,25,26): 8.619657516479492	 ([multi][close][movie][would][like][enjoy][seeing][true][life])
+v(0,7,8,9,13,19,20,21,22,23): 8.502996444702148	 ([growing][grew][close][italian][move][movie][people][would][like][enjoy])
+v(0,1,7,9,13,20,24,25,26): 3.618945598602295	 ([growing][multi][grew][italian][move][people][seeing][true][life])
+v(2,3,4,5,6,10,11,12,14,15,16,17,18,27): 7.836935997009277	 ([racial][neighborhood][back][20's][30's,][families][living][there.][brought][back][many][pleasant][memories.][movies.])
+v(6,8,10,11,12,14,15,16,17,19,21,22,23,27): 7.665024757385254	 ([30's,][close][families][living][there.][brought][back][many][pleasant][movie][would][like][enjoy][movies.])
+v(1,6,10,11,12,14,15,16,17,24,25,26,27): 7.945939540863037	 ([multi][30's,][families][living][there.][brought][back][many][pleasant][seeing][true][life][movies.])
+v(0,6,7,9,10,11,12,13,14,15,16,17,20,27): 6.694472789764404	 ([growing][30's,][grew][italian][families][living][there.][move][brought][back][many][pleasant][people][movies.])
+v(2,3,4,5,8,11,14,15,16,17,18,19,21,22,23): 8.367767333984375	 ([racial][neighborhood][back][20's][close][living][brought][back][many][pleasant][memories.][movie][would][like][enjoy])
+v(1,2,3,4,5,11,14,15,16,17,18,24,25,26): 8.1803617477417	 ([multi][racial][neighborhood][back][20's][living][brought][back][many][pleasant][memories.][seeing][true][life])
+v(0,2,3,4,5,7,9,11,13,14,15,16,17,18,20): 7.474338054656982	 ([growing][racial][neighborhood][back][20's][grew][italian][living][move][brought][back][many][pleasant][memories.][people])
+v(1,8,11,14,15,16,17,19,21,22,23,24,25,26): 8.58951473236084	 ([multi][close][living][brought][back][many][pleasant][movie][would][like][enjoy][seeing][true][life])
+v(0,7,8,9,11,13,14,15,16,17,19,20,21,22,23): 8.69472885131836	 ([growing][grew][close][italian][living][move][brought][back][many][pleasant][movie][people][would][like][enjoy])
+v(0,1,7,9,11,13,14,15,16,17,20,24,25,26): 7.431940078735352	 ([growing][multi][grew][italian][living][move][brought][back][many][pleasant][people][seeing][true][life])
+v(2,3,4,5,6,8,10,12,18,19,21,22,23,27): 8.501328468322754	 ([racial][neighborhood][back][20's][30's,][close][families][there.][memories.][movie][would][like][enjoy][movies.])
+v(1,2,3,4,5,6,10,12,18,24,25,26,27): 8.184276580810547	 ([multi][racial][neighborhood][back][20's][30's,][families][there.][memories.][seeing][true][life][movies.])
+v(0,2,3,4,5,6,7,9,10,12,13,18,20,27): 6.2657246589660645	 ([growing][racial][neighborhood][back][20's][30's,][grew][italian][families][there.][move][memories.][people][movies.])
+v(1,6,8,10,12,19,21,22,23,24,25,26,27): 8.719554901123047	 ([multi][30's,][close][families][there.][movie][would][like][enjoy][seeing][true][life][movies.])
+v(0,6,7,8,9,10,12,13,19,20,21,22,23,27): 8.594539642333984	 ([growing][30's,][grew][close][italian][families][there.][move][movie][people][would][like][enjoy][movies.])
+v(0,1,6,7,9,10,12,13,20,24,25,26,27): 5.960115432739258	 ([growing][multi][30's,][grew][italian][families][there.][move][people][seeing][true][life][movies.])
+v(1,2,3,4,5,8,18,19,21,22,23,24,25,26): 8.847061157226562	 ([multi][racial][neighborhood][back][20's][close][memories.][movie][would][like][enjoy][seeing][true][life])
+v(0,2,3,4,5,7,8,9,13,18,19,20,21,22,23): 9.110518455505371	 ([growing][racial][neighborhood][back][20's][grew][close][italian][move][memories.][movie][people][would][like][enjoy])
+v(0,1,2,3,4,5,7,9,13,18,20,24,25,26): 6.500311374664307	 ([growing][multi][racial][neighborhood][back][20's][grew][italian][move][memories.][people][seeing][true][life])
+v(0,1,7,8,9,13,19,20,21,22,23,24,25,26): 9.080537796020508	 ([growing][multi][grew][close][italian][move][movie][people][would][like][enjoy][seeing][true][life])
+v(2,3,4,5,6,8,10,11,12,14,15,16,17,18,19,21,22,23,27): 7.754786014556885	 ([racial][neighborhood][back][20's][30's,][close][families][living][there.][brought][back][many][pleasant][memories.][movie][would][like][enjoy][movies.])
+v(1,2,3,4,5,6,10,11,12,14,15,16,17,18,24,25,26,27): 7.97589111328125	 ([multi][racial][neighborhood][back][20's][30's,][families][living][there.][brought][back][many][pleasant][memories.][seeing][true][life][movies.])
+v(0,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,20,27): 7.393717288970947	 ([growing][racial][neighborhood][back][20's][30's,][grew][italian][families][living][there.][move][brought][back][many][pleasant][memories.][people][movies.])
+v(1,6,8,10,11,12,14,15,16,17,19,21,22,23,24,25,26,27): 7.845922470092773	 ([multi][30's,][close][families][living][there.][brought][back][many][pleasant][movie][would][like][enjoy][seeing][true][life][movies.])
+v(0,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,27): 8.255046844482422	 ([growing][30's,][grew][close][italian][families][living][there.][move][brought][back][many][pleasant][movie][people][would][like][enjoy][movies.])
+v(0,1,6,7,9,10,11,12,13,14,15,16,17,20,24,25,26,27): 7.3599371910095215	 ([growing][multi][30's,][grew][italian][families][living][there.][move][brought][back][many][pleasant][people][seeing][true][life][movies.])
+v(1,2,3,4,5,8,11,14,15,16,17,18,19,21,22,23,24,25,26): 8.319129943847656	 ([multi][racial][neighborhood][back][20's][close][living][brought][back][many][pleasant][memories.][movie][would][like][enjoy][seeing][true][life])
+v(0,2,3,4,5,7,8,9,11,13,14,15,16,17,18,19,20,21,22,23): 8.142224311828613	 ([growing][racial][neighborhood][back][20's][grew][close][italian][living][move][brought][back][many][pleasant][memories.][movie][people][would][like][enjoy])
+v(0,1,2,3,4,5,7,9,11,13,14,15,16,17,18,20,24,25,26): 7.25114631652832	 ([growing][multi][racial][neighborhood][back][20's][grew][italian][living][move][brought][back][many][pleasant][memories.][people][seeing][true][life])
+v(0,1,7,8,9,11,13,14,15,16,17,19,20,21,22,23,24,25,26): 8.610086441040039	 ([growing][multi][grew][close][italian][living][move][brought][back][many][pleasant][movie][people][would][like][enjoy][seeing][true][life])
+v(1,2,3,4,5,6,8,10,12,18,19,21,22,23,24,25,26,27): 8.689312934875488	 ([multi][racial][neighborhood][back][20's][30's,][close][families][there.][memories.][movie][would][like][enjoy][seeing][true][life][movies.])
+v(0,2,3,4,5,6,7,8,9,10,12,13,18,19,20,21,22,23,27): 8.71058464050293	 ([growing][racial][neighborhood][back][20's][30's,][grew][close][italian][families][there.][move][memories.][movie][people][would][like][enjoy][movies.])
+v(0,1,2,3,4,5,6,7,9,10,12,13,18,20,24,25,26,27): 7.6377973556518555	 ([growing][multi][racial][neighborhood][back][20's][30's,][grew][italian][families][there.][move][memories.][people][seeing][true][life][movies.])
+v(0,1,6,7,8,9,10,12,13,19,20,21,22,23,24,25,26,27): 8.953446388244629	 ([growing][multi][30's,][grew][close][italian][families][there.][move][movie][people][would][like][enjoy][seeing][true][life][movies.])
+v(0,1,2,3,4,5,7,8,9,13,18,19,20,21,22,23,24,25,26): 9.073379516601562	 ([growing][multi][racial][neighborhood][back][20's][grew][close][italian][move][memories.][movie][people][would][like][enjoy][seeing][true][life])
+v(1,2,3,4,5,6,8,10,11,12,14,15,16,17,18,19,21,22,23,24,25,26,27): 7.951317310333252	 ([multi][racial][neighborhood][back][20's][30's,][close][families][living][there.][brought][back][many][pleasant][memories.][movie][would][like][enjoy][seeing][true][life][movies.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,27): 7.882226943969727	 ([growing][racial][neighborhood][back][20's][30's,][grew][close][italian][families][living][there.][move][brought][back][many][pleasant][memories.][movie][people][would][like][enjoy][movies.])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,20,24,25,26,27): 7.511857032775879	 ([growing][multi][racial][neighborhood][back][20's][30's,][grew][italian][families][living][there.][move][brought][back][many][pleasant][memories.][people][seeing][true][life][movies.])
+v(0,1,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27): 8.262897491455078	 ([growing][multi][30's,][grew][close][italian][families][living][there.][move][brought][back][many][pleasant][movie][people][would][like][enjoy][seeing][true][life][movies.])
+v(0,1,2,3,4,5,7,8,9,11,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.053231239318848	 ([growing][multi][racial][neighborhood][back][20's][grew][close][italian][living][move][brought][back][many][pleasant][memories.][movie][people][would][like][enjoy][seeing][true][life])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,18,19,20,21,22,23,24,25,26,27): 8.786394119262695	 ([growing][multi][racial][neighborhood][back][20's][30's,][grew][close][italian][families][there.][move][memories.][movie][people][would][like][enjoy][seeing][true][life][movies.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.168155670166016	 ([growing][multi][racial][neighborhood][back][20's][30's,][grew][close][italian][families][living][there.][move][brought][back][many][pleasant][memories.][movie][people][would][like][enjoy][seeing][true][life][movies.])
+---------- Rewards-v() ----------
+v(0,2,3,4,5,7,8,9,13,18,19,20,21,22,23): 9.147732734680176, EP: 1.1148470640182495	 ([growing][racial][neighborhood][back][20's][grew][close][italian][move][memories.][movie][people][would][like][enjoy])
+v(0,1,7,8,9,13,19,20,21,22,23,24,25,26): 9.117752075195312, EP: 1.111193299293518	 ([growing][multi][grew][close][italian][move][movie][people][would][like][enjoy][seeing][true][life])
+v(0,1,2,3,4,5,7,8,9,13,18,19,20,21,22,23,24,25,26): 9.110593795776367, EP: 1.1103209257125854	 ([growing][multi][racial][neighborhood][back][20's][grew][close][italian][move][memories.][movie][people][would][like][enjoy][seeing][true][life])
+v(0,1,6,7,8,9,10,12,13,19,20,21,22,23,24,25,26,27): 8.990660667419434, EP: 1.095704436302185	 ([growing][multi][30's,][grew][close][italian][families][there.][move][movie][people][would][like][enjoy][seeing][true][life][movies.])
+v(1,2,3,4,5,8,18,19,21,22,23,24,25,26): 8.884275436401367, EP: 1.0827391147613525	 ([multi][racial][neighborhood][back][20's][close][memories.][movie][would][like][enjoy][seeing][true][life])
+v(0,1,2,3,4,5,6,7,8,9,10,12,13,18,19,20,21,22,23,24,25,26,27): 8.8236083984375, EP: 1.0753456354141235	 ([growing][multi][racial][neighborhood][back][20's][30's,][grew][close][italian][families][there.][move][memories.][movie][people][would][like][enjoy][seeing][true][life][movies.])
+v(1,6,8,10,12,19,21,22,23,24,25,26,27): 8.756769180297852, EP: 1.0671998262405396	 ([multi][30's,][close][families][there.][movie][would][like][enjoy][seeing][true][life][movies.])
+v(0,2,3,4,5,6,7,8,9,10,12,13,18,19,20,21,22,23,27): 8.747798919677734, EP: 1.0661065578460693	 ([growing][racial][neighborhood][back][20's][30's,][grew][close][italian][families][there.][move][memories.][movie][people][would][like][enjoy][movies.])
+v(0,7,8,9,11,13,14,15,16,17,19,20,21,22,23): 8.731943130493164, EP: 1.0641741752624512	 ([growing][grew][close][italian][living][move][brought][back][many][pleasant][movie][people][would][like][enjoy])
+v(1,2,3,4,5,6,8,10,12,18,19,21,22,23,24,25,26,27): 8.726527214050293, EP: 1.0635141134262085	 ([multi][racial][neighborhood][back][20's][30's,][close][families][there.][memories.][movie][would][like][enjoy][seeing][true][life][movies.])
+v(2,3,4,5,8,18,19,21,22,23): 8.708860397338867, EP: 1.0613610744476318	 ([racial][neighborhood][back][20's][close][memories.][movie][would][like][enjoy])
+v(1,8,19,21,22,23,24,25,26): 8.656871795654297, EP: 1.0550252199172974	 ([multi][close][movie][would][like][enjoy][seeing][true][life])
+v(0,1,7,8,9,11,13,14,15,16,17,19,20,21,22,23,24,25,26): 8.647300720214844, EP: 1.053858757019043	 ([growing][multi][grew][close][italian][living][move][brought][back][many][pleasant][movie][people][would][like][enjoy][seeing][true][life])
+v(0,6,7,8,9,10,12,13,19,20,21,22,23,27): 8.631753921508789, EP: 1.0519640445709229	 ([growing][30's,][grew][close][italian][families][there.][move][movie][people][would][like][enjoy][movies.])
+v(1,8,11,14,15,16,17,19,21,22,23,24,25,26): 8.626729011535645, EP: 1.0513516664505005	 ([multi][close][living][brought][back][many][pleasant][movie][would][like][enjoy][seeing][true][life])
+v(8,11,14,15,16,17,19,21,22,23): 8.596662521362305, EP: 1.0476874113082886	 ([close][living][brought][back][many][pleasant][movie][would][like][enjoy])
+v(0,7,8,9,13,19,20,21,22,23): 8.540210723876953, EP: 1.0408074855804443	 ([growing][grew][close][italian][move][movie][people][would][like][enjoy])
+v(2,3,4,5,6,8,10,12,18,19,21,22,23,27): 8.538542747497559, EP: 1.0406042337417603	 ([racial][neighborhood][back][20's][30's,][close][families][there.][memories.][movie][would][like][enjoy][movies.])
+v(6,8,10,12,19,21,22,23,27): 8.435211181640625, EP: 1.0280110836029053	 ([30's,][close][families][there.][movie][would][like][enjoy][movies.])
+v(2,3,4,5,8,11,14,15,16,17,18,19,21,22,23): 8.40498161315918, EP: 1.0243269205093384	 ([racial][neighborhood][back][20's][close][living][brought][back][many][pleasant][memories.][movie][would][like][enjoy])
+v(1,2,3,4,5,8,11,14,15,16,17,18,19,21,22,23,24,25,26): 8.356344223022461, EP: 1.0183994770050049	 ([multi][racial][neighborhood][back][20's][close][living][brought][back][many][pleasant][memories.][movie][would][like][enjoy][seeing][true][life])
+v(2,3,4,5,11,14,15,16,17,18): 8.305030822753906, EP: 1.012145757675171	 ([racial][neighborhood][back][20's][living][brought][back][many][pleasant][memories.])
+v(0,1,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27): 8.300111770629883, EP: 1.0115463733673096	 ([growing][multi][30's,][grew][close][italian][families][living][there.][move][brought][back][many][pleasant][movie][people][would][like][enjoy][seeing][true][life][movies.])
+v(0,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,27): 8.292261123657227, EP: 1.010589599609375	 ([growing][30's,][grew][close][italian][families][living][there.][move][brought][back][many][pleasant][movie][people][would][like][enjoy][movies.])
+v(1,2,3,4,5,6,10,12,18,24,25,26,27): 8.221490859985352, EP: 1.0019646883010864	 ([multi][racial][neighborhood][back][20's][30's,][families][there.][memories.][seeing][true][life][movies.])
+v(1,2,3,4,5,11,14,15,16,17,18,24,25,26): 8.217576026916504, EP: 1.0014876127243042	 ([multi][racial][neighborhood][back][20's][living][brought][back][many][pleasant][memories.][seeing][true][life])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.20536994934082, EP: 1.0	 ([growing][multi][racial][neighborhood][back][20's][30's,][grew][close][italian][families][living][there.][move][brought][back][many][pleasant][memories.][movie][people][would][like][enjoy][seeing][true][life][movies.])
+v(0,2,3,4,5,7,8,9,11,13,14,15,16,17,18,19,20,21,22,23): 8.179438591003418, EP: 0.996839702129364	 ([growing][racial][neighborhood][back][20's][grew][close][italian][living][move][brought][back][many][pleasant][memories.][movie][people][would][like][enjoy])
+v(0,1,2,3,4,5,7,8,9,11,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.090445518493652, EP: 0.9859939813613892	 ([growing][multi][racial][neighborhood][back][20's][grew][close][italian][living][move][brought][back][many][pleasant][memories.][movie][people][would][like][enjoy][seeing][true][life])
+v(1,2,3,4,5,6,10,11,12,14,15,16,17,18,24,25,26,27): 8.013105392456055, EP: 0.9765684604644775	 ([multi][racial][neighborhood][back][20's][30's,][families][living][there.][brought][back][many][pleasant][memories.][seeing][true][life][movies.])
+v(1,2,3,4,5,6,8,10,11,12,14,15,16,17,18,19,21,22,23,24,25,26,27): 7.988531589508057, EP: 0.973573625087738	 ([multi][racial][neighborhood][back][20's][30's,][close][families][living][there.][brought][back][many][pleasant][memories.][movie][would][like][enjoy][seeing][true][life][movies.])
+v(8,19,21,22,23): 7.985387802124023, EP: 0.9731904864311218	 ([close][movie][would][like][enjoy])
+v(1,6,10,11,12,14,15,16,17,24,25,26,27): 7.983153820037842, EP: 0.9729182124137878	 ([multi][30's,][families][living][there.][brought][back][many][pleasant][seeing][true][life][movies.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,27): 7.919441223144531, EP: 0.9651534557342529	 ([growing][racial][neighborhood][back][20's][30's,][grew][close][italian][families][living][there.][move][brought][back][many][pleasant][memories.][movie][people][would][like][enjoy][movies.])
+v(1,6,8,10,11,12,14,15,16,17,19,21,22,23,24,25,26,27): 7.883136749267578, EP: 0.9607290029525757	 ([multi][30's,][close][families][living][there.][brought][back][many][pleasant][movie][would][like][enjoy][seeing][true][life][movies.])
+v(2,3,4,5,6,10,11,12,14,15,16,17,18,27): 7.874150276184082, EP: 0.9596337676048279	 ([racial][neighborhood][back][20's][30's,][families][living][there.][brought][back][many][pleasant][memories.][movies.])
+v(2,3,4,5,6,8,10,11,12,14,15,16,17,18,19,21,22,23,27): 7.7920002937316895, EP: 0.9496220350265503	 ([racial][neighborhood][back][20's][30's,][close][families][living][there.][brought][back][many][pleasant][memories.][movie][would][like][enjoy][movies.])
+v(6,8,10,11,12,14,15,16,17,19,21,22,23,27): 7.702239036560059, EP: 0.9386827349662781	 ([30's,][close][families][living][there.][brought][back][many][pleasant][movie][would][like][enjoy][movies.])
+v(0,1,2,3,4,5,6,7,9,10,12,13,18,20,24,25,26,27): 7.67501163482666, EP: 0.9353644847869873	 ([growing][multi][racial][neighborhood][back][20's][30's,][grew][italian][families][there.][move][memories.][people][seeing][true][life][movies.])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,20,24,25,26,27): 7.549071311950684, EP: 0.9200159311294556	 ([growing][multi][racial][neighborhood][back][20's][30's,][grew][italian][families][living][there.][move][brought][back][many][pleasant][memories.][people][seeing][true][life][movies.])
+v(0,2,3,4,5,7,9,11,13,14,15,16,17,18,20): 7.511552333831787, EP: 0.915443480014801	 ([growing][racial][neighborhood][back][20's][grew][italian][living][move][brought][back][many][pleasant][memories.][people])
+v(6,10,11,12,14,15,16,17,27): 7.46971321105957, EP: 0.9103444814682007	 ([30's,][families][living][there.][brought][back][many][pleasant][movies.])
+v(0,1,7,9,11,13,14,15,16,17,20,24,25,26): 7.469154357910156, EP: 0.9102763533592224	 ([growing][multi][grew][italian][living][move][brought][back][many][pleasant][people][seeing][true][life])
+v(0,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,20,27): 7.430931568145752, EP: 0.9056181311607361	 ([growing][racial][neighborhood][back][20's][30's,][grew][italian][families][living][there.][move][brought][back][many][pleasant][memories.][people][movies.])
+v(0,1,6,7,9,10,11,12,13,14,15,16,17,20,24,25,26,27): 7.397151470184326, EP: 0.9015012979507446	 ([growing][multi][30's,][grew][italian][families][living][there.][move][brought][back][many][pleasant][people][seeing][true][life][movies.])
+v(0,1,2,3,4,5,7,9,11,13,14,15,16,17,18,20,24,25,26): 7.288360595703125, EP: 0.888242781162262	 ([growing][multi][racial][neighborhood][back][20's][grew][italian][living][move][brought][back][many][pleasant][memories.][people][seeing][true][life])
+v(1,11,14,15,16,17,24,25,26): 7.277362823486328, EP: 0.8869024515151978	 ([multi][living][brought][back][many][pleasant][seeing][true][life])
+v(1,6,10,12,24,25,26,27): 7.230153560638428, EP: 0.8811489939689636	 ([multi][30's,][families][there.][seeing][true][life][movies.])
+v(0,7,9,11,13,14,15,16,17,20): 7.030789852142334, EP: 0.8568522930145264	 ([growing][grew][italian][living][move][brought][back][many][pleasant][people])
+v(1,2,3,4,5,18,24,25,26): 6.817479610443115, EP: 0.8308558464050293	 ([multi][racial][neighborhood][back][20's][memories.][seeing][true][life])
+v(0,6,7,9,10,11,12,13,14,15,16,17,20,27): 6.731687068939209, EP: 0.8204001784324646	 ([growing][30's,][grew][italian][families][living][there.][move][brought][back][many][pleasant][people][movies.])
+v(2,3,4,5,6,10,12,18,27): 6.596306800842285, EP: 0.803901195526123	 ([racial][neighborhood][back][20's][30's,][families][there.][memories.][movies.])
+v(0,1,2,3,4,5,7,9,13,18,20,24,25,26): 6.537525653839111, EP: 0.7967374920845032	 ([growing][multi][racial][neighborhood][back][20's][grew][italian][move][memories.][people][seeing][true][life])
+v(0,2,3,4,5,6,7,9,10,12,13,18,20,27): 6.302938938140869, EP: 0.7681480646133423	 ([growing][racial][neighborhood][back][20's][30's,][grew][italian][families][there.][move][memories.][people][movies.])
+v(0,1,6,7,9,10,12,13,20,24,25,26,27): 5.9973297119140625, EP: 0.7309030294418335	 ([growing][multi][30's,][grew][italian][families][there.][move][people][seeing][true][life][movies.])
+v(0,2,3,4,5,7,9,13,18,20): 5.629002571105957, EP: 0.6860144734382629	 ([growing][racial][neighborhood][back][20's][grew][italian][move][memories.][people])
+v(11,14,15,16,17): 5.46146297454834, EP: 0.6655961871147156	 ([living][brought][back][many][pleasant])
+v(2,3,4,5,18): 4.351314544677734, EP: 0.5303008556365967	 ([racial][neighborhood][back][20's][memories.])
+v(0,1,7,9,13,20,24,25,26): 3.6561596393585205, EP: 0.445581316947937	 ([growing][multi][grew][italian][move][people][seeing][true][life])
+v(1,24,25,26): 3.376802682876587, EP: 0.41153571009635925	 ([multi][seeing][true][life])
+v(6,10,12,27): 2.56388258934021, EP: 0.31246399879455566	 ([30's,][families][there.][movies.])
+v(0,6,7,9,10,12,13,20,27): 1.9596166610717773, EP: 0.23882123827934265	 ([growing][30's,][grew][italian][families][there.][move][people][movies.])
+v(0,7,9,13,20): 1.4175574779510498, EP: 0.17275972664356232	 ([growing][grew][italian][move][people])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['56', '45', '46', '49', '47', '48', '50', '44']: ['quotes', 'films', 'do.', 'excitement', 'film', 'captures', 'makes', 'three']: 平均边权 0.9218
+社区 2: ['2', '27', '19', '1', '25', '15', '23', '22', '33', '24', '26']: ['harry', 'magnum', 'disagree.', 'dirty', 'sudden', 'enforcer', 'dirty', 'original', 'enforcer', 'harry,', 'impact']: 平均边权 0.8668
+社区 3: ['12', '0', '10', '13', '18', '11', '3', '9', '14', '54', '7']: ['good.', 'movie', 'know', 'although', 'completely', 'got', 'movie', 'well,', 'say', 'good,', 'produces']: 平均边权 0.7248
+社区 4: ['55', '41', '42', '43', '40']: ['got', 'dirty', 'gritty', 'impact', 'get']: 平均边权 1.1580
+社区 5: ['51', '5', '52']: ['clint', 'eastwood', 'eastwood']: 平均边权 1.1635
+社区 6: ['4', '8', '53', '35', '6']: ['clint', 'directs', 'film', 'film', 'stars,']: 平均边权 0.8164
+社区 7: ['39', '38', '37', '36', '32', '34']: ['sequences,', 'action', 'good', 'couple', 'although', 'alright']: 平均边权 0.4265
+社区 8: ['20', '29', '21', '30', '16', '17', '28', '31']: ['opinion,', 'two', 'apart', 'worthy', 'best', 'series,', 'force', 'series.']: 平均边权 0.3117

@@ -1,0 +1,90 @@
+---------- Players ----------
+Player 0: know
+Player 1: movies
+Player 2: actors
+Player 3: good
+Player 4: cannot
+Player 5: save
+Player 6: movie.
+Player 7: waste
+Player 8: time.
+Player 9: premise
+Player 10: bad.
+Player 11: one
+Player 12: workable
+Player 13: idea
+Player 14: ( interaction
+Player 15: real
+Player 16: bussinessmen
+Player 17: russian
+Player 18: mafia )
+Player 19: followed
+Player 20: intelligent
+Player 21: script
+---------- Rewards ----------
+v(): 0.20750416815280914	 ([])
+v(5,6,7): 4.244539737701416	 ([save][movie.][waste])
+v(4,14,17,20): -1.0860114097595215	 ([cannot][( interaction][russian][intelligent])
+v(0,8): -1.433240532875061	 ([know][time.])
+v(1,2,3): 2.8144917488098145	 ([movies][actors][good])
+v(9,10,11,12,13,15,16,18,19,21): 2.804096221923828	 ([premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(4,5,6,7,14,17,20): 5.509902000427246	 ([cannot][save][movie.][waste][( interaction][russian][intelligent])
+v(0,5,6,7,8): 6.708896636962891	 ([know][save][movie.][waste][time.])
+v(1,2,3,5,6,7): 6.043553352355957	 ([movies][actors][good][save][movie.][waste])
+v(5,6,7,9,10,11,12,13,15,16,18,19,21): 7.2421793937683105	 ([save][movie.][waste][premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(0,4,8,14,17,20): -2.189514636993408	 ([know][cannot][time.][( interaction][russian][intelligent])
+v(1,2,3,4,14,17,20): 3.5518131256103516	 ([movies][actors][good][cannot][( interaction][russian][intelligent])
+v(4,9,10,11,12,13,14,15,16,17,18,19,20,21): -0.033470287919044495	 ([cannot][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(0,1,2,3,8): 2.4590957164764404	 ([know][movies][actors][good][time.])
+v(0,8,9,10,11,12,13,15,16,18,19,21): 1.7521212100982666	 ([know][time.][premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(1,2,3,9,10,11,12,13,15,16,18,19,21): 5.798987865447998	 ([movies][actors][good][premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(0,4,5,6,7,8,14,17,20): 7.365461349487305	 ([know][cannot][save][movie.][waste][time.][( interaction][russian][intelligent])
+v(1,2,3,4,5,6,7,14,17,20): 7.26081657409668	 ([movies][actors][good][cannot][save][movie.][waste][( interaction][russian][intelligent])
+v(4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21): 7.282311916351318	 ([cannot][save][movie.][waste][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(0,1,2,3,5,6,7,8): 7.847309589385986	 ([know][movies][actors][good][save][movie.][waste][time.])
+v(0,5,6,7,8,9,10,11,12,13,15,16,18,19,21): 7.916698932647705	 ([know][save][movie.][waste][time.][premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(1,2,3,5,6,7,9,10,11,12,13,15,16,18,19,21): 7.471221923828125	 ([movies][actors][good][save][movie.][waste][premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(0,1,2,3,4,8,14,17,20): 5.740012168884277	 ([know][movies][actors][good][cannot][time.][( interaction][russian][intelligent])
+v(0,4,8,9,10,11,12,13,14,15,16,17,18,19,20,21): -0.21905933320522308	 ([know][cannot][time.][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(1,2,3,4,9,10,11,12,13,14,15,16,17,18,19,20,21): -1.8775010108947754	 ([movies][actors][good][cannot][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(0,1,2,3,8,9,10,11,12,13,15,16,18,19,21): 6.393040180206299	 ([know][movies][actors][good][time.][premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(0,1,2,3,4,5,6,7,8,14,17,20): 8.303677558898926	 ([know][movies][actors][good][cannot][save][movie.][waste][time.][( interaction][russian][intelligent])
+v(0,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 8.111526489257812	 ([know][cannot][save][movie.][waste][time.][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21): 6.578100681304932	 ([movies][actors][good][cannot][save][movie.][waste][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(0,1,2,3,5,6,7,8,9,10,11,12,13,15,16,18,19,21): 8.193004608154297	 ([know][movies][actors][good][save][movie.][waste][time.][premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(0,1,2,3,4,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 0.3948874771595001	 ([know][movies][actors][good][cannot][time.][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 8.393580436706543	 ([know][movies][actors][good][cannot][save][movie.][waste][time.][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 8.186076164245605, EP: 1.0	 ([know][movies][actors][good][cannot][save][movie.][waste][time.][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(0,1,2,3,4,5,6,7,8,14,17,20): 8.096173286437988, EP: 0.9890176057815552	 ([know][movies][actors][good][cannot][save][movie.][waste][time.][( interaction][russian][intelligent])
+v(0,1,2,3,5,6,7,8,9,10,11,12,13,15,16,18,19,21): 7.985500335693359, EP: 0.9754979014396667	 ([know][movies][actors][good][save][movie.][waste][time.][premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(0,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 7.904022216796875, EP: 0.9655447006225586	 ([know][cannot][save][movie.][waste][time.][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(0,5,6,7,8,9,10,11,12,13,15,16,18,19,21): 7.709194660186768, EP: 0.9417448043823242	 ([know][save][movie.][waste][time.][premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(0,1,2,3,5,6,7,8): 7.639805316925049, EP: 0.9332683086395264	 ([know][movies][actors][good][save][movie.][waste][time.])
+v(1,2,3,5,6,7,9,10,11,12,13,15,16,18,19,21): 7.2637176513671875, EP: 0.8873259425163269	 ([movies][actors][good][save][movie.][waste][premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(0,4,5,6,7,8,14,17,20): 7.157957077026367, EP: 0.8744063377380371	 ([know][cannot][save][movie.][waste][time.][( interaction][russian][intelligent])
+v(4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21): 7.074807643890381, EP: 0.8642489314079285	 ([cannot][save][movie.][waste][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(1,2,3,4,5,6,7,14,17,20): 7.053312301635742, EP: 0.8616231083869934	 ([movies][actors][good][cannot][save][movie.][waste][( interaction][russian][intelligent])
+v(5,6,7,9,10,11,12,13,15,16,18,19,21): 7.034675121307373, EP: 0.8593463897705078	 ([save][movie.][waste][premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(0,5,6,7,8): 6.501392364501953, EP: 0.7942013144493103	 ([know][save][movie.][waste][time.])
+v(1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21): 6.370596408843994, EP: 0.77822345495224	 ([movies][actors][good][cannot][save][movie.][waste][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(0,1,2,3,8,9,10,11,12,13,15,16,18,19,21): 6.185535907745361, EP: 0.7556167244911194	 ([know][movies][actors][good][time.][premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(1,2,3,5,6,7): 5.8360490798950195, EP: 0.7129238843917847	 ([movies][actors][good][save][movie.][waste])
+v(1,2,3,9,10,11,12,13,15,16,18,19,21): 5.5914835929870605, EP: 0.6830480694770813	 ([movies][actors][good][premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(0,1,2,3,4,8,14,17,20): 5.53250789642334, EP: 0.6758437156677246	 ([know][movies][actors][good][cannot][time.][( interaction][russian][intelligent])
+v(4,5,6,7,14,17,20): 5.302397727966309, EP: 0.647733747959137	 ([cannot][save][movie.][waste][( interaction][russian][intelligent])
+v(5,6,7): 4.0370354652404785, EP: 0.4931587874889374	 ([save][movie.][waste])
+v(1,2,3,4,14,17,20): 3.344308853149414, EP: 0.40853625535964966	 ([movies][actors][good][cannot][( interaction][russian][intelligent])
+v(1,2,3): 2.606987476348877, EP: 0.31846606731414795	 ([movies][actors][good])
+v(9,10,11,12,13,15,16,18,19,21): 2.5965919494628906, EP: 0.31719616055488586	 ([premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(0,4,8,14,17,20): -2.3970189094543457, EP: -0.2928165793418884	 ([know][cannot][time.][( interaction][russian][intelligent])
+v(0,1,2,3,8): 2.251591444015503, EP: 0.2750513553619385	 ([know][movies][actors][good][time.])
+v(1,2,3,4,9,10,11,12,13,14,15,16,17,18,19,20,21): -2.085005283355713, EP: -0.2547014355659485	 ([movies][actors][good][cannot][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(0,8): -1.640744686126709, EP: -0.20043115317821503	 ([know][time.])
+v(0,8,9,10,11,12,13,15,16,18,19,21): 1.5446170568466187, EP: 0.18868833780288696	 ([know][time.][premise][bad.][one][workable][idea][real][bussinessmen][mafia )][followed][script])
+v(4,14,17,20): -1.2935155630111694, EP: -0.15801411867141724	 ([cannot][( interaction][russian][intelligent])
+v(0,4,8,9,10,11,12,13,14,15,16,17,18,19,20,21): -0.4265635013580322, EP: -0.05210842192173004	 ([know][cannot][time.][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(4,9,10,11,12,13,14,15,16,17,18,19,20,21): -0.24097445607185364, EP: -0.0294371135532856	 ([cannot][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(0,1,2,3,4,8,9,10,11,12,13,14,15,16,17,18,19,20,21): 0.18738330900669098, EP: 0.022890491411089897	 ([know][movies][actors][good][cannot][time.][premise][bad.][one][workable][idea][( interaction][real][bussinessmen][russian][mafia )][followed][intelligent][script])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

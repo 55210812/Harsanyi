@@ -1,0 +1,101 @@
+---------- Players ----------
+Player 0: movie
+Player 1: sort
+Player 2: carrie
+Player 3: meets
+Player 4: heavy
+Player 5: metal.
+Player 6: highschool
+Player 7: guy
+Player 8: gets
+Player 9: picked
+Player 10: alot
+Player 11: totally
+Player 12: gets
+Player 13: revenge
+Player 14: help
+Player 15: heavy
+Player 16: metal
+Player 17: ghost.
+Player 18: classic.
+Player 19: soundtrack
+Player 20: .
+Player 21: got
+Player 22: living
+Player 23: legends
+Player 24: metal
+Player 25: it.
+Player 26: marc
+Player 27: price
+Player 28: great
+Player 29: film.
+Player 30: must
+Player 31: metal
+Player 32: fans.
+---------- Rewards ----------
+v(): 3.839153289794922	 ([])
+v(17,21,22,25,26,27,29,31): 2.6365630626678467	 ([ghost.][got][living][it.][marc][price][film.][metal])
+v(10,11,20): 2.9242913722991943	 ([alot][totally][.])
+v(0,1,2,5,12,16,18,19,24,32): 5.861591339111328	 ([movie][sort][carrie][metal.][gets][metal][classic.][soundtrack][metal][fans.])
+v(3,4,13,14,15,23,28,30): 7.37237548828125	 ([meets][heavy][revenge][help][heavy][legends][great][must])
+v(6,7,8,9): 2.773122787475586	 ([highschool][guy][gets][picked])
+v(10,11,17,20,21,22,25,26,27,29,31): 1.121279239654541	 ([alot][totally][ghost.][.][got][living][it.][marc][price][film.][metal])
+v(0,1,2,5,12,16,17,18,19,21,22,24,25,26,27,29,31,32): 6.482510089874268	 ([movie][sort][carrie][metal.][gets][metal][ghost.][classic.][soundtrack][got][living][metal][it.][marc][price][film.][metal][fans.])
+v(3,4,13,14,15,17,21,22,23,25,26,27,28,29,30,31): 7.4819793701171875	 ([meets][heavy][revenge][help][heavy][ghost.][got][living][legends][it.][marc][price][great][film.][must][metal])
+v(6,7,8,9,17,21,22,25,26,27,29,31): 1.7005916833877563	 ([highschool][guy][gets][picked][ghost.][got][living][it.][marc][price][film.][metal])
+v(0,1,2,5,10,11,12,16,18,19,20,24,32): 5.668666839599609	 ([movie][sort][carrie][metal.][alot][totally][gets][metal][classic.][soundtrack][.][metal][fans.])
+v(3,4,10,11,13,14,15,20,23,28,30): 7.523066520690918	 ([meets][heavy][alot][totally][revenge][help][heavy][.][legends][great][must])
+v(6,7,8,9,10,11,20): 1.817447543144226	 ([highschool][guy][gets][picked][alot][totally][.])
+v(0,1,2,3,4,5,12,13,14,15,16,18,19,23,24,28,30,32): 6.404552936553955	 ([movie][sort][carrie][meets][heavy][metal.][gets][revenge][help][heavy][metal][classic.][soundtrack][legends][metal][great][must][fans.])
+v(0,1,2,5,6,7,8,9,12,16,18,19,24,32): 5.9010844230651855	 ([movie][sort][carrie][metal.][highschool][guy][gets][picked][gets][metal][classic.][soundtrack][metal][fans.])
+v(3,4,6,7,8,9,13,14,15,23,28,30): 7.267613887786865	 ([meets][heavy][highschool][guy][gets][picked][revenge][help][heavy][legends][great][must])
+v(0,1,2,5,10,11,12,16,17,18,19,20,21,22,24,25,26,27,29,31,32): 6.314499855041504	 ([movie][sort][carrie][metal.][alot][totally][gets][metal][ghost.][classic.][soundtrack][.][got][living][metal][it.][marc][price][film.][metal][fans.])
+v(3,4,10,11,13,14,15,17,20,21,22,23,25,26,27,28,29,30,31): 7.53676176071167	 ([meets][heavy][alot][totally][revenge][help][heavy][ghost.][.][got][living][legends][it.][marc][price][great][film.][must][metal])
+v(6,7,8,9,10,11,17,20,21,22,25,26,27,29,31): 0.5907820463180542	 ([highschool][guy][gets][picked][alot][totally][ghost.][.][got][living][it.][marc][price][film.][metal])
+v(0,1,2,3,4,5,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31,32): 6.865835666656494	 ([movie][sort][carrie][meets][heavy][metal.][gets][revenge][help][heavy][metal][ghost.][classic.][soundtrack][got][living][legends][metal][it.][marc][price][great][film.][must][metal][fans.])
+v(0,1,2,5,6,7,8,9,12,16,17,18,19,21,22,24,25,26,27,29,31,32): 6.394378185272217	 ([movie][sort][carrie][metal.][highschool][guy][gets][picked][gets][metal][ghost.][classic.][soundtrack][got][living][metal][it.][marc][price][film.][metal][fans.])
+v(3,4,6,7,8,9,13,14,15,17,21,22,23,25,26,27,28,29,30,31): 7.386162757873535	 ([meets][heavy][highschool][guy][gets][picked][revenge][help][heavy][ghost.][got][living][legends][it.][marc][price][great][film.][must][metal])
+v(0,1,2,3,4,5,10,11,12,13,14,15,16,18,19,20,23,24,28,30,32): 6.491375923156738	 ([movie][sort][carrie][meets][heavy][metal.][alot][totally][gets][revenge][help][heavy][metal][classic.][soundtrack][.][legends][metal][great][must][fans.])
+v(0,1,2,5,6,7,8,9,10,11,12,16,18,19,20,24,32): 5.4968061447143555	 ([movie][sort][carrie][metal.][highschool][guy][gets][picked][alot][totally][gets][metal][classic.][soundtrack][.][metal][fans.])
+v(3,4,6,7,8,9,10,11,13,14,15,20,23,28,30): 7.292685508728027	 ([meets][heavy][highschool][guy][gets][picked][alot][totally][revenge][help][heavy][.][legends][great][must])
+v(0,1,2,3,4,5,6,7,8,9,12,13,14,15,16,18,19,23,24,28,30,32): 6.438680648803711	 ([movie][sort][carrie][meets][heavy][metal.][highschool][guy][gets][picked][gets][revenge][help][heavy][metal][classic.][soundtrack][legends][metal][great][must][fans.])
+v(0,1,2,3,4,5,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 6.75414514541626	 ([movie][sort][carrie][meets][heavy][metal.][alot][totally][gets][revenge][help][heavy][metal][ghost.][classic.][soundtrack][.][got][living][legends][metal][it.][marc][price][great][film.][must][metal][fans.])
+v(0,1,2,5,6,7,8,9,10,11,12,16,17,18,19,20,21,22,24,25,26,27,29,31,32): 6.276473045349121	 ([movie][sort][carrie][metal.][highschool][guy][gets][picked][alot][totally][gets][metal][ghost.][classic.][soundtrack][.][got][living][metal][it.][marc][price][film.][metal][fans.])
+v(3,4,6,7,8,9,10,11,13,14,15,17,20,21,22,23,25,26,27,28,29,30,31): 7.432203769683838	 ([meets][heavy][highschool][guy][gets][picked][alot][totally][revenge][help][heavy][ghost.][.][got][living][legends][it.][marc][price][great][film.][must][metal])
+v(0,1,2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31,32): 6.95390510559082	 ([movie][sort][carrie][meets][heavy][metal.][highschool][guy][gets][picked][gets][revenge][help][heavy][metal][ghost.][classic.][soundtrack][got][living][legends][metal][it.][marc][price][great][film.][must][metal][fans.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,20,23,24,28,30,32): 6.404507637023926	 ([movie][sort][carrie][meets][heavy][metal.][highschool][guy][gets][picked][alot][totally][gets][revenge][help][heavy][metal][classic.][soundtrack][.][legends][metal][great][must][fans.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 6.746306896209717	 ([movie][sort][carrie][meets][heavy][metal.][highschool][guy][gets][picked][alot][totally][gets][revenge][help][heavy][metal][ghost.][classic.][soundtrack][.][got][living][legends][metal][it.][marc][price][great][film.][must][metal][fans.])
+---------- Rewards-v() ----------
+v(3,4,10,11,13,14,15,17,20,21,22,23,25,26,27,28,29,30,31): 3.697608470916748, EP: 1.271899938583374	 ([meets][heavy][alot][totally][revenge][help][heavy][ghost.][.][got][living][legends][it.][marc][price][great][film.][must][metal])
+v(3,4,10,11,13,14,15,20,23,28,30): 3.683913230895996, EP: 1.2671890258789062	 ([meets][heavy][alot][totally][revenge][help][heavy][.][legends][great][must])
+v(3,4,13,14,15,17,21,22,23,25,26,27,28,29,30,31): 3.6428260803222656, EP: 1.2530559301376343	 ([meets][heavy][revenge][help][heavy][ghost.][got][living][legends][it.][marc][price][great][film.][must][metal])
+v(3,4,6,7,8,9,10,11,13,14,15,17,20,21,22,23,25,26,27,28,29,30,31): 3.593050479888916, EP: 1.2359341382980347	 ([meets][heavy][highschool][guy][gets][picked][alot][totally][revenge][help][heavy][ghost.][.][got][living][legends][it.][marc][price][great][film.][must][metal])
+v(3,4,6,7,8,9,13,14,15,17,21,22,23,25,26,27,28,29,30,31): 3.5470094680786133, EP: 1.2200970649719238	 ([meets][heavy][highschool][guy][gets][picked][revenge][help][heavy][ghost.][got][living][legends][it.][marc][price][great][film.][must][metal])
+v(3,4,13,14,15,23,28,30): 3.533222198486328, EP: 1.2153544425964355	 ([meets][heavy][revenge][help][heavy][legends][great][must])
+v(3,4,6,7,8,9,10,11,13,14,15,20,23,28,30): 3.4535322189331055, EP: 1.1879428625106812	 ([meets][heavy][highschool][guy][gets][picked][alot][totally][revenge][help][heavy][.][legends][great][must])
+v(3,4,6,7,8,9,13,14,15,23,28,30): 3.4284605979919434, EP: 1.1793186664581299	 ([meets][heavy][highschool][guy][gets][picked][revenge][help][heavy][legends][great][must])
+v(6,7,8,9,10,11,17,20,21,22,25,26,27,29,31): -3.248371124267578, EP: -1.117371678352356	 ([highschool][guy][gets][picked][alot][totally][ghost.][.][got][living][it.][marc][price][film.][metal])
+v(0,1,2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31,32): 3.1147518157958984, EP: 1.0714094638824463	 ([movie][sort][carrie][meets][heavy][metal.][highschool][guy][gets][picked][gets][revenge][help][heavy][metal][ghost.][classic.][soundtrack][got][living][legends][metal][it.][marc][price][great][film.][must][metal][fans.])
+v(0,1,2,3,4,5,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28,29,30,31,32): 3.0266823768615723, EP: 1.041115403175354	 ([movie][sort][carrie][meets][heavy][metal.][gets][revenge][help][heavy][metal][ghost.][classic.][soundtrack][got][living][legends][metal][it.][marc][price][great][film.][must][metal][fans.])
+v(0,1,2,3,4,5,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 2.914991855621338, EP: 1.00269615650177	 ([movie][sort][carrie][meets][heavy][metal.][alot][totally][gets][revenge][help][heavy][metal][ghost.][classic.][soundtrack][.][got][living][legends][metal][it.][marc][price][great][film.][must][metal][fans.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32): 2.907153606414795, EP: 1.0	 ([movie][sort][carrie][meets][heavy][metal.][highschool][guy][gets][picked][alot][totally][gets][revenge][help][heavy][metal][ghost.][classic.][soundtrack][.][got][living][legends][metal][it.][marc][price][great][film.][must][metal][fans.])
+v(10,11,17,20,21,22,25,26,27,29,31): -2.717874050140381, EP: -0.9348918199539185	 ([alot][totally][ghost.][.][got][living][it.][marc][price][film.][metal])
+v(0,1,2,3,4,5,10,11,12,13,14,15,16,18,19,20,23,24,28,30,32): 2.6522226333618164, EP: 0.9123091101646423	 ([movie][sort][carrie][meets][heavy][metal.][alot][totally][gets][revenge][help][heavy][metal][classic.][soundtrack][.][legends][metal][great][must][fans.])
+v(0,1,2,5,12,16,17,18,19,21,22,24,25,26,27,29,31,32): 2.6433568000793457, EP: 0.9092594385147095	 ([movie][sort][carrie][metal.][gets][metal][ghost.][classic.][soundtrack][got][living][metal][it.][marc][price][film.][metal][fans.])
+v(0,1,2,3,4,5,6,7,8,9,12,13,14,15,16,18,19,23,24,28,30,32): 2.599527359008789, EP: 0.8941829800605774	 ([movie][sort][carrie][meets][heavy][metal.][highschool][guy][gets][picked][gets][revenge][help][heavy][metal][classic.][soundtrack][legends][metal][great][must][fans.])
+v(0,1,2,3,4,5,12,13,14,15,16,18,19,23,24,28,30,32): 2.565399646759033, EP: 0.8824437856674194	 ([movie][sort][carrie][meets][heavy][metal.][gets][revenge][help][heavy][metal][classic.][soundtrack][legends][metal][great][must][fans.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,20,23,24,28,30,32): 2.565354347229004, EP: 0.8824282288551331	 ([movie][sort][carrie][meets][heavy][metal.][highschool][guy][gets][picked][alot][totally][gets][revenge][help][heavy][metal][classic.][soundtrack][.][legends][metal][great][must][fans.])
+v(0,1,2,5,6,7,8,9,12,16,17,18,19,21,22,24,25,26,27,29,31,32): 2.555224895477295, EP: 0.8789438605308533	 ([movie][sort][carrie][metal.][highschool][guy][gets][picked][gets][metal][ghost.][classic.][soundtrack][got][living][metal][it.][marc][price][film.][metal][fans.])
+v(0,1,2,5,10,11,12,16,17,18,19,20,21,22,24,25,26,27,29,31,32): 2.475346565246582, EP: 0.8514674305915833	 ([movie][sort][carrie][metal.][alot][totally][gets][metal][ghost.][classic.][soundtrack][.][got][living][metal][it.][marc][price][film.][metal][fans.])
+v(0,1,2,5,6,7,8,9,10,11,12,16,17,18,19,20,21,22,24,25,26,27,29,31,32): 2.437319755554199, EP: 0.8383870124816895	 ([movie][sort][carrie][metal.][highschool][guy][gets][picked][alot][totally][gets][metal][ghost.][classic.][soundtrack][.][got][living][metal][it.][marc][price][film.][metal][fans.])
+v(6,7,8,9,17,21,22,25,26,27,29,31): -2.138561725616455, EP: -0.7356204986572266	 ([highschool][guy][gets][picked][ghost.][got][living][it.][marc][price][film.][metal])
+v(0,1,2,5,6,7,8,9,12,16,18,19,24,32): 2.0619311332702637, EP: 0.7092611789703369	 ([movie][sort][carrie][metal.][highschool][guy][gets][picked][gets][metal][classic.][soundtrack][metal][fans.])
+v(0,1,2,5,12,16,18,19,24,32): 2.0224380493164062, EP: 0.6956763863563538	 ([movie][sort][carrie][metal.][gets][metal][classic.][soundtrack][metal][fans.])
+v(6,7,8,9,10,11,20): -2.0217056274414062, EP: -0.6954244375228882	 ([highschool][guy][gets][picked][alot][totally][.])
+v(0,1,2,5,10,11,12,16,18,19,20,24,32): 1.8295135498046875, EP: 0.6293143630027771	 ([movie][sort][carrie][metal.][alot][totally][gets][metal][classic.][soundtrack][.][metal][fans.])
+v(0,1,2,5,6,7,8,9,10,11,12,16,18,19,20,24,32): 1.6576528549194336, EP: 0.5701978802680969	 ([movie][sort][carrie][metal.][highschool][guy][gets][picked][alot][totally][gets][metal][classic.][soundtrack][.][metal][fans.])
+v(17,21,22,25,26,27,29,31): -1.2025902271270752, EP: -0.41366586089134216	 ([ghost.][got][living][it.][marc][price][film.][metal])
+v(6,7,8,9): -1.066030502319336, EP: -0.3666921854019165	 ([highschool][guy][gets][picked])
+v(10,11,20): -0.9148619174957275, EP: -0.3146933615207672	 ([alot][totally][.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

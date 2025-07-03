@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['1', '23', '0', '37']: ['book', 'movie', 'loved', 'madeline']: 平均边权 0.5480
+社区 2: ['46', '45', '49', '40', '47', '29', '48', '41']: ['film', 'hopes.', 'became', 'book', 'went', 'locate', 'on,', 'screen.']: 平均边权 0.5009
+社区 3: ['25', '42', '53', '43', '51', '52']: ['past,', 'watched', 'never', 'movie,', 'botched', 'badly!']: 平均边权 1.1157
+社区 4: ['39', '38', '36', '33', '34']: ['excellent', "l'engle's", 'brought', 'excited', 'heard']: 平均边权 0.7021
+社区 5: ['2', '5', '32', '4', '16', '9', '10', '17', '7']: ['since', 'teacher', 'students', 'grade', 'grade', 'years', 'ago.', 'classes', 'class']: 平均边权 0.5110
+社区 6: ['12', '20', '19', '13', '21', '18', '11', '3', '15', '14', '6']: ['every', 'years', '18', 'one', 'teaching.', 'past', 'read', '5th', '5th', '3rd', 'read']: 平均边权 0.3356
+社区 7: ['30', '22', '27', '24', '26', '31', '28']: ['it.', 'supposedly', 'never', 'made', "i'd", 'well,', 'able']: 平均边权 0.3435
+社区 8: ['8', '50', '44', '35', '54']: ['many', 'despondent.', 'highest', 'disney', 'let']: 平均边权 1.1987

@@ -1,0 +1,35 @@
+---------- Players ----------
+Player 0: loved
+Player 1: movie
+Player 2: since
+Player 3: 7
+Player 4: saw
+Player 5: opening
+Player 6: day.
+Player 7: touching
+Player 8: beautiful.
+Player 9: strongly
+Player 10: recommend
+Player 11: seeing
+Player 12: all.
+Player 13: movie
+Player 14: watch
+Player 15: family
+Player 16: far.
+Player 17: mpaa
+Player 18: rating :
+Player 19: pg - 13
+Player 20: thematic
+Player 21: elements,
+Player 22: prolonged
+Player 23: scenes
+Player 24: disastor,
+Player 25: nudity
+Player 26: sexuality
+Player 27: language.
+---------- AND Interactions (Pairwise Only) ----------
+I(0,5): 5.985414981842041	 ([loved][opening])
+I(4,24): -1.370003581047058	 ([saw][disastor,])
+I(25,26): -0.19267599284648895	 ([nudity][sexuality])
+Sum: 4.422735407948494
+==================================================

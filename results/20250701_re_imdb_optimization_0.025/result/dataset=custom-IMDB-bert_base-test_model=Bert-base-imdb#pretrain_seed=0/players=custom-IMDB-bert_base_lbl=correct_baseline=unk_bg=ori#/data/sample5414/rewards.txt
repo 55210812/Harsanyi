@@ -1,0 +1,87 @@
+---------- Players ----------
+Player 0: well,
+Player 1: yet,
+Player 2: least.
+Player 3: listed
+Player 4: worst
+Player 5: 100...
+Player 6: let's
+Player 7: team
+Player 8: up,
+Player 9: put
+Player 10: rightful
+Player 11: place.
+Player 12: truly
+Player 13: bad
+Player 14: movie.
+Player 15: ( and
+Player 16: liked
+Player 17: ishtar! )
+Player 18: ; )
+---------- Rewards ----------
+v(): -0.5977066159248352	 ([])
+v(1,3,4,7,12): 1.0336002111434937	 ([yet,][listed][worst][team][truly])
+v(11,13,14,17): 7.858280658721924	 ([place.][bad][movie.][ishtar! )])
+v(5,6,8,10): -1.3732151985168457	 ([100...][let's][up,][rightful])
+v(9,15): -0.722013533115387	 ([put][( and])
+v(0,2,16,18): -2.430328130722046	 ([well,][least.][liked][; )])
+v(1,3,4,7,11,12,13,14,17): 8.145580291748047	 ([yet,][listed][worst][team][place.][truly][bad][movie.][ishtar! )])
+v(1,3,4,5,6,7,8,10,12): -2.522995948791504	 ([yet,][listed][worst][100...][let's][team][up,][rightful][truly])
+v(1,3,4,7,9,12,15): -0.9404981136322021	 ([yet,][listed][worst][team][put][truly][( and])
+v(0,1,2,3,4,7,12,16,18): -6.171249866485596	 ([well,][yet,][least.][listed][worst][team][truly][liked][; )])
+v(5,6,8,10,11,13,14,17): 8.156807899475098	 ([100...][let's][up,][rightful][place.][bad][movie.][ishtar! )])
+v(9,11,13,14,15,17): 7.951621055603027	 ([put][place.][bad][movie.][( and][ishtar! )])
+v(0,2,11,13,14,16,17,18): 8.034747123718262	 ([well,][least.][place.][bad][movie.][liked][ishtar! )][; )])
+v(5,6,8,9,10,15): -1.276210069656372	 ([100...][let's][up,][put][rightful][( and])
+v(0,2,5,6,8,10,16,18): -1.9776495695114136	 ([well,][least.][100...][let's][up,][rightful][liked][; )])
+v(0,2,9,15,16,18): -2.312253952026367	 ([well,][least.][put][( and][liked][; )])
+v(1,3,4,5,6,7,8,10,11,12,13,14,17): 8.309478759765625	 ([yet,][listed][worst][100...][let's][team][up,][rightful][place.][truly][bad][movie.][ishtar! )])
+v(1,3,4,7,9,11,12,13,14,15,17): 8.22015380859375	 ([yet,][listed][worst][team][put][place.][truly][bad][movie.][( and][ishtar! )])
+v(0,1,2,3,4,7,11,12,13,14,16,17,18): 8.299803733825684	 ([well,][yet,][least.][listed][worst][team][place.][truly][bad][movie.][liked][ishtar! )][; )])
+v(1,3,4,5,6,7,8,9,10,12,15): -2.407390832901001	 ([yet,][listed][worst][100...][let's][team][up,][put][rightful][truly][( and])
+v(0,1,2,3,4,5,6,7,8,10,12,16,18): -5.495116233825684	 ([well,][yet,][least.][listed][worst][100...][let's][team][up,][rightful][truly][liked][; )])
+v(0,1,2,3,4,7,9,12,15,16,18): -6.99924373626709	 ([well,][yet,][least.][listed][worst][team][put][truly][( and][liked][; )])
+v(5,6,8,9,10,11,13,14,15,17): 8.092025756835938	 ([100...][let's][up,][put][rightful][place.][bad][movie.][( and][ishtar! )])
+v(0,2,5,6,8,10,11,13,14,16,17,18): 8.065250396728516	 ([well,][least.][100...][let's][up,][rightful][place.][bad][movie.][liked][ishtar! )][; )])
+v(0,2,9,11,13,14,15,16,17,18): 7.983868598937988	 ([well,][least.][put][place.][bad][movie.][( and][liked][ishtar! )][; )])
+v(0,2,5,6,8,9,10,15,16,18): -1.7175354957580566	 ([well,][least.][100...][let's][up,][put][rightful][( and][liked][; )])
+v(1,3,4,5,6,7,8,9,10,11,12,13,14,15,17): 8.260738372802734	 ([yet,][listed][worst][100...][let's][team][up,][put][rightful][place.][truly][bad][movie.][( and][ishtar! )])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,14,16,17,18): 8.106029510498047	 ([well,][yet,][least.][listed][worst][100...][let's][team][up,][rightful][place.][truly][bad][movie.][liked][ishtar! )][; )])
+v(0,1,2,3,4,7,9,11,12,13,14,15,16,17,18): 8.271169662475586	 ([well,][yet,][least.][listed][worst][team][put][place.][truly][bad][movie.][( and][liked][ishtar! )][; )])
+v(0,1,2,3,4,5,6,7,8,9,10,12,15,16,18): -5.256946563720703	 ([well,][yet,][least.][listed][worst][100...][let's][team][up,][put][rightful][truly][( and][liked][; )])
+v(0,2,5,6,8,9,10,11,13,14,15,16,17,18): 8.06708812713623	 ([well,][least.][100...][let's][up,][put][rightful][place.][bad][movie.][( and][liked][ishtar! )][; )])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18): 7.96235466003418	 ([well,][yet,][least.][listed][worst][100...][let's][team][up,][put][rightful][place.][truly][bad][movie.][( and][liked][ishtar! )][; )])
+---------- Rewards-v() ----------
+v(1,3,4,5,6,7,8,10,11,12,13,14,17): 8.907185554504395, EP: 1.0405515432357788	 ([yet,][listed][worst][100...][let's][team][up,][rightful][place.][truly][bad][movie.][ishtar! )])
+v(0,1,2,3,4,7,11,12,13,14,16,17,18): 8.897510528564453, EP: 1.0394213199615479	 ([well,][yet,][least.][listed][worst][team][place.][truly][bad][movie.][liked][ishtar! )][; )])
+v(0,1,2,3,4,7,9,11,12,13,14,15,16,17,18): 8.868876457214355, EP: 1.036076307296753	 ([well,][yet,][least.][listed][worst][team][put][place.][truly][bad][movie.][( and][liked][ishtar! )][; )])
+v(1,3,4,5,6,7,8,9,10,11,12,13,14,15,17): 8.858445167541504, EP: 1.0348576307296753	 ([yet,][listed][worst][100...][let's][team][up,][put][rightful][place.][truly][bad][movie.][( and][ishtar! )])
+v(1,3,4,7,9,11,12,13,14,15,17): 8.81786060333252, EP: 1.0301165580749512	 ([yet,][listed][worst][team][put][place.][truly][bad][movie.][( and][ishtar! )])
+v(5,6,8,10,11,13,14,17): 8.754514694213867, EP: 1.0227162837982178	 ([100...][let's][up,][rightful][place.][bad][movie.][ishtar! )])
+v(1,3,4,7,11,12,13,14,17): 8.743287086486816, EP: 1.02140474319458	 ([yet,][listed][worst][team][place.][truly][bad][movie.][ishtar! )])
+v(0,1,2,3,4,5,6,7,8,10,11,12,13,14,16,17,18): 8.703736305236816, EP: 1.0167843103408813	 ([well,][yet,][least.][listed][worst][100...][let's][team][up,][rightful][place.][truly][bad][movie.][liked][ishtar! )][; )])
+v(5,6,8,9,10,11,13,14,15,17): 8.689732551574707, EP: 1.015148401260376	 ([100...][let's][up,][put][rightful][place.][bad][movie.][( and][ishtar! )])
+v(0,2,5,6,8,9,10,11,13,14,15,16,17,18): 8.664794921875, EP: 1.012235164642334	 ([well,][least.][100...][let's][up,][put][rightful][place.][bad][movie.][( and][liked][ishtar! )][; )])
+v(0,2,5,6,8,10,11,13,14,16,17,18): 8.662957191467285, EP: 1.012020468711853	 ([well,][least.][100...][let's][up,][rightful][place.][bad][movie.][liked][ishtar! )][; )])
+v(0,2,11,13,14,16,17,18): 8.632453918457031, EP: 1.0084569454193115	 ([well,][least.][place.][bad][movie.][liked][ishtar! )][; )])
+v(0,2,9,11,13,14,15,16,17,18): 8.581575393676758, EP: 1.0025132894515991	 ([well,][least.][put][place.][bad][movie.][( and][liked][ishtar! )][; )])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18): 8.56006145477295, EP: 1.0	 ([well,][yet,][least.][listed][worst][100...][let's][team][up,][put][rightful][place.][truly][bad][movie.][( and][liked][ishtar! )][; )])
+v(9,11,13,14,15,17): 8.549327850341797, EP: 0.9987460970878601	 ([put][place.][bad][movie.][( and][ishtar! )])
+v(11,13,14,17): 8.455986976623535, EP: 0.9878418445587158	 ([place.][bad][movie.][ishtar! )])
+v(0,1,2,3,4,7,9,12,15,16,18): -6.40153694152832, EP: -0.7478377223014832	 ([well,][yet,][least.][listed][worst][team][put][truly][( and][liked][; )])
+v(0,1,2,3,4,7,12,16,18): -5.573543071746826, EP: -0.6511101722717285	 ([well,][yet,][least.][listed][worst][team][truly][liked][; )])
+v(0,1,2,3,4,5,6,7,8,10,12,16,18): -4.897409439086914, EP: -0.5721231698989868	 ([well,][yet,][least.][listed][worst][100...][let's][team][up,][rightful][truly][liked][; )])
+v(0,1,2,3,4,5,6,7,8,9,10,12,15,16,18): -4.659239768981934, EP: -0.5442997813224792	 ([well,][yet,][least.][listed][worst][100...][let's][team][up,][put][rightful][truly][( and][liked][; )])
+v(1,3,4,5,6,7,8,10,12): -1.9252893924713135, EP: -0.22491537034511566	 ([yet,][listed][worst][100...][let's][team][up,][rightful][truly])
+v(0,2,16,18): -1.8326215744018555, EP: -0.2140897661447525	 ([well,][least.][liked][; )])
+v(1,3,4,5,6,7,8,9,10,12,15): -1.8096842765808105, EP: -0.21141019463539124	 ([yet,][listed][worst][100...][let's][team][up,][put][rightful][truly][( and])
+v(0,2,9,15,16,18): -1.7145473957061768, EP: -0.20029614865779877	 ([well,][least.][put][( and][liked][; )])
+v(1,3,4,7,12): 1.6313068866729736, EP: 0.1905718594789505	 ([yet,][listed][worst][team][truly])
+v(0,2,5,6,8,10,16,18): -1.3799428939819336, EP: -0.16120712459087372	 ([well,][least.][100...][let's][up,][rightful][liked][; )])
+v(0,2,5,6,8,9,10,15,16,18): -1.1198289394378662, EP: -0.13082019984722137	 ([well,][least.][100...][let's][up,][put][rightful][( and][liked][; )])
+v(5,6,8,10): -0.7755085825920105, EP: -0.09059614688158035	 ([100...][let's][up,][rightful])
+v(5,6,8,9,10,15): -0.6785034537315369, EP: -0.0792638510465622	 ([100...][let's][up,][put][rightful][( and])
+v(1,3,4,7,9,12,15): -0.34279149770736694, EP: -0.040045447647571564	 ([yet,][listed][worst][team][put][truly][( and])
+v(9,15): -0.12430691719055176, EP: -0.014521731995046139	 ([put][( and])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

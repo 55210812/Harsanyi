@@ -1,0 +1,160 @@
+---------- Players ----------
+Player 0: would
+Player 1: given
+Player 2: one
+Player 3: instead
+Player 4: two,
+Player 5: suppose
+Player 6: could
+Player 7: worse.
+Player 8: guess
+Player 9: acting
+Player 10: bad,
+Player 11: plot
+Player 12: lacks
+Player 13: anything
+Player 14: even
+Player 15: remotely
+Player 16: close
+Player 17: interesting.
+Player 18: terrible
+Player 19: movie!!
+Player 20: terrible!
+Player 21: complete
+Player 22: waste
+Player 23: time!
+Player 24: strongly
+Player 25: suggest
+Player 26: watch
+Player 27: movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+---------- Rewards ----------
+v(): 0.14576277136802673	 ([])
+v(20,21,22): 6.7049150466918945	 ([terrible!][complete][waste])
+v(0,23,24,25,26): 2.8065733909606934	 ([would][time!][strongly][suggest][watch])
+v(17,18,19): 6.753551483154297	 ([interesting.][terrible][movie!!])
+v(1,2,3,4,5,6,27): 0.3750966787338257	 ([given][one][instead][two,][suppose][could][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(11,12,16): 1.6200772523880005	 ([plot][lacks][close])
+v(7,8,9,10,13,14,15): 6.922890663146973	 ([worse.][guess][acting][bad,][anything][even][remotely])
+v(0,20,21,22,23,24,25,26): 7.810593605041504	 ([would][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(17,18,19,20,21,22): 7.417563438415527	 ([interesting.][terrible][movie!!][terrible!][complete][waste])
+v(1,2,3,4,5,6,20,21,22,27): 7.7501420974731445	 ([given][one][instead][two,][suppose][could][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(11,12,16,20,21,22): 7.5682783126831055	 ([plot][lacks][close][terrible!][complete][waste])
+v(7,8,9,10,13,14,15,20,21,22): 7.800982475280762	 ([worse.][guess][acting][bad,][anything][even][remotely][terrible!][complete][waste])
+v(0,17,18,19,23,24,25,26): 7.6343512535095215	 ([would][interesting.][terrible][movie!!][time!][strongly][suggest][watch])
+v(0,1,2,3,4,5,6,23,24,25,26,27): -0.31218239665031433	 ([would][given][one][instead][two,][suppose][could][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,11,12,16,23,24,25,26): 4.711782455444336	 ([would][plot][lacks][close][time!][strongly][suggest][watch])
+v(0,7,8,9,10,13,14,15,23,24,25,26): 7.778238296508789	 ([would][worse.][guess][acting][bad,][anything][even][remotely][time!][strongly][suggest][watch])
+v(1,2,3,4,5,6,17,18,19,27): 7.223966121673584	 ([given][one][instead][two,][suppose][could][interesting.][terrible][movie!!][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(11,12,16,17,18,19): 7.3092169761657715	 ([plot][lacks][close][interesting.][terrible][movie!!])
+v(7,8,9,10,13,14,15,17,18,19): 7.726794242858887	 ([worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!])
+v(1,2,3,4,5,6,11,12,16,27): 2.7959415912628174	 ([given][one][instead][two,][suppose][could][plot][lacks][close][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,7,8,9,10,13,14,15,27): 7.107858180999756	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(7,8,9,10,11,12,13,14,15,16): 7.69085693359375	 ([worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close])
+v(0,17,18,19,20,21,22,23,24,25,26): 8.015583038330078	 ([would][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(0,1,2,3,4,5,6,20,21,22,23,24,25,26,27): 7.960787296295166	 ([would][given][one][instead][two,][suppose][could][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,11,12,16,20,21,22,23,24,25,26): 8.151594161987305	 ([would][plot][lacks][close][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(0,7,8,9,10,13,14,15,20,21,22,23,24,25,26): 8.183952331542969	 ([would][worse.][guess][acting][bad,][anything][even][remotely][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(1,2,3,4,5,6,17,18,19,20,21,22,27): 7.730431079864502	 ([given][one][instead][two,][suppose][could][interesting.][terrible][movie!!][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(11,12,16,17,18,19,20,21,22): 7.803315162658691	 ([plot][lacks][close][interesting.][terrible][movie!!][terrible!][complete][waste])
+v(7,8,9,10,13,14,15,17,18,19,20,21,22): 7.948163986206055	 ([worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!][terrible!][complete][waste])
+v(1,2,3,4,5,6,11,12,16,20,21,22,27): 8.027156829833984	 ([given][one][instead][two,][suppose][could][plot][lacks][close][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,7,8,9,10,13,14,15,20,21,22,27): 8.186670303344727	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(7,8,9,10,11,12,13,14,15,16,20,21,22): 8.055620193481445	 ([worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][terrible!][complete][waste])
+v(0,1,2,3,4,5,6,17,18,19,23,24,25,26,27): 7.772149085998535	 ([would][given][one][instead][two,][suppose][could][interesting.][terrible][movie!!][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,11,12,16,17,18,19,23,24,25,26): 7.948999881744385	 ([would][plot][lacks][close][interesting.][terrible][movie!!][time!][strongly][suggest][watch])
+v(0,7,8,9,10,13,14,15,17,18,19,23,24,25,26): 8.184423446655273	 ([would][worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!][time!][strongly][suggest][watch])
+v(0,1,2,3,4,5,6,11,12,16,23,24,25,26,27): 3.481204032897949	 ([would][given][one][instead][two,][suppose][could][plot][lacks][close][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,23,24,25,26,27): 7.771730422973633	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,7,8,9,10,11,12,13,14,15,16,23,24,25,26): 8.224248886108398	 ([would][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][time!][strongly][suggest][watch])
+v(1,2,3,4,5,6,11,12,16,17,18,19,27): 7.596752166748047	 ([given][one][instead][two,][suppose][could][plot][lacks][close][interesting.][terrible][movie!!][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,7,8,9,10,13,14,15,17,18,19,27): 7.951597690582275	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19): 8.019515037536621	 ([worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,27): 7.721959114074707	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,17,18,19,20,21,22,23,24,25,26,27): 7.999169826507568	 ([would][given][one][instead][two,][suppose][could][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,11,12,16,17,18,19,20,21,22,23,24,25,26): 8.174355506896973	 ([would][plot][lacks][close][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(0,7,8,9,10,13,14,15,17,18,19,20,21,22,23,24,25,26): 8.269010543823242	 ([would][worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(0,1,2,3,4,5,6,11,12,16,20,21,22,23,24,25,26,27): 8.205642700195312	 ([would][given][one][instead][two,][suppose][could][plot][lacks][close][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,20,21,22,23,24,25,26,27): 8.270776748657227	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,7,8,9,10,11,12,13,14,15,16,20,21,22,23,24,25,26): 8.339313507080078	 ([would][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(1,2,3,4,5,6,11,12,16,17,18,19,20,21,22,27): 7.933802604675293	 ([given][one][instead][two,][suppose][could][plot][lacks][close][interesting.][terrible][movie!!][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,7,8,9,10,13,14,15,17,18,19,20,21,22,27): 8.076522827148438	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22): 8.095041275024414	 ([worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!][terrible!][complete][waste])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,20,21,22,27): 8.26612377166748	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,11,12,16,17,18,19,23,24,25,26,27): 8.051143646240234	 ([would][given][one][instead][two,][suppose][could][plot][lacks][close][interesting.][terrible][movie!!][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,17,18,19,23,24,25,26,27): 8.250740051269531	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,7,8,9,10,11,12,13,14,15,16,17,18,19,23,24,25,26): 8.349925994873047	 ([would][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!][time!][strongly][suggest][watch])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,23,24,25,26,27): 8.311155319213867	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,27): 8.029206275939941	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,11,12,16,17,18,19,20,21,22,23,24,25,26,27): 8.127803802490234	 ([would][given][one][instead][two,][suppose][could][plot][lacks][close][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,17,18,19,20,21,22,23,24,25,26,27): 8.202951431274414	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.372360229492188	 ([would][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,20,21,22,23,24,25,26,27): 8.375631332397461	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,27): 8.06889533996582	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,23,24,25,26,27): 8.301837921142578	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.315553665161133	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,20,21,22,23,24,25,26,27): 8.22986888885498, EP: 1.007353663444519	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26): 8.226597785949707, EP: 1.006953239440918	 ([would][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(0,7,8,9,10,11,12,13,14,15,16,17,18,19,23,24,25,26): 8.204163551330566, EP: 1.0042072534561157	 ([would][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!][time!][strongly][suggest][watch])
+v(0,7,8,9,10,11,12,13,14,15,16,20,21,22,23,24,25,26): 8.193551063537598, EP: 1.0029082298278809	 ([would][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 8.169791221618652, EP: 1.0	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,23,24,25,26,27): 8.165392875671387, EP: 0.9994616508483887	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,23,24,25,26,27): 8.156075477600098, EP: 0.9983211755752563	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,20,21,22,23,24,25,26,27): 8.125014305114746, EP: 0.9945192337036133	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,7,8,9,10,13,14,15,17,18,19,20,21,22,23,24,25,26): 8.123248100280762, EP: 0.9943030476570129	 ([would][worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,20,21,22,27): 8.120361328125, EP: 0.9939496517181396	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,17,18,19,23,24,25,26,27): 8.10497760772705, EP: 0.9920666813850403	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,7,8,9,10,11,12,13,14,15,16,23,24,25,26): 8.078486442565918, EP: 0.9888240694999695	 ([would][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][time!][strongly][suggest][watch])
+v(0,1,2,3,4,5,6,11,12,16,20,21,22,23,24,25,26,27): 8.059880256652832, EP: 0.9865466356277466	 ([would][given][one][instead][two,][suppose][could][plot][lacks][close][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,17,18,19,20,21,22,23,24,25,26,27): 8.057188987731934, EP: 0.9862172603607178	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,7,8,9,10,13,14,15,20,21,22,27): 8.040907859802246, EP: 0.9842243790626526	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,7,8,9,10,13,14,15,17,18,19,23,24,25,26): 8.038661003112793, EP: 0.9839493632316589	 ([would][worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!][time!][strongly][suggest][watch])
+v(0,7,8,9,10,13,14,15,20,21,22,23,24,25,26): 8.038189888000488, EP: 0.9838917255401611	 ([would][worse.][guess][acting][bad,][anything][even][remotely][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(0,11,12,16,17,18,19,20,21,22,23,24,25,26): 8.028593063354492, EP: 0.9827170372009277	 ([would][plot][lacks][close][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(0,11,12,16,20,21,22,23,24,25,26): 8.005831718444824, EP: 0.9799309968948364	 ([would][plot][lacks][close][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(0,1,2,3,4,5,6,11,12,16,17,18,19,20,21,22,23,24,25,26,27): 7.982040882110596, EP: 0.9770189523696899	 ([would][given][one][instead][two,][suppose][could][plot][lacks][close][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22): 7.949278354644775, EP: 0.9730087518692017	 ([worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!][terrible!][complete][waste])
+v(1,2,3,4,5,6,7,8,9,10,13,14,15,17,18,19,20,21,22,27): 7.930759906768799, EP: 0.9707420468330383	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,27): 7.923132419586182, EP: 0.9698084592819214	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(7,8,9,10,11,12,13,14,15,16,20,21,22): 7.909857273101807, EP: 0.9681835174560547	 ([worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][terrible!][complete][waste])
+v(0,1,2,3,4,5,6,11,12,16,17,18,19,23,24,25,26,27): 7.905380725860596, EP: 0.9676355719566345	 ([would][given][one][instead][two,][suppose][could][plot][lacks][close][interesting.][terrible][movie!!][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,27): 7.883443355560303, EP: 0.9649503827095032	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,11,12,16,20,21,22,27): 7.881393909454346, EP: 0.9646995663642883	 ([given][one][instead][two,][suppose][could][plot][lacks][close][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(7,8,9,10,11,12,13,14,15,16,17,18,19): 7.873752117156982, EP: 0.9637641906738281	 ([worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][interesting.][terrible][movie!!])
+v(0,17,18,19,20,21,22,23,24,25,26): 7.8698201179504395, EP: 0.9632828831672668	 ([would][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(0,1,2,3,4,5,6,17,18,19,20,21,22,23,24,25,26,27): 7.85340690612793, EP: 0.9612739086151123	 ([would][given][one][instead][two,][suppose][could][interesting.][terrible][movie!!][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,20,21,22,23,24,25,26,27): 7.815024375915527, EP: 0.9565757513046265	 ([would][given][one][instead][two,][suppose][could][terrible!][complete][waste][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,7,8,9,10,13,14,15,17,18,19,27): 7.805834770202637, EP: 0.9554509520530701	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,11,12,16,17,18,19,23,24,25,26): 7.803236961364746, EP: 0.9551329612731934	 ([would][plot][lacks][close][interesting.][terrible][movie!!][time!][strongly][suggest][watch])
+v(7,8,9,10,13,14,15,17,18,19,20,21,22): 7.802401065826416, EP: 0.9550306797027588	 ([worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!][terrible!][complete][waste])
+v(1,2,3,4,5,6,11,12,16,17,18,19,20,21,22,27): 7.788039684295654, EP: 0.953272819519043	 ([given][one][instead][two,][suppose][could][plot][lacks][close][interesting.][terrible][movie!!][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,20,21,22,23,24,25,26): 7.664830684661865, EP: 0.9381917715072632	 ([would][terrible!][complete][waste][time!][strongly][suggest][watch])
+v(11,12,16,17,18,19,20,21,22): 7.657552242279053, EP: 0.9373008608818054	 ([plot][lacks][close][interesting.][terrible][movie!!][terrible!][complete][waste])
+v(7,8,9,10,13,14,15,20,21,22): 7.655219554901123, EP: 0.9370152950286865	 ([worse.][guess][acting][bad,][anything][even][remotely][terrible!][complete][waste])
+v(0,7,8,9,10,13,14,15,23,24,25,26): 7.63247537612915, EP: 0.9342314004898071	 ([would][worse.][guess][acting][bad,][anything][even][remotely][time!][strongly][suggest][watch])
+v(0,1,2,3,4,5,6,17,18,19,23,24,25,26,27): 7.6263861656188965, EP: 0.9334860444068909	 ([would][given][one][instead][two,][suppose][could][interesting.][terrible][movie!!][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,1,2,3,4,5,6,7,8,9,10,13,14,15,23,24,25,26,27): 7.625967502593994, EP: 0.933434784412384	 ([would][given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,20,21,22,27): 7.604379177093506, EP: 0.9307923316955566	 ([given][one][instead][two,][suppose][could][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,17,18,19,20,21,22,27): 7.584668159484863, EP: 0.9283796548843384	 ([given][one][instead][two,][suppose][could][interesting.][terrible][movie!!][terrible!][complete][waste][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(7,8,9,10,13,14,15,17,18,19): 7.581031322479248, EP: 0.9279345273971558	 ([worse.][guess][acting][bad,][anything][even][remotely][interesting.][terrible][movie!!])
+v(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,27): 7.576196193695068, EP: 0.9273427128791809	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(7,8,9,10,11,12,13,14,15,16): 7.545094013214111, EP: 0.9235357046127319	 ([worse.][guess][acting][bad,][plot][lacks][anything][even][remotely][close])
+v(0,17,18,19,23,24,25,26): 7.488588333129883, EP: 0.9166193008422852	 ([would][interesting.][terrible][movie!!][time!][strongly][suggest][watch])
+v(1,2,3,4,5,6,11,12,16,17,18,19,27): 7.450989246368408, EP: 0.9120171070098877	 ([given][one][instead][two,][suppose][could][plot][lacks][close][interesting.][terrible][movie!!][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(11,12,16,20,21,22): 7.422515392303467, EP: 0.9085318446159363	 ([plot][lacks][close][terrible!][complete][waste])
+v(17,18,19,20,21,22): 7.271800518035889, EP: 0.8900840282440186	 ([interesting.][terrible][movie!!][terrible!][complete][waste])
+v(11,12,16,17,18,19): 7.163454055786133, EP: 0.8768221735954285	 ([plot][lacks][close][interesting.][terrible][movie!!])
+v(1,2,3,4,5,6,17,18,19,27): 7.078203201293945, EP: 0.8663873076438904	 ([given][one][instead][two,][suppose][could][interesting.][terrible][movie!!][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,7,8,9,10,13,14,15,27): 6.962095260620117, EP: 0.8521754145622253	 ([given][one][instead][two,][suppose][could][worse.][guess][acting][bad,][anything][even][remotely][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(7,8,9,10,13,14,15): 6.777127742767334, EP: 0.8295350074768066	 ([worse.][guess][acting][bad,][anything][even][remotely])
+v(17,18,19): 6.607788562774658, EP: 0.8088074922561646	 ([interesting.][terrible][movie!!])
+v(20,21,22): 6.559152126312256, EP: 0.8028542995452881	 ([terrible!][complete][waste])
+v(0,11,12,16,23,24,25,26): 4.566019535064697, EP: 0.5588905811309814	 ([would][plot][lacks][close][time!][strongly][suggest][watch])
+v(0,1,2,3,4,5,6,11,12,16,23,24,25,26,27): 3.3354413509368896, EP: 0.4082651734352112	 ([would][given][one][instead][two,][suppose][could][plot][lacks][close][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(0,23,24,25,26): 2.660810708999634, EP: 0.3256889581680298	 ([would][time!][strongly][suggest][watch])
+v(1,2,3,4,5,6,11,12,16,27): 2.650178909301758, EP: 0.3243875801563263	 ([given][one][instead][two,][suppose][could][plot][lacks][close][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(11,12,16): 1.4743144512176514, EP: 0.18045926094055176	 ([plot][lacks][close])
+v(0,1,2,3,4,5,6,23,24,25,26,27): -0.45794516801834106, EP: -0.05605347082018852	 ([would][given][one][instead][two,][suppose][could][time!][strongly][suggest][watch][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(1,2,3,4,5,6,27): 0.22933390736579895, EP: 0.02807096391916275	 ([given][one][instead][two,][suppose][could][movie.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

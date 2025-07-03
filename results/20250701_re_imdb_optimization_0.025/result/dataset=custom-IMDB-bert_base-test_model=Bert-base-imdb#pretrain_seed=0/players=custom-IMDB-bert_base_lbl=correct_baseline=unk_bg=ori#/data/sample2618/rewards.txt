@@ -1,0 +1,124 @@
+---------- Players ----------
+Player 0: film
+Player 1: got
+Player 2: several
+Player 3: key
+Player 4: flaws.
+Player 5: first
+Player 6: significant
+Player 7: clear
+Player 8: lack
+Player 9: good
+Player 10: plot!
+Player 11: sadly
+Player 12: makes
+Player 13: film
+Player 14: difficult
+Player 15: watch
+Player 16: also
+Player 17: sends
+Player 18: watcher
+Player 19: certain
+Player 20: feelings
+Player 21: hopelessness,
+Player 22: wasting
+Player 23: valuable
+Player 24: time
+Player 25: short
+Player 26: life.
+Player 27: means
+Player 28: film
+Player 29: cannot
+Player 30: captivate
+Player 31: audience,
+Player 32: instead
+Player 33: encourages
+Player 34: viewing
+Player 35: public
+Player 36: grow
+Player 37: contempt
+Player 38: film
+Player 39: everything
+Player 40: associated
+Player 41: it!
+Player 42: short,
+Player 43: really
+Player 44: bad!
+Player 45: favour
+Player 46: chew
+Player 47: large
+Player 48: rubber
+Player 49: shoe,
+Player 50: find
+Player 51: far
+Player 52: interesting
+Player 53: enjoyable
+Player 54: watching
+Player 55: terminator
+---------- Rewards ----------
+v(): -1.034675121307373	 ([])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,55): 6.184833526611328	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][terminator])
+v(32,33,34,35,36,37,38,39,40): -1.5627620220184326	 ([instead][encourages][viewing][public][grow][contempt][film][everything][associated])
+v(26,27,28,29,30,31): 4.669762134552002	 ([life.][means][film][cannot][captivate][audience,])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25): 5.396073818206787	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short])
+v(41,42,43,44,45,46,47,48,49,50,51,52,53,54): 7.040136814117432	 ([it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,32,33,34,35,36,37,38,39,40,55): 5.631686210632324	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][instead][encourages][viewing][public][grow][contempt][film][everything][associated][terminator])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,26,27,28,29,30,31,55): 7.301366806030273	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][life.][means][film][cannot][captivate][audience,][terminator])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,55): 6.452462196350098	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][terminator])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 7.705639839172363	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 3.1829471588134766	 ([life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25,32,33,34,35,36,37,38,39,40): 5.526149749755859	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short][instead][encourages][viewing][public][grow][contempt][film][everything][associated])
+v(32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54): 7.9302473068237305	 ([instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25,26,27,28,29,30,31): 7.0951385498046875	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short][life.][means][film][cannot][captivate][audience,])
+v(26,27,28,29,30,31,41,42,43,44,45,46,47,48,49,50,51,52,53,54): 7.975296497344971	 ([life.][means][film][cannot][captivate][audience,][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25,41,42,43,44,45,46,47,48,49,50,51,52,53,54): 7.829072952270508	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,55): 6.499030113220215	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated][terminator])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,32,33,34,35,36,37,38,39,40,55): 5.289369583129883	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][instead][encourages][viewing][public][grow][contempt][film][everything][associated][terminator])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 8.006370544433594	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,55): 7.382646560668945	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][life.][means][film][cannot][captivate][audience,][terminator])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,26,27,28,29,30,31,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 8.101531982421875	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][life.][means][film][cannot][captivate][audience,][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 8.008569717407227	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 6.3848958015441895	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short][life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated])
+v(26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54): 8.321399688720703	 ([life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54): 8.093307495117188	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short][instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25,26,27,28,29,30,31,41,42,43,44,45,46,47,48,49,50,51,52,53,54): 8.197084426879883	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short][life.][means][film][cannot][captivate][audience,][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,55): 5.529962539672852	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated][terminator])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 8.363083839416504	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 8.094030380249023	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 8.155965805053711	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][life.][means][film][cannot][captivate][audience,][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54): 8.378376007080078	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short][life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 8.259653091430664	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+---------- Rewards-v() ----------
+v(10,11,12,13,15,16,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54): 9.41305160522461, EP: 1.0127737522125244	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short][life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 9.397758483886719, EP: 1.011128306388855	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54): 9.356075286865234, EP: 1.0066434144973755	 ([life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 9.294328689575195, EP: 1.0	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25,26,27,28,29,30,31,41,42,43,44,45,46,47,48,49,50,51,52,53,54): 9.231760025024414, EP: 0.9932680726051331	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short][life.][means][film][cannot][captivate][audience,][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 9.190641403198242, EP: 0.9888440370559692	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][life.][means][film][cannot][captivate][audience,][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,26,27,28,29,30,31,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 9.136207580566406, EP: 0.9829873442649841	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][life.][means][film][cannot][captivate][audience,][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 9.128705978393555, EP: 0.9821802377700806	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54): 9.127983093261719, EP: 0.9821024537086487	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short][instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 9.043245315551758, EP: 0.9729853272438049	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 9.041046142578125, EP: 0.9727486968040466	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(26,27,28,29,30,31,41,42,43,44,45,46,47,48,49,50,51,52,53,54): 9.009971618652344, EP: 0.9694052934646606	 ([life.][means][film][cannot][captivate][audience,][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54): 8.964921951293945, EP: 0.9645583033561707	 ([instead][encourages][viewing][public][grow][contempt][film][everything][associated][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25,41,42,43,44,45,46,47,48,49,50,51,52,53,54): 8.863748550415039, EP: 0.9536728262901306	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55): 8.740314483642578, EP: 0.940392255783081	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching][terminator])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,55): 8.417322158813477, EP: 0.9056406617164612	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][life.][means][film][cannot][captivate][audience,][terminator])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,26,27,28,29,30,31,55): 8.336042404174805, EP: 0.8968955874443054	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][life.][means][film][cannot][captivate][audience,][terminator])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25,26,27,28,29,30,31): 8.129814147949219, EP: 0.8747069835662842	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short][life.][means][film][cannot][captivate][audience,])
+v(41,42,43,44,45,46,47,48,49,50,51,52,53,54): 8.074811935424805, EP: 0.8687891364097595	 ([it!][short,][really][bad!][favour][chew][large][rubber][shoe,][find][far][interesting][enjoyable][watching])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,55): 7.533705234527588, EP: 0.8105701208114624	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated][terminator])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,55): 7.487137317657471, EP: 0.8055597543716431	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][terminator])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 7.4195709228515625, EP: 0.7982901334762573	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short][life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,55): 7.219508647918701, EP: 0.7767649292945862	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][terminator])
+v(0,1,2,3,4,5,6,7,8,9,14,17,24,32,33,34,35,36,37,38,39,40,55): 6.666361331939697, EP: 0.7172504663467407	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][difficult][sends][time][instead][encourages][viewing][public][grow][contempt][film][everything][associated][terminator])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,55): 6.564637660980225, EP: 0.706305742263794	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated][terminator])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25,32,33,34,35,36,37,38,39,40): 6.560824871063232, EP: 0.7058954834938049	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short][instead][encourages][viewing][public][grow][contempt][film][everything][associated])
+v(10,11,12,13,15,16,18,19,20,21,22,23,25): 6.43074893951416, EP: 0.6919003129005432	 ([plot!][sadly][makes][film][watch][also][watcher][certain][feelings][hopelessness,][wasting][valuable][short])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,32,33,34,35,36,37,38,39,40,55): 6.324044704437256, EP: 0.6804197430610657	 ([film][got][several][key][flaws.][first][significant][clear][lack][good][plot!][sadly][makes][film][difficult][watch][also][sends][watcher][certain][feelings][hopelessness,][wasting][valuable][time][short][instead][encourages][viewing][public][grow][contempt][film][everything][associated][terminator])
+v(26,27,28,29,30,31): 5.704437255859375, EP: 0.6137546300888062	 ([life.][means][film][cannot][captivate][audience,])
+v(26,27,28,29,30,31,32,33,34,35,36,37,38,39,40): 4.21762228012085, EP: 0.4537844955921173	 ([life.][means][film][cannot][captivate][audience,][instead][encourages][viewing][public][grow][contempt][film][everything][associated])
+v(32,33,34,35,36,37,38,39,40): -0.5280869007110596, EP: -0.05681818723678589	 ([instead][encourages][viewing][public][grow][contempt][film][everything][associated])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

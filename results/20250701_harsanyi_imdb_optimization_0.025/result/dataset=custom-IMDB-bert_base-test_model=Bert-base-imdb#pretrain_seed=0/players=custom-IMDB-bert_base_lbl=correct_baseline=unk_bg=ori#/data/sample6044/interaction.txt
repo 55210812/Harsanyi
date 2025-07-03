@@ -1,0 +1,253 @@
+---------- Players ----------
+Player 0: horrendous
+Player 1: pillaging
+Player 2: classic.
+Player 3: written
+Player 4: convincingly
+Player 5: mary
+Player 6: develop
+Player 7: sympathy
+Player 8: bates.
+Player 9: may
+Player 10: stable
+Player 11: start
+Player 12: playing
+Player 13: pranks
+Player 14: him,
+Player 15: still
+Player 16: help
+Player 17: actions.
+Player 18: ( inviting
+Player 19: comparative
+Player 20: stranger
+Player 21: stay
+Player 22: alone
+Player 23: recently
+Player 24: disused
+Player 25: motel ;
+Player 26: telling
+Player 27: attractive
+Player 28: young
+Player 29: girl
+Player 30: past
+Player 31: mental
+Player 32: issues ;
+Player 33: lying
+Player 34: knives,
+Player 35: etc...
+Player 36: )
+Player 37: this,
+Player 38: addition
+Player 39: previous
+Player 40: knowledge
+Player 41: kept
+Player 42: mary
+Player 43: extremely
+Player 44: wary
+Player 45: him,
+Player 46: somehow
+Player 47: happen
+Player 48: play
+Player 49: ' mistaken - identity - murder - game
+Player 50: later
+Player 51: on.
+Player 52: also
+Player 53: ridiculous :
+Player 54: ' so - and - so
+Player 55: real
+Player 56: killer
+Player 57: -
+Player 58: plus
+---------- AND Interactions (Pairwise Only) ----------
+I(1,2): 9.648475646972656	 ([pillaging][classic.])
+I(2,53): 3.206623077392578	 ([classic.][ridiculous :])
+I(0,53): -2.291787624359131	 ([horrendous][ridiculous :])
+I(0,1): 2.285062313079834	 ([horrendous][pillaging])
+I(49,53): -1.8585762977600098	 ([' mistaken - identity - murder - game][ridiculous :])
+I(0,2): -1.6274490356445312	 ([horrendous][classic.])
+I(2,49): -1.3817790746688843	 ([classic.][' mistaken - identity - murder - game])
+I(53,56): -1.2833104133605957	 ([ridiculous :][killer])
+I(0,4): 1.185896635055542	 ([horrendous][convincingly])
+I(0,35): 1.1774349212646484	 ([horrendous][etc...])
+I(0,8): 1.119698166847229	 ([horrendous][bates.])
+I(0,7): -1.044148564338684	 ([horrendous][sympathy])
+I(0,19): 1.0283780097961426	 ([horrendous][comparative])
+I(24,25): -1.026991367340088	 ([disused][motel ;])
+I(0,49): -1.0246672630310059	 ([horrendous][' mistaken - identity - murder - game])
+I(0,27): 0.9987218379974365	 ([horrendous][attractive])
+I(53,58): 0.974770188331604	 ([ridiculous :][plus])
+I(0,56): -0.9550290107727051	 ([horrendous][killer])
+I(0,6): 0.9505757093429565	 ([horrendous][develop])
+I(1,53): -0.9302701950073242	 ([pillaging][ridiculous :])
+I(52,53): -0.8330464363098145	 ([also][ridiculous :])
+I(0,18): 0.8250031471252441	 ([horrendous][( inviting])
+I(0,32): 0.7853636741638184	 ([horrendous][issues ;])
+I(34,53): 0.7810864448547363	 ([knives,][ridiculous :])
+I(6,8): 0.7757978439331055	 ([develop][bates.])
+I(2,40): 0.7653855085372925	 ([classic.][knowledge])
+I(53,54): -0.686866283416748	 ([ridiculous :][' so - and - so])
+I(34,48): -0.6675413846969604	 ([knives,][play])
+I(49,56): -0.6645627021789551	 ([' mistaken - identity - murder - game][killer])
+I(48,56): 0.6497539281845093	 ([play][killer])
+I(49,50): -0.6464426517486572	 ([' mistaken - identity - murder - game][later])
+I(2,46): 0.6366766691207886	 ([classic.][somehow])
+I(1,56): -0.6348557472229004	 ([pillaging][killer])
+I(6,53): 0.6322689056396484	 ([develop][ridiculous :])
+I(30,53): 0.6154617071151733	 ([past][ridiculous :])
+I(24,53): -0.6109968423843384	 ([disused][ridiculous :])
+I(5,42): -0.6061251759529114	 ([mary][mary])
+I(21,22): 0.6010984182357788	 ([stay][alone])
+I(2,29): -0.5918252468109131	 ([classic.][girl])
+I(1,26): 0.575697660446167	 ([pillaging][telling])
+I(26,34): 0.57025146484375	 ([telling][knives,])
+I(48,53): 0.5686793327331543	 ([play][ridiculous :])
+I(0,10): 0.567540168762207	 ([horrendous][stable])
+I(0,5): -0.5647017955780029	 ([horrendous][mary])
+I(7,53): 0.5336742401123047	 ([sympathy][ridiculous :])
+I(2,54): 0.5281847715377808	 ([classic.][' so - and - so])
+I(51,53): -0.5254607200622559	 ([on.][ridiculous :])
+I(1,40): 0.5198268890380859	 ([pillaging][knowledge])
+I(56,57): -0.5194494724273682	 ([killer][-])
+I(4,53): -0.5081725120544434	 ([convincingly][ridiculous :])
+I(1,12): 0.5053393840789795	 ([pillaging][playing])
+I(33,53): -0.4994683265686035	 ([lying][ridiculous :])
+I(47,53): -0.4972262382507324	 ([happen][ridiculous :])
+I(54,58): 0.4933696985244751	 ([' so - and - so][plus])
+I(18,20): 0.493219792842865	 ([( inviting][stranger])
+I(2,12): 0.4897559881210327	 ([classic.][playing])
+I(49,51): -0.48932766914367676	 ([' mistaken - identity - murder - game][on.])
+I(19,49): -0.4886951446533203	 ([comparative][' mistaken - identity - murder - game])
+I(1,3): 0.4879404306411743	 ([pillaging][written])
+I(35,53): 0.4856233596801758	 ([etc...][ridiculous :])
+I(8,25): -0.4655822515487671	 ([bates.][motel ;])
+I(1,30): 0.46455568075180054	 ([pillaging][past])
+I(21,25): 0.46274232864379883	 ([stay][motel ;])
+I(2,55): 0.4604724645614624	 ([classic.][real])
+I(27,32): -0.4470716714859009	 ([attractive][issues ;])
+I(2,10): -0.4430389404296875	 ([classic.][stable])
+I(8,48): 0.43753015995025635	 ([bates.][play])
+I(8,53): -0.4342803955078125	 ([bates.][ridiculous :])
+I(1,19): 0.4313030242919922	 ([pillaging][comparative])
+I(55,58): 0.4291113615036011	 ([real][plus])
+I(50,51): 0.42815208435058594	 ([later][on.])
+I(13,53): -0.4225893020629883	 ([pranks][ridiculous :])
+I(27,31): -0.41844087839126587	 ([attractive][mental])
+I(26,27): 0.41764092445373535	 ([telling][attractive])
+I(27,44): -0.41556406021118164	 ([attractive][wary])
+I(0,20): -0.4124544858932495	 ([horrendous][stranger])
+I(2,32): -0.4100308418273926	 ([classic.][issues ;])
+I(28,29): 0.40657103061676025	 ([young][girl])
+I(28,53): 0.4040426015853882	 ([young][ridiculous :])
+I(2,5): -0.40372157096862793	 ([classic.][mary])
+I(29,30): 0.4000387191772461	 ([girl][past])
+I(17,18): 0.39820027351379395	 ([actions.][( inviting])
+I(0,39): 0.39816129207611084	 ([horrendous][previous])
+I(13,30): 0.39780759811401367	 ([pranks][past])
+I(25,53): -0.39626646041870117	 ([motel ;][ridiculous :])
+I(48,49): 0.39517784118652344	 ([play][' mistaken - identity - murder - game])
+I(28,30): 0.392403244972229	 ([young][past])
+I(10,53): 0.3911628723144531	 ([stable][ridiculous :])
+I(0,34): 0.3904891014099121	 ([horrendous][knives,])
+I(0,22): -0.3864856958389282	 ([horrendous][alone])
+I(0,26): 0.38284480571746826	 ([horrendous][telling])
+I(1,48): 0.38260769844055176	 ([pillaging][play])
+I(2,51): 0.37868499755859375	 ([classic.][on.])
+I(19,34): -0.37862491607666016	 ([comparative][knives,])
+I(1,29): -0.3785850405693054	 ([pillaging][girl])
+I(28,32): -0.36621367931365967	 ([young][issues ;])
+I(20,25): 0.3622896075248718	 ([stranger][motel ;])
+I(2,27): -0.3602426052093506	 ([classic.][attractive])
+I(30,56): 0.3581942915916443	 ([past][killer])
+I(25,31): 0.35605549812316895	 ([motel ;][mental])
+I(32,33): 0.35443419218063354	 ([issues ;][lying])
+I(17,48): 0.35280656814575195	 ([actions.][play])
+I(5,53): 0.3516254425048828	 ([mary][ridiculous :])
+I(0,54): 0.3511561155319214	 ([horrendous][' so - and - so])
+I(1,4): 0.34895753860473633	 ([pillaging][convincingly])
+I(37,39): 0.3483574390411377	 ([this,][previous])
+I(20,21): 0.34722304344177246	 ([stranger][stay])
+I(1,44): -0.344082236289978	 ([pillaging][wary])
+I(1,41): -0.3424709439277649	 ([pillaging][kept])
+I(30,40): 0.34171855449676514	 ([past][knowledge])
+I(7,48): 0.3374098539352417	 ([sympathy][play])
+I(1,5): -0.33668839931488037	 ([pillaging][mary])
+I(26,31): 0.33374762535095215	 ([telling][mental])
+I(0,14): 0.33348357677459717	 ([horrendous][him,])
+I(0,31): -0.33162641525268555	 ([horrendous][mental])
+I(25,27): 0.3298826217651367	 ([motel ;][attractive])
+I(7,8): 0.3292384147644043	 ([sympathy][bates.])
+I(0,9): -0.3291569948196411	 ([horrendous][may])
+I(3,4): 0.32898491621017456	 ([written][convincingly])
+I(20,22): 0.3268190622329712	 ([stranger][alone])
+I(50,53): -0.32631635665893555	 ([later][ridiculous :])
+I(12,48): -0.32362282276153564	 ([playing][play])
+I(30,49): 0.3199976682662964	 ([past][' mistaken - identity - murder - game])
+I(26,30): 0.3187127113342285	 ([telling][past])
+I(13,48): 0.3144667148590088	 ([pranks][play])
+I(27,53): -0.314159631729126	 ([attractive][ridiculous :])
+I(34,54): 0.31285083293914795	 ([knives,][' so - and - so])
+I(17,53): 0.3104867935180664	 ([actions.][ridiculous :])
+I(2,33): -0.3104722499847412	 ([classic.][lying])
+I(45,47): -0.3099076747894287	 ([him,][happen])
+I(2,17): 0.3088085651397705	 ([classic.][actions.])
+I(2,58): 0.3063722848892212	 ([classic.][plus])
+I(20,53): 0.30548107624053955	 ([stranger][ridiculous :])
+I(2,42): -0.3030700087547302	 ([classic.][mary])
+I(6,9): -0.2994147539138794	 ([develop][may])
+I(2,7): 0.2991899251937866	 ([classic.][sympathy])
+I(45,49): 0.29659759998321533	 ([him,][' mistaken - identity - murder - game])
+I(20,30): 0.2947326898574829	 ([stranger][past])
+I(8,24): -0.2939901351928711	 ([bates.][disused])
+I(12,17): 0.2887382507324219	 ([playing][actions.])
+I(12,49): -0.2864776849746704	 ([playing][' mistaken - identity - murder - game])
+I(19,53): -0.2846856117248535	 ([comparative][ridiculous :])
+I(0,51): 0.2835683822631836	 ([horrendous][on.])
+I(17,56): 0.2813493013381958	 ([actions.][killer])
+I(19,56): -0.278967022895813	 ([comparative][killer])
+I(32,53): 0.2788577079772949	 ([issues ;][ridiculous :])
+I(31,32): -0.2777460813522339	 ([mental][issues ;])
+I(27,55): -0.2760967016220093	 ([attractive][real])
+I(20,49): 0.27541983127593994	 ([stranger][' mistaken - identity - murder - game])
+I(29,32): 0.2750903367996216	 ([girl][issues ;])
+I(20,38): -0.27422529458999634	 ([stranger][addition])
+I(8,9): -0.27405059337615967	 ([bates.][may])
+I(13,56): -0.2731136083602905	 ([pranks][killer])
+I(49,54): -0.27279484272003174	 ([' mistaken - identity - murder - game][' so - and - so])
+I(32,34): 0.2654019594192505	 ([issues ;][knives,])
+I(26,29): 0.2625645399093628	 ([telling][girl])
+I(35,48): -0.2623467445373535	 ([etc...][play])
+I(41,42): -0.2611315846443176	 ([kept][mary])
+I(33,41): -0.26041263341903687	 ([lying][kept])
+I(25,56): -0.25980472564697266	 ([motel ;][killer])
+I(30,32): 0.25964438915252686	 ([past][issues ;])
+I(32,49): 0.2592592239379883	 ([issues ;][' mistaken - identity - murder - game])
+I(2,57): 0.2584787607192993	 ([classic.][-])
+I(4,13): 0.2574300169944763	 ([convincingly][pranks])
+I(2,37): 0.25712430477142334	 ([classic.][this,])
+I(26,33): -0.2569512128829956	 ([telling][lying])
+I(49,57): -0.25651633739471436	 ([' mistaken - identity - murder - game][-])
+I(18,32): 0.25523102283477783	 ([( inviting][issues ;])
+I(40,53): 0.2548213005065918	 ([knowledge][ridiculous :])
+I(19,35): -0.25400352478027344	 ([comparative][etc...])
+I(41,53): 0.2538623809814453	 ([kept][ridiculous :])
+I(24,56): -0.2537050247192383	 ([disused][killer])
+I(16,49): -0.253617525100708	 ([help][' mistaken - identity - murder - game])
+I(1,17): -0.25337493419647217	 ([pillaging][actions.])
+I(12,32): 0.2525215148925781	 ([playing][issues ;])
+I(48,55): 0.2516437768936157	 ([play][real])
+I(4,49): 0.25142693519592285	 ([convincingly][' mistaken - identity - murder - game])
+I(25,26): 0.25129401683807373	 ([motel ;][telling])
+I(6,13): 0.2504550814628601	 ([develop][pranks])
+I(32,56): 0.2500497102737427	 ([issues ;][killer])
+I(4,19): 0.24898076057434082	 ([convincingly][comparative])
+I(1,8): 0.24849700927734375	 ([pillaging][bates.])
+I(0,24): 0.2469390630722046	 ([horrendous][disused])
+I(1,6): 0.24641060829162598	 ([pillaging][develop])
+I(27,29): -0.24600458145141602	 ([attractive][girl])
+I(30,34): 0.244437575340271	 ([past][knives,])
+I(24,49): -0.24325335025787354	 ([disused][' mistaken - identity - murder - game])
+I(23,28): 0.24275827407836914	 ([recently][young])
+I(8,33): 0.24227797985076904	 ([bates.][lying])
+I(18,19): 0.2416210174560547	 ([( inviting][comparative])
+Sum: 37.265817165374756
+==================================================

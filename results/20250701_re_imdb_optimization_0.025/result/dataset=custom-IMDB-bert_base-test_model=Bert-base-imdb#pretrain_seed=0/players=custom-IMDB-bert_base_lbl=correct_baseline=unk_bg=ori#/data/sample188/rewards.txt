@@ -1,0 +1,51 @@
+---------- Players ----------
+Player 0: can't
+Player 1: believe
+Player 2: got
+Player 3: actors
+Player 4: actresses
+Player 5: caliber
+Player 6: movie.
+Player 7: that's
+Player 8: i've
+Player 9: got
+Player 10: say
+Player 11: -
+Player 12: movie
+Player 13: speaks
+Player 14: itself!!
+---------- Rewards ----------
+v(): 0.9267565608024597	 ([])
+v(0,4,6,14): 6.559787750244141	 ([can't][actresses][movie.][itself!!])
+v(1,7,8,9): 1.6843901872634888	 ([believe][that's][i've][got])
+v(2,3,12,13): 0.537514865398407	 ([got][actors][movie][speaks])
+v(5,10,11): 0.5895284414291382	 ([caliber][say][-])
+v(0,1,4,6,7,8,9,14): 6.895077705383301	 ([can't][believe][actresses][movie.][that's][i've][got][itself!!])
+v(0,2,3,4,6,12,13,14): 6.257787704467773	 ([can't][got][actors][actresses][movie.][movie][speaks][itself!!])
+v(0,4,5,6,10,11,14): 6.545467376708984	 ([can't][actresses][caliber][movie.][say][-][itself!!])
+v(1,2,3,7,8,9,12,13): 5.028995513916016	 ([believe][got][actors][that's][i've][got][movie][speaks])
+v(1,5,7,8,9,10,11): 4.1960954666137695	 ([believe][caliber][that's][i've][got][say][-])
+v(2,3,5,10,11,12,13): 1.7242107391357422	 ([got][actors][caliber][say][-][movie][speaks])
+v(0,1,2,3,4,6,7,8,9,12,13,14): 6.998658657073975	 ([can't][believe][got][actors][actresses][movie.][that's][i've][got][movie][speaks][itself!!])
+v(0,1,4,5,6,7,8,9,10,11,14): 6.858921527862549	 ([can't][believe][actresses][caliber][movie.][that's][i've][got][say][-][itself!!])
+v(0,2,3,4,5,6,10,11,12,13,14): 6.772088050842285	 ([can't][got][actors][actresses][caliber][movie.][say][-][movie][speaks][itself!!])
+v(1,2,3,5,7,8,9,10,11,12,13): 4.073869705200195	 ([believe][got][actors][caliber][that's][i've][got][say][-][movie][speaks])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14): 7.13077449798584	 ([can't][believe][got][actors][actresses][caliber][movie.][that's][i've][got][say][-][movie][speaks][itself!!])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14): 6.2040181159973145, EP: 1.0	 ([can't][believe][got][actors][actresses][caliber][movie.][that's][i've][got][say][-][movie][speaks][itself!!])
+v(0,1,2,3,4,6,7,8,9,12,13,14): 6.071902275085449, EP: 0.9787048101425171	 ([can't][believe][got][actors][actresses][movie.][that's][i've][got][movie][speaks][itself!!])
+v(0,1,4,6,7,8,9,14): 5.968321323394775, EP: 0.9620090126991272	 ([can't][believe][actresses][movie.][that's][i've][got][itself!!])
+v(0,1,4,5,6,7,8,9,10,11,14): 5.932165145874023, EP: 0.9561811685562134	 ([can't][believe][actresses][caliber][movie.][that's][i've][got][say][-][itself!!])
+v(0,2,3,4,5,6,10,11,12,13,14): 5.84533166885376, EP: 0.9421848058700562	 ([can't][got][actors][actresses][caliber][movie.][say][-][movie][speaks][itself!!])
+v(0,4,6,14): 5.633031368255615, EP: 0.9079650044441223	 ([can't][actresses][movie.][itself!!])
+v(0,4,5,6,10,11,14): 5.618710994720459, EP: 0.9056567549705505	 ([can't][actresses][caliber][movie.][say][-][itself!!])
+v(0,2,3,4,6,12,13,14): 5.331031322479248, EP: 0.8592868447303772	 ([can't][got][actors][actresses][movie.][movie][speaks][itself!!])
+v(1,2,3,7,8,9,12,13): 4.10223913192749, EP: 0.6612229347229004	 ([believe][got][actors][that's][i've][got][movie][speaks])
+v(1,5,7,8,9,10,11): 3.269338846206665, EP: 0.5269712209701538	 ([believe][caliber][that's][i've][got][say][-])
+v(1,2,3,5,7,8,9,10,11,12,13): 3.147113084793091, EP: 0.5072701573371887	 ([believe][got][actors][caliber][that's][i've][got][say][-][movie][speaks])
+v(2,3,5,10,11,12,13): 0.7974541783332825, EP: 0.1285383403301239	 ([got][actors][caliber][say][-][movie][speaks])
+v(1,7,8,9): 0.757633626461029, EP: 0.12211982905864716	 ([believe][that's][i've][got])
+v(2,3,12,13): -0.38924169540405273, EP: -0.062740258872509	 ([got][actors][movie][speaks])
+v(5,10,11): -0.33722811937332153, EP: -0.0543564036488533	 ([caliber][say][-])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['41', '27', '35', '25', '26', '28', '29']: ['costumes', 'bad', 'music', 'bad', 'dialogue,', 'acting,', 'bad']: 平均边权 1.2770
+社区 2: ['2', '1', '24', '0']: ['movies,', 'horror', 'camp.', 'comes']: 平均边权 1.0296
+社区 3: ['38', '36', '32', '40', '47', '39', '48', '42', '37', '43', '51', '31']: ['work', 'annoying,', 'predictable', 'even', 'obviously', 'wretched,', 'trying,', 'bad.', 'camera', 'felt', 'contrived', 'kills']: 平均边权 0.7525
+社区 4: ['8', '5', '13', '4', '3', '15', '9', '10', '6', '7']: ['production', 'disbelief,', 'interest', 'suspend', 'willing', 'scare.', 'values,', 'overlook', 'ignore', 'sub - par']: 平均边权 0.5462
+社区 5: ['60', '62', '61', '63']: ['embarrassing', 'boring', 'watch,', 'making']: 平均边权 1.1916
+社区 6: ['23', '21', '22']: ['enjoyed', "can't", 'even']: 平均边权 1.2418
+社区 7: ['12', '20', '19', '18', '16', '11', '30', '14', '17']: ['holes', 'offer.', 'scares', 'good', 'movies', 'plot', 'direction,', 'good', 'simply']: 平均边权 0.5687
+社区 8: ['56', '57', '58', '52', '49', '55', '50', '53', '59', '54']: ['doubt', 'got', 'rehearsal,', 'dialogue', 'deal', 'direction.', 'terrible,', 'obvious', 'either.', 'lack']: 平均边权 0.5563
+社区 9: ['45', '44', '33', '46', '34']: ['bad', 'really', 'poorly', 'actors,', 'staged,']: 平均边权 1.1460

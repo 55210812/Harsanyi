@@ -1,0 +1,89 @@
+---------- Players ----------
+Player 0: well
+Player 1: guess
+Player 2: supposedly
+Player 3: classic
+Player 4: easily
+Player 5: recognizable
+Player 6: faces,
+Player 7: personally
+Player 8: think
+Player 9: is...
+Player 10: beautiful
+Player 11: sweet
+Player 12: movie,
+Player 13: henry
+Player 14: winkler
+Player 15: great
+Player 16: job
+Player 17: character
+Player 18: really
+Player 19: impressed
+Player 20: me.
+---------- Rewards ----------
+v(): -0.9498852491378784	 ([])
+v(5,9,10,11,14,16): 6.173681259155273	 ([recognizable][is...][beautiful][sweet][winkler][job])
+v(15,17,18,19): 6.932066917419434	 ([great][character][really][impressed])
+v(12,13): 6.22438383102417	 ([movie,][henry])
+v(6,7,20): 2.3075947761535645	 ([faces,][personally][me.])
+v(0,1,2,3,4,8): 4.5023016929626465	 ([well][guess][supposedly][classic][easily][think])
+v(5,9,10,11,14,15,16,17,18,19): 7.556599140167236	 ([recognizable][is...][beautiful][sweet][winkler][great][job][character][really][impressed])
+v(5,9,10,11,12,13,14,16): 7.374825477600098	 ([recognizable][is...][beautiful][sweet][movie,][henry][winkler][job])
+v(5,6,7,9,10,11,14,16,20): 7.37508487701416	 ([recognizable][faces,][personally][is...][beautiful][sweet][winkler][job][me.])
+v(0,1,2,3,4,5,8,9,10,11,14,16): 7.295695781707764	 ([well][guess][supposedly][classic][easily][recognizable][think][is...][beautiful][sweet][winkler][job])
+v(12,13,15,17,18,19): 6.661125183105469	 ([movie,][henry][great][character][really][impressed])
+v(6,7,15,17,18,19,20): 7.3833112716674805	 ([faces,][personally][great][character][really][impressed][me.])
+v(0,1,2,3,4,8,15,17,18,19): 6.387967109680176	 ([well][guess][supposedly][classic][easily][think][great][character][really][impressed])
+v(6,7,12,13,20): 7.738345146179199	 ([faces,][personally][movie,][henry][me.])
+v(0,1,2,3,4,8,12,13): 6.9169416427612305	 ([well][guess][supposedly][classic][easily][think][movie,][henry])
+v(0,1,2,3,4,6,7,8,20): 6.356297492980957	 ([well][guess][supposedly][classic][easily][faces,][personally][think][me.])
+v(5,9,10,11,12,13,14,15,16,17,18,19): 7.271054267883301	 ([recognizable][is...][beautiful][sweet][movie,][henry][winkler][great][job][character][really][impressed])
+v(5,6,7,9,10,11,14,15,16,17,18,19,20): 8.006641387939453	 ([recognizable][faces,][personally][is...][beautiful][sweet][winkler][great][job][character][really][impressed][me.])
+v(0,1,2,3,4,5,8,9,10,11,14,15,16,17,18,19): 7.436212062835693	 ([well][guess][supposedly][classic][easily][recognizable][think][is...][beautiful][sweet][winkler][great][job][character][really][impressed])
+v(5,6,7,9,10,11,12,13,14,16,20): 7.593054294586182	 ([recognizable][faces,][personally][is...][beautiful][sweet][movie,][henry][winkler][job][me.])
+v(0,1,2,3,4,5,8,9,10,11,12,13,14,16): 7.191162109375	 ([well][guess][supposedly][classic][easily][recognizable][think][is...][beautiful][sweet][movie,][henry][winkler][job])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,16,20): 7.74691915512085	 ([well][guess][supposedly][classic][easily][recognizable][faces,][personally][think][is...][beautiful][sweet][winkler][job][me.])
+v(6,7,12,13,15,17,18,19,20): 7.051247596740723	 ([faces,][personally][movie,][henry][great][character][really][impressed][me.])
+v(0,1,2,3,4,8,12,13,15,17,18,19): 6.527889251708984	 ([well][guess][supposedly][classic][easily][think][movie,][henry][great][character][really][impressed])
+v(0,1,2,3,4,6,7,8,15,17,18,19,20): 6.229729175567627	 ([well][guess][supposedly][classic][easily][faces,][personally][think][great][character][really][impressed][me.])
+v(0,1,2,3,4,6,7,8,12,13,20): 7.051927089691162	 ([well][guess][supposedly][classic][easily][faces,][personally][think][movie,][henry][me.])
+v(5,6,7,9,10,11,12,13,14,15,16,17,18,19,20): 7.600605487823486	 ([recognizable][faces,][personally][is...][beautiful][sweet][movie,][henry][winkler][great][job][character][really][impressed][me.])
+v(0,1,2,3,4,5,8,9,10,11,12,13,14,15,16,17,18,19): 6.75272274017334	 ([well][guess][supposedly][classic][easily][recognizable][think][is...][beautiful][sweet][movie,][henry][winkler][great][job][character][really][impressed])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20): 7.931756496429443	 ([well][guess][supposedly][classic][easily][recognizable][faces,][personally][think][is...][beautiful][sweet][winkler][great][job][character][really][impressed][me.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,20): 7.284820079803467	 ([well][guess][supposedly][classic][easily][recognizable][faces,][personally][think][is...][beautiful][sweet][movie,][henry][winkler][job][me.])
+v(0,1,2,3,4,6,7,8,12,13,15,17,18,19,20): 6.533658027648926	 ([well][guess][supposedly][classic][easily][faces,][personally][think][movie,][henry][great][character][really][impressed][me.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 6.952366352081299	 ([well][guess][supposedly][classic][easily][recognizable][faces,][personally][think][is...][beautiful][sweet][movie,][henry][winkler][great][job][character][really][impressed][me.])
+---------- Rewards-v() ----------
+v(5,6,7,9,10,11,14,15,16,17,18,19,20): 8.956526756286621, EP: 1.1334145069122314	 ([recognizable][faces,][personally][is...][beautiful][sweet][winkler][great][job][character][really][impressed][me.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20): 8.881641387939453, EP: 1.1239380836486816	 ([well][guess][supposedly][classic][easily][recognizable][faces,][personally][think][is...][beautiful][sweet][winkler][great][job][character][really][impressed][me.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,14,16,20): 8.69680404663086, EP: 1.1005475521087646	 ([well][guess][supposedly][classic][easily][recognizable][faces,][personally][think][is...][beautiful][sweet][winkler][job][me.])
+v(6,7,12,13,20): 8.688230514526367, EP: 1.099462628364563	 ([faces,][personally][movie,][henry][me.])
+v(5,6,7,9,10,11,12,13,14,15,16,17,18,19,20): 8.550490379333496, EP: 1.0820322036743164	 ([recognizable][faces,][personally][is...][beautiful][sweet][movie,][henry][winkler][great][job][character][really][impressed][me.])
+v(5,6,7,9,10,11,12,13,14,16,20): 8.542939186096191, EP: 1.0810766220092773	 ([recognizable][faces,][personally][is...][beautiful][sweet][movie,][henry][winkler][job][me.])
+v(5,9,10,11,14,15,16,17,18,19): 8.506484031677246, EP: 1.0764633417129517	 ([recognizable][is...][beautiful][sweet][winkler][great][job][character][really][impressed])
+v(0,1,2,3,4,5,8,9,10,11,14,15,16,17,18,19): 8.386096954345703, EP: 1.0612287521362305	 ([well][guess][supposedly][classic][easily][recognizable][think][is...][beautiful][sweet][winkler][great][job][character][really][impressed])
+v(6,7,15,17,18,19,20): 8.333196640014648, EP: 1.0545344352722168	 ([faces,][personally][great][character][really][impressed][me.])
+v(5,6,7,9,10,11,14,16,20): 8.324970245361328, EP: 1.0534933805465698	 ([recognizable][faces,][personally][is...][beautiful][sweet][winkler][job][me.])
+v(5,9,10,11,12,13,14,16): 8.324710845947266, EP: 1.0534605979919434	 ([recognizable][is...][beautiful][sweet][movie,][henry][winkler][job])
+v(0,1,2,3,4,5,8,9,10,11,14,16): 8.245580673217773, EP: 1.0434470176696777	 ([well][guess][supposedly][classic][easily][recognizable][think][is...][beautiful][sweet][winkler][job])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,20): 8.234704971313477, EP: 1.042070746421814	 ([well][guess][supposedly][classic][easily][recognizable][faces,][personally][think][is...][beautiful][sweet][movie,][henry][winkler][job][me.])
+v(5,9,10,11,12,13,14,15,16,17,18,19): 8.220939636230469, EP: 1.0403287410736084	 ([recognizable][is...][beautiful][sweet][movie,][henry][winkler][great][job][character][really][impressed])
+v(0,1,2,3,4,5,8,9,10,11,12,13,14,16): 8.141047477722168, EP: 1.0302187204360962	 ([well][guess][supposedly][classic][easily][recognizable][think][is...][beautiful][sweet][movie,][henry][winkler][job])
+v(0,1,2,3,4,6,7,8,12,13,20): 8.001811981201172, EP: 1.012598991394043	 ([well][guess][supposedly][classic][easily][faces,][personally][think][movie,][henry][me.])
+v(6,7,12,13,15,17,18,19,20): 8.00113296508789, EP: 1.0125130414962769	 ([faces,][personally][movie,][henry][great][character][really][impressed][me.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20): 7.902251720428467, EP: 1.0	 ([well][guess][supposedly][classic][easily][recognizable][faces,][personally][think][is...][beautiful][sweet][movie,][henry][winkler][great][job][character][really][impressed][me.])
+v(15,17,18,19): 7.881952285766602, EP: 0.9974311590194702	 ([great][character][really][impressed])
+v(0,1,2,3,4,8,12,13): 7.866827011108398, EP: 0.9955171346664429	 ([well][guess][supposedly][classic][easily][think][movie,][henry])
+v(0,1,2,3,4,5,8,9,10,11,12,13,14,15,16,17,18,19): 7.702608108520508, EP: 0.9747358560562134	 ([well][guess][supposedly][classic][easily][recognizable][think][is...][beautiful][sweet][movie,][henry][winkler][great][job][character][really][impressed])
+v(12,13,15,17,18,19): 7.611010551452637, EP: 0.9631445407867432	 ([movie,][henry][great][character][really][impressed])
+v(0,1,2,3,4,6,7,8,12,13,15,17,18,19,20): 7.483543395996094, EP: 0.9470140337944031	 ([well][guess][supposedly][classic][easily][faces,][personally][think][movie,][henry][great][character][really][impressed][me.])
+v(0,1,2,3,4,8,12,13,15,17,18,19): 7.477774620056152, EP: 0.9462840557098389	 ([well][guess][supposedly][classic][easily][think][movie,][henry][great][character][really][impressed])
+v(0,1,2,3,4,8,15,17,18,19): 7.337852478027344, EP: 0.9285774230957031	 ([well][guess][supposedly][classic][easily][think][great][character][really][impressed])
+v(0,1,2,3,4,6,7,8,20): 7.306182861328125, EP: 0.9245697259902954	 ([well][guess][supposedly][classic][easily][faces,][personally][think][me.])
+v(0,1,2,3,4,6,7,8,15,17,18,19,20): 7.179614543914795, EP: 0.9085530042648315	 ([well][guess][supposedly][classic][easily][faces,][personally][think][great][character][really][impressed][me.])
+v(12,13): 7.174269199371338, EP: 0.9078765511512756	 ([movie,][henry])
+v(5,9,10,11,14,16): 7.123566627502441, EP: 0.9014603495597839	 ([recognizable][is...][beautiful][sweet][winkler][job])
+v(0,1,2,3,4,8): 5.4521870613098145, EP: 0.689953625202179	 ([well][guess][supposedly][classic][easily][think])
+v(6,7,20): 3.2574801445007324, EP: 0.412221759557724	 ([faces,][personally][me.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

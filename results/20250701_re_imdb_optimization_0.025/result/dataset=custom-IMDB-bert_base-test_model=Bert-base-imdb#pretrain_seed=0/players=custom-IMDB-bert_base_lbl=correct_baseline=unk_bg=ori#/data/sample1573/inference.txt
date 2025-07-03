@@ -1,0 +1,54 @@
+Execution time: 2025-07-03 18:38:55
+prompt: [CLS] it feels like swedish movies are trying to become more american and i just don t get it. in this movie the performance of some of the actors is horrible and the script is nothing special. don t waste your time! [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:2009 decoded_text: it
+idx:2 input_id:5683 decoded_text: feels
+idx:3 input_id:2066 decoded_text: like
+idx:4 input_id:4467 decoded_text: swedish
+idx:5 input_id:5691 decoded_text: movies
+idx:6 input_id:2024 decoded_text: are
+idx:7 input_id:2667 decoded_text: trying
+idx:8 input_id:2000 decoded_text: to
+idx:9 input_id:2468 decoded_text: become
+idx:10 input_id:2062 decoded_text: more
+idx:11 input_id:2137 decoded_text: american
+idx:12 input_id:1998 decoded_text: and
+idx:13 input_id:1045 decoded_text: i
+idx:14 input_id:2074 decoded_text: just
+idx:15 input_id:2123 decoded_text: don
+idx:16 input_id:1056 decoded_text: t
+idx:17 input_id:2131 decoded_text: get
+idx:18 input_id:2009 decoded_text: it
+idx:19 input_id:1012 decoded_text: .
+idx:20 input_id:1999 decoded_text: in
+idx:21 input_id:2023 decoded_text: this
+idx:22 input_id:3185 decoded_text: movie
+idx:23 input_id:1996 decoded_text: the
+idx:24 input_id:2836 decoded_text: performance
+idx:25 input_id:1997 decoded_text: of
+idx:26 input_id:2070 decoded_text: some
+idx:27 input_id:1997 decoded_text: of
+idx:28 input_id:1996 decoded_text: the
+idx:29 input_id:5889 decoded_text: actors
+idx:30 input_id:2003 decoded_text: is
+idx:31 input_id:9202 decoded_text: horrible
+idx:32 input_id:1998 decoded_text: and
+idx:33 input_id:1996 decoded_text: the
+idx:34 input_id:5896 decoded_text: script
+idx:35 input_id:2003 decoded_text: is
+idx:36 input_id:2498 decoded_text: nothing
+idx:37 input_id:2569 decoded_text: special
+idx:38 input_id:1012 decoded_text: .
+idx:39 input_id:2123 decoded_text: don
+idx:40 input_id:1056 decoded_text: t
+idx:41 input_id:5949 decoded_text: waste
+idx:42 input_id:2115 decoded_text: your
+idx:43 input_id:2051 decoded_text: time
+idx:44 input_id:999 decoded_text: !
+idx:45 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:0
+pred_scores:[[4.1807942390441895, -3.8099610805511475]]
+decoded_pred_text (only for generation task): [PAD]
+==================================================

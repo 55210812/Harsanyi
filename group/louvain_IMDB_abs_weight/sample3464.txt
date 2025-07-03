@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['2', '8', '57', '49', '45', '50', '15', '53', '7']: ['actor', 'actors', 'seems', 'actors', '". )', 'actors', 'actors', 'movie', 'half']: 平均边权 0.9624
+社区 2: ['46', '52', '47', '39', '48', '41', '42', '43', '51', '10']: ['enough', 'accent?', 'either', '( another', 'jewish', 'david', "lean's", 'dr.', 'israeli', 'jews']: 平均边权 0.3406
+社区 3: ['61', '5', '19', '58', '4', '16', '11', '3', '59', '60', '17']: ['claim', 'blue', 'blue', 'doubt', 'jesus', 'there?', 'blue', 'play', 'legitimacy', "jesus's", 'jesus']: 平均边权 0.2526
+社区 4: ['55', '56', '32', '40', '54']: ['true', 'scriptures,', 'take', 'example', 'often']: 平均边权 0.2229
+社区 5: ['12', '20', '27', '13', '18', '22', '23', '9', '1', '14', '6']: ['eyes.', 'eyes', 'all,', 'enough', 'depicted', 'pet', 'peeves.', 'playing', 'all,', 'brown - eyed', 'eyes...']: 平均边权 0.2059
+社区 6: ['38', '35', '36', '34', '29', '37', '44', '33', '28']: ['accents?', 'countries,', 'everybody', 'non - english - speaking', 'english - language', 'english', 'zhivago', 'place', 'old']: 平均边权 0.2911
+社区 7: ['24', '25', '26', '0']: ['full - blooded', 'jew!', 'second', 'first']: 平均边权 0.4100
+社区 8: ['30', '21', '31']: ['movies', 'one', 'supposed']: 平均边权 0.5681

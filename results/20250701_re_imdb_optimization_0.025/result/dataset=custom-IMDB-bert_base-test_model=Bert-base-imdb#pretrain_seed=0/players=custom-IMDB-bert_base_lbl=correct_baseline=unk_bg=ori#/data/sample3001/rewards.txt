@@ -1,0 +1,97 @@
+---------- Players ----------
+Player 0: ... had
+Player 1: watched
+Player 2: teenage
+Player 3: years.
+Player 4: movie
+Player 5: mildly
+Player 6: entertaining.
+Player 7: liked
+Player 8: soul
+Player 9: survivors
+Player 10: gothic
+Player 11: atmosphere
+Player 12: party
+Player 13: scenes,
+Player 14: constant
+Player 15: flips
+Player 16: ' dream '
+Player 17: ' reality.
+Player 18: movies
+Player 19: like
+Player 20: ' the
+Player 21: 6th
+Player 22: sense '
+Player 23: ' don't
+Player 24: look
+Player 25: now '
+Player 26: would
+Player 27: surprised
+Player 28: ending.
+---------- Rewards ----------
+v(): -1.3945988416671753	 ([])
+v(3,4,5): 2.2909650802612305	 ([years.][movie][mildly])
+v(22,25,26,27): -2.3388876914978027	 ([sense '][now '][would][surprised])
+v(0,1,2,8,9,14,28): -3.016824245452881	 ([... had][watched][teenage][soul][survivors][constant][ending.])
+v(7,10,15,16,17,18,19,23,24): -0.18820473551750183	 ([liked][gothic][flips][' dream '][' reality.][movies][like][' don't][look])
+v(6,11,12,13,21): -6.781135082244873	 ([entertaining.][atmosphere][party][scenes,][6th])
+v(3,4,5,22,25,26,27): 1.899310827255249	 ([years.][movie][mildly][sense '][now '][would][surprised])
+v(0,1,2,3,4,5,8,9,14,28): 4.758150100708008	 ([... had][watched][teenage][years.][movie][mildly][soul][survivors][constant][ending.])
+v(3,4,5,7,10,15,16,17,18,19,23,24): 2.489710807800293	 ([years.][movie][mildly][liked][gothic][flips][' dream '][' reality.][movies][like][' don't][look])
+v(3,4,5,6,11,12,13,21): 7.0965704917907715	 ([years.][movie][mildly][entertaining.][atmosphere][party][scenes,][6th])
+v(0,1,2,8,9,14,22,25,26,27,28): -3.5914840698242188	 ([... had][watched][teenage][soul][survivors][constant][sense '][now '][would][surprised][ending.])
+v(7,10,15,16,17,18,19,22,23,24,25,26,27): -1.292117714881897	 ([liked][gothic][flips][' dream '][' reality.][movies][like][sense '][' don't][look][now '][would][surprised])
+v(6,11,12,13,21,22,25,26,27): -7.439413547515869	 ([entertaining.][atmosphere][party][scenes,][6th][sense '][now '][would][surprised])
+v(0,1,2,7,8,9,10,14,15,16,17,18,19,23,24,28): -0.9567660689353943	 ([... had][watched][teenage][liked][soul][survivors][gothic][constant][flips][' dream '][' reality.][movies][like][' don't][look][ending.])
+v(0,1,2,6,8,9,11,12,13,14,21,28): -8.138460159301758	 ([... had][watched][teenage][entertaining.][soul][survivors][atmosphere][party][scenes,][constant][6th][ending.])
+v(6,7,10,11,12,13,15,16,17,18,19,21,23,24): -6.818049907684326	 ([entertaining.][liked][gothic][atmosphere][party][scenes,][flips][' dream '][' reality.][movies][like][6th][' don't][look])
+v(0,1,2,3,4,5,8,9,14,22,25,26,27,28): 4.532639503479004	 ([... had][watched][teenage][years.][movie][mildly][soul][survivors][constant][sense '][now '][would][surprised][ending.])
+v(3,4,5,7,10,15,16,17,18,19,22,23,24,25,26,27): 1.6784641742706299	 ([years.][movie][mildly][liked][gothic][flips][' dream '][' reality.][movies][like][sense '][' don't][look][now '][would][surprised])
+v(3,4,5,6,11,12,13,21,22,25,26,27): 7.049986839294434	 ([years.][movie][mildly][entertaining.][atmosphere][party][scenes,][6th][sense '][now '][would][surprised])
+v(0,1,2,3,4,5,7,8,9,10,14,15,16,17,18,19,23,24,28): 4.630414962768555	 ([... had][watched][teenage][years.][movie][mildly][liked][soul][survivors][gothic][constant][flips][' dream '][' reality.][movies][like][' don't][look][ending.])
+v(0,1,2,3,4,5,6,8,9,11,12,13,14,21,28): 8.325139045715332	 ([... had][watched][teenage][years.][movie][mildly][entertaining.][soul][survivors][atmosphere][party][scenes,][constant][6th][ending.])
+v(3,4,5,6,7,10,11,12,13,15,16,17,18,19,21,23,24): 7.3105974197387695	 ([years.][movie][mildly][entertaining.][liked][gothic][atmosphere][party][scenes,][flips][' dream '][' reality.][movies][like][6th][' don't][look])
+v(0,1,2,7,8,9,10,14,15,16,17,18,19,22,23,24,25,26,27,28): -3.093318462371826	 ([... had][watched][teenage][liked][soul][survivors][gothic][constant][flips][' dream '][' reality.][movies][like][sense '][' don't][look][now '][would][surprised][ending.])
+v(0,1,2,6,8,9,11,12,13,14,21,22,25,26,27,28): -8.188292503356934	 ([... had][watched][teenage][entertaining.][soul][survivors][atmosphere][party][scenes,][constant][6th][sense '][now '][would][surprised][ending.])
+v(6,7,10,11,12,13,15,16,17,18,19,21,22,23,24,25,26,27): -7.068122863769531	 ([entertaining.][liked][gothic][atmosphere][party][scenes,][flips][' dream '][' reality.][movies][like][6th][sense '][' don't][look][now '][would][surprised])
+v(0,1,2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,24,28): -7.7299089431762695	 ([... had][watched][teenage][entertaining.][liked][soul][survivors][gothic][atmosphere][party][scenes,][constant][flips][' dream '][' reality.][movies][like][6th][' don't][look][ending.])
+v(0,1,2,3,4,5,7,8,9,10,14,15,16,17,18,19,22,23,24,25,26,27,28): 3.5609822273254395	 ([... had][watched][teenage][years.][movie][mildly][liked][soul][survivors][gothic][constant][flips][' dream '][' reality.][movies][like][sense '][' don't][look][now '][would][surprised][ending.])
+v(0,1,2,3,4,5,6,8,9,11,12,13,14,21,22,25,26,27,28): 8.53612995147705	 ([... had][watched][teenage][years.][movie][mildly][entertaining.][soul][survivors][atmosphere][party][scenes,][constant][6th][sense '][now '][would][surprised][ending.])
+v(3,4,5,6,7,10,11,12,13,15,16,17,18,19,21,22,23,24,25,26,27): 7.4498090744018555	 ([years.][movie][mildly][entertaining.][liked][gothic][atmosphere][party][scenes,][flips][' dream '][' reality.][movies][like][6th][sense '][' don't][look][now '][would][surprised])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,24,28): 8.486028671264648	 ([... had][watched][teenage][years.][movie][mildly][entertaining.][liked][soul][survivors][gothic][atmosphere][party][scenes,][constant][flips][' dream '][' reality.][movies][like][6th][' don't][look][ending.])
+v(0,1,2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28): -7.980794906616211	 ([... had][watched][teenage][entertaining.][liked][soul][survivors][gothic][atmosphere][party][scenes,][constant][flips][' dream '][' reality.][movies][like][6th][sense '][' don't][look][now '][would][surprised][ending.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 8.343754768371582	 ([... had][watched][teenage][years.][movie][mildly][entertaining.][liked][soul][survivors][gothic][atmosphere][party][scenes,][constant][flips][' dream '][' reality.][movies][like][' the][6th][sense '][' don't][look][now '][would][surprised][ending.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,8,9,11,12,13,14,21,22,25,26,27,28): 9.930728912353516, EP: 1.019754409790039	 ([... had][watched][teenage][years.][movie][mildly][entertaining.][soul][survivors][atmosphere][party][scenes,][constant][6th][sense '][now '][would][surprised][ending.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,24,28): 9.880627632141113, EP: 1.014609694480896	 ([... had][watched][teenage][years.][movie][mildly][entertaining.][liked][soul][survivors][gothic][atmosphere][party][scenes,][constant][flips][' dream '][' reality.][movies][like][6th][' don't][look][ending.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28): 9.738353729248047, EP: 1.0	 ([... had][watched][teenage][years.][movie][mildly][entertaining.][liked][soul][survivors][gothic][atmosphere][party][scenes,][constant][flips][' dream '][' reality.][movies][like][' the][6th][sense '][' don't][look][now '][would][surprised][ending.])
+v(0,1,2,3,4,5,6,8,9,11,12,13,14,21,28): 9.719738006591797, EP: 0.9980884194374084	 ([... had][watched][teenage][years.][movie][mildly][entertaining.][soul][survivors][atmosphere][party][scenes,][constant][6th][ending.])
+v(3,4,5,6,7,10,11,12,13,15,16,17,18,19,21,22,23,24,25,26,27): 8.84440803527832, EP: 0.9082036018371582	 ([years.][movie][mildly][entertaining.][liked][gothic][atmosphere][party][scenes,][flips][' dream '][' reality.][movies][like][6th][sense '][' don't][look][now '][would][surprised])
+v(3,4,5,6,7,10,11,12,13,15,16,17,18,19,21,23,24): 8.705196380615234, EP: 0.8939084410667419	 ([years.][movie][mildly][entertaining.][liked][gothic][atmosphere][party][scenes,][flips][' dream '][' reality.][movies][like][6th][' don't][look])
+v(3,4,5,6,11,12,13,21): 8.491168975830078, EP: 0.8719306588172913	 ([years.][movie][mildly][entertaining.][atmosphere][party][scenes,][6th])
+v(3,4,5,6,11,12,13,21,22,25,26,27): 8.444585800170898, EP: 0.8671471476554871	 ([years.][movie][mildly][entertaining.][atmosphere][party][scenes,][6th][sense '][now '][would][surprised])
+v(0,1,2,6,8,9,11,12,13,14,21,22,25,26,27,28): -6.793693542480469, EP: -0.6976223587989807	 ([... had][watched][teenage][entertaining.][soul][survivors][atmosphere][party][scenes,][constant][6th][sense '][now '][would][surprised][ending.])
+v(0,1,2,6,8,9,11,12,13,14,21,28): -6.743861198425293, EP: -0.6925052404403687	 ([... had][watched][teenage][entertaining.][soul][survivors][atmosphere][party][scenes,][constant][6th][ending.])
+v(0,1,2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28): -6.586195945739746, EP: -0.6763151288032532	 ([... had][watched][teenage][entertaining.][liked][soul][survivors][gothic][atmosphere][party][scenes,][constant][flips][' dream '][' reality.][movies][like][6th][sense '][' don't][look][now '][would][surprised][ending.])
+v(0,1,2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,24,28): -6.335309982299805, EP: -0.6505524516105652	 ([... had][watched][teenage][entertaining.][liked][soul][survivors][gothic][atmosphere][party][scenes,][constant][flips][' dream '][' reality.][movies][like][6th][' don't][look][ending.])
+v(0,1,2,3,4,5,8,9,14,28): 6.152749061584473, EP: 0.6318058967590332	 ([... had][watched][teenage][years.][movie][mildly][soul][survivors][constant][ending.])
+v(6,11,12,13,21,22,25,26,27): -6.044814586639404, EP: -0.6207224130630493	 ([entertaining.][atmosphere][party][scenes,][6th][sense '][now '][would][surprised])
+v(0,1,2,3,4,5,7,8,9,10,14,15,16,17,18,19,23,24,28): 6.0250139236450195, EP: 0.6186891794204712	 ([... had][watched][teenage][years.][movie][mildly][liked][soul][survivors][gothic][constant][flips][' dream '][' reality.][movies][like][' don't][look][ending.])
+v(0,1,2,3,4,5,8,9,14,22,25,26,27,28): 5.927238464355469, EP: 0.6086488962173462	 ([... had][watched][teenage][years.][movie][mildly][soul][survivors][constant][sense '][now '][would][surprised][ending.])
+v(6,7,10,11,12,13,15,16,17,18,19,21,22,23,24,25,26,27): -5.673523902893066, EP: -0.5825957655906677	 ([entertaining.][liked][gothic][atmosphere][party][scenes,][flips][' dream '][' reality.][movies][like][6th][sense '][' don't][look][now '][would][surprised])
+v(6,7,10,11,12,13,15,16,17,18,19,21,23,24): -5.423450946807861, EP: -0.5569165945053101	 ([entertaining.][liked][gothic][atmosphere][party][scenes,][flips][' dream '][' reality.][movies][like][6th][' don't][look])
+v(6,11,12,13,21): -5.386536121368408, EP: -0.5531259179115295	 ([entertaining.][atmosphere][party][scenes,][6th])
+v(0,1,2,3,4,5,7,8,9,10,14,15,16,17,18,19,22,23,24,25,26,27,28): 4.955581188201904, EP: 0.5088725686073303	 ([... had][watched][teenage][years.][movie][mildly][liked][soul][survivors][gothic][constant][flips][' dream '][' reality.][movies][like][sense '][' don't][look][now '][would][surprised][ending.])
+v(3,4,5,7,10,15,16,17,18,19,23,24): 3.884309768676758, EP: 0.3988671898841858	 ([years.][movie][mildly][liked][gothic][flips][' dream '][' reality.][movies][like][' don't][look])
+v(3,4,5): 3.6855640411376953, EP: 0.3784586191177368	 ([years.][movie][mildly])
+v(3,4,5,22,25,26,27): 3.2939095497131348, EP: 0.3382408916950226	 ([years.][movie][mildly][sense '][now '][would][surprised])
+v(3,4,5,7,10,15,16,17,18,19,22,23,24,25,26,27): 3.0730628967285156, EP: 0.3155628740787506	 ([years.][movie][mildly][liked][gothic][flips][' dream '][' reality.][movies][like][sense '][' don't][look][now '][would][surprised])
+v(0,1,2,8,9,14,22,25,26,27,28): -2.196885108947754, EP: -0.2255910187959671	 ([... had][watched][teenage][soul][survivors][constant][sense '][now '][would][surprised][ending.])
+v(0,1,2,7,8,9,10,14,15,16,17,18,19,22,23,24,25,26,27,28): -1.6987196207046509, EP: -0.17443601787090302	 ([... had][watched][teenage][liked][soul][survivors][gothic][constant][flips][' dream '][' reality.][movies][like][sense '][' don't][look][now '][would][surprised][ending.])
+v(0,1,2,8,9,14,28): -1.6222254037857056, EP: -0.16658107936382294	 ([... had][watched][teenage][soul][survivors][constant][ending.])
+v(7,10,15,16,17,18,19,23,24): 1.206394076347351, EP: 0.12388069927692413	 ([liked][gothic][flips][' dream '][' reality.][movies][like][' don't][look])
+v(22,25,26,27): -0.9442888498306274, EP: -0.0969659611582756	 ([sense '][now '][would][surprised])
+v(0,1,2,7,8,9,10,14,15,16,17,18,19,23,24,28): 0.437832772731781, EP: 0.04495963081717491	 ([... had][watched][teenage][liked][soul][survivors][gothic][constant][flips][' dream '][' reality.][movies][like][' don't][look][ending.])
+v(7,10,15,16,17,18,19,22,23,24,25,26,27): 0.10248112678527832, EP: 0.01052345521748066	 ([liked][gothic][flips][' dream '][' reality.][movies][like][sense '][' don't][look][now '][would][surprised])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

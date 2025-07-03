@@ -1,0 +1,10 @@
+louvain社区检测结果:
+社区 1: ['12', '27', '25', '34', '29', '30', '26', '28']: ['great', 'great.', 'another', 'probably', 'ted', 'raimi', 'cast.', 'best']: 平均边权 1.1860
+社区 2: ['10', '13', '45', '18', '11', '48', '15', '22', '14', '31']: ['camera', 'opinion', 'hope', 'movie', 'angles', 'movie', 'best.', 'films', 'acting', 'film']: 平均边权 0.6745
+社区 3: ['4', '8', '5', '19', '9', '6', '7']: ['none', 'ever', 'best', 'writing', 'seen.', 'movie', "i've"]: 平均边权 0.9353
+社区 4: ['49', '46', '47', '50', '41', '53', '42', '51', '54']: ['year', 'goten', 'best', 'instead', 'raptor', 'crash', 'island', 'crappy', 'bunch']: 平均边权 0.6311
+社区 5: ['20', '3', '21']: ['big', 'bar', 'budget']: 平均边权 0.6183
+社区 6: ['2', '1', '0']: ['begin.', 'god', 'dear']: 平均边权 0.8932
+社区 7: ['24', '40', '23', '44']: ['understand.', 'wrong.', 'never', 'art.']: 平均边权 0.5956
+社区 8: ['39', '55', '38', '37', '36', '35']: ['"', 'names', 'better', 'plenty', 'way', 'thinking']: 平均边权 0.3735
+社区 9: ['16', '33', '43', '32', '52', '17']: ['script', 'know', 'work', 'sure.', 'movie', 'writers']: 平均边权 0.5579

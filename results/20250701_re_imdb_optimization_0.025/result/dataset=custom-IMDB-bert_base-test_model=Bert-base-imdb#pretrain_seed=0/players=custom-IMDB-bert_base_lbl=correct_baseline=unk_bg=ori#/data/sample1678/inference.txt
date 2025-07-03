@@ -1,0 +1,62 @@
+Execution time: 2025-07-03 18:44:37
+prompt: [CLS] i think the weighted average for this film is too low. i give it a 7. very entertaining, although over the top in a few places. my wife says it passes the danielle steele test. superb performances throughout, particularly by andie macdowell. [SEP]
+---------- tokenizer ----------
+idx:0 input_id:101 decoded_text: [CLS]
+idx:1 input_id:1045 decoded_text: i
+idx:2 input_id:2228 decoded_text: think
+idx:3 input_id:1996 decoded_text: the
+idx:4 input_id:18215 decoded_text: weighted
+idx:5 input_id:2779 decoded_text: average
+idx:6 input_id:2005 decoded_text: for
+idx:7 input_id:2023 decoded_text: this
+idx:8 input_id:2143 decoded_text: film
+idx:9 input_id:2003 decoded_text: is
+idx:10 input_id:2205 decoded_text: too
+idx:11 input_id:2659 decoded_text: low
+idx:12 input_id:1012 decoded_text: .
+idx:13 input_id:1045 decoded_text: i
+idx:14 input_id:2507 decoded_text: give
+idx:15 input_id:2009 decoded_text: it
+idx:16 input_id:1037 decoded_text: a
+idx:17 input_id:1021 decoded_text: 7
+idx:18 input_id:1012 decoded_text: .
+idx:19 input_id:2200 decoded_text: very
+idx:20 input_id:14036 decoded_text: entertaining
+idx:21 input_id:1010 decoded_text: ,
+idx:22 input_id:2348 decoded_text: although
+idx:23 input_id:2058 decoded_text: over
+idx:24 input_id:1996 decoded_text: the
+idx:25 input_id:2327 decoded_text: top
+idx:26 input_id:1999 decoded_text: in
+idx:27 input_id:1037 decoded_text: a
+idx:28 input_id:2261 decoded_text: few
+idx:29 input_id:3182 decoded_text: places
+idx:30 input_id:1012 decoded_text: .
+idx:31 input_id:2026 decoded_text: my
+idx:32 input_id:2564 decoded_text: wife
+idx:33 input_id:2758 decoded_text: says
+idx:34 input_id:2009 decoded_text: it
+idx:35 input_id:5235 decoded_text: passes
+idx:36 input_id:1996 decoded_text: the
+idx:37 input_id:18490 decoded_text: danielle
+idx:38 input_id:12872 decoded_text: steele
+idx:39 input_id:3231 decoded_text: test
+idx:40 input_id:1012 decoded_text: .
+idx:41 input_id:21688 decoded_text: superb
+idx:42 input_id:4616 decoded_text: performances
+idx:43 input_id:2802 decoded_text: throughout
+idx:44 input_id:1010 decoded_text: ,
+idx:45 input_id:3391 decoded_text: particularly
+idx:46 input_id:2011 decoded_text: by
+idx:47 input_id:1998 decoded_text: and
+idx:48 input_id:2666 decoded_text: ##ie
+idx:49 input_id:6097 decoded_text: mac
+idx:50 input_id:3527 decoded_text: ##do
+idx:51 input_id:4381 decoded_text: ##well
+idx:52 input_id:1012 decoded_text: .
+idx:53 input_id:102 decoded_text: [SEP]
+---------- predict ----------
+pred_label:1
+pred_scores:[[-4.250030040740967, 4.294874668121338]]
+decoded_pred_text (only for generation task): [unused0]
+==================================================

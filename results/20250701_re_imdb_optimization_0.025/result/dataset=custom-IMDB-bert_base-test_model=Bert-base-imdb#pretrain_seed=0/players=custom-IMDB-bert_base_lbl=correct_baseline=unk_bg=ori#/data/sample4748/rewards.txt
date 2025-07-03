@@ -1,0 +1,171 @@
+---------- Players ----------
+Player 0: mere
+Player 1: thoughts
+Player 2: going
+Player 3: overboard
+Player 4: "
+Player 5: ( aka
+Player 6: " babes
+Player 7: ahoy
+Player 8: " )
+Player 9: make
+Player 10: want
+Player 11: weep.
+Player 12: throwing
+Player 13: window
+Player 14: would
+Player 15: better
+Player 16: watching
+Player 17: movie.
+Player 18: even
+Player 19: supposed
+Player 20: " so
+Player 21: bad
+Player 22: good
+Player 23: "
+Player 24: movie.
+Player 25: would
+Player 26: spend
+Player 27: money
+Player 28: buy
+Player 29: copies
+Player 30: movie
+Player 31: burn
+Player 32: people
+Player 33: can't
+Player 34: see
+Player 35: it.
+Player 36: oh
+Player 37: pain,
+Player 38: pain... "
+---------- Rewards ----------
+v(): 0.5699020624160767	 ([])
+v(16,21,22,23,29): 2.160064935684204	 ([watching][bad][good]["][copies])
+v(9,12,13,14,15): 2.188107967376709	 ([make][throwing][window][would][better])
+v(17,18,19,20): 2.749861240386963	 ([movie.][even][supposed][" so])
+v(0,1,3,4,5,7,10,38): 2.8612542152404785	 ([mere][thoughts][overboard]["][( aka][ahoy][want][pain... "])
+v(2,6,11,30,31,32,33,34,35,36,37): 4.626880168914795	 ([going][" babes][weep.][movie][burn][people][can't][see][it.][oh][pain,])
+v(8,24,25,26,27,28): 2.6189417839050293	 ([" )][movie.][would][spend][money][buy])
+v(9,12,13,14,15,16,21,22,23,29): 1.7947845458984375	 ([make][throwing][window][would][better][watching][bad][good]["][copies])
+v(16,17,18,19,20,21,22,23,29): 4.772159099578857	 ([watching][movie.][even][supposed][" so][bad][good]["][copies])
+v(0,1,3,4,5,7,10,16,21,22,23,29,38): 2.3895792961120605	 ([mere][thoughts][overboard]["][( aka][ahoy][want][watching][bad][good]["][copies][pain... "])
+v(2,6,11,16,21,22,23,29,30,31,32,33,34,35,36,37): 4.304971694946289	 ([going][" babes][weep.][watching][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(8,16,21,22,23,24,25,26,27,28,29): 2.94283127784729	 ([" )][watching][bad][good]["][movie.][would][spend][money][buy][copies])
+v(9,12,13,14,15,17,18,19,20): 4.25236701965332	 ([make][throwing][window][would][better][movie.][even][supposed][" so])
+v(0,1,3,4,5,7,9,10,12,13,14,15,38): 3.6005659103393555	 ([mere][thoughts][overboard]["][( aka][ahoy][make][want][throwing][window][would][better][pain... "])
+v(2,6,9,11,12,13,14,15,30,31,32,33,34,35,36,37): 5.227812767028809	 ([going][" babes][make][weep.][throwing][window][would][better][movie][burn][people][can't][see][it.][oh][pain,])
+v(8,9,12,13,14,15,24,25,26,27,28): 4.882502555847168	 ([" )][make][throwing][window][would][better][movie.][would][spend][money][buy])
+v(0,1,3,4,5,7,10,17,18,19,20,38): 4.914131164550781	 ([mere][thoughts][overboard]["][( aka][ahoy][want][movie.][even][supposed][" so][pain... "])
+v(2,6,11,17,18,19,20,30,31,32,33,34,35,36,37): 5.034173488616943	 ([going][" babes][weep.][movie.][even][supposed][" so][movie][burn][people][can't][see][it.][oh][pain,])
+v(8,17,18,19,20,24,25,26,27,28): 3.3721299171447754	 ([" )][movie.][even][supposed][" so][movie.][would][spend][money][buy])
+v(0,1,2,3,4,5,6,7,10,11,30,31,32,33,34,35,36,37,38): 3.639848232269287	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][want][weep.][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,3,4,5,7,8,10,24,25,26,27,28,38): 4.606210708618164	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][want][movie.][would][spend][money][buy][pain... "])
+v(2,6,8,11,24,25,26,27,28,30,31,32,33,34,35,36,37): 5.872912406921387	 ([going][" babes][" )][weep.][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,])
+v(9,12,13,14,15,16,17,18,19,20,21,22,23,29): 6.2276225090026855	 ([make][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][copies])
+v(0,1,3,4,5,7,9,10,12,13,14,15,16,21,22,23,29,38): 2.329922676086426	 ([mere][thoughts][overboard]["][( aka][ahoy][make][want][throwing][window][would][better][watching][bad][good]["][copies][pain... "])
+v(2,6,9,11,12,13,14,15,16,21,22,23,29,30,31,32,33,34,35,36,37): 3.972611427307129	 ([going][" babes][make][weep.][throwing][window][would][better][watching][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(8,9,12,13,14,15,16,21,22,23,24,25,26,27,28,29): 3.78157377243042	 ([" )][make][throwing][window][would][better][watching][bad][good]["][movie.][would][spend][money][buy][copies])
+v(0,1,3,4,5,7,10,16,17,18,19,20,21,22,23,29,38): 6.2301554679870605	 ([mere][thoughts][overboard]["][( aka][ahoy][want][watching][movie.][even][supposed][" so][bad][good]["][copies][pain... "])
+v(2,6,11,16,17,18,19,20,21,22,23,29,30,31,32,33,34,35,36,37): 6.192705154418945	 ([going][" babes][weep.][watching][movie.][even][supposed][" so][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(8,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 6.253810882568359	 ([" )][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies])
+v(0,1,2,3,4,5,6,7,10,11,16,21,22,23,29,30,31,32,33,34,35,36,37,38): -0.08734449744224548	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][want][weep.][watching][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,3,4,5,7,8,10,16,21,22,23,24,25,26,27,28,29,38): 3.2968251705169678	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][want][watching][bad][good]["][movie.][would][spend][money][buy][copies][pain... "])
+v(2,6,8,11,16,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 5.600469589233398	 ([going][" babes][" )][weep.][watching][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(0,1,3,4,5,7,9,10,12,13,14,15,17,18,19,20,38): 6.196127891540527	 ([mere][thoughts][overboard]["][( aka][ahoy][make][want][throwing][window][would][better][movie.][even][supposed][" so][pain... "])
+v(2,6,9,11,12,13,14,15,17,18,19,20,30,31,32,33,34,35,36,37): 5.316954135894775	 ([going][" babes][make][weep.][throwing][window][would][better][movie.][even][supposed][" so][movie][burn][people][can't][see][it.][oh][pain,])
+v(8,9,12,13,14,15,17,18,19,20,24,25,26,27,28): 5.114372730255127	 ([" )][make][throwing][window][would][better][movie.][even][supposed][" so][movie.][would][spend][money][buy])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,15,30,31,32,33,34,35,36,37,38): 3.512747287750244	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][make][want][weep.][throwing][window][would][better][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,3,4,5,7,8,9,10,12,13,14,15,24,25,26,27,28,38): 5.986000061035156	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][make][want][throwing][window][would][better][movie.][would][spend][money][buy][pain... "])
+v(2,6,8,9,11,12,13,14,15,24,25,26,27,28,30,31,32,33,34,35,36,37): 6.323939323425293	 ([going][" babes][" )][make][weep.][throwing][window][would][better][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,])
+v(0,1,2,3,4,5,6,7,10,11,17,18,19,20,30,31,32,33,34,35,36,37,38): 5.2618279457092285	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][want][weep.][movie.][even][supposed][" so][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,3,4,5,7,8,10,17,18,19,20,24,25,26,27,28,38): 5.778372764587402	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][want][movie.][even][supposed][" so][movie.][would][spend][money][buy][pain... "])
+v(2,6,8,11,17,18,19,20,24,25,26,27,28,30,31,32,33,34,35,36,37): 6.137669563293457	 ([going][" babes][" )][weep.][movie.][even][supposed][" so][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,])
+v(0,1,2,3,4,5,6,7,8,10,11,24,25,26,27,28,30,31,32,33,34,35,36,37,38): 4.745128631591797	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][want][weep.][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,3,4,5,7,9,10,12,13,14,15,16,17,18,19,20,21,22,23,29,38): 7.263824462890625	 ([mere][thoughts][overboard]["][( aka][ahoy][make][want][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][copies][pain... "])
+v(2,6,9,11,12,13,14,15,16,17,18,19,20,21,22,23,29,30,31,32,33,34,35,36,37): 6.568961143493652	 ([going][" babes][make][weep.][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(8,9,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 7.10532283782959	 ([" )][make][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,21,22,23,29,30,31,32,33,34,35,36,37,38): -0.7848137021064758	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][make][want][weep.][throwing][window][would][better][watching][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,3,4,5,7,8,9,10,12,13,14,15,16,21,22,23,24,25,26,27,28,29,38): 5.056063652038574	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][make][want][throwing][window][would][better][watching][bad][good]["][movie.][would][spend][money][buy][copies][pain... "])
+v(2,6,8,9,11,12,13,14,15,16,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 5.779740333557129	 ([going][" babes][" )][make][weep.][throwing][window][would][better][watching][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(0,1,2,3,4,5,6,7,10,11,16,17,18,19,20,21,22,23,29,30,31,32,33,34,35,36,37,38): 6.825608253479004	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][want][weep.][watching][movie.][even][supposed][" so][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,3,4,5,7,8,10,16,17,18,19,20,21,22,23,24,25,26,27,28,29,38): 7.034792900085449	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][want][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies][pain... "])
+v(2,6,8,11,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 7.374033451080322	 ([going][" babes][" )][weep.][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(0,1,2,3,4,5,6,7,8,10,11,16,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 0.6389780044555664	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][want][weep.][watching][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,15,17,18,19,20,30,31,32,33,34,35,36,37,38): 4.938409805297852	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][make][want][weep.][throwing][window][would][better][movie.][even][supposed][" so][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,3,4,5,7,8,9,10,12,13,14,15,17,18,19,20,24,25,26,27,28,38): 6.957414150238037	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][make][want][throwing][window][would][better][movie.][even][supposed][" so][movie.][would][spend][money][buy][pain... "])
+v(2,6,8,9,11,12,13,14,15,17,18,19,20,24,25,26,27,28,30,31,32,33,34,35,36,37): 6.428182601928711	 ([going][" babes][" )][make][weep.][throwing][window][would][better][movie.][even][supposed][" so][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,24,25,26,27,28,30,31,32,33,34,35,36,37,38): 4.9640374183654785	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][make][want][weep.][throwing][window][would][better][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,2,3,4,5,6,7,8,10,11,17,18,19,20,24,25,26,27,28,30,31,32,33,34,35,36,37,38): 5.81990909576416	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][want][weep.][movie.][even][supposed][" so][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,29,30,31,32,33,34,35,36,37,38): 7.157713890075684	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][make][want][weep.][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,3,4,5,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,38): 7.701672554016113	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][make][want][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies][pain... "])
+v(2,6,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 7.359257698059082	 ([going][" babes][" )][make][weep.][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 1.7279815673828125	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][make][want][weep.][throwing][window][would][better][watching][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,2,3,4,5,6,7,8,10,11,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.153759002685547	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][want][weep.][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18,19,20,24,25,26,27,28,30,31,32,33,34,35,36,37,38): 6.072161674499512	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][make][want][weep.][throwing][window][would][better][movie.][even][supposed][" so][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 7.220746994018555	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][make][want][weep.][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+---------- Rewards-v() ----------
+v(0,1,3,4,5,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,38): 7.131770610809326, EP: 1.072310447692871	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][make][want][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies][pain... "])
+v(2,6,8,11,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 6.804131507873535, EP: 1.023047685623169	 ([going][" babes][" )][weep.][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(2,6,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 6.789355754852295, EP: 1.020825982093811	 ([going][" babes][" )][make][weep.][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(0,1,3,4,5,7,9,10,12,13,14,15,16,17,18,19,20,21,22,23,29,38): 6.693922519683838, EP: 1.0064769983291626	 ([mere][thoughts][overboard]["][( aka][ahoy][make][want][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][copies][pain... "])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 6.650845050811768, EP: 1.0	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][make][want][weep.][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,29,30,31,32,33,34,35,36,37,38): 6.5878119468688965, EP: 0.990522563457489	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][make][want][weep.][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,2,3,4,5,6,7,8,10,11,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 6.58385705947876, EP: 0.9899278879165649	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][want][weep.][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(8,9,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 6.535420894622803, EP: 0.9826452136039734	 ([" )][make][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies])
+v(0,1,3,4,5,7,8,10,16,17,18,19,20,21,22,23,24,25,26,27,28,29,38): 6.464890956878662, EP: 0.9720405340194702	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][want][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies][pain... "])
+v(0,1,3,4,5,7,8,9,10,12,13,14,15,17,18,19,20,24,25,26,27,28,38): 6.38751220703125, EP: 0.9604061245918274	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][make][want][throwing][window][would][better][movie.][even][supposed][" so][movie.][would][spend][money][buy][pain... "])
+v(0,1,2,3,4,5,6,7,10,11,16,17,18,19,20,21,22,23,29,30,31,32,33,34,35,36,37,38): 6.255706310272217, EP: 0.9405881762504578	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][want][weep.][watching][movie.][even][supposed][" so][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(2,6,9,11,12,13,14,15,16,17,18,19,20,21,22,23,29,30,31,32,33,34,35,36,37): 5.999059200286865, EP: 0.9019995331764221	 ([going][" babes][make][weep.][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(2,6,8,9,11,12,13,14,15,17,18,19,20,24,25,26,27,28,30,31,32,33,34,35,36,37): 5.858280658721924, EP: 0.8808325529098511	 ([going][" babes][" )][make][weep.][throwing][window][would][better][movie.][even][supposed][" so][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,])
+v(2,6,8,9,11,12,13,14,15,24,25,26,27,28,30,31,32,33,34,35,36,37): 5.754037380218506, EP: 0.8651588559150696	 ([going][" babes][" )][make][weep.][throwing][window][would][better][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,])
+v(8,16,17,18,19,20,21,22,23,24,25,26,27,28,29): 5.683908939361572, EP: 0.8546145558357239	 ([" )][watching][movie.][even][supposed][" so][bad][good]["][movie.][would][spend][money][buy][copies])
+v(0,1,3,4,5,7,10,16,17,18,19,20,21,22,23,29,38): 5.660253524780273, EP: 0.851057767868042	 ([mere][thoughts][overboard]["][( aka][ahoy][want][watching][movie.][even][supposed][" so][bad][good]["][copies][pain... "])
+v(9,12,13,14,15,16,17,18,19,20,21,22,23,29): 5.657720565795898, EP: 0.850676953792572	 ([make][throwing][window][would][better][watching][movie.][even][supposed][" so][bad][good]["][copies])
+v(0,1,3,4,5,7,9,10,12,13,14,15,17,18,19,20,38): 5.62622594833374, EP: 0.8459415435791016	 ([mere][thoughts][overboard]["][( aka][ahoy][make][want][throwing][window][would][better][movie.][even][supposed][" so][pain... "])
+v(2,6,11,16,17,18,19,20,21,22,23,29,30,31,32,33,34,35,36,37): 5.622803211212158, EP: 0.8454268574714661	 ([going][" babes][weep.][watching][movie.][even][supposed][" so][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(2,6,8,11,17,18,19,20,24,25,26,27,28,30,31,32,33,34,35,36,37): 5.56776762008667, EP: 0.8371518850326538	 ([going][" babes][" )][weep.][movie.][even][supposed][" so][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18,19,20,24,25,26,27,28,30,31,32,33,34,35,36,37,38): 5.502259731292725, EP: 0.8273023366928101	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][make][want][weep.][throwing][window][would][better][movie.][even][supposed][" so][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,3,4,5,7,8,9,10,12,13,14,15,24,25,26,27,28,38): 5.416098117828369, EP: 0.8143473863601685	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][make][want][throwing][window][would][better][movie.][would][spend][money][buy][pain... "])
+v(2,6,8,11,24,25,26,27,28,30,31,32,33,34,35,36,37): 5.3030104637146, EP: 0.7973438501358032	 ([going][" babes][" )][weep.][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,])
+v(0,1,2,3,4,5,6,7,8,10,11,17,18,19,20,24,25,26,27,28,30,31,32,33,34,35,36,37,38): 5.250007152557373, EP: 0.7893744707107544	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][want][weep.][movie.][even][supposed][" so][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(2,6,8,9,11,12,13,14,15,16,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 5.209838390350342, EP: 0.7833347916603088	 ([going][" babes][" )][make][weep.][throwing][window][would][better][watching][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(0,1,3,4,5,7,8,10,17,18,19,20,24,25,26,27,28,38): 5.208470821380615, EP: 0.7831291556358337	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][want][movie.][even][supposed][" so][movie.][would][spend][money][buy][pain... "])
+v(2,6,8,11,16,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37): 5.030567646026611, EP: 0.7563802003860474	 ([going][" babes][" )][weep.][watching][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(2,6,9,11,12,13,14,15,17,18,19,20,30,31,32,33,34,35,36,37): 4.747052192687988, EP: 0.7137517333030701	 ([going][" babes][make][weep.][throwing][window][would][better][movie.][even][supposed][" so][movie][burn][people][can't][see][it.][oh][pain,])
+v(0,1,2,3,4,5,6,7,10,11,17,18,19,20,30,31,32,33,34,35,36,37,38): 4.691926002502441, EP: 0.7054631114006042	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][want][weep.][movie.][even][supposed][" so][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(2,6,9,11,12,13,14,15,30,31,32,33,34,35,36,37): 4.6579108238220215, EP: 0.7003487348556519	 ([going][" babes][make][weep.][throwing][window][would][better][movie][burn][people][can't][see][it.][oh][pain,])
+v(8,9,12,13,14,15,17,18,19,20,24,25,26,27,28): 4.54447078704834, EP: 0.6832922101020813	 ([" )][make][throwing][window][would][better][movie.][even][supposed][" so][movie.][would][spend][money][buy])
+v(0,1,3,4,5,7,8,9,10,12,13,14,15,16,21,22,23,24,25,26,27,28,29,38): 4.486161708831787, EP: 0.6745250821113586	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][make][want][throwing][window][would][better][watching][bad][good]["][movie.][would][spend][money][buy][copies][pain... "])
+v(2,6,11,17,18,19,20,30,31,32,33,34,35,36,37): 4.464271545410156, EP: 0.6712337136268616	 ([going][" babes][weep.][movie.][even][supposed][" so][movie][burn][people][can't][see][it.][oh][pain,])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,24,25,26,27,28,30,31,32,33,34,35,36,37,38): 4.394135475158691, EP: 0.6606882810592651	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][make][want][weep.][throwing][window][would][better][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,15,17,18,19,20,30,31,32,33,34,35,36,37,38): 4.3685078620910645, EP: 0.6568350195884705	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][make][want][weep.][throwing][window][would][better][movie.][even][supposed][" so][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,3,4,5,7,10,17,18,19,20,38): 4.344229221343994, EP: 0.6531845331192017	 ([mere][thoughts][overboard]["][( aka][ahoy][want][movie.][even][supposed][" so][pain... "])
+v(8,9,12,13,14,15,24,25,26,27,28): 4.312600612640381, EP: 0.6484289765357971	 ([" )][make][throwing][window][would][better][movie.][would][spend][money][buy])
+v(16,17,18,19,20,21,22,23,29): 4.20225715637207, EP: 0.6318380832672119	 ([watching][movie.][even][supposed][" so][bad][good]["][copies])
+v(0,1,2,3,4,5,6,7,8,10,11,24,25,26,27,28,30,31,32,33,34,35,36,37,38): 4.17522668838501, EP: 0.6277738809585571	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][want][weep.][movie.][would][spend][money][buy][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(2,6,11,30,31,32,33,34,35,36,37): 4.056978225708008, EP: 0.6099944114685059	 ([going][" babes][weep.][movie][burn][people][can't][see][it.][oh][pain,])
+v(0,1,3,4,5,7,8,10,24,25,26,27,28,38): 4.036308765411377, EP: 0.606886625289917	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][want][movie.][would][spend][money][buy][pain... "])
+v(2,6,11,16,21,22,23,29,30,31,32,33,34,35,36,37): 3.735069751739502, EP: 0.561593234539032	 ([going][" babes][weep.][watching][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(9,12,13,14,15,17,18,19,20): 3.682465076446533, EP: 0.5536837577819824	 ([make][throwing][window][would][better][movie.][even][supposed][" so])
+v(2,6,9,11,12,13,14,15,16,21,22,23,29,30,31,32,33,34,35,36,37): 3.402709484100342, EP: 0.5116206407546997	 ([going][" babes][make][weep.][throwing][window][would][better][watching][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,])
+v(8,9,12,13,14,15,16,21,22,23,24,25,26,27,28,29): 3.211671829223633, EP: 0.4828968048095703	 ([" )][make][throwing][window][would][better][watching][bad][good]["][movie.][would][spend][money][buy][copies])
+v(0,1,2,3,4,5,6,7,10,11,30,31,32,33,34,35,36,37,38): 3.0699462890625, EP: 0.46158739924430847	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][want][weep.][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,3,4,5,7,9,10,12,13,14,15,38): 3.0306639671325684, EP: 0.4556810259819031	 ([mere][thoughts][overboard]["][( aka][ahoy][make][want][throwing][window][would][better][pain... "])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,15,30,31,32,33,34,35,36,37,38): 2.942845344543457, EP: 0.44247689843177795	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][make][want][weep.][throwing][window][would][better][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(8,17,18,19,20,24,25,26,27,28): 2.8022279739379883, EP: 0.4213341176509857	 ([" )][movie.][even][supposed][" so][movie.][would][spend][money][buy])
+v(0,1,3,4,5,7,8,10,16,21,22,23,24,25,26,27,28,29,38): 2.7269229888916016, EP: 0.41001150012016296	 ([mere][thoughts][overboard]["][( aka][ahoy][" )][want][watching][bad][good]["][movie.][would][spend][money][buy][copies][pain... "])
+v(8,16,21,22,23,24,25,26,27,28,29): 2.372929096221924, EP: 0.3567861020565033	 ([" )][watching][bad][good]["][movie.][would][spend][money][buy][copies])
+v(0,1,3,4,5,7,10,38): 2.2913522720336914, EP: 0.3445204794406891	 ([mere][thoughts][overboard]["][( aka][ahoy][want][pain... "])
+v(17,18,19,20): 2.179959297180176, EP: 0.32777178287506104	 ([movie.][even][supposed][" so])
+v(8,24,25,26,27,28): 2.049039840698242, EP: 0.30808714032173157	 ([" )][movie.][would][spend][money][buy])
+v(0,1,3,4,5,7,10,16,21,22,23,29,38): 1.8196772336959839, EP: 0.27360090613365173	 ([mere][thoughts][overboard]["][( aka][ahoy][want][watching][bad][good]["][copies][pain... "])
+v(0,1,3,4,5,7,9,10,12,13,14,15,16,21,22,23,29,38): 1.7600206136703491, EP: 0.26463112235069275	 ([mere][thoughts][overboard]["][( aka][ahoy][make][want][throwing][window][would][better][watching][bad][good]["][copies][pain... "])
+v(9,12,13,14,15): 1.6182059049606323, EP: 0.24330832064151764	 ([make][throwing][window][would][better])
+v(16,21,22,23,29): 1.5901628732681274, EP: 0.23909185826778412	 ([watching][bad][good]["][copies])
+v(0,1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,21,22,23,29,30,31,32,33,34,35,36,37,38): -1.3547158241271973, EP: -0.2036907821893692	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][make][want][weep.][throwing][window][would][better][watching][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(9,12,13,14,15,16,21,22,23,29): 1.2248824834823608, EP: 0.1841694563627243	 ([make][throwing][window][would][better][watching][bad][good]["][copies])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 1.1580795049667358, EP: 0.17412516474723816	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][make][want][weep.][throwing][window][would][better][watching][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,2,3,4,5,6,7,10,11,16,21,22,23,29,30,31,32,33,34,35,36,37,38): -0.6572465896606445, EP: -0.09882151335477829	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][want][weep.][watching][bad][good]["][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(0,1,2,3,4,5,6,7,8,10,11,16,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38): 0.06907594203948975, EP: 0.01038603950291872	 ([mere][thoughts][going][overboard]["][( aka][" babes][ahoy][" )][want][weep.][watching][bad][good]["][movie.][would][spend][money][buy][copies][movie][burn][people][can't][see][it.][oh][pain,][pain... "])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

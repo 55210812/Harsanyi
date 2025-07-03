@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['30', '38', '44', '37', '62', '29', '28']: ['dracula :', '2000.', 'dracula', 'dracula', 'dracula', 'rottentomatoes', '&']: 平均边权 1.2350
+社区 2: ['48', '46', '47']: ['following', 'real', 'strong']: 平均边权 0.7807
+社区 3: ['2', '49', '52', '16', '15', '42', '43', '17']: ['movie', 'movie', 'scores', 'craven', 'wes', 'wes', 'craven', 'series']: 平均边权 0.4494
+社区 4: ['36', '35', '45', '40', '39', '50', '41', '51', '31']: ['sequel', 'found', 'boards', 'noticed', 'also', 'big', 'within', 'contradiction', 'ascension,']: 平均边权 0.2201
+社区 5: ['13', '12', '11', '14']: ['user', 'saw', 'board', 'mention']: 平均边权 0.4168
+社区 6: ['5', '0', '4', '3', '1', '10', '6', '7']: ['seeing', 'even', 'shortly', 'existed', 'knew', 'trinity', 'blade :', 'trinity,']: 平均边权 0.2512
+社区 7: ['61', '56', '57', '58', '55', '23', '53', '59', '60', '54']: ['seeing', 'quick', 'personal', 'recap', 'take', 'quick', 'seeing.', 'here.', 'remember', "let's"]: 平均边权 0.3079
+社区 8: ['8', '20', '19', '27', '32', '25', '34', '21', '18', '22', '9', '24', '33', '26']: ['messing', "' crap '", 'better', 'imdb', 'somewhere', 'checked', 'search', "that's", 'lot', 'blade,', 'around', 'research :', 'along', 'scores']: 平均边权 0.2032

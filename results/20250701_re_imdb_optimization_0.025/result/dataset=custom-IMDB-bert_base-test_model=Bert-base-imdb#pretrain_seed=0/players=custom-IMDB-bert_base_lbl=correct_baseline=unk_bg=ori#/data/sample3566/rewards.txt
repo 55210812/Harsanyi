@@ -1,0 +1,84 @@
+---------- Players ----------
+Player 0: good!
+Player 1: rent
+Player 2: buy
+Player 3: original!
+Player 4: watch
+Player 5: someone
+Player 6: gun
+Player 7: head
+Player 8: then.... maybe.
+Player 9: like
+Player 10: claiming
+Player 11: elvis
+Player 12: actor
+Player 13: good
+Player 14: real
+Player 15: king.
+---------- Rewards ----------
+v(): -0.6811903119087219	 ([])
+v(8,9,10): 1.253749132156372	 ([then.... maybe.][like][claiming])
+v(2,3,11,12,14): -0.17726171016693115	 ([buy][original!][elvis][actor][real])
+v(0,13,15): 5.548450946807861	 ([good!][good][king.])
+v(1,7): -0.15682953596115112	 ([rent][head])
+v(4,5,6): 0.692190945148468	 ([watch][someone][gun])
+v(2,3,8,9,10,11,12,14): 4.925807476043701	 ([buy][original!][then.... maybe.][like][claiming][elvis][actor][real])
+v(0,8,9,10,13,15): 7.195226669311523	 ([good!][then.... maybe.][like][claiming][good][king.])
+v(1,7,8,9,10): 2.2594003677368164	 ([rent][head][then.... maybe.][like][claiming])
+v(4,5,6,8,9,10): 4.23797607421875	 ([watch][someone][gun][then.... maybe.][like][claiming])
+v(0,2,3,11,12,13,14,15): 6.299530982971191	 ([good!][buy][original!][elvis][actor][good][real][king.])
+v(1,2,3,7,11,12,14): 0.3179379105567932	 ([rent][buy][original!][head][elvis][actor][real])
+v(2,3,4,5,6,11,12,14): 2.3318030834198	 ([buy][original!][watch][someone][gun][elvis][actor][real])
+v(0,1,7,13,15): 5.789781093597412	 ([good!][rent][head][good][king.])
+v(0,4,5,6,13,15): 7.124876022338867	 ([good!][watch][someone][gun][good][king.])
+v(1,4,5,6,7): 0.36993637681007385	 ([rent][watch][someone][gun][head])
+v(0,2,3,8,9,10,11,12,13,14,15): 8.056208610534668	 ([good!][buy][original!][then.... maybe.][like][claiming][elvis][actor][good][real][king.])
+v(1,2,3,7,8,9,10,11,12,14): 4.959991931915283	 ([rent][buy][original!][head][then.... maybe.][like][claiming][elvis][actor][real])
+v(2,3,4,5,6,8,9,10,11,12,14): 6.616289138793945	 ([buy][original!][watch][someone][gun][then.... maybe.][like][claiming][elvis][actor][real])
+v(0,1,7,8,9,10,13,15): 7.642789840698242	 ([good!][rent][head][then.... maybe.][like][claiming][good][king.])
+v(0,4,5,6,8,9,10,13,15): 8.14983081817627	 ([good!][watch][someone][gun][then.... maybe.][like][claiming][good][king.])
+v(1,4,5,6,7,8,9,10): 4.779175281524658	 ([rent][watch][someone][gun][head][then.... maybe.][like][claiming])
+v(0,1,2,3,7,11,12,13,14,15): 6.567917346954346	 ([good!][rent][buy][original!][head][elvis][actor][good][real][king.])
+v(0,2,3,4,5,6,11,12,13,14,15): 7.160138130187988	 ([good!][buy][original!][watch][someone][gun][elvis][actor][good][real][king.])
+v(1,2,3,4,5,6,7,11,12,14): 3.391822576522827	 ([rent][buy][original!][watch][someone][gun][head][elvis][actor][real])
+v(0,1,4,5,6,7,13,15): 7.018476486206055	 ([good!][rent][watch][someone][gun][head][good][king.])
+v(0,1,2,3,7,8,9,10,11,12,13,14,15): 8.190744400024414	 ([good!][rent][buy][original!][head][then.... maybe.][like][claiming][elvis][actor][good][real][king.])
+v(0,2,3,4,5,6,8,9,10,11,12,13,14,15): 8.321435928344727	 ([good!][buy][original!][watch][someone][gun][then.... maybe.][like][claiming][elvis][actor][good][real][king.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,14): 6.8619384765625	 ([rent][buy][original!][watch][someone][gun][head][then.... maybe.][like][claiming][elvis][actor][real])
+v(0,1,4,5,6,7,8,9,10,13,15): 8.272186279296875	 ([good!][rent][watch][someone][gun][head][then.... maybe.][like][claiming][good][king.])
+v(0,1,2,3,4,5,6,7,11,12,13,14,15): 7.387243270874023	 ([good!][rent][buy][original!][watch][someone][gun][head][elvis][actor][good][real][king.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15): 8.356306076049805	 ([good!][rent][buy][original!][watch][someone][gun][head][then.... maybe.][like][claiming][elvis][actor][good][real][king.])
+---------- Rewards-v() ----------
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15): 9.037496566772461, EP: 1.0	 ([good!][rent][buy][original!][watch][someone][gun][head][then.... maybe.][like][claiming][elvis][actor][good][real][king.])
+v(0,2,3,4,5,6,8,9,10,11,12,13,14,15): 9.002626419067383, EP: 0.9961416125297546	 ([good!][buy][original!][watch][someone][gun][then.... maybe.][like][claiming][elvis][actor][good][real][king.])
+v(0,1,4,5,6,7,8,9,10,13,15): 8.953376770019531, EP: 0.990692138671875	 ([good!][rent][watch][someone][gun][head][then.... maybe.][like][claiming][good][king.])
+v(0,1,2,3,7,8,9,10,11,12,13,14,15): 8.87193489074707, EP: 0.9816805720329285	 ([good!][rent][buy][original!][head][then.... maybe.][like][claiming][elvis][actor][good][real][king.])
+v(0,4,5,6,8,9,10,13,15): 8.831021308898926, EP: 0.977153480052948	 ([good!][watch][someone][gun][then.... maybe.][like][claiming][good][king.])
+v(0,2,3,8,9,10,11,12,13,14,15): 8.737399101257324, EP: 0.9667941927909851	 ([good!][buy][original!][then.... maybe.][like][claiming][elvis][actor][good][real][king.])
+v(0,1,7,8,9,10,13,15): 8.323980331420898, EP: 0.9210493564605713	 ([good!][rent][head][then.... maybe.][like][claiming][good][king.])
+v(0,1,2,3,4,5,6,7,11,12,13,14,15): 8.06843376159668, EP: 0.8927730917930603	 ([good!][rent][buy][original!][watch][someone][gun][head][elvis][actor][good][real][king.])
+v(0,8,9,10,13,15): 7.87641716003418, EP: 0.8715264201164246	 ([good!][then.... maybe.][like][claiming][good][king.])
+v(0,2,3,4,5,6,11,12,13,14,15): 7.8413286209106445, EP: 0.8676438927650452	 ([good!][buy][original!][watch][someone][gun][elvis][actor][good][real][king.])
+v(0,4,5,6,13,15): 7.806066513061523, EP: 0.8637421131134033	 ([good!][watch][someone][gun][good][king.])
+v(0,1,4,5,6,7,13,15): 7.699666976928711, EP: 0.8519690036773682	 ([good!][rent][watch][someone][gun][head][good][king.])
+v(1,2,3,4,5,6,7,8,9,10,11,12,14): 7.543128967285156, EP: 0.834648072719574	 ([rent][buy][original!][watch][someone][gun][head][then.... maybe.][like][claiming][elvis][actor][real])
+v(2,3,4,5,6,8,9,10,11,12,14): 7.297479629516602, EP: 0.8074669241905212	 ([buy][original!][watch][someone][gun][then.... maybe.][like][claiming][elvis][actor][real])
+v(0,1,2,3,7,11,12,13,14,15): 7.249107837677002, EP: 0.8021146059036255	 ([good!][rent][buy][original!][head][elvis][actor][good][real][king.])
+v(0,2,3,11,12,13,14,15): 6.980721473693848, EP: 0.7724176049232483	 ([good!][buy][original!][elvis][actor][good][real][king.])
+v(0,1,7,13,15): 6.470971584320068, EP: 0.7160137295722961	 ([good!][rent][head][good][king.])
+v(0,13,15): 6.229641437530518, EP: 0.6893104910850525	 ([good!][good][king.])
+v(1,2,3,7,8,9,10,11,12,14): 5.6411824226379395, EP: 0.6241974830627441	 ([rent][buy][original!][head][then.... maybe.][like][claiming][elvis][actor][real])
+v(2,3,8,9,10,11,12,14): 5.606997966766357, EP: 0.6204149723052979	 ([buy][original!][then.... maybe.][like][claiming][elvis][actor][real])
+v(1,4,5,6,7,8,9,10): 5.4603657722473145, EP: 0.6041900515556335	 ([rent][watch][someone][gun][head][then.... maybe.][like][claiming])
+v(4,5,6,8,9,10): 4.919166564941406, EP: 0.5443063378334045	 ([watch][someone][gun][then.... maybe.][like][claiming])
+v(1,2,3,4,5,6,7,11,12,14): 4.073012828826904, EP: 0.45067933201789856	 ([rent][buy][original!][watch][someone][gun][head][elvis][actor][real])
+v(2,3,4,5,6,11,12,14): 3.012993335723877, EP: 0.3333880603313446	 ([buy][original!][watch][someone][gun][elvis][actor][real])
+v(1,7,8,9,10): 2.9405906200408936, EP: 0.3253766894340515	 ([rent][head][then.... maybe.][like][claiming])
+v(8,9,10): 1.9349393844604492, EP: 0.21410125494003296	 ([then.... maybe.][like][claiming])
+v(4,5,6): 1.37338125705719, EP: 0.15196478366851807	 ([watch][someone][gun])
+v(1,4,5,6,7): 1.0511267185211182, EP: 0.11630728840827942	 ([rent][watch][someone][gun][head])
+v(1,2,3,7,11,12,14): 0.9991282224655151, EP: 0.11055365204811096	 ([rent][buy][original!][head][elvis][actor][real])
+v(1,7): 0.5243607759475708, EP: 0.05802057683467865	 ([rent][head])
+v(2,3,11,12,14): 0.5039286017417908, EP: 0.05575975403189659	 ([buy][original!][elvis][actor][real])
+v(): 0.0, EP: 0.0	 ([])
+==================================================

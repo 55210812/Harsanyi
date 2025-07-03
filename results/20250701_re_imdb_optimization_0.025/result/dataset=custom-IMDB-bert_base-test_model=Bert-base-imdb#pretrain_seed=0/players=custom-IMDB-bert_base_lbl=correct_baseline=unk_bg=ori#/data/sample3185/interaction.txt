@@ -1,0 +1,42 @@
+---------- Players ----------
+Player 0: good
+Player 1: story
+Player 2: film
+Player 3: done
+Player 4: properly
+Player 5: would
+Player 6: quite
+Player 7: interesting,
+Player 8: hell
+Player 9: ending
+Player 10: film?
+Player 11: fact,
+Player 12: point
+Player 13: it?
+Player 14: scenes
+Player 15: zip
+Player 16: quick
+Player 17: felt
+Player 18: part
+Player 19: film
+Player 20: emotionally,
+Player 21: feeling
+Player 22: detached
+Player 23: understanding
+Player 24: storyline.
+Player 25: performances
+Player 26: cast
+Player 27: questionable,
+Player 28: believable.
+Player 29: miss
+Player 30: conclusion
+Player 31: somewhere
+Player 32: film?
+Player 33: guess
+Player 34: wait
+Player 35: sequel.
+---------- AND Interactions (Pairwise Only) ----------
+I(30,32): 1.4442620277404785	 ([conclusion][film?])
+I(27,28): 0.2600882351398468	 ([questionable,][believable.])
+Sum: 1.7043502628803253
+==================================================

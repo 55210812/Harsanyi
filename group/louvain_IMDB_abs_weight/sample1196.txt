@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['49', '40', '47', '55', '48', '50', '53', '42', '51']: ['miss', 'characters', 'midsomer', 'antidote', 'murder', 'marple', 'mayhem.', 'scandal', 'mystery,']: 平均边权 0.6517
+社区 2: ['20', '18', '21', '16', '15', '22', '14', '17']: ['explosive', 'intensity', 'love', 'heart', 'tore', 'life.', 'movie', 'reminding']: 平均边权 0.6340
+社区 3: ['56', '57', '58', '52', '59', '60', '54', '7']: ['mock', 'horror', 'currently', 'without', 'popular', 'usa', 'great', 'porn']: 平均边权 0.7551
+社区 4: ['9', '33', '35', '32', '34']: ['even', 'giddy', 'well.', 'captures', 'joy']: 平均边权 1.1582
+社区 5: ['23', '27', '24', '25', '26', '28']: ['think', 'except', 'think', 'another', 'movie,', 'perhaps']: 平均边权 0.6190
+社区 6: ['30', '29', '6', '31']: ['romeo', "zeffirelli's", 'male', 'juliet']: 平均边权 0.5301
+社区 7: ['38', '19', '36', '46', '45', '39', '41', '44', '43']: ['english', 'big', 'draw', 'appeal', 'much', 'eccentric', 'enjoying', 'sense', 'vicariously.']: 平均边权 0.3638
+社区 8: ['2', '12', '8', '5', '0', '13', '4', '11', '3', '37', '1', '10']: ['jed', 'pants', 'star,', 'role', 'kenny', 'on.', 'sexier', 'keeps', 'willis', 'movie', 'doughty', 'though']: 平均边权 0.2739

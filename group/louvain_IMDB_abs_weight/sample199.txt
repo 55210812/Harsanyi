@@ -1,0 +1,9 @@
+louvain社区检测结果:
+社区 1: ['4', '50', '48', '46', '51', '49']: ['movies', 'even', 'running', 'movie', 'dysfunctional', 'scissors']: 平均边权 0.9633
+社区 2: ['8', '14', '19', '13', '25', '7', '16', '11', '15', '9', '10', '6', '28']: ['movie', 'book', 'made', 'follows', 'book', 'worst', 'raises', 'seen.', 'closely,', "i've", 'ever', 'arguably', 'once.']: 平均边权 0.6272
+社区 3: ['38', '27', '36', '35', '24', '34', '18', '40', '37', '43', '33', '26']: ['considering', 'question', 'disturbing ;', 'funny,', 'experiences', 'happen', 'everything', 'true.', 'especially', 'royal', 'things', 'called']: 平均边权 0.7514
+社区 4: ['53', '54', '45', '52', '47']: ['funny.', 'never', 'another', 'less', 'hated,']: 平均边权 0.8107
+社区 5: ['2', '5', '3', '0', '1']: ['fan.', 'types.', 'like', 'big', 'movie']: 平均边权 0.6289
+社区 6: ['32', '29', '39', '30', '41', '42', '44', '31']: ['ill.', 'characters', 'supposed', 'quirky,', 'movie', 'feel', 'tenenbaums,', 'mentally']: 平均边权 0.3841
+社区 7: ['12', '55']: ['get', 'get']: 平均边权 0.2644
+社区 8: ['20', '23', '22', '21', '17']: ['movie.', 'authenticity', 'since', 'especially', 'point']: 平均边权 0.2339

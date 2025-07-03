@@ -1,0 +1,160 @@
+---------- Players ----------
+Player 0: nobody
+Player 1: said
+Player 2: movies
+Player 3: realistic
+Player 4: they?
+Player 5: really
+Player 6: liked
+Player 7: movie
+Player 8: remember
+Player 9: first
+Player 10: saw
+Player 11: junior
+Player 12: high.
+Player 13: kids
+Player 14: remember
+Player 15: pmrc
+Player 16: albums
+Player 17: warning
+Player 18: stickers,
+Player 19: cool
+Player 20: story
+Player 21: kids
+Player 22: part
+Player 23: mid
+Player 24: late
+Player 25: 80's
+Player 26: headbanger
+Player 27: crowd.
+---------- Rewards ----------
+v(): 0.9463041424751282	 ([])
+v(5,18,19,25): 4.003839015960693	 ([really][stickers,][cool][80's])
+v(12,14,15,16,17,20): 5.287784576416016	 ([high.][remember][pmrc][albums][warning][story])
+v(0,2,3,4,6,8): 5.041722774505615	 ([nobody][movies][realistic][they?][liked][remember])
+v(10,11,21,22,23,24): 2.670764446258545	 ([saw][junior][kids][part][mid][late])
+v(7,9,13): 3.997046947479248	 ([movie][first][kids])
+v(1,26,27): 0.45397427678108215	 ([said][headbanger][crowd.])
+v(5,12,14,15,16,17,18,19,20,25): 6.379879951477051	 ([really][high.][remember][pmrc][albums][warning][stickers,][cool][story][80's])
+v(0,2,3,4,5,6,8,18,19,25): 4.205887317657471	 ([nobody][movies][realistic][they?][really][liked][remember][stickers,][cool][80's])
+v(5,10,11,18,19,21,22,23,24,25): 3.9878458976745605	 ([really][saw][junior][stickers,][cool][kids][part][mid][late][80's])
+v(5,7,9,13,18,19,25): 5.010767936706543	 ([really][movie][first][kids][stickers,][cool][80's])
+v(1,5,18,19,25,26,27): 3.7436842918395996	 ([said][really][stickers,][cool][80's][headbanger][crowd.])
+v(0,2,3,4,6,8,12,14,15,16,17,20): 6.601221084594727	 ([nobody][movies][realistic][they?][liked][remember][high.][remember][pmrc][albums][warning][story])
+v(10,11,12,14,15,16,17,20,21,22,23,24): 7.574460983276367	 ([saw][junior][high.][remember][pmrc][albums][warning][story][kids][part][mid][late])
+v(7,9,12,13,14,15,16,17,20): 7.190522193908691	 ([movie][first][high.][kids][remember][pmrc][albums][warning][story])
+v(1,12,14,15,16,17,20,26,27): 5.41023063659668	 ([said][high.][remember][pmrc][albums][warning][story][headbanger][crowd.])
+v(0,2,3,4,6,8,10,11,21,22,23,24): 6.035402297973633	 ([nobody][movies][realistic][they?][liked][remember][saw][junior][kids][part][mid][late])
+v(0,2,3,4,6,7,8,9,13): 5.740498065948486	 ([nobody][movies][realistic][they?][liked][movie][remember][first][kids])
+v(0,1,2,3,4,6,8,26,27): 4.5831708908081055	 ([nobody][said][movies][realistic][they?][liked][remember][headbanger][crowd.])
+v(7,9,10,11,13,21,22,23,24): 4.924308776855469	 ([movie][first][saw][junior][kids][kids][part][mid][late])
+v(1,10,11,21,22,23,24,26,27): 1.5520989894866943	 ([said][saw][junior][kids][part][mid][late][headbanger][crowd.])
+v(1,7,9,13,26,27): 3.3936986923217773	 ([said][movie][first][kids][headbanger][crowd.])
+v(0,2,3,4,5,6,8,12,14,15,16,17,18,19,20,25): 5.918229579925537	 ([nobody][movies][realistic][they?][really][liked][remember][high.][remember][pmrc][albums][warning][stickers,][cool][story][80's])
+v(5,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25): 6.999616622924805	 ([really][saw][junior][high.][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's])
+v(5,7,9,12,13,14,15,16,17,18,19,20,25): 7.016437530517578	 ([really][movie][first][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][80's])
+v(1,5,12,14,15,16,17,18,19,20,25,26,27): 6.283276081085205	 ([said][really][high.][remember][pmrc][albums][warning][stickers,][cool][story][80's][headbanger][crowd.])
+v(0,2,3,4,5,6,8,10,11,18,19,21,22,23,24,25): 5.1632585525512695	 ([nobody][movies][realistic][they?][really][liked][remember][saw][junior][stickers,][cool][kids][part][mid][late][80's])
+v(0,2,3,4,5,6,7,8,9,13,18,19,25): 4.482541561126709	 ([nobody][movies][realistic][they?][really][liked][movie][remember][first][kids][stickers,][cool][80's])
+v(0,1,2,3,4,5,6,8,18,19,25,26,27): 4.161018371582031	 ([nobody][said][movies][realistic][they?][really][liked][remember][stickers,][cool][80's][headbanger][crowd.])
+v(5,7,9,10,11,13,18,19,21,22,23,24,25): 5.4598870277404785	 ([really][movie][first][saw][junior][kids][stickers,][cool][kids][part][mid][late][80's])
+v(1,5,10,11,18,19,21,22,23,24,25,26,27): 3.819310188293457	 ([said][really][saw][junior][stickers,][cool][kids][part][mid][late][80's][headbanger][crowd.])
+v(1,5,7,9,13,18,19,25,26,27): 4.612165451049805	 ([said][really][movie][first][kids][stickers,][cool][80's][headbanger][crowd.])
+v(0,2,3,4,6,8,10,11,12,14,15,16,17,20,21,22,23,24): 7.312044143676758	 ([nobody][movies][realistic][they?][liked][remember][saw][junior][high.][remember][pmrc][albums][warning][story][kids][part][mid][late])
+v(0,2,3,4,6,7,8,9,12,13,14,15,16,17,20): 6.712749481201172	 ([nobody][movies][realistic][they?][liked][movie][remember][first][high.][kids][remember][pmrc][albums][warning][story])
+v(0,1,2,3,4,6,8,12,14,15,16,17,20,26,27): 6.27025032043457	 ([nobody][said][movies][realistic][they?][liked][remember][high.][remember][pmrc][albums][warning][story][headbanger][crowd.])
+v(7,9,10,11,12,13,14,15,16,17,20,21,22,23,24): 7.911106109619141	 ([movie][first][saw][junior][high.][kids][remember][pmrc][albums][warning][story][kids][part][mid][late])
+v(1,10,11,12,14,15,16,17,20,21,22,23,24,26,27): 7.130870819091797	 ([said][saw][junior][high.][remember][pmrc][albums][warning][story][kids][part][mid][late][headbanger][crowd.])
+v(1,7,9,12,13,14,15,16,17,20,26,27): 7.083327770233154	 ([said][movie][first][high.][kids][remember][pmrc][albums][warning][story][headbanger][crowd.])
+v(0,2,3,4,6,7,8,9,10,11,13,21,22,23,24): 6.209686279296875	 ([nobody][movies][realistic][they?][liked][movie][remember][first][saw][junior][kids][kids][part][mid][late])
+v(0,1,2,3,4,6,8,10,11,21,22,23,24,26,27): 5.664572715759277	 ([nobody][said][movies][realistic][they?][liked][remember][saw][junior][kids][part][mid][late][headbanger][crowd.])
+v(0,1,2,3,4,6,7,8,9,13,26,27): 5.273097991943359	 ([nobody][said][movies][realistic][they?][liked][movie][remember][first][kids][headbanger][crowd.])
+v(1,7,9,10,11,13,21,22,23,24,26,27): 4.113491535186768	 ([said][movie][first][saw][junior][kids][kids][part][mid][late][headbanger][crowd.])
+v(0,2,3,4,5,6,8,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25): 6.5302557945251465	 ([nobody][movies][realistic][they?][really][liked][remember][saw][junior][high.][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's])
+v(0,2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20,25): 5.7425432205200195	 ([nobody][movies][realistic][they?][really][liked][movie][remember][first][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][80's])
+v(0,1,2,3,4,5,6,8,12,14,15,16,17,18,19,20,25,26,27): 5.678946495056152	 ([nobody][said][movies][realistic][they?][really][liked][remember][high.][remember][pmrc][albums][warning][stickers,][cool][story][80's][headbanger][crowd.])
+v(5,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 7.219121932983398	 ([really][movie][first][saw][junior][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's])
+v(1,5,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 6.9423418045043945	 ([said][really][saw][junior][high.][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's][headbanger][crowd.])
+v(1,5,7,9,12,13,14,15,16,17,18,19,20,25,26,27): 6.741147518157959	 ([said][really][movie][first][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][80's][headbanger][crowd.])
+v(0,2,3,4,5,6,7,8,9,10,11,13,18,19,21,22,23,24,25): 4.999974250793457	 ([nobody][movies][realistic][they?][really][liked][movie][remember][first][saw][junior][kids][stickers,][cool][kids][part][mid][late][80's])
+v(0,1,2,3,4,5,6,8,10,11,18,19,21,22,23,24,25,26,27): 5.36865234375	 ([nobody][said][movies][realistic][they?][really][liked][remember][saw][junior][stickers,][cool][kids][part][mid][late][80's][headbanger][crowd.])
+v(0,1,2,3,4,5,6,7,8,9,13,18,19,25,26,27): 4.231274604797363	 ([nobody][said][movies][realistic][they?][really][liked][movie][remember][first][kids][stickers,][cool][80's][headbanger][crowd.])
+v(1,5,7,9,10,11,13,18,19,21,22,23,24,25,26,27): 4.968278884887695	 ([said][really][movie][first][saw][junior][kids][stickers,][cool][kids][part][mid][late][80's][headbanger][crowd.])
+v(0,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,20,21,22,23,24): 6.941388130187988	 ([nobody][movies][realistic][they?][liked][movie][remember][first][saw][junior][high.][kids][remember][pmrc][albums][warning][story][kids][part][mid][late])
+v(0,1,2,3,4,6,8,10,11,12,14,15,16,17,20,21,22,23,24,26,27): 6.914098262786865	 ([nobody][said][movies][realistic][they?][liked][remember][saw][junior][high.][remember][pmrc][albums][warning][story][kids][part][mid][late][headbanger][crowd.])
+v(0,1,2,3,4,6,7,8,9,12,13,14,15,16,17,20,26,27): 6.293739318847656	 ([nobody][said][movies][realistic][they?][liked][movie][remember][first][high.][kids][remember][pmrc][albums][warning][story][headbanger][crowd.])
+v(1,7,9,10,11,12,13,14,15,16,17,20,21,22,23,24,26,27): 7.632199287414551	 ([said][movie][first][saw][junior][high.][kids][remember][pmrc][albums][warning][story][kids][part][mid][late][headbanger][crowd.])
+v(0,1,2,3,4,6,7,8,9,10,11,13,21,22,23,24,26,27): 5.628725528717041	 ([nobody][said][movies][realistic][they?][liked][movie][remember][first][saw][junior][kids][kids][part][mid][late][headbanger][crowd.])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 5.777214050292969	 ([nobody][movies][realistic][they?][really][liked][movie][remember][first][saw][junior][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's])
+v(0,1,2,3,4,5,6,8,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 6.60169792175293	 ([nobody][said][movies][realistic][they?][really][liked][remember][saw][junior][high.][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's][headbanger][crowd.])
+v(0,1,2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20,25,26,27): 5.404099464416504	 ([nobody][said][movies][realistic][they?][really][liked][movie][remember][first][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][80's][headbanger][crowd.])
+v(1,5,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 7.14348030090332	 ([said][really][movie][first][saw][junior][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's][headbanger][crowd.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,18,19,21,22,23,24,25,26,27): 4.413828372955322	 ([nobody][said][movies][realistic][they?][really][liked][movie][remember][first][saw][junior][kids][stickers,][cool][kids][part][mid][late][80's][headbanger][crowd.])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,20,21,22,23,24,26,27): 6.24001932144165	 ([nobody][said][movies][realistic][they?][liked][movie][remember][first][saw][junior][high.][kids][remember][pmrc][albums][warning][story][kids][part][mid][late][headbanger][crowd.])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 4.8221435546875	 ([nobody][said][movies][realistic][they?][really][liked][movie][remember][first][saw][junior][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's][headbanger][crowd.])
+---------- Rewards-v() ----------
+v(7,9,10,11,12,13,14,15,16,17,20,21,22,23,24): 6.964801788330078, EP: 1.7969789505004883	 ([movie][first][saw][junior][high.][kids][remember][pmrc][albums][warning][story][kids][part][mid][late])
+v(1,7,9,10,11,12,13,14,15,16,17,20,21,22,23,24,26,27): 6.685894966125488, EP: 1.7250185012817383	 ([said][movie][first][saw][junior][high.][kids][remember][pmrc][albums][warning][story][kids][part][mid][late][headbanger][crowd.])
+v(10,11,12,14,15,16,17,20,21,22,23,24): 6.628156661987305, EP: 1.710121512413025	 ([saw][junior][high.][remember][pmrc][albums][warning][story][kids][part][mid][late])
+v(0,2,3,4,6,8,10,11,12,14,15,16,17,20,21,22,23,24): 6.365739822387695, EP: 1.6424157619476318	 ([nobody][movies][realistic][they?][liked][remember][saw][junior][high.][remember][pmrc][albums][warning][story][kids][part][mid][late])
+v(5,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 6.272817611694336, EP: 1.6184409856796265	 ([really][movie][first][saw][junior][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's])
+v(7,9,12,13,14,15,16,17,20): 6.244217872619629, EP: 1.6110620498657227	 ([movie][first][high.][kids][remember][pmrc][albums][warning][story])
+v(1,5,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 6.197175979614258, EP: 1.5989248752593994	 ([said][really][movie][first][saw][junior][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's][headbanger][crowd.])
+v(1,10,11,12,14,15,16,17,20,21,22,23,24,26,27): 6.184566497802734, EP: 1.595671534538269	 ([said][saw][junior][high.][remember][pmrc][albums][warning][story][kids][part][mid][late][headbanger][crowd.])
+v(1,7,9,12,13,14,15,16,17,20,26,27): 6.137023448944092, EP: 1.5834050178527832	 ([said][movie][first][high.][kids][remember][pmrc][albums][warning][story][headbanger][crowd.])
+v(5,7,9,12,13,14,15,16,17,18,19,20,25): 6.070133209228516, EP: 1.566146731376648	 ([really][movie][first][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][80's])
+v(5,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25): 6.053312301635742, EP: 1.5618067979812622	 ([really][saw][junior][high.][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's])
+v(1,5,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 5.996037483215332, EP: 1.5470293760299683	 ([said][really][saw][junior][high.][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's][headbanger][crowd.])
+v(0,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,20,21,22,23,24): 5.995083808898926, EP: 1.5467833280563354	 ([nobody][movies][realistic][they?][liked][movie][remember][first][saw][junior][high.][kids][remember][pmrc][albums][warning][story][kids][part][mid][late])
+v(0,1,2,3,4,6,8,10,11,12,14,15,16,17,20,21,22,23,24,26,27): 5.967793941497803, EP: 1.5397422313690186	 ([nobody][said][movies][realistic][they?][liked][remember][saw][junior][high.][remember][pmrc][albums][warning][story][kids][part][mid][late][headbanger][crowd.])
+v(1,5,7,9,12,13,14,15,16,17,18,19,20,25,26,27): 5.7948431968688965, EP: 1.4951194524765015	 ([said][really][movie][first][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][80's][headbanger][crowd.])
+v(0,2,3,4,6,7,8,9,12,13,14,15,16,17,20): 5.766445159912109, EP: 1.4877926111221313	 ([nobody][movies][realistic][they?][liked][movie][remember][first][high.][kids][remember][pmrc][albums][warning][story])
+v(0,1,2,3,4,5,6,8,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 5.655393600463867, EP: 1.4591403007507324	 ([nobody][said][movies][realistic][they?][really][liked][remember][saw][junior][high.][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's][headbanger][crowd.])
+v(0,2,3,4,6,8,12,14,15,16,17,20): 5.654916763305664, EP: 1.459017276763916	 ([nobody][movies][realistic][they?][liked][remember][high.][remember][pmrc][albums][warning][story])
+v(0,2,3,4,5,6,8,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25): 5.583951473236084, EP: 1.4407075643539429	 ([nobody][movies][realistic][they?][really][liked][remember][saw][junior][high.][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's])
+v(5,12,14,15,16,17,18,19,20,25): 5.433575630187988, EP: 1.401909351348877	 ([really][high.][remember][pmrc][albums][warning][stickers,][cool][story][80's])
+v(0,1,2,3,4,6,7,8,9,12,13,14,15,16,17,20,26,27): 5.347434997558594, EP: 1.379684329032898	 ([nobody][said][movies][realistic][they?][liked][movie][remember][first][high.][kids][remember][pmrc][albums][warning][story][headbanger][crowd.])
+v(1,5,12,14,15,16,17,18,19,20,25,26,27): 5.336971759796143, EP: 1.376984715461731	 ([said][really][high.][remember][pmrc][albums][warning][stickers,][cool][story][80's][headbanger][crowd.])
+v(0,1,2,3,4,6,8,12,14,15,16,17,20,26,27): 5.323945999145508, EP: 1.3736239671707153	 ([nobody][said][movies][realistic][they?][liked][remember][high.][remember][pmrc][albums][warning][story][headbanger][crowd.])
+v(0,1,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,20,21,22,23,24,26,27): 5.293715000152588, EP: 1.3658241033554077	 ([nobody][said][movies][realistic][they?][liked][movie][remember][first][saw][junior][high.][kids][remember][pmrc][albums][warning][story][kids][part][mid][late][headbanger][crowd.])
+v(0,2,3,4,6,7,8,9,10,11,13,21,22,23,24): 5.2633819580078125, EP: 1.3579978942871094	 ([nobody][movies][realistic][they?][liked][movie][remember][first][saw][junior][kids][kids][part][mid][late])
+v(0,2,3,4,6,8,10,11,21,22,23,24): 5.08909797668457, EP: 1.3130311965942383	 ([nobody][movies][realistic][they?][liked][remember][saw][junior][kids][part][mid][late])
+v(0,2,3,4,5,6,8,12,14,15,16,17,18,19,20,25): 4.971925258636475, EP: 1.2827996015548706	 ([nobody][movies][realistic][they?][really][liked][remember][high.][remember][pmrc][albums][warning][stickers,][cool][story][80's])
+v(0,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25): 4.830909729003906, EP: 1.2464163303375244	 ([nobody][movies][realistic][they?][really][liked][movie][remember][first][saw][junior][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's])
+v(0,2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20,25): 4.796238899230957, EP: 1.2374709844589233	 ([nobody][movies][realistic][they?][really][liked][movie][remember][first][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][80's])
+v(0,2,3,4,6,7,8,9,13): 4.794193744659424, EP: 1.2369433641433716	 ([nobody][movies][realistic][they?][liked][movie][remember][first][kids])
+v(0,1,2,3,4,5,6,8,12,14,15,16,17,18,19,20,25,26,27): 4.73264217376709, EP: 1.2210625410079956	 ([nobody][said][movies][realistic][they?][really][liked][remember][high.][remember][pmrc][albums][warning][stickers,][cool][story][80's][headbanger][crowd.])
+v(0,1,2,3,4,6,8,10,11,21,22,23,24,26,27): 4.718268394470215, EP: 1.2173539400100708	 ([nobody][said][movies][realistic][they?][liked][remember][saw][junior][kids][part][mid][late][headbanger][crowd.])
+v(0,1,2,3,4,6,7,8,9,10,11,13,21,22,23,24,26,27): 4.6824212074279785, EP: 1.2081050872802734	 ([nobody][said][movies][realistic][they?][liked][movie][remember][first][saw][junior][kids][kids][part][mid][late][headbanger][crowd.])
+v(5,7,9,10,11,13,18,19,21,22,23,24,25): 4.513582706451416, EP: 1.1645432710647583	 ([really][movie][first][saw][junior][kids][stickers,][cool][kids][part][mid][late][80's])
+v(1,12,14,15,16,17,20,26,27): 4.463926315307617, EP: 1.1517314910888672	 ([said][high.][remember][pmrc][albums][warning][story][headbanger][crowd.])
+v(0,1,2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20,25,26,27): 4.457795143127441, EP: 1.1501495838165283	 ([nobody][said][movies][realistic][they?][really][liked][movie][remember][first][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][80's][headbanger][crowd.])
+v(0,1,2,3,4,5,6,8,10,11,18,19,21,22,23,24,25,26,27): 4.4223480224609375, EP: 1.141003966331482	 ([nobody][said][movies][realistic][they?][really][liked][remember][saw][junior][stickers,][cool][kids][part][mid][late][80's][headbanger][crowd.])
+v(12,14,15,16,17,20): 4.341480255126953, EP: 1.1201393604278564	 ([high.][remember][pmrc][albums][warning][story])
+v(0,1,2,3,4,6,7,8,9,13,26,27): 4.326793670654297, EP: 1.1163500547409058	 ([nobody][said][movies][realistic][they?][liked][movie][remember][first][kids][headbanger][crowd.])
+v(0,2,3,4,5,6,8,10,11,18,19,21,22,23,24,25): 4.216954231262207, EP: 1.088010549545288	 ([nobody][movies][realistic][they?][really][liked][remember][saw][junior][stickers,][cool][kids][part][mid][late][80's])
+v(0,2,3,4,6,8): 4.095418453216553, EP: 1.0566532611846924	 ([nobody][movies][realistic][they?][liked][remember])
+v(5,7,9,13,18,19,25): 4.0644636154174805, EP: 1.0486665964126587	 ([really][movie][first][kids][stickers,][cool][80's])
+v(0,2,3,4,5,6,7,8,9,10,11,13,18,19,21,22,23,24,25): 4.0536699295043945, EP: 1.045881748199463	 ([nobody][movies][realistic][they?][really][liked][movie][remember][first][saw][junior][kids][stickers,][cool][kids][part][mid][late][80's])
+v(1,5,7,9,10,11,13,18,19,21,22,23,24,25,26,27): 4.021974563598633, EP: 1.0377041101455688	 ([said][really][movie][first][saw][junior][kids][stickers,][cool][kids][part][mid][late][80's][headbanger][crowd.])
+v(7,9,10,11,13,21,22,23,24): 3.9780046939849854, EP: 1.0263595581054688	 ([movie][first][saw][junior][kids][kids][part][mid][late])
+v(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27): 3.8758394718170166, EP: 1.0	 ([nobody][said][movies][realistic][they?][really][liked][movie][remember][first][saw][junior][high.][kids][remember][pmrc][albums][warning][stickers,][cool][story][kids][part][mid][late][80's][headbanger][crowd.])
+v(1,5,7,9,13,18,19,25,26,27): 3.6658613681793213, EP: 0.9458238482475281	 ([said][really][movie][first][kids][stickers,][cool][80's][headbanger][crowd.])
+v(0,1,2,3,4,6,8,26,27): 3.636866807937622, EP: 0.9383429884910583	 ([nobody][said][movies][realistic][they?][liked][remember][headbanger][crowd.])
+v(0,2,3,4,5,6,7,8,9,13,18,19,25): 3.5362374782562256, EP: 0.9123797416687012	 ([nobody][movies][realistic][they?][really][liked][movie][remember][first][kids][stickers,][cool][80's])
+v(0,1,2,3,4,5,6,7,8,9,10,11,13,18,19,21,22,23,24,25,26,27): 3.467524290084839, EP: 0.8946511745452881	 ([nobody][said][movies][realistic][they?][really][liked][movie][remember][first][saw][junior][kids][stickers,][cool][kids][part][mid][late][80's][headbanger][crowd.])
+v(0,1,2,3,4,5,6,7,8,9,13,18,19,25,26,27): 3.28497052192688, EP: 0.8475506901741028	 ([nobody][said][movies][realistic][they?][really][liked][movie][remember][first][kids][stickers,][cool][80's][headbanger][crowd.])
+v(0,2,3,4,5,6,8,18,19,25): 3.2595832347869873, EP: 0.8410005569458008	 ([nobody][movies][realistic][they?][really][liked][remember][stickers,][cool][80's])
+v(0,1,2,3,4,5,6,8,18,19,25,26,27): 3.214714288711548, EP: 0.8294240236282349	 ([nobody][said][movies][realistic][they?][really][liked][remember][stickers,][cool][80's][headbanger][crowd.])
+v(1,7,9,10,11,13,21,22,23,24,26,27): 3.167187452316284, EP: 0.8171616792678833	 ([said][movie][first][saw][junior][kids][kids][part][mid][late][headbanger][crowd.])
+v(5,18,19,25): 3.05753493309021, EP: 0.7888703942298889	 ([really][stickers,][cool][80's])
+v(7,9,13): 3.0507428646087646, EP: 0.7871179580688477	 ([movie][first][kids])
+v(5,10,11,18,19,21,22,23,24,25): 3.041541814804077, EP: 0.7847440242767334	 ([really][saw][junior][stickers,][cool][kids][part][mid][late][80's])
+v(1,5,10,11,18,19,21,22,23,24,25,26,27): 2.8730061054229736, EP: 0.7412603497505188	 ([said][really][saw][junior][stickers,][cool][kids][part][mid][late][80's][headbanger][crowd.])
+v(1,5,18,19,25,26,27): 2.797380208969116, EP: 0.7217482328414917	 ([said][really][stickers,][cool][80's][headbanger][crowd.])
+v(1,7,9,13,26,27): 2.447394609451294, EP: 0.6314489245414734	 ([said][movie][first][kids][headbanger][crowd.])
+v(10,11,21,22,23,24): 1.7244603633880615, EP: 0.4449256360530853	 ([saw][junior][kids][part][mid][late])
+v(1,10,11,21,22,23,24,26,27): 0.6057948470115662, EP: 0.15630029141902924	 ([said][saw][junior][kids][part][mid][late][headbanger][crowd.])
+v(1,26,27): -0.492329865694046, EP: -0.12702535092830658	 ([said][headbanger][crowd.])
+v(): 0.0, EP: 0.0	 ([])
+==================================================
